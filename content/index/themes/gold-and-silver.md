@@ -3,37 +3,17 @@ title: Gold and silver
 greek: χρυσός, ἄργυρος
 kind: theme
 tags: [divine-object, sacred-object]
-summary: In Book 1 gold and silver mark what belongs to gods and to power. There are the priest's golden scepter, the judges' gold-studded scepter, Apollo's silver bow, Achilles' silver-hilted sword, silver-footed Thetis, and golden-throned Hera.
+summary: The precious metals of the Homeric world. Gold and silver belong to gods, to kings, and to the gifts, ransoms and spoils that pass between them.
 grc: [χρυσέῳ, χρυσείοις, χρυσόθρονος, ἀργυρότοξ*, ἀργυρέοιο, ἀργυρέῃ, ἀργυρόπεζα]
 en: [golden, golden nails, silver bow, silver hilt, silver-footed, golden throne, god of the silver bow]
 ---
 
-## Gold
+In Homer gold and silver belong to gods, to kings, and to the gifts that pass between them. Gold (χρυσός; adjective χρύσεος) is above all the gods' metal. They sit on a golden floor and drink to one another from golden cups (4.2–4), and Zeus weighs the fates of men on golden scales (8.69, 22.209). Among men gold marks rank and holiness: the scepters of priests and kings are golden or studded with gold. It is also wealth that passes from hand to hand. Agamemnon's gifts to Achilles include ten talents of gold (9.122), and Priam brings ten more to ransom Hector (24.232). Value is reckoned in cattle: Glaucus gives Diomedes golden armor worth a hundred oxen for bronze worth nine (6.234–236). Silver (ἄργυρος; adjective ἀργύρεος) is rarer, and often names a gleam rather than a thing: the silver bow of Apollo, the silver feet of Thetis, the silver eddies of a river.
 
-{{quote:8053b486-d15b-5d72-bd29-a63faccd118a}}
+The words also make compounds that serve as epithets: χρυσόθρονος (“of the golden throne”), ἀργυρότοξος (“of the silver bow”), ἀργυρόπεζα (“silver-footed”).
 
-Chryses carries Apollo's fillets on a golden scepter (χρυσέῳ ἀνὰ σκήπτρῳ), the sign of the god he serves.
+{{notes}}
 
-{{quote:ec426392-a9fc-53bb-97e5-7752debc5002}}
+## Related entries
 
-The scepter Achilles flings down is "studded with golden nails", the staff of Zeus-given justice.
-
-{{quote:a1a8c026-dc9e-5fcf-b27d-6ab921c3cb41}}
-
-Hera "of the golden throne" (χρυσόθρονος) is the book's last word.
-
-## Silver
-
-{{quote:e2fdf7bd-b28e-522e-bf23-29197d529704}}
-
-Apollo's bow is silver (ἀργύρεος βιός), and he is ἀργυρότοξος, "god of the silver bow". The terrible twang comes from a precious instrument.
-
-{{quote:05a8cc68-32b3-5445-bd56-c4a6b154b375}}
-
-Achilles' sword has a silver hilt (ἀργυρέῃ κώπῃ). He grips it and puts the sword back.
-
-{{quote:6247e670-56c3-5601-b4ca-1b43ec4fd64c}}
-
-Thetis is ἀργυρόπεζα, "silver-footed".
-
-In Homer gold and silver belong to gods, to kings, and to the gifts that pass between them. Nothing in Book 1 is made of gold or silver by accident.
+[[scepter]], [[bow]], [[sword]], [[bronze]], [[apoina|ἄποινα]] (“ransom”), [[doron|δῶρον]] (“gift”); [[golden-throned]], [[god-of-the-silver-bow]], [[silver-footed]], [[studded-with-golden-nails]].

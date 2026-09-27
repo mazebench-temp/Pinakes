@@ -3,7 +3,7 @@
 // Validates everything it reads; errors fail the build, warnings are listed in site/data/report.json.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, CONTENT, readJson, loadLibrary, loadEntries, loadQuotes } from './lib/content.mjs';
+import { ROOT, CONTENT, readJson, loadLibrary, loadEntries, loadNotes, loadQuotes } from './lib/content.mjs';
 import { tokenize, normalize, romanize, isCapitalized } from './lib/greek.mjs';
 import { compilePatterns, matchTokens, compileEnglish, findEnglish, resolveOverlaps } from './lib/concordance.mjs';
 import { renderMarkdown, slugify } from './lib/markdown.mjs';
@@ -76,6 +76,7 @@ export function build({ write = true, log = console.log } = {}) {
       participants: arr(d.participants), relations, work: d.work ?? 'homer.iliad',
       source: d.source ?? null, date: d.date ?? null, featured: d.featured === true, sort: d.sort ?? null,
       order: typeof d.order === 'number' ? d.order : null,
+      enExtra: [], notes: [],
     };
     if (e.kind === 'story') {
       if (!periodById.has(e.period)) error(`${raw.file}: story needs a known period (got "${e.period}")`);
@@ -116,6 +117,66 @@ export function build({ write = true, log = console.log } = {}) {
     e.relations.forEach(r => checkTarget(e, r.id, `relation ${r.rel}`));
   }
 
+  // ── Scopes and scoped notes ──────────────────────────────────────────────
+  // A scope is an author, a work, or a book of a work: "homer", "homer.iliad", "homer.iliad.2".
+  const scopeDefs = new Map();
+  const addScope = s => { if (!scopeDefs.has(s.id)) scopeDefs.set(s.id, s); };
+  for (const a of authors) addScope({ id: a.id, kind: 'author', label: a.name ?? a.id });
+  for (const w of works) {
+    addScope({ id: w.id, kind: 'work', label: w.title, parent: w.author });
+    for (const book of w.texts.keys()) addScope({ id: `${w.id}.${book}`, kind: 'book', label: `${w.title} ${book}`, long: `${w.title}, Book ${book}`, parent: w.id, work: w.id, book });
+  }
+  const scopeOfRef = (spec, work) => {
+    try { const r = parseRef(String(spec).split('|')[0].trim(), resolveWork, work); return `${r.work}.${r.book}`; }
+    catch { return null; }
+  };
+  for (const e of entries) for (const r of e.relations) r.scopes = [...new Set(r.refs.map(x => scopeOfRef(x, e.work)).filter(Boolean))];
+
+  const NOTE_KEYS = new Set(['summary', 'heading', 'grc', 'en', 'refs', 'except', 'passages', 'relations']);
+  let rawNotes = [];
+  try { rawNotes = loadNotes(); } catch (err) { error(err.message); }
+  for (const n of rawNotes) {
+    const e = byId.get(n.entryId);
+    if (!e) { error(`${n.file}: there is no entry "${n.entryId}" for this note`); continue; }
+    if (n.scope.book) {
+      const w = workById.get(n.scope.work);
+      addScope({ id: n.scope.id, kind: 'book', label: `${w.title} ${n.scope.book}`, long: `${w.title}, Book ${n.scope.book}`, parent: w.id, work: w.id, book: n.scope.book });
+    }
+    for (const k of Object.keys(n.data)) if (!NOTE_KEYS.has(k)) warn(`${n.file}: "${k}" is not used in notes (use ${[...NOTE_KEYS].join(', ')})`);
+    const work = n.scope.work ?? e.work;
+    // References in a note default to the note's own work; they are stored with the work named.
+    const explicit = spec => {
+      const [refPart, ...rest] = String(spec).split('|');
+      try {
+        const r = parseRef(refPart.trim(), resolveWork, work);
+        return `${r.work} ${formatRange(r)}${rest.length ? ` | ${rest.join('|').trim()}` : ''}`;
+      } catch (err) { error(`${n.file}: ${err.message}`); return null; }
+    };
+    e.grc.push(...arr(n.data.grc).map(String));
+    e.enExtra.push(...arr(n.data.en).map(String));
+    e.refs.push(...arr(n.data.refs).map(explicit).filter(Boolean));
+    e.except.push(...arr(n.data.except).map(explicit).filter(Boolean));
+    e.passages.push(...arr(n.data.passages).map(explicit).filter(Boolean));
+    try {
+      for (const r of arr(n.data.relations).map(x => parseRelation(x, n.file))) {
+        checkTarget({ file: n.file }, r.id, `relation ${r.rel}`);
+        r.scopes = [...new Set(r.refs.map(x => scopeOfRef(x, work)).filter(Boolean))];
+        const same = e.relations.find(x => x.rel === r.rel && x.id === r.id);
+        if (same) { same.refs = [...new Set([...same.refs, ...r.refs])]; same.scopes = [...new Set([...same.scopes, ...r.scopes])]; }
+        else e.relations.push(r);
+      }
+    } catch (err) { error(err.message); }
+    e.notes.push({ ...n, work });
+  }
+  // Scopes in reading order: author, then each of its works, then that work's books.
+  const authorIdx = new Map(authors.map((a, i) => [a.id, i])), workIdx = new Map(works.map((w, i) => [w.id, i]));
+  const scopeKey = s => s.kind === 'author' ? [authorIdx.get(s.id) ?? 99, -1, -1]
+    : [authorIdx.get(workById.get(s.work ?? s.id)?.author) ?? 99, workIdx.get(s.work ?? s.id) ?? 99, s.book ?? -1];
+  const byScope = (a, b) => { const x = scopeKey(a), y = scopeKey(b); return x[0] - y[0] || x[1] - y[1] || x[2] - y[2]; };
+  const scopeList = [...scopeDefs.values()].sort(byScope);
+  const scopeRank = new Map(scopeList.map((s, i) => [s.id, i]));
+  for (const e of entries) e.notes.sort((a, b) => scopeRank.get(a.scope.id) - scopeRank.get(b.scope.id));
+
   // ── Manual references ────────────────────────────────────────────────────
   const manualByLine = new Map(); // "work book.n" → Set(ids)
   const passageByLine = new Map(); // "work book.n" → Set(ids): lines inside an entry's key passages
@@ -141,16 +202,19 @@ export function build({ write = true, log = console.log } = {}) {
   // ── Concordance over every available text ────────────────────────────────
   const compiled = entries.filter(e => e.grc.length).map(e => ({ e, pats: compilePatterns(e.grc) }));
   const patternUse = new Map(compiled.flatMap(c => c.pats.map(p => [`${c.e.id} ${p.source}`, 0])));
-  const englishFor = e => e.en ?? (nameKinds.has(e.kind) ? [e.title, ...e.aliases.filter(a => /^\p{Lu}/u.test(a))] : []);
+  const englishFor = e => [...(e.en ?? (nameKinds.has(e.kind) ? [e.title, ...e.aliases.filter(a => /^\p{Lu}/u.test(a))] : [])), ...e.enExtra];
   const enCompiled = new Map(entries.map(e => [e.id, compileEnglish(englishFor(e))]));
   const nameEntries = entries.filter(e => nameKinds.has(e.kind));
   const occ = new Map(entries.map(e => [e.id, []]));
+  const enSeen = new Set(); // "id\u0001form": explicit English forms found on a line where the entry's Greek occurs
   const texts = [];
   const unindexed = [];
   const lemmaCoverage = new Map(); // lemma → { gloss, pos, count, indexed }
   let tokenTotal = 0;
 
+  const allLemmas = new Set();
   for (const work of works) {
+    const seenLemmas = new Set(); // lemmas met in the work's earlier books
     for (const [book, text] of work.texts) {
       const grc = text.editions.grc;
       const en = text.editions.en ?? new Map();
@@ -204,7 +268,7 @@ export function build({ write = true, log = console.log } = {}) {
         const candidates = [];
         for (const id of lineEnts.keys()) {
           const pr = nameKinds.has(byId.get(id).kind) ? 0 : 1;
-          for (const s of findEnglish(enText, enCompiled.get(id))) candidates.push({ ...s, id, priority: pr });
+          for (const s of findEnglish(enText, enCompiled.get(id))) { candidates.push({ ...s, id, priority: pr }); enSeen.add(`${id}\u0001${s.form}`); }
         }
         for (const e of nameEntries) {
           if (lineEnts.has(e.id) || excepted.has(`${e.id} ${key}`)) continue;
@@ -242,8 +306,10 @@ export function build({ write = true, log = console.log } = {}) {
         if (!byId.has(sp.speaker)) warn(`${work.id} ${book}: speaker "${sp.speaker}" has no entry`);
         for (const a of sp.to_whom ?? []) if (!byId.has(a)) warn(`${work.id} ${book}: addressee "${a}" has no entry`);
       }
-      const lemmas = [...lemmaStats].map(([l, st]) => [l, [...st.glosses].sort((a, b) => b[1] - a[1])[0][0], st.count, [...st.lines]])
+      // [lemma, gloss, count, lines, 1 if the work has not used the word before this book]
+      const lemmas = [...lemmaStats].map(([l, st]) => [l, [...st.glosses].sort((a, b) => b[1] - a[1])[0][0], st.count, [...st.lines], seenLemmas.has(l) ? 0 : 1])
         .sort((a, b) => b[2] - a[2] || a[0].localeCompare(b[0], 'el'));
+      for (const l of lemmaStats.keys()) { seenLemmas.add(l); allLemmas.add(l); }
       const meta = work.books?.[book] ?? {};
       texts.push({
         file: path.join('texts', work.id, `${book}.json`),
@@ -258,6 +324,10 @@ export function build({ write = true, log = console.log } = {}) {
     }
   }
   for (const [k, count] of patternUse) if (!count) warn(`Form never matches: ${k}`);
+  // Explicit English forms that never appear on a line where the entry's Greek does (a changed translation, a typo).
+  for (const e of entries) for (const f of [...(e.en ?? []), ...e.enExtra]) {
+    if (!enSeen.has(`${e.id}\u0001${f}`) && (e.grc.length || e.refs.length)) warn(`English form never found where the Greek occurs: ${e.id} "${f}"`);
+  }
 
   // ── Quotes and articles ──────────────────────────────────────────────────
   const registry = loadQuotes();
@@ -304,39 +374,73 @@ export function build({ write = true, log = console.log } = {}) {
       .replace(/<script[\s\S]*?<\/script>/gi, '').replace(/\son\w+="[^"]*"/gi, '').trim();
   };
 
+  const plain = s => s.replace(/\[\[([^\]|#]+)(?:#[^\]|]*)?\|([^\]]+)\]\]/g, '$2')
+    .replace(/\[\[([^\]]+)\]\]/g, (_, t) => byId.get(resolveName(t))?.title ?? t)
+    .replace(/\{\{[^}]+\}\}/g, '').replace(/[*_`]/g, '').trim();
   const backlinks = new Map(entries.map(e => [e.id, new Set()]));
+  const noteBacklinks = new Map(entries.map(e => [e.id, new Map()])); // target → source → Set(scope)
   const missingLinks = [];
   const pages = new Map();
+  // Sections that come after the scoped notes when an article is shown whole.
+  const LATE = /^(mythology|outside homer|elsewhere in homer|outside book \d+|outside the (iliad|odyssey)|related words|related entries|reception|later tradition)$/i;
+  const hooksFor = (e, file, work, scope) => ({
+    link: (target, section) => {
+      const id = resolveName(target);
+      if (!id) { missingLinks.push(`${file}: [[${target}]]`); return { missing: true, label: target }; }
+      if (id !== e.id) {
+        if (!scope) backlinks.get(id).add(e.id);
+        else {
+          const m = noteBacklinks.get(id);
+          if (!m.has(e.id)) m.set(e.id, new Set());
+          m.get(e.id).add(scope);
+        }
+      }
+      return { id, label: byId.get(id).title, href: `#/entry/${id}${section ? `?s=${encodeURIComponent(slugify(section))}` : ''}` };
+    },
+    quote: spec => resolveQuote(spec, { file, work }),
+    ref: spec => { const r = parseRef(spec, resolveWork, work); return { href: readerHref(r), label: shortCite(r) }; },
+    figure,
+  });
+  const wordCount = s => s.split(/\s+/).filter(Boolean).length;
   for (const e of entries) {
-    const hooks = {
-      link: (target, section) => {
-        const id = resolveName(target);
-        if (!id) { missingLinks.push(`${e.file}: [[${target}]]`); return { missing: true, label: target }; }
-        if (id !== e.id) backlinks.get(id).add(e.id);
-        return { id, label: byId.get(id).title, href: `#/entry/${id}${section ? `?s=${encodeURIComponent(slugify(section))}` : ''}` };
-      },
-      quote: spec => resolveQuote(spec, e),
-      ref: spec => { const r = parseRef(spec, resolveWork, e.work); return { href: readerHref(r), label: shortCite(r) }; },
-      figure,
-    };
+    const hooks = hooksFor(e, e.file, e.work, null);
     const article = renderMarkdown(e.body, hooks);
     const summary = renderMarkdown(e.summary, hooks);
     for (const m of [...article.errors, ...summary.errors]) error(`${e.file}: ${m}`);
+    let html = article.html;
+    if (e.notes.length && !html.includes('notes-slot')) {
+      const late = article.headings.find(h => h.level === 2 && LATE.test(h.text));
+      html = late ? html.replace(`<h2 id="${late.id}">`, `<div class="notes-slot"></div><h2 id="${late.id}">`) : `${html}<div class="notes-slot"></div>`;
+    }
+    const notes = e.notes.map(n => {
+      const nh = hooksFor(e, n.file, n.work, n.scope.id);
+      const prefix = `${slugify(scopeDefs.get(n.scope.id)?.label ?? n.scope.id)}-`;
+      const body = renderMarkdown(n.body, nh, { idPrefix: prefix });
+      const sum = renderMarkdown(String(n.data.summary ?? ''), nh);
+      for (const m of [...body.errors, ...sum.errors]) error(`${n.file}: ${m}`);
+      return {
+        scope: n.scope.id, heading: n.data.heading ? String(n.data.heading) : null,
+        html: body.html, headings: body.headings, quotes: body.quotes,
+        summaryHtml: sum.html.replace(/^<p>|<\/p>$/g, ''), summary: plain(String(n.data.summary ?? '')),
+        words: wordCount(n.body),
+      };
+    });
     pages.set(e.id, {
-      html: article.html, headings: article.headings, quotes: article.quotes,
-      summaryHtml: summary.html.replace(/^<p>|<\/p>$/g, ''),
+      html, headings: article.headings, quotes: [...new Set([...article.quotes, ...notes.flatMap(n => n.quotes)])],
+      summaryHtml: summary.html.replace(/^<p>|<\/p>$/g, ''), notes,
+      words: wordCount(e.body) + notes.reduce((s, n) => s + n.words, 0),
     });
   }
 
   // ── Derived relationships ────────────────────────────────────────────────
   const relationsOf = new Map(entries.map(e => [e.id, []]));
-  for (const e of entries) for (const r of e.relations) relationsOf.get(e.id).push({ rel: r.rel, id: r.id, refs: r.refs });
+  for (const e of entries) for (const r of e.relations) relationsOf.get(e.id).push({ rel: r.rel, id: r.id, refs: r.refs, scopes: r.scopes ?? [] });
   for (const e of entries) {
     for (const r of e.relations) {
       if (byId.has(r.id)) {
         const inv = INVERSE[r.rel] ?? `${r.rel} of`;
         const list = relationsOf.get(r.id);
-        if (!list.some(x => x.id === e.id)) list.push({ rel: inv, id: e.id, refs: r.refs, inverse: true });
+        if (!list.some(x => x.id === e.id)) list.push({ rel: inv, id: e.id, refs: r.refs, scopes: r.scopes ?? [], inverse: true });
       }
     }
   }
@@ -356,19 +460,34 @@ export function build({ write = true, log = console.log } = {}) {
 
   const firstOcc = id => occ.get(id)[0];
   const refSort = o => o ? `${o.work} ${String(o.book).padStart(3, '0')}.${String(o.n).padStart(5, '0')}` : '~';
-  const plain = s => s.replace(/\[\[([^\]|#]+)(?:#[^\]|]*)?\|([^\]]+)\]\]/g, '$2')
-    .replace(/\[\[([^\]]+)\]\]/g, (_, t) => byId.get(resolveName(t))?.title ?? t)
-    .replace(/\{\{[^}]+\}\}/g, '').replace(/[*_`]/g, '').trim();
 
   // ── Output ───────────────────────────────────────────────────────────────
   const tagCounts = new Map();
   const tagAncestors = id => { const out = []; let t = tagById.get(id); const seen = new Set(); while (t && !seen.has(t.id)) { seen.add(t.id); out.push(t.id); t = tagById.get(t.parent); } return out; };
   for (const e of entries) new Set(e.tags.flatMap(tagAncestors)).forEach(t => tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1));
 
-  const passageStarts = e => e.passages.map(spec => {
-    try { const r = parseRef(spec.split('|')[0].trim(), resolveWork, e.work); return { work: r.work, book: r.book, n: r.from }; }
-    catch { return null; }
-  }).filter(Boolean);
+  const passagesOf = new Map(entries.map(e => [e.id, e.passages.map(spec => {
+    const [refPart, ...rest] = spec.split('|');
+    try {
+      const r = parseRef(refPart.trim(), resolveWork, e.work);
+      return { ref: formatRange(r), work: r.work, book: r.book, from: r.from, to: r.to, short: shortCite(r), href: readerHref(r), label: rest.join('|').trim() };
+    } catch { return null; }
+  }).filter(Boolean)]));
+  const passageStarts = e => passagesOf.get(e.id).map(p => ({ work: p.work, book: p.book, n: p.from }));
+  // Where an entry is present, book by book: [lines it occurs in, first line]. A note, speech or key passage
+  // in a book makes the entry present there even without an occurrence.
+  const presenceOf = e => {
+    const m = {};
+    const add = (scope, lines, first) => {
+      const cur = m[scope] ?? [0, 0];
+      m[scope] = [cur[0] + lines, first && (!cur[1] || first < cur[1]) ? first : cur[1]];
+    };
+    for (const o of occ.get(e.id)) add(`${o.work}.${o.book}`, 1, o.n);
+    for (const n of e.notes) if (n.scope.book) add(n.scope.id, 0, 0);
+    for (const sp of speechesOf.get(e.id) ?? []) add(`${sp.work}.${sp.book}`, 0, sp.from);
+    for (const p of passagesOf.get(e.id)) add(`${p.work}.${p.book}`, 0, p.from);
+    return Object.fromEntries(Object.entries(m).sort((a, b) => (scopeRank.get(a[0]) ?? 999) - (scopeRank.get(b[0]) ?? 999)));
+  };
   const catalogEntries = entries.map(e => {
     const o = occ.get(e.id);
     const firstPlace = [o[0], ...passageStarts(e)].filter(Boolean).sort((a, b) => refSort(a).localeCompare(refSort(b)))[0];
@@ -378,7 +497,9 @@ export function build({ write = true, log = console.log } = {}) {
       lines: o.length, mentions: o.filter(x => x.via === 'grc').length,
       first: firstPlace ? `${firstPlace.book}.${firstPlace.n}` : null,
       firstKey: refSort(firstPlace),
-      article: e.body.trim().length > 0, words: e.body.split(/\s+/).filter(Boolean).length,
+      article: e.body.trim().length > 0 || e.notes.length > 0, words: pages.get(e.id).words,
+      in: presenceOf(e), ...(e.notes.length ? { notes: e.notes.map(n => n.scope.id) } : {}),
+      ...(pages.get(e.id).notes.some(n => n.summary) ? { noteSummary: Object.fromEntries(pages.get(e.id).notes.filter(n => n.summary).map(n => [n.scope, n.summary])) } : {}),
       ...(e.period ? { period: e.period } : {}), ...(e.mode ? { mode: e.mode } : {}), ...(e.narrator ? { narrator: e.narrator } : {}),
       ...(e.of.length ? { of: e.of } : {}), ...(e.participants.length ? { participants: e.participants } : {}),
       ...(e.refs.length ? { refs: e.refs } : {}), ...(e.passages.length ? { passages: e.passages.map(p => p.split('|')[0].trim()) } : {}), ...(e.source ? { source: e.source } : {}), ...(e.featured ? { featured: true } : {}),
@@ -395,19 +516,15 @@ export function build({ write = true, log = console.log } = {}) {
       data: {
         ...catalogEntries.find(c => c.id === e.id),
         summaryHtml: page.summaryHtml, html: page.html, headings: page.headings,
+        notes: page.notes.map(({ quotes, ...n }) => n),
         quotes: Object.fromEntries(page.quotes.map(id => [id, quotePayload.get(id)])),
         occurrences: o.map(({ work, book, n, via, forms, grc, en, hg, he }) => ({ work, book, n, via, forms, grc, en, hg, he })),
-        passages: e.passages.map(spec => {
-          const [refPart, ...rest] = spec.split('|');
-          try {
-            const r = parseRef(refPart.trim(), resolveWork, e.work);
-            return { ref: formatRange(r), work: r.work, book: r.book, from: r.from, to: r.to, short: shortCite(r), href: readerHref(r), label: rest.join('|').trim() };
-          } catch { return null; }
-        }).filter(Boolean),
+        passages: passagesOf.get(e.id),
         relations: relationsOf.get(e.id),
         epithets: epithetsOf.get(e.id) ?? [], stories: storiesOf.get(e.id) ?? [], anecdotes: anecdotesOf.get(e.id) ?? [],
         speeches, addressed: addressedOf.get(e.id) ?? [],
         backlinks: [...backlinks.get(e.id)].sort(),
+        noteBacklinks: [...noteBacklinks.get(e.id)].map(([id, sc]) => ({ id, scopes: [...sc].sort((a, b) => scopeRank.get(a) - scopeRank.get(b)) })).sort((a, b) => a.id.localeCompare(b.id)),
         stats: {
           lines: o.length, mentions: o.filter(x => x.via === 'grc').length,
           speeches: speeches.length, spoken: speeches.reduce((s, sp) => s + sp.to - sp.from + 1, 0),
@@ -454,6 +571,7 @@ export function build({ write = true, log = console.log } = {}) {
       lines: [...w.texts.values()].reduce((s, t) => s + t.editions.grc.size, 0),
       notesHtml: notesFor(w),
     })),
+    scopes: scopeList,
     kinds: kinds.map(k => ({ ...k, count: entries.filter(e => e.kind === k.id).length })),
     facets: [...tagCfg.facets, ...([...tagById.values()].some(t => t.facet === 'other') ? [{ id: 'other', label: 'Other', summary: '' }] : [])],
     tags: [...tagById.values()].map(t => ({ ...t, count: tagCounts.get(t.id) ?? 0 })),
@@ -466,7 +584,7 @@ export function build({ write = true, log = console.log } = {}) {
       passages: new Set(Object.values(quotesOut).map(q => `${q.work} ${q.ref}`)).size,
       lines: texts.reduce((s, t) => s + t.data.lines.length, 0), tokens: tokenTotal,
       stories: entries.filter(e => e.kind === 'story').length, tags: tagById.size,
-      lemmas: texts.reduce((s, t) => s + t.data.lemmas.length, 0),
+      lemmas: allLemmas.size,
     },
   };
 

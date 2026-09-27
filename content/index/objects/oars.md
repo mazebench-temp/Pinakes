@@ -3,7 +3,7 @@ title: Oars
 greek: ἐρετμόν
 kind: object
 tags: [ship, seafaring]
-summary: The oars and oarsmen of the ship to Chryse. Agamemnon chooses twenty rowers for it, and they row it into the anchorage after the sail is furled.
+summary: Oars and oarsmen. Homeric ships sailed with a fair wind and were rowed without one or in harbor, and the same men did both.
 aliases: [oar, oarsmen, rowers, rowing]
 grc: [ἐρέτας, ἐρετμοῖς, προέρεσσαν]
 en: [oarsmen, oars, rowed]
@@ -11,8 +11,6 @@ en: [oarsmen, oars, rowed]
 
 ἐρετμόν (“oar”), ἐρέτης (“oarsman”) and ἐρέσσω (“row”) share a root with Latin *rēmus* and English *row*. Homeric ships sailed with a fair wind and rowed without one or in harbor, and the same men did both.
 
-Agamemnon orders oarsmen gathered for the ship to Chryse, “enough for the task” ({{ref:Iliad 1.142}}), and then chooses twenty ({{ref:Iliad 1.309}}). A ship of twenty oars is the ordinary small vessel of the poems: Telemachus asks for “a swift ship and twenty companions” (Odyssey 2.212). At Chryse the crew furl the sail, lower the mast, and row her to the anchorage with oars ({{ref:Iliad 1.435}}).
-
-{{quote:49684a6a-ec9e-5d97-86cb-0a6d0378e349}}
-
 Teiresias tells Odysseus to carry an oar inland until he meets men who take it for a winnowing fan (Odyssey 11.121–128).
+
+{{notes}}

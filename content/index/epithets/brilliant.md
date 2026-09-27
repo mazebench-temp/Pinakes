@@ -3,11 +3,11 @@ title: Brilliant
 greek: δῖος
 kind: epithet
 tags: [heroic-epithet]
-summary: “Shining, divine”: a general honorific of heroes and goddesses. In Book 1 it marks [[Achilles]] three times, beginning in the proem, and [[Odysseus]] once.
+summary: “Shining, divine”: a general honorific of heroes and heroines, goddesses, rivers and towns.
 aliases: [divine, glorious, dios]
 grc: [=δῖος]
 en: [brilliant]
-of: [achilles, odysseus]
+of: [achilles, odysseus, nestor, agamemnon, alcestis, aphrodite, cephisus, elis, arisbe]
 ---
 
 ## Meaning

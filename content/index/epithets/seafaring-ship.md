@@ -3,7 +3,7 @@ title: Seafaring
 greek: ποντοπόρος
 kind: epithet
 tags: [ship]
-summary: “Sea-crossing,” an epithet of [[ships]], as Chryseis steps ashore at Chryse (1.439).
+summary: “Sea-crossing,” an epithet of [[ships]].
 aliases: [sea-crossing, pontoporos]
 grc: [ποντοπόροιο]
 en: [seafaring]

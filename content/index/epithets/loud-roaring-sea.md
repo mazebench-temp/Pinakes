@@ -3,7 +3,7 @@ title: Loud-roaring
 greek: πολύφλοισβος
 kind: epithet
 tags: [sea]
-summary: “Much-roaring,” an epithet of the [[sea]], in the line where Chryses walks away in silence along the shore (1.34).
+summary: “Much-roaring,” an epithet of the [[sea]].
 aliases: [loud-resounding, polyphloisbos]
 grc: [πολυφλοίσβοιο]
 en: [loud-roaring]

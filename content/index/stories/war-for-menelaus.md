@@ -7,21 +7,21 @@ order: 2
 mode: backstory
 narrator: achilles
 tags: [honor, backstory]
-summary: Achilles says the Achaeans came to Troy "to win satisfaction for Menelaus", not for any wrong the Trojans had done them. It is Book 1's only glance at the cause of the war.
-participants: [menelaus, agamemnon, achilles, trojans]
+summary: The cause of the war as the Iliad's people speak of it: the Achaeans came to Troy to win satisfaction for [[Menelaus]], whose wife Helen was carried off by Paris, and to make the Trojans pay.
+participants: [menelaus, helen, agamemnon, achilles, trojans]
 passages:
   - 1.152-160 | Why Achilles came to Troy
 ---
 
 ## The story
 
-{{quote:c1f13262-74a7-5fbc-9240-f87b6f43434e}}
-
-The cause of the war appears only as a debt of honor: τιμὴν ἀρνύμενοι, "winning satisfaction". Helen and Paris are not named. Achilles says he has no quarrel of his own. The Trojans never raided his cattle or crops, and mountains and the sea lie between.
+Paris, a son of Priam, came to Sparta as a guest and carried off Helen, the wife of Menelaus, with much of his wealth. Menelaus and his brother Agamemnon gathered the Achaeans to bring her back and to make the Trojans pay. The Iliad never tells the abduction. Its people refer to it: Hector reproaches Paris for sailing across the sea and bringing back a beautiful woman from a distant land (3.46–51), and Paris remembers the first night on the island of Cranae after he carried her off from Lacedaemon (3.443–445).
 
 ## In the poem
 
-The argument turns the whole war into a favor to the sons of Atreus, "to please you". If the war is a matter of honor done for Agamemnon, then Agamemnon's dishonoring of Achilles breaks the only bond that keeps Achilles at Troy. See [[honor-and-dishonor]].
+The war is spoken of as a debt: τιμή, “satisfaction”, for Menelaus, and repayment for Helen. Each book gives the cause its own turn, and the book notes follow it.
+
+{{notes}}
 
 ## Outside Homer
 

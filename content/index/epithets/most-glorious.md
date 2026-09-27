@@ -3,11 +3,11 @@ title: Most glorious
 greek: κύδιστος
 kind: epithet
 tags: [heroic-epithet]
-summary: A superlative of honor, “most glorious,” with which Achilles begins his answer to [[Agamemnon]] at 1.122 — only to replace the rest of the formula with an insult.
+summary: A superlative of honor, “most glorious,” used in address to kings and to Zeus.
 aliases: [kydistos]
 grc: [κύδιστε]
-en: [Most glorious]
-of: [agamemnon]
+en: [most glorious]
+of: [agamemnon, zeus]
 ---
 
 ## Meaning

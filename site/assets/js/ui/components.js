@@ -195,21 +195,28 @@ export async function makeQuoteTag({ work, ref, title }) {
 }
 
 // ── Entity quick look ───────────────────────────────────────────────────────
-export async function peek(id, { from = null } = {}) {
+/** A quick look at an entry. With a scope (the book being read), it shows the entry's place in that book. */
+export async function peek(id, { scope = null } = {}) {
   const cat = await store.catalog();
   const e = cat.by.entries.get(id);
   if (!e) return;
   const kind = cat.by.kinds.get(e.kind);
   const tags = e.tags.map(t => cat.by.tags.get(t)).filter(Boolean);
+  const here = scope && e.in?.[scope];
+  const sc = scope && cat.by.scopes.get(scope);
+  const note = scope && e.noteSummary?.[scope];
+  const multi = Object.keys(e.in ?? {}).length > 1;
   const body = el(`<div>
     <div class="entry-head" style="padding-top:0">
       <div class="chips wrap"><span class="chip kind" style="--h:${kind?.hue ?? 262}">${icon(kindIcon(kind?.icon))}${esc(kind?.one ?? e.kind)}</span>
         ${tags.slice(0, 4).map(t => `<span class="chip tag">#${esc(t.label.toLowerCase())}</span>`).join('')}</div>
       ${e.greek ? `<div class="entry-greek"><span class="grc">${esc(e.greek)}</span>${e.translit ? `<span class="rom">${esc(e.translit)}</span>` : ''}</div>` : ''}
       <p class="lead" style="font-size:16.5px">${esc(e.summary)}</p>
-      <div class="entry-stats">${e.lines ? `<span><b>${e.lines}</b> ${e.lines === 1 ? 'line' : 'lines'}</span>` : ''}${e.first ? `<span>first at <b>${esc(e.first)}</b></span>` : ''}</div>
+      ${note ? `<p class="scope-lead"><span class="scope-tag">${esc(sc?.label ?? '')}</span>${esc(note)}</p>` : ''}
+      <div class="entry-stats">${here && here[0] ? `<span><b>${here[0]}</b> ${here[0] === 1 ? 'line' : 'lines'} in ${esc(sc?.label ?? '')}</span>${here[1] ? `<span>first at <b>${esc(`${sc?.book}.${here[1]}`)}</b></span>` : ''}` : ''}
+        ${!here || multi ? `${e.lines ? `<span><b>${e.lines}</b> ${e.lines === 1 ? 'line' : 'lines'}${multi ? ' in all' : ''}</span>` : ''}${!here && e.first ? `<span>first at <b>${esc(e.first)}</b></span>` : ''}` : ''}</div>
     </div>
-    <div class="btn-row" style="margin-top:14px"><a class="btn" href="#/entry/${esc(id)}">Open ${esc(kind?.one?.toLowerCase() ?? 'entry')}</a></div>
+    <div class="btn-row" style="margin-top:14px"><a class="btn" href="#/entry/${esc(id)}${here && multi ? `?in=${esc(scope)}` : ''}">Open ${esc(kind?.one?.toLowerCase() ?? 'entry')}</a></div>
   </div>`);
   const sheet = openSheet({ title: e.title, content: body });
   body.querySelector('a.btn').addEventListener('click', () => sheet.close(true));
@@ -226,7 +233,7 @@ export function enhanceArticle(root, data) {
     });
   });
   on(root, 'click', 'sup.fn button', (e, b) => {
-    const note = root.querySelector(`.footnotes li[data-fn="${b.dataset.fn}"]`);
+    const note = (b.closest('[data-fnscope]') ?? root).querySelector(`.footnotes li[data-fn="${b.dataset.fn}"]`);
     if (!note) return;
     document.querySelectorAll('.popover').forEach(p => p.remove());
     const pop = el(`<div class="popover article">${note.innerHTML}</div>`);

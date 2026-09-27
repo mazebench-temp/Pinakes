@@ -15,11 +15,7 @@ passages:
 
 φήρ (phēr) is the Aeolic form of θήρ, "wild beast". Homer uses it only of the Centaurs, here and in Iliad 2.743. The name Κένταυρος is unexplained; Homer uses it elsewhere (11.832, and of Eurytion in Odyssey 21.295–303).
 
-## In Book 1
-
-{{quote:9ce84035-7874-5791-856c-1526bde35b3c}}
-
-φηρσὶν ὀρεσκῴοισι: "the beasts who lived in the mountains" (ὄρος, mountain + κεῖμαι, lie). Nestor measures the heroes of his youth by their enemies: "mightiest they were, and they fought against the mightiest". See [[nestor-and-the-centaurs]].
+{{notes}}
 
 ## Outside Homer
 

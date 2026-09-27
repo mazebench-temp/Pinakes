@@ -2,7 +2,7 @@
 title: Captive women
 kind: theme
 tags: [captive, woman, exchange]
-summary: [[Chryseis]] and [[Briseis]] are the prizes the quarrel is fought over. Taken in raids, allotted by the army and passed from man to man, neither says a word in Book 1.
+summary: Women taken in war are the prizes of the Iliad's quarrels: [[Chryseis]] and [[Briseis]], taken in raids and allotted by the army, and the women every sacked city yields.
 refs: [1.13, 1.29, 1.30, 1.31, 1.111, 1.112, 1.113, 1.114, 1.115, 1.143, 1.184, 1.323, 1.336, 1.346, 1.348, 1.369, 1.392, 1.429, 1.430, 1.439, 1.447]
 passages:
   - 1.29-31 | Agamemnon's threat: the loom and the bed

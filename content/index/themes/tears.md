@@ -3,25 +3,19 @@ title: Tears
 greek: δάκρυ
 kind: theme
 tags: [mind, mother]
-summary: Three people weep in Book 1. Chryses' tears bring the plague; Achilles weeps by the sea; Thetis weeps for his short life. Tears are the currency of grief and of appeal.
+summary: Weeping in Homer: tears of grief, of appeal and of pain. Heroes weep without reproach; what matters is where they weep, for whom, and who answers.
 grc: [δάκρυα, δάκρυ, δακρύσας]
-en: [tears, weeping, wept, burst into tears]
+en: [tears, burst into tears]
 passages:
   - 1.349-362 | Achilles weeps by the sea
 ---
 
-{{quote:997b5be7-1c1c-583c-9b7e-43bd3a8378a9}}
+δάκρυ (“tear”, plural δάκρυα), with the verbs δακρύω (“weep”) and κλαίω (“weep, wail”), runs through both poems, and the formula δάκρυ χέων, “shedding tears”, marks the moment (see [[shedding-tears]]). The greatest men of the Iliad weep, and the poem does not reproach them. Agamemnon stands before the assembly weeping like a spring of dark water (9.14–15), Patroclus comes to Achilles in the same flood of tears (16.2–4), Achilles sheds hot tears over Patroclus' body (18.235), and in the last book Priam and Achilles weep together, one for his son, the other for his father and his friend (24.509–512).
 
-"Let the Danaans pay for my tears with your arrows": Chryses' prayer makes his tears a debt that the god collects.
+Tears are grief made visible, and they are also an appeal: the one who weeps asks a god, a mother or a king to answer. Weeping before strangers is another matter. At the Phaeacian feast Odysseus draws his cloak over his head, ashamed to be seen shedding tears (Odyssey 8.83–86).
 
-{{quote:ee516584-4be5-51e2-8167-0d1fe3a1b7d1}}
+{{notes}}
 
-The greatest warrior bursts into tears (δακρύσας) and withdraws from his companions. Homeric heroes weep freely, and it is no shame. What matters is where: Achilles weeps alone, by the gray sea, and calls his mother.
+## Related entries
 
-{{quote:036236a0-c681-5a18-bb7e-93ce73366bf3}}
-
-δάκρυ χέων, "shedding tears", is said of Achilles twice (1.357, 1.360). Thetis' first question is "My child, why are you weeping?"
-
-{{quote:e1709008-e736-5daa-9532-841d877156be}}
-
-Then she weeps in turn (κατὰ δάκρυ χέουσα), for a death still to come. See [[mothers-and-sons]] and [[death-of-achilles-foretold]].
+[[shedding-tears]], [[achos|ἄχος]] (“grief”), [[penthos|πένθος]] (“mourning”), [[algos|ἄλγος]] (“sorrow”); [[mothers-and-sons]].

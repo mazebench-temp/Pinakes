@@ -2,7 +2,7 @@
 title: Old age and memory
 kind: theme
 tags: [elder, backstory]
-summary: The old men of Book 1 are [[Chryses]], who is threatened and obeys, and [[Nestor]], who has outlived two generations and speaks from memory. Stories of the past, Nestor's Lapiths, Thetis' rescue of Zeus, Hephaestus' fall, are the book's instruments of persuasion.
+summary: The old in Homer remember, advise and are honored. [[Nestor]] speaks from three generations of memory, and the stories old men tell are the poem's way of persuading the young.
 refs: [1.26, 1.29, 1.33, 1.35, 1.250, 1.251, 1.252, 1.259, 1.260, 1.286, 1.358, 1.380, 1.396, 1.407, 1.462, 1.538, 1.556, 1.590]
 passages:
   - 1.247-284 | Nestor's speech

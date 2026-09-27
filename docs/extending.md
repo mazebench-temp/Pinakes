@@ -15,6 +15,11 @@ The Iliad's remaining books, the Odyssey, and the Homeric Hymns are all verse ci
 | `en/NN.txt` | the translation, aligned to the Greek numbering |
 | `structure/NN.json` | scenes (covering every line), speeches (matching the quotation marks), days |
 | `lexicon/NN.json` | one `{w, l, g, p, n?}` analysis per token, as produced by `tokenize()` |
+| `notes/NN/<id>.md` | what each index entry is and does in this book (see below) |
+
+`node scripts/lexicon.mjs skeleton <book> <from> <to>` prints the tokens of a range ready to be
+analyzed; `check` validates a filled-in part against the text and against the lemmas already used;
+`merge` writes `lexicon/NN.json` from the parts. Several parts can be written in parallel.
 
 `npm test` checks the alignment, the speeches against the quotation marks, the scene coverage,
 and the lexicon token counts. The build report lists every capitalized Greek word no entry covers
@@ -26,6 +31,25 @@ resolves), and optionally `TRANSLATION.md`, which the About page renders.
 
 The Myths timeline already runs from the Primordial age to the Telegony. Stories from the Odyssey
 go into the same periods, and the Odyssey's own action goes under `odyssey`.
+
+## Scopes: one article, read at many levels
+
+Every entry has one general article (`content/index/<folder>/<id>.md`) and any number of scoped
+notes, one per author, work or book, stored in the library under that scope:
+
+```
+content/library/homer/iliad/notes/02/achilles.md   Achilles in Iliad 2
+content/library/homer/iliad/notes/achilles.md      Achilles in the Iliad
+content/library/homer/odyssey/notes/11/achilles.md Achilles in Odyssey 11 (the shade in the underworld)
+content/library/homer/notes/achilles.md            Achilles in Homer
+content/library/aristotle/notes/achilles.md        Achilles in Aristotle
+```
+
+The reader chooses the scope on the entry page (All · Iliad 1 · Iliad 2 …). The choice is
+remembered as the study scope, so every article opens at the book being studied, and the Index
+can be limited to one book. A new work or author needs only its `author.json` or `work.json`; its
+notes are picked up by folder. The general article stays general: etymology, family, myth and
+later tradition; everything that happens in a particular book goes in that book's note.
 
 ## Prose (Plato, Aristotle, Herodotus)
 

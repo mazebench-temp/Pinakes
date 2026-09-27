@@ -3,7 +3,7 @@ title: Son of Atreus
 greek: Ἀτρεΐδης, Ἀτρεΐων
 kind: epithet
 tags: [heroic-epithet, patronymic, atreidae]
-summary: The patronymic of [[Agamemnon]], and in the dual and plural of the two sons of [[Atreus]], Agamemnon and [[Menelaus]]. It is the commonest way of naming Agamemnon in Book 1.
+summary: The patronymic of [[Agamemnon]], and in the dual and plural of the two sons of [[Atreus]], Agamemnon and [[Menelaus]].
 grc: [Ἀτρεΐδ*, Ἀτρεΐωνα]
 en: [son of Atreus, sons of Atreus]
 of: [agamemnon, menelaus, atreus]

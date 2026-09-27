@@ -3,7 +3,7 @@ title: God of the silver bow
 greek: ἀργυρότοξος
 kind: epithet
 tags: [divine-epithet, weapon]
-summary: The epithet with which Chryses invokes [[Apollo]] at the start of both his prayers (1.37, 1.451): the god with the silver bow.
+summary: The epithet of [[Apollo]] as archer: the god with the silver bow.
 aliases: [silver-bowed, argyrotoxos]
 grc: [ἀργυρότοξʼ]
 en: [god of the silver bow]

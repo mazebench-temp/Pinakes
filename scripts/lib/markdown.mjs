@@ -4,6 +4,7 @@
 //   {{ref:Iliad 1.528-530}}                          link into the reader
 //   {{tabs}} {{tab:Label}} … {{/tabs}}               folder tabs (compatible with Margin)
 //   {{figure:euclid/1-1.svg | Caption}}              an SVG diagram from content/figures, inlined
+//   {{notes}}                                        where an entry's scoped notes (In Iliad 1, …) are placed
 //   [^1] … [^1]: note                                footnotes
 // Single newlines inside a paragraph are kept as line breaks, as in the reading wiki.
 
@@ -14,8 +15,8 @@ export function slugify(text) {
     .replace(/[^\p{L}\p{N}\s-]/gu, '').trim().replace(/\s+/g, '-');
 }
 
-export function renderMarkdown(source, hooks) {
-  const ctx = { hooks, headings: [], links: new Set(), quotes: new Set(), notes: new Map(), noteOrder: [], errors: [] };
+export function renderMarkdown(source, hooks, { idPrefix = '' } = {}) {
+  const ctx = { hooks, idPrefix, headings: [], links: new Set(), quotes: new Set(), notes: new Map(), noteOrder: [], errors: [] };
   const lines = source.replace(/\r\n?/g, '\n').split('\n');
 
   // Footnote definitions are collected first so references can number them in reading order.
@@ -31,7 +32,7 @@ export function renderMarkdown(source, hooks) {
   let html = renderBlocks(body, ctx);
   if (ctx.noteOrder.length) {
     html += '<section class="footnotes"><ol>' + ctx.noteOrder.map((key, i) =>
-      `<li id="fn-${i + 1}" data-fn="${i + 1}">${renderInline(ctx.notes.get(key) ?? '', ctx)}</li>`).join('') + '</ol></section>';
+      `<li id="${ctx.idPrefix}fn-${i + 1}" data-fn="${i + 1}">${renderInline(ctx.notes.get(key) ?? '', ctx)}</li>`).join('') + '</ol></section>';
   }
   return { html, headings: ctx.headings, links: [...ctx.links], quotes: [...ctx.quotes], errors: ctx.errors };
 }
@@ -68,6 +69,9 @@ function renderBlocks(lines, ctx) {
       continue;
     }
 
+    // Where an entry's scoped notes go when the whole article is shown
+    if (trimmed === '{{notes}}') { flush(); out += '<div class="notes-slot"></div>'; i++; continue; }
+
     // Figure (inline SVG from content/figures) on its own line
     const fig = trimmed.match(/^\{\{figure:([^}|]+)(?:\|([^}]*))?\}\}$/);
     if (fig) {
@@ -90,7 +94,7 @@ function renderBlocks(lines, ctx) {
       flush();
       const level = Math.max(2, h[1].length); // the page title is the only h1
       const text = h[2];
-      let id = slugify(text.replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, '$2')) || `section-${ctx.headings.length}`;
+      let id = ctx.idPrefix + (slugify(text.replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, '$2')) || `section-${ctx.headings.length}`);
       if (ctx.headings.some(x => x.id === id)) id += `-${ctx.headings.length}`;
       ctx.headings.push({ level, text: stripInline(text), id });
       out += `<h${level} id="${id}">${renderInline(text, ctx)}</h${level}>`;

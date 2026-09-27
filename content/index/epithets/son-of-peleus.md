@@ -3,7 +3,7 @@ title: Son of Peleus
 greek: Πηληϊάδης, Πηλεΐδης, Πηλεΐων
 kind: epithet
 tags: [heroic-epithet, patronymic]
-summary: The patronymics of [[Achilles]], from his father [[Peleus]]. Book 1 uses three different formations of the name, chosen to fit the meter, beginning with the poem's first line.
+summary: The patronymics of [[Achilles]], from his father [[Peleus]].
 grc: [Πηληϊάδεω, Πηλεΐδη, Πηλεΐδης, Πηλεΐωνι, Πηλεΐωνα, Πηλῆος υἱὸς]
 en: [son of Peleus]
 of: [achilles, peleus]

@@ -3,7 +3,7 @@ title: Black ships
 greek: μέλας
 kind: epithet
 tags: [ship]
-summary: “Black,” an epithet of [[ships]], used five times in Book 1.
+summary: “Black,” an epithet of [[ships]], whose hulls were coated with pitch.
 aliases: [black ship, melaina]
 grc: [μέλαιναν, μελαίνῃ]
 en: [black]

@@ -3,7 +3,7 @@ title: Curved ships
 greek: κορωνίς
 kind: epithet
 tags: [ship]
-summary: “Curved,” an epithet of [[ships]], in Achilles' threat to sail home (1.170).
+summary: “Curved,” an epithet of [[ships]], for their upswept ends.
 aliases: [beaked ships, koronis]
 grc: [κορωνίσιν]
 en: [curved]

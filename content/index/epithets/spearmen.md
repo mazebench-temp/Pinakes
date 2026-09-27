@@ -3,11 +3,11 @@ title: Spearmen
 greek: αἰχμητής
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: “Spearman, warrior”: in Book 1 an epithet of the [[Trojans]] and, in Agamemnon's sneer, of [[Achilles]].
+summary: “Spearman, warrior”: a word for fighters, used as an epithet of peoples and heroes.
 aliases: [warrior, aichmetes]
 grc: [αἰχμητάων, αἰχμητὴν]
 en: [spearmen, spearman]
-of: [trojans, achilles]
+of: [trojans, achilles, abantes, cicones]
 ---
 
 ## Meaning

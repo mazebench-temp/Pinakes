@@ -3,7 +3,7 @@ title: Aegis-bearing
 greek: αἰγίοχος
 kind: epithet
 tags: [divine-epithet, divine-object]
-summary: “Holder of the aegis,” a standing epithet of [[Zeus]], used twice in Book 1, both times in the scene with Athena (1.202, 1.222).
+summary: “Holder of the aegis,” a standing epithet of [[Zeus]].
 aliases: [aigiochos]
 grc: [αἰγιόχοιο]
 en: [aegis-bearing]

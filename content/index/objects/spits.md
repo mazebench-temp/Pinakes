@@ -3,7 +3,7 @@ title: Spits
 greek: ὀβελός
 kind: object
 tags: [sacrifice, feast]
-summary: The spits on which the meat of the sacrificial victims is roasted for the feast at Chryse.
+summary: The spits on which the meat of sacrificial victims is roasted for the feast that follows a sacrifice.
 aliases: [spit, obeloi]
 grc: [ὀβελοῖσιν]
 en: [spits]
@@ -11,7 +11,7 @@ en: [spits]
 
 After the god's portion has burned and the entrails have been tasted, the rest of the meat is cut up, threaded on spits, roasted with care and drawn off ({{ref:Iliad 1.465-466}}). The meat of the victims becomes the [[feast|feast]] (see [[sacrifice|sacrifice]]).
 
-{{quote:0aca7d33-5c9f-5a2d-9644-663359c55c1a}}
+{{notes}}
 
 ## Outside Homer
 

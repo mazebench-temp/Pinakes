@@ -3,7 +3,7 @@ title: Well-greaved
 greek: ἐϋκνήμιδες
 kind: epithet
 tags: [heroic-epithet, weapon]
-summary: One of the commonest epithets of the [[Achaeans]], “with good greaves.” In Book 1 it appears once, in Chryses' address to the army (1.17).
+summary: One of the commonest epithets of the [[Achaeans]], “with good greaves.”
 aliases: [well-greaved Achaeans, euknemides]
 grc: [ἐϋκνήμιδες]
 en: [well-greaved]

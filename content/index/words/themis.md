@@ -3,7 +3,7 @@ title: Ordinances
 greek: θέμις
 kind: term
 tags: [justice, kingship]
-summary: θέμις is what is laid down as right; its plural θέμιστες are the ordinances that come from [[Zeus]] and are kept by kings and judges. [[Achilles]] swears by the scepter that the δικασπόλοι carry, “those who guard the ordinances that come from Zeus”.
+summary: θέμις is what is laid down as right; its plural θέμιστες are the ordinances that come from [[Zeus]] and are kept by kings and judges. Themis is also a goddess, who calls the gods to assembly.
 aliases: [themis, themistes, right, custom, judgment, dikaspoloi, judges]
 grc: [θέμιστας, δικασπόλοι, δικαζέμεν]
 en: [give judgment, ordinances, decide]
@@ -23,15 +23,7 @@ The δικασπόλοι of 1.238 are the men who give such judgments. The word 
 
 Themis is also a goddess. At Zeus' command she calls the gods to assembly (20.4–5), and in the *Odyssey* she dismisses and seats the assemblies of men (2.68–69). The link with the assembly matters in Book 1: Achilles' oath is sworn in one.
 
-## In Book 1
-
-{{quote:422c8743-f485-5542-a68a-56a24331cbca}}
-
-Achilles' oath gives the book's only description of the θέμιστες. The scepter was cut from a tree in the mountains and stripped by the bronze of leaves and bark; it will never grow leaves again. Now the δικασπόλοι carry it, “those who guard the ordinances that come from Zeus”. Achilles swears by the emblem of judgment in a dispute where he thinks judgment has failed, and then throws it to the ground (1.245). See [[scepter]].
-
-{{quote:bbdd9df1-05a8-5c98-9f91-80ed24736e20}}
-
-Hera turns the language of judgment against Zeus. It is always dear to him, she says, to “decide” (δικαζέμεν) secret things apart from her. The king of the gods judges, and the question is who is admitted to his judgments. Zeus answers that some of his counsels are not hers to know (1.545–550).
+{{notes}}
 
 ## Related words
 

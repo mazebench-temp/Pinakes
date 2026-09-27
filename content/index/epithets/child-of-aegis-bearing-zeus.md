@@ -3,11 +3,11 @@ title: Child of aegis-bearing Zeus
 greek: αἰγιόχοιο Διὸς τέκος
 kind: epithet
 tags: [divine-epithet, child-of-zeus]
-summary: Achilles' greeting to [[Athena]] when she appears to him (1.202): the daughter of Zeus.
+summary: “Child of aegis-bearing Zeus,” a formula for [[Athena]], and in the plural for the Muses.
 aliases: [daughter of Zeus]
 grc: [αἰγιόχοιο Διὸς τέκος]
 en: [child]
-of: [athena]
+of: [athena, muses]
 ---
 
 ## Meaning

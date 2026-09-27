@@ -3,24 +3,14 @@ title: City
 greek: πόλις, πτολίεθρον
 kind: term
 tags: [city, warfare]
-summary: The city is what the war is about: "the city of Priam" that the Achaeans hope to sack, and the lesser towns of the Troad they have already sacked.
+summary: The city or town, a walled settlement with its citadel, houses and people. The Iliad is the story of a siege: the Achaeans hope to sack “the city of Priam”, and have already sacked many lesser towns.
 aliases: [polis, city, citadel]
 grc: [πόλιν, πολίων, πτολίεθρον]
 en: [city, cities, citadel]
 ---
 
-{{quote:ba7e7dd8-a1d5-5da5-853a-02d3445e5bc0}}
+πόλις (also πτόλις, with the older consonant cluster) is a town or city: in Homer a walled settlement, with its citadel on the height (ἐν πόλει ἄκρῃ, 6.88), its houses, and its people. πτολίεθρον is a longer epic form, “citadel, town”, and ἄστυ is the town as a place of dwellings; Homer can use either word for the same city. The word is usually compared with Sanskrit *pū́r*, “fortress”, and Lithuanian *pilìs*, “castle”. Cities have their standing epithets: well-walled, well-built, wide-streeted, well-peopled.
 
-The first thing wished for the Achaeans is the city's destruction: "to sack the city of Priam".
+The political sense of later Greek, the city-state and its citizens, is not yet there. The πολιῆται of a town are simply its townsmen (2.806). But the city is already what a man fights for: Hector thinks it better to die gloriously “before the city” (πρὸ πόληος, 22.110).
 
-{{quote:1a08e37e-088d-5021-8a79-04b1b803e131}}
-
-"What we plundered from the cities" (πολίων): the towns of the Troad, whose spoils have already been shared out.
-
-{{quote:edb222b8-2162-5793-9ff6-220694765a0c}}
-
-πτολίεθρον, "citadel, town", an epic form. The Trojans' towns are "well-peopled" (εὖ ναιόμενον).
-
-{{quote:a7d1c268-f65f-5f60-9649-a046a22042d8}}
-
-Thebe, "the sacred city of Eetion", is the one city the book names as sacked. See [[troy]], [[thebe]] and [[achilles-raids]].
+{{notes}}

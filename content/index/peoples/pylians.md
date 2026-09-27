@@ -2,7 +2,7 @@
 title: Pylians
 greek: Πύλιοι
 kind: people
-tags: [achaean, pylian, peloponnese]
+tags: [achaean, pylian, peloponnese, messenia]
 summary: The people of [[Pylos]], Nestor's subjects.
 grc: [Πυλίων]
 en: [Pylians]

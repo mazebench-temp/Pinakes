@@ -27,7 +27,7 @@ export async function catalog() {
     lookups = {
       entries: byId(cat.entries), kinds: byId(cat.kinds), tags: byId(cat.tags), periods: byId(cat.periods),
       ages: byId(cat.ages), modes: byId(cat.modes), works: byId(cat.works), authors: byId(cat.authors),
-      facets: byId(cat.facets), tagChildren,
+      facets: byId(cat.facets), scopes: byId(cat.scopes ?? []), tagChildren,
     };
   }
   return Object.assign(cat, { by: lookups });
@@ -57,7 +57,7 @@ export function tagFamily(cat, id) {
 const KEY = 'pinakes.prefs.v1';
 const DEFAULTS = {
   mode: 'both', layout: 'stacked', size: 1.18, numbers: 'five', names: true, speakers: true,
-  theme: 'system', quoteView: 'en', indexSort: 'az', mythsSort: 'time', lastRead: null, recent: [],
+  theme: 'system', quoteView: 'en', indexSort: 'az', mythsSort: 'time', lastRead: null, recent: [], scope: 'all',
 };
 
 function loadPrefs() {

@@ -6,7 +6,7 @@ tags: [mind]
 summary: The spirit or heart, the seat of feeling, desire and impulse in the chest, and the life that leaves at death. Anger rises in the θυμός, love and pleasure are felt there, and there [[Achilles]] weighs whether to kill [[Agamemnon]].
 aliases: [thymos, thumos, spirit, life, megathymos]
 grc: [θυμὸς, θυμόν, θυμοῦ, θυμῷ, μεγάθυμοι]
-en: [heart, his heart, spirit, life, great-hearted]
+en: [heart, in his heart, spirit, life, great-hearted]
 passages:
   - 1.188-194 | Achilles ponders in mind and heart
 ---
@@ -19,25 +19,7 @@ The word is usually connected with Latin *fumus* and Sanskrit *dhūmá-*, “smo
 
 A man can speak to his θυμός as to a second self, and he ponders “in his mind and in his θυμός” (1.193). Bruno Snell (*The Discovery of the Mind*, 1946; English 1953) argued that Homer has no unified idea of the soul and spreads mental life among θυμός, [[phrenes|φρένες]], [[noos|νόος]] and [[psyche|ψυχή]]. Others, among them Bernard Williams (*Shame and Necessity*, 1993), answered that the Homeric person is a whole agent who describes his deliberations in these terms.
 
-## In Book 1
-
-{{quote:ef4b48c4-8845-5adb-a4fa-e59b908cb876}}
-
-The first use sets the pattern. The army approves the ransom, but it does not please the θυμός of Agamemnon. Private pleasure overrides public judgment.
-
-{{quote:51f32a08-b601-58bd-a377-5619f0692b4b}}
-
-Achilles' deliberation takes place in the θυμός and the φρένες: whether to kill Agamemnon, or to check his anger and restrain his θυμός. Athena arrives while he is still pondering.
-
-{{quote:7743a6f0-eea7-5ed1-81cc-f3824bfe5913}}
-
-The θυμός can be angry and still obey. In the rest of the quarrel it is a weapon. Agamemnon tells Achilles to run home “if your θυμός urges you” (1.173). Achilles answers that Agamemnon has never had the θυμός to arm for battle (1.228), and that he will one day tear his θυμός in regret (1.243).
-
-Among the gods, too, the θυμός is where love lives. Hera loves both men alike in her θυμός (1.196, 1.209). Zeus threatens that if she persists she will be “further from my θυμός” (1.562).
-
-{{quote:600ef783-aedc-57ab-b0f6-993764d931cb}}
-
-At its simplest the θυμός is life. Achilles predicts that Agamemnon may soon lose his θυμός through his arrogance (1.205). Hephaestus, thrown from Olympus, landed on Lemnos with little θυμός left in him. Feasting fills it: at Chryse and on Olympus alike, “no one's θυμός lacked an equal share of the feast” (1.468, 1.602).
+{{notes}}
 
 ## Related words
 

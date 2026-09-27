@@ -2,14 +2,15 @@ import { el, esc, icon, on, debounce, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
+import { ALL, presentIn, linesIn, firstKeyIn, remember, label as scopeLabel } from '../lib/scope.js';
 
 /** Catalog order: ignore leading punctuation and articles ("The sea" files under S). */
 export const sortKey = t => t.normalize('NFD').replace(/[\u0300-\u036F]/g, '').replace(/^[^A-Za-z0-9]+/, '').replace(/^(the|a|an)\s+/i, '');
 const letterOf = t => sortKey(t)[0]?.toUpperCase() || '#';
 
-export function entryRow(e, cat, { meta = 'lines' } = {}) {
+export function entryRow(e, cat, { meta = 'lines', count, first } = {}) {
   const k = cat.by.kinds.get(e.kind);
-  const right = meta === 'first' ? (e.first ?? '') : meta === 'none' ? '' : (e.lines || '');
+  const right = meta === 'first' ? (first ?? e.first ?? '') : meta === 'none' ? '' : ((count ?? e.lines) || '');
   return `<a class="row has-icon" href="#/entry/${esc(e.id)}"><span class="row-icon" style="--h:${k?.hue ?? 262}">${icon(kindIcon(k?.icon))}</span>
     <span class="row-main"><span class="row-title"><span>${esc(e.title)}</span>${e.greek ? `<span class="row-greek">${esc(e.greek)}</span>` : ''}</span>
     ${e.summary ? `<span class="row-sub one">${esc(e.summary)}</span>` : ''}</span>
@@ -42,17 +43,23 @@ export async function render(route, { setQuery }) {
   let q = route.query.q ?? '';
   let sort = route.query.sort ?? store.prefs.indexSort ?? 'az';
   const kinds = cat.kinds.filter(k => k.count);
+  // Scope: every entry, or only those present in one work or book.
+  const scopeChoices = [ALL, ...cat.scopes.filter(s => s.kind === 'book' || (s.kind === 'work' && cat.scopes.filter(x => x.kind === 'work').length > 1)).map(s => s.id)];
+  let S = route.query.in ?? store.prefs.scope ?? ALL;
+  if (!scopeChoices.includes(S)) S = ALL;
+  const inScope = () => cat.entries.filter(e => presentIn(e, S, cat));
 
   const view = el(`<div class="view">
     <header class="page-head" style="padding-bottom:6px">
       <h1 class="large-title" data-title-anchor>Index</h1>
-      <p class="page-sub">${cat.stats.entries.toLocaleString()} entries: every name, place, people, god and creature in the text, and the words, customs, stories and ideas around them.</p>
+      <p class="page-sub"></p>
     </header>
     <div class="index-tools">
+      ${scopeChoices.length > 2 ? `<div class="scope-bar" role="tablist" aria-label="Entries in">${scopeChoices.map(s => `<button class="scope-chip" type="button" role="tab" data-scope="${esc(s)}" aria-selected="${s === S}">${s === ALL ? 'All texts' : esc(scopeLabel(s, cat))}</button>`).join('')}</div>` : ''}
       <label class="search-field" for="index-q">${icon('search')}<input id="index-q" type="search" placeholder="Filter the index" value="${esc(q)}" autocomplete="off" enterkeyhint="search"><button class="clear" type="button" aria-label="Clear" ${q ? '' : 'hidden'}>${icon('x')}</button></label>
       <div class="chips" role="group" aria-label="Kinds">
-        <button class="chip" type="button" data-k="all" aria-pressed="${kind === 'all'}">All <span class="n">${cat.stats.entries}</span></button>
-        ${kinds.map(k => `<button class="chip" type="button" data-k="${k.id}" aria-pressed="${kind === k.id}">${esc(k.label)} <span class="n">${k.count}</span></button>`).join('')}
+        <button class="chip" type="button" data-k="all" aria-pressed="${kind === 'all'}">All <span class="n" data-n="all"></span></button>
+        ${kinds.map(k => `<button class="chip" type="button" data-k="${k.id}" aria-pressed="${kind === k.id}">${esc(k.label)} <span class="n" data-n="${k.id}"></span></button>`).join('')}
       </div>
       <div data-sort></div>
     </div>
@@ -65,11 +72,21 @@ export async function render(route, { setQuery }) {
   const input = view.querySelector('#index-q');
   const clear = view.querySelector('.clear');
 
+  const counts = () => {
+    const pool = inScope();
+    view.querySelector('.page-sub').textContent = S === ALL
+      ? `${cat.stats.entries.toLocaleString()} entries: every name, place, people, god and creature in the text, and the words, customs, stories and ideas around them.`
+      : `${pool.length.toLocaleString()} entries present in ${scopeLabel(S, cat)}, of ${cat.stats.entries.toLocaleString()} in the index.`;
+    view.querySelectorAll('[data-n]').forEach(n => { n.textContent = (n.dataset.n === 'all' ? pool : pool.filter(e => e.kind === n.dataset.n)).length; });
+    view.querySelectorAll('.chip[data-k]').forEach(c => { c.hidden = c.dataset.k !== 'all' && c.dataset.k !== kind && !pool.some(e => e.kind === c.dataset.k); });
+  };
   const draw = () => {
-    let list = cat.entries.filter(e => kind === 'all' || e.kind === kind);
+    const lines = e => linesIn(e, S, cat);
+    const row = (e, opts) => entryRow(e, cat, { ...opts, count: lines(e), first: S === ALL ? e.first : (() => { const k = firstKeyIn(e, S, cat); const m = k.match(/(\d+)\.(\d+)$/); return m ? `${+m[1]}.${+m[2]}` : ''; })() });
+    let list = inScope().filter(e => kind === 'all' || e.kind === kind);
     if (q) list = list.map(e => [e, matchEntry(e, q)]).filter(([, s]) => s > 0).sort((a, b) => b[1] - a[1] || a[0].title.localeCompare(b[0].title)).map(([e]) => e);
-    else if (sort === 'freq') list.sort((a, b) => b.lines - a.lines || a.title.localeCompare(b.title));
-    else if (sort === 'text') list.sort((a, b) => a.firstKey.localeCompare(b.firstKey) || a.title.localeCompare(b.title));
+    else if (sort === 'freq') list.sort((a, b) => lines(b) - lines(a) || a.title.localeCompare(b.title));
+    else if (sort === 'text') list.sort((a, b) => firstKeyIn(a, S, cat).localeCompare(firstKeyIn(b, S, cat)) || a.title.localeCompare(b.title));
     else list.sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title), 'en', { sensitivity: 'base' }));
 
     if (!list.length) { results.innerHTML = `<div class="list"><div class="list-empty">Nothing in the index matches “${esc(q)}”. Try Greek (μῆνις), a transliteration (menis), or <a href="#/search?q=${encodeURIComponent(q)}">search the text</a>.</div></div>`; alpha.innerHTML = ''; return; }
@@ -77,16 +94,22 @@ export async function render(route, { setQuery }) {
     if (!q && sort === 'az') {
       const groups = new Map();
       for (const e of list) { const L = letterOf(e.title); if (!groups.has(L)) groups.set(L, []); groups.get(L).push(e); }
-      results.innerHTML = [...groups].map(([L, items]) => `<div class="letter-head" id="letter-${L}">${L}</div><div class="list">${items.map(e => entryRow(e, cat)).join('')}</div>`).join('');
+      results.innerHTML = [...groups].map(([L, items]) => `<div class="letter-head" id="letter-${L}">${L}</div><div class="list">${items.map(e => row(e)).join('')}</div>`).join('');
       alpha.innerHTML = [...groups.keys()].map(L => `<span data-l="${L}">${L}</span>`).join('');
     } else {
-      results.innerHTML = `<div class="list" style="margin-top:8px">${list.map(e => entryRow(e, cat, { meta: sort === 'text' && !q ? 'first' : 'lines' })).join('')}</div>
+      results.innerHTML = `<div class="list" style="margin-top:8px">${list.map(e => row(e, { meta: sort === 'text' && !q ? 'first' : 'lines' })).join('')}</div>
         <p class="footnote-text">${list.length.toLocaleString()} ${list.length === 1 ? 'entry' : 'entries'}${sort === 'freq' && !q ? ', by number of lines in which each appears' : ''}${sort === 'text' && !q ? ', in order of first appearance' : ''}.</p>`;
       alpha.innerHTML = '';
     }
   };
 
-  const sync = () => setQuery({ k: kind === 'all' ? '' : kind, q, sort: sort === 'az' ? '' : sort });
+  const sync = () => setQuery({ k: kind === 'all' ? '' : kind, q, sort: sort === 'az' ? '' : sort, in: S === ALL ? '' : S });
+  on(view, 'click', '.scope-chip', (e, b) => {
+    S = b.dataset.scope;
+    remember(S);
+    view.querySelectorAll('.scope-chip').forEach(c => c.setAttribute('aria-selected', String(c === b)));
+    counts(); sync(); draw();
+  });
   view.querySelector('[data-sort]').append(segmented([['az', 'A–Z'], ['freq', 'Most frequent'], ['text', 'In the text']], sort, v => {
     sort = v; store.setPref('indexSort', v); sync(); draw();
   }, 'Sort'));
@@ -108,6 +131,7 @@ export async function render(route, { setQuery }) {
   alpha.addEventListener('pointerdown', e => { alpha.setPointerCapture(e.pointerId); scrub(e); });
   alpha.addEventListener('pointermove', e => { if (alpha.hasPointerCapture(e.pointerId)) scrub(e); });
 
+  counts();
   draw();
   return { title: 'Index', el: view };
 }

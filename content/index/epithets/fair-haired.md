@@ -3,11 +3,11 @@ title: Fair-haired
 greek: ξανθός
 kind: epithet
 tags: [heroic-epithet, body]
-summary: “Yellow, fair”: the color of [[Achilles]]' hair, by which Athena seizes him at 1.197.
+summary: “Yellow, fair”: the color of a hero's hair, the standing epithet of Menelaus, given also to Achilles and Meleager.
 aliases: [blond, tawny, xanthos]
 grc: [ξανθῆς]
 en: [fair]
-of: [achilles]
+of: [achilles, meleager]
 ---
 
 ## Meaning

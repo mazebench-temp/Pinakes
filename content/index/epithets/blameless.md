@@ -3,11 +3,11 @@ title: Blameless
 greek: ἀμύμων
 kind: epithet
 tags: [heroic-epithet]
-summary: A standing term of praise, traditionally “blameless,” perhaps rather “excellent.” In Book 1 it describes the seer [[Calchas]] and the [[Ethiopians]].
+summary: A standing term of praise for heroes, seers and peoples, traditionally “blameless,” perhaps rather “excellent.”
 aliases: [noble, excellent, amymon]
 grc: [ἀμύμων, ἀμύμονας]
 en: [noble, blameless]
-of: [calchas, ethiopians]
+of: [calchas, ethiopians, achilles, glaucus]
 ---
 
 ## Meaning

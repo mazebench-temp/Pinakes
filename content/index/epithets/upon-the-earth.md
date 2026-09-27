@@ -3,7 +3,7 @@ title: Upon the earth
 greek: ἐπιχθόνιος
 kind: epithet
 tags: [heroic-epithet]
-summary: “Those upon the earth”: a word for mortals as opposed to the gods of heaven. Nestor uses it twice in his praise of the heroes of old (1.266, 1.272).
+summary: “Those upon the earth”: a word for mortals as opposed to the gods of heaven.
 aliases: [earthly, epichthonios]
 grc: [ἐπιχθονίων, ἐπιχθόνιοι]
 en: [on earth]

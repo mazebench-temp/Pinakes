@@ -31,7 +31,7 @@ export async function render() {
       </div>
       <div class="btn-row">
         <a class="btn" href="#/read/${w.id}/${w.available[0]}">${icon('book')}Read Book ${w.available[0]}</a>
-        <a class="btn secondary" href="#/book/${w.id}/${w.available[0]}">Book ${w.available[0]} at a glance</a>
+        <a class="btn secondary" href="#/book/${w.id}/${w.available.at(-1)}">Book ${w.available.at(-1)} at a glance</a>
         <a class="btn plain" href="#/work/${w.id}">About the ${esc(w.title)}</a>
       </div>
     </article>`;
@@ -62,7 +62,7 @@ export async function render() {
         <a class="stat" href="#/index"><b>${cat.stats.entries.toLocaleString()}</b><span>index entries</span></a>
         <a class="stat" href="#/myths"><b>${cat.stats.stories}</b><span>stories and myths</span></a>
         <a class="stat" href="#/tags"><b>${cat.tags.filter(t => t.count).length}</b><span>tags in use</span></a>
-        <a class="stat" href="#/vocab/homer.iliad/1"><b>${cat.stats.lemmas.toLocaleString()}</b><span>Greek words, glossed</span></a>
+        <a class="stat" href="#/vocab/homer.iliad/${cat.by.works.get('homer.iliad')?.available.at(-1) ?? 1}"><b>${cat.stats.lemmas.toLocaleString()}</b><span>Greek words, glossed</span></a>
         <a class="stat" href="#/quotes"><b>${(cat.stats.passages ?? cat.stats.quotes).toLocaleString()}</b><span>passages quoted</span></a>
       </div>
     </section>

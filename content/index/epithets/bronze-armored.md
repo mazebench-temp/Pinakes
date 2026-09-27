@@ -3,7 +3,7 @@ title: Bronze-armored
 greek: χαλκοχίτωνες
 kind: epithet
 tags: [heroic-epithet, weapon]
-summary: “Bronze-tunicked”: an epithet of the [[Achaeans]], used once in Book 1, in Achilles' retelling of Chryses' plea (1.371).
+summary: “Bronze-tunicked”: an epithet of the [[Achaeans]], armored in bronze.
 aliases: [bronze-clad, chalkochitones]
 grc: [χαλκοχιτώνων]
 en: [bronze-armored]

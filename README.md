@@ -1,9 +1,9 @@
 # Pinakes · Πίνακες
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
-catalogue of the Library of Alexandria. It begins with Homer's Iliad, Book 1: the Greek text, a new
-line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
-custom, word, epithet, formula, story and idea in it.
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 and 2: the Greek text, a
+new line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
+custom, word, epithet, formula, story and idea in them.
 
 ```sh
 npm run dev      # build, serve at http://localhost:5178, rebuild and reload on every change
@@ -23,6 +23,9 @@ Requires Node 20 or later. There are no dependencies to install.
   book's structure file.
 - **Index**: entries in 18 kinds, from gods and heroes to Greek words, epithets, rituals and textual
   notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
+- **Scopes**: every article can be read whole or at one book (All · Iliad 1 · Iliad 2 …). The general
+  article (etymology, family, myth, later tradition) is shared; what the entry does in each book is a
+  note of its own. The chosen scope is remembered, so studying a book keeps every article on it.
 - **Myths**: every story told, remembered or foretold, placed in mythic time from the Primordial age
   and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony.
 - **Tags**: faceted and nested. A tag includes its children, and tags can be combined.
@@ -43,6 +46,7 @@ content/
   library/<author>/<work>/structure/01.json   scenes, speeches, days
   library/<author>/<work>/lexicon/01.json     lemma, gloss and parse for every word
   library/<author>/<work>/TRANSLATION.md      translation conventions
+  library/<author>/<work>/notes/02/<id>.md    what an index entry is and does in Book 2
   index/<folder>/<id>.md                   index entries (see docs/index-guide.md)
   quotes/<work>.json                       the quote registry
   kinds.json  tags.json  periods.json      taxonomies
@@ -53,8 +57,9 @@ docs/index-guide.md                        how to write index entries
 
 ## Adding more
 
-**Another book of the Iliad.** Add `grc/02.txt`, `en/02.txt`, `structure/02.json` and
-`lexicon/02.json`, and a `books.2` title in `work.json`. The concordance runs over every available
+**Another book of the Iliad.** Add `grc/03.txt`, `en/03.txt`, `structure/03.json` and
+`lexicon/03.json` (built in parts with `scripts/lexicon.mjs`), a `books.3` title in `work.json`, and
+notes under `notes/03/`. The concordance runs over every available
 book, so existing entries pick up their new occurrences at once, and the build report lists every
 capitalized Greek word that no entry covers yet (`site/data/report.json`, and the About page).
 

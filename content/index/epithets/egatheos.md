@@ -3,11 +3,11 @@ title: Sacred (egatheos)
 greek: ἠγάθεος
 kind: epithet
 tags: [peloponnese]
-summary: “Very holy,” the epithet of [[Pylos]], Nestor's home (1.252).
+summary: “Very holy,” an epithet of places: Pylos, Lemnos, and in the Odyssey Pytho.
 aliases: [very sacred, sacred Pylos]
 grc: [ἠγαθέῃ]
 en: [sacred]
-of: [pylos]
+of: [pylos, lemnos]
 ---
 
 ## Meaning

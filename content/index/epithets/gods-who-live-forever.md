@@ -3,7 +3,7 @@ title: The gods who live forever
 greek: θεοὶ αἰὲν ἐόντες
 kind: epithet
 tags: [divine-epithet]
-summary: A line-end formula for the gods as a body, “the gods who are forever” (1.290, 1.494).
+summary: Formulas for the gods as a body, “the gods who are forever” (θεοὶ αἰὲν ἐόντες) and “the everlasting gods” (θεοὶ αἰειγενέται).
 aliases: [everlasting gods, theoi aien eontes]
 grc: [θεοὶ αἰὲν ἐόντες]
 en: [gods who live forever]

@@ -3,12 +3,21 @@
   "author": "homer",
   "title": "Iliad",
   "greek": "Ἰλιάς",
-  "aliases": ["iliad", "il", "il."],
+  "aliases": [
+    "iliad",
+    "il",
+    "il."
+  ],
   "genre": "Epic",
   "meter": "Dactylic hexameter",
   "date": "c. 750–700 BCE (traditional)",
   "summary": "Twenty-four books on a few weeks in the tenth year of the Trojan War: the wrath of Achilles, its cost to Greeks and Trojans, and its end.",
-  "citation": { "scheme": "book.line", "book": "Book", "unit": "line", "abbr": "Il." },
+  "citation": {
+    "scheme": "book.line",
+    "book": "Book",
+    "unit": "line",
+    "abbr": "Il."
+  },
   "display": "verse",
   "bookCount": 24,
   "books": {
@@ -17,6 +26,12 @@
       "title": "The Wrath",
       "greek": "Λοιμός, Μῆνις",
       "summary": "Apollo’s plague, the quarrel of Agamemnon and Achilles, Achilles’ withdrawal, Thetis’ appeal to Zeus, and a quarrel among the gods ended by laughter."
+    },
+    "2": {
+      "letter": "Β",
+      "title": "The Dream and the Catalogue",
+      "greek": "Ὄνειρος, Βοιωτία",
+      "summary": "Zeus sends a lying dream to Agamemnon. Agamemnon tests the army, and it runs for the ships; Odysseus turns it back and beats Thersites. The army is marshaled, and the poet calls on the Muses to name the leaders and ships of the Achaeans and the allies of Troy."
     }
   },
   "editions": [

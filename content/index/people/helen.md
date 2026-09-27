@@ -1,0 +1,42 @@
+---
+title: Helen
+greek: Ἑλένη
+kind: person
+tags: [woman, child-of-zeus, demigod]
+summary: Daughter of [[Zeus]] and wife of [[Menelaus]] of Sparta, whose going to Troy with Paris is the cause of the war. The Achaeans fight to win her back and to make the Trojans pay for her.
+aliases: [Helen of Troy, Helen of Sparta, Argive Helen]
+grc: [Ἑλένην, Ἑλένης]
+relations:
+  - father: zeus (3.199, 3.418)
+  - husband: menelaus (3.163)
+---
+
+## Etymology
+
+Ἑλένη (Helenē). The origin of the name is unknown. Greek poets punned on it with ἑλεῖν (“to take, destroy”): Aeschylus' chorus calls her “hell to ships, hell to men, hell to cities” (ἑλένας, ἕλανδρος, ἑλέπτολις, *Agamemnon* 681–690). Some scholars think she was once a goddess, since she had a shrine at Therapne near Sparta (Herodotus 6.61).
+
+## Family
+
+Homer calls her the daughter of Zeus (Ἑλένη Διὸς ἐκγεγαυῖα, 3.199, 3.418), the sister of Castor and Polydeuces, “whom one mother bore with me” (3.236–244), and the wife of [[Menelaus]], whom Priam calls her “former husband” (3.163). He never names her mother. By Menelaus she had one child, a daughter, Hermione (Odyssey 4.12–14).
+
+## Descriptions
+
+{{quote:6b36d935-7107-53a4-a253-3a06aace538e}}
+
+Ἀργείη Ἑλένη, “Argive Helen”: Argos here means the Greek homeland, not only the city. The formula is first heard from Hera, who wants the Achaeans to stay and win her back. See [[argive-helen]].
+
+Later books give her the epithets of a great lady: “white-armed” (λευκώλενος, 3.121), “long-robed” (τανύπεπλος, 3.228), “brilliant among women” (δῖα γυναικῶν, 3.171).
+
+{{notes}}
+
+## Mythology
+
+Paris carried her off from Lacedaemon, and they first lay together on the island of Cranae (3.443–445). At Troy she weaves into a great purple cloth the struggles that Trojans and Achaeans suffer for her sake (3.125–128). The Trojan elders, watching her pass on the wall, say there is no blame (οὐ νέμεσις) in fighting so long for such a woman (3.156–158). She calls herself “dog-faced” and “a dog” (3.180, 6.344), and she turns on Aphrodite for her part (3.399–412). She speaks the last of the three laments for Hector (24.762–775).
+
+In the Odyssey she is home again at Sparta with Menelaus. She mixes into the wine a drug from Egypt that banishes grief, and tells how she recognized Odysseus when he came into Troy disguised as a beggar (4.219–264).
+
+## Outside Homer
+
+In the *Cypria*, as [[proclus|Proclus]] summarizes it, Aphrodite promises Helen to Paris at the Judgment; Paris comes to Sparta while Menelaus is away in Crete, and carries off Helen with much treasure. The same poem made Nemesis, pursued by Zeus, her mother (Athenaeus 8.334b–d). Later tradition made her the daughter of Leda, whom Zeus visited as a swan (Euripides, *Helen* 16–21).
+
+Stesichorus retracted the story in his *Palinode*: “That story is not true: you did not go in the well-benched ships, nor come to the towers of Troy” (quoted by Plato, *Phaedrus* 243a–b). Herodotus heard in Egypt that Helen had spent the war there with King Proteus, and argued that Homer knew this version but set it aside as less fit for epic (2.112–120). Euripides' *Helen* (412 BCE) sends only a phantom to Troy. Gorgias defended her in his *Encomium of Helen*.

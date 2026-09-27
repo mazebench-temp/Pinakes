@@ -3,7 +3,7 @@ title: Hollow ships
 greek: κοῖλος
 kind: epithet
 tags: [ship]
-summary: “Hollow,” an epithet of [[ships]]. Both uses in Book 1 are threats or promises about who may come to the ships (1.26, 1.89).
+summary: “Hollow,” an epithet of [[ships]]: κοῖλος, and its synonym γλαφυρός.
 aliases: [koilos]
 grc: [κοίλῃσιν, κοίλῃς]
 en: [hollow]

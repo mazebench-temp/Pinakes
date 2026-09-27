@@ -2,7 +2,7 @@
 title: Foresight
 kind: theme
 tags: [divination, mind, foreshadowing]
-summary: Knowing what is coming. [[Calchas]] knows “the things that are, the things to come, and the things that were before”; [[Agamemnon]], says Achilles, cannot look “before and after”; gods and heroes foretell what the poem will bring.
+summary: Knowing what is coming, and failing to. Seers and gods foresee, the wise counselor looks “before and after”, and the narrator knows the end; most of the characters do not.
 refs: [1.70, 1.82, 1.83, 1.106, 1.204, 1.212, 1.240, 1.343, 1.388, 1.416, 1.526, 1.527, 1.548]
 passages:
   - 1.68-83 | Calchas foresees the king's anger
@@ -10,37 +10,11 @@ passages:
   - 1.524-527 | No word of Zeus can go unfulfilled
 ---
 
-Book 1 is full of people who know, or claim to know, what is coming, and of one man who cannot see it.
+Foresight in the Iliad belongs to a few. The gods know what is coming, or some of it; Zeus alone knows his own counsels. Seers such as [[calchas|Calchas]] know “the things that are, the things to come, and the things that were before” (1.70). Among men, the mark of the wise counselor is to look “before and after” (see [[before-and-after]]). Most of the characters see only the present, and act on hopes and fears that the listener knows to be wrong.
 
-## The seer
+The narrator knows the end of the story and lets the listener see it coming. He tells what is fated in advance, and marks a character's ignorance with a single word, νήπιος (“fool”; properly a child, one who cannot see what is coming): Patroclus, begging Achilles to send him into battle, is “a great fool, for he was begging for his own evil death and doom” (16.46–47). The listener, who knows how the story ends, watches men who do not.
 
-{{quote:ec9ea2ff-7282-54c4-a357-ba60f717a50f}}
-
-Calchas knows “the things that are, the things to come, and the things that were before”. Hesiod uses the same line of the Muses (*Theogony* 38; see [[calchas-and-the-muses]]): the seer and the poet claim the same knowledge. Calchas' foresight includes his own danger. Before he speaks he asks for protection, because he foresees that the king will keep a grudge “until he has fulfilled it” (1.76–83).
-
-## The man who cannot see
-
-{{quote:d126eb2c-254f-599d-a09b-ed02b090dc3a}}
-
-Achilles' charge against Agamemnon is a failure of foresight. He rages with a ruinous mind and “does not know how to look both before and after” (ἅμα πρόσσω καὶ ὀπίσσω), so that the Achaeans might fight in safety (see [[before-and-after]]). In the Iliad this is the mark of the wise counselor. Menelaus says that an old man's mind looks before and after (3.108–110); Polydamas, “alone”, saw before and after (18.250). Agamemnon's hostility to the seer who sees only evils (1.106–108) is part of the same blindness. See [[ate|ἄτη]].
-
-## Predictions
-
-Nearly everyone of rank in the book foretells something.
-
-- Achilles predicts that Agamemnon will soon lose his life through his arrogance, “and I think it will be fulfilled” (1.204–205).
-- Athena promises three times the gifts, “and it will surely come to pass” (1.212–214). The promise is kept in Books 9 and 19 (see [[triple-gifts-foretold]]).
-- Achilles swears that a longing for him will seize the Achaeans when Hector kills them (1.240–244; see [[longing-for-achilles]]).
-- Thetis knows that her son's life will be brief (1.415–418; see [[the-short-life-of-achilles]]).
-- Agamemnon's threat to take Briseis is “a word which has now been carried out” (1.388).
-
-{{quote:8c410b22-d51b-5484-87a6-eec7a367da36}}
-
-Zeus' nod is foresight made binding. What he confirms with it cannot be taken back, cannot deceive, and cannot go unfulfilled (see [[no-word-taken-back]]). His counsels are hidden even from Hera. Whatever it is fitting for her to hear, no one shall know before her, but what he devises apart from the gods is not hers to ask about (1.545–550).
-
-## The poem's own foresight
-
-The proem tells the end before the beginning: souls sent to Hades, bodies to the dogs, and the plan of Zeus being fulfilled (1.1–5). The listener, like Calchas, knows what is to come; the characters, like Agamemnon, mostly do not.
+{{notes}}
 
 ## Related entries
 

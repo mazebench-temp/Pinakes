@@ -3,7 +3,7 @@ title: High
 greek: μακρός
 kind: epithet
 tags: [cosmic, mountain]
-summary: “Tall, lofty,” an epithet of [[Olympus]] in Achilles' story of Briareus (1.402).
+summary: “Tall, lofty,” an epithet of [[Olympus]].
 aliases: [lofty, makros]
 grc: [μακρὸν Ὄλυμπον]
 en: [high]

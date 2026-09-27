@@ -3,7 +3,7 @@ title: Mortal men (meropes)
 greek: μέροπες ἄνθρωποι
 kind: epithet
 tags: [heroic-epithet]
-summary: An old epithet of humankind whose meaning was already uncertain in antiquity; the translation renders it “mortal.” Nestor uses it of the generations he has outlived (1.250).
+summary: An old epithet of humankind whose meaning was already uncertain in antiquity; the translation renders it “mortal.”
 aliases: [meropes anthropoi, articulate men]
 grc: [μερόπων ἀνθρώπων]
 en: [mortal men]

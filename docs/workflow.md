@@ -1,0 +1,35 @@
+# Studying a new book: the workflow
+
+How Iliad 2 was added, as a checklist for the next book. Every step ends with `npm run check`
+and `npm test` clean.
+
+1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other
+   books). The build picks it up at once, and the report lists every capitalized word no entry
+   covers yet.
+2. **Names table.** Before translating, fix the English spelling of every name in the book (Latin
+   forms, as in the earlier books), and list the names that belong to two people or places. The
+   translation, the lexicon and the index all use this table.
+3. **Translation** (`en/NN.txt`). Keep line fidelity, and keep each name on its own line. Repeated
+   Greek lines get the same English, and so do Book 1's formulas (check `TRANSLATION.md` and the
+   earlier books for exact repeats). Then have an independent audit compare every line with the
+   Greek, and record new formulas and disputed lines in `TRANSLATION.md`.
+4. **Structure** (`structure/NN.json`): scenes covering every line, speeches that match the
+   quotation marks, days. Speakers and addressees must be entry ids.
+5. **Lexicon.** `node scripts/lexicon.mjs skeleton` makes parts of about 125 lines; analyze them in
+   parallel against the lemma list of the earlier books (`lexicon.mjs lemmas`); `check` each part;
+   normalize lemma spellings across parts; `merge`.
+6. **Index.** Give every writer a list of the ids they own:
+   - the book's places, peoples and people, by stretch of text;
+   - the story's people and gods, and the notes of the major figures;
+   - words, themes, formulas, similes, sayings, things and stories;
+   - epithets;
+   - reception.
+
+   New things get entry files. Existing entries get a note in `notes/NN/`, whose front matter adds the
+   new forms. Summaries stay general; a summary that was only about an earlier book moves into that
+   book's note.
+7. **Integration.** Fix the collisions the writers report (shared names need `except:`). Merge
+   duplicate quote titles, then run `npm run quotes`. Check that the report has no unindexed names,
+   no missing links and no "English form never found" warnings. Tag new places by region.
+8. **Publish.** Run `npm run export`, then republish `dist/artifact.html` with every file under
+   `dist/`.

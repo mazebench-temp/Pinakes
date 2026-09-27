@@ -3,12 +3,12 @@ title: Lemnos
 greek: Λῆμνος
 kind: place
 tags: [island]
-summary: The island in the northern Aegean where [[Hephaestus]] landed when Zeus threw him from heaven, and where the [[Sintians]] cared for him.
+summary: An island in the northern Aegean, sacred to [[Hephaestus]], who landed there when Zeus threw him from heaven. On their way to Troy the Achaeans left the wounded [[Philoctetes]] there.
 grc: [Λήμν*]
 en: [Lemnos]
 ---
 
-{{quote:b2b207ac-383e-519a-93c3-e8c20c7e4877}}
+{{notes}}
 
 ## Outside Homer
 

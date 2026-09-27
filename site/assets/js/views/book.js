@@ -2,6 +2,7 @@
 import { el, esc, icon, on, plural, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { BOOK_LETTERS } from './library.js';
+import { linesIn, presentIn, firstKeyIn } from '../lib/scope.js';
 
 function tip(root) {
   const t = el('<div class="chart-tip" role="tooltip" hidden></div>');
@@ -29,6 +30,9 @@ export async function render(route) {
   const total = text.lines.length;
   const last = text.lines.at(-1).n;
   const title = id => cat.by.entries.get(id)?.title ?? id;
+  const S = `${workId}.${book}`;
+  const here = e => linesIn(e, S, cat);
+  const firstHere = e => { const m = firstKeyIn(e, S, cat).match(/(\d+)\.(\d+)$/); return m ? `${+m[1]}.${+m[2]}` : ''; };
 
   // Who speaks: lines per speaker, plus the narrator's share as context.
   const bySpeaker = new Map();
@@ -43,12 +47,17 @@ export async function render(route) {
 
   // Most named: entries of the name kinds, by number of lines.
   const nameKinds = new Set(cat.kinds.filter(k => k.names).map(k => k.id));
-  const named = cat.entries.filter(e => nameKinds.has(e.kind) && e.lines).sort((a, b) => b.lines - a.lines).slice(0, 14);
-  const maxNamed = named[0]?.lines ?? 1;
+  const named = cat.entries.filter(e => nameKinds.has(e.kind) && here(e)).sort((a, b) => here(b) - here(a)).slice(0, 14);
+  const maxNamed = named[0] ? here(named[0]) : 1;
+  // Entries that first appear in this book: nothing in the work's earlier books.
+  const earlier = cat.scopes.filter(sc => sc.kind === 'book' && sc.work === workId && sc.book < book).map(sc => sc.id);
+  const fresh = cat.entries.filter(e => presentIn(e, S, cat) && !earlier.some(b => presentIn(e, b, cat)));
 
-  const stories = cat.entries.filter(e => e.kind === 'story').sort((a, b) => a.firstKey.localeCompare(b.firstKey));
+  const stories = cat.entries.filter(e => e.kind === 'story' && presentIn(e, S, cat)).sort((a, b) => firstKeyIn(a, S, cat).localeCompare(firstKeyIn(b, S, cat)));
   const tokens = text.lines.reduce((a, l) => a + l.tk.length, 0);
-  const ticks = [1, 100, 200, 300, 400, 500, last];
+  const ticks = [1, ...Array.from({ length: Math.floor((last - 1) / 100) }, (_, i) => (i + 1) * 100).filter(t => last - t > 40), last];
+  const dayNums = text.days.flatMap(d => (d.label.match(/\d+/g) ?? []).map(Number));
+  const dayLabel = dayNums.length ? (Math.min(...dayNums) === Math.max(...dayNums) ? String(dayNums[0]) : `${Math.min(...dayNums)}–${Math.max(...dayNums)}`) : '';
   const pos = n => ((n - 1) / (last - 1)) * 100;
 
   const barRow = ({ href, label, sub, value, max, muted, tipHtml }) => `
@@ -64,11 +73,13 @@ export async function render(route) {
       <p class="page-sub">${esc(text.summary)}</p>
     </header>
 
-    <div class="stat-grid four">
+    <div class="stat-grid${earlier.length ? '' : ' four'}">
       <a class="stat" href="#/read/${workId}/${book}"><b>${total}</b><span>lines of verse</span></a>
       <a class="stat" href="#/vocab/${workId}/${book}"><b>${tokens.toLocaleString()}</b><span>words, ${text.lemmas.length.toLocaleString()} distinct</span></a>
       <div class="stat"><b>${text.speeches.length}</b><span>speeches, ${Math.round((100 * spoken) / total)}% of the lines</span></div>
-      <div class="stat"><b>${Math.max(...text.days.flatMap(d => (d.label.match(/\d+/g) ?? []).map(Number)))}</b><span>days of action</span></div>
+      ${dayLabel ? `<div class="stat"><b>${dayLabel}</b><span>${dayLabel.includes('–') ? 'days' : 'day'} of the poem's action</span></div>` : ''}
+      ${earlier.length ? `<a class="stat" href="#/index?in=${esc(S)}&sort=text"><b>${fresh.length}</b><span>index entries first met here</span></a>
+        <a class="stat" href="#/vocab/${workId}/${book}?new=1"><b>${text.lemmas.filter(l => l[4]).length.toLocaleString()}</b><span>words new to the ${esc(work.title)}</span></a>` : ''}
     </div>
 
     <section class="section">
@@ -97,13 +108,13 @@ export async function render(route) {
     </section>
 
     <section class="section">
-      <div class="section-head"><h2 class="section-title">Most named</h2><a class="section-link" href="#/index?sort=freq">All by frequency</a></div>
+      <div class="section-head"><h2 class="section-title">Most named</h2><a class="section-link" href="#/index?in=${esc(S)}&sort=freq">All by frequency</a></div>
       <p class="footnote-text" style="margin:0 4px 10px">Gods, people, peoples and places, by the number of lines in which each is named or referred to.</p>
       <div class="chart">
         ${named.map(e => {
           const k = cat.by.kinds.get(e.kind);
-          return barRow({ href: `#/entry/${esc(e.id)}`, label: `${icon(kindIcon(k?.icon))} ${esc(e.title)}`, sub: esc(k?.one ?? ''), value: e.lines, max: maxNamed,
-            tipHtml: `<b>${esc(e.title)}</b> ${e.greek ? `<span class="grc">${esc(e.greek)}</span>` : ''}<br>${plural(e.lines, 'line')} · first at ${esc(e.first ?? '')}` });
+          return barRow({ href: `#/entry/${esc(e.id)}?in=${esc(S)}`, label: `${icon(kindIcon(k?.icon))} ${esc(e.title)}`, sub: esc(k?.one ?? ''), value: here(e), max: maxNamed,
+            tipHtml: `<b>${esc(e.title)}</b> ${e.greek ? `<span class="grc">${esc(e.greek)}</span>` : ''}<br>${plural(here(e), 'line')} · first at ${esc(firstHere(e))}` });
         }).join('')}
       </div>
     </section>
@@ -111,7 +122,7 @@ export async function render(route) {
     ${stories.length ? `<section class="section"><div class="section-head"><h2 class="section-title">Stories told</h2><a class="section-link" href="#/myths?view=text">In order</a></div>
       <div class="list">${stories.map(s => {
         const p = cat.by.periods.get(s.period);
-        return `<a class="row" href="#/entry/${esc(s.id)}"><span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')} · ${esc(s.first ?? '')}</span></span>${icon('chevron', 'chev')}</a>`;
+        return `<a class="row" href="#/entry/${esc(s.id)}"><span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')} · ${esc(firstHere(s))}</span></span>${icon('chevron', 'chev')}</a>`;
       }).join('')}</div></section>` : ''}
 
     <div class="spacer"></div>

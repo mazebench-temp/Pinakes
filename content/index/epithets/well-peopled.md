@@ -3,11 +3,11 @@ title: Well-peopled citadel
 greek: εὖ ναιόμενον πτολίεθρον
 kind: epithet
 tags: [troad, city]
-summary: The line-end formula for a prosperous town, “a well-inhabited citadel,” used of the Trojan towns the Achaeans sack (1.164).
+summary: The line-end formula for a prosperous town, “a well-inhabited citadel.”
 aliases: [eu naiomenon ptoliethron]
 grc: [εὖ ναιόμενον πτολίεθρον]
 en: [well-peopled citadel]
-of: [trojans]
+of: [trojans, troy, phaestus, rhytium]
 ---
 
 ## Meaning

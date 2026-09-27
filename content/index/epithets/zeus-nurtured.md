@@ -3,11 +3,11 @@ title: Zeus-nurtured
 greek: διοτρεφής
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: “Nurtured by Zeus,” the standing epithet of kings ([[basileus]]). Agamemnon uses it to tell Achilles that he is the most hateful of kings (1.176).
+summary: “Nurtured by Zeus,” the standing epithet of kings ([[basileus]]).
 aliases: [cherished by Zeus, diotrephes]
 grc: [διοτρεφέων βασιλήων]
 en: [nurtured]
-of: [basileus]
+of: [basileus, kings, troezenus]
 ---
 
 ## Meaning

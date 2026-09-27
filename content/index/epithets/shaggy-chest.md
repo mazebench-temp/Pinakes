@@ -3,11 +3,11 @@ title: Shaggy chest
 greek: στήθεα λάσια
 kind: epithet
 tags: [heroic-epithet, body]
-summary: The hairy chest of [[Achilles]], in which his heart is torn two ways as he decides whether to kill Agamemnon (1.189).
+summary: The hairy chest or “shaggy heart” of a warrior, a mark of strength and spirit.
 aliases: [hairy chest, lasios]
 grc: [στήθεσσιν λασίοισι]
 en: [shaggy chest]
-of: [achilles]
+of: [achilles, pylaemenes]
 ---
 
 ## Meaning

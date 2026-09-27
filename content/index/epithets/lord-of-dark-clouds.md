@@ -3,7 +3,7 @@ title: Lord of the dark clouds
 greek: κελαινεφής
 kind: epithet
 tags: [divine-epithet]
-summary: “Of the dark clouds,” an epithet of [[Zeus]] in Achilles' account of how Thetis once saved him (1.397).
+summary: “Of the dark clouds,” an epithet of [[Zeus]] as the storm god.
 aliases: [dark-clouded, kelainephes]
 grc: [κελαινεφέϊ]
 en: [lord of the dark clouds]

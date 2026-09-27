@@ -3643,6 +3643,1425 @@
     {
       "id": "a1a8c026-dc9e-5fcf-b27d-6ab921c3cb41",
       "ref": "1.611"
+    },
+    {
+      "id": "659fed74-3105-52bf-b828-b374dcbc9c9e",
+      "ref": "2.1-4",
+      "title": "Zeus lies awake"
+    },
+    {
+      "id": "f27e722e-0793-5781-bd01-1ef76081bef8",
+      "ref": "2.1-6",
+      "title": "Zeus lies awake"
+    },
+    {
+      "id": "de36e79b-2678-5b3a-9b3c-c57b9c8f5849",
+      "ref": "2.5-8",
+      "title": "A baneful Dream"
+    },
+    {
+      "id": "0403172b-3f2d-5dc9-b9a0-1e713afaf334",
+      "ref": "2.8-15",
+      "title": "Go, baneful Dream"
+    },
+    {
+      "id": "778f87ad-7b57-521e-aef3-1117ebe920b5",
+      "ref": "2.16-22",
+      "title": "The Dream stands above his head"
+    },
+    {
+      "id": "f7e185ba-592a-5520-8e80-3edb20189f78",
+      "ref": "2.18-19",
+      "title": "The Dream finds Agamemnon asleep"
+    },
+    {
+      "id": "35ebf63a-b420-5abe-aec6-8794cc2671ea",
+      "ref": "2.20-25",
+      "title": "The Dream stands above his head"
+    },
+    {
+      "id": "836e20ea-a0df-5a3c-b96c-dacb08847e3a",
+      "ref": "2.23-25",
+      "title": "The Dream rebukes Agamemnon"
+    },
+    {
+      "id": "eb181036-fe48-5223-b1b1-19a767a1e8cb",
+      "ref": "2.23-34",
+      "title": "The Dream's message"
+    },
+    {
+      "id": "242350e3-57d2-5ce1-8785-010d5f90a383",
+      "ref": "2.33-34",
+      "title": "The Dream's last words"
+    },
+    {
+      "id": "130425b2-40e3-5355-8921-905c49fc817a",
+      "ref": "2.35-40",
+      "title": "Things not to be fulfilled"
+    },
+    {
+      "id": "e33c248a-9e1b-596b-9d6c-bac21690432c",
+      "ref": "2.41-47",
+      "title": "Agamemnon dresses"
+    },
+    {
+      "id": "415fc276-cc68-5e78-8299-393f6b7c5a67",
+      "ref": "2.46-47",
+      "title": "Agamemnon takes the scepter"
+    },
+    {
+      "id": "10963bc5-a466-55e2-b6a6-770a3e43f573",
+      "ref": "2.48-49",
+      "title": "Dawn goes up to Olympus"
+    },
+    {
+      "id": "2e65d0a3-c87c-5f94-83e7-d14332bd53d0",
+      "ref": "2.48-52",
+      "title": "Dawn and the summons"
+    },
+    {
+      "id": "0752ff08-0e87-517d-bf87-50f19f6c1d59",
+      "ref": "2.50-52",
+      "title": "The heralds summon the assembly"
+    },
+    {
+      "id": "3a8197f9-c1b1-520f-bb75-3ebe58e4fccd",
+      "ref": "2.53-54",
+      "title": "The council beside Nestor's ship"
+    },
+    {
+      "id": "08e9f920-2c4b-5999-957e-efeb7ad4fd7d",
+      "ref": "2.53-55",
+      "title": "The council of elders"
+    },
+    {
+      "id": "5c269b4c-6904-58ac-9ae6-b48cdbc739b4",
+      "ref": "2.72-75",
+      "title": "A test with words"
+    },
+    {
+      "id": "f8b2b44c-271a-5d52-b238-2ed56a862b5d",
+      "ref": "2.76-78",
+      "title": "Nestor rises in the council"
+    },
+    {
+      "id": "7364e943-ed47-5eb2-9b39-9b5b6b982d37",
+      "ref": "2.79-83",
+      "title": "Nestor on the dream"
+    },
+    {
+      "id": "e03b0d4b-6d2e-5582-99ff-f78cbb822d0a",
+      "ref": "2.84-86",
+      "title": "The scepter-bearing kings"
+    },
+    {
+      "id": "ba4da8de-746b-5d9d-99e3-258d5b8b58ce",
+      "ref": "2.87-93",
+      "title": "Like swarming bees"
+    },
+    {
+      "id": "5bad5cca-13a1-53f0-b4e4-a77cbd254402",
+      "ref": "2.93-94",
+      "title": "Rumor, the messenger of Zeus"
+    },
+    {
+      "id": "9af04649-5dbb-5633-8a14-d186df2b660a",
+      "ref": "2.95-99",
+      "title": "The assembly in uproar"
+    },
+    {
+      "id": "778cced3-e225-5437-8786-4ee584223e25",
+      "ref": "2.100-108",
+      "title": "The scepter of Agamemnon"
+    },
+    {
+      "id": "21df9459-3371-5238-840d-d6c99e6c8d57",
+      "ref": "2.105-107",
+      "title": "From Atreus to Agamemnon"
+    },
+    {
+      "id": "f17d6bc0-d5a9-5b11-9ab0-9d7245a2e0e9",
+      "ref": "2.107-108",
+      "title": "Lord of many islands"
+    },
+    {
+      "id": "301f2cec-8d25-55d0-8d65-6578c864b1b2",
+      "ref": "2.110",
+      "title": "Attendants of Ares"
+    },
+    {
+      "id": "539c222b-74c7-5d91-bbdd-a2b7f903c1c9",
+      "ref": "2.111-115",
+      "title": "An evil deceit"
+    },
+    {
+      "id": "ba72721d-8045-5464-be78-c108d4fc49f8",
+      "ref": "2.116-118",
+      "title": "The pleasure of Zeus"
+    },
+    {
+      "id": "98a05387-8986-53ad-ba9e-69b79c016a16",
+      "ref": "2.119-122",
+      "title": "A shameful thing"
+    },
+    {
+      "id": "5ddcff68-3c54-55eb-a231-009d914f2402",
+      "ref": "2.123-130",
+      "title": "Counting by tens"
+    },
+    {
+      "id": "809ad908-2b5f-522f-b7a2-1865426b47a4",
+      "ref": "2.130-133",
+      "title": "The allies"
+    },
+    {
+      "id": "ad37b500-9392-5d64-a4fb-6bf0d32191a7",
+      "ref": "2.134-138",
+      "title": "Nine years"
+    },
+    {
+      "id": "878c5554-79f9-5d32-9f2d-595a7a0e252c",
+      "ref": "2.139-141",
+      "title": "Let us flee"
+    },
+    {
+      "id": "56df7537-849d-5a7b-bd20-a451bb3fd6af",
+      "ref": "2.144-146",
+      "title": "Waves on the Icarian sea"
+    },
+    {
+      "id": "57a00aad-4926-58f3-aff0-4d594febbe5a",
+      "ref": "2.147-149",
+      "title": "The West Wind in the wheat"
+    },
+    {
+      "id": "5b5cf69b-f2b3-5737-a0d6-1a1445f8fa3c",
+      "ref": "2.149-154",
+      "title": "The rush to the ships"
+    },
+    {
+      "id": "2ee51c7c-6e2d-51bf-81a6-2731f4973478",
+      "ref": "2.155-156",
+      "title": "A homecoming against fate"
+    },
+    {
+      "id": "04171b59-a89d-5cfe-b37e-146e1fd4a0d0",
+      "ref": "2.157-159",
+      "title": "Hera appeals to Athena"
+    },
+    {
+      "id": "03927479-7a62-5ee8-ba3a-9e2e4cce9237",
+      "ref": "2.157-165",
+      "title": "Hera to Athena"
+    },
+    {
+      "id": "6b36d935-7107-53a4-a253-3a06aace538e",
+      "ref": "2.160-162",
+      "title": "A boast for Priam"
+    },
+    {
+      "id": "cdf66423-3ef7-5745-8acf-f54e23147c2c",
+      "ref": "2.163-165",
+      "title": "Hold back every man"
+    },
+    {
+      "id": "06d00367-d344-5250-8104-60769d21b3c2",
+      "ref": "2.166-168",
+      "title": "Athena goes to the ships"
+    },
+    {
+      "id": "11f43dec-ef22-5407-a3cf-0ade45e0de79",
+      "ref": "2.169-171",
+      "title": "Odysseus stands still"
+    },
+    {
+      "id": "2120afa7-03c3-5a09-b697-ecb38d557968",
+      "ref": "2.172-175",
+      "title": "Athena to Odysseus"
+    },
+    {
+      "id": "b05f02b3-8f00-5cea-94cc-9b8ec6268ef9",
+      "ref": "2.172-181",
+      "title": "Athena to Odysseus"
+    },
+    {
+      "id": "0462bfbd-d0ab-5278-9d34-e47bbd209fe9",
+      "ref": "2.173",
+      "title": "Son of Laertes"
+    },
+    {
+      "id": "41f3032b-4390-5ba9-91a7-1b60ce3beeec",
+      "ref": "2.182-184",
+      "title": "Odysseus throws off his cloak"
+    },
+    {
+      "id": "a7de6061-53b7-5852-b1f0-e7d8ed3bf145",
+      "ref": "2.182-187",
+      "title": "Odysseus takes the scepter"
+    },
+    {
+      "id": "1c378be8-f929-5889-a0b4-ca518ae9c506",
+      "ref": "2.188-191",
+      "title": "Gentle words for a king"
+    },
+    {
+      "id": "34021398-91b1-54ae-9cf7-9fdeddb4aa7c",
+      "ref": "2.188-197",
+      "title": "Odysseus and the kings"
+    },
+    {
+      "id": "3ff0ea06-6c45-5250-b491-d8e60acb746e",
+      "ref": "2.198-202",
+      "title": "The scepter for a man of the people"
+    },
+    {
+      "id": "a6e5efd3-f944-5871-af60-228c9844d8cf",
+      "ref": "2.198-206",
+      "title": "Odysseus and the commoners"
+    },
+    {
+      "id": "a08bf104-57fa-51e0-9d0d-32ada468bbf2",
+      "ref": "2.204-206",
+      "title": "One ruler"
+    },
+    {
+      "id": "b93532aa-44ee-5de3-80c6-bc828482d157",
+      "ref": "2.207-210",
+      "title": "Like the surf on the beach"
+    },
+    {
+      "id": "993e67fc-8077-58b8-969b-3b3789d5e77c",
+      "ref": "2.211-219",
+      "title": "Thersites"
+    },
+    {
+      "id": "88ad2396-b31f-5d7f-9d58-56787e854433",
+      "ref": "2.212-216",
+      "title": "Words many and disorderly"
+    },
+    {
+      "id": "3a07decb-b7ac-5af9-867a-0b41e825d550",
+      "ref": "2.212-219",
+      "title": "Thersites"
+    },
+    {
+      "id": "84632ffd-0ab5-5371-b980-4a4b1dabcf30",
+      "ref": "2.216-219",
+      "title": "The ugliest man"
+    },
+    {
+      "id": "8421a324-0b8f-50ee-88c2-425288f33fe7",
+      "ref": "2.220-221",
+      "title": "Hateful to Achilles and Odysseus"
+    },
+    {
+      "id": "4d45c4f3-8ae1-50ae-a681-446c5dcb9f4c",
+      "ref": "2.220-224",
+      "title": "Thersites abuses Agamemnon"
+    },
+    {
+      "id": "23e54e06-f664-5473-95ff-d45cf6f3b1aa",
+      "ref": "2.225-234",
+      "title": "What do you lack?"
+    },
+    {
+      "id": "5a142e7b-cf07-52ce-8788-e831bb95f538",
+      "ref": "2.229-231",
+      "title": "More gold from Troy"
+    },
+    {
+      "id": "c85422e7-fb25-5294-9d07-199abffb1184",
+      "ref": "2.235-242",
+      "title": "Achaean women, Achaean men no longer"
+    },
+    {
+      "id": "6e9cc963-7c75-593c-8598-2eb519a7eceb",
+      "ref": "2.239-242",
+      "title": "Thersites on Achilles"
+    },
+    {
+      "id": "cc3a35df-620b-54fd-977f-30bbe74ec6d4",
+      "ref": "2.244-247",
+      "title": "Odysseus looks darkly at Thersites"
+    },
+    {
+      "id": "20db32a1-d07d-537d-b4d1-6c0df404e7bd",
+      "ref": "2.246-247",
+      "title": "Odysseus rebukes Thersites"
+    },
+    {
+      "id": "b9a63d7d-6b35-50db-b7d3-f763b62f49c9",
+      "ref": "2.246-256",
+      "title": "Odysseus rebukes Thersites"
+    },
+    {
+      "id": "bf74ce06-bece-5327-bd43-c6de308885bb",
+      "ref": "2.257-264",
+      "title": "Odysseus' threat"
+    },
+    {
+      "id": "9f242ea9-2026-5f64-b415-010ee8baaf42",
+      "ref": "2.259-260",
+      "title": "The father of Telemachus"
+    },
+    {
+      "id": "8d88137d-0792-5d3c-a5c4-435ddf466f85",
+      "ref": "2.265-269",
+      "title": "The blow of the scepter"
+    },
+    {
+      "id": "fda9a5f1-b0db-55dc-9c11-c6c0d27f40e2",
+      "ref": "2.270-277",
+      "title": "What a man would say"
+    },
+    {
+      "id": "7210e753-84ee-5aa3-b63d-da7269169528",
+      "ref": "2.278-279",
+      "title": "Odysseus rises with the scepter"
+    },
+    {
+      "id": "7c812926-3bba-5fbf-b80f-b2c11a9ff52c",
+      "ref": "2.278-282",
+      "title": "Athena as a herald"
+    },
+    {
+      "id": "6829645b-0fe0-5f11-82d9-60928be5bbb3",
+      "ref": "2.284-288",
+      "title": "The broken promise"
+    },
+    {
+      "id": "fdc47141-6727-5109-9a04-350b23074cd8",
+      "ref": "2.289-290",
+      "title": "Like children or widows"
+    },
+    {
+      "id": "1c16b0ee-9de9-5474-a1e4-8dad82efbb6a",
+      "ref": "2.291-297",
+      "title": "I do not blame the Achaeans"
+    },
+    {
+      "id": "30559a09-8947-53a2-ab46-2365f413ce80",
+      "ref": "2.292-294",
+      "title": "A month away from his wife"
+    },
+    {
+      "id": "d02f0256-2a52-566e-9fda-e23ca130db43",
+      "ref": "2.295-300",
+      "title": "Endure, friends"
+    },
+    {
+      "id": "117dd526-3442-5a8b-bb75-ee019e5d8b9d",
+      "ref": "2.298",
+      "title": "Shameful to stay long"
+    },
+    {
+      "id": "2e79eb4b-16fd-560d-9477-73317eb56fac",
+      "ref": "2.301-307",
+      "title": "The sacrifice at Aulis"
+    },
+    {
+      "id": "5ab0ffb0-0021-5e5f-ab73-0b2edf7dbc37",
+      "ref": "2.303-304",
+      "title": "When the ships gathered at Aulis"
+    },
+    {
+      "id": "4f8cabb1-6790-5f7b-aee6-dfca34d17b3e",
+      "ref": "2.305-307",
+      "title": "The spring at Aulis"
+    },
+    {
+      "id": "b33ee2be-da52-52ed-baa2-e6651787495e",
+      "ref": "2.308-320",
+      "title": "The serpent and the sparrows"
+    },
+    {
+      "id": "61cce681-3bc9-50a0-907b-080ef3797900",
+      "ref": "2.321-329",
+      "title": "Calchas reads the sign"
+    },
+    {
+      "id": "03c00703-208c-55c1-aa7f-9cc5fe7297b3",
+      "ref": "2.330-332",
+      "title": "Stay, well-greaved Achaeans"
+    },
+    {
+      "id": "dcc1c6ea-44b1-5ec9-a3a1-65a1738b4b89",
+      "ref": "2.333-335",
+      "title": "The Argives shout"
+    },
+    {
+      "id": "267ace6c-1956-5c11-88cc-0e488534c636",
+      "ref": "2.336-338",
+      "title": "Nestor rebukes the assembly"
+    },
+    {
+      "id": "008866c5-f953-520f-b78f-646b2ecc723a",
+      "ref": "2.337-343",
+      "title": "Nestor: like children"
+    },
+    {
+      "id": "7440031a-789f-5696-b741-28c4914b88a7",
+      "ref": "2.348-353",
+      "title": "Lightning on the right"
+    },
+    {
+      "id": "485361a5-ef0f-52ca-9e60-3af29173d4d1",
+      "ref": "2.354-356",
+      "title": "The wife of some Trojan"
+    },
+    {
+      "id": "c406ac00-9cee-5bc4-88fd-cbcd58d1afe0",
+      "ref": "2.357-359",
+      "title": "Let him lay hands on his ship"
+    },
+    {
+      "id": "f16ae393-9e49-5b21-a212-5efe1cc9e567",
+      "ref": "2.362-366",
+      "title": "By tribes and clans"
+    },
+    {
+      "id": "febf4877-61cf-557a-a68a-821006ee6bd7",
+      "ref": "2.362-368",
+      "title": "By tribes and by clans"
+    },
+    {
+      "id": "1daba1f6-719c-507a-9675-42dda5c658eb",
+      "ref": "2.370-374",
+      "title": "Ten such counselors"
+    },
+    {
+      "id": "0c5f3124-263c-53cc-abb0-a656385f67c5",
+      "ref": "2.375-380",
+      "title": "I was the first to grow angry"
+    },
+    {
+      "id": "e6fdd03a-7ccc-53a0-9848-c457a53961ea",
+      "ref": "2.381-385",
+      "title": "Prepare for battle"
+    },
+    {
+      "id": "b905eac7-92ec-5d74-a6cb-4f92cb4fac83",
+      "ref": "2.381-393",
+      "title": "Prepare for war"
+    },
+    {
+      "id": "c7b73d87-8a9e-50d6-a223-f7b0d99d5f5b",
+      "ref": "2.388-390",
+      "title": "Sweat and toil"
+    },
+    {
+      "id": "fa08eb5f-4760-5801-882c-7c556ba84d40",
+      "ref": "2.391-393",
+      "title": "Agamemnon's threat"
+    },
+    {
+      "id": "de247400-f545-5cc1-a3a2-7b0f2978d266",
+      "ref": "2.394-397",
+      "title": "A wave against a jutting crag"
+    },
+    {
+      "id": "a976b3b0-4bea-57a2-b9cf-3c8573056ef3",
+      "ref": "2.398-401",
+      "title": "Each man sacrificed"
+    },
+    {
+      "id": "86067180-92bd-5759-ba87-c71a5f01e797",
+      "ref": "2.402-409",
+      "title": "Agamemnon's sacrifice"
+    },
+    {
+      "id": "523fef7e-1e66-53ec-8643-dab33e11e5f5",
+      "ref": "2.404-409",
+      "title": "The elders at the sacrifice"
+    },
+    {
+      "id": "99a4f893-5395-5c18-8675-0de481a81de2",
+      "ref": "2.408-409",
+      "title": "Menelaus comes unbidden"
+    },
+    {
+      "id": "e9e44cde-e73c-57fb-9ec1-19f624604c58",
+      "ref": "2.410-418",
+      "title": "Agamemnon's prayer"
+    },
+    {
+      "id": "e7ee5ec4-5e3e-5deb-8295-b58b728f5a85",
+      "ref": "2.412-420",
+      "title": "Agamemnon's prayer"
+    },
+    {
+      "id": "dcc1fe5e-205b-5baf-b9fe-5a78e31a6144",
+      "ref": "2.419-420",
+      "title": "Zeus accepts the offering"
+    },
+    {
+      "id": "38fbdd6d-1083-523c-92e9-115e34157683",
+      "ref": "2.421-432",
+      "title": "The sacrifice to Zeus"
+    },
+    {
+      "id": "65faa45d-8060-5bb2-b6fd-92e3b331a177",
+      "ref": "2.433-436",
+      "title": "Nestor urges battle"
+    },
+    {
+      "id": "4321e784-3ed2-5d4f-87ef-890135c807d7",
+      "ref": "2.433-440",
+      "title": "Nestor: no more delay"
+    },
+    {
+      "id": "de3f8fde-e590-577f-96a6-7a6bf3172e2a",
+      "ref": "2.441-444",
+      "title": "The summons to war"
+    },
+    {
+      "id": "f2807638-11ec-5655-b4a0-f115cea8c7ff",
+      "ref": "2.445-452",
+      "title": "Athena with the aegis"
+    },
+    {
+      "id": "8043fe94-871f-5509-a302-0d0eb8e2bf9d",
+      "ref": "2.446-454",
+      "title": "Athena with the aegis"
+    },
+    {
+      "id": "334597ca-f56a-57fb-bd9c-b5fc10074569",
+      "ref": "2.453-454",
+      "title": "War became sweeter"
+    },
+    {
+      "id": "e83a7d61-3db0-5e2e-9361-c5f842bcf139",
+      "ref": "2.455-458",
+      "title": "Like a forest fire"
+    },
+    {
+      "id": "5d15a4b5-97df-5737-bac4-42c23c749d89",
+      "ref": "2.459-465",
+      "title": "Birds on the Asian meadow"
+    },
+    {
+      "id": "d65fb152-00f9-5b63-bd8c-3537efdc1c0b",
+      "ref": "2.459-466",
+      "title": "Like birds on the Asian meadow"
+    },
+    {
+      "id": "e12e0045-9aef-572a-916e-cfa1a84266a3",
+      "ref": "2.465-468",
+      "title": "The flowering meadow of the Scamander"
+    },
+    {
+      "id": "2522049d-cd1a-5c03-85ae-944d6fc34c5c",
+      "ref": "2.467-468",
+      "title": "Like leaves and flowers"
+    },
+    {
+      "id": "c963462c-35d5-5e17-8180-96456dd17579",
+      "ref": "2.469-473",
+      "title": "Like flies around the milk pails"
+    },
+    {
+      "id": "1c54ff70-6f00-53a3-a21b-65bc66b1162d",
+      "ref": "2.474-477",
+      "title": "Like goatherds sorting their flocks"
+    },
+    {
+      "id": "f4d7205e-a9c2-590b-97df-ff5395c7a1ba",
+      "ref": "2.477-479",
+      "title": "Like Zeus, Ares and Poseidon"
+    },
+    {
+      "id": "b6efa94c-330b-5f7b-a0a2-a43c951fede3",
+      "ref": "2.477-483",
+      "title": "Like Zeus, Ares and Poseidon"
+    },
+    {
+      "id": "771472fc-8d29-5183-8bff-5bf79aedab0b",
+      "ref": "2.480-483",
+      "title": "Like a bull above the herd"
+    },
+    {
+      "id": "147d6490-c3f4-5e31-ab50-6db152914776",
+      "ref": "2.484-487",
+      "title": "Tell me now, Muses"
+    },
+    {
+      "id": "6d988018-c781-5748-8a0a-4485685324a9",
+      "ref": "2.484-493",
+      "title": "The invocation of the Muses"
+    },
+    {
+      "id": "27b81b71-cf39-5bf1-8a91-a574030d4fc1",
+      "ref": "2.485-486",
+      "title": "We hear only the report"
+    },
+    {
+      "id": "9234bcb5-4d17-5c78-946f-14d6256946ab",
+      "ref": "2.488-490",
+      "title": "Ten tongues"
+    },
+    {
+      "id": "048f277c-3b7a-5164-9bb1-34b00e23fa0a",
+      "ref": "2.494-495",
+      "title": "The Boeotian leaders"
+    },
+    {
+      "id": "89029e76-400a-592e-a24d-1133cf487d61",
+      "ref": "2.494-498",
+      "title": "The Boeotians"
+    },
+    {
+      "id": "e2e162b2-46f3-51cc-a0e9-69c735652e14",
+      "ref": "2.494-510",
+      "title": "The Boeotians"
+    },
+    {
+      "id": "89f2faeb-dd3d-5ef3-a8a7-ba1aba43d68e",
+      "ref": "2.496",
+      "title": "Hyria and rocky Aulis"
+    },
+    {
+      "id": "f3871a1d-5d6c-5492-a097-eb7f197db208",
+      "ref": "2.497-498",
+      "title": "Boeotian towns"
+    },
+    {
+      "id": "609f2d75-7254-5d5c-9e15-add5a31ddc7d",
+      "ref": "2.497",
+      "title": "Schoenus, Scolus and Eteonus"
+    },
+    {
+      "id": "d5df8562-2f78-568a-8ce0-b52ff396ad43",
+      "ref": "2.498",
+      "title": "Thespeia, Graea and Mycalessus"
+    },
+    {
+      "id": "1968582a-f1bd-5d05-8f4c-566ee303da0e",
+      "ref": "2.499",
+      "title": "Harma, Eilesium and Erythrae"
+    },
+    {
+      "id": "e58ddc63-c598-5414-ab00-92d46408f0b5",
+      "ref": "2.500",
+      "title": "Eleon, Hyle and Peteon"
+    },
+    {
+      "id": "5e429eb5-b832-51b3-9a44-a8118a1de58c",
+      "ref": "2.501",
+      "title": "Ocalea and Medeon"
+    },
+    {
+      "id": "312ae10b-ea90-55fc-9e59-e1ffe81ace0c",
+      "ref": "2.502",
+      "title": "Copae, Eutresis and Thisbe"
+    },
+    {
+      "id": "de642cbc-9a2b-5bcf-bb25-11ed8c7321d4",
+      "ref": "2.503",
+      "title": "Coronea and grassy Haliartus"
+    },
+    {
+      "id": "9d74cae8-bc94-51e8-a637-290ff78f6c0b",
+      "ref": "2.504",
+      "title": "Plataea and Glisas"
+    },
+    {
+      "id": "9c79af76-3332-5672-ac34-978986748ff5",
+      "ref": "2.505-506",
+      "title": "Hypothebae and holy Onchestus"
+    },
+    {
+      "id": "b7b36f1f-630e-5e06-a6fe-220a04d9d127",
+      "ref": "2.507-508",
+      "title": "Arne, Midea, Nisa and Anthedon"
+    },
+    {
+      "id": "5ff32a2c-3e15-5aca-99e3-15b49977e04f",
+      "ref": "2.509-510",
+      "title": "Fifty Boeotian ships"
+    },
+    {
+      "id": "5275bb10-a42f-5058-8f5d-e7122db37370",
+      "ref": "2.511-512",
+      "title": "Aspledon and Minyan Orchomenus"
+    },
+    {
+      "id": "b4f184cb-622b-5d33-83a0-290822630e6f",
+      "ref": "2.511-516",
+      "title": "The sons of Ares"
+    },
+    {
+      "id": "3cdf4809-6d2b-59aa-9574-c2935f3d6b58",
+      "ref": "2.512-515",
+      "title": "Sons of Ares"
+    },
+    {
+      "id": "7fa34f0c-25f9-59d9-a9d1-590fc0866193",
+      "ref": "2.513-515",
+      "title": "Astyoche and Ares"
+    },
+    {
+      "id": "479a7019-4767-5bc5-9911-f7d06cbb7533",
+      "ref": "2.517-518",
+      "title": "The Phocian leaders"
+    },
+    {
+      "id": "a9605d31-5afc-55e2-b5c7-8b957cbf257f",
+      "ref": "2.519",
+      "title": "Cyparissus and rocky Pytho"
+    },
+    {
+      "id": "eb7ebafb-06a8-58f2-8d94-d950196ca62e",
+      "ref": "2.520",
+      "title": "Crisa, Daulis and Panopeus"
+    },
+    {
+      "id": "8f25f3fc-558e-541a-beb0-93711931b0bc",
+      "ref": "2.521",
+      "title": "Anemorea and Hyampolis"
+    },
+    {
+      "id": "6badcbdd-699f-5d69-9d66-b3e9110738c9",
+      "ref": "2.522-523",
+      "title": "The river Cephisus and Lilaea"
+    },
+    {
+      "id": "e3cfd78c-ed60-5e0d-80d0-a30708f8c2bd",
+      "ref": "2.524-526",
+      "title": "The Phocians on the left"
+    },
+    {
+      "id": "178e4953-dad3-587e-b806-70070e4cf292",
+      "ref": "2.527-530",
+      "title": "The lesser Ajax"
+    },
+    {
+      "id": "664f17b9-9aa3-5206-adfd-20b5394e31b9",
+      "ref": "2.531-533",
+      "title": "The Locrian towns"
+    },
+    {
+      "id": "08c2306b-d692-5f2a-9341-9ccc362979f1",
+      "ref": "2.531",
+      "title": "Cynus, Opus and Calliarus"
+    },
+    {
+      "id": "b79024d0-d141-5db1-929f-188ecce82332",
+      "ref": "2.532",
+      "title": "Bessa, Scarphe and Augeiae"
+    },
+    {
+      "id": "009d3554-83c0-5682-a10e-36ae7b9b3d04",
+      "ref": "2.533",
+      "title": "Tarphe, Thronium and the Boagrius"
+    },
+    {
+      "id": "1050ba00-e67c-5238-a3bb-f04596e556bb",
+      "ref": "2.534-535",
+      "title": "Across from holy Euboea"
+    },
+    {
+      "id": "94eb810a-ac51-5c02-a230-5a1996c652fb",
+      "ref": "2.535-537",
+      "title": "Holy Euboea"
+    },
+    {
+      "id": "47736121-c8c1-5759-aa0a-6413c90e4751",
+      "ref": "2.536-538",
+      "title": "The Abantes of Euboea"
+    },
+    {
+      "id": "6011d1f0-e51b-5671-8046-7644ec1a276d",
+      "ref": "2.537",
+      "title": "Chalcis, Eretria and Histiaea"
+    },
+    {
+      "id": "ebc92d79-10f7-5255-bf80-7c128b5102f2",
+      "ref": "2.538",
+      "title": "Cerinthus and Dium"
+    },
+    {
+      "id": "4165c7fb-d53f-5be0-83c3-9779070dfc2e",
+      "ref": "2.539",
+      "title": "Carystus and Styra"
+    },
+    {
+      "id": "a4e4786f-95d8-5b2e-af90-29bd60829ecd",
+      "ref": "2.540-544",
+      "title": "Elephenor and the Abantes"
+    },
+    {
+      "id": "24a7e911-4372-5505-98fd-4d3980647084",
+      "ref": "2.542-544",
+      "title": "Spearmen of Euboea"
+    },
+    {
+      "id": "92894c35-1783-5479-be06-28d0b03ac23f",
+      "ref": "2.546-551",
+      "title": "Athens and Erechtheus"
+    },
+    {
+      "id": "4d7ddc23-d806-5091-bfc6-f4186cb3670b",
+      "ref": "2.547-549",
+      "title": "Erechtheus"
+    },
+    {
+      "id": "6ffb7ac3-3690-5022-88e6-7d776d5d098b",
+      "ref": "2.552-555",
+      "title": "Menestheus"
+    },
+    {
+      "id": "98e07671-c4cf-5d1c-9d99-96c78ec704d5",
+      "ref": "2.557-558",
+      "title": "Ajax brings twelve ships from Salamis"
+    },
+    {
+      "id": "e217e833-d088-5825-94e3-20890dcc153d",
+      "ref": "2.559-561",
+      "title": "Tiryns and the Argolid"
+    },
+    {
+      "id": "b4b62d85-007d-5e08-9601-21954889bfa3",
+      "ref": "2.559-568",
+      "title": "Argos and Tiryns"
+    },
+    {
+      "id": "5618825e-baa2-57f1-9cac-facede911482",
+      "ref": "2.562",
+      "title": "Aegina and Mases"
+    },
+    {
+      "id": "35f5711c-53f2-58a3-9683-9adf696e7386",
+      "ref": "2.563-566",
+      "title": "The leaders from Argos"
+    },
+    {
+      "id": "7a238aed-ed1f-56ca-844e-541687b93c49",
+      "ref": "2.569-570",
+      "title": "Agamemnon's cities"
+    },
+    {
+      "id": "47192036-1018-5fd0-bcb7-cf6bc92dad36",
+      "ref": "2.569-580",
+      "title": "Agamemnon's kingdom"
+    },
+    {
+      "id": "99b2facd-8d3c-56ec-82a6-6366c9a262af",
+      "ref": "2.571",
+      "title": "Orneae and lovely Araethyrea"
+    },
+    {
+      "id": "df8aafa5-fa65-5cab-a339-48de6d1740e7",
+      "ref": "2.572",
+      "title": "Where Adrastus was king at first"
+    },
+    {
+      "id": "cde0253d-d4e0-5594-b813-8e2f8e30fce9",
+      "ref": "2.573",
+      "title": "Hyperesia and steep Gonoessa"
+    },
+    {
+      "id": "78f0e7b6-bdc0-5030-8064-7d9a5a364c4b",
+      "ref": "2.574",
+      "title": "Pellene and Aegium"
+    },
+    {
+      "id": "b8146e62-0d87-5989-8a92-bd3d67ddb6fe",
+      "ref": "2.575",
+      "title": "Aegialus and broad Helice"
+    },
+    {
+      "id": "4d6d85aa-2bbf-5c97-bfe8-855eff55cfda",
+      "ref": "2.576-580",
+      "title": "The most and the best"
+    },
+    {
+      "id": "52a9b1ca-0180-58c2-867f-21c1e0a710f2",
+      "ref": "2.581-582",
+      "title": "Lacedaemon and its towns"
+    },
+    {
+      "id": "ead29575-4ed7-5188-98ff-016401d132a2",
+      "ref": "2.583",
+      "title": "Bryseae and lovely Augeiae"
+    },
+    {
+      "id": "75735a9d-c67f-5962-8d97-d3c17f7f1421",
+      "ref": "2.584",
+      "title": "Amyclae and Helos"
+    },
+    {
+      "id": "27794a15-3f68-52ee-b700-6d863cbe01b7",
+      "ref": "2.585",
+      "title": "Laas and Oetylus"
+    },
+    {
+      "id": "3c989587-8240-5a19-bcd3-53ade1ede1d6",
+      "ref": "2.591-592",
+      "title": "Arene and Aepy"
+    },
+    {
+      "id": "7343bfd8-c264-5769-9476-26fc9778c001",
+      "ref": "2.591-594",
+      "title": "Nestor's towns"
+    },
+    {
+      "id": "6a1b3048-96a6-51f6-be66-100c76396d62",
+      "ref": "2.594-600",
+      "title": "Thamyris and the Muses"
+    },
+    {
+      "id": "14e1d256-fa57-5a60-b035-44f109758d3a",
+      "ref": "2.603-604",
+      "title": "Arcadia"
+    },
+    {
+      "id": "6d674452-71f1-5bba-a497-3f3c4f044159",
+      "ref": "2.605-607",
+      "title": "The towns of Arcadia"
+    },
+    {
+      "id": "b7c84466-d220-5605-9435-583df0a0718f",
+      "ref": "2.608",
+      "title": "Stymphalus and Parrhasia"
+    },
+    {
+      "id": "fee387ef-85c4-5b1a-9955-ea95b33e2d05",
+      "ref": "2.609-611",
+      "title": "Agapenor and the Arcadians"
+    },
+    {
+      "id": "4dfff20e-2a16-553c-b456-a32d9b85d1a6",
+      "ref": "2.612-614",
+      "title": "Ships for the Arcadians"
+    },
+    {
+      "id": "2fe1461f-7e53-57b0-a0f7-204bfb4eb526",
+      "ref": "2.615-619",
+      "title": "Buprasium and Elis"
+    },
+    {
+      "id": "69011ba2-27ad-5070-b586-05c0f60ab0c8",
+      "ref": "2.620-624",
+      "title": "The Epeian leaders"
+    },
+    {
+      "id": "df08e3dd-5882-5016-b113-b0514789f445",
+      "ref": "2.625-626",
+      "title": "Dulichium and the Echinae"
+    },
+    {
+      "id": "bf92e6b6-e0b8-5d95-88ff-c1ae38a348a6",
+      "ref": "2.627-629",
+      "title": "Meges"
+    },
+    {
+      "id": "9ffc8cb3-07d1-5bdc-9e58-ed1ffeaf54b1",
+      "ref": "2.631-633",
+      "title": "The Cephallenians"
+    },
+    {
+      "id": "9c03507b-9887-5f75-ba10-30dc72cbc764",
+      "ref": "2.634-635",
+      "title": "Zacynthus and Samos"
+    },
+    {
+      "id": "845226fa-e569-5df9-896c-3f9ccacaa345",
+      "ref": "2.636-637",
+      "title": "Odysseus' twelve ships"
+    },
+    {
+      "id": "6b245199-045c-503b-bfab-204d7d41215e",
+      "ref": "2.638-644",
+      "title": "Thoas and the Aetolians"
+    },
+    {
+      "id": "e710f956-b1d0-5c89-b66d-c4ee1ce5feef",
+      "ref": "2.639-640",
+      "title": "The towns of the Aetolians"
+    },
+    {
+      "id": "bb48ee81-128e-54a9-832a-a7ddff93ab4d",
+      "ref": "2.639-642",
+      "title": "The sons of Oeneus"
+    },
+    {
+      "id": "c805a82b-1290-50fa-8f36-621d655d95d6",
+      "ref": "2.641-643",
+      "title": "The house of Oeneus"
+    },
+    {
+      "id": "f87d661a-80ea-55fd-aa38-416640ae5251",
+      "ref": "2.645"
+    },
+    {
+      "id": "48248bc9-f36a-5050-a76f-1920c2fbb93a",
+      "ref": "2.645-652",
+      "title": "The Cretans"
+    },
+    {
+      "id": "9974c7b1-bc9b-537b-b095-1e17cafa4c72",
+      "ref": "2.646"
+    },
+    {
+      "id": "2dade84d-181b-5c53-8859-5d356ad66c75",
+      "ref": "2.647"
+    },
+    {
+      "id": "08d590b4-7a8a-550c-a286-8af3269901ed",
+      "ref": "2.648"
+    },
+    {
+      "id": "eeeb65e9-b066-503e-99e7-ae88d91c6ec3",
+      "ref": "2.650-652"
+    },
+    {
+      "id": "acf6a974-5183-50c1-ba9e-292c02b75dd3",
+      "ref": "2.653-656",
+      "title": "The Rhodians"
+    },
+    {
+      "id": "f33fc89b-bf54-52a6-8e82-70bbb61dfe18",
+      "ref": "2.655-656"
+    },
+    {
+      "id": "7204b3d1-57f6-547e-89a1-99d35a8e7a64",
+      "ref": "2.657-660"
+    },
+    {
+      "id": "8fb7d558-f13e-5edb-b2df-9f44174a7405",
+      "ref": "2.658-660"
+    },
+    {
+      "id": "e52caecf-d7cd-555b-a480-4624190404a3",
+      "ref": "2.661-663"
+    },
+    {
+      "id": "701b6af0-4570-56fc-86ed-2e39efc29a71",
+      "ref": "2.661-667",
+      "title": "The flight of Tlepolemus"
+    },
+    {
+      "id": "e7b40789-ad04-5975-96d0-d2d0510592a8",
+      "ref": "2.671-672"
+    },
+    {
+      "id": "6e50452b-d36f-5b47-87f0-80316249e217",
+      "ref": "2.671-675",
+      "title": "Nireus"
+    },
+    {
+      "id": "501bb407-ca0c-512e-9a4c-72f2a97b1fe9",
+      "ref": "2.676-677"
+    },
+    {
+      "id": "55d0733a-7151-54a7-b313-74919239733d",
+      "ref": "2.676-680"
+    },
+    {
+      "id": "c3bbe232-7616-5964-855e-73c403bfd932",
+      "ref": "2.678-680"
+    },
+    {
+      "id": "d9317788-d84b-5f5d-b4ab-bcf99c8f35b3",
+      "ref": "2.681-682"
+    },
+    {
+      "id": "273f86a4-b3cf-5f3b-9d04-2dc7f1ea0aec",
+      "ref": "2.681-685",
+      "title": "Myrmidons and Hellenes and Achaeans"
+    },
+    {
+      "id": "8dabd452-362d-5346-b996-1374b97efce9",
+      "ref": "2.686-694",
+      "title": "The Myrmidons without their leader"
+    },
+    {
+      "id": "63dc3fe5-137d-5006-8724-9fe60eea5aeb",
+      "ref": "2.690-693"
+    },
+    {
+      "id": "3ee7fcde-bdea-51f5-9572-8b6285a2d310",
+      "ref": "2.692-693"
+    },
+    {
+      "id": "5f447343-dfb0-5184-a71b-891e679ac21a",
+      "ref": "2.695"
+    },
+    {
+      "id": "34177f6f-a2e7-5721-a03c-be8b13c94142",
+      "ref": "2.695-696",
+      "title": "The precinct of Demeter"
+    },
+    {
+      "id": "f404a7da-f24c-57e1-b736-c5efa3f94264",
+      "ref": "2.696"
+    },
+    {
+      "id": "ce81cdb6-7e13-5f3f-a7d7-49c6ff754cfb",
+      "ref": "2.697"
+    },
+    {
+      "id": "18c19717-694e-5eba-ac7d-260fa39432fa",
+      "ref": "2.698-702",
+      "title": "The death of Protesilaus"
+    },
+    {
+      "id": "232c9280-b4e1-5bd3-aaaa-9f5368961817",
+      "ref": "2.703-710",
+      "title": "Podarces takes command"
+    },
+    {
+      "id": "06629d32-861d-5b17-8696-0f67930f78e8",
+      "ref": "2.704-706"
+    },
+    {
+      "id": "64714e4f-ec93-5528-98b3-a890f201ab27",
+      "ref": "2.711-712"
+    },
+    {
+      "id": "45774d85-3917-5018-9f00-2ec27fb17279",
+      "ref": "2.713-715",
+      "title": "Eumelus"
+    },
+    {
+      "id": "e5f1b7bf-a8ab-5872-bcc9-dc0cfd46b78f",
+      "ref": "2.716-717"
+    },
+    {
+      "id": "15686eac-cd87-50f0-8ba1-285554a937d2",
+      "ref": "2.716-725",
+      "title": "Philoctetes on Lemnos"
+    },
+    {
+      "id": "6e494f3d-fce7-51ce-895b-22bbd9e31ac0",
+      "ref": "2.718-720",
+      "title": "Philoctetes' archers"
+    },
+    {
+      "id": "5e7fcbc1-de56-57b6-8339-0df9381c2bed",
+      "ref": "2.721-725",
+      "title": "Philoctetes on Lemnos"
+    },
+    {
+      "id": "153e56c8-d183-5a21-9e42-b1b2269d7b64",
+      "ref": "2.726-728"
+    },
+    {
+      "id": "fe00f2c5-6924-53ce-a99d-29fae1d8cfe5",
+      "ref": "2.729-730"
+    },
+    {
+      "id": "1933d01a-5f2e-5a94-b8c7-87057a02df68",
+      "ref": "2.729-733",
+      "title": "The sons of Asclepius"
+    },
+    {
+      "id": "26f1da63-7af1-5ac3-beaf-4c105e5f9a7d",
+      "ref": "2.734-735"
+    },
+    {
+      "id": "987dfeb5-a301-594d-b79b-9d8e4c92c353",
+      "ref": "2.734-737"
+    },
+    {
+      "id": "1f3a879f-f880-577d-82ae-f36a2f7fa2ea",
+      "ref": "2.736"
+    },
+    {
+      "id": "acde6779-9f65-571d-9a85-3078f7951d87",
+      "ref": "2.738-739"
+    },
+    {
+      "id": "ed410868-dbf6-5b5d-a537-54571068e06c",
+      "ref": "2.738-747",
+      "title": "The Lapiths"
+    },
+    {
+      "id": "569ff1e4-c3ab-59dc-8f9d-45eaacd2915f",
+      "ref": "2.740-744",
+      "title": "Peirithous takes vengeance on the Centaurs"
+    },
+    {
+      "id": "6cc76b24-5aec-5db4-8793-ad6004bc6a92",
+      "ref": "2.745-747"
+    },
+    {
+      "id": "2d0a5c49-3b0e-57f6-ab1d-49ff747e2be9",
+      "ref": "2.748-750"
+    },
+    {
+      "id": "0e56549d-e799-5d97-a5b1-dd703513a223",
+      "ref": "2.751-755",
+      "title": "The Titaressus"
+    },
+    {
+      "id": "33d9dcf5-a1c2-5aef-8d8b-1908a9419f79",
+      "ref": "2.756-759"
+    },
+    {
+      "id": "bd4b4b5c-3fde-5525-8c25-d2251c015e8f",
+      "ref": "2.760-762",
+      "title": "Tell me, Muse, who was the best"
+    },
+    {
+      "id": "3d3eb9d9-432c-5e1a-8b5b-b5977726e84c",
+      "ref": "2.763-767",
+      "title": "The mares of Eumelus"
+    },
+    {
+      "id": "0be28ff3-cc33-54ba-8282-cbb582990e73",
+      "ref": "2.763-770",
+      "title": "The best horses and the best man"
+    },
+    {
+      "id": "7a36300d-342c-59c6-9f8f-a6b668b1f744",
+      "ref": "2.768-770",
+      "title": "The best of the men"
+    },
+    {
+      "id": "2c0a391c-d115-5778-8cb8-7da83a12508f",
+      "ref": "2.768-779",
+      "title": "Achilles by his ships"
+    },
+    {
+      "id": "59741a90-1c33-5381-b0fe-b6be01b9bd7a",
+      "ref": "2.771-779",
+      "title": "The Myrmidons at play"
+    },
+    {
+      "id": "07c77e5c-9453-5206-9ae0-9537e78b2b79",
+      "ref": "2.780-785",
+      "title": "As the earth groans for Typhoeus"
+    },
+    {
+      "id": "06383a26-5ced-57db-a633-cd4a8bf59986",
+      "ref": "2.786-787",
+      "title": "Iris, messenger from Zeus"
+    },
+    {
+      "id": "f11430bb-1410-56f5-ab67-fcb77b5351d7",
+      "ref": "2.788-795",
+      "title": "Iris in the likeness of Polites"
+    },
+    {
+      "id": "bead43ef-f2ab-581d-a787-282407a09bbc",
+      "ref": "2.796-801",
+      "title": "Iris' warning"
+    },
+    {
+      "id": "2d2f4651-59fc-5fdc-a6ba-ef08bcd826e2",
+      "ref": "2.798-801",
+      "title": "Like leaves or sand"
+    },
+    {
+      "id": "6b37cb01-e030-5a84-a6e6-90706c2d6c42",
+      "ref": "2.802-806",
+      "title": "Each man to lead his own"
+    },
+    {
+      "id": "4563bb8b-5f2b-5d21-b4db-b519ba187ad9",
+      "ref": "2.807-810",
+      "title": "Hector breaks up the assembly"
+    },
+    {
+      "id": "a84a77ea-69ec-5a2d-a46d-865ef648689c",
+      "ref": "2.811-815",
+      "title": "Batieia, the tomb of Myrine"
+    },
+    {
+      "id": "cb28467a-86c3-5c18-acc9-cbe0e89341ae",
+      "ref": "2.816-818",
+      "title": "Hector leads the Trojans"
+    },
+    {
+      "id": "9ad11811-e0ed-5d96-b078-d49251675067",
+      "ref": "2.819-821",
+      "title": "Aphrodite bore him to Anchises"
+    },
+    {
+      "id": "94e3f3e9-8eb1-5f70-bb68-7b069274a901",
+      "ref": "2.819-823",
+      "title": "Aeneas and the Dardanians"
+    },
+    {
+      "id": "c6d87825-e770-5354-9ebc-05a5190bc82d",
+      "ref": "2.824-827",
+      "title": "Pandarus and the men of Zeleia"
+    },
+    {
+      "id": "954203b1-5b84-5d49-87e2-68a2b934c60d",
+      "ref": "2.828-834",
+      "title": "The sons of Merops"
+    },
+    {
+      "id": "de37ec23-05bd-545e-a892-0dbe5fdafe56",
+      "ref": "2.835-839",
+      "title": "Asius son of Hyrtacus"
+    },
+    {
+      "id": "936006d4-a5e1-5c59-a029-78b0b053377f",
+      "ref": "2.840-843",
+      "title": "The Pelasgians of Larisa"
+    },
+    {
+      "id": "faaa5502-e516-5dae-83b9-2d41a91c5a57",
+      "ref": "2.844-845",
+      "title": "The Thracians"
+    },
+    {
+      "id": "8cb583e9-2962-5543-80b9-6da4abc3d7d4",
+      "ref": "2.846-847",
+      "title": "The Cicones"
+    },
+    {
+      "id": "06984e1b-ed6f-5268-b011-74490c5b9573",
+      "ref": "2.848-850",
+      "title": "The Paeonians"
+    },
+    {
+      "id": "322afae5-54df-5816-bdd8-94b207a119de",
+      "ref": "2.851-855",
+      "title": "The Paphlagonians"
+    },
+    {
+      "id": "f93097d4-bb36-5b6f-98e2-89865772859b",
+      "ref": "2.856-857",
+      "title": "The Halizones"
+    },
+    {
+      "id": "81a9365c-5c70-5d61-918e-9d23ebee7634",
+      "ref": "2.858-861",
+      "title": "The Mysians"
+    },
+    {
+      "id": "cf90bca4-c022-58c6-a339-f28215b69be4",
+      "ref": "2.862-863",
+      "title": "The Phrygians"
+    },
+    {
+      "id": "a555c934-fdac-507f-92f0-1c7ea5e5892c",
+      "ref": "2.864-866",
+      "title": "The Maeonians"
+    },
+    {
+      "id": "1341487d-fb70-5bef-8a85-d45b0b12b9e6",
+      "ref": "2.867-869",
+      "title": "The Carians"
+    },
+    {
+      "id": "59c79b74-56b4-5fa1-88fd-4cce1f26186f",
+      "ref": "2.870-875",
+      "title": "Nastes and Amphimachus"
+    },
+    {
+      "id": "23b85784-5f14-5a0e-a864-4125ff74640c",
+      "ref": "2.872-875",
+      "title": "Like a girl"
+    },
+    {
+      "id": "5ea519a8-cd28-560d-8c06-98a8618dbf0c",
+      "ref": "2.876-877",
+      "title": "Sarpedon and Glaucus"
     }
   ]
 }

@@ -1,0 +1,880 @@
+# Homer, Iliad, Book 2 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Now the other gods and the men who fight from chariots
+2	slept all night long, but sweet sleep did not hold Zeus;
+3	he was pondering in his mind how Achilles
+4	he might honor, and destroy many beside the ships of the Achaeans.
+5	And this plan seemed to him in his heart the best:
+6	to send a baneful Dream to Agamemnon, son of Atreus.
+7	And he spoke to him, addressing him with winged words:
+8	“Go, baneful Dream, to the swift ships of the Achaeans;
+9	go into the hut of Agamemnon, son of Atreus,
+10	and tell him everything exactly as I command.
+11	Bid him arm the long-haired Achaeans
+12	with all speed; for now he may take the wide-streeted city
+13	of the Trojans. For the immortals who have their homes on Olympus
+14	are no longer of two minds; she has bent them all,
+15	Hera, with her pleading, and sorrows hang over the Trojans.”
+16	So he spoke, and the Dream went, when he had heard the command,
+17	and quickly he reached the swift ships of the Achaeans,
+18	and went to Agamemnon, son of Atreus; and he found him
+19	sleeping in his hut, and ambrosial sleep was poured around him.
+20	He stood above his head in the likeness of the son of Neleus,
+21	Nestor, whom Agamemnon honored most of all the elders;
+22	in his likeness the divine Dream spoke to him:
+23	“You are asleep, son of wise-hearted Atreus, tamer of horses.
+24	A man of counsel should not sleep the whole night through,
+25	a man to whom the people are entrusted, and who has so much to care for.
+26	Now listen to me quickly: I am a messenger to you from Zeus,
+27	who, though he is far away, cares greatly for you and pities you.
+28	He bids you arm the long-haired Achaeans
+29	with all speed; for now you may take the wide-streeted city
+30	of the Trojans. For the immortals who have their homes on Olympus
+31	are no longer of two minds; she has bent them all,
+32	Hera, with her pleading, and sorrows hang over the Trojans
+33	from Zeus. But keep this in your mind, and do not let forgetfulness
+34	take hold of you when honey-sweet sleep lets you go.”
+35	So he spoke and went away, and left him there
+36	pondering in his heart things that were not to be fulfilled.
+37	For he thought that he would take the city of Priam that very day—
+38	the fool, who did not know what deeds Zeus was planning;
+39	for he was yet to lay more sorrows and groaning
+40	on Trojans and Danaans alike in the course of fierce battles.
+41	He woke from his sleep, and the divine voice was poured around him.
+42	He sat up and put on his soft tunic,
+43	fine and new-made, and threw his great cloak around him,
+44	and under his shining feet he bound his fine sandals,
+45	and around his shoulders he slung his silver-studded sword;
+46	and he took up the scepter of his fathers, imperishable forever,
+47	and with it went along the ships of the bronze-armored Achaeans.
+48	Now the goddess Dawn went up to high Olympus
+49	to announce the light to Zeus and the other immortals,
+50	and he ordered the clear-voiced heralds
+51	to summon the long-haired Achaeans to the assembly.
+52	They made the summons, and the men gathered very quickly.
+53	But first he seated a council of the great-hearted elders
+54	beside the ship of Nestor, the king born in Pylos.
+55	When he had called them together, he laid out a shrewd plan:
+56	“Hear me, friends: a divine Dream came to me in my sleep
+57	through the ambrosial night, and he was most like brilliant Nestor,
+58	very close to him in looks and stature and build.
+59	He stood above my head and spoke to me:
+60	‘You are asleep, son of wise-hearted Atreus, tamer of horses.
+61	A man of counsel should not sleep the whole night through,
+62	a man to whom the people are entrusted, and who has so much to care for.
+63	Now listen to me quickly: I am a messenger to you from Zeus,
+64	who, though he is far away, cares greatly for you and pities you.
+65	He bids you arm the long-haired Achaeans
+66	with all speed; for now you may take the wide-streeted city
+67	of the Trojans. For the immortals who have their homes on Olympus
+68	are no longer of two minds; she has bent them all,
+69	Hera, with her pleading, and sorrows hang over the Trojans
+70	from Zeus. But keep this in your mind.’ So he spoke,
+71	and flew away and was gone, and sweet sleep let me go.
+72	Come then, let us see if we can arm the sons of the Achaeans.
+73	But first I will test them with words, as is the custom,
+74	and I will order them to flee with their many-benched ships;
+75	and you, each from his own place, hold them back with words.”
+76	He spoke thus and sat down, and among them stood up
+77	Nestor, who was king of sandy Pylos.
+78	With good intent he addressed them and spoke:
+79	“Friends, leaders and rulers of the Argives,
+80	if any other of the Achaeans had told us of this dream,
+81	we would call it a lie and turn away from it all the more;
+82	but now the man who has seen it claims to be by far the best of the Achaeans.
+83	Come then, let us see if we can arm the sons of the Achaeans.”
+84	So he spoke, and led the way out of the council,
+85	and they rose up after him and obeyed the shepherd of the people,
+86	the scepter-bearing kings; and the people came streaming on.
+87	As the tribes of bees go out in their swarms,
+88	pouring from a hollow rock, always coming on anew,
+89	and fly in clusters over the flowers of spring,
+90	and in their crowds some are on the wing here, and some there,
+91	so the many tribes of men, from the ships and huts,
+92	marched in companies along the front of the deep shore
+93	to the assembly, crowd after crowd; and Rumor blazed among them,
+94	the messenger of Zeus, urging them on; and they gathered.
+95	The place of assembly was in uproar, and the earth groaned
+96	as the people sat down, and there was a din. Nine heralds
+97	were shouting to restrain them, if they would ever hold back from their clamor
+98	and listen to the kings whom Zeus has nurtured.
+99	With difficulty the people were seated and held in their places,
+100	and ceased from their clamor; and powerful Agamemnon
+101	stood up, holding the scepter that Hephaestus had toiled to make.
+102	Hephaestus gave it to lord Zeus, son of Cronus,
+103	and Zeus gave it to the guide, the slayer of Argus,
+104	and lord Hermes gave it to Pelops, driver of horses,
+105	and Pelops in turn gave it to Atreus, shepherd of the people,
+106	and Atreus when he died left it to Thyestes, rich in flocks,
+107	and Thyestes in turn left it to Agamemnon to carry,
+108	to be lord of many islands and of all Argos.
+109	Leaning on it, he spoke his words among the Argives:
+110	“Friends, Danaan heroes, attendants of Ares,
+111	Zeus, son of Cronus, has bound me fast in heavy blind folly—
+112	hard god, who once promised me and nodded his assent
+113	that I would sack well-walled Ilios and then sail home;
+114	but now he has devised an evil deceit, and bids me
+115	go back to Argos in disgrace, when I have lost so many men.
+116	Such, it seems, must be the pleasure of Zeus, supreme in might,
+117	who has brought down the heights of many cities
+118	and will bring down more; for his power is the greatest.
+119	For this is a shameful thing, even for men to come to hear of,
+120	that so fine and so great an army of the Achaeans should, all in vain,
+121	wage a war that comes to nothing, and fight
+122	against fewer men, and no end has yet come in sight.
+123	For if we were willing, Achaeans and Trojans,
+124	to swear a trusty truce, and both be counted—
+125	the Trojans gathering all who have hearths in the city,
+126	and we Achaeans ranged in companies of ten,
+127	and each company chose a Trojan man to pour its wine—
+128	many a ten would go without a wine-pourer.
+129	So far, I say, do the sons of the Achaeans outnumber
+130	the Trojans who live in the city. But there are allies
+131	from many cities, spear-brandishing men,
+132	who drive me far off course and will not let me, much as I want to,
+133	sack the well-peopled citadel of Ilios.
+134	Nine years of great Zeus have gone by,
+135	and the timbers of our ships have rotted, and the ropes have come loose;
+136	and our wives, I suppose, and our little children
+137	sit in our halls and wait for us; and still the work
+138	for which we came here lies unfinished, just as it was.
+139	Come then, let us all do as I say:
+140	let us flee with our ships to our dear native land;
+141	for we shall never now take wide-streeted Troy.”
+142	So he spoke, and stirred the heart in the breast
+143	of every man in the crowd who had not heard the council.
+144	The assembly was stirred like the long waves of the sea
+145	on the Icarian deep, which the East Wind and the South Wind
+146	raise up, rushing down from the clouds of father Zeus.
+147	And as when the West Wind comes and stirs a deep field of grain,
+148	blowing hard and wild, and the field bows down with its ears,
+149	so their whole assembly was stirred; and with a shout
+150	they rushed to the ships, and from under their feet the dust
+151	rose and hung in the air; and they called to one another
+152	to lay hold of the ships and drag them down to the shining sea,
+153	and they cleared out the launching-trenches; their shout reached the sky
+154	as they longed for home; and they began to pull the props from under the ships.
+155	Then the Argives would have had their homecoming against fate,
+156	had not Hera spoken a word to Athena:
+157	“Ah, child of aegis-bearing Zeus, Atrytone,
+158	is it so, then, that home to their dear native land
+159	the Argives will flee, over the broad back of the sea,
+160	and leave to Priam and the Trojans a thing to boast of,
+161	Argive Helen, for whose sake many of the Achaeans
+162	have perished in Troy, far from their dear native land?
+163	Go now through the army of the bronze-armored Achaeans;
+164	with your gentle words hold back every man,
+165	and do not let them drag their curving ships to the sea.”
+166	So she spoke, and the gray-eyed goddess Athena did not disobey,
+167	but went darting down from the peaks of Olympus,
+168	and quickly she reached the swift ships of the Achaeans.
+169	There she found Odysseus, the equal of Zeus in counsel,
+170	standing still. He had not laid a hand on his black, well-benched ship,
+171	for grief had come upon his heart and spirit.
+172	Standing near him, gray-eyed Athena spoke to him:
+173	“Son of Laertes, sprung from Zeus, Odysseus of many devices,
+174	is it so, then, that home to your dear native land
+175	you will flee, tumbling into your many-benched ships,
+176	and leave to Priam and the Trojans a thing to boast of,
+177	Argive Helen, for whose sake many of the Achaeans
+178	have perished in Troy, far from their dear native land?
+179	Go now through the army of the Achaeans, and hang back no longer;
+180	with your gentle words hold back every man,
+181	and do not let them drag their curving ships to the sea.”
+182	So she spoke, and he knew the voice of the goddess as she spoke,
+183	and he set off running, and threw off his cloak; it was taken up
+184	by the herald Eurybates of Ithaca, who attended him.
+185	He himself went straight to Agamemnon, son of Atreus,
+186	and received from him the scepter of his fathers, imperishable forever,
+187	and with it went along the ships of the bronze-armored Achaeans.
+188	Whenever he came upon a king or a man of note,
+189	he would stand beside him and hold him back with gentle words:
+190	“Strange one, it is not right for you to panic like a coward.
+191	Sit down yourself, and make the rest of the people sit.
+192	For you do not yet clearly know the mind of the son of Atreus;
+193	now he is testing them, but soon he will strike the sons of the Achaeans.
+194	Not all of us heard what he said in the council.
+195	Beware that in his anger he does not harm the sons of the Achaeans.
+196	Great is the spirit of kings whom Zeus has nurtured;
+197	a king's honor comes from Zeus, and Zeus the counselor loves him.”
+198	But whenever he saw a man of the people and found him shouting,
+199	he would strike him with the scepter and rebuke him with a word:
+200	“Strange one, sit still, and listen to the word of others
+201	who are better than you. You are unwarlike and weak,
+202	never counted for anything in war or in council.
+203	We Achaeans shall not all be kings here, not by any means.
+204	The rule of many is not good; let there be one ruler,
+205	one king, to whom the son of crooked-counseling Cronus has given
+206	the scepter and the ordinances, so that he may take counsel for them.”
+207	So, like a master, he went through the army; and back to the assembly
+208	they rushed again from the ships and huts
+209	with a roar, as when a wave of the loud-roaring sea
+210	crashes on the long beach, and the sea resounds.
+211	The others sat down and were held in their places;
+212	only Thersites still kept up his brawling, a man of unmeasured words,
+213	whose mind was full of words, many and disorderly,
+214	for quarreling with the kings, idly and against all order,
+215	saying whatever he thought would make the Argives
+216	laugh. He was the ugliest man who came to Ilios.
+217	He was bandy-legged and lame in one foot, and his two shoulders
+218	were rounded and hunched together over his chest; and above them
+219	his head was pointed, and a scant stubble sprouted on it.
+220	He was most hateful of all to Achilles and to Odysseus,
+221	for those two he was always abusing; but now at brilliant Agamemnon
+222	he screamed out his shrill insults; and the Achaeans
+223	resented him terribly, and were indignant in their hearts.
+224	But he, shouting loudly, abused Agamemnon in these words:
+225	“Son of Atreus, what are you complaining of now, what do you lack?
+226	Your huts are full of bronze, and there are many women
+227	in your huts, the choicest, whom we Achaeans
+228	give to you first of all, whenever we take a citadel.
+229	Or do you want still more gold, which someone will bring
+230	out of Ilios, one of the horse-taming Trojans, as ransom for his son,
+231	whom I or another of the Achaeans may bind and bring in?
+232	Or a young woman, to lie with in love,
+233	and keep apart for yourself alone? It is not right
+234	for one who is their leader to bring the sons of the Achaeans to grief.
+235	Weaklings, wretched disgraces, Achaean women, Achaean men no longer,
+236	let us go home with our ships, and leave this man
+237	here in Troy to stew over his prizes, so that he may see
+238	whether we too are any help to him or not—
+239	for even now, Achilles, a far better man than himself,
+240	he has dishonored: he has taken his prize and keeps it, having seized it himself.
+241	But there is no anger at all in Achilles' heart; he lets it pass.
+242	Otherwise, son of Atreus, this insult would be your last.”
+243	So he spoke, abusing Agamemnon, shepherd of the people,
+244	Thersites; but brilliant Odysseus quickly came and stood beside him,
+245	and looking at him darkly rebuked him with harsh words:
+246	“Thersites, reckless in speech, clear-voiced orator though you are,
+247	hold your tongue, and do not try all alone to quarrel with kings.
+248	For I say there is no mortal worse than you
+249	of all who came with the sons of Atreus to Ilios.
+250	So you should not have the kings in your mouth as you harangue us,
+251	casting reproaches at them, and watching for your homecoming.
+252	We do not yet clearly know how these things will turn out,
+253	whether we sons of the Achaeans shall return well or badly.
+254	And now at Agamemnon, son of Atreus, shepherd of the people,
+255	you sit hurling reproaches, because they give him so very much,
+256	the Danaan heroes; and you speak only to taunt.
+257	But I will speak out to you, and it will surely come to pass:
+258	if I find you playing the fool again, as you are now,
+259	then may the head of Odysseus no longer sit on his shoulders,
+260	and may I no longer be called the father of Telemachus,
+261	if I do not take you and strip off your own clothes,
+262	your cloak and your tunic, which cover your nakedness,
+263	and send you howling back to the swift ships,
+264	beaten out of the assembly with shameful blows.”
+265	So he spoke, and with the scepter he struck him on the back and shoulders;
+266	and he doubled over, and a big tear fell from his eye,
+267	and a bloody welt rose up on his back
+268	under the golden scepter; and he sat down, terrified,
+269	and in pain, with a helpless look, he wiped away the tear.
+270	And troubled though they were, they laughed heartily at him;
+271	and this is what a man would say, looking at his neighbor:
+272	“Ah, truly Odysseus has done countless good deeds,
+273	leading the way in good counsel and marshaling the battle;
+274	but now this is by far the best thing he has done among the Argives,
+275	to stop this word-slinging slanderer from haranguing us.
+276	Surely his proud spirit will never drive him again
+277	to rail at the kings with abusive words.”
+278	So said the crowd; and up rose Odysseus, sacker of cities,
+279	holding the scepter; and beside him gray-eyed Athena,
+280	in the likeness of a herald, ordered the people to be silent,
+281	so that the nearest and the farthest of the sons of the Achaeans alike
+282	might hear his words and take thought for his counsel.
+283	With good intent he addressed them and spoke:
+284	“Son of Atreus, now, my lord, the Achaeans want
+285	to make you the most despised of all mortal men,
+286	and they will not fulfill the promise that they made you
+287	while they were still on their way here from horse-pasturing Argos,
+288	that you would sack well-walled Ilios and then sail home.
+289	For like young children or widowed women
+290	they wail to one another about going home.
+291	Truly, the toil here is enough to make a man go home in weariness.
+292	For a man who stays even a single month away from his wife
+293	chafes beside his many-benched ship, when the winter
+294	storms and the surging sea keep him penned in;
+295	but for us this is the ninth year come round
+296	that we have been waiting here. So I do not blame the Achaeans
+297	for chafing beside the curved ships; but all the same,
+298	it is shameful to stay so long and go home empty-handed.
+299	Endure, friends, and stay a little while, so that we may learn
+300	whether Calchas' prophecy is true or not.
+301	For this we know well in our hearts, and you are all
+302	witnesses, all whom the fates of death have not carried away:
+303	it was yesterday, it seems, or the day before, when at Aulis the ships of the Achaeans
+304	were gathering, bringing evils to Priam and the Trojans,
+305	and we, around a spring, at the holy altars,
+306	were offering perfect hecatombs to the immortals
+307	beneath a fine plane tree, where bright water flowed.
+308	There a great sign appeared: a serpent, blood-red on its back,
+309	a terrible thing, which the Olympian himself had sent into the light,
+310	darted out from beneath the altar and made for the plane tree.
+311	There were the nestlings of a sparrow, helpless young,
+312	on the topmost branch, cowering beneath the leaves,
+313	eight of them, and the mother who bore them was the ninth.
+314	There the serpent devoured them as they cheeped pitifully,
+315	while the mother fluttered around them, lamenting her dear young;
+316	and coiling himself he caught her by the wing as she shrieked around him.
+317	But when he had devoured the sparrow's young and the mother too,
+318	the god who had brought him to light made him a sign for all to see;
+319	for the son of crooked-counseling Cronus turned him to stone,
+320	and we stood there and marveled at what had come to pass.
+321	So when the dread portents of the gods broke in upon the hecatombs,
+322	Calchas at once spoke out, prophesying:
+323	‘Why are you silent, long-haired Achaeans?
+324	To us Zeus the counselor has shown this great sign,
+325	late in coming, late in fulfillment, whose fame shall never perish.
+326	As this serpent devoured the sparrow's young and the mother too,
+327	eight of them, and the mother who bore them was the ninth,
+328	so we shall wage war there for as many years,
+329	and in the tenth we shall take the wide-streeted city.’
+330	So he spoke then; and now it is all being fulfilled.
+331	Come, stay, all you well-greaved Achaeans,
+332	right here, until we take the great city of Priam.”
+333	So he spoke, and the Argives shouted aloud, and all around the ships
+334	echoed terribly with the shouting of the Achaeans
+335	as they praised the words of divine Odysseus.
+336	And among them spoke also the Gerenian horseman Nestor:
+337	“Ah, truly you talk in the assembly like children,
+338	foolish little ones, who care nothing for the works of war.
+339	What will become of our compacts and our oaths?
+340	Into the fire, then, with the counsels and plans of men,
+341	the libations of unmixed wine and the right hands in which we trusted!
+342	For we go on quarreling like this with words, and can find
+343	no remedy, though we have been here so long.
+344	Son of Atreus, you, as before, holding to your steadfast purpose,
+345	lead the Argives through the fierce battles,
+346	and let these few waste away, the one or two of the Achaeans
+347	who make plans apart from the rest—though nothing will come of them—
+348	to go to Argos before they know whether the promise of aegis-bearing Zeus
+349	is a lie or not.
+350	For I say that the son of Cronus, supreme in might, nodded his assent
+351	on that day when they went aboard their swift-sailing ships,
+352	the Argives, bringing slaughter and doom to the Trojans:
+353	he flashed his lightning on our right, showing signs of good omen.
+354	So let no one be in a hurry to go home
+355	before he has lain beside the wife of some Trojan
+356	and paid them back for the struggles and groans for Helen's sake.
+357	And if any man is desperate to go home,
+358	let him lay hands on his black, well-benched ship,
+359	so that before the others he may meet his death and his fate.
+360	But you, my lord, take good counsel yourself, and listen to another;
+361	the word I speak will not be one to cast aside.
+362	Separate the men by tribes and by clans, Agamemnon,
+363	so that clan may help clan, and tribe tribe.
+364	If you do this, and the Achaeans obey you,
+365	then you will know which of the leaders is a coward, and which of the people,
+366	and which is brave; for they will fight each among their own.
+367	And you will know whether it is by the will of heaven that you do not sack the city,
+368	or by the cowardice of men and their ignorance of war.”
+369	Answering him, powerful Agamemnon said:
+370	“Once again, old man, you surpass the sons of the Achaeans in the assembly.
+371	If only, father Zeus and Athena and Apollo,
+372	I had ten such counselors among the Achaeans!
+373	Then the city of lord Priam would soon bow its head,
+374	taken and sacked beneath our hands.
+375	But aegis-bearing Zeus, son of Cronus, has given me sorrows,
+376	who throws me into fruitless strife and quarrels.
+377	For Achilles and I fought for the sake of a girl
+378	with hostile words, and I was the first to grow angry.
+379	But if ever we are of one mind in counsel, then no longer
+380	will the Trojans have any respite from evil, not even a little.
+381	But now go to your meal, so that we may join in the clash of Ares.
+382	Let each man sharpen his spear well and make his shield ready,
+383	and let each give his swift-footed horses their feed,
+384	and look carefully over his chariot and take thought for war,
+385	so that all day long we may try our strength in the hateful work of Ares.
+386	For there will be no pause, not even a little,
+387	unless night comes and parts the fury of men.
+388	Many a man will sweat through the strap across his chest
+389	of his man-covering shield, and his hand will grow weary on his spear;
+390	and many a horse will sweat as it strains at the polished chariot.
+391	But any man I see wishing to hang back from the fighting
+392	and linger beside the curved ships, for him there will be
+393	no hope then of escaping the dogs and the birds.”
+394	So he spoke, and the Argives shouted aloud, like a wave
+395	against a high shore, when the South Wind comes and stirs it,
+396	against a jutting crag, which the waves never leave alone
+397	from winds of every kind, whenever they rise from this side or that.
+398	They stood up and hurried off, scattering among the ships,
+399	and made fires in the huts and took their meal.
+400	Each man sacrificed to one or another of the everlasting gods,
+401	praying to escape death and the toil of Ares.
+402	But Agamemnon, lord of men, sacrificed an ox,
+403	a fat one, five years old, to the son of Cronus, supreme in might,
+404	and he called the elders, the best of all the Achaeans:
+405	Nestor first of all, and lord Idomeneus,
+406	and then the two Ajaxes, and the son of Tydeus,
+407	and sixth, Odysseus, the equal of Zeus in counsel.
+408	And Menelaus, good at the war cry, came to him unbidden,
+409	for he knew in his heart how his brother was laboring.
+410	They stood around the ox and took up the barley grains;
+411	and praying among them, powerful Agamemnon said:
+412	“Zeus, most glorious, greatest, lord of the dark clouds, who dwell in the upper air,
+413	let the sun not go down and darkness not come on
+414	before I have thrown down headlong the hall of Priam,
+415	blackened with smoke, and burned its doors with consuming fire,
+416	and torn the tunic of Hector around his chest,
+417	rent with the bronze; and may many of his companions around him
+418	fall headlong in the dust and bite the earth.”
+419	So he spoke, but the son of Cronus was not yet going to fulfill his prayer;
+420	he accepted the offerings, but made the toil greater, a toil none would envy.
+421	And when they had prayed and scattered the barley grains,
+422	first they drew back the victim's head, and cut its throat, and flayed it,
+423	and cut out the thigh-bones and wrapped them in fat,
+424	making a double fold, and laid raw flesh upon them.
+425	These they burned on split logs stripped of their leaves,
+426	and they spitted the entrails and held them over the flame of Hephaestus.
+427	But when the thigh-pieces were burned up and they had tasted the entrails,
+428	they cut up the rest and threaded it on spits,
+429	and roasted it carefully, and drew it all off.
+430	And when they had ceased from the work and made the feast ready,
+431	they feasted, and no one's heart lacked an equal share of the feast.
+432	But when they had put away the desire for drink and food,
+433	the Gerenian horseman Nestor began to speak among them:
+434	“Most glorious son of Atreus, Agamemnon, lord of men,
+435	let us not sit here talking any longer, and let us no longer
+436	put off the work which the god is putting into our hands.
+437	Come, let the heralds of the bronze-armored Achaeans
+438	make proclamation and gather the people along the ships,
+439	and let us go together, as we are, through the wide army of the Achaeans,
+440	so that we may the sooner rouse sharp Ares.”
+441	So he spoke, and Agamemnon, lord of men, did not disobey.
+442	At once he ordered the clear-voiced heralds
+443	to summon the long-haired Achaeans to war.
+444	They made the summons, and the men gathered very quickly.
+445	And the kings whom Zeus has nurtured, around the son of Atreus,
+446	rushed about marshaling them, and among them went gray-eyed Athena,
+447	holding the aegis, highly prized, ageless and immortal;
+448	from it a hundred tassels hang floating, all of gold,
+449	all finely woven, and each worth a hundred oxen.
+450	With it she sped flashing through the army of the Achaeans,
+451	urging them on, and she roused strength in each man's
+452	heart to go to war without ceasing and to fight.
+453	And at once war became sweeter to them than to go home
+454	in the hollow ships to their dear native land.
+455	As a destroying fire sets a vast forest ablaze
+456	on the peaks of a mountain, and the glare is seen far off,
+457	so, as they marched, from their marvelous bronze
+458	the dazzling gleam went up through the upper air to the sky.
+459	And as the many tribes of winged birds,
+460	geese or cranes or long-necked swans,
+461	in the Asian meadow, by the streams of the Cayster,
+462	fly here and there, glorying in their wings,
+463	and settle with loud cries, each ahead of the next, and the meadow resounds,
+464	so the many tribes of men, from the ships and huts,
+465	poured out onto the plain of the Scamander; and the earth beneath
+466	rang terribly under the feet of the men and of their horses.
+467	And they stood in the flowering meadow of the Scamander,
+468	numberless, as the leaves and flowers that grow in their season.
+469	As the many tribes of swarming flies
+470	that buzz around a shepherd's steading
+471	in the springtime, when the milk wets the pails,
+472	so many were the long-haired Achaeans who stood against the Trojans
+473	on the plain, eager to tear them apart.
+474	And as goatherds sort out the wide flocks of goats
+475	easily, when they have mingled in the pasture,
+476	so the leaders marshaled them, this way and that,
+477	to go into battle; and among them was powerful Agamemnon,
+478	in eyes and head like Zeus who delights in thunder,
+479	in waist like Ares, and in chest like Poseidon.
+480	As an ox in a herd stands out far above all the rest,
+481	a bull, for he is conspicuous among the gathered cattle,
+482	such did Zeus make the son of Atreus on that day,
+483	conspicuous among many and preeminent among heroes.
+484	Tell me now, Muses, you who have your homes on Olympus—
+485	for you are goddesses, and are present, and know all things,
+486	but we hear only the report, and know nothing—
+487	who were the leaders and lords of the Danaans.
+488	The multitude I could not tell or name,
+489	not even if I had ten tongues and ten mouths,
+490	a voice that could not break, and a heart of bronze within me,
+491	unless the Olympian Muses, daughters of aegis-bearing Zeus,
+492	were to remind me of all who came to Ilios.
+493	But I will tell the leaders of the ships, and all the ships.
+494	The Boeotians were led by Peneleos and Leitus,
+495	Arcesilaus and Prothoenor and Clonius,
+496	those who lived in Hyria and rocky Aulis,
+497	Schoenus and Scolus and Eteonus of the many ridges,
+498	Thespeia and Graea and Mycalessus with its wide dancing floors;
+499	those who lived around Harma and Eilesium and Erythrae;
+500	those who held Eleon and Hyle and Peteon,
+501	Ocalea and Medeon, the well-built citadel,
+502	Copae and Eutresis and Thisbe of the many doves;
+503	those who held Coronea and grassy Haliartus;
+504	those who held Plataea and those who lived in Glisas;
+505	those who held Hypothebae, the well-built citadel,
+506	and holy Onchestus, the splendid grove of Poseidon;
+507	those who held Arne, rich in grapes, and those who held Midea
+508	and holy Nisa and Anthedon at the land's end.
+509	Of these, fifty ships came, and in each
+510	went a hundred and twenty young men of the Boeotians.
+511	Those who lived in Aspledon and Minyan Orchomenus
+512	were led by Ascalaphus and Ialmenus, sons of Ares,
+513	whom Astyoche bore in the house of Actor, son of Azeus—
+514	a modest maiden, she went up to the upper room
+515	to mighty Ares, and he lay with her in secret.
+516	With them thirty hollow ships were ranged in line.
+517	The Phocians were led by Schedius and Epistrophus,
+518	sons of great-hearted Iphitus, son of Naubolus,
+519	those who held Cyparissus and rocky Pytho
+520	and holy Crisa and Daulis and Panopeus;
+521	those who lived around Anemorea and Hyampolis,
+522	and those who lived beside the shining river Cephisus,
+523	and those who held Lilaea at the springs of the Cephisus;
+524	and with them followed forty black ships.
+525	These were busy setting the ranks of the Phocians in order,
+526	and they armed close beside the Boeotians, on their left.
+527	The Locrians were led by swift Ajax, son of Oileus,
+528	the lesser Ajax, not so great as Telamonian Ajax,
+529	but much smaller; he was small, and wore a linen corselet,
+530	but with the spear he surpassed all the Panhellenes and Achaeans.
+531	They lived in Cynus and Opus and Calliarus
+532	and Bessa and Scarphe and lovely Augeiae,
+533	and Tarphe and Thronium, around the streams of the Boagrius;
+534	and with him followed forty black ships
+535	of the Locrians, who live across from holy Euboea.
+536	Those who held Euboea, the Abantes breathing fury,
+537	Chalcis and Eretria and Histiaea, rich in grapes,
+538	and Cerinthus by the sea, and the steep citadel of Dium,
+539	and those who held Carystus and lived in Styra,
+540	were led in turn by Elephenor, offshoot of Ares,
+541	son of Chalcodon, leader of the great-hearted Abantes.
+542	And with him followed the swift Abantes, their hair long at the back,
+543	spearmen, eager with outstretched ash spears
+544	to tear the corselets around the chests of their enemies;
+545	and with him followed forty black ships.
+546	And those who held Athens, the well-built citadel,
+547	the land of great-hearted Erechtheus, whom once Athena
+548	raised, the daughter of Zeus, when the grain-giving earth had borne him,
+549	and set him down in Athens, in her own rich temple;
+550	and there with bulls and rams they seek his favor,
+551	the young men of the Athenians, as the years come round—
+552	these were led in turn by the son of Peteos, Menestheus.
+553	No man on earth had yet been born his equal
+554	at marshaling horses and shield-bearing men;
+555	Nestor alone could rival him, for he was older.
+556	And with him followed fifty black ships.
+557	Ajax brought twelve ships from Salamis,
+558	and led them and stationed them where the battalions of the Athenians stood.
+559	Those who held Argos and Tiryns of the great walls,
+560	Hermione and Asine, which lie on the deep gulf,
+561	Troezen and Eionae and vine-rich Epidaurus,
+562	and the young men of the Achaeans who held Aegina and Mases,
+563	were led in turn by Diomedes, good at the war cry,
+564	and Sthenelus, dear son of famous Capaneus;
+565	and with them came a third, Euryalus, a man equal to the gods,
+566	son of lord Mecisteus, son of Talaus;
+567	but Diomedes, good at the war cry, led them all;
+568	and with them followed eighty black ships.
+569	Those who held Mycenae, the well-built citadel,
+570	and wealthy Corinth, and well-built Cleonae,
+571	and lived in Orneae and lovely Araethyrea
+572	and Sicyon, where Adrastus was king at first;
+573	and those who held Hyperesia and steep Gonoessa
+574	and Pellene, and lived around Aegium
+575	and all along Aegialus and around broad Helice—
+576	of these a hundred ships were led by powerful Agamemnon,
+577	son of Atreus. With him followed by far the most and the best
+578	men; and he himself put on the gleaming bronze,
+579	exulting, and he stood out among all the heroes,
+580	because he was the best, and led by far the most men.
+581	Those who held hollow Lacedaemon with its many ravines,
+582	Pharis and Sparta and Messe of the many doves,
+583	and lived in Bryseae and lovely Augeiae,
+584	and those who held Amyclae and Helos, the citadel by the sea,
+585	and those who held Laas and lived around Oetylus,
+586	these were led by his brother, Menelaus, good at the war cry,
+587	sixty ships; and they armed apart.
+588	And he himself went among them, trusting in his own eagerness,
+589	urging them on to war; and most of all he longed in his heart
+590	to pay them back for the struggles and groans for Helen's sake.
+591	Those who lived in Pylos and lovely Arene
+592	and Thryum, the ford of the Alpheus, and well-built Aepy,
+593	and lived in Cyparisseis and Amphigeneia
+594	and Pteleus and Helos and Dorium, where the Muses
+595	met Thamyris the Thracian and put an end to his singing
+596	as he came from Oechalia, from Eurytus of Oechalia;
+597	for he boasted and vowed that he would win, even if they themselves,
+598	the Muses, were to sing, the daughters of aegis-bearing Zeus;
+599	and in their anger they maimed him, and they took away
+600	his wondrous song and made him forget his lyre-playing.
+601	These in turn were led by the Gerenian horseman Nestor,
+602	and with him ninety hollow ships were ranged in line.
+603	Those who held Arcadia, beneath the steep mountain of Cyllene,
+604	beside the tomb of Aepytus, where men fight hand to hand,
+605	who lived in Pheneus and Orchomenus, rich in flocks,
+606	and Rhipe and Stratia and windy Enispe,
+607	and held Tegea and lovely Mantinea,
+608	and held Stymphalus and lived in Parrhasia,
+609	were led by the son of Ancaeus, powerful Agapenor,
+610	sixty ships; and in each ship went many
+611	Arcadian men, well skilled in war.
+612	For Agamemnon, lord of men, had himself given them
+613	well-benched ships to cross the wine-dark sea,
+614	the son of Atreus, since they cared nothing for the works of the sea.
+615	And those who lived in Buprasium and shining Elis,
+616	as much of it as Hyrmine and Myrsinus at the border
+617	and the Olenian Rock and Alesium enclose within them,
+618	of these in turn there were four leaders, and each man was followed
+619	by ten swift ships, and many Epeians went aboard.
+620	Some were led by Amphimachus and Thalpius,
+621	sons, one of Cteatus and one of Eurytus, both of Actor's line;
+622	some were led by the son of Amarynceus, mighty Diores;
+623	and the fourth were led by godlike Polyxeinus,
+624	son of lord Agasthenes, son of Augeas.
+625	Those from Dulichium and the holy Echinae,
+626	islands that lie across the sea, opposite Elis,
+627	were led in turn by Meges, the equal of Ares,
+628	son of Phyleus, whom the horseman Phyleus, dear to Zeus, begot,
+629	who once went off to live in Dulichium, angry with his father;
+630	and with him followed forty black ships.
+631	And Odysseus led the great-hearted Cephallenians,
+632	who held Ithaca and Neritum with its quivering leaves,
+633	and lived in Crocyleia and rugged Aegilips,
+634	and those who held Zacynthus and lived around Samos,
+635	and held the mainland and lived on the coast across from them.
+636	These were led by Odysseus, the equal of Zeus in counsel,
+637	and with him followed twelve ships with red-painted prows.
+638	The Aetolians were led by Thoas, son of Andraemon,
+639	those who lived in Pleuron and Olenus and Pylene
+640	and Chalcis by the sea and rocky Calydon;
+641	for the sons of great-hearted Oeneus were no more,
+642	nor was he himself still living, and fair-haired Meleager was dead;
+643	so to him had been given the whole command, to rule the Aetolians;
+644	and with him followed forty black ships.
+645	The Cretans were led by Idomeneus, famed for his spear,
+646	those who held Cnossus and Gortyn of the great walls,
+647	Lyctus and Miletus and chalk-white Lycastus,
+648	Phaestus and Rhytium, well-peopled cities,
+649	and others who lived in Crete of the hundred cities.
+650	These were led by Idomeneus, famed for his spear,
+651	and Meriones, the equal of Enyalius, slayer of men;
+652	and with them followed eighty black ships.
+653	Tlepolemus, son of Heracles, tall and brave,
+654	brought nine ships from Rhodes, of the proud Rhodians,
+655	who lived in Rhodes, arranged in three divisions,
+656	Lindus and Ialysus and chalk-white Cameirus.
+657	These were led by Tlepolemus, famed for his spear,
+658	whom Astyocheia bore to the mighty Heracles;
+659	he had brought her from Ephyra, from the river Selleis,
+660	after he had sacked many cities of young men whom Zeus had nurtured.
+661	But when Tlepolemus had grown up in the well-built hall,
+662	he at once killed his own father's dear uncle,
+663	Licymnius, offshoot of Ares, already growing old;
+664	and quickly he built ships, and when he had gathered many people
+665	he went fleeing over the sea; for the other sons
+666	and grandsons of the mighty Heracles had threatened him.
+667	And he came to Rhodes in his wanderings, suffering sorrows;
+668	and they settled there in three groups, by tribes, and were loved
+669	by Zeus, who rules over gods and men,
+670	and the son of Cronus poured wondrous wealth upon them.
+671	Nireus brought three balanced ships from Syme,
+672	Nireus, son of Aglaea and of lord Charopus,
+673	Nireus, the most handsome man who came to Ilios
+674	of all the Danaans, after the noble son of Peleus;
+675	but he was a weakling, and few people followed him.
+676	Those who held Nisyrus and Carpathus and Casus
+677	and Cos, the city of Eurypylus, and the Calydnian islands,
+678	were led in turn by Pheidippus and Antiphus,
+679	the two sons of lord Thessalus, son of Heracles;
+680	and with them thirty hollow ships were ranged in line.
+681	Now again, all those who lived in Pelasgian Argos,
+682	who lived in Alus and Alope and Trachis,
+683	and who held Phthia and Hellas of the lovely women,
+684	and were called Myrmidons and Hellenes and Achaeans—
+685	of their fifty ships Achilles was the leader.
+686	But they gave no thought to grim-sounding war,
+687	for there was no one to lead them into the ranks;
+688	for brilliant swift-footed Achilles lay idle among the ships,
+689	angry over the girl, Briseis of the lovely hair,
+690	whom he had taken out of Lyrnessus after much toil,
+691	when he sacked Lyrnessus and the walls of Thebe,
+692	and struck down Mynes and Epistrophus, fighters with the spear,
+693	the sons of lord Euenus, son of Selepus.
+694	For her sake he lay grieving; but soon he was to rise up.
+695	Those who held Phylace and flowering Pyrasus,
+696	the precinct of Demeter, and Iton, mother of flocks,
+697	and Antron by the sea and Pteleus with its grassy meadows,
+698	these were led by warlike Protesilaus
+699	while he lived; but by now the black earth held him fast.
+700	His wife, her cheeks torn in mourning, had been left behind in Phylace,
+701	and his house half-finished; a Dardanian man killed him
+702	as he leapt from his ship, by far the first of the Achaeans.
+703	Nor were they without a leader, though they longed for their leader;
+704	Podarces, offshoot of Ares, marshaled them,
+705	son of Iphiclus, rich in flocks, the son of Phylacus,
+706	own brother of great-hearted Protesilaus,
+707	younger in birth; the other was both older and braver,
+708	the warlike hero Protesilaus. Yet the people
+709	did not lack a leader, though they longed for the good man they had lost;
+710	and with him followed forty black ships.
+711	Those who lived in Pherae beside the lake of Boebeis,
+712	Boebe and Glaphyrae and well-built Iolcus,
+713	were led in eleven ships by the dear son of Admetus,
+714	Eumelus, whom the brilliant among women bore to Admetus,
+715	Alcestis, most beautiful in form of the daughters of Pelias.
+716	Those who lived in Methone and Thaumacia
+717	and held Meliboea and rugged Olizon
+718	were led by Philoctetes, well skilled with the bow,
+719	seven ships; and in each went fifty rowers,
+720	well skilled with the bow, to fight with might.
+721	But he lay on an island, suffering bitter pains,
+722	in sacred Lemnos, where the sons of the Achaeans had left him
+723	in agony from the evil wound of a deadly water snake.
+724	There he lay grieving; but soon they were to remember,
+725	the Argives beside their ships, lord Philoctetes.
+726	Nor were they without a leader, though they longed for their leader;
+727	Medon marshaled them, the bastard son of Oileus,
+728	whom Rhene bore to Oileus, sacker of cities.
+729	Those who held Tricca and rocky Ithome,
+730	and those who held Oechalia, the city of Eurytus of Oechalia,
+731	were led in turn by the two sons of Asclepius,
+732	good healers, Podalirius and Machaon;
+733	and with them thirty hollow ships were ranged in line.
+734	Those who held Ormenium, and the spring Hypereia,
+735	and held Asterium and the white peaks of Titanus,
+736	were led by Eurypylus, the splendid son of Euaemon;
+737	and with him followed forty black ships.
+738	Those who held Argissa and lived in Gyrtone,
+739	Orthe and Elone and the white city of Oloosson,
+740	were led in turn by Polypoetes, steadfast in battle,
+741	the son of Peirithous, whom immortal Zeus begot;
+742	famous Hippodameia bore him to Peirithous
+743	on the day when he took vengeance on the shaggy beasts
+744	and drove them from Pelion and pushed them to the Aethices.
+745	Not alone: with him was Leonteus, offshoot of Ares,
+746	son of high-hearted Coronus, son of Caeneus;
+747	and with them followed forty black ships.
+748	Gouneus brought twenty-two ships from Cyphus,
+749	and with him followed the Enienes and the Perrhaebians, steadfast in battle,
+750	who had made their homes around wintry Dodona,
+751	and those who worked the fields around the lovely Titaressus,
+752	which pours its fair-flowing water into the Peneius;
+753	yet it does not mingle with the silver-eddying Peneius,
+754	but flows on top of it like olive oil;
+755	for it is a branch of the water of Styx, the dread oath.
+756	The Magnetes were led by Prothous, son of Tenthredon,
+757	who dwelt around the Peneius and Pelion with its quivering leaves;
+758	these were led by swift Prothous,
+759	and with him followed forty black ships.
+760	These, then, were the leaders and lords of the Danaans.
+761	But who was the best of them, tell me, Muse,
+762	of the men and of the horses who followed the sons of Atreus?
+763	Of the horses the best by far were the mares of the grandson of Pheres,
+764	which Eumelus drove, swift-footed like birds,
+765	alike in coat and in age, their backs as level as a builder's line.
+766	Apollo, god of the silver bow, had reared them in Pereia,
+767	both of them mares, carrying the panic of Ares.
+768	Of the men the best by far was Telamonian Ajax,
+769	while Achilles kept up his wrath; for he was by far the strongest,
+770	and so were the horses that carried the noble son of Peleus.
+771	But he lay among his curved, seafaring ships,
+772	nursing his wrath against Agamemnon, shepherd of the people,
+773	son of Atreus; and his people, along the shore of the sea,
+774	amused themselves throwing the discus and the javelin
+775	and shooting their bows; and the horses, each beside its chariot,
+776	munching lotus and marsh-grown parsley,
+777	stood idle; and the chariots of their masters lay well covered
+778	in the huts; and the men, longing for their leader, dear to Ares,
+779	wandered here and there through the camp, and did not fight.
+780	So they went on, as if the whole land were being devoured by fire;
+781	and the earth groaned beneath them, as beneath Zeus who delights in thunder
+782	in his anger, when he lashes the earth around Typhoeus
+783	among the Arimi, where they say Typhoeus has his bed;
+784	so the earth groaned greatly beneath their feet
+785	as they came; and very quickly they crossed the plain.
+786	And to the Trojans came a messenger, swift Iris, wind-footed,
+787	from aegis-bearing Zeus, with grievous news.
+788	They were holding assembly at Priam's doors,
+789	all gathered together, young and old;
+790	and standing near, swift-footed Iris spoke to them.
+791	She made her voice like that of Priam's son Polites,
+792	who sat as a lookout for the Trojans, trusting in his speed of foot,
+793	on top of the tomb of old Aesyetes,
+794	waiting for the moment when the Achaeans would set out from their ships;
+795	in his likeness swift-footed Iris spoke:
+796	“Old man, endless words are always dear to you,
+797	as once in time of peace; but relentless war has come.
+798	I have gone into very many battles of men,
+799	but never yet have I seen so fine and so great an army;
+800	for like leaves or like the sands, far too many,
+801	they are coming across the plain to fight against the city.
+802	Hector, to you above all I give this charge; do as I say:
+803	there are many allies throughout the great city of Priam,
+804	and the tongues of men scattered far and wide are many and various;
+805	so let each man give commands to those he leads,
+806	and let him marshal his own countrymen and lead them out.”
+807	So she spoke, and Hector did not fail to know the goddess's word,
+808	and at once he broke up the assembly, and they rushed to arms;
+809	all the gates were opened, and the army poured out,
+810	footmen and horsemen, and a great din arose.
+811	There is, in front of the city, a steep mound,
+812	off in the plain, with open ground all around it,
+813	which men call Batieia,
+814	but the immortals, the tomb of much-bounding Myrine;
+815	there at that time the Trojans and their allies were marshaled.
+816	The Trojans were led by great Hector of the gleaming helmet,
+817	son of Priam; with him by far the most and the best
+818	men were arming, eager with their spears.
+819	The Dardanians were led by the brave son of Anchises,
+820	Aeneas, whom brilliant Aphrodite bore to Anchises
+821	on the slopes of Ida, a goddess who lay with a mortal;
+822	not alone: with him were the two sons of Antenor,
+823	Archelochus and Acamas, well skilled in every kind of fighting.
+824	Those who lived in Zeleia under the lowest foot of Ida,
+825	wealthy men who drink the dark water of the Aesepus,
+826	Trojans, were led in turn by the splendid son of Lycaon,
+827	Pandarus, to whom Apollo himself had given his bow.
+828	Those who held Adrasteia and the land of Apaesus
+829	and held Pityeia and the steep mountain of Tereia
+830	were led by Adrestus and Amphius of the linen corselet,
+831	the two sons of Merops of Percote, who above all men
+832	knew the art of prophecy, and would not let his sons
+833	go into man-destroying war; but they would not
+834	obey him at all, for the fates of black death were leading them on.
+835	Those who lived around Percote and Practius
+836	and held Sestus and Abydos and shining Arisbe
+837	were led in turn by the son of Hyrtacus, Asius, leader of men,
+838	Asius, son of Hyrtacus, whom his horses carried from Arisbe,
+839	great and tawny horses, from the river Selleis.
+840	Hippothous led the tribes of the Pelasgians, fighters with the spear,
+841	those who lived in deep-soiled Larisa;
+842	these were led by Hippothous and Pylaeus, offshoot of Ares,
+843	the two sons of the Pelasgian Lethus, son of Teutamus.
+844	The Thracians were led by Acamas and the hero Peirous,
+845	all those whom the strong-flowing Hellespont encloses.
+846	Euphemus was leader of the Cicones, spearmen,
+847	the son of Troezenus, whom Zeus had nurtured, son of Ceas.
+848	Pyraechmes led the Paeonians with their curved bows
+849	from far away, from Amydon, from the broad-flowing Axius,
+850	the Axius, whose water is the fairest that spreads over the earth.
+851	The Paphlagonians were led by Pylaemenes of the shaggy heart,
+852	from the land of the Eneti, where the breed of wild mules comes from;
+853	they held Cytorus and lived around Sesamus
+854	and had their famous homes around the river Parthenius,
+855	and Cromna and Aegialus and lofty Erythini.
+856	The Halizones were led by Odius and Epistrophus
+857	from far away, from Alybe, where silver has its birth.
+858	The Mysians were led by Chromis and Ennomus the augur;
+859	but his birds did not save him from black doom;
+860	he was brought down at the hands of the swift-footed grandson of Aeacus
+861	in the river, where he slaughtered other Trojans too.
+862	Phorcys led the Phrygians, and godlike Ascanius,
+863	from far-off Ascania; and they were eager to fight in the combat.
+864	The Maeonians were led by Mesthles and Antiphus,
+865	the two sons of Talaemenes, whom the Gygaean lake bore;
+866	they led the Maeonians, who were born beneath Tmolus.
+867	Nastes led the Carians, of barbarous speech,
+868	who held Miletus and the mountain of the Phthires with its countless leaves
+869	and the streams of the Maeander and the steep peaks of Mycale;
+870	these were led by Amphimachus and Nastes,
+871	Nastes and Amphimachus, the splendid children of Nomion;
+872	and he came to the war wearing gold, like a girl,
+873	the fool, and it did nothing to keep off grim destruction;
+874	he was brought down at the hands of the swift-footed grandson of Aeacus
+875	in the river, and wise-hearted Achilles carried off the gold.
+876	Sarpedon led the Lycians, and noble Glaucus,
+877	from far-off Lycia, from the eddying Xanthus.

@@ -3,7 +3,7 @@ title: Balanced ships
 greek: ἐΐση
 kind: epithet
 tags: [ship]
-summary: “Evenly built, balanced,” an epithet of [[ships]], as Achilles leaves the assembly (1.306).
+summary: “Evenly built, balanced,” an epithet of [[ships]].
 aliases: [well-balanced, eise]
 grc: [ἐΐσας]
 en: [balanced]

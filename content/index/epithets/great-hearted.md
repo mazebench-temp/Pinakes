@@ -3,11 +3,11 @@ title: Great-hearted
 greek: μεγάθυμος
 kind: epithet
 tags: [heroic-epithet]
-summary: “High-spirited,” an epithet of the [[Achaeans]] that Achilles and Agamemnon throw back and forth over the question of a new prize (1.123, 1.135).
+summary: “Great-spirited,” praise of heroes and peoples: μεγάθυμος and its synonym μεγαλήτωρ.
 aliases: [high-spirited, megathymos]
 grc: [μεγάθυμοι]
 en: [great-hearted]
-of: [achaeans]
+of: [achaeans, elders, iphitus, abantes, erechtheus, cephallenians, oeneus, protesilaus]
 ---
 
 ## Meaning

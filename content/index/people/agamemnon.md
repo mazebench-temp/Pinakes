@@ -3,10 +3,10 @@ title: Agamemnon
 greek: Ἀγαμέμνων
 kind: person
 tags: [achaean, argive, king, atreidae, warrior]
-summary: Son of [[Atreus]], king of Mycenae and commander of the Achaean army at Troy. He refuses the priest's ransom and brings on the plague, then takes Achilles' prize to make up for the one he must give back.
+summary: Son of [[Atreus]], king of Mycenae and commander of the Achaean army at Troy, the “lord of men” whose quarrel with [[Achilles]] sets the Iliad in motion.
 aliases: [son of Atreus, Atreides, lord of men]
 grc: [Ἀγαμέμν*, Ἀτρεΐδης, Ἀτρεΐδη, Ἀτρεΐδην, Ἀτρεΐδαο, Ἀτρεΐωνα, Ἀτρεΐδα, Ἀτρεΐδαι]
-en: [Agamemnon, son of Atreus, Atreus' son]
+en: [Agamemnon, son of Atreus]
 refs: [1.29, 1.106, 1.173, 1.286, 1.340, 1.342]
 relations:
   - father: atreus (1.7, 1.12)
@@ -54,24 +54,8 @@ Husband of [[Clytemnestra]], whom he rates below a captive in public. The audien
 
 The insults gather into a portrait: drunk, cowardly, greedy, a "people-devouring king" (δημοβόρος βασιλεύς) who rules over nobodies.
 
-## In Book 1
-
-**The ransom refused.** Agamemnon breaks the Achaeans' will at the start:
-
-{{quote:e18d7cfd-6958-5be7-935b-780c1577a878}}
-
-**The prophet of evils.** When Calchas names the cause, Agamemnon turns on him (1.106–108). Then, surprisingly, he agrees to give up the girl, "I would rather the people be safe than perish" (1.117). The condition is a new prize at once.
-
-**Taking the prize.** His claim rests on rank: the prize is the visible sign of his standing. When Achilles resists, he threatens to take Briseis himself, "so that you may know well how much greater I am than you" (1.186). He does it by heralds (1.318–325).
-
-**Piety and power.** He sends Chryseis home with a hecatomb and has the army purified (1.308–317). His own wrath continues: ἐμήνιε, "he nursed his wrath" (1.247), the same verb as Achilles' μῆνις.
-
-**Kingship.** Nestor states his case plainly:
-
-{{quote:56007caf-8888-557e-8716-089111f36532}}
-
-See [[kingship-and-authority]].
+{{notes}}
 
 ## Outside Homer
 
-In the Catalogue of Ships he leads a hundred ships from Mycenae (Iliad 2.569–580), and his scepter's descent from Zeus is traced in 2.100–108. The Odyssey tells of his murder by Aegisthus and Clytemnestra on his return (1.35–43, 4.512–537, 11.405–434). Aeschylus made it the subject of the *Agamemnon* (458 BCE). The sacrifice of his daughter Iphigenia at Aulis was told in the *Cypria* and is unknown to Homer. The gold "Mask of Agamemnon" that Schliemann found at Mycenae in 1876 is several centuries older than any Trojan War.
+The Odyssey tells of his murder by Aegisthus and Clytemnestra on his return (1.35–43, 4.512–537, 11.405–434). Aeschylus made it the subject of the *Agamemnon* (458 BCE). The sacrifice of his daughter Iphigenia at Aulis was told in the *Cypria* and is unknown to Homer. The gold "Mask of Agamemnon" that Schliemann found at Mycenae in 1876 is several centuries older than any Trojan War.

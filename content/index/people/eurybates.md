@@ -3,7 +3,7 @@ title: Eurybates
 greek: Εὐρυβάτης
 kind: person
 tags: [herald, achaean]
-summary: Agamemnon's second herald, who goes with [[Talthybius]] to take Briseis.
+summary: One of [[Agamemnon]]'s two heralds, with [[Talthybius]].
 grc: [Εὐρυβάτ*]
 en: [Eurybates]
 refs: [1.327, 1.331, 1.347]
@@ -11,12 +11,8 @@ passages:
   - 1.318-348 | The heralds take Briseis
 ---
 
-## In Book 1
-
-{{quote:05b0aa17-019c-5d3e-a418-653415064141}}
-
-The name means "wide-striding" (εὐρύς, wide + βαίνω, walk), suitable for a messenger.
+{{notes}}
 
 ## Outside Homer
 
-Odysseus also has a herald named Eurybates, from Ithaca (Iliad 2.184; Odyssey 19.244–248). Whether the two are the same man is unclear.
+Odysseus has a herald of the same name, from Ithaca (Iliad 2.184; Odyssey 19.244–248): see [[eurybates-of-ithaca]]. A herald Eurybates goes with Odius on the embassy to Achilles (Iliad 9.170), and the poem does not say which of the two he is.

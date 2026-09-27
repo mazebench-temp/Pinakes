@@ -3,11 +3,11 @@ title: Clear-voiced orator of the Pylians
 greek: λιγὺς Πυλίων ἀγορητής
 kind: epithet
 tags: [heroic-epithet, speech, assembly]
-summary: [[Nestor]] as the speaker of the [[Pylians]] (1.248): his voice is clear and carrying.
+summary: λιγὺς ἀγορητής, “clear-voiced orator”: praise of [[Nestor]] as the speaker of the [[Pylians]], which Odysseus grants also to [[Thersites]].
 aliases: [clear-voiced speaker, ligys agoretes]
 grc: [λιγὺς Πυλίων ἀγορητής]
 en: [clear-voiced orator of the Pylians]
-of: [nestor]
+of: [nestor, thersites]
 ---
 
 ## Meaning

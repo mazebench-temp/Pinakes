@@ -3,7 +3,7 @@ title: Immortals
 greek: ἀθάνατοι
 kind: epithet
 tags: [divine-epithet, fate]
-summary: “The deathless ones,” the gods as opposed to mortal men. Book 1 uses the word six times, most of them in the scenes among the gods.
+summary: “The deathless ones,” the gods as opposed to mortal men.
 aliases: [deathless ones, athanatoi]
 grc: [ἀθανάτ*]
 en: [immortals, immortal]

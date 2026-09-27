@@ -3,7 +3,7 @@ title: Swift-sailing ships
 greek: ὠκύπορος
 kind: epithet
 tags: [ship]
-summary: “Swift-going,” an epithet of [[ships]] in Thetis' instruction to Achilles and in the lines that show him carrying it out (1.421, 1.488).
+summary: “Swift-going,” an epithet of [[ships]].
 aliases: [okyporos]
 grc: [ὠκυπόροισι]
 en: [swift-sailing]

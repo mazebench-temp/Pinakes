@@ -3,11 +3,11 @@ title: Of the lovely hair
 greek: ἠΰκομος
 kind: epithet
 tags: [divine-epithet]
-summary: The epithet of [[Leto]], mother of Apollo, in the line that introduces Chryses' prayer (1.36).
+summary: “With beautiful hair,” an epithet of goddesses and women.
 aliases: [lovely-haired, fair-tressed, eukomos]
 grc: [ἠΰκομος]
 en: [of the lovely hair]
-of: [leto]
+of: [leto, briseis]
 ---
 
 ## Meaning

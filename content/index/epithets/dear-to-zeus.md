@@ -3,11 +3,11 @@ title: Dear to Zeus
 greek: Διὶ φίλος
 kind: epithet
 tags: [heroic-epithet, divine-epithet]
-summary: “Beloved of Zeus,” given in Book 1 first to [[Achilles]] by Calchas and then, by Achilles, to the god [[Apollo]].
+summary: “Beloved of Zeus,” said of heroes and of gods.
 aliases: [beloved of Zeus, Dii philos]
 grc: [Διῒ φίλε, Διῒ φίλον]
 en: [dear to Zeus]
-of: [achilles, apollo]
+of: [achilles, apollo, phyleus]
 ---
 
 ## Meaning

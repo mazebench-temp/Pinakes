@@ -15,6 +15,10 @@ export async function render(route, { setQuery }) {
   let pos = route.query.pos ?? 'all';
   let q = route.query.q ?? '';
   let order = route.query.order ?? 'freq';
+  // Words the work has not used in an earlier book (every word is new in the first book).
+  const hasEarlier = (work.available ?? []).some(b => b < book);
+  let fresh = hasEarlier && route.query.new === '1';
+  const newCount = text.lemmas.filter(l => l[4]).length;
 
   // Part of speech per lemma, from its most common analysis.
   const posOf = new Map();
@@ -35,7 +39,7 @@ export async function render(route, { setQuery }) {
     </header>
     <div class="index-tools">
       <label class="search-field" for="vocab-q">${icon('search')}<input id="vocab-q" type="search" placeholder="Filter by Greek or English" value="${esc(q)}" autocomplete="off"></label>
-      <div class="chips" role="group" aria-label="Part of speech">${POS_GROUPS.map(([v, l]) => `<button class="chip" type="button" data-pos="${v}" aria-pressed="${pos === v}">${l}</button>`).join('')}</div>
+      <div class="chips" role="group" aria-label="Part of speech">${POS_GROUPS.map(([v, l]) => `<button class="chip" type="button" data-pos="${v}" aria-pressed="${pos === v}">${l}</button>`).join('')}${hasEarlier ? `<button class="chip" type="button" data-new aria-pressed="${fresh}">New in Book ${book} <span class="n">${newCount}</span></button>` : ''}</div>
       <div data-seg></div>
     </div>
     <div class="list vocab"></div>
@@ -43,7 +47,7 @@ export async function render(route, { setQuery }) {
   const list = view.querySelector('.vocab');
 
   const draw = () => {
-    let items = text.lemmas.filter(l => pos === 'all' || group(l[0]) === pos);
+    let items = text.lemmas.filter(l => (pos === 'all' || group(l[0]) === pos) && (!fresh || l[4]));
     if (q) items = items.filter(l => hasGreek(q) ? normalize(l[0]).includes(normalize(q)) : l[1].toLowerCase().includes(q.toLowerCase()));
     if (order === 'alpha') items = [...items].sort((a, b) => normalize(a[0]).localeCompare(normalize(b[0]), 'el'));
     list.innerHTML = items.slice(0, 600).map(l => `<a class="row" href="#/search?lemma=${encodeURIComponent(l[0])}">
@@ -56,6 +60,11 @@ export async function render(route, { setQuery }) {
     pos = b.dataset.pos;
     view.querySelectorAll('[data-pos]').forEach(c => c.setAttribute('aria-pressed', String(c === b)));
     setQuery({ pos: pos === 'all' ? '' : pos }); draw();
+  });
+  on(view, 'click', '[data-new]', (e, b) => {
+    fresh = !fresh;
+    b.setAttribute('aria-pressed', String(fresh));
+    setQuery({ new: fresh ? '1' : '' }); draw();
   });
   view.querySelector('#vocab-q').addEventListener('input', debounce(e => { q = e.target.value.trim(); setQuery({ q }); draw(); }, 100));
   draw();

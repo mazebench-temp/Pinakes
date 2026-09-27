@@ -17,17 +17,7 @@ Marcel Detienne and Jean-Pierre Vernant made μῆτις the subject of a classi
 
 The word stands in several compounds. Elsewhere in the poem Cronus is ἀγκυλομήτης, “of crooked counsel” (for instance 2.205). Book 1 has three.
 
-## In Book 1
-
-μητίετα, “the counselor”, is an old epithet of Zeus with a nominative in short -ᾰ. Agamemnon names him as the chief of those who will honor him (1.175), and Thetis prays to him by this title when she asks him to honor her son (1.508).
-
-{{quote:3ebdb603-4e5c-5f2a-895f-2886168129bc}}
-
-δολομήτης, “crafty-minded” (δόλος, “trick”, and μῆτις), is Hera's accusation, in the vocative. The epithet of praise becomes an insult. Zeus' μῆτις is admirable when it plans for gods and men and suspect when it plans without his wife.
-
-{{quote:6cd2f807-2ed6-51ff-b084-e70ccea4cdec}}
-
-πολύμητις, “of many wiles”, is the standing epithet of Odysseus (1.311, 1.440). He is chosen to lead the embassy to Chryse, the book's one task that needs tact rather than force.
+{{notes}}
 
 ## Related words
 

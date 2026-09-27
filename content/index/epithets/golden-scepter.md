@@ -3,7 +3,7 @@ title: Golden scepter
 greek: χρύσεον σκῆπτρον
 kind: epithet
 tags: [sacred-object, priest]
-summary: The golden staff on which [[Chryses]] carries Apollo's fillets when he comes to ransom his daughter (1.15, 1.374).
+summary: The golden staff of priests and kings.
 aliases: [chryseon skeptron]
 grc: [χρυσέῳ ἀνὰ σκήπτρῳ]
 en: [golden scepter]

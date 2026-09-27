@@ -3,7 +3,7 @@ title: Man of counsel
 greek: βουληφόρος
 kind: epithet
 tags: [heroic-epithet, kingship, assembly]
-summary: “Counsel-bearing”: the qualification Agamemnon sets for the commander of the ship to Chryse (1.144).
+summary: “Counsel-bearing”: an epithet of the leaders who sit in council with the king.
 aliases: [counsel-bearing, boulephoros]
 grc: [βουληφόρος]
 en: [man of counsel]

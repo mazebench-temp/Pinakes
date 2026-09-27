@@ -15,10 +15,4 @@ en: [appeared, twelfth dawn after that had come]
 
 Another dawn formula counts days: ἀλλ’ ὅτε δή ῥ’ ἐκ τοῖο δυωδεκάτη γένετ’ ἠώς, “but when the twelfth dawn after that had come” ({{ref:Iliad 1.493}}). The same verse opens a second twelve-day wait at the start of Book 24 (Il. 24.31).
 
-## In Book 1
-
-{{quote:7b1bb166-c3fc-5e06-adb2-cdefa98fc70a}}
-
-The formula divides the night at Chryse from the voyage home, and it pairs with the sunset line two verses before ([[sunset-lines]]). The book keeps careful count of its days: nine days of plague ({{ref:Iliad 1.53}}), the tenth for the assembly ({{ref:Iliad 1.54}}), and twelve days until the gods return from the Ethiopians ({{ref:Iliad 1.425}}). The twelfth-dawn line closes that count, and Thetis goes up to Olympus at once:
-
-{{quote:d20a7ce6-3706-57fc-9946-854a8d81a5d7}}
+{{notes}}

@@ -1,0 +1,25 @@
+---
+title: Tomb
+greek: τύμβος
+kind: object
+tags: [fate]
+summary: The grave mound heaped over the dead, called τύμβος or σῆμα, "marker". In the Iliad old tombs stand in the landscape as landmarks, and a mound is part of the honor due to the dead.
+aliases: [grave mound, barrow, tumulus, sema, tymbos]
+grc: [τύμβον, τύμβῳ, σῆμα]
+en: [tomb]
+except: [2.308]
+---
+
+τύμβος is the mound of earth heaped over a grave. σῆμα, "sign, marker", names the same mound as a memorial, the thing that shows where a man lies; elsewhere the word means a sign from the gods ([[teras]]). Book 2 has three tombs, and all three are old landmarks rather than new graves: the tomb of Aepytus in Arcadia, which marks a whole district (2.604; [[tomb-of-aepytus]]); the tomb of old [[Aesyetes]], from which [[Polites]] watches the Achaean ships (2.793); and the mound before Troy that men call [[Batieia]] and the gods call the tomb of [[Myrine]] (2.814).
+
+{{quote:a84a77ea-69ec-5a2d-a46d-865ef648689c}}
+
+{{notes}}
+
+## Elsewhere in Homer
+
+The tomb of Ilus, the old king, stands in the middle of the Trojan plain as a meeting place and a landmark (10.415, 11.166). A mound and a grave stone are "the prize of the dead" (16.457, 16.675). Hector imagines the tomb of the man he will kill in single combat, heaped up by the broad Hellespont, which sailors will point out in years to come as the tomb of a man long dead whom glorious Hector killed (7.84–91). The Achaeans heap one mound over all their dead and build their wall beside it (7.336–337, 7.435–436). The ghost of Patroclus asks that his bones and Achilles' lie together (23.83–92), and Achilles has a modest mound raised for now, for the Achaeans to make broad and high after his own death (23.243–248). In the Odyssey their tomb stands on a headland by the Hellespont, to be seen far out at sea (Odyssey 24.80–84). The Iliad ends with a burial: Hector's bones laid in a golden chest in a grave, and a mound heaped over it (24.795–801).
+
+## Outside Homer
+
+The grave mounds of the Troad were shown to ancient visitors as the tombs of the heroes. Alexander the Great crowned the tomb of Achilles when he crossed into Asia (Arrian, *Anabasis* 1.12.1).

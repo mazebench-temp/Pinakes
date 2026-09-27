@@ -3,7 +3,7 @@ title: Son of Cronus
 greek: Κρονίδης, Κρονίων
 kind: epithet
 tags: [divine-epithet, patronymic, cronids]
-summary: The patronymics of [[Zeus]], from his father [[Cronus]]. Book 1 uses them seven times, all in Achilles' story of Zeus in bonds and in the scenes on Olympus.
+summary: The patronymics of [[Zeus]], from his father [[Cronus]].
 grc: [Κρονίδην, Κρονίδη, Κρονίωνι, Κρονίωνα, Κρονίων]
 en: [son of Cronus]
 of: [zeus, cronus]

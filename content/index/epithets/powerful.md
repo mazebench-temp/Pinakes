@@ -3,12 +3,12 @@ title: Powerful
 greek: κρείων
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: “Ruling, lord”: an old title of [[Agamemnon]], used twice in Book 1 in the formula κρείων Ἀγαμέμνων, both times as he rejects advice.
+summary: “Ruling, lord”: an old title of [[Agamemnon]], above all in the formula κρείων Ἀγαμέμνων, and of other rulers.
 aliases: [ruling, lord, kreion]
 grc: [κρείων]
 except: [1.102, 1.355, 1.411]
 en: [powerful]
-of: [agamemnon]
+of: [agamemnon, agapenor]
 ---
 
 ## Meaning

@@ -3,7 +3,7 @@ title: Swift-footed (podarkes)
 greek: ποδάρκης
 kind: epithet
 tags: [heroic-epithet]
-summary: A second epithet for the speed of [[Achilles]], “strong in the feet,” used once in Book 1 in the longer formula ποδάρκης δῖος Ἀχιλλεύς.
+summary: A second epithet for the speed of [[Achilles]], “strong in the feet,” in the formula ποδάρκης δῖος Ἀχιλλεύς.
 aliases: [strong-footed, sure of foot]
 grc: [ποδάρκης]
 en: [swift-footed]

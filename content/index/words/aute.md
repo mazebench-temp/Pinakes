@@ -3,7 +3,7 @@ title: War cry
 greek: ἀϋτή
 kind: term
 tags: [warfare]
-summary: A shout, especially the war cry, and so the fighting itself. Withdrawn from war, [[Achilles]] “longed for the war cry and for battle”.
+summary: A shout, especially the war cry, and so the fighting itself.
 aliases: [autē, aute, battle cry, shout]
 grc: [=ἀϋτήν]
 en: [war cry]
@@ -15,11 +15,7 @@ en: [war cry]
 
 The form ἀϋτήν has the same letters as αὐτήν, “her”, and differs only in its diaeresis and accent.
 
-## In Book 1
-
-{{quote:5f1b8f49-0d73-5cbf-8f98-fad669ce25d9}}
-
-The last line of the passage on Achilles' withdrawal names what he refuses and still wants: he longed for ἀϋτή and for war. The noise of battle is what he misses.
+{{notes}}
 
 ## Related words
 

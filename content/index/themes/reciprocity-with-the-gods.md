@@ -2,7 +2,7 @@
 title: Reciprocity with the gods
 kind: theme
 tags: [prayer, sacrifice, exchange]
-summary: Prayers in Book 1 remind a god of past favors and ask for a return. [[Chryses]] says “if ever I roofed a temple to your pleasure”, [[Thetis]] “if ever I helped you by word or deed”; the gods answer, and the exchange runs both ways.
+summary: Prayer and sacrifice in Homer rest on exchange: the worshiper recalls past gifts and asks for a return. The poem shows the exchange working, and failing, for a god may accept the gift and refuse the prayer.
 refs: [1.39, 1.40, 1.41, 1.65, 1.218, 1.390, 1.394, 1.395, 1.453, 1.454, 1.455, 1.474, 1.503, 1.504]
 passages:
   - 1.35-43 | Chryses' first prayer

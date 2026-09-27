@@ -30,6 +30,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἄποινα | ransom | |
 | ἄτη | blind folly | |
 | λοιγός | ruin | νοῦσος "sickness", λοιμός "plague" |
+| ἄλγος, ἄλγεα | sorrow, sorrows | "pains" where the suffering is bodily (2.721) |
 | ἑκατόμβη | hecatomb | |
 | ὕβρις | arrogance / outrage | |
 | θυμός, κῆρ, φρένες | heart, spirit, mind | chosen by context |
@@ -80,6 +81,32 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἅλς ἀτρύγετος | the barren sea |
 | ῥοδοδάκτυλος Ἠώς, ἠριγένεια | rosy-fingered, early-born Dawn |
 | δαὶς ἐΐση | an equal share of the feast |
+| Διὸς αἰγιόχοιο, αἰγίοχος | aegis-bearing Zeus |
+| ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν | With good intent he addressed them and spoke |
+| βουληφόρος ἀνήρ | a man of counsel |
+| στρατὸς εὐρύς | the wide army |
+| κάρη κομόωντες Ἀχαιοί | the long-haired Achaeans |
+| εὐρυάγυια | wide-streeted |
+| Διὶ μῆτιν ἀτάλαντος | the equal of Zeus in counsel |
+| πτολίπορθος | sacker of cities |
+| Γερήνιος ἱππότα Νέστωρ | the Gerenian horseman Nestor |
+| βοὴν ἀγαθός | good at the war cry |
+| ὄζος Ἄρηος | offshoot of Ares |
+| δουρὶ κλυτός | famed for his spear |
+| ἐϋκτίμενον πτολίεθρον | the well-built citadel |
+| ἐρατεινός | lovely |
+| πετρήεις | rocky |
+| μέλαιναι νῆες ἕποντο | (and with him) followed (forty) black ships |
+| γλαφυραὶ νέες ἐστιχόωντο | (thirty) hollow ships were ranged in line |
+| διοτρεφέες βασιλῆες | the kings whom Zeus has nurtured |
+| δαιμόνιε, δαιμονίη | Strange one |
+| ὦ πόποι | Ah |
+| θεῖος | divine |
+| δαΐφρων | wise-hearted |
+
+The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
+leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
+Cyparisseis); where two places share a name, the index keeps them apart.
 
 ## Places where the Greek is disputed
 
@@ -90,3 +117,17 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 - **1.393** — παιδὸς ἑῆος: “your own son”; Aristarchus took ἑῆος as “good, brave”.
 - **1.498** — εὐρύοπα: "far-seeing" or "wide-voiced". Rendered "far-seeing".
 - **1.607** — ἀμφιγυήεις: "lame in both legs" or "strong in both arms". Rendered "lame in both legs".
+- **2.43** — νηγάτεος: "new-made" or "glossy"; the word occurs only here and at 14.185. Rendered "new-made".
+- **2.103** — ἀργεϊφόντης: traditionally "slayer of Argus"; the meaning is disputed. διάκτορος
+  "guide" or "messenger".
+- **2.217** — φολκός: "bandy-legged" or "squint-eyed"; the word occurs only here. Rendered "bandy-legged".
+- **2.291** — ἦ μὴν καὶ πόνος ἐστὶν ἀνιηθέντα νέεσθαι: much discussed; taken as "the toil is enough to
+  make a man go home in weariness".
+- **2.318** — ἀρίζηλον "clear to see"; an ancient variant ἀΐζηλον meant "unseen". Rendered with ἀρίζηλον.
+- **2.356, 2.590** — Ἑλένης ὁρμήματά τε στοναχάς τε: Helen's own struggles and groans, or those suffered
+  for her sake. Rendered "the struggles and groans for Helen's sake".
+- **2.550** — μιν: Erechtheus (as rendered) or Athena.
+- **2.581** — κητώεσσαν, of Lacedaemon: perhaps "full of ravines"; the sense is uncertain.
+- **2.599** — πηρόν: "maimed", later "blind"; what the Muses did to Thamyris is not said. Rendered "maimed".
+- **2.763** — Φηρητιάδαο: Eumelus, grandson of Pheres.
+- **2.872** — ὃς … ἠΰτε κούρη: Nastes or Amphimachus; the Greek does not say which. Rendered "he".

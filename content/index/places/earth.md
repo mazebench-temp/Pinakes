@@ -3,18 +3,12 @@ title: Earth
 greek: γαῖα, χθών
 kind: place
 tags: [cosmic]
-summary: The earth and the ground: the land men look on while they live, and the ground where Achilles flings the scepter.
+summary: The earth and the ground (γαῖα, χθών): the land a people lives on, the ground that takes the dead, and the whole earth beneath the sky. Men are those “upon the earth”, and Earth is also called on in oaths.
 aliases: [ground, land]
 grc: [γαίῃ, γαῖαν, γαίης, χθονὶ]
 en: [earth, ground, land]
 ---
 
-{{quote:0f20d0f6-2b31-5908-87e1-af033b3e3b69}}
+γαῖα (also αἶα) and χθών are the earth: the ground under men's feet, the land a people lives in, and the whole earth set against the sea and the sky. To be alive is to look upon the earth: “while I live and look upon the earth” (1.88). Mortals are ἐπιχθόνιοι, “those upon the earth”. The earth receives the dead, and the Iliad says that it “holds” them (3.243). Earth is also a power to be called on. Oath victims are brought for Earth and the Sun (3.104), and Agamemnon calls on Zeus, the Sun, the rivers and the earth to witness the truce (3.276–280).
 
-ἐπὶ χθονὶ δερκομένοιο: "while I look upon the earth", that is, while I am alive
-
-{{quote:ec426392-a9fc-53bb-97e5-7752debc5002}}
-
-The scepter is flung "to the ground" (γαίῃ).
-
-The adjective ἐπιχθόνιος, "on the earth, earthly", marks mortals in Nestor's speech: "the mightiest of men ever raised on earth" (1.266, 1.272).
+{{notes}}

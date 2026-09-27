@@ -3,7 +3,7 @@ title: Father Zeus
 greek: Ζεῦ πάτερ
 kind: epithet
 tags: [divine-epithet, prayer]
-summary: The address with which Thetis begins her supplication (1.503): the ancient invocation of the sky god as father.
+summary: The address to Zeus as father, the ancient invocation of the sky god.
 aliases: [Zeu pater, Father Sky]
 grc: [Ζεῦ πάτερ]
 en: [Father]

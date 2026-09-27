@@ -9,10 +9,13 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 - `npm run check`: validate without writing. `npm test`: unit and content-integrity tests.
 - `npm run quotes`: register `{{quote:Iliad 1.1-7 | Title}}` tags and rewrite them as `{{quote:<uuid>}}`.
 - `npm run export`: static copy in `dist/` (entries bundled into one file).
+- `node scripts/lexicon.mjs skeleton|check|merge|lemmas`: build and validate a book's lexicon in parts.
 
 ## Conventions
 
-- **Index entries**: `content/index/<folder>/<id>.md`. Format and style: `docs/index-guide.md`.
+- **Index entries**: `content/index/<folder>/<id>.md` holds the general article. What an entry does in
+  one book goes in a scoped note, `content/library/<author>/<work>/notes/<NN>/<id>.md` (work- and
+  author-level notes sit one or two folders up). Format and style: `docs/index-guide.md`.
   Tags must exist in `content/tags.json`; kinds in `content/kinds.json`; story periods in
   `content/periods.json`. Keep Homer's own evidence separate from later sources ("Outside Homer"),
   cite precisely, and never invent a citation.

@@ -3,11 +3,11 @@ title: Swift-footed
 greek: πόδας ὠκύς
 kind: epithet
 tags: [heroic-epithet]
-summary: The standing description of [[Achilles]], “swift as to his feet.” It is his most frequent epithet in Book 1, where it marks him six times, always as he speaks or as he sits apart.
+summary: The standing description of [[Achilles]], “swift as to his feet,” also given to Iris; ποδώκης and ὠκύπους are its related compounds.
 aliases: [swift of foot, fleet-footed]
 grc: [πόδας ὠκὺς]
 en: [swift-footed]
-of: [achilles]
+of: [achilles, iris, horses]
 featured: true
 ---
 

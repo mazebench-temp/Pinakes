@@ -619,6 +619,26 @@ a.ref { font-weight: 500; white-space: nowrap; }
 .entry-stats b { color: var(--text); font-weight: 600; font-variant-numeric: tabular-nums; }
 .toc { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin-top: 4px; }
 .toc::-webkit-scrollbar { display: none; }
+
+/* Scope: the part of the library an entry is read at (All · Iliad 1 · Iliad 2 …) */
+.scope-bar { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; background: var(--fill); border-radius: 10px; padding: 2px; align-self: flex-start; max-width: 100%; }
+.scope-bar::-webkit-scrollbar { display: none; }
+.scope-chip { flex: none; display: inline-flex; align-items: baseline; gap: 6px; min-height: 32px; border: 0; border-radius: 8px; background: none; padding: 6px 12px; font-size: 14px; font-weight: 500; color: var(--text); white-space: nowrap; }
+.scope-chip .n { font-size: 12.5px; color: var(--text-3); font-variant-numeric: tabular-nums; }
+.scope-chip[aria-selected="true"] { background: var(--bg-elevated); font-weight: 600; box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12), 0 0 0 0.5px rgba(0, 0, 0, 0.04); }
+:root[data-theme="dark"] .scope-chip[aria-selected="true"] { background: #5B5766; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .scope-chip[aria-selected="true"] { background: #5B5766; } }
+.scope-lead { margin: 0; font-size: 16.5px; line-height: 1.5; max-width: 62ch; }
+.scope-tag { margin-right: 8px; font-family: var(--ui); font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); }
+.scope-eyebrow { margin: 4px 0 8px; font-family: var(--ui); font-size: 13px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent); }
+.general-part { margin-top: 24px; border-radius: var(--radius-lg); background: var(--surface); box-shadow: var(--shadow); }
+.general-part > summary { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; padding: 14px 16px; list-style: none; cursor: pointer; }
+.general-part > summary::-webkit-details-marker { display: none; }
+.general-part .gp-title { font-size: 17px; font-weight: 600; }
+.general-part .gp-sub { grid-column: 1; font-size: 13.5px; color: var(--text-2); }
+.general-part .chev { grid-row: 1 / span 2; grid-column: 2; align-self: center; color: var(--text-3); transition: transform 0.2s var(--ease); }
+.general-part[open] .chev { transform: rotate(90deg); }
+.general-part > .article { padding: 0 16px 16px; }
 .occ { display: flex; flex-direction: column; gap: 3px; padding: 11px 14px; color: var(--text); position: relative; }
 .occ + .occ::before { content: ""; position: absolute; top: 0; left: 14px; right: 0; height: 0.5px; background: var(--separator); }
 .occ:active { background: var(--fill); }
@@ -629,6 +649,19 @@ a.ref { font-weight: 500; white-space: nowrap; }
 .more-btn { width: 100%; border: 0; background: none; color: var(--accent); font-size: 15px; padding: 12px; font-weight: 500; }
 .rel-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0; }
 .speech-row .row-title { font-size: 16px; }
+
+/* Previous and next book, at the end of the reader */
+.word-books { margin-top: 4px; font-size: 13px; color: var(--text-3); font-variant-numeric: tabular-nums; }
+.word-books b { color: var(--text-2); font-weight: 600; }
+.word-books .here b { color: var(--accent); }
+.new-word { display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-family: var(--ui); font-size: 11.5px; font-weight: 700; letter-spacing: 0.02em; vertical-align: 2px; }
+
+.book-nav-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 32px 0 8px; }
+.book-nav { display: flex; flex-direction: column; gap: 2px; padding: 14px 16px; border-radius: var(--radius-lg); background: var(--surface); box-shadow: var(--shadow); color: var(--text); }
+.book-nav.next { grid-column: 2; text-align: right; }
+.book-nav .bn-label { font-size: 12.5px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-3); }
+.book-nav .bn-title { font-size: 17px; font-weight: 600; }
+.book-nav:active { opacity: 0.7; }
 
 /* ── Myths ────────────────────────────────────────────────────────────── */
 .timeline { position: relative; margin-top: 8px; }

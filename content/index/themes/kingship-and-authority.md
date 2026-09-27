@@ -2,7 +2,7 @@
 title: Kingship and authority
 kind: theme
 tags: [kingship, assembly]
-summary: What makes a king, and what he may demand. Book 1 sets [[Agamemnon]]'s rank, backed by the scepter and by Zeus, against [[Achilles]]' strength and the army's judgment, and ends with [[Zeus]] enforcing his authority on Olympus.
+summary: What makes a king, where his authority comes from, and what he may demand. In the Iliad a king holds his scepter from Zeus and rules over more men than others, but his power depends on counsel and on the obedience of those he leads.
 refs: [1.15, 1.22, 1.28, 1.79, 1.80, 1.176, 1.186, 1.231, 1.234, 1.245, 1.279, 1.281, 1.288, 1.289, 1.296, 1.340, 1.533, 1.581]
 passages:
   - 1.12-32 | Two scepters: priest and king
@@ -12,38 +12,18 @@ passages:
   - 1.531-583 | Zeus among the gods
 ---
 
-Book 1 asks what authority a king has, where it comes from, and what happens when someone refuses it. Agamemnon is the “king” without further name at 1.9, and he is also only one of many kings. The quarrel turns on the difference.
+Kingship in the Iliad is plural. The Achaean army is led by many kings ([[basileus|βασιλῆες]]), each a lord ([[anax|ἄναξ]]) at the head of his own people, and Agamemnon is one king among them, though the most kingly: βασιλεύτερος, as he says himself and as Achilles repeats with scorn (9.160, 9.392). His preeminence rests on things the poem names again and again. He holds a scepter, the sign of an authority that comes from Zeus. He rules over more men than anyone else. And he has the glory that Zeus gives to kings (see [[kydos|κῦδος]]).
 
-## The scepter
+That authority is real, but it is not self-sufficient. It works through the council of elders and the [[assembly]], it is exercised by giving orders ([[semaino|σημαίνω]]) that others must choose to obey, and it carries duties. In Book 9 Nestor tells Agamemnon that Zeus has put the scepter and the ordinances (θέμιστες) into his hands so that he may take counsel for his people, and that for this reason he must listen as well as speak (9.96–102). Sarpedon gives the warrior's side: kings are honored because they fight in the front rank (12.310–321; see [[honor-and-dishonor]]). The poem watches what happens when a king forgets these duties, and what becomes of his power when others withdraw their consent.
 
-The book begins with two scepters. Chryses comes holding Apollo's fillets on a golden scepter (1.14–15), the sign of a god's protection. Agamemnon threatens that “the scepter and the fillet of the god may not protect you” (1.28). The first act of royal authority in the poem is contempt for a god's emblem.
+Among the gods the question has a simpler answer. Zeus rules because he is the strongest, and he says so: let the other gods hang a golden chain from heaven and all pull on it, and they will not drag him down, while he could pull them up with earth and sea together (8.18–27).
 
-{{quote:422c8743-f485-5542-a68a-56a24331cbca}}
-
-The second scepter is the one Achilles holds in the assembly. He swears by it: a staff cut in the mountains and stripped of leaves and bark, which will never grow green again, carried by the judges who guard the ordinances (θέμιστες) that come from Zeus. Then he throws it down (1.245–246). In Book 2 Agamemnon's own scepter is given a pedigree. Hephaestus made it for Zeus, and it passed through Hermes, Pelops, Atreus and Thyestes to Agamemnon (2.100–108). Achilles swears by the scepter of justice; Agamemnon's is the scepter of inheritance. See [[scepter]] and [[themis|θέμις]].
-
-## Rank and strength
-
-{{quote:92002bbc-47c8-5258-9888-a029e6b7e5e1}}
-
-Calchas states the principle of rank. A king is stronger than a lesser man who angers him, and he does not forget. Agamemnon states it more bluntly. He takes Briseis so that Achilles may know “how much greater I am than you”, and another man may shrink from speaking to him as an equal (1.185–187).
-
-Achilles' answer is not a rival claim to rule. It is a charge about what the king does with his power. He is a δημοβόρος βασιλεύς, a “people-devouring king”, who rules over nobodies (1.231). His authority depends on the consent of those beneath him, and Achilles withdraws his.
-
-{{quote:56007caf-8888-557e-8716-089111f36532}}
-
-Nestor sides with rank: the scepter-bearing king has glory from Zeus and a greater share of honor, and he rules over more. Agamemnon complains that Achilles wants to rule, be lord over and give orders to all (1.287–289). Achilles answers that he will not obey (1.293–296). The words of command, [[anax|ἀνάσσω]] and [[semaino|σημαίνω]], meet the word of refusal.
-
-## The army
-
-The army has a voice of its own. The Achaeans shout their assent to Chryses' plea (1.22–23), and Agamemnon overrides them. The prizes are given by “the sons of the Achaeans” (1.162, 1.276, 1.392), not by the king. It is Achilles, not Agamemnon, who calls the assembly (1.54). Aristotle took Agamemnon as the model of the heroic king, who put up with abuse in the assemblies but had power of life and death in the field (*Politics* 3.14, 1285a3–14).
-
-## On Olympus
-
-{{quote:4cae9692-87fa-5e6a-92ef-9b83a39a3548}}
-
-The book ends with a king whose authority no one contests. The gods rise when Zeus enters. He tells Hera that some of his counsels are not hers to know (1.545–550), and when she persists he threatens force (1.565–567). Hephaestus gives the reason for yielding: Zeus is “by far the strongest” (φέρτατος, 1.581). Agamemnon claimed to be φέρτερος, “greater”; only Zeus can be sure of it.
+{{notes}}
 
 ## Related entries
 
 [[basileus|βασιλεύς]] (“king”), [[anax|ἄναξ]] (“lord”), [[themis|θέμις]] (“ordinances”), [[semaino|σημαίνω]] (“give orders”), [[laos|λαός]] (“people”), [[kydos|κῦδος]] (“glory”); [[scepter]], [[assembly]], [[best-of-the-achaeans]], [[obedience-and-persuasion]].
+
+## Outside Homer
+
+Aristotle took Agamemnon as the model of the heroic king, who put up with abuse in the assemblies but had power of life and death in the field (*Politics* 3.14, 1285a3–14; see [[aristotle-death-in-my-hand]]).

@@ -73,7 +73,7 @@
 70	who knew the things that are, the things to come, and the things that were before,
 71	and who had guided the ships of the Achaeans to Ilios
 72	by his gift of prophecy, which Phoebus Apollo had granted him.
-73	With good intent he addressed the assembly and spoke:
+73	With good intent he addressed them and spoke:
 74	“Achilles, dear to Zeus, you bid me explain
 75	the wrath of Apollo, the lord who shoots from afar.
 76	Well then, I will speak; but you take heed, and swear to me
@@ -253,7 +253,7 @@
 250	In his lifetime two generations of mortal men
 251	had already passed away, who had been born and raised with him long before
 252	in sacred Pylos, and now he was king among the third.
-253	With good intent he addressed the assembly and spoke:
+253	With good intent he addressed them and spoke:
 254	“Ah, what great sorrow is coming upon the land of Achaea!
 255	Surely Priam would rejoice, and the sons of Priam,
 256	and the other Trojans would be very glad at heart,

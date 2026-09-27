@@ -8,9 +8,7 @@ grc: [Ἠετίων*]
 en: [Eetion]
 ---
 
-## In Book 1
-
-{{quote:aa442036-5e51-54e0-8580-f2c655049ad7}}
+{{notes}}
 
 ## Outside Homer
 

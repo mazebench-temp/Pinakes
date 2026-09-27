@@ -1,0 +1,42 @@
+{
+  "scenes": [
+    { "from": 1, "to": 47, "title": "The Dream", "summary": "Zeus lies awake planning how to honor Achilles and sends a baneful Dream, in the likeness of Nestor, to tell Agamemnon that he can take Troy that day. Agamemnon wakes, dresses, and takes up the scepter of his fathers." },
+    { "from": 48, "to": 83, "title": "The Council of Elders", "summary": "At dawn the heralds summon the army. First Agamemnon calls the elders to Nestor's ship, tells them the dream, and says he will test the army by telling it to go home; they are to hold the men back." },
+    { "from": 84, "to": 154, "title": "The Test of the Army", "summary": "The army pours to the assembly like bees. Agamemnon, leaning on the scepter that came down from Zeus, says that the war is hopeless and they must sail home. The men stream to the ships, eager to launch them." },
+    { "from": 155, "to": 210, "title": "Odysseus Turns Them Back", "summary": "Hera sends Athena, who finds Odysseus standing grieved by his ship. He takes Agamemnon's scepter and goes through the camp, persuading the kings and beating the commoners back to the assembly." },
+    { "from": 211, "to": 277, "title": "Thersites", "summary": "Thersites, the ugliest man at Troy, rails at Agamemnon in Achilles' own words. Odysseus threatens him and strikes him with the scepter, and the army, troubled as it is, laughs." },
+    { "from": 278, "to": 335, "title": "Odysseus Recalls Aulis", "summary": "Odysseus shames the army into staying and reminds it of the sign at Aulis: a serpent ate eight sparrow chicks and their mother and was turned to stone, and Calchas foretold nine years of war and Troy taken in the tenth." },
+    { "from": 336, "to": 393, "title": "Nestor and Agamemnon", "summary": "Nestor calls for battle, cursing those who would go home, and advises Agamemnon to marshal the men by tribes and clans. Agamemnon praises him, admits he began the quarrel with Achilles, and sends the men to their meal before battle." },
+    { "from": 394, "to": 440, "title": "Sacrifice and Prayer", "summary": "The men eat and sacrifice. Agamemnon offers an ox to Zeus with the chief kings and prays to burn Priam's hall before sunset; Zeus accepts the offering but not the prayer. Nestor urges him to muster the army." },
+    { "from": 441, "to": 483, "title": "The Army Marshaled", "summary": "Athena passes through the ranks with the aegis. The gleam of bronze, the noise and the numbers of the host are told in a run of similes: fire, birds, leaves and flowers, flies, goatherds, and a bull above the herd." },
+    { "from": 484, "to": 493, "title": "Invocation of the Muses", "summary": "The poet calls on the Muses, who were present and know everything, to name the leaders of the Danaans; the multitude he could not name even with ten tongues." },
+    { "from": 494, "to": 759, "title": "The Catalogue of Ships", "summary": "The Achaean contingents, region by region, from the Boeotians to the Magnetes: their leaders, their towns, and the number of their ships, with brief stories of Thamyris, Tlepolemus, Protesilaus and Philoctetes." },
+    { "from": 760, "to": 785, "title": "The Best of the Achaeans", "summary": "The best horses were Eumelus' mares, the best man Telamonian Ajax, while Achilles kept up his wrath and his men amused themselves by the sea. The army advances, and the earth groans beneath it as over Typhoeus." },
+    { "from": 786, "to": 815, "title": "Iris Warns the Trojans", "summary": "Iris, in the likeness of Priam's son Polites, tells the Trojan assembly that a vast army is coming. Hector breaks up the assembly and the Trojans pour out and form up at the mound called Batieia, the tomb of Myrine." },
+    { "from": 816, "to": 877, "title": "The Trojan Catalogue", "summary": "The Trojans and their allies: Hector's Trojans, Aeneas' Dardanians, and contingents from the Troad, Thrace, Paeonia, Paphlagonia, Mysia, Phrygia, Maeonia, Caria and Lycia." }
+  ],
+  "speeches": [
+    { "from": 8, "to": 15, "speaker": "zeus", "to_whom": ["dream"], "kind": "command" },
+    { "from": 23, "to": 34, "speaker": "dream", "to_whom": ["agamemnon"], "kind": "message" },
+    { "from": 56, "to": 75, "speaker": "agamemnon", "to_whom": ["elders"], "kind": "counsel" },
+    { "from": 79, "to": 83, "speaker": "nestor", "to_whom": ["elders"], "kind": "counsel" },
+    { "from": 110, "to": 141, "speaker": "agamemnon", "to_whom": ["achaeans"], "kind": "test" },
+    { "from": 157, "to": 165, "speaker": "hera", "to_whom": ["athena"], "kind": "command" },
+    { "from": 173, "to": 181, "speaker": "athena", "to_whom": ["odysseus"], "kind": "command" },
+    { "from": 190, "to": 197, "speaker": "odysseus", "to_whom": ["kings"], "kind": "counsel" },
+    { "from": 200, "to": 206, "speaker": "odysseus", "to_whom": ["commoners"], "kind": "rebuke" },
+    { "from": 225, "to": 242, "speaker": "thersites", "to_whom": ["agamemnon", "achaeans"], "kind": "abuse" },
+    { "from": 246, "to": 264, "speaker": "odysseus", "to_whom": ["thersites"], "kind": "threat" },
+    { "from": 272, "to": 277, "speaker": "achaeans", "to_whom": ["achaeans"], "kind": "comment" },
+    { "from": 284, "to": 332, "speaker": "odysseus", "to_whom": ["agamemnon", "achaeans"], "kind": "counsel" },
+    { "from": 337, "to": 368, "speaker": "nestor", "to_whom": ["achaeans", "agamemnon"], "kind": "counsel" },
+    { "from": 370, "to": 393, "speaker": "agamemnon", "to_whom": ["nestor", "achaeans"], "kind": "command" },
+    { "from": 412, "to": 418, "speaker": "agamemnon", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 434, "to": 440, "speaker": "nestor", "to_whom": ["agamemnon"], "kind": "counsel" },
+    { "from": 796, "to": 806, "speaker": "iris", "to_whom": ["priam", "hector"], "kind": "message" }
+  ],
+  "days": [
+    { "from": 1, "to": 47, "label": "Night of Day 21", "note": "The night after Thetis' visit to Olympus: the other gods and men sleep, but Zeus lies awake and sends the Dream." },
+    { "from": 48, "to": 877, "label": "Day 22", "note": "Dawn (2.48). The first day of fighting in the poem; it does not end until Book 7." }
+  ]
+}

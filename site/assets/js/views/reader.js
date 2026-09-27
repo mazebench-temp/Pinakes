@@ -64,6 +64,10 @@ export async function render(route, { go }) {
   const speechAt = new Map(text.speeches.map(s => [s.from, s]));
   const afterSpeech = new Set(text.speeches.map(s => s.to + 1));
   const lemmaIndex = new Map(text.lemmas.map(l => [l[0], l]));
+  // Word counts in the work's other available books, loaded the first time a word is looked up.
+  let otherCounts = null;
+  const countsElsewhere = () => otherCounts ??= Promise.all((work.available ?? []).filter(b => b !== book)
+    .map(b => store.text(workId, b).then(t => [b, new Map(t.lemmas.map(l => [l[0], l[2]]))]))).then(list => new Map(list));
   const title = id => cat.by.entries.get(id)?.title ?? id.replace(/-/g, ' ').replace(/^./, c => c.toUpperCase());
   const sceneOf = n => text.scenes.find(s => n >= s.from && n <= s.to);
   const speechOf = n => text.speeches.find(s => n >= s.from && n <= s.to);
@@ -105,6 +109,12 @@ export async function render(route, { go }) {
         <div class="reader-meta">${text.lines.length} lines · Greek of ${esc(text.editions[0]?.name ?? '')} · English by ${esc(text.editions[1]?.name ?? '')}. Tap a Greek word to parse it, a name to look it up, a line number to quote.</div>
       </header>
       <div class="reader-body">${body}</div>
+      ${(() => {
+        const avail = work.available ?? [];
+        const nav = (b, dir) => avail.includes(b) ? `<a class="book-nav ${dir}" href="#/read/${esc(workId)}/${b}"><span class="bn-label">${dir === 'next' ? 'Next' : 'Previous'} · Book ${b}</span><span class="bn-title">${esc(work.books?.[b]?.title ?? `Book ${b}`)}</span></a>` : '';
+        const links = nav(book - 1, 'prev') + nav(book + 1, 'next');
+        return links ? `<nav class="book-nav-row" aria-label="Books">${links}</nav>` : '';
+      })()}
       <footer class="reader-foot">${text.editions.map(e => `<div><b>${esc(e.label)}.</b> ${esc(e.credit)}</div>`).join('')}</footer>
     </article></div>`);
   const reader = view.querySelector('.reader');
@@ -183,7 +193,8 @@ export async function render(route, { go }) {
     const k = cat.by.kinds.get(e.kind);
     return `<button class="chip kind" type="button" data-peek="${esc(id)}" style="--h:${k?.hue ?? 262}">${esc(e.title)}</button>`;
   };
-  const wirePeeks = root => on(root, 'click', '[data-peek]', (e, b) => peek(b.dataset.peek));
+  const here = `${workId}.${book}`;
+  const wirePeeks = root => on(root, 'click', '[data-peek]', (e, b) => peek(b.dataset.peek, { scope: here }));
 
   function wordSheet(line, k) {
     const [w, , , lx, ents] = line.tk[k];
@@ -198,7 +209,8 @@ export async function render(route, { go }) {
     const body = el(`<div>
       <div class="word-head">
         <div class="word-form" lang="grc">${esc(w)}</div>
-        ${a ? `<div class="word-lemma" lang="grc">${esc(lemma)}${info ? ` <span style="font-family:var(--ui);font-size:13px;color:var(--text-3)">· ${plural(info[2], 'time')} in Book ${book}</span>` : ''}</div>
+        ${a ? `<div class="word-lemma" lang="grc">${esc(lemma)}${info ? ` <span style="font-family:var(--ui);font-size:13px;color:var(--text-3)">· ${plural(info[2], 'time')} in Book ${book}</span>` : ''}${info?.[4] && (work.available ?? []).some(b => b < book) ? ` <span class="new-word">New in Book ${book}</span>` : ''}</div>
+          <div class="word-books" hidden></div>
           <div class="word-gloss">${esc(a[1])}</div>
           <div class="parse"><span class="pos">${esc(parse.pos)}</span>${parse.parts.map(x => `<span>${esc(x)}</span>`).join('')}</div>
           ${a[3] ? `<div class="note">${esc(a[3])}</div>` : ''}` : '<div class="muted" style="margin-top:6px">This word has not been analyzed yet.</div>'}
@@ -216,6 +228,13 @@ export async function render(route, { go }) {
     wirePeeks(body);
     on(body, 'click', '[data-jump]', (e, b) => { closeSheet(); jump(+b.dataset.jump, true); });
     openSheet({ title: a ? `${a[0]} · ${a[1]}` : w, content: body, onClose: () => tokenEl?.classList.remove('active') });
+    if (lemma && (work.available ?? []).length > 1) countsElsewhere().then(map => {
+      const box = body.querySelector('.word-books');
+      const parts = (work.available ?? []).map(b => [b, b === book ? (info?.[2] ?? 0) : (map.get(b)?.get(lemma) ?? 0)]);
+      const total = parts.reduce((t, [, c]) => t + c, 0);
+      box.innerHTML = `${esc(work.title)}: ${plural(total, 'time')} · ${parts.map(([b, c]) => `<span${b === book ? ' class="here"' : ''}>Book ${b} <b>${c}</b></span>`).join(' · ')}`;
+      box.hidden = false;
+    }).catch(() => {});
   }
 
   function lineSheet(n) {
@@ -306,7 +325,7 @@ export async function render(route, { go }) {
     const line = lineByN.get(+w.closest('.line').dataset.n);
     wordSheet(line, +w.dataset.k);
   });
-  on(view, 'click', '.en-nm, .en-tm, .speaker a[data-e]', (e, a) => peek(a.dataset.e));
+  on(view, 'click', '.en-nm, .en-tm, .speaker a[data-e]', (e, a) => peek(a.dataset.e, { scope: here }));
 
   // Hover a Greek word (on devices with a pointer) for its headword and gloss.
   const gloss = el('<div class="chart-tip word-tip" role="tooltip" hidden></div>');
@@ -325,7 +344,7 @@ export async function render(route, { go }) {
     on(view, 'pointerout', '.line .w', () => { gloss.hidden = true; });
   }
   const hideGloss = () => { gloss.hidden = true; };
-  on(view, 'keydown', '.speaker a[data-e]', (e, a) => { if (e.key === 'Enter') peek(a.dataset.e); });
+  on(view, 'keydown', '.speaker a[data-e]', (e, a) => { if (e.key === 'Enter') peek(a.dataset.e, { scope: here }); });
 
   function jump(n, flash = false, top = false) {
     const target = view.querySelector(top ? `.scene[data-from="${n}"]` : `#l-${n}`) ?? view.querySelector(`#l-${n}`);

@@ -3,7 +3,7 @@ title: Lord of men
 greek: ἄναξ ἀνδρῶν
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: The title of [[Agamemnon]] as commander of the whole army. It names him in the seventh line of the Iliad, set against “brilliant Achilles,” and three more times in Book 1.
+summary: ἄναξ ἀνδρῶν, the title of [[Agamemnon]] as commander of the whole army.
 aliases: [anax andron, wanax]
 grc: [ἄναξ ἀνδρῶν]
 en: [lord of men]

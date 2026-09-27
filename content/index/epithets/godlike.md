@@ -3,11 +3,11 @@ title: Godlike
 greek: θεοείκελος
 kind: epithet
 tags: [heroic-epithet]
-summary: “Like a god,” Agamemnon's address to [[Achilles]] at 1.131: a compliment that opens a rebuke.
+summary: “Like a god,” praise of a hero's looks or bearing: θεοείκελος, and θεοειδής, “godlike in form.”
 aliases: [like a god, theoeikelos]
 grc: [θεοείκελʼ]
 en: [godlike]
-of: [achilles]
+of: [achilles, polyxeinus, ascanius]
 ---
 
 ## Meaning

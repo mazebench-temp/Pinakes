@@ -3,11 +3,11 @@ title: Holy (hieros)
 greek: ἱερός
 kind: epithet
 tags: [sacrifice]
-summary: “Holy, sacred”: in Book 1 the epithet of the [[hecatomb]] that is promised and delivered to Apollo, and of [[Thebe]], the city Achilles sacked (1.366).
+summary: “Holy, sacred”: an epithet of what belongs to the gods, their rites, victims and places.
 aliases: [sacred, holy hecatomb]
 grc: [ἱερὴν]
 en: [holy, sacred]
-of: [hecatomb, thebe]
+of: [hecatomb, thebe, altar, onchestus, euboea, echinae]
 ---
 
 ## Meaning

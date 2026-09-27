@@ -29,9 +29,21 @@ if (cmd === 'add') {
   console.error('Unknown quote id'); process.exit(1);
 } else {
   let changed = 0, files = 0;
-  for (const file of walk(path.join(CONTENT, 'index'), f => f.endsWith('.md'))) {
+  // Entry files default to their `work:` (else the Iliad); notes default to the work they are filed under.
+  const noteWork = file => {
+    for (let dir = path.dirname(file); dir.startsWith(path.join(CONTENT, 'library')); dir = path.dirname(dir)) {
+      const wf = path.join(dir, 'work.json');
+      if (fs.existsSync(wf)) return readJson(wf).id;
+    }
+    return null;
+  };
+  const sources = [
+    ...walk(path.join(CONTENT, 'index'), f => f.endsWith('.md')),
+    ...walk(path.join(CONTENT, 'library'), f => f.endsWith('.md') && f.split(path.sep).includes('notes')),
+  ];
+  for (const file of sources) {
     const src = fs.readFileSync(file, 'utf8');
-    const work = src.match(/^work:\s*(\S+)/m)?.[1] ?? 'homer.iliad';
+    const work = noteWork(file) ?? src.match(/^work:\s*(\S+)/m)?.[1] ?? 'homer.iliad';
     const out = src.replace(/\{\{quote:([^}]+)\}\}/g, (all, spec) => {
       if (isUuid(spec.trim())) return all;
       changed++;

@@ -5,7 +5,7 @@ kind: story
 period: iliupersis
 mode: foreshadowing
 tags: [foreshadowing, warfare]
-summary: The Iliad ends before Troy falls, but Book 1 names the sack as the goal of the war. Chryses opens the poem by wishing the Achaeans success in it, and Achilles promises Agamemnon repayment "if ever Zeus grants us to sack the well-walled city of Troy."
+summary: Troy fell in the tenth year of the war, after the Iliad ends. The poem never reaches the sack, but from the first speech to the last book its people wish for it, pray for it, promise it and foresee it.
 participants: [chryses, achilles, agamemnon, priam, zeus]
 passages:
   - 1.17-21 | Chryses wishes the Achaeans the sack of Priam's city
@@ -18,19 +18,9 @@ Troy fell in the tenth year of the war. The Achaeans pretended to sail away and 
 
 ## In the poem
 
-The first words anyone speaks in the Iliad are a wish for the sack. Chryses comes to buy back his daughter, and he begins with a blessing on the whole army.
-
-{{quote:8fb573bd-1326-5966-ba64-00b8f5ea7fec}}
-
-The blessing is also the price. Chryses offers the gods' favor for the war, a safe voyage home and a splendid ransom, all in exchange for his daughter. Agamemnon refuses, and Apollo's arrows fall on the camp instead.
-
-The sack comes up again when Achilles asks Agamemnon to give the girl back. Every loss in the camp is to be made good out of Troy's wealth, and the whole system of prizes depends on the city's fall (see [[geras]]).
-
-{{quote:60b3310f-0ca2-55a0-893f-9710a9554f31}}
-
-The towns Achilles says he has sacked (1.163–164) are the smaller cities of the Troad, such as [[thebe]], not Troy itself (see [[achilles-raids]]).
-
 The poem never reaches the sack. It ends with Hector's funeral. Its characters look ahead to it all the same. The same two lines come from Agamemnon and then from Hector: "a day will come when sacred Ilios will perish, and Priam, and the people of Priam of the good ash spear" (4.164–165, 6.448–449). At Hector's death the Trojans cry out as if the whole city were already burning (22.410–411). Andromache, mourning over his body, foresees the city's fall and her son's death (24.728–738).
+
+{{notes}}
 
 ## Outside Homer
 

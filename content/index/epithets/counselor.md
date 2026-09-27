@@ -3,7 +3,7 @@ title: Counselor
 greek: μητίετα
 kind: epithet
 tags: [divine-epithet, divine-will]
-summary: “Zeus of counsel,” the epithet of [[Zeus]] as the god whose plans are fulfilled. Agamemnon claims him for his own side (1.175); Thetis asks him for Achilles' honor (1.508).
+summary: “Zeus of counsel,” the epithet of [[Zeus]] as the god whose plans are fulfilled.
 aliases: [deviser, metieta]
 grc: [μητίετα]
 en: [counselor]

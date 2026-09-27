@@ -3,7 +3,7 @@ title: Silence
 greek: ἀκέων
 kind: theme
 tags: [speech, mind]
-summary: Book 1 is full of speeches and punctuated by silences. The rejected priest walks away without a word, the heralds stand mute, Zeus sits a long time silent, and Hera is made to sit in silence.
+summary: Homer's speeches are framed by silences: a dismissed priest walking away, messengers who cannot speak, an army waiting to hear, a king who says nothing.
 grc: [ἀκέων, ἀκέουσα]
 en: [in silence, silence]
 refs: [1.332, 1.512]

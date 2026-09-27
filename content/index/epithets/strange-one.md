@@ -3,11 +3,11 @@ title: Strange one
 greek: δαιμονίη
 kind: epithet
 tags: [divine-epithet, speech]
-summary: Zeus' address to [[Hera]] when he rebukes her suspicion (1.561): a vocative of reproach and intimacy.
+summary: δαιμόνιε, δαιμονίη: a vocative of reproach and intimacy, “strange one.”
 aliases: [daimonie, possessed one, my strange one]
 grc: [δαιμονίη]
 en: [Strange one]
-of: [hera]
+of: [hera, kings, commoners]
 ---
 
 ## Meaning

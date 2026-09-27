@@ -3,7 +3,7 @@ title: Gray-eyed
 greek: γλαυκῶπις
 kind: epithet
 tags: [divine-epithet]
-summary: The chief epithet of [[Athena]], “with gleaming eyes,” often translated “gray-eyed” or “owl-eyed.” In Book 1 it names her once, as she answers Achilles after her sudden appearance (1.206).
+summary: The chief epithet of [[Athena]], “with gleaming eyes,” often translated “gray-eyed” or “owl-eyed.”
 aliases: [owl-eyed, flashing-eyed, glaukopis]
 grc: [γλαυκῶπις]
 en: [gray-eyed]

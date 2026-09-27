@@ -3,7 +3,7 @@ title: Who delights in thunder
 greek: τερπικέραυνος
 kind: epithet
 tags: [divine-epithet]
-summary: An epithet of [[Zeus]] as wielder of the thunderbolt, used once in Book 1, by Thetis (1.419).
+summary: An epithet of [[Zeus]] as wielder of the thunderbolt.
 aliases: [delighting in the thunderbolt, terpikeraunos]
 grc: [τερπικεραύνῳ]
 en: [who delights in thunder]

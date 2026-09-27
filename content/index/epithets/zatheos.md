@@ -3,11 +3,11 @@ title: Holy (zatheos)
 greek: ζάθεος
 kind: epithet
 tags: [sanctuary, troad]
-summary: “Very holy,” the epithet of [[Cilla]], one of Apollo's places in the Troad, in both of Chryses' prayers (1.38, 1.452).
+summary: “Very holy,” an epithet of places sacred to gods.
 aliases: [very holy, holy Cilla]
 grc: [ζαθέην]
 en: [holy]
-of: [cilla]
+of: [cilla, nisa, crisa]
 ---
 
 ## Meaning

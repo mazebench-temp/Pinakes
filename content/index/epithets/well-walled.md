@@ -3,7 +3,7 @@ title: Well-walled
 greek: εὐτείχεος
 kind: epithet
 tags: [troad, city]
-summary: “With fine walls,” an epithet of [[Troy]] in Achilles' promise of future repayment (1.129).
+summary: “With fine walls,” an epithet of [[Troy]].
 aliases: [euteicheos]
 grc: [εὐτείχεον]
 en: [well-walled]

@@ -3,7 +3,7 @@ title: Priam
 greek: Πρίαμος
 kind: person
 tags: [trojan, king, elder, house-of-priam]
-summary: The old king of Troy. In Book 1 he is only named, in the priest's blessing on the Achaeans and in Nestor's warning of how the Trojans would rejoice at the quarrel.
+summary: The old king of [[Troy]], father of [[Hector]] and of many other sons. Too old to fight, he presides over the city whose fall the Achaeans pray for, and at the end of the Iliad he goes to Achilles to ransom Hector's body.
 grc: [Πριαμ*]
 en: [Priam, city of Priam, sons of Priam]
 relations:
@@ -11,15 +11,7 @@ relations:
   - child: hector
 ---
 
-## In Book 1
-
-{{quote:ba7e7dd8-a1d5-5da5-853a-02d3445e5bc0}}
-
-"The city of Priam" is how Chryses names Troy in the poem's first speech. He wishes the Greeks success at sacking it.
-
-{{quote:c6a8eeb9-d014-5817-9b7c-01c6c21cb99b}}
-
-Nestor imagines Priam and his sons rejoicing at the news of the quarrel.
+{{notes}}
 
 ## Outside Homer
 

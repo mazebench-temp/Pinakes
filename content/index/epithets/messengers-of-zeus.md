@@ -3,10 +3,10 @@ title: Messengers of Zeus and of men
 greek: Διὸς ἄγγελοι ἠδὲ καὶ ἀνδρῶν
 kind: epithet
 tags: [heroic-epithet, herald]
-summary: Achilles' greeting to the [[heralds]] who come for Briseis (1.334): they serve Zeus as well as their human master.
+summary: “Messengers of Zeus”: the heralds, and the divine messengers who carry Zeus' will.
 grc: [Διὸς ἄγγελοι ἠδὲ καὶ ἀνδρῶν]
 en: [messengers]
-of: [heralds, talthybius, eurybates]
+of: [heralds, talthybius, eurybates, dream, ossa, iris]
 ---
 
 ## Meaning

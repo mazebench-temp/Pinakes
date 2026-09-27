@@ -3,7 +3,7 @@ title: Sons of the Achaeans
 greek: υἷες Ἀχαιῶν
 kind: epithet
 tags: [heroic-epithet]
-summary: A line-end formula for the [[Achaeans]] as a body. In Book 1 it names them above all as the givers of prizes.
+summary: A line-end formula for the [[Achaeans]] as a body, υἷες Ἀχαιῶν, with its variant κοῦροι Ἀχαιῶν.
 aliases: [young men of the Achaeans, huies Achaion]
 grc: [υἷες Ἀχαιῶν, υἷας Ἀχαιῶν]
 en: [sons of the Achaeans]

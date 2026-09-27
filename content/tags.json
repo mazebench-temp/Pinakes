@@ -289,7 +289,8 @@
       "id": "troad",
       "facet": "geography",
       "label": "Troad",
-      "summary": "Troy and its region in northwest Asia Minor."
+      "summary": "Troy and its region in northwest Asia Minor.",
+      "parent": "asia-minor"
     },
     {
       "id": "mainland-greece",
@@ -352,6 +353,180 @@
       "facet": "geography",
       "label": "The Achaean camp",
       "summary": "The ships, huts, and shore before Troy."
+    },
+    {
+      "id": "asia-minor",
+      "facet": "geography",
+      "label": "Asia Minor",
+      "summary": "Anatolia: the Troad and the lands of Troy's allies."
+    },
+    {
+      "id": "boeotia",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Boeotia",
+      "summary": "Thebes' country: Aulis, Orchomenus, the Boeotian contingent."
+    },
+    {
+      "id": "phocis",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Phocis",
+      "summary": "Delphi (Pytho), the Cephisus valley."
+    },
+    {
+      "id": "locris",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Locris",
+      "summary": "The Locrians of Ajax son of Oileus, facing Euboea."
+    },
+    {
+      "id": "attica",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Attica",
+      "summary": "Athens and Salamis."
+    },
+    {
+      "id": "aetolia",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Aetolia",
+      "summary": "Calydon and Pleuron, the land of Oeneus and Meleager."
+    },
+    {
+      "id": "epirus",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Epirus",
+      "summary": "Dodona and Thesprotian Ephyra in the northwest."
+    },
+    {
+      "id": "argolid",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Argolid",
+      "summary": "Argos, Mycenae, Tiryns and their neighbors."
+    },
+    {
+      "id": "corinthia",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Corinthia",
+      "summary": "Corinth, Cleonae and Sicyon on the isthmus."
+    },
+    {
+      "id": "achaea-coast",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Achaea",
+      "summary": "The north coast of the Peloponnese (Aegialus, Helice, Aegium)."
+    },
+    {
+      "id": "laconia",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Laconia",
+      "summary": "Lacedaemon and Sparta, the kingdom of Menelaus."
+    },
+    {
+      "id": "messenia",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Messenia",
+      "summary": "Pylos and the towns of Nestor."
+    },
+    {
+      "id": "arcadia",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Arcadia",
+      "summary": "The inland Peloponnese, a people without ships."
+    },
+    {
+      "id": "elis",
+      "facet": "geography",
+      "parent": "peloponnese",
+      "label": "Elis",
+      "summary": "Buprasium and Elis, the land of the Epeians."
+    },
+    {
+      "id": "euboea",
+      "facet": "geography",
+      "parent": "island",
+      "label": "Euboea",
+      "summary": "The Abantes' island: Chalcis, Eretria, Histiaea."
+    },
+    {
+      "id": "ionian-islands",
+      "facet": "geography",
+      "parent": "island",
+      "label": "Ionian islands",
+      "summary": "Ithaca, Samos, Zacynthus, Dulichium and the Echinae."
+    },
+    {
+      "id": "crete",
+      "facet": "geography",
+      "parent": "island",
+      "label": "Crete",
+      "summary": "Crete of the hundred cities."
+    },
+    {
+      "id": "dodecanese",
+      "facet": "geography",
+      "parent": "island",
+      "label": "Dodecanese",
+      "summary": "Rhodes, Cos, Syme and the southeastern islands."
+    },
+    {
+      "id": "thrace",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Thrace",
+      "summary": "The Thracians and Cicones of the north Aegean."
+    },
+    {
+      "id": "paeonia",
+      "facet": "geography",
+      "parent": "mainland-greece",
+      "label": "Paeonia",
+      "summary": "The Paeonians of the Axius."
+    },
+    {
+      "id": "paphlagonia",
+      "facet": "geography",
+      "parent": "asia-minor",
+      "label": "Paphlagonia",
+      "summary": "The Paphlagonians and Eneti on the Black Sea coast."
+    },
+    {
+      "id": "mysia-phrygia",
+      "facet": "geography",
+      "parent": "asia-minor",
+      "label": "Mysia and Phrygia",
+      "summary": "The Mysians, the Phrygians of Ascania, the Halizones."
+    },
+    {
+      "id": "maeonia",
+      "facet": "geography",
+      "parent": "asia-minor",
+      "label": "Maeonia",
+      "summary": "Lydia under Tmolus, the Gygaean lake, the Cayster."
+    },
+    {
+      "id": "caria",
+      "facet": "geography",
+      "parent": "asia-minor",
+      "label": "Caria",
+      "summary": "Miletus, the Maeander, Mycale."
+    },
+    {
+      "id": "lycia",
+      "facet": "geography",
+      "parent": "asia-minor",
+      "label": "Lycia",
+      "summary": "Sarpedon's land on the Xanthus."
     },
     {
       "id": "centaur",

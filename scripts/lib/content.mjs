@@ -23,7 +23,7 @@ export function walk(dir, test = () => true) {
   return out;
 }
 
-const bookFile = (template, book) => template.replace('{book}', String(book).padStart(2, '0'));
+export const bookFile = (template, book) => template.replace('{book}', String(book).padStart(2, '0'));
 
 /** A verse/section text file: "<number>\t<text>" rows; "#" lines are comments. */
 export function readLines(file) {
@@ -84,6 +84,45 @@ export function loadEntries() {
     const { data, body } = splitFrontMatter(fs.readFileSync(file, 'utf8'), rel(file));
     return { id: data.id ?? path.basename(file, '.md'), file: rel(file), data, body };
   });
+}
+
+/**
+ * Scoped notes: what an entry is and does within one author, work or book. The folder is the scope:
+ *   content/library/homer/notes/<id>.md              in Homer
+ *   content/library/homer/iliad/notes/<id>.md        in the Iliad as a whole
+ *   content/library/homer/iliad/notes/02/<id>.md     in Iliad, Book 2
+ * The file name is the id of the entry the note belongs to.
+ */
+export function loadNotes() {
+  const libDir = path.join(CONTENT, 'library');
+  const out = [];
+  const read = (file, scope) => {
+    const { data, body } = splitFrontMatter(fs.readFileSync(file, 'utf8'), rel(file));
+    out.push({ entryId: path.basename(file, '.md'), file: rel(file), scope, data, body });
+  };
+  const mdIn = dir => exists(dir) ? fs.readdirSync(dir).sort().filter(n => n.endsWith('.md')).map(n => path.join(dir, n)) : [];
+  for (const authorDir of fs.readdirSync(libDir).sort()) {
+    const aFile = path.join(libDir, authorDir, 'author.json');
+    if (!exists(aFile)) continue;
+    const author = readJson(aFile);
+    for (const file of mdIn(path.join(libDir, authorDir, 'notes'))) read(file, { id: author.id, author: author.id });
+    for (const workDir of fs.readdirSync(path.join(libDir, authorDir)).sort()) {
+      const wFile = path.join(libDir, authorDir, workDir, 'work.json');
+      if (!exists(wFile)) continue;
+      const work = readJson(wFile);
+      const notesDir = path.join(libDir, authorDir, workDir, 'notes');
+      for (const file of mdIn(notesDir)) read(file, { id: work.id, author: author.id, work: work.id });
+      if (!exists(notesDir)) continue;
+      for (const sub of fs.readdirSync(notesDir).sort()) {
+        const dir = path.join(notesDir, sub);
+        if (!fs.statSync(dir).isDirectory()) continue;
+        if (!/^\d+$/.test(sub)) throw new Error(`${rel(dir)}: book folders under notes/ are numbered (01, 02, …)`);
+        const book = Number(sub);
+        for (const file of mdIn(dir)) read(file, { id: `${work.id}.${book}`, author: author.id, work: work.id, book });
+      }
+    }
+  }
+  return out;
 }
 
 /** Quote registries live in content/quotes/<work>.json as { work, quotes: [{ id, ref, title? }] }. */
