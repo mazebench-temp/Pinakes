@@ -2,7 +2,7 @@ import { el, esc, icon, on, debounce, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
-import { ALL, presentIn, linesIn, firstKeyIn, remember, label as scopeLabel } from '../lib/scope.js';
+import { ALL, presentIn, linesIn, firstKeyIn, remember, label as scopeLabel, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
 
 /** Catalog order: ignore leading punctuation and articles ("The sea" files under S). */
 export const sortKey = t => t.normalize('NFD').replace(/[\u0300-\u036F]/g, '').replace(/^[^A-Za-z0-9]+/, '').replace(/^(the|a|an)\s+/i, '');
@@ -44,7 +44,9 @@ export async function render(route, { setQuery }) {
   let sort = route.query.sort ?? store.prefs.indexSort ?? 'az';
   const kinds = cat.kinds.filter(k => k.count);
   // Scope: every entry, or only those present in one work or book.
-  const scopeChoices = [ALL, ...cat.scopes.filter(s => s.kind === 'book' || (s.kind === 'work' && cat.scopes.filter(x => x.kind === 'work').length > 1)).map(s => s.id)];
+  const tree = scopeTree(cat.scopes.filter(s => s.kind === 'book').map(s => s.id), cat);
+  const scopeChoices = [ALL, ...treeScopes(tree)];
+  const manyBooks = [...tree.books.values()].flat().length > 1;
   let S = route.query.in ?? store.prefs.scope ?? ALL;
   if (!scopeChoices.includes(S)) S = ALL;
   const inScope = () => cat.entries.filter(e => presentIn(e, S, cat));
@@ -55,7 +57,7 @@ export async function render(route, { setQuery }) {
       <p class="page-sub"></p>
     </header>
     <div class="index-tools">
-      ${scopeChoices.length > 2 ? `<div class="scope-bar" role="tablist" aria-label="Entries in">${scopeChoices.map(s => `<button class="scope-chip" type="button" role="tab" data-scope="${esc(s)}" aria-selected="${s === S}">${s === ALL ? 'All texts' : esc(scopeLabel(s, cat))}</button>`).join('')}</div>` : ''}
+      ${manyBooks ? '<div class="scope-picker"></div>' : ''}
       <label class="search-field" for="index-q">${icon('search')}<input id="index-q" type="search" placeholder="Filter the index" value="${esc(q)}" autocomplete="off" enterkeyhint="search"><button class="clear" type="button" aria-label="Clear" ${q ? '' : 'hidden'}>${icon('x')}</button></label>
       <div class="chips" role="group" aria-label="Kinds">
         <button class="chip" type="button" data-k="all" aria-pressed="${kind === 'all'}">All <span class="n" data-n="all"></span></button>
@@ -104,11 +106,13 @@ export async function render(route, { setQuery }) {
   };
 
   const sync = () => setQuery({ k: kind === 'all' ? '' : kind, q, sort: sort === 'az' ? '' : sort, in: S === ALL ? '' : S });
+  const picker = view.querySelector('.scope-picker');
+  const drawPicker = () => { if (picker) picker.innerHTML = pickerHtml(tree, S, cat, { all: 'All texts', aboutAuthor: 'All works', aboutWork: 'All books' }); };
+  drawPicker();
   on(view, 'click', '.scope-chip', (e, b) => {
     S = b.dataset.scope;
     remember(S);
-    view.querySelectorAll('.scope-chip').forEach(c => c.setAttribute('aria-selected', String(c === b)));
-    counts(); sync(); draw();
+    drawPicker(); counts(); sync(); draw();
   });
   view.querySelector('[data-sort]').append(segmented([['az', 'A–Z'], ['freq', 'Most frequent'], ['text', 'In the text']], sort, v => {
     sort = v; store.setPref('indexSort', v); sync(); draw();

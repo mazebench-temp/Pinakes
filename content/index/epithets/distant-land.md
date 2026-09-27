@@ -3,7 +3,7 @@ title: A distant land
 greek: ἀπίη γαῖα
 kind: epithet
 tags: [mainland-greece]
-summary: The phrase for the land [[Nestor]] came from when he joined the Lapiths: “from far away, from a distant land” (1.270).
+summary: ἐξ ἀπίης γαίης, “from a distant land,” a phrase for a far-off country.
 aliases: [far-off land, apie gaia]
 grc: [ἀπίης γαίης]
 en: [a distant land]

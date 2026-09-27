@@ -7,7 +7,7 @@ summary: “Horse-taming,” the standing epithet of the [[Trojans]] and of hors
 aliases: [horse-taming, hippodamos]
 grc: [ἱπποδάμοιο, ἱπποδάμων]
 en: [tamer of horses, horse-taming]
-of: [atreus, trojans]
+of: [atreus, trojans, castor]
 ---
 
 ## Meaning

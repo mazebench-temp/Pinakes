@@ -1,3 +1,6 @@
+---
+summary: ἄλγεα names both the countless sorrows that [[Achilles]]' wrath laid on the Achaeans and the sorrows that [[Apollo]]'s plague brings them.
+---
 {{quote:9273ec58-af8b-5446-8afb-7a836c58981c}}
 
 The wrath “laid countless ἄλγεα on the Achaeans”. It is the first consequence the poem names.

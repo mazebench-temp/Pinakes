@@ -1,7 +1,7 @@
 ---
 summary: Book 2 is the first to address a gathering as φίλοι, “friends”, and its formula for home is “our dear native land”, the place the army longs for until war becomes sweeter. Zeus loves the king, and loves the Rhodians.
-grc: [φίλοι, φίλης, φιλεῖ, φίληθεν, φιλότητι]
-en: [friends, loves, loved, your own, love]
+grc: [φίλοι, φίλης, φιλεῖ, φίληθεν]
+en: [friends, loves, loved, your own]
 passages:
   - 2.139-141 | Let us flee
   - 2.453-454 | War became sweeter
@@ -17,6 +17,6 @@ passages:
 
 **Loved by Zeus.** Odysseus tells the kings that a king's honor comes from Zeus, “and Zeus the counselor loves him” (φιλεῖ, 2.197; see [[kingship-and-authority]]). Agamemnon's pretended surrender uses the other sense, what someone likes: “such, it seems, must be the pleasure (φίλον) of Zeus” (2.116). In the Catalogue, after Tlepolemus has killed his father's uncle and fled over the sea, his people settle on Rhodes “and were loved by Zeus” (φίληθεν, 2.668), who poured wondrous wealth upon them (see [[the-flight-of-tlepolemus]]). Phyleus is “dear to Zeus” (2.628; see [[dear-to-zeus]]), and Achilles “dear to Ares” (2.778; see [[dear-to-ares]]).
 
-**Kin and one's own.** The sparrow at Aulis laments her “dear young” (2.315). Sthenelus and Eumelus are each a “dear son” (2.564, 2.713), and the man Tlepolemus killed was his father's “dear uncle” (2.662). In the possessive sense, Odysseus threatens to strip Thersites of “your own clothes” (φίλα εἵματα, 2.261). The noun φιλότης, “love”, is first met in Thersites' taunt, when he asks whether Agamemnon wants a young woman “to lie with in love” (2.232).
+**Kin and one's own.** The sparrow at Aulis laments her “dear young” (2.315). Sthenelus and Eumelus are each a “dear son” (2.564, 2.713), and the man Tlepolemus killed was his father's “dear uncle” (2.662). In the possessive sense, Odysseus threatens to strip Thersites of “your own clothes” (φίλα εἵματα, 2.261). The noun φιλότης, “love” ([[philotes]]), is first met in Thersites' taunt, when he asks whether Agamemnon wants a young woman “to lie with in love” (2.232).
 
 **Always dear.** Iris opens her warning to Priam with a reproach in the form of Book 1's quarrels: “endless words are always dear to you” (αἰεί τοι μῦθοι φίλοι, 2.796; compare 1.107, 1.177, 1.541, and see [[strife-is-always-dear]] and [[mythos]]).

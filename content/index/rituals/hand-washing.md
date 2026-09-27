@@ -3,7 +3,7 @@ title: Hand-washing
 greek: χερνίπτομαι
 kind: ritual
 tags: [purification, sacrifice]
-summary: Washing the hands before prayer and sacrifice. At Chryse the Achaeans wash their hands and take up the barley grains before Chryses prays.
+summary: Washing the hands before prayer, libation and sacrifice. Clean hands are the first condition for approaching a god.
 aliases: [washing hands, washing of hands, chernips]
 grc: [χερνίψαντο]
 en: [washed their hands]

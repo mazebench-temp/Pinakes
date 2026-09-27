@@ -3,7 +3,7 @@ title: Arrows
 greek: ὀϊστός
 kind: object
 tags: [weapon, divine-object]
-summary: The arrows of [[Apollo]], which carry the plague through the Achaean camp for nine days. Book 1 calls them by four names: ὀϊστός, ἰός, βέλος and κῆλα.
+summary: Arrows (ὀϊστός, ἰός) and missiles in general (βέλος), the weapons of human archers and of the archer gods.
 aliases: [arrow, shafts, darts]
 grc: [βέλεσσιν, ὀϊστοὶ, ἰὸν, βέλος, βέλος ἐχεπευκὲς, κῆλα]
 en: [arrows, arrow, piercing shaft]

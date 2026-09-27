@@ -3,7 +3,7 @@ title: Ithaca
 greek: Ἰθάκη
 kind: place
 tags: [island, ionian-islands]
-summary: Odysseus' island home in the Ionian Sea. In the Iliad it is named in the Catalogue, among the places of the Cephallenians, and in the title of his herald Eurybates "of Ithaca".
+summary: Odysseus' island home in the Ionian Sea, the first of the places of the [[Cephallenians]] whom he leads to Troy.
 aliases: [Ithaki, Ithake]
 grc: [Ἰθάκην, Ἰθακήσιος]
 passages:
@@ -12,7 +12,7 @@ passages:
 
 {{quote:9ffc8cb3-07d1-5bdc-9e58-ed1ffeaf54b1}}
 
-Ithaca comes first among the places of the [[Cephallenians]], with its mountain, [[Neritum]]. Book 2 names it once before: Odysseus' herald is "Eurybates of Ithaca" (Ἰθακήσιος, 2.184; see [[eurybates-of-ithaca]]). In Book 3 Helen describes Odysseus as a man "raised in the land of Ithaca, rocky though it is" (3.201).
+Ithaca comes first among the places of the [[Cephallenians]], with its mountain, [[Neritum]]. Book 2 names it once before: Odysseus' herald is "Eurybates of Ithaca" (Ἰθακήσιος, 2.184; see [[eurybates-of-ithaca]]).
 
 ## Elsewhere in Homer
 

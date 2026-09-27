@@ -3,7 +3,7 @@ title: Loom
 greek: ἱστός
 kind: object
 tags: [woman, craftsman, captive]
-summary: The upright loom at which, Agamemnon says, Chryseis will grow old in his house in Argos. The same word, ἱστός, is the ship's mast later in the book.
+summary: The upright loom (ἱστός) at which the women of a house wove, from queens to captives. The same word names a ship's mast.
 aliases: [looms]
 grc: [ἱστὸν]
 except: [1.434, 1.480]

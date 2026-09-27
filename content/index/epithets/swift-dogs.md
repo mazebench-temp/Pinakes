@@ -3,7 +3,7 @@ title: Swift dogs
 greek: ἀργός
 kind: epithet
 tags: [livestock]
-summary: “Swift” or “shining,” an epithet of [[dogs]], the first victims of Apollo's arrows (1.50).
+summary: “Swift” or “shining,” an epithet of [[dogs]].
 aliases: [argoi]
 grc: [κύνας ἀργούς]
 en: [swift]

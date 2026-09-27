@@ -3,7 +3,7 @@ title: Outrage
 greek: ὕβρις
 kind: term
 tags: [honor, shame]
-summary: Outrage or arrogance, the violence and insult that treat another's honor with contempt. [[Achilles]] calls [[Agamemnon]]'s threat to seize his prize ὕβρις, and [[Athena]] takes up the word, promising gifts three times over “because of this outrage”.
+summary: Outrage or arrogance, the violence and insult that treat another's honor with contempt, and the overbearing spirit that goes beyond what is due.
 aliases: [hybris, hubris, arrogance, hyperopliē, overbearing pride]
 grc: [ὕβριν, ὕβριος, ὑπεροπλίῃσι]
 en: [arrogance, outrage, overbearing pride]

@@ -54,6 +54,13 @@ diaeresis, capitals, and elision marks**. So `Ἥρη` also matches `Ἥρῃ`, 
 - `Ἀχιλ*`: any word beginning with these letters. Use stems only when they cannot catch other words.
 - `πόδας ὠκὺς`: a phrase of consecutive words.
 - `=ἦ`: accent-sensitive, for the rare word that differs from another only by accent.
+- `^Ὕλην`: only when capitalized, for a name that is also a common word (Ὕλη the town, ὕλη
+  "forest"; Λᾶας the town, λᾶας "stone"). The text capitalizes proper names only, so this keeps a
+  town from matching every forest.
+- `!=Τρῳ*`: an exclusion. Words it matches are never claimed by the entry's other patterns, so
+  `[Τρώ*, "!=Τρῳ*"]` finds the Trojans (Τρῶες, Τρώων, Τρῶας) but not the Trojan women (Τρῳαί,
+  Τρῳάς), which differ only by accent and iota subscript. Prefer it to `except` when the clash will
+  recur in every book.
 
 List the forms that actually occur, copied from the Greek text (`content/library/homer/iliad/grc/01.txt`).
 The build warns about any pattern that never matches. Use `except` for lines where a form means something
@@ -70,7 +77,7 @@ Check the translation (`content/library/homer/iliad/en/01.txt`) for the exact wo
 
 ## General article and scoped notes
 
-An entry is read at a **scope**: everything, one work, or one book (All · Iliad 1 · Iliad 2 …). So its
+An entry is read at a **scope**: everything, one author, one work, or one book (Homer › Iliad › 3). So its
 content lives in two kinds of file:
 
 - **The entry file** (`content/index/<folder>/<id>.md`) holds what is true at every scope: etymology,

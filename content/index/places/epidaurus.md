@@ -4,7 +4,7 @@ greek: Ἐπίδαυρος
 kind: place
 tags: [peloponnese, city, argive, argolid]
 summary: A town on the Saronic coast of the Argolic peninsula, "vine-rich Epidaurus", one of the towns of Diomedes' contingent, later famous for its sanctuary of Asclepius.
-grc: [Ἐπίδαυρον, ἀμπελόεντʼ]
+grc: [Ἐπίδαυρον]
 ---
 
 {{quote:e217e833-d088-5825-94e3-20890dcc153d}}

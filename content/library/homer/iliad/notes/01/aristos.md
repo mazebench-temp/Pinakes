@@ -15,4 +15,4 @@ Nestor tries to divide the title. He flatters both men as first among the Danaan
 
 Achilles' charge that Agamemnon never goes on ambush “with the best of the Achaeans” (σὺν ἀριστήεσσιν, 1.227) touches the same nerve. Ambush was where a man's courage showed most plainly (13.276–277).
 
-The Iliad gives its own verdict in the Catalogue of Ships. The best of the men was Telamonian Ajax, “as long as Achilles kept up his wrath; for he was by far the strongest” (2.768–769). Achilles himself, grieving for Patroclus, admits a limit: he is such as no other Achaean in war, but in the assembly others are better (18.105–106).
+The Iliad gives its own verdict in the Catalogue of Ships. The best of the men was Telamonian Ajax, “while Achilles kept up his wrath; for he was by far the strongest” (2.768–769). Achilles himself, grieving for Patroclus, admits a limit: he is such as no other Achaean in war, but in the assembly others are better (18.105–106).

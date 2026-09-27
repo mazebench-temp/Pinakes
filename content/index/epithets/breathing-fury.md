@@ -7,7 +7,7 @@ summary: “Breathing might,” an epithet of warriors ready for battle: the [[A
 aliases: [breathing might, menea pneiontes]
 grc: [μένεα πνείοντες]
 en: [breathing fury]
-of: [abantes]
+of: [abantes, achaeans]
 ---
 
 ## Meaning

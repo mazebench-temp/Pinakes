@@ -3,11 +3,11 @@ title: Godlike (antitheos)
 greek: ἀντίθεος
 kind: epithet
 tags: [heroic-epithet]
-summary: “A match for the gods,” an honorific of heroes, given in Book 1 to the Lapith [[Polyphemus]] in Nestor's list of the mighty men of old (1.264).
+summary: “A match for the gods,” a general honorific of heroes, often of heroes remembered from the past.
 aliases: [equal to the gods, antitheos]
 grc: [ἀντίθεον]
 en: [godlike]
-of: [polyphemus]
+of: [polyphemus, mygdon]
 ---
 
 ## Meaning

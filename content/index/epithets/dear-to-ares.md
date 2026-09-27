@@ -7,7 +7,7 @@ summary: “Loved by Ares,” an epithet of warriors, above all of Menelaus, and
 aliases: [beloved of Ares, areiphilos]
 grc: [ἀρηΐφιλον]
 en: [dear to Ares]
-of: [achilles]
+of: [achilles, menelaus]
 ---
 
 ## Meaning

@@ -1,3 +1,6 @@
+---
+summary: In Book 1 the word lives in epithets: [[Zeus]] μητίετα, “the counselor”; Zeus δολομῆτα, “you schemer”, in Hera's mouth; and [[Odysseus]] πολύμητις, “of many wiles”.
+---
 μητίετα, “the counselor”, is an old epithet of Zeus with a nominative in short -ᾰ. Agamemnon names him as the chief of those who will honor him (1.175), and Thetis prays to him by this title when she asks him to honor her son (1.508).
 
 {{quote:3ebdb603-4e5c-5f2a-895f-2886168129bc}}

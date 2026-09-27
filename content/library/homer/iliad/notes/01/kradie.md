@@ -8,4 +8,4 @@ Achilles calls Agamemnon a man “with the eyes of a dog and the heart of a deer
 
 {{quote:3ee679d6-60cc-5bb8-b034-4413cba90a0b}}
 
-Achilles asks Thetis to go to Zeus “if ever you gladdened the heart of Zeus by word or deed”. The line looks forward to her own prayer, “if ever I helped you by word or deed” (1.503–504).
+Achilles asks Thetis to go to Zeus “if ever you gladdened the heart of Zeus by word or deed”. The line looks forward to her own prayer, “if ever among the immortals I helped you by word or deed” (1.503–504).

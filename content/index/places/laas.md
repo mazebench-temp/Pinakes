@@ -4,8 +4,7 @@ greek: Λᾶας
 kind: place
 tags: [peloponnese, city, laconia]
 summary: A town on the western shore of the Laconian Gulf, one of Menelaus' towns, whose name means "stone".
-grc: [Λάαν]
-except: [2.319]
+grc: [^Λάαν]
 ---
 
 {{quote:27794a15-3f68-52ee-b700-6d863cbe01b7}}

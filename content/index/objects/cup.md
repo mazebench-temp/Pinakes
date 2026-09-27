@@ -3,7 +3,7 @@ title: Cup
 greek: δέπας
 kind: object
 tags: [vessel, feast, libation]
-summary: Drinking cups: at Chryse they receive the first drops for the libation; on Olympus, Hephaestus puts a two-handled cup into Hera's hand to end the quarrel.
+summary: Drinking cups, δέπας and κύπελλον, from which men and gods drink and pour libations.
 aliases: [cups, two-handled cup, depas amphikypellon, goblet, kypellon]
 grc: [δεπάεσσιν, δέπας ἀμφικύπελλον, κύπελλον]
 en: [cups, two-handled cup, cup]

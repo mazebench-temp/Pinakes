@@ -7,7 +7,7 @@ summary: “Like a god,” praise of a hero's looks or bearing: θεοείκελ
 aliases: [like a god, theoeikelos]
 grc: [θεοείκελʼ]
 en: [godlike]
-of: [achilles, polyxeinus, ascanius]
+of: [achilles, polyxeinus, ascanius, paris]
 ---
 
 ## Meaning

@@ -3,7 +3,7 @@ title: No help to you
 greek: μή νύ τοι οὐ χραίσμῃ
 kind: formula
 tags: [speech-formula]
-summary: Threats and laments built on χραισμέω, “help, avail”: Agamemnon to Chryses (1.28) and Zeus to Hera (1.566), with a matching pair in the speeches of Achilles and Hephaestus (1.241–242, 1.588–589).
+summary: Threats and laments built on χραισμέω, “help, avail”: the protection a man counts on will be no help to him, or the speaker, for all his grief, will be powerless to help.
 aliases: [chraismeo]
 grc: [μή νύ τοι οὐ χραίσμ*, οὔ τι δυνήσεαι ἀχνύμενός περ, οὔ τι δυνήσομαι ἀχνύμενός περ]
 refs: [1.242, 1.589]

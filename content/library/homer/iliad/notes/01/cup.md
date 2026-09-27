@@ -1,3 +1,7 @@
+---
+summary: Drinking cups at Chryse receive the first drops for the libation; on Olympus, Hephaestus puts a two-handled cup into Hera's hand to end the quarrel.
+---
+
 At Chryse, after the feast, the young men fill the [[mixing-bowl|mixing bowls]] and serve everyone, first pouring a few drops into the cups for the gods (ἐπαρξάμενοι δεπάεσσιν, {{ref:Iliad 1.471}}; see [[libation|libation]]).
 
 On Olympus, [[Hephaestus]] springs up and puts a δέπας ἀμφικύπελλον, a “two-handled cup”, into his mother's hand, and begs her to endure. [[Hera]] smiles and takes it, and he goes round pouring nectar for the other gods (see [[cupbearing|cupbearing]]). The cup turns the quarrel into a feast (see [[quarrel-on-olympus]]).

@@ -3,11 +3,11 @@ title: Bulwark of the Achaeans
 greek: ἕρκος Ἀχαιοῖσιν
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: Nestor's description of [[Achilles]], "for all the Achaeans a mighty bulwark against evil war" (1.283–284). Elsewhere in the Iliad the title belongs to Telamonian Ajax.
+summary: “The bulwark of the Achaeans,” the title of Telamonian [[Ajax]], given once by Nestor to [[Achilles]].
 aliases: [herkos Achaion, bulwark]
 grc: [ἕρκος Ἀχαιοῖσιν]
 en: [mighty bulwark]
-of: [achilles]
+of: [achilles, ajax]
 ---
 
 ## Meaning

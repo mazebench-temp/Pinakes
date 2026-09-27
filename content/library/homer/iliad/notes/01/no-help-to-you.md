@@ -1,3 +1,7 @@
+---
+summary: Threats and laments built on χραισμέω, “help, avail”: Agamemnon to Chryses (1.28) and Zeus to Hera (1.566), with a matching pair in the speeches of Achilles and Hephaestus (1.241–242, 1.588–589).
+---
+
 {{quote:fcdd7b69-8fab-546b-8e7c-7d27b086cb0d}}
 
 {{quote:12ae56a3-8ec3-5809-a85b-5f2e39e57c55}}

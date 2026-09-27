@@ -7,7 +7,7 @@ summary: “With beautiful women,” an epithet of lands: [[Hellas]], Achaea, an
 aliases: [land of fair women, kalligynaix]
 grc: [καλλιγύναικα]
 en: [of the lovely women]
-of: [hellas]
+of: [hellas, achaea]
 ---
 
 ## Meaning

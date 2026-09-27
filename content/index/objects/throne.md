@@ -3,7 +3,7 @@ title: Throne
 greek: θρόνος
 kind: object
 tags: [divine-object, kingship]
-summary: The throne on which [[Zeus]] sits after the gods rise to meet him, and the golden throne of [[Hera]] in her standing epithet.
+summary: The θρόνος, a high seat of honor with a footstool, the seat of gods and of guests honored in a house; the gods' thrones are golden, made by [[Hephaestus]].
 aliases: [thrones, golden throne]
 grc: [θρόνου, χρυσόθρονος]
 en: [throne]

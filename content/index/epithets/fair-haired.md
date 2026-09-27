@@ -7,7 +7,7 @@ summary: “Yellow, fair”: the color of a hero's hair, the standing epithet of
 aliases: [blond, tawny, xanthos]
 grc: [ξανθῆς]
 en: [fair]
-of: [achilles, meleager]
+of: [achilles, meleager, menelaus]
 ---
 
 ## Meaning

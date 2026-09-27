@@ -9,6 +9,7 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 - `npm run check`: validate without writing. `npm test`: unit and content-integrity tests.
 - `npm run quotes`: register `{{quote:Iliad 1.1-7 | Title}}` tags and rewrite them as `{{quote:<uuid>}}`.
 - `npm run export`: static copy in `dist/` (entries bundled into one file).
+- `node scripts/checkquotes.mjs`: English quotations in articles that no longer match the translation.
 - `node scripts/lexicon.mjs skeleton|check|merge|lemmas`: build and validate a book's lexicon in parts.
 
 ## Conventions
@@ -21,9 +22,11 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
   cite precisely, and never invent a citation.
 - **Translation**: line-for-line, aligned by Greek line number. Fixed renderings of formulas and key
   words are in `content/library/homer/iliad/TRANSLATION.md`; keep them consistent.
-- **Greek forms** in entries are matched without accents; use `=form` for accent-sensitive matches
-  and `except:` for lines where a form means something else. The build warns about forms that
-  never match and lists unindexed capitalized words in `site/data/report.json`.
+- **Greek forms** in entries are matched without accents; use `=form` for accent-sensitive matches,
+  `^Form` for a name that is also a common word (Ὕλη, ὕλη "forest"), `!form` to exclude words a
+  broader pattern would catch (Τρώ* without `!=Τρῳ*`), and `except:` for single lines where a form
+  means something else. The build warns about forms that never match and lists unindexed
+  capitalized words in `site/data/report.json`.
 - **Quotes** have deterministic v5 UUIDs of `work ref | title` (namespace in `scripts/lib/uuid.mjs`,
   mirrored in `site/assets/js/lib/uuid.js`). Never hand-edit ids.
 - **Front matter** list items are always strings (`refs: [1.280]` stays "1.280").

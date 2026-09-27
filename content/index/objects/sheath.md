@@ -3,7 +3,7 @@ title: Sheath
 greek: κολεός
 kind: object
 tags: [weapon]
-summary: The scabbard of [[Achilles]]' sword, from which he begins to draw the blade against [[Agamemnon]] and into which he thrusts it back at [[Athena]]'s word.
+summary: The scabbard of a sword, κολεός, spelled κουλεός where the verse needs a long first syllable.
 aliases: [scabbard, koleos]
 grc: [κολεοῖο, κουλεὸν]
 en: [sheath]

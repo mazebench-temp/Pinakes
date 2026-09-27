@@ -3,7 +3,7 @@ title: Wide-ruling
 greek: εὐρὺ κρείων
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: The fuller title of [[Agamemnon]], “ruling far and wide,” used three times in Book 1 in the line-end formula Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων.
+summary: The fuller title of [[Agamemnon]], “ruling far and wide,” in the line-end formula Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων.
 aliases: [wide-ruling Agamemnon, eury kreion]
 grc: [εὐρὺ κρείων]
 en: [wide-ruling]

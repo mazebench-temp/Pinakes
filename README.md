@@ -1,7 +1,7 @@
 # Pinakes · Πίνακες
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
-catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 and 2: the Greek text, a
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 3: the Greek text, a
 new line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
 custom, word, epithet, formula, story and idea in them.
 
@@ -23,9 +23,10 @@ Requires Node 20 or later. There are no dependencies to install.
   book's structure file.
 - **Index**: entries in 18 kinds, from gods and heroes to Greek words, epithets, rituals and textual
   notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
-- **Scopes**: every article can be read whole or at one book (All · Iliad 1 · Iliad 2 …). The general
-  article (etymology, family, myth, later tradition) is shared; what the entry does in each book is a
-  note of its own. The chosen scope is remembered, so studying a book keeps every article on it.
+- **Scopes**: every article can be read whole, or at an author, a work or a book, chosen as a path
+  (Homer › Iliad › 3, with "About" for Homer or the Iliad as a whole). The general article (etymology,
+  family, myth, later tradition) is shared; what the entry does in each book is a note of its own. The
+  chosen scope is remembered, so studying a book keeps every article on it.
 - **Myths**: every story told, remembered or foretold, placed in mythic time from the Primordial age
   and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony.
 - **Tags**: faceted and nested. A tag includes its children, and tags can be combined.

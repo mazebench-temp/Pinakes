@@ -13,10 +13,6 @@ en: [cranes]
 
 {{notes}}
 
-## Elsewhere in Homer
-
-Book 3 opens with a simile of cranes. The Trojans come on with clamor and shouting like birds, as the clamor (κλαγγή) of cranes rises before the sky when they flee the winter and its endless rain and fly with cries to the streams of Oceanus, “bringing slaughter and doom to the Pygmy men”. The Achaeans advance in silence (Iliad 3.2–9). The words for the cranes' war, φόνον καὶ κῆρα φέρουσαι, are the ones Nestor used of the Argives sailing for Troy, “bringing slaughter and doom to the Trojans” (φόνον καὶ κῆρα φέροντες, Iliad 2.352).
-
 ## Outside Homer
 
 [[Hesiod]] marks the farmer's year by the crane: when you hear its voice from the clouds, crying year after year, it brings the sign for plowing and shows the season of rainy winter (*Works and Days* 448–451). [[Aristotle]] took the war with the Pygmies seriously. The cranes, he says, fly from the Scythian plains to the marshes above Egypt where the Nile rises, and there the Pygmies live, “and this is no fable” (*History of Animals* 597a). The battle of the Pygmies and the cranes is painted on the foot of the François Vase, an Athenian vase of about 570 BCE.

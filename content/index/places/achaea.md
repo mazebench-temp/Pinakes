@@ -3,7 +3,7 @@ title: Achaea
 greek: Ἀχαιΐς γαῖα
 kind: place
 tags: [mainland-greece]
-summary: "The land of Achaea": Greece as the homeland of the Achaeans, on which Nestor says a great sorrow is coming.
+summary: "The land of Achaea": Greece as the homeland of the [[Achaeans]]. Homer uses Ἀχαιΐς with γαῖα ("land") or alone, as a name.
 aliases: [land of Achaea, Achaean land]
 grc: [Ἀχαιΐδα]
 en: [land of Achaea]

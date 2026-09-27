@@ -7,7 +7,7 @@ summary: δαιμόνιε, δαιμονίη: a vocative of reproach and intimacy
 aliases: [daimonie, possessed one, my strange one]
 grc: [δαιμονίη]
 en: [Strange one]
-of: [hera, kings, commoners]
+of: [hera, kings, commoners, aphrodite]
 ---
 
 ## Meaning

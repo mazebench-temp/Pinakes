@@ -3,11 +3,11 @@ title: Marshals of the people
 greek: κοσμήτορε λαῶν
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: The title of the two sons of Atreus ([[atreidae]]) in the account of Chryses' plea (1.16, 1.375): the men who set the army in order.
+summary: κοσμήτορε λαῶν, “the two marshals of the people,” a dual title for a pair of brothers who lead: the sons of Atreus ([[atreidae]]), and Helen's brothers [[Castor]] and [[Polydeuces]].
 aliases: [kosmetore laon]
 grc: [κοσμήτορε λαῶν]
 en: [marshals of the people]
-of: [atreidae]
+of: [atreidae, castor, polydeuces]
 ---
 
 ## Meaning

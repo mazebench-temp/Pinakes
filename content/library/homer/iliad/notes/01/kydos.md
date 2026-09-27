@@ -1,3 +1,6 @@
+---
+summary: [[Nestor]] says Zeus has given κῦδος to the scepter-bearing king; the assembly is κυδιάνειρα, “where men win glory”.
+---
 {{quote:8fcb2ba6-e97c-5f56-a2c0-932c3112f138}}
 
 Nestor's case for Agamemnon rests on a gift from Zeus. The scepter-bearing king has been given κῦδος, and so a greater share of honor.

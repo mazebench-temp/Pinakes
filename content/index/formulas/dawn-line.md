@@ -3,7 +3,7 @@ title: When Dawn appeared
 greek: ἦμος δ’ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς
 kind: formula
 tags: [type-scene, time]
-summary: The whole-line formula for daybreak, “when early-born, rosy-fingered Dawn appeared” (1.477), with the book's other dawn formula, “the twelfth dawn” (1.493).
+summary: The whole-line formula for daybreak, “when early-born Dawn appeared, the rosy-fingered” (1.477), with the book's other dawn formula, “the twelfth dawn” (1.493).
 aliases: [dawn formula, daybreak]
 grc: [ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς, δυωδεκάτη γένετʼ ἠώς]
 en: [appeared, twelfth dawn after that had come]

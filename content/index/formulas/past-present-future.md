@@ -3,7 +3,7 @@ title: What is, what will be, what was
 greek: τά τ’ ἐόντα τά τ’ ἐσσόμενα πρό τ’ ἐόντα
 kind: formula
 tags: [figure, divination]
-summary: The description of a seer's knowledge, “the things that are, the things that will be, and the things that were before” (1.70). Hesiod gives the Muses the same knowledge in the same words.
+summary: The description of a seer's knowledge, “the things that are, the things to come, and the things that were before” (1.70). Hesiod gives the Muses the same knowledge in the same words.
 aliases: [past present and future, seer's knowledge]
 grc: [τά τʼ ἐόντα τά τʼ ἐσσόμενα πρό τʼ ἐόντα]
 en:

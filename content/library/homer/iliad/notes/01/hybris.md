@@ -1,3 +1,6 @@
+---
+summary: [[Achilles]] calls [[Agamemnon]]'s threat to seize his prize ὕβρις, and [[Athena]] takes up the word, promising gifts three times over “because of this outrage”.
+---
 {{quote:56b0e460-ce37-58d6-9529-f72572caedca}}
 
 When Athena seizes his hair, Achilles assumes she has come to see Agamemnon's ὕβρις, and he predicts that the king will soon lose his life through his ὑπεροπλίαι. At this point the outrage is still only a threat. Briseis has not yet been taken.

@@ -34,6 +34,13 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἑκατόμβη | hecatomb | |
 | ὕβρις | arrogance / outrage | |
 | θυμός, κῆρ, φρένες | heart, spirit, mind | chosen by context |
+| φιλότης | friendship; love | "friendship" of the truce (3.73, 3.94, 3.256), "love" of the bed (3.441, 3.445) |
+| ἵμερος, ἔρος (ἔρως) | longing, desire | kept apart: "sweet longing" 3.139, 3.446; "desire" 3.442 |
+| αἴτιος, αἰτίη | to blame | |
+| νέμεσις | blame | "There is no blame" (3.156) |
+| ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290) |
+| δράκων | serpent | |
+| κουλεόν, κολεόν | sheath | |
 
 ## Epithets and formulas
 
@@ -103,6 +110,35 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ὦ πόποι | Ah |
 | θεῖος | divine |
 | δαΐφρων | wise-hearted |
+| Ἀλέξανδρος θεοειδής | godlike Alexander (Ἀλέξανδρος stays "Alexander", Πάρις "Paris") |
+| Δύσπαρι (3.39, a coinage of Hector's) | Evil Paris |
+| ἀρηΐφιλος Μενέλαος | Menelaus, dear to Ares |
+| κορυθαίολος Ἕκτωρ | Hector of the gleaming helmet |
+| Ἑλένη … δῖα γυναικῶν | Helen, brilliant among women |
+| Ἑλένη Διὸς ἐκγεγαυῖα / κούρη Διὸς αἰγιόχοιο | Helen, child of Zeus / daughter of aegis-bearing Zeus |
+| τανύπεπλος | of the long robes |
+| φιλομμειδὴς Ἀφροδίτη / χρυσέη Ἀφροδίτη | laughter-loving Aphrodite / golden Aphrodite |
+| ὅρκια πιστὰ τάμνειν | swear a trusty truce; ὅρκια πιστά as things carried: "the offerings for the trusty oaths" |
+| φιλότητα καὶ ὅρκια πιστὰ ταμόντες | making friendship and swearing a trusty truce |
+| Ἄργος ἱππόβοτον καὶ Ἀχαιΐδα καλλιγύναικα | horse-pasturing Argos and Achaea of the lovely women |
+| Τρῶες ἱππόδαμοι / Κάστωρ ἱππόδαμος | the horse-taming Trojans / Castor, tamer of horses |
+| Γῆ, Ἠέλιος (witnesses of oaths) | Earth, the Sun |
+| χθὼν πουλυβότειρα / φυσίζοος αἶα | the bountiful earth / the life-giving earth |
+| Ζεῦ πάτερ Ἴδηθεν μεδέων κύδιστε μέγιστε | Father Zeus, who rule from Ida, most glorious, greatest |
+| ὧδε δέ τις εἴπεσκεν Ἀχαιῶν τε Τρώων τε | and this is what a man would say, of Achaeans and Trojans alike |
+| τοῖσι δὲ καὶ μετέειπε | And among them spoke also |
+| τὸν δʼ αὖτε προσέειπε | spoke to him in turn |
+| ὣς εἰπών, ὣς εἰποῦσα | So saying |
+| μεγάλʼ εὔχετο χεῖρας ἀνασχών | prayed aloud, lifting up his hands |
+| νηλέϊ χαλκῷ | with the pitiless bronze |
+| δολιχόσκιον ἔγχος / ξίφος ἀργυρόηλον | long-shadowed spear / silver-studded sword |
+| πεπνυμένος | wise |
+| ἀμπελόεις | vine-rich |
+| κραναός | craggy (πετρήεις is "rocky"; Κραναή, 3.445, is an island) |
+| ἀντιάνειραι | the equals of men |
+| Δαρδανίδης (of Priam) / Λαομεδοντιάδης | descendant of Dardanus / son of Laomedon |
+| πὺξ ἀγαθός | good with his fists |
+| θυγατρῶν εἶδος ἀρίστη | most beautiful in form of the daughters (2.715, 3.124) |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -131,3 +167,19 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **2.599** — πηρόν: "maimed", later "blind"; what the Muses did to Thamyris is not said. Rendered "maimed".
 - **2.763** — Φηρητιάδαο: Eumelus, grandson of Pheres.
 - **2.872** — ὃς … ἠΰτε κούρη: Nastes or Amphimachus; the Greek does not say which. Rendered "he".
+- **3.57** — λάϊνον ἕσσο χιτῶνα: "you would have put on a tunic of stone". Usually understood as death
+  by stoning; some take it as a cairn heaped over the dead. Rendered literally.
+- **3.100** — Ἀλεξάνδρου ἕνεκʼ ἀρχῆς: "because Alexander began it". An ancient variant reads ἄτης
+  ("folly"), the ending of the same phrase at 6.356 and 24.28.
+- **3.126** — δίπλακα: a cloak folded double, or woven double width. Rendered "double-folded".
+- **3.152** — ὄπα λειριόεσσαν: literally "a lily-like voice"; the point of the comparison (delicate,
+  clear, sweet) is debated. Rendered "lily-soft voice".
+- **3.175** — τηλυγέτην: "darling" or "late-born, only"; the sense is disputed. Rendered "darling".
+- **3.180** — κυνώπιδος agrees with the "me" implied in ἐμός: "brother-in-law of dog-faced me".
+  εἴ ποτʼ ἔην γε ("if ever he was") speaks of a past that no longer seems real. Rendered "dog-faced
+  as I am" and "if that was ever so".
+- **3.206** — ἀγγελίης: the genitive of ἀγγελίη ("on an embassy about you"), as rendered. Aristarchus
+  took it as a masculine noun, "a messenger".
+- **3.278–279** — οἳ … τίνυσθον is dual: two powers below the earth who punish perjurers after death,
+  usually taken to be Hades and Persephone. Rendered "you two who below the earth punish dead men".
+

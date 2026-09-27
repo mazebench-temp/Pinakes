@@ -1,3 +1,7 @@
+---
+summary: Agamemnon sends Talthybius with Eurybates to take Briseis from Achilles' hut.
+---
+
 {{quote:27366c73-2e5f-5ac0-9dce-142c14c490cf}}
 
 {{quote:bf702b0c-378f-5eff-a608-c541243193fa}}

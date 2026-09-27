@@ -3,7 +3,7 @@ title: Chest
 greek: στῆθος
 kind: term
 tags: [body, mind]
-summary: The chest or breast, container of the heart, spirit and mind. A king keeps his grudge “in his chest”; [[Achilles]]' heart deliberates “within his shaggy chest”.
+summary: The chest or breast: the part of the body that armor covers, and the container of the heart, spirit and mind.
 aliases: [stēthos, stethos, breast, stēthea]
 grc: [στήθεσσιν]
 en: [chest]

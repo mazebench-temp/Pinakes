@@ -4,7 +4,7 @@ greek: πολυστάφυλος
 kind: epithet
 tags: [mainland-greece, island]
 summary: “With many clusters of grapes,” an epithet of two towns in the Catalogue of Ships: [[Arne]] in Boeotia and [[Histiaea]] in Euboea.
-aliases: [vine-rich, polystaphylos]
+aliases: [polystaphylos]
 grc: [πολυστάφυλον]
 en: [rich in grapes]
 of: [arne, histiaea]

@@ -3,7 +3,7 @@ title: Talthybius
 greek: Ταλθύβιος
 kind: person
 tags: [herald, achaean]
-summary: One of Agamemnon's two heralds, sent with [[Eurybates]] to take Briseis from Achilles' hut.
+summary: One of [[Agamemnon]]'s two heralds, with [[Eurybates]]. He carries the king's orders and serves at his sacrifices and oaths.
 grc: [Ταλθύβι*]
 en: [Talthybius]
 refs: [1.327, 1.331, 1.347]

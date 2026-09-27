@@ -20,4 +20,4 @@ relations:
 
 ## Outside Homer
 
-Paris' abduction of Helen from Menelaus' house was told in the *Cypria*. Menelaus fights Paris in a duel in Iliad 3. In the Odyssey he is home at Sparta with Helen after years of wandering by way of Egypt (Book 4).
+Paris' abduction of Helen from Menelaus' house was told in the *Cypria*. In the Odyssey he is home at Sparta with Helen after years of wandering by way of Egypt (Book 4).

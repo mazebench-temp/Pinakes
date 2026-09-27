@@ -7,7 +7,7 @@ summary: “Shining, divine”: a general honorific of heroes and heroines, godd
 aliases: [divine, glorious, dios]
 grc: [=δῖος]
 en: [brilliant]
-of: [achilles, odysseus, nestor, agamemnon, alcestis, aphrodite, cephisus, elis, arisbe]
+of: [achilles, odysseus, nestor, agamemnon, alcestis, aphrodite, cephisus, elis, arisbe, helen, paris]
 ---
 
 ## Meaning

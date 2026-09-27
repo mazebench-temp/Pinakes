@@ -1,5 +1,6 @@
 import { el, esc, icon, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
+import { presentIn, firstKeyIn, bookScope, currentBook } from '../lib/scope.js';
 
 export const BOOK_LETTERS = 'ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ';
 
@@ -8,7 +9,10 @@ export async function render() {
   const last = store.prefs.lastRead;
   const lastWork = last && cat.by.works.get(last.work);
   const featured = cat.entries.filter(e => e.featured).sort((a, b) => (a.sort ?? 99) - (b.sort ?? 99) || a.title.localeCompare(b.title));
-  const stories = cat.entries.filter(e => e.kind === 'story');
+  const cur = currentBook(cat) ?? { work: 'homer.iliad', book: 1 };
+  const curScope = bookScope(cur.work, cur.book);
+  const stories = cat.entries.filter(e => e.kind === 'story' && presentIn(e, curScope, cat))
+    .sort((a, b) => firstKeyIn(a, curScope, cat).localeCompare(firstKeyIn(b, curScope, cat)));
 
   const workCard = w => {
     const author = cat.by.authors.get(w.author);
@@ -58,11 +62,11 @@ export async function render() {
     <section class="section">
       <div class="section-head"><h2 class="section-title">The Index</h2><a class="section-link" href="#/index">See all</a></div>
       <div class="stat-grid">
-        <a class="stat" href="#/book/homer.iliad/1"><b>${cat.stats.lines.toLocaleString()}</b><span>lines, Greek and English</span></a>
+        <a class="stat" href="#/book/${esc(cur.work)}/${cur.book}"><b>${cat.stats.lines.toLocaleString()}</b><span>lines, Greek and English</span></a>
         <a class="stat" href="#/index"><b>${cat.stats.entries.toLocaleString()}</b><span>index entries</span></a>
         <a class="stat" href="#/myths"><b>${cat.stats.stories}</b><span>stories and myths</span></a>
         <a class="stat" href="#/tags"><b>${cat.tags.filter(t => t.count).length}</b><span>tags in use</span></a>
-        <a class="stat" href="#/vocab/homer.iliad/${cat.by.works.get('homer.iliad')?.available.at(-1) ?? 1}"><b>${cat.stats.lemmas.toLocaleString()}</b><span>Greek words, glossed</span></a>
+        <a class="stat" href="#/vocab/${esc(cur.work)}/${cur.book}"><b>${cat.stats.lemmas.toLocaleString()}</b><span>Greek words, glossed</span></a>
         <a class="stat" href="#/quotes"><b>${(cat.stats.passages ?? cat.stats.quotes).toLocaleString()}</b><span>passages quoted</span></a>
       </div>
     </section>
@@ -78,17 +82,17 @@ export async function render() {
     </section>` : ''}
 
     ${stories.length ? `<section class="section">
-      <div class="section-head"><h2 class="section-title">Stories in Book 1</h2><a class="section-link" href="#/myths">Timeline</a></div>
-      <div class="list">${stories.sort((a, b) => a.firstKey.localeCompare(b.firstKey)).slice(0, 6).map(s => {
+      <div class="section-head"><h2 class="section-title">Stories in Book ${cur.book}</h2><a class="section-link" href="#/myths">Timeline</a></div>
+      <div class="list">${stories.slice(0, 6).map(s => {
         const p = cat.by.periods.get(s.period);
         return `<a class="row has-icon" href="#/entry/${s.id}"><span class="row-icon" style="--h:34">${icon('amphora')}</span>
-          <span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')}${s.first ? ` · ${esc(s.first)}` : ''}</span></span>${icon('chevron', 'chev')}</a>`;
+          <span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')}${(m => m ? ` · ${+m[1]}.${+m[2]}` : '')(firstKeyIn(s, curScope, cat).match(/(\d+)\.(\d+)$/))}</span></span>${icon('chevron', 'chev')}</a>`;
       }).join('')}</div>
     </section>` : ''}
 
     <section class="section">
       <div class="list">
-        <a class="row has-icon" href="#/vocab/homer.iliad/1"><span class="row-icon" style="--h:290">${icon('textformat')}</span><span class="row-main"><span class="row-title"><span>Vocabulary of Book 1</span></span><span class="row-sub one">Every Greek word, by frequency, with glosses</span></span>${icon('chevron', 'chev')}</a>
+        <a class="row has-icon" href="#/vocab/${esc(cur.work)}/${cur.book}"><span class="row-icon" style="--h:290">${icon('textformat')}</span><span class="row-main"><span class="row-title"><span>Vocabulary of Book ${cur.book}</span></span><span class="row-sub one">Every Greek word, by frequency, with glosses</span></span>${icon('chevron', 'chev')}</a>
         <a class="row has-icon" href="#/about"><span class="row-icon" style="--h:226">${icon('info')}</span><span class="row-main"><span class="row-title"><span>About this edition</span></span><span class="row-sub one">Text, translation conventions, and the state of the index</span></span>${icon('chevron', 'chev')}</a>
       </div>
     </section>

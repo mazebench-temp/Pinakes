@@ -7,7 +7,7 @@ summary: “A shoot of Ares,” a warrior as if grown from the war god's stock: 
 aliases: [scion of Ares, ozos Areos]
 grc: [ὄζος Ἄρηος, ὄζον Ἄρηος]
 en: [offshoot of]
-of: [elephenor, licymnius, podarces, leonteus, pylaeus]
+of: [elephenor, licymnius, podarces, leonteus, pylaeus, hicetaon]
 ---
 
 ## Meaning

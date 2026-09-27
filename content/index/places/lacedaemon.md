@@ -18,4 +18,4 @@ The towns of the land are [[Pharis]], [[Sparta]], [[Messe]], [[Bryseae]], [[auge
 
 ## Elsewhere in Homer
 
-Lacedaemon is Helen's homeland. From the wall of Troy she looks for her brothers Castor and Polydeuces, not knowing that the earth already holds them "in Lacedaemon, in their own native land" (3.243–244), and Paris recalls how he first carried her off "from lovely Lacedaemon" (3.443). In the Odyssey Telemachus visits Menelaus and Helen there (Od. 4).
+Lacedaemon is Helen's homeland. In the Odyssey Telemachus visits Menelaus and Helen there (Od. 4).

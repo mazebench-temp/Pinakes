@@ -11,7 +11,7 @@ en: [people, army of the Achaeans]
 
 ## Meaning
 
-λαός, usually in the plural λαοί, is the people as a body of men, and above all the army: the men who follow a leader to war. It is the word for the relation between leader and led. The leaders are κοσμήτορες λαῶν, “marshals of the people” (1.16, 1.375), and ποιμένες λαῶν, “shepherds of the people” (1.263). The Mycenaean tablets name a high official *ra-wa-ke-ta*, “leader of the people”. A modern proposal, much disputed, derives Achilles' name from [[achos|ἄχος]] and λαός: “he whose people have grief”.
+λαός, usually in the plural λαοί, is the people as a body of men, and above all the army: the men who follow a leader to war. It is the word for the relation between leader and led. The leaders are κοσμήτορες λαῶν, “marshals of the people” (1.16, 1.375), and ποιμένες λαῶν, “shepherd of the people” (1.263). The Mycenaean tablets name a high official *ra-wa-ke-ta*, “leader of the people”. A modern proposal, much disputed, derives Achilles' name from [[achos|ἄχος]] and λαός: “he whose people have grief”.
 
 {{notes}}
 

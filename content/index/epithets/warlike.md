@@ -7,7 +7,7 @@ summary: “Belonging to Ares, warlike,” an epithet of warriors, among them Me
 aliases: [martial, areios]
 grc: [ἀρήϊος]
 en: [warlike]
-of: [protesilaus]
+of: [protesilaus, menelaus]
 ---
 
 ## Meaning

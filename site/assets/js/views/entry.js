@@ -2,7 +2,7 @@ import { el, esc, icon, on, plural, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { enhanceArticle } from '../ui/components.js';
 import { entryRow } from './index.js';
-import { ALL, within, label as scopeLabel, longLabel, entryScopes, chooseScope, remember, presentIn } from '../lib/scope.js';
+import { ALL, within, label as scopeLabel, longLabel, chooseScope, remember, presentIn, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
 
 /** Wrap character ranges of `text` in <mark>. */
 export function mark(text, ranges = []) {
@@ -48,9 +48,11 @@ export async function render(route, { setQuery }) {
   const notes = e.notes ?? [];
 
   // ── Scope ────────────────────────────────────────────────────────────────
-  const scopes = entryScopes(record, cat);
-  const offered = scopes.length > 1 ? [ALL, ...scopes] : [];
-  let S = offered.length ? chooseScope(route.query.in, scopes) : ALL;
+  // Scope: author › work › book, shown when the entry appears in more than one place.
+  const present = [...new Set([...Object.keys(record.in ?? {}), ...(record.notes ?? [])])];
+  const tree = scopeTree(present, cat);
+  const picking = present.length > 1;
+  let S = picking ? chooseScope(route.query.in, treeScopes(tree)) : ALL;
   if (route.query.in && route.query.in === S) remember(S);
   const inS = (w, b) => S === ALL || within(`${w}.${b}`, S, cat);
 
@@ -71,10 +73,7 @@ export async function render(route, { setQuery }) {
       ${e.greek ? `<div class="entry-greek"><span class="grc" lang="grc">${esc(e.greek)}</span>${e.translit ? `<span class="rom">${esc(e.translit)}</span>` : ''}</div>` : ''}
       ${storyMeta}${ofLine}
       ${e.summaryHtml ? `<p class="lead article" style="font-size:18px">${e.summaryHtml}</p>` : ''}
-      ${offered.length ? `<div class="scope-bar" role="tablist" aria-label="Study this entry in">${offered.map(s => {
-        const n = s === ALL ? record.lines : Object.entries(record.in ?? {}).reduce((t, [k, [c]]) => t + (within(k, s, cat) ? c : 0), 0);
-        return `<button class="scope-chip" type="button" role="tab" data-scope="${esc(s)}" aria-selected="${s === S}">${esc(scopeLabel(s, cat))}${n ? `<span class="n">${n}</span>` : ''}</button>`;
-      }).join('')}</div>` : ''}
+      ${picking ? '<div class="scope-picker"></div>' : ''}
       <div class="entry-scoped-head"></div>
       ${e.source ? `<div class="entry-stats"><span>Source: <b>${esc(e.source)}</b></span></div>` : ''}
       <nav class="toc" aria-label="On this page"></nav>
@@ -82,6 +81,10 @@ export async function render(route, { setQuery }) {
     <div class="entry-body"></div>
   </div>`);
   const scopedHead = view.querySelector('.entry-scoped-head');
+  const picker = view.querySelector('.scope-picker');
+  const lineCount = s => s === ALL ? record.lines : Object.entries(record.in ?? {}).reduce((t, [k, [c]]) => t + (within(k, s, cat) ? c : 0), 0);
+  const drawPicker = () => { if (picker) picker.innerHTML = pickerHtml(tree, S, cat, { counts: lineCount }); };
+  drawPicker();
   const body = view.querySelector('.entry-body');
   const toc = view.querySelector('.toc');
   let byBook = new Map();
@@ -108,25 +111,31 @@ export async function render(route, { setQuery }) {
       speeches.length ? `<span>speaks <b>${speeches.reduce((s, sp) => s + sp.to - sp.from + 1, 0)}</b> lines in <b>${speeches.length}</b> ${speeches.length === 1 ? 'speech' : 'speeches'}</span>` : '',
       first ? `<span>first at <a href="#/read/${first.work}/${first.book}?l=${first.n}"><b>${first.book}.${first.n}</b></a></span>` : '',
     ].filter(Boolean).join('');
-    const leads = S === ALL ? [] : shown.filter(n => n.summaryHtml);
+    const leads = S === ALL ? [] : shown.filter(n => n.scope === S && n.summaryHtml);
     scopedHead.innerHTML = `${leads.map(n => `<p class="scope-lead article"><span class="scope-tag">${esc(scopeLabel(n.scope, cat))}</span>${n.summaryHtml}</p>`).join('')}
       ${stats ? `<div class="entry-stats">${stats}</div>` : ''}
       ${S !== ALL && !occ.length && !shown.length ? `<p class="footnote-text">Not named in ${esc(longLabel(S, cat))}.</p>` : ''}`;
 
-    // The article: whole, with the notes in place; or, in a scope, its notes first and the rest folded away.
+    // The article: whole, with the notes of the scope in place (everything, or an author or a work as a
+    // whole); or, in a book, that book's notes first and the general article folded away.
     const noteSection = n => `<section class="note-part" data-fnscope data-scope="${esc(n.scope)}"><h2 id="in-${slug(scopeLabel(n.scope, cat))}">${esc(n.heading ?? `In ${scopeLabel(n.scope, cat)}`)}</h2>${demote(n.html)}</section>`;
     const base = e.html ?? '';
+    // A note may be only a summary. At a book, that summary already leads the header; elsewhere it
+    // stands as the note's section.
+    const hasBody = n => !!n.html?.replace(/<[^>]+>/g, '').trim();
     let article;
-    if (S === ALL) {
-      const parts = notes.map(noteSection).join('');
+    if (S === ALL || cat.by.scopes.get(S)?.kind !== 'book') {
+      const parts = shown.map(n => hasBody(n) ? n : { ...n, html: n.summaryHtml ? `<p>${n.summaryHtml}</p>` : '' })
+        .filter(hasBody).map(noteSection).join('');
       article = base.includes('notes-slot') ? base.replace('<div class="notes-slot"></div>', parts) : base + parts;
       article = article ? `<div class="article" data-fnscope>${article}</div>` : '';
     } else {
       const general = base.replace('<div class="notes-slot"></div>', '');
-      const one = shown.length === 1 && shown[0].scope === S;
+      const full = shown.filter(hasBody);
+      const one = full.length === 1 && full[0].scope === S;
       const scoped = one
-        ? `<div class="article note-part" data-fnscope><div class="scope-eyebrow">${esc(shown[0].heading ?? `In ${scopeLabel(S, cat)}`)}</div>${shown[0].html}</div>`
-        : shown.length ? `<div class="article">${shown.map(noteSection).join('')}</div>` : '';
+        ? `<div class="article note-part" data-fnscope><div class="scope-eyebrow">${esc(full[0].heading ?? `In ${scopeLabel(S, cat)}`)}</div>${full[0].html}</div>`
+        : full.length ? `<div class="article">${full.map(noteSection).join('')}</div>` : '';
       const generalTitles = (e.headings ?? []).filter(h => h.level === 2).map(h => h.text);
       article = scoped && general.trim()
         ? `${scoped}<details class="general-part"><summary><span class="gp-title">About ${esc(e.title)}</span><span class="gp-sub">${esc(generalTitles.slice(0, 5).join(' · ') || 'The general article')}</span>${icon('chevron', 'chev')}</summary><div class="article" data-fnscope>${general}</div></details>`
@@ -204,7 +213,7 @@ export async function render(route, { setQuery }) {
     S = b.dataset.scope;
     remember(S);
     setQuery({ in: S === ALL ? '' : S, s: '' });
-    view.querySelectorAll('.scope-chip').forEach(c => c.setAttribute('aria-selected', String(c === b)));
+    drawPicker();
     draw();
   });
   view.addEventListener('toggle', ev => { if (ev.target.matches?.('details.general-part')) buildToc(); }, true);

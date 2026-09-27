@@ -15,7 +15,7 @@ passages:
 
 φρένες (singular φρήν) are a physical organ in the chest and the seat of thinking, understanding and feeling. Most take the organ to be the midriff or diaphragm; R. B. Onians (*The Origins of European Thought*, 1951) argued for the lungs. Things are put into the φρένες, fill them, reach them, and are dear to them. They can be sound or damaged: Agamemnon's, says Achilles, are “ruinous” (ὀλοιαί, 1.342). The gods can take a man's φρένες away (19.137).
 
-From φρήν comes φρονέω, “think, have in mind, intend”. Calchas and Nestor both speak “with good intent” (ἐὺ φρονέων, 1.73, 1.253), and Hera accuses Zeus of pondering secret things apart from her (κρυπτάδια φρονέοντα, 1.542). The compound κερδαλεόφρων, “with mind set on gain”, is one of Achilles' insults (1.149).
+From φρήν comes φρονέω, “think, have in mind, intend”. Calchas and Nestor both speak “with good intent” (ἐὺ φρονέων, 1.73, 1.253), and Hera accuses Zeus of pondering secret things apart from her (κρυπτάδια φρονέοντα, 1.542). The compound κερδαλεόφρων, “with your mind set on gain”, is one of Achilles' insults (1.149).
 
 {{notes}}
 

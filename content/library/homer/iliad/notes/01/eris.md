@@ -7,7 +7,7 @@ The proem dates the story from a single event: the day when the son of Atreus an
 
 {{quote:e6b47a75-7802-5b64-bdf2-4f6fe8b1a16f}}
 
-Agamemnon accuses Achilles of loving strife. In Book 5 Zeus says the same line to Ares, after telling him that he is the most hateful to him of all the gods (5.890–891). Agamemnon's “most hateful to me of the Zeus-nurtured kings” (1.176) sets him in the place of Zeus and Achilles in the place of the war god (see [[strife-is-always-dear]]).
+Agamemnon accuses Achilles of loving strife. In Book 5 Zeus says the same line to Ares, after telling him that he is the most hateful to him of all the gods (5.890–891). Agamemnon's “Of all the kings whom Zeus has nurtured, you are the most hateful to me” (1.176) sets him in the place of Zeus and Achilles in the place of the war god (see [[strife-is-always-dear]]).
 
 Athena tells Achilles to cease from strife (λῆγʼ ἔριδος, 1.210). Nestor tells him not to strive with a king (1.277). The narrator reports that Agamemnon did not cease from the strife he began (1.319).
 

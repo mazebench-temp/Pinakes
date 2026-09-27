@@ -4,8 +4,7 @@ greek: Ὕλη
 kind: place
 tags: [mainland-greece, city, boeotia]
 summary: A town of the [[Boeotians]] on the lake later called Hylice. The Iliad names it again as the home of the leatherworker who made Ajax's shield.
-grc: [Ὕλην]
-except: [2.455]
+grc: [^Ὕλην]
 ---
 
 {{quote:e58ddc63-c598-5414-ab00-92d46408f0b5}}

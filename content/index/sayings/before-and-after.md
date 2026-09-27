@@ -3,7 +3,9 @@ title: “Before and after”
 greek: ἅμα πρόσσω καὶ ὀπίσσω
 kind: saying
 tags: [mind, kingship]
-summary: Achilles says Agamemnon "does not know how to look both before and after". The phrase names the foresight a leader needs.
+summary: To look “before and after” (ἅμα πρόσσω καὶ ὀπίσσω) is the foresight of the wise, the power to see what has been and what is coming. Achilles denies it to Agamemnon; Menelaus credits it to old men.
+grc: ["πρόσσω καὶ ὀπίσσω"]
+en: [before and after]
 passages:
   - 1.342-344 | Agamemnon's blindness
 ---

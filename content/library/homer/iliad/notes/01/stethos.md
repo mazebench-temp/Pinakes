@@ -1,3 +1,6 @@
+---
+summary: A king keeps his grudge “in his chest”; [[Achilles]]' heart deliberates “within his shaggy chest”.
+---
 {{quote:b875c99c-a6e0-5780-9e42-38f09fea40c3}}
 
 Calchas says that a king who is angry keeps his grudge “in his chest” until he has satisfied it.

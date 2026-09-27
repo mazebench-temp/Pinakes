@@ -7,7 +7,7 @@ summary: “A man equal to the gods,” a line-end formula of praise for heroes 
 aliases: [godlike man, isotheos phos]
 grc: [ἰσόθεος φὼς]
 en: [a man equal to the gods]
-of: [euryalus]
+of: [euryalus, priam]
 ---
 
 ## Meaning

@@ -1,6 +1,6 @@
 # Studying a new book: the workflow
 
-How Iliad 2 was added, as a checklist for the next book. Every step ends with `npm run check`
+How Iliad 2 and 3 were added, as a checklist for the next book. Every step ends with `npm run check`
 and `npm test` clean.
 
 1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other
@@ -12,7 +12,9 @@ and `npm test` clean.
 3. **Translation** (`en/NN.txt`). Keep line fidelity, and keep each name on its own line. Repeated
    Greek lines get the same English, and so do Book 1's formulas (check `TRANSLATION.md` and the
    earlier books for exact repeats). Then have an independent audit compare every line with the
-   Greek, and record new formulas and disputed lines in `TRANSLATION.md`.
+   Greek, and record new formulas and disputed lines in `TRANSLATION.md`. Tell the index writers
+   about every change the audit makes, and run `node scripts/checkquotes.mjs` after the last one:
+   articles written while the translation moved will quote old wording.
 4. **Structure** (`structure/NN.json`): scenes covering every line, speeches that match the
    quotation marks, days. Speakers and addressees must be entry ids.
 5. **Lexicon.** `node scripts/lexicon.mjs skeleton` makes parts of about 125 lines; analyze them in
@@ -28,8 +30,10 @@ and `npm test` clean.
    New things get entry files. Existing entries get a note in `notes/NN/`, whose front matter adds the
    new forms. Summaries stay general; a summary that was only about an earlier book moves into that
    book's note.
-7. **Integration.** Fix the collisions the writers report (shared names need `except:`). Merge
-   duplicate quote titles, then run `npm run quotes`. Check that the report has no unindexed names,
+7. **Integration.** Fix the collisions the writers report. A name that is also a common word gets
+   `^` (only when capitalized); a clash that will recur in every book gets an exclusion (`!`);
+   a one-off gets `except:`. Names shared by several people are listed in `docs/homonyms.md`;
+   add the book's new ones. Merge duplicate quote titles, then run `npm run quotes`. Check that the report has no unindexed names,
    no missing links and no "English form never found" warnings. Tag new places by region.
 8. **Publish.** Run `npm run export`, then republish `dist/artifact.html` with every file under
    `dist/`.

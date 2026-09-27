@@ -7,7 +7,7 @@ summary: “Hated, loathsome,” an epithet of war and death, of grief and of ha
 aliases: [loathsome, stygeros]
 grc: [στυγερῷ]
 en: [hateful]
-of: [ares]
+of: [ares, helen]
 ---
 
 ## Meaning

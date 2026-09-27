@@ -3,7 +3,7 @@ title: Hades
 greek: Ἀΐδης
 kind: god
 tags: [cronids, chthonic]
-summary: God of the dead and, by extension, the realm of the dead. The proem says Achilles' wrath hurled many souls "to Hades".
+summary: God of the dead, brother of [[Zeus]] and [[Poseidon]], whose share of the world is the realm beneath the earth. In Homer the dead go down to his house.
 aliases: [Aides, Aidoneus]
 grc: [Ἄϊδι]
 en: [Hades]

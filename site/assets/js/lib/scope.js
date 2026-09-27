@@ -42,23 +42,6 @@ export function firstKeyIn(e, S, cat) {
   return '~';
 }
 
-/**
- * The scopes worth offering for an entry, in reading order: every book it is present in, plus its works
- * or authors when it spans more than one, plus any scope it has a note for. One scope or none means the
- * article reads the same at every scope, and the scope bar is not shown.
- */
-export function entryScopes(e, cat) {
-  const present = new Set([...Object.keys(e.in ?? {}), ...(e.notes ?? [])]);
-  const ancestors = new Set();
-  for (const s of present) for (let p = def(cat, s)?.parent; p; p = def(cat, p)?.parent) ancestors.add(p);
-  const works = [...ancestors].filter(s => def(cat, s)?.kind === 'work');
-  const authors = [...ancestors].filter(s => def(cat, s)?.kind === 'author');
-  const offer = new Set(present);
-  if (works.length > 1) works.forEach(s => offer.add(s));
-  if (authors.length > 1) authors.forEach(s => offer.add(s));
-  return cat.scopes.map(s => s.id).filter(id => offer.has(id));
-}
-
 /** The scope to show: an explicit ?in=, else the remembered study scope, else everything. */
 export function chooseScope(requested, available) {
   if (requested && (requested === ALL || available.includes(requested))) return requested;
@@ -67,3 +50,70 @@ export function chooseScope(requested, available) {
 }
 
 export function remember(S) { store.setPref('scope', S); }
+
+/** The book in hand: the book being studied, else the last one read, else the newest available. */
+export function currentBook(cat) {
+  const d = cat.by.scopes.get(store.prefs.scope);
+  if (d?.kind === 'book') return { work: d.work, book: d.book };
+  const last = store.prefs.lastRead;
+  if (last && cat.by.works.get(last.work)?.available.includes(last.book)) return { work: last.work, book: last.book };
+  const w = cat.works.find(x => x.available.length);
+  return w ? { work: w.id, book: w.available.at(-1) } : null;
+}
+
+/**
+ * The picker's tree for a set of present scopes: the authors present, each author's works, and each
+ * work's books, in library order. A scope's ancestors count as present (a Book 3 note puts its entry
+ * in the Iliad and in Homer too).
+ */
+export function scopeTree(present, cat) {
+  const def = id => cat.by.scopes.get(id);
+  const rank = new Map(cat.scopes.map((s, i) => [s.id, i]));
+  const sorted = xs => [...xs].sort((a, b) => (rank.get(a) ?? 999) - (rank.get(b) ?? 999));
+  const authors = new Map(), works = new Map();
+  const addAuthor = a => { if (!authors.has(a)) authors.set(a, new Set()); return authors.get(a); };
+  const addWork = w => {
+    if (!works.has(w)) { works.set(w, new Set()); const a = def(w)?.parent; if (a) addAuthor(a).add(w); }
+    return works.get(w);
+  };
+  for (const s of present) {
+    const d = def(s);
+    if (d?.kind === 'book') addWork(d.work).add(s);
+    else if (d?.kind === 'work') addWork(s);
+    else if (d?.kind === 'author') addAuthor(s);
+  }
+  return {
+    authors: sorted(authors.keys()),
+    works: new Map([...authors].map(([a, ws]) => [a, sorted(ws)])),
+    books: new Map([...works].map(([w, bs]) => [w, sorted(bs)])),
+  };
+}
+
+/** Every scope the picker can land on, for validating ?in= and the remembered scope. */
+export const treeScopes = tree => [...tree.authors, ...[...tree.works.values()].flat(), ...[...tree.books.values()].flat()];
+
+/**
+ * Up to three rows, one per level: All and the authors; then the chosen author's works, led by
+ * "About" (the author as a whole); then the chosen work's books by number, led by "About" (the work
+ * as a whole). A row appears once its parent is chosen, so the rows read as a path: Homer › Iliad › 3.
+ */
+export function pickerHtml(tree, S, cat, { counts = () => 0, all = 'All', aboutAuthor = 'About', aboutWork = 'About' } = {}) {
+  const def = id => cat.by.scopes.get(id);
+  const e = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+  const on = id => S !== ALL && (S === id || within(S, id, cat));
+  const name = id => def(id)?.label ?? id;
+  const chip = (id, label, selected, n = 0, attrs = '') =>
+    `<button class="scope-chip" type="button" role="tab" data-scope="${e(id)}" aria-selected="${selected}"${attrs}>${label}${n ? `<span class="n">${n}</span>` : ''}</button>`;
+  const row = (cls, label, chips) => `<div class="scope-bar${cls}" role="tablist" aria-label="${e(label)}">${chips.join('')}</div>`;
+  const author = tree.authors.find(on);
+  const works = author ? tree.works.get(author) ?? [] : [];
+  const work = works.find(on);
+  const books = work ? tree.books.get(work) ?? [] : [];
+  return [
+    row('', 'Author', [chip(ALL, e(all), S === ALL, counts(ALL)), ...tree.authors.map(a => chip(a, e(name(a)), on(a), counts(a)))]),
+    author ? row(' works', `${name(author)}, by work`, [chip(author, e(aboutAuthor), S === author, 0, ` title="${e(name(author))} as a whole"`),
+      ...works.map(w => chip(w, e(name(w)), on(w), counts(w)))]) : '',
+    work ? row(' books', `${name(work)}, by book`, [chip(work, e(aboutWork), S === work, 0, ` title="${e(name(work))} as a whole"`),
+      ...books.map(b => chip(b, e(def(b)?.book ?? b), S === b, 0, ` aria-label="Book ${e(def(b)?.book ?? '')}" title="${e(def(b)?.long ?? b)}"`))]) : '',
+  ].join('');
+}

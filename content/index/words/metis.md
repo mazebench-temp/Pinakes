@@ -3,7 +3,7 @@ title: Cunning
 greek: μῆτις
 kind: term
 tags: [mind, divine-epithet]
-summary: Cunning intelligence, skill in planning and devising. In Book 1 the word lives in epithets: [[Zeus]] μητίετα, “the counselor”; Zeus δολομῆτα, “you schemer”, in Hera's mouth; and [[Odysseus]] πολύμητις, “of many wiles”.
+summary: Cunning intelligence, skill in planning and devising. It is the mark of [[Zeus]] μητίετα, “the counselor”, and of [[Odysseus]] πολύμητις, “of many wiles”.
 aliases: [mētis, metis, cunning intelligence, wiles, mētieta, polymētis, dolomētēs]
 grc: [μητίετα, δολομῆτα, πολύμητις]
 en: [counselor, schemer, many wiles]

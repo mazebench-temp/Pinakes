@@ -3,7 +3,7 @@ title: Bright-eyed
 greek: ἑλικῶπις, ἑλίκωψ
 kind: epithet
 tags: [heroic-epithet]
-summary: An epithet of uncertain meaning, perhaps “with flashing eyes,” given in Book 1 to [[Chryseis]] and, in the masculine plural, to the [[Achaeans]].
+summary: An epithet of uncertain meaning, perhaps “with flashing eyes,” given to young women (ἑλικῶπις) and to the [[Achaeans]] (ἑλίκωπες Ἀχαιοί).
 aliases: [quick-eyed, dark-eyed, helikopis]
 grc: [ἑλικώπιδα, ἑλίκωπες]
 en: [bright-eyed]

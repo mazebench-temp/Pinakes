@@ -3,7 +3,7 @@ summary: Sixteen lines of Book 2 close a speech with the formula, and the rest o
 grc: ["ὣς φάθʼ", "ὣς ἔφαθʼ", "ὣς φάσαν", "ὣς ὃ μὲν εἰπὼν"]
 ---
 
-The closings of Book 2: {{ref:Iliad 2.16}}, 35, 70, 76, 84, 142, 166, 182, 243, 265, 278, 333, 394, 419, 441, 807. Three forms are new: ὣς φάθʼ and ὣς ἔφαθʼ, “so she spoke” (2.182, 2.807); the plural ὣς φάσαν, “so they said” (2.278); and, inside a speech, ὣς ὃ μὲν εἰπών, “so he spoke” (2.70).
+The closings of Book 2: {{ref:Iliad 2.16}}, 35, 70, 76, 84, 142, 166, 182, 243, 265, 278, 333, 394, 419, 441, 807. Three forms are new: ὣς φάθʼ and ὣς ἔφαθʼ, “so she spoke” (2.182, 2.807); the plural ὣς φάσαν, “So said the crowd” (2.278); and, inside a speech, ὣς ὃ μὲν εἰπών, “so he spoke” (2.70).
 
 Book 2 is a book of orders and of speeches to crowds, and hardly any of its speeches is answered by another (see [[answering-him]]). The answer comes in the second half of the closing verse.
 

@@ -3,11 +3,11 @@ title: Lovely
 greek: ἐρατεινός
 kind: epithet
 tags: [mainland-greece, peloponnese]
-summary: “Lovely, delightful,” an epithet of places and of pleasant things, used five times in the Catalogue of Ships.
+summary: “Lovely, delightful,” an epithet of places and of pleasant things.
 aliases: [delightful, eratainos, erateinos]
 grc: [ἐρατεινὰς, ἐρατεινὴν]
 en: [lovely]
-of: [augeiae, augeiae-laconia, araethyrea, arene, mantinea]
+of: [augeiae, augeiae-laconia, araethyrea, arene, mantinea, lacedaemon, maeonia]
 ---
 
 ## Meaning

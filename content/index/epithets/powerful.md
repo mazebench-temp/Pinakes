@@ -8,7 +8,7 @@ aliases: [ruling, lord, kreion]
 grc: [κρείων]
 except: [1.102, 1.355, 1.411]
 en: [powerful]
-of: [agamemnon, agapenor]
+of: [agamemnon, agapenor, helicaon]
 ---
 
 ## Meaning

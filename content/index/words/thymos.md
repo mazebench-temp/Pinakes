@@ -3,7 +3,7 @@ title: Spirit
 greek: θυμός
 kind: term
 tags: [mind]
-summary: The spirit or heart, the seat of feeling, desire and impulse in the chest, and the life that leaves at death. Anger rises in the θυμός, love and pleasure are felt there, and there [[Achilles]] weighs whether to kill [[Agamemnon]].
+summary: The spirit or heart, the seat of feeling, desire and impulse in the chest, and the life that leaves at death. Anger rises in the θυμός, love and pleasure are felt there, and a man weighs his choices in it.
 aliases: [thymos, thumos, spirit, life, megathymos]
 grc: [θυμὸς, θυμόν, θυμοῦ, θυμῷ, μεγάθυμοι]
 en: [heart, in his heart, spirit, life, great-hearted]

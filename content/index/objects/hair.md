@@ -3,7 +3,7 @@ title: Hair
 greek: κόμη
 kind: object
 tags: [body]
-summary: The fair hair by which Athena seizes Achilles to stop his sword, the ambrosial locks of Zeus as he nods, and Leto “of the lovely hair”.
+summary: Hair (κόμη, χαίτη, θρίξ), a mark of beauty in men, women and gods, and the first thing cut from a victim's head in sacrifice and at an oath.
 aliases: [locks, lock of hair]
 grc: [ἠΰκομος, κόμης, χαῖται]
 en: [hair, locks]

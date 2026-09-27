@@ -1,3 +1,7 @@
+---
+summary: Houses of men and gods: Agamemnon's house in Argos, the halls of Peleus, the bronze-floored house of Zeus, and the houses Hephaestus built for each of the gods on Olympus.
+---
+
 Book 1 has three words for a house: δῶμα (with its short form δῶ), οἶκος, and μέγαρον, “hall”, usually in the plural for a great house.
 
 **Houses of men.** Agamemnon says Chryseis will grow old “in our house, in Argos” (οἴκῳ, {{ref:Iliad 1.30}}). Achilles often heard his mother boast “in my father's halls” ({{ref:Iliad 1.396}}; see [[thetis-in-the-house-of-peleus]]), and Thetis bore him “in our halls” ({{ref:Iliad 1.418}}).

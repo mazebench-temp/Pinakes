@@ -3,7 +3,7 @@ title: Fate
 greek: μοῖρα
 kind: term
 tags: [fate]
-summary: A share or portion, and so one's lot and one's death. In Book 1 the family appears in “fairly” (κατὰ μοῖραν), in Nestor's share of honor (ἔμμορε), and in [[Achilles]]' fate as ὠκύμορος, “swift-fated”.
+summary: A share or portion, and so one's lot in life and above all one's death. κατὰ μοῖραν is “fairly, as is due”.
 aliases: [moira, moros, share, lot, ōkymoros, emmore]
 grc: [μοῖραν, ἔμμορε, ὠκύμορος, ὠκυμορώτατος]
 en: [fair and right, share, swift-fated, swifter to his fate]

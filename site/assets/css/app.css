@@ -628,6 +628,11 @@ a.ref { font-weight: 500; white-space: nowrap; }
 .scope-chip[aria-selected="true"] { background: var(--bg-elevated); font-weight: 600; box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12), 0 0 0 0.5px rgba(0, 0, 0, 0.04); }
 :root[data-theme="dark"] .scope-chip[aria-selected="true"] { background: #5B5766; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .scope-chip[aria-selected="true"] { background: #5B5766; } }
+.scope-picker { display: flex; flex-direction: column; gap: 6px; align-items: flex-start; max-width: 100%; }
+.scope-bar.books .scope-chip { min-width: 34px; justify-content: center; padding: 6px 10px; font-variant-numeric: tabular-nums; }
+/* Each level sits a step in from its parent, so the rows read as a path: Homer › Iliad › Book 3. */
+.scope-bar.works { margin-left: 12px; max-width: calc(100% - 12px); }
+.scope-bar.books { margin-left: 24px; max-width: calc(100% - 24px); }
 .scope-lead { margin: 0; font-size: 16.5px; line-height: 1.5; max-width: 62ch; }
 .scope-tag { margin-right: 8px; font-family: var(--ui); font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); }
 .scope-eyebrow { margin: 4px 0 8px; font-family: var(--ui); font-size: 13px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent); }

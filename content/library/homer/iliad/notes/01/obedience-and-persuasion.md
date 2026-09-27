@@ -28,7 +28,7 @@ Nestor is the book's master of persuasion. His voice flows sweeter than honey (1
 
 {{quote:e94b45a2-33e0-59cb-9e7e-9f7357d5b8d8}}
 
-The quarrel ends in a formal refusal. Agamemnon complains that Achilles wants to give orders to all, and that there is one who will not obey him (1.289). Achilles answers that Agamemnon may give orders to others, but “I, I think, will obey you no longer”. Earlier he asked how any Achaean could obey such a king (1.150), and Agamemnon told him, “you will not persuade me” (1.132).
+The quarrel ends in a formal refusal. Agamemnon complains that Achilles wants to give orders to all, and that there is one who will not obey him (1.289). Achilles answers that Agamemnon may give orders to others, but “I, I think, will obey you no longer”. Earlier he asked how any Achaean could obey such a king (1.150), and Agamemnon told him, “You will not outwit me or win me over” (1.132).
 
 The one willing obedience among men is friendship. Patroclus obeys “his dear companion” without a word (1.345).
 

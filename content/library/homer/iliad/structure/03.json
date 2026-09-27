@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    { "from": 1, "to": 14, "title": "The Armies Advance", "summary": "The Trojans come on with clamor, like cranes flying against the Pygmies; the Achaeans in silence, breathing fury, under a cloud of dust like a mountain mist." },
+    { "from": 15, "to": 75, "title": "Paris and Menelaus", "summary": "Alexander steps out to challenge the Achaeans, sees Menelaus, and shrinks back like a man who has met a snake. Hector shames him, and he offers to fight Menelaus alone for Helen and her treasure." },
+    { "from": 76, "to": 120, "title": "The Truce", "summary": "Hector announces the duel between the armies. Menelaus accepts, and asks for lambs for Earth, Helios and Zeus, and for Priam himself to swear the oaths. Heralds are sent for the victims." },
+    { "from": 121, "to": 145, "title": "Helen at the Loom", "summary": "Iris, in the likeness of Laodice, finds Helen weaving the battles fought over her and calls her to watch the duel. Filled with longing for her former husband and home, Helen goes to the Scaean gates." },
+    { "from": 146, "to": 244, "title": "The View from the Wall", "summary": "The old men of Troy, like cicadas, marvel at Helen's beauty. Priam asks her to name the Achaean leaders: Agamemnon, Odysseus, Ajax, and Idomeneus. Antenor remembers Odysseus' embassy. Helen looks in vain for her brothers Castor and Polydeuces, already dead at home." },
+    { "from": 245, "to": 313, "title": "The Oath", "summary": "Priam drives out to the plain with Antenor. Agamemnon cuts the lambs' hair and throats and calls on Zeus, Helios, the rivers, the earth and the powers below to witness the terms. Priam goes back, unable to watch his son fight." },
+    { "from": 314, "to": 382, "title": "The Duel", "summary": "Hector and Odysseus shake the lots; Paris casts first. Paris arms. The spears are thrown; Menelaus' sword shatters on Paris' helmet, and he drags him by the helmet strap until Aphrodite breaks it and carries Paris away in a mist." },
+    { "from": 383, "to": 447, "title": "Helen and Aphrodite", "summary": "Aphrodite, disguised as an old wool-worker, summons Helen to Paris' bedroom. Helen sees through her and refuses, until the goddess threatens her. She scorns Paris, and he takes her to bed." },
+    { "from": 448, "to": 461, "title": "Agamemnon Claims the Victory", "summary": "Menelaus ranges the field like a wild beast looking for Paris, whom no Trojan would hide. Agamemnon declares Menelaus the winner and demands Helen and the treasure." }
+  ],
+  "speeches": [
+    { "from": 39, "to": 57, "speaker": "hector", "to_whom": ["paris"], "kind": "rebuke" },
+    { "from": 59, "to": 75, "speaker": "paris", "to_whom": ["hector"], "kind": "proposal" },
+    { "from": 82, "to": 83, "speaker": "agamemnon", "to_whom": ["argives"], "kind": "command" },
+    { "from": 86, "to": 94, "speaker": "hector", "to_whom": ["trojans", "achaeans"], "kind": "proposal" },
+    { "from": 97, "to": 110, "speaker": "menelaus", "to_whom": ["trojans", "achaeans"], "kind": "counsel" },
+    { "from": 130, "to": 138, "speaker": "iris", "to_whom": ["helen"], "kind": "message" },
+    { "from": 156, "to": 160, "speaker": "trojan-elders", "to_whom": ["trojan-elders"], "kind": "comment" },
+    { "from": 162, "to": 170, "speaker": "priam", "to_whom": ["helen"], "kind": "question" },
+    { "from": 172, "to": 180, "speaker": "helen", "to_whom": ["priam"], "kind": "reply" },
+    { "from": 182, "to": 190, "speaker": "priam", "to_whom": ["agamemnon"], "kind": "praise" },
+    { "from": 192, "to": 198, "speaker": "priam", "to_whom": ["helen"], "kind": "question" },
+    { "from": 200, "to": 202, "speaker": "helen", "to_whom": ["priam"], "kind": "reply" },
+    { "from": 204, "to": 224, "speaker": "antenor", "to_whom": ["helen"], "kind": "recollection" },
+    { "from": 226, "to": 227, "speaker": "priam", "to_whom": ["helen"], "kind": "question" },
+    { "from": 229, "to": 242, "speaker": "helen", "to_whom": ["priam"], "kind": "reply" },
+    { "from": 250, "to": 258, "speaker": "idaeus", "to_whom": ["priam"], "kind": "message" },
+    { "from": 276, "to": 291, "speaker": "agamemnon", "to_whom": ["zeus", "helios", "earth"], "kind": "oath" },
+    { "from": 298, "to": 301, "speaker": "achaeans", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 304, "to": 309, "speaker": "priam", "to_whom": ["trojans", "achaeans"], "kind": "farewell" },
+    { "from": 320, "to": 323, "speaker": "achaeans", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 351, "to": 354, "speaker": "menelaus", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 365, "to": 368, "speaker": "menelaus", "to_whom": ["zeus"], "kind": "lament" },
+    { "from": 390, "to": 394, "speaker": "aphrodite", "to_whom": ["helen"], "kind": "command" },
+    { "from": 399, "to": 412, "speaker": "helen", "to_whom": ["aphrodite"], "kind": "rebuke" },
+    { "from": 414, "to": 417, "speaker": "aphrodite", "to_whom": ["helen"], "kind": "threat" },
+    { "from": 428, "to": 436, "speaker": "helen", "to_whom": ["paris"], "kind": "rebuke" },
+    { "from": 438, "to": 446, "speaker": "paris", "to_whom": ["helen"], "kind": "reply" },
+    { "from": 456, "to": 460, "speaker": "agamemnon", "to_whom": ["trojans", "dardanians", "trojan-allies"], "kind": "command" }
+  ],
+  "days": [
+    { "from": 1, "to": 461, "label": "Day 22", "note": "The day that began at 2.48 continues: the armies meet on the plain, and the duel is fought under oath." }
+  ]
+}

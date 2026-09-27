@@ -25,7 +25,7 @@ The speeches that follow keep the ships in view. Odysseus grants the men their l
 
 ## The ships counted
 
-The poet announces the Catalogue as a list of ships: “I will tell the leaders of the ships, and all the ships” (ἀρχοὺς αὖ νηῶν ἐρέω νῆάς τε προπάσας, 2.493). Each entry gives its number of ships, most often in one of two verses, “and with him followed forty black ships” (2.524 and often) and “thirty hollow ships were ranged in line” (2.516 and elsewhere). Twice the crews are given: a hundred and twenty young men in each Boeotian ship (2.509–510), and fifty rowers, all archers, in each of Philoctetes' seven (2.719–720). Thucydides worked from these figures when he estimated the size of the fleet (see [[thucydides-and-the-catalogue]]). The Arcadians, an inland people, sailed in ships that Agamemnon gave them:
+The poet announces the Catalogue as a list of ships: “I will tell the leaders of the ships, and all the ships” (ἀρχοὺς αὖ νηῶν ἐρέω νῆάς τε προπάσας, 2.493). Each entry gives its number of ships, most often in one of two verses, “and with him followed forty black ships” (2.534 and often) and “thirty hollow ships were ranged in line” (2.516 and elsewhere). Twice the crews are given: a hundred and twenty young men in each Boeotian ship (2.509–510), and fifty rowers, all archers, in each of Philoctetes' seven (2.719–720). Thucydides worked from these figures when he estimated the size of the fleet (see [[thucydides-and-the-catalogue]]). The Arcadians, an inland people, sailed in ships that Agamemnon gave them:
 
 {{quote:4dfff20e-2a16-553c-b456-a32d9b85d1a6}}
 

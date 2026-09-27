@@ -4,7 +4,7 @@ greek: ἀρήν
 kind: animal
 tags: [sacrificial-animal, livestock]
 summary: Lambs, the young of the flock, offered to the gods in sacrifice and slaughtered over oaths. The same stem gives ἀρνειός, “ram”.
-aliases: [lamb, sheep]
+aliases: [lamb]
 grc: [ἀρνῶν]
 en: [lambs]
 ---

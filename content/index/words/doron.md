@@ -3,7 +3,7 @@ title: Gifts
 greek: δῶρον
 kind: term
 tags: [exchange]
-summary: Gifts, the goods that bind people and gods to one another. [[Athena]] promises [[Achilles]] three times as many gifts in compensation; Achilles calls his stolen prize a gift; the hecatomb is “gifts” for [[Apollo]].
+summary: Gifts, the goods that bind people and gods to one another: offerings to the gods, prizes, compensation, and what the gods themselves give to men.
 aliases: [dōron, doron, dōra, gift]
 grc: [δῶρα, δῶρʼ]
 en: [gifts]

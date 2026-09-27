@@ -3,7 +3,7 @@ title: Pain
 greek: ἄλγος
 kind: term
 tags: [mind, fate]
-summary: Pain and suffering; in the plural, “sorrows”. The same word names the countless sorrows that [[Achilles]]' wrath laid on the Achaeans and the sorrows that [[Apollo]]'s plague brings them.
+summary: Pain and suffering, of body or of mind; in the plural, ἄλγεα, the “sorrows” that fall on people, above all in war.
 aliases: [algos, algea, sorrows, woes]
 grc: [ἄλγεʼ, ἄλγεα]
 en: [sorrows]

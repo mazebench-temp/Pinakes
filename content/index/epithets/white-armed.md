@@ -3,11 +3,11 @@ title: White-armed
 greek: λευκώλενος
 kind: epithet
 tags: [divine-epithet]
-summary: The most frequent epithet of [[Hera]], “with white arms,” a mark of beauty. In Book 1 it accompanies her five times: as the unseen mover of the plot on earth, and as the mother whom Hephaestus comforts.
+summary: The most frequent epithet of [[Hera]], “with white arms,” a mark of beauty, given also to mortal women, among them [[Helen]].
 aliases: [leukolenos]
 grc: [λευκώλενος, λευκωλένῳ]
 en: [white-armed]
-of: [hera]
+of: [hera, helen]
 ---
 
 ## Meaning

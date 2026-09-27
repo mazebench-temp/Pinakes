@@ -22,7 +22,7 @@ Agamemnon warns Chryses that the god's scepter and fillet may not protect him (�
 
 Each quarrel has a ruler who insists on his superiority. Agamemnon takes Briseis so that Achilles may know “how much greater (φέρτερος) I am” (1.186); Zeus, Hephaestus says, is “by far the strongest” (φέρτατος, 1.581). Each has a challenger with a grievance, who attacks with words: Achilles with insults, Hera with “cutting words” (1.539).
 
-Each has a peacemaker. Nestor, “sweet of speech”, recalls the heroes of his youth and advises the stronger man to yield to the one who rules over more (1.254–284). Hephaestus recalls his own fall from heaven and advises his mother to yield to the strongest (1.573–594). Both use the past to persuade. The same phrase comes from both sides: “you will be powerless to help, for all your grief” (1.241–242), “I will be powerless to help, for all my grief” (1.588–589).
+Each has a peacemaker. Nestor, “sweet of speech”, recalls the heroes of his youth and advises the stronger man to yield to the one who rules over more (1.254–284). Hephaestus recalls his own fall from heaven and advises his mother to yield to the strongest (1.573–594). Both use the past to persuade. The same phrase comes from both sides: “for all your grief, you will be powerless to help” (1.241–242), “for all my grief, I will be powerless to help you” (1.588–589).
 
 Even the settings echo each other. Achilles sits apart from his companions by the sea (1.348–350); Thetis finds Zeus sitting apart from the other gods on the highest peak (1.498–499).
 

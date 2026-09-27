@@ -12,7 +12,7 @@ of: [swans]
 
 ## Meaning
 
-δουλιχόδειρος = δολιχός (“long”) + δειρή (“neck”): “long-necked.” The first vowel is lengthened (δουλιχ- for δολιχ-) to fit the verse. The word occurs only in one line, χηνῶν ἢ γεράνων ἢ κύκνων δουλιχοδείρων (“of geese or cranes or long-necked swans”), used twice (Il. 2.460, 15.692).
+δουλιχόδειρος = δολιχός (“long”) + δειρή (“neck”): “long-necked.” The first vowel is lengthened (δουλιχ- for δολιχ-) to fit the verse. The word occurs only in one line, χηνῶν ἢ γεράνων ἢ κύκνων δουλιχοδείρων (“geese or cranes or long-necked swans”), used twice (Il. 2.460, 15.692).
 
 ## Use
 

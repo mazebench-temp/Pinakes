@@ -4,7 +4,7 @@ greek: Φρύγες
 kind: people
 tags: [trojan, mysia-phrygia]
 summary: A people of inland northwest Asia Minor, led to Troy from far-off [[Ascania]] by [[Phorcys]] and [[Ascanius]]. The Iliad makes them old allies of Priam and the people of Hecuba's family.
-aliases: [Phryges, Phrygia]
+aliases: [Phryges]
 grc: [Φρύγας]
 en: [Phrygians]
 ---

@@ -2,6 +2,7 @@
 import { el, esc, icon, $ } from './lib/dom.js';
 import * as store from './lib/store.js';
 import { closeSheet } from './ui/components.js';
+import { currentBook } from './lib/scope.js';
 
 const VIEWS = {
   '': () => import('./views/library.js'),
@@ -82,13 +83,29 @@ async function renderSidebar() {
   $('#sidebar').innerHTML = `
     <a class="brand" href="#/"><span class="brand-mark">Πίνακες</span><span class="brand-sub">Pinakes</span></a>
     <nav class="side-nav">${TABS.map(t => `<a class="side-link" href="${t.href}" data-tab="${t.id}">${icon(t.icon)}<span>${t.label}</span>${count[t.id] ? `<span class="count">${count[t.id]}</span>` : ''}</a>`).join('')}</nav>
-    ${cat ? `<div><div class="side-heading">Reading</div><nav class="side-nav">${cat.works.flatMap(w => w.available.map(b =>
-      `<a class="side-link" href="#/read/${w.id}/${b}">${icon('book')}<span>${esc(w.title)} ${b}</span></a>`)).join('')}
-      <a class="side-link" href="#/book/homer.iliad/1">${icon('compass')}<span>Book 1 at a glance</span></a>
-      <a class="side-link" href="#/vocab/homer.iliad/1">${icon('textformat')}<span>Vocabulary</span></a>
+    ${cat ? `<div><div class="side-heading">Reading</div><nav class="side-nav"><div data-reading style="display:contents">${readingLinks(cat)}</div>
       <a class="side-link" href="#/quotes">${icon('quote')}<span>Quotes</span><span class="count">${cat.stats.passages ?? cat.stats.quotes}</span></a>
       <a class="side-link" href="#/about">${icon('info')}<span>About this edition</span></a></nav></div>` : ''}
     <div class="side-foot">${cat ? `${cat.stats.lines.toLocaleString()} lines · ${cat.stats.entries.toLocaleString()} index entries · ${(cat.stats.passages ?? cat.stats.quotes).toLocaleString()} passages quoted` : ''}</div>`;
+}
+
+/**
+ * The sidebar's reading rows: one row per work, not per book, and shortcuts for the book in hand (the
+ * book being studied, else the last one read). Redrawn on every navigation, since both change.
+ */
+function readingLinks(cat) {
+  const last = store.prefs.lastRead;
+  const cur = currentBook(cat);
+  return `${last && cat.by.works.get(last.work) ? `<a class="side-link" href="#/read/${esc(last.work)}/${last.book}?l=${last.n}">${icon('scroll')}<span>Continue: ${esc(cat.by.works.get(last.work).title)} ${last.book}.${last.n}</span></a>` : ''}
+    ${cat.works.filter(w => w.available.length).map(w => `<a class="side-link" href="#/work/${w.id}">${icon('book')}<span>${esc(w.title)}</span><span class="count">${w.available.length} of ${w.bookCount}</span></a>`).join('')}
+    ${cur ? `<a class="side-link" href="#/book/${esc(cur.work)}/${cur.book}">${icon('compass')}<span>Book ${cur.book} at a glance</span></a>
+    <a class="side-link" href="#/vocab/${esc(cur.work)}/${cur.book}">${icon('textformat')}<span>Vocabulary · Book ${cur.book}</span></a>` : ''}`;
+}
+
+async function refreshReading() {
+  const box = document.querySelector('#sidebar [data-reading]');
+  const cat = box && await store.catalog().catch(() => null);
+  if (cat) box.innerHTML = readingLinks(cat);
 }
 
 function markTab(tab) {
@@ -189,6 +206,7 @@ async function route() {
   else window.scrollTo(0, restore ?? 0);
   watchTitle(view.el.querySelector('[data-title-anchor]'));
   onScroll();
+  refreshReading();
   if (!back) host.focus({ preventScroll: true });
 }
 

@@ -4,8 +4,7 @@ greek: Ποδάρκης
 kind: person
 tags: [achaean, warrior, thessaly]
 summary: Younger brother of [[Protesilaus]], who marshaled his men after his death. His name is the word ποδάρκης, "swift-footed", which is also an epithet of Achilles.
-grc: [Ποδάρκης]
-except: [1.121, 2.688]
+grc: [^Ποδάρκης]
 refs: [2.705, 2.706, 2.707, 2.710]
 relations:
   - father: iphiclus (2.705)

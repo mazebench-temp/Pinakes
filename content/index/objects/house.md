@@ -3,7 +3,7 @@ title: House
 greek: δῶμα
 kind: object
 tags: [divine-object, cosmic, divine-scene]
-summary: Houses of men and gods: Agamemnon's house in Argos, the halls of Peleus, the bronze-floored house of Zeus, and the houses Hephaestus built for each of the gods on Olympus.
+summary: Houses of men and gods (δῶμα, δόμος, οἶκος, μέγαρον), their halls and chambers, and the home to which men long to return.
 aliases: [houses, halls, home, palace, megaron]
 grc: [δώματʼ, οἴκῳ, μεγάροισιν, μεγάροισι, δῶ, δῶμα, δώματα, οἶκον]
 refs: [1.608]

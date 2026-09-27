@@ -252,6 +252,7 @@ export function build({ write = true, log = console.log } = {}) {
         for (const c of compiled) {
           if (excepted.has(`${c.e.id} ${key}`)) continue;
           const hits = matchTokens(tokens, c.pats);
+          for (const q of hits.excluded) patternUse.set(`${c.e.id} ${q.source}`, patternUse.get(`${c.e.id} ${q.source}`) + 1);
           if (!hits.length) continue;
           for (const h of hits) {
             patternUse.set(`${c.e.id} ${h.pattern.source}`, patternUse.get(`${c.e.id} ${h.pattern.source}`) + 1);

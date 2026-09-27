@@ -4,8 +4,8 @@ greek: Μῄονες
 kind: people
 tags: [trojan, maeonia]
 summary: A people of western Asia Minor "born beneath Tmolus", in the land later called Lydia. [[Mesthles]] and [[antiphus-of-maeonia|Antiphus]] lead them to Troy.
-aliases: [Meiones, Maeonia, Lydians]
-grc: [Μῄο*]
+aliases: [Meiones, Lydians]
+grc: [Μῄο*, "!Μῃονι*"]
 en: [Maeonians]
 ---
 

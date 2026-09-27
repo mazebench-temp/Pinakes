@@ -3,7 +3,7 @@ title: Weaving
 greek: ὑφαίνω
 kind: ritual
 tags: [woman, craftsman, captive]
-summary: The work of women of every rank. Agamemnon imagines Chryseis at his loom in Argos, and praises her handiwork as equal to his wife's.
+summary: Spinning and weaving, the work of women of every rank in the Homeric household, from queens to captives.
 aliases: [weave, women's work, handiwork, spinning]
 grc: [ἱστὸν ἐποιχομένην]
 refs: [1.115]

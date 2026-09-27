@@ -24,7 +24,7 @@ Nearly everyone of rank in the book foretells something.
 - Athena promises three times the gifts, “and it will surely come to pass” (1.212–214). The promise is kept in Books 9 and 19 (see [[triple-gifts-foretold]]).
 - Achilles swears that a longing for him will seize the Achaeans when Hector kills them (1.240–244; see [[longing-for-achilles]]).
 - Thetis knows that her son's life will be brief (1.415–418; see [[the-short-life-of-achilles]]).
-- Agamemnon's threat to take Briseis is “a word which has now been carried out” (1.388).
+- Agamemnon's threat to take Briseis is “a threat, which has now been carried out” (1.388).
 
 {{quote:8c410b22-d51b-5484-87a6-eec7a367da36}}
 

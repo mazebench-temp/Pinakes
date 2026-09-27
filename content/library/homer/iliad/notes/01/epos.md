@@ -6,7 +6,7 @@ Words are the book's substitute for violence, and the adjectives given to them t
 
 {{quote:62e76069-16d2-506c-8b1e-af0436f9981d}}
 
-Athena tells Achilles to reproach Agamemnon “with words” (ἔπεσιν) rather than draw his sword. Calchas had asked for protection “with words and with hands” (1.77); now words alone are allowed.
+Athena tells Achilles to reproach Agamemnon “with words” (ἔπεσιν) rather than draw his sword. Calchas had asked for protection “with words and with your hands” (1.77); now words alone are allowed.
 
 {{quote:c6576198-0380-5ca7-b340-e51b63a7239d}}
 

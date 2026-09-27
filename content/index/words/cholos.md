@@ -3,7 +3,7 @@ title: Anger
 greek: χόλος
 kind: term
 tags: [anger, mind]
-summary: The ordinary Homeric word for anger, literally “bile”. χόλος rises in the chest and can be swallowed, checked or let go; with the verb χολόω and the separate verb χώομαι (“be angry”) it describes the anger of [[Apollo]], [[Agamemnon]], [[Achilles]] and [[Chryses]].
+summary: The ordinary Homeric word for anger, literally “bile”. χόλος rises in the chest and can be swallowed, checked or let go; the verb χολόω and the separate verb χώομαι (“be angry”) describe the anger of gods and men alike.
 aliases: [cholos, bile, gall, choloō, chōomai]
 grc: [χόλος, χόλον, χόλοιο, χολωθεὶς, χολωσέμεν, κεχολώσεται, κεχολωμένον, χωόμενος, χωομένοιο, χωόμενον, ἐχώσατο, χώσεται]
 en: [anger, angry, enraged]

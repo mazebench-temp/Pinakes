@@ -1,3 +1,7 @@
+---
+summary: In Book 1 the sun only marks time, setting on the day of the sacrifice at Chryse, on Hephaestus' fall, and on the gods' feast.
+---
+
 {{quote:72b61a08-65ca-5c70-8710-9cf513607ba4}}
 
 The sun sets on the Achaeans at Chryse.

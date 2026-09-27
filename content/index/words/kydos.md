@@ -3,7 +3,7 @@ title: Glory
 greek: κῦδος
 kind: term
 tags: [honor, divine-will]
-summary: Glory as a visible radiance of success and power, granted by the gods and above all by Zeus. [[Nestor]] says Zeus has given κῦδος to the scepter-bearing king; the assembly is κυδιάνειρα, “where men win glory”.
+summary: Glory as a visible radiance of success and power, granted by the gods and above all by Zeus, and taken away when they withdraw it.
 aliases: [kydos, kudos, kydianeira, kydistos]
 grc: [κῦδος, κύδεϊ, κυδιάνειραν, κύδιστε]
 en: [glory, glorious]

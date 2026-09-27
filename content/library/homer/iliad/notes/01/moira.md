@@ -1,3 +1,6 @@
+---
+summary: In Book 1 the family appears in “fairly” (κατὰ μοῖραν), in Nestor's share of honor (ἔμμορε), and in [[Achilles]]' fate as ὠκύμορος, “swift-fated”.
+---
 {{quote:61fe4540-fc21-5739-86ce-b33d8cfe12c3}}
 
 Nestor speaks of honor as a portion. The scepter-bearing king “has had no ordinary share (ἔμμορε) of honor”.

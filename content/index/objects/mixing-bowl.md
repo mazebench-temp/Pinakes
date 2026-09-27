@@ -3,7 +3,7 @@ title: Mixing bowl
 greek: κρητήρ
 kind: object
 tags: [vessel, feast, libation]
-summary: The bowl in which wine was mixed with water for a feast. At Chryse the young men fill the mixing bowls; on Olympus, Hephaestus draws nectar from one.
+summary: The large bowl in which wine was mixed with water, for a feast, a libation or an oath, and from which it was drawn into cups.
 aliases: [mixing bowls, krater, crater]
 grc: [κρητῆρας, κρητῆρος]
 en: [mixing bowls, mixing bowl]

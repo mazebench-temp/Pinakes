@@ -3,7 +3,7 @@ title: A sorry business
 greek: ἦ δὴ λοίγια ἔργα
 kind: formula
 tags: [speech-formula]
-summary: An exclamation of alarm, “this is a ruinous business,” spoken first by Zeus to Thetis (1.518) and then by Hephaestus to his parents (1.573).
+summary: An exclamation of alarm, “This is a sorry business,” spoken first by Zeus to Thetis (1.518) and then by Hephaestus to his parents (1.573).
 aliases: [ruinous doings, loigia erga]
 grc: [λοίγια ἔργ*]
 en: [sorry business]

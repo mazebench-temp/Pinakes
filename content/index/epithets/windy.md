@@ -7,7 +7,7 @@ summary: “Windy, wind-swept,” an epithet of high and exposed places, above a
 aliases: [wind-swept, enemoeis]
 grc: [ἠνεμόεσσαν]
 en: [windy]
-of: [enispe]
+of: [enispe, troy]
 ---
 
 ## Meaning

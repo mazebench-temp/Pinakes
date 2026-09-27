@@ -4,37 +4,55 @@
 //   Ἀχιλλ*         a stem: any word beginning with these letters
 //   πόδας ὠκὺς     a phrase of consecutive words
 //   =ἦ             accent-sensitive comparison (rarely needed)
-import { normalize } from './greek.mjs';
+//   ^Ὕλην          only when capitalized: the name, not the common word (ὕλην "forest")
+//   !=Τρῳ*         an exclusion: words the entry's other patterns must not claim (Τρώ* "Trojans"
+//                  without Τρῳαί "Trojan women")
+import { normalize, isCapitalized } from './greek.mjs';
 
 export function compilePatterns(forms = []) {
   return forms.map(source => {
-    const parts = String(source).trim().split(/\s+/).map(p => {
-      const exact = p.startsWith('=');
-      const raw = exact ? p.slice(1) : p;
+    const not = String(source).trim().startsWith('!');
+    const body = not ? String(source).trim().slice(1) : String(source);
+    const parts = body.trim().split(/\s+/).map(p => {
+      const name = p.startsWith('^');
+      const rest = name ? p.slice(1) : p;
+      const exact = rest.startsWith('=');
+      const raw = exact ? rest.slice(1) : rest;
       const prefix = raw.endsWith('*');
       const text = prefix ? raw.slice(0, -1) : raw;
-      return { exact, prefix, text: exact ? text.normalize('NFC').toLowerCase() : normalize(text) };
+      return { name, exact, prefix, text: exact ? text.normalize('NFC').toLowerCase() : normalize(text) };
     });
-    return { source: String(source), parts };
+    return { source: String(source), parts, not };
   });
 }
 
 function partMatches(part, token) {
+  if (part.name && !isCapitalized(token.word)) return false;
   const value = part.exact ? token.word.normalize('NFC').toLowerCase() : token.norm;
   return part.prefix ? value.startsWith(part.text) : value === part.text;
 }
 
-/** Return [{start, end, pattern}] token-index spans (end exclusive). */
+const matchesAt = (pattern, tokens, i) =>
+  i + pattern.parts.length <= tokens.length && pattern.parts.every((part, k) => partMatches(part, tokens[i + k]));
+
+/**
+ * Return [{start, end, pattern}] token-index spans (end exclusive). A span that contains a word an
+ * exclusion (!) matches is dropped; the exclusions that dropped something are listed in `hits.excluded`.
+ */
 export function matchTokens(tokens, patterns) {
-  const hits = [];
+  const hits = [], excluded = new Set();
+  const nots = patterns.filter(p => p.not);
   for (const pattern of patterns) {
+    if (pattern.not) continue;
     const n = pattern.parts.length;
     for (let i = 0; i + n <= tokens.length; i++) {
-      let ok = true;
-      for (let k = 0; k < n && ok; k++) ok = partMatches(pattern.parts[k], tokens[i + k]);
-      if (ok) hits.push({ start: i, end: i + n, pattern });
+      if (!matchesAt(pattern, tokens, i)) continue;
+      const by = nots.find(q => { for (let j = i; j < i + n; j++) if (matchesAt(q, tokens, j)) return true; return false; });
+      if (by) excluded.add(by);
+      else hits.push({ start: i, end: i + n, pattern });
     }
   }
+  hits.excluded = [...excluded];
   return hits;
 }
 

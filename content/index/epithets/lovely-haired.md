@@ -7,7 +7,7 @@ summary: “With beautiful hair,” an epithet of goddesses and women.
 aliases: [lovely-haired, fair-tressed, eukomos]
 grc: [ἠΰκομος]
 en: [of the lovely hair]
-of: [leto, briseis]
+of: [leto, briseis, helen]
 ---
 
 ## Meaning

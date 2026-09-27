@@ -11,7 +11,7 @@ For Achilles, war and plague together are killing the army.
 
 Achilles did not come to fight because of the Trojans. They never drove off his cattle or his horses or ruined his harvest in Phthia; mountains and sea lie between. He fights as a favor to the sons of Atreus, and the favor has not been returned. He does most of the fighting and gets the smaller prize (1.165–168).
 
-Agamemnon's reply turns war into a charge against him: “strife is always dear to you, and wars and battles” (1.177). Achilles answers that Agamemnon never arms for war with the people (1.226). He will not fight with his hands for the girl (1.298), but if Agamemnon tries to take anything else, his dark blood will gush out round Achilles' spear (1.301–303). The two men end the assembly having “fought with hostile words” (1.304).
+Agamemnon's reply turns war into a charge against him: “strife is always dear to you, and wars and battles” (1.177). Achilles answers that Agamemnon never arms for war with the people (1.226). He will not fight with his hands for the girl (1.298), but if Agamemnon tries to take anything else, his dark blood will gush out round Achilles' spear (1.301–303). The two men end the assembly having “having fought it out with hostile words” (1.304).
 
 {{quote:e25ac6fb-74f7-5490-abae-4220c805a7ea}}
 

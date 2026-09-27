@@ -45,9 +45,12 @@ content/library/homer/notes/achilles.md            Achilles in Homer
 content/library/aristotle/notes/achilles.md        Achilles in Aristotle
 ```
 
-The reader chooses the scope on the entry page (All · Iliad 1 · Iliad 2 …). The choice is
-remembered as the study scope, so every article opens at the book being studied, and the Index
-can be limited to one book. A new work or author needs only its `author.json` or `work.json`; its
+The reader chooses the scope on the entry page as a path of up to three rows: All and the authors;
+the chosen author's works, led by "About" (the author as a whole); the chosen work's books, led by
+"About" (the work as a whole). At a book, the article opens with that book's notes and folds the
+general article away; at an author or a work, it reads whole, with the notes of that scope in place.
+The choice is remembered as the study scope, so every article opens at the book being studied, and
+the Index can be limited to an author, a work or a book (`site/assets/js/lib/scope.js`). A new work or author needs only its `author.json` or `work.json`; its
 notes are picked up by folder. The general article stays general: etymology, family, myth and
 later tradition; everything that happens in a particular book goes in that book's note.
 

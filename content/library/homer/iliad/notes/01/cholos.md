@@ -1,3 +1,6 @@
+---
+summary: With the verb χολόω and the separate verb χώομαι (“be angry”), χόλος describes the anger of [[Apollo]], [[Agamemnon]], [[Achilles]] and [[Chryses]].
+---
 Almost every major figure in the book is angry at some point, and the same words serve for all of them.
 
 {{quote:41b52045-2487-5e89-a3c6-c5f79e71b8d4}}

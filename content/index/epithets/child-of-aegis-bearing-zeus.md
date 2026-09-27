@@ -7,7 +7,7 @@ summary: “Child of aegis-bearing Zeus,” a formula for [[Athena]], and in the
 aliases: [daughter of Zeus]
 grc: [αἰγιόχοιο Διὸς τέκος]
 en: [child]
-of: [athena, muses]
+of: [athena, muses, helen]
 ---
 
 ## Meaning

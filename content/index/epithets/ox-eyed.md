@@ -3,11 +3,11 @@ title: Ox-eyed
 greek: βοῶπις
 kind: epithet
 tags: [divine-epithet]
-summary: The epithet of [[Hera]] in her confrontation with Zeus, “ox-eyed” or “cow-eyed,” praising large, lustrous eyes. Book 1 uses it twice, both in the formula βοῶπις πότνια Ἥρη.
+summary: “Ox-eyed” or “cow-eyed,” praising large, lustrous eyes: the epithet of [[Hera]] in the formula βοῶπις πότνια Ἥρη, and of a few mortal women.
 aliases: [cow-eyed, boopis, large-eyed]
 grc: [βοῶπις]
 en: [ox-eyed]
-of: [hera]
+of: [hera, clymene]
 ---
 
 ## Meaning

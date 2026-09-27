@@ -104,13 +104,21 @@ test('markdown: headings, links, quotes, tabs, footnotes, tables', () => {
   assert.deepEqual(out.errors, []);
 });
 
-test('concordance: words, stems, phrases, and accent-sensitive forms', () => {
+test('concordance: words, stems, phrases, accent-sensitive and capitalized-only forms', () => {
   const toks = tokenize('ἦ καὶ κυανέῃσιν ἐπʼ ὀφρύσι νεῦσε Κρονίων·').map(t => ({ ...t, norm: normalize(t.word) }));
   const hits = p => matchTokens(toks, compilePatterns([p])).map(h => toks.slice(h.start, h.end).map(t => t.word).join(' '));
   assert.deepEqual(hits('Κρονίων*'), ['Κρονίων']);
   assert.deepEqual(hits('κυανέῃσιν ἐπʼ ὀφρύσι'), ['κυανέῃσιν ἐπʼ ὀφρύσι']);
   assert.deepEqual(hits('=ἦ'), ['ἦ']);
   assert.deepEqual(hits('=ἡ'), []);
+  const forest = tokenize('οἵ τε καθʼ ὕλην · Ὕλην καὶ Πετεῶνα').map(t => ({ ...t, norm: normalize(t.word) }));
+  const at = p => matchTokens(forest, compilePatterns([p])).map(h => forest[h.start].word);
+  assert.deepEqual(at('Ὕλην'), ['ὕλην', 'Ὕλην']);
+  assert.deepEqual(at('^Ὕλην'), ['Ὕλην']);
+  const women = tokenize('Τρῶας τε καὶ Τρῳὰς πάσας').map(t => ({ ...t, norm: normalize(t.word) }));
+  const trojans = matchTokens(women, compilePatterns(['Τρώ*', '!=Τρῳ*']));
+  assert.deepEqual(trojans.map(h => women[h.start].word), ['Τρῶας']);
+  assert.equal(trojans.excluded.length, 1);
   const en = findEnglish("the son of Cronus nodded", compileEnglish(['son of Cronus', 'Cronus']));
   assert.equal(resolveOverlaps(en).length, 1);
 });

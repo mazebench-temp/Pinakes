@@ -3,7 +3,7 @@ title: Hear me
 greek: κλῦθί μευ
 kind: formula
 tags: [speech-formula, prayer]
-summary: The opening of a prayer, “hear me,” and its answering close, “and (the god) heard him.” Chryses' two prayers to Apollo begin and end with them (1.37, 1.43; 1.451, 1.457).
+summary: The imperative “hear me” that opens a prayer (κλῦθί μευ) or a speech to a gathering (κέκλυτέ μευ), and the prayer's answering close, “and (the god) heard him.”
 aliases: [klythi meu]
 grc: [κλῦθί μευ, τοῦ δʼ ἔκλυε]
 en: [Hear me, heard him]

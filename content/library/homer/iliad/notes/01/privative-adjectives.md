@@ -1,5 +1,5 @@
 ---
-summary: Chryseis must be returned “unbought, unransomed” (1.99), and Thetis wishes her son could sit by the ships “tearless and unharmed” (1.415).
+summary: Chryseis must be returned “unbought, unransomed” (1.99), and Thetis wishes her son could sit by the ships “free of tears and free of harm” (1.415).
 ---
 
 {{quote:8ed20d5f-e256-577a-9a01-a398f5a32a97}}

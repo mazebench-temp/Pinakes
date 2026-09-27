@@ -5062,6 +5062,581 @@
       "id": "5ea519a8-cd28-560d-8c06-98a8618dbf0c",
       "ref": "2.876-877",
       "title": "Sarpedon and Glaucus"
+    },
+    {
+      "id": "5676e478-163f-51ba-8f88-54e6329cc2fe",
+      "ref": "3.1-9",
+      "title": "Clamor and silence"
+    },
+    {
+      "id": "c2977b5a-8482-5d94-893d-3e51d4d1a7fb",
+      "ref": "3.3-7",
+      "title": "The cranes and the Pygmies"
+    },
+    {
+      "id": "9e423ad1-6cc1-5ba4-a41f-4a7692e000c4",
+      "ref": "3.8-9",
+      "title": "The Achaeans came on in silence"
+    },
+    {
+      "id": "649db162-3327-5321-b5d0-a457bae99885",
+      "ref": "3.8-14",
+      "title": "Mist on the mountain"
+    },
+    {
+      "id": "553b8de8-3760-5a18-a4d2-79fd88e6b536",
+      "ref": "3.16-20",
+      "title": "Alexander's challenge"
+    },
+    {
+      "id": "a4e1ce0a-6707-58b9-985d-215c02ba8603",
+      "ref": "3.21-29",
+      "title": "Lion on a carcass"
+    },
+    {
+      "id": "c6707bf8-4db7-5da5-9c28-ecc33e6edbd2",
+      "ref": "3.30-37",
+      "title": "Paris shrinks back"
+    },
+    {
+      "id": "55799c01-4fbd-52e8-94ff-d9e72a054840",
+      "ref": "3.38-42",
+      "title": "I wish you had never been born"
+    },
+    {
+      "id": "de4e7f0d-8444-505b-aad1-ec33c6f00d32",
+      "ref": "3.38-45",
+      "title": "Hector rebukes Paris"
+    },
+    {
+      "id": "450c586e-307a-5d7b-8b64-fee70366ca71",
+      "ref": "3.39",
+      "title": "Evil Paris"
+    },
+    {
+      "id": "0eb62c9a-d0ff-5e30-93d0-399938ae83ad",
+      "ref": "3.46-51",
+      "title": "Was it as such a man"
+    },
+    {
+      "id": "d10cf66b-61cf-5306-8071-257cfecad967",
+      "ref": "3.54-55",
+      "title": "The gifts of Aphrodite"
+    },
+    {
+      "id": "9fffd107-b459-536c-bbd5-0895208a1148",
+      "ref": "3.56-57",
+      "title": "A tunic of stone"
+    },
+    {
+      "id": "43554c74-4651-53b4-b681-544a8cc7bd02",
+      "ref": "3.59-63",
+      "title": "A heart like an axe"
+    },
+    {
+      "id": "84c6e108-9fd6-59f3-a330-14bcae59dfc8",
+      "ref": "3.64-66",
+      "title": "The gifts of the gods"
+    },
+    {
+      "id": "36b67741-12d8-5e30-9d90-49fe8f8106a5",
+      "ref": "3.64",
+      "title": "Golden Aphrodite"
+    },
+    {
+      "id": "549e51bd-aeaa-581d-be8d-f215bb35e7f1",
+      "ref": "3.68-72",
+      "title": "Set me in the middle"
+    },
+    {
+      "id": "27d7d2a3-08b2-5bb6-8afe-b2a33ff1cf75",
+      "ref": "3.73-75",
+      "title": "Home to horse-pasturing Argos"
+    },
+    {
+      "id": "9969c943-0010-57de-a9b5-2730ebdba8c8",
+      "ref": "3.97-102",
+      "title": "Menelaus accepts"
+    },
+    {
+      "id": "90889151-7c95-5648-ac09-35c7023ce222",
+      "ref": "3.99-100",
+      "title": "My quarrel"
+    },
+    {
+      "id": "3a0bb7c5-c688-51b1-ac9f-4f7013b4fecc",
+      "ref": "3.103-107",
+      "title": "Lambs for Earth, the Sun and Zeus"
+    },
+    {
+      "id": "f054d837-abd8-59e4-ab3a-b67b9633b0e2",
+      "ref": "3.105-110",
+      "title": "Bring the mighty Priam"
+    },
+    {
+      "id": "c1d0b939-d41d-507b-b209-110749a7e733",
+      "ref": "3.118-120",
+      "title": "Talthybius is sent for a lamb"
+    },
+    {
+      "id": "60101102-e667-5737-9806-117b96639b61",
+      "ref": "3.121-124",
+      "title": "Iris in the likeness of Laodice"
+    },
+    {
+      "id": "5cdf6064-d775-5899-ae3c-f49a4ef09c27",
+      "ref": "3.125-128",
+      "title": "Helen at the loom"
+    },
+    {
+      "id": "b64a80cf-e106-58e1-8e59-2739fa268876",
+      "ref": "3.134-138",
+      "title": "Iris tells Helen of the duel"
+    },
+    {
+      "id": "19d518bc-1b73-5700-b47d-d1d286fe3793",
+      "ref": "3.139-140",
+      "title": "Sweet longing"
+    },
+    {
+      "id": "81d0162b-1905-5a05-957d-a9bbcc564b29",
+      "ref": "3.139-142",
+      "title": "Helen goes to the wall"
+    },
+    {
+      "id": "86d72ed2-83d4-56a8-876f-238ae3b36382",
+      "ref": "3.143-144",
+      "title": "Aethra and Clymene"
+    },
+    {
+      "id": "45f6e20a-faad-5ef5-962b-81c144c0566d",
+      "ref": "3.145-149",
+      "title": "To the Scaean gates"
+    },
+    {
+      "id": "17640301-838e-5af0-9040-051cafc21222",
+      "ref": "3.146-149",
+      "title": "Those around Priam"
+    },
+    {
+      "id": "e30dc29d-5f34-5f4c-8991-910bd39202ce",
+      "ref": "3.146-153",
+      "title": "The elders on the tower"
+    },
+    {
+      "id": "18a7157d-3497-5bb8-8ea4-80b8cf479037",
+      "ref": "3.154-158",
+      "title": "The old men see Helen"
+    },
+    {
+      "id": "476eb6c1-ae21-5073-8975-ce9354c33f2e",
+      "ref": "3.156-158",
+      "title": "No blame"
+    },
+    {
+      "id": "3c4d36e9-c3f8-5218-8926-ac9bc6d674e3",
+      "ref": "3.156-160",
+      "title": "No blame, but let her go"
+    },
+    {
+      "id": "2c63f7c6-36e4-5f2c-bc2c-290ac8e7b707",
+      "ref": "3.159-160",
+      "title": "Let her go home in the ships"
+    },
+    {
+      "id": "0bf4d405-d02f-599f-ab87-63f250320f9f",
+      "ref": "3.162-165",
+      "title": "You are not to blame"
+    },
+    {
+      "id": "71eb3284-916b-501b-a634-01303f7cd625",
+      "ref": "3.164-165",
+      "title": "Not you but the gods"
+    },
+    {
+      "id": "f53d8b3e-57d3-539e-888d-5ff9caa4a7dc",
+      "ref": "3.166-170",
+      "title": "He looks like a king"
+    },
+    {
+      "id": "327b71cb-428c-5699-9f2d-72d3c3c29fa7",
+      "ref": "3.172-176",
+      "title": "I wish that evil death had pleased me"
+    },
+    {
+      "id": "151715da-6d6d-5e1c-bb19-a172e05f5179",
+      "ref": "3.173-175",
+      "title": "Helen's wish"
+    },
+    {
+      "id": "469d741a-d3e0-5bf1-88a6-a3f1e92361bc",
+      "ref": "3.177-180",
+      "title": "Helen names Agamemnon"
+    },
+    {
+      "id": "82cd427d-2ad7-57f8-9b02-06fb851c7091",
+      "ref": "3.180",
+      "title": "Dog-faced as I am"
+    },
+    {
+      "id": "038917fa-238d-5540-8d51-37b70b217f68",
+      "ref": "3.182-183",
+      "title": "O blessed son of Atreus"
+    },
+    {
+      "id": "5ded9b53-35be-55b4-9746-5622553418d1",
+      "ref": "3.182-190",
+      "title": "Priam remembers Phrygia"
+    },
+    {
+      "id": "6e7db609-0616-5bc0-8eb4-67136c9689a8",
+      "ref": "3.184-189",
+      "title": "Priam in Phrygia"
+    },
+    {
+      "id": "43d336c4-6b97-525f-9ada-81032819edd0",
+      "ref": "3.188-190",
+      "title": "The day the Amazons came"
+    },
+    {
+      "id": "d88e7e5f-a27c-50ee-a5fb-e25ead828669",
+      "ref": "3.191-198",
+      "title": "Like a ram among the sheep"
+    },
+    {
+      "id": "e21fa1d3-665b-5864-ba36-dbb1b4d62d6c",
+      "ref": "3.193-198",
+      "title": "Like a ram"
+    },
+    {
+      "id": "28db2924-e00a-5a24-a5c9-5c8ad4c29c07",
+      "ref": "3.200-202",
+      "title": "The son of Laertes"
+    },
+    {
+      "id": "af94b622-fa6f-5790-ae68-a55692c457dd",
+      "ref": "3.203-208",
+      "title": "Antenor remembers"
+    },
+    {
+      "id": "44f89616-789d-51d9-8c87-874d535a7106",
+      "ref": "3.204-208",
+      "title": "Antenor's guests"
+    },
+    {
+      "id": "4a092399-d486-5449-ae65-b28b37f9b07d",
+      "ref": "3.205-208",
+      "title": "The embassy"
+    },
+    {
+      "id": "aeda22c2-1e39-5141-a9c5-29171c9d3035",
+      "ref": "3.212-215",
+      "title": "Menelaus spoke fluently"
+    },
+    {
+      "id": "b6a818ca-956d-5ba8-b88b-4c02db0ff479",
+      "ref": "3.213-215",
+      "title": "Menelaus spoke fluently"
+    },
+    {
+      "id": "563b562b-8df5-5c11-aeb7-e42ca1052aae",
+      "ref": "3.216-220",
+      "title": "Like a man who knows nothing"
+    },
+    {
+      "id": "1400c24c-8075-5e4a-b7ee-66655be59e11",
+      "ref": "3.216-224",
+      "title": "Odysseus rises to speak"
+    },
+    {
+      "id": "a3959e44-a574-5b82-99b2-f469b4d3d518",
+      "ref": "3.221-223",
+      "title": "Words like the snowflakes of winter"
+    },
+    {
+      "id": "e12d7b62-92de-51f2-86ac-41170cbc3c37",
+      "ref": "3.225-229",
+      "title": "The bulwark of the Achaeans"
+    },
+    {
+      "id": "1e7b5984-767d-5be4-9ca2-ed7fd42ceef8",
+      "ref": "3.230-233",
+      "title": "Idomeneus among the Cretans"
+    },
+    {
+      "id": "70e03702-ee22-558f-a91f-bbf93bc38989",
+      "ref": "3.236-244",
+      "title": "The earth already held them"
+    },
+    {
+      "id": "6e2a25e6-f610-5278-8aee-a6803789e5b9",
+      "ref": "3.243-244",
+      "title": "The life-giving earth"
+    },
+    {
+      "id": "7f51e50f-d90f-5bdb-9198-ae7999d8ff0e",
+      "ref": "3.248-252",
+      "title": "Idaeus summons Priam"
+    },
+    {
+      "id": "05b59cc6-1e76-553e-98be-f9a9f6c53617",
+      "ref": "3.268-270",
+      "title": "The heralds prepare the oath"
+    },
+    {
+      "id": "51665e87-cf2d-5fef-8846-1aa289798cdf",
+      "ref": "3.271-274",
+      "title": "The knife and the hair"
+    },
+    {
+      "id": "21e4284e-c1b5-5925-be78-6308bf3433a8",
+      "ref": "3.276-280",
+      "title": "Be witnesses"
+    },
+    {
+      "id": "7ab54449-a0b7-5ed3-8516-543cba486fe4",
+      "ref": "3.277",
+      "title": "The Sun who sees all things"
+    },
+    {
+      "id": "59d5bc87-66e8-5173-920f-b3a4c7391d6a",
+      "ref": "3.281-291",
+      "title": "The terms of the oath"
+    },
+    {
+      "id": "187f6dbc-86ff-597d-9a8e-2c5c0441efe4",
+      "ref": "3.292-294",
+      "title": "The lambs are killed"
+    },
+    {
+      "id": "e154f48d-ea03-5d7e-9f0f-16b367131580",
+      "ref": "3.295-302",
+      "title": "Like this wine"
+    },
+    {
+      "id": "77023816-983f-5be9-aff0-dea0c88f39ef",
+      "ref": "3.298-302",
+      "title": "The curse"
+    },
+    {
+      "id": "6d9e1fb0-b805-5803-8e54-fab98567d675",
+      "ref": "3.303-304",
+      "title": "Priam, descendant of Dardanus"
+    },
+    {
+      "id": "01991671-c87d-547d-8896-d1949f23cece",
+      "ref": "3.304-309",
+      "title": "Priam cannot watch"
+    },
+    {
+      "id": "1aa648d2-641f-53dc-95f6-b1cbe1ff6a62",
+      "ref": "3.306-307",
+      "title": "Priam's dear son"
+    },
+    {
+      "id": "d6b20ea7-e357-594a-852e-2682753936bb",
+      "ref": "3.314-317",
+      "title": "The lots in the helmet"
+    },
+    {
+      "id": "0115f9fd-4466-5ebf-b227-3529b71e8c61",
+      "ref": "3.320-323",
+      "title": "Into the house of Hades"
+    },
+    {
+      "id": "7f18317e-7565-5853-a5dd-ab37caab844d",
+      "ref": "3.324-325",
+      "title": "The lot of Paris"
+    },
+    {
+      "id": "cf15a120-7fe3-5dd6-a9d9-e140c6c62134",
+      "ref": "3.326-327",
+      "title": "Horses and armor at rest"
+    },
+    {
+      "id": "8b86fe54-564c-59c4-8269-af605b8336b8",
+      "ref": "3.328-329",
+      "title": "The husband of Helen"
+    },
+    {
+      "id": "8a938dc1-3711-5ad5-88bf-95fb81da00eb",
+      "ref": "3.328-338",
+      "title": "Paris arms"
+    },
+    {
+      "id": "971c64db-808e-5bea-9938-b5f24e434ba6",
+      "ref": "3.332-333",
+      "title": "The corselet of his brother Lycaon"
+    },
+    {
+      "id": "625a998c-778f-52b2-a587-1bf1d0d60065",
+      "ref": "3.336-338",
+      "title": "Paris takes helmet and spear"
+    },
+    {
+      "id": "496f9c0c-6c45-5330-bca2-c2f8cacf2c2a",
+      "ref": "3.346-349",
+      "title": "Paris throws"
+    },
+    {
+      "id": "9a404170-a225-56b1-af8f-765d65b0e2f3",
+      "ref": "3.346-360",
+      "title": "The spears"
+    },
+    {
+      "id": "d5f22761-0101-592a-98d1-97e34d0d6970",
+      "ref": "3.351-354",
+      "title": "Menelaus prays"
+    },
+    {
+      "id": "483fa5e3-9335-5a03-ad5b-19d5a20ed816",
+      "ref": "3.355-356",
+      "title": "Menelaus throws"
+    },
+    {
+      "id": "8d137ebe-05e9-57c3-9a29-1644fa2267f4",
+      "ref": "3.357-358",
+      "title": "Through shield and corselet"
+    },
+    {
+      "id": "f49731cf-d73d-5abf-9bbd-dddf0d20d3c2",
+      "ref": "3.359-360",
+      "title": "Paris swerves"
+    },
+    {
+      "id": "404eb1ad-3c5f-5c3a-91ed-9136ed8220df",
+      "ref": "3.361-363",
+      "title": "The sword shatters"
+    },
+    {
+      "id": "be99b5c1-cecb-55a2-8a55-2d2a4bf8b762",
+      "ref": "3.364-365",
+      "title": "Menelaus groans to Zeus"
+    },
+    {
+      "id": "29b73f9e-837c-549b-9a51-284d2c2b9adc",
+      "ref": "3.365-368",
+      "title": "No god more baneful"
+    },
+    {
+      "id": "92727870-6a35-5b2b-bb3c-c468a6b45c27",
+      "ref": "3.369-372",
+      "title": "Choked by the strap"
+    },
+    {
+      "id": "eb7e0e9c-9189-59c5-8946-0c6e893b428c",
+      "ref": "3.373-375",
+      "title": "Aphrodite breaks the strap"
+    },
+    {
+      "id": "88c3bd5a-ac1a-5264-a834-1d5b62f3b533",
+      "ref": "3.373-382",
+      "title": "Aphrodite rescues Paris"
+    },
+    {
+      "id": "cd43b3cb-5a0a-514f-9f10-06b4511b49db",
+      "ref": "3.376-378",
+      "title": "The empty helmet"
+    },
+    {
+      "id": "ca5838d5-b994-51ba-8b95-184b2e7e5340",
+      "ref": "3.390-394",
+      "title": "Alexander calls you home"
+    },
+    {
+      "id": "df8d2ca8-fead-5edf-bcf7-78e1a032b790",
+      "ref": "3.395-399",
+      "title": "Helen knows the goddess"
+    },
+    {
+      "id": "e98519ca-acf9-58eb-8302-088b7a57c1b1",
+      "ref": "3.399-402",
+      "title": "Why do you long to deceive me?"
+    },
+    {
+      "id": "a597c362-d6e6-5694-adf8-d958a691e854",
+      "ref": "3.406-412",
+      "title": "Go and sit beside him yourself"
+    },
+    {
+      "id": "c6da5457-abf8-5c2b-a525-9eb9da2cd1f9",
+      "ref": "3.410-412",
+      "title": "The Trojan women would blame me"
+    },
+    {
+      "id": "d96dd19e-abc5-51a9-be4a-dba2aca1c768",
+      "ref": "3.413-417",
+      "title": "Aphrodite's threat"
+    },
+    {
+      "id": "79d9e453-2269-5f6e-a419-69b8f47a58ee",
+      "ref": "3.414-417",
+      "title": "Do not provoke me"
+    },
+    {
+      "id": "5ed0cfed-5d33-57aa-adf4-4f4e7bc9fbf3",
+      "ref": "3.418-420",
+      "title": "Helen follows the goddess"
+    },
+    {
+      "id": "d5c749fa-1901-54b4-a1f4-8697210ebe9f",
+      "ref": "3.421-423",
+      "title": "Helen enters the chamber"
+    },
+    {
+      "id": "23b23e3f-dc2a-58df-b128-e067ee9d4b04",
+      "ref": "3.424-427",
+      "title": "Aphrodite sets a chair"
+    },
+    {
+      "id": "37a8b10e-3acb-5079-b6bd-04bc4ed917db",
+      "ref": "3.428-429",
+      "title": "I wish you had died there"
+    },
+    {
+      "id": "6ae5a708-dee0-5ff2-a6e9-5f3f3ca8a2ff",
+      "ref": "3.430-433",
+      "title": "Helen's taunt"
+    },
+    {
+      "id": "547b685e-ecba-5024-aa0e-46931b724c5a",
+      "ref": "3.438-440",
+      "title": "With Athena's help"
+    },
+    {
+      "id": "e4a4c8f4-648d-5cde-9fe8-3b71699aad7e",
+      "ref": "3.441-446",
+      "title": "Let us go to bed"
+    },
+    {
+      "id": "b4bb3e35-809b-5e70-b370-91a75fcc7170",
+      "ref": "3.443-445",
+      "title": "On the island of Cranae"
+    },
+    {
+      "id": "12862cd9-6a8b-51d1-ad65-b50138f3a760",
+      "ref": "3.447-448",
+      "title": "To the corded bed"
+    },
+    {
+      "id": "33d217c1-6466-5916-bb95-4eed00e6e4eb",
+      "ref": "3.447-450",
+      "title": "Paris and Helen in bed"
+    },
+    {
+      "id": "a6e20a1a-fa63-5a11-940c-f785a1203826",
+      "ref": "3.448-454",
+      "title": "Like a wild beast"
+    },
+    {
+      "id": "f33d8b09-db86-5ab5-9ca6-26eb273ec9dc",
+      "ref": "3.451-454",
+      "title": "Hateful to them all"
+    },
+    {
+      "id": "3c697f55-1b5c-581a-9dc0-a79ce19074de",
+      "ref": "3.456-460",
+      "title": "Victory belongs to Menelaus"
     }
   ]
 }

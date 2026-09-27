@@ -7,7 +7,7 @@ summary: “With rich clods,” an epithet of fertile lands.
 aliases: [fertile, eribolax]
 grc: [ἐριβώλακι]
 en: [deep-soiled]
-of: [phthia, larisa]
+of: [phthia, larisa, troy]
 ---
 
 ## Meaning

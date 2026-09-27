@@ -3,7 +3,7 @@ title: Helios
 greek: Ἠέλιος
 kind: god
 tags: [personification, time]
-summary: The Sun. In Book 1 the sun only marks time, setting on the day of the sacrifice at Chryse, on Hephaestus' fall, and on the gods' feast. Elsewhere in Homer Helios is a god who sees everything.
+summary: The Sun, a god who sees and hears everything. He marks the days, and he is called to witness oaths.
 aliases: [the Sun, sun]
 grc: [ἠέλι*]
 en: [sun]
@@ -11,6 +11,6 @@ en: [sun]
 
 {{notes}}
 
-## Outside Homer
+## Elsewhere in Homer
 
-Helios is invoked as a witness to oaths "who sees all things and hears all things" (Iliad 3.277). His cattle on Thrinacia are the ruin of Odysseus' crew (Odyssey 12).
+In the Odyssey he is again the god "who sees all things and hears all things" (11.109, 12.323), and his cattle on Thrinacia are the ruin of Odysseus' crew (Odyssey 12).

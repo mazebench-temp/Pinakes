@@ -3,11 +3,11 @@ title: Dog-face
 greek: κυνώπης
 kind: epithet
 tags: [heroic-epithet, insult, shame]
-summary: “Dog-eyed, dog-faced”: Achilles' insult to [[Agamemnon]] at 1.159. In Homer the dog is the image of shamelessness.
+summary: “Dog-eyed, dog-faced,” a word for the shameless: Achilles' insult to [[Agamemnon]], and [[Helen]]'s word for herself. In Homer the dog is the image of shamelessness.
 aliases: [dog-eyed, kynopes]
 grc: [κυνῶπα]
 en: [dog-face]
-of: [agamemnon]
+of: [agamemnon, helen]
 ---
 
 ## Meaning

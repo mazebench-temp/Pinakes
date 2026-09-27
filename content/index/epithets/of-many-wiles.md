@@ -3,7 +3,7 @@ title: Of many wiles
 greek: πολύμητις
 kind: epithet
 tags: [heroic-epithet]
-summary: The defining epithet of [[Odysseus]], “of many counsels, full of resource.” In Book 1 it marks him as commander of the ship that returns Chryseis.
+summary: The defining epithet of [[Odysseus]], “of many counsels, full of resource.”
 aliases: [resourceful, many-counseled, polymetis]
 grc: [πολύμητις]
 en: [of many wiles]

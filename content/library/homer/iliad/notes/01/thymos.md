@@ -1,3 +1,6 @@
+---
+summary: Anger rises in the θυμός, love and pleasure are felt there, and there [[Achilles]] weighs whether to kill [[Agamemnon]].
+---
 {{quote:ef4b48c4-8845-5adb-a4fa-e59b908cb876}}
 
 The first use sets the pattern. The army approves the ransom, but it does not please the θυμός of Agamemnon. Private pleasure overrides public judgment.

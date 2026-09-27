@@ -6,7 +6,7 @@ tags: [weapon]
 summary: χαλκός, copper and its alloy bronze: the metal of the heroes' weapons, armor and tools.
 aliases: [copper, khalkos]
 grc: [χαλκὸς, χαλκοχιτώνων, χαλκοβατὲς]
-en: [bronze, bronze-armored, bronze-floored]
+en: [bronze, bronze-floored]
 ---
 
 χαλκός is copper and its alloy bronze. The weapons, armor and cutting tools of Homer's heroes are bronze, and the word alone can mean a blade. For the precious metals, see [[gold-and-silver]].

@@ -3,7 +3,7 @@ title: Bed
 greek: λέχος
 kind: object
 tags: [woman, captive, divine-scene]
-summary: The bed frames Book 1. Early on, Agamemnon says Chryseis will share his bed in Argos; at the end, Zeus goes up to his bed on Olympus, with Hera beside him.
+summary: The bed (λέχος, εὐνή), above all the marriage bed, from which the wife, ἄλοχος, “bedfellow”, takes her name.
 aliases: [beds, marriage bed]
 grc: [λέχος]
 en: [bed]
