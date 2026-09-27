@@ -1,3 +1,7 @@
+---
+summary: Book 1 has three: Nestor's youth among the Lapiths (1.259–274), Thetis' rescue of Zeus (1.396–406), and Hephaestus' fall from heaven (1.586–594).
+---
+
 **Nestor.** To persuade Achilles and Agamemnon to listen to him, Nestor tells how the greatest heroes of the past listened to him ([[catalogue-of-lapiths]], [[nestor-and-the-centaurs]]). The logic runs from the greater to the lesser: if they obeyed, so should you.
 
 {{quote:df86957a-826b-5d1d-9e84-52c77f03902f}}

@@ -3,7 +3,7 @@ title: Short-lived
 greek: μινυνθάδιος
 kind: epithet
 tags: [heroic-epithet, fate]
-summary: Achilles' description of himself in his prayer to [[Thetis]] (1.352): born to live “only a little while.”
+summary: “Lasting a short time,” the adjective of a life cut short: Achilles uses it of himself, and the narrator of Hector and of the young Trojan Simoeisius.
 aliases: [minynthadios]
 grc: [μινυνθάδιον]
 en: [short-lived]

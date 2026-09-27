@@ -8,7 +8,7 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 - `npm run dev`: dev server on :5178 with rebuild and live reload (builds run in a child process).
 - `npm run check`: validate without writing. `npm test`: unit and content-integrity tests.
 - `npm run quotes`: register `{{quote:Iliad 1.1-7 | Title}}` tags and rewrite them as `{{quote:<uuid>}}`.
-- `npm run export`: static copy in `dist/` (entries bundled into one file).
+- `npm run export`: static copy in `dist/` (entries bundled into a few chunks of under 3 MB).
 - `node scripts/checkquotes.mjs`: English quotations in articles that no longer match the translation.
 - `node scripts/lexicon.mjs skeleton|check|merge|lemmas`: build and validate a book's lexicon in parts.
 

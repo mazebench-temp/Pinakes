@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // Static export: dist/ holds a self-contained copy of the site for any static host.
-// Entries are bundled into one file (data/entries.json) so the export stays at a few dozen files.
+// Entries are bundled into a few chunks (data/entries-<n>.json), each well under the 16 MB a host may
+// allow per file, so the export stays at a few dozen files. An entry's chunk is a hash of its id, and
+// the page records the number of chunks (window.PINAKES_BUNDLE.chunks); store.js computes the same hash.
 //   dist/index.html      the full page, for any static host (GitHub Pages, a folder on a server)
 //   dist/artifact.html   the same app as a page fragment, for hosts that supply their own <head>
 import fs from 'node:fs';
@@ -26,14 +28,20 @@ for (const file of walk(path.join(SITE, 'data'))) {
   const rel = path.relative(SITE, file);
   if (!rel.startsWith(path.join('data', 'entries') + path.sep)) copy(rel);
 }
-const entries = {};
-for (const file of walk(path.join(SITE, 'data', 'entries'), f => f.endsWith('.json'))) {
-  entries[path.basename(file, '.json')] = JSON.parse(fs.readFileSync(file, 'utf8'));
+const CHUNK_BYTES = 3e6;
+const bucket = (id, n) => { let h = 0x811c9dc5; for (let i = 0; i < id.length; i++) { h ^= id.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; } return h % n; };
+const entryFiles = walk(path.join(SITE, 'data', 'entries'), f => f.endsWith('.json'));
+const total = entryFiles.reduce((s, f) => s + fs.statSync(f).size, 0);
+const chunks = Math.max(1, Math.ceil(total / CHUNK_BYTES));
+const parts = Array.from({ length: chunks }, () => ({}));
+for (const file of entryFiles) {
+  const id = path.basename(file, '.json');
+  parts[bucket(id, chunks)][id] = JSON.parse(fs.readFileSync(file, 'utf8'));
 }
-fs.writeFileSync(path.join(DIST, 'data', 'entries.json'), JSON.stringify(entries));
+parts.forEach((part, i) => fs.writeFileSync(path.join(DIST, 'data', `entries-${i}.json`), JSON.stringify(part)));
 
 const page = fs.readFileSync(path.join(SITE, 'index.html'), 'utf8')
-  .replace('<script type="module"', '<script>window.PINAKES_BUNDLE = true;</script>\n<script type="module"');
+  .replace('<script type="module"', `<script>window.PINAKES_BUNDLE = { chunks: ${chunks} };</script>\n<script type="module"`);
 fs.writeFileSync(path.join(DIST, 'index.html'), page);
 
 // The fragment: the head's title, description, fonts and stylesheet, then the body.

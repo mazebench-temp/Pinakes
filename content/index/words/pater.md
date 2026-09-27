@@ -2,8 +2,8 @@
 title: Father
 greek: πατήρ
 kind: term
-tags: [family-of-chryses]
-summary: Book 1 is full of fathers. Chryses begging for his daughter, Zeus as "father of men and gods", Peleus in whose halls Achilles grew up, the Old Man of the Sea, and the father whom Briareus surpasses.
+tags: [kinship]
+summary: The word for a father, of men and of gods; Zeus is “the father of men and gods”. The Iliad's heroes are named by their fathers and measured against them, and its fathers send their sons to war, advise them, and lose them.
 aliases: [pater, father]
 grc: [πατρὶ, πατρὸς, πατήρ, πατὴρ, πάτερ]
 en: [father, Father]

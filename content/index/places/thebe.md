@@ -6,6 +6,8 @@ tags: [troad, city, troad-local]
 summary: The "sacred city of Eetion" in the Troad, sacked by Achilles. [[Chryseis]] was taken there, and so was the fortune the Achaeans divided.
 aliases: [Thebe under Placus]
 grc: [Θήβην]
+# Θήβης at 4.378 and 4.406 is Boeotian Thebes (thebes).
+except: [4.378, 4.406]
 en: [Thebe]
 passages:
   - 1.366-369 | The sack of Thebe

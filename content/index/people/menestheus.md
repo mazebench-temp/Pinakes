@@ -16,6 +16,8 @@ passages:
 
 κοσμῆσαι ἵππους τε καὶ ἀνέρας ἀσπιδιώτας: "to marshal horses and shield-bearing men". κοσμέω means "set in order, arrange for battle". The Catalogue gives Menestheus a single distinction and at once shares it with Nestor, "for he was older" (2.555). Nestor has just advised Agamemnon to arrange the army by tribes and clans (2.362–368), and in Book 4 he is seen putting his chariots in front and his worst men in the middle (4.293–309). The two of them are the Achaeans' experts in the ordering of an army.
 
+{{notes}}
+
 ## Elsewhere in Homer
 
 The poem gives him no great deed. Agamemnon finds him standing idle beside Odysseus and rebukes them both (4.327–348). When Sarpedon and Glaucus attack the tower he holds on the wall, he sends the herald Thootes for the Ajaxes (12.331–377). With Stichius he carries off the body of Amphimachus (13.195–196), and he leads the Athenians with Pheidas, Stichius and Bias (13.689–691). Hector kills Stichius, his "trusted companion" (15.329–331).

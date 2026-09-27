@@ -33,10 +33,14 @@ export async function catalog() {
   return Object.assign(cat, { by: lookups });
 }
 
-/** One entry's full page. Static exports bundle them all into data/entries.json. */
+/** The chunk of a bundled export that holds an entry: the same hash as scripts/export.mjs. */
+const bucket = (id, n) => { let h = 0x811c9dc5; for (let i = 0; i < id.length; i++) { h ^= id.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; } return h % n; };
+
+/** One entry's full page. Static exports bundle them into a few chunks, data/entries-<n>.json. */
 export const entry = async id => {
   if (window.PINAKES_BUNDLE) {
-    const all = await getJSON('entries.json');
+    const n = window.PINAKES_BUNDLE.chunks ?? 1;
+    const all = await getJSON(`entries-${bucket(id, n)}.json`);
     if (!all[id]) throw new Error(`There is no entry called “${id}”.`);
     return all[id];
   }

@@ -5,7 +5,7 @@ kind: epithet
 tags: [ship]
 summary: “Swift,” the commonest epithet of [[ships]].
 aliases: [thoos]
-grc: [θοὰς, θοῇ, θοὴν]
+grc: [θοὰς, θοῇ, θοὴν, "!^Θόας"]
 en: [swift]
 of: [ships]
 ---

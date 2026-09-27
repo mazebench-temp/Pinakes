@@ -14,7 +14,7 @@ passages:
 
 {{quote:6e9cc963-7c75-593c-8598-2eb519a7eceb}}
 
-[[Thersites]] takes over Achilles' case against Agamemnon. Two of these lines are Achilles' own: “he has taken his prize and keeps it, having seized it himself” is what Achilles told Thetis (1.356), and “this insult would be your last” is what he said to Agamemnon's face (1.232). Achilles is “a far better man” than the king, the claim of his oath in Book 1 (1.244). But Thersites mocks the absent hero too: there is “no anger at all in Achilles' heart; he lets it pass”. The audience knows better. Thersites is “most hateful of all to Achilles and to Odysseus” (2.220), and even his defense of Achilles is an insult.
+[[Thersites]] takes over Achilles' case against Agamemnon. Two of these lines are Achilles' own: “he has taken my prize and keeps it, having seized it himself” is what Achilles told Thetis (1.356), and “this insult would be your last” is what he said to Agamemnon's face (1.232). Achilles is “a far better man” than the king, the claim of his oath in Book 1 (1.244). But Thersites mocks the absent hero too: there is “no anger at all in Achilles' heart; he lets it pass”. The audience knows better. Thersites is “most hateful of all to Achilles and to Odysseus” (2.220), and even his defense of Achilles is an insult.
 
 **Agamemnon's admission.** Answering Nestor, Agamemnon says it in the assembly: “Achilles and I fought for the sake of a girl with hostile words, and I was the first to grow angry” (2.377–378). He hopes that they will one day be of one mind (2.379–380). See [[agamemnon]].
 

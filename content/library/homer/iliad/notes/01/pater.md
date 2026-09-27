@@ -1,3 +1,7 @@
+---
+summary: Book 1 is full of fathers. Chryses begging for his daughter, Zeus as "father of men and gods", Peleus in whose halls Achilles grew up, the Old Man of the Sea, and the father whom Briareus surpasses.
+---
+
 {{quote:fed5e5f4-5737-512d-80b4-9ec87a2c8559}}
 
 The girl must be given back "to her dear father": the plague is about a father's claim.

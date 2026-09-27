@@ -15,6 +15,8 @@ relations:
 
 The Iliad names him twice, both times in Odysseus' mouth. Here Odysseus stakes his name as the father of Telemachus on his threat to Thersites. In Book 4 he tells Agamemnon to watch “the dear father of Telemachus” among the front-fighters (4.354). Other heroes are named by their fathers; Odysseus names himself by his son.
 
+{{notes}}
+
 ## Elsewhere in Homer
 
 The Odyssey's first four books follow Telemachus. Athena rouses him to call an assembly on Ithaca and to sail to Pylos and Sparta for news of his father (Books 1–4). He was a baby at the breast when Odysseus left (11.448–449). Father and son meet in Eumaeus' hut (16.154–320) and kill the suitors together (Book 22).

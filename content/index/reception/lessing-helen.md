@@ -5,7 +5,7 @@ kind: anecdote
 tags: [art]
 summary: In his Laocoön (1766) Lessing argued that poetry cannot paint beauty part by part, as painting can, and took Homer as his proof. Homer never describes Helen; he shows her beauty through its effect on the cold old men of Troy, who judge her worth the war.
 source: G. E. Lessing, Laokoon (1766), chapters 20–22
-of: [helen, trojan-elders, no-blame]
+of: [helen, trojan-elders, no-blame, lessing]
 passages:
   - 3.154-160 | The elders on the wall
 ---

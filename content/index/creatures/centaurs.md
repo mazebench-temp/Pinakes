@@ -19,4 +19,4 @@ passages:
 
 ## Outside Homer
 
-The Odyssey tells how the Centaur Eurytion, drunk at the house of Peirithous, started the fight between Centaurs and Lapiths (21.295–304). Later tradition set it at Peirithous' wedding to Hippodamia. The battle was a favorite subject of Greek sculpture, on the west pediment of the temple of Zeus at Olympia and on the Parthenon metopes. Not all Centaurs were wild: Chiron, "most just of the Centaurs" (Iliad 11.832), taught Achilles medicine.
+The Odyssey tells how the Centaur Eurytion, drunk at the house of Peirithous, started the fight between Centaurs and Lapiths (21.295–304). Later tradition set it at Peirithous' wedding to Hippodamia. The battle was a favorite subject of Greek sculpture, on the west pediment of the temple of Zeus at Olympia and on the Parthenon metopes. Not all Centaurs were wild: [[chiron|Chiron]], "most just of the Centaurs" (Iliad 11.832), taught Achilles medicine.

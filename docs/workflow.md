@@ -1,6 +1,6 @@
 # Studying a new book: the workflow
 
-How Iliad 2 and 3 were added, as a checklist for the next book. Every step ends with `npm run check`
+How Iliad 2 to 4 were added, as a checklist for the next book. Every step ends with `npm run check`
 and `npm test` clean.
 
 1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other
@@ -12,7 +12,10 @@ and `npm test` clean.
 3. **Translation** (`en/NN.txt`). Keep line fidelity, and keep each name on its own line. Repeated
    Greek lines get the same English, and so do Book 1's formulas (check `TRANSLATION.md` and the
    earlier books for exact repeats). Then have an independent audit compare every line with the
-   Greek, and record new formulas and disputed lines in `TRANSLATION.md`. Tell the index writers
+   Greek, and record new formulas and disputed lines in `TRANSLATION.md`. Let the index writers start
+   only once the audit's changes are in, so they quote the final English. (A complete Monro–Allen
+   Iliad and Odyssey, for checking citations of later books, is in the sibling GreekWikiAstra project:
+   `site/dist/client/library/local-homer-iliad-*.json`.) Tell the index writers
    about every change the audit makes, and run `node scripts/checkquotes.mjs` after the last one:
    articles written while the translation moved will quote old wording.
 4. **Structure** (`structure/NN.json`): scenes covering every line, speeches that match the

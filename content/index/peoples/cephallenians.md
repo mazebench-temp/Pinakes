@@ -22,6 +22,8 @@ Their twelve ships are "red-painted" (μιλτοπάρῃοι; [[red-painted]]),
 
 {{quote:845226fa-e569-5df9-896c-3f9ccacaa345}}
 
+{{notes}}
+
 ## Elsewhere in Homer
 
 When Agamemnon reviews the army, "the ranks of the Cephallenians" stand around Odysseus (4.330–331). In the Odyssey Odysseus has herds of cattle "in the land of the Cephallenians" (Od. 20.210), and Laertes, at the end of the poem, remembers leading "the Cephallenians" to take Nericus on the mainland (Od. 24.377–378).

@@ -26,4 +26,4 @@ The words σμαραγεῖ δέ τε (“and … resounds”) return in the sim
 
 ## Elsewhere in Homer
 
-In Book 4 the Danaan ranks move to battle like the waves that the West Wind stirs up (κινήσαντος, “stirring”) and drives in, one after another, onto an echoing beach: they rear up out at sea, then break roaring on the land (Iliad 4.422–428). There the picture is the rhythm of an advance; here it is the noise of a return.
+In Book 4 the Danaan ranks move to battle like the waves that the West Wind stirs up (κινήσαντος, “stirring”) and drives in, one after another, onto an echoing beach: they rear up out at sea, then break roaring on the land (Iliad 4.422–428; see [[waves-on-the-shore]]). There the picture is the rhythm of an advance; here it is the noise of a return.

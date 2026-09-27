@@ -739,6 +739,12 @@
       "summary": "Days, generations, and chronology."
     },
     {
+      "id": "kinship",
+      "facet": "idea",
+      "label": "Kinship",
+      "summary": "Fathers and sons, mothers, brothers and in-laws: the ties of family and what they demand."
+    },
+    {
       "id": "divine-epithet",
       "facet": "language",
       "label": "Divine epithet",

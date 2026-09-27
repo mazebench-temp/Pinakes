@@ -7,8 +7,8 @@ summary: A son of [[Priam]] by Laothoe. [[Paris]] wears his corselet in the duel
 aliases: [Lycaon]
 grc: [Λυκάονος]
 en: [Lycaon]
-# Λυκάονος at 2.826 is Lycaon the father of Pandarus (lycaon).
-except: [2.826]
+# Λυκάονος at 2.826, 4.89 and 4.93 is Lycaon the father of Pandarus (lycaon).
+except: [2.826, 4.89, 4.93]
 relations:
   - father: priam
   - brother: paris (3.333)

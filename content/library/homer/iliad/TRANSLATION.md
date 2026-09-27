@@ -41,6 +41,12 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290) |
 | δράκων | serpent | |
 | κουλεόν, κολεόν | sheath | |
+| ἔρις / νεῖκος | strife / quarrel | kept apart: Strife "cast the quarrel" (4.444) |
+| ἀλκή / βίη | courage / strength | |
+| κήδεα | sorrows | |
+| ἀτασθαλίαι | recklessness | |
+| ὄις | sheep | ewes only where the Greek says so |
+| ὄρνυμι / ὀτρύνω | rouse / urge on | |
 
 ## Epithets and formulas
 
@@ -139,6 +145,28 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | Δαρδανίδης (of Priam) / Λαομεδοντιάδης | descendant of Dardanus / son of Laomedon |
 | πὺξ ἀγαθός | good with his fists |
 | θυγατρῶν εἶδος ἀρίστη | most beautiful in form of the daughters (2.715, 3.124) |
+| φύλοπις αἰνή | the dread din of battle |
+| ὑπὲρ ὅρκια δηλήσασθαι | do harm in defiance of the oaths (3.299, 4.67) |
+| ὑπερκύδαντες Ἀχαιοί | the exultant Achaeans |
+| ἀγκυλομήτης Κρόνος | crooked-counseling Cronus |
+| ἐϋμμελίης (Πρίαμος) | of the good ash spear |
+| Ἴλιος ἱρή | sacred Ilios |
+| Ἥρη Ἀργείη / Ἀλαλκομενηῒς Ἀθήνη | Argive Hera / Athena of Alalcomenae |
+| Λυκηγενής, κλυτότοξος (Ἀπόλλων) | the Lycian-born, famed for his bow |
+| Διὸς θυγάτηρ ἀγελείη / Τριτογένεια | the daughter of Zeus, driver of spoil / Tritogeneia |
+| ὑψίζυγος, αἰθέρι ναίων | throned on high, who dwells in the upper air |
+| κυδάλιμος / ἀρήϊος | glorious / warlike |
+| ἀμύμων (of persons) / ἐσθλός / ἀγαθός (of persons) | noble / brave / brave |
+| πλήξιππος / ἱππηλάτα | driver of horses / horse-driving |
+| Δαναοὶ ταχύπωλοι | the Danaans of the swift horses |
+| τόξων ἐῢ εἰδώς | well skilled with the bow |
+| ὑπόδρα ἰδών | looking at him darkly |
+| ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων | what a word has escaped the barrier of your teeth |
+| ἀλλʼ ἄγε δή | But come |
+| τὸν δὲ σκότος ὄσσε κάλυψεν | darkness covered his eyes |
+| λῦσε δὲ γυῖα | loosened his limbs |
+| δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχεʼ ἐπʼ αὐτῷ | he fell with a thud, and his armor clattered upon him |
+| Δεῖμος, Φόβος, Ἔρις | Terror, Rout, Strife |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -182,4 +210,33 @@ Cyparisseis); where two places share a name, the index keeps them apart.
   took it as a masculine noun, "a messenger".
 - **3.278–279** — οἳ … τίνυσθον is dual: two powers below the earth who punish perjurers after death,
   usually taken to be Hades and Persephone. Rendered "you two who below the earth punish dead men".
+- **4.6** — παραβλήδην: "provocatively, with a side meaning", or "by comparison", setting Aphrodite against
+  Hera and Athena. Rendered "with sly intent".
+- **4.8** — Ἀλαλκομενηΐς: "of Alalcomenae", the Boeotian town, or "the Protectress" (from ἀλαλκεῖν); both
+  explanations are ancient. Rendered as the place.
+- **4.59** — πρεσβυτάτην: "eldest" or "most senior". Hera claims it by birth and by marriage (4.60–61); in
+  Hesiod (*Theogony* 453–454) Hestia is the first-born. Rendered "the most senior".
+- **4.82** — ἦ ("surely"), as printed; some editors read ἤ … ἤ, "either … or", as at 4.15.
+- **4.105** — ἴξαλος, of the wild goat: only here; "leaping" or "full-grown". Rendered "leaping".
+- **4.117** — ἕρμʼ ὀδυνάων: ἕρμα is a prop or foundation (perhaps ballast); the sense of the phrase is
+  debated. Rendered "a source of black pains".
+- **4.128** — ἀγελείη: "driver of spoil" (ἄγω + λεία) or "leader of the host" (ἄγω + λαός); both are
+  ancient explanations. Rendered "driver of spoil".
+- **4.133, 4.137, 4.187** — the double corselet, the μίτρη and the ζῶμα: what each piece was, and how
+  they were worn together, is disputed. Rendered "the corselet … in a double layer", "the band", "the
+  kilt".
+- **4.235** — ψευδέσσι, "liars", as printed; with the other accent, ψεύδεσσι, "lies". Both readings are
+  ancient.
+- **4.242** — ἰόμωροι: the meaning is unknown (also at 14.479); the ancients guessed. Rendered
+  "arrow-fighters".
+- **4.273, 4.280, 4.285** — Αἴαντε, dual: the two Ajaxes, as rendered. The view that the dual once meant
+  Ajax and his brother Teucer is a theory only.
+- **4.315, 4.444** — ὁμοίϊος, of old age and of strife: "common to all" (the ancient gloss) or
+  "grievous". Rendered "the common lot" and "common to all".
+- **4.371** — πολέμοιο γεφύρας, "the bridges of war": the lanes between the ranks, or the passages of
+  battle; rendered literally.
+- **4.407** — ἄρειον, "stronger", as printed; or Ἄρειον, "the wall of Ares", Thebes. Rendered "stronger".
+- **4.412** — τέττα: an affectionate address found only here, "friend" or perhaps "father". Rendered
+  "friend".
+- **4.472** — ἐδνοπάλιζεν: rare, "tossed, hurled about"; the exact sense is uncertain.
 

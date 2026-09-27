@@ -4,7 +4,7 @@ greek: πλήξιππος
 kind: epithet
 tags: [heroic-epithet, livestock]
 summary: “Striker of horses,” the charioteer who drives his team with the whip: an epithet of [[Pelops]] and a few other heroes.
-aliases: [horse-driving, lasher of horses, plexippos]
+aliases: [lasher of horses, plexippos]
 grc: [πληξίππῳ]
 en: [driver of horses]
 of: [pelops]

@@ -2,7 +2,7 @@
 title: In-laws
 greek: ἑκυρός, δαήρ, γάλως
 kind: term
-tags: [woman]
+tags: [woman, kinship]
 summary: The Homeric words for a wife's family by marriage: her husband's father (ἑκυρός) and mother (ἑκυρή), his brother (δαήρ), his sister (γάλως) and his brothers' wives (εἰνάτερες); to them she is νυός, “daughter-in-law”. Most of these words are inherited from Indo-European.
 aliases: [hekyros, hekyrē, daēr, daer, galōs, galoos, nyos, einateres, pēos, father-in-law, brother-in-law, sister-in-law, daughter-in-law, mother-in-law]
 grc: [ἑκυρὲ, δαὴρ, γαλόῳ, νυὸν, πηούς, νύμφα]

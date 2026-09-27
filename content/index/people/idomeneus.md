@@ -10,6 +10,6 @@ en: [Idomeneus]
 
 {{notes}}
 
-## Outside Homer
+## Elsewhere in Homer
 
 Idomeneus has a book of glory in the fighting at the ships (Iliad 13). He boasts there of his descent from Zeus through Minos and Deucalion (13.449–454).

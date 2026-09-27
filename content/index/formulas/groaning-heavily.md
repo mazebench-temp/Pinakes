@@ -3,7 +3,7 @@ title: Groaning heavily
 greek: βαρὺ στενάχων
 kind: formula
 tags: [speech-formula, mind]
-summary: The participle that introduces Achilles' reply to his mother (1.364): “groaning heavily.”
+summary: “Groaning heavily”, βαρὺ στενάχων: the participle of grief that takes the place of “answering” in a line that introduces a reply.
 aliases: [bary stenachon]
 grc: [βαρὺ στενάχων]
 en: [Groaning heavily]

@@ -3,7 +3,7 @@ title: Asclepius
 greek: Ἀσκληπιός
 kind: person
 tags: [demigod, thessaly]
-summary: The healer whose sons [[Podalirius]] and [[Machaon]] lead the men of Tricca, Ithome and Oechalia. In Homer he is a mortal, "the blameless physician"; later he became the god of healing.
+summary: The healer whose sons [[Podalirius]] and [[Machaon]] lead the men of Tricca, Ithome and Oechalia. In Homer he is a mortal, “the noble healer”; later he became the god of healing.
 aliases: [Asklepios, Aesculapius]
 grc: [Ἀσκληπ*]
 passages:
@@ -14,7 +14,7 @@ passages:
 
 ## In Homer
 
-ἰητῆρʼ ἀγαθώ, "good healers" (2.732), is said of the sons, and healing is the family's craft. Asclepius himself appears only as a father. Machaon is "the son of Asclepius, the blameless physician" (4.194, 11.518), and when he treats Menelaus' arrow wound he uses "soothing drugs, which Chiron once gave to his father in friendship" (4.218–219). Chiron, "the most just of the Centaurs", also taught Achilles medicine (11.831–832). Homer never makes Asclepius a god, and never names his parents.
+ἰητῆρʼ ἀγαθώ, "good healers" (2.732), is said of the sons, and healing is the family's craft. Asclepius himself appears only as a father. Machaon is “the son of Asclepius, the noble healer” (4.194, 11.518), and he heals with “soothing drugs, which Chiron once gave to his father in friendship” (4.218–219). [[Chiron]], “the most just of the Centaurs”, also taught Achilles medicine (11.831–832). Homer never makes Asclepius a god, and never names his parents.
 
 ## Outside Homer
 

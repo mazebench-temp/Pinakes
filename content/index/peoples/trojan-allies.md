@@ -6,6 +6,8 @@ tags: [trojan]
 summary: The peoples who came from Thrace to Lycia to fight for [[Priam]]'s city, speaking many languages and led each by its own chiefs.
 aliases: [allies, epikouroi, Trojan allies]
 grc: [ἐπίκουρ*]
+# ἐπικούρους at 4.379 are the allies Tydeus and Polynices sought at Mycenae.
+except: [4.379]
 en: [allies]
 ---
 

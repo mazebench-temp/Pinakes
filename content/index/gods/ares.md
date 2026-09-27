@@ -28,7 +28,7 @@ Father of Ascalaphus and Ialmenus, the leaders from Aspledon and Orchomenus, by 
 
 θεράποντες Ἄρηος, “attendants of Ares”: the warriors as the servants of war. Agamemnon uses it to address the army.
 
-ὄζος Ἄρηος, “offshoot of Ares” (ὄζος, “branch, shoot”): a warrior as a sprig of the war god (2.540, 2.663, 2.704, 2.745, 2.842). See [[offshoot-of-ares]].
+ὄζος Ἄρηος, “offshoot of Ares”: a warrior as a sprig of the war god (ὄζος, “branch, shoot”; 2.540, 2.663, 2.704, 2.745, 2.842). See [[offshoot-of-ares]].
 
 ἀτάλαντος Ἄρηϊ, “the equal of Ares” (2.627), and ἀτάλαντος Ἐνυαλίῳ, “the equal of Enyalius” (2.651). See [[equal-of-ares]] and [[enyalius]].
 
@@ -36,7 +36,7 @@ Other phrases give him the qualities of war: “the hateful work of Ares” (σ�
 
 ## Mythology
 
-Ares takes the Trojan side in the Iliad. Diomedes wounds him with Athena's help, and he goes up to Olympus roaring, where Zeus calls him the most hateful of the gods (5.855–898). In the battle of the gods Athena fells him with a stone (21.391–414). His companions in battle are Deimos and Phobos, “Terror” and “Rout” (4.440, 15.119). In the Odyssey the singer Demodocus tells how Hephaestus caught him in bed with Aphrodite (8.266–366).
+Ares takes the Trojan side in the Iliad. Diomedes wounds him with Athena's help, and he goes up to Olympus roaring, where Zeus calls him the most hateful of the gods (5.855–898). In the battle of the gods Athena fells him with a stone (21.391–414). His companions in battle are Deimos and Phobos, “Terror” and “Rout” (4.440, 15.119; see [[terror]] and [[rout]]). In the Odyssey the singer Demodocus tells how Hephaestus caught him in bed with Aphrodite (8.266–366).
 
 ## Outside Homer
 

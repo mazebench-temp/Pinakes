@@ -13,4 +13,4 @@ Boccaccio, retelling the story in *Il Filostrato* (1330s), renamed her Criseida,
 
 In Homer both women are silent prizes. Briseis speaks once, in her lament for Patroclus in Book 19, and Chryseis never speaks. Their afterlife in European literature gave the name a voice and a story the Iliad never gave either woman.
 
-See [[briseis]], [[chryseis]] and [[captive-women]].
+See [[briseis]], [[chryseis]] and [[captive-women]]; for the go-between of the same story, [[pandarus-the-go-between]].

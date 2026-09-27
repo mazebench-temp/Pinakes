@@ -16,9 +16,7 @@ passages:
 
 ὄζος Ἄρηος "offshoot of Ares" ([[offshoot-of-ares]]); Χαλκωδοντιάδης "son of Chalcodon"; ἀρχὸς Ἀβάντων "leader of the Abantes". With him go the forty ships of [[Euboea]].
 
-## Elsewhere in Homer
-
-He is among the first Achaean leaders to die. When Antilochus kills Echepolus, Elephenor seizes the body by the feet and drags it out of range to strip the armor. As he stoops, his side is left bare beside his shield, and Agenor spears him there (4.463–470). The Catalogue's line "son of Chalcodon, leader of the great-hearted Abantes" returns at his death (4.464).
+{{notes}}
 
 ## Outside Homer
 

@@ -21,7 +21,7 @@ They hold [[Euboea]] and its towns (2.536–539), and they follow [[Elephenor]],
 - θοοί "swift" ([[swift]]).
 - ὄπιθεν κομόωντες "their hair long at the back" = ὄπιθεν (behind) + κομάω (wear long hair). The Achaeans in general are "long-haired" (κάρη κομόωντες; [[long-haired]]); the Abantes let their hair grow only behind.
 - αἰχμηταί "spearmen" ([[spearmen]]), "eager with outstretched ash spears to tear the corselets around the chests of their enemies" (2.543–544): they fight at close range with the thrusting spear.
-- μεγάθυμοι "great-hearted" ([[great-hearted]]), in the line that names their leader (2.541), repeated when he falls (4.464).
+- μεγάθυμοι "great-hearted" ([[great-hearted]]), in the line that names their leader (2.541).
 
 ## Outside Homer
 

@@ -22,7 +22,7 @@ The strap was made from the hide of an ox “slain by force”, which is usually
 
 ## In the poem
 
-**Whose gifts.** Hector had mocked his brother's lyre, his hair and his looks as “the gifts of Aphrodite”, which would not help him when he lay in the dust (3.54–55). Paris answered that the gifts of the gods are not to be cast aside (3.64–66; see [[gifts-of-the-gods]]). The duel proves them both right. The gifts do not help Paris against Menelaus; the goddess who gave them does. In the next book Zeus teases Hera and Athena, who sit apart and watch while “laughter-loving Aphrodite always stands by him and wards off doom, and just now she saved him when he thought he would die” (4.10–12).
+**Whose gifts.** Hector had mocked his brother's lyre, his hair and his looks as “the gifts of Aphrodite”, which would not help him when he lay in the dust (3.54–55). Paris answered that the gifts of the gods are not to be cast aside (3.64–66; see [[gifts-of-the-gods]]). The duel proves them both right. The gifts do not help Paris against Menelaus; the goddess who gave them does. In the next book Zeus teases Hera and Athena, who sit apart and watch while “laughter-loving Aphrodite is always at his side and wards off doom from him, and now she has saved him, when he thought that he would die” (4.10–12).
 
 **The glory lost.** The rescue is told in the pattern the Iliad uses for a god's intervention: what would have happened, “had not” the god been quick to see it (3.373–374; see [[divine-rescue]]). Menelaus would have won “untold glory” (ἄσπετον … κῦδος; see [[kydos]]). He blamed Zeus for his failure; the audience knows it was Aphrodite. Paris, in the bedroom, will claim that Menelaus won “with Athena's help” (3.439), although the narrator has shown no god helping him.
 

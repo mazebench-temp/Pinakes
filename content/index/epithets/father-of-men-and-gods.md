@@ -3,7 +3,7 @@ title: Father of men and gods
 greek: πατὴρ ἀνδρῶν τε θεῶν τε
 kind: epithet
 tags: [divine-epithet]
-summary: The line-end formula for [[Zeus]] as head of the divine household and of the world, used once in Book 1, as he answers Hera (1.544).
+summary: The line-end formula for [[Zeus]] as head of the divine household and of the world.
 aliases: [pater andron te theon te]
 grc: [πατὴρ ἀνδρῶν τε θεῶν τε]
 en: [father of men and gods]

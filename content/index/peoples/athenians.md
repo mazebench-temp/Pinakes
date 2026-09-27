@@ -16,9 +16,11 @@ passages:
 
 κοῦροι Ἀθηναίων, "the young men of the Athenians", offer bulls and rams to [[Erechtheus]] "as the years come round" (2.550–551), a yearly festival (see [[athena-and-erechtheus]]). No towns are listed for them: they are the people of [[Athens]]. [[Menestheus]] leads them with fifty ships, and Ajax's men from [[Salamis]] take their stand beside the Athenian battalions (2.558).
 
+{{notes}}
+
 ## Elsewhere in Homer
 
-Agamemnon finds Menestheus standing idle "among the Athenians, masters of the war cry" (4.327–328). When Hector attacks the ships, the Athenians hold the line with the Boeotians, Ionians, Locrians and Epeians, under Menestheus, Pheidas, Stichius and Bias (13.685–691). Aeneas kills Iasus, "a leader of the Athenians" (15.332–337).
+Agamemnon finds Menestheus standing idle with “the Athenians, masters of the war cry” around him (4.327–328). When Hector attacks the ships, the Athenians hold the line with the Boeotians, Ionians, Locrians and Epeians, under Menestheus, Pheidas, Stichius and Bias (13.685–691). Aeneas kills Iasus, "a leader of the Athenians" (15.332–337).
 
 ## Outside Homer
 

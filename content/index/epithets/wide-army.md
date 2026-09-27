@@ -3,7 +3,7 @@ title: Wide army
 greek: στρατὸς εὐρύς
 kind: epithet
 tags: [heroic-epithet, camp]
-summary: The line-end formula στρατὸν εὐρὺν Ἀχαιῶν, “the wide army of the Achaeans,” used four times in Book 1.
+summary: “The wide army,” a line-end formula for a host spread out over the plain or the shore, most often στρατὸν εὐρὺν Ἀχαιῶν, “the wide army of the Achaeans.”
 aliases: [broad camp, stratos eurys]
 grc: [στρατὸν εὐρὺν Ἀχαιῶν]
 en: [wide army]

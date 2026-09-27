@@ -3,7 +3,7 @@ title: Mind set on gain
 greek: κερδαλεόφρων
 kind: epithet
 tags: [heroic-epithet, insult]
-summary: Achilles' insult to [[Agamemnon]] at 1.149: a mind set on profit, or on craft.
+summary: “With a mind set on gain,” an insult meaning greedy or crafty: Achilles' word for [[Agamemnon]], and Agamemnon's for Odysseus.
 aliases: [crafty-minded, greedy, kerdaleophron]
 grc: [κερδαλεόφρον]
 en: [with your mind set on gain]
@@ -12,7 +12,7 @@ of: [agamemnon]
 
 ## Meaning
 
-κερδαλεόφρων = κερδαλέος (“gainful, crafty,” from κέρδος, “gain, profit, advantage”) + φρήν (“mind”). κέρδος in Homer means both material profit and the cleverness that secures an advantage, so κερδαλεόφρων can mean “greedy” or “crafty.” In Book 4 Agamemnon uses the same word of Odysseus, together with “you who excel in wicked tricks” (Il. 4.339); there the sense is “cunning.”
+κερδαλεόφρων = κερδαλέος (“gainful, crafty,” from κέρδος, “gain, profit, advantage”) + φρήν (“mind”). κέρδος in Homer means both material profit and the cleverness that secures an advantage, so κερδαλεόφρων can mean “greedy” or “crafty.” In Book 4 Agamemnon uses the same word of Odysseus, together with “skilled in evil tricks” (Il. 4.339); there the sense is “cunning.”
 
 ## Use
 

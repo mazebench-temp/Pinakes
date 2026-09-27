@@ -15,7 +15,7 @@ The Carians are the only people in the Iliad whose language is singled out: they
 
 ## Elsewhere in Homer
 
-Dolon places the Carians by the sea, with the Paeonians, Leleges, Caucones and Pelasgians (10.428–429). A simile of Book 4 imagines "a Maeonian or a Carian woman" staining ivory with crimson to make a cheek-piece for a horse (4.141–142), the only glimpse of their crafts.
+Dolon places the Carians by the sea, with the Paeonians, Leleges, Caucones and Pelasgians (10.428–429).
 
 ## Outside Homer
 

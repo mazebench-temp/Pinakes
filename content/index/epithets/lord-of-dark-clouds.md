@@ -7,6 +7,7 @@ summary: “Of the dark clouds,” an epithet of [[Zeus]] as the storm god.
 aliases: [dark-clouded, kelainephes]
 grc: [κελαινεφέϊ]
 en: [lord of the dark clouds]
+except: [4.140]
 of: [zeus]
 ---
 

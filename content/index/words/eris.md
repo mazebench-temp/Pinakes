@@ -1,11 +1,11 @@
 ---
-title: Strife
+title: Strife (eris)
 greek: ἔρις
 kind: term
 tags: [anger, warfare]
-summary: Strife, quarrel, rivalry: the will to contend, in words, in battle or in skill. Eris is also a goddess, the companion of [[Ares]].
+summary: Strife, quarrel, rivalry: the will to contend, in words, in battle or in skill. Eris is also a goddess, the companion of [[Ares]] (see [[strife]]).
 aliases: [eris, erizō, eridainō, quarrel, rivalry]
-grc: [ἔρις, ἔριδι, ἔριδος, ἐρίσαντε, ἐριζέμεναι, ἐριδαίνετον]
+grc: [ἔρις, ἔριδι, ἔριδος, ἐρίσαντε, ἐριζέμεναι, ἐριδαίνετον, "!^Ἔρι*"]
 en: [strife, strive, quarrel]
 passages:
   - 1.6-8 | The strife in the proem
@@ -29,7 +29,7 @@ Achilles, grieving for Patroclus, wishes that strife might perish from among god
 
 ## Outside Homer
 
-Hesiod distinguishes two Strifes. One promotes war and quarreling; the other, good for men, stirs even the idle to work in rivalry with a neighbor (*Works and Days* 11–26). In the *Theogony* Eris is a daughter of Night and the mother of Toil, Battles, Quarrels, Lawlessness and Ate (225–232).
+Hesiod distinguishes two Strifes. One promotes war and quarreling; the other, good for men, stirs even the idle to work in rivalry with a neighbor (*Works and Days* 11–26; see [[hesiods-two-strifes]]). In the *Theogony* Eris is a daughter of Night and the mother of Toil, Battles, Quarrels, Lawlessness and Ate (225–232).
 
 In Proclus' summary of the *Cypria*, Eris comes to the wedding of Peleus and Thetis, Achilles' parents, and starts the quarrel among Hera, Athena and Aphrodite that leads to the Trojan War.
 

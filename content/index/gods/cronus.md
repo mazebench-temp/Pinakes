@@ -39,8 +39,10 @@ Father of [[Zeus]]. Hera is also his child (Iliad 4.59), and so the patronymic r
 
 Book 1 gives no story of Cronus, but its only myth of the gods' early days assumes that Zeus' rule was once fragile. That was the time after Cronus fell, when Zeus' own family tried to bind him. See [[binding-of-zeus]].
 
-## Outside Homer
+## Elsewhere in Homer
 
 Later books of the Iliad place Cronus below earth and sea with Iapetus, "with deep Tartarus around them" (8.478–481). They also tell how Zeus "set Cronus beneath the earth and the barren sea" (14.203–204), and how the three sons of Cronus and Rhea divided the world by lot (15.187–193). Hera calls him ἀγκυλομήτης, "crooked-counseling" (4.59).
+
+## Outside Homer
 
 Hesiod tells the full story (*Theogony* 154–210, 453–506). Cronus castrated his father Uranus at the urging of Gaia and swallowed his own children to keep his power. Rhea tricked him with a stone in place of Zeus, and Zeus grew up to overthrow him.

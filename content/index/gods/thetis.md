@@ -3,7 +3,7 @@ title: Thetis
 greek: Θέτις
 kind: god
 tags: [nereid, sea-deity, mother, woman]
-summary: Sea goddess, daughter of the [[old-man-of-the-sea|Old Man of the Sea]], wife of the mortal [[Peleus]] and mother of [[Achilles]]. She rises from the sea to comfort her son and supplicates [[Zeus]] to honor him, reminding him how she once saved him from bondage.
+summary: Sea goddess, daughter of the [[old-man-of-the-sea|Old Man of the Sea]], wife of the mortal [[Peleus]] and mother of [[Achilles]]. She knows that her son will die young, and her plea to [[Zeus]] to honor him sets the plan of the Iliad in motion.
 aliases: [silver-footed Thetis, mother of Achilles]
 grc: [Θέτις]
 en: [Thetis, his lady mother, dear mother]
@@ -61,6 +61,10 @@ Achilles reminds her of her greatest service to Zeus. When Hera, Poseidon and At
 
 See [[binding-of-zeus]].
 
+## Elsewhere in Homer
+
+Later in the Iliad she says Zeus forced her, alone of the sea goddesses, to marry a mortal (18.432–434). Homer knows her as a rescuer of gods: she saved Hephaestus when Hera threw him from heaven (18.395–405) and sheltered Dionysus from Lycurgus (6.130–137).
+
 ## Outside Homer
 
-Hesiod names Thetis among the fifty daughters of Nereus and Doris (*Theogony* 240–264). Later in the Iliad she says Zeus forced her, alone of the sea goddesses, to marry a mortal (18.432–434). Pindar gives the reason: Themis foretold that her son would be greater than his father, so Zeus and Poseidon gave up their courtship and married her to Peleus (*Isthmian* 8.26–48). Homer knows her as a rescuer of gods: she saved Hephaestus when Hera threw him from heaven (18.395–405) and sheltered Dionysus from Lycurgus (6.130–137).
+Hesiod names Thetis among the fifty daughters of Nereus and Doris (*Theogony* 240–264). Pindar gives the reason for her marriage to a mortal: Themis foretold that her son would be greater than his father, so Zeus and Poseidon gave up their courtship and married her to Peleus (*Isthmian* 8.26–48).

@@ -1,7 +1,7 @@
 ---
 title: Mothers and sons
 kind: theme
-tags: [mother, divine-scene]
+tags: [mother, divine-scene, kinship]
 summary: Two divine mothers and two sons. [[Thetis]] rises from the sea to comfort [[Achilles]] and pleads his cause with Zeus; [[Hephaestus]] soothes his mother [[Hera]] and remembers what it once cost him to defend her.
 refs: [1.9, 1.36, 1.280, 1.351, 1.352, 1.357, 1.362, 1.393, 1.414, 1.418, 1.572, 1.577, 1.585, 1.586, 1.596]
 passages:

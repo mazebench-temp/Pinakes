@@ -24,4 +24,4 @@ When the suitors have been killed, “Rumor went swiftly as a messenger through 
 
 ## Outside Homer
 
-Hesiod warns against the talk of men, Φήμη (“Report”): no report ever wholly dies that many people voice, “she too is a god” (*Works and Days* 760–764). Virgil's Fama is a monster with as many eyes, tongues, mouths and ears as she has feathers (*Aeneid* 4.173–197). Ovid gives Rumor a house of bronze at the center of the world, where every sound arrives (*Metamorphoses* 12.39–63).
+Hesiod warns against the talk of men, Φήμη (“Report”): no report ever wholly dies that many people voice, “she too is a god” (*Works and Days* 760–764). Virgil's Fama is a monster with as many eyes, tongues, mouths and ears as she has feathers (*Aeneid* 4.173–197); she is modeled on Homer's Strife (see [[virgil-rumor]]). Ovid gives Rumor a house of bronze at the center of the world, where every sound arrives (*Metamorphoses* 12.39–63).

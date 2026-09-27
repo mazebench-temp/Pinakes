@@ -7,6 +7,7 @@ summary: “Hollow,” an epithet of [[ships]]: κοῖλος, and its synonym �
 aliases: [koilos]
 grc: [κοίλῃσιν, κοίλῃς]
 en: [hollow]
+except: [4.454]
 of: [ships]
 ---
 

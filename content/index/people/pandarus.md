@@ -22,10 +22,10 @@ relations:
 
 ## Elsewhere in Homer
 
-In Book 4, during the truce for the duel of Paris and Menelaus, Athena comes to him in the likeness of Laodocus, a son of Antenor, and persuades him to shoot Menelaus for the sake of the gifts Paris would give him (4.86–104). He prays to "Apollo the Lycian-born, famous for the bow", vows a hecatomb when he comes home to "holy Zeleia", and wounds Menelaus in the belly (4.101–147). The shot breaks the oaths, and the fighting begins again. In Book 5 he wounds Diomedes in the shoulder and boasts too soon (5.95–105). Riding with Aeneas against Diomedes, he complains that his arrows have hit two of the best Achaeans and only roused them, and swears to break his bow and burn it if he ever gets home (5.206–216). Diomedes' spear, guided by Athena, strikes him in the face, and he falls from the chariot (5.290–296).
+His arrow breaks the truce in Book 4. In Book 5 he wounds Diomedes in the shoulder and boasts too soon (5.95–105). Riding with Aeneas against Diomedes, he complains that his arrows have hit two of the best Achaeans and only roused them, and swears to break his bow and burn it if he ever gets home (5.206–216). Diomedes' spear, guided by Athena, strikes him in the face, and he falls from the chariot (5.290–296).
 
-The Catalogue calls his people Trojans, but in Book 5 he speaks of setting out "from Lycia" (5.105), and Aeneas says that no one in Lycia claims to be his better (5.173). His prayers to Apollo "Lycian-born" (Λυκηγενής) point the same way. Whether Homer meant a Lycia around Zeleia, in the Troad, or the far Lycia of [[Sarpedon]] has been argued since antiquity.
+The Catalogue calls his people Trojans, but in Book 5 he speaks of setting out "from Lycia" (5.105), and Aeneas says that no one in Lycia claims to be his better (5.173). His prayer to Apollo “the Lycian-born” (Λυκηγενής, 4.119) points the same way. Whether Homer meant a Lycia around Zeleia, in the Troad, or the far Lycia of [[Sarpedon]] has been argued since antiquity.
 
 ## Outside Homer
 
-Medieval retellings of the Troy story made Pandarus the go-between of Troilus and his lover: Boccaccio's Pandaro, Chaucer's Pandarus in *Troilus and Criseyde*, and Shakespeare's in *Troilus and Cressida*. From Chaucer's Pandarus English took the word "pander". See [[from-briseis-to-cressida]].
+Medieval retellings of the Troy story made Pandarus the go-between of Troilus and his lover: Boccaccio's Pandaro, Chaucer's Pandarus in *Troilus and Criseyde*, and Shakespeare's in *Troilus and Cressida*. From Chaucer's Pandarus English took the word "pander". See [[pandarus-the-go-between]] and [[from-briseis-to-cressida]].

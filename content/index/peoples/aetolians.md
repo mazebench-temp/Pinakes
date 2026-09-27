@@ -18,7 +18,7 @@ Their towns are [[Pleuron]], [[Olenus]], [[Pylene]], [[chalcis-aetolia|Chalcis]]
 
 ## Elsewhere in Homer
 
-In Phoenix's story of Meleager, the Aetolians defend Calydon against the Curetes (9.529–599). Tydeus, Diomedes' father and a son of Oeneus, is "the Aetolian" (4.399), so the Argive leader Diomedes is an Aetolian by descent.
+In Phoenix's story of Meleager, the Aetolians defend Calydon against the Curetes (9.529–599). Diomedes' father Tydeus was a son of Oeneus who went to Argos and settled there (14.113–125), so the Argive leader Diomedes is an Aetolian by descent: "an Aetolian by birth", Idomeneus calls him (23.471).
 
 ## Outside Homer
 

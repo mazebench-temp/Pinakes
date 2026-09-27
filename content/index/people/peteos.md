@@ -3,7 +3,7 @@ title: Peteos
 greek: Πετεώς
 kind: person
 tags: [athenian, attica]
-summary: Father of [[Menestheus]], leader of the Athenians at Troy. Homer gives only his name.
+summary: Father of [[Menestheus]], leader of the Athenians at Troy. Homer names him only as his son's father.
 grc: [Πετεῶο]
 relations:
   - child: menestheus (2.552)

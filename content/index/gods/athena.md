@@ -5,7 +5,7 @@ kind: god
 tags: [olympian, child-of-zeus, woman]
 summary: Daughter of [[Zeus]], the gray-eyed goddess of cunning and war, and the Achaeans' constant helper.
 aliases: [Pallas, Pallas Athena, Athene, Athenaie]
-grc: [Ἀθήν*, Ἀθηναί*, Παλλάδ*, Παλλὰς]
+grc: [Ἀθήν*, Ἀθηναί*, Παλλάδ*, Παλλὰς, "!Ἀθήνας", "!=Ἀθήνῃς", "!Ἀθηναιο*", "!Ἀθηναιω*"]
 en: [Athena, Pallas Athena, Pallas]
 refs: [1.195, 1.197, 1.198, 1.202, 1.216, 1.218]
 relations:

@@ -1,3 +1,7 @@
+---
+summary: She rises from the sea to comfort her son and supplicates [[Zeus]] to honor him, reminding him how she once saved him from bondage.
+---
+
 Thetis is a mother first. Achilles weeps by the sea and prays to her, and she comes up at once, strokes him, and asks what is wrong:
 
 {{quote:f195ffe7-3958-5081-8d08-59467f833b33}}

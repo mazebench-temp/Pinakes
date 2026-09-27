@@ -1,0 +1,47 @@
+{
+  "scenes": [
+    { "from": 1, "to": 72, "title": "The Gods Decide", "summary": "On Olympus Zeus teases Hera and Athena and proposes that the war end with Menelaus' victory. Hera will not let her labor go for nothing; Zeus yields Troy to her, and she yields him any city of hers he may wish to destroy. Athena is sent to make the Trojans break the oaths." },
+    { "from": 73, "to": 104, "title": "Athena and Pandarus", "summary": "Athena darts down like a shooting star. In the likeness of Laodocus, son of Antenor, she finds the archer Pandarus and persuades him to shoot Menelaus for the glory and the gifts of Alexander." },
+    { "from": 105, "to": 147, "title": "The Arrow", "summary": "Pandarus strings his bow of wild goat's horn, prays to Apollo, and shoots. Athena turns the arrow aside as a mother brushes a fly from her sleeping child; it pierces belt, corselet and band, and Menelaus' thighs are stained with blood like ivory stained with purple." },
+    { "from": 148, "to": 219, "title": "Agamemnon's Lament and the Healing", "summary": "Agamemnon mourns his brother as dead and foretells the day when sacred Ilios will perish. Menelaus reassures him. Talthybius fetches Machaon, son of Asclepius, who draws out the arrow and spreads on the wound the drugs that Chiron gave his father." },
+    { "from": 220, "to": 250, "title": "Agamemnon Rouses the Army", "summary": "As the Trojans advance, Agamemnon leaves his chariot and goes on foot through the ranks, encouraging the eager and rebuking those who hold back." },
+    { "from": 251, "to": 292, "title": "Idomeneus and the Ajaxes", "summary": "Agamemnon praises Idomeneus and the Cretans, and the two Ajaxes, whose battalions move like a storm cloud seen by a goatherd from a lookout." },
+    { "from": 293, "to": 326, "title": "Nestor", "summary": "Nestor marshals the Pylians, chariots in front and foot soldiers behind, and instructs his horsemen in the tactics of the men of old. Agamemnon wishes him young again; Nestor recalls the day he killed Ereuthalion." },
+    { "from": 327, "to": 364, "title": "Menestheus and Odysseus", "summary": "Agamemnon finds Menestheus and Odysseus waiting and rebukes them as the first at feasts and the last to fight. Odysseus answers him angrily, and Agamemnon smiles and takes back his words." },
+    { "from": 365, "to": 421, "title": "Diomedes and Sthenelus", "summary": "Agamemnon rebukes Diomedes with the story of his father Tydeus at Thebes. Diomedes says nothing, out of respect for the king; Sthenelus retorts that the sons are better than their fathers, and Diomedes silences him and leaps down in his armor." },
+    { "from": 422, "to": 456, "title": "The Armies Meet", "summary": "The Achaeans advance in silence like waves breaking on a shore; the Trojans clamor like sheep bleating in a fold, in many tongues. Ares and Athena, Terror, Rout and Strife drive them on. The armies clash, and their roar is like two torrents meeting in a ravine." },
+    { "from": 457, "to": 544, "title": "The First Killings", "summary": "Antilochus kills Echepolus, the first man to die in the poem; Agenor kills Elephenor; Ajax kills the young Simoeisius, who falls like a poplar. Odysseus avenges Leucus on Democoon. Apollo rouses the Trojans and Athena the Achaeans; Peirous kills Diores and is killed by Thoas, and many lie face down in the dust side by side." }
+  ],
+  "speeches": [
+    { "from": 7, "to": 19, "speaker": "zeus", "to_whom": ["hera", "athena"], "kind": "proposal" },
+    { "from": 25, "to": 29, "speaker": "hera", "to_whom": ["zeus"], "kind": "protest" },
+    { "from": 31, "to": 49, "speaker": "zeus", "to_whom": ["hera"], "kind": "reply" },
+    { "from": 51, "to": 67, "speaker": "hera", "to_whom": ["zeus"], "kind": "bargain" },
+    { "from": 70, "to": 72, "speaker": "zeus", "to_whom": ["athena"], "kind": "command" },
+    { "from": 82, "to": 84, "speaker": "achaeans", "to_whom": ["achaeans"], "kind": "comment" },
+    { "from": 93, "to": 103, "speaker": "athena", "to_whom": ["pandarus"], "kind": "persuasion" },
+    { "from": 155, "to": 182, "speaker": "agamemnon", "to_whom": ["menelaus"], "kind": "lament" },
+    { "from": 184, "to": 187, "speaker": "menelaus", "to_whom": ["agamemnon"], "kind": "reply" },
+    { "from": 189, "to": 191, "speaker": "agamemnon", "to_whom": ["menelaus"], "kind": "reply" },
+    { "from": 193, "to": 197, "speaker": "agamemnon", "to_whom": ["talthybius"], "kind": "command" },
+    { "from": 204, "to": 207, "speaker": "talthybius", "to_whom": ["machaon"], "kind": "message" },
+    { "from": 234, "to": 239, "speaker": "agamemnon", "to_whom": ["argives"], "kind": "exhortation" },
+    { "from": 242, "to": 249, "speaker": "agamemnon", "to_whom": ["argives"], "kind": "rebuke" },
+    { "from": 257, "to": 264, "speaker": "agamemnon", "to_whom": ["idomeneus"], "kind": "praise" },
+    { "from": 266, "to": 271, "speaker": "idomeneus", "to_whom": ["agamemnon"], "kind": "reply" },
+    { "from": 285, "to": 291, "speaker": "agamemnon", "to_whom": ["ajax", "ajax-son-of-oileus"], "kind": "praise" },
+    { "from": 303, "to": 309, "speaker": "nestor", "to_whom": ["pylians"], "kind": "instruction" },
+    { "from": 313, "to": 316, "speaker": "agamemnon", "to_whom": ["nestor"], "kind": "praise" },
+    { "from": 318, "to": 325, "speaker": "nestor", "to_whom": ["agamemnon"], "kind": "reply" },
+    { "from": 338, "to": 348, "speaker": "agamemnon", "to_whom": ["menestheus", "odysseus"], "kind": "rebuke" },
+    { "from": 350, "to": 355, "speaker": "odysseus", "to_whom": ["agamemnon"], "kind": "reply" },
+    { "from": 358, "to": 363, "speaker": "agamemnon", "to_whom": ["odysseus"], "kind": "apology" },
+    { "from": 370, "to": 400, "speaker": "agamemnon", "to_whom": ["diomedes"], "kind": "rebuke" },
+    { "from": 404, "to": 410, "speaker": "sthenelus", "to_whom": ["agamemnon"], "kind": "retort" },
+    { "from": 412, "to": 418, "speaker": "diomedes", "to_whom": ["sthenelus"], "kind": "rebuke" },
+    { "from": 509, "to": 513, "speaker": "apollo", "to_whom": ["trojans"], "kind": "exhortation" }
+  ],
+  "days": [
+    { "from": 1, "to": 544, "label": "Day 22", "note": "The day that began at 2.48 continues: the truce is broken, and the first battle of the poem is fought." }
+  ]
+}

@@ -3,7 +3,7 @@ title: Like the immortals
 greek: ἐπιείκελος ἀθανάτοισιν
 kind: epithet
 tags: [heroic-epithet]
-summary: The line-end praise of [[Theseus]] in Nestor's list of heroes (1.265), in a verse that many manuscripts omit.
+summary: “Like the immortals,” a line-end formula of praise for heroes.
 aliases: [epieikelos athanatoisin]
 grc: [ἐπιείκελον ἀθανάτοισιν]
 en: [like the immortals]

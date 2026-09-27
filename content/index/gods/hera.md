@@ -47,6 +47,10 @@ Mother of [[Hephaestus]], who calls her "my dear mother"
 
 {{notes}}
 
+## Elsewhere in Homer
+
+In the Iliad she names Argos, Sparta and Mycenae as the cities dearest to her (4.51–52). Her hatred of Troy is traced to the Judgment of Paris, which Homer mentions only once, late in the poem (24.25–30).
+
 ## Outside Homer
 
-Hera is a daughter of Cronus and Rhea (Hesiod, *Theogony* 453–454). In the Iliad she names Argos, Sparta and Mycenae as the cities dearest to her (4.51–52). Her hatred of Troy is traced to the Judgment of Paris, which Homer mentions only once, late in the poem (24.25–30).
+Hera is a daughter of Cronus and Rhea (Hesiod, *Theogony* 453–454).

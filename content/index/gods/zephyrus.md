@@ -3,7 +3,7 @@ title: Zephyrus
 greek: Ζέφυρος
 kind: god
 tags: [personification]
-summary: The West Wind, in Homer usually a strong and blustering wind. In Book 2 it sweeps over a field of grain, and the assembly bends before Agamemnon's words like the ears of wheat.
+summary: The West Wind, in Homer usually a strong and blustering wind. In the similes of the Iliad it bends a field of grain and drives storm clouds and waves before it, and it is the father of Achilles' immortal horses.
 aliases: [West Wind, Zephyros, Zephyr]
 grc: [Ζέφυρος]
 ---

@@ -4,7 +4,7 @@ greek: Πτελεός
 kind: place
 tags: [thessaly, city]
 summary: A town of Protesilaus' realm in Phthiotis, "Pteleus with its grassy meadows". Not the Pylian Pteleus of 2.594.
-grc: [Πτελεόν, λεχεποίην]
+grc: [Πτελεόν]
 en: [Pteleus]
 except: [2.594]
 ---

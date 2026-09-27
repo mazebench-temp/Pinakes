@@ -11,4 +11,4 @@ relations:
 
 {{quote:a4e4786f-95d8-5b2e-af90-29bd60829ecd}}
 
-The name means "bronze-tooth" (χαλκός, "bronze", + ὀδούς, "tooth"). The patronymic is repeated when his son dies (4.464). Homer does not say whether Chalcodon was still alive at the time of the war. Later legend made Chalcodon a king of Euboea, killed in battle by Amphitryon in a war between the Euboeans and Thebes.
+The name means "bronze-tooth" (χαλκός, "bronze", + ὀδούς, "tooth"). Homer does not say whether Chalcodon was still alive at the time of the war. Later legend made Chalcodon a king of Euboea, killed in battle by Amphitryon in a war between the Euboeans and Thebes.

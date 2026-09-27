@@ -5,7 +5,7 @@ kind: story
 period: before-troy
 mode: allusion
 tags: [backstory, weapon]
-summary: Apollo himself gave Pandarus his bow. The Catalogue's one line about him points ahead to the arrow that breaks the truce in Book 4.
+summary: The bow of the Trojan archer Pandarus. The Catalogue says that Apollo himself gave it to him; Book 4 tells how he made it from the horns of a wild goat he had shot. With it he breaks the truce, and in Book 5 he swears to burn it.
 participants: [pandarus, apollo]
 passages:
   - 2.827 | Apollo's gift
@@ -21,4 +21,4 @@ Book 4 tells a different story of the bow. Pandarus made it himself from the hor
 
 ## In the poem
 
-The Catalogue names Pandarus with his bow because the bow is his part in the story. In Book 4 Athena persuades him to shoot Menelaus during the truce. He prays to "Apollo the Lycian-born, famous for the bow", vows him a hecatomb of firstling lambs, and wounds Menelaus, breaking the oaths (4.93–147). In Book 5 the bow fails him. He has hit two of the best Achaeans, Menelaus and Diomedes, and only roused them. If he ever gets home, he says, someone may cut off his head if he does not break the bow and throw it into the fire (5.206–216). Diomedes kills him before he can (5.290–296). See [[pandarus]].
+The Catalogue names Pandarus with his bow because the bow is his part in the story. In Book 4 Athena persuades him to shoot Menelaus during the truce. He prays to "Apollo, the Lycian-born, famed for his bow", vows him a hecatomb of firstborn lambs, and wounds Menelaus, breaking the oaths (4.93–147). In Book 5 the bow fails him. He has hit two of the best Achaeans, Menelaus and Diomedes, and only roused them. If he ever gets home, he says, someone may cut off his head if he does not break the bow and throw it into the fire (5.206–216). Diomedes kills him before he can (5.290–296). See [[pandarus]].

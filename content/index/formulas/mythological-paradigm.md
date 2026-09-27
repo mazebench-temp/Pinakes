@@ -3,7 +3,7 @@ title: Mythological paradigm
 greek: παράδειγμα
 kind: formula
 tags: [figure, digression, backstory]
-summary: A story from the past told to persuade in the present. Book 1 has three: Nestor's youth among the Lapiths (1.259–274), Thetis' rescue of Zeus (1.396–406), and Hephaestus' fall from heaven (1.586–594).
+summary: A story from the past told to persuade in the present. An old man's memories of his youth, the deeds of a hero's father and the tales of the gods are each shaped to fit the case.
 aliases: [paradeigma, exemplum, example]
 passages:
   - 1.259-274 | Nestor and the Lapiths

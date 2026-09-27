@@ -15,7 +15,7 @@ en: [flies]
 
 ## Elsewhere in Homer
 
-One fly is only a nuisance. Athena turns aside the arrow Pandarus shoots at Menelaus “as a mother keeps a fly from her child when he lies in sweet sleep” (Iliad 4.130–131).
+One fly is only a nuisance. Athena turns aside the arrow Pandarus shoots at Menelaus “as a mother brushes a fly from her child, when he lies in sweet sleep” (Iliad 4.130–131).
 
 κυνάμυια (“dog-fly”, from κύων, “dog”, and μυῖα) is an insult the gods throw at one another: Ares at Athena, and Hera at Aphrodite (Iliad 21.394, 21.421). It joins the dog's shamelessness to the fly's persistence (see [[dogs]] and [[anaideia]]).
 

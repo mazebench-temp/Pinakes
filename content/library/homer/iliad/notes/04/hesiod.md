@@ -1,0 +1,7 @@
+---
+summary: Hesiod divides Strife into a bad and a good goddess, against Homer's single sister of Ares; he makes Oath a child of Strife; and his race of heroes dies in the two wars that meet in Book 4, at seven-gated Thebes and at Troy.
+---
+
+- **Two Strifes.** The Strife who fosters evil war and the older Strife who stirs men to work (*Works and Days* 11–26), and the children of Strife in the *Theogony*, among them Battles, Quarrels and Oath (226–232): [[hesiods-two-strifes]].
+- **Thebes and Troy.** In Hesiod's race of heroes, “evil war and the dread din of battle” destroyed some at seven-gated Thebes, in the land of Cadmus, fighting for the flocks of Oedipus, and others at Troy, where the ships had brought them for the sake of lovely-haired Helen (*Works and Days* 161–165). The first phrase, πόλεμός τε κακὸς καὶ φύλοπις αἰνή, is the formula of Zeus and of the watching soldiers in Book 4 (4.15, 4.82), and the two wars are the two that Book 4 sets side by side: Agamemnon and Sthenelus measure the men at Troy against their fathers at seven-gated Thebes (4.370–410).
+- **The perjurer's children.** Whoever knowingly swears a false oath in bearing witness, and does injury to justice, leaves a line that fades away after him, while the man true to his oath leaves a better line (*Works and Days* 282–285). In Agamemnon's words, too, the punishment reaches the family: Zeus fulfills the oath in the end, and the Trojans pay “with their own heads and their wives and their children” (4.160–162).

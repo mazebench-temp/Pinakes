@@ -30,6 +30,8 @@ The Catalogue introduces him by comparison. Homer has two heroes called Ajax, an
 
 The dual Αἴαντε, "the two Ajaxes", pairs him with the son of Telamon. They are among the chief kings Agamemnon invites to his sacrifice (2.406), and in battle they stand together "like two wine-dark oxen" dragging a plough through fallow land (13.701–708). Some scholars think the dual once meant Ajax and his half-brother Teucer and was later understood as the two Ajaxes; this is a theory, not a fact. The Locrian has a half-brother of his own, the bastard [[Medon]], son of [[Oileus]] and Rhene, who takes command of Philoctetes' men (2.726–728; 13.694–697).
 
+{{notes}}
+
 ## Elsewhere in Homer
 
 At Patroclus' funeral games he quarrels with Idomeneus about who is leading the chariot race, and Achilles stops them (23.473–498). In the footrace he is ahead when Athena makes him slip in the dung of the sacrificed cattle, and Odysseus wins; spitting out dung, he complains that the goddess always stands by Odysseus "like a mother" (23.754–783). The Odyssey tells his end. Poseidon saved him from shipwreck at the Gyraean rocks, but when he boasted that he had escaped the sea in spite of the gods, Poseidon split the rock with his trident and he drowned (Od. 4.499–511).

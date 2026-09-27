@@ -1,7 +1,6 @@
 ---
 summary: Sent by Hera, Athena stops the flight to the ships through Odysseus. She stands beside him as a herald when he speaks, and she passes through the ranks with the aegis to put the will to fight into every man. The Catalogue remembers her as the foster mother of Erechtheus at Athens.
 grc: ["Ἀτρυτών*"]
-except: [2.546, 2.549, 2.551, 2.558]
 refs: [2.167-169, 2.182, 2.280, 2.447-452, 2.548-549]
 passages:
   - 2.156-182 | Athena sends Odysseus back
