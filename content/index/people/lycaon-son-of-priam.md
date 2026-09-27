@@ -8,7 +8,7 @@ aliases: [Lycaon]
 grc: [Λυκάονος]
 en: [Lycaon]
 # Λυκάονος at 2.826, 4.89 and 4.93 is Lycaon the father of Pandarus (lycaon).
-except: [2.826, 4.89, 4.93]
+except: [2.826, 4.89, 4.93, 5.95, 5.101, 5.169, 5.179, 5.193, 5.229, 5.246, 5.276, 5.283]
 relations:
   - father: priam
   - brother: paris (3.333)

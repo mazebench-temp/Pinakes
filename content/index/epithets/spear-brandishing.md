@@ -12,7 +12,7 @@ of: [trojans]
 
 ## Meaning
 
-ἐγχέσπαλος = ἔγχος (“spear”) + πάλλω (“shake, brandish”): “brandishing the spear.” It occurs three times in the Iliad: of the Trojan allies here, of the Trojan Polydamas (Il. 14.449), and of Ares himself in a simile (Il. 15.605). Compare σακέσπαλος, “brandishing the shield,” an epithet of Tydeus (Il. 5.126), and [[fighters-with-the-spear]] (ἐγχεσίμωρος).
+ἐγχέσπαλος = ἔγχος (“spear”) + πάλλω (“shake, brandish”): “brandishing the spear.” It occurs three times in the Iliad: of the Trojan allies here, of the Trojan Polydamas (Il. 14.449), and of Ares himself in a simile (Il. 15.605). Compare σακέσπαλος, “wielder of the shield,” an epithet of Tydeus (Il. 5.126; [[wielder-of-the-shield]]), and [[fighters-with-the-spear]] (ἐγχεσίμωρος).
 
 ## Use
 

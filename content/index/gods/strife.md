@@ -32,7 +32,7 @@ passages:
 
 ## Elsewhere in Homer
 
-In Book 5 she is worked into Athena's aegis with Courage and Onset (5.740). In Book 11 Zeus sends her to the Achaean ships “holding a portent of war in her hands”; she shouts from the ship of Odysseus, and war becomes sweeter to the Achaeans than going home (11.3–14). She rejoices as she watches the battle that follows, for she alone of the gods is present at it (11.73–74). On the shield of Achilles she moves through the fighting with Tumult and Doom (18.535), and when the gods go down to battle in Book 20, mighty Strife, rouser of hosts, rises among them (20.48).
+In Book 5 she is worked into Athena's [[aegis]] with [[courage|Courage]] and [[onslaught|Onslaught]] (5.740). In Book 11 Zeus sends her to the Achaean ships “holding a portent of war in her hands”; she shouts from the ship of Odysseus, and war becomes sweeter to the Achaeans than going home (11.3–14). She rejoices as she watches the battle that follows, for she alone of the gods is present at it (11.73–74). On the shield of Achilles she moves through the fighting with Tumult and Doom (18.535), and when the gods go down to battle in Book 20, mighty Strife, rouser of hosts, rises among them (20.48).
 
 ## Outside Homer
 

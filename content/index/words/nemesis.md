@@ -5,7 +5,7 @@ kind: term
 tags: [shame, anger]
 summary: Righteous indignation at what is improper, and the blame in which it is voiced; the verbs νεμεσάω and νεμεσίζομαι mean “be indignant, blame”. It is the counterpart of αἰδώς, the sense of shame that fears it.
 aliases: [nemesis, nemesaō, nemesao, nemesizomai, nemessētos, indignation, blame, righteous anger]
-grc: [νεμεσ*]
+grc: [νεμεσ*, "!νέμεσθαι"]
 en: [indignant, blame]
 ---
 

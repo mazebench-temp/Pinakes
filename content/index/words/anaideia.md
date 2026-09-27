@@ -3,7 +3,7 @@ title: Shamelessness
 greek: ἀναιδείη
 kind: term
 tags: [shame, insult]
-summary: The lack of αἰδώς, the regard owed to others. [[Achilles]] answers [[Agamemnon]]'s threat by calling him “clothed in shamelessness” and “utterly shameless”.
+summary: Shamelessness, the lack of αἰδώς, the regard owed to others and to what they will say.
 aliases: [anaideiē, anaideia, anaidēs, shameless]
 grc: [ἀναιδείην, ἀναιδὲς]
 en: [shamelessness, shameless]

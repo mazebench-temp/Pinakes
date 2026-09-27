@@ -1,3 +1,7 @@
+---
+summary: [[Achilles]] tells [[Thetis]] to take [[Zeus]] by the knees; she does, and holds on until he grants her request.
+---
+
 {{quote:6241d154-ec20-5d10-80e4-710ec750ab83}}
 
 Achilles tells his mother exactly what to do: sit beside Zeus, remind him of her service, and take him by the knees. Thetis promises that she will (γουνάσομαι, 1.427).

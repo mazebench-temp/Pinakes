@@ -3,7 +3,7 @@ title: Leto
 greek: Λητώ
 kind: god
 tags: [titan, mother, woman]
-summary: Mother of [[Apollo]] by [[Zeus]]. Book 1 names her twice, both times as Apollo's mother.
+summary: Mother of [[Apollo]] and [[Artemis]] by [[Zeus]]. In the Iliad she takes the Trojan side with her children.
 aliases: [Lēto]
 grc: [Λητ*]
 en: [Leto]

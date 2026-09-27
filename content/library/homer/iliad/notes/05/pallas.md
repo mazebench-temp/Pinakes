@@ -1,0 +1,5 @@
+---
+summary: Pallas Athena gives Diomedes might, hears his prayer, will not let him flee, leaves the field, and returns to drive his chariot and his spear against Ares.
+---
+
+The book begins with the name: “Then in turn to Diomedes, son of Tydeus, Pallas Athena gave might and daring” (5.1–2; [[menos]], [[tharsos]]). The full name returns at each point of her part in his day. She loved Phereclus above all others, the craftsman who built Alexander's ships (5.61; [[that-began-the-evil]]). “So he spoke in prayer, and Pallas Athena heard him” (5.121). Diomedes refuses to retreat because “Pallas Athena does not let me flee” (5.256). Apollo rouses the Trojans when he sees “that Pallas Athena was gone,” for she was the Danaans' helper (5.510–511). At the end she returns in person: “And Pallas Athena took the whip and the reins” (5.840), and Diomedes drove at Ares with his bronze spear, “and Pallas Athena drove it home into the lowest part of his flank” (5.856–857; [[diomedes-wounds-ares]]). The name Pallas, which some connect with πάλλω (“brandish”), belongs to the goddess who drives the spear.

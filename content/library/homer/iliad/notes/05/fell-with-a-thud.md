@@ -1,0 +1,9 @@
+---
+summary: The whole verse ends the lives of Odius and Deicoon, both killed by Agamemnon (5.42, 5.540), and its first half that of Amphius (5.617). Its second half closes the falls of Scamandrius and of Pandarus, who fall face down or from the chariot “and his armor clattered upon him” (5.58, 5.294).
+---
+
+**The whole verse.** Agamemnon's two killings in Book 5 both end with it. Odius, turning to flee, is speared in the back and through the chest, “and he fell with a thud, and his armor clattered upon him” (5.40–42); Deicoon, Aeneas' companion, is speared through shield and belt into the belly, and the same verse follows (5.537–540; see [[odius]] and [[deicoon]]). Amphius, speared by Ajax in the same place, gets only the first half, δούπησεν δὲ πεσών, and the verse runs on to the man who killed him: “and he fell with a thud; and shining Ajax ran up to strip his armor” (5.617–618; see [[stripping-the-dead]]).
+
+**The second half.** Twice the rattle of the armor follows another kind of fall. Scamandrius, speared in the back like Odius, “fell face down, and his armor clattered upon him” (ἤριπε δὲ πρηνής, 5.58). Pandarus, struck by Diomedes' spear, “fell from the chariot, and his armor clattered upon him, flashing and gleaming all over” (5.294–295), and the verse spills over into the next to show the armor shining as it falls (see [[pandarus]]).
+
+**Falling.** ἤριπε, from ἐρείπω, “fall, tumble”, begins a set of half-verses in Book 5 that tell how a man went down: “he fell from the chariot” (5.47, 5.294), “he fell face down” (5.58), “he fell in the dust” (5.75), and “he fell to his knees with a groan” (γνὺξ δʼ ἔριπʼ, 5.68). Aeneas, crushed by the stone, “sank to his knees and stayed there” (ἔστη γνὺξ ἐριπών, 5.309), and he alone of these does not die. The verse of the thud gives the sound of the fall; these give its shape. See [[androktasia]] and [[darkness-covered-his-eyes]].

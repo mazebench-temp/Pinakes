@@ -3,7 +3,7 @@ title: Demeter
 greek: Δημήτηρ
 kind: god
 tags: [olympian, cronids, woman, mother]
-summary: The goddess of grain and the harvest, daughter of [[Cronus]] and mother of Persephone. In the Catalogue, Pyrasus in Thessaly is “the precinct of Demeter”.
+summary: The goddess of grain and the harvest, daughter of [[Cronus]] and mother of Persephone.
 grc: [Δήμητρος]
 ---
 

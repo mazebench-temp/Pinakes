@@ -22,7 +22,7 @@ The Iliad tells the abduction only in pieces, in the words of its characters. Pa
 
 {{quote:0eb62c9a-d0ff-5e30-93d0-399938ae83ad}}
 
-Other books add a few details. The craftsman Phereclus built Paris' ships, “the beginners of evil” (5.59–64). On the voyage home Paris put in at Sidon and brought back Sidonian women, whose embroidered robes Hecuba keeps in her storeroom (6.289–292). He brought “possessions from Argos” to his house, and later offers to return them, though not the woman (7.362–364). In her lament for Hector, Helen says it is the twentieth year since she left her native land (24.765–766). Behind it all lies the Judgment of Paris, to which the Iliad alludes only once: he insulted Hera and Athena when they came to his farmstead and praised the goddess “who gave him grievous lust” (24.28–30).
+Other books add a few details. The craftsman Phereclus built Paris' ships, the ships “that began the evil” (5.62–63). On the voyage home Paris put in at Sidon and brought back Sidonian women, whose embroidered robes Hecuba keeps in her storeroom (6.289–292). He brought “possessions from Argos” to his house, and later offers to return them, though not the woman (7.362–364). In her lament for Hector, Helen says it is the twentieth year since she left her native land (24.765–766). Behind it all lies the Judgment of Paris, to which the Iliad alludes only once: he insulted Hera and Athena when they came to his farmstead and praised the goddess “who gave him grievous lust” (24.28–30).
 
 ## In the poem
 

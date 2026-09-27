@@ -3,7 +3,7 @@ title: Who shoots from afar
 greek: ἑκατηβόλος
 kind: epithet
 tags: [divine-epithet]
-summary: A longer variant of Apollo's archer epithet [[far-shooter]] (ἑκηβόλος), used once in Book 1, in Achilles' account of Chryses (1.370).
+summary: A longer variant of Apollo's archer epithet [[far-shooter]] (ἑκηβόλος), “who shoots from afar.”
 aliases: [hekatebolos]
 grc: [ἑκατηβόλου]
 en: [who shoots from afar]

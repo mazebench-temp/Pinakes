@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, speech]
 summary: δαιμόνιε, δαιμονίη: a vocative of reproach and intimacy, “strange one.”
 aliases: [daimonie, possessed one, my strange one]
-grc: [δαιμονίη]
+grc: [δαιμονίη, "!=δαίμονι"]
 en: [Strange one]
 of: [hera, kings, commoners, aphrodite]
 ---

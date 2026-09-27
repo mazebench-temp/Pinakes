@@ -6,6 +6,7 @@ tags: [island, city, crete]
 summary: A city of southern [[Crete]], above the Mesara plain. With [[Rhytium]] it is one of the "well-peopled cities" of the Catalogue.
 aliases: [Phaistos]
 grc: [Φαιστόν]
+except: [5.43]
 ---
 
 {{quote:08d590b4-7a8a-550c-a286-8af3269901ed}}

@@ -1,6 +1,6 @@
 ---
 summary: When the armies meet, Ares rouses the Trojans as Athena rouses the Achaeans, and with them come Terror, Rout and Strife, “the sister and companion of man-slaying Ares”. Elsewhere in the book his name is war itself, and it lives in the epithets of warriors.
-grc: [Ἄρης, Ἄρεος]
+grc: ["^Ἄρης", Ἄρεος]
 relations:
   - sister: strife (4.441)
 passages:

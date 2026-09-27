@@ -12,9 +12,11 @@ grc: [Ἀλφειοῖο]
 
 In the Catalogue the Alpheus is named only for its ford at [[Thryum]], on the northern border of Nestor's kingdom.
 
+{{notes}}
+
 ## Elsewhere in Homer
 
-The river is also a god. Diocles of Pherae descended from "the Alpheus, which flows broad through the land of the Pylians" and fathered Orsilochus (5.544–547). In Nestor's tale of his youth the Pylians camp by the Alpheus, and Nestor sacrifices a bull to the river and another to Poseidon (11.712, 11.726–728).
+The river is also a god. In Nestor's tale of his youth the Pylians camp by the Alpheus, and Nestor sacrifices a bull to the river and another to Poseidon (11.712, 11.726–728).
 
 ## Outside Homer
 

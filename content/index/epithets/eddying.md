@@ -18,4 +18,4 @@ of: [xanthus-of-lycia]
 
 {{quote:5ea519a8-cd28-560d-8c06-98a8618dbf0c}}
 
-The last line of Book 2 names the most distant of Troy's allies, Sarpedon and Glaucus from Lycia, and the eddying Xanthus of their home. This Xanthus is the river of Lycia in southwest Asia Minor, not the river of Troy, which the gods call Xanthus and men Scamander (Il. 20.74). The same phrase, with the same distance in it, recurs when Sarpedon speaks of his home: “far off is Lycia, by the eddying Xanthus” (Il. 5.479).
+The last line of Book 2 names the most distant of Troy's allies, Sarpedon and Glaucus from Lycia, and the eddying Xanthus of their home. This Xanthus is the river of Lycia in southwest Asia Minor, not the river of Troy, which the gods call Xanthus and men Scamander (Il. 20.74). The same phrase, with the same distance in it, recurs when Sarpedon speaks of his home: “for Lycia is far away, on the eddying Xanthus” (Il. 5.479).

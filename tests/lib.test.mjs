@@ -119,6 +119,9 @@ test('concordance: words, stems, phrases, accent-sensitive and capitalized-only 
   const trojans = matchTokens(women, compilePatterns(['Τρώ*', '!=Τρῳ*']));
   assert.deepEqual(trojans.map(h => women[h.start].word), ['Τρῶας']);
   assert.equal(trojans.excluded.length, 1);
+  const ranks = tokenize('Τρῳὰς δὲ στίχας οὖλος Ἄρης ὄτρυνε').map(t => ({ ...t, norm: normalize(t.word) }));
+  assert.deepEqual(matchTokens(ranks, compilePatterns(['Τρώ*', '!=Τρῳ*'])).length, 0);
+  assert.deepEqual(matchTokens(ranks, compilePatterns(['Τρώ*', '!=Τρῳ*', '+Τρῳὰς δὲ στίχας'])).map(h => [h.start, h.end]), [[0, 3]]);
   const en = findEnglish("the son of Cronus nodded", compileEnglish(['son of Cronus', 'Cronus']));
   assert.equal(resolveOverlaps(en).length, 1);
 });

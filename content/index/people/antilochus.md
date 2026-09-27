@@ -29,7 +29,7 @@ Book 4 names him without his father. From Book 5 on he is “the son of great-he
 
 ## Elsewhere in Homer
 
-**In the Iliad.** He fights in most of the great battles. He stands beside Menelaus against Aeneas and kills the charioteer of the Paphlagonian Pylaemenes (5.561–589), kills Ablerus (6.32–33), and in the battle at the ships kills the charioteer of Asius, stands over his fallen companion Hypsenor, and strips Thoon while Poseidon keeps the spears from him (13.394–401, 13.417–423, 13.545–565). He kills Melanippus, leaping on him like a dog on a wounded fawn, and then runs from Hector like a beast that has done harm (15.568–591).
+**In the Iliad.** He fights in most of the great battles. He kills Ablerus (6.32–33), and in the battle at the ships kills the charioteer of Asius, stands over his fallen companion Hypsenor, and strips Thoon while Poseidon keeps the spears from him (13.394–401, 13.417–423, 13.545–565). He kills Melanippus, leaping on him like a dog on a wounded fawn, and then runs from Hector like a beast that has done harm (15.568–591).
 
 When Patroclus falls, Menelaus sends him to Achilles with the news. He is struck dumb, his eyes fill with tears, and he runs to the ships (17.679–701). He tells Achilles that Patroclus lies dead, and holds his hands as he groans, afraid that he will cut his throat (18.16–34).
 

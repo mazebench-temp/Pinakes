@@ -3,7 +3,7 @@ title: While I live and see the light
 greek: ἐμεῦ ζῶντος καὶ ἐπὶ χθονὶ δερκομένοιο
 kind: formula
 tags: [speech-formula, oath]
-summary: The guarantee in Achilles' oath to protect Calchas: “while I live and look upon the earth” (1.88).
+summary: Phrases that measure life by sight, such as “while I live and look upon the earth”, the guarantee of Achilles' oath to Calchas (1.88), and to look on “the bright light of the sun”. To see is to be alive.
 aliases: [while I live]
 grc: [ἐπὶ χθονὶ δερκομένοιο]
 en: [while I live and look upon the earth]

@@ -1,0 +1,5 @@
+---
+summary: The formula belongs to Diomedes six times in Book 5, at his prayer, his taunt of Aphrodite, his attacks on Aeneas and Ares, and his recoil before Ares.
+---
+
+In Books 3 and 4 the formula was Menelaus'. In Book 5 it is Diomedes', and it marks the turns of his day. “Then Diomedes, good at the war cry, prayed” to Athena, wounded (5.114; [[prayer-type-scene]]). Sthenelus remembers the instructions “that Diomedes, good at the war cry, had given him” (5.320). After wounding Aphrodite, “Diomedes, good at the war cry, shouted aloud” at her (5.347), and the formula stands beside an actual shout. He springs at Aeneas under Apollo's protection (5.432). He shudders when he sees Ares beside Hector (5.596), and the formula of the shout names the one moment of fear in his day. At the end, “Diomedes, good at the war cry, drove at him with his bronze spear” (5.855–856; [[diomedes-wounds-ares]]). Then it is the wounded god who bellows, as loud as ten thousand men (5.859–861; [[ten-thousand-men]]).

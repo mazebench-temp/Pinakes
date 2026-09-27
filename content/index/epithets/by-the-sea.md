@@ -5,7 +5,7 @@ kind: epithet
 tags: [sea, city]
 summary: Two epithets of coastal towns in the Catalogue of Ships: ἔφαλος (“on the sea”) and ἀγχίαλος (“near the sea”).
 aliases: [on the sea, near the sea, ephalos, anchialos]
-grc: [ἔφαλον, ἀγχίαλον]
+grc: [ἔφαλον, ἀγχίαλον, "!^Ἀγχίαλ*"]
 en: [by the sea]
 of: [cerinthus, helos, chalcis-aetolia, antron]
 ---

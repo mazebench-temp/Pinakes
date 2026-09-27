@@ -4,7 +4,7 @@ greek: Χρύση
 kind: place
 tags: [troad, sanctuary, city, troad-local]
 summary: A small harbor town in the Troad with a sanctuary of [[Apollo]] Smintheus, home of the priest [[Chryses]]. Odysseus sails there to return Chryseis.
-grc: [Χρύσην]
+grc: ["^Χρύσην"]
 except: [1.11]
 en: [Chryse]
 passages:

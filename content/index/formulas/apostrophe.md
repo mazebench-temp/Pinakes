@@ -15,7 +15,7 @@ en: [you would not have seen, you would not have said, could make light of it]
 
 **To a character.** In the middle of the story he speaks to one of his characters as “you”. Menelaus is addressed seven times (4.127, 4.146, 7.104, 13.603, 17.679, 17.702, 23.600), and Patroclus eight times, all in Book 16, from “groaning heavily you answered him, horseman Patroclus” (16.20; see [[groaning-heavily]]) to the moment of his death (16.787, 16.812, 16.843). Achilles, Melanippus and Apollo are addressed once or twice each (20.2, 15.582, 15.365, 20.152). In the Odyssey the swineherd Eumaeus is addressed many times.
 
-**To the listener.** The narrator speaks to his hearer as “you”, usually with a potential optative: “you would not have seen” (4.223), “you would not have said” (4.429), “you could not have told which side the son of Tydeus was on” (5.85). A related device imagines an onlooker in the third person: a man who came into the fighting unhurt, led by Athena, “could make light of it” no longer (4.539–542).
+**To the listener.** The narrator speaks to his hearer as “you”, usually with a potential optative: “you would not have seen” (4.223), “you would not have said” (4.429), as for the son of Tydeus, “you could not have told which side he was on” (5.85). A related device imagines an onlooker in the third person: a man who came into the fighting unhurt, led by Athena, “could make light of it” no longer (4.539–542).
 
 ## Why
 

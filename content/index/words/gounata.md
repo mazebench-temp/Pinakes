@@ -3,7 +3,7 @@ title: Knees
 greek: γούνατα
 kind: term
 tags: [supplication, body]
-summary: The knees, which a suppliant clasps. [[Achilles]] tells [[Thetis]] to take [[Zeus]] by the knees; she does, and holds on until he grants her request.
+summary: The knees: the seat of a warrior's strength, which is “loosened” when he falls, and the part of the body a suppliant clasps.
 aliases: [gounata, gonu, gony, gounazomai, clasp the knees]
 grc: [γούνων, γουνάσομαι]
 en: [clasp his knees, knees]

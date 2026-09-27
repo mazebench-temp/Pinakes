@@ -6,6 +6,7 @@ tags: [achaean, pylian, warrior, messenia]
 summary: One of the five captains around whom [[Nestor]] marshals the Pylians before the first battle (4.295).
 aliases: [Alastor the Pylian]
 grc: [Ἀλάστορα]
+except: [5.677]
 relations:
   - commander: nestor (4.293-295)
 ---

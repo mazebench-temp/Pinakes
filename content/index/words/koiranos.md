@@ -5,7 +5,7 @@ kind: term
 tags: [kingship]
 summary: A lord or commander, a man with the right to give orders, above all in war. The verb κοιρανέω means “be lord, command”, and πολυκοιρανίη is “the rule of many”, which Odysseus declares “not good”.
 aliases: [koiranos, koiraneō, koiraneo, polykoiraniē, polykoiranie, lord, commander, rule of many]
-grc: [κοιραν*, πολυκοιρανίη]
+grc: [κοιραν*, πολυκοιρανίη, "!^Κοίραν*"]
 en: [rule of many, ruler, like a master, lords]
 ---
 

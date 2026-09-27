@@ -3,11 +3,11 @@ title: Exulting in his glory
 greek: κύδεϊ γαίων
 kind: epithet
 tags: [divine-epithet]
-summary: The phrase for [[Briareus]] seated beside Zeus (1.405). Elsewhere in the Iliad it describes Zeus himself and Ares.
+summary: “Exulting in his glory,” the phrase for a power seated in triumph: [[Briareus]] beside Zeus, Zeus himself, and Ares healed of his wound.
 aliases: [kydei gaion]
 grc: [κύδεϊ γαίων]
 en: [exulting in his glory]
-of: [briareus]
+of: [briareus, zeus, ares]
 ---
 
 ## Meaning

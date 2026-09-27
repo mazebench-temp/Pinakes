@@ -6062,6 +6062,796 @@
       "id": "ff39fce3-97be-5887-ad7f-98daf22c24d4",
       "ref": "4.539-544",
       "title": "Face down in the dust"
+    },
+    {
+      "id": "55bc383e-6419-5b33-8227-16c2972361f7",
+      "ref": "5.1-3",
+      "title": "Athena gives Diomedes might and daring"
+    },
+    {
+      "id": "5c92f968-814b-539d-ae95-4959fc6c142d",
+      "ref": "5.1-8",
+      "title": "Athena kindles Diomedes"
+    },
+    {
+      "id": "07bda45b-34a7-55df-b73d-53afb1aba7b0",
+      "ref": "5.4-7",
+      "title": "The star of late summer"
+    },
+    {
+      "id": "2d07b4de-6115-5e51-826d-1e98a88ef735",
+      "ref": "5.9-11",
+      "title": "Dares, priest of Hephaestus"
+    },
+    {
+      "id": "24641446-719a-5759-a044-823c927020c5",
+      "ref": "5.14-19",
+      "title": "Diomedes kills Phegeus"
+    },
+    {
+      "id": "03b37e5c-90a1-59b8-83ed-cc6e155b8f22",
+      "ref": "5.20-24",
+      "title": "Hephaestus saves Idaeus"
+    },
+    {
+      "id": "7bcddba5-17e4-5578-b537-1a6e8999873f",
+      "ref": "5.30-34",
+      "title": "Athena leads Ares away"
+    },
+    {
+      "id": "42bdeef4-2c47-5a9c-bc79-261ec63f798d",
+      "ref": "5.37-42",
+      "title": "Agamemnon kills Odius"
+    },
+    {
+      "id": "d463eedd-b18e-5df4-9d51-57f6999a51a1",
+      "ref": "5.43-48",
+      "title": "Idomeneus kills Phaestus"
+    },
+    {
+      "id": "e0b367d4-9840-5e11-b54d-9f48746be089",
+      "ref": "5.49-54",
+      "title": "Scamandrius the hunter"
+    },
+    {
+      "id": "45bc161b-b436-524b-8e7e-3b12db176de0",
+      "ref": "5.49-58",
+      "title": "Menelaus kills Scamandrius"
+    },
+    {
+      "id": "1240a022-2c88-5c54-8e4f-b64209c85597",
+      "ref": "5.53-54",
+      "title": "No help to him then"
+    },
+    {
+      "id": "9906a6ab-fb26-5b59-8bab-d82d9ba5c3f5",
+      "ref": "5.59-64",
+      "title": "Phereclus the shipbuilder"
+    },
+    {
+      "id": "cb7137e3-5623-5455-9d45-c133625056b4",
+      "ref": "5.62-64",
+      "title": "The ships that began the evil"
+    },
+    {
+      "id": "14fc629d-db8e-52d6-91ad-4078bc4b3f49",
+      "ref": "5.65-68",
+      "title": "Meriones kills Phereclus"
+    },
+    {
+      "id": "956d6071-3d2b-55f1-9d7b-e8283d194078",
+      "ref": "5.69-71",
+      "title": "Theano and Pedaeus"
+    },
+    {
+      "id": "db2e8bdc-6063-5461-aa22-583de24992ac",
+      "ref": "5.69-75",
+      "title": "Meges kills Pedaeus"
+    },
+    {
+      "id": "822952fd-7af3-5cd9-a4c5-8a33225b7502",
+      "ref": "5.76-83",
+      "title": "Eurypylus kills Hypsenor"
+    },
+    {
+      "id": "25287042-9cd7-5eda-a487-cfe698409f20",
+      "ref": "5.80-83",
+      "title": "Purple death"
+    },
+    {
+      "id": "6631cd53-9934-5921-9da5-de844a5e284a",
+      "ref": "5.85-94",
+      "title": "A river in flood"
+    },
+    {
+      "id": "4c36aaba-a0a1-5f4f-971c-32e9bff41e40",
+      "ref": "5.114-120",
+      "title": "Diomedes prays to Athena"
+    },
+    {
+      "id": "f99e2fe8-fa76-5acb-981e-28d00b5daea7",
+      "ref": "5.115-120",
+      "title": "Diomedes prays to Athena"
+    },
+    {
+      "id": "e7ee1a16-de29-5f9a-b27f-e96a9326fb71",
+      "ref": "5.124-126",
+      "title": "Your father's might"
+    },
+    {
+      "id": "17e53094-a7f4-5f9c-816d-41dcfb01e371",
+      "ref": "5.124-128",
+      "title": "Athena strengthens Diomedes"
+    },
+    {
+      "id": "85a7e4df-a946-5a51-9baa-282144c09f8b",
+      "ref": "5.127-128",
+      "title": "The mist taken from his eyes"
+    },
+    {
+      "id": "9cfee6b1-8244-56d1-b556-ed5a9fd89b57",
+      "ref": "5.134-143",
+      "title": "The wounded lion"
+    },
+    {
+      "id": "c0b8cd7f-5bf3-5545-a23f-e4378f92ac98",
+      "ref": "5.144-147",
+      "title": "Astynous and Hypeiron"
+    },
+    {
+      "id": "b1338a04-76e4-5ce2-a9f7-81ddb17ea4cc",
+      "ref": "5.148-151",
+      "title": "The sons of Eurydamas"
+    },
+    {
+      "id": "82b513e0-5741-5602-a943-bbe41a4064ab",
+      "ref": "5.152-158",
+      "title": "The sons of Phaenops"
+    },
+    {
+      "id": "cb28b98d-7318-52ce-8216-44d799c53dc1",
+      "ref": "5.159-165",
+      "title": "Two sons of Priam"
+    },
+    {
+      "id": "ac904230-eb3b-5ca0-9b42-bf16c1fcecf3",
+      "ref": "5.171-178",
+      "title": "Aeneas rouses Pandarus"
+    },
+    {
+      "id": "a99287a6-1854-530d-bcd3-8068ba4defa2",
+      "ref": "5.177-178",
+      "title": "The wrath of a god"
+    },
+    {
+      "id": "06d860a8-8284-50ab-ac43-e65139454107",
+      "ref": "5.180-186",
+      "title": "Pandarus recognizes Diomedes"
+    },
+    {
+      "id": "e4417fec-ae55-5d8f-857a-cd21fce73f8c",
+      "ref": "5.192-205",
+      "title": "Lycaon's advice"
+    },
+    {
+      "id": "b9f71a4e-b189-549b-9890-98239fb8be55",
+      "ref": "5.209-216",
+      "title": "Pandarus curses his bow"
+    },
+    {
+      "id": "f9f0426f-1faa-5ff5-b768-823a1a1f5b9d",
+      "ref": "5.243-250",
+      "title": "Sthenelus urges retreat"
+    },
+    {
+      "id": "c04a7601-6a9f-59f3-a261-40eeb7c51bb9",
+      "ref": "5.252-256",
+      "title": "Diomedes refuses to retreat"
+    },
+    {
+      "id": "46fdb7b7-b210-5128-ac7b-43632df2a903",
+      "ref": "5.259-264",
+      "title": "Diomedes' orders to Sthenelus"
+    },
+    {
+      "id": "e88cd9d8-2f05-5531-ad15-b9a53f1f3459",
+      "ref": "5.265-267",
+      "title": "The horses of Tros"
+    },
+    {
+      "id": "2abfabbc-ca86-5c46-9def-e89ddfa31c49",
+      "ref": "5.265-273",
+      "title": "Where Aeneas' horses came from"
+    },
+    {
+      "id": "cf5e5c11-2895-5b03-b124-a1d45373dffb",
+      "ref": "5.268-272",
+      "title": "Anchises steals the horses"
+    },
+    {
+      "id": "420c1a66-9710-5951-b6ac-9e7ccb8d7ce4",
+      "ref": "5.276-279",
+      "title": "Pandarus challenges Diomedes"
+    },
+    {
+      "id": "58fa538c-d329-53b9-95db-82a486a46488",
+      "ref": "5.286-289",
+      "title": "Diomedes answers Pandarus"
+    },
+    {
+      "id": "ed66106b-5424-5802-a541-597394cf008d",
+      "ref": "5.290-296",
+      "title": "The death of Pandarus"
+    },
+    {
+      "id": "9d0e8c0a-8372-5c3b-9a29-30e42e534ae8",
+      "ref": "5.294-296",
+      "title": "Pandarus falls"
+    },
+    {
+      "id": "8eeb1e44-9409-5129-8371-c33459751088",
+      "ref": "5.297-302",
+      "title": "Aeneas stands over Pandarus"
+    },
+    {
+      "id": "b5c86ba6-9bcf-503e-ab9c-b9e88ab96f20",
+      "ref": "5.302-304",
+      "title": "A stone two men could not carry"
+    },
+    {
+      "id": "7b631d9b-cf15-58e3-ac88-372d61d54a2a",
+      "ref": "5.305-310",
+      "title": "The stone strikes Aeneas"
+    },
+    {
+      "id": "404d182a-8d6a-524c-9d87-0a281dd00a1a",
+      "ref": "5.311-318",
+      "title": "Aphrodite rescues Aeneas"
+    },
+    {
+      "id": "d41be128-2a41-5121-b838-14ee3cdabd18",
+      "ref": "5.319-327",
+      "title": "Sthenelus takes the horses of Aeneas"
+    },
+    {
+      "id": "d730882e-0979-54dd-a999-05bb83d05903",
+      "ref": "5.330-333",
+      "title": "Diomedes goes after Cypris"
+    },
+    {
+      "id": "33bfc5ed-f414-5898-995b-4fdf21d86e71",
+      "ref": "5.336-339",
+      "title": "The robe the Graces made"
+    },
+    {
+      "id": "22e0313e-ee00-5cfb-8120-bb9d50179d2e",
+      "ref": "5.340-342",
+      "title": "Ichor"
+    },
+    {
+      "id": "1b4e8496-e3fb-5283-82cb-29c70f2de4ad",
+      "ref": "5.348-351",
+      "title": "Diomedes taunts Aphrodite"
+    },
+    {
+      "id": "73ac6651-37c4-540a-a47e-5b015f7a4b88",
+      "ref": "5.355-363",
+      "title": "Aphrodite borrows Ares' horses"
+    },
+    {
+      "id": "f5d3bfa8-50b3-5bb8-ada6-2de1240c0305",
+      "ref": "5.363-369",
+      "title": "Iris drives Aphrodite to Olympus"
+    },
+    {
+      "id": "1edee823-43d4-5b5c-acc9-c8260d718a5d",
+      "ref": "5.370-372",
+      "title": "Aphrodite comes to Dione"
+    },
+    {
+      "id": "28c4e5f8-1fd1-5180-8a36-31fc934d5c8c",
+      "ref": "5.382-384",
+      "title": "Dione comforts Aphrodite"
+    },
+    {
+      "id": "b885b05d-20ba-552b-a3ba-d7982bb9a108",
+      "ref": "5.385-391",
+      "title": "The Aloadae bind Ares"
+    },
+    {
+      "id": "3c8be4a2-6c06-5a7b-b5bc-0a572450dc2b",
+      "ref": "5.392-394",
+      "title": "Heracles wounds Hera"
+    },
+    {
+      "id": "3f215c34-dcb1-5b22-a7e3-b8c18354bcb9",
+      "ref": "5.392-404",
+      "title": "Heracles wounds Hera and Hades"
+    },
+    {
+      "id": "576bd4a6-0f6f-595d-94ef-c04b4b388804",
+      "ref": "5.395-402",
+      "title": "Heracles wounds Hades"
+    },
+    {
+      "id": "eb6af802-d7ab-5073-997a-ba8d195879e8",
+      "ref": "5.406-409",
+      "title": "The man who fights the gods"
+    },
+    {
+      "id": "f5f3687d-7683-5b92-a52e-bf960361ec8a",
+      "ref": "5.406-415",
+      "title": "Dione's warning"
+    },
+    {
+      "id": "80d02e09-656b-55af-beaf-aeb8a48716d9",
+      "ref": "5.410-415",
+      "title": "Aegialeia will wake her household"
+    },
+    {
+      "id": "4b64ff01-7c19-5d30-ac3d-4eebfc8a215e",
+      "ref": "5.416-417",
+      "title": "Dione wipes away the ichor"
+    },
+    {
+      "id": "aa77859a-d270-5011-98d6-856cb8b793c5",
+      "ref": "5.422-425",
+      "title": "Athena mocks Aphrodite"
+    },
+    {
+      "id": "a1050ae1-7a2c-5e7d-a764-e9674819233c",
+      "ref": "5.426-430",
+      "title": "Zeus to Aphrodite"
+    },
+    {
+      "id": "5138b2fe-7b43-5b65-8872-95dd551a8a6f",
+      "ref": "5.428-430",
+      "title": "The works of war"
+    },
+    {
+      "id": "c6f743f1-bf92-5222-9e94-25279a5e608e",
+      "ref": "5.436-442",
+      "title": "Three times, and the fourth"
+    },
+    {
+      "id": "bcc830da-2dac-58c2-a751-498342abb24e",
+      "ref": "5.445-448",
+      "title": "Aeneas in Apollo's temple"
+    },
+    {
+      "id": "3c375408-a55f-5099-90af-3cb498be380f",
+      "ref": "5.449-453",
+      "title": "The phantom of Aeneas"
+    },
+    {
+      "id": "d4234302-5e53-5c39-872b-8887e1eb2aee",
+      "ref": "5.464-469",
+      "title": "Ares rouses the sons of Priam"
+    },
+    {
+      "id": "67bcc58c-80d6-539e-a425-c1a491eb70f1",
+      "ref": "5.471-477",
+      "title": "Sarpedon rebukes Hector"
+    },
+    {
+      "id": "a90508ef-4a25-5e2f-b155-dfae6433946a",
+      "ref": "5.478-484",
+      "title": "Sarpedon far from Lycia"
+    },
+    {
+      "id": "6bb8944d-f29b-53eb-9d43-a3c5e5806fca",
+      "ref": "5.485-489",
+      "title": "The all-catching net"
+    },
+    {
+      "id": "54dbe5b0-da81-5d91-a14a-d574f09c23f3",
+      "ref": "5.493-497",
+      "title": "Hector rallies the Trojans"
+    },
+    {
+      "id": "1c74f7ad-86c0-5607-ba4d-dc7527333a4a",
+      "ref": "5.499-505",
+      "title": "The winnowing"
+    },
+    {
+      "id": "d796b866-0068-524a-9309-9bec6ba19361",
+      "ref": "5.506-511",
+      "title": "Ares covers the battle in night"
+    },
+    {
+      "id": "bd4f8496-d5dd-5a1c-a8e5-f7b7b0b87abd",
+      "ref": "5.514-518",
+      "title": "Aeneas returns"
+    },
+    {
+      "id": "4dc3a21a-abd9-5eca-b526-496738183bb2",
+      "ref": "5.519-527",
+      "title": "Clouds on the mountains"
+    },
+    {
+      "id": "5eab5b38-2112-58ad-b538-a73e0e747a2e",
+      "ref": "5.528-532",
+      "title": "Agamemnon's exhortation"
+    },
+    {
+      "id": "2a42c6f0-9fb4-5f2d-8aa6-15bf946c6b91",
+      "ref": "5.533-540",
+      "title": "Agamemnon kills Deicoon"
+    },
+    {
+      "id": "72ad4cea-2304-5537-abc1-e429318430c4",
+      "ref": "5.541-549",
+      "title": "The house of Diocles"
+    },
+    {
+      "id": "a8ac00c9-cd1e-5152-8526-580c1450ba04",
+      "ref": "5.548-553",
+      "title": "The sons of Diocles"
+    },
+    {
+      "id": "92830825-5dee-55c8-b25f-69ee5e72a61a",
+      "ref": "5.554-560",
+      "title": "Two lions"
+    },
+    {
+      "id": "3f7c8e35-e6b6-57c8-9988-f3be55c5c88f",
+      "ref": "5.559-561",
+      "title": "Like tall fir trees"
+    },
+    {
+      "id": "89465a86-f822-5d7e-af35-21fed00cd9ba",
+      "ref": "5.561-564",
+      "title": "Menelaus pities the sons of Diocles"
+    },
+    {
+      "id": "f8870032-9f3e-5d7f-af16-57a8edee0211",
+      "ref": "5.565-572",
+      "title": "Antilochus stands beside Menelaus"
+    },
+    {
+      "id": "d128ce05-c59b-57fb-81f9-4458117fb533",
+      "ref": "5.576-579",
+      "title": "Menelaus kills Pylaemenes"
+    },
+    {
+      "id": "9d50286c-71c4-5a2b-a3d6-f22dce1cc8d6",
+      "ref": "5.580-589",
+      "title": "Antilochus kills Mydon"
+    },
+    {
+      "id": "1903bc9b-5886-5292-8bae-ad4279a4698f",
+      "ref": "5.590-595",
+      "title": "Ares and Enyo lead the Trojans"
+    },
+    {
+      "id": "f68b1bcb-43e1-5e04-ae3c-8f4f9d704f5c",
+      "ref": "5.596-600",
+      "title": "The man at the river"
+    },
+    {
+      "id": "46396d8b-5de3-5bf9-b721-fc1ab86c70f5",
+      "ref": "5.596-606",
+      "title": "Diomedes gives ground"
+    },
+    {
+      "id": "ce25b833-31dc-54b6-8817-bf3cbf4c98d8",
+      "ref": "5.601-606",
+      "title": "Diomedes gives ground before Hector"
+    },
+    {
+      "id": "d073f40f-dd4e-5134-ad34-15f1c599c0fb",
+      "ref": "5.607-610",
+      "title": "Hector kills Menesthes and Anchialus"
+    },
+    {
+      "id": "c55e674a-2e5b-590e-af43-041c53d6d052",
+      "ref": "5.611-616",
+      "title": "Ajax kills Amphius"
+    },
+    {
+      "id": "d2e9bba9-3869-5fd1-a892-751d70258690",
+      "ref": "5.617-626",
+      "title": "Ajax driven back from the body"
+    },
+    {
+      "id": "84a00dac-6223-5807-b1eb-181ae4c95d79",
+      "ref": "5.627-631",
+      "title": "Tlepolemus and Sarpedon meet"
+    },
+    {
+      "id": "a0188dab-f3f1-5ffb-a0af-25d737543d6b",
+      "ref": "5.633-637",
+      "title": "Tlepolemus taunts Sarpedon"
+    },
+    {
+      "id": "7400d433-c36f-5e27-9b06-3e4f3c1393ad",
+      "ref": "5.635-642",
+      "title": "Tlepolemus boasts of Heracles"
+    },
+    {
+      "id": "d6044c66-71e8-5a17-93fe-509749bb8127",
+      "ref": "5.648-651",
+      "title": "Sarpedon on Laomedon"
+    },
+    {
+      "id": "1728708c-49e4-5782-8ad4-d1379e686a42",
+      "ref": "5.652-654",
+      "title": "Sarpedon answers Tlepolemus"
+    },
+    {
+      "id": "da27dfae-f97f-5f76-99ee-67debeb250f0",
+      "ref": "5.655-659",
+      "title": "The death of Tlepolemus"
+    },
+    {
+      "id": "48dbacbe-43e1-54b2-9bdc-a19c24e10f45",
+      "ref": "5.660-662",
+      "title": "His father kept ruin away"
+    },
+    {
+      "id": "8be185d8-2649-5d00-9ec7-51c4ed9059a0",
+      "ref": "5.668-675",
+      "title": "Odysseus ponders whom to pursue"
+    },
+    {
+      "id": "e0d50c03-6eb5-55b5-a967-3e0466433a03",
+      "ref": "5.669-676",
+      "title": "Odysseus ponders"
+    },
+    {
+      "id": "9663c102-c0b1-50ba-9933-3484579695a2",
+      "ref": "5.676-678",
+      "title": "Odysseus kills seven Lycians"
+    },
+    {
+      "id": "9ee140e1-ce4a-5f6c-b0c9-de1cf6dd92b5",
+      "ref": "5.684-688",
+      "title": "Sarpedon's plea to Hector"
+    },
+    {
+      "id": "3753f24c-87d2-5fa4-bc78-bd9c88a88f70",
+      "ref": "5.689-691",
+      "title": "Hector passes Sarpedon"
+    },
+    {
+      "id": "7b8205dc-9953-54e9-b121-1866d5ba6a91",
+      "ref": "5.692-698",
+      "title": "Sarpedon under the oak"
+    },
+    {
+      "id": "5114d78d-73dd-52b3-89e6-99cc75a0fa4b",
+      "ref": "5.699-704",
+      "title": "The Argives give ground"
+    },
+    {
+      "id": "6c1cf391-330c-51a1-bdc5-b3f11578b218",
+      "ref": "5.703-707",
+      "title": "Hector and Ares kill six men"
+    },
+    {
+      "id": "831d0f24-6154-5401-9042-14f15b6b8b65",
+      "ref": "5.707-710",
+      "title": "Oresbius of Hyle"
+    },
+    {
+      "id": "48924456-6d27-502d-91ba-215814bee263",
+      "ref": "5.719-723",
+      "title": "Hera harnesses her horses"
+    },
+    {
+      "id": "8cf1ce0f-878e-5099-bb29-414b1f7b175b",
+      "ref": "5.722-723",
+      "title": "Hebe puts on the wheels"
+    },
+    {
+      "id": "d1461fdd-bf7f-5425-b312-031d6572f09c",
+      "ref": "5.722-732",
+      "title": "The chariot of Hera"
+    },
+    {
+      "id": "c90d7453-60d3-5c6d-b532-400fda69025b",
+      "ref": "5.733-737",
+      "title": "Athena arms"
+    },
+    {
+      "id": "2f8333cd-89e4-5542-83cf-db1ae04bef8c",
+      "ref": "5.738-742",
+      "title": "The aegis"
+    },
+    {
+      "id": "1ccf4e4b-59ac-5499-b3b0-821a4cd1c489",
+      "ref": "5.741-742",
+      "title": "The Gorgon's head"
+    },
+    {
+      "id": "44fc7188-f42c-5697-ab35-ffc3aeddb7a6",
+      "ref": "5.743-744",
+      "title": "Athena's helmet"
+    },
+    {
+      "id": "0f96594b-5db4-543c-91f3-6c7b0d8ab483",
+      "ref": "5.745-747",
+      "title": "Athena takes up her spear"
+    },
+    {
+      "id": "1cbcd113-faa2-5d6b-a385-007d73729c20",
+      "ref": "5.749-752",
+      "title": "The gates of heaven"
+    },
+    {
+      "id": "a7608dd1-e58c-5dd6-971f-de3679715987",
+      "ref": "5.753-756",
+      "title": "Hera finds Zeus on Olympus"
+    },
+    {
+      "id": "a0f53299-5830-56f4-b1ea-3c6967973dbf",
+      "ref": "5.757-761",
+      "title": "Hera complains of Ares"
+    },
+    {
+      "id": "ff20775f-4c93-5fe4-9062-fbff86eb3b16",
+      "ref": "5.764-766",
+      "title": "Zeus gives Hera leave"
+    },
+    {
+      "id": "837f0dd8-6ebf-59c0-8d6d-9d52d06dd509",
+      "ref": "5.768-772",
+      "title": "The leap of the gods' horses"
+    },
+    {
+      "id": "ae57f544-94b7-5eb7-8d32-981d9351993a",
+      "ref": "5.773-777",
+      "title": "The Simoeis feeds Hera's horses"
+    },
+    {
+      "id": "7f7e4b7d-deb6-5bf3-a419-66bdf66d0db8",
+      "ref": "5.778-779",
+      "title": "Hera and Athena go like doves"
+    },
+    {
+      "id": "93995579-5adc-598e-8a67-617c5c2b7dd3",
+      "ref": "5.780-783",
+      "title": "Like lions or wild boars"
+    },
+    {
+      "id": "efd1a3f9-066a-5f10-b85c-5e20a06837df",
+      "ref": "5.780-784",
+      "title": "The best stand around Diomedes"
+    },
+    {
+      "id": "3c0341b5-c797-5f04-8318-470b9ee85f55",
+      "ref": "5.784-786",
+      "title": "Hera in the likeness of Stentor"
+    },
+    {
+      "id": "b13e1d57-f506-5a7b-99ad-1d303bca14d0",
+      "ref": "5.784-787",
+      "title": "Hera shouts as Stentor"
+    },
+    {
+      "id": "bad7358b-c74f-5eb4-ae0f-51461f82bc5b",
+      "ref": "5.787-791",
+      "title": "Hera shames the Argives"
+    },
+    {
+      "id": "16c9ee62-de97-5eb3-a5ad-6ddf9ade6f1f",
+      "ref": "5.793-798",
+      "title": "Athena finds Diomedes"
+    },
+    {
+      "id": "46c99025-3dcd-56c5-9d97-81d6e0cff17a",
+      "ref": "5.795-798",
+      "title": "Diomedes cools his wound"
+    },
+    {
+      "id": "d1fd3489-900f-581f-96a8-23e6be182256",
+      "ref": "5.800-801",
+      "title": "Small in build, but a fighter"
+    },
+    {
+      "id": "cf050df9-3e88-5a9d-92e1-9c511c8e4374",
+      "ref": "5.800-808",
+      "title": "Athena tells of Tydeus"
+    },
+    {
+      "id": "75e354e1-3051-5fa4-b82e-02e3a7ad75f3",
+      "ref": "5.806-808",
+      "title": "Such a helper was I to him"
+    },
+    {
+      "id": "3a405d16-eec7-5421-a8d3-0c4344226fe7",
+      "ref": "5.817-824",
+      "title": "Diomedes answers Athena"
+    },
+    {
+      "id": "28fa326c-264e-510f-b1cd-556698e7439e",
+      "ref": "5.830-834",
+      "title": "Athena on Ares"
+    },
+    {
+      "id": "7e6320af-9af1-5bbb-8481-e2ba307b3012",
+      "ref": "5.835-839",
+      "title": "Athena mounts the chariot"
+    },
+    {
+      "id": "65c6d2fe-f1be-5395-b221-4bf9113f70a7",
+      "ref": "5.837-839",
+      "title": "The oaken axle groans"
+    },
+    {
+      "id": "756627de-f70b-5e11-9dea-ed8bbc272fe4",
+      "ref": "5.842-848",
+      "title": "Ares strips Periphas"
+    },
+    {
+      "id": "d9acc240-88f4-52ba-a66a-5faac5c198eb",
+      "ref": "5.844-845",
+      "title": "The helmet of Hades"
+    },
+    {
+      "id": "634bf8df-0bb6-5416-b0fd-5e543ff569a4",
+      "ref": "5.844-846",
+      "title": "Athena puts on the helmet of Hades"
+    },
+    {
+      "id": "20519e70-1170-5774-b5b2-1b016f8b31a2",
+      "ref": "5.855-859",
+      "title": "Diomedes wounds Ares"
+    },
+    {
+      "id": "a278f8c2-33a9-5c7a-bb7d-1d9f60297189",
+      "ref": "5.859-863",
+      "title": "The bellow of Ares"
+    },
+    {
+      "id": "e9fdd84a-e708-5e2b-a60b-1033c14eb7b1",
+      "ref": "5.859-867",
+      "title": "Ares bellows and rises to the sky"
+    },
+    {
+      "id": "626f5f0a-4a31-5fab-904a-4c0e2677647e",
+      "ref": "5.864-867",
+      "title": "A dark mist from the clouds"
+    },
+    {
+      "id": "5ba787f6-d568-5608-83c5-3863485cbf41",
+      "ref": "5.875-882",
+      "title": "Ares complains of Athena"
+    },
+    {
+      "id": "5f210e1d-b851-54dc-9636-01780f5e2612",
+      "ref": "5.885-887",
+      "title": "Ares on his wound"
+    },
+    {
+      "id": "9e8e2638-58c8-5466-9e8c-e3b92358623c",
+      "ref": "5.889-891",
+      "title": "Zeus rebukes Ares"
+    },
+    {
+      "id": "c31d0de1-b7d3-5791-955d-fd6fa9a0f160",
+      "ref": "5.895-898",
+      "title": "Zeus spares Ares"
+    },
+    {
+      "id": "1ef90771-b2bb-5af4-a2ba-4bb21bf88e89",
+      "ref": "5.899-904",
+      "title": "Paeëon heals Ares"
+    },
+    {
+      "id": "d0888b8c-9694-5632-856a-1642df4162c9",
+      "ref": "5.902-904",
+      "title": "Fig juice curdles milk"
+    },
+    {
+      "id": "44f2e8fa-520b-5ce6-aa3b-b634e1381606",
+      "ref": "5.905-906",
+      "title": "Ares healed sits beside Zeus"
+    },
+    {
+      "id": "844ac1c4-67bb-530e-ba06-c135d7fabbc5",
+      "ref": "5.907-909",
+      "title": "The goddesses return to Olympus"
     }
   ]
 }

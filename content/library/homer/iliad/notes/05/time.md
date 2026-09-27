@@ -1,0 +1,8 @@
+---
+summary: In Book 5 men are measured by how they were honored: a priest honored like a god, a companion honored above all his age-mates, Aeneas honored like Hector, Deicoon like the sons of Priam. The twin sons of Diocles die seeking τιμή for the sons of Atreus.
+grc: [τίετο, τῖεν, ἐτίομεν, τῖον]
+---
+
+**Honored as.** The verb τίω, “honor”, gives several men of Book 5 their measure, and it usually honors one man by comparison with another. Dolopion, priest of the Scamander, “was honored by the people like a god” (θεὸς δʼ ὣς τίετο δήμῳ, 5.78); his son dies by the sword of Eurypylus. Deicoon, the companion of Aeneas, was one “whom the Trojans, as they did the sons of Priam, honored, since he was swift to fight among the foremost” (5.535–536); Agamemnon kills him. Ares, rousing the Trojans in a mortal's likeness, says of the fallen Aeneas, “A man lies fallen whom we honored as highly as brilliant Hector” (5.467). Among the Achaeans, Sthenelus honors his companion Deipylus above all the men of his age, “because his mind was in tune with his own” (5.325–326; see [[deipylus]] and [[hetairos]]). Three times of the four, the honor is recalled at the moment when the man, or his son, falls or is thought to have fallen.
+
+**Satisfaction.** The twin sons of Diocles followed the Argives to Troy “seeking satisfaction for the sons of Atreus, Agamemnon and Menelaus” (τιμὴν Ἀτρεΐδῃς Ἀγαμέμνονι καὶ Μενελάῳ ἀρνυμένω, 5.552–553). The phrase is the one with which Achilles, in the quarrel, named the purpose of the whole expedition: “to win satisfaction for Menelaus” (τιμὴν ἀρνύμενοι Μενελάῳ, 1.159). The twins die for it in the next line (see [[bereaved-parents]] and [[war-for-menelaus]]).

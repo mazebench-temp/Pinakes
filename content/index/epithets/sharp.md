@@ -5,8 +5,7 @@ kind: epithet
 tags: [weapon]
 summary: “Sharp, keen,” the commonest epithet of weapons, the sharp bronze, spear and sword, and of Ares as war itself.
 aliases: [oxys, keen, sharp bronze, sharp Ares]
-grc: [ὀξύ, ὀξὺν, ὀξέες, ὀξέϊ, ὀξυβελὴς]
-except: [3.374]
+grc: [ὀξύ, ὀξὺν, ὀξέες, ὀξέϊ, ὀξυβελὴς, "!ὀξὺ νόησε"]
 en: [sharp, sharp-pointed]
 ---
 

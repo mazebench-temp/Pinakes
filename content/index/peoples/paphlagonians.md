@@ -13,7 +13,11 @@ en: [Paphlagonians]
 
 The entry opens with a periphrasis: the Paphlagonians were led, literally, by "the shaggy heart of Pylaemenes" (Πυλαιμένεος λάσιον κῆρ). A quality stands for the man, as in βίη Ἡρακληείη, "the might of Heracles", which means Heracles himself (2.658, 2.666). See [[shaggy-chest]] and [[might-of-heracles]]. It names their people, the [[Eneti]], known for wild mules, and then their places along the coast: [[Cytorus]], [[Sesamus]], the river [[Parthenius]], [[Cromna]], [[aegialus-of-paphlagonia|Aegialus]] and the heights of [[Erythini]]. Three of these towns were joined around 300 BC to form the city of Amastris (Strabo, *Geography*, Book 12).
 
-Later in the Iliad they are "great-hearted shield-bearers" (5.577). Menelaus kills their leader Pylaemenes in Book 5, yet in Book 13 Pylaemenes follows the body of his son Harpalion, weeping (see [[pylaemenes]]). Harpalion had been Paris' guest-friend among the Paphlagonians, and Paris avenges him by shooting the Corinthian Euchenor (13.660–672).
+{{notes}}
+
+## Elsewhere in Homer
+
+In Book 13 they carry the body of Pylaemenes' son Harpalion back to Troy, and his father, though Menelaus killed him in Book 5, follows it, weeping (13.656–659; see [[pylaemenes]]). Harpalion had been Paris' guest-friend among the Paphlagonians, and Paris avenges him by shooting the Corinthian Euchenor (13.660–672).
 
 ## Outside Homer
 

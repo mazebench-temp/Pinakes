@@ -38,7 +38,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἵμερος, ἔρος (ἔρως) | longing, desire | kept apart: "sweet longing" 3.139, 3.446; "desire" 3.442 |
 | αἴτιος, αἰτίη | to blame | |
 | νέμεσις | blame | "There is no blame" (3.156) |
-| ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290) |
+| ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290); "recompense", the price Zeus paid for Ganymede (5.266) |
 | δράκων | serpent | |
 | κουλεόν, κολεόν | sheath | |
 | ἔρις / νεῖκος | strife / quarrel | kept apart: Strife "cast the quarrel" (4.444) |
@@ -47,6 +47,14 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἀτασθαλίαι | recklessness | |
 | ὄις | sheep | ewes only where the Greek says so |
 | ὄρνυμι / ὀτρύνω | rouse / urge on | |
+| μένος | might; fury | "might", the power a god puts in a man (5.2, 5.125, 5.513) or a man has (5.254, 5.472); "fury" where it is rage (1.207, 5.136, 5.892); "strength" of the life that leaves a victim (3.294; λύθη ψυχή τε μένος τε "his soul and his strength were loosed", 5.296) |
+| φόβος | rout; flight | "rout", panic flight (5.272 μήστωρε φόβοιο "masters of rout"); "flight" of one man's retreat (5.252) |
+| θάρσος | daring | 5.2 |
+| ψυχή | soul | 1.3, 5.296, 5.654, 5.696 |
+| ἀχλύς | mist | the mist over the eyes (5.127, 5.696) |
+| ἰχώρ | ichor | the gods' blood (5.340, 5.416) |
+| εἴδωλον | phantom | 5.449–453 |
+| ἰωκή | onslaught | Ἰωκή "Onslaught" on the aegis (5.740) |
 
 ## Epithets and formulas
 
@@ -167,6 +175,23 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | λῦσε δὲ γυῖα | loosened his limbs |
 | δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχεʼ ἐπʼ αὐτῷ | he fell with a thud, and his armor clattered upon him |
 | Δεῖμος, Φόβος, Ἔρις | Terror, Rout, Strife |
+| Ἀλκή, Ἰωκή, Κυδοιμός, Ἐνυώ | Courage, Onslaught, Tumult, Enyo |
+| Ἆρες Ἄρες βροτολοιγὲ μιαιφόνε τειχεσιπλῆτα | Ares, Ares, ruin of mortals, blood-stained stormer of walls |
+| θοῦρος / οὖλος / ὄβριμος / χάλκεος Ἄρης | furious / baneful / mighty / bronze Ares |
+| Ἄρης ἆτος πολέμοιο | Ares, insatiable of war |
+| Ἄρτεμις ἰοχέαιρα | Artemis of the showering arrows |
+| Κύπρις | Cypris |
+| Διώνη, δῖα θεάων | Dione, brilliant among goddesses |
+| ποδήνεμος ὠκέα Ἶρις | swift Iris, wind-footed |
+| χρυσάμπυκες ἵπποι / μώνυχες ἵπποι | the horses with golden headbands / the single-hoofed horses |
+| Τρώϊοι ἵπποι | the horses of Tros |
+| πορφύρεος θάνατος καὶ μοῖρα κραταιή | purple death and mighty fate |
+| κεκορυθμένος αἴθοπι χαλκῷ | armored in gleaming bronze |
+| ὣς εἰπὼν ὄτρυνε μένος καὶ θυμὸν ἑκάστου | So saying, he urged on the might and spirit of every man |
+| ταλαύρινος πολεμιστής | the warrior with the oxhide shield |
+| ἐρίγδουπος (Ζεύς) / χρυσάωρ (Ἀπόλλων) | loud-thundering / of the golden sword |
+| ὀβριμοπάτρη | daughter of the mighty father |
+| ἀλλοπρόσαλλος | turncoat |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -222,9 +247,10 @@ Cyparisseis); where two places share a name, the index keeps them apart.
   debated. Rendered "a source of black pains".
 - **4.128** — ἀγελείη: "driver of spoil" (ἄγω + λεία) or "leader of the host" (ἄγω + λαός); both are
   ancient explanations. Rendered "driver of spoil".
-- **4.133, 4.137, 4.187** — the double corselet, the μίτρη and the ζῶμα: what each piece was, and how
-  they were worn together, is disputed. Rendered "the corselet … in a double layer", "the band", "the
-  kilt".
+- **4.133, 4.137, 4.187; 5.707, 5.857** — the double corselet, the μίτρη and the ζῶμα: what each piece was,
+  and how they were worn together, is disputed. Rendered "the corselet … in a double layer", "the band",
+  "the kilt"; so also Oresbius αἰολομίτρης, "of the flashing band" (5.707), and Ares ζωννύσκετο μίτρῃ,
+  "where he girded on his band" (5.857).
 - **4.235** — ψευδέσσι, "liars", as printed; with the other accent, ψεύδεσσι, "lies". Both readings are
   ancient.
 - **4.242** — ἰόμωροι: the meaning is unknown (also at 14.479); the ancients guessed. Rendered
@@ -239,4 +265,52 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **4.412** — τέττα: an affectionate address found only here, "friend" or perhaps "father". Rendered
   "friend".
 - **4.472** — ἐδνοπάλιζεν: rare, "tossed, hurled about"; the exact sense is uncertain.
-
+- **5.59–60** — τέκτονος υἱὸν Ἁρμονίδεω: "son of the builder, the son of Harmon", with τέκτων a common noun
+  and Ἁρμονίδης the builder's patronymic, so that Phereclus is Harmon's grandson. Some take Τέκτων as a
+  name ("son of Tecton, son of Harmon"). The names suit the craft (τέκτων "builder", ἁρμονίη "joint").
+- **5.64** — who "knew nothing of the oracles of the gods": Phereclus, as the English implies, or Alexander.
+  Homer does not say what the oracles were.
+- **5.88–90** — γέφυραι, the "bridges" of war at 4.371, are here the dikes or embankments that a torrent
+  breaks; ἀλωαί, the threshing floors of 5.499, are here planted ground. Rendered "dikes" and "orchards".
+- **5.113** — στρεπτοῖο χιτῶνος: a tunic of twisted, plaited thread, or a shirt of mail (also 21.31).
+  Rendered "the plaited tunic".
+- **5.140** — τὰ δʼ ἐρῆμα φοβεῖται: the flock, left alone, flees in panic, as rendered; some make the
+  shepherd the subject ("and he flees the lonely places"). In 5.141 the sheep lie heaped together,
+  huddled or dead.
+- **5.150** — τοῖς οὐκ ἐρχομένοις ὃ γέρων ἐκρίνατʼ ὀνείρους: the dream-reader read no dreams for his sons
+  when they set out, as rendered; others join οὐκ with ἐρχομένοις, "for them, who were not to come home,
+  the old man read dreams".
+- **5.182** — αὐλῶπις τρυφάλεια: "with a tube (socket) for the plume", as rendered, or "with tube-like
+  eye-holes" (also 11.353, 13.530, 16.795).
+- **5.245** — ἶνʼ ἀπέλεθρον: "measureless strength" (ἀπέλεθρος, "beyond measure", from πέλεθρον, a measure
+  of length; also 7.269).
+- **5.289** — ταλαύρινος πολεμιστής, of Ares: "bearing the oxhide shield", as rendered, or "stubborn in
+  fight" (also 20.78, 22.267).
+- **5.339** — πρυμνὸν ὕπερ θέναρος: "above the base of the palm", that is, at the wrist, as 5.458 and 5.883
+  say (χεῖρʼ ἐπὶ καρπῷ).
+- **5.397** — ἐν Πύλῳ ἐν νεκύεσσι: "in Pylos among the dead", as printed; Heracles' attack on Pylos is
+  recalled at 11.689–693. Others read ἐν πύλῳ, "at the gate" of the underworld.
+- **5.453** — λαισήϊα πτερόεντα: light shields of hide, "winged" for their lightness or for their
+  fluttering fringes (also 12.426). Rendered "the fluttering bucklers of hide".
+- **5.487** — ἁλόντε is dual, though Sarpedon is addressing Hector and the verb that follows (γένησθε,
+  5.488) is plural: perhaps Hector and his people as two parties, perhaps a dual used loosely for a
+  plural. "You" leaves the number open.
+- **5.492** — κρατερὴν δʼ ἀποθέσθαι ἐνιπήν, "to put aside harsh rebuke": Hector is to give the allies no
+  ground for reproach (such as he is now hearing), or to stop reproaching them himself; the infinitive
+  can also go with λισσομένῳ, making the allies' leaders the ones who put reproach aside. Rendered
+  literally.
+- **5.601** — θαυμάζομεν can be present ("how we marvel at brilliant Hector") or an unaugmented
+  imperfect ("how we used to marvel"), as the same form is read at 2.320. Rendered as the imperfect.
+- **5.666** — ὄφρʼ ἐπιβαίη, with no object: "so that he could walk", setting his foot to the ground, as
+  rendered, or "so that he could mount" the chariot.
+- **5.743–744** — ἀμφίφαλον … τετραφάληρον (5.743 = 11.41): what the φάλος and the φάλαρα of a helmet were
+  (ridges, horns or bosses; plates) is uncertain; rendered "with two ridges and four plates", φάλος being
+  the "ridge" of 3.362. ἑκατὸν πολίων πρυλέεσσʼ ἀραρυῖαν: "fitted with (figures of) the foot soldiers of a
+  hundred cities", or, in an ancient explanation, large enough to cover them; rendered literally.
+- **5.778** — τρήρωσι πελειάσιν ἴθμαθʼ ὁμοῖαι: ἴθμα ("step, gait") occurs only here in Homer, and whether the
+  likeness lies in the doves' speed or in their small, timid steps is debated. Rendered literally.
+- **5.831** — τυκτὸν κακόν, literally "a made evil" (only here): a finished, thoroughgoing evil, or a thing
+  made to be evil. Rendered "an evil through and through".
+- **5.898** — ἐνέρτερος Οὐρανιώνων: "lower than the sons of Uranus", below even the Titans, who are kept
+  under the earth around Cronus (14.274–279, 15.225); elsewhere Οὐρανίωνες are the gods of heaven (1.570,
+  5.373), and some take it so here, "lower than the heavenly gods". Rendered "the sons of Uranus".

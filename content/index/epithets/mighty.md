@@ -12,7 +12,7 @@ of: [psyche]
 
 ## Meaning
 
-ἴφθιμος means “mighty, strong, stalwart.” It is probably related to ἶφι (“by force,” as in βοὸς ἶφι κταμένοιο, “an ox slain by force,” 3.375) and ἴς (“strength”), though the etymology is not certain. Homer uses it of heroes and of their heads, and of women of rank: Diomedes' wife is his ἰφθίμη ἄλοχος, his “stalwart wife” (Il. 5.415).
+ἴφθιμος means “mighty, strong, stalwart.” It is probably related to ἶφι (“by force,” as in βοὸς ἶφι κταμένοιο, “an ox slain by force,” 3.375) and ἴς (“strength”), though the etymology is not certain. Homer uses it of heroes and of their heads, and of women of rank: Diomedes' wife is his ἰφθίμη ἄλοχος, his “strong wife” (Il. 5.415).
 
 ## Use
 

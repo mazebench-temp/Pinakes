@@ -6,6 +6,7 @@ tags: [body]
 summary: Looks, form, appearance: what a person is seen to be. The verb εἴδομαι, “appear, look like”, is used of gods who come among men in a mortal's likeness. Beauty is a gift of the gods, and Homer often weighs it against strength and sense.
 aliases: [eidos, looks, form, appearance, eidomai, eueidēs]
 grc: [εἶδος, εὐειδέʼ, εἴδεται, ἐεισάμενος, εἰδομένη, εἴσατο, ἐεισαμένη]
+except: [5.538]
 en: [looks, form, lovely woman, in the likeness of, likeness, made her voice like]
 ---
 

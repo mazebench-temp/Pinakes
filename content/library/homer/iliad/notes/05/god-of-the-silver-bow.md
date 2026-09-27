@@ -1,0 +1,5 @@
+---
+summary: The god of the silver bow does not shoot in Book 5. He makes a phantom of Aeneas, awakens the toil of battle, and in Hera's complaint takes his pleasure while Ares rages.
+---
+
+The epithet names Apollo three times in Book 5, and never with his bow in his hands. After he has set Aeneas in his temple, “Apollo, god of the silver bow, made a phantom like Aeneas himself, and in armor such as his,” and the armies fight over it (5.449–453; [[the-phantom-of-aeneas]], [[eidolon]]). When Aeneas returns healed, his companions have no time to ask him anything, because of the toil “that the god of the silver bow had awakened, and Ares, ruin of mortals, and Strife” (5.517–518; [[ruin-of-mortals]], [[strife]]). And Hera, asking Zeus for leave to strike Ares, names him with Aphrodite as the gods who “take their pleasure” at their ease, “having let loose this fool, who knows no law” (5.759–761; [[themis]]). The archer's epithet stays with the god whose weapons in this book are a cloud, a phantom and a shout ([[far-worker]]).

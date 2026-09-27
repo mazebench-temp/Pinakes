@@ -6,6 +6,7 @@ tags: [olympian, child-of-zeus]
 summary: Son of [[Zeus]] and [[Leto]], the archer god whose arrows bring sudden death and whose plague opens the Iliad.
 aliases: [Phoebus, Phoebus Apollo, Smintheus, the Far-Shooter, the Far-Worker, Hekatos]
 grc: [Ἀπόλλων*, Φοῖβ*, Φοίβ*, Σμινθεῦ, ἑκηβόλ*, ἑκατηβόλ*, ἑκατηβελέτ*, ἑκάεργ*, ἑκάτοιο, ἀργυρότοξ*]
+except: [5.54]
 en: [Apollo, Phoebus Apollo, Phoebus, Smintheus, Far-Shooter, Far-Worker, far-shooter, god of the silver bow]
 refs: [1.9, 1.43, 1.44, 1.46, 1.47, 1.48, 1.64, 1.380, 1.381, 1.444, 1.457, 1.474]
 relations:

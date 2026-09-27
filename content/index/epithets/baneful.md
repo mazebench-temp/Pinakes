@@ -3,11 +3,11 @@ title: Baneful
 greek: οὖλος
 kind: epithet
 tags: [divine-epithet, divination]
-summary: “Destructive, baneful,” the epithet of the [[dream|Dream]] that Zeus sends to deceive Agamemnon.
+summary: “Destructive, baneful,” an epithet of the [[dream|Dream]] that Zeus sends to deceive Agamemnon, and of [[Ares]].
 aliases: [destructive, deadly, oulos]
 grc: [οὖλον ὄνειρον, οὖλε ὄνειρε]
 en: [baneful]
-of: [dream]
+of: [dream, ares]
 ---
 
 ## Meaning

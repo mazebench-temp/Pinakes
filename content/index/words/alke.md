@@ -1,11 +1,11 @@
 ---
-title: Courage
+title: Courage (alke)
 greek: ἀλκή
 kind: term
 tags: [warfare, mind]
 summary: The strength that wards off an enemy, and the courage to stand one's ground. A fighter can remember it, let it go, or put it on like a garment; a man without it is ἄναλκις, and the deer is the animal that has none.
 aliases: [alkē, alke, analkis, alkimos, valor, prowess]
-grc: [ἀλκή, ἀλκῆς, ἀλκήν, ἄναλκις]
+grc: [ἀλκή, ἀλκῆς, ἀλκήν, ἄναλκις, "!^Ἀλκ*"]
 en: [courage, weak]
 ---
 

@@ -3,7 +3,7 @@ title: Shadowy mountains
 greek: οὔρεα σκιόεντα
 kind: epithet
 tags: [mountain]
-summary: The mountains that lie between Phthia and Troy in Achilles' speech (1.157).
+summary: “Shadowy,” σκιόεις, an epithet of mountains and of clouds.
 aliases: [skioeis]
 grc: [σκιόεντα]
 en: [shadowy]

@@ -61,6 +61,9 @@ diaeresis, capitals, and elision marks**. So `Ἥρη` also matches `Ἥρῃ`, 
   `[Τρώ*, "!=Τρῳ*"]` finds the Trojans (Τρῶες, Τρώων, Τρῶας) but not the Trojan women (Τρῳαί,
   Τρῳάς), which differ only by accent and iota subscript. Prefer it to `except` when the clash will
   recur in every book.
+- `+Τρῳὰς δὲ στίχας`: a forced pattern, which the entry's own exclusions do not drop. Use it for the
+  rare phrase an exclusion would wrongly take away: at 5.461 Τρῳὰς στίχας are "the Trojan ranks", not
+  the Trojan women, so the Trojans claim the phrase and `trojan-women` lists 5.461 under `except`.
 
 List the forms that actually occur, copied from the Greek text (`content/library/homer/iliad/grc/01.txt`).
 The build warns about any pattern that never matches. Use `except` for lines where a form means something

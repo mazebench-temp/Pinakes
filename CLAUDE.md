@@ -24,8 +24,8 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
   words are in `content/library/homer/iliad/TRANSLATION.md`; keep them consistent.
 - **Greek forms** in entries are matched without accents; use `=form` for accent-sensitive matches,
   `^Form` for a name that is also a common word (Ὕλη, ὕλη "forest"), `!form` to exclude words a
-  broader pattern would catch (Τρώ* without `!=Τρῳ*`), and `except:` for single lines where a form
-  means something else. The build warns about forms that never match and lists unindexed
+  broader pattern would catch (Τρώ* without `!=Τρῳ*`), `+phrase` for a phrase the exclusions must
+  not drop, and `except:` for single lines where a form means something else. The build warns about forms that never match and lists unindexed
   capitalized words in `site/data/report.json`.
 - **Quotes** have deterministic v5 UUIDs of `work ref | title` (namespace in `scripts/lib/uuid.mjs`,
   mirrored in `site/assets/js/lib/uuid.js`). Never hand-edit ids.

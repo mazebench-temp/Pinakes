@@ -5,7 +5,7 @@ kind: creature
 tags: [centaur, thessaly]
 summary: The Centaur of Mount [[Pelion]], “the most just of the Centaurs” (11.832), who gave healing drugs to [[Asclepius]] and the great ash spear to [[Peleus]], and taught medicine to [[Achilles]]. Later poets made him the teacher of heroes.
 aliases: [Cheiron, Kheiron]
-grc: [Χείρων]
+grc: ["^Χείρων"]
 passages:
   - 4.217-219 | Chiron's drugs
 ---

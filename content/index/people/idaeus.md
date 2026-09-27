@@ -5,6 +5,7 @@ kind: person
 tags: [trojan, herald]
 summary: The herald of [[Priam]]. He summons the king to the oath sacrifice in Book 3, carries the Trojans' offer to the Achaeans in Book 7, and in the last book drives the wagon with Hector's ransom to Achilles.
 grc: [Ἰδαῖος]
+except: [5.11, 5.20]
 refs: [3.249]
 relations:
   - master: priam (3.248-250)

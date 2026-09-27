@@ -1,0 +1,912 @@
+# Homer, Iliad, Book 5 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Then in turn to Diomedes, son of Tydeus, Pallas Athena
+2	gave might and daring, so that he would stand out among all
+3	the Argives and win noble fame.
+4	She kindled a tireless fire from his helmet and his shield,
+5	like the star of late summer, which above all others
+6	shines out bright when it has bathed in Oceanus;
+7	such was the fire she kindled from his head and shoulders,
+8	and she roused him into the middle, where the most men were thrown into confusion.
+9	There was among the Trojans one Dares, wealthy and noble,
+10	a priest of Hephaestus; and he had two sons,
+11	Phegeus and Idaeus, well skilled in every kind of fighting.
+12	These two separated from the rest and charged straight at him,
+13	they from their chariot, while he rushed at them on foot from the ground.
+14	And when they had come close, advancing against each other,
+15	Phegeus was the first to let fly his long-shadowed spear;
+16	and over the left shoulder of the son of Tydeus went the point
+17	of the spear, and did not hit him; and after him he rushed on with the bronze,
+18	the son of Tydeus; and the shaft did not fly from his hand in vain,
+19	but struck him on the chest between the nipples, and thrust him from the chariot.
+20	And Idaeus sprang down, leaving the beautiful chariot,
+21	and did not dare to stand over his slain brother;
+22	for he himself would not have escaped black doom either,
+23	but Hephaestus protected him, and saved him, covering him in night,
+24	so that the old man might not be wholly stricken with grief.
+25	And the son of great-hearted Tydeus drove off the horses
+26	and gave them to his companions to take down to the hollow ships.
+27	And when the great-hearted Trojans saw the two sons of Dares,
+28	the one escaping, the other killed beside the chariot,
+29	the hearts of all were shaken; but gray-eyed Athena
+30	took furious Ares by the hand and addressed him:
+31	“Ares, Ares, ruin of mortals, blood-stained stormer of walls,
+32	should we not leave the Trojans and the Achaeans
+33	to fight, and see to which side father Zeus will hold out glory,
+34	while we two withdraw, and avoid the wrath of Zeus?”
+35	So saying, she led furious Ares out of the battle,
+36	and then she sat him down by the high banks of the Scamander;
+37	and the Danaans turned the Trojans back; and each of the leaders
+38	took his man. First Agamemnon, lord of men,
+39	hurled great Odius, leader of the Halizones, from his chariot;
+40	for as the man was the first to turn, he planted his spear in his back
+41	between the shoulders, and drove it through his chest;
+42	and he fell with a thud, and his armor clattered upon him.
+43	And Idomeneus slew Phaestus, son of the Maeonian
+44	Borus, who had come from deep-soiled Tarne.
+45	Idomeneus, famed for his spear, stabbed him with his long spear
+46	on the right shoulder as he was mounting his chariot;
+47	and he fell from the chariot, and hateful darkness seized him.
+48	The attendants of Idomeneus stripped him of his armor.
+49	And the son of Strophius, Scamandrius, skilled in the hunt,
+50	Menelaus, son of Atreus, killed with his sharp spear,
+51	a good hunter; for Artemis herself had taught him
+52	to shoot all the wild things that the forest nurtures in the mountains.
+53	But Artemis of the showering arrows was no help to him then,
+54	nor his far-shooting, in which he had excelled before;
+55	but the son of Atreus, Menelaus famed for his spear,
+56	stabbed him with his spear in the back as he fled before him,
+57	between the shoulders, and drove it through his chest;
+58	and he fell face down, and his armor clattered upon him.
+59	And Meriones slew Phereclus, son of the builder,
+60	the son of Harmon, who knew how to make with his hands every kind
+61	of intricate work; for Pallas Athena loved him above all others.
+62	It was he who built for Alexander the balanced ships
+63	that began the evil, which became an evil for all the Trojans
+64	and for himself, since he knew nothing of the oracles of the gods.
+65	Meriones, when he caught up with him in pursuit,
+66	struck him in the right buttock; and straight through,
+67	under the bone and into the bladder, went the point;
+68	and he fell to his knees with a groan, and death enfolded him.
+69	And Meges killed Pedaeus, son of Antenor,
+70	who was a bastard, but brilliant Theano had reared him with care
+71	like her own dear children, to please her husband.
+72	The son of Phyleus, famed for his spear, came close
+73	and struck him on the back of the head with his sharp spear;
+74	and straight on through the teeth, under the tongue, the bronze cut its way;
+75	and he fell in the dust, and bit the cold bronze with his teeth.
+76	And Eurypylus, son of Euaemon—brilliant Hypsenor,
+77	son of high-hearted Dolopion, who had been made priest of the Scamander
+78	and was honored by the people like a god—
+79	him Eurypylus, the splendid son of Euaemon,
+80	ran after him as he fled before him and struck him on the shoulder,
+81	darting at him with his sword, and sheared off his heavy arm;
+82	and the bloody arm fell to the plain; and his eyes
+83	were seized by purple death and mighty fate.
+84	So they toiled on through the fierce battle;
+85	but as for the son of Tydeus, you could not have told which side he was on,
+86	whether he was mingling with the Trojans or with the Achaeans.
+87	For he rushed across the plain like a river in flood,
+88	a winter torrent, which, running fast, scatters the dikes;
+89	and the close-built dikes do not hold it back,
+90	nor do the walls of the flourishing orchards stop it
+91	when it comes on suddenly, when the rain of Zeus falls heavy;
+92	and many fair works of young men fall in ruin before it:
+93	so before the son of Tydeus the close-packed battalions
+94	of the Trojans were thrown into confusion, and did not stand against him, many though they were.
+95	And when the splendid son of Lycaon caught sight of him
+96	rushing across the plain, driving the battalions in confusion before him,
+97	at once he drew his curved bow at the son of Tydeus,
+98	and hit him as he rushed on, striking him on the right shoulder,
+99	on the plate of his corselet; and the bitter arrow flew through it,
+100	and held straight on, and the corselet was spattered with blood.
+101	And over him the splendid son of Lycaon shouted aloud:
+102	“Rise up, great-hearted Trojans, goaders of horses;
+103	the best of the Achaeans is hit, and I do not think
+104	he will hold out long against the mighty shaft, if truly
+105	the lord, the son of Zeus, roused me when I set out from Lycia.”
+106	So he spoke, boasting; but the swift shaft had not overcome him;
+107	he drew back, and stood in front of his horses and chariot,
+108	and spoke to Sthenelus, the son of Capaneus:
+109	“Up, dear son of Capaneus, get down from the chariot,
+110	so that you may draw the bitter arrow out of my shoulder.”
+111	So he spoke, and Sthenelus leapt from the chariot to the ground,
+112	and standing beside him drew the swift shaft clean through and out of his shoulder;
+113	and the blood spurted up through the plaited tunic.
+114	Then Diomedes, good at the war cry, prayed:
+115	“Hear me, child of aegis-bearing Zeus, Atrytone:
+116	if ever in friendship you stood by my father and me
+117	in destructive war, now be my friend in turn, Athena;
+118	grant that I may kill this man, and that he come within the cast of my spear,
+119	who struck me first, and boasts over me, and says that I
+120	shall not look much longer on the bright light of the sun.”
+121	So he spoke in prayer, and Pallas Athena heard him,
+122	and she made his limbs light, his feet and his hands above.
+123	And standing near him she addressed him with winged words:
+124	“Take heart now, Diomedes, and fight against the Trojans;
+125	for in your breast I have put your father's might,
+126	undaunted, such as the horseman Tydeus, wielder of the shield, used to have;
+127	and I have taken from your eyes the mist that was on them before,
+128	so that you may clearly tell god from man.
+129	So now, if any god comes here to test you,
+130	do not fight face to face with the immortal gods,
+131	with any of the others; but if Aphrodite, daughter of Zeus,
+132	comes into the war, her you may wound with the sharp bronze.”
+133	So saying, gray-eyed Athena went away,
+134	and the son of Tydeus went back and mingled with the champions;
+135	even before, his heart had been eager to fight the Trojans,
+136	but now three times as great a fury seized him, like a lion
+137	that a shepherd in the fields, watching over his woolly sheep,
+138	has grazed as it leapt over the wall of the fold, but has not killed;
+139	he has roused its strength, and then he does not defend them,
+140	but slips into the farm buildings, and the sheep, left undefended, flee in panic;
+141	they lie heaped close one upon another,
+142	but the lion in his fury leaps back out of the high-walled fold:
+143	so furiously did mighty Diomedes close with the Trojans.
+144	Then he killed Astynous and Hypeiron, shepherd of the people,
+145	the one struck above the nipple with his bronze-fitted spear,
+146	the other with his great sword on the collarbone beside the shoulder
+147	he struck, and cut the shoulder away from the neck and from the back.
+148	These he left, and went after Abas and Polyidus,
+149	sons of Eurydamas, the old interpreter of dreams;
+150	but the old man read no dreams for them when they set out,
+151	and mighty Diomedes slew them and stripped them.
+152	He went after Xanthus and Thoon, the two sons of Phaenops,
+153	both his darlings; and he was worn down by grievous old age,
+154	and had begotten no other son to leave as heir to his possessions.
+155	There he slew them, and took away the dear life
+156	of both; and to their father he left lamentation and grievous sorrows,
+157	since he did not receive them back alive, returned from battle;
+158	and distant kinsmen divided his wealth among them.
+159	Then he caught two sons of Priam, descendant of Dardanus,
+160	who were in one chariot, Echemmon and Chromius.
+161	And as a lion leaps among cattle and breaks the neck
+162	of a heifer or a cow as they graze in a thicket,
+163	so the son of Tydeus brought them both down from their chariot,
+164	roughly, against their will, and then stripped off their armor;
+165	and the horses he gave to his companions to drive to the ships.
+166	Aeneas saw him wreaking havoc on the ranks of men,
+167	and went his way through the battle and through the turmoil of spears,
+168	seeking godlike Pandarus, if he might find him anywhere.
+169	He found the son of Lycaon, noble and strong,
+170	and stood before him and spoke to him face to face:
+171	“Pandarus, where are your bow and your feathered arrows
+172	and your fame? In this no man here can rival you,
+173	and no one in Lycia claims to be better than you.
+174	But come, lift up your hands to Zeus and let fly a shaft at this man,
+175	whoever he is who is prevailing here, and has done much harm
+176	to the Trojans, since he has loosened the knees of many brave men;
+177	unless he is some god who bears resentment against the Trojans,
+178	in wrath over sacrifices; and the wrath of a god is hard to bear.”
+179	Then the splendid son of Lycaon spoke to him in turn:
+180	“Aeneas, counselor of the bronze-armored Trojans,
+181	I liken him in everything to the wise-hearted son of Tydeus,
+182	knowing him by his shield and his helmet with its socket for the plume,
+183	and by the look of his horses; but I do not know for sure whether he is a god.
+184	But if he is the man I say, the wise-hearted son of Tydeus,
+185	he does not rage like this without a god, but someone
+186	of the immortals stands near him, his shoulders wrapped in cloud,
+187	who turned my swift shaft aside as it reached him.
+188	For I have already shot a shaft at him, and hit him on the shoulder,
+189	the right one, straight through the plate of his corselet;
+190	and I thought I would hurl him down to Aidoneus,
+191	and yet I did not overcome him; surely some god is resentful.
+192	And I have no horses here, and no chariot to mount;
+193	but in the halls of Lycaon there are eleven chariots,
+194	beautiful, newly built, just finished; and over them cloths
+195	are spread; and beside each one a yoke of horses
+196	stands, munching white barley and spelt.
+197	Truly the old spearman Lycaon gave me many instructions
+198	as I was setting out, in his well-built house;
+199	he told me to mount my horses and chariot
+200	and lead the Trojans through the fierce battles;
+201	but I did not listen—it would have been far better—
+202	sparing the horses, for fear they would go short of fodder
+203	with men penned in, when they were used to eating their fill.
+204	So I left them, and have come to Ilios on foot,
+205	trusting in my bow; but it was not going to help me after all.
+206	For I have already shot at two of the chieftains,
+207	the son of Tydeus and the son of Atreus, and from both of them
+208	I drew real blood with my shots, but only roused them more.
+209	So it was in an evil hour that I took my curved bow from its peg
+210	on that day when to lovely Ilios
+211	I led the Trojans, to do a favor to brilliant Hector.
+212	But if I come home and see with my eyes
+213	my native land and my wife and my great high-roofed house,
+214	then may a stranger cut my head from my shoulders on the spot
+215	if I do not put this bow in the blazing fire,
+216	broken in pieces with my hands; for it goes with me as empty wind.”
+217	Then Aeneas, leader of the Trojans, answered him face to face:
+218	“Do not talk this way; nothing will change
+219	until we two go against this man with horses and chariot,
+220	face to face, and make trial of him in arms.
+221	But come, mount my chariot, so that you may see
+222	what the horses of Tros are like, how they know the plain,
+223	how to pursue and to flee very swiftly this way and that;
+224	they will bring the two of us safely to the city, even if once again
+225	Zeus holds out glory to Diomedes, son of Tydeus.
+226	But come now, take the whip and the glossy reins,
+227	and I will get down from the chariot to fight;
+228	or you face this man, and the horses will be my care.”
+229	Then the splendid son of Lycaon spoke to him in turn:
+230	“Aeneas, you yourself keep the reins and your own horses;
+231	they will draw the curved chariot better under the charioteer they know,
+232	if we should have to flee from the son of Tydeus;
+233	I fear the two of them may take fright and balk, and refuse
+234	to carry us out of the fighting, missing your voice,
+235	and the son of great-hearted Tydeus may rush at us
+236	and kill us both and drive off the single-hoofed horses.
+237	So you yourself drive your chariot and your horses,
+238	and I will meet him with my sharp spear as he comes on.”
+239	So they spoke, and mounted the inlaid chariot
+240	and eagerly drove the swift horses at the son of Tydeus.
+241	Sthenelus, the splendid son of Capaneus, saw them,
+242	and at once addressed the son of Tydeus with winged words:
+243	“Diomedes, son of Tydeus, dear to my heart,
+244	I see two strong men eager to fight against you,
+245	men of measureless strength; one is well skilled with the bow,
+246	Pandarus, and he claims to be the son of Lycaon;
+247	and Aeneas claims that he was born the son of noble Anchises,
+248	and his mother is Aphrodite.
+249	But come, let us draw back in the chariot, and do not, I beg you,
+250	rush like this among the champions, or you may lose your dear life.”
+251	Looking at him darkly, mighty Diomedes said:
+252	“Do not talk to me of flight, for I do not think you will persuade me.
+253	It is not in my blood to fight shrinking back
+254	or to cower; my might is still steadfast.
+255	I am loath to mount the chariot; just as I am
+256	I will go to meet them; Pallas Athena does not let me flee.
+257	Their swift horses will not carry these two back again,
+258	both of them, away from us, even if one of them escapes.
+259	And I will tell you something else, and you lay it to heart:
+260	if Athena of many counsels holds out to me the glory
+261	of killing them both, then you hold these swift horses of ours
+262	here, and tie the reins fast to the chariot rail,
+263	and remember to rush at the horses of Aeneas
+264	and drive them away from the Trojans to the well-greaved Achaeans.
+265	For they are of that breed which far-seeing Zeus gave to Tros
+266	in recompense for his son Ganymede, because they are the best
+267	of all horses under the dawn and the sun;
+268	and from that breed Anchises, lord of men, stole a strain
+269	without Laomedon's knowledge, putting his mares to them;
+270	and from them six foals were born to him in his halls.
+271	Four of them he kept himself and reared at the manger,
+272	and these two he gave to Aeneas, masters of rout.
+273	If we could take these two, we would win noble fame.”
+274	So they spoke such words to one another,
+275	and quickly the other two came near, driving their swift horses.
+276	The splendid son of Lycaon spoke to him first:
+277	“Stout-hearted and wise-hearted son of noble Tydeus,
+278	so my swift shaft did not overcome you after all, the bitter arrow;
+279	now I will try with the spear, to see if I can hit you.”
+280	He spoke, and poising his long-shadowed spear, he let it fly,
+281	and struck the son of Tydeus on his shield; and straight through it
+282	the bronze point flew on and reached his corselet.
+283	And over him the splendid son of Lycaon shouted aloud:
+284	“You are hit clean through the flank, and I do not think
+285	you will hold out much longer; and you have given me a great triumph.”
+286	Unafraid, mighty Diomedes answered him:
+287	“You missed; you did not hit me. But I do not think you two
+288	will stop before one or the other of you has fallen
+289	and glutted Ares with blood, the warrior with the oxhide shield.”
+290	So saying, he let fly; and Athena guided the shaft
+291	to the nose beside the eye, and it passed through the white teeth.
+292	The unyielding bronze cut off his tongue at the root,
+293	and the point came out at the base of the chin;
+294	and he fell from the chariot, and his armor clattered upon him,
+295	flashing and gleaming all over; and his horses shied aside,
+296	the swift-footed horses; and there his soul and his strength were loosed.
+297	And Aeneas sprang down with his shield and his long spear,
+298	fearing that the Achaeans might somehow drag the body away from him.
+299	He bestrode it like a lion trusting in his courage,
+300	and held in front of it his spear and his shield, balanced on every side,
+301	eager to kill whoever came against him,
+302	shouting terribly. But he took up a stone in his hand,
+303	the son of Tydeus, a huge thing, which two men could not carry,
+304	such as mortals are now; but he wielded it easily even alone.
+305	With it he struck Aeneas on the hip, where the thigh
+306	turns in the hip joint, and men call it the cup;
+307	and he crushed the cup, and broke both tendons besides;
+308	and the rough stone tore away the skin. And the hero
+309	sank to his knees and stayed there, and leaned with his strong hand
+310	on the earth; and black night covered his eyes.
+311	And now Aeneas, lord of men, would have perished there,
+312	had not Aphrodite, daughter of Zeus, been quick to see it,
+313	his mother, who bore him to Anchises as he tended his cattle;
+314	and she flung her white arms around her dear son,
+315	and in front of him she spread a fold of her shining robe
+316	as a shelter from missiles, for fear one of the Danaans of the swift horses
+317	might strike the bronze into his chest and take away his life.
+318	So she was carrying her dear son out of the war;
+319	nor did the son of Capaneus forget the instructions
+320	that Diomedes, good at the war cry, had given him,
+321	but he held his own single-hoofed horses
+322	away from the din, and tied the reins fast to the chariot rail,
+323	and rushing at the fine-maned horses of Aeneas
+324	drove them away from the Trojans to the well-greaved Achaeans,
+325	and gave them to Deipylus, his dear companion, whom above all
+326	the men of his age he honored, because his mind was in tune with his own,
+327	to drive to the hollow ships. Then the hero
+328	mounted his own chariot and took the glossy reins,
+329	and at once drove the strong-hoofed horses after the son of Tydeus,
+330	eagerly. But he was going after Cypris with the pitiless bronze,
+331	knowing that she was a feeble god, and not one of those goddesses
+332	who rule over the war of men,
+333	neither Athena nor Enyo, sacker of cities.
+334	But when he had caught up with her, pursuing her through the great throng,
+335	then the son of great-hearted Tydeus, reaching out,
+336	leapt at her and wounded her hand with his sharp spear,
+337	her delicate hand; and at once the spear pierced the skin
+338	through the ambrosial robe that the Graces themselves had made for her,
+339	above the base of the palm; and the immortal blood of the goddess flowed,
+340	ichor, such as flows in the blessed gods;
+341	for they do not eat bread, they do not drink sparkling wine,
+342	and so they are bloodless, and are called immortals.
+343	And she, with a great cry, let her son fall from her;
+344	and Phoebus Apollo took him up in his arms and protected him
+345	in a dark cloud, for fear one of the Danaans of the swift horses
+346	might strike the bronze into his chest and take away his life.
+347	And over her Diomedes, good at the war cry, shouted aloud:
+348	“Keep away, daughter of Zeus, from war and combat;
+349	is it not enough that you deceive feeble women?
+350	If you keep coming into war, then I think
+351	you will shudder at war even if you hear of it far away.”
+352	So he spoke, and she went away distraught, in terrible pain;
+353	and wind-footed Iris took her and led her out of the throng,
+354	weighed down with pain, and her beautiful skin was darkening.
+355	Then she found furious Ares, on the left of the battle,
+356	sitting; and his spear and his swift horses were resting in a mist.
+357	And she fell on her knees and begged her dear brother,
+358	with many entreaties, for the horses with golden headbands:
+359	“Dear brother, take care of me, and give me your horses,
+360	so that I may reach Olympus, where the seat of the immortals is.
+361	I am in great pain from a wound a mortal man gave me,
+362	the son of Tydeus, who now would fight even with father Zeus.”
+363	So she spoke, and Ares gave her the horses with golden headbands;
+364	and she mounted the chariot, grieved at heart,
+365	and Iris mounted beside her and took the reins in her hands,
+366	and whipped them to a run, and the pair flew on not unwilling.
+367	And quickly they came to the seat of the gods, steep Olympus;
+368	there swift Iris, wind-footed, halted the horses,
+369	unyoked them from the chariot, and set ambrosial fodder before them;
+370	and brilliant Aphrodite fell on the knees of Dione,
+371	her mother; and she took her daughter in her arms,
+372	and stroked her with her hand, and spoke to her, and called her by name:
+373	“Who of the heavenly gods has done such things to you, dear child,
+374	for no reason, as if you were caught doing some wrong openly?”
+375	Then laughter-loving Aphrodite answered her:
+376	“The son of Tydeus wounded me, high-hearted Diomedes,
+377	because I was carrying my dear son out of the war,
+378	Aeneas, who is dearest to me by far of all.
+379	For it is no longer the dread din of battle between Trojans and Achaeans;
+380	now the Danaans are fighting even with the immortals.”
+381	Then Dione, brilliant among goddesses, answered her:
+382	“Be patient, my child, and endure it, grieved though you are;
+383	for many of us who have our homes on Olympus have endured
+384	cruel pains at the hands of men, bringing them on one another.
+385	Ares endured it, when Otus and mighty Ephialtes,
+386	the sons of Aloeus, bound him in strong bonds;
+387	and he lay bound in a bronze jar for thirteen months;
+388	and now Ares, insatiable of war, would have perished there,
+389	had not their stepmother, the beautiful Eeriboea,
+390	brought word to Hermes; and he stole Ares away,
+391	already worn out, for the cruel bonds were overpowering him.
+392	Hera endured it, when the mighty son of Amphitryon
+393	struck her in the right breast with a three-barbed arrow;
+394	and then incurable pain seized even her.
+395	And among them huge Hades endured a swift arrow,
+396	when the same man, the son of aegis-bearing Zeus,
+397	shot him in Pylos among the dead, and gave him over to pains;
+398	and he went to the house of Zeus and high Olympus,
+399	grieving at heart, pierced through with pains; for the arrow
+400	had been driven into his massive shoulder, and it troubled his spirit.
+401	And Paeëon spread pain-killing drugs on it
+402	and healed him; for he was not made to be mortal.
+403	Hard man, doer of violent deeds, who cared nothing for the evil he did,
+404	who with his bow brought sorrow on the gods who hold Olympus!
+405	And against you the gray-eyed goddess Athena set this man on;
+406	fool, the son of Tydeus does not know this in his heart,
+407	that the man who fights with the immortals does not live long,
+408	and his children do not call him papa at his knees
+409	when he comes home from war and grim combat.
+410	So now let the son of Tydeus, strong as he is,
+411	take care that no one better than you fights him,
+412	or Aegialeia, the wise daughter of Adrastus,
+413	will long be waking her household from sleep with her wailing,
+414	longing for her wedded husband, the best of the Achaeans,
+415	the strong wife of Diomedes, tamer of horses.”
+416	She spoke, and with both hands wiped the ichor from her daughter's hand;
+417	the hand was healed, and the heavy pains were eased.
+418	But Athena and Hera, looking on,
+419	provoked Zeus, son of Cronus, with cutting words.
+420	And among them the gray-eyed goddess Athena began to speak:
+421	“Father Zeus, will you be angry with me for what I say?
+422	Surely Cypris has been urging one of the Achaean women
+423	to follow along with the Trojans, whom she now loves beyond measure,
+424	and caressing one of these well-robed Achaean women
+425	she has scratched her slender hand on a golden brooch.”
+426	So she spoke, and the father of men and gods smiled,
+427	and he called golden Aphrodite and said to her:
+428	“Not to you, my child, are given the works of war;
+429	you attend to the lovely works of marriage,
+430	and all these things will be the business of swift Ares and Athena.”
+431	So they spoke such words to one another,
+432	and Diomedes, good at the war cry, sprang at Aeneas,
+433	though he knew that Apollo himself was holding his hands over him;
+434	but he had no awe even of the great god, and was ever eager
+435	to kill Aeneas and strip off his glorious armor.
+436	Three times then he sprang at him, eager to kill him,
+437	and three times Apollo battered back his shining shield;
+438	but when for the fourth time he rushed on like a god,
+439	then far-working Apollo shouted at him terribly and said:
+440	“Take thought, son of Tydeus, and give way, and do not wish
+441	to think yourself equal to the gods, since never alike is the race
+442	of immortal gods and of men who walk on the earth.”
+443	So he spoke, and the son of Tydeus drew back a little way,
+444	avoiding the wrath of Apollo who shoots from afar.
+445	And Apollo set Aeneas apart from the throng
+446	in sacred Pergamus, where his temple had been built.
+447	There Leto and Artemis of the showering arrows
+448	healed him in the great inner shrine and gave him glory;
+449	but Apollo, god of the silver bow, made a phantom
+450	like Aeneas himself, and in armor such as his,
+451	and around the phantom the Trojans and the brilliant Achaeans
+452	hacked at the oxhide shields around one another's chests,
+453	the well-rounded shields and the fluttering bucklers of hide.
+454	Then Phoebus Apollo addressed furious Ares:
+455	“Ares, Ares, ruin of mortals, blood-stained stormer of walls,
+456	will you not go after this man and drag him out of the battle,
+457	the son of Tydeus, who now would fight even with father Zeus?
+458	First he came close to Cypris and wounded her hand at the wrist,
+459	and then he rushed at me myself, like a god.”
+460	So saying, he himself sat down on the height of Pergamus,
+461	and baneful Ares went among the ranks of the Trojans and urged them on,
+462	in the likeness of Acamas, the swift leader of the Thracians;
+463	and he called to Priam's sons, whom Zeus had nurtured:
+464	“Sons of Priam, the king whom Zeus has nurtured,
+465	how much longer will you let your people be killed by the Achaeans?
+466	Until they are fighting around the well-built gates?
+467	A man lies fallen whom we honored as highly as brilliant Hector,
+468	Aeneas, son of great-hearted Anchises;
+469	but come, let us save our brave companion from the din.”
+470	So saying, he urged on the might and spirit of every man.
+471	Then in turn Sarpedon sharply rebuked brilliant Hector:
+472	“Hector, where has the might gone that you used to have?
+473	You said, I think, that you would hold the city without the people and the allies,
+474	alone, with your brothers-in-law and your brothers.
+475	But now I cannot see a single one of them, or make one out;
+476	they cower like dogs around a lion,
+477	and we are the ones who fight, we who are only allies among you.
+478	For I too, as an ally, have come from very far away;
+479	for Lycia is far away, on the eddying Xanthus,
+480	where I left my dear wife and my infant son,
+481	and many possessions, which the needy man longs for.
+482	But even so I urge on the Lycians, and am eager myself
+483	to fight my man; and yet there is nothing of mine here
+484	that the Achaeans could carry off or drive away.
+485	But you stand there, and do not even tell the rest
+486	of the people to stand firm and defend their wives.
+487	Beware that you are not caught as if in the meshes of an all-catching net,
+488	and become the prey and spoil of hostile men;
+489	and they will soon sack your well-peopled city.
+490	All this should be your concern, night and day,
+491	begging the leaders of your far-famed allies
+492	to hold on unceasingly, and to put aside harsh rebuke.”
+493	So Sarpedon spoke, and his words stung Hector to the heart;
+494	and at once he leapt from his chariot to the ground in his armor,
+495	and brandishing his sharp spears he went everywhere through the army,
+496	urging them to fight, and he awoke the dread din of battle.
+497	And they rallied, and stood facing the Achaeans;
+498	and the Argives held their ground in a body and were not put to flight.
+499	And as the wind carries chaff across the sacred threshing floors
+500	when men are winnowing, when fair-haired Demeter
+501	separates the grain from the chaff as the winds drive on,
+502	and the heaps of chaff grow white underneath: so then the Achaeans
+503	grew white on top with the dust that through their midst
+504	the horses' hooves beat up into the brazen sky,
+505	as they closed again in battle; and the charioteers wheeled around.
+506	And they carried the might of their hands straight on; and in night
+507	furious Ares shrouded the battle, to help the Trojans,
+508	ranging everywhere; and he was fulfilling the commands
+509	of Phoebus Apollo of the golden sword, who had told him
+510	to wake the spirit of the Trojans, when he saw that Pallas Athena
+511	was gone; for she was the Danaans' helper.
+512	And he himself sent Aeneas out of the rich inner shrine,
+513	and put might into the breast of the shepherd of the people.
+514	And Aeneas took his place among his companions; and they rejoiced
+515	to see him coming to join them alive and unhurt
+516	and with his might unimpaired; but they asked him nothing;
+517	for the other toil did not allow it, the toil that the god of the silver bow had awakened,
+518	and Ares, ruin of mortals, and Strife, raging without end.
+519	And the two Ajaxes and Odysseus and Diomedes
+520	urged on the Danaans to fight; and they themselves
+521	feared neither the strength of the Trojans nor their onslaughts,
+522	but stood their ground like clouds that the son of Cronus
+523	has set in windless weather on the tops of the mountains,
+524	motionless, while the might of the North Wind sleeps, and of the other
+525	violent winds, which scatter the shadowy clouds
+526	with their shrill blasts when they blow:
+527	so the Danaans awaited the Trojans steadfastly and did not flee.
+528	And the son of Atreus ranged through the throng, giving many orders:
+529	“Friends, be men, and take a valiant heart,
+530	and feel shame before one another in the fierce battles;
+531	when men feel shame, more are saved than are killed;
+532	but when men flee, there rises neither fame nor any courage.”
+533	He spoke, and quickly threw his spear, and struck a man in the front rank,
+534	Deicoon, companion of great-hearted Aeneas,
+535	son of Pergasus, whom the Trojans, as they did the sons of Priam,
+536	honored, since he was swift to fight among the foremost.
+537	Powerful Agamemnon struck him on the shield with his spear;
+538	and it did not stop the spear, but the bronze went on through,
+539	and he drove it through the belt into the lower belly;
+540	and he fell with a thud, and his armor clattered upon him.
+541	Then in turn Aeneas killed two of the best men of the Danaans,
+542	the sons of Diocles, Crethon and Orsilochus,
+543	whose father lived in well-built Pherae,
+544	wealthy in substance, and his lineage was from the river
+545	Alpheus, which flows broad through the land of the Pylians,
+546	who begot Ortilochus, lord over many men;
+547	and Ortilochus begot great-hearted Diocles,
+548	and of Diocles twin sons were born,
+549	Crethon and Orsilochus, well skilled in every kind of fighting.
+550	These two, grown to manhood, on the black ships
+551	followed with the Argives to Ilios of the fine horses,
+552	seeking satisfaction for the sons of Atreus, Agamemnon and Menelaus;
+553	and there the end of death covered them both.
+554	Like two lions on the mountain peaks
+555	that have been reared by their mother in the thickets of the deep forest;
+556	these two seize cattle and fat sheep
+557	and ravage the farmsteads of men, until they themselves too
+558	are killed at the hands of men with the sharp bronze:
+559	such were these two, brought down at the hands of Aeneas,
+560	and they fell like tall fir trees.
+561	And Menelaus, dear to Ares, pitied them as they fell,
+562	and went through the champions, armored in gleaming bronze,
+563	shaking his spear; and Ares urged on his might,
+564	intending that he should be brought down at the hands of Aeneas.
+565	Antilochus, the son of great-hearted Nestor, saw him,
+566	and went through the champions; for he feared greatly for the shepherd of the people,
+567	that he might come to harm, and make all their toil in vain.
+568	The two were holding their hands and their sharp spears
+569	out against each other, eager to fight;
+570	and Antilochus took his stand close beside the shepherd of the people.
+571	And Aeneas did not stand his ground, swift warrior though he was,
+572	when he saw two men standing side by side.
+573	And when they had dragged the dead back to the army of the Achaeans,
+574	they laid the two poor men in the arms of their companions,
+575	and themselves turned back and fought among the foremost.
+576	There they killed Pylaemenes, the equal of Ares,
+577	leader of the great-hearted shield-bearing Paphlagonians.
+578	The son of Atreus, Menelaus famed for his spear,
+579	stabbed him with his spear as he stood, hitting him on the collarbone;
+580	and Antilochus struck Mydon, his charioteer and attendant,
+581	the brave son of Atymnius, as he was turning the single-hoofed horses;
+582	he hit him with a stone full on the elbow; and from his hands
+583	the reins, white with ivory, fell to the ground in the dust.
+584	Then Antilochus rushed at him and struck him on the temple with his sword;
+585	and gasping he fell from the well-made chariot
+586	headfirst in the dust, onto his crown and shoulders.
+587	He stood there a long while, for he had struck deep sand,
+588	until the horses kicked him and threw him flat in the dust;
+589	and Antilochus whipped them and drove them off to the army of the Achaeans.
+590	But Hector caught sight of them across the ranks, and rushed at them
+591	shouting; and with him followed the battalions of the Trojans
+592	in their strength; and Ares led them, and lady Enyo,
+593	she bringing with her Tumult, shameless in combat,
+594	and Ares wielded a huge spear in his hands,
+595	and ranged now in front of Hector, now behind him.
+596	Seeing him, Diomedes, good at the war cry, shuddered;
+597	and as a helpless man, going across a wide plain,
+598	stops short at a swift-flowing river rushing on to the sea,
+599	and seeing it seething with foam, runs back:
+600	so then the son of Tydeus gave ground, and said to the people:
+601	“Friends, how we used to marvel at brilliant Hector
+602	for being a spearman and a bold warrior;
+603	but always at his side is one of the gods, who keeps ruin away;
+604	and now Ares is beside him there, in the likeness of a mortal man.
+605	But keep your faces turned toward the Trojans and give ground
+606	always backward, and do not be eager to fight in force against gods.”
+607	So he spoke, and the Trojans came very close to them.
+608	Then Hector killed two men who knew the joy of battle,
+609	who were in one chariot, Menesthes and Anchialus.
+610	And great Telamonian Ajax pitied them as they fell;
+611	and came up close and stood and threw his shining spear,
+612	and struck Amphius, son of Selagus, who in Paesus
+613	lived, rich in possessions, rich in grainland; but his fate
+614	led him to be an ally to Priam and his sons.
+615	Telamonian Ajax struck him on the belt,
+616	and the long-shadowed spear stuck in his lower belly,
+617	and he fell with a thud; and shining Ajax ran up
+618	to strip his armor; but the Trojans showered spears on him,
+619	sharp and gleaming; and his shield caught many.
+620	But he set his heel on the body, and the bronze spear
+621	he drew out; but he could not take the rest of the beautiful armor
+622	from his shoulders; for he was hard pressed by missiles.
+623	And he feared the strong ring of the proud Trojans around the body,
+624	who stood over it, many and brave, holding their spears,
+625	who, big and mighty and noble as he was,
+626	pushed him away from them; and he gave ground, reeling.
+627	So they toiled on through the fierce battle;
+628	and Tlepolemus, son of Heracles, tall and brave,
+629	was roused against godlike Sarpedon by mighty fate.
+630	And when they had come close, advancing against each other,
+631	the son and the grandson of Zeus the cloud-gatherer,
+632	it was Tlepolemus who spoke first to him:
+633	“Sarpedon, counselor of the Lycians, what need do you have
+634	to cower here, a man with no knowledge of battle?
+635	They lie when they say you are the offspring of aegis-bearing Zeus,
+636	since you fall far short of those men
+637	who were born of Zeus among men of former times;
+638	but what a man, they say, was mighty Heracles,
+639	my father, bold in endurance, lion-hearted;
+640	who once came here for the sake of the horses of Laomedon
+641	with only six ships and fewer men,
+642	and sacked the city of Ilios, and widowed its streets;
+643	but yours is a coward's heart, and your people are dwindling away.
+644	And I do not think you will be any defense for the Trojans
+645	by coming from Lycia, not even if you are very strong,
+646	but brought down by me you will pass the gates of Hades.”
+647	Then Sarpedon, leader of the Lycians, answered him face to face:
+648	“Tlepolemus, that man did indeed destroy sacred Ilios
+649	through the folly of a man, noble Laomedon,
+650	who rebuked him with evil words though he had done him good,
+651	and did not give him the horses for whose sake he had come from far away.
+652	But for you, I say, slaughter and black doom
+653	will be made here at my hands, and brought down by my spear
+654	you will give me triumph, and your soul to Hades of the famous horses.”
+655	So Sarpedon spoke, and the other raised his ash spear,
+656	Tlepolemus; and the long spears of both at the same moment
+657	sped from their hands; one struck him full on the neck,
+658	Sarpedon, and the painful point went clean through;
+659	and murky night covered his eyes.
+660	And Tlepolemus with his long spear had struck him on the left thigh,
+661	and the point sped through in its fury,
+662	grazing the bone; but his father still kept ruin away.
+663	His brilliant companions carried godlike Sarpedon
+664	out of the war; and the long spear weighed him down
+665	as it dragged; no one noticed it or thought
+666	to draw the ash spear from his thigh, so that he could walk,
+667	in their haste; such was the toil they had in tending him.
+668	And on the other side the well-greaved Achaeans carried Tlepolemus
+669	out of the war; and brilliant Odysseus saw it,
+670	he of the enduring spirit, and his heart raged within him;
+671	and then he pondered in his mind and in his heart
+672	whether he should pursue further the son of loud-thundering Zeus,
+673	or rather take the lives of more of the Lycians.
+674	But it was not fated for great-hearted Odysseus
+675	to kill the mighty son of Zeus with the sharp bronze;
+676	so Athena turned his heart against the multitude of the Lycians.
+677	Then he killed Coeranus and Alastor and Chromius
+678	and Alcandrus and Halius and Noemon and Prytanis.
+679	And brilliant Odysseus would have killed still more of the Lycians,
+680	had not great Hector of the gleaming helmet been quick to see it;
+681	and he went through the champions, armored in gleaming bronze,
+682	bringing terror to the Danaans; and glad at his coming was
+683	Sarpedon, son of Zeus, and he spoke a piteous word:
+684	“Son of Priam, do not leave me as prey for the Danaans
+685	to lie here, but defend me; and afterward let life leave me
+686	in your city, since I, it seems, was not to
+687	return home to my dear native land
+688	and gladden my dear wife and my infant son.”
+689	So he spoke, and Hector of the gleaming helmet said nothing to him,
+690	but darted past, eager as quickly as he could
+691	to thrust back the Argives, and take the lives of many.
+692	His brilliant companions set godlike Sarpedon down
+693	under the beautiful oak of aegis-bearing Zeus;
+694	and out of his thigh the ash spear was pushed through
+695	by mighty Pelagon, who was his dear companion.
+696	And his soul left him, and a mist was poured over his eyes;
+697	but he breathed again, and the breath of the North Wind
+698	blowing on him revived his spirit, which he had so grievously gasped away.
+699	And the Argives, before Ares and Hector armed in bronze,
+700	neither turned and fled to the black ships
+701	nor ever charged against them in battle, but kept giving ground
+702	backward, when they learned that Ares was among the Trojans.
+703	Then whom first, whom last did they slay,
+704	Hector, the son of Priam, and bronze Ares?
+705	Godlike Teuthras, and after him Orestes, driver of horses,
+706	and Trechus, the Aetolian spearman, and Oenomaus,
+707	and Helenus, son of Oenops, and Oresbius of the flashing band,
+708	who lived in Hyle, much intent on his wealth,
+709	on the shore of the Cephisian lake; and near him lived other
+710	Boeotians, holding a very rich land.
+711	And when the white-armed goddess Hera saw them
+712	killing the Argives in the fierce battle,
+713	at once she addressed Athena with winged words:
+714	“Ah, child of aegis-bearing Zeus, Atrytone,
+715	surely it was an empty word we promised Menelaus,
+716	that he would sack well-walled Ilios and then sail home,
+717	if we let baneful Ares rage like this.
+718	But come, let us two also think of our furious courage.”
+719	So she spoke, and the gray-eyed goddess Athena did not disobey.
+720	She went about harnessing the horses with golden headbands,
+721	Hera, the august goddess, daughter of great Cronus;
+722	and Hebe quickly put the curved wheels on the chariot,
+723	of bronze, with eight spokes, at either end of the iron axle.
+724	Their rims are of imperishable gold, and over them
+725	are fitted tires of bronze, a wonder to see;
+726	and the hubs on both sides are round, of silver;
+727	and the chariot is strung with straps of gold and silver,
+728	and there are two rails that run around it.
+729	From it ran a silver pole; and at its end
+730	she bound the beautiful golden yoke, and put on it the beautiful
+731	golden breast straps; and under the yoke Hera led
+732	the swift-footed horses, eager for strife and the war cry.
+733	But Athena, daughter of aegis-bearing Zeus,
+734	let her soft robe fall on her father's floor,
+735	richly worked, which she herself had made and labored at with her hands;
+736	and putting on the tunic of Zeus the cloud-gatherer
+737	she armed herself in armor for tearful war.
+738	And around her shoulders she slung the tasseled aegis,
+739	dreadful, all around which Rout is set as a crown,
+740	and on it is Strife, and on it Courage, and on it chilling Onslaught,
+741	and on it is the Gorgon's head, the head of the dread monster,
+742	dreadful and terrible, the portent of aegis-bearing Zeus.
+743	And on her head she set a helmet with two ridges and four plates,
+744	golden, fitted with the foot soldiers of a hundred cities;
+745	and she stepped onto the flaming chariot, and took up her spear,
+746	heavy, huge, and massive, with which she overpowers the ranks of men,
+747	of heroes, against whom she, the daughter of the mighty father, bears resentment.
+748	And Hera quickly touched the horses with the whip;
+749	and of themselves the gates of heaven groaned open, which the Hours kept,
+750	to whom great heaven and Olympus are entrusted,
+751	both to throw open the thick cloud and to close it.
+752	Through them they drove the horses, spurred on by the goad;
+753	and they found the son of Cronus sitting apart from the other gods
+754	on the topmost peak of many-ridged Olympus.
+755	There the white-armed goddess Hera halted her horses
+756	and questioned Zeus, the most high son of Cronus, and said to him:
+757	“Father Zeus, do you not blame Ares for these violent deeds,
+758	how great and how fine an army of the Achaeans he has destroyed
+759	idly and against all order, to my grief, while at their ease
+760	Cypris and Apollo, god of the silver bow, take their pleasure,
+761	having let loose this fool, who knows no law?
+762	Father Zeus, will you be angry with me if I strike Ares
+763	a grievous blow and chase him out of the battle?”
+764	Answering her, Zeus the cloud-gatherer said:
+765	“Come then, rouse Athena, driver of spoil, against him,
+766	who more than anyone is used to bringing evil pains upon him.”
+767	So he spoke, and the white-armed goddess Hera did not disobey,
+768	and she whipped the horses; and the pair flew on not unwilling
+769	between earth and the starry sky.
+770	As far as a man sees with his eyes into the haze
+771	as he sits on a lookout, gazing over the wine-dark sea,
+772	so far do the high-neighing horses of the gods leap at a bound.
+773	But when they came to Troy and its two flowing rivers,
+774	where the Simoeis and the Scamander join their streams,
+775	there the white-armed goddess Hera halted the horses,
+776	unyoked them from the chariot, and poured a thick mist around them;
+777	and for them the Simoeis made ambrosia spring up to graze on.
+778	And the two went, like timid doves in their step,
+779	eager to bring help to the Argive men;
+780	but when they came where the most and the best
+781	were standing around mighty Diomedes, tamer of horses,
+782	crowded together, like lions that eat raw flesh
+783	or wild boars, whose strength is no weakling's,
+784	there the white-armed goddess Hera stood and shouted,
+785	in the likeness of great-hearted Stentor with the voice of bronze,
+786	who could shout as loud as fifty other men:
+787	“Shame, Argives, wretched disgraces, admirable in looks!
+788	As long as brilliant Achilles used to go into battle,
+789	the Trojans never even came out before the Dardanian gates,
+790	for they dreaded his heavy spear;
+791	but now they are fighting far from the city, by the hollow ships.”
+792	So saying, she urged on the might and spirit of every man.
+793	And the gray-eyed goddess Athena sped to the son of Tydeus;
+794	and she found the lord beside his horses and chariot,
+795	cooling the wound where Pandarus had hit him with his arrow.
+796	For the sweat was wearing him out under the broad strap
+797	of his well-rounded shield; with it he was worn out, and his arm was weary,
+798	and lifting the strap he was wiping away the dark blood.
+799	And the goddess laid her hand on the horses' yoke and said:
+800	“Tydeus has begotten a son little like himself.
+801	Tydeus, you know, was small in build, but he was a fighter;
+802	even when I would not let him fight
+803	or dash out to show his prowess, when he came alone, without the Achaeans,
+804	as a messenger to Thebes among the many Cadmeians,
+805	and I told him to feast at his ease in the halls,
+806	yet he, with the strong spirit he always had,
+807	challenged the young men of the Cadmeians, and won every contest
+808	easily; such a helper was I to him.
+809	And by you I stand and guard you,
+810	and with a ready heart I bid you fight the Trojans;
+811	but either the weariness of much charging has sunk into your limbs,
+812	or heartless fear has hold of you; then you are no
+813	offspring of Tydeus, the wise-hearted son of Oeneus.”
+814	Answering her, mighty Diomedes said:
+815	“I know you, goddess, daughter of aegis-bearing Zeus;
+816	so I will tell you my word with a ready heart, and not hide it.
+817	No heartless fear has hold of me, nor any shrinking;
+818	but I still remember the commands that you laid on me.
+819	You would not let me fight face to face with the blessed gods,
+820	with any of the others; but if Aphrodite, daughter of Zeus,
+821	comes into the war, her I may wound with the sharp bronze.
+822	That is why I am giving ground now myself, and have ordered
+823	all the other Argives to gather here;
+824	for I recognize Ares ruling over the battle.”
+825	Then the gray-eyed goddess Athena answered him:
+826	“Diomedes, son of Tydeus, dear to my heart,
+827	do not fear Ares for that, or any other
+828	of the immortals; such a helper am I to you.
+829	But come, drive your single-hoofed horses at Ares first,
+830	and strike him at close quarters, and have no awe of furious Ares,
+831	this madman, an evil through and through, a turncoat,
+832	who just now declared to me and to Hera
+833	that he would fight the Trojans and help the Argives,
+834	but now he keeps company with the Trojans, and has forgotten them.”
+835	So saying, she pushed Sthenelus from the chariot to the ground,
+836	pulling him back with her hand, and he sprang down quickly;
+837	and she mounted the chariot beside brilliant Diomedes,
+838	the eager goddess; and the oaken axle groaned loudly
+839	under the weight; for it carried a dread goddess and the best of men.
+840	And Pallas Athena took the whip and the reins;
+841	at once she drove the single-hoofed horses at Ares first.
+842	He was stripping huge Periphas,
+843	by far the best of the Aetolians, the splendid son of Ochesius;
+844	blood-stained Ares was stripping him; but Athena
+845	put on the helmet of Hades, so that mighty Ares should not see her.
+846	And when Ares, ruin of mortals, saw brilliant Diomedes,
+847	he let huge Periphas lie there
+848	where he had first killed him and taken away his life,
+849	and went straight for Diomedes, tamer of horses.
+850	And when they had come close, advancing against each other,
+851	Ares lunged first over the yoke and the horses' reins
+852	with his bronze spear, eager to take his life;
+853	but the gray-eyed goddess Athena caught it in her hand
+854	and pushed it up and away from the chariot, to fly in vain.
+855	Next Diomedes, good at the war cry, drove at him
+856	with his bronze spear; and Pallas Athena drove it home
+857	into the lowest part of his flank, where he girded on his band;
+858	there he struck and wounded him, and tore through the fair skin,
+859	and drew the spear out again; and bronze Ares bellowed
+860	as loud as nine thousand or ten thousand men shout
+861	in war as they join in the strife of Ares.
+862	And trembling seized them, Achaeans and Trojans alike,
+863	in their fear; so loud did Ares, insatiable of war, bellow.
+864	And as a murky mist appears out of the clouds
+865	when after heat a stormy wind arises,
+866	so to Diomedes, son of Tydeus, bronze Ares
+867	appeared as he went up with the clouds into the wide sky.
+868	Swiftly he came to the seat of the gods, steep Olympus,
+869	and sat down beside Zeus, son of Cronus, grieving in his heart,
+870	and showed him the immortal blood flowing down from the wound,
+871	and lamenting addressed him with winged words:
+872	“Father Zeus, do you see these violent deeds and not blame them?
+873	We gods are forever enduring the most chilling things
+874	by one another's will, when we do favors for men.
+875	We are all at war with you; for you begot that senseless daughter,
+876	ruinous, whose mind is always on lawless deeds.
+877	For all the others, all the gods there are on Olympus,
+878	obey you, and each of us is subject to you;
+879	but her you never check, by word or by deed,
+880	but you let her go, since you yourself begot this destructive child;
+881	and now she has let loose the son of Tydeus, overbearing Diomedes,
+882	to rage madly against the immortal gods.
+883	First he came close to Cypris and wounded her hand at the wrist,
+884	and then he rushed at me myself, like a god.
+885	But my swift feet carried me away; or else for a long time
+886	I would have suffered woes there among the grim heaps of the dead,
+887	or lived on strengthless from the blows of the bronze.”
+888	Looking at him darkly, Zeus the cloud-gatherer said:
+889	“Do not sit beside me and whine, you turncoat.
+890	Of all the gods who hold Olympus, you are the most hateful to me;
+891	strife is always dear to you, and wars and battles.
+892	You have your mother's fury, uncontrollable and unyielding,
+893	Hera's; I can hardly keep her down with my words;
+894	so I think it is by her promptings that you suffer this.
+895	But I will not endure it any longer that you should be in pain;
+896	for you are of my stock, and it was to me your mother bore you;
+897	but if you had been born of any other god, destructive as you are,
+898	you would long ago have been lower down than the sons of Uranus.”
+899	So he spoke, and told Paeëon to heal him.
+900	And Paeëon spread pain-killing drugs on it
+901	and healed him; for he was not made to be mortal.
+902	And as fig juice, stirred in, quickly curdles white milk,
+903	liquid as it is, and very quickly it thickens as a man stirs it,
+904	so quickly he healed furious Ares.
+905	And Hebe bathed him, and dressed him in lovely clothes;
+906	and he sat down beside Zeus, son of Cronus, exulting in his glory.
+907	And back to the house of great Zeus went
+908	Argive Hera and Athena of Alalcomenae,
+909	having stopped Ares, ruin of mortals, from his slaughter of men.

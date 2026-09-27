@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, body]
 summary: “Yellow, fair”: the color of a hero's hair, the standing epithet of Menelaus, given also to Achilles and Meleager.
 aliases: [blond, tawny, xanthos]
-grc: [ξανθῆς]
+grc: [ξανθῆς, "!^Ξάνθ*"]
 en: [fair]
 of: [achilles, meleager, menelaus]
 ---

@@ -28,7 +28,7 @@ Homer knows Heracles as a mortal hero of the generation before the war. He tells
 - **Birth.** Zeus boasted that a man of his blood born that day would rule all his neighbors. Hera delayed the birth of Heracles and hastened that of Eurystheus, who became his master (19.95–133).
 - **Labors.** Eurystheus set him hard tasks. Athena helped him, as she complains, and saved him when he went down to fetch the dog of Hades (8.362–369).
 - **Troy.** For the sake of the horses of Laomedon he sacked Troy "with only six ships and fewer men" (5.638–642). The Trojans and Athena had built him a wall to shelter from the sea monster (20.144–148). On his way home Hera sent a storm that drove him to Cos, and Zeus punished her for it (14.249–256, 15.18–30).
-- **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693). He wounded Hera with an arrow, and Hades "at Pylos among the dead" (5.392–397).
+- **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693). He wounded Hera with an arrow, and Hades "in Pylos among the dead" (5.392–397).
 - **Death.** "Not even the might of Heracles escaped death," says Achilles, "though he was dearest to Zeus; fate overcame him, and the harsh anger of Hera" (18.117–119).
 
 In the Odyssey, Odysseus sees his image in the underworld, bow in hand, while "he himself" feasts among the gods with Hebe as his wife (11.601–626); the lines that make him a god were suspected already in antiquity. The Odyssey also remembers that he killed his guest Iphitus (21.22–30) and that he rivaled the gods at archery (8.223–225).

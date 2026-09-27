@@ -1,6 +1,6 @@
 # Studying a new book: the workflow
 
-How Iliad 2 to 4 were added, as a checklist for the next book. Every step ends with `npm run check`
+How Iliad 2 to 5 were added, as a checklist for the next book. Every step ends with `npm run check`
 and `npm test` clean.
 
 1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other
@@ -23,7 +23,11 @@ and `npm test` clean.
 5. **Lexicon.** `node scripts/lexicon.mjs skeleton` makes parts of about 125 lines; analyze them in
    parallel against the lemma list of the earlier books (`lexicon.mjs lemmas`); `check` each part;
    normalize lemma spellings across parts; `merge`.
-6. **Index.** Give every writer a list of the ids they own:
+6. **Clash scan.** Before the writers start, list which existing name entries match which lines of the
+   new book, and on which words. Fix the wrong claims at once (Book 5: Chiron's Χείρων caught
+   χειρῶν "hands", Haemon caught αἵμονα "skilled", the Pylian captains Alastor and Chromius caught the
+   Lycians and a son of Priam), so no writer inherits them, and tell the writers what was fixed.
+7. **Index.** Give every writer a list of the ids they own:
    - the book's places, peoples and people, by stretch of text;
    - the story's people and gods, and the notes of the major figures;
    - words, themes, formulas, similes, sayings, things and stories;
@@ -33,10 +37,11 @@ and `npm test` clean.
    New things get entry files. Existing entries get a note in `notes/NN/`, whose front matter adds the
    new forms. Summaries stay general; a summary that was only about an earlier book moves into that
    book's note.
-7. **Integration.** Fix the collisions the writers report. A name that is also a common word gets
+8. **Integration.** Fix the collisions the writers report. A name that is also a common word gets
    `^` (only when capitalized); a clash that will recur in every book gets an exclusion (`!`);
-   a one-off gets `except:`. Names shared by several people are listed in `docs/homonyms.md`;
-   add the book's new ones. Merge duplicate quote titles, then run `npm run quotes`. Check that the report has no unindexed names,
-   no missing links and no "English form never found" warnings. Tag new places by region.
-8. **Publish.** Run `npm run export`, then republish `dist/artifact.html` with every file under
+   a phrase an exclusion must not drop gets `+`; a one-off gets `except:`. Names shared by several
+   people are listed in `docs/homonyms.md`; add the book's new ones. Merge duplicate quote titles,
+   then run `npm run quotes`. Check that the report has no unindexed names, no missing links and no
+   "English form never found" warnings. Tag new places by region.
+9. **Publish.** Run `npm run export`, then republish `dist/artifact.html` with every file under
    `dist/`.

@@ -3,11 +3,11 @@ title: Son of Zeus
 greek: Διὸς υἱός
 kind: epithet
 tags: [divine-epithet, child-of-zeus]
-summary: [[Apollo]] as the son of [[Zeus]] and [[Leto]]: the answer to the Iliad's first question (1.9), and the title in which Chryses asks the Achaeans to revere him (1.21).
+summary: “Son of Zeus,” a title of the sons of [[Zeus]], gods and men: [[Apollo]], and among mortals [[Heracles]] and [[Sarpedon]].
 aliases: [Dios huios]
 grc: [Διὸς υἱός, Διὸς υἱὸν]
 en: [son of Zeus, son]
-of: [apollo]
+of: [apollo, heracles, sarpedon]
 ---
 
 ## Meaning

@@ -16,7 +16,7 @@ The origin of the name Τυδεύς (Tydeus) is unknown. In Book 2 he is named o
 
 ## Elsewhere in Homer
 
-His son is measured against him again and again. Agamemnon taunts Diomedes with the story of Tydeus' embassy to Thebes, where he challenged the Cadmeians to contests and beat them all, and killed all but one of the fifty men who lay in ambush for him on his way home (4.370–400). Athena tells Diomedes that Tydeus “was small in stature, but a fighter” (5.800–813). Diomedes tells his own descent: Tydeus, son of [[oeneus|Oeneus]], left Calydon, settled at Argos and married a daughter of Adrastus, and now “the heaped earth covers him at Thebes” (14.113–125).
+His son is measured against him again and again. Agamemnon taunts Diomedes with the story of Tydeus' embassy to Thebes, where he challenged the Cadmeians to contests and beat them all, and killed all but one of the fifty men who lay in ambush for him on his way home (4.370–400). Athena tells Diomedes that Tydeus “was small in build, but he was a fighter” (5.801). Diomedes tells his own descent: Tydeus, son of [[oeneus|Oeneus]], left Calydon, settled at Argos and married a daughter of Adrastus, and now “the heaped earth covers him at Thebes” (14.113–125).
 
 ## Outside Homer
 

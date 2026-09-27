@@ -7,6 +7,7 @@ summary: The chief epithet of [[Apollo]] as archer, “shooting from afar,” al
 aliases: [far-shooting, far-darter, hekebolos]
 grc: [ἑκηβόλ*]
 en: [far-shooting, Far-Shooter]
+except: [5.54]
 of: [apollo]
 ---
 

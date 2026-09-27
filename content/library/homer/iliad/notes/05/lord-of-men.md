@@ -1,0 +1,5 @@
+---
+summary: Book 5 gives Agamemnon his title once, and gives it twice to the Dardanian line: to Anchises, who stole the horses of Tros, and to Aeneas as he is about to die.
+---
+
+Agamemnon has the title as the first of the leaders to take his man: “First Agamemnon, lord of men, hurled great Odius, leader of the Halizones, from his chariot” (5.38–39; [[odius]]). The other two uses are among the few in the Iliad in which the title goes to someone else. Diomedes tells how “Anchises, lord of men, stole a strain” from the breed of the horses of Tros (5.268; [[anchises-steals-the-horses]], [[anchises]]). And the narrator uses it of his son at the moment of his greatest danger: “And now Aeneas, lord of men, would have perished there, had not Aphrodite, daughter of Zeus, been quick to see it” (5.311–312; [[would-have-had-not]], [[aeneas]]). The Trojan line that, as Poseidon says in Book 20, will rule the Trojans after the house of Priam is gone is given the title of the Achaean king (Il. 20.306–308).

@@ -32,7 +32,7 @@ Son of [[Heracles]] by [[Astyocheia]], whom Heracles carried off from [[Ephyra]]
 
 The Catalogue gives him a whole history: the killing of Licymnius, the flight, and the settling of Rhodes (2.661–670; see [[the-flight-of-tlepolemus]]).
 
-He appears once more. In Book 5 "strong fate" drives him against [[Sarpedon]], and the narrator marks the meeting of "son and grandson of Zeus the cloud-gatherer" (5.628–631). Tlepolemus taunts Sarpedon that he is no true son of Zeus beside Heracles, who once sacked Troy with only six ships (5.633–646). They throw at the same moment. Sarpedon's spear goes through his neck and kills him; his own spear pierces Sarpedon's thigh (5.655–662).
+He appears once more. In Book 5 "mighty fate" drives him against [[Sarpedon]], and the narrator marks the meeting of "the son and the grandson of Zeus the cloud-gatherer" (5.628–631). Tlepolemus taunts Sarpedon that he is no true son of Zeus beside Heracles, who once sacked Troy with only six ships (5.633–646). They throw at the same moment. Sarpedon's spear goes through his neck and kills him; his own spear pierces Sarpedon's thigh (5.655–662).
 
 ## Outside Homer
 

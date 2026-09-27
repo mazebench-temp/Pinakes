@@ -1,0 +1,8 @@
+---
+summary: With Achilles absent, Book 5 gives the title to Diomedes. His enemy Pandarus calls him “the best of the Achaeans”, a goddess names him so in her threat, and the narrator calls him “the best of men” as Athena rides beside him; Hera's shout reminds the army of the man whose absence has made room for him.
+refs: [5.103, 5.414, 5.780-781, 5.788-791, 5.839]
+---
+
+**Named by others.** The title comes to Diomedes from every side but his own. Pandarus, thinking he has killed him, shouts to the Trojans that “the best of the Achaeans is hit” (5.103). Dione, threatening him, pictures his wife longing for “her wedded husband, the best of the Achaeans” (5.414). The narrator gives it when the goddess mounts his chariot and the oaken axle groans, “for it carried a dread goddess and the best of men” (δεινὴν γὰρ ἄγεν θεὸν ἄνδρά τʼ ἄριστον, 5.839). When Hera comes down to rally the Argives, “the most and the best” are gathered around him (5.780–781). Diomedes himself makes no claim; he answers Agamemnon's rebuke of Book 4 with deeds (see [[the-aristeia]] and [[diomedes]]).
+
+**The absent best.** Hera's shout names the man whom the title belongs to in Book 1: “As long as brilliant Achilles used to go into battle, the Trojans never even came out before the Dardanian gates, for they dreaded his heavy spear” (5.788–790). The Iliad keeps both claims in view. In the next book Helenus tells Hector that Diomedes is the strongest of the Achaeans, feared more than Achilles ever was, though they say Achilles is a goddess's son (6.96–101). The comparison is made by an enemy, and Achilles is still out of the fighting. See [[achilles-withdraws]].

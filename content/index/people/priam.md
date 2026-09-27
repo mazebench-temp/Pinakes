@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, king, elder, house-of-priam]
 summary: The old king of [[Troy]], father of [[Hector]] and of many other sons. Too old to fight, he presides over the city whose fall the Achaeans pray for, and at the end of the Iliad he goes to Achilles to ransom Hector's body.
 grc: [Πριαμ*]
-en: [Priam, city of Priam, sons of Priam]
+en: [Priam, city of Priam]
 relations:
   - child: sons-of-priam (1.255)
   - child: hector
