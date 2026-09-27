@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 244" role="img" aria-label="Family tree of the gods and heroes named in Iliad Book 1. Cronus is the father of Zeus, Hera, Poseidon and Hades. Zeus and Leto are the parents of Apollo; Zeus is the father of Athena; Zeus and Hera are the parents of Hephaestus. The Old Man of the Sea is the father of Thetis, who with the mortal Peleus is the mother of Achilles." font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="middle">
+  <g fill="none" stroke="currentColor" stroke-width="1.5" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 58 V82 M180 82 H480 M180 82 V104 M290 82 V104 M390 82 V104 M480 82 V104"/>
+    <path d="M84 117 H156 M204 117 H266 M614 117 H666"/>
+    <path d="M120 117 V194 M180 144 V194 M235 117 V160 H270 V194 M690 58 V104 M640 117 V194"/>
+  </g>
+  <g fill="currentColor">
+    <text x="330" y="36" font-size="14" font-weight="600">Cronus</text>
+    <text x="330" y="51" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Κρόνος</text>
+    <text x="690" y="36" font-size="14" font-weight="600">Old Man of the Sea</text>
+    <text x="690" y="51" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">ἅλιος γέρων</text>
+
+    <text x="60" y="122" font-size="14" font-weight="600">Leto</text>
+    <text x="60" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Λητώ</text>
+    <text x="180" y="122" font-size="14" font-weight="600">Zeus</text>
+    <text x="180" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Ζεύς</text>
+    <text x="290" y="122" font-size="14" font-weight="600">Hera</text>
+    <text x="290" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Ἥρη</text>
+    <text x="390" y="122" font-size="14" font-weight="600">Poseidon</text>
+    <text x="390" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Ποσειδάων</text>
+    <text x="480" y="122" font-size="14" font-weight="600">Hades</text>
+    <text x="480" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Ἀΐδης</text>
+    <text x="590" y="122" font-size="14" font-weight="600">Peleus</text>
+    <text x="590" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Πηλεύς</text>
+    <text x="690" y="122" font-size="14" font-weight="600">Thetis</text>
+    <text x="690" y="137" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Θέτις</text>
+
+    <text x="120" y="212" font-size="14" font-weight="600">Apollo</text>
+    <text x="120" y="227" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif">Ἀπόλλων</text>
+    <text x="180" y="212" font-size="14" font-weight="600" dx="6">Athena</text>
+    <text x="180" y="227" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif" dx="6">Ἀθήνη</text>
+    <text x="270" y="212" font-size="14" font-weight="600" dx="8">Hephaestus</text>
+    <text x="270" y="227" font-size="11.5" opacity="0.62" font-family="Gentium Book Plus, Palatino, serif" dx="8">Ἥφαιστος</text>
+    <text x="640" y="212" font-size="14" font-weight="700" style="fill: var(--accent, currentColor)">Achilles</text>
+    <text x="640" y="227" font-size="11.5" font-family="Gentium Book Plus, Palatino, serif" style="fill: var(--accent, currentColor)">Ἀχιλλεύς</text>
+  </g>
+  <g fill="currentColor" font-size="10.5" opacity="0.55">
+    <text x="120" y="110">with Leto</text>
+    <text x="235" y="110">with Hera</text>
+    <text x="590" y="152">mortal</text>
+  </g>
+</svg>

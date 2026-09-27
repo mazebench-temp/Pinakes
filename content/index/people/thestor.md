@@ -1,0 +1,15 @@
+---
+title: Thestor
+greek: Θέστωρ
+kind: person
+tags: [seer]
+summary: Father of the seer [[Calchas]], known only from the patronymic Θεστορίδης.
+grc: [Θεστορίδης]
+en: [Thestor]
+relations:
+  - child: calchas (1.69)
+---
+
+{{quote:5c871474-2396-5049-8f69-242b2f648947}}
+
+Θεστορίδης = Θέστωρ + -ίδης: "son of Thestor". The name may belong to the family of θέσπις, "inspired, oracular", which would suit a seer's father.

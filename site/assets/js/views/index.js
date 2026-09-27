@@ -1,0 +1,113 @@
+import { el, esc, icon, on, debounce, kindIcon } from '../lib/dom.js';
+import * as store from '../lib/store.js';
+import { segmented } from '../ui/components.js';
+import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
+
+/** Catalog order: ignore leading punctuation and articles ("The sea" files under S). */
+export const sortKey = t => t.normalize('NFD').replace(/[\u0300-\u036F]/g, '').replace(/^[^A-Za-z0-9]+/, '').replace(/^(the|a|an)\s+/i, '');
+const letterOf = t => sortKey(t)[0]?.toUpperCase() || '#';
+
+export function entryRow(e, cat, { meta = 'lines' } = {}) {
+  const k = cat.by.kinds.get(e.kind);
+  const right = meta === 'first' ? (e.first ?? '') : meta === 'none' ? '' : (e.lines || '');
+  return `<a class="row has-icon" href="#/entry/${esc(e.id)}"><span class="row-icon" style="--h:${k?.hue ?? 262}">${icon(kindIcon(k?.icon))}</span>
+    <span class="row-main"><span class="row-title"><span>${esc(e.title)}</span>${e.greek ? `<span class="row-greek">${esc(e.greek)}</span>` : ''}</span>
+    ${e.summary ? `<span class="row-sub one">${esc(e.summary)}</span>` : ''}</span>
+    ${right !== '' ? `<span class="row-meta">${esc(String(right))}</span>` : ''}${icon('chevron', 'chev')}</a>`;
+}
+
+/** Score an entry against a query (English, Greek, or transliterated Greek). 0 = no match. */
+export function matchEntry(e, q) {
+  if (!q) return 1;
+  const t = e.title.toLowerCase(), ql = q.toLowerCase();
+  if (hasGreek(q)) {
+    const g = normalize(e.greek ?? ''), nq = normalize(q);
+    return g.startsWith(nq) ? 90 : g.includes(nq) ? 60 : 0;
+  }
+  if (t === ql) return 100;
+  if (t.startsWith(ql)) return 90;
+  if (t.split(/[\s(,-]+/).some(w => w.startsWith(ql))) return 75;
+  if (e.aliases?.some(a => a.toLowerCase().startsWith(ql))) return 70;
+  const tr = foldLatin(transliterate(e.greek ?? '')), fq = foldLatin(ql);
+  if (fq.length > 2 && tr.startsWith(fq)) return 65;
+  if (t.includes(ql)) return 50;
+  if (e.aliases?.some(a => a.toLowerCase().includes(ql))) return 40;
+  if (ql.length > 3 && e.summary?.toLowerCase().includes(ql)) return 15;
+  return 0;
+}
+
+export async function render(route, { setQuery }) {
+  const cat = await store.catalog();
+  let kind = route.query.k ?? 'all';
+  let q = route.query.q ?? '';
+  let sort = route.query.sort ?? store.prefs.indexSort ?? 'az';
+  const kinds = cat.kinds.filter(k => k.count);
+
+  const view = el(`<div class="view">
+    <header class="page-head" style="padding-bottom:6px">
+      <h1 class="large-title" data-title-anchor>Index</h1>
+      <p class="page-sub">${cat.stats.entries.toLocaleString()} entries: every name, place, people, god and creature in the text, and the words, customs, stories and ideas around them.</p>
+    </header>
+    <div class="index-tools">
+      <label class="search-field" for="index-q">${icon('search')}<input id="index-q" type="search" placeholder="Filter the index" value="${esc(q)}" autocomplete="off" enterkeyhint="search"><button class="clear" type="button" aria-label="Clear" ${q ? '' : 'hidden'}>${icon('x')}</button></label>
+      <div class="chips" role="group" aria-label="Kinds">
+        <button class="chip" type="button" data-k="all" aria-pressed="${kind === 'all'}">All <span class="n">${cat.stats.entries}</span></button>
+        ${kinds.map(k => `<button class="chip" type="button" data-k="${k.id}" aria-pressed="${kind === k.id}">${esc(k.label)} <span class="n">${k.count}</span></button>`).join('')}
+      </div>
+      <div data-sort></div>
+    </div>
+    <div class="results"></div>
+    <nav class="alpha" aria-hidden="true"></nav>
+  </div>`);
+
+  const results = view.querySelector('.results');
+  const alpha = view.querySelector('.alpha');
+  const input = view.querySelector('#index-q');
+  const clear = view.querySelector('.clear');
+
+  const draw = () => {
+    let list = cat.entries.filter(e => kind === 'all' || e.kind === kind);
+    if (q) list = list.map(e => [e, matchEntry(e, q)]).filter(([, s]) => s > 0).sort((a, b) => b[1] - a[1] || a[0].title.localeCompare(b[0].title)).map(([e]) => e);
+    else if (sort === 'freq') list.sort((a, b) => b.lines - a.lines || a.title.localeCompare(b.title));
+    else if (sort === 'text') list.sort((a, b) => a.firstKey.localeCompare(b.firstKey) || a.title.localeCompare(b.title));
+    else list.sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title), 'en', { sensitivity: 'base' }));
+
+    if (!list.length) { results.innerHTML = `<div class="list"><div class="list-empty">Nothing in the index matches “${esc(q)}”. Try Greek (μῆνις), a transliteration (menis), or <a href="#/search?q=${encodeURIComponent(q)}">search the text</a>.</div></div>`; alpha.innerHTML = ''; return; }
+
+    if (!q && sort === 'az') {
+      const groups = new Map();
+      for (const e of list) { const L = letterOf(e.title); if (!groups.has(L)) groups.set(L, []); groups.get(L).push(e); }
+      results.innerHTML = [...groups].map(([L, items]) => `<div class="letter-head" id="letter-${L}">${L}</div><div class="list">${items.map(e => entryRow(e, cat)).join('')}</div>`).join('');
+      alpha.innerHTML = [...groups.keys()].map(L => `<span data-l="${L}">${L}</span>`).join('');
+    } else {
+      results.innerHTML = `<div class="list" style="margin-top:8px">${list.map(e => entryRow(e, cat, { meta: sort === 'text' && !q ? 'first' : 'lines' })).join('')}</div>
+        <p class="footnote-text">${list.length.toLocaleString()} ${list.length === 1 ? 'entry' : 'entries'}${sort === 'freq' && !q ? ', by number of lines in which each appears' : ''}${sort === 'text' && !q ? ', in order of first appearance' : ''}.</p>`;
+      alpha.innerHTML = '';
+    }
+  };
+
+  const sync = () => setQuery({ k: kind === 'all' ? '' : kind, q, sort: sort === 'az' ? '' : sort });
+  view.querySelector('[data-sort]').append(segmented([['az', 'A–Z'], ['freq', 'Most frequent'], ['text', 'In the text']], sort, v => {
+    sort = v; store.setPref('indexSort', v); sync(); draw();
+  }, 'Sort'));
+  on(view, 'click', '.chip[data-k]', (e, b) => {
+    kind = b.dataset.k;
+    view.querySelectorAll('.chip[data-k]').forEach(c => c.setAttribute('aria-pressed', String(c === b)));
+    sync(); draw();
+  });
+  input.addEventListener('input', debounce(() => { q = input.value.trim(); clear.hidden = !q; sync(); draw(); }, 90));
+  clear.addEventListener('click', () => { input.value = ''; q = ''; clear.hidden = true; sync(); draw(); input.focus(); });
+
+  // Alphabet scrubber: drag along the letters to jump.
+  const scrub = e => {
+    const t = document.elementFromPoint(e.clientX, e.clientY)?.closest('[data-l]');
+    if (!t) return;
+    const h = view.querySelector(`#letter-${t.dataset.l}`);
+    if (h) window.scrollTo(0, h.getBoundingClientRect().top + window.scrollY - 150);
+  };
+  alpha.addEventListener('pointerdown', e => { alpha.setPointerCapture(e.pointerId); scrub(e); });
+  alpha.addEventListener('pointermove', e => { if (alpha.hasPointerCapture(e.pointerId)) scrub(e); });
+
+  draw();
+  return { title: 'Index', el: view };
+}

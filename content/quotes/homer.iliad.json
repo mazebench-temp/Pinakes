@@ -1,0 +1,3648 @@
+{
+  "work": "homer.iliad",
+  "quotes": [
+    {
+      "id": "9273ec58-af8b-5446-8afb-7a836c58981c",
+      "ref": "1.1-2",
+      "title": "Countless sorrows"
+    },
+    {
+      "id": "26a660ee-958a-51d7-aefd-ec36fc2c8a09",
+      "ref": "1.1-2",
+      "title": "The opening"
+    },
+    {
+      "id": "a7fa6e2f-d814-5a31-b617-e5dc7e0b5d8c",
+      "ref": "1.1-5",
+      "title": "Souls and bodies"
+    },
+    {
+      "id": "0f38ffeb-58e9-5305-966c-031eba176b01",
+      "ref": "1.1-5",
+      "title": "The spoil of dogs"
+    },
+    {
+      "id": "86460625-f50f-58a7-990b-6330c318d18b",
+      "ref": "1.1-7",
+      "title": "The proem"
+    },
+    {
+      "id": "4630ecf7-c829-5e61-b61f-793096803b5a",
+      "ref": "1.1",
+      "title": "The first line"
+    },
+    {
+      "id": "5d895128-2bd2-5af5-9447-d17d47447b4e",
+      "ref": "1.1",
+      "title": "The first line of the Iliad"
+    },
+    {
+      "id": "efb6b93b-3d25-5a78-bafa-a8d83e96c016",
+      "ref": "1.1",
+      "title": "The invocation"
+    },
+    {
+      "id": "fd01c944-d855-5dda-9e7f-02c7a54985e8",
+      "ref": "1.2",
+      "title": "The wrath's first victims"
+    },
+    {
+      "id": "5fbdb8ad-4245-5590-ad70-17444ee00287",
+      "ref": "1.3-4"
+    },
+    {
+      "id": "37ba8e17-2be0-5269-9b77-b0cbb0760472",
+      "ref": "1.3-4",
+      "title": "Souls of heroes"
+    },
+    {
+      "id": "e6cab76a-997b-5482-a6ab-077198c8b1be",
+      "ref": "1.4-5",
+      "title": "Spoil for dogs and birds"
+    },
+    {
+      "id": "1b4c453c-646c-5e94-a341-f61e540648db",
+      "ref": "1.5",
+      "title": "The plan of Zeus"
+    },
+    {
+      "id": "2bffc4f0-a5a0-5770-842d-f3576baeeade",
+      "ref": "1.6-7",
+      "title": "From the time when they first stood apart in strife"
+    },
+    {
+      "id": "786662ac-4809-529e-9743-b75e65236fa6",
+      "ref": "1.6-7",
+      "title": "The quarrel announced"
+    },
+    {
+      "id": "4657be09-7bfb-5274-a617-9c6c2029e172",
+      "ref": "1.6-8",
+      "title": "The poem's starting point"
+    },
+    {
+      "id": "90fba18f-532e-5cd7-977c-9bf5c6530598",
+      "ref": "1.7"
+    },
+    {
+      "id": "e5b5d746-4830-5151-bb90-a2438974ea6c",
+      "ref": "1.8"
+    },
+    {
+      "id": "09e67889-fbde-5357-aa03-0c6ed4018307",
+      "ref": "1.8-9",
+      "title": "Which of the gods brought them together?"
+    },
+    {
+      "id": "0ea7cd7f-ede8-54eb-9c7e-6a15e8bbee2f",
+      "ref": "1.8-10",
+      "title": "An evil sickness"
+    },
+    {
+      "id": "e0170932-f13c-5490-9adf-5098b287f239",
+      "ref": "1.8-10",
+      "title": "The people kept dying"
+    },
+    {
+      "id": "1c12bf05-3dde-55ca-879b-95de01c0d210",
+      "ref": "1.8-12",
+      "title": "The cause"
+    },
+    {
+      "id": "4fe0a215-4fd6-5749-8db4-f0fca6ad0c3a",
+      "ref": "1.9"
+    },
+    {
+      "id": "41b52045-2487-5e89-a3c6-c5f79e71b8d4",
+      "ref": "1.9-10",
+      "title": "Apollo in anger"
+    },
+    {
+      "id": "35bd44ba-4ba8-5812-a075-a85aabcb9aee",
+      "ref": "1.9-16",
+      "title": "The priest dishonored"
+    },
+    {
+      "id": "7383d2b4-8a47-5a2d-829d-b2f524c89584",
+      "ref": "1.11-12",
+      "title": "The first dishonor"
+    },
+    {
+      "id": "6bfc2cbf-c233-5a44-937b-2ed31ce496ff",
+      "ref": "1.12-13",
+      "title": "Chryses came to the swift ships"
+    },
+    {
+      "id": "c0831d18-a830-59bf-9f61-d6ac38336905",
+      "ref": "1.12-16",
+      "title": "Chryses comes to the ships"
+    },
+    {
+      "id": "1fd8ebb8-0483-5133-a62e-328319840bc4",
+      "ref": "1.12-16",
+      "title": "The priest brings ransom"
+    },
+    {
+      "id": "da958e60-0546-506c-9375-4f70add0023e",
+      "ref": "1.12-21",
+      "title": "Chryses begs the Achaeans"
+    },
+    {
+      "id": "269356fa-d33a-518f-8c99-240a0367bcb1",
+      "ref": "1.12-21",
+      "title": "Chryses comes to ransom his daughter"
+    },
+    {
+      "id": "180e443d-8020-5d72-84c5-dc1c76ef8b43",
+      "ref": "1.14"
+    },
+    {
+      "id": "8053b486-d15b-5d72-bd29-a63faccd118a",
+      "ref": "1.14-15"
+    },
+    {
+      "id": "682a615e-3fb4-5eb9-9356-990aedcd8948",
+      "ref": "1.14-15",
+      "title": "The fillets of Apollo on a golden scepter"
+    },
+    {
+      "id": "570b0c03-b5f4-513c-b95a-b564d5fad9d5",
+      "ref": "1.14-15",
+      "title": "The fillets on the golden scepter"
+    },
+    {
+      "id": "3ce3cc13-9a7d-58f3-91b3-03e9bdf1d63b",
+      "ref": "1.14-16",
+      "title": "The fillets of far-shooting Apollo"
+    },
+    {
+      "id": "b43b348c-9f54-531e-ae99-412c9ed8942b",
+      "ref": "1.15-16",
+      "title": "Chryses begs the sons of Atreus"
+    },
+    {
+      "id": "53886f53-b859-59ea-88fb-0ff843f5a170",
+      "ref": "1.15-17",
+      "title": "Chryses addresses the sons of Atreus"
+    },
+    {
+      "id": "eeadf6cc-f356-50db-9113-be9d44f1cb99",
+      "ref": "1.15-17",
+      "title": "Chryses begs the sons of Atreus"
+    },
+    {
+      "id": "63f57839-c317-508c-b63c-d19548ac2ff2",
+      "ref": "1.16"
+    },
+    {
+      "id": "7d45b576-9b13-50b6-8ecf-6fb47604499e",
+      "ref": "1.16-17"
+    },
+    {
+      "id": "2667e49c-3224-5718-af2b-9d1141716991",
+      "ref": "1.17"
+    },
+    {
+      "id": "461a8d7d-c8c7-58cc-bf43-3c08950d372b",
+      "ref": "1.17-19",
+      "title": "Chryses blesses the Achaeans"
+    },
+    {
+      "id": "6a6afeef-58b5-5d8b-bd8e-4e829fdb6667",
+      "ref": "1.17-19",
+      "title": "Chryses' wish"
+    },
+    {
+      "id": "8fb573bd-1326-5966-ba64-00b8f5ea7fec",
+      "ref": "1.17-21",
+      "title": "Chryses blesses the Achaeans"
+    },
+    {
+      "id": "1a442631-1e88-52f6-8f15-a657049c19aa",
+      "ref": "1.17-21",
+      "title": "My dear child"
+    },
+    {
+      "id": "ba7e7dd8-a1d5-5da5-853a-02d3445e5bc0",
+      "ref": "1.18-19"
+    },
+    {
+      "id": "94354377-6c3d-516e-8c15-4b0c0a64ef6c",
+      "ref": "1.20-21",
+      "title": "In reverence for the son of Zeus"
+    },
+    {
+      "id": "261bedb7-7947-5c18-ac20-da87ced93053",
+      "ref": "1.20-23",
+      "title": "Chryses' plea and the army's answer"
+    },
+    {
+      "id": "1547878a-9cf2-5b19-bc14-1278c81b930b",
+      "ref": "1.21"
+    },
+    {
+      "id": "9003b2d3-ec79-5ac0-8c5b-d8684376193e",
+      "ref": "1.22-23"
+    },
+    {
+      "id": "ef4b48c4-8845-5adb-a4fa-e59b908cb876",
+      "ref": "1.22-24",
+      "title": "It did not please his heart"
+    },
+    {
+      "id": "3640bf0c-506f-5c36-8c49-dc270a9d54f6",
+      "ref": "1.24-25",
+      "title": "A stern command"
+    },
+    {
+      "id": "805e1048-fc81-5416-9397-a93d039dfde1",
+      "ref": "1.24-25",
+      "title": "Agamemnon sends Chryses away"
+    },
+    {
+      "id": "221d5bfe-ef2e-59c2-bc22-f7efe4a25033",
+      "ref": "1.24-25",
+      "title": "It did not please Agamemnon"
+    },
+    {
+      "id": "e18d7cfd-6958-5be7-935b-780c1577a878",
+      "ref": "1.24-32",
+      "title": "Agamemnon refuses Chryses"
+    },
+    {
+      "id": "fcdd7b69-8fab-546b-8e7c-7d27b086cb0d",
+      "ref": "1.26-28",
+      "title": "Agamemnon threatens Chryses"
+    },
+    {
+      "id": "2211709d-a223-53d6-b017-fbf681c81618",
+      "ref": "1.26-28",
+      "title": "Agamemnon to Chryses"
+    },
+    {
+      "id": "e1990e5b-a2e0-58d5-b112-6d9bd3163a5d",
+      "ref": "1.26-28",
+      "title": "Agamemnon's threat"
+    },
+    {
+      "id": "dc0ef194-6a11-523a-9ad0-f64770b3d055",
+      "ref": "1.26-32",
+      "title": "Old man, let me not find you"
+    },
+    {
+      "id": "0cf18bb9-54b0-5cf1-9757-0c141475c1e7",
+      "ref": "1.28",
+      "title": "Agamemnon scorns scepter and fillet"
+    },
+    {
+      "id": "5bcf7154-b69c-5b56-9a9a-b789dba1a3de",
+      "ref": "1.29-31"
+    },
+    {
+      "id": "d96703ad-b70e-5b6f-8a55-4f75a90f0111",
+      "ref": "1.29-31",
+      "title": "“To share my bed”"
+    },
+    {
+      "id": "728762c1-b1b4-51fd-98b3-be236e422ba4",
+      "ref": "1.29-31",
+      "title": "Agamemnon's plans for Chryseis"
+    },
+    {
+      "id": "964d6c5c-df68-5604-91e7-f60176f0eb60",
+      "ref": "1.29-31",
+      "title": "At the loom in Argos"
+    },
+    {
+      "id": "1d882361-e5e9-57f6-ac52-654158bcbc7b",
+      "ref": "1.29-31",
+      "title": "Chryseis at the loom"
+    },
+    {
+      "id": "de2aa2c3-17b0-51d0-b449-8869c54a83ed",
+      "ref": "1.29-31",
+      "title": "The loom and the bed"
+    },
+    {
+      "id": "d71b641b-af05-5bb7-b9af-c0e7d9688bbf",
+      "ref": "1.33-34",
+      "title": "Chryses walks away"
+    },
+    {
+      "id": "b1a73627-5012-51be-8c4b-69b358f28aa3",
+      "ref": "1.33-34",
+      "title": "The old man afraid"
+    },
+    {
+      "id": "bd17205d-2d0f-59d2-a5aa-848404f76ee2",
+      "ref": "1.33-34",
+      "title": "The old man obeyed"
+    },
+    {
+      "id": "14b3cea1-ebf0-5761-a62a-a5308699ebd9",
+      "ref": "1.33-35",
+      "title": "Chryses goes in silence along the shore"
+    },
+    {
+      "id": "a9c48215-7151-5ef4-9d33-f0df529c0e81",
+      "ref": "1.33",
+      "title": "The old man obeyed"
+    },
+    {
+      "id": "5b24299e-3fbc-563b-9c53-b39867cf645d",
+      "ref": "1.33",
+      "title": "The old man was afraid"
+    },
+    {
+      "id": "3cd9586f-518e-5811-8de0-c7e66c35ec1a",
+      "ref": "1.34"
+    },
+    {
+      "id": "b67343e3-8c07-5bf8-8890-45e0a47303ad",
+      "ref": "1.34",
+      "title": "Chryses on the shore"
+    },
+    {
+      "id": "b3f8c509-a034-599e-b0f0-fe6f8c49b1d1",
+      "ref": "1.35-36",
+      "title": "Chryses prays to Apollo"
+    },
+    {
+      "id": "d8c3119c-4499-55ce-888d-a22a1df49a69",
+      "ref": "1.35-43",
+      "title": "Chryses' first prayer"
+    },
+    {
+      "id": "b196aeb1-d192-59e0-a569-670e09c2d8b7",
+      "ref": "1.36"
+    },
+    {
+      "id": "ae973487-15a4-54de-aeff-a51910ef540e",
+      "ref": "1.36-38",
+      "title": "Apollo rules Tenedos"
+    },
+    {
+      "id": "e433a506-fa42-5520-b92b-4ad99c110b46",
+      "ref": "1.37-38"
+    },
+    {
+      "id": "40474f4d-59a6-5a2d-9566-f4bd0318fb4a",
+      "ref": "1.37-38",
+      "title": "Chryses calls on Apollo"
+    },
+    {
+      "id": "c130a9d7-f84f-5532-84f8-34249a3eb1bc",
+      "ref": "1.37-38",
+      "title": "Hear me, god of the silver bow"
+    },
+    {
+      "id": "ec1ecef1-1b98-58bd-9c87-04d45b73c864",
+      "ref": "1.37-38",
+      "title": "Hear me, you who guard Chryse and holy Cilla"
+    },
+    {
+      "id": "8056fbf6-35ca-5016-a86a-90087e870edc",
+      "ref": "1.37-39",
+      "title": "Chryses calls on Apollo"
+    },
+    {
+      "id": "80c22fd5-99a7-51a9-9da5-0254b054695c",
+      "ref": "1.37-39",
+      "title": "Chryses' first prayer"
+    },
+    {
+      "id": "081b2062-95e8-5c7e-a1c1-d9f3fb59b049",
+      "ref": "1.37-42",
+      "title": "Chryses calls on Smintheus"
+    },
+    {
+      "id": "b2d52fe4-6282-554d-8148-4c0f865af324",
+      "ref": "1.37-42",
+      "title": "Chryses' first prayer"
+    },
+    {
+      "id": "9cf7ea6a-1e8e-5cb1-b32e-532a318030d6",
+      "ref": "1.37-42",
+      "title": "Chryses' prayer"
+    },
+    {
+      "id": "a00afcb7-7ebc-59dc-bca8-65f5539e7478",
+      "ref": "1.37-42",
+      "title": "The first prayer"
+    },
+    {
+      "id": "51dc47df-7585-52b9-9a4c-8310d3b0f1d2",
+      "ref": "1.37-42",
+      "title": "The prayer for vengeance"
+    },
+    {
+      "id": "2b00a5c1-91ea-5c5a-af2a-97e803a0e076",
+      "ref": "1.38"
+    },
+    {
+      "id": "7f93b3a8-d1e6-5f70-9e22-082302e66058",
+      "ref": "1.39-42",
+      "title": "Chryses: fulfill for me this wish"
+    },
+    {
+      "id": "997b5be7-1c1c-583c-9b7e-43bd3a8378a9",
+      "ref": "1.42"
+    },
+    {
+      "id": "202e7666-b1d3-5a69-a8a5-16d262377b6b",
+      "ref": "1.43-44",
+      "title": "Apollo angry at heart"
+    },
+    {
+      "id": "cbb72cac-69b1-51c8-8820-9f7767d966b6",
+      "ref": "1.43-44",
+      "title": "Phoebus Apollo hears the prayer"
+    },
+    {
+      "id": "2dcda65d-12f3-5df4-9e33-86e73b78faf1",
+      "ref": "1.43-47",
+      "title": "Apollo comes down"
+    },
+    {
+      "id": "31d08fe5-a463-52cf-9a08-54b301c0c853",
+      "ref": "1.43-49",
+      "title": "Apollo comes with his bow"
+    },
+    {
+      "id": "645d889b-e9d0-536a-bbd6-41139541d281",
+      "ref": "1.43-52",
+      "title": "Apollo comes down from Olympus"
+    },
+    {
+      "id": "cb648778-c4a3-5b32-959e-f8651f753f3b",
+      "ref": "1.43",
+      "title": "Phoebus Apollo heard him"
+    },
+    {
+      "id": "3809c043-2444-58ab-9071-e84c789804bc",
+      "ref": "1.44-47",
+      "title": "The quiver on Apollo's shoulders"
+    },
+    {
+      "id": "5fa0cc63-3d21-5929-b2cf-0af39eb523f4",
+      "ref": "1.44-53",
+      "title": "Apollo's arrows"
+    },
+    {
+      "id": "32621c96-c72c-5506-aa13-6816d1ff918c",
+      "ref": "1.48-49",
+      "title": "The twang of the silver bow"
+    },
+    {
+      "id": "81f71558-473e-5825-857f-3b7d2487a319",
+      "ref": "1.48-52",
+      "title": "The god's arrows"
+    },
+    {
+      "id": "e2fdf7bd-b28e-522e-bf23-29197d529704",
+      "ref": "1.49"
+    },
+    {
+      "id": "cb895faf-dff7-5d33-929a-919af62d32d2",
+      "ref": "1.50-52",
+      "title": "First the mules and the swift dogs"
+    },
+    {
+      "id": "86909adb-8428-5019-9b06-ddba4973a2fa",
+      "ref": "1.50-52",
+      "title": "Mules and dogs first"
+    },
+    {
+      "id": "d8453c80-19de-51e3-bb9c-4357ed25b441",
+      "ref": "1.50-52",
+      "title": "The plague begins"
+    },
+    {
+      "id": "2370c7e0-aad2-5a38-82fa-6000b23c58d4",
+      "ref": "1.50-53",
+      "title": "The pyres of the plague"
+    },
+    {
+      "id": "4e0b98c1-d4cc-5be5-87fa-b6206dd5949f",
+      "ref": "1.53-54",
+      "title": "Nine days and the tenth"
+    },
+    {
+      "id": "819624de-b17d-59ce-8f76-1d73ca0fee39",
+      "ref": "1.53-56",
+      "title": "Hera prompts Achilles"
+    },
+    {
+      "id": "0475e6d6-e2a6-56fe-81e7-48b3d0cfae6b",
+      "ref": "1.53-58",
+      "title": "Achilles calls the assembly"
+    },
+    {
+      "id": "87a4238f-ffc5-53d7-b997-7458bd8b1b1c",
+      "ref": "1.54-56",
+      "title": "Hera prompts Achilles"
+    },
+    {
+      "id": "d4414450-e9d5-5349-b7e3-778ccddc0b1b",
+      "ref": "1.54-56",
+      "title": "Hera prompts the assembly"
+    },
+    {
+      "id": "529226f7-ccf6-5671-bb41-7c55e694dbe2",
+      "ref": "1.55-56"
+    },
+    {
+      "id": "a5d392a5-d1ee-5417-b838-bd8929c80750",
+      "ref": "1.56"
+    },
+    {
+      "id": "074d8836-e618-57af-9049-8c0bf04be156",
+      "ref": "1.57-58",
+      "title": "The assembly gathers"
+    },
+    {
+      "id": "3eb8e762-3112-5624-8289-31dca38f3b2a",
+      "ref": "1.58"
+    },
+    {
+      "id": "f8109070-d328-5c58-890d-b0885df16866",
+      "ref": "1.59-61",
+      "title": "Driven back home"
+    },
+    {
+      "id": "d0d1f12b-f45f-5654-8298-a2445fce22df",
+      "ref": "1.59-61",
+      "title": "War and plague"
+    },
+    {
+      "id": "4001330b-8bf0-5e31-8dca-2ca592516128",
+      "ref": "1.59-61",
+      "title": "War and plague together"
+    },
+    {
+      "id": "9d087dfc-ca3e-573e-9dca-8eee0c7316e6",
+      "ref": "1.59-67",
+      "title": "Achilles calls the assembly"
+    },
+    {
+      "id": "d18d93c6-1657-5e66-bf69-7fa8d7aaedee",
+      "ref": "1.62-63",
+      "title": "Ask a seer"
+    },
+    {
+      "id": "787ba520-59b5-56bd-8f29-5e009f6b03ae",
+      "ref": "1.62-64",
+      "title": "Seer, priest or dream-interpreter"
+    },
+    {
+      "id": "2840ecf5-f92b-5901-bddb-ce58f8e5619d",
+      "ref": "1.64-67",
+      "title": "“Lambs and unblemished goats”"
+    },
+    {
+      "id": "6015a139-9273-549a-b37a-9877f18caf83",
+      "ref": "1.64-67",
+      "title": "Achilles on the savor of lambs"
+    },
+    {
+      "id": "629c16a5-e8bf-54f7-a786-dd70672fee61",
+      "ref": "1.68-69",
+      "title": "Achilles sits, Calchas stands"
+    },
+    {
+      "id": "f4ba9e53-7f0a-588b-ad00-a9685f1dc979",
+      "ref": "1.68-70",
+      "title": "Calchas, son of Thestor"
+    },
+    {
+      "id": "ec9ea2ff-7282-54c4-a357-ba60f717a50f",
+      "ref": "1.68-72",
+      "title": "Calchas"
+    },
+    {
+      "id": "826b195b-6f5c-551d-9e2c-0d1f5b52dc7f",
+      "ref": "1.68-72",
+      "title": "Calchas introduced"
+    },
+    {
+      "id": "0cbcbf80-fe29-50a8-b30a-2db001f5d298",
+      "ref": "1.68-72",
+      "title": "Calchas rises"
+    },
+    {
+      "id": "518116f9-03eb-5055-b165-9116dda34fd9",
+      "ref": "1.68-72",
+      "title": "Calchas the seer"
+    },
+    {
+      "id": "4e633400-2002-5b08-9af7-292d9c162390",
+      "ref": "1.68-72",
+      "title": "Calchas, best of the bird-seers"
+    },
+    {
+      "id": "5c871474-2396-5049-8f69-242b2f648947",
+      "ref": "1.69"
+    },
+    {
+      "id": "d744a079-06d1-52aa-882a-328026826623",
+      "ref": "1.69-70"
+    },
+    {
+      "id": "3bb2e669-e8d6-58dc-927f-2480e171a854",
+      "ref": "1.69-72",
+      "title": "Calchas' knowledge"
+    },
+    {
+      "id": "c68cd40d-12d6-5887-94aa-1d9a152895a1",
+      "ref": "1.71"
+    },
+    {
+      "id": "55a727c2-5b74-5ed6-9549-ea8a2c4017cd",
+      "ref": "1.72-73",
+      "title": "Calchas speaks"
+    },
+    {
+      "id": "59e34ce9-3361-573b-a256-4fa73111a30e",
+      "ref": "1.74-75",
+      "title": "Calchas addresses Achilles"
+    },
+    {
+      "id": "d0cf62c3-5c7a-58e4-a72f-4a05bb27bad3",
+      "ref": "1.74-75",
+      "title": "Calchas names the wrath"
+    },
+    {
+      "id": "c4406582-af9b-5177-99db-a05fbae8e490",
+      "ref": "1.74-75",
+      "title": "Calchas names the wrath of Apollo"
+    },
+    {
+      "id": "783aa6c9-3467-593d-a22f-672ebe743ef4",
+      "ref": "1.74",
+      "title": "Dear to Zeus"
+    },
+    {
+      "id": "2cd6bf6a-a6c5-5702-9bae-afaafddc4f1b",
+      "ref": "1.75"
+    },
+    {
+      "id": "be8e0e4b-cf4a-596b-8d22-d5c00b909155",
+      "ref": "1.76-77"
+    },
+    {
+      "id": "4444e4df-c2b7-5a3e-82fb-33d172d156e2",
+      "ref": "1.78-79"
+    },
+    {
+      "id": "92002bbc-47c8-5258-9888-a029e6b7e5e1",
+      "ref": "1.78-83",
+      "title": "A king is the stronger"
+    },
+    {
+      "id": "8dbfbfc2-1cdb-5bd4-9791-f50ee99dbfc6",
+      "ref": "1.80-83",
+      "title": "A king's grudge"
+    },
+    {
+      "id": "d3652440-90d6-564f-bbe4-5ee6a0e8c4a4",
+      "ref": "1.80-83",
+      "title": "Anger and grudge"
+    },
+    {
+      "id": "50697479-23fc-5582-baed-856434e97255",
+      "ref": "1.80-83",
+      "title": "Calchas on the anger of kings"
+    },
+    {
+      "id": "b875c99c-a6e0-5780-9e42-38f09fea40c3",
+      "ref": "1.81-83",
+      "title": "A grudge in his chest"
+    },
+    {
+      "id": "07da883a-43fd-517e-9641-fbae46a650a1",
+      "ref": "1.84",
+      "title": "Answering him, swift-footed Achilles said"
+    },
+    {
+      "id": "1792af08-0d38-5a0b-af9b-6175c8f1ef57",
+      "ref": "1.85-87",
+      "title": "Speak whatever oracle you know"
+    },
+    {
+      "id": "48ed61c8-1227-5b43-9ff4-390fee881051",
+      "ref": "1.86-87",
+      "title": "Achilles swears by Apollo"
+    },
+    {
+      "id": "9ce775c7-5b9b-50b3-b0c5-fc3db8c4f390",
+      "ref": "1.86-91",
+      "title": "Achilles swears by Apollo"
+    },
+    {
+      "id": "0f20d0f6-2b31-5908-87e1-af033b3e3b69",
+      "ref": "1.88"
+    },
+    {
+      "id": "ab2b91c0-d85a-5692-94cf-86b6e83ef42a",
+      "ref": "1.88-91",
+      "title": "Achilles protects Calchas"
+    },
+    {
+      "id": "b8f26eda-901c-5136-874d-ed2bc09fb41a",
+      "ref": "1.88-91",
+      "title": "No one shall lay hands on you"
+    },
+    {
+      "id": "1c328d00-13a1-58dc-8462-b480058b2d6b",
+      "ref": "1.89-91",
+      "title": "Agamemnon's claim"
+    },
+    {
+      "id": "10431272-fdda-5d6b-889a-b5f838187ae1",
+      "ref": "1.92",
+      "title": "The noble seer takes courage"
+    },
+    {
+      "id": "c404ee97-5f02-5ebd-8196-eae5cbadd078",
+      "ref": "1.93-96",
+      "title": "The god's sorrows"
+    },
+    {
+      "id": "5140278a-5a5a-5d0c-babd-12f45ffa893c",
+      "ref": "1.93-100",
+      "title": "Calchas prescribes the hecatomb"
+    },
+    {
+      "id": "928d97fa-7aaf-5b4f-ac06-f84227d83c5e",
+      "ref": "1.93-100",
+      "title": "Calchas' prophecy"
+    },
+    {
+      "id": "b367ba0c-b4cf-5d87-b47c-8cac6fefa705",
+      "ref": "1.96",
+      "title": "The Far-Shooter has given sorrows"
+    },
+    {
+      "id": "748f2471-0845-5dd9-baec-5438aea6648d",
+      "ref": "1.97"
+    },
+    {
+      "id": "a851338d-f3c4-52d7-b72b-a704dd88c7d0",
+      "ref": "1.97-100",
+      "title": "How to appease Apollo"
+    },
+    {
+      "id": "4b9e28fc-e241-5977-a501-24abedce56af",
+      "ref": "1.97-100",
+      "title": "The god's price"
+    },
+    {
+      "id": "8ed20d5f-e256-577a-9a01-a398f5a32a97",
+      "ref": "1.97-100",
+      "title": "Unbought, unransomed"
+    },
+    {
+      "id": "99e80523-680c-5023-a09e-c6d418bd5974",
+      "ref": "1.97",
+      "title": "The plague as ruin"
+    },
+    {
+      "id": "fed5e5f4-5737-512d-80b4-9ec87a2c8559",
+      "ref": "1.98-99"
+    },
+    {
+      "id": "6ba75686-540d-5a8b-85c8-ec90d73854be",
+      "ref": "1.98-100",
+      "title": "Calchas: the girl must be returned"
+    },
+    {
+      "id": "b4f5d9d4-925f-574a-af03-e3c0a7a6c33d",
+      "ref": "1.101-102",
+      "title": "Calchas sits, Agamemnon stands"
+    },
+    {
+      "id": "60e4d3aa-29b4-58f8-8e86-4f4f202c47b0",
+      "ref": "1.101-103",
+      "title": "Agamemnon in distress"
+    },
+    {
+      "id": "dca84a4c-ccea-54f9-bfe7-9bd4f97d0cae",
+      "ref": "1.101-103",
+      "title": "The hero, son of Atreus"
+    },
+    {
+      "id": "1268706a-4af9-5914-938b-6946cfc73e41",
+      "ref": "1.101-104",
+      "title": "Agamemnon filled with fury"
+    },
+    {
+      "id": "ec02c80c-2742-5bdf-90d1-35ff07928185",
+      "ref": "1.101-104",
+      "title": "Agamemnon rises in anger"
+    },
+    {
+      "id": "407539e1-5dc0-5e69-acb2-57262a80458a",
+      "ref": "1.101-104",
+      "title": "Filled with fury"
+    },
+    {
+      "id": "51624906-2521-5194-abb1-424e82334a22",
+      "ref": "1.102"
+    },
+    {
+      "id": "e7897fe9-de29-5f2b-9e34-091af596a409",
+      "ref": "1.103-105",
+      "title": "Agamemnon's eyes"
+    },
+    {
+      "id": "d7f30265-b9f4-5dfd-8aec-00755feef565",
+      "ref": "1.106-108",
+      "title": "Agamemnon rebukes Calchas"
+    },
+    {
+      "id": "5c0f98df-257c-5401-8e3b-9f84ce3ece13",
+      "ref": "1.106-108",
+      "title": "Prophet of evils"
+    },
+    {
+      "id": "cb3065ba-a2dc-5a6e-a650-8dac71b067de",
+      "ref": "1.106-110",
+      "title": "“Prophet of evils”"
+    },
+    {
+      "id": "01467f7c-800c-5ec7-9926-92993c624ef9",
+      "ref": "1.106-110",
+      "title": "Agamemnon on the seer"
+    },
+    {
+      "id": "db40a413-5ba0-505b-a1c4-b0a1c8722e7f",
+      "ref": "1.106-110",
+      "title": "Prophet of evils"
+    },
+    {
+      "id": "a6601d59-7389-53fe-be50-053cfa173d0d",
+      "ref": "1.110",
+      "title": "The Far-Shooter brings sorrows on them"
+    },
+    {
+      "id": "19736985-c0ec-5df5-b925-c7019dd8829b",
+      "ref": "1.111-113",
+      "title": "Agamemnon's reason"
+    },
+    {
+      "id": "39dc6e33-680c-5e12-91ee-38396162f017",
+      "ref": "1.111-115",
+      "title": "Agamemnon on Clytemnestra"
+    },
+    {
+      "id": "d0132f3e-b126-51dc-83e9-5a78abb5a30a",
+      "ref": "1.111-115",
+      "title": "Agamemnon prefers Chryseis to Clytemnestra"
+    },
+    {
+      "id": "e9cf832e-4a96-5690-a837-7510ca54a33a",
+      "ref": "1.111-115",
+      "title": "Better than his wife"
+    },
+    {
+      "id": "61d54813-940e-56b6-8a6f-4ebf5e4584e1",
+      "ref": "1.111-117",
+      "title": "Agamemnon prefers"
+    },
+    {
+      "id": "366c4114-1eba-5d86-849b-07ee9cb4e4dd",
+      "ref": "1.113-115"
+    },
+    {
+      "id": "4551e19c-5eaa-545b-af58-fd529e5d6acb",
+      "ref": "1.113-115",
+      "title": "Agamemnon prefers Chryseis"
+    },
+    {
+      "id": "66f89de5-c23f-58f1-b74f-2b68898605bd",
+      "ref": "1.116-117",
+      "title": "Agamemnon: I want the people safe"
+    },
+    {
+      "id": "75fc25df-4280-58a1-a925-165260ebbeab",
+      "ref": "1.116-120",
+      "title": "Agamemnon agrees and demands"
+    },
+    {
+      "id": "6844b909-b971-5ad2-9684-41d8a60770cc",
+      "ref": "1.118-120",
+      "title": "Agamemnon: a prize at once"
+    },
+    {
+      "id": "5de54800-5324-5176-870f-af2c231a6571",
+      "ref": "1.121"
+    },
+    {
+      "id": "29e9c380-725c-58be-a5eb-f15349dd7651",
+      "ref": "1.121",
+      "title": "Brilliant swift-footed Achilles answers"
+    },
+    {
+      "id": "21e7a914-2b5f-550e-9038-e136d580e253",
+      "ref": "1.122"
+    },
+    {
+      "id": "2860e5c5-2a8f-5daf-907b-41f24f69f7b8",
+      "ref": "1.122-123",
+      "title": "Achilles answers Agamemnon"
+    },
+    {
+      "id": "a798e9d4-2b7f-5fbe-a255-c51201e3f688",
+      "ref": "1.122-126",
+      "title": "Achilles on the division of the spoils"
+    },
+    {
+      "id": "57820f3f-204d-5568-85ec-bea9f4b2bb23",
+      "ref": "1.122",
+      "title": "Most glorious, most covetous"
+    },
+    {
+      "id": "baf7ebb4-0711-5579-a3a6-f032948cbbea",
+      "ref": "1.123"
+    },
+    {
+      "id": "ed226a28-3b71-5872-98ee-e2e9e9d98812",
+      "ref": "1.123-124",
+      "title": "How will the Achaeans give you a prize?"
+    },
+    {
+      "id": "79f9c6eb-b42d-5e38-a106-065f6e467dfa",
+      "ref": "1.123-126",
+      "title": "Achilles: nothing left to give"
+    },
+    {
+      "id": "14040c8f-8e16-5bb7-99d0-f63203a3fb99",
+      "ref": "1.123-129",
+      "title": "No common store"
+    },
+    {
+      "id": "1a08e37e-088d-5021-8a79-04b1b803e131",
+      "ref": "1.125"
+    },
+    {
+      "id": "08e196bb-25c6-505c-862e-04697d422add",
+      "ref": "1.125-126"
+    },
+    {
+      "id": "60b3310f-0ca2-55a0-893f-9710a9554f31",
+      "ref": "1.127-129",
+      "title": "If Zeus grants us to sack well-walled Troy"
+    },
+    {
+      "id": "e9c32cec-b3eb-502f-8cce-e4cf22050c7a",
+      "ref": "1.128-129"
+    },
+    {
+      "id": "8f9cacde-10fe-59bf-b97a-924955e47ca1",
+      "ref": "1.130",
+      "title": "Answering him, powerful Agamemnon said"
+    },
+    {
+      "id": "085a1a7f-1ee9-54e5-bd6a-fbc4c760b5e2",
+      "ref": "1.131"
+    },
+    {
+      "id": "2258dca5-d914-5ae6-85b9-162dfa400052",
+      "ref": "1.131-132",
+      "title": "Agamemnon refuses to be tricked"
+    },
+    {
+      "id": "3bdf4acd-8bdb-502e-a437-b8bab9a524a0",
+      "ref": "1.131-132",
+      "title": "Do not steal a march on me"
+    },
+    {
+      "id": "299817f5-ffbb-505d-9c4c-20bedcc43961",
+      "ref": "1.135-136",
+      "title": "If the Achaeans will give me a prize"
+    },
+    {
+      "id": "583415ea-0425-517c-bd62-404ac0c77774",
+      "ref": "1.135-137",
+      "title": "If the Achaeans give me a prize —"
+    },
+    {
+      "id": "16e2f5ac-346c-572c-a304-1fb176db8753",
+      "ref": "1.137-139"
+    },
+    {
+      "id": "7206c10c-f85e-59b2-bef4-3927a18f4773",
+      "ref": "1.141-144",
+      "title": "Let us drag a black ship down to the shining sea"
+    },
+    {
+      "id": "12f862e3-d8b3-53d6-b3d2-addcb2b37d7d",
+      "ref": "1.144-146"
+    },
+    {
+      "id": "d30a30a7-d607-5f09-93a0-1907ce9c30c3",
+      "ref": "1.144-147",
+      "title": "Agamemnon names the possible commanders"
+    },
+    {
+      "id": "684f8632-dc33-5178-8115-f5f38e754f8d",
+      "ref": "1.144-147",
+      "title": "Let one man of counsel command"
+    },
+    {
+      "id": "8943f5f8-f653-511b-a490-cec450e0efcc",
+      "ref": "1.146"
+    },
+    {
+      "id": "1d5af7e4-0464-5ee1-8bae-af78add57f62",
+      "ref": "1.146-147",
+      "title": "To appease the Far-Worker"
+    },
+    {
+      "id": "61b9514d-f8f4-5b43-bf55-774d7be97a2c",
+      "ref": "1.148-149",
+      "title": "Achilles looks darkly at Agamemnon"
+    },
+    {
+      "id": "58cc5ecc-f147-564f-b1b0-dda005cc456d",
+      "ref": "1.148-151",
+      "title": "Achilles' first outburst"
+    },
+    {
+      "id": "4d796167-872c-54e1-9c9e-a6d30d6eae32",
+      "ref": "1.149-151",
+      "title": "Clothed in shamelessness"
+    },
+    {
+      "id": "dee4bbce-e52f-5e5f-b081-15b344969da3",
+      "ref": "1.152-153",
+      "title": "Not because of the Trojan spearmen"
+    },
+    {
+      "id": "6b30e14b-7e22-501d-8c5e-7c93953347e2",
+      "ref": "1.152-157",
+      "title": "“They never drove off my cattle”"
+    },
+    {
+      "id": "7e1e334a-5c26-5361-9081-99cde7e4b57d",
+      "ref": "1.152-157",
+      "title": "Achilles has no quarrel with the Trojans"
+    },
+    {
+      "id": "4834ee70-0a92-5749-ad1a-d22916aaf767",
+      "ref": "1.152-157",
+      "title": "Why Achilles fights"
+    },
+    {
+      "id": "9c0f84f3-8bab-54d7-b3f3-13215574b17f",
+      "ref": "1.152-160",
+      "title": "“They never drove off my cattle”"
+    },
+    {
+      "id": "2a3687b1-9562-582c-b239-6a91648e3855",
+      "ref": "1.152-160",
+      "title": "Achilles on why he came to Troy"
+    },
+    {
+      "id": "c1f13262-74a7-5fbc-9240-f87b6f43434e",
+      "ref": "1.152-160",
+      "title": "Why Achilles came to Troy"
+    },
+    {
+      "id": "7fec6979-db86-5dd6-aaeb-02271fe3d072",
+      "ref": "1.154-157",
+      "title": "Cattle and horses"
+    },
+    {
+      "id": "9cad1330-71d6-5e71-bf40-75b03d97b291",
+      "ref": "1.154-157",
+      "title": "The Trojans never harmed me"
+    },
+    {
+      "id": "06e971bc-8f74-5665-80b7-158e4521dd17",
+      "ref": "1.154-157",
+      "title": "The Trojans never ravaged my harvest"
+    },
+    {
+      "id": "5fcc8156-0532-5730-a631-02ea2eabc6cd",
+      "ref": "1.155-157"
+    },
+    {
+      "id": "119775e7-7007-5efd-ae95-23e7475265d4",
+      "ref": "1.155-157",
+      "title": "In deep-soiled Phthia, nurse of men"
+    },
+    {
+      "id": "5e411674-e4e2-5bbf-ba6e-bd08b1660620",
+      "ref": "1.155-157",
+      "title": "Mountains and sea between"
+    },
+    {
+      "id": "a2b8d071-a4e8-5e97-b537-22ac2abe663d",
+      "ref": "1.157"
+    },
+    {
+      "id": "421c2b46-549c-5e20-a285-308b750a166d",
+      "ref": "1.158-160",
+      "title": "“Dog-face”"
+    },
+    {
+      "id": "11a34307-3361-54f4-928a-c633d70082b8",
+      "ref": "1.158-160",
+      "title": "For Menelaus' sake"
+    },
+    {
+      "id": "0096b580-5be9-5593-b60c-1174cf069218",
+      "ref": "1.158-160",
+      "title": "Satisfaction for Menelaus"
+    },
+    {
+      "id": "36c21eb8-c1e1-5c2b-8166-87bc999d042d",
+      "ref": "1.158-160",
+      "title": "We came for your sake, dog-face"
+    },
+    {
+      "id": "5dc1d698-15c2-58e7-9760-af583b5366f8",
+      "ref": "1.158-160",
+      "title": "We followed you, shameless one"
+    },
+    {
+      "id": "9c645fc6-12c6-5d1d-bd5b-2909ef4fd1ce",
+      "ref": "1.158-160",
+      "title": "You utterly shameless one"
+    },
+    {
+      "id": "96b00c28-bc8e-5c85-be9f-b70c2a30082a",
+      "ref": "1.161-162",
+      "title": "The prize the sons of the Achaeans gave me"
+    },
+    {
+      "id": "edb222b8-2162-5793-9ff6-220694765a0c",
+      "ref": "1.163-164"
+    },
+    {
+      "id": "a751e124-801c-5049-9c75-42d0d98d38da",
+      "ref": "1.163-164",
+      "title": "Never a prize equal to yours"
+    },
+    {
+      "id": "a0813403-3668-515b-a4e0-dc13b6884197",
+      "ref": "1.163-168",
+      "title": "Achilles' complaint"
+    },
+    {
+      "id": "36c2072e-46e4-5381-8bcf-816c37f86de8",
+      "ref": "1.163-168",
+      "title": "Unequal shares"
+    },
+    {
+      "id": "fc70876d-1cf9-5130-a06e-ea30786fc9ad",
+      "ref": "1.169-171"
+    },
+    {
+      "id": "cdba331b-989e-545e-966c-6f0b0945ba6c",
+      "ref": "1.169-171",
+      "title": "Achilles will go home to Phthia"
+    },
+    {
+      "id": "68b19839-4949-5478-a95d-f010beaf0b23",
+      "ref": "1.169-171",
+      "title": "Achilles: I will go to Phthia"
+    },
+    {
+      "id": "8e546bc4-545d-5cab-abfb-179d3e301c5c",
+      "ref": "1.172"
+    },
+    {
+      "id": "01a5a532-8836-5311-bf5a-09a62745d193",
+      "ref": "1.172",
+      "title": "Then Agamemnon, lord of men, answered him"
+    },
+    {
+      "id": "5b1bd100-0b94-517c-abaf-e43ebcd07b90",
+      "ref": "1.173-175",
+      "title": "Agamemnon: Zeus will honor me"
+    },
+    {
+      "id": "c017ba0d-29c6-50ed-996b-dbcb36af6412",
+      "ref": "1.175"
+    },
+    {
+      "id": "e6b47a75-7802-5b64-bdf2-4f6fe8b1a16f",
+      "ref": "1.176-177",
+      "title": "Agamemnon: strife is dear to you"
+    },
+    {
+      "id": "159f2613-aa27-530f-874c-4e1e9c1da24b",
+      "ref": "1.176-177",
+      "title": "What is dear to you"
+    },
+    {
+      "id": "dd7d76f9-2011-5e4e-b482-bebbf82c121b",
+      "ref": "1.176-178",
+      "title": "Agamemnon on Achilles"
+    },
+    {
+      "id": "14a2cd16-1b2c-5cd6-8a37-e69db0aee75b",
+      "ref": "1.176-178",
+      "title": "Of all the kings you are the most hateful"
+    },
+    {
+      "id": "1b40b17a-1ef0-5382-9398-f2b0a34d6773",
+      "ref": "1.178"
+    },
+    {
+      "id": "e51df9ae-ed22-5b10-aacc-b2ce6dc44d18",
+      "ref": "1.179-180"
+    },
+    {
+      "id": "72dacd98-c076-57ea-87e1-af753d30b092",
+      "ref": "1.180-181",
+      "title": "Agamemnon on Achilles' resentment"
+    },
+    {
+      "id": "4c2f8dcf-f335-55bd-8092-c1059e3d6740",
+      "ref": "1.182-185",
+      "title": "Agamemnon will take Briseis"
+    },
+    {
+      "id": "587e7ab4-d49f-5c96-b839-00fbc985c80d",
+      "ref": "1.184-187",
+      "title": "Agamemnon names Briseis"
+    },
+    {
+      "id": "7a6d3d95-b9dd-505e-8983-fd1550a89bdc",
+      "ref": "1.188-189",
+      "title": "Grief comes upon Achilles"
+    },
+    {
+      "id": "63e816fe-216a-579c-b8cf-387822bce1fa",
+      "ref": "1.188-189",
+      "title": "Grief comes upon the son of Peleus"
+    },
+    {
+      "id": "813cea62-096d-54d7-9cde-06d838f83f06",
+      "ref": "1.188-189",
+      "title": "Within his shaggy chest"
+    },
+    {
+      "id": "c516dea4-2d1e-59ff-9ef7-e09a032e1069",
+      "ref": "1.188-192",
+      "title": "Achilles ponders whether to kill Agamemnon"
+    },
+    {
+      "id": "8031e0a0-b5e5-5727-b9bb-46202ec4492d",
+      "ref": "1.188-192",
+      "title": "Kill him, or check his anger"
+    },
+    {
+      "id": "2fdf113e-dcdf-53b5-b541-da2e157916e0",
+      "ref": "1.188-192",
+      "title": "Torn two ways"
+    },
+    {
+      "id": "5eb3e8ba-c93a-56bf-b6cc-c025f3361962",
+      "ref": "1.188-194",
+      "title": "Achilles ponders whether to kill Agamemnon"
+    },
+    {
+      "id": "0bb7e262-87ee-5871-8a31-044c537bb731",
+      "ref": "1.188-194",
+      "title": "Kill him, or check his anger"
+    },
+    {
+      "id": "51f32a08-b601-58bd-a377-5619f0692b4b",
+      "ref": "1.188-194",
+      "title": "Mind and heart"
+    },
+    {
+      "id": "b485c2e3-8a51-5d8d-815e-3b7920979a60",
+      "ref": "1.188-195",
+      "title": "Achilles begins to draw"
+    },
+    {
+      "id": "13f96253-d3c0-51c1-b57b-81fd2a910467",
+      "ref": "1.188-200",
+      "title": "Achilles draws his sword"
+    },
+    {
+      "id": "107d25e0-78cc-5551-87d0-029244305196",
+      "ref": "1.193-200",
+      "title": "Athena appears to Achilles"
+    },
+    {
+      "id": "793bfcc2-3317-5553-b4d9-cfd33ac1a4fe",
+      "ref": "1.193-200",
+      "title": "Athena seizes Achilles"
+    },
+    {
+      "id": "b98de796-cb17-562e-a5e2-56276bbe59e0",
+      "ref": "1.194"
+    },
+    {
+      "id": "61f5109d-53dd-5fba-b40c-470fde0d9580",
+      "ref": "1.194-195"
+    },
+    {
+      "id": "1ca9372b-abb8-5da2-aaae-5e16b28a1687",
+      "ref": "1.197"
+    },
+    {
+      "id": "54becdfe-85bc-5c20-9c60-f0026c88fde3",
+      "ref": "1.197-198",
+      "title": "Athena seizes Achilles by the hair"
+    },
+    {
+      "id": "42fc11e1-fd07-59e4-b5c7-7b5d7b4fdbaf",
+      "ref": "1.197-200",
+      "title": "Achilles recognizes Athena"
+    },
+    {
+      "id": "602192bc-858b-55bf-822c-e34fcec2eef9",
+      "ref": "1.197-200",
+      "title": "Athena seizes Achilles by the hair"
+    },
+    {
+      "id": "3be54658-bb4d-5761-8329-20f4794997e4",
+      "ref": "1.199-200"
+    },
+    {
+      "id": "cbabcd5b-39c5-5a25-b58f-88634fb20dd9",
+      "ref": "1.199-200",
+      "title": "Achilles recognizes Pallas Athena"
+    },
+    {
+      "id": "dd63c74f-fa7f-50b7-ad62-2ff959d7f7f8",
+      "ref": "1.199-205",
+      "title": "Achilles turns and knows Athena"
+    },
+    {
+      "id": "df564846-00f2-5a88-8c3b-e7826180d234",
+      "ref": "1.201-202",
+      "title": "Why have you come, child of aegis-bearing Zeus?"
+    },
+    {
+      "id": "7b11a50a-7ee4-594c-ae7b-5c8eda34c4b9",
+      "ref": "1.201-205",
+      "title": "Achilles addresses Athena"
+    },
+    {
+      "id": "83e86b0c-261c-56f7-972d-15a5e0aa5ef5",
+      "ref": "1.202"
+    },
+    {
+      "id": "56b0e460-ce37-58d6-9529-f72572caedca",
+      "ref": "1.202-205",
+      "title": "Achilles to Athena"
+    },
+    {
+      "id": "57afadf8-c907-58df-a626-7d88fc10d0f1",
+      "ref": "1.204-205",
+      "title": "Achilles: I think it will be fulfilled"
+    },
+    {
+      "id": "7c7ea3f7-3fa1-52f2-ba62-c27947d8b440",
+      "ref": "1.206"
+    },
+    {
+      "id": "f7e234bd-908e-5189-add0-a9ab8f7b7499",
+      "ref": "1.206-209",
+      "title": "Athena answers Achilles"
+    },
+    {
+      "id": "0777f88c-f2dd-5d04-8d86-1d9383faf80c",
+      "ref": "1.207-209",
+      "title": "Athena: the white-armed goddess Hera sent me"
+    },
+    {
+      "id": "69ff8c26-fc62-5264-8017-b0f0827e17ad",
+      "ref": "1.207-210",
+      "title": "Athena comes to stop it"
+    },
+    {
+      "id": "cedfa88f-f711-5c61-bcc8-4a6861fd5e26",
+      "ref": "1.207-214",
+      "title": "Athena's advice"
+    },
+    {
+      "id": "601dcd40-a9cd-5f86-8c96-6877243ba7bf",
+      "ref": "1.207-218",
+      "title": "Athena and Achilles"
+    },
+    {
+      "id": "bd4a0149-6797-5f52-9e28-4f7e893b0a17",
+      "ref": "1.207-218",
+      "title": "Athena persuades Achilles"
+    },
+    {
+      "id": "57be2fec-5a6e-5e24-ab28-83fceba92a6e",
+      "ref": "1.210-211",
+      "title": "Reproach him with words"
+    },
+    {
+      "id": "62e76069-16d2-506c-8b1e-af0436f9981d",
+      "ref": "1.210-211",
+      "title": "Words instead of the sword"
+    },
+    {
+      "id": "a83412e7-0dea-5882-8775-a32d2d7ff4a2",
+      "ref": "1.210-214",
+      "title": "Words instead of the sword"
+    },
+    {
+      "id": "08780e90-a161-5577-8980-72cbe46563e2",
+      "ref": "1.211-214",
+      "title": "Athena's promise"
+    },
+    {
+      "id": "0d7d40ff-20aa-51e8-84e9-216e3910c4cc",
+      "ref": "1.211-214",
+      "title": "Three times as many gifts"
+    },
+    {
+      "id": "9ed696b2-1b14-5933-b27f-75f3c53719bd",
+      "ref": "1.212-214",
+      "title": "Athena: it will come to pass"
+    },
+    {
+      "id": "651ad229-1bb8-5124-a29c-b782c985cf5e",
+      "ref": "1.212-214",
+      "title": "Athena: it will surely come to pass"
+    },
+    {
+      "id": "12990fc4-72d0-57c1-8324-f833dfc03b11",
+      "ref": "1.216-218",
+      "title": "Achilles obeys Athena"
+    },
+    {
+      "id": "7743a6f0-eea7-5ed1-81cc-f3824bfe5913",
+      "ref": "1.216-218",
+      "title": "Obeying in anger"
+    },
+    {
+      "id": "05a8cc68-32b3-5445-bd56-c4a6b154b375",
+      "ref": "1.219-220"
+    },
+    {
+      "id": "eedaec2f-9e8c-5e95-a6ef-a4fc6856197e",
+      "ref": "1.219-221",
+      "title": "The sword goes back"
+    },
+    {
+      "id": "1e29046a-1cfa-5496-b38a-f2ac179fdd7c",
+      "ref": "1.220"
+    },
+    {
+      "id": "eb33f30e-1698-5f75-942c-2f81fcf92ffb",
+      "ref": "1.221-222"
+    },
+    {
+      "id": "a42ee117-c968-57da-a4f7-a8e52cedb3d3",
+      "ref": "1.221-222",
+      "title": "Athena returns to Olympus"
+    },
+    {
+      "id": "03bcde88-1b7b-5c74-a060-8268b522edf6",
+      "ref": "1.221-222",
+      "title": "Athena returns to the gods"
+    },
+    {
+      "id": "3773415d-b673-5707-b439-051caddcf24e",
+      "ref": "1.222"
+    },
+    {
+      "id": "c6576198-0380-5ca7-b340-e51b63a7239d",
+      "ref": "1.223-224",
+      "title": "Harsh words"
+    },
+    {
+      "id": "b1b5199c-336c-5984-a77d-5ff57f85d9aa",
+      "ref": "1.225-228",
+      "title": "“Never on ambush”"
+    },
+    {
+      "id": "f6f786dc-f769-511a-993b-bf95a3c926cc",
+      "ref": "1.225-228",
+      "title": "“The heart of a deer”"
+    },
+    {
+      "id": "feae1f8f-c877-5534-a42c-068656b9245c",
+      "ref": "1.225-228",
+      "title": "“Wine-sodden drunk”"
+    },
+    {
+      "id": "9eefc569-d9e0-5d74-a691-b6c28e82b3f1",
+      "ref": "1.225-228",
+      "title": "Achilles insults Agamemnon"
+    },
+    {
+      "id": "84c191ed-85e7-5552-858c-4aafa937606a",
+      "ref": "1.225-228",
+      "title": "Achilles' second outburst"
+    },
+    {
+      "id": "fdf96563-8a53-5bef-8efa-7a2027967008",
+      "ref": "1.225-228",
+      "title": "It looks like death to you"
+    },
+    {
+      "id": "19e7913b-3269-5f8d-841b-23bf303ad812",
+      "ref": "1.225-228",
+      "title": "The heart of a deer"
+    },
+    {
+      "id": "b0be40fd-4d4b-5b65-850e-c4be54ebbff3",
+      "ref": "1.225-228",
+      "title": "The insults"
+    },
+    {
+      "id": "08040c89-a364-58ec-839b-7d64eaa76706",
+      "ref": "1.225-231",
+      "title": "Achilles insults Agamemnon"
+    },
+    {
+      "id": "04dd31fc-f487-52cf-8914-893d4ff75565",
+      "ref": "1.225-231",
+      "title": "The insults"
+    },
+    {
+      "id": "c1c3c45e-e251-5961-95aa-32a8015d3a2a",
+      "ref": "1.229-231",
+      "title": "Stripping the gifts"
+    },
+    {
+      "id": "20d90042-760f-596c-bf73-a35e9a0c3da9",
+      "ref": "1.229-232",
+      "title": "A people-devouring king"
+    },
+    {
+      "id": "2384adb6-bc16-5f50-a692-7e283a0ae955",
+      "ref": "1.229-232",
+      "title": "People-devouring king"
+    },
+    {
+      "id": "0e45bb8c-d0dc-5045-b8b5-fa63fc6cec2a",
+      "ref": "1.231-232",
+      "title": "Otherwise this insult would be your last"
+    },
+    {
+      "id": "02bbefd5-c74b-5a6f-916e-1fd754d9e5e5",
+      "ref": "1.233-239",
+      "title": "Achilles swears by the scepter"
+    },
+    {
+      "id": "422c8743-f485-5542-a68a-56a24331cbca",
+      "ref": "1.233-239",
+      "title": "The oath on the scepter"
+    },
+    {
+      "id": "b6425234-44d5-5f66-81f2-080c42e206a4",
+      "ref": "1.233-244",
+      "title": "Achilles' oath on the scepter"
+    },
+    {
+      "id": "1b73d328-2188-54c3-8c30-379e02d1134c",
+      "ref": "1.233-244",
+      "title": "The great oath"
+    },
+    {
+      "id": "4b6b4160-bde4-5709-8bec-4e9b312f7fd2",
+      "ref": "1.233-246",
+      "title": "The oath by the scepter"
+    },
+    {
+      "id": "7a56530f-f5fb-5efe-ae5e-1cc39b0dfb0c",
+      "ref": "1.234-237",
+      "title": "Stripped by the bronze"
+    },
+    {
+      "id": "6800bbc5-7be5-5618-9ea0-a284361f8aad",
+      "ref": "1.238-239"
+    },
+    {
+      "id": "ee051648-367b-5173-91a0-75535c70c8dd",
+      "ref": "1.240-242",
+      "title": "Achilles' oath"
+    },
+    {
+      "id": "2aaccd36-6875-5b46-8557-6e36049144fe",
+      "ref": "1.240-243",
+      "title": "Achilles: you will be powerless to help"
+    },
+    {
+      "id": "3150434f-2166-5dc6-9da0-2e1c819220ac",
+      "ref": "1.240-243",
+      "title": "For all your grief"
+    },
+    {
+      "id": "c2dd9e17-c98d-53e4-8f6a-9dacda2e7a9c",
+      "ref": "1.240-244",
+      "title": "Achilles' claim"
+    },
+    {
+      "id": "32bf3f32-ab12-5dda-bb11-10b5d2fe4f77",
+      "ref": "1.240-244",
+      "title": "Achilles' oath"
+    },
+    {
+      "id": "d0e8ae10-5bdf-5ab2-8730-80ee386211eb",
+      "ref": "1.240-244",
+      "title": "Achilles' oath: the Achaeans will long for him"
+    },
+    {
+      "id": "ec426392-a9fc-53bb-97e5-7752debc5002",
+      "ref": "1.245-246"
+    },
+    {
+      "id": "945a4d36-6ed2-5c95-9678-9440f63029ba",
+      "ref": "1.245-247",
+      "title": "Achilles flings down the scepter"
+    },
+    {
+      "id": "203760cc-180a-59bd-8219-35b0738ed561",
+      "ref": "1.245-247",
+      "title": "Agamemnon nurses his wrath"
+    },
+    {
+      "id": "04e146fb-f34a-51ee-a642-191bb5855dde",
+      "ref": "1.247-249",
+      "title": "Nestor rises"
+    },
+    {
+      "id": "24b70433-3226-52fc-81b1-78beba817c48",
+      "ref": "1.247-249",
+      "title": "Nestor rises to speak"
+    },
+    {
+      "id": "7520a570-2b7c-5c09-83ec-4417bf81ed00",
+      "ref": "1.247-252",
+      "title": "Nestor rises"
+    },
+    {
+      "id": "b2e867e1-8f01-58be-b69f-dcd8a8de3710",
+      "ref": "1.250-252"
+    },
+    {
+      "id": "dd9be6f9-e43e-59b3-9093-e57b2633665e",
+      "ref": "1.250-252",
+      "title": "Nestor has outlived two generations"
+    },
+    {
+      "id": "0b90c7af-6e9e-569b-9d5c-62d62a310ebb",
+      "ref": "1.250-252",
+      "title": "Nestor has ruled through three generations"
+    },
+    {
+      "id": "3b6c4734-00f9-547c-bf71-c845b1b41e4e",
+      "ref": "1.252-253",
+      "title": "Nestor speaks"
+    },
+    {
+      "id": "554cf16d-1557-5fab-8232-2d7c14b5d841",
+      "ref": "1.254"
+    },
+    {
+      "id": "6f2241a0-b720-52d3-b8a6-cec868e74268",
+      "ref": "1.254-256",
+      "title": "Nestor: great sorrow is coming on Achaea"
+    },
+    {
+      "id": "cd0a7418-e678-5cac-9d0c-c83a096c23c2",
+      "ref": "1.254-258",
+      "title": "First in counsel"
+    },
+    {
+      "id": "6ee9072a-18fa-50b9-9414-7940086a484d",
+      "ref": "1.254-258",
+      "title": "How Priam would rejoice"
+    },
+    {
+      "id": "f764f706-daa8-5fd8-9fb4-bd73dca597be",
+      "ref": "1.254-258",
+      "title": "Nestor's cry"
+    },
+    {
+      "id": "bbcbdd97-aba3-5f1f-bbfc-2a8ad4c13b05",
+      "ref": "1.255-256"
+    },
+    {
+      "id": "c6a8eeb9-d014-5817-9b7c-01c6c21cb99b",
+      "ref": "1.255-257"
+    },
+    {
+      "id": "dac371f9-8e1a-5207-af03-c8fd20cf0db5",
+      "ref": "1.259-274",
+      "title": "Nestor: obey, since it is better to obey"
+    },
+    {
+      "id": "8ce9109f-39dc-56b9-9e3e-5c482e6e4548",
+      "ref": "1.260-273",
+      "title": "Men better than you"
+    },
+    {
+      "id": "62440dba-bb59-5316-aa0a-b6d83385cbf7",
+      "ref": "1.260-273",
+      "title": "Nestor and the Centaurs"
+    },
+    {
+      "id": "e1f10bd2-9ead-5161-ad2b-daa4ec1de234",
+      "ref": "1.262-264",
+      "title": "Peirithous and Dryas, shepherd of the people"
+    },
+    {
+      "id": "2719b79b-c030-5e40-aeae-2360370d0123",
+      "ref": "1.262-265",
+      "title": "Nestor's heroes"
+    },
+    {
+      "id": "868930aa-7f17-5c23-b159-5d1b2bbbb2da",
+      "ref": "1.262-265",
+      "title": "Nestor's list of heroes"
+    },
+    {
+      "id": "aedce5be-6be0-56c7-a314-ed2d1992ca5d",
+      "ref": "1.262-265",
+      "title": "The heroes of Nestor's youth"
+    },
+    {
+      "id": "a57bcc25-4293-5dc4-8b0b-e5c322bbb110",
+      "ref": "1.262-268",
+      "title": "The heroes of Nestor's youth"
+    },
+    {
+      "id": "782e5b2f-3fb3-5d58-a629-9e571aa62b7e",
+      "ref": "1.263"
+    },
+    {
+      "id": "16abb1ea-4013-5722-a08f-13cb06250cbe",
+      "ref": "1.263-265",
+      "title": "Nestor names the heroes of his youth"
+    },
+    {
+      "id": "8cb6eb9f-2332-5e81-b6ca-70cfaa27e076",
+      "ref": "1.264"
+    },
+    {
+      "id": "0d08921d-4e01-585d-b51e-cee8b79e377d",
+      "ref": "1.265",
+      "title": "The Theseus line"
+    },
+    {
+      "id": "f8911627-9361-5cdd-b709-b75841ae189d",
+      "ref": "1.265",
+      "title": "Theseus, son of Aegeus"
+    },
+    {
+      "id": "671ad107-a990-5581-ab36-087c845927a7",
+      "ref": "1.266-268",
+      "title": "The mightiest fought against the mightiest"
+    },
+    {
+      "id": "4b566c6a-fe52-52b8-8002-35217903558e",
+      "ref": "1.266-268",
+      "title": "The mightiest fought the mightiest"
+    },
+    {
+      "id": "9ce84035-7874-5791-856c-1526bde35b3c",
+      "ref": "1.266-268",
+      "title": "The mightiest men against the mightiest beasts"
+    },
+    {
+      "id": "5d5f221c-bfa5-537a-9611-7c7a37ee3f3c",
+      "ref": "1.266-268",
+      "title": "The mightiest men raised on earth"
+    },
+    {
+      "id": "b31ec9d9-8c86-58ba-a7ca-97fb0f9eb0f4",
+      "ref": "1.269-270"
+    },
+    {
+      "id": "ecb4c3af-5472-52e7-addb-1da0b44f4883",
+      "ref": "1.269-271",
+      "title": "Nestor came from far away"
+    },
+    {
+      "id": "43b1895d-d559-5ef7-8057-63088e719d41",
+      "ref": "1.271-272",
+      "title": "No one now on earth could fight them"
+    },
+    {
+      "id": "df86957a-826b-5d1d-9e84-52c77f03902f",
+      "ref": "1.271-274",
+      "title": "They heeded my counsel"
+    },
+    {
+      "id": "42ed4021-f0c8-502c-aa8a-39d973f398fc",
+      "ref": "1.273-274",
+      "title": "Better to obey"
+    },
+    {
+      "id": "e1cc38fa-3f97-52b4-b9e7-5524c2ed9d38",
+      "ref": "1.273-274",
+      "title": "Obey me"
+    },
+    {
+      "id": "c2ca65e6-f432-5d75-a26c-905c18cbf9df",
+      "ref": "1.273-274",
+      "title": "So you too obey"
+    },
+    {
+      "id": "e42705bc-3601-5f13-8c7f-c021ffabb115",
+      "ref": "1.275-284",
+      "title": "Nestor weighs the two"
+    },
+    {
+      "id": "a4e97bad-bdc2-5fce-88c4-9ffbdc2d4b2f",
+      "ref": "1.275-284",
+      "title": "Nestor's advice to both"
+    },
+    {
+      "id": "61fe4540-fc21-5739-86ce-b33d8cfe12c3",
+      "ref": "1.277-279",
+      "title": "A share of honor"
+    },
+    {
+      "id": "8fcb2ba6-e97c-5f56-a2c0-932c3112f138",
+      "ref": "1.277-279",
+      "title": "The king to whom Zeus gave glory"
+    },
+    {
+      "id": "e0ab0ff5-13c6-51a8-981d-8b70cc60c253",
+      "ref": "1.277-281",
+      "title": "He rules over more"
+    },
+    {
+      "id": "56007caf-8888-557e-8716-089111f36532",
+      "ref": "1.277-281",
+      "title": "Nestor on the scepter-bearing king"
+    },
+    {
+      "id": "c3ff783c-d2ea-53cc-b7c0-95acf19e5543",
+      "ref": "1.277-281",
+      "title": "Nestor to Achilles: do not strive with a king"
+    },
+    {
+      "id": "51d08bcf-1c73-5967-9058-23cf79b8b7d3",
+      "ref": "1.277-281",
+      "title": "The scepter-bearing king"
+    },
+    {
+      "id": "5c15789f-ab27-518c-a4d8-f127771989af",
+      "ref": "1.278-279"
+    },
+    {
+      "id": "a6f77150-33f6-5182-89c2-433d10204a2a",
+      "ref": "1.280"
+    },
+    {
+      "id": "6672ee30-ef65-5f4f-a1c7-3b8154a4c849",
+      "ref": "1.282-284",
+      "title": "Nestor to Agamemnon"
+    },
+    {
+      "id": "5e46c43c-4f22-5625-bc45-4a5901b6a70b",
+      "ref": "1.285-287",
+      "title": "Agamemnon answers Nestor"
+    },
+    {
+      "id": "77d635ac-04d6-50da-bee1-e282d1526882",
+      "ref": "1.286-289",
+      "title": "Lord over all"
+    },
+    {
+      "id": "3205ba55-4a0c-5367-b288-2c5c2badec4c",
+      "ref": "1.286-289",
+      "title": "Rightly said"
+    },
+    {
+      "id": "5c22e331-9e21-54c7-90a1-2df2accf5bba",
+      "ref": "1.287-289",
+      "title": "He wants to rule over all"
+    },
+    {
+      "id": "601d94ba-4ab2-52c0-97c5-87800278e02c",
+      "ref": "1.287-289",
+      "title": "To give orders to all"
+    },
+    {
+      "id": "65c7c133-5754-5a17-a62b-bc69c4b46201",
+      "ref": "1.290"
+    },
+    {
+      "id": "ff5ea4ed-8cca-507f-bcc3-26a6644fafba",
+      "ref": "1.290-291"
+    },
+    {
+      "id": "47d71b67-ce51-5998-82e8-b2c0224ac734",
+      "ref": "1.290-291",
+      "title": "Agamemnon on Achilles the spearman"
+    },
+    {
+      "id": "7957db0b-cb98-5b60-a8b6-bc288dea4247",
+      "ref": "1.290-291",
+      "title": "Do the gods allow insults?"
+    },
+    {
+      "id": "fb741578-0f58-5b3f-939b-b0e86edbcef1",
+      "ref": "1.290-291",
+      "title": "If the gods made him a spearman"
+    },
+    {
+      "id": "e94b45a2-33e0-59cb-9e7e-9f7357d5b8d8",
+      "ref": "1.293-296",
+      "title": "I will obey you no longer"
+    },
+    {
+      "id": "1f377cda-8ffc-5e2e-8daa-439797aea0fb",
+      "ref": "1.293-296",
+      "title": "Not to me"
+    },
+    {
+      "id": "38074ae3-5eff-5a65-a0ed-6a64f8a1e9cb",
+      "ref": "1.297-300",
+      "title": "Achilles: I will not fight for the girl"
+    },
+    {
+      "id": "24c2617b-4b08-5d6a-9175-25dc5fb62f60",
+      "ref": "1.298-303",
+      "title": "Achilles' threat"
+    },
+    {
+      "id": "958feb37-ed77-57ad-b0c0-91e6ba47ae21",
+      "ref": "1.304-305",
+      "title": "Fought with hostile words"
+    },
+    {
+      "id": "0fcb2cdd-c007-5dc9-875d-5b04eac781be",
+      "ref": "1.304-305",
+      "title": "Hostile words"
+    },
+    {
+      "id": "70188a4f-f10d-539a-a2db-e57ebbb7090d",
+      "ref": "1.304-305",
+      "title": "The assembly breaks up"
+    },
+    {
+      "id": "1c14338d-e575-57b0-80bf-68f5b5388194",
+      "ref": "1.304-305",
+      "title": "The assembly dissolved"
+    },
+    {
+      "id": "a0de976c-697b-50b8-9570-f22802864ac2",
+      "ref": "1.305-307",
+      "title": "Achilles goes back to his huts and ships"
+    },
+    {
+      "id": "d78ebeff-4c18-532f-b838-4fb27dffd8fd",
+      "ref": "1.306-307"
+    },
+    {
+      "id": "5cdba278-5db4-5190-9a57-d52a9d409ef8",
+      "ref": "1.306-307",
+      "title": "Achilles goes back to his huts"
+    },
+    {
+      "id": "bcbca66a-01e9-5a1b-9ef2-74a2ce95ca85",
+      "ref": "1.308-311",
+      "title": "Odysseus sails to Chryse"
+    },
+    {
+      "id": "49684a6a-ec9e-5d97-86cb-0a6d0378e349",
+      "ref": "1.308-311",
+      "title": "Twenty oarsmen"
+    },
+    {
+      "id": "a2ac1dff-c337-51bc-9afc-7d4e41b9e2f3",
+      "ref": "1.308-312",
+      "title": "The ship sails for Chryse"
+    },
+    {
+      "id": "d944d9f6-2f85-5c6f-ad35-ce332af87ea9",
+      "ref": "1.311"
+    },
+    {
+      "id": "a49dc4c3-bae8-5f10-b17a-57e3b6ce0a72",
+      "ref": "1.311-312",
+      "title": "They embarked and sailed over the watery ways"
+    },
+    {
+      "id": "a8f99745-c27c-5f32-a767-a4eded2c18b2",
+      "ref": "1.311",
+      "title": "Odysseus goes as commander"
+    },
+    {
+      "id": "6cd2f807-2ed6-51ff-b084-e70ccea4cdec",
+      "ref": "1.311",
+      "title": "Odysseus of many wiles"
+    },
+    {
+      "id": "d1ce1437-18a2-53ac-9304-d0fd3b2a7adf",
+      "ref": "1.312-317",
+      "title": "Purification in the camp"
+    },
+    {
+      "id": "855497d1-e22b-5975-bdbc-fbc8e2d79fd5",
+      "ref": "1.313-317",
+      "title": "Bulls and goats on the shore"
+    },
+    {
+      "id": "d3c2bfdb-d464-53e3-b1d5-1ecd60c03af9",
+      "ref": "1.313-317",
+      "title": "Sacrifice on the shore"
+    },
+    {
+      "id": "9a6d3887-abbf-5d2f-abbc-09d21bb8a279",
+      "ref": "1.313-317",
+      "title": "The army purifies itself"
+    },
+    {
+      "id": "6821fc3a-400f-57c0-962f-8825372d4924",
+      "ref": "1.315-317",
+      "title": "The army's hecatombs on the shore"
+    },
+    {
+      "id": "804d7eba-d187-5d59-b3d3-f31be01751a7",
+      "ref": "1.316"
+    },
+    {
+      "id": "48f1a1ea-2de0-5994-a252-885ca1d43e72",
+      "ref": "1.317"
+    },
+    {
+      "id": "05b0aa17-019c-5d3e-a418-653415064141",
+      "ref": "1.320-321"
+    },
+    {
+      "id": "ed0cdb8f-3cb4-59e0-b3b4-a89d73960de1",
+      "ref": "1.320-322",
+      "title": "Agamemnon sends his heralds"
+    },
+    {
+      "id": "27366c73-2e5f-5ac0-9dce-142c14c490cf",
+      "ref": "1.320-325",
+      "title": "Agamemnon sends the heralds"
+    },
+    {
+      "id": "ac2b947c-e567-5efa-8e94-e13551be67ff",
+      "ref": "1.324-325",
+      "title": "Agamemnon: that will be the worse for him"
+    },
+    {
+      "id": "5220a50b-0614-53b2-93b8-530a9b375d05",
+      "ref": "1.326-327",
+      "title": "Agamemnon sends the heralds"
+    },
+    {
+      "id": "1cb77f91-4f06-5119-b48f-8be1ebfe16c6",
+      "ref": "1.326-328",
+      "title": "The heralds go along the shore"
+    },
+    {
+      "id": "9fb7c15f-6e3a-5476-ab1b-a0dd95d8b564",
+      "ref": "1.327"
+    },
+    {
+      "id": "bf702b0c-378f-5eff-a608-c541243193fa",
+      "ref": "1.327-332",
+      "title": "The heralds at Achilles' hut"
+    },
+    {
+      "id": "34ac6799-621d-586c-9840-ac207a71fbdc",
+      "ref": "1.327-336",
+      "title": "Achilles greets the heralds"
+    },
+    {
+      "id": "05ceedf0-7079-5e93-9d91-b53bce2ed6cf",
+      "ref": "1.327-336",
+      "title": "The heralds at Achilles' hut"
+    },
+    {
+      "id": "83e02d8c-2b24-5869-a17f-29ea690c076d",
+      "ref": "1.328"
+    },
+    {
+      "id": "403e9390-3318-5084-8398-734b0c2ff40f",
+      "ref": "1.329-330",
+      "title": "Achilles was not glad to see them"
+    },
+    {
+      "id": "2158de20-15a8-5d8a-af25-c0c9717bc7ed",
+      "ref": "1.329-330",
+      "title": "The heralds find Achilles by his black ship"
+    },
+    {
+      "id": "018f0906-012a-5410-bfe0-8434494d3bb1",
+      "ref": "1.331-332"
+    },
+    {
+      "id": "19486f9c-5bfc-5829-908a-8e1fc8cdb12e",
+      "ref": "1.331-334",
+      "title": "The heralds"
+    },
+    {
+      "id": "aa22d460-ff64-53db-833b-a72bb73c538f",
+      "ref": "1.334-336",
+      "title": "Achilles greets the heralds"
+    },
+    {
+      "id": "a268189f-d04d-5fba-b38a-63135575496a",
+      "ref": "1.337-338"
+    },
+    {
+      "id": "e328d3fa-f846-5d02-be24-a277aebc9262",
+      "ref": "1.337-338",
+      "title": "Achilles bids Patroclus bring out the girl"
+    },
+    {
+      "id": "00d5c5d5-c6f8-5053-8860-90f87f23fea3",
+      "ref": "1.338-340",
+      "title": "Achilles calls on witnesses"
+    },
+    {
+      "id": "f2aac3fc-9074-525e-9e02-7cf13d11f2de",
+      "ref": "1.338-342",
+      "title": "Achilles calls the heralds to witness"
+    },
+    {
+      "id": "1c174520-9ee1-599b-acc8-b761493056ba",
+      "ref": "1.338-342",
+      "title": "Let the heralds be witnesses"
+    },
+    {
+      "id": "3e012a68-d687-584b-9194-ab6d66ad184e",
+      "ref": "1.340-342"
+    },
+    {
+      "id": "525753dd-2805-5022-a6c7-447e8e67d3b5",
+      "ref": "1.340-342",
+      "title": "The need for Achilles"
+    },
+    {
+      "id": "12f468d0-42bb-52ff-ae76-a666a61d8a6b",
+      "ref": "1.340-344",
+      "title": "A ruinous mind"
+    },
+    {
+      "id": "d126eb2c-254f-599d-a09b-ed02b090dc3a",
+      "ref": "1.340-344",
+      "title": "Before and after"
+    },
+    {
+      "id": "65764e81-d8a3-5db3-93a4-4eefea90499e",
+      "ref": "1.342-344",
+      "title": "Agamemnon's blindness"
+    },
+    {
+      "id": "f2cad32a-c404-5821-9596-d2679c4f7b03",
+      "ref": "1.345-347",
+      "title": "Patroclus hands over Briseis"
+    },
+    {
+      "id": "1258be00-b64f-5332-92cc-3cfd81b31a44",
+      "ref": "1.345-348",
+      "title": "Briseis goes unwilling"
+    },
+    {
+      "id": "2d1ba724-0dfb-5386-9b00-677a0e7e6788",
+      "ref": "1.345-348",
+      "title": "Briseis is led away"
+    },
+    {
+      "id": "a2aee57d-adbf-518e-b436-bce0ac6a8204",
+      "ref": "1.345-348",
+      "title": "Briseis led from the hut"
+    },
+    {
+      "id": "47d59219-9c47-5774-b474-92186d70ff95",
+      "ref": "1.345-350",
+      "title": "The dear companion"
+    },
+    {
+      "id": "b6ab3c99-7f49-5e49-bd0c-14935850aaaf",
+      "ref": "1.348-350",
+      "title": "Achilles by the shore of the gray sea"
+    },
+    {
+      "id": "1452c14a-45ce-5bdc-a4d1-59bed955422d",
+      "ref": "1.348-351",
+      "title": "Achilles prays to his mother"
+    },
+    {
+      "id": "ee516584-4be5-51e2-8167-0d1fe3a1b7d1",
+      "ref": "1.348-351",
+      "title": "Achilles weeps"
+    },
+    {
+      "id": "ef6c27d4-0696-58ca-be4b-187a49e1ffe1",
+      "ref": "1.349-350",
+      "title": "Achilles by the sea"
+    },
+    {
+      "id": "9b088558-95a9-5caf-b1d2-e74583663031",
+      "ref": "1.349-351",
+      "title": "Achilles looks out over the boundless deep"
+    },
+    {
+      "id": "4cdebb41-7bff-5fbc-b5ff-7d09f1185f6b",
+      "ref": "1.350"
+    },
+    {
+      "id": "c18fe73f-76d2-5a14-8a2e-e5fcccfe9f61",
+      "ref": "1.351-352"
+    },
+    {
+      "id": "4a5b02ac-42a8-51c8-93d2-b39cd413e9b6",
+      "ref": "1.351-356",
+      "title": "Achilles prays to his mother"
+    },
+    {
+      "id": "cb45985e-87d4-5916-b6d6-aff910bb02ee",
+      "ref": "1.352"
+    },
+    {
+      "id": "edaf783e-9c30-5b4b-8416-5f31e095e7d9",
+      "ref": "1.352-354",
+      "title": "Achilles prays to his mother"
+    },
+    {
+      "id": "358f0f5f-d62e-5e58-b1d5-a7306fafc3e1",
+      "ref": "1.352-354",
+      "title": "Achilles to his mother"
+    },
+    {
+      "id": "dacdba9f-2c2f-5703-aa63-cc413fdac444",
+      "ref": "1.352-354",
+      "title": "Achilles: Zeus ought to have granted me honor"
+    },
+    {
+      "id": "1e4d90ee-fc8e-5b3c-8cc5-6ac50da8457b",
+      "ref": "1.352-354",
+      "title": "Mother, since you bore me"
+    },
+    {
+      "id": "353696e0-9042-5bf6-8809-a5f29743cf0c",
+      "ref": "1.352-356",
+      "title": "Achilles to his mother"
+    },
+    {
+      "id": "4fee66c9-5b1c-5c9e-b45f-705cf34865e9",
+      "ref": "1.352-356",
+      "title": "Achilles' complaint"
+    },
+    {
+      "id": "162a0ddc-8dc8-5e8a-b7df-9f3be80c5a06",
+      "ref": "1.353-354"
+    },
+    {
+      "id": "6955fd04-b89b-5432-ab9d-4d635f1003a5",
+      "ref": "1.355-356",
+      "title": "Achilles complains to Thetis"
+    },
+    {
+      "id": "a9ce00aa-311a-546a-a76b-8a18e05ccb45",
+      "ref": "1.355-356",
+      "title": "He has dishonored me"
+    },
+    {
+      "id": "c2acccb0-d262-568d-9dd1-66dc323bd7b7",
+      "ref": "1.356",
+      "title": "The injury in one line"
+    },
+    {
+      "id": "7eb1dc64-998f-5fdc-808f-db76dbafbe72",
+      "ref": "1.357-358"
+    },
+    {
+      "id": "316c4283-a76a-5c64-9cda-75279f631eaf",
+      "ref": "1.357-358",
+      "title": "His lady mother hears him"
+    },
+    {
+      "id": "2c55f231-d2cc-5255-8921-d0dfd71377c8",
+      "ref": "1.357-359",
+      "title": "Thetis rises from the gray sea like a mist"
+    },
+    {
+      "id": "1d831e3b-8c7c-57f2-9b3d-c1983b4731c6",
+      "ref": "1.357-360",
+      "title": "Thetis hears her weeping son"
+    },
+    {
+      "id": "036236a0-c681-5a18-bb7e-93ce73366bf3",
+      "ref": "1.357-362",
+      "title": "Thetis rises to comfort Achilles"
+    },
+    {
+      "id": "2d12018b-1eb2-5c68-ba68-cfdb69aefc8c",
+      "ref": "1.357-363",
+      "title": "Thetis comes"
+    },
+    {
+      "id": "f195ffe7-3958-5081-8d08-59467f833b33",
+      "ref": "1.357-363",
+      "title": "Thetis rises to comfort Achilles"
+    },
+    {
+      "id": "b42fa273-06bf-560c-9438-1dfabb644ce4",
+      "ref": "1.359"
+    },
+    {
+      "id": "23fccda7-011b-5bdb-b43b-c86635aef55a",
+      "ref": "1.360-363",
+      "title": "Thetis comforts her son"
+    },
+    {
+      "id": "7c7c852e-aaab-5004-8720-890e35d8cd98",
+      "ref": "1.362-363",
+      "title": "Do not hide it"
+    },
+    {
+      "id": "19791026-55d9-51c8-8a09-d60adef79847",
+      "ref": "1.362-363",
+      "title": "Thetis asks why her son weeps"
+    },
+    {
+      "id": "83bc7fe0-0e80-5360-b157-40adb51f8641",
+      "ref": "1.362-363",
+      "title": "Thetis' question"
+    },
+    {
+      "id": "3788fa8c-2391-5efe-93db-bda9495a7ca4",
+      "ref": "1.364-365",
+      "title": "Groaning heavily, swift-footed Achilles answers his mother"
+    },
+    {
+      "id": "017b6f83-b17d-5b53-acc1-beaf13156fbf",
+      "ref": "1.364-366",
+      "title": "Achilles answers his mother"
+    },
+    {
+      "id": "a7d1c268-f65f-5f60-9649-a046a22042d8",
+      "ref": "1.366"
+    },
+    {
+      "id": "aa442036-5e51-54e0-8580-f2c655049ad7",
+      "ref": "1.366-369",
+      "title": "The sack of Thebe"
+    },
+    {
+      "id": "25d6c03d-1740-57b8-8513-89288ea5b95e",
+      "ref": "1.366-369",
+      "title": "The spoils of Thebe"
+    },
+    {
+      "id": "6166a566-9019-5436-989e-9be6e74dd42c",
+      "ref": "1.366-369",
+      "title": "We went to Thebe, the sacred city of Eetion"
+    },
+    {
+      "id": "dfaf4f55-737c-5b02-947b-d15fc62a3c81",
+      "ref": "1.370-372",
+      "title": "Achilles retells Chryses' coming"
+    },
+    {
+      "id": "252569cd-2894-5f75-85e4-39354e3f3148",
+      "ref": "1.370-373",
+      "title": "Achilles retells Chryses' coming"
+    },
+    {
+      "id": "4222711f-5bae-5ab7-931b-8ca043137aa1",
+      "ref": "1.371-379",
+      "title": "Achilles repeats the narrator"
+    },
+    {
+      "id": "7bfc23b5-483a-51f6-acb0-5e715295e778",
+      "ref": "1.382"
+    },
+    {
+      "id": "54333287-465c-54b0-9acb-05a70ff66b19",
+      "ref": "1.384-385",
+      "title": "A seer declared the oracles of the Far-Shooter"
+    },
+    {
+      "id": "8d1dd655-df4c-5b73-838b-b01207b9b068",
+      "ref": "1.389"
+    },
+    {
+      "id": "2d5c10cf-57ae-5e9b-a249-ccd039c264f8",
+      "ref": "1.389-390",
+      "title": "Gifts to the lord"
+    },
+    {
+      "id": "0cc3cc49-670f-5a19-b748-674848e6aae5",
+      "ref": "1.389-390",
+      "title": "The Achaeans send Chryseis to Chryse"
+    },
+    {
+      "id": "9ed87b15-7166-59c2-86db-8bd5cf3cb49e",
+      "ref": "1.391-392"
+    },
+    {
+      "id": "3d9aa1fc-0f36-5531-a1eb-2eec5cf8ae7f",
+      "ref": "1.391-392",
+      "title": "The heralds led away the daughter of Briseus"
+    },
+    {
+      "id": "6f493628-faed-5645-b8e7-2e4e7400615f",
+      "ref": "1.393"
+    },
+    {
+      "id": "8f239b4b-a8a5-51e4-a382-ca7f0d1529f5",
+      "ref": "1.393-395"
+    },
+    {
+      "id": "3ee679d6-60cc-5bb8-b034-4413cba90a0b",
+      "ref": "1.393-395",
+      "title": "The heart of Zeus"
+    },
+    {
+      "id": "a873fb78-7fbb-55e9-a4d4-a7d50034233e",
+      "ref": "1.396-397"
+    },
+    {
+      "id": "f1792752-0a5c-5e9e-afff-f903868492d1",
+      "ref": "1.396-397",
+      "title": "In my father's halls"
+    },
+    {
+      "id": "db6da6f6-9650-5755-bc47-e206904e329a",
+      "ref": "1.396-398",
+      "title": "Thetis and Zeus"
+    },
+    {
+      "id": "291064b7-aa7c-5a11-82d3-6889243fc5d1",
+      "ref": "1.396-398",
+      "title": "Thetis' boast in Peleus' halls"
+    },
+    {
+      "id": "3d959868-6a87-5fb0-b732-6fda0cf72d28",
+      "ref": "1.396-406",
+      "title": "The rescue of Zeus"
+    },
+    {
+      "id": "1cb90b7f-276f-5b07-9054-f481d9240c99",
+      "ref": "1.396-406",
+      "title": "Thetis once saved Zeus"
+    },
+    {
+      "id": "c8aac059-d039-50c0-8ca3-df658cf392c4",
+      "ref": "1.396-406",
+      "title": "Thetis saves Zeus from bondage"
+    },
+    {
+      "id": "c795bbed-ba2f-5943-9894-6950a7e0debf",
+      "ref": "1.397"
+    },
+    {
+      "id": "85191c44-1917-5e3c-8f76-8238d12e77df",
+      "ref": "1.398"
+    },
+    {
+      "id": "7ae841a3-358c-5b8c-a123-0b4d0f224872",
+      "ref": "1.399-400"
+    },
+    {
+      "id": "b06d75f2-3e9b-520f-8ba4-745e27b4667b",
+      "ref": "1.399-400",
+      "title": "The gods who wished to bind Zeus"
+    },
+    {
+      "id": "87169d11-5c2f-5892-b992-990e050a900e",
+      "ref": "1.401-404",
+      "title": "Thetis summons Briareus"
+    },
+    {
+      "id": "cd4c4a22-d627-5cd6-b3f6-e8d6f25fe81e",
+      "ref": "1.401-406",
+      "title": "Briareus on Olympus"
+    },
+    {
+      "id": "764f0028-34e3-5fe4-a379-444aefc1f967",
+      "ref": "1.401-406",
+      "title": "Briareus, whom men call Aegaeon"
+    },
+    {
+      "id": "59de0407-4247-5f8c-a189-74cc17fa6a86",
+      "ref": "1.401-406",
+      "title": "Thetis summons the hundred-handed one"
+    },
+    {
+      "id": "8ed37ce9-4ced-553c-934f-a88b826a75d6",
+      "ref": "1.402"
+    },
+    {
+      "id": "14121ed4-4e16-5fe7-b7ef-252ad9b91c9b",
+      "ref": "1.404-406",
+      "title": "Briareus beside the son of Cronus"
+    },
+    {
+      "id": "6241d154-ec20-5d10-80e4-710ec750ab83",
+      "ref": "1.407-408",
+      "title": "Clasp his knees"
+    },
+    {
+      "id": "4dd5afa9-8033-5b4c-9ce6-7a90e33c200d",
+      "ref": "1.407-412",
+      "title": "Achilles' request"
+    },
+    {
+      "id": "f51cc86c-36ec-5dd4-aff7-a7ebd7d0d966",
+      "ref": "1.408-410"
+    },
+    {
+      "id": "e1709008-e736-5daa-9532-841d877156be",
+      "ref": "1.413-414"
+    },
+    {
+      "id": "97353924-7b0f-57e0-a77e-ce4f40078395",
+      "ref": "1.413-414",
+      "title": "Thetis answers in tears"
+    },
+    {
+      "id": "a2d7c2e8-fe4f-5d83-963a-893336282f17",
+      "ref": "1.413",
+      "title": "Then Thetis answered him, letting her tears fall"
+    },
+    {
+      "id": "ee00f60b-70a0-554c-b4a4-d40bcf98aa91",
+      "ref": "1.414-418",
+      "title": "Swift-fated"
+    },
+    {
+      "id": "8177126f-a070-5891-bee9-8d80c2c18630",
+      "ref": "1.414-418",
+      "title": "Thetis laments her son's fate"
+    },
+    {
+      "id": "376f719c-c3b5-5071-8c14-d3a2262bc62c",
+      "ref": "1.414-418",
+      "title": "Thetis' lament"
+    },
+    {
+      "id": "44840485-97f1-5d2e-938e-c30596917470",
+      "ref": "1.414-418",
+      "title": "Why did I raise you?"
+    },
+    {
+      "id": "5bf1c082-d60b-58e7-8589-23d9e5bb0fb7",
+      "ref": "1.415-416",
+      "title": "Tearless and unharmed"
+    },
+    {
+      "id": "e24e38ee-e9ab-5e39-af2e-5a59c4e73a5f",
+      "ref": "1.419"
+    },
+    {
+      "id": "1a74728f-7bc4-5370-8ff9-9d6f977b4aa5",
+      "ref": "1.419-420",
+      "title": "Thetis will go to snowy Olympus"
+    },
+    {
+      "id": "2c9757c2-bfa0-5e2b-b942-63fb4091974d",
+      "ref": "1.420"
+    },
+    {
+      "id": "53bf26a2-6e2b-557b-96d6-82ef9b3f3e49",
+      "ref": "1.421-422",
+      "title": "Thetis: keep up your wrath"
+    },
+    {
+      "id": "5d8d1425-21a2-571f-97a2-2870ee92caa3",
+      "ref": "1.421-422",
+      "title": "Thetis: sit by your ships and nurse your wrath"
+    },
+    {
+      "id": "dc12989d-0cdd-56cd-982f-df5359978008",
+      "ref": "1.423-424",
+      "title": "Zeus feasts with the Ethiopians"
+    },
+    {
+      "id": "9d8e7067-6d84-59d8-b0ca-65fb72d34720",
+      "ref": "1.423-425",
+      "title": "Zeus among the Ethiopians"
+    },
+    {
+      "id": "1d8a8c43-0561-5588-92c8-55be64383382",
+      "ref": "1.423-427",
+      "title": "Zeus among the Ethiopians"
+    },
+    {
+      "id": "d607afd8-ceaf-52b4-ac99-969518e3a3e2",
+      "ref": "1.425-427",
+      "title": "Thetis will go to the house of Zeus"
+    },
+    {
+      "id": "1a9fc602-185f-5271-97be-ef0fcd39e95e",
+      "ref": "1.428-430",
+      "title": "Thetis leaves Achilles grieving"
+    },
+    {
+      "id": "94ec89f5-486b-534b-bb2d-734da559202d",
+      "ref": "1.430-439",
+      "title": "Arrival at Chryse"
+    },
+    {
+      "id": "bd6293fe-865f-56f6-904c-ed63ce8e91ed",
+      "ref": "1.431-439",
+      "title": "Arrival at Chryse"
+    },
+    {
+      "id": "ced22725-9f84-5972-aeb6-4e2f94d570dd",
+      "ref": "1.432-435",
+      "title": "Arrival in the harbor"
+    },
+    {
+      "id": "ad2e2580-f008-5006-a492-49b3c88dafdf",
+      "ref": "1.433-435",
+      "title": "Lowering the mast"
+    },
+    {
+      "id": "3b11f723-c3af-5303-b428-f431fa25b35e",
+      "ref": "1.436-437",
+      "title": "Mooring at Chryse"
+    },
+    {
+      "id": "09df390d-d212-5586-8090-6c4bff359a43",
+      "ref": "1.436-439",
+      "title": "Chryseis steps out of the seafaring ship"
+    },
+    {
+      "id": "8cb93d6b-f2ca-52f2-89d1-d38c3d435361",
+      "ref": "1.436-439",
+      "title": "Out of the ship"
+    },
+    {
+      "id": "80c921cb-072a-5e37-9d1f-9ed1f2841149",
+      "ref": "1.439-447",
+      "title": "Chryseis comes home"
+    },
+    {
+      "id": "3b4ac64f-e1a5-5ac0-b122-e0ceee41bb2c",
+      "ref": "1.440-441",
+      "title": "Chryseis returned at the altar"
+    },
+    {
+      "id": "bfca3e71-6b50-5ca4-9c1e-7e376a7f948e",
+      "ref": "1.440-441",
+      "title": "Odysseus brings Chryseis to her father"
+    },
+    {
+      "id": "719598f4-9872-590d-896d-70ada39f03ea",
+      "ref": "1.440-445",
+      "title": "Odysseus speaks to Chryses"
+    },
+    {
+      "id": "d3960bed-dc14-545c-a84d-c1d48341d116",
+      "ref": "1.440-447",
+      "title": "Chryseis comes home"
+    },
+    {
+      "id": "2df1900a-c6e6-5927-a0ed-9afc3c1a4587",
+      "ref": "1.440-447",
+      "title": "In her father's arms"
+    },
+    {
+      "id": "e0201f3d-b4d0-530e-8a37-f7016695d172",
+      "ref": "1.441-447",
+      "title": "Chryseis comes home"
+    },
+    {
+      "id": "ec316561-f74e-5fb4-b908-dbd9ac17da1f",
+      "ref": "1.445"
+    },
+    {
+      "id": "d6f01317-48a8-5714-9c21-280e7b7f6bbb",
+      "ref": "1.446-449",
+      "title": "The hecatomb around the altar"
+    },
+    {
+      "id": "551adcf6-a830-5eb6-9e31-6190b24d9a15",
+      "ref": "1.447-449",
+      "title": "Taking up the barley"
+    },
+    {
+      "id": "3a5fe953-0a59-5d39-9a33-c1e137fd6bf6",
+      "ref": "1.447-449",
+      "title": "They set the holy hecatomb around the altar"
+    },
+    {
+      "id": "0aecf4d1-1793-506b-8fd1-2275966a39d9",
+      "ref": "1.447-450",
+      "title": "Washing before the prayer"
+    },
+    {
+      "id": "4f241a2b-8fbf-51a9-a40e-1c80f233ca55",
+      "ref": "1.450-457",
+      "title": "Chryses' second prayer"
+    },
+    {
+      "id": "14ed8a93-c1b4-5c9f-9a60-d6e36737fa1d",
+      "ref": "1.451-452",
+      "title": "Chryses' second prayer"
+    },
+    {
+      "id": "91625f1f-64ce-58a9-878f-1be2851091f6",
+      "ref": "1.451-456",
+      "title": "Chryses prays to end the plague"
+    },
+    {
+      "id": "74549688-d5d0-56c2-a3cb-ff2fd29fe3d0",
+      "ref": "1.451-456",
+      "title": "Chryses' second prayer"
+    },
+    {
+      "id": "668ec5b7-4bf6-5d0a-8529-971a4e97a059",
+      "ref": "1.451-456",
+      "title": "The prayer for mercy"
+    },
+    {
+      "id": "eff3a461-1f9a-562e-8983-eb2455463381",
+      "ref": "1.451-456",
+      "title": "The second prayer"
+    },
+    {
+      "id": "82b55497-3e79-5a69-8a32-056d9bf6f9c0",
+      "ref": "1.453-456",
+      "title": "You honored me"
+    },
+    {
+      "id": "9b2da0ea-742c-5f24-9b54-136f28797584",
+      "ref": "1.456"
+    },
+    {
+      "id": "4a723cb3-6cf5-538b-af83-1d48da741b95",
+      "ref": "1.458-459",
+      "title": "Throwing the barley"
+    },
+    {
+      "id": "ea32f38e-b852-5be7-b138-45b19fe84406",
+      "ref": "1.458-468",
+      "title": "The sacrifice at Chryse"
+    },
+    {
+      "id": "5a7c064e-49fd-5597-b977-ae034d7587f6",
+      "ref": "1.458-474",
+      "title": "The sacrifice and the paean"
+    },
+    {
+      "id": "ee716de4-8775-5897-af79-d45a5e23ec22",
+      "ref": "1.460-464",
+      "title": "The thigh-pieces burned"
+    },
+    {
+      "id": "c5cea5d0-9719-5f66-a2e9-6029e3dcda63",
+      "ref": "1.462-463",
+      "title": "Wine on the thigh-pieces"
+    },
+    {
+      "id": "e5c10141-1579-5753-80c0-367651de9b60",
+      "ref": "1.462-464",
+      "title": "The forks at the altar"
+    },
+    {
+      "id": "0aca7d33-5c9f-5a2d-9644-663359c55c1a",
+      "ref": "1.464-466",
+      "title": "Roasting the meat"
+    },
+    {
+      "id": "b7ec0cc1-16cd-5e68-9688-bb79867f867b",
+      "ref": "1.467-468",
+      "title": "The feast at Chryse"
+    },
+    {
+      "id": "222a8840-7bc4-5fd9-9dbe-33c321fe2114",
+      "ref": "1.467-469",
+      "title": "The feast at Chryse"
+    },
+    {
+      "id": "67088b24-5e40-5999-96a9-458152a4aae0",
+      "ref": "1.467-471",
+      "title": "The feast at Chryse"
+    },
+    {
+      "id": "e3c5fd14-83e7-5656-b694-d7fb66d0aa41",
+      "ref": "1.470-471",
+      "title": "Filling the mixing bowls"
+    },
+    {
+      "id": "75f812e8-3b62-56b4-ab6e-bfddb5e04812",
+      "ref": "1.470-471",
+      "title": "The first drops"
+    },
+    {
+      "id": "a0371dd9-45cd-5a35-a636-a2863a3543b7",
+      "ref": "1.472-474",
+      "title": "The paean at Chryse"
+    },
+    {
+      "id": "af53eecd-4810-5d86-821a-1add0b12c5f5",
+      "ref": "1.472-474",
+      "title": "The paean to the Far-Worker"
+    },
+    {
+      "id": "a62a02f9-d4cc-5944-9cbe-1b3cf04293a7",
+      "ref": "1.474"
+    },
+    {
+      "id": "72b61a08-65ca-5c70-8710-9cf513607ba4",
+      "ref": "1.475-476"
+    },
+    {
+      "id": "8d860252-abe7-5bd0-a344-75b781785151",
+      "ref": "1.475-476",
+      "title": "Sunset at Chryse"
+    },
+    {
+      "id": "7b1bb166-c3fc-5e06-adb2-cdefa98fc70a",
+      "ref": "1.475-478",
+      "title": "Night and dawn at Chryse"
+    },
+    {
+      "id": "f418e217-79f5-5845-a919-a3c756e7828e",
+      "ref": "1.475-478",
+      "title": "Night at Chryse"
+    },
+    {
+      "id": "5f17e46d-dabc-5c20-8806-a61055da12dc",
+      "ref": "1.477-479",
+      "title": "Dawn appears and the ship sets out"
+    },
+    {
+      "id": "c4ee75fe-aa17-56e2-914f-e4d007b6e72a",
+      "ref": "1.477",
+      "title": "Rosy-fingered Dawn"
+    },
+    {
+      "id": "ca68adaf-e1f6-553f-8abf-c22143e3780b",
+      "ref": "1.479-483",
+      "title": "The voyage home"
+    },
+    {
+      "id": "99eb5acb-f1be-537c-b3fa-594a8e1cbf35",
+      "ref": "1.479",
+      "title": "Far-working Apollo sends a fair wind"
+    },
+    {
+      "id": "156bc040-4b2f-59d3-a445-e636d48afcfd",
+      "ref": "1.480-481",
+      "title": "Raising the mast"
+    },
+    {
+      "id": "eb6ebb2a-da52-55c2-836b-dfe7e157a185",
+      "ref": "1.484-487",
+      "title": "The ship comes back to the camp"
+    },
+    {
+      "id": "53225e7b-28ab-5525-b070-9b63d6c6f189",
+      "ref": "1.484-487",
+      "title": "The ship drawn up on the shore"
+    },
+    {
+      "id": "f3e30585-702e-5835-9c17-38647c20a88c",
+      "ref": "1.488-489",
+      "title": "Achilles sits by his ships"
+    },
+    {
+      "id": "71e9711c-dc57-5f22-adf4-496eadd25fb2",
+      "ref": "1.488-491",
+      "title": "Away from the assembly"
+    },
+    {
+      "id": "ed9e05f2-8359-5fc6-86e9-b48c98701db6",
+      "ref": "1.488-492",
+      "title": "Achilles sits apart by his ships"
+    },
+    {
+      "id": "3af06dba-39b8-5468-bf47-04a98b27563d",
+      "ref": "1.488-492",
+      "title": "Achilles stays away from assembly and war"
+    },
+    {
+      "id": "8abdce84-18c6-5c4b-8248-b5684ab52038",
+      "ref": "1.488-492",
+      "title": "Achilles wastes his heart"
+    },
+    {
+      "id": "cef1c3dc-8f3f-56a0-9738-48a316b66da8",
+      "ref": "1.488-492",
+      "title": "Achilles withdraws"
+    },
+    {
+      "id": "e25ac6fb-74f7-5490-abae-4220c805a7ea",
+      "ref": "1.488-492",
+      "title": "Longing for battle"
+    },
+    {
+      "id": "5f1b8f49-0d73-5cbf-8f98-fad669ce25d9",
+      "ref": "1.488-492",
+      "title": "Longing for the war cry"
+    },
+    {
+      "id": "393228bd-b9b8-509d-a21c-d919823fef1e",
+      "ref": "1.489"
+    },
+    {
+      "id": "cf7160a8-260c-5635-8b62-0aa02701d7a1",
+      "ref": "1.490-492",
+      "title": "His own longing"
+    },
+    {
+      "id": "e43044a0-d532-5a19-b287-6f0e23c39ef8",
+      "ref": "1.493"
+    },
+    {
+      "id": "21523baf-6454-56c0-863e-9c5cd0ac5bc8",
+      "ref": "1.493-495",
+      "title": "The gods return to Olympus"
+    },
+    {
+      "id": "3e5fbf5a-0fc2-5673-a6f6-98884d29224e",
+      "ref": "1.493-495",
+      "title": "The twelfth dawn"
+    },
+    {
+      "id": "d20a7ce6-3706-57fc-9946-854a8d81a5d7",
+      "ref": "1.493-497",
+      "title": "The twelfth dawn"
+    },
+    {
+      "id": "c1d86482-a3a0-5d66-b313-f163075590e9",
+      "ref": "1.497"
+    },
+    {
+      "id": "dc3a6df4-c044-5a37-ac68-5630b43c67f9",
+      "ref": "1.498-499"
+    },
+    {
+      "id": "28f2c288-39b9-5881-bf50-e873d7f58495",
+      "ref": "1.498-499",
+      "title": "Thetis finds Zeus on the highest peak"
+    },
+    {
+      "id": "8d1b58f4-d620-5214-bd5a-c32edb6c5990",
+      "ref": "1.498-499",
+      "title": "Zeus alone on the peak"
+    },
+    {
+      "id": "c0955636-a76c-5439-8ca5-151557bd273f",
+      "ref": "1.498-499",
+      "title": "Zeus on the highest peak"
+    },
+    {
+      "id": "e2122ca6-f519-5ddb-b181-f9e592236e77",
+      "ref": "1.498-502",
+      "title": "Thetis kneels before Zeus"
+    },
+    {
+      "id": "9ddc5d69-31b1-59bc-94fe-c81394392a38",
+      "ref": "1.498-502",
+      "title": "Thetis supplicates Zeus"
+    },
+    {
+      "id": "f8b26c60-33a7-5aae-b690-892febc76407",
+      "ref": "1.498-510",
+      "title": "Thetis supplicates Zeus"
+    },
+    {
+      "id": "803aa64d-a9b3-5666-96a9-41dab95f13a7",
+      "ref": "1.499"
+    },
+    {
+      "id": "822e916e-fe51-5d5a-9dc6-ae0164abcf9c",
+      "ref": "1.503-504"
+    },
+    {
+      "id": "3765fcd7-5dc0-5f57-a2df-7f19b84a6445",
+      "ref": "1.503-504",
+      "title": "Father Zeus"
+    },
+    {
+      "id": "d7244f28-e947-5002-a343-51566e31a6dc",
+      "ref": "1.503-504",
+      "title": "Thetis begins her supplication"
+    },
+    {
+      "id": "507c82a1-87a4-53cd-9c8c-090c54edb7f7",
+      "ref": "1.503-504",
+      "title": "Thetis to Zeus"
+    },
+    {
+      "id": "1e128d8c-1859-5afb-84ab-90a5fd13dad9",
+      "ref": "1.503-504",
+      "title": "Thetis: fulfill for me this wish"
+    },
+    {
+      "id": "316479fc-8d31-5f44-9aee-e0063ee6ccc6",
+      "ref": "1.503-507",
+      "title": "Thetis to Zeus"
+    },
+    {
+      "id": "80aa964c-2080-5ec2-ba6d-4a6a7c65e425",
+      "ref": "1.503-510",
+      "title": "Thetis supplicates Zeus"
+    },
+    {
+      "id": "449cde3d-ba6c-5ae9-a133-f6d9e813d45f",
+      "ref": "1.503-510",
+      "title": "Thetis to Zeus"
+    },
+    {
+      "id": "16f6b2d2-5956-5633-a1aa-f47d92f05ccd",
+      "ref": "1.505-506"
+    },
+    {
+      "id": "12f86521-5d0b-5f1a-8902-220a1ef22b34",
+      "ref": "1.505-506",
+      "title": "Swiftest to his fate"
+    },
+    {
+      "id": "9c0a54f7-035a-5507-9158-c4c24139421d",
+      "ref": "1.505-507",
+      "title": "Thetis asks Zeus to honor her son"
+    },
+    {
+      "id": "edc82e54-6027-5f35-bdf2-7a90446bfb7a",
+      "ref": "1.505-507",
+      "title": "Thetis complains to Zeus"
+    },
+    {
+      "id": "50d5966d-7c53-5bf9-9de4-b5df333955ac",
+      "ref": "1.508-510",
+      "title": "Thetis: honor my son"
+    },
+    {
+      "id": "4401c1aa-123e-553e-8470-b966895dd040",
+      "ref": "1.509-510"
+    },
+    {
+      "id": "3f09f87c-d1c8-597e-aabc-fc21ed5db928",
+      "ref": "1.511"
+    },
+    {
+      "id": "4a75cc92-2850-5123-86d1-6cad9620996b",
+      "ref": "1.511-512",
+      "title": "The silence of Zeus"
+    },
+    {
+      "id": "11854ed9-4cf0-5f6b-9a62-8d5b50785dff",
+      "ref": "1.511-513",
+      "title": "She held on"
+    },
+    {
+      "id": "efe6afba-f0a8-55bd-917c-c018bdbe5f2f",
+      "ref": "1.511-513",
+      "title": "Zeus says nothing"
+    },
+    {
+      "id": "bb995a6f-1681-563b-ba1f-19eab448d612",
+      "ref": "1.511-516",
+      "title": "The silence of Zeus"
+    },
+    {
+      "id": "cc7e863d-4f7c-554d-ba92-17f3e241aa22",
+      "ref": "1.511-516",
+      "title": "Thetis holds on"
+    },
+    {
+      "id": "b54ab252-f290-579c-9e33-dbd1cbd2de96",
+      "ref": "1.514-516",
+      "title": "Nod or refuse"
+    },
+    {
+      "id": "9abf2cef-3c98-55b7-8869-bbb700642c82",
+      "ref": "1.517-518",
+      "title": "Deeply troubled, Zeus the cloud-gatherer said"
+    },
+    {
+      "id": "d8681153-b344-5ce5-9178-cbe3fdcaddc3",
+      "ref": "1.517-519",
+      "title": "Deeply troubled, Zeus answers Thetis"
+    },
+    {
+      "id": "efca60d1-f8cd-5dd3-b95f-fa351b99bc7f",
+      "ref": "1.518-519",
+      "title": "Zeus: a sorry business"
+    },
+    {
+      "id": "54cc5918-8444-5a1e-bc80-cc34a5955d71",
+      "ref": "1.518-521",
+      "title": "Zeus on Hera's quarreling"
+    },
+    {
+      "id": "8eeed97b-852d-55ce-8672-0e3e41da4e6e",
+      "ref": "1.524-527",
+      "title": "The greatest sign"
+    },
+    {
+      "id": "0e4f37c1-0777-51b8-aa86-7ee8c2a47bbb",
+      "ref": "1.524-527",
+      "title": "The greatest sign among the immortals"
+    },
+    {
+      "id": "d4b5035c-e13f-5a17-91cb-0d987a9b54a3",
+      "ref": "1.524-527",
+      "title": "The meaning of the nod"
+    },
+    {
+      "id": "8c410b22-d51b-5484-87a6-eec7a367da36",
+      "ref": "1.524-527",
+      "title": "The word of Zeus"
+    },
+    {
+      "id": "7589640c-96ff-51c5-a34b-314daf332e28",
+      "ref": "1.524-530",
+      "title": "The nod of Zeus"
+    },
+    {
+      "id": "866808f6-7222-5e09-9416-513722968548",
+      "ref": "1.528-530",
+      "title": "He spoke, and the son of Cronus nodded"
+    },
+    {
+      "id": "477c1411-8b92-55a4-b1d7-c768ab2754fb",
+      "ref": "1.528-530",
+      "title": "The nod"
+    },
+    {
+      "id": "640348fc-7fe1-56c7-a683-ce6bf661080e",
+      "ref": "1.528-530",
+      "title": "The nod of Zeus"
+    },
+    {
+      "id": "50530b1f-a0ce-5515-b415-0081670c5444",
+      "ref": "1.528-530",
+      "title": "The son of Cronus nods"
+    },
+    {
+      "id": "fc279c64-9b3b-5248-a20a-2a3aed34096f",
+      "ref": "1.531-532",
+      "title": "Thetis leaps into the deep sea"
+    },
+    {
+      "id": "8d6d9997-d49c-526e-a498-bff487423ca4",
+      "ref": "1.531-533",
+      "title": "Thetis and Zeus part"
+    },
+    {
+      "id": "0da0af10-2e09-54a4-b09c-0adaa0d52c26",
+      "ref": "1.532"
+    },
+    {
+      "id": "4cae9692-87fa-5e6a-92ef-9b83a39a3548",
+      "ref": "1.533-535",
+      "title": "The gods rise for their father"
+    },
+    {
+      "id": "f641428b-7b0a-5263-bf43-314449ac461b",
+      "ref": "1.533-535",
+      "title": "The gods rise for Zeus"
+    },
+    {
+      "id": "0d25aee2-9902-5d9e-b4e6-dc6147c490b2",
+      "ref": "1.533-536",
+      "title": "The gods rise for Zeus"
+    },
+    {
+      "id": "f0f1e66b-40a2-523f-af46-661f5aa21cdd",
+      "ref": "1.533-536",
+      "title": "Zeus takes his throne"
+    },
+    {
+      "id": "f4cb7aca-8ad3-5683-81ed-65d64befeb0c",
+      "ref": "1.536-538",
+      "title": "Hera knows that Thetis has been plotting"
+    },
+    {
+      "id": "eb3cca80-10e6-5bce-9596-0e6ecb355413",
+      "ref": "1.536-540",
+      "title": "Plans made in secret"
+    },
+    {
+      "id": "c02c6738-99a7-5b87-b716-012e4fbe52a4",
+      "ref": "1.536-543",
+      "title": "Hera's taunt"
+    },
+    {
+      "id": "6247e670-56c3-5601-b4ca-1b43ec4fd64c",
+      "ref": "1.538"
+    },
+    {
+      "id": "5d55223a-2423-5b72-8e6c-6a2f2b8f28dc",
+      "ref": "1.539-540",
+      "title": "Hera addresses Zeus with cutting words"
+    },
+    {
+      "id": "109bdcdf-e4a2-5754-8d9b-96c7164d8134",
+      "ref": "1.539-543",
+      "title": "Hera's taunt"
+    },
+    {
+      "id": "bbdd9df1-05a8-5c98-9f91-80ed24736e20",
+      "ref": "1.540-543",
+      "title": "Deciding in secret"
+    },
+    {
+      "id": "f9e5360f-abdd-5ca5-8c3a-ff45c741cb50",
+      "ref": "1.540-543",
+      "title": "Hera challenges Zeus"
+    },
+    {
+      "id": "3ebdb603-4e5c-5f2a-895f-2886168129bc",
+      "ref": "1.540-543",
+      "title": "Which god, you schemer?"
+    },
+    {
+      "id": "4031e30e-b28b-576a-afb3-fc5ec2a4d4a0",
+      "ref": "1.544"
+    },
+    {
+      "id": "b23a2feb-2dca-5af6-8310-222370ec4f6f",
+      "ref": "1.544-546"
+    },
+    {
+      "id": "b62f9301-a60c-55a8-9ec8-07cbd10b91bd",
+      "ref": "1.544-546",
+      "title": "The father of men and gods answers Hera"
+    },
+    {
+      "id": "974bb287-0bce-593c-bf7f-4bf5719c4944",
+      "ref": "1.551"
+    },
+    {
+      "id": "b7e5d154-1b36-5de4-8a16-352030797621",
+      "ref": "1.551-552",
+      "title": "Ox-eyed queen Hera answers"
+    },
+    {
+      "id": "3f705ef4-e445-57d0-aa08-45ffff11a4fe",
+      "ref": "1.551-554",
+      "title": "Hera protests"
+    },
+    {
+      "id": "2f576cd1-4a14-53e1-8edd-e22ce4e5601c",
+      "ref": "1.551-554",
+      "title": "Ox-eyed Hera answers"
+    },
+    {
+      "id": "6eac3a3b-7a8d-5ee4-b539-8535e03e7466",
+      "ref": "1.552"
+    },
+    {
+      "id": "05028f6f-1085-5503-a130-677d1cf3f3a6",
+      "ref": "1.555-557",
+      "title": "Hera names Thetis"
+    },
+    {
+      "id": "fb131b1f-c22d-5f03-9bf4-60667e2f4a9f",
+      "ref": "1.555-559",
+      "title": "Hera guesses the promise"
+    },
+    {
+      "id": "2d690683-b504-5296-af7e-04584385a039",
+      "ref": "1.556"
+    },
+    {
+      "id": "4d39b909-0618-5d24-968f-a07d86d2dfe2",
+      "ref": "1.558-559",
+      "title": "Hera's summary"
+    },
+    {
+      "id": "f0c21c6f-63c7-58a8-bfe1-b30fc23d6bd6",
+      "ref": "1.560-561",
+      "title": "Answering her, Zeus the cloud-gatherer said"
+    },
+    {
+      "id": "42fcc61a-0742-5086-a860-b1dc5ce326a9",
+      "ref": "1.560-563",
+      "title": "Strange one"
+    },
+    {
+      "id": "4f796f14-68ce-5a0e-8dd2-6fab9f660729",
+      "ref": "1.560",
+      "title": "Answering her, Zeus the cloud-gatherer said"
+    },
+    {
+      "id": "b5117193-ee65-55eb-8317-001802fd9e8a",
+      "ref": "1.561-563",
+      "title": "Zeus rebukes Hera"
+    },
+    {
+      "id": "aa1a3b65-b577-5221-9395-b27a4732aef0",
+      "ref": "1.562-563",
+      "title": "Zeus: that will be the worse for you"
+    },
+    {
+      "id": "12ae56a3-8ec3-5809-a85b-5f2e39e57c55",
+      "ref": "1.565-567",
+      "title": "Zeus threatens Hera"
+    },
+    {
+      "id": "4e9c3da3-31da-5597-ad57-3a38678c7333",
+      "ref": "1.565-567",
+      "title": "Zeus to Hera"
+    },
+    {
+      "id": "e28d11c0-1bf6-5c02-8e19-57675fb003b0",
+      "ref": "1.565-569"
+    },
+    {
+      "id": "e624a659-6009-579a-a8c5-86c82a303884",
+      "ref": "1.565-570",
+      "title": "Zeus silences Hera"
+    },
+    {
+      "id": "36ae7fbd-3732-5f98-9c42-e4ab1e143327",
+      "ref": "1.568-569",
+      "title": "Hera afraid"
+    },
+    {
+      "id": "3b337c12-b3ad-521a-b960-c2c9a3ecb0e7",
+      "ref": "1.568-569",
+      "title": "Hera bends her heart"
+    },
+    {
+      "id": "03fc2f03-04ce-5236-8372-43df0c402283",
+      "ref": "1.568-569",
+      "title": "Hera was afraid"
+    },
+    {
+      "id": "329109f3-24ea-5b0b-b7eb-3aaa899e503b",
+      "ref": "1.568-570",
+      "title": "Hera is afraid"
+    },
+    {
+      "id": "ff1253de-7c30-5796-8fdd-aa7854dabfe1",
+      "ref": "1.568-570",
+      "title": "The gods are troubled"
+    },
+    {
+      "id": "2311e385-03ef-5479-9d62-5650186bec67",
+      "ref": "1.570"
+    },
+    {
+      "id": "fff14d70-614d-52ce-8914-a0fc7622d3c6",
+      "ref": "1.571"
+    },
+    {
+      "id": "36fe9441-9dad-57e7-a5ef-66e9c650a197",
+      "ref": "1.571-572"
+    },
+    {
+      "id": "4042e236-3350-5fbf-a485-befae7356dd0",
+      "ref": "1.571-572",
+      "title": "Hephaestus begins to speak"
+    },
+    {
+      "id": "9cd3933c-86e6-5f93-a533-3d3a22feffa8",
+      "ref": "1.572"
+    },
+    {
+      "id": "5c8b4e32-f07e-5718-9de1-a0b9629119ff",
+      "ref": "1.573-574",
+      "title": "Hephaestus: a sorry business"
+    },
+    {
+      "id": "bf2a637e-9b2f-545e-b3e6-c12458bde8cd",
+      "ref": "1.573-576",
+      "title": "For the sake of mortals"
+    },
+    {
+      "id": "5a2706ca-b8f2-53c2-8513-42e204015bf9",
+      "ref": "1.573-576",
+      "title": "Hephaestus on quarrels over mortals"
+    },
+    {
+      "id": "157f33ab-cf31-5365-9c9b-72ee8c35b032",
+      "ref": "1.573-576",
+      "title": "Strife on Olympus"
+    },
+    {
+      "id": "19887302-b550-54eb-b56b-13aa4aae9c5e",
+      "ref": "1.577-579"
+    },
+    {
+      "id": "f38327f1-79e7-5d3c-8f2d-054da67e7803",
+      "ref": "1.577-579",
+      "title": "Lest he scold again"
+    },
+    {
+      "id": "f2497230-c6c9-511f-adb5-c4bdbda0887c",
+      "ref": "1.580-581",
+      "title": "If the Olympian lord of the lightning should wish"
+    },
+    {
+      "id": "d5008e12-8ea8-596d-ace3-b1daecf36150",
+      "ref": "1.580-581",
+      "title": "If the Olympian should wish —"
+    },
+    {
+      "id": "0c7a3db1-725e-5a50-9a8e-3d49124c14b7",
+      "ref": "1.582-583",
+      "title": "The Olympian will be gracious"
+    },
+    {
+      "id": "36206ed2-4e39-5712-9041-b4c003b860e8",
+      "ref": "1.584-585",
+      "title": "Hephaestus gives Hera the cup"
+    },
+    {
+      "id": "6d435a40-6fe1-55e3-8a44-f379ae84443d",
+      "ref": "1.584-594",
+      "title": "Be patient, my mother"
+    },
+    {
+      "id": "92c6af88-8b29-5cbe-b912-41a16c29207c",
+      "ref": "1.586-589",
+      "title": "For all my grief"
+    },
+    {
+      "id": "82b871c9-1a78-5cd3-8211-70a87cdec135",
+      "ref": "1.586-589",
+      "title": "Hephaestus: I will be powerless to help"
+    },
+    {
+      "id": "2dc07c16-f783-5724-b055-6a27f0406ec8",
+      "ref": "1.586-594",
+      "title": "Hephaestus hurled from heaven"
+    },
+    {
+      "id": "9ff738dd-9825-587b-83f0-8a260da2276e",
+      "ref": "1.588-591",
+      "title": "The Olympian is hard to stand against"
+    },
+    {
+      "id": "b2b207ac-383e-519a-93c3-e8c20c7e4877",
+      "ref": "1.590-594",
+      "title": "Hephaestus hurled from heaven"
+    },
+    {
+      "id": "7fe8d317-d2cf-5ea1-baea-2cdf0dfce120",
+      "ref": "1.590-594",
+      "title": "Hephaestus hurled from the threshold"
+    },
+    {
+      "id": "18a34e43-afa8-523a-866b-4b8170a60bdd",
+      "ref": "1.590-594",
+      "title": "Hephaestus remembers"
+    },
+    {
+      "id": "600ef783-aedc-57ab-b0f6-993764d931cb",
+      "ref": "1.590-594",
+      "title": "Little life left"
+    },
+    {
+      "id": "c008d9f0-adb8-53ed-bc07-b59060606a44",
+      "ref": "1.590-594",
+      "title": "The fall of Hephaestus"
+    },
+    {
+      "id": "3afcccd5-835c-5ec4-a51d-ff600fc78bc4",
+      "ref": "1.590-594",
+      "title": "Zeus hurled me from the threshold"
+    },
+    {
+      "id": "9c68ae1e-7d7c-5d68-bda2-611f78ed3376",
+      "ref": "1.592-593"
+    },
+    {
+      "id": "3ee45f78-0160-5b31-86eb-88fc933492f8",
+      "ref": "1.592-594",
+      "title": "Hephaestus lands on Lemnos"
+    },
+    {
+      "id": "02590d94-91da-5505-a434-049e80dfe8a6",
+      "ref": "1.595-596",
+      "title": "Hera smiles"
+    },
+    {
+      "id": "6274eb63-95d2-58c8-ad8b-13dbf476ae26",
+      "ref": "1.595-598",
+      "title": "Hera smiles and takes it"
+    },
+    {
+      "id": "5f29ecad-aa85-5962-bb98-ec3e544aacda",
+      "ref": "1.595-600",
+      "title": "Hephaestus as cupbearer"
+    },
+    {
+      "id": "69181bf4-ac13-5bc9-9b6b-8eb16d345a61",
+      "ref": "1.595-600",
+      "title": "Laughter on Olympus"
+    },
+    {
+      "id": "57cd0576-9118-5203-923c-c01942e7b421",
+      "ref": "1.595-604",
+      "title": "Laughter and song"
+    },
+    {
+      "id": "9a8e47aa-a5f7-51fd-938e-6aeba2fb066e",
+      "ref": "1.596-600",
+      "title": "Hephaestus pours the nectar"
+    },
+    {
+      "id": "9de4049e-186b-52fd-a09a-f664fd928840",
+      "ref": "1.597-600",
+      "title": "The gods laugh at Hephaestus"
+    },
+    {
+      "id": "6616b7bf-55ac-57bf-a00c-f4b390ef615b",
+      "ref": "1.597-600",
+      "title": "Unquenchable laughter among the blessed gods"
+    },
+    {
+      "id": "98f85422-da83-500b-8166-f3b7a9a378b6",
+      "ref": "1.599-600"
+    },
+    {
+      "id": "045ef9c0-14e4-5a2b-b271-ae08ac0fc7f3",
+      "ref": "1.599-600",
+      "title": "The gods laugh at Hephaestus"
+    },
+    {
+      "id": "af42aa99-a0c3-5b6f-a996-5f62ff8cb500",
+      "ref": "1.599-600",
+      "title": "Unquenchable laughter"
+    },
+    {
+      "id": "2207574b-aeda-50b3-ab00-857fee1137e8",
+      "ref": "1.599-600",
+      "title": "Unquenchable laughter among the blessed gods"
+    },
+    {
+      "id": "4f01659b-1eb9-50a4-a66d-935f092e1582",
+      "ref": "1.601-602",
+      "title": "The feast of the gods"
+    },
+    {
+      "id": "10140377-58e9-545a-a85d-3caf9c126cf0",
+      "ref": "1.601-604",
+      "title": "Apollo's lyre at the feast"
+    },
+    {
+      "id": "a4a16f28-c808-5412-9390-986084543dde",
+      "ref": "1.601-604",
+      "title": "The feast of the gods"
+    },
+    {
+      "id": "1447f80d-5464-551b-845c-ed9a80e9b022",
+      "ref": "1.601-604",
+      "title": "The Muses at the feast of the gods"
+    },
+    {
+      "id": "7a46619c-ff85-5614-aaf0-9ecaee0077d3",
+      "ref": "1.601-606",
+      "title": "The gods feast until sunset"
+    },
+    {
+      "id": "baab8eec-aa74-5f52-a055-f6f56071d1e6",
+      "ref": "1.605-606"
+    },
+    {
+      "id": "93d20fd6-fcb4-5f43-b7e4-1d0389626619",
+      "ref": "1.605-608",
+      "title": "Each god's house, built by Hephaestus"
+    },
+    {
+      "id": "ac58ce8a-5968-56fe-916c-9f2e3884e181",
+      "ref": "1.605-608",
+      "title": "The gods go to their houses"
+    },
+    {
+      "id": "bd66a6ca-06cb-5f62-a42a-5d07ef699e73",
+      "ref": "1.605-608",
+      "title": "The houses of the gods"
+    },
+    {
+      "id": "54772b35-878d-5c91-91df-1130ea565e6a",
+      "ref": "1.605-611",
+      "title": "The gods go home"
+    },
+    {
+      "id": "b5cd3c08-d42b-5906-b53c-dd9bedcd4774",
+      "ref": "1.605-611",
+      "title": "The gods go to bed"
+    },
+    {
+      "id": "8f9bb6f1-e051-520e-a2bf-b2793eca4dde",
+      "ref": "1.607-608"
+    },
+    {
+      "id": "2ab341fd-9cbf-569d-9d62-62f0ac7daac1",
+      "ref": "1.609"
+    },
+    {
+      "id": "49297f91-aefc-5130-b8c7-85c7156cec1b",
+      "ref": "1.609-611",
+      "title": "Zeus and Hera go to their bed"
+    },
+    {
+      "id": "95b0933f-f50b-5a86-8ad9-f21867ef468d",
+      "ref": "1.609-611",
+      "title": "Zeus goes to his bed"
+    },
+    {
+      "id": "a1a8c026-dc9e-5fcf-b27d-6ab921c3cb41",
+      "ref": "1.611"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "homer.iliad",
+  "author": "homer",
+  "title": "Iliad",
+  "greek": "Ἰλιάς",
+  "aliases": ["iliad", "il", "il."],
+  "genre": "Epic",
+  "meter": "Dactylic hexameter",
+  "date": "c. 750–700 BCE (traditional)",
+  "summary": "Twenty-four books on a few weeks in the tenth year of the Trojan War: the wrath of Achilles, its cost to Greeks and Trojans, and its end.",
+  "citation": { "scheme": "book.line", "book": "Book", "unit": "line", "abbr": "Il." },
+  "display": "verse",
+  "bookCount": 24,
+  "books": {
+    "1": {
+      "letter": "Α",
+      "title": "The Wrath",
+      "greek": "Λοιμός, Μῆνις",
+      "summary": "Apollo’s plague, the quarrel of Agamemnon and Achilles, Achilles’ withdrawal, Thetis’ appeal to Zeus, and a quarrel among the gods ended by laughter."
+    }
+  },
+  "editions": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "label": "Greek",
+      "name": "Monro & Allen",
+      "credit": "D. B. Monro & T. W. Allen, Homeri Opera, Oxford Classical Texts (3rd ed., 1920), via the Perseus Digital Library (CC BY-SA).",
+      "path": "grc/{book}.txt"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "label": "English",
+      "name": "Claude",
+      "credit": "New line-for-line translation by Claude (Anthropic), 2026. See TRANSLATION.md.",
+      "path": "en/{book}.txt"
+    }
+  ],
+  "structure": "structure/{book}.json",
+  "lexicon": "lexicon/{book}.json"
+}

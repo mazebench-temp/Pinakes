@@ -1,0 +1,72 @@
+# Pinakes · Πίνακες
+
+A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Book 1: the Greek text, a new
+line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
+custom, word, epithet, formula, story and idea in it.
+
+```sh
+npm run dev      # build, serve at http://localhost:5178, rebuild and reload on every change
+npm run build    # write site/data/ from content/
+npm run check    # validate everything without writing
+npm run quotes   # turn {{quote:Iliad 1.1-7 | Title}} tags into permanent {{quote:uuid}} ids
+npm test         # library and content integrity tests
+```
+
+Requires Node 20 or later. There are no dependencies to install.
+
+## What is in it
+
+- **Reader**: Greek over English, line by line, or side by side on wide screens. Tap a Greek word
+  for its dictionary form, gloss and parse. Tap a name for its index entry. Tap a line number to quote
+  a line or a passage. Scene headings, speaker labels and the days of the action come from the
+  book's structure file.
+- **Index**: entries in 18 kinds, from gods and heroes to Greek words, epithets, rituals and textual
+  notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
+- **Myths**: every story told, remembered or foretold, placed in mythic time from the Primordial age
+  and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony.
+- **Tags**: faceted and nested. A tag includes its children, and tags can be combined.
+- **Search**: across the index, the text (Greek with or without accents, English, or transliterated
+  Greek) and the lexicon.
+- **Quotes**: `{{quote:<uuid>}}` tags, as in the Margin wiki. Ids are deterministic version-5 UUIDs of
+  the passage and title, so the same quote always has the same id. The Quotes page lists every quoted
+  passage with the articles that quote it and the tag for each title it is quoted under.
+
+## Layout
+
+```
+content/
+  library/<author>/author.json
+  library/<author>/<work>/work.json        editions, citation scheme, book titles
+  library/<author>/<work>/grc/01.txt       Greek, one numbered verse per row
+  library/<author>/<work>/en/01.txt        English, aligned to the Greek numbering
+  library/<author>/<work>/structure/01.json   scenes, speeches, days
+  library/<author>/<work>/lexicon/01.json     lemma, gloss and parse for every word
+  library/<author>/<work>/TRANSLATION.md      translation conventions
+  index/<folder>/<id>.md                   index entries (see docs/index-guide.md)
+  quotes/<work>.json                       the quote registry
+  kinds.json  tags.json  periods.json      taxonomies
+scripts/                                   build, dev server, quote tool (no dependencies)
+site/                                      the app: index.html, assets/, and the generated data/
+docs/index-guide.md                        how to write index entries
+```
+
+## Adding more
+
+**Another book of the Iliad.** Add `grc/02.txt`, `en/02.txt`, `structure/02.json` and
+`lexicon/02.json`, and a `books.2` title in `work.json`. The concordance runs over every available
+book, so existing entries pick up their new occurrences at once, and the build report lists every
+capitalized Greek word that no entry covers yet (`site/data/report.json`, and the About page).
+
+**Another work** (the Odyssey, the Homeric Hymns, Plato). Create `content/library/<author>/<work>/`
+with a `work.json` like the Iliad's. Give it its own `citation` scheme and `aliases` (so that
+`{{quote:Od. 1.1-10}}` resolves) and add its texts. Entries default to the Iliad; set `work:` in an
+entry's front matter, or name the work in a reference, to cite another. The periods of the Myths
+already run to the Telegony, ready for the Odyssey's stories.
+
+## Sources and credits
+
+- Greek text: D. B. Monro and T. W. Allen, *Homeri Opera*, Oxford Classical Texts (3rd ed., 1920), as
+  digitized by the Perseus Digital Library (CC BY-SA).
+- Translation, lexicon, index and articles: written for this project by Claude (Anthropic), 2026.
+  See `content/library/homer/iliad/TRANSLATION.md` for the conventions.
