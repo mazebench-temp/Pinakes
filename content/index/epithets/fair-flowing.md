@@ -4,10 +4,10 @@ greek: καλλίρροος
 kind: epithet
 tags: [thessaly, rare-word]
 summary: “Beautifully flowing,” an epithet of rivers and springs.
-aliases: [kallirroos]
+aliases: [kallirroos, eurreites, eurrheites, eurroos]
 grc: [καλλίρροον]
 en: [fair-flowing]
-of: [titaressus]
+of: [titaressus, satnioeis]
 ---
 
 ## Meaning

@@ -22,7 +22,7 @@ passages:
 
 {{quote:5eab5b38-2112-58ad-b538-a73e0e747a2e}}
 
-ἀνέρες ἔστε, “be men”, opens Hector's whole-line exhortation, “be men, friends, and remember your furious courage” (6.112). The reason is shame before one another, and it is put as a maxim: when men feel shame, more are saved than are killed (see [[aidos]] and [[shame-saves-more]]). Ajax speaks the same four verses, with a change in the first, in the battle at the ships (15.561–564).
+ἀνέρες ἔστε, “be men”, opens Hector's whole-line exhortation, “be men, my friends, and remember your furious courage” (6.112). The reason is shame before one another, and it is put as a maxim: when men feel shame, more are saved than are killed (see [[aidos]] and [[shame-saves-more]]). Ajax speaks the same four verses, with a change in the first, in the battle at the ships (15.561–564).
 
 **Retreat.** Diomedes, who can now see gods, recognizes Ares beside Hector and exhorts the Achaeans to give way: “keep your faces turned toward the Trojans and give ground always backward, and do not be eager to fight in force against gods” (5.605–606). An exhortation to retreat, and the army obeys it: the Argives neither flee to the ships nor charge, but keep giving ground (5.699–702; see [[man-at-the-river]]).
 

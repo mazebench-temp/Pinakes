@@ -6,7 +6,7 @@ tags: [ship, seafaring]
 summary: The mast of the ship that takes Chryseis home, lowered into its crutch on arrival at Chryse and set up again for the voyage back.
 aliases: [masts]
 grc: [ἱστὸν]
-except: [1.31, 3.125]
+except: [1.31, 3.125, 6.456, 6.491]
 en: [mast]
 ---
 

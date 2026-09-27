@@ -3,11 +3,11 @@ title: Fair-belted
 greek: ἐΰζωνος
 kind: epithet
 tags: [heroic-epithet]
-summary: “Well-girdled,” the epithet of [[Briseis]] as Thetis leaves Achilles grieving for her (1.429).
+summary: “Well-girdled,” an epithet of women: of [[Briseis]] as Achilles grieves for her, and of the nurse who holds Hector's son.
 aliases: [well-girdled, euzonos]
 grc: [ἐϋζώνοιο]
 en: [fair-belted]
-of: [briseis]
+of: [briseis, handmaids]
 ---
 
 ## Meaning

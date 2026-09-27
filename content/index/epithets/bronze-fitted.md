@@ -7,7 +7,7 @@ summary: “Fitted with bronze,” an epithet of helmets and weapons.
 aliases: [chalkeres]
 grc: [χαλκήρεϊ]
 en: [bronze-fitted]
-of: [helmet]
+of: [helmet, spear]
 ---
 
 ## Meaning

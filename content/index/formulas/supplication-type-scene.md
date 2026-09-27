@@ -3,7 +3,7 @@ title: Supplication scene
 greek: καί ῥα πάροιθʼ αὐτοῖο καθέζετο, καὶ λάβε γούνων
 kind: formula
 tags: [type-scene, supplication, exchange]
-summary: The suppliant's approach, gesture, appeal, and wait for an answer. Thetis performs the full rite before Zeus, clasping his knees and chin (1.500–516), as Achilles told her to. The book opens with Chryses' plea to the army, the same act without the touch.
+summary: The suppliant's approach, gesture, appeal, and wait for an answer: he comes before the one he begs, clasps his knees and perhaps his chin, makes his plea, and is accepted or refused.
 aliases: [supplication type-scene, hiketeia scene]
 refs: [1.12-21, 1.407, 1.427, 1.500-516, 1.557]
 passages:

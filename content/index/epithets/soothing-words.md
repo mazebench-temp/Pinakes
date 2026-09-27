@@ -12,7 +12,7 @@ of: [epos]
 
 ## Meaning
 
-μειλίχιος (“gentle, soothing”) is formed from μείλιχος and belongs with μειλίσσω (“soothe, appease”). With words it makes the formulas μειλιχίοισι προσηύδα, “addressed him with soothing words,” as when Diomedes answers Glaucus (Il. 6.214), and ἔπεσσί τε μειλιχίοισι, as in Nestor's advice to win over Achilles “with gentle gifts and soothing words” (Il. 9.112–113). Compare [[gentle-words]] (ἀγανοῖς ἐπέεσσιν) and [[winged-words]].
+μειλίχιος (“gentle, soothing”) is formed from μείλιχος and belongs with μειλίσσω (“soothe, appease”). With words it makes the formulas μειλιχίοισι προσηύδα, “spoke … with soothing words,” as when Diomedes answers Glaucus (Il. 6.214), and ἔπεσσί τε μειλιχίοισι, as in Nestor's advice to win over Achilles “with gentle gifts and soothing words” (Il. 9.112–113). Compare [[gentle-words]] (ἀγανοῖς ἐπέεσσιν) and [[winged-words]].
 
 ## Use
 

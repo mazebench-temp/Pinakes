@@ -7,7 +7,7 @@ summary: The most frequent epithet of [[Hera]], “with white arms,” a mark of
 aliases: [leukolenos]
 grc: [λευκώλενος, λευκωλένῳ]
 en: [white-armed]
-of: [hera, helen]
+of: [hera, helen, andromache]
 ---
 
 ## Meaning

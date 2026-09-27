@@ -3,7 +3,7 @@ title: Rosy-fingered
 greek: ῥοδοδάκτυλος
 kind: epithet
 tags: [divine-epithet, time]
-summary: The most famous epithet of Dawn ([[eos]]), “with fingers of rose.” Its whole formula line appears in the Iliad only here and in the last book.
+summary: The most famous epithet of Dawn ([[eos]]), “with fingers of rose.” Its whole formula line opens a day in the Iliad only twice, in the first book and in the last.
 aliases: [rosy-fingered Dawn, rhododaktylos]
 grc: [ῥοδοδάκτυλος]
 en: [rosy-fingered]

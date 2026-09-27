@@ -10,6 +10,7 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 - `npm run quotes`: register `{{quote:Iliad 1.1-7 | Title}}` tags and rewrite them as `{{quote:<uuid>}}`.
 - `npm run export`: static copy in `dist/` (entries bundled into a few chunks of under 3 MB).
 - `node scripts/checkquotes.mjs`: English quotations in articles that no longer match the translation.
+- `node scripts/homographs.mjs [book]`: Greek patterns that catch words of two unrelated lemmas (by the lexicon).
 - `node scripts/lexicon.mjs skeleton|check|merge|lemmas`: build and validate a book's lexicon in parts.
 
 ## Conventions

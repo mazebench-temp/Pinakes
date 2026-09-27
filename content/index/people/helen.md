@@ -32,7 +32,7 @@ Her other epithets are those of a great lady: “white-armed” (λευκώλε�
 
 ## Mythology
 
-Paris carried her off from Lacedaemon, and they first lay together on the island of [[Cranae]] (3.443–445; see [[the-abduction-of-helen]]). At Troy she lives as his wife in the house of Priam, and she reproaches herself: to Hector she calls herself “a dog” (6.344, 6.356). She speaks the last of the three laments for Hector (24.762–775).
+Paris carried her off from Lacedaemon, and they first lay together on the island of [[Cranae]] (3.443–445; see [[the-abduction-of-helen]]). At Troy she lives as his wife in the house he built near Priam's (6.313–317), and she reproaches herself: to Hector she calls herself “dog that I am” (6.344, 6.356). She speaks the last of the three laments for Hector (24.762–775).
 
 In the Odyssey she is home again at Sparta with Menelaus. She mixes into the wine a drug from Egypt that banishes grief, and tells how she recognized Odysseus when he came into Troy disguised as a beggar (4.219–264).
 

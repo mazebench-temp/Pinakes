@@ -3,11 +3,11 @@ title: Leader of men
 greek: ὄρχαμος ἀνδρῶν
 kind: epithet
 tags: [heroic-epithet, kingship]
-summary: “Chief of men,” a title of leaders: in the Iliad of the Trojan ally [[Asius]], in the Odyssey of Pisistratus and, strikingly, of Eumaeus the swineherd.
+summary: “Chief of men,” a title of leaders: in the Iliad of the Trojan ally [[Asius]] and once of [[Achilles]], in the Odyssey of Pisistratus and, strikingly, of Eumaeus the swineherd.
 aliases: [chief of men, orchamos andron]
 grc: [ὄρχαμος ἀνδρῶν]
 en: [leader of men]
-of: [asius]
+of: [asius, achilles]
 ---
 
 ## Meaning

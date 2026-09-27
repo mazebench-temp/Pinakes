@@ -1,0 +1,16 @@
+---
+summary: In Book 6 the θυμός is the inner voice that sends Hector to the city and back to the war, and will not let him stay with Andromache. In Glaucus' story it is where Proetus plots and shrinks from murder, and the heart that Bellerophon eats out as he wanders alone.
+grc: [θυμοφθόρα, μεγάθυμε]
+passages:
+  - 6.200-202 | Bellerophon wanders alone
+  - 6.360-368 | Hector answers Helen
+  - 6.440-446 | Hector answers Andromache
+---
+
+**The heart that sends and bids.** Hector's movements in the city are explained by his θυμός, by others and by himself. Hecuba guesses why he has come: “your heart has sent you here (σὲ δʼ ἐνθάδε θυμὸς ἀνῆκεν) to come and lift up your hands to Zeus from the height of the city” (6.256–257). To Helen he says that he cannot sit, “for already my heart is eager to go and help the Trojans” (ἤδη γάρ μοι θυμὸς ἐπέσσυται, 6.361). To Andromache: “nor does my heart bid me (οὐδέ με θυμὸς ἄνωγεν), since I have learned to be brave always” (6.444). The θυμός speaks like a second person, and it gives orders. What it orders is what Hector has learned (see [[aidos]] and [[kleos]]). Andromache, pleading for the wall by the fig tree, gives the enemy a θυμός too: perhaps a seer told them, “or perhaps their own heart urges them on and bids them” (6.439). Hector's knowledge that Troy will fall is held in the same place: “I know this well in my mind and in my heart” (κατὰ φρένα καὶ κατὰ θυμόν, 6.447; see [[a-day-will-come]]).
+
+**Comfort and grief.** His last words to Andromache begin, “do not grieve too much in your heart for me” (6.486), and his last words to Paris end with his own grief: “my heart grieves in my spirit when I hear shameful things said of you” (6.524; see [[achos]]). In between, the θυμός is the seat of anger. Hector tells Paris that he does wrong to keep “this anger in your heart” (6.326; see [[cholos]]).
+
+**In Glaucus' story.** Proetus “devised evil against him in his heart” (6.157), and yet would not kill Bellerophon himself, “for his heart held back in awe from that” (σεβάσσατο γὰρ τό γε θυμῷ, 6.167; see [[sebas]]). The same half-line is used of Achilles, who killed Eetion but would not strip him (6.417). The signs Proetus scratched on the tablet were θυμοφθόρα, “life-destroying”, “many things to destroy a man's life” (6.169; see [[teras]]); the Odyssey uses the word of poisons (*Odyssey* 2.329). At the end of his life Bellerophon, “hated by all the gods”, wandered alone over the Aleian plain, “eating his heart out, avoiding the paths of men” (ὃν θυμὸν κατέδων, 6.200–202). The image of grief as a man eating his own heart returns in Thetis' reproach to Achilles, “how long will you eat your heart (σὴν ἔδεαι κραδίην) in mourning?” (24.128–129), and in the Odyssey, where Odysseus' men lie two days on the shore “eating their hearts with weariness and sorrows” (*Odyssey* 9.74–75). See [[bellerophon]].
+
+**Life.** The θυμός is also the life that a killer takes. Diomedes kills Axylus and his charioteer: “he took the lives of both” (ἄμφω θυμὸν ἀπηύρα, 6.17). Adrastus, clasping Menelaus' knees, “began to win over the heart in his breast” (6.51), and loses his life when Agamemnon turns his brother's mind. The compound μεγάθυμος, “great-hearted”, opens Glaucus' answer to Diomedes, “Great-hearted son of Tydeus” (6.145; see [[great-hearted]]).

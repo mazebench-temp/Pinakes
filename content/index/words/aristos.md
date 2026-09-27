@@ -17,7 +17,7 @@ passages:
 
 ἄριστος is the superlative that goes with ἀγαθός, “good”: “best”, in whatever sense the context requires. It can be the best at a craft, as Calchas is the best of the bird-seers (1.69), but its heroic sense is the best man in war. Its comparative is ἀρείων, “better”. From the same stem come ἀριστεύς, “chief, one of the best men” (1.227), ἀριστεύω, “be the best”, and ἀρετή, “excellence”. The root is uncertain.
 
-To be ἄριστος is the heroic ambition. Glaucus and Achilles were both sent to war by their fathers with the same advice: “always to be best, and to stand above the others” (6.208, 11.784).
+To be ἄριστος is the heroic ambition. Glaucus and Achilles were both sent to war by their fathers with the same advice: “always to be the best and to excel above the others” (6.208, 11.784).
 
 {{notes}}
 

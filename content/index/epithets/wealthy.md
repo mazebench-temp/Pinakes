@@ -7,7 +7,7 @@ summary: “Rich, wealthy,” an epithet of men and places, among them [[Corinth
 aliases: [rich, aphneios]
 grc: [ἀφνειόν, ἀφνειοὶ]
 en: [wealthy]
-of: [corinth, zeleia]
+of: [corinth, zeleia, axylus]
 ---
 
 ## Meaning

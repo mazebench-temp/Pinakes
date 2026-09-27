@@ -18,7 +18,7 @@ passages:
 
 {{quote:c687b0f3-a0ae-5cfd-8a55-a1bda23e67e2}}
 
-The Iliad names Pergamus first here. It is Apollo's place. From it he looks down on the battle (4.508, 7.21), in his temple there he has the wounded Aeneas healed (5.445–448), and there he sits to watch the fighting (5.460). It is also the high point of the city. Paris comes down from “high Pergamus” in his shining armor (6.512), and Cassandra, having climbed it, is the first to see Priam bringing Hector's body home (24.699–700). The poem also speaks of the “high city” (πόλις ἄκρη), where Athena's temple and the houses of Priam, Hector and Paris stood (6.88, 6.317); it is usually taken to be the same height.
+The Iliad names Pergamus first here. It is Apollo's place. From it he looks down on the battle (4.508, 7.21), in his temple there he has the wounded Aeneas healed (5.445–448), and there he sits to watch the fighting (5.460). It is also the high point of the city. Paris comes down from “the height of Pergamus” in his shining armor (6.512), and Cassandra, having climbed it, is the first to see Priam bringing Hector's body home (24.699–700). The poem also speaks of the “high city” (πόλις ἄκρη), where Athena's temple and the houses of Priam, Hector and Paris stood (6.88, 6.317); it is usually taken to be the same height.
 
 ## Outside Homer
 

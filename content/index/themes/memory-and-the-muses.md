@@ -10,7 +10,7 @@ Homer's poems are memory: the deeds of an earlier age, kept alive in song. The p
 
 The Muses are daughters of Zeus, and they sing for the gods at their feasts (1.603–604; see [[muses]]). What they give the singer is knowledge that no mortal could have. Odysseus praises the singer Demodocus for singing the sufferings of the Achaeans “as if you had been present yourself or heard it from another” (Odyssey 8.487–491). The Muse who loved Demodocus gave him both good and evil: she took his sight and gave him sweet song (Odyssey 8.63–64).
 
-Memory in Homer is also an act. The verb μιμνῄσκω means “remind”, and in the middle “remember, be mindful of”. Warriors are told to “be men, friends, and remember your furious courage” (6.112), and Thetis is sent to Zeus to “remind him” of an old service (1.407). The opposites are λήθη (“forgetfulness”) and λανθάνομαι (“forget”). What the singer remembers is [[kleos|κλέος]], the report of men's deeds and their fame. What no one remembers is lost.
+Memory in Homer is also an act. The verb μιμνῄσκω means “remind”, and in the middle “remember, be mindful of”. Warriors are told to “be men, my friends, and remember your furious courage” (6.112), and Thetis is sent to Zeus to “remind him” of an old service (1.407). The opposites are λήθη (“forgetfulness”) and λανθάνομαι (“forget”). What the singer remembers is [[kleos|κλέος]], the report of men's deeds and their fame. What no one remembers is lost.
 
 {{notes}}
 

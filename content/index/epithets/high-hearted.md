@@ -7,7 +7,7 @@ summary: “High-spirited, proud,” an epithet of heroes and peoples, Trojan an
 aliases: [hyperthymos]
 grc: [ὑπερθύμοιο]
 en: [high-hearted]
-of: [coronus]
+of: [coronus, trojans]
 ---
 
 ## Meaning

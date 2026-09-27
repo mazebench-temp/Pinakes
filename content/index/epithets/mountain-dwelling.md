@@ -3,11 +3,11 @@ title: Mountain-dwelling
 greek: ὀρεσκῷος
 kind: epithet
 tags: [heroic-epithet, centaur]
-summary: The epithet of the [[Centaurs]] in Nestor's story (1.268): the beasts whose lairs are in the mountains.
+summary: “Of the mountains,” epithets of beings whose home is the mountains: ὀρεσκῷος, of the [[Centaurs]] and of wild goats, and ὀρεστιάς, of the nymphs who plant elms around Eetion's tomb.
 aliases: [oreskoios]
 grc: [ὀρεσκῴοισι]
 en: [who lived in the mountains]
-of: [centaurs]
+of: [centaurs, nymphs]
 ---
 
 ## Meaning

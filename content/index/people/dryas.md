@@ -5,6 +5,7 @@ kind: person
 tags: [lapith, king, thessaly]
 summary: A Lapith chieftain, "shepherd of the people", among the heroes of Nestor's youth.
 grc: [Δρύαντ*]
+except: [6.130]
 en: [Dryas]
 passages:
   - 1.260-273 | Nestor and the Centaurs

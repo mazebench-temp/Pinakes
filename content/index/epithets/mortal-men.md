@@ -3,7 +3,7 @@ title: Mortal men
 greek: θνητοὶ ἄνθρωποι
 kind: epithet
 tags: [heroic-epithet, fate]
-summary: The human counterpart of the “blessed gods” in Achilles' call for witnesses (1.339).
+summary: “Mortal men,” θνητοὶ ἄνθρωποι, the human counterpart of the gods in phrases that divide the world between the two races.
 aliases: [mortals, thnetoi anthropoi]
 grc: [θνητῶν ἀνθρώπων]
 en: [mortal men]

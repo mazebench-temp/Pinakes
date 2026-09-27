@@ -5,7 +5,7 @@ kind: person
 tags: [achaean, king, warrior]
 summary: Son of [[Laertes]] and king of Ithaca, “of many wiles”: the most resourceful of the Achaeans at Troy, and the hero of the Odyssey.
 aliases: [Odysseus of many wiles, Ulysses]
-grc: [Ὀδυσ*]
+grc: ["^Ὀδυσ*"]
 en: [Odysseus]
 refs: [1.441, 1.446]
 passages:

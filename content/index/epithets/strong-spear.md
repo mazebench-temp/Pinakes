@@ -3,7 +3,7 @@ title: Strong spear
 greek: ἄλκιμον ἔγχος
 kind: epithet
 tags: [weapon]
-summary: “The stout spear,” ἄλκιμον ἔγχος, the spear taken up at the end of an arming.
+summary: “The stout spear,” ἄλκιμον ἔγχος, the spear taken up at the end of an arming; the same ἄλκιμος, “valiant,” praises a warrior's heart and the warrior himself.
 aliases: [stout spear, alkimon enchos]
 grc: [ἄλκιμον ἔγχος]
 en: [strong]

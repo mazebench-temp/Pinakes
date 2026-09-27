@@ -12,7 +12,7 @@ grc: [Σιμόεντος]
 
 ## Elsewhere in Homer
 
-The Simoeis and the Scamander meet in front of Troy. There Hera and Athena leave their chariot, and the Simoeis makes ambrosia grow for their horses to graze (5.773–777). The fighting of Book 6 surges back and forth “between the streams of Simoeis and Xanthus” (6.4). It is one of the eight rivers flowing from Ida to the sea that Poseidon and Apollo will turn against the Achaean wall after the war, the river “where many shields of hide and helmets fell in the dust, and the race of men who were half gods” (12.17–23). When the gods go to war, Ares shouts to the Trojans now from the height of the citadel, now running along the Simoeis on Callicolone (20.51–53). In Book 21 the Scamander calls to the Simoeis as “dear brother” to help him drown Achilles (21.305–311).
+The Simoeis and the Scamander meet in front of Troy. There Hera and Athena leave their chariot, and the Simoeis makes ambrosia grow for their horses to graze (5.773–777). The fighting of Book 6 surges back and forth “between the streams of the Simoeis and the Xanthus” (6.4). It is one of the eight rivers flowing from Ida to the sea that Poseidon and Apollo will turn against the Achaean wall after the war, the river “where many shields of hide and helmets fell in the dust, and the race of men who were half gods” (12.17–23). When the gods go to war, Ares shouts to the Trojans now from the height of the citadel, now running along the Simoeis on Callicolone (20.51–53). In Book 21 the Scamander calls to the Simoeis as “dear brother” to help him drown Achilles (21.305–311).
 
 ## Outside Homer
 

@@ -5,8 +5,8 @@ kind: place
 tags: [troad]
 summary: The great oak before the [[scaean-gates|Scaean gates]] of [[Troy]], “the beautiful oak of aegis-bearing Zeus” (5.693). The wounded Sarpedon is laid under it, Athena and Apollo sit in it in the shape of vultures, and it marks how far Hector would come out while Achilles fought.
 aliases: [Oak of Zeus, phegos]
-# Only this form occurs in Books 1–5; φηγόν (6.237, 9.354, 11.170) will need adding, and
-# the oak of the simile at 16.767 an except.
+# φηγόν is added in the Book 6 note (6.237; also 9.354, 11.170). The oak of the simile
+# at 16.767 (φηγόν) will need an except.
 grc: [φηγῷ]
 en: [oak]
 passages:

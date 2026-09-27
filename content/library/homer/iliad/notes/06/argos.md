@@ -1,0 +1,9 @@
+---
+summary: Argos is named in three senses. Ephyra lies “in a corner of horse-pasturing Argos” (6.152); Diomedes will be Glaucus' host “in the heart of Argos” (6.224); and Hector foresees Andromache a slave, weaving at the loom “in Argos” for another woman (6.456).
+---
+
+**The land of Ephyra.** Glaucus' lineage begins at “a city, Ephyra, in a corner of horse-pasturing Argos” (μυχῷ Ἄργεος ἱπποβότοιο, 6.152; see [[ephyra-in-argos]] and [[horse-pasturing]]). Argos here is the Peloponnese, or at least the Argolid. Strabo cites this line, with “Argive Helen” and “the middle of Argos”, to show that Homer called the whole Peloponnese Argos (8.6.9). The Odyssey uses the same words of the place where Aegisthus sat at ease while the others fought at Troy (Od. 3.263). The people of that Argos are the Argives whom Zeus had made subject to Proetus' scepter (6.158–159; see [[proetus]] and [[argives]]).
+
+**Diomedes' home.** “So now I am your dear guest-friend in the heart of Argos, and you are mine in Lycia” (6.224–225). Ἄργεϊ μέσσῳ, “in the heart of Argos”, is Diomedes' own kingdom, Argos and Tiryns (2.559), where the golden cup of Bellerophon waits in his house (6.220–221). The Odyssey has the fuller phrase “throughout Hellas and the middle of Argos” for the whole of Greece (Od. 1.344, 4.726, 4.816, 15.80). See [[xenia]] and [[diomedes]].
+
+**The captive's Argos.** Hector imagines Andromache led away by one of the Achaeans: “and in Argos you may weave at the loom at another woman's bidding” (6.456). The Argos of the captive is the Achaeans' homeland in general, as when Agamemnon speaks of going back to Argos (2.115), rather than any one city; the springs she will carry water from, Messeis and Hypereia, place her in no single region (6.457; see [[messeis]] and [[hypereia]]). See [[captive-women]], [[weaving]] and [[andromache]].

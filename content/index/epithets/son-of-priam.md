@@ -7,7 +7,7 @@ summary: The patronymic of the sons of [[Priam]]: Hector, Paris, and their many 
 aliases: [Priamides, Priamid]
 grc: [Πριαμίδ*]
 en: [son of Priam]
-of: [hector, paris, antiphus-son-of-priam, priam]
+of: [hector, paris, antiphus-son-of-priam, priam, helenus]
 ---
 
 ## Meaning

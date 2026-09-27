@@ -1,0 +1,8 @@
+---
+summary: Sheep come twice into Book 6, both times with the sons of kings. Bucolion, the eldest son of Laomedon, lay with a nymph while he was tending his sheep, and their twin sons die in the battle (6.21–28); Andromache's seven brothers were killed by Achilles among their cattle and white sheep (6.421–424).
+grc: [ὄεσσι]
+---
+
+**Bucolion.** Among the dead of the book's first battle are Aesepus and Pedasus, twin sons of the Naiad Abarbarea and of Bucolion, “the eldest by birth” of Laomedon's sons, whose mother bore him in secret; “and while he was tending his sheep he lay with her in love and bed” (ποιμαίνων δʼ ἐπʼ ὄεσσι, 6.21–26; see [[bucolion]], [[abarbarea]], [[aesepus-son-of-bucolion]] and [[pedasus-son-of-bucolion]]). His name is formed from βουκόλος, “cowherd”, and he is found with sheep. ὄεσσι is a shortened form of ὀΐεσσι, the dative plural of ὄις. The same words, ποιμαίνοντʼ ἐπʼ ὄεσσι, tell how Achilles took two sons of Priam, Isus and Antiphus, while they tended sheep on the slopes of Ida, and let them go for a ransom (11.104–106). Princes keep flocks in the Iliad, and the mountain pasture is where gods and nymphs find them: Aphrodite bore Aeneas to Anchises as he tended his cattle (5.313; see [[aphrodite-and-anchises]]).
+
+**Andromache's brothers.** Achilles killed her seven brothers on a single day “among their shambling cattle and white sheep” (βουσὶν ἐπʼ εἰλιπόδεσσι καὶ ἀργεννῇς ὀΐεσσι, 6.423–424; see [[sack-of-thebe]] and [[cattle]]). ἀργεννός, “white”, is the color of Homer's flocks (3.198; see [[white]]). The herds were the wealth of Eetion's house and the plunder of a raid (see [[raiding]]).

@@ -3,7 +3,7 @@ title: Cremation
 greek: καίω
 kind: ritual
 tags: [fate]
-summary: Burning the dead on a pyre, the normal Homeric funeral. In Book 1 the plague dead burn on crowded pyres; the proem imagines the opposite fate, bodies left for dogs and birds.
+summary: Burning the dead on a pyre, the normal Homeric funeral: the body is burned, the bones are gathered, and a mound is raised over them.
 aliases: [funeral, burning of the dead, funeral rites]
 grc: [πυραὶ νεκύων καίοντο]
 en: [burned on]

@@ -3,7 +3,7 @@ title: Ransom
 greek: ἄποινα
 kind: term
 tags: [exchange]
-summary: Ransom, the goods given to recover a captive or a corpse. [[Chryses]] brings a boundless ransom for his daughter and [[Agamemnon]] refuses it; the god then demands her back “unbought, unransomed”.
+summary: Ransom, the goods given to recover a captive taken alive or the body of a dead man. The Iliad begins with a father's ransom refused and ends with a father's ransom accepted.
 aliases: [apoina, anapoinos, apriatēn]
 grc: [ἄποινα, ἀνάποινον, ἀπριάτην]
 en: [ransom, unransomed, unbought]

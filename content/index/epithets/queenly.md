@@ -3,11 +3,11 @@ title: Queenly
 greek: πότνια
 kind: epithet
 tags: [divine-epithet]
-summary: “Lady, mistress”: a title of goddesses and honored women. In Book 1 it is given to [[Hera]] and to [[Thetis]] as Achilles' mother.
+summary: “Lady, mistress”: a title of goddesses and honored women, above all of mothers in the formula πότνια μήτηρ, “lady mother.”
 aliases: [lady, queen, mistress, potnia]
 grc: [πότνια]
 en: [queen, lady]
-of: [hera, thetis]
+of: [hera, thetis, hecuba, athena, andromache]
 ---
 
 ## Meaning

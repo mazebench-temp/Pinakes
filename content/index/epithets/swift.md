@@ -7,7 +7,7 @@ summary: “Quick, swift,” two adjectives of speed in battle: θοός, used o
 aliases: [quick, tachys, swift Ajax]
 grc: [θοοὶ, θοὸς, ταχὺς]
 en: [swift]
-of: [abantes, prothous, ajax-son-of-oileus]
+of: [abantes, prothous, ajax-son-of-oileus, paris]
 ---
 
 ## Meaning

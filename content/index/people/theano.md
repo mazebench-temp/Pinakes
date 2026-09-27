@@ -3,7 +3,7 @@ title: Theano
 greek: Θεανώ
 kind: person
 tags: [trojan, priest, woman]
-summary: Wife of the Trojan elder [[Antenor]] and daughter of Cisseus, whom the Trojans made priestess of [[Athena]]. She brought up her husband's bastard son Pedaeus as one of her own.
+summary: Wife of the Trojan elder [[Antenor]] and daughter of [[Cisseus]], whom the Trojans made priestess of [[Athena]]. She brought up her husband's bastard son Pedaeus as one of her own.
 aliases: [Theanō]
 grc: [Θεανώ]
 relations:
@@ -14,7 +14,7 @@ passages:
 
 ## Family
 
-Wife of [[Antenor]] (5.70–71; 6.299) and daughter of Cisseus, who brought up her son Iphidamas in Thrace: he was Iphidamas' “mother's father, who begot Theano of the fair cheeks” (11.221–224). Agamemnon kills Iphidamas, and then his elder brother Coön, who tries to avenge him (11.221–263). Of Antenor's many other sons, the Iliad does not say which were hers. It does say that she brought up one who was not:
+Wife of [[Antenor]] (5.70–71; 6.299) and daughter of [[Cisseus]], who brought up her son Iphidamas in Thrace: he was Iphidamas' “mother's father, who begot Theano of the fair cheeks” (11.221–224). Agamemnon kills Iphidamas, and then his elder brother Coön, who tries to avenge him (11.221–263). Of Antenor's many other sons, the Iliad does not say which were hers. It does say that she brought up one who was not:
 
 {{quote:956d6071-3d2b-55f1-9d7b-e8283d194078}}
 
@@ -24,7 +24,7 @@ A νόθος is a son born to a man by a woman who is not his wife (see [[nothos
 
 ## In Homer
 
-She is the only woman Homer calls a priestess (ἱέρεια, 6.300). In Book 6, when Hecuba and the old women of Troy bring a robe to Athena, Theano opens the doors of the temple on the citadel, lays the robe on the knees of the goddess, and prays that Athena break the spear of Diomedes and let him fall before the Scaean gates, promising twelve heifers. “But Pallas Athena refused” (ἀνένευε, 6.297–311; see [[priesthood]], [[temple]] and [[robe]]).
+She is the only woman Homer calls a priestess (ἱέρεια, 6.300). In Book 6 she opens Athena's temple on the citadel to Hecuba and the old women of Troy, lays their robe on the goddess's knees, and prays for the city, and Athena shakes her head (6.297–311; see [[the-robe-for-athena]], [[priesthood]] and [[temple]]).
 
 ## Outside Homer
 

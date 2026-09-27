@@ -7,7 +7,7 @@ summary: “Shining, glorious,” an epithet of heroes, above all of [[Hector]] 
 aliases: [glorious, bright]
 grc: [φαίδιμος]
 en: [shining]
-of: [hector]
+of: [hector, glaucus]
 ---
 
 ## Meaning

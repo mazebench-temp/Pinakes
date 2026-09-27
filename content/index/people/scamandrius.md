@@ -7,7 +7,7 @@ summary: A Trojan hunter, son of [[Strophius]], whom Artemis herself had taught 
 aliases: [Skamandrios]
 # Σκαμάνδριον at 2.465 is the adjective, "the Scamandrian plain"; at 6.402 it is Astyanax.
 grc: [Σκαμάνδριον]
-except: [2.465]
+except: [2.465, 6.402]
 refs: [5.50-58]
 relations:
   - father: strophius (5.49)

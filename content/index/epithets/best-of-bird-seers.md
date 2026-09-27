@@ -3,11 +3,11 @@ title: Best of the bird-seers
 greek: οἰωνοπόλων ὄχ’ ἄριστος
 kind: epithet
 tags: [heroic-epithet, divination]
-summary: The narrator's introduction of [[Calchas]] (1.69): “by far the best of those who read the birds.”
+summary: “By far the best of the bird-seers,” the half-line that introduces the two seers of the Iliad, the Achaean [[Calchas]] and the Trojan [[Helenus]].
 aliases: [best of augurs]
 grc: [οἰωνοπόλων ὄχʼ ἄριστος]
 en: [by far the best of the bird-seers]
-of: [calchas]
+of: [calchas, helenus]
 ---
 
 ## Meaning

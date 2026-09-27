@@ -13,6 +13,10 @@ relations:
 
 {{notes}}
 
+## Elsewhere in Homer
+
+Priam had fifty sons, nineteen of them “from one womb” (24.495–497), presumably Hecuba's (see [[hecuba]] and [[sons-of-priam]]). In Book 24 he goes by night to Achilles' hut to ransom Hector's body. That scene answers the failed ransom of Book 1, where a father begs for his child and is driven away.
+
 ## Outside Homer
 
-Priam has fifty sons, nineteen of them by Hecuba (Iliad 24.495–497). In Book 24 he goes by night to Achilles' hut to ransom Hector's body. That scene answers the failed ransom of Book 1, where a father begs for his child and is driven away. In the *Iliupersis* Neoptolemus kills him at the altar of Zeus.
+In the *Iliupersis*, as [[proclus|Proclus]] summarizes it, Neoptolemus kills him at the altar of Zeus Herkeios (see [[priams-palace]]).

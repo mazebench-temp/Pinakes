@@ -3,11 +3,11 @@ title: Polished
 greek: ἐΰξοος
 kind: epithet
 tags: [warfare]
-summary: “Well-smoothed, polished,” an epithet of things made of wood and horn: chariots, bows, spear shafts.
+summary: “Well-smoothed, polished,” ἐΰξοος, an epithet of things made of wood and horn, chariots, bows and spear shafts; and ξεστός, of dressed stone.
 aliases: [well-polished, euxoos]
 grc: [ἐΰξοον]
 en: [polished]
-of: [chariot]
+of: [chariot, priams-palace]
 ---
 
 ## Meaning

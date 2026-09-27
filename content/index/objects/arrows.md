@@ -6,6 +6,7 @@ tags: [weapon, divine-object]
 summary: Arrows (ὀϊστός, ἰός) and missiles in general (βέλος), the weapons of human archers and of the archer gods.
 aliases: [arrow, shafts, darts]
 grc: [βέλεσσιν, ὀϊστοὶ, ἰὸν, βέλος, βέλος ἐχεπευκὲς, κῆλα]
+except: [6.422]
 en: [arrows, arrow, piercing shaft]
 passages:
   - 1.43-53 | The plague arrows

@@ -3,11 +3,11 @@ title: Tearful
 greek: πολύδακρυς
 kind: epithet
 tags: [warfare]
-summary: “Of many tears,” an epithet of war and of [[Ares]].
+summary: “Of many tears, full of tears,” πολύδακρυς and δακρυόεις: epithets of war and of [[Ares]], and of those who weep for them.
 aliases: [polydakrys]
 grc: [πολύδακρυν]
 en: [tearful]
-of: [ares, polemos]
+of: [ares, polemos, andromache]
 ---
 
 ## Meaning

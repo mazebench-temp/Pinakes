@@ -55,6 +55,10 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἰχώρ | ichor | the gods' blood (5.340, 5.416) |
 | εἴδωλον | phantom | 5.449–453 |
 | ἰωκή | onslaught | Ἰωκή "Onslaught" on the aegis (5.740) |
+| ξεῖνος, ξεινήϊα, ξεινίζω | guest-friend, guest-gifts, entertain | ξεῖνοι πατρώϊοι "guest-friends from our fathers' time" (6.215, 6.231) |
+| γενεή | lineage; generation | "lineage" of a family (6.145, 6.151, 6.211); "generation" of the leaves (6.146, 6.149) |
+| δᾶερ, γάλοως, εἰνάτερες, γαμβρός | brother-in-law, husband's sisters, brothers' wives, son-in-law | 6.249, 6.344, 6.378 |
+| ἐλεύθερον ἦμαρ / δούλιον ἦμαρ | the day of freedom / the day of slavery | 6.455, 6.463; κρητὴρ ἐλεύθερος "the mixing bowl of freedom" (6.528) |
 
 ## Epithets and formulas
 
@@ -192,6 +196,15 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἐρίγδουπος (Ζεύς) / χρυσάωρ (Ἀπόλλων) | loud-thundering / of the golden sword |
 | ὀβριμοπάτρη | daughter of the mighty father |
 | ἀλλοπρόσαλλος | turncoat |
+| πότνια μήτηρ | lady mother |
+| ξεῖνος πατρώϊος | guest-friend from our fathers' time |
+| θεοὶ ῥεῖα ζώοντες | the gods who live at ease |
+| οἳ ἀρούρης καρπὸν ἔδουσιν | who eat the fruit of the field |
+| οἰωνοπόλων ὄχʼ ἄριστος | by far the best of the bird-seers |
+| μήστωρ φόβοιο | master of rout |
+| ἤνις ἠκέστας | yearlings, never touched by the goad |
+| Τρῳαὶ ἐϋπλόκαμοι / Τρῳάδες ἑλκεσίπεπλοι | Trojan women with lovely tresses / Trojan women with trailing robes |
+| κύων (of Helen, by herself) | dog that I am (3.180 "dog-faced as I am") |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -314,3 +327,27 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **5.898** — ἐνέρτερος Οὐρανιώνων: "lower than the sons of Uranus", below even the Titans, who are kept
   under the earth around Cronus (14.274–279, 15.225); elsewhere Οὐρανίωνες are the gods of heaven (1.570,
   5.373), and some take it so here, "lower than the heavenly gods". Rendered "the sons of Uranus".
+- **6.1** — οἰώθη (οἰόω "leave alone"; elsewhere only 11.401, of Odysseus left alone in the fight): with Ares back on Olympus and Hera and Athena gone home (5.906–909), the battle is left to the Trojans and Achaeans themselves. Rendered "was left to itself".
+- **6.4** — An ancient variant of the verse, reported in the scholia, reads μεσσηγὺς ποταμοῖο Σκαμάνδρου καὶ στομαλίμνης, "between the river Scamander and the lagoon". Rendered as printed, "between the streams of the Simoeis and the Xanthus".
+- **6.40** — ἐν πρώτῳ ῥυμῷ (also 16.371): the pole snapped at its front end, where the yoke was bound on (5.729–730; 24.271–272 πέζῃ ἔπι πρώτῃ), as usually understood, rather than where it joined the chariot. Rendered "at the end of the pole", as ἐπʼ ἄκρῳ is "at its end" at 5.729.
+- **6.62** — αἴσιμα παρειπών (also 7.121, of Agamemnon's sound advice to Menelaus not to fight Hector): αἴσιμος is "right, proper" (15.207) or "fated" (αἴσιμον ἦμαρ, 8.72). Whether the narrator approves the killing of a suppliant, the Trojans having broken the oaths (4.157–162, 4.235–239), or says only that the advice accorded with what was fated, is debated. Rendered "urging what was due", which leans toward approval.
+- **6.94, 6.275, 6.309** — ἤνις ἠκέστας: "yearlings, never touched by the goad", following the ancient glosses ("a year old"; "ungoaded"). ἦνις occurs also at 10.292–293 (with ἀδμήτην, "unbroken"); ἠκέστας occurs only in these three lines, and its sense is uncertain.
+- **6.133** — Νυσήϊον, "the Nysean (place)", occurs only here. Nysa, where Dionysus was nursed, is a high mountain in the Homeric Hymn to Dionysus (1.8) and a plain in the Hymn to Demeter (17), and where it lay was disputed in antiquity. Rendered "the sacred Nysean mount".
+- **6.134–135** — θύσθλα (only here) are the sacred things of the rite (compare θύω), usually taken as the thyrsi or the Bacchic gear in general. βουπλήξ (only here in Homer) is an ox-goad or an axe for felling oxen. Rendered "sacred wands" and "ox-goad".
+- **6.152** — Ἐφύρη μυχῷ Ἄργεος ἱπποβότοιο (for the phrase, Od. 3.263): Argos here is the Peloponnese or the Argolid. Later writers identified this Ephyra with Corinth, which Homer also names (2.570, 13.664); it is not the Ephyra on the Selleis (2.659, 15.531). Rendered "in a corner of horse-pasturing Argos".
+- **6.158–159** — ἐπεὶ πολὺ φέρτερος ἦεν, / Ἀργείων· Ζεὺς γάρ οἱ ὑπὸ σκήπτρῳ ἐδάμασσε: rendered with Proetus as "far the mightier among the Argives" and the Argives as those whom Zeus had made subject to his scepter. Others take Ἀργείων with ἐκ δήμου ("drove him from the land of the Argives") and make Bellerophon the one whom Zeus subjected to Proetus; some make Bellerophon the one who was "far the better".
+- **6.168–169** — σήματα λυγρά … γράψας ἐν πίνακι πτυκτῷ: the only reference in Homer to anything like writing. γράφω is elsewhere "scratch, graze" (17.599; ἐπέγραψε 4.139), and the mark scratched on Ajax's lot (7.187, σῆμα 7.189) is known only to its owner. Whether the signs on the folded tablet were letters or some other marks is disputed. Rendered "signs" and "scratching", which leave the question open.
+- **6.200–205** — Why Bellerophon "was hated by all the gods" is not said; later poets tell how he tried to ride Pegasus up to heaven and was thrown (Pindar, Isthmian 7.44–47). Nor is it said why Artemis killed Laodameia "in her anger" (6.205). τὸ Ἀλήϊον πεδίον, "the Aleian plain", plays on ἀλᾶτο, "wandered"; Herodotus places it in Cilicia (6.95). Rendered literally.
+- **6.234–236** — Κρονίδης φρένας ἐξέλετο Ζεύς, "Zeus took away Glaucus' wits" (the phrase of Agamemnon's delusion at 19.137): the narrator's comment on the exchange of gold armor for bronze, "the worth of a hundred oxen for the worth of nine". Whether it is a joke at Glaucus' expense, a sober verdict on a bad bargain, or a way of pointing to his generosity is debated. Rendered literally.
+- **6.248** — τέγεοι, only here, from τέγος "roof": "roofed", as rendered, or "under the roof", chambers in an upper story set apart from the sons' rooms of 6.244.
+- **6.252** — Λαοδίκην ἐσάγουσα: "leading in Laodice", as the verb most naturally means, as rendered; an ancient explanation takes it as "going in to Laodice", to her daughter's rooms. θυγατρῶν εἶδος ἀρίστην as at 3.124.
+- **6.326** — χόλον τόνδε, "this anger": Hector does not say what Paris is angry at. Paris' reply takes it as anger at the Trojans (6.335), who hated him (3.454). The word may be Hector's tactful name for a holding back that he later calls willful (ἑκὼν μεθιεῖς, 6.523; compare 3.45). Rendered "this anger".
+- **6.344** — ὀκρυοέσσης: usually explained as κρυοέσσης, "chilling", wrongly divided from an older genitive in -οο (κακομηχάνοο κρυοέσσης); compare κρυόεσσα Ἰωκή (5.740), φόβου κρυόεντος (9.2) and ἐπιδημίου ὀκρυόεντος (9.64). Rendered "chilling".
+- **6.394** — ἄλοχος πολύδωρος (also 22.88; Od. 24.294): "richly dowered", bringing many gifts to her husband's house, as rendered, or "won with many gifts", since Hector gave countless bride-gifts for her (ἐπεὶ πόρε μυρία ἕδνα, 22.472).
+- **6.433–439** — Andromache's advice to post the army by the wild fig tree, where the wall can be scaled, was athetized in antiquity (by Aristarchus) as unfit for her to give, and Hector's reply (6.441–446) passes it over. The fig tree is a landmark near the wall (11.167, 22.145). Rendered as transmitted.
+- **6.456–457** — ἐν Ἄργει: Greece at large, or the Argolid. Hypereia is the Thessalian spring of 2.734 (κρήνην Ὑπέρειαν), and Messeis is named only here, so the springs place Andromache in no single region. Rendered "Argos" and "Messeis or Hypereia".
+- **6.479–480** — καί ποτέ τις εἴποι: the optative makes Hector's words a wish, "and may someone say", where the same formula elsewhere predicts with the subjunctive εἴπῃσι (6.459, 7.87). ἀνιόντα (6.480) agrees with no word in the sentence: the words are said of the boy "as he comes back from war". Rendered as a wish.
+- **6.487** — ὑπὲρ αἶσαν, "beyond my portion": Hector denies for himself what the poem elsewhere allows, that a thing may happen, or nearly happen, beyond what is fated (ὑπέρμορα 2.155; ὑπὲρ αἶσαν 16.780; ὑπὲρ Διὸς αἶσαν 17.321; ὑπέρμορον 20.30; ὑπὲρ μοῖραν δόμον Ἄϊδος εἰσαφίκηαι 20.336). At 3.59 = 6.333 the phrase is "beyond what is fair". Rendered "beyond my portion".
+- **6.506** (= 15.263) — ἀκοστήσας occurs only in this simile. It was explained in antiquity from ἀκοστή, a dialect word for barley: "barley-fed". Rendered "fed full of barley".
+- **6.513** — ἠλέκτωρ: "the beaming one", the sun. The same half-verse ends ἠλέκτωρ Ὑπερίων at 19.398. Rendered "the shining sun".
+- **6.528** — κρητῆρα … ἐλεύθερον, "the mixing bowl of freedom" (only here): a bowl set up for the gods in thanks for deliverance, as ἐλεύθερον ἦμαρ is "the day of freedom" (6.455; 16.831, 20.193). Rendered literally.

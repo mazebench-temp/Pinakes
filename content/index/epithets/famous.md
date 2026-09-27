@@ -3,16 +3,16 @@ title: Famous
 greek: κλειτός
 kind: epithet
 tags: [heroic-epithet, trojan]
-summary: “Renowned,” the epithet of the Trojans' allies in the formula κλειτοὶ ἐπίκουροι.
+summary: “Renowned,” κλειτός and its family (τηλεκλειτός, ἀγακλυτός, κλυτός): above all the epithet of the Trojans' allies in the formula κλειτοὶ ἐπίκουροι, and of glorious things.
 aliases: [renowned, kleitos]
 grc: [κλειτῶν]
 en: [famous]
-of: [trojan-allies]
+of: [trojan-allies, idomeneus]
 ---
 
 ## Meaning
 
-κλειτός is a verbal adjective from the family of κλέος (“fame, report”; [[kleos]]): “famous, renowned.” It is the standing epithet of the Trojans' allies, κλειτοὶ ἐπίκουροι (for example Il. 6.227), with fuller forms such as τηλεκλειτοί, “famous far and wide” (Il. 6.111).
+κλειτός is a verbal adjective from the family of κλέος (“fame, report”; [[kleos]]): “famous, renowned.” It is the standing epithet of the Trojans' allies, κλειτοὶ ἐπίκουροι (for example Il. 6.227), with fuller forms such as τηλεκλειτοί, “far-famed” (Il. 6.111).
 
 ## Use
 

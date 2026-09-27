@@ -10,7 +10,7 @@ en: [Xanthus]
 # Ξάνθον recurs for the Lycian river (6.172), Achilles' horse (16.149) and the river of Troy
 # (20.74, 21.332), which this entry will need to except. At 5.479 "Xanthus" is the Lycian river
 # (xanthus-of-lycia), and the English name must not be linked here.
-except: [5.479]
+except: [5.479, 6.172]
 refs: [5.153, 5.155-157]
 relations:
   - father: phaenops (5.152)

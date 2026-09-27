@@ -1,0 +1,5 @@
+---
+summary: “Godlike Alexander” names Paris three times in Book 6: as the man who brought the Sidonian robes and Helen from Sidon, and as he answers Hector twice.
+---
+
+Paris' formula Ἀλέξανδρος θεοειδής first names the voyage that began the war: the robes in Hecuba's storeroom were the work of Sidonian women, “whom godlike Alexander himself had brought from Sidon, sailing over the wide sea on that voyage on which he brought back Helen” (6.290–292; [[the-abduction-of-helen]], [[daughter-of-a-noble-father]]). It then introduces his two answers to Hector. “Then godlike Alexander spoke to him in turn” after the rebuke in his chamber (6.332), and he admits that the rebuke is fair, “not beyond what is fair” (6.333). “Godlike Alexander spoke to him first” when he catches up with his brother at the gates (6.517), to ask whether he has come in time ([[dear-brother]]). The epithet praises his looks, and Book 6 ends with the simile that praises them most, the stallion exulting in his splendor (6.506–514; [[the-stallion]], [[paris]]).

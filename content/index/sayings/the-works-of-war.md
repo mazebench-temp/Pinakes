@@ -4,7 +4,7 @@ greek: οὔ τοι τέκνον ἐμὸν δέδοται πολεμήϊα ἔ�
 kind: saying
 tags: [divine-will, warfare, speech]
 summary: Zeus' answer to his wounded daughter Aphrodite: the works of war are not hers but Ares' and Athena's; she is to attend to “the lovely works of marriage”. The same division of labor, in the same verb, sends Andromache and Penelope back to their looms.
-aliases: [the works of war, the works of marriage, war will be the concern of men, not for you the works of war]
+aliases: [the works of war, the works of marriage, not for you the works of war]
 grc: ["δέδοται πολεμήϊα ἔργα", "ἔργα γάμοιο", "Ἀθήνῃ πάντα μελήσει"]
 en: [are given the works of war, the lovely works of marriage, will be the business of]
 passages:

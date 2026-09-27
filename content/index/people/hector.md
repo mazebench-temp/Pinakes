@@ -17,6 +17,6 @@ relations:
 
 {{notes}}
 
-## Outside Homer
+## Elsewhere in Homer
 
 Hector leads the Trojans through the Iliad. He kills Patroclus in Book 16, is killed by Achilles in Book 22, and is buried in Book 24, with whose last line the poem ends: "So they buried Hector, tamer of horses."

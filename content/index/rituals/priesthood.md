@@ -3,7 +3,7 @@ title: Priesthood
 greek: ἱερεύς
 kind: ritual
 tags: [priest]
-summary: The service of a god at his sanctuary. Chryses, priest of Apollo at Chryse, is dishonored by Agamemnon, and the god avenges him.
+summary: The service of a god at his sanctuary. A priest or priestess serves one god at one place, prays and sacrifices for the people, and is honored by them.
 aliases: [priest, priests, priestess, arēter]
 grc: [ἀρητῆρα, ἱερῆα, ἀρητῆρος, ἱερεὺς]
 en: [priest]

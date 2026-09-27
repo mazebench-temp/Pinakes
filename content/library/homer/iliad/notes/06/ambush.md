@@ -1,0 +1,9 @@
+---
+summary: When Bellerophon comes back from his three tasks, the king of Lycia chooses the best men of Lycia and sets an ambush for him, and Bellerophon kills them all (6.187–190). The story is told in the words of Tydeus' ambush on his way back from Thebes.
+passages:
+  - 6.187-190 | The ambush for Bellerophon
+---
+
+“And as he was coming back, the king wove another cunning trap for him; he chose the best men out of wide Lycia and set an ambush; but they never came home again, for noble Bellerophon killed them all” (6.187–190). The ambush is the last of the king's trials, after the Chimaera, the Solymi and the Amazons (6.179–186; see [[bellerophon]]). It is laid with picked men, as ambushes are (see [[ambush]]), and laid on the road, for a man coming home from his labors.
+
+It is told in the words of the ambush that Agamemnon described to Diomedes in Book 4. There the Cadmeians, angry at Tydeus' victories, “as he went back … set a close ambush for him” of fifty young men (ἂψ ἄρʼ ἀνερχομένῳ πυκινὸν λόχον εἷσαν, 4.392). Here the king wove a close trap “as he was coming back” (τῷ δʼ ἄρʼ ἀνερχομένῳ πυκινὸν δόλον, 6.187) and “set an ambush” (εἷσε λόχον, 6.189). Tydeus “killed them all, and let only one go home” (4.397); of the Lycians, none came home, “for noble Bellerophon killed them all” (πάντας γὰρ κατέπεφνεν, 6.189–190). Tydeus spared Maeon “obeying the portents of the gods” (4.398), and Bellerophon killed the Chimaera with the same words (6.183). Both stories are told to Diomedes, one of his father and one of his opponent's grandfather (see [[tydeus-at-thebes]] and [[genealogy-in-battle]]). Each hero comes as a messenger or guest, is met with an ambush he was not meant to survive, and kills the men who lay in it. The king of Lycia then recognizes that his guest is “the noble offspring of a god” and gives him his daughter (6.191–192; see [[marriage]] and [[litotes]]).

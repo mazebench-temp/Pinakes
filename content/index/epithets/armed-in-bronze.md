@@ -7,7 +7,7 @@ summary: “Armed in bronze,” an epithet of [[Hector]], and once of Sarpedon, 
 aliases: [chalkokorystes, bronze-helmeted]
 grc: [χαλκοκορυστῇ]
 en: [armed in bronze]
-of: [hector]
+of: [hector, sarpedon]
 ---
 
 ## Meaning

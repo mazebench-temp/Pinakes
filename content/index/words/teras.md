@@ -17,7 +17,7 @@ A τέρας is a sign that a god shows (φαίνει) to mortals: a bird of ome
 
 A portent can be refused. Polydamas reads the eagle and the serpent as a warning to turn back (12.210–229). Hector answers that “one omen is best, to fight for one's country” (12.243).
 
-σῆμα is the broader word: any sign or mark. It can be a token, like the “baneful signs” that Proetus sent with Bellerophon in a folded tablet (6.168–169), or a grave-marker and so a tomb (7.86; 2.814; see [[tomb]]). Of Zeus it means a sign in the sky. He shows “signs of good omen” with lightning on the right (ἐναίσιμα σήματα, 2.353), and he kept the men of Mycenae from joining the march on Thebes “by showing unfavorable signs” (παραίσια σήματα, 4.381). The verb σημαίνω, “give a sign, give orders”, is formed from it (see [[semaino]]).
+σῆμα is the broader word: any sign or mark. It can be a token, like the “grim signs” that Proetus sent with Bellerophon on a folded tablet (6.168–169), or a grave-marker and so a tomb (7.86; 2.814; see [[tomb]]). Of Zeus it means a sign in the sky. He shows “signs of good omen” with lightning on the right (ἐναίσιμα σήματα, 2.353), and he kept the men of Mycenae from joining the march on Thebes “by showing unfavorable signs” (παραίσια σήματα, 4.381). The verb σημαίνω, “give a sign, give orders”, is formed from it (see [[semaino]]).
 
 πέλωρ is a monster, anything huge and dreadful; the Gorgon on the aegis is a “dread monster” (δεινοῖο πελώρου, 5.741). The neuter plural πέλωρα can name a portent as a thing of terror and wonder (2.321).
 

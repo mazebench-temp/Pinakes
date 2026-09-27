@@ -5,7 +5,7 @@ kind: epithet
 tags: [ship]
 summary: “Hollow,” an epithet of [[ships]]: κοῖλος, and its synonym γλαφυρός.
 aliases: [koilos]
-grc: [κοίλῃσιν, κοίλῃς]
+grc: [κοίλῃσιν, κοίλῃς, "!^Γλαφύρας"]
 en: [hollow]
 except: [4.454]
 of: [ships]

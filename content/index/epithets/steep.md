@@ -8,7 +8,7 @@ aliases: [sheer, aipys, aipeinos]
 grc: [αἰπύ, αἰπεῖα, αἰπεινὴν, αἰπεινὰ]
 except: [2.592]
 en: [steep]
-of: [dium, gonoessa, cyllene, batieia, tereia, mycale]
+of: [dium, gonoessa, cyllene, batieia, tereia, mycale, pedasus-on-the-satnioeis]
 ---
 
 ## Meaning

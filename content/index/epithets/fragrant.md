@@ -2,7 +2,7 @@
 title: Fragrant
 greek: κηώεις, εὐώδης, νεκτάρεος
 kind: epithet
-summary: Epithets of scent in the rooms of Paris and Helen: the “fragrant, perfumed” chamber and Helen's “fragrant” robe.
+summary: Epithets of scent: κηώεις and κηώδης, of storerooms and bedchambers and of a mother's bosom; εὐώδης, “sweet-smelling”; and νεκτάρεος, of garments with a divine fragrance.
 aliases: [perfumed, keoeis, euodes, nektareos]
 grc: [κηώεντι, εὐώδεϊ, νεκταρέου]
 en: [fragrant, perfumed]

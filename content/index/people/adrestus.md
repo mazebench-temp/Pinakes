@@ -7,7 +7,7 @@ summary: Son of the seer [[Merops]] of Percote, who led the men of [[Adrasteia]]
 aliases: [Adrastus son of Merops]
 grc: [Ἄδρηστος]
 en: [Adrestus]
-except: [2.572]
+except: [2.572, 6.45]
 refs: [2.831]
 relations:
   - father: merops (2.831)

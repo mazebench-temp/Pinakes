@@ -7,7 +7,7 @@ summary: “Sweet as honey to the heart,” an epithet of sleep, wine and grain:
 aliases: [honey-hearted, meliphron]
 grc: [μελίφρων]
 en: [honey-sweet]
-of: [hypnos]
+of: [hypnos, wine]
 ---
 
 ## Meaning

@@ -3,11 +3,11 @@ title: Fair-cheeked
 greek: καλλιπάρῃος
 kind: epithet
 tags: [heroic-epithet]
-summary: The epithet of both captive women of Book 1, [[Chryseis]] and [[Briseis]]: six times, three for each.
+summary: “With beautiful cheeks,” an epithet of women and goddesses: the captive women [[Chryseis]] and [[Briseis]], and [[Theano]], the priestess of Athena.
 aliases: [lovely-cheeked, kallipareos]
 grc: [καλλιπάρῃον]
 en: [fair-cheeked]
-of: [chryseis, briseis]
+of: [chryseis, briseis, theano]
 ---
 
 ## Meaning

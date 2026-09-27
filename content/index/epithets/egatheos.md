@@ -7,7 +7,7 @@ summary: “Very holy,” an epithet of places: Pylos, Lemnos, and in the Odysse
 aliases: [very sacred, sacred Pylos]
 grc: [ἠγαθέῃ]
 en: [sacred]
-of: [pylos, lemnos]
+of: [pylos, lemnos, nysa]
 ---
 
 ## Meaning

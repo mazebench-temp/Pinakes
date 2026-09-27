@@ -5,7 +5,7 @@ kind: term
 tags: [divine-will]
 summary: The ordinary words for a god and a goddess. Gods in Homer are above all the ones who do not die.
 aliases: [theos, thea, god, goddess, gods]
-grc: [θεὰ, θεῶν, θεοὶ, θεοῖς, θεοῖσι, θεοῖσιν, θεὸν, θεῷ, θεοῖο, θεός]
+grc: [θεὰ, θεῶν, θεοὶ, θεοῖς, θεοῖσι, θεοῖσιν, θεὸν, θεῷ, θεοῖο, θεός, "!=θέων", "!=θέον"]
 en: [goddess, gods, god]
 ---
 

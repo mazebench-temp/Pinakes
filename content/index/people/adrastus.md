@@ -6,7 +6,7 @@ tags: [argive, king, corinthia]
 summary: King of Argos and leader of the Seven against Thebes, the only one of them to come home alive. The Catalogue remembers him as a former king of Sicyon.
 aliases: [Adrastos, Adrestus of Argos]
 grc: [Ἄδρηστος]
-except: [2.830]
+except: [2.830, 6.45]
 relations:
   - grandchild: diomedes (14.121)
 ---

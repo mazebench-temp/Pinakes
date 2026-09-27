@@ -6,6 +6,7 @@ tags: [kingship]
 summary: Lord and master, a title of gods and of kings. [[Agamemnon]] is ἄναξ ἀνδρῶν, “lord of men”, and the verb ἀνάσσω means “be lord, rule”.
 aliases: [anax, wanax, anassō, rule]
 grc: [ἄναξ, ἄνακτος, ἄνακτι, ἄνακτα, ἀνάσσεις, ἄνασσε, ἄνασσεν, ἀνάσσει, ἀνάσσειν]
+except: [6.331]
 en: [lord, rule, rules, lord it over, was king]
 passages:
   - 1.277-289 | Who rules over whom

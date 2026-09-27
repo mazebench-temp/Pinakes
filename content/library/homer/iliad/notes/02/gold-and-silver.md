@@ -12,7 +12,7 @@ passages:
 
 **Gold as ransom.** Thersites asks Agamemnon whether he wants “still more gold, which someone will bring out of Ilios, one of the horse-taming Trojans, as ransom for his son” (2.229–231). Gold is the price of a life (see [[apoina|ἄποινα]]), and Thersites' charge is that the king takes the ransom while others take the prisoners. In Book 1 the ransom Chryses brought for his daughter began the whole quarrel (1.13).
 
-**The aegis.** Athena goes through the army holding the aegis, and from it “a hundred tassels hang floating, all of gold, all finely woven, and each worth a hundred oxen” (2.448–449; see [[aegis]]). The ornament of a god is priced in cattle, the measure of wealth in Homer. The same word, ἑκατόμβοιος (“worth a hundred oxen”), values Glaucus' golden armor (6.236).
+**The aegis.** Athena goes through the army holding the aegis, and from it “a hundred tassels hang floating, all of gold, all finely woven, and each worth a hundred oxen” (2.448–449; see [[aegis]]). The ornament of a god is priced in cattle, the measure of wealth in Homer. The same word, ἑκατόμβοιος (“the worth of a hundred oxen”), values Glaucus' golden armor (6.236).
 
 **Silver in the Catalogue.** Apollo, “god of the silver bow”, reared the mares of Eumelus (2.766). The Peneius is ἀργυροδίνης, “silver-eddying” (2.753), and the Titaressus runs over it like oil (see [[like-olive-oil]]). The Halizones come “from far away, from Alybe, where silver has its birth” (ὅθεν ἀργύρου ἐστὶ γενέθλη, 2.857), a rare notice in Homer of where a precious metal comes from (see [[alybe]]).
 

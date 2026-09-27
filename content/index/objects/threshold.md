@@ -3,7 +3,7 @@ title: Threshold
 greek: βηλός
 kind: object
 tags: [divine-object, cosmic, rare-word]
-summary: The divine threshold of Olympus, from which Zeus once hurled Hephaestus by the foot.
+summary: A threshold: the οὐδός of a house, where a man stands to go in or to call to those inside, and the divine threshold of Olympus, from which Zeus once hurled Hephaestus.
 aliases: [threshold of Olympus, belos]
 grc: [βηλοῦ]
 en: [threshold]

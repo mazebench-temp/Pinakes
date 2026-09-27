@@ -3,7 +3,7 @@ title: Horsehair-crested
 greek: ἵππουρις, ἱπποδάσεια
 kind: epithet
 tags: [weapon]
-summary: Two epithets of the [[helmet]] with its crest of horsehair: ἵππουρις, “with a horse-tail plume,” and ἱπποδάσεια, “thick with horsehair.”
+summary: Epithets of the [[helmet]] with its crest of horsehair: ἵππουρις, “with a horse-tail plume,” ἱπποδάσεια, “thick with horsehair,” and once ἱππιοχαίτης, “of horsehair.”
 aliases: [with a horsehair crest, hippouris, hippodaseia]
 grc: [ἵππουριν, ἱπποδασείης]
 en: [with a horsehair crest, horsehair-crested]

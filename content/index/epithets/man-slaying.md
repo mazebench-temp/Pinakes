@@ -7,7 +7,7 @@ summary: The standing epithet of [[Hector]]. His first appearance in the Iliad i
 aliases: [man-killing, androphonos]
 grc: [ἀνδροφόνοιο]
 en: [man-slaying]
-of: [hector]
+of: [hector, lycurgus]
 ---
 
 ## Meaning

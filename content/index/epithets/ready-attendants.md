@@ -3,11 +3,11 @@ title: Ready attendants
 greek: ὀτρηρὼ θεράποντε
 kind: epithet
 tags: [heroic-epithet, herald]
-summary: The description of Agamemnon's heralds [[Talthybius]] and [[Eurybates]] (1.321): “his heralds and his ready attendants.”
+summary: “Quick, ready,” ὀτρηρός, an epithet of those who serve: Agamemnon's heralds [[Talthybius]] and [[Eurybates]], and the housekeeper of Hector's house.
 aliases: [nimble squires, otreros]
 grc: [ὀτρηρὼ θεράποντε]
 en: [ready attendants]
-of: [talthybius, eurybates]
+of: [talthybius, eurybates, handmaids]
 ---
 
 ## Meaning

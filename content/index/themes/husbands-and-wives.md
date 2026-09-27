@@ -21,7 +21,7 @@ The army's own wives are at home. Agamemnon, testing the men, reminds them that 
 
 ## Two husbands
 
-Helen has two. The duel of Book 3 is fought to decide whose wife she will be (3.138), and she calls Menelaus her “former husband” to Paris' face (3.429; see [[posis]]). In Book 6 she wishes she were the wife of a better man, one who felt the blame and reproaches of others (6.349–351); Paris has just told Hector that she urged him back to battle “with soft words” (6.337–338).
+Helen has two. The duel of Book 3 is fought to decide whose wife she will be (3.138), and she calls Menelaus her “former husband” to Paris' face (3.429; see [[posis]]). In Book 6 she wishes she were the wife of a better man, one who felt the blame and reproaches of others (6.349–351); Paris has just told Hector that she urged him back to battle “with gentle words” (6.337–338).
 
 ## Hector and Andromache
 

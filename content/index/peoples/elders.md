@@ -7,7 +7,7 @@ summary: The γέροντες, the senior kings whom [[Agamemnon]] calls to coun
 aliases: [the elders, council of elders, gerontes]
 grc: [γερόντων, γέροντας]
 # γερόντων at 4.323 is old men in general ("the prize of the old"), not the council.
-except: [4.323]
+except: [4.323, 6.113]
 en: [elders]
 passages:
   - 2.53-83 | The council of elders

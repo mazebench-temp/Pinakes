@@ -7,7 +7,7 @@ summary: “Spearman, warrior”: a word for fighters, used as an epithet of peo
 aliases: [warrior, aichmetes]
 grc: [αἰχμητάων, αἰχμητὴν]
 en: [spearmen, spearman]
-of: [trojans, achilles, abantes, cicones, agamemnon]
+of: [trojans, achilles, abantes, cicones, agamemnon, diomedes]
 ---
 
 ## Meaning

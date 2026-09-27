@@ -6,6 +6,7 @@ tags: [achaean, assembly, kingship]
 summary: The rank and file of the Achaean army: the “men of the people” (δήμου ἄνδρες) and “the crowd” (πληθύς), set apart from the kings and the men of note. The poem gives none of them a name.
 aliases: [men of the people, man of the people, the crowd, the multitude, rank and file]
 grc: [δήμου, πληθύς, πληθὺν]
+except: [6.158]
 en: [man of the people, crowd, multitude]
 passages:
   - 2.198-206 | Odysseus and the commoners

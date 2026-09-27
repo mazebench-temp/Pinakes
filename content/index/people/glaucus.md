@@ -6,6 +6,7 @@ tags: [trojan, warrior, lycia]
 summary: Son of Hippolochus and grandson of Bellerophon, who leads the [[Lycians]] with his cousin [[Sarpedon]]. In Book 6 he meets Diomedes, tells him his lineage, and exchanges his gold armor for Diomedes' bronze.
 aliases: [Glaukos]
 grc: [Γλαῦκος]
+except: [6.155]
 en: [Glaucus]
 ---
 
@@ -23,7 +24,7 @@ en: [Glaucus]
 
 ## Elsewhere in Homer
 
-In Book 6 Glaucus and Diomedes meet between the armies. Asked who he is, Glaucus answers that the generations of men are like leaves, which the wind scatters and the wood puts forth again, and then tells the story of his grandfather Bellerophon (6.145–211). Diomedes finds that their grandfathers were guest-friends. The two agree not to fight each other and exchange armor, Glaucus giving gold for bronze, "a hundred oxen's worth for nine" (6.212–236). His father sent him to Troy with the charge "always to be the best and to excel the others" (6.208), the words Peleus gave Achilles (11.784). Teucer wounds him at the Achaean wall (12.387–391). The dying Sarpedon calls on him to defend his body, and Apollo heals his wound so that he can (16.492–531). He rebukes Hector for letting the body go (17.140–168).
+With his cousin [[Sarpedon]] he leads the Lycians in the Trojan catalogue (2.876–877). He kills Iphinous at the start of Book 7 (7.13–16). At the Achaean wall Sarpedon tells him why the two of them are honored in Lycia and must fight in the front rank (12.310–328), and Teucer's arrow wounds him as he climbs the wall (12.387–391). Dying, Sarpedon calls on him to defend his body; Glaucus, still wounded, prays to Apollo, who heals him, and he rallies the Lycians and kills Bathycles (16.492–531, 16.593–599). When the Trojans leave Sarpedon's body to the Achaeans, he rebukes Hector bitterly (17.140–168).
 
 ## Outside Homer
 

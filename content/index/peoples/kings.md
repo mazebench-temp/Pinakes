@@ -6,7 +6,7 @@ tags: [achaean, king, kingship]
 summary: The βασιλῆες, the “scepter-bearing kings” whom Zeus has nurtured: the leaders of the Achaean contingents. Homer's army has many kings, and one of them, [[Agamemnon]], commands the rest.
 aliases: [basilees, scepter-bearing kings, kings whom Zeus has nurtured]
 grc: [βασιλῆες, βασιλήων, βασιλεῦσιν, βασιλῆας, βασιλῆα]
-except: [1.331]
+except: [1.331, 6.163]
 passages:
   - 2.84-86 | The scepter-bearing kings
   - 2.188-206 | Odysseus: kings and commoners

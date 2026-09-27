@@ -7,7 +7,7 @@ summary: “Good, brave,” an old adjective of praise, found in the formula ἠ
 aliases: [good, eus]
 grc: [ἠΰς τε μέγας τε, ἐῢς πάϊς]
 en: [tall and brave, brave]
-of: [tlepolemus, aeneas, agamemnon, ajax]
+of: [tlepolemus, aeneas, agamemnon, ajax, acamas-of-thrace, bellerophon]
 ---
 
 ## Meaning

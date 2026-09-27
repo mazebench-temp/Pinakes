@@ -7,7 +7,7 @@ summary: “Curved,” an epithet of the [[bow]], and of the wheels of a chariot
 aliases: [bent bow, kampyla toxa]
 grc: [καμπύλα τόξα]
 en: [curved]
-of: [bow]
+of: [bow, chariot]
 ---
 
 ## Meaning

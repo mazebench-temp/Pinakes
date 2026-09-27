@@ -7,7 +7,7 @@ summary: “Beloved of Zeus,” said of heroes and of gods.
 aliases: [beloved of Zeus, Dii philos]
 grc: [Διῒ φίλε, Διῒ φίλον]
 en: [dear to Zeus]
-of: [achilles, apollo, phyleus]
+of: [achilles, apollo, phyleus, hector]
 ---
 
 ## Meaning

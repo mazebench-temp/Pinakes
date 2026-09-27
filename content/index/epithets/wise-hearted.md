@@ -7,7 +7,7 @@ summary: An epithet of heroes whose meaning was debated in antiquity: “wise-he
 aliases: [warlike-minded, daiphron]
 grc: [δαΐφρονος, δαΐφρων]
 en: [wise-hearted]
-of: [atreus, achilles]
+of: [atreus, achilles, bellerophon]
 ---
 
 ## Meaning

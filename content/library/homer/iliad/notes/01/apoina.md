@@ -1,3 +1,6 @@
+---
+summary: [[Chryses]] brings a boundless ransom for his daughter and [[Agamemnon]] refuses it; the god then demands her back “unbought, unransomed”.
+---
 {{quote:1fd8ebb8-0483-5133-a62e-328319840bc4}}
 
 The Iliad begins with a father coming to the enemy's ships with “boundless ransom” (ἀπερείσια ἄποινα) and the insignia of his god. The army shouts its approval: respect the priest and accept the splendid ransom (1.22–23). Agamemnon alone refuses.

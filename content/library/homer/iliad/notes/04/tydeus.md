@@ -14,7 +14,7 @@ passages:
 
 {{quote:dfb1d8cb-0468-58c8-ab94-3ad316d5a24f}}
 
-Tydeus fought “far ahead of his dear companions”, as a front-fighter; the son, Agamemnon says, cowers. The king's authority is hearsay. He never met Tydeus, and knows him from those who saw him “at his work” (πονεύμενον): the story is κλέος, the report that passes from mouth to mouth (see [[kleos]] and [[we-hear-only-the-report]]). The son does not remember him either. Tydeus left him when he was small, “when the host of the Achaeans perished at Thebes” (6.222–223), and when Diomedes boasts of his father's spearmanship he appeals to what the Achaeans “must have heard” (14.124–125).
+Tydeus fought “far ahead of his dear companions”, as a front-fighter; the son, Agamemnon says, cowers. The king's authority is hearsay. He never met Tydeus, and knows him from those who saw him “at his work” (πονεύμενον): the story is κλέος, the report that passes from mouth to mouth (see [[kleos]] and [[we-hear-only-the-report]]). The son does not remember him either. Tydeus left him when he was small, “when the army of the Achaeans perished at Thebes” (6.222–223), and when Diomedes boasts of his father's spearmanship he appeals to what the Achaeans “must have heard” (14.124–125).
 
 **The story.** It has four parts (see [[tydeus-at-thebes]]).
 

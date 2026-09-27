@@ -7,7 +7,7 @@ summary: “Holy, sacred”: an epithet of what belongs to the gods, their rites
 aliases: [sacred, holy hecatomb]
 grc: [ἱερὴν]
 en: [holy, sacred]
-of: [hecatomb, thebe, altar, onchestus, euboea, echinae]
+of: [hecatomb, thebe, altar, onchestus, euboea, echinae, troy, temple]
 ---
 
 ## Meaning

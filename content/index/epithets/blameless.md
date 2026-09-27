@@ -7,7 +7,7 @@ summary: A standing term of praise for heroes, seers and peoples, traditionally 
 aliases: [noble, excellent, amymon]
 grc: [ἀμύμων, ἀμύμονας]
 en: [noble, blameless]
-of: [calchas, ethiopians, achilles, glaucus]
+of: [calchas, ethiopians, achilles, glaucus, bellerophon, bucolion, andromache]
 ---
 
 ## Meaning

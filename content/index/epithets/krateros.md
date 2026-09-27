@@ -7,7 +7,7 @@ summary: “Strong, mighty; harsh,” an adjective of strength used of warriors,
 aliases: [krateros, karteros, strong, fierce]
 grc: [κρατερὸς, κρατερῷ, κρατερόν, κρατεραὶ, κρατερῇ, κρατερὰς, κρατέρʼ, "!κρατερὸν δʼ ἐπὶ μῦθον"]
 en: [mighty, strong, stronger, fierce, bitter]
-of: [diomedes, ares, diores]
+of: [diomedes, ares, diores, lycurgus]
 ---
 
 ## Meaning

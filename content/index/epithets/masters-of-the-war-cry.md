@@ -12,7 +12,7 @@ of: [athenians]
 
 ## Meaning
 
-μήστωρ is formed from μήδομαι (“devise, plan”): “deviser, master” + ἀϋτή (“shout, war cry,” and so battle): “masters of the war cry.” The noun makes several formulas. μήστωρες ἀϋτῆς is used of Meriones and Antilochus (Il. 13.93, 13.479), and of Patroclus and Hector fighting over the body of Cebriones (Il. 16.759–760). Diomedes and Hector are μήστωρ φόβοιο, “deviser of rout” (Il. 6.97, 12.39), and Priam is θεόφιν μήστωρ ἀτάλαντος, “equal to the gods in counsel” (Il. 7.366). Compare [[good-at-the-war-cry]] (βοὴν ἀγαθός).
+μήστωρ is formed from μήδομαι (“devise, plan”): “deviser, master” + ἀϋτή (“shout, war cry,” and so battle): “masters of the war cry.” The noun makes several formulas. μήστωρες ἀϋτῆς is used of Meriones and Antilochus (Il. 13.93, 13.479), and of Patroclus and Hector fighting over the body of Cebriones (Il. 16.759–760). Diomedes and Hector are μήστωρ φόβοιο, “master of rout” (Il. 6.97, 12.39), and Priam is θεόφιν μήστωρ ἀτάλαντος, “equal to the gods in counsel” (Il. 7.366). Compare [[good-at-the-war-cry]] (βοὴν ἀγαθός).
 
 ## Use
 

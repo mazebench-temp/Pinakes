@@ -1,0 +1,532 @@
+# Homer, Iliad, Book 6 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Now the dread din of battle between Trojans and Achaeans was left to itself,
+2	and again and again the battle surged this way and that across the plain
+3	as they aimed their bronze-fitted spears at one another
+4	between the streams of the Simoeis and the Xanthus.
+5	Telamonian Ajax, the bulwark of the Achaeans, was the first
+6	to break a battalion of the Trojans, and he brought light to his companions
+7	by striking the man who was the best among the Thracians,
+8	the son of Eussorus, Acamas, tall and brave.
+9	He was first to strike him on the ridge of his horsehair-crested helmet,
+10	and fixed it in his forehead, and it pierced into the bone,
+11	the bronze point; and darkness covered his eyes.
+12	And Diomedes, good at the war cry, killed Axylus,
+13	son of Teuthras, who lived in well-built Arisbe,
+14	wealthy in substance, and he was a friend to all men;
+15	for he lived in a house beside the road and gave welcome to all.
+16	But not one of them was there then to keep grim destruction from him
+17	by standing in front of him to meet the enemy; he took the lives of both,
+18	himself and his attendant Calesius, who at that time
+19	drove his horses as his charioteer; and the two of them went down beneath the earth.
+20	And Euryalus slew and stripped Dresus and Opheltius,
+21	and went after Aesepus and Pedasus, whom once the nymph
+22	Abarbarea, a Naiad, bore to noble Bucolion.
+23	Bucolion was the son of noble Laomedon,
+24	the eldest by birth, but his mother bore him in secret;
+25	and while he was tending his sheep he lay with her in love and bed,
+26	and she conceived and bore twin sons.
+27	And of these too he loosened the strength and the shining limbs,
+28	the son of Mecisteus, and stripped the armor from their shoulders.
+29	And Polypoetes, steadfast in battle, killed Astyalus;
+30	and Odysseus slew and stripped Pidytes of Percote
+31	with his bronze spear, and Teucer slew brilliant Aretaon.
+32	And Antilochus slew Ablerus with his shining spear,
+33	the son of Nestor, and Agamemnon, lord of men, slew Elatus;
+34	he lived beside the banks of the fair-flowing Satnioeis,
+35	in steep Pedasus. And the hero Leitus killed Phylacus
+36	as he fled; and Eurypylus slew and stripped Melanthius.
+37	Then Menelaus, good at the war cry, took Adrastus
+38	alive; for his horses, bolting in terror across the plain,
+39	caught in a tamarisk branch and broke the curved chariot
+40	at the end of the pole, and went on by themselves
+41	toward the city, where the others too were fleeing in terror,
+42	and he himself tumbled out of the chariot beside the wheel,
+43	face down in the dust, on his mouth; and beside him stood
+44	Menelaus, son of Atreus, holding his long-shadowed spear.
+45	Then Adrastus clasped his knees and begged him:
+46	“Take me alive, son of Atreus, and accept a worthy ransom;
+47	many treasures lie stored in the house of my wealthy father,
+48	bronze and gold and iron worked with much toil;
+49	from these my father would gladly give you a boundless ransom,
+50	if he heard that I was alive at the ships of the Achaeans.”
+51	So he spoke, and he began to win over the heart in his breast;
+52	and now he was on the point of sending him to the swift ships of the Achaeans,
+53	giving him to his attendant to lead down; but Agamemnon
+54	came running to meet him, and rebuked him and said:
+55	“My dear Menelaus, why are you so concerned
+56	for these men? Were you so very well treated in your house
+57	by the Trojans? Let not one of them escape sheer destruction
+58	and our hands, not even the boy whom his mother
+59	carries in her womb, not even he escape, but let them all together
+60	perish from Ilios, unmourned and without a trace.”
+61	So saying, the hero turned his brother's mind,
+62	urging what was due; and his brother pushed away from him with his hand
+63	the hero Adrastus; and powerful Agamemnon
+64	stabbed him in the flank, and he fell back; and the son of Atreus
+65	set his heel on his chest and pulled out the ash spear.
+66	And Nestor called out to the Argives, shouting aloud:
+67	“Friends, Danaan heroes, attendants of Ares,
+68	let no one now fling himself on the spoils and stay behind
+69	so as to come back to the ships carrying the most;
+70	but let us kill men; and afterward, at your ease,
+71	you can strip the dead bodies all over the plain.”
+72	So saying, he urged on the might and spirit of every man.
+73	Then once more the Trojans, before the Achaeans dear to Ares,
+74	would have gone up into Ilios, beaten by their own cowardice,
+75	had there not stood beside Aeneas and Hector, and spoken to them,
+76	Helenus, son of Priam, by far the best of the bird-seers:
+77	“Aeneas and Hector, since on you most of all rests the toil
+78	of the Trojans and the Lycians, because you are the best
+79	in every undertaking, both in fighting and in counsel,
+80	stand fast here, and hold the people back before the gates,
+81	ranging everywhere, before they fall into the arms of their women
+82	in flight, and become a joy to their enemies.
+83	And when you two have urged on all the battalions,
+84	we will stay here and fight the Danaans,
+85	hard pressed though we are; for necessity compels us.
+86	But you, Hector, go to the city, and then tell
+87	your mother and mine; let her gather the old women
+88	to the temple of gray-eyed Athena on the height of the city,
+89	and open with the key the doors of the sacred house,
+90	and the robe that seems to her the loveliest and largest
+91	in her hall, and by far the dearest to her own heart,
+92	let her lay on the knees of Athena of the lovely hair,
+93	and promise to sacrifice twelve cows to her in her temple,
+94	yearlings, never touched by the goad, if she will pity
+95	the city and the wives of the Trojans and their little children,
+96	so that she may hold the son of Tydeus back from sacred Ilios,
+97	that savage spearman, mighty master of rout,
+98	who, I say, has become the strongest of the Achaeans.
+99	We never feared like this even Achilles, leader of men,
+100	who they say was born of a goddess; but this man
+101	rages beyond measure, and no one can match his might.”
+102	So he spoke, and Hector did not disobey his brother;
+103	and at once he leapt from his chariot to the ground in his armor,
+104	and brandishing his sharp spears he went everywhere through the army,
+105	urging them to fight, and he awoke the dread din of battle.
+106	And they rallied, and stood facing the Achaeans;
+107	and the Argives gave ground and ceased from slaughter,
+108	and thought that one of the immortals had come down from the starry sky
+109	to bring help to the Trojans, so sharply did they rally.
+110	And Hector called out to the Trojans, shouting aloud:
+111	“High-hearted Trojans and far-famed allies,
+112	be men, my friends, and remember your furious courage,
+113	while I go up to Ilios and tell the elders
+114	who sit in council, and our wives,
+115	to pray to the gods and promise them hecatombs.”
+116	So he spoke, and Hector of the gleaming helmet went away;
+117	and the black hide knocked against his ankles and his neck,
+118	the rim that ran around the outer edge of his bossed shield.
+119	And Glaucus, son of Hippolochus, and the son of Tydeus
+120	came together between the two armies, eager to fight.
+121	And when they had come close, advancing against each other,
+122	Diomedes, good at the war cry, spoke to him first:
+123	“Who are you, good sir, among mortal men?
+124	For I have never seen you in the battle where men win glory
+125	before now; but now you have come out far in front of all
+126	in your daring, since you have stood up to my long-shadowed spear.
+127	It is the sons of unhappy men who meet my might.
+128	But if you are one of the immortals come down from heaven,
+129	I would not fight with the gods of heaven.
+130	For not even the son of Dryas, mighty Lycurgus,
+131	lived long, who strove with the gods of heaven;
+132	who once drove the nurses of raving Dionysus
+133	down the sacred Nysean mount; and all of them together
+134	let their sacred wands fall to the ground as man-slaying Lycurgus
+135	struck them with his ox-goad; and Dionysus, put to flight,
+136	plunged beneath the wave of the sea, and Thetis took him to her bosom
+137	in his fear; for a strong trembling had hold of him at the man's shouting.
+138	Then the gods who live at ease were angry with him,
+139	and the son of Cronus made him blind; and he did not live
+140	long after, since he was hated by all the immortal gods.
+141	Nor would I wish to fight with the blessed gods.
+142	But if you are one of the mortals who eat the fruit of the field,
+143	come nearer, so that you may the sooner reach the bounds of destruction.”
+144	Then the shining son of Hippolochus spoke to him in turn:
+145	“Great-hearted son of Tydeus, why do you ask about my lineage?
+146	As is the generation of leaves, so is that of men.
+147	The wind scatters the leaves on the ground, but the forest
+148	puts forth others as it flourishes, and the season of spring comes on;
+149	so it is with the generations of men: one grows, another passes away.
+150	But if you wish to learn this too, so that you may know well
+151	our lineage—and many men know it—
+152	there is a city, Ephyra, in a corner of horse-pasturing Argos,
+153	and there lived Sisyphus, who was the craftiest of men,
+154	Sisyphus, son of Aeolus; and he fathered a son, Glaucus,
+155	and Glaucus fathered noble Bellerophon.
+156	To him the gods gave beauty and lovely manhood;
+157	but Proetus devised evil against him in his heart,
+158	and drove him from the land, since he was far the mightier
+159	among the Argives; for Zeus had made them subject to his scepter.
+160	The wife of Proetus, brilliant Anteia, was mad with longing
+161	to lie with him in secret love; but she could not
+162	persuade wise-hearted Bellerophon, for his thoughts were good.
+163	So she lied, and said to Proetus the king:
+164	‘Either die, Proetus, or kill Bellerophon,
+165	who wanted to lie with me in love against my will.’
+166	So she spoke, and anger seized the lord at what he heard;
+167	he shrank from killing him, for his heart held back in awe from that,
+168	but he sent him to Lycia, and gave him grim signs,
+169	scratching on a folded tablet many things to destroy a man's life,
+170	and told him to show them to his own father-in-law, so that he would perish.
+171	And he went to Lycia under the blameless escort of the gods.
+172	But when he came to Lycia and the flowing Xanthus,
+173	the lord of wide Lycia honored him with a ready heart;
+174	nine days he entertained him and sacrificed nine oxen.
+175	But when the tenth rosy-fingered Dawn appeared,
+176	then he questioned him and asked to see the sign
+177	that he was bringing from his son-in-law Proetus.
+178	And when he had received the evil sign of his son-in-law,
+179	first he told him to kill the irresistible Chimaera;
+180	and she was of divine race, not of men,
+181	a lion in front, a serpent behind, and in the middle a she-goat,
+182	breathing out the terrible might of blazing fire.
+183	And he killed her, obeying the portents of the gods.
+184	Second, he fought with the glorious Solymi;
+185	that, he said, was the fiercest battle of men he ever entered.
+186	Third, he killed the Amazons, the equals of men.
+187	And as he was coming back, the king wove another cunning trap for him;
+188	he chose the best men out of wide Lycia
+189	and set an ambush; but they never came home again,
+190	for noble Bellerophon killed them all.
+191	But when the king knew that he was the noble offspring of a god,
+192	he kept him there, and gave him his daughter,
+193	and gave him half of all his royal honor;
+194	and the Lycians marked out for him a domain finer than all others,
+195	a fair one, of orchard and plowland, for him to hold.
+196	And she bore three children to wise-hearted Bellerophon,
+197	Isander and Hippolochus and Laodameia.
+198	With Laodameia Zeus the counselor lay,
+199	and she bore godlike Sarpedon, armed in bronze.
+200	But when he too was hated by all the gods,
+201	he wandered alone over the Aleian plain,
+202	eating his heart out, avoiding the paths of men;
+203	and Ares, insatiable of war, killed his son Isander
+204	as he fought the glorious Solymi;
+205	and Artemis of the golden reins killed his daughter in her anger.
+206	But Hippolochus begot me, and from him I claim my birth;
+207	and he sent me to Troy, and gave me many instructions,
+208	always to be the best and to excel above the others,
+209	and not to shame the race of my fathers, who were by far the best
+210	in Ephyra and in wide Lycia.
+211	This is the lineage and the blood I claim.”
+212	So he spoke, and Diomedes, good at the war cry, was glad;
+213	he fixed his spear in the bountiful earth,
+214	and spoke to the shepherd of the people with soothing words:
+215	“Then truly you are an old guest-friend of mine from our fathers' time;
+216	for brilliant Oeneus once entertained noble Bellerophon
+217	in his halls, and kept him there twenty days;
+218	and they gave each other fine guest-gifts:
+219	Oeneus gave a belt bright with purple,
+220	and Bellerophon a two-handled cup of gold,
+221	which I left in my house when I came here.
+222	Tydeus I do not remember, since I was still little
+223	when he left me, when the army of the Achaeans perished at Thebes.
+224	So now I am your dear guest-friend in the heart of Argos,
+225	and you are mine in Lycia, whenever I come to that land.
+226	Let us avoid each other's spears, even in the throng;
+227	for there are many Trojans and famous allies for me
+228	to kill, whomever a god gives me and my feet overtake,
+229	and many Achaeans in turn for you to slay, whomever you can.
+230	And let us exchange armor with each other, so that these men too
+231	may know that we claim to be guest-friends from our fathers' time.”
+232	So the two spoke, and leapt down from their chariots,
+233	and took each other's hands and pledged their faith.
+234	But then Zeus, son of Cronus, took away Glaucus' wits,
+235	for he exchanged armor with Diomedes, son of Tydeus,
+236	gold for bronze, the worth of a hundred oxen for the worth of nine.
+237	And when Hector came to the Scaean gates and the oak,
+238	the wives and daughters of the Trojans came running around him,
+239	asking after their sons and brothers and kinsmen
+240	and husbands; and he told them to pray to the gods,
+241	all of them in turn; and sorrows were in store for many.
+242	But when he came to the beautiful house of Priam,
+243	built with polished colonnades—and in it
+244	were fifty chambers of polished stone,
+245	built close to one another, and there the sons
+246	of Priam slept beside their wedded wives;
+247	and for his daughters, on the other side, facing them within the courtyard,
+248	were twelve roofed chambers of polished stone,
+249	built close to one another, and there the sons-in-law
+250	of Priam slept beside their modest wives—
+251	there his generous mother came to meet him,
+252	leading in Laodice, the most beautiful in form of her daughters;
+253	and she clung to his hand, and spoke to him, and called him by name:
+254	“My child, why have you left the bold war and come here?
+255	Surely the sons of the Achaeans, of evil name, are wearing us down
+256	as they fight around the city, and your heart has sent you here
+257	to come and lift up your hands to Zeus from the height of the city.
+258	But wait while I bring you honey-sweet wine,
+259	so that you may pour a libation to father Zeus and the other immortals
+260	first, and then you yourself will be the better for it, if you drink.
+261	For in a weary man wine greatly increases might,
+262	as you are weary from defending your kinsmen.”
+263	Then great Hector of the gleaming helmet answered her:
+264	“Do not bring me wine sweet to the heart, lady mother,
+265	for fear you unnerve me and rob me of my might, and I forget my courage;
+266	and with unwashed hands I shrink from pouring sparkling wine to Zeus;
+267	nor may a man in any way offer the son of Cronus, lord of the dark clouds,
+268	a prayer when he is spattered with blood and gore.
+269	But you go to the temple of Athena, driver of spoil,
+270	with burnt offerings, gathering the old women;
+271	and the robe that is the loveliest and largest
+272	in your hall, and by far the dearest to your own heart,
+273	lay it on the knees of Athena of the lovely hair,
+274	and promise to sacrifice twelve cows to her in her temple,
+275	yearlings, never touched by the goad, if she will pity
+276	the city and the wives of the Trojans and their little children,
+277	if she will hold the son of Tydeus back from sacred Ilios,
+278	that savage spearman, mighty master of rout.
+279	But you go to the temple of Athena, driver of spoil,
+280	and I will go after Paris, to call him,
+281	if he is willing to listen to what I say. There and then
+282	may the earth gape for him! For the Olympian has raised him as a great bane
+283	to the Trojans and to great-hearted Priam and his sons.
+284	If I could see him going down into the house of Hades,
+285	I would think my heart had forgotten its joyless misery.”
+286	So he spoke, and she went to the hall and called to her handmaids,
+287	and they gathered the old women throughout the city.
+288	But she herself went down into the fragrant chamber,
+289	where her robes were, richly embroidered, the work of women
+290	of the Sidonians, whom godlike Alexander himself
+291	had brought from Sidon, sailing over the wide sea
+292	on that voyage on which he brought back Helen, daughter of a noble father;
+293	of these Hecuba took one and carried it as a gift to Athena,
+294	the one that was most beautiful in its embroidery and the largest,
+295	and it shone like a star; and it lay beneath all the others.
+296	And she went her way, and many old women hurried after her.
+297	And when they came to the temple of Athena on the height of the city,
+298	fair-cheeked Theano opened the doors for them,
+299	daughter of Cisseus, the wife of Antenor, tamer of horses;
+300	for the Trojans had made her priestess of Athena.
+301	And with a loud cry they all lifted up their hands to Athena;
+302	and fair-cheeked Theano took the robe
+303	and laid it on the knees of Athena of the lovely hair,
+304	and made her prayer to the daughter of great Zeus:
+305	“Lady Athena, protector of the city, brilliant among goddesses,
+306	break the spear of Diomedes, and grant that he himself
+307	may fall headlong before the Scaean gates,
+308	so that we may now at once sacrifice twelve cows to you in your temple,
+309	yearlings, never touched by the goad, if you will pity
+310	the city and the wives of the Trojans and their little children.”
+311	So she spoke in prayer, but Pallas Athena shook her head.
+312	So they prayed to the daughter of great Zeus,
+313	and Hector went to the house of Alexander,
+314	a beautiful house, which he himself had built with the men who were then the best
+315	builders in deep-soiled Troy,
+316	who made him a bedchamber and a hall and a courtyard
+317	near those of Priam and Hector on the height of the city.
+318	There Hector, dear to Zeus, went in, and in his hand
+319	he held a spear eleven cubits long; and before him shone
+320	the bronze point of the spear, and a golden ring ran around it.
+321	He found him in his chamber busy with his beautiful armor,
+322	his shield and his corselet, and handling his curved bow;
+323	and Argive Helen sat among her slave women
+324	and was directing her handmaids in their glorious work.
+325	Seeing him, Hector rebuked him with shaming words:
+326	“Strange one, you do wrong to keep this anger in your heart.
+327	The people are dying around the city and the steep wall
+328	in the fighting; and it is for your sake that the war cry and the war
+329	blaze around this city; and you yourself would quarrel with any other man
+330	whom you saw holding back from hateful war.
+331	Up, then, for fear the city will soon burn with consuming fire.”
+332	Then godlike Alexander spoke to him in turn:
+333	“Hector, since you rebuke me fairly and not beyond what is fair,
+334	I will tell you this; and you take heed and listen to me.
+335	It was not so much because I was angry or indignant with the Trojans
+336	that I sat in my chamber; I wanted to give myself up to grief.
+337	But just now my wife, persuading me with gentle words,
+338	spurred me to the war; and it seems to me, too,
+339	that it will be better so; victory shifts from man to man.
+340	But come now, wait while I put on my armor of war;
+341	or go, and I will follow; and I think I will overtake you.”
+342	So he spoke, and Hector of the gleaming helmet said nothing to him,
+343	and Helen spoke to him with soothing words:
+344	“Brother-in-law to me, dog that I am, evil-scheming and chilling,
+345	how I wish that on the day when my mother first bore me
+346	an evil storm of wind had carried me away
+347	to a mountain or into the wave of the loud-roaring sea,
+348	where the wave would have swept me away before these things came to pass.
+349	But since the gods ordained these evils so,
+350	then I wish I had been the wife of a better man,
+351	one who felt the blame and the many reproaches of men.
+352	But this man's mind is not steadfast now, nor will it ever be
+353	hereafter; and so I think he will reap the fruit of it.
+354	But come now, come in and sit on this chair,
+355	brother-in-law, since the toil has beset your mind most of all
+356	for my sake, dog that I am, and for Alexander's blind folly,
+357	on whom Zeus has set an evil fate, so that hereafter
+358	we may be a theme of song for men who are yet to be.”
+359	Then great Hector of the gleaming helmet answered her:
+360	“Do not ask me to sit, Helen, though you love me; you will not persuade me.
+361	For already my heart is eager to go and help
+362	the Trojans, who long for me greatly when I am away.
+363	But you rouse this man, and let him hurry himself,
+364	so that he may catch up with me while I am still inside the city.
+365	For I too will go home, to see
+366	my household and my dear wife and my infant son.
+367	For I do not know if I will ever come back to them again,
+368	or if the gods will now bring me down at the hands of the Achaeans.”
+369	So he spoke, and Hector of the gleaming helmet went away;
+370	and quickly he came to his well-appointed house,
+371	but he did not find white-armed Andromache in the halls;
+372	she had gone with her child and a well-robed handmaid
+373	and was standing on the tower, lamenting and weeping.
+374	And when Hector did not find his noble wife within,
+375	he went and stood on the threshold, and spoke among the slave women:
+376	“Come, slave women, tell me truly:
+377	where has white-armed Andromache gone from the hall?
+378	Has she gone to my sisters, or to my brothers' well-robed wives,
+379	or to the temple of Athena, where the other
+380	Trojan women with lovely tresses are appeasing the dread goddess?”
+381	Then the ready housekeeper spoke to him in turn:
+382	“Hector, since you bid me tell you the truth,
+383	she has not gone to your sisters or to your brothers' well-robed wives,
+384	nor to the temple of Athena, where the other
+385	Trojan women with lovely tresses are appeasing the dread goddess;
+386	she has gone to the great tower of Ilios, because she heard
+387	that the Trojans were hard pressed, and the Achaeans had great strength.
+388	She has gone hurrying to the wall
+389	like a woman out of her mind; and the nurse is carrying the child with her.”
+390	The housekeeper spoke, and Hector hurried from the house
+391	back the same way through the well-built streets.
+392	When he had crossed the great city and came to the gates,
+393	the Scaean gates, by which he meant to go out to the plain,
+394	there his richly dowered wife came running to meet him,
+395	Andromache, the daughter of great-hearted Eetion,
+396	Eetion who lived beneath wooded Placus,
+397	in Thebe under Placus, lord over the Cilician men;
+398	it was his daughter who was the wife of Hector armed in bronze.
+399	She met him then, and with her came a handmaid
+400	holding the child at her breast, an infant of tender mind, quite small,
+401	the beloved son of Hector, like a lovely star,
+402	whom Hector called Scamandrius, but the others
+403	Astyanax; for Hector alone was guarding Ilios.
+404	And he smiled as he looked at his son in silence;
+405	but Andromache stood close beside him, shedding tears,
+406	and she clung to his hand, and spoke to him, and called him by name:
+407	“Strange one, your own might will destroy you, and you have no pity
+408	for your infant son or for me, ill-fated, who soon will be
+409	your widow; for soon the Achaeans will kill you,
+410	all rushing upon you together; and for me it would be better,
+411	if I lose you, to go down beneath the earth; for there will be no other
+412	comfort for me, when you have met your fate,
+413	only grief; and I have no father and no lady mother.
+414	For brilliant Achilles killed my father,
+415	and utterly sacked the well-peopled city of the Cilicians,
+416	high-gated Thebe; he killed Eetion,
+417	but he did not strip him, for his heart held back in awe from that,
+418	but he burned him with his intricate armor
+419	and heaped a mound over him; and elms were planted around it
+420	by the mountain nymphs, daughters of aegis-bearing Zeus.
+421	And the seven brothers I had in our halls
+422	all went down on a single day into the house of Hades;
+423	for brilliant swift-footed Achilles killed them all
+424	among their shambling cattle and white sheep.
+425	And my mother, who was queen beneath wooded Placus,
+426	he brought here with the rest of the possessions,
+427	and then he set her free, taking a boundless ransom,
+428	and in her father's halls Artemis of the showering arrows struck her down.
+429	Hector, you are father to me, and lady mother,
+430	and brother, and you are my husband in his prime;
+431	but come now, have pity, and stay here on the tower,
+432	do not make your child an orphan and your wife a widow;
+433	and station the army by the wild fig tree, where most of all
+434	the city can be scaled and the wall is open to assault.
+435	For three times the best of them have come there and made trial of it,
+436	with the two Ajaxes and far-famed Idomeneus
+437	and with the sons of Atreus and the valiant son of Tydeus;
+438	perhaps someone well skilled in oracles told them of it,
+439	or perhaps their own heart urges them on and bids them.”
+440	Then great Hector of the gleaming helmet spoke to her in turn:
+441	“All these things are on my mind too, lady; but most terribly
+442	I would feel shame before the Trojans and the Trojan women with trailing robes,
+443	if like a coward I shrink away from the war;
+444	nor does my heart bid me, since I have learned to be brave
+445	always, and to fight among the foremost of the Trojans,
+446	winning great fame for my father and for myself.
+447	For I know this well in my mind and in my heart:
+448	a day will come when sacred Ilios will perish,
+449	and Priam, and the people of Priam of the good ash spear.
+450	But it is not so much the sorrow of the Trojans hereafter that troubles me,
+451	nor of Hecuba herself, nor of lord Priam,
+452	nor of my brothers, who, many and brave,
+453	may fall in the dust at the hands of hostile men,
+454	as yours, when one of the bronze-armored Achaeans
+455	leads you away in tears, taking away your day of freedom;
+456	and in Argos you may weave at the loom at another woman's bidding,
+457	and carry water from Messeis or Hypereia,
+458	much against your will, and harsh necessity will lie upon you;
+459	and someday a man will say as he sees you shedding tears:
+460	‘This is the wife of Hector, who was always the best in the fighting
+461	of the horse-taming Trojans, when they fought around Ilios.’
+462	So someone will say one day; and it will be fresh sorrow for you
+463	to lack such a man to ward off the day of slavery.
+464	But may I be dead, and the heaped earth cover me,
+465	before I hear your cries as they drag you away.”
+466	So saying, shining Hector reached out for his son;
+467	but the child shrank back crying into the bosom of his fair-belted nurse,
+468	frightened at the sight of his dear father,
+469	afraid of the bronze and the plume of horsehair,
+470	as he saw it nodding terribly from the top of the helmet.
+471	And his dear father and his lady mother laughed aloud;
+472	and at once shining Hector took the helmet from his head
+473	and laid it, all gleaming, on the ground;
+474	and when he had kissed his dear son and dandled him in his arms,
+475	he spoke in prayer to Zeus and the other gods:
+476	“Zeus and you other gods, grant that this child of mine
+477	may become, as I am, preeminent among the Trojans,
+478	as good in strength, and rule Ilios with might;
+479	and may someone say one day, ‘He is far better than his father,’
+480	as he comes back from war; and may he bring back bloody spoils
+481	when he has killed his enemy, and may his mother's heart rejoice.”
+482	So saying, he placed in the arms of his dear wife
+483	his son; and she took him to her fragrant bosom,
+484	laughing through her tears; and her husband saw it and pitied her,
+485	and stroked her with his hand, and spoke to her, and called her by name:
+486	“Strange one, do not grieve too much in your heart for me;
+487	for no man will hurl me down to Hades beyond my portion;
+488	and no man, I say, has ever escaped his fate,
+489	no coward and no brave man, once he has been born.
+490	But go into the house and attend to your own work,
+491	the loom and the distaff, and tell your handmaids
+492	to go about their work; and war will be the concern of men,
+493	of all the men who were born in Ilios, and mine most of all.”
+494	So he spoke, and shining Hector took up his helmet
+495	with its horsehair crest; and his dear wife went home,
+496	turning back again and again, shedding big tears.
+497	And quickly she came to the well-appointed house
+498	of man-slaying Hector, and found within many
+499	handmaids, and she roused lamentation among them all.
+500	So they lamented Hector in his own house while he was still alive;
+501	for they thought he would never come back again from the war
+502	escaping the might and the hands of the Achaeans.
+503	Nor did Paris linger long in his lofty house,
+504	but when he had put on his glorious armor, inlaid with bronze,
+505	he hurried through the city, trusting in his swift feet.
+506	As when a stalled horse, fed full of barley at the manger,
+507	breaks his halter and gallops across the plain, pounding the ground,
+508	used to bathing in the fair-flowing river,
+509	exulting; he holds his head high, and his mane
+510	streams about his shoulders; and trusting in his splendor
+511	his knees carry him swiftly to the haunts and pasture of the horses:
+512	so Paris, son of Priam, came down from the height of Pergamus,
+513	gleaming in his armor like the shining sun,
+514	laughing aloud, and his swift feet carried him; and quickly then
+515	he came upon brilliant Hector, his brother, just as he was about
+516	to turn from the place where he had talked intimately with his wife.
+517	Godlike Alexander spoke to him first:
+518	“Dear brother, I am surely holding you back in your haste
+519	by lingering, and did not come in due time, as you told me?”
+520	Answering him, Hector of the gleaming helmet said:
+521	“Strange one, no man who was fair-minded
+522	would dishonor your work in battle, since you are valiant;
+523	but you hold back of your own will and do not want to fight; and my heart
+524	grieves in my spirit when I hear shameful things said of you
+525	by the Trojans, who have much toil for your sake.
+526	But let us go; we will make these things right later, if ever Zeus
+527	grants us, for the everlasting gods of heaven,
+528	to set up the mixing bowl of freedom in our halls,
+529	when we have driven the well-greaved Achaeans out of Troy.”

@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    { "from": 1, "to": 36, "title": "The Battle Without the Gods", "summary": "With the gods gone from the field, the Achaeans press the Trojans between the Simoeis and the Xanthus. Ajax kills the Thracian Acamas, Diomedes kills the hospitable Axylus and his charioteer, and nine more Trojans fall to the Achaean leaders, among them the twin sons of Bucolion and a nymph." },
+    { "from": 37, "to": 72, "title": "Adrastus Begs for His Life", "summary": "Menelaus takes Adrastus alive when his horses wreck his chariot, and is ready to accept a ransom; Agamemnon runs up, demands that not even the unborn be spared, and kills the suppliant himself. Nestor tells the Achaeans to kill now and strip the dead later." },
+    { "from": 73, "to": 118, "title": "Helenus Sends Hector to Troy", "summary": "Helenus, the best of the bird-seers, tells Aeneas and Hector to rally the army at the gates and sends Hector into the city: Hecuba and the old women are to lay a robe on Athena's knees and promise her twelve cows if she will keep Diomedes from Ilios. Hector rallies the Trojans and goes." },
+    { "from": 119, "to": 236, "title": "Glaucus and Diomedes", "summary": "Diomedes asks the stranger who faces him whether he is a god, and tells the story of Lycurgus, who fought Dionysus and was blinded. Glaucus answers that the generations of men are like leaves, and tells the story of his grandfather Bellerophon. Diomedes finds that their grandfathers were guest-friends; they agree not to fight, and exchange armor, gold for bronze." },
+    { "from": 237, "to": 311, "title": "Hecuba and the Robe", "summary": "At the Scaean gates the Trojan women crowd around Hector asking for their men. In Priam's palace Hecuba offers him wine, which he refuses. She takes the finest of her Sidonian robes to Athena's temple, where Theano lays it on the goddess's knees and prays that Diomedes may fall; Athena refuses." },
+    { "from": 312, "to": 368, "title": "Hector, Paris and Helen", "summary": "Hector finds Paris polishing his armor in his chamber and rebukes him. Paris agrees to follow him to the war. Helen curses herself and her husband, asks Hector to sit, and says that Zeus has given them an evil fate so that they may be a song for men to come; Hector refuses, and goes to find his wife." },
+    { "from": 369, "to": 502, "title": "Hector and Andromache", "summary": "Andromache is not at home but on the tower; Hector meets her at the Scaean gates with the nurse and their son Astyanax. She begs him to stay: Achilles killed her father and her seven brothers, and Hector is father, mother, brother and husband to her. He answers that shame will not let him, foresees the fall of Troy and her slavery, takes off his helmet when the child is frightened by its crest, and prays that his son may be better than his father. She goes home, and the household mourns him while he still lives." },
+    { "from": 503, "to": 529, "title": "Paris Rejoins Hector", "summary": "Paris comes down from Pergamus in his armor like a stallion broken loose from its stall, and catches up with Hector as he leaves Andromache. Hector tells him that he is brave but holds back of his own will, and they go out together." }
+  ],
+  "speeches": [
+    { "from": 46, "to": 50, "speaker": "adrastus-the-trojan", "to_whom": ["menelaus"], "kind": "supplication" },
+    { "from": 55, "to": 60, "speaker": "agamemnon", "to_whom": ["menelaus"], "kind": "rebuke" },
+    { "from": 67, "to": 71, "speaker": "nestor", "to_whom": ["argives"], "kind": "exhortation" },
+    { "from": 77, "to": 101, "speaker": "helenus", "to_whom": ["aeneas", "hector"], "kind": "advice" },
+    { "from": 111, "to": 115, "speaker": "hector", "to_whom": ["trojans", "trojan-allies"], "kind": "exhortation" },
+    { "from": 123, "to": 143, "speaker": "diomedes", "to_whom": ["glaucus"], "kind": "challenge" },
+    { "from": 145, "to": 211, "speaker": "glaucus", "to_whom": ["diomedes"], "kind": "genealogy" },
+    { "from": 215, "to": 231, "speaker": "diomedes", "to_whom": ["glaucus"], "kind": "proposal" },
+    { "from": 254, "to": 262, "speaker": "hecuba", "to_whom": ["hector"], "kind": "welcome" },
+    { "from": 264, "to": 285, "speaker": "hector", "to_whom": ["hecuba"], "kind": "instruction" },
+    { "from": 305, "to": 310, "speaker": "theano", "to_whom": ["athena"], "kind": "prayer" },
+    { "from": 326, "to": 331, "speaker": "hector", "to_whom": ["paris"], "kind": "rebuke" },
+    { "from": 333, "to": 341, "speaker": "paris", "to_whom": ["hector"], "kind": "reply" },
+    { "from": 344, "to": 358, "speaker": "helen", "to_whom": ["hector"], "kind": "lament" },
+    { "from": 360, "to": 368, "speaker": "hector", "to_whom": ["helen"], "kind": "reply" },
+    { "from": 376, "to": 380, "speaker": "hector", "to_whom": ["handmaids"], "kind": "question" },
+    { "from": 382, "to": 389, "speaker": "handmaids", "to_whom": ["hector"], "kind": "reply" },
+    { "from": 407, "to": 439, "speaker": "andromache", "to_whom": ["hector"], "kind": "entreaty" },
+    { "from": 441, "to": 465, "speaker": "hector", "to_whom": ["andromache"], "kind": "reply" },
+    { "from": 476, "to": 481, "speaker": "hector", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 486, "to": 493, "speaker": "hector", "to_whom": ["andromache"], "kind": "consolation" },
+    { "from": 518, "to": 519, "speaker": "paris", "to_whom": ["hector"], "kind": "apology" },
+    { "from": 521, "to": 529, "speaker": "hector", "to_whom": ["paris"], "kind": "reply" }
+  ],
+  "days": [
+    { "from": 1, "to": 529, "label": "Day 22", "note": "The battle that began at 4.446 continues; Hector's visit to Troy takes place on the same day, and the day ends in Book 7." }
+  ]
+}

@@ -3,7 +3,7 @@ title: Favor, thanks
 greek: χάρις
 kind: term
 tags: [exchange, honor]
-summary: Grace, favor and the gratitude that answers it: the goodwill that a gift or a service earns, and the obligation it lays on the one who receives it. Athena promises Pandarus “thanks and glory” from all the Trojans if he shoots Menelaus.
+summary: Grace, favor and the gratitude that answers it: the goodwill that a gift or a service earns, and the obligation it lays on the one who receives it.
 aliases: [charis, kharis, charites, grace, gratitude, favor]
 grc: [χάριν]
 en: [thanks]

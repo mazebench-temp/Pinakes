@@ -1,3 +1,7 @@
+---
+summary: Thetis performs the full rite before Zeus, clasping his knees and chin (1.500–516), as Achilles told her to. The book opens with Chryses' plea to the army, the same act without the touch.
+---
+
 **Chryses.** The poem opens with a supplication without the touch.
 
 {{quote:da958e60-0546-506c-9375-4f70add0023e}}

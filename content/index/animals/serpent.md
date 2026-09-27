@@ -21,7 +21,7 @@ At the Achaean wall, as the Trojans are about to cross the ditch, an eagle flyin
 
 In the similes the snake is the sudden danger that makes a man recoil. Paris, seeing Menelaus, shrinks back into the Trojan ranks like a man who comes upon a snake in a mountain glen and springs away, trembling and pale (Iliad 3.33–37). Hector waits for Achilles like a snake at its hole, full of poison and anger, coiling and glaring (Iliad 22.93–97).
 
-On Agamemnon's armor snakes are ornament and threat. Three dark-blue snakes on each side of his corselet stretch toward the neck, like the rainbows Zeus sets in the clouds as a sign for mortals, and a dark-blue snake with three heads coils on the strap of his shield (Iliad 11.26–28, 11.39–40). The Chimaera that Bellerophon killed was “a lion in front, a serpent behind, a goat in the middle”, breathing fire (Iliad 6.179–183). In the Odyssey, Proteus turns himself into a snake among his other shapes (Odyssey 4.456–457).
+On Agamemnon's armor snakes are ornament and threat. Three dark-blue snakes on each side of his corselet stretch toward the neck, like the rainbows Zeus sets in the clouds as a sign for mortals, and a dark-blue snake with three heads coils on the strap of his shield (Iliad 11.26–28, 11.39–40). The Chimaera that Bellerophon killed was “a lion in front, a serpent behind, and in the middle a she-goat”, breathing fire (Iliad 6.179–183). In the Odyssey, Proteus turns himself into a snake among his other shapes (Odyssey 4.456–457).
 
 ## Outside Homer
 

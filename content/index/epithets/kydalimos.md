@@ -7,7 +7,7 @@ summary: “Glorious, renowned,” an epithet of heroes from κῦδος, “glo
 aliases: [kydalimos, renowned]
 grc: [κυδαλίμοιο]
 en: [glorious]
-of: [menelaus, capaneus]
+of: [menelaus, capaneus, solymi]
 ---
 
 ## Meaning

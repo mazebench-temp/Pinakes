@@ -7,7 +7,7 @@ order: 6
 mode: told
 narrator: achilles
 tags: [warfare, backstory]
-summary: Achilles tells Thetis how the Achaeans sacked Thebe, the sacred city of Eetion, and chose Chryseis from its spoils for Agamemnon.
+summary: Before the Iliad begins, Achilles sacked Thebe under Placus, the city of Eetion in the Troad. He killed Eetion and his seven sons, and Chryseis and Eetion's queen were among the captives.
 participants: [achilles, eetion, chryseis, agamemnon]
 passages:
   - 1.366-369 | The sack of Thebe
@@ -17,10 +17,8 @@ passages:
 
 {{quote:aa442036-5e51-54e0-8580-f2c655049ad7}}
 
-## In the poem
-
-Achilles begins his account to Thetis at the source: the raid that produced Chryseis. The four lines connect the plague back to Achilles' own victory. The prize the Achaeans chose for Agamemnon from Achilles' conquest is the one whose return costs Achilles Briseis.
+Thebe “under Placus”, the city of Eetion, lay in the Troad (6.396–397; see [[thebe]] and [[placus]]). The poem tells its fall twice. Achilles tells it to Thetis as a victor: the Achaeans sacked the city, brought the spoil to the ships, and chose Chryseis from it for Agamemnon (1.366–369). The narrator of the catalogue names it with Lyrnessus among his conquests (2.690–691). Andromache, Eetion's daughter, tells it in Book 6 as a loss. Achilles killed her father and did not strip him, “for his heart held back in awe from that”, but burned him in his armor and heaped a mound over him; he killed her seven brothers on a single day among their cattle and sheep; and he brought her mother to the camp and freed her for a boundless ransom, before Artemis struck her down in her father's halls (6.414–428; see [[eetion]] and [[andromache]]). The spoils of Thebe return later in the poem: the lyre Achilles plays in his hut (9.186–189), his trace horse Pedasus (16.152–154), and the lump of iron he sets as a prize at the funeral games (23.826–829).
 
 ## Outside Homer
 
-Andromache tells the other side in Book 6. Achilles killed her father, King Eetion, and her seven brothers on one day, and her mother died later, after being ransomed (6.414–428). He did not strip Eetion's body but burned it with his armor, "for he felt a reverence in his heart". Chryseis, oddly, was taken from Thebe though her home was Chryse. Ancient commentators suggested that she was visiting, or had married there.
+Chryseis, oddly, was taken from Thebe though her home was Chryse. Ancient commentators suggested that she was visiting, or had married there.

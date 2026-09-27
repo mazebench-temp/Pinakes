@@ -1,0 +1,14 @@
+---
+summary: Diomedes' aristeia ends in Book 6: he kills Axylus and his charioteer, Helenus calls him the strongest of the Achaeans, and the women of Troy pray for his death. Then he meets Glaucus, and his great day ends not in a wound or a god's rebuff but in a guest-friendship and an exchange of armor.
+passages:
+  - 6.96-101 | Helenus on Diomedes
+  - 6.119-236 | Glaucus and Diomedes
+---
+
+**The last kills.** In the rout that opens the book Diomedes kills Axylus of Arisbe, who welcomed every traveler, and his charioteer Calesius (6.12–19; see [[axylus]] and [[androktasia]]). They are the last men he kills in his aristeia.
+
+**Measured in Troy.** The Trojans give the measure of his day. Helenus calls him “that savage spearman, mighty master of rout, who, I say, has become the strongest of the Achaeans”, more feared than Achilles: “this man rages beyond measure, and no one can match his might” (6.97–101; see [[master-of-rout]] and [[helenus]]). λίην μαίνεται, “rages beyond measure”, names the fury that drives the hero of an aristeia. The city's prayer is aimed at him. Athena is to hold him back from Ilios, Helenus says, and in her temple Theano asks her to break his spear and let him fall before the Scaean gates (6.96, 6.277, 6.305–310). The goddess who made him great in Book 5 refuses (6.311; see [[prayer-type-scene]]).
+
+**The end.** The aristeiai of the Iliad end in withdrawal or death (see [[the-aristeia]]). Diomedes' ends in a meeting. Glaucus comes out “far in front of all” (6.125), the great opponent the pattern calls for, and Diomedes, who wounded Aphrodite and Ares in Book 5, asks whether he is a god and says that he will not fight the gods of heaven. Not even Lycurgus, who drove off the nurses of Dionysus, lived long (6.123–143; see [[who-fights-the-gods]] and [[mythological-paradigm]]). Athena had taken the mist from his eyes “so that you may clearly tell god from man” (5.127–128), and why he now cannot tell has long been asked. His words close the part of his day that was fought against gods. The fight with Glaucus never comes. Glaucus' lineage makes the two men guest-friends, and they exchange armor, gold for bronze (6.145–236; see [[genealogy-in-battle]] and [[guest-gifts]]). The hero of the aristeia comes away with golden armor, won by a gift and not by a kill.
+
+**After.** Diomedes does not appear again in Book 6 except in the prayers against him and in Andromache's list of the men who have tried the wall (6.437). He is among the nine who volunteer to fight Hector in Book 7 (7.163), and he fights again, and turns back before the thunder of Zeus, in Book 8 (8.90–171). The ancient title of the episode, “the aristeia of Diomedes”, reached past the end of Book 5: Herodotus cites the verses on Hecuba's Sidonian robes as standing in it (Herodotus 2.116; see [[the-aristeia-of-diomedes]] and [[title-of-book-5]]).

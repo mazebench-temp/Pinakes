@@ -7,7 +7,7 @@ summary: “Great-spirited,” praise of heroes and peoples: μεγάθυμος 
 aliases: [high-spirited, megathymos]
 grc: [μεγάθυμοι]
 en: [great-hearted]
-of: [achaeans, elders, iphitus, abantes, erechtheus, cephallenians, oeneus, protesilaus]
+of: [achaeans, elders, iphitus, abantes, erechtheus, cephallenians, oeneus, protesilaus, diomedes, priam, eetion]
 ---
 
 ## Meaning

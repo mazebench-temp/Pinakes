@@ -7,7 +7,7 @@ summary: The pastoral title of kings and leaders, above all of [[Agamemnon]].
 aliases: [poimen laon]
 grc: [ποιμένα λαῶν]
 en: [shepherd of the people]
-of: [dryas, agamemnon, atreus, nestor]
+of: [dryas, agamemnon, atreus, nestor, glaucus]
 ---
 
 ## Meaning

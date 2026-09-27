@@ -3,7 +3,7 @@ title: Heavenly gods
 greek: Οὐρανίωνες
 kind: epithet
 tags: [divine-epithet]
-summary: “The heavenly ones,” a collective name for the gods of Olympus (1.570).
+summary: “The heavenly ones,” collective names for the gods of Olympus: Οὐρανίωνες (1.570), and ἐπουράνιοι θεοί, “the gods of heaven.”
 aliases: [Ouraniones, Uranians]
 grc: [θεοὶ Οὐρανίωνες]
 en: [heavenly gods]

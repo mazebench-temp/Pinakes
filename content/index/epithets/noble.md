@@ -7,7 +7,7 @@ summary: “Admirable, noble,” an old adjective of praise for heroes and their
 aliases: [illustrious, agauos]
 grc: [ἀγαυοὶ]
 en: [noble]
-of: [heralds]
+of: [heralds, laomedon]
 ---
 
 ## Meaning

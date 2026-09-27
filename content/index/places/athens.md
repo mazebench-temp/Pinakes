@@ -5,7 +5,7 @@ kind: place
 tags: [mainland-greece, city, athenian, attica]
 summary: The city of Athena in Attica. The Catalogue calls it "the well-built citadel, the land of great-hearted Erechtheus", and it sends fifty ships under Menestheus.
 aliases: [Athenai]
-grc: [Ἀθήνας, Ἀθήνῃς]
+grc: [Ἀθήνας, "=Ἀθήνῃς"]
 passages:
   - 2.546-556 | The Athenians in the Catalogue
 ---
