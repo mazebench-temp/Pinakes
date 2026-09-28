@@ -1,0 +1,7 @@
+---
+summary: Book 7 has one lion simile. In the duel Hector and Ajax fall upon each other “like lions that eat raw flesh or wild boars” (7.256–257), in the words used of the Argives around Diomedes in Book 5; and Ajax calls Achilles θυμολέων, “lion-hearted” (7.228).
+---
+
+**The duel.** When their spears have been thrown, Hector and Ajax pull out their long spears and close, σύν ῥʼ ἔπεσον λείουσιν ἐοικότες ὠμοφάγοισιν / ἢ συσὶ κάπροισιν: they “fell upon each other like lions that eat raw flesh or wild boars” (7.256–257). The couplet was last heard of the best of the Argives crowded around Diomedes (5.782–783). There the beasts stood together in defense; here they charge each other (see [[lions-and-boars]] and [[boar]]). The lion is the attacker of the similes, the beast that goes for what it wants in the face of men's spears. Both champions are given it, and the next lines show them at their most savage: Ajax's spear drives through Hector's shield and draws blood from his neck (7.260–262; see [[the-duel-of-hector-and-ajax]]).
+
+**The lion-hearted.** Ajax, threatening Hector, speaks of Achilles as ῥηξήνωρ, θυμολέων, “breaker of men, lion-hearted” (7.228; see [[lion-hearted]]). The epithet, a lion's heart, was given to Heracles in Book 5 (5.639). Here it names the best of the Achaeans, who is absent: the lion-hearted man lies by his ships, nursing his wrath (7.229–230; see [[achilles-withdraws]]).

@@ -12,7 +12,7 @@ of: [agamemnon]
 
 ## Meaning
 
-ἀναιδείη (Attic ἀναίδεια) = ἀν- (“not”) + αἰδώς (“shame, respect for others”): “shamelessness.” ἐπιειμένε is the vocative of the perfect participle of ἐπιέννυμι (“put on clothing”): “you who wear.” A quality of character becomes a garment, as warriors elsewhere in the Iliad are ἐπιειμένοι ἀλκήν, “clothed in valor” (Il. 7.164).
+ἀναιδείη (Attic ἀναίδεια) = ἀν- (“not”) + αἰδώς (“shame, respect for others”): “shamelessness.” ἐπιειμένε is the vocative of the perfect participle of ἐπιέννυμι (“put on clothing”): “you who wear.” A quality of character becomes a garment, as warriors elsewhere in the Iliad are ἐπιειμένοι ἀλκήν, “clothed in … courage” (Il. 7.164).
 
 ## Use
 

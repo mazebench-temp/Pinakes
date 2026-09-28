@@ -23,7 +23,7 @@ In Book 3 he is named only in his son's patronymic: the herald Idaeus calls Pria
 
 ## Mythology
 
-The Iliad remembers him as a cheat. Poseidon and Apollo served him for a year for an agreed wage. Poseidon built the wall of Troy, and Apollo herded his cattle in the glens of Ida; when the year was out, Laomedon refused to pay and sent them off with threats, to bind them and sell them into far islands and to cut off their ears (21.441–457). Poseidon speaks of the wall "which Phoebus Apollo and I built for the hero Laomedon" (7.452–453). Heracles came for the horses of Laomedon, and when the king repaid his service with harsh words and did not give them, he sacked Ilios with six ships and few men (5.638–651). The horses were of the breed that Zeus gave Tros in return for Ganymede (5.265–272).
+The Iliad remembers him as a cheat. Poseidon and Apollo served him for a year for an agreed wage. Poseidon built the wall of Troy, and Apollo herded his cattle in the glens of Ida; when the year was out, Laomedon refused to pay and sent them off with threats, to bind them and sell them into far islands and to cut off their ears (21.441–457). Poseidon speaks of the wall “that I and Phoebus Apollo toiled to build for the hero Laomedon” (7.452–453; see [[the-walls-of-troy]]). Heracles came for the horses of Laomedon, and when the king repaid his service with harsh words and did not give them, he sacked Ilios with six ships and few men (5.638–651). The horses were of the breed that Zeus gave Tros in return for Ganymede (5.265–272).
 
 ## Outside Homer
 

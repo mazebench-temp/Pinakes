@@ -74,7 +74,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ἄντιφος (again) | Book 11 brings Antiphus son of Priam back (11.101–109): antiphus and antiphus-of-maeonia will need `except: [11.104]`, and antiphus-son-of-priam the form Ἄντιφον |
 | Ἀγήνωρ (again) | Echeclus, "son of Agenor" (20.474), may be a different Agenor |
 | Πείρως, Πείρεως | peirous (2.844, 4.520, 4.525); Rhigmus "son of Peireos" (20.484–485) may be his son |
-| Ἰδαῖος | idaeus, Priam's herald (Books 3, 7, 24; `except: [5.11, 5.20]`); idaeus-son-of-dares (5.11, 5.20), who will need `except` for the herald's lines (7.276, 7.278, 7.372, 7.381, 7.413, 7.416, 24.325) |
+| Ἰδαῖος | idaeus, Priam's herald (Books 3, 7, 24; `except: [5.11, 5.20]`); idaeus-son-of-dares claims only its two phrases, "Φηγεὺς Ἰδαῖός" and "Ἰδαῖος δʼ ἀπόρουσε" (5.11, 5.20), so it needs no `except` for the herald's lines (7.276, 7.278, 7.372, 7.381, 7.413, 7.416, 24.325) |
 | Ἀντηνορίδης | helicaon (3.123); Antenor has many other sons in later books (Agenor, Coön, Iphidamas…) |
 | Εὐρυβάτης | eurybates, Agamemnon's herald; eurybates-of-ithaca (2.184) |
 | Ἐπίστροφος | epistrophus (2.517), epistrophus-of-lyrnessus (2.692), epistrophus-of-the-halizones (2.856) |
@@ -109,7 +109,13 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Γλαῦκος | glaucus, the Lycian (2.876, 6.119 …; `except: [6.155]`); glaucus-son-of-sisyphus, Bellerophon's father, claims only the phrases `"Γλαῦκον τέκεθʼ"` and `"Γλαῦκος τίκτεν"` (6.154–155), so that it catches no later Glaucus |
 | Ἱππόλοχος | hippolochus, Glaucus' father (6.119, 6.144, 6.197, 6.206; 7.13, 12.309, 12.387, 17.140); Hippolochus son of Antimachus, killed by Agamemnon (11.122, 11.145), will need his own id, and hippolochus `except: [11.122, 11.145]` |
 | Δρύας | dryas, the Lapith (1.263; `except: [6.130]`); dryas-father-of-lycurgus (6.130) |
-| Λυκόοργος | lycurgus, the son of Dryas who drove off the nurses of Dionysus (6.130); the Arcadian Lycurgus who killed Areithous (7.142–149) will need his own id, and lycurgus `except: [7.142, 7.144, 7.148]` |
+| Λυκόοργος | lycurgus, the son of Dryas who drove off the nurses of Dionysus (6.130; `except: [7.142, 7.144, 7.148]`); lycurgus-of-arcadia, who killed Areithous (7.142–149) |
+| Θόας (again) | thoas, the Aetolian son of Andraemon (`=Θόας`, 2.638, 7.168); the Lemnian Thoas, Hypsipyle's father in later sources (Θόαντος 14.230, Θόαντι 23.745), and a Trojan Thoas (16.311) will need their own ids |
+| Ἰήσων, Ἰησονίδης | jason claims `Ἰησον*` (Ἰήσονι 7.469, Ἰησονίδης 7.468, 7.471) and will need Ἰήσων (Od. 12.72); euneus will need the phrase "υἱὸς Ἰήσονος" (21.41) |
+| Αἴας (again) | ajax claims `^Αἶαν` (7.234, 7.288), which will catch the Locrian Ajax at 12.366, 23.483 and 23.493; Τελαμώνιε is Teucer at 8.281 (ajax `except`, teucer claims it) |
+| Ἀρηΐθοος | areithous, the mace-man, father of Menesthius (7.8–10, 7.137–146), claims exact capitalized forms only, because of the adjective ἀρηϊθόων "swift in battle" (8.298, 15.315, 20.167); Rhigmus' charioteer Ἀρηΐθοον (20.487) will need his own id |
+| Μενέσθιος | menesthius, son of Areithous (7.9); the Myrmidon leader Menesthius son of Spercheius (16.173) will need his own id |
+| Ἠϊονεύς | eioneus, killed by Hector (7.11); the father of Rhesus (10.435) will need his own id |
 | Αἴσηπος | aesepus, the river (2.825, 4.91); aesepus-son-of-bucolion (6.21) |
 | Πήδασος | pedasus-son-of-bucolion (6.21); pedasus-on-the-satnioeis, the town of Elatus (6.35; 20.92, 21.87); Pedasus in Messenia (9.152, 9.294) and Achilles' trace horse (16.152, 16.467) will need their own ids |
 | Φύλακος | phylacus, father of Iphiclus (Φυλακίδαο, 2.705); phylacus-the-trojan (6.35) |
@@ -140,6 +146,8 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ξάνθος | xanthus-of-lycia (2.877, 5.479; the phrase `"Ξάνθόν τε ῥέοντα"` at 6.172, since 5.152 also reads Ξάνθόν τε; `except: [6.4]`); the Trojan river under its gods' name Xanthus is scamander (`^Ξάνθοιο` 6.4; also 8.560, 14.434, 21.2, 21.337, 21.383; `except: [6.172]`), but Ξάνθοιο at 12.313 is the Lycian river |
 | Πήδασος (the town) | pedasus-on-the-satnioeis (6.35) and pedasus-son-of-bucolion (6.21) share Πήδασον: each excepts the other's line |
 | Θήβη Ὑποπλακίη | thebe claims the phrase `"Θήβῃ Ὑποπλακίῃ"` (6.397), because Θήβῃ alone is Boeotian at 14.323 and 19.99 |
+| Κελάδων, Φειά | celadon claims `^Κελάδοντι` (7.133), because κελάδοντα is "roaring" (18.576); pheia claims Φειᾶς (7.135) and will need Φεάς (Od. 15.297) |
+| Ἰάρδανος | iardanus, the river by Pheia in Elis (7.135); the Cretan Iardanus (Od. 3.292, the same half-verse) will need its own id |
 | ἐρινεός, the fig tree | the-fig-tree claims `"παρʼ ἐρινεόν"` (6.433; 11.167); 22.145 (καὶ ἐρινεὸν ἠνεμόεντα) will need adding, while the fig trees of 21.37 and Od. 12.103, 12.432 are others |
 | πύργος, the tower of Ilios | the-tower-of-ilios claims πύργῳ, πύργον (3.153–154, 3.384, 6.373, 6.386, 6.431); later books need `except` for a shield "like a tower" (7.219, 11.485, 17.128) and the Achaean wall (12.332–333, 12.373) |
 | Φηρή, Φηραί / Φεραί | pherae-in-messenia, Diocles' town (Φηρῇ 5.543; also 9.151, 9.293, Od. 3.488, 15.186); pherae, in Thessaly (Φεράς 2.711, Od. 4.798) |
@@ -192,6 +200,24 @@ Entries for things and customs claim common words, and a common word can mean so
 | θείη "divine" (divine) | θείῃ "runs", of the stallion (6.507 = 15.264) | divine: `"!θείῃ πεδίοιο"` |
 | ἄνα "lord", the vocative (anax: `=ἄνα`) | ἀλλʼ ἄνα "up!" (6.331, 9.247, 18.178, Od. 18.13) | anax: `except` those lines, book by book |
 | εἴσατο "seemed" (eidos) | εἴσατο "went", of an arrow (4.138) | eidos: `except: [4.138]` |
+| αἶαν "earth" (earth) | Αἶαν, the vocative of Αἴας (7.234, 7.288) | earth: `"!^Αἶαν"` |
+| Δίου, the town Dium (2.538) | δίου "brilliant" (7.138) | dium: `^Δίου`; brilliant (Book 7 note): `"!^Δίου"` |
+| ὑψηλούς, epithet of Erythini (2.855) | the Achaeans' "high towers" (7.338, 7.437) | erythini: the phrase `"ὑψηλοὺς Ἐρυθίνους"` |
+| εὐχ*, εὐξ* "pray" (prayer, euchomai) | εὐχάλκου "of good bronze" (7.12), ἐϋξέστῃς "well-polished" (7.5) | prayer and euchomai: `"!εὐχαλκ*"`, `"!ἐϋξεστ*"` |
+| ἀγγελίη "embassy" (embassy) | "message", Idaeus' report (7.416) | embassy: `except: [7.416]` |
+| πειρᾶν "to try" (peira) | πεῖραν "they threaded (on spits)", from πείρω (7.317) | peira: `=πειρᾶν` |
+| ἤλασαν "drove off" cattle (raiding) | τάφρον ἤλασαν "drove a ditch" (7.450) | raiding: `except: [7.450]` |
+| ἀνέσταν "rose" for Zeus (rising-for-zeus) | the nine volunteers stand up (7.161) | rising-for-zeus: `except: [7.161]` |
+| ἐνδέξια "from left to right", of wine (cupbearing) | the lot carried round (7.184, lots); signs "on the right" (9.236); begging round the room (Od. 17.365) | cupbearing: `except: [7.184]`, and the later lines |
+| βαθεῖαν "deep" (deep-sea) | the deep ditch of the Achaean wall (7.341, 7.440) | deep-sea: `except: [7.341, 7.440]` |
+| μέλαιναν "black", of ships (black-ships) | κῆρα μέλαιναν "black doom" (7.254, as 5.22, 5.652) | black-ships: `except: [7.254]` |
+| κρείων "powerful" (powerful) | εὐρὺ κρείων "wide-ruling", of Agamemnon (7.107, 7.322; wide-ruling) | powerful (Book 7 note): `except: [7.107, 7.322]` |
+| αἰόλος "flashing, quick" (flashing) | Αἴολος, the keeper of the winds (Od. 10.1–76) | flashing claims only αἰόλον; exclude `^Αἰολ*` once the Odyssey is indexed |
+| ῥηξήνωρ "breaker of men" (breaker-of-men) | Ῥηξήνωρ, brother of Alcinous (Od. 7.63, 7.146) | breaker-of-men claims only ῥηξήνορα; add `except` or `!^Ῥηξήνορ*` for the Odyssey |
+| τεῖχος "wall" (the-achaean-wall, the-walls-of-troy) | the walls of Thebes (4.378, 4.407), of Pheia (7.135), of the city on the shield (18.514); the wall of Heracles on the plain (20.145) | both entries claim phrases, not the bare word; check every later τεῖχος, τείχεος line |
+| τάφρος "ditch" (the-achaean-wall) | the trench Telemachus digs for the axes (Od. 21.120) | the-achaean-wall: `except` it when the Odyssey is indexed |
+| πύργους "towers" (the-achaean-wall) | the towers of Troy (18.278, 22.195); 24.443 is the Achaean wall again | the-achaean-wall: the phrases `"πύργους ὑψηλοὺς"`, `"πύργους θʼ ὑψηλούς"`; add 24.443 |
+| σκόλοπας "stakes" (the-achaean-wall) | the stakes on which Hector means to set Patroclus' head (σκολόπεσσι 18.177); the palisade on the Phaeacians' walls (Od. 7.45) | the-achaean-wall: add σκολόπεσσιν (12.55, 15.344) and σκόλοπες (12.63), which leave 18.177 alone |
 | γέρουσιν "elders" (trojan-elders, 6.113) | the Achaean elders (4.344, 9.70) | trojan-elders: the form βουλευτῇσι and `refs: [6.113]`, not γέρουσιν |
 | ἀμφίπολος, δμῳή "handmaid, slave woman" (handmaids) | ἀμφιπολεύω "tend" (Odyssey); δμωῇσι printed without the iota subscript (9.658) | handmaids: `"!ἀμφιπολευ*"` when the Odyssey comes; add the unsubscripted form |
 | σῆμα "grave mound" (tomb) | σῆμα "sign", the signs on Bellerophon's tablet (6.176, 6.178; writing) | tomb: `except: [6.176, 6.178]` |

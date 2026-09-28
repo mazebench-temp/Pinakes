@@ -6,6 +6,7 @@ tags: [ship]
 summary: “Black,” an epithet of [[ships]], whose hulls were coated with pitch.
 aliases: [black ship, melaina]
 grc: [μέλαιναν, μελαίνῃ]
+except: [7.254]
 en: [black]
 of: [ships]
 ---

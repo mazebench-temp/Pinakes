@@ -9,7 +9,7 @@ aliases: [androktasiai, killing scene, kill scene, slaying of men]
 
 ## The pattern
 
-ἀνδροκτασίη, “the slaying of men”, is Homer's own word, always in the plural: Hector boasts that he knows “battles and slayings of men” (μάχας τʼ ἀνδροκτασίας τε, 7.237), and Achilles tells Priam of the battles and slayings of men around his city (24.548). Modern scholars use it for the scene, repeated many times over in the Iliad's battles, in which one warrior kills another. Bernard Fenik set out its recurring parts (*Typical Battle Scenes in the Iliad*, 1968):
+ἀνδροκτασίη, “the slaying of men”, is Homer's own word, most often in the plural: Hector boasts, “I know battles well, and the killing of men” (μάχας τʼ ἀνδροκτασίας τε, 7.237), and Achilles tells Priam of the battles and slayings of men around his city (24.548). Modern scholars use it for the scene, repeated many times over in the Iliad's battles, in which one warrior kills another. Bernard Fenik set out its recurring parts (*Typical Battle Scenes in the Iliad*, 1968):
 
 1. **Killer and victim.** The killer is named, often as “first” (πρῶτος), and then the man he kills.
 2. **The victim.** His father and his home, and sometimes a few lines of his history: where he was born, what he left behind, who will not see him again. Many victims enter the poem only to die.

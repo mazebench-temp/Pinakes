@@ -1,0 +1,15 @@
+---
+summary: Book 7 opens with the death of a son named by his father and mother, and Nestor shames the Achaeans with a father, old Peleus, who delighted in their lineage and would pray to die if he saw them now. The heralds call the two champions “dear sons”, the dead are to be carried home to their children, and the book ends with the son of Jason trading at the ships.
+refs: [7.8-10, 7.13-15, 7.124-131, 7.153, 7.279, 7.334-335, 7.467-471]
+passages:
+  - 7.8-16 | The first killings
+  - 7.123-131 | Nestor imagines Peleus' grief
+---
+
+**A son and his parents.** The first man killed in the book is named through his parents: “the son of lord Areithous, Menesthius, who lived in Arne, whom the mace-man Areithous fathered, and ox-eyed Phylomedusa bore” (7.8–10; see [[menesthius]], [[areithous]] and [[phylomedusa]]). The father is famous enough to be named twice, with the name the people gave him; later in the book Nestor tells how Areithous the mace-man was killed by guile and his armor passed to other men (7.137–150). The other two dead are named with their fathers too, Iphinous “the son of Dexius” (7.15; see [[iphinous]] and [[dexius]]), and so is their killer, “Glaucus, son of Hippolochus” (7.13; see [[glaucus]]). See [[death-in-battle]] and [[the-war-in-small]].
+
+**The father who would grieve.** Nestor's rebuke begins with Peleus, “the old horse-driving Peleus”, who once questioned Nestor in his house and “rejoiced greatly to learn the lineage and birth of all the Argives” (γενεήν τε τόκον τε, 7.125–128; see [[genee]]). The sons' fathers are the measure of the sons. If Peleus heard that they all cower before Hector, he would pray to die (7.129–131; see [[penthos]] and [[peleus]]). Peleus is Achilles' father, and his son is absent from the fight; in the last book Priam will ask Achilles to “remember your father” (24.486). Nestor then offers his own youth as the example: “by birth I was the youngest of them all” when he alone faced Ereuthalion (7.153; see [[nestor-and-ereuthalion]] and [[old-age-and-memory]]).
+
+**Dear sons.** When the heralds part Hector and Ajax, Idaeus addresses the two champions as “dear sons” (παῖδε φίλω, 7.279), in the dual. The word puts the best fighters of both sides under one fatherly authority, as Zeus “loves you both” (7.280; see [[idaeus]] and [[heralds]]). Nestor's plan for the dead makes the children the heirs of the war's losses: the bones are to be carried “home to their children” (7.334–335; see [[nostos]] and [[honoring-the-dead]]).
+
+**The son of Jason.** The book ends with the son of a hero of the generation before Troy. The wine ships come from Lemnos, sent by “Euneus, son of Jason, … whom Hypsipyle bore to Jason, shepherd of the people” (7.468–469; see [[euneus]], [[jason]] and [[hypsipyle]]). The Argonaut's son supplies the army at Troy. He is also a buyer of captives: in Book 21 the narrator recalls that Achilles once sold Lycaon, a son of Priam, to Lemnos, “and the son of Jason paid the price” (21.40–41; see [[slavery-and-freedom]]).

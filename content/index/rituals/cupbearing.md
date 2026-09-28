@@ -6,6 +6,9 @@ tags: [feast, divine-scene]
 summary: Serving the wine at a feast: drawing it from the mixing bowl and carrying it round to the guests, from left to right.
 aliases: [cupbearer, wine-pourer, serving wine]
 grc: [ἐπεστέψαντο, νώμησαν, ἐνδέξια, οἰνοχόει, ἀφύσσων]
+# ἐνδέξια "from left to right" is also the herald carrying the lot round the chiefs (7.184, see lots),
+# and later the signs Zeus shows "on the right" (9.236) and Odysseus begging round the suitors (Od. 17.365).
+except: [7.184]
 en: [filled, served it out, from left to right, poured, drawing]
 passages:
   - 1.584-600 | Hephaestus pours for the gods

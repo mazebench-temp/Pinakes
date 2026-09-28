@@ -1,6 +1,6 @@
 ---
 summary: Zeus “set about provoking” Hera (ἐπειρᾶτο), and Hera bids him send Athena to “contrive” (πειρᾶν) that the Trojans be the first to break the oaths.
-grc: [ἐπειρᾶτο, πειρᾶν]
+grc: [ἐπειρᾶτο, "=πειρᾶν"]
 en: [set about, contrive]
 passages:
   - 4.5-6 | Zeus provokes Hera

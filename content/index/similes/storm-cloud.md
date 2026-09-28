@@ -7,6 +7,7 @@ summary: The dark battalions that follow the two Ajaxes into battle are like a c
 aliases: [like a storm cloud, the goatherd and the cloud, a cloud of foot soldiers]
 grc: [αἰπόλος ἀνὴρ, μελάντερον ἠΰτε πίσσα, πεφρικυῖαι]
 en: [from a lookout sees a cloud, blacker than pitch, bristling]
+except: [7.62]
 of: [ajax, ajax-son-of-oileus]
 ---
 

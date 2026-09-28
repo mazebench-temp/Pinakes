@@ -19,7 +19,7 @@ passages:
 
 Iron first appears in the Iliad in Book 4, three times, each in a different light.
 
-- **A weapon.** Pandarus draws his bow: “the string he brought to his breast, and the iron to the bow” (4.123): the head of his arrow is iron. Iron weapons are rare in the poems. The club of Areithous, “the club-man”, was of iron (7.141). See [[arrows]] and [[bow]].
+- **A weapon.** Pandarus draws his bow: “the string he brought to his breast, and the iron to the bow” (4.123): the head of his arrow is iron. Iron weapons are rare in the poems. The mace of Areithous, “the mace-man”, was of iron (7.138–141; see [[areithous]] and [[mace]]). See [[arrows]] and [[bow]].
 - **A tool.** In the simile of the poplar, a chariot-maker cuts down the tree “with the gleaming iron” (αἴθωνι σιδήρῳ, 4.485; see [[the-poplar]]). The similes and the world of work use iron, as when a smith quenches an axe or an adze in cold water (Odyssey 9.391–393).
 - **Hardness.** Apollo tells the Trojans that the Argives' flesh “is not stone or iron to withstand the flesh-cutting bronze” (4.510–511; see [[not-stone-or-iron]]). A heart of iron is one that does not yield: the dying Hector finds one in Achilles (22.357), and Hecuba and Achilles find one in Priam, who dares to go to his son's killer (24.205, 24.521).
 

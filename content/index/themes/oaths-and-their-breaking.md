@@ -25,7 +25,7 @@ In Book 3 both armies swear a truce, and the terms are guarded by the strongest 
 
 In Book 4 the gods decide how the truce will end. Hera proposes and Zeus agrees that Athena should go and see to it that the Trojans are the first to break the oaths (ἄρξωσι πρότεροι ὑπὲρ ὅρκια δηλήσασθαι, 4.64–72), in the words of the curse and of Menelaus' warning (3.107, 3.299). She persuades Pandarus to shoot at Menelaus, and the arrow wounds him (4.86–147). Agamemnon, holding his wounded brother, states the doctrine of the broken oath: the oath and the blood of lambs are not in vain; if the Olympian does not fulfill it at once, he fulfills it late, and the breakers pay with their heads, their wives and their children. A day will come when sacred Ilios will perish (4.155–168). Later in the book he tells the army that father Zeus will not help liars (4.235–239).
 
-In Book 7 the Trojans admit it. Antenor proposes giving Helen and the possessions back, “for now we are fighting having broken the trusty oaths” (7.351–352). Paris refuses to give up the woman (7.357–364). The poem makes the Trojans guilty twice over: of the first offense, against a host, and of the second, against the oath that was meant to settle the first.
+In Book 7 the Trojans admit it. Antenor proposes giving Helen and the possessions back, “for now, having played false with the trusty oaths, we are fighting” (7.351–352). Paris refuses to give up the woman (7.357–364). The poem makes the Trojans guilty twice over: of the first offense, against a host, and of the second, against the oath that was meant to settle the first.
 
 {{notes}}
 

@@ -3,7 +3,7 @@ title: Hut
 greek: κλισίη
 kind: object
 tags: [camp]
-summary: The shelters of the Achaean camp, beside the beached ships. Agamemnon's heralds lead Briseis out of Achilles' hut.
+summary: The shelters of the Achaean camp, beside the beached ships: a leader's quarters, where he sleeps, keeps his prizes and feasts his companions.
 aliases: [huts, shelter, tent, klisie]
 grc: [κλισίην, κλισίας, κλισίῃ, κλισίης, κλισίηθεν]
 en: [hut, huts]

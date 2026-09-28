@@ -1,11 +1,11 @@
 ---
-title: Hyle or Hyde? (5.708)
+title: Hyle or Hyde? (5.708, 7.221)
 greek: ὅς ῥʼ ἐν Ὕλῃ ναίεσκε
 kind: note
 tags: [scholarship]
-summary: Oresbius lived “in Hyle … on the shore of the Cephisian lake”. Strabo defends the reading Hyle against those who wrote Hyde, a town in Lydia, and argues that the lake is not Copais but the small lake near Hyle.
+summary: Two men in the Iliad live in the Boeotian town of Hyle, Oresbius (5.708) and Tychius, the leather-worker who made Ajax's shield (7.221). Some ancient texts read Hyde, a town in Lydia, in both lines; Strabo defends Hyle, and places Homer's Cephisian lake beside it.
 source: Strabo, Geography 9.2.20
-of: [hyle, cephisian-lake, oresbius, boeotians, strabo]
+of: [hyle, cephisian-lake, oresbius, tychius, boeotians, strabo]
 refs: [5.708-709]
 passages:
   - 5.707-710 | Oresbius of Hyle

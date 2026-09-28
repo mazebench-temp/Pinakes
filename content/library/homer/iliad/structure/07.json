@@ -1,0 +1,51 @@
+{
+  "scenes": [
+    { "from": 1, "to": 16, "title": "Hector and Paris Return to the Battle", "summary": "Hector and Paris come out through the gates, welcome to the Trojans as a wind to weary rowers. Paris kills Menesthius, Hector kills Eioneus, and Glaucus kills Iphinous." },
+    { "from": 17, "to": 53, "title": "Athena and Apollo Plan a Duel", "summary": "Athena comes down to help the Achaeans and meets Apollo at the oak. They agree to stop the general battle for the day by rousing Hector to challenge one Achaean to single combat, and Helenus, hearing the gods' plan, tells Hector to issue the challenge." },
+    { "from": 54, "to": 91, "title": "Hector's Challenge", "summary": "Both armies sit, with Athena and Apollo perched like vultures on the oak of Zeus. Hector challenges the best of the Achaeans, proposes that the loser's body be returned for burial, and imagines the tomb of the man he kills, which will keep his fame alive." },
+    { "from": 92, "to": 122, "title": "Menelaus Volunteers", "summary": "The Achaeans sit in shamed silence until Menelaus rebukes them and arms himself; Agamemnon holds him back, since Hector is far stronger, and Menelaus' companions take off his armor." },
+    { "from": 123, "to": 169, "title": "Nestor Shames the Achaeans", "summary": "Nestor imagines old Peleus' grief and tells how as the youngest man in the army he killed the huge Arcadian champion Ereuthalion. Shamed, nine leaders stand up to fight Hector." },
+    { "from": 170, "to": 205, "title": "The Lot Falls to Ajax", "summary": "The nine mark their lots and put them in Agamemnon's helmet; the army prays, Nestor shakes the helmet, and the lot of Ajax leaps out. Ajax rejoices and asks the Achaeans to pray while he arms." },
+    { "from": 206, "to": 282, "title": "The Duel of Hector and Ajax", "summary": "Ajax advances like Ares behind his shield of seven oxhides and bronze. The two exchange spear casts and stones; Hector is wounded in the neck and knocked down, and Apollo raises him. As they draw swords, the heralds Idaeus and Talthybius part them because night is falling." },
+    { "from": 283, "to": 312, "title": "The Exchange of Gifts", "summary": "Hector proposes that they stop for the night and exchange gifts, so that men will say they fought and parted in friendship. He gives Ajax a silver-studded sword and receives a purple belt, and each returns to his own side." },
+    { "from": 313, "to": 344, "title": "Nestor Proposes a Truce and a Wall", "summary": "At the feast in Agamemnon's hut Ajax is honored with the chine. Nestor proposes a truce to burn the dead and a single mound, and beside it a wall with towers and gates and a ditch to protect the ships; the kings approve." },
+    { "from": 345, "to": 380, "title": "The Trojan Assembly", "summary": "In a stormy assembly Antenor urges the Trojans to give back Helen and her possessions, since they are fighting with the oaths broken. Paris refuses to give up Helen but offers the possessions and more; Priam sends Idaeus to make the offer and to ask for a truce to burn the dead." },
+    { "from": 381, "to": 420, "title": "The Achaeans Refuse the Offer", "summary": "Idaeus brings Paris' offer to the Achaean assembly. Diomedes answers that even a fool can see Troy's end is near, and the Achaeans shout approval; Agamemnon rejects the offer but grants the truce for the dead." },
+    { "from": 421, "to": 432, "title": "The Burning of the Dead", "summary": "At sunrise both sides gather their dead, wash them and burn them, weeping; Priam forbids the Trojans to wail aloud." },
+    { "from": 433, "to": 463, "title": "The Achaean Wall", "summary": "Before dawn the Achaeans heap a single mound over the pyre and build a wall with towers and gates and a staked ditch. Poseidon complains that its fame will eclipse the wall he and Apollo built for Laomedon, and Zeus tells him to sweep it away when the Achaeans have gone." },
+    { "from": 464, "to": 482, "title": "Wine from Lemnos and the Thunder of Zeus", "summary": "Ships from Lemnos sent by Euneus, son of Jason, bring wine, which the Achaeans buy with bronze, iron, hides, cattle and slaves. Both sides feast through the night while Zeus thunders and plans evil, and in fear they pour libations before they drink." }
+  ],
+  "speeches": [
+    { "from": 24, "to": 32, "speaker": "apollo", "to_whom": ["athena"], "kind": "proposal" },
+    { "from": 34, "to": 36, "speaker": "athena", "to_whom": ["apollo"], "kind": "question" },
+    { "from": 38, "to": 42, "speaker": "apollo", "to_whom": ["athena"], "kind": "counsel" },
+    { "from": 47, "to": 53, "speaker": "helenus", "to_whom": ["hector"], "kind": "counsel" },
+    { "from": 67, "to": 91, "speaker": "hector", "to_whom": ["trojans", "achaeans"], "kind": "challenge" },
+    { "from": 96, "to": 102, "speaker": "menelaus", "to_whom": ["achaeans"], "kind": "rebuke" },
+    { "from": 109, "to": 119, "speaker": "agamemnon", "to_whom": ["menelaus"], "kind": "advice" },
+    { "from": 124, "to": 160, "speaker": "nestor", "to_whom": ["argives"], "kind": "rebuke" },
+    { "from": 171, "to": 174, "speaker": "nestor", "to_whom": ["agamemnon", "diomedes", "ajax", "ajax-son-of-oileus", "idomeneus", "meriones", "eurypylus", "thoas", "odysseus"], "kind": "instruction" },
+    { "from": 179, "to": 180, "speaker": "achaeans", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 191, "to": 199, "speaker": "ajax", "to_whom": ["achaeans"], "kind": "request" },
+    { "from": 202, "to": 205, "speaker": "achaeans", "to_whom": ["zeus"], "kind": "prayer" },
+    { "from": 226, "to": 232, "speaker": "ajax", "to_whom": ["hector"], "kind": "challenge" },
+    { "from": 234, "to": 243, "speaker": "hector", "to_whom": ["ajax"], "kind": "retort" },
+    { "from": 279, "to": 282, "speaker": "idaeus", "to_whom": ["ajax", "hector"], "kind": "command" },
+    { "from": 284, "to": 286, "speaker": "ajax", "to_whom": ["idaeus"], "kind": "reply" },
+    { "from": 288, "to": 302, "speaker": "hector", "to_whom": ["ajax"], "kind": "proposal" },
+    { "from": 327, "to": 343, "speaker": "nestor", "to_whom": ["agamemnon", "achaeans"], "kind": "counsel" },
+    { "from": 348, "to": 353, "speaker": "antenor", "to_whom": ["trojans"], "kind": "proposal" },
+    { "from": 357, "to": 364, "speaker": "paris", "to_whom": ["antenor", "trojans"], "kind": "retort" },
+    { "from": 368, "to": 378, "speaker": "priam", "to_whom": ["trojans"], "kind": "instruction" },
+    { "from": 385, "to": 397, "speaker": "idaeus", "to_whom": ["agamemnon", "achaeans"], "kind": "message" },
+    { "from": 400, "to": 402, "speaker": "diomedes", "to_whom": ["achaeans"], "kind": "counsel" },
+    { "from": 406, "to": 411, "speaker": "agamemnon", "to_whom": ["idaeus"], "kind": "reply" },
+    { "from": 446, "to": 453, "speaker": "poseidon", "to_whom": ["zeus"], "kind": "complaint" },
+    { "from": 455, "to": 463, "speaker": "zeus", "to_whom": ["poseidon"], "kind": "consolation" }
+  ],
+  "days": [
+    { "from": 1, "to": 380, "label": "Day 22", "note": "The battle that began at 4.446 ends with the duel of Hector and Ajax at nightfall; the feast, Nestor's counsel and the Trojan assembly fill the evening." },
+    { "from": 381, "to": 432, "label": "Day 23", "note": "A truce: at dawn Idaeus brings the Trojan offer, and both sides burn their dead." },
+    { "from": 433, "to": 482, "label": "Day 24", "note": "Before dawn the Achaeans build the wall and ditch; the night that follows is filled with Zeus' thunder, and Book 8 opens at the next dawn." }
+  ]
+}

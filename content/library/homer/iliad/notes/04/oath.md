@@ -34,7 +34,7 @@ Zeus himself will shake his dark aegis over them all, “in resentment at this d
 
 σύν … ἔχευαν, “have been confounded”, is literally “poured together”, from συγχέω. From the verb comes the noun of the book's traditional title, Ὁρκίων σύγχυσις, “the confounding of the oaths” (see [[titles-of-book-4]]). The formula of the curse is heard once more: “since they were the first to do harm in defiance of the oaths” (4.271; so 4.67, 4.72, 4.236).
 
-**Afterwards.** In Book 7 Antenor tells the Trojans that they are fighting “having broken the trusty oaths” (ὅρκια πιστὰ ψευσάμενοι), and proposes to give Helen back (7.348–353). Hector, earlier that day, had given the Trojan view: Zeus “did not bring the oaths to fulfillment” (7.69). See [[oaths-and-their-breaking]].
+**Afterwards.** In Book 7 Antenor tells the Trojans that they are fighting “having played false with the trusty oaths” (ὅρκια πιστὰ ψευσάμενοι), and proposes to give Helen back (7.348–353). Hector, earlier that day, had given the Trojan view: Zeus “did not fulfill our oaths” (7.69). See [[oaths-and-their-breaking]].
 
 ## Outside Homer
 

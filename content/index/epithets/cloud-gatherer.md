@@ -3,7 +3,7 @@ title: Cloud-gatherer
 greek: νεφεληγερέτα
 kind: epithet
 tags: [divine-epithet]
-summary: The best-known epithet of [[Zeus]] as god of the sky, “gatherer of clouds.” In Book 1 it names him three times in the scene with Thetis and Hera, once when he pointedly says nothing.
+summary: The best-known epithet of [[Zeus]] as god of the sky, “gatherer of clouds,” most often in the line-end formula νεφεληγερέτα Ζεύς.
 aliases: [cloud-compeller, nephelegereta]
 grc: [νεφεληγερέτα]
 en: [cloud-gatherer]

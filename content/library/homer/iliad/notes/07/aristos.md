@@ -1,0 +1,14 @@
+---
+summary: Hector's challenge is addressed to “the best of all the Achaeans”, and the phrase runs through the book, from the challenge to Nestor's rebuke and the speeches of the truce. Hector's imagined victim was “the best in the fighting” when he fell, and the maker of Ajax's shield is the best of leather-workers.
+grc: [ἀριστῆες, ἀριστεύοντα]
+en: [chiefs]
+passages:
+  - 7.67-75 | Hector's challenge
+  - 7.159-169 | Nine of the best stand up
+---
+
+**The best of the Achaeans.** Helenus tells Hector to challenge “whoever is best of the Achaeans” (ὅς τις ἄριστος, 7.50), and Hector does: “Among you are the best of all the Achaeans (ἀριστῆες Παναχαιῶν); of these let the one whose heart now bids him fight with me come here out of them all to be champion” (7.73–75). ἀριστῆες, “the best men, the chiefs”, is the name of the leaders as a group, and the whole phrase is a formula of address. Nestor turns it into a reproach: “But of you, who are the best of all the Achaeans, not even you are eager with a ready heart to go and face Hector” (7.159–160). Nine of them stand up (7.161–169), and the herald carries the lot that leaps from the helmet “to all the best of the Achaeans” (ἀριστήεσσιν, 7.184) until Ajax knows it for his own. When Ajax faces Hector, he tells him that he will now learn “what kind of chiefs (ἀριστῆες) are among the Danaans too, even after Achilles” (7.227–228; see [[best-of-the-achaeans]]). After the duel the phrase goes back to its formal use, in the address that opens Nestor's speech at the feast and Idaeus' message to the Achaean assembly, “Son of Atreus, and you others, the best of all the Achaeans” (7.327, 7.385). A challenger “challenged all the best” (προκαλίζετο πάντας ἀρίστους): so Nestor says of Ereuthalion (7.150) and Ajax of Hector (7.285; see [[single-combat]]).
+
+**The best in the fighting.** In Hector's imagined epitaph the dead man is one “whom once, when he was the best in the fighting, shining Hector killed” (ὅν ποτʼ ἀριστεύοντα κατέκτανε, 7.90; see [[fame-and-the-tomb]]). ἀριστεύω is to be best, to excel in the fighting, the verb of the charge that fathers give their sons, “always to be the best” (6.208; see [[always-to-be-the-best]]), and of Hector himself in the stranger's words over his widow, “who was always the best in the fighting” (6.460). The victim's excellence is what makes the killer's fame.
+
+**The best in a craft.** Tychius, who made Ajax's shield, was “by far the best of leather-workers” (σκυτοτόμων ὄχʼ ἄριστος, 7.221; see [[tychius]] and [[the-shield-of-ajax]]). The same turn of phrase names Helenus “by far the best of the bird-seers” (6.76) and Calchas the best of them (1.69): excellence belongs to every art, not only to war. And Nestor is the man “whose counsel had shown itself best before” (ἀρίστη … βουλή, 7.325; see [[boule]]).

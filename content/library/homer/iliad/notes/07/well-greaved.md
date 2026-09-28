@@ -1,0 +1,5 @@
+---
+summary: The Achaeans are “well-greaved” five times in Book 7: seated to hear Hector's challenge and addressed by him, helped by the champion whom the lot will choose, leading Ajax back in triumph, and burning their dead.
+---
+
+The formula follows the army through the day of the duel and the day of the truce. Agamemnon makes “the well-greaved Achaeans sit down” for the challenge (7.57), and Hector addresses them in his first line: “Hear me, Trojans and well-greaved Achaeans” (7.67; [[hear-me]]). Apollo had called them by the rarer [[bronze-greaved]] a few lines before (7.41). Nestor says that whoever the lot chooses “will do the well-greaved Achaeans good” (7.172; [[lots]]), and when the duel is over, “on the other side the well-greaved Achaeans led Ajax, exulting in his victory, to brilliant Agamemnon” (7.311–312). The last use comes the next day: “in the same way on the other side the well-greaved Achaeans heaped the dead on the pyre, grieving at heart” (7.430–431; [[cremation]]). Twice the formula follows ἑτέρωθεν, “on the other side,” and sets the Achaeans beside the Trojans, once in victory and once in mourning. See [[achaeans]].

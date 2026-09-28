@@ -1,3 +1,7 @@
+---
+summary: The formulas for sunset and the end of day are used four times in Book 1: at Chryse, in Hephaestus' fall, and twice at the feast of the gods.
+---
+
 {{quote:8d860252-abe7-5bd0-a344-75b781785151}}
 
 {{quote:7a46619c-ff85-5614-aaf0-9ecaee0077d3}}

@@ -14,7 +14,7 @@ of: [dream, odysseus, chimaera]
 
 θεῖος is the adjective of θεός (“god”): “of the gods, sent by the gods,” and of people, “godlike, excellent.” It says in plain words what [[brilliant]] (δῖος) says by an older image. δῖος comes from the root of Ζεύς and the bright sky, θεῖος from the ordinary word for a god. The translation keeps them apart: δῖος is “brilliant,” θεῖος is “divine.”
 
-Of things, θεῖος marks what comes from the gods: a divine voice, a divine drink, the games held under the gods' protection (θεῖον ἀγῶνα, Il. 7.298). Of people it is given to heroes, to kings, to the herald Talthybius (Il. 4.192), and in the Odyssey above all to the singer, θεῖος ἀοιδός, whose song comes from the Muse.
+Of things, θεῖος marks what comes from the gods: a divine voice, a divine drink, the gods' assembly (θεῖον ἀγῶνα, Il. 7.298, where the Trojan women will go to pray; the tripods of Hephaestus roll into it at 18.376). Of people it is given to heroes, to kings, to the herald Talthybius (Il. 4.192), and in the Odyssey above all to the singer, θεῖος ἀοιδός, whose song comes from the Muse.
 
 ## Use
 

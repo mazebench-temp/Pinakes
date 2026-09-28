@@ -6,6 +6,8 @@ tags: [warfare, exchange]
 summary: Driving off herds and sacking towns, the ordinary business of heroic warfare.
 aliases: [raid, raids, sack, sacking, plunder, cattle raid]
 grc: [ἐκπέρσαι, ἐξεπράθομεν, ἐξαλαπάξαι, ὁδὸν ἐλθέμεναι, ἤλασαν, ἐδηλήσαντʼ, ἐκπέρσωσʼ, διεπράθομέν, ἤγομεν ἐνθάδε πάντα]
+# ἤλασαν is also "drove" a ditch round the wall (τάφρον ἤλασαν, 7.450).
+except: [7.450]
 en: [sack, plundered, go on a raid, drove off, ravage, sacked, brought everything here]
 passages:
   - 1.152-160 | Achilles: the Trojans never raided me

@@ -18,7 +18,7 @@ of: [zeus]
 
 {{quote:0175c964-c192-573a-8b86-5ca3d321cc86}}
 
-Agamemnon's prophecy of the fall of Troy piles up the titles of Zeus: son of Cronus, throned on high, dwelling in the upper air ([[son-of-cronus]], [[dwelling-in-the-upper-air]]). The god who sits above all will shake his dark aegis over the Trojans “in resentment at this deceit” ([[aegis]], [[apate]]). Agamemnon is sure that the oaths will be fulfilled, even if late (4.160–162). In Book 7 Hector gives the opposite verdict with the same title: the son of Cronus, throned on high, “did not bring the oaths to fulfillment” (Il. 7.69).
+Agamemnon's prophecy of the fall of Troy piles up the titles of Zeus: son of Cronus, throned on high, dwelling in the upper air ([[son-of-cronus]], [[dwelling-in-the-upper-air]]). The god who sits above all will shake his dark aegis over the Trojans “in resentment at this deceit” ([[aegis]], [[apate]]). Agamemnon is sure that the oaths will be fulfilled, even if late (4.160–162). In Book 7 Hector gives the opposite verdict with the same title: the son of Cronus, throned on high, “did not fulfill our oaths” (Il. 7.69).
 
 ## Outside Homer
 

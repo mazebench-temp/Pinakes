@@ -1,0 +1,13 @@
+---
+summary: Book 7 kills three Achaeans in its first sixteen lines and then no one. The duel that follows ends without a death, Hector's imagined victim lies under an imagined mound, and the real dead of the long first battle are counted only when they are washed and burned together under the truce.
+refs: [7.8-16, 7.77-91, 7.104-105, 7.254, 7.327-330, 7.417-432]
+passages:
+  - 7.8-16 | The first killings
+  - 7.421-432 | The burning of the dead
+---
+
+**Three deaths.** As Hector and Paris come out of the gates, each kills a man, and Glaucus a third. The three are told in the shortest forms. Paris kills Menesthius, named by his father, his mother and his town (7.8–10; see [[menesthius]]); Hector strikes Eioneus in the neck below the rim of his helmet (7.11–12; see [[eioneus]]); Glaucus strikes Iphinous, the son of Dexius, in the shoulder as he leaps up behind his horses, and he falls from the chariot (7.13–16; see [[iphinous]]). Two of the three deaths end in the same half-line, “and his limbs were loosened” (λύντο δὲ γυῖα, 7.12, 7.16; see [[loosened-his-limbs]] and [[androktasia]]). All three victims are Achaeans, and they are the only men killed in the book.
+
+**No death in the duel.** Then the gods stop the battle (7.17–43), and the day's fighting is given to two men. Both sides imagine the loser's death, and Hector plans his burial (7.77–91; see [[honoring-the-dead]] and [[fame-and-the-tomb]]). Menelaus would have died, the narrator says, if the kings had not held him back (7.104–108; see [[would-have-had-not]]). In the duel Ajax's spear goes through Hector's shield and corselet and cuts his tunic, “but he swerved aside and avoided black doom” (7.254); the five lines are those in which Menelaus' spear nearly killed Paris in Book 3 (7.250–254 = 3.356–360; see [[ker-doom]]). Ajax's stone lays Hector flat until Apollo raises him (7.268–272). Night stops the duel before the swords are used (7.273–282).
+
+**The dead counted.** The book's real dead are the dead of the long battle that began in Book 4. Nestor speaks of them in his proposal: “many long-haired Achaeans are dead, whose dark blood about the fair-flowing Scamander sharp Ares has now scattered, and their souls have gone down to Hades” (7.328–330; see [[psyche]] and [[scamander]]). Under the truce both sides go out to find them, and “it was hard to tell each man apart” until the blood was washed away (7.424–425). The poem that named every man as he fell (see the notes on Books 4–6) now shows its dead as a crowd, washed, wept over and burned together, and buried, on the Achaean side, under one mound (7.421–436; see [[the-truce-for-the-dead]] and [[cremation]]).

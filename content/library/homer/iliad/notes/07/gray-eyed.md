@@ -1,0 +1,5 @@
+---
+summary: The formula of Athena marks her three moves in the scene with Apollo that sets up the duel: she sees the Argives dying, she answers Apollo, and she agrees to his plan.
+---
+
+The line-end formula θεὰ γλαυκῶπις Ἀθήνη closes three verses in the first scene among the gods. “When the gray-eyed goddess Athena saw them killing the Argives in the fierce battle” (7.17–18), she darts down from Olympus; “Then the gray-eyed goddess Athena spoke to him in turn” (7.33), agreeing to stop the war for the day; and “So he spoke, and the gray-eyed goddess Athena did not disobey” (7.43), when Apollo proposes the duel. The goddess who fought beside Diomedes in Book 5 and refused the Trojan women's prayer in Book 6 (6.311) here makes common cause with the god of the other side. She then sits with Apollo on the oak to watch the duel (7.58), and later Nestor names her twice, in his wish for his youth and as the goddess who gave him his triumph over Ereuthalion (7.132, 7.154; [[euchomai]], [[nestor-and-ereuthalion]]). See [[athena]] and [[apollo]].

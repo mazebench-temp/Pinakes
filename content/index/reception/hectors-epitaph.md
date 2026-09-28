@@ -1,0 +1,19 @@
+---
+title: Hector's imagined epitaph
+greek: ἀνδρὸς μὲν τόδε σῆμα πάλαι κατατεθνηῶτος
+kind: anecdote
+tags: [art]
+summary: Hector imagines a sailor passing the mound of the man he will kill: “This is the mound of a man who died long ago, whom once, when he was the best in the fighting, shining Hector killed.” The couplet has the shape of the verse epitaphs later carved on Greek grave markers, but it leaves the dead man nameless and gives the glory to his killer.
+source: Epitaph of Kroisos, on the base of the Anavyssos kouros (Athens, National Archaeological Museum)
+of: [hector, tomb, kleos, tis-speech, fame-and-the-tomb, song-and-fame]
+passages:
+  - 7.76-91 | Hector's terms and the imagined tomb
+---
+
+{{quote:49b62789-a319-5614-b469-0ea22b08bbda}}
+
+**The form.** Hector's challenge ends with a tomb. If he kills his opponent, he will give back the body so that the Achaeans may bury him and heap up a mound (σῆμα) “beside the broad Hellespont”, and in years to come a man sailing past will point to it (7.84–91; see [[tomb]]). The words Hector gives the sailor are two verses: ἀνδρὸς μὲν τόδε σῆμα πάλαι κατατεθνηῶτος, / ὅν ποτʼ ἀριστεύοντα κατέκτανε φαίδιμος Ἕκτωρ (7.89–90). They point at the monument (τόδε σῆμα, “this mound”), name the dead man in the genitive, and add a relative clause on how he died. That is the shape of the verse epitaphs which the Greeks began to carve on grave markers in the archaic period. The base of a marble kouros from Anavyssos in Attica, made about 530 BCE, carries this couplet: στῆθι καὶ οἴκτιρον Κροίσου παρὰ σῆμα θανόντος, / ὅν ποτʼ ἐνὶ προμάχοις ὤλεσε θοῦρος Ἄρης, “Stay and mourn at the marker of Kroisos, who is dead, whom once raging Ares destroyed as he fought in the front ranks.” The monument is a σῆμα, the dead man's death is told in a clause beginning ὅν ποτε, “whom once”, and the killer's name ends the verse.
+
+**The difference.** Kroisos is named, and the one who killed him is the god of war. Hector's dead man has no name, and his killer is Hector. The imagined epitaph is a monument to the victor, and Hector says so: “So someone will say one day; and my fame will never perish” (7.91; see [[kleos]]). No one reads it, either. The later epitaph is written to be read, and it addresses the passerby and asks him to stop (στῆθι, “stay”). Hector's sailor speaks unasked, from his ship, about a mound that bears no writing. Homeric tombs are made to be seen from the sea. The ghost of Elpenor asks for a mound on the shore, “for men to come to learn of”, with his oar planted on it (*Odyssey* 11.75–78). The Achaeans heap the tomb of Achilles and Patroclus on a headland “beside the broad Hellespont”, the words of Hector's challenge, so that it may be seen far out at sea by the men who live now and by those to come (*Odyssey* 24.80–84).
+
+**Speeches for later men.** Three such speeches in the Iliad close with the same half-verse, ὥς ποτέ τις ἐρέει, “so someone will say one day”. A Trojan leaping on the tomb of Menelaus will mock Agamemnon's wasted war (4.176–182). A stranger who sees Andromache weeping in slavery will say, “This is the wife of Hector, who was always the best in the fighting” (6.459–462). And a sailor passing Hector's mound will speak its two verses (see [[tis-speech]] and [[song-and-fame]]). Two of the three are spoken at a tomb. Hector's two use the same verb, ἀριστεύω, “be the best”: his widow is known as the wife of the man who was always the best in the fighting (ἀριστεύεσκε, 6.460), and his victim as a man killed when he was the best in the fighting (ἀριστεύοντα, 7.90), whose excellence adds to his killer's glory. None of the three comes true in the poem. The duel ends in a draw, and the only mound raised in Book 7 is the single tomb over the Achaean dead, beside which the Achaeans build the wall that the gods will wash away (7.435–436, 7.459–463; see [[the-achaean-wall]] and [[fame-and-the-tomb]]).

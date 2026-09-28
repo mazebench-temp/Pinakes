@@ -3,7 +3,7 @@ title: Far-shooter (hekatos)
 greek: ἕκατος
 kind: epithet
 tags: [divine-epithet, rare-word]
-summary: A short name for [[Apollo]], “the one who shoots from afar,” used once in Book 1, in Achilles' account of the plague (1.385).
+summary: A short name for [[Apollo]], “the one who shoots from afar,” found four times in the Iliad, always in the genitive ἑκάτοιο at the end of the verse.
 aliases: [hekatos]
 grc: [ἑκάτοιο]
 en: [Far-Shooter]

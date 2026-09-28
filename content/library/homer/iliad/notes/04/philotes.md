@@ -11,4 +11,4 @@ On Olympus Zeus puts the choice to the gods: “let us consider how these things
 
 Below, the armies see Athena come down like a shooting star, and a man says to his neighbor: “Surely evil war and the dread din of battle will come again, or else friendship (φιλότητα) is set between the two sides by Zeus, who is the dispenser of war for men” (4.82–84). The men ask the gods' question in the gods' own words (see [[the-gods-mirror-the-mortals]] and [[tis-speech]]), without knowing it has already been answered. The next thing the star brings is Pandarus' arrow.
 
-The friendship of the two armies does not come again. What the poem gives instead is a friendship of two men: after their duel in Book 7, Hector and Ajax exchange gifts and part “joined in friendship” (7.302). See [[oaths-and-their-breaking]] and [[shooting-star]].
+The friendship of the two armies does not come again. What the poem gives instead is a friendship of two men: after their duel in Book 7, Hector and Ajax exchange gifts and part “in friendship, reconciled” (7.302). See [[oaths-and-their-breaking]] and [[shooting-star]].

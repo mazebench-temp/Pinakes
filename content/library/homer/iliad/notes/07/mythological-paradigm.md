@@ -1,0 +1,14 @@
+---
+summary: Nestor shames the Achaeans with a story of his youth. When the Arcadian champion Ereuthalion, wearing the armor of Areithous the mace-man, challenged the Pylians and all of them were afraid, he, the youngest, fought and killed him (7.132–157). The story is fitted point by point to Hector's challenge, and it works: nine men rise.
+refs: [7.133-156]
+passages:
+  - 7.123-160 | Nestor rebukes the Achaeans
+---
+
+**The frame.** Nestor's rebuke is built as a ring (see [[ring-composition]]). It opens with an imagined grief: old Peleus, who once questioned Nestor in his house about the lineage of every Argive, would lift up his hands to the gods and pray to die if he heard that they all cower before Hector (7.124–131; see [[peleus]]). Then comes the wish, “If only, father Zeus and Athena and Apollo, I were young” (7.132–133; see [[if-only-father-zeus]]), then the story (7.133–156), then the wish again, “If only I were young like that, and my strength were steadfast! Then Hector of the gleaming helmet would soon find his fight” (7.157–158), and last the rebuke, “not even you are eager with a ready heart to go and face Hector” (7.159–160).
+
+**Fitted to the case.** The story matches the present point by point. A champion in famous armor stood out in front and “challenged all the best” (7.150), as Hector has just done (7.73–75). The others “trembled greatly and were afraid, and no one dared” (7.151), as the Achaeans have sat in silence, “ashamed to refuse him, and afraid to accept” (7.93). And the youngest man of them all went out, sent by his “much-enduring heart”, and killed him, “and Athena gave me triumph” (7.152–156). The tale tells the Achaeans what they ought to do and shames them for not doing it, and its hero is the old man telling it (see [[nestor-and-ereuthalion]], [[ereuthalion]] and [[nestor]]).
+
+**A story inside the story.** The armor has a history of its own. It belonged to Areithous the mace-man, whom Lycurgus killed “by guile, not by strength at all”; Lycurgus wore it, and in his old age gave it to Ereuthalion, his attendant (7.137–150; see [[mace]], [[areithous]] and [[lycurgus-of-arcadia]]). An object's line of owners gives it weight, as the scepter that passed from Hephaestus to Agamemnon does (2.101–108; see [[scepter]]).
+
+**One of several.** In Book 4 Nestor named the fight in passing, wishing he were as he was “when I killed brilliant Ereuthalion” (4.318–319). The verse that closes the wish here opens two more stories of his youth, the cattle raid on the Epeians and his contests at the funeral games of Amarynceus (7.157 = 11.670 = 23.629), and in the Odyssey the disguised Odysseus borrows it for a tale of his own at Troy (Od. 14.468). The story works where Nestor's paradigm in Book 1 did not: there both kings brushed him aside (1.286–303); here “the old man rebuked them, and nine in all stood up” (7.161).

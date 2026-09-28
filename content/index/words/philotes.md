@@ -13,7 +13,7 @@ en: [friendship, love]
 
 φιλότης is the noun of [[philos|φίλος]] (“dear, one's own”): the state of being φίλοι to one another. It names a bond more than a feeling, and Homer uses it for three bonds that later Greek kept apart.
 
-**A treaty.** Enemies who make peace swear φιλότης together with oaths: φιλότητα καὶ ὅρκια πιστὰ ταμεῖν, which the translation renders “making friendship and swearing a trusty truce” (3.73, 3.94, 3.256). The verb τάμνω (“cut”) is the one used of cutting the victims' throats at the oath sacrifice (see [[oath]]). After their duel in Book 7, Hector and Ajax part “joined in friendship” (ἐν φιλότητι, 7.302).
+**A treaty.** Enemies who make peace swear φιλότης together with oaths: φιλότητα καὶ ὅρκια πιστὰ ταμεῖν, which the translation renders “making friendship and swearing a trusty truce” (3.73, 3.94, 3.256). The verb τάμνω (“cut”) is the one used of cutting the victims' throats at the oath sacrifice (see [[oath]]). After their duel in Book 7, Hector and Ajax part “in friendship, reconciled” (ἐν φιλότητι, 7.302; see [[parted-in-friendship]]).
 
 **Hospitality.** A host “offers φιλότης” to his guest (3.354). Émile Benveniste argued that the whole family of φίλος belonged first to the institution of hospitality (see [[xenia]]).
 

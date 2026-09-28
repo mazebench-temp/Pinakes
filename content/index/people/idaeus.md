@@ -19,4 +19,4 @@ relations:
 
 ## Elsewhere in Homer
 
-In Book 7 he and Talthybius, "both wise men" (7.276), part Hector and Ajax at nightfall (7.273–282). The next morning he carries to the Achaean ships Paris' offer to return the treasure without Helen, and Priam's request for a truce to bury the dead (7.372–416). In Book 24 he drives the mule wagon with Hector's ransom and goes with Priam by night to Achilles' hut (24.325, 24.470–471). A different Idaeus, son of Dares, the priest of Hephaestus, is saved from Diomedes by the god (5.9–24).
+In Book 7 he parts Hector and Ajax at nightfall and carries Paris' offer and Priam's request for a truce to the Achaean ships (7.273–282, 7.372–416). In Book 24 he drives the mule wagon with Hector's ransom and goes with Priam by night to Achilles' hut (24.325, 24.470–471). A different Idaeus, son of Dares, the priest of Hephaestus, is saved from Diomedes by the god (5.9–24).

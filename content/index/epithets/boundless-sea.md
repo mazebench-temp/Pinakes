@@ -3,7 +3,7 @@ title: Boundless
 greek: ἀπείρων
 kind: epithet
 tags: [sea]
-summary: “Without limit,” an epithet of the [[sea]] as Achilles looks out over it (1.350).
+summary: “Without limit,” an epithet of the [[sea]] and of the earth.
 aliases: [limitless, apeiron]
 grc: [ἀπείρονα]
 en: [boundless]

@@ -22,7 +22,7 @@ The name is formed from θοός, "swift", and differs only in its accent from �
 
 ## Elsewhere in Homer
 
-He volunteers to fight Hector in single combat (7.168). Poseidon takes his likeness to rouse Idomeneus; there he is Thoas "who ruled the Aetolians in all Pleuron and steep Calydon, and was honored like a god by his people" (13.216–218). When Hector returns to battle, Thoas, "far the best of the Aetolians, skilled with the javelin and brave in close fighting, and few of the Achaeans could beat him in the assembly", advises the chiefs to hold the front while the army withdraws to the ships (15.281–299). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (Od. 14.499–502).
+Poseidon takes his likeness to rouse Idomeneus; there he is Thoas "who ruled the Aetolians in all Pleuron and steep Calydon, and was honored like a god by his people" (13.216–218). When Hector returns to battle, Thoas, "far the best of the Aetolians, skilled with the javelin and brave in close fighting, and few of the Achaeans could beat him in the assembly", advises the chiefs to hold the front while the army withdraws to the ships (15.281–299). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (Od. 14.499–502).
 
 ## Outside Homer
 

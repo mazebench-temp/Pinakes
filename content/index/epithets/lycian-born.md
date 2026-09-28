@@ -16,7 +16,7 @@ of: [apollo]
 
 - Λυκίη, Lycia: “born in Lycia.” Apollo has close ties to Lycia in the Iliad. The Lycian Glaucus prays to him as a god who may be “in the rich land of Lycia or in Troy” (Il. 16.514–515), and Apollo has the body of Sarpedon carried home to Lycia (Il. 16.666–683).
 - λύκος, “wolf”: “wolf-born.” A Greek tale told that Leto came to Delos in the shape of a she-wolf (see Outside Homer).
-- a root for light, seen in ἀμφιλύκη, “twilight” (Il. 7.433): “born of light.”
+- a root for light, seen in ἀμφιλύκη, “half-light” (Il. 7.433): “born of light.”
 
 The translation takes the first.
 

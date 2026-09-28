@@ -3,7 +3,7 @@ title: Olympian lord of the lightning
 greek: Ὀλύμπιος ἀστεροπητής
 kind: epithet
 tags: [divine-epithet]
-summary: A line-end formula for [[Zeus]] as hurler of lightning. Hephaestus uses it in his warning to Hera (1.580), and the narrator as Zeus goes to bed at the end of the book (1.609).
+summary: “The lightener,” a title of [[Zeus]] as hurler of lightning, above all in the line-end formula Ὀλύμπιος ἀστεροπητής, “the Olympian lord of the lightning.”
 aliases: [lightener, asteropetes]
 grc: [Ὀλύμπιος ἀστεροπητὴς]
 en: [lord of the lightning]

@@ -5,7 +5,7 @@ kind: ritual
 tags: [prayer]
 summary: Speaking to a god to ask for help. A prayer calls on the god, claims a right to be heard, and makes its request.
 aliases: [pray, prayers, vow, vows, euchole]
-grc: [ἠρᾶθʼ, κλῦθί μευ, κρήηνον ἐέλδωρ, εὐχ*, εὐξ*, ἠρήσατο, χεῖρας ὀρεγνύς, χεῖρας ἀνασχών, ἐπικρήηνον ἐέλδωρ, "!ἐϋξοο*"]
+grc: [ἠρᾶθʼ, κλῦθί μευ, κρήηνον ἐέλδωρ, εὐχ*, εὐξ*, ἠρήσατο, χεῖρας ὀρεγνύς, χεῖρας ἀνασχών, ἐπικρήηνον ἐέλδωρ, "!ἐϋξοο*", "!ἐϋξεστ*", "!εὐχαλκ*"]
 except: [1.91, 1.397]
 en: [prayed, prayer, pray, vow, Hear me, fulfill for me this wish, stretching out his hands, lifting up his hands]
 passages:

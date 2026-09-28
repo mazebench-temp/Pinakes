@@ -1,0 +1,12 @@
+---
+summary: Ares does not come to the battlefield in Book 7, but the book's fighters are measured against him. In Nestor's story he gave Areithous his armor, Meriones is “the equal of Enyalius”, Ajax goes out to fight like Ares, and Hector boasts that he can dance for him; elsewhere his name is war itself.
+refs: [7.209]
+passages:
+  - 7.206-213 | Ajax goes out like Ares
+---
+
+**A giver of armor.** In Nestor's story Areithous the mace-man wore armor “that bronze Ares had given him” (7.146). Lycurgus killed him in a narrow road, stripped the armor and wore it himself “into the toil of Ares”, and gave it in his old age to Ereuthalion, whom Nestor killed (7.142–154; see [[areithous]], [[lycurgus-of-arcadia]], [[ereuthalion]] and [[nestor-and-ereuthalion]]). χάλκεος, “bronze”, is the god's own metal (5.704, 5.859, 5.866; see [[bronze-ares]]), and μῶλος Ἄρηος, “the toil of Ares”, is a name for battle (2.401, 16.245, 18.134). The god's gift passes from Areithous to his killer and from the killer to his attendant, until the youngest man in the Pylian army kills its last wearer (7.153–156).
+
+**The measure of a fighter.** Among the nine who stand up to face Hector is Meriones, “the equal of Enyalius, slayer of men” (7.166; see [[enyalius]] and [[meriones]]). When the lot has fallen and Ajax is armed, he goes out “as huge Ares goes forth / when he goes to war among men, whom the son of Cronus / has brought together to fight in the fury of heart-devouring strife” (7.208–210; see [[like-huge-ares]] and [[heart-devouring]]). πελώριος, “huge”, is the god's word in the simile and the man's in the next line, “Such was huge Ajax” (7.208, 7.211; see [[huge]] and [[ajax]]). Hector answers him with a boast about his own skill: he knows how, “in close fighting, to dance for destructive Ares” (7.241). μέλπεσθαι is to sing and dance, as the young men “hymn” Apollo in Book 1 (1.472–474), and the standing fight becomes a dance performed for the war god (see the translation's note on 7.241 and [[hector]]).
+
+**War itself.** Nestor counts the day's dead: “whose dark blood about the fair-flowing Scamander / sharp Ares has now scattered, and their souls have gone down to Hades” (7.329–330; see [[sharp]], [[scamander]] and [[hades]]). Ares, as so often, is the name of the killing, not of a god who takes part in it. When Idaeus comes to the Achaean assembly, he finds the Danaans, “attendants of Ares” (7.382; see [[attendants-of-ares]]).

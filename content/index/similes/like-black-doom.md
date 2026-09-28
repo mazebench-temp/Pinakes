@@ -22,7 +22,7 @@ The comparison measures hatred by the most hateful thing a man can name. φιλ�
 
 Menelaus is searching the throng “like a wild beast” (3.449; see [[like-a-wild-beast]]). The narrator explains why the search fails: no one could show him Alexander, and it was not because anyone was protecting him. Three times in the book Alexander escapes doom. He draws back from Menelaus “avoiding doom” (κῆρʼ ἀλεείνων, 3.32); the spear cuts his tunic and “he swerved aside and avoided black doom” (ἀλεύατο κῆρα μέλαιναν, 3.360); and Aphrodite snatches him from Menelaus' hands (3.380). Now the word comes back to describe him. To his own people, the man who has escaped black doom is black doom.
 
-The hatred has been heard before. Hector told him that if the Trojans were not such cowards he would already have “put on a tunic of stone” (3.56–57). The old men at the gates wanted Helen sent home, “and not be left here to be a grief to us and to our children after us” (3.160). In Book 6 Hector wishes the earth would open for his brother (6.281–285), and in Book 7 the herald Idaeus, reporting that Paris will give back the treasure but not Helen, adds, “I wish he had perished first” (7.390).
+The hatred has been heard before. Hector told him that if the Trojans were not such cowards he would already have “put on a tunic of stone” (3.56–57). The old men at the gates wanted Helen sent home, “and not be left here to be a grief to us and to our children after us” (3.160). In Book 6 Hector wishes the earth would open for his brother (6.281–285), and in Book 7 the herald Idaeus, reporting that Paris will give back the treasure but not Helen, adds, “I wish he had perished before that!” (7.390).
 
 ## Elsewhere in Homer
 

@@ -24,7 +24,7 @@ en: [Glaucus]
 
 ## Elsewhere in Homer
 
-With his cousin [[Sarpedon]] he leads the Lycians in the Trojan catalogue (2.876–877). He kills Iphinous at the start of Book 7 (7.13–16). At the Achaean wall Sarpedon tells him why the two of them are honored in Lycia and must fight in the front rank (12.310–328), and Teucer's arrow wounds him as he climbs the wall (12.387–391). Dying, Sarpedon calls on him to defend his body; Glaucus, still wounded, prays to Apollo, who heals him, and he rallies the Lycians and kills Bathycles (16.492–531, 16.593–599). When the Trojans leave Sarpedon's body to the Achaeans, he rebukes Hector bitterly (17.140–168).
+With his cousin [[Sarpedon]] he leads the Lycians in the Trojan catalogue (2.876–877). At the Achaean wall Sarpedon tells him why the two of them are honored in Lycia and must fight in the front rank (12.310–328), and Teucer's arrow wounds him as he climbs the wall (12.387–391). Dying, Sarpedon calls on him to defend his body; Glaucus, still wounded, prays to Apollo, who heals him, and he rallies the Lycians and kills Bathycles (16.492–531, 16.593–599). When the Trojans leave Sarpedon's body to the Achaeans, he rebukes Hector bitterly (17.140–168).
 
 ## Outside Homer
 

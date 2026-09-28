@@ -20,4 +20,4 @@ Priam uses the word first, of a man he does not know: “so that you may name th
 
 {{quote:e12d7b62-92de-51f2-86ac-41170cbc3c37}}
 
-In Book 7 the same formula describes Ajax as he goes out, “like huge Ares,” to fight Hector (Il. 7.208–211).
+In Book 7 the same formula describes Ajax as he goes out, “as huge Ares goes forth” to fight Hector (Il. 7.208–211).

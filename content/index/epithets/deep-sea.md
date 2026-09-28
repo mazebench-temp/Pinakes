@@ -3,9 +3,10 @@ title: Deep
 greek: βαθύς
 kind: epithet
 tags: [sea]
-summary: The deep [[sea]] into which Thetis leaps from Olympus (1.532).
+summary: “Deep,” an epithet of the [[sea]].
 aliases: [bathys]
 grc: [βαθεῖαν]
+except: [7.341, 7.440]
 en: [deep]
 of: [sea]
 ---

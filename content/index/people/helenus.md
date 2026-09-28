@@ -31,8 +31,6 @@ relations:
 
 ## Elsewhere in Homer
 
-**The voice of the gods.** In Book 7 Athena and Apollo agree to end the day's fighting with a single combat (7.17–42). Helenus “understood in his heart the plan that pleased the gods”, and he tells Hector to challenge the best of the Achaeans: “it is not yet your fate to die and meet your end; so I heard the voice of the gods who are forever” (7.44–53). Hector issues the challenge, and the lot falls to Ajax (7.54–205; see [[single-combat]]).
-
 **The archer.** In Book 13 he kills the Achaean Deipyrus with a great Thracian sword and shoots Menelaus in the breastplate, but the arrow glances off like beans from a winnowing shovel. Menelaus drives his spear through the hand that holds the bow, and Agenor binds the wound with a sling of wool (13.576–600; see [[agenor]]).
 
 **A son left alive.** In the last book Priam, setting out to ransom Hector, rages at his nine remaining sons, Helenus first among them: “liars and dancers”, while the best are dead (24.249–262). Helenus does not appear in the Odyssey.

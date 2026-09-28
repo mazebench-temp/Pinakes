@@ -3,7 +3,7 @@ title: Where men win glory
 greek: κυδιάνειρα
 kind: epithet
 tags: [heroic-epithet, assembly, honor]
-summary: “Bringing glory to men,” an epithet usually of battle, given in Book 1 to the [[assembly]] that Achilles no longer attends (1.490).
+summary: “Bringing glory to men,” an epithet of battle, and once of the [[assembly]].
 aliases: [kydianeira, glory-bringing]
 grc: [κυδιάνειραν]
 en: [where men win glory]

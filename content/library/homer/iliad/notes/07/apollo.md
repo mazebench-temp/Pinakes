@@ -1,0 +1,19 @@
+---
+summary: Apollo, who wants victory for the Trojans, meets Athena at the oak and proposes that they stop the day's battle by rousing Hector to a duel. He watches it from the oak with Athena, sets Hector on his feet when Ajax fells him with a stone, and is named by Poseidon as his partner in building the wall of Troy.
+refs: [7.21-22, 7.28-29, 7.36, 7.38, 7.45, 7.59-61, 7.453]
+passages:
+  - 7.17-43 | Apollo and Athena at the oak
+  - 7.58-61 | Athena and Apollo like vultures
+---
+
+**The proposal.** Apollo sees Athena come down from Olympus as he is “looking down from Pergamus, for he wanted victory for the Trojans” (7.21; the half-line of 4.508; see [[pergamus]]). He speaks first:
+
+{{quote:f297884b-8e9d-5636-a2a8-bfcce16e5ce0}}
+
+He suspects her of coming to give the Danaans “the victory that turns the battle” (ἑτεραλκέα νίκην, 7.26; see [[that-turns-the-battle]], [[nike]] and the translation's note on 7.26). What he offers is a pause “for today” (σήμερον). The war will go on “until they find the end / of Ilios” (τέκμωρ, 7.30–31; see [[tekmor]]), and he grants that the sack of the city is what “you immortal goddesses” want (7.32; see [[hera]]). The god of the Trojans concedes the end and bargains for a day. When Athena asks how the war is to be stopped, the plan is his: to rouse Hector to challenge one of the Danaans “man to man, alone” (7.38–42; see [[single-combat]]). She “did not disobey” (7.43; see [[athena]]), and Helenus perceives “the plan that pleased the gods as they took counsel” (7.44–45; see [[helenus]] and [[boule]]).
+
+**His words return.** Men who do not know the plan repeat it. When the heralds part the fighters, Hector proposes to Ajax, “let us now cease from battle and combat / for today; afterward we will fight again, until a god / decides between us” (7.290–292), in nearly the words of Apollo's proposal (7.29–30). Priam's message asking for a truce ends with the same verses, and Idaeus repeats them to the Achaeans (7.377–378, 7.396–397).
+
+**Watcher and helper.** With Athena he sits on the oak of Zeus, “like birds, like vultures”, delighting in the men (7.58–61; see [[the-oak-of-zeus]] and [[like-vultures]]). Hector's challenge names him twice. If he kills his man, “and Apollo gives me triumph”, he will hang the armor “on the temple of Apollo the Far-Shooter” (7.81–83; see [[temple]]). Apollo's temple at Troy stands on Pergamus, where Leto and Artemis healed Aeneas (5.445–448). Nowhere else in Homer does a warrior promise an enemy's armor to a temple; Odysseus holds up Dolon's spoils to Athena and sets them on the stern of his ship until a sacrifice can be made (10.460–464, 10.570–571). Apollo gives no triumph in this duel, but when Ajax's stone lays Hector on his back, “Apollo at once set him on his feet” (7.272). He will do more for Hector later. He revives him after Ajax has felled him with another stone (14.409–420, 15.239–262), and he snatches him away from Achilles in a mist (20.443–444), until at last he leaves him (22.213). When Apollo, in the likeness of Asius, sends Hector against Patroclus, the half-line of Hector's challenge (7.81) returns in the god's own mouth: δώῃ δέ τοι εὖχος Ἀπόλλων, “Apollo may give you triumph” (16.725).
+
+**The wall of Laomedon.** At the end of the book Poseidon names him as his partner: the wall “that I and Phoebus Apollo / toiled to build for the hero Laomedon” (7.452–453; see [[the-walls-of-troy]] and [[poseidon]]). In Book 21 Poseidon tells it otherwise: he built the wall while Apollo herded Laomedon's cattle on Ida (21.446–449). Apollo will also help to destroy the Achaean wall. After the war he turns the rivers against it (12.17–26), and in the battle at the ships he tramples the ditch into a causeway and throws the wall down like a boy scattering the sand he has heaped up in play (15.355–366; see [[the-achaean-wall]]).

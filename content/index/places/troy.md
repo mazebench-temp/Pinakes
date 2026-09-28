@@ -14,6 +14,10 @@ refs: [1.19]
 
 Two names: Ἴλιος (Ilios, originally Ϝίλιος, Wilios), from which the Iliad takes its title, and Τροίη (Troiē), which can mean the city or the land around it. Hittite texts mention a city *Wilusa* and a land *Truwisa* in western Anatolia. Many scholars think these are Ilios and Troy, though the identification is not certain.
 
+## The walls
+
+Troy is “well-walled” and “of the fine towers” ([[well-walled]], [[of-the-fine-towers]]). Poseidon built its wall for King Laomedon: in Book 7 he says that he and Apollo built it together (7.452–453), and in Book 21 that he built it while Apollo herded Laomedon's cattle (21.446–449). See [[the-walls-of-troy]], [[the-tower-of-ilios]] and [[poseidon-and-apollo-serve-laomedon]].
+
 {{notes}}
 
 ## Outside Homer

@@ -4,7 +4,7 @@ greek: Ἐρυθῖνοι
 kind: place
 tags: [trojan, paphlagonia]
 summary: "Lofty Erythini", heights on the Paphlagonian coast of the Black Sea, named for their red color.
-grc: [Ἐρυθίνους, ὑψηλοὺς]
+grc: [Ἐρυθίνους, "ὑψηλοὺς Ἐρυθίνους"]
 en: [Erythini]
 ---
 

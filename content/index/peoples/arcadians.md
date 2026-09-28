@@ -20,10 +20,6 @@ They come from the towns of [[Arcadia]], under [[Agapenor]], son of Ancaeus. "Ma
 
 Theirs is the one inland contingent of the Catalogue, and the only one that has to be given its ships: "they cared nothing for the works of the sea" (οὔ σφι θαλάσσια ἔργα μεμήλει).
 
-## Elsewhere in Homer
-
-Nestor recalls a war of his youth against "the Arcadians, fighters with the spear" (ἐγχεσίμωροι; [[fighters-with-the-spear]]), in which he killed their champion Ereuthalion (7.133–156).
-
 ## Outside Homer
 
 Thucydides cites the gift of ships as evidence that Agamemnon was strong at sea (1.9.4). The Arcadians claimed to be the oldest people of the Peloponnese, born from their own land (Herodotus 8.73).

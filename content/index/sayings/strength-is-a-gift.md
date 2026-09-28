@@ -3,7 +3,7 @@ title: “A god gave you that”
 greek: θεός που σοὶ τό γʼ ἔδωκεν
 kind: saying
 tags: [divine-will, honor]
-summary: Agamemnon belittles Achilles' strength as a gift of the gods, not a merit of his own.
+summary: Homer's heroes say that a man's strength is the gift of a god. Agamemnon says it to belittle Achilles, and Hector, at the end of his duel with Ajax, to honor his opponent.
 passages:
   - 1.178
 ---

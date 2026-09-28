@@ -3,7 +3,7 @@ title: Silence
 greek: ἀκέων
 kind: theme
 tags: [speech, mind]
-summary: Homer's speeches are framed by silences: a dismissed priest walking away, messengers who cannot speak, an army waiting to hear, a king who says nothing.
+summary: Homer's speeches are framed by silences: of awe and fear, of anger held in, of refusal and obedience, and of grief.
 grc: [ἀκέων, ἀκέουσα]
 en: [in silence, silence]
 refs: [1.332, 1.512]

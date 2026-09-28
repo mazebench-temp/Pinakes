@@ -3,7 +3,7 @@ title: Far-worker
 greek: ἑκάεργος
 kind: epithet
 tags: [divine-epithet]
-summary: An epithet and name of [[Apollo]], “working from afar.” In Book 1 it names the god to be appeased (1.147), the god praised in the paean (1.474), and the god who sends a fair wind home (1.479).
+summary: An epithet and name of [[Apollo]], “working from afar,” used also in address to the god.
 aliases: [far-working, hekaergos]
 grc: [ἑκάεργον, ἑκάεργος]
 en: [Far-Worker, far-working]

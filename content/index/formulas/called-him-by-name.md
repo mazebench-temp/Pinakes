@@ -3,7 +3,7 @@ title: Spoke and called him by name
 greek: ἔπος τ’ ἔφατ’ ἔκ τ’ ὀνόμαζε
 kind: formula
 tags: [speech-formula]
-summary: The half-line of intimate address, “and spoke to him and called him by name,” used as Thetis comforts Achilles (1.361).
+summary: The half-line of close address, “and spoke to him and called him by name,” usually after a touch of the hand: a mother stroking her child, a wife clinging to her husband, a brother holding his brother back.
 aliases: [ek t onomaze]
 grc: [ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε]
 en:

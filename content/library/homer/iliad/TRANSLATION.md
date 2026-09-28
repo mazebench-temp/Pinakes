@@ -59,6 +59,13 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | γενεή | lineage; generation | "lineage" of a family (6.145, 6.151, 6.211); "generation" of the leaves (6.146, 6.149) |
 | δᾶερ, γάλοως, εἰνάτερες, γαμβρός | brother-in-law, husband's sisters, brothers' wives, son-in-law | 6.249, 6.344, 6.378 |
 | ἐλεύθερον ἦμαρ / δούλιον ἦμαρ | the day of freedom / the day of slavery | 6.455, 6.463; κρητὴρ ἐλεύθερος "the mixing bowl of freedom" (6.528) |
+| εὖχος | triumph | 5.285, 5.654, 7.81, 7.154, 7.203; kept apart from κῦδος "glory" (7.205) |
+| μόθος | the fray | 7.117, 7.240; "the dread din of battle" is φύλοπις αἰνή, "Tumult" Κυδοιμός |
+| τύμβος / σῆμα | tomb / mound (of a grave); sign, mark | τύμβος "tomb" (2.604, 7.336, 7.435); σῆμα "mound" (6.419, 7.86, 7.89), "sign" (6.168, 6.176), "mark" on a lot (7.189) |
+| εἶλαρ | safeguard | 7.338, 7.437; "bulwark" is ἕρκος |
+| χάρμη | the joy of battle; battle | προκαλέσσατο χάρμῃ "challenged … to battle" (7.218, 7.285) |
+| δήϊος (πόλεμος, Ἄρης) | destructive | "destructive war" (4.281, 7.119), "destructive Ares" (7.241); πῦρ δήϊον "consuming fire" (6.331) |
+| ἀπέλεθρος | measureless | ἶνʼ ἀπέλεθρον "measureless strength" (5.245, 7.269) |
 
 ## Epithets and formulas
 
@@ -205,6 +212,22 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἤνις ἠκέστας | yearlings, never touched by the goad |
 | Τρῳαὶ ἐϋπλόκαμοι / Τρῳάδες ἑλκεσίπεπλοι | Trojan women with lovely tresses / Trojan women with trailing robes |
 | κύων (of Helen, by herself) | dog that I am (3.180 "dog-faced as I am") |
+| ἐνοσίχθων / ἐννοσίγαιος, εὐρυσθενής (Ποσειδάων) | the earth-shaker / shaker of the earth, wide in strength |
+| ἑτεραλκὴς νίκη | the victory that turns the battle |
+| ὑπερμενὴς Κρονίων | the son of Cronus, supreme in might |
+| κέκλυτέ μευ … ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει | Hear me … so that I may say what the heart in my breast commands me |
+| νὺξ δʼ ἤδη τελέθει· ἀγαθὸν καὶ νυκτὶ πιθέσθαι | Night is already coming on; it is good to yield to night too |
+| εἰς ὅ κε δαίμων ἄμμε διακρίνῃ, δώῃ δʼ ἑτέροισί γε νίκην | until a god decides between us and gives victory to one side or the other |
+| πόλεμος δυσηχής | grim-sounding war |
+| ἑπταβόειος (σάκος) | of seven oxhides |
+| ῥηξήνωρ, θυμολέων | breaker of men, lion-hearted |
+| ἐγχεσίμωροι | fighters with the spear (2.692, 2.840, 7.134) |
+| χαλκοκνήμιδες Ἀχαιοί | the bronze-greaved Achaeans |
+| Τροίη εὔπυργος / πολύχρυσος Μυκήνη | Troy of the fine towers / Mycenae rich in gold |
+| ταναήκης χαλκός | the long-edged bronze |
+| κῆρυξ ἠπύτα | the loud-voiced herald |
+| ἀκαλαρρείτης, βαθύρροος Ὠκεανός | gently flowing, deep-streaming Oceanus |
+| Δαρδανίδης Πρίαμος, θεόφιν μήστωρ ἀτάλαντος | Priam, descendant of Dardanus, a counselor equal to the gods |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -351,3 +374,27 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **6.506** (= 15.263) — ἀκοστήσας occurs only in this simile. It was explained in antiquity from ἀκοστή, a dialect word for barley: "barley-fed". Rendered "fed full of barley".
 - **6.513** — ἠλέκτωρ: "the beaming one", the sun. The same half-verse ends ἠλέκτωρ Ὑπερίων at 19.398. Rendered "the shining sun".
 - **6.528** — κρητῆρα … ἐλεύθερον, "the mixing bowl of freedom" (only here): a bowl set up for the gods in thanks for deliverance, as ἐλεύθερον ἦμαρ is "the day of freedom" (6.455; 16.831, 20.193). Rendered literally.
+- **7.26** — ἑτεραλκέα νίκην (also 8.171, 16.362, 17.627; Od. 22.236; δῆμον ἑτεραλκέα 15.738): from ἕτερος and ἀλκή, "strength for one of two sides", taken either as a decisive victory or as one that swings the fight to the side that was losing. Rendered "the victory that turns the battle".
+- **7.30–31** — εἰς ὅ κε τέκμωρ Ἰλίου εὕρωσιν (so 9.48–49; compare οὐκέτι δήετε τέκμωρ Ἰλίου αἰπεινῆς, 9.418–419 = 9.685–686): τέκμωρ is a sign (1.526), a goal (13.20), and a means or way out (16.472; Od. 4.373, 4.466), so the phrase is "until they reach the appointed end of Ilios" or "until they find the way to take Ilios". Rendered "until they find the end / of Ilios", which leans to the first.
+- **7.53** — ὣς γὰρ ἐγὼ ὄπʼ ἄκουσα θεῶν αἰειγενετάων: Helenus says he heard the gods' voice, where the narrator says only that he perceived their plan in his heart (σύνθετο θυμῷ, 7.44). Whether he overheard Athena and Apollo or describes a seer's insight as hearing is debated. Rendered literally.
+- **7.59** — ὄρνισιν ἐοικότες αἰγυπιοῖσι: whether Athena and Apollo take the form of vultures or only perch like them to watch is debated. Gods take the shape of birds elsewhere (Od. 3.372, Athena φήνῃ εἰδομένη, to the amazement of all who saw; Od. 22.240, χελιδόνι εἰκέλη ἄντην), but a likeness of this kind can also be one of manner, and the same question is asked of 14.290, 19.350 and Od. 5.51. Rendered "like birds, like vultures", which leaves it open.
+- **7.69–70** — ὅρκια … οὐκ ἐτέλεσσεν: Hector lays the failure of the oaths of Book 3 on Zeus and says nothing of Pandarus' arrow (4.104–140), which Agamemnon (4.155–157) and Antenor (7.351–352) call the Trojans' breach. τεκμαίρεται is taken with κακά, "he ordains evils", as in θεοὶ κακὰ τεκμήραντο, "the gods ordained these evils" (6.349); others supply an appointed end, "he sets a term for both sides until …", echoing τέκμωρ at 7.30. Rendered "did not fulfill our oaths" and "meaning evil, he ordains it for both sides".
+- **7.82** — τεύχεα συλήσας, as at 7.78; the digitized text printed σύλησας, a slip corrected here.
+- **7.100** — ἀκήριοι: "without heart" (κῆρ), as δέος ἀκήριον is "heartless fear" (5.812, 5.817), or "lifeless" (11.392; 21.466, of leaves), which suits the curse that the Achaeans turn to water and earth (7.99). In the Odyssey the word means "unscathed" (Od. 12.98, 23.328). Rendered "spiritless".
+- **7.114** — ἔρριγʼ ἀντιβολῆσαι: Agamemnon says that even Achilles "shudders" to meet Hector. Achilles himself says that while he fought, Hector would not lead the battle out from the wall beyond the Scaean gates and the oak, and once barely escaped him there (9.352–355). The claim is usually taken as Agamemnon's exaggeration, meant to keep Menelaus out of the fight. Rendered literally, "shudders to meet this man".
+- **7.134** — ἐγχεσίμωροι (also 2.692, 2.840; Od. 3.188): the second element, as in ἰόμωροι (4.242, 14.479) and the dogs' ὑλακόμωροι (Od. 14.29, 16.4), is of uncertain meaning, and the word has been explained as "fighting with", "raging with" or "famed for" the spear. Rendered "fighters with the spear", as at 2.692 and 2.840.
+- **7.135** — Φειᾶς πὰρ τείχεσσιν Ἰαρδάνου ἀμφὶ ῥέεθρα: Pheia is a town on the coast of Elis (Φεάς, Od. 15.297; Strabo 8.3.12 names a cape Pheia there, with a small stream near it); the Iardanus is named elsewhere only in Crete (the same half-verse, Od. 3.292), and the Celadon, "the Roarer" (7.133), nowhere else. Strabo reports that some wanted to read Ἀκίδοντι for Κελάδοντι and Χάας for Φειᾶς, putting the fight at Chaa near Lepreum, on the river Acidon beside the tomb of Iardanus (8.3.21). Rendered as printed.
+- **7.171** — κλήρῳ νῦν πεπάλασθε: a perfect middle imperative, "shake the lots among yourselves", from πάλλω "shake" (πάλλεν 7.181; 3.316, 3.324), as κλήρῳ πεπαλάσθαι at Od. 9.331, not from παλάσσω "spatter" (πεπάλακτο 11.98). διαμπερές, "right through", is "all of you, one after another" or "thoroughly". Rendered "cast lots, all of you in turn".
+- **7.187** — ἐπιγράψας: "scratching (a mark) on it", as an arrow "grazes" the skin (ἐπέγραψε 4.139; ἐπιγράψας 11.388; of a spear, 13.553). Each man marks his own lot (ἐσημήναντο, 7.175), and no one but Ajax recognizes his (7.185, 7.189), so the mark was a private sign, not writing that others could read. Compare 6.168–169. Rendered "scratched his mark on it".
+- **7.195–199** — Ajax bids the Achaeans pray "in silence among yourselves, so that the Trojans do not hear", then "or else openly, since we fear no one", and boasts of his strength and skill. The five verses are reported to have been athetized in antiquity, the change of mind and the boast being thought unfitting; without them 7.200 (οἳ δʼ εὔχοντο Διὶ Κρονίωνι ἄνακτι) follows directly on 7.194, and the prayer that follows is spoken aloud (7.201–205). Rendered as transmitted.
+- **7.228** — καὶ μετʼ Ἀχιλλῆα, "even after Achilles": next after Achilles in rank, or even without Achilles, now that he has withdrawn from the fight (7.229–230). Rendered literally.
+- **7.238–239** — βῶν ἀζαλέην, "the dry oxhide", is the shield (compare ἑπταβόειον, 7.220). In τό μοι ἔστι ταλαύρινον πολεμίζειν, τό is taken as a demonstrative, "that, to me, is fighting with the oxhide shield", or as "therefore", "and so I know how to fight with the oxhide shield"; for ταλαύρινος see 5.289. Rendered "and that, to me, is fighting as a warrior with the oxhide shield".
+- **7.241** — μέλπεσθαι Ἄρηϊ: μέλπω is to sing and dance (1.472–474, the young men "hymning" Apollo; 16.182, girls dancing for Artemis), so the standing fight is a dance performed for Ares; compare Aeneas' taunt that Meriones is a dancer (ὀρχηστήν, 16.617). ἐνὶ σταδίῃ is the standing fight on foot (σταδίῃ ὑσμίνῃ, 13.314, 13.713), set against the chariot fight of 7.240. Rendered "in close fighting, to dance for destructive Ares".
+- **7.298** — θεῖον … ἀγῶνα: ἀγών is a gathering or a gathering place (νεῶν ἐν ἀγῶνι, 15.428, 16.500). The "divine gathering" that the women will enter is usually taken as the sanctuary where the images of the gods stand together, or as the gathering of worshippers there; at 18.376 the same phrase is the assembly of the gods on Olympus, which Hephaestus' tripods enter of themselves. Rendered "the divine assembly".
+- **7.334–335** — ὥς κʼ ὀστέα παισὶν ἕκαστος / οἴκαδʼ ἄγῃ: each man is to take the bones home to the children of the dead. Some ancient critics rejected the lines: the dead are then buried together under one mound at Troy (7.336, 7.435), and elsewhere in the Iliad the bones of the dead stay at Troy (4.174–175; 23.83–92, 23.243–248). The practice recalls the later Athenian custom of bringing home the bones of the war dead (Thucydides 2.34). Rendered as transmitted.
+- **7.336–337, 7.435–436** — τύμβον … ἕνα … ἄκριτον ἐκ πεδίου: one mound heaped over all the dead together. ἄκριτον is usually taken as "undistinguished", with no man's grave set apart (elsewhere ἄκριτος is "endless", 2.796, 3.412); the men who build it at 7.434 are a κριτὸς λαός, "a chosen band". ἐξαγαγόντες has no expressed object; the English supplies "earth". Rendered "a single tomb … one for all alike".
+- **7.353** — ἵνα μὴ ῥέξομεν ὧδε: ἵνα, elsewhere "where" or "so that", seems here to mean "in which case", giving "unless we do this", as rendered; the construction is unusual.
+- **7.433** — ἀμφιλύκη νύξ (only here): the half-dark before dawn, when night still holds. The adjective is usually connected with a root for light (Latin lux; later Greek λυκόφως, "twilight"). Rendered "the half-light of night".
+- **7.434** (also 24.789) — κριτὸς ἔγρετο λαός: ἔγρετο, as printed, is the aorist of ἐγείρω, "woke, roused themselves" (2.41); some texts read ἤγρετο (ἀγείρω), "gathered", which suits ἀμφὶ πυρήν. Rendered "was astir".
+- **7.443–464** — The gods watching the wall, Poseidon's complaint and Zeus' promise were suspected by some ancient critics and by modern ones. The wall's destruction is told again at 12.3–35 (12.5–6 ≈ 7.449–450, 12.31 ≈ 7.462), and Aristotle is reported to have said that the poet who made the wall also made it vanish (Strabo 13.1.36). Poseidon says here that he and Apollo together built Laomedon's wall (7.452–453, the dual ἀθλήσαντε); at 21.446–449 Poseidon built it while Apollo herded Laomedon's cattle. Rendered as transmitted.
+- **7.475** — ἀνδραπόδεσσι: ἀνδράποδα, people taken in war and sold, are common in later prose but named only here in Homer (his slaves are elsewhere δμῶες and δμῳαί), in a dative formed as if from a third-declension noun (-εσσι for -οισι); the word and its form have been taken as signs of a late line. Rendered "slaves".

@@ -6,6 +6,8 @@ tags: [divine-scene, kingship, shame]
 summary: When Zeus comes into his house, all the gods rise from their seats and stand to face him; none dares to wait seated for his approach.
 aliases: [rising for a superior, standing up for Zeus]
 grc: [ἀνέσταν, σφοῦ πατρὸς ἐναντίον, ἀντίοι ἔσταν]
+# ἀνέσταν is also the nine volunteers standing up to fight Hector (7.161).
+except: [7.161]
 en: [rose, to meet their father, stood up to face him]
 ---
 

@@ -5,7 +5,7 @@ kind: place
 tags: [cosmic]
 summary: The earth and the ground (γαῖα, χθών): the land a people lives on, the ground that takes the dead, and the whole earth beneath the sky. Men are those “upon the earth”, and Earth is also called on in oaths.
 aliases: [ground, land]
-grc: [γαίῃ, γαῖαν, γαίης, χθονὶ]
+grc: [γαίῃ, γαῖαν, γαίης, χθονὶ, "!^Αἶαν"]
 en: [earth, ground, land]
 ---
 

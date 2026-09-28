@@ -7342,6 +7342,416 @@
       "id": "cd53a2f4-1789-5cca-b968-e057609a3aa0",
       "ref": "6.526-529",
       "title": "The mixing bowl of freedom"
+    },
+    {
+      "id": "99780865-2820-5014-968f-e53d664b39f4",
+      "ref": "7.4-7",
+      "title": "The fair wind"
+    },
+    {
+      "id": "f3ca9825-24c9-53a3-9191-11743a501c8f",
+      "ref": "7.8-10",
+      "title": "Paris kills Menesthius"
+    },
+    {
+      "id": "e799d6bc-d189-59f9-a26c-59198abdc109",
+      "ref": "7.11-12",
+      "title": "Hector kills Eioneus"
+    },
+    {
+      "id": "ecff3c8f-d1e7-5f5f-b673-82718fcde90f",
+      "ref": "7.13-16",
+      "title": "Glaucus kills Iphinous"
+    },
+    {
+      "id": "198bebce-6f38-55e1-bf34-cea79b9a6f9d",
+      "ref": "7.23-25",
+      "title": "Apollo greets Athena"
+    },
+    {
+      "id": "f297884b-8e9d-5636-a2a8-bfcce16e5ce0",
+      "ref": "7.24-32",
+      "title": "Apollo's proposal to Athena"
+    },
+    {
+      "id": "84f9d3f8-77b7-5d5c-9967-a104554f3e98",
+      "ref": "7.33-36",
+      "title": "Athena agrees with Apollo"
+    },
+    {
+      "id": "6e97da34-370e-5029-b4c1-17369e8efcce",
+      "ref": "7.38-42",
+      "title": "Apollo proposes a duel"
+    },
+    {
+      "id": "17f3cde2-8d84-59c8-8f1c-fe107efe024e",
+      "ref": "7.44-53",
+      "title": "Helenus hears the gods' plan"
+    },
+    {
+      "id": "41c45a50-456a-56e4-a9c8-3fa86088b492",
+      "ref": "7.58-61",
+      "title": "Athena and Apollo like vultures"
+    },
+    {
+      "id": "685c9c73-21af-57fb-a5c4-081263896f79",
+      "ref": "7.63-66",
+      "title": "The ripple of the West Wind"
+    },
+    {
+      "id": "ddb17e1d-32bf-5f01-a125-f46fc3634e59",
+      "ref": "7.69-72",
+      "title": "Zeus did not fulfill the oaths"
+    },
+    {
+      "id": "f740682a-56fe-523b-a7ea-091f95c88a1c",
+      "ref": "7.77-80",
+      "title": "Hector's terms"
+    },
+    {
+      "id": "b5208b8c-0919-5af1-899b-06860a14b717",
+      "ref": "7.81-86",
+      "title": "Hector's terms if he wins"
+    },
+    {
+      "id": "c72710c3-0150-5475-b50c-44f0466cc968",
+      "ref": "7.84-86",
+      "title": "The tomb by the broad Hellespont"
+    },
+    {
+      "id": "49b62789-a319-5614-b469-0ea22b08bbda",
+      "ref": "7.87-91",
+      "title": "Hector imagines the tomb"
+    },
+    {
+      "id": "4eeb9cc0-35e9-5074-aea9-960404c646d5",
+      "ref": "7.92-93",
+      "title": "Ashamed to refuse, afraid to accept"
+    },
+    {
+      "id": "0d8831f4-1695-5e50-bdc7-38d9c1166d00",
+      "ref": "7.96-102",
+      "title": "Menelaus shames the Achaeans"
+    },
+    {
+      "id": "89fe88aa-2b7d-55ec-b8fe-f66a663c9c37",
+      "ref": "7.99-100",
+      "title": "Menelaus curses the Achaeans"
+    },
+    {
+      "id": "64aa9b02-75cf-5e10-8fd1-90a2b50262b0",
+      "ref": "7.101-102",
+      "title": "The bounds of victory"
+    },
+    {
+      "id": "fbe694dd-1f77-582a-ae82-081a6c87aa10",
+      "ref": "7.104-108",
+      "title": "Agamemnon holds Menelaus back"
+    },
+    {
+      "id": "d3d7b0a7-bf5c-566a-8f50-c67948c29fd2",
+      "ref": "7.109-114",
+      "title": "Agamemnon restrains Menelaus"
+    },
+    {
+      "id": "912d59e0-d843-5fa3-a91e-2e9d544ef762",
+      "ref": "7.115-119",
+      "title": "Another champion against Hector"
+    },
+    {
+      "id": "b9d3ffb7-ddf4-5eea-b575-5273c1a8392e",
+      "ref": "7.124-131",
+      "title": "Nestor imagines Peleus' grief"
+    },
+    {
+      "id": "6b4ee1ef-0542-5537-acd9-5c854a070e5f",
+      "ref": "7.132-135",
+      "title": "The war of the Pylians and the Arcadians"
+    },
+    {
+      "id": "42b799cc-0c27-59e7-8f10-82dd159a81e6",
+      "ref": "7.137-146",
+      "title": "Areithous the mace-man"
+    },
+    {
+      "id": "5fa35ae5-ddef-5f14-974e-e4c35ef9d967",
+      "ref": "7.142-149",
+      "title": "Lycurgus kills Areithous"
+    },
+    {
+      "id": "3ceec88e-8d87-5888-8aad-26e1b29286c2",
+      "ref": "7.149-156",
+      "title": "Nestor kills Ereuthalion"
+    },
+    {
+      "id": "9a9fbe30-cc41-5729-9854-bfd519e10112",
+      "ref": "7.157-160",
+      "title": "Nestor wishes he were young"
+    },
+    {
+      "id": "5153eedb-7af4-524d-ad81-372a289f58f6",
+      "ref": "7.161-169",
+      "title": "The nine volunteers"
+    },
+    {
+      "id": "acc204b4-9c69-52f1-a980-000ce4a77f7b",
+      "ref": "7.177-180",
+      "title": "The army prays at the lots"
+    },
+    {
+      "id": "320c95e4-0f83-5653-bb62-3484f546aeb7",
+      "ref": "7.181-183",
+      "title": "The lot of Ajax"
+    },
+    {
+      "id": "3b86453b-7a69-5da0-9b01-31f7665ea4ea",
+      "ref": "7.193-200",
+      "title": "Ajax asks the army to pray"
+    },
+    {
+      "id": "0ce2ea4e-b83e-5c42-a26b-d3d31c0c40ed",
+      "ref": "7.200-205",
+      "title": "The army prays for Ajax"
+    },
+    {
+      "id": "84a83657-6f10-570a-956c-7f66f042fa45",
+      "ref": "7.206-213",
+      "title": "Ajax like Ares"
+    },
+    {
+      "id": "208c2d3f-5e6d-5f51-b9a2-67b6eace53e3",
+      "ref": "7.211-213",
+      "title": "Ajax goes out to fight"
+    },
+    {
+      "id": "140aacc6-32d2-5649-9b0e-f8ab17d9088e",
+      "ref": "7.214-218",
+      "title": "Hector's heart pounds"
+    },
+    {
+      "id": "0ca0ab0a-cc2d-50d1-9f9d-b507ed33c3f0",
+      "ref": "7.219-223",
+      "title": "The shield of Ajax"
+    },
+    {
+      "id": "e5e698a5-f8cb-58d8-be86-2e911e62618d",
+      "ref": "7.226-230",
+      "title": "Ajax's challenge to Hector"
+    },
+    {
+      "id": "b6836b37-7d54-5541-9139-6ca3b7a637d8",
+      "ref": "7.234-243",
+      "title": "Hector answers Ajax"
+    },
+    {
+      "id": "9b3a3b72-26a2-54ee-9d8d-ed778bb25c2f",
+      "ref": "7.244-248",
+      "title": "Hector's spear stops in the seventh hide"
+    },
+    {
+      "id": "ec27f4f8-59f2-55b7-abfc-bb9d82669040",
+      "ref": "7.249-254",
+      "title": "Ajax's spear through Hector's shield"
+    },
+    {
+      "id": "f3c34dc7-e6ed-5219-ba4b-a5e8a643656f",
+      "ref": "7.255-257",
+      "title": "Like lions or wild boars"
+    },
+    {
+      "id": "ed7f26a8-b418-5127-83ad-3eb592b97934",
+      "ref": "7.263-267",
+      "title": "Hector throws a stone"
+    },
+    {
+      "id": "5bdd8fee-0536-5719-bab2-8aa66709ad77",
+      "ref": "7.263-272",
+      "title": "Hector and Ajax throw stones"
+    },
+    {
+      "id": "15d84a4a-2fbc-5de4-8d18-b7bcb4369086",
+      "ref": "7.268-272",
+      "title": "Ajax's millstone"
+    },
+    {
+      "id": "65a6e814-e8fa-5be3-8d71-4fbf16f27c52",
+      "ref": "7.273-278",
+      "title": "The heralds part the fighters"
+    },
+    {
+      "id": "a6051940-4457-517d-b6c3-a037f449a54e",
+      "ref": "7.279-282",
+      "title": "Idaeus parts Hector and Ajax"
+    },
+    {
+      "id": "93b3a2ec-4b9b-554d-a5ff-a5de2e420d82",
+      "ref": "7.288-293",
+      "title": "Hector proposes to stop"
+    },
+    {
+      "id": "60545487-2876-59f2-8ac9-655fb4223a87",
+      "ref": "7.293-298",
+      "title": "Hector will gladden the Trojans"
+    },
+    {
+      "id": "7e48128d-5964-5456-a8ff-16c710799c78",
+      "ref": "7.299-302",
+      "title": "Hector proposes an exchange of gifts"
+    },
+    {
+      "id": "55017447-7604-5bda-a664-2dcf193d8463",
+      "ref": "7.299-305",
+      "title": "Hector and Ajax exchange gifts"
+    },
+    {
+      "id": "178ffd45-9722-53c6-ad57-8c4fa217eab8",
+      "ref": "7.306-310",
+      "title": "Hector returns alive and unhurt"
+    },
+    {
+      "id": "0e775757-45fd-5df5-8313-15a571fa15c6",
+      "ref": "7.313-316",
+      "title": "Agamemnon sacrifices an ox"
+    },
+    {
+      "id": "db31e14a-fd0b-5728-8adb-6b6bd1712b3e",
+      "ref": "7.316-320",
+      "title": "The ox for Ajax"
+    },
+    {
+      "id": "de6f5be7-f8a0-5318-b1bd-d7e03afdc0fe",
+      "ref": "7.321-322",
+      "title": "Ajax honored with the chine"
+    },
+    {
+      "id": "10172505-19d1-5793-bb1a-6fd6b2b0ed86",
+      "ref": "7.324-326",
+      "title": "Nestor begins to weave a plan"
+    },
+    {
+      "id": "772d4e21-48e0-5d4e-bfd2-b1454b4f3214",
+      "ref": "7.327-331",
+      "title": "Nestor counts the dead"
+    },
+    {
+      "id": "8180886d-2a4f-5a83-986a-a6217206cd25",
+      "ref": "7.331-335",
+      "title": "Nestor proposes to burn the dead"
+    },
+    {
+      "id": "acfabf87-42f5-5487-8805-096a45d8e169",
+      "ref": "7.336-343",
+      "title": "Nestor proposes the wall"
+    },
+    {
+      "id": "dec92053-39d6-5682-88f7-1574288839ed",
+      "ref": "7.345-346",
+      "title": "The Trojan assembly at Priam's doors"
+    },
+    {
+      "id": "b71c86cc-1d70-56b9-a7f0-249b19e66c6a",
+      "ref": "7.347-353",
+      "title": "Antenor proposes to give back Helen"
+    },
+    {
+      "id": "8cee439f-605a-56ae-83e8-9b89a391ffe2",
+      "ref": "7.354-356",
+      "title": "Paris rises to answer Antenor"
+    },
+    {
+      "id": "8c8df549-a1cd-5a0c-aead-974df82ad82a",
+      "ref": "7.357-360",
+      "title": "Paris answers Antenor"
+    },
+    {
+      "id": "940fba46-2889-589f-aad2-39ef84a8ed7c",
+      "ref": "7.357-364",
+      "title": "Paris refuses to give back Helen"
+    },
+    {
+      "id": "4f22ea0b-2615-542c-9a00-da2124bd0568",
+      "ref": "7.365-367",
+      "title": "Priam rises to speak"
+    },
+    {
+      "id": "adbe27b7-6231-5bdf-98ce-2034f6a3f811",
+      "ref": "7.368-378",
+      "title": "Priam sends Idaeus to the ships"
+    },
+    {
+      "id": "a5dd33b4-b391-5218-a1af-8b9806d27637",
+      "ref": "7.381-385",
+      "title": "Idaeus comes to the Achaean assembly"
+    },
+    {
+      "id": "98e7a647-0403-54a2-95bc-46f3e90eeb6c",
+      "ref": "7.385-393",
+      "title": "Idaeus delivers Paris' offer"
+    },
+    {
+      "id": "f2c07c88-ac62-5158-8359-7d1756636cac",
+      "ref": "7.394-397",
+      "title": "The request for a truce"
+    },
+    {
+      "id": "aea09b7d-48bb-5279-a0f3-eeb8cdc40ef7",
+      "ref": "7.398-404",
+      "title": "Diomedes refuses the Trojan offer"
+    },
+    {
+      "id": "850d27b0-200f-5c5e-a896-8fab9b67cf7b",
+      "ref": "7.400-402",
+      "title": "Diomedes answers the Trojans"
+    },
+    {
+      "id": "0da0fd8b-f4c8-5a39-a114-50f7a5a3d910",
+      "ref": "7.406-411",
+      "title": "Agamemnon answers Idaeus"
+    },
+    {
+      "id": "88ccc4c6-1bc4-57dc-b184-f1835f43bdaf",
+      "ref": "7.421-423",
+      "title": "The sun rises from Oceanus"
+    },
+    {
+      "id": "eb92c69c-e76d-580f-88b5-2de23e902772",
+      "ref": "7.421-432",
+      "title": "The burning of the dead"
+    },
+    {
+      "id": "fb931db4-4003-5edf-a4df-a0bf6996068a",
+      "ref": "7.433-441",
+      "title": "The Achaeans build the wall"
+    },
+    {
+      "id": "79fe687a-d34d-50d7-9450-1cf14f883189",
+      "ref": "7.442-445",
+      "title": "The gods watch the building of the wall"
+    },
+    {
+      "id": "d1ff4c64-f30c-58eb-b8b9-2a8e35dcc30e",
+      "ref": "7.446-453",
+      "title": "Poseidon's complaint"
+    },
+    {
+      "id": "83653725-580e-5895-a91a-4f274572ffb7",
+      "ref": "7.454-463",
+      "title": "Zeus answers Poseidon"
+    },
+    {
+      "id": "9e295d6b-7ab0-5acc-81d5-db760bb71c25",
+      "ref": "7.467-471",
+      "title": "Wine from Lemnos"
+    },
+    {
+      "id": "81427023-1f12-5ac5-beff-c7992af3f2b0",
+      "ref": "7.467-475",
+      "title": "Wine bought from Lemnos"
+    },
+    {
+      "id": "f233a103-34a1-5742-8956-6efeb72d8ce7",
+      "ref": "7.476-482",
+      "title": "Zeus thunders through the night"
     }
   ]
 }

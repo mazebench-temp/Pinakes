@@ -7,7 +7,7 @@ summary: A duel between two champions, fought before both armies on agreed terms
 aliases: [duel, duels, monomachy, monomachia, challenge, champion]
 grc: [προκαλίζετο, προκάλεσσαι, ἀντίβιον μαχέσασθαι, διεμέτρεον, διαμετρητῷ]
 en: [challenged, challenge, fight him face to face, measured out the ground, measured ground]
-except: [4.389, 5.807]
+except: [4.389, 5.533, 5.807]
 passages:
   - 3.67-75 | Paris proposes the duel
   - 3.340-382 | The duel of Paris and Menelaus

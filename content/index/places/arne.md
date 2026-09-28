@@ -9,7 +9,7 @@ grc: [Ἄρνην]
 
 {{quote:b7b36f1f-630e-5e06-a6fe-220a04d9d127}}
 
-πολυστάφυλος "rich in grapes" ([[rich-in-grapes]]) = πολύς (many) + σταφυλή (bunch of grapes). The same epithet is given to Histiaea in Euboea (2.537). The Iliad names Arne again as the home of Menesthius, son of Areithous, whom Paris kills (7.8–10).
+πολυστάφυλος "rich in grapes" ([[rich-in-grapes]]) = πολύς (many) + σταφυλή (bunch of grapes). The same epithet is given to Histiaea in Euboea (2.537).
 
 Its site is unknown. Some ancient writers thought Lake Copais had swallowed it; the people of Chaeronea claimed that their town had once been called Arne. Zenodotus is reported to have read Ἄσκρην, Hesiod's village of Ascra, but Hesiod called Ascra "bad in winter, hard in summer, good at no time" (*Works and Days* 640), hardly a place rich in grapes.
 

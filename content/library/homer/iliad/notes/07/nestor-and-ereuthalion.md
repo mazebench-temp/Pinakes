@@ -1,0 +1,17 @@
+---
+summary: Nestor tells the whole story to shame the Achaeans who sit silent before Hector's challenge. The Arcadian champion Ereuthalion, wearing the armor of Areithous the mace-man, challenged all the best of the Pylians, and only Nestor, the youngest of them, dared to fight him and kill him (7.132–157). Nine leaders stand up.
+passages:
+  - 7.123-160 | Nestor shames the Achaeans
+---
+
+In Book 4 the story was a single line, the day Nestor killed Ereuthalion, named as the measure of the strength he has lost (4.318–319). In Book 7 he tells it in full, and he tells it for a purpose. Hector has challenged the best of the Achaeans, and they sit “ashamed to refuse him, and afraid to accept” (7.93). Menelaus has been held back (7.94–122). Nestor rises (see [[nestor]]).
+
+**The frame.** The speech is built in rings. It opens with a lament, “Ah, what great sorrow is coming upon the land of Achaea!” (7.124), and with old Peleus, who once asked Nestor about the lineage of all the Argives, and would pray to die if he heard that they now cower before Hector (7.125–131; see [[peleus]]). Then comes the wish, “If only … I were young” (αἲ γὰρ … ἡβῷμʼ, 7.132–133), which leads into the story. The story ends in the same wish, “If only I were young like that, and my strength were steadfast!” (εἴθʼ ὣς ἡβώοιμι, 7.157), and the speech in a rebuke: not one of the best of all the Achaeans is eager to face Hector (7.159–160).
+
+**The story.** The Pylians and the Arcadians fought by the river Celadon, at the walls of Pheia, about the streams of the Iardanus (7.133–135; see [[celadon]], [[pheia]], [[iardanus]] and [[arcadians]]). Where that was already troubled ancient readers, and Strabo reports a proposal to rewrite the names to fit a site near Lepreum (8.3.21; see the translation's note on 7.135). The champion of the Arcadians was Ereuthalion, and half the story is about his armor. Ares had given it to Areithous, “the mace-man”; Lycurgus killed him by guile in a narrow road where the mace was no use, wore the armor himself, and in old age gave it to Ereuthalion, his attendant (7.136–149; see [[areithous]], [[lycurgus-of-arcadia]] and [[mace]]).
+
+{{quote:3ceec88e-8d87-5888-8aad-26e1b29286c2}}
+
+**A story made for the moment.** Every part of it answers the scene around it. Ereuthalion “challenged all the best” (7.150), as Hector has done (7.285); the Pylians “trembled greatly and were afraid, and no one dared” (7.151), as the Achaeans sit silent now (7.92–93; see [[ereuthalion]]). Nestor went out though he was “the youngest of them all” (7.153), and the men he rebukes are in their prime. “Athena gave me triumph” (εὖχος, 7.154), he says, in the word Hector used when he hoped that Apollo would give him triumph (7.81). Even the armor touches the present. Areithous is the father of Menesthius, whom Paris killed in the book's first lines, and the two passages give him the same title, κορυνήτης, “the mace-man” (7.9, 7.138). How the son of a man killed before Nestor's youth came to fight at Troy, the poem does not ask.
+
+**It works.** “So the old man rebuked them, and nine in all stood up” (7.161). The tale shames the young by the courage of the old man's youth, as Nestor's tales do elsewhere (see [[mythological-paradigm]] and [[old-age-and-memory]]). In Book 4 the same memory taught him to accept his age (4.320–325). Here it gets the Achaeans on their feet. The lot falls to Ajax (see [[the-duel-of-hector-and-ajax]]).

@@ -12,7 +12,7 @@ of: [horses, diomedes, hector]
 
 ## Meaning
 
-μήστωρ comes from the root of μήδομαι (“devise, plan”): “deviser, counselor.” Zeus is Ζῆνʼ ὕπατον μήστωρα, “Zeus most high, the deviser” (Il. 8.22; [[most-high]]), and a wise man is θεόφιν μήστωρ ἀτάλαντος, “a match for the gods in counsel” (Il. 7.366, of Priam). φόβος is panic flight, the rout of an army ([[rout]]). μήστωρ φόβοιο is the one who brings the enemy to flight. The phrase describes Diomedes (Il. 6.97, 6.278), Hector (Il. 12.39) and Patroclus (Il. 23.16), and in the dual the horses of Aeneas (5.272; Il. 8.108). Compare [[masters-of-the-war-cry]] (μήστωρες ἀϋτῆς).
+μήστωρ comes from the root of μήδομαι (“devise, plan”): “deviser, counselor.” Zeus is Ζῆνʼ ὕπατον μήστωρα, “Zeus most high, the deviser” (Il. 8.22; [[most-high]]), and a wise man is θεόφιν μήστωρ ἀτάλαντος, “a counselor equal to the gods” (Il. 7.366, of Priam). φόβος is panic flight, the rout of an army ([[rout]]). μήστωρ φόβοιο is the one who brings the enemy to flight. The phrase describes Diomedes (Il. 6.97, 6.278), Hector (Il. 12.39) and Patroclus (Il. 23.16), and in the dual the horses of Aeneas (5.272; Il. 8.108). Compare [[masters-of-the-war-cry]] (μήστωρες ἀϋτῆς).
 
 ## Use
 

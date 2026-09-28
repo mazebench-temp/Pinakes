@@ -1,0 +1,7 @@
+---
+summary: The patronymic names Agamemnon at each of his acts in Book 7, from holding back Menelaus to feasting Ajax, and the plural names both sons of Atreus as the Trojans' offer is sent and as the Lemnian wine arrives.
+---
+
+**Agamemnon.** The singular marks the king at every turn. “The son of Atreus himself, wide-ruling Agamemnon” takes Menelaus by the hand and holds him back (7.107; [[wide-ruling]]); the lots are thrown “into the helmet of Agamemnon, son of Atreus” (7.176; [[lots]]); Ajax is led to “the huts of the son of Atreus” and honored there with the chine by “the hero, son of Atreus, wide-ruling Agamemnon” (7.313, 7.322). Nestor and Idaeus both begin their speeches with the vocative, in the same verse: “Son of Atreus, and you others, the best of all the Achaeans” (7.327, 7.385).
+
+**The two brothers.** The plural names the pair in the Trojan offer. Antenor proposes to give Helen “to the sons of Atreus to take away” (7.351), and Priam sends Idaeus “to tell the sons of Atreus, Agamemnon and Menelaus,” the word of Alexander (7.373). At the end of the book Euneus sends a thousand measures of wine “to the sons of Atreus, Agamemnon and Menelaus, apart” from what he sells to the army (7.470–471; [[euneus]], [[wine]]). The brothers who were the cause of the war are addressed together when the Trojans seek terms and when an ally sends gifts. See [[atreidae]], [[agamemnon]] and [[menelaus]].
