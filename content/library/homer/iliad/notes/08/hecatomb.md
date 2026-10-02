@@ -1,0 +1,5 @@
+---
+summary: The only hecatombs of Book 8 are in a verse missing from the manuscripts, the Trojans' “perfect hecatombs” on the plain at night, whose savor the gods refuse.
+---
+
+“And they offered perfect hecatombs to the immortals” (8.548) is one of the four verses known only from the Second Alcibiades ascribed to Plato (149d–e), which tell how the gods refused the Trojans' sacrifice because Ilios was hateful to them (8.548, 8.550–552; see [[sacrifice]], [[the-refused-sacrifice]] and the translation's note on those lines). The verse is made of formulas. Its second half, τεληέσσας ἑκατόμβας, “perfect hecatombs”, is the hecatomb's commonest epithet in Homer, and the whole verse, with ἀθανάτοισι, “to the immortals”, recalls the Achaeans' sacrifice at Aulis, where they “were offering perfect hecatombs to the immortals” (2.306), and their hecatombs to Apollo after the plague, whose savor “went up to heaven” (1.315–317). In Book 7 Poseidon complained that the Achaeans had built their wall without giving the gods “glorious hecatombs” (7.450); in these verses the Trojans give the hecatombs, and the gods will not take them.

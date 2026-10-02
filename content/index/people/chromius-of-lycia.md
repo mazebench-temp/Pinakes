@@ -6,8 +6,8 @@ tags: [trojan, lycia, warrior]
 summary: A Lycian, the third of the seven whom [[Odysseus]] kills when Athena turns his heart against the Lycians (5.677). One of several men of the name in Homer.
 aliases: [Chromius of Lycia]
 grc: [Χρομίον]
-# 4.295: Nestor's captain; 5.160: the son of Priam.
-except: [4.295, 5.160]
+# 4.295: Nestor's captain; 5.160: the son of Priam; 8.275: a Trojan killed by Teucer.
+except: [4.295, 5.160, 8.275]
 en: [Chromius]
 relations:
   - slayer: odysseus (5.677)

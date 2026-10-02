@@ -3,7 +3,7 @@ title: Patroclus
 greek: Πάτροκλος
 kind: person
 tags: [achaean, myrmidon, companion, warrior]
-summary: Son of [[Menoetius]] and Achilles' dearest companion. In Book 1 he obeys Achilles and hands Briseis over to Agamemnon's heralds.
+summary: Son of [[Menoetius]] and Achilles' dearest companion. He goes into battle in Achilles' armor to save the ships and is killed by Apollo, Euphorbus and Hector, and his death brings Achilles back to the war.
 aliases: [son of Menoetius, Patroklos]
 grc: [Πατρόκλ*, Μενοιτιάδ*]
 en: [Patroclus, son of Menoetius]
@@ -19,6 +19,10 @@ relations:
 
 {{notes}}
 
+## Elsewhere in Homer
+
+Patroclus came to Peleus' house as a boy after killing another boy over a game of dice (23.84–90). He fights in Achilles' armor, is killed by Hector (16.818–857), and Achilles' grief for him turns his wrath against the Trojans.
+
 ## Outside Homer
 
-Patroclus came to Peleus' house as a boy after killing another boy over a game of dice (Iliad 23.84–90). He fights in Achilles' armor, is killed by Hector (16.818–857), and Achilles' grief for him turns his wrath against the Trojans.
+In Aeschylus' lost *Myrmidons* Achilles mourned Patroclus as his lover. Plato's Phaedrus objects that Aeschylus had it backwards, since Achilles, as Homer says, was the younger and still beardless (*Symposium* 180a; see [[plato]]).

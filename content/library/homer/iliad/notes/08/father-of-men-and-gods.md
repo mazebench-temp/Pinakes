@@ -1,0 +1,5 @@
+---
+summary: The formula names Zeus as he halts his horses on Ida and as he sees the Achaean rally and turns it with his thunderbolt.
+---
+
+“There the father of men and gods halted his horses” (8.49): Zeus has driven from Olympus to Gargarus, and he unyokes his team and hides it in mist before he sits down to watch ([[bronze-footed]], [[gargarus]]). The second use completes a verse of rescue. Diomedes and Nestor are driving the Trojans back, and the Trojans “would have been penned up in Ilios like lambs, had not the father of men and gods been quick to see it” (8.131–132; [[would-have-had-not]], [[lambs]]). The half-verse εἰ μὴ ἄρʼ ὀξὺ νόησε has just served Diomedes, who saw Nestor's danger in time (8.91; [[divine-rescue]]); now it serves the god who rescues the Trojans, with thunder and a thunderbolt thrown in front of Diomedes' horses (8.133–136; [[thunderbolt]]). Elsewhere in the book Zeus is simply “the father” who holds out the scales and who pities Agamemnon (8.69, 8.245; [[father-zeus]]). See [[zeus]].

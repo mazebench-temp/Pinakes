@@ -3,7 +3,7 @@ title: Telamon
 greek: Τελαμών
 kind: person
 tags: [king, aeacidae]
-summary: King of Salamis and father of the great [[Ajax]], who is called Τελαμώνιος, “son of Telamon”. Later tradition made him a son of Aeacus and a brother of Peleus.
+summary: King of Salamis, father of the great [[Ajax]], who is called Τελαμώνιος, “son of Telamon”, and of the archer [[Teucer]], a bastard son he raised in his own house. Later tradition made him a son of Aeacus and a brother of Peleus.
 grc: [Τελαμώνιος]
 relations:
   - child: ajax (2.528, 2.768)

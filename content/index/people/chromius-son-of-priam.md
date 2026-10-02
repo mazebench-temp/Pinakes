@@ -8,8 +8,8 @@ aliases: [Chromius]
 grc: [Χρομίον]
 en: [Chromius]
 # Χρομίον at 4.295 is Nestor's captain (chromius); at 5.677 a Lycian (chromius-of-lycia).
-# It recurs for other men at 8.275 and 17.218, which this entry will need to except.
-except: [4.295, 5.677]
+# It recurs for other men at 8.275 (a Trojan killed by Teucer) and 17.218, which this entry will need to except.
+except: [4.295, 5.677, 8.275]
 refs: [5.159, 5.163-164]
 relations:
   - father: priam (5.159)

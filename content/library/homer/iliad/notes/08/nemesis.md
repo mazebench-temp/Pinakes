@@ -1,0 +1,10 @@
+---
+summary: Hera is indignant at Hector's boast and shakes Olympus on her throne. Zeus, sending Iris against the two goddesses, says that he is not so indignant with Hera, who always thwarts him, as with his daughter Athena: indignation measures what is expected of each.
+passages:
+  - 8.198-211 | Hera's appeal to Poseidon
+  - 8.397-424 | Iris turns them back
+---
+
+**Hera's indignation.** Hector ends his speech to his horses with a boast: if they can take Nestor's golden shield and Diomedes' corselet, he hopes to make the Achaeans board their ships that very night. “So he spoke, boasting, and queen Hera was indignant; she shook on her throne, and made high Olympus quake” (8.198–199). νεμεσάω is the indignation of one who sees something improper, and what Hera cannot bear is a mortal's boast in the hour of his success (see [[euchomai]]). Her anger shakes the mountain with the verb of Zeus' nod (ἐλέλιξε, 8.199; ἐλέλιξεν, 1.530), but she cannot act on it: Zeus has forbidden the gods to fight, and Poseidon refuses to join her (8.200–211; see [[hera]] and [[the-mind-of-zeus]]).
+
+**Zeus' indignation.** When Hera and Athena drive out against his ban, Zeus sends Iris to turn them back with a threat, and ends: “With Hera I am not so indignant or so angry, for she is always used to thwarting whatever I say” (8.407–408). Iris repeats it to the goddesses, turned into the third person (8.421–422; see [[message-repeated]]). νεμεσίζομαι is set beside χολόομαι, “be angry” (see [[cholos]]), and the reason Zeus gives is the reason νέμεσις has degrees: it is roused by what breaks the expected order. Hera's opposition is her habit, and he has borne it since Book 1 (1.536–567). Athena's is new. The threat is meant for her, “so that the gray-eyed one may know what it is to fight her father” (8.406; see [[fathers-and-daughters]] and [[athena]]). In Book 5 Hera asked Zeus whether he did not blame Ares for his violent deeds, and Ares asked him the same of Athena and Diomedes (5.757, 5.872). In Book 8 Zeus himself measures out blame among the gods, and keeps the larger share for his daughter.

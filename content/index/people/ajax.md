@@ -5,7 +5,9 @@ kind: person
 tags: [achaean, king, warrior, attica]
 summary: The great Ajax, son of [[Telamon]], from [[Salamis]] (the lesser Ajax is the son of Oileus): after Achilles the strongest of the Achaeans, their “bulwark” behind a shield like a tower, who holds the wall and the ships while Achilles stays away. Later poets told how he lost the arms of Achilles to Odysseus and killed himself.
 aliases: [Aias, Telamonian Ajax]
+# Τελαμώνιε (from the Book 7 note) addresses Teucer at 8.281.
 grc: [Αἴαντ*, Αἴας]
+except: [8.281]
 en: [Ajax]
 ---
 

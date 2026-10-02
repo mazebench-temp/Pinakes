@@ -3,7 +3,7 @@ title: Many-ridged
 greek: πολυδειράς
 kind: epithet
 tags: [cosmic, mountain]
-summary: “With many ridges,” an epithet of [[Olympus]], in the line where Thetis finds Zeus on the highest peak (1.499).
+summary: “With many ridges,” an epithet of [[Olympus]], always in the verse “on the topmost peak of many-ridged Olympus,” where Zeus sits apart from the gods or calls them together.
 aliases: [many-peaked, polydeiras]
 grc: [πολυδειράδος]
 en: [many-ridged]

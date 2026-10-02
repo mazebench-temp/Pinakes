@@ -26,7 +26,7 @@ relations:
 Homer knows Heracles as a mortal hero of the generation before the war. He tells his stories in allusions, most of them in speeches.
 
 - **Birth.** Zeus boasted that a man of his blood born that day would rule all his neighbors. Hera delayed the birth of Heracles and hastened that of Eurystheus, who became his master (19.95–133).
-- **Labors.** Eurystheus set him hard tasks. Athena helped him, as she complains, and saved him when he went down to fetch the dog of Hades (8.362–369).
+- **Labors.** Eurystheus set him hard tasks. Athena helped him, as she complains, and saved him when he went down to fetch the dog of Hades (8.362–369; see [[heracles-and-cerberus]]).
 - **Troy.** For the sake of the horses of Laomedon he sacked Troy "with only six ships and fewer men" (5.638–642). The Trojans and Athena had built him a wall to shelter from the sea monster (20.144–148). On his way home Hera sent a storm that drove him to Cos, and Zeus punished her for it (14.249–256, 15.18–30).
 - **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693). He wounded Hera with an arrow, and Hades "in Pylos among the dead" (5.392–397).
 - **Death.** "Not even the might of Heracles escaped death," says Achilles, "though he was dearest to Zeus; fate overcame him, and the harsh anger of Hera" (18.117–119).

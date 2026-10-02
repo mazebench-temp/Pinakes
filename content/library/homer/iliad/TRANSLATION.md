@@ -54,7 +54,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἀχλύς | mist | the mist over the eyes (5.127, 5.696) |
 | ἰχώρ | ichor | the gods' blood (5.340, 5.416) |
 | εἴδωλον | phantom | 5.449–453 |
-| ἰωκή | onslaught | Ἰωκή "Onslaught" on the aegis (5.740) |
+| ἰωκή, ἰωχμός | onslaught | Ἰωκή "Onslaught" on the aegis (5.740); ἀνʼ ἰωχμόν "through the onslaught" (8.89, 8.158); ῥιπή is "rush" (8.355) |
 | ξεῖνος, ξεινήϊα, ξεινίζω | guest-friend, guest-gifts, entertain | ξεῖνοι πατρώϊοι "guest-friends from our fathers' time" (6.215, 6.231) |
 | γενεή | lineage; generation | "lineage" of a family (6.145, 6.151, 6.211); "generation" of the leaves (6.146, 6.149) |
 | δᾶερ, γάλοως, εἰνάτερες, γαμβρός | brother-in-law, husband's sisters, brothers' wives, son-in-law | 6.249, 6.344, 6.378 |
@@ -66,6 +66,17 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | χάρμη | the joy of battle; battle | προκαλέσσατο χάρμῃ "challenged … to battle" (7.218, 7.285) |
 | δήϊος (πόλεμος, Ἄρης) | destructive | "destructive war" (4.281, 7.119), "destructive Ares" (7.241); πῦρ δήϊον "consuming fire" (6.331) |
 | ἀπέλεθρος | measureless | ἶνʼ ἀπέλεθρον "measureless strength" (5.245, 7.269) |
+| κήρ, κῆρες | fate, the fates (of death) | δύο κῆρε "two fates of death" (8.70), "the fates of the Achaeans" (8.73), κηρεσσιφόρητοι "borne along by the fates" (8.527); as 2.302, 2.834; κῆρα μέλαιναν is "black doom"; κῆρ "heart" is another word |
+| τάλαντα / σειρή | scales / rope | the golden scales of Zeus (8.69); the golden rope (8.19, 8.25) |
+| ἀλκή | courage; help | ἐκ Διὸς ἀλκή "help from Zeus" (8.140) |
+| εὐχωλή | vow; boast | "vow" (1.65, 1.93); "a thing to boast of" (2.160); εὐχωλαί "boasts" (8.229); "cries of triumph" (4.450 = 8.64) |
+| δαίμων | god; doom | "a god" (7.291); δαίμονα δώσω "I will deal you your doom" (8.166) |
+| πρεσβήϊον | gift of honor | 8.289, kept apart from γέρας "prize" |
+| φόως | light | of rescue: "a light to the Danaans" (8.282; 6.6) |
+| κύων | dog | κύνα λυσσητῆρα "mad dog" (8.299); κύον ἀδεές "shameless dog" (8.423); κύντερον "more shameless" (8.483) |
+| θέσφατον | decreed | ὣς γὰρ θέσφατόν ἐστι "For so it is decreed" (8.477); θέσφατα "oracles" (5.64) |
+| ἀρετή | prowess | ἣν ἀρετὴν διαείσεται "he will learn his own prowess" (8.535) |
+| ἠώς | dawn; morning | the goddess Dawn (8.1); "morning" (8.66); ἠοῦς "at dawn" (8.470, 8.525) |
 
 ## Epithets and formulas
 
@@ -228,6 +239,30 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | κῆρυξ ἠπύτα | the loud-voiced herald |
 | ἀκαλαρρείτης, βαθύρροος Ὠκεανός | gently flowing, deep-streaming Oceanus |
 | Δαρδανίδης Πρίαμος, θεόφιν μήστωρ ἀτάλαντος | Priam, descendant of Dardanus, a counselor equal to the gods |
+| Ἠὼς κροκόπεπλος / ἐΰθρονος Ἠώς | saffron-robed Dawn / Dawn of the fair throne |
+| πολυδειράς / πολύπτυχος Οὔλυμπος | many-ridged / many-folded Olympus |
+| Ἴδη πολυπῖδαξ, μήτηρ θηρῶν / Ἰδαῖα ὄρεα | Ida of the many springs, mother of wild beasts / the mountains of Ida |
+| Ζεὺς ὕπατος μήστωρ / ὕπατε κρειόντων / πανομφαῖος Ζεύς | Zeus, the highest counselor / highest of lords / Zeus, lord of all omens |
+| χαλκόποδε ἵππω / καλλίτριχες ἵπποι / ἐΰτροχον ἅρμα | bronze-footed horses / fine-maned horses (5.323) / well-wheeled chariot |
+| Γερήνιος, οὖρος Ἀχαιῶν | the Gerenian, the guardian of the Achaeans |
+| πολύτλας δῖος Ὀδυσσεύς | much-enduring brilliant Odysseus |
+| ἀγαπήνωρ | manly |
+| φίλη κεφαλή / Τελαμώνιε κοίρανε λαῶν (of Teucer) | dear heart / son of Telamon, lord of the people |
+| Ἶρις χρυσόπτερος / ἀελλόπος / πόδας ὠκέα | golden-winged / storm-footed / swift-footed Iris |
+| ἀπτοεπής | reckless in speech |
+| κρείων ἐνοσίχθων / κλυτὸς ἐννοσίγαιος | the powerful earth-shaker / the famous shaker of the earth |
+| ὑπερμενέες βασιλῆες | the mighty kings (8.236; ὑπερμενὴς Κρονίων stays "supreme in might") |
+| χεῖρες ἄαπτοι | irresistible hands (1.567, 7.309, 8.450) |
+| σθένος οὐκ ἀλαπαδνόν / οὐκ ἐπιεικτόν | strength that is no weakling's (5.783, 7.257, 8.463) / unyielding (5.892, 8.32) |
+| Ὑπερίων Ἠέλιος | Hyperion the Sun |
+| Ἴλιος ἠνεμόεσσα | windy Ilios (3.305, 8.499) |
+| θεόδμητοι πύργοι / πολιοκρόταφοι γέροντες / παῖδες πρωθῆβαι | the god-built towers / gray-templed old men / boys in their first youth |
+| θηλύτεραι γυναῖκες | the womenfolk |
+| πολύδακρυς Ἄρης / ὀξὺς Ἄρης | tearful Ares (3.132, 8.516) / sharp Ares; ἐγείρειν ὀξὺν Ἄρηα "rouse sharp Ares" (2.440, 4.352, 8.531) |
+| ἀρηΐθοοι αἰζηοί | young men swift in war |
+| νὺξ ἐρεβεννή | the murky night (5.659, 8.488) |
+| ὣς ἄρα φωνήσας (-σα) | So he (she) spoke, and (1.428 … 7.303, 8.157, 8.432) |
+| τάφρος ὀρυκτή | the ditch they have dug (8.179) |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -295,8 +330,9 @@ Cyparisseis); where two places share a name, the index keeps them apart.
   Ajax and his brother Teucer is a theory only.
 - **4.315, 4.444** — ὁμοίϊος, of old age and of strife: "common to all" (the ancient gloss) or
   "grievous". Rendered "the common lot" and "common to all".
-- **4.371** — πολέμοιο γεφύρας, "the bridges of war": the lanes between the ranks, or the passages of
-  battle; rendered literally.
+- **4.371, 8.378, 8.553** — πολέμοιο (πτολέμοιο) γεφύρας, "the bridges of war" (also 11.160, 20.427): the
+  lanes between the ranks, or the passages of battle. At 8.553 the Trojans sit all night ἐπὶ πτολέμοιο
+  γεφύρας, so the phrase names ground on the plain. Rendered literally.
 - **4.407** — ἄρειον, "stronger", as printed; or Ἄρειον, "the wall of Ares", Thebes. Rendered "stronger".
 - **4.412** — τέττα: an affectionate address found only here, "friend" or perhaps "father". Rendered
   "friend".
@@ -398,3 +434,42 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **7.434** (also 24.789) — κριτὸς ἔγρετο λαός: ἔγρετο, as printed, is the aorist of ἐγείρω, "woke, roused themselves" (2.41); some texts read ἤγρετο (ἀγείρω), "gathered", which suits ἀμφὶ πυρήν. Rendered "was astir".
 - **7.443–464** — The gods watching the wall, Poseidon's complaint and Zeus' promise were suspected by some ancient critics and by modern ones. The wall's destruction is told again at 12.3–35 (12.5–6 ≈ 7.449–450, 12.31 ≈ 7.462), and Aristotle is reported to have said that the poet who made the wall also made it vanish (Strabo 13.1.36). Poseidon says here that he and Apollo together built Laomedon's wall (7.452–453, the dual ἀθλήσαντε); at 21.446–449 Poseidon built it while Apollo herded Laomedon's cattle. Rendered as transmitted.
 - **7.475** — ἀνδραπόδεσσι: ἀνδράποδα, people taken in war and sold, are common in later prose but named only here in Homer (his slaves are elsewhere δμῶες and δμῳαί), in a dative formed as if from a third-declension noun (-εσσι for -οισι); the word and its form have been taken as signs of a late line. Rendered "slaves".
+- **8.19–27** — σειρὴν χρυσείην: a "golden rope" (σειρή is a plaited rope at Od. 22.175 and 22.192), with which Zeus imagines a tug-of-war against all the gods together: he would haul up earth and sea with them, bind the rope round a peak of Olympus, and leave everything μετήορα, "hanging in midair" (elsewhere only 23.369, of chariots bounding aloft). The rope was read as an allegory in antiquity; Plato's Socrates says that by it Homer means the sun (Theaetetus 153c–d). Rendered "a golden rope" and "hang in midair".
+- **8.28–40** — The gods' silence, Athena's plea and Zeus' answer are made of verses found elsewhere: 8.28–29 = 9.693–694; 8.32–37 ≈ 8.463–468, where Hera speaks them; 8.39–40 = 22.183–184. Zeus' "I do not speak in full earnest" sits oddly after the threats of 8.10–27, and the thirteen verses are reported to have been rejected in antiquity. Rendered as transmitted.
+- **8.66** (= 11.84; Od. 9.56) — ἠώς, the goddess Dawn of 8.1, is here the morning, the part of the day before the sun stands at midheaven (8.68), as in ἢ ἠὼς ἢ δείλη ἢ μέσον ἦμαρ, "morning or evening or midday" (21.111). Rendered "morning".
+- **8.69–74** (compare 22.209–213) — Zeus' scales: he sets in them δύο κῆρε (dual), a fate of death for each army, and the pan that sinks carries death (ῥέπε δʼ αἴσιμον ἦμαρ Ἀχαιῶν, 8.72; at 22.212–213 Hector's day sinks and goes to Hades). In 8.73–74 the Achaeans' fates are plural, κῆρες, with a dual verb, ἑζέσθην, while the Trojans' rise with a plural one, ἄερθεν (= ἀέρθησαν). Rendered "two fates", "held out his golden scales", and "The fates of the Achaeans settled down … those of the Trojans were lifted".
+- **8.80** (also 11.840, 15.370, 15.659; Od. 3.411) — οὖρος Ἀχαιῶν, of Nestor: "guardian, warden", as in ἐπίουρος (13.450, Minos "warden" of Crete; Od. 13.405, a warden of swine), not οὖρος "fair wind" (1.479, 7.5). Rendered "the guardian of the Achaeans".
+- **8.87** — παρηορίαι: the harness of a trace horse, a third horse running beside the yoked pair (ἐν δὲ παρηορίῃσιν … Πήδασον ἵει, 16.152; at 16.471–474 the fallen trace horse is cut loose with a sword, as Nestor does here). The horse that Paris hit was Nestor's trace horse. Rendered "the trace horse's harness".
+- **8.89, 8.158** — ἀνʼ ἰωχμόν (only here): ἰωχμός belongs with ἰωκή, "onslaught" (5.521, 5.740), and is "pursuit, the press of battle"; "rout" stays the word for φόβος (8.108, 8.139). Rendered "through the onslaught".
+- **8.94** — μετὰ νῶτα βαλών (only here), literally "having put behind the back": usually taken as "turning your back"; it can also be read with an object understood, "throwing (your shield) behind your back", as a man does in retreat (ὄπιθεν δὲ σάκος βάλεν ἑπταβόειον, of Ajax, 11.545). Rendered "turning your back".
+- **8.97** — οὐδʼ ἐσάκουσε: ἐσακούω occurs only here in Homer. It can mean "did not hear", as rendered, which leaves Odysseus' flight unexplained but not a refusal, or "did not heed", which makes him ignore Diomedes' call. Rendered "did not hear".
+- **8.104, 8.113–114** — Diomedes calls Nestor's attendant ἠπεδανός, "a weakling" (elsewhere only Od. 8.311, Hephaestus of his own lameness), yet the two attendants who then take charge of Nestor's horses are ἴφθιμοι, "mighty", a plural that covers both names: Sthenelus, Diomedes' charioteer (4.367; 5.108–111, 5.835), and "manly" Eurymedon, Nestor's attendant (11.620). The poem does not say whether the "weakling" is Eurymedon. Rendered "your attendant is a weakling" and "mighty Sthenelus and manly Eurymedon".
+- **8.140** — ἀλκή, "courage" elsewhere in this translation, is here the protecting strength that Zeus lends (ὅ τοι ἐκ Διὸς οὐχ ἕπετʼ ἀλκή; compare ῥεῖα δʼ ἀρίγνωτος Διὸς ἀνδράσι γίγνεται ἀλκή, 15.490). Rendered "no help from Zeus".
+- **8.164** — κακὴ γλήνη: γλήνη is the pupil or eyeball (14.494; Od. 9.390), and γλήνεα are bright trinkets (24.192); the insult is usually understood as "worthless doll" or "puppet", the small figure seen in the pupil, and it goes with "you are no better than a woman" (8.163). Rendered "wretched doll".
+- **8.166** — πάρος τοι δαίμονα δώσω (only here), literally "before that I will give you a δαίμων": δαίμων as the power that deals a man his lot, here his death. Rendered "I will deal you your doom".
+- **8.178** — ἀβλήχρʼ οὐδενόσωρα: ἀβληχρός is "soft, feeble" (5.337, Aphrodite's hand; Od. 11.135, a gentle death); οὐδενόσωρος occurs only here and is explained as "worth no regard" (οὐδενός, "of nothing"). Rendered "feeble things, worth nothing".
+- **8.185–191** — Hector calls four horses by name but addresses them with duals (ἀποτίνετον 8.186; ἐφομαρτεῖτον, σπεύδετον 8.191), with a plural ὑμῖν between (8.188). A Homeric chariot has a pair, sometimes with a trace horse (8.87, 16.152); a team of four appears only at 11.699 and, in a simile, at Od. 13.81 (τετράοροι). The verse 8.185 is reported to have been rejected in antiquity. Rendered as transmitted; "you" leaves the number open.
+- **8.188–190** — Andromache sets wheat before Hector's horses and mixes them wine to drink, "before me" (ἢ ἐμοί): wine given to horses occurs nowhere else in Homer. Rendered literally.
+- **8.192–193** — Nestor's shield, "all of gold, its rods and the shield itself", is named nowhere else. κανόνες are rods fixed across the inside of a shield, by which it was held (13.407, a round shield δύω κανόνεσσʼ ἀραρυῖαν, "fitted with two rods"). Rendered "its rods".
+- **8.204** — σὺ δέ σφισι βούλεο νίκην (βούλεο only here): taken as an imperative, "so will them victory", as rendered; it can also be an unaugmented imperfect, "and you used to wish them victory", a reproach for Poseidon's present indifference (8.201–202). Rendered "so you should will them victory".
+- **8.209** — ἀπτοεπές (only here): usually explained as "undaunted in speech" (ἀ- and πτοέω, "scare"), one who says what others would fear to say. Rendered "reckless in speech".
+- **8.213–214** — τῶν δʼ ὅσον ἐκ νηῶν ἀπὸ πύργου τάφρος ἔεργε: compressed. Taken here as the strip that the ditch shut in outside the wall, beyond it as seen from the ships, now packed with the Achaeans' horses and men; the words could also describe the whole space from the ships out to the ditch. Rendered "all the space that the ditch enclosed, out from the ships beyond the wall".
+- **8.222–226** (= 11.5–9) — Odysseus' ship in the middle of the line, with the huts of Ajax and of Achilles at the two ends, is described in the same verses at 11.5–9, where Strife shouts from it to rouse the Achaeans. Here 8.224–226 are reported to have been rejected in antiquity: Agamemnon shouts to the Danaans (8.227), and Achilles is out of the fighting. Rendered as transmitted.
+- **8.230** — the boasts "on Lemnos", made over meat and brimming mixing bowls: the poem tells of no stay on Lemnos on the way to Troy beyond this verse. Lemnos is where Philoctetes was left (2.721–723) and whence ships bring wine to the camp (7.467–471). Rendered literally.
+- **8.247** (= 24.315) — τελειότατον πετεηνῶν: τέλειος is "perfect, full-grown" and also "bringing fulfillment" (τέλος); the eagle is taken as the surest bird of omen, whose sign comes true. Rendered "surest in omen of winged birds".
+- **8.250** — πανομφαίῳ Ζηνί (only here in Homer): from ὀμφή, a divine voice or sign (2.41, 20.129), Zeus as the source of every omen; the eagle has just come from him (8.247–251). Rendered "Zeus, lord of all omens".
+- **8.284** — καί σε νόθον περ ἐόντα κομίσσατο ᾧ ἐνὶ οἴκῳ: Agamemnon, urging Teucer on, recalls that Telamon reared him in his own house "bastard though you were". The verse is reported to have been rejected in antiquity. Elsewhere the poem names bastard sons as a plain fact (Medon 2.727; Democoon 4.499; Pedaeus 5.70; Isus 11.102; Cebriones 16.738), and it never names Teucer's mother. Rendered as transmitted.
+- **8.306–308** — μήκων δʼ ὡς ἑτέρωσε κάρη βάλεν: ὡς is printed unaccented, the conjunction "as", so the poppy is the subject of βάλεν and ὣς at 8.308 answers it ("so his head drooped"). Read as ὥς, "like a poppy", the verb would be Gorgythion's ("he let his head fall to one side like a poppy"). The poppy is weighed down at once by its fruit, the seed head, and by the spring rain (καρπῷ βριθομένη νοτίῃσί τε εἰαρινῇσιν). Rendered "As a poppy droops its head to one side … heavy with its seed and with the showers of spring".
+- **8.349** — Γοργοῦς ὄμματʼ ἔχων: the Gorgon is named only here and at 11.36, where Γοργὼ βλοσυρῶπις is on Agamemnon's shield; elsewhere she is a head, on the aegis (5.741) and in the underworld (Od. 11.634). ἠδέ joins the two likenesses ("and"); the English "or" presents them as alternatives, as English idiom prefers. Rendered "with the eyes of the Gorgon or of Ares".
+- **8.367–368** — κύνα στυγεροῦ Ἀΐδαο: the hound is not named in Homer; Hesiod calls him Cerberus (Theogony 311). Heracles' shade tells Odysseus that Eurystheus sent him to fetch the dog and that Hermes and Athena guided him (Od. 11.623–626), as Athena claims here. πυλάρτης, "the gatekeeper", is Hades' epithet also at 13.415 and Od. 11.277. The subject of προὔπεμψεν is not expressed; the English supplies Eurystheus (8.363). Rendered "the hound of hateful Hades" and "Hades the gatekeeper".
+- **8.371** — ἥ οἱ γούνατʼ ἔκυσσε: in Book 1 Thetis clasps Zeus' knees with her left hand and takes his chin with her right (1.500–502, 1.512); no kiss is mentioned there. Rendered "who kissed his knees".
+- **8.420–424** — Iris repeats Zeus' threat (8.402–408) to the goddesses' faces (8.416–422) and adds an insult he did not give her: Athena is "most dread, you shameless dog" if she dares lift her spear against Zeus (8.423–424). The verses 8.420–424 are reported to have been rejected in antiquity. Rendered as transmitted.
+- **8.441** — ἅρματα δʼ ἂμ βωμοῖσι τίθει: βωμός is otherwise an altar, in this book too (8.48, 8.238, 8.249); here it is a stand or platform for the chariot, as at Od. 7.100, where the golden youths in Alcinous' house stand ἐϋδμήτων ἐπὶ βωμῶν, "on well-built pedestals". Rendered "set the chariot on its stand".
+- **8.475–476** — ἐπὶ πρύμνῃσι … περὶ Πατρόκλοιο θανόντος: Zeus' prophecy, the poem's first word of Patroclus' death, sets the fight "at the sterns of the ships … over Patroclus dead". In the event Patroclus is killed on the plain (16.786–857), the fight over his body is fought there (Book 17), and it ends at the ditch, where Achilles shows himself (18.215–231) after the Achaeans have fled to the ships (18.148–150). Rendered literally.
+- **8.480** — Ὑπερίονος Ἠελίοιο: in Homer Hyperion is the Sun himself (Od. 1.8, 1.24, 12.133, 12.263, 12.346, 12.374; ἠλέκτωρ Ὑπερίων, 19.398); the patronymic Ὑπεριονίδης (Od. 12.176) and Hesiod (Theogony 371–374) make Hyperion the Sun's father. Rendered "Hyperion the Sun".
+- **8.513** — βέλος … πέσσῃ, literally "digest a missile": the wounded man takes the missile's wound home and broods over it, as πέσσω is to brood over anger (χόλον … πέσσει, 4.513; 9.565) and to "stew over" prizes (2.237). βέλος covers both the arrow and the spear of 8.514. Rendered "nurse a wound".
+- **8.519** — λέξασθαι: from the root of λέχος, "lie down, pass the night", as λεξάσθων of the sentries at the ditch (9.67) and λεξάσθην (14.350), as rendered; or from λέγω, "be gathered, mustered", as λέξασθαι at 2.125 and λέγεσθε, "gather" wood, in this speech (8.507). Rendered "are to spend the night".
+- **8.527–528** — κηρεσσιφορήτους (only here): "carried along by the κῆρες", the fates of death that Zeus weighs at 8.70–74 (κῆρες carry men off at 2.302 and lead them on at 2.834). The next verse spells the compound out (οὓς κῆρες φορέουσι). Rendered "borne along by the fates" and "whom the fates bring here".
+- **8.548, 8.550–552** — Not in the manuscripts. The verses are known from the Second Alcibiades ascribed to Plato (149d–e), which reports in indirect speech that the Trojans, as they made camp, offered perfect hecatombs, and the winds carried the savor to heaven, but the gods took no share of it, for Ilios, Priam and his people were hateful to them; editors print the four verses missing from the manuscripts in brackets. The gods' refusal sits against Zeus' word that of all cities he honored Ilios most and that his altar never lacked its share of the feast (4.44–49); 8.552 is 4.47. Rendered in brackets.
+- **8.553** — μέγα φρονέοντες, "thinking big": high-spirited and confident, as of Hector (11.296), Deiphobus (13.156), Achilles (22.21) and the Myrmidons (16.258), and of beasts that fight (11.325, 16.758, 16.824). Rendered "in high spirits". (πτολέμοιο γεφύρας: see 4.371.)
+- **8.557–558** (= 16.299–300) — There Zeus moves a thick cloud from a mountain peak and the sky breaks open above it (16.297–300). Here the air is already windless (8.556), and the sky "breaking open" suits the clearing of a cloud better than a still night; the two verses are reported to have been rejected here in antiquity. Rendered as transmitted.

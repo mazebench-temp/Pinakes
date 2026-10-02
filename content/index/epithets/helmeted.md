@@ -11,7 +11,7 @@ en: [helmeted]
 
 ## Meaning
 
-κορυστής is formed from κορύσσω (“to put on a helmet, to arm”), the verb of κόρυς (“helmet”; [[helmet]]): “a helmeted man, an armed warrior.” The phrase ἄνδρα κορυστήν ends the verse in a formula for the first kill: Antilochus “was the first to kill a helmeted man of the Trojans” (4.457), Diomedes is “by far the first” to do so in Book 8 (Il. 8.256), and Meriones in Book 16 (Il. 16.603). The two Ajaxes are called κορυστά, “helmeted,” in the dual (Il. 13.201).
+κορυστής is formed from κορύσσω (“to put on a helmet, to arm”), the verb of κόρυς (“helmet”; [[helmet]]): “a helmeted man, an armed warrior.” The phrase ἄνδρα κορυστήν ends the verse in a formula for the first kill: Antilochus “was the first to kill a helmeted man of the Trojans” (4.457), Diomedes is “far the first” to do so in Book 8 (Il. 8.256), and Meriones in Book 16 (Il. 16.603). The two Ajaxes are called κορυστά, “helmeted,” in the dual (Il. 13.201).
 
 ## Use
 

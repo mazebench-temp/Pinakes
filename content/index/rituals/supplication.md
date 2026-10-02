@@ -19,7 +19,7 @@ passages:
 
 ## Elsewhere in Homer
 
-Athena recalls the same scene from the other side: Thetis “kissed his knees and took him by the chin” (Iliad 8.370–372). The noun λιταί, “entreaties”, becomes the Prayers of Phoenix's allegory, lame daughters of Zeus who follow after Ate and bring harm to the man who rejects them (Iliad 9.502–512). The poem's last great supplication answers its first. In Book 24 Priam, a father who comes with a ransom like Chryses, clasps Achilles' knees and kisses his hands, and is heard (Iliad 24.477–479; see [[book-1-and-book-24]]).
+Athena recalls the same scene from the other side: Thetis “kissed his knees and took his chin in her hand” (Iliad 8.370–372). The noun λιταί, “entreaties”, becomes the Prayers of Phoenix's allegory, lame daughters of Zeus who follow after Ate and bring harm to the man who rejects them (Iliad 9.502–512). The poem's last great supplication answers its first. In Book 24 Priam, a father who comes with a ransom like Chryses, clasps Achilles' knees and kisses his hands, and is heard (Iliad 24.477–479; see [[book-1-and-book-24]]).
 
 ## Outside Homer
 

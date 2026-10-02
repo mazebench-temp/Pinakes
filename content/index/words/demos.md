@@ -5,7 +5,8 @@ kind: term
 tags: [kingship, assembly]
 summary: A community and the land it lives on: a district with its territory and its people. A “man of the people” (δήμου ἀνήρ) is a commoner, set apart from the kings and the men of note.
 aliases: [dēmos, demos, deme, land, people, commoner, dēmogerontes]
-grc: [δήμου, δῆμον]
+# δημός "fat" (δημὸν 8.240; δημῷ 8.380, 11.818, 13.832) is another word.
+grc: [δήμου, δῆμον, "!=δημὸν", "!=δημῷ"]
 en: [people, land]
 ---
 

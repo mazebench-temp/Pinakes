@@ -5,7 +5,7 @@ kind: object
 tags: [craftsman]
 summary: The red-purple dye made from sea snails, φοῖνιξ, and the color it gave to ivory, cloth and leather. Homer's other purple, πορφύρεος, is the color of fine cloth, and also of the sea, the rainbow and death.
 aliases: [purple dye, crimson, phoinix]
-grc: [φοίνικι]
+grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος]
 en: [purple]
 passages:
   - 4.141-147 | Ivory stained with purple

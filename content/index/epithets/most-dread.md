@@ -3,7 +3,7 @@ title: Most dread son of Cronus
 greek: αἰνότατε Κρονίδη
 kind: epithet
 tags: [divine-epithet]
-summary: Hera's indignant address to [[Zeus]] (1.552), the opening of a line she speaks several times in the Iliad.
+summary: “Most dread,” the superlative of αἰνός in address: Hera's indignant αἰνότατε Κρονίδη to [[Zeus]], the opening of a verse she speaks six times in the Iliad, and once, in the feminine, Iris' word for Athena.
 aliases: [ainotate Kronide, most terrible son of Cronus]
 grc: [αἰνότατε Κρονίδη]
 en: [Most dread]

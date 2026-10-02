@@ -13,7 +13,7 @@ grc: [Στυγὸς]
 
 ## Elsewhere in Homer
 
-The gods' great oath names it. Hera swears to Zeus by "the down-flowing water of Styx, which is the greatest and most dread oath for the blessed gods" (15.36–38), and Calypso swears the same oath to Odysseus (*Odyssey* 5.185–186). Hypnos makes Hera swear by "the inviolable water of Styx" (14.271). Athena says that without her Heracles would never have escaped "the steep streams of the water of Styx" when he went down for the dog of Hades (8.369). In the Odyssey the Cocytus is "a branch of the water of Styx" (10.514), in the same words as here.
+The gods' great oath names it. Hera swears to Zeus by "the down-flowing water of Styx, which is the greatest and most dread oath for the blessed gods" (15.36–38), and Calypso swears the same oath to Odysseus (*Odyssey* 5.185–186). Hypnos makes Hera swear by "the inviolable water of Styx" (14.271). Athena says that without her Heracles would never have escaped "the sheer streams of the water of Styx" when he went down for the dog of Hades (8.369). In the Odyssey the Cocytus is "a branch of the water of Styx" (10.514), in the same words as here.
 
 ## Outside Homer
 

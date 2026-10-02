@@ -3,7 +3,7 @@ title: Stern
 greek: πρύμνη
 kind: object
 tags: [ship, camp]
-summary: The sterns of the beached Achaean ships, among which Achilles prays that the army be penned in and slaughtered.
+summary: The stern of a ship, πρύμνη. The Achaean ships were beached stern first, so that their sterns faced the plain and the enemy, and the battle for the ships is fought at the sterns.
 aliases: [sterns, ships' sterns, prymne]
 grc: [πρύμνας]
 en: [ships' sterns, sterns]

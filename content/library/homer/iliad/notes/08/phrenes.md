@@ -1,0 +1,14 @@
+---
+summary: Madness runs through Book 8 from man to god: Diomedes' spear rages, Hector rages past bearing, Athena says that her father “rages with a mind that is not good”, and Iris asks the goddesses what madness is in their hearts. Grief clouds Hector's mind twice, Hera puts a thought into Agamemnon's, and the Trojans sit all night by their fires “in high spirits”.
+grc: [φρονέοντες]
+en: [in high spirits]
+passages:
+  - 8.350-373 | Hera and Athena set out
+  - 8.553-565 | The watch-fires
+---
+
+**Madness.** The verb μαίνομαι, “rage, be mad”, comes four times in the book, and it climbs. Diomedes takes Nestor into his chariot so that Hector “may know whether my spear also rages in my hands” (8.110–111). Hera, watching the Achaeans fall, says that Hector “rages past all bearing” (8.355). Athena answers that the fault is higher: “my father rages with a mind that is not good, hard as he is, forever perverse” (8.360–361; see [[fathers-and-daughters]]). And Iris meets the two goddesses at the gates of Olympus with Zeus' question, “What madness is in your hearts?” (τί σφῶϊν ἐνὶ φρεσὶ μαίνεται ἦτορ, 8.413; see [[iris]] and [[message-repeated]]). In Book 9 Odysseus tells Achilles that Hector “rages terribly, trusting in Zeus” (9.237–239), and Teucer has already called him a “mad dog” (8.299; see [[dogs]]). The madness of battle in Hector is Zeus' gift; the goddesses' is defiance of him.
+
+**A mind clouded and a mind prompted.** Hector loses two charioteers, and each time the same verse follows: “Dread grief for his charioteer clouded Hector's mind” (8.124, 8.316). πυκάζω is “cover closely”, the verb of a helmet set on a man's head (10.271) and of a goddess wrapping herself in a cloud (17.551). The verse returns once, when Apollo tells Hector that Menelaus has killed Euphorbus (17.79–83; see [[achos]]). The φρένες are also where a god can set a thought. Hector would have burned the ships, “had not queen Hera put it in Agamemnon's mind to bestir himself and quickly urge on the Achaeans” (8.218–219; see [[boule]] and [[divine-intervention]]). Athena, recalling how she saved Heracles, speaks of “my shrewd mind” (φρεσὶ πευκαλίμῃσιν, 8.366; see [[shrewd-mind]]), and Zeus, finding the goddesses silent, “understood in his heart” (8.446), as Achilles did when the heralds stood before him silent in Book 1 (1.333; see [[the-gods-mirror-the-mortals]]).
+
+**High spirits.** The book ends with the Trojans sitting all night along the bridges of war, μέγα φρονέοντες, “in high spirits” (8.553), literally “thinking big”, as the Myrmidons will be when they go out with Patroclus (16.258; see the translation's note on 8.553). In the simile of the stars that follows (see [[stars-around-the-moon]]), the shepherd who sees the clear sky “is glad at heart” (γέγηθε δέ τε φρένα, 8.559). The Achaeans, looking at the same fires, feel the opposite: “who could rejoice at this?” Nestor asks in their council (9.76–77; see [[war-and-night]]).

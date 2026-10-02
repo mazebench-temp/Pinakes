@@ -14,7 +14,7 @@ of: [nike]
 
 ἑτεραλκής = ἕτερος (“one of two, the other”) + ἀλκή (“strength, courage”; [[alke]]): “with strength for one of the two sides.” It has been taken as a decisive victory, which gives the strength to one side, or as a victory that swings to the side that was losing, “turning the battle” (see the translation's note on 7.26). The translation's “the victory that turns the battle” leans to the second.
 
-Homer uses it six times. Five times it describes νίκη, victory, and it is usually a god who gives it. Zeus thunders three times from Ida, “setting a sign for the Trojans, the victory that turns the battle” (8.170–171); Hector knows that the victory has turned (16.362); Ajax and Menelaus see that Zeus is giving the Trojans the victory (17.626–627); and in the Odyssey Athena does not yet give Odysseus the victory outright (Od. 22.236). The sixth use is of people: Ajax, defending the ships, says that the Achaeans have no city nearby “where we could defend ourselves with a people to turn the battle” (15.736–738). See [[nike]].
+Homer uses it six times. Five times it describes νίκη, victory, and it is usually a god who gives it. Zeus thunders three times from Ida, “giving the Trojans a sign of the victory that turns the battle” (8.170–171); Hector knows that the victory has turned (16.362); Ajax and Menelaus see that Zeus is giving the Trojans the victory (17.626–627); and in the Odyssey Athena does not yet give Odysseus the victory outright (Od. 22.236). The sixth use is of people: Ajax, defending the ships, says that the Achaeans have no city nearby “where we could defend ourselves with a people to turn the battle” (15.736–738). See [[nike]].
 
 ## Use
 

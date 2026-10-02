@@ -17,19 +17,19 @@ relations:
 
 ## Family
 
-Agamemnon tells his birth when he cheers him on in Book 8: “Teucer, dear head, son of Telamon, lord of the people, shoot like this, and you may be a light to the Danaans and to your father Telamon, who reared you when you were small and took you into his own house, bastard though you were” (8.281–284). His mother was not Telamon's wife, and the Iliad does not name her (see [[nothos]]). Ajax is his κασίγνητος καὶ ὄπατρος, “brother by the same father” (12.371; see [[kasignetos]]). Some scholars have argued that the dual Αἴαντε, “the two Ajaxes”, once meant Ajax and Teucer; in the Iliad as we have it the pair is Ajax and the son of Oileus, and the theory is unproven (see [[ajax-son-of-oileus]]).
+Agamemnon tells his birth when he cheers him on in Book 8: “Teucer, dear heart, son of Telamon, lord of the people, shoot on like this, and you may become a light to the Danaans and to your father Telamon, who reared you when you were small and cared for you in his own house, bastard though you were” (8.281–284). His mother was not Telamon's wife, and the Iliad does not name her (see [[nothos]]). Ajax is his κασίγνητος καὶ ὄπατρος, “brother by the same father” (12.371; see [[kasignetos]]). Some scholars have argued that the dual Αἴαντε, “the two Ajaxes”, once meant Ajax and Teucer; in the Iliad as we have it the pair is Ajax and the son of Oileus, and the theory is unproven (see [[ajax-son-of-oileus]]).
 
 ## Descriptions
 
 - τόξων ἐῢ εἰδώς, “well skilled with the bow” (12.350 = 12.363; see [[skilled-with-the-bow]]). Idomeneus calls him ἄριστος Ἀχαιῶν τοξοσύνῃ, “the best of the Achaeans at archery”, and brave in the close fight too (13.313–314).
 - ἀμύμων, “noble” (8.273, 8.292; see [[blameless]]), and βίη Τεύκροιο ἄνακτος, “the might of lord Teucer” (23.859), a hero named by his strength, like βίη Ἡρακληείη, “the might of Heracles” (11.690).
-- His bow is παλίντονα τόξα, “the back-bent bow” (8.266, 15.443), the bow “that Phoebus Apollo gave you”, as Ajax says (15.441), like Pandarus' (2.827; see [[the-bow-of-pandarus]]).
+- His bow is παλίντονα τόξα, “his back-bent bow” (8.266, 15.443), the bow “that Phoebus Apollo gave you”, as Ajax says (15.441), like Pandarus' (2.827; see [[the-bow-of-pandarus]]).
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-**Behind the shield.** In Book 8 Teucer shoots from under the shield of Ajax and goes back to him “like a child under its mother” (8.266–272). He kills eight men; twice he shoots at Hector and misses, killing Gorgythion, a son of Priam, and Hector's charioteer Archeptolemus instead (8.273–315). Hector breaks his bowstring with a stone, and he is carried groaning to the ships (8.320–334).
+**Behind the shield.** In Book 8 he shoots from under the shield of Ajax, “like a child under its mother”, until Hector fells him with a stone (8.266–334).
 
 **At the wall and the ships.** He wounds Glaucus in the arm at the Achaean wall (12.387–391, 16.508–512). In Book 15 he draws on Hector, but Zeus snaps the string, and at Ajax's word he puts the bow away and takes up shield and spear (15.458–483).
 

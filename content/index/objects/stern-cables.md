@@ -3,9 +3,10 @@ title: Stern-cables
 greek: πρυμνήσια
 kind: object
 tags: [ship, seafaring]
-summary: The ropes that tie a moored ship's stern to the shore. At Chryse the crew make them fast on arrival, and sleep beside them before sailing home.
+summary: The ropes that tie a moored ship's stern to the shore, made fast when a ship comes in and loosed when it sails.
 aliases: [stern cables, hawsers, mooring ropes, prymnesia]
-grc: [πρυμνήσιʼ, πρυμνήσια]
+# πρύμνῃσι(ν) "at the sterns" (8.475) looks like the elided πρυμνήσιʼ once accents are ignored.
+grc: [πρυμνήσιʼ, πρυμνήσια, "!=πρύμνῃσι"]
 en: [stern-cables]
 ---
 

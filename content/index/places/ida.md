@@ -3,8 +3,8 @@ title: Ida
 greek: Ἴδη
 kind: place
 tags: [troad, mountain, sanctuary]
-summary: The mountain range southeast of Troy, "of many springs", where Zeus has a precinct and altar on the peak of Gargarus. [[Aeneas]] was born on its slopes.
-aliases: [Mount Ida, Gargarus]
+summary: The mountain range southeast of Troy, "of many springs", where Zeus has a precinct and altar on the peak of [[Gargarus]]. [[Aeneas]] was born on its slopes.
+aliases: [Mount Ida]
 grc: ["=Ἴδης"]
 en: [Ida]
 ---

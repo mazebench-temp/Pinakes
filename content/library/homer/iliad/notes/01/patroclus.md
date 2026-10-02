@@ -1,3 +1,7 @@
+---
+summary: In Book 1 he obeys Achilles and hands Briseis over to Agamemnon's heralds.
+---
+
 {{quote:d78ebeff-4c18-532f-b838-4fb27dffd8fd}}
 
 Μενοιτιάδης = Μενοίτιος + -ιάδης: "son of Menoetius". He is named first by his father, before we are told who he is.

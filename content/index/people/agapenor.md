@@ -4,7 +4,8 @@ greek: Ἀγαπήνωρ
 kind: person
 tags: [achaean, king, arcadia]
 summary: Son of [[Ancaeus]] and leader of the [[Arcadians]] at Troy, with sixty ships given by Agamemnon. In later legend he founded Paphos in Cyprus.
-grc: [Ἀγαπήνωρ]
+# ^: ἀγαπήνωρ "manly" is an adjective (Eurymedon, 8.114; also 15.392, 23.113).
+grc: ["^Ἀγαπήνωρ"]
 refs: [2.610]
 relations:
   - father: ancaeus (2.609)

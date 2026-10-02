@@ -3,7 +3,7 @@ title: With golden headbands
 greek: χρυσάμπυξ
 kind: epithet
 tags: [livestock, divine-object]
-summary: “With golden frontlets,” an epithet of the horses of the gods, used in Book 5 of the horses of Ares and of Hera.
+summary: “With golden frontlets,” an epithet of the horses of the gods, of Ares' team and of Hera's.
 aliases: [chrysampyx, golden-frontleted]
 grc: [χρυσάμπυκας]
 en: [with golden headbands]

@@ -3,7 +3,7 @@ title: Ruin of mortals
 greek: βροτολοιγός
 kind: epithet
 tags: [divine-epithet, warfare]
-summary: “Destroyer of men,” the commonest epithet of [[Ares]], and the first of the three in the line with which Athena and then Apollo address him in Book 5.
+summary: “Destroyer of men,” the commonest epithet of [[Ares]], the first of three in the verse of address “Ares, Ares, ruin of mortals, blood-stained stormer of walls.”
 aliases: [brotoloigos, bane of mortals, destroyer of men]
 grc: [βροτολοιγὲ, βροτολοιγὸς, βροτολοιγὸν]
 en: [ruin of mortals]

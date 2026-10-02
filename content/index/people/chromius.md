@@ -6,7 +6,8 @@ tags: [achaean, pylian, warrior, messenia]
 summary: One of the five captains around whom [[Nestor]] marshals the Pylians before the first battle (4.295). The name is borne by several other men in Homer.
 aliases: [Chromios, Chromius the Pylian]
 grc: [Χρομίον]
-except: [5.160, 5.677]
+# 5.160 the son of Priam; 5.677 a Lycian; 8.275 a Trojan killed by Teucer.
+except: [5.160, 5.677, 8.275]
 relations:
   - commander: nestor (4.293-295)
 ---

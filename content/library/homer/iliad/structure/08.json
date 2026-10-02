@@ -1,0 +1,48 @@
+{
+  "scenes": [
+    { "from": 1, "to": 27, "title": "Zeus Forbids the Gods to Fight", "summary": "At dawn Zeus calls the gods to the highest peak of Olympus and forbids any of them to help either side, on pain of a beating or of being hurled into Tartarus. Let them all hang on a golden rope and pull: they could not drag him down, and he could haul them up, earth and sea and all." },
+    { "from": 28, "to": 52, "title": "Zeus Goes to Ida", "summary": "Athena alone answers: the gods will keep out of the war but give the Argives counsel. Zeus smiles at her, puts on his golden armor, and drives his bronze-footed horses to Gargarus on Ida, where he sits looking down on Troy and the ships." },
+    { "from": 53, "to": 77, "title": "The Scales of Zeus", "summary": "The armies arm and meet, and the battle is even until midday. Then Zeus lifts his golden scales with the two fates of death in them; the day of the Achaeans sinks, and he thunders from Ida and sends a flash among them." },
+    { "from": 78, "to": 129, "title": "Diomedes Rescues Nestor", "summary": "The Achaean leaders flee. Nestor alone is left, his trace horse shot by Paris; Diomedes calls in vain on Odysseus, takes Nestor into his chariot and drives at Hector, killing his charioteer Eniopeus. Hector finds a new driver, Archeptolemus." },
+    { "from": 130, "to": 171, "title": "The Thunderbolt", "summary": "The Trojans would have been penned in their city, but Zeus throws a thunderbolt before Diomedes' horses. Nestor persuades him to turn back, and Hector shouts insults after him; three times Diomedes thinks of turning, and three times Zeus thunders from Ida." },
+    { "from": 172, "to": 211, "title": "Hector's Boast and Hera's Appeal", "summary": "Hector rouses the Trojans and calls on his four horses to carry him to Nestor's golden shield and Diomedes' corselet. Hera, shaking Olympus in her anger, asks Poseidon to join her in helping the Achaeans, and he refuses." },
+    { "from": 212, "to": 252, "title": "Agamemnon Rallies the Achaeans", "summary": "The Achaeans are penned between the ditch and the wall, and Hector would have burned the ships. Prompted by Hera, Agamemnon goes to the ship of Odysseus with a purple cloak in his hand, shames the army and prays to Zeus, who sends an eagle with a fawn in its talons." },
+    { "from": 253, "to": 334, "title": "Teucer the Archer", "summary": "Diomedes is the first across the ditch and kills Agelaus; the other leaders follow. Teucer shoots from behind Ajax's shield and kills eight men; Agamemnon promises him a prize. His arrows meant for Hector kill Gorgythion and Archeptolemus, until Hector breaks his bowstring with a stone and Ajax covers him." },
+    { "from": 335, "to": 349, "title": "The Achaeans Driven Back to the Ships", "summary": "Zeus rouses the Trojans again. Hector drives the Achaeans back across the ditch like a hound at a boar's heels, and they halt by the ships and pray, while he wheels his horses with the eyes of the Gorgon or of Ares." },
+    { "from": 350, "to": 396, "title": "Hera and Athena Set Out", "summary": "Hera pities the Achaeans. Athena rails at her father, who forgets how she saved Heracles from the labors of Eurystheus, and arms for war while Hera harnesses the horses; the gates of heaven open for them." },
+    { "from": 397, "to": 437, "title": "Iris Turns Them Back", "summary": "Zeus sees them from Ida and sends Iris with his threat: he will lame their horses and smash their chariot, and they will not heal of their wounds in ten years. Hera gives up, and the two goddesses return and sit among the gods, grieving." },
+    { "from": 438, "to": 484, "title": "Zeus Foretells the Battle at the Ships", "summary": "Zeus drives back to Olympus and mocks the two goddesses. Hera answers as Athena did at dawn. Zeus foretells that Hector will not stop fighting until Achilles is roused beside the ships, in the fight over the dead Patroclus, and cares nothing for her anger if she goes to the ends of the earth, where Iapetus and Cronus sit in Tartarus." },
+    { "from": 485, "to": 541, "title": "Hector's Night Assembly", "summary": "The sun sets, unwelcome to the Trojans and thrice prayed for by the Achaeans. Hector holds an assembly on the plain: the Trojans are to camp there, feed their horses, burn fires all night so that the Achaeans cannot slip away, and set a watch on Troy; at dawn they will fight at the ships, and he boasts that Diomedes will fall." },
+    { "from": 542, "to": 565, "title": "The Watch-Fires", "summary": "The Trojans bring cattle, sheep, wine and bread from the city, and sit all night on the bridges of war. Their thousand fires shine between the ships and the Xanthus like the stars around the moon on a windless night, with fifty men at each, and the horses wait for dawn." }
+  ],
+  "speeches": [
+    { "from": 5, "to": 27, "speaker": "zeus", "to_whom": ["olympians"], "kind": "command" },
+    { "from": 31, "to": 37, "speaker": "athena", "to_whom": ["zeus"], "kind": "request" },
+    { "from": 39, "to": 40, "speaker": "zeus", "to_whom": ["athena"], "kind": "consolation" },
+    { "from": 93, "to": 96, "speaker": "diomedes", "to_whom": ["odysseus"], "kind": "rebuke" },
+    { "from": 102, "to": 111, "speaker": "diomedes", "to_whom": ["nestor"], "kind": "proposal" },
+    { "from": 139, "to": 144, "speaker": "nestor", "to_whom": ["diomedes"], "kind": "advice" },
+    { "from": 146, "to": 150, "speaker": "diomedes", "to_whom": ["nestor"], "kind": "reply" },
+    { "from": 152, "to": 156, "speaker": "nestor", "to_whom": ["diomedes"], "kind": "consolation" },
+    { "from": 161, "to": 166, "speaker": "hector", "to_whom": ["diomedes"], "kind": "taunt" },
+    { "from": 173, "to": 183, "speaker": "hector", "to_whom": ["trojans", "lycians", "dardanians"], "kind": "exhortation" },
+    { "from": 185, "to": 197, "speaker": "hector", "to_whom": ["the-horses-of-hector"], "kind": "exhortation" },
+    { "from": 201, "to": 207, "speaker": "hera", "to_whom": ["poseidon"], "kind": "persuasion" },
+    { "from": 209, "to": 211, "speaker": "poseidon", "to_whom": ["hera"], "kind": "retort" },
+    { "from": 228, "to": 244, "speaker": "agamemnon", "to_whom": ["argives", "zeus"], "kind": "rebuke" },
+    { "from": 281, "to": 291, "speaker": "agamemnon", "to_whom": ["teucer"], "kind": "praise" },
+    { "from": 293, "to": 299, "speaker": "teucer", "to_whom": ["agamemnon"], "kind": "reply" },
+    { "from": 352, "to": 356, "speaker": "hera", "to_whom": ["athena"], "kind": "proposal" },
+    { "from": 358, "to": 380, "speaker": "athena", "to_whom": ["hera"], "kind": "complaint" },
+    { "from": 399, "to": 408, "speaker": "zeus", "to_whom": ["iris"], "kind": "command" },
+    { "from": 413, "to": 424, "speaker": "iris", "to_whom": ["hera", "athena"], "kind": "message" },
+    { "from": 427, "to": 431, "speaker": "hera", "to_whom": ["athena"], "kind": "counsel" },
+    { "from": 447, "to": 456, "speaker": "zeus", "to_whom": ["athena", "hera"], "kind": "mockery" },
+    { "from": 462, "to": 468, "speaker": "hera", "to_whom": ["zeus"], "kind": "protest" },
+    { "from": 470, "to": 483, "speaker": "zeus", "to_whom": ["hera"], "kind": "retort" },
+    { "from": 497, "to": 541, "speaker": "hector", "to_whom": ["trojans", "dardanians", "trojan-allies"], "kind": "exhortation" }
+  ],
+  "days": [
+    { "from": 1, "to": 565, "label": "Day 25", "note": "The second day of battle, which Zeus gives to the Trojans. It ends at sunset (8.485), and the Trojans camp on the plain; the night that follows lasts through Books 9 and 10." }
+  ]
+}

@@ -1,0 +1,15 @@
+---
+summary: Agamemnon urges Teucer to win glory for his father Telamon, who reared him though he was a bastard; Athena recalls how Zeus' son Heracles wept to the sky and his father sent her to help him. Priam loses a son to the arrow meant for Hector, and another son takes the reins.
+refs: [8.281-285, 8.302-305, 8.318, 8.362-365]
+passages:
+  - 8.278-291 | Agamemnon praises Teucer
+  - 8.360-369 | Athena's grievance
+---
+
+**Glory for the father.** Teucer, the bastard son of Telamon, kills eight Trojans from under his brother's shield, and Agamemnon tells him to shoot on, so that he may become “a light to the Danaans and to your father Telamon, who reared you when you were small and cared for you in his own house, bastard though you were; bring him to glory, far away though he is” (8.282–285; see [[teucer]], [[telamon]] and [[nothos]]). The son fights at Troy, and the fame goes home to the father in Salamis. Hector put it the same way in Book 6, fighting among the foremost “winning great fame for my father and for myself” (6.446; see [[kleos]]). Agamemnon's words also make the son's glory a return for his rearing, the debt that young men killed in battle leave unpaid (see [[threptra]]).
+
+**A son of Zeus.** Athena, arming against her father's ban, remembers what she did for his son: “how very often I saved his son when he was worn out by the labors that Eurystheus set him. He would weep to the sky, and Zeus would send me down from the sky to help him” (8.362–365; see [[heracles]], [[eurystheus]] and [[heracles-and-cerberus]]). The son weeps to his father, and the father helps him through his daughter. Heracles is not named. In Book 19 Agamemnon tells how Zeus was tricked on the day Heracles was born, so that Eurystheus was born first and ruled over him, and how Zeus groaned whenever he saw his dear son at the shameful labor “that Eurystheus set him” (ὑπʼ Εὐρυσθῆος ἀέθλων, 19.95–133, the words of 8.363). In the Odyssey the shade of Heracles tells Odysseus that he was the son of Zeus and yet served a man far worse than himself (*Odyssey* 11.620–622). Athena's grievance is that the father has forgotten what the daughter did for the son (see [[fathers-and-daughters]]).
+
+**Priam's sons.** Teucer shoots twice at Hector and misses. The first arrow kills Gorgythion, “the brave son of Priam”, whose mother Castianeira was a bride brought from Aesyme (8.302–305; see [[gorgythion]] and [[castianeira]]); the second kills Hector's charioteer, and Hector gives the reins to Cebriones, “his brother” (8.318; see [[cebriones]]). The sons of Priam, by Hecuba and by other women, fight and die beside one another; Priam will tell Achilles that he had fifty sons when the Achaeans came, nineteen of them from one womb, and that Ares has loosed the knees of most of them (24.495–498).
+
+**Other fathers.** Patronymics name most of the men in the book's fighting: Eniopeus son of Thebaeus, Archeptolemus son of Iphitus, Agelaus son of Phradmon, Amopaon son of Polyaemon (8.120, 8.128, 8.257, 8.276). Nestor consoles Diomedes as the “son of wise-hearted Tydeus” (8.152), and the Trojans go out to fight “for their children and for their wives” (8.57).

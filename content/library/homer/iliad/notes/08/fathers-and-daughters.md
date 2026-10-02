@@ -1,0 +1,14 @@
+---
+summary: Book 8 tells a quarrel between Zeus and his favorite daughter. At dawn Athena pleads for the Danaans and he answers her kindly; in the afternoon she calls him perverse, forgetful and hard, arms in his tunic to fight against his will, and is threatened with his thunderbolt “so that the gray-eyed one may know what it is to fight her father”; at night she sits silent, sulking at father Zeus.
+refs: [8.30-40, 8.360-373, 8.384-388, 8.406, 8.420, 8.444-460]
+passages:
+  - 8.28-40 | Athena's plea
+  - 8.357-396 | Athena's grievance and her arming
+  - 8.397-424 | Iris turns them back
+---
+
+**The kind answer.** After Zeus' threats to the assembled gods, only Athena answers, and she begins as a daughter: “Our father, son of Cronus, highest of lords” (8.31). She accepts the ban and asks only to give the Argives counsel (8.32–37; see [[boule]]). Zeus smiles at her: “Take heart, Tritogeneia, dear child; I do not speak in full earnest, and I want to be kind to you” (8.38–40). He says the same two verses to her when she objects to his wish to save Hector, and there he lets her go (22.183–185). Here they change nothing: the ban stands (see the translation's note on 8.28–40).
+
+**The grievance.** By afternoon she has seen the Achaeans driven to their ships, and when Hera asks her to help them, she turns on her father: “my father rages with a mind that is not good, hard as he is, forever perverse, the thwarter of my purposes” (8.360–361; see [[phrenes]] and [[menos]]). He has forgotten how she saved his son Heracles in his labors (8.362–369; see [[fathers-and-sons]]), and now he hates her and has done what Thetis asked (8.370–372). She ends with a daughter's confidence: “Yet the day will come when he calls me his dear gray-eyed one again” (8.373). Then she arms in her father's house. She lets her own robe, which she made with her own hands, fall on her father's floor, and puts on “the tunic of Zeus the cloud-gatherer” to go out against him (8.384–388), in the verses with which she armed in Book 5, where Zeus then let the two goddesses go (5.733–766; see [[arming-scene]]).
+
+**The threat.** Zeus sees from Ida and sends Iris. His message spares Hera and is aimed at Athena: he will lame the horses, smash the chariot, and wound them with the thunderbolt, “so that the gray-eyed one may know what it is to fight her father” (8.406). Iris repeats it to her face, “so that you may know, gray-eyed one, what it is to fight your father”, and adds an insult of her own (8.420–424; see [[iris]] and [[nemesis]]). The two goddesses turn back. At night Athena sits apart from Zeus with Hera, “sulking at father Zeus, and a savage anger gripped her”, and says nothing (8.444–460; see [[cholos]]). Her confidence is borne out: in Book 17 Zeus himself sends her down to rouse the Danaans over the body of Patroclus, “for his mind had turned” (17.544–546; see [[athena]] and [[zeus]]).

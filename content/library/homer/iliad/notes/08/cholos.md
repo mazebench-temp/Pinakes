@@ -1,0 +1,13 @@
+---
+summary: The anger of Book 8 is the gods'. Zeus is “terribly angry” when he sees Hera and Athena driving out against his ban; the goddesses come back angry, in the verses that described them in Book 4, Athena silent and Hera unable to contain it; and Zeus tells Hera that he does not care about her anger.
+grc: [χώσατʼ, χολοῦμαι, χολοῦται, χωομένης]
+passages:
+  - 8.397-408 | Zeus sends Iris
+  - 8.457-483 | Hera's answer and Zeus' prophecy
+---
+
+**Whose anger.** No mortal in Book 8 is said to be angry. The men grieve, fear and boast (see [[achos]], [[deos]] and [[euchomai]]); the anger belongs to the gods. Athena, answering Zeus' ban at dawn, asks only that the Argives should not all perish “because of your anger” (ὀδυσσαμένοιο τεοῖο, 8.37), and Hera repeats the words at night (8.468). ὀδύσσομαι is a rarer verb for being angry, the one from which the Odyssey derives the name of Odysseus (*Odyssey* 19.407–409). The goddesses take the day's slaughter for an anger of Zeus against the Achaeans, though it is the honor he promised Thetis (8.370–372; see [[plan-of-zeus]]).
+
+**Zeus.** When Zeus sees from Ida that Hera and Athena have harnessed the horses and gone out through the gates of heaven, “he was terribly angry” (χώσατʼ ἄρʼ αἰνῶς, 8.397), and sends Iris with a threat to lame their horses and smash their chariot (8.399–405). He grades his anger as he gives it: “With Hera I am not so indignant or so angry” (οὐδὲ χολοῦμαι, 8.407), for she always thwarts him; the anger is for Athena (see [[nemesis]] and [[fathers-and-daughters]]). At the end of the day he dismisses Hera's: “I do not care about you in your anger”, not even if she goes to the lowest limits of earth and sea, where Iapetus and Cronus sit in Tartarus (8.477–483; see [[tartarus]] and [[fall-of-cronus]]).
+
+**The goddesses.** Zeus mocks them when he comes back to Olympus, and the narrator describes their answer in five verses already used in Book 4, when Zeus proposed to make peace and let Troy stand (8.457–461 = 4.20–24): “Athena kept silent and said nothing, sulking at father Zeus, and a savage anger gripped her; but Hera's breast could not contain her anger, and she spoke to him.” Hera then begins as she began there, “Most dread son of Cronus, what a thing you have said!” (8.462 = 4.25). The two angers have the two shapes that the Iliad gives to anger in men: one swallowed in silence, one that the chest cannot hold. In Book 4 Hera's anger won her Troy (4.31–67; see [[the-bargain-of-zeus-and-hera]]); in Book 8 it wins her nothing but Zeus' prophecy that Hector will not stop until Achilles is roused (8.470–477).

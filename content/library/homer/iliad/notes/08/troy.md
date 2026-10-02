@@ -1,0 +1,11 @@
+---
+summary: The Trojans arm in the city and pour out of its gates. At nightfall they stay on the plain “before Ilios”, while Hector sets the boys and the old men to watch from its towers and the women to burn fires in their halls, so that no ambush may enter the city while the army is away.
+grc: [Ἰλιόθι]
+refs: [8.52, 8.55, 8.58, 8.505, 8.507, 8.517, 8.519-522, 8.545, 8.547]
+passages:
+  - 8.517-522 | Hector's orders for the city
+---
+
+**The city and the plain.** Zeus sits on Gargarus “looking out on the city of the Trojans and the ships of the Achaeans” (8.52; see [[watching-the-war]] and [[gargarus]]). The Trojans arm inside the city and pour out of its gates (8.55–59; 8.58 = 2.809; see [[trojans]]). When Diomedes drives at them they are nearly shut in again, and would have been “penned up in Ilios like lambs” but for Zeus' thunderbolt (8.131; see [[penned-like-lambs]]). By nightfall they hold the plain, and the city is their store and their rear. Cattle, sheep, wine and bread are brought out from it (8.505–507, 8.545–547), and Hector's orders guard it: heralds are to proclaim through the city that the boys and the old men spend the night on its towers, the women are to burn fires in their halls, and a watch is to be kept, “so that no ambush may enter the city while the army is away” (8.517–522; see [[the-walls-of-troy]], [[heralds]] and [[ambush]]). The army camps Ἰλιόθι πρό, “before Ilios” (8.561). Ἰλιόθι is an old locative, “at Ilios”, like οἴκοθι, “at home” (8.513). The phrase returns when Agamemnon looks out at night on the Trojans' fires (10.12), and when the narrator says that Zeus did not want the Achaean army to perish utterly before Ilios (13.349).
+
+**Its names.** Agamemnon prays to Zeus as a man “eager to sack well-walled Troy” (8.241; see [[well-walled]]) and promises Teucer a gift of honor if he may “sack the well-built citadel of Ilios” (8.288; see [[well-built]]). Hector had hoped to “go back home to windy Ilios” with the ships destroyed (8.499; see [[windy]]). In the verses known from the Second Alcibiades, “sacred Ilios” is hateful to the gods, and so are Priam and his people (8.551–552; see [[hieros]]). The last of those verses is the one with which Zeus, in Book 4, named the city and the people he honored most (8.552 = 4.47; see [[zeus]]).

@@ -1,0 +1,5 @@
+---
+summary: All three cries of ὢ πόποι in Book 8 are Hera's: to Poseidon, when she asks him to defy Zeus, and twice to Athena, first to rouse her for the war and then to give it up.
+---
+
+Hera opens three speeches with ὢ πόποι. To Poseidon: “Ah, shaker of the earth, wide in strength, not even your heart grieves in your breast for the Danaans as they perish” (8.201–202), in the address with which Zeus answered Poseidon's complaint about the Achaean wall (7.455; see [[shaker-of-the-earth]]). To Athena: “Ah, child of aegis-bearing Zeus, shall we two no longer care for the Danaans as they perish, even at the last” (8.352–353), the address with which she has roused Athena before (2.157, 5.714; again 21.420, each time with Ἀτρυτώνη, “unwearied”; see [[child-of-aegis-bearing-zeus]]). The third time the same address leads to surrender: “Ah, child of aegis-bearing Zeus, I will no longer let the two of us fight against Zeus for the sake of mortals” (8.427–428). One cry opens indignation, urgency and resignation in turn (see [[hera]]).

@@ -35,7 +35,7 @@ Homer does not say why Heracles shot Hera or Hades.
 
 Hera is Heracles' enemy throughout Homer's allusions to him. She tricked Zeus on the day of his birth, so that Eurystheus was born first and became his master (19.95–133). When he sailed home from sacking Troy she sent storms that drove him to Cos, and Zeus hung her from the sky for it (14.249–256, 15.18–30). Achilles counts her anger with fate as what brought him down (18.117–119).
 
-Hades is at the heart of another labor. Eurystheus sent Heracles to the house of Hades, “the keeper of the gate”, to bring back the hound from Erebus, and Athena saved him (8.366–369). In the Odyssey his ghost tells Odysseus that he brought the dog up from the underworld with the help of Hermes and Athena (Odyssey 11.623–626).
+Hades is at the heart of another labor. Eurystheus sent Heracles to the house of Hades “the gatekeeper” to bring back the hound from Erebus, and Athena saved him (8.366–369; see [[heracles-and-cerberus]]). In the Odyssey his ghost tells Odysseus that he brought the dog up from the underworld with the help of Hermes and Athena (Odyssey 11.623–626).
 
 ## Outside Homer
 

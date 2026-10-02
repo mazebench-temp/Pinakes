@@ -3,7 +3,7 @@ title: Blessed gods
 greek: μάκαρες θεοί
 kind: epithet
 tags: [divine-epithet]
-summary: The gods as “the blessed ones,” free from the cares of mortals. Book 1 uses the phrase three times: as witnesses, in fear, and in laughter.
+summary: The gods as “the blessed ones,” free from the cares of mortals.
 aliases: [makares theoi, happy gods]
 grc: [θεῶν μακάρων, μάκαρες θεοὶ, μακάρεσσι θεοῖσιν]
 en: [blessed gods]

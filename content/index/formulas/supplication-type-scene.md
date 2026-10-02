@@ -27,4 +27,4 @@ What the gestures mean is debated. On one view the knees hold a man's strength, 
 
 ## Outside Book 1
 
-Athena recalls the scene: Thetis “kissed his knees and took him by the chin” (Iliad 8.370–372). In the last book Priam, another father who comes with a ransom, clasps Achilles' knees and kisses his hands, and is heard (Iliad 24.477–479; see [[book-1-and-book-24]]).
+Athena recalls the scene: Thetis “kissed his knees and took his chin in her hand” (Iliad 8.370–372). In the last book Priam, another father who comes with a ransom, clasps Achilles' knees and kisses his hands, and is heard (Iliad 24.477–479; see [[book-1-and-book-24]]).

@@ -5,7 +5,9 @@ kind: person
 tags: [achaean, argive, companion]
 summary: Agamemnon's attendant and charioteer, son of [[Ptolemaeus]] and grandson of [[Peiraeus]]. He keeps the king's horses close while Agamemnon goes through the army on foot (4.226–230).
 aliases: [Eurymedon son of Ptolemaeus]
+# Εὐρυμέδων at 8.114 is Nestor's attendant (as at 11.620), not Agamemnon's charioteer.
 grc: [Εὐρυμέδων]
+except: [8.114]
 relations:
   - master: agamemnon (4.227-228)
   - father: ptolemaeus (4.228)

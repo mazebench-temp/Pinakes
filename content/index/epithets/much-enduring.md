@@ -1,18 +1,18 @@
 ---
 title: Much-enduring
-greek: πολυτλήμων
+greek: πολύτλας, πολυτλήμων
 kind: epithet
-tags: [heroic-epithet, mind, rare-word]
-summary: “Enduring much, daring much,” an epithet of the heart that holds firm, used once in the Iliad of Nestor's heart and once in the Odyssey by Odysseus of himself.
-aliases: [polytlemon, much-daring, long-suffering]
+tags: [heroic-epithet, mind]
+summary: “Enduring much, daring much”: πολύτλας, the epithet of Odysseus in the formula πολύτλας δῖος Ὀδυσσεύς, five times in the Iliad and thirty-seven in the Odyssey; and πολυτλήμων, of the heart that holds firm, once in the Iliad of Nestor's heart and once in the Odyssey by Odysseus of himself.
+aliases: [polytlas, polytlemon, much-daring, long-suffering]
 grc: [πολυτλήμων]
 en: [much-enduring]
-of: [nestor]
+of: [odysseus, nestor]
 ---
 
 ## Meaning
 
-πολυτλήμων = πολύς (“much”) + τλήμων (“enduring, daring”), from the root of τλῆναι, which means both “endure” and “dare, bring oneself to do.” The root runs through the words of Odysseus' endurance: he is πολύτλας, “much-enduring,” in the formula πολύτλας δῖος Ὀδυσσεύς (five times in the Iliad, often in the Odyssey), and ταλασίφρων, “enduring of heart” ([[stout-hearted]]). In the Iliad he is “he of the enduring spirit” (5.670; τλήμονα θυμὸν ἔχων), and in the Doloneia he is “daring Odysseus” (ὁ τλήμων Ὀδυσεύς, 10.231, 10.498).
+πολυτλήμων = πολύς (“much”) + τλήμων (“enduring, daring”), from the root of τλῆναι, which means both “endure” and “dare, bring oneself to do.” The root runs through the words of Odysseus' endurance: he is πολύτλας, “much-enduring,” in the formula πολύτλας δῖος Ὀδυσσεύς (five times in the Iliad, from 8.97 on, and thirty-seven times in the Odyssey), and ταλασίφρων, “enduring of heart” ([[stout-hearted]]). In the Iliad he is “he of the enduring spirit” (5.670; τλήμονα θυμὸν ἔχων), and in the Doloneia he is “daring Odysseus” (ὁ τλήμων Ὀδυσεύς, 10.231, 10.498).
 
 πολυτλήμων itself occurs twice in Homer. Nestor uses it of his own heart here, and in the Odyssey the disguised Odysseus tells Penelope's maids that he will keep the torches burning all night, since he is “very much-enduring” (πολυτλήμων δὲ μάλʼ εἰμί, Od. 18.319).
 

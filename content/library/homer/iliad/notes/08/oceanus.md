@@ -1,0 +1,5 @@
+---
+summary: The second day of battle ends when "the bright light of the sun fell into Oceanus, drawing black night over the grain-giving earth".
+---
+
+In Book 7 the sun rose out of "gently flowing, deep-streaming Oceanus" on the morning of the truce for the dead (7.421–423). In Book 8 it sets in the same river: "And the bright light of the sun fell into Oceanus, / drawing black night over the grain-giving earth" (8.485–486; see [[helios]] and [[grain-giving]]). Oceanus runs around the edge of the world, as it runs around the rim of Achilles' shield (18.607–608), and the sun goes down into it in the west and comes up out of it in the east. ἐν δʼ ἔπεσʼ, "fell into", is said nowhere else of the sun; Hector "fell upon" the fighting in the same words, like a storm falling on the sea (11.297). The light "draws" the night after it (ἕλκον), as if the setting sun pulled darkness over the fields. In Book 18 Hera hurries the sun down into "the streams of Oceanus" before its time, to end another day of Trojan victory (18.239–240; see [[war-and-night]] and [[sunset-lines]]).

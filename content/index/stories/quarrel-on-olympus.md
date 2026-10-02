@@ -5,18 +5,14 @@ kind: story
 period: iliad
 mode: narrated
 tags: [divine-scene, repetition]
-summary: Hera guesses what Zeus has promised Thetis and taunts him. He silences her with a threat of violence. Their son Hephaestus makes peace with a cup and a story, and the gods laugh and feast until sunset.
-participants: [zeus, hera, hephaestus, olympians, apollo, muses]
+summary: Zeus and Hera quarrel before the gods over the war. In Book 1 Hera taunts him over his promise to Thetis and is silenced by a threat until Hephaestus makes peace; in Book 8 Zeus mocks her and Athena when he has turned back their chariot, and answers her with the prophecy of the battle at the ships.
+participants: [zeus, hera, athena, hephaestus, olympians, apollo, muses]
 passages:
   - 1.531-611 | The quarrel on Olympus
 ---
 
-{{quote:c02c6738-99a7-5b87-b716-012e4fbe52a4}}
+## The story
 
-{{quote:e624a659-6009-579a-a8c5-86c82a303884}}
+Zeus and Hera quarrel before the gods more than once over the war. In Book 1 Hera guesses what he has promised Thetis and taunts him; he silences her with a threat, and their son Hephaestus makes peace with a cup and a story, and the gods laugh and feast until sunset (1.531–611). In Book 8 Zeus comes back from Ida and mocks Hera and Athena, whose chariot Iris has turned back, and answers Hera with the prophecy of the battle at the ships (8.438–484). The quarrel flares again when Hera deceives Zeus on Ida and he wakes to threaten her, reminding her how he once hung her from the sky with anvils on her feet (14.153–15.33). See [[zeus]], [[hera]] and [[the-gods-mirror-the-mortals]].
 
-{{quote:57cd0576-9118-5203-923c-c01942e7b421}}
-
-## In the poem
-
-Book 1 ends by repeating its first quarrel among the gods, and resolving it. On earth a king took a prize and a warrior withdrew, and an old man's advice failed. On Olympus the king threatens, the queen yields, and a son's joke restores the feast. The difference is the point: the gods' quarrels cost them nothing lasting, and they quarrel, in Hephaestus' words, "for the sake of mortals" (1.574). See [[the-gods-mirror-the-mortals]] and [[laughter-of-the-gods]].
+{{notes}}

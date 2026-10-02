@@ -12,7 +12,7 @@ of: [horses]
 
 ## Meaning
 
-αἴθων is formed from αἴθω (“burn, blaze”), the root of αἰθήρ (“the bright upper air”; [[dwelling-in-the-upper-air]]). It describes a color or a glint like fire: the reddish brown of a lion's or an ox's hide, the sheen of iron (αἴθωνι σιδήρῳ) or of bronze cauldrons. Of animals it may also suggest fiery spirit. The translation renders it “tawny.” One of Hector's horses is called Αἴθων, “Blaze” (Il. 8.185).
+αἴθων is formed from αἴθω (“burn, blaze”), the root of αἰθήρ (“the bright upper air”; [[dwelling-in-the-upper-air]]). It describes a color or a glint like fire: the reddish brown of a lion's or an ox's hide, the sheen of iron (αἴθωνι σιδήρῳ) or of bronze cauldrons. Of animals it may also suggest fiery spirit. The translation renders it “tawny.” One of Hector's four horses bears the word as his name, Aethon (Αἴθων, 8.185; [[the-horses-of-hector]]).
 
 ## Use
 

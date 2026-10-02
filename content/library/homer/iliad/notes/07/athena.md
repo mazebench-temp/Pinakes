@@ -18,4 +18,4 @@ She says she came with the same thing in mind. The narrator gave another reason:
 
 **Nestor's goddess.** Nestor's wish, “If only, father Zeus and Athena and Apollo” (7.132), is a formula of the Iliad (2.371, 4.288, 16.97; see [[if-only-father-zeus]]). But his story makes her his own helper: against Ereuthalion, “I fought him, and Athena gave me triumph” (7.154; see [[nestor-and-ereuthalion]]). In the longer tale of his youth she brings the Pylians word of the enemy by night, leads the fight, and turns the army back when it is won (11.714–761). Hector put his hope in almost the same words, with another god: “and Apollo gives me triumph” (7.81). Each speaker names the god who stands by his side.
 
-**The next day.** In Book 8 Zeus forbids the gods to help either side. Athena answers that she will keep out of the fighting but give the Argives counsel, “so that they may not all perish” (8.35–37).
+**The next day.** In Book 8 Zeus forbids the gods to help either side. Athena answers that she will keep out of the fighting but give the Argives counsel, “so that they do not all perish” (8.35–37).

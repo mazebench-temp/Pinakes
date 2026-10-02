@@ -3,9 +3,9 @@ title: Irresistible hands
 greek: ἄαπτοι χεῖρες
 kind: epithet
 tags: [divine-epithet, body]
-summary: The hands that [[Zeus]] threatens to lay on Hera (1.567): “untouchable, not to be withstood.”
+summary: “Untouchable, not to be withstood”: the hands of [[Zeus]], which he threatens to lay on Hera and of which he boasts to Hera and Athena, and in a formula of might the hands of great warriors.
 aliases: [invincible hands, aaptos]
-grc: [ἀάπτους χεῖρας]
+grc: [ἀάπτους χεῖρας, χεῖρας ἀάπτους]
 en: [irresistible hands]
 of: [zeus]
 ---

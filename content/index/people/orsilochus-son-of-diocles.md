@@ -7,6 +7,7 @@ summary: The twin brother of [[Crethon]], son of [[Diocles]] of Pherae, killed w
 aliases: [Orsilochus, Orsilokhos]
 # Ὀρσίλοχον at 8.274 is a Trojan killed by Teucer.
 grc: [Ὀρσίλοχον, Ὀρσίλοχος]
+except: [8.274]
 en: [Orsilochus]
 refs: [5.543, 5.548, 5.550-553, 5.559-561, 5.573-574]
 relations:

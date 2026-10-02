@@ -6,8 +6,8 @@ tags: [achaean, elder, king, assembly]
 summary: The γέροντες, the senior kings whom [[Agamemnon]] calls to council and to his table. The word means “old men”, but it marks rank rather than age: the young [[Diomedes]] is one of them.
 aliases: [the elders, council of elders, gerontes]
 grc: [γερόντων, γέροντας]
-# γερόντων at 4.323 is old men in general ("the prize of the old"), not the council.
-except: [4.323, 6.113]
+# γερόντων at 4.323 and γέροντας at 8.518 (the old men on the walls) are old men in general, not the council.
+except: [4.323, 6.113, 8.518]
 en: [elders]
 passages:
   - 2.53-83 | The council of elders
