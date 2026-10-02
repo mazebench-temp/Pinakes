@@ -14,11 +14,11 @@ passages:
 
 {{quote:c805a82b-1290-50fa-8f36-621d655d95d6}}
 
-The Catalogue gives the fact and no more: [[Meleager]] was dead, like the other sons of [[Oeneus]] and like Oeneus himself. Homer never tells how he died. In Book 9 Phoenix ends Meleager's story when he saves Calydon without receiving the gifts (9.598–599), but he has already told of the curse of Meleager's mother Althaea, who called on Hades and Persephone "to give her son to death", and of the Erinys "who walks in darkness" hearing her from Erebus (9.566–572). The audience is left to supply the end.
+The Catalogue gives the fact and no more: [[Meleager]] was dead, like the other sons of [[Oeneus]] and like Oeneus himself. Homer never tells how he died. In Book 9 Phoenix ends Meleager's story when he saves Calydon without receiving the gifts (9.598–599), but he has already told of the curse of Meleager's mother Althaea, who called on Hades and Persephone "to give death to her son", and of the Erinys "who walks in darkness" hearing her from Erebus (9.566–572). The audience is left to supply the end.
 
 ## In the poem
 
-The note explains why [[Thoas]] leads the [[Aetolians]]: the old royal house of Calydon has died out. It also looks back to the heroic generation before the war, the generation of Tydeus, which the Iliad remembers as greater and more reckless than its own. Meleager returns in Book 9, where his wrath is set before Achilles as a warning.
+The note explains why [[Thoas]] leads the [[Aetolians]]: the old royal house of Calydon has died out. It also looks back to the heroic generation before the war, the generation of Tydeus, which the Iliad remembers as greater and more reckless than its own. Meleager returns in Book 9, where his wrath is set before Achilles as a warning (see [[the-wrath-of-meleager]]).
 
 ## Outside Homer
 

@@ -2,7 +2,7 @@
 title: The short life of Achilles
 kind: theme
 tags: [fate, foreshadowing]
-summary: [[Achilles]] knows his life will be short. In Book 1 he and [[Thetis]] call him μινυνθάδιος, “short-lived”, and ὠκύμορος, “swift-fated”, and his claim to honor rests on it.
+summary: [[Achilles]] knows that his life will be short, and the knowledge shapes what he does: he claims honor as its price, weighs fame against a long life at home, and takes the short road when he resolves to kill Hector.
 refs: [1.352, 1.353, 1.416, 1.417, 1.418, 1.505]
 passages:
   - 1.348-356 | Mother, since you bore me short-lived

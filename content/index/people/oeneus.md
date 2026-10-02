@@ -16,7 +16,7 @@ relations:
 
 ## Elsewhere in Homer
 
-In Phoenix's story, Oeneus forgot to offer the first fruits of the harvest to Artemis, and she sent the wild boar that ravaged Calydon (9.533–549; see [[meleager]]). He once entertained Bellerophon for twenty days and exchanged gifts with him, a belt of purple and a golden cup, which is why Diomedes and Glaucus are guest-friends (6.215–221). Diomedes gives his genealogy: Portheus had three sons, Agrius, Melas and Oeneus, who lived in Pleuron and steep Calydon, and Oeneus, the best of them, was the father of Tydeus (14.115–118).
+In Phoenix's story, Oeneus forgot to offer the first fruits of the harvest to Artemis, and she sent the wild boar that ravaged Calydon (9.533–549; see [[the-wrath-of-meleager]]). He once entertained Bellerophon for twenty days and exchanged gifts with him, a belt of purple and a golden cup, which is why Diomedes and Glaucus are guest-friends (6.215–221). Diomedes gives his genealogy: Portheus had three sons, Agrius, Melas and Oeneus, who lived in Pleuron and steep Calydon, and Oeneus, the best of them, was the father of Tydeus (14.115–118).
 
 ## Outside Homer
 

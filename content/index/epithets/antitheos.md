@@ -7,7 +7,7 @@ summary: “A match for the gods,” a general honorific of heroes, often of her
 aliases: [equal to the gods, antitheos]
 grc: [ἀντίθεον]
 en: [godlike]
-of: [polyphemus, mygdon, sarpedon]
+of: [polyphemus, mygdon, sarpedon, ajax]
 ---
 
 ## Meaning

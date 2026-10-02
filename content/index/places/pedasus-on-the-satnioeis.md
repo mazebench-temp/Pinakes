@@ -9,7 +9,7 @@ aliases: [Pedasos, steep Pedasus]
 # 9.294) and Achilles' trace horse (16.152, 16.467): except those lines. 21.87 is this town.
 grc: [Πήδασον]
 en: [Pedasus]
-except: [6.21]
+except: [6.21, 9.152, 9.294]
 passages:
   - 6.33-35 | Agamemnon kills Elatus
 ---

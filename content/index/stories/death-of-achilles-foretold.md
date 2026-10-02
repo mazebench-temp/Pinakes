@@ -5,7 +5,7 @@ kind: story
 period: aethiopis
 mode: foreshadowing
 tags: [foreshadowing, fate]
-summary: Achilles knows he will die young, and Thetis laments it. Book 1 names his fate three times, though his death falls outside the Iliad, in the Aethiopis.
+summary: Achilles knows he will die young. Thetis laments his short life, tells him of two fates, a long life at home or imperishable fame at Troy, and warns him that his death follows Hector's; the death itself falls outside the Iliad, in the Aethiopis.
 participants: [achilles, thetis]
 refs: [1.352, 1.416, 1.417, 1.418, 1.505]
 passages:
@@ -28,6 +28,10 @@ Thetis uses it before Zeus: "honor my son, who is swifter to his fate than any o
 
 The Iliad never shows Achilles' death, but it keeps it in view. The honor he seeks in Book 1 is the only compensation for a life cut short. See [[the-short-life-of-achilles]].
 
+## Elsewhere in Homer
+
+In Book 9 Achilles says his mother told him of two fates: to stay and fight at Troy, with imperishable fame but no homecoming, or to go home and live long without it (9.410–416; see [[the-two-fates-of-achilles]]). He learns he must die soon after Hector (18.95–96), and the dying Hector names his killers, Paris and Apollo, at the Scaean gates (22.359–360). The Odyssey describes his funeral (Od. 24.36–94).
+
 ## Outside Homer
 
-In Book 9 Achilles says his mother told him of two fates: to stay and fight at Troy and win undying glory but no homecoming, or to go home and live long without it (9.410–416). He learns he must die soon after Hector (18.95–96), and the dying Hector names his killers, Paris and Apollo, at the Scaean gates (22.359–360). The *Aethiopis* told of his death after he killed Memnon, and of Thetis snatching him from the pyre to the White Island. The Odyssey describes his funeral (24.36–94).
+The *Aethiopis* told of his death after he killed Memnon, and of Thetis snatching him from the pyre to the White Island.

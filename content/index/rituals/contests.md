@@ -13,7 +13,7 @@ passages:
 
 ## Meaning
 
-ἄεθλος (Attic ἆθλος) is a contest, and also a struggle or labor. Helen weaves into her cloth “the many trials” (ἀέθλους) that Trojans and Achaeans suffer for her (3.126), and Heracles' labors for Eurystheus are his ἄεθλοι (8.362–363, 19.133). ἄεθλον is the prize, ἀεθλεύω is to compete (4.389), and horses that have won prizes are ἀθλοφόροι, “prize-winning” (9.123–124).
+ἄεθλος (Attic ἆθλος) is a contest, and also a struggle or labor. Helen weaves into her cloth “the many trials” (ἀέθλους) that Trojans and Achaeans suffer for her (3.126), and Heracles' labors for Eurystheus are his ἄεθλοι (8.362–363, 19.133). ἄεθλον is the prize, ἀεθλεύω is to compete (4.389), and horses that have won prizes are ἀθλοφόροι, “prize-winners” (9.123–124).
 
 ## In Homer
 

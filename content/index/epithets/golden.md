@@ -14,7 +14,7 @@ of: [aphrodite]
 
 χρύσεος (epic also χρύσειος) is the adjective of χρυσός (“gold”). Gold belongs to the gods: their houses, thrones, cups and sandals are golden ([[gold-and-silver]]). Of Aphrodite it probably means radiant, shining as gold shines.
 
-“Golden Aphrodite” is the standard of beauty in comparisons. Briseis mourning Patroclus is “like golden Aphrodite” (Il. 19.282), and so is Cassandra when she sees her father bring Hector home (Il. 24.699). Achilles will not marry Agamemnon's daughter “even if she rivaled golden Aphrodite in beauty” (Il. 9.389). In the Odyssey, Hermione, the daughter Helen left behind, “had the looks of golden Aphrodite” (Od. 4.14).
+“Golden Aphrodite” is the standard of beauty in comparisons. Briseis mourning Patroclus is “like golden Aphrodite” (Il. 19.282), and so is Cassandra when she sees her father bring Hector home (Il. 24.699). Achilles will not marry Agamemnon's daughter, “not if she rivaled golden Aphrodite in beauty” (Il. 9.389). In the Odyssey, Hermione, the daughter Helen left behind, “had the looks of golden Aphrodite” (Od. 4.14).
 
 ## Use
 

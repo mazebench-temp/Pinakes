@@ -7,14 +7,14 @@ summary: The chief city of Boeotia, the city of the Cadmeians and of Oedipus, �
 aliases: [Thebai, Thebae, Boeotian Thebes]
 grc: [Θήβης]
 # Θήβης at 2.691 is Thebe in the Troad (thebe).
-except: [2.691]
+except: [2.691, 9.381]
 ---
 
 {{quote:962da432-0690-53a3-9676-5c0e0b672ce4}}
 
 ## Name
 
-Homer calls the city both Θήβη (4.378, 4.406) and Θῆβαι (5.804, 6.223). The name has no Greek etymology. Two other cities bear it: [[thebe|Thebe]] under Placus in the Troad, the city of Eetion that Achilles sacked (1.366), and Egyptian Thebes, a city of a hundred gates, where “the most treasures lie in the houses” (9.381–384); the Odyssey says the same of it (Od. 4.126–127). Boeotian Thebes is “seven-gated” (ἑπτάπυλος, 4.406; Od. 11.263; see [[seven-gated]]).
+Homer calls the city both Θήβη (4.378, 4.406) and Θῆβαι (5.804, 6.223). The name has no Greek etymology. Two other cities bear it: [[thebe|Thebe]] under Placus in the Troad, the city of Eetion that Achilles sacked (1.366), and Egyptian Thebes, a city of a hundred gates, where “the most treasures lie stored in the houses” (9.381–384); the Odyssey says the same of it (Od. 4.126–127). Boeotian Thebes is “seven-gated” (ἑπτάπυλος, 4.406; Od. 11.263; see [[seven-gated]]).
 
 ## In Homer
 

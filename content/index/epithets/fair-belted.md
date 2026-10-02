@@ -7,7 +7,7 @@ summary: “Well-girdled,” an epithet of women: of [[Briseis]] as Achilles gri
 aliases: [well-girdled, euzonos]
 grc: [ἐϋζώνοιο]
 en: [fair-belted]
-of: [briseis, handmaids]
+of: [briseis, handmaids, captive-women, cleopatra, iphis]
 ---
 
 ## Meaning

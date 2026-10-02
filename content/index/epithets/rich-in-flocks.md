@@ -1,10 +1,10 @@
 ---
 title: Rich in flocks
-greek: πολύαρνι, πολύμηλος
+greek: πολύαρνι, πολύμηλος, πολύρρην
 kind: epithet
 tags: [heroic-epithet, livestock]
-summary: “Rich in lambs” and “rich in sheep,” two epithets of wealth in flocks, given to [[Thyestes]], to [[Iphiclus]], and to the Arcadian town of [[orchomenus-arcadia|Orchomenus]].
-aliases: [rich in sheep, polyarni, polymelos]
+summary: Epithets of wealth in sheep and lambs, πολύαρνι, πολύμηλος and πολύρρην, all rendered “rich in flocks,” given to men and to a town.
+aliases: [rich in sheep, polyarni, polymelos, polyrrhen]
 grc: [πολύαρνι, πολύμηλον, πολυμήλου]
 en: [rich in flocks]
 of: [thyestes, orchomenus-arcadia, iphiclus]

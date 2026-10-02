@@ -3,11 +3,11 @@ title: Of the golden throne
 greek: χρυσόθρονος
 kind: epithet
 tags: [divine-epithet]
-summary: The last epithet of Book 1: [[Hera]] “of the golden throne” sleeps beside Zeus (1.611).
+summary: “Of the golden throne,” an epithet of goddesses: of [[Hera]] and [[Artemis]] in the Iliad, and in the Odyssey of Dawn.
 aliases: [golden-throned, chrysothronos]
 grc: [χρυσόθρονος]
 en: [of the golden throne]
-of: [hera]
+of: [hera, artemis, eos]
 ---
 
 ## Meaning

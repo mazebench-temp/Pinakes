@@ -3,7 +3,7 @@ title: Spits
 greek: ὀβελός
 kind: object
 tags: [sacrifice, feast]
-summary: The spits on which the meat of sacrificial victims is roasted for the feast that follows a sacrifice.
+summary: The spits (ὀβελοί) on which meat is threaded and roasted over the embers, for the feast that follows a sacrifice or for a meal given to guests.
 aliases: [spit, obeloi]
 grc: [ὀβελοῖσιν]
 en: [spits]

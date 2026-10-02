@@ -3,11 +3,11 @@ title: Gray
 greek: πολιός
 kind: epithet
 tags: [sea]
-summary: “Gray, whitish,” an epithet of the [[sea]] in the two linked scenes of Achilles on the shore and Thetis rising to him (1.350, 1.359).
+summary: “Gray, whitish,” the color of the [[sea]] near the shore, of old men's hair and of iron.
 aliases: [grey, polios]
 grc: [πολιῆς]
 en: [gray]
-of: [sea]
+of: [sea, iron]
 ---
 
 ## Meaning

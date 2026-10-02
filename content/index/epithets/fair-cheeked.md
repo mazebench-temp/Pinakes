@@ -7,7 +7,7 @@ summary: “With beautiful cheeks,” an epithet of women and goddesses: the cap
 aliases: [lovely-cheeked, kallipareos]
 grc: [καλλιπάρῃον]
 en: [fair-cheeked]
-of: [chryseis, briseis, theano]
+of: [chryseis, briseis, theano, diomede]
 ---
 
 ## Meaning

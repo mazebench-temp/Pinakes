@@ -3,7 +3,7 @@ title: Briseus
 greek: Βρισεύς
 kind: person
 tags: [troad-local]
-summary: Father of [[Briseis]], named only once in Book 1, in the phrase "the daughter of Briseus".
+summary: Father of [[Briseis]], known only from the phrase κούρη Βρισῆος, “the daughter of Briseus”, by which Achilles, Agamemnon and Odysseus name her (1.392, 9.132, 9.274).
 grc: [Βρισῆος]
 en: [Briseus]
 relations:

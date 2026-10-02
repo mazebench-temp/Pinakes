@@ -1,0 +1,5 @@
+---
+summary: Zeus is “son of Cronus” as the god who has blinded Agamemnon and given him only half, as the god of Nestor's prayer and of the Trojans' signs, and as the father to whom the Prayers go.
+---
+
+Book 9 names Zeus by his father five times, each time as the god who decides. Agamemnon begins: “Zeus, son of Cronus, has bound me fast in heavy blind folly” (9.18), the verse with which he tested the army in Book 2 (2.111; [[ate]]). Diomedes answers that “the son of crooked-counseling Cronus has given you only half,” the scepter without courage (9.37–39; [[crooked-counseling]]). Nestor has the envoys keep holy silence “so that we may pray to Zeus, son of Cronus, if he will have pity” (9.172; [[prayer]]). Odysseus tells Achilles that “Zeus, son of Cronus, shows them signs on the right with his lightning,” for the Trojans (9.236–237). In Phoenix's allegory the Prayers, refused, “go to Zeus, son of Cronus, and pray” that Blind Folly may follow the man who refused them (9.511–512; [[litai]]). See [[zeus]].

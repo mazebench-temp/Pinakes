@@ -4,7 +4,7 @@ greek: Θρῇκες
 kind: people
 tags: [trojan, thracian, thrace]
 summary: The peoples of Thrace, north of the Aegean. In the Trojan catalogue [[acamas-of-thrace|Acamas]] and [[Peirous]] lead those "whom the Hellespont encloses"; more Thracians come later under King Rhesus.
-aliases: [Threikes, Thracian, Thrace]
+aliases: [Threikes, Thracian]
 grc: [Θρήϊκ*]
 en: [Thracians, Thracian]
 ---

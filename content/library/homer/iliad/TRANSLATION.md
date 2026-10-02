@@ -27,8 +27,8 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | τιμή, τίω, τιμάω | honor, pay honor | 1.159 τιμή = "satisfaction" (compensation) |
 | ἀτιμάζω, ἀτιμάω, ἄτιμος | dishonor, dishonored | |
 | γέρας | prize | the prize of honor from the spoils |
-| ἄποινα | ransom | |
-| ἄτη | blind folly | |
+| ἄποινα | ransom | also Agamemnon's amends, ἀπερείσια ἄποινα "a boundless ransom" (9.120 = 19.138) |
+| ἄτη | blind folly | "Blind Folly", capitalized where she is personified beside the Prayers (9.504–512); ἀάω "be blinded" (9.116, 9.119, 9.537) |
 | λοιγός | ruin | νοῦσος "sickness", λοιμός "plague" |
 | ἄλγος, ἄλγεα | sorrow, sorrows | "pains" where the suffering is bodily (2.721) |
 | ἑκατόμβη | hecatomb | |
@@ -38,7 +38,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἵμερος, ἔρος (ἔρως) | longing, desire | kept apart: "sweet longing" 3.139, 3.446; "desire" 3.442 |
 | αἴτιος, αἰτίη | to blame | |
 | νέμεσις | blame | "There is no blame" (3.156) |
-| ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290); "recompense", the price Zeus paid for Ganymede (5.266) |
+| ποινή | penalty | τιμή in the same passage is "satisfaction" (3.286–290); "recompense", the price Zeus paid for Ganymede (5.266); the blood-price a killer pays, "the penalty" (9.633, 9.636) |
 | δράκων | serpent | |
 | κουλεόν, κολεόν | sheath | |
 | ἔρις / νεῖκος | strife / quarrel | kept apart: Strife "cast the quarrel" (4.444) |
@@ -50,7 +50,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | μένος | might; fury | "might", the power a god puts in a man (5.2, 5.125, 5.513) or a man has (5.254, 5.472); "fury" where it is rage (1.207, 5.136, 5.892); "strength" of the life that leaves a victim (3.294; λύθη ψυχή τε μένος τε "his soul and his strength were loosed", 5.296) |
 | φόβος | rout; flight | "rout", panic flight (5.272 μήστωρε φόβοιο "masters of rout"); "flight" of one man's retreat (5.252) |
 | θάρσος | daring | 5.2 |
-| ψυχή | soul | 1.3, 5.296, 5.654, 5.696 |
+| ψυχή | soul; life | "soul" (1.3, 5.296, 5.654, 5.696; 9.408, the soul that passes the teeth); "life" where it is staked or valued (9.322, 9.401) |
 | ἀχλύς | mist | the mist over the eyes (5.127, 5.696) |
 | ἰχώρ | ichor | the gods' blood (5.340, 5.416) |
 | εἴδωλον | phantom | 5.449–453 |
@@ -77,6 +77,15 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | θέσφατον | decreed | ὣς γὰρ θέσφατόν ἐστι "For so it is decreed" (8.477); θέσφατα "oracles" (5.64) |
 | ἀρετή | prowess | ἣν ἀρετὴν διαείσεται "he will learn his own prowess" (8.535) |
 | ἠώς | dawn; morning | the goddess Dawn (8.1); "morning" (8.66); ἠοῦς "at dawn" (8.470, 8.525) |
+| φύζα, φόβος (personified) | Panic, Rout | θεσπεσίη … φύζα φόβου κρυόεντος ἑταίρη "heaven-sent Panic, companion of chilling Rout" (9.2), printed lowercase in the Greek |
+| θεσπέσιος | wondrous; heaven-sent | "wondrous" of song and din (2.600, 8.159); θεσπεσίῃ "by the will of heaven" (2.367); "heaven-sent Panic" (9.2) |
+| λιταί | the Prayers | the daughters of Zeus (9.502–512), printed lowercase; beside them ἄτη is "Blind Folly" |
+| κλέος, κλέα | fame; famous deeds | κλέος ἄφθιτον "imperishable fame" (9.413), κλέος ἐσθλόν "noble fame" (5.3, 9.415); κλέα ἀνδρῶν "the famous deeds of men" (9.189, 9.524); κῦδος is "glory" |
+| θέμις / θέμιστες | custom / ordinances | ἣ θέμις ἐστί "as is the custom" (2.73, 9.33, 9.134, 9.276); θέμιστες "ordinances" (1.238, 2.206, 9.99, 9.156) |
+| νόστος | homecoming | 9.413, 9.434, 9.622 |
+| μοῖρα, αἶσα | share, portion; fate | ἴση μοῖρα "the same share" (9.318); κατὰ μοῖραν "fair and right" (1.286 = 8.146, 9.59); Διὸς αἴσῃ "by the portion of Zeus" (9.608); see 6.487 |
+| λώβη | insult | θυμαλγέα λώβην "heart-grieving insult" (9.387), as λωβήσαιο (1.232) |
+| ἀμείλιχος | implacable | Hades (9.158), the Erinys (9.572); μειλίχιος is "soothing" (9.113) |
 
 ## Epithets and formulas
 
@@ -263,6 +272,23 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | νὺξ ἐρεβεννή | the murky night (5.659, 8.488) |
 | ὣς ἄρα φωνήσας (-σα) | So he (she) spoke, and (1.428 … 7.303, 8.157, 8.432) |
 | τάφρος ὀρυκτή | the ditch they have dug (8.179) |
+| οἳ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον | And they put out their hands to the good things lying ready before them (9.91, 9.221) |
+| ὣς φάτο, τοῖσι δὲ πᾶσιν ἑαδότα μῦθον ἔειπεν | So he spoke, and the word he spoke was pleasing to them all (9.173) |
+| αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιόν θʼ ὅσον ἤθελε θυμός | But when they had poured libations and drunk as much as their hearts desired (9.177) |
+| γέρων ἱππηλάτα Πηλεύς / Φοῖνιξ / Οἰνεύς | the old horse-driving Peleus / Phoenix / Oeneus (7.125, 9.438; 9.432; 9.581) |
+| γαιήοχος ἐννοσίγαιος | the earth-holder, the shaker of the earth (9.183) |
+| Ἄργος Ἀχαιϊκόν, οὖθαρ ἀρούρης | Achaean Argos, the udder of the plowland (9.141, 9.283) |
+| εὖ ναιόμενα πτολίεθρα | well-peopled citadels (9.149, 9.291), as εὖ ναιόμενον πτολίεθρον (1.164, 9.402) |
+| Φθίη ἐριβῶλαξ, μήτηρ μήλων | deep-soiled Phthia, mother of flocks (9.479) |
+| Ἑλλὰς καλλιγύναιξ / εὐρύχορος | Hellas of the lovely women (2.683, 9.447) / with its wide dancing floors (9.478) |
+| θεοῖς ἐπιείκελʼ Ἀχιλλεῦ | Achilles, like the gods (9.485, 9.494) |
+| χρυσόθρονος Ἄρτεμις / δῖον γένος ἰοχέαιρα | Artemis of the golden throne / the divine child, she of the showering arrows (9.533, 9.538) |
+| ἐπαινὴ Περσεφόνεια / Ζεὺς καταχθόνιος / ἠεροφοῖτις Ἐρινύς | dread Persephone / Zeus of the underworld / the Erinys who walks in darkness (9.457, 9.569, 9.571) |
+| πολύαινʼ Ὀδυσεῦ, μέγα κῦδος Ἀχαιῶν | much-praised Odysseus, great glory of the Achaeans (9.673) |
+| φόρμιγξ λίγεια | a clear-toned lyre (9.186) |
+| πῦρ ἀΐδηλον / δήϊον πῦρ | the destroying fire (2.455, 9.436) / the consuming fire (6.331, 9.347, 9.674) |
+| ὁμοίϊος πόλεμος / πόλεμος φθισήνωρ | war, common to all (9.440) / man-destroying war (2.833, 9.604) |
+| Φοῖνιξ ἄττα γεραιὲ διοτρεφές | Phoenix, old father, nurtured by Zeus (9.607) |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -328,8 +354,9 @@ Cyparisseis); where two places share a name, the index keeps them apart.
   "arrow-fighters".
 - **4.273, 4.280, 4.285** — Αἴαντε, dual: the two Ajaxes, as rendered. The view that the dual once meant
   Ajax and his brother Teucer is a theory only.
-- **4.315, 4.444** — ὁμοίϊος, of old age and of strife: "common to all" (the ancient gloss) or
-  "grievous". Rendered "the common lot" and "common to all".
+- **4.315, 4.444, 9.440** — ὁμοίϊος, of old age, of strife and of war (ὁμοιΐου πολέμοιο, also 13.358, 13.635,
+  15.670, 18.242, 21.294; Od. 18.264, 24.543): "common to all" (the ancient gloss) or "grievous". Rendered "the
+  common lot", "common to all", and "war, common to all".
 - **4.371, 8.378, 8.553** — πολέμοιο (πτολέμοιο) γεφύρας, "the bridges of war" (also 11.160, 20.427): the
   lanes between the ranks, or the passages of battle. At 8.553 the Trojans sit all night ἐπὶ πτολέμοιο
   γεφύρας, so the phrase names ground on the plain. Rendered literally.
@@ -473,3 +500,64 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **8.548, 8.550–552** — Not in the manuscripts. The verses are known from the Second Alcibiades ascribed to Plato (149d–e), which reports in indirect speech that the Trojans, as they made camp, offered perfect hecatombs, and the winds carried the savor to heaven, but the gods took no share of it, for Ilios, Priam and his people were hateful to them; editors print the four verses missing from the manuscripts in brackets. The gods' refusal sits against Zeus' word that of all cities he honored Ilios most and that his altar never lacked its share of the feast (4.44–49); 8.552 is 4.47. Rendered in brackets.
 - **8.553** — μέγα φρονέοντες, "thinking big": high-spirited and confident, as of Hector (11.296), Deiphobus (13.156), Achilles (22.21) and the Myrmidons (16.258), and of beasts that fight (11.325, 16.758, 16.824). Rendered "in high spirits". (πτολέμοιο γεφύρας: see 4.371.)
 - **8.557–558** (= 16.299–300) — There Zeus moves a thick cloud from a mountain peak and the sky breaks open above it (16.297–300). Here the air is already windless (8.556), and the sky "breaking open" suits the clearing of a cloud better than a still night; the two verses are reported to have been rejected here in antiquity. Rendered as transmitted.
+- **9.4–7** — Βορέης καὶ Ζέφυρος, τώ τε Θρῄκηθεν ἄητον: the North Wind and the West Wind both "blow from Thrace". Seen from the coast of Asia Minor, Thrace lies north and northwest across the sea, and after fanning Patroclus' pyre both winds go home "over the Thracian sea" (23.229–230). Rendered literally.
+- **9.14–15** (= 16.3–4) — κατʼ αἰγίλιπος πέτρης: αἰγίλιψ (also 13.63; the town Αἰγίλιψ, 2.633) is taken as "sheer", a rock that even goats leave (αἴξ, λείπω). Rendered "a sheer rock".
+- **9.17–28** — Agamemnon proposes in earnest the flight he proposed as a test in Book 2: 9.18–25 repeat 2.111–118 (τότε for πρίν in 9.19), 9.26–28 repeat 2.139–141, and 9.17 is the address of 2.79. The repeated verses keep the English of Book 2.
+- **9.32–33** — σοὶ πρῶτα μαχήσομαι ἀφραδέοντι: the participle agrees with σοί ("with you, in your folly"), and μάχομαι is a contest of words, as at 1.304 and 2.377; ἣ θέμις ἐστὶν ἄναξ ἀγορῇ claims a speaker's right in the assembly, with ἄναξ vocative. Rendered "I will fight with you first, for your folly" and "as is the custom, my lord, in the assembly".
+- **9.56** — οὐ τέλος ἵκεο μύθων, "you have not come to the goal of your words": Diomedes has spoken well but has not drawn the conclusion, which Nestor now supplies (9.60–78); some take it, with 9.57–58, of the young man's want of full mastery in speech. Rendered "you have not reached the end of the matter".
+- **9.63–64** — ἀφρήτωρ ἀθέμιστος ἀνέστιος: a man with no phratry (clan), no θέμιστες and no hearth, an outcast from kin, law and home; ἀφρήτωρ and ἀνέστιος occur only here, and Aristotle quotes the verse of the man who is by nature without a city (Politics 1.2, 1253a5). πόλεμος ἐπιδήμιος is war "among one's own people" (ἐπιδήμιος "at home", Od. 1.194, 1.233; 24.262), aimed at the strife among the Achaeans; ὀκρυόεντος as at 6.344. Rendered "Without clan, without law, without hearth" and "war among his own people, that chilling thing".
+- **9.97** — ἐν σοὶ μὲν λήξω, σέο δʼ ἄρξομαι: the language of hymns, which begin and end with the god (Hesiod, Theogony 34; Homeric Hymn 21.4; Theocritus 17.1); Nestor names the end first. Rendered "with you I shall end, and with you I shall begin".
+- **9.102** — σέο δʼ ἕξεται ὅττί κεν ἄρχῃ: "whatever another proposes will depend on you", the decision being Agamemnon's, with ἄρχῃ third person and τινα (9.101) its subject; ἄρχῃ can also be second person middle, "whatever you begin". Rendered "whatever he begins will rest with you".
+- **9.115–120** — ἐμὰς ἄτας … ἀασάμην (9.116, 9.119): Agamemnon owns his blind folly here without the excuse he makes at 19.86–94, where he blames Zeus, Fate, the Erinys and Ate herself; 9.120 recurs at 19.138. ἀπερείσια ἄποινα, the "boundless ransom" brought for a captive (1.13, 6.427, 24.502), is here the amends offered for an insult; the fixed English "ransom" lets its other uses show. Rendered "blind folly", "I was blinded", "a boundless ransom".
+- **9.125** (= 9.267) — ἀλήϊος (only in these two lines): from λήϊον, "cornland" (βαθὺ λήϊον, 2.147), "without land"; it has also been derived from ληΐς, "booty", "without spoil". Either way such a man would not be poor. Rendered "landless".
+- **9.140** — αἴ κε μετʼ Ἀργείην Ἑλένην κάλλισται ἔωσιν: the text prints αἴ κε, "if (they) are", here, and the relative αἵ κε, "who are", in Odysseus' repetition (9.282). The sense is the same. Rendered alike, "the most beautiful after Argive Helen".
+- **9.141** (= 9.283) — Ἄργος … Ἀχαιϊκὸν οὖθαρ ἀρούρης, "Achaean Argos, the udder of the plowland": the richest farmland, Agamemnon's realm or the Peloponnese at large. The metaphor occurs only here (οὔθατα, a ewe's udders, Od. 9.440); ἀρούρης is "plowland" as at 6.195. Rendered literally.
+- **9.145** (= 9.287) — Chrysothemis, Laodice and Iphianassa: Homer never names Iphigenia or tells of a sacrifice at Aulis. Later writers sometimes make Iphianassa another name for Iphigenia (Lucretius 1.85) and sometimes a living sister (Sophocles, Electra 157, with Chrysothemis). Rendered "Iphianassa".
+- **9.146–147** (= 9.288–289) — ἀνάεδνον, "without bride-price": ἕδνα are the gifts a suitor gives for a bride (16.178, 22.472; Othryoneus asks for Cassandra ἀνάεδνον, 13.366). μείλια (only here and 9.289), "gifts to soothe", are the father's gifts sent with the bride, like the ἔεδνα "that should go with a dear daughter" (Od. 1.277–278 = 2.196–197). Rendered "without bride-price" and "a dowry".
+- **9.150–153** (= 9.292–295) — The seven cities lie "near the sea, νέαται Πύλου", at the edge of sandy Pylos (νέατος "lowest, outermost"); later writers placed them around the Messenian Gulf. None of them is named in the Catalogue of Ships, and only Pherae appears again, as the town of Diocles (5.543; Od. 3.488 = 15.186). How Agamemnon can give them is not said. Rendered "on the borders of sandy Pylos".
+- **9.156** (= 9.298) — λιπαρὰς τελέουσι θέμιστας: the people "will fulfill rich θέμιστες under his scepter", usually taken as paying rich dues, what the ruler's ordinances assign (θέμιστες with the scepter, 9.99), or as carrying out his ordinances in prosperity. Rendered "bring his ordinances to rich fulfillment".
+- **9.158–161** — δμηθήτω and ἀδάμαστος (both from the root of δαμάζω) are kept as "tamed" and "untamable", and ἀμείλιχος, "not to be soothed", answers μειλιχίοισι (9.113). Agamemnon's close, that Achilles "submit to me, inasmuch as I am more kingly … and the elder", is left out when Odysseus repeats the offer (9.264–299), who ends instead with pity for the Achaeans and glory in killing Hector (9.300–306); Achilles' "one … who is more kingly" (βασιλεύτερος, 9.392) answers the word that Odysseus kept back. Rendered as transmitted.
+- **9.168–170** — Phoenix, Achilles' old tutor (9.438–443) and later a leader of the Myrmidons (16.196), is in Agamemnon's hut and is told to lead the embassy, with no word of why he is there; with the duals of 9.182–198 this has led many to think he was added to an embassy of two. The herald Eurybates is more probably Agamemnon's (1.320) than Odysseus' (2.184); the herald Odius is named only here. Rendered as transmitted.
+- **9.182–198** — The verbs and pronouns of the embassy are dual (βάτην, εὐχομένω 9.182–183; ἱκέσθην 9.185; βάτην 9.192; τώ, χαίρετον, ἱκάνετον, ἐστον 9.196–198, beside the plurals εὗρον 9.186 and στάν 9.193), though Phoenix, Ajax, Odysseus and two heralds set out (9.168–170). They are taken as Ajax and Odysseus, the envoys proper, with Phoenix gone ahead (he was to lead, ἡγησάσθω 9.168, but Odysseus leads at 9.192) or counted apart as one of Achilles' own people; as duals used loosely for plurals (compare 5.487, 8.185–191); or as traces of a version without Phoenix. Rendered "the two" throughout.
+- **9.186–189** — ζυγόν is the crossbar that joins the two arms of the lyre and holds the strings. κλέα ἀνδρῶν (also 9.524; Od. 8.73), "the fames of men", are the deeds that heroic song tells; Achilles, out of the fighting, sings them to his own lyre. Rendered "a crossbar of silver" and "the famous deeds of men", keeping κλέος in the family of "fame".
+- **9.203** — ζωρότερον δὲ κέραιε: "mix it stronger", with less water, as usually understood; Aristotle took ζωρότερον as "more quickly", not "undiluted, as for drunkards" (Poetics 25, 1461a). Rendered "mix the wine stronger".
+- **9.206** — κρεῖον (only here): a block or board for cutting meat. ὅ γε follows Patroclus' obedience (9.205) and is usually taken as Patroclus, but Automedon holds the meat "for him" while Achilles carves (9.209), so the subject may be Achilles. Rendered "chopping block" and "he", which leaves it open.
+- **9.214** — κρατευτάων ἐπαείρας (κρατευταί only here): having lifted the spits onto the stones or stands that held them over the embers. ἁλὸς θείοιο: salt called "divine", its sense (purifying, preserving, or precious) not explained. Rendered "lifting them onto the firedogs" and "divine salt", θεῖος being "divine" throughout.
+- **9.219–220** — θῦσαι … θυηλάς: in Homer θύω is to burn offerings for the gods, not to slaughter (Od. 14.446, 15.222); θυηλαί (only here) are the portions thrown into the fire. Rendered "sacrifice to the gods" and "the offerings".
+- **9.236** — ἐνδέξια σήματα: signs "on the right", the lucky side, as at 2.353 (ἐπιδέξια); elsewhere ἐνδέξια is "from left to right" (1.597, 7.184). Rendered "signs on the right".
+- **9.241** — ἄκρα κόρυμβα (only here): the high curving ends of the sterns with their ornament (compare the ἄφλαστον that Hector grasps, 15.717). Rendered "the high sternposts".
+- **9.311** — τρύζητε (only here in Homer): to coo or murmur, as doves do; of persistent coaxing at his side. Rendered "murmur".
+- **9.318–320** — 9.318–319 have no verb, and κάτθανʼ (9.320) is a gnomic aorist, a thing that always happens. Rendered "The same share for the man who stays behind …" and "dies just the same".
+- **9.327** — ὀάρων ἕνεκα σφετεράων: ὄαρ is "wife" (ὤρεσσι, 5.486), and σφέτερος "their own": the wives of the men Achilles fought, defending their own, or the Achaeans' wives, Helen above all (9.339–341); σφέτερος has also been taken as "your". Rendered "their wives", which leaves it open.
+- **9.336** — ἄλοχον θυμαρέα: Achilles calls Briseis, "won by my spear" (δουρικτητήν, 9.343), his ἄλοχος, "wife", and sets his love for her beside the Atreidae's for theirs (9.340–343); at 19.297–299 she says that Patroclus promised to make her Achilles' wedded wife. Rendered "the wife dear to my heart".
+- **9.352–355** — Hector's restraint while Achilles fought, and the time he stood against Achilles at the Scaean gates and the oak and "barely escaped" him, are not narrated in the Iliad; compare Hera at 5.788–791 and Agamemnon at 7.113–114. οἶον agrees with an unexpressed "me": Hector awaited Achilles alone, in single combat. Rendered "waited for me alone".
+- **9.356–363, 9.618–619, 9.650–655, 9.680–692** — Achilles answers each envoy differently: Odysseus, that he will sail home at dawn (9.356–363); Phoenix, that at dawn they will consider whether to go or stay (9.618–619); Ajax, that he will not think of fighting until Hector reaches the huts and ships of the Myrmidons (9.650–655). Odysseus reports only the first, with the advice to the others and the word about Phoenix (9.682–692, repeating 9.417–420 and 9.427–429), and Diomedes takes it up as "whether he goes or stays" (9.701–702). Whether Odysseus keeps back the softer answers, or the poem lets the first stand for all, is debated. Rendered literally.
+- **9.378** — ἐν καρὸς αἴσῃ: κάρ occurs only here. It has been explained as "a hair" or "a shaving" (from κείρω, "cut"; compare ἀκαρής, "too small to be cut"), and in antiquity also as "a Carian" (Κάρ), a hired man held cheap. Rendered "I honor him at a hair's worth", keeping τίω "honor".
+- **9.381–384** — Orchomenus is the Minyan city of Boeotia (2.511; Od. 11.284), not the Arcadian one (2.605). Thebes in Egypt is named also at Od. 4.126–127, with the same half-verse (ὅθι πλεῖστα δόμοις ἐν κτήματα κεῖται); it is the only Egyptian city Homer names. The hundred gates, with two hundred men and their chariots at each, are Achilles' measure of untold wealth. Rendered "Thebes / in Egypt".
+- **9.394** — γυναῖκά γε μάσσεται, "will seek out a wife" (from μαίομαι), as printed; a variant reads γυναῖκα γαμέσσεται, "will get me a wife", the middle of γαμέω used of a father who arranges his son's marriage. The sense is much the same. Rendered "will surely seek out a wife for me".
+- **9.401–416** — ψυχή is "life" as the thing staked and valued (9.322, 9.401) and "soul" as what leaves through the teeth and cannot be raided back (9.408–409). In θανάτοιο τέλος δέ (9.411) δέ is the suffix of direction (τέλοσδε), "toward the end of death". The two fates are offered as a choice only here; elsewhere Achilles' life is simply short (1.352, 1.416) and his death follows soon after Hector's (18.95–96). κλέος ἄφθιτον occurs only here in Homer; the same pairing of words is found in the Vedic hymns (śrávas … ákṣitam). Rendered "my fame will be imperishable".
+- **9.404** — ἀφήτωρ (only here): "the archer", from ἀφίημι, "let fly"; it has also been explained as "the speaker of oracles" (from φημί), which would suit Pytho. Rendered "the Archer".
+- **9.431** — μάλα γὰρ κρατερῶς ἀπέειπεν: the verse is 8.29 with ἀπέειπεν, "refused", for ἀγόρευσεν; 9.694 repeats 8.29 unchanged. Rendered "for he had refused very forcefully".
+- **9.443** — μύθων τε ῥητῆρʼ … πρηκτῆρά τε ἔργων: ῥητήρ occurs only here, and πρηκτήρ elsewhere only of traders (Od. 8.162). The accusatives go with the "you" whom Phoenix was sent to teach. Rendered "a speaker of words and a doer of deeds".
+- **9.447–484** — Phoenix's quarrel with his father Amyntor over the concubine, the curse of childlessness, his flight to Peleus and his rule over the Dolopians are told only here. In a later version Amyntor blinds Phoenix on the concubine's false charge, Chiron restores his sight, and Peleus makes him king of the Dolopians (Apollodorus, Library 3.13.8). Rendered literally.
+- **9.453–457** — Ζεὺς καταχθόνιος, "Zeus of the underworld", is Hades (compare Ζεὺς χθόνιος, Hesiod, Works and Days 465); with Persephone he fulfills the father's curse, as Althaea calls on Hades and Persephone and the Erinys hears her (9.569–572). ἐφέσσεσθαι (9.455) is taken as causative, Amyntor "would set" a son on his knees (ἐφεσσάμενος, Od. 16.443); it can also be read "that no son should sit", and Strabo quotes the verse with ἐφέζεσθαι, "sit" (13.1.41). Rendered "that he would never set upon his knees a dear son" and "Zeus of the underworld".
+- **9.458–461** — Not in the manuscripts. Plutarch (How the Young Man Should Study Poetry 26F) quotes the four verses, in which Phoenix plans to kill his father and a god checks his anger by setting before him what men would say, and says that Aristarchus removed them out of fear. Without them 9.462 follows directly on the curse. Rendered in brackets.
+- **9.462–463** — ἐρητύετʼ … στρωφᾶσθαι: Phoenix's heart "could no longer be held to staying" (going about) in the halls while his father was angry; he could not bear to stay at home. Rendered "could no longer at all be held / to staying in the halls".
+- **9.502–512** — λιταί and ἄτη are printed lowercase but personified: the Prayers, Zeus' daughters, "lame and wrinkled and with eyes that look askance", follow behind Ate, who is strong and sound of foot (ἀρτίπος) and outruns them. Their looks are usually explained from the bearing of suppliants. Agamemnon's Ate is Zeus' eldest daughter, whose soft feet tread on men's heads, harming them (19.91–94), and whom Zeus threw from Olympus (19.126–131). Capitalized in the English: "the Prayers", "Blind Folly".
+- **9.513–514** — πόρε καὶ σὺ Διὸς κούρῃσιν ἕπεσθαι / τιμήν: "grant that honor attend the daughters of Zeus", that is, show the Prayers the respect that bends the minds of other noble men; some take τιμήν as the object of πόρε, "grant the daughters of Zeus their honor". Rendered "grant that the daughters of Zeus be attended / by the honor that bends the minds of other men".
+- **9.524–605** — Phoenix's Meleager is the oldest surviving telling of the story. It has no Atalanta and no firebrand (in Bacchylides 5, Meleager's life hangs on a brand that Althaea burns), and Meleager's anger, his withdrawal to his wife, the appeals of elders, priests, father, sisters, mother and companions, his wife's plea and the lost gifts answer Achilles' case point by point. Rendered literally.
+- **9.539** — χλούνης (only here), of the boar: explained in antiquity as "lying in the grass" (χλόη and εὐνή), as rendered; the sense is uncertain. Rendered "a lurker in the grass".
+- **9.541–542** — προθέλυμνα, "uprooted" (προθελύμνους … χαίτας, hair torn out by the roots, 10.15; σάκεϊ προθελύμνῳ, 13.130), with αὐτῇσιν ῥίζῃσι, "with their very roots". Rendered "uprooted, / with their very roots".
+- **9.556** — Κλεοπάτρη, "glory of the father", has the two parts of Patroclus' name (Πάτροκλος) in reverse order, and it is she who at last moves Meleager to fight, as Patroclus will move Achilles (Book 16). The likeness is often noted; Homer does not point to it. Rendered "Cleopatra".
+- **9.557–564** — Cleopatra's mother Marpessa, daughter of Evenus, was carried off by Apollo, and Idas, "the strongest of men on earth in those days", drew his bow against the god for her; her mother's grief, like the halcyon's lament, gave Cleopatra the byname Alcyone. The tale is only alluded to here; in a later account Idas carries Marpessa off, Zeus parts the rivals, and she chooses Idas (Apollodorus, Library 1.7.8–9). Rendered literally.
+- **9.566–572** — Althaea curses her son κασιγνήτοιο φόνοιο, "over the killing of her brother"; Homer tells neither that killing (later writers make Meleager kill his mother's brothers over the boar's hide) nor Meleager's death, though the Erinys who hears the curse implies it. ἠρᾶτο is both "prayed" and "cursed" (ἀρέων, "curses", 9.566). Rendered "prayed long".
+- **9.579** — πεντηκοντόγυον (only here): the γύης is a measure of plowland (τετράγυος, Od. 7.113, 18.374), perhaps what a team plows in a day. Rendered "of fifty acres".
+- **9.597–603** — The Aetolians did not pay Meleager the promised gifts (9.576–580), since he fought at last without accepting them, and "he warded off the evil all the same". This is Phoenix's point: ἐπὶ δώρων ἔρχεο, "come on the terms of the gifts", against ἄτερ δώρων, "without the gifts" (9.604). Rendered "While the gifts are offered, / come".
+- **9.607** (also 17.561) — ἄττα: a younger man's affectionate word for an elder, as Telemachus' for Eumaeus (Od. 16.31, 16.57, 16.130, 17.599, 21.369); with γεραιέ, "old father". Rendered "Phoenix, old father".
+- **9.608** — Διὸς αἴσῃ: by the portion that Zeus allots (αἶσα, as at 6.487), the honor Thetis asked of Zeus for her son (1.503–510), set against the honor of gifts that Phoenix promises (9.602–605); others take it as "by the will of Zeus". Rendered "honored by the portion of Zeus".
+- **9.616** — ἶσον ἐμοὶ βασίλευε καὶ ἥμισυ μείρεο τιμῆς: Achilles answers Agamemnon's offer of seven cities (9.149–156) by offering Phoenix an equal share of his kingship and half his honor; μείρομαι is to receive one's share, as in ἔμμορε τιμῆς, "has his share of honor" (1.278, 15.189). Taken literally (Peleus had already given Phoenix the Dolopians, 9.483–484) or as a figure of affection. Rendered "Be king equally with me, and take half my honor".
+- **9.632–636** — ποινή is the price a killer pays to the kin of the dead (13.659, 14.483; the trial on the shield, 18.497–500); once it is accepted, the killer stays among his people and the kinsman's anger is checked. Rendered "penalty", the key word (as 3.290).
+- **9.664–668** — Diomede, daughter of Phorbas, is from Lesbos, which Achilles took (9.129–130); Iphis is from "steep Scyros, the citadel of Enyeus". Elsewhere Achilles' son Neoptolemus is being reared on Scyros (19.326–327; Od. 11.509), and in later tradition Achilles had been hidden there as a boy among the daughters of Lycomedes (Apollodorus, Library 3.13.8). The poem does not say how the sack of Scyros and the son reared there fit together. Rendered literally.
+- **9.669** — The text prints a full stop after γένοντο, though the sentence runs on into 9.670 (the same verse at 7.313 has a comma). The English runs on.
+- **9.673** (= 10.544) — πολύαινος: "much-praised" (αἶνος, "praise"), as rendered, or "of many tales, crafty in speech" (αἶνος, "tale"). Socus uses it in a hostile address (11.430), and the Sirens hail Odysseus with the same words (Od. 12.184). Rendered "much-praised".
+- **9.694** (= 8.29; compare 9.431) — "for he had spoken very forcefully" fits Achilles' refusal, which Odysseus reports, better than the report itself; the verse stands here as at 8.29, with ἀγόρευσε where 9.431 has ἀπέειπεν. Rendered as transmitted.

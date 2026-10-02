@@ -7,12 +7,12 @@ summary: “Mother of flocks,” an epithet of lands rich in sheep: Iton in Thes
 aliases: [meter melon, mother of sheep]
 grc: [μητέρα μήλων]
 en: [mother of flocks]
-of: [iton]
+of: [iton, phthia]
 ---
 
 ## Meaning
 
-A land is the “mother” of the creatures it feeds ([[meter]]); μῆλα are sheep and goats, the flocks ([[sheep]]). The phrase stands at the end of the verse, of Iton in the realm of Protesilaus (2.696; [[iton]]), of Phthia, where Phoenix came as a fugitive, “rich-soiled, mother of flocks” (9.479), of Thrace, where Iphidamas was raised (11.222), and in the Odyssey of Pylos (Od. 15.226). Mount Ida is in the same way the “mother of wild beasts” ([[mother-of-wild-beasts]]).
+A land is the “mother” of the creatures it feeds ([[meter]]); μῆλα are sheep and goats, the flocks ([[sheep]]). The phrase stands at the end of the verse, of Iton in the realm of Protesilaus (2.696; [[iton]]), of Phthia, where Phoenix came as a fugitive, “deep-soiled Phthia, mother of flocks” (9.479), of Thrace, where Iphidamas was raised (11.222), and in the Odyssey of Pylos (Od. 15.226). Mount Ida is in the same way the “mother of wild beasts” ([[mother-of-wild-beasts]]).
 
 ## Use
 

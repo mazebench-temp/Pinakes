@@ -1,0 +1,15 @@
+---
+summary: The embassy is an attempt to persuade, and the verb marks every stage of it: Nestor's plan to “win him over”, the envoys' prayer, Achilles' “he will not persuade me”, and Meleager, whom no one could persuade. The middle, “obey”, runs beside it, from the army that obeys Nestor to the son who obeyed his mother.
+grc: [πείσεαι, πίθοντο, πεπίθωμεν, πιθέσθων, πεπίθοιεν, πεπιθεῖν, πείσει, ἔπειθον, παράρρητοί]
+en: [you will follow, swayed]
+passages:
+  - 9.112-113 | Let us win him over
+  - 9.181-184 | The envoys pray to win him over
+  - 9.585-587 | Not even so did they persuade him
+---
+
+**To win him over.** Nestor's proposal names the purpose of the night: “let us consider how we may make amends to him and win him over with kindly gifts and with soothing words” (πεπίθωμεν, 9.112–113). As the envoys leave, he glances at each, and at Odysseus most of all, “to try how they might win over the noble son of Peleus” (πεπίθοιεν, 9.181), and they walk along the shore praying to Poseidon “that they might easily win over the great mind of the grandson of Aeacus” (πεπιθεῖν, 9.184). The three forms are the reduplicated aorist of πείθω, the persuasion that succeeds, “to win over”.
+
+**Not persuaded.** Achilles answers with the same verb three times. “Neither, I think, will Agamemnon, son of Atreus, persuade me, nor the other Danaans” (πεισέμεν, 9.315–316); “let him not try me; I know him well; he will not persuade me” (πείσει, 9.345); “not even so would Agamemnon any longer persuade my heart” (πείσειʼ, 9.386). Phoenix's story ends the same way. The elders, the priests, Oeneus, his sisters and his mother, and his dearest companions begged Meleager, “but not even so did they persuade the heart in his breast” (ἀλλʼ οὐδʼ ὧς … ἔπειθον, 9.587), until his wife moved him. οὐδέ κεν ὧς, “not even so”, is Achilles' phrase too (9.386). The same verb tells how Priam and Hecuba could not persuade Hector's heart to come inside the walls (οὐδʼ Ἕκτορι θυμὸν ἔπειθον, 22.91). Phoenix gives the rule that the heroes of old were παράρρητοι, “swayed by words” (9.526). The word comes once more in the Iliad, when Polydamas tells Hector that he is hard “to persuade with words of advice” (παραρρητοῖσι πιθέσθαι, 13.726).
+
+**Obedience.** The middle πείθομαι, “obey”, keeps company with the active through the book. Agamemnon calls on the army to obey him and flee (πειθώμεθα, 9.26); Nestor tells them to obey black night (9.65; see [[yield-to-night]]), and “they listened closely to him and obeyed” (πίθοντο, 9.79). Nestor tells Agamemnon “you will follow the man who devises the best counsel” (πείσεαι, 9.74), and names the envoys: “let them obey” (πιθέσθων, 9.167). Agamemnon says he was blinded “obeying my wretched mind” (9.119). Phoenix obeyed his mother and lay with his father's concubine (πιθόμην, 9.453), and the curse followed. Patroclus obeys his dear companion (9.205). Diomedes ends the night with the formula of a leader, “let us all do as I say” (πειθώμεθα πάντες, 9.704), and the kings approve. Everyone in Book 9 obeys someone, except the man the book is trying to persuade. See [[obedience-and-persuasion]].

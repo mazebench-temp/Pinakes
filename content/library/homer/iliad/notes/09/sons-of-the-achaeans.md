@@ -1,0 +1,5 @@
+---
+summary: The army is “the sons of the Achaeans” at the turns of the night: silent after Agamemnon's speech and after the envoys' report, shouting for Diomedes, and pledging the envoys on their return.
+---
+
+Two verses frame the book: “For a long time the sons of the Achaeans were silent in their grief; at last Diomedes, good at the war cry, spoke among them” (9.30–31), after Agamemnon proposes flight, and again after Odysseus reports the refusal (9.695–696; [[good-at-the-war-cry]], [[silence]]). Between them the sons of the Achaeans shout their approval of Diomedes (9.50), and they pledge the returning envoys with golden cups (9.670). In speeches the phrase names the army as the thing at stake: Diomedes asks whether Agamemnon really thinks “the sons of the Achaeans are so unwarlike and cowardly as you say” (9.40–41; [[strange-one]]); Odysseus urges Achilles, “late though it is, to save the sons of the Achaeans” (9.247); and Achilles remembers Ilios as it was “before the sons of the Achaeans came” (9.403). See [[achaeans]].

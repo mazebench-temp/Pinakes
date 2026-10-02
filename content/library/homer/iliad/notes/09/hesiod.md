@@ -1,0 +1,8 @@
+---
+summary: Hesiod's poems offer parallels to Book 9: the Muses, to be sung first and last, as Nestor ends and begins with Agamemnon; a Zeus of the earth to whom the farmer prays; a verse on gifts that persuade gods and kings, which Plato forbids beside Phoenix's advice; and, in the Catalogue of Women, a Meleager killed by Apollo.
+---
+
+- **First and last.** Nestor opens his counsel in the language of hymns, “with you I shall end, and with you I shall begin” (9.97). The Muses told Hesiod to sing of themselves “first and last, always” (*Theogony* 34; see [[nestor]]).
+- **Zeus of the earth.** The gods who fulfill Amyntor's curse are “Zeus of the underworld and dread Persephone” (9.457), that is, Hades and his queen (see [[hades]] and [[persephone]]). Hesiod tells the farmer, as he begins to plow, to pray to Zeus of the earth (Διὶ χθονίῳ) and pure Demeter that the grain may ripen full and heavy (*Works and Days* 465–466).
+- **Gifts persuade gods.** Plato's Socrates forbids the verse “Gifts persuade gods, gifts persuade reverend kings” just before he refuses to praise Phoenix's advice to take the gifts (*Republic* 3.390e). The Suda reports that some thought it Hesiod's (δ 1451), and Evelyn-White prints it among the doubtful fragments (fr. 6): [[plato-phoenix-and-the-gifts]].
+- **Meleager's death.** The *Catalogue of Women* tells that Meleager, son of Oeneus and Althaea, who killed the beast at Calydon, fell by the hands of Apollo while fighting the Curetes (fr. 98 Evelyn-White, from a papyrus whose lines are partly restored). Phoenix's story does not tell how Meleager died: see [[the-death-of-meleager]] and [[meleager]].

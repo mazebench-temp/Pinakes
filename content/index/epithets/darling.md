@@ -7,6 +7,7 @@ summary: An epithet of a cherished child, often an only or late-born one; its ex
 aliases: [late-born, telygetos]
 grc: [τηλυγέτην]
 en: [darling]
+of: [orestes]
 ---
 
 ## Meaning

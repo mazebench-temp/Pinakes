@@ -12,7 +12,7 @@ of: [thebes]
 
 ## Meaning
 
-ἑπτάπυλος = ἑπτά (“seven”) + πύλη (“gate”): “seven-gated.” It is the epithet of Thebes in Boeotia, in the phrase Θήβης ἕδος ἑπταπύλοιο, “the seat of seven-gated Thebes.” Homer has the phrase twice: in Sthenelus' boast (4.406), and in the Odyssey of Amphion and Zethus, “who first founded the seat of seven-gated Thebes and fortified it with towers” (Od. 11.263–264). Egyptian Thebes, by contrast, is “hundred-gated” (Il. 9.381–383). The seven gates belong to the city's legend: seven champions came against them ([[the-seven-against-thebes]]).
+ἑπτάπυλος = ἑπτά (“seven”) + πύλη (“gate”): “seven-gated.” It is the epithet of Thebes in Boeotia, in the phrase Θήβης ἕδος ἑπταπύλοιο, “the seat of seven-gated Thebes.” Homer has the phrase twice: in Sthenelus' boast (4.406), and in the Odyssey of Amphion and Zethus, “who first founded the seat of seven-gated Thebes and fortified it with towers” (Od. 11.263–264). Egyptian Thebes, by contrast, “has a hundred gates” (Il. 9.381–383; [[hundred-gated]]). The seven gates belong to the city's legend: seven champions came against them ([[the-seven-against-thebes]]).
 
 ## Use
 

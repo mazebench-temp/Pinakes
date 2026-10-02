@@ -16,6 +16,6 @@ passages:
 
 {{quote:571a0630-c99f-55ed-821c-0f311cd3e32c}}
 
-A thousand fires and fifty men at each give the Trojan army a size, fifty thousand men, which the poem states nowhere else. The passage became a test piece for English translators (see [[the-watch-fires-in-english]]). The fires are seen from the ships. When the night continues in Book 9, Odysseus tells Achilles that the Trojans have camped close to the wall, “kindling many fires through the army” (9.234), and in Book 10 Agamemnon lies awake gazing at them (10.11–13).
+A thousand fires and fifty men at each give the Trojan army a size, fifty thousand men, which the poem states nowhere else. The passage became a test piece for English translators (see [[the-watch-fires-in-english]]). The fires are seen from the ships. When the night continues in Book 9, Odysseus tells Achilles that the Trojans have camped close to the wall and “kindled many fires throughout the army” (9.234), and in Book 10 Agamemnon lies awake gazing at them (10.11–13).
 
 **The answer.** The Achaeans answer with a watch of their own. Book 9 opens on “So the Trojans kept their watch” (9.1), and Nestor proposes supper and guards for the Achaeans in the first two verses of Hector's order (9.65–66 = 8.502–503; see [[feast]] and [[yield-to-night]]).

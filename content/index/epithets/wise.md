@@ -7,7 +7,7 @@ summary: “Having one's wits, prudent,” the epithet of sensible speakers: [[A
 aliases: [prudent, sensible, pepnymenos]
 grc: [πεπνυμένω, πεπνυμένος]
 en: [wise]
-of: [antenor, ucalegon]
+of: [antenor, ucalegon, heralds]
 ---
 
 ## Meaning

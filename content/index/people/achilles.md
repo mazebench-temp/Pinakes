@@ -77,6 +77,10 @@ Achilles' past in Book 1 is war: the sack of Thebe (1.366–369) and the raiding
 
 See [[death-of-achilles-foretold]].
 
+## Elsewhere in Homer
+
+Later books of the Iliad tell more. Phoenix raised him (9.485–495) and Chiron taught him medicine (11.831–832). His mother has told him of two fates, a long life at home without fame or a short one at Troy whose fame will be imperishable (9.410–416; see [[the-two-fates-of-achilles]]). He dies at the Scaean gates, killed by Paris and Apollo, as the dying Hector foretells (22.359–360).
+
 ## Outside Homer
 
-Later books of the Iliad tell more. Phoenix raised him (9.485–495) and Chiron taught him medicine (11.831–832). He chooses between a long life without glory and a short one with it (9.410–416). He dies at the Scaean gates, killed by Paris and Apollo, as the dying Hector foretells (22.359–360). The *Aethiopis* told of his death and of Thetis carrying him to the White Island. Alexander the Great sacrificed at his tomb at Troy (Arrian, *Anabasis* 1.12.1).
+The *Aethiopis* told of his death and of Thetis carrying him to the White Island. Alexander the Great sacrificed at his tomb at Troy (Arrian, *Anabasis* 1.12.1).

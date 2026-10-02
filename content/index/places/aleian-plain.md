@@ -13,7 +13,7 @@ passages:
 
 {{quote:296fd6e7-87eb-5117-9a97-cecc0cf42708}}
 
-The name plays on the verb beside it: κὰπ πεδίον τὸ Ἀλήϊον οἶος ἀλᾶτο, “he wandered alone over the Aleian plain”, as if it were the plain of wandering (ἀλάομαι, “wander”). Whether Homer had a real place in mind cannot be known. ἀλήϊος, “without land” (9.125, 9.267), is another word. ὃν θυμὸν κατέδων, “eating his heart out”, is the grief that makes a man refuse food and company, as Achilles does in his mourning (“eating your heart”, σὴν ἔδεαι κραδίην, 24.129). See [[bellerophon]].
+The name plays on the verb beside it: κὰπ πεδίον τὸ Ἀλήϊον οἶος ἀλᾶτο, “he wandered alone over the Aleian plain”, as if it were the plain of wandering (ἀλάομαι, “wander”). Whether Homer had a real place in mind cannot be known. ἀλήϊος, “landless” (9.125, 9.267), is another word. ὃν θυμὸν κατέδων, “eating his heart out”, is the grief that makes a man refuse food and company, as Achilles does in his mourning (“eating your heart”, σὴν ἔδεαι κραδίην, 24.129). See [[bellerophon]].
 
 ## Outside Homer
 

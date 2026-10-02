@@ -7,7 +7,7 @@ summary: “Of much cunning work,” an epithet of richly crafted things: corsel
 aliases: [richly wrought, polydaidalos]
 grc: [πολυδαιδάλου]
 en: [intricately worked]
-of: [corselet]
+of: [corselet, lyre]
 ---
 
 ## Meaning

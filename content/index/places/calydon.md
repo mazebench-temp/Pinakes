@@ -12,11 +12,11 @@ passages:
 
 {{quote:e710f956-b1d0-5c89-b66d-c4ee1ce5feef}}
 
-πετρήεσσα "rocky" ([[rocky]]); elsewhere it is "steep" (αἰπεινή, 13.217, 14.116) and "lovely" (ἐραννή, 9.532, 9.577). Calydon is the last of the towns of the [[Aetolians]] in the Catalogue, and the next lines explain why they no longer have a king of the house of [[Oeneus]] (2.641–643).
+πετρήεσσα "rocky" ([[rocky]]); elsewhere it is "steep" (αἰπεινή, 13.217, 14.116) and "lovely" (ἐραννή, 9.531, 9.577). Calydon is the last of the towns of the [[Aetolians]] in the Catalogue, and the next lines explain why they no longer have a king of the house of [[Oeneus]] (2.641–643).
 
 ## Elsewhere in Homer
 
-Calydon was the home of Oeneus and his sons. One of them, Tydeus, left it and after wandering settled in Argos, where he married a daughter of Adrastus; Diomedes is their son (14.119–125). It is also the scene of Phoenix's story of [[Meleager]]. Artemis sent the boar that ravaged Oeneus' orchards; after it was killed, the Curetes and the Aetolians fought "around the city of Calydon", and Meleager, in his anger, would not defend it until the enemy were at the walls (9.529–599).
+Calydon was the home of Oeneus and his sons. One of them, Tydeus, left it and after wandering settled in Argos, where he married a daughter of Adrastus; Diomedes is their son (14.119–125). It is also the scene of Phoenix's story of [[Meleager]], besieged by the Curetes while he keeps out of the fighting (9.529–599; see [[the-wrath-of-meleager]]).
 
 ## Outside Homer
 

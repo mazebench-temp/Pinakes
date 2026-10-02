@@ -1,0 +1,22 @@
+---
+summary: Nestor chooses Odysseus for the embassy and instructs him above the others; in Achilles' hut he speaks first, repeating Agamemnon's gifts without Agamemnon's demand that Achilles submit, and Achilles answers him with the great refusal. Back in Agamemnon's hut he reports only that first answer.
+refs: [9.224-306, 9.677-692]
+passages:
+  - 9.222-306 | Odysseus' speech to Achilles
+  - 9.307-314 | Achilles answers Odysseus
+  - 9.669-692 | Odysseus' report
+---
+
+**Chosen.** Nestor names him third, after Phoenix and great Ajax (9.168–169), but gives his instructions “glancing at each of them, and at Odysseus most of all” (9.180; see [[nestor]] and [[embassy]]). It is Odysseus who leads the envoys into Achilles' hut and out again (9.192, 9.657). He has done such work before. He went to Troy with Menelaus to ask for Helen, and Antenor remembered his “words like the snowflakes of winter” (3.205–224; see [[the-embassy-to-troy]] and [[snowflakes-of-winter]]). He also went with Nestor to Peleus' house to fetch Achilles for the war (11.765–790).
+
+**The speech.** When Ajax nods to Phoenix, “brilliant Odysseus saw it”, and he speaks first, filling a cup to pledge Achilles (9.223–224; see [[ajax]] and [[phoenix]]). He passes from the feast to the danger: the Trojans have camped by the ships and the wall, Zeus lightens for them on the right, and Hector prays for the dawn so that he can burn the ships; Odysseus is “terribly afraid” that the gods will fulfill his threats (9.225–246). If Achilles waits, he will grieve when there is no cure (9.249–251). Then Odysseus invokes Achilles' father. On the day he sent his son to Agamemnon, Peleus charged him to hold back his proud heart, “for kindliness is better”, and “So the old man charged you, but you forget” (9.252–259; see [[peleus]]). Odysseus was in Peleus' house that day (11.767–770).
+
+**The gifts.** He repeats Agamemnon's list nearly word for word, turning “I will give him” into “he will give you” (9.262–299 ≈ 9.121–157; see [[message-repeated]] and [[the-gifts-of-agamemnon]]). He adds a courteous ἄναξ, “my lord”, when he comes to the oath about Briseis (9.276; compare 9.134). And he stops where Agamemnon went on. Agamemnon's last words, “Let him be tamed” and “let him submit to me, inasmuch as I am more kingly” (9.158–161), are not repeated. In their place Odysseus offers pity for the army and glory:
+
+{{quote:17f63189-e93f-55ac-9a30-747416e740bb}}
+
+The silence is usually praised as tact (see [[the-embassy-to-achilles]]).
+
+**Achilles' answer.** Achilles answers him first, with the full verse of his titles, “Son of Laertes, sprung from Zeus, Odysseus of many devices” (9.308; see [[son-of-laertes]]), and then: “For hateful to me as the gates of Hades is that man who hides one thing in his mind and says another” (9.312–313). Readers have taken it as aimed at Odysseus, the man of many devices; at Agamemnon, whose deceit Achilles denounces later in the speech (9.344–345, 9.375–376); or at no one, as a promise of Achilles' own plain speech (see [[truth-and-deception]]). It fits the speech he has just heard better than he can know, for Odysseus has kept Agamemnon's last words to himself. Achilles tells him to consider with the other kings how to save the ships (9.346–347), and that at dawn he will see Achilles' ships on the Hellespont (9.356–363). In Plato's *Hippias Minor* the sophist Hippias quotes the opening of this answer to show that Homer made Achilles true and simple and Odysseus wily and false (364e–365b; see [[plato-hippias-minor]]).
+
+**The report.** Back in Agamemnon's hut the king asks him first, “Come, tell me, much-praised Odysseus, great glory of the Achaeans” (9.673; see [[much-praised]]), and Odysseus, “much-enduring” (9.676; see [[much-enduring]]), gives Achilles' first answer: Achilles will not quench his anger, rejects Agamemnon and his gifts, bids him save the ships himself, will launch his own ships at dawn, and advises the others to sail home (9.677–687). Odysseus names Ajax and the two heralds as witnesses and adds that Phoenix has stayed behind (9.688–692). He says nothing of the answers Achilles gave Phoenix and Ajax, that at dawn they would consider whether to go (9.618–619), and that he would not fight until Hector reached the Myrmidons' ships (9.650–655). Whether Odysseus keeps them back on purpose, or the poem lets the first answer, the one given to the embassy, stand for all, is debated (see [[the-embassy-to-achilles]]).

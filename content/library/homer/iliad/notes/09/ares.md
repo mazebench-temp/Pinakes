@@ -1,0 +1,7 @@
+---
+summary: Ares takes no part in Book 9, but his name is heard three times. He is the father of Ascalaphus and Ialmenus, two of the seven captains of the watch (9.82), and in Phoenix's story his name stands for war, when the Curetes are eager to sack Calydon “in the work of Ares” and Meleager is “dear to Ares” (9.532, 9.550).
+---
+
+**The sons of Ares.** Nestor's sentries go out under seven captains, among them “Ascalaphus and Ialmenus, sons of Ares” (9.82; see [[night-watch]]). The half-verse is the one that brought them into the Catalogue, where Astyoche, “a modest maiden”, went up to the upper room to mighty Ares in the house of Actor (2.512–515; see [[ascalaphus]] and [[ialmenus]]). Ascalaphus will be the god's loss. Deiphobus kills him at the ships (13.518–520), and Ares, kept out of the war by Zeus, beats his thighs and would go down to avenge his son if Athena did not hold him back (15.110–142).
+
+**War itself.** In Phoenix's story the god's name is the fighting. The Curetes are “eager to sack it in the work of Ares” (μεμαῶτες Ἄρηϊ, 9.532), the dative of κρινώμεθʼ Ἄρηϊ, “try our strength in the hateful work of Ares” (2.385). Meleager is “dear to Ares” (ἄρηι φίλος, 9.550). The text prints the words apart here and at 11.463, of Menelaus; elsewhere they are one word, ἀρηΐφιλος, most often of Menelaus (3.21 and often; see [[dear-to-ares]]). As long as the man dear to Ares fights, it goes badly for the enemy, and when anger keeps him from the war, his city burns (9.550–589; see [[meleager]] and [[the-wrath-of-meleager]]).

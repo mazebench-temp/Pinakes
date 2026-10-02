@@ -1,0 +1,6 @@
+---
+summary: Achilles names Pytho as a store of untold treasure. Not all that is shut within the stone threshold of the Archer, Phoebus Apollo, in rocky Pytho would be worth his life (9.404–405).
+grc: ["^Πυθοῖ"]
+---
+
+In the Catalogue Pytho is one of the towns of the Phocians, “rocky Pytho” (2.519). In Book 9 it is Apollo's house and treasury, and the epithet returns with it: Πυθοῖ ἔνι πετρηέσσῃ, “in rocky Pytho” (9.405; see [[rocky]]). The stone threshold (λάϊνος οὐδός, 9.404) is the threshold of the god's temple, which shuts in the treasure as a house shuts in its stores. The Odyssey uses the same locative and the same threshold when it tells how Agamemnon consulted the oracle before the war: “in holy Pytho” (Πυθοῖ ἐν ἠγαθέῃ), “where he stepped over the stone threshold” (*Odyssey* 8.79–81). The *Homeric Hymn to Apollo* has the verse-end of 9.405 (390) and tells how the threshold was laid (294–297). Achilles sets his life against the wealth of the god's house, as he sets it against the wealth of Troy in peacetime (9.401–403); on the Archer and the threshold, see [[apollo]]. Delphi's treasure later became proverbial; Herodotus describes the gold and silver dedicated there by Gyges and Croesus (1.14, 1.50–51).

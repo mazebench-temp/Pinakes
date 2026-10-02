@@ -3,11 +3,11 @@ title: Vine-rich
 greek: ἀμπελόεις
 kind: epithet
 tags: [mainland-greece, mysia-phrygia]
-summary: “Full of vines,” an epithet of wine country: [[Epidaurus]] in the Catalogue of Ships, [[Phrygia]], and Pedasus.
+summary: “Full of vines,” an epithet of wine country: [[Epidaurus]] in the Catalogue of Ships, [[Phrygia]], and [[pedasus-in-messenia|Pedasus]].
 aliases: [rich in vines, ampeloeis]
 grc: [ἀμπελόεσσαν, ἀμπελόεντʼ]
 en: [vine-rich]
-of: [epidaurus, phrygia]
+of: [epidaurus, phrygia, pedasus-in-messenia]
 ---
 
 ## Meaning

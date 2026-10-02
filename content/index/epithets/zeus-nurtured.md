@@ -7,7 +7,7 @@ summary: “Nurtured by Zeus,” the standing epithet of kings ([[basileus]]).
 aliases: [cherished by Zeus, diotrephes]
 grc: [διοτρεφέων βασιλήων]
 en: [nurtured]
-of: [basileus, kings, troezenus]
+of: [basileus, kings, troezenus, achilles, phoenix]
 ---
 
 ## Meaning

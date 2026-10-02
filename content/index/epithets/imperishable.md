@@ -14,7 +14,7 @@ of: [scepter]
 
 ἄφθιτος = ἀ- (“not”) + φθίνω, φθίω (“waste away, perish”): “that does not decay.” It belongs to what the gods make or own: a wheel of Hera's chariot (Il. 5.724), the golden houses of the gods (Il. 13.22), the throne Hera promises Sleep (Il. 14.238), the house of Hephaestus (Il. 18.370), and the plans of Zeus, ἄφθιτα μήδεα (Il. 24.88).
 
-The most famous use is Achilles' κλέος ἄφθιτον, the “imperishable fame” he will win if he dies at Troy (Il. 9.413). Sanskrit poetry has a phrase of the same meaning built from related words, *śrávas … ákṣitam*. The comparison, first made by Adalbert Kuhn in 1853, is one of the chief pieces of evidence for an inherited Indo-European poetic language ([[kleos]]).
+The most famous use is Achilles' κλέος ἄφθιτον, the fame that “will be imperishable” if he dies at Troy (Il. 9.413). Sanskrit poetry has a phrase of the same meaning built from related words, *śrávas … ákṣitam*. The comparison, first made by Adalbert Kuhn in 1853, is one of the chief pieces of evidence for an inherited Indo-European poetic language ([[kleos]]).
 
 ## Use
 

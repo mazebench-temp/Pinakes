@@ -7,7 +7,7 @@ summary: “With broad dancing places,” or perhaps “spacious,” an epithet 
 aliases: [spacious, eurychoros]
 grc: [εὐρύχορον]
 en: [with its wide dancing floors]
-of: [mycalessus]
+of: [mycalessus, hellas]
 ---
 
 ## Meaning

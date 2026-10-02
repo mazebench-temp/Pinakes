@@ -3,7 +3,7 @@ title: High-roofed
 greek: ὑψόροφος
 kind: epithet
 summary: “With a lofty roof,” an epithet of the inner rooms of great houses.
-aliases: [hypsorophos]
+aliases: [hypsorophos, hypserephes]
 grc: [ὑψόροφον]
 en: [high-roofed]
 of: [house]

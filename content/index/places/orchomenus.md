@@ -15,7 +15,7 @@ passages:
 
 Μινύειος "Minyan", the adjective of the Minyans (Μινύαι), tells this Orchomenus apart from [[orchomenus-arcadia|Orchomenus in Arcadia]] (2.605). It is not counted among the towns of the [[Boeotians]]: with [[Aspledon]] it has its own leaders, [[Ascalaphus]] and [[Ialmenus]], and thirty ships (2.511–516).
 
-Homer knows it as rich. Achilles will not be moved by gifts, "not even as much as comes into Orchomenus, or into Egyptian Thebes" (9.381–382). In the Odyssey, Amphion son of Iasus "once ruled with might in Minyan Orchomenus" (Od. 11.281–284).
+Homer knows it as rich. Achilles will not be moved by gifts, “not all that comes in to Orchomenus, nor all that comes to Thebes in Egypt” (9.381–382; see [[thebes-in-egypt]]). In the Odyssey, Amphion son of Iasus "once ruled with might in Minyan Orchomenus" (Od. 11.281–284).
 
 ## Outside Homer
 

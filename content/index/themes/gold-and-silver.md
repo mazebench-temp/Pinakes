@@ -4,7 +4,7 @@ greek: χρυσός, ἄργυρος
 kind: theme
 tags: [divine-object, sacred-object]
 summary: The precious metals of the Homeric world. Gold and silver belong to gods, to kings, and to the gifts, ransoms and spoils that pass between them.
-grc: [χρυσέῳ, χρυσείοις, χρυσόθρονος, ἀργυρότοξ*, ἀργυρέοιο, ἀργυρέῃ, ἀργυρόπεζα]
+grc: [χρυσέῳ, χρυσείοις, χρυσέοισι, χρυσοῖο, χρυσόθρονος, ἀργυρότοξ*, ἀργυρέοιο, ἀργυρέῃ, ἀργύρεον, ἀργυρόπεζα]
 en: [golden, golden nails, silver bow, silver hilt, silver-footed, golden throne, god of the silver bow]
 ---
 

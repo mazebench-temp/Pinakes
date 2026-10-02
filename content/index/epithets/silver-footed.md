@@ -3,7 +3,7 @@ title: Silver-footed
 greek: ἀργυρόπεζα
 kind: epithet
 tags: [divine-epithet, sea-deity]
-summary: The standing epithet of [[Thetis]], used twice in Book 1 in the whole-line formula ἀργυρόπεζα Θέτις θυγάτηρ ἁλίοιο γέροντος.
+summary: “With silver feet,” the standing epithet of [[Thetis]].
 aliases: [argyropeza]
 grc: [ἀργυρόπεζα]
 en: [silver-footed]

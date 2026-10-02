@@ -1,0 +1,13 @@
+---
+summary: Three times in Book 9 a speech is met with the verse “So he spoke, and they all fell hushed in silence”, after Agamemnon's proposal, Achilles' refusal and Odysseus' report; Diomedes' two speeches are met with the army's shout and the kings' approval in verses from Book 7; and the closing verse of 9.205 is the one with which Patroclus obeyed in Book 1, when he brought out Briseis.
+---
+
+The closings of Book 9: 9.29, 50, 79, 173, 199, 205, 430, 620, 656, 688, 693, 710.
+
+**Silence.** “So he spoke, and they all fell hushed in silence” follows Agamemnon's proposal to flee (9.29), Achilles' answer to Odysseus (9.430) and Odysseus' report of it (9.693), the verse that met Zeus' threats in Book 8 and Hector's challenge in Book 7 (8.28, 7.92). After Achilles' answer the second verse is changed to fit: “amazed at his word, for he had refused very forcefully” (ἀπέειπεν, 9.431), where the verse of Book 8 has “he had spoken” (ἀγόρευσε), as it does after the report (9.694 = 8.29; see the translation's notes on 9.431 and 9.694). Each silence is broken “at last” by a speaker, Diomedes, Phoenix and Diomedes again (9.31, 9.432, 9.696; see [[silence]]).
+
+**Approval and obedience.** Diomedes' rebuke of Agamemnon is met by the army's shout, and his last speech by the kings' approval, both in verses of Book 7: “So he spoke, and all the sons of the Achaeans shouted aloud, admiring the word of Diomedes, tamer of horses” (9.50–51 = 7.403–404), and “So he spoke, and all the kings approved, admiring the word of Diomedes, tamer of horses” (9.710–711; 9.710 = 7.344). Nestor's orders are followed in the verse that closed Priam's (9.79 ≈ 7.379; see [[assembly]]), and his proposal of the embassy with a verse found once more in Homer, when the suitors agree to pour a libation and go home to bed: “So he spoke, and the word he spoke was pleasing to them all” (9.173; Od. 18.422). Here too a libation follows (see [[libation]]).
+
+**In Achilles' hut.** “So he spoke, and Patroclus obeyed his dear companion” (9.205) is the verse of Book 1, where Patroclus obeyed and led Briseis out to the heralds (1.345–346). Here he obeys by setting out a larger mixing bowl for the envoys (see [[feast-type-scene]]). Achilles' answer to Phoenix ends without a word, “He spoke, and nodded to Patroclus with his brows in silence” (ἦ καί, 9.620; see [[neuo]]), and the nod ends the visit. “So he spoke, and each man took a two-handled cup” (9.656) turns his last answer into the libation of departure.
+
+**Inside a speech.** In his report Odysseus closes his account of Achilles' words with the formula itself, “So he spoke”, and turns to his witnesses (9.688; see [[message-repeated]]).

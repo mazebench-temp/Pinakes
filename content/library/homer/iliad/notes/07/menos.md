@@ -1,6 +1,6 @@
 ---
 summary: The gods begin the duel by rousing “the strong might of Hector”, and the Trojans end it rejoicing that he has come back “escaping the might and the irresistible hands of Ajax”, the words in which his household had mourned him in Book 6. At the end of the book Zeus measures Poseidon by his hands and might.
-grc: [μένεϊ]
+grc: ["=μένεϊ"]
 passages:
   - 7.36-42 | Apollo's plan
   - 7.306-310 | Hector returns alive and unhurt

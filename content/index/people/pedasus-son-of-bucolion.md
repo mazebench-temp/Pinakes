@@ -9,7 +9,7 @@ aliases: [Pedasos]
 # Pedasus in Messenia (9.152, 9.294) and Achilles' trace horse (16.152, 16.467): except those lines.
 grc: [Πήδασον]
 en: [Pedasus]
-except: [6.35]
+except: [6.35, 9.152, 9.294]
 refs: [6.26-28]
 relations:
   - father: bucolion (6.22)

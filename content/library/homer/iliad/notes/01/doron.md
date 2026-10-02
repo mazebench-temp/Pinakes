@@ -3,7 +3,7 @@ summary: [[Athena]] promises [[Achilles]] three times as many gifts in compensat
 ---
 {{quote:0d7d40ff-20aa-51e8-84e9-216e3910c4cc}}
 
-Athena restrains Achilles with a promise of compensation. Someday three times as many splendid gifts will be laid before him because of this outrage (see [[triple-gifts-foretold]]). The promise is kept in the offer of Book 9 (9.121–157), which Achilles refuses, “hateful to me are his gifts” (9.378), and in the gifts he finally receives in Book 19.
+Athena restrains Achilles with a promise of compensation. Someday three times as many splendid gifts will be laid before him because of this outrage (see [[triple-gifts-foretold]]). The promise is kept in the offer of Book 9 (9.121–157), which Achilles refuses, “His gifts are hateful to me” (9.378), and in the gifts he finally receives in Book 19.
 
 {{quote:c1c3c45e-e251-5961-95aa-32a8015d3a2a}}
 

@@ -6,6 +6,8 @@ tags: [warfare, divine-object]
 summary: The light two-wheeled chariot of Homeric warfare, drawn by a pair of horses and carrying a fighter and his driver to and from the battle. The gods drive chariots too.
 aliases: [chariots, harma, war chariot]
 grc: [ἅρματος, ἅρμα, ἅρμασιν, ἅρματα]
+# ζυγόν at 9.187 is the crossbar of Achilles' lyre.
+except: [9.187]
 en: [chariot, chariots]
 ---
 

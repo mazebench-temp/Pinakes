@@ -7,7 +7,7 @@ summary: “Like the immortals,” a line-end formula of praise for heroes.
 aliases: [epieikelos athanatoisin]
 grc: [ἐπιείκελον ἀθανάτοισιν]
 en: [like the immortals]
-of: [theseus]
+of: [theseus, achilles]
 ---
 
 ## Meaning

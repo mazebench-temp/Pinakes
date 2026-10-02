@@ -1,0 +1,7 @@
+---
+summary: Achilles answers each envoy in the same verse, “Answering him, swift-footed Achilles said” (9.307, 9.606, 9.643), and each answer takes a different position; Agamemnon answers Nestor, and Odysseus answers Agamemnon, “in turn” (9.114, 9.676).
+---
+
+**Three answers in one verse.** “Answering him, swift-footed Achilles said” brings in Achilles' reply to Odysseus, to Phoenix and to Ajax (9.307, 9.606, 9.643). The Iliad has the whole verse nine times, and three of them are in this book; it brought in his first answer in the poem, to Calchas (1.84), and will bring in his answers to Agamemnon in Book 19, about the gifts and about the meal before battle (19.145, 19.198). The frame does not change, and what it frames moves. To Odysseus Achilles says that he will sail at dawn (9.356–363), to Phoenix that at dawn they will consider whether to go or stay (9.618–619), and to Ajax that he will not fight until Hector reaches the ships of the Myrmidons (9.650–655; see [[achilles]], [[embassy]] and [[message-repeated]]).
+
+**In turn.** Agamemnon answers Nestor's rebuke, “Then Agamemnon, lord of men, spoke to him in turn” (9.114), and admits his blind folly (see [[ate]]). At the end of the night Odysseus answers the king's question in the same frame, “Then much-enduring brilliant Odysseus spoke to him in turn” (9.676; see [[much-enduring]]). Nestor answers Agamemnon's offer with the other formula of reply, “Then the Gerenian horseman Nestor answered him” (9.162 = 8.151; see [[then-answered]]).

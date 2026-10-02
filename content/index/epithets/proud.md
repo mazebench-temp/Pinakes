@@ -7,7 +7,7 @@ summary: Two epithets of pride and high spirit: ἀγήνωρ, “manly, headstr
 aliases: [headstrong, lordly, agenor, agerochos]
 grc: [θυμὸς ἀγήνωρ, ἀγερώχων]
 en: [proud]
-of: [thymos, rhodians, trojans]
+of: [thymos, rhodians, trojans, achilles]
 ---
 
 ## Meaning

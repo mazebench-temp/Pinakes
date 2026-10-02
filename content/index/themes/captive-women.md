@@ -40,7 +40,7 @@ Chryseis is returned. Odysseus leads her to the altar at Chryse and places her i
 
 ## Prize or person
 
-Is Briseis only a prize to Achilles? He calls her “something small but dear” (1.167), and Thetis leaves him “angry at heart for the sake of the fair-belted woman” (1.429). In Book 9 he says he loved her from his heart, “though she was won by the spear” (9.340–343). Briseis speaks for the first time in Book 19, lamenting Patroclus, who had been kind to her (19.282–300).
+Is Briseis only a prize to Achilles? He calls her “something small but dear” (1.167), and Thetis leaves him “angry at heart for the sake of the fair-belted woman” (1.429). In Book 9 he says he loved her from his heart, “though she was won by my spear” (9.340–343). Briseis speaks for the first time in Book 19, lamenting Patroclus, who had been kind to her (19.282–300).
 
 ## Related entries
 

@@ -3,7 +3,7 @@ title: Menoetius
 greek: Μενοίτιος
 kind: person
 tags: [achaean]
-summary: Father of [[Patroclus]], named in Book 1 only through his son's patronymic.
+summary: Father of [[Patroclus]], a son of Actor, from Opus. He brought the boy Patroclus to the house of [[Peleus]] after a killing, and when the army gathered for Troy he charged him to give Achilles good counsel (11.785–789, 23.84–90).
 grc: [Μενοιτιάδ*]
 en: [Menoetius]
 relations:

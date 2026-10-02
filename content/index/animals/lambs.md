@@ -7,6 +7,8 @@ summary: Lambs, the young of the flock, offered to the gods in sacrifice and sla
 aliases: [lamb]
 grc: [ἀρνῶν]
 en: [lambs]
+# μήλων "of the flocks" (the Book 2 note) also spells μήλων "of the fruit": αὐτοῖς ἄνθεσι μήλων, the fruit blossoms of Oeneus' orchard (9.542).
+except: [9.542]
 ---
 
 ἀρήν (“lamb”) is known only in its other cases, such as ἀρνός, ἀρνί, ἄρνα; the nominative is a grammarians' form. With the ram (ἀρνειός) and the sheep and goats of the flock (μῆλα), lambs are the small livestock of the Homeric world, beside the cattle that measure wealth.

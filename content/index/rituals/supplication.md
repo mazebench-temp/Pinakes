@@ -4,7 +4,7 @@ greek: λίσσομαι
 kind: ritual
 tags: [supplication]
 summary: Begging with prescribed gestures, which puts the one supplicated under the gods' eye.
-aliases: [suppliant, suppliants, supplicate, entreaty, hiketeia, litai]
+aliases: [suppliant, suppliants, supplicate, entreaty, hiketeia]
 grc: [λίσσετο, λίσσομαι, λίσσομʼ, λίσαι, γούνων, γουνάσομαι, ἀνθερεῶνος, λισσομένη, ἐμπεφυυῖα]
 en: [begged, beg, implore, entreat, clasped, beneath the chin, in supplication, clinging close]
 passages:

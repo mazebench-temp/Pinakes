@@ -6,6 +6,9 @@ tags: [trojan, house-of-priam, woman]
 summary: The most beautiful of [[Priam]]'s daughters and the wife of [[Helicaon]], son of Antenor. [[Iris]] takes her likeness to call Helen to the wall.
 aliases: [Laodike]
 grc: [Λαοδίκην]
+# 9.145 and 9.287 (Λαοδίκη) are Agamemnon's daughter, laodice-daughter-of-agamemnon; excepted as a
+# precaution, so that neither a later form nor the English name brings Priam's daughter into Book 9.
+except: [9.145, 9.287]
 refs: [3.122]
 relations:
   - father: priam (3.124)

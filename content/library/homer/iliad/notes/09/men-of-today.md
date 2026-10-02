@@ -1,0 +1,10 @@
+---
+summary: Phoenix looks back to “the men of old, the heroes”, and in his story Idas was “the strongest of men on earth in those days”, strong enough to draw his bow against Apollo. The heroes of the Iliad have their own heroic past, as the poem's audience has theirs.
+passages:
+  - 9.524-528 | The famous deeds of the men of old
+  - 9.557-560 | Idas and Apollo
+---
+
+Phoenix introduces his story with a generation older than the one at Troy: “So too we have heard the famous deeds of the men of old, the heroes” (τῶν πρόσθεν … ἡρώων, 9.524–525; see [[kleos]] and [[heros]]). He remembers the deed “from long ago, not recent at all” (9.527). The men of the story are measured as Nestor measured his Lapiths, “the mightiest of all men ever raised on earth” (κάρτιστοι … ἐπιχθονίων … ἀνδρῶν, 1.266; see [[nestor-and-the-centaurs]]). Idas, in the same Greek words, was “the strongest of men on earth in those days” (κάρτιστος ἐπιχθονίων … τῶν τότε, 9.558–559), and he took up his bow against Phoebus Apollo for his bride (9.559–560; see [[idas-and-apollo]]). τῶν τότε, “of that time”, sets the past apart, as the narrator sets his heroes apart from men “such as mortals are now” (5.304; see the article above). The heroes of the Iliad listen to stories of stronger men, as the poem's hearers listen to the Iliad. When the envoys found Achilles he was singing them himself, “the famous deeds of men” (κλέα ἀνδρῶν, 9.189; see [[song-and-fame]]).
+
+The past that Phoenix calls “long ago” (9.527) is near. Meleager was a son of Oeneus (9.543), and so was Tydeus, the father of Diomedes (5.813, 14.117–118): the hero of the story was the uncle of a man who fights at Troy. By the time of the Catalogue the house is gone from Aetolia, for “the sons of great-hearted Oeneus were no more, nor was he himself still living, and fair-haired Meleager was dead” (2.641–642; see [[oeneus]] and [[meleager]]). The heroic age of the heroes lies a generation or two behind them, in the youth of the old men who tell of it.

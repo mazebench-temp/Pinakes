@@ -14,6 +14,10 @@ relations:
 
 {{notes}}
 
+## Elsewhere in Homer
+
+Peleus is the son of Aeacus, a son of Zeus (Iliad 21.189). The gods attended his wedding to Thetis (24.59–63). He received the exile [[Phoenix]] and made him lord of the Dolopians (9.478–484), and when Achilles sailed for Troy he sent Phoenix with him (9.438–443). In Book 24 Achilles weeps for him with Priam, an old father who will not see his son again.
+
 ## Outside Homer
 
-Peleus is the son of Aeacus, a son of Zeus (Iliad 21.189). The gods attended his wedding to Thetis (24.59–63), and in the *Cypria* the wedding feast was the scene of Eris' golden apple, which led to the Judgment of Paris. When Achilles sailed for Troy, Peleus sent Phoenix with him (9.438–443). In Book 24 Achilles weeps for him with Priam, an old father who will not see his son again.
+In the *Cypria* the wedding feast of Peleus and Thetis was the scene of Eris' golden apple, which led to the Judgment of Paris.

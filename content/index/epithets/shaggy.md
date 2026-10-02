@@ -7,7 +7,7 @@ summary: “Hairy, shaggy,” an epithet of the Centaurs, the “shaggy beasts�
 aliases: [hairy, lachneeis]
 grc: [λαχνήεντας]
 en: [shaggy]
-of: [centaurs]
+of: [centaurs, the-calydonian-boar]
 ---
 
 ## Meaning

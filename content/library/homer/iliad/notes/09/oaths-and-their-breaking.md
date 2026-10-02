@@ -1,0 +1,9 @@
+---
+summary: Agamemnon offers, with Briseis, “a great oath” that he never lay with her, and Odysseus repeats it; the oath is sworn in Book 19. On the same night the great oath Achilles swore on the scepter in Book 1 comes true: the Achaeans long for him, Hector is killing them, and the king grieves that he did not honor the best of the Achaeans.
+passages:
+  - 9.131-134 | Agamemnon's oath on Briseis
+---
+
+**An oath offered.** Agamemnon's offer includes an oath. With the seven women will come “the daughter of Briseus; and I will swear a great oath besides that I never went up into her bed or lay with her, as is the custom of mankind, of men and women” (9.132–134; see [[briseis]] and [[themis]]). Odysseus repeats it to Achilles word for word, with the persons changed (9.274–276). The oath is offered as part of the payment: the prize is to come back as it was taken. Achilles does not mention it. In Book 19 the oath is sworn before the army, with a boar sacrificed and Zeus, Earth, the Sun and the Erinyes called to witness (19.249–268; see [[oath]]).
+
+**An oath fulfilled.** In Book 1 Achilles swore by the scepter that “someday a longing for Achilles will come upon the sons of the Achaeans, on all of them together”, that Agamemnon would be powerless to help when many fell at the hands of Hector, and that he would “tear the heart within you, in anger that you paid no honor to the best of the Achaeans” (1.233–244; see [[longing-for-achilles]]). Book 9 is the night it comes true. The army has fled before Hector, and the king stands weeping in the assembly (9.9–16), and in the council he admits that he dishonored the man whom Zeus loves (9.115–118; see [[ate]]). The oath was sworn on the scepter, “the ordinances that come from Zeus” (1.238–239), and Nestor reminds the king that Zeus put that scepter and those ordinances into his own hands (9.98–99; see [[kingship-and-authority]]).

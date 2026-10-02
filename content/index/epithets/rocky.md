@@ -3,7 +3,7 @@ title: Rocky
 greek: πετρήεις
 kind: epithet
 tags: [mainland-greece]
-summary: “Rocky,” an epithet of places in the Catalogue of Ships: [[Aulis]], [[Pytho]], and [[Calydon]].
+summary: “Rocky,” an epithet of places, among them [[Aulis]], [[Pytho]] and [[Calydon]].
 aliases: [petreeis]
 grc: [πετρήεσσαν]
 en: [rocky]

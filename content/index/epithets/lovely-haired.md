@@ -4,7 +4,7 @@ greek: ἠΰκομος
 kind: epithet
 tags: [divine-epithet]
 summary: “With beautiful hair,” an epithet of goddesses and women.
-aliases: [lovely-haired, fair-tressed, eukomos]
+aliases: [lovely-haired, fair-tressed, eukomos, kallikomos]
 grc: [ἠΰκομος]
 en: [of the lovely hair]
 of: [leto, briseis, helen, athena]

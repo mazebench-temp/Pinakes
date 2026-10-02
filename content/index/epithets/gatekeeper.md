@@ -12,7 +12,7 @@ of: [hades]
 
 ## Meaning
 
-πυλάρτης = πύλη (“gate”) + the root of ἀραρίσκω (“fit, fasten”): “who fastens the gates.” The house of Hades has gates, and they close behind the dead. Sarpedon tells Tlepolemus that he “will pass the gates of Hades” (5.646), Achilles hates the man who says one thing and hides another “like the gates of Hades” (9.312–313), and the ghost of Patroclus wanders before the “wide-gated house of Hades” and cannot cross the river (23.71–74). The gates of Tartarus, far below, are of iron (8.15; [[tartarus]]).
+πυλάρτης = πύλη (“gate”) + the root of ἀραρίσκω (“fit, fasten”): “who fastens the gates.” The house of Hades has gates, and they close behind the dead. Sarpedon tells Tlepolemus that he “will pass the gates of Hades” (5.646), Achilles says that the man who hides one thing in his mind and says another is “hateful to me as the gates of Hades” (9.312–313), and the ghost of Patroclus wanders before the “wide-gated house of Hades” and cannot cross the river (23.71–74). The gates of Tartarus, far below, are of iron (8.15; [[tartarus]]).
 
 The epithet occurs three times, always in the genitive after the name, in a phrase for the journey to the dead: of Heracles, sent down alive to bring back the hound (8.367); of Asius, who goes to the house of Hades “the strong gatekeeper,” in Deiphobus' boast (13.414–416); and of Epicaste, the mother of Oedipus, who went down to Hades after she hanged herself (Od. 11.276–278). The noun in the line-end πυλάρταο is not the Trojan Pylartes (11.491, 16.696). The gate of Hades is also at issue at 5.397, where Heracles' wounding of Hades can be read “in Pylos” or “at the gate” ([[pylos-or-the-gate]]).
 

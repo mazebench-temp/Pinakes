@@ -7,7 +7,7 @@ summary: “Born of Zeus,” an honorific of kings and heroes.
 aliases: [Zeus-born, diogenes]
 grc: [διογενὲς, διογενὴς]
 en: [sprung from Zeus]
-of: [achilles, patroclus, odysseus]
+of: [achilles, patroclus, odysseus, agamemnon, ajax]
 ---
 
 ## Meaning

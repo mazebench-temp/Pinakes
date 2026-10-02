@@ -6,6 +6,7 @@ tags: [sea]
 summary: The adjective δῖος (“bright, divine”) applied to the [[sea]].
 aliases: [bright sea, divine sea]
 grc: [δῖαν]
+except: [9.240, 9.662]
 en: [shining]
 of: [sea]
 ---

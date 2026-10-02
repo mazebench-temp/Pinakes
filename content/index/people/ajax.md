@@ -35,7 +35,7 @@ Elsewhere he is the best after Achilles “in form and in deeds” (17.279–280
 
 ## Elsewhere in Homer
 
-**The line and the embassy.** His ships are drawn up at one end of the camp and Achilles' at the other (8.222–226 = 11.5–9). In the embassy he speaks first to Odysseus, of Achilles in the third person, and then to Achilles himself: Achilles has made his great heart savage; men accept a blood-price even for a brother or a son, but the gods have given Achilles an implacable heart over one girl (9.624–642). Achilles grants that he has spoken after his own heart, but will not fight until Hector reaches the Myrmidons' ships (9.644–655).
+**The line and the embassy.** His ships are drawn up at one end of the camp and Achilles' at the other (8.222–226 = 11.5–9). He is one of the three envoys to Achilles in Book 9, and his short, blunt speech wins the only concession Achilles makes (9.624–655; see [[the-embassy-to-achilles]]).
 
 **The wall and the ships.** He rescues Odysseus, cut off among the Trojans (11.465–491), and when Zeus puts fear in him he gives ground step by step, like a lion driven from the cattle or a donkey that boys can hardly beat out of the grain, with spears standing in his shield (11.544–574). He holds the wall with the other Ajax and with Teucer, and drives Sarpedon back from the battlement (12.265–270, 12.370–407). He fells Hector with a stone (14.409–420). At the ships he strides from deck to deck with a pike twenty-two cubits long, tells the army that no wall and no city stands behind them, “so the light is in our hands”, and wounds twelve men who come with fire (15.674–688, 15.733–746). He gives way only when Hector lops the head from his spear and he sees the work of Zeus, and the first ship burns (16.114–123).
 

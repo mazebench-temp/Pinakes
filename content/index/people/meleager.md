@@ -18,7 +18,7 @@ passages:
 
 ## Elsewhere in Homer
 
-In Book 9 Phoenix tells his story to Achilles as a warning (9.529–599; see [[mythological-paradigm]]). Artemis, angered because Oeneus had forgotten her at a harvest sacrifice, sent a boar to ravage Calydon. Meleager gathered hunters from many cities and killed it. The Curetes and the Aetolians then fought over its head and hide. Meleager killed his mother's brother in the fighting, and his mother Althaea, beating the earth, called on Hades and Persephone to kill her son; the Erinys heard her. Angry with his mother, Meleager withdrew from the war and lay beside his wife, Cleopatra. The elders, the priests, his father, his sisters and his mother begged him to fight, and offered him a rich gift of land; he refused, until the Curetes were at the walls and Cleopatra listed the sorrows of a captured city. Then he fought and saved Calydon, but he never received the gifts. Phoenix's point is that Achilles should accept Agamemnon's gifts while they are offered.
+In Book 9 Phoenix tells Achilles the story of his anger, as a warning to take the gifts while they are offered (9.527–599; see [[the-wrath-of-meleager]] and [[mythological-paradigm]]).
 
 ## Outside Homer
 

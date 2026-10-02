@@ -5,8 +5,8 @@ kind: term
 tags: [exchange]
 summary: Gifts, the goods that bind people and gods to one another: offerings to the gods, prizes, compensation, and what the gods themselves give to men.
 aliases: [dōron, doron, dōra, gift]
-grc: [δῶρα, δῶρʼ]
-en: [gifts]
+grc: [δῶρα, δῶρʼ, δῶρον]
+en: [gifts, gift]
 ---
 
 ## Meaning

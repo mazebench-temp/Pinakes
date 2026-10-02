@@ -1,0 +1,5 @@
+---
+summary: Aphrodite is named once, as the measure of beauty. Achilles will not marry Agamemnon's daughter, “not if she rivaled golden Aphrodite in beauty” (9.389).
+---
+
+Achilles' refusal sets the girl beside two goddesses, Aphrodite for beauty and Athena for handiwork (9.388–391; the passage is quoted in the note on [[athena]]). χρυσέη Ἀφροδίτη, “golden Aphrodite”, is the poem's standard for a beautiful woman (see [[golden]]). Paris' looks are “the lovely gifts of golden Aphrodite” (3.64). When Briseis comes back to Achilles' hut in Book 19, she is “like golden Aphrodite” (ἰκέλη χρυσέῃ Ἀφροδίτῃ, 19.282), and so is Cassandra when she sees her father bringing Hector home (24.699). In the Odyssey Hermione has the beauty of golden Aphrodite (*Odyssey* 4.14), and Penelope comes down from her room like Artemis or golden Aphrodite (*Odyssey* 17.37 = 19.54). Achilles imagines a bride who could rival the goddess and refuses her; the woman the poem will liken to Aphrodite is the one Agamemnon took from him (see [[briseis]] and [[marriage]]).

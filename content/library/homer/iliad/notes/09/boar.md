@@ -1,0 +1,11 @@
+---
+summary: Book 9 has the most famous boar in Homer, the one Artemis sent against the orchards of Oeneus at Calydon, which Meleager killed with huntsmen and dogs from many cities. Tame pigs belong to two feasts, Achilles' meal for the envoys and the feasting with which Phoenix's kinsmen tried to keep him at home.
+grc: ["=σῦν", σύες]
+en: [hog, hogs]
+passages:
+  - 9.538-549 | The boar of Calydon
+---
+
+**The boar of Calydon.** In Phoenix's story Artemis, angry that Oeneus forgot her at the harvest offering, “roused against him a wild boar, a lurker in the grass, with white tusks” (χλούνην σῦν ἄγριον ἀργιόδοντα, 9.538–539; see [[the-calydonian-boar]] and [[artemis]]). χλούνης occurs only here and was explained in antiquity as “lying in the grass”; the sense is uncertain (see the translation's note on 9.539). ἀργιόδους, “white-tusked”, is used of tame hogs as well as wild ones (23.32; *Odyssey* 14.423). The boar does on a greater scale what wild boars do in the similes, where they wreck the woods and turn on the hunters: it lays waste the orchard of Oeneus, throwing many tall trees to the ground, uprooted, roots and blossoms and all (9.540–542). It is too big for a few men to kill, and it sets many on the pyre. Meleager kills it with huntsmen and dogs gathered from many cities (9.543–546; see [[meleager]] and [[dogs]]), and the din and shouting over its head and shaggy hide set the Curetes against the Aetolians (9.547–549; see [[curetes]] and [[the-wrath-of-meleager]]). It is the Iliad's only wild boar outside the similes, and the only one sent by a god.
+
+**Pigs at the feast.** σῦς is also the tame pig. Achilles' meal for the envoys includes “the chine of a fat hog, rich with lard” (συὸς σιάλοιο ῥάχιν, 9.208; see [[feast-type-scene]]), and Phoenix's kinsmen, begging him to stay at home, slaughtered sheep and cattle, “and many hogs, rich with lard, were stretched to singe across the flame of Hephaestus” (9.466–468; see [[sheep]] and [[cattle]]). The verses of that feast return at the funeral of Patroclus, where Achilles gives the Myrmidons a feast of oxen, sheep, goats and white-tusked hogs (23.30–33; 9.468 = 23.33). σίαλος, “a fat hog”, is a common word in the Odyssey, where Eumaeus keeps the pigs (*Odyssey* 14.19, 14.41).

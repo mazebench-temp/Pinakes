@@ -4,10 +4,10 @@ greek: μενεπτόλεμος
 kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Standing firm in war,” an epithet of warriors and warlike peoples.
-aliases: [staunch in war, meneptolemos]
+aliases: [staunch in war, meneptolemos, menecharmes]
 grc: [μενεπτόλεμος, μενεπτόλεμοί]
 en: [steadfast in battle]
-of: [polypoetes, perrhaebians]
+of: [polypoetes, perrhaebians, aetolians]
 ---
 
 ## Meaning

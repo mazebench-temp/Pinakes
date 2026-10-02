@@ -51,6 +51,19 @@ Use `^` (only when capitalized), so that the clash never recurs:
 | Εὐρυσθεύς (Εὐρυσθῆος 8.363) | εὐρυσθενής "wide in strength" (8.201) | eurystheus: the exact form; add Εὐρυσθεύς (19.123) later, never a stem |
 | σειρή "rope" (the golden rope, 8.19, 8.25) | Σειρῆνες, the Sirens (Odyssey 12) | the-golden-rope: `σειρὴν`; Melanthius' rope (Od. 22.175, 22.192) will need `except` |
 | τάλαντα "scales" (8.69; 16.658, 19.223, 22.209) | τάλαντα "talents" of gold (9.122, 18.507, 19.247, 23.269) | the-scales-of-zeus: the phrase `ἐτίταινε τάλαντα`; later `Διὸς ἱρὰ τάλαντα` (16.658), `κλίνῃσι τάλαντα` (19.223) |
+| Κρείων, father of Lycomedes (Κρείοντος 9.84) | κρείων "powerful" (κρείων Ἀγαμέμνων 9.62, 9.368) | creon: `^Κρείοντος` |
+| Ἱρή, the Messenian town (Ἱρήν 9.150, 9.292) | ἱρή "sacred" (ἱρήν) | hire: `^Ἱρήν`; hieros: `"!^Ἱρήν"` |
+| Ἐνόπη, the Messenian town (9.150, 9.292) | ἐνοπή "shout, cry" (3.2) | enope: `^Ἐνόπην` |
+| Αἴπεια, the Messenian town (9.152, 9.294) | αἰπεῖαν "steep", of Scyros (9.668) | aepeia: `^Αἴπειαν`; steep (Book 9 note): `"=αἰπεῖαν"` |
+| Φηραί, Messenian Pherae (Φηράς 9.151, 9.293) | φῆρας "beasts", the Centaurs (2.743) | pherae-in-messenia: `^Φηράς`; centaurs (Book 2 note): `"=φῆρας"` |
+| Ἀμύντωρ, Phoenix's father (9.448) | ἀμύντωρ "defender" (Od. 2.326, 16.256, 16.261) | amyntor: `^Ἀμύντορος` |
+| Κουρῆτες, the people (9.529, 9.532, 9.549, 9.551, 9.589) | κουρῆτες "young men" (19.193, 19.248) | curetes: `^Κουρη*` |
+| Ἀλκυόνη, Cleopatra's byname (Ἀλκυόνην 9.562) | ἀλκυών, the halcyon (ἀλκυόνος 9.563) | cleopatra: `Ἀλκυόνην`; halcyon: ἀλκυόνος |
+| Ἴδης, Idas (Ἴδεω 9.558) | Ἴδη, Ida (Ἴδης 8.75); ἰδέω (14.235) | idas: `^Ἴδεω`; ida: `"=Ἴδης"` |
+| Διομήδη, Achilles' captive from Lesbos (9.665) | Διομήδης | diomede: `"=Διομήδη"`; diomedes claims exact forms |
+| Ἶφις, Patroclus' captive (9.667) | ἶφι "by might" | iphis: the exact form |
+| Δόλοπες (Δολόπεσσιν 9.484) | the names Δόλοψ (11.302, 15.525–555) and Δολοπίων (5.77) | dolopians: the exact form |
+| Ζεὺς καταχθόνιος, Hades (9.457) | Ζεύς | zeus: `except: [9.457]`; hades: the phrase `"Ζεύς τε καταχθόνιος"`; zeus-of-the-underworld claims καταχθόνιος |
 
 Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) is not εἴσατο "seemed" (eidos: `except: [5.538]`); ὀξὺ νόησε "was quick to see" (3.374, 5.312, 5.680) is not the epithet "sharp" (sharp: `"!ὀξὺ νόησε"`); νέμεσθαι "to graze" (5.777) is not νέμεσις (nemesis: `"!νέμεσθαι"`); ἑκηβολίαι, Scamandrius' skill with the bow (5.54), is not Apollo the far-shooter (apollo: `except: [5.54]`).
 
@@ -83,7 +96,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Πείρως, Πείρεως | peirous (2.844, 4.520, 4.525); Rhigmus "son of Peireos" (20.484–485) may be his son |
 | Ἰδαῖος | idaeus, Priam's herald (Books 3, 7, 24; `except: [5.11, 5.20]`); idaeus-son-of-dares claims only its two phrases, "Φηγεὺς Ἰδαῖός" and "Ἰδαῖος δʼ ἀπόρουσε" (5.11, 5.20), so it needs no `except` for the herald's lines (7.276, 7.278, 7.372, 7.381, 7.413, 7.416, 24.325) |
 | Ἀντηνορίδης | helicaon (3.123); Antenor has many other sons in later books (Agenor, Coön, Iphidamas…) |
-| Εὐρυβάτης | eurybates, Agamemnon's herald; eurybates-of-ithaca (2.184) |
+| Εὐρυβάτης | eurybates, Agamemnon's herald; eurybates-of-ithaca (2.184). The herald of the embassy (9.170) is taken as Agamemnon's, and eurybates claims `Εὐρυβάτ*`, which will need an `except` for Odysseus' herald at Od. 19.247 |
 | Ἐπίστροφος | epistrophus (2.517), epistrophus-of-lyrnessus (2.692), epistrophus-of-the-halizones (2.856) |
 | Ἀμφίμαχος | amphimachus (2.620), amphimachus-of-caria (2.870–871) |
 | Ἄντιφος | antiphus (2.678), antiphus-of-maeonia (2.864), antiphus-son-of-priam (4.489; Book 11 again) |
@@ -98,7 +111,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Θόων | thoon-son-of-phaenops (5.152); Trojans of the same name (11.422, 12.140, 13.545) |
 | Φαῖνοψ | phaenops, father of Xanthus and Thoon (5.152); the father of Phorcys (17.312) and Phaenops son of Asius (17.583) are others |
 | Ἕλενος | helenus-son-of-oenops (Ἕλενον, 5.707; it will need `except: [24.249]`, where Ἕλενον is Priam's son); helenus, Priam's son, "by far the best of the bird-seers" (6.76 …; `except: [5.707]` if a pattern catches Ἕλενον) |
-| Ὀρέστης | orestes-the-achaean (5.705); Agamemnon's son (9.142, 9.284) takes the plain id orestes; a Trojan (12.139, 12.193) |
+| Ὀρέστης | orestes-the-achaean (5.705); orestes, Agamemnon's son (9.142, 9.284); a Trojan Orestes (12.139, 12.193), whom orestes-the-achaean's Ὀρέστην will catch, will need his own id |
 | Οἰνόμαος, Τεύθρας | oenomaus (5.706) and teuthras (5.705), killed by Hector; a Trojan Oenomaus (12.140, 13.506); Axylus is "son of Teuthras" (Τευθρανίδην, 6.13): teuthras-father-of-axylus |
 | Ἄμφιος | amphius, son of Merops (Ἄμφιος, 2.830); amphius-son-of-selagus (Ἄμφιον, 5.612). Both came from (A)paesus |
 | Ὀρσίλοχος | orsilochus-son-of-diocles (5.542, 5.549; `except: [8.274]`); orsilochus-killed-by-teucer (8.274); their grandfather is ortilochus (5.546–547); Idomeneus' son in Odysseus' false tale (Od. 13.260) |
@@ -106,7 +119,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Μηκιστεύς | mecisteus, son of Talaus (Μηκιστέος 2.566; 23.678); mecisteus-son-of-echius, who carries Teucer away (8.333) and Hypsenor (13.422) and dies at 15.339 (Μηκιστῆ): watch the forms |
 | Ἐχίος | echius, father of Mecisteus (8.333); an Achaean killed by Polites (15.339) and a Lycian killed by Patroclus (16.416) |
 | Ἀγέλαος | agelaus, son of Phradmon (8.257); an Achaean killed by Hector (11.302); the suitor of the Odyssey |
-| Ὄρμενος | ormenus, Teucer's victim (8.274); a Trojan killed by Polypoetes (12.187); Ὀρμενίδης, Phoenix's father Amyntor (9.448); ὀρμενον, the participle "rushing" (17.738, 21.14) |
+| Ὄρμενος | ormenus, Teucer's victim (8.274); a Trojan killed by Polypoetes (12.187); ormenus-father-of-amyntor claims only Ὀρμενίδαο (9.448), since Ctesius, Eumaeus' father, is also Ὀρμενίδης (Od. 15.414); ὀρμενον, the participle "rushing" (17.738, 21.14) |
 | Ὀφελέστης | ophelestes, Teucer's victim (8.274); a Paeonian killed by Achilles (21.210) |
 | Λάμπος, Αἴθων, Πόδαργος, Ξάνθος (horses) | the-horses-of-hector (8.185: `^Λάμπε`, `^Αἴθων`, Πόδαργε, `^Ξάνθε`); lampus is the Trojan elder (3.147, 15.526); Πόδαργος is also Menelaus' horse (23.295), Ποδάργη the Harpy (16.150); Ξάνθος also Achilles' horse (19.400, 19.420: `except` them on the-horses-of-hector); Αἴθων is Odysseus' false name (Od. 19.183); `^Λάμπε` keeps out λάμπε "shone" (12.463) |
 | Ἰφιτίδης / Ἴφιτος | iphitus-father-of-archeptolemus (Ἰφιτίδην 8.128); iphitus, the Phocian father of Schedius (2.518) |
@@ -133,7 +146,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Μενέσθιος | menesthius, son of Areithous (7.9); the Myrmidon leader Menesthius son of Spercheius (16.173) will need his own id |
 | Ἠϊονεύς | eioneus, killed by Hector (7.11); the father of Rhesus (10.435) will need his own id |
 | Αἴσηπος | aesepus, the river (2.825, 4.91); aesepus-son-of-bucolion (6.21) |
-| Πήδασος | pedasus-son-of-bucolion (6.21); pedasus-on-the-satnioeis, the town of Elatus (6.35; 20.92, 21.87); Pedasus in Messenia (9.152, 9.294) and Achilles' trace horse (16.152, 16.467) will need their own ids |
+| Πήδασος | pedasus-son-of-bucolion (6.21); pedasus-on-the-satnioeis, the town of Elatus (6.35; 20.92, 21.87); pedasus-in-messenia (the phrase `"Πήδασον ἀμπελόεσσαν"`, 9.152, 9.294; both others except those lines); Achilles' trace horse (16.152, 16.467) will need its own id |
 | Φύλακος | phylacus, father of Iphiclus (Φυλακίδαο, 2.705); phylacus-the-trojan (6.35) |
 | Μελάνθιος | melanthius-the-trojan (6.36); the goatherd of the Odyssey (Μελάνθιον, Od. 21.175, 21.265, 22.474) will take the plain id |
 | Ἔλατος | elatus (6.33); a suitor Elatus (Od. 22.267) |
@@ -141,9 +154,18 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ἀτρεΐδης | agamemnon and menelaus both; agamemnon excepts the lines where the son of Atreus is Menelaus (6.44, 6.46), and atreidae claims the pair (Ἀτρεΐδας, 6.437) |
 | Αἰολίδης, Αἴολος | aeolus-father-of-sisyphus (6.154); its English "Aeolus" will clash with the Odyssey's Aeolus son of Hippotas, keeper of the winds (Od. 10.1–76) |
 | Ὀφέλτιος | opheltius (6.20); an Achaean Opheltius killed by Hector (11.302) |
-| Λαοδίκη | laodice, Priam's daughter (3.124, 6.252); Agamemnon's daughter Laodice (9.145, 9.287) will need her own id |
+| Λαοδίκη | laodice, Priam's daughter (3.124, 6.252); laodice-daughter-of-agamemnon (Λαοδίκη 9.145, 9.287; laodice excepts those lines) |
 | Ἠετίων | eetion, Andromache's father (1.366, 6.395 …); Eetion of Imbros, who ransomed Lycaon (21.43); Eetion, the father of Podes (17.575, 17.590) |
 | Πάνδαρος | pandarus claims `Πάνδαρ*`, which will catch Pandareus (Πανδάρεος, Od. 19.518, 20.66) once the Odyssey is added: add `"!Πανδαρε*"` |
+| Ὀδίος | odius, leader of the Halizones (2.856; `except: [9.170]`); odius-the-herald (9.170; `except: [2.856]`) |
+| Εὔηνος | euenus, son of Selepus (2.693); evenus-father-of-marpessa (Εὐηνίνης 9.557); the Aetolian river Evenus is named after him in later myth |
+| Φόρβας | phorbas-father-of-diomede claims the phrase `"Φόρβαντος θυγάτηρ"` (9.665); the Trojan Phorbas, father of Ilioneus (14.490), will need his own id |
+| Λυκομήδης | lycomedes, son of Creon (9.84; 12.366, 17.345, 19.240); Lycomedes king of Scyros belongs to later myth |
+| Κρείων | creon, father of Lycomedes (9.84); Creon of Thebes, father of Megara (Od. 11.269), will need his own id and creon an `except` |
+| Ἀφαρεύς, Καλήτωρ | aphareus, son of Caletor (9.83; 13.541); in later myth Aphareus is the father of Idas; Aphareus' father Caletor (13.541) is not the Trojan Caletor (15.419) |
+| Φοῖνιξ | phoenix, Achilles' tutor (`^Φοῖνιξ`, `^Φοίνικι`); the father of Europa (Φοίνικος, 14.321); Φοίνικες, the Phoenicians (23.744); Φοῖνιξ "a Phoenician" (Od. 14.288) will need an `except` |
+| Αἰακίδης | achilles and grandson-of-aeacus claim Αἰακίδαο and Αἰακίδην, always Achilles; Αἰακίδης is Peleus at 16.15, 18.433 and 21.189 |
+| Μενοιτίου υἱός | patroclus and son-of-menoetius claim `"Μενοιτίου υἱὲ"` (9.202); "Μενοιτίου ἄλκιμος υἱός" (11.605 on) will need adding |
 
 ## Places that share a name
 
@@ -155,12 +177,12 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Αἰγιαλός | aegialus (2.575), aegialus-of-paphlagonia (2.855) |
 | Σελλήεις | selleis-ephyra (2.659), selleis-arisbe (2.839) |
 | Χαλκίς | chalcis (2.537), chalcis-aetolia (2.640) |
-| Ὀρχομενός | orchomenus (2.511), orchomenus-arcadia (2.605) |
+| Ὀρχομενός | orchomenus (2.511; 9.381, the Minyan city of wealth), orchomenus-arcadia (2.605; `except: [2.511, 9.381]`) |
 | Πτελεός | pteleus (2.594), pteleus-thessaly (2.697) |
 | Ἕλος | helos (2.584), helos-pylos (2.594) |
 | Αὐγειαί | augeiae (2.532), augeiae-laconia (2.583) |
 | Ξάνθος | xanthus-of-lycia (2.877, 5.479; the phrase `"Ξάνθόν τε ῥέοντα"` at 6.172, since 5.152 also reads Ξάνθόν τε; `except: [6.4]`); the Trojan river under its gods' name Xanthus is scamander (`^Ξάνθοιο` 6.4; also 8.560, 14.434, 21.2, 21.337, 21.383; `except: [6.172]`), but Ξάνθοιο at 12.313 is the Lycian river |
-| Πήδασος (the town) | pedasus-on-the-satnioeis (6.35) and pedasus-son-of-bucolion (6.21) share Πήδασον: each excepts the other's line |
+| Πήδασος (the town) | pedasus-on-the-satnioeis (6.35) and pedasus-son-of-bucolion (6.21) share Πήδασον: each excepts the other's line; pedasus-in-messenia claims "vine-rich Pedasus" (`"Πήδασον ἀμπελόεσσαν"`, 9.152, 9.294), and both except those lines |
 | Θήβη Ὑποπλακίη | thebe claims the phrase `"Θήβῃ Ὑποπλακίῃ"` (6.397), because Θήβῃ alone is Boeotian at 14.323 and 19.99 |
 | Κελάδων, Φειά | celadon claims `^Κελάδοντι` (7.133), because κελάδοντα is "roaring" (18.576); pheia claims Φειᾶς (7.135) and will need Φεάς (Od. 15.297) |
 | Ἰάρδανος | iardanus, the river by Pheia in Elis (7.135); the Cretan Iardanus (Od. 3.292, the same half-verse) will need its own id |
@@ -171,9 +193,12 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Κηφισίς λίμνη / Κηφισός | cephisian-lake (5.709); cephisus, the river (2.522–523) |
 | Παισός / Ἀπαισός | apaesus (Ἀπαισοῦ 2.828, `^Παισῷ` 5.612): the same town |
 | Δαρδάνιαι πύλαι / Σκαιαὶ πύλαι | dardanian-gates (5.789, 22.194, 22.413); scaean-gates. They may be one gate under two names |
-| φηγός, the oak of Zeus | the-oak-of-zeus (5.693, φηγόν 6.237); later books need 9.354 and 11.170, and a simile oak at 16.767 must be excepted |
+| φηγός, the oak of Zeus | the-oak-of-zeus (5.693, φηγόν 6.237); 9.354 is claimed; 11.170 will need adding, and a simile oak at 16.767 must be excepted |
 | Ἐφύρη | ephyra, Astyocheia's Ephyra on the Selleis (Ἐφύρης 2.659); ephyra-in-argos, "in a corner of Argos", later Corinth (Ἐφύρη 6.152, Ἐφύρῃ 6.210) |
 | Φρυγίη, Μῃονίη | phrygia and maeonia are places; phrygians and maeonians are peoples (the people's stem must not catch the land: maeonians `[Μῄο*, "!Μῃονίη*"]`, which still lets in Μῃονίς "a Maeonian woman", 4.142) |
+| Θῆβαι in Egypt | thebes-in-egypt (`"ὅσα Θήβας"` 9.381, Αἰγυπτίας 9.382; Od. 4.126–127); thebes (Boeotian) `except: [2.691, 9.381]`; egypt shares Αἰγυπτίας |
+| Αἰγύπτιος | egypt and thebes-in-egypt (9.382); Αἰγύπτιος, the Ithacan elder (Od. 2.15), will need his own id |
+| Θρῄκη / Θρῇκες | thrace, the land (Θρῄκηθεν 9.5, 9.72); thracians, the people (`Θρήϊκ*`) |
 
 ## Epithets that also describe other things
 
@@ -189,19 +214,21 @@ A formulaic epithet can describe something else in a later book, where its patte
 | δαιμόνιε, δαιμονίη "strange one" (strange-one) | δαίμονι ἶσος "like a god" (5.438, 5.459, 5.884) | strange-one: `"!=δαίμονι"` |
 | ἑκηβόλος, of Apollo (far-shooter) | ἑκηβολίαι, Scamandrius' skill (5.54) | far-shooter and apollo: `except: [5.54]` |
 | κοῖλος, of ships (hollow-ships) | of a ravine (4.454), of Lacedaemon (2.581) | `except` the other lines on hollow-ships |
-| φοῖνιξ, the purple dye (4.141) | Φοῖνιξ, Achilles' old tutor (Book 9) | purple will need `"!^Φοίνι*"` from Book 9 on |
+| φοῖνιξ, the purple dye (4.141) | Φοῖνιξ, Achilles' old tutor (Book 9) | purple: `"!^Φοίνικ*"`; phoenix claims `^Φοῖνιξ`, `^Φοίνικι`, and will need Φοίνικα (23.360) |
 | εὔχομαι, εὐχωλή "pray, prayer" (prayer) | the same words meaning "claim, boast": 1.91, 2.82, 2.160, 2.176, 2.597, 3.430, 4.173, 4.264, 4.405, 4.450, and in Book 5 (euchomai) | `except` the boast lines on prayer, book by book |
 | εὐξ*, the prayer stem | ἐΰξοος "polished" (2.390, 4.105) | prayer: `"!ἐϋξοο*"` |
 | ἰός "arrow" (arrows) | ἰόν "going" (4.278) | `except` on arrows |
 | ἀγγελίη "embassy" (embassy) | "message, news" (13.252, 15.640) | `except` those lines on embassy |
 | φάρμακα "drugs" (healing) | harmful drugs and poisons in the Odyssey | `except` those lines on healing |
-| μέλαινα, of ships (black-ships) | νὺξ μέλαινα "black night" (8.486, 8.502; black-night) | black-ships: `except` those lines; later 9.65, 10.297, 10.394, 10.468, 24.366, 24.653 |
+| μέλαινα, of ships (black-ships) | νὺξ μέλαινα "black night" (8.486, 8.502; black-night) | black-ships: `except` those lines (9.65 done); later 10.297, 10.394, 10.468, 24.366, 24.653 |
 | θρασύς "bold" (bold) | θρασὺς πόλεμος, the "bold" war (bold-war: 6.254; 10.28) | bold: `except: [6.254]`, and 10.28 later |
 | ὠκειάων, of swift horses (swift-footed, from the Book 4 note) | νηῶν ὠκειάων "swift ships" (8.197; swift-ships) | swift-footed: `except: [8.197]` |
 | αἰνοτάτη "most dread" (most-dread, 8.423) | αἰνοτάτην ἔριδα "most dread strife" (14.389) | do not add αἰνοτάτην to most-dread |
 | πυλάρτης "gatekeeper" (gatekeeper: πυλάρταο) | Πυλάρτης, Trojans of that name (11.491, 16.696) | gatekeeper claims only πυλάρταο |
 | ἀρηΐθοος "swift in war" (swift-in-war: ἀρηϊθόων) | Ἀρηΐθοος, the mace-man (Book 7) and Rhigmus' charioteer (20.487) | swift-in-war claims only the lowercase plural |
 | μέρμερος "grim" (grim-deeds: μέρμερα ἔργα) | Μέρμερος, a Trojan killed by Antilochus (14.513) | grim-deeds claims the phrase |
+| δῖαν, of the sea (shining-sea) | Ἠῶ δῖαν "brilliant Dawn" (9.240, 9.662) | shining-sea: `except: [9.240, 9.662]` |
+| αἰπεῖα "steep" (steep) | Αἴπεια, the town (9.152, 9.294) | steep (Book 9 note): `"=αἰπεῖαν"` |
 
 
 ## Common words with two senses
@@ -216,22 +243,22 @@ Entries for things and customs claim common words, and a common word can mean so
 | νηός "temple" (temple) | νηός "of a ship" | ships: `except: [5.446]` |
 | βοείας "oxhide shields" (shield) | oxhides (11.843) | shield: the phrase `στήθεσσι βοείας` |
 | ἄντυξ, the chariot rail (chariot) | the rim of a shield (6.118, 14.412) | chariot: `except` the shield lines |
-| ζυγόν "yoke" (chariot) | the crossbar of a lyre (9.187), rowing benches (Odyssey) | chariot: `except` those lines |
+| ζυγόν "yoke" (chariot) | the crossbar of a lyre (9.187), rowing benches (Odyssey) | chariot: `except: [9.187]`, and the Odyssey's benches later; lyre claims the phrase `"ἀργύρεον ζυγὸν"` |
 | προκαλίζομαι "challenge" (single-combat) | a challenge to athletic contests (4.389, 5.807) | single-combat: `except: [4.389, 5.807]`; contests takes the lines |
 | εὔχομαι "boast, claim" | "pray" (prayer) | see the εὔχομαι row above |
 | θεῶν, θεόν "of the gods, god" (theos) | θέων "running" (6.54), θέον "ran" (6.238) | theos: `"!=θέων"`, `"!=θέον"` |
 | θείη "divine" (divine) | θείῃ "runs", of the stallion (6.507 = 15.264) | divine: `"!θείῃ πεδίοιο"` |
-| ἄνα "lord", the vocative (anax: `=ἄνα`) | ἀλλʼ ἄνα "up!" (6.331, 9.247, 18.178, Od. 18.13) | anax: `except` those lines, book by book |
+| ἄνα "lord", the vocative (anax: `=ἄνα`) | ἀλλʼ ἄνα "up!" (6.331, 9.247, 18.178, Od. 18.13) | anax: `except` those lines, book by book (6.331, 9.247 done) |
 | εἴσατο "seemed" (eidos) | εἴσατο "went", of an arrow (4.138) | eidos: `except: [4.138]` |
 | αἶαν "earth" (earth) | Αἶαν, the vocative of Αἴας (7.234, 7.288) | earth: `"!^Αἶαν"` |
 | Δίου, the town Dium (2.538) | δίου "brilliant" (7.138) | dium: `^Δίου`; brilliant (Book 7 note): `"!^Δίου"` |
 | ὑψηλούς, epithet of Erythini (2.855) | the Achaeans' "high towers" (7.338, 7.437) | erythini: the phrase `"ὑψηλοὺς Ἐρυθίνους"` |
 | εὐχ*, εὐξ* "pray" (prayer, euchomai) | εὐχάλκου "of good bronze" (7.12), ἐϋξέστῃς "well-polished" (7.5) | prayer and euchomai: `"!εὐχαλκ*"`, `"!ἐϋξεστ*"` |
-| ἀγγελίη "embassy" (embassy) | "message", Idaeus' report (7.416) | embassy: `except: [7.416]` |
+| ἀγγελίη "embassy" (embassy) | "message", Idaeus' report (7.416) | embassy: `except: [7.416]`; the Book 9 note excepts 9.422 and 9.649 (ἀγγελίην ἀπόφασθε, "declare my message") |
 | πειρᾶν "to try" (peira) | πεῖραν "they threaded (on spits)", from πείρω (7.317) | peira: `=πειρᾶν` |
 | ἤλασαν "drove off" cattle (raiding) | τάφρον ἤλασαν "drove a ditch" (7.450) | raiding: `except: [7.450]` |
 | ἀνέσταν "rose" for Zeus (rising-for-zeus) | the nine volunteers stand up (7.161) | rising-for-zeus: `except: [7.161]` |
-| ἐνδέξια "from left to right", of wine (cupbearing) | the lot carried round (7.184, lots); signs "on the right" (9.236); begging round the room (Od. 17.365) | cupbearing: `except: [7.184]`, and the later lines |
+| ἐνδέξια "from left to right", of wine (cupbearing) | the lot carried round (7.184, lots); signs "on the right" (9.236); begging round the room (Od. 17.365) | cupbearing: `except: [7.184, 9.236]`, and the later lines |
 | βαθεῖαν "deep" (deep-sea) | the deep ditch of the Achaean wall (7.341, 7.440) | deep-sea: `except: [7.341, 7.440]` |
 | μέλαιναν "black", of ships (black-ships) | κῆρα μέλαιναν "black doom" (7.254, as 5.22, 5.652) | black-ships: `except: [7.254]` |
 | κρείων "powerful" (powerful) | εὐρὺ κρείων "wide-ruling", of Agamemnon (7.107, 7.322; wide-ruling) | powerful (Book 7 note): `except: [7.107, 7.322]` |
@@ -242,7 +269,7 @@ Entries for things and customs claim common words, and a common word can mean so
 | πύργους "towers" (the-achaean-wall) | the towers of Troy (18.278, 22.195); 24.443 is the Achaean wall again | the-achaean-wall: the phrases `"πύργους ὑψηλοὺς"`, `"πύργους θʼ ὑψηλούς"`; add 24.443 |
 | σκόλοπας "stakes" (the-achaean-wall) | the stakes on which Hector means to set Patroclus' head (σκολόπεσσι 18.177); the palisade on the Phaeacians' walls (Od. 7.45) | the-achaean-wall: add σκολόπεσσιν (12.55, 15.344) and σκόλοπες (12.63), which leave 18.177 alone |
 | γέρουσιν "elders" (trojan-elders, 6.113) | the Achaean elders (4.344, 9.70) | trojan-elders: the form βουλευτῇσι and `refs: [6.113]`, not γέρουσιν |
-| ἀμφίπολος, δμῳή "handmaid, slave woman" (handmaids) | ἀμφιπολεύω "tend" (Odyssey); δμωῇσι printed without the iota subscript (9.658) | handmaids: `"!ἀμφιπολευ*"` when the Odyssey comes; add the unsubscripted form |
+| ἀμφίπολος, δμῳή "handmaid, slave woman" (handmaids) | ἀμφιπολεύω "tend" (Odyssey); δμωῇσι printed without the iota subscript (9.658) | handmaids: `"!ἀμφιπολευ*"` when the Odyssey comes; the Book 9 note adds δμωῇσι |
 | σῆμα "grave mound" (tomb) | σῆμα "sign", the signs on Bellerophon's tablet (6.176, 6.178; writing) | tomb: `except: [6.176, 6.178]` |
 | ἱστός "mast" (mast) | ἱστός "loom" (6.456, 6.491; loom, weaving) | mast: `except` the loom lines |
 | δίφρος "chariot" (chariot) | δίφρος "seat, chair" (6.354; stool) | chariot: `except: [6.354]` |
@@ -256,3 +283,13 @@ Entries for things and customs claim common words, and a common word can mean so
 | Τρώϊοι ἵπποι "the horses of Tros" (tros) | Τρώ* "Trojans" (trojans) | trojans: `except: [5.222, 5.265, 8.106]` |
 | εὐχωλή, εὔχομαι "vow, pray" (prayer) | "cries of triumph" (4.450 = 8.64), "boasts" (8.229), "boast, claim" (8.190, 8.198, 8.254) | prayer: `except` those lines in each book's note |
 | βωμός "altar" (altar) | βωμοί "stand" for the chariot of Zeus (8.441), "pedestals" (Od. 7.100) | altar: `except: [8.441]` |
+| μῆλα "sheep, flocks" (sheep, lambs) | μῆλα "fruit" (ἄνθεσι μήλων, 9.542) | lambs: `except: [9.542]` |
+| σῦς "boar" (boar) | σύν "with" | boar: `"=σῦν"` |
+| ὄϊς "sheep" (sheep) | οἶος "alone" | sheep: `"=ὄϊος"` |
+| κύνεος "doglike" (dogs, 9.373) | κύνεον "kissed" (Od. 17.35, 21.224, 22.499) | dogs: the exact form; `except` the Odyssey lines |
+| μένεϊ "might" (menos, 7.210) | μένει "stays" (9.634) | menos (Book 7 note): `"=μένεϊ"` |
+| ἀρή "curse" (curses: ἀρέων 9.566) | ἀρή "bane" (12.334, 14.485, 18.100, 24.489) | curses claims only κατηρᾶτο, ἐπαράς and ἀρέων |
+| εὐνή "bed" (bed) | an animal's lair (22.190) | bed: the phrase `"τῆς εὐνῆς ἐπιβήμεναι"` |
+| τίω "honor" (time) | τίνω "pay" (τίσω, ἔτισαν) | time: the phrases `"περ ἔτισαν"`, `"τίσω δέ μιν"`, `"τίσει δέ σε"` |
+| κλισμός "chair" (throne) | | throne claims κλισμοῖσι (8.436, 9.200; 11.623 later) |
+| εὔχομαι "claim" (9.60, 9.161) | εὔχομαι "pray" (prayer) | prayer: the Book 9 note excepts 9.60 and 9.161 |

@@ -21,7 +21,7 @@ Gregory Nagy argued that the tradition set praise and blame against each other a
 
 ## Rebuke as a spur
 
-A leader's rebuke is meant to make men fight, and a good rebuke is answered by action. Agamemnon's review of the army in Book 4 is the fullest sequence of praise and blame in the poem (see [[the-review-of-the-army]]). Later, Sarpedon rebukes Hector, “where has the might gone that you used to have?” (5.472), Hector rebukes Paris again (6.325–331), and Glaucus rebukes Hector, “best in looks, you are far lacking in battle” (17.140–143). The rebuke works when it is fair, and when the man rebuked accepts it. When it is not, it breeds anger: Diomedes remembers Agamemnon's rebuke for five books, and answers it in the assembly of Book 9, “as is right, my lord, in the assembly” (9.32–36).
+A leader's rebuke is meant to make men fight, and a good rebuke is answered by action. Agamemnon's review of the army in Book 4 is the fullest sequence of praise and blame in the poem (see [[the-review-of-the-army]]). Later, Sarpedon rebukes Hector, “where has the might gone that you used to have?” (5.472), Hector rebukes Paris again (6.325–331), and Glaucus rebukes Hector, “best in looks, you are far lacking in battle” (17.140–143). The rebuke works when it is fair, and when the man rebuked accepts it. When it is not, it breeds anger: Diomedes remembers Agamemnon's rebuke for five books, and answers it in the assembly of Book 9, “as is the custom, my lord, in the assembly” (9.32–36).
 
 ## The word returned
 

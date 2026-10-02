@@ -1,0 +1,9 @@
+---
+summary: The scepter is named in Book 9 as the sign of Agamemnon's right to rule, and each time with a limit: Diomedes says that Zeus gave him the scepter but not courage, Nestor that he holds it to take counsel and to listen, and the offer of seven cities makes Achilles a scepter-holder too.
+---
+
+**Half a gift.** Diomedes answers Agamemnon's proposal to flee: “But the son of crooked-counseling Cronus has given you only half: he granted you to be honored above all men for your scepter, but courage he did not give you, and that is the greatest power” (9.37–39; see [[diomedes]] and [[alke]]). δῶκε Κρόνου πάϊς ἀγκυλομήτεω, “the son of crooked-counseling Cronus has given”, is the half-verse with which Odysseus defended the rule of one king in Book 2, “one king, to whom the son of crooked-counseling Cronus has given the scepter and the ordinances” (2.205–206). Diomedes turns the words that founded the king's authority into a measure of what he lacks.
+
+**For counsel.** Nestor uses the second verse of Odysseus' saying: “of many people you are lord, and Zeus has put into your hands the scepter and the ordinances, so that you may take counsel for them” (9.98–99 ≈ 2.206). The scepter is a charge as well as an honor. “So you above all must speak your word, and listen, and fulfill another's word too” (9.100–101; see [[themis]], [[boule]] and [[kingship-and-authority]]). In the assembly that opens the book Agamemnon stands up to speak, but no scepter is named in his hands, as it was when he rose in Book 2 (9.13–14; 2.100–101; see [[assembly-type-scene]]).
+
+**Under his scepter.** The seven cities are offered with their people, “who will honor him with gifts like a god and under his scepter will bring his ordinances to rich fulfillment” (9.155–156 = 9.297–298; see [[the-seven-cities]]). The king offers to make Achilles a king with a scepter of his own, and in the same speech demands that he “submit to me, inasmuch as I am more kingly” (9.160).

@@ -5,7 +5,7 @@ kind: people
 tags: [trojan, woman]
 summary: The women of [[Troy]]. [[Helen]] fears their blame, [[Hector]] would be ashamed before them to hold back from battle, and the Trojans fight to save them from captivity.
 aliases: [women of Troy, Troades]
-grc: ["=Τρῳ*"]
+grc: ["=Τρῳ*", Τρωϊάδ*]
 except: [5.461]
 ---
 

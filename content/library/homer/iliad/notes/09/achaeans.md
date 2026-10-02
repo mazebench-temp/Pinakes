@@ -1,0 +1,10 @@
+---
+summary: Book 9 begins and ends with the Achaeans in grief and silence. Panic holds them at nightfall; they hear Agamemnon's proposal to flee without a word and shout for Diomedes' refusal; at the end of the night they hear Achilles' answer in the same silence and go to sleep on Diomedes' word.
+grc: [Ἀχαιϊκόν, Παναχαιούς]
+---
+
+**Panic.** “So the Trojans kept their watch; but the Achaeans were held by heaven-sent Panic, companion of chilling Rout” (9.1–2). The two winds from Thrace stir the sea, “so the heart in the breasts of the Achaeans was torn” (9.4–8; see [[two-winds-from-thrace]]). The sons of the Achaeans sit silent in their grief when Agamemnon proposes flight, and again when Odysseus reports Achilles' refusal (9.29–30, 9.693–695; see [[sons-of-the-achaeans]] and [[silence]]). Between the two silences the night is spent on their need: “all the Achaeans have great need of good and shrewd counsel”, Nestor says, for “this night will either shatter the army or save it” (9.75–78; see [[this-night-will-shatter-or-save]]).
+
+**The Achaean army.** Ἀχαιϊκός, “Achaean”, is the adjective of the name. It belongs to Argos in the offer of marriage, “Achaean Argos, the udder of the plowland” (9.141, 9.283; see [[argos]]), and to the army in Phoenix's speech: Agamemnon has sent the best men, “choosing them throughout the Achaean army” (λαὸν Ἀχαιϊκόν, 9.521). Παναχαιοί, “all the Achaeans”, is used in the accusative only here, when Odysseus asks Achilles, if he hates Agamemnon and his gifts, to pity the rest, “all the Achaeans, worn down throughout the army”, who will honor him like a god (9.300–303). Elsewhere the Iliad has the genitive, as in “the best of all the Achaeans” (ἀριστῆες Παναχαιῶν, 2.404, 7.73).
+
+**In Achilles' hut.** Achilles greets the envoys as “the dearest of the Achaeans” (9.198), and Ajax ends the embassy with the claim to be “the nearest and dearest to you, of all the Achaeans” (9.642). Achilles answers with the Achaeans' ingratitude: from him alone of the Achaeans Agamemnon has taken his prize (9.335), and the Achaean women of Hellas and Phthia, not Agamemnon's daughter, will give him a wife (9.395; see [[achilles]]).

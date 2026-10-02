@@ -28,6 +28,8 @@ The greater part of the fighting falls to Achilles' hands, and the greater prize
 
 The Iliad begins in the tenth year, and these lines supply the nine before. The Achaeans live by raiding. Women, cattle and treasure are taken from the towns of the Troad and shared out by rank. Chryseis and Briseis both came from those raids. See [[division-of-spoils]] and [[sack-of-thebe]].
 
+Achilles later counts twelve cities sacked from his ships and eleven by land (9.328–329), and Briseis was taken at Lyrnessus (2.690–691, 19.291–296).
+
 ## Outside Homer
 
-In Book 9 Achilles counts twelve cities sacked from his ships and eleven by land (9.328–329). According to Proclus' summary of the *Cypria*, Achilles drove off Aeneas' cattle and sacked Lyrnessus, Pedasus and many neighboring towns. Briseis was taken at Lyrnessus (Iliad 2.690–691, 19.291–296).
+According to Proclus' summary of the *Cypria*, Achilles drove off Aeneas' cattle and sacked Lyrnessus, Pedasus and many neighboring towns.

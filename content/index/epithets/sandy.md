@@ -12,7 +12,7 @@ of: [pylos]
 
 ## Meaning
 
-ἠμαθόεις = ἄμαθος (“sand”) + the suffix -όεις (“full of”): “sandy.” Homer uses it twelve times, and always of Pylos: in the Iliad here, in the seven cities Agamemnon offers Achilles “at the edge of sandy Pylos” (Il. 9.153, 9.295), and in Nestor's story of his youth (Il. 11.712); in the Odyssey when Telemachus sails there. It describes a place on a sandy coast. The Mycenaean palace excavated by Carl Blegen at Ano Englianos in Messenia from 1939 on, whose Linear B tablets name the place *pu-ro* (Pylos), lies above such a coast. Which Pylos Homer's Nestor ruled was already disputed in antiquity. See [[pylos]].
+ἠμαθόεις = ἄμαθος (“sand”) + the suffix -όεις (“full of”): “sandy.” Homer uses it twelve times, and always of Pylos: in the Iliad here, in the seven cities Agamemnon offers Achilles “on the borders of sandy Pylos” (Il. 9.153, 9.295), and in Nestor's story of his youth (Il. 11.712); in the Odyssey when Telemachus sails there. It describes a place on a sandy coast. The Mycenaean palace excavated by Carl Blegen at Ano Englianos in Messenia from 1939 on, whose Linear B tablets name the place *pu-ro* (Pylos), lies above such a coast. Which Pylos Homer's Nestor ruled was already disputed in antiquity. See [[pylos]].
 
 ## Use
 

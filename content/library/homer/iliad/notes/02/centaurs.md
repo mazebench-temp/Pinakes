@@ -1,6 +1,6 @@
 ---
 summary: Peirithous "took vengeance on the shaggy beasts" and drove them from Pelion to the Aethices, on the day his son Polypoetes was born.
-grc: [Φῆρας]
+grc: ["=φῆρας"]
 refs: [2.744]
 passages:
   - 2.740-744 | Peirithous takes vengeance on the Centaurs

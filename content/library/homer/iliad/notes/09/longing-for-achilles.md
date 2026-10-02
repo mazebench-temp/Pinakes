@@ -1,0 +1,12 @@
+---
+summary: The night of Book 9 is the first fulfillment of Achilles' oath in words. With the army beaten at Hector's hands, Agamemnon admits that he paid no honor to the best of the Achaeans and sends the embassy, and Achilles answers that the gifts are not enough.
+passages:
+  - 9.96-120 | Nestor's reproach and Agamemnon's admission
+  - 9.225-251 | Odysseus tells Achilles of the army's need
+---
+
+Achilles swore on the scepter that a longing for him would come upon all the sons of the Achaeans “when many at the hands of man-slaying Hector fall dying”, and that Agamemnon would tear his heart “in anger that you paid no honor to the best of the Achaeans” (1.240–244). He asked Thetis to bring it about, so that Agamemnon might “learn his own blind folly, in that he paid no honor to the best of the Achaeans” (1.411–412). In Book 8 the first half began to come true on the battlefield (see [[the-second-day-of-battle]]). In Book 9 the second half comes true in the council. Nestor tells Agamemnon that he dishonored “the best of men, whom the immortals themselves honored” (9.110–111), and Agamemnon owns his blind folly in Achilles' own word: “Old man, it is no lie, your account of my blind folly. I was blinded; I do not deny it myself” (9.115–116; see [[ate]] and [[agamemnon]]).
+
+The longing is spoken to Achilles' face. Odysseus tells him that it is in doubt whether the Achaeans save or lose the ships “unless you put on your courage” (9.230–231), and warns him that the grief will be his own if he waits too long: “there is no means to find a cure for an evil once it is done” (9.249–250). Phoenix calls the envoys the men dearest to him of the Argives, sent to entreat him (9.520–522), and Ajax ends with the claim of friendship (9.630–642).
+
+The oath is kept, and Achilles still refuses. He tells the envoys to find a better plan (9.421–426), and when he looks out from his ship at the next day's rout he pictures the fulfillment he wants instead: “Now I think the Achaeans will stand around my knees begging, for a need has come that is no longer bearable” (11.608–610; see [[the-embassy-to-achilles]]). The words of the oath come back in the end for another man. When Patroclus dies, Menelaus sends word that “the best of the Achaeans has been killed, Patroclus, and a great longing has come upon the Danaans” (ὤριστος Ἀχαιῶν … ποθή, 17.689–690), and Achilles, going back to the war, will not eat “for longing for you” (σῇ ποθῇ, 19.319–321; see [[patroclus]]).

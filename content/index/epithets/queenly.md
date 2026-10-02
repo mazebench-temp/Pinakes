@@ -7,7 +7,7 @@ summary: “Lady, mistress”: a title of goddesses and honored women, above all
 aliases: [lady, queen, mistress, potnia]
 grc: [πότνια]
 en: [queen, lady]
-of: [hera, thetis, hecuba, athena, andromache]
+of: [hera, thetis, hecuba, athena, andromache, marpessa, althaea]
 ---
 
 ## Meaning

@@ -1,0 +1,5 @@
+---
+summary: Meriones is the fourth of the seven captains who lead the sentries out to sit between the ditch and the wall on the night of the embassy (9.83).
+---
+
+He is named with Aphareus and Deipyrus, and like the others he leads a hundred young men with long spears (9.83–86; see [[night-watch]], [[aphareus]] and [[deipyrus]]). The watch goes on in Book 10, where Agamemnon says it is led by Nestor's son and by Meriones, “for to them above all we entrusted it” (10.57–59; see [[thrasymedes]]). Meriones is called to the kings' council across the ditch (10.196–197), volunteers for the raid (10.229), and arms Odysseus with a bow, a quiver, a sword and the helmet of boar's tusks, which Autolycus once stole from the house of Amyntor, son of Ormenus, at Eleon (10.260–271). Amyntor is the father whom Phoenix fled, as he tells Achilles this same night (9.447–448; see [[amyntor]] and [[phoenix]]). In Book 19 Meriones is among the young men who carry Agamemnon's gifts into the assembly (19.238–248; see [[the-gifts-of-agamemnon]]).

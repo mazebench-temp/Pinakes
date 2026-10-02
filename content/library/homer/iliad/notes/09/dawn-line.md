@@ -1,0 +1,9 @@
+---
+summary: No dawn rises in Book 9; the whole book is a night, and everyone in it waits for the morning. Hector prays for it, Achilles means to sail or to decide when it comes, Phoenix lies down to wait for it, and Diomedes' last order puts the dawn formula into the future, “when fair rosy-fingered Dawn appears” (9.707).
+grc: ["καλὴ ῥοδοδάκτυλος Ἠώς", "ἠοῖ φαινομένηφι", "ἠῶ δῖαν"]
+en: [fair rosy-fingered Dawn appears, when dawn appears, brilliant Dawn]
+---
+
+Book 9 is a night, the night after the second day of battle, and it is spent waiting for dawn (see [[war-and-night]]). Odysseus tells Achilles that Hector “prays for brilliant Dawn to appear with all speed”, so that he can burn the ships (9.240; see [[prayer]]). Achilles will sail “tomorrow … very early” (9.357–360), then tells Phoenix that “when dawn appears we will consider whether to go home to our own or to stay” (9.618–619), and Odysseus reports that he will drag his ships to the sea “when dawn appears” (9.682). ἅμʼ ἠοῖ φαινομένηφι, “as dawn appears”, is used a dozen times in the two poems for the hour of the next day's business. Phoenix “lay down and waited for brilliant Dawn” (9.662), in the verse with which Odysseus lies down in his hall on the night before he kills the suitors (Od. 19.50).
+
+The book ends with Diomedes' orders for the morning: “but when fair rosy-fingered Dawn appears, quickly draw up the army and the horses before the ships” (9.707–708). The verse has the words of the dawn formula, φανῇ … ῥοδοδάκτυλος Ἠώς (see [[rosy-fingered]] and [[eos]]), but in the subjunctive of a command, “when she appears”, and with καλή, “fair”, in place of ἠριγένεια, “early-born”; it occurs only here. The dawn it looks to is a long way off. The night goes on through Book 10, and Day 26 begins at 11.1 (see [[the-second-day-of-battle]]).

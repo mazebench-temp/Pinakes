@@ -13,6 +13,6 @@ passages:
 
 {{notes}}
 
-## Outside Homer
+## Elsewhere in Homer
 
-Odysseus has a herald of the same name, from Ithaca (Iliad 2.184; Odyssey 19.244–248): see [[eurybates-of-ithaca]]. A herald Eurybates goes with Odius on the embassy to Achilles (Iliad 9.170), and the poem does not say which of the two he is.
+Odysseus has a herald of the same name, from Ithaca (Iliad 2.184; Odyssey 19.244–248): see [[eurybates-of-ithaca]]. A herald Eurybates goes with Odius on the embassy to Achilles (Iliad 9.170). The poem does not say which of the two he is; he is most probably Agamemnon's herald (see the Book 9 note).

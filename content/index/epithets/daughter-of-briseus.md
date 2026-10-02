@@ -3,7 +3,7 @@ title: Daughter of Briseus
 greek: κούρη Βρισῆος
 kind: epithet
 tags: [heroic-epithet, patronymic]
-summary: Achilles' naming of [[Briseis]] by her father [[Briseus]] (1.392). Her usual name is itself a patronymic.
+summary: “The daughter of Briseus,” a name for [[Briseis]] by her father [[Briseus]]; her usual name is itself a patronymic.
 grc: [κούρην Βρισῆος]
 en: [daughter of Briseus]
 of: [briseis, briseus]

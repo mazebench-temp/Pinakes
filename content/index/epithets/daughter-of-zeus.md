@@ -7,7 +7,7 @@ summary: “Daughter of Zeus,” formulas for goddesses born of Zeus, above all 
 aliases: [child of Zeus, Dios thygater, Dios ekgegauia]
 grc: [Διὸς θυγάτηρ, Διὸς ἐκγεγαυῖα]
 en: [daughter, child]
-of: [aphrodite, helen, athena]
+of: [aphrodite, helen, athena, artemis, litai]
 ---
 
 ## Meaning

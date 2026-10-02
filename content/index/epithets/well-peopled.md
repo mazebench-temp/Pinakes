@@ -7,7 +7,7 @@ summary: The line-end formula for a prosperous town, “a well-inhabited citadel
 aliases: [eu naiomenon ptoliethron]
 grc: [εὖ ναιόμενον πτολίεθρον]
 en: [well-peopled citadel]
-of: [trojans, troy, phaestus, rhytium, thebe]
+of: [trojans, troy, phaestus, rhytium, thebe, the-seven-cities]
 ---
 
 ## Meaning

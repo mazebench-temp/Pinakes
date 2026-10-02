@@ -7,7 +7,7 @@ summary: “Very holy,” an epithet of places sacred to gods.
 aliases: [very holy, holy Cilla]
 grc: [ζαθέην]
 en: [holy]
-of: [cilla, nisa, crisa]
+of: [cilla, nisa, crisa, pherae-in-messenia]
 ---
 
 ## Meaning

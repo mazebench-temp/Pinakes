@@ -7,6 +7,7 @@ summary: “Wooed and wedded,” the epithet of a lawful wife, won by courtship 
 aliases: [mneste, wooed, lawful wife]
 grc: [μνηστῇς ἀλόχοισι]
 en: [wedded]
+of: [cleopatra]
 ---
 
 ## Meaning

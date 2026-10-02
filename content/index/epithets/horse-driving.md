@@ -7,7 +7,7 @@ summary: “Driver of horses,” an old title of chariot-fighters: of [[Tydeus]]
 aliases: [hippelata, horseman]
 grc: [ἱππηλάτα]
 en: [horse-driving]
-of: [tydeus, peleus, oeneus]
+of: [tydeus, peleus, oeneus, phoenix]
 ---
 
 ## Meaning

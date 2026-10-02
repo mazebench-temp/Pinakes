@@ -4,7 +4,7 @@ greek: κλειτός
 kind: epithet
 tags: [heroic-epithet, trojan]
 summary: “Renowned,” κλειτός and its family (τηλεκλειτός, ἀγακλυτός, κλυτός): above all the epithet of the Trojans' allies in the formula κλειτοὶ ἐπίκουροι, and of glorious things.
-aliases: [renowned, kleitos]
+aliases: [renowned, kleitos, far-famed]
 grc: [κλειτῶν]
 en: [famous]
 of: [trojan-allies, idomeneus]

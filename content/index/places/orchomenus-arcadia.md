@@ -7,7 +7,7 @@ summary: A town of eastern Arcadia, "Orchomenus rich in flocks". Not Minyan Orch
 aliases: [Arcadian Orchomenus]
 grc: [Ὀρχομενὸν]
 en: [Orchomenus]
-except: [2.511]
+except: [2.511, 9.381]
 ---
 
 {{quote:6d674452-71f1-5bba-a497-3f3c4f044159}}

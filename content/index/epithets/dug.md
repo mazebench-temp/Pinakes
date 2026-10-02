@@ -14,7 +14,7 @@ of: [the-achaean-wall]
 
 ὀρυκτός is the verbal adjective of ὀρύσσω (“dig”): “dug, made by digging.” The Achaeans dug the ditch in Book 7, outside their new wall: “they dug a deep ditch, wide and great, and in it they planted stakes” (7.440–441; [[the-achaean-wall]], [[the-building-of-the-wall]]). The ditch is also “deep” (τάφροιο βαθείης, 8.336).
 
-The epithet is the ditch's alone, and it follows the ditch through the poem. Hector first uses it in his boast here. Nestor has the sentries camp “by the dug ditch, outside the wall” (9.66–67), and the leaders cross it to hold their night council (10.197–198). In Book 12 Polydamas warns that if the Achaeans turn, the Trojans will be pinned in the dug ditch (12.71–72); in Book 15 the Achaeans, routed, blunder into the ditch and the stakes (15.343–345); in Book 16 the dug ditch holds back the Trojans against their will as they flee from Patroclus (16.367–369). In Book 20 Athena shouts her war cry standing beside it (20.48–49).
+The epithet is the ditch's alone, and it follows the ditch through the poem. Hector first uses it in his boast here. Nestor has the sentries spend the night “beside the ditch they have dug, outside the wall” (9.66–67), and the leaders cross it to hold their night council (10.197–198). In Book 12 Polydamas warns that if the Achaeans turn, the Trojans will be pinned in the dug ditch (12.71–72); in Book 15 the Achaeans, routed, blunder into the ditch and the stakes (15.343–345); in Book 16 the dug ditch holds back the Trojans against their will as they flee from Patroclus (16.367–369). In Book 20 Athena shouts her war cry standing beside it (20.48–49).
 
 ## Use
 

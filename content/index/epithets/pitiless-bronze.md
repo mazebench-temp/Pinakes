@@ -12,7 +12,7 @@ of: [bronze]
 
 ## Meaning
 
-νηλής (also νηλεής) = νη- (“not”) + ἔλεος (“pity”): “pitiless, ruthless” ([[privative-adjectives]]). The dative νηλέϊ χαλκῷ closes the verse. The bronze is given the cruelty of the hand that holds it. The adjective also describes a heart that will not yield: Phoenix tells Achilles that he must not have “a pitiless heart” (νηλεὲς ἦτορ, Il. 9.497).
+νηλής (also νηλεής) = νη- (“not”) + ἔλεος (“pity”): “pitiless, ruthless” ([[privative-adjectives]]). The dative νηλέϊ χαλκῷ closes the verse. The bronze is given the cruelty of the hand that holds it. The adjective also describes a heart that will not yield: Phoenix tells Achilles that he must not have “a pitiless heart” (νηλεὲς ἦτορ, Il. 9.497; [[pitiless]]).
 
 ## Use
 

@@ -1,0 +1,5 @@
+---
+summary: The patronymic frames the embassy. Nestor sends the envoys “to the hut of Achilles, son of Peleus” to win over “the noble son of Peleus”, and Diomedes ends the night wishing that Agamemnon had never entreated “the noble son of Peleus” (9.166, 9.181, 9.698).
+---
+
+Πηληϊάδεω Ἀχιλῆος, the verse-end of the poem's first line, is the phrase in which Agamemnon sent his heralds to take Briseis, “go to the hut of Achilles, son of Peleus” (1.322). Nestor now sends the envoys to the same hut in the same words, to give her back (9.166). ἀμύμονα Πηλεΐωνα, “the noble son of Peleus”, is the formula of the Catalogue (2.674, 2.770; see [[blameless]]), and it brackets the embassy: Nestor's last glance at the envoys is a hope that they may win him over (9.181), and Diomedes' first words after their return are a wish that Agamemnon had never begged him (9.698; see [[diomedes]]). Inside the hut no one uses the patronymic. The envoys speak instead of “your father Peleus” (9.252) and “the old horse-driving Peleus” (9.438; see [[peleus]] and [[achilles]]).

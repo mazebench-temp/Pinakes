@@ -1,0 +1,5 @@
+---
+summary: The Danaans are named in Book 9 only by speakers, as the army whose need presses on Achilles and before whom honor is won and lost: Diomedes was called a coward “among the Danaans”, Odysseus asks Achilles to ward off the evil day from them, and Ajax must carry Achilles' word back to them (9.34, 9.251, 9.627).
+---
+
+The name occurs seven times, always in speech. Diomedes reminds Agamemnon that he reproached his courage “among the Danaans” (9.34). Odysseus asks Achilles to “ward off the evil day from the Danaans” and tells him that Hector boasts of having no equal “among the Danaans whom the ships brought here” (9.251, 9.306; see [[evil-day]]). Achilles answers that neither Agamemnon will persuade him “nor the other Danaans”, and that the king will not deceive “some other of the Danaans” (9.316, 9.371). Ajax closes the embassy: they must report the word “to the Danaans”, who sit waiting, and he and his companions come “from the multitude of the Danaans” to be the nearest and dearest to Achilles (9.627, 9.641; see [[ajax]] and [[achaeans]]).

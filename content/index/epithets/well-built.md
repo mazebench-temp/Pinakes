@@ -7,7 +7,7 @@ summary: “Well-founded, well-built,” an epithet of cities, islands and house
 aliases: [well-founded, eu ktimenos, euktitos]
 grc: [ἐϋκτίμενον, ἐϋκτιμένας, ἐϋκτιμένην, ἐΰκτιτον]
 en: [well-built]
-of: [medeon, hypothebae, athens, mycenae, cleonae, aepy, iolcus, arisbe]
+of: [medeon, hypothebae, athens, mycenae, cleonae, aepy, iolcus, arisbe, lesbos]
 ---
 
 ## Meaning
