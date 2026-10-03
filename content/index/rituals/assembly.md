@@ -7,8 +7,9 @@ summary: The gathering of the army or the people to hear and debate, and the pla
 aliases: [assemblies, agora, gathering]
 grc: [ἀγορ*, ἤγερθεν ὁμηγερέες]
 # πρὸς ἀλλήλους ἀγόρευον, "they spoke to one another", is conversation, not an assembly: 5.274 and 5.431
-# here, 3.155 and 7.464 in the book notes.
-except: [1.365, 5.274, 5.431]
+# here, 3.155 and 7.464 in the book notes. Book 10 has no assembly: ἀγρομένοισιν (10.180) is the sentries
+# where they were gathered, and ἀγορεύεις (10.250) is Odysseus' "you are saying" to Diomedes in the council.
+except: [1.365, 5.274, 5.431, 10.180, 10.250]
 refs: [1.191]
 en: [assembly, assembled, orator, declare, declared, began to speak]
 passages:

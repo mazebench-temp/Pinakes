@@ -1,0 +1,9 @@
+---
+summary: In Book 10 the Achaeans are an army in danger. Their sorrows keep Agamemnon awake, Nestor says that their fate stands “on the edge of a razor”, and at the end of the night they welcome the two spies back across the ditch, rejoicing (10.92, 10.173–174, 10.565).
+---
+
+The book begins with “the best of all the Achaeans” asleep beside the ships (10.1), and the king awake, tearing his hair when he looks at “the ships and the army of the Achaeans” (10.14–15; see [[agamemnon]]). It is “war and the sorrows of the Achaeans” that keep him from sleep (10.92), and Hector has done so many grim deeds in a single day: “such evils has he devised for the Achaeans” (10.52; see [[hector]]).
+
+Nestor gives his reason for rousing the chiefs twice, in the same half-verse: “such grief has overpowered the Achaeans”, he tells Odysseus (ἄχος, 10.145), and “a very great need has overpowered the Achaeans”, he tells Diomedes (χρειώ, 10.172). Then he names what is at stake: “whether grim destruction comes on the Achaeans, or life” (10.174; see [[on-the-razors-edge]] and [[nestor]]). His spy is to learn whether the Trojans mean to stay by the ships, “or to the city go back again, now that they have beaten the Achaeans”, and Odysseus puts the same question to Dolon in the same verses (10.208–210 = 10.409–411; see [[spies-and-scouts]]).
+
+In Diomedes' prayer the name reaches back a generation, to the army of the Seven at Thebes: Tydeus “went ahead of the Achaeans as a messenger” and left them by the Asopus, as Agamemnon told the story in Book 4 (10.285–287; 4.383–384; see [[tydeus-at-thebes]]). Athena gives Diomedes strength so that none of “the bronze-armored Achaeans” may boast of striking Dolon first (10.366–368; see [[athena]]). At the end Odysseus drives the captured horses across the ditch, “and the other Achaeans went with him, rejoicing” (10.564–565; see [[odysseus]]).

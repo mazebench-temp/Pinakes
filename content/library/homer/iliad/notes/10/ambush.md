@@ -1,0 +1,14 @@
+---
+summary: The two spies lie down among the dead beside the road and let Dolon run past before they spring up and cut him off (10.338–364). Caught, he shows the signs of the coward that Idomeneus describes in his account of an ambush, chattering teeth and a changed color (10.374–376; 13.276–286).
+refs: [10.344-350]
+passages:
+  - 10.338-364 | The ambush for Dolon
+---
+
+**The ambush laid.** When Odysseus sees a man coming from the Trojan camp, he tells Diomedes to let him pass and then rush on him, and to drive him toward the ships so that he cannot escape to the city (10.341–348). “So the two spoke, and off the road, among the dead, they lay down; and he ran quickly past them in his thoughtlessness” (10.349–350). The word λόχος is not used, but this is an ambush in the poem's sense, men waiting hidden for an enemy who does not know they are there (see [[ambush]]). They let him get as far off as the furrow-length of mules, and then run him down like two hounds after a fawn or a hare (10.351–364; see [[mules]] and [[two-hounds]]).
+
+**The coward's signs.** In Book 13 Idomeneus says that an ambush is where men's courage shows most clearly: the coward's color keeps changing, he cannot sit still, his heart pounds, “and there is a chattering of teeth”, and the brave man's color does not change at all (13.276–286). Dolon, stopped by the spear cast over his shoulder, has the coward's signs: “stammering, and there was a chattering of teeth in his mouth, pale with fear” (10.375–376; see [[deos]]). The words for the chattering differ (πάταγος ὀδόντων, 13.283; ἄραβος … ὀδόντων, 10.375), and the picture is the same.
+
+**The best men.** Achilles taunted Agamemnon that he had never dared “to go out on ambush with the best of the Achaeans” (1.227). In Book 10 the men for the night are chosen in council, and Agamemnon, who stays behind, tells Diomedes to take the best man and not the most kingly (10.234–239; see [[agamemnon]]). Diomedes' prayer recalls the ambush laid for his father on the way back from Thebes, which Tydeus destroyed with Athena's help (10.285–290; 4.391–398; see [[tydeus-at-thebes]]).
+
+**An ambush in the Odyssey.** In the hut of Eumaeus the disguised Odysseus tells of a night ambush under the walls of Troy, led by Odysseus and Menelaus. The men lay in the reeds under their armor in a cold north wind, with snow falling and ice forming on their shields; in the third part of the night, “and the stars had moved on”, the teller, who had left his cloak behind, nudged Odysseus, and Odysseus got him a cloak by a trick (Od. 14.468–503; see [[cloak]]). Odysseus reckons the night of Book 10 in the same terms, the stars moved on and a third portion left (10.251–253). Casey Dué and Mary Ebbott read Book 10 as an ambush story of a traditional kind, with its own setting, gear and sequence of events (*Iliad 10 and the Poetics of Ambush*, 2010; see [[the-doloneia]] and [[arming-scene]]).

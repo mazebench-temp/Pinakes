@@ -1,0 +1,24 @@
+---
+title: Dolon and Rhesus in Ovid
+greek: οὓς νῶϊν πίφαυσκε Δόλων ὃν ἐπέφνομεν ἡμεῖς
+kind: anecdote
+tags: [art]
+summary: In the contest for the arms of Achilles, Ovid's Ajax dismisses Ulysses' night work against Rhesus and “unwarlike Dolon” as deeds done in the dark and never without Diomedes, and Ulysses answers by claiming both killings as his own. In the Heroides Penelope has heard the story from Telemachus, who had it from Nestor.
+source: Ovid, Metamorphoses 13.14–15, 13.98–106, 13.238–254, 13.350–353; Heroides 1.37–46
+of: [dolon, rhesus, odysseus, diomedes, ajax, nestor, ovid]
+passages:
+  - 10.454-457 | The death of Dolon
+  - 10.554-563 | Odysseus' report to Nestor
+---
+
+{{quote:d0947d9a-325c-5335-abe0-27d75c49a207}}
+
+**Ajax.** In the thirteenth book of the *Metamorphoses* Ajax and Ulysses argue before the assembled chiefs for the arms of Achilles. Ajax speaks first. Let Ulysses tell his own deeds, he says, “which he does without a witness, which night alone knows” (*Metamorphoses* 13.14–15). Later he comes to them: “Let the Ithacan set beside these Rhesus and unwarlike Dolon and Priam's son Helenus, captured with the stolen Pallas: nothing done by daylight, nothing without Diomedes. If you give the arms once for such cheap services, divide them, and let the greater share be Diomedes'” (13.98–102). And what would a man do with them who works in secret, always unarmed, and deceives an unwary enemy by stealth? The very gleam of the golden helmet would betray his ambushes (13.103–106).
+
+**Ulysses.** Ulysses answers with the same night. Diomedes, he says, shares his deeds with him and always trusts his companion: “it is something, out of so many thousands of Greeks, to be chosen by Diomedes!” No lot sent him. Scorning the dangers of the night and of the enemy, he killed Dolon, a Phrygian who had dared the same as they, but not before he had forced him to betray everything and learned what treacherous Troy was planning. He had nothing left to spy out and could have come home with the praise he had been promised. Not content with that, he went to the tents of Rhesus and killed him and his companions in their own camp, and came back victorious, his prayers fulfilled, riding in a captured chariot like a man in a triumph. “Refuse me the arms of the man whose horses the enemy had asked as his price for the night” (13.238–254). Near the end he tells Ajax to stop throwing Diomedes in his face: Diomedes has his share of the praise; Ajax had a crowd beside him when he held his shield over the fleet, and Ulysses had one man (13.350–353).
+
+**Homer's night.** Ovid's Ulysses tells Homer's story as his own. In Homer Diomedes does choose him, freely and without a lot, “how then could I forget divine Odysseus” (10.243). But it is Diomedes who kills Dolon (10.454–457) and Rhesus with twelve of his men (10.482–497), while Odysseus drags the dead aside and drives off the horses (10.488–502). Dolon is not forced to talk: he tells everything he is asked, and more (10.413–445). The chariot is left behind, and the two ride the horses back (10.503–514). Homer's Odysseus, reporting to Nestor, gives the killings to his companion: “their lord was killed by brave Diomedes” (10.559). The price for the night is the horses of Achilles that Dolon asked of Hector (10.322–323; see [[the-horses-of-achilles]]), and Ulysses turns it against Ajax: he would be denied the arms of the man whose horses the enemy thought a fit reward for one night's spying. Ajax's “unwarlike Dolon” is fair to Homer, whose Dolon is a rich man's son, swift-footed, who goes out with a bow and a javelin and begs for his life when caught (10.314–317, 10.333–335, 10.378–381; see [[dolon]]).
+
+**Penelope's letter.** The first of Ovid's *Heroides* is Penelope's letter to Ulysses after Troy has fallen and the other chiefs have come home. Nestor told Telemachus everything when he went looking for his father, she writes, and Telemachus told her: “he told me too of Rhesus and Dolon cut down by the sword, how one was betrayed by sleep, the other by a trick (*dolo*). You dared, forgetting your own people too much, too much, to touch the Thracian camp with a night trick and to kill so many men at once, helped by one alone!” She trembled until she heard that he had passed through the friendly lines, victorious, on Ismarian horses (*Heroides* 1.37–46). The pun on Dolon's name is Ovid's; Ismarus is the Thracian town of the Cicones (*Odyssey* 9.39–40; see [[cicones]]). In the Odyssey Telemachus does visit Nestor at Pylos, and Nestor tells him of the returns from Troy (*Odyssey* 3); Ovid has him tell also of the night on which, in the Iliad, he had sent the two out and welcomed them back (10.203–217, 10.532–553; see [[nestor]]).
+
+See [[ovid]], [[odysseus]], [[diomedes]] and [[virgil-rhesus-and-dolon]].

@@ -7,7 +7,8 @@ summary: The grave mound heaped over the dead, called τύμβος or σῆμα,
 aliases: [grave mound, barrow, tumulus, sema, tymbos]
 grc: [τύμβον, τύμβῳ, σῆμα]
 en: [tomb]
-except: [2.308]
+# σῆμα at 10.466 is the mark Odysseus sets by Dolon's spoils.
+except: [2.308, 10.466]
 ---
 
 τύμβος is the mound of earth heaped over a grave. σῆμα, "sign, marker", names the same mound as a memorial, the thing that shows where a man lies; elsewhere the word means a sign from the gods ([[teras]]).

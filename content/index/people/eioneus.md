@@ -3,10 +3,12 @@ title: Eioneus
 greek: Ἠϊονεύς
 kind: person
 tags: [achaean, warrior]
-summary: An Achaean whom Hector kills with a spear in the neck, below the rim of his helmet, as Hector and Paris return to the battle (7.11–12). Not the father of the Thracian king Rhesus (10.435).
+summary: An Achaean whom Hector kills with a spear in the neck, below the rim of his helmet, as Hector and Paris return to the battle (7.11–12). Not the father of the Thracian king Rhesus (10.435; see [[eioneus-father-of-rhesus]]).
 aliases: [Eioneus the Achaean]
-# Ἠϊονῆος at 10.435 is Rhesus' father, another man, who will need his own id.
+# Ἠϊονῆος at 10.435 is Rhesus' father, another man (eioneus-father-of-rhesus); the except keeps
+# the English name "Eioneus" on that line from linking here.
 grc: [Ἠϊονῆα]
+except: [10.435]
 refs: [7.12]
 relations:
   - slayer: hector (7.11-12)

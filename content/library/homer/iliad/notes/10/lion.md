@@ -1,0 +1,11 @@
+---
+summary: Book 10 has two lions' skins and two lions of the similes. Agamemnon and Diomedes put on lion skins for the night (10.23–24, 10.177–178); Diomedes and Odysseus set out “like two lions through the black night” (10.297); and among the sleeping Thracians Diomedes kills like a lion falling on flocks that have no herdsman (10.485–488).
+passages:
+  - 10.485-488 | Lion among the flocks
+---
+
+**The skins.** Agamemnon, unable to sleep, dresses to go to Nestor and puts around him “the blood-red skin of a lion, / a great tawny lion, reaching to his feet” (δαφοινὸν … δέρμα λέοντος / αἴθωνος μεγάλοιο ποδηνεκές, 10.23–24). When Nestor wakes Diomedes, he puts the same skin around his shoulders, in the second verse word for word (10.177–178). The night is dressed in skins instead of bronze: Menelaus wears a leopard's (10.29; see [[leopard-skin]]) and the Trojan spy Dolon a gray wolf's (10.334; see [[wolves]] and [[arming-scene]]). The lion's skin goes to the king and to the man who will do the killing.
+
+**Two lions.** Armed, and heard by Athena, Diomedes and Odysseus go out “like two lions through the black night, / through the slaughter, through the corpses, through the armor and the black blood” (10.297–298). The dual, λέοντε δύω, is that of the twin lions of Book 5 (5.554), but those were killed by men, and these go out to kill (see [[two-lions]]).
+
+**Among the flocks.** In the Thracian camp Athena breathes might into Diomedes, and he kills the sleepers one after another, as a lion that comes on flocks of goats or sheep with no herdsman leaps on them with evil intent (10.482–488; see [[lion-among-the-flocks]]). It is the only full lion simile of the book. Diomedes was the lion of the similes in his day of battle in Book 5, a lion wounded in the fold and a lion breaking a heifer's neck (5.136–143, 5.161–164; see [[wounded-lion]] and [[lion-among-cattle]]). There the lion faced a shepherd; here the flock has no herdsman, for the Thracians keep no watch, and the lion that went out in a lion's skin meets no resistance at all. The dogs at the start of the night keep watch against an unnamed “fierce-hearted beast” (10.184; see [[the-watchdogs]]), and the Achaean flock is kept; the Thracian flock is not.

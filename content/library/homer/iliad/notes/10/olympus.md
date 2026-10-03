@@ -1,0 +1,5 @@
+---
+summary: Olympus is named once in Book 10, in Odysseus' prayer over Dolon's spoils, where Athena is the one “first on Olympus / of all the immortals” whom the two men will call upon (10.462–463).
+---
+
+Book 10 has no scene among the gods. Athena comes to the two spies on the plain, and Apollo goes down into the Trojan throng (10.507–517), but the poem does not say where either was before. The mountain is named only in prayer. Odysseus holds up Dolon's spoils to Athena: “Rejoice in these, goddess; for you, first on Olympus / of all the immortals, we will call upon” (10.462–463; see [[athena]]). The immortals are the gods “who have their homes on Olympus” (1.18; see [[olympians]]), and Odysseus gives Athena the first place among them. ἐπιδωσόμεθα, “we will call upon”, as in θεοὺς ἐπιδώμεθα, “let us call the gods to witness” (22.254), has also been taken as “we will give gifts to you” (see the translation's note on 10.463). Either way the first honor is hers. At Pylos Nestor, too, means to propitiate Athena “first of the gods” (πρώτιστα θεῶν, *Odyssey* 3.419).

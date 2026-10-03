@@ -12,7 +12,7 @@ of: [odysseus, nestor]
 
 ## Meaning
 
-πολυτλήμων = πολύς (“much”) + τλήμων (“enduring, daring”), from the root of τλῆναι, which means both “endure” and “dare, bring oneself to do.” The root runs through the words of Odysseus' endurance: he is πολύτλας, “much-enduring,” in the formula πολύτλας δῖος Ὀδυσσεύς (five times in the Iliad, from 8.97 on, and thirty-seven times in the Odyssey), and ταλασίφρων, “enduring of heart” ([[stout-hearted]]). In the Iliad he is “he of the enduring spirit” (5.670; τλήμονα θυμὸν ἔχων), and in the Doloneia he is “daring Odysseus” (ὁ τλήμων Ὀδυσεύς, 10.231, 10.498).
+πολυτλήμων = πολύς (“much”) + τλήμων (“enduring, daring”), from the root of τλῆναι, which means both “endure” and “dare, bring oneself to do.” The root runs through the words of Odysseus' endurance: he is πολύτλας, “much-enduring,” in the formula πολύτλας δῖος Ὀδυσσεύς (five times in the Iliad, from 8.97 on, and thirty-seven times in the Odyssey), and ταλασίφρων, “enduring of heart” ([[stout-hearted]]). In the Iliad he is “he of the enduring spirit” (5.670; τλήμονα θυμὸν ἔχων), and in the Doloneia he is “enduring Odysseus” (ὁ τλήμων Ὀδυσεύς, 10.231, 10.498; [[enduring]]).
 
 πολυτλήμων itself occurs twice in Homer. Nestor uses it of his own heart here, and in the Odyssey the disguised Odysseus tells Penelope's maids that he will keep the torches burning all night, since he is “very much-enduring” (πολυτλήμων δὲ μάλʼ εἰμί, Od. 18.319).
 

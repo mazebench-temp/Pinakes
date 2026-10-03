@@ -5,7 +5,8 @@ kind: person
 tags: [thessaly, king]
 summary: King of [[Pherae]], husband of [[Alcestis]] and father of [[Eumelus]]. In later legend Apollo served him as a herdsman, and his wife died in his place.
 aliases: [Admetos]
-grc: [Ἀδμήτ*]
+# ^ keeps out ἀδμήτη "unbroken", of a heifer (10.293).
+grc: ["^Ἀδμήτ*"]
 relations:
   - father: pheres (2.763)
 ---

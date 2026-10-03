@@ -1,0 +1,19 @@
+---
+summary: All night the Achaeans speak of Hector and the harm Zeus let him do them by day. He keeps his own leaders awake, offers a chariot and horses to a spy, swears to Dolon an oath that proves false, and holds his council by the tomb of Ilus while the Achaean spies pass through the dark.
+refs: [10.47-48, 10.50-52, 10.105-106, 10.201, 10.300-312, 10.320-324, 10.328-332, 10.392-395, 10.407, 10.415]
+passages:
+  - 10.299-332 | Hector's council and his oath to Dolon
+  - 10.413-416 | Dolon tells where Hector is
+---
+
+**Feared.** In the Achaean camp Hector is the danger of the night. Agamemnon tells Menelaus that “the mind of Zeus has turned. / He has set his heart more on the sacrifices of Hector” (10.45–46; see [[the-mind-of-zeus]] and the translation's note on 10.46). Ἑκτορέοις, “of Hector”, is an adjective made from the name. Zeus will say himself that Hector never failed him in sacrifice (22.170–172, 24.66–70). Never, Agamemnon goes on, has one man done so many grim deeds in a single day as “Hector, dear to Zeus”, though he is “the dear son of no goddess and of no god” (10.47–50; see [[grim-deeds]] and [[dear-to-zeus]]). Nestor answers that Zeus will not fulfill all Hector's hopes, and that he will have greater sorrows if Achilles turns from his anger (10.104–107; see [[nestor]] and [[achilles]]). The kings sit down beyond the ditch in the clear space where “mighty Hector had turned back again / from killing the Argives, when night covered all around” (10.200–201; see [[the-second-day-of-battle]]).
+
+**His council.** “Nor did Hector let the proud Trojans / sleep” (10.299–300). He calls the leaders and rulers together and asks for a spy (see [[spies-and-scouts]]):
+
+{{quote:88d07aed-bc91-508c-8a26-0450fbf6e588}}
+
+His council answers Nestor's, in the same silence (10.218 = 10.313; see [[the-doloneia]]). What he wants to know is whether the Achaeans are planning flight and have stopped keeping watch (10.308–312), the fear with which he ordered fires all night in his assembly of Book 8, “in case even by night the long-haired Achaeans / set out to flee over the broad back of the sea” (8.508–511).
+
+**The oath.** Dolon asks him to hold up his scepter and swear to give him the horses of Achilles. Hector swears by “Zeus himself …, the loud-thundering husband of Hera”, the oath with which Agamemnon granted the truce of Book 7 (10.329; 7.411), and the narrator calls it “an oath that would prove false” (10.332; see [[oath]], [[scepter]], [[loud-thundering]] and [[dolon]]). He covets those horses himself. After Patroclus' death he chases Automedon to take them, Apollo tells him in Odysseus' verses that they will obey no mortal but Achilles, and Zeus resolves that Hector will not ride behind them (16.864–867, 17.75–78, 17.448–449; see [[the-horses-of-achilles]]). In the *Rhesus* Hector makes the promise without an oath: “I will not deceive you” (*Rhesus* 189; see [[euripides-rhesus]]).
+
+**Where Hector is.** Odysseus' first question to the captured spy is about Hector: “where did you leave Hector, shepherd of the people, when you came here? / Where does his armor of war lie, and where are his horses?” (10.406–407; see [[shepherd-of-the-people]]). Dolon blames Hector for leading him astray “with many blind follies” (10.391), and tells that he is holding council with the counselors “by the mound of divine Ilus, / away from the din” (10.414–416; see [[the-tomb-of-ilus]] and [[boule]]). Of his armor and horses Dolon says nothing, and the two go to the Thracians instead. At the ships Odysseus reports the thirteenth man killed, “one sent out to be a scout upon our army / by Hector and the other noble Trojans” (10.562–563). The night ends without Hector. The next day Diomedes' spear stuns him and Paris, shooting from the tomb of Ilus, drives Diomedes from the field (11.349–400).

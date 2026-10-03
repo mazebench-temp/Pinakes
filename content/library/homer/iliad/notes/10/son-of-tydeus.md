@@ -1,0 +1,9 @@
+---
+summary: Diomedes is “the son of Tydeus” fifteen times in Book 10: woken, chosen and armed for the raid, in the chase of Dolon and the killing of the Thracians, warned by Athena, and at his own hut at the end.
+---
+
+**Woken and chosen.** Nestor names him first among the men to be woken, “the son of Tydeus, famed for his spear” (10.109; [[famed-for-his-spear]]); the old men go to “Diomedes, son of Tydeus” (10.150), and Nestor wakes him with his heel: “Wake up, son of Tydeus! Why do you sleep the whole night through?” (10.159; [[hypnos]]). Agamemnon lets him choose his companion, “Diomedes, son of Tydeus, dear to my heart” (10.234; [[dear-to-my-heart]]), and Odysseus answers his praise, “Son of Tydeus, do not praise me too much” (10.249; [[do-not-praise-me-too-much]]). Thrasymedes arms “the son of Tydeus” with a sword, a shield and a cap (10.255–258; [[two-edged]], [[of-bulls-hide]]).
+
+**The chase and the killing.** “The son of Tydeus and Odysseus, sacker of cities,” chase Dolon (10.363; [[sacker-of-cities]]), and Athena puts might “into the son of Tydeus” (10.366–367; [[menos]]). Among the Thracians “the son of Tydeus” goes at the sleeping men like a lion, strikes, and comes to the king (10.485–494; [[lion-among-the-flocks]], [[rhesus]]); at the killing itself he is “the son of Oeneus' son” (10.497; [[son-of-oeneus]]). Athena warns him, “Think now of your return, son of great-hearted Tydeus” (10.509; [[great-hearted]]), and Apollo sees her “attending the son of Tydeus” (10.516; [[god-of-the-silver-bow]]).
+
+**The return.** “The son of Tydeus leapt to the ground and put the bloody spoils into Odysseus' hands” (10.528–529; [[bloody-spoils]]), and the horses are tied at “the well-made hut of the son of Tydeus” (10.566; [[well-made]]). His father is in the book in his own right: Diomedes asks Athena to go with him as she went with “my father, brilliant Tydeus,” to Thebes (10.285–290; [[tydeus-at-thebes]]). See [[diomedes]] and [[tydeus]].

@@ -7,6 +7,8 @@ summary: The thigh-bones of the victims, wrapped in fat and burned: the god's po
 aliases: [thigh-bones, thighs, meria]
 grc: [πίονα μηρίʼ, μηρούς, μῆρε]
 en: [fat thigh-pieces, thigh-pieces, thigh-bones]
+# μηρούς at 10.573 are the thighs Odysseus and Diomedes wash in the sea.
+except: [10.573]
 ---
 
 The god's share of an animal sacrifice is the thigh-bones, wrapped in fat and burned on the altar. Homer calls them μηρία ({{ref:Iliad 1.40}}), μηροί ({{ref:Iliad 1.460}}) and, in the form printed at {{ref:Iliad 1.464}}, μῆρε. μηρός is also the ordinary word for a thigh: Achilles' sword hangs “beside his thigh” (παρὰ μηροῦ, {{ref:Iliad 1.190}}).

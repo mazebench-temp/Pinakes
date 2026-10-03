@@ -1,0 +1,11 @@
+---
+summary: Nestor, woken in the night, asks the man moving through the camp whether he is looking for one of his mules, οὐρήων, a word whose sense was already disputed in antiquity (10.84); and the narrator measures the start Dolon has on his pursuers by “the furrow-length of mules”, which plow better than oxen (10.351–353).
+grc: [οὐρήων]
+passages:
+  - 10.80-85 | Nestor's challenge
+  - 10.351-353 | The furrow-length of mules
+---
+
+**A lost mule?** Agamemnon finds Nestor in bed beside his hut. The old man raises himself on his elbow and challenges the figure coming alone through the camp in the dark: “Are you looking for one of your mules, or one of your companions?” (ἠέ τινʼ οὐρήων διζήμενος, ἤ τινʼ ἑταίρων, 10.84; see [[nestor]]). οὐρεύς is the word for the mules of the camp that Apollo's arrows struck first (1.50) and for the mules that will haul the wood for Patroclus' pyre (23.111, 23.115). A strayed mule has seemed a strange errand for a king at night, and οὐρήων has also been taken as “guards”, from οὖρος, “watcher”, the word for Nestor himself as “guardian of the Achaeans” (8.80). Aristotle proposed that sense for οὐρῆας at 1.50: “perhaps he does not mean the mules but the guards” (*Poetics* 25, 1461a; see [[aristotle-mules]]). Here “guards” would suit a night when the watch is Agamemnon's first worry (10.97–99; see [[night-watch]]), but Nestor sets the animals beside the companions, and the translation keeps “mules”, as at 1.50 (see the translation's note on 10.84).
+
+**The furrow-length.** When Dolon has run past the two men lying among the dead, they let him go “as far off as the furrow-length / of mules (for they are better than oxen / at dragging the jointed plow through the deep fallow)” (10.351–353), and then run after him. οὖρα is a measured stretch, as δίσκου οὖρα is the range of a discus throw (23.431). In the Odyssey the same measure gives a runner's lead in the Phaeacian games, “as far as the furrow-length of a pair of mules in fallow land” (*Odyssey* 8.124). Whether it is the length of furrow a team of mules plows without a halt, or the distance by which mules, the faster team, draw ahead of oxen plowing beside them, is not certain (see the translation's note on 10.351–353 and [[cattle]]). The narrator stops the chase for a farmer's fact: mules plow better than oxen.

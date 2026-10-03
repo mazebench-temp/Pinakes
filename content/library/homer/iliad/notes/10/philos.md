@@ -1,0 +1,13 @@
+---
+summary: The night is won by men the gods love. Diomedes chooses Odysseus because “Pallas Athena loves him”, Odysseus prays to her, “now again love me above all”, and Nestor puts the horses down to the love of Zeus and Athena for both men. Agamemnon complains that Hector, “dear to Zeus”, is “the dear son of no goddess and of no god”.
+passages:
+  - 10.241-247 | Diomedes chooses Odysseus
+  - 10.277-282 | Odysseus' prayer
+  - 10.551-553 | Nestor's welcome
+---
+
+**Dear to Zeus.** Agamemnon measures Hector's success against his birth: no man ever devised so many grim deeds in a single day “as Hector, dear to Zeus, has done to the sons of the Achaeans, just as he is, the dear son of no goddess and of no god” (Διῒ φίλος … οὔτε θεᾶς υἱὸς φίλος οὔτε θεοῖο, 10.49–50). The word is used twice in two verses: Hector is dear to Zeus, but no god's dear son, and the favor is all the more galling for it (see [[hector]] and [[the-man-whom-zeus-loves]]). Διῒ φίλος, “dear to Zeus”, is a formula used of several heroes, of Hector before (6.318, 8.493) and of Odysseus later in this book, when he holds the horses at the place where Dolon died (10.527; see [[dear-to-zeus]]).
+
+**Loved by Athena.** The night's success is set down to divine love from the start. Diomedes chooses Odysseus “whose heart and proud spirit are eager above all others in every toil, and Pallas Athena loves him” (φιλεῖ δέ ἑ Παλλὰς Ἀθήνη, 10.244–245). Odysseus' prayer at the heron asks for it again: “now again love me above all, Athena” (νῦν αὖτε μάλιστά με φῖλαι Ἀθήνη, 10.280). The imperative φῖλαι occurs in one other place, in Diomedes' prayer in Book 5, “now be my friend in turn, Athena” (5.117), and Odysseus' prayer opens as that one did, “Hear me, child of aegis-bearing Zeus” (10.278; 5.115; see [[reciprocity-with-the-gods]]). At the end Nestor, seeing the horses, guesses that some god gave them, “for Zeus the cloud-gatherer loves you both, and the daughter of aegis-bearing Zeus, gray-eyed Athena” (ἀμφοτέρω γὰρ σφῶϊ φιλεῖ, 10.552–553; see [[athena]] and [[gods-and-mortals]]).
+
+**Friends and one's own.** Nestor addresses the kings as “Friends” (ὦ φίλοι, 10.204, 10.533) and the sentries as “dear children” (φίλα τέκνα, 10.192), and grants Diomedes' protest with “my friend” (φίλος, 10.169). The word also keeps its sense of “one's own”: Agamemnon's knees, Achilles' heart, the heroes' hearts refreshed by the sea (10.90, 10.107, 10.575). Hippocoon, waking among the dead, “called his dear companion by name” (10.522), and Rhesus' horses fly to the ships, “for there their hearts were glad to go” (τῇ γὰρ φίλον ἔπλετο θυμῷ, 10.531).

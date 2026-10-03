@@ -16,7 +16,7 @@ sort: 18
 
 ## Etymology
 
-Ὀδυσσεύς (Odysseus), also Ὀδυσεύς. The Odyssey explains it through his grandfather Autolycus. Having been angered (ὀδυσσάμενος) by many people, he named the baby "Odysseus", the man of wrath or the man hated (19.406–409). Scholars regard the name itself as probably pre-Greek.
+Ὀδυσσεύς (Odysseus), also Ὀδυσεύς. The Odyssey explains it through his grandfather [[autolycus|Autolycus]]. Having been angered (ὀδυσσάμενος) by many people, he named the baby "Odysseus", the man of wrath or the man hated (19.406–409). Scholars regard the name itself as probably pre-Greek.
 
 ## Descriptions
 

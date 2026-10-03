@@ -17,7 +17,7 @@ The parts are the φάλος, a ridge or boss on the crown whose exact form is d
 
 ## Elsewhere in Homer
 
-The only helmet whose history the Iliad tells is the one covered with boar's tusks that Meriones lends Odysseus for the night raid. Autolycus stole it from Amyntor of Eleon, and it passed from hand to hand as a gift before it came to Meriones (10.261–271). When Apollo strikes Patroclus, the helmet he wears, Achilles' own, rolls under the horses' hooves and its crest is fouled with blood and dust, as it had never been before (16.793–800). Achilles' new helmet, made by Hephaestus, shines like a star, with golden plumes (19.380–383). Lots are shaken in a helmet (3.316, 7.175–182).
+The only helmet whose history the Iliad tells is the one covered with boar's tusks that Meriones lends Odysseus for the night raid (see [[the-boars-tusk-helmet]]). Autolycus stole it from Amyntor of Eleon, and it passed from hand to hand as a gift before it came to Meriones (10.261–271). When Apollo strikes Patroclus, the helmet he wears, Achilles' own, rolls under the horses' hooves and its crest is fouled with blood and dust, as it had never been before (16.793–800). Achilles' new helmet, made by Hephaestus, shines like a star, with golden plumes (19.380–383). Lots are shaken in a helmet (3.316, 7.175–182).
 
 ## Outside Homer
 

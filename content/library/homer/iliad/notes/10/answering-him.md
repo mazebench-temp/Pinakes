@@ -1,0 +1,7 @@
+---
+summary: Nine replies in Book 10 open with “Answering him, … said” or “Then … spoke to him in turn”. In the questioning of Dolon the reply frames carry the scene by themselves, and their participles give the speakers' moods.
+---
+
+The replies of the book: 10.42, 64, 119, 168, 248, 382, 412, 423, 554. τὸν δʼ ἀπαμειβόμενος προσέφη, “Answering him, … said”, brings in Agamemnon's first answer to Menelaus (10.42) and three answers of Odysseus “of many wiles”, two to Dolon and one to Nestor at the end of the night (10.382, 10.423, 10.554; see [[of-many-wiles]]). The other frame, τὸν δʼ αὖτε προσέειπε, “Then … spoke to him in turn”, serves Agamemnon (10.64, 10.119), Nestor (10.168), Dolon (10.412), and Odysseus answering Diomedes' praise, in the verse with which he began his report to Agamemnon a few hours before: “Then much-enduring brilliant Odysseus spoke to him in turn” (10.248 = 9.676; see [[much-enduring]]).
+
+**The questioning of Dolon.** From Dolon's capture to his death, speech follows speech with nothing told between them but the frames (10.382–453). They alternate the captor's frame and the captive's, and change with the speaker's mood: Odysseus answers once “smiling at him” (10.400; see [[smiling-at-him]]), Dolon once with “his limbs trembled beneath him” in place of a title (10.390; see [[then-answered]]), and Diomedes ends it “looking at him darkly” (10.446; see [[looking-darkly]]).

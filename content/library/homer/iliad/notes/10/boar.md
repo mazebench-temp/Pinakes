@@ -1,0 +1,8 @@
+---
+summary: The boar of Book 10 is on a helmet. The leather cap that Meriones gives Odysseus for the night raid is set on the outside with “the white teeth / of a white-tusked boar”, close together, this way and that (10.263–265).
+grc: [ὑὸς]
+---
+
+ἔκτοσθε δὲ λευκοὶ ὀδόντες / ἀργιόδοντος ὑὸς θαμέες ἔχον ἔνθα καὶ ἔνθα / εὖ καὶ ἐπισταμένως, “and on the outside the white teeth / of a white-tusked boar were set close, this way and that, / well and skillfully” (10.263–265). ὗς is another form of σῦς, the pig or boar (see [[boar]]), and ὑός, its genitive, occurs only here in the Iliad. ἀργιόδους, “white-tusked”, is used of the boar of Calydon, “a wild boar, a lurker in the grass, with white tusks” (9.539), and of the fattened hogs of Patroclus' funeral feast (23.32; see [[white-tusked]]). In the Odyssey the same two words, ἀργιόδοντος ὑός, are used of hogs killed for a feast (*Odyssey* 8.476, 14.423, 14.438). Here the tusks are armor, set close on a leather cap stretched with thongs and lined with felt (10.261–265; see [[the-boars-tusk-helmet]] and [[helmet]]).
+
+The helmet has a history, and the boar has a part in it. Autolycus stole it from Amyntor's house at Eleon (10.266–267; see [[autolycus]]), and it now covers the head of Odysseus (10.271). In the Odyssey Autolycus is Odysseus' mother's father, and it was hunting a boar on Parnassus with Autolycus' sons that the young Odysseus got the scar by which his nurse knew him, the wound that a boar “once dealt him with its white tusk” (σῦς ἤλασε λευκῷ ὀδόντι, *Odyssey* 19.392–394, 19.449–451). The Iliad does not connect the helmet with the scar; it gives the white tusks and the thief.

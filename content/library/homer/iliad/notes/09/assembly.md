@@ -6,7 +6,7 @@ passages:
   - 9.52-79 | Nestor's counsel
 ---
 
-**The summons.** “And the son of Atreus, stricken at heart with great grief, went to and fro, ordering the clear-voiced heralds to summon every man by name to the assembly, but not to shout” (9.9–12; see [[heralds]]). The verse of the order echoes his summons in Book 2 (9.10 ≈ 2.50), where nine heralds had to shout down the din (2.96–98). This assembly meets in the dark, in grief, and quietly. κλήδην, “by name”, is found only here; later the same night Agamemnon tells Menelaus to wake the leaders “calling each man by name, with his father's name” (10.68). The men sit, and Agamemnon stands up weeping (9.13–16; see [[assembly-type-scene]]).
+**The summons.** “And the son of Atreus, stricken at heart with great grief, went to and fro, ordering the clear-voiced heralds to summon every man by name to the assembly, but not to shout” (9.9–12; see [[heralds]]). The verse of the order echoes his summons in Book 2 (9.10 ≈ 2.50), where nine heralds had to shout down the din (2.96–98). This assembly meets in the dark, in grief, and quietly. κλήδην, “by name”, is found only here; later the same night Agamemnon tells Menelaus to wake the leaders “naming each man by his father and his lineage” (10.68). The men sit, and Agamemnon stands up weeping (9.13–16; see [[assembly-type-scene]]).
 
 **The proposal.** Agamemnon tells the army that Zeus has deceived him and proposes flight, in the verses of his test in Book 2, now in earnest (9.17–28 = 2.111–118, 2.139–141; see [[the-test-of-the-army]] and [[agamemnon]]). In Book 2 the army ran for the ships. Here it sits in silence (9.29–30; see [[silence]]).
 

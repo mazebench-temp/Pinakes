@@ -3,7 +3,7 @@ title: Famed for his spear
 greek: δουρὶ κλυτός
 kind: epithet
 tags: [heroic-epithet, weapon]
-summary: “Famous with the spear,” an epithet of warriors, given in the Catalogue to [[Idomeneus]] and [[Tlepolemus]].
+summary: “Famous with the spear,” an epithet of warriors, δουρὶ κλυτός and the compounds δουρικλυτός and δουρικλειτός: [[Idomeneus]] and [[Tlepolemus]] in the Catalogue, Menelaus, Diomedes, Odysseus and others.
 aliases: [renowned spearman, douri klytos]
 grc: [δουρὶ κλυτὸς]
 en: [famed for his spear]

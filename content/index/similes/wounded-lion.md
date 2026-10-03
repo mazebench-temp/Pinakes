@@ -30,6 +30,6 @@ Wound, prayer and renewal belong to the pattern of a hero's great day (see [[the
 
 ## Elsewhere in Homer
 
-Diomedes is a lion among the flocks again in Book 10, when he falls on the sleeping Thracians “as a lion comes upon flocks without a shepherd, goats or sheep, and leaps on them with evil intent” (10.485–486). Sarpedon goes against the Achaean wall like a mountain lion long without meat, which makes for the close-built fold; even if it finds herdsmen there guarding the sheep with dogs and spears, it will not be driven off untried, but either seizes a sheep or is itself struck by a javelin among the first (12.299–306).
+Diomedes is a lion among the flocks again in Book 10, when he falls on the sleeping Thracians “as a lion, coming on flocks that have no herdsman, on goats or sheep, leaps on them with evil intent” (10.485–486). Sarpedon goes against the Achaean wall like a mountain lion long without meat, which makes for the close-built fold; even if it finds herdsmen there guarding the sheep with dogs and spears, it will not be driven off untried, but either seizes a sheep or is itself struck by a javelin among the first (12.299–306).
 
 The wounded lion returns when Achilles goes against Aeneas in Book 20. He is like a ravaging lion that a whole people gathers to kill. At first it goes on disdainfully, but when a young man strikes it with a spear, it crouches with gaping jaws and foam about its teeth, lashes its flanks with its tail, and rushes straight on in its fury, to kill or be killed (20.164–175). See [[lion]] and [[sheep]].

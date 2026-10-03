@@ -1,0 +1,14 @@
+---
+summary: After a night without gods, Athena and Apollo act again, on opposite sides. The speakers measure what they want against the gods: Achilles' horses are too much for any mortal but a goddess's son, Rhesus' golden armor is fit for gods and not men, and a god, Odysseus says, could give better horses than these, “since the gods are far stronger than we are”.
+refs: [10.402-404, 10.440-441, 10.556-557]
+passages:
+  - 10.400-404 | Odysseus on Achilles' horses
+  - 10.507-517 | Athena and Apollo
+  - 10.544-557 | A god could give better horses
+---
+
+**The gods return.** No god appeared in Book 9 (see the note on Book 9). In Book 10 Athena sends the heron, hears the two prayers, puts might into Diomedes twice, designs the “evil dream” for Rhesus, and warns Diomedes to go back before “some other god” wakes the Trojans (10.274–295, 10.366, 10.482, 10.497, 10.507–511). The other god comes: Apollo, who “did not keep a blind watch”, sees Athena attending the son of Tydeus and “in resentment at her” wakes the Thracians (10.515–519; see [[athena]], [[apollo]] and [[the-gods-mirror-the-mortals]]). The night raid is fought by men, with a god behind each side.
+
+**What is for gods and what for men.** The speakers of the book measure what men want by the gods. Agamemnon complains that Hector has done such deeds though he is “the dear son of no goddess and of no god” (10.50; see [[philos]]). Odysseus tells Dolon that the horses he asked for “are hard for mortal men to master and to drive, for any other than Achilles, whom an immortal mother bore” (10.402–404); Apollo will say the same three verses to Hector when Hector chases those horses in Book 17 (17.76–78), and Zeus, pitying them, will ask why the gods gave such ageless, immortal horses to a mortal man (17.443–445; see [[the-horses-of-achilles]]). Dolon says of Rhesus' golden armor that “it is not fit at all for mortal men to wear, but for the immortal gods” (10.440–441; see [[gold-and-silver]]). At the end Nestor, seeing the horses “terribly like the rays of the sun”, thinks that a god gave them, “for Zeus the cloud-gatherer loves you both” (10.546–553). Odysseus answers with the difference itself: “a god, if he wished, could easily give horses even better than these, since the gods are far stronger than we are” (10.556–557; see [[gifts-of-the-gods]]). Hector uses the same half-verse when he tells the Trojans not to fear Achilles: he too could fight even the immortals with words, “but with the spear it is hard, since they are far stronger” (20.366–368).
+
+**Toils from Zeus.** Agamemnon's complaints place the gods at the start of men's sufferings: “so, it seems, at our birth Zeus laid heavy misery on us” (10.70–71), and he is the man “whom above all men Zeus has plunged into toils without end” (10.89). It is the thought that Achilles will give Priam in the image of the two jars of Zeus, from which men receive evils or a mixture (24.527–533).

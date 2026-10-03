@@ -1,6 +1,6 @@
 ---
 summary: Book 2 is a book of words: a test made “with words”, “gentle words” to hold back the kings, Thersites' words “many and disorderly”, Nestor's word “not to be cast aside”, and Agamemnon's confession that he fought Achilles “with hostile words”.
-grc: [ἔπεʼ, ἐπέεσσʼ, ἐπεσβόλον]
+grc: ["=ἔπεʼ", ἐπέεσσʼ, ἐπεσβόλον]
 en: [word-slinging]
 passages:
   - 2.72-75 | A test with words

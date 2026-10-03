@@ -3,7 +3,7 @@ title: Two lions
 greek: οἵω τώ γε λέοντε δύω ὄρεος κορυφῇσιν
 kind: simile
 tags: [wild-animal, livestock, warfare, kinship]
-summary: The twin sons of Diocles, Crethon and Orsilochus, fall to Aeneas like two lions reared by their mother on the mountain peaks, which carry off men's cattle and sheep and ravage their farmsteads until they themselves are killed by men with the sharp bronze (5.554–560).
+summary: Two lions together, the picture of a pair of fighters. The twin sons of Diocles fall to Aeneas like two lions reared on the mountain peaks, which raid men's farmsteads until they themselves are killed (5.554–560), and Diomedes and Odysseus set out on the night raid “like two lions through the black night” (10.297).
 aliases: [like two lions, the two young lions, the twin lions]
 grc: [λέοντε δύω ὄρεος, ἐτραφέτην ὑπὸ μητρὶ, ἁρπάζοντε βόας, κεραΐζετον, τοίω τὼ]
 en: [on the mountain peaks, in the thickets of the deep forest, ravage the farmsteads of men, such were these two]

@@ -5,7 +5,7 @@ kind: god
 tags: [personification, warfare]
 summary: The din and confusion of battle as a person. [[Enyo]] brings him into the fighting beside Ares, “shameless in combat” (5.593), and on the shield of Achilles he moves through the battle with Strife and Doom.
 aliases: [Kydoimos, Kudoimos]
-# ^: κυδοιμός “uproar” is also the common noun (10.523, 11.52, 11.538, 18.218).
+# ^: κυδοιμός “tumult” is also the common noun (10.523, 11.52, 11.538, 18.218).
 grc: ["^Κυδοιμ*"]
 ---
 

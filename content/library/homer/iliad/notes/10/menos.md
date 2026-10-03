@@ -1,0 +1,12 @@
+---
+summary: Athena gives Diomedes might twice in the night, to overtake Dolon and to kill the sleeping Thracians, and between the two gifts Odysseus tells him to “bring out your strong might” himself.
+passages:
+  - 10.364-371 | Athena puts might into Diomedes
+  - 10.476-488 | The killing of the Thracians
+---
+
+**Might for the chase.** Dolon is fleeing toward the Achaean ships with the two spies behind him, and is about to fall in with the sentries, “then Athena put might into the son of Tydeus” (τότε δὴ μένος ἔμβαλʼ Ἀθήνη, 10.366), so that no other Achaean should strike him first (10.367–368; see [[kydos]]). The might is speed and resolve together: Diomedes darts at him, shouts, and throws his spear wide on purpose (10.369–374). The same verb gives Glaucus his strength back when Apollo heals his wound (μένος δέ οἱ ἔμβαλε θυμῷ, 16.529). This is the Diomedes of Book 5, to whom Athena gave “might and daring” and his father's might (5.1–3, 5.125–126; see [[tharsos]]), and in this book he prays to her by his father's name (10.284–294; see [[tydeus-at-thebes]]).
+
+**Might asked and given.** At the Thracian camp Odysseus points out Rhesus and the horses and says, “But come now, bring out your strong might; you have no need to stand idle with your weapons” (ἀλλʼ ἄγε δὴ πρόφερε κρατερὸν μένος, 10.479–480). κρατερὸν μένος, “strong might”, is what Apollo proposed to Athena to rouse in Hector before his duel with Ajax (7.38). Odysseus asks Diomedes to bring out what is his, and in the next verse the goddess supplies it: “So he spoke, and gray-eyed Athena breathed might into him” (ἔμπνευσε μένος, 10.482). The man's word and the god's gift come together, as they often do in Homer (see [[divine-intervention]]). The formula is used of Apollo breathing might into Hector (15.262) and into Aeneas (20.110), and in the last book of the Odyssey of Athena breathing it into old Laertes before his last fight (*Odyssey* 24.520).
+
+**What the might does.** Diomedes “killed, turning this way and that; and an ugly groaning rose from the men struck by the sword” (10.483–484). Nearly the same verse is used of Achilles killing in the river (21.20) and of Odysseus and his men killing the suitors (*Odyssey* 22.308, 24.184), and the simile that follows makes him a lion among flocks “that have no herdsman” (10.485–488; see [[lion]]). The might that in Book 5 carried Diomedes against armed men and gods here kills twelve sleepers and their king (see [[rhesus]]).

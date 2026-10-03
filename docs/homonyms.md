@@ -64,6 +64,7 @@ Use `^` (only when capitalized), so that the clash never recurs:
 | Ἶφις, Patroclus' captive (9.667) | ἶφι "by might" | iphis: the exact form |
 | Δόλοπες (Δολόπεσσιν 9.484) | the names Δόλοψ (11.302, 15.525–555) and Δολοπίων (5.77) | dolopians: the exact form |
 | Ζεὺς καταχθόνιος, Hades (9.457) | Ζεύς | zeus: `except: [9.457]`; hades: the phrase `"Ζεύς τε καταχθόνιος"`; zeus-of-the-underworld claims καταχθόνιος |
+| Δόλων, the Trojan spy | δόλων "of tricks" (11.430; Od. 13.293) | dolon: `^Δόλων` |
 
 Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) is not εἴσατο "seemed" (eidos: `except: [5.538]`); ὀξὺ νόησε "was quick to see" (3.374, 5.312, 5.680) is not the epithet "sharp" (sharp: `"!ὀξὺ νόησε"`); νέμεσθαι "to graze" (5.777) is not νέμεσις (nemesis: `"!νέμεσθαι"`); ἑκηβολίαι, Scamandrius' skill with the bow (5.54), is not Apollo the far-shooter (apollo: `except: [5.54]`).
 
@@ -144,7 +145,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Αἴας (again) | ajax claims `^Αἶαν` (7.234, 7.288), which will catch the Locrian Ajax at 12.366, 23.483 and 23.493; Τελαμώνιε is Teucer at 8.281 (ajax `except`, teucer claims it) |
 | Ἀρηΐθοος | areithous, the mace-man, father of Menesthius (7.8–10, 7.137–146), claims exact capitalized forms only, because of the adjective ἀρηϊθόων "swift in battle" (8.298, 15.315, 20.167); Rhigmus' charioteer Ἀρηΐθοον (20.487) will need his own id |
 | Μενέσθιος | menesthius, son of Areithous (7.9); the Myrmidon leader Menesthius son of Spercheius (16.173) will need his own id |
-| Ἠϊονεύς | eioneus, killed by Hector (7.11); the father of Rhesus (10.435) will need his own id |
+| Ἠϊονεύς | eioneus, killed by Hector (7.11; `except: [10.435]`); eioneus-father-of-rhesus, the father of Rhesus, claims Ἠϊονῆος (10.435) |
 | Αἴσηπος | aesepus, the river (2.825, 4.91); aesepus-son-of-bucolion (6.21) |
 | Πήδασος | pedasus-son-of-bucolion (6.21); pedasus-on-the-satnioeis, the town of Elatus (6.35; 20.92, 21.87); pedasus-in-messenia (the phrase `"Πήδασον ἀμπελόεσσαν"`, 9.152, 9.294; both others except those lines); Achilles' trace horse (16.152, 16.467) will need its own id |
 | Φύλακος | phylacus, father of Iphiclus (Φυλακίδαο, 2.705); phylacus-the-trojan (6.35) |
@@ -166,6 +167,16 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Φοῖνιξ | phoenix, Achilles' tutor (`^Φοῖνιξ`, `^Φοίνικι`); the father of Europa (Φοίνικος, 14.321); Φοίνικες, the Phoenicians (23.744); Φοῖνιξ "a Phoenician" (Od. 14.288) will need an `except` |
 | Αἰακίδης | achilles and grandson-of-aeacus claim Αἰακίδαο and Αἰακίδην, always Achilles; Αἰακίδης is Peleus at 16.15, 18.433 and 21.189 |
 | Μενοιτίου υἱός | patroclus and son-of-menoetius claim `"Μενοιτίου υἱὲ"` (9.202); "Μενοιτίου ἄλκιμος υἱός" (11.605 on) will need adding |
+| Ῥῆσος | rhesus, the Thracian king (10.435, 10.474, 10.519); the river Rhesus (12.20) will need its own id, and rhesus `except: [12.20]` |
+| Ἶλος | ilus, son of Tros (Ἴλου 10.415, 11.166, 11.372, 24.349; Ἶλος 20.232, 20.236), with exact forms, since a stem Ἰλ- would catch Ἴλιος; Ilus son of Mermerus (Od. 1.259) will need his own id, and ilus an `except` there; the-tomb-of-ilus claims the phrase "σήματι Ἴλου" (10.415) |
+| Ἀμφιδάμας | amphidamas, of Cythera (Ἀμφιδάμαντι, Ἀμφιδάμας, 10.268–269); the father of the boy Patroclus killed (Ἀμφιδάμαντος, 23.87) will need his own id, and amphidamas `except: [23.87]` for the English name; Hesiod's Amphidamas of Chalcis (Works and Days 654) is a third |
+| Ἀμύντωρ | amyntor is one entry for Phoenix's father (9.448) and the Amyntor of Eleon whose house Autolycus robbed (10.266), though the poem does not say that they are one man |
+| Μόλος | molus, Meriones' father (10.269, 13.249); not Μολίων (11.322) or the Μολίονε (11.709, 11.750) |
+| Αἴας (Book 10) | ajax `except: [10.110, 10.175]`, where Αἴαντα ταχύν is the son of Oileus; ajax-son-of-oileus claims the phrase `"Αἴαντα ταχὺν"` and takes the dual Αἴαντε (10.228) by `refs` |
+| Νέστορος (ἀγλαὸς) υἱός | thrasymedes takes 10.196 and 10.229 by `refs`, not by a pattern: the same words are Antilochus (5.565, 13.400, 17.653, 18.16, 23.302, 23.541, 23.596, 23.755) and, in the Odyssey, Peisistratus (Od. 4.21, 4.303, 15.144) |
+| Νηλήϊος | nestor claims only the phrase `"Νέστορʼ ἔπι πρῶτον Νηλήϊον"` (10.18); neleus claims the bare form, which is "Neleian Pylos" at 11.682 and Od. 4.639, Nestor at 23.349 and Antilochus at 23.514 |
+| Ἀτρεΐδης (Book 10) | agamemnon `except: [10.230]`, where the son of Atreus is Menelaus |
+| Φυλέος υἱός | meges claims the phrases `"Φυλέος ἄλκιμον υἱόν"` and `"Φυλέος υἱόν"` (10.110, 10.175); phyleus claims Φυλέος |
 
 ## Places that share a name
 
@@ -199,6 +210,8 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Θῆβαι in Egypt | thebes-in-egypt (`"ὅσα Θήβας"` 9.381, Αἰγυπτίας 9.382; Od. 4.126–127); thebes (Boeotian) `except: [2.691, 9.381]`; egypt shares Αἰγυπτίας |
 | Αἰγύπτιος | egypt and thebes-in-egypt (9.382); Αἰγύπτιος, the Ithacan elder (Od. 2.15), will need his own id |
 | Θρῄκη / Θρῇκες | thrace, the land (Θρῄκηθεν 9.5, 9.72); thracians, the people (`Θρήϊκ*`) |
+| Κύθηρα, Κυθέρεια | cythera claims `Κυθηρ*` (10.268; 15.431, 15.432, 15.438; Od. 9.81); Aphrodite's title Κυθέρεια (Od. 8.288, 18.193) is spelled with ε and is not caught |
+| Ἐλεών | eleon claims Ἐλεῶνʼ (2.500) and Ἐλεῶνος (10.266); Strabo reports an ancient reading ἐξ Ἑλεῶνος, "from Heleon", at 10.266 (9.5.18) |
 
 ## Epithets that also describe other things
 
@@ -293,3 +306,18 @@ Entries for things and customs claim common words, and a common word can mean so
 | τίω "honor" (time) | τίνω "pay" (τίσω, ἔτισαν) | time: the phrases `"περ ἔτισαν"`, `"τίσω δέ μιν"`, `"τίσει δέ σε"` |
 | κλισμός "chair" (throne) | | throne claims κλισμοῖσι (8.436, 9.200; 11.623 later) |
 | εὔχομαι "claim" (9.60, 9.161) | εὔχομαι "pray" (prayer) | prayer: the Book 9 note excepts 9.60 and 9.161 |
+| σῆμα "mound" (tomb), "sign" (teras) | the mark Odysseus sets by Dolon's spoils (10.466) | tomb and teras: `except: [10.466]`; the-tomb-of-ilus claims the phrase "σήματι Ἴλου" (10.415) |
+| ἐΰξου "polished" (10.373) | εὐξ* "pray" (prayer, euchomai) | prayer and euchomai: `"!ἐϋξου"`, with `"!ἐϋξοο*"` and `"!ἐϋξεστ*"` |
+| θεῷ "god" (theos) | θέω "run" (10.63), which differs only by accent | theos: `"!=θέω"`, with `"!=θέων"` and `"!=θέον"` |
+| ἔπεʼ "words" (epos) | ἕπεʼ "follow!" (10.146), which differs only by breathing | epos (Book 2 note): `"=ἔπεʼ"` |
+| βασιλῆα "king" (kings, the Achaean kings) | Rhesus, king of the Thracians (10.494) | kings: `except: [10.494]` |
+| ἱμᾶσιν "straps", ζυγόν "yoke" (chariot) | the thongs inside a helmet (10.262); the yoke a heifer has never borne (10.293) | chariot: `except: [10.262, 10.293]` |
+| μηρούς "thigh-pieces" (thigh-pieces) | the men's own thighs (10.573) | thigh-pieces: `except: [10.573]` |
+| ὄναρ, a dream as a sign (divination) | Diomedes, the "evil dream" standing over Rhesus (10.496) | divination: `except: [10.496]` |
+| ἀγορεύω, ἀγρόμενοι (assembly) | speaking among the Argives (10.250); the gathered sentries (10.180) | assembly: `except: [10.180, 10.250]` |
+| εὐνάς "beds" (bed) | εὐναί "anchor-stones" (1.436) | bed: the phrase `"καὶ εὐνάς"` (10.464) |
+| βοῶν "of oxen" (cattle) | βοῶν "shouting" (2.224) | cattle: phrases only (`"βοῶν προφερέστεραί"`, 10.352) |
+| μῆλα "sheep" (sheep) | the goatherd's flock (4.279) | sheep: `"περὶ μῆλα"` and μήλοισιν only |
+| θοή "swift", of the night (swift-night) | θοαὶ νῆες "swift ships" (swift-ships); μέλαινα of the night and of a ewe (black-ships) | swift-ships: `except: [10.394, 10.468]`; black-ships: `except: [10.215, 10.297, 10.394, 10.468]` |
+| σκοπός "spy", ἐπίσκοπος "spy" (spies-and-scouts) | σκοπός "target" (Od. 21.425, 22.6); ἐπίσκοπος "guardian" (24.729) and "overseer" (Od. 8.163) | spies-and-scouts: `except` those lines when they come |
+| ἠώς "dawn", the time (eos) | Ἠώς, the goddess | eos counts lowercase ἠώς (1.493, 7.433, 7.451, 7.458, 10.251) and excepts only 8.66 ("morning") |

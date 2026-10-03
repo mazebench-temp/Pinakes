@@ -8,7 +8,8 @@ aliases: [teras, terata, portent, omen, prodigy, sign, sēma, sema, pelōr, pelo
 grc: [τέρας, σῆμα, σήματα, πέλωρα]
 en: [sign, signs, portents]
 refs: [2.318]
-except: [2.814]
+# σῆμα at 10.466 is the mark Odysseus sets by Dolon's spoils, not a sign from the gods.
+except: [2.814, 10.466]
 ---
 
 ## Meaning

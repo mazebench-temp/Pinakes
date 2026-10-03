@@ -1,0 +1,12 @@
+---
+summary: Nestor grants Diomedes' protest with the formula of approval, “all that you have said is fair and right”, which Diomedes himself had spoken to Nestor in Book 8. Odysseus reckons the night in μοῖραι, “portions”: two are gone and a third remains, the only place in Homer where μοῖρα is a portion of time.
+grc: [μοιράων]
+en: [portion, portions]
+passages:
+  - 10.164-176 | Diomedes and Nestor
+  - 10.251-253 | The night two parts gone
+---
+
+**Fair and right.** Woken by Nestor's heel, Diomedes complains that the old man never rests and that younger men could do the waking. Nestor answers, “Yes, my friend, all that you have said is fair and right” (ναὶ δὴ ταῦτά γε πάντα φίλος κατὰ μοῖραν ἔειπες, 10.169), and goes on to say why he does it anyway (10.170–176; see [[on-the-razors-edge]]). The verse is the poem's formula of assent, usually addressed to an elder: Agamemnon said it to Nestor in the quarrel (1.286), and Diomedes said it to Nestor when the old man advised flight before Zeus' thunder (8.146), with γέρον, “old man”, where Nestor now says φίλος, “my friend”. κατὰ μοῖραν, “according to the portion”, is speech that gives each thing its due (see the article above and [[aisa]]).
+
+**The portions of the night.** Odysseus ends the talk with the hour: “for the night is far spent, and dawn is near; the stars have moved on, and the greater part of the night has gone, two portions of it, and a third portion still remains” (τῶν δύο μοιράων, τριτάτη δʼ ἔτι μοῖρα λέλειπται, 10.251–253; see [[war-and-night]]). Everywhere else in Homer a μοῖρα is a share of something divided among persons, a portion of meat at a feast, of honor, of a life; here it is a share of the night. The phrasing of a “third portion” is used elsewhere of shares of the world and of wealth. Poseidon, refusing to yield to Zeus, recalls that all things were divided in three among the sons of Cronus, and tells Zeus to stay “in his third portion” (τριτάτῃ ἐνὶ μοίρῃ, 15.187–195), and Menelaus wishes he had only a third portion of his wealth and the men who died at Troy alive (*Odyssey* 4.97–99). The Odyssey marks the third part of the night with another word, τρίχα (*Odyssey* 12.312, 14.483). How more than two portions can be gone if a whole third remains was asked in antiquity; Aristotle answered that πλέω, “more”, is ambiguous (*Poetics* 25, 1461a; see [[aristotle-portions-of-the-night]] and the translation's note on 10.251–253).

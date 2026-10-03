@@ -1,0 +1,7 @@
+---
+summary: Nestor, roused at night, pins on a crimson cloak, “double and wide, with a thick woolly nap upon it” (10.133–134), where Agamemnon and Diomedes throw on lion skins. In the Odyssey's tale of a night ambush at Troy, a cloak is what a man needs most on a winter night.
+---
+
+“And fastened around him with a brooch a crimson cloak, double and wide, with a thick woolly nap upon it” (10.133–134). Every word marks the χλαῖνα, the woolen cloak: περονήσατο, “pinned with a brooch” (see [[brooch]]); φοινικόεσσα, “crimson”, dyed with φοῖνιξ (see [[crimson]] and [[purple]]); διπλῆ, “double”, folded to be worn in two layers (see [[double]]); ἐκταδίη, “wide”, found only here; and οὔλη λάχνη, a thick nap of wool. ἐπενήνοθε λάχνη, “a nap was upon it”, is the half-verse used of the thin fuzz on Thersites' head (2.219). The disguised Odysseus describes his own cloak to Penelope in the same terms, purple, woolly and double, with a golden brooch (Od. 19.225–227).
+
+A cloak is a night garment, and a blanket. Agamemnon and Diomedes throw lion skins around their shoulders in its place, and Menelaus a leopard's skin (10.23, 10.29, 10.177; see [[lion-skin]] and [[leopard-skin]]). In the Odyssey's tale of a night ambush under Troy, the men lie through a winter night of snow in their cloaks and tunics, and the teller, who has come out in his tunic only, would have died of cold if Odysseus had not got him a cloak by a trick: Thoas throws off his crimson cloak to run to the ships with a false message, and the teller lies in it till dawn (Od. 14.468–503; see [[ambush]]).

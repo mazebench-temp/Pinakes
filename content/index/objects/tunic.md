@@ -17,7 +17,7 @@ The word reaches beyond cloth. The Achaeans are χαλκοχίτωνες, men �
 
 ## Elsewhere in Homer
 
-When Agamemnon cannot sleep in Book 10, he dresses in the order of Book 2: tunic, sandals, and over them the skin of a great tawny lion in place of a cloak (10.21–24). Nestor, woken by him, puts on tunic and sandals and pins on a purple cloak (10.131–134). Athena, arming for war, lets her own embroidered robe fall on her father's floor and puts on the tunic of Zeus (5.733–737).
+When Agamemnon cannot sleep in Book 10, he dresses in the order of Book 2: tunic, sandals, and over them the skin of a great tawny lion in place of a cloak (10.21–24). Nestor, woken by him, puts on tunic and sandals and pins on a crimson cloak (10.131–134). Athena, arming for war, lets her own embroidered robe fall on her father's floor and puts on the tunic of Zeus (5.733–737).
 
 Tunics are gifts and ransom. Priam's ransom for Hector includes twelve tunics, with robes, cloaks and rugs (24.229–231). Achilles' men leave two mantles and a well-spun tunic out of it, and in them Hector's washed and anointed body is wrapped to be carried home (24.580–588).
 

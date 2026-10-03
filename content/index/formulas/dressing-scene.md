@@ -29,7 +29,7 @@ Walter Arend's *Die typischen Scenen bei Homer* (1933) is the classic study of H
 
 ## Elsewhere in Homer
 
-Book 10 has a run of night dressings. Agamemnon, unable to sleep, puts on his tunic and sandals, throws a lion's skin over his shoulders and takes a spear (Iliad 10.21–24). Nestor, woken by him, does the same with a purple cloak (10.131–135).
+Book 10 has a run of night dressings. Agamemnon, unable to sleep, puts on his tunic and sandals, throws a lion's skin over his shoulders and takes a spear (Iliad 10.21–24). Nestor, woken by him, does the same with a crimson cloak (10.131–135).
 
 The fullest dressing in the Iliad is Hera's, when she makes herself beautiful to beguile Zeus. She bathes and anoints herself, braids her hair, puts on robe, girdle, earrings and veil, and binds on her sandals in the same verse (14.170–186). Her veil is νηγάτεος, the rare word used of Agamemnon's tunic; it occurs only in these two scenes (2.43, 14.185).
 

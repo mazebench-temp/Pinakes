@@ -9,7 +9,7 @@ grc: [περόνῃ]
 en: [brooch]
 ---
 
-περόνη is a pin, related to πείρω, “pierce”. Its verb περονάω means both to pin on a garment, as Nestor pins on his purple cloak (10.133), and to pierce a man through with a spear (7.145, 13.397). The brooches of the poems are gold. Hera fastens her ambrosial robe at her breast with golden pins (14.180). In the Odyssey the suitor Antinous gives Penelope a robe with twelve golden brooches fitted with curved clasps (Odyssey 18.292–294), and the disguised Odysseus describes the golden brooch of his own cloak, on which a hound held a struggling fawn, and which Penelope herself had put on it (Odyssey 19.225–231, 19.256; see [[cloak]]).
+περόνη is a pin, related to πείρω, “pierce”. Its verb περονάω means both to pin on a garment, as Nestor pins on his crimson cloak (10.133), and to pierce a man through with a spear (7.145, 13.397). The brooches of the poems are gold. Hera fastens her ambrosial robe at her breast with golden pins (14.180). In the Odyssey the suitor Antinous gives Penelope a robe with twelve golden brooches fitted with curved clasps (Odyssey 18.292–294), and the disguised Odysseus describes the golden brooch of his own cloak, on which a hound held a struggling fawn, and which Penelope herself had put on it (Odyssey 19.225–231, 19.256; see [[cloak]]).
 
 In the Iliad the brooch first appears as a joke. Aphrodite comes back to Olympus with her hand wounded by Diomedes' spear, and Athena explains the wound to Zeus:
 

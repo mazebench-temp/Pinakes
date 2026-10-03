@@ -1,0 +1,10 @@
+---
+summary: Menelaus lies awake in fear for the Argives “who for his sake had come over the wide waters / to Troy, bent on bold war” (10.27–28), and when he volunteers to go among the Trojans, Agamemnon, afraid for him, tells Diomedes to choose the best man, not the most kingly (10.230–240).
+passages:
+  - 10.25-35 | Menelaus sleepless
+  - 10.233-240 | Agamemnon's fear for Menelaus
+---
+
+**For his sake.** The night of Book 10 begins with two sleepless brothers. Agamemnon cannot sleep for the army, and Menelaus cannot sleep either, “for fear that they might suffer harm, / the Argives, who for his sake had come over the wide waters / to Troy, bent on bold war” (10.26–28). ἕθεν εἵνεκα, “for his sake”, is the cause of the war in his own thoughts. Achilles put it as a grievance, that the army came “to win satisfaction for Menelaus” (1.159); Here it is his own care. He arms in a leopard's skin and goes to his brother before his brother can send for him (10.29–35; see [[menelaus]] and [[leopard-skin]]).
+
+**The brother held back.** When Nestor blames Menelaus for sleeping while Agamemnon toils, Agamemnon defends him. At other times Menelaus hangs back, “not giving way to sloth or to thoughtlessness of mind, / but looking to me and waiting for me to lead”; tonight he woke first and is already out calling the chiefs (10.114–125). Later he is among the volunteers for the raid (10.230). Agamemnon does not refuse him, but he tells Diomedes to choose the best man and not to take a worse one “looking to his lineage, not even if he is more kingly”, and the narrator gives the reason: “he feared for fair-haired Menelaus” (10.233–240). It is not the first time the king has feared for his brother. When Pandarus' arrow struck Menelaus, Agamemnon foresaw the army sailing home and Helen left to the Trojans if he died (4.169–182), and when Menelaus stood up to fight Hector, Agamemnon held him back (7.104–122; see [[agamemnon]]). The man for whose honor the war is fought is the one man it cannot afford to lose.

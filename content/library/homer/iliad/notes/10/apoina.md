@@ -1,0 +1,11 @@
+---
+summary: Caught, Dolon offers to ransom himself with his father's bronze, gold and iron, in the verses of the Trojan Adrastus in Book 6. Diomedes refuses for a soldier's reason: a spy let go for ransom would come back to spy or to fight.
+grc: [λύσομαι, ἀπολύσομεν]
+passages:
+  - 10.377-381 | Dolon offers ransom
+  - 10.446-457 | The death of Dolon
+---
+
+**The offer.** Dolon's first words, as the two spies seize his hands, are a ransom plea: “Take me alive, and I will ransom myself; for there is at home bronze and gold and iron worked with much toil; from these my father would gladly give you a boundless ransom, if he heard that I was alive at the ships of the Achaeans” (10.378–381). The last three verses are the ones in which Adrastus, clasping Menelaus' knees, offered his father's wealth (6.48–50), and the sons of Antimachus will offer theirs to Agamemnon in nearly the same words (11.131–135). λύομαι, the middle of “release”, is “win release, ransom”: the captive ransoms himself with another's goods (see the article above). Dolon, the son of the divine herald Eumedes, is himself “a man rich in gold, rich in bronze” (10.314–315; see [[eumedes]]), so the offer is not empty. The father's giving is a χάρις, a favor gladly done (χαρίσαιτο, 10.380; see [[charis]]), and the phrase ἀπερείσιʼ ἄποινα, “a boundless ransom”, is the price of a life (see [[boundless-ransom]]).
+
+**The refusal.** None of these offers is accepted in the Iliad: Agamemnon kills Adrastus and the sons of Antimachus (6.51–65, 11.136–147), and Achilles tells Lycaon, who offers three times what he once fetched, not to talk to him of ransom (21.79–80, 21.99–113). Diomedes' reason is neither anger nor revenge. “For if we take ransom and release you now, or let you go, surely later too you will come to the swift ships of the Achaeans, either to spy, or to fight face to face; but if you are beaten down beneath my hands and lose your life, then never again will you be a bane to the Argives” (10.449–453). A spy sold back would only be sent out again (see [[spies-and-scouts]]). Odysseus had told him to take heart and questioned him first (10.383–445; see [[tharsos]]), and Diomedes kills him as he reaches for his chin to beg (10.454–457; see [[supplication]] and [[dolon]]).

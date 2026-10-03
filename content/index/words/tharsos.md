@@ -13,7 +13,7 @@ passages:
 
 ## Meaning
 
-θάρσος is daring, the boldness to go at what is dangerous. The verb θαρσέω means “be bold, take heart”, and its imperative θάρσει is the ordinary word of encouragement: Achilles says it to Calchas, afraid to name the cause of the plague (1.85), and the wounded Menelaus says it to his brother (4.184). θαρσύνω is “encourage”, as Agamemnon encourages the eager in his review (4.233), and θαρσαλέος is “bold”. The same root, with the vowel placed differently, gives θράσος and θρασύς. Later Greek tended to keep θάρσος for confidence and θράσος for rashness, but in Homer both are praise, as in the epithet θρασυμέμνων, “bold in endurance”, said of Heracles (5.639; see [[bold-in-endurance]]). The root is inherited: Sanskrit *dhṛṣ-* and English *dare* are related.
+θάρσος is daring, the boldness to go at what is dangerous. The verb θαρσέω means “be bold, take heart”, and its imperative θάρσει is the ordinary word of encouragement: the wounded Menelaus says it to his brother (4.184), Zeus to Athena (8.39), and Odysseus to the captured Dolon (10.383); Achilles bids Calchas speak “taking heart” (θαρσήσας, 1.85), afraid as he is to name the cause of the plague. θαρσύνω is “encourage”, as Agamemnon encourages the eager in his review (4.233), and θαρσαλέος is “bold”. The same root, with the vowel placed differently, gives θράσος and θρασύς. Later Greek tended to keep θάρσος for confidence and θράσος for rashness, but in Homer both are praise, as in the epithet θρασυμέμνων, “bold in endurance”, said of Heracles (5.639; see [[bold-in-endurance]]). The root is inherited: Sanskrit *dhṛṣ-* and English *dare* are related.
 
 **A gift.** Homer seldom speaks of θάρσος without saying who gave it. Book 5 opens with it:
 

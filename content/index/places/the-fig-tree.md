@@ -15,6 +15,6 @@ en: [wild fig tree]
 
 {{quote:4499f236-e3b4-5973-aa9c-00911ef3850b}}
 
-The tree stands on the plain near the wall. The Trojans fleeing from Agamemnon run past the tomb of Ilus and past the fig tree toward the city, and stop at the Scaean gates and the oak (11.166–171; see [[the-oak-of-zeus]]). Achilles chases Hector “past the lookout and the windy fig tree”, along the wagon road under the wall, to the springs of the Scamander (22.145–148).
+The tree stands on the plain near the wall. The Trojans fleeing from Agamemnon run past [[the-tomb-of-ilus|the tomb of Ilus]] and past the fig tree toward the city, and stop at the Scaean gates and the oak (11.166–171; see [[the-oak-of-zeus]]). Achilles chases Hector “past the lookout and the windy fig tree”, along the wagon road under the wall, to the springs of the Scamander (22.145–148).
 
 Andromache makes it the weak place of the wall. The three attempts she speaks of are told nowhere in the Iliad, Hector's reply passes over her advice, and Aristarchus rejected the seven lines as unfit for her to speak (see [[andromaches-advice]] and [[andromache]]). Homer does not say why the wall should be weak there; Pindar tells that the mortal Aeacus helped the gods build it, and that Troy would be taken where he had worked (*Olympian* 8.31–46).

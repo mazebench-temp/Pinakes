@@ -3,7 +3,7 @@ title: Dear to my heart
 greek: ἐμῷ κεχαρισμένε θυμῷ
 kind: epithet
 tags: [heroic-epithet, speech]
-summary: “Dear to my heart,” a line-end formula of affectionate address, spoken in Book 5 to Diomedes first by Sthenelus and then by Athena.
+summary: “Dear to my heart,” a line-end formula of affectionate address: in a whole verse three times to Diomedes, from Sthenelus, Athena and Agamemnon, and in its second half to Patroclus.
 aliases: [kecharismene thymo, pleasing to my heart]
 grc: [ἐμῷ κεχαρισμένε θυμῷ]
 en: [dear to my heart]

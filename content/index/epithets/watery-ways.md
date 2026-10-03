@@ -3,7 +3,7 @@ title: Watery ways
 greek: ὑγρὰ κέλευθα
 kind: epithet
 tags: [sea, seafaring]
-summary: “The watery paths”: the [[sea]] as a road, in the line where Odysseus' ship sets out for Chryse (1.312).
+summary: “The watery paths,” ὑγρὰ κέλευθα: the [[sea]] as a road; and ὑγρή, “the wet,” the sea itself.
 aliases: [wet ways, hygra keleutha]
 grc: [ὑγρὰ κέλευθα]
 en: [watery ways]
