@@ -1,0 +1,15 @@
+---
+summary: On the day of his aristeia Hector calls Agamemnon “their best man”; Zeus keeps Hector from a better man, Ajax; and the Achaeans' best are wounded one by one, until “the best men lie among the ships”. Achilles, watching, expects the Achaeans at his knees, and Nestor, “the best of all in counsel”, recalls the fathers' charges that divided strength and counsel between Achilles and Patroclus.
+refs: [11.288, 11.542-543, 11.608-610, 11.627, 11.658-659, 11.783-789, 11.825-826]
+passages:
+  - 11.284-290 | Hector: their best man is gone
+  - 11.656-664 | Nestor counts the wounded
+---
+
+**The enemy's verdict.** Book 1 was a quarrel over who was “best of the Achaeans”, and Agamemnon's claim rested on rank: he was “the greater, since he rules over more” (1.279–281). In Book 11 he fights as he has not fought before, and when Coon's spear drives him from the field, it is Hector who gives him the title: “Their best man is gone, and a great triumph has been given me by Zeus” (11.288–289; see [[aristos]], [[agamemnon]] and [[the-aristeia-of-agamemnon]]).
+
+**The better man.** Ajax, whom the Catalogue named the best of the Achaeans while Achilles kept up his wrath (2.768–769), is the one man Hector will not face. Hector “avoided battle with Ajax, son of Telamon”, and the bracketed verse gives the reason: “For Zeus was indignant with him whenever he fought a better man” (11.542–543; see [[nemesis]] and [[ajax]]).
+
+**The best laid low.** By the end of the book the aristeia has turned into a list of wounds. Nestor tells Patroclus that “the best men lie among the ships, shot or stabbed”, and names them (11.658–664), and Eurypylus repeats the verse (11.825–826; see [[the-wounded-chiefs]]). With the best of those who fight out of the fighting, the title returns to the man who does not fight. Achilles, watching from his ship, sees what he asked of Thetis in Book 1, the Achaeans penned among the ships “so that the son of Atreus … may learn his own blind folly, in that he paid no honor to the best of the Achaeans” (1.409–412), and says it: “now I think the Achaeans will stand around my knees beseeching me; for a need has come that is no longer bearable” (11.608–610; see [[achilles]]). Nestor answers him from the other side: Achilles “will have the profit of his prowess alone” (11.763; see [[arete]]).
+
+**Strength and counsel.** Nestor's own title is for counsel: the Achaeans picked out Hecamede for him at Tenedos “because he was the best of all in counsel” (11.627; see [[boule]] and [[hecamede]]). The fathers' charges divide the two measures between two friends. Peleus told Achilles “always to be the best and to excel above the others”; Menoetius told Patroclus that Achilles is higher in lineage and far the stronger, but that Patroclus, the elder, must give him counsel (11.783–789; see [[always-to-be-the-best]] and [[menoetius]]). In Book 1 Nestor tried to hold strength and rank together in one balance (1.275–284); here the man of counsel sends the counselor to the strong man.

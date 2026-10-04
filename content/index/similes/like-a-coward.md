@@ -28,4 +28,4 @@ The word turns back on the man who used it. Soon afterward Zeus' thunderbolt fal
 
 ## Elsewhere in Homer
 
-When Zeus routs the Achaeans again in Book 11, it is Odysseus who is left alone, and he argues the case with himself: “I know that cowards leave the fighting, but the man who would be best in battle must stand his ground” (11.401–410; see [[retreat]]). Hector, facing Achilles at last, tells him: “you will not plant your spear in my back as I flee, but drive it through my chest as I charge” (22.283–284).
+When Zeus routs the Achaeans again in Book 11, it is Odysseus who is left alone, and he argues the case with himself: “For I know that it is cowards who leave the fighting, but whoever would be best in battle must by all means stand his ground” (11.401–410; see [[retreat]]). Hector, facing Achilles at last, tells him: “you will not plant your spear in my back as I flee, but drive it through my chest as I charge” (22.283–284).

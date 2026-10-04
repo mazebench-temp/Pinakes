@@ -3,7 +3,7 @@ title: Sorrow
 greek: πένθος
 kind: term
 tags: [mind]
-summary: Grief and sorrow, especially mourning for the dead. [[Nestor]] cries that great πένθος is coming upon Achaea; [[Thetis]] asks her son what πένθος has reached his heart.
+summary: Grief and sorrow, above all the mourning for the dead: the sorrow that settles in and lasts, where ἄλγος is pain and ἄχος a sharp distress.
 aliases: [penthos, grief, mourning]
 grc: [πένθος]
 en: [sorrow, grief]

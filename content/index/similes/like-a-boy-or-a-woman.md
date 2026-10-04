@@ -3,7 +3,7 @@ title: Like a feeble boy or a woman
 greek: μή τί μευ ἠΰτε παιδὸς ἀφαυροῦ πειρήτιζε ἠὲ γυναικός
 kind: simile
 tags: [insult, warfare, woman]
-summary: Answering Ajax's threats before the duel, Hector tells him not to test him “as if I were some feeble boy or a woman, who does not know the works of war”, and lists the kinds of fighting he does know (7.234–243).
+summary: The boy and the woman as the measure of a man who cannot fight. Hector tells Ajax not to test him “as if I were some feeble boy or a woman, who does not know the works of war” (7.234–243), and Diomedes tells Paris, who has shot him in the foot, that he cares no more than if a woman or a witless child had hit him (11.389–390).
 aliases: [not a feeble boy or a woman, like a child or a woman, the works of war]
 grc: ["παιδὸς ἀφαυροῦ", "οὐκ οἶδεν πολεμήϊα ἔργα"]
 en: [feeble boy, who does not know the works of war]

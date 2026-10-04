@@ -6,6 +6,8 @@ tags: [lycia]
 summary: Son of Bellerophon and father of the Lycian Glaucus, who sent his son to Troy with the charge “always to be the best and to excel above the others” (6.206–208). Not the Trojan Hippolochus whom Agamemnon kills in Book 11.
 aliases: [Hippolochos]
 grc: [Ἱππολόχοιο, Ἱππόλοχον, Ἱππόλοχος]
+# Ἱππόλοχος at 11.122 and 11.145 is the son of Antimachus.
+except: [11.122, 11.145]
 # Ἱππολόχοιο is always Glaucus' father (6.119, 6.144; 7.13, 12.309, 12.387, 17.140). Ἱππόλοχον and
 # Ἱππόλοχος recur for the Trojan Hippolochus, son of Antimachus (11.122, 11.145), who will need his
 # own id; this entry will need to except those lines.

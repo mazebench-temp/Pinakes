@@ -4,7 +4,8 @@ greek: Ἅρμα
 kind: place
 tags: [mainland-greece, city, boeotia]
 summary: A town of the [[Boeotians]] near Mycalessus whose name means "chariot".
-grc: [Ἅρμʼ]
+# ^ keeps out ἅρμʼ "chariot" (11.528).
+grc: ["^Ἅρμʼ"]
 ---
 
 {{quote:1968582a-f1bd-5d05-8f4c-566ee303da0e}}

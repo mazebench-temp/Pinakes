@@ -1,0 +1,15 @@
+---
+summary: Agamemnon arms with Athena's helmet, in the verse of her arming, and its horsehair crest nods terribly (11.41–42). His spear goes through the helmet and skull of Oileus, but Hector's three-layered helmet, a gift of Apollo, turns Diomedes' spear, and Hector lives with no more than a swoon (11.349–363).
+grc: [στεφάνη, κόρυθα, αὐλῶπις, τρίπτυχος]
+en: [three-layered]
+passages:
+  - 11.349-363 | Hector's helmet turns Diomedes' spear
+---
+
+**Agamemnon's helmet.** “And on his head he set a helmet with two ridges and four plates, with a horsehair crest, and the plume nodded terribly above it” (11.41–42). The first verse is the one in which Athena puts on her golden helmet (5.743), and the second the crest of Paris' (3.337; see [[arming-scene]], [[with-two-ridges-and-four-plates]] and [[horsehair-crested]]). Nothing more is said of it: the description of Agamemnon's arming is spent on the corselet and the shield.
+
+**Oileus.** Agamemnon's first two kills are Bianor and his companion Oileus, “driver of horses”, who leaps down from the chariot to face him, “and as the man came straight on, eager, he stabbed him in the forehead with his sharp spear, and the helmet, heavy with bronze, did not hold the spear, but it went through it and through the bone, and the brain inside was all spattered” (11.92–98; see [[heavy-with-bronze]], [[bianor]] and [[oileus-the-trojan]]). στεφάνη is a helmet here, as when Menelaus sets one of bronze on his head (10.30). The verses of the helmet that does not hold and the spattered brain return, with κόρυς for στεφάνη, for Damasus, killed by Polypoetes, and for Demoleon, killed by Achilles (11.96–98 ≈ 12.184–186, 20.398–400).
+
+**Hector's helmet.** Diomedes' spear does not miss: it strikes “on the top of the helmet; but bronze glanced off bronze, and did not reach the fair skin, for the helmet held it off, three-layered, with its socket for the plume, which Phoebus Apollo had given him” (11.351–353). τρίπτυχος, “of three layers” (πτύξ, “fold, layer”), occurs only here (see [[three-layered]]), and αὐλῶπις is the word with which Pandarus knew Diomedes by his helmet (5.182). The poem says nowhere else that Apollo gave Hector his helmet. The blow is enough to stun him: he runs back into the throng, sinks to his knees, “and black night covered his eyes”, then recovers and drives off in his chariot (11.354–360; see [[darkness-covered-his-eyes]]). Diomedes names the god who saved him, the giver of the helmet: “now again Phoebus Apollo has saved you, to whom you must pray when you go into the thud of javelins” (11.363–364; see [[apollo]] and [[hector]]). The man κορυθαίολος, “of the gleaming helmet” (11.315; see [[of-the-gleaming-helmet]]), is saved by it.
+
+**Stripped.** Diomedes is taking Agastrophus' corselet, shield “and his heavy helmet” (κόρυθα βριαρήν) when Paris shoots him (11.373–375; see [[heavy-helmet]] and [[stripping-the-dead]]). The phrase is used of the helmet Hephaestus makes for Achilles (18.611) and of the one Hector thinks of laying down before he faces him (22.112).

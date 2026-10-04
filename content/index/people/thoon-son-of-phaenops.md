@@ -6,6 +6,8 @@ tags: [trojan, warrior]
 summary: A Trojan, one of the two cherished sons of old [[Phaenops]], killed by Diomedes with his brother [[xanthus-son-of-phaenops|Xanthus]] (5.152–158). Other Trojans named Thoon die in later books.
 aliases: [Thoon]
 grc: [Θόωνα]
+# Θόωνα at 11.422 is a Trojan killed by Odysseus.
+except: [11.422]
 en: [Thoon]
 # Θόωνα recurs for other Trojans at 11.422, 12.140 and 13.545, which this entry will need to except.
 refs: [5.153, 5.155-157]

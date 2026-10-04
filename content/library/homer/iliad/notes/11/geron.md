@@ -1,0 +1,13 @@
+---
+summary: In his hut Nestor is “the old man”: his attendant unyokes his horses, he lifts the cup that another man could barely move, and Patroclus calls him “old sir, nurtured by Zeus” and will not sit. In his story the old men are the fathers, Neleus, who would not let him arm, and Peleus and Menoetius, who gave their sons their charges.
+grc: [γεραιὲ]
+passages:
+  - 11.618-654 | In Nestor's hut
+  - 11.765-790 | The fathers' charges
+---
+
+**The old man at home.** From the moment his chariot reaches the hut, the narrator calls Nestor “the old man” more often than by his name. Eurymedon is “the old man's attendant” (11.620), Hecamede the woman “whom the old man had won from Tenedos” (11.625), the cup the one “which the old man had brought from home” (11.632), and when Patroclus appears at the door “the old man rose from his shining chair” (11.645; see [[nestor]]). The one feat of strength in the scene is his: “Another man could move it from the table only with toil when it was full, but Nestor, the old man, lifted it without toil” (11.636–637; see [[the-cup-of-nestor]]). A little later he tells Patroclus that “my strength is not such as it was before in my supple limbs” (11.668–669). The poem lets both stand (see the translation's note on 11.636–637 and [[old-age-and-memory]]).
+
+**Old sir.** Patroclus twice calls him γεραιὲ διοτρεφές, “old sir, nurtured by Zeus” (11.648, 11.653), the address with which Achilles answered Phoenix, “Phoenix, old father, nurtured by Zeus” (9.607; see [[old-father]] and [[zeus-nurtured]]). The respect is real, and so is the refusal: there is no time to sit (see [[xenia]] and [[nemesis]]).
+
+**The old men of the story.** In Nestor's speech the old are the fathers. Neleus is “the old man” who took three hundred cattle and their herdsmen for himself from the spoil, “angered by these words and deeds” of Augeas (11.696–705; see [[neleus]] and [[augeas]]), and the father who hid his son's horses, “for he said I knew nothing yet of the works of war” (11.717–719; see [[the-works-of-war]]). At Phthia “the old horse-driving Peleus” (γέρων ἱππηλάτα Πηλεύς, 11.772), in the formula the poem gives to Peleus and to Phoenix (7.125, 9.432), was sacrificing in his courtyard, and “old Peleus charged his son Achilles always to be the best” (11.783–784; see [[always-to-be-the-best]] and [[peleus]]). Menoetius charged Patroclus to counsel Achilles, and Nestor reproaches him with the verse with which Odysseus reproached Achilles for Peleus' charge: “So the old man charged you, but you forget” (11.790 = 9.259; see [[menoetius]]). The old men gave the charges, and the old man who remembers them holds the young to them (see [[fathers-and-sons]]).

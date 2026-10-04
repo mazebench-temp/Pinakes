@@ -7,7 +7,8 @@ summary: Leader of the [[Thracians]] with [[Peirous]]. Telamonian Ajax kills him
 aliases: [Acamas of Thrace]
 grc: [Ἀκάμας]
 en: [Acamas]
-except: [2.823]
+# Ἀκάμαντʼ at 11.60 is Acamas son of Antenor.
+except: [2.823, 11.60]
 ---
 
 {{quote:faaa5502-e516-5dae-83b9-2d41a91c5a57}}

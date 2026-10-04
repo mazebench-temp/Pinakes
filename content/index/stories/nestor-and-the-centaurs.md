@@ -23,7 +23,7 @@ The story is told in outline. There is no wedding, no wine, and no description o
 
 ## In the poem
 
-This is the first story from the past told inside the Iliad, and it sets the pattern for Nestor's many later tales. It is a paradigm, a story told to persuade. Its logic runs:
+This is the first story from the past told inside the Iliad, and it sets the pattern for Nestor's many later tales (see [[nestor-and-ereuthalion]] and [[nestor-and-the-epeians]]). It is a paradigm, a story told to persuade. Its logic runs:
 
 1. those men were greater than you;
 2. they took my advice;

@@ -7,6 +7,7 @@ summary: A second simile for the same moment of the assembly: as the West Wind c
 aliases: [like wind in the wheat, the West Wind in the grain]
 grc: [βαθὺ λήϊον, ἠμύει ἀσταχύεσσιν]
 en: [a deep field of grain, bows down with its ears]
+except: [11.560]
 of: [assembly, achaeans]
 ---
 

@@ -8832,6 +8832,531 @@
       "id": "49fb7eca-3bd6-548f-931a-ee93a7d31d76",
       "ref": "10.572-579",
       "title": "The bath and the libation"
+    },
+    {
+      "id": "4b7554fe-d0d1-51ec-9c67-27351afe0db7",
+      "ref": "11.1-2",
+      "title": "Dawn rises from the bed of Tithonus"
+    },
+    {
+      "id": "3d3b6923-e62c-50cf-8b4b-b709a03a28ed",
+      "ref": "11.19-28",
+      "title": "The corselet of Cinyras"
+    },
+    {
+      "id": "b8ea0b3e-f828-53ea-9113-e0aba767faec",
+      "ref": "11.26-28",
+      "title": "The serpents like rainbows"
+    },
+    {
+      "id": "546f2f8f-ee4e-5113-8a6d-31d346daf248",
+      "ref": "11.32-40",
+      "title": "The shield of Agamemnon"
+    },
+    {
+      "id": "ed4f156d-0b47-5858-841d-95ac2543d195",
+      "ref": "11.43-46",
+      "title": "Athena and Hera thunder for Agamemnon"
+    },
+    {
+      "id": "1fb32700-085d-5766-a950-d6c2905c7aee",
+      "ref": "11.47-50",
+      "title": "The Achaeans go out on foot"
+    },
+    {
+      "id": "db8becb5-44a5-501a-a44b-6235a49d9ddc",
+      "ref": "11.56-60",
+      "title": "The Trojan leaders on the rise of the plain"
+    },
+    {
+      "id": "04a43c5b-c561-55f9-b041-352db5522f91",
+      "ref": "11.61-66",
+      "title": "The baleful star"
+    },
+    {
+      "id": "4dfb79f6-0da5-5d68-8e10-7ef6bbb1bbfb",
+      "ref": "11.67-71",
+      "title": "The reapers"
+    },
+    {
+      "id": "a215431d-7bb6-5c80-af46-502ab15a8407",
+      "ref": "11.70-74",
+      "title": "The armies clash like wolves"
+    },
+    {
+      "id": "cd06a2d2-8f77-53c4-82d3-cc1812347e24",
+      "ref": "11.73-77",
+      "title": "Strife alone of the gods"
+    },
+    {
+      "id": "306b7f9e-024b-57d1-a647-6d1d2509e9ee",
+      "ref": "11.80-83",
+      "title": "Zeus sits apart"
+    },
+    {
+      "id": "5a748409-eaf8-5840-a122-71774758137d",
+      "ref": "11.92-98",
+      "title": "Bianor and Oileus"
+    },
+    {
+      "id": "a2fcad5f-a325-5d42-9b6e-fd8e2bbf586c",
+      "ref": "11.101-106",
+      "title": "Isus and Antiphus"
+    },
+    {
+      "id": "8cac8130-edc5-5b5a-a53a-379d7c8cdc70",
+      "ref": "11.113-121",
+      "title": "The lion and the fawns"
+    },
+    {
+      "id": "f1f48374-146c-5611-b6ff-040d8b0e88e9",
+      "ref": "11.122-126",
+      "title": "Antimachus and Alexander's gold"
+    },
+    {
+      "id": "639575e0-8141-501c-ac17-b6be36960d51",
+      "ref": "11.130-135",
+      "title": "The sons of Antimachus beg Agamemnon"
+    },
+    {
+      "id": "988ef760-c43c-5515-a7fe-8ae90f1eb334",
+      "ref": "11.131-137",
+      "title": "The sons of Antimachus beg for their lives"
+    },
+    {
+      "id": "63d8e970-c67a-5707-a767-485305567509",
+      "ref": "11.138-142",
+      "title": "Agamemnon refuses the sons of Antimachus"
+    },
+    {
+      "id": "5b62016e-d79e-5a4d-91cd-606e8d85c3d3",
+      "ref": "11.145-147",
+      "title": "The death of Hippolochus"
+    },
+    {
+      "id": "028f7b73-87f4-5406-9f30-af5047fe53ee",
+      "ref": "11.155-159",
+      "title": "The forest fire"
+    },
+    {
+      "id": "55740238-0ef7-5d4a-8acf-df1df4c74fd9",
+      "ref": "11.172-178",
+      "title": "The lion and the herd"
+    },
+    {
+      "id": "c6c1ae0c-17d6-5c7d-9f54-56662c199210",
+      "ref": "11.181-185",
+      "title": "Zeus on Ida"
+    },
+    {
+      "id": "3089905e-855c-591b-bd0a-aa0c0ec6c9d8",
+      "ref": "11.187-194",
+      "title": "Zeus' promise to Hector"
+    },
+    {
+      "id": "81d06cdf-9fdc-53b6-9182-756e3d185d76",
+      "ref": "11.218-220",
+      "title": "Who first faced Agamemnon"
+    },
+    {
+      "id": "c2bdca6e-e58a-5357-baae-ff452b66f0ba",
+      "ref": "11.221-226",
+      "title": "The rearing of Iphidamas"
+    },
+    {
+      "id": "3866987f-5f06-57f4-8067-7c170d159de6",
+      "ref": "11.234-237",
+      "title": "Iphidamas' spear on the belt"
+    },
+    {
+      "id": "4ca3fb72-7bc6-5f3d-a3f6-8cd6c393667b",
+      "ref": "11.241-245",
+      "title": "The death of Iphidamas"
+    },
+    {
+      "id": "4f712f7a-6f1e-5839-b8a0-0eedea9e1059",
+      "ref": "11.248-253",
+      "title": "Coon wounds Agamemnon"
+    },
+    {
+      "id": "3447f883-f7fa-578e-aaa9-a2c7cfd9df97",
+      "ref": "11.254-261",
+      "title": "Agamemnon kills Coon"
+    },
+    {
+      "id": "e0f18f9f-1b8c-5a10-ad61-d119d15f1f8b",
+      "ref": "11.257-263",
+      "title": "The death of Coon"
+    },
+    {
+      "id": "945db8eb-1f57-5d97-bc58-edc10011c89f",
+      "ref": "11.267-272",
+      "title": "The woman in labor"
+    },
+    {
+      "id": "0f3180a9-3e69-57e0-85c6-ae204f4324e6",
+      "ref": "11.276-279",
+      "title": "Agamemnon leaves the battle"
+    },
+    {
+      "id": "e136cb61-7574-5b0b-8f5f-30d56e9a4965",
+      "ref": "11.280-283",
+      "title": "Agamemnon is driven from the battle"
+    },
+    {
+      "id": "af17aaa5-0137-5cdb-ac56-63ac833d8040",
+      "ref": "11.284-290",
+      "title": "Hector rallies the Trojans and Lycians"
+    },
+    {
+      "id": "ddf39de6-3329-53c6-a2de-2ecd5a976d33",
+      "ref": "11.292-295",
+      "title": "Hector like a hunter"
+    },
+    {
+      "id": "2383fe2e-553e-51bf-99d4-72c94162940d",
+      "ref": "11.296-298",
+      "title": "Hector like a storm wind"
+    },
+    {
+      "id": "31f0a38c-7bc4-5af0-8ef2-0ab2968a4393",
+      "ref": "11.299-304",
+      "title": "The nine leaders killed by Hector"
+    },
+    {
+      "id": "a0ccc06e-c191-5412-a540-ebc43793c267",
+      "ref": "11.304-309",
+      "title": "The West Wind and the clouds"
+    },
+    {
+      "id": "6316a290-600a-52a4-832c-7de56e4013c7",
+      "ref": "11.312-319",
+      "title": "Odysseus calls Diomedes"
+    },
+    {
+      "id": "eeeb5a1a-47b8-50bc-b52e-47bf18564c35",
+      "ref": "11.320-323",
+      "title": "Thymbraeus and Molion"
+    },
+    {
+      "id": "e8f33fb5-dc35-5f84-a93b-81ef9468c754",
+      "ref": "11.328-334",
+      "title": "Diomedes kills the sons of Merops"
+    },
+    {
+      "id": "9fe73435-678f-571b-96dd-e96fb1018e7e",
+      "ref": "11.335",
+      "title": "Hippodamus and Hypeirochus"
+    },
+    {
+      "id": "c8532e1d-a457-5488-a46f-8854c59ef05b",
+      "ref": "11.338-342",
+      "title": "The death of Agastrophus"
+    },
+    {
+      "id": "e8e09018-28ad-5539-9411-25c9c70ce01b",
+      "ref": "11.349-353",
+      "title": "Diomedes strikes Hector's helmet"
+    },
+    {
+      "id": "ecac8ff6-a878-5baf-b2ce-165e27bbb5d6",
+      "ref": "11.369-372",
+      "title": "Paris at the tomb of Ilus"
+    },
+    {
+      "id": "686b2fcd-3374-55c3-b904-4741fcb5df14",
+      "ref": "11.373-378",
+      "title": "Paris shoots Diomedes"
+    },
+    {
+      "id": "c2ace520-fde4-5413-8a2c-b81c2a23c0f1",
+      "ref": "11.380-383",
+      "title": "Paris boasts over Diomedes"
+    },
+    {
+      "id": "a6ffc63c-4238-5917-b674-f548de2070f9",
+      "ref": "11.385-395",
+      "title": "Diomedes answers Paris"
+    },
+    {
+      "id": "cbced28b-1ccc-5c75-ab8a-553ee2b6f148",
+      "ref": "11.404-410",
+      "title": "Odysseus' soliloquy"
+    },
+    {
+      "id": "4a039f86-d13b-50cf-bd04-23f2fc73ae9a",
+      "ref": "11.407-410",
+      "title": "It is cowards who leave the fighting"
+    },
+    {
+      "id": "17c4ea27-7136-57c7-95bf-1f63c3ae28da",
+      "ref": "11.414-420",
+      "title": "The boar at bay"
+    },
+    {
+      "id": "65e9f03e-4152-565a-a50a-3d96b481c2a0",
+      "ref": "11.419-425",
+      "title": "Odysseus kills the Trojans around him"
+    },
+    {
+      "id": "004c3725-1e4d-5994-a0ad-204d56eed386",
+      "ref": "11.426-428",
+      "title": "Charops and Socus"
+    },
+    {
+      "id": "b1cb2e9b-64bd-5860-b2b7-9d2f9a1f5c7d",
+      "ref": "11.430-433",
+      "title": "Socus challenges Odysseus"
+    },
+    {
+      "id": "1a818b9c-d039-5af2-807c-d9aa1699534c",
+      "ref": "11.450-455",
+      "title": "Odysseus' boast over Socus"
+    },
+    {
+      "id": "77007192-db54-577e-86c0-d00466402b66",
+      "ref": "11.465-471",
+      "title": "Menelaus calls Ajax to save Odysseus"
+    },
+    {
+      "id": "48afa135-d98d-560b-a6dd-4fcd340c529b",
+      "ref": "11.473-484",
+      "title": "The jackals and the wounded stag"
+    },
+    {
+      "id": "ce0a6088-a0fa-509c-9c06-706b3f4a6365",
+      "ref": "11.489-491",
+      "title": "Ajax falls on the Trojans"
+    },
+    {
+      "id": "6c02e05a-cd53-5539-a16e-ae83d58914ef",
+      "ref": "11.492-497",
+      "title": "Ajax like a river in flood"
+    },
+    {
+      "id": "1a10b34a-5138-52a2-9e1b-f0201e49fe7b",
+      "ref": "11.504-507",
+      "title": "Paris wounds Machaon"
+    },
+    {
+      "id": "1e9cd183-b6c1-5170-8faa-5d5a2a967fb4",
+      "ref": "11.511-515",
+      "title": "Idomeneus sends Nestor with Machaon"
+    },
+    {
+      "id": "ec912596-a281-565a-b510-706c53281a56",
+      "ref": "11.523-530",
+      "title": "Cebriones counsels Hector"
+    },
+    {
+      "id": "ad630793-839d-5307-b172-596bd566abd8",
+      "ref": "11.531-537",
+      "title": "Cebriones drives into the battle"
+    },
+    {
+      "id": "cf2de0b7-c4f6-5604-a45f-1b4cdff77616",
+      "ref": "11.540-544",
+      "title": "Hector avoids Ajax"
+    },
+    {
+      "id": "e6f8f3bc-0876-52bf-a55f-94ef18604335",
+      "ref": "11.544-547",
+      "title": "Zeus puts Ajax to flight"
+    },
+    {
+      "id": "1ab74fab-dee4-52c5-be58-964386fb0f51",
+      "ref": "11.548-557",
+      "title": "The lion driven from the farmyard"
+    },
+    {
+      "id": "3bf5b467-19b1-543f-9290-57f16fafee18",
+      "ref": "11.558-565",
+      "title": "The donkey in the field"
+    },
+    {
+      "id": "881351d1-7c4e-5fbc-88b0-7ea9fc20ca92",
+      "ref": "11.563-565",
+      "title": "The Trojans follow Ajax"
+    },
+    {
+      "id": "bb54c787-1334-52a4-b117-e986b00239c5",
+      "ref": "11.575-580",
+      "title": "Eurypylus kills Apisaon"
+    },
+    {
+      "id": "31b14814-5fd1-50cf-8a32-a1ee47f7f09f",
+      "ref": "11.586-591",
+      "title": "Eurypylus rallies the Achaeans around Ajax"
+    },
+    {
+      "id": "c6473a4b-2cc8-50a2-a990-eb79462d9038",
+      "ref": "11.599-601",
+      "title": "Achilles watches from his ship"
+    },
+    {
+      "id": "35174cbb-0698-5bbe-9586-4ed3c05a4d9f",
+      "ref": "11.602-606",
+      "title": "Achilles calls Patroclus"
+    },
+    {
+      "id": "9a91a921-1f30-51da-9580-263c8a71a702",
+      "ref": "11.624-627",
+      "title": "Hecamede"
+    },
+    {
+      "id": "b9e9f5ee-72f3-5af8-9c2e-45501f0729e3",
+      "ref": "11.628-632",
+      "title": "Hecamede sets the table"
+    },
+    {
+      "id": "391687a3-756c-52bb-b2ea-03912a851740",
+      "ref": "11.632-637",
+      "title": "Nestor's cup"
+    },
+    {
+      "id": "01fc14e5-7b88-5219-81ec-bb858fb3edba",
+      "ref": "11.638-641",
+      "title": "Hecamede mixes the drink"
+    },
+    {
+      "id": "264e4fce-7f98-535f-952d-64b413157c8f",
+      "ref": "11.642-644",
+      "title": "Nestor and Machaon drink"
+    },
+    {
+      "id": "75d1c76d-0946-5306-9138-5141a9c7785f",
+      "ref": "11.648-654",
+      "title": "Patroclus refuses to sit"
+    },
+    {
+      "id": "3dd011ed-771e-5d09-b4c2-36ba44019499",
+      "ref": "11.668-672",
+      "title": "Nestor's lost strength"
+    },
+    {
+      "id": "c461112a-ff1f-57f1-a8a0-93b46c8393cf",
+      "ref": "11.670-676",
+      "title": "Nestor's cattle raid"
+    },
+    {
+      "id": "66164d25-2686-5ae9-b919-cc45426beaf0",
+      "ref": "11.677-684",
+      "title": "The spoil of the cattle raid"
+    },
+    {
+      "id": "51db06d9-5600-5864-ac0b-2980eb809ac2",
+      "ref": "11.689-693",
+      "title": "Heracles at Pylos"
+    },
+    {
+      "id": "ff3f4a2c-b76f-5ee0-9111-63070024aa19",
+      "ref": "11.689-695",
+      "title": "The outrage of the Epeians"
+    },
+    {
+      "id": "1c2975aa-6e61-531d-b60f-758cf60edbf4",
+      "ref": "11.703-705",
+      "title": "Neleus divides the spoil"
+    },
+    {
+      "id": "2ae236d9-c8c7-5eb3-92a5-deaa35b49737",
+      "ref": "11.711-713",
+      "title": "Thryoessa"
+    },
+    {
+      "id": "7169e58c-3cf3-5c14-b48c-96e206062b32",
+      "ref": "11.716-721",
+      "title": "Neleus hides Nestor's horses"
+    },
+    {
+      "id": "9b511a43-c9f9-5d18-87bf-fa7a5cf176f8",
+      "ref": "11.722-726",
+      "title": "The night by the Minyeios"
+    },
+    {
+      "id": "540e809d-60a7-5915-9c69-b14594545129",
+      "ref": "11.726-731",
+      "title": "Sacrifice at the Alpheus"
+    },
+    {
+      "id": "221562df-b624-5495-b4ca-d17cd76c5464",
+      "ref": "11.737-746",
+      "title": "Nestor kills Mulius"
+    },
+    {
+      "id": "7301f7e9-f5d0-5d5e-a39f-438ad731e451",
+      "ref": "11.750-752",
+      "title": "Poseidon saves the Moliones"
+    },
+    {
+      "id": "86f19102-62fb-51d4-9776-1b4d482743ff",
+      "ref": "11.753-761",
+      "title": "The rout to Buprasium"
+    },
+    {
+      "id": "2e8adba8-3fe8-54ff-9f4f-5c82c6986eb7",
+      "ref": "11.761-764",
+      "title": "Such was I among men"
+    },
+    {
+      "id": "c8806645-e49f-5fde-9520-9538fa89b6df",
+      "ref": "11.765-768",
+      "title": "Nestor was at Peleus' house"
+    },
+    {
+      "id": "4281b408-9e3e-51ff-a99f-77443d879cb1",
+      "ref": "11.772-775",
+      "title": "Peleus' sacrifice"
+    },
+    {
+      "id": "0e8347c3-7f9e-596a-8145-7865f00022ec",
+      "ref": "11.776-780",
+      "title": "Achilles receives Nestor and Odysseus"
+    },
+    {
+      "id": "29c35b39-17f7-56f0-8a67-7e27620b0d8d",
+      "ref": "11.783-789",
+      "title": "The charges of Peleus and Menoetius"
+    },
+    {
+      "id": "e062ce9f-0c28-590a-925b-a8d710d2823f",
+      "ref": "11.785-789",
+      "title": "Menoetius' charge"
+    },
+    {
+      "id": "ed341eac-f8c1-57a3-ac02-70513c4d17b9",
+      "ref": "11.790-793",
+      "title": "The persuasion of a companion"
+    },
+    {
+      "id": "300e1e14-f2e9-5e42-b59e-da2430d479db",
+      "ref": "11.796-803",
+      "title": "Nestor's plan"
+    },
+    {
+      "id": "dba7a693-c146-554c-a08e-5fc344b8ee32",
+      "ref": "11.814-818",
+      "title": "Patroclus pities Eurypylus"
+    },
+    {
+      "id": "c4df39ac-a3bf-5e98-a62a-3b3da236349d",
+      "ref": "11.816-818",
+      "title": "Patroclus laments for the leaders of the Danaans"
+    },
+    {
+      "id": "524186f8-1c55-5115-8eca-26c841131ca5",
+      "ref": "11.828-832",
+      "title": "Eurypylus asks Patroclus to tend his wound"
+    },
+    {
+      "id": "e45d38e8-05bf-52ab-8edd-6ace34239600",
+      "ref": "11.829-832",
+      "title": "The drugs that Chiron taught"
+    },
+    {
+      "id": "6d83a772-e9d1-5431-88f9-69b6dc288f35",
+      "ref": "11.842-848",
+      "title": "Patroclus tends Eurypylus"
     }
   ]
 }

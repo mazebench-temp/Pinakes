@@ -1,0 +1,5 @@
+---
+summary: The only reply of Book 11 brought in with “Then … answered him” is Nestor's answer to Patroclus, in his own whole verse, and it opens the longest speech of the book (11.655–803).
+---
+
+“Then the Gerenian horseman Nestor answered him” (τὸν δʼ ἠμείβετʼ ἔπειτα Γερήνιος ἱππότα Νέστωρ, 11.655). The whole verse is Nestor's: it brings in his answers to Agamemnon in the review, to Diomedes in the rout of Book 8, to Agamemnon in the council of Book 9, and three times on the night of Book 10, twice to Agamemnon and once to Odysseus (4.317, 8.151, 9.162, 10.102, 10.128, 10.143), and to Telemachus three times at Pylos in the Odyssey (Odyssey 3.102, 3.210, 3.253; see [[gerenian-horseman]]). Here it answers Patroclus, who has refused to sit and is in a hurry to go, and what follows is a speech of nearly a hundred and fifty verses: the wounded, the war of Nestor's youth, the day at Peleus' house, and the plan that will send Patroclus out in Achilles' armor (11.656–803; see [[nestor]] and [[nestor-and-the-epeians]]).

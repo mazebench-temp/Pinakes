@@ -14,7 +14,7 @@ of: [nestor]
 
 οὖρος here is a watcher or warden, the word that appears in ἐπίουρος, “overseer”: Minos was born to be ἐπίουρος of Crete (13.450), and Eumaeus is “overseer of the swine” (ὑῶν ἐπίουρος, Od. 13.405, 15.39). It is a different word from οὖρος, the fair wind ([[the-fair-wind]]), and from οὖρος, the boundary stone of a field (21.405). The title makes the old king the army's watchman: it is given for care and counsel, not for fighting ([[elders]], [[geron]]).
 
-It always follows Γερήνιος, “the Gerenian” ([[gerenian-horseman]]), in the same half-verse. In the Iliad: here; when Patroclus says that he must take Achilles the message “that Nestor the Gerenian, guardian of the Achaeans, laid on me” (11.839–840); and twice in Book 15, when the Trojans have reached the ships, and Nestor prays to Zeus for the army and then begs each man, by his parents, to stand (15.367–376, 15.659–666). In the Odyssey Nestor sits on the polished stone seat before his doors at Pylos, where his father Neleus used to sit (Od. 3.406–412).
+It always follows Γερήνιος, “the Gerenian” ([[gerenian-horseman]]), in the same half-verse. In the Iliad: here; when Patroclus says that he must take Achilles the word “with which Nestor charged me, the Gerenian, the guardian of the Achaeans” (11.839–840); and twice in Book 15, when the Trojans have reached the ships, and Nestor prays to Zeus for the army and then begs each man, by his parents, to stand (15.367–376, 15.659–666). In the Odyssey Nestor sits on the polished stone seat before his doors at Pylos, where his father Neleus used to sit (Od. 3.406–412).
 
 ## Use
 

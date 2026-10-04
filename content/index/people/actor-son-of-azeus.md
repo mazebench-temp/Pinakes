@@ -7,7 +7,8 @@ summary: The father of [[Astyoche]], in whose house she bore the sons of Ares, [
 aliases: [Actor]
 grc: [Ἄκτορος, Ἀζεΐδαο]
 en: [Actor]
-except: [2.621]
+# Ἄκτορος at 11.785 is Actor, father of Menoetius.
+except: [2.621, 11.785]
 relations:
   - father: azeus (2.513)
   - child: astyoche (2.513)

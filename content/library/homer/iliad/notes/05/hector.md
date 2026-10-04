@@ -20,7 +20,7 @@ The last four lines are Hector's rally. They return when Helenus sends him throu
 
 {{quote:ce25b833-31dc-54b6-8817-bf3cbf4c98d8}}
 
-The praise, αἰχμητήν τʼ ἔμεναι καὶ θαρσαλέον πολεμιστήν, is a formula: the dying Sarpedon uses the same words to Glaucus (16.493). From this book on, Hector is often compared to Ares. He has “the eyes of the Gorgon or of Ares, ruin of mortals” (8.349), he is “equal to Ares, ruin of mortals” (11.295, 13.802), and he rages like spear-wielding Ares or a fire in the mountains (15.605–606). Here he kills two men in one chariot, Menesthes and Anchialus (5.608–609; see [[menesthes]] and [[anchialus]]).
+The praise, αἰχμητήν τʼ ἔμεναι καὶ θαρσαλέον πολεμιστήν, is a formula: the dying Sarpedon uses the same words to Glaucus (16.493). From this book on, Hector is often compared to Ares. He has “the eyes of the Gorgon or of Ares, ruin of mortals” (8.349), he is “the equal of Ares, ruin of mortals” (11.295, 13.802), and he rages like spear-wielding Ares or a fire in the mountains (15.605–606). Here he kills two men in one chariot, Menesthes and Anchialus (5.608–609; see [[menesthes]] and [[anchialus]]).
 
 **Passing Sarpedon.** When Odysseus is killing the Lycians, “great Hector of the gleaming helmet” is “quick to see it” (5.680; see [[of-the-gleaming-helmet]] and [[would-have-had-not]]) and comes through the champions, “bringing terror to the Danaans” (5.682). Sarpedon begs him not to leave him as prey for the Danaans (5.684–688):
 

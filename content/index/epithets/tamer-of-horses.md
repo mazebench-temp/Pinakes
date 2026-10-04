@@ -6,6 +6,8 @@ tags: [heroic-epithet, livestock]
 summary: “Horse-taming,” the standing epithet of the [[Trojans]] and of horsemen among the heroes. It is the last word of the Iliad.
 aliases: [horse-taming, hippodamos]
 grc: [ἱπποδάμοιο, ἱπποδάμων]
+# Ἱππόδαμον at 11.335 is the Trojan Hippodamus, killed by Odysseus.
+except: [11.335]
 en: [tamer of horses, horse-taming]
 of: [atreus, trojans, castor, antenor, diomedes]
 ---

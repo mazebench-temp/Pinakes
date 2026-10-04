@@ -33,7 +33,7 @@ Two generations of his contemporaries have died, and he rules among the third. H
 
 ## Elsewhere in Homer
 
-Nestor is the son of Neleus (Iliad 11.682–761). Heracles sacked Pylos and killed his eleven brothers (11.690–693). His long tales of youth in the Iliad (7.132–157, 11.670–761, 23.629–642) are gathered under the period [[nestor]] in the Myths. In Odyssey 3 he receives Telemachus at Pylos.
+Nestor is the son of Neleus (Iliad 11.682–761). Heracles sacked Pylos and killed his eleven brothers (11.690–693; see [[heracles-sacks-pylos]]). His long tales of youth in the Iliad (7.132–157, 11.670–761, 23.629–642) are gathered under the period [[nestor]] in the Myths. In Odyssey 3 he receives Telemachus at Pylos.
 
 ## Outside Homer
 

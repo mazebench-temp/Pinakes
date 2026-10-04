@@ -7,6 +7,8 @@ summary: A Trojan killed and stripped by [[Euryalus]], together with [[Dresus]],
 aliases: [Opheltios]
 # Ὀφέλτιον at 11.302 is an Achaean, one of the nine leaders whom Hector kills: except it there.
 grc: [Ὀφέλτιον]
+# Ὀφέλτιον at 11.302 is an Achaean killed by Hector.
+except: [11.302]
 relations:
   - slayer: euryalus (6.20)
 passages:

@@ -3,7 +3,7 @@ title: Centaurs
 greek: φῆρες
 kind: creature
 tags: [centaur, thessaly]
-summary: The wild "beasts of the mountains" of Thessaly whom the Lapiths fought in Nestor's youth. Homer calls them φῆρες, "beasts", and never describes their bodies.
+summary: The wild "beasts of the mountains" of Thessaly whom the Lapiths fought in Nestor's youth. The Iliad calls them φῆρες, "beasts", and only once Κένταυροι (11.832); of their bodies Homer says only that they were shaggy (2.743).
 aliases: [Kentauroi, beasts of the mountains]
 grc: [φηρσὶν]
 en: [beasts who lived in the mountains, beasts]

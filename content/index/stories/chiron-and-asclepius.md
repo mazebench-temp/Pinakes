@@ -24,7 +24,7 @@ The Iliad names Chiron three times more. The wounded Eurypylus asks Patroclus fo
 
 **Gifts to fathers.** Both of Chiron's gifts are given to a father and used by a son, and the half-lines that tell them are nearly the same: πατρὶ φίλα φρονέων πόρε Χείρων of the drugs (4.219), πατρὶ φίλῳ πόρε Χείρων of the spear (16.143). One gift heals, and the other kills. The Centaur of Pelion stands behind both arts at Troy, the healer's and the killer's.
 
-**Knowledge handed down.** Healing in the Iliad is a craft that passes from one man to another, like a weapon or a scepter. The drugs went from Chiron to Asclepius and so to Machaon and Podalirius, “good healers” (2.731–732); the knowledge went from Chiron to Achilles and from Achilles to Patroclus (11.830–832). Machaon is valued for it: when he is wounded, Idomeneus says that “a healer is worth many other men” (11.514).
+**Knowledge handed down.** Healing in the Iliad is a craft that passes from one man to another, like a weapon or a scepter. The drugs went from Chiron to Asclepius and so to Machaon and Podalirius, “good healers” (2.731–732); the knowledge went from Chiron to Achilles and from Achilles to Patroclus (11.830–832). Machaon is valued for it: when he is wounded, Idomeneus says that “a healer is a man worth many others” (11.514).
 
 **The just Centaur.** Homer's other Centaurs are “the beasts who lived in the mountains” (1.268), whom the Lapiths destroyed in Nestor's youth (2.742–744; see [[centaurs]] and [[nestor-and-the-centaurs]]). Chiron is their opposite: a friend and teacher of heroes, “the most just of the Centaurs”.
 

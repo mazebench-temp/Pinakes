@@ -1,0 +1,18 @@
+---
+summary: Horses run through the battle of Book 11, held at the ditch, rattling empty chariots in the rout, and carrying the wounded leaders to the ships; the Neleian mares carry Nestor and Machaon past Achilles' ship. In Nestor's story horses are the richest spoil and the cause of the quarrel: a hundred and fifty mares driven off from Elis, and four prize-winning horses kept by Augeas.
+grc: [πῶλοι, ἱππείων, ἱππήων]
+en: [foals]
+passages:
+  - 11.597-598 | The Neleian mares
+  - 11.677-681 | The spoil of the cattle raid
+---
+
+**In the battle.** The Achaeans leave their horses with the charioteers at the ditch (11.47–48; see [[chariot]]). In Agamemnon's rout the dust rises “raised by the thundering hooves of horses” (11.151–152), and the horses with high-arched necks rattle empty chariots across the field, “missing their noble charioteers” (11.159–161; see [[high-necked]]). Hector bids the Trojans “drive your single-hoofed horses straight at the mighty Danaans” (11.289–290; see [[single-hoofed]]). Agamemnon's “fine-maned horses”, lashed by his driver, fly to the ships with foam on their chests and dust beneath them (11.280–283; see [[fine-maned]]), and Cebriones' team, feeling the whip, tramples corpses and shields, the blood thrown up from their hooves (11.531–537). ἵπποι often means the team and the chariot together: many fall “from their chariots”, ἐξ ἵππων (11.179), and Zeus' sign for Hector is the moment when Agamemnon “leaps into his chariot”, εἰς ἵππους (11.192).
+
+**The Neleian mares.** “And the Neleian mares carried Nestor out of the war, sweating, and they bore Machaon, shepherd of the people” (11.597–598). They are mares (Νηλήϊαι, feminine), named for Nestor's father, as his Pylos is “Neleian Pylos” (11.682; see [[neleus]]). Achilles cannot make out the wounded man, “for the mares darted past me, straining forward” (11.615), and at the hut Nestor's attendant Eurymedon unyokes them (11.620). Nestor's team was last in the fighting in Book 8, when Paris' arrow struck his trace horse in the head and threw the others into confusion, and Sthenelus and Eurymedon took charge of Nestor's horses (8.80–86, 8.113–114; see [[eurymedon-attendant-of-nestor]] and [[nestor]]).
+
+**The spoil of Elis.** Nestor counts the plunder of his cattle raid in fifties, herds of cattle, flocks of sheep, droves of pigs and herds of goats, and sets the horses last and apart: “and a hundred and fifty tawny horses, all mares, and many had foals beneath them” (11.680–681; see [[raiding]] and [[nestor-and-the-epeians]]). Mares with foals are a breeding stock, the wealth of a horse-rearing country (compare the three thousand mares of Erichthonius, 20.221–222).
+
+**The prize horses.** The debt that Elis owed Neleus was “four prize-winning horses with their chariot”, sent to race for a tripod at games in Elis and kept there by Augeas, who sent the driver away “grieving for his horses” (11.698–702; see [[prize-winning]], [[contests]] and [[augeas]]). Neleus takes a large share of the spoil for them (11.703–705). A team of four is rare in Homer (see the translation's note on 11.698–702).
+
+**Nestor's horses.** On the night of the Epeian attack Neleus hid his son's horses, saying he did not yet know the works of war; Nestor went on foot and still stood out among the horsemen (11.717–721). His first kill in the battle gave him a team: he killed Mulius, “and I took his single-hoofed horses”, and leapt into his chariot (11.738–743), and at the end the Pylians “drove their swift horses back from Buprasium to Pylos” (11.760; see [[mulius]]). The old man of the poem, “the Gerenian horseman”, was a horseman from his first battle (see [[gerenian-horseman]]).

@@ -12,7 +12,7 @@ of: [polemos]
 
 ## Meaning
 
-πευκεδανός is formed from a stem πευκ- (“sharp, piercing, bitter”), the stem of ἐχεπευκής, the “piercing” arrow ([[piercing]]), of περιπευκής, the “very sharp” arrow cut from the thigh of Eurypylus (11.844–845), and of πευκάλιμος, the “shrewd” mind ([[shrewd-mind]]). It occurs only here in Homer. The translation renders it “bitter,” the word it uses for πικρός, the bitter arrow ([[bitter]]). War has many epithets in the Iliad: [[bold-war]], [[man-destroying]], [[grim-sounding]], [[common-to-all]], and the “tearful” war of [[tearful]].
+πευκεδανός is formed from a stem πευκ- (“sharp, piercing, bitter”), the stem of ἐχεπευκής, the “piercing” arrow ([[piercing]]), of περιπευκής, the “piercing” arrow cut from the thigh of Eurypylus (11.844–845), and of πευκάλιμος, the “shrewd” mind ([[shrewd-mind]]). It occurs only here in Homer. The translation renders it “bitter,” the word it uses for πικρός, the bitter arrow ([[bitter]]). War has many epithets in the Iliad: [[bold-war]], [[man-destroying]], [[grim-sounding]], [[common-to-all]], and the “tearful” war of [[tearful]].
 
 ## Use
 

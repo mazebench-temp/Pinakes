@@ -12,7 +12,7 @@ of: [phoenix]
 
 ## Meaning
 
-ἄττα is a nursery word for “father,” like Latin *atta* and Gothic *atta*, used in Homer only in address, by a younger man to an older one he loves and respects but who is not his father. In the Iliad it is spoken only to Phoenix, both times in the verse-opening Φοῖνιξ ἄττα γεραιέ: by Achilles (9.607) and by Menelaus, answering Athena, who has taken Phoenix's likeness to urge him to defend the body of Patroclus (17.553–561). In the Odyssey Telemachus uses it five times to the swineherd Eumaeus, who brought him up (Od. 16.31, 16.57, 16.130, 17.599, 21.369). The word that goes with it, γεραιέ, “old man,” is the ordinary address to an elder, as when Patroclus refuses Nestor's chair, “old man, nurtured by Zeus” (11.648; [[zeus-nurtured]]). Compare the endearments [[my-dear]] (πέπον) and [[strange-one]] (δαιμόνιε).
+ἄττα is a nursery word for “father,” like Latin *atta* and Gothic *atta*, used in Homer only in address, by a younger man to an older one he loves and respects but who is not his father. In the Iliad it is spoken only to Phoenix, both times in the verse-opening Φοῖνιξ ἄττα γεραιέ: by Achilles (9.607) and by Menelaus, answering Athena, who has taken Phoenix's likeness to urge him to defend the body of Patroclus (17.553–561). In the Odyssey Telemachus uses it five times to the swineherd Eumaeus, who brought him up (Od. 16.31, 16.57, 16.130, 17.599, 21.369). The word that goes with it, γεραιέ, “old sir,” is the ordinary address to an elder, as when Patroclus refuses Nestor's chair, “old sir, nurtured by Zeus” (11.648; [[zeus-nurtured]]). Compare the endearments [[my-dear]] (πέπον) and [[strange-one]] (δαιμόνιε).
 
 ## Use
 

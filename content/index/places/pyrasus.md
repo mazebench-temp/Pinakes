@@ -6,6 +6,8 @@ tags: [thessaly, city, sanctuary]
 summary: A town of Protesilaus' realm on the Pagasetic Gulf, "flowering Pyrasus, the precinct of Demeter".
 aliases: [Pyrasos]
 grc: [Πύρασον]
+# Πύρασον at 11.491 is a Trojan killed by Ajax.
+except: [11.491]
 refs: [2.696]
 ---
 

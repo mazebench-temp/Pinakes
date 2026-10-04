@@ -18,7 +18,7 @@ The name seems to be formed from μάχη ("battle"). Machaon has two scenes in 
 
 ## Elsewhere in Homer
 
-In Book 11 Paris hits him in the right shoulder with an arrow, and Idomeneus urges Nestor to carry him from the field, since "a healer is worth many other men" (11.504–520). Achilles, watching from his ship, sends [[Patroclus]] to find out who the wounded man is, and the narrator comments that this errand "was the beginning of evil" for Patroclus (11.597–615).
+In Book 11 Paris hits him in the right shoulder with an arrow, and Idomeneus urges Nestor to carry him from the field, since “a healer is a man worth many others” (11.504–520). Achilles, watching from his ship, sends [[Patroclus]] to find out who the wounded man is, and the narrator says of this errand, “this was the beginning of evil for him” (11.597–615).
 
 ## Outside Homer
 

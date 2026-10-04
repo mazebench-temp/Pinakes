@@ -1,0 +1,15 @@
+---
+summary: The other gods blame Zeus for meaning “to hold out glory to the Trojans”, and he sits apart “exulting in his glory”; the narrator marks Hector's charge with the half-verse “when Zeus gave him glory”; Idomeneus hails Nestor as “great glory of the Achaeans”; and Iphidamas, before he came to Troy, had reached “the measure of glorious youth”.
+grc: [ἐρικυδέος]
+passages:
+  - 11.75-83 | The gods blame Zeus
+  - 11.299-309 | Hector's charge
+---
+
+**The gods' complaint.** Strife alone of the gods is in the battle. The others sit in their halls on Olympus, “and they all blamed the son of Cronus, lord of the dark clouds, because he meant to hold out glory to the Trojans” (11.75–79). κῦδος ὀρέξαι, “hold out glory”, is the phrase of a god's gift, as when Athena tells Ares to let the two armies fight and see “to which side father Zeus will hold out glory” (5.33). Zeus pays no heed. He sits apart, “exulting in his glory” (κύδεϊ γαίων), and looks out on Troy and the ships, “the flash of bronze, and the slayers and the slain” (11.80–83), in nearly the verses that seated him on Ida in Book 8 (11.81–82 ≈ 8.51–52; see the note on Book 8 and [[watching-the-war]]). The god who has κῦδος in himself gives it, and the gods who would have him give it elsewhere can only blame him (see [[aitios]]).
+
+**Glory, power and triumph.** The gift has three names in the book. Zeus' message to Hector promises κράτος, “power”, to kill until he reaches the ships (11.192, 11.207; see [[plan-of-zeus]]). When Agamemnon leaves the field, Hector tells his men that Zeus has given him “a great triumph” (εὖχος, 11.288–289; see [[euchomai]]). And the narrator, asking whom he killed first and last, says it is κῦδος: “Hector, son of Priam, when Zeus gave him glory” (11.299–300; see [[whom-first-whom-last]]), the half-verse that marked his rout of the Achaeans in Book 8 (8.216) and that Achilles will use in Book 19 of the dead “whom Hector, son of Priam, killed” (19.203–204). The god grants power, the man claims a triumph, and the poet calls it glory (see [[hector]]).
+
+**Great glory of the Achaeans.** Idomeneus, asking Nestor to carry the wounded Machaon to the ships, hails him “Nestor, son of Neleus, great glory of the Achaeans” (11.511), the address with which Agamemnon and Odysseus greeted him in the night (10.87, 10.555; see [[great-glory-of-the-achaeans]] and [[nestor]]). In Nestor's own story it is Zeus who “put great power into the hands of the Pylians” (11.753), and at the end the Pylians give thanks “to Zeus among the gods, and to Nestor among men” (11.761).
+
+**Glorious youth.** Iphidamas was reared in Thrace by his mother's father, Cisseus, who kept him there “when he reached the measure of glorious youth” (ἥβης ἐρικυδέος, 11.225) and gave him his daughter; he left her to come to Troy, where Agamemnon killed him (11.221–247; see [[iphidamas]]). ἐρικυδής, “very glorious”, is elsewhere said of the gifts of the gods (3.65, 20.265), of Leto (14.327) and of a feast (24.802); only here is it said of youth.

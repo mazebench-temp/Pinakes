@@ -17,7 +17,7 @@ passages:
   - 24.349-353 | Priam passes the tomb of Ilus
 ---
 
-σῆμα, “marker”, is here a grave mound (see [[tomb]]); at 11.371 it is a τύμβος, “made by men's hands”, with a στήλη, “pillar”, on it, and at 24.349 “the great mound”. It lies “in the middle of the plain” (11.167), on the way to the city, before the wild fig tree and the Scaean gates (11.166–170; see [[the-fig-tree]] and [[scaean-gates]]), and near the river (24.349–351). Like the tomb of Aesyetes and the mound of Myrine (2.793, 2.811–814; see [[aesyetes]] and [[batieia]]), it is one of the old graves that mark the plain. Ilus was Priam's grandfather (see [[ilus]]).
+σῆμα, “marker”, is here a grave mound (see [[tomb]]); at 11.371 it is a τύμβος, “man-made”, with a στήλη, “pillar”, on it, and at 24.349 “the great mound”. It lies in mid-plain, on the way to the city: the routed Trojans rush past it “through the middle of the plain” (11.166–167), past the wild fig tree, to the Scaean gates (11.166–170; see [[the-fig-tree]] and [[scaean-gates]]); and it is near the river (24.349–351). Like the tomb of Aesyetes and the mound of Myrine (2.793, 2.811–814; see [[aesyetes]] and [[batieia]]), it is one of the old graves that mark the plain. Ilus was Priam's grandfather (see [[ilus]]).
 
 ## In Homer
 

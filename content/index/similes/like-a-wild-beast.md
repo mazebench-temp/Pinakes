@@ -3,7 +3,7 @@ title: Like a wild beast
 greek: θηρὶ ἐοικώς
 kind: simile
 tags: [wild-animal, warfare]
-summary: While Paris lies with Helen, Menelaus ranges through the throng “like a wild beast”, looking for him (3.449–450). The lion of the start of the book has lost its prey.
+summary: “Like a wild beast”, a half-verse comparison for a warrior moving through the throng. Menelaus ranges through the throng like a wild beast looking for Paris (3.449–450), and Ajax, when Zeus puts him to flight, falls back toward the throng glancing around like a wild beast, turning back again and again (11.544–547).
 aliases: [Menelaus like a wild beast, like a beast]
 grc: [θηρὶ ἐοικὼς]
 en: [like a wild beast]

@@ -3,11 +3,11 @@ title: Studded with golden nails
 greek: χρυσείοις ἥλοισι πεπαρμένον
 kind: epithet
 tags: [sacred-object, kingship]
-summary: The description of the [[scepter]] that Achilles flings to the ground after his oath (1.246).
+summary: “Pierced with golden studs,” a verse-opening phrase used twice in Homer, of the [[scepter]] that Achilles flings to the ground after his oath and of Nestor's cup.
 aliases: [gold-studded scepter]
 grc: [χρυσείοις ἥλοισι πεπαρμένον]
 en: [studded with golden nails]
-of: [scepter]
+of: [scepter, the-cup-of-nestor]
 ---
 
 ## Meaning

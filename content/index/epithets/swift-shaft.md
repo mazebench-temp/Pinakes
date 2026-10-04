@@ -3,7 +3,7 @@ title: Swift shaft
 greek: βέλος ὠκύ
 kind: epithet
 tags: [weapon]
-summary: “The swift shaft,” a formula for an arrow or a thrown spear, and its companion ὠκὺς ὀϊστός, “the swift arrow.” Book 5 uses it of Pandarus' arrow in Diomedes' shoulder, which fails to kill him.
+summary: “The swift shaft,” a formula for an arrow or a thrown spear, and its companion ὠκὺς ὀϊστός, “the swift arrow.”
 aliases: [belos oky, swift arrow, okys oistos]
 grc: [βέλος ὠκὺ, ὠκὺν ὀϊστόν]
 en: [swift shaft, swift arrow]

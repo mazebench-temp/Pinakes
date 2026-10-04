@@ -20,7 +20,7 @@ Homer's healers treat wounds. Sickness comes from the gods, and the plague of Bo
 The Iliad describes the work in detail twice, when Machaon heals Menelaus (4.188–219) and when Patroclus tends the wounded Eurypylus (11.828–848). The steps are these:
 
 1. **Examining.** The healer feels the wound: “a healer will examine the wound” (ἐπιμάσσεται, 4.190), from ἐπιμαίομαι, “touch, handle”.
-2. **Drawing out the missile.** Machaon draws the arrow out of the belt, and its barbs break back (4.213–214). An arrowhead may have to be cut out: a healer, says Idomeneus, “is worth many other men, to cut out arrows and spread soothing drugs” (11.514–515).
+2. **Drawing out the missile.** Machaon draws the arrow out of the belt, and its barbs break back (4.213–214). An arrowhead may have to be cut out: a healer, says Idomeneus, is “a man worth many others, to cut out arrows and spread on soothing drugs” (11.514–515).
 3. **Cleaning.** Machaon sucks out the blood (ἐκμυζήσας, 4.218, a word found only here); Patroclus washes the black blood away with warm water (11.828–848).
 4. **Drugs.** The healer sprinkles on ἤπια φάρμακα, “soothing drugs” (4.218, 11.515, 11.830; see [[soothing-drugs]]), or a bitter root crushed in the hands, which stops the pain and dries the wound (11.846–848).
 

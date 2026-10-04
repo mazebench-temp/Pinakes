@@ -12,7 +12,7 @@ of: [cleopatra]
 
 ## Meaning
 
-μνηστή is the verbal adjective of μνάομαι (“woo, court”), the verb that gives the suitors of the Odyssey their name, μνηστῆρες: “wooed,” and so a wife won by courtship and gifts, a wedded wife. Homer uses it only with ἄλοχος (“wife”), six times: here; in Achilles' wish to go home and marry “a wedded wife” (Il. 9.399); of Meleager's wife Cleopatra, beside whom he lay in his anger (Il. 9.556); of the young wife whom Iphidamas left to die at Troy, “from whom he had no joy, though he had given much” (Il. 11.241–243); and in the Odyssey of Clytemnestra, whom Aegisthus married (Od. 1.36), and of Penelope, when Odysseus asks his mother about her in the underworld (Od. 11.177). Compare κουριδίη ἄλοχος, “wedded wife,” as Agamemnon calls Clytemnestra (1.114; [[marriage]]).
+μνηστή is the verbal adjective of μνάομαι (“woo, court”), the verb that gives the suitors of the Odyssey their name, μνηστῆρες: “wooed,” and so a wife won by courtship and gifts, a wedded wife. Homer uses it only with ἄλοχος (“wife”), six times: here; in Achilles' wish to go home and marry “a wedded wife” (Il. 9.399); of Meleager's wife Cleopatra, beside whom he lay in his anger (Il. 9.556); of the young wife whom Iphidamas left to die at Troy, “from whom he had seen no joy, though he had given much” (Il. 11.241–243); and in the Odyssey of Clytemnestra, whom Aegisthus married (Od. 1.36), and of Penelope, when Odysseus asks his mother about her in the underworld (Od. 11.177). Compare κουριδίη ἄλοχος, “wedded wife,” as Agamemnon calls Clytemnestra (1.114; [[marriage]]).
 
 ## Use
 

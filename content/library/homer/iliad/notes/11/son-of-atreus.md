@@ -1,0 +1,5 @@
+---
+summary: Agamemnon is “the son of Atreus” throughout his aristeia, from the call to arms to the sharp pains that end it.
+---
+
+The patronymic follows Agamemnon through the first half of the book. “The son of Atreus shouted and bade them gird themselves” (11.15) begins the day. In the rout he is the son of Atreus who kills Isus and Antiphus (11.107), rushes on the sons of Antimachus like a lion (11.130), and follows the Trojans to the city, killing the hindmost, “and his irresistible hands were spattered with gore” (11.158–180; [[powerful]], [[irresistible-hands]]). The sons of Antimachus beg him by his father's name: “Take us alive, son of Atreus, and accept a worthy ransom” (11.131; [[supplication]]). Iphidamas and Coon come against “Agamemnon, son of Atreus” (11.231–262). The pains of his wound come over “the might of the son of Atreus,” in a verse said twice, before and after the simile of the woman in labor (11.268, 11.272; [[the-woman-in-labor]]). See [[agamemnon]], [[atreus]] and [[the-aristeia-of-agamemnon]].

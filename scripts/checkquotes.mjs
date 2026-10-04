@@ -27,7 +27,9 @@ for (const file of files) {
     const [, quote, refs] = m;
     if (/[Ͱ-Ͽἀ-῿]/.test(quote)) continue; // Greek, not the translation
     const lines = [];
-    for (const [, b, from, to] of refs.matchAll(/(?<![\d.])(\d+)\.(\d+)(?:[–-](\d+))?/g)) {
+    // References to the Odyssey ("Od. 11.550", "Odyssey 3.440, 24.275") are not lines of this work.
+    const own = refs.replace(/(?:\bOd\.|\*?Odyssey\*?)\s*(?:\d+\.\d+(?:[–-]\d+)?(?:,\s*)?)+/g, '');
+    for (const [, b, from, to] of own.matchAll(/(?<![\d.])(\d+)\.(\d+)(?:[–-](\d+))?/g)) {
       const rows = en.get(+b);
       if (rows) for (let n = +from - 1; n <= +(to ?? from) + 1; n++) if (rows.has(n)) lines.push(rows.get(n));
     }

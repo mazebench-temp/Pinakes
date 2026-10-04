@@ -4,7 +4,8 @@ greek: Θρύον
 kind: place
 tags: [peloponnese, city, pylian, messenia]
 summary: A town of Nestor's kingdom at "the ford of the Alpheus", the same place as Thryoessa, which the Epeians besieged in Nestor's youth.
-grc: [Θρύον]
+# Capitalized only: θρύον "rush" grows by the Scamander at 21.351.
+grc: ["^Θρύον"]
 ---
 
 {{quote:3c989587-8240-5a19-bcd3-53ade1ede1d6}}

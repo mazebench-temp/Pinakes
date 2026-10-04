@@ -1,0 +1,24 @@
+---
+summary: Agamemnon arms at dawn in the fullest arming scene of the poem (11.15–46). The formula verses of Paris' arming give the frame; the corselet that Cinyras sent him and the shield with the Gorgon are described at length; the bronze shines to the sky, and Athena and Hera thunder in his honor. The arming opens his aristeia.
+grc: ["ἐδύσετο νώροπα χαλκόν"]
+en: [put on the gleaming bronze]
+refs: [11.15-46]
+passages:
+  - 11.15-46 | Agamemnon arms
+---
+
+**The call.** Strife's shout from Odysseus' ship makes war sweeter to the Achaeans than going home (11.10–14). Agamemnon shouts in his turn, bids the Argives gird themselves (ζώννυσθαι, “gird”, the verb of the [[belt]]), “and he himself put on the gleaming bronze” (ἐν δʼ αὐτὸς ἐδύσετο νώροπα χαλκόν, 11.15–16). The half-verse is the one with which he armed in the Catalogue, “exulting, and he stood out among all the heroes” (2.578–579; see [[gleaming-bronze]]). The army arms in a word, the king in some thirty verses.
+
+**The frame.** The pieces come in the order of Paris' arming in Book 3, and the frame is made of its verses: the greaves (11.17–18 = 3.330–331), the corselet (11.19 = 3.332), the sword (11.29, the verse of 3.334 cut short before ἀργυρόηλον; see [[silver-studded]]), and the helmet with its nodding crest (11.42 = 3.337). The helmet verse itself is the one of Athena's arming on Olympus (11.41 = 5.743; see [[with-two-ridges-and-four-plates]]). Last come two spears “tipped with bronze”, as Paris carried two when he first stepped out (11.43; 3.18). See [[greaves]], [[sword]], [[helmet]] and [[spear]].
+
+**The additions.** Between the formula verses the poet sets two descriptions found nowhere else. The corselet was a guest-gift from Cinyras of Cyprus, who heard the great report of the expedition; it has ten bands of κύανος, twelve of gold and twenty of tin, and three serpents rise toward the neck on either side, “like the rainbows that the son of Cronus sets in the clouds, a portent for mortal men” (11.19–28; see [[corselet]], [[cinyras]] and [[kyanos]]). The sword has studs of gold and a sheath of silver on golden straps (11.29–31; see [[sheath]]). In place of the great and heavy σάκος of the other armings (3.335) Agamemnon takes up an ἀσπίς, “furious, man-covering, intricately worked”, with ten circles of bronze, twenty bosses of tin around one of κύανος, the grim-faced Gorgon set on it as a crown with Terror and Rout around her, and a three-headed serpent on its silver strap (11.32–40; see [[shield]], [[gorgon]], [[terror]] and [[rout]]). The two descriptions share κύανος, tin and serpents.
+
+**Portents.** The day began with Strife holding “a portent of war” (πολέμοιο τέρας, 11.4), and the king carries portents on his body. The serpents of the corselet are likened to the rainbow, Zeus' τέρας in the sky (11.27–28; compare 17.547–549, a rainbow stretched out as a sign of war or storm), and the Gorgon looks out from his shield as her head looks out from the aegis, “the portent of aegis-bearing Zeus”, among Rout, Strife, Courage and Onslaught (5.738–742; see [[aegis]] and [[teras]]).
+
+{{quote:ed4f156d-0b47-5858-841d-95ac2543d195}}
+
+**Light and thunder.** The gleam of bronze reaching the sky is elsewhere the sign of a whole army going out, “through the upper air to the sky” (2.457–458), and of the Achaeans pouring from the ships when Achilles arms (19.357–364); here it comes from one man's two spears. ἐγδουπέω, “thunder”, occurs only here (11.45). Thunder is otherwise Zeus' sign (8.75, 8.133, 8.170), and Zeus will give this day to Hector (11.192–194); the two goddesses who favor the Achaeans honor “the king of Mycenae rich in gold” with a sound of their own (see [[athena]], [[hera]] and [[rich-in-gold]]).
+
+**The armor tested.** The scene opens Agamemnon's aristeia (see [[the-aristeia]] and [[the-aristeia-of-agamemnon]]), and the armor is put to the test. Iphidamas thrusts at his waist below the corselet, leaning his weight on the spear, but the point meets the silver and bends like lead before it can pierce the belt (11.234–237). Coon's spear goes clean through his forearm, and that wound takes him out of the battle (11.252–253, 11.267–274; see [[belt]]).
+
+**Other armings.** In Nestor's story the verb of the corselet carries the war of his youth: the young Moliones arm (θωρήσσοντο, 11.709), Athena comes by night to bid the Pylians arm (11.715), Neleus will not let his son arm and hides his horses (11.717–719), and the Pylians march “armed in our armor”, in the half-verse of 11.49, and sleep in it (11.725, 11.731; see [[corselet]] and [[nestor-and-the-epeians]]). The book ends with an arming to come. Nestor's plan is that Achilles give Patroclus his armor, so that the Trojans take him for Achilles (11.798–800), and the next full arming scene of the poem is Patroclus' in that armor (16.130–144; see [[patroclus]]).

@@ -17,7 +17,7 @@ Walter Arend counted the arrival among the recurring scenes of Homer (*Die typis
 4. **The errand.** The visitor says why he has come.
 5. **Departure.**
 
-The visitor in haste refuses to sit. Nestor rises and bids Patroclus sit, and Patroclus refuses: “It is no time to sit, old man whom Zeus has nurtured, and you will not persuade me” (οὐχ ἕδος ἐστί … οὐδέ με πείσεις, 11.647–648). He has an errand from Achilles, who is quick to blame. Iris, arriving at the house of the winds, where they are feasting, refuses the seat each of them offers her in the same words, “it is no time to sit”, because she must go on to the Ethiopians (23.200–207).
+The visitor in haste refuses to sit. Nestor rises and bids Patroclus sit, and Patroclus refuses: “There is no time to sit, old sir, nurtured by Zeus, and you will not persuade me” (οὐχ ἕδος ἐστί … οὐδέ με πείσεις, 11.648). He has an errand from Achilles, who is quick to blame. Iris, arriving at the house of the winds, where they are feasting, refuses the seat each of them offers her in the same words, “there is no time to sit”, because she must go on to the Ethiopians (23.200–207).
 
 The Odyssey is built of such scenes, with the full reception of a guest (see [[xenia]]), and Steve Reece studied them as a single pattern (*The Stranger's Welcome*, 1993). In the Iliad visits are few and brief, and the war cuts them short: more than one visitor will not sit down.
 

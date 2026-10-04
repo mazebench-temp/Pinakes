@@ -13,7 +13,7 @@ grc: ["^Κυδοιμ*"]
 
 ## Etymology
 
-κυδοιμός is the noise and confusion of battle, the uproar of a rout (10.523, 11.52, 11.538, 18.218), and the verb κυδοιμέω means “make an uproar” or “throw into confusion” (11.324, 15.136). Its origin is unknown. The capital marks the person; the common noun is not claimed by this entry.
+κυδοιμός is the noise and confusion of battle, the uproar of a rout (10.523, 11.52, 11.538, 18.218), and the verb κυδοιμέω is to make an uproar, to spread confusion: Diomedes and Odysseus go through the throng “spreading tumult” (11.324; also 15.136). Its origin is unknown. The capital marks the person; the common noun is not claimed by this entry.
 
 ## In Homer
 

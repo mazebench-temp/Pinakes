@@ -5,7 +5,8 @@ kind: place
 tags: [mainland-greece, city, locris]
 summary: A town of the eastern [[Locrians]], "lovely Augeiae". A town of the same name and epithet belongs to Menelaus in Lacedaemon.
 grc: [Αὐγειὰς]
-except: [2.583]
+# Αὐγείας at 11.701 is King Augeas of Elis.
+except: [2.583, 11.701]
 ---
 
 {{quote:b79024d0-d141-5db1-929f-188ecce82332}}

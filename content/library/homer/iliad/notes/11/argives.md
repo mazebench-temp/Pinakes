@@ -1,0 +1,5 @@
+---
+summary: The Argives of Book 11 are the army that Agamemnon calls to arms and leads in the rout, and the army whose “leaders and rulers” the wounded Agamemnon and then the wounded Eurypylus call on to defend the ships (11.15–16, 11.276, 11.587).
+---
+
+Agamemnon bids the Argives gird themselves (11.15–16), and in the rout the Trojans flee before them while he follows, “always killing, calling on the Argives” (11.121, 11.154; see [[agamemnon]]). When Hector has rallied the Trojans, “the Argives on the other side strengthened their battalions” (11.215). The address “Friends, leaders and rulers of the Argives” opens the last words of the wounded king and the call of the wounded Eurypylus (11.276, 11.587; see [[eurypylus]] and [[hegemon]]). Nestor used it in Books 2 and 10, and Agamemnon in Book 9 (2.79, 9.17, 10.533). When Odysseus is cut off, “no one / of the Argives stayed beside him, since rout had seized them all” (11.401–402; see [[odysseus]]), and Nestor fears that the ships will burn “in spite of the Argives” while Achilles waits (11.666–667; see [[nestor]]).

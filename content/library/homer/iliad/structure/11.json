@@ -1,0 +1,373 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 14,
+      "title": "Strife at the Ships",
+      "summary": "Dawn rises from beside Tithonus, and Zeus sends Strife to the Achaean ships with a portent of war in her hands. She stands on Odysseus' ship, in the middle of the line, where a shout carries to Ajax at one end and Achilles at the other, and gives a great, shrill cry that puts strength into every Achaean, so that war becomes sweeter to them than sailing home."
+    },
+    {
+      "from": 15,
+      "to": 46,
+      "title": "The Arming of Agamemnon",
+      "summary": "Agamemnon calls the Argives to arms and arms himself: greaves with silver ankle-pieces; the corselet that Cinyras of Cyprus gave him as a guest-gift, banded with dark blue enamel, gold and tin, with three serpents on each side like rainbows; a sword with golden studs in a silver sheath; the great shield with the grim-faced Gorgon, Terror and Rout, and a three-headed serpent on its strap; a helmet with a horsehair crest; two spears. Athena and Hera thunder in his honor."
+    },
+    {
+      "from": 47,
+      "to": 83,
+      "title": "The Armies Drawn Up",
+      "summary": "The Achaeans leave their horses at the ditch with the charioteers and go ahead on foot. Zeus stirs up tumult and sends down dewdrops wet with blood, for he means to send many to Hades. The Trojans form up on the rise of the plain around Hector, Polydamas, Aeneas and the three sons of Antenor, and Hector moves between the front and the rear like a baleful star. The two sides cut each other down like reapers in a rich man's field. Strife alone of the gods is there; the others sit in their halls and blame Zeus, who sits apart, exulting, and looks down on Troy and the ships."
+    },
+    {
+      "from": 84,
+      "to": 162,
+      "title": "Agamemnon's Onslaught",
+      "summary": "All morning the missiles strike on both sides; at the hour of the woodcutter's meal the Danaans break through. Agamemnon kills Bianor and his companion Oileus; Isus and Antiphus, two sons of Priam whom Achilles had once captured on Ida and released for ransom; and Peisander and Hippolochus, sons of Antimachus, who beg to be taken alive, but whose father had urged the Trojans to kill Menelaus and Odysseus when they came as envoys. Foot soldiers kill foot soldiers and horsemen horsemen; the Trojans fall before Agamemnon like thickets before a forest fire, and their horses rattle empty chariots across the plain."
+    },
+    {
+      "from": 163,
+      "to": 180,
+      "title": "The Rout to the Scaean Gates",
+      "summary": "Zeus draws Hector out of the fighting. The Trojans flee past the tomb of Ilus and the fig tree toward the city, and Agamemnon follows, shouting, his hands spattered with gore. At the Scaean gates and the oak some halt and wait for the rest, while others still flee across the plain like cattle before a lion, and Agamemnon kills the hindmost."
+    },
+    {
+      "from": 181,
+      "to": 217,
+      "title": "Iris Brings Zeus' Word",
+      "summary": "As Agamemnon nears the wall, Zeus comes down to the peaks of Ida with the lightning in his hands and sends Iris to Hector: as long as Agamemnon rages among the champions, Hector is to give way and keep the army fighting; but when Agamemnon is wounded and takes to his chariot, Zeus will give Hector power to kill until he reaches the ships and the sun goes down. Iris gives him the message word for word. Hector leaps down and rallies the Trojans, and the battle is joined again, with Agamemnon in front."
+    },
+    {
+      "from": 218,
+      "to": 283,
+      "title": "Iphidamas and Coon",
+      "summary": "The poet asks the Muses who first faced Agamemnon. It is Iphidamas, son of Antenor, raised in Thrace by his mother's father Cisseus and married to Cisseus' daughter, who left his bride to sail for Troy with twelve ships. His spear point bends like lead on Agamemnon's belt, and Agamemnon kills him: he sleeps the sleep of bronze, far from the wife who gave him no joy for all his gifts. His elder brother Coon stabs Agamemnon through the forearm, and is beheaded over his brother's body. While the wound bleeds Agamemnon fights on; when it dries, pains like a woman's labor drive him to his chariot, and he calls on the Argives to defend the ships."
+    },
+    {
+      "from": 284,
+      "to": 309,
+      "title": "Hector's Charge",
+      "summary": "Seeing Agamemnon go, Hector calls on the Trojans, Lycians and Dardanians: their best man is gone, and Zeus has given him a great triumph. He sets them on like a hunter setting hounds on a boar or a lion, and falls on the battle like a storm wind. He kills nine Achaean leaders, Asaeus, Autonous, Opites, Dolops son of Clytius, Opheltius, Agelaus, Aesymnus, Orus and Hipponous, and then the multitude, as the West Wind batters the clouds and whips up the sea."
+    },
+    {
+      "from": 310,
+      "to": 368,
+      "title": "Diomedes and Odysseus Make a Stand",
+      "summary": "The Achaeans would have fled to their ships had Odysseus not called on Diomedes to stand with him. Diomedes stays, though he knows that Zeus favors the Trojans. They kill Thymbraeus and Molion, then the two sons of Merops of Percote, the seer who had forbidden them to go to war, then Hippodamus and Hypeirochus; Diomedes wounds Agastrophus in the hip, whose horses are too far off for him to escape, and he dies among the champions. Hector charges. Diomedes' spear strikes the top of his helmet, Apollo's gift, and Hector falls to his knees in a swoon, then recovers and escapes in his chariot. Diomedes calls after him that Apollo has saved him again, and starts to strip Agastrophus."
+    },
+    {
+      "from": 369,
+      "to": 400,
+      "title": "Paris Wounds Diomedes",
+      "summary": "Paris, leaning on a pillar of the tomb of Ilus, shoots Diomedes through the flat of the right foot as he strips Agastrophus, and leaps from cover laughing: he wishes he had hit him in the belly. Diomedes calls him an archer, an insulter and an ogler of girls, whose arrow is no more than a woman's or a child's, while his own spear leaves widows and orphans. Odysseus stands in front of him while he pulls out the arrow, and Diomedes drives back to the ships in pain."
+    },
+    {
+      "from": 401,
+      "to": 488,
+      "title": "Odysseus Alone",
+      "summary": "Left alone, Odysseus debates with his own heart, and decides that the brave must stand. The Trojans close around him like hounds and young men around a boar. He wounds Deiopites, kills Thoon, Ennomus and Chersidamas, and wounds Charops. Charops' brother Socus drives a spear through his shield and corselet and tears the skin from his ribs, but Athena keeps it from his entrails. Odysseus kills Socus as he turns to flee, and boasts over him that the birds will have his body. Bleeding and hard pressed, he shouts three times; Menelaus hears and brings Ajax, and they find him beset like a wounded stag among jackals. Ajax comes up with his shield like a tower, the Trojans scatter, and Menelaus leads Odysseus out by the hand."
+    },
+    {
+      "from": 489,
+      "to": 520,
+      "title": "Machaon Wounded",
+      "summary": "Ajax falls on the Trojans, kills Doryclus, a bastard son of Priam, wounds four more, and sweeps the plain like a river in winter flood. Hector, fighting on the far left by the Scamander, around Nestor and Idomeneus, does not yet know of it. There Paris hits the healer Machaon in the right shoulder with a three-barbed arrow, and Idomeneus sends Nestor to carry him to the ships, for a healer is worth many men."
+    },
+    {
+      "from": 521,
+      "to": 574,
+      "title": "The Retreat of Ajax",
+      "summary": "Cebriones, Hector's charioteer, sees the Trojans in turmoil and drives Hector across to where Ajax is routing them; the chariot runs over corpses and shields, and its axle is spattered with blood. Hector ranges through the other ranks but avoids Ajax. Zeus rouses Ajax to flight: he swings his shield behind him and gives ground slowly, turning again and again, like a lion driven from a farmyard by dogs and torches, or a sluggish donkey that the boys beat out of the grain only when it has had its fill. He keeps the Trojans and their allies from the ships, and their spears stick in his shield or in the ground short of him."
+    },
+    {
+      "from": 575,
+      "to": 595,
+      "title": "Eurypylus Wounded",
+      "summary": "Eurypylus comes to Ajax's side and kills Apisaon, son of Phausius; as he strips him, Paris shoots him in the right thigh. He falls back among his companions and calls on the leaders of the Argives to stand around Ajax. They form up beside him with their shields sloped on their shoulders and their spears raised, and Ajax turns and stands with them."
+    },
+    {
+      "from": 596,
+      "to": 617,
+      "title": "Achilles Sends Patroclus",
+      "summary": "Nestor's mares carry Machaon from the field. Achilles, watching the rout from the stern of his ship, sees them and calls Patroclus out of the hut; and this is the beginning of his evil. Now, says Achilles, the Achaeans will come to his knees, for their need is past bearing; he sends Patroclus to ask Nestor whether the wounded man is Machaon, as he looked from behind."
+    },
+    {
+      "from": 618,
+      "to": 654,
+      "title": "In Nestor's Hut",
+      "summary": "At Nestor's hut Eurymedon unyokes the horses, and the two men dry their sweat in the sea breeze and go in. Hecamede, the daughter of Arsinous, whom the Achaeans chose for Nestor from the spoils of Tenedos, sets out a table and mixes them a drink of Pramnian wine, goat's cheese and barley in Nestor's great cup, with its four handles and golden doves, which another man could barely lift when it was full. Patroclus appears at the door, but will not sit down: Achilles is quick to anger, and he must take the news back."
+    },
+    {
+      "from": 655,
+      "to": 761,
+      "title": "Nestor's War with the Epeians",
+      "summary": "Nestor asks why Achilles should pity the wounded now, when he does not know the half of the army's grief: Diomedes, Odysseus, Agamemnon and Eurypylus are all wounded. He wishes he were as young and strong as when the Pylians fought the Epeians. He tells how he killed Itymoneus in a cattle raid on Elis and drove home great herds and flocks; how the spoil was shared among the Pylians to whom Elis owed debts, since Heracles had wasted Pylos and Nestor alone of the twelve sons of Neleus was left; how Neleus took a large share for the four prize horses that Augeas had kept; how the Epeians and the young Moliones besieged Thryoessa on the Alpheus; and how Athena roused the Pylians by night, and Nestor, though Neleus had hidden his horses, killed Mulius, son-in-law of Augeas, took fifty chariots, would have killed the Moliones had Poseidon not hidden them in mist, and drove the Epeians back to Buprasium, so that all gave glory to Zeus among the gods and to Nestor among men."
+    },
+    {
+      "from": 762,
+      "to": 803,
+      "title": "Nestor's Counsel to Patroclus",
+      "summary": "Such was Nestor once, if ever he was; but Achilles will enjoy his prowess alone, and weep for it when the army has perished. Nestor reminds Patroclus of the day he and Odysseus came to Peleus' house in Phthia to gather men, and of the fathers' charges: Peleus told Achilles always to be the best, and Menoetius told Patroclus, the elder, to give Achilles good counsel. Let him try to persuade Achilles now; and if Achilles is shunning some prophecy from his mother, let him at least send Patroclus out with the Myrmidons in his own armor, so that the Trojans may take him for Achilles and the worn-out Achaeans may have a breathing space."
+    },
+    {
+      "from": 804,
+      "to": 848,
+      "title": "Patroclus and Eurypylus",
+      "summary": "Patroclus runs back along the ships. At the ships of Odysseus, where the Achaeans hold assembly and judgment and have built their altars, he meets Eurypylus limping out of the battle with an arrow in his thigh. Pitying him, Patroclus asks whether the Achaeans can still hold Hector; Eurypylus answers that they will fall back on the ships, since all their best men are wounded, and begs Patroclus to cut out the arrow and use the drugs Achilles learned from Chiron, for Machaon lies wounded and Podalirius is fighting on the plain. Patroclus will not leave him: he takes him to his hut, cuts out the arrow, washes the wound, and lays on a bitter root that stops the pain and the blood."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 131,
+      "to": 135,
+      "speaker": "sons-of-antimachus",
+      "to_whom": [
+        "agamemnon"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 138,
+      "to": 142,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "sons-of-antimachus"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 186,
+      "to": 194,
+      "speaker": "zeus",
+      "to_whom": [
+        "iris"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 200,
+      "to": 209,
+      "speaker": "iris",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "message"
+    },
+    {
+      "from": 276,
+      "to": 279,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 286,
+      "to": 290,
+      "speaker": "hector",
+      "to_whom": [
+        "trojans",
+        "lycians",
+        "dardanians"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 313,
+      "to": 315,
+      "speaker": "odysseus",
+      "to_whom": [
+        "diomedes"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 317,
+      "to": 319,
+      "speaker": "diomedes",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 347,
+      "to": 348,
+      "speaker": "diomedes",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 362,
+      "to": 367,
+      "speaker": "diomedes",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 380,
+      "to": 383,
+      "speaker": "paris",
+      "to_whom": [
+        "diomedes"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 385,
+      "to": 395,
+      "speaker": "diomedes",
+      "to_whom": [
+        "paris"
+      ],
+      "kind": "retort"
+    },
+    {
+      "from": 404,
+      "to": 410,
+      "speaker": "odysseus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 430,
+      "to": 433,
+      "speaker": "socus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "challenge"
+    },
+    {
+      "from": 441,
+      "to": 445,
+      "speaker": "odysseus",
+      "to_whom": [
+        "socus"
+      ],
+      "kind": "threat"
+    },
+    {
+      "from": 450,
+      "to": 455,
+      "speaker": "odysseus",
+      "to_whom": [
+        "socus"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 465,
+      "to": 471,
+      "speaker": "menelaus",
+      "to_whom": [
+        "ajax"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 511,
+      "to": 515,
+      "speaker": "idomeneus",
+      "to_whom": [
+        "nestor"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 523,
+      "to": 530,
+      "speaker": "cebriones",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 587,
+      "to": 591,
+      "speaker": "eurypylus",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 606,
+      "to": 606,
+      "speaker": "patroclus",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 608,
+      "to": 615,
+      "speaker": "achilles",
+      "to_whom": [
+        "patroclus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 648,
+      "to": 654,
+      "speaker": "patroclus",
+      "to_whom": [
+        "nestor"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 656,
+      "to": 803,
+      "speaker": "nestor",
+      "to_whom": [
+        "patroclus"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 816,
+      "to": 821,
+      "speaker": "patroclus",
+      "to_whom": [
+        "eurypylus"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 823,
+      "to": 836,
+      "speaker": "eurypylus",
+      "to_whom": [
+        "patroclus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 838,
+      "to": 841,
+      "speaker": "patroclus",
+      "to_whom": [
+        "eurypylus"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 848,
+      "label": "Day 26",
+      "note": "The third day of battle, which fills Books 11 to 18. It dawns at 11.1, and at the hour of the woodcutter's meal the Achaeans break through (11.84–91). Zeus promises Hector power to kill until he reaches the ships and the sun goes down (11.192–194); the day ends only when Hera sends the unwilling sun down to the streams of Ocean (18.239–242)."
+    }
+  ]
+}

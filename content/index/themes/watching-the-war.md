@@ -19,7 +19,7 @@ The gods are the war's first audience. They watch from Olympus, and Zeus watches
 
 ## The wall
 
-Troy watches its own war. The old men sit on the tower above the Scaean gates, “done with war now because of their age”, and see Helen come (3.146–160); Helen is called to the wall to see the duel fought for her (3.130–138). Priam cannot bear to watch his son fight Menelaus (3.304–309), but he sees Hector die: he is the first to see Achilles coming across the plain, and he and Hecuba watch from the wall what follows (22.25–91, 22.405–409). Andromache runs to the wall and sees her husband's body dragged behind Achilles' chariot (22.462–465). Achilles too is a watcher while he stays out of the fighting, standing on the stern of his ship, “looking out on the sheer toil and the tearful rout” (11.599–601).
+Troy watches its own war. The old men sit on the tower above the Scaean gates, “done with war now because of their age”, and see Helen come (3.146–160); Helen is called to the wall to see the duel fought for her (3.130–138). Priam cannot bear to watch his son fight Menelaus (3.304–309), but he sees Hector die: he is the first to see Achilles coming across the plain, and he and Hecuba watch from the wall what follows (22.25–91, 22.405–409). Andromache runs to the wall and sees her husband's body dragged behind Achilles' chariot (22.462–465). Achilles too is a watcher while he stays out of the fighting, standing on the stern of his ship, “watching the sheer toil and the tearful onslaught” (11.599–601).
 
 ## The armies and the onlooker
 

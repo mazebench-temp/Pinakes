@@ -13,4 +13,4 @@ relations:
 
 ## Elsewhere in Homer
 
-Nestor tells how Heracles sacked Pylos and killed all of Neleus' twelve sons except himself (Iliad 11.690–693), and how Augeas of Elis kept a team of four prize horses that Neleus had sent to race for a tripod, so that Neleus took a great herd of cattle and sheep in return (11.696–705). In the Odyssey Neleus is a son of Poseidon by Tyro, and the twin of Pelias (11.235–259). His wife Chloris bore him Nestor, Chromius, Periclymenus and a daughter, Pero (Odyssey 11.281–297).
+Nestor tells how Heracles sacked Pylos and killed all of Neleus' twelve sons except himself (Iliad 11.690–693; see [[heracles-sacks-pylos]]), and how Augeas of Elis kept a team of four prize horses that Neleus had sent to race for a tripod, so that Neleus took a great herd of cattle and sheep in return (11.696–705). In the Odyssey Neleus is a son of Poseidon by Tyro, and the twin of Pelias (11.235–259). His wife Chloris bore him Nestor, Chromius, Periclymenus and a daughter, Pero (Odyssey 11.281–297).

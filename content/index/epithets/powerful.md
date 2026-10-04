@@ -5,7 +5,8 @@ kind: epithet
 tags: [heroic-epithet, kingship]
 summary: “Ruling, lord”: an old title of [[Agamemnon]], above all in the formula κρείων Ἀγαμέμνων, and of other rulers.
 aliases: [ruling, lord, kreion]
-grc: [κρείων]
+# !=κρειῶν keeps out κρέας "meat" (11.551 = 17.660).
+grc: [κρείων, "!=κρειῶν"]
 except: [1.102, 1.355, 1.411]
 en: [powerful]
 of: [agamemnon, agapenor, helicaon]

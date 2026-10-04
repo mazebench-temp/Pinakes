@@ -7,7 +7,8 @@ summary: "Lovely Augeiae", a town of Menelaus' Lacedaemon. A Locrian town bears 
 aliases: [Laconian Augeiae]
 grc: [Αὐγειάς]
 en: [Augeiae]
-except: [2.532]
+# Αὐγείας at 11.701 is King Augeas of Elis.
+except: [2.532, 11.701]
 ---
 
 {{quote:ead29575-4ed7-5188-98ff-016401d132a2}}

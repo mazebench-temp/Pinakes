@@ -3,7 +3,7 @@ title: Forest fire
 greek: ἠΰτε πῦρ ἀΐδηλον ἐπιφλέγει ἄσπετον ὕλην
 kind: simile
 tags: [warfare, weapon]
-summary: As the Achaeans march out to battle, the gleam of their bronze goes up to the sky, “as a destroying fire sets a vast forest ablaze on the peaks of a mountain, and the glare is seen far off” (2.455–458). It opens the run of similes before the Catalogue of Ships.
+summary: Fire raging in a forest, the Iliad's likeness for the gleam of an army's bronze and for a hero's destruction of his enemies. The bronze of the Achaeans marching out flashes to the sky like a destroying fire on a mountain (2.455–458), and on Agamemnon's day the Trojans fall before him like thickets before a fire that the wind drives through uncut woodland (11.155–159).
 aliases: [like a forest fire, the gleam of bronze]
 grc: [πῦρ ἀΐδηλον, αἴγλη παμφανόωσα]
 en: [a destroying fire, the dazzling gleam]

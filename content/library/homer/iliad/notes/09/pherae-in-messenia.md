@@ -1,7 +1,8 @@
 ---
 summary: “Holy Pherae” is the fourth of the seven cities that Agamemnon offers Achilles (9.151, 9.293), probably the town of Diocles where Telemachus spends a night on the road to Sparta.
 # ^ keeps the town apart from φῆρας "beasts", the Centaurs (2.743, claimed as "=φῆρας" by the centaurs note).
-grc: ["^Φηράς"]
+# =Φηράς: Φῆρας, "beasts", the Centaurs (2.743), differs only by accent.
+grc: ["=Φηράς"]
 ---
 
 Here the town has the plural name, Φηραί; in Book 5 it is the singular Φηρή (5.543). Its epithet ζάθεος, “holy”, is given to Cilla, Nisa and Crisa elsewhere in the Iliad (1.38, 2.508, 2.520; see [[zatheos]]). It is the only one of the seven cities that Homer names outside the offer (see [[the-seven-cities]]).

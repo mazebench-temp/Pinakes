@@ -1,0 +1,10 @@
+---
+summary: Diomedes kills the two sons of Merops of Percote, the seer who knew their fate and forbade them to go to war (11.328–334); and Nestor guesses that Achilles may be holding back because of an oracle his mother told him from Zeus (11.794–795).
+en: [oracle]
+---
+
+**The seer's sons.** Diomedes and Odysseus take a chariot and “two men, the best of their people, the two sons of Merops of Percote, who above all men knew the art of prophecy, and would not let his sons go into man-destroying war; but they would not obey him at all, for the fates of black death were leading them on” (11.328–332). The verses are those of the Trojan Catalogue, where the sons are named, Adrestus and Amphius (2.830–834); here they are nameless, and their death bears out what their father foresaw (see [[merops]] and [[the-sons-of-merops]]). The seer who knows and the son who goes anyway recur: Eurydamas, “the old interpreter of dreams”, read no dreams for his sons when they set out, and Diomedes killed them (5.148–151), and Euchenor, son of the Corinthian seer Polyidus, sailed for Troy knowing that his father had foretold his death (13.663–672).
+
+**An oracle.** Nestor ends his speech with a guess: “But if in his mind he is shunning some oracle (θεοπροπίη), and his lady mother has told him something from Zeus”, let him at least send out Patroclus in his armor (11.794–798). Achilles had spoken of the two fates his mother told him, a long life without fame or a short one with fame imperishable (9.410–416; see [[the-two-fates-of-achilles]]). Patroclus repeats Nestor's words to him (16.36–37), and Achilles answers in the same verses that he heeds no oracle and his mother has told him nothing from Zeus (16.50–51; see [[prophecy]] and [[retelling]]).
+
+**Signs.** The day begins with signs that no one in the poem reads: Strife comes to the ships holding “a portent of war” (11.4), and Zeus sends down dewdrops wet with blood from the upper air, “because he meant to hurl down to Hades many mighty heads” (11.53–55), as he will shed bloody raindrops before the death of his son Sarpedon (16.459–461; see [[teras]]).

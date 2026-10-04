@@ -9,8 +9,10 @@ grc: [Ἠώς]
 en: [Dawn, dawn]
 ---
 
+In Homer she rises each morning from the bed of her husband [[tithonus|Tithonus]] (11.1–2 = *Odyssey* 5.1–2).
+
 {{notes}}
 
 ## Outside Homer
 
-Eos is a daughter of Hyperion and Theia (Hesiod, *Theogony* 371–374). She rises each morning from the bed of her husband Tithonus (Iliad 11.1–2).
+Eos is a daughter of Hyperion and Theia (Hesiod, *Theogony* 371–374).

@@ -3,7 +3,7 @@ title: Notus
 greek: Νότος
 kind: god
 tags: [personification, sea]
-summary: The South Wind, wet and stormy, which raises the sea. In Book 2 it drives the waves in two similes for the army's roar and rush.
+summary: The South Wind, wet and stormy. In the similes of the Iliad it drives the waves and brings clouds and mist, and in the Odyssey it keeps Odysseus' ship for a month on Thrinacia.
 aliases: [South Wind, Notos]
 grc: [Νότος]
 ---

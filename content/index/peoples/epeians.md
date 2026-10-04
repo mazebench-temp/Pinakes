@@ -4,7 +4,7 @@ greek: Ἐπειοί
 kind: people
 tags: [achaean, peloponnese, elis]
 summary: The people of Elis in Homer. In the Catalogue they come in forty ships, ten each under four leaders; in Nestor's stories of his youth they are the enemies of Pylos.
-aliases: [Epeioi, Epeans]
+aliases: [Epeioi, Epeans, Eleans]
 grc: [Ἐπειοί]
 relations:
   - leader: amphimachus (2.620)

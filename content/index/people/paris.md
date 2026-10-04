@@ -47,7 +47,7 @@ Hector's insults, in one line: Δύσπαρι, "Evil Paris"; εἶδος ἄρι
 
 {{quote:d10cf66b-61cf-5306-8071-257cfecad967}}
 
-His graces as his brother lists them: the lyre (κίθαρις), his hair (κόμη) and his looks, "the gifts of Aphrodite". Diomedes, wounded by his arrow, calls him "archer, slanderer, proud of your bow, ogler of girls" (11.385).
+His graces as his brother lists them: the lyre (κίθαρις), his hair (κόμη) and his looks, "the gifts of Aphrodite". Diomedes, wounded by his arrow, calls him “Archer, insulter, glorying in your bow, ogler of girls” (11.385).
 
 {{notes}}
 

@@ -5,7 +5,7 @@ kind: person
 tags: [achaean, warrior, dodecanese]
 summary: A grandson of [[Heracles]], who with his brother [[Pheidippus]] led thirty ships from [[Cos]] and the islands near it.
 grc: [Ἄντιφος]
-except: [2.864, 4.489]
+except: [2.864, 4.489, 11.104]
 relations:
   - father: thessalus (2.679)
 ---

@@ -22,7 +22,7 @@ Agamemnon tells his birth when he cheers him on in Book 8: “Teucer, dear heart
 ## Descriptions
 
 - τόξων ἐῢ εἰδώς, “well skilled with the bow” (12.350 = 12.363; see [[skilled-with-the-bow]]). Idomeneus calls him ἄριστος Ἀχαιῶν τοξοσύνῃ, “the best of the Achaeans at archery”, and brave in the close fight too (13.313–314).
-- ἀμύμων, “noble” (8.273, 8.292; see [[blameless]]), and βίη Τεύκροιο ἄνακτος, “the might of lord Teucer” (23.859), a hero named by his strength, like βίη Ἡρακληείη, “the might of Heracles” (11.690).
+- ἀμύμων, “noble” (8.273, 8.292; see [[blameless]]), and βίη Τεύκροιο ἄνακτος, “the might of lord Teucer” (23.859), a hero named by his strength, like βίη Ἡρακληείη, “mighty Heracles”, literally the might of Heracles (11.690).
 - His bow is παλίντονα τόξα, “his back-bent bow” (8.266, 15.443), the bow “that Phoebus Apollo gave you”, as Ajax says (15.441), like Pandarus' (2.827; see [[the-bow-of-pandarus]]).
 
 {{notes}}

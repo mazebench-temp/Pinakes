@@ -7,7 +7,7 @@ summary: Agamemnon's attendant and charioteer, son of [[Ptolemaeus]] and grandso
 aliases: [Eurymedon son of Ptolemaeus]
 # Εὐρυμέδων at 8.114 is Nestor's attendant (as at 11.620), not Agamemnon's charioteer.
 grc: [Εὐρυμέδων]
-except: [8.114]
+except: [8.114, 11.620]
 relations:
   - master: agamemnon (4.227-228)
   - father: ptolemaeus (4.228)

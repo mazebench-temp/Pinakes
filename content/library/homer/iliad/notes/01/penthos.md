@@ -1,3 +1,7 @@
+---
+summary: [[Nestor]] cries that great πένθος is coming upon Achaea; [[Thetis]] asks her son what πένθος has reached his heart.
+---
+
 {{quote:f764f706-daa8-5fd8-9fb4-bd73dca597be}}
 
 Nestor opens his speech with a cry of grief for the whole land. The Trojans would rejoice to hear of the quarrel. He uses the same line again in Book 7, when no Achaean will stand up to Hector's challenge (7.124).

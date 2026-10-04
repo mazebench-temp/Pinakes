@@ -11,7 +11,7 @@ en: [inlaid]
 
 ## Meaning
 
-ποικίλος means “many-colored, dappled,” and so “elaborately wrought”: armor worked in different metals, chariots adorned with bronze, robes woven with patterns. A leopard's spotted skin is ποικίλη (Il. 10.30). The word can describe a mind as well: Odysseus is ποικιλομήτης, “of intricate counsel” (Il. 11.482).
+ποικίλος means “many-colored, dappled,” and so “elaborately wrought”: armor worked in different metals, chariots adorned with bronze, robes woven with patterns. A leopard's spotted skin is ποικίλη (Il. 10.30). The word can describe a mind as well: Odysseus is ποικιλομήτης, “of subtle wiles” (Il. 11.482).
 
 ## Use
 

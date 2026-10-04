@@ -5,7 +5,8 @@ kind: object
 tags: [ship, camp, seafaring]
 summary: The ships of the Achaeans, drawn up on the shore before Troy: the fleet that brought the army, its camp, and its only way home.
 aliases: [ship, black ship, swift ships, hollow ships, fleet]
-grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας]
+# !=νέων keeps out νέων "of young men" (νέος, 11.503).
+grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, "!=νέων"]
 en: [ships, ship]
 passages:
   - 1.308-312 | The ship sails for Chryse

@@ -19,7 +19,7 @@ Aeneas gives the line when he faces Achilles: Zeus fathered Dardanus, Dardanus E
 
 ## Descriptions
 
-θεῖος, “divine” (10.415; see [[divine]]). παλαιὸς Δαρδανίδης, “descendant of Dardanus of old” (11.166, 11.372), the title Priam bears (3.303), and at 11.372 παλαιὸς δημογέρων, “an elder of the people of old”, the word for the Trojan elders on the wall (3.149; see [[trojan-elders]]).
+θεῖος, “divine” (10.415; see [[divine]]). Δαρδανίδης, “descendant of Dardanus” (11.166, 11.372), the title Priam bears (3.303); παλαιός, “ancient” (11.166), and at 11.372 παλαιὸς δημογέρων, “an elder of the people long ago” (11.372), the word for the Trojan elders on the wall (3.149; see [[trojan-elders]]).
 
 ## In Homer
 

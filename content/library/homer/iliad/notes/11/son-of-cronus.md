@@ -1,0 +1,5 @@
+---
+summary: “The son of Cronus” sets rainbows in the clouds, rouses tumult and bloody dew, is blamed by the gods, gives Hector his triumph, stretches the battle evenly, and puts the Danaans to rout.
+---
+
+The patronymic names Zeus at each of his acts in the battle. The serpents on Agamemnon's corselet are like the rainbows “that the son of Cronus sets in the clouds, a portent for mortal men” (11.27–28; [[meropes]], [[like-rainbows]]). As the armies meet, “an evil tumult the son of Cronus roused,” and sent down dewdrops wet with blood (11.52–55; [[tumult]]). The other gods blame “the son of Cronus, lord of the dark clouds” (11.78; [[lord-of-dark-clouds]]). Hector tells the Trojans that a great triumph has been given him “by Zeus, son of Cronus” (11.288–289). “Then the son of Cronus stretched the battle evenly for them, looking down from Ida” (11.336–337; [[watching-the-war]]). And Odysseus, left alone, knows whose doing it is: “the son of Cronus has put the other Danaans to rout” (11.406; [[pondering-two-ways]]). See [[zeus]] and [[plan-of-zeus]].

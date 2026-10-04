@@ -3,7 +3,7 @@ title: Like a lion
 greek: ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε λέων ὣς ἀλκὶ πεποιθώς
 kind: simile
 tags: [wild-animal, warfare]
-summary: When Pandarus falls, Aeneas leaps down and stands over the body “like a lion trusting in his courage”, holding his spear and shield in front of it and shouting terribly, until Diomedes crushes his hip with a stone (5.297–310).
+summary: “Like a lion”, the lion as a short comparison that builds no scene. Aeneas stands over the body of Pandarus like a lion trusting in his courage (5.297–310); Agamemnon rushes against the two sons of Antimachus like a lion and drags Iphidamas' spear toward him, eager as a lion (11.129, 11.239).
 aliases: [Aeneas like a lion, a lion trusting in his courage, like a lion over the body]
 grc: [λέων ὣς ἀλκὶ πεποιθώς]
 en: [bestrode it like a]

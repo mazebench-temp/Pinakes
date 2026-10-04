@@ -4,7 +4,8 @@ greek: Πλευρών
 kind: place
 tags: [mainland-greece, city, aetolia]
 summary: A town of the Aetolians near the lagoons of the Achelous delta, one of the two chief towns of Oeneus' family with Calydon.
-grc: [Πλευρῶνʼ]
+# ^ keeps out πλευρῶν "ribs" (11.437).
+grc: ["^Πλευρῶνʼ"]
 ---
 
 {{quote:e710f956-b1d0-5c89-b66d-c4ee1ce5feef}}

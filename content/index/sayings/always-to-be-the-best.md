@@ -19,4 +19,8 @@ Glaucus ends the story of his family with his father's words. Hippolochus sent h
 
 **Hector.** Book 6 gives the verb once more, in Hector's picture of the future. A man who sees Andromache weeping in Argos will say, “This is the wife of Hector, who was always the best in the fighting (ὃς ἀριστεύεσκε μάχεσθαι) of the horse-taming Trojans” (6.460–461). Hector has just told her the same of himself, that he has learned “to be brave always, and to fight among the foremost of the Trojans” (6.444–445). The ideal Hippolochus gave Glaucus is the one Hector lives by, and its reward is the fame spoken over his widow's captivity (see [[kleos]]).
 
-In the Iliad the one who is best has a duty as well as a name. Odysseus, cut off alone, reminds himself that “cowards leave the fighting, but the one who is best in battle must stand his ground firmly” (11.408–410), and Sarpedon tells Glaucus that the honors the Lycians give them oblige them to stand in the front rank (12.310–321). See [[the-aristeia]] and [[best-of-the-achaeans]].
+In the Iliad the one who is best has a duty as well as a name. Odysseus, cut off alone, reminds himself that “it is cowards who leave the fighting, but whoever would be best in battle must by all means stand his ground strongly” (11.408–410), and Sarpedon tells Glaucus that the honors the Lycians give them oblige them to stand in the front rank (12.310–321). See [[the-aristeia]] and [[best-of-the-achaeans]].
+
+## Outside Homer
+
+The verse became a motto. Strabo tells how Pompey, at Rhodes on his way to the war against the pirates, heard the philosopher Posidonius lecture, and on leaving asked whether he had any instruction for him; Posidonius answered with this verse, αἰὲν ἀριστεύειν καὶ ὑπείροχον ἔμμεναι ἄλλων (*Geography* 11.1.6; see [[strabo]]).

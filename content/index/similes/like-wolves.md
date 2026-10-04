@@ -3,7 +3,7 @@ title: Like wolves
 greek: οἳ δὲ λύκοι ὣς ἀλλήλοις ἐπόρουσαν
 kind: simile
 tags: [wild-animal, warfare]
-summary: Over the body of Elephenor, killed as he dragged away the first dead man of the battle, Trojans and Achaeans “like wolves leapt upon one another, and man hurled man about” (4.470–472).
+summary: Both armies fall on each other “like wolves”, with no prey in the simile but the other side. Trojans and Achaeans fight so over the body of Elephenor in the first battle (4.470–472), and again in the even fighting of the morning of the third day of battle, while Strife looks on and rejoices (11.72–73).
 aliases: [they fought like wolves, the fight over Elephenor]
 grc: [λύκοι ὣς, ἀλλήλοις ἐπόρουσαν, ἐδνοπάλιζεν]
 en: [leapt upon one another, man hurled man about]

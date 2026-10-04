@@ -5,14 +5,15 @@ kind: epithet
 tags: [divine-epithet, feast]
 summary: The laughter of the gods at Hephaestus (1.599), the source of the phrase “Homeric laughter.”
 aliases: [Homeric laughter, asbestos gelos]
-grc: [ἄσβεστος]
+# The laughter verse only (1.599 = Od. 8.326); the battle cry ἄσβεστος βοή is unquenchable-cry.
+grc: ["ἄσβεστος δʼ ἄρʼ ἐνῶρτο γέλως"]
 en: [unquenchable]
 of: [olympians]
 ---
 
 ## Meaning
 
-ἄσβεστος = ἀ- (“not”) + σβέννυμι (“quench, put out”): “unquenchable,” like a fire that cannot be put out. Homer uses it of fire, of a battle cry, and of fame (κλέος ἄσβεστον). English “asbestos” comes from the same word.
+ἄσβεστος = ἀ- (“not”) + σβέννυμι (“quench, put out”): “unquenchable,” like a fire that cannot be put out. Homer uses it of fire, of a battle cry ([[unquenchable-cry]]), and of fame (κλέος ἄσβεστον). English “asbestos” comes from the same word.
 
 ## Use
 

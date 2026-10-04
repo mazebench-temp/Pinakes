@@ -5,7 +5,7 @@ passages:
   - 9.574-596 | Meleager's suppliants
 ---
 
-**Without the gesture.** The pattern's second step is missing. The envoys plead as guests, seated and fed, and no one clasps Achilles' knees, though the errand is called an entreaty (λίσσεσθαι, 9.520, 9.698; see [[supplication]] and [[visit-scene]]). In Book 11 Achilles tells Patroclus that “now I think the Achaeans will stand around my knees begging, for a need has come that is no longer bearable” (11.609–610; see [[embassy]]).
+**Without the gesture.** The pattern's second step is missing. The envoys plead as guests, seated and fed, and no one clasps Achilles' knees, though the errand is called an entreaty (λίσσεσθαι, 9.520, 9.698; see [[supplication]] and [[visit-scene]]). In Book 11 Achilles tells Patroclus that “now I think the Achaeans will stand around my knees beseeching me; for a need has come that is no longer bearable” (11.609–610; see [[embassy]]).
 
 **Phoenix's suppliants.** The speech of the old tutor is made of supplications. His mother “kept begging me by my knees” (λισσέσκετο γούνων) to lie with the concubine (9.451), and his kinsmen begged him to stay (9.465; see [[the-flight-of-phoenix]]). Men turn even the gods by entreaty (λισσόμενοι, 9.501), and the Prayers, the daughters of Zeus, are suppliants made into goddesses: whoever respects them is helped, and against whoever refuses them they go to Zeus and pray (9.502–512; see [[litai]] and [[prayer]]).
 
