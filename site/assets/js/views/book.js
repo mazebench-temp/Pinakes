@@ -1,8 +1,8 @@
-// "Book at a glance": the shape of the book, who speaks, who is named most.
+// "Book at a glance": the shape of the book, who speaks (or, in prose, what is quoted), who is named most.
 import { el, esc, icon, on, plural, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
-import { BOOK_LETTERS } from './library.js';
-import { linesIn, presentIn, firstKeyIn } from '../lib/scope.js';
+import { linesIn, presentIn, firstKeyIn, firstLabelIn } from '../lib/scope.js';
+import { bookWord, isBekker, isProse, bekkerLabel, rangeLabel } from '../lib/cite.js';
 
 function tip(root) {
   const t = el('<div class="chart-tip" role="tooltip" hidden></div>');
@@ -32,7 +32,9 @@ export async function render(route) {
   const title = id => cat.by.entries.get(id)?.title ?? id;
   const S = `${workId}.${book}`;
   const here = e => linesIn(e, S, cat);
-  const firstHere = e => { const m = firstKeyIn(e, S, cat).match(/(\d+)\.(\d+)$/); return m ? `${+m[1]}.${+m[2]}` : ''; };
+  const firstHere = e => firstLabelIn(e, S, cat);
+  const Book = bookWord(work), book_ = Book.toLowerCase(), prose = isProse(work), bekker = isBekker(work);
+  const span = (a, b) => rangeLabel(work, book, a, b).replace(/^\d+\./, '');
 
   // Who speaks: lines per speaker, plus the narrator's share as context.
   const bySpeaker = new Map();
@@ -55,10 +57,30 @@ export async function render(route) {
 
   const stories = cat.entries.filter(e => e.kind === 'story' && presentIn(e, S, cat)).sort((a, b) => firstKeyIn(a, S, cat).localeCompare(firstKeyIn(b, S, cat)));
   const tokens = text.lines.reduce((a, l) => a + l.tk.length, 0);
-  const ticks = [1, ...Array.from({ length: Math.floor((last - 1) / 100) }, (_, i) => (i + 1) * 100).filter(t => last - t > 40), last];
+  // Positions along the book by a line's place in it (Bekker numbers jump at each column).
+  const idx = new Map(text.lines.map((l, i) => [l.n, i]));
+  const at = i => (i / Math.max(1, total - 1)) * 100;
+  const pos = n => at(idx.get(n) ?? 0);
+  const end = n => at((idx.get(n) ?? total - 1) + 1);
+  // Axis: every hundredth line of verse; in Bekker prose, the start of each column.
+  const ticks = bekker
+    ? text.lines.map(l => l.n).filter((n, i, all) => i === 0 || i === all.length - 1 || Math.floor(n / 50) !== Math.floor(all[i - 1] / 50))
+      .filter((n, i, all) => i === 0 || i === all.length - 1 ? true : idx.get(n) - idx.get(all[i - 1]) >= total * 0.14 && idx.get(all.at(-1)) - idx.get(n) >= total * 0.14)
+    : [1, ...Array.from({ length: Math.floor((last - 1) / 100) }, (_, i) => (i + 1) * 100).filter(t => last - t > 40), last];
+  const tickLabel = n => bekker ? bekkerLabel(n) : String(n);
   const dayNums = text.days.flatMap(d => (d.label.match(/\d+/g) ?? []).map(Number));
   const dayLabel = dayNums.length ? (Math.min(...dayNums) === Math.max(...dayNums) ? String(dayNums[0]) : `${Math.min(...dayNums)}–${Math.max(...dayNums)}`) : '';
-  const pos = n => ((n - 1) / (last - 1)) * 100;
+  const quotations = text.quotations ?? [];
+  const stats = [
+    `<a class="stat" href="#/read/${workId}/${book}"><b>${total}</b><span>lines of ${prose ? 'prose' : 'verse'}</span></a>`,
+    work.lexicon ? `<a class="stat" href="#/vocab/${workId}/${book}"><b>${tokens.toLocaleString()}</b><span>words, ${text.lemmas.length.toLocaleString()} distinct</span></a>`
+      : `<div class="stat"><b>${tokens.toLocaleString()}</b><span>words of Greek</span></div>`,
+    text.speeches.length || !prose ? `<div class="stat"><b>${text.speeches.length}</b><span>speeches, ${Math.round((100 * spoken) / total)}% of the lines</span></div>` : '',
+    quotations.length ? `<div class="stat"><b>${quotations.length}</b><span>${quotations.length === 1 ? 'quotation' : 'quotations'} of poetry</span></div>` : '',
+    dayLabel ? `<div class="stat"><b>${dayLabel}</b><span>${dayLabel.includes('–') ? 'days' : 'day'} of the poem's action</span></div>` : '',
+    earlier.length ? `<a class="stat" href="#/index?in=${esc(S)}&sort=text"><b>${fresh.length}</b><span>index entries first met here</span></a>` : '',
+    earlier.length && work.lexicon ? `<a class="stat" href="#/vocab/${workId}/${book}?new=1"><b>${text.lemmas.filter(l => l[4]).length.toLocaleString()}</b><span>words new to the ${esc(work.title)}</span></a>` : '',
+  ].filter(Boolean);
 
   const barRow = ({ href, label, sub, value, max, muted, tipHtml }) => `
     <a class="bar-row${muted ? ' muted' : ''}" href="${href}" data-tip="${esc(tipHtml)}">
@@ -68,35 +90,36 @@ export async function render(route) {
 
   const view = el(`<div class="view">
     <header class="page-head">
-      <div class="eyebrow">${esc(work.title)} · Book ${book}</div>
-      <h1 class="large-title" data-title-anchor>Book ${book} at a glance</h1>
+      <div class="eyebrow">${esc(work.title)} · ${Book} ${book}</div>
+      <h1 class="large-title" data-title-anchor>${Book} ${book} at a glance</h1>
       <p class="page-sub">${esc(text.summary)}</p>
     </header>
 
-    <div class="stat-grid${earlier.length ? '' : ' four'}">
-      <a class="stat" href="#/read/${workId}/${book}"><b>${total}</b><span>lines of verse</span></a>
-      <a class="stat" href="#/vocab/${workId}/${book}"><b>${tokens.toLocaleString()}</b><span>words, ${text.lemmas.length.toLocaleString()} distinct</span></a>
-      <div class="stat"><b>${text.speeches.length}</b><span>speeches, ${Math.round((100 * spoken) / total)}% of the lines</span></div>
-      ${dayLabel ? `<div class="stat"><b>${dayLabel}</b><span>${dayLabel.includes('–') ? 'days' : 'day'} of the poem's action</span></div>` : ''}
-      ${earlier.length ? `<a class="stat" href="#/index?in=${esc(S)}&sort=text"><b>${fresh.length}</b><span>index entries first met here</span></a>
-        <a class="stat" href="#/vocab/${workId}/${book}?new=1"><b>${text.lemmas.filter(l => l[4]).length.toLocaleString()}</b><span>words new to the ${esc(work.title)}</span></a>` : ''}
-    </div>
+    <div class="stat-grid${stats.length === 4 ? ' four' : ''}">${stats.join('')}</div>
 
     <section class="section">
-      <div class="section-head"><h2 class="section-title">The shape of the book</h2></div>
-      <p class="footnote-text" style="margin:0 4px 10px">Each scene placed along the book's ${total} lines.</p>
+      <div class="section-head"><h2 class="section-title">The shape of the ${book_}</h2></div>
+      <p class="footnote-text" style="margin:0 4px 10px">Each ${prose ? 'section' : 'scene'} placed along the ${book_}'s ${total} lines.</p>
       <div class="chart gantt">
-        ${text.scenes.map((s, i) => `<a class="bar-row" href="#/read/${workId}/${book}?l=${s.from}" data-tip="${esc(`<b>${esc(s.title)}</b><br>Lines ${s.from}–${s.to} · ${plural(s.to - s.from + 1, 'line')}`)}">
+        ${text.scenes.map((s, i) => `<a class="bar-row" href="#/read/${workId}/${book}?l=${s.from}" data-tip="${esc(`<b>${esc(s.title)}</b><br>Lines ${esc(span(s.from, s.to))} · ${plural((idx.get(s.to) ?? 0) - (idx.get(s.from) ?? 0) + 1, 'line')}`)}">
           <span class="bar-label"><span class="bar-name">${esc(s.title)}</span></span>
-          <span class="bar-track">${ticks.map(t => `<i class="grid" style="left:${pos(t)}%"></i>`).join('')}<span class="span" style="left:${pos(s.from)}%;width:${Math.max(0.8, pos(s.to + 1) - pos(s.from))}%"></span></span>
-          <span class="bar-value">${s.to - s.from + 1}</span></a>`).join('')}
-        <div class="bar-row axis" aria-hidden="true"><span class="bar-label"></span><span class="bar-track">${ticks.map(t => `<span class="tick" style="left:${pos(t)}%">${t}</span>`).join('')}</span><span class="bar-value"></span></div>
+          <span class="bar-track">${ticks.map(t => `<i class="grid" style="left:${pos(t)}%"></i>`).join('')}<span class="span" style="left:${pos(s.from)}%;width:${Math.max(0.8, end(s.to) - pos(s.from))}%"></span></span>
+          <span class="bar-value">${(idx.get(s.to) ?? 0) - (idx.get(s.from) ?? 0) + 1}</span></a>`).join('')}
+        <div class="bar-row axis" aria-hidden="true"><span class="bar-label"></span><span class="bar-track">${ticks.map(t => `<span class="tick" style="left:${pos(t)}%">${tickLabel(t)}</span>`).join('')}</span><span class="bar-value"></span></div>
       </div>
     </section>
 
-    <section class="section">
+    ${quotations.length ? `<section class="section">
+      <div class="section-head"><h2 class="section-title">Quoted</h2></div>
+      <p class="footnote-text" style="margin:0 4px 10px">The poetry Aristotle quotes in ${Book} ${book}, and where it comes from.</p>
+      <div class="list">${quotations.map(q => `<a class="row" href="#/read/${workId}/${book}?l=${q.from}${q.to !== q.from ? `-${q.to}` : ''}"><span class="row-main">
+        <span class="row-title"><span>${esc(q.source ? title(q.source) : 'Unknown source')}${q.cite ? ` · ${esc(q.cite)}` : ''}</span><span class="row-meta" style="margin-left:auto;font-size:13px">${esc(span(q.from, q.to))}</span></span>
+        ${q.note ? `<span class="row-sub">${esc(q.note)}</span>` : ''}</span>${icon('chevron', 'chev')}</a>`).join('')}</div>
+    </section>` : ''}
+
+    ${text.speeches.length || !prose ? `<section class="section">
       <div class="section-head"><h2 class="section-title">Who speaks</h2></div>
-      <p class="footnote-text" style="margin:0 4px 10px">Lines of direct speech in Book ${book}, by speaker. The narrator's lines are shown in gray for comparison.</p>
+      <p class="footnote-text" style="margin:0 4px 10px">Lines of direct speech in ${Book} ${book}, by speaker. The narrator's lines are shown in gray for comparison.</p>
       <div class="chart">
         ${speakers.map(([id, v]) => barRow({
           href: `#/entry/${esc(id)}`, label: esc(title(id)), sub: plural(v.speeches, 'speech', 'speeches'),
@@ -105,7 +128,7 @@ export async function render(route) {
         ${barRow({ href: `#/read/${workId}/${book}`, label: 'Narration', sub: 'the poet’s own voice', value: total - spoken, max: maxSpeak, muted: true,
           tipHtml: `<b>Narration</b><br>${plural(total - spoken, 'line')} · ${Math.round((100 * (total - spoken)) / total)}% of the book` })}
       </div>
-    </section>
+    </section>` : ''}
 
     <section class="section">
       <div class="section-head"><h2 class="section-title">Most named</h2><a class="section-link" href="#/index?in=${esc(S)}&sort=freq">All by frequency</a></div>
@@ -126,9 +149,9 @@ export async function render(route) {
       }).join('')}</div></section>` : ''}
 
     <div class="spacer"></div>
-    <div class="btn-row"><a class="btn" href="#/read/${workId}/${book}">${icon('book')}Read Book ${book}</a><a class="btn secondary" href="#/vocab/${workId}/${book}">Vocabulary</a></div>
+    <div class="btn-row"><a class="btn" href="#/read/${workId}/${book}">${icon('book')}Read ${Book} ${book}</a>${work.lexicon ? `<a class="btn secondary" href="#/vocab/${workId}/${book}">Vocabulary</a>` : ''}</div>
   </div>`);
 
   const t = tip(view);
-  return { title: `Book ${book} at a glance`, el: view, unmount: () => t.remove() };
+  return { title: `${Book} ${book} at a glance`, el: view, unmount: () => t.remove() };
 }

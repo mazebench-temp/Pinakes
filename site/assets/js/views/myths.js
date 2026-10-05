@@ -18,7 +18,7 @@ export async function render(route, { setQuery }) {
     const narrator = s.narrator ? ent(s.narrator)?.title : null;
     return `<a class="row story-row" href="#/entry/${esc(s.id)}"><span class="row-main">
       <span class="row-title"><span>${esc(s.title)}</span></span>
-      <span class="row-sub one">${narrator ? `Told by ${esc(narrator)} · ` : ''}${esc(s.passages?.[0] ? `Il. ${s.passages[0].replace('-', '–')}` : s.first ? `Il. ${s.first}` : '')}</span></span>
+      <span class="row-sub one">${narrator ? `Told by ${esc(narrator)} · ` : ''}${esc(s.passage ?? s.where ?? '')}</span></span>
       ${m ? `<span class="mode-pill ${m.id}">${esc(m.label.replace('Told by a character', 'Told'))}</span>` : ''}${icon('chevron', 'chev')}</a>`;
   };
 
@@ -69,7 +69,7 @@ export async function render(route, { setQuery }) {
   };
 
   const sync = () => setQuery({ view: sort === 'time' ? '' : sort, mode: mode === 'all' ? '' : mode, empty: showEmpty ? '' : '0', p: '' });
-  view.querySelector('[data-seg]').append(segmented([['time', 'Mythic time'], ['text', 'Order in the poem']], sort, v => {
+  view.querySelector('[data-seg]').append(segmented([['time', 'Mythic time'], ['text', 'Order in the text']], sort, v => {
     sort = v; store.setPref('mythsSort', v); sync(); draw();
   }, 'Arrange'));
   on(view, 'click', '.chip[data-mode]', (e, b) => {

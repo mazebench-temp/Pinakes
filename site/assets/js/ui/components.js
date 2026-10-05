@@ -2,6 +2,7 @@
 import { el, esc, icon, copyText, on, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { quoteId } from '../lib/uuid.js';
+import { lineLabel } from '../lib/cite.js';
 
 // ── Toasts ──────────────────────────────────────────────────────────────────
 export function toast(message, iconName = 'check') {
@@ -184,8 +185,9 @@ export function hydrateQuotes(root, quotes) {
 }
 
 /** Register a quote with the dev server when it is running; always returns an insertable tag. */
-export async function makeQuoteTag({ work, ref, title }) {
-  const readable = `{{quote:${work.replace(/^homer\./, '').replace(/^./, c => c.toUpperCase())} ${ref}${title ? ` | ${title}` : ''}}}`;
+export async function makeQuoteTag({ work, workTitle, ref, title }) {
+  const name = workTitle ?? work.replace(/^[a-z]+\./, '').replace(/^./, c => c.toUpperCase());
+  const readable = `{{quote:${name} ${ref}${title ? ` | ${title}` : ''}}}`;
   try {
     const r = await fetch('api/quotes', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ work, ref, title }) });
     if (r.ok) { const { id } = await r.json(); return { tag: `{{quote:${id}}}`, registered: true }; }
@@ -213,8 +215,8 @@ export async function peek(id, { scope = null } = {}) {
       ${e.greek ? `<div class="entry-greek"><span class="grc">${esc(e.greek)}</span>${e.translit ? `<span class="rom">${esc(e.translit)}</span>` : ''}</div>` : ''}
       <p class="lead" style="font-size:16.5px">${esc(e.summary)}</p>
       ${note ? `<p class="scope-lead"><span class="scope-tag">${esc(sc?.label ?? '')}</span>${esc(note)}</p>` : ''}
-      <div class="entry-stats">${here && here[0] ? `<span><b>${here[0]}</b> ${here[0] === 1 ? 'line' : 'lines'} in ${esc(sc?.label ?? '')}</span>${here[1] ? `<span>first at <b>${esc(`${sc?.book}.${here[1]}`)}</b></span>` : ''}` : ''}
-        ${!here || multi ? `${e.lines ? `<span><b>${e.lines}</b> ${e.lines === 1 ? 'line' : 'lines'}${multi ? ' in all' : ''}</span>` : ''}${!here && e.first ? `<span>first at <b>${esc(e.first)}</b></span>` : ''}` : ''}</div>
+      <div class="entry-stats">${here && here[0] ? `<span><b>${here[0]}</b> ${here[0] === 1 ? 'line' : 'lines'} in ${esc(sc?.label ?? '')}</span>${here[1] ? `<span>first at <b>${esc(lineLabel(cat.by.works.get(sc?.work), sc?.book, here[1]))}</b></span>` : ''}` : ''}
+        ${!here || multi ? `${e.lines ? `<span><b>${e.lines}</b> ${e.lines === 1 ? 'line' : 'lines'}${multi ? ' in all' : ''}</span>` : ''}${!here && e.first ? `<span>first at <b>${esc(e.where ?? e.first)}</b></span>` : ''}` : ''}</div>
     </div>
     <div class="btn-row" style="margin-top:14px"><a class="btn" href="#/entry/${esc(id)}${here && multi ? `?in=${esc(scope)}` : ''}">Open ${esc(kind?.one?.toLowerCase() ?? 'entry')}</a></div>
   </div>`);

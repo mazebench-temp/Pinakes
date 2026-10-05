@@ -530,7 +530,7 @@ export function build({ write = true, log = console.log } = {}) {
       ...(pages.get(e.id).notes.some(n => n.summary) ? { noteSummary: Object.fromEntries(pages.get(e.id).notes.filter(n => n.summary).map(n => [n.scope, n.summary])) } : {}),
       ...(e.period ? { period: e.period } : {}), ...(e.mode ? { mode: e.mode } : {}), ...(e.narrator ? { narrator: e.narrator } : {}),
       ...(e.of.length ? { of: e.of } : {}), ...(e.participants.length ? { participants: e.participants } : {}),
-      ...(e.refs.length ? { refs: e.refs } : {}), ...(e.passages.length ? { passages: e.passages.map(p => p.split('|')[0].trim()) } : {}), ...(e.source ? { source: e.source } : {}), ...(e.featured ? { featured: true } : {}),
+      ...(e.refs.length ? { refs: e.refs } : {}), ...(e.passages.length ? { passages: e.passages.map(p => p.split('|')[0].trim()) } : {}), ...(passagesOf.get(e.id).length ? { passage: passagesOf.get(e.id)[0].short } : {}), ...(e.source ? { source: e.source } : {}), ...(e.featured ? { featured: true } : {}),
       ...(e.sort !== null ? { sort: e.sort } : {}), ...(e.order !== null ? { order: e.order } : {}),
     };
   });
@@ -596,7 +596,7 @@ export function build({ write = true, log = console.log } = {}) {
     works: works.map(w => ({
       id: w.id, author: w.author, title: w.title, greek: w.greek, genre: w.genre, meter: w.meter, date: w.date,
       summary: w.summary, citation: w.citation, display: w.display, bookCount: w.bookCount, books: w.books ?? {},
-      available: [...w.texts.keys()], editions: w.editions.map(({ id, lang, label, name, credit }) => ({ id, lang, label, name, credit })),
+      available: [...w.texts.keys()], lexicon: [...w.texts.values()].some(t => t.lexicon), editions: w.editions.map(({ id, lang, label, name, credit }) => ({ id, lang, label, name, credit })),
       lines: [...w.texts.values()].reduce((s, t) => s + t.editions.grc.size, 0),
       notesHtml: notesFor(w),
     })),

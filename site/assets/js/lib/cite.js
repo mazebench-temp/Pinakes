@@ -67,3 +67,9 @@ export function parseLineInput(work, s, lines) {
   if (col) return lines.find(n => (n % 100 >= 50 ? 'b' : 'a') === col[1] && n % 50 === +col[2]) ?? null;
   return null;
 }
+
+/** The letters of Homer's books, Α to Ω. */
+export const BOOK_LETTERS = 'ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ';
+
+/** A book's mark: its letter (Α), or a chapter's numeral (α′, κϛ′). */
+export const bookMark = (work, book) => work?.books?.[book]?.letter || (isProse(work) ? String(book) : BOOK_LETTERS[book - 1]) || String(book);

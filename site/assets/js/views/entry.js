@@ -3,6 +3,7 @@ import * as store from '../lib/store.js';
 import { enhanceArticle } from '../ui/components.js';
 import { entryRow } from './index.js';
 import { ALL, within, label as scopeLabel, longLabel, chooseScope, remember, presentIn, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
+import { lineLabel, rangeLabel, bookWord } from '../lib/cite.js';
 
 /** Wrap character ranges of `text` in <mark>. */
 export function mark(text, ranges = []) {
@@ -92,7 +93,7 @@ export async function render(route, { setQuery }) {
   const occRow = o => {
     const w = work(o.work);
     const via = o.via === 'ref' ? '<span class="via">by reference</span>' : o.via === 'en' ? '<span class="via">in translation</span>' : '';
-    return `<a class="occ" href="#/read/${o.work}/${o.book}?l=${o.n}"><span class="on">${esc(w?.citation.abbr ?? '')} ${o.book}.${o.n}${via}${o.forms?.length ? `<span style="font-weight:500;color:var(--text-2);font-family:var(--greek);letter-spacing:0;font-size:13px">${esc(o.forms.join(', '))}</span>` : ''}</span>
+    return `<a class="occ" href="#/read/${o.work}/${o.book}?l=${o.n}"><span class="on">${esc(w?.citation.abbr ?? '')} ${esc(lineLabel(w, o.book, o.n))}${via}${o.forms?.length ? `<span style="font-weight:500;color:var(--text-2);font-family:var(--greek);letter-spacing:0;font-size:13px">${esc(o.forms.join(', '))}</span>` : ''}</span>
       <span class="g" lang="grc">${mark(o.grc, o.hg)}</span><span class="e">${mark(o.en, o.he)}</span></a>`;
   };
   const rowsOf = ids => ids.map(ent).filter(Boolean).map(x => entryRow(x, cat, { meta: 'none' })).join('');
@@ -109,7 +110,7 @@ export async function render(route, { setQuery }) {
       occ.length ? `<span><b>${occ.length}</b> ${occ.length === 1 ? 'line' : 'lines'}${S !== ALL ? ` in ${esc(scopeLabel(S, cat))}` : ''}</span>` : '',
       (() => { const m = occ.filter(o => o.via === 'grc').length; return m && m !== occ.length ? `<span><b>${m}</b> named in Greek</span>` : ''; })(),
       speeches.length ? `<span>speaks <b>${speeches.reduce((s, sp) => s + sp.to - sp.from + 1, 0)}</b> lines in <b>${speeches.length}</b> ${speeches.length === 1 ? 'speech' : 'speeches'}</span>` : '',
-      first ? `<span>first at <a href="#/read/${first.work}/${first.book}?l=${first.n}"><b>${first.book}.${first.n}</b></a></span>` : '',
+      first ? `<span>first at <a href="#/read/${first.work}/${first.book}?l=${first.n}"><b>${esc(lineLabel(work(first.work), first.book, first.n))}</b></a></span>` : '',
     ].filter(Boolean).join('');
     const leads = S === ALL ? [] : shown.filter(n => n.scope === S && n.summaryHtml);
     scopedHead.innerHTML = `${leads.map(n => `<p class="scope-lead article"><span class="scope-tag">${esc(scopeLabel(n.scope, cat))}</span>${n.summaryHtml}</p>`).join('')}
@@ -159,7 +160,14 @@ export async function render(route, { setQuery }) {
       const w = work(s.work);
       return `<a class="row speech-row" href="#/read/${s.work}/${s.book}?l=${s.from}-${s.to}"><span class="row-main">
         <span class="row-title"><span>To ${s.to_whom.map(x => esc(ent(x)?.title ?? x)).join(', ')}</span></span>
-        <span class="row-sub one">${esc(w?.citation.abbr ?? '')} ${s.book}.${s.from}–${s.to} · ${plural(s.to - s.from + 1, 'line')}${s.kind ? ` · ${esc(s.kind)}` : ''}</span></span>${icon('chevron', 'chev')}</a>`;
+        <span class="row-sub one">${esc(w?.citation.abbr ?? '')} ${esc(rangeLabel(w, s.book, s.from, s.to))} · ${plural(s.to - s.from + 1, 'line')}${s.kind ? ` · ${esc(s.kind)}` : ''}</span></span>${icon('chevron', 'chev')}</a>`;
+    }).join('');
+    // Where the entry is quoted: a poet or poem that Aristotle quotes, or the quotation itself.
+    const quotedRows = (e.quoted ?? []).filter(q => inS(q.work, q.book)).map(q => {
+      const w = work(q.work);
+      return `<a class="row" href="#/read/${q.work}/${q.book}?l=${q.from}${q.to !== q.from ? `-${q.to}` : ''}"><span class="row-main">
+        <span class="row-title"><span>${esc(w?.title ?? q.work)} ${esc(rangeLabel(w, q.book, q.from, q.to))}</span>${q.cite ? `<span class="row-meta" style="margin-left:auto;font-size:13px">${esc(q.cite)}</span>` : ''}</span>
+        ${q.grc ? `<span class="row-sub one" lang="grc" style="font-family:var(--greek);font-size:15px">${esc(q.grc)}</span>` : ''}</span>${icon('chevron', 'chev')}</a>`;
     }).join('');
     const passages = (e.passages ?? []).filter(p => inS(p.work, p.book)).map(p => `<a class="row" href="${esc(p.href)}"><span class="row-main"><span class="row-title"><span>${esc(p.label || p.short)}</span></span>${p.label ? `<span class="row-sub one">${esc(p.short)}</span>` : ''}</span>${icon('chevron', 'chev')}</a>`).join('');
     const epithets = e.epithets.filter(x => presentS(ent(x)));
@@ -179,11 +187,13 @@ export async function render(route, { setQuery }) {
       ${section('Epithets', epithets.length ? `<div class="list">${rowsOf(epithets)}</div>` : '')}
       ${section('Stories', stories.length ? `<div class="list">${rowsOf(stories)}</div>` : '')}
       ${section('Speeches', speechRows ? `<div class="list">${speechRows}</div>` : '')}
+      ${section('Quoted', quotedRows ? `<div class="list">${quotedRows}</div>` : '')}
       ${section('Anecdotes & notes', anecdotes.length ? `<div class="list">${rowsOf(anecdotes)}</div>` : '')}
       ${occ.length ? `<section class="section" id="occurrences"><div class="section-head"><h2 class="section-title">Occurrences</h2><span class="muted num" style="font-size:15px">${occ.length}</span></div>
         ${[...byBook].map(([k, list]) => {
           const [wid, b] = k.split(' ');
-          return `<div class="section-title small" style="margin:0 4px 8px">${esc(work(wid)?.title ?? wid)} ${b}</div>
+          const w = work(wid);
+          return `<div class="section-title small" style="margin:0 4px 8px">${esc(w?.title ?? wid)}${bookWord(w) === 'Book' ? ' ' : `, ${esc(bookWord(w))} `}${b}</div>
             <div class="list occ-list" data-total="${list.length}">${list.slice(0, OCC_PAGE).map(occRow).join('')}
             ${list.length > OCC_PAGE ? `<button class="more-btn" type="button" data-more="${esc(k)}">Show all ${list.length}</button>` : ''}</div>`;
         }).join('')}</section>` : ''}

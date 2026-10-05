@@ -1,6 +1,7 @@
 // Scopes: the part of the library an article is studied at. An author ("homer"), a work ("homer.iliad"),
 // or a book of a work ("homer.iliad.2"); ALL is everything. The choice is remembered as the study scope.
 import * as store from './store.js';
+import { lineLabel, bookWord } from './cite.js';
 
 export const ALL = 'all';
 
@@ -31,15 +32,35 @@ export function linesIn(e, S, cat) {
   return n;
 }
 
-/** Sort key of a catalog entry's first appearance within scope S. */
-export function firstKeyIn(e, S, cat) {
-  if (S === ALL) return e.firstKey;
+// Works in library order, for sort keys that agree with the catalog's own (firstKey).
+const ranks = new WeakMap();
+const workRank = (cat, w) => {
+  if (!ranks.has(cat)) ranks.set(cat, new Map(cat.works.map((x, i) => [x.id, i])));
+  return ranks.get(cat).get(w) ?? 99;
+};
+
+/** A catalog entry's first appearance within scope S, { work, book, n }; n is 0 for a note without a line. */
+export function firstIn(e, S, cat) {
   for (const [s, [, first]] of Object.entries(e.in ?? {})) {
     if (!within(s, S, cat)) continue;
     const d = def(cat, s);
-    return `${d?.work ?? s} ${String(d?.book ?? 0).padStart(3, '0')}.${String(first || 99999).padStart(5, '0')}`;
+    return d?.kind === 'book' ? { work: d.work, book: d.book, n: first } : null;
   }
-  return '~';
+  return null;
+}
+
+/** Sort key of a catalog entry's first appearance within scope S (the same form as the catalog's firstKey). */
+export function firstKeyIn(e, S, cat) {
+  if (S === ALL) return e.firstKey;
+  const f = firstIn(e, S, cat);
+  return f ? `${String(workRank(cat, f.work)).padStart(2, '0')} ${String(f.book).padStart(3, '0')}.${String(f.n || 999999).padStart(6, '0')}` : '~';
+}
+
+/** That first line as cited: "2.494", "1451a36"; '' when there is none. */
+export function firstLabelIn(e, S, cat) {
+  if (S === ALL) return e.first ?? '';
+  const f = firstIn(e, S, cat);
+  return f?.n ? lineLabel(cat.by.works.get(f.work), f.book, f.n) : '';
 }
 
 /** The scope to show: an explicit ?in=, else the remembered study scope, else everything. */
@@ -113,7 +134,7 @@ export function pickerHtml(tree, S, cat, { counts = () => 0, all = 'All', aboutA
     row('', 'Author', [chip(ALL, e(all), S === ALL, counts(ALL)), ...tree.authors.map(a => chip(a, e(name(a)), on(a), counts(a)))]),
     author ? row(' works', `${name(author)}, by work`, [chip(author, e(aboutAuthor), S === author, 0, ` title="${e(name(author))} as a whole"`),
       ...works.map(w => chip(w, e(name(w)), on(w), counts(w)))]) : '',
-    work ? row(' books', `${name(work)}, by book`, [chip(work, e(aboutWork), S === work, 0, ` title="${e(name(work))} as a whole"`),
-      ...books.map(b => chip(b, e(def(b)?.book ?? b), S === b, 0, ` aria-label="Book ${e(def(b)?.book ?? '')}" title="${e(def(b)?.long ?? b)}"`))]) : '',
+    work ? row(' books', `${name(work)}, by ${bookWord(cat.by.works.get(work)).toLowerCase()}`, [chip(work, e(aboutWork), S === work, 0, ` title="${e(name(work))} as a whole"`),
+      ...books.map(b => chip(b, e(def(b)?.book ?? b), S === b, 0, ` aria-label="${e(bookWord(cat.by.works.get(work)))} ${e(def(b)?.book ?? '')}" title="${e(def(b)?.long ?? b)}"`))]) : '',
   ].join('');
 }
