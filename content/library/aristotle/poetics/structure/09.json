@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    {"from": "1451a36", "to": "1451b11", "title": "Poetry and History", "summary": "The poet tells what could happen, the historian what has happened; Herodotus in verse would still be history. Poetry is more philosophical and more serious, speaking of universals, history of particulars: what Alcibiades did and suffered."},
+    {"from": "1451b12", "to": "1451b26", "title": "Names", "summary": "Comedy builds its plot and then gives names; tragedy keeps to real names, because what has happened is plainly possible. Yet Agathon's Antheus invents everything and pleases, and the traditional stories are known to few."},
+    {"from": "1451b27", "to": "1451b32", "title": "A Maker of Plots", "summary": "The poet must be a maker of plots rather than of verses; if he takes what happened, he is still its maker."},
+    {"from": "1451b33", "to": "1452a1", "title": "Episodic Plots", "summary": "Episodic plots, whose episodes follow without probability or necessity, are the worst; bad poets write them for themselves, good poets for the actors."},
+    {"from": "1452a2", "to": "1452a11", "title": "The Marvelous", "summary": "Fear and pity come most when events happen against expectation but because of one another, as when the statue of Mitys at Argos fell on his murderer."}
+  ],
+  "speeches": [],
+  "days": []
+}

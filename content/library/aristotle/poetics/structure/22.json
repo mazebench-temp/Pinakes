@@ -1,0 +1,22 @@
+{
+  "scenes": [
+    {"from": "1458a18", "to": "1458a34", "title": "Clear but Not Mean", "summary": "Standard words give clarity but meanness, as in Cleophon and Sthenelus; unfamiliar words give dignity, but all metaphor makes a riddle and all rare words a barbarism. Diction must be a blend."},
+    {"from": "1458b1", "to": "1458b14", "title": "Lengthenings and Their Mockers", "summary": "Lengthenings and alterations serve both clarity and distinction; Euclides the elder's parodies miss the point, though moderation is needed."},
+    {"from": "1458b15", "to": "1458b31", "title": "One Word Makes the Difference", "summary": "Substitute standard words and a verse falls flat: Aeschylus' Philoctetes and Euripides', and Homer's lines rewritten."},
+    {"from": "1458b32", "to": "1459a3", "title": "Ariphrades' Mockery", "summary": "Ariphrades mocked the tragedians for phrases no one would say, not seeing that this is what lifts them."},
+    {"from": "1459a4", "to": "1459a16", "title": "The Gift for Metaphor", "summary": "The greatest thing is a gift for metaphor, which cannot be learned, for it is seeing likeness; compounds suit dithyramb, rare words heroic verse, metaphors iambics."}
+  ],
+  "quotations": [
+    {"from": "1458a29", "to": "1458a30", "source": "cleobulina", "entry": "the-riddle-of-the-cupping-glass", "cite": "a riddle, ascribed later to Cleobulina"},
+    {"from": "1458b9", "to": "1458b10", "source": "euclides-the-elder", "entry": "euclides-parodies", "cite": "Euclides the elder"},
+    {"from": "1458b10", "to": "1458b11", "source": "euclides-the-elder", "entry": "euclides-parodies", "cite": "Euclides the elder"},
+    {"from": "1458b23", "to": "1458b23", "source": "aeschylus", "entry": "the-ulcer-that-eats-my-foot", "cite": "Aeschylus, Philoctetes, fr. 253 Radt"},
+    {"from": "1458b25", "to": "1458b26", "source": "homer", "entry": "small-and-of-no-account", "cite": "Od. 9.515"},
+    {"from": "1458b27", "to": "1458b28", "source": "aristotle", "entry": "small-and-of-no-account", "cite": "Aristotle's rewording of Od. 9.515"},
+    {"from": "1458b28", "to": "1458b29", "source": "homer", "entry": "the-unseemly-stool", "cite": "Od. 20.259"},
+    {"from": "1458b30", "to": "1458b30", "source": "aristotle", "entry": "the-unseemly-stool", "cite": "Aristotle's rewording of Od. 20.259"},
+    {"from": "1458b31", "to": "1458b31", "source": "homer", "entry": "the-shores-roar", "cite": "Il. 17.265"}
+  ],
+  "speeches": [],
+  "days": []
+}

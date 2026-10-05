@@ -1,0 +1,10 @@
+{
+  "scenes": [
+    {"from": "1456b20", "to": "1456b37", "title": "Letters and Syllables", "summary": "The parts of diction; the letter, as vowel, semivowel or mute, and the syllable."},
+    {"from": "1456b38", "to": "1457a10", "title": "Connective and Joint", "summary": "Sounds without meaning that bind or articulate a statement."},
+    {"from": "1457a11", "to": "1457a22", "title": "Noun, Verb, Inflection", "summary": "The noun without time, the verb with time, and the inflections of case, number and mode."},
+    {"from": "1457a23", "to": "1457a30", "title": "The Statement", "summary": "A statement may lack verbs, like the definition of man; it is one by signifying one thing or by being bound together, like the Iliad."}
+  ],
+  "speeches": [],
+  "days": []
+}

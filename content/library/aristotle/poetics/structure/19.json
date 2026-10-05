@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    {"from": "1456a33", "to": "1456b8", "title": "Thought", "summary": "Thought belongs to rhetoric: proving, refuting, rousing feelings, magnifying and minimizing, done in speech as the incidents do it without words."},
+    {"from": "1456b9", "to": "1456b19", "title": "Forms of Utterance", "summary": "Command, prayer, statement and threat belong to the art of delivery; Protagoras' charge that \"Sing, goddess, the wrath\" gives an order is no fault of poetry."}
+  ],
+  "quotations": [
+    {"from": "1456b17", "to": "1456b17", "source": "homer", "entry": "protagoras-sing-goddess", "ref": "Il. 1.1"}
+  ],
+  "speeches": [],
+  "days": []
+}

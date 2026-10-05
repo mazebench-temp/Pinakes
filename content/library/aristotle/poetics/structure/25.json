@@ -1,0 +1,27 @@
+{
+  "scenes": [
+    {"from": "1460b6", "to": "1460b21", "title": "The Poet's Freedom", "summary": "The poet imitates things as they were or are, as they are said to be, or as they ought to be, in a diction with its licenses. Errors of the art differ from incidental errors, like a horse with both right legs thrown forward."},
+    {"from": "1460b22", "to": "1460b32", "title": "Errors of Art and of Fact", "summary": "An impossibility is justified if it serves the end, like the pursuit of Hector; not knowing that a hind has no horns is a lesser fault than painting badly."},
+    {"from": "1460b33", "to": "1461a9", "title": "As They Ought to Be, as People Say", "summary": "Sophocles made people as they ought to be, Euripides as they are; the stories of the gods are what people say; the spears planted upright were the custom then, as among the Illyrians now; a deed must be judged by its agent, occasion and end."},
+    {"from": "1461a10", "to": "1461a31", "title": "Solutions from Language", "summary": "Rare words (the mules, Dolon's looks, \"mix it stronger\"), metaphor (all the gods slept), accent (Hippias of Thasos), punctuation (Empedocles), ambiguity (the night), and usage (tin greaves, Ganymede's wine)."},
+    {"from": "1461a32", "to": "1461b9", "title": "Contradictions and Prejudice", "summary": "Consider every sense a word can bear, like the bronze spear stopped; do not judge the poet by one's own assumptions, as critics did over Icarius and Icadius."},
+    {"from": "1461b10", "to": "1461b25", "title": "The Twelve Solutions", "summary": "The impossible is defended by poetry, the better, or opinion, as Zeuxis painted; criticism is just when irrationality and baseness are needless, as Aegeus and Menelaus; five grounds of criticism, twelve solutions."}
+  ],
+  "quotations": [
+    {"from": "1461a2", "to": "1461a3", "source": "homer", "entry": "aristotle-upright-spears", "ref": "Il. 10.152-153"},
+    {"from": "1461a10", "to": "1461a11", "source": "homer", "entry": "aristotle-mules", "ref": "Il. 1.50"},
+    {"from": "1461a12", "to": "1461a13", "source": "homer", "entry": "aristotle-dolons-face", "ref": "Il. 10.316"},
+    {"from": "1461a15", "to": "1461a15", "source": "homer", "entry": "stronger-or-quicker", "ref": "Il. 9.203"},
+    {"from": "1461a16", "to": "1461a17", "source": "homer", "entry": "all-the-gods-slept", "ref": "Il. 2.1-2", "note": "Our text has “the other gods” (2.1, 10.1)."},
+    {"from": "1461a18", "to": "1461a19", "source": "homer", "entry": "all-the-gods-slept", "ref": "Il. 10.11-13"},
+    {"from": "1461a20", "to": "1461a21", "source": "homer", "entry": "alone-without-a-share", "cite": "Il. 18.489 = Od. 5.275"},
+    {"from": "1461a22", "to": "1461a23", "source": "homer", "entry": "aristotle-and-hippias", "ref": "Il. 2.15", "note": "Not in our text of 2.15; compare 21.297."},
+    {"from": "1461a23", "to": "1461a23", "source": "homer", "entry": "the-stump-that-rots", "cite": "Il. 23.328"},
+    {"from": "1461a24", "to": "1461a25", "source": "empedocles", "entry": "empedocles-immortal-and-mortal", "cite": "Empedocles, fr. 35.14–15 DK"},
+    {"from": "1461a26", "to": "1461a26", "source": "homer", "entry": "aristotle-portions-of-the-night", "ref": "Il. 10.252"},
+    {"from": "1461a28", "to": "1461a28", "source": "homer", "entry": "the-greave-of-tin", "cite": "Il. 21.592"},
+    {"from": "1461a33", "to": "1461a34", "source": "homer", "entry": "the-bronze-spear-stopped", "cite": "Il. 20.272", "note": "Our text has “the ashen spear”."}
+  ],
+  "speeches": [],
+  "days": []
+}

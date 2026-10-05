@@ -1,0 +1,10 @@
+{
+  "scenes": [
+    {"from": "1455a22", "to": "1455a28", "title": "Before the Eyes", "summary": "The poet should see the scene as if present, as Carcinus failed to do with Amphiaraus, and the play failed."},
+    {"from": "1455a29", "to": "1455a33", "title": "The Gifted and the Mad", "summary": "He should act out the feelings with gestures: poetry belongs to the gifted or to the mad, the one adaptable, the other carried away."},
+    {"from": "1455a34", "to": "1455b16", "title": "The General Outline", "summary": "Set out the story in general terms and then add names and episodes: the outline of the Iphigenia, with Orestes' madness and the purification as its proper episodes."},
+    {"from": "1455b17", "to": "1455b23", "title": "The Story of the Odyssey", "summary": "The Odyssey's story is short: a man long away, watched by Poseidon, his house wasted by suitors, comes home, reveals himself, and destroys his enemies; the rest is episodes."}
+  ],
+  "speeches": [],
+  "days": []
+}
