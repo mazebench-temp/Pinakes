@@ -1,0 +1,53 @@
+# Aristotle, Poetics, Chapter 13 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1452b28	What poets must aim at and what they must avoid in constructing
+1452b29	their plots, and how the effect of tragedy will be produced,
+1452b30	should be discussed next, after what has now been said. Since, then,
+1452b31	the structure of the finest tragedy must be not simple
+1452b32	but complex, and it must imitate fearful and pitiable
+1452b33	things (for this is the distinctive feature of such imitation),
+1452b34	first, it is clear that decent men must not be shown
+1452b35	passing from good fortune to misfortune, for this is
+1452b36	neither fearful nor pitiable but repugnant; nor
+1452b37	wicked men passing from misfortune to good fortune, for this is the most untragic
+1452b38	thing of all: it has nothing it should have, being neither satisfying to human feeling
+1453a1	nor pitiable nor fearful; nor again an utterly villainous man
+1453a2	falling from good fortune into misfortune: such a structure
+1453a3	might satisfy human feeling, but would bring neither pity nor
+1453a4	fear, for the one is felt for a man who suffers undeservedly, the other
+1453a5	for one like ourselves, pity for the undeserving, fear
+1453a6	for one like us; so neither pitiable nor fearful will be
+1453a7	what happens. There remains, then, the man between these. He is one
+1453a8	who is neither outstanding in virtue and justice, nor falls
+1453a9	into misfortune through badness and wickedness, but through
+1453a10	some error, one of those who stand in great repute and good fortune,
+1453a11	such as Oedipus and Thyestes and the men of such families
+1453a12	who are famous. A plot that is well made, then, must
+1453a13	be single rather than double, as some say it should be, and
+1453a14	change not to good fortune from misfortune but the opposite,
+1453a15	from good fortune to misfortune, not through wickedness but through
+1453a16	a great error, of a man such as we have described, or better rather than
+1453a17	worse. What actually happens is evidence of this: at first the
+1453a18	poets ran through any stories that came to hand, but now
+1453a19	the finest tragedies are composed about a few houses, as
+1453a20	about Alcmaeon and Oedipus and Orestes and Meleager
+1453a21	and Thyestes and Telephus and all the others who happened either
+1453a22	to suffer or to do terrible things. The finest tragedy according to the art,
+1453a23	then, comes from this structure. That is why
+1453a24	those who blame Euripides make the same mistake, for doing this
+1453a25	in his tragedies, and because many of his plays end
+1453a26	in misfortune. For this, as has been said, is right.
+1453a27	The greatest evidence: on the stage and in the competitions
+1453a28	such plays appear the most tragic, if they are well done,
+1453a29	and Euripides, even if he does not manage other things well,
+1453a30	at least appears the most tragic of the poets. Second comes the structure
+1453a31	that some call first, the one that has a double
+1453a32	structure, like the Odyssey, and ends in opposite ways
+1453a33	for the better and the worse people. It seems to be first because of the
+1453a34	weakness of the audiences; for the poets follow along, composing
+1453a35	to suit the wishes of the spectators. But this is not the pleasure
+1453a36	that comes from tragedy; it belongs rather to comedy:
+1453a37	there, those who are the bitterest enemies in the story, such as
+1453a38	Orestes and Aegisthus, go off at the end as friends,
+1453a39	and nobody is killed by anybody.

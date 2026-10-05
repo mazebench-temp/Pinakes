@@ -1,0 +1,55 @@
+# Aristotle, Poetics, Chapter 9 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1451a36	It is clear from what has been said, too, that to tell what has happened
+1451a37	is not the task of a poet, but what could happen,
+1451a38	things possible by probability or necessity. For the
+1451b1	historian and the poet do not differ by speaking in verse or in prose
+1451b2	(the works of Herodotus could be put into verse,
+1451b3	and they would be history no less with meter than without
+1451b4	it); the difference is this, that the one tells what has happened,
+1451b5	the other what could happen. That is why poetry is more philosophical
+1451b6	and more serious than history: for
+1451b7	poetry speaks rather of universals, history of particulars.
+1451b8	A universal is the sort of thing that a person of a certain sort will happen
+1451b9	to say or do by probability or necessity, which is what
+1451b10	poetry aims at, though it attaches names; a particular
+1451b11	is what Alcibiades did or what he suffered. In
+1451b12	comedy this has already become clear: the poets construct the
+1451b13	plot through probable events and only then supply whatever names they like,
+1451b14	and do not, like the iambic poets, write about the particular
+1451b15	individual. In tragedy they keep to the names of people
+1451b16	who existed. The reason is that what is possible is convincing:
+1451b17	what has not happened we do not yet believe to be possible, but
+1451b18	what has happened is evidently possible, for it would not have happened if it were impossible.
+1451b19	Yet even in tragedies, in some there are one
+1451b20	or two of the familiar names, and the rest are invented,
+1451b21	and in some none at all, as in Agathon's Antheus; for in this play
+1451b22	the incidents and the names alike are invented,
+1451b23	and it gives no less pleasure. So one should not seek at all costs
+1451b24	to keep to the traditional stories around which tragedies are made;
+1451b25	indeed it would be ridiculous to seek this, since even the
+1451b26	familiar stories are familiar to few, and yet they give pleasure to all.
+1451b27	It is clear from this that the poet must be a maker of plots
+1451b28	rather than of verses, inasmuch as he is a poet by virtue of
+1451b29	imitation, and what he imitates is actions. And even if he happens
+1451b30	to make a poem of things that happened, he is no less a poet; for nothing prevents
+1451b31	some things that have happened from being such as would probably
+1451b32	happen [and could possibly happen], and it is in this respect that he is their maker.
+1451b33	Of simple plots and actions, the episodic
+1451b34	are the worst. By an episodic plot I mean one in which the
+1451b35	episodes follow one another with neither probability nor necessity.
+1451b36	Such plots are made by bad poets because of themselves,
+1451b37	and by good poets because of the actors: for in composing
+1451b38	show pieces for competition, and stretching the plot beyond its capacity,
+1452a1	they are often forced to distort the sequence. But since
+1452a2	the imitation is not only of a complete action but also of fearful
+1452a3	and pitiable things, and these arise most of all [and
+1452a4	more] when things happen contrary to expectation but because of one another (for
+1452a5	so they will have more of the marvelous than if they happened spontaneously and
+1452a6	by chance, since even among chance events the most marvelous
+1452a7	seem to be those that look as if they had happened on purpose, as when the
+1452a8	statue of Mitys at Argos killed the man responsible for
+1452a9	the death of Mitys by falling on him as he looked at it; for such things seem
+1452a10	not to happen at random), plots of this kind
+1452a11	must necessarily be the finer.

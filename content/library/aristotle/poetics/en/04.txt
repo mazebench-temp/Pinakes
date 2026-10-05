@@ -1,0 +1,69 @@
+# Aristotle, Poetics, Chapter 4 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1448b4	Two causes, it seems, gave birth to the art of poetry as a whole,
+1448b5	and both of them natural. For imitating
+1448b6	is innate in human beings from childhood, and in this they differ
+1448b7	from the other animals, that man is the most imitative of them and learns
+1448b8	his first lessons through imitation; and so is the pleasure
+1448b9	that everyone takes in imitations. Evidence of this is what happens
+1448b10	in practice: things that are painful for us to see in themselves, of these
+1448b11	we enjoy looking at the most exact images,
+1448b12	such as the shapes of the lowliest animals and of corpses. The reason
+1448b13	for this too is that learning is most pleasant not only for philosophers
+1448b14	but for everyone else alike, though they
+1448b15	have only a brief share in it. That is why people enjoy images
+1448b16	when they see them: because in looking they come to learn and to infer
+1448b17	what each thing is, for example that this man is that one. For if one happens not
+1448b18	to have seen the subject before, the pleasure will come not from the imitation as such but from
+1448b19	the workmanship or the color or some other such cause.
+1448b20	Since imitation is natural to us, and so are melody
+1448b21	and rhythm (for that meters are sections of rhythms
+1448b22	is evident), those who from the beginning had the greatest gift for these things,
+1448b23	advancing little by little, gave birth to poetry out of their
+1448b24	improvisations. And poetry split apart according to the poets' own characters:
+1448b25	the more dignified imitated noble actions and
+1448b26	the actions of noble people, the more trivial those of inferior people,
+1448b27	composing invectives at first, as the others composed hymns and encomia.
+1448b28	We cannot name a poem of this kind by anyone before Homer,
+1448b29	though there were probably many such poets; but beginning from Homer
+1448b30	we can, for example his Margites and the like. In these
+1448b31	the iambic meter too came in, as was fitting —which is why it is still called
+1448b32	iambic today, because it was in this meter that they lampooned (iambizon) one another.
+1448b33	And so of the old poets some became poets of heroic verse, others
+1448b34	of lampoons. And just as in serious things Homer was the poet above all
+1448b35	(for he alone composed not only well but also made his imitations
+1448b36	dramatic), so too the form of comedy
+1448b37	he was the first to point out, dramatizing not invective but the ridiculous;
+1448b38	for the Margites is analogous: as the Iliad
+1449a1	and the Odyssey are to tragedies, so is this poem to
+1449a2	comedies. When tragedy and comedy had appeared,
+1449a3	those drawn to each kind of poetry by their own
+1449a4	nature became, some, makers of comedies instead of lampoons,
+1449a5	and others producers of tragedies instead of epics, because
+1449a6	these forms were greater and more esteemed than those.
+1449a7	Whether tragedy is by now fully developed in its
+1449a8	kinds or not, judged both in itself and in relation to
+1449a9	the theaters, is another question. At any rate, having arisen from an improvised
+1449a10	beginning (both tragedy itself and comedy, the one
+1449a11	from those who led off the dithyramb, the other from those who led the
+1449a12	phallic songs that even now remain in many of the cities
+1449a13	as a custom), it grew little by little, as poets developed whatever
+1449a14	of it came to light; and after passing through many changes
+1449a15	tragedy stopped, once it had attained its own nature. The
+1449a16	number of actors was first raised from one to two
+1449a17	by Aeschylus, who also reduced the part of the chorus and made speech
+1449a18	take the leading role; three actors and scene painting
+1449a19	came with Sophocles. Then there was magnitude: from slight plots and
+1449a20	comic diction, since it had changed from the satyric, tragedy
+1449a21	was late to acquire its dignity, and its meter changed from tetrameter to iambic.
+1449a22	At first they used the tetrameter because the poetry was satyric
+1449a23	and more suited to dancing; but when speech came in,
+1449a24	nature itself found the meter that belonged to it: for of all meters
+1449a25	the iambic is the most like speech. The evidence for
+1449a26	this is that we speak iambics most often in conversation
+1449a27	with one another, but hexameters seldom, and only
+1449a28	when we depart from the tone of speech. Then there was the number
+1449a29	of episodes. As for the other things, and how each is said to have been embellished,
+1449a30	let them be taken as said; for it would perhaps be a long
+1449a31	task to go through them one by one.

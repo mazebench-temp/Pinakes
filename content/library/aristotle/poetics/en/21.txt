@@ -1,0 +1,60 @@
+# Aristotle, Poetics, Chapter 21 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1457a31	Nouns are of two kinds: simple, by which I mean not composed
+1457a32	of significant parts, such as gē (“earth”), and double. Of the double,
+1457a33	some are composed of a significant and a non-significant part (though not significant and non-significant within the noun), and some of significant parts
+1457a34	only. There could also be triple and quadruple nouns and
+1457a35	multiple ones, like most of those of the Massaliots,
+1457b1	Hermocaicoxanthus… Every noun is either standard, or a rare word,
+1457b2	or a metaphor, or an ornament, or coined, or lengthened, or
+1457b3	shortened, or altered. By standard I mean the word that
+1457b4	each people uses, and by rare word one that others use; so it is evident that
+1457b5	the same word can be both rare and standard, but not for the same
+1457b6	people: sigynon (“spear”) is standard for the Cypriots, but a rare word for us.
+1457b7	Metaphor is the transfer of a word that belongs to something else, either from genus
+1457b8	to species, or from species to genus, or from species
+1457b9	to species, or by analogy. By “from genus to
+1457b10	species” I mean, for example, “Here my ship stands”; for lying at anchor is
+1457b11	a kind of standing. From species to genus: “Truly Odysseus has done countless
+1457b12	good deeds”; for countless is many, and he has used it here instead
+1457b13	of many. From species to species, for example “with the bronze
+1457b14	drawing off his life” and “cutting with the long-edged bronze”; for here
+1457b15	he has said “drawing off” for “cutting” and “cutting” for “drawing off”: both
+1457b16	are kinds of taking away. By analogy I mean when
+1457b17	the second term stands to the first as the fourth to the
+1457b18	third: then the poet will say the fourth instead of the second, or instead of the
+1457b19	fourth the second. And sometimes they add the term to which the word replaced
+1457b20	is related. I mean, for example, that the cup stands to
+1457b21	Dionysus as the shield to Ares; so the poet will call the
+1457b22	cup “the shield of Dionysus” and the shield “the cup
+1457b23	of Ares”. Or: as old age is to life, so evening is to day;
+1457b24	so he will call evening “the old age of the day”, or as
+1457b25	Empedocles does, and old age “the evening of life” or “the sunset of life”. For some
+1457b26	terms of an analogy there is no established word, but it will be expressed
+1457b27	in the same way none the less: to scatter seed is to sow, but the sun's scattering of its
+1457b28	flame has no name; yet this stands to the sun
+1457b29	as sowing to the seed, which is why it has been said: “sowing the god-created
+1457b30	flame”. This kind of metaphor can also be used
+1457b31	in another way: by applying the alien name and then denying something of what properly belongs
+1457b32	to it, as if one were to call the shield a cup, not “of Ares” but “wineless”…
+1457b33	A coined word is one that nobody at all uses and the poet
+1457b34	himself creates; there seem to be some such words, for example
+1457b35	ernyges (“sprouts”) for horns, and arētēr (“one who prays”) for priest. A word is lengthened
+1458a1	or shortened: lengthened if it uses a longer vowel
+1458a2	than its own, or has a syllable inserted; shortened if
+1458a3	something has been taken away from it. Lengthened: as poleōs
+1458a4	becomes polēos, and Pēleidou Pēlēiadeō; shortened, as
+1458a5	kri and dō, and “one sight (ops) comes from both”. A word is altered
+1458a6	when the poet keeps part of the usual form and
+1458a7	makes up part, as “in the right breast”, with dexiteron for dexion.
+1458a8	Of nouns themselves, some are masculine, some feminine, and some
+1458a9	in between: masculine are those that end in N and R and S
+1458a10	and in the letters compounded with S (these are two, Ps and X),
+1458a11	feminine those that end in the vowels that are always long, such as
+1458a12	Ē and Ō, and, of those that can be lengthened, in A; so it turns out that
+1458a13	masculine and feminine have an equal number of endings, for Ps and X
+1458a14	are compounds. No noun ends in a mute, nor in
+1458a15	a short vowel. In I there are only three,
+1458a16	meli (“honey”), kommi (“gum”), peperi (“pepper”). In Y there are five.
+1458a17	The in-between nouns end in these and in N and S.

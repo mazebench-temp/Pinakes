@@ -1,0 +1,50 @@
+# Aristotle, Poetics, Chapter 26 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1461b26	Whether epic or tragic imitation is the better,
+1461b27	one might well ask. If the less vulgar is the better, and that
+1461b28	is always the one addressed to better spectators, it is all too clear that
+1461b29	the one that imitates everything is vulgar: for, as if the audience would not notice unless
+1461b30	the performer adds something himself, they move about a great deal, like bad
+1461b31	pipers whirling round if they have to imitate a discus, and dragging
+1461b32	the chorus leader about if they are piping the Scylla. Tragedy, then,
+1461b33	is like this, just as the earlier actors thought of those who came after them;
+1461b34	for overdoing it, Mynniscus used to call
+1461b35	Callippides an ape, and there was the same opinion about
+1462a1	Pindarus; and as these actors stand to their predecessors, so the whole art of tragedy stands to
+1462a2	epic. Epic, they say, is addressed to decent spectators
+1462a3	who have no need of gestures, and tragedy to
+1462a4	inferior ones; if, then, it is vulgar, it would clearly be the worse. First,
+1462a5	the charge is not against the art of poetry but against the art of acting, since
+1462a6	it is possible to overdo the signs in reciting epic too, as
+1462a7	Sosistratus did, and in singing, as Mnasitheus of Opus used to do.
+1462a8	Next, not all movement is to be rejected, any more than
+1462a9	all dancing, but only that of inferior people, which was the fault found with Callippides, and now
+1462a10	with others, for imitating women who are not free. Besides, tragedy
+1462a11	does its work even without movement, just as epic does: for
+1462a12	by reading it, its quality is evident. If, then, it is
+1462a13	superior in other respects, this fault need not be present in it.
+1462a14	Then, tragedy is superior because it has everything that epic has (it can even use its
+1462a15	meter), and besides it has music, no small part,
+1462a16	[and spectacle], through which pleasures are produced most vividly;
+1462a17	next, it has vividness both in reading and in
+1462a18	performance; further, because the end of the imitation is achieved in less space
+1462b1	(for what is more concentrated gives more pleasure than what is diluted over a long
+1462b2	time: I mean, for example, if someone were to put Sophocles' Oedipus
+1462b3	into as many verses as the Iliad has); further, the imitation of the epic poets
+1462b4	is less unified (the evidence: from any epic imitation several
+1462b5	tragedies come), so that if they make a single plot,
+1462b6	it either seems curtailed if it is presented briefly, or
+1462b7	watery if it follows the length of the meter; I mean, for example, if
+1462b8	the epic is composed of several actions, as the Iliad
+1462b9	and the Odyssey have many such parts, which even by
+1462b10	themselves have magnitude; and yet these poems are constructed
+1462b11	as well as possible, and are as nearly as can be the imitation of a single action.
+1462b12	If, then, tragedy excels in all these respects, and also in the work of the art
+1462b13	(for they should produce not any chance pleasure but
+1462b14	the one we have described), it is evident that it would be the superior, since it achieves its
+1462b15	end better than epic. About
+1462b16	tragedy and epic, then, both themselves and
+1462b17	their kinds and parts, how many there are and how
+1462b18	they differ, and what makes them succeed or fail, and about
+1462b19	criticisms and their solutions, let this be enough…

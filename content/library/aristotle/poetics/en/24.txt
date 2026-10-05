@@ -1,0 +1,74 @@
+# Aristotle, Poetics, Chapter 24 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1459b8	Further, epic must have the same kinds as
+1459b9	tragedy: it must be simple or complex, of character or
+1459b10	of suffering; and it has the same parts, apart from song and spectacle,
+1459b11	for it needs reversals and recognitions and sufferings;
+1459b12	and its thoughts and diction must also be good. All these
+1459b13	Homer used, both first and sufficiently. Indeed
+1459b14	each of his poems is constructed so: the Iliad simple
+1459b15	and full of suffering, the Odyssey complex (there is recognition
+1459b16	throughout) and full of character; and besides, in diction and thought
+1459b17	he has surpassed everyone. Epic differs in the length of its
+1459b18	structure and in its meter. For length, the limit
+1459b19	we have stated is adequate: one must be able to take in the beginning
+1459b20	and the end together. This would be so if the structures were shorter than those of the
+1459b21	old epics, and reached the length of the number of tragedies
+1459b22	presented at a single hearing. Epic has a great
+1459b23	and special capacity for extending its magnitude,
+1459b24	because in tragedy it is not possible to imitate many parts
+1459b25	being done at the same time, but only the part on the stage and
+1459b26	among the actors; but in epic, because it is narrative,
+1459b27	one can present many parts being completed at once, and by these,
+1459b28	if they belong to the story, the bulk of the poem is increased. So epic has
+1459b29	this advantage for grandeur, and for giving variety to the
+1459b30	hearer and diversifying with episodes unlike each other; for
+1459b31	sameness quickly sates and makes tragedies fail. The
+1459b32	heroic meter has proved fitting by experience. For if someone were to compose
+1459b33	a narrative imitation in some other meter, or in many,
+1459b34	it would seem unfitting: for the heroic is the most stately and
+1459b35	weighty of the meters (which is why it most readily admits rare words and
+1459b36	metaphors; for narrative imitation too is extraordinary
+1459b37	beyond the others), while the iambic and the tetrameter
+1460a1	are lively, the one suited to dancing, the other to action. Still more
+1460a2	absurd would it be to mix them, as Chaeremon did. So
+1460a3	no one has made a long structure in any meter but the heroic; rather,
+1460a4	as we said, nature itself teaches us to choose what
+1460a5	fits it. Homer deserves praise for many other things, and
+1460a6	especially because he alone of the poets is not unaware of what he himself should do.
+1460a7	The poet himself should say very little, for it is not
+1460a8	in this capacity that he is an imitator. The other poets appear in their own person throughout
+1460a9	and imitate little and seldom; but he, after a brief
+1460a10	prelude, at once brings on a man or a woman or some other
+1460a11	character, and none without character, but each with a character. In tragedies, then,
+1460a12	one should produce the marvelous, but more admissible in
+1460a13	epic is the irrational, through which the marvelous most of all
+1460a14	comes about, because we do not see the person acting. The scenes of
+1460a15	Hector's pursuit would seem ridiculous on the stage, with
+1460a16	the men standing still and not pursuing, and Achilles waving them back; but in
+1460a17	epic it goes unnoticed. The marvelous is pleasant: evidence of this is that everyone
+1460a18	adds something when telling a story, thinking to please. It is
+1460a19	Homer above all who has taught the others how to tell lies as they should be told.
+1460a20	This is the false inference. People think that when
+1460a21	this thing is, that one is, or when this happens, that happens, then if the latter is,
+1460a22	the former too is or happens; but this is false. So,
+1460a23	if the first thing is false, but something else would necessarily be or
+1460a24	happen if it were so, the poet must add that; for knowing this to be true,
+1460a25	our mind falsely infers that the first is true as well. An example
+1460a26	of this is the passage from the Bath. One should prefer
+1460a27	probable impossibilities to unconvincing possibilities; and stories
+1460a28	should not be made up of irrational parts, but above all
+1460a29	should have nothing irrational, or failing that, it should be outside the plot, as
+1460a30	with Oedipus' not knowing how Laius died, and not in
+1460a31	the drama, like those who report the Pythian games in the Electra,
+1460a32	or the man in the Mysians who comes without a word from Tegea to Mysia. So
+1460a33	to say that the plot would have been ruined otherwise is ridiculous: such plots should not
+1460a34	be constructed in the first place. †If he does put it in, and it seems
+1460a35	more reasonable, he may admit even the absurd†. Even the irrational things in the Odyssey
+1460a36	about Odysseus' being put ashore would clearly be intolerable,
+1460b1	if a bad poet had made them; as it is,
+1460b2	the poet conceals the absurdity, sweetening it with his other virtues. The
+1460b3	diction should be elaborated in the slack parts, where there is neither character
+1460b4	nor thought; for diction that is too brilliant
+1460b5	obscures, in turn, both characters and thoughts.

@@ -1,0 +1,57 @@
+# Aristotle, Poetics, Chapter 14 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1453b1	The fearful and the pitiable can arise from the spectacle,
+1453b2	but they can also arise from the very structure of the incidents,
+1453b3	which comes first and is the mark of a better poet. For
+1453b4	even without seeing it, the plot should be so constructed that the one
+1453b5	who hears the incidents as they happen both shudders and feels pity
+1453b6	at what comes about, which is what one would feel on hearing the
+1453b7	story of Oedipus. To produce this effect through spectacle
+1453b8	is less a matter of art and needs a sponsor's money. Those who produce through spectacle
+1453b9	not the fearful but only the monstrous
+1453b10	have nothing in common with tragedy: for one should not seek every
+1453b11	pleasure from tragedy, but the one that belongs to it. And since
+1453b12	the pleasure that comes from pity and fear through imitation
+1453b13	must be produced by the poet, it is evident that he must build this into the incidents
+1453b14	themselves. Let us consider, then, which happenings seem terrible or which
+1453b15	pitiable. Such actions must be done either by those who are dear
+1453b16	to each other, or by enemies, or by those who are neither.
+1453b17	If an enemy acts against an enemy, there is nothing pitiable, neither in the deed
+1453b18	nor in the intention, except in the suffering itself; nor if
+1453b19	they are neither. But when it is within close relationships that
+1453b20	sufferings arise, as when brother kills brother, or son father, or mother son,
+1453b21	or son mother, or is about to, or does something else of the kind,
+1453b22	these are what one must look for. The stories that have been handed down
+1453b23	cannot be undone, I mean such as the death of Clytemnestra
+1453b24	at the hands of Orestes, and of Eriphyle at the hands of Alcmaeon;
+1453b25	but the poet must find out for himself how to use the traditional material
+1453b26	well. What we mean by “well”, let us say more clearly. The
+1453b27	action may happen as the old poets
+1453b28	made it, with people acting knowingly and in full awareness, as Euripides too
+1453b29	made Medea kill her children. Or
+1453b30	people may do the terrible deed, but do it in ignorance, and then
+1453b31	recognize the relationship later, as Sophocles' Oedipus does;
+1453b32	here, it is true, the deed is outside the drama, but within the
+1453b33	tragedy itself there is Astydamas' Alcmaeon, or Telegonus
+1453b34	in Odysseus Wounded. There is a third way besides these: when one
+1453b35	is about to do something irreparable through ignorance, to recognize the truth
+1453b36	before doing it. Besides these there is no other way: for people must either act
+1453b37	or not, and knowingly or unknowingly. Of these, to be
+1453b38	about to act knowingly and not to do it is the worst: for it is
+1453b39	repugnant, and not tragic, for there is no suffering. So no one
+1454a1	composes in this way, except rarely, as in the Antigone, where Creon is threatened by
+1454a2	Haemon. To do the deed is second. Better is to do it in ignorance
+1454a3	and to recognize after doing it: for the repugnant
+1454a4	is absent, and the recognition is astonishing. Best of all
+1454a5	is the last, as in the Cresphontes, where Merope
+1454a6	is about to kill her son, and does not kill him, but
+1454a7	recognizes him; and in the Iphigenia, the sister her brother; and
+1454a8	in the Helle, the son recognizes his mother when he is about to give her up.
+1454a9	This is the reason, as was said long ago, why tragedies are not about many
+1454a10	families. For in their search it was not by art
+1454a11	but by chance that the poets discovered how to produce this in their
+1454a12	plots; so they are forced to resort to those houses
+1454a13	in which such sufferings have happened. About the
+1454a14	structure of the incidents, then, and what kind of plots there should be,
+1454a15	enough has been said.

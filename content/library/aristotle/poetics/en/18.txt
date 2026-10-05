@@ -1,0 +1,46 @@
+# Aristotle, Poetics, Chapter 18 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1455b24	Every tragedy has a complication and a resolution.
+1455b25	Events outside the play, and often some of those inside it, are the complication, and the
+1455b26	rest is the resolution. By complication I mean everything from the beginning
+1455b27	up to the last part, the one from which the change comes
+1455b28	to good fortune or to misfortune; and by resolution everything from the beginning of the
+1455b29	change to the end. Thus in the Lynceus of Theodectes
+1455b30	the complication is what was done before, and the seizure of the child, and
+1455b31	again their own …; the resolution runs from the accusation of murder
+1455b32	to the end. There are four kinds of tragedy (for
+1455b33	that is also the number of the parts we named): the complex, which is all
+1455b34	reversal and recognition; the tragedy of suffering, such as the
+1456a1	Ajaxes and the Ixions; the tragedy of character, such as the Women of Phthia and
+1456a2	the Peleus; the fourth †…†, such as the Daughters of Phorcys and
+1456a3	the Prometheus and all plays set in Hades. One should try above all
+1456a4	to have every quality, or failing that, the most important and the most, especially
+1456a5	as people now carp at the poets: since there have been
+1456a6	good poets in each part, they expect one poet to surpass each
+1456a7	in his own excellence. It is right to call a tragedy
+1456a8	different or the same by nothing so much as by the plot, that is,
+1456a9	by having the same complication and resolution. Many who tie the knot well
+1456a10	untie it badly; but both must always be mastered. One should
+1456a11	remember what has often been said, and not make an epic
+1456a12	structure into a tragedy —by epic I mean one with many stories—
+1456a13	as if someone were to make a tragedy of the whole story of the Iliad. There,
+1456a14	because of its length, the parts take on their proper magnitude, but in
+1456a15	dramas the result falls far short of expectation. Evidence of this:
+1456a16	all who have made the whole Sack of Troy, and not a part of it
+1456a17	as Euripides did, or Niobe, and not as Aeschylus did, either
+1456a18	fail or fare badly in the competition; even Agathon failed
+1456a19	in this alone. In reversals and in
+1456a20	simple incidents poets aim at what they want with marvelous skill,
+1456a21	for this is tragic and satisfies human feeling. This happens when
+1456a22	the clever but villainous man is deceived, like Sisyphus,
+1456a23	or the brave but unjust man is defeated. This
+1456a24	is even probable, as Agathon says, for it is probable that many things should happen
+1456a25	even contrary to probability. The chorus too should be treated as one
+1456a26	of the actors; it should be a part of the whole and
+1456a27	share in the action, not as in Euripides but as in Sophocles. In
+1456a28	the other poets the songs belong no more to the plot than to any other
+1456a29	tragedy; that is why they sing interludes, a practice first begun
+1456a30	by Agathon. Yet what difference is there
+1456a31	between singing interludes and fitting a speech from one play
+1456a32	into another, or a whole episode?

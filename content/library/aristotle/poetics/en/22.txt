@@ -1,0 +1,70 @@
+# Aristotle, Poetics, Chapter 22 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1458a18	The excellence of diction is to be clear and not mean. The clearest
+1458a19	diction is the one made of standard words, but it
+1458a20	is mean: an example is the poetry of Cleophon and that
+1458a21	of Sthenelus. Dignified and free of the commonplace is the diction
+1458a22	that uses unfamiliar words; by unfamiliar I mean a rare word and
+1458a23	metaphor and lengthening and everything that departs from the standard.
+1458a24	But if someone makes everything like this, the result will be either a riddle or
+1458a25	barbarism: a riddle if it is made of metaphors, and if it is made of
+1458a26	rare words, barbarism. For this is the form of a riddle:
+1458a27	to say things that are real by joining impossibilities. This cannot be done
+1458a28	by combining the other words, but it
+1458a29	can by combining metaphors, as in “I saw a man who with fire had welded bronze
+1458a30	upon a man”, and the like. And what is made of
+1458a31	rare words is barbarism. So diction must be a blend of these: the one kind
+1458a32	will keep it from being commonplace or mean, such as
+1458a33	the rare word and metaphor and ornament and the other
+1458a34	kinds we have named, and the standard word will give clarity. No small part
+1458b1	in making diction clear and not commonplace is played by
+1458b2	the lengthenings and curtailments and alterations of words:
+1458b3	by being other than the standard form, departing from
+1458b4	the usual, they will make it uncommon, and by
+1458b5	sharing in the usual they will keep it clear. So those are wrong
+1458b6	who find fault with this manner of speech
+1458b7	and make fun of the poet, like Euclides the elder,
+1458b8	who said that composing would be easy if one were allowed to lengthen syllables as far as
+1458b9	one liked, and lampooned it in the very diction: “I saw Epichares
+1458b10	walking to Marathon”, and “†not having mixed† his
+1458b11	hellebore”. To be seen using this
+1458b12	manner obtrusively is ridiculous; moderation is common to all the
+1458b13	kinds: for one who used metaphors and rare words and the other
+1458b14	kinds inappropriately and on purpose to raise a laugh would
+1458b15	achieve the same effect. How much the fitting use makes a difference
+1458b16	may be seen in epic verse, when the standard words are put into the
+1458b17	meter. With the rare word, with metaphors and
+1458b18	with the other forms, if one substituted the standard words
+1458b19	one would see that what we say is true. For example, the same
+1458b20	iambic line was composed by Aeschylus and by Euripides, but with only one word
+1458b21	changed, a rare word in place of a standard, usual one, and the one line
+1458b22	seems beautiful, the other trivial. Aeschylus in his
+1458b23	Philoctetes wrote “the ulcer that eats the flesh of my foot”,
+1458b24	and Euripides put “feasts on” in place of “eats”. Or take
+1458b25	“and now one who is small and of no account
+1458b26	and unseemly”, if one were to say it with the standard words
+1458b27	substituted: “and now one who is little and
+1458b28	weakly and ugly”; or “setting down
+1458b29	an unseemly stool and a small table”,
+1458b30	“setting down a wretched stool and a little table”; or
+1458b31	“the shores roar” as “the shores shriek”. Again, Ariphrades
+1458b32	made fun of the tragedians because they use expressions no one would use in
+1458b33	conversation, such as dōmatōn apo (“halls from”) instead of
+1458b34	apo dōmatōn (“from halls”), and sethen (“of thee”), and egō de nin (“and I him”), and
+1459a1	Achilleōs peri (“Achilles about”) instead of peri Achilleōs, and all other such
+1459a2	things. Because they are not among the standard words, all such expressions
+1459a3	make the diction uncommon; but he
+1459a4	did not know this. It is a great thing to use each of the kinds we have named
+1459a5	fittingly, double words and rare words too, but by far
+1459a6	the greatest thing is to have a gift for metaphor. This alone
+1459a7	cannot be learned from another, and it is a sign of natural gifts: for
+1459a8	to make good metaphors is to see likeness. Of words,
+1459a9	double words suit dithyrambs best,
+1459a10	rare words heroic verse, and metaphors iambics.
+1459a11	In heroic verse all the kinds we have named are useful, but
+1459a12	in iambics, because they imitate speech as closely as possible,
+1459a13	the fitting words are those one would also use in prose:
+1459a14	the standard word, metaphor and ornament.
+1459a15	About tragedy, then, and imitation by
+1459a16	acting, let what has been said be enough.

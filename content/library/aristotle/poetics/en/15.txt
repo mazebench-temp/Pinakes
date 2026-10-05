@@ -1,0 +1,43 @@
+# Aristotle, Poetics, Chapter 15 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1454a16	In characters there are four things to aim at.
+1454a17	One, and the first, is that they be good. The play will have character
+1454a18	if, as was said, the speech or the action makes evident
+1454a19	a choice, of whatever kind it is, and good character if
+1454a20	the choice is good. This is possible in every class: a woman can be good,
+1454a21	and so can a slave, though perhaps of these the one is inferior, and the other
+1454a22	wholly worthless. Second, that they be appropriate: a character may be
+1454a23	manly, but it is not appropriate for a woman to be so manly
+1454a24	or so clever. Third, that they be like. This is different
+1454a25	from making the character good and appropriate, as described above.
+1454a26	Fourth, that they be consistent. For even if the person
+1454a27	being imitated is inconsistent, and such a character is the premise, still he must be consistently
+1454a28	inconsistent. An example of baseness of
+1454a29	character that is not necessary is Menelaus in the Orestes; of
+1454a30	the unseemly and inappropriate, the lament of Odysseus in the
+1454a31	Scylla and the speech of Melanippe; of the inconsistent,
+1454a32	Iphigenia at Aulis, for the girl who pleads for her life is nothing like the later one.
+1454a33	In characters, just as in the
+1454a34	structure of the incidents, one must always seek the necessary or the probable,
+1454a35	so that it is necessary or probable for such a person to say or do such things,
+1454a36	and necessary or probable for this to happen after that.
+1454a37	It is evident, then, that the resolutions of plots too must come about from the
+1454b1	plot itself, and not, as in the Medea, from the machine,
+1454b2	or as with the sailing away in the Iliad. The machine
+1454b3	should be used for what lies outside the drama, either what happened before,
+1454b4	which no human being can know, or what happens later, which
+1454b5	needs to be foretold and announced; for we grant
+1454b6	the gods the power to see everything. There should be nothing irrational in the
+1454b7	incidents, or if there is, it should lie outside the tragedy, as in
+1454b8	Sophocles' Oedipus. Since tragedy is an imitation
+1454b9	of people better than we are, poets must imitate good
+1454b10	portrait painters: they too render the particular shape,
+1454b11	making their subjects like, yet paint them more beautiful. So too the poet,
+1454b12	when he imitates people who are irascible or easygoing or have other such
+1454b13	traits of character, must make them, being such, decent,
+1454b14	†as Homer made Achilles good, though an example of harshness†.
+1454b15	These things must be watched, and besides them, what concerns the
+1454b16	perceptions that necessarily attend the art of poetry; for
+1454b17	there too one can often go wrong. But enough has been said
+1454b18	about them in my published works.

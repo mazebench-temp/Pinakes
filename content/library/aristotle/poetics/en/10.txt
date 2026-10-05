@@ -1,0 +1,13 @@
+# Aristotle, Poetics, Chapter 10 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1452a12	Of plots, some are simple and some complex; for
+1452a13	the actions of which plots are imitations
+1452a14	are themselves of these two kinds from the first. I call an action simple when,
+1452a15	as it proceeds, continuous and one, as we have defined it, the change comes about without reversal
+1452a16	or recognition; and complex,
+1452a17	one in which it is with recognition or reversal or both that the
+1452a18	change takes place. These must arise from the very structure
+1452a19	of the plot, so that they follow from what has gone before
+1452a20	either by necessity or by probability; for it makes a great
+1452a21	difference whether things happen because of what went before or only after it.
