@@ -1,0 +1,6 @@
+---
+summary: The Danaans are twice put to rout: when the Trojans first rush the wall at the gate, and at the end, when Hector has broken a gate and they flee among the hollow ships. Between the two they hold the battlements, and neither they nor the Lycians can drive the other back (12.144, 12.262–264, 12.417–420, 12.470–471).
+refs: [12.263-264, 12.420, 12.471]
+---
+
+When Asius' men rush the wall at the gate, “among the Danaans there rose shouting and rout” (12.144), and the two Lapiths come out to fight before it (see [[polypoetes]] and [[leonteus]]). The same two verses tell how Patroclus, in Eurypylus' hut, sees the Trojans at the wall in Book 15 (15.395–396; see [[patroclus]]). The gods who help the Danaans grieve at heart (12.179–180). When the Trojans tear at the battlements, “not even yet did the Danaans draw back from their path, / but they fenced the battlements with oxhides / and shot from them at the enemy” (12.262–264; see [[battlements]]). Telamonian Ajax leaves the lesser Ajax and Lycomedes to urge them on (12.367), and at Menestheus' tower neither could the Lycians break “the Danaans' wall” nor could “the Danaan spearmen” thrust the Lycians back (12.417–420; see [[spearmen]] and [[lycians]]). In the end, “the Danaans fled in rout / among the hollow ships, and a relentless din arose” (12.470–471; see [[relentless]]).

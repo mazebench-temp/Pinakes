@@ -3,7 +3,7 @@ title: Who thunders on high
 greek: ὑψιβρεμέτης
 kind: epithet
 tags: [divine-epithet]
-summary: An epithet of [[Zeus]] as the thunderer, used by Achilles in his prayer to his mother (1.354).
+summary: An epithet of [[Zeus]] as the thunderer, always in the phrase Ζεὺς ὑψιβρεμέτης at the start of a verse, four times in the Iliad and twice in the Odyssey.
 aliases: [high-thundering, hypsibremetes]
 grc: [ὑψιβρεμέτης]
 en: [who thunders on high]

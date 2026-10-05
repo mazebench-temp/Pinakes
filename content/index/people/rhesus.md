@@ -5,8 +5,9 @@ kind: person
 tags: [trojan, thracian, king, thrace]
 summary: King of the Thracians and son of [[eioneus-father-of-rhesus|Eioneus]], newly come to Troy with horses whiter than snow and armor fit for gods; betrayed by Dolon, he is killed in his sleep by Diomedes on the night of Book 10, and Odysseus drives off his horses. Later poets made him the son of the river Strymon and a Muse.
 aliases: [Rhesos, Rhēsos, King Rhesus, Rhesus of Thrace]
-# Ῥῆσος at 12.20 is a river of the Troad, which will need its own id and except: [12.20] here.
 grc: [Ῥῆσος, Ῥήσου]
+# Ῥῆσος at 12.20 is the river Rhesus (rhesus-river).
+except: [12.20]
 refs: [10.436-441, 10.476-478, 10.494-497, 10.559-560]
 relations:
   - father: eioneus-father-of-rhesus (10.435)

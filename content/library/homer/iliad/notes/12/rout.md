@@ -1,0 +1,9 @@
+---
+summary: Rout himself does not appear in Book 12, but the common noun runs through it. The Argives are penned at the ships in fear of Hector, “the mighty master of rout”; the Lapiths at the gate “did not flee”; the Trojans' charge raises “shouting and rout” among the Danaans; the Lycians cannot put the Achaeans to rout; and when Hector breaks the gate, “the Danaans fled in rout / among the hollow ships”.
+passages:
+  - 12.462-471 | Hector breaks the gate
+---
+
+The book begins with the Achaeans already beaten back. “Beaten down by the lash of Zeus”, they are penned in beside their ships “in fear of Hector, the mighty master of rout” (κρατερὸν μήστωρα φόβοιο, 12.37–39; see [[master-of-rout]] and [[hector]]). In Book 6 Helenus gave Diomedes that title, and Hector repeated it to his mother (6.97, 6.278); now it is Hector's. In the simile that follows, the boar or lion turning on the hunters “never fears or flees” (ταρβεῖ οὐδὲ φοβεῖται, 12.46; see [[the-boar-or-lion-at-bay]]), and at the gate the two Lapiths wait for Asius “and did not flee” (οὐδὲ φέβοντο, 12.136): φέβομαι is the verb of panic flight, from which the noun is made (see the article above).
+
+Then the noun marks the turns of the battle. When the Trojans rush the wall, “among the Danaans there rose shouting and rout” (ἰαχή τε φόβος τε, 12.144), and the two Lapiths dart out of the gate to fight in front of it (12.145; see [[polypoetes]] and [[leonteus]]). At Menestheus' tower the Lycians “could not put the Achaeans to rout” (φόβον ποιῆσαι, 12.432), and the battle hangs as level as a balance (12.433–436). The end comes when Hector breaks the gate and leaps in, and calls the Trojans after him: “the Danaans fled in rout / among the hollow ships, and a relentless din arose” (φόβηθεν, 12.470–471). In Book 11 Zeus had roused Ajax to flight (11.544); here the whole army flees, and the book ends on the rout (see [[retreat]] and [[the-fight-at-the-wall]]).

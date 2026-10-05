@@ -5,7 +5,8 @@ kind: term
 tags: [kingship, warfare]
 summary: The people, especially the fighting men who follow a leader. A king is their “marshal” or “shepherd”.
 aliases: [laos, laoi, host, troops]
-grc: [λαοί, λαὸν, λαοὺς, λαῷ, λαῶν]
+# !=λάων and !=λᾶος keep out λᾶας "stone" (12.29, 12.462).
+grc: [λαοί, λαὸν, λαοὺς, λαῷ, λαῶν, "!=λάων", "!=λᾶος"]
 en: [people, army of the Achaeans]
 ---
 

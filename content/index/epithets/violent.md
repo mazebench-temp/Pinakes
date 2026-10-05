@@ -11,7 +11,7 @@ en: [violent]
 
 ## Meaning
 
-ζαχρηής begins with the intensive prefix ζα- (“very,” as in [[zatheos]], ζάθεος); the second part is of uncertain origin. It means “furious, violent.” Homer uses it four times: of winds here, and of men in battle, the Lycian leaders who are always “violent in fierce battles” (Il. 12.346–347, 12.360), and the men and horses fighting where the Achaean wall was lowest (Il. 13.681–684). Compare [[stormy]] (δυσαής) and [[shrill]] (λιγυρός), the other words of wind in Book 5's similes.
+ζαχρηής begins with the intensive prefix ζα- (“very,” as in [[zatheos]], ζάθεος); the second part is of uncertain origin. It means “furious, violent.” Homer uses it four times: of winds here, and of men in battle, the Lycian leaders who are always “violent in the fierce battles” (Il. 12.346–347, 12.360), and the men and horses fighting where the Achaean wall was lowest (Il. 13.681–684). Compare [[stormy]] (δυσαής) and [[shrill]] (λιγυρός), the other words of wind in Book 5's similes.
 
 ## Use
 

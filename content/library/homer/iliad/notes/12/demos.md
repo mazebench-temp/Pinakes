@@ -1,0 +1,9 @@
+---
+summary: Polydamas complains that it is not fitting “for a man of the people to speak against you”, the only place where δῆμος names a single man; and the stone Hector lifts at the gate is one that two men, “the best of the people”, could not heave onto a wagon.
+passages:
+  - 12.210-215 | Polydamas' complaint
+---
+
+**A man of the people.** Polydamas opens his reading of the eagle with a grievance: Hector always rebukes him in the assemblies when he gives good counsel, “since it is not fitting at all / for a man of the people to speak against you, neither in council / nor ever in war, but always to increase your power” (12.211–214; see [[kratos]] and [[polydamas]]). δῆμον ἐόντα, literally “being the people”, is said of one man only here. The usual phrase is δήμου ἀνήρ, “a man of the people”, the man Odysseus struck with the scepter while he held back kings and men of note with gentle words (2.188–199; see [[commoners]] and the translation's note on 12.211–214). Polydamas is no such man. He leads the first column with Hector (12.88), and in Book 18 the poem makes him Hector's companion, born on the same night (18.251). He puts himself in the commoner's place to say what Hector's treatment of his counsel amounts to, and then speaks all the same, “but now again I will speak as it seems to me best” (12.215; see [[the-army-and-its-leaders]]).
+
+**The best of the people.** At the gate Hector lifts a stone of which the narrator says, “not even two men, the best of the people, / could easily heave it from the ground onto a wagon, / such as mortals are now” (12.447–449; see [[men-of-today]]). δήμου ἀρίστω, “the best of the people”, is the phrase used of the two sons of Merops, “two men, the best of their people” (11.328). Here the δῆμος is the community of the poet's own day, and its two best men are the measure of what Hector does alone (see [[aristos]]).

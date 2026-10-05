@@ -1,0 +1,34 @@
+---
+title: “One omen is best”
+greek: εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης
+kind: saying
+tags: [divination, warfare, rhetoric]
+summary: Hector's answer to Polydamas, who has read an eagle on the left as a warning to turn back from the Achaean wall: he cares nothing for birds, and will obey the counsel of Zeus; “One omen is best: to fight in defense of our native land.” Aristotle cites the verse as a well-worn maxim, and Cicero applied it to himself.
+aliases: [one omen is best, the best omen, heis oiōnos aristos, eis oionos aristos, to fight in defense of our native land, fight for one's country]
+grc: ["εἷς οἰωνὸς ἄριστος"]
+en: [One omen is best]
+passages:
+  - 12.210-250 | Polydamas reads the omen, and Hector answers
+---
+
+The Trojans of the first column are at the ditch, eager to cross, when an eagle flying high on the left, bitten by the serpent it carries, drops the living creature among them, and the Trojans shudder at “the portent of aegis-bearing Zeus” (12.200–209; see [[the-eagle-and-the-serpent]], [[eagle]] and [[teras]]). Polydamas reads it as a prophet would: the eagle let its prey go before it reached its nest, and the Trojans, even if they break the gates and the wall, will not come back from the ships in good order (12.217–229; see [[divination]] and [[polydamas]]). He begins with a grievance, that it is not fitting “for a man of the people to speak against you” (12.211–214; see [[demos]]). Hector, looking at him darkly, says that the gods have destroyed his wits (12.230–234; see [[looking-darkly]]), and goes on:
+
+{{quote:390f4e53-ec32-5e6c-b60e-3e6e82713603}}
+
+**The counsels of Zeus.** Hector sets a promise against a bird. The counsels of Zeus are those “which he himself promised me and nodded his assent to” (12.236), in the words with which Agamemnon complained that Zeus had deceived him: “hard god, who once promised me and nodded his assent” (2.112 = 9.19; see [[agamemnons-dream]]). Iris has brought Hector the promise: when Agamemnon is wounded, Zeus will put power in his hands to kill until he reaches the ships and the sun goes down (11.200–209; see [[kratos]] and [[plan-of-zeus]]). The poem shows no nod given to Hector. In Book 8 he took Zeus' thunder from Ida for one, saying that “the son of Cronus has readily nodded his promise to me / of victory and great glory” (8.170–176; see [[neuo]]). The promise is real, and it has a limit: the ships.
+
+**Right and left.** Hector will not care “whether they go to the right, toward the dawn and the sun, / or to the left, toward the misty darkness” (12.239–240): the east, the side of good omens, and the west (see the translation's note on 12.237–243). Elsewhere the signs on the right are taken gladly. Zeus “shows them signs on the right” with his lightning, Odysseus reports of the Trojans (9.236–237); Athena sends a heron on the right to Odysseus and Diomedes in the night (10.274–277); and Zeus sends Priam an eagle on the right as he sets out for Achilles' hut (24.315–321). In the next book an eagle flying high comes on the right of the Achaeans, and they shout, emboldened by the omen (θάρσυνος οἰωνῷ, 13.821–823; see [[birds]]).
+
+**The one omen.** οἰωνός is a bird of omen, as in the “long-winged birds” of 12.237, and so the omen itself (see the translation's table). Hector's best omen needs no bird: it is the cause. ἀμύνεσθαι περὶ πάτρης, “to fight in defense of our native land”, uses the verb with which the book has the Achaeans defend their ships (ἀμύνεσθαι περὶ νηῶν, 12.142; ἀμυνόμενοι, 12.227) and the wasps of Asius' simile their young (12.170). The Trojans here are the attackers, and the verse makes their assault a defense of Troy. Hector says it again at the ships: whoever is struck and dies, let him die, for it is no disgrace to die defending one's native land (ἀμυνομένῳ περὶ πάτρης), and his wife and children will be safe (15.494–499). Glaucus wishes the Trojans had the courage of men who fight their enemies περὶ πάτρης (17.156–158), and Priam, begging Achilles for his son's body, names him as the one who defended the city, ἀμυνόμενον περὶ πάτρης (24.499–500).
+
+**The threat.** Hector ends with a threat: if Polydamas holds back from the combat, or turns any other man away from the war, “beguiling him with your words”, he will die by Hector's spear (12.248–250). Then he leads, and Zeus rouses a storm of wind from Ida that carries the dust against the ships, bewitches the minds of the Achaeans and grants glory to the Trojans and Hector (12.251–255; see [[kydos]]). The Trojans go at the wall “trusting in his portents and in their own strength” (12.256). The man who would not heed a bird is followed by men who trust the signs of Zeus.
+
+**Who was right.** Polydamas foresaw that the Trojans would break the wall and not come back in good order (12.223–227). They break it this day (12.437–471; see [[the-fight-at-the-wall]]); when Patroclus drives them back, they cross the ditch again in disorder (οὐδὲ κατὰ μοῖραν), and many chariots are wrecked in it (16.367–371). After Achilles has shown himself at the ditch, Polydamas counsels retreat again, and Hector rejects him with the verse he uses here, “Polydamas, what you say is no longer pleasing to me” (18.285 = 12.231); the narrator calls the Trojans fools for applauding Hector (18.310–313; see [[nepios]]). Waiting for Achilles before the walls, Hector remembers that Polydamas told him to lead the Trojans back to the city, and that he did not obey (οὐ πιθόμην, 22.99–103; see [[hector]]).
+
+## Outside Homer
+
+Aristotle cites the verse among the maxims that are worth using although everyone knows them: “one should use even hackneyed and common maxims, if they are useful; for because they are common, they seem right, as though all agreed”. His examples are “one omen is best, to fight for one's country”, for a speaker urging men to face danger when they have not sacrificed, and ξυνὸς Ἐνυάλιος, “Enyalius is common”, for men who are the weaker; both are verses of Hector's, the second from Book 18 (*Rhetoric* 2.21.11, 1395a; 18.309; see [[aristotle-one-omen]] and [[aristotle]]).
+
+At the end of 60 BCE, deciding whether to resist the land law that Caesar would bring in as consul, keep quiet, or support it, Cicero told Atticus that Caesar's friend Balbus had come to promise him a place in counsel beside Pompey. Against the comforts of agreement he set the close of the third book of his own poem on his consulship, where the Muse Calliope tells him to hold to the course he took as consul and to increase his fame and the praise of good men; since Calliope herself had prescribed it, he did not think there could be any doubt that for him the best omen would always be “to fight for one's country”, εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης (*Letters to Atticus* 2.3.3–4; see [[cicero]]).
+
+The scholia on the line draw the lesson that it “teaches us to love our country” (scholia on 12.243).

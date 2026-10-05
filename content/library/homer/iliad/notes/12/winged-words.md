@@ -1,0 +1,5 @@
+---
+summary: Once in Book 12 a speech is introduced with “winged words”: Telamonian Ajax, leaving for Menestheus' tower, at once addresses the son of Oileus (12.365).
+---
+
+“At once he addressed the son of Oileus with winged words: / ‘Ajax, you two stay here, you and mighty Lycomedes’” (12.365–366; see [[ajax]], [[ajax-son-of-oileus]] and [[lycomedes]]). The speech is an order of four verses, given in haste (αὐτίκα, “at once”): the son of Oileus and Lycomedes are to stand and urge on the Danaans, while Ajax goes to face the war at the tower and comes back quickly (12.366–369). It is not the kind of speech that a strong feeling draws out of the speaker, which Paolo Vivante found the formula often introduces (see the entry), but an order given in haste; in Book 4 the herald Talthybius delivered Agamemnon's urgent message to Machaon “with winged words” too (4.203). In Book 12 the herald Thootes, delivering Menestheus' message, is introduced more plainly, “and at once he said” (εἶθαρ δὲ προσηύδα, 12.353; see [[message-repeated]]). None of the other speeches of the book is introduced with the formula (see [[so-he-spoke]]).

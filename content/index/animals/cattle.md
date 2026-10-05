@@ -5,7 +5,9 @@ kind: animal
 tags: [livestock, sacrificial-animal, warfare]
 summary: The ox or cow, the wealth of the Homeric world and the prize of raids. Hera's epithet βοῶπις, “ox-eyed”, is taken from it.
 aliases: [ox, oxen, cows, herds]
+# βόεσσι (12.105) and βόας αὔας (12.137) are oxhide shields, not the animals.
 grc: [βοῦς, βοῶπις]
+except: [12.105, 12.137]
 en: [cattle]
 ---
 

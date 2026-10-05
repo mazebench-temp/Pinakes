@@ -1,0 +1,5 @@
+---
+summary: “Zeus the counselor” snows on the land in the simile of the stones, and a few verses later rouses his son Sarpedon against the wall.
+---
+
+The epithet ends two verses thirteen lines apart. In the simile of the stones it names the weather god: “And as the flakes of snow fall thick on a winter's day, when Zeus the counselor has set out to snow, showing men these arrows of his” (12.278–280; [[the-great-snowfall]]), the same god who thundered three times from the mountains of Ida in Book 8 (8.170). Then it names the father: “Not even then would the Trojans and shining Hector have broken the gates of the wall and the long bar, had not Zeus the counselor roused his own son, Sarpedon, against the Argives, like a lion against cattle with curving horns” (12.290–293; [[phaidimos]], [[with-curving-horns]]). Glaucus gave the same title to the god who lay with Laodameia and fathered Sarpedon (6.198–199). Sarpedon goes on to pull down a battlement and make a path for many (12.397–399; [[sarpedon]]). See [[zeus]] and [[plan-of-zeus]].

@@ -9,7 +9,8 @@ aliases: [great tower of Ilios, tower of Troy]
 # "like a tower" (7.219, 11.485, 17.128) and towers of the Achaean wall (12.332–333, 12.373),
 # which will need except.
 grc: [πύργῳ, πύργον]
-except: [7.219, 11.485]
+# πύργον at 12.332, 12.333 and 12.373 is a tower of the Achaean wall.
+except: [7.219, 11.485, 12.332, 12.333, 12.373]
 en: [tower]
 ---
 

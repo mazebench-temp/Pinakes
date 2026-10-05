@@ -1,0 +1,10 @@
+---
+summary: The wall of Book 12 is “the wall of the Achaeans”, built with toil to guard their ships. The Trojans expect them to give way, but the Lycians and Trojans “could not put the Achaeans to rout” until Hector leapt inside it (12.12, 12.29, 12.432–438).
+refs: [12.142]
+---
+
+**Their wall.** τεῖχος Ἀχαιῶν, “the wall of the Achaeans”, names what the book is about, from the narrator's look ahead, “so long the great wall of the Achaeans also stood firm” (12.12), to the last assault, when Hector “was the first to leap inside the wall of the Achaeans” (12.438; see [[the-achaean-wall]]). Its foundations are the logs and stones “that the Achaeans had laid with toil” (12.29); “the sons of the Achaeans” planted the stakes along the ditch (12.56; see [[sons-of-the-achaeans]]); and the Achaeans set the buttresses first in the ground to prop the towers (12.259–260; see [[battlements]]).
+
+**In the enemy's mouth.** The Trojans speak of the Achaeans as men about to break. Polydamas would gladly see them “perish here, nameless, far from Argos”, but fears being “turned back by the Achaeans” at the ditch (12.70–74; see [[polydamas]]). Asius' men say that the Achaeans “would no longer / hold out, but would fall among the black ships” (12.125–126), and Asius complains that he never thought “the Achaean heroes” could hold back the Trojans (12.165–166; see [[asius]] and [[heros]]). Reading the eagle, Polydamas foresees that even if the Achaeans give way, they will cut down many Trojans at the ships (12.223–227; see [[the-eagle-and-the-serpent]]).
+
+**Holding.** The Lapiths rouse “the well-greaved Achaeans” to fight for the ships (12.141–142; see [[well-greaved]]), and the two Ajaxes urge on their might and their battle (12.266, 12.277; see [[the-two-ajaxes]]). Zeus' storm from Ida carries the dust against the ships and bewitches their minds (12.252–255; see [[zeus]]). At the battlements the blood is “from Trojans and Achaeans” both, “but even so they could not put the Achaeans to rout” (12.430–432), until Zeus gives Hector the higher glory (12.437–438; see [[the-working-womans-scales]]).

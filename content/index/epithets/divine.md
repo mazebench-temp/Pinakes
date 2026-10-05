@@ -6,6 +6,8 @@ tags: [divine-epithet, heroic-epithet]
 summary: “Divine, of the gods,” the adjective of θεός: an epithet of what the gods send and of heroes, kings, heralds and singers.
 aliases: [theios]
 grc: [θεῖος, θείη, θείοιο, "!θείῃ πεδίοιο"]
+# θείη at 12.26 is the optative of τίθημι ("make").
+except: [12.26]
 en: [divine]
 of: [dream, odysseus, chimaera]
 ---

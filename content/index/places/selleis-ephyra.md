@@ -7,7 +7,8 @@ summary: The river of [[Ephyra]], from which [[Heracles]] carried off [[Astyoche
 aliases: [Selleeis]
 grc: [Σελλήεντος]
 en: [Selleis]
-except: [2.839]
+# Σελλήεντος at 12.97 is the river near Arisbe (= 2.839).
+except: [2.839, 12.97]
 ---
 
 {{quote:8fb7d558-f13e-5edb-b2df-9f44174a7405}}

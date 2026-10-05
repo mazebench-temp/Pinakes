@@ -7,7 +7,8 @@ summary: A Trojan, one of the two cherished sons of old [[Phaenops]], killed by 
 aliases: [Thoon]
 grc: [Θόωνα]
 # Θόωνα at 11.422 is a Trojan killed by Odysseus.
-except: [11.422]
+# Θόωνα at 12.140 is the Thoon who comes with Asius (thoon-companion-of-asius).
+except: [11.422, 12.140]
 en: [Thoon]
 # Θόωνα recurs for other Trojans at 11.422, 12.140 and 13.545, which this entry will need to except.
 refs: [5.153, 5.155-157]

@@ -12,7 +12,7 @@ of: [achaeans]
 
 ## Meaning
 
-κηρεσσιφόρητος = κήρεσσι, the dative plural of κήρ (“fate, doom”; [[ker-doom]]) + φορητός (“carried,” from φορέω, “carry”): “carried by the fates.” Its first part is a case form, as in ὀρεσίτροφος, “bred in the mountains,” the epithet of a lion (12.299). Hector explains the word himself in the next verse: they are dogs “whom the fates bring here on the black ships” (8.528; [[black-ships]]). The word occurs only here.
+κηρεσσιφόρητος = κήρεσσι, the dative plural of κήρ (“fate, doom”; [[ker-doom]]) + φορητός (“carried,” from φορέω, “carry”): “carried by the fates.” Its first part is a case form, as in ὀρεσίτροφος, “mountain-bred,” the epithet of a lion (12.299). Hector explains the word himself in the next verse: they are dogs “whom the fates bring here on the black ships” (8.528; [[black-ships]]). The word occurs only here.
 
 The κῆρες are the dooms of death that wait for every man. Zeus weighed two of them at noon of this day, and the fates of the Achaeans sank to the earth (8.69–74; [[that-lays-men-low]], [[the-scales-of-zeus]]).
 

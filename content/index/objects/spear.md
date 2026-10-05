@@ -5,7 +5,9 @@ kind: object
 tags: [weapon]
 summary: The warrior's chief weapon, thrown or thrust. Homer calls it δόρυ, ἔγχος or ἐγχείη, or μελίη, “ash”, after the wood of its shaft.
 aliases: [spears, spearman, spearmen]
+# δούρατα πύργων at 12.36 are the timbers of the towers on the Achaean wall, not spears.
 grc: [δουρί]
+except: [12.36]
 en: [spear]
 ---
 

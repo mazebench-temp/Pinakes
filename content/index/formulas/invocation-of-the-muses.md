@@ -21,7 +21,7 @@ The poet asks a goddess to tell or sing what he is about to tell. The request ha
 2. **The address**, with a title: “goddess” (1.1), “Muses, you who have your homes on Olympus” (2.484), “Olympian Muses, daughters of aegis-bearing Zeus” (2.491–492).
 3. **The question**, usually who or how first: “who were the leaders and lords of the Danaans” (2.487), “who was the best of them” (2.761).
 
-The Muses ([[muses]]) are asked because they know. They were present at the events, and the singer was not. The invocation is where the narrator of the Iliad speaks most plainly in his own person, as “I” and “me”. Elsewhere he rarely does; one other place is his complaint that “it is hard for me to tell all this like a god” (12.176).
+The Muses ([[muses]]) are asked because they know. They were present at the events, and the singer was not. The invocation is where the narrator of the Iliad speaks most plainly in his own person, as “I” and “me”. Elsewhere he rarely does; one other place is his complaint that “it is hard for me to tell all these things like a god” (12.176).
 
 The appeals come at the poem's beginning and before its great efforts of memory: the Catalogue of Ships and the question of the best men and horses in Book 2, and three moments in the battle when the poet must say who struck first or how the fire came to the ships (11.218–220, 14.508–510, 16.112–113). The line “Tell me now, Muses, you who have your homes on Olympus” (2.484) returns at each of those three. The Odyssey opens with the same request in the singular: ἄνδρα μοι ἔννεπε, Μοῦσα, “Tell me, Muse, of the man” (*Odyssey* 1.1). See also [[proem]].
 

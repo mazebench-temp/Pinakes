@@ -8,6 +8,8 @@ aliases: [Ormenos]
 # ^ keeps out the participle ὄρμενον, "rising" (17.738, 21.14). Ὄρμενον at 12.187 is another Trojan,
 # killed by Polypoetes, who will need his own id and this entry an except.
 grc: ["^Ὄρμενον"]
+# Ὄρμενον at 12.187 is the Trojan killed by Polypoetes (ormenus-killed-by-polypoetes).
+except: [12.187]
 relations:
   - slayer: teucer (8.273-274)
 ---

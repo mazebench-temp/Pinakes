@@ -1,0 +1,12 @@
+---
+summary: Book 12 tells what Zeus promised Poseidon in Book 7: after the war the gods turn the rivers of Ida against the Achaean wall and leave the shore as if it had never been built. In the same book Sarpedon wants the fame that living men speak.
+refs: [12.17-33]
+passages:
+  - 12.3-35 | The wall's fate
+---
+
+**The promise kept.** In Book 7 Zeus told Poseidon that when the Achaeans had gone home he might break down the wall, sweep it into the sea and “cover the great beach over again with sand, / so that the great wall of the Achaeans may be brought to nothing” (7.459–463). Book 12 tells it as done (see [[the-building-of-the-wall]] and [[the-achaean-wall]]). The narrator first gives the reason, that the wall “was built against the will of the gods, / the immortals; and so it did not stand firm for long” (12.8–9), and the length of its life, as long as Hector lived, Achilles kept up his wrath and Priam's city stood (12.10–12). Then Poseidon and Apollo turn the eight rivers that run from Ida to the sea against it for nine days while Zeus rains, and Poseidon with his trident sends its foundations of logs and stones out on the waves, “and made all smooth beside the strong-flowing Hellespont, / and covered the great beach over again with sand” (12.17–31). The words are Zeus' own. “Covered the great beach over again with sand” (12.31) answers 7.462, and ἀμαλδύνω, “bring … to nothing” (12.18, 12.32), answers 7.463 (see the translation's note on 12.3–35).
+
+**What is left.** Poseidon had feared that the fame of the new wall would reach as far as the dawn spreads, and that men would forget his own (7.446–453). The gods leave no trace of the wall on the shore. The narrator does not say what became of the mound of the dead that it was built against (7.336–337, 7.435–436); he says only that the beach was made smooth. What remains of the wall is the poem's account of it, which tells of its end before its great day (see [[kleos]]).
+
+**Fame among the living.** In the same book Sarpedon wants another kind of fame, spoken by the living and not read from a mound. He imagines one of the close-armored Lycians saying that their kings rule “not without glory”, since they fight among the foremost (12.317–321; see [[sarpedons-speech]]). Hector's speaker in Book 7 was a sailor of the future reading a tomb (7.87–91); Sarpedon's is a soldier of the present watching his kings (see [[tis-speech]]).

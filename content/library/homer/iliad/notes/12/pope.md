@@ -1,0 +1,7 @@
+---
+summary: Pope's first published translation, “The Episode of Sarpedon” (1709), was taken from Books 12 and 16 and led him to the whole Iliad, and he later parodied Sarpedon's speech in The Rape of the Lock. In his Book 12 Hector bursts through the gate “Gloomy as night”, in Milton's words, and the wall's ruin ends with a line of his own, “No fragment tells where once the wonder stood”.
+---
+
+- “The Episode of Sarpedon” (1709), the speech to Glaucus in Pope's Iliad, and Clarissa's parody of it in *The Rape of the Lock* (5.9–34): [[sarpedons-speech-in-english]].
+- **Gloomy as night.** Where Homer's Hector leaps through the broken gate, “his face like swift night” (12.463), Pope's “furious chief appears, / Gloomy as night!”. Theodore Buckley's notes set beside it the Son of God in *Paradise Lost*, who drives his chariot against the rebel angels “Gloomy as night” (*Paradise Lost* 6.831–832; see [[milton]] and [[like-night]]).
+- **No fragment.** Homer ends the wall's ruin with the beach covered again with sand and the rivers turned back into their beds (12.31–33). Pope adds a line that says what Homer leaves to be inferred, that nothing was left to show where the wall had been: “Now smooth'd with sand, and levell'd by the flood, / No fragment tells where once the wonder stood”. Aristotle, as Strabo reports him, drew the same conclusion from the passage: the poet who invented the wall made it vanish (see [[aristotle-and-the-wall]]).

@@ -15,7 +15,7 @@ en: [bird]
 
 ## Elsewhere in Homer
 
-Hector dismisses bird-signs: “one omen is best, to fight for one's country” (Iliad 12.243).
+Hector dismisses bird-signs: “One omen is best: to fight in defense of our native land” (Iliad 12.243).
 
 ## Outside Homer
 

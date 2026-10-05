@@ -1,0 +1,5 @@
+---
+summary: The Lycians are “mighty” three times in the attack on Menestheus' tower, and Sarpedon tells them it is hard for him, “mighty though I am,” to break through alone.
+---
+
+The Lycian leaders climb the battlements “like a dark storm,” “the mighty leaders and rulers of the Lycians” (12.375–376; [[like-a-black-storm]], [[lycians]]), in the formula ἡγήτορες ἠδὲ μέδοντες that usually names the Achaean leaders in address (2.79). When Ajax and Teucer drive Sarpedon back, he calls to his men: “It is hard for me, mighty though I am, to break through alone and make a path to the ships; but come on with me; the work of more men is better” (12.410–412; [[sarpedon]], [[the-work-of-many]]). The adjective returns as the narrator weighs the two sides: “for neither could the mighty Lycians break the Danaans' wall and make a path to the ships” (12.417–418), nor could the Danaans thrust them back (12.419–420; [[spearmen]]). The might on both sides is even, and the simile of the working woman's scales follows (12.433–436; [[the-working-womans-scales]]).

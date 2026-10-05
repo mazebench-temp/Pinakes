@@ -3,7 +3,7 @@ title: Hyrtacus
 greek: Ὕρτακος
 kind: person
 tags: [trojan, troad]
-summary: Father of [[Asius]], known in the Iliad only from the patronymic Ὑρτακίδης, "son of Hyrtacus".
+summary: Father of [[Asius]], named in his son's patronymic Ὑρτακίδης, "son of Hyrtacus", and in the phrase "Asius, son of Hyrtacus" (Ἄσιον Ὑρτάκου υἱόν, 13.759, 13.771).
 grc: [Ὑρτακίδης]
 en: [Hyrtacus]
 ---

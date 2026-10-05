@@ -1,0 +1,7 @@
+---
+summary: Hector answers Polydamas' reading of the eagle “looking at him darkly” (12.230), the glare he will turn on him again when Polydamas counsels retreat to the city (18.284).
+---
+
+“Looking at him darkly, Hector of the gleaming helmet said” (12.230; see [[of-the-gleaming-helmet]]). Polydamas has begun with a grievance, that Hector always rebukes him in the assemblies when he gives good counsel, since it is not fitting “for a man of the people to speak against you”, and has then advised against the attack (12.211–229; see [[polydamas]], [[demos]] and [[divination]]). The glare answers a man who, in Hector's eyes, has overstepped, the sense J. P. Holoka gave the formula (see the entry). The speech that follows is a rebuke: the gods have destroyed his wits, Hector cares nothing for birds, and if Polydamas holds back from the fighting or turns another man from the war, he will die by Hector's spear (12.231–250; see [[hector]] and [[one-omen-is-best]]). Polydamas' first counsel, on the chariots, had pleased him (12.80).
+
+The same verse introduces Hector's answers to Glaucus, who has reproached him “looking darkly” first (17.141, 17.169), and to Polydamas once more, when he advises the Trojans to go back into the city before Achilles returns to the fight (18.284). Both times Polydamas' counsel proves sound: the omen comes true when the Trojans are driven back over the ditch (16.366–371), and Hector, facing Achilles, regrets that he did not take the second (22.99–103).

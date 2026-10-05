@@ -36,4 +36,4 @@ Then a promise, if Ilios falls: “a gift of honor, a tripod, or two horses with
 
 “A blow is deadliest” there, as it was where Paris' arrow struck Nestor's horse (μάλιστα δὲ καίριόν ἐστι, 8.84, 8.326; see [[stone-throwing]] and [[bow]]). Ajax stands over his brother with his shield, and Mecisteus and Alastor carry him “groaning heavily” to the ships (8.330–334; see [[mecisteus-son-of-echius]] and [[alastor-who-carries-teucer]]).
 
-**The string breaks again.** On the next day of fighting he is back at the wall, “newly come from his hut” (12.336). At the ships he aims at Hector once more, and Zeus, guarding Hector, snaps the string, and “the bow fell from his hand”, in the half-verse of 8.329 (15.458–465). Twice the best archer of the Achaeans draws on Hector, and twice his string breaks.
+**The string breaks again.** On the next day of fighting he is back at the wall, “just come from his hut” (12.336). At the ships he aims at Hector once more, and Zeus, guarding Hector, snaps the string, and “the bow fell from his hand”, in the half-verse of 8.329 (15.458–465). Twice the best archer of the Achaeans draws on Hector, and twice his string breaks.

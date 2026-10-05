@@ -5,7 +5,9 @@ kind: simile
 tags: [warfare, divine-will]
 summary: A river in flood, a winter torrent swollen by the rain of Zeus, is the Iliad's picture of a hero whom nothing can stop. Diomedes storms across the plain like one and scatters the Trojan battalions as it scatters dikes (5.85–94), and Ajax sweeps the plain like one that carries dry oaks and pines down into the sea (11.492–497).
 aliases: [like a river in flood, the winter torrent, Diomedes like a river]
+# ἐπιβρίσῃ Διὸς ὄμβρος returns at 12.286 in the snow simile of the stones (the-great-snowfall).
 grc: [ποταμῷ πλήθοντι, ἐκέδασσε γεφύρας, γέφυραι ἐεργμέναι, ἀλωάων ἐριθηλέων, ἐπιβρίσῃ Διὸς ὄμβρος, κατήριπε]
+except: [12.286]
 en: [like a river in flood, a winter torrent, scatters the dikes, the close-built dikes, orchards, when it comes on suddenly, fall in ruin before it]
 of: [diomedes]
 ---

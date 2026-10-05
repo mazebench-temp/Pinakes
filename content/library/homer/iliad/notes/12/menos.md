@@ -1,0 +1,9 @@
+---
+summary: Poseidon and Apollo lead “the might of the rivers” against the wall; Asius complains that the Achaeans have held back “our might and our irresistible hands”; and the two Ajaxes go along the towers “urging on the might of the Achaeans”.
+---
+
+**The might of the rivers.** When the war is over, Poseidon and Apollo will bring the wall to nothing, “leading against it the might of the rivers” (ποταμῶν μένος, 12.18; see [[the-achaean-wall]] and [[the-building-of-the-wall]]). μένος is the force of fire and wind as well as of men: the Chimaera breathed out “the terrible might of blazing fire” (6.182), and the clouds stand still “while the might of the North Wind sleeps” (5.524). Eight rivers of Ida, the Scamander and Simoeis among them, are the force that will sweep the wall away (12.19–33).
+
+**Our might.** Held at the gate by the two Lapiths, Asius complains to Zeus: “I did not think the Achaean heroes / would hold back our might and our irresistible hands” (12.165–166; see [[asius]] and [[pseudos]]). Hector had boasted in Book 8 that the wall, a feeble thing, “will not hold back my might” (8.178). The Achaeans have held it back at one gate, for a time. In the next book Idomeneus turns Asius' pair of words around: Hector will find it hard to burn the ships until he has overcome the might and irresistible hands of the two Ajaxes and Teucer (μένος καὶ χεῖρας ἀάπτους, 13.313–320).
+
+**Urging on the might.** The two Ajaxes range along the towers “in every direction, urging on the might of the Achaeans” (μένος ὀτρύνοντες, 12.265–266; see [[the-two-ajaxes]] and [[not-all-alike-in-war]]). The phrase is the one with which a leader's call to battle ends, “he urged on the might and spirit of every man” (5.470, 11.291; see [[exhortation]]). The translation keeps “might” for μένος and “strength” for βίη, which the Lapiths and the Trojans trust in this book (12.135, 12.153, 12.256; see the translation's table).

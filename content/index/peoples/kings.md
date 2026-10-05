@@ -7,7 +7,8 @@ summary: The βασιλῆες, the “scepter-bearing kings” whom Zeus has nu
 aliases: [basilees, scepter-bearing kings, kings whom Zeus has nurtured]
 grc: [βασιλῆες, βασιλήων, βασιλεῦσιν, βασιλῆας, βασιλῆα]
 # βασιλῆα at 10.494 is Rhesus, king of the Thracians.
-except: [1.331, 6.163, 10.494]
+# βασιλῆες at 12.319 are the Lycian kings, Sarpedon and Glaucus.
+except: [1.331, 6.163, 10.494, 12.319]
 passages:
   - 2.84-86 | The scepter-bearing kings
   - 2.188-206 | Odysseus: kings and commoners

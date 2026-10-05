@@ -1,10 +1,10 @@
 ---
 title: Blustering
-greek: ὑπεραής
+greek: ὑπεραής, ζαής
 kind: epithet
 tags: [rare-word]
-summary: “Blowing hard,” an epithet found once in Homer, of the storm wind to which Hector is compared as he falls on the battle.
-aliases: [hyperaes, violent, blowing hard]
+summary: “Blowing hard,” two words of the wind from ἄημι: ὑπεραής, found once in Homer, of the storm wind to which Hector is compared as he falls on the battle, and ζαής, three times, of winds in two similes and of a gale sent by Zeus.
+aliases: [hyperaes, zaes, violent, blowing hard]
 grc: [ὑπεραέϊ]
 en: [blustering]
 of: [hector]

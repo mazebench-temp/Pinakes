@@ -8,7 +8,8 @@ aliases: [Thoōn]
 # Θόωνα at 5.152 is Thoon son of Phaenops. Θόωνα recurs at 12.140 (with Asius at the wall) and 13.545
 # (killed by Antilochus): except those lines when Books 12 and 13 are indexed.
 grc: [Θόωνα]
-except: [5.152]
+# Θόωνα at 12.140 is the Thoon who comes with Asius (thoon-companion-of-asius).
+except: [5.152, 12.140]
 relations:
   - slayer: odysseus (11.422)
 passages:

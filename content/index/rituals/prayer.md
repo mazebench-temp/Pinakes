@@ -6,7 +6,8 @@ tags: [prayer]
 summary: Speaking to a god to ask for help. A prayer calls on the god, claims a right to be heard, and makes its request.
 aliases: [pray, prayers, vow, vows, euchole]
 grc: [ἠρᾶθʼ, κλῦθί μευ, κρήηνον ἐέλδωρ, εὐχ*, εὐξ*, ἠρήσατο, χεῖρας ὀρεγνύς, χεῖρας ἀνασχών, ἐπικρήηνον ἐέλδωρ, "!ἐϋξοο*", "!ἐϋξου", "!ἐϋξεστ*", "!εὐχαλκ*"]
-except: [1.91, 1.397]
+# εὖχος (12.328) and εὐχετόῳτο (12.391) are a triumph and a boast, not prayers.
+except: [1.91, 1.397, 12.328, 12.391]
 en: [prayed, prayer, pray, vow, Hear me, fulfill for me this wish, stretching out his hands, lifting up his hands]
 passages:
   - 1.35-43 | Chryses prays for revenge

@@ -1,0 +1,5 @@
+---
+summary: The epithet sorts out the two Ajaxes when Menestheus sends for help: Telamonian Ajax comes with Teucer, leaves the son of Oileus behind, and kills Epicles.
+---
+
+Menestheus asks for both Ajaxes, “both of them, rather,” but if they are needed where they are, “then at least let valiant Telamonian Ajax come alone, and let Teucer follow with him, well skilled with the bow” (12.344–350; [[menestheus]], [[thootes]]); Thootes repeats the message to the two of them (12.354–363). The epithet then does its proper work of keeping the two men apart. “So he spoke, and great Telamonian Ajax did not disobey” (12.364), and he tells the son of Oileus and Lycomedes to stay (12.365–369; [[ajax-son-of-oileus]], [[the-two-ajaxes]]). “So he spoke, and Telamonian Ajax went away, and with him went Teucer, his brother by the same father” (12.370–371; [[teucer]]). At Menestheus' tower “Telamonian Ajax was the first to kill his man, Sarpedon's companion, great-hearted Epicles” (12.378–379; [[epicles]], [[great-hearted]]). See [[ajax]] and [[telamon]].

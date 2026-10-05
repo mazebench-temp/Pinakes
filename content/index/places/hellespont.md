@@ -11,7 +11,7 @@ en: [Hellespont]
 
 {{quote:faaa5502-e516-5dae-83b9-2d41a91c5a57}}
 
-ἀγάρροος = ἀγα- ("very") + ῥόος ("stream"): "strong-flowing", for the current that runs through the strait from the Propontis to the Aegean. The word occurs only here in the Iliad. The Thracians are those "whom the Hellespont encloses" (ἐντὸς ἐέργει): seen from Troy, the strait is their boundary.
+ἀγάρροος = ἀγα- ("very") + ῥόος ("stream"): "strong-flowing", for the current that runs through the strait from the Propontis to the Aegean. The word occurs twice in the Iliad, both times of the Hellespont (here and 12.30). The Thracians are those "whom the Hellespont encloses" (ἐντὸς ἐέργει): seen from Troy, the strait is their boundary.
 
 {{notes}}
 

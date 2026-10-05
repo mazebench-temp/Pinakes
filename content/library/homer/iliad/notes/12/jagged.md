@@ -1,0 +1,5 @@
+---
+summary: Telamonian Ajax kills Epicles with “a jagged boulder” that no man of today could easily hold in both hands.
+---
+
+“And Telamonian Ajax was the first to kill his man, Sarpedon's companion, great-hearted Epicles, hitting him with a jagged boulder, which inside the wall lay, a big one, uppermost beside the battlement; nor could a man easily hold it in both hands, not even one in his prime, such as mortals are now” (12.378–383; [[epicles]], [[men-of-today]], [[stone-throwing]]). μάρμαρος is a gleaming boulder, not marble in the later sense. The half-verse μαρμάρῳ ὀκριόεντι βαλών recurs in the Odyssey, of the boulder the Cyclops might throw at Odysseus' ship (Od. 9.499). In Book 16 Patroclus kills Hector's charioteer Cebriones with μάρμαρον ὀκριόεντα, and Cebriones too falls “like a diver,” in the verses that end Epicles' death here (16.734–743; 12.385–386; [[like-a-diver]]). The stone that struck Teucer in Book 8 was jagged as well (8.327); now his brother throws one. See [[ajax]].

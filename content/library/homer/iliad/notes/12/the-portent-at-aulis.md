@@ -1,0 +1,7 @@
+---
+summary: The Iliad's second serpent portent, at the Achaean ditch, reverses the first. At Aulis a serpent devoured a bird's young; at the ditch an eagle drops a serpent that it could not bring home to its young, and Polydamas reads it as a warning to the Trojans (12.200–229).
+---
+
+At Aulis a blood-red serpent sent by Zeus darted from under the altar, devoured a sparrow's eight young and then their mother, and was turned to stone, and Calchas read it as nine years of war and Troy taken in the tenth (2.308–329). At the ditch it is a bird that carries the serpent, and the serpent fights back: it strikes the eagle, which drops it among the Trojans before it reaches its nest and its young (12.200–207, 12.221–222; see [[the-eagle-and-the-serpent]]). Both signs are called portents of Zeus (τέρας, 2.324, 12.209), and both creatures are πέλωρα, “monstrous” things (2.321, 12.202). Both serpents are red: δαφοινός, “blood-red on its back” (2.308), and φοινήεις, “blood-red” (12.202; see [[serpent]]).
+
+Calchas reads his sign at once, as a seer. Polydamas, who is not a seer, says how “a prophet” would read it (12.228–229), and his reading has the shape of Calchas': as the creatures did, “so we” (ὣς ἡμεῖς, 2.328, 12.223). The sign at Aulis promised the Achaeans victory, and Odysseus tells the army that it is “all being fulfilled” in the tenth year (2.330). The sign at the ditch warns the Trojans, and Hector rejects it (12.230–250).

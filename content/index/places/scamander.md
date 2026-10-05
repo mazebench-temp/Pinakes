@@ -6,7 +6,8 @@ tags: [troad]
 summary: The great river of the Trojan plain, called Xanthus by the gods and Scamander by men. Its plain and its meadow are the battlefield of the Iliad.
 aliases: [Skamandros, Scamandrian plain]
 grc: [Σκαμάνδρι*]
-except: [5.49, 6.402]
+# Ξάνθοιο at 12.313 is the Lycian Xanthus, by which Sarpedon and Glaucus hold their estate.
+except: [5.49, 6.402, 12.313]
 ---
 
 Σκάμανδρος (Skamandros). The name is probably not Greek, and its origin is unknown. The river has two names: “the gods call it Xanthus, and men Scamander” (20.74; see [[language-of-gods-and-men]]). Its adjective Σκαμάνδριος (“of the Scamander”) names the plain and the meadow where the Achaean army forms up, and men are named after it: the hunter Scamandrius (see [[scamandrius]]) and Hector's son Astyanax, whom Hector calls Scamandrius though the Trojans call him Astyanax (6.402–403).

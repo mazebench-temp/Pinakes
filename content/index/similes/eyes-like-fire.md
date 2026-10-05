@@ -3,7 +3,7 @@ title: Eyes like fire
 greek: ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐΐκτην
 kind: simile
 tags: [anger, body]
-summary: Agamemnon rises to answer Calchas, “and his eyes were like blazing fire” (1.104). The simile shows the king's fury in his eyes before he says a word.
+summary: Eyes that blaze like fire, the look of fury. Agamemnon's eyes are “like blazing fire” when he rises to answer Calchas (1.104), and Hector's eyes “blazed with fire” as he leaps through the broken gate of the Achaean wall (12.466).
 aliases: [his eyes were like blazing fire]
 grc: [πυρὶ λαμπετόωντι ἐΐκτην]
 en: [like blazing fire]

@@ -1,0 +1,5 @@
+---
+summary: Leonteus strikes Hippomachus with his spear “at the belt” (12.189), the spot where the spear kills Amphius in Book 5 and Podes in Book 17.
+---
+
+“And Leonteus, offshoot of Ares, struck the son of Antimachus, / Hippomachus, with his spear, hitting him at the belt” (κατὰ ζωστῆρα τυχήσας, 12.188–189; see [[leonteus]] and [[hippomachus]]). κατὰ ζωστῆρα marks the place of a spear blow twice more in the Iliad: Telamonian Ajax strikes Amphius there, and the spear sticks in his lower belly (5.615–616), and Menelaus kills Podes, Hector's companion, in the same way (17.578). The belt was fastened over the lower edge of the corselet (see [[corselet]]), and the belly lay behind it: spears are driven “through the belt” into the belly at 5.539 and 17.519. It saved both sons of Atreus, Menelaus from Pandarus' arrow and Agamemnon from Iphidamas' spear (4.132–140, 11.234–237). Hippomachus' does not: he is the first of Leonteus' victims at the gate, and Leonteus draws his sword for the next (12.190–192; see [[sword]]).

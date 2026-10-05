@@ -1,0 +1,474 @@
+# Homer, Iliad, Book 12 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So in the hut the valiant son of Menoetius
+2	was tending wounded Eurypylus; and they fought on,
+3	the Argives and Trojans, in a mass. And no longer
+4	would the ditch of the Danaans hold them back, nor the wall above it,
+5	the broad wall they had built to protect their ships, and had driven a ditch
+6	around it; and they did not give glorious hecatombs to the gods,
+7	so that it might keep safe the swift ships and the abundant plunder
+8	that it held within. It was built against the will of the gods,
+9	the immortals; and so it did not stand firm for long.
+10	As long as Hector was alive and Achilles kept up his wrath,
+11	and the city of lord Priam was unsacked,
+12	so long the great wall of the Achaeans also stood firm.
+13	But when the best of the Trojans had died,
+14	and of the Argives many were beaten down and some were left,
+15	and the city of Priam was sacked in the tenth year,
+16	and the Argives had gone in their ships to their dear native land,
+17	then Poseidon and Apollo took counsel
+18	to bring the wall to nothing, leading against it the might of the rivers,
+19	all that flow from the mountains of Ida to the sea,
+20	the Rhesus and Heptaporus, the Caresus and Rhodius,
+21	the Granicus and Aesepus, and brilliant Scamander,
+22	and the Simoeis, where many oxhide shields and helmets
+23	had fallen in the dust, and the race of men half-divine.
+24	Phoebus Apollo turned the mouths of them all together,
+25	and for nine days he sent their stream against the wall; and Zeus rained
+26	without ceasing, so that he might the sooner make the walls float out to sea.
+27	And the shaker of the earth himself, holding his trident in his hands,
+28	led the way, and sent out on the waves all the foundations
+29	of logs and stones that the Achaeans had laid with toil,
+30	and made all smooth beside the strong-flowing Hellespont,
+31	and covered the great beach over again with sand,
+32	when he had brought the wall to nothing; and he turned the rivers back to flow
+33	down their channels, where before they had poured their fair-flowing water.
+34	So Poseidon and Apollo were to do in time to come;
+35	but now battle and cries blazed around
+36	the well-built wall, and the timbers of the towers rang
+37	as they were struck; and the Argives, beaten down by the lash of Zeus,
+38	were penned in beside the hollow ships, and held back there
+39	in fear of Hector, the mighty master of rout;
+40	and he fought as before, like a storm wind.
+41	And as when among hounds and hunting men
+42	a boar or a lion turns this way and that, exulting in his strength,
+43	and they, arraying themselves in close order like a tower,
+44	stand against him and hurl thick and fast
+45	their spears from their hands; but his glorious heart
+46	never fears or flees, and it is his pride that kills him;
+47	and again and again he turns, testing the ranks of men,
+48	and wherever he charges, there the ranks of men give way;
+49	so Hector went through the throng and begged his companions,
+50	urging them to cross the ditch; but his horses
+51	did not dare, swift-footed though they were, and neighed loudly, standing at the very
+52	edge; for the ditch frightened them off,
+53	a wide one, not to be leapt across from close at hand, nor crossed
+54	with ease; for overhanging banks stood all along it
+55	on both sides, and on top it was fitted with stakes,
+56	sharp ones, which the sons of the Achaeans had planted,
+57	close-set and great, a defense against enemy men.
+58	There a horse drawing a well-wheeled chariot could not easily
+59	go in; but the men on foot were eager to see if they could accomplish it.
+60	Then Polydamas came and stood beside bold Hector and said:
+61	“Hector, and you other leaders of the Trojans and the allies,
+62	it is foolish of us to drive our swift horses through the ditch;
+63	it is very hard to cross; for there are stakes,
+64	sharp ones, standing in it, and the wall of the Achaeans close against them,
+65	where there is no way to get down and fight
+66	for horsemen; for it is narrow, and there I think they will be wounded.
+67	For if, meaning them evil, he is destroying them utterly,
+68	Zeus who thunders on high, and wishes to help the Trojans,
+69	I for my part would wish it to happen even now,
+70	that the Achaeans should perish here, nameless, far from Argos;
+71	but if they turn back, and a counterattack comes
+72	from the ships, and we plunge into the ditch they have dug,
+73	then I think not even a messenger will get back
+74	to the city again, once we have been turned back by the Achaeans.
+75	Come then, let us all do as I say:
+76	let the attendants hold the horses at the ditch,
+77	and we ourselves, on foot, armed in our armor,
+78	all follow Hector in a body; and the Achaeans
+79	will not stand, if the bounds of destruction are already made fast upon them.”
+80	So spoke Polydamas, and his safe counsel pleased Hector,
+81	and at once he leapt from his chariot to the ground in his armor.
+82	Nor did the other Trojans gather on their chariots,
+83	but all sprang down, when they saw brilliant Hector.
+84	Then each man gave orders to his own charioteer
+85	to hold the horses in good order there at the ditch;
+86	and they, parting and arraying themselves,
+87	marshaled in five companies, followed with their leaders.
+88	Some went with Hector and noble Polydamas,
+89	who were the most and the best, and were most eager
+90	to break through the wall and fight at the hollow ships.
+91	And Cebriones went with them as a third; for beside the chariot
+92	Hector had left another man, weaker than Cebriones.
+93	The second were led by Paris and Alcathous and Agenor,
+94	the third by Helenus and godlike Deiphobus,
+95	two sons of Priam; and a third with them was Asius, the hero,
+96	Asius, son of Hyrtacus, whom his horses carried from Arisbe,
+97	great and tawny horses, from the river Selleis.
+98	The fourth were led by the brave son of Anchises,
+99	Aeneas, and with him the two sons of Antenor,
+100	Archelochus and Acamas, well skilled in every kind of fighting.
+101	And Sarpedon led the famous allies,
+102	and took Glaucus with him and warlike Asteropaeus;
+103	for they seemed to him to be the best by far
+104	of the rest, after himself; but he stood out even among them all.
+105	And when they had locked themselves together with their well-made oxhides,
+106	they went straight at the Danaans in eager haste, and said the enemy would no longer
+107	hold out, but would fall among the black ships.
+108	Then the other Trojans and their far-famed allies
+109	obeyed the counsel of blameless Polydamas;
+110	but the son of Hyrtacus, Asius, leader of men, would not
+111	leave his horses there, and his charioteer and attendant,
+112	but drove close to the swift ships with them,
+113	the fool! He was not going to escape the evil fates
+114	and, glorying in his horses and chariot, from the ships
+115	go back home to windy Ilios;
+116	for before that, fate of evil name enfolded him
+117	through the spear of Idomeneus, noble son of Deucalion.
+118	For he went toward the left of the ships, where the Achaeans
+119	were coming back from the plain with their horses and chariots;
+120	there he drove his horses and chariot through; nor did he find at the gates
+121	the doors shut and the long bar in place,
+122	but men held them wide open, in case some companion
+123	fleeing from the war they might bring safe to the ships.
+124	Straight there, with his mind set on it, he drove his horses, and they followed with him
+125	with shrill cries; for they said the Achaeans would no longer
+126	hold out, but would fall among the black ships,
+127	the fools! At the gates they found two men, the best,
+128	high-hearted sons of Lapith spearmen,
+129	the one the son of Peirithous, mighty Polypoetes,
+130	the other Leonteus, the equal of Ares, ruin of mortals.
+131	These two, in front of the high gates,
+132	stood like oaks in the mountains, with lofty crowns,
+133	that withstand the wind and the rain all their days,
+134	made fast by great roots that reach far down;
+135	so these two, trusting in their hands and their strength,
+136	awaited great Asius as he came on, and did not flee.
+137	And they came straight for the well-built wall, holding their dry oxhides
+138	up high, with a great shout,
+139	around lord Asius and Iamenus and Orestes
+140	and Adamas, son of Asius, and Thoon and Oenomaus.
+141	For a while the two, being inside, kept rousing the well-greaved Achaeans
+142	to fight in defense of the ships;
+143	but when they saw them rushing at the wall,
+144	the Trojans, and among the Danaans there rose shouting and rout,
+145	the two darted out and fought in front of the gates,
+146	like two wild boars that in the mountains
+147	await the din of men and dogs coming on,
+148	and darting sideways they break the wood around them,
+149	cutting it off at the root, and a gnashing of tusks
+150	goes on, until someone hits them and takes their life;
+151	so rang the shining bronze on the chests of these two
+152	as they were hit face on; for they fought very fiercely,
+153	trusting in the men above them and in their own strength.
+154	And these, with stones, from the well-built towers
+155	kept shooting, defending themselves and the huts
+156	and the swift-sailing ships; and the stones fell to the ground like snowflakes,
+157	that a blustering wind, driving the shadowy clouds,
+158	pours down thick upon the bountiful earth;
+159	so the missiles poured from their hands, from the Achaeans
+160	and from the Trojans too; and the helmets rang dry all around,
+161	and the bossed shields, as men were struck with stones like millstones.
+162	Then he groaned aloud and struck both his thighs,
+163	Asius, son of Hyrtacus, and in his indignation he spoke:
+164	“Father Zeus, so you too, it seems, have become a lover of lies
+165	through and through; for I did not think the Achaean heroes
+166	would hold back our might and our irresistible hands.
+167	But they, like wasps with nimble waists, or bees,
+168	that have made their homes beside a rocky road,
+169	and do not leave their hollow house, but stand their ground
+170	and fight off the hunting men for the sake of their young,
+171	so these men, though they are only two, will not give way from the gates
+172	until they have either killed or been taken.”
+173	So he spoke, but he did not persuade the mind of Zeus by saying this;
+174	for his heart wished to hold out glory to Hector.
+175	And others were fighting their battle around other gates;
+176	and it is hard for me to tell all these things like a god;
+177	for everywhere a wondrous fire had risen around the wall
+178	of stone; and the Argives, troubled though they were, of necessity
+179	defended the ships; and the gods were grieved at heart,
+180	all who were the helpers of the Danaans in battle.
+181	And the Lapiths joined in the war and the combat.
+182	Then the son of Peirithous, mighty Polypoetes,
+183	struck Damasus with his spear through the bronze-cheeked helmet;
+184	nor did the bronze helmet hold it, but right through
+185	the bronze point broke the bone, and the brain
+186	inside was all spattered; and he beat him down for all his eagerness.
+187	And then he slew and stripped Pylon and Ormenus.
+188	And Leonteus, offshoot of Ares, struck the son of Antimachus,
+189	Hippomachus, with his spear, hitting him at the belt.
+190	And then, drawing his sharp sword from its sheath,
+191	first he darted through the throng at Antiphates
+192	and struck him hand to hand; and he was flung on his back on the ground;
+193	and then Menon and Iamenus and Orestes,
+194	all of them, one after another, he brought down to the bountiful earth.
+195	While these were stripping them of their gleaming armor,
+196	the young men who followed Polydamas and Hector,
+197	who were the most and the best, and were most eager
+198	to break through the wall and set the ships on fire,
+199	still stood hesitating beside the ditch.
+200	For a bird had come to them as they were eager to cross,
+201	an eagle flying high, on the left, skirting the army,
+202	carrying in its talons a blood-red serpent, monstrous,
+203	alive and still struggling; and it had not yet forgotten the joy of battle,
+204	for it struck the bird that held it, on the breast beside the neck,
+205	bending back; and the eagle flung it away to the ground
+206	in the pain of its wounds, and dropped it in the middle of the throng,
+207	and with a scream it flew off on the blasts of the wind.
+208	And the Trojans shuddered when they saw the writhing snake
+209	lying in their midst, the portent of aegis-bearing Zeus.
+210	Then Polydamas came and stood beside bold Hector and said:
+211	“Hector, you always somehow rebuke me in the assemblies
+212	when I give good counsel, since it is not fitting at all
+213	for a man of the people to speak against you, neither in council
+214	nor ever in war, but always to increase your power;
+215	but now again I will speak as it seems to me best.
+216	Let us not go on to fight the Danaans at the ships.
+217	For this is how I think it will end, if truly
+218	this bird came to the Trojans as they were eager to cross,
+219	an eagle flying high, on the left, skirting the army,
+220	carrying in its talons a blood-red serpent, monstrous,
+221	alive; but it let it go at once, before it reached its own home,
+222	and did not finish carrying it to give to its young.
+223	So we, even if we break through the gates and the wall of the Achaeans
+224	with great strength, and the Achaeans give way,
+225	shall not come back in good order from the ships by the same paths;
+226	for we shall leave many of the Trojans behind, whom the Achaeans
+227	will cut down with the bronze, fighting in defense of the ships.
+228	So would a prophet interpret it, one who clearly in his heart
+229	knew of portents, and whom the people would obey.”
+230	Looking at him darkly, Hector of the gleaming helmet said:
+231	“Polydamas, what you say is no longer pleasing to me;
+232	you know how to think of another word better than this.
+233	But if you really say this in earnest,
+234	then the gods themselves have destroyed your wits,
+235	you who tell me to forget loud-thundering Zeus'
+236	counsels, which he himself promised me and nodded his assent to;
+237	and you tell me to obey long-winged birds,
+238	which I do not heed at all, nor do I care
+239	whether they go to the right, toward the dawn and the sun,
+240	or to the left, toward the misty darkness.
+241	But let us obey the counsel of great Zeus,
+242	who is lord over all mortals and immortals.
+243	One omen is best: to fight in defense of our native land.
+244	Why are you afraid of the war and the combat?
+245	For even if all the rest of us are killed
+246	at the ships of the Argives, there is no fear that you will perish;
+247	for your heart is not staunch against the enemy, nor eager for battle.
+248	But if you hold back from the combat, or turn any other man
+249	away from the war, beguiling him with your words,
+250	at once, struck by my spear, you will lose your life.”
+251	So he spoke, and led the way, and they followed with him
+252	with a wondrous din; and Zeus who delights in thunder
+253	roused from the mountains of Ida a storm of wind
+254	that carried the dust straight at the ships; and the Achaeans'
+255	minds he bewitched, and granted glory to the Trojans and Hector.
+256	Trusting in his portents and in their own strength,
+257	they tried to break through the great wall of the Achaeans.
+258	They tore at the copings of the towers, and threw down the battlements,
+259	and pried at the jutting buttresses, which the Achaeans
+260	had set first in the ground to be the props of the towers.
+261	These they dragged out, and they hoped to break the Achaeans' wall
+262	through; but not even yet did the Danaans draw back from their path,
+263	but they fenced the battlements with oxhides
+264	and shot from them at the enemy as they came up under the wall.
+265	And the two Ajaxes, calling out orders, ranged along the towers
+266	in every direction, urging on the might of the Achaeans.
+267	One with soothing words, another with harsh words
+268	they rebuked, whomever they saw holding back from the battle altogether:
+269	“Friends, whoever among the Argives is outstanding, or middling,
+270	or worse, since men are by no means all alike
+271	in war, now there is work for all;
+272	and you yourselves know this, I think. Let no one turn back
+273	toward the ships at the sound of the man who shouts at us,
+274	but press forward, and urge one another on,
+275	in the hope that Zeus may grant it, the Olympian lord of the lightning,
+276	that we thrust back the quarrel and drive the enemy to the city.”
+277	So the two, shouting out in front, urged on the battle of the Achaeans.
+278	And as the flakes of snow fall thick
+279	on a winter's day, when Zeus the counselor has set out
+280	to snow, showing men these arrows of his;
+281	and he lulls the winds and pours it down steadily, until he has covered
+282	the peaks of the high mountains and the high headlands
+283	and the lotus plains and the rich tilled fields of men,
+284	and it is poured over the harbors and shores of the gray sea,
+285	but the wave that washes up against it holds it off; and all else
+286	is wrapped over from above, when the rain of Zeus falls heavy;
+287	so from both sides the stones flew thick,
+288	some at the Trojans, and some from the Trojans at the Achaeans,
+289	as they pelted one another; and over the whole wall a thudding rose.
+290	Not even then would the Trojans and shining Hector
+291	have broken the gates of the wall and the long bar,
+292	had not Zeus the counselor roused his own son, Sarpedon,
+293	against the Argives, like a lion against cattle with curving horns.
+294	At once he held before him his shield, balanced on every side,
+295	beautiful, of bronze, beaten out, which the smith
+296	had beaten, and inside it he stitched oxhides close together
+297	with golden wires running all around the circle.
+298	Holding it before him, shaking two spears,
+299	he went on like a mountain-bred lion, which has long
+300	gone without meat, and his proud spirit bids him
+301	make an attempt on the sheep, and go even into the close-built fold;
+302	for even if he finds herdsmen there beside it
+303	with dogs and spears keeping watch over the sheep,
+304	he has no mind to be driven from the steading without a try,
+305	but either he springs on one and seizes it, or he himself
+306	is hit among the foremost by a javelin from a swift hand;
+307	so then his spirit sent godlike Sarpedon
+308	to rush at the wall and break through the battlements.
+309	And at once he spoke to Glaucus, son of Hippolochus:
+310	“Glaucus, why is it that we two are honored most
+311	with a seat of honor, with meat, and with full cups
+312	in Lycia, and all look on us as gods,
+313	and we hold a great domain by the banks of the Xanthus,
+314	a fair one, of orchard and wheat-bearing plowland?
+315	So now we must take our stand among the foremost Lycians
+316	and meet the blazing battle,
+317	so that one of the close-armored Lycians may say this:
+318	‘Truly not without glory are they who rule over Lycia,
+319	these kings of ours, and they eat fat sheep
+320	and choice wine, honey-sweet; but there is strength in them too,
+321	noble strength, since they fight among the foremost Lycians.’
+322	My friend, if, once we had escaped this war,
+323	we two were to be ageless and immortal forever,
+324	then neither would I myself fight among the foremost,
+325	nor would I send you into the battle where men win glory;
+326	but now, since in any case the fates of death stand over us,
+327	countless, which no mortal can flee or escape,
+328	let us go, and either hold out triumph to another, or another to us.”
+329	So he spoke, and Glaucus did not turn away, nor disobey;
+330	and the two went straight on, leading the great host of the Lycians.
+331	And seeing them, Menestheus, son of Peteos, shuddered;
+332	for it was to his tower that they came, bringing misery.
+333	And he peered along the rampart of the Achaeans, to see whether he could catch sight of
+334	one of the leaders who might ward off disaster from his companions;
+335	and he caught sight of the two Ajaxes, insatiable of war,
+336	standing there, and Teucer, who had just come from his hut,
+337	close by; but there was no way for him to make them hear by shouting,
+338	so great was the din, and the shout reached the sky,
+339	as shields were struck, and helmets with horsehair crests,
+340	and the gates; for all of them had been shut, and the enemy, standing at them,
+341	were trying to break them by force and come in.
+342	Quickly he sent the herald Thootes to Ajax:
+343	“Go, brilliant Thootes, run and call Ajax,
+344	both of them, rather; for that would be by far the best of all,
+345	since sheer destruction will soon be wrought here.
+346	For the leaders of the Lycians have pressed on so hard, who even before now
+347	have been violent in the fierce battles.
+348	But if over there too toil and quarrel have arisen,
+349	then at least let valiant Telamonian Ajax come alone,
+350	and let Teucer follow with him, well skilled with the bow.”
+351	So he spoke, and the herald heard him and did not disobey,
+352	and he went running along the wall of the bronze-armored Achaeans,
+353	and came and stood beside the Ajaxes, and at once he said:
+354	“Ajaxes, leaders of the bronze-armored Argives,
+355	the dear son of Peteos, whom Zeus has nurtured, bids you
+356	go there, so that you may face the toil, even for a little while,
+357	both of you, rather; for that would be by far the best of all,
+358	since sheer destruction will soon be wrought there.
+359	For the leaders of the Lycians have pressed on so hard, who even before now
+360	have been violent in the fierce battles.
+361	But if here too war and quarrel have arisen,
+362	then at least let valiant Telamonian Ajax go alone,
+363	and let Teucer follow with him, well skilled with the bow.”
+364	So he spoke, and great Telamonian Ajax did not disobey.
+365	At once he addressed the son of Oileus with winged words:
+366	“Ajax, you two stay here, you and mighty Lycomedes,
+367	and stand and urge the Danaans to fight with all their might;
+368	but I will go over there and face the war,
+369	and I will come back again quickly, when I have helped them well.”
+370	So he spoke, and Telamonian Ajax went away,
+371	and with him went Teucer, his brother by the same father,
+372	and with them Pandion carried Teucer's curved bow.
+373	When they came to the tower of great-hearted Menestheus,
+374	going along inside the wall, they came to men hard pressed;
+375	and onto the battlements, like a dark storm, were climbing
+376	the mighty leaders and rulers of the Lycians;
+377	and they clashed, fighting face to face, and the war cry rose.
+378	And Telamonian Ajax was the first to kill his man,
+379	Sarpedon's companion, great-hearted Epicles,
+380	hitting him with a jagged boulder, which inside the wall
+381	lay, a big one, uppermost beside the battlement; nor could
+382	a man easily hold it in both hands, not even one in his prime,
+383	such as mortals are now; but he lifted it and hurled it from above,
+384	and crushed the four-ridged helmet, and smashed the bones
+385	of the head all together; and he, like a diver,
+386	fell from the high tower, and his spirit left his bones.
+387	And Teucer hit Glaucus, the mighty son of Hippolochus,
+388	with an arrow as he rushed at the high wall,
+389	where he saw his arm laid bare, and stopped him from battle.
+390	And he leapt back from the wall unseen, so that none of the Achaeans
+391	should see him hit and boast over him with words.
+392	And grief came upon Sarpedon as Glaucus went away,
+393	as soon as he noticed; but even so he did not forget the joy of battle,
+394	but Alcmaon, son of Thestor, he hit with his spear
+395	and stabbed, and drew the spear out; and following the spear he fell
+396	headlong, and around him his armor rang, inlaid with bronze.
+397	And Sarpedon seized the battlement in his strong hands
+398	and pulled, and it all came away, through and through; and above,
+399	the wall was laid bare, and he made a path for many.
+400	And Ajax and Teucer came at him together; and the one with an arrow
+401	hit the shining strap around his chest
+402	of his man-covering shield; but Zeus warded off the fates
+403	from his son, so that he should not be beaten down at the sterns of the ships;
+404	and Ajax leapt on him and stabbed his shield; but not right through
+405	went the spear, and it drove him back as he pressed on.
+406	And he gave ground a little from the battlement; but he did not altogether
+407	draw back, since his heart hoped to win glory.
+408	And he called out to the godlike Lycians, wheeling around:
+409	“Lycians, why do you let go of your furious courage like this?
+410	It is hard for me, mighty though I am,
+411	to break through alone and make a path to the ships;
+412	but come on with me; the work of more men is better.”
+413	So he spoke, and they, fearing their lord's rebuke,
+414	bore down the harder around their lord, the counselor.
+415	And the Argives on the other side strengthened their battalions
+416	inside the wall, and a great task appeared before them;
+417	for neither could the mighty Lycians break the Danaans'
+418	wall and make a path to the ships,
+419	nor could the Danaan spearmen ever thrust the Lycians
+420	back from the wall, once they had first come close to it.
+421	But as two men contend over boundary stones,
+422	holding measuring rods in their hands, in a common field,
+423	and in a narrow space they strive for an equal share,
+424	so the battlements kept these apart; and over them
+425	they hacked at the oxhide shields around one another's chests,
+426	the well-rounded shields and the fluttering bucklers of hide.
+427	And many were stabbed in the flesh with the pitiless bronze,
+428	both whoever turned and laid his back bare
+429	as they fought, and many right through the shield itself.
+430	Everywhere the towers and battlements were spattered with the blood of men
+431	on both sides, from Trojans and Achaeans.
+432	But even so they could not put the Achaeans to rout,
+433	but they held, as an honest working woman holds the scales,
+434	who, holding the weight and the wool, lifts them up on either side
+435	until they are equal, so that she may win a meager wage for her children;
+436	so evenly was their battle and war stretched tight,
+437	until Zeus gave the higher glory to Hector,
+438	son of Priam, who was the first to leap inside the wall of the Achaeans.
+439	And he shouted piercingly, making himself heard to the Trojans:
+440	“Rise up, horse-taming Trojans, break through the wall
+441	of the Argives, and throw the wondrous fire on the ships.”
+442	So he spoke, urging them on, and they all heard him with their ears,
+443	and rushed straight at the wall in a body; and then
+444	they climbed onto the copings, holding their sharpened spears,
+445	and Hector snatched up and carried a stone that in front of the gates
+446	stood, thick at the base, but at the top
+447	it was sharp; not even two men, the best of the people,
+448	could easily heave it from the ground onto a wagon,
+449	such as mortals are now; but he wielded it easily even alone.
+450	The son of crooked-counseling Cronus made it light for him.
+451	And as a shepherd easily carries the fleece of a ram,
+452	taking it in one hand, and the weight presses on him little,
+453	so Hector lifted the stone and carried it straight at the doors
+454	that guarded the gates, fitted close and strong,
+455	double doors, high; and two bars inside,
+456	crossing each other, held them, and a single bolt fastened them.
+457	And he came up close and stood, and planting himself he hit them in the middle,
+458	standing with his legs well apart, so that his cast might not be weaker,
+459	and broke off both the hinges; and the stone fell inside
+460	with its weight, and the gates groaned loudly all around, nor did the bars
+461	hold, and the doors were split apart, this way and that,
+462	under the rush of the stone; and shining Hector leapt in,
+463	his face like swift night; and he shone with the bronze,
+464	terrible, that he wore on his body, and in his hands two
+465	spears he carried; no one could have held him back, meeting him,
+466	except the gods, when he leapt through the gates; and his eyes blazed with fire.
+467	And he called out to the Trojans, wheeling around through the throng,
+468	to climb over the wall; and they obeyed his urging.
+469	At once some climbed over the wall, and others
+470	poured in through the well-built gates themselves; and the Danaans fled in rout
+471	among the hollow ships, and a relentless din arose.

@@ -3,7 +3,7 @@ title: Like the night
 greek: νυκτὶ ἐοικώς
 kind: simile
 tags: [divine-will, anger]
-summary: Apollo comes down from Olympus to bring the plague, “and he came on like the night” (1.47). It is the first simile in the Iliad, and it fills half a line.
+summary: Night as the likeness of a terrible onset. Apollo comes down to bring the plague “like the night”, in the first simile of the Iliad (1.47), and Hector leaps through the broken gate of the Achaean wall, “his face like swift night” (12.463).
 aliases: [like night]
 grc: [νυκτὶ ἐοικώς]
 en: [like the night]
@@ -22,4 +22,4 @@ Apollo is heard, not seen: the arrows clatter on the shoulders of the angry god.
 
 ## Outside Book 1
 
-In the underworld the shade of Heracles, another archer, stands “like dark night” (ἐρεμνῇ νυκτὶ ἐοικώς), holding his bare bow with an arrow on the string (Odyssey 11.606–607). Hector bursts through the Achaean gate “like swift night in his look” (Iliad 12.462–463).
+In the underworld the shade of Heracles, another archer, stands “like dark night” (ἐρεμνῇ νυκτὶ ἐοικώς), holding his bare bow with an arrow on the string (Odyssey 11.606–607). Hector bursts through the Achaean gate, “his face like swift night” (Iliad 12.462–463).

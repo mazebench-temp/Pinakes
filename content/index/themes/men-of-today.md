@@ -24,7 +24,7 @@ The same half-line comes back whenever a hero lifts a stone. Ajax throws one fro
 
 The heroes, for their part, look back on better men. Nestor tells the quarreling kings that he once fought beside men against whom “no one of the mortals now living on earth could fight” (1.271–272; see [[old-age-and-memory]]). Tlepolemus tells Sarpedon that he falls far short of the sons of Zeus born “among men of former times”, such as Heracles, who sacked Troy with six ships (5.635–642; see [[heracles-sacks-troy]]). In the Odyssey, Odysseus says that he is better than all the mortals “now on earth, who eat bread”, but he will not contend with the men of before, Heracles and Eurytus, who challenged even the gods (*Odyssey* 8.221–228). Each generation measures itself against the last and comes off worse, except in Sthenelus' boast (4.405; see [[better-than-our-fathers]]).
 
-Once the Iliad gives its heroes the name that later Greek used for them. Looking forward to the time after the war when the gods will wash away the Achaean wall, the narrator speaks of the heroes who fell by the rivers of Troy as ἡμιθέων γένος ἀνδρῶν, “the race of half-divine men” (12.22–23). The word ἡμίθεοι is found only there in Homer.
+Once the Iliad gives its heroes the name that later Greek used for them. Looking forward to the time after the war when the gods will wash away the Achaean wall, the narrator speaks of the heroes who fell by the rivers of Troy as ἡμιθέων γένος ἀνδρῶν, “the race of men half-divine” (12.22–23). The word ἡμίθεοι is found only there in Homer (see [[hemitheos]]).
 
 {{notes}}
 

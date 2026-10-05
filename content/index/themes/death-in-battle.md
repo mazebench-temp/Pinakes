@@ -28,7 +28,7 @@ A dead man's body is fought over. The victor wants the armor, and the dead man's
 
 ## Why
 
-The Iliad's warriors know why they fight. Sarpedon tells Glaucus that if they could escape the war and live forever, ageless and deathless, he would not fight in the front rank; “but now, since the dooms of death stand around us, ten thousand of them, which no mortal can flee or escape, let us go, and either give glory to another or another to us” (12.322–328). Achilles, before he kills Lycaon, says the same thing without the hope: “Patroclus died too, who was far better than you”, and death and strong fate are on him as well (21.106–113). See [[gods-and-mortals]] and [[the-short-life-of-achilles]].
+The Iliad's warriors know why they fight. Sarpedon tells Glaucus that if they could escape the war and live forever, ageless and deathless, he would not fight in the front rank; “but now, since in any case the fates of death stand over us, countless, which no mortal can flee or escape, let us go, and either hold out triumph to another, or another to us” (12.322–328). Achilles, before he kills Lycaon, says the same thing without the hope: “Patroclus died too, who was far better than you”, and death and strong fate are on him as well (21.106–113). See [[gods-and-mortals]] and [[the-short-life-of-achilles]].
 
 {{notes}}
 
