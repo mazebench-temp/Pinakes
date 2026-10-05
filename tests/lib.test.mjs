@@ -7,7 +7,8 @@ import { tokenize, normalize, romanize, isCapitalized } from '../scripts/lib/gre
 import * as browserGreek from '../site/assets/js/lib/greek.js';
 import { uuidv5, quoteId, isUuid } from '../scripts/lib/uuid.mjs';
 import * as browserUuid from '../site/assets/js/lib/uuid.js';
-import { parseRef, formatRange, makeWorkResolver, refLines } from '../scripts/lib/refs.mjs';
+import { parseRef, formatRange, makeWorkResolver, refLines, bekkerLabel, parseBekker, lineLabel } from '../scripts/lib/refs.mjs';
+import * as browserCite from '../site/assets/js/lib/cite.js';
 import { splitFrontMatter } from '../scripts/lib/frontmatter.mjs';
 import { renderMarkdown } from '../scripts/lib/markdown.mjs';
 import { compilePatterns, matchTokens, compileEnglish, findEnglish, resolveOverlaps } from '../scripts/lib/concordance.mjs';
@@ -72,6 +73,40 @@ test('references parse, format and expand', () => {
   assert.equal(formatRange(parseRef('1.5', resolve, 'homer.iliad')), '1.5');
   assert.equal(refLines(parseRef('iliad 1.1-3', resolve)).join(','), '1.1,1.2,1.3');
   assert.throws(() => parseRef('1.10-5', resolve, 'homer.iliad'));
+});
+
+test('Bekker references parse, format and expand over the lines of the text', () => {
+  const poetics = { id: 'aristotle.poetics', title: 'Poetics', aliases: ['poet.'], citation: { scheme: 'bekker' },
+    books: { 1: { from: '1447a8' }, 9: { from: '1451a36' }, 10: { from: '1452a12' } } };
+  const resolve = makeWorkResolver([{ id: 'homer.iliad', title: 'Iliad', aliases: ['il.'] }, poetics]);
+  assert.equal(parseBekker('1447a8'), 144708);
+  assert.equal(parseBekker('1447b8'), 144758);
+  assert.equal(bekkerLabel(146269), '1462b19');
+  const r = parseRef('Poet. 1451a36–b5', resolve);
+  assert.deepEqual(r, { work: 'aristotle.poetics', book: 9, from: 145136, toBook: 9, to: 145155, scheme: 'bekker' });
+  assert.equal(formatRange(r), '1451a36-b5');
+  assert.equal(formatRange(parseRef('1451a36-38', resolve, 'aristotle.poetics')), '1451a36-38');
+  assert.equal(formatRange(parseRef('Poetics 1451a36-1452a14', resolve)), '1451a36-1452a14');
+  assert.equal(parseRef('Poetics 1452a14', resolve).book, 10);
+  assert.equal(lineLabel('bekker', 9, 145155), '1451b5');
+  assert.equal(lineLabel('book.line', 1, 5), '1.5');
+  const lines = [[9, 145137], [9, 145138], [9, 145151], [9, 145152], [10, 145212]];
+  assert.deepEqual(refLines(parseRef('Poetics 1451a37-b1', resolve), lines), ['9.145137', '9.145138', '9.145151']);
+  assert.throws(() => parseRef('1451b5', resolve, 'homer.iliad'));
+  assert.throws(() => parseRef('Poetics 1.5', resolve));
+  assert.throws(() => parseRef('Poetics 1451b5-a3', resolve));
+});
+
+test('browser Bekker labels equal build Bekker labels', () => {
+  for (let page = 1447; page <= 1462; page++) for (const col of ['a', 'b']) for (let line = 1; line <= 39; line++) {
+    const label = `${page}${col}${line}`, n = parseBekker(label);
+    assert.equal(browserCite.parseBekker(label), n);
+    assert.equal(browserCite.bekkerLabel(n), bekkerLabel(n));
+  }
+  const work = { citation: { scheme: 'bekker' } };
+  assert.equal(browserCite.rangeLabel(work, 9, 145136, 145155), '1451a36–b5');
+  assert.equal(browserCite.refOf(work, 9, 145136, 145138), '1451a36-38');
+  assert.equal(browserCite.rangeLabel({}, 1, 396, 406), '1.396–406');
 });
 
 test('front matter: inline lists, block lists, folded text, wiki-link values', () => {

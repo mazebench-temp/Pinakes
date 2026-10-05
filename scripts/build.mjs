@@ -7,7 +7,7 @@ import { ROOT, CONTENT, readJson, loadLibrary, loadEntries, loadNotes, loadQuote
 import { tokenize, normalize, romanize, isCapitalized } from './lib/greek.mjs';
 import { compilePatterns, matchTokens, compileEnglish, findEnglish, resolveOverlaps } from './lib/concordance.mjs';
 import { renderMarkdown, slugify } from './lib/markdown.mjs';
-import { parseRef, makeWorkResolver, formatRange, refLines } from './lib/refs.mjs';
+import { parseRef, makeWorkResolver, formatRange, refLines, lineLabel } from './lib/refs.mjs';
 import { quoteId, isUuid } from './lib/uuid.mjs';
 
 const OUT = path.join(ROOT, 'site', 'data');
@@ -47,6 +47,14 @@ export function build({ write = true, log = console.log } = {}) {
   const authorById = new Map(authors.map(a => [a.id, a]));
   const resolveWork = makeWorkResolver(works);
 
+  const schemeOf = id => workById.get(id)?.citation?.scheme ?? 'book.line';
+  const bookWord = id => workById.get(id)?.citation?.book ?? 'Book';
+  /** One line as cited: "1.396", or "1451a36" in a Bekker work. */
+  const citeLine = (work, book, n) => lineLabel(schemeOf(work), book, n);
+  /** Every line of a work in order, as [book, n], for expanding Bekker ranges. */
+  const workLines = new Map(works.map(w => [w.id, [...w.texts].sort((a, b) => a[0] - b[0])
+    .flatMap(([book, t]) => [...t.editions.grc.keys()].sort((a, b) => a - b).map(n => [book, n]))]));
+  const workRank = new Map(works.map((w, i) => [w.id, i]));
   const shortCite = r => `${workById.get(r.work)?.citation?.abbr ?? r.work} ${formatRange(r, '–')}`;
   const longCite = r => {
     const w = workById.get(r.work);
@@ -124,7 +132,7 @@ export function build({ write = true, log = console.log } = {}) {
   for (const a of authors) addScope({ id: a.id, kind: 'author', label: a.name ?? a.id });
   for (const w of works) {
     addScope({ id: w.id, kind: 'work', label: w.title, parent: w.author });
-    for (const book of w.texts.keys()) addScope({ id: `${w.id}.${book}`, kind: 'book', label: `${w.title} ${book}`, long: `${w.title}, Book ${book}`, parent: w.id, work: w.id, book });
+    for (const book of w.texts.keys()) addScope({ id: `${w.id}.${book}`, kind: 'book', label: `${w.title} ${book}`, long: `${w.title}, ${bookWord(w.id)} ${book}`, parent: w.id, work: w.id, book });
   }
   const scopeOfRef = (spec, work) => {
     try { const r = parseRef(String(spec).split('|')[0].trim(), resolveWork, work); return `${r.work}.${r.book}`; }
@@ -140,7 +148,7 @@ export function build({ write = true, log = console.log } = {}) {
     if (!e) { error(`${n.file}: there is no entry "${n.entryId}" for this note`); continue; }
     if (n.scope.book) {
       const w = workById.get(n.scope.work);
-      addScope({ id: n.scope.id, kind: 'book', label: `${w.title} ${n.scope.book}`, long: `${w.title}, Book ${n.scope.book}`, parent: w.id, work: w.id, book: n.scope.book });
+      addScope({ id: n.scope.id, kind: 'book', label: `${w.title} ${n.scope.book}`, long: `${w.title}, ${bookWord(w.id)} ${n.scope.book}`, parent: w.id, work: w.id, book: n.scope.book });
     }
     for (const k of Object.keys(n.data)) if (!NOTE_KEYS.has(k)) warn(`${n.file}: "${k}" is not used in notes (use ${[...NOTE_KEYS].join(', ')})`);
     const work = n.scope.work ?? e.work;
@@ -184,7 +192,7 @@ export function build({ write = true, log = console.log } = {}) {
   const refLineKeys = (e, spec) => {
     try {
       const r = parseRef(spec, resolveWork, e.work);
-      return refLines(r).map(k => `${r.work} ${k}`);
+      return refLines(r, workLines.get(r.work)).map(k => `${r.work} ${k}`);
     } catch (err) { error(`${e.file}: ${err.message}`); return []; }
   };
   for (const e of entries) {
@@ -219,19 +227,19 @@ export function build({ write = true, log = console.log } = {}) {
       const grc = text.editions.grc;
       const en = text.editions.en ?? new Map();
       for (const [edId, rows] of Object.entries(text.editions)) {
-        for (const n of grc.keys()) if (!rows.has(n)) warn(`${work.id} ${book}.${n}: missing in edition "${edId}"`);
-        for (const n of rows.keys()) if (!grc.has(n)) error(`${work.id} ${book}.${n}: edition "${edId}" has a line the Greek lacks`);
+        for (const n of grc.keys()) if (!rows.has(n)) warn(`${work.id} ${citeLine(work.id, book, n)}: missing in edition "${edId}"`);
+        for (const n of rows.keys()) if (!grc.has(n)) error(`${work.id} ${citeLine(work.id, book, n)}: edition "${edId}" has a line the Greek lacks`);
       }
 
       // Lexicon: one analysis per Greek token, deduplicated into a table.
       const lexTable = [], lexIndex = new Map(), lemmaStats = new Map();
       const lexFor = (n, tokens) => {
         const row = text.lexicon?.[String(n)];
-        if (!row) { if (text.lexicon) warn(`${work.id} ${book}.${n}: no lexicon row`); return tokens.map(() => -1); }
-        if (row.length !== tokens.length) { error(`${work.id} ${book}.${n}: lexicon has ${row.length} tokens, text has ${tokens.length}`); return tokens.map(() => -1); }
+        if (!row) { if (text.lexicon) warn(`${work.id} ${citeLine(work.id, book, n)}: no lexicon row`); return tokens.map(() => -1); }
+        if (row.length !== tokens.length) { error(`${work.id} ${citeLine(work.id, book, n)}: lexicon has ${row.length} tokens, text has ${tokens.length}`); return tokens.map(() => -1); }
         return tokens.map((t, k) => {
           const a = row[k];
-          if (a.w !== t.word) { error(`${work.id} ${book}.${n}: lexicon token ${k} is "${a.w}", text has "${t.word}"`); return -1; }
+          if (a.w !== t.word) { error(`${work.id} ${citeLine(work.id, book, n)}: lexicon token ${k} is "${a.w}", text has "${t.word}"`); return -1; }
           const key = `${a.l}\u0001${a.g}\u0001${a.p}\u0001${a.n ?? ''}`;
           if (!lexIndex.has(key)) { lexIndex.set(key, lexTable.length); lexTable.push([a.l, a.g, a.p, a.n ?? '']); }
           const s = lemmaStats.get(a.l) ?? { count: 0, lines: new Set(), glosses: new Map() };
@@ -282,7 +290,7 @@ export function build({ write = true, log = console.log } = {}) {
           occ.get(id).push({ work: work.id, book, n, via: info.via, forms: info.forms, grc: g, en: enText, hg: info.hg,
             he: spans.filter(s => s.id === id).map(s => [s.start, s.end]) });
         }
-        tokens.forEach((t, k) => { if (isCapitalized(t.word) && !tokEnts[k].size) unindexed.push(`${book}.${n} ${t.word}`); });
+        tokens.forEach((t, k) => { if (isCapitalized(t.word) && !tokEnts[k].size) unindexed.push(`${citeLine(work.id, book, n)} ${t.word}`); });
 
         const lx = lexFor(n, tokens);
         lx.forEach((li, k) => {
@@ -307,6 +315,17 @@ export function build({ write = true, log = console.log } = {}) {
         if (!byId.has(sp.speaker)) warn(`${work.id} ${book}: speaker "${sp.speaker}" has no entry`);
         for (const a of sp.to_whom ?? []) if (!byId.has(a)) warn(`${work.id} ${book}: addressee "${a}" has no entry`);
       }
+      // Quotations (prose works): what is quoted, from whom, and where the original stands when it is in the library.
+      const quotations = (s.quotations ?? []).map(q => {
+        if (!grc.has(q.from) || !grc.has(q.to)) error(`${work.id} ${book}: quotation ${citeLine(work.id, book, q.from)} is not on lines of this ${bookWord(work.id).toLowerCase()}`);
+        for (const id of [q.source, q.entry].filter(Boolean)) if (!byId.has(id)) warn(`${work.id} ${book}: quotation source or entry "${id}" has no entry`);
+        let href = null, cite = q.cite ?? '';
+        if (q.ref) {
+          try { const r = parseRef(q.ref, resolveWork); href = readerHref(r); cite ||= shortCite(r); }
+          catch { /* a work outside the library: cited as written */ }
+        }
+        return { from: q.from, to: q.to, source: q.source ?? null, entry: q.entry ?? null, cite: cite || q.ref || '', href, note: q.note ?? '' };
+      });
       // [lemma, gloss, count, lines, 1 if the work has not used the word before this book]
       const lemmas = [...lemmaStats].map(([l, st]) => [l, [...st.glosses].sort((a, b) => b[1] - a[1])[0][0], st.count, [...st.lines], seenLemmas.has(l) ? 0 : 1])
         .sort((a, b) => b[2] - a[2] || a[0].localeCompare(b[0], 'el'));
@@ -319,7 +338,7 @@ export function build({ write = true, log = console.log } = {}) {
           summary: meta.summary ?? '',
           editions: work.editions.map(({ id, lang, label, name, credit }) => ({ id, lang, label, name, credit })),
           lines, lex: lexTable, lemmas,
-          scenes: s.scenes ?? [], speeches: s.speeches ?? [], days: s.days ?? [],
+          scenes: s.scenes ?? [], speeches: s.speeches ?? [], days: s.days ?? [], quotations,
         },
       });
     }
@@ -337,11 +356,11 @@ export function build({ write = true, log = console.log } = {}) {
   const payloadFor = q => {
     if (quotePayload.has(q.id)) return quotePayload.get(q.id);
     const r = parseRef(`${q.work} ${q.ref}`, resolveWork);
-    const lines = refLines(r).map(k => {
-      const n = +k.split('.')[1];
-      const grcText = lineText(r.work, r.book, n, 'grc');
+    const lines = refLines(r, workLines.get(r.work)).map(k => {
+      const [b, n] = k.split('.').map(Number);
+      const grcText = lineText(r.work, b, n, 'grc');
       if (grcText === undefined) throw new Error(`Quote ${q.id} (${q.work} ${q.ref}) cites a line that is not available: ${k}`);
-      return { n: k, grc: grcText, en: lineText(r.work, r.book, n, 'en') ?? '' };
+      return { n: citeLine(r.work, b, n), grc: grcText, en: lineText(r.work, b, n, 'en') ?? '' };
     });
     const p = { id: q.id, work: q.work, ref: q.ref, title: q.title ?? '', short: shortCite(r), cite: longCite(r), href: readerHref(r), lines,
       ...(q.start ? { start: q.start } : {}), ...(q.end ? { end: q.end } : {}), ...(q.view ? { view: q.view } : {}) };
@@ -383,7 +402,7 @@ export function build({ write = true, log = console.log } = {}) {
   const missingLinks = [];
   const pages = new Map();
   // Sections that come after the scoped notes when an article is shown whole.
-  const LATE = /^(mythology|outside homer|elsewhere in homer|outside book \d+|outside the (iliad|odyssey)|related words|related entries|reception|later tradition)$/i;
+  const LATE = /^(mythology|outside homer|elsewhere in homer|outside book \d+|outside the (iliad|odyssey|poetics)|outside aristotle|elsewhere in aristotle|after aristotle|related words|related entries|reception|later tradition)$/i;
   const hooksFor = (e, file, work, scope) => ({
     link: (target, section) => {
       const id = resolveName(target);
@@ -452,15 +471,21 @@ export function build({ write = true, log = console.log } = {}) {
     if (e.kind === 'story') new Set([...e.participants, e.narrator].filter(Boolean)).forEach(id => push(storiesOf, id, e.id));
     if (e.kind === 'anecdote' || e.kind === 'note') e.of.forEach(id => push(anecdotesOf, id, e.id));
   }
-  const speechesOf = new Map(), addressedOf = new Map();
+  const speechesOf = new Map(), addressedOf = new Map(), quotedOf = new Map();
   for (const t of texts) for (const sp of t.data.speeches) {
     const item = { work: t.data.work, book: t.data.book, from: sp.from, to: sp.to, speaker: sp.speaker, to_whom: sp.to_whom ?? [], kind: sp.kind ?? null };
     push(speechesOf, sp.speaker, item);
     for (const a of sp.to_whom ?? []) push(addressedOf, a, item);
   }
+  for (const t of texts) for (const q of t.data.quotations) {
+    const item = { work: t.data.work, book: t.data.book, from: q.from, to: q.to, cite: q.cite, href: q.href, entry: q.entry,
+      grc: q.from === q.to ? t.data.lines.find(l => l.n === q.from)?.grc ?? '' : '' };
+    for (const id of new Set([q.source, q.entry].filter(Boolean))) push(quotedOf, id, item);
+  }
 
   const firstOcc = id => occ.get(id)[0];
-  const refSort = o => o ? `${o.work} ${String(o.book).padStart(3, '0')}.${String(o.n).padStart(5, '0')}` : '~';
+  // Library order: works by their place in the library, then book, then line (Bekker codes have six digits).
+  const refSort = o => o ? `${String(workRank.get(o.work) ?? 99).padStart(2, '0')} ${String(o.book).padStart(3, '0')}.${String(o.n).padStart(6, '0')}` : '~';
 
   // ── Output ───────────────────────────────────────────────────────────────
   const tagCounts = new Map();
@@ -486,6 +511,7 @@ export function build({ write = true, log = console.log } = {}) {
     for (const o of occ.get(e.id)) add(`${o.work}.${o.book}`, 1, o.n);
     for (const n of e.notes) if (n.scope.book) add(n.scope.id, 0, 0);
     for (const sp of speechesOf.get(e.id) ?? []) add(`${sp.work}.${sp.book}`, 0, sp.from);
+    for (const q of quotedOf.get(e.id) ?? []) add(`${q.work}.${q.book}`, 0, q.from);
     for (const p of passagesOf.get(e.id)) add(`${p.work}.${p.book}`, 0, p.from);
     return Object.fromEntries(Object.entries(m).sort((a, b) => (scopeRank.get(a[0]) ?? 999) - (scopeRank.get(b[0]) ?? 999)));
   };
@@ -496,7 +522,8 @@ export function build({ write = true, log = console.log } = {}) {
       id: e.id, title: e.title, greek: e.greek, translit: e.translit, kind: e.kind, tags: e.tags,
       summary: plain(e.summary), aliases: e.aliases,
       lines: o.length, mentions: o.filter(x => x.via === 'grc').length,
-      first: firstPlace ? `${firstPlace.book}.${firstPlace.n}` : null,
+      first: firstPlace ? citeLine(firstPlace.work, firstPlace.book, firstPlace.n) : null,
+      ...(firstPlace ? { where: `${workById.get(firstPlace.work)?.citation?.abbr ?? firstPlace.work} ${citeLine(firstPlace.work, firstPlace.book, firstPlace.n)}` } : {}),
       firstKey: refSort(firstPlace),
       article: e.body.trim().length > 0 || e.notes.length > 0, words: pages.get(e.id).words,
       in: presenceOf(e), ...(e.notes.length ? { notes: e.notes.map(n => n.scope.id) } : {}),
@@ -523,7 +550,7 @@ export function build({ write = true, log = console.log } = {}) {
         passages: passagesOf.get(e.id),
         relations: relationsOf.get(e.id),
         epithets: epithetsOf.get(e.id) ?? [], stories: storiesOf.get(e.id) ?? [], anecdotes: anecdotesOf.get(e.id) ?? [],
-        speeches, addressed: addressedOf.get(e.id) ?? [],
+        speeches, addressed: addressedOf.get(e.id) ?? [], quoted: quotedOf.get(e.id) ?? [],
         backlinks: [...backlinks.get(e.id)].sort(),
         noteBacklinks: [...noteBacklinks.get(e.id)].map(([id, sc]) => ({ id, scopes: [...sc].sort((a, b) => scopeRank.get(a) - scopeRank.get(b)) })).sort((a, b) => a.id.localeCompare(b.id)),
         stats: {
@@ -542,7 +569,8 @@ export function build({ write = true, log = console.log } = {}) {
   const quotesOut = Object.fromEntries([...registry.values()].map(q => {
     try {
       const p = payloadFor(q);
-      return [q.id, { work: p.work, ref: p.ref, title: p.title, short: p.short, cite: p.cite, href: p.href, used: quoteUse.get(q.id) ?? [] }];
+      const r = parseRef(`${q.work} ${q.ref}`, resolveWork);
+      return [q.id, { work: p.work, ref: p.ref, book: r.book, from: r.from, toBook: r.toBook, to: r.to, title: p.title, short: p.short, cite: p.cite, href: p.href, used: quoteUse.get(q.id) ?? [] }];
     }
     catch (err) { error(err.message); return [q.id, null]; }
   }).filter(([, v]) => v));

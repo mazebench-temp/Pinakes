@@ -2,8 +2,9 @@
 // Tokens are the unit that the lexicon, the concordance, and the reader all agree on.
 
 const ELISION = /[\u02BC’\u1FBD'\u1FBF]/g; // \u02BC ’ \u1FBD ' \u1FBF
-const LEADING = /^[“‘«(\[⟨"]+/;
-const TRAILING = /[”’»)\].,;:·;!?⟩"]+$/;
+// Kassel's cruces (†), dashes and lacunae (…) are punctuation too.
+const LEADING = /^[“‘«(\[⟨"†—]+/;
+const TRAILING = /[”’»)\].,;:·;!?⟩"†—…]+$/;
 
 /** Split a verse into word tokens with their surrounding punctuation preserved. */
 export function tokenize(line) {
