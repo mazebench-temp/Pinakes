@@ -1,0 +1,26 @@
+---
+title: Longinus on the advance of Poseidon
+greek: τρέμε δʼ οὔρεα μακρὰ καὶ ὕλη
+kind: anecdote
+tags: [rhetoric]
+summary: On the Sublime prefers to the battle of the gods the passages that show the divine as truly undefiled, great and unmixed, and its first example is Poseidon's journey to the ships. Its quotation runs together the trembling mountains of 13.18–19, a verse from the earthquake of Book 20, and the drive over the waves of 13.27–29.
+source: "[Longinus], On the Sublime 9.8–9"
+of: [poseidon, poseidon-rallies-the-achaeans, chariot-journey, longinus, longinus-wounded-gods]
+passages:
+  - 13.17-31 | Poseidon crosses the sea
+  - 20.56-66 | Poseidon shakes the earth
+---
+
+{{quote:7c37b5b0-93b6-5646-9084-dd543efeb836}}
+
+The author of *On the Sublime* calls the battle of the gods terrifying, and impious unless it is read as allegory (*On the Sublime* 9.6–7; see [[longinus-wounded-gods]]). Then he turns to better examples. “Far better than the passages on the battle of the gods”, he writes, “are those that present the divine as truly undefiled, great and unmixed, such as the lines on Poseidon”, and he adds that “many before us have worked out the passage” (πολλοῖς δὲ πρὸ ἡμῶν ὁ τόπος ἐξείργασται, *On the Sublime* 9.8). Then he quotes the lines.
+
+**The lines.** The quotation is not a passage of Homer as we have it. The quotation begins in the middle of 13.18, τρέμε δʼ οὔρεα μακρὰ καὶ ὕλη, “and the high mountains and the woods trembled”. Then comes a verse from Book 20, καὶ κορυφαὶ Τρώων τε πόλις καὶ νῆες Ἀχαιῶν, “and the peaks, and the city of the Trojans and the ships of the Achaeans” (20.60). There it belongs to the earthquake with which Poseidon opens the battle of the gods: he shakes the boundless earth, and all the feet of many-fountained Ida are shaken, and its peaks, and Troy and the ships (20.57–60), and Hades leaps from his throne in fear that the earth will split open (20.61–65). Those are the lines the critic has just quoted for the terror of the battle of the gods (*On the Sublime* 9.6). The quotation goes on with 13.19, “under the immortal feet of Poseidon as he went”, passes over the four strides to Aegae, the golden house and the yoking of the horses (13.20–26), and ends with the drive itself: Poseidon sets out over the waves, the sea beasts frolic out of their lairs and know their lord, the sea parts for joy, “and the horses flew” (13.27–29). It breaks off there, in the middle of a sentence, before the bronze axle that the sea does not wet (13.30). Whether the critic joined the two passages on purpose or from memory cannot be known. In his version Poseidon's feet shake not only the mountains and the forest, as in Book 13, but the peaks, the city of the Trojans and the ships of the Achaeans, as the earthquake does in Book 20.
+
+**The point.** He admires a god whose greatness is shown by what the world does around him, without the wounds, factions, tears or bonds of the battle of the gods: the mountains tremble at his step, the sea beasts know their master, the sea opens for joy. His next example follows at once: in the same way “the lawgiver of the Jews, no ordinary man”, having conceived the power of the divine as it deserved, wrote at the very beginning of his laws, “God said”, and what did he say? “Let there be light, and there was; let there be earth, and there was” (*On the Sublime* 9.9).
+
+**The ancient commentary.** The scholia show how much had been written on these lines. One note explains the trembling mountains by the god's title, Earth-shaker, and remarks that Homer never makes Zeus himself come down to earth or change his shape (scholium T on 13.18). Another marvels that he passed so much sea and so many peoples in three strides; Pindar, it says, tried to outdo the passage and laid himself open to the charge of falsehood when his Apollo snatched the child from the dead mother “at the first stride” (scholium T on 13.20; Pindar, *Pythian* 3.43). The frolicking sea beasts, another observes, are fitting only for the master of the sea: nothing of the kind happens when Hermes crosses the sea in the Odyssey (*Odyssey* 5.51; scholia on 13.27). On the parting sea one note asks, “What wonder? Callisthenes says that the sea off Pamphylia did so for Alexander” (scholium T on 13.29). The grammarians argued over the word for the sea's joy. Aristarchus read γηθοσύνη as an adjective, “the sea, rejoicing, parted”; Aristophanes read the dative, “parted for joy”, which our text prints, and Herodian defended it at length (scholia on 13.29).
+
+**In the poem.** The critic takes the journey on its own. In the poem it has a motive: Poseidon pities the Achaeans and is “fiercely indignant with Zeus” (13.16), and when he has left his horses in the cave between Tenedos and Imbros he goes among the army in the likeness of Calchas, to help in secret those whom his brother has left to their losses (13.32–45, 13.351–357; see [[poseidon]] and [[poseidon-rallies-the-achaeans]]). The quarrel among the gods that the critic deplores is the reason for the journey he admires.
+
+Compare the leap of the gods' horses, which the critic quotes from Book 5 (see [[longinus-horses-of-the-gods]]), and Virgil's Neptune, who drives over the sea in Homer's manner (see [[virgil-neptunes-chariot]]). See also [[longinus]] and [[chariot-journey]].

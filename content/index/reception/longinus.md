@@ -12,3 +12,6 @@ The treatise survives incomplete, with several pages lost. Its manuscript title 
 Its author holds that sublimity comes first of all from greatness of mind, “the echo of a great mind” (*On the Sublime* 9.2), and he finds it above all in Homer. He compares the Iliad, full of action and conflict, the work of Homer's prime, with the Odyssey, the work of his old age, which he likens to the setting sun, still great but without the same force (9.11–15).
 
 - The stature of Strife: [[longinus-strife]].
+- The leap of the gods' horses: [[longinus-horses-of-the-gods]].
+- The battle of the gods and the wounded gods: [[longinus-wounded-gods]].
+- The advance of Poseidon: [[longinus-poseidons-advance]].

@@ -1,0 +1,5 @@
+---
+summary: Idomeneus is eager “to cover some one of the Trojans in murky night,” and murky night covers the eyes of Deipyrus when Helenus kills him.
+---
+
+The book uses the epithet from both sides of a killing. After Hypsenor has been carried off, Idomeneus “was eager always either to cover some one of the Trojans in murky night or himself to fall with a thud, warding off ruin from the Achaeans” (13.424–426; [[idomeneus]], [[fell-with-a-thud]], [[loigos]]). The verb of the death formula, καλύπτω, “cover,” becomes the killer's own: he would do to a Trojan what the night does to the dying. A hundred and fifty lines later the formula itself comes, for an Achaean. Helenus strikes Deipyrus on the temple with a great Thracian sword, “and murky night covered his eyes” (13.576–580; [[helenus]], [[deipyrus]], [[darkness-covered-his-eyes]]), as it covered the eyes of Tlepolemus (5.659). Around it the book varies the darkness: “darkness covered his eyes” for Adamas (13.575), and “hateful darkness seized him” for Euchenor (13.672). See [[war-and-night]].

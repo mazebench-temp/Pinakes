@@ -1,0 +1,5 @@
+---
+summary: Hector flies “through the Trojans and the allies”, and at his voice they hurry to Polydamas (13.755–757). The allies of Book 13 are newcomers and strangers: Othryoneus of Cabesus, come at the report of the war; the men from Ascania, come as relief the morning before; and the Paphlagonian Harpalion, who never went home.
+---
+
+Hector names the Lycians and Dardanians in his call to stand by him (13.150; see [[lycians]] and [[dardanians]]). The book shows how the allies kept coming. Othryoneus “had come not long before at the report of the war”, to win Cassandra (13.363–369; see [[othryoneus]]). Palmys, Ascanius and Morys had come from Ascania ἀμοιβοί, “as relief”, on the morning before (13.792–794; see [[ascanius-the-mysian]] and [[ascania]]). Harpalion “had followed his dear father to make war / at Troy” from Paphlagonia, and his father follows his body to Ilios (13.643–659; see [[harpalion]] and [[paphlagonians]]). When Hector leaves Polydamas to gather the best men, he flies διὰ δὲ Τρώων … ἠδʼ ἐπικούρων, “through the Trojans and the allies”, and they all hurry to Polydamas at his voice (13.754–757; see [[polydamas]]).

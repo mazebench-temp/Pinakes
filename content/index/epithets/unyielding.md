@@ -12,7 +12,7 @@ of: [bronze]
 
 ## Meaning
 
-ἀτειρής = ἀ- (“not”) + τείρω (“wear out, distress”): “not worn down, unyielding.” Homer uses it of bronze in the formula χαλκὸς ἀτειρής, χαλκὸν ἀτειρέα (5.292; Il. 7.247, 14.25, 18.474, 19.233, 20.108; Od. 13.368); of the voice a god takes when he disguises himself as a man, ἀτειρέα φωνήν (Il. 13.45, 17.555, 22.227); of the might of Heracles (Od. 11.270); and of Paris' heart, which Hector says is “always unyielding, like an axe” (3.60; [[heart-like-an-axe]]). See [[bronze]].
+ἀτειρής = ἀ- (“not”) + τείρω (“wear out, distress”): “not worn down, unyielding.” Homer uses it of bronze in the formula χαλκὸς ἀτειρής, χαλκὸν ἀτειρέα (5.292; Il. 7.247, 14.25, 18.474, 19.233, 20.108; Od. 13.368); of the voice a god takes when he disguises himself as a man, ἀτειρέα φωνήν (Il. 13.45, 17.555, 22.227); of the might of Heracles (Od. 11.270); and of Hector's heart, which Paris says is “always unyielding, like an axe” (3.60; [[heart-like-an-axe]]). See [[bronze]].
 
 ## Use
 

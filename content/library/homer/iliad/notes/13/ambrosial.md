@@ -1,0 +1,5 @@
+---
+summary: In a cave under the sea Poseidon unyokes his horses and sets “ambrosial fodder” before them, in the verse with which Iris tends the horses of Ares on Olympus.
+---
+
+There is a wide cave “in the depths of the deep sea, / between Tenedos and rocky Imbros,” and there Poseidon halts his team, “unyoked them from the chariot, and set ambrosial fodder before them / to eat” (13.32–36; [[poseidon]], [[horses]], [[chariot-journey]]). The verse is almost the one in which Iris, bringing the wounded Aphrodite to Olympus in Ares' chariot, unyokes his horses (5.368–369), and in Book 8 the Hours tie the horses of Hera and Athena “at their ambrosial mangers” (8.434). The horses of the gods eat the food of the gods. Poseidon then casts golden hobbles around their feet, “unbreakable, not to be loosed, so that they might stay there steadfast / until their lord returned” (13.36–38), and goes to the Achaean army. The same two adjectives describe the rope of strife and war that he and Zeus stretch over both armies (13.360; [[the-rope-of-war]]).

@@ -6,7 +6,9 @@ tags: [trojan, warrior]
 summary: A bastard son of [[Antenor]], whom Antenor's wife [[Theano]] raised “like her own dear children, to please her husband”. Meges kills him with a spear through the back of the head.
 aliases: [Pedaios]
 # Πήδαιον at 13.172 is the town Pedaeum, the home of Imbrius.
+# Πήδαιον at 13.172 is the town Pedaeum, Imbrius' home (pedaeum).
 grc: [Πήδαιον]
+except: [13.172]
 refs: [5.70-75]
 relations:
   - father: antenor (5.69)

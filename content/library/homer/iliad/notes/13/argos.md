@@ -1,0 +1,7 @@
+---
+summary: Argos is twice the Achaeans' distant home in the words of Idomeneus. He fears that Zeus wills them to perish “here, nameless, far from Argos” (13.227), and over the body of Othryoneus he offers, in mockery, a bride brought “from Argos”, the fairest daughter of Agamemnon (13.378–379).
+---
+
+**Far from Argos.** To Poseidon in the likeness of Thoas, Idomeneus says that no man is to blame: “so, I think, / it must be the pleasure of the son of Cronus, supreme in might, / that the Achaeans should perish here, nameless, far from Argos” (13.225–227; see [[idomeneus]]). The last verse is the one Polydamas spoke at the ditch, wishing it so (12.70), and Agamemnon will say it again when the wall has fallen (14.70). Poseidon answers with a curse on any man who holds back: may he never return home from Troy, but become a plaything for dogs (13.232–234).
+
+**A bride from Argos.** Othryoneus had asked Priam for Cassandra without bride-price and promised to drive the Achaeans from Troy. Idomeneus kills him and offers a better bargain: “we would give you the most beautiful in form of the daughters of the son of Atreus, / bringing her from Argos, to marry her, if with us / you would sack the well-peopled citadel of Ilios” (13.378–380; see [[othryoneus]] and [[agamemnon]]). Argos is Agamemnon's home, where his daughters live, as in his own offer to Achilles in Book 9: if they came back to “Achaean Argos”, Achilles could take whichever of his three daughters he liked, without bride-price (9.141–146; see [[bride-price]]).

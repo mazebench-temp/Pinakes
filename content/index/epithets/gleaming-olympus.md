@@ -3,7 +3,7 @@ title: Gleaming
 greek: αἰγλήεις
 kind: epithet
 tags: [cosmic, mountain]
-summary: “Radiant,” an epithet of [[Olympus]], as Thetis leaps from it into the sea (1.532).
+summary: “Radiant,” an epithet of [[Olympus]], three times in Homer, always in the verse-end ἀπʼ αἰγλήεντος Ὀλύμπου, “from gleaming Olympus.”
 aliases: [radiant, aigleeis]
 grc: [αἰγλήεντος]
 en: [gleaming]

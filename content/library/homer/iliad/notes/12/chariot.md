@@ -8,7 +8,7 @@ passages:
   - 12.108-126 | Asius drives for the gate
 ---
 
-**The lash of Zeus.** The Argives are “beaten down by the lash of Zeus” (Διὸς μάστιγι, 12.37), the driver's whip in the god's hand; Ajax uses the words again in Book 13, “it is by the evil lash of Zeus that we Achaeans have been beaten down” (13.812; see [[zeus]]).
+**The lash of Zeus.** The Argives are “beaten down by the lash of Zeus” (Διὸς μάστιγι, 12.37), the driver's whip in the god's hand; Ajax uses the words again in Book 13, “by the evil lash of Zeus we Achaeans were beaten down” (13.812; see [[zeus]]).
 
 **At the ditch.** Hector urges his companions across, “but his horses / did not dare, swift-footed though they were, and neighed loudly, standing at the very / edge” (12.50–52). The ditch is wide, its banks overhang, and stakes are set close along it, so that “There a horse drawing a well-wheeled chariot could not easily / go in” (12.58–59; see [[the-achaean-wall]], [[horses]] and [[well-wheeled]]). In Book 8 Hector had boasted that “the horses will easily leap over the ditch they have dug” (8.179). Polydamas explains why chariots are useless here: beyond the stakes stands the wall, “where there is no way to get down and fight / for horsemen; for it is narrow” (12.65–66), and if the Achaeans turn and counterattack, the Trojans will be caught in the ditch (12.71–74; see [[polydamas]]).
 

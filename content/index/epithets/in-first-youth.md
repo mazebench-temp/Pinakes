@@ -11,7 +11,7 @@ en: [in their first youth]
 
 ## Meaning
 
-πρωθήβης = πρῶτος (“first”) + ἥβη (“youth, the prime of life”): “in the first bloom of youth,” just come of age. ἥβη is the strength of the young: Idomeneus fears Aeneas because “he has the flower of youth, which is the greatest strength” (13.484). The word occurs three times in Homer: here; of Eurycleia, whom Laertes bought “still in her first youth” for the worth of twenty oxen (Od. 1.430–431); and of the young Phaeacians, skilled in the dance, who stand ready to perform before Odysseus (Od. 8.262–263).
+πρωθήβης = πρῶτος (“first”) + ἥβη (“youth, the prime of life”): “in the first bloom of youth,” just come of age. ἥβη is the strength of the young: Idomeneus fears Aeneas because “he has the flower of youth, which is the greatest power” (13.484). The word occurs three times in Homer: here; of Eurycleia, whom Laertes bought “still in her first youth” for the worth of twenty oxen (Od. 1.430–431); and of the young Phaeacians, skilled in the dance, who stand ready to perform before Odysseus (Od. 8.262–263).
 
 ## Use
 

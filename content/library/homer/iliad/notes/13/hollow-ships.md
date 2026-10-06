@@ -1,0 +1,5 @@
+---
+summary: Poseidon, as Calchas, shames the Achaeans with the Trojans “fighting far from the city, by the hollow ships,” in Hera's verse from Book 5, and Hypsenor is carried “to the hollow ships” in the verse of Teucer's rescue.
+---
+
+Poseidon, in the likeness of Calchas, describes the change in the war: the Trojans used to be like deer quick to flee, “but now they are fighting far from the city, by the hollow ships” (13.101–107; [[timid-deer]], [[poseidon]]). The verse is the one with which Hera, in Stentor's likeness, shamed the Argives in Book 5. She set it against the days when Achilles went into battle and the Trojans did not come out before their gates (5.788–791; [[hera]]); Poseidon sets it against the days when the Trojans were like deer. When Deiphobus' spear strikes Hypsenor, two companions carry him, “groaning heavily, to the hollow ships” (13.421–423), in the verse that ended Teucer's rescue in Book 8 (8.334; [[hypsenor-son-of-hippasus]]). The hollow ships are the camp to which the wounded are brought, and now the battlefield as well. See [[ships]] and [[the-battle-at-the-ships]].

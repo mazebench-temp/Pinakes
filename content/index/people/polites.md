@@ -3,7 +3,7 @@ title: Polites
 greek: Πολίτης
 kind: person
 tags: [trojan, house-of-priam, warrior, troad]
-summary: A son of [[Priam]], swift of foot, who watches for the Achaeans from the tomb of [[Aesyetes]]. [[Iris]] takes his voice to warn the Trojans.
+summary: A son of [[Priam]], swift of foot, whose voice [[Iris]] takes to warn the Trojans. At the ships he leads his wounded brother [[Deiphobus]] out of the battle, and he is among the sons left to Priam at the end of the poem.
 grc: [Πολίτῃ]
 en: [Polites]
 refs: [2.792, 2.795]

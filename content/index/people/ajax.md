@@ -7,8 +7,9 @@ summary: The great Ajax, son of [[Telamon]], from [[Salamis]] (the lesser Ajax i
 aliases: [Aias, Telamonian Ajax]
 # Τελαμώνιε (from the Book 7 note) addresses Teucer at 8.281; Αἴαντα ταχύν (10.110, 10.175) is the son of Oileus.
 grc: [Αἴαντ*, Αἴας]
-# Αἶαν at 12.366 is the son of Oileus, whom Telamonian Ajax addresses.
-except: [8.281, 10.110, 10.175, 12.366]
+# Αἶαν at 12.366 is the son of Oileus, whom Telamonian Ajax addresses; Ὀϊλῆος ταχὺς Αἴας (13.66, 13.701)
+# and Αἴαντος ἀδελφεός (13.695, of Medon) are the son of Oileus too.
+except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701]
 en: [Ajax]
 ---
 

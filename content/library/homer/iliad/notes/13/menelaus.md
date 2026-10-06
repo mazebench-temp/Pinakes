@@ -1,0 +1,24 @@
+---
+summary: Grieving for Deipyrus, Menelaus goes at Helenus, whose arrow glances off his corselet like beans from a winnowing shovel, and pins Helenus' hand to his bow. He kills Peisander, who swings an axe at his helmet, and over the body denounces the Trojans, who carried off his wife without fear of Zeus, god of guests, and are insatiable of battle (13.581–639).
+# Ἀτρεΐδην (13.581), Ἀτρεΐδης (13.593, 13.605, 13.610) and Ἀτρεΐδαο (13.646) are Menelaus; agamemnon
+# excepts those lines, and 13.605, 13.610 and 13.646 come here by refs.
+refs: [13.582-587, 13.594-595, 13.604-605, 13.607-608, 13.610-615, 13.618-640, 13.642-643, 13.646]
+passages:
+  - 13.581-600 | Menelaus and Helenus
+  - 13.601-619 | Menelaus kills Peisander
+  - 13.620-639 | Menelaus over Peisander
+---
+
+**Helenus.** Helenus kills Deipyrus with a great Thracian sword, “And grief seized the son of Atreus, Menelaus, good at the war cry” (13.576–581; see [[deipyrus]], [[helenus]] and [[good-at-the-war-cry]]). The two strike at the same moment, Menelaus with the spear and Helenus, “by far the best of the bird-seers” (6.76), with the bow (13.582–585). The arrow hits the plate of his corselet and flies off, as beans or chickpeas leap from a winnowing shovel across the threshing floor (13.586–592; see [[beans-on-the-threshing-floor]] and [[corselet]]). In Book 4 Pandarus' arrow went through his belt and corselet and the guard beneath and drew blood (4.134–140; see [[pandarus-breaks-the-truce]]); this time the corselet holds. His spear goes through the hand that holds the bow and into the bow itself, and Helenus draws back with the ash spear trailing from his hand, until Agenor pulls it out and binds the hand with a sling (13.593–600; see [[agenor]] and [[sling]]).
+
+**Peisander.** “And Peisander went straight for glorious Menelaus; / and an evil fate was leading him toward the end of death, / to be beaten down by you, Menelaus, in grim combat” (13.601–603). The narrator turns to Menelaus and speaks to him, as he does seven times in the poem and only here in this book (see [[apostrophe]] and [[peisander-killed-by-menelaus]]). Menelaus' spear misses; Peisander's breaks at the socket on his broad shield, “and he rejoiced in his heart and hoped for victory” (13.604–609). Then “the son of Atreus drew his silver-studded sword” (13.610), the verse with which, in the duel of Book 3, he drew the sword that shattered on the ridge of Paris' helmet (3.361–363; see [[silver-studded]] and [[the-duel-of-paris-and-menelaus]]). Peisander takes from under his shield an axe of good bronze on a long olive-wood handle (13.611–613; see [[axe]]), and this time it is the ridge of Menelaus' own helmet that is struck (κόρυθος φάλον, 13.614, as at 3.362; see [[helmet]]); his sword strikes Peisander above the nose, and the man's eyes fall bloody at his feet (13.614–618). He sets his heel on the chest and strips the body (13.618–619; see [[stripping-the-dead]]).
+
+**The speech.**
+
+{{quote:358333ad-21bc-5def-b8bf-b445dd469eb2}}
+
+The speech begins and ends with the Trojans' appetite for war: they are “insatiable of the dread war cry” (13.621) and “insatiable of battle” (13.639; see [[insatiable]]). Between, Menelaus names his wrong. They carried off his wife and his possessions, “after you had been welcomed by her” (13.627; see [[the-abduction-of-helen]] and [[xenia]]), without fear of “the harsh wrath of Zeus who thunders loud, / god of guests” (13.624–625; see [[who-thunders-loud]]), the god to whom he prayed in the duel that men to come might shudder to wrong a host (3.351–354). He calls them κακαὶ κύνες, “you evil dogs” (13.623; see the translation's note), and their offense λώβη, “insult” (13.622; see [[lobe]]). Then he turns to Zeus, as he did when his sword broke (3.365): “Father Zeus, they say that you surpass in wisdom all others, / men and gods; and all these things come from you. / How you favor men who are arrogant, / the Trojans” (13.631–634; see [[zeus]] and [[hybris]]). All things have their satiety, sleep and love, song and dancing, things a man would sooner have his fill of than war; but the Trojans can never have enough of battle (13.636–639; see [[satiety-of-all-things]]).
+
+**Harpalion.** He gives the bloody armor to his companions and goes back among the champions (13.640–642). Harpalion, son of king Pylaemenes, stabs the middle of his shield but cannot drive the bronze through, and as he draws back Meriones' arrow kills him (13.643–655; see [[harpalion]] and [[meriones]]). His father follows the body in tears (13.658), though in Book 5 it was Menelaus who killed Pylaemenes, leader of the Paphlagonians (5.576–579; see [[pylaemenes]] and [[pylaemenes-dead-and-alive]]).
+
+His epithets in the book are βοὴν ἀγαθός, “good at the war cry” (13.581, 13.593), κυδάλιμος, “glorious” (13.591, 13.601, 13.606), and ἀμύμων, “noble” (13.641; see [[kydalimos]] and [[blameless]]).

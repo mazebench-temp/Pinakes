@@ -25,7 +25,7 @@ relations:
 
 ## Descriptions
 
-οἰωνοπόλων ὄχʼ ἄριστος, “by far the best of the bird-seers” (6.76). The half-line introduced Calchas on the Achaean side (1.69; see [[best-of-bird-seers]] and [[calchas]]): each army has its best reader of birds, and the poem gives both the same words. Helenus is also a fighter, who kills with the sword and shoots with the bow (13.576–600). The narrator names him as heroes are named, by their strength: βίη Ἑλένοιο ἄνακτος, “the might of lord Helenus” (13.758, 13.770, 13.781). See [[divination]].
+οἰωνοπόλων ὄχʼ ἄριστος, “by far the best of the bird-seers” (6.76). The half-line introduced Calchas on the Achaean side (1.69; see [[best-of-bird-seers]] and [[calchas]]): each army has its best reader of birds, and the poem gives both the same words. Helenus is also a fighter, who kills with the sword and shoots with the bow (13.576–600). The narrator names him as heroes are named, by their strength: βίη Ἑλένοιο ἄνακτος, “mighty lord Helenus” (13.758, 13.770, 13.781). See [[divination]].
 
 {{notes}}
 

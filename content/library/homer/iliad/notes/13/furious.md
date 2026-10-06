@@ -1,0 +1,5 @@
+---
+summary: Poseidon, as Calchas, reproaches the Achaeans for letting go of their “furious courage,” and the two Ajaxes carry off Imbrius, “eager with furious courage.”
+---
+
+Poseidon, in the likeness of Calchas, rebukes the men in the rear: “But you no longer do well to let go of your furious courage, / all of you, the best men in the army” (13.116–117; [[poseidon]], [[exhortation]]). The verb and the formula are those of Agamemnon's call at the review, “Argives, do not yet let go of your furious courage” (4.234), and of Sarpedon's rebuke to the Lycians (12.409); the god turns them on the best of the Achaeans. When Hector has killed Amphimachus, “Imbrius the two Ajaxes, eager with furious courage, carried off” (13.197; [[the-two-ajaxes]], [[imbrius]]), and they hold the body high like two lions with a goat (13.198–202; [[two-lions-and-a-goat]]). In Books 7 and 8 the two Ajaxes rose “clothed in furious courage” (7.164, 8.262); here, in the dual, they are eager for it, μεμαότε θούριδος ἀλκῆς. See [[alke]].

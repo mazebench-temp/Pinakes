@@ -3,7 +3,7 @@ title: What a thing you have said
 greek: ποῖον τὸν μῦθον ἔειπες
 kind: formula
 tags: [speech-formula]
-summary: A formula of indignant protest, “what a thing you have said!” Hera uses it against Zeus (1.552).
+summary: Exclamations of indignant protest at what has just been said: “what a thing you have said!” (ποῖον τὸν μῦθον ἔειπες, and the shorter ποῖον ἔειπες and οἷον ἔειπες), and “what a word has escaped the barrier of your teeth!”
 aliases: [poion ton mython eeipes]
 grc: [ποῖον τὸν μῦθον ἔειπες]
 en: [what a thing you have said]

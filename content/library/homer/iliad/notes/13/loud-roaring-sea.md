@@ -1,0 +1,5 @@
+---
+summary: The Trojans follow Hector like the waves of “the loud-roaring sea” when a storm comes down under the thunder of Zeus.
+---
+
+The Trojans advance behind their leaders “like a blast of grievous winds, / which comes down to the plain under the thunder of father Zeus, / and with a wondrous din mingles with the sea, and in it are many / seething waves of the loud-roaring sea, / arched and white-crested, some in front, and others behind; / so the Trojans, some in front in close array, and others behind, / gleaming with bronze, followed with their leaders” (13.795–801; [[the-storm-and-the-waves]], [[trojans]], [[hector]], [[sea]]). Elsewhere the formula πολυφλοίσβοιο θαλάσσης often ends a verse about the shore, where Chryses walks in silence and Achilles lies groaning (1.34, 23.59); here it is the open sea in a storm, and its waves, one behind another, are the ranks of the army. In Book 2 the army rushing back to the assembly roared “as when a wave of the loud-roaring sea / crashes on the long beach” (2.209–210).

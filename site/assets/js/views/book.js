@@ -2,7 +2,7 @@
 import { el, esc, icon, on, plural, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { BOOK_LETTERS } from './library.js';
-import { linesIn, presentIn, firstKeyIn } from '../lib/scope.js';
+import { linesIn, presentIn, firstKeyIn, firstRefIn } from '../lib/scope.js';
 
 function tip(root) {
   const t = el('<div class="chart-tip" role="tooltip" hidden></div>');
@@ -32,7 +32,7 @@ export async function render(route) {
   const title = id => cat.by.entries.get(id)?.title ?? id;
   const S = `${workId}.${book}`;
   const here = e => linesIn(e, S, cat);
-  const firstHere = e => { const m = firstKeyIn(e, S, cat).match(/(\d+)\.(\d+)$/); return m ? `${+m[1]}.${+m[2]}` : ''; };
+  const firstHere = e => firstRefIn(e, S, cat);
 
   // Who speaks: lines per speaker, plus the narrator's share as context.
   const bySpeaker = new Map();

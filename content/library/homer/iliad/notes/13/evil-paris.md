@@ -1,0 +1,5 @@
+---
+summary: Hector rebukes Paris a second time with the verse of Book 3, “Evil Paris, best in looks, mad for women, seducer,” but this time Paris has been fighting.
+---
+
+Hector goes along the champions looking for Deiphobus, Helenus, Adamas and Asius, and finds them dead or wounded; on the left of the battle he finds Paris instead, “encouraging his companions and urging them on to fight” (13.758–767; [[hector]], [[paris]]). He speaks to him “with shaming words” (13.768), and the first of them is the verse of the rebuke in Book 3: “Evil Paris, best in looks, mad for women, seducer” (13.769 = 3.39; [[best-in-looks]]). In Book 3 Paris had shrunk back from Menelaus, and he accepted the rebuke as fair (3.59). Here the charge misses. Paris answers that Hector's heart “is set on blaming one who is not to blame,” that his mother “did not bear me wholly without courage either,” and that the men Hector asks about have been killed or wounded while the rest fought on beside the ships (13.775–783; [[aitios]]). Hector is persuaded, and the two go back together to where the fighting is thickest (13.788–789).

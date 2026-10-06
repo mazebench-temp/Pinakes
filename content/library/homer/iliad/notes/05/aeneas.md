@@ -30,7 +30,7 @@ The narrator names the joint, the κοτύλη or “cup”. The last two verses
 
 **Two rescues.** “And now Aeneas, lord of men, would have perished there” (5.311; see [[would-have-had-not]]). ἄναξ ἀνδρῶν belongs almost only to Agamemnon; this book gives it to Aeneas and, forty lines earlier, to his father (5.268; see [[lord-of-men]]). His mother wraps him in her robe and is wounded (see [[aphrodite]]); Apollo takes him up in a cloud, shields him from Diomedes' charges, and sets him down in his temple on Pergamus, where Leto and Artemis heal him and “gave him glory” (5.343–448; see [[apollo]] and [[divine-rescue]]). His horses are lost. Sthenelus drives them to the ships (5.319–327), and Diomedes will drive them again, the horses “I took them once from Aeneas” (8.108; see also 23.291–292).
 
-**Honored.** While the armies fight over his phantom, Ares in the likeness of Acamas rallies the sons of Priam to save “a man … whom we honored as highly as brilliant Hector, Aeneas, son of great-hearted Anchises” (5.467–468; see [[the-phantom-of-aeneas]]). Aeneas himself thinks otherwise: in Book 13 he resents Priam, who “did not honor him at all, brave as he was” (13.460–461).
+**Honored.** While the armies fight over his phantom, Ares in the likeness of Acamas rallies the sons of Priam to save “a man … whom we honored as highly as brilliant Hector, Aeneas, son of great-hearted Anchises” (5.467–468; see [[the-phantom-of-aeneas]]). Aeneas himself thinks otherwise: in Book 13 he resents Priam, because, “brave as he was among men, Priam did not honor him at all” (13.460–461).
 
 **Return.**
 

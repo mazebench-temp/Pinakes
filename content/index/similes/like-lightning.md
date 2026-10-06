@@ -5,7 +5,6 @@ kind: simile
 tags: [cosmic, warfare, weapon]
 summary: The bronze of the spears planted beside the sleeping Diomedes shines far off “like the lightning of father Zeus” (10.153–154). The same half-line describes Hector in his armor at the start of the third day of battle (11.65–66), and Idomeneus goes out to battle like the lightning of Zeus (13.242–245).
 aliases: [like the lightning of father Zeus, shining like lightning, bronze like lightning]
-# Idomeneus "like the lightning" (ἀστεροπῇ ἐναλίγκιος, 13.242) is to be added with Book 13.
 grc: ["στεροπὴ πατρὸς Διός"]
 en: [shone like the lightning of father Zeus]
 of: [bronze, spear]

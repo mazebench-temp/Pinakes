@@ -3,7 +3,7 @@ title: Like children or widows
 greek: ὥς τε γὰρ ἢ παῖδες νεαροὶ χῆραί τε γυναῖκες
 kind: simile
 tags: [speech, shame, woman]
-summary: Odysseus shames the army that wants to sail home: “like young children or widowed women they wail to one another about going home” (2.289–290). Nestor takes up the comparison soon after: “you talk in the assembly like children” (2.337–338).
+summary: Children, and widowed women, as a likeness of shame for men who wail or talk when they should act. Odysseus says that the Achaeans wail to go home “like young children or widowed women” (2.289–290), Nestor that they talk in the assembly “like children” (2.337–338), and Idomeneus breaks off his own talk with Meriones: “let us no longer talk like this, like children” (13.292).
 aliases: [children or widows, like children]
 grc: [παῖδες νεαροὶ, χῆραί τε γυναῖκες, παισὶν ἐοικότες, νηπιάχοις]
 en: [like young children or widowed women, like children]

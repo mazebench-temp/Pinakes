@@ -5,7 +5,8 @@ kind: object
 tags: [weapon, warfare]
 summary: The warrior's shield, hung from a strap over the shoulder. Homer calls it ἀσπίς or σάκος, and describes both great shields that cover the whole body and round ones.
 aliases: [shields, aspis, sakos, shield-bearing]
-grc: [ἀσπίδα, ἀσπίδος, ἀσπιδιώτας]
+# The strap form τελαμῶνος (Book 5 note) must not catch Telamon, Teucer's father (13.177; later 17.284, 17.293).
+grc: [ἀσπίδα, ἀσπίδος, ἀσπιδιώτας, "!^Τελαμῶνος"]
 en: [shield, shield-bearing]
 ---
 

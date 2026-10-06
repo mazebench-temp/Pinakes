@@ -1,0 +1,15 @@
+---
+summary: Idomeneus has left a companion wounded behind the knee with the healers; on the field Agenor draws Menelaus' spear from Helenus' hand and binds it with a woolen sling, the only wound bound up in the Iliad; the wounded are carried off, Hypsenor to the ships and Deiphobus to the city, and the Paphlagonians tend the dying Harpalion (13.210–214, 13.421–423, 13.533–539, 13.598–600, 13.656–658).
+grc: [ἰητροῖς, "ἐκ χειρὸς ἔρυσεν", ξυνέδησεν]
+en: [drew it out of his hand, bound the hand up]
+---
+
+**The healers.** Idomeneus meets Poseidon “as he came from a companion who had just come to him from the war, / struck behind the knee by the sharp bronze. / His companions had carried him off, and Idomeneus, having given orders to the healers, / was going to his hut” (13.211–214; see [[idomeneus]]). The wounded man is not named, and the healers are not either. Machaon, the healer of Book 4, was wounded in Book 11 and is still drinking in Nestor's hut (11.504–520, 14.1–8; see [[machaon]]), and Patroclus will tell Achilles that “healers rich in drugs” are tending the wounded kings (ἰητροὶ πολυφάρμακοι, 16.28).
+
+**Agenor's bandage.** Menelaus' spear has gone through Helenus' hand into his bow:
+
+“And great-hearted Agenor drew it out of his hand, / and bound the hand up with well-twisted sheep's wool, / a sling, which an attendant carried for him, the shepherd of the people” (13.598–600; see [[agenor]], [[helenus]] and [[sling]]). Drawing out the weapon is the first of the healer's tasks (see the entry), done here by a companion on the field, with no drug. No other wound in the Iliad is bound up. In the Odyssey the sons of Autolycus, tending the young Odysseus after the boar hunt (ἀμφεπένοντο), bind his wound with skill and stop the dark blood with a charm (Od. 19.455–458).
+
+**Carried from the field.** Two companions stoop under the fallen Hypsenor and carry him, “groaning heavily, to the hollow ships” (13.421–423), the verses that carried Teucer from the field in Book 8 (8.332–334; see [[hypsenor-son-of-hippasus]] and [[groaning-heavily]]); whether he lives is not said (see the translation's note on 13.412–423). Polites leads the wounded Deiphobus to his chariot, which carries him toward the city “groaning heavily / in his distress; and the blood ran down from his freshly wounded arm” (13.533–539; see [[deiphobus]] and [[polites]]). The Paphlagonians “tended” Harpalion (ἀμφεπένοντο, 13.656), the verb used of the men who were busy about the wounded Menelaus (4.220) and of the healers in Book 16 (16.28); but Harpalion is dead, and they lift him into a chariot and take him to Ilios, his father following in tears (13.653–659; see [[harpalion]] and [[pylaemenes]]).
+
+**A healing word.** In Calchas' likeness Poseidon tells the Achaeans, “Let us rather heal it quickly: the hearts of good men can be healed” (13.115; see [[good-mens-hearts-can-be-healed]]). What is to be healed is not said, the quarrel with Achilles or the army's slackness (see the translation's note on 13.115).

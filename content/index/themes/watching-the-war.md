@@ -23,7 +23,7 @@ Troy watches its own war. The old men sit on the tower above the Scaean gates, �
 
 ## The armies and the onlooker
 
-When the fighting stops, the armies become spectators: at the duel of Book 3, “amazement held those who watched, the horse-taming Trojans and the well-greaved Achaeans” (3.342–343). The poet also imagines an onlooker of his own. He tells the listener what “you would have said” or “would not have seen” (4.223, 4.429–431, 15.697–698, 17.366–367). At the end of the first battle he invents a man who walks unhurt through the middle of the fighting, led by Athena, to see it (4.539–544), and later he names the feeling such a sight should bring: “very bold would be the man who then rejoiced at the sight of the toil and did not grieve” (13.343–344). The listener is placed where the gods are, watching from safety, and asked to feel as a man would.
+When the fighting stops, the armies become spectators: at the duel of Book 3, “amazement held those who watched, the horse-taming Trojans and the well-greaved Achaeans” (3.342–343). The poet also imagines an onlooker of his own. He tells the listener what “you would have said” or “would not have seen” (4.223, 4.429–431, 15.697–698, 17.366–367). At the end of the first battle he invents a man who walks unhurt through the middle of the fighting, led by Athena, to see it (4.539–544), and later he names the feeling such a sight should bring: “he would be very bold of heart / who could then have rejoiced at the sight of the toil, and not grieved” (13.343–344). The listener is placed where the gods are, watching from safety, and asked to feel as a man would.
 
 {{notes}}
 

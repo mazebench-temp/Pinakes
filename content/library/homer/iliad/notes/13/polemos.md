@@ -1,0 +1,11 @@
+---
+summary: Book 13 names war in some of its strongest phrases: the rope of strife and of “war common to all”, “the crown of war” that blazes around Hector, “a man insatiable of war”, “the works of war” that a god gives to one man and not another, and the Trojans who cannot have their fill of it.
+grc: [πτολέμοιο, πτολεμίζειν, πτολεμίξων, πολεμίζει, πολεμιστήν]
+en: [warrior]
+---
+
+**War common to all.** πόλεμος ὁμοίιος, “war common to all”, the war that falls alike on both sides, is named twice in the book in the epic form πτόλεμος: in the rope of strife and war that the two sons of Cronus stretch over both armies (13.358–360; see [[the-rope-of-war]] and [[eris]]), and in Menelaus' complaint that the Trojans “cannot / have their fill of the din of battle, of war common to all” (13.634–635; see [[satiety-of-all-things]]). The verse of the rope, ἔριδος κρατερῆς καὶ ὁμοιΐου πτολέμοιο, has a near twin in Book 18, when the sun sets and the Achaeans rest “from the mighty din of battle and war common to all” (φυλόπιδος κρατερῆς καὶ ὁμοιΐου πολέμοιο, 18.241–242).
+
+**Crown and works of war.** Polydamas tells Hector that “all around you the crown of war is blazing” (στέφανος πολέμοιο, 13.736), with the only στέφανος in Homer (see the translation's note on 13.736), and that a god has given him “the works of war” but not counsel (13.727–730; see [[the-works-of-war]] and [[different-gifts]]). He fears the man by the ships who is “insatiable of war” (ἆτος πολέμοιο, 13.746), the epithet of Ares given to Achilles (see [[insatiable-of-war]]).
+
+**Intent on war, and holding back from it.** Meriones and Aeneas go into battle “much intent on war” (μέγα πτολέμοιο μεμηλώς, 13.297, 13.469), and Harpalion followed his father Pylaemenes to Troy “to make war” (πτολεμίξων, 13.644). Against them stand the men who hold back from war, whom Poseidon rebukes (πολέμοιο μεθ-, 13.97, 13.114, 13.118; see [[retreat]]), and Meriones, asking Idomeneus where to enter the battle, says that nowhere else, he thinks, are the Achaeans “so lacking in war” (13.307–310). The verb πολεμίζω is the work itself: “all of us know how to make war”, Idomeneus says (πτολεμίζειν, 13.223), and Hector “is fighting beside the ships” (πολεμίζει, 13.123).

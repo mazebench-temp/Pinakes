@@ -1,0 +1,9 @@
+---
+summary: The coward's heart pounds against his chest in the ambush; Alcathous' heart, pierced by Idomeneus' spear, goes on beating and shakes the butt of the spear; and Paris bids Hector lead “wherever your heart and spirit bid you”.
+---
+
+**The coward's heart.** In Idomeneus' ambush the coward cannot sit still, “and his heart pounds loudly against his chest / as he foresees the fates, and his teeth chatter” (ἐν δέ τέ οἱ κραδίη μεγάλα στέρνοισι πατάσσει, 13.282–283; see [[the-brave-man-in-ambush]] and [[deos]]). The verb πατάσσω, “pound”, is said twice more in the Iliad, of the θυμός: “Hector's own heart pounded in his breast” when Ajax came out against him (7.216), and the charioteers' hearts pound at the start of the race (23.370). Agamemnon, sleepless in Book 10, says that his heart leaps out of his breast for fear for the Danaans (10.94–95; see the note on Book 10).
+
+**The heart that beats on.** Poseidon binds Alcathous for Idomeneus' spear, and the spear goes into his chest: “And he fell with a thud, and the spear was fixed in his heart, / and the heart, still quivering, shook even the butt / of the spear; and then mighty Ares let its might go” (δόρυ δʼ ἐν κραδίῃ ἐπεπήγει, / ἥ ῥά οἱ ἀσπαίρουσα καὶ οὐρίαχον πελέμιζεν, 13.442–444; see [[alcathous]], [[menos]] and the translation's note on 13.443–444). The verb ἀσπαίρω is the writhing of the dying, as of Adamas around Meriones' spear later in the book (13.571–573; see [[the-roped-ox]]); here it is the heart itself that writhes, and the spear moves with it.
+
+**Heart and spirit.** Paris, having answered Hector's rebuke, puts himself under his command: “But now lead on, wherever your heart and spirit bid you” (ὅππῃ σε κραδίη θυμός τε κελεύει, 13.784; see [[paris]] and [[thymos]]). The phrase comes only here in the Iliad; in the Odyssey it is the host's promise to send a guest on his way wherever his heart and spirit bid him (*Odyssey* 14.517, 15.339, 16.81, 21.342).

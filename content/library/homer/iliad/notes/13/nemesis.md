@@ -1,0 +1,14 @@
+---
+summary: Poseidon, watching the battle from Samothrace, “was fiercely indignant with Zeus”, and the narrator repeats the verse when he explains the god's secret help; in Calchas' likeness he tells the Achaean leaders that he is indignant with them with all his heart and bids each man set “shame and blame” in his mind. Idomeneus breaks off his talk with Meriones lest someone be “overbearingly indignant”.
+grc: [ἐνεμέσσα]
+passages:
+  - 13.10-16 | Poseidon watches from Samothrace
+  - 13.351-357 | Poseidon's secret help
+  - 13.116-122 | Shame and blame
+---
+
+**Indignant with Zeus.** One verse gives the motive of Poseidon's part in the book, and the narrator says it twice. Poseidon sits on the topmost peak of Thracian Samos, sees the battle, and pities the Achaeans “as they were beaten down by the Trojans, and he was fiercely indignant with Zeus” (Τρωσὶν δαμναμένους, Διὶ δὲ κρατερῶς ἐνεμέσσα, 13.15–16); when the narrator explains why the god helps the Argives in secret, the same verse returns (13.352–353; see [[poseidon]] and [[poseidon-rallies-the-achaeans]]). The indignation is aimed at the god who allows the Achaeans' defeat, not at the Trojans who inflict it. It explains the help and also limits it, for “Zeus was born first and knew more”, and so Poseidon helps “in the likeness of a man” and not openly (13.355–357; see [[plan-of-zeus]]). When Zeus wakes and orders him out of the battle, Poseidon protests that he is equal in honor, one of three brothers among whom the world was divided by lot, and then gives way, “though indignant” (νεμεσσηθεὶς ὑποείξω, 15.185–211).
+
+**Indignant with the leaders.** In Calchas' likeness the god turns the same feeling on the Achaean leaders. A wretch who held back from war he would not quarrel with, “but with you I am indignant with all my heart” (νεμεσσῶμαι περὶ κῆρι, 13.118–119; see [[ker-heart]]). Indignation is kept for those who should know better, “the best men in the army” (13.117). Then he asks each of them to feel it on his own account: “let each of you set in his mind / shame and blame” (αἰδῶ καὶ νέμεσιν, 13.121–122). The two nouns stand together only here in Homer (see [[aidos]]): the shame that holds a man back, and the blame that he would meet if it did not.
+
+**Overbearingly indignant.** Idomeneus and Meriones, meeting at the huts, have been talking of spears, spoils and courage, and Idomeneus breaks it off: “let us no longer talk like this, like children, / standing here, lest someone be overbearingly indignant” (μή πού τις ὑπερφιάλως νεμεσήσῃ, 13.292–293; see [[the-brave-man-in-ambush]] and [[nepios]]). Two leaders talking of their own courage by the huts while the battle goes on would give anyone cause. The adverb, “beyond measure, overbearingly” (see [[overbearing]]), stands with the same verb twice more, both times of the suitors, all indignant, once with Antinous for striking the beggar and once with the beggar for asking to try the bow (*Odyssey* 17.481, 21.285).

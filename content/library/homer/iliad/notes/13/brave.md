@@ -1,0 +1,9 @@
+---
+summary: Words of praise for a man's worth mark the brave man in the ambush, the “brave men” of Poseidon's challenge, Meriones, Teucer, Aeneas, Euchenor, Bias, and the companions of Ajax.
+grc: ["ἀγαθοῖσιν ἐπισταίμεσθα", "θεράπων ἐῢς", "τοῦ δʼ ἀγαθοῦ", "ἀγαθὸς δὲ καὶ ἐν σταδίῃ", "ἐσθλὸν ἐόντα", "ἀφνειός τʼ ἀγαθός τε", "Βίας τʼ ἐΰς"]
+en: [good]
+---
+
+**The brave man and the coward.** Idomeneus tells Meriones that in an ambush “the coward and the valiant man are shown for what they are”: the coward's color changes and his teeth chatter, “but the brave man's color does not change, nor is he much / afraid” (13.276–285; [[the-brave-man-in-ambush]], [[ambush]], [[strong-spear]]). ἀγαθός here is the brave man as such, set against the κακός, the coward (13.279). Earlier Poseidon, in the likeness of Thoas, set the brave against their opposite: even the prowess of wretched men counts when it is joined, “and we two would know how to fight even against brave men” (13.237–238; [[joined-prowess]], [[grim]], [[arete]]).
+
+**Men.** Meriones is “his good attendant,” θεράπων ἐΰς, when he meets Idomeneus (13.246), with the old adjective of this entry's formulas; the same words name him three times in the games of Book 23 (23.528, 23.860, 23.888; [[meriones]]). Teucer is “the best of the Achaeans / at archery, and good also in close battle” (13.313–314; [[teucer]]). Aeneas stands at the back of the throng, angry with Priam, who did not honor him, “brave as he was among men” (13.459–461; [[aeneas]], [[time]]). Euchenor, the seer's son from Corinth, is “rich and brave” (13.663–664; [[euchenor]]), in the half-verse that later describes Podes, son of Eetion (17.576). Among the Athenian leaders is “good Bias” (13.691; [[bias-the-athenian]]), again with ἐΰς. And with Telamonian Ajax go “many brave / men, his companions,” who take over his shield when he tires (13.709–711; [[ajax]]).

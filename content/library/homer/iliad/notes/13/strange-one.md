@@ -1,0 +1,5 @@
+---
+summary: Idomeneus dares Deiphobus and Ajax dares Hector with the vocative δαιμόνιε, the only two times in the Iliad that it is spoken to an enemy.
+---
+
+Until Book 13 the address is spoken between people bound to each other: husband and wife, brother and brother, comrades, Helen and her goddess. Here it opens two challenges. Idomeneus, having killed Alcathous, answers Deiphobus' boast: “Strange one, come and stand against me yourself, so that you may see what kind of offspring of Zeus I am, who have come here” (13.448–449; [[idomeneus]], [[deiphobus]], [[son-of-zeus]], [[genealogy-in-battle]]). At the end of the book Ajax, coming on with long strides, calls to Hector: “Strange one, come near; why do you try to frighten the Argives like this? We are not without knowledge of battle at all” (13.810–811; [[ajax]], [[hector]]). These are the only two times in the Iliad that δαιμόνιε is spoken to an enemy, and both speakers go on to say who they are: Idomeneus by his descent from Zeus, Ajax by the Achaeans' hands, ready to defend the ships (13.814).

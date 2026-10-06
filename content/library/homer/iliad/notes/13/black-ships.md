@@ -1,0 +1,5 @@
+---
+summary: Meriones, like Idomeneus, keeps spoils of the Trojans “beside my hut and my black ship,” but they are too far off to fetch.
+---
+
+Idomeneus has offered Meriones a spear from the Trojan spears that stand in his hut, taken from the men he has killed (13.260–265). Meriones answers: “I too, beside my hut and my black ship, / have many spoils of the Trojans; but they are not near enough for me to take one” (13.267–268; [[meriones]], [[hut]], [[stripping-the-dead]]). The hut and the black ship are a man's own place in the camp, as when Achilles says he will hold Hector back “around my hut and my black ship” (9.654) and Agamemnon finds Nestor “beside his hut and his black ship” (10.74). It is the only time Book 13 calls the ships black. Elsewhere in the book, as the battle reaches them, they are swift, swift-sailing, hollow, curving, seafaring and many-benched ([[swift-ships]], [[swift-sailing-ships]], [[hollow-ships]], [[curving]], [[seafaring-ship]], [[many-benched]]). See [[ships]].

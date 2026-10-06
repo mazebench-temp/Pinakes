@@ -1,0 +1,13 @@
+---
+summary: Horses in Book 13 are Poseidon's team, yoked at Aegae to carry him over the sea and hobbled in a cave between Tenedos and Imbros (13.23–38), and Asius' team, held so close that they breathe on his shoulders as he dies on foot before them, and then driven off to the Achaeans by Antilochus (13.384–401).
+refs: [13.24, 13.29-30, 13.35-38, 13.386, 13.536-538, 13.820]
+passages:
+  - 13.23-38 | Poseidon's horses
+  - 13.384-401 | Asius' horses
+---
+
+**Poseidon's team.** At Aegae the god yokes “his two bronze-footed horses, swift-flying, with flowing manes of gold” (13.23–24), the words of Zeus' team in Book 8 (8.41–42; see [[bronze-footed]], [[swift-flying]] and [[chariot-journey]]). They fly over the waves “very swiftly, and the bronze axle was not wetted beneath”, and ἐΰσκαρθμοι, “bounding”, a word found only here, they carry him to the ships (13.29–31). In the cave between Tenedos and Imbros he halts them, unyokes them and sets ambrosial fodder before them, as Zeus halts and unyokes his team on Gargarus and Hera hers by the Simoeis (13.34–35; 8.49–50, 5.775–777; see [[ambrosial]]). Around their feet he casts golden hobbles, “unbreakable, not to be loosed”, so that they stay there until their lord returns (13.36–38). The same pair of words describes the rope of war that the two sons of Cronus stretch over the armies a few hundred verses later (13.360; see [[the-rope-of-war]]). In the Odyssey Poseidon lashes his fine-maned horses and comes to Aegae, where his glorious house is (*Odyssey* 5.380–381; see [[aegae]]).
+
+**Asius' team.** Asius would not leave his horses at the ditch, and the narrator said that he would never come back to Ilios “glorying in his horses and chariot” (12.110–115). Now he comes to the defense of Othryoneus “on foot in front of his horses; and they, breathing on his shoulders, were held always close by the charioteer, his attendant” (13.385–386). He falls before his horses and chariot like a felled tree (13.389–393; see [[the-felled-tree]] and [[asius]]). The charioteer, struck out of his wits, does not dare to turn the horses and escape; Antilochus kills him, and drives the horses away from the Trojans to the Achaeans (13.394–401; see [[antilochus]]).
+
+**Others.** Deiphobus' swift horses stand behind the battle with his charioteer and his inlaid chariot, and carry him, wounded, toward the city (13.535–539). Where the wall was built lowest, men and horses were most violent in battle (13.683–684). Ajax tells Hector that he will soon pray that his fine-maned horses “may be swifter than hawks”, to carry him to the city raising the dust of the plain (13.817–820; see [[fine-maned]] and [[hawk]]).

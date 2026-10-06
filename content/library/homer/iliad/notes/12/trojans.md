@@ -19,4 +19,4 @@ passages:
 
 {{quote:10e8ee84-5af6-5cc2-b524-7452cdddad4e}}
 
-Book 13 begins where this ends, “when Zeus had brought the Trojans and Hector to the ships” (13.1).
+Book 13 begins where this ends, “Now when Zeus had brought the Trojans and Hector close to the ships” (13.1).

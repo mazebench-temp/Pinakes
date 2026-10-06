@@ -34,7 +34,7 @@ The West Wind that raises these waves also drove the storm cloud to which the ba
 
 The sea similes of Book 2 gave the noise of an assembly: waves on the Icarian sea as it broke up, surf on a long beach as it gathered again, a wave on a headland as it shouted its approval (2.144–146, 2.209–210, 2.394–397; see [[waves-of-the-icarian-sea]], [[surf-on-the-beach]] and [[wave-on-the-headland]]). The surf simile shares its verb with this one: there a wave “crashes on the long beach” (αἰγιαλῷ μεγάλῳ βρέμεται, 2.210).
 
-Later the image turns against the Achaeans. The Trojans come on like the waves of the loud-roaring sea driven by a storm of winds, “curved, white-crested, some in front and others behind” (13.795–800), they pour over the wall like a great wave over a ship's side (15.381–384), and Hector falls on the Achaeans as a wave falls on a swift ship (15.624–628). Then the Danaans hold like a sheer rock that stands against the winds and the swelling waves (15.618–622).
+Later the image turns against the Achaeans. The Trojans come on like the waves of the loud-roaring sea driven by a storm of winds, “arched and white-crested, some in front, and others behind” (13.795–800), they pour over the wall like a great wave over a ship's side (15.381–384), and Hector falls on the Achaeans as a wave falls on a swift ship (15.624–628). Then the Danaans hold like a sheer rock that stands against the winds and the swelling waves (15.618–622).
 
 ## Outside Homer
 

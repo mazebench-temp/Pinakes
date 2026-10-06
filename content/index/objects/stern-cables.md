@@ -6,7 +6,8 @@ tags: [ship, seafaring]
 summary: The ropes that tie a moored ship's stern to the shore, made fast when a ship comes in and loosed when it sails.
 aliases: [stern cables, hawsers, mooring ropes, prymnesia]
 # πρύμνῃσι(ν) "at the sterns" (8.475) looks like the elided πρυμνήσιʼ once accents are ignored.
-grc: [πρυμνήσιʼ, πρυμνήσια, "!=πρύμνῃσι"]
+# πρυμνῇσι (ἐπὶ πρυμνῇσι νέεσσιν "at the sterns of the ships", 13.333) is the adjective πρυμνός, not the cables.
+grc: [πρυμνήσιʼ, πρυμνήσια, "!=πρύμνῃσι", "!=πρυμνῇσι"]
 en: [stern-cables]
 ---
 

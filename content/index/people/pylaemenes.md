@@ -16,7 +16,7 @@ en: [Pylaemenes]
 
 ## Elsewhere in Homer
 
-Book 13 brings him back alive. His son Harpalion, who had followed him to the war, is killed by Meriones, and as the Paphlagonians carry the body back to Troy, “his father went with them, shedding tears” (13.643–659), though Menelaus killed him in Book 5 (5.576–579).
+Book 13 brings him back alive. His son Harpalion, who had followed him to the war, is killed by Meriones, and as the Paphlagonians carry the body back to Troy, “his father went with them, letting tears fall” (13.643–659), though Menelaus killed him in Book 5 (5.576–579).
 
 ## Outside Homer
 

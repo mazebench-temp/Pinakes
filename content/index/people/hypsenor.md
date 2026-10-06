@@ -3,9 +3,10 @@ title: Hypsenor
 greek: Ὑψήνωρ
 kind: person
 tags: [trojan, warrior, troad]
-summary: A Trojan, son of [[Dolopion]], the priest of the river [[Scamander]]; Eurypylus cuts off his arm with a sword, and “purple death and mighty fate” seize his eyes. Not the Achaean Hypsenor, son of Hippasus, of Book 13.
-# Ὑψήνορα at 13.411 is Hypsenor son of Hippasus, an Achaean.
+summary: A Trojan, son of [[Dolopion]], the priest of the river [[Scamander]]; Eurypylus cuts off his arm with a sword, and “purple death and mighty fate” seize his eyes. Not the Achaean [[hypsenor-son-of-hippasus|Hypsenor, son of Hippasus]], of Book 13.
+# Ὑψήνορα at 13.411 is Hypsenor son of Hippasus, killed by Deiphobus (hypsenor-son-of-hippasus).
 grc: [Ὑψήνορα]
+except: [13.411]
 refs: [5.77, 5.79-83]
 relations:
   - father: dolopion (5.76-77)

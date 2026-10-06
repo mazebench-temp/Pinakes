@@ -1,0 +1,6 @@
+---
+summary: The Moliones are not named in Book 13, but Amphimachus, whom Hector kills, is the son of Cteatus, one of the twins, and when he falls Poseidon is angry for his grandson, which agrees with Nestor that the god was their father (13.185, 13.206–207).
+refs: [13.185, 13.206-207]
+---
+
+Ἀμφίμαχον Κτεάτου υἷʼ Ἀκτορίωνος, “Amphimachus, son of Cteatus, of Actor's line” (13.185): the twins' patronymic, given here to one of them in the singular (see [[cteatus]] and [[actor-of-elis]]). When Amphimachus falls, “Poseidon was angry with all his heart / for his grandson” (13.206–207). υἱωνός is a son's son, as Tlepolemus, son of Heracles, is the υἱωνός of Zeus (5.631), so Poseidon is the father of Cteatus. Nestor said the same of both twins, whom “their father, the wide-ruling earth-shaker” hid from his spear in a thick mist (11.750–752; see [[poseidon]] and [[amphimachus]]). The god who once saved his sons from Nestor has not saved his grandson from Hector, and he takes his anger into the battle (13.208–209). The poem says no more of the twins here; Eurytus' son Thalpius, Amphimachus' cousin and fellow leader, is not named after the Catalogue (2.620–621; see [[eurytus-of-elis]] and [[thalpius]]).

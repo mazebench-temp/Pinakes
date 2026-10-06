@@ -1,0 +1,19 @@
+---
+summary: Stripping and the fight for it run through Book 13. Teucer rushes to strip Imbrius and Hector to snatch Amphimachus' helmet, and both are driven off; the two Ajaxes strip Imbrius like lions with a goat; Idomeneus keeps the Trojan spears he takes from the men he kills, but cannot strip Oenomaus under the missiles; Antilochus drives off Asius' horses and strips Thoon under Poseidon's guard; Deiphobus snatches Ascalaphus' helmet and is wounded; and Menelaus strips Peisander and gives the bloody armor to his companions (13.182–205, 13.262–268, 13.400–401, 13.509–513, 13.527–530, 13.550–555, 13.618–641).
+grc: ["ἀπὸ τεύχεα δῦσαι", "τεύχεα συλήτην", "κταμένων ἀποαίνυμαι", ἔναρα, "ἔντεʼ ἀπὸ χροὸς", "συλήσας ἑτάροισι"]
+en: [take from the men I kill]
+refs: [13.188-189, 13.400-401, 13.510-511, 13.527-528]
+passages:
+  - 13.182-205 | Imbrius and Amphimachus
+  - 13.618-641 | Menelaus strips Peisander
+---
+
+**Rushing to strip.** Teucer kills Imbrius and “rushed forward, eager to strip off his armor”; Hector throws at him, and the spear kills Amphimachus instead (13.182–187; see [[teucer]], [[imbrius]] and [[amphimachus]]). Hector rushes in turn “to snatch the helmet … from the head of great-hearted Amphimachus”, and Ajax's spear on the boss of his shield drives him back from both bodies, which the Achaeans drag away (13.188–194; see [[fighting-over-the-body]]). The man who stoops to strip is the man exposed.
+
+**The two Ajaxes.** Like two lions holding a goat high in their jaws, “so the two Ajaxes, helmeted men, held him high / and stripped his armor” (τεύχεα συλήτην, a dual, 13.198–202; see [[two-lions-and-a-goat]] and [[the-two-ajaxes]]). Then the son of Oileus, angry for Amphimachus, cuts off Imbrius' head and sends it rolling through the throng to Hector's feet (13.202–205; see [[ajax-son-of-oileus]]). Hector himself, over Patroclus, will mean to cut off the head and give the body to the dogs of Troy (17.125–127).
+
+**Spoils kept.** Idomeneus keeps in his hut “Trojan spears, which I take from the men I kill” (ἀποαίνυμαι, 13.262), with bossed shields, helmets and corselets (13.264–265), and Meriones keeps “many spoils of the Trojans” beside his hut and his ship (ἔναρα, 13.267–268; see [[hut]] and [[spear]]). The armor of the dead is the proof that a man fights close. Antilochus, when he has killed Asius' charioteer, drives the horses “away from the Trojans to the well-greaved Achaeans” (13.399–401; see [[chariot]] and [[antilochus]]).
+
+**Stripped and not stripped.** Deiphobus tells Aeneas that Idomeneus “has slain him and stripped him of his armor” (ἐξενάριξεν, 13.467; see [[alcathous]]): the verb means both. Idomeneus kills Oenomaus and draws out his spear, “but he could not take the rest of the beautiful armor / from his shoulders; for he was hard pressed by missiles”, being no longer quick on his feet (13.509–513; see [[idomeneus]]); the verses are those of Ajax's failure to strip Amphius (13.510–511 = 5.621–622). Deiphobus snatches the shining helmet from Ascalaphus, and Meriones' spear in his arm makes him drop it (13.527–530; see [[deiphobus]] and [[helmet]]). Antilochus springs on Thoon “and began to strip the armor from his shoulders, / looking about him”, while the Trojans stab at his shield from every side and Poseidon keeps them off (13.550–555; see [[poseidon]]). When Helenus strikes off Deipyrus' helmet, one of the Achaeans picks it up from among the fighters' feet (13.578–579).
+
+**Menelaus.** Menelaus sets his heel on Peisander's chest “and stripped off his armor, and spoke in triumph” (13.618–619). The speech that follows is the longest boast of the book (13.620–639; see [[satiety-of-all-things]]). When he has spoken, “he stripped the bloody armor from his body, / noble Menelaus, and gave it to his companions” (13.640–641; see [[menelaus]] and [[peisander-killed-by-menelaus]]).

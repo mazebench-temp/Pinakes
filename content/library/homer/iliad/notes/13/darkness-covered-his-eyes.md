@@ -1,0 +1,9 @@
+---
+summary: The formula ends Adamas' life, “and darkness covered his eyes” (13.575), and its variants end others: “murky night covered his eyes” for Deipyrus, “hateful darkness seized him” for Euchenor, and “death that destroys the spirit was poured around him” for Aphareus (13.544, 13.580, 13.672). Idomeneus turns the formula into a wish, to cover some Trojan “in murky night” (13.425).
+grc: ["ἐρεβεννὴ νὺξ ἐκάλυψεν", "σκότος εἷλεν", "ἐρεβεννῇ νυκτὶ καλύψαι", "θάνατος χύτο θυμοραϊστής"]
+en: [murky night covered his eyes, hateful darkness seized him, in murky night, was poured around him]
+---
+
+“And darkness covered his eyes” (τὸν δὲ σκότος ὄσσε κάλυψε, 13.575) ends Adamas, who has writhed around Meriones' spear like a roped ox (13.567–575; see [[adamas]] and [[the-roped-ox]]). Five verses later the variant of night ends Deipyrus, “and murky night covered his eyes” (τὸν δὲ κατʼ ὀφθαλμῶν ἐρεβεννὴ νὺξ ἐκάλυψεν, 13.580), the verse of Tlepolemus' death (5.659; see [[deipyrus]]). Euchenor dies at once: “quickly his spirit / went from his limbs, and hateful darkness seized him” (13.671–672; see [[euchenor]]). The two verses of the blow and the death, under the jaw and the ear, return whole when Meriones kills Laogonus (16.606–607). Aphareus' death is a pouring: “death that destroys the spirit was poured around him” (ἀμφὶ δέ οἱ θάνατος χύτο θυμοραϊστής, 13.544; see [[aphareus]]), a verse used twice more in Book 16 (16.414, 16.580).
+
+**A wish.** Idomeneus “was eager always / either to cover some one of the Trojans in murky night / or himself to fall with a thud, warding off ruin from the Achaeans” (13.424–426; see [[idomeneus]]). Two formulas of death, the night that covers the eyes and the thud of the fall, become the terms of a choice: to kill or to be killed (see [[fell-with-a-thud]]).

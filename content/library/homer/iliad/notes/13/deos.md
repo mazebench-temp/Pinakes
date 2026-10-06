@@ -1,0 +1,16 @@
+---
+summary: The book is frank about fear. Poseidon, as Calchas, says he is “most dreadfully afraid” for the place where Hector leads; Idomeneus tells Thoas that no heartless fear holds the Achaeans, and later tells his companions that he is “terribly afraid” of Aeneas; the coward in ambush shows his fear in his body; Polydamas fears Achilles; and Ajax asks Hector why he tries to frighten the Argives.
+grc: [δείδια, ἐδείσατε, δειδίσσεαι]
+en: [frighten]
+passages:
+  - 13.222-238 | Idomeneus answers Thoas
+  - 13.481-486 | Idomeneus fears Aeneas
+---
+
+**Fear confessed.** Poseidon, in Calchas' likeness, tells the two Ajaxes that elsewhere he does not fear the Trojans' irresistible hands, “but here I am most dreadfully afraid that we may suffer some harm, / where that frenzied man leads them, like a flame, / Hector” (αἰνότατον περιδείδια, 13.49–54; see [[the-two-ajaxes]] and [[frenzied]]). The verb is Agamemnon's in the sleepless night of Book 10, “For I am terribly afraid for the Danaans” (10.93), and Ajax's over Patroclus' body, when he fears less for the body than for his own head (17.240–242). Idomeneus says the same of himself before the battle he will fight. As Aeneas comes on, he calls his companions: “Come here, friends, and defend me; I am alone, and terribly afraid / of Aeneas, swift of foot, coming on” (δείδια δʼ αἰνῶς, 13.481–482; see [[idomeneus]] and [[kratos]]). The admission costs him nothing. He has stood his ground like a boar, and his companions come to stand beside him (13.470–488).
+
+**No heartless fear.** When Poseidon, as Thoas, asks him where the Achaeans' threats have gone, Idomeneus denies that fear is the cause: “No heartless fear has hold of anyone, nor does anyone, giving way / to shrinking, slip out of evil war” (οὔτέ τινα δέος ἴσχει ἀκήριον οὔτέ τις ὄκνῳ, 13.224–225; see [[who-is-to-blame]]). The words are Diomedes' to Athena in Book 5, when she taunts him with holding back: “No heartless fear has hold of me, nor any shrinking” (5.812, 5.817). Both men answer a god; Diomedes knows it, and Idomeneus does not.
+
+**The coward's fear.** In Idomeneus' ambush the coward and the valiant man are shown for what they are (13.278; see [[the-brave-man-in-ambush]]). δειλός, the adjective of fear, is the word for the coward, and his fear is described entirely by the body: his color, his crouch, his heart, his teeth (13.279–283). The brave man's color does not change, “nor is he much / afraid” (οὔτέ τι λίην / ταρβεῖ, 13.284–285).
+
+**Fear of the gods and of a man.** Menelaus tells the Trojans that they did not fear the wrath of Zeus, god of guests (ἐδείσατε, 13.623–625; see [[menis]] and [[xenia]]). Polydamas, at the end of his counsel, names what he fears himself: he is afraid that the Achaeans “may pay back yesterday's / debt, since beside the ships there waits a man insatiable of war” (δείδω, 13.744–746; see [[polydamas]] and [[insatiable-of-war]]). And Ajax, challenging Hector, rejects his attempt to cow them: “why do you try to frighten the Argives / like this? We are not without knowledge of battle at all” (δειδίσσεαι, 13.810–811; see [[ajax]]). The verb is the one with which Odysseus checked a leader in flight in Book 2, “it is not right for you to panic like a coward” (2.190), and with which Poseidon, in Book 15, will refuse to be frightened by Zeus' threats (15.196).

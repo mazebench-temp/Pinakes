@@ -21,7 +21,7 @@ Book 4 names him without his father. From Book 5 on he is “the son of great-he
 
 ## Descriptions
 
-- μενεχάρμης = μένω (“stand fast”) + χάρμη (“battle”; see [[charme]]): “standing firm in battle” (13.396, 15.582, 23.419).
+- μενεχάρμης = μένω (“stand fast”) + χάρμη (“battle”; see [[charme]]): “steadfast in battle” (13.396, 15.582, 23.419).
 - Young and swift. Menelaus tells him that no other Achaean is younger than he, or swifter of foot, or as brave in the fight (15.569–570). He runs to Achilles πόδας ταχύς, “swift of foot” (18.2), and at the games “he beat all the young men in running” (23.756). The Odyssey remembers him as πέρι μὲν θείειν ταχὺς ἠδὲ μαχητής, “surpassing in speed of foot, and a fighter” (Od. 3.112, 4.202).
 - πεπνυμένος, “sensible, wise” (23.570, 23.586), and ἀμύμων, “noble”, in the Iliad (23.522) and in the Odyssey (Od. 4.187, 11.468, 24.16).
 

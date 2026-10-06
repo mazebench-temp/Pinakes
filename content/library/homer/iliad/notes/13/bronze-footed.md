@@ -1,0 +1,5 @@
+---
+summary: Poseidon yokes “his two bronze-footed horses” at Aegae and drives them over the waves to the ships, in the verses with which Zeus set out for Ida in Book 8.
+---
+
+From Samothrace Poseidon reaches Aegae in four strides, where his golden house stands in the depths of the sea. “There he came and yoked to his chariot his two bronze-footed horses, / swift-flying, with flowing manes of gold, / and he himself put on gold about his body, and took the whip, / golden and well made, and mounted his chariot” (13.21–26; [[poseidon]], [[aegae]], [[swift-flying]]). The four verses are those of Zeus' departure for Ida (8.41–44), with “There he came” in place of “So saying.” Zeus drove between earth and sky to watch the battle from the mountain; Poseidon drives over the sea, where the sea beasts frolic around him and the waters part, “and the bronze axle was not wetted beneath” (13.27–30), and he comes to the ships to help the Achaeans in secret from Zeus. He leaves the horses in a cave between Tenedos and Imbros, hobbled until his return (13.32–38; [[ambrosial]], [[chariot-journey]]). These are the only two uses of the epithet. See [[horses]].

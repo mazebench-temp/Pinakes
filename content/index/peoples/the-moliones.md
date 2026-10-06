@@ -23,7 +23,7 @@ passages:
 
 Μολίονε is a dual, “the two Moliones”. Homer gives no reason for the name; later writers call their mother Molione (see below). They are also “the two sons of Actor” (Ἀκτορίωνε, 11.750, 23.638; see [[actor-of-elis]]), but in the same breath Nestor calls Poseidon their father, “the wide-ruling earth-shaker” (11.751; see [[poseidon]], [[wide-ruling]] and [[earth-shaker]]).
 
-Homer never names them in the scenes where they act. The names come from the Catalogue, where the Epeian leaders Amphimachus and Thalpius are “sons, one of Cteatus and one of Eurytus, both of Actor's line” (2.621; see [[cteatus]], [[eurytus-of-elis]], [[amphimachus]] and [[thalpius]]). Amphimachus is “son of Cteatus, son of Actor” (13.185), and when he falls Poseidon is angry “for his grandson” (13.206–207), which agrees with Nestor: Poseidon was the father.
+Homer never names them in the scenes where they act. The names come from the Catalogue, where the Epeian leaders Amphimachus and Thalpius are “sons, one of Cteatus and one of Eurytus, both of Actor's line” (2.621; see [[cteatus]], [[eurytus-of-elis]], [[amphimachus]] and [[thalpius]]). Amphimachus is “son of Cteatus, of Actor's line” (13.185), and when he falls Poseidon is angry “for his grandson” (13.206–207), which agrees with Nestor: Poseidon was the father.
 
 ## In Homer
 

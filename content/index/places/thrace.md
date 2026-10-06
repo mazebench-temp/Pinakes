@@ -15,7 +15,7 @@ passages:
 
 ## The name
 
-Θρῄκη (Attic Θρᾴκη) is the land; Θρῄκηθεν, “from Thrace”, and Θρῄκηνδε, “to Thrace”, are its adverbs, and its people are the Θρήϊκες (see [[thracians]]). For Homer it lies north and northwest of Troy across the sea, a country of horsemen and snowy mountains: Hera, flying from Olympus to Lemnos, crosses “the snowy mountains of the horse-rearing Thracians” and comes down to the sea at Athos (14.225–230). Samothrace, from which Poseidon watches the battle, is “Thracian Samos” (13.12–13), and the sea between is the Thracian sea (23.230).
+Θρῄκη (Attic Θρᾴκη) is the land; Θρῄκηθεν, “from Thrace”, and Θρῄκηνδε, “to Thrace”, are its adverbs, and its people are the Θρήϊκες (see [[thracians]]). For Homer it lies north and northwest of Troy across the sea, a country of horsemen and snowy mountains: Hera, flying from Olympus to Lemnos, crosses “the snowy mountains of the horse-rearing Thracians” and comes down to the sea at Athos (14.225–230). [[samothrace|Samothrace]], from which Poseidon watches the battle, is “wooded Samos, / the Thracian” (13.12–13), and the sea between is the Thracian sea (23.230).
 
 ## In the Iliad
 

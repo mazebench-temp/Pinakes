@@ -1,0 +1,16 @@
+---
+summary: Poseidon drives his chariot over the sea without wetting its axle (13.23–38). On the field Asius, who would not leave his chariot at the ditch, comes on foot in front of his horses and dies there; his charioteer, struck senseless, is killed, and Antilochus drives the horses off to the Achaeans. A chariot waiting behind the battle carries the wounded Deiphobus to the city, and the Paphlagonians lift Harpalion into one (13.384–401, 13.533–539, 13.656–658).
+# ζυγόν at 13.706 is the yoke of the oxen in the simile of the two Ajaxes.
+except: [13.706]
+passages:
+  - 13.23-38 | Poseidon's chariot
+  - 13.384-401 | Asius and his charioteer
+---
+
+**Poseidon's chariot.** Poseidon yokes his bronze-footed horses to his chariot in the verses of Zeus' yoking in Book 8 (13.23–26 = 8.41–44), and drives over the waves so swiftly that “the bronze axle was not wetted beneath” (13.30), to a cave between Tenedos and Imbros, where he unyokes and hobbles the horses (13.32–38; see [[chariot-journey]] and [[poseidon]]). The axle is the one part of the car named in the drive; Hera's chariot has an iron one (5.723).
+
+**Asius on foot.** At the ditch Asius alone kept his chariot, and the narrator foretold that, “glorying in his horses and chariot”, he would not go back from the ships to Ilios (12.110–115; see [[asius]]). Now he comes to Othryoneus' defense “on foot in front of his horses; and they, breathing on his shoulders, / were held always close by the charioteer, his attendant” (13.385–386). Idomeneus strikes him in the throat, and he lies stretched out “in front of his horses and chariot”, clutching at the bloody dust (13.387–393; see [[idomeneus]] and [[the-felled-tree]]). His charioteer, struck out of his wits, does not dare turn the horses to escape; Antilochus spears him through the middle, “and gasping he fell from the well-made chariot”, and Antilochus drives the horses away to the Achaeans (13.394–401; see [[antilochus]], [[horses]] and [[stripping-the-dead]]). The horses that were Asius' pride become the spoil of Nestor's son.
+
+**The way out.** Polites leads the wounded Deiphobus out of the battle “until he came to his horses, / his swift horses, which were standing behind the battle and the war / with their charioteer and the inlaid chariot”, and they carry him groaning toward the city (13.533–539; see [[deiphobus]] and [[polites]]). The chariot waits close behind the fighter for such an escape (see the entry), and the same verses carry Hector from the field when Ajax's stone has struck him down (14.429–432 ≈ 13.535–538). The Paphlagonians lift Harpalion into a chariot and take him to Ilios, and his father walks beside it weeping (13.656–658; see [[harpalion]] and [[pylaemenes]]). When Hector takes Polydamas' advice, “at once he leapt from his chariot to the ground in his armor” (13.749), the verse of his leap at the ditch (12.81).
+
+**Horses and the lash.** Ajax tells Hector that “by the evil lash of Zeus we Achaeans were beaten down” (13.812), the driver's whip in the god's hand, as in Book 12 (12.37; see [[zeus]]), and that Hector will soon pray that his “fine-maned horses” may be swifter than hawks as they carry him in flight to the city, “raising the dust of the plain” (13.817–820; see [[horses]] and [[hawk]]).

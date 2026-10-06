@@ -1,0 +1,22 @@
+---
+title: “Of all things there is satiety”
+greek: πάντων μὲν κόρος ἐστί
+kind: saying
+tags: [warfare, speech, music]
+summary: Menelaus, standing over the man he has killed, complains to Zeus that men have their fill of everything, of sleep and love, of sweet song and flawless dancing, which a man would rather have his fill of than war, “but the Trojans are insatiable of battle”. Odysseus will say of all men that they quickly have their fill of battle.
+aliases: [of all things there is satiety, satiety, koros, pantōn men koros esti, the Trojans are insatiable of battle, insatiable of battle, satiety of sleep and love]
+grc: ["πάντων μὲν κόρος", "μολπῆς τε γλυκερῆς", "μάχης ἀκόρητοι ἔασιν"]
+en: [Of all things there is satiety, insatiable of battle]
+passages:
+  - 13.631-639 | Menelaus' complaint to Zeus
+---
+
+{{quote:583f60b7-d4b9-524a-ae87-a672a1a3ee06}}
+
+**Over Peisander.** Menelaus has wounded Helenus and killed Peisander, whose axe struck the ridge of his helmet (13.581–618; see [[menelaus]] and [[peisander-killed-by-menelaus]]). He sets his heel on the dead man's chest, strips his armor, and speaks “in triumph” (13.618–619). The speech turns from the Trojans to Zeus. To the Trojans he says that they will leave the ships, “you overbearing Trojans, insatiable of the dread war cry”, who insulted him and did not fear the wrath of Zeus, god of guests (13.620–630; see [[xenia]] and [[menis]]). To Zeus he says that he is wiser than all men and gods and that everything comes from him, and asks how he can favor men who are arrogant, “whose might is always reckless, and who cannot / have their fill of the din of battle, of war common to all” (13.631–635; see [[hybris]] and [[who-is-to-blame]]). The maxim gives the measure by which the Trojans are found wanting.
+
+**What men have their fill of.** κόρος is satiety, the point at which a desire is spent. Menelaus names pleasures: sleep, love (see [[hypnos]] and [[philotes]]), sweet song and flawless dancing, “of which a man would rather have his fill / than of war”. ἐξ ἔρον εἷναι, “to put away the desire”, is the phrase of a finished meal (“when they had put away the desire for drink and food”, 1.469 and often; see [[desire-for-drink-and-food]] and [[eros]]); Priam uses it of lament, wishing to hold his son in his arms when he has put away his desire for weeping (24.227). Song and dance are the pleasures of the feast, and the Odyssey says so in nearly the same words. When the suitors have put away the desire for food and drink, their minds turn to “song and dance, for these are the ornaments of a feast” (*Odyssey* 1.150–152), and after their death the bard rouses in Odysseus' household the desire “for sweet song and flawless dancing”, the whole of 13.637, so that passers-by may think a wedding is being held (*Odyssey* 23.133–147). Polydamas sets dancing and song beside war in this book too, as gifts that a god gives to different men (13.730–731; see [[different-gifts]]).
+
+**Insatiable.** Even good things come to an end of wanting, and war, which is not one of them, should come to an end sooner. The Trojans are the exception: μάχης ἀκόρητοι, “insatiable of battle” (13.639; compare 13.621). Elsewhere the word marks a great fighter, friend or enemy. Agamemnon calls Hector “insatiable of the fray” (7.117), the narrator calls the two Ajaxes “insatiable of war” (12.335), and the Achaeans arm around Achilles, “insatiable of battle” (20.2); Ares is ἆτος πολέμοιο, “insatiable of war” (5.388, 5.863, 6.203), and Polydamas gives Ares' epithet to Achilles in this book (13.746; see [[insatiable-of-war]]). In Menelaus' mouth the word becomes a charge, one more sign of the Trojans' ὕβρις. The Trojans return it: in the next book Acamas calls the Argives “insatiable of threats” (14.479).
+
+**The other view.** Odysseus says the opposite of men in general. Urging Achilles to let the army eat before it fights, he tells him that “men quickly have their fill of battle”, in which the bronze strews the most straw on the ground and the harvest is smallest, when Zeus tips his scales (19.221–224). He uses the same two words, κόρος and φύλοπις, “the din of battle”, that Menelaus uses of the Trojans (13.635–636). In the Odyssey Menelaus, mourning his companions in his palace, says that “satiety of chill lament comes quickly” (*Odyssey* 4.100–103). These are the only places in Homer where the noun κόρος occurs. See also [[the-works-of-war]] and [[war-is-the-concern-of-men]].

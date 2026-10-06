@@ -1,0 +1,5 @@
+---
+summary: Poseidon crosses from Samothrace to his house under the sea in four strides: “Three strides he took, and with the fourth he reached his goal, / Aegae”.
+---
+
+Poseidon comes down from the peak of Thracian Samos, and the mountains and woods tremble under his feet: “Three strides he took, and with the fourth he reached his goal, / Aegae, where his glorious house is built in the depths of the sea” (τρὶς μὲν ὀρέξατʼ ἰών, τὸ δὲ τέτρατον ἵκετο τέκμωρ, 13.20–21; see [[poseidon]], [[aegae]] and [[three-times-and-a-fourth]]). τέκμωρ here is the end of a journey, the fixed point that is reached (see the article above and the translation's note on 13.20–22). In the phrase about Ilios the word names an end still in doubt: Apollo says that the armies will fight again “until they find the end / of Ilios” (7.30–31), Diomedes vows to fight on with Sthenelus until they find it (9.48–49), and Achilles tells the embassy that they “will no longer find the end / of steep Ilios” (9.418–419). The god reaches his in four strides.

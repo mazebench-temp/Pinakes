@@ -3,7 +3,7 @@ title: Like vultures
 greek: ἑζέσθην ὄρνισιν ἐοικότες αἰγυπιοῖσι
 kind: simile
 tags: [bird, divine-scene]
-summary: As the armies sit down to hear Hector's challenge, Athena and Apollo sit on the high oak of Zeus “like birds, like vultures”, delighting in the men (7.58–61). Whether the gods take the shape of vultures or only sit like them is debated; the index reads the line as a simile.
+summary: The vulture, αἰγυπιός, as a short likeness: Athena and Apollo sit on the oak of Zeus “like birds, like vultures” to watch Hector's challenge (7.58–61), and Meriones leaps in “like a vulture” to pull his spear from Deiphobus' arm (13.531). Whether the gods of Book 7 take the shape of vultures is debated; the index reads the line as a simile.
 aliases: [Athena and Apollo like vultures, the gods like vultures, like birds like vultures, the vultures on the oak]
 grc: ["ὄρνισιν ἐοικότες αἰγυπιοῖσι"]
 en: [like]

@@ -1,6 +1,6 @@
 import { el, esc, icon, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
-import { presentIn, firstKeyIn, bookScope, currentBook } from '../lib/scope.js';
+import { presentIn, firstKeyIn, firstRefIn, bookScope, currentBook } from '../lib/scope.js';
 
 export const BOOK_LETTERS = 'ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ';
 
@@ -86,7 +86,7 @@ export async function render() {
       <div class="list">${stories.slice(0, 6).map(s => {
         const p = cat.by.periods.get(s.period);
         return `<a class="row has-icon" href="#/entry/${s.id}"><span class="row-icon" style="--h:34">${icon('amphora')}</span>
-          <span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')}${(m => m ? ` · ${+m[1]}.${+m[2]}` : '')(firstKeyIn(s, curScope, cat).match(/(\d+)\.(\d+)$/))}</span></span>${icon('chevron', 'chev')}</a>`;
+          <span class="row-main"><span class="row-title"><span>${esc(s.title)}</span></span><span class="row-sub one">${esc(p?.label ?? '')}${(r => r ? ` · ${r}` : '')(firstRefIn(s, curScope, cat))}</span></span>${icon('chevron', 'chev')}</a>`;
       }).join('')}</div>
     </section>` : ''}
 

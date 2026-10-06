@@ -1,0 +1,7 @@
+---
+summary: The son of Oileus knows that the man who has urged on the two Ajaxes is a god, “not Calchas, the prophet and augur”; it is the second and last time the Iliad uses θεοπρόπος, “prophet”.
+---
+
+Poseidon comes to the two Ajaxes “in the likeness of Calchas in form and in tireless voice” (13.45), and when he has gone the son of Oileus tells Telamonian Ajax what he has seen: “Ajax, since one of the gods who hold Olympus, / in the likeness of the seer, bids us fight beside the ships, / this is not Calchas, the prophet and augur” (μάντεϊ εἰδόμενος … οὐδʼ ὅ γε Κάλχας ἐστὶ θεοπρόπος οἰωνιστής, 13.68–70; see [[calchas]] and [[seeing-the-gods]]). Three words for the seer stand in two verses: μάντις, “seer”, θεοπρόπος, “prophet”, and οἰωνιστής, “augur”, a reader of birds, which the Iliad uses elsewhere only of Ennomus, the Mysian augur who led his people to Troy and died at Achilles' hands (2.858, 17.218). In Book 1 Calchas was “by far the best of the bird-seers” (οἰωνοπόλων, 1.69).
+
+θεοπρόπος is found in the Iliad only here and in Polydamas' reading of the eagle in Book 12, where he says what “a prophet” would make of it, one whom the people would obey (12.228–229; see the note on Book 12). In both places the word names an authority that is not present: Polydamas is not a prophet, and the man who looks like Calchas is not Calchas. The Ajaxes do what the seer's likeness asks of them, but they do it knowing that a god has asked it (13.73–82).

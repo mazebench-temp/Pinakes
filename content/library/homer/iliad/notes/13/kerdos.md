@@ -1,0 +1,9 @@
+---
+summary: Challenged by Idomeneus, Deiphobus weighs whether to take a companion or to try it alone, “and as he pondered, this seemed to him the better way: / to go for Aeneas”.
+passages:
+  - 13.455-469 | Deiphobus fetches Aeneas
+---
+
+Idomeneus has killed Alcathous, mocked Deiphobus for his boast, named his own line from Zeus, and dared him to come and stand against him (13.445–454; see [[idomeneus]] and [[genealogy-in-battle]]). “So he spoke, and Deiphobus was torn two ways in thought, / whether to take as his companion one of the great-hearted Trojans, / drawing back, or to try it even alone. / And as he pondered, this seemed to him the better way: / to go for Aeneas” (13.455–459; see [[deiphobus]] and [[pondering-two-ways]]). ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι, “and as he pondered, this seemed to him the better way”, is the verse that settles a man's doubt (see the article above). The Iliad uses it twice more, of Nestor in the next book, choosing to go to Agamemnon rather than into the fight (14.20–24), and of Zeus in Book 16, deciding how Patroclus shall drive the Trojans back before he dies (16.646–655); in the Odyssey it comes seven times, settling the doubts of Odysseus on the shore of Scheria and before Nausicaa (*Odyssey* 5.465–474, 6.141–147), on Circe's island, in his own telling (*Odyssey* 10.151–155), in his fight with Irus (*Odyssey* 18.90–94) and before his father in the orchard (*Odyssey* 24.235–240), of Peisistratus at Pylos (*Odyssey* 15.202–205), and of the bard Phemius among the dead suitors (*Odyssey* 22.330–338).
+
+Deiphobus' choice is the prudent one, and the book does not reproach it. The challenge was to fight Idomeneus alone; the answer is to fetch Aeneas, whose kinsman Alcathous lies dead (13.459–467; see [[aeneas]] and [[in-laws]]). The word for what he weighs, κέρδιον, “the better, the more profitable course”, is a word of calculation, not of courage.

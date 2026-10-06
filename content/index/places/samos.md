@@ -4,6 +4,7 @@ greek: Σάμος
 kind: place
 tags: [island, ionian-islands]
 summary: An island of Odysseus' realm, the one later called Cephallenia (Kefalonia), which the Odyssey also calls Same. It is not the Samos off Ionia.
+# Σάμον at 24.753 (with Imbros and Lemnos) is Samothrace: except it here when Book 24 is indexed.
 grc: [Σάμον]
 ---
 
@@ -17,4 +18,4 @@ In the Odyssey it is Same (Σάμη) as well as Samos. Penelope's suitors lie in
 
 ## Outside Homer
 
-A city called Same stood on the east coast of Cephallenia, facing Ithaca. The island is not Samos off the coast of Ionia, nor the "Thracian Samos" of the Iliad, which is Samothrace (13.12).
+A city called Same stood on the east coast of Cephallenia, facing Ithaca. The island is not Samos off the coast of Ionia, nor the "Thracian Samos" of the Iliad, which is [[samothrace|Samothrace]] (13.12–13).

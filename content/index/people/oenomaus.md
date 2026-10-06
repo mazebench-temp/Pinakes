@@ -6,8 +6,9 @@ tags: [achaean, warrior]
 summary: An Achaean, the fourth of the six men whom Hector and Ares kill as the Argives give ground before them (5.706). The Iliad has a Trojan of the same name, killed by Idomeneus in Book 13.
 aliases: [Oinomaos, Oenomaus the Achaean]
 grc: [Οἰνόμαον]
-# Οἰνόμαον at 12.140 is the Trojan who comes with Asius (oenomaus-the-trojan).
-except: [12.140]
+# Οἰνόμαον at 12.140 is the Trojan who comes with Asius (oenomaus-the-trojan), and at 13.506 the Trojan
+# Idomeneus kills, probably the same man.
+except: [12.140, 13.506]
 relations:
   - slayer: hector (5.703-706)
   - slayer: ares (5.703-706)

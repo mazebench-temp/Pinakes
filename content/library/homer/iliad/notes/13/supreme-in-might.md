@@ -1,0 +1,5 @@
+---
+summary: Idomeneus, answering Poseidon in Thoas' likeness, finds no man to blame: it must be the pleasure of “the son of Cronus, supreme in might,” that the Achaeans perish far from Argos.
+---
+
+“No man now is to blame, as far as I know; for all of us know how to make war,” Idomeneus says, and no one holds back from fear, “but so, I think, it must be the pleasure of the son of Cronus, supreme in might, that the Achaeans should perish here, nameless, far from Argos” (13.222–227; [[idomeneus]], [[aitios]], [[son-of-cronus]]). The words join two earlier verses of defeat: Agamemnon's “Such, it seems, must be the pleasure of Zeus, supreme in might” (2.116, 9.23), and Polydamas' fear that the Achaeans “should perish here, nameless, far from Argos” (12.70). Agamemnon will speak the two together in Book 14 (14.69–70). Idomeneus uses the verse of despair to clear the army of blame, and the god he speaks to answers that whoever holds back today should never return home (13.232–234; [[poseidon]], [[who-is-to-blame]]). See [[zeus]] and [[plan-of-zeus]].

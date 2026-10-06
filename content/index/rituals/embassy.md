@@ -6,7 +6,8 @@ tags: [herald, speech]
 summary: An errand to another people with a message or a demand, ἀγγελίη. The Iliad remembers two embassies from before its own fighting, Menelaus and Odysseus at Troy to ask for Helen, and Tydeus at Thebes, who was met with an ambush on his way back; in Book 9 an embassy goes to Achilles.
 aliases: [embassies, envoy, envoys, angelie]
 grc: [ἀγγελίην, ἀγγελίης]
-except: [7.416]
+# ἀγγελίης at 13.252 is a message brought from the field, not an embassy.
+except: [7.416, 13.252]
 en: [embassy]
 passages:
   - 3.203-224 | The embassy to Troy

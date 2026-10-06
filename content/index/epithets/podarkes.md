@@ -5,7 +5,8 @@ kind: epithet
 tags: [heroic-epithet]
 summary: A second epithet for the speed of [[Achilles]], “strong in the feet,” in the formula ποδάρκης δῖος Ἀχιλλεύς.
 aliases: [strong-footed, sure of foot]
-grc: [ποδάρκης]
+# Ποδάρκης (2.704, 13.693) is the man, son of Iphiclus: only the lowercase epithet here.
+grc: [ποδάρκης, "!^Ποδάρκης"]
 en: [swift-footed]
 of: [achilles]
 ---

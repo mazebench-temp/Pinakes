@@ -14,7 +14,7 @@ relations:
   - child: idomeneus (12.117, 13.451-452)
 ---
 
-The patronymic first names Idomeneus in the narrator's prophecy of Asius' death, “through the spear of Idomeneus, noble son of Deucalion” (12.117; see [[idomeneus]] and [[asius]]); it returns at 13.307 and 17.608. In Book 13 Idomeneus gives the line himself: Zeus begot Minos, guardian of Crete, “and Minos in turn begot a son, blameless Deucalion, / and Deucalion begot me, lord over many men in wide Crete” (13.449–453; see [[crete]]). In the Odyssey, Odysseus, posing as a Cretan, makes himself a younger son of “great-hearted Deucalion” (Od. 19.178–184).
+The patronymic first names Idomeneus in the narrator's prophecy of Asius' death, “through the spear of Idomeneus, noble son of Deucalion” (12.117; see [[idomeneus]] and [[asius]]); it returns at 13.307 and 17.608. In Book 13 Idomeneus gives the line himself: Zeus fathered Minos, a guardian over Crete, “and Minos in turn fathered a son, noble Deucalion, / and Deucalion fathered me, a lord over many men / in wide Crete” (13.449–453; see [[crete]]). In the Odyssey, Odysseus, posing as a Cretan, makes himself a younger son of “great-hearted Deucalion” (Od. 19.178–184).
 
 ## Outside Homer
 

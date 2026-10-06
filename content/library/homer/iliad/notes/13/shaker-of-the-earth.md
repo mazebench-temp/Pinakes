@@ -1,0 +1,5 @@
+---
+summary: The double title “the earth-holder, the shaker of the earth” marks Poseidon's open work for the Achaeans: his coming as Calchas, the blow of his staff that fills the two Ajaxes with might, and his rousing of the Argives on the left.
+---
+
+All three uses are the full verse-end γαιήοχος ἐννοσίγαιος ([[earth-holder]]). “But Poseidon, the earth-holder, the shaker of the earth, urged on the Argives, coming up out of the deep sea in the likeness of Calchas in form and in tireless voice” (13.43–45; [[calchas]], [[unyielding]]). When he has spoken to the two Ajaxes, “with his staff the earth-holder, the shaker of the earth, struck them both and filled them with strong might, and made their limbs light” (13.59–61; [[the-two-ajaxes]]). Near the end of the book the double title gives the reason why the Achaeans nearly win: “And soon the glory would have been the Achaeans'; so hard did the earth-holder, the shaker of the earth, urge on the Argives, and himself defended them with his strength” (13.676–678; [[kydos]]). The title of the god's power over the earth comes where he gives strength to men. See [[poseidon]] and [[poseidon-rallies-the-achaeans]].

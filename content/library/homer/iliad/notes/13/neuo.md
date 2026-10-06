@@ -1,0 +1,8 @@
+---
+summary: Priam promised Cassandra to Othryoneus and nodded his assent, in the words of the promises of Zeus, and Othryoneus fought trusting in the promises until Idomeneus killed him. In the close ranks around the two Ajaxes the men nod their heads so near one another that their crests touch.
+grc: [νευόντων]
+---
+
+**Priam's nod.** Othryoneus asked for Cassandra without bride-price and promised to drive the Achaeans from Troy, “And the old man Priam promised him and nodded his assent / to give her; and he fought, trusting in the promises” (ὑπό τʼ ἔσχετο καὶ κατένευσε / δωσέμεναι, 13.368–369; see [[othryoneus]], [[cassandra]] and [[peitho]]). Promise and nod together make a binding pledge, the words Agamemnon uses of the “hard god, who once promised me and nodded his assent” that he would sack Ilios (2.112, 9.19), and Hector of the counsels of Zeus (12.236); the other parallels, among them Hector's nod to Dolon, are set out under [[bride-price]]. Zeus told Thetis that what he nods to with his head can never be taken back, prove false, or go unfulfilled (1.524–527; see [[thetis-supplicates-zeus]]). Priam's nod has no such force: Idomeneus kills Othryoneus and mocks the bargain, offering him the fairest of Agamemnon's daughters if he will help to sack Ilios instead (13.370–382; see [[idomeneus]]).
+
+**Nodding heads.** The verb is also the plain movement of the head. In the close ranks around the two Ajaxes “the helmets with horsehair crests touched with their bright ridges / when the men nodded, so close did they stand to one another” (νευόντων, 13.132–133; see [[battle-order]], [[helmet]] and [[horsehair-crested]]). The two verses return, with the one before them, when the Myrmidons form up behind Patroclus (16.215–217).

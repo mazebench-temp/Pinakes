@@ -1,0 +1,5 @@
+---
+summary: Poseidon does not fear “the irresistible hands” of the Trojans elsewhere, Telamonian Ajax feels his own irresistible hands quiver, and Idomeneus says that Hector will not easily overcome the irresistible hands of the Ajaxes and Teucer.
+---
+
+Poseidon, in the likeness of Calchas, tells the two Ajaxes: “For elsewhere I do not fear the irresistible hands / of the Trojans, who have climbed over the great wall in a throng” (13.49–50); he fears only where Hector leads ([[poseidon]], [[the-two-ajaxes]]). When he has struck them with his staff and filled them with strength, the son of Oileus feels his feet and hands quiver, and Telamonian Ajax answers: “So too now my irresistible hands quiver around my spear” (13.75–77; [[ajax]], [[menos]]). The hands the god said he did not fear in the Trojans are now the Achaeans'. Idomeneus says the same of the defenders in the middle: it will be a steep climb for Hector “to overcome their might and their irresistible hands / and burn the ships” (13.317–319; [[teucer]]), with the pair μένος καὶ χεῖρας ἀάπτους of Ajax in Book 7 and of Asius' complaint in Book 12 (7.309, 12.166).

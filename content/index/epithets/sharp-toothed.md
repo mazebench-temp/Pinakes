@@ -12,7 +12,7 @@ of: [dogs]
 
 ## Meaning
 
-καρχαρόδους = a first element καρχαρ- (“jagged, sharp”) + ὀδούς, ὀδοντ- (“tooth”): “with jagged teeth.” In the Iliad it describes dogs twice. In Book 10 Odysseus and Diomedes chase Dolon like two sharp-toothed hounds, skilled in the hunt, that press a fawn or a hare (10.360–364). In Book 13 the two Ajaxes carry off the body of Imbrius “as two lions carry off a goat from sharp-toothed dogs” (13.197–200). Compare [[swift-dogs]] (κύνες ἀργοί) and [[white-tusked]], the epithet of boars and, once, of hounds (11.292).
+καρχαρόδους = a first element καρχαρ- (“jagged, sharp”) + ὀδούς, ὀδοντ- (“tooth”): “with jagged teeth.” In the Iliad it describes dogs twice. In Book 10 Odysseus and Diomedes chase Dolon like two sharp-toothed hounds, skilled in the hunt, that press a fawn or a hare (10.360–364). In Book 13 the two Ajaxes carry off the body of Imbrius “as two lions snatch a goat away from sharp-toothed dogs” (13.197–200). Compare [[swift-dogs]] (κύνες ἀργοί) and [[white-tusked]], the epithet of boars and, once, of hounds (11.292).
 
 ## Use
 

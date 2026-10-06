@@ -1,0 +1,11 @@
+---
+summary: Deiphobus, taunted by Idomeneus over the bodies of Asius and Alcathous, throws at him as he gives ground, “for he had always kept a steady grudge against him”, misses, and kills Ascalaphus, son of Ares.
+passages:
+  - 13.516-520 | Deiphobus' grudge
+---
+
+Idomeneus is giving ground step by step, too slow now to dart after his spear or avoid a missile, when Deiphobus throws at him again: “for he had always kept a steady grudge against him” (δὴ γάρ οἱ ἔχεν κότον ἐμμενὲς αἰεί, 13.516–517; see [[deiphobus]] and [[idomeneus]]). The grudge has its history in the book. Deiphobus first threw at Idomeneus to avenge Asius, missed, struck down Hypsenor instead and boasted that Asius did not go unavenged (13.402–416; see the translation's note on 13.412–423). Idomeneus answered the boast by killing Alcathous and mocking him in turn: shall we call it a fair exchange, “three killed for one, since you boast like this?” Then he named his line from Zeus and bade him come and stand against him (13.445–454; see [[genealogy-in-battle]]). Deiphobus did not stand. He went for Aeneas (13.455–467). Now the grudge he kept is paid with a second miss: the spear kills Ascalaphus, “the son of Enyalius” (13.518–520; see [[ascalaphus]]).
+
+The grudge works as the article above describes it: kept in the chest and waiting to be fulfilled. Calchas feared that a king “keeps a grudge thereafter, until he has fulfilled it” (1.82); Zeus speaks of the grudge that Hera and Athena have set against the Trojans (8.447–449), and Hera warns him of the grudge he will put into the other gods if he saves his son Sarpedon (16.445–449); in the Odyssey it is Poseidon's grudge against Odysseus (*Odyssey* 11.102, 13.342). Deiphobus' is a man's grudge against a man, and it misses its man twice. ἐμμενὲς αἰεί, “steadily, always”, is said of hounds that keep after a hare (10.361, 10.364): the grudge holds to its quarry as they do.
+
+Each miss costs a life on the other side, and the second brings the war home to a god. Ares has not yet heard that his son has fallen, for he sits on Olympus under golden clouds, held back by the counsels of Zeus (13.521–525; see [[ares]]). When he learns it from Hera, he beats his thighs and arms himself to avenge Ascalaphus, until Athena stops him (15.110–142).

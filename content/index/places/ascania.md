@@ -3,7 +3,7 @@ title: Ascania
 greek: Ἀσκανίη
 kind: place
 tags: [trojan, mysia-phrygia]
-summary: The distant homeland of the [[Phrygians]] of the Trojan catalogue, usually placed around Lake Ascania in northwest Asia Minor.
+summary: The country of the Ascanian lake in northwest Asia Minor, part Phrygian and part Mysian in Strabo's account: the far-off homeland of the [[Phrygians]] of the Trojan catalogue (2.863), and the home of the men who come to Troy as relief in the battle at the ships (13.793).
 grc: [Ἀσκανίης]
 en: [Ascania]
 ---

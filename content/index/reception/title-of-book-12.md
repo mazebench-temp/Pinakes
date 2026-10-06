@@ -26,4 +26,4 @@ The traditional title of Book 12 is Τειχομαχία, the Teichomachia, “t
 
 Nor does the fight at the wall end with the book. In Book 13 Hector holds on where he first leapt through the gates and the wall, by the ships of Ajax and Protesilaus, where the wall was built lowest (13.679–684). In Book 14 Nestor comes out of his hut and sees that the wall of the Achaeans has been thrown down (14.15), and Agamemnon says that neither wall nor ditch has helped them (14.65–68). In Book 15 Apollo kicks the banks of the ditch into it, making a causeway for the Trojans, and throws down the wall as easily as a child by the sea scatters with hands and feet the sand toys he has built (15.355–366). The title names the action of one book; the wall is fought over from Book 12 to Book 15, and its final ruin, told at the start of Book 12, falls outside the poem.
 
-See [[title-of-book-11]], [[plato]] and [[the-third-day-of-battle]].
+See [[title-of-book-11]], [[title-of-book-13]], [[plato]] and [[the-third-day-of-battle]].

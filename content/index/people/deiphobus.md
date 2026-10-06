@@ -31,7 +31,7 @@ He is a son of Priam: with Helenus one of “two sons of Priam” (12.95), and �
 
 ## Descriptions
 
-θεοειδής, “godlike” (12.94; see [[godlike]]), and in the Odyssey θεοείκελος, “godlike” (Od. 4.276). He goes into battle μέγα φρονέων, “in high spirits” (13.156), and Meriones calls him ὑπερηνορέων, “overbearing” (13.258), the word Agamemnon uses of the Trojans (4.176). Hector calls him λευκάσπις, “of the white shield” (22.294), a word found only there in Homer.
+θεοειδής, “godlike” (12.94; see [[godlike]]), and in the Odyssey θεοείκελος, “godlike” (Od. 4.276). He goes into battle μέγα φρονέων, “in high spirits” (13.156), and Meriones calls him ὑπερηνορέων, “overweening” (13.258), the word Agamemnon uses of the Trojans (4.176). Hector calls him λευκάσπις, “of the white shield” (22.294), a word found only there in Homer.
 
 {{notes}}
 

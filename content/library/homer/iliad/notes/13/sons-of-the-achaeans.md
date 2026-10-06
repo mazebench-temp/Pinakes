@@ -1,0 +1,5 @@
+---
+summary: The sons of the Achaeans push Hector back with swords and double-pointed spears; their coming drove Imbrius from Pedaeum, their threats are recalled by Poseidon, and Othryoneus promised to drive them from Troy.
+---
+
+The army's formula stands in four kinds of sentence. In the battle, Hector is stopped at the close ranks, “and the sons of the Achaeans, facing him, stabbing at him with swords and double-pointed spears, pushed him away from them” (13.146–148; [[hector]], [[double-pointed]], [[the-rolling-boulder]]). In a life story, Imbrius “had lived in Pedaeum before the sons of the Achaeans came” (13.172; [[imbrius]], [[pedaeum]]). In a rebuke, Poseidon asks Idomeneus where “the threats the sons of the Achaeans used to make against the Trojans” have gone (13.219–220; [[where-have-our-boasts-gone]]). In a bargain, Othryoneus promised Priam “to drive the sons of the Achaeans from Troy against their will” in return for Cassandra (13.366–367; [[othryoneus]], [[cassandra]]). See [[achaeans]].

@@ -3,7 +3,7 @@ title: Aesyetes
 greek: Αἰσυήτης
 kind: person
 tags: [trojan, elder, troad]
-summary: "Old Aesyetes", a Trojan whose grave mound in the plain serves [[Polites]] as a lookout post.
+summary: "Old Aesyetes", a Trojan whose grave mound in the plain serves [[Polites]] as a lookout post (2.793). The father of [[Alcathous]] has the same name (13.427); the poem does not say whether he is the same man.
 grc: [Αἰσυήταο]
 en: [Aesyetes]
 ---

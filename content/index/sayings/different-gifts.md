@@ -1,0 +1,24 @@
+---
+title: “To one man a god has given the works of war”
+greek: ἄλλῳ μὲν γὰρ ἔδωκε θεὸς πολεμήϊα ἔργα
+kind: saying
+tags: [divine-will, speech, music]
+summary: Polydamas' reproach to Hector, who will not heed advice: because a god has given him the works of war, he wants to excel in counsel too, but the gods divide their gifts, giving one man war, another dancing, another the lyre and song, while in another's breast Zeus puts a good mind, from which many profit. Odysseus makes the same argument to a Phaeacian in the Odyssey.
+aliases: [different gifts, to one man the works of war, to another dancing, the lyre and song, a good mind, the gods do not give all their gifts to all men, divided gifts]
+grc: ["ἄλλῳ δʼ ὀρχηστύν", "τιθεῖ νόον εὐρύοπα Ζεὺς"]
+en: [to another dancing]
+passages:
+  - 13.723-753 | Polydamas' counsel at the ships
+---
+
+{{quote:388cb19a-b94b-528b-8fed-67bc1fa7d0a1}}
+
+**Hector's double claim.** The Trojans are being cut down on the left of the ships, and where Hector broke in the Locrians' arrows have thrown them into confusion; they would have retreated to windy Ilios, “had not Polydamas come and stood beside bold Hector and said” (13.723–725; see [[polydamas]] and [[would-have-had-not]]). He begins with a reproach: there is no dealing with Hector, no making him heed persuasion, and the reason is the gift he has. “Because a god has given you beyond others the works of war, / you want also in counsel to know more than others” (13.727–728; see [[the-works-of-war]], [[boule]] and [[peitho]]). Polydamas grants the first gift and denies the second claim with Nestor's maxim, “you will in no way be able to take everything for yourself at once” (13.729; see [[all-things-at-once]]). Then he gives the reason.
+
+**The division.** The gifts are four: war, dancing, the lyre and song, and a good mind. The first three a god “has given” (ἔδωκε); the last Zeus “puts” in a man's breast (τιθεῖ), and it is the only one whose profit is shared: “many men profit from it, / and he saves many, and he himself knows it best” (13.733–734; see [[noos]]). The first gift is Hector's. The last is Polydamas' own, though he does not name himself. When the two meet again in assembly in Book 18, the narrator draws the same line between them: they were companions, born on one night, “but the one excelled far in words, the other with the spear” (18.251–252). Each man's excellence is his share, and none has them all (see [[gifts-of-the-gods]] and [[strength-is-a-gift]]).
+
+**War and dancing.** Book 13 sets dancing and song beside war twice, here and in Menelaus' list of the pleasures of which a man has his fill sooner than of war (13.636–639; see [[satiety-of-all-things]]). Said of a fighting man, “dancer” is an insult. Aeneas, missing Meriones, tells him that his spear would have stopped him, “dancer though you are” (16.617–618), and Priam calls the sons left to him after Hector's death “liars and dancers” (24.260–261). The word is used once more in the Iliad, of the young men who whirl in the dance at a wedding in the city at peace on the shield of Achilles (ὀρχηστῆρες, 18.490–496). Yet Achilles sings the famous deeds of men to the lyre in his hut (9.186–189), and the lyre is among the gifts Hector threw in Paris' face (3.54). Polydamas ranks none of the gifts. His point is that each is a god's, and that a man who has one has no claim on the others, as Zeus told Aphrodite that the works of war were not given to her (5.428–430).
+
+**The advice taken.** Polydamas proposes that Hector draw back and call the best men together, to decide whether to fall on the ships, if a god gives them the power, or to leave them unharmed, for he fears the man who waits by the ships, “insatiable of war” (13.735–747; see [[kratos]] and [[insatiable-of-war]]). “So spoke Polydamas, and his safe counsel pleased Hector” (13.748 = 12.80). It is the second time Hector takes Polydamas' advice, and the last; in Book 18 he will refuse it (18.284–309).
+
+**In the Odyssey.** Odysseus, taunted at the Phaeacian games by Euryalus, answers with the same thought: “So the gods do not give gracious gifts to all men, / neither build nor mind nor eloquence” (*Odyssey* 8.167–168). One man is meaner in looks, but a god crowns his words with beauty; another is like the immortals in looks, but no grace is set about his words; Euryalus is the second (*Odyssey* 8.169–177). Alcinous then grants that the Phaeacians are not faultless boxers or wrestlers, but swift runners and the best of seamen, “and dear to us always are the feast, the lyre and dancing” (*Odyssey* 8.246–249). In his false tale to Eumaeus, Odysseus says that farm work and the care of a household were never dear to him, but ships and wars, spears and arrows, “the things a god put in my mind; / for different men delight in different works” (*Odyssey* 14.222–228).

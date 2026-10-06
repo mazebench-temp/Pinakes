@@ -19,7 +19,7 @@ Pyrasus, among the towns of Protesilaus in Thessaly, is Demeter's τέμενος
 
 ## Elsewhere in Homer
 
-Bread is “Demeter's grain” (Δημήτερος ἀκτή, Iliad 13.322, 21.76), and in a simile fair-haired Demeter herself separates grain from chaff on the threshing floor (5.499–502). Zeus names her among the goddesses he has loved (14.326). In the Odyssey she lies with Iasion in a thrice-plowed field, and Zeus kills him with a thunderbolt (5.125–128). Homer never brings her to Olympus or into the action of either poem.
+Bread is “the grain of Demeter” (Δημήτερος ἀκτή, Iliad 13.322, 21.76), and in a simile fair-haired Demeter herself separates grain from chaff on the threshing floor (5.499–502). Zeus names her among the goddesses he has loved (14.326). In the Odyssey she lies with Iasion in a thrice-plowed field, and Zeus kills him with a thunderbolt (5.125–128). Homer never brings her to Olympus or into the action of either poem.
 
 ## Outside Homer
 

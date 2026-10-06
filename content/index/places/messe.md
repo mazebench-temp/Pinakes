@@ -4,7 +4,8 @@ greek: Μέσση
 kind: place
 tags: [peloponnese, city, laconia]
 summary: A town of Lacedaemon in Menelaus' kingdom, "Messe of the many doves". Its site is unknown.
-grc: [Μέσσην]
+# μέσσην "in the middle" (γαστέρα μέσσην, 13.506) is the adjective, so only the capitalized form.
+grc: ["^Μέσσην"]
 ---
 
 {{quote:52a9b1ca-0180-58c2-867f-21c1e0a710f2}}

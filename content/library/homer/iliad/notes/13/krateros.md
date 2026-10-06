@@ -1,0 +1,9 @@
+---
+summary: κρατερός marks the “strong might” Poseidon gives the Ajaxes, the “strong battalions,” Rout, the rope of “mighty strife,” the “fierce battle” twice, and Hades “the strong gatekeeper”; with the by-form καρτερός, Hector and Aeneas are “very strong” and the battalions “strong ones.”
+grc: [κρατεροῖο, κρατερῆς, καρτερός, καρτεραί]
+en: [in his strength]
+---
+
+**κρατερός.** Poseidon strikes the two Ajaxes with his staff “and filled them with strong might” (13.59–60; [[menos]]), and he “urged on the strong battalions” (13.90). In the simile of Ares and his son, Rout is “strong and fearless” (13.299; [[rout]], [[ares-and-rout]]). The two sons of Cronus stretch over the armies “the rope of mighty strife” (13.358; [[the-rope-of-war]]). The battle is κρατερὴ ὑσμίνη, “fierce battle,” twice: Idomeneus drags Othryoneus' body “through the fierce battle” (13.383), and Ares has not heard “that his son had fallen in the fierce battle” (13.521–522). Deiphobus sends Asius “to the house of Hades, the strong gatekeeper” (13.415; [[gatekeeper]]). The genitives κρατεροῖο and κρατερῆς are new to the entry.
+
+**καρτερός.** The book also has the by-form four times. Poseidon warns that Hector “is fighting beside the ships / in his strength” (13.123–124); the battalions around the Ajaxes are “strong ones” (13.126–127), as were the Trojan battalions that Ares and Enyo led in Book 5 (5.592); Idomeneus says that the Ajaxes and Teucer will give Hector his fill of fighting, “even if he is very strong” (13.316), with the turn εἰ καὶ μάλα καρτερός ἐστι that Dione used of Diomedes (5.410); and he fears Aeneas, “who is very strong at slaying men in battle” (13.483; [[aeneas]]). The forms καρτερός and καρτεραί are added to the entry, and with them the earlier uses of the same forms (1.178, 1.280, 5.410, 5.592, 5.645, 9.53).

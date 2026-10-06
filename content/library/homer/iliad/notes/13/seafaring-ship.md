@@ -1,0 +1,5 @@
+---
+summary: Idomeneus mockingly invites the dead Othryoneus to settle his marriage “at the seafaring ships,” and Menelaus charges the Trojans with being eager to burn them.
+---
+
+The ships that crossed the sea are named twice in taunts. Idomeneus, having killed Othryoneus, Cassandra's suitor, drags him off by the foot with an invitation: “But follow me, so that at the seafaring ships we may come to terms about the marriage; for we are not stingy with bride-gifts” (13.381–382; [[idomeneus]], [[othryoneus]], [[bride-price]]). Menelaus, standing over Peisander, sets the Trojans' present attack beside their old crime: they carried off his wife and possessions, “and now again you are eager, among the seafaring ships, to throw deadly fire, and to kill the Achaean heroes” (13.626–629; [[menelaus]], [[deadly]]). The ships that brought the Achaeans across the sea are the ships the Trojans mean to burn; in Book 15 Hector lays hold of the stern of the seafaring ship that brought Protesilaus to Troy (15.704–706; [[protesilaus]]). See [[ships]].

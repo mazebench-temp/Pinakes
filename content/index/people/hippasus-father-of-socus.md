@@ -7,7 +7,9 @@ summary: A Trojan, “wise-hearted” and a “tamer of horses”, the father of
 aliases: [Hippasos, Hippasus of Troy]
 # Ἱππασίδην recurs for Hypsenor, an Achaean (13.411), and for Apisaon, a Paeonian (17.348), sons of other men
 # named Hippasus: except those lines when Books 13 and 17 are indexed.
+# Ἱππασίδην at 13.411 is Hypsenor, son of another Hippasus.
 grc: [Ἱππασίδην, Ἱππασίδῃσι, Ἱππάσου]
+except: [13.411]
 en: [Hippasus]
 refs: [11.452-453]
 ---

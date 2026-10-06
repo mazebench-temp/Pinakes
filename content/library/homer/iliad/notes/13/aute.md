@@ -1,0 +1,11 @@
+---
+summary: Hector shouts piercingly to the Trojans, Deiphobus and Idomeneus boast over the dead “shouting aloud”, and Idomeneus, standing his ground like a boar, calls to his companions; the same verb is the dry ring of bronze when a spear grazes a shield or tears a corselet. Meriones and Antilochus are twice named “masters of the war cry”.
+grc: [ἤϋσεν, αὖε]
+en: [called to]
+---
+
+**Shouts.** Hector, stopped at the close ranks, “shouted piercingly, making himself heard to the Trojans” (ἤϋσεν δὲ διαπρύσιον Τρώεσσι γεγωνώς, 13.149; see [[hector]] and [[exhortation]]), the verse of his call at the gate he broke in Book 12 (12.439); with “to the Danaans” in place of “to the Trojans” it is the call of Agamemnon, Eurypylus and Menelaus (8.227, 11.275, 11.586, 17.247). Deiphobus over Hypsenor and Idomeneus over Alcathous “boasted terribly, shouting aloud” (ἔκπαγλον ἐπεύξατο μακρὸν ἀΰσας, 13.413, 13.445; see [[euchomai]]), and the verse comes twice more in the next book, for Polydamas and Acamas (14.453, 14.478). Idomeneus, holding his ground like a boar as Aeneas comes on, “called to his companions” (αὖε δʼ ἑταίρους, 13.477; see [[the-bristling-boar]]), the half-verse of Odysseus, who in Book 11 also stood like a boar at bay and then, wounded, gave ground and called to his companions (11.414–420, 11.461; see [[the-boar-at-bay]]).
+
+**The ring of bronze.** The same verb gives the sound of the metal. When Deiphobus' spear grazes Idomeneus' shield, “the shield gave a dry ring” (καρφαλέον … ἄϋσεν, 13.409), and when Idomeneus' spear breaks Alcathous' bronze tunic, it “rang dry as it was torn about the spear” (αὖον ἄϋσεν, 13.441), as the helmets “rang dry” under the stones thrown on both sides in Book 12 (12.159–160; see the translation's note on 13.409 and 13.441 and [[corselet]]).
+
+**Masters of the war cry.** Poseidon urges on, and Idomeneus calls to, “Meriones and Antilochus, masters of the war cry” (μήστωρας ἀϋτῆς, 13.93, 13.479; see [[meriones]] and [[antilochus]]), in the same verse both times. The Iliad gives the title only twice more, to the Athenians around Menestheus (4.328) and to Patroclus and Hector fighting over Cebriones like two lions (16.756–760). The Trojans, Menelaus says, are “insatiable of the dread war cry” (13.621; see [[satiety-of-all-things]]).
