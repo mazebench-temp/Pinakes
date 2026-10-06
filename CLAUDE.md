@@ -22,7 +22,16 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
   `content/periods.json`. Keep Homer's own evidence separate from later sources ("Outside Homer"),
   cite precisely, and never invent a citation.
 - **Translation**: line-for-line, aligned by Greek line number. Fixed renderings of formulas and key
-  words are in `content/library/homer/iliad/TRANSLATION.md`; keep them consistent.
+  words are in `content/library/homer/iliad/TRANSLATION.md`; keep them consistent. The Poetics is
+  aligned by Bekker line (`1451a36`), and its key terms keep one English word each
+  (`content/library/aristotle/poetics/TRANSLATION.md`).
+- **References**: in entry files a bare reference is an Iliad line; name any other work
+  (`refs: [Poetics 1451a36]`, `{{quote:Poetics 1449b24-28 | Title}}`, *Odyssey* 19.203 in prose).
+  In a note, references default to the note's own work. A note's `grc` and `en` apply only within
+  its work (or its author's works); put forms that would mislead elsewhere there, not in the entry.
+- **Quotations**: a work's structure file lists the passages that quote other authors (`source`,
+  `entry`, and `ref` or `cite`); the quoted Greek must carry quotation marks unless the item has
+  `"marks": 0`. Each quotation has an entry (kind `quotation`) with its source and context.
 - **Greek forms** in entries are matched without accents; use `=form` for accent-sensitive matches,
   `^Form` for a name that is also a common word (Ὕλη, ὕλη "forest"), `!form` to exclude words a
   broader pattern would catch (Τρώ* without `!=Τρῳ*`), `+phrase` for a phrase the exclusions must

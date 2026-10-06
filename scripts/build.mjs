@@ -84,7 +84,7 @@ export function build({ write = true, log = console.log } = {}) {
       participants: arr(d.participants), relations, work: d.work ?? 'homer.iliad',
       source: d.source ?? null, date: d.date ?? null, featured: d.featured === true, sort: d.sort ?? null,
       order: typeof d.order === 'number' ? d.order : null,
-      enExtra: [], notes: [],
+      scopedGrc: [], scopedEn: [], notes: [],
     };
     if (e.kind === 'story') {
       if (!periodById.has(e.period)) error(`${raw.file}: story needs a known period (got "${e.period}")`);
@@ -160,8 +160,11 @@ export function build({ write = true, log = console.log } = {}) {
         return `${r.work} ${formatRange(r)}${rest.length ? ` | ${rest.join('|').trim()}` : ''}`;
       } catch (err) { error(`${n.file}: ${err.message}`); return null; }
     };
-    e.grc.push(...arr(n.data.grc).map(String));
-    e.enExtra.push(...arr(n.data.en).map(String));
+    // A note's forms apply within its own work (or, for an author's note, to that author's works): the
+    // Poetics' ποιητάς "poets" is not the Iliad's ποιητάς "well-built" (gates).
+    const within = { work: n.scope.work ?? null, author: n.scope.author };
+    if (n.data.grc !== undefined) e.scopedGrc.push({ ...within, forms: arr(n.data.grc).map(String) });
+    if (n.data.en !== undefined) e.scopedEn.push({ ...within, forms: arr(n.data.en).map(String) });
     e.refs.push(...arr(n.data.refs).map(explicit).filter(Boolean));
     e.except.push(...arr(n.data.except).map(explicit).filter(Boolean));
     e.passages.push(...arr(n.data.passages).map(explicit).filter(Boolean));
@@ -208,10 +211,13 @@ export function build({ write = true, log = console.log } = {}) {
   }
 
   // ── Concordance over every available text ────────────────────────────────
-  const compiled = entries.filter(e => e.grc.length).map(e => ({ e, pats: compilePatterns(e.grc) }));
-  const patternUse = new Map(compiled.flatMap(c => c.pats.map(p => [`${c.e.id} ${p.source}`, 0])));
-  const englishFor = e => [...(e.en ?? (nameKinds.has(e.kind) ? [e.title, ...e.aliases.filter(a => /^\p{Lu}/u.test(a))] : [])), ...e.enExtra];
-  const enCompiled = new Map(entries.map(e => [e.id, compileEnglish(englishFor(e))]));
+  // Patterns per work: the entry's own forms everywhere, its notes' forms within their scope.
+  const applies = (s, work) => s.work ? s.work === work.id : s.author === work.author;
+  const formsFor = (e, work) => [...e.grc, ...e.scopedGrc.filter(s => applies(s, work)).flatMap(s => s.forms)];
+  const compiledFor = work => entries.map(e => { const f = formsFor(e, work); return f.length ? { e, pats: compilePatterns(f) } : null; }).filter(Boolean);
+  const patternUse = new Map(entries.flatMap(e => [...e.grc, ...e.scopedGrc.flatMap(s => s.forms)].map(f => [`${e.id} ${f}`, 0])));
+  const englishFor = (e, work) => [...(e.en ?? (nameKinds.has(e.kind) ? [e.title, ...e.aliases.filter(a => /^\p{Lu}/u.test(a))] : [])),
+    ...e.scopedEn.filter(s => applies(s, work)).flatMap(s => s.forms)];
   const nameEntries = entries.filter(e => nameKinds.has(e.kind));
   const occ = new Map(entries.map(e => [e.id, []]));
   const enSeen = new Set(); // "id\u0001form": explicit English forms found on a line where the entry's Greek occurs
@@ -222,6 +228,8 @@ export function build({ write = true, log = console.log } = {}) {
 
   const allLemmas = new Set();
   for (const work of works) {
+    const compiled = compiledFor(work);
+    const enCompiled = new Map(entries.map(e => [e.id, compileEnglish(englishFor(e, work))]));
     const seenLemmas = new Set(); // lemmas met in the work's earlier books
     for (const [book, text] of work.texts) {
       const grc = text.editions.grc;
@@ -345,8 +353,8 @@ export function build({ write = true, log = console.log } = {}) {
   }
   for (const [k, count] of patternUse) if (!count) warn(`Form never matches: ${k}`);
   // Explicit English forms that never appear on a line where the entry's Greek does (a changed translation, a typo).
-  for (const e of entries) for (const f of [...(e.en ?? []), ...e.enExtra]) {
-    if (!enSeen.has(`${e.id}\u0001${f}`) && (e.grc.length || e.refs.length)) warn(`English form never found where the Greek occurs: ${e.id} "${f}"`);
+  for (const e of entries) for (const f of [...(e.en ?? []), ...e.scopedEn.flatMap(s => s.forms)]) {
+    if (!enSeen.has(`${e.id}\u0001${f}`) && (e.grc.length || e.scopedGrc.length || e.refs.length)) warn(`English form never found where the Greek occurs: ${e.id} "${f}"`);
   }
 
   // ── Quotes and articles ──────────────────────────────────────────────────

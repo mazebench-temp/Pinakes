@@ -2,7 +2,7 @@
 title: Aristotle on the mules
 greek: οὐρῆας μὲν πρῶτον
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: Why did Apollo shoot the mules first? Aristotle's answer in the Poetics is that οὐρῆας may not mean "mules" at all, but "guards".
 source: Aristotle, Poetics 25, 1461a10–12
 of: [mules, apollo, wrath-of-apollo]

@@ -1,0 +1,20 @@
+---
+title: Aristotle
+greek: Ἀριστοτέλης
+kind: author
+tags: [philosopher, philosophy, scholarship, literary-criticism]
+summary: The philosopher of Stagira (384–322 BCE), pupil of Plato and teacher of Alexander, whose Poetics, the first surviving theory of literature, makes Homer the master of epic and Sophocles' Oedipus the model of tragedy; he also wrote on Homeric problems and drew on Homer throughout his ethics, politics and rhetoric.
+aliases: [the Stagirite, Aristoteles]
+---
+
+## Life
+
+Aristotle was born in 384 BCE at Stagira in Chalcidice, the son of Nicomachus, physician to the king of Macedon. At seventeen he went to Athens and studied in Plato's Academy for twenty years, until Plato's death in 348/7. He then lived at Assos in the Troad, at the court of Hermias of Atarneus, and on Lesbos, where with Theophrastus he began his studies of animals; about 343 Philip of Macedon made him tutor to the young Alexander. Plutarch says that Alexander carried on his campaigns an Iliad corrected by Aristotle, which he kept with his dagger under his pillow, and later in a precious casket taken from Darius (*Alexander* 8.2, 26.1–2). In 335 Aristotle returned to Athens and founded his school in the Lyceum, whose members were called Peripatetics. After Alexander's death in 323 he withdrew to Chalcis in Euboea, where he died the next year.
+
+## Writings on poetry
+
+The *Poetics*, written in the Lyceum years and surviving as lecture notes, treats poetry as imitation, tragedy in detail, epic more briefly, and the solutions to critics' problems; its second book, on comedy, is lost (see [[poetics]] and [[the-lost-book-on-comedy]]). Lost works filled out the picture: the dialogue *On Poets*, in three books (see [[on-poets]]); the *Homeric Problems*, in six books, from which Porphyry preserves much (see [[problems-and-solutions]]); and the *Didascaliae*, records of the productions of plays at Athens, the foundation of all later knowledge of the dates of Greek drama (Diogenes Laertius 5.26). The third book of the *Rhetoric*, on style, draws its examples from the same poets (see [[rhetoric-of-aristotle]]).
+
+## Homer in Aristotle
+
+The Iliad is everywhere in his work. In the *Poetics* Homer is the poet of serious things above all, the only one who knew what part the poet should play himself (see [[homer]] and [[the-poet-should-say-little]]), and chapter 25 answers critics of his lines (see [[aristotle-mules]], [[aristotle-dolons-face]], [[stronger-or-quicker]], [[all-the-gods-slept]], [[aristotle-and-hippias]], [[aristotle-portions-of-the-night]], [[aristotle-wine-of-the-gods]] and [[aristotle-upright-spears]]); a fragment of the *Homeric Problems* explains the Gorgon's head (see [[aristotle-gorgon]]). The *Rhetoric* defines anger through Achilles' complaint and indignation through a line about Hector and Ajax that no manuscript of the Iliad preserves, and borrows Hector's “one omen is best”, Cleopatra's plea to Meleager and Homer's repetition of the name of Nireus (see [[aristotle-anger]], [[aristotle-nemesis]], [[aristotle-one-omen]], [[aristotle-cleopatras-plea]] and [[aristotle-nireus]]). The *Ethics* takes civic courage from Hector and Diomedes (see [[aristotle-civic-courage]]); the *Politics* takes the man without a city, Agamemnon's power of death and the rule of one from the Iliad (see [[aristotle-man-without-a-city]], [[aristotle-death-in-my-hand]] and [[aristotle-one-ruler]]); and the biological works quote the speaking head, the cranes and Pygmies, and the golden rope of Zeus (see [[aristotle-the-speaking-head]], [[aristotle-pygmies]] and [[aristotle-golden-rope]]). Strabo reports his opinion on the Achaean wall (see [[aristotle-and-the-wall]]).

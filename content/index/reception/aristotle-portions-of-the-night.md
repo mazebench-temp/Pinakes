@@ -2,7 +2,7 @@
 title: Aristotle on the portions of the night
 greek: παροίχωκεν δὲ πλέων νὺξ
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: Odysseus urges haste because “the greater part of the night has gone”, two of its three portions, and a third still remains. If more than two portions were gone, a whole third could not remain; Aristotle's Poetics answers that the word for “more” is ambiguous.
 source: Aristotle, Poetics 25, 1461a25–26
 of: [odysseus, moira, war-and-night, aristotle]

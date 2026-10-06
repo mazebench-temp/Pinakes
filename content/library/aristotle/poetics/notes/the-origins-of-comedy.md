@@ -1,0 +1,6 @@
+---
+summary: Aristotle's history of comedy, from the lampoon and the phallic songs to the general plots of Crates.
+refs: [1448a29-b2, 1449a10-13, 1449a37-b9]
+---
+
+The Dorians claim comedy, the Megarians of mainland Megara saying it arose under their democracy and those of Sicily pointing to Epicharmus, who lived long before Chionides and Magnes; they derive the name from their word for villages, κῶμαι, saying that comic performers wandered from village to village when they were kept out of the city (1448a29–b2; see [[komos]] and [[dorians]]). Aristotle's own account begins with the lampoon. Homer's *Margites* first showed the form of comedy, “dramatizing not invective but the ridiculous” (1448b36–1449a2; see [[margites]]), and comedy arose “from those who led the phallic songs that even now remain in many of the cities as a custom” (1449a10–13). Its changes are unknown because it was not taken seriously at first: the archon granted a chorus of comedians only late, before that they were volunteers, and who introduced masks, prologues and the number of actors is not known. The making of plots came from Sicily, and at Athens Crates was the first to give up the iambic form and compose stories and plots of a general kind (1449a37–b9; see [[geloion]] and [[crates]]).

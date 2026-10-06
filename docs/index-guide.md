@@ -31,9 +31,20 @@ featured: true                      # show on the Library page (sparingly)
 ---
 ```
 
-Stories also take `period` (from `content/periods.json`), `mode` (`narrated`, `told`, `allusion`,
-`foreshadowing`, `genealogy`, `backstory`), `narrator` (an entry id), and `participants` (entry ids).
-Anecdotes and notes take `source` ("Strabo, Geography 8.3.30").
+Stories also take `period` (from `content/periods.json`), `order` (their place within the period),
+`mode` (`narrated`, `told`, `allusion`, `foreshadowing`, `genealogy`, `backstory`, or `example`, for a
+plot or event that an author cites to make a point, as Aristotle cites the *Oedipus*), `narrator`
+(an entry id), and `participants` (entry ids). Periods run from the Primordial age through the
+heroic generations, the Epic Cycle and the returns to the Heraclidae, and then through history, from
+archaic Greece to Aristotle's own century; a historical event (Salamis, the statue of Mitys) goes in
+its historical period. Anecdotes, notes and quotations take `source` ("Strabo, Geography 8.3.30";
+"Homer, Odyssey 1.185 = 24.308").
+
+References in an entry file are Iliad lines unless they name another work: `refs: [1.280]`, but
+`refs: [Poetics 1451a36]`. The Poetics is cited by Bekker page, column and line, and a range may run
+across columns or pages (`Poetics 1452a38-b1`, `Poetics 1453b37-1454a2`); in a Poetics note the work
+name is not needed. In prose, too, a bare citation means the Iliad: write *Odyssey* 19.203, not
+19.203, after a mention of the Odyssey.
 
 Lists may be written inline (`[a, b]`) or as indented `- item` lines. Use the indented form when an item
 contains a comma.
@@ -41,9 +52,13 @@ contains a comma.
 ### Kinds
 
 `god` · `person` · `people` · `creature` · `place` · `animal` · `object` · `ritual` · `term` (a Greek word) ·
-`theme` · `epithet` · `formula` (formulas, type-scenes and figures of speech) · `simile` ·
-`saying` (maxims and famous lines) · `story` ·
-`anecdote` (reception, later use) · `author` · `note` (textual and scholarly notes)
+`theme` · `genre` (genres and forms of poetry) · `epithet` · `formula` (formulas, type-scenes and
+figures of speech) · `simile` · `saying` (maxims and famous lines) · `quotation` (a line an author
+quotes from another, with its source) · `story` · `anecdote` (reception, later use) · `author` ·
+`work` (poems, plays and treatises, lost or extant) · `note` (textual and scholarly notes)
+
+Authors are names, like gods and persons: their titles are linked in the English wherever they
+occur.
 
 ### Greek forms (`grc`)
 
@@ -103,8 +118,8 @@ A note's front matter is optional. It may contain:
 ---
 summary: One sentence on the entry's part in this book (shown under the title at this scope).
 heading: The Catalogue           # optional; the section is otherwise called "In Iliad 2"
-grc: [Ὀδυσῆα]                    # Greek forms first met in this book (added to the entry's forms)
-en: [son of Laertes]             # English renderings first met in this book
+grc: [Ὀδυσῆα]                    # Greek forms first met in this book (matched in this work only)
+en: [son of Laertes]             # English renderings first met in this book (this work only)
 refs: [2.260]                    # lines, in this work, that refer to the entry without naming it
 except: [2.184]                  # lines where one of the entry's forms means someone else
 passages:                        # key passages in this book
@@ -114,7 +129,12 @@ relations:
 ---
 ```
 
-References in a note default to the note's own work, so `2.260` means Iliad 2.260. Write the body with
+References in a note default to the note's own work, so `2.260` means Iliad 2.260 and, in a Poetics
+note, `1451a36` means Poetics 1451a36. A note's `grc` and `en` apply only within its own work (an
+author's note: within that author's works), while the entry file's patterns apply everywhere. So a
+form that would catch something else in another author belongs in a note: the Poetics' μιμ* stays out
+of Homer, where it would catch μίμνω "remain". A note for a whole work sits in the work's `notes/`
+folder (`content/library/aristotle/poetics/notes/odysseus.md`). Write the body with
 `##` headings if it has sections, exactly as in an entry file. On the whole-article view, the notes
 are placed at the entry's `{{notes}}` line, or before `## Mythology` / `## Outside Homer` when there is
 no such line.
@@ -132,8 +152,10 @@ The body below the front matter is Markdown. Headings start at `##`. Link other 
 {{quote:Iliad 1.528-530 | The nod of Zeus}}
 ```
 
-The title after `|` is optional. `npm run quotes` turns these into permanent ids
-(`{{quote:9d7f…}}`). Either form works in the build. Inline, `{{ref:Iliad 1.5}}` links to a line.
+The title after `|` is optional. A Poetics passage is quoted by its Bekker lines
+(`{{quote:Poetics 1449b24-28 | The definition of tragedy}}`, or `{{quote:1449b24-28}}` in a Poetics
+note). `npm run quotes` turns these into permanent ids (`{{quote:9d7f…}}`). Either form works in the
+build. Inline, `{{ref:Iliad 1.5}}` links to a line.
 Footnotes use `[^1]` and a `[^1]: …` line; `{{tabs}}`, `{{tab:Label}}`, `{{/tabs}}` make folder tabs.
 A diagram is `{{figure:file.svg | Caption}}` on its own line, for an SVG in `content/figures/`. Draw it
 in `currentColor` so it follows the light and dark themes.
@@ -148,6 +170,10 @@ Sections, in this order where they apply. Leave out any that have nothing real t
 - **Epithets:** `## Meaning` (with the etymology), `## Use`.
 - **Formulas and type-scenes:** `## The pattern`, `{{notes}}`.
 - **Stories:** `## The story`, `## In the poem` (why it is told, and to whom), `## Outside Homer`.
+  A story known from later authors (a tragedy's plot, an episode of the Epic Cycle) tells the myth
+  with its sources in `## The story`, and the work that cites it gives its use in a note.
+- **Quotations:** the quote tag of the passage that quotes, then the original context with its
+  source; the author's use of it goes in the note of the work that quotes it.
 
 What an entry does in a particular book goes in that book's note, not in the entry file (see above).
 - **Anecdotes and notes:** a plain account, with the source cited precisely.

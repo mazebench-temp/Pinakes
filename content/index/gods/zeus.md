@@ -5,7 +5,7 @@ kind: god
 tags: [olympian, cronids]
 summary: King of the gods and “father of men and gods”, son of [[Cronus]]. His plan is fulfilled through the wrath of [[Achilles]].
 aliases: [Father Zeus, son of Cronus, the Olympian, Cronides, Kronion]
-grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Ὀλύμπιος, Ὀλύμπιε, "πατὴρ ἀνδρῶν τε θεῶν τε"]
+grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Ὀλύμπιος, Ὀλύμπιε, "πατὴρ ἀνδρῶν τε θεῶν τε", "!Ζευξι*"]
 # Ζεύς τε καταχθόνιος at 9.457 is Hades, "Zeus of the underworld".
 except: [9.457]
 en: [Zeus, son of Cronus, the Olympian, Olympian Zeus, father of men and gods, Father Zeus]

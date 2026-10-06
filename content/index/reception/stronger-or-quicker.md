@@ -2,7 +2,7 @@
 title: Stronger wine or quicker? (9.203)
 greek: ζωρότερον δὲ κέραιε
 kind: note
-tags: [scholarship, philosophy]
+tags: [scholarship, philosophy, homeric-problems]
 summary: Achilles tells Patroclus to mix the wine ζωρότερον, “stronger”, for the envoys. Ancient critics thought it unfitting that he should serve his guests less diluted wine, as if to drunkards; Aristotle answered that the word means “quicker”, and the guests in Plutarch's Table Talk proposed “hot” and “well-mixed”.
 source: Aristotle, Poetics 25, 1461a14–15; Plutarch, Table Talk 5.4; Suda ζ 164
 of: [achilles, patroclus, wine, mixing-bowl, aristotle, plutarch]

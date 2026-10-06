@@ -19,8 +19,9 @@
     {"from": "1461a23", "to": "1461a23", "source": "homer", "entry": "the-stump-that-rots", "cite": "Il. 23.328"},
     {"from": "1461a24", "to": "1461a25", "source": "empedocles", "entry": "empedocles-immortal-and-mortal", "cite": "Empedocles, fr. 35.14–15 DK"},
     {"from": "1461a26", "to": "1461a26", "source": "homer", "entry": "aristotle-portions-of-the-night", "ref": "Il. 10.252"},
-    {"from": "1461a28", "to": "1461a28", "source": "homer", "entry": "the-greave-of-tin", "cite": "Il. 21.592"},
-    {"from": "1461a33", "to": "1461a34", "source": "homer", "entry": "the-bronze-spear-stopped", "cite": "Il. 20.272", "note": "Our text has “the ashen spear”."}
+    {"from": "1461a28", "to": "1461a28", "source": "homer", "entry": "aristotle-wine-of-the-gods", "cite": "Il. 21.592"},
+    {"from": "1461a33", "to": "1461a34", "source": "homer", "entry": "the-bronze-spear-stopped", "cite": "Il. 20.272", "note": "Our text has “the ashen spear”."},
+    {"from": "1461b15", "to": "1461b15", "marks": 0, "source": "agathon", "entry": "the-probable-improbable", "cite": "Agathon", "note": "Unattributed here; quoted as Agathon's at 1456a24–25."}
   ],
   "speeches": [],
   "days": []

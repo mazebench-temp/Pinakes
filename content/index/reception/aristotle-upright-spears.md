@@ -2,7 +2,7 @@
 title: Aristotle on the upright spears
 greek: ἔγχεα δέ σφιν ὄρθʼ ἐπὶ σαυρωτῆρος
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: Diomedes' companions sleep with their spears driven upright into the ground on their butt-spikes. Critics found fault with the custom; Aristotle's Poetics answers that the poet tells things as they were: “so they used to do then, as the Illyrians still do now”.
 source: Aristotle, Poetics 25, 1461a1–4
 of: [spear, diomedes, aristotle]

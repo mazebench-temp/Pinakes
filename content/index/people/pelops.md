@@ -4,7 +4,7 @@ greek: Πέλοψ
 kind: person
 tags: [king, atreidae]
 summary: “Driver of horses”, to whom [[Hermes]] gave the scepter of Zeus and who passed it on to [[Atreus]]. Later tradition made him the son of Tantalus, the winner of Hippodameia in a chariot race, the founder of the house of Atreus, and the hero after whom the Peloponnese is named.
-grc: [Πέλοπ*, Πέλοψ]
+grc: [Πέλοπ*, Πέλοψ, "!Πελοποννησ*"]
 ---
 
 The origin of the name Πέλοψ (Pelops) is unknown.

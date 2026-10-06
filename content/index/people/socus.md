@@ -7,7 +7,7 @@ summary: A wealthy Trojan, son of [[hippasus-father-of-socus|Hippasus]], who com
 aliases: [Sokos, Socus son of Hippasus]
 # ^ keeps out σῶκος, the epithet of Hermes (20.72). Σῶχʼ (11.450) is the vocative Σῶκε elided before
 # the rough breathing of Ἱππάσου.
-grc: ["^Σωκ*", "Σῶχʼ", "Ἱππάσου υἱὲ", Ἱππασίδῃσι]
+grc: ["^Σωκ*", "Σῶχʼ", "Ἱππάσου υἱὲ", Ἱππασίδῃσι, "!Σωκρατ*"]
 refs: [11.429-438, 11.441-449, 11.451-455, 11.457]
 relations:
   - father: hippasus-father-of-socus (11.450)

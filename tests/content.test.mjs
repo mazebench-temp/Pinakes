@@ -49,9 +49,11 @@ test('quotations in prose structure files match the quotation marks of the Greek
     const grc = t.editions.grc, label = n => lineLabel(w.citation?.scheme, book, n);
     const quotes = t.structure.quotations ?? [];
     // Every quotation mark opens a quotation in the structure file, on its own line or one shared with another.
+    // An indirect quotation, which the text gives without quotation marks, is listed with "marks": 0.
     const opened = [...grc].reduce((s, [n, line]) => s + (line.match(/“/g) ?? []).length, 0);
     const listed = quotes.reduce((s, q) => s + (q.marks ?? 1), 0);
     for (const q of quotes) {
+      if (q.marks === 0) continue;
       assert.ok(grc.get(q.from)?.includes('“'), `${w.id} ${label(q.from)}: quotation does not open with “`);
       assert.ok(grc.get(q.to)?.includes('”'), `${w.id} ${label(q.to)}: quotation does not close with ”`);
     }

@@ -7,7 +7,7 @@ summary: An Achaean, “Orestes, driver of horses”, the second of the six men 
 aliases: [Orestes, driver of horses]
 grc: [Ὀρέστην]
 # Ὀρέστην at 12.139 and 12.193 is the Trojan who comes with Asius (orestes-the-trojan).
-except: [12.139, 12.193]
+except: [12.139, 12.193, Poetics 1447a8-1462b19]
 en: [Orestes]
 relations:
   - slayer: hector (5.703-705)

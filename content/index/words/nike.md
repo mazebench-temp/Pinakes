@@ -5,7 +5,7 @@ kind: term
 tags: [warfare, honor]
 summary: Victory, and the verb νικάω, “win, prevail, surpass”: winning in battle and in single combat, but also prevailing in counsel, in song, and in the quarrels of the gods.
 aliases: [nikē, nike, nikaō, win]
-grc: [νικ*, ἐνίκησεν]
+grc: [νικ*, ἐνίκησεν, "!Νικοχαρ*"]
 en: [victory, win, wins, won, prevail, surpass]
 ---
 

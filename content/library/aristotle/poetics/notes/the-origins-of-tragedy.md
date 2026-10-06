@@ -1,0 +1,6 @@
+---
+summary: Aristotle's history of tragedy, from the leaders of the dithyramb to the actors of Aeschylus and Sophocles.
+refs: [1449a9-31]
+---
+
+Poetry split according to the poets' characters, the more dignified imitating noble actions, the more trivial the actions of inferior people; when tragedy and comedy appeared, poets of the serious kind became producers of tragedies instead of epics, “because these forms were greater and more esteemed” (1448b24–1449a6; see [[origins-of-poetry]]). Tragedy arose from an improvised beginning, “from those who led off the dithyramb”, and grew little by little, “and after passing through many changes tragedy stopped, once it had attained its own nature” (1449a9–15). Aeschylus raised the number of actors from one to two, reduced the part of the chorus and made speech take the leading role; Sophocles brought in three actors and scene painting. From slight plots and comic diction, since it had changed from the satyric, tragedy was late to acquire its dignity, and its meter changed from the trochaic tetrameter, suited to dancing, to the iambic, the meter most like speech; then the episodes multiplied (1449a15–31; see [[hypokrites]], [[satyr-play]], [[iambic-trimeter]] and [[trochaic-tetrameter]]). Aristotle names no poet before Aeschylus, and the Dorian claim to tragedy he reports without accepting it (1448a29–35).

@@ -2,7 +2,7 @@
 title: Aristotle on the Gorgon's head
 greek: ἐν δέ τε Γοργείη κεφαλὴ δεινοῖο πελώρου
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: Is the Gorgon's head in the underworld, as Odysseus fears, or on Athena's aegis? Aristotle's Homeric Problems suggested that the aegis carried not the head itself but the terror it causes, just as it carries Strife and Onslaught, not the powers themselves.
 source: Aristotle, Homeric Problems, fr. 377 Gigon (scholia on Iliad 5.741)
 of: [aegis, gorgon, athena, aristotle]

@@ -7,6 +7,9 @@
     {"from": "1456a20", "to": "1456a24", "title": "Clever Villains Deceived", "summary": "Reversals aim at the tragic and the humane: the clever villain deceived, like Sisyphus; it is probable, as Agathon says, that the improbable should happen."},
     {"from": "1456a25", "to": "1456a32", "title": "The Chorus", "summary": "The chorus should be one of the actors and share in the action, as in Sophocles, not as in Euripides; Agathon began the songs that could fit any play."}
   ],
+  "quotations": [
+    {"from": "1456a24", "to": "1456a25", "marks": 0, "source": "agathon", "entry": "the-probable-improbable", "cite": "Agathon", "note": "Also in verse in the Rhetoric (2.24, 1402a10–11)."}
+  ],
   "speeches": [],
   "days": []
 }

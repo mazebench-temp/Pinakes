@@ -72,6 +72,7 @@ const P = {
   sort: '<path d="M7 4v16M3.5 16.5L7 20l3.5-3.5M17 20V4M13.5 7.5L17 4l3.5 3.5"/>',
   compass: '<circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/>',
   badge: '<rect x="3" y="6" width="18" height="12" rx="3"/><path d="M7 10.5h10M7 14h6"/>',
+  masks: '<path d="M3 4.6c2.7-1 5.6-1 8.3 0v5.6c0 3.1-1.9 5.4-4.15 5.4S3 13.3 3 10.2z"/><path d="M5.2 8.2h1.3M7.8 8.2h1.3M5.5 11.4c1 .9 2.4.9 3.3 0"/><path d="M13.6 9.2c2.5-.8 5-.8 7.4 0v5.2c0 3-1.7 5.1-3.7 5.1-1.5 0-2.8-1.1-3.4-2.8"/><path d="M15.4 12.6h1.2M18 12.6h1.2M15.7 16.7c.9-.9 2.3-.9 3.2 0"/>',
 };
 
 export const icon = (name, cls = '') =>
@@ -80,7 +81,7 @@ export const icon = (name, cls = '') =>
 /** Kind → icon name; kinds.json carries its own icon ids that map onto this set. */
 export const kindIcon = k => ({ sparkles: 'sparkles', person: 'person', people: 'people', creature: 'creature', map: 'map', paw: 'paw',
   cube: 'cube', flame: 'flame', textformat: 'textformat', lightbulb: 'lightbulb', quote: 'quote', repeat: 'repeat', wave: 'wave',
-  scroll: 'scroll', bubble: 'bubble', feather: 'feather', doc: 'doc', badge: 'badge' }[k] ?? 'doc');
+  scroll: 'scroll', bubble: 'bubble', feather: 'feather', doc: 'doc', badge: 'badge', book: 'book', masks: 'masks', voice: 'voice' }[k] ?? 'doc');
 
 export function debounce(fn, ms = 120) {
   let t;

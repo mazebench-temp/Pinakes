@@ -5,7 +5,7 @@ kind: person
 tags: [achaean, king, warrior]
 summary: Son of [[Laertes]] and king of Ithaca, “of many wiles”: the most resourceful of the Achaeans at Troy, and the hero of the Odyssey.
 aliases: [Odysseus of many wiles, Ulysses]
-grc: ["^Ὀδυσ*"]
+grc: ["^Ὀδυσ*", "!Ὀδυσσεια*"]
 en: [Odysseus]
 refs: [1.441, 1.446]
 passages:
@@ -16,7 +16,7 @@ sort: 18
 
 ## Etymology
 
-Ὀδυσσεύς (Odysseus), also Ὀδυσεύς. The Odyssey explains it through his grandfather [[autolycus|Autolycus]]. Having been angered (ὀδυσσάμενος) by many people, he named the baby "Odysseus", the man of wrath or the man hated (19.406–409). Scholars regard the name itself as probably pre-Greek.
+Ὀδυσσεύς (Odysseus), also Ὀδυσεύς. The Odyssey explains it through his grandfather [[autolycus|Autolycus]]. Having been angered (ὀδυσσάμενος) by many people, he named the baby "Odysseus", the man of wrath or the man hated (*Odyssey* 19.406–409). Scholars regard the name itself as probably pre-Greek.
 
 ## Descriptions
 

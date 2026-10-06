@@ -1,0 +1,6 @@
+---
+summary: Aristotle's model of a double recognition, of a recognition prevented just in time, and of a plot outlined in general terms.
+refs: [1452b5-8, 1454a7, 1454b31-35, 1455a6-8, 1455a18-19, 1455b3-15]
+---
+
+The play supplies Aristotle with more examples than any but the *Oedipus*. Its recognition is double: “Iphigenia was recognized by Orestes from the sending of the letter, but for him to be recognized by Iphigenia another recognition was needed” (1452b5–8; see [[anagnorisis]]). The first is the best kind, arising from the incidents, “for it is probable that she should wish to send a letter” (1455a18–19); the second is contrived, since Orestes “himself says what the poet wants, and not the plot” (1454b31–35). The sister about to sacrifice her brother and recognizing him in time is one of the examples of the best way to handle a terrible deed (1454a4–7; see [[the-best-tragic-plot]]), and Polyidus the sophist had Orestes recognized by a probable reflection, that his sister had been sacrificed and now it was his lot too (1455a6–8; see [[polyidus]]). Chapter 17 reduces the story to its general outline and shows how the episodes, the madness through which Orestes was caught and the escape through the purification, belong to it (1455b2–15; see [[katholou]] and [[epeisodion]]).
