@@ -3,6 +3,7 @@ import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
 import { entryRow, matchEntry } from './index.js';
+import { lineLabel } from '../lib/cite.js';
 
 const LIMIT = { index: 40, text: 120, words: 60 };
 
@@ -44,7 +45,7 @@ export async function render(route, { setQuery }) {
   const input = view.querySelector('#search-q');
 
   const lineRow = (t, line, gHtml, eHtml) => `<a class="occ" href="#/read/${t.work.id}/${t.book}?l=${line.n}">
-    <span class="on">${esc(t.work.citation.abbr)} ${t.book}.${line.n}</span><span class="g" lang="grc">${gHtml}</span><span class="e">${eHtml}</span></a>`;
+    <span class="on">${esc(t.work.citation.abbr)} ${esc(lineLabel(t.work, t.book, line.n))}</span><span class="g" lang="grc">${gHtml}</span><span class="e">${eHtml}</span></a>`;
 
   function lemmaResults() {
     let html = '', count = 0;

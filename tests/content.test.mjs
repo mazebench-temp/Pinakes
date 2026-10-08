@@ -3,6 +3,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { build } from '../scripts/build.mjs';
 import { loadLibrary } from '../scripts/lib/content.mjs';
+import { lineLabel } from '../scripts/lib/refs.mjs';
 
 const result = build({ write: false, log: () => {} });
 
@@ -31,6 +32,7 @@ test('every quote in the registry resolves to real lines', () => {
 
 test('speeches in the structure files match the quotation marks of the Greek', () => {
   for (const w of loadLibrary().works) for (const [book, t] of w.texts) {
+    if (w.display === 'prose') continue;
     const grc = t.editions.grc;
     const starts = new Set((t.structure.speeches ?? []).map(s => s.from));
     for (const s of t.structure.speeches ?? []) {
@@ -41,13 +43,33 @@ test('speeches in the structure files match the quotation marks of the Greek', (
   }
 });
 
+test('quotations in prose structure files match the quotation marks of the Greek', () => {
+  for (const w of loadLibrary().works) for (const [book, t] of w.texts) {
+    if (w.display !== 'prose') continue;
+    const grc = t.editions.grc, label = n => lineLabel(w.citation?.scheme, book, n);
+    const quotes = t.structure.quotations ?? [];
+    // Every quotation mark opens a quotation in the structure file, on its own line or one shared with another.
+    // An indirect quotation, which the text gives without quotation marks, is listed with "marks": 0.
+    const opened = [...grc].reduce((s, [n, line]) => s + (line.match(/“/g) ?? []).length, 0);
+    const listed = quotes.reduce((s, q) => s + (q.marks ?? 1), 0);
+    for (const q of quotes) {
+      if (q.marks === 0) continue;
+      assert.ok(grc.get(q.from)?.includes('“'), `${w.id} ${label(q.from)}: quotation does not open with “`);
+      assert.ok(grc.get(q.to)?.includes('”'), `${w.id} ${label(q.to)}: quotation does not close with ”`);
+    }
+    assert.equal(listed, opened, `${w.id} ${book}: ${opened} quotation marks open in the Greek, ${listed} quotations in the structure file`);
+  }
+});
+
 test('scenes cover every line exactly once, in order', () => {
   for (const w of loadLibrary().works) for (const [book, t] of w.texts) {
     const scenes = t.structure.scenes ?? [];
     if (!scenes.length) continue;
     const lines = [...t.editions.grc.keys()].sort((a, b) => a - b);
+    const at = new Map(lines.map((n, i) => [n, i]));
     assert.equal(scenes[0].from, lines[0]);
     assert.equal(scenes.at(-1).to, lines.at(-1));
-    for (let i = 1; i < scenes.length; i++) assert.equal(scenes[i].from, scenes[i - 1].to + 1, `${w.id} ${book}: gap or overlap before scene ${i + 1}`);
+    for (const s of scenes) assert.ok(at.has(s.from) && at.has(s.to) && at.get(s.from) <= at.get(s.to), `${w.id} ${book}: scene "${s.title}" does not span lines of the text`);
+    for (let i = 1; i < scenes.length; i++) assert.equal(at.get(scenes[i].from), at.get(scenes[i - 1].to) + 1, `${w.id} ${book}: gap or overlap before scene ${i + 1}`);
   }
 });

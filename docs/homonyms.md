@@ -428,3 +428,36 @@ Entries for things and customs claim common words, and a common word can mean so
 | ὥς τε σκώληξ "like a worm" (like-a-worm, 13.654) | 13.655, repeated at 21.119 without the worm | like-a-worm claims only `"ὥς τε σκώληξ"` |
 | the lightning of Zeus (like-lightning, 13.242–245) | the end of the simile, repeated of Sirius (22.27, 22.32) | like-lightning leaves the repeated words out of its patterns |
 | τέλσον ἀρούρης "the end of the field" (oxen-at-the-plow, 13.707) | the plowing on the shield (18.544) | oxen-at-the-plow does not claim the phrase |
+
+## Aristotle's Poetics
+
+The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of
+later people, and minor Iliad figures who share a name with a hero of tragedy. Clashes that any later
+text could repeat get an exclusion in the entry file. Forms that belong to the Poetics alone go into
+the entry's Poetics note (`content/library/aristotle/poetics/notes/<id>.md`), whose patterns apply
+only to that work (see `docs/index-guide.md`), so that `μιμ*` (mimesis) never meets Homer's μίμνω,
+`σύνθεσι*` (systasis) never meets συνθεσίαι "covenants", and Attic name forms (Ποσειδῶνος, Διόνυσον,
+Ἄρεως, Κλυταιμήστραν) are matched without widening the Homeric patterns.
+
+| Pattern (entry) | Also catches | Solution |
+|---|---|---|
+| Ἀθήν* (athena) | Ἀθήνησιν "at Athens" (Poet. 1449b7) | athena: `"!Ἀθήνησιν"` |
+| Ζευ* (zeus) | Ζεῦξις, the painter (1450a27, 1461b12) | zeus: `"!Ζευξι*"` |
+| Ὀδυσ* (odysseus) | Ὀδύσσεια, the poem | odysseus: `"!Ὀδυσσεια*"` |
+| Πέλοπ* (pelops) | Πελοπόννησος (1448a35) | pelops: `"!Πελοποννησ*"` |
+| Σωκ* (socus) | Σωκρατικοὶ λόγοι, the Socratic dialogues (1447b11) | socus: `"!Σωκρατ*"` |
+| Δανα* (danaans) | Δαναός, the king (1452a28) | danaans: `"!Δαναός"` |
+| Τρώ* (trojans) | τρώσεις "woundings" (1452b13) | trojans: `"!τρώσεις"` |
+| αἰσχ* (aischros) | Αἰσχύλος, the poet (1449a17 and after) | aischros: `"!Αἰσχυλ*"` |
+| νικ* (nike) | Νικοχάρης, the poet (1448a13) | nike: `"!Νικοχαρ*"` |
+| Ὀρέστην (orestes-the-achaean, orestes-the-trojan) | Orestes son of Agamemnon, throughout the Poetics | both: `except: [Poetics 1447a8-1462b19]`; orestes claims Ὀρέστης, Ὀρέστην and Ὀρέστου in its Poetics note |
+| Εὐρύπυλος (eurypylus, the Thessalian) | Eurypylus son of Telephus, a tragedy (1459b6) | eurypylus: `except: [Poetics 1459b6]` |
+| Τρῳάδες (trojan-women) | the tragedy (1459b7) | trojan-women: `except: [Poetics 1459b7]` |
+| θεῖος (divine) | θείη "put", from τίθημι (1462b2), as at 12.26 | divine: `except: [12.26, Poetics 1462b2]` |
+| ἄττα "father" (old-father) | ἄττα "some", the Attic indefinite (1451b8) | old-father: `except: [Poetics 1451b8]` |
+| εἶδος "looks" (eidos), γένος "birth" (genee), ἔλεγχος "disgrace" (elenchos) | Aristotle's technical senses: species, genus, refutation | kept: the Poetics notes explain the sense |
+
+Several plays share a name with their hero (Antigone, Medea, Electra, Orestes, Niobe, Tyro). The
+play's title carries its author or "tragedy" in parentheses ("Medea (Euripides)", "Helle (tragedy)"),
+so that `[[Medea]]` links the person, and the play's patterns claim its title only where the text
+names the play.

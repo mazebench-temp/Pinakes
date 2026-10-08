@@ -1,0 +1,47 @@
+# Aristotle, Poetics, Chapter 1 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1447a8	Concerning the art of poetry itself and its kinds, what
+1447a9	power each of them has, and how plots must be put together
+1447a10	if the poetry is to turn out well; and further, of how many and
+1447a11	of what sort of parts it consists; and likewise about the other things that belong to the
+1447a12	same inquiry, let us speak, beginning, as is natural,
+1447a13	first with what comes first. Epic, then, and the composition of tragedy,
+1447a14	and comedy too, and dithyrambic poetry, and
+1447a15	most of the music of the pipe and of the lyre, all happen to be,
+1447a16	taken as a whole, imitations. But they differ from one another
+1447a17	in three ways: by imitating in different media, or different objects, or
+1447a18	in a different manner and not in the same way. For just as with colors
+1447a19	and shapes some people imitate many things by making likenesses of them (some
+1447a20	by art, others by habit), and others through the voice,
+1447a21	so too in the arts we have mentioned: all of them produce
+1447a22	their imitation in rhythm and speech and melody, and use these
+1447a23	either separately or mixed. Melody and rhythm alone are used
+1447a24	by the music of the pipe and of the lyre, and by any
+1447a25	others that happen to have the same kind of power, such as that of the
+1447a26	panpipes; rhythm by itself, without melody, by the art
+1447a27	of the dancers (for they too, through rhythms given shape in movement,
+1447a28	imitate characters and feelings and actions). But the art [epic] that uses
+1447a29	bare speech alone, and the art that uses meters, whether these
+1447b8	are mixed with one another or it uses a single kind of
+1447b9	meter, happen to have no name up to now. For we would have no
+1447b10	common name to give the mimes of Sophron and Xenarchus
+1447b11	and the Socratic dialogues, nor to an imitation that someone made in trimeters
+1447b12	or elegiacs or some other such meters.
+1447b13	People, it is true, join the “making” to the meter,
+1447b14	and call some elegiac poets and others epic poets, naming them poets not
+1447b15	for their imitation but indiscriminately for their meter;
+1447b16	for even if someone sets out something of medicine or natural science in
+1447b17	meter, they are accustomed to call him that. Yet there is nothing in common
+1447b18	between Homer and Empedocles except the meter: so it is right to call
+1447b19	the one a poet, and the other a natural philosopher rather than
+1447b20	a poet. In the same way, even if someone mixes all the meters
+1447b21	in making his imitation, as Chaeremon composed
+1447b22	the Centaur, a mixed rhapsody in all the meters, he too
+1447b23	must be called a poet. On these matters, then, let the distinctions be drawn
+1447b24	in this way. There are some arts that use all the media
+1447b25	we have mentioned, I mean rhythm and song and meter,
+1447b26	such as the composition of dithyrambs and of nomes,
+1447b27	and tragedy and comedy; they differ in that some
+1447b28	use them all at once, and others by turns. These, then, I call
+1447b29	the differences of the arts in the media in which they produce their imitation.

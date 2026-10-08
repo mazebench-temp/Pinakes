@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    {"from": "1447a8", "to": "1447a12", "title": "The Subject and the Method", "summary": "Aristotle announces his subject: the art of poetry and its kinds, the power of each, how plots must be built, and the number and nature of the parts."},
+    {"from": "1447a13", "to": "1447a18", "title": "All Poetry Is Imitation", "summary": "Epic, tragedy, comedy, dithyramb and most music for the pipe and the lyre are imitations, differing in their media, their objects and their manner."},
+    {"from": "1447a19", "to": "1447a28", "title": "The Media", "summary": "Like painters with color and shape, the arts imitate in rhythm, speech and melody: pipe and lyre with melody and rhythm, the dancer with rhythm alone."},
+    {"from": "1447a29", "to": "1447b23", "title": "An Art Without a Name", "summary": "Imitation in bare speech or in meter has no common name: the mimes of Sophron and Xenarchus, the Socratic dialogues. People call poets by their meter, but Homer and Empedocles share only the meter, and Chaeremon, who mixed all the meters in his Centaur, is still a poet."},
+    {"from": "1447b24", "to": "1447b29", "title": "Arts That Use All the Media", "summary": "Dithyramb, nomes, tragedy and comedy use rhythm, song and meter together, some all at once and some by turns."}
+  ],
+  "speeches": [],
+  "days": []
+}

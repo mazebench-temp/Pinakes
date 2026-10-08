@@ -3,15 +3,16 @@ import { el, esc, icon, on, debounce, copyText, plural } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { quoteCard, toast, openSheet } from '../ui/components.js';
 import { normalize, hasGreek } from '../lib/greek.js';
-
-const key = q => q.ref.split(/[.-]/).map(n => n.padStart(5, '0')).join('.');
+import { lineLabel } from '../lib/cite.js';
 
 /** Quotes of the same lines under different titles are one passage. The title most articles use leads. */
-function passagesOf(quotes) {
+function passagesOf(quotes, cat) {
+  const rank = new Map(cat.works.map((w, i) => [w.id, i]));
+  const key = p => `${String(rank.get(p.work) ?? 99).padStart(2, '0')} ${String(p.book).padStart(3, '0')}.${String(p.from).padStart(6, '0')}`;
   const byRef = new Map();
   for (const [id, v] of Object.entries(quotes)) {
     const k = `${v.work} ${v.ref}`;
-    if (!byRef.has(k)) byRef.set(k, { work: v.work, ref: v.ref, short: v.short, href: v.href, variants: [] });
+    if (!byRef.has(k)) byRef.set(k, { work: v.work, ref: v.ref, book: v.book, from: v.from, toBook: v.toBook ?? v.book, to: v.to, short: v.short, href: v.href, variants: [] });
     byRef.get(k).variants.push({ id, title: v.title, used: v.used });
   }
   return [...byRef.values()].map(p => {
@@ -19,24 +20,22 @@ function passagesOf(quotes) {
     p.used = [...new Set(p.variants.flatMap(v => v.used))];
     p.title = p.variants[0].title;
     return p;
-  }).sort((a, b) => a.work.localeCompare(b.work) || key(a).localeCompare(key(b)));
+  }).sort((a, b) => key(a).localeCompare(key(b)));
 }
 
 export async function render(route, { setQuery }) {
   const [cat, quotes] = await Promise.all([store.catalog(), store.quotes()]);
   let q = route.query.q ?? '';
-  const list = passagesOf(quotes);
+  const list = passagesOf(quotes, cat);
   const texts = new Map();
-  for (const v of list) {
-    const [book] = v.ref.split('.');
-    const k = `${v.work}/${book}`;
-    if (!texts.has(k)) texts.set(k, await store.text(v.work, +book));
-  }
-  const linesOf = v => {
-    const [book, range] = v.ref.split('.');
-    const [a, b = a] = range.split('-').map(Number);
-    return texts.get(`${v.work}/${book}`).lines.filter(l => l.n >= a && l.n <= b).map(l => ({ n: `${book}.${l.n}`, grc: l.grc, en: l.en }));
-  };
+  const booksOf = v => Array.from({ length: v.toBook - v.book + 1 }, (_, i) => v.book + i);
+  await Promise.all([...new Set(list.flatMap(v => booksOf(v).map(b => `${v.work}/${b}`)))].map(k => {
+    const [work, b] = k.split('/');
+    return store.text(work, +b).then(t => texts.set(k, t)).catch(() => {});
+  }));
+  const linesOf = v => booksOf(v).flatMap(b => (texts.get(`${v.work}/${b}`)?.lines ?? [])
+    .filter(l => (b > v.book || l.n >= v.from) && (b < v.toBook || l.n <= v.to))
+    .map(l => ({ n: lineLabel(cat.by.works.get(v.work), b, l.n), grc: l.grc, en: l.en })));
   const tagCount = Object.keys(quotes).length;
 
   const view = el(`<div class="view">

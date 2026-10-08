@@ -1,0 +1,30 @@
+# Aristotle, Poetics, Chapter 5 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1449a32	Comedy, as we said, is an imitation of people who are worse,
+1449a33	though not in respect of every kind of badness: rather, the ridiculous is a part
+1449a34	of the ugly. For the ridiculous is
+1449a35	an error or ugliness that causes no pain and does no harm; to take
+1449a36	the obvious example, the comic mask is something ugly and distorted
+1449a37	without pain. Now the changes that tragedy went through, and
+1449a38	those who brought them about, are not unknown; but comedy, because it was not
+1449b1	taken seriously at first, escaped notice. Indeed, a chorus of comedians
+1449b2	was granted by the archon only late; before that they were volunteers. Comedy
+1449b3	already had some of its forms when those called its poets
+1449b4	are first remembered. Who introduced masks or prologues or
+1449b5	the number of actors and all such things is not known. The making of plots
+1449b6	[Epicharmus and Phormis] came originally from
+1449b7	Sicily; of the poets at Athens, Crates was the first to give up
+1449b8	the iambic form and compose stories and plots of a general kind.
+1449b9	Epic agrees with tragedy so far as being an imitation
+1449b10	of serious people in speech with meter; but in having
+1449b11	a single meter and being narrative, in these respects
+1449b12	they differ; and in length too: tragedy tries as far as possible
+1449b13	to keep within a single circuit of the sun, or to exceed it a little, while
+1449b14	epic is unlimited in time, and differs in this; and yet
+1449b15	at first they did the same in tragedies as
+1449b16	in epics. Of their parts, some are the same and others belong
+1449b17	to tragedy alone; so whoever knows about tragedy, good
+1449b18	and bad, knows about epics too: for what epic
+1449b19	has, tragedy has too, but not all that tragedy has is in
+1449b20	epic.

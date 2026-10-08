@@ -1,0 +1,21 @@
+# Aristotle, Poetics, Chapter 2 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1448a1	Since those who imitate imitate people in action, and these
+1448a2	must be either serious or inferior (for characters almost always
+1448a3	follow these alone, since it is by badness and virtue that all people
+1448a4	differ in character), they imitate people either better than we are, or worse,
+1448a5	or like us, as the painters do: Polygnotus
+1448a6	portrayed people better, Pauson worse, and Dionysius like us.
+1448a7	It is clear that each of the imitations we have mentioned will also have
+1448a8	these differences, and will be different by imitating different objects
+1448a9	in this way. For in dancing too, and in playing the pipe and
+1448a10	the lyre, these dissimilarities can arise, and
+1448a11	in prose and in verse without music: Homer, for instance,
+1448a12	imitates better people, Cleophon people like us, and Hegemon of Thasos, who
+1448a13	first composed parodies, and Nicochares, the author of the Deiliad,
+1448a14	worse people. It is the same with dithyrambs and
+1448a15	nomes: one might portray †…† Cyclopes, as Timotheus and Philoxenus
+1448a16	did. And this is the very difference that sets
+1448a17	tragedy apart from comedy: for comedy
+1448a18	aims to imitate people worse, and tragedy better, than those of today.

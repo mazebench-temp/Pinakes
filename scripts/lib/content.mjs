@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { splitFrontMatter } from './frontmatter.mjs';
+import { parseBekker, bekkerLabel } from './refs.mjs';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 export const CONTENT = path.join(ROOT, 'content');
@@ -25,34 +26,68 @@ export function walk(dir, test = () => true) {
 
 export const bookFile = (template, book) => template.replace('{book}', String(book).padStart(2, '0'));
 
-/** A verse/section text file: "<number>\t<text>" rows; "#" lines are comments. */
-export function readLines(file) {
+/** Line keys as written in a work's files: verse numbers ("396"), or Bekker lines ("1451a36") coded as integers. */
+export const lineParser = work => work?.citation?.scheme === 'bekker' ? parseBekker : s => { const n = Number(s); return Number.isInteger(n) ? n : null; };
+export const lineKey = work => work?.citation?.scheme === 'bekker' ? bekkerLabel : String;
+
+/**
+ * A verse/section text file: "<line>\t<text>" rows; "#" lines are comments. Lines are numbers, or for a
+ * Bekker work labels like "1447a8", returned as their integer codes; they must run in order.
+ */
+export function readLines(file, parse = lineParser(null)) {
   const rows = new Map();
+  let last = -Infinity;
   fs.readFileSync(file, 'utf8').split('\n').forEach((line, i) => {
     if (!line.trim() || line.startsWith('#')) return;
     const tab = line.indexOf('\t');
     if (tab < 0) throw new Error(`${rel(file)}:${i + 1}: expected "<line>\\t<text>"`);
-    const n = Number(line.slice(0, tab));
-    if (!Number.isInteger(n)) throw new Error(`${rel(file)}:${i + 1}: bad line number "${line.slice(0, tab)}"`);
-    if (rows.has(n)) throw new Error(`${rel(file)}:${i + 1}: duplicate line ${n}`);
+    const n = parse(line.slice(0, tab));
+    if (n === null) throw new Error(`${rel(file)}:${i + 1}: bad line number "${line.slice(0, tab)}"`);
+    if (rows.has(n)) throw new Error(`${rel(file)}:${i + 1}: duplicate line ${line.slice(0, tab)}`);
+    if (n < last) throw new Error(`${rel(file)}:${i + 1}: line ${line.slice(0, tab)} is out of order`);
+    last = n;
     rows.set(n, line.slice(tab + 1).trim());
   });
   return rows;
 }
 
+/** Structure and lexicon files of a Bekker work name lines by label; the build uses the integer codes. */
+function codeStructure(s, parse, file) {
+  const at = v => {
+    if (typeof v === 'number') return v;
+    const n = parse(String(v));
+    if (n === null) throw new Error(`${rel(file)}: bad line "${v}"`);
+    return n;
+  };
+  for (const list of [s.scenes, s.speeches, s.days, s.quotations]) for (const x of list ?? []) { x.from = at(x.from); x.to = at(x.to); }
+  return s;
+}
+function codeLexicon(lex, parse, file) {
+  if (!lex) return lex;
+  return Object.fromEntries(Object.entries(lex).map(([k, v]) => {
+    const n = parse(k);
+    if (n === null) throw new Error(`${rel(file)}: bad line "${k}"`);
+    return [String(n), v];
+  }));
+}
+
+/** Authors and works in library order: by their `order`, then by folder name. */
+const byOrder = (dir, file) => fs.readdirSync(dir).filter(d => exists(path.join(dir, d, file)))
+  .map(d => [d, readJson(path.join(dir, d, file)).order ?? 999]).sort((a, b) => a[1] - b[1] || a[0].localeCompare(b[0])).map(([d]) => d);
+const authorDirs = libDir => byOrder(libDir, 'author.json');
+const workDirs = authorDir => byOrder(authorDir, 'work.json');
+
 export function loadLibrary() {
   const libDir = path.join(CONTENT, 'library');
   const authors = [], works = [];
-  for (const authorDir of fs.readdirSync(libDir).sort()) {
-    const aFile = path.join(libDir, authorDir, 'author.json');
-    if (!exists(aFile)) continue;
-    const author = readJson(aFile);
+  for (const authorDir of authorDirs(libDir)) {
+    const author = readJson(path.join(libDir, authorDir, 'author.json'));
     authors.push(author);
-    for (const workDir of fs.readdirSync(path.join(libDir, authorDir)).sort()) {
+    for (const workDir of workDirs(path.join(libDir, authorDir))) {
       const wFile = path.join(libDir, authorDir, workDir, 'work.json');
-      if (!exists(wFile)) continue;
       const work = readJson(wFile);
       const dir = path.dirname(wFile);
+      const parse = lineParser(work);
       work.dir = dir;
       work.texts = new Map();
       for (let book = 1; book <= (work.bookCount ?? 1); book++) {
@@ -61,14 +96,14 @@ export function loadLibrary() {
         const editions = {};
         for (const ed of work.editions) {
           const file = path.join(dir, bookFile(ed.path, book));
-          if (exists(file)) editions[ed.id] = readLines(file);
+          if (exists(file)) editions[ed.id] = readLines(file, parse);
         }
         const structFile = work.structure && path.join(dir, bookFile(work.structure, book));
         const lexFile = work.lexicon && path.join(dir, bookFile(work.lexicon, book));
         work.texts.set(book, {
           editions,
-          structure: structFile && exists(structFile) ? readJson(structFile) : { scenes: [], speeches: [], days: [] },
-          lexicon: lexFile && exists(lexFile) ? readJson(lexFile) : null,
+          structure: structFile && exists(structFile) ? codeStructure(readJson(structFile), parse, structFile) : { scenes: [], speeches: [], days: [] },
+          lexicon: lexFile && exists(lexFile) ? codeLexicon(readJson(lexFile), parse, lexFile) : null,
           lexiconFile: lexFile,
         });
       }
@@ -101,14 +136,11 @@ export function loadNotes() {
     out.push({ entryId: path.basename(file, '.md'), file: rel(file), scope, data, body });
   };
   const mdIn = dir => exists(dir) ? fs.readdirSync(dir).sort().filter(n => n.endsWith('.md')).map(n => path.join(dir, n)) : [];
-  for (const authorDir of fs.readdirSync(libDir).sort()) {
-    const aFile = path.join(libDir, authorDir, 'author.json');
-    if (!exists(aFile)) continue;
-    const author = readJson(aFile);
+  for (const authorDir of authorDirs(libDir)) {
+    const author = readJson(path.join(libDir, authorDir, 'author.json'));
     for (const file of mdIn(path.join(libDir, authorDir, 'notes'))) read(file, { id: author.id, author: author.id });
-    for (const workDir of fs.readdirSync(path.join(libDir, authorDir)).sort()) {
+    for (const workDir of workDirs(path.join(libDir, authorDir))) {
       const wFile = path.join(libDir, authorDir, workDir, 'work.json');
-      if (!exists(wFile)) continue;
       const work = readJson(wFile);
       const notesDir = path.join(libDir, authorDir, workDir, 'notes');
       for (const file of mdIn(notesDir)) read(file, { id: work.id, author: author.id, work: work.id });

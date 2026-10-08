@@ -6,7 +6,7 @@ tags: [achaean, warrior, thessaly]
 summary: Son of Euaemon, leader of forty ships from Ormenium and the country around Mount Titanus. Wounded by Paris in Book 11, he is tended by Patroclus.
 aliases: [Eurypylos]
 grc: [Εὐρύπυλος]
-except: [2.677]
+except: [2.677, Poetics 1459b6]
 refs: [2.737]
 relations:
   - father: euaemon (2.736)

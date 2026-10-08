@@ -1,0 +1,52 @@
+# Aristotle, Poetics, Chapter 20 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1456b20	Diction as a whole has these parts: letter, syllable,
+1456b21	connective, noun, verb, joint, inflection, statement. A letter
+1456b22	is an indivisible sound; not every such sound, but one from which
+1456b23	a composite sound can naturally arise, for the sounds of animals too are
+1456b24	indivisible, and I call none of them a letter. Its
+1456b25	parts are the vowel, the semivowel and the mute.
+1456b26	A vowel is what has a sound that can be heard without
+1456b27	contact; a semivowel, what has a sound that can be heard with contact,
+1456b28	such as S and R; a mute, what with
+1456b29	contact has no sound of its own, but becomes audible
+1456b30	together with letters that have some sound, such as G
+1456b31	and D. These differ by the shapes of the mouth and
+1456b32	the places of articulation, by aspiration and its absence, by length and shortness,
+1456b33	and also by high, low and middle pitch; each of these
+1456b34	should be studied in works on meter. A syllable
+1456b35	is a sound without meaning, composed of a mute and a letter that has sound;
+1456b36	for GR without A is †a syllable, and† so it is with A,
+1456b37	as GRA. But to study the differences between these too belongs
+1456b38	to the art of meter. A connective is a sound without meaning that neither
+1457a1	prevents nor produces a single significant sound out of several
+1457a2	sounds, that is naturally placed both at the ends and in the
+1457a3	middle, and that it is not fitting to put by itself at the beginning of a statement,
+1457a4	such as men, ētoi, de; or a sound without meaning that, out of several
+1457a5	sounds that are each significant, naturally produces one significant
+1457a6	sound. A joint is a sound without meaning that shows the beginning or
+1457a7	end or division of a statement, such as amphi and peri and
+1457a8	the rest; or a sound without meaning that neither prevents nor produces
+1457a9	a single significant sound out of several sounds, and is naturally placed
+1457a10	both at the ends and in the middle. A noun is a composite,
+1457a11	significant sound, without time, no part of which is
+1457a12	significant by itself; for in compounds we do not use a part as
+1457a13	having a meaning of its own: in Theodorus, for example,
+1457a14	the -dōros (“gift”) means nothing. A verb is a composite significant sound with
+1457a15	time, no part of which has meaning by itself, as with
+1457a16	nouns: “man” or “white” does not signify
+1457a17	when, but “walks” or “has walked” signifies in addition, the one
+1457a18	the present time, the other the past. An inflection
+1457a19	of a noun or a verb is either one that signifies “of this” or “to this”
+1457a20	and the like, or one that signifies one or many, such as “men”
+1457a21	or “man”, or one that concerns delivery, such as question or command:
+1457a22	“Did he walk?” or “Walk!” is an inflection of a verb of these kinds.
+1457a23	A statement is a composite significant sound some of whose parts signify something
+1457a24	by themselves (not every statement is composed of verbs and nouns, the
+1457a25	definition of man, for example; a statement can be without
+1457a26	verbs, but it will always have some part
+1457a27	that signifies something), such as “Cleon” in “Cleon walks”.
+1457a28	A statement is one in two ways: either by signifying one thing,
+1457a29	or by being bound together out of several: the Iliad
+1457a30	is one by being bound together, the definition of man by signifying one thing.

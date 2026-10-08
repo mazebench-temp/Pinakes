@@ -7,7 +7,7 @@ summary: “Divine, of the gods,” the adjective of θεός: an epithet of wha
 aliases: [theios]
 grc: [θεῖος, θείη, θείοιο, "!θείῃ πεδίοιο"]
 # θείη at 12.26 is the optative of τίθημι ("make").
-except: [12.26]
+except: [12.26, Poetics 1462b2]
 en: [divine]
 of: [dream, odysseus, chimaera]
 ---

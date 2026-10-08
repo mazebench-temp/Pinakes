@@ -1,0 +1,540 @@
+{
+  "work": "aristotle.poetics",
+  "quotes": [
+    {
+      "id": "5a4b0980-0627-50ed-8f77-16482ce0b83e",
+      "ref": "1447a16-18",
+      "title": "Three differences of imitation"
+    },
+    {
+      "id": "b4a821f5-f021-59d7-bb25-fb432fd9211b",
+      "ref": "1447a8-13",
+      "title": "The subject of the Poetics"
+    },
+    {
+      "id": "666caa49-3888-56f7-b6c5-094a068461a6",
+      "ref": "1448a1-5",
+      "title": "Serious or inferior"
+    },
+    {
+      "id": "bfaea2ab-623a-5fca-9305-fe0e5173c793",
+      "ref": "1448a1-18",
+      "title": "Better, worse, or like us"
+    },
+    {
+      "id": "d3573ca2-e381-546e-985d-3d3fa06b0480",
+      "ref": "1448a19-29",
+      "title": "The manner of imitation"
+    },
+    {
+      "id": "ab23f45e-4e29-556b-b500-99161e8c3c1a",
+      "ref": "1448a25-b2",
+      "title": "Why dramas are so called"
+    },
+    {
+      "id": "0a73bba6-df18-56c9-8f09-d73c3bbe650e",
+      "ref": "1448a35-b2",
+      "title": "Kōmai and dēmoi"
+    },
+    {
+      "id": "19402441-9702-592c-8547-d127cc443003",
+      "ref": "1448b34-1449a2",
+      "title": "The poet above all of serious things"
+    },
+    {
+      "id": "4623b112-54b9-5bd1-af5d-9af883e556dd",
+      "ref": "1448b4-9",
+      "title": "The most imitative of animals"
+    },
+    {
+      "id": "958e523f-6147-5ff4-bdb2-b3fc699f41ae",
+      "ref": "1448b4-9",
+      "title": "Two natural causes"
+    },
+    {
+      "id": "ffb11350-5f2f-5a33-bcb0-923ef98c0905",
+      "ref": "1448b8-19",
+      "title": "The pleasure of learning"
+    },
+    {
+      "id": "504cbc65-3a0b-5654-a477-f9c53a2a92dd",
+      "ref": "1449a21-28",
+      "title": "The meter most like speech"
+    },
+    {
+      "id": "0db054d4-9080-5f22-840d-222b8b5cfd8c",
+      "ref": "1449a32-37",
+      "title": "The ridiculous"
+    },
+    {
+      "id": "7d477dbb-ac58-5af1-ad79-dc2090bc36af",
+      "ref": "1449b24-28",
+      "title": "Tragedy defined"
+    },
+    {
+      "id": "2dd7c34a-e65c-5e12-ad2d-6ff86d3e0014",
+      "ref": "1449b27-28",
+      "title": "The catharsis of such feelings"
+    },
+    {
+      "id": "8d393dd5-34db-5ffa-b4f3-85b6c90d7142",
+      "ref": "1450a15-23",
+      "title": "Not of people but of actions"
+    },
+    {
+      "id": "e720b3e4-ab57-5477-a77e-0bbddea13074",
+      "ref": "1450a29-b4",
+      "title": "The soul of tragedy"
+    },
+    {
+      "id": "bd25722b-605c-579f-b6b5-2d2dfa297def",
+      "ref": "1450a38-b3",
+      "title": "The soul of tragedy"
+    },
+    {
+      "id": "73a1f879-0220-528b-a181-463b64cabc68",
+      "ref": "1450a7-15",
+      "title": "Six parts"
+    },
+    {
+      "id": "eeaaafb5-1320-5106-a0af-67cc633a3048",
+      "ref": "1450b16-20",
+      "title": "The least artistic part"
+    },
+    {
+      "id": "68a602f9-355a-5734-a3f8-e9c788e729c5",
+      "ref": "1450b24-31",
+      "title": "A whole has a beginning, a middle and an end"
+    },
+    {
+      "id": "56a494f2-07f2-5772-a686-d7552fc10524",
+      "ref": "1450b34-1451a6",
+      "title": "Beauty lies in magnitude and order"
+    },
+    {
+      "id": "26a03b2e-e114-5f69-b629-f1f1a2972b7f",
+      "ref": "1450b4-8",
+      "title": "Thought, politics and rhetoric"
+    },
+    {
+      "id": "41ba49a1-96b8-56eb-8f28-2259f60a4b36",
+      "ref": "1450b8-10",
+      "title": "Character reveals choice"
+    },
+    {
+      "id": "8c3d9406-9269-5d17-b257-cde6c74d0de7",
+      "ref": "1451a16-22",
+      "title": "Not one because it is about one man"
+    },
+    {
+      "id": "a5bcd781-9018-5e64-93d4-ee8690084f62",
+      "ref": "1451a36-b7",
+      "title": "Herodotus in verse"
+    },
+    {
+      "id": "02f68d25-22cd-573a-b384-31ea3ea06ee2",
+      "ref": "1451a36-b11",
+      "title": "More philosophical than history"
+    },
+    {
+      "id": "032221ab-49c1-5a4c-b05f-4c2d4babb1f0",
+      "ref": "1451a6-9",
+      "title": "By the water clock"
+    },
+    {
+      "id": "6472c0d5-d4fa-52cd-a3b5-75939c92c469",
+      "ref": "1451b15-19",
+      "title": "What has happened is possible"
+    },
+    {
+      "id": "58e2573b-0b2e-5301-a5cc-2e00d8396132",
+      "ref": "1451b27-32",
+      "title": "A maker of plots rather than of verses"
+    },
+    {
+      "id": "86d01c20-097c-598c-85a8-4ae0155f6812",
+      "ref": "1451b33-1452a1",
+      "title": "Episodic plots are the worst"
+    },
+    {
+      "id": "ca4349f0-a74e-5b5a-8edc-bc84adce8d34",
+      "ref": "1451b5-11",
+      "title": "Universals and particulars"
+    },
+    {
+      "id": "ceb3fe0e-cbf4-58f8-816d-020294b7b34e",
+      "ref": "1452a12-18",
+      "title": "Simple and complex actions"
+    },
+    {
+      "id": "3327d519-de4f-56ab-b1ef-794b82dc55fc",
+      "ref": "1452a22-29",
+      "title": "Reversal defined"
+    },
+    {
+      "id": "864c7613-3301-5203-bb9f-13b8c8d98a32",
+      "ref": "1452a29-33",
+      "title": "Recognition defined"
+    },
+    {
+      "id": "0de467d9-556b-544a-96c3-5c14497eb70e",
+      "ref": "1452a4-11",
+      "title": "The statue of Mitys"
+    },
+    {
+      "id": "40e7e441-266a-512b-b51c-57b72261436d",
+      "ref": "1452b14-20",
+      "title": "The sections of tragedy"
+    },
+    {
+      "id": "2f8d03fc-d58c-5388-a45c-04224d15cbaf",
+      "ref": "1452b9-13",
+      "title": "Suffering defined"
+    },
+    {
+      "id": "03f46849-560b-51ed-877d-5f8478cefce0",
+      "ref": "1453a17-22",
+      "title": "The finest tragedies are about a few houses"
+    },
+    {
+      "id": "a725042a-329c-56af-b5e9-8b9954fb0c61",
+      "ref": "1453a22-30",
+      "title": "The most tragic of the poets"
+    },
+    {
+      "id": "bdd5e54f-2d6e-59fb-bfd0-b0df980d86fe",
+      "ref": "1453a23-30",
+      "title": "The most tragic of the poets"
+    },
+    {
+      "id": "5de44c03-3d12-52fd-862b-68c3f98bbda6",
+      "ref": "1453a3-7",
+      "title": "Pity for the undeserving, fear for one like us"
+    },
+    {
+      "id": "d4646b9b-30af-5c6c-b34e-fbcc4d167fb7",
+      "ref": "1453a30-39",
+      "title": "Second, the double structure"
+    },
+    {
+      "id": "f07108de-7934-5557-b006-a9a4205adb64",
+      "ref": "1453a7-12",
+      "title": "The man between"
+    },
+    {
+      "id": "83a41d99-b039-5d80-bea1-c243c9a1c3e5",
+      "ref": "1453a7-12",
+      "title": "Through some error"
+    },
+    {
+      "id": "741061f9-474d-545b-b027-f5f69954d1da",
+      "ref": "1453b1-7",
+      "title": "Pity and fear from the structure"
+    },
+    {
+      "id": "ad2fab2d-6ad2-5eee-bbf7-e9773992a1d9",
+      "ref": "1453b10-14",
+      "title": "The pleasure that belongs to tragedy"
+    },
+    {
+      "id": "88be8f53-dc1c-56c6-b872-9b5f09947071",
+      "ref": "1453b19-22",
+      "title": "Brother kills brother, son father"
+    },
+    {
+      "id": "4cf7d8a3-bece-545d-8eb3-2ce8d3fc4db9",
+      "ref": "1453b22-26",
+      "title": "Stories handed down"
+    },
+    {
+      "id": "8e2a4d47-1628-5343-917f-86e993de69fa",
+      "ref": "1453b3-7",
+      "title": "He who hears it shudders"
+    },
+    {
+      "id": "73561a3f-5a30-5fa5-a28c-9d1f4518db0f",
+      "ref": "1454a16-33",
+      "title": "Four things to aim at"
+    },
+    {
+      "id": "6b64a725-ec25-5887-8463-51a03e134f5a",
+      "ref": "1454a33-36",
+      "title": "The necessary or the probable"
+    },
+    {
+      "id": "a4bb4d4c-b1fc-59e2-95a0-9d37c9ab1e2e",
+      "ref": "1454a37-b6",
+      "title": "Not from the machine"
+    },
+    {
+      "id": "55e833b0-b46f-57cb-a726-a6253d526f1c",
+      "ref": "1454b19-25",
+      "title": "Recognition through signs"
+    },
+    {
+      "id": "5c53f086-691d-5a71-8bee-9f8a3c4a6617",
+      "ref": "1454b19-25",
+      "title": "Signs born with the body"
+    },
+    {
+      "id": "6bc9f066-1b35-59c1-8629-4f54d67d5f30",
+      "ref": "1455a22-29",
+      "title": "Before his eyes"
+    },
+    {
+      "id": "6eebe1f4-0cac-5403-854b-6128a4452ff2",
+      "ref": "1455a29-34",
+      "title": "The gifted or the mad"
+    },
+    {
+      "id": "94abfee7-8b8c-5d3b-8d16-ca2ddc8e943b",
+      "ref": "1455b16-23",
+      "title": "The story of the Odyssey"
+    },
+    {
+      "id": "062e1b6c-fda5-5ff9-8f9a-bddf1ebfebc7",
+      "ref": "1455b24-32",
+      "title": "Complication and resolution"
+    },
+    {
+      "id": "eaf7b14f-2873-560e-9eb0-b8878f822d04",
+      "ref": "1455b32-1456a3",
+      "title": "Four kinds of tragedy"
+    },
+    {
+      "id": "322042ea-f838-5ba0-a85e-8b24ceea0dc8",
+      "ref": "1456a19-25",
+      "title": "As Agathon says"
+    },
+    {
+      "id": "dc33c463-a9ec-5869-9e06-3ba6d5a89b33",
+      "ref": "1456a25-32",
+      "title": "The chorus as one of the actors"
+    },
+    {
+      "id": "46f5704d-f99c-5a3d-8b58-fd2d09d4c3bf",
+      "ref": "1456b22-31",
+      "title": "Letters: vowel, semivowel, mute"
+    },
+    {
+      "id": "116311ea-4992-5bca-ae32-ecf5c6e89b58",
+      "ref": "1456b8-19",
+      "title": "Prayer or command?"
+    },
+    {
+      "id": "e3ef420a-c797-5b26-b0ba-49c67f231ddc",
+      "ref": "1456b8-19",
+      "title": "Sing, goddess: a command?"
+    },
+    {
+      "id": "eb93d21e-b797-5560-9230-40061551b590",
+      "ref": "1457a10-14",
+      "title": "The noun"
+    },
+    {
+      "id": "86d930b0-48f5-5785-902a-be4a35e77e64",
+      "ref": "1457a18-23",
+      "title": "Inflection"
+    },
+    {
+      "id": "78c5083d-919d-5289-b7d1-b6e077617521",
+      "ref": "1457a23-30",
+      "title": "The statement"
+    },
+    {
+      "id": "607bd1f8-21eb-5980-b934-93cf99497767",
+      "ref": "1457a31-b1",
+      "title": "Simple and double nouns"
+    },
+    {
+      "id": "00ca7d9b-e424-57ad-903a-22877b79ee98",
+      "ref": "1457b13-16",
+      "title": "Species for species"
+    },
+    {
+      "id": "cf2ac57c-20d9-5c2b-b5c3-27ebc30f593d",
+      "ref": "1457b16-23",
+      "title": "The cup and the shield"
+    },
+    {
+      "id": "8ea25089-f4b2-5d69-abbd-259e41e7d1c0",
+      "ref": "1457b22-25",
+      "title": "The old age of the day"
+    },
+    {
+      "id": "3b0917f5-d0c7-5192-95da-a64e2cba3584",
+      "ref": "1457b25-30",
+      "title": "A word the language lacks"
+    },
+    {
+      "id": "94a20280-0d52-5ef3-af4e-51905c9a8ec7",
+      "ref": "1457b33-35",
+      "title": "Coined words"
+    },
+    {
+      "id": "d2209907-6c24-5bcb-a03b-5491510a7ba0",
+      "ref": "1457b35-1458a5",
+      "title": "Lengthened and shortened words"
+    },
+    {
+      "id": "0e9d2c39-79e8-528a-9733-9bdb1cd90077",
+      "ref": "1457b6-9",
+      "title": "Metaphor defined"
+    },
+    {
+      "id": "dcaebd0c-52ed-5ee1-af7f-7573cff0db03",
+      "ref": "1457b7-11",
+      "title": "Genus for species"
+    },
+    {
+      "id": "c72d1445-8db4-5db4-ab80-497c55a9a475",
+      "ref": "1458a1-5",
+      "title": "Shortened words"
+    },
+    {
+      "id": "397a6afe-12d7-55b7-8c9f-54e147f090fd",
+      "ref": "1458a18-23",
+      "title": "Clear and not mean"
+    },
+    {
+      "id": "40015276-8f55-5767-8d11-4050b1597350",
+      "ref": "1458a18-23",
+      "title": "The excellence of diction"
+    },
+    {
+      "id": "4a529edb-f299-5e18-8702-58bd9dffaa25",
+      "ref": "1458a23-31",
+      "title": "Riddle and barbarism"
+    },
+    {
+      "id": "77eba879-8b13-5aa1-9aa9-101df70505c0",
+      "ref": "1458a8-17",
+      "title": "Masculine, feminine and in between"
+    },
+    {
+      "id": "905713af-cb1c-5340-8580-c2ee0be39a31",
+      "ref": "1458b15-24",
+      "title": "One word changed"
+    },
+    {
+      "id": "eaeea7b0-6635-503d-bf0e-b0fb116e53a5",
+      "ref": "1458b25-28",
+      "title": "Standard words for poetic ones"
+    },
+    {
+      "id": "4cbf3aff-62b9-5142-a266-d91411998928",
+      "ref": "1458b28-30",
+      "title": "Standard words for poetic ones"
+    },
+    {
+      "id": "b5faa1eb-d2f2-518d-86aa-6cb4c943efa6",
+      "ref": "1458b31-1459a4",
+      "title": "Ariphrades"
+    },
+    {
+      "id": "45271038-fe21-5980-a3e3-72d0623d8c43",
+      "ref": "1458b31",
+      "title": "The shores roar"
+    },
+    {
+      "id": "5c52c256-e09b-501c-9d29-8c18c3368fe7",
+      "ref": "1458b5-15",
+      "title": "Euclides the elder"
+    },
+    {
+      "id": "b634feba-424f-5dfe-a8ba-15f8611e8eb2",
+      "ref": "1459a4-8",
+      "title": "The greatest thing by far"
+    },
+    {
+      "id": "3a944e90-ec3a-5172-8501-b88b74da8b10",
+      "ref": "1459a4-8",
+      "title": "To be a master of metaphor"
+    },
+    {
+      "id": "b98ce3e3-6031-57f4-8477-8fbd8c83438a",
+      "ref": "1459b1-7",
+      "title": "Many tragedies from the Little Iliad"
+    },
+    {
+      "id": "530d59f1-feff-53dd-aa4b-2845ecfc3311",
+      "ref": "1459b31-1460a5",
+      "title": "The heroic meter"
+    },
+    {
+      "id": "daf9148e-5657-558e-9b01-8753515a3226",
+      "ref": "1460a17-26",
+      "title": "Lies as they should be told"
+    },
+    {
+      "id": "7a6deac2-9fc7-5069-86b7-f5d2fd422ebc",
+      "ref": "1460a18-26",
+      "title": "Lies as they should be told"
+    },
+    {
+      "id": "aaf52958-d0f8-5a87-9dc8-6ebf82104dd3",
+      "ref": "1460a26-29",
+      "title": "Probable impossibilities"
+    },
+    {
+      "id": "40c724aa-ac3d-5af8-9eac-d4a2c07571d1",
+      "ref": "1460a27-32",
+      "title": "Irrational things outside the plot"
+    },
+    {
+      "id": "8aa12ce2-e2ff-51cf-99a4-a57d6b2086b2",
+      "ref": "1460a5-11",
+      "title": "The poet should say very little"
+    },
+    {
+      "id": "9fd17160-687f-591a-9b2c-a731a20a5888",
+      "ref": "1460b32-35",
+      "title": "As they ought to be"
+    },
+    {
+      "id": "a6b0bea0-17d0-5154-a48a-eac8d72f9a69",
+      "ref": "1460b32-36",
+      "title": "As they ought to be"
+    },
+    {
+      "id": "8c25faf0-4803-5665-a82b-c2b9e3c7a66d",
+      "ref": "1461a20-21",
+      "title": "She alone"
+    },
+    {
+      "id": "7ac89e7c-b454-5b55-892a-b8190a063eec",
+      "ref": "1461a21-23",
+      "title": "By accent"
+    },
+    {
+      "id": "b5f8555c-1c93-511b-9105-0556d8284976",
+      "ref": "1461a23-25",
+      "title": "By punctuation"
+    },
+    {
+      "id": "c14fe767-60af-5bf2-9bc1-561a50aea81b",
+      "ref": "1461a31-b3",
+      "title": "In how many senses"
+    },
+    {
+      "id": "ccef7094-9756-5ded-b82a-5a0cdfffa955",
+      "ref": "1461a35-b9",
+      "title": "Icarius and Icadius"
+    },
+    {
+      "id": "2a491d59-13b4-5e52-88f2-f157e26ff44c",
+      "ref": "1461b22-25",
+      "title": "Five criticisms, twelve solutions"
+    },
+    {
+      "id": "5c7201c2-6e26-5f73-a023-8f694a1321c0",
+      "ref": "1461b26-1462a4",
+      "title": "The ape"
+    },
+    {
+      "id": "e25cc67d-dd74-5cef-9b10-468ac95764ba",
+      "ref": "1461b26-1462a4",
+      "title": "Which is better?"
+    }
+  ]
+}

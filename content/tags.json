@@ -23,7 +23,7 @@
     {
       "id": "geography",
       "label": "Geography",
-      "summary": "Regions of the Homeric world, real and cosmic."
+      "summary": "Regions of the Greek world, real and cosmic."
     },
     {
       "id": "life",
@@ -38,17 +38,27 @@
     {
       "id": "idea",
       "label": "Ideas",
-      "summary": "The values and concepts the poem turns on."
+      "summary": "The values and concepts the texts turn on."
     },
     {
       "id": "language",
       "label": "Language & Style",
-      "summary": "How the poem is made."
+      "summary": "How poems are made: words, formulas, figures and meter."
     },
     {
       "id": "narrative",
       "label": "Narrative",
-      "summary": "How stories are told inside the poem."
+      "summary": "How stories are told."
+    },
+    {
+      "id": "literature",
+      "label": "Literature & the Arts",
+      "summary": "Poets, writers, artists and performers; genres and works, and their history."
+    },
+    {
+      "id": "poetics",
+      "label": "The Art of Poetry",
+      "summary": "Aristotle's terms and ideas: imitation, plot, character, the tragic emotions, recognition, diction."
     },
     {
       "id": "reception",
@@ -183,6 +193,30 @@
       "summary": "Peoples who live by the stream of Oceanus."
     },
     {
+      "id": "theban",
+      "facet": "allegiance",
+      "label": "Theban",
+      "summary": "Thebes and its royal houses."
+    },
+    {
+      "id": "spartan",
+      "facet": "allegiance",
+      "label": "Spartan",
+      "summary": "Laconia and Sparta."
+    },
+    {
+      "id": "dorian",
+      "facet": "allegiance",
+      "label": "Dorian",
+      "summary": "The Dorian Greeks: Megarians, Spartans, Corinthians and their colonies in Sicily."
+    },
+    {
+      "id": "non-greek",
+      "facet": "allegiance",
+      "label": "Non-Greek",
+      "summary": "Peoples the Greeks called barbarians: Carthaginians, Illyrians, Taurians."
+    },
+    {
       "id": "king",
       "facet": "role",
       "label": "King",
@@ -284,6 +318,42 @@
       "facet": "family",
       "label": "Family of Chryses",
       "summary": "The priest of Apollo and his daughter."
+    },
+    {
+      "id": "labdacids",
+      "facet": "family",
+      "label": "House of Laius",
+      "summary": "Labdacus, Laius, Oedipus and his children, and Creon, brother of Jocasta."
+    },
+    {
+      "id": "house-of-amphiaraus",
+      "facet": "family",
+      "label": "House of Amphiaraus",
+      "summary": "Amphiaraus the seer, his wife Eriphyle, and their sons Alcmaeon and Amphilochus."
+    },
+    {
+      "id": "house-of-odysseus",
+      "facet": "family",
+      "label": "House of Odysseus",
+      "summary": "Laertes, Odysseus and Penelope, Telemachus, and Telegonus, his son by Circe."
+    },
+    {
+      "id": "aeolids",
+      "facet": "family",
+      "label": "House of Aeolus",
+      "summary": "The children of Aeolus and their lines: Athamas, Sisyphus, Salmoneus, Tyro, Melanippe."
+    },
+    {
+      "id": "house-of-cadmus",
+      "facet": "family",
+      "label": "House of Cadmus",
+      "summary": "Cadmus and Harmonia, their daughters Semele, Ino, Agave and Autonoe, and their grandsons Dionysus and Pentheus."
+    },
+    {
+      "id": "heraclidae",
+      "facet": "family",
+      "label": "Children of Heracles",
+      "summary": "The descendants of Heracles who returned to the Peloponnese."
     },
     {
       "id": "troad",
@@ -529,6 +599,39 @@
       "summary": "Sarpedon's land on the Xanthus."
     },
     {
+      "id": "greek-west",
+      "facet": "geography",
+      "label": "The Greek West",
+      "summary": "Sicily, South Italy, and the colonies beyond: Massalia."
+    },
+    {
+      "id": "sicily",
+      "facet": "geography",
+      "label": "Sicily",
+      "summary": "The island and its Greek and Carthaginian cities.",
+      "parent": "greek-west"
+    },
+    {
+      "id": "megarid",
+      "facet": "geography",
+      "label": "Megarid",
+      "summary": "Megara and its land, between Attica and the Isthmus.",
+      "parent": "mainland-greece"
+    },
+    {
+      "id": "illyria",
+      "facet": "geography",
+      "label": "Illyria",
+      "summary": "The lands up the Adriatic coast, north of Epirus.",
+      "parent": "mainland-greece"
+    },
+    {
+      "id": "africa",
+      "facet": "geography",
+      "label": "Africa",
+      "summary": "Egypt, Libya and Carthage."
+    },
+    {
       "id": "centaur",
       "facet": "life",
       "label": "Centaur",
@@ -677,6 +780,12 @@
       "facet": "practice",
       "label": "Warfare",
       "summary": "Raids, ambush, and battle."
+    },
+    {
+      "id": "festival",
+      "facet": "practice",
+      "label": "Festivals & games",
+      "summary": "Festivals, contests and games: the Pythian Games, the dramatic contests."
     },
     {
       "id": "honor",
@@ -829,6 +938,181 @@
       "summary": "Events told twice, lines repeated."
     },
     {
+      "id": "poet",
+      "facet": "literature",
+      "label": "Poet",
+      "summary": "Composers of verse: epic, lyric, tragic and comic."
+    },
+    {
+      "id": "epic-poet",
+      "facet": "literature",
+      "label": "Epic poet",
+      "summary": "Poets of hexameter narrative.",
+      "parent": "poet"
+    },
+    {
+      "id": "tragic-poet",
+      "facet": "literature",
+      "label": "Tragic poet",
+      "summary": "Poets of tragedy.",
+      "parent": "poet"
+    },
+    {
+      "id": "comic-poet",
+      "facet": "literature",
+      "label": "Comic poet",
+      "summary": "Poets of comedy.",
+      "parent": "poet"
+    },
+    {
+      "id": "lyric-poet",
+      "facet": "literature",
+      "label": "Lyric poet",
+      "summary": "Poets of song: dithyramb, nome, elegy and choral lyric.",
+      "parent": "poet"
+    },
+    {
+      "id": "prose-writer",
+      "facet": "literature",
+      "label": "Prose writer",
+      "summary": "Writers of prose: mimes, dialogues and treatises."
+    },
+    {
+      "id": "historian",
+      "facet": "literature",
+      "label": "Historian",
+      "summary": "Writers of history, which tells what has happened."
+    },
+    {
+      "id": "philosopher",
+      "facet": "literature",
+      "label": "Philosopher",
+      "summary": "Thinkers, in prose or verse."
+    },
+    {
+      "id": "sophist",
+      "facet": "literature",
+      "label": "Sophist",
+      "summary": "Teachers of rhetoric and argument, and critics of the poets."
+    },
+    {
+      "id": "artist",
+      "facet": "literature",
+      "label": "Painter & sculptor",
+      "summary": "Painters and sculptors."
+    },
+    {
+      "id": "performer",
+      "facet": "literature",
+      "label": "Actor & performer",
+      "summary": "Actors, rhapsodes and musicians."
+    },
+    {
+      "id": "genre",
+      "facet": "literature",
+      "label": "Genre",
+      "summary": "Kinds of poetry and prose."
+    },
+    {
+      "id": "tragedy",
+      "facet": "literature",
+      "label": "Tragedy",
+      "summary": "Tragedy: its plays, poets, parts and theory.",
+      "parent": "genre"
+    },
+    {
+      "id": "comedy",
+      "facet": "literature",
+      "label": "Comedy",
+      "summary": "Comedy: its plays, poets and origins.",
+      "parent": "genre"
+    },
+    {
+      "id": "epic",
+      "facet": "literature",
+      "label": "Epic",
+      "summary": "Epic poetry: Homer, the Cycle, and the theory of epic.",
+      "parent": "genre"
+    },
+    {
+      "id": "play",
+      "facet": "literature",
+      "label": "Play",
+      "summary": "Tragedies, comedies and satyr plays, by title."
+    },
+    {
+      "id": "poem",
+      "facet": "literature",
+      "label": "Poem",
+      "summary": "Epics, dithyrambs and other poems, by title."
+    },
+    {
+      "id": "epic-cycle",
+      "facet": "literature",
+      "label": "Epic Cycle",
+      "summary": "The epics that told the rest of the Trojan story: Cypria, Aethiopis, Little Iliad, Sack of Troy, Nostoi, Telegony."
+    },
+    {
+      "id": "lost-work",
+      "facet": "literature",
+      "label": "Lost work",
+      "summary": "Works that survive only in fragments, quotations and reports."
+    },
+    {
+      "id": "literary-history",
+      "facet": "literature",
+      "label": "Literary history",
+      "summary": "How the genres began and grew."
+    },
+    {
+      "id": "imitation",
+      "facet": "poetics",
+      "label": "Imitation",
+      "summary": "Imitation (μίμησις), its media, objects and manners."
+    },
+    {
+      "id": "plot",
+      "facet": "poetics",
+      "label": "Plot & structure",
+      "summary": "The plot and the arrangement of the incidents."
+    },
+    {
+      "id": "character-and-thought",
+      "facet": "poetics",
+      "label": "Character & thought",
+      "summary": "Character (ἦθος) and thought (διάνοια)."
+    },
+    {
+      "id": "tragic-emotions",
+      "facet": "poetics",
+      "label": "Pity, fear & catharsis",
+      "summary": "The emotions tragedy arouses, and what it does with them."
+    },
+    {
+      "id": "recognition",
+      "facet": "poetics",
+      "label": "Reversal & recognition",
+      "summary": "Reversal, recognition and suffering: the parts of the complex plot."
+    },
+    {
+      "id": "diction",
+      "facet": "poetics",
+      "label": "Diction",
+      "summary": "The kinds of words and the excellence of diction."
+    },
+    {
+      "id": "parts-of-speech",
+      "facet": "poetics",
+      "label": "Letters & parts of speech",
+      "summary": "Letters, syllables, connectives, nouns, verbs and inflections."
+    },
+    {
+      "id": "theater",
+      "facet": "poetics",
+      "label": "Theater & performance",
+      "summary": "Stage, actors, chorus, masks and contests."
+    },
+    {
       "id": "philosophy",
       "facet": "reception",
       "label": "Philosophy",
@@ -857,6 +1141,18 @@
       "facet": "reception",
       "label": "Rhetoric",
       "summary": "Homer as a model and quarry for orators."
+    },
+    {
+      "id": "homeric-problems",
+      "facet": "reception",
+      "label": "Homeric problems",
+      "summary": "Objections to Homer and their solutions, from Protagoras to the Poetics and the scholars of Alexandria."
+    },
+    {
+      "id": "literary-criticism",
+      "facet": "reception",
+      "label": "Literary criticism",
+      "summary": "The theory and judgment of poetry."
     }
   ]
 }

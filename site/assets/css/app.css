@@ -495,6 +495,7 @@ a.ref { font-weight: 500; white-space: nowrap; }
 }
 .book-tile.available { color: var(--accent-contrast); background: var(--accent); border-color: transparent; }
 .book-tile.available:active { opacity: 0.8; }
+.book-tile.numeral { font-size: 15px; letter-spacing: -0.02em; }
 .book-tile .bn { position: absolute; bottom: 2px; right: 5px; font-family: var(--ui); font-size: 9px; font-weight: 600; opacity: 0.7; font-variant-numeric: tabular-nums; }
 .stat-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
 @media (min-width: 600px) { .stat-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } .stat-grid.four { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
@@ -571,6 +572,50 @@ a.ref { font-weight: 500; white-space: nowrap; }
 @keyframes flash { 0%, 30% { background: var(--highlight); } 100% { background: transparent; } }
 .w.active { background: var(--accent-soft) !important; color: var(--accent); }
 .reader-foot { margin: 40px 0 0; padding: 18px 0; border-top: 0.5px solid var(--separator-strong); font-size: 13px; color: var(--text-2); line-height: 1.5; }
+
+/* Prose (the Poetics): chapter numerals, quotation labels, and the running-text layout */
+.book-letter.numeral { font-size: 24px; letter-spacing: -0.02em; }
+.reader-head .book-letter.numeral { font-size: 30px; }
+.speaker.qsrc { flex-wrap: wrap; row-gap: 2px; }
+.speaker.qsrc .qmark { font-family: var(--serif); font-size: 20px; line-height: 0; color: var(--gold); transform: translateY(4px); }
+.speaker.qsrc .qcite { color: var(--text-2); text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 12.5px; }
+.speaker.qsrc a[data-e] + .qcite::before { content: '·'; margin-right: 6px; color: var(--text-3); }
+.speaker.qsrc .qline { color: var(--text-2); font-variant-numeric: tabular-nums; letter-spacing: 0.02em; text-transform: none; }
+.reader:not([data-layout="run"]) .run { display: none; }
+.reader[data-layout="run"] .scene > .line, .reader[data-layout="run"] .scene > .speaker { display: none; }
+.run { display: grid; grid-template-columns: minmax(0, 1fr); row-gap: 10px; }
+.run p { margin: 0; }
+.run-g { font-family: var(--greek); font-size: 1em; line-height: 1.75; }
+.run-e { font-family: var(--serif); font-size: 0.95em; line-height: 1.65; }
+.reader[data-mode="both"] .run-e { color: var(--text-2); font-size: 0.88em; }
+.reader[data-mode="grc"] .run-e, .reader[data-mode="en"] .run-g { display: none; }
+@media (min-width: 900px) {
+  .view:has(> .reader[data-layout="run"][data-mode="both"]) { max-width: 1240px; }
+  .reader[data-layout="run"][data-mode="both"] .reader-head, .reader[data-layout="run"][data-mode="both"] .scene-head { max-width: 760px; }
+  .reader[data-mode="both"] .run { grid-template-columns: minmax(0, 1.08fr) minmax(0, 1fr); column-gap: 36px; }
+  .reader[data-mode="both"] .run-e { color: var(--text); font-size: 0.9em; line-height: 1.75; }
+}
+.run-q { grid-column: 1 / -1; }
+.run-q .speaker { margin-left: 0; }
+.rl { border-radius: 3px; -webkit-box-decoration-break: clone; box-decoration-break: clone; scroll-margin-top: 120px; }
+.rl .rn {
+  font-family: var(--ui); font-size: 10.5px; font-weight: 500; color: var(--text-3); font-variant-numeric: tabular-nums;
+  vertical-align: 0.45em; line-height: 1; border: 0; background: none; padding: 0 3px 0 1px; cursor: pointer;
+  user-select: none; -webkit-user-select: none;
+}
+.rl .rn.dim { display: none; }
+.reader[data-numbers="all"] .rl .rn.dim { display: inline; }
+.reader[data-numbers="off"] .rl .rn { display: none; }
+.rl .w { cursor: pointer; border-radius: 4px; transition: background 0.15s; }
+.rl .w:hover { background: var(--fill); }
+.rl .w.nm, .rl .en-nm { color: var(--accent); }
+.rl .en-nm, .rl .en-tm { cursor: pointer; }
+@media (hover: hover) { .rl .en-tm:hover { text-decoration: underline dotted var(--text-3); text-underline-offset: 3px; } }
+.reader[data-names="off"] .rl .w.nm, .reader[data-names="off"] .rl .en-nm { color: inherit; }
+.rl.hl { background: var(--highlight); }
+.rl.sel { background: var(--select); }
+.rl.sel-start .rn, .rl.sel-end .rn { display: inline; color: var(--accent); font-weight: 700; }
+.rl.flash { animation: flash 1.8s ease; }
 
 .read-progress { position: absolute; left: 0; right: 0; bottom: -0.5px; height: 2px; pointer-events: none; }
 .read-progress i { display: block; height: 100%; background: var(--accent); transform-origin: left; transform: scaleX(0); opacity: 0.8; }

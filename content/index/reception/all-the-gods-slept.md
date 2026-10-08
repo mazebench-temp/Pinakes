@@ -2,7 +2,7 @@
 title: “All the gods” or “the other gods”? (2.1)
 greek: ἄλλοι μέν ῥα θεοί
 kind: note
-tags: [scholarship, philosophy]
+tags: [scholarship, philosophy, homeric-problems]
 summary: Our text opens Book 2 with "the other gods and men slept all night long". Aristotle quotes the line with "all" in place of "the other", and defends it: "all" is a metaphor for "many".
 source: Aristotle, Poetics 25, 1461a16–20
 of: [zeus, hypnos, aristotle]

@@ -2,7 +2,7 @@
 title: Aristotle on the gods' wine
 greek: οὐ πίνουσʼ αἴθοπα οἶνον
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: The gods, says Book 5, drink no wine; yet Ganymede was carried off to pour wine for Zeus. Aristotle's Poetics answers the critics who found a contradiction. The word follows the custom of the language, as men who work iron are still called bronze-smiths, or else it is a metaphor.
 source: Aristotle, Poetics 25, 1461a27–31
 of: [ichor, nectar, wine, ganymede, aristotle]

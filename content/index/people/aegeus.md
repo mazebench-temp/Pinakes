@@ -3,7 +3,7 @@ title: Aegeus
 greek: Αἰγεύς
 kind: person
 tags: [athenian, king]
-summary: King of Athens and father of [[Theseus]], named only through the patronymic Αἰγεΐδης.
+summary: King of Athens and father of [[Theseus]]. Homer names him only in his son's patronymic, Αἰγεΐδης; in Euripides' Medea he gives Medea a refuge in Athens.
 grc: [Αἰγεΐδην]
 en: [Aegeus]
 relations:

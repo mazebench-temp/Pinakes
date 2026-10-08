@@ -7,7 +7,7 @@ summary: A Trojan who comes against the Achaean wall with [[Asius]] and is kille
 aliases: [Orestes, Orestes companion of Asius]
 grc: [Ὀρέστην]
 # Ὀρέστην at 5.705 is the Achaean killed by Hector and Ares (orestes-the-achaean).
-except: [5.705]
+except: [5.705, Poetics 1447a8-1462b19]
 en: [Orestes]
 relations:
   - companion: asius (12.139)

@@ -1,0 +1,26 @@
+# Aristotle, Poetics, Chapter 3 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1448a19	There is, further, a third difference: the manner in which one might imitate
+1448a20	each of these objects. For in the same media one may imitate the same objects
+1448a21	at times by narrating, either becoming someone else,
+1448a22	as Homer does, or remaining oneself without change,
+1448a23	or by presenting all as acting and doing,
+1448a24	†those who imitate†. Imitation, then, lies in these three differences,
+1448a25	as we said at the beginning: the media, the objects and the manner. So
+1448a26	in one respect Sophocles would be the same kind of imitator as Homer, since both
+1448a27	imitate serious people, and in another the same as Aristophanes, since both imitate people
+1448a28	acting and doing. This, some say, is why such works are called
+1448a29	dramas, because they imitate people doing (drōntes). This is also why
+1448a30	both tragedy and comedy are claimed by the
+1448a31	Dorians (comedy by the Megarians, both those here, who say it began
+1448a32	when they had their democracy, and those from
+1448a33	Sicily, for the poet Epicharmus came from there, who lived long before
+1448a34	Chionides and Magnes; and tragedy by some
+1448a35	of those in the Peloponnese), taking the names as their evidence. They
+1448a36	say that they call the outlying villages kōmai, while the Athenians
+1448a37	call them dēmoi, on the grounds that comedians were named not from revelling (kōmazein)
+1448a38	but from wandering from village to village when they were scorned and kept out of the city;
+1448b1	and that for “doing” they themselves say dran, while the Athenians
+1448b2	say prattein. About the differences of imitation, then,
+1448b3	how many they are and what they are, let this be enough.

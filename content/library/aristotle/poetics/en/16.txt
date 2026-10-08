@@ -1,0 +1,43 @@
+# Aristotle, Poetics, Chapter 16 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1454b19	What recognition is has been said before. As for the kinds
+1454b20	of recognition, first is the least artistic, and the one most
+1454b21	used for want of resource: recognition through signs. Of these, some
+1454b22	are congenital, such as “the spearhead which the Earth-born bear”, or stars
+1454b23	such as Carcinus uses in his Thyestes; others are acquired, and of these
+1454b24	some are on the body, such as scars, and others external, such as
+1454b25	necklaces, and as in the Tyro, through the little boat. These
+1454b26	too can be used better or worse: Odysseus, for example,
+1454b27	was recognized through his scar in one way by the nurse and in another
+1454b28	by the swineherds. Recognitions made for the sake of proof are less artistic,
+1454b29	and so are all such, while those that come out of a reversal, like
+1454b30	the one in the Bath, are better. Second come those
+1454b31	contrived by the poet, and therefore inartistic. For example,
+1454b32	Orestes in the Iphigenia makes it known that he is
+1454b33	Orestes: she is recognized through the letter, but he
+1454b34	himself says what the poet wants, and
+1454b35	not the plot; so it comes close to the fault just mentioned,
+1454b36	for he might as well have brought some tokens too. So too in Sophocles' Tereus
+1454b37	the voice of the shuttle. The third kind is through memory, when someone feels something
+1455a1	on seeing something, as in the Cyprians of Dicaeogenes, where he saw
+1455a2	the painting and wept, and the one in the tale told to Alcinous, where, hearing
+1455a3	the lyre player, he remembered and shed tears, and so they were recognized.
+1455a4	The fourth comes from reasoning, as in the Libation Bearers: that
+1455a5	someone like her has come; no one is like her but Orestes;
+1455a6	so he has come. And that of Polyidus the sophist about
+1455a7	Iphigenia: for it was probable, he said, that Orestes would reason
+1455a8	that his sister had been sacrificed and that it was his lot to be sacrificed too. And in
+1455a9	the Tydeus of Theodectes, that having come to find his son he himself
+1455a10	is to die. And the one in the Phinidae: on seeing the place
+1455a11	the women inferred their fate, that it was destined they would die
+1455a12	there, for they had also been exposed there. There is also a
+1455a13	composite kind, made from a false inference by the audience, as in Odysseus
+1455a14	the False Messenger: that he strings the bow and no one else does is contrived by the poet, a premise, and so is his saying he would recognize the bow, which he had not
+1455a15	seen; but to make it seem that he would be recognized by that means, through this,
+1455a16	is a false inference. Best of all recognitions is the one
+1455a17	that arises from the incidents themselves, when the astonishment comes about through
+1455a18	probable events, as in Sophocles' Oedipus and in the Iphigenia,
+1455a19	for it is probable that she should wish to send a letter. Only recognitions of this kind
+1455a20	do without contrived signs and
+1455a21	necklaces. Second are those from reasoning.

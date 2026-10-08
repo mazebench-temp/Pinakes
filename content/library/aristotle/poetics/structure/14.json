@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    {"from": "1453b1", "to": "1453b13", "title": "Fear and Pity from the Plot", "summary": "The better poet raises fear and pity from the plot itself, so that one who only hears the story of Oedipus shudders; the merely monstrous has no part in tragedy."},
+    {"from": "1453b14", "to": "1453b21", "title": "Within the Family", "summary": "The pitiable deeds are those among people dear to each other: brother against brother, son against father, mother against son."},
+    {"from": "1453b22", "to": "1453b35", "title": "Knowing and Not Knowing", "summary": "The traditional stories must be kept, Clytemnestra killed by Orestes and Eriphyle by Alcmaeon, but well used: the deed may be done knowingly, like Medea's, in ignorance, like Oedipus' or Telegonus', or prevented by recognition."},
+    {"from": "1453b36", "to": "1454a8", "title": "The Ranking", "summary": "Worst is to know and not to act, as Haemon with Creon; then to act knowing; better, to act in ignorance; best, recognition just in time: Merope in the Cresphontes, Iphigenia and her brother, the Helle."},
+    {"from": "1454a9", "to": "1454a15", "title": "Why So Few Houses", "summary": "The poets found such plots by chance and keep returning to the houses in which such sufferings happened."}
+  ],
+  "speeches": [],
+  "days": []
+}

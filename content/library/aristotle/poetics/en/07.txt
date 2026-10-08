@@ -1,0 +1,37 @@
+# Aristotle, Poetics, Chapter 7 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1450b21	These things defined, let us next say what kind of
+1450b22	structure the incidents must have, since this
+1450b23	is the first and most important thing in tragedy. We have laid it down
+1450b24	that tragedy is an imitation of an action that is complete and whole
+1450b25	and has some magnitude; for a thing can be whole and have no
+1450b26	magnitude. A whole is what has a beginning and a middle and
+1450b27	an end. A beginning is what does not itself necessarily follow something else,
+1450b28	but after which something else naturally is or comes to be;
+1450b29	an end, on the contrary, is what itself naturally follows something else, either
+1450b30	by necessity or as a rule, but has nothing else after it;
+1450b31	and a middle is what itself follows something else and has something else after it.
+1450b32	Well-constructed plots, then, must neither begin wherever it happens
+1450b33	nor end wherever it happens, but must follow the
+1450b34	patterns we have described. Further, since a beautiful thing, whether a living creature or anything
+1450b35	that is composed of parts, must not only have these parts
+1450b36	in order but also have a magnitude that is not arbitrary (for
+1450b37	beauty lies in magnitude and order; so neither could a very small
+1450b38	creature be beautiful, for our view of it is blurred as it comes close to
+1450b39	an imperceptible moment of time, nor a very large one, for
+1451a1	the view does not come all at once, and its unity
+1451a2	and wholeness are lost to the viewers, as if there were a creature ten thousand stades long),
+1451a3	so, just as with bodies and with
+1451a4	creatures there must be magnitude, but one that can be taken in at a glance, so
+1451a5	with plots there must be length, but one that can easily
+1451a6	be remembered. The limit of length set by the competitions
+1451a7	and the attention of the audience is no concern of the art: if a hundred
+1451a8	tragedies had to compete, they would compete by the water clock,
+1451a9	†as they say happened once before†. The limit set by the very nature
+1451a10	of the thing is this: the greater, so long as it remains clear as a whole,
+1451a11	is always the more beautiful in its magnitude; and to give a simple
+1451a12	definition, the magnitude in which, as events follow one after another by probability or
+1451a13	necessity, it comes about that there is a change to good fortune from
+1451a14	misfortune, or from good fortune to misfortune, is an adequate
+1451a15	limit of magnitude.

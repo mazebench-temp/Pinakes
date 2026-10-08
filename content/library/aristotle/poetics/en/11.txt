@@ -1,0 +1,33 @@
+# Aristotle, Poetics, Chapter 11 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1452a22	Reversal is the change to the opposite
+1452a23	in what is being done, as has been said, and this too
+1452a24	must come, as we say, by probability or necessity; as in the
+1452a25	Oedipus, the man who comes to cheer Oedipus and to free him
+1452a26	from his fear about his mother does the opposite by revealing who he was;
+1452a27	and in the Lynceus, one man is being led off to be put to death,
+1452a28	and Danaus follows to kill him, but it came about, from what
+1452a29	had been done, that the second was killed and the first saved. Recognition,
+1452a30	as the name itself indicates, is a change from ignorance to knowledge,
+1452a31	leading to friendship or to enmity, among those marked out for good fortune or
+1452a32	misfortune. The finest recognition is when it comes
+1452a33	together with a reversal, as does the one in the Oedipus. There are
+1452a34	other recognitions too: for there can be recognition of lifeless and
+1452a35	random things †it is as has been said, it happens†, and of whether someone has done
+1452a36	something or not. But the one that belongs most
+1452a37	to the plot and most to the action is the one we have described:
+1452a38	for such a recognition and reversal will bring pity
+1452b1	or fear (and tragedy is taken to be an imitation of such actions), since
+1452b2	misfortune and good fortune too will turn on such things.
+1452b3	Since recognition is recognition of persons, some
+1452b4	are of one person by the other only, when it is clear who the other
+1452b5	is, while sometimes both must recognize each other:
+1452b6	thus Iphigenia was recognized by Orestes
+1452b7	from the sending of the letter, but for him to be recognized by
+1452b8	Iphigenia another recognition was needed. These, then, are two
+1452b9	parts of the plot, reversal
+1452b10	and recognition; a third is suffering. Of these, reversal
+1452b11	and recognition have been discussed; suffering is an action
+1452b12	that destroys or gives pain, such as deaths in full view,
+1452b13	and agonies and woundings and all such things.

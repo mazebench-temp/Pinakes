@@ -1,0 +1,80 @@
+# Aristotle, Poetics, Chapter 6 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1449b21	Of the art of imitation in hexameters, and of
+1449b22	comedy, we shall speak later. Let us speak of tragedy,
+1449b23	gathering from what has been said the definition
+1449b24	of its essence that emerges. Tragedy, then, is an imitation of an action that is serious
+1449b25	and complete and has magnitude, in embellished language, with each
+1449b26	of its kinds used separately in the parts; by people acting and not through narration;
+1449b27	accomplishing through pity and fear the
+1449b28	catharsis of such feelings. By “embellished language” I mean language
+1449b29	that has rhythm and melody [and song]; and by “with its kinds
+1449b30	separately”, that some parts are accomplished through meters alone, and others
+1449b31	again through song. Since it is people acting who produce the imitation,
+1449b32	first, of necessity, one part of tragedy would be the adornment
+1449b33	of spectacle; then song and diction, for in these
+1449b34	they produce the imitation. By diction I mean the actual
+1449b35	composition of the verses; by song, something whose power
+1449b36	is entirely evident. Since it is an imitation of action, and action is done
+1449b37	by certain people acting, who must be of a certain kind in
+1449b38	both their character and their thought (for it is through these that we say
+1450a1	actions too are of a certain kind [the causes of actions are by nature two,
+1450a2	thought and character], and it is by their actions that
+1450a3	all people succeed or fail), the imitation of the
+1450a4	action is the plot; for by plot I mean here the
+1450a5	arrangement of the incidents; by characters, that in virtue of which
+1450a6	we say the people acting are of a certain kind; and by thought, all the places where in speaking
+1450a7	they demonstrate something or declare an opinion. So
+1450a8	every tragedy must have six parts, by which it is a tragedy of a certain kind:
+1450a9	these are plot, characters, diction,
+1450a10	thought, spectacle and song. The media in which they imitate are two
+1450a11	parts, the manner is one, the objects are three, and
+1450a12	there is nothing besides these. These kinds, then, †not a few of them†,
+1450a13	so to speak, have used; for †spectacle has everything†, and
+1450a14	character and plot and diction and song and thought alike.
+1450a15	The most important of these is the structure of the incidents.
+1450a16	For tragedy is an imitation not of people but of actions
+1450a17	and of life [and happiness and unhappiness lie in action,
+1450a18	and the end is a kind of action, not a quality;
+1450a19	people are of a certain kind according to their characters, but according to their
+1450a20	actions they are happy or the opposite]. So it is not in order to imitate characters
+1450a21	that they act; rather they take in the characters
+1450a22	for the sake of the actions. So the incidents and the plot are the end
+1450a23	of tragedy, and the end is the most important thing of all. Again,
+1450a24	without action there could be no tragedy, but without characters
+1450a25	there could; for the tragedies of most of the moderns are without character,
+1450a26	and in general many poets are like this, just as among
+1450a27	painters Zeuxis stands to Polygnotus: for
+1450a28	Polygnotus is a good painter of character, while the painting of Zeuxis has
+1450a29	no character at all. Again, if someone sets in a row speeches full of character, well made
+1450a30	in diction and in thought, he will not achieve what was
+1450a31	the work of tragedy; far better will be the tragedy that uses these
+1450a32	less well but has a plot and a structure
+1450a33	of incidents. Besides this, the most powerful means by which tragedy sways the soul
+1450a34	are parts of the plot, reversals and
+1450a35	recognitions. Another sign: those who attempt to compose
+1450a36	can achieve precision in diction and in characters before
+1450a37	they can construct the incidents, as was true of the first poets
+1450a38	almost without exception. The plot, then, is the first principle and, as it were, the soul of
+1450a39	tragedy, and characters come second (it is much the same
+1450b1	in painting: if someone smeared on the most beautiful
+1450b2	colors at random, he would not give as much pleasure as one who outlined
+1450b3	an image in white). It is an imitation of action, and it is because of the action
+1450b4	above all that it imitates the people acting. Third is thought: this
+1450b5	is being able to say what the matter admits and what fits it,
+1450b6	which in speeches is the task of the art of politics and of rhetoric:
+1450b7	the old poets made their characters speak like statesmen, the poets
+1450b8	of today like rhetoricians. Character is what
+1450b9	reveals choice, of what kind it is [in cases where it is not clear whether
+1450b10	someone chooses or avoids]; so speeches have no character in which there is nothing at all that the speaker chooses or avoids;
+1450b11	and thought is found where people demonstrate that something is or is not,
+1450b12	or declare something universal. Fourth †of the verbal parts†
+1450b13	is diction. By diction I mean, as was said before,
+1450b14	expression through words, which has the same power in verse and
+1450b15	in prose. Of the remaining parts,
+1450b16	song is the greatest of the embellishments; spectacle sways the soul,
+1450b17	but it is the least artistic and the least proper to the art of poetry:
+1450b18	for the power of tragedy exists even without a performance and
+1450b19	actors, and besides, for the production
+1450b20	of spectacle the art of the costume-maker is more decisive than that of the poets.

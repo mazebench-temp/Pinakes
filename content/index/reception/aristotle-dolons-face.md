@@ -2,7 +2,7 @@
 title: Aristotle on Dolon's looks
 greek: εἶδος μὲν ἔην κακός
 kind: anecdote
-tags: [philosophy, scholarship]
+tags: [philosophy, scholarship, homeric-problems]
 summary: Homer calls Dolon “ill-favored to look at, but swift-footed”. Aristotle's Poetics explains the phrase by a local usage of the word for looks: it means not a misshapen body but an ugly face, “for the Cretans call a handsome face εὐειδές”.
 source: Aristotle, Poetics 25, 1461a12–14
 of: [dolon, eidos, aristotle]

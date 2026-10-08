@@ -1,0 +1,28 @@
+# Aristotle, Poetics, Chapter 19 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1456a33	The other parts have now been discussed; it remains to speak of diction
+1456a34	and thought. What concerns thought may be left to
+1456a35	my discussions of rhetoric, for it belongs more properly to that
+1456a36	inquiry. Under thought fall all the effects that must be produced
+1456a37	by speech. Their parts are
+1456a38	proving and refuting and arousing feelings (such as
+1456b1	pity or fear or anger and the like), and also magnifying
+1456b2	and minimizing. It is clear that in the incidents too
+1456b3	the same principles must be used when things must be made pitiable or terrible
+1456b4	or great or probable; except that there is this
+1456b5	difference, that the one must be apparent without explanation, while the other
+1456b6	must be produced in speech by the speaker and arise from
+1456b7	the speech. For what would the speaker's work be,
+1456b8	if things appeared as they should even without the speech? Of matters concerning
+1456b9	diction, one subject of study is the forms of utterance,
+1456b10	knowledge of which belongs to the art of delivery and to whoever
+1456b11	has the master art of it: for instance, what a command is, and a prayer, and
+1456b12	a statement, and a threat, and a question, and an answer, and anything
+1456b13	else of the kind. For on the ground of knowing these or not knowing them
+1456b14	no criticism is brought against the art of poetry that is worth
+1456b15	taking seriously. For who would suppose it a fault, what
+1456b16	Protagoras criticizes, that thinking to pray, Homer gives an order
+1456b17	when he says “Sing, goddess, the wrath”? For to tell someone,
+1456b18	he says, to do something or not to is an order. So let it be passed over
+1456b19	as a subject of another art and not of poetry.

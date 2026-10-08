@@ -1,0 +1,230 @@
+{
+  "id": "aristotle.poetics",
+  "author": "aristotle",
+  "title": "Poetics",
+  "greek": "Περὶ ποιητικῆς",
+  "aliases": [
+    "poetics",
+    "poet",
+    "poet.",
+    "de arte poetica",
+    "ars poetica (aristotle)"
+  ],
+  "genre": "Treatise",
+  "meter": "Prose",
+  "date": "c. 335–323 BCE",
+  "summary": "Aristotle's lectures on the art of poetry: poetry as imitation and how the arts differ by it, the origins of tragedy and comedy, the definition of tragedy and its six parts, the plot above all, the best tragic plots, character, recognition, diction and metaphor, epic and its unity, Homer's problems and their solutions, and a closing judgment that tragedy is higher than epic. A second book, on comedy, is lost.",
+  "citation": {
+    "scheme": "bekker",
+    "book": "Chapter",
+    "unit": "line",
+    "abbr": "Poet.",
+    "example": "Poet. 1451b5",
+    "about": "Bekker page, column and line, after Immanuel Bekker's Berlin edition of Aristotle (1831)"
+  },
+  "display": "prose",
+  "bookCount": 26,
+  "books": {
+    "1": {
+      "from": "1447a8",
+      "letter": "α′",
+      "title": "Poetry as Imitation: The Media",
+      "greek": "πᾶσαι τυγχάνουσιν οὖσαι μιμήσεις",
+      "summary": "The subject and the method. Epic, tragedy, comedy, dithyramb and most music for the pipe and the lyre are all imitations, differing in the media they imitate in, the objects, and the manner. The media are rhythm, speech and melody, alone or combined; there is no name for imitation in bare speech or meter alone, and Homer and Empedocles have nothing in common but the meter."
+    },
+    "2": {
+      "from": "1448a1",
+      "letter": "β′",
+      "title": "The Objects of Imitation",
+      "greek": "ἢ βελτίονας ἢ χείρονας ἢ καὶ τοιούτους",
+      "summary": "Imitators represent people in action, and people are either better than we are, worse, or like us: so Polygnotus, Pauson and Dionysius in painting, Homer, Hegemon and Cleophon in poetry. Tragedy and comedy differ in just this, comedy imitating the worse and tragedy the better."
+    },
+    "3": {
+      "from": "1448a19",
+      "letter": "γ′",
+      "title": "The Manner of Imitation",
+      "greek": "δρῶντας γὰρ μιμοῦνται",
+      "summary": "The third difference is the manner: narrating, as Homer does, now in his own person and now through a character, or presenting all the people as acting. So Sophocles is an imitator like Homer in one respect and like Aristophanes in another. Hence, some say, the name drama, and the Dorian claims to tragedy and comedy."
+    },
+    "4": {
+      "from": "1448b4",
+      "letter": "δ′",
+      "title": "The Origins of Poetry",
+      "greek": "τό τε γὰρ μιμεῖσθαι σύμφυτον τοῖς ἀνθρώποις",
+      "summary": "Poetry springs from two natural causes: the instinct to imitate, by which we first learn, and the pleasure everyone takes in imitations. Serious poets imitated noble actions in hymns and encomia, lighter ones mean actions in invective; Homer was the master of both, with the Iliad and the Odyssey and with the Margites. Tragedy grew from the leaders of the dithyramb and comedy from the phallic songs, until tragedy, having found its nature, stopped growing: Aeschylus brought in a second actor, Sophocles a third and scene painting, and the iambic meter replaced the tetrameter."
+    },
+    "5": {
+      "from": "1449a32",
+      "letter": "ε′",
+      "title": "Comedy; Epic and Tragedy",
+      "greek": "τὸ γελοῖόν ἐστιν ἁμάρτημά τι καὶ αἶσχος ἀνώδυνον",
+      "summary": "Comedy imitates the worse, not in every kind of badness but in the ridiculous, a fault or ugliness that causes no pain. Its early history is obscure because it was not taken seriously: Epicharmus and Phormis began making plots in Sicily, and Crates first at Athens. Epic agrees with tragedy in imitating serious people in meter, but differs in using one meter, in narrating, and in length: tragedy tries to keep within a single circuit of the sun."
+    },
+    "6": {
+      "from": "1449b21",
+      "letter": "ϛ′",
+      "title": "The Definition of Tragedy",
+      "greek": "ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας",
+      "summary": "Tragedy is the imitation of a serious and complete action of some magnitude, in embellished language, in dramatic form, through pity and fear accomplishing the catharsis of such feelings. It has six parts: plot, character, thought, diction, song and spectacle. The plot, the arrangement of the incidents, is the first and the soul of tragedy, for tragedy imitates not people but action and life; character comes second, thought third. Spectacle is the least artistic and belongs least to poetry."
+    },
+    "7": {
+      "from": "1450b21",
+      "letter": "ζ′",
+      "title": "Wholeness and Magnitude",
+      "greek": "ὅλον δέ ἐστιν τὸ ἔχον ἀρχὴν καὶ μέσον καὶ τελευτήν",
+      "summary": "The action must be whole, with a beginning, a middle and an end. Beauty lies in magnitude and order, so the plot, like a living creature, must be neither too small to be seen nor too large to be taken in: long enough for a change from bad fortune to good, or from good to bad, by probability or necessity."
+    },
+    "8": {
+      "from": "1451a16",
+      "letter": "η′",
+      "title": "The Unity of Plot",
+      "greek": "μῦθος δʼ ἐστὶν εἷς οὐχ ὥσπερ τινὲς οἴονται ἐὰν περὶ ἕνα ᾖ",
+      "summary": "A plot is not one because it is about one man. The poets of Heracleids and Theseids went wrong; Homer, whether by art or by nature, saw the truth, and did not put into the Odyssey everything that happened to Odysseus, but built it around one action, as he did the Iliad. The parts must be so joined that to move or remove one disturbs the whole."
+    },
+    "9": {
+      "from": "1451a36",
+      "letter": "θ′",
+      "title": "Poetry and History",
+      "greek": "φιλοσοφώτερον καὶ σπουδαιότερον ποίησις ἱστορίας ἐστίν",
+      "summary": "The poet's task is to say not what has happened but what could happen, by probability or necessity. The historian and the poet differ not by verse or prose (Herodotus in verse would still be history) but in that one tells what Alcibiades did and the other what such a person would do; so poetry is more philosophical and more serious than history. Names, invented plots like Agathon's Antheus, episodic plots, and the marvelous that seems designed, like the statue of Mitys falling on his murderer."
+    },
+    "10": {
+      "from": "1452a12",
+      "letter": "ι′",
+      "title": "Simple and Complex Plots",
+      "greek": "εἰσὶ δὲ τῶν μύθων οἱ μὲν ἁπλοῖ οἱ δὲ πεπλεγμένοι",
+      "summary": "Plots are simple or complex. In a simple plot the change of fortune comes without reversal or recognition; in a complex one with either or both, and these must arise from the structure of the plot itself, because of what went before, not merely after it."
+    },
+    "11": {
+      "from": "1452a22",
+      "letter": "ια′",
+      "title": "Reversal, Recognition, Suffering",
+      "greek": "ἔστι δὲ περιπέτεια μὲν ἡ εἰς τὸ ἐναντίον τῶν πραττομένων μεταβολή",
+      "summary": "Reversal is a change to the opposite of what is being done, as when the messenger comes to cheer Oedipus and does the opposite, or in the Lynceus. Recognition is a change from ignorance to knowledge, best when it comes with a reversal, as in the Oedipus; Iphigenia is recognized by Orestes through her letter. The third part of the plot is suffering, a destructive or painful act."
+    },
+    "12": {
+      "from": "1452b14",
+      "letter": "ιβ′",
+      "title": "The Parts of a Tragedy",
+      "greek": "πρόλογος ἐπεισόδιον ἔξοδος χορικόν",
+      "summary": "The parts of tragedy by quantity: prologue, episode, exodos and choral song, the choral song divided into parodos and stasimon, with songs from the stage and kommoi in some plays."
+    },
+    "13": {
+      "from": "1452b28",
+      "letter": "ιγ′",
+      "title": "The Best Tragic Plot",
+      "greek": "διʼ ἁμαρτίαν τινά",
+      "summary": "The finest tragedy is complex and imitates fearful and pitiable things. Neither good men passing from good fortune to bad, nor the wicked from bad to good, nor the very wicked falling, moves pity and fear; the hero must be a man between, not outstanding in virtue, who falls not through vice but through some error, like Oedipus and Thyestes. The best tragedies are about a few houses, Alcmeon, Oedipus, Orestes, Meleager, Thyestes, Telephus, and Euripides, for all his faults, is the most tragic of the poets. The double plot of the Odyssey suits comedy better."
+    },
+    "14": {
+      "from": "1453b1",
+      "letter": "ιδ′",
+      "title": "Pity and Fear from the Plot",
+      "greek": "ὅταν δʼ ἐν ταῖς φιλίαις ἐγγένηται τὰ πάθη",
+      "summary": "Pity and fear should come from the plot itself, so that one who only hears the story of Oedipus shudders. The tragic deeds are those among kin: a brother killing a brother, a son his father, a mother her son. The deed may be done knowingly, like Medea's, or in ignorance, like Oedipus'; or it may be about to be done and prevented by recognition, which is best, as with Merope and her son in the Cresphontes and Iphigenia and her brother."
+    },
+    "15": {
+      "from": "1454a16",
+      "letter": "ιε′",
+      "title": "Character",
+      "greek": "ἀεὶ ζητεῖν ἢ τὸ ἀναγκαῖον ἢ τὸ εἰκός",
+      "summary": "Characters must be good, appropriate, like, and consistent, and the poet should seek the necessary or the probable in character as in plot. The resolution of a plot must come from the plot itself, not from the machine, as in the Medea and the departure in the Iliad. Like good portrait painters, poets should make people better than they are, as Agathon and Homer did Achilles."
+    },
+    "16": {
+      "from": "1454b19",
+      "letter": "ιϛ′",
+      "title": "Kinds of Recognition",
+      "greek": "πασῶν δὲ βελτίστη ἀναγνώρισις ἡ ἐξ αὐτῶν τῶν πραγμάτων",
+      "summary": "Recognition by signs, like Odysseus' scar; by the poet's contrivance, like Orestes' in the Iphigenia; by memory, as in the Cyprians and the story told to Alcinous; by reasoning, as in the Choephori; by false reasoning, as in Odysseus the False Messenger. Best of all is recognition that arises from the incidents themselves, as in Sophocles' Oedipus and the Iphigenia."
+    },
+    "17": {
+      "from": "1455a22",
+      "letter": "ιζ′",
+      "title": "The Poet at Work",
+      "greek": "διὸ εὐφυοῦς ἡ ποιητική ἐστιν ἢ μανικοῦ",
+      "summary": "The poet should put the scene before his eyes, as Carcinus failed to do with Amphiaraus, and act out the feelings himself; poetry belongs to the gifted or the inspired. He should first set out the story in general terms, as the Iphigenia can be told, then add names and episodes. The story of the Odyssey is short."
+    },
+    "18": {
+      "from": "1455b24",
+      "letter": "ιη′",
+      "title": "Complication and Resolution",
+      "greek": "ἔστι δὲ πάσης τραγῳδίας τὸ μὲν δέσις τὸ δὲ λύσις",
+      "summary": "Every tragedy has a complication and a resolution. There are four kinds of tragedy, complex, of suffering, of character, and of spectacle. An epic structure should not be made into a tragedy, as those found who dramatized the whole Sack of Troy. The chorus should be treated as one of the actors, as by Sophocles, not as by Euripides, still less with interludes."
+    },
+    "19": {
+      "from": "1456a33",
+      "letter": "ιθ′",
+      "title": "Thought and Diction",
+      "greek": "μῆνιν ἄειδε θεά",
+      "summary": "Thought belongs to the art of rhetoric. Diction includes the forms of utterance, command, prayer, statement, threat, which belong to the art of delivery, so that Protagoras' complaint that Homer gives a command when he means to pray, in 'Sing, goddess, the wrath', is no fault of poetry."
+    },
+    "20": {
+      "from": "1456b20",
+      "letter": "κ′",
+      "title": "The Parts of Diction",
+      "greek": "στοιχεῖον συλλαβὴ σύνδεσμος ὄνομα ῥῆμα",
+      "summary": "The parts of diction: the letter, vowels, semivowels and mutes; the syllable; the connective; the article; the noun; the verb; the case; and the statement, which may be one by signifying one thing or by being joined together, as the Iliad is."
+    },
+    "21": {
+      "from": "1457a31",
+      "letter": "κα′",
+      "title": "Kinds of Nouns; Metaphor",
+      "greek": "μεταφορὰ δέ ἐστιν ὀνόματος ἀλλοτρίου ἐπιφορά",
+      "summary": "Nouns are simple or compound. Every noun is standard, a rare word, a metaphor, an ornament, coined, lengthened, shortened or altered. Metaphor is the transfer of a word belonging to something else, from genus to species, species to genus, species to species, or by analogy, as the cup is to Dionysus as the shield is to Ares, and old age is the evening of life."
+    },
+    "22": {
+      "from": "1458a18",
+      "letter": "κβ′",
+      "title": "Clarity and Distinction",
+      "greek": "πολὺ δὲ μέγιστον τὸ μεταφορικὸν εἶναι",
+      "summary": "The excellence of diction is to be clear and not mean. Standard words give clarity; rare words, metaphors and lengthenings give distinction, but all metaphor makes a riddle and all rare words a barbarism. Euclides mocked such licenses, Aeschylus and Euripides show how one word can lift or flatten a line, and Ariphrades mocked the tragedians. Greatest by far is a gift for metaphor, which cannot be learned from another."
+    },
+    "23": {
+      "from": "1459a17",
+      "letter": "κγ′",
+      "title": "The Unity of Epic",
+      "greek": "θεσπέσιος ἂν φανείη Ὅμηρος παρὰ τοὺς ἄλλους",
+      "summary": "Epic plots too must be built dramatically around one whole action, not like histories, which tell one period, as the sea battle at Salamis and the battle with the Carthaginians in Sicily fell at the same time without one end. Here too Homer seems divine beside the others: he did not try to tell the whole war, while the poets of the Cypria and the Little Iliad offer matter for many tragedies."
+    },
+    "24": {
+      "from": "1459b8",
+      "letter": "κδ′",
+      "title": "Epic and Homer",
+      "greek": "δεδίδαχεν δὲ μάλιστα Ὅμηρος καὶ τοὺς ἄλλους ψευδῆ λέγειν ὡς δεῖ",
+      "summary": "Epic has the same kinds and parts as tragedy, except song and spectacle; the Iliad is simple and full of suffering, the Odyssey complex and full of character. It differs in length, for it can show many things happening at once, and in meter, the heroic hexameter. Homer alone knows how little the poet should speak in his own person. Epic admits the irrational, the source of wonder, as in the pursuit of Hector, and Homer has taught the others how to tell lies as they should; a probable impossibility is to be preferred to an improbable possibility."
+    },
+    "25": {
+      "from": "1460b6",
+      "letter": "κε′",
+      "title": "Problems and Solutions",
+      "greek": "περὶ δὲ προβλημάτων καὶ λύσεων",
+      "summary": "How to answer the critics. The poet imitates things as they were or are, as they are said to be, or as they ought to be, and does so in language with rare words, metaphors and other licenses. Errors of art differ from errors by accident. Answers drawn from what ought to be, from what people say, from what was once the custom, from rare words (the mules, Dolon's looks), metaphor (all the gods slept), accent, punctuation, ambiguity and usage; the impossible, the irrational, the harmful, the contradictory and the inartistic."
+    },
+    "26": {
+      "from": "1461b26",
+      "letter": "κϛ′",
+      "title": "Tragedy or Epic?",
+      "greek": "πότερον δὲ βελτίων ἡ ἐποποιικὴ μίμησις ἢ ἡ τραγική",
+      "summary": "Is epic the better imitation, being less vulgar and addressed to a better audience, while tragedy needs actors who overdo their gestures? The fault lies in the performers, not the poetry. Tragedy has everything epic has and music and spectacle besides, it is vivid in reading as in performance, it reaches its end in less space, and it is more unified; so it is the better, since it best achieves the end of the art."
+    }
+  },
+  "editions": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "label": "Greek",
+      "name": "Kassel",
+      "credit": "R. Kassel, Aristotelis De arte poetica liber, Oxford Classical Texts (1965), via the Perseus Digital Library (CC BY-SA 4.0). Kassel numbers every fifth Bekker line; the lines between are divided in proportion to their length.",
+      "path": "grc/{book}.txt"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "label": "English",
+      "name": "Claude",
+      "credit": "New line-for-line translation by Claude (Anthropic), 2026. See TRANSLATION.md.",
+      "path": "en/{book}.txt"
+    }
+  ],
+  "structure": "structure/{book}.json"
+}

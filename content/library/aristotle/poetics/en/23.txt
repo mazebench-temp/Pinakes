@@ -1,0 +1,31 @@
+# Aristotle, Poetics, Chapter 23 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1459a17	As for the art of imitation in narrative and in meter, the
+1459a18	plots should be constructed, as in tragedies,
+1459a19	dramatically, about one action that is whole and complete,
+1459a20	with a beginning, middle parts and an end, so that, like one whole living creature,
+1459a21	it may produce its proper pleasure; this is clear. Nor should the compositions be like histories,
+1459a22	in which one must set out not one action
+1459a23	but one period of time, all that happened in it to one man
+1459a24	or more, each of these events related to the others as chance would have it. For just as
+1459a25	the sea battle at Salamis was fought at the same time
+1459a26	as the battle with the Carthaginians in Sicily, though they in no way
+1459a27	tended to the same end, so too in successive
+1459a28	times one thing sometimes happens after another, without any single
+1459a29	end coming from them. Yet most poets, one might say, do
+1459a30	this. That is why, as we have already said, in this respect too
+1459a31	Homer would seem divine beside the others, in not trying to make even the war, though
+1459a32	it had a beginning and an end, into a whole poem; for the plot
+1459a33	would have been too large and not easily taken in at a glance,
+1459a34	or, if moderate in magnitude, entangled by its variety.
+1459a35	As it is, he has taken one part and used many of the others
+1459a36	as episodes, such as the catalogue of ships and other episodes,
+1459a37	with which he divides up his poem. The others compose about one man and
+1459b1	one period and one action of many parts, like the poet of the
+1459b2	Cypria and of the Little Iliad. So from
+1459b3	the Iliad and the Odyssey one tragedy is made from each,
+1459b4	or two at most, but many from the Cypria, and from the Little
+1459b5	Iliad [[more than] eight, such as the Judgment of Arms, the Philoctetes,
+1459b6	the Neoptolemus, the Eurypylus, the Beggary, the Laconian Women,
+1459b7	the Sack of Troy and the Sailing Away [and the Sinon and the Trojan Women]].

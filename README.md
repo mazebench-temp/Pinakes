@@ -1,9 +1,10 @@
 # Pinakes · Πίνακες
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
-catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 13: the Greek text, a
-new line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
-custom, word, epithet, formula, story and idea in them.
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 13, and Aristotle's
+Poetics: the Greek texts, new line-for-line translations, a word-by-word lexicon of the Iliad, and an
+index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
+them.
 
 ```sh
 npm run dev      # build, serve at http://localhost:5178, rebuild and reload on every change
@@ -20,15 +21,17 @@ Requires Node 20 or later. There are no dependencies to install.
 - **Reader**: Greek over English, line by line, or side by side on wide screens. Tap a Greek word
   for its dictionary form, gloss and parse. Tap a name for its index entry. Tap a line number to quote
   a line or a passage. Scene headings, speaker labels and the days of the action come from the
-  book's structure file.
-- **Index**: entries in 18 kinds, from gods and heroes to Greek words, epithets, rituals and textual
-  notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
+  book's structure file. Prose (the Poetics) can also be read as running text, Greek beside English,
+  cited by Bekker page and line, with every quotation of Homer and the poets labeled with its source.
+- **Index**: entries in 21 kinds, from gods and heroes to Greek words, epithets, rituals, quotations,
+  works and textual notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
 - **Scopes**: every article can be read whole, or at an author, a work or a book, chosen as a path
   (Homer › Iliad › 3, with "About" for Homer or the Iliad as a whole). The general article (etymology,
   family, myth, later tradition) is shared; what the entry does in each book is a note of its own. The
   chosen scope is remembered, so studying a book keeps every article on it.
-- **Myths**: every story told, remembered or foretold, placed in mythic time from the Primordial age
-  and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony.
+- **Myths**: every story told, remembered, foretold or cited, placed in mythic time from the
+  Primordial age and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony
+  and the return of the Heraclidae, and then in history, from archaic Greece to Aristotle's century.
 - **Tags**: faceted and nested. A tag includes its children, and tags can be combined.
 - **Search**: across the index, the text (Greek with or without accents, English, or transliterated
   Greek) and the lexicon.
@@ -44,10 +47,11 @@ content/
   library/<author>/<work>/work.json        editions, citation scheme, book titles
   library/<author>/<work>/grc/01.txt       Greek, one numbered verse per row
   library/<author>/<work>/en/01.txt        English, aligned to the Greek numbering
-  library/<author>/<work>/structure/01.json   scenes, speeches, days
+  library/<author>/<work>/structure/01.json   scenes, speeches, days, quotations
   library/<author>/<work>/lexicon/01.json     lemma, gloss and parse for every word
   library/<author>/<work>/TRANSLATION.md      translation conventions
   library/<author>/<work>/notes/02/<id>.md    what an index entry is and does in Book 2
+  library/<author>/<work>/notes/<id>.md       ... in the work as a whole
   index/<folder>/<id>.md                   index entries (see docs/index-guide.md)
   quotes/<work>.json                       the quote registry
   kinds.json  tags.json  periods.json      taxonomies
@@ -67,12 +71,16 @@ capitalized Greek word that no entry covers yet (`site/data/report.json`, and th
 **Another work** (the Odyssey, the Homeric Hymns, Plato). Create `content/library/<author>/<work>/`
 with a `work.json` like the Iliad's. Give it its own `citation` scheme and `aliases` (so that
 `{{quote:Od. 1.1-10}}` resolves) and add its texts. Entries default to the Iliad; set `work:` in an
-entry's front matter, or name the work in a reference, to cite another. The periods of the Myths
-already run to the Telegony, ready for the Odyssey's stories.
+entry's front matter, or name the work in a reference, to cite another. The Poetics shows how a prose
+work fits: Bekker lines as line ids, chapters as books, and a running-text reader
+(`docs/extending.md`).
 
 ## Sources and credits
 
 - Greek text: D. B. Monro and T. W. Allen, *Homeri Opera*, Oxford Classical Texts (3rd ed., 1920), as
   digitized by the Perseus Digital Library (CC BY-SA).
-- Translation, lexicon, index and articles: written for this project by Claude (Anthropic), 2026.
-  See `content/library/homer/iliad/TRANSLATION.md` for the conventions.
+- Greek text of the Poetics: R. Kassel, *Aristotelis De arte poetica liber*, Oxford Classical Texts
+  (1965), as digitized by the Perseus Digital Library (CC BY-SA 4.0).
+- Translations, lexicon, index and articles: written for this project by Claude (Anthropic), 2026.
+  See `content/library/homer/iliad/TRANSLATION.md` and `content/library/aristotle/poetics/TRANSLATION.md`
+  for the conventions.

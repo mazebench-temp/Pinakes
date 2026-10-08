@@ -29,8 +29,10 @@ occurrences automatically, because the concordance runs over every available boo
 A new work gets its own folder, `work.json` (with `aliases` so that `{{quote:Od. 9.1-10}}`
 resolves), and optionally `TRANSLATION.md`, which the About page renders.
 
-The Myths timeline already runs from the Primordial age to the Telegony. Stories from the Odyssey
-go into the same periods, and the Odyssey's own action goes under `odyssey`.
+The Myths timeline runs from the Primordial age through the Telegony and the return of the
+Heraclidae, and then through history, from archaic Greece to Aristotle's century. Stories from the
+Odyssey go into the same periods, and the Odyssey's own action goes under `odyssey`; a later author's
+examples (the plots Aristotle cites) take the mode `example`.
 
 ## Scopes: one article, read at many levels
 
@@ -54,19 +56,33 @@ the Index can be limited to an author, a work or a book (`site/assets/js/lib/sco
 notes are picked up by folder. The general article stays general: etymology, family, myth and
 later tradition; everything that happens in a particular book goes in that book's note.
 
-## Prose (Plato, Aristotle, Herodotus)
+## Prose (Aristotle's Poetics, and after it Plato and Herodotus)
 
-Prose is cited by sections rather than lines: Stephanus pages (`Republic 327a`), Bekker pages
-(`Poetics 1450a15`), or book.chapter.section (`Herodotus 7.134.1`). Three pieces generalize:
+The Poetics is the first prose work, cited by Bekker page, column and line (`Poetics 1451a36`). It
+shows how a prose work fits a library built for verse:
 
-1. **Section ids.** `readLines()` in `scripts/lib/content.mjs` requires integer line numbers.
-   Prose needs string ids (`327a`) with an explicit order, which is the order of the file.
-2. **References.** `parseRef()` in `scripts/lib/refs.mjs` parses `book.line`. A work's
-   `citation.scheme` (`"stephanus"`, `"bekker"`, `"book.chapter.section"`) would select a parser,
-   and `refLines()` would expand a range by position in the file, not by arithmetic.
-3. **Reader layout.** `work.display` is already `"verse"` for Homer. A `"prose"` layout would
-   render paragraphs with section markers in the margin instead of one row per line. Tap-a-word,
-   names, quotes and the index work the same way, because they all key on section id and token.
+1. **Line ids.** Each row of `grc/NN.txt` and `en/NN.txt` begins with its Bekker label
+   (`1447a8<TAB>…`). The labels are coded as integers, page × 100, plus 50 in column b, plus the line
+   (1447a8 = 144708, 1447b8 = 144758), so line maps, numeric ranges and "every fifth line" work as
+   they do for verse (`parseBekker`, `bekkerLabel` in `scripts/lib/refs.mjs`).
+2. **References.** `citation.scheme: "bekker"` in `work.json` selects the parser. A chapter is the
+   work's "book"; each `books.N` entry gives the chapter's first line (`from`) and its Greek numeral
+   (`letter`). `parseRef()` reads `Poetics 1451a36-b5` and ranges across pages, finds the chapter that
+   holds the first line, and expands ranges over the lines of the text.
+3. **Reader layout.** `display: "prose"` adds a running-text layout: each section of the structure
+   file becomes a Greek and an English paragraph, side by side on wide screens, with the line labels
+   inline. Names, quotes and the index work as for verse, because they key on line and token; a work
+   without `lexicon/` files has no word glosses and no vocabulary.
+4. **Quotations.** A structure file may list the passages that quote other authors:
+   `{"from": "1457b10", "to": "1457b10", "source": "homer", "entry": "here-my-ship-stands",
+   "cite": "Od. 1.185 = 24.308"}`. `source` and `entry` are entry ids; `ref` instead of `cite` links a
+   line of a work in the library (`"ref": "Il. 2.272"`). The quoted lines must carry quotation marks
+   in the Greek, except an indirect quotation, which is marked `"marks": 0`. The reader labels the
+   lines with the poet and the source, and the entry page lists where the entry is quoted.
+
+Plato would need Stephanus sections (`Republic 327a`) and Herodotus book.chapter.section
+(`7.134.1`): a parser in `refs.mjs` for each scheme, coding the labels as ordered integers in the same
+way.
 
 ## Mathematics (Euclid, Archimedes)
 

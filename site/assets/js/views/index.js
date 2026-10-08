@@ -2,7 +2,7 @@ import { el, esc, icon, on, debounce, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
-import { ALL, presentIn, linesIn, firstKeyIn, firstRefIn, remember, label as scopeLabel, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
+import { ALL, presentIn, linesIn, firstKeyIn, firstLabelIn, remember, label as scopeLabel, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
 
 /** Catalog order: ignore leading punctuation and articles ("The sea" files under S). */
 export const sortKey = t => t.normalize('NFD').replace(/[\u0300-\u036F]/g, '').replace(/^[^A-Za-z0-9]+/, '').replace(/^(the|a|an)\s+/i, '');
@@ -84,7 +84,7 @@ export async function render(route, { setQuery }) {
   };
   const draw = () => {
     const lines = e => linesIn(e, S, cat);
-    const row = (e, opts) => entryRow(e, cat, { ...opts, count: lines(e), first: S === ALL ? e.first : firstRefIn(e, S, cat) });
+    const row = (e, opts) => entryRow(e, cat, { ...opts, count: lines(e), first: S === ALL ? e.where ?? e.first : firstLabelIn(e, S, cat) });
     let list = inScope().filter(e => kind === 'all' || e.kind === kind);
     if (q) list = list.map(e => [e, matchEntry(e, q)]).filter(([, s]) => s > 0).sort((a, b) => b[1] - a[1] || a[0].title.localeCompare(b[0].title)).map(([e]) => e);
     else if (sort === 'freq') list.sort((a, b) => lines(b) - lines(a) || a.title.localeCompare(b.title));

@@ -1,0 +1,94 @@
+# Aristotle, Poetics, Chapter 25 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1460b6	As for problems and their solutions, of how many and what
+1460b7	kinds they are would become clear if we consider them as follows. Since
+1460b8	the poet is an imitator, just like a painter or any
+1460b9	other maker of images, he must always imitate one of three
+1460b10	things: things as they were or are, or as people say and
+1460b11	think they are, or as they ought to be. These are expressed in a diction in which there are
+1460b12	rare words and metaphors and many modifications of diction,
+1460b13	for we allow these to the poets. Besides, correctness
+1460b14	is not the same in the art of politics and in the art of poetry, nor in any other
+1460b15	art and in poetry. Within the art of poetry itself there are two kinds of error:
+1460b16	one that belongs to the art itself, the other incidental. If
+1460b17	the poet chose to imitate … through incapacity, the error belongs to the art itself; but if
+1460b18	the error lies in a wrong choice, such as a horse with both right legs
+1460b19	thrown forward at once, or an error in some particular art,
+1460b20	such as medicine or some other art [or impossibilities have been composed]
+1460b21	of any kind, it does not belong to the art itself. So the criticisms in
+1460b22	the problems must be met by examining them on these grounds. First,
+1460b23	those that concern the art itself. Impossibilities have been composed: that is an error;
+1460b24	but it is correct if it achieves the end of the art (the
+1460b25	end has been stated), that is, if in this way it makes this or another part
+1460b26	more astonishing. An example is the pursuit of Hector. But if the
+1460b27	end could have been achieved better, or no less well, even by keeping to
+1460b28	the art concerned with these things, it is not correct; for one should,
+1460b29	if possible, make no error at all. Again, of which kind is the
+1460b30	error, one that concerns the art or incidental to something else?
+1460b31	For it is a lesser fault not to know that a female deer has no horns than
+1460b32	to paint one unrecognizably. Besides, if the criticism is that
+1460b33	something is not true, perhaps it is as it ought to be: as Sophocles said
+1460b34	that he made people as they ought to be, and Euripides as they are; that is how
+1460b35	to answer it. If it is neither, say that this is what people say, as with stories about the gods;
+1460b36	for perhaps it is neither better to tell them so nor true, but, as may well be,
+1461a1	as Xenophanes thought; but at any rate people say so. Other things are perhaps not better
+1461a2	but were so at the time, as with the arms: “and their spears
+1461a3	upright on their butt-spikes”; for that was the custom then,
+1461a4	as it is still now among the Illyrians. As to whether something has been
+1461a5	said or done well or not well by someone, one must look not only at
+1461a6	the deed or saying itself, to see whether it is good or
+1461a7	bad, but also at the one who does or says it, to whom, or
+1461a8	when, or by what means, or for what purpose: whether to bring about a greater
+1461a9	good, or to avert a greater evil. Other problems must be resolved
+1461a10	by looking at the diction: by a rare word, as in “the mules
+1461a11	first”; for perhaps he means not the mules but the
+1461a12	guards; and of Dolon, “who was ill-favored
+1461a13	to look at”, meaning not that his body was misshapen but that his face was ugly,
+1461a14	for the Cretans call a fair face eueides, “well-favored”; and
+1461a15	“mix the wine stronger” means not undiluted, as for drunkards, but
+1461a16	quicker. Other things are said by metaphor, for example “All
+1461a17	the gods and men slept all night long”, while at the same time
+1461a18	he says “Whenever he looked out over the Trojan plain, the din of flutes
+1461a19	and pipes”; for “all” is said instead of “many” by
+1461a20	metaphor, since all is a kind of many. And “she alone has
+1461a21	no share” is by metaphor, for the best known is alone. By
+1461a22	accent, as Hippias of Thasos solved “and we grant him
+1461a23	to win glory” and “part of which rots in the rain”. Others
+1461a24	by punctuation, as in Empedocles: “At once things grew mortal that before
+1461a25	had learned to be immortal, and things unmixed before were mixed”. Others by ambiguity:
+1461a26	“the greater part of the night has gone”, for “greater” is ambiguous.
+1461a27	Others by the custom of the language. Mixed wine is still called
+1461a28	wine, and so the poet composed “a greave of newly wrought tin”;
+1461a29	and those who work iron are called bronze-smiths, and so it is said that
+1461a30	Ganymede “pours wine for Zeus”, though the gods do not drink wine. This
+1461a31	could also be by metaphor. And when a word
+1461a32	seems to signify a contradiction, one must consider in how many ways it might signify
+1461a33	this in the passage: as in “there the bronze
+1461a34	spear was stopped”, in how many senses it is possible to be stopped there, this way or that, as
+1461a35	one would best suppose; the opposite of the way
+1461b1	Glaucon describes, when some people make an unreasonable assumption and,
+1461b2	having passed judgment themselves, argue from it, and, as though the poet had said whatever
+1461b3	they think, find fault if it contradicts their own notion.
+1461b4	This has happened over Icarius. They think he was a Laconian,
+1461b5	so it is absurd that Telemachus did not meet him when he went to
+1461b6	Lacedaemon. But perhaps it is as the Cephallenians
+1461b7	say: they say that Odysseus married among them, and that
+1461b8	the man was Icadius, not Icarius; so it is through a mistake that the
+1461b9	problem arises, †it is likely†. In general, the impossible must be referred to
+1461b10	poetry, or to what is better, or to opinion.
+1461b11	For poetry, a convincing impossibility is preferable
+1461b12	to what is unconvincing though possible; … that people should be such as Zeuxis
+1461b13	painted them, but it is better so: for the model should surpass the reality.
+1461b14	The irrational should be referred to what people say; so too by showing that sometimes it is not irrational,
+1461b15	for it is probable that things should happen even contrary to probability. Things
+1461b16	said in contradiction should be examined as refutations are in
+1461b17	arguments: whether it is the same thing, in relation to the same thing, and in the same way; so that
+1461b18	†he himself† contradicts either what he himself says or what a sensible person would assume.
+1461b19	Criticism of irrationality and of wickedness is right when, there being
+1461b20	no necessity, the poet makes use of the irrational, as Euripides
+1461b21	does of Aegeus, or of baseness, as in the Orestes that of Menelaus.
+1461b22	Criticisms, then, are brought on five grounds: that things are
+1461b23	impossible, or irrational, or harmful, or contradictory, or
+1461b24	contrary to correctness in the art. The solutions must be looked for
+1461b25	under the headings we have listed. They are twelve.

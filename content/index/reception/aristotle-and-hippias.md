@@ -2,7 +2,7 @@
 title: Did Zeus lie? (2.15)
 greek: δίδομεν δέ οἱ εὖχος ἀρέσθαι
 kind: note
-tags: [scholarship, philosophy]
+tags: [scholarship, philosophy, homeric-problems]
 summary: Aristotle knew a version of Zeus' message to the Dream that ended "and we grant him to win glory", words not found in our text of 2.15. Hippias of Thasos cleared Zeus of lying by reading the verb with a different accent.
 source: Aristotle, Poetics 25, 1461a21–23; Sophistical Refutations 4, 166b6–8
 of: [dream, agamemnons-dream, zeus, pseudos, aristotle]

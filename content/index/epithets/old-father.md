@@ -6,6 +6,7 @@ tags: [speech, kinship]
 summary: ἄττα, “daddy, old father,” a younger man's affectionate address to an older one: in the Iliad only to Phoenix, by Achilles and by Menelaus, and in the Odyssey by Telemachus to the swineherd Eumaeus.
 aliases: [atta, father, daddy]
 grc: [ἄττα]
+except: [Poetics 1451b8]
 en: [old father]
 of: [phoenix]
 ---

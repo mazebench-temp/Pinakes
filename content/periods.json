@@ -18,7 +18,12 @@
     {
       "id": "after",
       "label": "After Troy",
-      "summary": "Homecomings, wanderings, and endings."
+      "summary": "Homecomings, wanderings, endings, and the generations after."
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "summary": "What has happened, as Aristotle puts it, rather than what could: the historical past, from the archaic poets to his own century."
     },
     {
       "id": "timeless",
@@ -62,6 +67,14 @@
       "sources": "Hesiod, Theogony 820–880; Odyssey 7.56–60, 11.305–320; Apollodorus 1.6–7"
     },
     {
+      "id": "prometheus",
+      "age": "divine",
+      "label": "Prometheus & the First Mortals",
+      "greek": "Προμηθεύς",
+      "summary": "Prometheus tricks Zeus at Mecone, steals fire for mortals and is chained to a rock; Pandora is made; Deucalion and Pyrrha survive the flood.",
+      "sources": "Hesiod, Theogony 507–616 and Works and Days 42–105; Aeschylus, Prometheus Bound; Apollodorus 1.7"
+    },
+    {
       "id": "first-kings",
       "age": "heroic",
       "label": "The First Kings",
@@ -70,12 +83,36 @@
       "sources": "Iliad 2.546–551, 20.215–240"
     },
     {
+      "id": "danaids",
+      "age": "heroic",
+      "label": "Io & the Danaids",
+      "greek": "Δαναΐδες",
+      "summary": "Io, loved by Zeus and driven over the earth; her descendants Danaus and Aegyptus; the fifty daughters, of whom only Hypermnestra spared her husband Lynceus; the line of Argive kings that leads to Perseus.",
+      "sources": "Aeschylus, Suppliants and Prometheus Bound 561–886; Apollodorus 2.1"
+    },
+    {
+      "id": "cadmus",
+      "age": "heroic",
+      "label": "Cadmus & Early Thebes",
+      "greek": "Κάδμος",
+      "summary": "Cadmus kills the serpent of Ares and sows its teeth, from which the Earth-born spring; Semele bears Dionysus; Pentheus resists the god; Amphion and Zethus wall the city; Niobe boasts and loses her children.",
+      "sources": "Iliad 24.602–617; Odyssey 11.260–265; Euripides, Bacchae; Apollodorus 3.4–5"
+    },
+    {
       "id": "perseus",
       "age": "heroic",
       "label": "Perseus",
       "greek": "Περσεύς",
       "summary": "Danae, the Gorgon, and Andromeda: the earliest great hero of Argos.",
       "sources": "Iliad 14.319–320; Hesiod, Shield 216–237; Apollodorus 2.4"
+    },
+    {
+      "id": "aeolids",
+      "age": "heroic",
+      "label": "The House of Aeolus",
+      "greek": "Αἰολίδαι",
+      "summary": "The children of Aeolus and their families: Athamas, Phrixus and Helle and the golden ram; Tyro, who bore Neleus and Pelias to Poseidon; Melanippe and her twins; Sisyphus and Salmoneus.",
+      "sources": "Odyssey 11.235–259; Hesiod, Catalogue of Women; Apollodorus 1.7.3–1.9"
     },
     {
       "id": "pelops",
@@ -206,6 +243,14 @@
       "sources": "Proclus, Chrestomathy; Odyssey 3–4, 11.405–434"
     },
     {
+      "id": "orestes",
+      "age": "after",
+      "label": "Orestes & Iphigenia",
+      "greek": "Ὀρέστης",
+      "summary": "The children of Agamemnon: Orestes kills Aegisthus and his mother Clytemnestra, is driven by the Erinyes and tried at Athens, and finds his sister Iphigenia, priestess of Artemis in the land of the Taurians.",
+      "sources": "Odyssey 1.29–43, 3.303–310; Aeschylus, Oresteia; Sophocles, Electra; Euripides, Electra, Orestes and Iphigenia among the Taurians"
+    },
+    {
       "id": "odyssey",
       "age": "after",
       "label": "Odyssey",
@@ -220,6 +265,41 @@
       "greek": "Τηλεγονία",
       "summary": "Odysseus’ last journeys and his death at the hands of Telegonus, his son by Circe.",
       "sources": "Proclus, Chrestomathy"
+    },
+    {
+      "id": "heraclidae",
+      "age": "after",
+      "label": "The Return of the Heraclidae",
+      "greek": "Ἡρακλεῖδαι",
+      "summary": "Two generations after Troy the descendants of Heracles take the Peloponnese and divide it by lot; Cresphontes wins Messenia and is murdered, and his son, whom his mother Merope nearly kills unknowing, avenges him.",
+      "sources": "Thucydides 1.12; Euripides, Cresphontes (fragments); Apollodorus 2.8; Hyginus, Fabulae 137"
+    },
+    {
+      "id": "archaic-greece",
+      "age": "history",
+      "label": "Archaic Greece",
+      "aka": "c. 750–490 BCE",
+      "greek": "Ἀρχαῖα",
+      "summary": "Colonies and tyrants, the first lyric and iambic poets, and the beginnings of tragedy and comedy in the dithyramb and the phallic songs.",
+      "sources": "Herodotus; Aristotle, Poetics 3–5"
+    },
+    {
+      "id": "persian-wars",
+      "age": "history",
+      "label": "The Persian Wars",
+      "aka": "490–479 BCE",
+      "greek": "Τὰ Μηδικά",
+      "summary": "Marathon, Thermopylae, Salamis and Plataea; in the West, the Carthaginians defeated at Himera, by tradition on the day of Salamis.",
+      "sources": "Herodotus 6–9 and 7.166; Aristotle, Poetics 23"
+    },
+    {
+      "id": "classical-greece",
+      "age": "history",
+      "label": "Classical Greece",
+      "aka": "479–322 BCE",
+      "greek": "Ἑλληνικά",
+      "summary": "The age of Athens and its theater: Aeschylus, Sophocles and Euripides, Aristophanes, Socrates and the sophists, Alcibiades and the Peloponnesian War; then Plato, the new tragedians, and Aristotle.",
+      "sources": "Thucydides; Xenophon, Hellenica; Plutarch, Lives; Aristotle, Poetics"
     },
     {
       "id": "timeless",
@@ -260,6 +340,11 @@
       "id": "backstory",
       "label": "Backstory",
       "summary": "Earlier events that explain the present situation."
+    },
+    {
+      "id": "example",
+      "label": "Example",
+      "summary": "Cited as an example: a plot, an episode or an event that an author uses to make a point."
     }
   ]
 }

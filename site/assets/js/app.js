@@ -3,6 +3,7 @@ import { el, esc, icon, $ } from './lib/dom.js';
 import * as store from './lib/store.js';
 import { closeSheet } from './ui/components.js';
 import { currentBook } from './lib/scope.js';
+import { lineLabel, bookWord } from './lib/cite.js';
 
 const VIEWS = {
   '': () => import('./views/library.js'),
@@ -96,10 +97,12 @@ async function renderSidebar() {
 function readingLinks(cat) {
   const last = store.prefs.lastRead;
   const cur = currentBook(cat);
-  return `${last && cat.by.works.get(last.work) ? `<a class="side-link" href="#/read/${esc(last.work)}/${last.book}?l=${last.n}">${icon('scroll')}<span>Continue: ${esc(cat.by.works.get(last.work).title)} ${last.book}.${last.n}</span></a>` : ''}
+  const lastWork = last && cat.by.works.get(last.work);
+  const curWork = cur && cat.by.works.get(cur.work);
+  return `${lastWork ? `<a class="side-link" href="#/read/${esc(last.work)}/${last.book}?l=${last.n}">${icon('scroll')}<span>Continue: ${esc(lastWork.title)} ${esc(lineLabel(lastWork, last.book, last.n))}</span></a>` : ''}
     ${cat.works.filter(w => w.available.length).map(w => `<a class="side-link" href="#/work/${w.id}">${icon('book')}<span>${esc(w.title)}</span><span class="count">${w.available.length} of ${w.bookCount}</span></a>`).join('')}
-    ${cur ? `<a class="side-link" href="#/book/${esc(cur.work)}/${cur.book}">${icon('compass')}<span>Book ${cur.book} at a glance</span></a>
-    <a class="side-link" href="#/vocab/${esc(cur.work)}/${cur.book}">${icon('textformat')}<span>Vocabulary · Book ${cur.book}</span></a>` : ''}`;
+    ${cur ? `<a class="side-link" href="#/book/${esc(cur.work)}/${cur.book}">${icon('compass')}<span>${esc(bookWord(curWork))} ${cur.book} at a glance</span></a>
+    ${curWork?.lexicon ? `<a class="side-link" href="#/vocab/${esc(cur.work)}/${cur.book}">${icon('textformat')}<span>Vocabulary · ${esc(bookWord(curWork))} ${cur.book}</span></a>` : ''}` : ''}`;
 }
 
 async function refreshReading() {

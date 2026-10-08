@@ -1,0 +1,17 @@
+# Aristotle, Poetics, Chapter 12 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1452b14	The parts of tragedy that must be used as its constituent kinds
+1452b15	we have spoken of before; by quantity, the separate sections
+1452b16	into which it is divided are these: prologue, episode, exodos,
+1452b17	choral part, and of the choral part, the parodos and the stasimon; these are common
+1452b18	to all plays, while songs from the stage and kommoi are peculiar to some.
+1452b19	The prologue is the whole part of a tragedy before the entry of the
+1452b20	chorus; an episode is a whole part of a tragedy between
+1452b21	whole choral songs; the exodos is the whole part of a tragedy after
+1452b22	which there is no song of the chorus. Of the choral part, the parodos is the first
+1452b23	whole utterance of the chorus; a stasimon is a song of the chorus without anapests
+1452b24	or trochees; and a kommos is a lament shared by the chorus and those on
+1452b25	the stage. The parts of tragedy that must be used as constituent kinds
+1452b26	we have spoken of before; by quantity
+1452b27	these are the separate sections into which it is divided.

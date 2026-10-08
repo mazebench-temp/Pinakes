@@ -1,0 +1,23 @@
+# Aristotle, Poetics, Chapter 8 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1451a16	A plot is not one, as some think, if it is about one
+1451a17	man; for many things, indeed countless things, happen to one man, some of which
+1451a18	make no unity at all; so too one man performs many actions,
+1451a19	from which no single action results. So all those poets seem
+1451a20	to have gone wrong who have composed a Heracleid, a Theseid and
+1451a21	such poems; for they think that since
+1451a22	Heracles was one, the plot too must be one. But
+1451a23	Homer, as he excels in everything else, seems to have seen this too
+1451a24	clearly, whether by art or by nature: in composing the Odyssey
+1451a25	he did not put in everything that happened to him, for example
+1451a26	his being wounded on Parnassus and his feigning madness at
+1451a27	the mustering, of which neither, when the one had happened, made it necessary or
+1451a28	probable that the other should happen; but around one action of the kind we mean
+1451a29	he built the Odyssey, and the Iliad likewise.
+1451a30	So, just as in the other imitative arts a single imitation
+1451a31	is of one thing, so the plot too, since it is an imitation of action,
+1451a32	must be of one action, and that a whole, and the parts
+1451a33	of the incidents must be so constructed that if any part is moved or
+1451a34	removed, the whole is disjointed and disturbed. For a thing whose presence
+1451a35	or absence makes no visible difference is no part of the whole.

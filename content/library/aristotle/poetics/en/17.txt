@@ -1,0 +1,39 @@
+# Aristotle, Poetics, Chapter 17 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Kassel's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1455a22	In constructing plots and working them out in diction,
+1455a23	the poet should put things before his eyes as much as possible; for so,
+1455a24	seeing them most vividly, as if he were present at the
+1455a25	events themselves, he would find what is fitting and would be least likely to miss
+1455a26	contradictions. Evidence of this is the fault found with Carcinus.
+1455a27	Amphiaraus was coming back up from the temple, which escaped one who did not see it [the
+1455a28	spectator], but on the stage the play failed because the audience
+1455a29	was annoyed at it. As far as possible the poet should also work things out
+1455a30	with gestures: for, given the same natural gifts, those
+1455a31	in the grip of feelings are the most convincing, and the one in distress conveys distress, and
+1455a32	the one in anger conveys anger, most truly. That is why the art of poetry belongs to the gifted
+1455a33	or to the mad: for of these, the one kind are adaptable, the other
+1455a34	carried out of themselves. Stories, both those already composed and
+1455b1	those he makes up himself, he should set out in general terms, and only then add episodes
+1455b2	and expand them. I mean that the general outline might be seen in this way,
+1455b3	for example that of the Iphigenia: a girl was sacrificed and vanished
+1455b4	unseen by those who sacrificed her, and was settled in another land, where
+1455b5	it was the custom to sacrifice strangers to the goddess; she came to hold this
+1455b6	priesthood. Some time later the brother of the
+1455b7	priestess happened to come (that the god ordered him [for some reason outside the
+1455b8	general outline] to go there, and for what purpose, lies outside the plot);
+1455b9	having come and been seized, as he was about to be sacrificed he made himself known, whether as
+1455b10	Euripides made it or as Polyidus did, saying, as was probable,
+1455b11	that it was not only his sister, then, but he too who was to be
+1455b12	sacrificed; and from this comes the rescue. After this, once the names have been supplied,
+1455b13	one should add the episodes; but care must be taken that the
+1455b14	episodes are proper to the story, as in the case of Orestes the madness through which he was caught, and the
+1455b15	rescue through the purification. In dramas the
+1455b16	episodes are brief, but the other [epic] is lengthened by them.
+1455b17	For the story of the Odyssey is not long: a man is away from home
+1455b18	for many years, watched closely by Poseidon
+1455b19	and alone; and further, things at home are such that his
+1455b20	property is being wasted by suitors and his son
+1455b21	plotted against; he himself arrives, storm-tossed, and after making himself known
+1455b22	to certain people he attacks; he himself is saved, and his enemies
+1455b23	he destroys. This is what belongs to it; the rest is episodes.

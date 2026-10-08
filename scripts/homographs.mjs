@@ -15,17 +15,19 @@ import { makeWorkResolver, parseRef, refLines } from './lib/refs.mjs';
 const onlyBook = process.argv[2] ? Number(process.argv[2]) : null;
 const { works } = loadLibrary();
 const resolveWork = makeWorkResolver(works);
+const lineKeys = new Map(works.map(w => [w.id, [...w.texts].flatMap(([b, t]) => [...t.editions.grc.keys()].map(n => [b, n]))]));
 const arr = v => (v == null ? [] : [].concat(v)).map(String);
 
 // Each entry's patterns and excepted lines, with the forms and exceptions its notes add.
 const entries = new Map();
 for (const e of loadEntries()) {
-  entries.set(e.id, { id: e.id, file: e.file, work: e.data.work ?? 'homer.iliad', grc: arr(e.data.grc), except: arr(e.data.except).map(s => [s, e.data.work ?? 'homer.iliad']) });
+  entries.set(e.id, { id: e.id, file: e.file, work: e.data.work ?? 'homer.iliad', grc: arr(e.data.grc), scoped: [], except: arr(e.data.except).map(s => [s, e.data.work ?? 'homer.iliad']) });
 }
+// A note's forms apply within its own work, or an author's note to that author's works (as in the build).
 for (const n of loadNotes()) {
   const e = entries.get(n.entryId);
   if (!e) continue;
-  e.grc.push(...arr(n.data.grc));
+  e.scoped.push({ work: n.scope.work ?? null, author: n.scope.author, forms: arr(n.data.grc) });
   e.except.push(...arr(n.data.except).map(s => [s, n.scope.work ?? e.work]));
 }
 
@@ -36,13 +38,14 @@ for (const work of works) {
   const books = [...work.texts].filter(([, t]) => t.lexicon && t.editions.grc);
   if (!books.length) continue;
   for (const e of entries.values()) {
-    if (!e.grc.length) continue;
+    const forms = [...e.grc, ...e.scoped.filter(s => s.work ? s.work === work.id : s.author === work.author).flatMap(s => s.forms)];
+    if (!forms.length) continue;
     const excepted = new Set();
     for (const [spec, w] of e.except) {
-      try { const r = parseRef(spec, resolveWork, w); if (r.work === work.id) refLines(r).forEach(k => excepted.add(k)); } catch { /* the build reports bad references */ }
+      try { const r = parseRef(spec, resolveWork, w); if (r.work === work.id) refLines(r, lineKeys.get(work.id)).forEach(k => excepted.add(k)); } catch { /* the build reports bad references */ }
     }
     let pats;
-    try { pats = compilePatterns(e.grc); } catch { continue; }
+    try { pats = compilePatterns(forms); } catch { continue; }
     const byPattern = new Map(); // pattern source → lemma → ["6.54 θέων", …]
     for (const [book, t] of books) {
       for (const [n, line] of t.editions.grc) {
