@@ -461,3 +461,150 @@ Several plays share a name with their hero (Antigone, Medea, Electra, Orestes, N
 play's title carries its author or "tragedy" in parentheses ("Medea (Euripides)", "Helle (tragedy)"),
 so that `[[Medea]]` links the person, and the play's patterns claim its title only where the text
 names the play.
+
+## Aristotle's Rhetoric
+
+The first book of the Rhetoric brought more Attic words caught by Homeric patterns, later people who
+share a name with an Iliad figure or a Poetics author, and the treatise's own words in two senses.
+English-only name linking also needs watching: a person's title links wherever the English names him,
+so a later bearer of the name needs an `except` on the earlier entry.
+
+| Pattern (entry) | Also catches | Solution |
+|---|---|---|
+| Ἀγάθων* (agathon) | ἀγαθῶν “of goods”, throughout | agathon: `"^Ἀγάθων*"` |
+| Σώφρον* (sophron) | σώφρονι, σωφρονεῖν, σωφρόνως | sophron: `"^Σώφρον*"` |
+| οἰῶν (sheep) | οἵων “of what kind” (1367b18) | sheep: `"=οἰῶν"` |
+| ἠθεῖʼ (dear-brother) | ἤθει “by character” (1356a2) | dear-brother: `"=ἠθεῖʼ"` |
+| Τρώ* (trojans) | τρῶσαι “to wound” (1374a32) | trojans: `"!τρῶσαι"` |
+| ἄττα (old-father) | ἄττα “some” (1356b36, 1369a8) | old-father: `except` |
+| χάριν (charis) | χάριν “for the sake of” (1360b7, 1366a32, 1371a16) | charis: `except` |
+| φυλακή (night-watch) | the defense of the country (1359b22–1360a9, 1366a6) | night-watch: `except` |
+| ἀγορ* (assembly) | ἀγορεύειν “speak in public”, ἀγορά “marketplace” | assembly: `except` |
+| σκοπός (spies-and-scouts) | σκοπός “target” (1360b4, 1362a17) | spies-and-scouts: `except` |
+| βούλεται (boule) | βούλησις “wish” and its verb (1361b15, 1368a7, 1369a3) | boule: `except` |
+| ἔπος (epos) | ὡς ἔπος εἰπεῖν “so to speak” (1357a26) | epos: `except` |
+| Ἱππόλοχον (hippolochus, hippolochus-son-of-antimachus) | the first man praised in an encomium (1368a17) | both: `except`; hippolochus-of-the-encomium |
+| Jason (jason, by English) | Jason of Pherae (1373a26) | jason: `except`; jason-of-pherae |
+| Hippias (hippias-of-thasos, by English) | Hippias, paired with Socrates (1356b34) | hippias-of-thasos: `except`; hippias-of-elis |
+| Διονύσιος (dionysius-of-colophon) | Dionysius of Syracuse (1357b31, 1357b34) | dionysius-of-colophon: `except`; dionysius-of-syracuse. Book III's Dionysius “the Brazen” (3.2, 1405a) is a poet and will need his own id |
+| Κλεοφ* (cleophon) | Cleophon the demagogue (1375b31) | cleophon: `except`; cleophon-the-demagogue. Book III's Cleophon (3.7, 1408a) is the tragic poet again, and cleophon-the-demagogue will need an `except` there |
+| Πλάτων (plato, by English) | probably Plato the comic poet (1376a10) | plato: `except`; plato-the-comic-poet |
+| Σοφοκλῆς (sophocles, by English) | Sophocles who spoke for Euctemon (1374b35) | sophocles: `except`; sophocles-the-orator claims the nominative, which in Books II and III is the tragic poet again (2.23, 3.14–18) and will need `except` |
+| Courage (courage, by English) | the virtue (1366b11) | courage: `except` |
+| Ἀντιγόνη, Ἀντιγόνῃ | Antigone the person (1373b9), the play (1375a34) | antigone: `"=Ἀντιγόνη"`; antigone-play: `"=Ἀντιγόνῃ"` |
+| πάθη “emotions” (pathos) | πάθη “properties” (1355b30), πάθῃ “suffer” (1370b6), παθών “the victim” | pathos: `"=πάθη"`, `"=παθῶν"`, `except: [1355b30]` |
+| τόπος “topic” (topos) | τόπος “place” (1360a8, 1360a11, 1362a13, and τόποι, τόποις elsewhere) | topos: exact forms and `except` |
+| πίστεις “proofs” (pistis) | πίστεις “assurances” (1375a10) | pistis: `except` |
+| εἶδος “looks” (eidos), γένος “birth” (genee) | Aristotle's species and genus | kept: the Rhetoric notes explain the sense |
+
+Two names of Book I return in Book II as other men: Callippus, the author of a rhetorical handbook
+(2.23, 1399a, 1400a), is not the Callippus who killed Dion (callippus-the-rhetorician), and Herodicus
+who mocked Thrasymachus' name (2.23, 1400b) is kept apart from the trainer of 1361b5
+(herodicus-who-mocked-thrasymachus); see the Book II table below.
+
+### Rhetoric, Book II
+
+The second book adds the emotions, whose words Homer's patterns sometimes catch, a crowd of fourth-century
+people who share names with heroes, and plays and speeches named after their heroes. A play or speech
+named in the Greek (“in the Alcmaeon of Theodectes”) gets its own work entry with a phrase pattern, and
+the hero's entry an `except` on that line.
+
+| Pattern (entry) | Also catches | Solution |
+|---|---|---|
+| ^Πάρι* (paris) | Πάριοι “Parians” (1398b11) | paris: `"!^Πάριοι"`, which keeps Πάριος “of Paris” (Il. 3.325); parians |
+| Ἀλέξανδρ* (paris) | the Alexander, a lost defense of Paris (1398a22, 1401b20) | paris: `except`; the-alexander |
+| Αἴαντ* (ajax) | Theodectes' Ajax (1399b29, 1400a28) | ajax: `except`; ajax-plays: `"^Αἴαντος τοῦ ^Θεοδέκτου"` |
+| Alcmaeon (alcmaeon, by English) | Theodectes' Alcmaeon (1397b3) | alcmaeon: `except`; alcmaeon-theodectes |
+| Ὀρέστῃ (orestes) | Theodectes' Orestes (1401a36) | orestes: `except`; orestes-theodectes |
+| ^Μήδει* (medea) | Carcinus' Medea (1400b10) | medea: `except`; medea-carcinus |
+| Meleager (meleager, by English) | Antiphon's Meleager (1399b26) | meleager: `except`; meleager-antiphon |
+| Teucer (teucer, by English) | the Teucer, a play (1398a4) | teucer: `except`; teucer-play |
+| νόμος (nomos) | Theodectes' Law (1398b6, 1399b1) | nomos: `except`; the-law-theodectes: `"^Νόμου"`, `"^Νόμῳ"` |
+| Thebes (thebes-in-egypt, by English) | Boeotian Thebes (1397b9, 1398b3, 1398b18) | thebes-in-egypt: `except`; thebes |
+| Thebans (cadmeians, by English); Θηβαῖ* (thebans) | the historical Thebans (1397b32); Θηβαίου, a man's name (Il. 8.120) | cadmeians: `except`; thebans: its forms only in its Rhetoric note |
+| Λυκούργου (lycurgus) | Lycurgus the Spartan lawgiver (1398b18) | lycurgus: `except`; lycurgus-of-sparta |
+| Samos (samos, by English) | Samos in Ionia and the Samians (1384b32, 1393b23, 1393b32) | samos: `except`; samos-ionia, samians |
+| Κλέων* (cleon) | Κλεωνάς “Cleonae” (Il. 2.570); Κλέων as a sample name (*Poetics* 1457a27) | cleon: exact forms and `except` |
+| Πειραι* (piraeus) | Πειραΐδαο, “son of Piraeus” (Il. 4.228) | piraeus: `"!^Πειραΐδ*"` |
+| Theodorus (theodorus-of-byzantium, by English) | Θεόδωρος as a sample name (*Poetics* 1457a13) | no capitalized alias; the English form only in the Rhetoric note |
+| Bias (bias-the-athenian, by English) | Bias of Priene (1389b24) | bias-the-athenian: `except`; bias-of-priene |
+| Callippus (callippus, by English) | Callippus the rhetorician (1399a17, 1400a4) | callippus: `except`; callippus-the-rhetorician |
+| Herodicus (herodicus, by English) | the Herodicus who mocked Thrasymachus (1400b20) | herodicus: `except`; herodicus-who-mocked-thrasymachus, with `except: [1361b5]` for the trainer of Book I |
+| Jason (jason-of-pherae, by English) | Jason the Argonaut, in Carcinus' Medea (1400b13) | jason-of-pherae: `except`; jason |
+| Διονύσιος (dionysius-of-colophon) | Dionysius in a sample fallacy (1401b13) | dionysius-of-colophon: `except`; dionysius-of-syracuse, “probably” |
+| Δημοσθέν* (demosthenes) | the Demosthenes of the trial over Nicanor (1397b7) | demosthenes: `except`; the-trial-over-nicanor |
+| Ἁρμόδιον (harmodius) | Harmodius, a descendant, Iphicrates' opponent (1397b30) | harmodius: `except`; iphicrates-against-harmodius: `"πρὸς ^Ἁρμόδιον"` |
+| νικ* (nike) | Νικάνορα “Nicanor” (1397b7) | nike: `"!^Νικάνορ*"` |
+| Ἀθήν* (athena) | Ἀθήνησι “at Athens” (1398b1) | athena: `"!Ἀθήνησι"`; athens |
+| Ἀξιοῦ (axius) | ἀξίου “worthy” (1379a4) | axius: `"^Ἀξιοῦ"` |
+| Ἕλος (helos, helos-pylos) | ἕλος “marsh” (1399a27) | both: `"^Ἕλος"` |
+| μαντ* (divination) | Μαντίᾳ “Mantias” (1398b1) | divination: `except`; mantias |
+| μάκαρ (child-of-fortune) | Pindar's address to Pan (1401a18) | child-of-fortune: `except` |
+| ἀθάνατ* (immortals) | “immortal anger”, “immortal things” (1394b23, 1394b26) | immortals: `except` |
+| ἁλὸς (sea) | ἅλς “salt” (1400a12–13) | sea: `except` |
+| δήμου (commoners) | the Athenian people (1380b9) | commoners: `except` |
+| ἄττα (old-father) | ἄττα “some” (1390b15) | old-father: `except` |
+| σχετλι* (hard) | σχετλιασμός “protest” (1395a9) | hard: `except` |
+| βούλεται (boule) | βούλεσθαι “wish” (1379a9, 1379a26, 1382a9, 1382a15, 1384a26, 1398a11) | boule: `except` |
+| χάριν (charis) | χάριν “for the sake of” (1384a23) | charis: `except` |
+| αἰσχ* (aischros) | αἰσχύνη “shame” and its verb | aischros: `"!αἰσχυν*"` in its Rhetoric note; aischyne |
+| γνώμ* (gnome) | γνώμῃ “judgment”, as in the jurors' oath (1375a29, 1375b16, 1402b33) | gnome: `"=γνώμη"` and the other cases, not the dative |
+| πάθη (pathos) | πάθη “sufferings” (1382b30, 1386a29, 1386b7) | pathos: `except` |
+| πείσ* (peitho) | πείσεσθαι “will suffer” (1382b29, 1383b9, 1385b31) | peitho: `except` |
+| πολιτεί* (politeia) | πολιτεία “policy”, “political life” (1401b32, 1401b33) | politeia: `except` |
+| τόπων (topos) | “places” (1400a16) | topos: `except` |
+| μάρτυρ* (non-artistic-proofs) | “witnesses” of Meleager's valor, in a verse (1399b27) | non-artistic-proofs: `except` |
+| Σοφοκλῆς (sophocles-the-orator) | Sophocles the poet (1400b17) | sophocles-the-orator: `except`; sophocles: `"Σοφοκλῆς"` in its Rhetoric note |
+| Πλάτων (plato-the-comic-poet) | Plato the philosopher (1398b31) | plato-the-comic-poet: `except` |
+| Ἀγάθων* (agathos, in its Rhetoric note) | Ἀγάθωνι “Agathon” (1392b7) | agathos: `"!^Ἀγάθων*"` |
+
+### Rhetoric, Book III
+
+Book III names more people than Book I, many of them minor figures of the fourth century who share a
+name with a Homeric figure, an earlier entry or a common word, and its terms of style meet Book I's
+words in other senses. Forms that belong to the Rhetoric alone are claimed in the Rhetoric notes.
+
+| Pattern (entry) | Also catches | Solution |
+|---|---|---|
+| αἰσχ* (aischros) | Αἰσχίνης, the Socratic (1417b1) | aischros: `"!^Αἰσχιν*"`; aeschines-of-sphettus |
+| Ἀθήν* (athena) | Ἀθήνησι “at Athens” (1418a30) | athena: `"!Ἀθήνησι"`; athens claims it in its Rhetoric note |
+| Ἡρακλ* (heracles) | Ἡρακλείτου (1407b13–14) | heracles: `"!Ἡρακλειτ*"`; heraclitus-of-ephesus |
+| Νικ* (nike) | Νικήρατον (1413a7, 1413a9), Νίκωνα (1412a34) | nike: `"!^Νικηρατ*"`, `"!^Νίκων*"`; niceratus, nicon |
+| εὐχ*, εὐξ* (euchomai, prayer) | Εὐξένῳ, Εὔξενος, a man's name (1406b30–31) | both: `"!^Εὐξεν*"`; euxenus |
+| πολιτει*, δημοκρατ* (politeia) | Plato's *Republic*, Πολιτείᾳ (1406b32); Δημοκράτης (1407a8) | politeia: `"!^Δημοκράτ*"`, `except: [1406b32]`; plato: `"^Πολιτείᾳ"`; democrates |
+| Θετταλός (jason-of-pherae) | any Thessalian, beside a Laconian (1408a28) | jason-of-pherae: `except`; thessalians |
+| Διονύσιος (dionysius-of-colophon, dionysius-of-syracuse) | Dionysius the Brazen, the poet (1405a32) | both: `except`; dionysius-the-brazen |
+| Κλεοφ* (cleophon-the-demagogue) | Cleophon the tragic poet (1408a15) | cleophon-the-demagogue: `except: [1408a15]` |
+| Σοφοκλῆς (sophocles-the-orator) | the poet, throughout Book III | sophocles-the-orator: `except: [1403b6-1420a8]`; sophocles claims Σοφοκλῆς |
+| Καλλίας (callias, Book I's example name) | Callias son of Hipponicus (1405a19–20) | callias: `except: [1403b6-1420a8]`; callias-son-of-hipponicus |
+| Πλάτων (plato-the-comic-poet) | the philosopher, author of the *Republic* (1406b32) | plato-the-comic-poet: `except: [1406b32]` |
+| Ἑλένη (helen) | Ἑλένης, Isocrates' speech (1414b27) | helen: `except: [1414b27]`; isocrates: `"Ἰσοκράτους Ἑλένης"` |
+| ^Αἵμονα (haemon, the Iliad's) | Sophocles' Haemon (1417b20, 1418b31) | haemon: `except`; haemon-son-of-creon |
+| οιδιπ* (oedipus) | Carcinus' play *Oedipus* (1417b19) | oedipus: `except: [Rhetoric 1417b19]`; carcinus claims Οἰδίποδι |
+| Ἀντιγόνης (antigone, antigone-play) | the play at 1417a30, the woman at 1418b32 | each claims Ἀντιγόνης and excepts the other's line |
+| Θεοδώρου (theodorus-the-actor, theodorus-of-byzantium) | the actor (1404b22), the rhetorician (1412a34) | each excepts the other's lines; English “Theodorus” is in each note's `en` |
+| Λυκόφρων (lycophron-the-sophist, lycophron-of-pherae) | the sophist (1405b36, 1406a7), the tyrant's brother (1410a18) | exact forms; English “Lycophron” in each note |
+| Licymnius, Antimachus, Polybus (by English, the Iliad's) | Licymnius of Chios, Antimachus of Colophon, Polybus of Corinth | the new entries claim the Greek and the English name in their notes, which outrank the English-only link |
+| λόφος (helmet) | a hill, Teumessus (1408a4) | helmet: `except: [Rhetoric 1408a4]` |
+| μῆνιν ἄειδε (protagoras-on-the-first-line) | the proem quoted as an example (1415a16) | protagoras-on-the-first-line: `except: [Rhetoric 1415a16]` |
+| δέδασται (division-of-spoils) | Choerilus' δέδασται, “all has been parceled out” (1415a4) | division-of-spoils: `except: [Rhetoric 1415a4]` |
+| βουλή, βούλεται (boule) | βούλῃ “you wish” (1405a15, 1420a6) and βούλεται “wishes”, “wants” (1414a2, 1416a35) | boule: `except` |
+| χάριν (charis) | “for the sake of” (1415b39) | charis: `except` |
+| δήμου (commoners) | the Paralus, “the people's club” (1411a14) | commoners: `except` |
+| ἄτεχν*, ἔντεχν*, πίστεις (pistis, non-artistic-proofs) | delivery “rather outside the art” (1404a16), the epideictic speech's non-artistic part (1416b19), a treaty (1411b16) | both: `except` |
+| πάθος (pathos) | the process the riddle describes (1405b2) | pathos: `except` |
+| εἰκόν* (eikon, simile) | statues (1361a36; 1411b7, 1411b9) | eikon: `except` |
+| περίοδ* (periodos) | γῆς περίοδοι, descriptions of the earth (1360a34) | periodos: `except` |
+| ψυχρ* (psychron) | the cold, impassive man (1367a35) | psychron: `except` |
+| ὑπερβολ* (hyperbole) | excess, superiority in Book I (1364b3, 1367b6) | hyperbole: exact forms and `except` |
+| γλῶττ* (glotta) | “the old language” (1357b10) | glotta: `except` |
+| κύρι* (kyrion) | “sovereign”, “authoritative” in Book I | kyrion: exact forms and `except` |
+| γραφικ*, ἀγωνιστικ* (styles-of-writing-and-debate) | painting (1371b6); athletic (1360b22, 1361a3, 1361b21) | `except` |
+| ἀντικειμεν* (antithesis) | logical opposites in Book I (1364b3, 1368a8) | antithesis: exact forms and `except` |
+| ἐνέργεια (before-the-eyes) | the use of possessions (1361a24) | before-the-eyes: `except` |
+| παράδειγμα (paradeigma) | a mere instance (1414b27, 1417a13, 1417a29) | paradeigma: `except` |
+| αὔξ* (auxesis) | increase and growth (1411b12, 1419b22) | auxesis: `except` |
+| διαβάλλονται (diabole) | hearers grow suspicious of art (1404b21) | diabole: `except` |
+| γνώμῃ (gnome) | the jurors' “judgment” in Book I; “from conviction” (1419a35) | gnome: the plural forms only |
+| ἄρρενα, θήλεα (gender-of-nouns) | male and female children (1361a5) | gender-of-nouns: `except` |
+| Names that are also words | ὑγιαίνοντα “healthy”, τελαμών “strap”, ἦραν “they raised”, κύων “dog”, ἀντιδόσει the exchange suit (1416a30), εὐσεβῶν “of the pious” | `^Ὑγιαίνοντα` (hygiaenon), `^Τελαμών` (telamon), `^Ἥραν` (hera), `^Κύων` (diogenes-the-cynic), `^Ἀντιδόσει` (isocrates), `^Εὐσεβῶν` (anaxandrides) |

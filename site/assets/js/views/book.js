@@ -2,7 +2,7 @@
 import { el, esc, icon, on, plural, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { linesIn, presentIn, firstKeyIn, firstLabelIn } from '../lib/scope.js';
-import { bookWord, isBekker, isProse, bekkerLabel, rangeLabel } from '../lib/cite.js';
+import { bookWord, bookLabel, isBekker, isProse, bekkerLabel, rangeLabel } from '../lib/cite.js';
 
 function tip(root) {
   const t = el('<div class="chart-tip" role="tooltip" hidden></div>');
@@ -33,7 +33,7 @@ export async function render(route) {
   const S = `${workId}.${book}`;
   const here = e => linesIn(e, S, cat);
   const firstHere = e => firstLabelIn(e, S, cat);
-  const Book = bookWord(work), book_ = Book.toLowerCase(), prose = isProse(work), bekker = isBekker(work);
+  const Book = bookWord(work), BL = n => esc(bookLabel(work, n)), book_ = Book.toLowerCase(), prose = isProse(work), bekker = isBekker(work);
   const span = (a, b) => rangeLabel(work, book, a, b).replace(/^\d+\./, '');
 
   // Who speaks: lines per speaker, plus the narrator's share as context.
@@ -90,8 +90,8 @@ export async function render(route) {
 
   const view = el(`<div class="view">
     <header class="page-head">
-      <div class="eyebrow">${esc(work.title)} · ${Book} ${book}</div>
-      <h1 class="large-title" data-title-anchor>${Book} ${book} at a glance</h1>
+      <div class="eyebrow">${esc(work.title)} · ${Book} ${BL(book)}</div>
+      <h1 class="large-title" data-title-anchor>${Book} ${BL(book)} at a glance</h1>
       <p class="page-sub">${esc(text.summary)}</p>
     </header>
 
@@ -111,7 +111,7 @@ export async function render(route) {
 
     ${quotations.length ? `<section class="section">
       <div class="section-head"><h2 class="section-title">Quoted</h2></div>
-      <p class="footnote-text" style="margin:0 4px 10px">The poetry Aristotle quotes in ${Book} ${book}, and where it comes from.</p>
+      <p class="footnote-text" style="margin:0 4px 10px">The poetry Aristotle quotes in ${Book} ${BL(book)}, and where it comes from.</p>
       <div class="list">${quotations.map(q => `<a class="row" href="#/read/${workId}/${book}?l=${q.from}${q.to !== q.from ? `-${q.to}` : ''}"><span class="row-main">
         <span class="row-title"><span>${esc(q.source ? title(q.source) : 'Unknown source')}${q.cite ? ` · ${esc(q.cite)}` : ''}</span><span class="row-meta" style="margin-left:auto;font-size:13px">${esc(span(q.from, q.to))}</span></span>
         ${q.note ? `<span class="row-sub">${esc(q.note)}</span>` : ''}</span>${icon('chevron', 'chev')}</a>`).join('')}</div>
@@ -119,7 +119,7 @@ export async function render(route) {
 
     ${text.speeches.length || !prose ? `<section class="section">
       <div class="section-head"><h2 class="section-title">Who speaks</h2></div>
-      <p class="footnote-text" style="margin:0 4px 10px">Lines of direct speech in ${Book} ${book}, by speaker. The narrator's lines are shown in gray for comparison.</p>
+      <p class="footnote-text" style="margin:0 4px 10px">Lines of direct speech in ${Book} ${BL(book)}, by speaker. The narrator's lines are shown in gray for comparison.</p>
       <div class="chart">
         ${speakers.map(([id, v]) => barRow({
           href: `#/entry/${esc(id)}`, label: esc(title(id)), sub: plural(v.speeches, 'speech', 'speeches'),
@@ -149,9 +149,9 @@ export async function render(route) {
       }).join('')}</div></section>` : ''}
 
     <div class="spacer"></div>
-    <div class="btn-row"><a class="btn" href="#/read/${workId}/${book}">${icon('book')}Read ${Book} ${book}</a>${work.lexicon ? `<a class="btn secondary" href="#/vocab/${workId}/${book}">Vocabulary</a>` : ''}</div>
+    <div class="btn-row"><a class="btn" href="#/read/${workId}/${book}">${icon('book')}Read ${Book} ${BL(book)}</a>${work.lexicon ? `<a class="btn secondary" href="#/vocab/${workId}/${book}">Vocabulary</a>` : ''}</div>
   </div>`);
 
   const t = tip(view);
-  return { title: `${Book} ${book} at a glance`, el: view, unmount: () => t.remove() };
+  return { title: `${Book} ${BL(book)} at a glance`, el: view, unmount: () => t.remove() };
 }

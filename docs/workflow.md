@@ -48,3 +48,29 @@ and `npm test` clean.
    "English form never found" warnings. Tag new places by region.
 9. **Publish.** Run `npm run export`, then republish `dist/artifact.html` with every file under
    `dist/`.
+
+## A prose work: how Rhetoric I was added
+
+The first book of the Rhetoric followed the Poetics' pattern. What differs from a book of Homer:
+
+1. **Greek and line division.** The Perseus TEI file of Ross's text marks every fifth Bekker line.
+   Rows are fixed at those lines and at the chapter openings; each column's end is estimated from the
+   average line length (both columns of a page come out equal), and the lines between are divided in
+   proportion to their length at word boundaries, never inside a quotation's opening or closing
+   marks. Check the result against standard citations (1355b25–26, 1356a1, 1360b14, 1368b6), and
+   record the method, the digitization slips corrected and the disputed passages in
+   `TRANSLATION.md`.
+2. **Translation.** One English row per Bekker line; the syntax may run across lines, names may not.
+   Quotations of Homer keep the Iliad translation's wording where Aristotle's text agrees with ours.
+3. **Structure.** Chapters are the work's books; each chapter's scenes are titled sections that
+   cover every line, and every quotation mark in the Greek opens a quotation in the structure file.
+4. **Quotations in articles.** `node scripts/checkquotes.mjs aristotle.rhetoric` checks every
+   English quotation followed by a Bekker reference in the Rhetoric's own notes, and in other files
+   when the reference names the Rhetoric. Run it after every round of writing.
+5. **Clash scan.** Homeric patterns catch Attic words (Agathon's name caught ἀγαθῶν, the Trojans
+   caught τρῶσαι “to wound”), and English-only name linking catches later people of the same name
+   (Jason, Hippias, Dionysius, Cleophon, Plato, Sophocles). Fix them before writing notes and list
+   them in `docs/homonyms.md`.
+6. **Index.** New people and works get entry files whose Greek forms sit in the work's note when
+   they could catch other words elsewhere; existing entries get a note in `notes/<id>.md`; the
+   treatise's terms and themes get general articles with the Rhetoric's use in the note.

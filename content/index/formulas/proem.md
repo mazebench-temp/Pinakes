@@ -27,4 +27,4 @@ The Iliad calls on the Muses again before the Catalogue of Ships (2.484–493) a
 
 ## Outside Homer
 
-Aristotle quotes the first lines of both poems to show what a proem does. It gives “a sample of the subject”, so that the audience knows in advance what the work is about (*Rhetoric* 3.14, 1415a). For Horace's praise of Homer's beginning, see [[in-medias-res]]; for Protagoras' objection to the command ἄειδε, [[menis]]; for the first line in English, [[first-line-in-english]].
+Aristotle quotes the first lines of both poems to show what a proem does. It gives “a sample of the subject”, so that the audience knows in advance what the work is about (*Rhetoric* 3.14, 1415a12–17; see [[prooimion]]). For Horace's praise of Homer's beginning, see [[in-medias-res]]; for Protagoras' objection to the command ἄειδε, [[menis]]; for the first line in English, [[first-line-in-english]].

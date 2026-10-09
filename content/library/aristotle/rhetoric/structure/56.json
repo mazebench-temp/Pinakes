@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    {"from": "1416a4", "to": "1416a28", "title": "Answering Slander", "summary": "Slander is met from topics: dispelling an unpleasant suspicion; denying the fact, the harm, its extent, its injustice or its shame, as Iphicrates answered Nausicrates; offsetting it; calling it an error, a misfortune or necessity, as Sophocles said he trembled not to seem old but because he was eighty; giving another motive; implicating the slanderer, or others who are plainly innocent; and slandering the slanderer."},
+    {"from": "1416a29", "to": "1416b4", "title": "Past Judgments and Tokens", "summary": "One may appeal to an earlier judgment, as Euripides answered Hygiaenon, who charged him with impiety for the line “My tongue has sworn, but my mind is unsworn”; accuse slander itself; and, on either side, cite tokens, as Odysseus and Teucer argue in the Teucer."},
+    {"from": "1416b5", "to": "1416b15", "title": "The Slanderer's Art", "summary": "The slanderer praises something small at length and blames something great briefly, or mixes many good points with the one bad one, the most artful and unjust of methods. Both sides put the worse or the better construction on the same act, as on Diomedes' choice of Odysseus."}
+  ],
+  "quotations": [
+    {"from": "1416a19", "to": "1416a20", "source": "aristotle", "entry": "diabole", "cite": "Aristotle's example of a plea about motive"},
+    {"from": "1416a31", "to": "1416a32", "source": "euripides", "entry": "euripides", "cite": "Euripides, Hippolytus 612"}
+  ],
+  "speeches": [],
+  "days": []
+}

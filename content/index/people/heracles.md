@@ -5,7 +5,7 @@ kind: person
 tags: [child-of-zeus, demigod, warrior]
 summary: The greatest hero of the generations before Troy, son of [[Zeus]] and Alcmene. The Iliad remembers his labors, his sack of Troy and his death, and in the Catalogue his son and grandsons lead the men of Rhodes and Cos.
 aliases: [Herakles, Hercules]
-grc: [Ἡρακλ*]
+grc: [Ἡρακλ*, "!Ἡρακλειτ*"]
 refs: [2.659, 2.660]
 relations:
   - father: zeus (14.324)

@@ -1,0 +1,111 @@
+# Aristotle, Rhetoric, Book II, Chapter 24 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1400b34	Since it is possible for one syllogism to be real and another not
+1400b35	to be one but to appear so, there must also be some enthymemes
+1400b36	that are real and others that are not enthymemes but appear
+1400b37	to be, since the enthymeme is a kind of syllogism.
+1401a1	Of the topics of apparent enthymemes, one is
+1401a2	from diction, and one part of this, as in
+1401a3	dialectic, is to state the last point as a conclusion without having
+1401a4	reasoned to it: “Therefore not this and that; necessarily,
+1401a5	therefore, this and that.” In enthymemes, to speak concisely and
+1401a6	in antitheses appears to be an enthymeme (for such
+1401a7	diction is the proper ground of the enthymeme); and such a thing seems to
+1401a8	come from the form of the diction. It is useful, for speaking
+1401a9	syllogistically in diction, to state the heads of many syllogisms:
+1401a10	that he saved some, avenged others,
+1401a11	and freed the Greeks; for each of these was demonstrated from
+1401a12	other premises, but when they are put together it seems that something follows from them
+1401a13	too. One is from homonymy: saying that the mouse is
+1401a14	excellent, since from it comes the most honored of all rites;
+1401a15	for the mysteries are the most honored rite of all.
+1401a16	Or if someone praising the dog were to bring in the dog in the heavens
+1401a17	as well, or Pan, because
+1401a18	Pindar said, “O blessed one, whom, as the Great Goddess's
+1401a19	dog of every shape, the Olympians name,”
+1401a20	or that to be no dog at all is the most dishonorable thing, so that the dog
+1401a21	is clearly honored. And saying that Hermes is the most sharing
+1401a22	of the gods; for he alone is called “Hermes in common.” And saying that
+1401a23	speech is most excellent, because good men are worthy
+1401a24	not of money but of speech; for “worthy of speech” is not
+1401a25	said in the simple sense. Another is to speak of what is divided by combining it, or of what is
+1401a26	combined by dividing it; for since what is not the same often seems
+1401a27	the same, one should do whichever is more useful.
+1401a28	This is the argument of Euthydemus: for instance, knowing that
+1401a29	there is a trireme in the Piraeus, since he knows each of the two. And that one who knows the
+1401a30	letters knows the line; for the line is the same
+1401a31	thing. And since twice so much is unhealthy, saying that one portion is not
+1401a32	healthy either; for it is absurd if two goods are one evil.
+1401a33	So put, it is refutative; put thus, demonstrative: for one good is not
+1401a34	two evils. The whole topic is fallacious. Again,
+1401a35	what Polycrates said of Thrasybulus, that he overthrew thirty tyrants;
+1401a36	for he combines them. Or the argument in the Orestes of Theodectes; for
+1401a37	it is from division: “It is just, when a woman kills her husband,”
+1401a38	that she should die, and that the son should avenge the father;
+1401b1	so these things too have been done; but put together, perhaps they are no longer
+1401b2	just. It could also come from omission; for it leaves out by
+1401b3	whom. Another topic is to establish or demolish by exaggeration;
+1401b4	this is when, without having shown that he did it ⟨or that
+1401b5	he did not⟩, one amplifies the deed; for it makes it seem either
+1401b6	that he has not done it, when the accused amplifies, or
+1401b7	that he has, when the accuser amplifies. It is not, then, an enthymeme;
+1401b8	for the hearer reasons falsely that he did it or did not,
+1401b9	when it has not been shown. Another is from a sign; for this too
+1401b10	is not a valid syllogism: for instance, if one were to say, “Lovers are useful
+1401b11	to cities; for the love of Harmodius and Aristogeiton overthrew
+1401b12	the tyrant Hipparchus”; or if one were to say that
+1401b13	Dionysius is a thief, for he is wicked; for this too is invalid; for not
+1401b14	every wicked man is a thief, but every thief is wicked. Another
+1401b15	is through the accidental: for instance, what Polycrates says of the mice,
+1401b16	that they came to the rescue by gnawing through the bowstrings; or if one were to say that being
+1401b17	invited to dinner is the greatest honor; for it was because he was not invited
+1401b18	that Achilles conceived his wrath against the Achaeans at Tenedos; but he
+1401b19	conceived his wrath as one dishonored, and this happened to come about through his not being invited.
+1401b20	Another is from the consequent: for instance, in the Alexander, that
+1401b21	he was great-souled; for he despised the company of the many and spent his time on Ida
+1401b22	by himself; since the great-souled are of this kind,
+1401b23	he too would seem great-souled. And since a man dresses finely and
+1401b24	wanders about at night, he is an adulterer; for such men do this. It is similar to say that
+1401b25	beggars sing and dance in the temples, and
+1401b26	that exiles may live wherever they wish; for since
+1401b27	these things belong to those who seem to be happy, those
+1401b28	to whom they belong would seem to be happy too; but there is a difference in the
+1401b29	manner; that is why this also falls under omission. Another is from taking
+1401b30	what is not the cause as the cause: for instance, because something happened at the same time or after it;
+1401b31	for they take “after this” as “because of this,” and above all
+1401b32	those in political life, as Demades took Demosthenes'
+1401b33	policy to be the cause of all the evils, since the war came
+1401b34	after it. Another is from the omission of when and how:
+1401b35	for instance, that Alexander took
+1401b36	Helen justly, for the choice was given to her by her
+1401b37	father. For not, perhaps, always, but the first time;
+1401b38	for the father's authority extends only so far.
+1402a1	Or if one were to say that striking free men is
+1402a2	outrage; for not in every case, but only when one starts the
+1402a3	unjust blows. Further, as in eristic arguments, from what is
+1402a4	so absolutely and what is not absolutely but in some respect, an apparent
+1402a5	syllogism arises, as in dialectic, that what is not
+1402a6	is, for what is not is not-being; and that the unknown
+1402a7	is knowable, for the unknown is knowable as unknown; so
+1402a8	in rhetoric too there is an apparent enthymeme from what is not
+1402a9	probable absolutely but probable in some respect. This is not universal, as
+1402a10	Agathon also says: “Perhaps one might say that this very thing
+1402a11	is probable, that many things happen to mortals
+1402a12	that are not probable.” For what is contrary to probability happens,
+1402a13	so that what is contrary to probability is probable too; and if so,
+1402a14	what is improbable will be probable. But not absolutely;
+1402a15	rather, as in eristic arguments, leaving out the in what respect, the in relation to what and
+1402a16	the in what way makes the trickery, so here it comes from
+1402a17	the probable's being probable not absolutely but in some respect. Of this
+1402a18	topic the art of Corax is composed: “For if a man is not liable to the
+1402a19	charge, for instance if a weak man is prosecuted for assault (it is not probable), and if he is liable,
+1402a20	for instance if he is strong (it is not probable, because it was going to seem probable).”
+1402a21	And likewise in the other cases; for a man must either be liable or not
+1402a22	liable to the charge; both, then, appear probable,
+1402a23	but one is probable, the other not absolutely but as has been said;
+1402a24	and this is what making the weaker argument the stronger is. And
+1402a25	that is why people were justly offended by
+1402a26	Protagoras' professed teaching; for it is a lie, and
+1402a27	not true but an apparent probability, and found in
+1402a28	no art except rhetoric and eristic.

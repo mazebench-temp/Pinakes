@@ -1,0 +1,73 @@
+# Aristotle, Rhetoric, Book III, Chapter 1 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1403b6	There are three things that must be dealt with concerning speech:
+1403b7	first, from what sources the proofs will come; second, the
+1403b8	style; and third, how the parts of the speech should be arranged.
+1403b9	The proofs have been discussed: from how many sources they come, that they come from three,
+1403b10	what these are, and why there are only so many (for it is either because
+1403b11	the judges themselves are affected in some way, or because they take the speakers
+1403b12	to be of a certain character, or because something has been demonstrated, that all are persuaded);
+1403b13	and it has been said where enthymemes should be drawn from
+1403b14	(for some are species of enthymemes, and others topics). About
+1403b15	style it is next to speak. For it is not enough to
+1403b16	have what one should say; one must also say it as one should,
+1403b17	and this contributes much to the speech's appearing to be of a certain
+1403b18	kind. Now the first thing inquired into was, in the order of nature, what naturally comes
+1403b19	first: from what the facts themselves get what is persuasive;
+1403b20	second, setting them out in style; and third, a matter
+1403b21	that has the greatest power but has not yet been taken in hand, the things
+1403b22	that concern delivery. For it came late into tragedy and rhapsody too,
+1403b23	since at first the poets acted their tragedies
+1403b24	themselves. So it is clear that there is something of this kind in rhetoric
+1403b25	as in the art of poetry, which
+1403b26	certain others have treated, and Glaucon of Teos among them. It
+1403b27	lies in the voice: how it should be used for
+1403b28	each emotion, when loud and when soft and when middling,
+1403b29	and how to use the pitches, high, low and middle, and
+1403b30	what rhythms suit each. For there are three things that they consider,
+1403b31	and these are magnitude, melody and rhythm. Those who
+1403b32	master these carry off nearly all the prizes in the contests; and just as
+1403b33	there the actors now count for more than the poets,
+1403b34	so it is in political contests too, because of the depravity of the
+1403b35	citizens. No art of these matters has yet been composed,
+1403b36	since even the study of style made progress only late;
+1404a1	and delivery is thought vulgar, and rightly so considered. But since the whole
+1404a2	business of rhetoric is directed to opinion, we must give it attention, not as
+1404a3	something right but as something necessary; for what is
+1404a4	just is to seek nothing more from a speech than that it should neither
+1404a5	pain nor delight; it is just to contend with the facts
+1404a6	themselves, so that everything outside the demonstration is superfluous.
+1404a7	Still, delivery has great power, as has been said, because of the
+1404a8	depravity of the hearer. Yet the matter of style does have
+1404a9	some small necessary place in all teaching; for it makes some difference
+1404a10	for making a thing clear whether one says it this way or that, though not so great a difference;
+1404a11	all these things are appearance, and aimed at the hearer.
+1404a12	That is why no one teaches geometry this way. When delivery
+1404a13	comes, it will do the same as the actor's art; some have tried
+1404a14	to say a little about it, such as Thrasymachus in his
+1404a15	Appeals to Pity. Being good at delivery is a gift of nature, and
+1404a16	rather outside the art, while style is within the art. That is why
+1404a17	those who are capable in it win prizes in their turn, as do
+1404a18	the orators who excel in delivery; for written speeches
+1404a19	owe more of their strength to their style than to their thought.
+1404a20	It was the poets, naturally enough, who first set it in motion;
+1404a21	for words are imitations, and the voice too was there,
+1404a22	the most imitative of all our parts; that is how
+1404a23	the arts were formed, rhapsody, acting and
+1404a24	others too. And since the poets, though what they said was silly,
+1404a25	seemed to have won their reputation through their style, the first style
+1404a26	was poetic, like that of Gorgias; and even now
+1404a27	most of the uneducated think that such speakers speak
+1404a28	most beautifully. This is not so; the style of prose and that of
+1404a29	poetry are different. What happens shows it: for not even
+1404a30	the writers of tragedy use it in the same way any longer;
+1404a31	just as they changed from tetrameters to the iambic,
+1404a32	because of all the meters it is the most like prose,
+1404a33	so too they have given up all the words that are outside
+1404a34	ordinary conversation, with which the early poets adorned their verse, and which even
+1404a35	now the writers of hexameters use. So it is laughable
+1404a36	to imitate those who no longer use that manner themselves.
+1404a37	It is clear, then, that we need not go precisely into everything that can be said
+1404a38	about style, but only into what concerns the kind of which we
+1404a39	are speaking. The other has been discussed in the books on poetics.

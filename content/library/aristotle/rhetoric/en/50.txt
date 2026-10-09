@@ -1,0 +1,96 @@
+# Aristotle, Rhetoric, Book III, Chapter 9 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1409a24	Style must be either strung-on
+1409a25	and made one by the connective, like the preludes in dithyrambs,
+1409a26	or compact and like the antistrophes of the ancient poets.
+1409a27	The strung-on style is the ancient one:
+1409a28	“[This is the setting forth of the inquiry of Herodotus of Thurii]” (for formerly
+1409a29	everyone used it, but now not many do). By strung-on
+1409a30	I mean the style that has no end in itself, unless the matter
+1409a31	being told is finished. It is unpleasant because it is unlimited; for
+1409a32	everyone wants to see the end. That is why runners pant and collapse
+1409a33	at the finishing posts: while they see the finish ahead they do not
+1409a34	tire before it. This, then, is the strung-on style;
+1409a35	the compact is the one in periods. By
+1409a36	a period I mean a stretch of speech that has a beginning and an end
+1409a37	in itself and a magnitude easily taken in at a glance.
+1409b1	Such a style is pleasant and easy to learn: pleasant because
+1409b2	it is the opposite of the unlimited, and because the hearer always thinks
+1409b3	he has hold of something and that something has been brought to a limit for him, while
+1409b4	to foresee nothing and get nowhere is unpleasant; easy to learn
+1409b5	because it is easy to remember, and that is because the style in periods has number,
+1409b6	which is the easiest of all things to remember. That is why
+1409b7	everyone remembers verse better than loose prose; for it has a number
+1409b8	by which it is measured. The period must be complete †also in thought†,
+1409b9	and not be broken off like the iambics of Sophocles,
+1409b10	“This land is Calydon, of Pelops' country”; for by the division one may
+1409b11	take the opposite of what is meant, as in
+1409b12	the line cited, that Calydon is in the Peloponnese.
+1409b13	A period is either in clauses or simple. Style in
+1409b14	clauses is complete and divided and
+1409b15	easily spoken in one breath, not in its division †as the period too†
+1409b16	but as a whole (a clause is one of its two parts); by simple
+1409b17	I mean a period of one clause. Clauses and
+1409b18	periods should be neither stunted nor long. For a short one
+1409b19	often makes the hearer stumble (for when
+1409b20	he is still pressing on toward what lies ahead, and toward the measure whose limit he has in himself,
+1409b21	and is pulled back by the speaker's stopping, there must be a kind of stumble
+1409b22	from the check); long ones make him lag behind,
+1409b23	like those who turn wide of the post; for these too leave behind
+1409b24	their companions on the walk. In the same way
+1409b25	long periods become a speech in themselves, like a prelude,
+1409b26	so that what Democritus of Chios mocked comes true, jibing at
+1409b27	Melanippides, who wrote preludes instead of antistrophes:
+1409b28	“A man contrives evil for himself who contrives evil for another,
+1409b29	and a long prelude is worst for its maker.”
+1409b30	For such a jibe can fittingly be made against long-claused periods
+1409b31	too. And those whose clauses are very short do not make a period,
+1409b32	and so they carry the hearer headlong. Of the style in
+1409b33	clauses, one kind is divided and the other opposed:
+1409b34	divided, as “I have often wondered at those
+1409b35	who convened the festivals and established the athletic
+1409b36	contests”; opposed, the one in which, in each of the two clauses, opposite
+1409b37	is set beside opposite, or the same word is yoked to opposites,
+1410a1	as “They benefited both, those
+1410a2	who stayed behind and those who followed: for the
+1410a3	one they won more land than they had at home,
+1410a4	and to the other they left enough at home.”
+1410a5	The opposites are staying and following, enough and more. “So that both
+1410a6	those who need money and those who wish to enjoy it”:
+1410a7	enjoyment is opposed to acquisition. And again, “It often happens
+1410a8	in these that the wise fail and
+1410a9	fools succeed.” “At once they were judged worthy of the prize of valor, and not
+1410a10	long after they took the rule of the sea.” “To sail
+1410a11	through the mainland and march through the sea,
+1410a12	bridging the Hellespont and digging through Athos.” “And
+1410a13	men who are citizens by nature are deprived of their city by law.” “For some
+1410a14	of them perished miserably, others were saved shamefully.”
+1410a15	“To use barbarians as servants in private, but in public
+1410a16	to look on while many of our allies are slaves.” “Either to possess it
+1410a17	living, or to leave it behind at our death.” And what someone said against Peitholaus
+1410a18	and Lycophron in the court: “These men sold you
+1410a19	when they were at home, and now that they have come to you they have bought you.”
+1410a20	All these do what has been described. Such a style is pleasant
+1410a21	because opposites are most easily known, and more easily known
+1410a22	side by side, and because it is like a syllogism;
+1410a23	for refutation is a bringing together of opposites.
+1410a24	This, then, is antithesis. Parisōsis is when
+1410a25	the clauses are equal; paromoiōsis is when each clause has its
+1410a26	extremities alike. This must come at the beginning or at the end:
+1410a27	at the beginning it is always the words; at the end, the
+1410a28	last syllables, or inflections of the same word, or the same
+1410a29	word. At the beginning, such things as “For he got from him a field
+1410a30	left fallow”, and “they could be won with gifts and swayed
+1410a31	by words”; at the end, “You would have thought he had not
+1410a32	fathered a child but become a child himself”,
+1410a33	“in the greatest anxieties and the smallest
+1410a34	hopes”. Inflections of the same word: “Does he think he should be set up
+1410a35	in bronze, when he is not worth a bronze coin?” The same word: “You spoke
+1410a36	ill of him alive, and now you write ill of him.” From one syllable: “What
+1410a37	terrible thing would you have suffered if you had seen a man idle?” The same sentence can have all of these at once:
+1410b1	the same thing can be antithesis, parisōsis and
+1410b2	homoeoteleuton. The beginnings of periods have been listed nearly in full
+1410b3	in the Theodectea. There are also
+1410b4	false antitheses, like those Epicharmus made:
+1410b5	“At one time I was in their house, at another I was with them.”

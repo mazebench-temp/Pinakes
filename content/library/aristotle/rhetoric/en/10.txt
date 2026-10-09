@@ -1,0 +1,107 @@
+# Aristotle, Rhetoric, Book I, Chapter 10 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1368b1	As for accusation and defense, from how many and what kinds of premises
+1368b2	syllogisms should be made would be next to discuss. We must
+1368b3	grasp three things: first, for what and for how many reasons people do wrong;
+1368b4	second, in what state they themselves are; third, what kind of people they wrong
+1368b5	and in what condition these are. Let us define doing wrong and then speak
+1368b6	in order. Let doing wrong be causing harm voluntarily against the
+1368b7	law. Law is either particular or common: by
+1368b8	particular I mean the written law by which each people governs itself; by common,
+1368b9	the unwritten principles that seem to be agreed on among all. People act voluntarily
+1368b10	when they know what they are doing and are not compelled. Not everything
+1368b11	done knowingly is done by choice, but everything done by choice
+1368b12	is done knowingly; for no one is ignorant of what he chooses. The causes for which
+1368b13	people choose to harm others and do bad things against the law
+1368b14	are vice and lack of self-control; for if people have some depravity,
+1368b15	one or more, it is in the matter in which they are depraved
+1368b16	that they are also unjust: the mean man in money,
+1368b17	the licentious in the pleasures of the body, the soft
+1368b18	in matters of ease, the coward in dangers (for cowards
+1368b19	abandon their comrades in danger out of fear),
+1368b20	the ambitious for honor, the quick-tempered from anger,
+1368b21	the contentious for victory, the bitter for revenge,
+1368b22	the foolish because they are deceived about the just and
+1368b23	unjust, the shameless from contempt for reputation; and likewise
+1368b24	each of the others in each of the matters that concern him.
+1368b25	But this is clear, partly from what has been said about the virtues
+1368b26	and partly from what will be said about the emotions. It remains
+1368b27	to say for what reason and in what state people do wrong, and to whom.
+1368b28	First, then, let us distinguish what people are longing for and what they are avoiding
+1368b29	when they set about doing wrong; for clearly the accuser
+1368b30	must consider how many and which of these are present in his opponent,
+1368b31	the things for desire of which all people wrong their neighbors, and the defendant
+1368b32	which and how many of them are not present. All people do all
+1368b33	they do either not through themselves or through themselves. Of
+1368b34	what they do not through themselves, some they do by chance, some
+1368b35	of necessity, and of what they do of necessity, some by force and some by nature; so
+1368b36	all that they do not through themselves is done by chance, or
+1368b37	by nature, or by force. What they do through themselves, and of which they are the cause,
+1369a1	is done either through habit or through longing, and some through rational
+1369a2	longing, some through irrational. Wish is
+1369a3	longing for the good (for no one wishes for anything unless he thinks
+1369a4	it good); irrational longings are anger and appetite.
+1369a5	So all that people do they must do from seven
+1369a6	causes: chance, nature, force, habit, reasoning,
+1369a7	temper, appetite. To divide actions further by
+1369a8	age or states or anything else is superfluous; for if
+1369a9	the young happen to be irascible or full of appetite,
+1369a10	it is not because of youth that they do such things but because of anger
+1369a11	and appetite. Nor do they act because of wealth or poverty; it
+1369a12	happens that the poor, through their need, desire
+1369a13	money, and the rich, through their means, desire
+1369a14	unnecessary pleasures; but these too will act not because of
+1369a15	wealth or poverty but because of appetite. Likewise
+1369a16	the just and the unjust, and the others who are said
+1369a17	to act according to their states, will act from these causes; for either
+1369a18	by reasoning or by emotion; but some from good characters and
+1369a19	emotions, others from the opposite. It does happen, though, that
+1369a20	such and such acts follow from such and such states, and from others
+1369a21	others; for perhaps in the self-controlled man, because he is self-controlled,
+1369a22	good opinions and appetites follow at once about
+1369a23	pleasant things, and in the licentious the opposite ones about the same
+1369a24	things. So such divisions must be set aside, and we must consider
+1369a25	what usually follows what. If a man is fair or dark,
+1369a26	tall or short, nothing of this kind is fixed to follow;
+1369a27	but if he is young or old, just or unjust, it does
+1369a28	make a difference; and in general, whatever circumstances make men's
+1369a29	characters differ: thinking oneself rich or poor, for instance,
+1369a30	will make some difference, and being fortunate or unfortunate. These things
+1369a31	we shall discuss later; let us first speak now about the rest.
+1369a32	Things that happen by chance are those whose
+1369a33	cause is indefinite and that happen for no purpose and neither always
+1369a34	nor for the most part nor in any order (this is clear from the
+1369a35	definition of chance); by nature, those whose cause is in themselves and ordered,
+1369b1	for they turn out the same way always or for the most part.
+1369b2	As for things contrary to nature, there is no need to inquire precisely whether
+1369b3	they happen according to nature or by some other cause;
+1369b4	it would seem that chance too is a cause of such things.
+1369b5	By force, whatever happens against the appetite or the reasoning
+1369b6	of the agents themselves. By habit, what people do because they have
+1369b7	done it often. By reasoning, what seems
+1369b8	advantageous among the goods mentioned, either as an end or as
+1369b9	a means to the end, when it is done because it is advantageous; for even
+1369b10	the licentious do some advantageous things, but not because they are
+1369b11	advantageous but for pleasure. By temper and anger, acts of
+1369b12	revenge. Revenge differs from punishment: for
+1369b13	punishment is for the sake of the one who suffers it, revenge for the sake of the one
+1369b14	who inflicts it, that he may have his fill. What anger is will be made clear
+1369b15	in the discussion of the emotions. By appetite, whatever
+1369b16	seems pleasant is done. The familiar and the habitual are also among
+1369b17	pleasant things; for people do with pleasure many things that are not pleasant by nature,
+1369b18	once they are used to them. So, to sum up, all that
+1369b19	people do through themselves is either good or apparently
+1369b20	good, or pleasant or apparently pleasant. And since what they do through themselves
+1369b21	they do voluntarily, and what not through themselves involuntarily,
+1369b22	everything they do voluntarily would be either good or
+1369b23	apparently good, or pleasant or apparently pleasant. For I count
+1369b24	riddance of evils or apparent evils, or the exchange of a
+1369b25	greater for a lesser, among goods (for they are in a way
+1369b26	desirable); and riddance of the painful or apparently painful, or
+1369b27	the exchange of greater pains for lesser, I count among
+1369b28	pleasant things likewise. We must grasp, then, the advantageous and the pleasant:
+1369b29	how many and what kinds. The advantageous was discussed earlier
+1369b30	under deliberative speeches; the pleasant
+1369b31	let us discuss now. Definitions should be thought adequate
+1369b32	if on each point they are neither obscure nor overprecise.

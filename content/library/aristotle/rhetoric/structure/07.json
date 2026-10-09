@@ -1,0 +1,20 @@
+{
+  "scenes": [
+    {"from": "1363b5", "to": "1363b20", "title": "Greater and Lesser", "summary": "People often agree that two things are advantageous and dispute which is more so. The exceeding is as much and more; great and small are relative to most things; and since good is what is chosen for itself, many goods are a greater good than one or fewer."},
+    {"from": "1363b21", "to": "1364a15", "title": "Classes, Consequences and Causes", "summary": "If the greatest of one class exceeds the greatest of another, the classes do too; what is followed by another is greater; so is what produces a greater good, what is chosen for itself, what is an end, what is more self-sufficient, and what is a principle or cause."},
+    {"from": "1364a16", "to": "1364a30", "title": "Arguing Both Ways", "summary": "A thing can be made to seem greater either way. Leodamas argued against Callistratus that the planner did more wrong than the doer, and against Chabrias the reverse; the rare is greater than the plentiful, as gold than iron, yet the plentiful too (\"Best is water\"); the hard and the easy alike."},
+    {"from": "1364a31", "to": "1364b37", "title": "Virtues, Desires, Sciences, Judgments", "summary": "Greater are things whose opposite or loss is greater, whose works, desires and sciences are nobler, which the wise, the many or the best would choose, which the better man would choose (to suffer wrong rather than do it), the pleasanter, the nobler, the longer-lasting and more secure, and what follows from related forms of a word."},
+    {"from": "1364b38", "to": "1365a18", "title": "What All Choose; Division and Combination", "summary": "Greater is what all or most choose, what opponents and judges choose, what is shared by all or by few, what is more praised, honored or punished. Division into parts makes a thing seem greater, as the ills of a captured city moved Meleager to fight; so does combining, as Epicharmus does."},
+    {"from": "1365a19", "to": "1365a37", "title": "Occasions, Nature and the Greatest Part", "summary": "Occasions, ages, places and powers make deeds great, as in the epigram on the Olympic victor who once carried fish, and Iphicrates' boast of his beginnings; the natural is greater than the acquired (\"I am self-taught\"); and the greatest part of a great thing, as when Pericles said the youth lost to the city was the spring taken out of the year."},
+    {"from": "1365b1", "to": "1365b20", "title": "Reality and Appearance", "summary": "What aims at reality is greater than what aims at appearance: people would take a benefit unseen but not give one, and they call justice small because it is better to seem just than to be just. Greater too is what is useful for many things, like wealth and health, what is painless and pleasant, what is noticed, and what is cherished, as a one-eyed man's eye."}
+  ],
+  "quotations": [
+    {"from": "1364a28", "to": "1364a28", "source": "pindar", "entry": "best-is-water", "cite": "Pindar, Olympian 1.1"},
+    {"from": "1365a13", "to": "1365a15", "source": "homer", "entry": "aristotle-cleopatras-plea", "ref": "Il. 9.592-594"},
+    {"from": "1365a25", "to": "1365a27", "source": "simonides", "entry": "once-with-a-rough-yoke", "cite": "an epigram on an Olympic victor"},
+    {"from": "1365a30", "to": "1365a30", "source": "homer", "entry": "i-am-self-taught", "cite": "Od. 22.347"},
+    {"from": "1365a31", "to": "1365a33", "source": "pericles", "entry": "the-spring-taken-from-the-year", "cite": "Pericles' funeral oration", "marks": 0}
+  ],
+  "speeches": [],
+  "days": []
+}

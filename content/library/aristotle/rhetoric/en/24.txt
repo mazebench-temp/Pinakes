@@ -1,0 +1,87 @@
+# Aristotle, Rhetoric, Book II, Chapter 9 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1386b8	Opposed to pity above all is what people call being indignant; for to
+1386b9	being pained at undeserved misfortunes is opposed,
+1386b10	in a way, and comes from the same character, being pained
+1386b11	at undeserved good fortune. And both emotions belong to a good character;
+1386b12	for at those who fare badly undeservedly one should
+1386b13	share their grief and pity them, and at those who fare well so, be indignant; for what comes contrary to
+1386b14	desert is unjust; that is why we attribute
+1386b15	indignation to the gods as well. Envy too might seem to be opposed
+1386b16	to pity in the same way, as being close to
+1386b17	and the same as indignation, but it is different; for envy
+1386b18	too is a disturbing pain, and at
+1386b19	good fortune, but not of the undeserving but of one's equal and
+1386b20	like. That it is not because something different will happen to oneself, but
+1386b21	because of the neighbor himself, must be true of all alike;
+1386b22	for it will no longer be envy in the one case and indignation in the other, but
+1386b23	fear, if the pain and the disturbance arise because
+1386b24	something bad will come to oneself from the other's success.
+1386b25	It is clear that the opposite emotions will also follow
+1386b26	these; for the one who is pained at those who fare badly undeservedly
+1386b27	will be pleased, or free from pain, at those who fare badly in the opposite way:
+1386b28	for instance, when parricides and murderers
+1386b29	meet with punishment, no good man would be pained;
+1386b30	for one should rejoice at such things, and likewise
+1386b31	at those who fare well deservedly; for both are just,
+1386b32	and make the decent man rejoice; for he must hope
+1386b33	that what came to his like may come to himself too. And all these belong
+1386b34	to the same character, and their opposites to the
+1386b35	opposite; for the same man rejoices in others' misfortunes and is envious;
+1387a1	for whatever one is pained to see coming about and existing, one must
+1387a2	rejoice at its loss and destruction;
+1387a3	so all these hinder pity, but they differ
+1387a4	for the reasons stated, so that for making things not pitiable
+1387a5	all are alike useful. First, then, let us speak about
+1387a6	indignation: with whom people are indignant, and at what, and
+1387a7	in what state they themselves are; and then after this about the others.
+1387a8	It is clear from what has been said; for if
+1387a9	being indignant is being pained at someone who appears to fare well undeservedly,
+1387a10	it is clear, first, that one cannot be indignant at all good things;
+1387a11	for if a man is just or brave, or will acquire virtue,
+1387a12	one will not be indignant with him (for neither is there pity at the opposites of these),
+1387a13	but at wealth and power and the like, all those things of which,
+1387a14	simply speaking, the good are worthy, and those who have natural
+1387a15	goods, such as good birth and beauty and the like. Since
+1387a16	what is old seems something close to the natural, people must be
+1387a17	more indignant with those who have the same good if they happen to have it newly and fare well
+1387a18	because of it; for the newly rich give more pain
+1387a19	than those rich of old and by birth; likewise those who rule
+1387a20	and have power, many friends, good children and anything
+1387a21	of the kind. And if through these some other good comes to them,
+1387a22	it is the same; for here too the newly rich give more pain
+1387a23	when they rule through their wealth than those rich of old. And likewise
+1387a24	with the rest. The cause is that the former seem to have what is their own,
+1387a25	the others not; for what has always appeared so seems genuine,
+1387a26	so that the others seem not to have what is their own. And since each good
+1387a27	is not deserved by just anyone, but there is a certain proportion and
+1387a28	fitness, as beauty of arms suits not the just man but the brave,
+1387a29	and distinguished marriages not the newly rich but the
+1387a30	well-born: if, then, a good man gets what does not
+1387a31	suit him, it is a cause for indignation. So is it for the inferior
+1387a32	to contend with the superior, above all those
+1387a33	in the same field, whence this too has been said: “but he avoided battle with Ajax,
+1387a34	son of Telamon; for Zeus
+1387a35	was indignant with him whenever he fought a better man”;
+1387b1	and if not, then if the inferior contends with the superior in any way at all,
+1387b2	for instance the musician with the just man; for justice
+1387b3	is better than music. With whom, then,
+1387b4	people are indignant, and why, is clear from this; for these
+1387b5	and the like are the cases. People themselves are prone to indignation if
+1387b6	they happen to deserve the greatest goods and to have
+1387b7	acquired them; for that those who are not their like should be thought worthy of like things is not
+1387b8	just. Second, if they happen to be good and
+1387b9	of worth; for they judge well, and they hate what is unjust. And if they are
+1387b10	fond of honor and long for certain things, and above all ⟨if⟩
+1387b11	they are fond of honor in the things that others get undeservedly.
+1387b12	And in general those who think themselves worthy of what they do not think others worthy of
+1387b13	are prone to indignation at these people and for these things; that is why the slavish
+1387b14	and the bad and those indifferent to honor are not prone to indignation; for there is nothing
+1387b15	they think themselves worthy of. It is clear from this
+1387b16	at what sort of people's misfortune, bad fortune or failure one should
+1387b17	rejoice or be free from pain; for from what has been said
+1387b18	the opposites are clear, so that if the speech puts the judges
+1387b19	in such a state, and shows that those who claim
+1387b20	pity, and the things for which they claim it, do not deserve
+1387b21	to get it and deserve not to get it, pity is impossible.

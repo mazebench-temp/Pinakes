@@ -41,9 +41,10 @@ its historical period. Anecdotes, notes and quotations take `source` ("Strabo, G
 "Homer, Odyssey 1.185 = 24.308").
 
 References in an entry file are Iliad lines unless they name another work: `refs: [1.280]`, but
-`refs: [Poetics 1451a36]`. The Poetics is cited by Bekker page, column and line, and a range may run
-across columns or pages (`Poetics 1452a38-b1`, `Poetics 1453b37-1454a2`); in a Poetics note the work
-name is not needed. In prose, too, a bare citation means the Iliad: write *Odyssey* 19.203, not
+`refs: [Poetics 1451a36]` or `refs: [Rhetoric 1355b25-26]`. Aristotle is cited by Bekker page, column
+and line, and a range may run across columns or pages (`Poetics 1452a38-b1`, `Poetics 1453b37-1454a2`);
+in a note of the Poetics or the Rhetoric the work name is not needed, and a citation of the other
+treatise names it (“*Poetics* 1449a32–37” in a Rhetoric note). In prose, too, a bare citation means the Iliad: write *Odyssey* 19.203, not
 19.203, after a mention of the Odyssey.
 
 Lists may be written inline (`[a, b]`) or as indented `- item` lines. Use the indented form when an item
@@ -81,6 +82,9 @@ diaeresis, capitals, and elision marks**. So `Ἥρη` also matches `Ἥρῃ`, 
   the Trojan women, so the Trojans claim the phrase and `trojan-women` lists 5.461 under `except`.
 
 List the forms that actually occur, copied from the Greek text (`content/library/homer/iliad/grc/01.txt`).
+Patterns are words, stems (`*`) and phrases, not regular expressions, and a phrase is matched within a
+single line: in prose a quoted phrase often runs across a line break, so pattern the part that sits on
+one line (the Rhetoric's “ἀναγκαῖον πρᾶγμʼ ἀνιαρὸν”, not “πᾶν γὰρ ἀναγκαῖον”, which breaks after γάρ).
 The build warns about any pattern that never matches. Use `except` for lines where a form means something
 else (Χρύσην is the priest at 1.11 but the town everywhere else).
 
@@ -130,7 +134,7 @@ relations:
 ```
 
 References in a note default to the note's own work, so `2.260` means Iliad 2.260 and, in a Poetics
-note, `1451a36` means Poetics 1451a36. A note's `grc` and `en` apply only within its own work (an
+note, `1451a36` means Poetics 1451a36 (in a Rhetoric note, `1355b26` means Rhetoric 1355b26). A note's `grc` and `en` apply only within its own work (an
 author's note: within that author's works), while the entry file's patterns apply everywhere. So a
 form that would catch something else in another author belongs in a note: the Poetics' μιμ* stays out
 of Homer, where it would catch μίμνω "remain". A note for a whole work sits in the work's `notes/`
@@ -152,9 +156,9 @@ The body below the front matter is Markdown. Headings start at `##`. Link other 
 {{quote:Iliad 1.528-530 | The nod of Zeus}}
 ```
 
-The title after `|` is optional. A Poetics passage is quoted by its Bekker lines
-(`{{quote:Poetics 1449b24-28 | The definition of tragedy}}`, or `{{quote:1449b24-28}}` in a Poetics
-note). `npm run quotes` turns these into permanent ids (`{{quote:9d7f…}}`). Either form works in the
+The title after `|` is optional. A passage of Aristotle is quoted by its Bekker lines
+(`{{quote:Poetics 1449b24-28 | The definition of tragedy}}`, `{{quote:Rhetoric 1355b25-27}}`, or
+`{{quote:1449b24-28}}` in a note of the same work). `npm run quotes` turns these into permanent ids (`{{quote:9d7f…}}`). Either form works in the
 build. Inline, `{{ref:Iliad 1.5}}` links to a line.
 Footnotes use `[^1]` and a `[^1]: …` line; `{{tabs}}`, `{{tab:Label}}`, `{{/tabs}}` make folder tabs.
 A diagram is `{{figure:file.svg | Caption}}` on its own line, for an SVG in `content/figures/`. Draw it

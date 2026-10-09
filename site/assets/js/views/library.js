@@ -1,7 +1,7 @@
 import { el, esc, icon, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { presentIn, firstKeyIn, firstLabelIn, bookScope, currentBook } from '../lib/scope.js';
-import { BOOK_LETTERS, bookMark, bookWord, isProse, lineLabel } from '../lib/cite.js';
+import { BOOK_LETTERS, bookMark, bookWord, bookLabel, isProse, lineLabel } from '../lib/cite.js';
 
 export { BOOK_LETTERS };
 
@@ -21,7 +21,7 @@ export async function render() {
 
   const workCard = w => {
     const author = cat.by.authors.get(w.author);
-    const Book = bookWord(w), prose = isProse(w);
+    const Book = bookWord(w), prose = isProse(w), BL = n => esc(bookLabel(w, n));
     return `<article class="work-card">
       <div class="work-head">
         <div class="book-letter" aria-hidden="true">${esc(w.greek[0])}</div>
@@ -36,13 +36,13 @@ export async function render() {
           const b = i + 1, ok = w.available.includes(b), meta = w.books[b];
           const cls = `book-tile${ok ? ' available' : ''}${prose ? ' numeral' : ''}`;
           return ok
-            ? `<a role="listitem" class="${cls}" href="#/read/${w.id}/${b}" title="${Book} ${b}${meta?.title ? `: ${esc(meta.title)}` : ''}">${esc(bookMark(w, b))}<span class="bn">${b}</span></a>`
-            : `<span role="listitem" class="${cls}" title="${Book} ${b}: not yet translated">${esc(bookMark(w, b))}<span class="bn">${b}</span></span>`;
+            ? `<a role="listitem" class="${cls}" href="#/read/${w.id}/${b}" title="${Book} ${BL(b)}${meta?.title ? `: ${esc(meta.title)}` : ''}">${esc(bookMark(w, b))}<span class="bn">${BL(b)}</span></a>`
+            : `<span role="listitem" class="${cls}" title="${Book} ${BL(b)}: not yet translated">${esc(bookMark(w, b))}<span class="bn">${BL(b)}</span></span>`;
         }).join('')}
       </div>
       <div class="btn-row">
         <a class="btn" href="#/read/${w.id}/${w.available[0]}">${icon('book')}Read ${Book} ${w.available[0]}</a>
-        <a class="btn secondary" href="#/book/${w.id}/${w.available.at(-1)}">${Book} ${w.available.at(-1)} at a glance</a>
+        <a class="btn secondary" href="#/book/${w.id}/${w.available.at(-1)}">${Book} ${BL(w.available.at(-1))} at a glance</a>
         <a class="btn plain" href="#/work/${w.id}">About the ${esc(w.title)}</a>
       </div>
     </article>`;
@@ -89,7 +89,7 @@ export async function render() {
     </section>` : ''}
 
     ${stories.length ? `<section class="section">
-      <div class="section-head"><h2 class="section-title">Stories in ${esc(curWork?.title ?? '')} ${cur.book}</h2><a class="section-link" href="#/myths">Timeline</a></div>
+      <div class="section-head"><h2 class="section-title">Stories in ${esc(curWork?.title ?? '')} ${esc(bookLabel(curWork, cur.book))}</h2><a class="section-link" href="#/myths">Timeline</a></div>
       <div class="list">${stories.slice(0, 6).map(s => {
         const p = cat.by.periods.get(s.period);
         return `<a class="row has-icon" href="#/entry/${s.id}"><span class="row-icon" style="--h:34">${icon('amphora')}</span>
@@ -99,7 +99,7 @@ export async function render() {
 
     <section class="section">
       <div class="list">
-        ${vocab ? `<a class="row has-icon" href="#/vocab/${esc(vocab.work)}/${vocab.book}"><span class="row-icon" style="--h:290">${icon('textformat')}</span><span class="row-main"><span class="row-title"><span>Vocabulary of ${esc(cat.by.works.get(vocab.work)?.title ?? '')} ${vocab.book}</span></span><span class="row-sub one">Every Greek word, by frequency, with glosses</span></span>${icon('chevron', 'chev')}</a>` : ''}
+        ${vocab ? `<a class="row has-icon" href="#/vocab/${esc(vocab.work)}/${vocab.book}"><span class="row-icon" style="--h:290">${icon('textformat')}</span><span class="row-main"><span class="row-title"><span>Vocabulary of ${esc(cat.by.works.get(vocab.work)?.title ?? '')} ${esc(bookLabel(cat.by.works.get(vocab.work), vocab.book))}</span></span><span class="row-sub one">Every Greek word, by frequency, with glosses</span></span>${icon('chevron', 'chev')}</a>` : ''}
         <a class="row has-icon" href="#/about"><span class="row-icon" style="--h:226">${icon('info')}</span><span class="row-main"><span class="row-title"><span>About this edition</span></span><span class="row-sub one">Text, translation conventions, and the state of the index</span></span>${icon('chevron', 'chev')}</a>
       </div>
     </section>

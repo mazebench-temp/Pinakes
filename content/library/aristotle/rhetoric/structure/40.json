@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    {"from": "1402a29", "to": "1402b12", "title": "Counter-Syllogism and Objection", "summary": "One solves an argument by a counter-syllogism or by an objection; objections come from the thing itself, from the like, from the opposite, or from previous judgments, as Pittacus' law answers the plea for the drunk."},
+    {"from": "1402b13", "to": "1403a15", "title": "Solving the Four Kinds of Enthymeme", "summary": "Enthymemes come from probabilities, examples, tekmēria and signs. Probabilities can always be met by an objection, though the judge should judge from probabilities too; signs and examples can be solved, tekmēria only by denying the fact."}
+  ],
+  "quotations": [
+    {"from": "1402b2", "to": "1402b3", "entry": "caunian-love", "cite": "a proverbial expression", "marks": 0}
+  ],
+  "speeches": [],
+  "days": []
+}

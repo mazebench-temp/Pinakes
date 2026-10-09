@@ -7,6 +7,7 @@ summary: The warrior's helmet, of bronze or of leather, with a crest of horsehai
 aliases: [helmets, helm, crest, plume, korys, kynee]
 grc: [κόρυθος, κυνέῃ, κυνέην, τρυφαλείης, τρυφάλεια, λόφος, φάλον, "πολύκεστος ἱμὰς", "ῥῆξεν ἱμάντα"]
 en: [helmet, plume, ridge, strap]
+except: [Rhetoric 1408a4]
 ---
 
 Homer has four words for the helmet and uses them without clear distinction. κόρυς gives the verb κορύσσω, “to helmet, to arm”, and the standing epithet of Hector, κορυθαίολος, “of the gleaming helmet” ([[of-the-gleaming-helmet]]). Even spears can be κεκορυθμένα χαλκῷ, “helmeted with bronze”, that is, tipped with it (3.18). κυνέη is formed from κύων, “dog”, as if the helmet had first been a cap of dogskin, but a Homeric κυνέη can be “bronze-fitted” (χαλκήρης, 3.316). τρυφάλεια is of uncertain origin; it has been explained as a helmet with a φάλος. πήληξ is the fourth.

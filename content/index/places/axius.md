@@ -5,7 +5,7 @@ kind: place
 tags: [trojan, thracian, paeonia]
 summary: The great river of Paeonia and Macedonia, "whose water is the fairest that spreads over the earth". It is the ancestor of the Paeonian hero Asteropaeus.
 aliases: [Axios, Vardar]
-grc: [Ἀξιοῦ]
+grc: ["^Ἀξιοῦ"]
 en: [Axius]
 ---
 

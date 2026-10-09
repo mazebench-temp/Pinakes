@@ -1,0 +1,199 @@
+# Aristotle, Rhetoric, Book I, Chapter 2 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1355b25	Let rhetoric, then, be a capacity to see, in each case, the
+1355b26	possible means of persuasion. For this is the function of no other
+1355b27	art: each of the others teaches and persuades about
+1355b28	its own subject matter, as medicine does about
+1355b29	what is healthy and what causes disease, geometry about the properties
+1355b30	that belong to magnitudes, arithmetic about numbers,
+1355b31	and likewise the rest of the arts and sciences;
+1355b32	but rhetoric seems able to see what is persuasive about,
+1355b33	so to speak, whatever is given. That is why we say that its
+1355b34	art is not concerned with any special, defined class of things.
+1355b35	Of proofs, some are non-artistic and some artistic. By non-artistic
+1355b36	I mean those that are not provided by us but were there beforehand,
+1355b37	such as witnesses, tortures, contracts and the like; by artistic,
+1355b38	those that can be built by the method and by ourselves;
+1355b39	so that of these the first have only to be used, the second have to be found.
+1356a1	Of the proofs furnished by the speech there are three kinds.
+1356a2	Some lie in the character of the speaker, some
+1356a3	in putting the hearer into a certain frame of mind, and some in the speech
+1356a4	itself, by showing or seeming to show something. Through
+1356a5	character, when the speech is so spoken as to make the speaker
+1356a6	worthy of belief; for we believe decent people
+1356a7	more fully and more readily on all matters in general, and where there is
+1356a8	no certainty but room for doubt, completely. But this too
+1356a9	must come about through the speech, and not through a prior
+1356a10	opinion of what sort of man the speaker is. For we do not, as
+1356a11	some of the writers on the art do, leave out of the art
+1356a12	the decency of the speaker, as if it contributed nothing to persuasiveness;
+1356a13	on the contrary, character is, one might almost say, the most authoritative proof.
+1356a14	Through the hearers, when they are led into emotion by the speech;
+1356a15	for we do not give the same judgments when we are pained and
+1356a16	when we are glad, or when we love and when we hate. It is to this alone,
+1356a17	we say, that the present writers on the art try to devote themselves. These
+1356a18	matters will be made clear one by one when we speak about the
+1356a19	emotions. Through the speech people are persuaded when we show the truth
+1356a20	or what seems true from what is persuasive in each case. Since
+1356a21	proofs come about through these, it is clear that they are to be grasped
+1356a22	by one who can reason syllogistically and can study characters
+1356a23	and virtues, and, third, the emotions: what
+1356a24	each of the emotions is and of what sort, and from what it arises
+1356a25	and how. So it turns out that rhetoric is a kind of offshoot
+1356a26	of dialectic and of the study of characters, which
+1356a27	it is right to call politics. That is why rhetoric slips into
+1356a28	the guise of politics, and so do those who lay claim to
+1356a29	it, partly through lack of education, partly through pretension,
+1356a30	and partly for other human reasons. For it is a part
+1356a31	of dialectic and a likeness of it, as we said at the
+1356a32	beginning: neither of them is a science of how any
+1356a33	defined thing stands, but they are capacities for furnishing
+1356a34	arguments. About their capacity, then, and how they are related
+1356a35	to each other, enough has almost been said.
+1356a36	Of the proofs that work by showing or seeming
+1356a37	to show, just as in dialectic
+1356b1	there is induction, and syllogism, and apparent
+1356b2	syllogism, so it is here too: for the
+1356b3	example is an induction, the enthymeme a syllogism, and the
+1356b4	apparent enthymeme an apparent syllogism. I call an enthymeme
+1356b5	a rhetorical syllogism, and an example a rhetorical
+1356b6	induction. All who produce proofs by showing do so
+1356b7	by speaking either examples or enthymemes, and by nothing
+1356b8	besides; so if in general anything at all must be shown
+1356b9	either by syllogism or by induction (and this is clear to us
+1356b10	from the Analytics), each of the two must be the same as each
+1356b11	of these. What the difference is
+1356b12	between example and enthymeme is clear from the Topics
+1356b13	(for syllogism and induction were discussed there
+1356b14	earlier): to show on the basis of many similar cases
+1356b15	that something is so is there induction and here
+1356b16	example; to show that, when certain things are so, something else follows
+1356b17	beyond them because they are so, either universally or
+1356b18	for the most part, is there called a syllogism and here an enthymeme.
+1356b19	It is clear too that each kind of rhetorical speaking
+1356b20	has its merits; for as was said in the Methodics, so
+1356b21	it is with these: some speeches are full of examples,
+1356b22	others of enthymemes, and likewise some orators
+1356b23	favor examples and others enthymemes. Speeches that
+1356b24	proceed by examples are no less persuasive, but those full of enthymemes
+1356b25	are cheered more loudly. The cause [of these], and
+1356b26	how each should be used, we shall state later; for now let us
+1356b27	define these themselves more clearly. Since
+1356b28	the persuasive is persuasive to someone, and some of it is at once
+1356b29	persuasive and credible in itself, and some because it seems to be shown
+1356b30	by what is so; and since no art studies the particular, as
+1356b31	medicine studies not what is healthy for Socrates or for Callias but what is healthy for
+1356b32	this sort of person or these sorts (for that belongs to the art, while the particular
+1356b33	is infinite and cannot be known), neither will rhetoric study what is reputable
+1356b34	to the individual, Socrates or Hippias, but what is reputable to such and such people,
+1356b35	just as dialectic does. For dialectic too draws its conclusions not from whatever
+1356b36	comes to hand (some things seem so even to those who talk nonsense), but from
+1356b37	what needs argument, and rhetoric from what people are already used to deliberating about.
+1357a1	Its function concerns such things as
+1357a2	we deliberate about but have no arts for, and among
+1357a3	hearers of the sort who cannot take in a view through many steps
+1357a4	or reason from far back. We deliberate about things
+1357a5	that seem capable of being either way; about things
+1357a6	that cannot have happened, or be going to happen, or be, otherwise, no one deliberates
+1357a7	who believes them so, for there is nothing to gain. One can
+1357a8	reason and draw conclusions either from premises concluded before
+1357a9	or from premises not concluded but needing a syllogism
+1357a10	because they are not reputable; and of these, the first must
+1357a11	be hard to follow because of their length (for the judge is assumed
+1357a12	to be a simple person), and the second unpersuasive, because they are not drawn from
+1357a13	what is agreed or reputable. So the enthymeme
+1357a14	and the example must be concerned with things that can
+1357a15	for the most part be otherwise, the example being an induction and the
+1357a16	enthymeme a syllogism; and they must be drawn from few premises, often
+1357a17	fewer than those of a primary syllogism. For if one of these is
+1357a18	well known, it need not even be stated, since the hearer
+1357a19	supplies it himself: for instance, that Dorieus has won a contest whose prize is a crown;
+1357a20	it is enough to say that he has won at Olympia; that the Olympic prize
+1357a21	is a crown need not even be added, for everyone knows it.
+1357a22	Since few of the premises from which rhetorical syllogisms are drawn
+1357a23	are necessary (for most of the things about which judgments and
+1357a24	inquiries are made can also be otherwise: people deliberate and inquire about
+1357a25	what they do, and all actions are of this
+1357a26	kind, and none of them, so to speak, is necessary;
+1357a27	and what happens for the most part and is possible must be concluded
+1357a28	from other premises of the same kind, as the necessary from
+1357a29	the necessary; this too is clear to us from the Analytics),
+1357a30	it is clear that of the premises from which enthymemes are spoken, some
+1357a31	will be necessary, but most will hold for the most part; and
+1357a32	enthymemes are drawn from probabilities and from signs, so that
+1357a33	each of these must be the same as each of those. For
+1357a34	a probability is what happens for the most part, not
+1357a35	simply, as some define it, but what, among things that
+1357a36	can be otherwise, stands to that to which it is probable
+1357b1	as the universal to the particular. Of signs, one
+1357b2	kind stands as a particular to the universal,
+1357b3	the other as a universal to the particular. Of these, the
+1357b4	necessary sign is a tekmērion, while the one that is not necessary has no name
+1357b5	for the difference. I call necessary the signs from which
+1357b6	a syllogism comes about; and that is why such a sign
+1357b7	is a tekmērion: for when people think that what has been said cannot be
+1357b8	refuted, then they think they are bringing a tekmērion, as something shown and
+1357b9	concluded; for tekmar and limit mean the same in
+1357b10	the ancient tongue. Of signs, the one that stands as the
+1357b11	particular to the universal is like this: if someone were to say
+1357b12	that it is a sign that the wise are just that Socrates was wise
+1357b13	and just. This is a sign, but it can be refuted even if
+1357b14	what is said is true, for it is not a syllogism. But if
+1357b15	someone were to say that it is a sign that a man is ill that he has a fever, or that a woman has given birth
+1357b16	that she has milk, that sign is necessary. Of signs this alone is a tekmērion,
+1357b17	for it alone, if it is true, cannot be refuted. The kind that stands as the
+1357b18	universal to the particular is like this: if someone were to say that it is
+1357b19	a sign that a man has a fever that he breathes fast. This too can be refuted
+1357b20	even if it is true, for one can breathe hard
+1357b21	without a fever. What a probability is, then, and what a sign and a tekmērion are,
+1357b22	and how they differ, has been said here too; but they are defined more
+1357b23	clearly, along with the reason why some
+1357b24	are not syllogisms and others are, in the Analytics,
+1357b25	where they are discussed. That the example is
+1357b26	an induction, and about what kinds of things, has been said. It stands neither as
+1357b27	part to whole, nor as whole to part, nor as whole
+1357b28	to whole, but as part to part, like to
+1357b29	like: when both fall under the same class, but one is better known
+1357b30	than the other, there is an example. For instance, that in asking for the guard
+1357b31	Dionysius is plotting a tyranny; for
+1357b32	Pisistratus before him asked for a guard when he was plotting, and when he got it
+1357b33	made himself tyrant, and so did Theagenes in Megara; and all the others they know of
+1357b34	become examples for Dionysius, of whom they do not
+1357b35	yet know whether he asks for this reason. All these fall under the same
+1357b36	universal: that one who plots a tyranny asks for a guard.
+1358a1	From what, then, the proofs that seem to be
+1358a2	demonstrative are drawn, has been said. Among enthymemes the greatest difference, and
+1358a3	the one that has escaped nearly everyone, is the very one that holds for
+1358a4	syllogisms in the dialectical method too: some of them
+1358a5	belong to rhetoric, as some syllogisms belong to the dialectical
+1358a6	method, and others to other arts and
+1358a7	capacities, some that exist and some not yet discovered. That is why
+1358a8	they escape the hearers' notice, and those who handle them
+1358a9	properly pass out of these arts. What I mean will be clearer
+1358a10	if it is said at greater length. I say that dialectical
+1358a11	and rhetorical syllogisms are those about which we speak of
+1358a12	topics; and these are the ones common to questions of justice
+1358a13	and of nature and of politics and of many things that differ
+1358a14	in species, such as the topic of more and less; for it will be no
+1358a15	easier to draw a syllogism or state an enthymeme from it
+1358a16	about justice than about nature or anything else, though these
+1358a17	differ in species. Special topics are those drawn from the premises proper to each species and
+1358a18	genus; for instance, there are premises about nature from
+1358a19	which there is neither enthymeme nor syllogism about ethics,
+1358a20	and others about ethics from which there will be none about nature;
+1358a21	and so it is with all. The common topics will not make anyone
+1358a22	understand any genus, for they are about no underlying subject;
+1358a23	but the better one selects the special ones [the premises],
+1358a24	the more he will unawares produce a science other than dialectic and rhetoric;
+1358a25	for if he hits upon first principles, it will no longer be dialectic or rhetoric
+1358a26	but the science whose principles he has. Most
+1358a27	enthymemes are drawn from these species,
+1358a28	the particular and special ones, and fewer from the common.
+1358a29	As in the Topics, then, so here we must distinguish
+1358a30	the species of enthymemes and the topics from which they are to be taken.
+1358a31	By species I mean the premises special to each genus,
+1358a32	and by topics those common to all alike. Let us speak first, then,
+1358a33	about the species; but first let us take the kinds of rhetoric,
+1358a34	so that, having determined how many there are, we may take for each separately
+1358a35	its elements and premises.

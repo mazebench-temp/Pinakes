@@ -2,8 +2,8 @@
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
 catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 13, and Aristotle's
-Poetics: the Greek texts, new line-for-line translations, a word-by-word lexicon of the Iliad, and an
-index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
+Poetics and Rhetoric: the Greek texts, new line-for-line translations, a word-by-word lexicon of the
+Iliad, the Poetics and the first book of the Rhetoric, and an index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
 them.
 
 ```sh
@@ -21,7 +21,7 @@ Requires Node 20 or later. There are no dependencies to install.
 - **Reader**: Greek over English, line by line, or side by side on wide screens. Tap a Greek word
   for its dictionary form, gloss and parse. Tap a name for its index entry. Tap a line number to quote
   a line or a passage. Scene headings, speaker labels and the days of the action come from the
-  book's structure file. Prose (the Poetics) can also be read as running text, Greek beside English,
+  book's structure file. Prose (the Poetics and the Rhetoric) can also be read as running text, Greek beside English,
   cited by Bekker page and line, with every quotation of Homer and the poets labeled with its source.
 - **Index**: entries in 21 kinds, from gods and heroes to Greek words, epithets, rituals, quotations,
   works and textual notes. Every entry lists every line it occurs in, found automatically from its Greek forms.

@@ -6,7 +6,7 @@ tags: [king, thrace]
 summary: The son of Dryas who chased the nurses of Dionysus down the Nysean mount and drove the god into the sea; the gods were angry, Zeus blinded him, and he did not live long (6.130–140). Diomedes tells his story as a warning against fighting the gods. Later poets made him a king of the Edonians in Thrace.
 aliases: [Lykourgos, Lycurgus son of Dryas]
 grc: [Λυκόοργος, Λυκούργου]
-except: [7.142, 7.144, 7.148]
+except: [7.142, 7.144, 7.148, Rhetoric 1398b18]
 # Λυκόοργος at 7.142, 7.144 and 7.148 is the Arcadian Lycurgus who killed Areithous
 # (lycurgus-of-arcadia); this entry excepts those lines.
 refs: [6.131-133, 6.135, 6.137-140]

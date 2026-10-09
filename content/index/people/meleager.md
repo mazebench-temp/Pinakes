@@ -10,6 +10,7 @@ relations:
   - father: oeneus (2.641-642)
 passages:
   - 2.641-644 | The house of Oeneus
+except: [Rhetoric 1399b26]
 ---
 
 {{quote:c805a82b-1290-50fa-8f36-621d655d95d6}}

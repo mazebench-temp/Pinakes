@@ -7,6 +7,7 @@ summary: The sea beside the Achaean camp, loud-roaring, barren, and gray. It sep
 aliases: [sea, deep]
 grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον]
 en: [sea, deep]
+except: [Rhetoric 1400a12, Rhetoric 1400a13]
 ---
 
 ## Words for the sea

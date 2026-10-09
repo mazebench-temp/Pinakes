@@ -1,0 +1,99 @@
+# Aristotle, Rhetoric, Book II, Chapter 5 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1382a20	What people fear, and whom, and in what state, will be clear
+1382a21	as follows. Let fear be a kind of pain or disturbance arising from the imagination
+1382a22	of a future evil that is destructive or painful; for people do not fear all
+1382a23	evils, for instance that they will be unjust or slow, but those that
+1382a24	can bring great pains or destruction, and these if they appear not far off
+1382a25	but near, so as to be imminent. What is very far off
+1382a26	people do not fear; all know that they will die, but because
+1382a27	it is not near, they give it no thought. If this is what fear is,
+1382a28	those things must be fearful that appear to have great power
+1382a29	to destroy or to do harm that tends toward great
+1382a30	pain; that is why even the signs of such things
+1382a31	are fearful; for the fearful thing appears near; for this
+1382a32	is danger, the approach of something fearful. Such are
+1382a33	the enmity and anger of those able to do something (for it is clear
+1382a34	that they both wish and are able, so that they are near
+1382a35	to doing it), and injustice that has power; for the unjust man is unjust by his choice.
+1382b1	And virtue outraged, when it has power (for it is clear that it chooses to retaliate
+1382b2	whenever it is outraged, always, and now it is able), and fear
+1382b3	on the part of those able to do something; for such a man too must be ready
+1382b4	to act. And since most people are rather bad and
+1382b5	slaves to gain and cowardly in dangers, it is for the most part fearful
+1382b6	to be at another's mercy, so that those who know that one has done
+1382b7	something terrible are fearful, as likely to denounce or abandon one. And those
+1382b8	able to do wrong are fearful to those who can be wronged; for for the most part
+1382b9	people do wrong when they can. And those who have been wronged or
+1382b10	think they are wronged; for they are always watching for an opportunity. And those
+1382b11	who have done wrong, if they have power, are fearful, being afraid of retaliation;
+1382b12	for such a thing was assumed to be fearful. And rivals for the same
+1382b13	things, when both cannot have them at once; for people are always
+1382b14	at war with such rivals. And those who are fearful to their superiors
+1382b15	are fearful to us; for they could harm us all the more, if they can harm even
+1382b16	our superiors. And those whom our superiors fear, for the same reason.
+1382b17	And those who have destroyed men superior to them, and those who
+1382b18	attack men inferior to them; for they are either fearful already or will be when they have grown. And
+1382b19	among those who have been wronged, and enemies or rivals, not the quick-tempered and
+1382b20	outspoken, but the calm, the ironic and the unscrupulous;
+1382b21	for it is unclear whether they are near, so that it is never clear that they are far off. All
+1382b22	fearful things are more fearful when, if people make a mistake, it cannot
+1382b23	be put right, but is either altogether impossible, or not in their own power but in the power
+1382b24	of their opponents. And those for which there is no help, or no easy help. To
+1382b25	put it simply, things are fearful that are pitiable when they happen
+1382b26	or are about to happen to others. The fearful things, then, and what
+1382b27	people fear are, so to speak, more or less these, the greatest of them;
+1382b28	and in what state people themselves fear, let us now say. If
+1382b29	fear is accompanied by an expectation of suffering
+1382b30	something destructive, it is clear that no one fears who thinks
+1382b31	he would suffer nothing, nor fears the things he does not think he would suffer,
+1382b32	nor the people by whom he does not think, nor at a time when he does not think.
+1382b33	Those, then, must fear who think they might suffer something,
+1382b34	and from these people, and these things, and at this time. Those do not think
+1382b35	they could suffer who are in great prosperity, or seem to be
+1383a1	(that is why they are given to outrage, slight and rashness, and what makes
+1383a2	people so is wealth, strength, many friends, power),
+1383a3	nor those who think they have already suffered every
+1383a4	terrible thing and have grown cold toward the future, like
+1383a5	those already being put to death on the plank; there must be some hope underlying
+1383a6	of being saved, for them to be anxious. A sign of this: fear
+1383a7	makes people deliberate, and yet no one deliberates about what is hopeless.
+1383a8	So, when it is better that the hearers should be afraid, one must put them
+1383a9	in that state, by saying that they are the kind who might suffer (for
+1383a10	others greater than they have suffered), and by showing people like them
+1383a11	suffering or having suffered, and at the hands of those from whom they did not
+1383a12	expect it, and things ⟨they did not expect⟩, and at times when they did not expect it. Since
+1383a13	it is clear what fear is, and what fearful things are, and
+1383a14	in what state each kind of people are afraid, it is clear from this too what
+1383a15	confidence is, and about what things people are confident, and in what
+1383a16	state they are confident; for confidence is the opposite of
+1383a17	⟨fear, and what inspires confidence of⟩ what is fearful, so that it is hope, with an image,
+1383a18	of what brings safety as near, and of fearful things ⟨as⟩ either
+1383a19	nonexistent or far off. Things inspire confidence when terrible things are far
+1383a20	off and safe things near, and if there are means of putting things right and
+1383a21	sources of help, many or great or both, and if people have neither been wronged nor
+1383a22	done wrong, and if they have either no rivals at all, or none that
+1383a23	have power, or rivals who have power are friends or have done them
+1383a24	good or received good from them, or if those who have the same interests are more numerous
+1383a25	or stronger, or both. And people themselves are confident in this state:
+1383a26	if they think they have often succeeded and have not suffered,
+1383a27	or if they have often met with terrible things and escaped them;
+1383a28	for people become unmoved in two ways, either by
+1383a29	lack of trial or by having means of help, as in dangers at
+1383a30	sea those inexperienced in storms are confident about what is
+1383a31	to come, and so are those who have means of help through their experience. And
+1383a32	when something is not fearful to their equals, nor to their inferiors and those
+1383a33	they think themselves superior to; and they think so of those they have mastered, either themselves
+1383a34	or their superiors or their equals. And if they think they possess
+1383a35	more and greater advantages, superiority in which makes men fearful;
+1383b1	these are abundance of money, strength of bodies, of friends,
+1383b2	of land, and of the equipment for war, either all of it or
+1383b3	the most important. And if they have wronged no one, or not
+1383b4	many, or not those from whom they fear something; and in general if their relations with
+1383b5	the gods are good, both in other respects and in what comes from signs
+1383b6	and oracles; for anger inspires confidence, and not doing wrong but
+1383b7	being wronged produces anger, and the divine is supposed to help
+1383b8	those who are wronged. And when, as they set about something, they think they will either suffer nothing
+1383b9	[nor will suffer] or will succeed. About
+1383b10	fearful things and things that inspire confidence, then, enough has been said.

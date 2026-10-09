@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {"from": "1362a15", "to": "1362a21", "title": "The Advantageous", "summary": "The adviser aims at the advantageous, for people deliberate not about the end, happiness, but about what leads to it; so we must grasp the elements of the good and the advantageous."},
+    {"from": "1362a22", "to": "1362a34", "title": "What the Good Is", "summary": "Good is what is chosen for its own sake, what all things aim at, what intelligence would assign to each, what makes one well off and self-sufficient, and what produces, preserves or follows such things; one thing follows another at once or later, and produces in three ways."},
+    {"from": "1362a35", "to": "1362b28", "title": "The Goods Agreed On", "summary": "Getting goods and getting rid of evils are good, and so are the virtues and pleasure. The agreed goods are happiness, the virtues of the soul, health and beauty, wealth, friends, honor and reputation, the abilities to speak and act, natural gifts, the arts and sciences, life itself, and justice."},
+    {"from": "1362b29", "to": "1363a16", "title": "Disputed Goods", "summary": "In disputed cases: what our enemies would hate us to have (\"Surely Priam would rejoice\"), what has cost much toil (\"a thing to boast of for Priam\"), what many desire and fight over, and what even enemies praise, so that the Corinthians took offense when Simonides wrote that Ilium did not blame them."},
+    {"from": "1363a17", "to": "1363b4", "title": "What the Wise Prefer, What People Choose", "summary": "What the wise and good have preferred is good: Athena chose Odysseus, Theseus Helen, the goddesses Alexander, Homer Achilles. People choose what is possible and easy, what goes as they wish, what is their own or fitting, what pleases friends and harms enemies, what those they admire do, and what each kind of person is fond of."}
+  ],
+  "quotations": [
+    {"from": "1362b35", "to": "1362b35", "source": "homer", "entry": "surely-priam-would-rejoice", "ref": "Il. 1.255"},
+    {"from": "1362b37", "to": "1362b38", "entry": "misfortunes-bring-people-together", "cite": "a saying", "marks": 0},
+    {"from": "1363a5", "to": "1363a6", "source": "homer", "entry": "a-thing-to-boast-of-for-priam", "ref": "Il. 2.160", "note": "= 2.176"},
+    {"from": "1363a6", "to": "1363a6", "source": "homer", "entry": "shameful-to-stay-long", "ref": "Il. 2.298"},
+    {"from": "1363a7", "to": "1363a7", "entry": "the-water-jar-at-the-door", "cite": "a proverb", "marks": 0},
+    {"from": "1363a15", "to": "1363a16", "source": "simonides", "entry": "ilium-does-not-blame-the-corinthians", "cite": "Simonides"}
+  ],
+  "speeches": [],
+  "days": []
+}

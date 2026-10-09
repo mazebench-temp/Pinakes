@@ -1,0 +1,64 @@
+# Aristotle, Rhetoric, Book II, Chapter 25 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1402a29	About enthymemes, then, both real and apparent,
+1402a30	enough has been said; next after what has been said we must speak about solution.
+1402a31	One can solve an argument either by a counter-syllogism or by bringing an objection.
+1402a32	Counter-syllogisms, clearly, can be made from the same topics;
+1402a33	for syllogisms are drawn from reputable opinions,
+1402a34	and many things that are believed are contrary to each other. Objections
+1402a35	are brought, as in the Topics too, in four ways: either from the thing itself,
+1402a36	or from the like, or from the opposite, or from previous judgments. By
+1402a37	“from the thing itself” I mean, for instance, if the enthymeme were about love, that it is good,
+1402b1	the objection would be twofold: either by saying in general that every
+1402b2	want is bad, or in particular that there would be no talk of Caunian
+1402b3	love if there were not wicked loves too. From the
+1402b4	opposite an objection is brought, for instance, if the enthymeme were
+1402b5	that the good man does good to all his friends, ⟨by saying⟩
+1402b6	that neither does the wicked man do harm to all. From the like: for instance, if
+1402b7	the enthymeme were that those who have been ill treated always hate, by saying
+1402b8	that neither do those who have been well treated always love. Judgments
+1402b9	are those from well-known men: for instance, if someone stated the enthymeme
+1402b10	that one should pardon the drunk, since they err
+1402b11	in ignorance, the objection is that Pittacus, then, is not to be praised; for he would not
+1402b12	have laid down greater penalties if someone does wrong when drunk.
+1402b13	Since enthymemes are drawn from four sources, and these four
+1402b14	are probability, example, tekmērion and sign, and
+1402b15	enthymemes drawn from what is, or seems to be, so for the most part
+1402b16	are from probabilities, those through induction from the
+1402b17	like, either one or more, when one takes the universal and then reasons
+1402b18	to the particulars, are through example, those through what is necessary
+1402b19	and ⟨always⟩ so are through a tekmērion, and those through the universal [or]
+1402b20	the particular, whether it is so or not, are through signs; and since the
+1402b21	probable is not what is always so but what is so for the most part: it is clear that
+1402b22	enthymemes of this kind can always be solved by bringing an objection,
+1402b23	but the solution is apparent and not always true; for the objector solves it
+1402b24	not by showing that it is not probable but that it is not necessary; that is why
+1402b25	by this fallacy one can always gain the advantage in defending rather than in accusing;
+1402b26	for since the accuser demonstrates through probabilities,
+1402b27	and it is not the same to solve an argument by showing that it is not probable or
+1402b28	that it is not necessary, and what holds for the most part is always open to objection
+1402b29	(for otherwise it would not be probable but always and necessary), the judge
+1402b30	thinks, if it is solved in this way, either that it is not probable or that it is not for him to judge it,
+1402b31	reasoning falsely, as we said (for he must judge not only from
+1402b32	what is necessary, but also from what is probable;
+1402b33	for this is judging to the best of one's judgment); it is not enough, then,
+1402b34	to solve it by showing that it is not necessary; one must solve it by showing that it is not probable.
+1402b35	This will happen if the objection is more a matter of what
+1402b36	holds for the most part. It can be so in two ways, either by
+1402b37	time or by the facts, and most decisively if by both;
+1403a1	for if things are so ⟨in more cases and⟩ more often, this is more
+1403a2	probable. Signs, too, and enthymemes stated through a sign can be
+1403a3	solved, even if they are true, as was said in the first part;
+1403a4	for that every sign is invalid is clear to us from the
+1403a5	Analytics. Against arguments from examples the solution is the same
+1403a6	as against probabilities; for if we have ⟨one⟩ thing
+1403a7	that is not so, it has been solved, because it is not necessary, even if
+1403a8	more things, or more often, are otherwise; and if more and
+1403a9	more often are so, one must fight it by saying that the present case is not
+1403a10	like, or not alike in manner, or has at least some difference. Tekmēria
+1403a11	and enthymemes from tekmēria cannot be solved as
+1403a12	invalid (this too is clear to us from the Analytics);
+1403a13	it remains to show that what is stated is not so. But if
+1403a14	it is clear both that it is so and that it is a tekmērion, it then becomes insoluble;
+1403a15	for everything becomes a demonstration, now evident.

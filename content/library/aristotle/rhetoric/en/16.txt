@@ -1,0 +1,49 @@
+# Aristotle, Rhetoric, Book II, Chapter 1 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1377b16	The materials, then, from which one should exhort and dissuade,
+1377b17	praise and blame, accuse and defend, and
+1377b18	what opinions and premises are useful for the proofs of these,
+1377b19	are these; for the enthymemes are about these and drawn from these,
+1377b20	so to speak, for each kind of speech separately. But since
+1377b21	rhetoric exists for the sake of judgment (for people judge advice,
+1377b22	and a lawsuit is a judgment), one must look not only to the argument,
+1377b23	that it may be demonstrative and credible, but must also present oneself
+1377b24	as a certain kind of person and prepare the judge; for it makes a great difference
+1377b25	to proof, above all in advice, but also in
+1377b26	lawsuits, that the speaker should appear to be a certain kind of person and
+1377b27	that the hearers should suppose him to be disposed in a certain way toward them, and besides
+1377b28	this, if they themselves happen to be disposed in a certain way. That
+1377b29	the speaker should appear to be of a certain kind is more useful for
+1377b30	advice, that the hearer should be disposed in a certain way
+1377b31	in lawsuits; for things do not appear the same to those who love
+1377b32	and those who hate, nor to the angry and the calm,
+1378a1	but either altogether different or different in magnitude: to the one who loves,
+1378a2	the man he is judging seems either to do no wrong or to do little wrong; to
+1378a3	the one who hates, the opposite; and to one who desires something and is hopeful,
+1378a4	if what is to come is pleasant, it appears both that it will come and that it will be good; to
+1378a5	one who is unmoved ⟨or⟩ annoyed, the opposite. That
+1378a6	the speakers themselves are credible has three
+1378a7	causes; for there are just so many things through which we believe, apart from demonstrations.
+1378a8	These are practical wisdom, virtue and goodwill;
+1378a9	for people speak falsely in what they say or advise either through
+1378a10	all of these or through one of them: either through folly they do not form
+1378a11	correct opinions, or, forming correct opinions, through depravity they do not say what they think,
+1378a12	or they are practically wise and decent but not
+1378a13	well disposed, and so may not advise what is best even though they know it;
+1378a14	and there is nothing besides these. So one who seems to have
+1378a15	all of these must be credible to his hearers. How, then,
+1378a16	people may appear practically wise and good must be taken from the
+1378a17	distinctions made about the virtues; for from the same materials one could
+1378a18	present either another or oneself as such. About
+1378a19	goodwill and friendship we must speak in the discussion of the emotions.
+1378a20	The emotions are the things through which people change and differ in their judgments,
+1378a21	and which are attended by pain and pleasure, such as anger, pity, fear and all other
+1378a22	such, and their opposites. About each one must divide the subject into
+1378a23	three: I mean, for instance, about anger, in what state people are irascible, and
+1378a24	with whom they are usually angry, and at what sort of things; for if we had one or
+1378a25	two of these, but not all, it would be impossible
+1378a26	to produce anger; and likewise with the
+1378a27	others. So, just as for the subjects discussed before
+1378a28	we drew up the premises, so let us do for these too,
+1378a29	and divide them in the way described.

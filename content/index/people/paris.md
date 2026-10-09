@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, house-of-priam, warrior]
 summary: Son of [[Priam]], in Homer usually called Alexander, whose abduction of [[Helen]], the wife of [[Menelaus]], caused the Trojan War. Beautiful and favored by [[Aphrodite]], he fights as an archer, and his own people hate him.
 aliases: [Alexander, Alexandros, Evil Paris, Dysparis]
-grc: [Ἀλέξανδρ*, ^Πάρι*, Δύσπαρι]
+grc: [Ἀλέξανδρ*, ^Πάρι*, Δύσπαρι, "!^Πάριοι"]
 en: [Alexander, Paris]
 relations:
   - father: priam (3.356)
@@ -13,6 +13,7 @@ relations:
   - brother: hector
   - brother: lycaon-son-of-priam (3.333)
 featured: true
+except: [Rhetoric 1398a22, Rhetoric 1401b20]
 ---
 
 ## Etymology

@@ -1,0 +1,52 @@
+# Aristotle, Rhetoric, Book III, Chapter 15 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1416a4	As for slander, one topic is the means by which one may dispel
+1416a5	an unpleasant suspicion (for it makes no difference whether anyone has voiced it
+1416a6	or not, so that this topic is universal). Another topic is
+1416a7	to meet the points in dispute: either that the thing is not so, or that it is not
+1416a8	harmful, or not to this man, or not so great, or not unjust,
+1416a9	or not much so, or not shameful, or of no importance; for these are
+1416a10	the matters in dispute, as in Iphicrates' reply to Nausicrates:
+1416a11	he said that he had done what the other alleged and had done harm, but had not
+1416a12	done wrong. Or one may offset the wrong: if it was harmful,
+1416a13	still it was noble; if painful, still beneficial; or something else
+1416a14	of the kind. Another topic: that it was an error, or a misfortune, or
+1416a15	necessary; as Sophocles said that he trembled, not, as his slanderer
+1416a16	alleged, so as to seem old, but from necessity; for it was not by his own will
+1416a17	that he was eighty years old. And one may substitute the motive,
+1416a18	saying that one did not want to do harm but this other thing, and did not mean to do what
+1416a19	one is slandered with, but harm happened to result: “It would be just
+1416a20	to hate me if I had acted so that this would happen.” Another, if
+1416a21	the slanderer has been implicated, now or before, himself or one of
+1416a22	those close to him. Another, if others are implicated who
+1416a23	all agree are not liable to the slander: for example, if because he is neat
+1416a24	so-and-so is an adulterer, then so is so-and-so. Another, if he has slandered
+1416a25	others, or someone else has, or if others, without slander, were suspected
+1416a26	as he is now, who have been shown to be innocent. Another, from
+1416a27	slandering the slanderer in return; for it would be absurd if a man
+1416a28	who is himself untrustworthy were to have his words trusted. Another,
+1416a29	if there has already been a judgment, as Euripides replied to Hygiaenon in
+1416a30	the exchange suit, when Hygiaenon accused him of impiety for having
+1416a31	written a line urging perjury, “My tongue has sworn,
+1416a32	but my mind is unsworn.” Euripides said that Hygiaenon was doing wrong
+1416a33	in bringing the judgments of the Dionysiac contest into the
+1416a34	courts; for he had given an account of them there,
+1416a35	or would give one, if Hygiaenon wished to accuse him. Another, from accusing slander
+1416a36	itself: how great an evil it is, both because it creates new issues for judgment and because it does not
+1416a37	trust the facts. A topic common to both sides is to cite tokens,
+1416b1	as in the Teucer Odysseus says that Teucer is a kinsman of
+1416b2	Priam, for Hesione was Priam's sister; and Teucer replies that his father,
+1416b3	Telamon, was Priam's enemy, and that he did not
+1416b4	denounce the spies. Another, for the slanderer:
+1416b5	to praise something small at length and blame something great briefly; or,
+1416b6	after setting out many good points, to blame the one that bears on the matter.
+1416b7	Such speakers are the most artful and the most unjust; for
+1416b8	they try to do harm with good things, mixing them with the bad.
+1416b9	Common to the slanderer and to the man rebutting slander: since
+1416b10	the same thing can be done for more than one reason, the
+1416b11	slanderer must put a malicious construction on it, taking it in the worse sense, and the man
+1416b12	rebutting in the better: for example, when Diomedes chose Odysseus,
+1416b13	the one says that it was because he thought
+1416b14	Odysseus the best, the other that it was not, but because he alone would not rival him,
+1416b15	being worthless. So much for slander.

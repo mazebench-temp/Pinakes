@@ -1,0 +1,21 @@
+{
+  "scenes": [
+    {"from": "1405b35", "to": "1406a6", "title": "Double Words", "summary": "Frigidity in style comes from four things. The first is double words: Lycophron's “many-faced sky of the great-peaked earth”, Gorgias' “beggar-muse-flatterers”, Alcidamas' face “becoming fire-hued” and his “end-fulfilling” zeal; they seem poetic because they are compounded."},
+    {"from": "1406a7", "to": "1406a10", "title": "Rare Words", "summary": "The second is rare words: Lycophron called Xerxes “a monstrous man” and Sciron “a ravager of a man”, and Alcidamas wrote of “a plaything for poetry” and “the reckless folly of nature”."},
+    {"from": "1406a11", "to": "1406b4", "title": "Epithets", "summary": "The third is epithets that are long, untimely or crowded. “White milk” suits poetry, but Alcidamas uses epithets as the main dish rather than a seasoning: “the moist sweat”, “the laws, the kings of cities”. Poetic language produces the laughable, the frigid and obscurity; double words suit the dithyramb, rare words epic, metaphor iambic verse."},
+    {"from": "1406b5", "to": "1406b19", "title": "Metaphors", "summary": "The fourth is metaphors that are laughable, too dignified and tragic, or far-fetched and obscure: Gorgias' “affairs pale and bloodless”, Alcidamas' philosophy as “a fortress raised against the law” and the Odyssey as “a beautiful mirror of human life”. Best of the tragic manner is what Gorgias said to the swallow: “Shameful, Philomela!”"}
+  ],
+  "quotations": [
+    {"from": "1405b36", "to": "1405b37", "source": "lycophron-the-sophist", "entry": "lycophron-the-sophist", "cite": "Lycophron", "marks": 2},
+    {"from": "1405b37", "to": "1406a1", "source": "gorgias", "entry": "gorgias", "cite": "Gorgias"},
+    {"from": "1406a1", "to": "1406a4", "source": "alcidamas", "entry": "alcidamas", "cite": "Alcidamas", "marks": 4},
+    {"from": "1406a7", "to": "1406a8", "source": "lycophron-the-sophist", "entry": "lycophron-the-sophist", "cite": "Lycophron", "marks": 2},
+    {"from": "1406a8", "to": "1406a10", "source": "alcidamas", "entry": "alcidamas", "cite": "Alcidamas", "marks": 3},
+    {"from": "1406a12", "to": "1406a12", "source": "homer", "entry": "epitheton", "cite": "a poetic epithet (Il. 4.434, 5.902)"},
+    {"from": "1406b9", "to": "1406b10", "source": "gorgias", "entry": "gorgias", "cite": "Gorgias", "marks": 2},
+    {"from": "1406b12", "to": "1406b14", "source": "alcidamas", "entry": "alcidamas", "cite": "Alcidamas", "marks": 3},
+    {"from": "1406b17", "to": "1406b17", "source": "gorgias", "entry": "gorgias", "cite": "Gorgias, to a swallow"}
+  ],
+  "speeches": [],
+  "days": []
+}

@@ -28,4 +28,4 @@ In Book 16 he says the line again to Patroclus, of the girl the Achaeans chose f
 
 ## Outside Homer
 
-[[Aristotle]] quotes the line twice. In the *Rhetoric* it shows how men who are slighted speak of the slight, beside Achilles' complaint that Agamemnon “has dishonored me” (*Rhetoric* 2.2, 1378b; see [[aristotle-anger]]). In the *Politics* it defines the citizen as the man who has a share in the honors, that is, in the offices of the city: “as Homer wrote, ‘as if I were some dishonored vagrant’; for the man who has no share in the honors is like a resident alien” (*Politics* 3.5, 1278a34–38).
+[[Aristotle]] quotes the line twice. In the *Rhetoric* it shows how men who are slighted speak of the slight, beside Achilles' complaint that Agamemnon “has dishonored me” (*Rhetoric* 2.2, 1378b32–35; see [[aristotle-anger]]). In the *Politics* it defines the citizen as the man who has a share in the honors, that is, in the offices of the city: “as Homer wrote, ‘as if I were some dishonored vagrant’; for the man who has no share in the honors is like a resident alien” (*Politics* 3.5, 1278a34–38).

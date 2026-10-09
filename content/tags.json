@@ -61,6 +61,11 @@
       "summary": "Aristotle's terms and ideas: imitation, plot, character, the tragic emotions, recognition, diction."
     },
     {
+      "id": "art-of-rhetoric",
+      "label": "The Art of Rhetoric",
+      "summary": "Aristotle's terms and ideas: proof and argument, the three kinds of speech, the good and the noble, wrongdoing and pleasure, law and equity."
+    },
+    {
       "id": "reception",
       "label": "Reception",
       "summary": "What later readers, thinkers, and artists made of it."
@@ -288,6 +293,18 @@
       "parent": "woman",
       "label": "Mother",
       "summary": "Mothers."
+    },
+    {
+      "id": "statesman",
+      "facet": "role",
+      "label": "Statesman",
+      "summary": "Politicians, generals and orators of the historical cities."
+    },
+    {
+      "id": "tyrant",
+      "facet": "role",
+      "label": "Tyrant",
+      "summary": "Sole rulers who took or held power outside the laws."
     },
     {
       "id": "cronids",
@@ -1111,6 +1128,48 @@
       "facet": "poetics",
       "label": "Theater & performance",
       "summary": "Stage, actors, chorus, masks and contests."
+    },
+    {
+      "id": "proof",
+      "facet": "art-of-rhetoric",
+      "label": "Proof & argument",
+      "summary": "The proofs (πίστεις): character, emotion and argument; enthymeme and example; probabilities, signs and topics."
+    },
+    {
+      "id": "kinds-of-speech",
+      "facet": "art-of-rhetoric",
+      "label": "The three kinds of speech",
+      "summary": "Deliberative, judicial and epideictic speech: their hearers, their times and their ends."
+    },
+    {
+      "id": "the-good",
+      "facet": "art-of-rhetoric",
+      "label": "The good & the noble",
+      "summary": "Happiness, the good and the advantageous, virtue and the noble: the ends that speeches look to."
+    },
+    {
+      "id": "wrongdoing",
+      "facet": "art-of-rhetoric",
+      "label": "Wrongdoing & pleasure",
+      "summary": "Why people do wrong, in what state and to whom; pleasure, appetite and the causes of action."
+    },
+    {
+      "id": "law",
+      "facet": "art-of-rhetoric",
+      "label": "Law & equity",
+      "summary": "Particular and common law, written and unwritten; equity; laws, witnesses, contracts, tortures and oaths."
+    },
+    {
+      "id": "emotions",
+      "facet": "art-of-rhetoric",
+      "label": "Emotions & characters",
+      "summary": "The emotions an orator rouses and allays, and the characters of hearers by age and fortune."
+    },
+    {
+      "id": "style",
+      "facet": "art-of-rhetoric",
+      "label": "Style & arrangement",
+      "summary": "Diction, metaphor, rhythm and periods, and the parts of a speech from the proem to the epilogue."
     },
     {
       "id": "philosophy",

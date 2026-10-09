@@ -1,0 +1,69 @@
+# Aristotle, Rhetoric, Book II, Chapter 3 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1380a6	Since growing angry is the opposite of growing calm, and anger
+1380a7	of calmness, we must take up in what state people are calm, toward whom
+1380a8	they are calm, and by what means they are calmed. Let
+1380a9	calming be a settling and quieting of anger. If, then, people are angry
+1380a10	with those who slight them, and a slight is voluntary, it is clear that toward those
+1380a11	who do none of these things, or do them involuntarily, or appear
+1380a12	to be such, they are calm. And toward those who wished the opposite of what they did.
+1380a13	And toward all who are like that to themselves as well; for no one seems
+1380a14	to slight himself. And toward those who admit their fault and are sorry;
+1380a15	for, as though they had justice in the offender's being pained at what he has done, they cease
+1380a16	from their anger. A sign of this is seen in the punishment of servants: those
+1380a17	who contradict us and deny it we punish more, but toward
+1380a18	those who admit that they deserve punishment we cease to be enraged. The cause
+1380a19	is that denying what is evident is shamelessness, and shamelessness
+1380a20	is slight and contempt; at any rate, before those we greatly despise
+1380a21	we feel no shame. And toward those who humble themselves before
+1380a22	them and do not contradict; for they appear to admit
+1380a23	that they are inferior, and inferiors are afraid, and no one who is afraid
+1380a24	slights. That anger ceases toward those who humble themselves
+1380a25	even dogs show, by not biting those who
+1380a26	sit down. And toward those who are serious with them when they are serious;
+1380a27	for they think they are taken seriously and not despised. And toward those
+1380a28	who have done them greater favors. And toward those who beg and plead with them;
+1380a29	for they are humbler. And toward those who are not given to outrage or mockery
+1380a30	or slight toward anyone, or not toward good men, or toward
+1380a31	people such as they are themselves. In general one should look at what calms
+1380a32	from the opposites. And they are not angry with those whom they fear or before whom they feel shame, as long as they are
+1380a33	in that state; for it is impossible to fear and
+1380a34	be angry at the same time. And with those who acted in anger they are either not angry
+1380a35	or less angry; for they do not appear to have acted
+1380a36	out of slight; for no one who is angry
+1380a37	slights, since a slight is painless,
+1380b1	but anger is accompanied by pain. And toward those who feel shame before them.
+1380b2	It is clear too that those in a state opposite to anger are calm,
+1380b3	as at play, in laughter, at a festival, in prosperity,
+1380b4	in success, in fulfillment, in general in freedom from pain and in pleasure that is not
+1380b5	outrageous, and in reasonable hope. Again, those whose anger has had time and is not
+1380b6	fresh; for time stops anger. And
+1380b7	a revenge taken earlier on someone else also stops a greater anger against another;
+1380b8	that is why Philocrates answered well when someone, the people being
+1380b9	angry, said, “Why don't you defend yourself?” “Not yet,” he said. “But when?”
+1380b10	“When I see someone else slandered.” For people become calm when
+1380b11	they have spent their anger on another, as happened in the case of Ergophilus:
+1380b12	though they were more exasperated with him than with Callisthenes, they acquitted him because they had
+1380b13	condemned Callisthenes to death the day before. And if they have convicted the man.
+1380b14	And if the offenders have suffered a greater evil than the angry
+1380b15	would have done to them; for they think they have as good as taken revenge. And
+1380b16	if people think that they themselves are in the wrong and are suffering justly; for anger
+1380b17	does not arise against what is just; for they no longer think they are suffering
+1380b18	contrary to what is fitting, and that was what anger was. That is why one should first punish
+1380b19	in words; for even slaves are less vexed when they are
+1380b20	punished. And if people think that the other will not perceive that it is because
+1380b21	of them and in return for what they suffered; for anger is against the
+1380b22	individual, as is clear from the definition. That is why the poet has rightly
+1380b23	written “say that Odysseus, sacker of cities,” as though he would not have
+1380b24	been avenged unless the other perceived both by whom and for
+1380b25	what. So people are not angry either with any others who do not perceive,
+1380b26	or with the dead any longer, since they have suffered the
+1380b27	utmost and will feel no pain or perception, which is what the
+1380b28	angry aim at. That is why the poet spoke well about Hector,
+1380b29	when he wished to stop Achilles' anger against the dead man:
+1380b30	“for it is the senseless earth that he maltreats in his fury.” It is clear, then,
+1380b31	that those who wish to calm others must speak from these
+1380b32	topics, putting the hearers in that state, and making those with whom
+1380b33	they are angry seem either fearful or people before whom one feels shame, or
+1380b34	to have done them favors, or to have acted unwillingly, or to be deeply pained at what they have done.

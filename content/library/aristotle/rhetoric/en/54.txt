@@ -1,0 +1,30 @@
+# Aristotle, Rhetoric, Book III, Chapter 13 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1414a31	A speech has two parts: for one must state the subject
+1414a32	it is about, and demonstrate it. So it is impossible to state it and not
+1414a33	demonstrate it, or to demonstrate it without stating it first; for whoever
+1414a34	demonstrates demonstrates something, and whoever states something first does so in order
+1414a35	to demonstrate it. Of these, the one is the statement and the other
+1414a36	the proof, as if one were to divide them into the problem and
+1414a37	the demonstration. As things are, people divide them laughably; for narration surely belongs to judicial
+1414a38	speech alone; how can there be in an epideictic speech or a speech to the assembly
+1414a39	a narration of the kind they mean, or a reply to the opponent,
+1414b1	or an epilogue in demonstrative speeches? Proem,
+1414b2	comparison and review occur in speeches to the assembly only
+1414b3	when there is controversy. For there is often accusation and
+1414b4	defense there, but not insofar as it is advice. And
+1414b5	the epilogue does not even belong to every judicial speech, for example if the speech is
+1414b6	short or the matter easy to remember; for what it does
+1414b7	is to cut down the length. The necessary parts, then, are statement and
+1414b8	proof. These are the proper parts; at most there are proem,
+1414b9	statement, proof and epilogue; for the reply to the opponent is part of
+1414b10	the proofs, and comparison is an amplification of one's own case, so that
+1414b11	it is a part of the proofs (for whoever does this demonstrates
+1414b12	something); but the proem is not, nor the epilogue: it reminds.
+1414b13	If one makes such divisions, then, as the followers of
+1414b14	Theodorus did, narration will be one thing, and supplementary narration
+1414b15	and preliminary narration others, and refutation and further refutation. One should
+1414b16	give a name only when speaking of a species and a difference; otherwise
+1414b17	it becomes empty and silly, as Licymnius does in his
+1414b18	Art, naming “wafting”, “wandering off” and “branches”.

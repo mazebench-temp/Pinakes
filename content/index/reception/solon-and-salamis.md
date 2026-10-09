@@ -5,7 +5,7 @@ kind: anecdote
 tags: [rhetoric, scholarship]
 summary: When Athens and Megara disputed the island of Salamis, the Athenians cited the Catalogue, where Ajax brings his ships from Salamis and stations them with the Athenians (2.557–558). Ancient critics suspected that the second line had been added for the purpose, by Solon or by Peisistratus.
 source: Plutarch, Solon 10; Aristotle, Rhetoric 1.15, 1375b30; Strabo, Geography 9.1.10
-of: [salamis, ajax, athenians, catalogue-of-ships, plutarch, aristotle, strabo]
+of: [salamis, ajax, athenians, catalogue-of-ships, solon, pisistratus, plutarch, aristotle, strabo]
 passages:
   - 2.557-558 | Ajax brings twelve ships from Salamis
 ---
@@ -20,4 +20,4 @@ Strabo reports the charge in full. Some say Peisistratus, others Solon, added 2.
 
 Our text has the line, and whether it is an Athenian addition cannot be proved. The story shows how early the Catalogue was treated as a title deed to land, and how early readers suspected that it had been tampered with. Compare the Athenian envoy who claimed a naval command on the strength of Homer's praise of Menestheus, [[herodotus-menestheus]], and the line on Theseus in Book 1, [[theseus-line]].
 
-See [[salamis]], [[plutarch]] and [[strabo]].
+See [[salamis]], [[solon]], [[pisistratus]], [[plutarch]] and [[strabo]].

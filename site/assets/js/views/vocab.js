@@ -2,7 +2,7 @@ import { el, esc, icon, on, debounce } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, hasGreek } from '../lib/greek.js';
-import { bookWord } from '../lib/cite.js';
+import { bookWord, bookLabel } from '../lib/cite.js';
 
 const POS_GROUPS = [
   ['all', 'All'], ['noun', 'Nouns'], ['verb', 'Verbs'], ['adj.', 'Adjectives'], ['name', 'Names'], ['other', 'Other'],
@@ -32,22 +32,23 @@ export async function render(route, { setQuery }) {
   const max = text.lemmas[0]?.[2] ?? 1;
   const tokens = text.lines.reduce((s, l) => s + l.tk.length, 0);
   const Book = bookWord(work);
+  const BL = n => esc(bookLabel(work, n));
   if (!text.lex.length) {
-    return { title: 'Vocabulary', el: el(`<div class="view"><header class="page-head"><div class="eyebrow">${esc(work.title)} · ${Book} ${book}</div>
+    return { title: 'Vocabulary', el: el(`<div class="view"><header class="page-head"><div class="eyebrow">${esc(work.title)} · ${Book} ${BL(book)}</div>
       <h1 class="large-title" data-title-anchor>Vocabulary</h1>
       <p class="page-sub">The ${esc(work.title)} has no word-by-word analysis yet, so its vocabulary cannot be listed. Its ${tokens.toLocaleString()} words can still be searched, and every name in it is indexed.</p></header>
-      <div class="btn-row"><a class="btn" href="#/read/${esc(workId)}/${book}">${icon('book')}Read ${Book} ${book}</a></div></div>`) };
+      <div class="btn-row"><a class="btn" href="#/read/${esc(workId)}/${book}">${icon('book')}Read ${Book} ${BL(book)}</a></div></div>`) };
   }
 
   const view = el(`<div class="view">
     <header class="page-head" style="padding-bottom:8px">
-      <div class="eyebrow">${esc(work.title)} · ${Book} ${book}</div>
+      <div class="eyebrow">${esc(work.title)} · ${Book} ${BL(book)}</div>
       <h1 class="large-title" data-title-anchor>Vocabulary</h1>
       <p class="page-sub">${text.lemmas.length.toLocaleString()} dictionary words make up the ${tokens.toLocaleString()} words of the ${Book.toLowerCase()}. The ${Math.min(100, text.lemmas.length)} most common cover ${Math.round(100 * text.lemmas.slice(0, 100).reduce((s, l) => s + l[2], 0) / tokens)}% of the text.</p>
     </header>
     <div class="index-tools">
       <label class="search-field" for="vocab-q">${icon('search')}<input id="vocab-q" type="search" placeholder="Filter by Greek or English" value="${esc(q)}" autocomplete="off"></label>
-      <div class="chips" role="group" aria-label="Part of speech">${POS_GROUPS.map(([v, l]) => `<button class="chip" type="button" data-pos="${v}" aria-pressed="${pos === v}">${l}</button>`).join('')}${hasEarlier ? `<button class="chip" type="button" data-new aria-pressed="${fresh}">New in ${Book} ${book} <span class="n">${newCount}</span></button>` : ''}</div>
+      <div class="chips" role="group" aria-label="Part of speech">${POS_GROUPS.map(([v, l]) => `<button class="chip" type="button" data-pos="${v}" aria-pressed="${pos === v}">${l}</button>`).join('')}${hasEarlier ? `<button class="chip" type="button" data-new aria-pressed="${fresh}">New in ${Book} ${BL(book)} <span class="n">${newCount}</span></button>` : ''}</div>
       <div data-seg></div>
     </div>
     <div class="list vocab"></div>

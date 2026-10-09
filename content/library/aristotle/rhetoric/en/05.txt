@@ -1,0 +1,130 @@
+# Aristotle, Rhetoric, Book I, Chapter 5 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1360b4	Both for each person privately and for all in common there is, roughly, a target
+1360b5	at which they aim in what they choose and what they avoid;
+1360b6	and this, to put it in a word, is happiness and
+1360b7	its parts. So, by way of illustration, let us grasp what
+1360b8	happiness is, speaking generally, and of what its parts
+1360b9	consist; for it is about happiness, and what contributes to it,
+1360b10	and what is opposed to it, that all exhortations and dissuasions
+1360b11	are made: what produces it or one of its parts,
+1360b12	or makes a part greater instead of smaller, we should do; what
+1360b13	destroys or hinders it, or produces its opposites, we should not do.
+1360b14	Let happiness, then, be doing well together with virtue, or self-sufficiency
+1360b15	of life, or the pleasantest life with security, or abundance
+1360b16	of possessions and bodies, with the power to protect
+1360b17	and use them; for nearly everyone agrees that happiness
+1360b18	is one or more of these. If, then,
+1360b19	happiness is something of this kind, its parts must be
+1360b20	good birth, many friends, good friends, wealth, good children,
+1360b21	many children, a good old age; also the excellences of the body (such as health,
+1360b22	beauty, strength, stature, athletic ability), reputation, honor,
+1360b23	good fortune, virtue [or else its parts, practical wisdom, courage,
+1360b24	justice, self-control]; for in this way a man would be most self-sufficient,
+1360b25	if he had both the goods within himself and the goods outside,
+1360b26	since there are no others besides these. Within himself are the goods of
+1360b27	the soul and of the body; outside, good birth, friends,
+1360b28	money and honor; and we think it fitting that he should also have
+1360b29	power and fortune, for so his life is most secure. Let us grasp,
+1360b30	then, in the same way what each of these is. Good birth,
+1360b31	for a nation or a city, is to be sprung from the soil or
+1360b32	ancient, and to have had distinguished first leaders,
+1360b33	and many descendants distinguished for things
+1360b34	that are envied. For an individual, good birth is either on the men's or on the
+1360b35	women's side, and legitimacy on both; and, as with a city,
+1360b36	that the founders of the family were notable for virtue or wealth or
+1360b37	something else that is honored, and that many distinguished people have come from the
+1360b38	family, men and women, young and old.
+1361a1	Good children and many children are not hard to make out. For the community it means
+1361a2	a youth that is numerous and good, good in excellence of body, such as
+1361a3	stature, beauty, strength, athletic ability; while self-control and
+1361a4	courage are the virtues of soul in a young man. For a household it means that one's own children
+1361a5	are many and of this kind, both female and male. The
+1361a6	excellence of women in body is beauty and stature, in soul,
+1361a7	self-control and industry without servility. Likewise,
+1361a8	privately and in common, for men and for women, one must
+1361a9	seek that each of these qualities be present; for those whose women
+1361a10	are in a bad state, like the Lacedaemonians, are almost
+1361a11	half unhappy. The parts of wealth are
+1361a12	plenty of coin and land, the possession of estates outstanding in number
+1361a13	and size and beauty, and also the possession of furniture,
+1361a14	slaves and livestock outstanding in number and
+1361a15	beauty, all of these one's own, secure,
+1361a16	fit for a free man, and useful. Useful above all are
+1361a17	the productive possessions; fit for a free man, those for enjoyment (by productive
+1361a18	I mean those that bring income; by those for enjoyment, those from which nothing
+1361a19	worth mentioning comes besides their use). The definition of security
+1361a20	is to possess things in such a place and such a way that their use
+1361a21	is in one's own power; of their being one's own or not, whether it is in one's power
+1361a22	to alienate them; by alienation I mean giving and selling. In general,
+1361a23	being rich lies in using rather than in possessing;
+1361a24	for wealth is the activity of such things, their use.
+1361a25	Good reputation is being thought by everyone to be a person of worth,
+1361a26	or to have something that everyone desires, or
+1361a27	most people, or the good, or the wise. Honor is
+1361a28	a sign of a reputation for doing good; those who are rightly honored,
+1361a29	and most of all, are those who have done good, though honor is also given
+1361a30	to one who is able to do good. A benefaction relates either to safety
+1361a31	and whatever causes existence, or to wealth, or to some other
+1361a32	good not easily got, either at all, or in that place, or at that time;
+1361a33	for many receive honor for what seem small things, but the
+1361a34	places and the occasions are the reason. The parts of honor are sacrifices, memorials in
+1361a35	verse and without verse, privileges, grants of land, front seats, tombs,
+1361a36	statues, maintenance at public expense, barbarian honors such as prostrations
+1361a37	and making way, and the gifts that each people prizes. For
+1361a38	a gift is both the giving of a possession and a sign of honor; that is why
+1361a39	both lovers of money and lovers of honor desire gifts:
+1361b1	a gift has what both of them need; it is a possession, which
+1361b2	lovers of money desire, and it carries honor, which lovers of honor desire.
+1361b3	The excellence of the body is health, and health such that people are free of disease
+1361b4	while using their bodies; for many are healthy as
+1361b5	Herodicus is said to have been, and no one would call them happy for their health,
+1361b6	because they abstain from all, or most, of what human beings do.
+1361b7	Beauty differs with each age. A young man's
+1361b8	beauty is to have a body fit for exertions, both
+1361b9	of running and of strength, while being pleasant to look at;
+1361b10	that is why pentathletes are the most beautiful, since they are built for strength
+1361b11	and speed together. A man in his prime: fit for the exertions
+1361b12	of war, and seeming pleasant to look at but formidable;
+1361b13	an old man: equal to the exertions he cannot avoid,
+1361b14	and not painful to see, because he has none of the blemishes of old age.
+1361b15	Strength is the power to move another as one wishes,
+1361b16	and one must move another by pulling or pushing or lifting
+1361b17	or pressing down or squeezing, so that the strong man is strong in all
+1361b18	or some of these. The excellence of stature is to
+1361b19	exceed most people in height, depth and breadth by just so
+1361b20	much as not to make one's movements slower because of the
+1361b21	excess. Athletic excellence of body is made up of stature
+1361b22	and strength and speed (for the swift man too is strong):
+1361b23	one who can throw his legs out in a certain way and move them fast
+1361b24	and far is a runner; one who can squeeze and hold down, a wrestler;
+1361b25	one who can drive another back with a blow, a boxer; one who can do both,
+1361b26	a pancratiast; and one who can do all, a pentathlete. A good old age is
+1361b27	old age that comes slowly and without pain; for if a man ages quickly
+1361b28	he does not have a good old age, nor if slowly but with pain. It comes both
+1361b29	from the excellences of the body and from fortune; for one who is not free of disease
+1361b30	or strong will not be free of suffering and pain, and
+1361b31	he would not last long without good fortune. There is also
+1361b32	another capacity for long life, apart from strength and health;
+1361b33	for many live long without the excellences of the body; but
+1361b34	minute precision about these things is of no use for the present purpose.
+1361b35	Many friends and good friends are not hard to make out once a friend is defined:
+1361b36	a friend is one who, whatever he thinks good
+1361b37	for another, is active in doing it for the other's sake. One who has many
+1361b38	such friends has many friends; one whose friends are also decent men
+1361b39	has good friends. Good fortune is the coming and the presence of the goods of which fortune is the cause,
+1362a1	either all of them, or most, or the greatest.
+1362a2	Fortune is the cause of some things that the arts also produce, and of many
+1362a3	that owe nothing to art, such as those that nature causes (though fortune can also
+1362a4	work against nature): for art is a cause of health, but of beauty
+1362a5	and stature nature is. In general, the goods that come from fortune
+1362a6	are those that are envied. Fortune is also
+1362a7	the cause of goods that defy reckoning: for instance, if the other
+1362a8	brothers are ugly and one is handsome, or the others did not see the
+1362a9	treasure and one found it, or if the arrow struck the man next to someone
+1362a10	and not him, or if he alone did not go to a place he always visited, while the
+1362a11	others, going there for once, were killed; for all such things
+1362a12	seem to be strokes of good fortune. As for virtue, since
+1362a13	its most fitting place is the treatment of praise, we shall
+1362a14	define it when we come to speak about praise.

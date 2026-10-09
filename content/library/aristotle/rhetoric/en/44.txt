@@ -1,0 +1,62 @@
+# Aristotle, Rhetoric, Book III, Chapter 3 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1405b35	Frigidities in style arise in four ways. First, in double
+1405b36	words, as in Lycophron's “the many-faced sky of the great-peaked earth”
+1405b37	and “narrow-passaged shore”, and as Gorgias spoke of “beggar-muse-flatterers
+1406a1	forsworn against one well-sworn”; and as Alcidamas: “filled with fury
+1406a2	in his soul, and his face becoming fire-hued”;
+1406a3	and he thought their zeal would be “end-fulfilling”, and
+1406a4	he made the persuasion of his words “end-fulfilling”, and “azure-hued”
+1406a5	the floor of the sea; for all these seem poetic because
+1406a6	they are doubled. This is one cause; another is
+1406a7	using rare words, as Lycophron called Xerxes “a monstrous man”
+1406a8	and Sciron “a ravager of a man”, and Alcidamas said “a plaything
+1406a9	for poetry”, “the reckless folly of nature”, and “whetted
+1406a10	with the unmixed anger of his thought”. A third is in epithets:
+1406a11	using them long, or untimely, or crowded. In
+1406a12	poetry it is appropriate to say “white milk”, but in prose some are
+1406a13	rather inappropriate, and others, if overdone, give the game away and make it plain
+1406a14	that it is poetry. One should use them, though (for they vary
+1406a15	the usual and make the style unfamiliar), but one must
+1406a16	aim at due measure, since overdoing them does more harm than speaking
+1406a17	carelessly: careless speech lacks the good, but excess has the bad. That is why
+1406a18	the writings of Alcidamas seem frigid: he uses epithets not as a seasoning
+1406a19	but as the main dish, so crowded are they,
+1406a20	so long and so obvious: not “sweat” but “the
+1406a21	moist sweat”; not “to the Isthmia” but “to the festival of the Isthmia”;
+1406a22	not “laws” but “the laws, the kings
+1406a23	of cities”; not “at a run” but “with the running impulse of his
+1406a24	soul”; not “a shrine of the Muses” but “having received nature's
+1406a25	shrine of the Muses”; and “the scowling care of his soul”; and not
+1406a26	“craftsman of favor” but “craftsman of the people's universal favor”; and “steward
+1406a27	of the hearers' pleasure”; and he hid not “with branches” but “with the branches
+1406a28	of the wood”; and he covered not “his body”
+1406a29	but “the shame of his body”; and “the counter-imitating desire
+1406a30	of his soul” (this is at once a double word and an epithet,
+1406a31	so that it becomes a poem); and “so outlandish the excess
+1406a32	of his depravity”. So those who speak poetically, by being inappropriate,
+1406a33	produce the laughable and the frigid, and obscurity through
+1406a34	verbosity; for when one heaps words on someone who already understands, one destroys clarity
+1406a35	by darkening it. People use double words
+1406a36	when a thing has no name and the compound is easily formed, as
+1406a37	“to time-waste”; but if this is overdone, it is wholly poetic.
+1406b1	So double words are most useful to the writers of dithyrambs
+1406b2	(for they are noisy), rare words to
+1406b3	epic poets (for they are dignified and self-assured), and metaphor
+1406b4	to iambic verse (for iambics are what poets now use, as
+1406b5	has been said). And the fourth kind of frigidity arises in metaphors.
+1406b6	For there are inappropriate metaphors too, some because
+1406b7	they are laughable (for the comic poets use metaphors too),
+1406b8	others because they are too dignified and tragic; and they are obscure if
+1406b9	far-fetched, as Gorgias' “affairs pale and bloodless”, and “You
+1406b10	have sown these things shamefully and reaped them badly”;
+1406b11	for these are too poetic. And as Alcidamas called philosophy
+1406b12	“a fortress raised against the law”, and the Odyssey “a beautiful mirror of human
+1406b13	life”, and “bringing no such plaything to poetry”;
+1406b14	all of these are unpersuasive, for the reasons given.
+1406b15	But what Gorgias said to the swallow, when she flew over him
+1406b16	and let fall her droppings, is the best of
+1406b17	the tragic manner: he said, “Shameful, Philomela!” For a bird
+1406b18	it was not shameful to have done it, but for a maiden it would be.
+1406b19	So he rebuked her well by calling her what she was, not what she is.

@@ -1,0 +1,14 @@
+{
+  "scenes": [
+    {"from": "1407b26", "to": "1408a1", "title": "Bulk and Conciseness", "summary": "Bulk comes from using a description instead of a name, metaphors and epithets, making one into many as the poets do (“to Achaean harbors”), giving each word its own article, and using connectives; conciseness from the opposites."},
+    {"from": "1408a2", "to": "1408a9", "title": "Description by Negation", "summary": "Antimachus' way of describing a thing by what it does not have, as he does with Teumessus, amplifies without limit; the poets' “stringless” and “lyreless” song is the same device, well liked in metaphors by analogy."}
+  ],
+  "quotations": [
+    {"from": "1407b34", "to": "1407b34", "entry": "onkos", "cite": "a tragic poet"},
+    {"from": "1407b35", "to": "1407b35", "source": "euripides", "entry": "iphigenia-among-the-taurians", "cite": "Euripides, Iphigenia among the Taurians 727"},
+    {"from": "1407b36", "to": "1408a1", "source": "aristotle", "entry": "onkos", "cite": "Aristotle's examples of bulk and conciseness", "marks": 4},
+    {"from": "1408a3", "to": "1408a4", "source": "antimachus-of-colophon", "entry": "antimachus-of-colophon", "cite": "Antimachus, Thebaid"}
+  ],
+  "speeches": [],
+  "days": []
+}

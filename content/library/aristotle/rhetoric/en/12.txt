@@ -1,0 +1,112 @@
+# Aristotle, Rhetoric, Book I, Chapter 12 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1372a4	These, then, are the things for the sake of which people do wrong; in what state
+1372a5	they do it, and to whom, let us now say. They do wrong themselves when they think
+1372a6	that the thing can be done, and done by them, and then
+1372a7	that they will go unnoticed when they have done it, or, if noticed, will not pay the penalty, or
+1372a8	will pay it, but the penalty will be less than the gain to themselves
+1372a9	or to those they care for. What sorts of things seem possible and what
+1372a10	impossible will be stated later (for these are common
+1372a11	to all kinds of speech). Those who think themselves most able
+1372a12	to do wrong with impunity are those able to speak, those practiced in affairs, and
+1372a13	those experienced in many lawsuits, and those who have many friends or are
+1372a14	rich. They think they can do it most of all if they themselves have the qualities mentioned,
+1372a15	and if not, if they have such
+1372a16	friends or servants or partners; for through these they can
+1372a17	act, and go unnoticed, and not pay the penalty. And if they are friends
+1372a18	of those they wrong or of the judges; for friends
+1372a19	are off their guard against being wronged, and are reconciled
+1372a20	before taking proceedings; and judges favor those they are friends with,
+1372a21	and either acquit them altogether or impose small penalties. Likely to go unnoticed are
+1372a22	those whose nature is at odds with the charges: the weak in cases of assault,
+1372a23	the poor and ugly man in cases of adultery; and things done too much in
+1372a24	the open and before everyone's eyes; for no one guards against them, because no one would
+1372a25	think of them at all. And crimes so great and of such a kind that no one would think them possible;
+1372a26	for these too are unguarded against: everyone guards against the usual wrongs, as
+1372a27	against the usual diseases, but against a disease no one has ever
+1372a28	had, no one takes precautions. And those who have no enemy or
+1372a29	many enemies: the former think they will go unnoticed because no one is on guard,
+1372a30	the latter go unnoticed because they would not seem likely to attack
+1372a31	people on their guard, and because they have the defense that they would never have attempted it.
+1372a32	And those who have means of concealment, in ways or places, or ready means
+1372a33	of disposal. And those who, if not unnoticed, can thrust the trial aside or
+1372a34	put it off, or corrupt the judges. And those who, if a
+1372a35	penalty is imposed, can avoid paying it or put it off for a long time; or if
+1372a36	through poverty a man has nothing to lose. And those whose gains
+1372a37	are clear or great or near, and the penalties small or unclear or far off.
+1372b1	And one for whom there is no punishment equal to the benefit, as seems true of
+1372b2	tyranny. And those for whom wrongs bring gains, and the
+1372b3	penalties only reproaches. And those for whom, on the contrary, the wrongs
+1372b4	bring some praise, as when it happened that one avenged at the same time
+1372b5	a father or mother, as with Zeno, while the penalties fall on
+1372b6	money or exile or something of the kind; for people do wrong for both reasons
+1372b7	and in both states, though not the same people, but people opposite
+1372b8	in character. And those who have often gone unnoticed or not been
+1372b9	punished, and those who have often failed (for there are some
+1372b10	in such matters too, as in war, who are the kind
+1372b11	to renew the fight). And those for whom the pleasure is immediate and the pain
+1372b12	later, or the gain immediate and the penalty later; for those without self-control
+1372b13	are such, and lack of self-control concerns everything people long for. And
+1372b14	those for whom, on the contrary, the pain or the penalty is immediate, and the pleasure
+1372b15	and the benefit come later and last longer; for the self-controlled
+1372b16	and the wiser pursue such things. And those who may be able
+1372b17	to seem to have acted by chance or by necessity or by nature or by habit,
+1372b18	and in general to have erred rather than done wrong. And those who can
+1372b19	count on equity. And all who are in want; and there are two ways of being in want:
+1372b20	either of necessities, like the poor, or of superfluities, like
+1372b21	the rich. And those with very high reputations and those with very
+1372b22	low ones: the former as not likely to be suspected, the latter as no worse
+1372b23	off in reputation. These, then, are the states in which people set about doing wrong;
+1372b24	and they wrong such people and in such matters: those who have what
+1372b25	the wrongdoers themselves lack, whether for necessities, or for superiority, or for enjoyment;
+1372b26	and both those far off and those near: from the near, the taking
+1372b27	is quick; from the far, revenge is slow, as with those who plunder the
+1372b28	Carthaginians. And those who are not cautious or watchful but
+1372b29	trusting, for it is easy to escape the notice of them all. And the easygoing,
+1372b30	for prosecuting takes a careful man. And the bashful, for they
+1372b31	will not fight over gain. And those wronged by many
+1372b32	who have not prosecuted, as being, in the words of the proverb,
+1372b33	Mysian plunder. And those never wronged before and those often wronged;
+1372b34	for both are off guard, the former as if it would never happen, the latter as if it could not
+1372b35	happen again. And those who have been slandered or are easily slandered; for such people
+1372b36	neither choose to go to court, fearing the judges,
+1372b37	nor can they persuade, being hated and envied.
+1373a1	And those against whom they have a pretext, because their ancestors or they themselves or their friends
+1373a2	have done harm, or meant to, to the wrongdoers themselves, or their ancestors, or those
+1373a3	they care for; for as the proverb says, wickedness needs only a pretext.
+1373a4	And both enemies and friends: the latter it is easy,
+1373a5	the former pleasant, to wrong. And the friendless, and those not clever at speaking
+1373a6	or acting; for they either do not try to prosecute, or come to terms,
+1373a7	or achieve nothing. And those for whom it does not pay to waste time
+1373a8	waiting for a trial or for payment, such as foreigners and those who work their own land;
+1373a9	for they settle for little and are easily put off.
+1373a10	And those who have done many wrongs, or such wrongs as they now suffer; for it seems
+1373a11	almost no wrong when someone is wronged
+1373a12	in the way he himself used to wrong others: I mean, for instance, if
+1373a13	someone assaults a man who habitually commits outrage. And those who have done
+1373a14	harm, or wished to, or wish to, or will; for this has
+1373a15	both the pleasant and the noble, and seems almost no
+1373a16	wrong. And those whose wronging will please friends, or men they admire, or
+1373a17	those they love, or their masters, or in general those on whom their lives depend. And those
+1373a18	from whom they can count on equity. And those against whom they have made complaints
+1373a19	and with whom they have already broken, as Callippus did in the affair of
+1373a20	Dion; for such things too seem almost no wrong.
+1373a21	And those who are going to be wronged by others if not by themselves, there being no longer
+1373a22	time to deliberate, as Aenesidemus is said
+1373a23	to have sent the cottabus prize to Gelon, who had enslaved a city, because he had got there first,
+1373a24	since he himself had meant to. And those whom they can wrong
+1373a25	and then do many just things, as if easily making amends; as
+1373a26	Jason the Thessalian said one must do some wrongs in order to be able
+1373a27	to do many just things too. And the wrongs that all or many are in the habit
+1373a28	of doing; for they think they will be pardoned. And things
+1373a29	easy to hide: such are things quickly consumed, like
+1373a30	food, or things easily altered in shape or color or
+1373a31	mixture, or things easy to make vanish in many places: such are
+1373a32	things easily carried and hidden in small places. And things
+1373a33	of which the wrongdoer already had many indistinguishable and similar ones. And
+1373a34	wrongs that the victims are ashamed to speak of, such as outrages against
+1373a35	the women of their house, or against themselves or their sons. And wrongs
+1373a36	for which one who prosecuted would seem litigious: such are small ones
+1373a37	and those that are pardonable. In what state, then, people do wrong,
+1373a38	and what wrongs, to whom, and why, is roughly this.

@@ -1,0 +1,18 @@
+{
+  "scenes": [
+    {"from": "1400b34", "to": "1401a24", "title": "Diction and Homonymy", "summary": "Some enthymemes are only apparent. Their first topic is diction: stating a conclusion without having reasoned to it, summing up the heads of many syllogisms, and homonymy, as when the mouse is praised from the mysteries, the dog from the Dog Star and Pindar's verse, and Hermes as “Hermes in common”."},
+    {"from": "1401a25", "to": "1401b9", "title": "Combination, Division and Exaggeration", "summary": "From combining what is divided or dividing what is combined, as in the arguments of Euthydemus, Polycrates on Thrasybulus' thirty tyrants and Theodectes' Orestes; and from exaggeration, which amplifies the deed without proving it."},
+    {"from": "1401b10", "to": "1401b34", "title": "Signs, Accidents, Consequents and False Causes", "summary": "From a sign, as that lovers are useful to cities or Dionysius a thief; from the accidental, as Polycrates' mice and Achilles' wrath at Tenedos; from the consequent, as in the Alexander; and from the false cause, as Demades blamed Demosthenes' policy for the war."},
+    {"from": "1401b35", "to": "1402a28", "title": "Omission and the Absolute", "summary": "From the omission of when and how, as Alexander and Helen; and from treating what is so in some respect as so absolutely, as in Agathon's verse and the art of Corax, which is making the weaker argument the stronger, as Protagoras professed."}
+  ],
+  "quotations": [
+    {"from": "1401a4", "to": "1401a5", "source": "aristotle", "entry": "apparent-enthymemes", "cite": "Aristotle's illustration"},
+    {"from": "1401a18", "to": "1401a19", "source": "pindar", "entry": "the-dog-of-the-great-goddess", "cite": "Pindar"},
+    {"from": "1401a37", "to": "1401a37", "source": "theodectes", "entry": "it-is-just-that-she-die", "cite": "Theodectes, Orestes"},
+    {"from": "1401b10", "to": "1401b12", "source": "aristotle", "entry": "apparent-enthymemes", "cite": "Aristotle's example of a fallacious sign"},
+    {"from": "1402a10", "to": "1402a12", "source": "agathon", "entry": "the-probable-improbable", "cite": "Agathon"},
+    {"from": "1402a18", "to": "1402a20", "source": "corax", "entry": "the-art-of-corax", "cite": "the art of Corax"}
+  ],
+  "speeches": [],
+  "days": []
+}

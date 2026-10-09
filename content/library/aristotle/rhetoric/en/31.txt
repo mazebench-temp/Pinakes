@@ -1,0 +1,25 @@
+# Aristotle, Rhetoric, Book II, Chapter 16 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1390b32	The characters that go with wealth lie on the surface for all to see;
+1390b33	the rich are given to outrage and arrogant, being affected by the possession of
+1390b34	wealth (for they are disposed as though they had all good things;
+1391a1	wealth is a kind of standard of the worth of other things, so that
+1391a2	everything seems to be for sale for it); and they are luxurious and swaggering:
+1391a3	luxurious because of their way of life and the display of their
+1391a4	prosperity, swaggering and vulgar because everyone is used to
+1391a5	dancing attendance on what they love and admire,
+1391a6	and because they think that others emulate what they emulate themselves. At the same time
+1391a7	it is reasonable that this should happen to them (for many are those who need
+1391a8	those who have; whence the saying of Simonides about the wise
+1391a9	and the rich, when Hiero's wife asked him whether
+1391a10	it was better to become rich or wise: “Rich,” he said;
+1391a11	for he said he saw the wise spending their time at the doors
+1391a12	of the rich); and they think they are worthy to rule; for they think
+1391a13	they have what makes one worthy to rule. In sum, the character
+1391a14	of wealth is the character of a prosperous fool. The characters
+1391a15	of the newly rich and those rich of old differ in that
+1391a16	the newly rich have all the vices more, and in a worse form (for
+1391a17	being newly rich is a sort of lack of education in wealth);
+1391a18	and the wrongs they commit are not malicious, but some
+1391a19	outrageous and others from lack of self-control, such as assault and adultery.

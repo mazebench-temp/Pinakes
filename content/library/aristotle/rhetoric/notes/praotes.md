@@ -1,0 +1,8 @@
+---
+summary: Calming is the settling of anger; people are calm toward those who slight them involuntarily, admit their fault, humble themselves, or are serious with them, and when time or another revenge has spent their anger.
+heading: In the Rhetoric
+grc: ["πρᾶο*", "πραΰν*", "πράϋνσ*", "καταπραΰν*"]
+en: [calm, calming, calmed, calmness]
+---
+
+**Book II.** “Since growing angry is the opposite of growing calm, and anger of calmness, we must take up in what state people are calm, toward whom they are calm, and by what means they are calmed. Let calming be a settling and quieting of anger” (1380a5–9). People are calm toward those who do not slight them, or do so involuntarily; toward those who admit their fault and are sorry; toward those who humble themselves, as even dogs show by not biting those who sit down (1380a8–26); toward those who are serious with them when they are serious, and those who have done them more good than harm (1380a26–b1). They are calm in states opposite to those of anger, in play, laughter, feasting, prosperity and fair hope, and when time has passed (1380b1–7). A revenge taken on someone else stops anger, as Philocrates knew and as the trial of Ergophilus showed (1380b7–13; see [[philocrates-not-yet]] and [[ergophilus]]); so does seeing the offender punished or suffering more than one would have inflicted (1380b13–21); and anger does not reach those who will not perceive it, nor the dead (1380b21–30; see [[say-that-odysseus-blinded-you]] and [[the-senseless-earth]]). The speaker who would calm must put the hearers in this state and make those they are angry with seem fearful, worthy of respect, benefactors, unwilling, or deeply sorry (1380b30–34).

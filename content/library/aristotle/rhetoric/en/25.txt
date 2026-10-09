@@ -1,0 +1,47 @@
+# Aristotle, Rhetoric, Book II, Chapter 10 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1387b22	It is clear too at what people feel envy, and whom they envy, and in what state,
+1387b23	if envy is a kind of pain at apparent good fortune in the
+1387b24	goods mentioned, toward those like oneself, not in order that one may get something oneself, but
+1387b25	because of them; for those will feel envy who have some
+1387b26	who are like them, or appear to be; I mean like in birth, in
+1387b27	kinship, in age, in states, in reputation, in
+1387b28	possessions. And those who lack only a little of having everything (that is why
+1387b29	those who do great things and the fortunate are envious);
+1387b30	for they think everyone is carrying off what is theirs. And those honored
+1387b31	exceptionally for something, and above all for wisdom or happiness. And
+1387b32	those fond of honor are more envious than those indifferent to it. And those who fancy themselves wise;
+1387b33	for they are fond of honor for wisdom. And in general those fond of reputation in something
+1387b34	are envious about it. And the small-souled; for everything seems great
+1387b35	to them. As for the things at which people feel envy, the goods have been mentioned;
+1388a1	for nearly all the deeds or possessions in which people seek reputation and honor,
+1388a2	and for which they long for reputation, and all the gifts of fortune,
+1388a3	are objects of envy, and above all those that people either long for themselves or
+1388a4	think they ought to have, or in the possession of which they are a little superior
+1388a5	or a little inferior. It is clear too whom people envy;
+1388a6	it has been said at the same time; for people envy those near them in time,
+1388a7	place, age and reputation; whence it has been said,
+1388a8	“for kinship knows how to envy too.” And those with
+1388a9	whom they compete for honor; for they compete with those
+1388a10	mentioned, but with those ten thousand years off, or with those
+1388a11	yet to be, or the dead, no one does, nor with those at the Pillars of Heracles.
+1388a12	Nor with those they think they fall far short of, in their own eyes or in
+1388a13	others', nor with those they far surpass; and it is the same toward
+1388a14	these and about such things. And since people compete for honor with their rivals
+1388a15	and rivals in love and in general those who aim at the same things,
+1388a16	they must envy these most of all; that is why
+1388a17	it has been said, “potter against potter too.” And those whose possessions
+1388a18	or successes are a reproach to them (these too are
+1388a19	those near and like them); for clearly it is through their own fault
+1388a20	that they do not get the good, so that this pains them and produces
+1388a21	envy. And those who have, or have acquired, what was fitting for them,
+1388a22	or what they once had acquired; that is why older men envy younger ones, and
+1388a23	those who have spent much on something envy those who spent little on it. And those who got something
+1388a24	quickly are envied by those who got it with difficulty or not at all. It is clear
+1388a25	too at what such people rejoice, and at whom, and in what
+1388a26	state; for as they are pained in one state, so in that state they will be pleased at the
+1388a27	opposites. So if the hearers themselves are brought into
+1388a28	that state, and those who claim to be pitied or to obtain some good
+1388a29	are such as described, clearly they will not obtain pity
+1388a30	from those who decide.

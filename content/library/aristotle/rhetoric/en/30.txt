@@ -1,0 +1,21 @@
+# Aristotle, Rhetoric, Book II, Chapter 15 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1390b14	As for the goods that come from fortune, those of them through which
+1390b15	people's characters too come to be of certain kinds, let us speak of them
+1390b16	next. The character of good birth is that its possessor is fonder
+1390b17	of honor; for everyone, when he has something, is used to heaping up more
+1390b18	on it, and good birth is the honor of one's ancestors.
+1390b19	And it is contemptuous even of those who are like one's own
+1390b20	ancestors, because the same things far off are more honored than near at hand,
+1390b21	and easier to boast of. To be well-born is a matter of the excellence
+1390b22	of the stock, to be true to one's birth is a matter of not falling away from one's
+1390b23	nature; which for the most part does not happen to the well-born,
+1390b24	but most of them are worthless; for there is a kind of crop in the
+1390b25	families of men, as in what the land produces,
+1390b26	and sometimes, if the family is good, exceptional men are born in it for some
+1390b27	time, and then it gives way again. Gifted families
+1390b28	degenerate into more manic characters, like the descendants of Alcibiades
+1390b29	and of Dionysius the elder; steady ones into
+1390b30	stupidity and sluggishness, like the descendants of
+1390b31	Cimon, Pericles and Socrates.

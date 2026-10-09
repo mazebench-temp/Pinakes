@@ -5,7 +5,7 @@ kind: place
 tags: [peloponnese, city, pylian, messenia]
 summary: A town of Nestor's kingdom whose site is unknown. Not the Helos of Lacedaemon.
 aliases: [Pylian Helos]
-grc: [Ἕλος]
+grc: ["^Ἕλος"]
 en: [Helos]
 except: [2.584]
 ---

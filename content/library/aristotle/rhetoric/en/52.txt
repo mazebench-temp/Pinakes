@@ -1,0 +1,126 @@
+# Aristotle, Rhetoric, Book III, Chapter 11 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1411b21	It has been said, then, that urbane sayings come from metaphor
+1411b22	by analogy and from setting things before the eyes;
+1411b23	we must now say what we mean by “before
+1411b24	the eyes”, and what makes it happen. I say
+1411b25	that those words set things before the eyes which signify things in activity:
+1411b26	for example, to call a good man “four-square”
+1411b27	is a metaphor (for both are complete), but it does not signify activity;
+1411b28	but “of one whose prime is in flower” is activity, and
+1411b29	“you, like a sacred beast roaming at will” is activity, and
+1411b30	“Then the Greeks, darting forth on their feet”: “darting”
+1411b31	is activity and metaphor, for it means “swiftly”. And as
+1411b32	Homer often does, making lifeless things alive through
+1411b33	metaphor. In all of them it is by making activity that he is well liked, as
+1411b34	in these: “Back down to the ground rolled the shameless
+1411b35	stone,” and “the arrow flew,” and “eager to fly,”
+1412a1	and “stood fixed in the ground, longing to glut themselves on flesh,” and
+1412a2	“the spear point sped through his chest, raging.” In all
+1412a3	these the things seem active because they are alive: being
+1412a4	shameless and raging and the rest are activity.
+1412a5	He attached these through metaphor by analogy:
+1412a6	as the stone is to Sisyphus, so the shameless man is
+1412a7	to the one he treats shamelessly. In his
+1412a8	well-liked similes too he does the same with lifeless things: “arched
+1412a9	and white-crested, some in front, and others behind;”
+1412a10	for he makes everything moving and alive, and activity
+1412a11	is movement. Metaphors should be taken, as has been said before, from
+1412a12	things that are related but not obvious, as in philosophy too it is the mark of a
+1412a13	sharp mind to see the likeness even in things far apart; so Archytas
+1412a14	said that an arbitrator and an altar are the same, for the wronged man
+1412a15	takes refuge with both. Or if one were to say that an anchor and
+1412a16	a pot-hook are the same; for both are in a way the same, but they differ
+1412a17	in being from above and from below. And “the cities have been made level”
+1412a18	is the same in things far apart: equality in surface and in
+1412a19	powers. Most urbane sayings, too, come through metaphor and
+1412a20	from deceiving the hearer besides; for it becomes clearer that he has learned something
+1412a21	from its being contrary to what he expected, and the soul seems to say, “How
+1412a22	true! And I was wrong.” Urbane apophthegms too
+1412a23	come from not meaning what is said, as Stesichorus' saying, that
+1412a24	the cicadas will sing to themselves from the ground. And well-made riddles
+1412a25	are pleasant for the same reason (for they are learning, and metaphor too),
+1412a26	and so is what Theodorus calls “saying novel things”. This happens
+1412a27	when a thing is surprising and, as he says, not in keeping with
+1412a28	the opinion one held before, but like the twisted words
+1412a29	in laughable sayings (which jokes made by changing a letter can also do,
+1412a30	for they deceive), and in verse too; for it does not go as the
+1412a31	hearer expected: “On he strode, and under his feet were his chilblains”; but
+1412a32	he thought he would say “sandals”. This must be clear as soon as
+1412a33	it is said. Jokes from changing a letter make one mean not what one says
+1412a34	but what the twisted word means, as in Theodorus' jest at Nicon
+1412a35	the citharode, “thraxei se”, “it will upset you”; for he makes as if to say
+1412a36	“Thrax ei sy”, “you are a Thracian”, and deceives, for what he says is something else.
+1412b1	So it is pleasant to one who understands; but if he does not take Nicon to be a Thracian,
+1412b2	it will not seem urbane. And “boulei
+1412b3	auton persai”, “you want to sack him”. Both meanings must be
+1412b4	fitting. So too with urbane sayings like saying
+1412b5	that for the Athenians the empire (archē) of the sea was not the beginning (archē) of
+1412b6	their troubles, for they profited by it. Or as Isocrates said that the empire was for the
+1412b7	city the beginning of its troubles. In both, what one would not have expected
+1412b8	to hear said has been said, and is recognized as true; for
+1412b9	to say that the empire is a beginning is nothing clever, but
+1412b10	he does not mean it in that way but another, and he denies the archē he named not in the sense in which he named it
+1412b11	but in another. In all these, it is good when the
+1412b12	word is brought in fittingly, by homonymy or by metaphor. For example,
+1412b13	“Anaschetus is not to be endured”: he denied the name by homonymy, but fittingly,
+1412b14	if the man is unpleasant. And “You could not be more of a stranger than you should”:
+1412b15	for “not more of a stranger than you should” is the same as “The
+1412b16	stranger should not always be a stranger”; for here too the word is used in
+1412b17	another sense. The same with Anaxandrides' much-praised line,
+1412b18	“It is noble to die before doing anything worthy of death”;
+1412b19	for this is the same as saying “It is worthy to die when one is not
+1412b20	worthy to die”, or “It is worthy to die when one is not worthy of
+1412b21	death”, or “when one is not doing what is worthy of death”. The form
+1412b22	of style in these is the same; but the more briefly and
+1412b23	antithetically a thing is said, the better it is liked. The reason
+1412b24	is that learning comes more through opposition and
+1412b25	faster through brevity. There must always be, besides, the saying's being correctly
+1412b26	applied to the person it is said of, if what is said is to be true and not
+1412b27	superficial; for these can be had separately, as in
+1412b28	“One should die having done no wrong”, or “The
+1412b29	worthy man should marry the worthy woman”; but these are not urbane, unless
+1412b30	it has both at once: “It is worthy to die when one is not worthy
+1412b31	to die.” The more of these qualities it has, the more urbane
+1412b32	it seems: for example, if the words were a metaphor, and a metaphor
+1412b33	of a particular kind, and antithesis and parisōsis, and it had activity.
+1412b34	Similes too, as has been said above,
+1412b35	are in a way metaphors when they are well liked; for they are always made from two terms, like the metaphor by analogy:
+1412b36	we say, for example, “The shield is the cup of Ares”, and “The bow is a stringless lyre”.
+1413a1	Said in this way the metaphor is not simple, but
+1413a2	to call the bow a lyre or the shield a cup
+1413a3	is simple. People also make similes in this way: a piper
+1413a4	to an ape, a short-sighted man to a lamp in the drizzle;
+1413a5	for both contract. It is good when there is a metaphor;
+1413a6	for one can liken the shield to the cup of Ares, and a ruin
+1413a7	to the rag of a house, and say that Niceratus is a Philoctetes
+1413a8	bitten by Pratys, as Thrasymachus likened him
+1413a9	on seeing Niceratus, beaten by Pratys in reciting epic,
+1413a10	with his hair still long and unwashed. It is in these above all
+1413a11	that poets fail if they do them badly,
+1413a12	and win approval if they do them well; I mean when
+1413a13	they make them answer: “He carries his legs as curly
+1413a14	as parsley. Like Philammon sparring with the punching bag.”
+1413a15	All such things are similes. That similes
+1413a16	are metaphors has been said often. Proverbs
+1413a17	too are metaphors from species to species: if someone
+1413a18	brings something in himself, expecting good from it, and then is harmed,
+1413a19	“Like the Carpathian with the hare,” people say; for both suffered
+1413a20	what was described. Where urbane sayings come from, then, and
+1413a21	why, the cause has been more or less stated. Well-liked
+1413a22	hyperboles are also metaphors, as of a man with a black eye: “You would have thought
+1413a23	him a basket of mulberries”; for the bruise is something red,
+1413a24	but this exaggerates greatly. “Like this and that” is a hyperbole
+1413a25	differing only in style. “Like Philammon
+1413a26	sparring with the punching bag”: “You would have thought him
+1413a27	Philammon fighting the punching bag.” “Carrying
+1413a28	his legs as curly as parsley”: “You would have thought
+1413a29	he had not legs but parsley, so curly were they.”
+1413a30	Hyperboles are adolescent, for they show
+1413a31	vehemence. That is why angry people use them most:
+1413a32	“not if he gave me as much as the sand and the dust.
+1413a33	And I will not marry the daughter of Agamemnon, son of Atreus, not if
+1413a34	she rivaled golden Aphrodite in beauty, and Athena in handiwork.”
+1413b1	So it is inappropriate for an older man to use them;
+1413b2	the Attic orators use this most of all.

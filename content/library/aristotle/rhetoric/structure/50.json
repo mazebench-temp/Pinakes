@@ -1,0 +1,23 @@
+{
+  "scenes": [
+    {"from": "1409a24", "to": "1409a34", "title": "The Strung-On Style", "summary": "Style is either strung-on, made one only by its connectives, like the preludes of dithyrambs, or compact, like the antistrophes of the old poets. The strung-on style is the ancient one (“This is the setting forth of the inquiry of Herodotus of Thurii”); it has no end in itself, and it is unpleasant because it is unlimited, as runners collapse only at the finish they can see."},
+    {"from": "1409a35", "to": "1409b12", "title": "The Period", "summary": "The compact style is the style in periods, a period being a stretch of speech with a beginning and an end in itself and a magnitude easily taken in. It is pleasant because it is limited and easy to learn because it has number, like verse. It must also be complete in thought, not broken off like the line “This land is Calydon, of Pelops' country”."},
+    {"from": "1409b13", "to": "1409b32", "title": "Clauses", "summary": "A period is either in clauses or simple. Clauses and periods should be neither stunted nor long: short ones make the hearer stumble, long ones leave him behind like a runner who turns wide of the post, and become preludes, as Democritus of Chios jibed at Melanippides."},
+    {"from": "1409b33", "to": "1410a23", "title": "Divided and Opposed", "summary": "The style in clauses is divided or opposed. The opposed sets opposite beside opposite in each clause, as in sentence after sentence of Isocrates' Panegyricus and in what was said in court against Peitholaus and Lycophron. It pleases because opposites are most easily known side by side, and because it is like a syllogism."},
+    {"from": "1410a24", "to": "1410b5", "title": "Parisōsis and Paromoiōsis", "summary": "Antithesis is this; parisōsis is the equality of clauses, paromoiōsis the likeness of their first or last words or syllables, and one sentence can have all three. The beginnings of periods are listed in the Theodectea; there are also false antitheses, like Epicharmus'."}
+  ],
+  "quotations": [
+    {"from": "1409a28", "to": "1409a28", "source": "herodotus", "entry": "herodotus", "cite": "Herodotus, the opening words"},
+    {"from": "1409b10", "to": "1409b10", "source": "euripides", "entry": "euripides", "cite": "Euripides, Meleager (fr. 515 Nauck); Aristotle names Sophocles"},
+    {"from": "1409b28", "to": "1409b29", "source": "democritus-of-chios", "entry": "democritus-of-chios", "cite": "a parody of Hesiod, Works and Days 265–266"},
+    {"from": "1409b34", "to": "1409b36", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Panegyricus"},
+    {"from": "1410a1", "to": "1410a17", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Panegyricus", "marks": 9},
+    {"from": "1410a18", "to": "1410a19", "entry": "antithesis", "cite": "said in court against Peitholaus and Lycophron"},
+    {"from": "1410a29", "to": "1410a30", "entry": "antithesis", "cite": "an unidentified example"},
+    {"from": "1410a30", "to": "1410a31", "source": "homer", "entry": "antithesis", "ref": "Il. 9.526"},
+    {"from": "1410a31", "to": "1410a37", "entry": "antithesis", "cite": "unidentified examples", "marks": 5},
+    {"from": "1410b5", "to": "1410b5", "source": "epicharmus", "entry": "antithesis", "cite": "Epicharmus"}
+  ],
+  "speeches": [],
+  "days": []
+}

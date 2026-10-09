@@ -13,6 +13,7 @@ relations:
   - commander: menestheus (13.690-691)
 passages:
   - 13.689-693 | The leaders at the ships
+except: [Rhetoric 1389b24]
 ---
 
 {{quote:5dda8018-71dc-5b5d-9c20-0d89b8bcf3ec}}

@@ -19,6 +19,8 @@ export const isProse = work => work?.display === 'prose';
 
 /** What the work calls a book: "Book", or "Chapter" for the Poetics. */
 export const bookWord = work => work?.citation?.book ?? 'Book';
+/** The label a book or chapter is shown by: its number, or `books.N.label` ("2.1" for Rhetoric II.1, the work's chapter 16). */
+export const bookLabel = (work, book) => work?.books?.[book]?.label ?? String(book);
 
 /** One line as cited, without the work: "1.396", "1451a36". */
 export const lineLabel = (work, book, n) => isBekker(work) ? bekkerLabel(n) : `${book}.${n}`;

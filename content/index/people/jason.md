@@ -9,6 +9,7 @@ grc: [Ἰησον*]
 relations:
   - child: euneus (7.468-469)
   - lover: hypsipyle (7.469)
+except: [Rhetoric 1373a26]
 ---
 
 ## Etymology

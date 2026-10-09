@@ -1,0 +1,82 @@
+# Aristotle, Rhetoric, Book II, Chapter 19 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1392a8	First, then, let us speak about the possible and the impossible. If
+1392a9	one of two opposites can be or come to be, the other opposite
+1392a10	would seem possible too; for instance, if a man can be cured,
+1392a11	he can also fall ill; for the same capacity is of opposites, as opposites.
+1392a12	And if one of two like things is possible, so is the other; and if the
+1392a13	harder is possible, so is the easier; and if it is possible for something excellent and beautiful
+1392a14	to come into being, it is possible for the thing in general; for it is harder
+1392a15	for a beautiful house to come into being than a house. And if the beginning of something can
+1392a16	come into being, so can the end; for nothing that is impossible comes into being or begins to come into being:
+1392a17	for instance, the diagonal's being commensurable could
+1392a18	neither begin to come about nor come about. And if the end is possible, so is the beginning;
+1392a19	for everything comes into being from a beginning. And if what is later in
+1392a20	being or in coming-to-be can come into being, so can what is earlier: for instance,
+1392a21	if a man can come into being, so can a child (for that
+1392a22	comes first), and if a child, a man (for the child is the beginning).
+1392a23	And things that are by nature objects of love or appetite; for no one, for the most part,
+1392a24	loves or desires the impossible. And the things of which there are sciences and
+1392a25	arts can both be and come into being. And all things whose
+1392a26	coming into being has its beginning in what we could compel or
+1392a27	persuade; these are those to which we are superior, or whose masters or friends we are.
+1392a28	And if the parts are possible, so is the whole; and if the whole is possible,
+1392a29	so for the most part are the parts; for if a vamp, a toe-cap and
+1392a30	an upper can be made, shoes can
+1392a31	be made, and if shoes, then a vamp,
+1392a32	a toe-cap and an upper. And if the whole genus
+1392b1	is among things that can come into being, so is the species, and if the species, so is
+1392b2	the genus: for instance, if a ship can come into being, so can a trireme, and
+1392b3	if a trireme, a ship. And if one of two things naturally related to each other is possible,
+1392b4	so is the other: for instance, if the double, so the half, and if
+1392b5	the half, the double. And if something can come about without art and
+1392b6	preparation, all the more can it come about through art
+1392b7	and care; whence it has also been said by Agathon,
+1392b8	“Indeed, some things are for art to do,
+1392b9	while others come to us by necessity and chance.”
+1392b10	And if it is possible for those who are worse, weaker and less intelligent,
+1392b11	it is more so for their opposites; as
+1392b12	Isocrates said it would be strange if Euthynus had learned something
+1392b13	and he himself could not discover it. As for the impossible,
+1392b14	it is clear that it is to be had from the opposites of what has been said.
+1392b15	Whether something has happened must be examined from the following. First, if
+1392b16	what is less likely by nature to happen has happened, what is
+1392b17	more likely would have happened too. And if what usually happens later has happened, what
+1392b18	comes earlier has happened: for instance, if someone has forgotten something, he also once learned it.
+1392b19	And if he was able and wished to, he has done it; for all, when
+1392b20	they are able and wish to, act; for nothing is in the way. Again, if
+1392b21	he wished to and nothing outside prevented him; and if he was able and
+1392b22	was angry; and if he was able and desired; for for the most part what
+1392b23	people long for, if they are able, they do, the bad through
+1392b24	lack of self-control, the decent because they desire decent things. And if
+1392b25	he was about to do it, he did it; for it is probable that one who was about to
+1392b26	do something did it. And if all the things have happened that naturally come before it or for the sake of
+1392b27	it: for instance, if it lightened, it also thundered, and if he attempted it,
+1392b28	he also did it. And if the things that naturally happen later, or for the sake of which
+1392b29	it happens, have happened, so has what comes earlier and what is for the sake of this:
+1392b30	for instance, if it thundered, it also lightened, and if he did it, he attempted it. Of
+1392b31	all these, some hold of necessity and some for the most part.
+1392b32	As for something's not having happened, it is clear that it comes from the opposites of what has been said.
+1393a1	And about what will be, it is clear from the same things; for what is in
+1393a2	one's power and wish will be, and what is in one's appetite, anger
+1393a3	and calculation together with power; these too, when one is in the impulse to
+1393a4	do them or about to, will be; for for the most part what is about to happen
+1393a5	happens rather than what is not. And if what naturally comes before has happened:
+1393a6	for instance, if it is cloudy, it is probable that it will
+1393a7	rain. And if what is for the sake of something has happened, it is probable that this too
+1393a8	will happen: for instance, if there is a foundation, there will be a house. About
+1393a9	the greatness and smallness of things, and the greater
+1393a10	and the lesser, and great and small things in general, it is clear from what
+1393a11	we have said before. For in the treatment of deliberative speech we spoke
+1393a12	both about the greatness of goods and about the greater
+1393a13	and the lesser absolutely; so, since for each kind of speech the
+1393a14	end proposed is a good, namely the advantageous, the
+1393a15	noble or the just, it is clear that it is through these
+1393a16	that all must find their amplifications. To go beyond these
+1393a17	and seek further about greatness and superiority absolutely
+1393a18	is idle talk; for for practical use particular facts are
+1393a19	more decisive than universals.
+1393a20	About the possible and the impossible, then, and whether something has happened
+1393a21	or not and will be or not, and further about
+1393a22	the greatness and smallness of things, let this be enough.

@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    {"from": "1387b22", "to": "1388a5", "title": "The Definition of Envy", "summary": "Envy is pain at the apparent good fortune of those like oneself in the goods mentioned, not for one's own gain; those who have others like them, who almost have everything, who are honored, fond of honor or small-souled are envious, and they envy the goods they long for."},
+    {"from": "1388a6", "to": "1388a24", "title": "Whom People Envy", "summary": "People envy those near them in time, place, age and reputation, “for kinship knows how to envy too”, their rivals, “potter against potter too”, and those whose possessions and successes reproach them."},
+    {"from": "1388a25", "to": "1388a30", "title": "Envy in the Speech", "summary": "The envious rejoice at the opposite; so if the judges are brought into this state, those who claim pity will not obtain it."}
+  ],
+  "quotations": [
+    {"from": "1388a8", "to": "1388a8", "entry": "kinship-knows-how-to-envy", "cite": "a verse of an unnamed poet"},
+    {"from": "1388a17", "to": "1388a17", "source": "hesiod", "entry": "potter-against-potter", "cite": "Hesiod, Works and Days 25"}
+  ],
+  "speeches": [],
+  "days": []
+}

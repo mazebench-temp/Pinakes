@@ -1,0 +1,113 @@
+# Aristotle, Rhetoric, Book III, Chapter 2 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1404b1	Let those matters, then, be taken as studied, and let the excellence of style be defined as being clear
+1404b2	(for speech is a kind of sign, and if it does not make its meaning plain it will not
+1404b3	do its own work), and neither mean nor above the
+1404b4	dignity of the subject, but appropriate; for the poetic style is perhaps not mean,
+1404b5	but it is not appropriate to prose. Of nouns and verbs,
+1404b6	the standard ones make the style clear, and it is made not mean but ornamented
+1404b7	by the other words that have been discussed in the books on poetics;
+1404b8	for departing from the ordinary makes it seem more dignified. For as
+1404b9	people feel toward strangers and toward fellow citizens,
+1404b10	so they feel toward style too. That is why one should make one's language
+1404b11	foreign; for people are admirers of what is far off, and the marvelous
+1404b12	is pleasant. In verse many things are done in this way,
+1404b13	and it suits there (for the things and the persons the speech is about
+1404b14	are further removed from the ordinary), but in bare prose far less,
+1404b15	for the subject is humbler; even in poetry, if a slave
+1404b16	or a very young man used fine language it would be rather inappropriate, or if it were about very small matters;
+1404b17	but even in these cases what is appropriate contracts and expands.
+1404b18	That is why speakers must do it without being noticed, and not seem
+1404b19	to speak artificially but naturally (for the natural is persuasive,
+1404b20	the artificial the opposite; people grow suspicious of it, as of a man
+1404b21	plotting against them, as they do of mixed wines), and the style should be
+1404b22	like the voice of Theodorus compared with those of the other actors:
+1404b23	his seems to be the voice of the speaker himself, theirs the voices of others.
+1404b24	The art is well concealed if one composes by picking words from ordinary
+1404b25	conversation; this is what Euripides does, and he was the first
+1404b26	to show the way. Since speech is composed of nouns and verbs,
+1404b27	and nouns have as many kinds as
+1404b28	have been studied in the books on poetry, of these, rare words,
+1404b29	double words and coined words should be used seldom and in few places
+1404b30	(where, we shall say later; why has been said:
+1404b31	they depart from the appropriate in the direction of excess); the standard
+1404b32	and the proper word and metaphor are the only ones useful for the style of
+1404b33	bare prose. A sign of this is that these are the only ones everyone
+1404b34	uses; for everyone converses with metaphors and with proper
+1404b35	and standard words. So it is clear that if one composes well,
+1404b36	there will be something unfamiliar, the art can escape notice, and the meaning will be clear;
+1404b37	and this, we said, is the excellence of rhetorical speech. Of
+1404b38	words, homonyms are useful to the sophist (for it is with
+1404b39	these that he does his mischief), and synonyms to the poet.
+1405a1	By words that are standard and synonymous I mean, for example, “proceed” and
+1405a2	“walk”; for both of these are standard words and synonymous
+1405a3	with each other. What each of these is, and how many kinds
+1405a4	of metaphor there are, and that it counts for most both in poetry and
+1405a5	in prose, has been said, as we were saying, in
+1405a6	the books on poetics; but in prose one must take all the more
+1405a7	pains over metaphors, as prose has fewer resources
+1405a8	than verse. Clarity, pleasantness and the unfamiliar
+1405a9	belong to metaphor above all, and it cannot be borrowed from
+1405a10	anyone else. Epithets and metaphors must be fitting
+1405a11	when one uses them. This will come from analogy; otherwise
+1405a12	they will seem inappropriate, because opposites are most apparent
+1405a13	side by side. One must consider: as a scarlet cloak suits a young man, so what suits an old one?
+1405a14	(For the same clothing is not appropriate to both.) And if you want to adorn,
+1405a15	you should take the metaphor from the best things in the same genus,
+1405a16	and if you want to blame, from the worse. I mean, for example,
+1405a17	since opposites are in the same genus, to say that the man
+1405a18	who begs prays, and that the man who prays begs, since both
+1405a19	are requests, is to do what has been said; as Iphicrates called Callias
+1405a20	a begging priest of the Mother and not a torchbearer, and Callias said he must be uninitiated,
+1405a21	or he would not have called him a begging priest but a torchbearer;
+1405a22	both have to do with a god, but the one is honored and the other is not.
+1405a23	And someone calls actors “flatterers of Dionysus”, but they call themselves “artists”
+1405a24	(both of these are metaphors, the one of people who would sully, the other
+1405a25	the opposite); and pirates now call themselves
+1405a26	“purveyors”. (So one may say that the man who did wrong
+1405a27	erred, or that the man who erred did wrong, and that the thief
+1405a28	both “took” and “procured”.) But to say, as Telephus
+1405a29	does in Euripides, “ruling over the oar, and landing in Mysia,”
+1405a30	is inappropriate, because “ruling” is grander than the subject deserves; so the art is not
+1405a31	concealed. There is also error in the syllables, if they are not signs of a pleasant
+1405a32	sound: so Dionysius the Brazen calls
+1405a33	poetry “the scream of Calliope” in his elegies, because both are
+1405a34	sounds; but the metaphor is bad †with sounds that mean nothing†. Again,
+1405a35	one should not take metaphors from far off, but from things akin
+1405a36	and of the same species, transferring a name to things that have none
+1405a37	in such a way that, once it is said, it is clear that it is akin
+1405b1	(as in the well-liked riddle, “I saw a man who with fire had welded bronze
+1405b2	upon a man”; for the process has no name, but both are a kind of
+1405b3	application, and so he called the applying of the cupping glass a welding); and in general
+1405b4	good metaphors can be taken from well-made riddles; for metaphors
+1405b5	are riddles, so it is clear that the transfer is well made. And
+1405b6	they should come from beautiful things. The beauty of a word lies, as Licymnius
+1405b7	says, in its sounds or in its meaning, and its ugliness
+1405b8	likewise. There is also a third point, which refutes the sophistic argument: it is not
+1405b9	true, as Bryson said, that no one uses foul language, if it means the same
+1405b10	to say this instead of that; this is false;
+1405b11	for one word is more standard than another, and more like the thing,
+1405b12	and more proper to it, by setting the thing before the eyes. Again,
+1405b13	this word and that do not signify a thing in the same light, so that in this way too one
+1405b14	must be counted more beautiful or more ugly than another; both signify the beautiful
+1405b15	or the ugly, but not in so far as it is beautiful, or not in so far as it is
+1405b16	ugly; or if they do, then more and less so. Metaphors
+1405b17	should be taken from here: from things beautiful in sound or in
+1405b18	force or to sight or to some other sense. It makes a difference
+1405b19	to say, for example, “rosy-fingered Dawn” rather than “crimson-fingered”,
+1405b20	or, worse still, “red-fingered”. In epithets too
+1405b21	one can make the application from what is bad or shameful,
+1405b22	as “the matricide”, or from what is better, as “the
+1405b23	avenger of his father”. And Simonides, when the victor
+1405b24	with the mule team offered him a small fee, would not write the poem, as if
+1405b25	disgusted at writing about half-asses; but when
+1405b26	he was given enough, he wrote, “Hail, daughters of storm-footed
+1405b27	mares!” And yet they were daughters of asses
+1405b28	too. Again, there is the use of diminutives. The
+1405b29	diminutive is what makes both the bad
+1405b30	and the good less, as Aristophanes jokes
+1405b31	in the Babylonians, “goldlet” for “gold”,
+1405b32	“cloaklet” for “cloak”, “abuselet” for
+1405b33	“abuse”, and “diseaselet” for “disease”.
+1405b34	But in both one must be careful and observe due measure.

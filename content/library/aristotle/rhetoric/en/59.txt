@@ -1,0 +1,49 @@
+# Aristotle, Rhetoric, Book III, Chapter 18 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1418b40	As for interrogation, it is most opportune to use it
+1419a1	when the opponent has stated one of two points, so that when one more question is asked
+1419a2	the absurdity follows; as Pericles questioned Lampon about
+1419a3	the initiation into the rites of the Savior goddess, and when Lampon said that
+1419a4	no one uninitiated could hear of them, asked whether he knew them himself, and when he said
+1419a5	he did, “And how, when you are uninitiated?” Second, when one point
+1419a6	is evident, and it is clear that the opponent will grant the other if asked; for once one has
+1419a7	learned the one premise by asking, one should not ask the evident one as well,
+1419a8	but state the conclusion; as Socrates, when Meletus
+1419a9	denied that he believed in gods, but had said that he spoke of some
+1419a10	daimonion, asked whether daimones were not either children of gods or
+1419a11	something divine, and when Meletus said they were, said, “Is there anyone, then, who thinks
+1419a12	that there are children of gods, but not gods?” Again, when one is going to show
+1419a13	the opponent saying contradictory or paradoxical things. Fourth, when he cannot
+1419a14	answer the question except by a sophistical answer; for if he answers in this way,
+1419a15	that it is and it is not, or partly yes and partly no, or in one sense
+1419a16	yes and in another no, the hearers shout him down as being at a loss. Otherwise do not
+1419a17	attempt it. For if he raises an objection, you will seem to have been beaten; for it is not
+1419a18	possible to ask many questions, because of the weakness of the hearer;
+1419a19	that is why enthymemes too should be made as compact as possible.
+1419a20	In answering, one should meet ambiguous questions by drawing distinctions
+1419a21	in full, and not curtly; and meet apparent contradictions by bringing the
+1419a22	solution at once in the answer, before the opponent asks the
+1419a23	next question or draws his conclusion; for it is not hard to foresee where the
+1419a24	argument is going. This, and the solutions, are plain to us from the Topics.
+1419a25	And when the opponent is drawing his conclusion, if he puts the conclusion
+1419a26	as a question, one should state one's reason; as Sophocles, asked
+1419a27	by Pisander whether he had decided, like the other
+1419a28	commissioners, to set up the Four Hundred, said he had. “What? Did
+1419a29	this not seem wicked to you?” He said it did. “Then did you not
+1419a30	do these wicked things?” “Yes,” he said, “for there was nothing better.”
+1419a31	And as the Laconian at the audit of his ephorate, when asked whether
+1419a32	he thought his colleagues had been justly put to death, said he did; and the other: “Then did you not
+1419a33	vote the same as they did?” And he said he did. “Then would you not”,
+1419a34	said the other, “justly be put to death too?” “Certainly not,” he said, “for they
+1419a35	did it for money, and I did not, but from conviction.”
+1419a36	That is why one should not ask a further question after the conclusion,
+1419b1	nor put the conclusion as a question, unless the truth
+1419b2	is overwhelmingly on one's side. As for the laughable, since
+1419b3	it seems to have some use in debates, and
+1419b4	Gorgias said one should destroy the opponents' seriousness
+1419b5	with laughter and their laughter with seriousness, and said it rightly,
+1419b6	it has been said in the books on poetics how many kinds of the laughable there are, of which some
+1419b7	suit a free man and others do not, so that he may take what suits him.
+1419b8	Irony is more befitting a free man than buffoonery; for the
+1419b9	ironical man produces the laughable for his own sake, the buffoon for another's.

@@ -1,0 +1,54 @@
+# Aristotle, Rhetoric, Book II, Chapter 13 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1389b13	Such, then, is the character of the young; older men
+1389b14	and those past their prime have characters made up mostly of the opposites
+1389b15	of these; for because they have lived many years and
+1389b16	have been deceived more often and made more mistakes, and because most things
+1389b17	turn out badly, they are positive about nothing, and
+1389b18	they do everything far less than they should. They think, but know nothing; and,
+1389b19	being in two minds, they always add “perhaps” and “maybe,” and they say everything
+1389b20	this way, nothing firmly. And they are ill-natured; for
+1389b21	ill-nature is supposing everything to be for the worse. Further,
+1389b22	they are suspicious because of their distrust, and distrustful because of their experience.
+1389b23	And for these reasons they neither love nor hate strongly, but in keeping with
+1389b24	Bias' precept they both love as though they will hate and hate
+1389b25	as though they will love. And they are small-souled because they have been humbled by
+1389b26	life; for they desire nothing great or out of the ordinary, but only what
+1389b27	is needed for life. And they are ungenerous; for property is one of the
+1389b28	necessities, and at the same time they know from experience how
+1389b29	hard it is to acquire and how easy to lose. And they are cowardly
+1389b30	and afraid of everything in advance; for they are disposed in the opposite way to the young:
+1389b31	they are chilled, the young are warm, so that old age has prepared the way
+1389b32	for cowardice; for fear too is a kind of chill.
+1389b33	And they love life, and more so on their last day, because
+1389b34	appetite is for what is absent, and what people lack they
+1389b35	desire most. And they love themselves more than they should; for this too is a kind of smallness of soul. And
+1389b36	they live for the advantageous and not for the noble, more than they should, because they love themselves;
+1390a1	for the advantageous is good for oneself, the noble good absolutely. And
+1390a2	they are shameless rather than prone to shame; for because they do not care
+1390a3	as much for the noble as for the advantageous, they slight how they seem.
+1390a4	And they are despondent because of their experience (for most of what happens
+1390a5	is bad; most things turn out for the worse), and
+1390a6	also because of their cowardice. And they live by memory rather than by
+1390a7	hope; for what is left of their life is short and what is past
+1390a8	long, and hope is of the future and memory
+1390a9	of the past; this is the cause of their garrulousness too;
+1390a10	for they keep talking of what has happened, since they enjoy
+1390a11	remembering. And their fits of temper are sharp but weak, and their
+1390a12	appetites have either left them or are weak, so that they are neither
+1390a13	given to appetite nor apt to act on their appetites, but for
+1390a14	gain; that is why men of that age appear self-controlled; for their
+1390a15	appetites have slackened and are slaves to gain. And they
+1390a16	live by calculation more than by character; for calculation is
+1390a17	of the advantageous, character of virtue. And the wrongs
+1390a18	they commit are from malice, not from outrage. Old men too
+1390a19	are prone to pity, but not for the same reasons as the young; for the young pity through
+1390a20	love of mankind, the old through weakness; for they think every suffering
+1390a21	near to themselves, and this, we saw, makes one prone to pity;
+1390a22	hence they are given to lamentation, and are not witty or
+1390a23	fond of laughter; for lamenting is the opposite of loving laughter.
+1390a24	Such, then, are the characters of the young and of older men,
+1390a25	so that, since everyone accepts speeches spoken in their own character
+1390a26	and by people like themselves, it is not unclear how, by using
+1390a27	speeches, both the speakers and their speeches will appear such.

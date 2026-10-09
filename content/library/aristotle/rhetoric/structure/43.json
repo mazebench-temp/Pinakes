@@ -1,0 +1,17 @@
+{
+  "scenes": [
+    {"from": "1404b1", "to": "1404b25", "title": "Clear and Appropriate", "summary": "The excellence of style is to be clear and appropriate, neither mean nor above its dignity. Standard words make it clear, the other kinds ornament it, and people admire what is far off, so the language should be a little foreign; but prose has a humbler subject than verse, and the art must be concealed, as Theodorus' voice seemed the speaker's own and Euripides composed from ordinary speech."},
+    {"from": "1404b26", "to": "1405a9", "title": "The Words of Prose", "summary": "Rare, double and coined words should be used seldom in prose; the standard and the proper word and metaphor are the only ones useful, as everyone's conversation shows. Homonyms serve the sophist, synonyms the poet. Metaphor, treated in the books on poetics, matters still more in prose, for it gives clarity, pleasure and the unfamiliar, and it cannot be borrowed from another."},
+    {"from": "1405a10", "to": "1405a30", "title": "Metaphors That Fit", "summary": "Epithets and metaphors must fit, by analogy, or the clash will show. To adorn, take them from the better things of a genus, to blame, from the worse: the beggar prays and the man who prays begs, Iphicrates' begging priest against Callias the torchbearer, flatterers of Dionysus or artists, pirates as purveyors. Telephus' “ruling over the oar” is too grand."},
+    {"from": "1405a31", "to": "1405b5", "title": "Sound, Kinship and Riddles", "summary": "Metaphors go wrong in their syllables when the sounds are not pleasant, as in Dionysius the Brazen's “scream of Calliope”. They should come not from far off but from things akin, naming what has no name, as the riddle of the cupping glass does; good metaphors can be taken from good riddles."},
+    {"from": "1405b6", "to": "1405b20", "title": "Beautiful Words", "summary": "Metaphors should come from beautiful things. A word's beauty or ugliness lies in its sound or its meaning, as Licymnius said, and Bryson was wrong that no one speaks foully, since one word sets a thing before the eyes more than another: “rosy-fingered dawn” is better than “crimson-fingered”, and far better than “red-fingered”."},
+    {"from": "1405b21", "to": "1405b34", "title": "Epithets and Diminutives", "summary": "Epithets may be drawn from the worse or the better side, “matricide” or “avenger of his father”, as Simonides, once he was well paid, hailed the mules as daughters of storm-footed mares. Diminutives lessen bad and good alike, as Aristophanes jokes in the Babylonians; in both one must observe due measure."}
+  ],
+  "quotations": [
+    {"from": "1405a29", "to": "1405a29", "source": "euripides", "entry": "euripides", "cite": "Euripides, Telephus (fr. 705 Nauck)"},
+    {"from": "1405b1", "to": "1405b2", "source": "cleobulina", "entry": "the-riddle-of-the-cupping-glass", "cite": "a riddle in verse, ascribed to Cleobulina"},
+    {"from": "1405b26", "to": "1405b27", "source": "simonides", "entry": "simonides", "cite": "Simonides"}
+  ],
+  "speeches": [],
+  "days": []
+}

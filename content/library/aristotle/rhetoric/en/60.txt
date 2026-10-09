@@ -1,0 +1,38 @@
+# Aristotle, Rhetoric, Book III, Chapter 19 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1419b10	The epilogue is composed of four things: disposing the hearer well
+1419b11	toward oneself and badly toward the opponent;
+1419b12	amplifying and depreciating; putting
+1419b13	the hearer into emotions; and recapitulation.
+1419b14	For it is natural, after showing oneself truthful and the
+1419b15	opponent a liar, then to praise and blame and hammer the point home.
+1419b16	One should aim at one of two things: that one is good to these hearers
+1419b17	or good absolutely, and that the opponent is bad to them or bad absolutely. The
+1419b18	topics from which one should establish this have been given, the sources from which
+1419b19	men are represented as good and as bad. The next thing,
+1419b20	once the facts have been shown, is naturally to amplify or depreciate;
+1419b21	for the facts must be agreed if one is going to speak of their size,
+1419b22	just as the growth of bodies comes from what is there before.
+1419b23	The topics for amplifying and depreciating have been set out
+1419b24	before. After this, when the nature and the size of the facts are clear,
+1419b25	one should bring the hearer into emotions. These are pity and
+1419b26	indignation, anger and hatred, envy, emulation and strife.
+1419b27	Their topics too have been given before, so that what remains
+1419b28	is to recall what has been said. It is fitting to do this here, and not, as
+1419b29	some wrongly say, in the proems; to make the matter
+1419b30	easy to learn, they tell you to say it many times. There one should
+1419b31	state the matter, so that what the judgment is about is not overlooked; here
+1419b32	one should state in summary the means by which it has been shown. Begin by saying that you have
+1419b33	done what you promised, so that you must say what you showed and why. This is
+1419b34	done by comparison with the opponent's case. One may compare what
+1419b35	both have said on the same point, or set them face to face
+1419b36	(“He said this about it, and I said that,
+1420a1	and for these reasons”), or use irony (as “For he
+1420a2	said this, and I that”, and “What would he have done, if he had proved this
+1420a3	and not that?”), or interrogation (“What, then, has been proved?”
+1420a4	or “What has he proved?”). Either in this way, by comparison,
+1420a5	or in the natural order, as the points were made, one's own, and then again,
+1420a6	if you wish, separately, those of the opponent's speech. For the end
+1420a7	the asyndetic style is fitting, so that it may be an epilogue
+1420a8	and not a speech: “I have spoken; you have heard; you have the facts; judge.”

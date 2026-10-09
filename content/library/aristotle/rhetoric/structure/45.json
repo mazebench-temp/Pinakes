@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    {"from": "1406b20", "to": "1406b26", "title": "The Simile Is a Metaphor", "summary": "The simile is a metaphor with a small difference: “he rushed on like a lion” is a simile, “a lion, he rushed on” a metaphor. Similes are useful in prose too, but seldom, for they are poetic."},
+    {"from": "1406b27", "to": "1407a15", "title": "Similes of the Orators", "summary": "Examples: Androtion's Idrieus like a puppy let off the chain, Theodamas' Archidamus as a Euxenus without geometry, the Republic's strippers of the dead like dogs biting stones, Pericles' Samians like children who cry as they take the morsel and Boeotians like holm oaks, Demosthenes' people like seasick passengers, Democrates' orators like nurses, Antisthenes' lean Cephisodotus like frankincense. All can be said as similes or as metaphors."},
+    {"from": "1407a16", "to": "1407a18", "title": "Metaphors That Answer", "summary": "A metaphor by analogy should answer back: if the cup is “the shield of Dionysus”, the shield may fittingly be called “the cup of Ares”."}
+  ],
+  "quotations": [
+    {"from": "1406b21", "to": "1406b22", "source": "homer", "entry": "eikon", "cite": "Homer, of Achilles (not in our text; compare Il. 20.164)", "marks": 2}
+  ],
+  "speeches": [],
+  "days": []
+}

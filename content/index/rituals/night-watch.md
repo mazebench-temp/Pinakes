@@ -7,6 +7,7 @@ summary: The guard an army keeps at night, φυλακή: sentries posted under a
 aliases: [watch, watches, the watch, sentries, guards, watch-fires, phylake]
 grc: [φυλακὴ, φυλακῆς, φυλάξομεν, πυρὰ, "!^Φυλακ*"]
 en: [watch, keep watch, guard ourselves, fires]
+except: [Rhetoric 1359b22, Rhetoric 1360a6, Rhetoric 1360a7, Rhetoric 1360a9, Rhetoric 1366a6]
 ---
 
 φυλακή, from φύλαξ, “guard”, and φυλάσσω, “watch over, keep guard”, is the watch an army keeps at night, and the men who keep it are φύλακες or φυλακτῆρες. Homer's watches are kept by men under arms, sitting by their fires, and their duty is to stay awake. The order is given in a verse: “and remember to keep watch, and let each man stay awake” (7.371, Priam to the Trojans; 18.299, Hector). A watch is kept against an ambush by night (see [[ambush]]), and the fires show the enemy that the army is there.

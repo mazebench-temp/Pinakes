@@ -5,7 +5,7 @@ kind: quotation
 tags: [plot]
 summary: Agathon's paradox, that the improbable is itself probable, since many improbable things happen. Aristotle quotes it twice in the Poetics as a principle of plot, and once in the Rhetoric, in Agathon's verse, as a sophism.
 aliases: [the probable improbable, Agathon's paradox, eikos para to eikos]
-source: Agathon (his verses in Aristotle, Rhetoric 2.24, 1402a10–11)
+source: Agathon (his verses in Aristotle, Rhetoric 2.24, 1402a9–12)
 of: [agathon, eikos]
 ---
 
@@ -18,6 +18,6 @@ Agathon's own words survive only in the *Rhetoric*, as two iambic lines (see [[a
 > τάχʼ ἄν τις εἰκὸς αὐτὸ τοῦτʼ εἶναι λέγοι,
 > βροτοῖσι πολλὰ τυγχάνειν οὐκ εἰκότα.
 
-“Perhaps one might say that this very thing is probable, that many things not probable happen to mortals.” There Aristotle treats the paradox as a fallacy. The improbable is probable not absolutely but in a certain respect, and to drop the qualification is the trick of the art of Corax: a weak man charged with assault argues that he was not likely to have done it, and a strong man that he was not likely to have done it because it would look so likely (*Rhetoric* 2.24). In the *Poetics* the same thought is put to honest use.
+“Perhaps one might say that this very thing is probable, that many things happen to mortals that are not probable.” There Aristotle treats the paradox as a fallacy. The improbable is probable not absolutely but in a certain respect, and to drop the qualification is the trick of the art of Corax: a weak man charged with assault argues that he was not likely to have done it, and a strong man that he was not likely to have done it because it would look so likely (*Rhetoric* 2.24, 1402a17–23; see [[the-art-of-corax]]). In the *Poetics* the same thought is put to honest use.
 
 {{notes}}

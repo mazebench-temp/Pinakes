@@ -12,6 +12,6 @@ participants: [athenians, carthaginians]
 
 ## The story
 
-In the autumn of 480 BCE the Greek fleet, led by the Athenians under Themistocles, destroyed the fleet of Xerxes in the strait between Salamis and the coast of Attica (Herodotus 8.40–96; see [[salamis]] and [[athenians]]). In Sicily a great Carthaginian army under Hamilcar besieging Himera was destroyed by Gelon, tyrant of Syracuse, and Theron of Acragas; Herodotus reports the Sicilian tradition that the two victories were won on the same day (7.165–167; see [[carthaginians]] and [[sicily]]). Later historians turned the coincidence into a plan: Diodorus says that Xerxes and the Carthaginians agreed to attack the Greeks of the mainland and of Sicily at once, and he dates Himera to the day of Thermopylae (11.1.4, 11.24.1).
+In the autumn of 480 BCE the Greek fleet, led by the Athenians under Themistocles (see [[themistocles]]), destroyed the fleet of Xerxes in the strait between Salamis and the coast of Attica (Herodotus 8.40–96; see [[salamis]] and [[athenians]]). In Sicily a great Carthaginian army under Hamilcar besieging Himera was destroyed by Gelon, tyrant of Syracuse (see [[gelon]]), and Theron of Acragas; Herodotus reports the Sicilian tradition that the two victories were won on the same day (7.165–167; see [[carthaginians]] and [[sicily]]). Later historians turned the coincidence into a plan: Diodorus says that Xerxes and the Carthaginians agreed to attack the Greeks of the mainland and of Sicily at once, and he dates Himera to the day of Thermopylae (11.1.4, 11.24.1).
 
 {{notes}}

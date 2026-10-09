@@ -1,0 +1,33 @@
+{
+  "scenes": [
+    {"from": "1394a19", "to": "1394b6", "title": "The Definition of Maxim", "summary": "A maxim is a general statement about matters of action; maxims are the conclusions or premises of enthymemes without the syllogism, as in Euripides' lines on educating children, and with the reason added they become enthymemes."},
+    {"from": "1394b7", "to": "1394b34", "title": "Four Kinds of Maxim", "summary": "Maxims come with or without a supplement: those known beforehand or clear at once need none, the paradoxical or disputed need one, and the most admired are enthymematic, like “Do not keep your anger immortal”."},
+    {"from": "1394b35", "to": "1395a18", "title": "When to Use Maxims", "summary": "Laconic and riddling sayings suit them, as Stesichorus told the Locrians; maxims become the old and the experienced, suit indignation and exaggeration, and even hackneyed ones are useful, like Hector's “One omen is best”."},
+    {"from": "1395a19", "to": "1395a33", "title": "Proverbs and Maxims Against the Common", "summary": "Some proverbs are maxims; one may speak against famous sayings like “Know yourself” and “Nothing too much” to show character or emotion, and must make one's choice clear or add the reason."},
+    {"from": "1395b1", "to": "1395b19", "title": "The Use of Maxims", "summary": "Maxims help because the hearers are pleased to hear their own particular opinions stated in general terms, and above all because they make speeches show character."}
+  ],
+  "quotations": [
+    {"from": "1394a30", "to": "1394a31", "source": "euripides", "entry": "children-taught-too-wise", "cite": "Euripides, Medea 294-295"},
+    {"from": "1394a34", "to": "1394a35", "source": "euripides", "entry": "children-taught-too-wise", "cite": "Euripides, Medea 296-297"},
+    {"from": "1394b1", "to": "1394b2", "source": "euripides", "entry": "no-man-is-happy-in-all-things", "cite": "Euripides, Stheneboea"},
+    {"from": "1394b3", "to": "1394b4", "source": "euripides", "entry": "no-man-is-free", "cite": "Euripides, Hecuba 864"},
+    {"from": "1394b5", "to": "1394b6", "source": "euripides", "entry": "no-man-is-free", "cite": "Euripides, Hecuba 865"},
+    {"from": "1394b12", "to": "1394b13", "entry": "health-is-best", "cite": "a verse of uncertain authorship"},
+    {"from": "1394b16", "to": "1394b16", "source": "euripides", "entry": "no-lover-who-does-not-love-always", "cite": "Euripides, Trojan Women 1051"},
+    {"from": "1394b19", "to": "1394b19", "source": "euripides", "entry": "children-taught-too-wise", "cite": "Euripides, Medea 294"},
+    {"from": "1394b23", "to": "1394b25", "entry": "immortal-anger", "cite": "a verse of an unnamed poet", "marks": 3},
+    {"from": "1394b25", "to": "1394b26", "entry": "mortal-thoughts", "cite": "a verse quoted as a maxim"},
+    {"from": "1394b31", "to": "1394b32", "source": "aristotle", "entry": "gnome", "cite": "Aristotle's example of a maxim with its supplement put first"},
+    {"from": "1395a1", "to": "1395a2", "source": "stesichorus", "entry": "the-cicadas-on-the-ground", "cite": "a saying of Stesichorus", "marks": 0},
+    {"from": "1395a14", "to": "1395a14", "source": "homer", "entry": "one-omen-is-best", "ref": "Il. 12.243"},
+    {"from": "1395a15", "to": "1395a15", "source": "homer", "entry": "victory-shifts", "cite": "Il. 18.309"},
+    {"from": "1395a17", "to": "1395a18", "entry": "a-fool-who-kills-the-father", "cite": "a proverb"},
+    {"from": "1395a20", "to": "1395a20", "entry": "an-attic-neighbor", "cite": "a proverb"},
+    {"from": "1395a21", "to": "1395a21", "entry": "know-yourself", "cite": "the Delphic maxim"},
+    {"from": "1395a22", "to": "1395a22", "entry": "nothing-too-much", "cite": "the Delphic maxim"},
+    {"from": "1395a26", "to": "1395a27", "source": "bias-of-priene", "entry": "love-as-though-you-will-hate", "cite": "the precept of Bias, quoted as a common saying", "marks": 0},
+    {"from": "1395a29", "to": "1395a33", "source": "aristotle", "entry": "gnome", "cite": "Aristotle's examples of maxims that contradict common sayings", "marks": 3}
+  ],
+  "speeches": [],
+  "days": []
+}

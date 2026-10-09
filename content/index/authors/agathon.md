@@ -5,7 +5,7 @@ kind: author
 tags: [tragic-poet, poet]
 summary: Athenian tragic poet (c. 448–400 BCE), whose first victory in 416 is the occasion of Plato's Symposium. Aristotle cites his Antheus, a tragedy with invented names, his failure with a whole Sack of Troy, his choral interludes, and his saying that the improbable is probable.
 aliases: [Agathon of Athens]
-grc: [Ἀγάθων*]
+grc: ["^Ἀγάθων*"]
 ---
 
 ## Life and work

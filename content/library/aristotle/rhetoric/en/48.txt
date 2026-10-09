@@ -1,0 +1,50 @@
+# Aristotle, Rhetoric, Book III, Chapter 7 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1408a10	The style will be appropriate if it is emotional, shows character,
+1408a11	and is proportionate to the subject matter. It is
+1408a12	proportionate if weighty matters are not spoken of offhandedly
+1408a13	nor cheap ones with dignity, and if ornament is not added to a cheap
+1408a14	word; otherwise it looks like comedy, as in what
+1408a15	Cleophon does; for some things he said were as if one were to say “queenly
+1408a16	fig tree”. The style is emotional if, when there is outrage, it is the style of an angry man;
+1408a17	if impious or shameful things, of a man who is disgusted and reluctant
+1408a18	even to speak of them; if praiseworthy things, admiringly; if pitiable things,
+1408a19	humbly; and so on in the other cases. The proper style also
+1408a20	makes the matter persuasive; for the soul draws the false inference that the speaker
+1408a21	is telling the truth, because people in such circumstances feel this way,
+1408a22	so that they think, even if things are not as the speaker says, that
+1408a23	the facts are so; and the hearer always shares the feelings of one
+1408a24	who speaks with emotion, even if he says nothing. That is why many overwhelm
+1408a25	their hearers by making a din. And this display from
+1408a26	signs also shows character, when the style that suits each class
+1408a27	and state goes with it. By class I mean by age, as boy
+1408a28	or man or old man, and woman or man, and Laconian or Thessalian;
+1408a29	and by states, those that make a man of a certain kind in his life; for it is not by every
+1408a30	state that lives are of a certain kind. So if one also uses words proper
+1408a31	to the state, one will convey the character; for a boor and an educated man
+1408a32	would not say the same things, or say them in the same way. Hearers are also
+1408a33	affected by what the speechwriters use to excess,
+1408a34	“Who does not know?”, “Everyone knows”; for the hearer agrees
+1408a35	out of shame, so that he may share in what all the
+1408a36	others share. Using these at the right moment or not
+1408b1	is common to all the kinds. The remedy for
+1408b2	every excess is the well-worn one: one should
+1408b3	rebuke oneself in advance; for then it seems to be true,
+1408b4	since what he is doing does not escape the speaker. Again,
+1408b5	do not use all the corresponding means at once (for in this way the hearer
+1408b6	is deceived). I mean, for example, if the words are harsh,
+1408b7	do not use a voice and a face to suit them as well;
+1408b8	otherwise each is seen for what it is. But if one is used
+1408b9	and the other not, one does the same thing without being noticed. If, then, gentle things
+1408b10	are said harshly and harsh things gently, it becomes persuasive.
+1408b11	Double words, more numerous epithets and strange words
+1408b12	suit above all a man speaking with emotion; for an angry man is forgiven
+1408b13	for calling an evil “sky-high” or saying “monstrous”; and so is a speaker when
+1408b14	he already has the hearers in his hands and has stirred them to enthusiasm by praise
+1408b15	or blame or anger or friendship, as Isocrates does at
+1408b16	the end of the Panegyricus, “fame and memory” and “who
+1408b17	endured”; for people utter such things when they are enthusiastic, so that
+1408b18	the hearers too, clearly, accept them when they feel the same. That is why it suits
+1408b19	poetry too, for poetry is inspired. So one should use them either thus or
+1408b20	with irony, as Gorgias did, and as in the Phaedrus.

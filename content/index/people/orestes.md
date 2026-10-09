@@ -13,6 +13,7 @@ relations:
   - father: agamemnon (9.142-143)
 passages:
   - 9.141-143 | Achilles as Agamemnon's son-in-law
+except: [Rhetoric 1401a36]
 ---
 
 {{quote:0d2d9ec7-889d-517f-add5-43e1dd532565}}

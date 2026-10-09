@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    {"from": "1395b20", "to": "1396a3", "title": "The Enthymeme Before a Crowd", "summary": "The enthymeme should neither reason from far off nor state the obvious, which is why the uneducated persuade crowds better than the educated; it should start from what the judges accept, and from what holds for the most part as well as from necessities."},
+    {"from": "1396a4", "to": "1396b19", "title": "Knowing the Facts", "summary": "One must know the facts of the subject: the Athenians' power, revenues and wars; their victories at Salamis and Marathon, and their wrongs to Aegina and Potidaea; and those proper to it, as Achilles killed Hector and Cycnus, not those common to many."},
+    {"from": "1396b20", "to": "1397a6", "title": "Demonstrative and Refutative Enthymemes", "summary": "The elements, or topics, of enthymemes follow. Enthymemes are demonstrative or refutative; the special topics have been given, so the general ones remain, with the apparent enthymemes, solutions and objections."}
+  ],
+  "quotations": [
+    {"from": "1395b28", "to": "1395b30", "source": "euripides", "entry": "the-uneducated-before-the-crowd", "cite": "Euripides, Hippolytus 989", "marks": 0}
+  ],
+  "speeches": [],
+  "days": []
+}

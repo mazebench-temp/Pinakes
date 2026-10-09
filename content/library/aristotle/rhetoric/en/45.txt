@@ -1,0 +1,39 @@
+# Aristotle, Rhetoric, Book III, Chapter 4 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1406b20	The simile, too, is a metaphor, for the difference is small. When
+1406b21	the poet says [of Achilles] “he rushed on like a lion”,
+1406b22	it is a simile; when he says “a lion, he rushed on”, it is a metaphor: because
+1406b23	both are brave, he transferred the name and called
+1406b24	Achilles a lion. The simile is useful in prose too, but seldom,
+1406b25	for it is poetic. Similes should be brought in as metaphors are;
+1406b26	for they are metaphors, differing in the way described. Examples of
+1406b27	similes are the one Androtion made of Idrieus, that he was like
+1406b28	puppies let off the chain: they fly at people and bite,
+1406b29	and Idrieus, freed from his chains, was savage. And
+1406b30	Theodamas likened Archidamus to Euxenus without his
+1406b31	geometry; it is by analogy, for Euxenus will be
+1406b32	Archidamus with geometry. And the one in Plato's Republic,
+1406b33	that those who strip the dead are like puppies
+1406b34	that bite the stones without touching the thrower; and
+1406b35	the one about the people, that it is like a shipowner who is strong but a little
+1406b36	deaf; and the one about the poets' verses, that they are like
+1406b37	the young who have bloom without beauty: once the bloom has faded, and once the verses are broken up,
+1407a1	they no longer look the same. And Pericles' simile for
+1407a2	the Samians, that they are like children
+1407a3	who take the morsel but cry as they take it; and his simile
+1407a4	for the Boeotians, that they are like holm oaks;
+1407a5	for holm oaks are felled by themselves, and the
+1407a6	Boeotians by fighting one another. And what Demosthenes
+1407a7	said of the people, that it is like passengers on ships
+1407a8	who are seasick. And Democrates likened the orators to
+1407a9	nurses who swallow the morsel themselves and smear the children's lips
+1407a10	with the spittle. And Antisthenes likened lean Cephisodotus
+1407a11	to frankincense, because he gives pleasure as he wastes away. All
+1407a12	of these can be spoken either as similes or as metaphors,
+1407a13	so that it is clear that those which are well liked when spoken as metaphors
+1407a14	will also be similes, and that similes are metaphors
+1407a15	that need a word more. A metaphor from
+1407a16	analogy should always be reciprocal and apply also to the other
+1407a17	of the two things of the same genus: if the cup is “the shield of Dionysus”,
+1407a18	the shield may fittingly be called “the cup of Ares”.

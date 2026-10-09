@@ -1,0 +1,18 @@
+{
+  "scenes": [
+    {"from": "1378a30", "to": "1378b10", "title": "The Definition of Anger", "summary": "Anger is a longing, accompanied by pain, for revenge for an apparent slight against oneself or one's own that was not warranted. It is felt toward individuals, and a pleasure follows it, the hope of revenge, as Homer says of temper “sweeter than dripping honey”."},
+    {"from": "1378b11", "to": "1379a9", "title": "Three Kinds of Slight", "summary": "A slight is the opinion that something is worth nothing, and it takes three forms, contempt, spite and outrage; outrage dishonors, as Achilles complains in Homer. People expect regard from their inferiors and from those they have benefited, as Homer says of the temper and the grudges of kings."},
+    {"from": "1379a10", "to": "1379a29", "title": "The State of the Angry", "summary": "People are angry when they are pained and thwarted in what they long for: the sick, the poor, those at war, lovers and the thirsty are easily roused, above all against those who slight their present condition, and the more so when what happens is contrary to their expectation."},
+    {"from": "1379a30", "to": "1379b38", "title": "With Whom People Are Angry", "summary": "They are angry with those who mock and jeer at them, who despise what they care about, with friends who fail them, as Plexippus was with Meleager, with those who rejoice at their misfortunes, who slight them before others, who do not return a favor, who use irony, and who forget even their names."},
+    {"from": "1380a1", "to": "1380a5", "title": "Anger in the Speech", "summary": "The speaker must bring his hearers into the state of those who are prone to anger, and show his opponents liable for the things at which people are angry and of the kind with whom they are angry."}
+  ],
+  "quotations": [
+    {"from": "1378b5", "to": "1378b7", "source": "homer", "entry": "sweeter-than-dripping-honey", "cite": "Il. 18.109-110"},
+    {"from": "1378b33", "to": "1378b33", "source": "homer", "entry": "aristotle-anger", "ref": "Il. 1.356"},
+    {"from": "1378b34", "to": "1378b34", "source": "homer", "entry": "like-a-dishonored-vagrant", "ref": "Il. 9.648"},
+    {"from": "1379a5", "to": "1379a5", "source": "homer", "entry": "aristotle-anger", "ref": "Il. 2.196"},
+    {"from": "1379a5", "to": "1379a6", "source": "homer", "entry": "a-kings-grudge", "ref": "Il. 1.82"}
+  ],
+  "speeches": [],
+  "days": []
+}

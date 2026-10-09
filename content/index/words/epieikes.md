@@ -3,7 +3,7 @@ title: Decent
 greek: ἐπιεικής
 kind: term
 tags: [character-and-thought]
-summary: ἐπιεικής, decent, fair-minded, good: in Poetics 13 the kind of man whose fall from good fortune is not tragic but repugnant; the poet must nonetheless make even his flawed characters decent.
+summary: ἐπιεικής, decent, fair-minded, good, and ἐπιείκεια, equity: in Poetics 13 the decent man whose fall from good fortune is not tragic but repugnant; in the Rhetoric equity, the justice that goes beyond the written law.
 aliases: [epieikes, epieikēs, decent, fair, equitable, reasonable]
 ---
 

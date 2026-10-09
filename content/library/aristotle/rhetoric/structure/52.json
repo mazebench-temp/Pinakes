@@ -1,0 +1,39 @@
+{
+  "scenes": [
+    {"from": "1411b21", "to": "1412a10", "title": "Activity", "summary": "Things are set before the eyes by words that signify things in activity: calling a good man “four-square” is a metaphor without activity, “whose prime is in flower” has it. Homer makes lifeless things alive through metaphor by analogy: the shameless stone, the arrow that flew, the spears longing for flesh, the spear point raging, the waves arched and white-crested; for activity is movement."},
+    {"from": "1412a11", "to": "1412a18", "title": "Likeness in Things Far Apart", "summary": "Metaphors should come from things related but not obvious, as in philosophy it takes a sharp mind to see likeness in things far apart: Archytas' arbitrator and altar, the anchor and the pot-hook, cities “leveled”."},
+    {"from": "1412a19", "to": "1412b3", "title": "Deception and Surprise", "summary": "Most urbane sayings add a deception, so that the hearer learns by the surprise and says to himself, “How true! And I was wrong.” So with apophthegms like Stesichorus' cicadas, with riddles and “novel things”, with jokes made by changing a letter, like Theodorus' jibe at Nicon the citharode, and with verses that end unexpectedly, as “chilblains” for “sandals”."},
+    {"from": "1412b4", "to": "1412b33", "title": "Words in Two Senses", "summary": "Homonymy and metaphor are good when they fit: the empire that was not the beginning of evils, “Anaschetus is not to be endured”, “no more a stranger than you should”, Anaxandrides' “noble to die before doing anything worthy of death”. The briefer and more antithetical, the better, provided the saying is true of its object; the more qualities it has, the more urbane."},
+    {"from": "1412b34", "to": "1413b2", "title": "Similes, Proverbs and Hyperboles", "summary": "Well-liked similes are metaphors made from two terms, like the shield as the cup of Ares and the bow as a stringless lyre; Niceratus as a Philoctetes bitten by Pratys, legs curly as parsley, Philammon sparring with the punching bag. Proverbs are metaphors from species to species, like the Carpathian's hare; hyperboles too are metaphors, adolescent and vehement, like Achilles' refusal, and unfit for an older man."}
+  ],
+  "quotations": [
+    {"from": "1411b28", "to": "1411b28", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Philippus"},
+    {"from": "1411b29", "to": "1411b29", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Philippus"},
+    {"from": "1411b30", "to": "1411b30", "source": "euripides", "entry": "euripides", "cite": "Euripides, Iphigenia at Aulis 80"},
+    {"from": "1411b34", "to": "1411b35", "source": "homer", "entry": "homers-lifeless-things-alive", "cite": "Od. 11.598"},
+    {"from": "1411b35", "to": "1411b35", "source": "homer", "entry": "homers-lifeless-things-alive", "ref": "Il. 13.587"},
+    {"from": "1411b35", "to": "1411b35", "source": "homer", "entry": "homers-lifeless-things-alive", "ref": "Il. 4.126"},
+    {"from": "1412a1", "to": "1412a1", "source": "homer", "entry": "homers-lifeless-things-alive", "ref": "Il. 11.574"},
+    {"from": "1412a2", "to": "1412a2", "source": "homer", "entry": "homers-lifeless-things-alive", "cite": "Il. 15.542"},
+    {"from": "1412a8", "to": "1412a9", "source": "homer", "entry": "homers-lifeless-things-alive", "ref": "Il. 13.799"},
+    {"from": "1412a21", "to": "1412a22", "source": "aristotle", "entry": "asteion", "cite": "the soul's surprise, in Aristotle's words"},
+    {"from": "1412a31", "to": "1412a31", "entry": "asteion", "cite": "an unidentified verse"},
+    {"from": "1412a35", "to": "1412a36", "source": "theodorus-of-byzantium", "entry": "theodorus-of-byzantium", "cite": "Theodorus, at Nicon the citharode", "marks": 2},
+    {"from": "1412b2", "to": "1412b3", "entry": "asteion", "cite": "an unidentified jest"},
+    {"from": "1412b13", "to": "1412b13", "entry": "asteion", "cite": "an unidentified jest"},
+    {"from": "1412b14", "to": "1412b16", "entry": "asteion", "cite": "an unidentified verse and its paraphrase", "marks": 4},
+    {"from": "1412b18", "to": "1412b18", "source": "anaxandrides", "entry": "anaxandrides", "cite": "Anaxandrides"},
+    {"from": "1412b19", "to": "1412b21", "source": "aristotle", "entry": "asteion", "cite": "Aristotle's restatements", "marks": 3},
+    {"from": "1412b28", "to": "1412b31", "source": "aristotle", "entry": "asteion", "cite": "Aristotle's examples", "marks": 3},
+    {"from": "1412b36", "to": "1412b36", "entry": "the-cup-of-ares", "cite": "a metaphor by analogy", "marks": 2},
+    {"from": "1412b36", "to": "1412b36", "entry": "eikon", "cite": "a metaphor by analogy"},
+    {"from": "1413a13", "to": "1413a14", "entry": "eikon", "cite": "similes of the comic poets"},
+    {"from": "1413a19", "to": "1413a19", "entry": "metaphora", "cite": "a proverb", "marks": 2},
+    {"from": "1413a22", "to": "1413a23", "entry": "hyperbole", "cite": "a hyperbole"},
+    {"from": "1413a24", "to": "1413a24", "source": "aristotle", "entry": "hyperbole", "cite": "Aristotle's formula"},
+    {"from": "1413a25", "to": "1413a29", "source": "aristotle", "entry": "eikon", "cite": "the similes turned into hyperboles", "marks": 4},
+    {"from": "1413a32", "to": "1413a34", "source": "homer", "entry": "the-sand-and-the-dust", "ref": "Il. 9.385-390"}
+  ],
+  "speeches": [],
+  "days": []
+}

@@ -14,12 +14,13 @@ The Iliad's remaining books, the Odyssey, and the Homeric Hymns are all verse ci
 | `grc/NN.txt` | the Greek, one verse per row: `line<TAB>text` |
 | `en/NN.txt` | the translation, aligned to the Greek numbering |
 | `structure/NN.json` | scenes (covering every line), speeches (matching the quotation marks), days |
-| `lexicon/NN.json` | one `{w, l, g, p, n?}` analysis per token, as produced by `tokenize()` |
+| `lexicon/NN.json` | one `{w, l, g, p, n?}` analysis per token, as produced by `tokenize()`, keyed by line as the text is (`"1354a1"` in a work cited by Bekker line) |
 | `notes/NN/<id>.md` | what each index entry is and does in this book (see below) |
 
-`node scripts/lexicon.mjs skeleton <book> <from> <to>` prints the tokens of a range ready to be
-analyzed; `check` validates a filled-in part against the text and against the lemmas already used;
-`merge` writes `lexicon/NN.json` from the parts. Several parts can be written in parallel.
+`node scripts/lexicon.mjs skeleton <book> <from> <to>` prints the tokens of a range (line numbers, or
+Bekker labels such as `1354a1`) ready to be analyzed; `check` validates a filled-in part against the
+text and against the lemmas already used; `merge` writes `lexicon/NN.json` from the parts. Several
+parts can be written in parallel.
 
 `npm test` checks the alignment, the speeches against the quotation marks, the scene coverage,
 and the lexicon token counts. The build report lists every capitalized Greek word no entry covers
@@ -56,18 +57,20 @@ the Index can be limited to an author, a work or a book (`site/assets/js/lib/sco
 notes are picked up by folder. The general article stays general: etymology, family, myth and
 later tradition; everything that happens in a particular book goes in that book's note.
 
-## Prose (Aristotle's Poetics, and after it Plato and Herodotus)
+## Prose (Aristotle's Poetics and Rhetoric, and after them Plato and Herodotus)
 
-The Poetics is the first prose work, cited by Bekker page, column and line (`Poetics 1451a36`). It
-shows how a prose work fits a library built for verse:
+The Poetics is the first prose work, cited by Bekker page, column and line (`Poetics 1451a36`); the
+first book of the Rhetoric followed with no code changes. They show how a prose work fits a library
+built for verse:
 
 1. **Line ids.** Each row of `grc/NN.txt` and `en/NN.txt` begins with its Bekker label
    (`1447a8<TAB>…`). The labels are coded as integers, page × 100, plus 50 in column b, plus the line
    (1447a8 = 144708, 1447b8 = 144758), so line maps, numeric ranges and "every fifth line" work as
    they do for verse (`parseBekker`, `bekkerLabel` in `scripts/lib/refs.mjs`).
 2. **References.** `citation.scheme: "bekker"` in `work.json` selects the parser. A chapter is the
-   work's "book"; each `books.N` entry gives the chapter's first line (`from`) and its Greek numeral
-   (`letter`). `parseRef()` reads `Poetics 1451a36-b5` and ranges across pages, finds the chapter that
+   work's "book"; each `books.N` entry gives the chapter's first line (`from`), its Greek numeral
+   (`letter`), and, for a work in several books, the label it is shown by (`label`: the Rhetoric's
+   chapters run 1 to 60 across its three books, and chapter 16 is shown as "2.1"). `parseRef()` reads `Poetics 1451a36-b5` and ranges across pages, finds the chapter that
    holds the first line, and expands ranges over the lines of the text.
 3. **Reader layout.** `display: "prose"` adds a running-text layout: each section of the structure
    file becomes a Greek and an English paragraph, side by side on wide screens, with the line labels
@@ -77,7 +80,9 @@ shows how a prose work fits a library built for verse:
    `{"from": "1457b10", "to": "1457b10", "source": "homer", "entry": "here-my-ship-stands",
    "cite": "Od. 1.185 = 24.308"}`. `source` and `entry` are entry ids; `ref` instead of `cite` links a
    line of a work in the library (`"ref": "Il. 2.272"`). The quoted lines must carry quotation marks
-   in the Greek, except an indirect quotation, which is marked `"marks": 0`. The reader labels the
+   in the Greek, except an indirect quotation, which is marked `"marks": 0`; a passage that strings
+   several quoted proverbs together counts its marks (`"marks": 4`), and an example sentence of the
+   author's own takes `"source": "aristotle"`. The reader labels the
    lines with the poet and the source, and the entry page lists where the entry is quoted.
 
 Plato would need Stephanus sections (`Republic 327a`) and Herodotus book.chapter.section

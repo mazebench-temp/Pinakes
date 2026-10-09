@@ -9,6 +9,7 @@ grc: [χάριν]
 en: [thanks]
 passages:
   - 4.93-103 | Athena tempts Pandarus
+except: [Rhetoric 1360b7, Rhetoric 1366a32, Rhetoric 1371a16, Rhetoric 1384a23, Rhetoric 1415b39]
 ---
 
 ## Meaning

@@ -1,0 +1,23 @@
+{
+  "scenes": [
+    {"from": "1366a23", "to": "1366a32", "title": "The Matter of Praise", "summary": "Virtue and vice, the noble and the shameful, are the targets of praise and blame; speaking of them also shows how the speaker may seem worthy of belief. People praise gods, men, lifeless things and animals, in earnest and in jest."},
+    {"from": "1366a33", "to": "1366b22", "title": "Virtue and Its Parts", "summary": "The noble is what is praiseworthy and chosen for itself, or pleasant because good; virtue is a capacity for providing, preserving and conferring great benefits. Its parts are justice, courage, self-control, magnificence, greatness of soul, generosity, practical wisdom and wisdom, and the greatest are those most useful to others, justice and courage above all."},
+    {"from": "1366b23", "to": "1367a6", "title": "Noble Deeds", "summary": "What produces virtue or comes from it is noble: works of courage and justice (though not just punishment), deeds whose prize is honor, deeds done for others or for one's country, goods that can belong to a man after death, and benefits conferred."},
+    {"from": "1367a7", "to": "1367a33", "title": "Shame, Victory and Custom", "summary": "Noble too are the opposites of what shames, as Sappho answered Alcaeus; the virtues of the naturally better; revenge on enemies; victory and honor; memorable and unprofitable things; and what each people honors, as long hair in Lacedaemon marks a free man who does no laborer's work."},
+    {"from": "1367a34", "to": "1367b7", "title": "The Best Name for Each Quality", "summary": "Praise and blame may treat neighboring qualities as the same: the cautious man as cold, the simpleton as good-natured, the irascible as frank, the arrogant as magnificent, the rash as courageous, the prodigal as generous."},
+    {"from": "1367b8", "to": "1367b27", "title": "Audience, Fitness and Choice", "summary": "Consider the audience, for, as Socrates said, it is not hard to praise Athenians among Athenians. Praise what is fitting, or better than expected (Iphicrates' \"From what to what\", the Olympic victor, Simonides on Archedice), and show that the deeds were chosen, treating even coincidences as choices."},
+    {"from": "1367b28", "to": "1368a9", "title": "Praise, Encomium and Advice", "summary": "Praise sets forth the greatness of virtue; encomium concerns deeds, with birth and education as supporting signs. Calling a man blessed includes these. Praise and advice share a form: a suggestion becomes praise when its wording is turned."},
+    {"from": "1368a10", "to": "1368a37", "title": "Amplification", "summary": "The topics of amplification: alone, first, with few, often, beyond expectation; incentives and honors created on a man's account, as for Hippolochus and for Harmodius and Aristogeiton; comparison, as Isocrates practiced it. Amplification suits epideictic, examples deliberative, enthymemes judicial speeches; blame comes from the opposites."}
+  ],
+  "quotations": [
+    {"from": "1367a10", "to": "1367a10", "source": "alcaeus", "entry": "shame-prevents-me", "cite": "Alcaeus"},
+    {"from": "1367a11", "to": "1367a13", "source": "sappho", "entry": "shame-prevents-me", "cite": "Sappho"},
+    {"from": "1367b8", "to": "1367b9", "source": "socrates", "entry": "praising-athenians-among-athenians", "cite": "a saying of Socrates", "marks": 0},
+    {"from": "1367b18", "to": "1367b18", "source": "iphicrates", "entry": "from-what-to-what", "cite": "Iphicrates"},
+    {"from": "1367b19", "to": "1367b19", "source": "simonides", "entry": "once-with-a-rough-yoke", "cite": "an epigram on an Olympic victor"},
+    {"from": "1367b20", "to": "1367b21", "source": "simonides", "entry": "she-whose-father-was-a-tyrant", "cite": "Simonides, epitaph of Archedice"},
+    {"from": "1368a5", "to": "1368a7", "source": "aristotle", "entry": "praise-and-blame", "cite": "Aristotle's example of a suggestion turned into praise"}
+  ],
+  "speeches": [],
+  "days": []
+}

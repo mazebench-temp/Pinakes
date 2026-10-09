@@ -1,0 +1,33 @@
+# Aristotle, Rhetoric, Book II, Chapter 7 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1385a16	To whom people are grateful, and for what, and in what state they themselves are,
+1385a17	will be clear once we have defined favor. Let favor, by which the
+1385a18	one who has it is said to be grateful, be a service to one in need, not in return for anything,
+1385a19	nor so that the one who serves may get something, but so that the other may; and it is great
+1385a20	if the need is great, or the things are great and hard, or the times
+1385a21	critical, or if one is the only one, or the first, or the chief one to serve. Needs are
+1385a22	longings, and above all those accompanied by pain at what is not happening.
+1385a23	Such are the appetites, for instance love, and those that arise in the
+1385a24	body's afflictions and in dangers; for one in danger
+1385a25	desires, and so does one in pain. That is why those who stand by people in poverty
+1385a26	and exile, even if they do them small services, because of the greatness of the need
+1385a27	and the critical time, have done a favor, like the man in the Lyceum who gave the
+1385a28	mat. The service, then, must be above all for those same needs,
+1385a29	or if not, for equal or greater ones. So, since it is clear to whom
+1385a30	and for what a favor is done, and in what state people are, it is clear
+1385a31	that one must prepare the case from these: showing that the one party
+1385a32	either is or has been in such pain and
+1385a33	need, and that the other has rendered such a service in such a need
+1385a34	or is rendering it. It is clear too from what sources
+1385a35	one can take away the favor and make people out to be ungracious:
+1385b1	either by saying that they serve or served for their own sake (and this,
+1385b2	we said, was not a favor), or that it happened by chance, or that they
+1385b3	were compelled, or that they repaid rather than gave, whether
+1385b4	knowingly or not; for in both cases it was in return for something, so that
+1385b5	not even so would it be a favor. And one must examine it under all the categories;
+1385b6	for a favor is one because it is this thing, or so much, or of such a kind, or
+1385b7	at this time, or in this place. A sign is if they did not render a lesser service, and if
+1385b8	they rendered the same, or equal or greater services to our enemies; for clearly these too were not
+1385b9	for our sake. Or if one knowingly gave what was worthless; for no one admits
+1385b10	to needing what is worthless.

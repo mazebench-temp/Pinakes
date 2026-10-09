@@ -8,6 +8,7 @@ aliases: [deathless ones, athanatoi]
 grc: [ἀθανάτ*]
 en: [immortals, immortal]
 of: [olympians]
+except: [Rhetoric 1394b23, Rhetoric 1394b26]
 ---
 
 ## Meaning

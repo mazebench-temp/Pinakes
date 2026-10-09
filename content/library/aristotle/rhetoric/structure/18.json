@@ -1,0 +1,15 @@
+{
+  "scenes": [
+    {"from": "1380a6", "to": "1380a14", "title": "Calming", "summary": "Calming is the opposite of growing angry, a settling and quieting of anger; people are calm toward those who do not slight them, or do so involuntarily, or treat themselves no better."},
+    {"from": "1380a15", "to": "1380b1", "title": "Those Who Admit and Humble Themselves", "summary": "People are calm toward those who admit their fault and are sorry, as masters are with servants who confess; toward those who humble themselves, as dogs do not bite those who sit down; toward the serious, benefactors and suppliants; toward those they fear or feel shame before; and toward those who acted in anger."},
+    {"from": "1380b2", "to": "1380b30", "title": "Calm States and Spent Anger", "summary": "People are calm at play, at festivals and in success; when time has passed; when their anger has been spent on another, as Philocrates knew and as the Athenians acquitted Ergophilus after condemning Callisthenes; when the offender has suffered or admits his wrong; and when he cannot perceive the revenge, which is why Homer's Odysseus tells the Cyclops his name and Apollo checks Achilles' rage at Hector's body."},
+    {"from": "1380b31", "to": "1380b34", "title": "Calming in the Speech", "summary": "To calm the hearers one speaks from these topics, making those they are angry with seem fearful, people before whom they feel shame, benefactors, unwilling agents, or sorry for what they did."}
+  ],
+  "quotations": [
+    {"from": "1380b9", "to": "1380b10", "source": "philocrates", "entry": "philocrates-not-yet", "cite": "a saying of Philocrates", "marks": 4},
+    {"from": "1380b23", "to": "1380b23", "source": "homer", "entry": "say-that-odysseus-blinded-you", "cite": "Od. 9.504"},
+    {"from": "1380b30", "to": "1380b30", "source": "homer", "entry": "the-senseless-earth", "cite": "Il. 24.54"}
+  ],
+  "speeches": [],
+  "days": []
+}

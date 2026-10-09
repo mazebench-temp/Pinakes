@@ -9,7 +9,7 @@ aliases: [metaphora, metaphor, metaphors, transference, analogy, metaphorical]
 
 ## Meaning
 
-μεταφορά is a carrying across (μεταφέρω), first of goods, then of words. Aristotle's definition in the *Poetics* is the oldest surviving, and his four kinds include what later rhetoric distinguished as synecdoche and metonymy. The *Rhetoric* adds that the simile is a metaphor with a word of comparison (3.4, 1406b20–22).
+μεταφορά is a carrying across (μεταφέρω), first of goods, then of words. Aristotle's definition in the *Poetics* is the oldest surviving, and his four kinds include what later rhetoric distinguished as synecdoche and metonymy. The *Rhetoric* adds that the simile is a metaphor with a word of comparison (3.4, 1406b20–22; see [[eikon]]).
 
 {{notes}}
 

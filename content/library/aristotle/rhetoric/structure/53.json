@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {"from": "1413b3", "to": "1413b16", "title": "Written Style and the Style of Debate", "summary": "Each kind of speech has its own style, and the written style is not that of debate. The written style is the most precise; the style of debate is the most suited to delivery, whether it shows character or emotion. Poets written for reading, like Chaeremon and Licymnius, are carried about in people's hands; writers' speeches seem thin in debate, and orators' amateurish on the page."},
+    {"from": "1413b17", "to": "1414a7", "title": "Repetition and Asyndeton", "summary": "What suits delivery seems silly without it. Repetition must be varied, as the actor Philemon varied “Rhadamanthus and Palamedes” in Anaxandrides' Old Men's Madness; asyndeta must be acted, and they amplify, making one thing many, as Homer makes Nireus memorable by naming him three times, though he mentions him once."},
+    {"from": "1414a8", "to": "1414a19", "title": "The Styles of the Three Kinds", "summary": "Speaking to the assembly is like shadow-painting: the larger the crowd, the more precision is wasted. The judicial style is more precise, above all before a single judge, where there is least room for rhetoric. The epideictic style, which is meant to be read, is the most suited to writing; the judicial comes second."},
+    {"from": "1414a20", "to": "1414a30", "title": "No Further Distinctions", "summary": "To add that style should be pleasant or magnificent is superfluous: the excellence already defined, clarity and appropriateness, with a good blend of the usual and the unfamiliar, rhythm, and the persuasiveness of the appropriate, will make it pleasant. So much for style; arrangement remains."}
+  ],
+  "quotations": [
+    {"from": "1413b23", "to": "1413b25", "source": "aristotle", "entry": "delivery", "cite": "Aristotle's example of varied repetition"},
+    {"from": "1413b26", "to": "1413b27", "source": "anaxandrides", "entry": "anaxandrides", "cite": "Anaxandrides, Old Men's Madness"},
+    {"from": "1413b27", "to": "1413b27", "source": "anaxandrides", "entry": "anaxandrides", "cite": "Anaxandrides, The Pious, the prologue"},
+    {"from": "1413b28", "to": "1413b29", "entry": "delivery", "cite": "a proverb"},
+    {"from": "1413b29", "to": "1413b30", "source": "aristotle", "entry": "asyndeton", "cite": "Aristotle's example"},
+    {"from": "1413b34", "to": "1414a1", "source": "aristotle", "entry": "asyndeton", "cite": "Aristotle's examples", "marks": 2},
+    {"from": "1414a2", "to": "1414a3", "source": "homer", "entry": "aristotle-nireus", "ref": "Il. 2.671-673"}
+  ],
+  "speeches": [],
+  "days": []
+}

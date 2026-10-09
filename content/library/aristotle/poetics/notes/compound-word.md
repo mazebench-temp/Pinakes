@@ -4,7 +4,7 @@ grc: [διπλοῖς, τριπλοῦν, τετραπλοῦν, πολλαπλ�
 en: [compounds, double, double words, triple]
 ---
 
-In a compound noun “we do not use a part as having a meaning of its own: in Theodorus, for example, the -dōros means nothing” (1457a12–14; see [[onoma]]). Chapter 21:
+In a compound noun “we do not use a part as having a meaning of its own: in Theodorus, for example, the -dōros … means nothing” (1457a12–14; see [[onoma]]). Chapter 21:
 
 {{quote:607bd1f8-21eb-5980-b934-93cf99497767}}
 

@@ -1,0 +1,65 @@
+# Aristotle, Rhetoric, Book II, Chapter 20 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1393a23	It remains to speak about the proofs common to all, since
+1393a24	the particular ones have been discussed. The common proofs are of two kinds:
+1393a25	example and enthymeme; for the maxim is a part of an enthymeme.
+1393a26	First, then, let us speak about example;
+1393a27	for example is like induction, and induction is a starting point.
+1393a28	There are two kinds of examples: one kind of example
+1393a29	is to tell of things that have happened before, another is to
+1393a30	make them up oneself. Of the latter, one kind is comparison, another fables, such as the Aesopic and
+1393a31	Libyan fables. Telling of things that have happened is something like this: as if one
+1393a32	were to say that one must prepare against the king and not allow him to subdue Egypt;
+1393a33	for in the past Darius did not cross over before he had taken Egypt,
+1393b1	but having taken it he crossed; and again Xerxes did not
+1393b2	set about it before he had taken it, but having taken it he crossed; so that
+1393b3	this king too, if he takes it, will cross over; and so it must not be allowed.
+1393b4	Comparison is the Socratic sort: for instance, if one were to say that
+1393b5	officials should not be chosen by lot; for it is as if one were to
+1393b6	choose athletes by lot, not those able to compete but those on whom the lot falls,
+1393b7	or to choose by lot which of the sailors should steer, as though it should be
+1393b8	the one on whom the lot falls and not the one who knows how. A fable is like the fable of
+1393b9	Stesichorus about Phalaris and ⟨that⟩ of Aesop on behalf of the demagogue.
+1393b10	For Stesichorus, when the people had chosen a general with full powers,
+1393b11	Phalaris, at Himera, and were about to give him a bodyguard,
+1393b12	after discussing other matters told them a fable: a horse had
+1393b13	a meadow to himself; a stag came and spoiled
+1393b14	the pasture, and wishing to take revenge on the stag the horse asked a
+1393b15	man whether he could help him take revenge on the stag,
+1393b16	and the man said yes, if the horse would take a bit and let him mount him
+1393b17	with javelins in his hand; the horse agreed, and when the man had mounted, instead of
+1393b18	taking revenge the horse became the man's slave. “So you too,”
+1393b19	he said, “see that in wishing to take revenge on your enemies
+1393b20	you do not suffer the same as the horse; for you already have the bit,
+1393b21	having chosen a general with full powers; but if you give him a bodyguard and
+1393b22	let him mount you, you will at once be slaves to Phalaris.” Aesop,
+1393b23	speaking to the assembly at Samos when a demagogue was on trial for his life, said
+1393b24	that a fox crossing a river was swept into a ravine and,
+1393b25	being unable to get out, was in distress for a long time, and many dog-ticks
+1393b26	clung to her; a hedgehog, wandering by, saw her and
+1393b27	took pity, and asked whether he should take the ticks off her;
+1393b28	but she would not let him; and when he asked why, “because these,” she said, “are already
+1393b29	full of me and draw little blood; but if you take
+1393b30	these off, others will come hungry and drink up
+1393b31	the rest of my blood.” “So you too, men
+1393b32	of Samos: this man will do you no more harm
+1393b33	(for he is rich); but if you put him to death,
+1394a1	others will come who are poor, who will use you up, stealing what is left.”
+1394a2	Fables suit speeches to the assembly, and they have this
+1394a3	advantage, that it is hard to find similar things that have happened,
+1394a4	but fables are easier; for one must make them up, as one does comparisons, if one
+1394a5	can see the likeness, which is easier with philosophy.
+1394a6	So what is supplied through fables is easier to provide, but more useful
+1394a7	for deliberation is what comes through actual events; for for the most part
+1394a8	the future is like the past. One should
+1394a9	use examples, when one has no enthymemes,
+1394a10	as demonstrations (for proof comes through them), and when one has them, as
+1394a11	testimony, using them as a supplement to the enthymemes; for when they are put
+1394a12	first they resemble induction, and induction is not appropriate
+1394a13	to rhetoric except in a few cases; when they are added after, they resemble testimony, and
+1394a14	a witness is persuasive everywhere; that is why one who puts them first must
+1394a15	give many, but for one who adds them after, even one is
+1394a16	enough; for a good witness, even one, is useful.
+1394a17	How many kinds of examples there are, then, and
+1394a18	how and when they should be used, has been said.

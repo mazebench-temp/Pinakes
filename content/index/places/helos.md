@@ -4,7 +4,7 @@ greek: Ἕλος
 kind: place
 tags: [peloponnese, city, laconia]
 summary: A town of Lacedaemon near the mouth of the Eurotas, "the citadel by the sea". Ancient writers derived the name of the Spartan helots from it.
-grc: [Ἕλος]
+grc: ["^Ἕλος"]
 except: [2.594]
 ---
 

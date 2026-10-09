@@ -23,4 +23,4 @@ en: [sign]
 
 ## Outside Homer
 
-In Aristotle's *Rhetoric* τεκμήριον is a sign that proves conclusively, as distinct from a sign that is only probable (1.2, 1357b).
+In Aristotle's *Rhetoric* τεκμήριον, which Aristotle derives from τέκμαρ, “limit”, is a sign that proves conclusively, as distinct from a sign that is only probable (1.2, 1357b; see [[tekmerion]]).

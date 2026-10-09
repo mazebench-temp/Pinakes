@@ -1,0 +1,97 @@
+# Aristotle, Rhetoric, Book II, Chapter 4 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1380b35	Whom people love and hate, and why, let us say after defining friendship and
+1380b36	loving. Let loving be
+1380b37	wishing for someone what one thinks good, for his sake and not for one's own,
+1381a1	and being disposed, so far as one can, to bring it about. A friend is
+1381a2	one who loves and is loved in return; and people think they are friends when they
+1381a3	think they are so disposed toward each other. On these assumptions,
+1381a4	a friend must be one who shares one's pleasure in good things and one's pain in
+1381a5	painful ones, not for any other reason but for the friend's sake; for when what they wish
+1381a6	comes about, everyone rejoices, and at the opposite they are pained,
+1381a7	so that pains and pleasures are a sign of one's wish. And those
+1381a8	for whom the same things are good and bad, and those who are friends to the same people and
+1381a9	enemies to the same people; for they must wish the same things, so that
+1381a10	one who wishes for another what he wishes for himself appears to be his friend.
+1381a11	And people love those who have done good to them or to those they care for, either
+1381a12	if the benefits were great, or given eagerly, or at such critical moments, and
+1381a13	for their sake; or those whom they think willing to do them good. And
+1381a14	the friends of their friends, and those who love whom they themselves love. And those
+1381a15	who are loved by those whom they love. And those who are enemies
+1381a16	to the same people and hate whom they themselves hate, and those
+1381a17	hated by those whom they themselves hate; for to all of these the
+1381a18	same things appear good as to themselves, so that they wish what is
+1381a19	good for them, which was the mark of a friend. Further, those who are beneficent with
+1381a20	money and in matters of safety; that is why people honor the generous and the brave
+1381a21	and the just; and they take to be such those
+1381a22	who do not live off others; such are those who live by their work,
+1381a23	and among these the farmers, and among the rest above all those who work with their own hands.
+1381a24	And the self-controlled, because they are not unjust. And those who mind their own business,
+1381a25	for the same reason. And those whose friends we wish to be, if they appear
+1381a26	to wish it too; such are those who are good in virtue and
+1381a27	those of good repute, either among all or among the best or among those
+1381a28	admired by us or among those who admire us. Further,
+1381a29	those who are pleasant to live and spend the day with; such are
+1381a30	the good-tempered, those who are not given to censuring our errors, and those who are not
+1381a31	contentious or quarrelsome (for all such people are combative,
+1381a32	and those who fight appear to wish the opposite of what we wish), and those who are
+1381a33	deft both at teasing and at taking a tease; for in both ways
+1381a34	they aim at the same thing as their neighbor, being able to take a joke
+1381a35	and joking in good taste. And those who praise the good qualities we have,
+1381a36	and especially those we are afraid we do not have.
+1381b1	And those who are clean in their appearance, in their dress, in
+1381b2	their whole way of life. And those who do not reproach us either with our
+1381b3	errors or with their benefits; for both are censorious.
+1381b4	And those who do not bear grudges or nurse
+1381b5	their complaints, but are easily reconciled; for as they suppose them to be
+1381b6	toward others, so they think they will be toward themselves. And
+1381b7	those who are not slanderers and know neither their neighbors' faults
+1381b8	nor ours, but only the good things; for the good man does this. And
+1381b9	those who do not resist us when we are angry or in earnest;
+1381b10	for such people are combative. And those who are
+1381b11	seriously disposed toward us in some way, for instance who admire us and think us
+1381b12	good and enjoy our company, and who feel this
+1381b13	most about the things in which we ourselves most wish either
+1381b14	to be admired or to seem good or pleasant. And those who are
+1381b15	like us and have the same pursuits, if they do not get in our way and our
+1381b16	living does not come from the same source; for then it becomes “potter
+1381b17	against potter.” And those who desire the same things, if it is possible
+1381b18	for both to share in them at once; if not, the same thing happens here too.
+1381b19	And those toward whom people are so disposed as not to feel shame at what offends
+1381b20	opinion, provided they do not despise them. And those before whom they feel shame at what offends
+1381b21	truth. And those with whom they compete for honor, or by whom
+1381b22	they wish to be emulated and not envied: these they either love
+1381b23	or wish to be their friends. And those whom they help to get good things,
+1381b24	if they themselves are not going to suffer greater evils from it. And those who love
+1381b25	the absent and the present alike; that is why everyone loves those
+1381b26	who are such toward the dead. And in general
+1381b27	those who are very fond of their friends and do not abandon them; for among the good
+1381b28	people love most those who are good at loving. And those who do not
+1381b29	pretend with them; such are those who tell even their own
+1381b30	faults; for it has been said that before friends we do not feel shame at what offends
+1381b31	opinion; if, then, one who feels shame does not love,
+1381b32	one who does not feel shame is like one who loves. And those who are not fearful,
+1381b33	and in whom we have confidence; for no one loves the man he fears. The kinds
+1381b34	of friendship are comradeship, intimacy, kinship and all such.
+1381b35	What produces friendship is a favor, and doing it unasked, and not making it known
+1381b36	when one has done it; for then it appears to be done for the friend's own sake and not for some other reason.
+1382a1	As for enmity and hating, it is clear that they can be studied
+1382a2	from the opposites. What produces enmity is anger, spite,
+1382a3	slander. Anger comes from things done to oneself, but enmity arises even
+1382a4	without anything done to oneself; for if we suppose a man to be of a certain sort,
+1382a5	we hate him. And anger is always about particulars, for instance
+1382a6	against Callias or Socrates, but hatred is also against classes; for
+1382a7	everyone hates the thief and the informer. And the one is curable by time,
+1382a8	the other incurable. And the one aims at causing pain, the other at causing harm;
+1382a9	for the angry man wishes the other to perceive it, but to the other it makes no difference.
+1382a10	All painful things are perceptible, but the greatest evils are
+1382a11	least perceptible: injustice and folly; for the presence of vice
+1382a12	causes no pain. And the one is accompanied by pain, the other is not
+1382a13	accompanied by pain; for the angry man is pained, but the one who hates is not. And
+1382a14	the one might feel pity if much befell his enemy, the other never; for the one
+1382a15	wishes the man he is angry with to suffer in return, the other wishes him not to exist.
+1382a16	It is clear from this, then, that it is possible to show that people are enemies and
+1382a17	friends when they are, and to make them so when they are not,
+1382a18	and to break down their claims when they say they are, and, when they dispute through anger or enmity,
+1382a19	to bring them over to whichever side one chooses.

@@ -1,0 +1,15 @@
+{
+  "scenes": [
+    {"from": "1383b11", "to": "1383b15", "title": "The Definition of Shame", "summary": "Shame is pain or disturbance about evils that seem to bring disrepute, past, present or future; shamelessness is slight and unconcern about the same things."},
+    {"from": "1383b16", "to": "1384a21", "title": "What People Are Ashamed Of", "summary": "People are ashamed of the deeds and signs of vice: cowardice, injustice, licentiousness, sordid greed and lack of generosity, flattery, softness, smallness of soul and boastfulness; of lacking the noble things their equals have; and of suffering what brings dishonor, such as outrage."},
+    {"from": "1384a22", "to": "1384b26", "title": "Before Whom", "summary": "Since shame is an imagination of disrepute, people feel it before those whose opinion they value: the admired and the admiring, rivals, the wise, those who will always be present, the unforgiving, gossips and comic poets, new friends, as Euripides' answer to the Syracusans shows, and before acquaintances and strangers at different things."},
+    {"from": "1384b27", "to": "1385a15", "title": "In What State", "summary": "People feel shame when such people see them, as Cydias asked the Athenians to imagine the Greeks standing around them, when they have shameful deeds of their own or their kin, and when they must be seen by those who know, as Antiphon the poet said on his way to execution. Shamelessness follows from the opposites."}
+  ],
+  "quotations": [
+    {"from": "1383b23", "to": "1383b24", "entry": "carrying-off-from-a-corpse", "cite": "a proverb", "marks": 0},
+    {"from": "1384a34", "to": "1384a34", "entry": "shame-is-in-the-eyes", "cite": "a proverb", "marks": 0},
+    {"from": "1385a12", "to": "1385a13", "source": "antiphon-the-tragic-poet", "entry": "why-do-you-veil-your-faces", "cite": "a saying of Antiphon the poet", "marks": 2}
+  ],
+  "speeches": [],
+  "days": []
+}

@@ -3,7 +3,7 @@ import * as store from '../lib/store.js';
 import { enhanceArticle } from '../ui/components.js';
 import { entryRow } from './index.js';
 import { ALL, within, label as scopeLabel, longLabel, chooseScope, remember, presentIn, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
-import { lineLabel, rangeLabel, bookWord } from '../lib/cite.js';
+import { lineLabel, rangeLabel, bookWord, bookLabel } from '../lib/cite.js';
 
 /** Wrap character ranges of `text` in <mark>. */
 export function mark(text, ranges = []) {
@@ -193,7 +193,7 @@ export async function render(route, { setQuery }) {
         ${[...byBook].map(([k, list]) => {
           const [wid, b] = k.split(' ');
           const w = work(wid);
-          return `<div class="section-title small" style="margin:0 4px 8px">${esc(w?.title ?? wid)}${bookWord(w) === 'Book' ? ' ' : `, ${esc(bookWord(w))} `}${b}</div>
+          return `<div class="section-title small" style="margin:0 4px 8px">${esc(w?.title ?? wid)}${bookWord(w) === 'Book' ? ' ' : `, ${esc(bookWord(w))} `}${esc(bookLabel(w, b))}</div>
             <div class="list occ-list" data-total="${list.length}">${list.slice(0, OCC_PAGE).map(occRow).join('')}
             ${list.length > OCC_PAGE ? `<button class="more-btn" type="button" data-more="${esc(k)}">Show all ${list.length}</button>` : ''}</div>`;
         }).join('')}</section>` : ''}

@@ -1,0 +1,70 @@
+# Aristotle, Rhetoric, Book II, Chapter 8 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1385b11	So much for doing favors and being ungracious. What
+1385b12	things are pitiable, and whom people pity, and in what state they themselves are,
+1385b13	let us now say. Let pity be a kind of pain at an apparent evil, destructive
+1385b14	or painful, befalling one who does not deserve it, which one might expect oneself
+1385b15	to suffer, or one of one's own, and this when it appears
+1385b16	near; for clearly one who is going to feel pity must be
+1385b17	such as to think that he might suffer some evil, either himself or
+1385b18	one of his own, and an evil such as was stated in the definition,
+1385b19	or like it, or nearly so; that is why neither those who are utterly ruined
+1385b20	feel pity (for they think they can suffer nothing more; they have suffered),
+1385b21	nor those who think themselves supremely happy, but they commit outrage instead; for if
+1385b22	they think they have all good things, clearly they think they have also the
+1385b23	impossibility of suffering any evil; for this too is one of the good things. Those
+1385b24	are such as to think they might suffer who have suffered already
+1385b25	and escaped, and older men, through good sense and
+1385b26	experience, and the weak, and those who are rather cowardly,
+1385b27	and the educated; for they reason well. And those who have parents
+1385b28	or children or wives; for these are their own, and such as to suffer the
+1385b29	evils mentioned. And those who are neither in an emotion of courage, such as anger
+1385b30	or confidence (for these take no thought of the future), nor in a
+1385b31	disposition given to outrage (for these too take no thought of suffering
+1385b32	anything), but those between these; nor again those who are very much afraid;
+1385b33	for the panic-stricken do not pity, because they are taken up with
+1385b34	their own emotion. And if they think that some people are decent; for
+1385b35	one who thinks no one is will think that all deserve evil.
+1386a1	And in general when one is in a state to remember
+1386a2	that such things have happened to oneself or ⟨to one⟩ of one's own, or
+1386a3	to expect them to happen to oneself or to one of one's own. In what state,
+1386a4	then, people feel pity has been said; what they pity is clear from
+1386a5	the definition: all painful and distressing things that are
+1386a6	destructive are pitiable, and all that are ruinous, and all
+1386a7	evils of some magnitude of which fortune is the cause. Distressing and
+1386a8	destructive are deaths, maltreatment of the body, afflictions, old age,
+1386a9	diseases and lack of food; evils of which fortune is the cause are
+1386a10	friendlessness, fewness of friends (that is why being torn from friends and
+1386a11	companions is pitiable), ugliness, weakness, disability, and
+1386a12	evil coming from where some good should have come, and
+1386a13	this happening often, and some good coming after one has suffered,
+1386a14	as the king's gifts were sent down to Diopeithes after he was dead,
+1386a15	and either no good having come at all, or there being no
+1386a16	enjoyment of the good things that came. The things at which people feel pity, then,
+1386a17	are these and the like; and people pity
+1386a18	those they know, if they are not very close to them in kinship
+1386a19	(for these they feel as for themselves when they are about to suffer;
+1386a20	that is why the son of Amasis, they say, did not weep over his son when he was led
+1386a21	to his death, but did weep over his friend begging;
+1386a22	for this was pitiable, but that was terrible; for the terrible is
+1386a23	different from the pitiable and drives out pity, and is often
+1386a24	useful to the opposite; ⟨for⟩ people no longer pity when the terrible
+1386a25	is near themselves), and people pity those like them in age, in
+1386a26	character, in states, in rank, in birth; for in all
+1386a27	these it appears more that the thing might happen to oneself too; for in general here too
+1386a28	one must take it that whatever people fear for themselves, they
+1386a29	pity when it happens to others. And since sufferings that appear near
+1386a30	are pitiable, while those ten thousand years past or to come,
+1386a31	neither expecting nor remembering them, people either do not pity at all or not
+1386a32	in the same way, those who add to the effect with gestures and voice
+1386a33	and dress and delivery in general must be more pitiable (for they
+1386a34	make the evil appear near, putting it before our eyes either
+1386a35	as about to happen or as having happened;
+1386b1	and what has just happened, or is soon to happen, is more pitiable), ⟨and⟩
+1386b2	for this reason signs too, for instance the clothes of those who have suffered and
+1386b3	the like, and the actions and words and all else of those in
+1386b4	suffering, for instance of those already dying. And most pitiable of all is that men of worth should be
+1386b5	in such critical moments; for all these
+1386b6	make pity greater by appearing near, and because the
+1386b7	suffering is undeserved and appears before our eyes.

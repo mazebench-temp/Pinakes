@@ -1,0 +1,93 @@
+# Aristotle, Rhetoric, Book I, Chapter 4 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1359a30	First, then, we must grasp what sorts of goods or evils the adviser
+1359a31	advises about, since he does not advise about everything but about what
+1359a32	can either happen or not. Whatever of necessity is or
+1359a33	will be, or cannot be or come about, about these
+1359a34	there is no advice. Nor indeed about all that is possible;
+1359a35	for among things that can come about or not, some goods
+1359a36	come about by nature and some by chance, about which it is of no
+1359a37	use to give advice. It is clear that advice concerns whatever
+1359a38	admits of deliberation. Such are the things that can naturally be traced back
+1359a39	to us, and whose coming into being has its origin in us;
+1359b1	for we go on considering until we find out whether they are possible
+1359b2	or impossible for us to do. To enumerate precisely one by one,
+1359b3	and to divide into species, the matters people usually transact in public, and
+1359b4	moreover to define them as far as possible according to the truth,
+1359b5	is not what we should seek on the present occasion, because it is neither
+1359b6	the business of the rhetorical art but of one more intelligent and more
+1359b7	true, and because even now far more than its own
+1359b8	proper subjects of study have been given to it. For what we said
+1359b9	before is true: rhetoric is composed
+1359b10	of analytical science and of the political science that concerns
+1359b11	characters, and it is like dialectic in some respects and in others like
+1359b12	sophistic arguments. But the more one tries to build dialectic or rhetoric
+1359b13	not into capacities, as they are, but into sciences,
+1359b14	the more he will unawares obliterate their nature, by passing over,
+1359b15	as he rebuilds them, into sciences of certain underlying
+1359b16	subjects, and not of arguments alone. Still, whatever it is
+1359b17	to the purpose to distinguish, while leaving the inquiry
+1359b18	to political science, let us state now too. Of the things
+1359b19	about which all people deliberate, and about which
+1359b20	advisers speak in public, the most important are, roughly, five
+1359b21	in number: revenue, war and
+1359b22	peace, the defense of the country, imports
+1359b23	and exports, and legislation. So, on revenue, one who
+1359b24	means to give advice would need to know the city's sources of income,
+1359b25	what and how many they are, so that any that is neglected may be added
+1359b26	and any that is too small increased; and also all the city's
+1359b27	expenses, so that any that is superfluous may be removed and any that is too great
+1359b28	reduced; for people become richer not only by adding to what they have
+1359b29	but also by cutting their
+1359b30	expenses. These things cannot be surveyed only from experience
+1359b31	of one's own affairs; to give advice about them one must also be informed
+1359b32	about what has been found out among others.
+1359b33	On war and peace one must know the power
+1359b34	of the city: how great it already is and how great it could
+1359b35	become, and of what kind both the existing power is and any
+1359b36	that could be added; and further, what wars it has fought
+1359b37	and how. And one must know these things not only about one's own city but also
+1359b38	about its neighbors, and about those with whom war is
+1359b39	to be expected, so that peace may be kept with the stronger
+1360a1	and war with the weaker may be the city's own choice; and their forces,
+1360a2	whether they are like or unlike one's own; for here too one can gain an advantage
+1360a3	or suffer a loss. For this too one must have studied not only one's own
+1360a4	wars but also those of others, how
+1360a5	they turn out; for like results naturally come from
+1360a6	like causes. Further, on the defense of the country, one must not be ignorant of how
+1360a7	it is guarded, but must know the size of the garrison and its
+1360a8	kind and the places of the guard posts (this is impossible
+1360a9	for one who does not know the country), so that if the garrison is too small
+1360a10	it may be increased, and any that is superfluous removed, and the
+1360a11	suitable places watched more closely. Further, on food,
+1360a12	how much [expense] is enough for the city and of what kind, both the food
+1360a13	produced at home and what is imported, and what exports
+1360a14	the citizens need and what imports, and from whom, so that
+1360a15	agreements and trade treaties may be made with them; for there are two
+1360a16	peoples toward whom the citizens must be kept free of complaint:
+1360a17	the stronger, and those useful for these purposes. For
+1360a18	security one must be able to consider all these things,
+1360a19	and not least understand legislation; for in the laws
+1360a20	lies the safety of the city, so that one must know how many
+1360a21	kinds of constitution there are, what is advantageous to each, and
+1360a22	by what each is naturally destroyed, both by things proper to the constitution
+1360a23	and by things opposed to it. By being destroyed by what is proper to it I mean that, apart from
+1360a24	the best constitution, all the others are destroyed both by being relaxed and
+1360a25	by being overstrained: democracy, for instance, not only becomes weaker
+1360a26	when relaxed, so that it will end in oligarchy,
+1360a27	but also when overstrained; just as a hooked nose and a
+1360a28	snub nose not only come to the mean when relaxed, but also,
+1360a29	when they become very hooked or very snub, are so disposed that
+1360a30	they do not even seem to be noses. It is useful for legislation
+1360a31	not only to understand which constitution is advantageous, studying it from past
+1360a32	events, but also to know the constitutions of other peoples,
+1360a33	which kinds suit which kinds of people. So it is clear that for
+1360a34	legislation descriptions of the earth are useful (for from them
+1360a35	one can learn the laws of the nations), and for political
+1360a36	advice the histories of those who write about men's actions. All
+1360a37	these things, however, are the work of politics, not of rhetoric. The subjects
+1360a38	on which one who means to give advice must have premises,
+1360b1	the most important ones, are these; from what we must
+1360b2	exhort or dissuade, both on these and on the rest,
+1360b3	let us now say in turn.

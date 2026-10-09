@@ -1,0 +1,18 @@
+{
+  "scenes": [
+    {"from": "1407a19", "to": "1407a30", "title": "Good Greek: Connectives", "summary": "The foundation of style is speaking good Greek, which lies in five things. The first is the connectives: they must answer each other in their natural order and not be held too far apart, or the sentence becomes unclear."},
+    {"from": "1407a31", "to": "1407b5", "title": "Particular Names and Ambiguity", "summary": "The second is to use particular names rather than general ones; the third to avoid ambiguity, unless one means to, as those do who have nothing to say, like Empedocles, or the seers, who speak in general terms because they are less likely to be wrong: “Croesus, crossing the Halys, will destroy a great empire.”"},
+    {"from": "1407b6", "to": "1407b10", "title": "Gender and Number", "summary": "The fourth is to give the genders of nouns correctly, as Protagoras divided them, male, female and things; the fifth to name many, few and one correctly."},
+    {"from": "1407b11", "to": "1407b25", "title": "Easy to Read and to Speak", "summary": "What is written should be easy to read and to speak: not full of connectives, nor hard to punctuate like Heraclitus' opening, where “always” may go with either half. A word must suit both nouns it is joined to, and the main point should come before a long insertion."}
+  ],
+  "quotations": [
+    {"from": "1407a26", "to": "1407a28", "source": "aristotle", "entry": "syndesmos", "cite": "Aristotle's example of connectives held apart"},
+    {"from": "1407a38", "to": "1407a38", "source": "apollo", "entry": "croesus", "cite": "the Delphic oracle to Croesus"},
+    {"from": "1407b8", "to": "1407b9", "source": "aristotle", "entry": "gender-of-nouns", "cite": "Aristotle's example"},
+    {"from": "1407b10", "to": "1407b10", "source": "aristotle", "entry": "hellenizein", "cite": "Aristotle's example"},
+    {"from": "1407b16", "to": "1407b17", "source": "heraclitus-of-ephesus", "entry": "heraclitus-of-ephesus", "cite": "Heraclitus, the opening of his book"},
+    {"from": "1407b22", "to": "1407b25", "source": "aristotle", "entry": "hellenizein", "cite": "Aristotle's examples", "marks": 2}
+  ],
+  "speeches": [],
+  "days": []
+}

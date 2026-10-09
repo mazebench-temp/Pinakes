@@ -33,4 +33,4 @@ Honor is apportioned. Gods have their honors, and a king has the largest share a
 
 ## Outside Homer
 
-Aristotle ties anger to a slight, says that whoever dishonors (ἀτιμάζων) slights, and quotes Achilles' complaint at 1.356, with Iliad 9.648, to show how the slighted speak (*Rhetoric* 2.2, 1378b; see [[aristotle-anger]]). In the *Nicomachean Ethics* he calls honor the greatest of external goods, the one we render to the gods (4.3, 1123b17–21).
+Aristotle ties anger to a slight, says that whoever dishonors (ἀτιμάζων) slights, and quotes Achilles' complaint at 1.356, with Iliad 9.648, to show how the slighted speak (*Rhetoric* 2.2, 1378b29–35; see [[aristotle-anger]] and [[oligoria]]). In the *Nicomachean Ethics* he calls honor the greatest of external goods, the one we render to the gods (4.3, 1123b17–21).

@@ -3,7 +3,7 @@ import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
 import { entryRow, matchEntry } from './index.js';
-import { lineLabel } from '../lib/cite.js';
+import { lineLabel, bookLabel } from '../lib/cite.js';
 
 const LIMIT = { index: 40, text: 120, words: 60 };
 
@@ -55,7 +55,7 @@ export async function render(route, { setQuery }) {
       const lines = t.text.lines.filter(l => l.tk.some(tk => lx.has(tk[3])));
       count += lines.length;
       const gloss = t.text.lemmas.find(l => l[0] === lemma);
-      html += `<div class="section-head" style="margin-top:8px"><h2 class="section-title small">${esc(t.work.title)} ${t.book}${gloss ? ` · “${esc(gloss[1])}” · ${plural(gloss[2], 'occurrence')}` : ''}</h2></div>
+      html += `<div class="section-head" style="margin-top:8px"><h2 class="section-title small">${esc(t.work.title)} ${esc(bookLabel(t.work, t.book))}${gloss ? ` · “${esc(gloss[1])}” · ${plural(gloss[2], 'occurrence')}` : ''}</h2></div>
         <div class="list">${lines.map(l => lineRow(t, l, markGreek(l, (w, k) => lx.has(l.tk[k][3])), esc(l.en))).join('')}</div>`;
     }
     results.innerHTML = count ? html : `<div class="list"><div class="list-empty">No lines contain ${esc(lemma)}.</div></div>`;

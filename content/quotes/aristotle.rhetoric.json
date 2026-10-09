@@ -1,0 +1,565 @@
+{
+  "work": "aristotle.rhetoric",
+  "quotes": [
+    {
+      "id": "918ed3fc-f401-51e6-a67b-ddf001972470",
+      "ref": "1355b25-27",
+      "title": "The definition of rhetoric"
+    },
+    {
+      "id": "f5949f27-8a88-5dce-be9a-b1fef511d7ae",
+      "ref": "1355b35-1356a4",
+      "title": "Artistic and non-artistic proofs"
+    },
+    {
+      "id": "56b06fd1-e863-596f-a499-abc7d0e59169",
+      "ref": "1356a1-4",
+      "title": "Three kinds of proof"
+    },
+    {
+      "id": "acf847f6-02e6-5517-ac1c-9c1f3d8daa5a",
+      "ref": "1357b30-36",
+      "title": "The example of the bodyguard"
+    },
+    {
+      "id": "97ac75a6-9aa7-55dd-af3b-86b89d2861fa",
+      "ref": "1358b2-8",
+      "title": "Three kinds of hearer"
+    },
+    {
+      "id": "01f36af3-d7e1-5d7e-b9e2-c4cfc755b9dd",
+      "ref": "1360b14-18",
+      "title": "What happiness is"
+    },
+    {
+      "id": "c7cac54e-91b7-59a5-a943-d15dadb02903",
+      "ref": "1363a10-16",
+      "title": "What enemies praise"
+    },
+    {
+      "id": "070ac4ab-b5a1-5a51-80c2-9ebfec7801c4",
+      "ref": "1364a23-28",
+      "title": "The rare and the plentiful"
+    },
+    {
+      "id": "aff5c56c-d4a2-5d23-ab1d-c795737ed710",
+      "ref": "1365a10-16",
+      "title": "Division makes things greater"
+    },
+    {
+      "id": "05ea8d95-f662-531a-b6d5-32aefbf1adaf",
+      "ref": "1365a19-28",
+      "title": "Occasions make things great"
+    },
+    {
+      "id": "e51fb915-f1ad-529f-82bf-5a0503ad1f3a",
+      "ref": "1365a29-30",
+      "title": "The natural and the acquired"
+    },
+    {
+      "id": "52ae4fbf-1ecd-5f49-8247-710cbf785cd1",
+      "ref": "1365a31-33",
+      "title": "The spring taken out of the year"
+    },
+    {
+      "id": "24de00aa-7b7f-56bb-a6b2-7488202d99c2",
+      "ref": "1365b28-1366a6",
+      "title": "Four constitutions and their ends"
+    },
+    {
+      "id": "90dfcd0f-e664-555b-b39c-bdeb8880cdad",
+      "ref": "1366a33-36",
+      "title": "The noble"
+    },
+    {
+      "id": "487ade96-074f-542e-b5d4-8d6d50fc5da1",
+      "ref": "1366b1-7",
+      "title": "The parts of virtue"
+    },
+    {
+      "id": "0d142bc2-42e9-5f5f-9a6a-5af5ddb2a83b",
+      "ref": "1367a7-14",
+      "title": "Sappho's answer"
+    },
+    {
+      "id": "5acdb252-5f97-56cc-b544-45ad609eb043",
+      "ref": "1367b14-21",
+      "title": "Beyond what was fitting"
+    },
+    {
+      "id": "e333b05a-664c-5210-a7ea-37dda07c85e7",
+      "ref": "1367b17-22",
+      "title": "Such is Simonides'"
+    },
+    {
+      "id": "84196315-060e-52fe-b967-a64f02edf2c2",
+      "ref": "1368b32-1369a7",
+      "title": "Seven causes"
+    },
+    {
+      "id": "5bb620db-2d5e-5d62-ad39-174945dd2729",
+      "ref": "1369b33-35",
+      "title": "Pleasure"
+    },
+    {
+      "id": "d1d7d93a-a95f-546e-bfe0-90bf811a6199",
+      "ref": "1370a5-12",
+      "title": "What is not forced"
+    },
+    {
+      "id": "a1f79cb5-8892-56bf-bcb7-ebfc41e3417f",
+      "ref": "1370b1-7",
+      "title": "Pleasant memories"
+    },
+    {
+      "id": "6cc284e2-be1a-52df-8e58-5c8f337e2a1b",
+      "ref": "1370b25-29",
+      "title": "The pleasure of lament"
+    },
+    {
+      "id": "bb423d05-7d0e-56ec-8d31-bf6bfd61eb04",
+      "ref": "1370b9-13",
+      "title": "Anger is pleasant"
+    },
+    {
+      "id": "7568794f-bd9c-5855-baba-5d0244fbd91d",
+      "ref": "1371a24-29",
+      "title": "Change is pleasant"
+    },
+    {
+      "id": "7832e21a-98f3-5cf3-9943-9b5e2ee69e7c",
+      "ref": "1371b11-18",
+      "title": "Like delights in like"
+    },
+    {
+      "id": "4739fdf4-984c-5701-ab60-fef6fbeacbbd",
+      "ref": "1371b26-35",
+      "title": "To be at one's best"
+    },
+    {
+      "id": "16c5f49e-9fe6-5ec1-ab72-1c239f69bfde",
+      "ref": "1373b13-18",
+      "title": "Empedocles and Alcidamas"
+    },
+    {
+      "id": "ee5aec08-1005-563f-b140-753dccbdd1b8",
+      "ref": "1373b4-9",
+      "title": "Particular and common law"
+    },
+    {
+      "id": "0e4f1f3b-0c5a-560e-ac17-1459d78f1b08",
+      "ref": "1373b4-13",
+      "title": "Two laws"
+    },
+    {
+      "id": "49a46d67-b3be-5d1d-abc6-eeab3169d35f",
+      "ref": "1374a26-b1",
+      "title": "Equity"
+    },
+    {
+      "id": "984dbcff-8a10-55e3-911a-6c503adecf80",
+      "ref": "1375b28-35",
+      "title": "Ancient witnesses"
+    },
+    {
+      "id": "89408144-fc7c-5f8d-ba4f-38ddfae4f82d",
+      "ref": "1378b29-35",
+      "title": "Achilles dishonored"
+    },
+    {
+      "id": "576c2174-b267-59ad-964d-5133c0c4b3a7",
+      "ref": "1378b35-1379a7",
+      "title": "The anger of kings"
+    },
+    {
+      "id": "d403a279-a598-515b-b4fe-24dba0c14266",
+      "ref": "1380b20-25",
+      "title": "Odysseus names himself"
+    },
+    {
+      "id": "c73efa47-d52b-53a7-a22a-8a010af0916f",
+      "ref": "1380b28-30",
+      "title": "The senseless earth"
+    },
+    {
+      "id": "7b07b6b8-d353-5137-a7cd-bae353fe421f",
+      "ref": "1380b7-11",
+      "title": "Philocrates waits"
+    },
+    {
+      "id": "c2926c27-066e-5a0b-9bca-7eaae260bbb7",
+      "ref": "1383b22-25",
+      "title": "Profit from the dead"
+    },
+    {
+      "id": "75b9d04e-ed78-5be3-98c1-7c56f6199397",
+      "ref": "1384a33-36",
+      "title": "Shame is in the eyes"
+    },
+    {
+      "id": "eb713d7a-a808-50a5-a975-97da51fccc2d",
+      "ref": "1385a9-13",
+      "title": "Antiphon's last jest"
+    },
+    {
+      "id": "8d9fe5f4-5180-5f5b-8b05-ee705609d454",
+      "ref": "1387a30-b3",
+      "title": "The lesser against the greater"
+    },
+    {
+      "id": "956303e5-14ab-5d9a-98d2-ed14b3a1f7ca",
+      "ref": "1388a14-17",
+      "title": "Potter against potter"
+    },
+    {
+      "id": "423764cc-7a06-56bc-9397-011105ebb5e7",
+      "ref": "1388a5-8",
+      "title": "Kinship and envy"
+    },
+    {
+      "id": "94c7776e-1021-51d6-a7f2-c88a13f973a7",
+      "ref": "1389b22-25",
+      "title": "Bias' precept"
+    },
+    {
+      "id": "607965ea-240f-5995-8e98-d3c9209b3e19",
+      "ref": "1391a7-12",
+      "title": "Rich or wise"
+    },
+    {
+      "id": "0eb4957e-2fe4-5696-bbee-ce0585228580",
+      "ref": "1392b5-9",
+      "title": "Art and chance"
+    },
+    {
+      "id": "c271ffc9-7a0d-5f05-8242-eb32a9908fb1",
+      "ref": "1393b10-22",
+      "title": "The horse and the stag"
+    },
+    {
+      "id": "375f87de-7544-57f7-85e9-e3f5c1eed9d6",
+      "ref": "1393b22-1394a1",
+      "title": "The fox and the hedgehog"
+    },
+    {
+      "id": "d1d1edb0-2495-55fb-8b62-00da2ede7aa0",
+      "ref": "1394a26-35",
+      "title": "A maxim and its reason"
+    },
+    {
+      "id": "952b22e5-bb90-578b-88e4-8f44da2becb0",
+      "ref": "1394b1-6",
+      "title": "Two maxims of Euripides"
+    },
+    {
+      "id": "10785a0f-69f8-565f-8ca1-c331b1b407ca",
+      "ref": "1394b11-14",
+      "title": "Health is best"
+    },
+    {
+      "id": "5f4cabf1-9aae-5f99-875a-07f266b8db8d",
+      "ref": "1394b14-16",
+      "title": "No lover who does not love always"
+    },
+    {
+      "id": "78fe1097-7eb0-5c29-af87-67b7a20ddd9b",
+      "ref": "1394b21-25",
+      "title": "Immortal anger"
+    },
+    {
+      "id": "72b28771-9eeb-5fea-bfb1-42608d4d3cca",
+      "ref": "1394b25-26",
+      "title": "Mortal thoughts"
+    },
+    {
+      "id": "3f03866c-12b3-534f-9608-571f208f746d",
+      "ref": "1394b3-6",
+      "title": "No man is free"
+    },
+    {
+      "id": "7d52e88a-e035-5751-bfa2-8e3fc0097513",
+      "ref": "1394b34-1395a2",
+      "title": "The cicadas on the ground"
+    },
+    {
+      "id": "2863fe25-a3a5-5af1-a4aa-0d3c410dc6a4",
+      "ref": "1395a10-18",
+      "title": "Hackneyed maxims"
+    },
+    {
+      "id": "bd585b9c-51a0-5e04-87d3-bb06b1d89388",
+      "ref": "1395a18-20",
+      "title": "An Attic neighbor"
+    },
+    {
+      "id": "8bbca563-c41f-59ec-ba72-d90915421312",
+      "ref": "1395a20-23",
+      "title": "Public sayings"
+    },
+    {
+      "id": "bcc71c87-7747-557f-b9fb-3a85c07a78b0",
+      "ref": "1395a20-26",
+      "title": "Know yourself"
+    },
+    {
+      "id": "e2a6d6aa-0f6d-5f0f-9fa9-3fddc9b90f4a",
+      "ref": "1395b26-31",
+      "title": "The uneducated before the crowd"
+    },
+    {
+      "id": "cfa667c0-1e89-56ba-b836-ef51f003507b",
+      "ref": "1397a13-17",
+      "title": "Gratitude under compulsion"
+    },
+    {
+      "id": "02a23a9f-bfa8-5531-ba6c-0432276f4bef",
+      "ref": "1397a17-19",
+      "title": "Unbelievable truths"
+    },
+    {
+      "id": "bb42f5e9-44bd-5fd1-9d20-b82717c545e8",
+      "ref": "1397a23-28",
+      "title": "Selling and buying"
+    },
+    {
+      "id": "0e931824-ad1f-54d1-a1c5-9a40075bd76b",
+      "ref": "1397a7-13",
+      "title": "The topic from opposites"
+    },
+    {
+      "id": "f0a2a649-ee6a-585e-8a14-3902d7013afe",
+      "ref": "1397b1-6",
+      "title": "The judgment on Eriphyle"
+    },
+    {
+      "id": "128d3752-e4af-5134-a53b-2fe798a170ae",
+      "ref": "1397b11-14",
+      "title": "The more and the less"
+    },
+    {
+      "id": "5a39b6eb-44b8-540c-9873-25b0d4725798",
+      "ref": "1397b19-22",
+      "title": "Oeneus' loss"
+    },
+    {
+      "id": "82a233fb-e528-5ce7-a568-2fa30658291c",
+      "ref": "1397b28-29",
+      "title": "The opinion of the Greeks"
+    },
+    {
+      "id": "45358cb0-3bb5-5eaf-9594-10cdf05164ae",
+      "ref": "1397b30-32",
+      "title": "Iphicrates' statue"
+    },
+    {
+      "id": "f00f27e3-dc85-509c-8b4d-a2642b5f03fa",
+      "ref": "1398a15-17",
+      "title": "The divine sign"
+    },
+    {
+      "id": "cb179009-6265-5886-af4d-ef9dcd87ce7b",
+      "ref": "1398a17-22",
+      "title": "Kin to the tyrant-slayers"
+    },
+    {
+      "id": "72e597af-914a-5b49-9f56-601242954337",
+      "ref": "1398a4-8",
+      "title": "Iphicrates and Aristophon"
+    },
+    {
+      "id": "064443fd-6980-5e48-9e91-8278f1ef635b",
+      "ref": "1398b10-20",
+      "title": "All men honor the wise"
+    },
+    {
+      "id": "131ec8ea-3dfa-5445-82e2-91e3ce1fbff7",
+      "ref": "1398b30-33",
+      "title": "Aristippus and Plato"
+    },
+    {
+      "id": "d7a7abc6-49a5-5396-9fa1-52de0e0f4fd7",
+      "ref": "1398b6-10",
+      "title": "Horses and ships"
+    },
+    {
+      "id": "b9e89f2f-c4c0-5034-81ff-a9658b82ef54",
+      "ref": "1399a19-29",
+      "title": "The priestess' dilemma"
+    },
+    {
+      "id": "5294312a-949a-57ef-9bed-d0dd8de7d7bd",
+      "ref": "1399a35-b4",
+      "title": "The topic from analogy"
+    },
+    {
+      "id": "9e102707-53e6-5fac-8433-03e7b1f82237",
+      "ref": "1399a4-6",
+      "title": "Conon came to Evagoras"
+    },
+    {
+      "id": "05ff9a36-d10d-55ca-b8c4-506a15810262",
+      "ref": "1399a6-10",
+      "title": "The topic from the parts"
+    },
+    {
+      "id": "d4f40e52-fd91-5b1c-b369-d4f5f6f40ca5",
+      "ref": "1399b15-19",
+      "title": "We fought to return"
+    },
+    {
+      "id": "585331eb-9b0a-59fd-bce4-ae7205758df6",
+      "ref": "1399b20-25",
+      "title": "Gifts given to be taken away"
+    },
+    {
+      "id": "065d1211-2f07-584c-ae72-7e0d14b765e1",
+      "ref": "1399b25-31",
+      "title": "Witnesses to Meleager's valor"
+    },
+    {
+      "id": "c94eac6d-f22a-5e96-b944-9c42bb1143a0",
+      "ref": "1399b5-11",
+      "title": "The same consequence"
+    },
+    {
+      "id": "4bf43424-f578-50bc-a95a-159e25d8cc03",
+      "ref": "1400a5-14",
+      "title": "The laws need a law"
+    },
+    {
+      "id": "c0615942-b9e4-5eff-8bba-90fdcf7dc811",
+      "ref": "1400b17-18",
+      "title": "Of iron by name"
+    },
+    {
+      "id": "3c2166a6-cd97-5f9b-9058-530e2b4b38ba",
+      "ref": "1400b17-23",
+      "title": "The topic from the name"
+    },
+    {
+      "id": "9c5d02c1-3690-5085-a26b-c8513ce3974b",
+      "ref": "1400b23-24",
+      "title": "Aphrodite and folly"
+    },
+    {
+      "id": "a728d146-2be4-5099-b9a0-1a9db9a993e4",
+      "ref": "1400b25",
+      "title": "Pentheus named for grief"
+    },
+    {
+      "id": "7264ea3f-0d0b-5fc4-a2af-d4903eb350a2",
+      "ref": "1401a15-21",
+      "title": "The dog of the Great Goddess"
+    },
+    {
+      "id": "6aade55d-ed60-5683-b388-76aae7cd9def",
+      "ref": "1401a35-b3",
+      "title": "The fallacy of division"
+    },
+    {
+      "id": "7fba2f11-fa74-5677-8dcf-c41ee3cb7a55",
+      "ref": "1402a17-28",
+      "title": "The art of Corax"
+    },
+    {
+      "id": "9e16fe2c-8f83-554e-b99f-2667599f74a6",
+      "ref": "1402a37-b3",
+      "title": "Caunian love"
+    },
+    {
+      "id": "b4137f3c-3d60-5530-bef0-56dd4025430e",
+      "ref": "1405b35-1406a6",
+      "title": "Frigidity"
+    },
+    {
+      "id": "3d846f67-6c85-59d4-8e17-71b566e2ebaf",
+      "ref": "1406b20-26",
+      "title": "The simile"
+    },
+    {
+      "id": "44d8da40-8680-5f1a-84e2-e775413b8392",
+      "ref": "1407a19-21",
+      "title": "Speaking good Greek"
+    },
+    {
+      "id": "1ea1fdd1-1679-56c6-96ef-8f9ee9b01048",
+      "ref": "1408a10-19",
+      "title": "The appropriate style"
+    },
+    {
+      "id": "4fe10034-7023-5c2d-a790-3e338522b5d5",
+      "ref": "1409a35-b8",
+      "title": "The period"
+    },
+    {
+      "id": "afdbd2b0-8b6b-51a5-b637-03a2c92c0035",
+      "ref": "1410a20-b2",
+      "title": "Antithesis"
+    },
+    {
+      "id": "3e350ac8-f3b3-5681-9b2f-9cb7821ee076",
+      "ref": "1410b10-21",
+      "title": "Learning easily"
+    },
+    {
+      "id": "3bda335b-b489-5964-aad3-88dd74f2d711",
+      "ref": "1411b31-1412a4",
+      "title": "Homer's lifeless things alive"
+    },
+    {
+      "id": "acea96d8-c83d-5d5c-bf5a-72b4de54e983",
+      "ref": "1413a21-b2",
+      "title": "Hyperbole"
+    },
+    {
+      "id": "2c80dadf-8828-5ba5-af3a-3a235c8cc603",
+      "ref": "1413b29-1414a1",
+      "title": "Asyndeton"
+    },
+    {
+      "id": "3ebd1104-ab0a-588c-ab87-6179385f55e0",
+      "ref": "1413b3-10",
+      "title": "The written style and the style of debate"
+    },
+    {
+      "id": "fcce9c16-9569-5e2e-92cd-5f37d286b8cb",
+      "ref": "1414a1-7",
+      "title": "Aristotle on Nireus"
+    },
+    {
+      "id": "ed0b4603-48fb-5e55-a64e-e4c8006b6f72",
+      "ref": "1414a31-37",
+      "title": "The two parts of a speech"
+    },
+    {
+      "id": "ad8e8876-36c4-59d9-ac4e-79ceb0d15dc2",
+      "ref": "1414b19-21",
+      "title": "The proem"
+    },
+    {
+      "id": "0c106553-3ac8-56cb-ae55-e11ab437b87d",
+      "ref": "1416a4-8",
+      "title": "Slander"
+    },
+    {
+      "id": "359ad9ab-97b8-5445-add3-94f076caa1f4",
+      "ref": "1416b30-36",
+      "title": "Narration in due measure"
+    },
+    {
+      "id": "ebb7ea3f-2620-5451-a988-80d692b8a39d",
+      "ref": "1418b33-39",
+      "title": "From enthymeme to maxim"
+    },
+    {
+      "id": "b5b98781-cab1-506a-8bd9-57c50efbb12e",
+      "ref": "1418b40-1419a2",
+      "title": "Interrogation"
+    },
+    {
+      "id": "3854d452-f9ca-52b3-9c17-ba11c643c4d6",
+      "ref": "1419b10-13",
+      "title": "The four parts of the epilogue"
+    }
+  ]
+}

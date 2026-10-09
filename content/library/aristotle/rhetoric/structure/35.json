@@ -1,0 +1,14 @@
+{
+  "scenes": [
+    {"from": "1393a23", "to": "1393b3", "title": "Example", "summary": "The common proofs are example and enthymeme. Examples either tell of things that have happened, as that Darius and Xerxes took Egypt before crossing into Greece, or are made up, as comparisons and fables."},
+    {"from": "1393b4", "to": "1393b7", "title": "Comparison", "summary": "The comparison is the Socratic kind: choosing officials by lot is like choosing athletes or helmsmen by lot."},
+    {"from": "1393b8", "to": "1394a1", "title": "Fables", "summary": "Fables are like those of Stesichorus, who warned the Himeraeans with the horse that took a rider to be revenged on the stag, and of Aesop, who defended a demagogue at Samos with the fox that would not have its sated ticks removed."},
+    {"from": "1394a2", "to": "1394a18", "title": "The Use of Examples", "summary": "Fables suit the assembly and are easier to find, but historical examples are more useful for deliberation. Without enthymemes, examples serve as demonstrations; with them, as witnesses, placed after."}
+  ],
+  "quotations": [
+    {"from": "1393b18", "to": "1393b22", "source": "stesichorus", "entry": "the-horse-and-the-stag", "cite": "Stesichorus' fable", "marks": 2},
+    {"from": "1393b28", "to": "1394a1", "source": "aesop", "entry": "the-fox-and-the-hedgehog", "cite": "Aesop's fable", "marks": 3}
+  ],
+  "speeches": [],
+  "days": []
+}

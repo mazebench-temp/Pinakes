@@ -1,6 +1,6 @@
 import { el, esc, icon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
-import { bookMark, bookWord, isProse } from '../lib/cite.js';
+import { bookMark, bookWord, bookLabel, isProse } from '../lib/cite.js';
 
 export async function render(route) {
   const cat = await store.catalog();
@@ -25,7 +25,7 @@ export async function render(route) {
       <div class="list">${Array.from({ length: w.bookCount }, (_, i) => {
         const b = i + 1, ok = w.available.includes(b), meta = w.books[b] ?? {};
         const inner = `<span class="book-letter" style="width:36px;height:44px;font-size:${prose ? 15 : 22}px;${ok ? '' : 'opacity:.45'}">${esc(bookMark(w, b))}</span>
-          <span class="row-main"><span class="row-title"><span>${Book} ${b}${meta.title ? ` · ${esc(meta.title)}` : ''}</span>${meta.greek ? `<span class="row-greek">${esc(meta.greek)}</span>` : ''}</span>
+          <span class="row-main"><span class="row-title"><span>${Book} ${esc(bookLabel(w, b))}${meta.title ? ` · ${esc(meta.title)}` : ''}</span>${meta.greek ? `<span class="row-greek">${esc(meta.greek)}</span>` : ''}</span>
           <span class="row-sub">${ok ? esc(meta.summary ?? '') : 'Not yet translated'}</span></span>`;
         return ok ? `<a class="row" href="#/read/${w.id}/${b}">${inner}${icon('chevron', 'chev')}</a>` : `<div class="row" style="color:var(--text-3)">${inner}</div>`;
       }).join('')}</div>

@@ -1,0 +1,48 @@
+# Aristotle, Rhetoric, Book III, Chapter 5 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1407a19	Speech, then, is composed of these. The foundation
+1407a20	of style is speaking good Greek, and this lies in five things. First,
+1407a21	in the connectives, if one places them as they naturally come before
+1407a22	and after one another, as some of them require:
+1407a23	as men and egō men require de and ho de. One should
+1407a24	make them answer each other while the hearer still remembers, and neither
+1407a25	hold them far apart nor put another connective before the
+1407a26	one required, for that is seldom fitting: “I on my part, when he told me
+1407a27	(for Cleon came begging and demanding), set out,
+1407a28	taking them with me.” Here many connectives have been thrown in
+1407a29	before the one that is to answer; and if there is a great deal
+1407a30	in between before “set out”, it is unclear. One point, then, is good use
+1407a31	of connectives; the second is to speak in specific words
+1407a32	and not with general ones. The third is to avoid ambiguous words, that is,
+1407a33	unless one chooses the opposite on purpose, as people do when they have nothing
+1407a34	to say but pretend to be saying something; such people
+1407a35	say these things in poetry, as Empedocles does; for a long
+1407a36	roundabout way of talking cheats the hearers, and they feel what the
+1407a37	many feel at the seers': when the seers speak ambiguously,
+1407a38	they nod along: “Croesus, crossing the Halys, will destroy a great empire.”
+1407b1	And because error is less likely on the whole, the seers speak in the general terms
+1407b2	of the matter; for in the game of odds and evens one would more often
+1407b3	be right by saying “even” or “odd” than by saying how many
+1407b4	the other holds, and by saying that a thing will be than when; that is why oracle-mongers
+1407b5	do not add the when. All these are alike, so unless
+1407b6	it is for some such purpose, they are to be avoided. The fourth: as Protagoras
+1407b7	divided the genders of nouns, male, female and
+1407b8	things; for these too must be given correctly: “She, having come
+1407b9	and conversed, departed.” The fifth lies in naming many, few
+1407b10	and one correctly: “They came and beat me.”
+1407b11	In general, what is written should be easy to read and
+1407b12	easy to speak, which is the same thing. Many connectives do not
+1407b13	allow this, nor do writings that are not easy to punctuate, like those of Heraclitus.
+1407b14	To punctuate Heraclitus is a task, because it is unclear
+1407b15	which word goes with which, the later or the earlier, as at
+1407b16	the very beginning of his book; for he says, “Though this account
+1407b17	holds always men prove uncomprehending”; it is unclear with which word
+1407b18	“always” should be punctuated. Again, this makes for solecism:
+1407b19	failing to make the words correspond, if you do not join to two words one that suits both;
+1407b20	for example, with “sound” and “color”, “seeing” is not common to both, but
+1407b21	“perceiving” is. And it is unclear if you do not put first what you mean, when you are going
+1407b22	to insert much in between, as “I was going, after talking
+1407b23	with him about this and that and in this way, to set out”, rather than “I was going,
+1407b24	after talking with him, to set out; then this and that and in this way
+1407b25	happened.”

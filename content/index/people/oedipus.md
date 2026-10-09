@@ -6,6 +6,8 @@ tags: [theban, labdacids, king]
 summary: King of Thebes who unknowingly killed his father Laius and married his mother; for Aristotle the type of the man who falls through error, and the hero of the play he cites most.
 aliases: [Oidipous, Oedipus Tyrannus, Oedipus Rex]
 grc: [οιδιπ*]
+# Οἰδίποδι at 1417b19 is Carcinus' play.
+except: [Rhetoric 1417b19]
 relations:
   - father: laius (Poetics 1460a30)
 ---

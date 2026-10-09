@@ -7,6 +7,7 @@ summary: “Hard, unrelenting,” a word of reproach for gods and men who will n
 aliases: [schetlios, cruel, unrelenting, hard-hearted, wretched]
 grc: ["σχετλι*"]
 en: [hard, wretched]
+except: [Rhetoric 1395a9]
 ---
 
 ## Meaning

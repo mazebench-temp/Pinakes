@@ -1,0 +1,529 @@
+{
+  "id": "aristotle.rhetoric",
+  "author": "aristotle",
+  "title": "Rhetoric",
+  "greek": "Τέχνη ῥητορική",
+  "aliases": [
+    "rhetoric",
+    "rhet",
+    "rhet.",
+    "ars rhetorica",
+    "art of rhetoric"
+  ],
+  "genre": "Treatise",
+  "meter": "Prose",
+  "date": "c. 350–322 BCE",
+  "summary": "Aristotle's art of persuasion. Book I (chapters 1–15, cited as 1.1–1.15): rhetoric as the counterpart of dialectic, its proofs (character, emotion and argument; enthymeme and example) and its three kinds of speech; the materials of deliberative speech (happiness, the good, the greater good, the constitutions), of epideictic (virtue and the noble) and of judicial speech (wrongdoing, pleasure, law and equity, greater wrongs); and the non-artistic proofs: laws, witnesses, contracts, tortures and oaths. Book II (chapters 16–41, cited as 2.1–2.26): the speaker's character and the emotions of the hearers, from anger and calmness to envy and emulation; the characters of youth, old age and the prime, and of birth, wealth and power; the common topics, example and maxim, the topics of enthymemes, real and apparent, and their solution. Book III (chapters 42–60, cited as 3.1–3.19): style, its excellence in clarity and appropriateness, metaphor and simile, rhythm and the period, urbane sayings and the styles of the kinds of speech, and arrangement: proem, narration, proof, interrogation and epilogue.",
+  "citation": {
+    "scheme": "bekker",
+    "book": "Chapter",
+    "unit": "line",
+    "abbr": "Rhet.",
+    "example": "Rhet. 1355b26",
+    "about": "Bekker page, column and line, after Immanuel Bekker's Berlin edition of Aristotle (1831)"
+  },
+  "display": "prose",
+  "bookCount": 60,
+  "books": {
+    "1": {
+      "from": "1354a1",
+      "letter": "α′",
+      "label": "1.1",
+      "title": "Rhetoric and Dialectic",
+      "greek": "ἡ ῥητορική ἐστιν ἀντίστροφος τῇ διαλεκτικῇ",
+      "summary": "Rhetoric is the counterpart of dialectic, and since people succeed at it by chance or by habit, it can be made an art. The compilers of handbooks teach slander, pity and anger, which concern the juror and not the subject, and neglect the enthymeme, the body of proof; well-made laws should leave the judge as little as possible to decide. The art concerns proofs, and whoever knows syllogisms will be best at enthymemes. Rhetoric is useful because the true and the just are stronger by nature, because some hearers cannot be taught, and because one must be able to argue both sides; its function is not to persuade but to see the available means of persuasion."
+    },
+    "2": {
+      "from": "1355b25",
+      "letter": "β′",
+      "label": "1.2",
+      "title": "The Definition of Rhetoric; Its Proofs",
+      "greek": "ἔστω δὴ ἡ ῥητορικὴ δύναμις περὶ ἕκαστον τοῦ θεωρῆσαι τὸ ἐνδεχόμενον πιθανόν",
+      "summary": "Rhetoric is a capacity to see, in each case, the possible means of persuasion. Some proofs are non-artistic, like witnesses, tortures and contracts; the artistic proofs furnished by the speech are three: the character of the speaker, the frame of mind of the hearer, and the argument itself, so that rhetoric is an offshoot of dialectic and of politics, the study of characters. The example is rhetorical induction and the enthymeme rhetorical syllogism, drawn from probabilities and signs, the necessary sign being a tekmērion; enthymemes use either the common topics or the special premises of each subject."
+    },
+    "3": {
+      "from": "1358a36",
+      "letter": "γ′",
+      "label": "1.3",
+      "title": "The Three Kinds of Speech",
+      "greek": "ἔστιν δὲ τῆς ῥητορικῆς εἴδη τρία τὸν ἀριθμόν",
+      "summary": "There are three kinds of rhetoric because there are three kinds of hearer: the member of the assembly judges the future, the juror the past, the spectator the speaker's skill. Deliberative speech exhorts or dissuades and aims at the advantageous; judicial speech accuses or defends and aims at the just; epideictic speech praises or blames and aims at the noble, as when Achilles is praised for coming to the aid of Patroclus knowing that he must die. All three need premises about the possible, about past and future fact, and about greatness."
+    },
+    "4": {
+      "from": "1359a30",
+      "letter": "δ′",
+      "label": "1.4",
+      "title": "The Subjects of Deliberation",
+      "greek": "τὰ μέγιστα τυγχάνει πέντε τὸν ἀριθμὸν ὄντα",
+      "summary": "People deliberate only about what can come about or not and lies in their own power. The chief subjects of public deliberation are five: revenue, war and peace, the defense of the country, imports and exports, and legislation; on each the adviser must know the facts of his own city and the experience of others, from travelers' accounts and histories. A precise treatment belongs to politics, not to rhetoric, which is a capacity and not a science."
+    },
+    "5": {
+      "from": "1360b4",
+      "letter": "ε′",
+      "label": "1.5",
+      "title": "Happiness",
+      "greek": "ἔστω δὴ εὐδαιμονία εὐπραξία μετʼ ἀρετῆς",
+      "summary": "All exhortation and dissuasion look to happiness and its parts. Happiness is doing well together with virtue, or self-sufficiency of life, or the pleasantest life with security, or abundance of possessions and bodies with the power to keep and use them. Its parts are good birth, good children, wealth, good reputation, honor, health, beauty, strength, stature, athletic excellence, a good old age, many and good friends, good fortune and virtue, each defined in turn; virtue is left for the discussion of praise."
+    },
+    "6": {
+      "from": "1362a15",
+      "letter": "ϛ′",
+      "label": "1.6",
+      "title": "The Good and the Advantageous",
+      "greek": "ἔστω δὴ ἀγαθὸν ὃ ἂν αὐτὸ ἑαυτοῦ ἕνεκα ᾖ αἱρετόν",
+      "summary": "The adviser aims at the advantageous, which is a good. Good is what is chosen for its own sake and what all things aim at, together with what produces or preserves it. Some goods are agreed: happiness, the virtues, health, beauty, wealth, friends, honor, the abilities to speak and to act, the arts and sciences, life and justice. Disputed goods are argued from topics that Aristotle illustrates from Homer and Simonides: what enemies would hate us to have (“Surely Priam would rejoice”), what has cost much toil, what even enemies praise, and what the wise have preferred, as Athena chose Odysseus."
+    },
+    "7": {
+      "from": "1363b5",
+      "letter": "ζ′",
+      "label": "1.7",
+      "title": "The Greater Good",
+      "greek": "περὶ τοῦ μείζονος ἀγαθοῦ καὶ τοῦ μᾶλλον συμφέροντος",
+      "summary": "People often agree that two things are advantageous but dispute which is more so, and the topics of the greater good follow: the end over the means, the cause over the effect, the rare and the plentiful (“Best is water”), what the wise, the many or the best would choose, the nobler, the more lasting, and the real rather than the apparent. Division and combination make a thing seem greater, as the ills of a captured city moved Meleager to fight; so do occasions, as in the epigram on the Olympic victor, and the greatest part of a great thing, as in Pericles' spring taken out of the year."
+    },
+    "8": {
+      "from": "1365b21",
+      "letter": "η′",
+      "label": "1.8",
+      "title": "The Constitutions",
+      "greek": "εἰσὶν δὲ πολιτεῖαι τέτταρες",
+      "summary": "The greatest help in persuading and advising well is to know the constitutions, for all are persuaded by what preserves their own. There are four: democracy, where offices go by lot; oligarchy, by property; aristocracy, by education; and monarchy, kingship or tyranny. Their ends are freedom, wealth, education and the customs, and protection; and since proof comes also through character, the speaker must know the character of each, which the Politics treats precisely."
+    },
+    "9": {
+      "from": "1366a23",
+      "letter": "θ′",
+      "label": "1.9",
+      "title": "Virtue and the Noble: Praise and Blame",
+      "greek": "καλὸν μὲν οὖν ἐστιν ὃ ἂν διʼ αὑτὸ αἱρετὸν ὂν ἐπαινετὸν ᾖ",
+      "summary": "Epideictic speech aims at the noble and the shameful, virtue and vice. The noble is what is chosen for itself and praiseworthy; virtue is a capacity for providing and preserving goods and conferring great benefits, and its parts are justice, courage, self-control, magnificence, greatness of soul, generosity, practical wisdom and wisdom. Aristotle lists noble deeds and signs of virtue, quoting Alcaeus and Sappho, Iphicrates and Simonides; shows how praise names a quality by its better neighbor; joins praise to advice; and gives the topics of amplification, which suits epideictic speech as the example suits deliberative and the enthymeme judicial."
+    },
+    "10": {
+      "from": "1368b1",
+      "letter": "ι′",
+      "label": "1.10",
+      "title": "Wrongdoing and Its Causes",
+      "greek": "ἔστω δὴ τὸ ἀδικεῖν τὸ βλάπτειν ἑκόντα παρὰ τὸν νόμον",
+      "summary": "For accusation and defense one must know why people do wrong, in what state, and whom they wrong. Doing wrong is causing harm voluntarily against the law, particular or common, and people choose it from vice and lack of self-control. Every action has one of seven causes: chance, nature, force, habit, reasoning, temper and appetite, each defined in turn; age, wealth and the like are not causes but go along with them. Whatever is done voluntarily aims at what is, or seems, good or pleasant."
+    },
+    "11": {
+      "from": "1369b33",
+      "letter": "ια′",
+      "label": "1.11",
+      "title": "Pleasure",
+      "greek": "ὑποκείσθω δὴ ἡμῖν εἶναι τὴν ἡδονὴν κίνησίν τινα τῆς ψυχῆς",
+      "summary": "Pleasure is a sudden and perceptible settling of the soul into its natural state, so what is natural or habitual is pleasant and what is forced is painful. Pleasure lies in perceiving the present, remembering the past and hoping for the future, and Aristotle illustrates it from Homer and Euripides: remembered toils, anger “far sweeter than dripping honey”, the longing for lament. Revenge, victory, honor, friendship, change, learning and wonder, imitation, kinship, self-love, ruling and laughter are pleasant; the laughable is treated in the Poetics."
+    },
+    "12": {
+      "from": "1372a4",
+      "letter": "ιβ′",
+      "label": "1.12",
+      "title": "The Wrongdoer and the Wronged",
+      "greek": "πῶς δὲ ἔχοντες καὶ τίνας",
+      "summary": "People do wrong when they think they can do it and escape notice or punishment, or that the penalty will be less than the gain: the able speaker, the rich, the man with friends among the judges, the one whose appearance belies the charge. They wrong those who have what they lack, the far and the near, the trusting and the easygoing, those who never prosecute (“Mysian plunder”), enemies and friends, and foreigners; and they commit the wrongs that seem no wrong, as Jason of Pherae said some wrongs must be done so that many just things can be done."
+    },
+    "13": {
+      "from": "1373b1",
+      "letter": "ιγ′",
+      "label": "1.13",
+      "title": "Two Laws, and Equity",
+      "greek": "τὸ γὰρ ἐπιεικὲς δοκεῖ δίκαιον εἶναι",
+      "summary": "Just and unjust acts are defined by two laws, the particular law of each people and the common law according to nature, to which Sophocles' Antigone, Empedocles and Alcidamas appeal; and by whether a wrong is done to one person or to the community. Defendants admit the act but deny its name, so theft, outrage and adultery must be defined by the choice behind them. Unwritten justice covers both the excess of virtue and what the written law leaves out: equity is justice beyond the written law, and the equitable man looks to the lawgiver's intention, to the choice rather than the act, and prefers arbitration to the courts."
+    },
+    "14": {
+      "from": "1374b24",
+      "letter": "ιδ′",
+      "label": "1.14",
+      "title": "Greater and Lesser Wrongs",
+      "greek": "ἀδίκημα δὲ μεῖζον, ὅσῳ ἂν ἀπὸ μείζονος ᾖ ἀδικίας",
+      "summary": "A wrong is greater the greater the injustice it comes from, so that three sacred half-obols can make the greatest charge. Greater too are wrongs with no adequate punishment or remedy, those for which the victim punished himself, those done alone, first or often, the brutal and the premeditated, those that break oaths and pledges, perjury in the very court, wrongs against benefactors, and wrongs against the unwritten law."
+    },
+    "15": {
+      "from": "1375a22",
+      "letter": "ιε′",
+      "label": "1.15",
+      "title": "The Non-Artistic Proofs",
+      "greek": "περὶ δὲ τῶν ἀτέχνων καλουμένων πίστεων",
+      "summary": "The non-artistic proofs belong to judicial speech: laws, witnesses, contracts, tortures and oaths. For each Aristotle gives the arguments on both sides: against the written law, the common law, equity and Antigone; for it, the jurors' oath and the folly of trying to be wiser than the laws; witnesses ancient and recent, from Homer on Salamis to proverbs; probabilities against testimony; contracts as private laws or as frauds; torture as the only true testimony or as no evidence at all; and the ways of tendering and accepting an oath."
+    },
+    "16": {
+      "from": "1377b16",
+      "letter": "α′",
+      "label": "2.1",
+      "title": "Character and Emotion",
+      "greek": "ἔστι δὲ ταῦτα φρόνησις καὶ ἀρετὴ καὶ εὔνοια",
+      "summary": "Since rhetoric aims at judgment, the speaker must not only make his argument demonstrative but also present himself as a certain kind of person and put the judge in a certain frame of mind. Speakers are credible through practical wisdom, virtue and goodwill; the emotions are what change people's judgments and are attended by pain and pleasure, and each must be studied by the state in which people feel it, the people toward whom they feel it, and its grounds."
+    },
+    "17": {
+      "from": "1378a30",
+      "letter": "β′",
+      "label": "2.2",
+      "title": "Anger",
+      "greek": "ἔστω δὴ ὀργὴ ὄρεξις μετὰ λύπης τιμωρίας",
+      "summary": "Anger is a painful longing for revenge for an apparent, unwarranted slight against oneself or one's own; it is felt toward individuals and followed by the pleasure of hoped-for revenge, as Homer says of temper “sweeter than dripping honey”. Slight takes three forms, contempt, spite and outrage. People are angry when they are thwarted in what they long for, and with those who mock them, despise what they care about, fail them as friends or forget their names; the speaker must put his hearers in that state and show his opponents liable to their anger."
+    },
+    "18": {
+      "from": "1380a6",
+      "letter": "γ′",
+      "label": "2.3",
+      "title": "Calmness",
+      "greek": "ἔστω δὴ πράϋνσις κατάστασις καὶ ἠρέμησις ὀργῆς",
+      "summary": "Calming is the settling and quieting of anger. People are calm toward those who did not slight them or did so unwillingly, who admit their fault, humble themselves, are serious with them or are feared by them; in play and prosperity, when time has passed, when their anger has been spent on another, as on Callisthenes before Ergophilus, and when the offender cannot perceive the revenge, as the poet shows of Odysseus and of Hector's body."
+    },
+    "19": {
+      "from": "1380b35",
+      "letter": "δ′",
+      "label": "2.4",
+      "title": "Friendship and Enmity",
+      "greek": "ἔστω δὴ τὸ φιλεῖν τὸ βούλεσθαί τινι ἃ οἴεται ἀγαθά",
+      "summary": "Loving is wishing for someone what one thinks good, for his sake, and being disposed to bring it about; a friend loves and is loved in return. People love their benefactors, those who share their friends and enemies, the generous and the just, the pleasant and the good-tempered, and those like them, unless they compete for a living, “potter against potter”. Enmity comes from anger, spite and slander; but hatred, unlike anger, is felt toward classes, is incurable and wishes its object not to exist."
+    },
+    "20": {
+      "from": "1382a20",
+      "letter": "ε′",
+      "label": "2.5",
+      "title": "Fear and Confidence",
+      "greek": "ἔστω δὴ ὁ φόβος λύπη τις ἢ ταραχὴ ἐκ φαντασίας",
+      "summary": "Fear is pain or disturbance from the imagination of a near evil, destructive or painful. Fearful are the enmity and anger of those who can act, injustice with power, those who know one's crimes, rivals and the crafty, and in short whatever is pitiable when it happens to others; only those who expect to suffer feel fear. Confidence is its opposite, the hope of safety as near and of danger as far off."
+    },
+    "21": {
+      "from": "1383b11",
+      "letter": "ϛ′",
+      "label": "2.6",
+      "title": "Shame and Shamelessness",
+      "greek": "περὶ ἀδοξίας φαντασία ἐστὶν ἡ αἰσχύνη",
+      "summary": "Shame is pain or disturbance about evils that seem to bring disrepute, shamelessness indifference to them. People are ashamed of the deeds and signs of vice, of lacking what their equals have, and of suffering dishonor, and they feel it before those whose opinion they value: the admired, rivals, the wise, those who will tell, new friends, as Cydias asked the Athenians to imagine the Greeks looking on, and as Antiphon the poet said on the way to his death."
+    },
+    "22": {
+      "from": "1385a16",
+      "letter": "ζ′",
+      "label": "2.7",
+      "title": "Favor",
+      "greek": "ὑπουργία τῷ δεομένῳ μὴ ἀντί τινος",
+      "summary": "Favor is a service to one in need, not in return for anything nor for the benefit of the one who renders it; it is great when the need, the service or the moment is great, as with the man in the Lyceum who gave the mat. The speaker can show a favor done, or take it away by saying that the service was self-interested, accidental, compelled or a repayment."
+    },
+    "23": {
+      "from": "1385b11",
+      "letter": "η′",
+      "label": "2.8",
+      "title": "Pity",
+      "greek": "ἔστω δὴ ἔλεος λύπη τις ἐπὶ φαινομένῳ κακῷ φθαρτικῷ",
+      "summary": "Pity is pain at an apparent evil, destructive or painful, befalling one who does not deserve it, such as one might expect to suffer oneself. The ruined and the very prosperous do not feel it; deaths, injuries and the evils of fortune are pitiable, as the king's gifts came to Diopeithes too late. People pity those like them and near them, but not those too close, as Amasis wept for a friend and not for his son, and suffering brought before the eyes by gesture, voice and dress."
+    },
+    "24": {
+      "from": "1386b8",
+      "letter": "θ′",
+      "label": "2.9",
+      "title": "Indignation",
+      "greek": "ἀντίκειται δὲ τῷ ἐλεεῖν μάλιστα μὲν ὃ καλοῦσι νεμεσᾶν",
+      "summary": "Opposed to pity is indignation, pain at undeserved good fortune; both belong to good character, and we ascribe indignation to the gods, while envy is pain at the success of equals. People are indignant at wealth and power, above all when new or unsuited to their holder, and when the inferior contends with the superior, as Hector avoided Ajax; the good and the ambitious are most prone to it, and a speech that rouses it makes pity impossible."
+    },
+    "25": {
+      "from": "1387b22",
+      "letter": "ι′",
+      "label": "2.10",
+      "title": "Envy",
+      "greek": "ἐστὶν ὁ φθόνος λύπη τις ἐπὶ εὐπραγίᾳ φαινομένῃ",
+      "summary": "Envy is pain at the apparent good fortune of one's equals, not for one's own gain. The ambitious and the small-souled are envious; people envy those near them in time, place, age and reputation, “for kinship knows how to envy too”, their rivals, “potter against potter too”, and those whose success reproaches them; and the envious will not pity."
+    },
+    "26": {
+      "from": "1388a31",
+      "letter": "ια′",
+      "label": "2.11",
+      "title": "Emulation and Contempt",
+      "greek": "ἐπιεικές ἐστιν ὁ ζῆλος καὶ ἐπιεικῶν",
+      "summary": "Emulation is pain at the presence in one's equals of goods held in honor that one could obtain oneself, because one lacks them; it is decent, where envy is base. The young and the great-souled feel it; its objects are the virtues and the goods useful to others, and those who have them: the brave, the wise, generals, orators and the admired. Its opposite is contempt. The account of the emotions ends here."
+    },
+    "27": {
+      "from": "1388b31",
+      "letter": "ιβ′",
+      "label": "2.12",
+      "title": "The Character of Youth",
+      "greek": "ἡ γὰρ εὐτραπελία πεπαιδευμένη ὕβρις ἐστίν",
+      "summary": "The characters follow, by emotion, state, age and fortune. The young are full of appetite and changeable, passionate, fond of honor and of victory more than of money, trusting and hopeful, courageous, prone to shame and great-souled, fond of their friends; they do everything too much, against Chilon's maxim, wrong others through outrage, pity readily and love laughter, for wit is educated outrage."
+    },
+    "28": {
+      "from": "1389b13",
+      "letter": "ιγ′",
+      "label": "2.13",
+      "title": "The Character of Old Age",
+      "greek": "καὶ φιλοῦσιν ὡς μισήσοντες καὶ μισοῦσιν",
+      "summary": "Older men have the opposite characters: they are positive about nothing, ill-natured and suspicious, love and hate by Bias' rule, are small-souled, mean and cowardly, fond of life and of themselves, live for advantage rather than for the noble, are shameless, hopeless and garrulous, and pity from weakness. Since hearers accept speeches in their own character, the speaker can fit himself and his speech to them."
+    },
+    "29": {
+      "from": "1390a28",
+      "letter": "ιδ′",
+      "label": "2.14",
+      "title": "The Prime of Life",
+      "greek": "οἱ δʼ ἀκμάζοντες φανερὸν ὅτι μεταξὺ τούτων τὸ ἦθος ἔσονται",
+      "summary": "Men in their prime hold the mean between youth and age: confident without rashness, judging by the truth, living for the noble and the advantageous together, self-controlled with courage and courageous with self-control. The body is in its prime from thirty to thirty-five, the soul at about forty-nine."
+    },
+    "30": {
+      "from": "1390b14",
+      "letter": "ιε′",
+      "label": "2.15",
+      "title": "Good Birth",
+      "greek": "γενναῖον δὲ κατὰ τὸ μὴ ἐξίστασθαι τῆς",
+      "summary": "Good birth makes men fonder of honor and contemptuous even of men equal to their ancestors. To be well-born is the excellence of one's stock, to be true to one's birth is not to fall away from one's nature, which the well-born mostly do: gifted families turn manic, like the descendants of Alcibiades and of Dionysius, steady ones dull, like those of Cimon, Pericles and Socrates."
+    },
+    "31": {
+      "from": "1390b32",
+      "letter": "ιϛ′",
+      "label": "2.16",
+      "title": "Wealth",
+      "greek": "ὑβρισταὶ γὰρ καὶ ὑπερήφανοι",
+      "summary": "Wealth makes men outrageous and arrogant, as though they had every good, luxurious and vulgar, and sure that they are emulated and fit to rule, as Simonides told Hiero's wife that it is better to be rich, since the wise wait at the doors of the rich. Its character is that of a prosperous fool, and it is worse in the newly rich."
+    },
+    "32": {
+      "from": "1391a20",
+      "letter": "ιζ′",
+      "label": "2.17",
+      "title": "Power and Good Fortune",
+      "greek": "ἔχουσιν πρὸς τὸ θεῖόν πως",
+      "summary": "Power has the characters of wealth and better ones: those in power are more ambitious and manlier, more diligent and more dignified, and do wrong on a large scale. Good fortune makes men arrogant and thoughtless, but also lovers of the gods; the characters of poverty and misfortune follow from the opposites."
+    },
+    "33": {
+      "from": "1391b7",
+      "letter": "ιη′",
+      "label": "2.18",
+      "title": "The Common Topics",
+      "greek": "ἡμῖν διελθεῖν περὶ τῶν κοινῶν",
+      "summary": "All persuasive speech is addressed to a judge, whether one person, opponents or the spectators of a display. With the characters treated, the common topics remain, which every kind of speech uses: the possible and the impossible, past and future fact, and magnitude; amplification suits epideictic speech best, past fact judicial, the possible and the future deliberative."
+    },
+    "34": {
+      "from": "1392a8",
+      "letter": "ιθ′",
+      "label": "2.19",
+      "title": "The Possible, Fact and Magnitude",
+      "greek": "πρῶτον μὲν οὖν περὶ δυνατοῦ καὶ ἀδυνάτου λέγωμεν",
+      "summary": "A thing is possible if its opposite or its like is, or something harder; if its beginning or its end, its parts or its whole, its genus or its species is possible; if it is desired, an object of art or in our power, or if lesser men can do it, as Isocrates said of Euthynus. It has happened if the less likely or the later has happened, or if one was able and wished; it will be if it is in one's power and wish. Magnitude belongs with the goods treated earlier, and to discuss it in the abstract is idle talk."
+    },
+    "35": {
+      "from": "1393a23",
+      "letter": "κ′",
+      "label": "2.20",
+      "title": "Example",
+      "greek": "παραδειγμάτων δὲ εἴδη δύο",
+      "summary": "The common proofs are example and enthymeme. Examples are historical, as Darius and Xerxes took Egypt before crossing over, or invented: comparisons of the Socratic kind, and fables, like Stesichorus' horse and stag and Aesop's fox and hedgehog. Fables suit the assembly and are easier to find; examples serve as demonstration when there are no enthymemes, and as witnesses after them."
+    },
+    "36": {
+      "from": "1394a19",
+      "letter": "κα′",
+      "label": "2.21",
+      "title": "Maxims",
+      "greek": "ἔστι δὴ γνώμη",
+      "summary": "A maxim is a general statement about matters of action, the conclusion or premise of an enthymeme without the syllogism, as in Euripides' lines on educating children. Maxims come with or without a supplement; the old and the experienced should use them, even hackneyed ones like “One omen is best”, and may contradict famous sayings like “Know yourself”. Maxims please the hearers by stating their own opinions in general terms, and they make speeches show character."
+    },
+    "37": {
+      "from": "1395b20",
+      "letter": "κβ′",
+      "label": "2.22",
+      "title": "Finding Enthymemes",
+      "greek": "οὔτε γὰρ πόρρωθεν οὔτε πάντα δεῖ λαμβάνοντας",
+      "summary": "Enthymemes should neither reason from far off nor state the obvious, which is why the uneducated persuade crowds better than the educated. One must have the facts of each subject, such as the Athenians' power and wars, Salamis and Marathon, and those proper to it, as Achilles killed Hector and Cycnus. Enthymemes are demonstrative or refutative, and their elements are the topics."
+    },
+    "38": {
+      "from": "1397a7",
+      "letter": "κγ′",
+      "label": "2.23",
+      "title": "The Topics of Enthymemes",
+      "greek": "ἔστι δὲ εἷς μὲν τόπος τῶν δεικτικῶν ἐκ τῶν ἐναντίων",
+      "summary": "Aristotle lists twenty-eight topics of demonstrative and refutative enthymemes, each with examples from orators and poets: from opposites, inflections, correlatives, the more and the less, time, the opponent's words, definition, division, induction, previous judgments, consequences, analogy, motives, the incredible, inconsistency, causes, mistakes and names. Refutative enthymemes are the more admired, and the most applauded are those the hearers foresee."
+    },
+    "39": {
+      "from": "1400b34",
+      "letter": "κδ′",
+      "label": "2.24",
+      "title": "Apparent Enthymemes",
+      "greek": "τόποι δʼ εἰσὶ τῶν φαινομένων ἐνθυμημάτων",
+      "summary": "Some enthymemes are only apparent. Their topics are diction and homonymy, combination and division, exaggeration, signs, the accidental and the consequent, the false cause, as Demades blamed Demosthenes' policy for the war, the omission of when and how, and the confusion of what is absolute with what is so in some respect, as in Agathon's verse and the art of Corax, which makes the weaker argument the stronger."
+    },
+    "40": {
+      "from": "1402a29",
+      "letter": "κε′",
+      "label": "2.25",
+      "title": "Solution and Objection",
+      "greek": "ἔστιν δὲ λύειν ἢ ἀντισυλλογισάμενον ἢ ἔνστασιν ἐνεγκόντα",
+      "summary": "One solves an argument by a counter-syllogism or by an objection, and objections come from the thing itself, the like, the opposite, or previous judgments, as Pittacus' law answers the plea for the drunk. Enthymemes from probability can always be met with an objection, though the judge should not be misled by it; signs and examples can be solved, tekmēria only by denying the fact."
+    },
+    "41": {
+      "from": "1403a16",
+      "letter": "κϛ′",
+      "label": "2.26",
+      "title": "Amplification and the End of Book II",
+      "greek": "τὸ δʼ αὔξειν καὶ μειοῦν οὐκ ἔστιν ἐνθυμήματος στοιχεῖον",
+      "summary": "Amplifying and diminishing are not an element of enthymeme, nor are enthymemes that solve a separate kind, and an objection is not an enthymeme. The treatment of thought is complete; diction and arrangement remain."
+    },
+    "42": {
+      "from": "1403b6",
+      "letter": "α′",
+      "label": "3.1",
+      "title": "Style and Delivery",
+      "greek": "περὶ δὲ τῆς λέξεως ἐχόμενόν ἐστιν εἰπεῖν",
+      "summary": "After the proofs, style and arrangement remain, for it is not enough to know what to say; one must also say it as one should. Delivery, the use of the voice, has the greatest power but has never been treated; it is vulgar, but necessary because of the depravity of the hearers, and style too makes some difference in all teaching. The poets were the first to cultivate style, and so the first prose style was poetic, like Gorgias'; but the style of prose differs from that of poetry, which is treated in the books on poetics."
+    },
+    "43": {
+      "from": "1404b1",
+      "letter": "β′",
+      "label": "3.2",
+      "title": "Clarity and Appropriateness",
+      "greek": "ὡρίσθω λέξεως ἀρετὴ σαφῆ εἶναι",
+      "summary": "The excellence of style is to be clear and appropriate, neither mean nor above its dignity. Standard words make it clear; a little of the unfamiliar gives distinction, for people admire what is far off, but the art must be concealed, as Euripides first showed. In prose the useful words are the standard, the proper and metaphor, which gives clarity, pleasure and strangeness. Metaphors and epithets must fit, by analogy, be drawn from the better or the worse as one praises or blames, sound well, and come from things akin and beautiful; diminutives lessen good and bad alike."
+    },
+    "44": {
+      "from": "1405b35",
+      "letter": "γ′",
+      "label": "3.3",
+      "title": "Frigidity",
+      "greek": "τὰ δὲ ψυχρὰ ἐν τέτταρσι γίγνεται κατὰ τὴν λέξιν",
+      "summary": "Frigidity in style comes from four things: double words, like Lycophron's and Gorgias'; rare words; epithets that are long, untimely or crowded, as Alcidamas uses them, not as seasoning but as the main dish; and inappropriate metaphors, laughable, too tragic or far-fetched. Gorgias' “Shameful, Philomela!” to a swallow is the best of the tragic manner."
+    },
+    "45": {
+      "from": "1406b20",
+      "letter": "δ′",
+      "label": "3.4",
+      "title": "The Simile",
+      "greek": "ἔστιν δὲ καὶ ἡ εἰκὼν μεταφορά",
+      "summary": "The simile is a metaphor with a small difference: “he rushed on like a lion” is a simile, “a lion, he rushed on” a metaphor. Similes are useful in prose, but seldom; Aristotle gives examples from Androtion, Plato's Republic, Pericles, Demosthenes, Democrates and Antisthenes, and adds that a metaphor by analogy should answer back: if the cup is the shield of Dionysus, the shield is the cup of Ares."
+    },
+    "46": {
+      "from": "1407a19",
+      "letter": "ε′",
+      "label": "3.5",
+      "title": "Good Greek",
+      "greek": "ἔστι δʼ ἀρχὴ τῆς λέξεως τὸ ἑλληνίζειν",
+      "summary": "The foundation of style is speaking good Greek, which lies in five things: connectives placed in their natural order; particular names rather than general ones; no ambiguity, unless one means it, as seers do (“Croesus, crossing the Halys, will destroy a great empire”); genders, as Protagoras divided them; and number. What is written should be easy to read and to speak, unlike Heraclitus, whose words are hard to punctuate."
+    },
+    "47": {
+      "from": "1407b26",
+      "letter": "ϛ′",
+      "label": "3.6",
+      "title": "Bulk and Conciseness",
+      "greek": "εἰς ὄγκον δὲ τῆς λέξεως συμβάλλεται τάδε",
+      "summary": "Bulk comes from using a description instead of a name, from metaphors and epithets, from making one into many, from giving each word its own article, from connectives, and from describing a thing by what it lacks, as Antimachus did with Teumessus; conciseness comes from the opposites."
+    },
+    "48": {
+      "from": "1408a10",
+      "letter": "ζ′",
+      "label": "3.7",
+      "title": "Appropriate Style",
+      "greek": "τὸ δὲ πρέπον ἕξει ἡ λέξις, ἐὰν ᾖ παθητική τε καὶ ἠθικὴ",
+      "summary": "Style is appropriate if it expresses emotion and character and is proportionate to its subject. The emotional style speaks of outrage with anger and of pitiable things humbly, and the hearer shares the speaker's feelings; the style of character suits the speaker's age, sex, people and way of life. Excess is remedied by rebuking oneself in advance and by not using all the corresponding means at once; poetic words suit a speaker carried away, or are used with irony."
+    },
+    "49": {
+      "from": "1408b21",
+      "letter": "η′",
+      "label": "3.8",
+      "title": "Rhythm",
+      "greek": "διὸ ῥυθμὸν δεῖ ἔχειν τὸν λόγον, μέτρον δὲ μή",
+      "summary": "Prose should have rhythm but not meter: meter seems artificial and distracts, and what lacks rhythm is unlimited. The heroic rhythm is too grand, the iambus too much like ordinary speech, the trochee too like the cordax; the paean, used since Thrasymachus, is best, the one paean for beginnings, with its long syllable first, the other for endings, with its long syllable last."
+    },
+    "50": {
+      "from": "1409a24",
+      "letter": "θ′",
+      "label": "3.9",
+      "title": "The Period",
+      "greek": "λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθʼ αὑτὴν",
+      "summary": "Style is either strung-on, joined only by connectives, like Herodotus' opening, or compact, in periods. A period is a stretch of speech with a beginning and an end in itself and a size easily taken in; it is pleasant and easy to learn, and should be complete in sense. Periods are simple or in clauses, which should be neither stunted nor too long; clauses are divided or opposed, and the opposed, the antithesis of Isocrates' Panegyricus, pleases because opposites are known best side by side. Parisōsis and paromoiōsis give equal clauses and like sounds."
+    },
+    "51": {
+      "from": "1410b6",
+      "letter": "ι′",
+      "label": "3.10",
+      "title": "Urbane Sayings",
+      "greek": "πόθεν λέγεται τὰ ἀστεῖα καὶ τὰ εὐδοκιμοῦντα λεκτέον",
+      "summary": "Urbane sayings please because learning easily is pleasant, and metaphor, which calls old age stubble, teaches most. Style and enthymemes are liked when they give quick learning: through antithesis, metaphor, and setting things before the eyes. The best metaphors are by analogy, like Pericles' youth gone from the city like the spring from the year; Aristotle gathers many from orators and poets, among them sayings of Leptines, Cephisodotus, Iphicrates, Peitholaus and Isocrates."
+    },
+    "52": {
+      "from": "1411b21",
+      "letter": "ια′",
+      "label": "3.11",
+      "title": "Before the Eyes",
+      "greek": "λέγω δὴ πρὸ ὀμμάτων ταῦτα ποιεῖν ὅσα ἐνεργοῦντα σημαίνει",
+      "summary": "Words set things before the eyes when they signify things in activity, as Homer makes lifeless things alive: the shameless stone, the arrow that flew, the spears longing for flesh. Metaphors should come from things related but not obvious, as philosophy sees likeness in things far apart. Urbane sayings add a surprise, from riddles, jokes on letters, unexpected endings and words in two senses; similes, proverbs and hyperboles are metaphors too, and hyperboles are adolescent."
+    },
+    "53": {
+      "from": "1413b3",
+      "letter": "ιβ′",
+      "label": "3.12",
+      "title": "The Styles of the Kinds",
+      "greek": "ἄλλη ἑκάστῳ γένει ἁρμόττει λέξις",
+      "summary": "Each kind of speech has its own style. The written style is precise, the style of debate suited to delivery, so that repetition and asyndeton, which delivery brings to life, seem silly on the page; Homer's thrice-named Nireus shows how asyndeton amplifies. Speaking to the assembly is like shadow-painting, the judicial style is more precise, the epideictic most suited to reading. Clarity, appropriateness, the blend of usual and unfamiliar, and rhythm make style pleasant; arrangement remains."
+    },
+    "54": {
+      "from": "1414a31",
+      "letter": "ιγ′",
+      "label": "3.13",
+      "title": "The Parts of a Speech",
+      "greek": "ἔστι δὲ τοῦ λόγου δύο μέρη",
+      "summary": "A speech has two necessary parts, the statement of its subject and the proof; the handbooks' divisions are absurd, since narration belongs to judicial speech alone. At most there are four parts: proem, statement, proof and epilogue; further divisions, like those of Theodorus' school and Licymnius, are empty names."
+    },
+    "55": {
+      "from": "1414b19",
+      "letter": "ιδ′",
+      "label": "3.14",
+      "title": "The Proem",
+      "greek": "τὸ μὲν οὖν προοίμιόν ἐστιν ἀρχὴ λόγου",
+      "summary": "The proem is the beginning of a speech, like the prologue of a play and the prelude of pipe music. Epideictic proems come from praise, blame, advice or appeals to the hearer, and may stray from the subject, like Isocrates' Helen; judicial proems give a sample of the subject, like the first lines of the Iliad and the Odyssey, which is the proem's own work. Other proems are remedies for poor hearers: dispelling or creating slander, winning goodwill, attention or inattention."
+    },
+    "56": {
+      "from": "1416a4",
+      "letter": "ιε′",
+      "label": "3.15",
+      "title": "Slander",
+      "greek": "περὶ δὲ διαβολῆς ἓν μὲν τὸ ἐξ ὧν ἄν τις ὑπόληψιν δυσχερῆ ἀπολύσαιτο",
+      "summary": "Slander is answered from topics: denying the fact, the harm, its extent or its injustice; pleading error, misfortune or necessity, as Sophocles did about his trembling; giving another motive; implicating the slanderer or the innocent; appealing to an earlier judgment, as Euripides did against Hygiaenon; and citing tokens. The slanderer praises small things at length and blames great ones briefly, and both sides put the worse or the better construction on an act."
+    },
+    "57": {
+      "from": "1416b16",
+      "letter": "ιϛ′",
+      "label": "3.16",
+      "title": "Narration",
+      "greek": "διήγησις δʼ ἐν μὲν τοῖς ἐπιδεικτικοῖς ἐστιν οὐκ ἐφεξῆς ἀλλὰ κατὰ μέρος",
+      "summary": "In epideictic speeches narration is piecemeal, and well-known deeds need only be recalled. Narration should be neither quick nor long but in due measure; it should bring in what shows one's own virtue and the opponent's vice, and show character through choice, as Socratic dialogues do and mathematical discourses cannot, with reasons for what is incredible, as Sophocles' Antigone gives. Emotional details persuade, as in Homer; in deliberative speech narration is rare and concerns the past."
+    },
+    "58": {
+      "from": "1417b21",
+      "letter": "ιζ′",
+      "label": "3.17",
+      "title": "Proof",
+      "greek": "τὰς δὲ πίστεις δεῖ ἀποδεικτικὰς εἶναι",
+      "summary": "Proofs should be demonstrative and aimed at the point in dispute. Examples suit deliberative speech, enthymemes judicial; enthymemes should be mixed in, limited in number, and kept out of passages of emotion and character, where maxims serve. Deliberative speaking is harder, for it concerns the future; refutative enthymemes are better liked; the second speaker should first demolish his opponent's case. To avoid envy and abuse, one should put words about oneself or another in someone else's mouth, as Isocrates and Archilochus do."
+    },
+    "59": {
+      "from": "1418b40",
+      "letter": "ιη′",
+      "label": "3.18",
+      "title": "Interrogation and Jest",
+      "greek": "περὶ δὲ ἐρωτήσεως, εὔκαιρόν ἐστι ποιεῖσθαι",
+      "summary": "Interrogation is opportune when one more question exposes an absurdity, as Pericles questioned Lampon and Socrates Meletus, or forces a contradiction or a sophistical answer; otherwise it fails. Answers should distinguish ambiguities and give reasons, as Sophocles did to Pisander and a Spartan ephor to his auditor. Jests have their use, as Gorgias said, but irony befits a free man better than buffoonery."
+    },
+    "60": {
+      "from": "1419b10",
+      "letter": "ιθ′",
+      "label": "3.19",
+      "title": "The Epilogue",
+      "greek": "ὁ δʼ ἐπίλογος σύγκειται ἐκ τεττάρων",
+      "summary": "The epilogue has four parts: disposing the hearer well toward oneself and badly toward the opponent, amplifying and depreciating, rousing the emotions, and recapitulation, which belongs here and not in the proem. It recalls the proofs, compares the two cases, ironically or by questions, and ends without connectives: “I have spoken; you have heard; you have the facts; judge.”"
+    }
+  },
+  "editions": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "label": "Greek",
+      "name": "Ross",
+      "credit": "W. D. Ross, Aristotelis Ars Rhetorica, Oxford Classical Texts (1959), via the Perseus Digital Library (CC BY-SA 4.0). Ross numbers every fifth Bekker line; the lines between are divided in proportion to their length.",
+      "path": "grc/{book}.txt"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "label": "English",
+      "name": "Claude",
+      "credit": "New line-for-line translation by Claude (Anthropic), 2026. See TRANSLATION.md.",
+      "path": "en/{book}.txt"
+    }
+  ],
+  "structure": "structure/{book}.json",
+  "lexicon": "lexicon/{book}.json"
+}

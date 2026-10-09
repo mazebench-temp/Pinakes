@@ -4,7 +4,7 @@ greek: εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πά
 kind: anecdote
 tags: [philosophy, rhetoric]
 summary: In his chapter on maxims in the Rhetoric, Aristotle advises speakers to use even hackneyed and common maxims if they are useful, and his first example is Hector's verse, for a man urging others to face danger without having sacrificed. His second, “Enyalius is impartial”, is also Hector's answer to Polydamas, in Book 18.
-source: Aristotle, Rhetoric 2.21.11, 1395a
+source: Aristotle, Rhetoric 2.21, 1395a10–18
 of: [one-omen-is-best, hector, polydamas, divination, aristotle]
 passages:
   - 12.230-250 | Hector answers Polydamas
@@ -14,7 +14,11 @@ passages:
 
 **Homer.** At the ditch an eagle flying on the left drops a blood-red serpent among the Trojans, and Polydamas reads it as a warning: the Trojans may break the wall, but they will not come back from the ships in good order (12.200–229; see [[the-eagle-and-the-serpent]]). Hector, looking darkly at him, says that the gods have destroyed his wits. He will obey the counsels of Zeus, which Zeus promised him and nodded his assent to, not “long-winged birds”, whether they fly to the right, toward the dawn and the sun, or to the left, toward the misty darkness. Then comes the verse: εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης, “One omen is best: to fight in defense of our native land” (12.243). οἰωνός is the bird of omen, and the word has just meant the birds themselves (12.237); Hector turns it into the one sign he will accept. He goes on to call Polydamas a coward and to threaten him with death if he turns any man from the fighting (12.244–250; see [[hector]], [[polydamas]] and [[one-omen-is-best]]).
 
-**Aristotle.** The twenty-first chapter of the second book of the *Rhetoric* is on maxims (γνῶμαι). A maxim, Aristotle says, is a general statement, not about particulars but about the objects of action, what is to be chosen or avoided (2.21.2), and older men and men of experience should use them (2.21.9). Then: “One must use even hackneyed and common maxims, if they are useful; for because they are common, they seem right, as though everyone agreed: as, for one urging men to run a risk without having sacrificed, ‘One omen is best, to fight for one's country’; and when they are weaker, ‘Enyalius is impartial’; and for killing the enemy's children, though they have done no wrong, ‘A fool, who kills the father and leaves the children’” (*Rhetoric* 2.21.11, 1395a). He does not name Homer. The third saying is not Homer's; earlier in the *Rhetoric* he quotes it as a proverb (1.15.14).
+**Aristotle.** The twenty-first chapter of the second book of the *Rhetoric* is on maxims (γνῶμαι). A maxim, Aristotle says, is a general statement, not about particulars but about the matters of action, what is to be chosen or avoided (*Rhetoric* 2.21, 1394a21–26), and it suits older men and matters in which one is experienced (1395a2–6). Then:
+
+{{quote:2863fe25-a3a5-5af1-a4aa-0d3c410dc6a4}}
+
+He does not name Homer. The third saying is not Homer's; earlier in the *Rhetoric* he quotes it as a proverb (1.15, 1376a5–7; see [[a-fool-who-kills-the-father]]).
 
 The case he has in mind is a commander's. Greek armies sacrificed before battle and waited for the signs to come out favorable. At Plataea, Herodotus says, the Spartans sacrificed as they were about to engage, and while the victims would not come out favorable many of them fell to the Persian arrows; Pausanias looked toward the temple of Hera and called on the goddess, and only then did the sacrifices turn favorable (Herodotus 9.61.2–62.1). Hector's verse is the maxim for a speaker who must send men into danger without that sign. In the poem it is spoken against a sign: Hector does not lack an omen, he rejects one.
 

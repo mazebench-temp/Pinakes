@@ -8,6 +8,8 @@ aliases: [Protagoras and the Muse]
 source: Aristotle, Poetics 19, 1456b8–19
 of: [protagoras, invocation-of-the-muses, menis]
 grc: [μῆνιν ἄειδε θεά]
+# In the Rhetoric (1415a16) the line is quoted as a proem, not for Protagoras' objection.
+except: [Rhetoric 1415a16]
 ---
 
 {{quote:116311ea-4992-5bca-ae32-ecf5c6e89b58}}

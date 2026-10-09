@@ -1,0 +1,14 @@
+{
+  "scenes": [
+    {"from": "1419b10", "to": "1419b26", "title": "The Four Parts of the Epilogue", "summary": "The epilogue has four parts: disposing the hearer well toward oneself and badly toward the opponent, amplifying and depreciating, rousing the emotions (pity, indignation, anger, hatred, envy, emulation, strife), and recapitulation. The topics for each have been given."},
+    {"from": "1419b27", "to": "1420a8", "title": "Recapitulation and the Close", "summary": "Recapitulation belongs in the epilogue, not, as some say, in the proem. Say that you have done what you promised, then compare your case with the opponent's, point against point, ironically or by questions, or in the natural order; and end without connectives: “I have spoken; you have heard; you have the facts; judge.”"}
+  ],
+  "quotations": [
+    {"from": "1419b36", "to": "1420a1", "source": "aristotle", "entry": "epilogos", "cite": "Aristotle's example of direct comparison"},
+    {"from": "1420a1", "to": "1420a3", "source": "aristotle", "entry": "epilogos", "cite": "Aristotle's examples of irony", "marks": 2},
+    {"from": "1420a3", "to": "1420a4", "source": "aristotle", "entry": "epilogos", "cite": "Aristotle's examples of interrogation", "marks": 2},
+    {"from": "1420a8", "to": "1420a8", "source": "aristotle", "entry": "epilogos", "cite": "Aristotle's model of an asyndetic close"}
+  ],
+  "speeches": [],
+  "days": []
+}

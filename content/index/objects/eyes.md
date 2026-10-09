@@ -13,4 +13,4 @@ en: [eyes]
 
 ## Outside Homer
 
-[[Aristotle]] quotes the proverb that “shame is in the eyes” (*Rhetoric* 2.6, 1384a).
+[[Aristotle]] quotes the proverb that “shame is in the eyes” (*Rhetoric* 2.6, 1384a33–35; see [[shame-is-in-the-eyes]]).

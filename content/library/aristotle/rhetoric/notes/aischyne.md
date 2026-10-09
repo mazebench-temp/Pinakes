@@ -1,0 +1,8 @@
+---
+summary: Shame is pain or disturbance about evils that bring disrepute; Aristotle sets out at what people feel shame, before whom, and in what state.
+heading: In the Rhetoric
+grc: ["αἰσχυν*", "ἀναισχυντ*"]
+en: [shame, shameless, shamelessness, prone to shame]
+---
+
+**Book II.** “Let shame be a kind of pain or disturbance concerning those evils that appear to bring disrepute, whether present, past or future, and shamelessness a kind of slight and unconcern about these same things” (1383b12–15). People feel shame at the deeds that come from vice, cowardice, licentiousness, sordid greed (see [[carrying-off-from-a-corpse]]), flattery, softness and boasting, and at lacking the goods that their equals share (1383b16–1384a21). Shame is “an imagination concerning disrepute”, felt for the sake of the disrepute itself and not of its results, and so before those whose opinion counts: the admired, those who admire us, rivals, the wise, and those who will always be with us (1384a21–1384b22); hence the proverb that shame is in the eyes (1384a33–35; see [[shame-is-in-the-eyes]]) and Cydias' image of the Greeks standing round the assembly (1384b32–35; see [[cydias]]). No one feels shame before small children or animals, nor at the same things before acquaintances as before strangers (1384b22–26). People are more prone to shame when they must go about in public among those who know, the point of Antiphon's jest on the way to his death (1385a8–13; see [[why-do-you-veil-your-faces]]). The young are prone to shame (1389a28–29) and the old shameless rather than prone to shame (1390a2–3; see [[the-characters-of-the-ages]]).

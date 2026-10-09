@@ -32,7 +32,7 @@ Scholars disagree on where to put the weight. N. R. E. Fisher (*Hybris*, 1992) a
 
 ## Outside Homer
 
-Aristotle defines ὕβρις as doing and saying things that shame the victim, not for any gain but for the pleasure of feeling superior. Dishonor belongs to it, and he quotes 1.356 as the complaint of a man so treated (*Rhetoric* 2.2, 1378b). In the *Posterior Analytics* he names Achilles among the proud men who would not tolerate ὕβρις: his answer to it was wrath (ἐμήνισεν; 2.13, 97b15–25).
+Aristotle defines ὕβρις as doing and saying things that shame the victim, not for any gain but for the pleasure of feeling superior (*Rhetoric* 2.2, 1378b23–29; see [[oligoria]]). Dishonor belongs to it, and he quotes 1.356 as the complaint of a man so treated (*Rhetoric* 2.2, 1378b29–33). In the *Posterior Analytics* he names Achilles among the proud men who would not tolerate ὕβρις: his answer to it was wrath (ἐμήνισεν; 2.13, 97b15–25).
 
 In Athens ὕβρις was a crime that any citizen could prosecute; the law is quoted in Demosthenes, *Against Meidias* 21.47.
 

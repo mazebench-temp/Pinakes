@@ -1,9 +1,9 @@
 ---
-title: Tokens of recognition
+title: Signs and tokens
 greek: σημεῖα
 kind: term
 tags: [recognition]
-summary: σημεῖα, signs or tokens: birthmarks, scars, necklaces, the little boat of Tyro. Recognition by tokens is “the least artistic” kind, most used “for want of resource”.
+summary: σημεῖα, signs or tokens: in the Poetics birthmarks, scars, necklaces, the little boat of Tyro, and recognition by tokens is “the least artistic” kind; in the Rhetoric the signs from which enthymemes argue, the necessary one being a tekmērion.
 aliases: [semeia, sēmeion, semeion, signs, tokens, recognition tokens, birthmark]
 ---
 

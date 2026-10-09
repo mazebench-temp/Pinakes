@@ -5,7 +5,7 @@ kind: epithet
 tags: [speech, kinship]
 summary: “Dear brother,” ἠθεῖε, an address of respect and affection between brothers, and to those as close as brothers.
 aliases: [etheios, etheie, honored brother]
-grc: [ἠθεῖʼ]
+grc: ["=ἠθεῖʼ"]
 en: [Dear brother]
 ---
 

@@ -1,0 +1,277 @@
+# Aristotle, Rhetoric, Book II, Chapter 23 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1397a7	One topic of demonstrative enthymemes is from opposites;
+1397a8	for one must see whether the opposite belongs to the opposite,
+1397a9	refuting if it does not belong, establishing if it does:
+1397a10	for instance, that self-control is good; for
+1397a11	licentiousness is harmful. Or as in the Messenian Speech: “For if
+1397a12	war is the cause of our present evils, it is with
+1397a13	peace that we must set them right.” “For if
+1397a14	it is not just to fall into anger even with those who have done ill
+1397a15	unwillingly, then neither, if someone under compulsion
+1397a16	does good to another, is it fitting that gratitude be owed
+1397a17	to him.” “But if among mortals it is possible
+1397a18	to tell persuasive lies, you must believe the opposite too,
+1397a19	that many unbelievable truths befall mortals.”
+1397a20	Another is from like inflections; for they must alike belong or
+1397a21	not belong: for instance, that the just is not altogether good; for then
+1397a22	what is done justly would be good too, but as it is, dying justly is not desirable.
+1397a23	Another is from things relative to each other; for if acting nobly
+1397a24	or justly belongs to the one, being so treated belongs to the other; and if giving the order,
+1397a25	so does having carried it out: as the tax-farmer Diomedon
+1397a26	said about the taxes, “For if selling is not shameful for you, neither
+1397a27	is buying for us.” And if being nobly or justly treated belongs to the one who suffered,
+1397a28	so does acting so to the one who did it. But here one can reason falsely;
+1397a29	for if a man suffered something justly, it was perhaps not
+1397a30	at your hands; that is why one must
+1397a31	examine separately whether
+1397a32	the sufferer deserved to suffer
+1397b1	and whether the doer deserved to do it, and then use whichever argument fits; for sometimes
+1397b2	the two disagree, and nothing prevents it, as in the
+1397b3	Alcmaeon of Theodectes: “But did no mortal hate
+1397b4	your mother?” And he answers, “One must make a distinction and look into it”;
+1397b5	and when Alphesiboea asks how, he takes her up and says, “They
+1397b6	judged that she should die, but not that I should kill her.” And the trial about
+1397b7	Demosthenes and those who killed Nicanor: since
+1397b8	they were judged to have killed him justly, it seemed that he had died justly.
+1397b9	And in the case of the man who died at Thebes, about whom the defendant asks
+1397b10	that it be judged whether he deserved to die, since it was not unjust
+1397b11	to kill one who died justly. Another is from the more
+1397b12	and the less: for instance, “If not even the gods know everything,
+1397b13	hardly can men”; for this amounts to: “If something does not belong where it would be more likely
+1397b14	to belong, clearly it does not belong where it is less likely.” And the argument that
+1397b15	a man who beats even his father beats his neighbors comes from: “If the
+1397b16	less ⟨likely⟩ belongs, the more likely belongs too”; for people
+1397b17	beat their fathers less than their neighbors. Either, then, it is so, or if
+1397b18	it does not belong where it is more likely, or if it belongs where it is less likely, ⟨it belongs⟩,
+1397b19	whichever one must show, whether that it belongs or that it does not. Further, if
+1397b20	it is neither more nor less; whence it has been said, “Your father
+1397b21	is pitiable, for he lost his children; and is not Oeneus, then, who lost
+1397b22	[the] glorious son [of Greece]?” And that if not even
+1397b23	Theseus did wrong, neither did Alexander; and if not the
+1397b24	sons of Tyndareus, neither did Alexander; and if Hector did not in killing Patroclus,
+1397b25	neither did Alexander in killing Achilles. And if no other craftsmen
+1397b26	are worthless, neither are philosophers. And if
+1397b27	generals are not worthless because they are often put to death, neither are
+1397b28	sophists. And that “If a private citizen must care for your
+1397b29	good opinion, you must care for that of the Greeks.”
+1397b30	Another is from considering the time, as Iphicrates said in the speech against Harmodius: “If before I acted I had asked
+1397b31	to receive the statue if I did it, you would have given it; will you not give it now that I have done it? Do not, then, promise
+1397b32	when you are expecting something, and take away when you have received it.” And again, about the Thebans letting Philip pass through into Attica,
+1398a1	that if he had asked before he helped them against the Phocians, they would have promised;
+1398a2	it would be absurd, then, if because he let it pass and trusted them, they will not let him through.
+1398a3	Another is from what has been said turned against the one who said it,
+1398a4	as in the Teucer. Different is the method that
+1398a5	Iphicrates used against Aristophon: he asked him whether he would betray the
+1398a6	ships for money; and when he said no, he said, “You, being
+1398a7	Aristophon, would not betray them; and would I, being Iphicrates?” But
+1398a8	the opponent must be the one who would seem more likely to do wrong; if not,
+1398a9	it would look absurd, ⟨as⟩ if, when Aristides was the accuser,
+1398a10	someone else were to say this to cast doubt on the accuser;
+1398a11	for in general the accuser claims to be better than the
+1398a12	defendant; and this, then, must be refuted. In general a man is absurd
+1398a13	when he rebukes others for what he does or would do himself,
+1398a14	or urges them to do what he does not do and would not do himself.
+1398a15	Another is from definition: for instance, what the divine sign is: “Is it a god
+1398a16	or a god's work? Yet whoever thinks it a god's work must
+1398a17	think that gods exist too.” And as Iphicrates argued
+1398a18	that the best man is the most nobly born; for Harmodius and
+1398a19	Aristogeiton had nothing of nobility before they did a deed of
+1398a20	nobility. And that he was himself more akin to them: “At any rate my deeds
+1398a21	are more akin to those of Harmodius and Aristogeiton
+1398a22	than yours are.” And as in the Alexander, that all would agree
+1398a23	that the disorderly are not content with the enjoyment of one body.
+1398a24	And why Socrates said he would not go to Archelaus: for he said
+1398a25	it was outrage to be unable to repay benefits alike
+1398a26	as well as injuries. For all these
+1398a27	define and grasp what a thing is, and
+1398a28	reason about what they are speaking of. Another is from
+1398a29	the number of senses, as in the Topics about “rightly.”
+1398a30	Another is from division: for instance, if all men do wrong for three reasons
+1398a31	(for this reason or this or this), and for
+1398a32	two of them it is impossible, and for the third not even the accusers claim it.
+1398a33	Another is from induction: for instance, from the Peparethian woman, that about
+1398a34	their children women everywhere determine the truth;
+1398b1	for at Athens, when Mantias the orator
+1398b2	disputed with his son, the mother declared the truth,
+1398b3	and at Thebes, when Ismenias and Stilbon
+1398b4	disputed, the woman of Dodona showed that he was Ismenias'
+1398b5	son, and for this reason they held Thettaliscus to be Ismenias' son.
+1398b6	And again from the Law of Theodectes: “If people do not hand over their own horses
+1398b7	to those who have taken bad care of other people's,
+1398b8	nor ⟨their own ships⟩ to those who have capsized other people's ships,
+1398b9	then, if it is the same in all cases, one should not use those who have guarded
+1398b10	other people's safety badly for one's own.”
+1398b11	And as Alcidamas argued that all men honor the wise: “The Parians
+1398b12	at any rate have honored Archilochus, though he was a slanderer, and the Chians
+1398b13	Homer, though he was not a citizen, and the Mytilenaeans Sappho, though she
+1398b14	was a woman, and the Lacedaemonians made Chilon one of their elders,
+1398b15	though they are the least fond of letters, and the Italiots honored Pythagoras,
+1398b16	and the Lampsacenes buried Anaxagoras, though he was a foreigner, and honor him
+1398b17	still to this day, and the Athenians prospered when they used the laws of Solon,
+1398b18	and the Lacedaemonians when they used those of Lycurgus, and at Thebes,
+1398b19	as soon as the leaders became philosophers, the city
+1398b20	prospered.” Another is from a judgment on the same or a like
+1398b21	or an opposite question, above all if everyone always judged so; if
+1398b22	not, at least most people, or the wise, either all or
+1398b23	most of them, or the good, or if the judges themselves did,
+1398b24	or those whom the judges accept, or those against whom one cannot
+1398b25	judge, for instance those in authority, or those against whom it is not noble
+1398b26	to judge, for instance gods or a father or teachers: as
+1398b27	Autocles said against Mixidemides, that it was right for the Dread Goddesses
+1398b28	to submit to justice on the Areopagus, but not for Mixidemides.
+1398b29	Or as Sappho said, that dying is an evil; for the gods
+1398b30	have so judged, or they would die. Or as Aristippus
+1398b31	said to Plato, when he spoke, as he thought, rather too boastfully: “Well,
+1398b32	our friend at any rate,” he said, “said nothing of the sort,” meaning
+1398b33	Socrates. And Hegesipolis at Delphi, after first consulting the oracle
+1398b34	at Olympia, asked the god whether he thought the same as his father,
+1399a1	since it would be shameful to say the opposite. And about Helen,
+1399a2	as Isocrates wrote that she was good, if Theseus chose her;
+1399a3	and about Alexander, that the goddesses preferred him; and
+1399a4	about Evagoras, that he was good, as Isocrates says:
+1399a5	“Conon at any rate, in his misfortune, passing over all the others,
+1399a6	came to Evagoras.” Another is from the parts,
+1399a7	as in the Topics, what kind of motion the soul is; for it is this
+1399a8	or that. An example from the Socrates of
+1399a9	Theodectes: “Against what sanctuary has he committed impiety? Which of the gods
+1399a10	that the city recognizes has he not honored?” Another, since in
+1399a11	most cases it happens that something good and something bad follow
+1399a12	the same thing, is to exhort or
+1399a13	dissuade, accuse or defend, praise or
+1399a14	blame from the consequence: for instance, “Envy follows education,
+1399a15	and that is ⟨an⟩ evil, but being wise is a good; so one should not
+1399a16	be educated, for one should not be envied; rather, one should be educated,
+1399a17	for one should be wise.” This topic is the art of Callippus,
+1399a18	with the addition of the possible and the other things mentioned.
+1399a19	Another, when one must exhort or dissuade about two
+1399a20	opposed things, is to use the method stated before for
+1399a21	both. The difference is that there any things at all
+1399a22	are set against each other, here opposites: for instance, a priestess would not let her son
+1399a23	speak to the assembly: “For if you say what is just,” she said, “men
+1399a24	will hate you, and if what is unjust, the gods; rather, one should
+1399a25	speak to the assembly; for if you say what is just, the gods will
+1399a26	love you, and if what is unjust, men.” This
+1399a27	is the same as the saying about buying the marsh and the salt;
+1399a28	and this is blaisōsis, when good and bad follow each of two
+1399a29	opposites, each opposite to the other.
+1399a30	Another, since people do not praise the same things openly and
+1399a31	in secret, but in public they praise most the just and the noble,
+1399a32	while in private they rather wish for what is
+1399a33	advantageous, is to try to infer one of the two from these;
+1399a34	for among paradoxes this topic is the most effective.
+1399a35	Another is from the fact that things correspond by analogy: for instance,
+1399a36	Iphicrates, when they tried to compel his son, who was under age,
+1399a37	to perform a public service because he was tall, said
+1399a38	that if they consider tall boys men,
+1399a39	they will vote that short men are boys;
+1399b1	and Theodectes in the Law: “You make citizens
+1399b2	of mercenaries such as Strabax and Charidemus
+1399b3	because of their decency; will you not make exiles of those
+1399b4	among the mercenaries who have done irreparable wrongs?”
+1399b5	Another is that if the consequence is the same, the things
+1399b6	from which it follows are the same: for instance, Xenophanes said that those who say
+1399b7	the gods are born are as impious as those who say they
+1399b8	die; for both ways it follows that at some time the gods do
+1399b9	not exist. And in general to take the consequence of each as
+1399b10	always the same: “You are going to judge not about
+1399b11	Isocrates but about a pursuit, whether one should practice philosophy.”
+1399b12	And that giving earth and water is slavery,
+1399b13	and that sharing in the common peace is doing what is
+1399b14	commanded. One must take whichever of the two is useful.
+1399b15	Another is from the fact that people do not always choose the same things later and earlier,
+1399b16	but the reverse: for instance, this enthymeme: “When we were in exile
+1399b17	we fought to return; now that we have returned, shall we go into exile
+1399b18	so as not to fight?” For at one time they chose to stay at home at the cost of fighting,
+1399b19	at another not to fight at the cost of not staying.
+1399b20	Another is to say that the purpose for which something might be or come about
+1399b21	is the purpose for which it is or has come about: for instance, if someone
+1399b22	were to give a man something in order to cause him pain by taking it away; whence
+1399b23	this has been said: “To many the deity gives
+1399b24	great good fortune, not out of goodwill, but
+1399b25	so that they may suffer more conspicuous disasters.” And
+1399b26	the lines from the Meleager of Antiphon: “Not
+1399b27	to kill the beast, but to be witnesses to the valor
+1399b28	of Meleager before Greece.” And the argument from the
+1399b29	Ajax of Theodectes, that Diomedes chose
+1399b30	Odysseus not to honor him but so that his follower might be inferior;
+1399b31	for it is possible that he did it for this reason. Another, common
+1399b32	to litigants and advisers alike,
+1399b33	is to consider what exhorts and dissuades, and
+1399b34	the reasons why people act and avoid acting; for these
+1399b35	are the things which, if they are present, one should act, and if they are not,
+1399b36	not act: for instance, if it is possible and easy and beneficial,
+1399b37	either to oneself or to friends, or harmful to enemies, or, if it is costly,
+1399b38	if the cost is less than the gain; and people are exhorted
+1399b39	from these, and dissuaded from the opposites.
+1400a1	From these same things people both accuse and
+1400a2	defend: they defend from what dissuades,
+1400a3	and accuse from what exhorts. This topic
+1400a4	is the whole art both of Pamphilus and of Callippus.
+1400a5	Another is from things that are thought to happen but are incredible: that people would not
+1400a6	have thought so if it were not so, or nearly so. And that it is all the more likely; for people
+1400a7	suppose either what is or what is probable; if, then, it is incredible and not
+1400a8	probable, it would be true; for it is not because it is probable and persuasive
+1400a9	that it seems so: as Androcles of Pitthus said when he was accusing
+1400a10	the law, and they shouted him down when he said, “The laws
+1400a11	need a law to correct them; so too fish
+1400a12	need salt, though it is neither probable nor persuasive that creatures raised in brine
+1400a13	should need salt, and olive-cakes need oil, though
+1400a14	it is incredible that what oil comes from should need oil.”
+1400a15	Another, refutative, is to look at what is inconsistent, if anything
+1400a16	is inconsistent in places, times, actions or words,
+1400a17	separately in the case of the opponent, for instance, “He says
+1400a18	he loves you, yet he conspired with the Thirty”; separately
+1400a19	in one's own case, “He says I am litigious, yet he cannot
+1400a20	show that I have ever brought a single suit”; and separately in the case of
+1400a21	oneself and the opponent, “This man
+1400a22	has never lent anything, while I have even ransomed many of you.”
+1400a23	Another, for men and things that have been slandered
+1400a24	beforehand, or seem to have been, is to state the cause of the paradox;
+1400a25	for there is something because of which it appears so: for instance, a woman had passed off
+1400a26	her own son as another's, and because she embraced him she seemed to be living with the
+1400a27	youth; but when the cause was stated the slander was dissolved;
+1400a28	and as in the Ajax of Theodectes, Odysseus tells
+1400a29	Ajax why, though he is braver than Ajax, he does not seem so.
+1400a30	Another is from the cause: if it is present, that the thing is, and if it is not
+1400a31	present, that it is not; for the cause and that of which it is the cause go together, and
+1400a32	without a cause nothing exists: as Leodamas said in his defense,
+1400a33	when Thrasybulus accused him of having had his name on a stele
+1400a34	on the Acropolis, but of having had it cut out under the Thirty: he said
+1400a35	it was impossible; for the Thirty would have trusted him more if his enmity
+1400a36	toward the people had been inscribed. Another is to see whether it was possible to do better otherwise, or
+1400a37	is possible, in the matters on which a man advises or acts or has acted; for it is clear that
+1400b1	if [not] so, he has not done it; for no one willingly
+1400b2	and knowingly chooses what is bad. But this
+1400b3	is false; for often it becomes clear later
+1400b4	how one could have acted better, though it was unclear before.
+1400b5	Another, when something is about to be done that is opposite to what has been done,
+1400b6	is to look at both together: as Xenophanes advised the Eleates, when they asked whether they should sacrifice
+1400b7	to Leucothea and lament her or not, that if they
+1400b8	suppose her a goddess they should not lament her, and if a woman, they should not sacrifice to her. Another
+1400b9	topic is to accuse or defend from the mistakes made:
+1400b10	as in the Medea of Carcinus some accuse her of having
+1400b11	killed her children, since at any rate they are not to be seen (for
+1400b12	Medea made a mistake in sending the children away), and she
+1400b13	defends herself by saying that she would have killed not the children but Jason;
+1400b14	for it would have been a mistake not to do this, if she
+1400b15	had really done the other. This topic of
+1400b16	enthymeme, and this kind, is the whole of Theodorus' former
+1400b17	art. Another is from the name: as Sophocles,
+1400b18	“Clearly of iron, and bearing the name”; and as people
+1400b19	usually speak in the praises of the gods; and as
+1400b20	Conon called Thrasybulus the bold in counsel, and Herodicus said to Thrasymachus,
+1400b21	“You are always bold in fight,” and to Polus, “You are always a colt,” and
+1400b22	of Draco the lawgiver, that his laws were not a man's
+1400b23	but a dragon's (for they were harsh); and as Euripides' Hecuba says of
+1400b24	Aphrodite, “And rightly does the goddess's name begin with folly,”
+1400b25	and as Chaeremon says, “Pentheus, named for the grief to come.”
+1400b26	Of enthymemes, the refutative are more admired than the
+1400b27	demonstrative, because the refutative enthymeme is a bringing together
+1400b28	of opposites in a small space, and things side by side are clearer
+1400b29	to the hearer. Of all syllogisms, refutative and
+1400b30	demonstrative, those are most applauded
+1400b31	whose conclusion people foresee from the start, provided they are not superficial (for at the same time
+1400b32	they are pleased with themselves for anticipating it), and those
+1400b33	in which they are so far behind that they understand as soon as they are stated.

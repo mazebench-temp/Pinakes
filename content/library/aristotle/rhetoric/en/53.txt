@@ -1,0 +1,65 @@
+# Aristotle, Rhetoric, Book III, Chapter 12 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1413b3	It must not escape our notice that a different style suits each kind.
+1413b4	The written style and the style of debate are not the same, nor are the style of speaking to the assembly
+1413b5	and the judicial. One must know both: the one is
+1413b6	knowing how to speak good Greek, the other is not being forced to keep silent
+1413b7	when one wants to share something with others, which is
+1413b8	what happens to those who do not know how to write. The written style
+1413b9	is the most precise, and the style of debate the most suited to delivery
+1413b10	(it has two kinds, the one that shows character and the emotional);
+1413b11	that is why actors seek out plays of this kind,
+1413b12	and poets actors of this kind. But poets who are good to read
+1413b13	are carried about in people's hands, like Chaeremon (for he is precise, like a speechwriter),
+1413b14	and Licymnius among the writers of dithyrambs. When compared,
+1413b15	the speeches of writers seem thin in debates,
+1413b16	and those of orators, though they were well spoken, seem amateurish when held in
+1413b17	the hand. The reason is that in debate what suits delivery is fitting;
+1413b18	that is why, when delivery is taken away, such things do not do their
+1413b19	work and seem silly: asyndeta, for example, and saying the same thing
+1413b20	many times are rightly rejected in the written style, but in
+1413b21	the style of debate they are not, and orators use them, for they are
+1413b22	suited to delivery. When saying the same thing one must vary it, which, as it were,
+1413b23	paves the way for delivery: “This is the man who robbed you,
+1413b24	this is the man who deceived you, this the man who in the end tried
+1413b25	to betray you”; so the actor Philemon did in
+1413b26	Anaxandrides' Old Men's Madness whenever he said “Rhadamanthus
+1413b27	and Palamedes”, and with the “I” in the prologue of the Pious;
+1413b28	for if one does not act such things, one becomes “the man carrying
+1413b29	the beam”. Likewise with asyndeta: “I came, I met him,
+1413b30	I begged”; for they must be acted, and not said as one thing with the
+1413b31	same character and tone. Asyndeta have a further peculiarity: in
+1413b32	the same time many things seem to have been said; for the connective makes many things
+1413b33	one, so that if it is taken out, clearly the opposite will happen:
+1413b34	the one will be many. So it has amplification: “I came, I talked with him, I entreated”
+1414a1	(it seems many things), “he disregarded all I said”. This is
+1414a2	what Homer too wants to do in “Nireus from Syme,
+1414a3	Nireus, son of Aglaea, Nireus, the most handsome.” For a man about whom
+1414a4	much is said must be named often;
+1414a5	so if he is named often, much seems to be said; and so Homer has amplified him,
+1414a6	though he mentions him only once, through this false inference, and has made him
+1414a7	memorable, though he never speaks of him again anywhere afterward.
+1414a8	The style of speaking to the assembly is exactly like
+1414a9	shadow-painting: the larger the crowd, the more distant the
+1414a10	view, so that precision is wasted and looks worse in
+1414a11	both; the judicial style is more precise, and still more so the style before
+1414a12	a single judge, for there is very little room for rhetoric in it: what
+1414a13	belongs to the case and what is foreign to it are more easily seen, and
+1414a14	there is no contest, so that the judgment is unclouded. That is why the same
+1414a15	orators are not well liked in all of these: where
+1414a16	delivery counts most, there precision is least present; and this
+1414a17	is where voice is needed, and above all a loud voice. The
+1414a18	epideictic style is the most suited to writing, for its function
+1414a19	is to be read; second comes the judicial. To distinguish style further,
+1414a20	saying that it should be pleasant and magnificent,
+1414a21	is superfluous; for why that rather than self-controlled and generous, or any
+1414a22	other virtue of character? What has been said will clearly make it
+1414a23	pleasant, if the excellence of style has been rightly defined;
+1414a24	for why else should it be clear and not mean but
+1414a25	appropriate? If it is verbose, it is not clear, nor if
+1414a26	it is curt; clearly the mean is what suits. And what has been said
+1414a27	will make it pleasant, if it is well mixed: the usual and the
+1414a28	unfamiliar, and rhythm, and the persuasive that comes from the appropriate.
+1414a29	So much, then, for style, both in general for all kinds
+1414a30	and in particular for each; it remains to speak of arrangement.

@@ -7,7 +7,7 @@ summary: Learning the will of the gods from signs, such as the flight of birds, 
 aliases: [seer, seers, soothsaying, mantis, augury]
 grc: [μαντ*, θεοπροπ*, ὀνειροπόλον, ὄναρ, οἰωνοπόλων]
 # κακὸν ὄναρ at 10.496 is Diomedes standing over Rhesus, not a dream sent as a sign.
-except: [10.496]
+except: [10.496, Rhetoric 1398b1]
 en: [seer, bird-seers, gift of prophecy, prophet, to prophesy evil]
 passages:
   - 1.62-67 | Achilles proposes to ask a seer

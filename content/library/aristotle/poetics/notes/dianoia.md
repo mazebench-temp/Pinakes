@@ -4,7 +4,7 @@ grc: [διανο*]
 en: [thought, thoughts]
 ---
 
-The people acting are of a certain kind in their character and their thought (1449b36–38), and thought is found “in all the places where in speaking they demonstrate something or declare an opinion” (1450a6–7). It comes third, after plot and character:
+The people acting are of a certain kind in their character and their thought (1449b36–38), and thought is found “all the places where in speaking they demonstrate something or declare an opinion” (1450a6–7). It comes third, after plot and character:
 
 {{quote:26a03b2e-e114-5f69-b629-f1f1a2972b7f}}
 

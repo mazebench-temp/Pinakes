@@ -1,0 +1,100 @@
+# Aristotle, Rhetoric, Book I, Chapter 13 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1373b1	Let us classify all wrongs and just acts,
+1373b2	beginning first from this. Just and
+1373b3	unjust acts have been defined in relation to two laws and to persons in two ways. By
+1373b4	law I mean on the one hand particular, on the other common: particular, the
+1373b5	law that each people has defined for itself, and this partly
+1373b6	unwritten and partly written; common, the law according to nature. For there is
+1373b7	something that all divine, a justice and injustice common by nature,
+1373b8	even where there is no association or
+1373b9	covenant between people, as Sophocles' Antigone clearly says
+1373b10	that it is just, though forbidden, to bury Polynices,
+1373b11	as being just by nature: “For this is not
+1373b12	of today or yesterday; it lives forever,
+1373b13	and no one knows from when it appeared”; and as Empedocles
+1373b14	says about not killing what has life;
+1373b15	for this is not just for some and unjust for others, “but the
+1373b16	law of all stretches without a break through the wide-ruling air and through
+1373b17	the boundless light”; and as Alcidamas says in his Messenian Speech,
+1373b18	“God has left all men free; nature has made no one a slave.”
+1373b19	In relation to persons there is a twofold distinction; for what one must do and not do is defined
+1373b20	in relation either to the community or to one of its members;
+1373b21	so with wrongs and just acts there are two ways
+1373b22	of doing wrong and doing right: either toward one defined person
+1373b23	or toward the community; for the adulterer and the man who strikes another wrong
+1373b24	some defined person, while the man who does not serve in the army wrongs the community.
+1373b25	All wrongs being thus divided, some
+1373b26	against the community and others against another or others,
+1373b27	let us recall what being wronged is and speak of it. Being
+1373b28	wronged is suffering unjust things at the hands of one acting voluntarily; for doing wrong
+1373b29	was defined earlier as voluntary. And since the one
+1373b30	wronged must be harmed, and harmed against his will, the
+1373b31	harms are clear from what was said before; for goods and
+1373b32	evils in themselves were discussed earlier, and voluntary acts too,
+1373b33	that they are those done knowingly; so all charges must be
+1373b34	either public or private, and against one who acted either in ignorance
+1373b35	and involuntarily or voluntarily and knowingly, and of the latter some
+1373b36	by choice and some through emotion. Temper will be discussed
+1373b37	under the emotions; what people choose and in what state
+1373b38	has been said before. And since people often admit having done something
+1374a1	but do not admit the charge's name or what the name covers,
+1374a2	saying, for instance, that they took but did not steal, struck first
+1374a3	but did not commit outrage, had intercourse but did not commit adultery,
+1374a4	or stole but did not rob a temple (for the thing was not a god's),
+1374a5	or encroached on land but not on public land, or talked
+1374a6	with the enemy but did not betray them, for this reason we should
+1374a7	define these too: what theft is, what outrage, what
+1374a8	adultery, so that whether we wish to show that it applies or that it does not,
+1374a9	we may be able to make the just plain. All
+1374a10	such disputes are about whether a man is unjust and bad or not unjust;
+1374a11	for depravity and wrongdoing lie in the choice,
+1374a12	and such names as these also signify the
+1374a13	choice, as outrage and theft do; for if a man struck someone, he did not necessarily
+1374a14	commit outrage, but only if he did it for some purpose, such as to dishonor the other or
+1374a15	to please himself. Nor, if he took something secretly, did he necessarily steal,
+1374a16	but only if he took it to harm the one he took it from and to appropriate it
+1374a17	for himself. And it is the same with the rest as
+1374a18	with these. Since there were two kinds of just and unjust
+1374a19	acts (some written, some unwritten),
+1374a20	and those that the laws pronounce on have been discussed, there are two kinds
+1374a21	of unwritten ones: some are a matter of excess of virtue
+1374a22	and vice, for which there are reproaches and praises, dishonors and
+1374a23	honors and rewards (being grateful to a benefactor, for instance, and
+1374a24	doing good in return to the one who did good, and being ready to help one's
+1374a25	friends, and the like); others make up what the particular
+1374a26	written law leaves out. For equity seems to be just,
+1374a27	and equity is justice that goes beyond the written
+1374a28	law. This comes about partly with the lawgivers' consent, partly
+1374a29	against it: against it when something escapes them; with it
+1374a30	when they cannot define precisely, but must speak universally
+1374a31	where the matter is not universal but holds for the most part; and in cases that are not easy
+1374a32	to define because they are endless, such as wounding with an iron of what size
+1374a33	and of what kind; for a lifetime would run out in enumerating them. If,
+1374a34	then, the matter is indefinite, but a law must be made, one must speak in general terms,
+1374a35	so that if a man wearing a ring lifts his hand or strikes,
+1374a36	by the written law he is liable and does wrong,
+1374b1	but in truth he does no wrong, and this is equity.
+1374b2	If equity is what has been described, it is clear what sorts of acts are
+1374b3	equitable and not equitable, and what sort of people are not equitable;
+1374b4	for acts one should pardon are equitable, and it is equitable
+1374b5	not to count errors and wrongs as equal, nor
+1374b6	errors and misfortunes. For misfortunes
+1374b7	are acts that are unexpected and do not come from depravity; errors,
+1374b8	those that are not unexpected and do not come from wickedness; wrongs,
+1374b9	those that are not unexpected and do come from wickedness; for acts done from
+1374b10	appetite come from wickedness. And to pardon human
+1374b11	failings is equitable. And to look not to the law but
+1374b12	to the lawgiver, and not to the words but
+1374b13	to the intention of the lawgiver; and not to
+1374b14	the action but to the choice; and not to
+1374b15	the part but to the whole; nor to what sort of man someone is now, but
+1374b16	what sort he has always or for the most part been. And to remember
+1374b17	the good one has received rather than the bad, and the good one has received
+1374b18	rather than the good one has done. And to bear being wronged.
+1374b19	And to be willing to settle matters by words rather than by deeds. And to
+1374b20	prefer going to arbitration rather than to court; for the
+1374b21	arbitrator looks to equity, the juror to the law; and
+1374b22	the arbitrator was invented for this purpose, that equity might prevail.
+1374b23	Let this be our account of what is equitable.

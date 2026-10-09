@@ -1,0 +1,107 @@
+# Aristotle, Rhetoric, Book II, Chapter 21 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1394a19	As for the use of maxims, once it has been said what a maxim is, it will be
+1394a20	clearest about what kinds of things, and when, and for whom it is fitting
+1394a21	to use maxims in speeches. A maxim is
+1394a22	a statement, not, however, about particulars, for instance what sort of man
+1394a23	Iphicrates is, but about universals; nor about all things, for instance that the
+1394a24	straight is opposite to the curved, but about the things that are matters of action,
+1394a25	and ⟨what⟩ is to be chosen or avoided with a view to
+1394a26	action; so that, since the enthymeme is the syllogism about such
+1394a27	things, the conclusions
+1394a28	and the premises of enthymemes, once the
+1394a29	syllogism is removed, are pretty much maxims: for instance,
+1394a30	“No man who is sound of mind should ever
+1394a31	have his children taught to be too wise.”
+1394a32	This, then, is a maxim; but when the cause
+1394a33	and the reason why are added, the whole is an enthymeme:
+1394a34	for instance, “For besides the idleness they are charged with,
+1394a35	they win hostile envy from the citizens”;
+1394b1	and “There is no man
+1394b2	who is happy in all things,”
+1394b3	and “There is no man
+1394b4	who is free”
+1394b5	is a maxim, but together with what follows it is an enthymeme: “for
+1394b6	he is a slave either of money or of fortune.” If a maxim is what
+1394b7	has been said, there must be four kinds of maxim; for it
+1394b8	will be either with a supplement or without a supplement. Those that
+1394b9	need demonstration are all that say something paradoxical
+1394b10	or disputed; those that say nothing paradoxical are without
+1394b11	a supplement. Of these, some must need no supplement because they are known
+1394b12	beforehand: for instance, “For a man
+1394b13	health is best, as it seems to me at least” (for it seems so
+1394b14	to most people); others are clear as soon as they are spoken
+1394b15	to anyone who looks at them: for instance,
+1394b16	“No one is a lover who does not love always.”
+1394b17	Of those with a supplement, some
+1394b18	are part of an enthymeme, like
+1394b19	“No man who is sound of mind should ever,”
+1394b20	and others are enthymematic, but not part of an enthymeme;
+1394b21	these are the ones most admired. They are those in
+1394b22	which the cause of what is said is apparent: for instance,
+1394b23	“Do not keep your anger immortal, being mortal”; for to
+1394b24	say “one should not keep it” is a maxim, and the addition
+1394b25	“being mortal” is the reason why. Likewise, “Mortal things
+1394b26	a mortal should think, not immortal things.” It is clear,
+1394b27	then, from what has been said, how many kinds of maxim there are, and to what
+1394b28	each is suited: about what is disputed
+1394b29	or paradoxical, not without a supplement; rather, one should either put the
+1394b30	supplement first and use the conclusion as a maxim (for instance, if one were to say,
+1394b31	“For my part, since one should neither be envied nor be idle,
+1394b32	I say one should not be educated”), or say this first and add
+1394b33	what came before; about what is not paradoxical but is unclear, one should add
+1394b34	the reason as tersely as possible. In such cases
+1394b35	Laconic sayings and riddling ones are also suitable,
+1395a1	for instance if one says what Stesichorus said at Locri, that they
+1395a2	should not be given to outrage, so that the cicadas may not sing from the ground. It is fitting
+1395a3	to speak in maxims for those older in age, and about matters in which
+1395a4	one is experienced; so that for one not of that age speaking in maxims
+1395a5	is unbecoming, as telling stories is, and about matters in which one is inexperienced
+1395a6	it is silly and uneducated. A sufficient sign: rustics
+1395a7	are the greatest coiners of maxims and readily declare their views.
+1395a8	To speak universally of what is not universal is most fitting in
+1395a9	protest and exaggeration, and in these either at the beginning or
+1395a10	after the demonstration. One should also use hackneyed
+1395a11	and common maxims, if they are useful; for because
+1395a12	they are common, as if everyone agreed, they seem
+1395a13	right; for instance, for one exhorting men to face danger without
+1395a14	having sacrificed, “One omen is best: to fight in defense of our native land,”
+1395a15	and if they are weaker, “Enyalius is impartial,”
+1395a16	and for destroying the enemies' children
+1395a17	though they have done no wrong, “A fool, who kills the father
+1395a18	and leaves the children.” Further, some
+1395a19	proverbs are maxims too, for instance the proverb
+1395a20	“an Attic neighbor.” One should also speak maxims that go against
+1395a21	sayings that have become public property (I mean by public property, for instance, “Know yourself”
+1395a22	and “Nothing too much”), when either one's character is going to appear
+1395a23	better or the maxim is spoken with emotion. An emotional maxim is, for instance, if
+1395a24	someone in anger were to say that it is false that one should know oneself:
+1395a25	this man at any rate, if he had known himself, would never have thought himself fit to
+1395a26	be general; character appears better if one says that one should not, as they say, love as though
+1395a27	one will hate, but rather hate as though one will love. One should
+1395a28	make one's choice clear by the diction, or if not, add the reason:
+1395a29	for instance, by saying, “One should love, not as they say,
+1395a30	but as though one will love always; for the other belongs to a schemer,” or
+1395a31	thus: “I do not like the saying; for the
+1395a32	true friend should love as though he will love always,” and “Nor
+1395a33	do I like ‘Nothing too much’; for the bad, at least, one should hate too much.”
+1395b1	Maxims are of great help in speeches, first because of
+1395b2	the vulgarity of the hearers; for they are pleased if someone speaking in general terms
+1395b3	hits upon the opinions they hold about particular cases. What
+1395b4	I mean will be clear from this, and at the same time how one should hunt for maxims.
+1395b5	A maxim, as has been said, is a general statement,
+1395b6	and people are pleased when something is said in general terms that they
+1395b7	already happen to suppose in particular; for instance, if someone happens to have bad neighbors or
+1395b8	bad children, he would welcome one who said that nothing
+1395b9	is more troublesome than neighbors, or nothing more foolish than having children;
+1395b10	so one must guess what sort of things they happen to suppose already,
+1395b11	and then speak about these in general terms. This is
+1395b12	one use of speaking in maxims, and there is another, greater: it makes speeches
+1395b13	show character. Speeches have character when
+1395b14	the choice is clear; and all maxims do this, because
+1395b15	the one who speaks a maxim makes a general statement about
+1395b16	choices, so that, if the maxims are good, they
+1395b17	make the speaker appear of good character too. About
+1395b18	the maxim, then, what it is, how many kinds of it there are, how
+1395b19	it should be used, and what benefit it has, let this be enough.

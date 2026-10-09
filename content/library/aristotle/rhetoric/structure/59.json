@@ -1,0 +1,16 @@
+{
+  "scenes": [
+    {"from": "1418b40", "to": "1419a19", "title": "When to Question", "summary": "Interrogation is opportune when one more question exposes an absurdity, as Pericles asked Lampon about the rites and Socrates asked Meletus whether daimones are children of gods; when the opponent can be shown to contradict himself or say something paradoxical; or when he can answer only sophistically. Otherwise it fails, for the hearer cannot follow many questions."},
+    {"from": "1419a20", "to": "1419b1", "title": "How to Answer", "summary": "Answer ambiguous questions with distinctions and apparent contradictions with the solution at once. When the conclusion is put as a question, give the reason, as Sophocles answered Pisander about the Four Hundred and the Laconian ephor answered his auditor; and do not ask one question too many."},
+    {"from": "1419b2", "to": "1419b9", "title": "The Laughable", "summary": "Jests have their use in debate: Gorgias was right that one should spoil the opponents' seriousness with laughter and their laughter with seriousness. The kinds of the laughable are in the books on poetics; irony befits a free man better than buffoonery, for the ironist jokes for his own sake, the buffoon for another's."}
+  ],
+  "quotations": [
+    {"from": "1419a5", "to": "1419a5", "source": "pericles", "entry": "erotesis", "cite": "Pericles to Lampon"},
+    {"from": "1419a11", "to": "1419a12", "source": "socrates", "entry": "erotesis", "cite": "Socrates to Meletus", "marks": 2},
+    {"from": "1419a28", "to": "1419a30", "source": "sophocles", "entry": "erotesis", "cite": "Sophocles and Pisander", "marks": 4},
+    {"from": "1419a32", "to": "1419a35", "entry": "erotesis", "cite": "a Laconian ephor at his audit", "marks": 5},
+    {"from": "1419b4", "to": "1419b5", "source": "gorgias", "entry": "geloion", "cite": "a saying of Gorgias", "marks": 0}
+  ],
+  "speeches": [],
+  "days": []
+}

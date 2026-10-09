@@ -37,4 +37,4 @@ A king, he says, may swallow his χόλος the same day, but he keeps κότο�
 
 ## Outside Homer
 
-Aristotle's account of anger in the *Rhetoric* (2.2, 1378a30–b10) defines it as a painful desire for revenge for an apparent slight, and supports the pleasure that goes with it by quoting Iliad 18.109–110, anger “far sweeter than dripping honey”. The same chapter quotes Book 1 twice: Achilles' complaint that Agamemnon “has dishonored me” (1.356), and Calchas' line on the grudge that kings keep (1.82). See [[aristotle-anger]].
+Aristotle's account of anger in the *Rhetoric* (2.2, 1378a30–1378b10) defines it as a painful desire for revenge for an apparent slight, and supports the pleasure that goes with it by quoting Iliad 18.109–110, anger “far sweeter than dripping honey”. The same chapter quotes Book 1 twice: Achilles' complaint that Agamemnon “has dishonored me” (1.356; *Rhetoric* 1378b32–33), and Calchas' line on the grudge that kings keep (1.82; *Rhetoric* 1379a5–6). See [[aristotle-anger]] and [[orge]].

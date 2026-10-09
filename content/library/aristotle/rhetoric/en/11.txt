@@ -1,0 +1,151 @@
+# Aristotle, Rhetoric, Book I, Chapter 11 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1369b33	Let us assume that pleasure is a certain movement of the soul,
+1369b34	a sudden and perceptible settling down into its natural
+1369b35	state, and pain the opposite. If pleasure is something of this kind,
+1370a1	it is clear that what produces the condition described
+1370a2	is pleasant, and what destroys it, or produces the opposite settling,
+1370a3	is painful. So it must be pleasant, for the most part, to move into a state
+1370a4	according to nature, and most of all when the processes that accord with it have recovered
+1370a5	their own nature; and habits are pleasant
+1370a6	(for what has become habitual becomes, as it were, natural; for habit
+1370a7	is something like nature: “often” is close to
+1370a8	“always,” and nature belongs to “always,” habit to
+1370a9	“often”); and what is not forced (for force is contrary to nature, which is why
+1370a10	the necessary is painful, and it was rightly said, “For every
+1370a11	necessary thing is by nature grievous”); while attentions,
+1370a12	efforts and exertions are painful, for they are necessary
+1370a13	and forced, unless people are used to them; then habit
+1370a14	makes them pleasant. Their opposites are pleasant; that is why ease,
+1370a15	freedom from toil, carelessness, amusements, rest
+1370a16	and sleep are among pleasant things, for none of these is done under necessity.
+1370a17	And everything for which there is appetite is pleasant; for appetite
+1370a18	is longing for the pleasant. Of appetites some are irrational,
+1370a19	others rational. By irrational I mean those that do not come from
+1370a20	forming a belief (such are those said to be
+1370a21	natural, like those that come through the body, such as
+1370a22	thirst and hunger for nourishment, and for each kind of nourishment
+1370a23	a kind of appetite; and those concerned with taste and sex
+1370a24	and touch in general, and with smell [of fragrance] and hearing and
+1370a25	sight); rational, those that come from being persuaded;
+1370a26	for people long to see and acquire many things because they have heard of them
+1370a27	and been persuaded. Since being pleased lies in
+1370a28	perceiving a certain feeling, and imagination is a kind of weak
+1370a29	perception, there will always be in one who remembers and one who hopes
+1370a30	some image of what he remembers or hopes for; and if so,
+1370a31	it is clear that there are pleasures too for those who remember and hope, since
+1370a32	there is perception; so all pleasant things must lie either in
+1370a33	perceiving them present, or remembering them past, or
+1370a34	hoping for them future; for people perceive the present,
+1370a35	remember the past, and hope for the future.
+1370b1	Things remembered are pleasant, then, not only those that were pleasant
+1370b2	at the time, when they were present, but some that were not, if
+1370b3	what came after was noble and good; hence
+1370b4	this saying: “It is sweet to remember toils when one is safe,”
+1370b5	and “For a man takes delight even in his sorrows afterward, remembering,
+1370b6	one who has suffered much and done much.” The reason
+1370b7	is that not having an evil is also pleasant. Things hoped for are pleasant when
+1370b8	their presence seems likely to delight or benefit greatly, and
+1370b9	to benefit without pain. In general, things that delight when present delight
+1370b10	us for the most part when we hope for them and remember them. That is why even
+1370b11	being angry is pleasant, as Homer wrote of temper,
+1370b12	“which is far sweeter than dripping honey” (for no one
+1370b13	is angry with someone on whom it seems impossible to get revenge,
+1370b14	and with those far above them in power people are either not angry or
+1370b15	less so); and with most appetites some pleasure
+1370b16	goes along; for remembering how they got something, or hoping that they will get it,
+1370b17	they feel a certain pleasure: those in fevers who are gripped
+1370b18	by thirst enjoy remembering how they drank and hoping they will drink,
+1370b19	and lovers are always glad to talk or write
+1370b20	or do something about the beloved; for in
+1370b21	all such things, remembering, they seem to perceive
+1370b22	the beloved. And this is the beginning of love
+1370b23	in everyone: when they not only delight in the beloved present but also, when he is absent,
+1370b24	remembering, feel pain that he is not there.
+1370b25	And likewise in mourning and lamentation some pleasure
+1370b26	arises; for the pain is at his not being there, the pleasure
+1370b27	in remembering him and in a way seeing him, what he did
+1370b28	and what he was like; that is why this too was fittingly said: “So
+1370b29	he spoke, and in all of them he stirred the longing for lament.”
+1370b30	And revenge is pleasant; for where failing to get a thing is painful,
+1370b31	getting it is pleasant; and the angry are pained beyond measure if they do not
+1370b32	get revenge, and rejoice when they hope to. And winning is pleasant,
+1370b33	not only to lovers of victory but to all; for there arises an image of superiority,
+1370b34	which all have an appetite for, either mildly or strongly. And since
+1370b35	winning is pleasant, games of combat and of contest must be pleasant
+1371a1	(for in these there is often winning),
+1371a2	and knucklebones and ball games and dice and
+1371a3	draughts. And with serious games
+1371a4	it is the same: some become pleasant once a person is
+1371a5	used to them, others are pleasant at once, such as hunting with dogs and all
+1371a6	hunting; for where there is competition there is victory too. That is why
+1371a7	pleading in court and disputation are pleasant to those used to them and
+1371a8	good at them. And honor and good reputation are among the most pleasant things, because
+1371a9	each man imagines that he is such as a man of worth is,
+1371a10	and the more so when those say it whom he thinks truthful. Such
+1371a11	are those near rather than those far off, acquaintances and
+1371a12	fellow citizens rather than strangers, contemporaries rather than posterity,
+1371a13	the wise rather than the foolish, many rather than few; for those named are more likely
+1371a14	to tell the truth than their opposites; since for those whom one greatly
+1371a15	despises, such as children or animals, one cares nothing for their
+1371a16	honor or regard, at least not for the regard itself, but
+1371a17	if at all, for some other reason. A friend too is among pleasant things; for
+1371a18	loving is pleasant (no one is fond of wine who does not enjoy wine), and
+1371a19	being loved is pleasant; for here too there is an image of one's own
+1371a20	being good, which all who have perception desire;
+1371a21	and being loved is being cherished for one's own sake.
+1371a22	Being admired is pleasant for the same reason as being honored. Being
+1371a23	flattered and the flatterer are pleasant; for the flatterer is an apparent admirer
+1371a24	and an apparent friend. And doing the same things
+1371a25	often is pleasant, for the familiar was pleasant. And change
+1371a26	is pleasant; for change brings a return to nature,
+1371a27	since sameness always produces an excess of the settled state;
+1371a28	hence it was said, “Change in all things is sweet.” For this reason
+1371a29	too what comes at intervals is pleasant, both people and
+1371a30	things; for it is a change from the present, and at the same time
+1371a31	what comes at intervals is rare. Learning and wondering are pleasant
+1371a32	for the most part; for in wondering there is the desire to learn,
+1371a33	so that the wonderful is desired, and in learning
+1371a34	there is a settling into the natural state. Doing good and
+1371a35	receiving good are among pleasant things; for
+1371a36	receiving good is getting what one desires,
+1371b1	and doing good is having, and having more, both of which
+1371b2	people desire. Because doing good is pleasant,
+1371b3	setting one's neighbors on their feet again is pleasant to people,
+1371b4	and completing what is incomplete. And since learning
+1371b5	and wondering are pleasant, things of the following kind must be
+1371b6	pleasant too: imitations, such as painting and
+1371b7	sculpture and poetry, and everything that is well imitated,
+1371b8	even if the thing imitated is not itself pleasant; for one does not
+1371b9	delight in that, but there is a syllogism, that this is that, so that
+1371b10	one comes to learn something. So too reversals and narrow
+1371b11	escapes from danger; for all these are
+1371b12	wonderful. And since what is natural is pleasant, and kindred things are
+1371b13	natural to one another, all kindred and similar things are pleasant
+1371b14	for the most part, as man to man, horse to horse,
+1371b15	young to young; hence the proverbs, “Age
+1371b16	delights in age,” and “Like always to like,” and “Beast
+1371b17	knows beast,” “Jackdaw beside jackdaw,” and all the others like them.
+1371b18	And since everything similar and kindred to oneself is pleasant,
+1371b19	and each man stands in this relation most of all to himself,
+1371b20	all must be lovers of self, more or less; for all
+1371b21	such relations hold most of all toward oneself. And since all are
+1371b22	lovers of self, their own things must be pleasant to all, such as
+1371b23	their works and words; that is why people are for the most part fond of flatterers,
+1371b24	fond of their lovers, fond of honor, and fond of their children; for
+1371b25	children are their own work. And completing what is incomplete is pleasant, for it
+1371b26	then becomes one's own work. And since ruling is most pleasant,
+1371b27	seeming wise is pleasant too; for wisdom fits one to rule, and
+1371b28	wisdom is knowledge of many wonderful things. Further, since
+1371b29	people are for the most part fond of honor, it must be pleasant to rebuke one's neighbors
+1371b30	and to rule; and to spend one's time on that in which one seems
+1371b31	to be at one's best,
+1371b32	as the poet says, and to this he
+1371b33	presses on, “giving the greatest part of each day
+1371b34	to where he happens to be at his best.”
+1371b35	Likewise, since play and all relaxation are among pleasant things, and laughter too,
+1371b36	laughable things must be pleasant too, whether people, words or deeds.
+1372a1	The laughable has been treated separately in the books on
+1372a2	poetics. Let this be what we say about pleasant things;
+1372a3	painful things are clear from their opposites.

@@ -1,0 +1,15 @@
+{
+  "scenes": [
+    {"from": "1372a4", "to": "1372a21", "title": "When People Think They Can Do Wrong", "summary": "People do wrong when they think the deed possible for them and expect to go unnoticed, or unpunished, or punished less than they gain: speakers, men of affairs, the experienced in lawsuits, the rich and those with friends, especially friends among their victims or the judges."},
+    {"from": "1372a22", "to": "1372b23", "title": "Who Expects to Escape", "summary": "Those whose look belies the charge, the weak accused of assault or the poor and ugly of adultery; those who act in the open or dare what no one would expect; those with no enemies or many; those who can hide, delay or bribe; those who gain much and risk little, like tyrants or Zeno; those often unpunished; the self-indulgent; and those who can plead chance, error or equity."},
+    {"from": "1372b24", "to": "1373a9", "title": "Whom They Wrong", "summary": "They wrong those who have what they lack, the far off and the near (as raiders do the Carthaginians), the trusting, the easygoing and the bashful, those often wronged who never prosecute (\"Mysian plunder\"), the slandered, those they have a pretext against, enemies and friends, the friendless, foreigners and farmers."},
+    {"from": "1373a10", "to": "1373a38", "title": "Wrongs That Seem No Wrong", "summary": "Also those who have done wrong themselves, those whose wronging pleases friends or masters, those who expect equity, former friends, as Callippus did to Dion, those who would otherwise be wronged by others first, as Aenesidemus congratulated Gelon, and those whom a man can repay by just acts, as Jason the Thessalian argued; and wrongs that are common, easily hidden, shameful to report, or too small to prosecute."}
+  ],
+  "quotations": [
+    {"from": "1372b32", "to": "1372b33", "entry": "mysian-plunder", "cite": "a proverb", "marks": 0},
+    {"from": "1373a3", "to": "1373a3", "entry": "wickedness-needs-only-a-pretext", "cite": "a proverb", "marks": 0},
+    {"from": "1373a25", "to": "1373a27", "source": "jason-of-pherae", "entry": "some-wrongs-for-many-just-deeds", "cite": "a saying of Jason of Pherae", "marks": 0}
+  ],
+  "speeches": [],
+  "days": []
+}

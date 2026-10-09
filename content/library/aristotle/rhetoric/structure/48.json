@@ -1,0 +1,16 @@
+{
+  "scenes": [
+    {"from": "1408a10", "to": "1408a15", "title": "Proportion", "summary": "Style is appropriate if it is emotional, shows character, and is proportionate to its subject: weighty matters are not spoken of offhandedly nor cheap ones with dignity, or it looks like comedy, as in Cleophon, who spoke as if one said “queenly fig tree”."},
+    {"from": "1408a16", "to": "1408a25", "title": "Emotion", "summary": "The emotional style speaks of outrage angrily, of impious and shameful things with disgust, of praiseworthy things admiringly, of pitiable things humbly. The proper style makes the matter persuasive, for the hearer shares the feelings of an emotional speaker, which is why many overwhelm their hearers with noise."},
+    {"from": "1408a26", "to": "1408a36", "title": "Character", "summary": "Style shows character when it suits the speaker's class (by age, sex or people, Laconian or Thessalian) and his state of life, for a boor and an educated man do not speak alike. Hearers are also moved by the speechwriters' “Who does not know?” and “Everyone knows”, agreeing out of shame."},
+    {"from": "1408b1", "to": "1408b10", "title": "Timing and Concealment", "summary": "Timeliness is common to all the kinds. Excess is remedied by rebuking oneself in advance, and the corresponding means should not all be used at once: harsh words should not come with a harsh voice and face, and harsh things said gently persuade."},
+    {"from": "1408b11", "to": "1408b20", "title": "When Poetic Words Suit", "summary": "Double words, many epithets and foreign words suit a speaker carried away by emotion, or one who already has his hearers in hand, as Isocrates at the end of the Panegyricus; that is why they suit poetry, which is inspired. Otherwise they must be used with irony, as Gorgias did and as in the Phaedrus."}
+  ],
+  "quotations": [
+    {"from": "1408a15", "to": "1408a16", "source": "aristotle", "entry": "cleophon", "cite": "Aristotle's parody of Cleophon's manner"},
+    {"from": "1408a34", "to": "1408a34", "entry": "prepon", "cite": "the speechwriters' commonplaces", "marks": 2},
+    {"from": "1408b16", "to": "1408b17", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Panegyricus", "marks": 2}
+  ],
+  "speeches": [],
+  "days": []
+}

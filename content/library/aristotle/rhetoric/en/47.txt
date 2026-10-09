@@ -1,0 +1,25 @@
+# Aristotle, Rhetoric, Book III, Chapter 6 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1407b26	The following contribute to the bulk of style: using a description
+1407b27	instead of a name, for example not “circle” but “a plane figure
+1407b28	equidistant from the middle”; and, for conciseness, the opposite, the name instead of
+1407b29	the description. And if something is shameful or inappropriate: if the shame lies in the
+1407b30	description, use the name; if it lies in
+1407b31	the name, the description. And making things plain by metaphor and by
+1407b32	epithets, while guarding against the poetic. And making
+1407b33	one into many, as the poets do: though there is one
+1407b34	harbor, they still say “to Achaean harbors”,
+1407b35	and “Here are the many-leaved folds of the tablet.” And not joining two words to one article,
+1407b36	but giving each its own, “the wife, the one of ours”; but if
+1407b37	for conciseness, the opposite, “our wife”. And speaking with a connective;
+1407b38	but for conciseness, without a connective, though not disconnected,
+1408a1	as “having gone and having conversed”, “having gone, I conversed”.
+1408a2	And Antimachus' practice is useful, describing a thing by what it does not have, as he
+1408a3	does with Teumessus: “There is a small windy
+1408a4	hill”; for in this way the description is amplified without limit. This can be done with
+1408a5	good things and bad, saying what a thing is not, whichever is useful;
+1408a6	and it is from this that the poets get their words, the “stringless”
+1408a7	and the “lyreless” song; for they apply epithets from privations.
+1408a8	This is well liked in metaphors by
+1408a9	analogy, as saying that the trumpet sends forth a lyreless song.

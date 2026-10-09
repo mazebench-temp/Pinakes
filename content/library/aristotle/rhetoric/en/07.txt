@@ -1,0 +1,170 @@
+# Aristotle, Rhetoric, Book I, Chapter 7 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1363b5	Since people often agree that two things are both advantageous but dispute about which
+1363b6	is more so, we should next speak about the
+1363b7	greater good and the more advantageous. Let
+1363b8	the exceeding be as much and more, and the exceeded what is
+1363b9	contained in it; greater and more are always relative to less,
+1363b10	while great and small, and much and little, are relative to the size of
+1363b11	most things, the great exceeding it and the small
+1363b12	falling short, and much and little likewise. Since, then, we call good
+1363b13	what is chosen for its own sake and not for the sake of another,
+1363b14	and what all things aim at, and what anything would choose that acquired intelligence and
+1363b15	practical wisdom, and what produces and preserves, or what
+1363b16	such things follow upon [and that for whose sake is the end]; and the end
+1363b17	is that for whose sake the rest are, and good for a particular person is what
+1363b18	stands in this relation to him: it follows that more goods than one, or than
+1363b19	fewer, when the one or the fewer are counted among them, are the greater
+1363b20	good; for they exceed, and what is contained in them is exceeded.
+1363b21	And if the greatest of one class exceeds the greatest of another, the classes themselves
+1363b22	do too; and if the classes do, so does the greatest of the one the greatest of the other:
+1363b23	for instance, if the biggest man is bigger than the biggest woman,
+1363b24	men in general are bigger than women; and if men
+1363b25	in general are bigger than women, the biggest man is bigger than the
+1363b26	biggest woman; for the superiority of classes is proportional
+1363b27	to that of the greatest members in them. And when this
+1363b28	follows that, but that does not follow this; and it follows either by
+1363b29	being simultaneous, or subsequent, or potential; for the use
+1363b30	of what follows is contained in the use of the other. Life follows being healthy
+1363b31	simultaneously, but not health life; knowing follows learning subsequently,
+1363b32	and defrauding follows temple-robbing potentially,
+1363b33	for one who has robbed a temple would also defraud. And things that exceed
+1363b34	the same thing by a greater amount are greater, for they must exceed the
+1363b35	lesser too. And things productive of a greater good are greater, for that
+1363b36	is what being productive of the greater meant. And likewise that whose producer
+1363b37	is greater; for if the wholesome is preferable to
+1363b38	the pleasant and a greater good, health is also greater than pleasure.
+1364a1	And what is chosen for itself is preferable to what is not, as strength is to
+1364a2	the wholesome; for the latter is not for its own sake, the former is, which
+1364a3	was what the good is. And if one is an end and the other not; for the one
+1364a4	is for another's sake, the other for its own, as exercise is for a body in
+1364a5	good condition. And what is less in need than the other
+1364a6	of other things, for it is more self-sufficient; and that needs less which needs fewer
+1364a7	or easier things. And when this cannot exist without that,
+1364a8	or cannot come into being, but the other can without this,
+1364a9	what does not need the other is more self-sufficient, and so seems the greater good.
+1364a10	And if one is a principle and the other not, or one a cause and the other not,
+1364a11	for the same reason; for without a cause and a principle nothing can be
+1364a12	or come into being. And of two principles, what comes from the greater principle
+1364a13	is greater; and of two causes, what comes from the greater cause
+1364a14	is greater. And conversely, of two principles, the principle of the greater
+1364a15	is greater, and of two causes the cause of the greater is greater.
+1364a16	It is clear from what has been said, then, that a thing can be made to seem greater both ways:
+1364a17	for if one is a principle and the other not, it will seem greater, and also if
+1364a18	it is not a principle and the other is; for the end is greater, and not the principle;
+1364a19	as Leodamas, accusing Callistratus, said that the one who planned
+1364a20	did more wrong than the one who did the deed, for it would not have been done had he not
+1364a21	planned it; and again, accusing Chabrias, that the doer did more wrong than the
+1364a22	planner, for it would not have happened had there been no one to do it; for
+1364a23	people plot for this purpose, that someone may act. And the
+1364a24	rarer is greater than the plentiful, as gold than iron, though it is less
+1364a25	useful; for its possession is greater because it is harder to get.
+1364a26	(In another way the plentiful is greater than the rare, because
+1364a27	its use exceeds; for often exceeds seldom;
+1364a28	hence it is said, “Best is water.”) And in general
+1364a29	the harder is greater than the easier, for it is rarer. In another
+1364a30	way the easier is greater than the harder, for it is as we wish.
+1364a31	And that whose opposite is greater, and that whose loss is greater. And
+1364a32	virtue is greater than non-vice, and vice than non-virtue; for the former are
+1364a33	ends, the latter not. And things whose works are nobler or more shameful are
+1364a34	themselves greater; and of things whose vices and virtues are greater, the works
+1364a35	are greater, since as causes and principles are, so are their results,
+1364a36	and as the results are, so are the causes and principles.
+1364a37	And things whose superiority is preferable or nobler: seeing keenly, for instance,
+1364a38	is preferable to smelling keenly (as sight is to smell),
+1364b1	and being fonder of one's companions nobler than being fonder of money,
+1364b2	so that love of companions is nobler than love of money. And
+1364b3	conversely, the excesses of better things are better, and
+1364b4	those of nobler things nobler. And things for which the desires are nobler or
+1364b5	better; for greater longings are for greater things. And
+1364b6	desires for nobler or better things are better and
+1364b7	nobler, for the same reason. And things whose sciences are nobler or
+1364b8	more serious are themselves nobler and more serious;
+1364b9	for as the science is, so is its truth, and each science prescribes
+1364b10	what is its own. And the sciences of more serious and nobler things
+1364b11	are proportionally so, for the same reason. And what the wise would judge, or
+1364b12	have judged, to be the greater good, or all, or most, or the majority, or
+1364b13	the best, must be so, either absolutely
+1364b14	or in the respect in which they judged by practical wisdom. This holds generally
+1364b15	of other things too; for what a thing is, and how much, and of what sort, are
+1364b16	as science and practical wisdom would say. But we have said it
+1364b17	of goods; for good was defined as what each thing, if it acquired
+1364b18	practical wisdom, would choose; so it is clear that
+1364b19	that is greater which practical wisdom pronounces more so. And what belongs to the better,
+1364b20	either absolutely or insofar as they are better, as courage is greater than strength.
+1364b21	And what the better man would choose, absolutely or insofar as he is better: for instance,
+1364b22	to suffer wrong rather than to do it; for that is what the juster man would
+1364b23	choose. And the more pleasant than the less pleasant; for all things
+1364b24	pursue pleasure, and they long for being pleased for its own sake, and it is by these
+1364b25	marks that the good and the end were defined; and more pleasant is what is
+1364b26	freer from pain, and pleasant for longer. And the nobler
+1364b27	than the less noble; for the noble is either what is pleasant or what is
+1364b28	chosen for itself. And whatever people more wish to bring about
+1364b29	for themselves or their friends is a greater good, and whatever
+1364b30	they less wish to, a greater evil. And longer-lasting things than
+1364b31	shorter-lived ones, and more secure things than less secure;
+1364b32	for the use of the former exceeds in time, of the latter in wish:
+1364b33	for whenever people wish, the use of what is secure is more at hand.
+1364b34	And as with one of a set of coordinates or of like inflections,
+1364b35	so the rest follow: for instance, if “courageously” is nobler and
+1364b36	preferable to “with self-control,” courage too is preferable to self-control,
+1364b37	and being courageous to having self-control. And what all
+1364b38	choose is greater than what not all choose, and what the majority choose than what the minority choose;
+1365a1	for good was what all desire, so that the greater is what
+1365a2	they desire more. And what opponents or enemies choose, or judges,
+1365a3	or those whom these judge; for in the one case it is as if all said so,
+1365a4	in the other those in authority and those who know. And sometimes what all
+1365a5	share in is greater, for not to share is a disgrace; sometimes what
+1365a6	no one or few share in, for it is rarer. And what is more praiseworthy,
+1365a7	for it is nobler. And likewise things whose honors are greater; for
+1365a8	honor is a sort of valuation. And things whose penalties are greater.
+1365a9	And what is greater than things agreed or seen to be great.
+1365a10	And the same things, divided into their parts, seem
+1365a11	greater, for there seems to be more to exceed. That is why
+1365a12	the poet says that what persuaded Meleager to rise and fight was
+1365a13	“all the ills that come to men whose city is taken: the people
+1365a14	perish, and fire levels the city, and strangers
+1365a15	lead away the children.” And combining and
+1365a16	building up, as Epicharmus does, both for the same reason
+1365a17	as division (for combination shows great
+1365a18	superiority) and because it seems to be the origin and cause of great things.
+1365a19	And since what is harder and rarer is greater,
+1365a20	occasions and ages and places and times
+1365a21	and powers make things great; for if a thing is done beyond one's power,
+1365a22	beyond one's age, beyond one's equals, and if in such a way
+1365a23	or in such a place or at such a time, it will have the greatness of noble and good
+1365a24	and just things, and of their opposites. Hence too the epigram on the
+1365a25	Olympic victor: “Once, with a rough yoke on my shoulders,
+1365a26	I carried fish from Argos to
+1365a27	Tegea”; and Iphicrates
+1365a28	praised himself by saying from what beginnings he had come to this. And
+1365a29	what is natural is greater than what is acquired, for it is harder.
+1365a30	Hence the poet says, “I am self-taught.” And
+1365a31	the greatest part of something great: as Pericles, delivering the funeral oration,
+1365a32	said that the youth had been taken from the city as if the spring had been
+1365a33	taken out of the year. And things useful in greater need,
+1365a34	such as those useful in old age and sickness. And of two things, the one nearer
+1365a35	the end. And what is good for oneself rather than absolutely. And the possible
+1365a36	rather than the impossible; for the one is good for oneself, the other not. And what lies at
+1365a37	the end of life; for what is near the end is more of an end.
+1365b1	And what aims at reality rather than at appearance; the definition of what aims at appearance
+1365b2	is what one would not choose if one were going to go unnoticed. That is why receiving benefits
+1365b3	would seem preferable to conferring them; for one will choose the first even if
+1365b4	unnoticed, but no one, it seems, would choose to confer benefits unnoticed.
+1365b5	And whatever people wish to be rather than to seem; for that aims more
+1365b6	at reality. That is why they say that justice is a small thing,
+1365b7	because it is preferable to seem just than to be just; but with being healthy
+1365b8	it is not so. And what is more useful for many purposes, such as for
+1365b9	life and living well and pleasure and doing noble deeds;
+1365b10	that is why wealth and health seem to be the greatest goods, for they have
+1365b11	all these. And what is freer from pain and accompanied by pleasure;
+1365b12	for there is more than one good, since there is both pleasure and
+1365b13	freedom from pain. And of two things, the one which, added to the same thing, makes the
+1365b14	whole greater. And things whose presence is noticed rather than those not noticed;
+1365b15	for these tend toward reality. That is why being rich would appear
+1365b16	a greater good than seeming rich. And what is cherished, whether to some
+1365b17	it is the only one and to others one among others. That is why the penalty is not the same
+1365b18	if one blinds a one-eyed man and a man with two eyes;
+1365b19	for what was cherished has been taken away. From what, then, proofs must
+1365b20	be drawn in exhorting and dissuading has, roughly, been said.

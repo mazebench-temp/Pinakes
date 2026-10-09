@@ -9,7 +9,7 @@ aliases: [Aias, Telamonian Ajax]
 grc: [Αἴαντ*, Αἴας]
 # Αἶαν at 12.366 is the son of Oileus, whom Telamonian Ajax addresses; Ὀϊλῆος ταχὺς Αἴας (13.66, 13.701)
 # and Αἴαντος ἀδελφεός (13.695, of Medon) are the son of Oileus too.
-except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701]
+except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701, Rhetoric 1399b29, Rhetoric 1400a28]
 en: [Ajax]
 ---
 

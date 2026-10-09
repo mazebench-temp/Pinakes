@@ -1,0 +1,83 @@
+# Aristotle, Rhetoric, Book III, Chapter 16 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1416b16	In epideictic speeches the narration is not
+1416b17	continuous but piecemeal; for one must go through the actions
+1416b18	on which the speech is based; the speech is composed
+1416b19	of a part that is non-artistic (for the speaker is in no way the cause
+1416b20	of the actions) and a part that comes from the art; and this is either to show that
+1416b21	the thing is, if it is incredible, or that it is of a certain quality or quantity,
+1416b22	or all of these. That is why one should sometimes not narrate
+1416b23	everything continuously, because what is shown in this way is hard to remember: from
+1416b24	these actions he is brave, from those wise or just. And
+1416b25	a speech of this kind is simpler, while the other is intricate and not
+1416b26	plain. Well-known actions one need only recall; that is why
+1416b27	most epideictic speeches need no narration at all, if you wish, for example, to praise Achilles
+1416b28	(for everyone knows his deeds); one need only use
+1416b29	them. But if you praise Critias, you need it; for not many know them …
+1416b30	As things are, people say laughably that the narration should be quick.
+1416b31	Yet, as someone said to the baker who asked whether he should knead the dough hard
+1416b32	or soft, “What? Is it impossible to knead it well?”, so here
+1416b33	too: one should not narrate at length, just as one should not make a long proem
+1416b34	or state the proofs at length. For here too
+1416b35	good does not lie in quickness or conciseness
+1416b36	but in due measure; that is,
+1416b37	in saying as much as will make the matter clear,
+1417a1	or as much as will make the hearer believe that it happened, or that he did harm, or
+1417a2	did wrong, or that it was as great as you wish, and for the opponent the opposite.
+1417a3	Narrate along the way whatever bears on your own virtue (for example,
+1417a4	“I kept admonishing him, always telling him what was just, not to abandon
+1417a5	his children”), or on the other's vice: “He answered me
+1417a6	that wherever he was, there would be other children”, the answer that
+1417a7	Herodotus says the Egyptian deserters gave; or whatever pleases
+1417a8	the jurors. For the defendant the narration is shorter; for the
+1417a9	points at issue are that the thing did not happen, or was not harmful, or
+1417a10	not unjust, or not so great, so that one should not spend time
+1417a11	on what is agreed, unless something bears on that point, for example if
+1417a12	it was done, but was not unjust. Again, events should be told as past, except
+1417a13	those that bring pity or indignation when told as happening; an example
+1417a14	is the tale to Alcinous, which is retold to Penelope in sixty
+1417a15	lines, and the way Phayllus treated the Cycle, and the prologue in the
+1417a16	Oeneus. The narration should show character; it will do
+1417a17	this if we know what produces character. One way is to make the choice
+1417a18	plain: the character is of a certain kind by the choice's being of a certain kind, and the choice
+1417a19	by its end. That is why mathematical
+1417a20	discourses have no characters, because they have no choice either (for they do not have
+1417a21	a purpose), but the Socratic dialogues do; for they speak
+1417a22	of such things. Other things that show character are what goes with each character, as that
+1417a23	a man walked off while still speaking; for this shows boldness and boorishness
+1417a24	of character. And do not speak as if from thought, as people do now,
+1417a25	but as if from choice: “But I wished it; and I chose
+1417a26	it; and if I gained nothing by it, it was still the better course.” The one
+1417a27	is the mark of a wise man, the other of a good man: the wise man's lies in pursuing
+1417a28	the beneficial, the good man's in pursuing the noble. If it is incredible, then
+1417a29	add the reason, as Sophocles does; an example
+1417a30	is the one from the Antigone, that she cared more for her brother
+1417a31	than for a husband or children; for these could come again
+1417a32	if they were lost, “but with my mother and father gone to Hades,
+1417a33	there is no brother who could ever be born.” If you
+1417a34	have no reason, still say that you are not unaware that what you say is incredible,
+1417a35	but that you are by nature such a man; for people do not believe that anyone does anything
+1417a36	willingly except what is to his advantage. Again, in narrating, speak from
+1417a37	what is emotional, telling both what goes with it, which the hearers know, and what is peculiar
+1417a38	to yourself or to the opponent: “He went off, scowling at me.”
+1417b1	And as Aeschines said of Cratylus, that he was hissing
+1417b2	and shaking his fists; for these things are persuasive, because what the hearers know
+1417b3	becomes a token of what they do not know.
+1417b4	Very many such things can be taken from Homer:
+1417b5	“So she spoke, and the old woman covered her face with her hands”; for
+1417b6	those who are beginning to weep put their hands over their eyes. And
+1417b7	bring yourself on at once as a man of a certain kind, so that the hearers see you
+1417b8	as such, and your opponent too; but do it without being noticed. That this
+1417b9	is easy you can see from messengers: about those of whom we know nothing
+1417b10	we nevertheless form some impression. Narration should come in
+1417b11	many places, and sometimes not at the beginning. In speaking to the assembly
+1417b12	there is least narration, because no one narrates
+1417b13	the future; but if there is narration, let it be of past events,
+1417b14	so that, reminded of them, the hearers may deliberate better
+1417b15	about what is to come, whether the speaker slanders or praises; but
+1417b16	†then he does not† do the work of an adviser. If something is incredible,
+1417b17	one must promise to give the reason at once, and to arrange things
+1417b18	as the hearers wish, as Jocasta in Carcinus'
+1417b19	Oedipus keeps promising when the man who is searching for her
+1417b20	son questions her; and Sophocles' Haemon.

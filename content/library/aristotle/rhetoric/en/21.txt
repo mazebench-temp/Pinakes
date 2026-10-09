@@ -1,0 +1,115 @@
+# Aristotle, Rhetoric, Book II, Chapter 6 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1383b11	What people feel shame at and are shameless about, and before whom,
+1383b12	and in what state, will be clear from the following. Let shame be a kind of pain
+1383b13	or disturbance concerning those evils that appear to bring disrepute,
+1383b14	whether present, past or future, and shamelessness
+1383b15	a kind of slight and unconcern about these same things. If
+1383b16	shame is what has been defined, people must feel shame at
+1383b17	those evils that seem shameful either to themselves or to those
+1383b18	they care about; such are the deeds that come from vice, for instance
+1383b19	throwing away one's shield or running away; for that comes from cowardice. And
+1383b20	withholding a deposit [or doing wrong]; for that comes from injustice.
+1383b21	And having sex with those one should not, or where one should not, or when one should not;
+1383b22	for that comes from licentiousness. And making a profit from petty or shameful things,
+1383b23	or from the helpless, for instance the poor or the dead, whence the
+1383b24	proverb about carrying off even from a corpse; for this comes from sordid greed and
+1383b25	lack of generosity. And not helping with money when one can,
+1383b26	or helping less. And being helped by those less well off,
+1383b27	and borrowing when it will seem like begging, and begging when it will seem like asking for repayment,
+1383b28	and asking for repayment when it will seem like begging, and praising what it will seem one is asking for, and
+1383b29	asking none the less after failing; for all these are signs
+1383b30	of lack of generosity; and praising people to their face is a sign of flattery,
+1383b31	and overpraising their good points
+1383b32	and glossing over their faults, and grieving too much
+1383b33	with one in grief when one is present, and everything else of
+1383b34	the kind; for these are signs of flattery. And
+1383b35	not enduring toils that older men endure,
+1384a1	or the pampered, or those in positions of greater power, or in general
+1384a2	the weaker; for all these are signs of softness. And receiving benefits from another,
+1384a3	and often, and reproaching him with the good one has done;
+1384a4	for all these are signs of smallness of soul and abjectness. And
+1384a5	talking all about oneself and making grand promises, and claiming
+1384a6	what belongs to others as one's own; for this is boastfulness. And likewise from each of the other
+1384a7	vices of character, their deeds, their signs, and things
+1384a8	like them; for these are shameful and shameless. And besides these, not
+1384a9	having a share in the noble things in which all have a share, or all one's equals, or most of them
+1384a10	—by equals I mean those of the same people, fellow citizens, those of the same age,
+1384a11	kinsmen, in general one's peers—for then it is already shameful not
+1384a12	to share, for instance, in education to the same degree, and in other things likewise.
+1384a13	All these are more shameful if they appear to be one's own fault; for then
+1384a14	they come rather from vice, if one is oneself the cause of what has been,
+1384a15	is, or will be. And people feel shame when they suffer, have suffered, or
+1384a16	will suffer such things as bring dishonor
+1384a17	and reproach; these are the services rendered with one's body or by
+1384a18	shameful deeds, among which is being outraged. And what serves
+1384a19	licentiousness is shameful whether willing or unwilling, what is done under force when unwilling; for
+1384a20	submitting and not defending oneself come from unmanliness or cowardice.
+1384a21	The things at which people feel shame, then, are these and the like. Since
+1384a22	shame is an imagination concerning disrepute, and of disrepute
+1384a23	for its own sake and not for its consequences, and no one cares about opinion
+1384a24	except because of those who hold it, people must
+1384a25	feel shame before those they take into account; and they take into account those who admire them,
+1384a26	and those they admire, and those by whom they wish to be admired, and those
+1384a27	with whom they compete for honor, and those whose opinion they do not despise.
+1384a28	People wish to be admired by, and they admire, those
+1384a29	who have some good thing that is held in honor, or from whom they happen to be
+1384a30	in great need of something those people control, as lovers are;
+1384a31	they compete for honor with their equals; and they care about the wise, as
+1384a32	speaking the truth, and such are older men and
+1384a33	the educated. And people feel more shame at what is before their eyes and in the open
+1384a34	(whence the proverb that shame is in the eyes); that is
+1384a35	why they feel more shame before those who will always be with them
+1384a36	and those who pay attention to them,
+1384b1	since in both cases they are before their eyes. And before those not liable to the same
+1384b2	charges; for clearly these hold the opposite opinions. And before those
+1384b3	who are not forgiving to those who appear to err; for what
+1384b4	a man does himself, he is said not to be indignant at in his neighbors,
+1384b5	so that what he does not do, he clearly is indignant at. And before those who tell
+1384b6	many people; for not being thought to have done it is no different from not being reported;
+1384b7	those given to telling are those who have been wronged, because they keep watch, and
+1384b8	slanderers; for if they slander even those who do no wrong, still more
+1384b9	those who do. And before those who spend their time on their neighbors'
+1384b10	errors, for instance mockers and comic poets; for these are in a way
+1384b11	slanderers and tellers. And before those with whom they have never failed;
+1384b12	for they are disposed toward them as though admired; that is why people feel shame
+1384b13	before those who ask something of them for the first time, as never yet having lost their good name in
+1384b14	their eyes; such are those who have only lately wished to be friends (for they
+1384b15	have seen only the best; that is why Euripides' answer to
+1384b16	the Syracusans was a good one), and those of long acquaintance who
+1384b17	know nothing against them. People feel shame not only at the shameful things
+1384b18	mentioned, but also at their signs: not only at having sex,
+1384b19	for instance, but also at its signs; and not only at doing
+1384b20	shameful things, but also at speaking of them. Likewise they feel shame not only before those mentioned
+1384b21	but also before those who will report to them, such as
+1384b22	their servants and friends. In general people feel no shame before those
+1384b23	whose opinion about the truth they greatly despise (no one
+1384b24	feels shame before children or animals), nor at the same things before acquaintances
+1384b25	and strangers, but before acquaintances at what seems wrong
+1384b26	in truth, before those far off at what offends convention. They themselves
+1384b27	would feel shame in this state: first, if there are
+1384b28	people disposed toward them in the way we said those are
+1384b29	before whom they feel shame. These were those ⟨who are⟩ admired, or who
+1384b30	admire them, or by whom they wish to be admired, or from whom they need
+1384b31	some service they will not obtain if they lose their good name; and these
+1384b32	either looking on (as Cydias said in his speech to the assembly about the Samian cleruchy:
+1384b33	he asked the Athenians to imagine that, standing
+1384b34	around them in a circle, were the Greeks, seeing and not only going to hear of
+1384b35	whatever they would vote), or if such people are near, or are going to notice;
+1384b36	that is why people do not wish to be seen in misfortune by those who once emulated them;
+1385a1	for those who emulate admire. And when they have deeds and circumstances that bring shame,
+1385a2	either their own or their ancestors' or those of others
+1385a3	to whom they are closely related. And in general
+1385a4	those on whose behalf they feel shame; these are the people mentioned
+1385a5	and those connected with them, or those whose teachers or
+1385a6	advisers they have been, or if there are others, their equals, with whom
+1385a7	they compete for honor; for out of shame before such people they do
+1385a8	many things and leave many undone. And when they are going to be seen
+1385a9	and to go about in public among those who know, they are more
+1385a10	prone to shame; whence Antiphon the poet, when he was about
+1385a11	to be put to death on the plank by Dionysius, seeing those who were to die with him
+1385a12	veiling their faces as they went through the gates, said, “Why
+1385a13	do you veil your faces? Is it so that none of these may see you tomorrow?”
+1385a14	So much, then, for shame; as for shamelessness, it is clear
+1385a15	that we shall have plenty to say from the opposites.

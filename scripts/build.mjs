@@ -49,6 +49,8 @@ export function build({ write = true, log = console.log } = {}) {
 
   const schemeOf = id => workById.get(id)?.citation?.scheme ?? 'book.line';
   const bookWord = id => workById.get(id)?.citation?.book ?? 'Book';
+  // A chapter may carry a label for display ("2.1" for Rhetoric II.1, which is the work's chapter 16).
+  const bookLabel = (id, book) => workById.get(id)?.books?.[book]?.label ?? String(book);
   /** One line as cited: "1.396", or "1451a36" in a Bekker work. */
   const citeLine = (work, book, n) => lineLabel(schemeOf(work), book, n);
   /** Every line of a work in order, as [book, n], for expanding Bekker ranges. */
@@ -132,7 +134,7 @@ export function build({ write = true, log = console.log } = {}) {
   for (const a of authors) addScope({ id: a.id, kind: 'author', label: a.name ?? a.id });
   for (const w of works) {
     addScope({ id: w.id, kind: 'work', label: w.title, parent: w.author });
-    for (const book of w.texts.keys()) addScope({ id: `${w.id}.${book}`, kind: 'book', label: `${w.title} ${book}`, long: `${w.title}, ${bookWord(w.id)} ${book}`, parent: w.id, work: w.id, book });
+    for (const book of w.texts.keys()) addScope({ id: `${w.id}.${book}`, kind: 'book', label: `${w.title} ${bookLabel(w.id, book)}`, long: `${w.title}, ${bookWord(w.id)} ${bookLabel(w.id, book)}`, parent: w.id, work: w.id, book });
   }
   const scopeOfRef = (spec, work) => {
     try { const r = parseRef(String(spec).split('|')[0].trim(), resolveWork, work); return `${r.work}.${r.book}`; }
@@ -148,7 +150,7 @@ export function build({ write = true, log = console.log } = {}) {
     if (!e) { error(`${n.file}: there is no entry "${n.entryId}" for this note`); continue; }
     if (n.scope.book) {
       const w = workById.get(n.scope.work);
-      addScope({ id: n.scope.id, kind: 'book', label: `${w.title} ${n.scope.book}`, long: `${w.title}, ${bookWord(w.id)} ${n.scope.book}`, parent: w.id, work: w.id, book: n.scope.book });
+      addScope({ id: n.scope.id, kind: 'book', label: `${w.title} ${bookLabel(w.id, n.scope.book)}`, long: `${w.title}, ${bookWord(w.id)} ${bookLabel(w.id, n.scope.book)}`, parent: w.id, work: w.id, book: n.scope.book });
     }
     for (const k of Object.keys(n.data)) if (!NOTE_KEYS.has(k)) warn(`${n.file}: "${k}" is not used in notes (use ${[...NOTE_KEYS].join(', ')})`);
     const work = n.scope.work ?? e.work;

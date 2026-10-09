@@ -1,0 +1,22 @@
+{
+  "scenes": [
+    {"from": "1410b6", "to": "1410b26", "title": "Learning Easily", "summary": "Urbane and well-liked sayings come from a gift or from practice, but the art can show what they are. Learning easily is naturally pleasant, and rare words are unknown and standard words known, so metaphor teaches most, as when old age is called “stubble”; the simile teaches less, being longer. Enthymemes too should teach quickly, being neither superficial nor obscure."},
+    {"from": "1410b27", "to": "1410b36", "title": "Antithesis, Metaphor, Activity", "summary": "In thought such enthymemes are liked; in style, antithesis, as in “holding that the peace common to the others was war against their own interests”, metaphor that is neither strange nor superficial, and setting things before the eyes. So one should aim at metaphor, antithesis and activity."},
+    {"from": "1410b37", "to": "1411a24", "title": "Metaphors by Analogy", "summary": "Metaphors by analogy are the best liked: Pericles' youth gone from the city like the spring taken out of the year, Leptines' one-eyed Greece, Cephisodotus on Chares' audit and on “a decree of Miltiades”, Iphicrates on the provisions for the war, Peitholaus' “people's club”, Pericles' Aegina, “the eyesore of the Piraeus”, Moerocles' interest rates, Anaxandrides' overdue maidens, Polyeuctus' pillory of disease, Cephisodotus' painted mills."},
+    {"from": "1411a25", "to": "1411b20", "title": "Metaphors Before the Eyes", "summary": "Some metaphors also set things before the eyes: the Dog's Spartan messes and Aesion's city poured out into Sicily, Greece crying out, the funeral speech's freedom buried with the virtue of the dead at Salamis, Iphicrates' road through Chares' deeds, dangers summoned to help against dangers, Lycoleon's statue of Chabrias as a suppliant, wars postponed rather than ended, a treaty as a trophy."}
+  ],
+  "quotations": [
+    {"from": "1410b29", "to": "1410b31", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Philippus"},
+    {"from": "1411a2", "to": "1411a4", "source": "pericles", "entry": "the-spring-taken-from-the-year", "cite": "Pericles, in a funeral speech", "marks": 0},
+    {"from": "1411a20", "to": "1411a20", "source": "anaxandrides", "entry": "anaxandrides", "cite": "Anaxandrides"},
+    {"from": "1411a26", "to": "1411a27", "entry": "before-the-eyes", "cite": "an unidentified example"},
+    {"from": "1411b1", "to": "1411b1", "source": null, "entry": "before-the-eyes", "cite": "the funeral speech (Lysias 2.60)"},
+    {"from": "1411b2", "to": "1411b3", "source": "iphicrates", "entry": "iphicrates", "cite": "Iphicrates"},
+    {"from": "1411b6", "to": "1411b10", "source": "lycoleon", "entry": "lycoleon", "cite": "Lycoleon, speaking for Chabrias", "marks": 2},
+    {"from": "1411b11", "to": "1411b11", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Panegyricus"},
+    {"from": "1411b12", "to": "1411b13", "entry": "metaphora", "cite": "an unidentified example"},
+    {"from": "1411b13", "to": "1411b14", "source": "isocrates", "entry": "isocrates", "cite": "Isocrates, Panegyricus"}
+  ],
+  "speeches": [],
+  "days": []
+}

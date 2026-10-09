@@ -1,0 +1,22 @@
+# Aristotle, Rhetoric, Book II, Chapter 17 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1391a20	Likewise with power, the characters are for the most part
+1391a21	clear. Power has some of the same characters as wealth, and some
+1391a22	better; those in power are fonder of honor and manlier in character
+1391a23	than the rich, because they aim at deeds that their power gives them license
+1391a24	to do, and more diligent,
+1391a25	because they are in a position of care, being compelled to look after
+1391a26	what concerns their power; and dignified rather than heavy;
+1391a27	for their rank makes them more dignified, and so they behave with moderation,
+1391a28	and dignity is a soft and graceful heaviness; and if
+1391a29	they do wrong, they are not petty wrongdoers but wrongdoers on a grand scale.
+1391a30	Good fortune has the characters of the parts of what has been mentioned (for to these
+1391a31	tend what are thought to be the greatest pieces of good fortune), and besides, in
+1391a32	good children and the goods of the body good fortune provides an advantage.
+1391b1	People are more arrogant and more thoughtless because of their good fortune,
+1391b2	but one excellent character goes with good fortune: they love the gods and
+1391b3	stand in a certain relation to the divine, trusting it because of what comes from
+1391b4	fortune. About the characters that go with age and fortune, then, enough has been said; for
+1391b5	the opposites of those described are clear from the opposites,
+1391b6	for instance the character of the poor man, the unfortunate and the powerless.

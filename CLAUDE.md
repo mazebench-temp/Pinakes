@@ -9,7 +9,8 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 - `npm run check`: validate without writing. `npm test`: unit and content-integrity tests.
 - `npm run quotes`: register `{{quote:Iliad 1.1-7 | Title}}` tags and rewrite them as `{{quote:<uuid>}}`.
 - `npm run export`: static copy in `dist/` (entries bundled into a few chunks of under 3 MB).
-- `node scripts/checkquotes.mjs`: English quotations in articles that no longer match the translation.
+- `node scripts/checkquotes.mjs [work]`: English quotations in articles that no longer match the translation
+  (for `aristotle.poetics` and `aristotle.rhetoric`, quotations followed by Bekker references).
 - `node scripts/homographs.mjs [book]`: Greek patterns that catch words of two unrelated lemmas (by the lexicon).
 - `node scripts/lexicon.mjs skeleton|check|merge|lemmas`: build and validate a book's lexicon in parts.
 
@@ -21,17 +22,21 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
   Tags must exist in `content/tags.json`; kinds in `content/kinds.json`; story periods in
   `content/periods.json`. Keep Homer's own evidence separate from later sources ("Outside Homer"),
   cite precisely, and never invent a citation.
-- **Translation**: line-for-line, aligned by Greek line number. Fixed renderings of formulas and key
-  words are in `content/library/homer/iliad/TRANSLATION.md`; keep them consistent. The Poetics is
-  aligned by Bekker line (`1451a36`), and its key terms keep one English word each
-  (`content/library/aristotle/poetics/TRANSLATION.md`).
+- **Translation**: line-for-line, aligned by Greek line number (Bekker line in Aristotle). Fixed
+  renderings of formulas and key words are in each work's `TRANSLATION.md` (`homer/iliad`,
+  `aristotle/poetics`, `aristotle/rhetoric`); keep them consistent.
+- **Prose works** (Poetics, Rhetoric): rows are Bekker lines (`1451a36`), chapters are the work's
+  books (the Rhetoric's run 1–60 across its three books, shown by `books.N.label`, "2.1"), and the
+  key terms keep one English word each. Refs in their notes are bare Bekker lines
+  (`1355b26`); elsewhere they name the work (`Rhetoric 1355b26`).
 - **References**: in entry files a bare reference is an Iliad line; name any other work
-  (`refs: [Poetics 1451a36]`, `{{quote:Poetics 1449b24-28 | Title}}`, *Odyssey* 19.203 in prose).
+  (`refs: [Poetics 1451a36]`, `{{quote:Rhetoric 1355b25-27 | Title}}`, *Odyssey* 19.203 in prose).
   In a note, references default to the note's own work. A note's `grc` and `en` apply only within
   its work (or its author's works); put forms that would mislead elsewhere there, not in the entry.
 - **Quotations**: a work's structure file lists the passages that quote other authors (`source`,
-  `entry`, and `ref` or `cite`); the quoted Greek must carry quotation marks unless the item has
-  `"marks": 0`. Each quotation has an entry (kind `quotation`) with its source and context.
+  `entry`, and `ref` or `cite`); every quotation mark in the Greek must open one (`"marks": 0` for
+  an indirect quotation, `"marks": n` for a line of several proverbs). Each quotation has an entry
+  (kind `quotation` or `saying`, or the anecdote that already tells it) with its source and context.
 - **Greek forms** in entries are matched without accents; use `=form` for accent-sensitive matches,
   `^Form` for a name that is also a common word (Ὕλη, ὕλη "forest"), `!form` to exclude words a
   broader pattern would catch (Τρώ* without `!=Τρῳ*`), `+phrase` for a phrase the exclusions must
@@ -43,6 +48,8 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
 
 ## Pitfalls
 
+- Greek patterns are words, stems (`*`) and phrases matched within one line, never regular expressions;
+  in prose a phrase often breaks across lines, so pattern the part on one line.
 - When writing JS or MJS files, a `\u0300`-style escape in tool input can arrive as a literal
   combining character. `tests/lib.test.mjs` fails if a source file contains invisible characters;
   write the escape with a doubled backslash in tool input, then check the file.

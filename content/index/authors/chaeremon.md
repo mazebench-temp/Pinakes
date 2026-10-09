@@ -10,7 +10,7 @@ grc: [Χαιρήμ*]
 
 ## Life and work
 
-Chaeremon wrote in the middle of the fourth century; fragments of his plays, among them an *Achilles Thersitoktonos*, an *Alphesiboea* and a *Thyestes*, survive in quotation, many of them florid descriptions of women and flowers quoted by Athenaeus (13.608a–b). The *Rhetoric* places him among the poets whose works are written to be read (ἀναγνωστικοί), “precise like a speech-writer” (3.12, 1413b12–13).
+Chaeremon wrote in the middle of the fourth century; fragments of his plays, among them an *Achilles Thersitoktonos*, an *Alphesiboea* and a *Thyestes*, survive in quotation, many of them florid descriptions of women and flowers quoted by Athenaeus (13.608a–b). The *Rhetoric* places him among the poets whose works are written to be read (ἀναγνωστικοί), “precise, like a speechwriter” (*Rhetoric* 3.12, 1413b13).
 
 ## In the Poetics
 

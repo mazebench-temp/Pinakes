@@ -1,0 +1,73 @@
+# Aristotle, Rhetoric, Book I, Chapter 3 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1358a36	Rhetoric has three kinds in number; for there are just as many
+1358a37	kinds of hearers of speeches.
+1358a38	A speech is made up of three things: the speaker,
+1358b1	what he speaks about, and the one to whom he speaks; and the end is directed at this last,
+1358b2	I mean the hearer. The hearer must be either a spectator
+1358b3	or a judge, and a judge either of what has happened or of what is to come.
+1358b4	The one who judges about the future is the member of the assembly,
+1358b5	the one who judges about the past is the juror, and the one who judges
+1358b6	the speaker's ability is the spectator; so there must be three
+1358b7	kinds of rhetorical speeches: deliberative, judicial,
+1358b8	epideictic. Advice is either exhortation or
+1358b9	dissuasion; for both those who advise in private and those who
+1358b10	speak to the people in public always do one of these. A lawsuit is
+1358b11	either accusation or defense; for the litigants must
+1358b12	do one or the other. Epideictic is either
+1358b13	praise or blame. Each of these has its time: for the
+1358b14	adviser it is the future (for he advises about what is to be,
+1358b15	exhorting or dissuading); for the litigant, the past
+1358b16	(for it is always about what has been done that one accuses
+1358b17	and the other defends); for the epideictic speaker, above all
+1358b18	the present (for all praise or blame according to
+1358b19	what is the case), though they often make use of the past too,
+1358b20	recalling it, and of the future, forecasting it. Each of these
+1358b21	has a different end, and as there are three, there are three ends:
+1358b22	for the adviser, the advantageous and the harmful; for he who
+1358b23	exhorts advises a thing as better, and he who dissuades dissuades from it as
+1358b24	worse, and he brings in the other ends in support of this,
+1358b25	the just or unjust, the noble or shameful. For litigants
+1358b26	it is the just and the unjust, and they too bring in the others
+1358b27	in support of these. For those who praise and
+1358b28	blame, it is the noble and the shameful, and they too
+1358b29	refer the others to these. A sign that the end stated
+1358b30	is each one's end: about the other points they sometimes would not
+1358b31	dispute; the litigant, for instance, may not deny that a thing happened or that
+1358b32	he did harm, but that he did wrong he would never admit, for then there would be no
+1358b33	need of a trial. Likewise advisers often
+1358b34	give up the other points, but that they advise
+1358b35	what is not advantageous or dissuade from what is useful they would never admit; but that it is
+1358b36	unjust to enslave their neighbors, even those who
+1358b37	have done no wrong, they often do not care at all. Likewise
+1358b38	those who praise and those who blame do not consider
+1359a1	whether a man did what was advantageous or harmful, but in praise
+1359a2	they often count it to his credit that, heedless of his own profit,
+1359a3	he did something noble: so they praise Achilles because he came to the aid of
+1359a4	his companion Patroclus knowing that he must die, when he could have lived.
+1359a5	For him such a death was nobler, but to live
+1359a6	was advantageous. It is clear from what has been said that one must
+1359a7	first have premises about these; for tekmēria,
+1359a8	probabilities and signs are rhetorical premises: in general
+1359a9	a syllogism is made of premises, and the enthymeme
+1359a10	is a syllogism made of the premises we have described.
+1359a11	And since what is impossible cannot be done or have been done,
+1359a12	but only what is possible, and what did not happen or will not happen
+1359a13	cannot have been done or be going to be done,
+1359a14	the adviser, the litigant and
+1359a15	the epideictic speaker must all have premises about the possible and the impossible,
+1359a16	about whether a thing has happened or not, and whether it will be or not. Further, since
+1359a17	all, whether they praise or blame, exhort or
+1359a18	dissuade, accuse or defend, try to show not
+1359a19	only the points mentioned but also that something is great or
+1359a20	small, the good or the bad, the noble or the shameful, or
+1359a21	the just or the unjust, whether speaking of things by themselves or setting them
+1359a22	against one another, it is clear that one would also need premises about greatness
+1359a23	and smallness and the greater and the lesser,
+1359a24	both universally and about each thing: for instance, what is the greater
+1359a25	or lesser good, or wrong, or just act; and likewise
+1359a26	with the rest. The subjects, then, about which one must necessarily obtain
+1359a27	premises have been stated; after this we must distinguish separately
+1359a28	the subjects of each kind: those of advice, those
+1359a29	of epideictic speeches, and third those of lawsuits.

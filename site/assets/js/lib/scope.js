@@ -1,7 +1,7 @@
 // Scopes: the part of the library an article is studied at. An author ("homer"), a work ("homer.iliad"),
 // or a book of a work ("homer.iliad.2"); ALL is everything. The choice is remembered as the study scope.
 import * as store from './store.js';
-import { lineLabel, bookWord } from './cite.js';
+import { lineLabel, bookWord, bookLabel } from './cite.js';
 
 export const ALL = 'all';
 
@@ -135,6 +135,6 @@ export function pickerHtml(tree, S, cat, { counts = () => 0, all = 'All', aboutA
     author ? row(' works', `${name(author)}, by work`, [chip(author, e(aboutAuthor), S === author, 0, ` title="${e(name(author))} as a whole"`),
       ...works.map(w => chip(w, e(name(w)), on(w), counts(w)))]) : '',
     work ? row(' books', `${name(work)}, by ${bookWord(cat.by.works.get(work)).toLowerCase()}`, [chip(work, e(aboutWork), S === work, 0, ` title="${e(name(work))} as a whole"`),
-      ...books.map(b => chip(b, e(def(b)?.book ?? b), S === b, 0, ` aria-label="${e(bookWord(cat.by.works.get(work)))} ${e(def(b)?.book ?? '')}" title="${e(def(b)?.long ?? b)}"`))]) : '',
+      ...books.map(b => chip(b, e(bookLabel(cat.by.works.get(work), def(b)?.book ?? b)), S === b, 0, ` aria-label="${e(bookWord(cat.by.works.get(work)))} ${e(bookLabel(cat.by.works.get(work), def(b)?.book ?? ''))}" title="${e(def(b)?.long ?? b)}"`))]) : '',
   ].join('');
 }

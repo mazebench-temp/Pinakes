@@ -5,7 +5,7 @@ kind: animal
 tags: [livestock, sacrificial-animal]
 summary: The sheep, ὄις, kept in great white flocks for wool, milk and meat, and offered to the gods and the dead. In the similes flocks of sheep are the prey of lions and wolves, and the image of a people that follows its leader.
 aliases: [ewe, ewes, flock, ois]
-grc: [οἰῶν, πῶϋ]
+grc: ["=οἰῶν", πῶϋ]
 en: [sheep]
 ---
 

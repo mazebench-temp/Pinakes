@@ -1,0 +1,125 @@
+# Aristotle, Rhetoric, Book II, Chapter 2 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1378a30	Let anger be a longing, accompanied by pain, for revenge
+1378a31	[that is apparent], because of an apparent slight against
+1378a32	oneself or ⟨something⟩ of one's own, when the slight is not
+1378a33	warranted. If this is what anger is, the angry man must
+1378a34	always be angry with some particular
+1378a35	individual, for instance with Cleon but not with man in general,
+1378b1	and because he has done or was going to do something to him or to one of his own; and every anger must
+1378b2	be followed by a certain pleasure, that which comes from the hope of revenge. For it is pleasant
+1378b3	to think one will get what one aims at, and no one aims at things
+1378b4	that appear impossible for him, while the angry man aims at what is possible for him. That is why
+1378b5	it has been well said of temper, “which, far
+1378b6	sweeter than dripping honey, swells in the
+1378b7	breasts of men”; for a certain pleasure attends it,
+1378b8	both for this reason and because people dwell in
+1378b9	their thoughts on taking revenge; and the image that arises then
+1378b10	produces pleasure, as the images of dreams do. Since
+1378b11	a slight is the actualization of an opinion about what appears worth nothing
+1378b12	(for we think that bad things and good ones are worth taking seriously,
+1378b13	and so are the things that tend toward them; but whatever is nothing or small
+1378b14	we suppose worth nothing), there are three kinds of slight:
+1378b15	contempt, spite and outrage. For the one who despises
+1378b16	slights (for people despise what they think worth nothing,
+1378b17	and they slight what is worth nothing), and the one who spites appears
+1378b18	to slight. For spite is the thwarting of another's wishes, not so that
+1378b19	something may come to oneself but so that it may not come to him; since, then, it is not for any gain of his own, he slights;
+1378b20	for clearly he does not suppose that the other will harm him, or he would be afraid
+1378b21	and not slight him, nor that he could benefit him in anything
+1378b22	worth mentioning, or he would take care to be his friend. And
+1378b23	the one who commits outrage slights; for outrage is doing
+1378b24	and saying things at which the victim feels shame, not
+1378b25	so that anything may come to oneself other than what has happened, but for the pleasure of it;
+1378b26	for those who retaliate do not commit outrage but take revenge. The cause
+1378b27	of the pleasure for those who commit outrage is that they think that by ill-treating others
+1378b28	they show their own superiority the more (that is why the young and the rich are given to outrage:
+1378b29	they think they are superior when they commit outrage); and dishonor belongs to outrage, and
+1378b30	the one who dishonors slights; for what is worth nothing
+1378b31	has no honor, either for good or
+1378b32	for bad. That is why Achilles says in his anger,
+1378b33	“has dishonored me: he has taken my prize and keeps it himself,”
+1378b34	and “as if I were some dishonored vagrant,”
+1378b35	as being angry for these reasons. People think it fitting to be highly regarded by their inferiors in birth, in power, in virtue,
+1379a1	and in general in whatever they themselves are far superior in: for instance in
+1379a2	money the rich man over the poor, and in speaking the rhetorical man
+1379a3	over one who cannot speak, and the ruler over the ruled, and the one who
+1379a4	[thinks himself] worthy to rule over one who deserves to be ruled. That is why it has been said,
+1379a5	“Great is the spirit of kings whom Zeus has nurtured,” and “still
+1379a6	he keeps a grudge thereafter”; for they are vexed
+1379a7	because of their superiority. Further, people are angry with those by whom they think they should be well treated;
+1379a8	these are the people whom one has benefited or is benefiting, oneself or
+1379a9	someone on one's behalf or someone of one's own, or wishes or has wished to benefit.
+1379a10	From this, then, it is already clear in what state people are angry themselves,
+1379a11	with whom, and for what sort of reasons. They themselves are angry when they are pained;
+1379a12	for one who is pained is aiming at something; if, then, someone directly
+1379a13	opposes him in anything, for instance a thirsty man in drinking, or if
+1379a14	not directly, he appears to do the same thing all the same; and if someone works against him,
+1379a15	or does not work with him, or troubles him in some other way when he is in this state, he is angry
+1379a16	with them all. That is why the sick, the poor, ⟨those at war,⟩ lovers, the thirsty,
+1379a17	in general those who desire something and do not succeed, are irascible and easily roused,
+1379a18	above all against those who slight their present condition: the sick man against those who slight
+1379a19	his illness, the poor man against those who slight his poverty, the man at war against those who slight
+1379a20	his war, the lover against those who slight his love,
+1379a21	and so with the others ⟨and if not that, then if anyone
+1379a22	slights anything else⟩; for each has his path
+1379a23	to his own anger prepared by the emotion
+1379a24	present in him. Again, if one happens to expect the opposite;
+1379a25	for what is far from expectation pains more, just as what is far from expectation
+1379a26	delights more if what one wishes comes about. That is why
+1379a27	seasons and times and dispositions and ages are clear from this,
+1379a28	which are easily moved to anger, and where and when;
+1379a29	and the more people are in these conditions, the more easily they are moved.
+1379a30	Those, then, who are in this state are easily moved to anger; and they are angry
+1379a31	with those who laugh at them, mock them and jeer at them
+1379a32	(for they commit outrage), and with those who do them the kind of harm that
+1379a33	is a sign of outrage; such acts must be done neither in return for anything
+1379a34	nor for the benefit of those who do them; for then they seem to be done through outrage. And
+1379a35	with those who speak ill of and despise what they themselves are most serious about: for instance
+1379a36	those who pride themselves on philosophy, if someone speaks against philosophy, and those who pride themselves on their
+1379a37	looks, if someone speaks against their looks, and likewise in the other cases. And this is far
+1379a38	more so if they suspect that these things are not theirs, either at all or not strongly, or not in others' opinion;
+1379b1	for when they are quite sure that they excel in the things
+1379b2	at which they are jeered, they do not care. And with friends more
+1379b3	than with those who are not friends; for they think it more fitting
+1379b4	to be well treated by them than not. And with those who are used to honoring them or
+1379b5	paying attention to them, if they no longer behave so toward them; for they think that by these too
+1379b6	they are despised, or they would do the same as before. And with those
+1379b7	who do not return their benefits nor repay them equally. And with those
+1379b8	who act against them, if they are their inferiors; for all such people
+1379b9	appear to despise them, the one as though they were inferiors, the other
+1379b10	as though the benefits came from inferiors. And with those of no account, if they
+1379b11	slight them at all, all the more; for anger at a slight is assumed to be against
+1379b12	those for whom slighting is not fitting, and it is fitting for inferiors not to slight.
+1379b13	And with friends, if they do not speak or act well toward them, and
+1379b14	still more if they do the opposite, and if they do not perceive their needs,
+1379b15	as Plexippus in Antiphon's play was with Meleager; for not perceiving is a sign
+1379b16	of slight, since what we care about does not
+1379b17	escape our notice. And with those who rejoice at their misfortunes and in general
+1379b18	are cheerful in the midst of their misfortunes; for this is a sign either of an enemy or of one who slights.
+1379b19	And with those who do not care if they cause them pain;
+1379b20	that is why people are angry with those who bring bad news. And with those who either listen
+1379b21	to stories about their faults or look on at them; for they are like
+1379b22	either those who slight them or enemies; for friends share the pain, and all who look on at
+1379b23	their own faults are pained. Further, with those who slight them before
+1379b24	five kinds of people: those with whom they compete for honor, those whom they admire, those
+1379b25	by whom they wish to be admired, those before whom they feel shame, or those who
+1379b26	feel shame before them; if anyone slights them before these, they are
+1379b27	angrier. And with those who slight such things as it would be shameful for them
+1379b28	not to defend: parents, children, wives, subjects.
+1379b29	And with those who do not return a favor; for the slight is
+1379b30	contrary to what is fitting. And with those who use irony against people who are serious;
+1379b31	for irony is contemptuous. And with those who do good to others,
+1379b32	if not to them as well; for this too is contemptuous, not to
+1379b33	think a man worthy of what everyone else is thought worthy of. Forgetfulness, too, produces anger,
+1379b34	even forgetting names, trivial as it is;
+1379b35	for forgetfulness too seems to be
+1379b36	a sign of slight: for it comes about
+1379b37	through neglect, and
+1379b38	neglect is a kind of slight.
+1380a1	With whom people are angry, then, and in what state, and for what reasons, has
+1380a2	been said together; and it is clear that the speaker would need to bring the hearers by his speech into
+1380a3	the state of those who are prone to anger, and to show his opponents
+1380a4	liable for the things at which people are angry, and of the kind with whom
+1380a5	people are angry.

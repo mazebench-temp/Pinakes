@@ -9,4 +9,4 @@ Chapter 20 lists the parts of diction, “letter, syllable, connective, noun, ve
 
 {{quote:46f5704d-f99c-5a3d-8b58-fd2d09d4c3bf}}
 
-The sounds of animals are indivisible too, but none of them is a letter (1456b23–24). Letters differ in the shape of the mouth, the place of articulation, aspiration, length and pitch, “each of which should be studied in works on meter” (1456b31–34). The letters on which nouns end are listed in chapter 21 (see [[gender-of-nouns]]).
+The sounds of animals are indivisible too, but none of them is a letter (1456b23–24). Letters differ in the shape of the mouth, the place of articulation, aspiration, length and pitch, “each of these should be studied in works on meter” (1456b31–34). The letters on which nouns end are listed in chapter 21 (see [[gender-of-nouns]]).

@@ -1,0 +1,23 @@
+# Aristotle, Rhetoric, Book II, Chapter 14 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1390a28	Those in their prime will clearly be between these two in character,
+1390a29	taking away the excess of each, neither very
+1390a30	confident (for that is rashness) nor too
+1390a31	fearful, but well disposed toward both, neither
+1390a32	trusting everyone nor distrusting everyone, but
+1390a33	judging rather by the truth, and living neither for
+1390a34	the noble alone nor for the advantageous
+1390b1	but for both, and neither for thrift nor for extravagance
+1390b2	but for what is fitting, and likewise with regard to temper and
+1390b3	appetite, self-controlled with courage and courageous with
+1390b4	self-control. For in the young and the old these are divided:
+1390b5	the young are courageous and licentious, the
+1390b6	older self-controlled and cowardly. To put it generally,
+1390b7	whatever useful qualities youth and old age have divided between them,
+1390b8	the prime has both, and where they exceed or fall short,
+1390b9	it has the mean and the fitting. The body is in its prime
+1390b10	from thirty years to thirty-
+1390b11	five, the soul at about forty-nine.
+1390b12	About youth, then, and old age and the prime,
+1390b13	and what characters each has, let this be enough.

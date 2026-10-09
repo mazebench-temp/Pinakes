@@ -8,6 +8,7 @@ aliases: [favored by heaven, moiregenes, olbiodaimon]
 grc: [μάκαρ, μοιρηγενὲς, ὀλβιόδαιμον]
 en: [blessed, child of fortune, favored by heaven]
 of: [agamemnon]
+except: [Rhetoric 1401a18]
 ---
 
 ## Meaning

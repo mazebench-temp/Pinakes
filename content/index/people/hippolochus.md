@@ -7,7 +7,7 @@ summary: Son of Bellerophon and father of the Lycian Glaucus, who sent his son t
 aliases: [Hippolochos]
 grc: [Ἱππολόχοιο, Ἱππόλοχον, Ἱππόλοχος]
 # Ἱππόλοχος at 11.122 and 11.145 is the son of Antimachus.
-except: [11.122, 11.145]
+except: [11.122, 11.145, Rhetoric 1368a17]
 # Ἱππολόχοιο is always Glaucus' father (6.119, 6.144; 7.13, 12.309, 12.387, 17.140). Ἱππόλοχον and
 # Ἱππόλοχος recur for the Trojan Hippolochus, son of Antimachus (11.122, 11.145), who will need his
 # own id; this entry will need to except those lines.

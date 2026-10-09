@@ -12,7 +12,7 @@ grc: [γελοι*]
 
 ## The ridiculous
 
-Comedy imitates people worse than we are, not in every kind of badness, but in the ugly, of which the ridiculous is a part (see [[comedy]], [[aischros]] and [[mask]]). Homer's *Margites* first dramatized not invective but the ridiculous (1448b36–38; see [[margites]]). Aristotle says in the *Rhetoric* that the kinds of jest have been listed in the *Poetics*, in the lost book on comedy (3.18, 1419b5–6; see [[the-lost-book-on-comedy]]).
+Comedy imitates people worse than we are, not in every kind of badness, but in the ugly, of which the ridiculous is a part (see [[comedy]], [[aischros]] and [[mask]]). Homer's *Margites* first dramatized not invective but the ridiculous (1448b36–38; see [[margites]]). Aristotle says in the *Rhetoric* that the kinds of jest have been listed in the *Poetics*, in the lost book on comedy (*Rhetoric* 3.18, 1419b5–7; see [[the-lost-book-on-comedy]]).
 
 In the Iliad Thersites says “whatever he thought would make the Argives laugh”, γελοίϊον (2.215–216; see [[thersites]] and [[odysseus-and-thersites]]), and the gods laugh without end at the lame Hephaestus bustling through the hall (1.599–600; see [[laughter-of-the-gods]]).
 

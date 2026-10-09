@@ -1,7 +1,7 @@
 import { el, esc, icon, on, throttle, copyText, plural } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { openSheet, closeSheet, peek, toast, segmented, quoteCard, makeQuoteTag } from '../ui/components.js';
-import { isBekker, isProse, bookWord, bookMark, lineLabel, rangeLabel, refOf, lineButton, lineMarked, parseLineInput } from '../lib/cite.js';
+import { isBekker, isProse, bookWord, bookLabel, bookMark, lineLabel, rangeLabel, refOf, lineButton, lineMarked, parseLineInput } from '../lib/cite.js';
 
 // ── Parse labels ────────────────────────────────────────────────────────────
 const ABBR = {
@@ -64,6 +64,7 @@ export async function render(route, { go }) {
   const p = store.prefs;
   const prose = isProse(work), bekker = isBekker(work);
   const Book = bookWord(work);
+  const BL = n => esc(bookLabel(work, n));
   // Prose keeps its own layout preference, so that running text never reaches the verse reader.
   const layoutPref = () => prose ? (p.proseLayout ?? 'run') : (p.layout === 'run' ? 'stacked' : p.layout);
   const hasLex = text.lex.length > 0;
@@ -131,7 +132,7 @@ export async function render(route, { go }) {
       <header class="reader-head">
         <div class="reader-title">
           <div class="book-letter${prose ? ' numeral' : ''}">${esc(bookMark(work, book))}</div>
-          <div><div class="eyebrow">${esc(work.title)} · ${Book} ${book}</div>
+          <div><div class="eyebrow">${esc(work.title)} · ${Book} ${BL(book)}</div>
             <h1 data-title-anchor>${esc(text.title)}</h1>
             ${text.greek ? `<div class="grc">${esc(text.greek)}</div>` : ''}</div>
         </div>
@@ -141,7 +142,7 @@ export async function render(route, { go }) {
       <div class="reader-body">${body}</div>
       ${(() => {
         const avail = work.available ?? [];
-        const nav = (b, dir) => avail.includes(b) ? `<a class="book-nav ${dir}" href="#/read/${esc(workId)}/${b}"><span class="bn-label">${dir === 'next' ? 'Next' : 'Previous'} · ${Book} ${b}</span><span class="bn-title">${esc(work.books?.[b]?.title ?? `${Book} ${b}`)}</span></a>` : '';
+        const nav = (b, dir) => avail.includes(b) ? `<a class="book-nav ${dir}" href="#/read/${esc(workId)}/${b}"><span class="bn-label">${dir === 'next' ? 'Next' : 'Previous'} · ${Book} ${BL(b)}</span><span class="bn-title">${esc(work.books?.[b]?.title ?? `${Book} ${BL(b)}`)}</span></a>` : '';
         const links = nav(book - 1, 'prev') + nav(book + 1, 'next');
         return links ? `<nav class="book-nav-row" aria-label="${Book}s">${links}</nav>` : '';
       })()}
@@ -239,7 +240,7 @@ export async function render(route, { go }) {
     const body = el(`<div>
       <div class="word-head">
         <div class="word-form" lang="grc">${esc(w)}</div>
-        ${a ? `<div class="word-lemma" lang="grc">${esc(lemma)}${info ? ` <span style="font-family:var(--ui);font-size:13px;color:var(--text-3)">· ${plural(info[2], 'time')} in ${Book} ${book}</span>` : ''}${info?.[4] && (work.available ?? []).some(b => b < book) ? ` <span class="new-word">New in ${Book} ${book}</span>` : ''}</div>
+        ${a ? `<div class="word-lemma" lang="grc">${esc(lemma)}${info ? ` <span style="font-family:var(--ui);font-size:13px;color:var(--text-3)">· ${plural(info[2], 'time')} in ${Book} ${BL(book)}</span>` : ''}${info?.[4] && (work.available ?? []).some(b => b < book) ? ` <span class="new-word">New in ${Book} ${BL(book)}</span>` : ''}</div>
           <div class="word-books" hidden></div>
           <div class="word-gloss">${esc(a[1])}</div>
           <div class="parse"><span class="pos">${esc(parse.pos)}</span>${parse.parts.map(x => `<span>${esc(x)}</span>`).join('')}</div>
@@ -248,7 +249,7 @@ export async function render(route, { go }) {
       ${ents.length ? `<div class="section" style="margin-top:6px"><div class="section-title small" style="margin-bottom:8px">In the index</div><div class="chips wrap">${ents.map(chip).join('')}</div></div>` : ''}
       <div class="section" style="margin-top:18px"><div class="section-title small" style="margin-bottom:8px">${esc(cite(line.n))}</div>
         <div class="ctx-line"><div class="g" lang="grc">${ctx}</div><div class="e">${esc(line.en)}</div></div></div>
-      ${others.length ? `<div class="section" style="margin-top:18px"><div class="section-title small" style="margin-bottom:8px">Also in ${Book} ${book}</div>
+      ${others.length ? `<div class="section" style="margin-top:18px"><div class="section-title small" style="margin-bottom:8px">Also in ${Book} ${BL(book)}</div>
         <div class="list">${others.slice(0, 8).map(n => {
           const l = lineByN.get(n);
           return `<button class="row" type="button" data-jump="${n}"><span class="row-main"><span class="row-sub one" style="font-size:12px;color:var(--text-3)">${esc(cite(n))}</span><span class="grc" style="font-size:16px">${esc(l.grc)}</span></span></button>`;
@@ -262,7 +263,7 @@ export async function render(route, { go }) {
       const box = body.querySelector('.word-books');
       const parts = (work.available ?? []).map(b => [b, b === book ? (info?.[2] ?? 0) : (map.get(b)?.get(lemma) ?? 0)]);
       const total = parts.reduce((t, [, c]) => t + c, 0);
-      box.innerHTML = `${esc(work.title)}: ${plural(total, 'time')} · ${parts.map(([b, c]) => `<span${b === book ? ' class="here"' : ''}>${Book} ${b} <b>${c}</b></span>`).join(' · ')}`;
+      box.innerHTML = `${esc(work.title)}: ${plural(total, 'time')} · ${parts.map(([b, c]) => `<span${b === book ? ' class="here"' : ''}>${Book} ${BL(b)} <b>${c}</b></span>`).join(' · ')}`;
       box.hidden = false;
     }).catch(() => {});
   }
@@ -312,7 +313,7 @@ export async function render(route, { go }) {
       <div class="list">${quotations.map(q => `<button class="row" type="button" data-jump="${q.from}"><span class="row-main"><span class="row-title"><span>${esc(q.source ? title(q.source) : 'Unknown source')}</span><span class="row-meta" style="margin-left:auto;font-size:13px">${esc(span(q.from, q.to))}</span></span><span class="row-sub one">${esc(q.cite)}</span></span></button>`).join('')}</div>` : ''}
       ${text.days.length ? `<div class="section-title small" style="margin:22px 4px 8px">Days</div>
       <div class="list">${text.days.map(d => `<button class="row" type="button" data-jump="${d.from}"><span class="row-main"><span class="row-title"><span>${esc(d.label)}</span><span class="row-meta" style="margin-left:auto;font-size:13px">${d.from}–${d.to}</span></span><span class="row-sub">${esc(d.note)}</span></span></button>`).join('')}</div>` : ''}
-      <div class="list" style="margin-top:22px"><a class="row" href="#/book/${workId}/${book}"><span class="row-main"><span class="row-title"><span>${Book} ${book} at a glance</span></span></span>${icon('chevron', 'chev')}</a>${hasLex ? `<a class="row" href="#/vocab/${workId}/${book}"><span class="row-main"><span class="row-title"><span>Vocabulary of ${Book} ${book}</span></span></span>${icon('chevron', 'chev')}</a>` : ''}</div>
+      <div class="list" style="margin-top:22px"><a class="row" href="#/book/${workId}/${book}"><span class="row-main"><span class="row-title"><span>${Book} ${BL(book)} at a glance</span></span></span>${icon('chevron', 'chev')}</a>${hasLex ? `<a class="row" href="#/vocab/${workId}/${book}"><span class="row-main"><span class="row-title"><span>Vocabulary of ${Book} ${BL(book)}</span></span></span>${icon('chevron', 'chev')}</a>` : ''}</div>
     </div>`);
     on(body, 'click', '[data-jump]', (e, b) => { closeSheet(); jump(+b.dataset.jump, false, true); });
     body.querySelector('[data-goto]').addEventListener('submit', e => {
@@ -321,7 +322,7 @@ export async function render(route, { go }) {
       if (n !== null && lineByN.has(n)) { closeSheet(); jump(n, true); }
     });
     body.querySelectorAll('a.row').forEach(a => a.addEventListener('click', () => closeSheet()));
-    openSheet({ title: `Contents · ${Book} ${book}`, content: body });
+    openSheet({ title: `Contents · ${Book} ${BL(book)}`, content: body });
   }
 
   function displaySheet() {
@@ -405,7 +406,7 @@ export async function render(route, { go }) {
     const n = +found.dataset.n;
     store.setPref('lastRead', { work: workId, book, n, scene: sceneOf(n)?.title ?? '' });
     const title = document.getElementById('nav-title');
-    if (title) title.textContent = window.scrollY > 300 ? `${work.title} ${label(n)}` : `${work.title} ${book}`;
+    if (title) title.textContent = window.scrollY > 300 ? `${work.title} ${label(n)}` : `${work.title} ${bookLabel(work, book)}`;
   }, 250);
   const progress = el('<div class="read-progress" aria-hidden="true"><i></i></div>');
   const onProgress = () => {
@@ -415,7 +416,7 @@ export async function render(route, { go }) {
   const onResize = () => applyPrefs();
 
   return {
-    title: `${work.title} ${book}`,
+    title: `${work.title} ${bookLabel(work, book)}`,
     el: view,
     actions: [
       { icon: 'contents', label: 'Contents', run: contentsSheet },

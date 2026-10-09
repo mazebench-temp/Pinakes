@@ -1,0 +1,36 @@
+# Aristotle, Rhetoric, Book II, Chapter 18 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1391b7	Since the use of persuasive speeches is directed toward judgment (for about
+1391b8	what we know and have judged there is no further need of speech), and there is judgment
+1391b9	both if one uses speech to exhort or dissuade a single person,
+1391b10	as those do who admonish or persuade (for the single person is no less
+1391b11	a judge; for the one who must be persuaded is, simply speaking,
+1391b12	the judge), and if one speaks against opponents or against a proposition,
+1391b13	alike (for one must use speech and demolish
+1391b14	the opposing arguments, against which one makes one's speech as against an opponent),
+1391b15	and likewise in epideictic speeches (for the speech is composed for the
+1391b16	spectator as for a judge; though in general only he is a judge in the full sense
+1391b17	who decides the questions at issue in political contests; for both
+1391b18	the points in dispute are examined, how they stand, and the matters on which people deliberate);
+1391b19	and since the characters of the constitutions were discussed earlier, in the treatment of
+1391b20	deliberative speech—it would be determined how, and
+1391b21	by what means, one should make speeches show character. And since
+1391b22	for each kind of speech the end was different, and for
+1391b23	all of them the opinions and premises have been taken
+1391b24	from which people draw their proofs when advising,
+1391b25	displaying and disputing, and further those from which it is possible to make
+1391b26	speeches show character, and these have been defined, it remains
+1391b27	for us to go through the common topics. For all must
+1391b28	make use in their speeches of the topic of the possible and impossible, and
+1391b29	try to show, some that something will be, others that it has been.
+1391b30	Further, ⟨the topic⟩ of greatness is common to all speeches;
+1391b31	for all use diminishing and amplifying, whether advising or
+1391b32	praising or blaming, accusing or defending.
+1392a1	When these have been determined, let us try to speak about enthymemes in general,
+1392a2	if we have anything to say, and about examples,
+1392a3	so that by adding what remains we may complete our original plan.
+1392a4	Of the common topics, amplification is most appropriate to
+1392a5	epideictic speeches, as has been said, what has happened
+1392a6	to judicial ones (for the judgment is about this),
+1392a7	the possible and the future to deliberative ones.

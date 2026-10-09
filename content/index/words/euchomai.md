@@ -6,7 +6,7 @@ tags: [speech, prayer]
 summary: A verb of solemn declaration. εὔχομαι means “pray” and “vow” to a god and “claim” or “boast” before men; the noun εὐχωλή is a vow, a thing to boast of, or a shout of triumph.
 aliases: [euchomai, eukhomai, euchōlē, euchole, eukhos, boast, claim, vow]
 # Εὐχήνωρ (13.663) is a man, the son of the seer Polyidus.
-grc: [εὐχ*, εὐξ*, "!ἐΰξοον", "!ἐϋξου", "!ἐϋξεστ*", "!εὐχαλκ*", "!^Εὐχην*"]
+grc: [εὐχ*, εὐξ*, "!ἐΰξοον", "!ἐϋξου", "!ἐϋξεστ*", "!εὐχαλκ*", "!^Εὐχην*", "!^Εὐξεν*"]
 en: [claims, boast, boasted, boasting, cries of triumph]
 ---
 

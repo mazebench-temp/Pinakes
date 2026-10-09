@@ -226,5 +226,6 @@
       "path": "en/{book}.txt"
     }
   ],
-  "structure": "structure/{book}.json"
+  "structure": "structure/{book}.json",
+  "lexicon": "lexicon/{book}.json"
 }

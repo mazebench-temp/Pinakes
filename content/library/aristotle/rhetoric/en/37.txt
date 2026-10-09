@@ -1,0 +1,89 @@
+# Aristotle, Rhetoric, Book II, Chapter 22 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1395b20	As for enthymemes, let us speak first in general about the way
+1395b21	one should look for them, and after that about the topics;
+1395b22	for each of these is a different kind of thing. That
+1395b23	the enthymeme is a syllogism has been said
+1395b24	before, and how it is a syllogism, and how it differs from the
+1395b25	dialectical ones; for one should not draw the conclusion from far back, nor
+1395b26	by taking in every step: the first is unclear because of the length, the second is idle talk
+1395b27	because it states the obvious. This is also why the uneducated are more
+1395b28	persuasive than the educated before crowds, as
+1395b29	the poets say that the uneducated speak more
+1395b30	musically before a crowd; for the educated state what is common and universal,
+1395b31	the uneducated speak from what they know, and of what is near at hand; so one must speak not from
+1395b32	all opinions but from those that are defined,
+1395b33	for instance those of the judges, or of those whom the judges accept,
+1396a1	and this because it is evident that this seems so to all or
+1396a2	most; and one should draw conclusions not only from what is necessary,
+1396a3	but also from what holds for the most part. First, then,
+1396a4	one must grasp that about whatever one must speak and reason,
+1396a5	whether with a political syllogism or any other, one must
+1396a6	also have the facts that belong to it, either all or some; for if
+1396a7	you had none you would have nothing to draw a conclusion from. I mean, for instance, how could
+1396a8	we advise the Athenians whether to go to war or
+1396a9	not, without knowing what their power is, whether naval
+1396a10	or infantry or both, and how great, and what their revenues are, or
+1396a11	their friends and enemies, and then what wars they have waged and how,
+1396a12	and all the rest of the kind? Or how could we praise them, if we did not have the
+1396a13	sea battle at Salamis, or the battle at Marathon, or what was done for
+1396a14	the Heraclidae, or something else of the kind? For it is from the
+1396a15	noble things that belong, or seem to belong, to them that all people praise.
+1396a16	Likewise they blame from the opposites, looking to see what
+1396a17	such thing belongs or seems to belong to them: for instance, that they
+1396a18	enslaved the Greeks, and that they reduced to slavery those who had
+1396a19	fought with them against the barbarian and distinguished themselves, the Aeginetans
+1396a20	and Potidaeans, and all other such things, if any other
+1396a21	such error belongs to them. In the same way
+1396a22	accusers and defenders, looking at the facts,
+1396a23	accuse and defend. It makes no difference whether it is about
+1396a24	Athenians or Lacedaemonians, or a man or a god, that one does this same thing;
+1396a25	for in advising Achilles, and in praising and
+1396a26	blaming him, and accusing and defending him,
+1396a27	one must take the facts that belong, or seem to belong, to him, so that we may speak from these,
+1396a28	praising or blaming if anything noble or shameful belongs to him,
+1396a29	accusing or defending if anything just or unjust,
+1396a30	advising if anything advantageous or harmful. And likewise with these
+1396a31	about any subject whatever, for instance about justice, whether it is good or not
+1396a32	good, from what belongs to justice and to the good. So, since
+1396a33	all evidently demonstrate in this way, whether they reason more precisely
+1396b1	or more loosely (for they do not take premises from everything
+1396b2	but from what belongs to each subject), and since through argument it is clear that
+1396b3	it is impossible to demonstrate otherwise, it is evident that one must, as in the
+1396b4	Topics, first have for each subject a selection of premises about what is possible
+1396b5	and most opportune, and about what arises on the spur of the moment
+1396b6	look in the same way, looking not to what is indefinite
+1396b7	but to what belongs to the subject of the speech, and marking out
+1396b8	as many facts as possible, and as close as possible to the subject; for the more
+1396b9	facts one has, the easier it is to demonstrate, and the
+1396b10	closer they are, the more appropriate they are and the less common. By
+1396b11	common I mean praising Achilles because he is a man and one of
+1396b12	the demigods and because he went on the expedition against Ilium; for these
+1396b13	belong to many others too, so that such a speaker praises
+1396b14	Achilles no more than Diomedes; by particular, what has happened to no one else
+1396b15	but Achilles: for instance, killing Hector,
+1396b16	the best of the Trojans, and Cycnus, who prevented all
+1396b17	from landing, being invulnerable; and that he went on the expedition when youngest and not
+1396b18	bound by the oath; and all other such things. One
+1396b19	way of selection, then, and the first, is this, by topics;
+1396b20	now let us speak of the elements of enthymemes; by element I mean
+1396b21	the same thing as a topic of enthymeme. Let us speak first of what
+1396b22	must be spoken of first. There are two kinds of enthymemes:
+1396b23	some are demonstrative, that something is or is not, others
+1396b24	refutative; and they differ as refutation and syllogism differ in
+1396b25	dialectic. The demonstrative enthymeme
+1396b26	draws its conclusion from what is agreed, the refutative
+1396b27	brings together what is inconsistent. We
+1396b28	have, then, pretty much the topics about each of the kinds that are useful
+1396b29	and necessary; for the premises about each have been
+1396b30	selected, so that the topics from which one must draw
+1396b31	enthymemes about good or bad, noble or shameful,
+1396b32	just or unjust, and likewise about characters, emotions and
+1396b33	states, have already been grasped by us.
+1397a1	Further, let us take another way, a general one about all things, and
+1397a2	speak, marking off the refutative and
+1397a3	demonstrative topics, and those of apparent enthymemes, which are not
+1397a4	enthymemes, since they are not syllogisms either. When these
+1397a5	have been made clear, let us determine about solutions and objections,
+1397a6	from what sources one should bring them against enthymemes.

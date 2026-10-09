@@ -9,6 +9,7 @@ grc: [Τεῦκρος]
 relations:
   - father: telamon (8.281-284)
   - brother: ajax (8.330, 12.371, 15.436)
+except: [Rhetoric 1398a4]
 ---
 
 ## Etymology

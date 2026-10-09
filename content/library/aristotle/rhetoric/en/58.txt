@@ -1,0 +1,100 @@
+# Aristotle, Rhetoric, Book III, Chapter 17 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1417b21	The proofs should be demonstrative; and since the dispute
+1417b22	is about one of four things, one should demonstrate by bringing the demonstration
+1417b23	to bear on the point disputed: for example, if what is in dispute is that the thing
+1417b24	did not happen, in the judgment the demonstration must be brought above all on this point;
+1417b25	if that he did no harm, on that; and if that the harm was not so great,
+1417b26	or that it was just, likewise, as when the dispute is about whether the thing
+1417b27	happened. It must not escape us that only in this
+1417b28	dispute must one of the two be wicked; for ignorance is not
+1417b29	the cause, as it would be if people were disputing about what is just;
+1417b30	so one should dwell on this point, but not in the other cases. In
+1417b31	epideictic speeches, for the most part, the amplification should be that the deeds are noble and
+1417b32	beneficial; for the facts must be taken on trust; speakers seldom bring demonstrations
+1417b33	of these too, only if they are incredible, or if someone else has the
+1417b34	credit. In speeches to the assembly one might contend either that a thing will not
+1417b35	happen, or that what the speaker urges will happen if they do it, but
+1417b36	that it is not just, or not beneficial, or not so great. One should also
+1417b37	see whether the speaker tells any lie outside the subject; for these
+1417b38	appear to be tekmēria that he lies about the rest too.
+1418a1	Examples are better suited to speaking to the assembly,
+1418a2	enthymemes to judicial speech; for the one is about the
+1418a3	future, so that examples must be drawn from
+1418a4	past events; the other is about what is or is not, where there is more
+1418a5	demonstration and necessity; for what has happened has necessity.
+1418a6	Enthymemes should not be stated in a row, but mixed in;
+1418a7	otherwise they harm one another. For there is a limit
+1418a8	to quantity too: “My friend, since you have said as much as a sensible man would,”
+1418a9	not “such things as”. And do not look for enthymemes about everything;
+1418a10	otherwise you will do what some philosophers do,
+1418a11	who prove by syllogism what is better known and more credible than the premises
+1418a12	they argue from. And when you are rousing emotion, do not state an enthymeme (for either
+1418a13	it will drive out the emotion, or the enthymeme will have been stated
+1418a14	in vain; for movements that occur together drive each other out, and either
+1418a15	cancel or weaken each other); nor, when the speech is to show character,
+1418a16	should one look for an enthymeme at the same time; for demonstration has neither
+1418a17	character nor choice. Maxims should be used both
+1418a18	in narration and in proof, for they show character: “And I gave it,
+1418a19	though I knew one should not trust.” Or with emotion:
+1418a20	“And I do not regret it, though I have been wronged; his
+1418a21	is the profit, mine the justice.” Speaking to the assembly
+1418a22	is harder than pleading in court, reasonably enough, because it concerns the
+1418a23	future, while pleading concerns the past, which is already knowable even to
+1418a24	seers, as Epimenides the Cretan said (for he did not divine
+1418a25	about what was to be, but about what had happened
+1418a26	and was obscure); and in judicial speeches the law is the starting point,
+1418a27	and with a starting point it is easier to find a demonstration. And speaking to the assembly does not allow many
+1418a28	digressions, such as against the opponent or about oneself, or arousing
+1418a29	emotion; it allows them least of all, unless the speaker leaves the subject. So
+1418a30	when at a loss one should do what the orators at Athens do,
+1418a31	and Isocrates: for even when giving advice he accuses,
+1418a32	the Lacedaemonians in the Panegyricus and Chares in the Symmachicus.
+1418a33	In epideictic speeches one should vary the speech with episodes
+1418a34	of praise, as Isocrates does; for he is always bringing someone in. And
+1418a35	what Gorgias used to say, that he never ran short of things to say, comes to the same
+1418a36	thing; for if he speaks of Achilles he praises Peleus, then Aeacus,
+1418a37	then the god, and likewise courage, which does this and that
+1418a38	or is of such a kind. If you have demonstrations, then, you should speak both so as to show character
+1418a39	and demonstratively; if you have no enthymemes, so as to show character;
+1418a40	and it suits a decent man better
+1418b1	to appear good than to make his speech precise. Of
+1418b2	enthymemes, the refutative are better liked than the demonstrative,
+1418b3	because whatever produces a refutation is more plainly a syllogism;
+1418b4	for opposites are more easily known side by side.
+1418b5	Replies to the opponent are not a separate kind; they belong to
+1418b6	the proofs, refuting some points by objection and others by syllogism.
+1418b7	Both in advice and in a lawsuit, the one who speaks first should state
+1418b8	his own proofs first, and afterward meet the opposing arguments,
+1418b9	refuting them and tearing them apart in advance. But if the opposing case
+1418b10	has many arguments, deal with these first, as Callistratus did
+1418b11	in the Messenian assembly: he first demolished what they would say, and only
+1418b12	then made his own case. The one who speaks second should first speak against the opposing
+1418b13	speech, refuting it and drawing counter-syllogisms, especially
+1418b14	if it has been well liked; for just as the mind does not accept a man
+1418b15	who has been slandered beforehand, so it does not accept a speech either, if
+1418b16	the opponent seems to have spoken well. One must therefore make room
+1418b17	in the hearer for the speech to come; and this will happen if you demolish the opponent's;
+1418b18	so after fighting against all his arguments, or the greatest, or those well liked, or those
+1418b19	easily refuted, one should then make one's own case credible:
+1418b20	“First I will be an ally of the goddesses; for I …
+1418b21	Hera …”: in these lines the speaker first takes up the
+1418b22	silliest point. So much for proofs.
+1418b23	As for character: since to say some things about oneself
+1418b24	brings envy, or long-windedness, or contradiction,
+1418b25	and to say them about another brings abuse or boorishness, one should make
+1418b26	someone else speak, as Isocrates does in the
+1418b27	Philippus and in the Antidosis, and as Archilochus blames: he makes
+1418b28	the father speak about his daughter in the
+1418b29	iambic poem, “Nothing is beyond hope, nothing can be sworn impossible,”
+1418b30	and Charon the carpenter in the iambic poem that begins
+1418b31	“Not for me the wealth of Gyges,” and as Sophocles makes Haemon speak
+1418b32	for Antigone to his father as if others were saying it.
+1418b33	One should also sometimes change enthymemes
+1418b34	and make maxims of them, as “Men of sense should make
+1418b35	peace when they are prosperous;
+1418b36	for in this way they would gain the most,”
+1418b37	and as an enthymeme: “For if, when reconciliations are most beneficial
+1418b38	and bring the most gain, one should then
+1418b39	make peace, one should make peace when prosperous.”

@@ -10,6 +10,7 @@ en: [word, words, orders, speech]
 passages:
   - 1.210-214 | Reproach him with words
   - 1.304-305 | They fought with hostile words
+except: [Rhetoric 1357a26]
 ---
 
 ## Meaning

@@ -1,0 +1,90 @@
+# Aristotle, Rhetoric, Book III, Chapter 10 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1410b6	Since these matters have been settled, we must say where urbane
+1410b7	and well-liked sayings come from. To make them belongs
+1410b8	to the gifted or the trained man; to show what they are belongs to this
+1410b9	method. Let us, then, state them and count them up; and let this
+1410b10	be our starting point. Learning easily is naturally pleasant to all,
+1410b11	and words signify something, so that the words
+1410b12	that give us learning are the most pleasant. Rare words are unknown to us,
+1410b13	and standard words we know already; it is metaphor that does this most.
+1410b14	When the poet calls old age “stubble”, he gives us learning and
+1410b15	knowledge through the genus, for both have lost their bloom. The
+1410b16	similes of the poets do the same; and so, if they are good,
+1410b17	they seem urbane. For the simile, as has been said
+1410b18	before, is a metaphor differing by an added word; that is why it is less pleasant: it is
+1410b19	longer, and it does not say that this is that, so the soul
+1410b20	does not even look for it. In style and enthymemes, then, those must be
+1410b21	urbane that give us quick learning. That is why
+1410b22	superficial enthymemes are not well liked (by superficial
+1410b23	we mean those obvious to everyone, which need no inquiry),
+1410b24	nor those that we do not understand when they are spoken, but those which are understood
+1410b25	as soon as they are spoken, even if the knowledge was not there before, or where the understanding
+1410b26	lags only a little behind; for then a kind of learning takes place, but in
+1410b27	neither of the other cases. In the thought of what is said, then, such
+1410b28	enthymemes are well liked; in style,
+1410b29	by their form, if they are spoken antithetically, as “and holding that the peace
+1410b30	common to the others was war against their own
+1410b31	private interests”: war is opposed to peace. In words, if
+1410b32	they have metaphor, and that neither strange, for that is hard
+1410b33	to take in, nor superficial, for that has no effect. Again, if
+1410b34	they set things before the eyes; for one must see things being done rather than
+1410b35	things about to be done. So one should aim at these
+1410b36	three: metaphor, antithesis, activity.
+1410b37	Of the four kinds of metaphor,
+1411a1	those by analogy are the best liked, as
+1411a2	Pericles said that the youth who perished in
+1411a3	the war had vanished from the city as if
+1411a4	someone had taken the spring out of the year. And
+1411a5	Leptines, about the Lacedaemonians: he would not look on while Greece
+1411a6	was made one-eyed. And Cephisodotus, when
+1411a7	Chares was eager to submit to his audit for the Olynthian war,
+1411a8	was indignant, saying that he was trying to submit to his audit while he had the people
+1411a9	by the throat. And once, urging the Athenians
+1411a10	to Euboea, he said they must take provisions and march out, a
+1411a11	decree of Miltiades. And Iphicrates, when the Athenians had made a truce
+1411a12	with Epidaurus and its coast, was indignant, saying
+1411a13	that they had robbed themselves of their provisions for the war. And Peitholaus
+1411a14	called the Paralus “the people's club”, and Sestus “the meal-tray of
+1411a15	the Piraeus”. And Pericles urged them to remove Aegina,
+1411a16	“the eyesore of the Piraeus”. And Moerocles said he was no more wicked
+1411a17	than a certain decent man whom he named; for that man
+1411a18	was wicked at thirty-three percent interest, and he himself at ten.
+1411a19	And Anaxandrides' iambic line about daughters slow
+1411a20	to marry: “My maidens are overdue for their weddings.”
+1411a21	And what Polyeuctus said of a man with a stroke, Speusippus:
+1411a22	that he could not keep still, though fortune had bound him
+1411a23	in a five-holed disease. And Cephisodotus called the triremes
+1411a24	“painted mills”, and the Dog called the Attic taverns
+1411a25	“Spartan messes”; and Aesion said that they had poured the city out into Sicily;
+1411a26	for this is a metaphor and sets things before the eyes. And “so that
+1411a27	Greece cried out”: this too is in a way a metaphor and sets things before
+1411a28	the eyes. And as Cephisodotus urged them to beware of
+1411a29	making their “concourses” many [assemblies]. And Isocrates,
+1411a30	of those who “run together” at the festivals. And, for example,
+1411a31	in the funeral speech, that it was fitting that at the tomb of those
+1411a32	who died at Salamis Greece should cut her hair, since
+1411a33	her freedom was being buried with their virtue. If
+1411a34	he had said that it was fitting to weep, since virtue was being buried with them,
+1411a35	it would be a metaphor and set things before the eyes;
+1411b1	but “freedom with their virtue” has a kind of antithesis. And
+1411b2	as Iphicrates said, “The road of my words runs through the midst
+1411b3	of Chares' deeds”: a metaphor by analogy, and
+1411b4	“through the midst” sets things before the eyes. And saying that one calls on
+1411b5	“dangers to come to the help of dangers” sets things before the eyes
+1411b6	and is a metaphor. And Lycoleon, speaking for Chabrias: “not even ashamed before
+1411b7	his suppliant, the bronze statue”;
+1411b8	for it is a metaphor for the moment, not always, but it sets things before
+1411b9	the eyes: while he is in danger the statue is a suppliant, the
+1411b10	“lifeless thing alive”, the memorial of the city's deeds.
+1411b11	And “practicing in every way to think small”; for
+1411b12	to practice is to increase something. And that “God kindled intelligence
+1411b13	as a light in the soul”; for both make something plain. “For we do not
+1411b14	end our wars, we postpone them”; for both
+1411b15	lie in the future, postponement and a peace of this kind.
+1411b16	And saying that a treaty is a trophy far nobler
+1411b17	than those set up in war; for those are for small gains
+1411b18	and a single stroke of fortune, but a treaty is for the whole war;
+1411b19	for both are signs of victory. And that cities, through the blame of
+1411b20	men, undergo a great audit; for an audit is a kind of just penalty.

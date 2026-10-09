@@ -1,0 +1,14 @@
+{
+  "scenes": [
+    {"from": "1408b21", "to": "1408b31", "title": "Rhythm, Not Meter", "summary": "Prose should be neither metrical nor without rhythm. Meter seems artificial and makes the hearer wait for the recurrence, as children anticipate the herald's answer, “Cleon!”; what has no rhythm is unlimited, and the unlimited is unpleasant. Prose needs rhythm, which is the number of style, but not meter, and not exact rhythm."},
+    {"from": "1408b32", "to": "1409a9", "title": "The Rhythms", "summary": "The heroic rhythm needs a dignified melody, not that of speech; the iambus is the very speech of the many, while prose needs dignity and the power to transport; the trochee is too much like the cordax. The paean, used since Thrasymachus, stands between them in the ratio three to two and is the only rhythm from which no meter is made, so it best escapes notice."},
+    {"from": "1409a10", "to": "1409a23", "title": "The Two Paeans", "summary": "The paean that begins with a long syllable suits the beginning (“Delos-born, or Lycia”), the one that ends with a long syllable suits the end (“After earth and waters, night made the ocean vanish”). The end should be marked by the rhythm, not by the scribe or the marginal stroke."}
+  ],
+  "quotations": [
+    {"from": "1408b25", "to": "1408b26", "entry": "rhythmos", "cite": "the herald's proclamation", "marks": 2},
+    {"from": "1409a14", "to": "1409a15", "entry": "paean", "cite": "paeans to Apollo", "marks": 2},
+    {"from": "1409a17", "to": "1409a17", "source": "simonides", "entry": "paean", "cite": "Simonides"}
+  ],
+  "speeches": [],
+  "days": []
+}

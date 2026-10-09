@@ -5,7 +5,7 @@ kind: term
 tags: [shame, body]
 summary: Ugly and shameful at once: αἰσχρός describes what is ugly to see and what is disgraceful to do or to hear of. Its opposite, καλός, is likewise both “beautiful” and “fine”.
 aliases: [aischros, aischistos, aischos, aischynō, ugly, shameful, disgraceful]
-grc: [αἰσχ*, "!Αἰσχυλ*"]
+grc: [αἰσχ*, "!Αἰσχυλ*", "!^Αἰσχιν*"]
 en: [shameful, ugliest]
 ---
 

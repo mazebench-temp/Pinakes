@@ -1,0 +1,37 @@
+# Aristotle, Rhetoric, Book I, Chapter 14 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1374b24	A wrong is greater the greater the injustice it comes from;
+1374b25	that is why the smallest can be the greatest, as in the charge Callistratus brought against Melanopus,
+1374b26	that he had cheated the temple builders of three sacred
+1374b27	half-obols; with justice it is the opposite. These things
+1374b28	follow from what is contained potentially; for one who has stolen three sacred
+1374b29	half-obols would do any wrong whatever. Sometimes, then, the greater
+1374b30	is judged in this way, sometimes by the harm. And a wrong for which there is no
+1374b31	equal punishment, but every one is less. And one for which there is no remedy;
+1374b32	for it is hard †and impossible†. And one for which the victim cannot get
+1374b33	justice; for it is incurable, since justice and punishment are a kind of remedy.
+1374b34	And if the one who suffered and was wronged punished himself severely;
+1374b35	for the doer deserves a still greater punishment, as Sophocles,
+1374b36	speaking for Euctemon, who had cut his own throat after suffering outrage,
+1375a1	said he would not assess the penalty at less than the victim had assessed it for himself.
+1375a2	And a wrong that one has done alone, or first, or with few.
+1375a3	And to commit the same offense often. And a wrong
+1375a4	for which preventives and penalties have been sought and found,
+1375a5	as in Argos a man is penalized on whose account a law is made, and those on whose account
+1375a6	the prison was built. And the more brutal
+1375a7	wrong is greater. And one done with premeditation is more so. And one that
+1375a8	hearers fear more than they pity. The rhetorical devices
+1375a9	are such as these: that a man has destroyed or violated many things, such as
+1375a10	oaths, pledges, assurances, marriage rights; for this is an excess of many
+1375a11	wrongs. And doing wrong in the very place where wrongdoers are punished, which is what
+1375a12	false witnesses do; for where would they not do wrong,
+1375a13	if even in the court? And wrongs that bring the most shame.
+1375a14	And if a man wrongs one from whom he has received benefits; for he does more wrong, both because
+1375a15	he does harm and because he does not do good. And what goes against the unwritten
+1375a16	rules of justice; for it marks a better man to be just without compulsion,
+1375a17	and the written rules are binding by necessity, the unwritten
+1375a18	are not. In another way, what goes against the written; for one
+1375a19	who commits wrongs that are feared and penalized would also commit those that go
+1375a20	unpunished. About wrongs, then,
+1375a21	greater and lesser, enough has been said.

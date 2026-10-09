@@ -22,6 +22,6 @@ en: [grudge, resentment]
 
 ## Outside Homer
 
-Aristotle quotes 1.82 in his chapter on anger. People expect regard from those beneath them in birth, power or excellence, he says, which is why the poet speaks of the great anger of Zeus-nurtured kings (Iliad 2.196) and of the king who “keeps a grudge thereafter” (*Rhetoric* 2.2, 1379a; see [[aristotle-anger]]).
+Aristotle quotes 1.82 in his chapter on anger. People expect regard from those beneath them in birth, power or excellence, he says, which is why the poet speaks of the great anger of Zeus-nurtured kings (Iliad 2.196) and of the king who “keeps a grudge thereafter” (*Rhetoric* 2.2, 1378b35–1379a7; see [[aristotle-anger]] and [[orge]]).
 
 Hesiod gives the verb a kinder sense in his account of good strife, the rivalry that makes men work: “potter resents (κοτέει) potter, and builder builder” (*Works and Days* 25).

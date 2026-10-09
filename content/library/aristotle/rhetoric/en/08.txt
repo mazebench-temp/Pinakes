@@ -1,0 +1,42 @@
+# Aristotle, Rhetoric, Book I, Chapter 8 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1365b21	The greatest and most decisive of all things for being able
+1365b22	to persuade and to advise well is to grasp all the
+1365b23	constitutions and to distinguish the characters, customs and
+1365b24	interests of each. For all people are persuaded by what is advantageous,
+1365b25	and what preserves the constitution is advantageous. Further, authoritative
+1365b26	is the pronouncement of the authority, and the authorities are divided according to
+1365b27	the constitutions; for there are as many authorities as there are
+1365b28	constitutions. There are four constitutions: democracy, oligarchy,
+1365b29	aristocracy, monarchy; so that the authority and
+1365b30	what judges would be some part of these, or the whole.
+1365b31	Democracy is a constitution in which offices are distributed
+1365b32	by lot; oligarchy, one in which those
+1365b33	with property qualifications hold them; aristocracy, one in which they are held according to
+1365b34	education; and by education I mean the education laid down
+1365b35	by the law. For in an aristocracy those who have kept to the customs
+1365b36	rule. These must seem to be the best, and from this it has taken its
+1365b37	name. Monarchy is, as its name says, the constitution in which one man has authority over all;
+1366a1	of monarchies, the one under some order is kingship, the
+1366a2	unlimited one tyranny. The end of each constitution
+1366a3	must not be overlooked, for people choose what leads to
+1366a4	the end. The end of democracy is freedom,
+1366a5	of oligarchy wealth, of aristocracy what concerns education
+1366a6	and the customs, of tyranny protection. It is clear, then, that we must
+1366a7	distinguish the characters, customs and interests that lead to the end of each,
+1366a8	since people choose by referring things to it. And since
+1366a9	proofs come about not only through demonstrative argument but
+1366a10	also through argument that shows character (for we believe the speaker because he
+1366a11	seems to be of a certain kind, that is, if he seems good, or well disposed,
+1366a12	or both), we should need to know the characters of each constitution;
+1366a13	for the character of each is bound to be the most persuasive to each.
+1366a14	These will be grasped through the same means; for
+1366a15	characters are revealed by choice, and choice
+1366a16	is referred to the end. What, then, those who exhort should aim at,
+1366a17	as things that will be or are, and from what
+1366a18	proofs about the advantageous should be drawn,
+1366a19	and further, about the characters and customs of the constitutions,
+1366a20	by what means and how we shall be well supplied, so far as
+1366a21	was suited to the present occasion, has been said;
+1366a22	for these matters are worked out precisely in the Politics.

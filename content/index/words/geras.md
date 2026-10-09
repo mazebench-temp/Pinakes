@@ -30,4 +30,4 @@ The word reaches beyond booty. The gods receive the libation and the savor of sa
 
 ## Outside Homer
 
-Aristotle quotes 1.356 in the *Rhetoric* (2.2, 1378b) as the voice of a man who has been slighted (see [[aristotle-anger]]).
+Aristotle quotes 1.356 in the *Rhetoric* (2.2, 1378b32–33) as the voice of a man who has been slighted (see [[aristotle-anger]]).

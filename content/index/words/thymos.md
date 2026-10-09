@@ -30,4 +30,4 @@ A man can speak to his θυμός as to a second self, and he ponders “in his 
 
 ## Outside Homer
 
-Plato names the spirited part of the soul after it (τὸ θυμοειδές). To show that reason can rebuke it, he quotes Odysseus striking his chest and scolding his heart (*Odyssey* 20.17–18, in *Republic* 4.441b). Aristotle uses θυμός of anger itself, and quotes Iliad 18.109 about it (*Rhetoric* 2.2).
+Plato names the spirited part of the soul after it (τὸ θυμοειδές). To show that reason can rebuke it, he quotes Odysseus striking his chest and scolding his heart (*Odyssey* 20.17–18, in *Republic* 4.441b). Aristotle uses θυμός of anger itself, and quotes Iliad 18.109–110 about it (*Rhetoric* 2.2, 1378b4–7; see [[sweeter-than-dripping-honey]] and [[orge]]).

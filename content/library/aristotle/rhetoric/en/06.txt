@@ -1,0 +1,107 @@
+# Aristotle, Rhetoric, Book I, Chapter 6 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1362a15	What one should aim at when exhorting, as things that will be or
+1362a16	already are, and what when dissuading, is clear; for the latter are the opposites
+1362a17	of the former. Since the target set before the adviser
+1362a18	is the advantageous (for people deliberate not about the end but
+1362a19	about the means to the end, and these are what is advantageous in
+1362a20	actions, and the advantageous is a good), we should grasp the
+1362a21	elements concerning the good and the advantageous in general. Let
+1362a22	good be that which is chosen for its own sake, and that for whose sake we choose something
+1362a23	else, and what all things aim at, or all things that have perception
+1362a24	or intelligence, or would if they acquired intelligence; and whatever intelligence would
+1362a25	assign to each, and whatever intelligence about each case assigns to each,
+1362a26	for that is the good for each; and that whose presence puts one in a good condition
+1362a27	and makes one self-sufficient; and the self-sufficient; and what produces
+1362a28	or preserves such things, and what such things follow upon,
+1362a29	and what prevents or destroys their opposites. One thing follows another
+1362a30	in two ways (either at the same time or later: knowing follows
+1362a31	learning later, living follows being healthy at the same time); and things
+1362a32	produce in three ways: some as being healthy produces health, some
+1362a33	as food produces health, and some as exercise does, in that for
+1362a34	the most part it produces health. With this laid down, it follows that
+1362a35	acquiring goods is good, and so is getting rid of
+1362a36	evils; for not having the evil follows the latter at once, and
+1362a37	having the good follows the former later. So is acquiring a greater
+1362a38	good instead of a lesser, and a lesser evil instead of a greater;
+1362b1	for by the amount by which the greater exceeds the lesser, there is
+1362b2	a gain of the one and a riddance of the other. The virtues too must
+1362b3	be a good (for by them their possessors are in a good condition,
+1362b4	and they produce good things and practice them;
+1362b5	what each is, and of what sort, must be stated separately), and
+1362b6	pleasure must be a good; for all living things by nature
+1362b7	desire it; so both pleasant things and noble things must
+1362b8	be goods: the former produce pleasure, and of
+1362b9	noble things some are pleasant and others are chosen for themselves.
+1362b10	To speak of them one by one, the following must be goods. Happiness:
+1362b11	for it is chosen for itself and is self-sufficient, and for its sake
+1362b12	we choose everything else. Justice, courage, self-control,
+1362b13	greatness of soul, magnificence, and the other such states:
+1362b14	for they are virtues of the soul. Health, beauty and the like:
+1362b15	for they are excellences of the body and produce much; health, for instance,
+1362b16	produces both pleasure and life, which is why it seems to be best, since
+1362b17	it is the cause of two of the things the many prize most, pleasure
+1362b18	and life. Wealth: for it is the excellence of possession and produces
+1362b19	much. A friend and friendship: for a friend is chosen for his own sake
+1362b20	and produces much. Honor, reputation: for they are pleasant
+1362b21	and produce much, and they are usually accompanied by
+1362b22	possession of the things for which people are honored. Ability to speak,
+1362b23	to act: for all such things produce goods. Also
+1362b24	natural gifts, memory, ease of learning, quick wit, and all such things:
+1362b25	for these capacities produce goods. Likewise
+1362b26	all the sciences and the arts. And life:
+1362b27	for even if no other good were to follow from it, it is chosen for itself.
+1362b28	And justice: for it is something advantageous to the community.
+1362b29	These, then, are more or less the goods that are agreed on; in
+1362b30	disputed cases the syllogisms come from the following. A thing whose opposite
+1362b31	is bad is good. So is that whose opposite is advantageous to the enemy;
+1362b32	for instance, if it is most advantageous to the enemy for us to be
+1362b33	cowards, it is clear that courage is most beneficial to the citizens.
+1362b34	And in general, the opposite of what the enemy wants, or of what they rejoice at,
+1362b35	seems beneficial; hence it was said, “Surely Priam would rejoice.”
+1362b36	This is not always so, but for the most part; for nothing
+1362b37	prevents the same thing from sometimes being advantageous to opponents; hence it is said that
+1362b38	misfortunes bring people together, when the same thing is harmful to both.
+1363a1	And that of which there is no excess is good, while what
+1363a2	is greater than it should be is bad. And that for whose sake much
+1363a3	toil or expense has been spent; for this already seems
+1363a4	a good, and such a thing is taken to be an end,
+1363a5	the end of many efforts, and the end is a good. Hence these words: “And leave
+1363a6	to Priam a thing to boast of,” and “It is shameful to stay so long.”
+1363a7	And the proverb about the water jar at the door. And what many
+1363a8	desire, and what is evidently fought over; for what all
+1363a9	desire was the good, and the many seem as good as all.
+1363a10	And what is praised; for no one praises what is not good. And what
+1363a11	enemies and bad men praise; for it is as if everyone already
+1363a12	agrees, if even those who have suffered from it do; they would agree because
+1363a13	it is obvious; just as those whom their friends blame are bad,
+1363a14	and those whom their enemies do not blame [good] (that is why
+1363a15	the Corinthians thought themselves insulted by Simonides when he wrote, “The Corinthians
+1363a16	Ilium does not blame”). And what one of the wise
+1363a17	or of the good, men or women, has preferred,
+1363a18	as Athena chose Odysseus, Theseus Helen, and Alexander
+1363a19	was chosen by the goddesses, and Homer chose Achilles. And in general, what is chosen;
+1363a20	and people choose to do the things mentioned, and what is
+1363a21	bad for their enemies and good for their friends, and what is possible;
+1363a22	and this is of two kinds, what could happen and what happens
+1363a23	easily; easy things are those done without pain or in a short time;
+1363a24	for the difficult is defined either by pain or by length of time. And
+1363a25	whatever goes as they wish; and they wish either for no evil at all or for less evil
+1363a26	than good (this will be so if either it goes unnoticed or the penalty
+1363a27	is small). And what is one's own, what no one else has, and what is extraordinary; for so
+1363a28	the honor is greater. And what suits them; such are
+1363a29	the things fitting their birth and power, and those they think they lack,
+1363a30	even if they are small; for they choose to do these
+1363a31	none the less. And what is easily done; for that is possible and
+1363a32	easy; things easily done are those in which all, or most, or one's equals
+1363a33	or inferiors have succeeded. And what will please one's friends
+1363a34	or annoy one's enemies. And whatever those whom people admire
+1363a35	choose to do. And what they have a gift and experience for;
+1363a36	for they think they will succeed more easily. And what no bad man does; for such things are more
+1363a37	praiseworthy. And what they happen to desire; for that seems not only pleasant but
+1363a38	also better. And above all, each kind of person chooses what he is fond of:
+1363b1	lovers of victory, if there will be victory; lovers of honor,
+1363b2	if there will be honor; lovers of money, if there will be money; and
+1363b3	the rest likewise. About the good, then, and the
+1363b4	advantageous, proofs are to be drawn from these things.

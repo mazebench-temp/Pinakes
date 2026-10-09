@@ -10,6 +10,7 @@ en: [plan, plans, counsel, counsels, man of counsel, prefer, would rather, be wi
 passages:
   - 1.1-7 | The plan of Zeus
   - 1.531-543 | Hera and the plans of Zeus
+except: [Rhetoric 1361b15, Rhetoric 1368a7, Rhetoric 1369a3, Rhetoric 1379a9, Rhetoric 1379a26, Rhetoric 1382a9, Rhetoric 1382a15, Rhetoric 1384a26, Rhetoric 1398a11, Rhetoric 1405a15, Rhetoric 1414a2, Rhetoric 1416a35, Rhetoric 1420a6]
 ---
 
 ## Meaning

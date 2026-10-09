@@ -6,6 +6,7 @@ tags: [mainland-greece, boeotia]
 summary: The people of Thebes, named after Cadmus, whom later legend made its founder. In the Iliad they are the Thebans of the generation before Troy, whom Tydeus beat at their own feast and whose fifty young men he killed in ambush.
 aliases: [Cadmeans, Kadmeioi, Cadmeiones, Thebans]
 grc: [Καδμε*]
+except: [Rhetoric 1397b32]
 ---
 
 {{quote:fd0cb92d-4c10-5b20-9600-cb8a389a9e77}}

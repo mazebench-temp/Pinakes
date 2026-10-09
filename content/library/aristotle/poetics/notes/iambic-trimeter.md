@@ -4,7 +4,7 @@ grc: [ἰαμβεῖ*, τριμέτρων]
 en: [iambic, iambics, trimeters, iambic line, iambic meter]
 ---
 
-An imitation in trimeters, like one in elegiacs, would have no common name (1447b11–13). In the poems of the Margites kind “the iambic meter too came in, as was fitting —which is why it is still called iambic today, because it was in this meter that they lampooned one another” (1448b30–32; see [[margites]] and [[iambus]]). In tragedy the meter changed from tetrameter to iambic:
+An imitation in trimeters, like one in elegiacs, would have no common name (1447b11–13). In the poems of the Margites kind “the iambic meter too came in, as was fitting —which is why it is still called iambic today, because it was in this meter that they lampooned … one another” (1448b30–32; see [[margites]] and [[iambus]]). In tragedy the meter changed from tetrameter to iambic:
 
 {{quote:504cbc65-3a0b-5654-a477-f9c53a2a92dd}}
 

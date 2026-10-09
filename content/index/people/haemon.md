@@ -6,6 +6,8 @@ tags: [achaean, pylian, warrior, messenia]
 summary: One of the five captains around whom [[Nestor]] marshals the Pylians before the first battle, “powerful Haemon” (4.296). He is not the Theban [[haemon-of-thebes|Haemon]], father of Maeon, named later in the same book.
 aliases: [Haemon the Pylian, Haimon]
 grc: ["^Αἵμονα"]
+# The Haemon of the Rhetoric is the son of Creon.
+except: [Rhetoric 1417b20, Rhetoric 1418b31]
 relations:
   - commander: nestor (4.293-296)
 ---

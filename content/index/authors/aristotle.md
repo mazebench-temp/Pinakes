@@ -3,7 +3,7 @@ title: Aristotle
 greek: Ἀριστοτέλης
 kind: author
 tags: [philosopher, philosophy, scholarship, literary-criticism]
-summary: The philosopher of Stagira (384–322 BCE), pupil of Plato and teacher of Alexander, whose Poetics, the first surviving theory of literature, makes Homer the master of epic and Sophocles' Oedipus the model of tragedy; he also wrote on Homeric problems and drew on Homer throughout his ethics, politics and rhetoric.
+summary: The philosopher of Stagira (384–322 BCE), pupil of Plato and teacher of Alexander, whose Poetics, the first surviving theory of literature, makes Homer the master of epic and Sophocles' Oedipus the model of tragedy, and whose Rhetoric is the first systematic art of persuasion; he also wrote on Homeric problems and drew on Homer throughout his ethics and politics.
 aliases: [the Stagirite, Aristoteles]
 ---
 
@@ -14,6 +14,10 @@ Aristotle was born in 384 BCE at Stagira in Chalcidice, the son of Nicomachus, p
 ## Writings on poetry
 
 The *Poetics*, written in the Lyceum years and surviving as lecture notes, treats poetry as imitation, tragedy in detail, epic more briefly, and the solutions to critics' problems; its second book, on comedy, is lost (see [[poetics]] and [[the-lost-book-on-comedy]]). Lost works filled out the picture: the dialogue *On Poets*, in three books (see [[on-poets]]); the *Homeric Problems*, in six books, from which Porphyry preserves much (see [[problems-and-solutions]]); and the *Didascaliae*, records of the productions of plays at Athens, the foundation of all later knowledge of the dates of Greek drama (Diogenes Laertius 5.26). The third book of the *Rhetoric*, on style, draws its examples from the same poets (see [[rhetoric-of-aristotle]]).
+
+## Writings on rhetoric
+
+The *Rhetoric*, in three books, is the art of persuasion as Aristotle taught it in the Lyceum: rhetoric is the counterpart of dialectic, its proofs are character, emotion and argument, and its kinds are three, deliberative, judicial and epideictic (see [[rhetorike]], [[three-kinds-of-proof]] and [[three-kinds-of-rhetoric]]). It rests on his logic, the *Topics* and the *Analytics*, and on his ethics and *Politics* (see [[topics-of-aristotle]], [[analytics]] and [[politics-of-aristotle]]). A lost early dialogue, the *Gryllus*, argued about rhetoric, and the lost *Collection of Arts* gathered the handbooks of his predecessors (see [[the-handbooks]]).
 
 ## Homer in Aristotle
 

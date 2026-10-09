@@ -8,7 +8,7 @@ aliases: [Hippolochos]
 # Ἱππόλοχον (6.197) and Ἱππόλοχος (6.206) are Glaucus' father, who is otherwise named in the genitive
 # Ἱππολόχοιο (6.119, 6.144, 7.13; 12.309, 12.387, 17.140).
 grc: [Ἱππόλοχον, Ἱππόλοχος]
-except: [6.197, 6.206]
+except: [6.197, 6.206, Rhetoric 1368a17]
 en: [Hippolochus]
 refs: [11.126-137, 11.146-147]
 relations:

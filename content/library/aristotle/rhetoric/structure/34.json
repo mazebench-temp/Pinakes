@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    {"from": "1392a8", "to": "1392b14", "title": "The Possible and the Impossible", "summary": "A thing is possible if its opposite is, or something like it, or something harder; if its beginning or end, its parts or whole, its genus or species is possible; if it is loved or desired, an object of art or in our power; and if lesser men can do it, as Isocrates said of Euthynus. Agathon's verse puts art above necessity and chance."},
+    {"from": "1392b15", "to": "1392b32", "title": "Whether Something Has Happened", "summary": "A thing has happened if what was less likely has happened, or what comes later; if a man was able and wished, or was angry or desired; if he was about to do it; and if what precedes or follows it has happened."},
+    {"from": "1393a1", "to": "1393a8", "title": "Whether Something Will Be", "summary": "What is in one's power and wish will be, and so will what is in one's appetite, anger or calculation together with power, or about to happen, or whose antecedents have come about."},
+    {"from": "1393a9", "to": "1393a22", "title": "Magnitude", "summary": "Greatness and smallness were treated with the goods in the account of deliberative speech; amplification is to be drawn from the end of each kind of speech, and to discuss magnitude in the abstract is idle talk."}
+  ],
+  "quotations": [
+    {"from": "1392b8", "to": "1392b9", "source": "agathon", "entry": "some-things-are-for-art", "cite": "Agathon"}
+  ],
+  "speeches": [],
+  "days": []
+}

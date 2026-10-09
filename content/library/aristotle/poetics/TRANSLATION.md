@@ -21,7 +21,9 @@ in Bekker's own print.
 
 Kassel prints, as his lines 1450b10a, 1455a14a–b and 1457a33a, words that Bekker did not have (most
 come from the manuscript in Florence, Riccardianus 46). They are kept within the Bekker line they fall
-in. The chapter divisions are those of the Renaissance editions, used by every modern text.
+in. The chapter divisions are those of the Renaissance editions, used by every modern text. One slip
+in the digitized text is corrected: the name of the play at 1452a25, printed without its accent, is
+Οἰδίποδι.
 
 ### Editorial signs
 
@@ -90,7 +92,10 @@ Il. 1.1; “Truly Odysseus has done countless good deeds”, 1457b11 = Il. 2.272
 1461a15 = Il. 9.203; “the greater part of the night has gone”, 1461a26 = Il. 10.252). Where it differs,
 the English follows Aristotle: “All the gods and men slept all night long” (1461a16–17), where our
 Iliad has “the other gods” (2.1); “and we grant him to win glory” (1461a22–23), words that our text of
-2.15 does not have. The index gives each quotation its source and its context.
+2.15 does not have. His Greek differs in places where the English need not: παρῴχηκεν δὲ πλέω νύξ
+(1461a26), where our Il. 10.252 has παροίχωκεν δὲ πλέων, and the ambiguity Aristotle finds is in his
+πλέω; ὅς ῥʼ ἦ τοι (1461a12), where 10.316 has ὃς δή τοι; and καὶ ἀεικής (1458b26), where the Odyssey
+(9.515) has καὶ ἄκικυς. The index gives each quotation its source and its context.
 
 ## Names
 
@@ -115,6 +120,9 @@ article: “in the Oedipus”, “in the Antigone”. Ἰλίου πέρσις i
   translation renders it. Many editors read Ἀγάθων, “Agathon”: “as Agathon and Homer portrayed Achilles”.
 - **1455a14.** The account of Odysseus the False Messenger is the most damaged passage of the treatise;
   Kassel's lines 14a and 14b come from the Riccardianus.
+- **1455b31.** In the Lynceus the complication includes “again their own …”: ἡ αὐτῶν has lost its
+  noun, and the English marks the gap. Kassel supplies ⟨λύσις⟩, “resolution”, which the antithesis
+  with δέσις μέν, “the complication”, requires.
 - **1456a2.** †οης†: the fourth kind of tragedy is lost in the corruption. The likeliest restoration is
   ὄψις, “spectacle”, which the examples (the Daughters of Phorcys, the Prometheus, plays in Hades) fit.
 - **1459b5–7.** The list of tragedies made from the Little Iliad is bracketed as a later addition;

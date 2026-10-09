@@ -1,0 +1,134 @@
+# Aristotle, Rhetoric, Book I, Chapter 1 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1354a1	Rhetoric is the counterpart of dialectic. For both
+1354a2	are concerned with such things as it is in a way the common business of all
+1354a3	to know, and as belong to no one defined science; and so
+1354a4	everyone in a way has a share in both, for all, up to
+1354a5	a point, try both to examine and to uphold an argument, and to defend themselves
+1354a6	and to accuse. Now among the many, some do these things at random,
+1354a7	others by practice that comes from habit; and since
+1354a8	both are possible, it is clear that they could also be done by a method.
+1354a9	For the cause by which both those who succeed by practice and those who succeed
+1354a10	spontaneously succeed can be studied, and such a study
+1354a11	everyone would at once agree is the work of an art. As things are,
+1354a12	those who compile the Arts of speeches have provided, so to speak, no
+1354a13	part of it (for proofs are the only thing within the art, and the
+1354a14	rest is accessory); they say nothing about enthymemes,
+1354a15	which are the body of proof, but busy themselves for the most part with matters outside
+1354a16	the subject. For slander and pity and
+1354a17	anger and such emotions of the soul are not about the subject
+1354a18	but are aimed at the juror. So if in all
+1354a19	trials things were as they now are in some cities at least,
+1354a20	and above all in the well-governed ones, they would have nothing
+1354a21	to say. For everyone either thinks that the laws ought to
+1354a22	prescribe this, or actually applies it and forbids speaking outside
+1354a23	the subject, as on the Areopagus too, and in this they are
+1354a24	right; for one ought not to warp the juror by leading him into anger
+1354a25	or envy or pity: that is as if someone were to make the rule he is about
+1354a26	to use crooked. Further, it is clear
+1354a27	that the litigant has nothing to do beyond showing that the
+1354a28	thing is or is not, has happened or has not happened. Whether
+1354a29	it is great or small, just or unjust, in whatever the lawgiver
+1354a30	has not defined, the juror must surely decide for himself, and not
+1354a31	learn it from the litigants. It is most fitting, then,
+1354a32	that rightly framed laws should, as far as possible, define everything
+1354a33	themselves, and leave as little as possible to those who judge:
+1354a34	first, because it is easier to find one or a few than many
+1354b1	who are sensible and able to make laws and to judge; next,
+1354b2	laws are made by people who have considered them over a long time,
+1354b3	while judgments are given on the spur of the moment, so that it is hard for those who judge
+1354b4	to award what is just and advantageous well. But the greatest reason of all
+1354b5	is that the lawgiver's judgment is not about
+1354b6	particulars but about what is future and universal, while the
+1354b7	member of the assembly and the juror judge things present and
+1354b8	defined; and with them love
+1354b9	and hatred and private advantage are often bound up,
+1354b10	so that they can no longer see the truth adequately, but
+1354b11	their own pleasure or pain darkens their judgment. On the other
+1354b12	matters, then, as we say, one should make the judge master of
+1354b13	as few as possible; but whether something has happened or not,
+1354b14	or will be or will not be, or is or is not, must be left
+1354b15	to the judges, for the lawgiver cannot
+1354b16	foresee these things. If this is so, it is clear that matters outside
+1354b17	the subject are what all those reduce to an art who define the other things, such as
+1354b18	what the introduction or the narration should contain, and each of the other
+1354b19	parts; for in these they concern themselves with nothing
+1354b20	except how to put the judge in a certain frame of mind, and about the
+1354b21	artistic proofs they show nothing, though that is how
+1354b22	one would become skilled in enthymemes. This is why, although the
+1354b23	method is the same for speaking in the assembly and in the courts, and
+1354b24	the business of the assembly is nobler and more political
+1354b25	than that of contracts, they say nothing about the former
+1354b26	but all try to make an art of litigation:
+1354b27	because it is less to the purpose to speak of matters outside the subject
+1354b28	in speeches to the assembly, and speaking to the assembly is less mischievous
+1354b29	than pleading in court, since it is of more common concern. For there the judge
+1354b30	judges his own affairs, so that nothing more is needed than to show that
+1354b31	things are as the adviser says; but in judicial speeches this is not enough,
+1354b32	and it is to the purpose to win over the hearer; for the judgment is
+1354b33	about other people's affairs, so that, looking to their own interest and
+1354b34	listening to please themselves, they give in to the litigants and do not judge.
+1355a1	That is why in many places, as I said before, the law forbids
+1355a2	speaking outside the subject; in the assembly the judges themselves
+1355a3	guard against this well enough. Since it is clear
+1355a4	that the artistic method is concerned with proofs, and
+1355a5	proof is a kind of demonstration (for we are most convinced when
+1355a6	we suppose a thing to have been demonstrated), and the rhetorical demonstration is the enthymeme,
+1355a7	and this is, generally speaking, the most authoritative of proofs,
+1355a8	and the enthymeme is a kind of syllogism, and every syllogism
+1355a9	alike is for dialectic to consider, either dialectic as a whole or
+1355a10	some part of it, it is clear that whoever is best able to see
+1355a11	from what and how a syllogism comes about will also
+1355a12	be most skilled in enthymemes, once he has learned besides what the enthymeme
+1355a13	deals with and how it differs from logical
+1355a14	syllogisms. For the true and what is like the true
+1355a15	are seen by the same capacity; and at the same time human beings
+1355a16	are by nature adequately disposed toward the truth, and for the most part attain
+1355a17	the truth; so one who is good at aiming at reputable opinions
+1355a18	is also one who is good at aiming at the truth. That
+1355a19	the others, then, make an art of matters outside the subject,
+1355a20	and why they have leaned rather toward pleading in court, is clear.
+1355a21	Rhetoric is useful, first, because by nature the true and the just
+1355a22	are stronger than their opposites, so that if judgments are not given as they should be,
+1355a23	they must have been defeated through their own fault, and this
+1355a24	deserves reproach. Next, before some audiences, even if we
+1355a25	had the most exact knowledge, it would not be easy to persuade them
+1355a26	by speaking from it; for discourse based on knowledge belongs to teaching,
+1355a27	and teaching here is impossible: we must build our proofs and arguments
+1355a28	on common notions, as we said in the Topics too
+1355a29	about conversing with the many. Further, one must be able to persuade
+1355a30	of opposite things, just as in syllogisms,
+1355a31	not so that we may do both (for one must not persuade people of what is bad),
+1355a32	but so that we may not fail to see how things stand, and so that, if another uses
+1355a33	arguments unjustly, we ourselves may be able to refute them. Now
+1355a34	none of the other arts draws opposite conclusions; dialectic
+1355a35	and rhetoric alone do this, for both are equally
+1355a36	concerned with opposites. The facts that underlie them, however, are not
+1355a37	equally balanced: what is true and better is by nature always easier to reason from
+1355a38	and more persuasive, generally speaking. Besides,
+1355a39	it would be absurd if it were shameful to be unable to defend oneself with the body
+1355b1	but not shameful to be unable with speech, which is more proper to a human being
+1355b2	than the use of the body. And if it is objected that great harm
+1355b3	could be done by one who uses such a power of speech unjustly,
+1355b4	that is common to all good things except
+1355b5	virtue, and above all to the most useful, such as strength,
+1355b6	health, wealth, generalship: by these one could do
+1355b7	the greatest good by using them justly, and the greatest harm by using them unjustly. That
+1355b8	rhetoric, then, does not belong to any one defined class of things,
+1355b9	but is like dialectic, and that it is useful, is clear;
+1355b10	and also that its function is not to persuade but to see the
+1355b11	means of persuasion available in each case, as in all the other
+1355b12	arts (for neither is it the function of medicine to make a person healthy, but
+1355b13	to bring him as far toward health as is possible; for it is possible
+1355b14	to treat well even those who can never regain their health);
+1355b15	and further, that it belongs to the same art to see both the persuasive and
+1355b16	the apparently persuasive, just as in dialectic it sees
+1355b17	both the syllogism and the apparent syllogism; for what makes sophistry
+1355b18	is not the capacity but the choice. Except that here
+1355b19	one man will be an orator by his knowledge and another by his choice,
+1355b20	while there one is a sophist by choice, and a dialectician
+1355b21	not by choice but by capacity. Let us now
+1355b22	try to speak about the method itself: how and from
+1355b23	what we shall be able to achieve our aims. Let us, then,
+1355b24	as if starting again, define what rhetoric is, and then speak of the rest.

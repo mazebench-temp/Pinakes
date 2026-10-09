@@ -1,0 +1,26 @@
+{
+  "scenes": [
+    {"from": "1375a22", "to": "1375b15", "title": "Arguing Against the Written Law", "summary": "The non-artistic proofs, proper to judicial speeches, are five: laws, witnesses, contracts, tortures and oaths. If the written law is against the case, appeal to the common law and to equity, which never change; \"to the best of my judgment\" means not following the letter; Antigone's defense; the judge as assayer of true and counterfeit justice; and contradictory, ambiguous or obsolete laws."},
+    {"from": "1375b16", "to": "1375b25", "title": "Arguing for the Written Law", "summary": "If the law favors the case: the oath does not license judging against the law; no one chooses what is good absolutely; an unused law is no law; it does not pay to outwit the doctor; and the best laws forbid trying to be wiser than the laws."},
+    {"from": "1375b26", "to": "1376a17", "title": "Ancient and Recent Witnesses", "summary": "Ancient witnesses are poets and famous men, as the Athenians cited Homer about Salamis, the Tenedians Periander against the Sigeans, and Cleophon Solon's verses against Critias; interpreters of oracles about the future, like Themistocles on the wooden wall; and proverbs. Recent witnesses are known men who have judged a question; the ancient are the most credible, for they cannot be bribed."},
+    {"from": "1376a18", "to": "1376a33", "title": "Arguing About Testimony", "summary": "Without witnesses, argue that probabilities cannot be bribed or convicted of perjury; with them, that probabilities cannot be held to account. Testimony may concern oneself or the opponent, the facts or character, so useful testimony is never lacking."},
+    {"from": "1376a34", "to": "1376b30", "title": "Contracts", "summary": "A favorable contract is a private law, and the law itself a kind of contract, so to annul contracts is to annul the laws and all dealings among men. An unfavorable one may be fought like an unjust law: the juror is the umpire of justice, contracts can be made by fraud or force, and they may conflict with the laws or with other contracts."},
+    {"from": "1376b31", "to": "1377a7", "title": "Tortures", "summary": "Testimony under torture seems credible because it is compelled; if it favors the case, call it the only true testimony; if not, say that men lie under torture as much as they tell the truth, that the hardy hold out and the timid are bold only until they see the instruments."},
+    {"from": "1377a8", "to": "1377b12", "title": "Oaths", "summary": "A litigant may tender an oath, accept one, both or neither, and each choice has its arguments: why he will not tender (perjury is easy), why he will not accept (as Xenophanes said, it is no fair challenge from the impious to the pious), why he tenders or accepts, how to argue the combinations, and how to explain away one's own contrary oath or press the opponent's."}
+  ],
+  "quotations": [
+    {"from": "1375a29", "to": "1375a30", "entry": "to-the-best-of-my-judgment", "cite": "the jurors' oath"},
+    {"from": "1375b1", "to": "1375b2", "source": "sophocles", "entry": "not-of-today-or-yesterday", "cite": "Sophocles, Antigone 456, 458"},
+    {"from": "1375b16", "to": "1375b17", "entry": "to-the-best-of-my-judgment", "cite": "the jurors' oath"},
+    {"from": "1375b29", "to": "1375b30", "source": "homer", "entry": "solon-and-salamis", "ref": "Il. 2.557-558", "marks": 0},
+    {"from": "1375b34", "to": "1375b34", "source": "solon", "entry": "tell-red-haired-critias", "cite": "Solon"},
+    {"from": "1376a1", "to": "1376a2", "source": "themistocles", "entry": "the-wooden-wall", "cite": "the Delphic oracle", "marks": 0},
+    {"from": "1376a5", "to": "1376a5", "entry": "never-do-good-to-an-old-man", "cite": "a proverb"},
+    {"from": "1376a6", "to": "1376a7", "entry": "a-fool-who-kills-the-father", "cite": "a proverb"},
+    {"from": "1376a19", "to": "1376a19", "entry": "to-the-best-of-my-judgment", "cite": "the jurors' oath"},
+    {"from": "1377a19", "to": "1377a20", "source": "xenophanes", "entry": "not-a-fair-challenge", "cite": "Xenophanes"},
+    {"from": "1377b9", "to": "1377b10", "source": "aristotle", "entry": "oath", "cite": "Aristotle's example of a retort to the opponent's oath"}
+  ],
+  "speeches": [],
+  "days": []
+}

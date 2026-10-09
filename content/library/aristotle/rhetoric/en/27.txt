@@ -1,0 +1,58 @@
+# Aristotle, Rhetoric, Book II, Chapter 12 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1388b31	Next let us go through what the characters are like according to the emotions, the states,
+1388b32	the ages and the fortunes. By emotions
+1388b33	I mean anger, appetite and the like, of which we have spoken
+1388b34	[before]; by states, virtues and vices, which have also been discussed
+1388b35	before, as well as what each kind of person
+1388b36	chooses and what they are apt to do; the ages
+1388b37	are youth, the prime and old age.
+1389a1	By fortune I mean good birth, wealth, powers and
+1389a2	their opposites, and in general good fortune and bad fortune. The
+1389a3	young, then, are given to appetite in character, and apt to do whatever
+1389a4	they desire. Of the bodily appetites they are most
+1389a5	apt to follow that of sex, and have no self-control in it;
+1389a6	they are changeable and quickly sated in their appetites, and
+1389a7	desire violently but soon stop (for their wishes are keen
+1389a8	but not great, like the thirsts and hungers of the sick);
+1389a9	and they are passionate and quick-tempered and apt to follow their anger.
+1389a10	And they are mastered by their temper; for through love of honor they cannot bear
+1389a11	being slighted, but are vexed if they think they are wronged.
+1389a12	And they are fond of honor, but even more fond of victory (for youth
+1389a13	longs for superiority, and victory is a kind of superiority), and both of these
+1389a14	more than fond of money (and least fond of money because they have not yet
+1389a15	experienced want, as Pittacus' saying about
+1389a16	Amphiaraus has it); and they are not ill-natured but simple-natured, because they have not yet
+1389a17	seen much wickedness, and trusting, because they have not yet often
+1389a18	been deceived, and hopeful; for as those who are drunk are, so
+1389a19	the young are heated by nature; and at the same time because
+1389a20	they have not often failed. And they live mostly in hope;
+1389a21	for hope is of the future and memory of the
+1389a22	past, and for the young the future is long and the past
+1389a23	short; for on the first day one can remember nothing,
+1389a24	but can hope for everything. They are easily deceived, for the reason stated
+1389a25	(for they hope easily), and more courageous (for they are hot-tempered and
+1389a26	hopeful, of which the one makes them unafraid and the other confident; for
+1389a27	no one is afraid while he is angry, and hoping for something good
+1389a28	inspires confidence), and prone to shame (for they do not yet suppose other
+1389a29	things noble, but have been educated by the law alone), and
+1389a30	great-souled (for they have not yet been humbled by life, but
+1389a31	are inexperienced in its necessities, and to think oneself worthy of great things
+1389a32	is greatness of soul; and this belongs to one who is hopeful). And they choose
+1389a33	to do noble things rather than advantageous ones; for they live by character more
+1389a34	than by calculation, and calculation is concerned with the advantageous,
+1389a35	virtue with the noble. And they are fond of their friends and
+1389a36	of their companions more than the other ages,
+1389b1	because they enjoy living together and do not yet judge anything
+1389b2	by advantage, and so not their friends either. And they err in everything
+1389b3	on the side of excess and vehemence, contrary to Chilon's maxim
+1389b4	(for they do everything too much: they love too much and
+1389b5	hate too much and everything else likewise); and they think they know everything,
+1389b6	and insist on it (this indeed is the cause of their
+1389b7	doing everything too much); and the wrongs they commit are from outrage, not from
+1389b8	malice. And they are prone to pity because they suppose all men good and better than they are
+1389b9	(for they measure their neighbors by their own innocence,
+1389b10	so that they suppose them to suffer what they do not deserve),
+1389b11	and fond of laughter, and therefore fond of wit;
+1389b12	for wit is educated outrage.

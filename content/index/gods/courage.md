@@ -6,6 +6,7 @@ tags: [personification, warfare]
 summary: Courage (Ἀλκή), one of the powers set on Athena's aegis with Rout, Strife and Onslaught (5.740). Her name is the common word for the strength that stands and fights back (see [[alke]]).
 aliases: [Alke, Alkē]
 grc: [^Ἀλκή]
+except: [Rhetoric 1366b11]
 ---
 
 ἐν δʼ Ἔρις, ἐν δʼ Ἀλκή, ἐν δὲ κρυόεσσα Ἰωκή, “and on it is Strife, and on it Courage, and on it chilling Onslaught” (5.740). Homer makes Courage a person only here, among the powers of Athena's [[aegis]] (see [[rout]], [[strife]], [[onslaught]] and [[gorgon]]).

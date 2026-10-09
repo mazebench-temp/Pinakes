@@ -1,0 +1,27 @@
+{
+  "scenes": [
+    {"from": "1414b19", "to": "1414b29", "title": "The Proem and the Prelude", "summary": "The proem is the beginning of a speech, as the prologue is of a poem and the prelude of pipe music. The epideictic proem is like the prelude: the speaker says whatever he likes and then strikes the keynote, as in the proem of Isocrates' Helen, which has nothing to do with Helen."},
+    {"from": "1414b30", "to": "1415a7", "title": "Proems of Display", "summary": "Epideictic proems come from praise or blame, as Gorgias' Olympic Speech praises the founders of the festivals and Isocrates blames them; from advice, as to honor the good, or the good but obscure, like Alexander son of Priam; or from appeals to the hearer, as Choerilus' “But now, when all has been parceled out”."},
+    {"from": "1415a8", "to": "1415a25", "title": "A Sample of the Subject", "summary": "Judicial proems do what the prologues of plays and the proems of epics do: they give a sample of the subject, so that the mind is not left in suspense, as “Sing, goddess, the wrath”, “Tell me of the man, Muse”, and Sophocles' “My father was Polybus”. This is the proem's own work, and a clear and small matter needs none."},
+    {"from": "1415a26", "to": "1415b8", "title": "Remedies", "summary": "Other proems are remedies drawn from the speaker, the hearer, the subject and the opponent: dispelling slander or creating it, the defendant first and the accuser in the epilogue; making the hearer well disposed, angry, attentive or inattentive. All are for a poor hearer and lie outside the subject; a good one needs only a summary, a head for the body."},
+    {"from": "1415b9", "to": "1415b24", "title": "Attention and Evasion", "summary": "Attention is needed anywhere rather than at the beginning, which is why Prodicus threw in a bit of his fifty-drachma lecture when his hearers nodded. Proems slander or dispel fears, as the guard's “My lord, I will not say that I come in haste” and Thoas' “Why this preamble?”, and those with a bad case linger anywhere but on the matter, as slaves talk around a question."},
+    {"from": "1415b25", "to": "1416a3", "title": "Goodwill, Praise and Ornament", "summary": "One should aim, like Odysseus before the Phaeacians, to be thought a friend and pitiable; in epideictic, to make the hearer share in the praise, for, as Socrates says, it is easy to praise Athenians among Athenians. Deliberative speech needs a proem least, except for slander, amplification or ornament: Gorgias' Encomium of the Eleans begins at once, “Elis, happy city”."}
+  ],
+  "quotations": [
+    {"from": "1414b31", "to": "1414b32", "source": "gorgias", "entry": "gorgias", "cite": "Gorgias, Olympic Speech"},
+    {"from": "1415a4", "to": "1415a4", "source": "choerilus-of-samos", "entry": "choerilus-of-samos", "cite": "Choerilus"},
+    {"from": "1415a11", "to": "1415a11", "entry": "prooimion", "cite": "the proem of a dithyramb"},
+    {"from": "1415a16", "to": "1415a16", "source": "homer", "entry": "proem", "ref": "Il. 1.1"},
+    {"from": "1415a16", "to": "1415a17", "source": "homer", "entry": "proem", "cite": "Od. 1.1"},
+    {"from": "1415a17", "to": "1415a18", "entry": "prooimion", "cite": "the proem of an epic"},
+    {"from": "1415a21", "to": "1415a21", "source": "sophocles", "entry": "oedipus-the-king", "cite": "Sophocles, Oedipus the King 774"},
+    {"from": "1415b12", "to": "1415b15", "source": "aristotle", "entry": "prooimion", "cite": "Aristotle's examples", "marks": 2},
+    {"from": "1415b20", "to": "1415b20", "source": "sophocles", "entry": "antigone-play", "cite": "Sophocles, Antigone 223"},
+    {"from": "1415b20", "to": "1415b21", "source": "euripides", "entry": "iphigenia-among-the-taurians", "cite": "Euripides, Iphigenia among the Taurians 1162"},
+    {"from": "1415b26", "to": "1415b27", "source": "homer", "entry": "prooimion", "cite": "Od. 6.327"},
+    {"from": "1415b31", "to": "1415b32", "source": "socrates", "entry": "praising-athenians-among-athenians", "cite": "Socrates in the funeral speech of Plato's Menexenus", "marks": 0},
+    {"from": "1416a3", "to": "1416a3", "source": "gorgias", "entry": "gorgias", "cite": "Gorgias, Encomium of the Eleans"}
+  ],
+  "speeches": [],
+  "days": []
+}

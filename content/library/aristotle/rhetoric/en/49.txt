@@ -1,0 +1,42 @@
+# Aristotle, Rhetoric, Book III, Chapter 8 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1408b21	The form of the style should be neither metrical nor
+1408b22	without rhythm. The metrical is unpersuasive (for it seems artificial),
+1408b23	and it also distracts the hearer, for it makes him attend to the recurrence, to when
+1408b24	it will come again; just as children anticipate the heralds'
+1408b25	“Whom does the freed slave choose as his patron?”
+1408b26	with “Cleon!” What is without rhythm is unlimited; it should be limited,
+1408b27	but not by meter, for the unlimited is unpleasant and unknowable.
+1408b28	All things are limited by number; and the number of the form of
+1408b29	style is rhythm, of which meters too are segments.
+1408b30	So prose must have rhythm, but not meter, or it will be a
+1408b31	poem. And the rhythm should not be exact; this will be so if
+1408b32	it goes only to a certain point. Of the rhythms, the heroic needs a melody that is dignified,
+1408b33	not that of speech; the iambus is the very
+1408b34	speech of the many (that is why, of all meters, people most often
+1408b35	utter iambics when they talk); but there must be dignity and
+1408b36	the power to transport. The trochee is too much like the cordax; the tetrameters show it,
+1409a1	for tetrameters are a tripping rhythm. There remains
+1409a2	the paean, which speakers have used since Thrasymachus began it, though they could not
+1409a3	say what it was. The paean is a third rhythm,
+1409a4	close to those mentioned: for it is three to two,
+1409a5	while of those, one is one to one and the other two to one; and between
+1409a6	these ratios is the one and a half, which is the paean.
+1409a7	The others, then, are to be given up, for the reasons given and
+1409a8	because they are metrical; but the paean should be taken up, for it is the only one of
+1409a9	the rhythms mentioned from which no meter is made, so that it best escapes notice.
+1409a10	Now people use one kind of paean both at the beginning and
+1409a11	at the end, but the end ought to differ from the beginning. There are
+1409a12	two kinds of paean, opposite to each other, of which one suits
+1409a13	the beginning, as indeed people use it: it is the one in which a long syllable
+1409a14	begins and three short ones end: “Delos-born, or Lycia,”
+1409a15	and “Golden-haired Far-Shooter, son of Zeus”; the other is the opposite,
+1409a16	in which three short syllables begin and the long one comes last:
+1409a17	“After earth and waters, night made the ocean vanish.” This
+1409a18	makes an ending; for the short syllable, being incomplete,
+1409a19	makes it seem docked. It should be cut off with the long syllable, and
+1409a20	the end should be plain not through the scribe, nor through
+1409a21	the marginal stroke, but through the rhythm. That
+1409a22	the style should be rhythmical and not without rhythm, and what
+1409a23	rhythms make it rhythmical, and how they are arranged, has been said.

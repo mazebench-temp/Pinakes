@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {"from": "1416b16", "to": "1416b29", "title": "Narration in Epideictic", "summary": "In epideictic speeches the narration is piecemeal, for each group of actions shows one quality, brave here, wise or just there. Well-known actions, like Achilles', need only be recalled; little-known ones, like Critias', must be narrated."},
+    {"from": "1416b30", "to": "1417a16", "title": "Neither Quick Nor Long", "summary": "The narration should be neither quick nor long but in due measure, as the baker was told who asked whether to knead hard or soft. Narrate along the way what shows your own virtue and the other's vice, as Herodotus' Egyptian deserters answered; the defendant's narration is shorter; and events that would move pity or indignation if told as happening should be told so, as in the tale to Alcinous retold to Penelope in sixty lines."},
+    {"from": "1417a17", "to": "1417b10", "title": "Character and Emotion", "summary": "The narration should show character, which comes from showing choice: mathematical discourses have none, Socratic dialogues have it. Give the reason for what is incredible, as Sophocles' Antigone does for her brother; draw on the emotions and their known signs, as Aeschines of Cratylus and Homer's old woman covering her face; and bring yourself and your opponent on as men of a certain kind."},
+    {"from": "1417b11", "to": "1417b20", "title": "Narration Elsewhere", "summary": "Narration may come in many places. In deliberative speech it is rarest, for no one narrates the future; if there is narration, it is of the past, so that the hearers deliberate better. What is incredible needs a promise of the reason, as Jocasta keeps promising in Carcinus' Oedipus, and Sophocles' Haemon."}
+  ],
+  "quotations": [
+    {"from": "1416b32", "to": "1416b32", "entry": "diegesis", "cite": "a retort to a baker", "marks": 2},
+    {"from": "1417a4", "to": "1417a5", "source": "aristotle", "entry": "diegesis", "cite": "Aristotle's example"},
+    {"from": "1417a5", "to": "1417a6", "source": "herodotus", "entry": "herodotus", "cite": "the Egyptian deserters in Herodotus"},
+    {"from": "1417a25", "to": "1417a26", "source": "aristotle", "entry": "prohairesis", "cite": "Aristotle's example"},
+    {"from": "1417a32", "to": "1417a33", "source": "sophocles", "entry": "antigone-play", "cite": "Sophocles, Antigone 911–912"},
+    {"from": "1417a38", "to": "1417a38", "source": "aristotle", "entry": "diegesis", "cite": "Aristotle's example"},
+    {"from": "1417b5", "to": "1417b5", "source": "homer", "entry": "diegesis", "cite": "Od. 19.361"}
+  ],
+  "speeches": [],
+  "days": []
+}

@@ -1,0 +1,40 @@
+# Aristotle, Rhetoric, Book II, Chapter 11 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1388a31	In what state people feel emulation, and for what sort of things, and toward whom, will be
+1388a32	clear from the following. If emulation is a kind of pain at the apparent
+1388a33	presence of goods that are held in honor and that one might obtain oneself, in
+1388a34	those who are like one by nature, not because another has them but because one does not have them
+1388a35	oneself (that is why emulation is decent and belongs to the decent, while envying
+1388a36	is bad and belongs to the bad; for the one prepares himself through emulation
+1388a37	to obtain the goods, the other through envy to keep his neighbor from having them),
+1388b1	then those must be given to emulation who think themselves worthy of goods they do not
+1388b2	have ⟨that it is possible for them to obtain⟩; for no one thinks himself worthy of what appears
+1388b3	impossible (that is why the young and the great-souled are like this). And those who
+1388b4	have such goods as are worthy of men held in honor; these are
+1388b5	wealth, many friends, offices and all such things; for, as
+1388b6	it befits them to be good, they emulate the kind of goods that befit those who are well
+1388b7	off. And those whom others think
+1388b8	worthy. And those whose ancestors or kinsmen or household or people or
+1388b9	city are held in honor are given to emulation about these things; for they think these
+1388b10	their own, and themselves worthy of them. If the goods held in honor are
+1388b11	objects of emulation, then the virtues must be such, and whatever
+1388b12	is useful and beneficial to others (for people honor
+1388b13	benefactors and the good), and those goods whose enjoyment
+1388b14	neighbors share, for instance wealth and beauty more than health. It is clear
+1388b15	too who are the objects of emulation: those who have these and similar things
+1388b16	are objects of emulation; these are the things mentioned, for instance courage,
+1388b17	wisdom, office (for those in office can benefit many),
+1388b18	generals, orators, all who have such powers. And those
+1388b19	whom many wish to be like, or who have many acquaintances, or many
+1388b20	friends, or whom many admire, or whom the emulators themselves admire.
+1388b21	And those whose praises and encomia are spoken either by poets or by
+1388b22	prose writers. People despise those in the opposite case; for the opposite
+1388b23	of emulation is contempt, and of emulating, despising.
+1388b24	Those who are so disposed as to emulate or be emulated
+1388b25	must be disposed to despise those, and for those things,
+1388b26	who have the evils opposite to the goods that are emulated;
+1388b27	that is why they often despise the fortunate, when
+1388b28	their fortune comes to them without the goods held in honor. By what
+1388b29	means, then, the emotions arise and are dissolved, from which
+1388b30	the proofs about them come, has been said.

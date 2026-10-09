@@ -1,0 +1,16 @@
+{
+  "scenes": [
+    {"from": "1373b1", "to": "1373b18", "title": "Particular and Common Law", "summary": "Just and unjust acts are defined by two laws, the particular law of each people, written and unwritten, and the common law of nature, which all divine: Sophocles' Antigone appeals to it, Empedocles calls the ban on killing living things a law for all, and Alcidamas says that God left all men free."},
+    {"from": "1373b19", "to": "1373b38", "title": "Against Whom, and Being Wronged", "summary": "Wrongs are done either to one person or to the community, as adultery to the one and desertion to the other. Being wronged is suffering unjust things from one who acts voluntarily; so charges are public or private, and concern acts done in ignorance or knowingly, by choice or through emotion."},
+    {"from": "1374a1", "to": "1374a17", "title": "The Name of the Charge", "summary": "Defendants often admit the act but not its name: they took but did not steal, struck but did not commit outrage. So theft, outrage and adultery must be defined, for wrongdoing lies in the choice: a blow is outrage only if meant to dishonor or to please oneself."},
+    {"from": "1374a18", "to": "1374b1", "title": "Unwritten Justice and Equity", "summary": "Of unwritten justice, part concerns excess of virtue and vice, as gratitude; part supplies what the written law leaves out. Equity is justice beyond the written law: lawgivers must speak universally, and cannot list every kind of iron that wounds, so the man who strikes with a ring on his finger is guilty by the letter but not in truth."},
+    {"from": "1374b2", "to": "1374b23", "title": "The Equitable", "summary": "It is equitable to pardon human failings, to tell misfortunes, errors and wrongs apart, to look to the lawgiver's intention rather than his words, to the choice rather than the act, to the whole of a man's life, to remember benefits received, to bear wrong, and to prefer arbitration to the courts."}
+  ],
+  "quotations": [
+    {"from": "1373b11", "to": "1373b13", "source": "sophocles", "entry": "not-of-today-or-yesterday", "cite": "Sophocles, Antigone 456-457"},
+    {"from": "1373b15", "to": "1373b17", "source": "empedocles", "entry": "the-law-of-all", "cite": "Empedocles, fr. 135 DK"},
+    {"from": "1373b18", "to": "1373b18", "source": "alcidamas", "entry": "god-has-left-all-men-free", "cite": "Alcidamas, Messenian Speech"}
+  ],
+  "speeches": [],
+  "days": []
+}

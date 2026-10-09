@@ -1,0 +1,26 @@
+# Aristotle, Rhetoric, Book II, Chapter 26 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1403a16	Amplifying and diminishing are not an element of enthymeme;
+1403a17	for I call element and topic the same thing; for an element
+1403a18	and a topic is that under which many enthymemes fall. Amplifying and
+1403a19	diminishing are enthymemes for showing that something is great or small,
+1403a20	as there are enthymemes that it is good or bad, or just or unjust,
+1403a21	or anything else. All these
+1403a22	are what syllogisms and enthymemes are about; so if
+1403a23	none of these is a topic of enthymeme, neither is
+1403a24	amplifying and diminishing. Nor are enthymemes that solve
+1403a25	a kind of enthymeme [different from those that establish]; for it is clear that
+1403a26	one solves either by demonstrating or by bringing an objection, and one demonstrates the
+1403a27	opposite: for instance, if the other has shown that something happened, this man shows that it did not,
+1403a28	and if that it did not happen, this one that it did; so this
+1403a29	could not be the difference (for both use the same means;
+1403a30	for they bring enthymemes that it is not or that it is); and
+1403a31	an objection is not an enthymeme, but, as in
+1403a32	the Topics, it is stating some opinion from which it will be clear
+1403a33	that the opponent has not reasoned validly or has assumed something false. Since
+1403a34	there are three things that must be dealt with concerning speech,
+1403a35	about examples, maxims,
+1403a36	enthymemes, and in general what concerns thought,
+1403b1	where we shall find plenty to say and how we shall solve them, let this be
+1403b2	enough; it remains to go through diction and arrangement.

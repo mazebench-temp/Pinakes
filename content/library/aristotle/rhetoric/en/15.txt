@@ -1,0 +1,164 @@
+# Aristotle, Rhetoric, Book I, Chapter 15 — English translation by Claude (Anthropic), 2026.
+# Translated line for line from Ross's Greek; each row carries the Bekker line it renders.
+# English syntax runs across line breaks, as prose must; names stay on their own lines. Conventions: see ../TRANSLATION.md.
+1375a22	Next we should run briefly over the so-called non-artistic proofs,
+1375a23	which follow on what has been said; for these belong to judicial speeches.
+1375a24	They are five in number: laws, witnesses, contracts,
+1375a25	tortures, oaths. First, then, let us speak about laws, how
+1375a26	they should be used by one who exhorts or dissuades, accuses
+1375a27	or defends. For it is clear that if the written law
+1375a28	is against one's case, one must appeal to the common law and
+1375a29	to arguments from equity, as more just. And that the words “to the best
+1375a30	of my judgment” mean this: not to follow the written
+1375a31	laws absolutely. And that equity always remains and never
+1375a32	changes, nor does the common law (for it is according to nature), but the
+1375a33	written laws often do; hence the words in Sophocles'
+1375a34	Antigone; for she argues in her defense that she buried him against Creon's
+1375a35	law, but not against the unwritten law:
+1375b1	“For this is not of today or yesterday, but forever … These,
+1375b2	then, I was not going, for any man's …” And that the
+1375b3	just is something true and advantageous, but not what
+1375b4	seems so, so that the written law is not law, for it does not do the
+1375b5	work of law. And that the judge is like an assayer of silver,
+1375b6	there to tell counterfeit justice from the true.
+1375b7	And that it marks a better man to use and abide by the unwritten laws rather than
+1375b8	the written. And whether the law is contrary to a law
+1375b9	of good repute, or even to itself; for instance, sometimes one law orders
+1375b10	that whatever contracts people make shall be binding, while another forbids
+1375b11	making contracts against the law. And if the law is ambiguous, one should turn it about
+1375b12	and see to which interpretation either justice or
+1375b13	advantage will fit, and then use that. And if the
+1375b14	circumstances for which the law was made no longer remain, but the law does,
+1375b15	one should try to make this clear and fight the law on this ground.
+1375b16	If the written law favors one's case, one must say that “to the best
+1375b17	of my judgment” is not there so that the judge may decide against the law,
+1375b18	but so that he may not perjure himself if he does not know what the law says.
+1375b19	And that no one chooses what is good absolutely, but what is good for himself.
+1375b20	And that there is no difference between a law's not being made and its not being used. And that
+1375b21	in the other arts it does not pay to try to outwit
+1375b22	the doctor; for the doctor's error does not do so much harm as
+1375b23	growing used to disobeying authority. And that seeking to be wiser than the laws
+1375b24	is just what is forbidden in the laws
+1375b25	that are praised. Let this be our account of laws. As for
+1375b26	witnesses, they are of two kinds, the ancient and
+1375b27	the recent, and of the recent some share the risk of the trial
+1375b28	and some are outside it. By ancient I mean the poets and
+1375b29	all other well-known men whose judgments are on record; as the Athenians
+1375b30	used Homer as a witness about Salamis, and the Tenedians
+1375b31	recently used Periander of Corinth against the Sigeans, and Cleophon
+1375b32	used Solon's elegies against Critias, saying
+1375b33	that the family had long been licentious; for otherwise
+1375b34	Solon would never have written, “Tell red-haired Critias, for me, to listen to his father.”
+1375b35	Such witnesses, then, concern the past;
+1376a1	about the future the interpreters of oracles are witnesses too, as Themistocles
+1376a2	said that they must fight at sea, speaking of the wooden wall. Further,
+1376a3	proverbs, as has been said, are testimonies: if someone advises
+1376a4	not making a friend of an old man, the proverb bears witness for him,
+1376a5	“Never do good to an old man”; and on killing the sons
+1376a6	of those whose fathers one has killed: “A fool, who kills the father
+1376a7	and leaves the sons.” Recent witnesses are well-known men who
+1376a8	have judged some question; for their judgments are useful
+1376a9	to those disputing the same questions; as Eubulus
+1376a10	in the courts used against Chares what Plato said
+1376a11	to Archibius, that admitting to being wicked has grown in the city.
+1376a12	And there are those who share the risk, if they are thought to be lying.
+1376a13	Such witnesses testify only to whether
+1376a14	a thing has happened or not, is or is not; of its quality they are not witnesses,
+1376a15	whether it is just or unjust, advantageous or not; but
+1376a16	witnesses from outside are more credible about these, and the ancient most credible of all,
+1376a17	for they cannot be corrupted. As for confirmations about testimony: if one has no
+1376a18	witnesses, one can say that the judges must decide from probabilities, and that this
+1376a19	is what “to the best of my judgment” means, and that probabilities cannot be bribed
+1376a20	to deceive, and that probabilities are not convicted
+1376a21	of false witness; if one has witnesses against one who has none, that
+1376a22	probabilities cannot be held to account, and that there would be no need of testimony if it were enough
+1376a23	to examine the arguments. Testimonies are partly
+1376a24	about oneself and partly about one's opponent, and partly
+1376a25	about the facts and partly about character; so it is clear
+1376a26	that one need never lack useful testimony: if not
+1376a27	about the facts, either agreeing with oneself or
+1376a28	opposing one's opponent, then about character, either one's own decency
+1376a29	or the opponent's badness. The rest about
+1376a30	a witness, whether he is a friend or an enemy or neither, of good repute or
+1376a31	bad or neither, and all other such differences, must be argued from
+1376a32	the same topics from which we draw
+1376a33	enthymemes. As for contracts, arguments are of use
+1376a34	so far as to amplify or minimize them, to make them credible or not credible:
+1376b1	if they favor oneself, credible and binding; if they favor
+1376b2	the opponent, the opposite. For making them credible or not credible
+1376b3	the treatment differs not at all from that of
+1376b4	witnesses; for contracts are as credible as those who have signed
+1376b5	or keep them.
+1376b6	If the contract is admitted, and it is on one's own side,
+1376b7	one should amplify it: a contract is a private and particular law,
+1376b8	and contracts do not make the law binding, but
+1376b9	laws make lawful contracts binding; and in general the law itself
+1376b10	is a kind of contract, so that whoever distrusts or annuls
+1376b11	a contract annuls the laws. Further, most
+1376b12	transactions, the voluntary ones, are carried out by contract, so that
+1376b13	if contracts lose their force, people's dealings with one another
+1376b14	are destroyed. And the other points that apply are easy to see.
+1376b15	If the contract is against one and on the opponent's side, first,
+1376b16	the arguments one would use to fight an adverse law
+1376b17	apply; for it is absurd if we think we need not obey laws when they are not rightly
+1376b18	made but their makers have erred,
+1376b19	but must obey contracts. Then, that the juror
+1376b20	is the umpire of justice; so he must consider not the contract
+1376b21	but what is more just; and the just cannot be
+1376b22	perverted by fraud or force (for it is by nature), while contracts
+1376b23	are made even by people deceived or forced. Besides
+1376b24	this, consider whether the contract is contrary to any of the written
+1376b25	laws or the common ones, and of the written either to one's own
+1376b26	or to foreign laws; then whether it is contrary to other contracts, later or
+1376b27	earlier; for either the later are binding and the earlier void, or
+1376b28	the earlier are right and the later have deceived, whichever way is
+1376b29	useful. Further, look at advantage, whether the contract is in any way contrary to
+1376b30	the judges, and anything else of the kind; for these too are equally easy to see.
+1376b31	Tortures are a kind of testimony, and they seem to carry
+1376b32	conviction, because there is a certain compulsion in them. It is not hard
+1376b33	to say what is possible about these either: if they are on one's side,
+1376b34	one can amplify them, saying that of all testimonies these alone are true;
+1377a1	and if they are against one and on the opponent's side, one can refute them
+1377a2	by telling the truth about the whole class of tortures: for people
+1377a3	under compulsion tell lies no less than the truth, both
+1377a4	holding out so as not to tell the truth, and readily lying
+1377a5	so as to be released sooner. One should be able to refer to such
+1377a6	examples from the past as the judges know. One must say
+1377a7	that tortures are not true; for many dull-witted and stone-skinned men, strong in soul, nobly hold out under compulsion, while cowards and cautious men are bold only until they have seen the instruments of torture, so that there is nothing trustworthy in tortures.
+1377a8	Oaths can be divided in four ways: a man either both tenders
+1377a9	and accepts an oath, or neither, or one but not the other; and of these, either he tenders
+1377a10	but does not accept, or accepts but does not tender. There is another distinction
+1377a11	besides these: whether the oath has been sworn already, by him or by the other. He does not
+1377a12	tender the oath, then, because men easily swear falsely, and because the other, having sworn,
+1377a13	will not pay back, while if he does not swear, he thinks the jurors will condemn him;
+1377a14	and this risk, the one before the jurors, is preferable; for he trusts
+1377a15	them but not the other. He does not accept the oath, because an oath is in place of
+1377a16	money, and because if he were a bad man, he would have sworn it; for it would be better
+1377a17	to be bad for some gain than for none: if he swears, he
+1377a18	will have something, if he does not, nothing; so his refusal would be due to virtue, not to
+1377a19	fear of perjury. And Xenophanes' saying fits: that “this
+1377a20	is not a fair challenge, from the impious to the pious,” but it is as if
+1377a21	a strong man were to challenge a weak one to strike or be struck. If
+1377a22	he accepts, it is because he trusts himself but not the other. And one should turn
+1377a23	Xenophanes' saying around and say that it is fair this way, if the
+1377a24	impious man tenders and the pious man swears; and that it is monstrous for him to be unwilling
+1377a25	himself to swear about matters on which he demands that the jurors judge under oath. If
+1377a26	he tenders the oath, it is because it is pious to be willing to entrust the matter to the gods, and
+1377a27	because the opponent should need no other judges (for he leaves
+1377a28	the judgment to him), and because it is absurd to be unwilling to swear about matters
+1377a29	on which they require others to swear. And since it is clear how each case
+1377a30	should be argued, it is also clear how to argue them in combination: if, for instance, a man
+1377a31	is willing to accept an oath but not to tender one, or tenders but is not
+1377a32	willing to accept, or is willing both to accept and to tender, or neither;
+1377b1	for these must be made up of the cases described, so that
+1377b2	the arguments too are made up of those described. If
+1377b3	he has himself sworn an oath that contradicts his present one, he should say that it is not
+1377b4	perjury; for doing wrong is voluntary, and perjury
+1377b5	is doing wrong, while what is done by force or deceit is involuntary. Here, then,
+1377b6	one should conclude that perjury too lies in the mind and not
+1377b7	in the mouth. But if it is the opponent who has sworn something contrary,
+1377b8	say that he destroys everything by not abiding by his oath; for that is why
+1377b9	jurors apply the laws under oath. And: “They require you
+1377b10	to abide by the oath you swore when you judge, but they themselves do not abide by theirs.”
+1377b11	And whatever else one might say to amplify it. About the
+1377b12	non-artistic proofs, then, let this be enough.
