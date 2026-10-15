@@ -1,0 +1,14 @@
+---
+summary: The book of the Deception of Zeus has the verbs of beguiling twice, at its two ends. Hera ponders “how she might beguile the mind of aegis-bearing Zeus”, and Sleep tells Poseidon that “Hera has beguiled him”; when Zeus wakes he will call it her deceit.
+grc: [ἐξαπάφοιτο, παρήπαφεν]
+en: [beguiled]
+passages:
+  - 14.159-165 | Hera's plan
+  - 14.354-360 | Sleep's message
+---
+
+**The plan and the report.** “Then ox-eyed queen Hera pondered / how she might beguile the mind of aegis-bearing Zeus” (ὅππως ἐξαπάφοιτο Διὸς νόον αἰγιόχοιο, 14.159–160; see [[hera]] and [[noos]]). Two hundred verses later Sleep brings Poseidon the outcome: “and Hera has beguiled him into going to bed with her in love” (Ἥρη δʼ ἐν φιλότητι παρήπαφεν εὐνηθῆναι, 14.360; see [[sleep]] and [[philotes]]). The two verbs, ἐξαπαφίσκω and παραπαφίσκω, “beguile”, are compounds of ἀπαφίσκω, of the family of ἀπάτη (see the article above); Achilles uses the first of Agamemnon, who will never again beguile him with words (9.376). Ancient readers named the book after the deed, Διὸς ἀπάτη, “the Deception of Zeus” (see [[title-of-book-14]] and [[the-deception-of-zeus]]).
+
+**Deceit and its tools.** The deceit is worked with things and words: the adornment (14.166–187; see [[the-adornment-of-a-goddess]]), the strap that holds “the persuasion that steals the mind even of men who think shrewdly” (14.217; see [[aphrodites-band]]), a false story told twice, to Aphrodite and to Zeus (14.200–210, 14.301–311), and the god Sleep. Three times Hera speaks δολοφρονέουσα, “with treachery in her heart” (14.197, 14.300, 14.329), a participle of δόλος, “trick”, and φρήν, “mind” (see [[truth-and-deception]]).
+
+**The sequel.** When Zeus wakes on Ida and sees Hector lying on the plain, he calls it Hera's δόλος, her evil-working trick (15.14), reminds her how he punished her for the storm she raised against Heracles (15.18–30; see [[hera-drives-heracles-to-cos]]), and says that he will remind her of it so that she may cease from her deceits (ἀπατάων) and see whether the love and the bed in which she lay with him, deceiving him (ἀπάτησας), will help her (15.31–33). In Book 19 Agamemnon tells of another time: on the day Alcmene was to bear Heracles, Hera deceived Zeus with her wiles (δολοφροσύνῃς ἀπάτησεν, 19.95–99) and made him swear the oath that gave Eurystheus the rule (19.100–124). That story is told in this book's verses: Hera answers “with treachery in her heart” (19.106 = 14.300, 14.329), asks Zeus for an oath, εἰ δʼ ἄγε νῦν μοι ὄμοσσον (19.108), as Sleep asks one of her, “Come now, swear to me” (ἄγρει νῦν μοι ὄμοσσον, 14.271), and darts down from the peak of Olympus (19.114 = 14.225). The Iliad tells three deceptions of Zeus, the lulling of Book 14, the earlier lulling when Heracles sailed from Troy (14.249–262) and the birth of Heracles, and Hera is behind each.

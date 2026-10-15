@@ -43,7 +43,7 @@ He leads the way to the bed, and his wife follows (3.447).
 
 ## Elsewhere in Homer
 
-Paris' invitation returns almost word for word in the mouth of Zeus, when Hera has borrowed Aphrodite's embroidered band to seduce him: “come, let us go to bed and take our pleasure in love” (14.314), “never yet has desire so overwhelmed me”, and “as I love you now, and sweet longing takes hold of me” (14.328 = 3.446). In Book 6 Helen says that the gods devised these evils, and wishes she were at least the wife of a better man (6.349–353), and in the Odyssey she remembers the “blind folly” (ἄτη) that Aphrodite gave her when she led her from her native land (Odyssey 4.261–264).
+Paris' invitation returns almost word for word in the mouth of Zeus, when Hera has borrowed Aphrodite's embroidered band to seduce him: “let the two of us go to bed and take our pleasure in love” (14.314), “never yet has desire so overwhelmed me”, and “as I love you now, and sweet longing takes hold of me” (14.328 = 3.446). In Book 6 Helen says that the gods devised these evils, and wishes she were at least the wife of a better man (6.349–353), and in the Odyssey she remembers the “blind folly” (ἄτη) that Aphrodite gave her when she led her from her native land (Odyssey 4.261–264).
 
 ## Outside Homer
 

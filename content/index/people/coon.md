@@ -6,8 +6,9 @@ tags: [trojan, warrior]
 summary: The eldest son of [[Antenor]]. To avenge his brother [[Iphidamas]] he stabs Agamemnon through the arm, and Agamemnon kills him over his brother's body (11.248–263). The wound he gave is what drives Agamemnon from the battle, as Book 19 recalls (19.51–53).
 aliases: [Koon, Coön, Coon son of Antenor]
 # Κόων at 14.255 and 15.28 is the adverb Κόωνδε, "to Cos", printed as two words (Κόων δʼ):
-# except those lines when Books 14 and 15 are indexed.
+# cos claims the phrase; 14.255 is excepted here, and 15.28 will be when Book 15 is indexed.
 grc: [Κόων, Κόωνι]
+except: [14.255]
 refs: [11.249-256, 11.258-261]
 relations:
   - father: antenor (11.249)

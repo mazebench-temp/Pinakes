@@ -20,7 +20,7 @@ A man may give way to a god. When Diomedes sees Ares beside Hector, he orders th
 
 The argument is always held with an imagined voice. Diomedes fears what Hector will say among the Trojans (8.148–150; see [[may-the-earth-gape]]). Odysseus, left alone when Zeus has put the other Danaans to flight, tells himself that to flee is bad and to be caught alone worse, but that cowards leave the fighting, and the man who would be best must stand his ground (11.403–410). Hector, waiting for Achilles before the gates, imagines that Polydamas will reproach him first and that someone worse than he will say that Hector destroyed the people, and he stays (22.99–110; see [[tis-speech]] and [[aidos]]). He asks only that Achilles not plant a spear in his back as he flees (22.283).
 
-Flight by sea is the last retreat, and Agamemnon proposes it three times: to test the army (2.139–141), in earnest at the night assembly of Book 9, where Diomedes answers him (9.26–49), and in Book 14, when he says that “there is no blame in fleeing ruin, even by night”, and Odysseus answers him with scorn (14.74–102; see [[war-and-night]]).
+Flight by sea is the last retreat, and Agamemnon proposes it three times: to test the army (2.139–141), in earnest at the night assembly of Book 9, where Diomedes answers him (9.26–49), and in Book 14, when he says that “there is no blame in fleeing from evil, not even by night”, and Odysseus answers him with scorn (14.74–102; see [[war-and-night]]).
 
 {{notes}}
 

@@ -5,7 +5,8 @@ kind: place
 tags: [troad]
 summary: The great river of the Trojan plain, called Xanthus by the gods and Scamander by men. Its plain and its meadow are the battlefield of the Iliad.
 aliases: [Skamandros, Scamandrian plain]
-grc: [Σκαμάνδρι*]
+# Ξάνθου δινήεντος, "the eddying Xanthus, whom immortal Zeus begot" (14.434 = 21.2, 24.693).
+grc: [Σκαμάνδρι*, "Ξάνθου δινήεντος"]
 # Ξάνθοιο at 12.313 is the Lycian Xanthus, by which Sarpedon and Glaucus hold their estate.
 except: [5.49, 6.402, 12.313]
 ---

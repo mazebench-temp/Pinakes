@@ -5,7 +5,8 @@ kind: place
 tags: [island, dodecanese]
 summary: The island off the coast of Caria, "the city of Eurypylus". Its men and those of the islands around it came to Troy in thirty ships under [[Pheidippus]] and [[Antiphus]], grandsons of Heracles.
 aliases: [Kos, Coos]
-grc: [Κῶν]
+# Κόων δʼ = Κόωνδε, "to Cos", in Sleep's story of Heracles (14.255 = 15.28).
+grc: [Κῶν, "Κόων δʼ εὖ"]
 ---
 
 {{quote:55d0733a-7151-54a7-b313-74919239733d}}

@@ -13,7 +13,7 @@ passages:
 
 ## Meaning
 
-The verb ὀαρίζω, “talk intimately”, and the noun ὀαριστύς are formed from ὄαρ, a rare word for a wife or companion. Sarpedon tells Hector that he should be urging the people “to stand firm and defend their wives” (ὤρεσσι, 5.486), and Achilles says that he spent bloody days “fighting with men for the sake of their wives” (ὀάρων, 9.327). The talk is that of a man and a woman. Aphrodite's embroidered band holds “love, and longing, and intimate talk, the persuasion that steals the mind even of the wise” (14.216–217; see [[philotes]] and [[himeros]]). In the Odyssey Minos of Cnossus is called the ὀαριστής of great Zeus, his familiar companion (*Odyssey* 19.179).
+The verb ὀαρίζω, “talk intimately”, and the noun ὀαριστύς are formed from ὄαρ, a rare word for a wife or companion. Sarpedon tells Hector that he should be urging the people “to stand firm and defend their wives” (ὤρεσσι, 5.486), and Achilles says that he spent bloody days “fighting with men for the sake of their wives” (ὀάρων, 9.327). The talk is that of a man and a woman. Aphrodite's embroidered strap holds love and longing, and “in it intimate talk, / the persuasion that steals the mind even of men who think shrewdly” (14.216–217; see [[aphrodites-band]], [[philotes]] and [[himeros]]). In the Odyssey Minos of Cnossus is called the ὀαριστής of great Zeus, his familiar companion (*Odyssey* 19.179).
 
 ## In the Iliad
 

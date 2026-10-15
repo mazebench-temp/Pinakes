@@ -1,0 +1,328 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 26,
+      "title": "Nestor Sees the Wall Thrown Down",
+      "summary": "Nestor, drinking with the wounded Machaon in his hut, hears the louder cry from the ships, leaves him to Hecamede's bath, and takes his son Thrasymedes' shield and a spear. Outside he sees the Achaeans in turmoil, the Trojans pressing behind them, and the wall thrown down. Like the open sea that heaves with a soundless swell and rolls neither way until a settled wind comes from Zeus, he weighs whether to join the fighting or go to Agamemnon, and goes to Agamemnon."
+    },
+    {
+      "from": 27,
+      "to": 134,
+      "title": "The Wounded Kings in Council",
+      "summary": "Agamemnon, Diomedes and Odysseus, all wounded, come up from the ships, which are drawn up in rows along the whole shore, with the first of them nearest the plain and the wall along their sterns. Agamemnon fears that Hector's threat is coming true and that the Achaeans are angry with him as Achilles is; Nestor answers that the wall is down and no one can mend things now. Agamemnon proposes to launch the nearest ships and escape by night. Odysseus rebukes him: the men would lose heart the moment the ships were dragged down. Agamemnon yields, and Diomedes, the youngest, claims a hearing by his descent from Tydeus and Oeneus: they should go to the battle, wounded as they are, keep out of range and urge the others on. They obey, and Agamemnon leads them."
+    },
+    {
+      "from": 135,
+      "to": 152,
+      "title": "Poseidon Encourages Agamemnon",
+      "summary": "Poseidon, keeping no blind watch, comes among the kings in the likeness of an old man, takes Agamemnon by the hand and tells him that Achilles has no sense, that the gods are not wholly angry with him, and that he will see the Trojans fleeing to the city. Then the god shouts as loud as nine or ten thousand men and puts strength into every Achaean."
+    },
+    {
+      "from": 153,
+      "to": 223,
+      "title": "Hera Adorns Herself",
+      "summary": "Hera sees Poseidon at work and is glad, but Zeus, on the peak of Ida, is hateful to her. She decides to beguile him: in the chamber Hephaestus made her she bathes in ambrosia, anoints herself with fragrant oil, braids her hair, puts on the robe Athena wove, her brooches, her girdle of a hundred tassels, her earrings, her veil and her sandals. Then she asks Aphrodite, with a false story about reconciling Oceanus and Tethys, for love and longing, and Aphrodite gives her the embroidered band in which all her enchantments are wrought."
+    },
+    {
+      "from": 224,
+      "to": 291,
+      "title": "Hera Wins Over Sleep",
+      "summary": "Hera flies over Pieria, Emathia and the snowy mountains of Thrace to Lemnos and finds Sleep, the brother of Death. She offers him a golden throne made by Hephaestus to lull Zeus to sleep; he refuses, remembering how Zeus raged when he had lulled him so that Hera could drive Heracles to Cos, and how only Night saved him. She promises him Pasithea, one of the younger Graces, as his wife, and he makes her swear by the Styx, naming the Titans below Tartarus. They go to Ida by Lectum, and Sleep hides in a tall fir in the likeness of the bird gods call chalcis and men cymindis."
+    },
+    {
+      "from": 292,
+      "to": 353,
+      "title": "The Deception of Zeus",
+      "summary": "Zeus sees Hera on Gargarus and is seized with desire as when they first lay together in secret from their parents. She tells him her false story of a journey to Oceanus and Tethys; he answers that she can go later, and swears that he has never desired any goddess or woman so much, naming Ixion's wife, Danae, the daughter of Phoenix, Semele, Alcmene, Demeter and Leto. Hera objects that some god might see them on the peak and asks to go to the chamber Hephaestus built; Zeus wraps them in a golden cloud. The earth sends up grass, lotus, crocus and hyacinth beneath them, and Zeus sleeps, overcome by sleep and love."
+    },
+    {
+      "from": 354,
+      "to": 401,
+      "title": "Poseidon Leads the Achaeans",
+      "summary": "Sleep tells Poseidon to help the Danaans while Zeus sleeps. Poseidon calls on the Argives to stand without Achilles, and the wounded kings have the best men exchange armor, the best taking the biggest shields and longest spears. Poseidon leads them with a terrible sword like lightning, Hector marshals the Trojans, and the two stretch tight the strife of war. The shout of the armies is louder than the sea on the shore, fire in a mountain forest, or the wind in the oaks."
+    },
+    {
+      "from": 402,
+      "to": 439,
+      "title": "Ajax Strikes Down Hector",
+      "summary": "Hector's spear is stopped by the two straps on Ajax's chest. As he draws back, Ajax hits him on the chest with one of the stones that propped the ships and sends him spinning like a top; he falls like an oak struck by Zeus' thunderbolt. Polydamas, Aeneas, Agenor, Sarpedon and Glaucus cover him with their shields, and his companions carry him to his chariot and toward the city. At the ford of the Xanthus they pour water on him; he comes to, vomits dark blood and falls back into darkness."
+    },
+    {
+      "from": 440,
+      "to": 507,
+      "title": "Killings and Boasts",
+      "summary": "The Achaeans attack more fiercely. Ajax son of Oileus kills Satnius, son of Enops and a Naiad. Polydamas kills Prothoenor and boasts; Ajax throws at him and kills Archelochus, son of Antenor, and taunts the Trojans. Acamas kills Promachus the Boeotian and boasts that he has paid back his brother. Peneleos kills Ilioneus, son of Phorbas, cuts off his head and holds it up on the spear like a poppy head, and the Trojans tremble."
+    },
+    {
+      "from": 508,
+      "to": 522,
+      "title": "The Trojans Routed",
+      "summary": "The poet calls on the Muses to tell who first won bloody spoils when Poseidon turned the battle: Telamonian Ajax kills Hyrtius, Antilochus Phalces and Mermerus, Meriones Morys and Hippotion, Teucer Prothoon and Periphetes, and Menelaus Hyperenor; but the swift son of Oileus kills the most, for no one could match him in the pursuit when Zeus sends rout."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 3,
+      "to": 8,
+      "speaker": "nestor",
+      "to_whom": [
+        "machaon"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 42,
+      "to": 51,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "nestor"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 53,
+      "to": 63,
+      "speaker": "nestor",
+      "to_whom": [
+        "agamemnon"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 65,
+      "to": 81,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "nestor"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 83,
+      "to": 102,
+      "speaker": "odysseus",
+      "to_whom": [
+        "agamemnon"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 104,
+      "to": 108,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 110,
+      "to": 132,
+      "speaker": "diomedes",
+      "to_whom": [
+        "agamemnon",
+        "odysseus",
+        "nestor"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 139,
+      "to": 146,
+      "speaker": "poseidon",
+      "to_whom": [
+        "agamemnon"
+      ],
+      "kind": "consolation"
+    },
+    {
+      "from": 190,
+      "to": 192,
+      "speaker": "hera",
+      "to_whom": [
+        "aphrodite"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 194,
+      "to": 196,
+      "speaker": "aphrodite",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 198,
+      "to": 210,
+      "speaker": "hera",
+      "to_whom": [
+        "aphrodite"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 212,
+      "to": 213,
+      "speaker": "aphrodite",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 219,
+      "to": 221,
+      "speaker": "aphrodite",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 233,
+      "to": 241,
+      "speaker": "hera",
+      "to_whom": [
+        "sleep"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 243,
+      "to": 262,
+      "speaker": "sleep",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 264,
+      "to": 269,
+      "speaker": "hera",
+      "to_whom": [
+        "sleep"
+      ],
+      "kind": "bargain"
+    },
+    {
+      "from": 271,
+      "to": 276,
+      "speaker": "sleep",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "oath"
+    },
+    {
+      "from": 298,
+      "to": 299,
+      "speaker": "zeus",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 301,
+      "to": 311,
+      "speaker": "hera",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 313,
+      "to": 328,
+      "speaker": "zeus",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 330,
+      "to": 340,
+      "speaker": "hera",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 342,
+      "to": 345,
+      "speaker": "zeus",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 357,
+      "to": 360,
+      "speaker": "sleep",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "message"
+    },
+    {
+      "from": 364,
+      "to": 377,
+      "speaker": "poseidon",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 454,
+      "to": 457,
+      "speaker": "polydamas",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 470,
+      "to": 474,
+      "speaker": "ajax",
+      "to_whom": [
+        "polydamas"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 479,
+      "to": 485,
+      "speaker": "acamas",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 501,
+      "to": 505,
+      "speaker": "peneleos",
+      "to_whom": [
+        "trojans"
+      ],
+      "kind": "taunt"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 522,
+      "label": "Day 26",
+      "note": "The third day of battle continues (11.1 to 18.242). Book 14 has no dawn and marks no hour: it begins with Nestor hearing the din of Book 13 and ends with the Trojans in flight. Within the same day Zeus falls asleep on Gargarus (14.352–353) and wakes on Ida at the start of Book 15 (15.4–5)."
+    }
+  ]
+}

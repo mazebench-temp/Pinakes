@@ -5,7 +5,8 @@ kind: place
 tags: [island, city, euboea]
 summary: The chief city of Euboea, on the Euripus narrows opposite Aulis, one of the towns of the Abantes. Not to be confused with Chalcis in Aetolia.
 aliases: [Chalkis]
-grc: [Χαλκίδα]
+# ^: χαλκίδα at 14.291 is the bird "the gods call chalcis".
+grc: ["^Χαλκίδα"]
 except: [2.640]
 ---
 

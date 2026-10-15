@@ -28,4 +28,4 @@ The sea returns in the book's later images. The armies sit like the sea darkenin
 
 ## Elsewhere in Homer
 
-A wind from Zeus stands in another sea simile: Nestor, torn between two courses, is like the sea that heaves without moving either way “before some settled wind comes down from Zeus” (14.16–21).
+A wind from Zeus stands in another sea simile: Nestor, torn between two courses, is like the sea that heaves without moving either way “until some settled wind comes down from Zeus” (14.16–21).

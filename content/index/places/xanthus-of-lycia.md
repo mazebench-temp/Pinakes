@@ -5,7 +5,8 @@ kind: place
 tags: [trojan, lycia]
 summary: The chief river of [[Lycia]], "eddying Xanthus", by which the Lycian kings held their estate. Not the Xanthus of the Trojan plain, whom men call the Scamander.
 aliases: [Lycian Xanthus]
-grc: ["=Ξάνθου"]
+# Ξάνθου δινήεντος at 14.434 (= 21.2, 24.693) is the Trojan river (scamander).
+grc: ["=Ξάνθου", "!Ξάνθου δινήεντος"]
 en: [Xanthus]
 ---
 

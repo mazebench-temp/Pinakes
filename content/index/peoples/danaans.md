@@ -5,7 +5,8 @@ kind: people
 tags: [achaean]
 summary: One of Homer's three names for the Greeks at Troy, used interchangeably with [[Achaeans]] and [[Argives]].
 aliases: [Danaoi]
-grc: [Δανα*, "!Δαναός"]
+# Δανάης at 14.319 is Danae, mother of Perseus.
+grc: [Δανα*, "!Δαναός", "!Δανάη*"]
 en: [Danaans]
 ---
 

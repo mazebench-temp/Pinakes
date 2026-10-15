@@ -5,7 +5,8 @@ kind: place
 tags: [mainland-greece, city, aetolia]
 summary: "Chalcis by the sea", a town of the Aetolians on the coast near the mouth of the Evenus. Not the Euboean Chalcis.
 aliases: [Aetolian Chalcis]
-grc: [Χαλκίδα]
+# ^: χαλκίδα at 14.291 is the bird "the gods call chalcis".
+grc: ["^Χαλκίδα"]
 en: [Chalcis]
 except: [2.537]
 ---

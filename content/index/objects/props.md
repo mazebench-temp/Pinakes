@@ -5,7 +5,9 @@ kind: object
 tags: [ship, seafaring, camp]
 summary: The long supports set under a ship drawn up on the beach to hold it upright. The word ἕρμα can mean any support.
 aliases: [shores, supports, ship props, hermata]
+# ἕρματα are "earrings" at 14.182 (and Od. 18.297); the props of the ships at 14.410 are ἔχματα.
 grc: [ἕρματα]
+except: [14.182]
 en: [props]
 ---
 
