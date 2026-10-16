@@ -1,0 +1,5 @@
+---
+summary: Poseidon bids the Achaeans cover their heads in all-gleaming helmets; Hector's helmet falls on him with his shield when Ajax's stone strikes him down; and Peneleos dashes Ilioneus' head to the ground “helmet and all”.
+---
+
+Poseidon's plan for the battle is to put the best armor on the best men: the biggest shields, the longest spears, and “cover our heads in all-gleaming helmets” (κεφαλὰς δὲ παναίθῃσιν κορύθεσσι / κρύψαντες, 14.372–373; see [[exchange-of-armor]]). When Ajax's stone fells Hector, “his shield fell upon him, / and his helmet, and around him his armor rang, inlaid with bronze” (14.419–420; see [[fell-with-a-thud]] and the translation's note on 14.419), the verse of a warrior's fall used here of a man who is not killed. Peneleos cuts off Ilioneus' head and dashes it to the ground “helmet and all” (αὐτῇ σὺν πήληκι κάρη, 14.497–498), then lifts it on his spear (see [[peneleos]], [[ilioneus]] and [[spear]]). πήληξ is one of the Iliad's four words for the helmet (see the article above).

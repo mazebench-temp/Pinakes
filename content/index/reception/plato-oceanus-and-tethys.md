@@ -1,0 +1,28 @@
+---
+title: Oceanus and Tethys as streams
+greek: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν
+kind: anecdote
+tags: [philosophy, allegory]
+summary: Plato's Socrates takes Hera's verse on “Oceanus, the origin of the gods, and mother Tethys” for an early statement of the doctrine that all things flow. In the Theaetetus Homer leads the army of the wise who hold that nothing is and everything comes to be out of motion; in the Cratylus Homer, Hesiod and Orpheus agree with Heraclitus, since the first gods bear the names of streams.
+source: Plato, Theaetetus 152d–153a, 160d, 179d–180d; Cratylus 402a–d; Timaeus 40d–41a
+of: [oceanus, tethys, heraclitus-of-ephesus, plato]
+passages:
+  - 14.200-204 | Oceanus and Tethys
+  - 14.244-246 | Oceanus, the origin of all
+---
+
+{{quote:763594fd-a1dd-5dc3-8e8c-5361a1bbc3be}}
+
+**Homer.** Hera's tale gives Oceanus and Tethys a rank that the poems give them nowhere else. Oceanus is “the origin of the gods”, θεῶν γένεσιν, and Tethys is “mother Tethys”, who reared Hera in their halls when Zeus put Cronus beneath the earth (14.200–204, again to Zeus at 14.301–303). Sleep goes further: Oceanus “is the origin of all”, ὅς περ γένεσις πάντεσσι τέτυκται (14.246). Elsewhere Oceanus is the river from which flow all rivers and all the sea, all springs and deep wells (21.195–197), and the river that runs round the rim of Achilles' shield (18.607–608). How he is the origin of the gods, the poem does not say. The verse is part of a lie: Hera is not going to the ends of the earth, and the quarrel of Oceanus and Tethys is her pretext (14.205–210, 14.304–311; see [[oceanus]], [[tethys]] and [[the-deception-of-zeus]]).
+
+**The Theaetetus.** Socrates sets out, in order to test it, the doctrine that he finds behind Protagoras' saying that man is the measure of all things. Nothing is one thing by itself; out of movement and motion and mixture with one another all things come to be which we say “are”, wrongly, for nothing ever is, but always comes to be. On this, he says, all the wise in turn agree except Parmenides, Protagoras, Heraclitus and Empedocles, and the summits of both kinds of poetry, Epicharmus in comedy and in tragedy Homer, who, by saying Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν, said that all things are the offspring of flow and motion (152d–e). Who could fight against such an army, with Homer for its general, without making himself ridiculous (153a)? The proofs follow, crowned by the golden rope read as the sun (153a–d; see [[plato-golden-rope]]). When the dialogue has brought to birth Theaetetus' definition of knowledge as perception, it is still Homer's doctrine: “according to Homer and Heraclitus and all that tribe”, all things move like streams (οἷον ῥεύματα, 160d).
+
+The doctrine returns later in the dialogue. Theodorus calls it Heraclitean, “or, as you say, Homeric, and still older”, and says that one can no more argue with its followers at Ephesus than with madmen (179e–180a). Socrates calls it a problem handed down by the ancients, who hid it from the many in poetry, that the origin of all the rest, Oceanus and Tethys, are streams and nothing stands still, and by their successors, who, being wiser, declared it openly, so that even the cobblers might learn it and honor them (180c–d). His phrase for them, ἡ γένεσις τῶν ἄλλων πάντων, is nearer to Sleep's “who is the origin of all” (14.246) than to Hera's verse.
+
+**The Cratylus.** Explaining the names of the gods, Socrates thinks he sees Heraclitus saying ancient wise things from the time of Cronus and Rhea, which Homer said too. Heraclitus says that all things move on and nothing stays, and likens the things that are to the stream of a river: you could not step twice into the same river. Did the man who gave the ancestors of the other gods the names of Rhea and Cronus think otherwise? It was not by chance, Socrates suggests, that he gave both of them the names of streams; so too Homer says “Oceanus, the origin of the gods, and mother Tethys”, and Hesiod too, he thinks, and Orpheus says that “fair-flowing Oceanus was the first to begin marriage, and he wedded his sister, his mother's daughter, Tethys” (402a–c). All of it points to Heraclitus. The name of Tethys itself, he adds, hides the name of a spring, made of “strained through” (διαττώμενον) and “filtered” (ἠθούμενον) (402c–d; see [[heraclitus-of-ephesus]]).
+
+Hesiod's agreement is looser than Socrates allows. The *Theogony* begins with Chaos, Earth, Tartarus and Eros. Oceanus is the first named of the children of Earth and Heaven, and Tethys the last of their daughters; together they are the parents of the rivers and of the daughters of Ocean, while Zeus, Hera and their brothers and sisters are the children of Cronus and Rhea (*Theogony* 116–136, 337–370, 453–458; see [[hesiod]]). In the *Timaeus* Plato follows another genealogy, that of “those who spoke before”, who said they were the offspring of gods: of Earth and Heaven were born Oceanus and Tethys, of them Phorcys, Cronus and Rhea and the rest, and of Cronus and Rhea, Zeus and Hera and their brothers (40d–41a). There Oceanus and Tethys are grandparents of Zeus and Hera, born of Earth and Heaven as in Hesiod and standing at the origin of the gods as in Homer.
+
+**The readings.** Plato's Socrates lifts Hera's epithet out of her lie and makes it a doctrine of the world, the first witness for a case that he sets out in order to examine it. The same verse served other readers for other purposes: Aristotle, for an anticipation of Thales, who made water the first principle (see [[aristotle-oceanus-and-tethys]]), and Strabo, for proof that Homer made Oceanus encircle the earth at its limits (*Geography* 1.1.7; see [[strabo]]).
+
+See [[plato]], [[oceanus]] and [[tethys]].

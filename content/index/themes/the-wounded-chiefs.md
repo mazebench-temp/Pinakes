@@ -36,7 +36,7 @@ Achilles, watching from the stern of his ship, sees Nestor's chariot carry a wou
 
 ## Later in the poem
 
-The wounded do not fight again that day, but they do not vanish. Machaon sits drinking in Nestor's hut while Hecamede heats a bath for him (14.1–8; see [[hecamede]]). Diomedes, Odysseus and Agamemnon come up from the ships, leaning on their spears, to look at the battle; Nestor tells them that a wounded man cannot fight (14.27–40, 14.62–63), and Diomedes persuades them to go into the battle all the same, keeping out of range so that no one gets “wound on wound” (ἐφʼ ἕλκεϊ ἕλκος), and urging the others on (14.128–134). They marshal the army and see that the best armor goes to the best men (14.379–382). Patroclus stays with Eurypylus, easing his wound with drugs and talk, until he sees the Trojans storm the wall (15.390–404; see [[the-persuasion-of-a-friend]]). On the next morning Diomedes and Odysseus limp to the assembly leaning on their spears, and Agamemnon comes last, with the wound that Coon gave him (19.47–53).
+The wounded do not fight again that day, but they do not vanish. Machaon sits drinking in Nestor's hut while Hecamede heats a bath for him (14.1–8; see [[hecamede]]). Diomedes, Odysseus and Agamemnon go back to the battle without fighting, to urge the others on, and they marshal the army and see that the best armor goes to the best men (14.27–134, 14.379–382). Patroclus stays with Eurypylus, easing his wound with drugs and talk, until he sees the Trojans storm the wall (15.390–404; see [[the-persuasion-of-a-friend]]). On the next morning Diomedes and Odysseus limp to the assembly leaning on their spears, and Agamemnon comes last, with the wound that Coon gave him (19.47–53).
 
 {{notes}}
 

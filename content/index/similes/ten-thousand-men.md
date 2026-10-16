@@ -3,11 +3,11 @@ title: Ten thousand men
 greek: ὅσσόν τʼ ἐννεάχιλοι ἐπίαχον ἢ δεκάχιλοι
 kind: simile
 tags: [warfare, divine-scene]
-summary: Wounded by Diomedes, “bronze Ares bellowed as loud as nine thousand or ten thousand men shout in war as they join in the strife of Ares”, and trembling seized Achaeans and Trojans alike (5.859–863). Poseidon shouts with the same voice in Book 14.
+summary: Wounded by Diomedes, “bronze Ares bellowed as loud as nine thousand or ten thousand men shout in war as they join in the strife of Ares”, and trembling seized Achaeans and Trojans alike (5.859–863). Poseidon shouts with the same voice to rouse the Achaeans (14.147–152).
 aliases: [as loud as ten thousand men, nine or ten thousand men, the bellow of Ares]
 grc: [ἐννεάχιλοι]
 en: [as loud as nine thousand or ten thousand men shout]
-of: [ares]
+of: [ares, poseidon]
 ---
 
 ## The simile
@@ -26,4 +26,4 @@ Shortly before, Hera shouted to the Argives in the likeness of Stentor, “who c
 
 ## Elsewhere in Homer
 
-The same lines are used of Poseidon in Book 14, when he rouses the Achaeans at the ships: he shouted “as loud as nine thousand or ten thousand men shout in war as they join in the strife of Ares; such a voice did the lord, the earth-shaker, send out from his chest”, and put great strength into every Achaean's heart (14.147–152). The god's shout gives one army courage; the war god's cry of pain makes both armies tremble. The great mortal shout of the poem is Achilles' at the trench, clear as a trumpet when enemies surround a city, which three times throws the Trojans into confusion (18.217–229).
+The same two verses measure Poseidon's shout in Book 14, when he leaves Agamemnon and puts great strength into the heart of every Achaean (14.147–152). The god's shout gives one army courage; the war god's cry of pain makes both armies tremble. The great mortal shout of the poem is Achilles' at the trench, clear as a trumpet when enemies surround a city, which three times throws the Trojans into confusion (18.217–229).

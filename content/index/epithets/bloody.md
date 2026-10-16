@@ -6,7 +6,7 @@ tags: [warfare, body]
 summary: “Bloody, bloodstained,” an epithet of wounds, limbs, armor and the dust of battle, and of war itself and the days spent in it.
 aliases: [haimatoeis, bloodstained, blood-soaked]
 grc: [αἱματόεσσα, αἱματόεντα, αἱματόεντος]
-except: [7.425]
+except: [7.425, 14.7]
 en: [bloody]
 of: [polemos]
 ---

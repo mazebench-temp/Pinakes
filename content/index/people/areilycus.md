@@ -12,8 +12,8 @@ relations:
   - child: prothoenor (14.450-451)
 ---
 
-{{quote:Iliad 14.449-452 | Polydamas kills Prothoenor}}
+{{quote:24f11b22-fdce-52ec-8437-0694813dfc47}}
 
 Προθοήνορα … υἱὸν Ἀρηϊλύκοιο, “Prothoenor, … the son of Areilycus” (14.450–451): the father is named, as fathers often are at a warrior's death, in the verse that brings the spear home (see [[prothoenor]], [[polydamas]] and [[androktasia]]). The Catalogue names Prothoenor among the five leaders of the Boeotians without a father (2.495; see [[boeotians]]); this is all the poem tells of Areilycus.
 
-The name seems to join Ἄρης, “Ares”, and λύκος, “wolf”, as Ἀρηΐθοος, the name of the mace-man who fathered Menesthius, joins Ares and θοός, “swift” (7.8–10; see [[areithous]]). In Book 16, when the Trojans scatter from the ships, Patroclus is the first to kill, and his man is a Trojan of the same name, speared in the thigh as he turns (16.306–311; see [[patroclus]]).
+The name seems to join Ἄρης, “Ares”, and λύκος, “wolf”, as Ἀρηΐθοος, the name of the mace-man who fathered Menesthius (7.8–10; see [[areithous]]), joins Ares and θοός, “swift”. In Book 16, when the Trojans scatter from the ships, Patroclus is the first to kill, and his man is a Trojan of the same name, speared in the thigh as he turns (16.306–311; see [[patroclus]]).

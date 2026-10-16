@@ -18,7 +18,7 @@ grc: [^Χάριτ*]
 
 Diomedes' spear pierces Aphrodite's hand “through the ambrosial robe that the Graces themselves had made for her” (5.338), the robe she had spread in front of Aeneas as a shelter from missiles (5.315). The goddess of love wears their work, and it does not protect her. When Athena arms against Ares, she lets fall a robe that she made with her own hands (5.734–735).
 
-The Graces serve Aphrodite in the Odyssey too. At Paphos they bathe her and anoint her with ambrosial oil (Od. 8.364–366), and she anoints herself to go to “the lovely dance of the Graces” (Od. 18.193–194). They are the measure of beauty: Euphorbus' hair was like the Graces' (17.51), and Nausicaa's maids have their beauty “from the Graces” (Od. 6.18). Hera promises Sleep one of “the younger Graces”, Pasithea, for his wife (14.267–276), and the wife of Hephaestus in the Iliad is Charis, “Grace” (18.382–383).
+The Graces serve Aphrodite in the Odyssey too. At Paphos they bathe her and anoint her with ambrosial oil (Od. 8.364–366), and she anoints herself to go to “the lovely dance of the Graces” (Od. 18.193–194). They are the measure of beauty: Euphorbus' hair was like the Graces' (17.51), and Nausicaa's maids have their beauty “from the Graces” (Od. 6.18). Hera promises Sleep one of “the younger Graces”, Pasithea, for his wife (14.267–276; see [[pasithea]] and [[sleep]]), and the wife of Hephaestus in the Iliad is Charis, “Grace” (18.382–383).
 
 ## Outside Homer
 

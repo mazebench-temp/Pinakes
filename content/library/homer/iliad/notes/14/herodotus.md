@@ -1,0 +1,5 @@
+---
+summary: Herodotus uses the word with which Homer describes the ships hauled up in rows, προκρόσσας, of Xerxes' fleet riding at anchor off Magnesia, eight ships deep, and gives the same reason: the beach was not large enough.
+---
+
+- **In rows.** The Achaean ships were hauled up “in rows” (προκρόσσας, 14.35), a word found only here in Homer, because the beach, wide as it was, could not hold them all (14.33–34; see [[ships]]). When Xerxes' fleet reached the coast of Magnesia between the town of Casthanaea and Cape Sepias, the first ships were moored close to land and the others rode at anchor behind them; “since the beach was not large”, they lay πρόκροσσαι out to sea, eight ships deep (*Histories* 7.188.1). Herodotus gives his fleet Homer's reason along with Homer's word. At dawn a great storm and an east wind fell on them out of a clear calm; the crews who hauled their ships up on the shore in time were saved with them, and the ships caught afloat were wrecked along the coast (*Histories* 7.188.2–3).

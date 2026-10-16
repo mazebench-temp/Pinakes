@@ -39,7 +39,7 @@ The largest case is the war itself. Is it Paris, who took Helen from his host's 
 
 ## Outside Homer
 
-[[Herodotus]] opens his history with the same question. The Persian chroniclers, he says, traced the enmity between Greeks and barbarians to a series of abductions, of Io, Europa, Medea and last Helen, and held that it was foolish to go to war over them, since “clearly they would not have been carried off if they had not wished it” (1.1–5, 1.4.2). Later he argues from what the Egyptian priests told him that the Trojans would have given Helen back if they had had her, whatever Alexander wanted (2.120; see [[helen-in-egypt]]).
+[[Herodotus]] opens his history with the same question. The Persian chroniclers, he says, traced the enmity between Greeks and barbarians to a series of abductions, of Io, [[europa|Europa]], Medea and last Helen, and held that it was foolish to go to war over them, since “clearly they would not have been carried off if they had not wished it” (1.1–5, 1.4.2). Later he argues from what the Egyptian priests told him that the Trojans would have given Helen back if they had had her, whatever Alexander wanted (2.120; see [[helen-in-egypt]]).
 
 A dithyramb of Bacchylides tells the embassy that Antenor remembers in Book 3, and gives Menelaus a speech to the Trojans: Zeus, who sees all things, is not to blame (αἴτιος) for mortals' great sorrows; Insolence (Ὕβρις) is (Bacchylides 15; see [[bacchylides-embassy]]).
 

@@ -25,4 +25,4 @@ In Book 16 Patroclus kills him. Zeus, grieving, thinks of snatching his son out 
 
 ## Outside Homer
 
-Later tradition made Sarpedon a son of Zeus and Europa and a brother of Minos; the scholia on 12.292 tell the story of Europa and the bull and say that it is in Hesiod and Bacchylides (scholium A). Herodotus says that he led settlers from Crete to Lycia (1.173). Mythographers reconciled the two versions by giving him a life of three generations (Apollodorus 3.1.2). Sleep and Death carrying his body is a favorite subject of Athenian vase painting, most famously on the calyx krater painted by Euphronios around 515 BC.
+Later tradition made Sarpedon a son of Zeus and [[europa|Europa]] and a brother of Minos; the scholia on 12.292 tell the story of Europa and the bull and say that it is in Hesiod and Bacchylides (scholium A). Herodotus says that he led settlers from Crete to Lycia (1.173). Mythographers reconciled the two versions by giving him a life of three generations (Apollodorus 3.1.2). Sleep and Death carrying his body is a favorite subject of Athenian vase painting, most famously on the calyx krater painted by Euphronios around 515 BC.

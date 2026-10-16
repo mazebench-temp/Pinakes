@@ -13,7 +13,7 @@ relations:
   - brother: oeneus (14.117)
 ---
 
-{{quote:Iliad 14.115-118 | The sons of Portheus}}
+{{quote:4452cd29-d342-540d-8202-457f9f666fce}}
 
 Melas is the second of the three sons of Portheus who “lived in Pleuron and steep Calydon” (14.116–117; see [[portheus]], [[pleuron]] and [[calydon]]). Diomedes passes over him and Agrius to come to the third, his grandfather Oeneus, “the horseman” (ἱππότα, 14.117; see [[oeneus]] and [[diomedes]]). The poem says nothing more of him.
 

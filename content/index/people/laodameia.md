@@ -23,4 +23,4 @@ Her death is told in one line: “and Artemis of the golden reins killed his dau
 
 ## Outside Homer
 
-Herodotus makes Sarpedon a son of Europa and a brother of Minos, who led settlers from Crete to Lycia (1.173.2), and so do the mythographers (Apollodorus 3.1.1–2). In the Iliad, the daughter of Phoenix, whom later writers call Europa, is the mother of Minos and Rhadamanthys only (14.321–322).
+Herodotus makes Sarpedon a son of [[europa|Europa]] and a brother of Minos, who led settlers from Crete to Lycia (1.173.2), and so do the mythographers (Apollodorus 3.1.1–2). In the Iliad, the daughter of Phoenix, whom later writers call Europa, is the mother of Minos and Rhadamanthys only (14.321–322).

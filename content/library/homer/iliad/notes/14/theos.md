@@ -1,0 +1,9 @@
+---
+summary: Book 14 measures power over gods and men: Aphrodite overcomes “all the immortals and mortal men”, Sleep is “lord of all gods and of all men”, Night “the tamer of gods and men”, and the bird has one name among the gods and another among men. Hera's oath calls the gods below, “who are called Titans”, to witness; and among the men the gods are named as the causes of what happens.
+---
+
+**Gods and men.** Hera asks Aphrodite for the love and longing “with which you / overcome all the immortals and mortal men” (14.198–199; see [[philotes]] and [[himeros]]). She greets Sleep as “lord of all gods and of all men” (14.233; see [[sleep]]), and Sleep was once saved by “Night, the tamer of gods and men” (14.259; see [[night]]). Zeus says that desire “for goddess or for woman” has never so overcome him (14.315; see [[eros]]), and tells Hera not to fear “that any god or any man / will see it” (14.342–343; see [[deos]]). The bird that Sleep resembles has a name among the gods and another among men (14.290–291; see [[language-of-gods-and-men]]).
+
+**The gods below.** Sleep makes Hera swear so that “the gods below who are around Cronus” may be witnesses, and she names “all the gods / beneath Tartarus, who are called Titans” (14.274, 14.278–279; see [[oath]], [[cronus]] and [[titans]]). Oceanus is “the origin of the gods” (θεῶν γένεσιν, 14.201, 14.302; see [[oceanus]]).
+
+**The gods as causes.** Among the men the gods are named for what happens: Diomedes' father settled in Argos, “for so, I think, Zeus willed it and the other gods” (14.120); Poseidon wishes that “a god maim” Achilles and tells Agamemnon, “The blessed gods do not yet bear you a grudge altogether” (14.142–143; see [[blessed-gods]]); and Archelochus dies in Polydamas' place, “for the gods had planned his destruction” (14.464; see [[boule]]).

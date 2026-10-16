@@ -27,7 +27,7 @@ passages:
 
 The κυκεών is Pramnian wine with grated goat's cheese and barley stirred into it, like the potion Circe gives Odysseus' men (*Odyssey* 10.234–236; see [[kykeon]], [[wine]] and [[barley-grains]]). The poem calls her “the woman, like the goddesses” (γυνὴ ἐϊκυῖα θεῇσιν, 11.638), as it calls Briseis when she laments Patroclus (19.286).
 
-**Book 14.** When the cry of the battle at the wall reaches Nestor, still drinking, he tells Machaon to sit and drink “until Hecamede of the lovely tresses / heats a warm bath and washes off the bloody gore” (14.5–7; see [[bathing]]). It is her last appearance.
+{{notes}}
 
 ## Outside Homer
 

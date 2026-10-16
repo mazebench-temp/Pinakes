@@ -12,7 +12,7 @@ of: [arrows]
 
 ## Meaning
 
-βέλος (“missile, shaft,” from βάλλω, “throw, shoot”) + ὠκύς (“swift”; see [[swift-footed]]): “the swift shaft.” It is usually an arrow, but a thrown spear is βέλος too: Hector is angry “that his swift shaft had flown from his hand in vain” when his spear fails to wound Ajax (Il. 14.406–407), and in the same words when it fails against Achilles (Il. 22.291–292). Its partner ὠκὺς ὀϊστός is the arrow alone (5.395; Il. 11.478; Od. 21.416). Compare the other epithets of arrows: [[bitter]] (πικρὸς ὀϊστός), [[feathered]], [[piercing]].
+βέλος (“missile, shaft,” from βάλλω, “throw, shoot”) + ὠκύς (“swift”; see [[swift-footed]]): “the swift shaft.” It is usually an arrow, but a thrown spear is βέλος too: Hector is angry “that his swift missile had flown from his hand in vain” when his spear fails to wound Ajax (Il. 14.406–407), and in the same words when it fails against Achilles (Il. 22.291–292). Its partner ὠκὺς ὀϊστός is the arrow alone (5.395; Il. 11.478; Od. 21.416). Compare the other epithets of arrows: [[bitter]] (πικρὸς ὀϊστός), [[feathered]], [[piercing]].
 
 ## Use
 

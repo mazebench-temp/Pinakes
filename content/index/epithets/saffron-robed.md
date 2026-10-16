@@ -12,7 +12,7 @@ of: [eos]
 
 ## Meaning
 
-κροκόπεπλος = κρόκος (“crocus, saffron”) + πέπλος (“robe”; [[robe]]): “whose robe is the color of saffron.” The yellow of the saffron crocus is the color of the eastern sky at sunrise. The flower itself grows only once in Homer, among the fresh grass and blossoms that the earth sends up under Zeus and Hera on Ida (14.347–349).
+κροκόπεπλος = κρόκος (“crocus, saffron”) + πέπλος (“robe”; [[robe]]): “whose robe is the color of saffron.” The yellow of the saffron crocus is the color of the eastern sky at sunrise. The flower itself ([[crocus]]) grows only once in Homer, among the fresh grass and blossoms that the earth sends up under Zeus and Hera on Ida (14.347–349).
 
 The epithet belongs to Dawn alone, and only in the Iliad. Each of its four uses opens a decisive day: the day of Book 8, on which Zeus keeps the gods out of the battle and gives the victory to the Trojans; the day on which Thetis brings Achilles his new armor and he returns to the war (19.1–3); the morning on which the pyre of Patroclus dies down, when the morning star has risen and Dawn spreads over the sea (23.226–228); and the morning on which Priam brings Hector's body back to Troy (24.695–697). The verse of Book 8 returns in Book 24 with only its particle changed. Dawn's other epithets are [[rosy-fingered]], [[early-born]] and [[of-the-fair-throne]]. Hesiod gives the word to Enyo, one of the Graiae, the daughters of Phorcys (*Theogony* 273).
 

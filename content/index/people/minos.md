@@ -24,7 +24,7 @@ passages:
 
 {{quote:0867d904-6ed6-5d4f-8f46-6c7e228e7a77}}
 
-Boasting over Alcathous, Idomeneus tells Deiphobus his line (see [[idomeneus]], [[deucalion]] and [[genealogy-in-battle]]). Zeus names the mother among the women he has loved: “the daughter of far-famed Phoenix, who bore me Minos and godlike Rhadamanthys” (14.321–322); later writers call her Europa. In the Odyssey, Ariadne is “the daughter of baneful-minded Minos”, whom Theseus was taking from Crete to Athens when Artemis killed her on Dia (Od. 11.321–325; see [[theseus]]), and the disguised Odysseus makes himself Minos' grandson and a younger brother of Idomeneus (Od. 19.178–184).
+Boasting over Alcathous, Idomeneus tells Deiphobus his line (see [[idomeneus]], [[deucalion]] and [[genealogy-in-battle]]). Zeus names the mother among the women he has loved: “the daughter of far-famed Phoenix, who bore me Minos and godlike Rhadamanthys” (14.321–322); later writers call her Europa (see [[europa]] and [[rhadamanthus]]). In the Odyssey, Ariadne is “the daughter of baneful-minded Minos”, whom Theseus was taking from Crete to Athens when Artemis killed her on Dia (Od. 11.321–325; see [[theseus]]), and the disguised Odysseus makes himself Minos' grandson and a younger brother of Idomeneus (Od. 19.178–184).
 
 ## Descriptions
 
@@ -41,7 +41,7 @@ Among the dead Odysseus saw Minos “holding a golden scepter, giving judgments 
 
 ## Outside Homer
 
-Hesiod makes Ariadne, “daughter of Minos”, the wife of Dionysus (*Theogony* 947–949). The Hesiodic *Catalogue of Women* told how Zeus carried Europa, daughter of Phoenix, to Crete, where she bore Minos, Sarpedon and Rhadamanthys (fr. 19 Evelyn-White; see [[sarpedon]]).
+Hesiod makes Ariadne, “daughter of Minos”, the wife of Dionysus (*Theogony* 947–949). The Hesiodic *Catalogue of Women* told how Zeus carried [[Europa]], daughter of Phoenix, to Crete, where she bore Minos, Sarpedon and Rhadamanthys (fr. 19 Evelyn-White; see [[sarpedon]]).
 
 For Herodotus, Minos was the first master of the sea: the Carians, who then held the islands, were his subjects and manned his ships (1.171.2), and Polycrates was the first Greek to plan an empire of the sea, “apart from Minos of Cnossus” (Herodotus 3.122.2). He drove his brother Sarpedon out of Crete (1.173.2) and died a violent death in Sicily, where he had gone in search of Daedalus; the Trojan war came “in the third generation after Minos died” (Herodotus 7.170.1, 7.171.1). Aristotle repeats that he held the sea and died near Camicus, and says that the Cretans still used his laws (*Politics* 2.10, 1271b30–40).
 

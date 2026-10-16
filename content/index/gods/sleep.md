@@ -21,13 +21,13 @@ relations:
 
 ## Family
 
-{{quote:Iliad 14.231 | Sleep, the brother of Death}}
+{{quote:3106b6a1-680c-5619-8587-ec64a347a498}}
 
 κασιγνήτῳ Θανάτοιο: Sleep is the brother of [[death|Death]], and in Book 16 the two are twins (διδυμάοσιν, 16.672, 16.682). Homer does not name their parents. When Zeus hunted him through the sky, Sleep fled to Night, and she saved him (14.258–261; see [[night]]); Hesiod makes Night the mother of both. Sleep longs for Pasithea, one of the younger Graces, and Hera promises her to him as his wife (14.267–276; see [[pasithea]] and [[graces]]).
 
 ## Descriptions
 
-{{quote:Iliad 14.233 | Lord of all gods and men}}
+{{quote:6c1aed73-75f8-50f1-9d3a-feb6127156a8}}
 
 ἄναξ πάντων τε θεῶν πάντων τʼ ἀνθρώπων: “lord of all gods and of all men” (see [[anax]]). Hera means to flatter, but Sleep's own answer shows the reach of his power and its one limit: he could lull to sleep any other of the everlasting gods, “even the streams of the river / Oceanus, who is the origin of all”, but he would not come near Zeus unless Zeus himself bade him (14.244–248; see [[oceanus]]).
 
@@ -39,7 +39,7 @@ Sleep is poured over the sleeper and wraps him. Hera means to “pour sleep, har
 
 ## Mythology
 
-**The first time.** Sleep had done this for Hera once before, and paid for it. On the day Heracles sailed from Ilios after sacking it, Sleep lulled Zeus, and Hera roused storms over the sea and carried Heracles off to Cos. Zeus woke in anger, flung the gods about his house and looked for Sleep above all, and he would have thrown him “from the upper air into the sea, out of sight”, had Night not saved him; Zeus stopped, “for he shrank from doing what would displease swift Night” (14.249–261; see [[heracles-sacks-troy]] and [[cos]]). In Zeus' own account of that day Sleep has no part: Hera won over the storms with the North Wind, and Zeus hung her from the sky with anvils on her feet (15.18–30; see [[hera]]).
+**The first time.** Sleep had done this for Hera once before, and paid for it. On the day Heracles sailed from Ilios after sacking it, Sleep lulled Zeus, and Hera roused storms over the sea and carried Heracles off to Cos. Zeus woke in anger, flung the gods about his house and looked for Sleep above all, and he would have thrown him “from the upper air into the sea, out of sight”, had Night not saved him; Zeus stopped, “for he shrank from doing what would displease swift Night” (14.249–261; see [[hera-drives-heracles-to-cos]], [[heracles-sacks-troy]] and [[cos]]). In Zeus' own account of that day Sleep has no part: Hera won over the storms with the North Wind, and Zeus hung her from the sky with anvils on her feet (15.18–30; see [[hera]]).
 
 ## Elsewhere in Homer
 
@@ -49,4 +49,4 @@ Sleep is poured over the sleeper and wraps him. Hera means to “pour sleep, har
 
 ## Outside Homer
 
-In Hesiod, Night bore Death and Sleep and the tribe of Dreams without lying with anyone (*Theogony* 211–213). Her house stands in the murk where earth, Tartarus, sea and sky have their sources and their limits, and she goes out from it over the earth holding “Sleep in her arms, the brother of Death” (736–757). The phrase κασίγνητον Θανάτοιο (756) is the one Homer uses at 14.231. There the two brothers live, and the Sun never looks on them; Sleep goes quietly over the earth and the sea and is gentle to men, but Death has a heart of iron and keeps whomever he catches, hateful even to the gods (758–766; see [[hesiod]]). On the chest of Cypselus at Olympia, Pausanias saw a woman holding a white child asleep on her right arm and a black child “like one who is asleep” on her left; the inscription named them Death and Sleep, with Night the nurse of both (Pausanias 5.18.1).
+In Hesiod, Night bore Death and Sleep and the tribe of Dreams without lying with anyone (*Theogony* 211–213). Her house stands in the murk where earth, Tartarus, sea and sky have their sources and their limits, and she goes out from it over the earth holding “Sleep in her arms, the brother of Death” (736–757). There the two brothers live, and the Sun never looks on them; Sleep goes quietly over the earth and the sea and is gentle to men, but Death has a heart of iron and keeps whomever he catches, hateful even to the gods (758–766; see [[hesiod]]). κασίγνητον Θανάτοιο (756) is Homer's phrase of 14.231 in another case, and the words of Hera's address to Sleep are Hesiod's for Eros, who overcomes the mind “of all gods and of all men” (πάντων δὲ θεῶν πάντων τʼ ἀνθρώπων, 120–122). On the chest of Cypselus at Olympia, Pausanias saw a woman holding a white child asleep on her right arm and a black child “like one who is asleep” on her left; the inscription named them Death and Sleep, with Night the nurse of both (Pausanias 5.18.1). Virgil sets Sleep, “the kinsman of Death” (*consanguineus Leti Sopor*), among the shapes at the entrance of the underworld (*Aeneid* 6.278; see [[virgil]]).

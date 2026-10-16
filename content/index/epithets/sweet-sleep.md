@@ -7,7 +7,7 @@ summary: “Sweet” sleep: νήδυμος, a word of disputed origin found only
 aliases: [nedymos, glykys hypnos]
 grc: [νήδυμος, γλυκὺς ὕπνος]
 en: [sweet]
-of: [hypnos]
+of: [hypnos, sleep]
 ---
 
 ## Meaning

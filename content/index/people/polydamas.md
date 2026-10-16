@@ -26,7 +26,7 @@ passages:
 
 ## Family
 
-He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers Euphorbus and Hyperenor are killed by Menelaus (14.516–519, 17.9–60). Book 18 joins him to Hector: “He was Hector's companion, and they were born in one night; but the one excelled far in words, the other with the spear” (18.251–252).
+He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers Euphorbus and [[hyperenor|Hyperenor]] are killed by Menelaus (14.516–519, 17.9–60). Book 18 joins him to Hector: “He was Hector's companion, and they were born in one night; but the one excelled far in words, the other with the spear” (18.251–252).
 
 {{quote:db8becb5-44a5-501a-a44b-6235a49d9ddc}}
 

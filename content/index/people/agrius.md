@@ -13,7 +13,7 @@ relations:
   - brother: melas (14.117)
 ---
 
-{{quote:Iliad 14.115-118 | The sons of Portheus}}
+{{quote:4452cd29-d342-540d-8202-457f9f666fce}}
 
 Agrius is the first named of the three sons of Portheus who “lived in Pleuron and steep Calydon” (14.116–117; see [[portheus]], [[pleuron]] and [[calydon]]). Diomedes names him only to come to the third son, his grandfather Oeneus, who “in prowess … stood out among them” and stayed in Aetolia when Tydeus left for Argos (14.117–119; see [[oeneus]], [[tydeus]] and [[diomedes]]). The poem says nothing more of him.
 

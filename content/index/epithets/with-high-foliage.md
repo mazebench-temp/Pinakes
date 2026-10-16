@@ -4,7 +4,7 @@ greek: ὑψιπέτηλος
 kind: epithet
 tags: [rare-word]
 summary: “With leaves on high,” an epithet of tall trees: the tree to which Alcathous, bound by Poseidon, is compared, and in the Odyssey the tree that Proteus becomes and the trees that hang their fruit over Tantalus.
-aliases: [hypsipetelos, high-leafed, tall-leafed]
+aliases: [hypsipetelos, tall-leafed]
 grc: [ὑψιπέτηλον]
 en: [with high foliage]
 ---

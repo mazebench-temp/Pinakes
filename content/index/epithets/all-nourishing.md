@@ -3,7 +3,7 @@ title: All-nourishing
 greek: πολυφόρβη
 kind: epithet
 tags: [cosmic]
-summary: “Feeding many,” an epithet of the earth: the ground that Althaea beats with her hands as she calls on the gods below, and the earth whose ends Hera pretends to visit.
+summary: “Feeding many,” an epithet of the earth: the ground that Althaea beats with her hands as she calls on the gods below, and the earth whose limits Hera pretends to visit.
 aliases: [polyphorbe, pouluphorbos, bountiful, much-nourishing]
 grc: [πολυφόρβην]
 en: [all-nourishing]
@@ -12,7 +12,7 @@ of: [earth]
 
 ## Meaning
 
-πολυφόρβη (also πουλυφόρβος) = πολύς (“much”) + φορβή (“fodder, food”): “feeding many.” Homer uses it three times, always of the earth: here (9.568) and twice in Hera's deception of Zeus, when she says she is going “to see the ends of the all-nourishing earth,” to Oceanus and Tethys (14.200, 14.301). The Homeric Hymn to Apollo speaks of men “who eat the fruit of the all-nourishing earth” (*Hymn* 3.365), and Hesiod gives the word to Demeter (*Theogony* 912). Compare the other epithets of the earth that feeds: [[bountiful-earth]] (πουλυβότειρα) and [[life-giving-earth]] (φυσίζοος), and [[earth]].
+πολυφόρβη (also πουλυφόρβος) = πολύς (“much”) + φορβή (“fodder, food”): “feeding many.” Homer uses it three times, always of the earth: here (9.568) and twice in Hera's deception of Zeus, when she says she is going “to see the limits of the all-nourishing earth,” to Oceanus and Tethys (14.200, 14.301). The Homeric Hymn to Apollo speaks of men “who eat the fruit of the all-nourishing earth” (*Hymn* 3.365), and Hesiod gives the word to Demeter (*Theogony* 912). Compare the other epithets of the earth that feeds: [[bountiful-earth]] (πουλυβότειρα) and [[life-giving-earth]] (φυσίζοος), and [[earth]].
 
 ## Use
 

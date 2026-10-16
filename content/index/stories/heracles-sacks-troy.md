@@ -28,7 +28,7 @@ Heracles had done Laomedon a good turn (εὖ ἕρξαντα), and the king rep
 
 The Iliad does not say which horses they were, but Laomedon owned the famous breed that Zeus gave his grandfather Tros as the price of Ganymede, “the best of all horses under the dawn and the sun”, and Anchises bred a strain from it without his knowledge (5.265–273; see [[ganymede-and-the-horses-of-tros]] and [[anchises-steals-the-horses]]). Apollodorus makes the horses Heracles was promised the ones Zeus gave for Ganymede (2.5.9).
 
-Heracles did not come home easily. When he sailed from Ilios after sacking the city, Hera sent storms against him and drove him to Cos, and Zeus punished her for it (14.249–256, 15.24–30).
+Heracles did not come home easily. When he sailed from Ilios after sacking the city, Hera sent storms against him and drove him to Cos, and Zeus punished her for it (14.249–256, 15.24–30; see [[hera-drives-heracles-to-cos]]).
 
 ## In the poem
 

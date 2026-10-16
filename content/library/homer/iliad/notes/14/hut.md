@@ -1,0 +1,7 @@
+---
+summary: The book opens in Nestor's hut, where Machaon still drinks; Nestor takes his son's shield from it and steps outside to see the wall thrown down. Poseidon foretells the Trojans fleeing “away from the ships and huts”, and when the armies meet the sea surges up toward the huts and ships.
+---
+
+Nestor and Machaon were left drinking in Nestor's hut in Book 11 (11.618–643), and the scene resumes here: Nestor is still drinking when the shouting reaches him, and he leaves Machaon to his wine and to the bath Hecamede will heat (14.1–8; see [[wine]], [[bathing]] and [[the-wounded-chiefs]]). He takes “the wrought shield of his son / that lay in the hut of Thrasymedes, tamer of horses, / shining with bronze; and the son had his father's shield” (14.9–11; see [[thrasymedes]] and [[shield]]), “and stood outside the hut, and at once he saw a shameful thing” (14.13), the Achaeans routed and the wall thrown down (14.14–15; see [[the-achaean-wall]]).
+
+Poseidon promises Agamemnon that he will yet see the Trojan leaders “fleeing back to the city, away from the ships and huts” (14.146; see [[poseidon]]). When the god and Hector have drawn up their armies, “the sea surged up toward the huts and ships / of the Argives” (ἐκλύσθη δὲ θάλασσα ποτὶ κλισίας τε νέας τε, 14.392–393; see [[sea]]), and the armies meet with a shout louder than sea, fire and wind (see [[louder-than-sea-fire-and-wind]]).

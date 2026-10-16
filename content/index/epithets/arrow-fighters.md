@@ -12,7 +12,7 @@ of: [argives]
 
 ## Meaning
 
-ἰόμωροι occurs twice in the Iliad, both times in the vocative Ἀργεῖοι ἰόμωροι: in Agamemnon's rebuke of his own men (4.242), and in the taunt of the Trojan Acamas, who adds “never sated with threats” (ἀπειλάων ἀκόρητοι, Il. 14.479). Its meaning was already unknown in antiquity. The second element is the -μωρος of ἐγχεσίμωρος ([[fighters-with-the-spear]]), and its sense is uncertain. The first was taken either as ἰός (“arrow”), making the ἰόμωροι men who fight with arrows, from a distance, or as a word for “cry,” making them braggarts. The translation takes the first. The arguments are set out in [[obscure-iomoroi]].
+ἰόμωροι occurs twice in the Iliad, both times in the vocative Ἀργεῖοι ἰόμωροι: in Agamemnon's rebuke of his own men (4.242), and in the taunt of the Trojan Acamas, who adds “insatiable of threats” (ἀπειλάων ἀκόρητοι, Il. 14.479). Its meaning was already unknown in antiquity. The second element is the -μωρος of ἐγχεσίμωρος ([[fighters-with-the-spear]]), and its sense is uncertain. The first was taken either as ἰός (“arrow”), making the ἰόμωροι men who fight with arrows, from a distance, or as a word for “cry,” making them braggarts. The translation takes the first. The arguments are set out in [[obscure-iomoroi]].
 
 ## Use
 

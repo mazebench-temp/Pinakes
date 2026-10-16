@@ -1,0 +1,5 @@
+---
+summary: Telamon is named only in his son's titles, when “great Telamonian Ajax” fells Hector with a stone, when the death of Prothoenor stirs “the son of Telamon” most of all, and when Telamonian Ajax is the first to kill in the rout (14.409, 14.460, 14.511).
+---
+
+The great Ajax is μέγας Τελαμώνιος Αἴας, “great Telamonian Ajax”, as he lifts the stone against Hector (14.409); τῷ Τελαμωνιάδῃ, “the son of Telamon”, when Polydamas' boast stirs his heart (14.460); and Αἴας … Τελαμώνιος, “Telamonian Ajax”, first to kill after the invocation of the Muses (14.511; see [[ajax]] and [[telamonian]]). The father's name keeps him apart from the other Ajax, “the son of Oileus”, who fights beside him in the same scenes (14.442–448, 14.520–522; see [[ajax-son-of-oileus]] and [[oileus]]). The common noun τελαμών, “strap”, has a part in the book too: Hector's spear stops where “the two straps” of Ajax's shield and sword cross his chest (τελαμῶνε, 14.404), and the entry does not claim it (see [[shield]]).

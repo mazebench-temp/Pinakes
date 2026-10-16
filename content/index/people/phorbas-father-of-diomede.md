@@ -13,4 +13,4 @@ relations:
 
 Φόρβαντος θυγάτηρ Διομήδη καλλιπάρῃος, “the daughter of Phorbas, fair-cheeked Diomede” (9.665). Homer says nothing more of him. His daughter came from Lesbos, which Achilles sacked (9.129, 9.271, 9.664), so he was presumably a man of the island, but the poem does not say so, or whether he was alive when it fell (see [[diomede]] and [[lesbos]]). The name is usually connected with φορβή, “fodder, pasture”, from φέρβω, “feed”.
 
-He is not the Trojan Phorbas “rich in flocks”, whom Hermes loved above all the Trojans and made wealthy, and whose only son Ilioneus is killed by Peneleos (14.489–505). That Phorbas will need an entry of his own; the genitive Φόρβαντος serves both men.
+He is not the Trojan Phorbas “rich in flocks”, whom Hermes loved above all the Trojans and made wealthy, and whose only son Ilioneus is killed by Peneleos (14.489–505). That Phorbas has his own entry, [[phorbas-father-of-ilioneus]]; the genitive Φόρβαντος serves both men.

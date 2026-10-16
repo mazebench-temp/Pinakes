@@ -1,0 +1,9 @@
+---
+summary: Book 14 moves from men leaving the war to men going back into it. Agamemnon asks why Nestor has left “man-destroying war” and proposes flight; Odysseus answers that Zeus has given them wars to wind out from youth to old age; Diomedes leads the wounded back; Poseidon fills the Achaeans with the will to fight without ceasing; and the god and Hector stretch tight “the most dread strife of war”.
+---
+
+**Leaving the war.** Agamemnon asks Nestor “why have you left man-destroying war and come here?” (πόλεμον φθισήνορα, 14.43; see [[man-destroying]]). Nestor will not take the wounded into the war, “for a man who has been hit cannot fight” (14.62–63), and Agamemnon proposes to anchor the ships until night, “if even in it they will hold off from war, / the Trojans” (ἀπόσχωνται πολέμοιο, 14.78–79; see [[no-blame-in-fleeing]]).
+
+**Winding out war.** Odysseus answers that Zeus has given the Achaeans, “from youth to old age, to wind out / grievous wars, until every one of us perishes” (τολυπεύειν / ἀργαλέους πολέμους, 14.86–87; see [[odysseus]]). τολυπεύω is to wind wool into a ball; in the Odyssey πόλεμον τολυπεύω is to bring a war to its end (*Odyssey* 1.238, 24.95), and Penelope uses the verb of her own wiles (*Odyssey* 19.137).
+
+**Back to the war.** Diomedes: “Come, let us go to the war, stabbed though we are; we must” (14.128; see [[the-wounded-chiefs]]). Poseidon puts strength into each Achaean's heart “to go to war without ceasing and to fight” (14.152; see [[kradie]]), and “Then they stretched tight the most dread strife of war, / dark-haired Poseidon and shining Hector” (αἰνοτάτην ἔριδα πτολέμοιο τάνυσσαν, 14.389–390; see [[the-rope-of-war]] and [[eris]]). Hector's horses wait for him “behind the battle and the war” (ὄπισθε μάχης ἠδὲ πτολέμοιο, 14.430; see [[chariot]]).

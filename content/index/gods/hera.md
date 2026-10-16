@@ -53,4 +53,4 @@ In the Iliad she names Argos, Sparta and Mycenae as the cities dearest to her (4
 
 ## Outside Homer
 
-Hera is a daughter of Cronus and Rhea (Hesiod, *Theogony* 453–454).
+Hera is a daughter of Cronus and Rhea (Hesiod, *Theogony* 453–454; see [[rhea]]).

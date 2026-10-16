@@ -3,7 +3,7 @@ title: Hypsipyle
 greek: Ὑψιπύλη
 kind: person
 tags: [woman, mother]
-summary: The woman of [[Lemnos]] who bore [[Euneus]] to [[Jason]] (7.469). In later legend she was the daughter of King Thoas and ruled the island when the Argonauts came, the one woman who saved her father when the Lemnian women killed their men; sold into slavery, she became the nurse of the child Opheltes at Nemea.
+summary: The woman of [[Lemnos]] who bore [[Euneus]] to [[Jason]] (7.469). In later legend she was the daughter of King [[thoas-of-lemnos|Thoas]] and ruled the island when the Argonauts came, the one woman who saved her father when the Lemnian women killed their men; sold into slavery, she became the nurse of the child Opheltes at Nemea.
 aliases: [Hypsipylē, Hypsipyleia]
 grc: [Ὑψιπύλη]
 relations:
@@ -15,7 +15,7 @@ relations:
 
 Homer names her once, as the mother of Euneus, whom “Hypsipyle bore to Jason, shepherd of the people” (7.469; see [[euneus]] and [[jason]]). ὑπʼ Ἰήσονι, literally “under Jason”, is the idiom for a woman who bears a child to a man, as Alcestis bore Eumelus “to Admetus” (τὸν ὑπʼ Ἀδμήτῳ τέκε, 2.714; see [[alcestis]]). Her name is a compound of ὕψι, “high”, and πύλη, “gate”: “High Gate”. The adjective formed in the same way, ὑψίπυλος, “high-gated”, is an epithet of walled cities (6.416; see [[high-gated]]).
 
-Homer does not tell her story, or say why Jason came to Lemnos. The Iliad knows a king of the island, “divine Thoas” (14.230), and a silver bowl that passed from Thoas to Euneus (23.745–747); later poets make Thoas her father.
+Homer does not tell her story, or say why Jason came to Lemnos. The Iliad knows a king of the island, “divine Thoas” (14.230; see [[thoas-of-lemnos]]), and a silver bowl that passed from Thoas to Euneus (23.745–747); later poets make Thoas her father.
 
 ## Outside Homer
 

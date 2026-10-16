@@ -1,0 +1,7 @@
+---
+summary: Argos is twice named, in its two senses. It is the homeland of the whole army, far from which Agamemnon fears the Achaeans must perish nameless (14.70), and the city where Tydeus settled after his wanderings and married into the house of Adrastus (14.119).
+---
+
+**Far from Argos.** Agamemnon gives up hope: “such, it seems, must be the pleasure of Zeus, supreme in might, / that the Achaeans should perish here, nameless, far from Argos” (14.69–70; see [[agamemnon]] and [[supreme-in-might]]). The second verse is now spoken for the third time. Polydamas said it at the ditch, wishing it so (12.70; see [[polydamas]]), and Idomeneus feared it (13.227; see [[idomeneus]] and the note on Book 13). Here Argos is the land the whole army came from and hopes to return to (see [[nostos]]). When Agamemnon tested the army in Book 2, the same verse about the pleasure of Zeus followed the words “go back to Argos in disgrace” (2.115–116); now the Achaeans are not to go back at all. νωνύμνους, “nameless”, is the fear of dying where no one will tell of them (see [[kleos]]).
+
+**Tydeus' city.** “He stayed there; but my father settled in Argos / after his wanderings” (14.119–120; see [[tydeus]]). Here Argos is the city, where Tydeus married one of the daughters of Adrastus and had a house rich in substance, with fields of wheat, orchards and flocks (14.121–124; see [[adrastus]]). His son rules it now: Diomedes leads the men of Argos and Tiryns in the Catalogue (2.559–568; see [[diomedes]]).

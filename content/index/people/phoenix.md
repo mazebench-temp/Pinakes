@@ -7,7 +7,7 @@ summary: Achilles' old tutor and foster father, son of [[Amyntor]] and lord of t
 aliases: [Phoinix, Phoenix son of Amyntor]
 # ^ keeps out the common word φοῖνιξ, "purple, red" (4.141, 6.219, 7.305; 15.538, 23.454); purple excludes ^Φοίνικ*.
 # Book 23 will add Φοίνικα (23.360). Φοίνικος (14.321) is another Phoenix, father of the girl who bore Minos
-# to Zeus, and Φοίνικες (23.744) are the Phoenicians; in the Odyssey Φοῖνιξ ἀνήρ, "a Phoenician man"
+# to Zeus (phoenix-father-of-europa), and Φοίνικες (23.744) are the Phoenicians; in the Odyssey Φοῖνιξ ἀνήρ, "a Phoenician man"
 # (Od. 14.288), will need an except.
 grc: ["^Φοῖνιξ", "^Φοίνικι"]
 relations:
@@ -19,7 +19,7 @@ relations:
 
 ## Etymology
 
-Φοῖνιξ (Phoinix) is also a common word. It is the red-purple dye and its color (see [[purple]]), the date palm (*Odyssey* 6.163), and, in the plural, the Phoenicians (Φοίνικες, 23.744). Whether the name was heard as “the red one” or as “the Phoenician” is not known. Homer has a second Phoenix, the father of the girl who bore Minos and Rhadamanthys to Zeus (14.321–322); later writers call her Europa (Hesiodic *Catalogue of Women*, fr. 19 Evelyn-White).
+Φοῖνιξ (Phoinix) is also a common word. It is the red-purple dye and its color (see [[purple]]), the date palm (*Odyssey* 6.163), and, in the plural, the Phoenicians (Φοίνικες, 23.744). Whether the name was heard as “the red one” or as “the Phoenician” is not known. Homer has a [[phoenix-father-of-europa|second Phoenix]], the father of the girl who bore Minos and Rhadamanthys to Zeus (14.321–322); later writers call her [[europa|Europa]] (Hesiodic *Catalogue of Women*, fr. 19 Evelyn-White).
 
 ## Family
 

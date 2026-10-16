@@ -3,7 +3,7 @@ title: Bronze-floored house
 greek: χαλκοβατὲς δῶ
 kind: epithet
 tags: [divine-epithet]
-summary: “The bronze-floored house” of [[Zeus]] on Olympus, where Thetis promises to go (1.426).
+summary: “The bronze-floored house,” a formula for the house of [[Zeus]] on Olympus.
 aliases: [chalkobates]
 grc: [χαλκοβατὲς]
 en: [bronze-floored]

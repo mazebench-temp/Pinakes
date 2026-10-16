@@ -13,7 +13,7 @@ en: [thunderbolt, sulfur]
 
 κεραυνός is the bolt that strikes. Homer keeps it apart from the flash, ἀστεροπή or στεροπή, and from the thunder, βροντή, though the three come together when Zeus stops Diomedes: “Thundering terribly, he let fly a gleaming thunderbolt” (8.133). The etymology of the word is uncertain. The weapon belongs to Zeus alone, and his epithets come from it: he is τερπικέραυνος, rendered “who delights in thunder” and formed from κεραυνός itself (see [[delighting-in-thunder]]), and ἀστεροπητής, “lord of the lightning” (see [[lord-of-the-lightning]]).
 
-The bolt is ἀργής, “gleaming” (8.133; Od. 5.128, 5.131, 7.249, 12.387), or ψολόεις, “smoky” (Od. 23.330, 24.539). Where it falls it leaves the smell of sulfur (θέειον). A flame of burning sulfur rises where it strikes the ground before Diomedes' horses (8.135); an oak felled by Zeus gives off “a dread smell of sulfur”, and no one who sees it close at hand keeps his courage, “for hard to bear is the thunderbolt of great Zeus” (14.414–417); Odysseus' ship, struck at sea, is filled with sulfur (Od. 12.415–417, and in his Cretan tale, Od. 14.305–307).
+The bolt is ἀργής, “gleaming” (8.133; Od. 5.128, 5.131, 7.249, 12.387), or ψολόεις, “smoky” (Od. 23.330, 24.539). Where it falls it leaves the smell of sulfur (θέειον). A flame of burning sulfur rises where it strikes the ground before Diomedes' horses (8.135); an oak felled by Zeus gives off “a dread smell of sulfur”, and no one who sees it close at hand keeps his courage, “for hard to bear is the thunderbolt of great Zeus” (14.414–417; see [[the-oak-struck-by-the-thunderbolt]]); Odysseus' ship, struck at sea, is filled with sulfur (Od. 12.415–417, and in his Cretan tale, Od. 14.305–307).
 
 {{notes}}
 

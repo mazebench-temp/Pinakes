@@ -1,0 +1,7 @@
+---
+summary: The dewy lotus is one of the plants that the shining earth sends up as a bed beneath Zeus and Hera on the peak of Gargarus, with fresh grass, crocus and hyacinth (14.346–349).
+---
+
+τοῖσι δʼ ὑπὸ χθὼν δῖα φύεν νεοθηλέα ποίην, / λωτόν θʼ ἑρσήεντα ἰδὲ κρόκον ἠδʼ ὑάκινθον / πυκνὸν καὶ μαλακόν, ὃς ἀπὸ χθονὸς ὑψόσʼ ἔεργε: “and under them the shining earth sent up fresh-sprung grass, and dewy lotus, and crocus, and hyacinth, thick and soft, which held them up off the ground” (14.347–349; see [[crocus]], [[hyacinth]] and [[earth]]). Elsewhere in the Iliad the lotus is a plant of the plains and of fodder: Achilles' idle horses munch it beside their chariots (2.775–777), the snow of Zeus covers “the lotus plains” (12.283), and it burns beside the river with the rushes and the galingale when Hephaestus' fire falls on the Xanthus (21.350–351). Here, with the grass and two flowers named only here in the Iliad, it makes a bed on the mountaintop, and the golden cloud drawn over the bed sheds glistening drops of dew (14.350–351; see [[the-golden-cloud]]).
+
+ἑρσήεις, “dewy”, is fresh with dew, as the grass is “fresh-sprung”, νεοθηλής, a word found only here. In the last book the same adjective describes Hector's body, which the gods have kept fresh though it has lain for days unburied (24.419, 24.757). On Gargarus everything is new and wet with dew, and the flowers hold the king and queen of the gods off the ground while Zeus sleeps (14.352–353; see [[the-deception-of-zeus]]).

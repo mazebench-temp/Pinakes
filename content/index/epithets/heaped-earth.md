@@ -3,7 +3,7 @@ title: Heaped earth
 greek: χυτὴ γαῖα
 kind: epithet
 tags: [fate]
-summary: “The heaped earth,” the earth piled over a grave, in Hector's wish to be dead before Andromache is dragged into slavery.
+summary: “The heaped earth,” the earth piled over the dead in a grave mound.
 aliases: [chyte gaia, the heaped earth, grave mound]
 grc: [χυτὴ κατὰ γαῖα]
 en: [heaped earth]

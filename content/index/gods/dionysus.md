@@ -3,7 +3,7 @@ title: Dionysus
 greek: Διώνυσος
 kind: god
 tags: [olympian, child-of-zeus]
-summary: God of wine and of ecstatic worship, son of [[Zeus]] and the Theban princess Semele. Homer mentions him in only four passages and never as the god of wine. His one story in the Iliad is his flight from Lycurgus.
+summary: God of wine and of ecstatic worship, son of [[Zeus]] and the Theban princess [[Semele]]. Homer mentions him in only four passages and never as the god of wine. His one story in the Iliad is his flight from Lycurgus.
 aliases: [Dionysos, Diōnysos, Bacchus, Bakchos]
 grc: ["Διωνυσ*"]
 relations:
@@ -20,7 +20,7 @@ Son of [[Zeus]] and Semele. Zeus names her in the list of women he has loved: �
 
 ## Descriptions
 
-μαινόμενος, “raving” (6.132), is his one epithet in the Iliad. It is the participle of μαίνομαι, “rage, be mad”, the verb of warriors in their fury: Helenus says that Diomedes “rages beyond measure” (λίην μαίνεται, 6.100–101). The epithet gives the god the frenzy of his worshippers, the μαινάδες or “raving women” who follow him in later poetry; Homer has the word once, in a simile (22.460). Hesiod calls him πολυγηθής, “bringing much joy” (*Theogony* 941; *Works and Days* 614), and χρυσοκόμης, “golden-haired” (*Theogony* 947). In the *Homeric Hymns* he is ἐρίβρομος, “loud-roaring” (7.56, 26.1), from βρόμος, “roar”, like his later name Bromios, and κισσοκόμης, “ivy-haired”, crowned with ivy (26.1).
+μαινόμενος, “raving” (6.132), is his one epithet in the Iliad. It is the participle of μαίνομαι, “rage, be mad”, the verb of warriors in their fury: Helenus says that Diomedes “rages beyond measure” (λίην μαίνεται, 6.100–101). The epithet gives the god the frenzy of his worshippers, the μαινάδες or “raving women” who follow him in later poetry; Homer has the word once, in a simile (22.460). Hesiod calls him πολυγηθής, “bringing much joy” (*Theogony* 941; *Works and Days* 614), and χρυσοκόμης, “golden-haired” (*Theogony* 947). In the *Homeric Hymns* he is ἐρίβρομος, “loud-roaring” (*Hymn* 7.56, 26.1), from βρόμος, “roar”, like his later name Bromios, and κισσοκόμης, “ivy-haired”, crowned with ivy (26.1).
 
 {{notes}}
 

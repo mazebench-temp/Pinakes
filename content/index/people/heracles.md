@@ -3,7 +3,7 @@ title: Heracles
 greek: Ἡρακλῆς
 kind: person
 tags: [child-of-zeus, demigod, warrior]
-summary: The greatest hero of the generations before Troy, son of [[Zeus]] and Alcmene. The Iliad remembers his labors, his sack of Troy and his death, and in the Catalogue his son and grandsons lead the men of Rhodes and Cos.
+summary: The greatest hero of the generations before Troy, son of [[Zeus]] and [[Alcmene]]. The Iliad remembers his labors, his sack of Troy and his death, and in the Catalogue his son and grandsons lead the men of Rhodes and Cos.
 aliases: [Herakles, Hercules]
 grc: [Ἡρακλ*, "!Ἡρακλειτ*"]
 refs: [2.659, 2.660]
@@ -17,7 +17,7 @@ relations:
 
 ## Descriptions
 
-βίη Ἡρακληείη: "the might of Heracles", literally "the Heraclean force", a periphrasis that names the hero by his strength (2.658, 2.666; see [[might-of-heracles]]). The Iliad also calls him κρατερόφρων ("strong-hearted", 14.324) and θυμολέων ("lion-hearted", 5.639), and once "the mighty son of Amphitryon", after his mother's husband (5.392).
+βίη Ἡρακληείη: "the might of Heracles", literally "the Heraclean force", a periphrasis that names the hero by his strength (2.658, 2.666; see [[might-of-heracles]]). The Iliad also calls him κρατερόφρων ("fierce-hearted", 14.324; see [[fierce-hearted]]) and θυμολέων ("lion-hearted", 5.639), and once "the mighty son of Amphitryon", after his mother's husband (5.392).
 
 {{notes}}
 
@@ -25,9 +25,9 @@ relations:
 
 Homer knows Heracles as a mortal hero of the generation before the war. He tells his stories in allusions, most of them in speeches.
 
-- **Birth.** Zeus boasted that a man of his blood born that day would rule all his neighbors. Hera delayed the birth of Heracles and hastened that of Eurystheus, who became his master (19.95–133).
+- **Birth.** Alcmene bore him to Zeus in Thebes (14.323–324; see [[alcmene]]). Zeus boasted that a man of his blood born that day would rule all his neighbors. Hera delayed the birth of Heracles and hastened that of Eurystheus, who became his master (19.95–133).
 - **Labors.** Eurystheus set him hard tasks. Athena helped him, as she complains, and saved him when he went down to fetch the dog of Hades (8.362–369; see [[heracles-and-cerberus]]).
-- **Troy.** For the sake of the horses of Laomedon he sacked Troy "with only six ships and fewer men" (5.638–642). The Trojans and Athena had built him a wall to shelter from the sea monster (20.144–148). On his way home Hera sent a storm that drove him to Cos, and Zeus punished her for it (14.249–256, 15.18–30).
+- **Troy.** For the sake of the horses of Laomedon he sacked Troy "with only six ships and fewer men" (5.638–642). The Trojans and Athena had built him a wall to shelter from the sea monster (20.144–148). On his way home Hera sent a storm that drove him to Cos, and Zeus punished her for it (14.249–256, 15.18–30; see [[hera-drives-heracles-to-cos]]).
 - **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693; see [[heracles-sacks-pylos]]). He wounded Hera with an arrow, and Hades "in Pylos among the dead" (5.392–397).
 - **Death.** "Not even the might of Heracles escaped death," says Achilles, "though he was dearest to Zeus; fate overcame him, and the harsh anger of Hera" (18.117–119).
 

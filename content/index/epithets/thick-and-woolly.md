@@ -12,7 +12,7 @@ of: [cloak]
 
 ## Meaning
 
-οὖλος, “thick, woolly, crisp,” describes wool that is dense and curly. Homer uses it of good cloaks, χλαῖναι οὖλαι: the cloaks that Achilles orders laid on the beds of Priam and his herald for the night (24.643–646), the cloaks put on guests after their bath in the Odyssey (Od. 4.50, 10.451, 17.89), and the purple cloak of Odysseus, “woolly” and double, that the beggar describes to Penelope (Od. 19.225–226). It describes the nap of Nestor's cloak (10.134), and in the Odyssey the thick, curling hair that Athena gives Odysseus, like the hyacinth flower (Od. 6.231, 23.158). A different word, also οὖλος, means “baneful, destructive,” as of Ares and of the Dream ([[baneful]]).
+οὖλος, “thick, woolly, crisp,” describes wool that is dense and curly. Homer uses it of good cloaks, χλαῖναι οὖλαι: the cloaks that Achilles orders laid on the beds of Priam and his herald for the night (24.643–646), the cloaks put on guests after their bath in the Odyssey (Od. 4.50, 10.451, 17.89), and the purple cloak of Odysseus, “woolly” and double, that the beggar describes to Penelope (Od. 19.225–226). It describes the nap of Nestor's cloak (10.134), and in the Odyssey the thick, curling hair that Athena gives Odysseus, like the hyacinth flower ([[hyacinth]]; Od. 6.231, 23.158). A different word, also οὖλος, means “baneful, destructive,” as of Ares and of the Dream ([[baneful]]).
 
 ## Use
 

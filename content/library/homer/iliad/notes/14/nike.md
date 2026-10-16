@@ -1,0 +1,5 @@
+---
+summary: Poseidon, leading the Achaeans openly while Zeus sleeps, asks the Argives, “are we once again to yield the victory to Hector”, the victory that Zeus has willed for the Trojans.
+---
+
+Poseidon's call to the Argives begins with the prize: “Argives, are we once again to yield the victory to Hector, / son of Priam, so that he may take the ships and win glory?” (μεθίεμεν Ἕκτορι νίκην, 14.364–365; see [[poseidon]], [[exhortation]] and [[kydos]]). μεθίημι is to let go of something held, and in a rally it is usually courage that men let go, θούριδος ἀλκῆς, “furious courage” (4.234, 12.409, 13.116); here they would let go of the victory itself. The victory was Zeus' to give, and he had willed it for the Trojans and Hector (Τρώεσσι καὶ Ἕκτορι βούλετο νίκην, 13.347; see [[plan-of-zeus]]). Poseidon can contest it only because the god who gives it is asleep (see [[the-deception-of-zeus]]). The book ends with the Trojans in flight, and the general phrase for a rout names the god who is asleep: no one could match the son of Oileus in pursuing men who fled in fear, “when Zeus rouses rout among them” (14.520–522; see [[rout]]).

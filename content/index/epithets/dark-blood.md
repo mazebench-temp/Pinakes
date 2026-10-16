@@ -5,7 +5,7 @@ kind: epithet
 tags: [body, warfare]
 summary: Blood in Homer is “black” or “dark”: μέλαν αἷμα, αἷμα κελαινόν, and αἷμα κελαινεφές, “dark-clouded blood.”
 aliases: [black blood, melan haima, haima kelainon, kelainephes haima]
-grc: [μέλαν αἷμα, αἷμα κελαινὸν, αἷμα κελαινεφὲς]
+grc: [μέλαν αἷμα, αἷμα κελαινὸν, αἷμα κελαινεφὲς, κελαινεφὲς αἷμʼ]
 en: [dark blood, black blood]
 ---
 

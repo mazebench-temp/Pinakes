@@ -1,0 +1,15 @@
+---
+summary: Book 14 is the Iliad's book of deceit, the Deception of Zeus. Hera lies to Aphrodite and to Zeus with the same false story, borrows a strap that holds persuasion, hides her purpose behind modesty, and has Sleep hide in a tree in a bird's likeness; Poseidon comes to Agamemnon disguised as an old man. In the next book Hera swears Zeus a carefully worded oath.
+passages:
+  - 14.153-165 | Hera's plan
+  - 14.197-223 | Hera deceives Aphrodite
+  - 14.292-353 | The deception of Zeus
+---
+
+**One lie, twice told.** Hera has a single false story, and she tells it twice in nearly the same words: she is going to the limits of the earth to see Oceanus and Tethys, who nursed her, and to end their endless quarrels and bring them back to their bed (14.200–210, 14.301–306; see [[oceanus]], [[tethys]] and [[neikos]]). To Aphrodite it explains why she needs love and longing; to Zeus, why she is on Ida and where she is going, and she adds that she came by way of Ida only so that he would not be angry if she left in silence (14.307–311; see [[cholos]] and [[silence]]). Each time the narrator marks the speech: she speaks δολοφρονέουσα, “with treachery in her heart” (14.197, 14.300, 14.329; see [[apate]]). Aphrodite, who helps the Trojans, gives the strap that will help the Achaeans, since it would not be fitting to refuse the wife of Zeus (14.190–192, 14.211–221; see [[aphrodite]]).
+
+**Means of deceit.** The strap holds “the persuasion that steals the mind even of men who think shrewdly” (14.217; see [[aphrodites-band]] and [[the-persuasion-that-steals-the-mind]]). Sleep, who will put Zeus to sleep, hides in the tallest fir on Ida “like a shrill-voiced bird” before the eyes of Zeus can see him (14.286–291; see [[sleep]] and [[chalcis-and-cymindis]]). On Gargarus Hera answers Zeus' desire with pretended modesty, fearing that a god might see them, and asks for the chamber with closed doors; Zeus himself provides a cloud that not even the Sun can see through, and sleeps under it (14.330–353; see [[nemesis]] and [[the-golden-cloud]]).
+
+**Disguise.** Poseidon, helping the Achaeans without Zeus' knowledge, comes to Agamemnon “in the likeness of an old man” (14.136; see [[divine-epiphany]] and [[poseidon]]). Only when Sleep tells him that Zeus is asleep does he lead the army openly (14.354–387; see [[poseidon-rallies-the-achaeans]]).
+
+**What is true.** Two things in the deception are not lies. Hera's oath to Sleep is sworn by the gods' great oath, with the Titans as witnesses (14.271–280; see [[oath]]), and Sleep's message to Poseidon is the plain truth: Zeus is asleep, and Hera has beguiled him (14.357–360). When Zeus wakes and charges Hera with her trick, she swears by Earth, Sky, the Styx, his head and their marriage bed that it was not through her will that Poseidon harms the Trojans, but his own heart urged him (15.36–44). The oath is carefully worded. Poseidon had been helping the Achaeans of his own accord since Book 13, and it was Sleep, not Hera, who told him to fight openly; Zeus smiles at it (15.47; see [[oaths-and-their-breaking]]).

@@ -36,6 +36,8 @@ The sea similes of Book 2 gave the noise of an assembly: waves on the Icarian se
 
 Later the image turns against the Achaeans. The Trojans come on like the waves of the loud-roaring sea driven by a storm of winds, “arched and white-crested, some in front, and others behind” (13.795–800), they pour over the wall like a great wave over a ship's side (15.381–384), and Hector falls on the Achaeans as a wave falls on a swift ship (15.624–628). Then the Danaans hold like a sheer rock that stands against the winds and the swelling waves (15.618–622).
 
+The roar of the breaking wave, which the silent Danaans do not yet make, returns in Book 14 as a measure of the battle's noise: the shout of Trojans and Achaeans is louder than the wave of the sea roaring against the dry land, roused from the deep by the North Wind (14.394–395; see [[louder-than-sea-fire-and-wind]]).
+
 ## Outside Homer
 
 Plato's Socrates quotes the silence of these lines, joined to a line of Book 3, as a lesson in self-control for the guardians of his city (*Republic* 3.389e; see [[plato-silent-achaeans]]).

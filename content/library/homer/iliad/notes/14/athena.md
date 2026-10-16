@@ -1,0 +1,5 @@
+---
+summary: Athena takes no part in Book 14, but Hera seduces Zeus in a robe that Athena made for her, smoothed and worked with many intricate designs.
+---
+
+**Hera's robe.** “And she put on an ambrosial robe, which Athena / had smoothed and worked for her, and set many intricate designs in it” (14.178–179; see [[hera]], [[robe]] and [[the-adornment-of-a-goddess]]). ἔξυσʼ, “smoothed”, is from ξύω, “scrape, smooth”, the verb of the ξυστόν, the spear with its scraped shaft (4.469), used here of finishing cloth; ἀσκήσασα, “worked”, is the verb of fine craftsmanship. Athena weaves her own robes too: arming for battle, she lets fall on her father's floor the robe “which she herself had made and labored at with her hands” (5.734–735 = 8.385–386; see [[weaving]]). The Graces made the robe of Aphrodite (5.338; see [[graces]]). The robe is Athena's only part in the book. The two goddesses sit side by side “devising evils for the Trojans” in Book 4 (4.20–21) and drive out together against Zeus' ban in Book 8 (8.350–437); here Athena's work helps Hera to win the hours in which the Trojans are routed (see [[the-deception-of-zeus]]).

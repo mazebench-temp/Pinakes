@@ -26,4 +26,4 @@ Poseidon takes his likeness to rouse Idomeneus; there he is Thoas "who ruled the
 
 ## Outside Homer
 
-Later genealogists made his mother Gorge a daughter of Oeneus, so that he was Oeneus' grandson and Diomedes' cousin (Apollodorus 1.8.1). Virgil puts him in the Wooden Horse (*Aeneid* 2.262). He is not Thoas, king of Lemnos (14.230).
+Later genealogists made his mother Gorge a daughter of Oeneus, so that he was Oeneus' grandson and Diomedes' cousin (Apollodorus 1.8.1). Virgil puts him in the Wooden Horse (*Aeneid* 2.262). He is not Thoas, king of Lemnos (14.230; see [[thoas-of-lemnos]]).

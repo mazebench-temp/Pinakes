@@ -3,7 +3,7 @@ title: Lame in both legs
 greek: περικλυτὸς ἀμφιγυήεις
 kind: epithet
 tags: [divine-epithet, craftsman, body]
-summary: The description of [[Hephaestus]] at the end of Book 1 (1.607): “the renowned god, lame in both legs” — or, on another reading, “strong in both arms.”
+summary: ἀμφιγυήεις, “lame in both legs” — or, on another reading, “strong in both arms”: the standing epithet of [[Hephaestus]], above all in the phrase περικλυτὸς ἀμφιγυήεις, “the renowned god, lame in both legs.”
 aliases: [amphigyeeis, strong-armed, ambidextrous, the renowned lame god]
 grc: [περικλυτὸς ἀμφιγυήεις]
 en: [renowned god, lame in both legs]

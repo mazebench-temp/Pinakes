@@ -3,11 +3,11 @@ title: The poppy
 greek: μήκων δʼ ὡς ἑτέρωσε κάρη βάλεν, ἥ τʼ ἐνὶ κήπῳ
 kind: simile
 tags: [warfare, fate, mother]
-summary: Teucer's arrow, meant for Hector, strikes Priam's son Gorgythion in the chest, and his head droops to one side, weighed down by his helmet, as a poppy in a garden droops its head, heavy with its seed and with the showers of spring (8.302–308).
+summary: Teucer's arrow, meant for Hector, strikes Priam's son Gorgythion in the chest, and his head droops to one side, weighed down by his helmet, as a poppy in a garden droops its head, heavy with its seed and with the showers of spring (8.302–308). In Book 14 Peneleos holds up the severed head of Ilioneus on his spear “like a poppy head” (14.499).
 aliases: [like a poppy, Gorgythion's poppy, the poppy in the garden, the drooping poppy, the death of Gorgythion]
 grc: [μήκων, "καρπῷ βριθομένη", "νοτίῃσί τε εἰαρινῇσιν", "ἤμυσε κάρη", "πήληκι βαρυνθέν"]
 en: [poppy, heavy with its seed, showers of spring, drooped, weighed down by his helmet]
-of: [gorgythion]
+of: [gorgythion, ilioneus]
 ---
 
 ## The simile
@@ -28,7 +28,7 @@ Gorgythion is the only man who dies in Book 8 with a simile, and he dies by mist
 
 ## Elsewhere in Homer
 
-The Iliad has one other poppy, and it is grim. Peneleos drives his spear into the eye of Ilioneus, strikes off his head with his sword, “the head, helmet and all” (αὐτῇ σὺν πήληκι κάρη), and holds it up on the spear “like a poppy head” (φὴ κώδειαν ἀνασχών), to show the Trojans as he boasts (14.493–500). The head and the helmet are the words of Gorgythion's line, and κώδεια is the seed head of the poppy, the καρπός of this simile.
+The Iliad has one other poppy, and it is grim. Peneleos strikes off the head of Ilioneus, helmet and all, and holds it up on his spear “like a poppy head” (φὴ κώδειαν, 14.499), to show the Trojans as he boasts. κώδεια is the seed head of the poppy, the καρπός of this simile, and the head with its helmet recalls Gorgythion's line.
 
 ## Outside Homer
 

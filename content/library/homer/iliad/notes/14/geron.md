@@ -1,0 +1,5 @@
+---
+summary: Book 14 begins with an old man, Nestor, who ponders and goes to the kings. Odysseus says that Zeus has given the Achaeans wars to wind out “from youth to old age”; Agamemnon asks for a better plan from young or old, and the youngest gives it; and Poseidon comes among the kings “in the likeness of an old man”.
+---
+
+The simile of the heaving sea closes on Nestor's age, “so the old man pondered” (ὣς ὃ γέρων ὅρμαινε, 14.20; see [[pondering-two-ways]]), and then “the old man met them, / Nestor” (γεραιὸς / Νέστωρ, 14.39–40; see [[nestor]]). Odysseus tells Agamemnon that Zeus has given it to the Achaeans, “from youth to old age, to wind out / grievous wars” (ἐκ νεότητος … καὶ ἐς γῆρας, 14.86–87; see [[polemos]]). Agamemnon asks for a better plan from anyone, “young or old” (ἢ νέος ἠὲ παλαιός, 14.108), and the youngest answers: Diomedes, “the youngest by birth among you” (14.112; see [[diomedes]] and [[genee]]). Then Poseidon goes with the kings “in the likeness of an old man” (παλαιῷ φωτὶ ἐοικώς, 14.136), a phrase found only here; in Book 13 he came in the likeness of Calchas (13.45; see [[poseidon]] and [[divine-epiphany]]).

@@ -16,7 +16,7 @@ passages:
   - 14.113-125 | Diomedes' account of his family
 ---
 
-{{quote:Iliad 14.115-118 | The sons of Portheus}}
+{{quote:4452cd29-d342-540d-8202-457f9f666fce}}
 
 Diomedes names him in the council of the wounded kings. The youngest of them, he claims a hearing by his birth, and he counts back from his father Tydeus to Oeneus, Tydeus' father, and from Oeneus to Portheus, whose three sons lived in the two chief towns of Aetolia (14.110–127; see [[diomedes]], [[tydeus]], [[pleuron]], [[calydon]] and [[genealogy-in-battle]]). The account begins with him, as Glaucus' begins with Sisyphus, son of Aeolus, and Aeneas' with Zeus (6.152–154, 20.215), but Homer gives Portheus no father, no wife and no deed, and names him nowhere else. Of his sons only Oeneus has a story in the Iliad; Agrius and Melas are names in this verse (see [[agrius]] and [[melas]]).
 
@@ -24,4 +24,4 @@ The name seems to be formed from πορθέω, “sack, lay waste”, the verb i
 
 ## Outside Homer
 
-Later writers call him Porthaon (Πορθάων). In the prologue of Euripides' *Meleager* Oeneus rules Calydon, “the son of Porthaon, who once married Althaea” (fr. 515 Nauck), and Pausanias reports that in the Hesiodic *Great Eoiae* Oenomaus killed Alcathous, son of Porthaon, the second of the suitors of Hippodameia, after Marmax (6.21.10). Strabo quotes 14.117 and 14.116, in that order, to argue that Homer made the Curetes who fought at Pleuron Aetolians, and calls the three brothers Πορθαονίδαι, “the sons of Porthaon” (*Geography* 10.3.1). He also reports a division of Aetolia in which Oeneus held the country around Calydon and the sons of Porthaon, “those around Agrius”, a part of the land of Pleuron (10.3.6; see [[strabo]] and [[curetes]]).
+Later writers call him Porthaon (Πορθάων). In the prologue of Euripides' *Meleager* Oeneus rules Calydon, “the son of Porthaon, who once married Althaea” (fr. 515 Nauck), and in the Hesiodic *Great Eoiae* Oenomaus killed Alcathous, son of Porthaon, the second of the suitors of Hippodameia, after Marmax (Pausanias 6.21.10). Strabo quotes 14.117 and 14.116, in that order, to argue that Homer made the Curetes who fought at Pleuron Aetolians, and calls the three brothers Πορθαονίδαι, “the sons of Porthaon” (*Geography* 10.3.1). He also reports a division of Aetolia in which Oeneus held the country around Calydon and the sons of Porthaon, “those around Agrius”, a part of the land of Pleuron (*Geography* 10.3.6; see [[strabo]] and [[curetes]]).

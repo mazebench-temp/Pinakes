@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, mysia-phrygia]
 summary: The father of [[Morys]], one of the men who had come from Ascania as relief, named only in his son's description (13.792). Meriones kills a Hippotion with Morys in the next book (14.514); the poem does not say whether he is the father.
 aliases: [Hippotion father of Morys]
-# Only the genitive: Ἱπποτίωνα at 14.514 is a Hippotion killed with Morys, who may or may not be his father.
+# The genitive (13.792); the Book 14 note adds Ἱπποτίωνα (14.514), the Hippotion killed with Morys, who may or may not be his father.
 grc: [Ἱπποτίωνος]
 relations:
   - child: morys (13.792)

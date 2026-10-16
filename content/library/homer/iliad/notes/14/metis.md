@@ -1,0 +1,7 @@
+---
+summary: In the council of the wounded kings, Odysseus “of many wiles” rejects Agamemnon's plan of flight, and Agamemnon asks for “a better plan” from anyone, young or old; the youngest of them gives it.
+passages:
+  - 14.82-134 | The council of the wounded kings
+---
+
+The council by the ships is a contest of plans (see [[the-wounded-chiefs]]). Agamemnon proposes to launch the nearest ships and escape by night (14.65–81). “Looking at him darkly, Odysseus of many wiles said” (πολύμητις Ὀδυσσεύς, 14.82; see [[odysseus]] and [[looking-darkly]]), and the epithet of cunning introduces a blunt rebuke: the plan would make the army look away from the battle and would ruin it (14.83–102; see [[boule]]). Agamemnon yields and asks for another: “Now let there be one who can speak of a better plan than this, / young or old; and I would be glad of it” (ἀμείνονα μῆτιν, 14.107–108). In the next book Ajax will say that the Achaeans have no better mind or plan than to close with the enemy hand to hand (οὔ τις τοῦδε νόος καὶ μῆτις ἀμείνων, 15.509–510). Diomedes, “the youngest by birth” among them, answers that the man is near, and his plan is simple: to go back to the fighting, wounded as they are, keep out of range, and urge the others on (14.110–132; see [[diomedes]] and [[genee]]). Nestor, the oldest, had only asked them to consider what is to be done, “if the mind can do any good”, and advised against going into the war wounded (14.61–63; see [[noos]]); the youngest finds the way to fight without fighting.

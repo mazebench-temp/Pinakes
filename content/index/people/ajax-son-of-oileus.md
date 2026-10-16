@@ -21,7 +21,7 @@ The Catalogue introduces him by comparison. Homer has two heroes called Ajax, an
 
 ## Descriptions
 
-- ταχύς "swift" ([[swift]]) is his mark. When the Trojans are routed he kills the most, "for there was none like him to pursue men in flight" (14.520–522).
+- ταχύς "swift" ([[swift]]) is his mark. When the Trojans are routed he kills the most, “for there was no one like him to pursue on foot / men who fled in fear” (14.520–522).
 - μείων "lesser", the comparative of μικρός, tells the two Ajaxes apart.
 - λινοθώρηξ "with the linen corselet" = λίνον (linen) + θώρηξ (corselet) ([[with-linen-corselet]]). Homer uses it only of him and of the Trojan ally Amphius (2.830).
 - ἐγχείῃ δ' ἐκέκαστο "with the spear he surpassed" (from κέκασμαι, "excel") all the [[Panhellenes]] and [[Achaeans]].

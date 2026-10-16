@@ -3,7 +3,7 @@ title: Tartarus
 greek: Τάρταρος
 kind: place
 tags: [chthonic, cosmic]
-summary: The deepest pit beneath the earth, as far below Hades as the sky is above the earth, closed by gates of iron and a threshold of bronze. Zeus threatens to hurl into it any god who disobeys him, and Iapetus and Cronus sit there without sun or wind (8.13–16, 8.478–481); Hesiod makes it the prison of the Titans.
+summary: The deepest pit beneath the earth, as far below Hades as the sky is above the earth, closed by gates of iron and a threshold of bronze. Zeus threatens to hurl into it any god who disobeys him, and Iapetus and Cronus sit there without sun or wind (8.13–16, 8.478–481); the Titans are “the gods / beneath Tartarus” (14.278–279), and Hesiod makes it their prison.
 aliases: [Tartaros]
 grc: ["Ταρταρ*"]
 refs: [8.14-16, 8.478-480, 8.482]
@@ -26,7 +26,7 @@ At nightfall Zeus names it again. Hera may go "to the lowest limits / of earth a
 
 {{quote:0eec6ccb-bbef-5d71-886b-fff2591c49d5}}
 
-The prisoners are gods, not dead men: Cronus, whom Zeus overthrew, and Iapetus with him, sitting with no share in the light of the sun or in the winds (see [[iapetus]], [[cronus]], [[hyperion]] and [[fall-of-cronus]]). The rest of the Iliad knows them. Zeus "set Cronus beneath the earth and the barren sea" (14.203–204). Sleep asks Hera to swear an oath that "the gods below, who are around Cronus" may witness (14.274), and she names "all the gods beneath Tartarus, who are called Titans" (τοὺς ὑποταρταρίους οἳ Τιτῆνες καλέονται, 14.278–279). Zeus tells Apollo that if Poseidon had not given way, even those gods would have heard of their fight (15.222–225). The Odyssey never names Tartarus. In Homer the dead go down to the house of Hades, into Erebus, and Tartarus lies far below them (see [[erebus]]).
+The prisoners are gods, not dead men: Cronus, whom Zeus overthrew, and Iapetus with him, sitting with no share in the light of the sun or in the winds (see [[iapetus]], [[cronus]], [[hyperion]] and [[fall-of-cronus]]). The rest of the Iliad knows them. Zeus “put Cronus / down beneath the earth and the barren sea” (14.203–204). Sleep asks Hera to swear an oath that "the gods below, who are around Cronus" may witness (14.274), and she names "all the gods beneath Tartarus, who are called Titans" (τοὺς ὑποταρταρίους οἳ Τιτῆνες καλέονται, 14.278–279; see [[titans]]). Zeus tells Apollo that if Poseidon had not given way, even those gods would have heard of their fight (15.222–225). The Odyssey never names Tartarus. In Homer the dead go down to the house of Hades, into Erebus, and Tartarus lies far below them (see [[erebus]]).
 
 ## Outside Homer
 

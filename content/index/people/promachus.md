@@ -16,7 +16,7 @@ passages:
   - 14.476-485 | Acamas kills Promachus
 ---
 
-{{quote:Iliad 14.476-485 | Acamas kills Promachus}}
+{{quote:32da578f-554c-5db5-8f01-516104ab1a9f}}
 
 **His death.** Ajax's spear, thrown at Polydamas, has killed Archelochus, son of Antenor (14.459–468; see [[archelochus]] and [[ajax]]). Promachus tries to drag the body away by the feet, and Archelochus' brother Acamas, standing over it, stabs him (14.476–477; see [[acamas]], [[antenor]] and [[fighting-over-the-body]]). The poem calls him “Promachus the Boeotian” (Πρόμαχον Βοιώτιον, 14.476), as it will call Peneleos, their leader, “the Boeotian” (17.597; see [[boeotians]]). He is not among the five Boeotian leaders of the Catalogue (2.494–495).
 

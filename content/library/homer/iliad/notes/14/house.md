@@ -1,0 +1,12 @@
+---
+summary: Hera adorns herself in the chamber that Hephaestus built her, with doors that no other god could open, and offers to take Zeus to his own chamber, described in the same verses. The book names the bronze-floored house of Zeus, the house of Oceanus that Hera claims to be visiting, and the house of Hades.
+passages:
+  - 14.166-169 | Hera's chamber
+  - 14.337-340 | Zeus' chamber
+---
+
+**Two chambers in the same words.** Hera adorns herself in secret: “She went to her chamber, which her dear son built for her, / Hephaestus, and he fitted close doors to the doorposts / with a secret bolt, which no other god could open” (14.166–168; see [[the-adornment-of-a-goddess]] and [[hephaestus]]). On Ida, when Zeus would lie with her on the open peak, she offers him another: “you have a chamber, which your dear son built for you, / Hephaestus, and he fitted close doors to the doorposts; / let us go there and lie down, since bed is what pleases you” (14.338–340; see [[bed]]). The narrator's verses for her chamber become her verses for his, with the person changed; the one thing they leave out is the secret bolt. Every god's house on Olympus is the work of Hephaestus (1.606–608).
+
+**The houses of the gods.** When Hera's oil is stirred in “the bronze-floored house of Zeus”, its fragrance reaches earth and heaven (Διὸς κατὰ χαλκοβατὲς δῶ, 14.173–174); it is the house to which Thetis promised Achilles she would go (1.426). Aphrodite goes home to her own house when she has given away the strap (14.224). Sleep remembers Zeus waking in anger, “flinging the gods about the house” (14.257; see [[sleep]]). Hera's false destination is “the house of deep-streaming Oceanus” at the ends of the earth, where she says Oceanus and Tethys nursed her “in their halls” (14.202, 14.311; see [[oceanus]] and [[truth-and-deception]]), and her pretended fear is of not being able to go back to Zeus' house if the gods saw them (14.335–336; see [[nemesis]]).
+
+**The houses of men and of the dead.** Tydeus, wandering to Argos, lived “in a house / wealthy in substance” (14.121–122; see [[tydeus]]); Polydamas boasts that Prothoenor will go down “into the house of Hades” leaning on the spear that killed him (14.454–457; see [[hades]]); and the halls at home are where a man prays to leave a kinsman behind him and where Ilioneus' parents are to wail for their son (14.485, 14.502; see [[a-kinsman-in-his-halls]]).

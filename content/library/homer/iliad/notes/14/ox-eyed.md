@@ -1,0 +1,5 @@
+---
+summary: “Ox-eyed queen Hera” ponders how to beguile Zeus, smiles as she takes Aphrodite's strap, and answers Sleep's refusal with the offer of a Grace.
+---
+
+The formula βοῶπις πότνια Ἥρη marks three moments of Hera's scheme: the plan, “Then ox-eyed queen Hera pondered / how she might beguile the mind of aegis-bearing Zeus” (14.159–160; [[aegis-bearing]], [[the-deception-of-zeus]]); the gift, “So she spoke, and ox-eyed queen Hera smiled, / and smiling, she put it in her bosom” (14.222–223; [[aphrodites-band]], [[laughter-loving]]); and the answer to Sleep's refusal, with the promise of one of the younger Graces as his wife (14.263–269; [[sleep]], [[pasithea]]). When she speaks to Aphrodite and to Zeus, the verse that introduces her calls her instead “queen Hera, with treachery in her heart” (14.197, 14.300, 14.329; [[with-treachery-in-her-heart]], [[queenly]]); when she swears to Sleep she is “the white-armed goddess” (14.277; [[white-armed]]). In Book 1 the ox-eyed queen was Hera in open quarrel with Zeus (1.551, 1.568); here she is ox-eyed while she plots against him in secret. See [[hera]].

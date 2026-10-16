@@ -1,0 +1,10 @@
+---
+summary: Hera watches Poseidon, “her own brother and her brother-in-law”; Sleep is “the brother of Death”; and on the plain Acamas kills Promachus over the body of his brother Archelochus, so that the penalty for a brother may not go unpaid, and says why a man prays to leave a kinsman behind him.
+passages:
+  - 14.153-158 | Hera sees Poseidon and Zeus
+  - 14.476-485 | Acamas avenges his brother
+---
+
+**Among the gods.** From Olympus Hera sees Poseidon busy in the battle, “her own brother and her brother-in-law, and she rejoiced in her heart” (αὐτοκασίγνητον καὶ δαέρα, 14.156; see [[poseidon]], [[hera]] and [[in-laws]]). He is both because she is Zeus' sister as well as his wife, and all three are children of Cronus (see the article above and [[cronus]]). In the same book Sleep is “the brother of Death” (κασιγνήτῳ Θανάτοιο, 14.231; see [[sleep]] and [[death]]).
+
+**A brother avenged.** Ajax's spear, thrown at Polydamas, kills Archelochus, and Ajax tells Polydamas that the dead man looks like “a brother of Antenor, tamer of horses, / or a son” (κασίγνητος Ἀντήνορος, 14.473–474; see [[archelochus]] and [[genee]]). He was Antenor's son, and his brother Acamas answers at once. He stabs the Boeotian Promachus “as he stood over his brother, while the other dragged at the body by the feet” (ἀμφὶ κασιγνήτῳ βεβαώς, 14.477; see [[acamas]], [[promachus]] and [[fighting-over-the-body]]), and boasts that he has done it “so that the penalty for my brother / may not long go unpaid; and that is why a man prays / to leave a kinsman in his halls, to defend him against disaster” (κασιγνήτοιό γε ποινὴ … γνωτὸν ἐνὶ μεγάροισιν, 14.483–485; see [[poine]] and [[a-kinsman-in-his-halls]]). γνωτός, “known, kin”, is a kinsman, and often a brother (see the note on Book 13). Antenor's sons have done this before: in Book 11 his eldest, Coon, wounded Agamemnon to avenge his brother Iphidamas and was killed as he dragged the body away (11.248–263; see the note on Book 11 and [[coon]]). There a Trojan dragged his own brother by the foot; here a Boeotian drags the dead brother of a Trojan, and dies for it.

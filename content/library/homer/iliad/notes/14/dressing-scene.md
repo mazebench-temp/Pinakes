@@ -1,0 +1,7 @@
+---
+summary: Hera binds on her sandals in the verse of Agamemnon's and Nestor's dressing, the only woman in Homer to do so, and her veil is “a fine one, new-made” in the words of Agamemnon's tunic; but her adornment belongs to another type-scene, the adornment of a goddess.
+---
+
+The last item of Hera's adornment is told in the dressing scene's verse: “and under her shining feet she bound her fine sandals” (ποσσὶ δʼ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα, 14.186; see [[sandals]]). The verse is used whole for Agamemnon after the Dream and in the night of Book 10, for Nestor, and in the Odyssey for Telemachus and Menelaus (2.44, 10.22, 10.132; *Odyssey* 2.4, 4.309, 20.126); Hera is the only woman of whom it is said. A second phrase links the two scenes. Agamemnon's soft tunic was καλὸν νηγάτεον, “fine and new-made” (2.42–43), and Hera's veil is καλῷ νηγατέῳ, “a fine one, new-made” (14.185; see [[veil]] and the translation's note on 2.43); the word is found only in these two verses.
+
+The rest of Hera's scene is not a man's dressing. She bathes and is anointed, braids her hair and puts on a robe, pins, girdle, earrings and veil, and she does it to beguile Zeus, not to go out at night on an errand (14.166–187). Its elements and verses are those of Aphrodite's adornment at Paphos in the Odyssey and the Homeric Hymns, and it is treated as a type-scene of its own (see [[the-adornment-of-a-goddess]]).

@@ -27,7 +27,7 @@ Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο,
 
 ## Elsewhere in Homer
 
-**Mothers of warriors.** In the Iliad nymphs are the mothers of men from the Troad and Asia Minor, born beside rivers and lakes to fathers who kept herds. Satnius was the son of “a blameless Naiad” and of Enops, who herded cattle on the banks of the Satnioeis (14.443–445; see [[satnioeis]]). Iphition's mother was a Naiad, and he was born beneath snowy Tmolus (20.382–385; see [[tmolus]]). The Gygaean lake bore the Maeonian leaders Mesthles and Antiphus (2.864–865; see [[gygaean-lake]]). All of them fight for Troy, and Satnius and Iphition, like the sons of Abarbarea, fall to Achaean spears.
+**Mothers of warriors.** In the Iliad nymphs are the mothers of men from the Troad and Asia Minor, born beside rivers and lakes to fathers who kept herds. Satnius was the son of “a noble Naiad nymph” and of Enops, who herded cattle on the banks of the Satnioeis (14.443–445; see [[satnius]], [[enops]] and [[satnioeis]]). Iphition's mother was a Naiad, and he was born beneath snowy Tmolus (20.382–385; see [[tmolus]]). The Gygaean lake bore the Maeonian leaders Mesthles and Antiphus (2.864–865; see [[gygaean-lake]]). All of them fight for Troy, and Satnius and Iphition, like the sons of Abarbarea, fall to Achaean spears.
 
 **Among the gods.** When Zeus calls the gods to assembly in Book 20, no river stays away but Oceanus, nor any of the nymphs “who haunt the lovely groves and the springs of rivers and the grassy meadows” (20.7–9). Niobe, turned to stone, broods on her sorrows on Sipylus, where, men say, the nymphs who dance around the Achelous have their resting places (24.614–617).
 

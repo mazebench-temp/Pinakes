@@ -20,4 +20,4 @@ The gods' own great oath is by the water of the Styx (Iliad 15.36–38).
 
 ## Outside Homer
 
-[[Hesiod]] makes Oath (Ὅρκος) a child of Strife, who “does most harm to men on earth, whenever anyone knowingly swears falsely” (*Theogony* 231–232).
+[[Hesiod]] makes Oath (Ὅρκος) a child of Strife, who “does most harm to men on earth, whenever anyone knowingly swears falsely” (*Theogony* 231–232). His Styx, the eldest daughter of Oceanus, was made the great oath of the gods by Zeus because she came first to his side with her children against the Titans (*Theogony* 383–403); when a god is suspected of lying, Zeus sends Iris to fetch her cold water in a golden jug, and a god who pours it and swears falsely lies a whole year without breath or voice, covered by an evil slumber, and is kept from the councils and feasts of the gods for nine years more (*Theogony* 775–806).

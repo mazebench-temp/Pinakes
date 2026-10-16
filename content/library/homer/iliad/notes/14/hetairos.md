@@ -1,0 +1,5 @@
+---
+summary: Hector, his spear wasted, draws back “into the crowd of his companions”, but Ajax's stone strikes him as he goes; the Trojan leaders cover him with their shields, and his companions carry him out of the battle.
+---
+
+Hector's spear is wasted on Ajax, “and he drew back into the crowd of his companions, avoiding doom” (ἂψ δʼ ἑτάρων εἰς ἔθνος ἐχάζετο κῆρʼ ἀλεείνων, 14.408), the verse that has drawn Paris back from Menelaus and other men from death (3.32, 11.585, 13.566, 13.596, 13.648; see [[ker-doom]] and [[retreat]]). It did not save Harpalion, shot by Meriones as he drew back (13.648–652), and it does not save Hector: Ajax's stone strikes him as he goes (14.409–413; see [[stone-throwing]]). Then the companions do their work: “And of the others not one neglected him, but before him / they held their well-rounded shields. And his companions / lifted him in their arms and carried him out of the toil” (14.427–429; see [[hector]] and [[shield]]), to his chariot and toward the city (14.429–432; see [[chariot]]).

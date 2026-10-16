@@ -3,7 +3,7 @@ title: Purification
 greek: ἀπολυμαίνομαι
 kind: ritual
 tags: [purification]
-summary: Before sacrificing to Apollo, the army cleanses itself and throws the defilements into the sea.
+summary: Washing away defilement, λύματα, to be clean before a god. The army purifies itself and throws the defilements into the sea before sacrificing to Apollo, and Hera cleanses her body of them with ambrosia; Homer does not use the later vocabulary of pollution.
 aliases: [cleansing, lustration, katharsis]
 grc: [ἀπολυμαίνεσθαι, ἀπελυμαίνοντο, λύματα]
 en: [purify themselves, cleansed themselves, defilements]

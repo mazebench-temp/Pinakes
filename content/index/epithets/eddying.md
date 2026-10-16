@@ -7,7 +7,7 @@ summary: “Full of eddies, swirling,” an epithet of rivers, above all of the 
 aliases: [whirling, dineeis]
 grc: [δινήεντος]
 en: [eddying]
-of: [xanthus-of-lycia]
+of: [xanthus-of-lycia, scamander]
 ---
 
 ## Meaning

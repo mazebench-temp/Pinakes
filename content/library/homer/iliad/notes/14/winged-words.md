@@ -1,0 +1,5 @@
+---
+summary: The whole-verse formula introduces three speeches that move the book on: Nestor's to Machaon as he goes out to see the battle, Poseidon's to Agamemnon in the likeness of an old man, and Sleep's to Poseidon with the news that Zeus is asleep.
+---
+
+“And he addressed the son of Asclepius with winged words” (14.2) introduces the first speech of the book: Nestor, hearing the shouting grow louder, tells Machaon to sit and drink while he goes to look (14.1–8; see [[nestor]] and [[machaon]]). “And he spoke to him, addressing him with winged words” (14.138) introduces Poseidon, disguised as an old man, taking Agamemnon by the right hand and promising him that he will see the Trojans in flight (14.136–146; see [[poseidon]] and [[divine-epiphany]]). “And standing near him he addressed him with winged words” (ἀγχοῦ δʼ ἱστάμενος, 14.356) introduces Sleep's message to Poseidon, that Zeus is asleep and the Danaans may have glory for a little while (14.357–360; see [[sleep]] and [[kydos]]). The first speech takes Nestor out of his hut to the battle, the second puts heart into the king, and the third releases the god.

@@ -1,0 +1,5 @@
+---
+summary: Odysseus looks darkly at Agamemnon when the king proposes to launch the ships and flee, and rebukes him in the two verses with which he answered the king's rebuke in Book 4.
+---
+
+“Looking at him darkly, Odysseus of many wiles said: / ‘Son of Atreus, what a word has escaped the barrier of your teeth!’” (14.82–83; see [[odysseus]] and [[what-a-word]]). The two verses are those of Book 4, where Agamemnon, reviewing the army, had accused Odysseus of hanging back from the fighting (4.349–350). There the dark look answered an insult to Odysseus; here it answers a proposal that would shame the army, and the rebuke that follows begins with an insult: “Ruinous man, I wish you were giving orders to some other, unworthy army, / and were not lord over us” (14.84–85; see [[anax]] and [[no-blame-in-fleeing]]). The look is a sign of a breach of what is due (see the article above), and Agamemnon accepts the rebuke (14.104–108). In the Odyssey the same verse introduces Odysseus' answers to those who insult him or wrong his house, from the Phaeacian Euryalus to the suitors (*Odyssey* 8.165, 22.34, 22.60).

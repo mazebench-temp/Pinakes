@@ -1,0 +1,5 @@
+---
+summary: Hera wins Sleep with the promise of “one of the younger Graces” for his wife, Pasithea, whom he has always longed for; she swears it by the Styx.
+---
+
+**One of the younger Graces.** When the golden throne fails, Hera offers Sleep a bride: “one of the younger Graces / to marry and to be called your wife” (Χαρίτων μίαν ὁπλοτεράων, 14.267–268), and Sleep makes her swear to give him “one of the younger Graces, / Pasithea, whom I myself have longed for all my days” (14.275–276; see [[sleep]], [[pasithea]] and [[hera]]). A Grace is the gift that wins him, as Hera, with earrings from which “much grace shone”, goes to win Zeus (14.183; see [[charis]]). ὁπλότεραι, “younger”, implies elder Graces too, and Pausanias reports that some took the phrase to mean that Homer knew of older Graces as well (Pausanias 9.35.4). The Iliad names one other Grace as a wife: Charis, the wife of Hephaestus (18.382–383; see [[hephaestus]]). In Hesiod the youngest of the three Graces, Aglaea, is the wife of Hephaestus (ὁπλοτάτην Χαρίτων, *Theogony* 945–946; see [[hesiod]]).
