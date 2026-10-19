@@ -23,7 +23,7 @@ They are the only contingent whose place in the line of battle the Catalogue giv
 
 ## Elsewhere in Homer
 
-Hector kills two Phocian leaders called Schedius: the son of Perimedes (15.515–516) and the son of Iphitus, "the best of the Phocians", who lived in Panopeus (17.306–311). See [[schedius]].
+Hector kills two Phocian leaders called Schedius: the son of Perimedes (15.515–516; see [[schedius-son-of-perimedes]]) and the son of Iphitus, the best of the Phocians, who lived in Panopeus (17.306–311; see [[schedius]]).
 
 ## Outside Homer
 

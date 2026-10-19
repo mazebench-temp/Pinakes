@@ -8,7 +8,7 @@ aliases: [Koon, Coön, Coon son of Antenor]
 # Κόων at 14.255 and 15.28 is the adverb Κόωνδε, "to Cos", printed as two words (Κόων δʼ):
 # cos claims the phrase; 14.255 is excepted here, and 15.28 will be when Book 15 is indexed.
 grc: [Κόων, Κόωνι]
-except: [14.255]
+except: [14.255, 15.28]
 refs: [11.249-256, 11.258-261]
 relations:
   - father: antenor (11.249)
@@ -20,7 +20,7 @@ passages:
 
 **The brother's grief.** Κόων ἀριδείκετος ἀνδρῶν, “Coon, preeminent among men” (11.248), the praise given to Perseus (14.320), is πρεσβυγενὴς Ἀντηνορίδης, “the eldest-born son of Antenor” (11.249), a word found only here (see [[eldest-born]]). When he sees Agamemnon carrying off Iphidamas' armor, “strong grief / veiled his eyes for his fallen brother” (11.249–250; see [[iphidamas]] and [[antenor]]).
 
-**The wound.** He stands off to one side, unseen, and stabs Agamemnon “in the middle of the arm, below the elbow”, and the point goes straight through (11.251–253). The half-verse στῆ δʼ εὐρὰξ σὺν δουρὶ λαθών, “he stood off to one side with his spear, unseen”, returns when Menelaus spears Dolops (15.541). Agamemnon shudders, but does not stop (11.254–256; see [[agamemnon]]).
+**The wound.** He stands off to one side, unseen, and stabs Agamemnon “in the middle of the arm, below the elbow”, and the point goes straight through (11.251–253). The half-verse στῆ δʼ εὐρὰξ σὺν δουρὶ λαθών, “stood off to one side with his spear, unseen”, returns when Menelaus spears Dolops (15.541). Agamemnon shudders, but does not stop (11.254–256; see [[agamemnon]]).
 
 {{quote:e0f18f9f-1b8c-5a10-ad61-d119d15f1f8b}}
 

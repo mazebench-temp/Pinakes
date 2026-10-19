@@ -20,7 +20,7 @@ passages:
 
 ## Elsewhere in Homer
 
-The Iliad assumes the whole story. Cronus and Iapetus sit in the depths of Tartarus, far from the sun and the winds (8.478–481). Zeus "set Cronus beneath the earth and the barren sea" (14.203–204). Hera swears by "the gods beneath Tartarus, who are called Titans" (14.278–279). Poseidon tells how the three sons of Cronus and Rhea drew lots for the sky, the sea and the misty dark, and left the earth and Olympus common to all (15.187–193).
+The Iliad assumes the whole story. Cronus and Iapetus sit in the depths of Tartarus, far from the sun and the winds (8.478–481). Zeus "set Cronus beneath the earth and the barren sea" (14.203–204). Hera swears by "the gods beneath Tartarus, who are called Titans" (14.278–279). Poseidon tells how the three sons of Cronus and Rhea drew lots for the sky, the sea and the misty dark, and left the earth and Olympus common to all (15.187–193; see [[the-lots-of-the-three-brothers]]).
 
 ## Outside Homer
 

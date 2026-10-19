@@ -1,0 +1,5 @@
+---
+summary: Thoas' plan divides the army: the multitude (πληθύς) is sent back to the ships, while the best men stand together against Hector (15.295–305).
+---
+
+πληθὺν μὲν ποτὶ νῆας ἀνώξομεν ἀπονέεσθαι· / αὐτοὶ δʼ, ὅσσοι ἄριστοι ἐνὶ στρατῷ εὐχόμεθʼ εἶναι, / στήομεν, “Let us order the multitude to go back to the ships; / but let us ourselves, all of us who claim to be the best in the army, / stand firm” (15.295–297; see [[thoas]], [[aristos]] and [[euchomai]]). The plan sets the πληθύς against the ἄριστοι, the mass of the army against those who claim to be its best, as Odysseus in Book 2 spoke one way to the kings and another to the men of the people (2.188–206; see [[odysseus]]). Here the crowd is sent away to spare it, not to shame it: the best are to meet Hector with their spears, and Thoas thinks Hector will be afraid to plunge into the throng (15.297–299). The narrator carries out the plan in the same words: the leaders call the best men together, “but behind them / the multitude went back to the ships of the Achaeans” (15.304–305; see [[battle-order]]). The line of the best breaks when Apollo shakes the aegis (15.318–327; see [[aegis]]).

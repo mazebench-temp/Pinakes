@@ -28,7 +28,7 @@ passages:
 
 The Catalogue lists the fleet that sailed to Troy, but here it stops to say that one of its leaders is already dead. The tense changes with him: he led them "while he lived; but by now the black earth held him fast". See [[the-death-of-protesilaus]].
 
-His ship is still on the beach. When the Trojans reach the ships, Hector seizes the stern of the fair, swift ship "that had brought Protesilaus to Troy, and did not take him home again" (15.704–706). It is the ship the Trojans set on fire, and Patroclus kills his first man beside it and drives them off (16.284–294).
+His ship is still on the beach. When the Trojans reach the ships, Hector seizes the stern of “a fine, swift-sailing ship, which had brought Protesilaus / to Troy, and did not take him back again to his native land” (15.704–706). It is the ship the Trojans set on fire, and Patroclus kills his first man beside it and drives them off (16.284–294).
 
 ## Outside Homer
 

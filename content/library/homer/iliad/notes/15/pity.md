@@ -1,0 +1,5 @@
+---
+summary: Zeus, waking on Ida, sees Hector vomiting blood and pities him; Hera swears that Poseidon pitied the Achaeans hard pressed at the ships; and the same verse of lament introduces Ares' grief for his son and Patroclus' cry at the Achaean rout.
+---
+
+Pity sets the book's two divine plans going. “And seeing him, the father of men and gods pitied him” (ἐλέησε, 15.12): Zeus' pity for Hector, struck down by Ajax's stone, comes before his anger at Hera, and it is the first step of his plan to revive him (see [[zeus]] and [[hector]]). Hera's oath gives Poseidon the same motive on the other side: “he saw the Achaeans hard pressed at the ships and pitied them” (ἐλέησεν, 15.44; see [[oath]] and [[poseidon]]), as the narrator said when the god first came to help them (13.15–16). Each god pities his own side. The verse “and lamenting he spoke a word” (ὀλοφυρόμενος, 15.114 = 15.398) introduces the grief of Ares, struck by the news that his son has fallen (see [[ares]]), and the cry of Patroclus as he sees the Trojans storm the wall; both men strike their thighs with the flat of their hands (see [[patroclus]]).

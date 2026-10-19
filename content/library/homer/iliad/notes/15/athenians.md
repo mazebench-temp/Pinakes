@@ -1,0 +1,5 @@
+---
+summary: Two Athenians die in the rout that follows Apollo's shaking of the aegis: Stichius, “a trusted companion of great-hearted Menestheus”, killed by Hector, and Iasus, “a leader of the Athenians”, killed by Aeneas (15.329–338).
+---
+
+When the Achaeans flee before the aegis, the Trojans kill eight of them in a list (15.328–342; see [[aegis]] and [[androktasia]]). Two are Athenians. Hector kills Stichius, “a trusted companion of great-hearted Menestheus” (15.329–331; see [[stichius]], [[hector]] and [[menestheus]]), who in Book 13 carried the body of Amphimachus with Menestheus and followed him at the head of “the picked men of the Athenians” (13.195–196, 13.689–691). Aeneas kills Iasus, “a leader of the Athenians”, son of Sphelus and grandson of Bucolus, a man named nowhere else (Ἀθηναίων, 15.337–338; see [[iasus]], [[sphelus]], [[bucolus]] and [[aeneas]]). The Catalogue gives the Athenians a single leader, Menestheus (2.552); the battle books add others as they are needed, and here as they die.

@@ -1,0 +1,12 @@
+---
+summary: Teucer's bow, the gift of Apollo, kills Cleitus, the charioteer of Polydamas, and is aimed at Hector himself, until Zeus breaks the new-twisted string. Ajax tells his brother to let the bow lie, and Teucer puts it away in the huts and takes up a spear.
+grc: [νευρῆφι]
+passages:
+  - 15.436-483 | Teucer's bow
+---
+
+**Apollo's gift.** When Hector's spear kills Lycophron, Ajax calls on his brother: “Where now are your arrows / of swift death, and the bow that Phoebus Apollo gave you?” (15.440–441; see [[teucer]] and [[lycophron]]). Only here is Teucer's bow said to come from Apollo, as Pandarus' did (2.827), and the god of the bow is now fighting for the Trojans (15.307–327; see [[apollo]]). Teucer comes running, “holding in his hand the back-bent bow and the quiver / that holds the arrows” (15.443–444; see [[back-bent]] and [[quiver]]), and his first arrow strikes Cleitus, the companion of Polydamas, in the neck as he drives his horses through the battalions (15.445–457; see [[cleitus]]).
+
+**The broken string.** He takes another arrow for Hector, and would have stopped him “if he had hit him while he was the best in the fighting” (15.458–460). But Zeus, guarding Hector, “broke the well-twisted string on his flawless bow / as he was drawing it against him” (ἐϋστρεφέα νευρὴν ἐν ἀμύμονι τόξῳ, 15.463–464; see [[blameless]]); the arrow goes astray, “and the bow fell from his hand” (15.465). The half-verse is the one of Book 8, when Hector's stone struck Teucer by the collarbone and broke his bowstring, and the bow fell from his hand (8.324–329). Teucer had bound the string on that very morning, “so that it might bear the arrows springing thick and fast” (νευρὴν … νεόστροφον, 15.469–470), and he sees a god in it (15.467–470; see [[daimon]]). Hector sees Zeus (15.484–493; see [[the-help-of-zeus-is-easy-to-see]]).
+
+**Bow and spear.** Ajax tells Teucer to let “your bow and your thick-flying arrows / lie”, and to take a long spear and a shield (15.472–475). Teucer “put the bow away in the huts”, and arms as a spearman (15.478–483; see [[spear]] and [[arming-scene]]). The bow has its place in the opening exchange of missiles, when “arrows leapt from the bowstrings” on both sides (ἀπὸ νευρῆφι, 15.313–314; see [[arrows]]); at the last, around Protesilaus' ship, the fighters no longer stand apart to await “the rush of arrows” (τόξων ἀϊκάς, 15.709) but fight hand to hand. The word for the bow in Teucer's mouth and in Ajax's answer is the rarer βιός (15.468, 15.472).

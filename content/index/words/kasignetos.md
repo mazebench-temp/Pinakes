@@ -21,7 +21,7 @@ en: [brother, sister, own brother, own brothers, kinsmen]
 
 **Vengeance.** A brother is the first to avenge a brother. Coon, Antenor's eldest son, strikes Agamemnon to avenge his brother Iphidamas, and is killed over his body (11.248–263).
 
-**The gods.** Zeus, Poseidon and Hades are brothers who divided the world by lot (15.187–193). Hera is Zeus' sister as well as his wife, and he addresses her as “his sister and wife” (κασιγνήτην ἄλοχόν τε, 16.432, 18.356); in Book 4 she claims her rank on both counts (4.58–61). Strife is “the sister and companion of man-slaying Ares” (4.441).
+**The gods.** Zeus, Poseidon and Hades are brothers who divided the world by lot (15.187–193; see [[the-lots-of-the-three-brothers]]). Hera is Zeus' sister as well as his wife, and he addresses her as “his sister and wife” (κασιγνήτην ἄλοχόν τε, 16.432, 18.356); in Book 4 she claims her rank on both counts (4.58–61). Strife is “the sister and companion of man-slaying Ares” (4.441).
 
 {{notes}}
 

@@ -19,4 +19,4 @@ passages:
 
 ## Elsewhere in Homer
 
-Poseidon is a son of Cronus and Rhea (see [[rhea]]). When the sons of Cronus drew lots, he won the sea, Zeus the sky and Hades the dead (Iliad 15.187–193). He favors the Achaeans throughout the Iliad and pursues Odysseus through the Odyssey.
+Poseidon is a son of Cronus and Rhea (see [[rhea]]). When the sons of Cronus drew lots, he won the sea, Zeus the sky and Hades the dead (15.187–193; see [[the-lots-of-the-three-brothers]]). He favors the Achaeans throughout the Iliad and pursues Odysseus through the Odyssey.

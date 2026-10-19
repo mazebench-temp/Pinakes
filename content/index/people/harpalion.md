@@ -17,7 +17,7 @@ passages:
 
 {{quote:4ea2e4fc-2885-5a44-a5bd-93b23be29e28}}
 
-**The son who followed his father.** The narrator gives the end of his life with its beginning: he followed his father to Troy “and did not come back again to his native land” (13.645), the words he will use of the ship that brought Protesilaus to Troy “and did not bring him back again to his native land” (15.705–706; see [[protesilaus]]). He stabs the middle of Menelaus' shield but cannot drive the bronze through, and draws back “glancing all around” (13.646–649; see [[menelaus]]).
+**The son who followed his father.** The narrator gives the end of his life with its beginning: he followed his father to Troy “and did not come back again to his native land” (13.645), the words he will use of the ship that brought Protesilaus to Troy “and did not take him back again to his native land” (15.705–706; see [[protesilaus]]). He stabs the middle of Menelaus' shield but cannot drive the bronze through, and draws back “glancing all around” (13.646–649; see [[menelaus]]).
 
 **The arrow.** Meriones' arrow strikes him in the right buttock and passes under the bone into the bladder (13.650–652), the wound that Meriones gave Phereclus in Book 5, told in nearly the same words (5.66–67; see [[meriones]] and [[phereclus]]). He dies sitting in his companions' arms and lies stretched on the ground like a worm (13.653–655; see [[like-a-worm]]).
 

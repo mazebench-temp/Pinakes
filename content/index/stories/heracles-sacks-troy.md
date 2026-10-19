@@ -6,7 +6,7 @@ period: heracles
 mode: told
 narrator: tlepolemus
 tags: [backstory, warfare, digression]
-summary: A generation before the war, Heracles came to Troy for the horses that Laomedon owed him for a service and kept back, and with only six ships and a few men he sacked the city and widowed its streets. In Book 5 his son Tlepolemus boasts of it to Sarpedon, and Sarpedon answers that the city fell through Laomedon's folly.
+summary: A generation before the war, Heracles came to Troy for the horses that Laomedon owed him for a service and kept back, and with only six ships and a few men he sacked the city and widowed its streets. His son Tlepolemus boasts of it to Sarpedon, who answers that the city fell through Laomedon's folly (5.638–651), and Sleep dates Hera's storm against Heracles by it (14.250–251).
 aliases: [the first sack of Troy, Heracles and Laomedon, the horses of Laomedon]
 participants: [heracles, laomedon, tlepolemus, sarpedon, trojans]
 passages:

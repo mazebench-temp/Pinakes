@@ -30,7 +30,7 @@ passages:
 
 **While Zeus sleeps.** Sleep runs to tell Poseidon to help the Danaans “while he still sleeps” (14.354–360). Poseidon leads the Argives openly, holding a sword like lightning; Ajax strikes Hector down with a stone, and the Trojans are routed (14.361–522; see [[poseidon-rallies-the-achaeans]], [[hector]] and [[ajax]]).
 
-**Zeus wakes.** On the peaks of Ida, beside Hera, Zeus wakes and sees the Trojans in flight, Poseidon among the Argives and Hector lying on the plain, vomiting blood. He calls her trick κακότεχνος, “evil-working”, and reminds her how he hung her from the sky when she drove Heracles to Cos. Hera swears by Earth and Heaven, the water of Styx, his head and their marriage bed that Poseidon acts of his own accord; Zeus smiles, sends her to fetch Iris and Apollo, and sets out his plan to the death of Hector and the fall of Ilios (15.4–77).
+**Zeus wakes.** On the peaks of Ida, beside Hera, Zeus wakes and sees the Trojans in flight, Poseidon among the Argives and Hector lying on the plain, vomiting blood. He calls her trick κακότεχνος, “evil-working”, and reminds her how he hung her from the sky when she drove Heracles to Cos (see [[hera-hung-from-the-sky]]). Hera swears by Earth and Heaven, the water of Styx, his head and their marriage bed that Poseidon acts of his own accord; Zeus smiles, sends her to fetch Iris and Apollo, and sets out his plan to the death of Hector and the fall of Ilios (15.4–77).
 
 ## In the poem
 

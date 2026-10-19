@@ -17,7 +17,7 @@ The Trojans have rallied under Hector, Ares and Apollo, and the Achaeans stand l
 
 The claim that shame saves lives is not a paradox. In Homer the man who turns his back is the man most easily killed: Agamemnon's first victim in this book was the leader of the Halizones, speared in the back “as the man was the first to turn” (5.40), and Menelaus kills the hunter Scamandrius “in the back as he fled before him” (5.56). Agamemnon himself then kills Deicoon, a man in the front rank, with a spear through his shield (5.533–540).
 
-Telamonian Ajax speaks the same lines in the battle at the ships, with a different first verse: “Friends, be men, and put shame in your hearts” (αἰδῶ θέσθʼ ἐνὶ θυμῷ, 15.561–564). The one-word form of the appeal is αἰδώς, “Shame!”, with which Hera, in the likeness of Stentor, rallies the Argives at the end of this book (5.787; see [[aidos]]).
+Telamonian Ajax speaks the same lines in the battle at the ships, with a different first verse: “Friends, be men, and set shame in your hearts” (αἰδῶ θέσθʼ ἐνὶ θυμῷ, 15.561–564). The one-word form of the appeal is αἰδώς, “Shame!”, with which Hera, in the likeness of Stentor, rallies the Argives at the end of this book (5.787; see [[aidos]]).
 
 ## Outside Homer
 

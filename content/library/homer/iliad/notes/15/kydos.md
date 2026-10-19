@@ -1,0 +1,7 @@
+---
+summary: Glory is Zeus' to give and take in Book 15. Apollo grants it to the Trojans and Hector; Zeus takes it from the Argives and holds it out to Hector until a ship burns, and then will hold it out to the Danaans; Hector says that Zeus puts the higher glory into the hands of some men, and an Achaean's stumble puts it into Hector's.
+passages:
+  - 15.592-614 | Zeus holds out glory to Hector
+---
+
+Apollo, shaking the aegis, “sent rout among them, and granted glory to the Trojans and Hector” (κῦδος ὄπαζεν, 15.327; see [[aegis]]). Hector, reading Teucer's broken bowstring, says that the help of Zeus is known “both in those into whose hands he puts the higher glory / and in those whom he diminishes” (κῦδος ὑπέρτερον ἐγγυαλίξῃ, 15.491–492; see [[the-help-of-zeus-is-easy-to-see]]). The narrator then tells how long the gift will last. Zeus “took away their glory” from the Argives, “For his heart wished to hold out glory to Hector”, until the ships burned; from then on he would make the counterattack from the ships and “hold out glory to the Danaans” (15.594–602; see [[plan-of-zeus]]). Zeus “honored him and gave him glory” (τίμα καὶ κύδαινε, 15.612; see [[time]]), and the verse goes on, “Short-lived he was to be”. The higher glory comes to Hector at last through an accident: Periphetes, tripping on the rim of his shield, “he it was who then put the higher glory into Hector's hands” (15.644; see [[periphetes-of-mycenae]]).

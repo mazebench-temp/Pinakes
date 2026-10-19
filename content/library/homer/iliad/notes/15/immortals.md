@@ -1,0 +1,5 @@
+---
+summary: The immortals are named seven times in the Olympian scenes of the book: Zeus will let none of them help the Danaans, they gather in his house, and Ares nearly brings his anger down on them all.
+---
+
+All seven uses fall within the hundred verses between Zeus' waking and Hera's dispatch of Iris and Apollo (15.50–144; [[olympians]], [[olympus]]). Zeus will have Hera “sit among the immortals thinking as I do” (15.50), and until Achilles' wish is fulfilled he will not let “any other / of the immortals defend the Danaans here” (15.72–73; [[plan-of-zeus]]). Hera comes upon them “gathered together, / the immortal gods, in the house of Zeus” (15.84–85), and tells Themis that she will hear “with all the immortals” what evil deeds Zeus makes known (15.96; [[themis-the-goddess]]). Hera tells the gods that Zeus “says that among the immortal gods / in power and in strength he is far the best” (15.107–108). When Ares arms, “another, still greater and more grievous, / anger and wrath would have come from Zeus upon the immortals” (15.121–122; [[menis]], [[ares]]), had Athena not stopped him. Iris is “the messenger among the immortal gods” (15.144; [[iris]]).

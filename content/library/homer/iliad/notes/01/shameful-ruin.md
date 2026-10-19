@@ -1,3 +1,7 @@
+---
+summary: A recurring phrase of Book 1, used four times. Calchas says Apollo will not "thrust this shameful ruin away", and Chryses finally prays him to "ward off this shameful ruin". In between, Achilles and Thetis speak of the ruin only Achilles can keep off.
+---
+
 {{quote:748f2471-0845-5dd9-baec-5438aea6648d}}
 
 Calchas: the far-shooter will not thrust away the shameful ruin until the girl is returned.

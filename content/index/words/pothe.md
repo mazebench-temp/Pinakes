@@ -3,7 +3,7 @@ title: Longing
 greek: ποθή
 kind: term
 tags: [mind, foreshadowing]
-summary: Longing for someone or something absent. [[Achilles]] swears that a longing for him will seize the Achaeans; withdrawn from the fighting, he himself longs for the war cry and for battle.
+summary: Longing for someone or something absent: an army's longing for a leader who has left it, and a warrior's longing for the battle he is kept from.
 aliases: [pothē, pothe, potheō, yearning]
 grc: [ποθὴ, ποθέεσκε]
 en: [longing, longed]

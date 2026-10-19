@@ -1,0 +1,404 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 77,
+      "title": "Zeus Wakes on Ida",
+      "summary": "Zeus wakes on the peaks of Ida beside Hera and sees the Trojans routed, Poseidon among the Achaeans, and Hector lying on the plain, gasping and vomiting blood. He threatens Hera with a beating and reminds her how he once hung her from the sky with anvils on her feet, after she drove Heracles off course to Cos. Hera swears by Earth, Heaven and the water of Styx that Poseidon acts on his own. Zeus, smiling, sends her to fetch Iris and Apollo: Iris will order Poseidon out of the battle, Apollo will revive Hector, and the Achaeans will flee to the ships of Achilles. He foretells the course of the war: Patroclus will kill Sarpedon and be killed by Hector, Achilles will kill Hector, and from then on the Achaeans will drive the Trojans back until they take Ilios."
+    },
+    {
+      "from": 78,
+      "to": 148,
+      "title": "Hera Among the Gods",
+      "summary": "Swift as the thought of a traveler, Hera goes to Olympus, where the gods rise to greet her with cups; she takes the cup of Themis. In front of them all she complains that they are fools to rage against Zeus, who sits apart and cares nothing for them, and tells Ares that his son Ascalaphus has been killed. Ares strikes his thighs and calls for his horses to go and avenge his son, even if the thunderbolt of Zeus should strike him. Athena, fearing the anger of Zeus for all the gods, takes the helmet from his head, the shield from his shoulders and the spear from his hand, rebukes him and sits him down. Hera calls Apollo and Iris and sends them to Ida."
+    },
+    {
+      "from": 149,
+      "to": 219,
+      "title": "Poseidon Yields",
+      "summary": "Zeus, sitting in a fragrant cloud on Gargarus, sends Iris to order Poseidon out of the battle, since he is the elder and the stronger. Poseidon answers that he and his brothers Zeus and Hades are equal in honor: the world was divided in three by lot, and the earth and Olympus are common to all. Iris asks whether she should carry back so harsh an answer, reminding him that the Erinyes follow the elder brother. Poseidon yields, praising a messenger who knows what is fitting, but warns that if Zeus spares Ilios against the will of the gods who favor the Achaeans, there will be anger between them beyond healing. He leaves the battle and plunges into the sea."
+    },
+    {
+      "from": 220,
+      "to": 280,
+      "title": "Apollo Revives Hector",
+      "summary": "Zeus sends Apollo with the aegis to rout the Achaeans and to rouse Hector until they flee to the ships and the Hellespont. Apollo flies down like a hawk and finds Hector sitting up, just recovering. Hector asks who he is; Apollo names himself, promises to clear the way, and breathes might into him. Hector runs to the battle like a stalled horse that breaks its halter and gallops to the river, and the Achaeans, who were pursuing like hunters after a stag, fall back as if a lion had appeared in their path."
+    },
+    {
+      "from": 281,
+      "to": 305,
+      "title": "Thoas' Counsel",
+      "summary": "Thoas, son of Andraemon, the best of the Aetolians with the javelin and in debate, sees a god at work in Hector's return. He advises sending the mass of the army back to the ships while the best men stand together and meet Hector with their spears. Ajax, Idomeneus, Teucer, Meriones and Meges call the best men together and form a line against the Trojans, and the rest withdraw to the ships."
+    },
+    {
+      "from": 306,
+      "to": 366,
+      "title": "Apollo Shakes the Aegis",
+      "summary": "The Trojans charge behind Hector, and Apollo goes before them wrapped in cloud, holding the aegis that Hephaestus made for Zeus. While he holds it still, the missiles of both sides strike home; when he shakes it in the faces of the Danaans and shouts, he bewitches their hearts and they forget their courage, like cattle scattered by two beasts at night. Hector, Aeneas, Polydamas, Polites, Agenor and Paris kill Achaeans, among them Medon, the half-brother of the Locrian Ajax, and the Athenian Iasus. The Achaeans flee into the wall across the ditch. Hector orders the Trojans to make for the ships and leave the spoils. Apollo kicks down the banks of the ditch to make a causeway and throws down the wall as easily as a boy scatters his sandcastle."
+    },
+    {
+      "from": 367,
+      "to": 389,
+      "title": "The Trojans at the Ships",
+      "summary": "The Achaeans halt by the ships and pray, and Nestor asks Zeus to remember the thigh pieces burned to him in Argos. Zeus thunders, and the Trojans, taking heart from the sound, pour over the wall like a great wave over the side of a ship. They fight at the sterns, the Trojans from their chariots, the Achaeans from the decks with the long spears made for fighting at sea."
+    },
+    {
+      "from": 390,
+      "to": 404,
+      "title": "Patroclus Leaves Eurypylus",
+      "summary": "Patroclus has been sitting in the hut of the wounded Eurypylus, cheering him with talk and laying drugs on his wound. When he sees the Trojans over the wall and hears the cries of the Danaans, he strikes his thighs and leaves Eurypylus to his attendant, to go and try to persuade Achilles."
+    },
+    {
+      "from": 405,
+      "to": 483,
+      "title": "Ajax and Teucer at the Ships",
+      "summary": "The battle is stretched as evenly as a carpenter's line makes a timber straight, and Hector and Ajax struggle over a single ship. Ajax kills Caletor, Hector's cousin, as he brings fire; Hector's spear misses Ajax and kills his attendant Lycophron of Cythera. Ajax calls on Teucer, whose arrow kills Polydamas' charioteer Cleitus; but when he aims at Hector, Zeus snaps his bowstring. Ajax tells him to leave the bow, since a god has spoiled it, and to fight with a spear and shield."
+    },
+    {
+      "from": 484,
+      "to": 591,
+      "title": "Hector and Ajax Rally Their Men",
+      "summary": "Hector, seeing that Zeus has foiled Teucer's arrows, tells the Trojans that the help of Zeus is plain to see and that a man who dies for his country leaves his wife, children and land safe. Ajax tells the Argives that Hector calls them to battle, not to a dance, and that it is better to live or die at once than to be ground down by worse men. Hector kills Schedius, Ajax kills Laodamas, and Polydamas kills Otus of Cyllene. Dolops, son of Lampus, strikes Meges' corselet, which came from Ephyra, and Meges shears the plume from his helmet; Menelaus kills him from behind. Hector rebukes his cousin Melanippus, Ajax shames the Achaeans, Menelaus spurs on Antilochus, who kills Melanippus, and Antilochus flees from Hector like a beast that has killed a dog or a herdsman."
+    },
+    {
+      "from": 592,
+      "to": 673,
+      "title": "Hector Rages Among the Ships",
+      "summary": "The Trojans attack like lions, fulfilling the purpose of Zeus, who waits to see a ship burn, for that is the moment the tide will turn. Hector rages like Ares or a forest fire, foaming at the mouth, honored by Zeus because his life is short. The Achaeans hold like a sea cliff, but Hector falls on them like a wave on a ship, and they scatter like cattle before a lion. He kills Periphetes of Mycenae, a better son of a worse father, who trips on his own shield. The Achaeans fall back from the first ships to the huts. Nestor begs them to stand for the sake of their children and parents, and Athena takes the mist from their eyes."
+    },
+    {
+      "from": 674,
+      "to": 746,
+      "title": "Ajax on the Decks",
+      "summary": "Ajax strides from deck to deck with a spear twenty-two cubits long, leaping from ship to ship like a man who rides four horses at once, and shouts to the Danaans to defend the ships. Hector swoops like an eagle on a ship, pushed on by the hand of Zeus. The two sides fight with axes and swords at close quarters, and Hector seizes the stern of the ship that brought Protesilaus and calls for fire: Zeus has given them a day worth all the rest. Ajax, overwhelmed by missiles, falls back to the seven-foot bench and keeps off with his spear every Trojan who brings fire, shouting that the Achaeans have no wall or city behind them and no safety except in their hands. He kills twelve men in front of the ships."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 14,
+      "to": 33,
+      "speaker": "zeus",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "threat"
+    },
+    {
+      "from": 36,
+      "to": 46,
+      "speaker": "hera",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "oath"
+    },
+    {
+      "from": 49,
+      "to": 77,
+      "speaker": "zeus",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 82,
+      "to": 82,
+      "speaker": "the-travelers-thought",
+      "to_whom": [],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 90,
+      "to": 91,
+      "speaker": "themis-the-goddess",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 93,
+      "to": 99,
+      "speaker": "hera",
+      "to_whom": [
+        "themis-the-goddess"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 104,
+      "to": 112,
+      "speaker": "hera",
+      "to_whom": [
+        "olympians"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 115,
+      "to": 118,
+      "speaker": "ares",
+      "to_whom": [
+        "olympians"
+      ],
+      "kind": "protest"
+    },
+    {
+      "from": 128,
+      "to": 141,
+      "speaker": "athena",
+      "to_whom": [
+        "ares"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 146,
+      "to": 148,
+      "speaker": "hera",
+      "to_whom": [
+        "apollo",
+        "iris"
+      ],
+      "kind": "message"
+    },
+    {
+      "from": 158,
+      "to": 167,
+      "speaker": "zeus",
+      "to_whom": [
+        "iris"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 174,
+      "to": 183,
+      "speaker": "iris",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "message"
+    },
+    {
+      "from": 185,
+      "to": 199,
+      "speaker": "poseidon",
+      "to_whom": [
+        "iris"
+      ],
+      "kind": "retort"
+    },
+    {
+      "from": 201,
+      "to": 204,
+      "speaker": "iris",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 206,
+      "to": 217,
+      "speaker": "poseidon",
+      "to_whom": [
+        "iris"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 221,
+      "to": 235,
+      "speaker": "zeus",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 244,
+      "to": 245,
+      "speaker": "apollo",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 247,
+      "to": 252,
+      "speaker": "hector",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 254,
+      "to": 261,
+      "speaker": "apollo",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 286,
+      "to": 299,
+      "speaker": "thoas",
+      "to_whom": [
+        "achaeans"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 347,
+      "to": 351,
+      "speaker": "hector",
+      "to_whom": [
+        "trojans"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 372,
+      "to": 376,
+      "speaker": "nestor",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 399,
+      "to": 404,
+      "speaker": "patroclus",
+      "to_whom": [
+        "eurypylus"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 425,
+      "to": 428,
+      "speaker": "hector",
+      "to_whom": [
+        "trojans",
+        "lycians",
+        "dardanians"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 437,
+      "to": 441,
+      "speaker": "ajax",
+      "to_whom": [
+        "teucer"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 467,
+      "to": 470,
+      "speaker": "teucer",
+      "to_whom": [
+        "ajax"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 472,
+      "to": 477,
+      "speaker": "ajax",
+      "to_whom": [
+        "teucer"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 486,
+      "to": 499,
+      "speaker": "hector",
+      "to_whom": [
+        "trojans",
+        "lycians",
+        "dardanians"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 502,
+      "to": 513,
+      "speaker": "ajax",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 553,
+      "to": 558,
+      "speaker": "hector",
+      "to_whom": [
+        "melanippus-son-of-hicetaon"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 561,
+      "to": 564,
+      "speaker": "ajax",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 569,
+      "to": 571,
+      "speaker": "menelaus",
+      "to_whom": [
+        "antilochus"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 661,
+      "to": 666,
+      "speaker": "nestor",
+      "to_whom": [
+        "achaeans"
+      ],
+      "kind": "entreaty"
+    },
+    {
+      "from": 718,
+      "to": 725,
+      "speaker": "hector",
+      "to_whom": [
+        "trojans"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 733,
+      "to": 741,
+      "speaker": "ajax",
+      "to_whom": [
+        "danaans"
+      ],
+      "kind": "exhortation"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 746,
+      "label": "Day 26",
+      "note": "The third day of battle continues (11.1 to 18.242). Zeus, who fell asleep on Gargarus in Book 14, wakes on Ida (15.4–5); Book 15 marks no hour and ends with Ajax holding the Trojans off from the ships."
+    }
+  ]
+}

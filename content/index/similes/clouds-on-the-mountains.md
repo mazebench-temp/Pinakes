@@ -29,3 +29,5 @@ The North Wind, asleep in the simile, blows in the story before the book is out.
 ## Elsewhere in Homer
 
 Zeus sets other things in the sky as signs. The serpents on Agamemnon's corselet are “like the rainbows that the son of Cronus sets in the clouds, a portent for mortal men” (11.27–28), in a line built like this one. The Trojan watch fires burn like the stars around the moon on a windless night (νήνεμος αἰθήρ), when every lookout and headland stands out and the shepherd rejoices in his heart (8.555–559). In the Odyssey, as the ship nears the Sirens, the wind drops, “and there was a windless calm (νηνεμίη), and a god lulled the waves to sleep” (Odyssey 12.168–169).
+
+The verse of the tenor returns in Book 15 for another picture of the Danaans standing firm. There the winds are not asleep: the Danaans hold against Hector like a great sheer rock by the gray sea, which withstands the swift paths of the shrill winds and the swollen waves (15.618–622; 15.622 = 5.527; see [[the-rock-by-the-sea]]).

@@ -1,0 +1,5 @@
+---
+summary: Iris speaks to “the famous shaker of the earth,” the shaker of the earth answers her, deeply troubled, leaves the Achaean army and plunges into the sea, and Zeus tells Apollo that “the earth-holder, the shaker of the earth” has gone.
+---
+
+The title marks each stage of Poseidon's withdrawal. Iris comes to him: “And standing near she spoke to the famous shaker of the earth” (15.173; [[iris]], [[famous]]). He answers: “Deeply troubled, the famous shaker of the earth said to her” (15.184), and claims his equal share as one of three brothers (15.185–199; [[the-lots-of-the-three-brothers]]). He yields: “So saying, the shaker of the earth left the Achaean army, / and went and plunged into the sea; and the Achaean heroes missed him” (15.218–219; [[achaeans]], [[sea]]). And Zeus reports it: “for already the earth-holder, the shaker of the earth, / has gone into the shining sea” (15.222–223; [[earth-holder]], [[shining-sea]]). The epithets that framed his intervention in Books 13 and 14 frame its end. See [[poseidon]].

@@ -5,7 +5,7 @@ passages:
   - 14.346-351 | The earth flowers beneath Zeus and Hera
 ---
 
-**The oath.** Sleep has Hera swear by the Styx, “and with one hand take hold of the bountiful earth, / and with the other the gleaming sea”, so that the gods below may witness it (14.271–274; see [[bountiful-earth]], [[sea]], [[styx]] and [[oath]]). Touching the earth calls on it and on the powers under it: in the Homeric *Hymn to Apollo* Hera strikes the earth with her hand when she prays to Earth, Heaven and the Titans beneath it (*Hymn to Apollo* 332–336; see [[titans]]). In the next book she swears to Zeus by Earth first of all, “Let Earth know this now, and broad Heaven above” (15.36).
+**The oath.** Sleep has Hera swear by the Styx, “and with one hand take hold of the bountiful earth, / and with the other the gleaming sea”, so that the gods below may witness it (14.271–274; see [[bountiful-earth]], [[sea]], [[styx]] and [[oath]]). Touching the earth calls on it and on the powers under it: in the Homeric *Hymn to Apollo* Hera strikes the earth with her hand when she prays to Earth, Heaven and the Titans beneath it (*Hymn to Apollo* 332–336; see [[titans]]). In the next book she swears to Zeus by Earth first of all, “Let Earth now be witness to this, and the wide Heaven above” (15.36).
 
 **The flowering earth.** When Zeus takes Hera in his arms, “the shining earth sent up fresh-sprung grass, / and dewy lotus, and crocus, and hyacinth, / thick and soft, which held them up off the ground” (14.347–349; see [[lotus]], [[crocus]], [[hyacinth]] and [[the-deception-of-zeus]]). χθὼν δῖα, “the shining earth”, gives the gods a bed and lifts them off the bare ground of the peak that Hera feared was too open (14.331–336).
 

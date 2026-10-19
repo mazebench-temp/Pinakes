@@ -6,7 +6,7 @@ tags: [king, dodecanese]
 summary: The king whose city was [[Cos]]: the Catalogue calls the island "the city of Eurypylus". Not the Thessalian [[eurypylus|Eurypylus]], son of Euaemon.
 grc: [Εὐρυπύλοιο]
 en: [Eurypylus]
-except: [2.736]
+except: [2.736, 15.392]
 ---
 
 {{quote:501bb407-ca0c-512e-9a4c-72f2a97b1fe9}}

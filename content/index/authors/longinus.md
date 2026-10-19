@@ -15,3 +15,4 @@ Its author holds that sublimity comes first of all from greatness of mind, “th
 - The leap of the gods' horses: [[longinus-horses-of-the-gods]].
 - The battle of the gods and the wounded gods: [[longinus-wounded-gods]].
 - The advance of Poseidon: [[longinus-poseidons-advance]].
+- Homer raging like Hector, in the simile of the fire in the mountains: [[longinus-homers-fury]].

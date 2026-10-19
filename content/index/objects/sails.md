@@ -3,7 +3,7 @@ title: Sails
 greek: ἱστίον
 kind: object
 tags: [ship, seafaring]
-summary: The white sails of the ship to Chryse, furled on arrival and spread again when Apollo sends a following wind.
+summary: The sails of a ship, ἱστία, furled on arrival and spread to a following wind.
 aliases: [sail]
 grc: [ἱστία, ἱστίον]
 en: [sails, sail]

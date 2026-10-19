@@ -1,0 +1,7 @@
+---
+summary: Ares tells Terror and Rout to yoke his horses when he learns that his son Ascalaphus is dead (15.119–120). The common noun runs through the book: the aegis is made “to put men to rout”, and Apollo, shaking it, “sent rout among” the Achaeans.
+---
+
+**Ares' groom.** Hera's news that Ascalaphus has been killed sends Ares to his armor: “So he spoke, and he told Terror and Rout to yoke / his horses” (15.119–120; see [[ares]], [[terror]] and [[ascalaphus]]). Rout is Ares' “dear son” in the simile of Book 13 (13.299); here father and son make ready to go to war together, until Athena stops them (15.121–142; see [[athena]] and [[ares-and-rout]]). It is the last time Homer names Rout as a person.
+
+**The common noun.** The rout of the army is the subject of the book. Zeus wakes to see the Trojans “in their rout” (πεφοβημένοι, 15.4) and tells Hera that her trick “put the army to rout” (15.15; see [[zeus]]). He gives Apollo the aegis to “put the Achaean heroes to flight” (15.230), the aegis that Hephaestus gave Zeus “to put men to rout” (ἐς φόβον ἀνδρῶν, 15.310; see [[aegis]]), and when Apollo shakes it, “the Achaeans fled in rout, their courage gone; for Apollo / sent rout among them” (15.326–327; see [[apollo]]). When the Trojans come over the wall, there rises among the Danaans “shouting and rout” (15.396), and Nestor begs them to stand firm “and not to turn to rout” (φόβον δέ, that is φόβονδε, 15.666; see [[nestor]]). The translation keeps “rout” for an army in flight (see [[phobos]]).

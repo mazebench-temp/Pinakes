@@ -41,7 +41,7 @@ Book 1 gives no story of Cronus, but its only myth of the gods' early days assum
 
 ## Elsewhere in Homer
 
-Later books of the Iliad place Cronus below earth and sea with Iapetus, “and deep Tartarus is all around them” (8.478–481). They also tell how Zeus “put Cronus / down beneath the earth and the barren sea” (14.203–204; see [[titans]]), and how the three sons of Cronus and Rhea divided the world by lot (15.187–193; see [[rhea]]). Hera calls him ἀγκυλομήτης, "crooked-counseling" (4.59).
+Later books of the Iliad place Cronus below earth and sea with Iapetus, “and deep Tartarus is all around them” (8.478–481). They also tell how Zeus “put Cronus / down beneath the earth and the barren sea” (14.203–204; see [[titans]]), and how the three sons of Cronus and Rhea divided the world by lot (15.187–193; see [[rhea]] and [[the-lots-of-the-three-brothers]]). Hera calls him ἀγκυλομήτης, "crooked-counseling" (4.59).
 
 ## Outside Homer
 

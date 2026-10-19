@@ -3,7 +3,7 @@ title: Ruin
 greek: λοιγός
 kind: term
 tags: [fate]
-summary: Ruin, destruction, death on a large scale. The formula “ward off shameful ruin” ties together Apollo's plague, [[Achilles]]' future usefulness to the Achaeans, and [[Thetis]]' old service to Zeus.
+summary: Ruin, destruction, death on a large scale, which gods and men are asked to ward off.
 aliases: [loigos, loigios, destruction]
 grc: [λοιγὸν, λοίγια]
 en: [ruin, sorry business]

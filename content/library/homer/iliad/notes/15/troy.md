@@ -1,0 +1,8 @@
+---
+summary: Zeus foretells that the Achaeans will take steep Ilios through the counsels of Athena, and Poseidon threatens incurable anger if Zeus spares it. At the ships Hector fights for the city and its citizens, while Ajax reminds the Achaeans that they have no city behind them.
+refs: [15.257, 15.351]
+---
+
+**The end foretold.** Zeus tells Hera that once Hector is dead the counterattack from the ships will go on “until the Achaeans / take steep Ilios through the counsels of Athena” (15.70–71; see [[plan-of-zeus]] and [[athena]]): the wooden horse, which Epeius built “with Athena” (*Odyssey* 8.493). Poseidon, yielding to Zeus, warns that if Zeus “spares steep Ilios, and will not consent / to sack it” against the will of the gods who favor the Achaeans, there will be “incurable anger” between them (15.213–217; see [[poseidon]]).
+
+**The city behind the battle.** Apollo reminds Hector that he has protected him before, “both you yourself and your steep citadel” (15.257; see [[apollo]]). Hector threatens that the laggard will be torn by dogs “in front of our city” (15.351), and tells Melanippus, who came back to Ilios from Percote when the Achaeans came (15.550), that they must fight on until either they kill the Argives, “or from top to bottom / they take steep Ilios and kill its citizens” (15.557–558; see [[hector]] and [[melanippus-son-of-hicetaon]]). The ship that Hector seizes brought Protesilaus “to Troy, and did not take him back again to his native land” (15.706; see [[protesilaus]]). On the other side Ajax tells the Achaeans that there is no city near, “fitted with towers”, where they could defend themselves (15.737; see [[ajax]]).

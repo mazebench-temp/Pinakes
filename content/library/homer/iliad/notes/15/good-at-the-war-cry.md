@@ -1,0 +1,5 @@
+---
+summary: Hector tells Apollo that “Ajax, good at the war cry,” struck him with a stone; Menelaus, good at the war cry, urges on Antilochus; and the Achaeans, their sight cleared, see “Hector, good at the war cry.”
+---
+
+The formula is given to three men, and two of them are unusual. Hector, still dazed, answers Apollo: “Have you not heard that at the sterns of the ships of the Achaeans, / as I was killing his companions, Ajax, good at the war cry, struck me / on the chest with a stone” (15.248–250; [[hector]], [[ajax]], [[stone-throwing]]). It is the only time Ajax has this epithet, and he has it in the mouth of the man he felled. Menelaus has it in its usual place: “And Menelaus, good at the war cry, urged on Antilochus” (15.568; [[menelaus]], [[antilochus]]). And when Athena has cleared the mist from the Achaeans' eyes, “they saw Hector, good at the war cry, and his companions” (15.671; [[athena]], [[common-to-all]]), as Poseidon named him when he was fighting at the ships in Book 13 (13.123).

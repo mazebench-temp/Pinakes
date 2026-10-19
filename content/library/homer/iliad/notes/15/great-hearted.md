@@ -1,0 +1,5 @@
+---
+summary: Stichius was a companion of “great-hearted Menestheus,” Ajax tells Teucer that “great-hearted Hector” has killed their companion, Otus was a leader of “the great-hearted Epeians,” and “great-hearted Ajax” takes to the decks of the ships.
+---
+
+Four uses, each in a different setting. In the list of the slain, Stichius was “a trusted companion of great-hearted Menestheus” (15.331; [[stichius]], [[menestheus]], [[trusted-companion]]), and Otus of Cyllene “companion of the son of Phyleus, and a leader of the great-hearted Epeians” (15.519; [[otus-of-cyllene]], [[epeians]], [[meges]]). In Ajax's mouth the epithet is given to the enemy: “and great-hearted Hector has killed him” (15.440; [[hector]], [[lycophron]]), of the companion who had lived in his house. And at the climax of the book, “Nor did it please the heart of great-hearted Ajax any longer / to stand where the other sons of the Achaeans had stood back” (15.674–675; [[ajax]], [[sons-of-the-achaeans]]), with the synonym μεγαλήτωρ, as he goes up on the decks with his great spear.

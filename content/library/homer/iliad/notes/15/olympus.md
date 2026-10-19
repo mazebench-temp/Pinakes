@@ -1,0 +1,9 @@
+---
+summary: Hera flies back from Ida to “steep Olympus”, where the gods sit in the house of Zeus; Athena warns Ares that Zeus would come back there to throw them into tumult; and in Poseidon's account of the lots the earth and “high Olympus” are common to all three brothers.
+---
+
+**From Ida to Olympus.** Zeus sits on Ida, and the gods on Olympus. Hera goes “from the mountains of Ida to high Olympus” (15.79; see [[ida]] and [[high-olympus]]), as swiftly as a traveler's thought darts from place to place, “and she came to steep Olympus” (15.80–84; see [[the-travelers-thought]] and [[steep]]), where the gods are gathered “in the house of Zeus” (Διὸς δόμῳ, 15.85; see [[houses-of-the-gods]] and [[olympians]]). Apollo and Iris go the other way, from Olympus to Gargarus (15.143–153; see [[gargarus]]). Zeus' memory of Hera's punishment is set there too: when he hung her from the sky, “the gods chafed throughout high Olympus” (15.21; see [[hera-hung-from-the-sky]]).
+
+**Back to Olympus.** Athena asks Ares whether he wants to fill up the measure of many evils and then “to come back to Olympus, grieving though you are, under compulsion” (Οὔλυμπον δέ, that is Οὔλυμπόνδε, 15.132–133; see the translation's note on 15.133). It is the threat of Book 8, that a god who went down to help either side would come back to Olympus “struck in no seemly way” (8.10–12; see [[zeus]]). Worse, Zeus would come “to Olympus to throw us into tumult” (15.136; see [[athena]] and [[ares]]).
+
+**Common to all.** In Poseidon's account of the division, each brother got his share by lot, the sea, the misty darkness and the sky, “but the earth is still common to all, and high Olympus” (15.190–193; see [[the-lots-of-the-three-brothers]] and [[earth]]). Zeus' lot is “the wide sky, in the upper air and the clouds” (15.192; see [[sky]]); Olympus, where the gods live and meet, belongs to none of the three alone.

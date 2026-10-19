@@ -1,0 +1,7 @@
+---
+summary: Iris brings Poseidon a message “from aegis-bearing Zeus,” the mind of aegis-bearing Zeus rouses the fallen Hector, and the Trojans hear the thunder of aegis-bearing Zeus as Nestor prays; in this book the aegis itself goes into battle in Apollo's hands.
+---
+
+The genitive Διὸς αἰγιόχοιο closes three verses. Iris tells Poseidon: “A message for you, dark-haired earth-holder, / I have come here bringing, from aegis-bearing Zeus” (15.174–175; [[iris]], [[poseidon]], [[dark-haired]], [[earth-holder]]). When Apollo finds Hector sitting up, “the gasping and the sweat / had stopped, since the mind of aegis-bearing Zeus had roused him” (15.241–242; [[hector]], [[apollo]]). The verse-end Διὸς νόος αἰγιόχοιο named in Book 14 the mind that Hera and Sleep beguiled (14.160, 14.252); here the mind is awake and at work, and the Odyssey uses the same half-verse of Odysseus, roused against the suitors (*Odyssey* 24.164). And when Nestor prays at the ships and Zeus answers with thunder, “the Trojans, when they heard the thunder of aegis-bearing Zeus, / sprang on the Argives more fiercely” (15.379–380; [[nestor]], [[counselor]], [[prayer]]).
+
+In this book the aegis leaves the hands of Zeus. He gives it to Apollo, “the tasseled aegis” (15.229), and Apollo carries it before Hector, shakes it in the faces of the Danaans, and holds it as he throws down the wall (15.307–322, 15.360–361; [[aegis]], [[tasseled]], [[furious]], [[precious]]). See [[zeus]].

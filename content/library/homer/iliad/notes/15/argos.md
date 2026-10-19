@@ -1,0 +1,5 @@
+---
+summary: Argos is named twice: Zeus brought Heracles back from Cos “to horse-pasturing Argos”, and Nestor prays by the thigh pieces that any man burned to Zeus “in Argos rich in wheat”, praying to return (15.30, 15.372).
+---
+
+Ἄργος ἐς ἱππόβοτον, “to horse-pasturing Argos” (15.30; see [[horse-pasturing]]): Zeus reminds Hera how he rescued Heracles from Cos, where her storms had carried him, and brought him home (15.25–30; see [[heracles]], [[hera-drives-heracles-to-cos]] and [[cos]]). Argos is Heracles' home; in Agamemnon's story in Book 19, Hera hastened the birth of Eurystheus so that he, not Heracles, would rule the Argives (19.95–124; see [[eurystheus]]). ἐν Ἄργεΐ περ πολυπύρῳ, “in Argos rich in wheat” (15.372; see [[rich-in-wheat]]): in Nestor's prayer Argos is the homeland of the whole army, where any man might have burned thigh pieces to Zeus and prayed “that he might return” (15.372–374; see [[nestor]] and [[nostos]]). πολύπυρος is said elsewhere in the Iliad only of Buprasium (11.756; see [[buprasium]]).

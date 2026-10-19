@@ -1,0 +1,5 @@
+---
+summary: Apollo bids Hector drive the horsemen “against the hollow ships,” Hector calls on his men to fight “along the hollow ships,” Zeus rouses him “at the hollow ships,” and the Trojans rush at the hollow ships with fire.
+---
+
+The epithet follows the Trojan advance from the plain to the hulls. Apollo, reviving Hector: “But come now, urge on your many horsemen / to drive their swift horses against the hollow ships” (15.258–259; [[apollo]], [[hector]], [[swift-footed]]). Hector, when Teucer's bowstring breaks: “be men, my friends, and remember your furious courage / along the hollow ships” (15.487–488; [[furious]], [[exhortation]]). Zeus, waiting to see a ship burn: “With this in mind he roused at the hollow ships / Hector, son of Priam” (15.603–604; [[zeus]], [[plan-of-zeus]]). And in the last verses of the book the epithet is the target: “whoever of the Trojans rushed at the hollow ships / with blazing fire” (15.743–744; [[blazing-fire]], [[ajax]]), with the other word for hollow, κοίλῃς, in place of γλαφυρός. See [[ships]].

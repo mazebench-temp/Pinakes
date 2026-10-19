@@ -3,7 +3,7 @@ title: Heart (ētor)
 greek: ἦτορ
 kind: term
 tags: [mind, body]
-summary: The heart as the seat of life and feeling. At Agamemnon's threat, the ἦτορ of [[Achilles]], in his shaggy chest, is torn two ways.
+summary: The heart as the seat of life and feeling, in the breast: it is torn two ways in deliberation, shrinks or holds firm, and is gasped out as life fails.
 aliases: [ētor, etor, heart]
 grc: [ἦτορ]
 en: [heart]

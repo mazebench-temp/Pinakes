@@ -1,0 +1,5 @@
+---
+summary: “Nestor, the Gerenian, the guardian of the Achaeans,” prays above all the others when the army is driven to the ships, and begs the men by their parents to stand firm.
+---
+
+The verse Νέστωρ αὖτε μάλιστα Γερήνιος οὖρος Ἀχαιῶν is spoken twice in the book, and each time the guardian guards with words. First he prays: “and above all Nestor, the Gerenian, the guardian of the Achaeans, / prayed, stretching out his hands to the starry sky” (15.370–371; [[nestor]], [[prayer]], [[gerenian-horseman]]). Then, when the Achaeans have given way from the first row of ships, “above all Gerenian Nestor, the guardian of the Achaeans, / begged each man by his parents, imploring him” to remember their children, wives, wealth and parents, and to stand firm (15.659–666; [[supplication]], [[aidos]], [[exhortation]]). The title has named him twice before: when he alone stayed on the field in Book 8, his horse wounded (8.80), and when Patroclus told Eurypylus of the message that Nestor had given him for Achilles (11.839–840).

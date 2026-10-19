@@ -1,0 +1,7 @@
+---
+summary: Zeus wakes on the peaks of Ida beside Hera. Hera goes from the mountains of Ida to Olympus, Apollo and Iris come to Zeus on Gargarus, and from Ida he sends them down, Iris to Poseidon and Apollo to Hector.
+---
+
+**Zeus' mountain.** “And Zeus awoke / on the peaks of Ida, beside Hera of the golden throne” (15.4–5; see [[zeus]] and [[hera]]): the peaks where Hera feared that everything was in plain view, and where she lay with him in a golden cloud (14.332, 14.342–351; see [[the-deception-of-zeus]]). He sends her back to Olympus, and “she went from the mountains of Ida to high Olympus” (15.79), the verse that took Iris to Olympus with Zeus' threat in Book 8 (8.410; see [[olympus]]).
+
+**Messengers.** Hera tells Apollo and Iris that “Zeus bids you two come to Ida as quickly as you can” (15.146), and they come to “Ida of the many springs, mother of wild beasts” (15.151; see [[of-the-many-springs]] and [[mother-of-wild-beasts]]), the verse that brought Zeus there in Book 8 and Hera and Sleep in Book 14 (8.47, 14.283). They find him on Gargarus, its peak, in a fragrant cloud (15.152–153; see [[gargarus]]). Then the gods go down from Ida one after the other in the same verse, βῆ δὲ κατʼ Ἰδαίων ὀρέων: Iris “went down from the mountains of Ida to sacred Ilios” (15.169; see [[iris]]), as she went to Hector in Book 11 (11.196), and Apollo “went down from the mountains of Ida like a hawk” (15.237; see [[like-a-hawk]] and [[apollo]]). Apollo tells Hector that the son of Cronus has sent him “from Ida” (15.255).

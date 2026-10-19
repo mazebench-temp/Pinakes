@@ -7,7 +7,7 @@ summary: The river of [[Arisbe]] in the Troad, from which [[Asius]]' horses brou
 aliases: [Selleis]
 grc: [Σελλήεντος]
 en: [Selleis]
-except: [2.659]
+except: [2.659, 15.531]
 ---
 
 {{quote:de37ec23-05bd-545e-a892-0dbe5fdafe56}}

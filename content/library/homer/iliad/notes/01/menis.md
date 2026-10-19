@@ -1,3 +1,7 @@
+---
+summary: The first book sets the wrath of [[Achilles]] beside the wrath of [[Apollo]]: both begin when Agamemnon dishonors someone, and Apollo's is appeased within the book.
+---
+
 {{quote:86460625-f50f-58a7-990b-6330c318d18b}}
 
 The poem asks the goddess to sing a μῆνις and at once counts its cost. The epithet οὐλομένη (“ruinous”, from ὄλλυμι, “destroy”) opens a list of the dead: countless [[algos|ἄλγεα]] (“sorrows”), souls hurled to Hades, bodies left for dogs and birds. Only then does the sentence name the plan of Zeus and the moment it all began, the [[eris|ἔρις]] (“strife”) between the son of Atreus and Achilles.

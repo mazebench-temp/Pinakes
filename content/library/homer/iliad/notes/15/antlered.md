@@ -1,0 +1,5 @@
+---
+summary: When Hector rises again, the Achaeans are like hunters who chase “an antlered stag or a wild goat” and turn back before a lion.
+---
+
+“And as when an antlered stag or a wild goat / is chased by dogs and country men, / but a lofty rock or a shady forest / shelters it, and it is not their lot to catch it; / and at their shouting a bearded lion appears / in their path, and at once turns them all back” (15.271–276; [[deer]], [[goats]], [[lion]], [[lofty]], [[bearded]]). The quarry escapes, and the hunters meet something worse than what they hunted: so the Danaans follow the Trojans in a body until they see Hector going along the ranks, and then their hearts sink to their feet (15.277–280; [[hector]], [[danaans]]). The verse of the chase is the one used of the lion driven from the farmyard in Book 11 (15.272 = 11.549; [[lion-driven-from-the-farmyard]]). The antlered stag of Book 11 was a wounded beast that jackals devoured until a lion came and scattered them (11.474–481; [[the-jackals-and-the-stag]]); here the stag gets away, and the lion falls on the hunters.

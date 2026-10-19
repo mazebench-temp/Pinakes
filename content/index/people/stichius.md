@@ -5,7 +5,7 @@ kind: person
 tags: [achaean, athenian, warrior, attica]
 summary: A leader of the [[Athenians]] under [[Menestheus]]. With him he carries the body of Amphimachus out of the fighting, and he follows him in the defense of the ships (13.195–196, 13.689–691); Hector kills him in Book 15 (15.329–331).
 aliases: [Stichios]
-# Στιχίον (15.329), where Hector kills him, will need adding.
+# Στιχίον (15.329), where Hector kills him, is claimed in the Book 15 note.
 grc: [Στιχίος]
 relations:
   - commander: menestheus (13.690-691)
@@ -20,4 +20,4 @@ He is named three times. When Hector has killed the Epeian Amphimachus and Ajax 
 
 {{quote:5dda8018-71dc-5b5d-9c20-0d89b8bcf3ec}}
 
-In Book 15 Hector kills him with Arcesilaus, a leader of the Boeotians; he is “the trusted companion of great-hearted Menestheus” (15.329–331; see [[hector]] and [[arcesilaus]]). Homer gives him no father and no home. The name may come from στίχες, “ranks”, the lines of an army (πυκινὰς στίχας, “the close ranks”, 13.680).
+In Book 15 Hector kills him with Arcesilaus, a leader of the Boeotians; he is “a trusted companion of great-hearted Menestheus” (15.329–331; see [[hector]] and [[arcesilaus]]). Homer gives him no father and no home. The name may come from στίχες, “ranks”, the lines of an army (πυκινὰς στίχας, “the close ranks”, 13.680).

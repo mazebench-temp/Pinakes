@@ -6,7 +6,7 @@ tags: [honor, shame]
 summary: Outrage or arrogance, the violence and insult that treat another's honor with contempt, and the overbearing spirit that goes beyond what is due.
 aliases: [hybris, hubris, arrogance, hyperopliē, overbearing pride]
 grc: [ὕβριν, ὕβριος, ὑπεροπλίῃσι]
-en: [arrogance, outrage, overbearing pride]
+en: [arrogance, outrage]
 passages:
   - 1.202-214 | Achilles and Athena on the outrage
 ---
@@ -19,7 +19,7 @@ The word is rare in the Iliad and common in the Odyssey. There it is the definin
 
 Scholars disagree on where to put the weight. N. R. E. Fisher (*Hybris*, 1992) argued that its core is the deliberate infliction of dishonor. Douglas Cairns (1996) stressed the disposition behind the act, the habit of claiming too much honor for oneself. Book 1 shows both: a king who thinks himself above everyone, and the seizure of a prize that proves it.
 
-ὑπεροπλίη (“overbearing pride”) is a rarer word, here in the plural: “acts of arrogance”. It is usually derived from ὑπέρ (“over”) and ὅπλα (“arms”), as if the overconfidence of a man who trusts in his strength.
+ὑπεροπλίη (“arrogance”) is a rarer word, here in the plural: “acts of arrogance”. It is usually derived from ὑπέρ (“over”) and ὅπλα (“arms”), as if the overconfidence of a man who trusts in his strength.
 
 {{notes}}
 

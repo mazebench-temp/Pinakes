@@ -12,7 +12,7 @@ of: [olympus]
 
 ## Meaning
 
-μακρός means “long” and, of things that rise, “tall, high.” In the Iliad Ὄλυμπος μακρός is the height that belongs to all the gods in common: when Zeus and his brothers divided the world, “the earth and high Olympus” were left common to all three (Il. 15.193).
+μακρός means “long” and, of things that rise, “tall, high.” In the Iliad Ὄλυμπος μακρός is the height that belongs to all the gods in common: when Zeus and his brothers divided the world, “the earth is still common to all, and high Olympus” were left common to all three (Il. 15.193).
 
 ## Use
 

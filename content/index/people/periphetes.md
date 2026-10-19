@@ -3,10 +3,11 @@ title: Periphetes
 greek: Περιφήτης
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan whom Teucer kills, with Prothoon, when Poseidon has turned the battle (14.515). Not the Mycenaean Periphetes, son of Copreus, whom Hector kills in the next book (15.638–652).
+summary: A Trojan whom Teucer kills, with Prothoon, when Poseidon has turned the battle (14.515). Not the Mycenaean [[periphetes-of-mycenae|Periphetes, son of Copreus]], whom Hector kills in the next book (15.638–652).
 aliases: [Periphetes the Trojan]
 # Only the phrase: Περιφήτην at 15.638 is Periphetes of Mycenae, son of Copreus.
 grc: ["καὶ Περιφήτην"]
+except: [15.638]
 relations:
   - slayer: teucer (14.515)
 ---

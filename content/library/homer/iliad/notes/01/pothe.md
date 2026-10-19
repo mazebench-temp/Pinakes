@@ -1,3 +1,7 @@
+---
+summary: [[Achilles]] swears that a longing for him will seize the Achaeans; withdrawn from the fighting, he himself longs for the war cry and for battle (1.240, 1.492).
+---
+
 {{quote:ee051648-367b-5173-91a0-75535c70c8dd}}
 
 Achilles swears on the scepter that someday a longing for Achilles will come upon all the sons of the Achaeans, and Agamemnon will be powerless to help them as they die at Hector's hands. He speaks of himself by name, as the object of that longing.

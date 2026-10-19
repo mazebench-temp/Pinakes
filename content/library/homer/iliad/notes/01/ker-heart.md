@@ -1,3 +1,7 @@
+---
+summary: κῆρ describes [[Apollo]] angry at heart, [[Achilles]] wasting his heart away in idleness, and [[Hera]] bending her heart to obedience (1.44, 1.491, 1.569).
+---
+
 {{quote:202e7666-b1d3-5a69-a8a5-16d262377b6b}}
 
 Apollo comes down from Olympus χωόμενος κῆρ, “angry at heart”: the accusative says where the anger is felt.

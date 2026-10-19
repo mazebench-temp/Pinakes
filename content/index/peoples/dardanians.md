@@ -18,3 +18,5 @@ At 2.701 a "Dardanian man" kills Protesilaus, the first of the Achaeans to leap 
 ## Outside Homer
 
 The town of Dardanus on the Hellespont, south of Abydos, kept the name, and through it the strait is now called the Dardanelles. Herodotus lists it among the towns the Persians took in the Ionian Revolt (5.117).
+
+[[Strabo]] notes that Homer names the people under Aeneas in two ways, Δαρδάνιοι (Δαρδανίων, 2.819) and Δάρδανοι, as in the rallying cry, and thinks that the Dardania founded by Dardanus (20.215–216) stood in their country, though in his day not a trace of a city was left there (*Geography* 13.1.24). To the claim that Homer never says βάρβαροι because the plural will not fit the meter, he answers that the nominative scans like Δάρδανοι in Τρῶες καὶ Λύκιοι καὶ Δάρδανοι (*Geography* 14.2.28; see [[barbarophonos]]).

@@ -3,7 +3,7 @@ title: Sky
 greek: οὐρανός
 kind: place
 tags: [cosmic]
-summary: The sky or heaven, from which Athena descends and to which the savor of sacrifice rises.
+summary: The sky or heaven (οὐρανός), the vault above the earth, from which the gods come down and to which the savor of sacrifice rises. It is Zeus' share of the world, and in oaths it is called on as Heaven, with Earth.
 aliases: [heaven]
 grc: [οὐρανόθεν, οὐρανὸν]
 en: [sky, heaven]

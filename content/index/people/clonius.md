@@ -15,4 +15,4 @@ The name recalls κλόνος, the rout or turmoil of battle. He is the last of 
 
 ## Elsewhere in Homer
 
-He dies in a single half-line, in the Trojan rally of Book 15: "and Agenor killed Clonius" (15.340).
+He dies in a single half-line, in the Trojan rally of Book 15: “and brilliant Agenor killed Clonius” (15.340).

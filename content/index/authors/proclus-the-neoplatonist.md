@@ -14,3 +14,4 @@ Whether he wrote the *Chrestomathy*, the handbook whose summaries of the lost po
 - The golden chain of beings, from Zeus' golden rope: [[homers-golden-chain]].
 - Zeus' rank above Poseidon, from "but Zeus was born first and knew more" (13.355): [[poseidon-rallies-the-achaeans]] and the Book 13 note.
 - The union of Zeus and Hera on Ida, defended against Plato as theology (*On the Republic* I 132–140 Kroll): [[plato-zeus-deceived]] and the Book 14 note.
+- Hera hung with two anvils at her feet, the air above the two heaviest elements (*On the Cratylus* 170), the three Zeuses of the division by lot (*On the Cratylus* 148) and the eternal lots of the gods (*On the Timaeus* I 136, 141 Diehl): [[hera-hung-from-the-sky]], [[the-lots-of-the-three-brothers]] and the Book 15 note.

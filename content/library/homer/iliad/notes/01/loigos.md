@@ -1,3 +1,7 @@
+---
+summary: The formula “ward off shameful ruin” ties together Apollo's plague, [[Achilles]]' future usefulness to the Achaeans, and [[Thetis]]' old service to Zeus.
+---
+
 λοιγόν comes five times in the book, always with a verb of warding off, and it links three stories.
 
 {{quote:99e80523-680c-5023-a09e-c6d418bd5974}}

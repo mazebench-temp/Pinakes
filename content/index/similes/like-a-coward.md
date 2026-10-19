@@ -12,7 +12,7 @@ of: [hector, odysseus, diomedes]
 
 ## The comparison
 
-κακὸς ὣς is two words: κακός, “bad”, which of a fighting man means “cowardly” and as a noun “a coward”, and ὥς, “like”, written with an accent when it follows its noun. It is the shortest kind of comparison, a man set beside a type of man (see [[like-a-boy-or-a-woman]]). The Iliad has it twice.
+κακὸς ὣς is two words: κακός, “bad”, which of a fighting man means “cowardly” and as a noun “a coward”, and ὥς, “like”, written with an accent when it follows its noun. It is the shortest kind of comparison, a man set beside a type of man (see [[like-a-boy-or-a-woman]]). The Iliad has it twice, and twice more in the accusative, κακὸν ὥς, with the verb δειδίσσομαι, “be afraid” or “frighten”: Odysseus tells a king who is running for the ships that it is not right for him “to panic like a coward” (2.190), and Poseidon will not have Zeus try to frighten him with his hands “as if I were a coward” (15.196).
 
 **Hector in Book 6.** Andromache begs Hector to stay on the wall. He answers that all this is on his mind too, “but most terribly I would feel shame before the Trojans and the Trojan women with trailing robes, if like a coward I shrink away from the war”; he has learned to be brave always and to fight among the foremost (6.441–446; see [[aidos]] and [[hector]]). The coward is the man he refuses to be, and the shame is his own.
 

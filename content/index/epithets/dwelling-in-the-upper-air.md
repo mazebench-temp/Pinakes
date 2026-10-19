@@ -12,7 +12,7 @@ of: [zeus]
 
 ## Meaning
 
-αἰθέρι, dative of αἰθήρ (“the bright upper air”) + ναίων (“dwelling,” from ναίω): “who lives in the upper air.” In Homer the αἰθήρ is the clear, shining region of the sky above the lower air (ἀήρ), where clouds and mist hang. When the sons of Cronus divided the world, Zeus received “the broad sky, in the upper air and the clouds” (Il. 15.192). The phrase occurs three times in Homer (Il. 2.412, 4.166; Od. 15.523), always of Zeus.
+αἰθέρι, dative of αἰθήρ (“the bright upper air”) + ναίων (“dwelling,” from ναίω): “who lives in the upper air.” In Homer the αἰθήρ is the clear, shining region of the sky above the lower air (ἀήρ), where clouds and mist hang. When the sons of Cronus divided the world, Zeus received “the wide sky, in the upper air and the clouds” (Il. 15.192). The phrase occurs three times in Homer (Il. 2.412, 4.166; Od. 15.523), always of Zeus.
 
 ## Use
 

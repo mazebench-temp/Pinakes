@@ -3,7 +3,7 @@ title: A lion among cattle
 greek: ὡς δὲ λέων ἐν βουσὶ θορὼν ἐξ αὐχένα ἄξῃ
 kind: simile
 tags: [wild-animal, livestock, warfare]
-summary: The lion that falls on a herd of cattle and breaks a beast's neck. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165), and Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180).
+summary: The lion that falls on a herd of cattle and kills one beast while the rest scatter. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165); Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180); and Hector falls on the Achaeans like a lion on cattle grazing in a marsh, which leaps into the middle of the herd and devours one cow (15.630–638).
 aliases: [like a lion among cattle, the lion and the heifer]
 grc: [ἐν βουσὶ θορὼν, αὐχένα ἄξῃ, πόρτιος ἠὲ βοὸς, κακῶς ἀέκοντας]
 en: [leaps among, breaks the neck, as they graze in a thicket, roughly, against their will]

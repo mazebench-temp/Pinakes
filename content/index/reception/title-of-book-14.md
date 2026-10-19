@@ -23,6 +23,6 @@ The traditional title of Book 14 is Διὸς ἀπάτη, “the Deception of Z
 
 **More deceptions.** The book holds more deceit than its title names. Hera lies to Aphrodite to get the strap, with a tale of a journey to end the quarrel of Oceanus and Tethys, and tells the tale again to Zeus (14.190–223, 14.300–311; see [[aphrodites-band]] and [[oceanus]]). Sleep remembers an earlier deception of Zeus, when he lulled him so that Hera could drive Heracles over the sea to Cos (14.249–262; see [[hera-drives-heracles-to-cos]]). In Book 19 Agamemnon tells of a third, on the day of Heracles' birth, when Hera deceived Zeus with her wiles (δολοφροσύνῃς ἀπάτησεν, 19.97). Each time the deceiver is Hera.
 
-As with the battle at the ships, the title names the action of one book, and its consequences run into the next, where Zeus wakes and sets out his plan to the fall of Ilios (15.4–77; see [[title-of-book-13]] and [[plan-of-zeus]]).
+As with the battle at the ships, the title names the action of one book, and its consequences run into the next, where Zeus wakes and sets out his plan to the fall of Ilios (15.4–77; see [[title-of-book-13]], [[title-of-book-15]] and [[plan-of-zeus]]).
 
 See [[the-deception-of-zeus]], [[apate]] and [[plato-zeus-deceived]].

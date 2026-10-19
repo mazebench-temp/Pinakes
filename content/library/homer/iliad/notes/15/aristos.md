@@ -1,0 +1,7 @@
+---
+summary: Zeus claims to be “far the best” of the gods in power and strength; Thoas is “by far the best of the Aetolians”, and he sends the multitude back while the best men stand; and Teucer, “the best in the fighting” in the narrator's words, is to Hector “their best man”, whose missiles Zeus has foiled.
+grc: [ἀριστῆος]
+en: [best man]
+---
+
+Hera reports Zeus' claim to the gods: “for he says that among the immortal gods / in power and in strength he is far the best” (διακριδὸν εἶναι ἄριστος, 15.107–108; see [[kratos]] and [[zeus]]). Among men the word sorts the army. Thoas is “by far the best of the Aetolians” (Αἰτωλῶν ὄχʼ ἄριστος, 15.282; see [[thoas]]), and his plan sends the multitude to the ships while “all of us who claim to be the best in the army” stand firm; the leaders “called the best men and set the battle in order” (ἀριστῆας, 15.296–303; see [[battle-order]] and [[commoners]]). The narrator says that Teucer would have stopped Hector “if he had hit him while he was the best in the fighting” (ἀριστεύοντα, 15.460), and Hector, seeing Teucer's string broken, calls him “their best man” (ἀνδρὸς ἀριστῆος, 15.489; see [[teucer]]), the phrase that in Book 17 names Achilles, whose armor Hector wears (17.203). Hector tries to break the ranks “where he saw the greatest throng and the best armor” (15.616), and Ajax asks whether there is “some stronger wall” behind them (τεῖχος ἄρειον, 15.736; see [[the-light-is-in-our-hands]]).

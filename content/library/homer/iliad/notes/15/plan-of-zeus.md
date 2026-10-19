@@ -1,0 +1,27 @@
+---
+summary: Zeus wakes on Ida and sets the plan going again. He tells Hera its whole course, from the death of Patroclus to the fall of Ilios, and the narrator names its turning point. Zeus is waiting to see a ship burn; from then on he will bring about the counterattack from the ships that gives the book its traditional name.
+passages:
+  - 15.49-77 | Zeus foretells the course of the war
+  - 15.220-235 | Zeus sends Apollo to Hector
+  - 15.592-614 | Zeus waits for a ship to burn
+---
+
+**The plan resumed.** Hera's deception held the plan back for part of a day, while Poseidon led the Achaeans openly and Ajax struck Hector down with a stone (14.352–522; see [[the-deception-of-zeus]]). Zeus wakes, sees Hector gasping and vomiting blood on the plain, and pities him (15.4–12). He sends Hera to fetch his two agents: Iris will order Poseidon out of the war, and Apollo will breathe might into Hector again and turn the Achaeans back in panic, “so that in their flight they tumble among the many-benched ships / of Achilles, son of Peleus” (15.54–64; see [[iris]] and [[apollo]]). To Apollo he gives the term of the rout. Hector is to drive the Achaeans until they reach the ships and the Hellespont: “From then on I myself will devise both deed and word, / so that the Achaeans may draw breath again from their toil” (15.231–235).
+
+**The course of the war.** Then he tells Hera where the plan leads:
+
+{{quote:23975ff8-080e-5962-a9d8-edbfdb5ea08c}}
+
+In Book 8 Zeus told Hera that Hector would not cease from war until Achilles was roused beside the ships, over the dead Patroclus (8.470–477). Here the plan runs on past the poem's end. Patroclus will kill Sarpedon, Zeus' own son, and be killed by Hector; Achilles will kill Hector; and from then on Zeus will bring about a counterattack from the ships, “always and without a break”, until the Achaeans take Ilios “through the counsels of Athena” (15.64–71; see [[sarpedon]], [[the-death-of-patroclus]] and [[the-fall-of-troy]]). The counsels are probably the wooden horse, which Epeius built “with Athena” (*Odyssey* 8.492–493; see [[sinon-and-the-wooden-horse]]). Then Zeus ties the whole course to its beginning. He will not cease from his anger, or let any other god help the Danaans, until the wish of the son of Peleus is fulfilled, as he promised on the day when Thetis clasped his knees (15.72–77; see [[thetis-supplicates-zeus]]). The promise to Thetis and the fall of Troy are here parts of one design, so that both readings of the proem's “plan of Zeus” (1.5) find support in this speech.
+
+**The narrator's account.** The narrator states the plan once more, at the height of the battle, when the Trojans “fulfilled the commands of Zeus” (Διὸς δʼ ἐτέλειον ἐφετμάς, 15.593), with the verb of the proem's “and the plan of Zeus was being fulfilled” (1.5):
+
+{{quote:596b54c2-d0b5-54ee-a9e1-2fe42639f605}}
+
+The fire is the term. Achilles told the embassy that he would not think of war until Hector came to the ships of the Myrmidons and set them on fire (9.650–655). When the fire comes, it comes in the words of Zeus' wish. Zeus wished that Hector might cast “tireless fire” on the ships (ἐμβάλοι ἀκάματον, 15.597–598), and the Trojans throw tireless fire on Protesilaus' ship (ἔμβαλον ἀκάματον πῦρ, 16.122); Achilles, seeing the flame, sends Patroclus out (16.122–129). Patroclus puts out the fire and drives the Trojans from the ships (16.284–305). That is the counterattack, παλίωξις, literally “a pursuit back” (πάλιν, “back”, and ἰωκή, “pursuit”), which Zeus foretold and the narrator names again (15.69, 15.601). Polydamas feared it in Book 12, when he warned the Trojans not to drive their horses through the ditch (12.61–74; see [[polydamas]]), and the book takes its traditional title from it, Παλίωξις παρὰ τῶν νεῶν, “The Counterattack from the Ships”.
+
+**Glory for Hector.** Until the fire, the plan gives Hector everything. Apollo goes before him with the aegis, Zeus breaks Teucer's bowstring and pushes Hector on against the ships with his own hand, and Hector, holding the stern of Protesilaus' ship, calls for fire: “Now Zeus has given us a day worth all the rest” (15.307–327, 15.461–465, 15.694–695, 15.716–719; see [[zeus]] and [[hector]]). The glory is for a day. In the same breath in which the narrator says that Zeus honored Hector and gave him glory, he says that Hector was short-lived, and that Athena was already rousing his fated day, “under the strength of the son of Peleus” (15.610–614; see [[short-lived]] and [[prophecy]]).
+
+**The limit.** The plan honors Achilles by the Achaeans' defeat, not by their destruction (13.347–350), and the Achaeans are to draw breath again once they reach the ships (15.234–235). Zeus had also said that no god would help the Danaans until Achilles' wish was fulfilled (15.72–77); yet near the end of the book Athena thrusts the cloud of mist from the Achaeans' eyes (15.668–670; see [[athena]] and the translation's note on 15.668–673).
+
+**The ancient critics.** Walter Leaf reports that Aristophanes and Aristarchus athetized Zeus' forecast (15.56–77), that Zenodotus left out 15.64–77 (see [[prophecy]]), and that Aristarchus remarked that παλίωξις is used at 15.69 of a rout that goes on, not in its Homeric sense of a turn in the battle (*Commentary on the Iliad*, 1900, on 15.56 and 15.69; see [[aristarchus]]). The word gives the book its traditional title (see [[title-of-book-15]]).

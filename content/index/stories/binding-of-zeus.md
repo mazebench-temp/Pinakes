@@ -30,6 +30,8 @@ Achilles tells the story to his mother, the heroine of it, as something he "ofte
 
 **Briareus.** The monster does nothing but sit beside Zeus "exulting in his glory". Zeus' power is shown to rest on alliances with older, stranger powers, as it did in the war against the Titans. See [[briareus]].
 
+**Other challenges.** The poem returns more than once to the gods' strength against Zeus. He dares them all to hang a golden rope from the sky and pull him down (8.18–27; see [[the-golden-rope]]), and he reminds Hera how he once hung her from the sky with anvils on her feet and a golden bond about her hands, and hurled from the threshold any god who tried to free her (15.18–24; see [[hera-hung-from-the-sky]]).
+
 ## Outside Homer
 
-No other ancient source tells this story, and many scholars think Homer adapted it for the occasion. It fits a pattern of challenges to Zeus. Later in the Iliad he reminds Hera how he once hung her from the sky with anvils on her feet (15.18–24), and he dares all the gods to pull him down with a golden chain (8.18–27). Hesiod's Hundred-Handers win the war against the Titans for Zeus (*Theogony* 617–735). Ancient allegorical readers, embarrassed by a revolt in heaven, took the plot as a picture of the cosmos: the elements, represented by the plotting gods, threaten to overthrow the order that Zeus keeps.
+No other ancient source tells this story, and many scholars think Homer adapted it for the occasion. Hesiod's Hundred-Handers win the war against the Titans for Zeus (*Theogony* 617–735). Ancient allegorical readers, embarrassed by a revolt in heaven, took the plot as a picture of the cosmos: the elements, represented by the plotting gods, threaten to overthrow the order that Zeus keeps.

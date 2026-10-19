@@ -1,0 +1,5 @@
+---
+summary: Polydamas kills Otus of Cyllene, “companion of the son of Phyleus, and a leader of the great-hearted Epeians” (15.518–519).
+---
+
+Πουλυδάμας δʼ Ὦτον Κυλλήνιον ἐξενάριξε / Φυλεΐδεω ἕταρον, μεγαθύμων ἀρχὸν Ἐπειῶν, “and Polydamas slew and stripped Otus of Cyllene, / companion of the son of Phyleus, and a leader of the great-hearted Epeians” (15.518–519; see [[otus-of-cyllene]], [[polydamas]] and [[great-hearted]]). The Epeians are named as Otus' people, and Meges, son of Phyleus, as his companion; at the ships in Book 13 Meges was named among the Epeians' leaders with Amphion and Dracius (13.691–692; see [[meges]]). Strabo explains the bond from the history of the islands: Dulichium and the other Echinades were under Meges, and the Epeians who lived there had come from Elis, which is why Otus of Cyllene is called the companion of the son of Phyleus (*Geography* 10.2.14). He takes Otus' Cyllene for the port of the Eleans (*Geography* 8.3.4; see [[cyllene-elis]], [[elis]] and [[strabo]]).

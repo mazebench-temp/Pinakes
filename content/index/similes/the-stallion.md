@@ -30,9 +30,7 @@ See [[paris]], [[hectors-visit-to-troy]] and [[horses]].
 
 ## Elsewhere in Homer
 
-The six lines return in Book 15 (15.263–268 = 6.506–511). Ajax's stone has struck Hector down, and he lies on the plain gasping and spitting blood (14.409–439, 15.9–11). Apollo comes to him at Zeus' command and breathes great might into him (15.220–262), and the simile follows: “so Hector plied his feet and knees swiftly, urging on the charioteers, when he heard the god's voice” (15.269–270). In Book 6 the tethered horse is Paris, idle while others fight; in Book 15 it is Hector, released from his wound. The picture of strength set free fits both; its pride and its pasture suit Paris more closely.
-
-The line that ends the Book 15 simile, “so Hector plied his feet and knees swiftly”, is used again of Achilles, who runs toward Troy “like a prize-winning horse with its chariot, which runs easily at full stretch over the plain” (22.22–24). Achilles and Hector then run around the walls like prize-winning horses racing around the turning post, with a great prize set out, “a tripod or a woman” (22.162–164); but the prize of this race is Hector's life (22.159–161). In these similes the horse is a runner, and the last race is run for a life.
+The six lines return in Book 15 for Hector, when Apollo has breathed great might into him after Ajax's stone (15.263–268 = 6.506–511). The verse that follows them there, ὣς Ἕκτωρ λαιψηρὰ πόδας καὶ γούνατʼ ἐνώμα, “so Hector plied his nimble feet and knees” (15.269), is used again of Achilles, who runs toward Troy like a prize-winning horse with its chariot, running easily at full stretch over the plain (22.21–24). Achilles and Hector then run around the walls like prize-winning horses racing around the turning post, with a great prize set out, a tripod or a woman (22.162–164); but the prize of this race is Hector's life (22.159–161). In these similes the horse is a runner, and the last race is run for a life.
 
 ## Outside Homer
 

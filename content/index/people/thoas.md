@@ -14,7 +14,7 @@ passages:
 
 {{quote:6b245199-045c-503b-bfab-204d7d41215e}}
 
-Thoas leads the forty ships of the [[Aetolians]], from [[Pleuron]], [[Olenus]], [[Pylene]], [[chalcis-aetolia|Chalcis]] and [[Calydon]]. The command "had been given to him" because the sons of [[Oeneus]] and Oeneus himself were dead, and [[Meleager]] too (2.641–643).
+Thoas leads the forty ships of the [[Aetolians]], from [[Pleuron]], [[Olenus]], [[Pylene]], [[chalcis-aetolia|Chalcis]] and [[Calydon]]. The command “had been given” to him because the sons of [[Oeneus]] and Oeneus himself were dead, and [[Meleager]] too (2.641–643).
 
 The name is formed from θοός, "swift", and differs only in its accent from θοάς, the adjective's feminine accusative plural, as in θοὰς ἐπὶ νῆας, "to the swift ships".
 
@@ -22,7 +22,7 @@ The name is formed from θοός, "swift", and differs only in its accent from �
 
 ## Elsewhere in Homer
 
-Poseidon takes his likeness to rouse Idomeneus; there he is Thoas "who ruled the Aetolians in all Pleuron and steep Calydon, and was honored like a god by his people" (13.216–218). When Hector returns to battle, Thoas, "far the best of the Aetolians, skilled with the javelin and brave in close fighting, and few of the Achaeans could beat him in the assembly", advises the chiefs to hold the front while the army withdraws to the ships (15.281–299). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (Od. 14.499–502).
+Poseidon takes his voice to rouse Idomeneus; there he is Thoas, “who in all Pleuron and steep Calydon / was lord of the Aetolians, and was honored by the people like a god” (13.216–218). When Hector returns to battle, Thoas, “by far the best of the Aetolians, skilled with the javelin / and good in close fighting”, whom few of the Achaeans could beat in the assembly, advises the chiefs to hold the front while the army withdraws to the ships (15.281–305). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (Od. 14.499–502).
 
 ## Outside Homer
 

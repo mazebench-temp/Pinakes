@@ -1,0 +1,8 @@
+---
+summary: Neptune's claim that the sea was given by lot to him and not to Aeolus is the claim that Poseidon makes to Iris in Book 15. Servius explains it by the lots of the three sons of Saturn, and finds in their scepters a sign that each shares in the rule of the whole.
+refs: [15.190]
+---
+
+Neptune's last words to the winds, *non illi imperium pelagi saevumque tridentem, / sed mihi sorte datum*, “not to him were the rule of the sea and the fierce trident given, but to me, by lot” (*Aeneid* 1.138–139), take up Poseidon's answer to Iris: the three sons of Cronus divided all things in three, and “I got by lot the gray sea, to dwell in forever” (15.190; see [[the-lots-of-the-three-brothers]] and [[poseidon]]). Poseidon claims the lot against the elder brother who orders him out of the battle; Neptune claims it against a lesser god who has stirred up his realm at Juno's bidding, without his leave.
+
+The ancient commentary on Virgil tells the story behind the words. Servius explains *sorte* thus: Jupiter, Neptune and Dis, the sons of Saturn and Ops, had contended for possession of the world and agreed to divide the rule by lot, so that Jupiter got the sky, Neptune the seas and Dis the world below (Servius on *Aeneid* 1.139). On Neptune's complaint that the winds have dared to confound sky and earth without his will (*Aeneid* 1.133–134) he adds that the three gods, though they hold divided realms, seem to share power over the whole kingdom in turn, as their scepters show, Jupiter's three-forked thunderbolt, Neptune's trident and Pluto's three-headed Cerberus (Servius on *Aeneid* 1.133). Homer's Poseidon had left something common too: “but the earth is still common to all, and high Olympus” (15.193; see [[common-to-all]]).

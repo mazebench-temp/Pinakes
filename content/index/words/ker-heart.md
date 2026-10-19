@@ -3,7 +3,7 @@ title: Heart
 greek: κῆρ
 kind: term
 tags: [mind, body]
-summary: The heart as the seat of feeling. Written κῆρ, and so distinct from κήρ “doom”, it describes [[Apollo]] angry at heart, [[Achilles]] wasting his heart away in idleness, and [[Hera]] bending her heart to obedience.
+summary: The heart as the seat of feeling and will. Written κῆρ, and so distinct from κήρ “doom”, it is the heart in which gods and men are angry, grieve, love and yield.
 aliases: [kēr, ker, heart]
 grc: [=κῆρ]
 en: [heart]

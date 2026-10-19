@@ -1,0 +1,5 @@
+---
+summary: Patroclus sits with Eurypylus while the fighting is “outside the swift ships,” Hector falls on the Achaeans like a wave “on a swift ship,” the Trojans fight “beside the swift ships,” and Ajax strides “over many decks of the swift ships.”
+---
+
+The epithet follows the battle from the wall to the hulls. While the armies were fighting “around the wall, outside the swift ships” (15.391; [[the-achaean-wall]], [[patroclus]]), Patroclus stayed with Eurypylus. Then Hector “fell on them as when a wave falls on a swift ship, / violent under the clouds, wind-nurtured” (15.624–625; [[hector]], [[wind-nurtured]]): in the simile the swift ship is the Achaean army. When the mist is lifted, the Achaeans see those Trojans “who were fighting their battle beside the swift ships” (15.673; [[common-to-all]]). And Ajax, refusing to stand back, “went over many decks of the swift ships, / ranging with long strides” (15.685–686; [[ajax]]), with the genitive θοάων set apart from νηῶν as in Book 14 (14.410). See [[ships]].

@@ -1,0 +1,5 @@
+---
+summary: Cythera is the home of Lycophron, Ajax's attendant, who came to live with Ajax after killing a man “in holy Cythera”, and whom Hector's spear kills at the ships (15.430–439).
+---
+
+Λυκόφρονα Μάστορος υἱὸν / Αἴαντος θεράποντα Κυθήριον, “Lycophron, son of Mastor, / the attendant of Ajax, from Cythera”, who lived with him “since he had killed a man in holy Cythera” (Κυθήροισι ζαθέοισι, 15.430–432); Ajax mourns him as the companion “who came from Cythera and lived in our house” (Κυθηρόθεν, 15.438; see [[lycophron]], [[ajax]] and [[exile-and-refuge]]). The island is named three times in nine verses, by an adjective, by the plural name, and by Κυθηρόθεν, “from Cythera”. ζάθεος, “holy”, is the epithet Hesiod gives it when the newborn Aphrodite comes there first from the sea, before she goes on to Cyprus (*Theogony* 192–193; see [[zatheos]] and [[hesiod]]). The Iliad's other Cytherian, Amphidamas, was a host: he received the boar's-tusk helmet from Autolycus and gave it to Molus as a guest-gift (10.268–269; see [[amphidamas]]). Lycophron is the island's exile, received as a guest in another man's house.

@@ -3,7 +3,7 @@ title: Brows
 greek: ὀφρύς
 kind: object
 tags: [body, divine-will]
-summary: The dark brows with which Zeus nods his assent to Thetis, the greatest sign he can give. The lines inspired Phidias' statue of Zeus at Olympia.
+summary: The brows, ὀφρύες, which frame a look and show its mood: dark on Zeus, who nods his assent with them, and grim over a raging warrior's blazing eyes.
 aliases: [brow, eyebrows]
 grc: [ὀφρύσι]
 en: [dark brows, brows]

@@ -1,0 +1,7 @@
+---
+summary: The eagle of Book 15 is Hector. He makes straight for a dark-prowed ship as a tawny eagle swoops on a flock of geese, cranes and long-necked swans feeding beside a river, and Zeus pushes him on from behind with his great hand (15.688–695).
+---
+
+ἀλλʼ ὥς τʼ ὀρνίθων πετεηνῶν αἰετὸς αἴθων / ἔθνος ἐφορμᾶται ποταμὸν πάρα βοσκομενάων: “but as a tawny eagle swoops on a tribe of winged birds as they feed beside a river” (15.690–691; see [[the-eagle-and-the-birds]]). αἴθων, “tawny”, literally “blazing”, is the eagle's epithet only here; it is a word for lions and oxen (11.548, 16.488) and for horses (2.839). This is the first eagle in an Iliad simile. The eagles of Books 8, 12 and 13 were omens, sent by Zeus or flying on the right or the left over the armies (8.247–252, 12.200–209, 13.821–823); this one is a hunter, and it is a likeness for a man.
+
+It is still the bird of Zeus. As Hector darts at the ship, “Zeus pushed him on from behind with his very great hand, and urged on the army with him” (15.694–695; see [[zeus]]). Zeus is driving him toward the ship whose burning he wants to see (15.596–602; see [[plan-of-zeus]]), and Hector takes hold of the stern of the ship of Protesilaus and calls for fire (15.704–725). At the end of his life Hector swoops on Achilles like a high-flying eagle (αἰετὸς ὑψιπετήεις) that goes down through the dark clouds after a lamb or a hare (22.306–310).

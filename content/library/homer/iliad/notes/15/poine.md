@@ -1,0 +1,9 @@
+---
+summary: Ares, hearing that his son Ascalaphus has fallen, would go down to the ships “to avenge the killing of my son”, even at the cost of Zeus' thunderbolt; Athena stops him with the reminder that better men than his son have been killed and will be. Among men, the deaths of kinsmen call the living to the fight.
+passages:
+  - 15.110-142 | Ares and the death of Ascalaphus
+---
+
+**A god's vengeance.** The duty that Acamas fulfilled for his brother in Book 14 (14.482–485; see the note on Book 14) is claimed by a god for his son. Ares strikes his thighs and asks the Olympians not to be indignant with him “if I go to the ships of the Achaeans to avenge the killing of my son” (τίσασθαι φόνον υἷος, 15.115–116; see [[ares]] and [[ascalaphus]]), even if it is his fate to be struck by the thunderbolt (15.117–118; see [[moira]]). Ascalaphus fell in Book 13, and Ares had not heard it, sitting on Olympus beneath golden clouds, held back by the counsels of Zeus (13.518–525). Athena takes his armor from him and tells him to let go of his anger, “for already many a man better than he in strength and hands / has been killed, or will be killed hereafter” (15.139–140; see [[athena]] and [[cholos]]). It is “hard / to save the lineage and birth of all men” (15.140–141; see [[genee]]): a god who avenged every son would never stop.
+
+**Kinsmen at the ships.** Among the men the deaths of kin are called on to rouse the living. When Ajax kills Caletor, Hector sees his cousin fall and calls the Trojans and Lycians to save his body (15.419–428), and after the death of Dolops he rebukes Melanippus, “Is your dear heart / not moved at all, now that your cousin is killed?” (15.553–554; see [[kasignetos]] and [[fighting-over-the-body]]). On the other side Ajax, seeing Lycophron killed, calls on Teucer and his bow (15.436–441; see [[lycophron]]).

@@ -1,0 +1,749 @@
+# Homer, Iliad, Book 15 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	But when they had crossed the stakes and the ditch
+2	in their flight, and many had been brought down at the hands of the Danaans,
+3	they halted beside their chariots and stood their ground,
+4	pale with fear, in their rout; and Zeus awoke
+5	on the peaks of Ida, beside Hera of the golden throne,
+6	and he sprang up and stood, and saw the Trojans and the Achaeans,
+7	the one side in turmoil, and the others driving them in confusion from behind,
+8	the Argives, and among them lord Poseidon;
+9	and he saw Hector lying on the plain, and around him his companions
+10	were sitting, and he was held by a grievous gasping, senseless at heart,
+11	vomiting blood, for it was not the feeblest of the Achaeans who had hit him.
+12	And seeing him, the father of men and gods pitied him,
+13	and looking at Hera darkly and terribly he spoke a word to her:
+14	“Truly, Hera, there is no dealing with you: your evil-working trick
+15	has stopped brilliant Hector from battle and put the army to rout.
+16	I do not know whether, for your grievous mischief, you will not again
+17	be the first to reap the fruit, and I lash you with blows.
+18	Do you not remember when you hung from on high, and from your feet
+19	I let down two anvils, and around your hands I cast a bond
+20	of gold, unbreakable? And you hung in the upper air and the clouds,
+21	and the gods chafed throughout high Olympus,
+22	but they could not stand beside you and set you free; and whomever I caught
+23	I would seize and hurl from the threshold, until he reached
+24	the earth with little strength left. Yet not even so did it let my heart go,
+25	the ceaseless pain for divine Heracles,
+26	whom you, winning over the storms with the help of the North Wind,
+27	sent over the barren sea, devising evil,
+28	and then you carried him off to well-peopled Cos.
+29	From there I rescued him and brought him back again
+30	to horse-pasturing Argos, though he had suffered many labors.
+31	Of these things I will remind you again, so that you may leave off your deceits,
+32	so that you may see whether love and the bed will help you,
+33	in which you lay with me, coming away from the gods, and deceived me.”
+34	So he spoke, and ox-eyed queen Hera shuddered,
+35	and she spoke to him, addressing him with winged words:
+36	“Let Earth now be witness to this, and the wide Heaven above,
+37	and the down-flowing water of Styx, which is the greatest
+38	and most dread oath for the blessed gods,
+39	and your own sacred head, and the wedded bed of us two,
+40	by which I would never swear idly:
+41	it is not through my will that Poseidon the earth-shaker
+42	harms the Trojans and Hector and helps the others,
+43	but perhaps it is his own heart that urges him on and bids him,
+44	and he saw the Achaeans hard pressed at the ships and pitied them.
+45	But I would advise even him
+46	to go wherever you lead, lord of the dark clouds.”
+47	So she spoke, and the father of men and gods smiled,
+48	and answering her he addressed her with winged words:
+49	“If from now on, ox-eyed queen Hera,
+50	you were to sit among the immortals thinking as I do,
+51	then Poseidon, however much he wishes otherwise,
+52	would quickly turn his mind to follow your heart and mine.
+53	But if you are speaking truly and exactly,
+54	go now among the tribes of the gods, and call here
+55	Iris to come, and Apollo famed for his bow,
+56	so that she may go among the army of the bronze-armored Achaeans
+57	and tell lord Poseidon
+58	to cease from war and go to his own house,
+59	and so that Phoebus Apollo may urge Hector on into battle,
+60	and breathe might into him again, and make him forget the pains
+61	that now wear him down in his mind; and the Achaeans
+62	he may turn back again, rousing a craven panic among them,
+63	so that in their flight they tumble among the many-benched ships
+64	of Achilles, son of Peleus; and he will rouse up his companion,
+65	Patroclus; and shining Hector will kill him with the spear
+66	before Ilios, after Patroclus has destroyed many young men,
+67	others besides, and among them my son, brilliant Sarpedon.
+68	And in anger for him brilliant Achilles will kill Hector.
+69	From then on I would bring about a counterattack from the ships,
+70	always and without a break, until the Achaeans
+71	take steep Ilios through the counsels of Athena.
+72	But until then I do not cease from my anger, nor will I let any other
+73	of the immortals defend the Danaans here,
+74	until the wish of the son of Peleus is fulfilled,
+75	as I promised him at first, and nodded my head to it,
+76	on the day when the goddess Thetis clasped my knees,
+77	begging me to honor Achilles, sacker of cities.”
+78	So he spoke, and the white-armed goddess Hera did not disobey,
+79	and she went from the mountains of Ida to high Olympus.
+80	As when the mind of a man darts, who has traveled
+81	over much of the earth, and in his shrewd mind he thinks,
+82	“If only I were there, or there,” and longs for many things,
+83	so swiftly queen Hera flew in her eagerness;
+84	and she came to steep Olympus, and came upon them gathered together,
+85	the immortal gods, in the house of Zeus; and seeing her
+86	they all sprang up and greeted her with their cups.
+87	She let the others be, but from fair-cheeked Themis
+88	she took the cup; for she came running first to meet her,
+89	and she spoke to her, addressing her with winged words:
+90	“Hera, why have you come? You look like one in terror;
+91	surely the son of Cronus, your husband, has put you to flight.”
+92	Then the white-armed goddess Hera answered her:
+93	“Do not ask me about these things, goddess Themis; you know yourself
+94	what kind of heart he has, overbearing and harsh.
+95	But you begin the gods' equal share of the feast in the halls;
+96	and you will hear, with all the immortals,
+97	what evil deeds Zeus is making known; and I do not think
+98	that the hearts of all alike will rejoice, either among mortals
+99	or among gods, if anyone still feasts in good cheer now.”
+100	So saying, queen Hera sat down,
+101	and throughout the house of Zeus the gods were troubled; and she laughed
+102	with her lips, but her forehead above her dark brows
+103	was not warmed; and in her indignation she spoke among them all:
+104	“Fools, we who rage against Zeus in our folly!
+105	Are we still eager to stop him by going near him,
+106	by word or by force? But he sits apart and does not care
+107	or mind us; for he says that among the immortal gods
+108	in power and in strength he is far the best.
+109	So accept whatever evil he sends to each of you.
+110	For already now, I think, a bane has been made for Ares;
+111	for his son has perished in battle, the dearest of men to him,
+112	Ascalaphus, whom mighty Ares says is his own.”
+113	So she spoke, and Ares struck both his sturdy thighs
+114	with the flat of his hands, and lamenting he spoke a word:
+115	“Do not be indignant with me now, you who have your homes on Olympus,
+116	if I go to the ships of the Achaeans to avenge the killing of my son,
+117	even if it is my fate to be struck by the thunderbolt of Zeus
+118	and lie with the dead among the blood and the dust.”
+119	So he spoke, and he told Terror and Rout to yoke
+120	his horses, and he himself put on his gleaming armor.
+121	Then another, still greater and more grievous,
+122	anger and wrath would have come from Zeus upon the immortals,
+123	had not Athena, terribly afraid for all the gods,
+124	rushed out through the doorway and left the throne where she sat,
+125	and taken the helmet from his head and the shield from his shoulders,
+126	and she took the spear from his strong hand and stood it aside,
+127	the bronze spear; and she approached furious Ares with words:
+128	“Madman, crazed in your mind, you are lost! Truly it is for nothing
+129	that you have ears to hear; your mind is gone, and your sense of shame.
+130	Do you not hear what the white-armed goddess Hera says,
+131	who has just now come from Olympian Zeus?
+132	Do you want, when you yourself have filled up the measure of many evils,
+133	to come back to Olympus, grieving though you are, under compulsion,
+134	and to plant a great evil for all the others?
+135	For at once the high-hearted Trojans and the Achaeans
+136	he will leave, and come to Olympus to throw us into tumult,
+137	and he will seize us one after another, the one to blame and the one who is not.
+138	So now I bid you let go your anger for your own son;
+139	for already many a man better than he in strength and hands
+140	has been killed, or will be killed hereafter; and it is hard
+141	to save the lineage and birth of all men.”
+142	So saying, she sat furious Ares down on his throne.
+143	And Hera called Apollo out of the house,
+144	and Iris, who is the messenger among the immortal gods,
+145	and she spoke to them, addressing them with winged words:
+146	“Zeus bids you two come to Ida as quickly as you can;
+147	and when you have come and looked upon the face of Zeus,
+148	do whatever he urges and bids you.”
+149	So saying, queen Hera went back,
+150	and sat on her throne; and the two darted off and flew.
+151	They came to Ida of the many springs, mother of wild beasts,
+152	and they found the far-seeing son of Cronus on the peak of Gargarus,
+153	sitting, and a fragrant cloud was wreathed around him.
+154	And the two came before Zeus the cloud-gatherer
+155	and stood; and when he saw them he was not angry in his heart,
+156	since they had quickly obeyed the words of his dear wife.
+157	And he addressed Iris first with winged words:
+158	“Go, swift Iris, to lord Poseidon,
+159	take him all this message, and do not be a false messenger.
+160	Bid him cease from battle and war
+161	and go among the tribes of the gods, or into the shining sea.
+162	But if he will not obey my words, but disregards them,
+163	then let him consider in his mind and in his heart
+164	lest, strong though he is, he may not dare, when I come at him,
+165	to await me; for I say I am far stronger than he in strength,
+166	and the elder by birth; yet his heart does not shrink
+167	from speaking to me as an equal, whom others too dread.”
+168	So he spoke, and swift Iris, wind-footed, did not disobey,
+169	and she went down from the mountains of Ida to sacred Ilios.
+170	As when snow or hail flies from the clouds,
+171	cold, under the rush of the North Wind, born of the clear sky,
+172	so swiftly swift Iris flew in her eagerness,
+173	and standing near she spoke to the famous shaker of the earth:
+174	“A message for you, dark-haired earth-holder,
+175	I have come here bringing, from aegis-bearing Zeus.
+176	He bade you cease from battle and war
+177	and go among the tribes of the gods, or into the shining sea.
+178	But if you will not obey his words, but disregard them,
+179	he threatened that he himself would come here to fight against you
+180	face to face; and he bids you keep out of reach of
+181	his hands, since he says he is far stronger than you in strength,
+182	and the elder by birth; yet your heart does not shrink
+183	from speaking to him as an equal, whom others too dread.”
+184	Deeply troubled, the famous shaker of the earth said to her:
+185	“Ah, truly, brave as he is, he has spoken arrogantly,
+186	if he will hold me back by force against my will, when I am his equal in honor.
+187	For we are three brothers, born of Cronus, whom Rhea bore,
+188	Zeus and I, and the third is Hades, lord of those below.
+189	All things have been divided in three, and each has his share of honor:
+190	I got by lot the gray sea, to dwell in forever,
+191	when the lots were shaken, and Hades got the misty darkness,
+192	and Zeus got the wide sky, in the upper air and the clouds;
+193	but the earth is still common to all, and high Olympus.
+194	So I will not live by the mind of Zeus; but at his ease,
+195	strong though he is, let him stay in his third share.
+196	And let him not try at all to frighten me with his hands, as if I were a coward;
+197	for it would be better for him to rebuke his daughters and his sons
+198	with terrible words, the children he fathered himself,
+199	who will listen to him when he urges them, even under compulsion.”
+200	Then swift Iris, wind-footed, answered him:
+201	“Am I really to carry it in just this way, dark-haired earth-holder,
+202	this word to Zeus, so harsh and stern,
+203	or will you turn it somewhat? The hearts of good men can be turned.
+204	You know how the Erinyes always follow the elder.”
+205	Then Poseidon the earth-shaker spoke to her in turn:
+206	“Goddess Iris, this word you have spoken is fair and right;
+207	it is a good thing, too, when a messenger knows what is due.
+208	But this dread grief comes upon my heart and spirit,
+209	whenever one who has an equal lot, ordained to the same portion as himself,
+210	he wishes to rebuke with angry words.
+211	But now, for all my indignation, I will give way;
+212	and I will tell you something else, and this I threaten from my heart:
+213	if, against my will and that of Athena, driver of spoil,
+214	of Hera and Hermes and lord Hephaestus,
+215	he spares steep Ilios, and will not consent
+216	to sack it, and to give great power to the Argives,
+217	let him know this, that between us two there will be incurable anger.”
+218	So saying, the shaker of the earth left the Achaean army,
+219	and went and plunged into the sea; and the Achaean heroes missed him.
+220	And then Zeus the cloud-gatherer spoke to Apollo:
+221	“Go now, dear Phoebus, to Hector armed in bronze;
+222	for already the earth-holder, the shaker of the earth,
+223	has gone into the shining sea, avoiding the sheer anger
+224	of mine; for surely others too would have heard of our fighting,
+225	even the gods below, who are around Cronus.
+226	But this was far better both for me and for himself,
+227	that before it came to that, for all his indignation, he gave way
+228	before my hands, since it would not have been settled without sweat.
+229	But take the tasseled aegis in your hands,
+230	and shake it hard over them, and put the Achaean heroes to flight;
+231	and let shining Hector be your own care, you who shoot from afar;
+232	rouse great might in him for so long, until the Achaeans
+233	in their flight reach the ships and the Hellespont.
+234	From then on I myself will devise both deed and word,
+235	so that the Achaeans may draw breath again from their toil.”
+236	So he spoke, and Apollo did not fail to heed his father,
+237	and he went down from the mountains of Ida like a hawk,
+238	a swift dove-killer, which is the swiftest of winged birds.
+239	He found the son of wise-hearted Priam, brilliant Hector,
+240	sitting up, no longer lying down, and he was just gathering his spirit again,
+241	and knew his companions around him; and the gasping and the sweat
+242	had stopped, since the mind of aegis-bearing Zeus had roused him.
+243	And standing near him far-working Apollo spoke to him:
+244	“Hector, son of Priam, why is it that you, apart from the others,
+245	sit here with little strength left? Has some sorrow come upon you?”
+246	Then Hector of the gleaming helmet spoke to him feebly:
+247	“Who are you, good sir, among the gods, who question me face to face?
+248	Have you not heard that at the sterns of the ships of the Achaeans,
+249	as I was killing his companions, Ajax, good at the war cry, struck me
+250	on the chest with a stone, and stopped me from my furious courage?
+251	And truly I thought that I would come to the dead and the house of Hades
+252	on this very day, since I was gasping out my heart.”
+253	Then far-working lord Apollo spoke to him in turn:
+254	“Take heart now: such a helper has the son of Cronus
+255	sent forth from Ida to stand by you and defend you,
+256	Phoebus Apollo of the golden sword, who before now too
+257	have protected you, both you yourself and your steep citadel.
+258	But come now, urge on your many horsemen
+259	to drive their swift horses against the hollow ships;
+260	and I will go on ahead, and the road for the horses
+261	I will make smooth all the way, and turn back the Achaean heroes.”
+262	So saying, he breathed great might into the shepherd of the people.
+263	As when a stalled horse, fed full of barley at the manger,
+264	breaks his halter and gallops across the plain, pounding the ground,
+265	used to bathing in the fair-flowing river,
+266	exulting; he holds his head high, and his mane
+267	streams about his shoulders; and trusting in his splendor
+268	his knees carry him swiftly to the haunts and pasture of the horses:
+269	so Hector plied his nimble feet and knees,
+270	urging on the horsemen, once he had heard the voice of the god.
+271	And as when an antlered stag or a wild goat
+272	is chased by dogs and country men,
+273	but a lofty rock or a shady forest
+274	shelters it, and it is not their lot to catch it;
+275	and at their shouting a bearded lion appears
+276	in their path, and at once turns them all back, for all their eagerness:
+277	so the Danaans for a while kept following in a mass,
+278	stabbing at them with swords and double-pointed spears;
+279	but when they saw Hector going along the ranks of men,
+280	they were afraid, and the hearts of all sank to their feet.
+281	Then Thoas, son of Andraemon, spoke among them,
+282	by far the best of the Aetolians, skilled with the javelin
+283	and good in close fighting; and in the assembly few of the Achaeans
+284	could beat him, when the young men contended in speeches;
+285	with good intent he addressed them and spoke:
+286	“Ah, truly this is a great wonder that I see with my eyes,
+287	how he has risen up once more, escaping the fates,
+288	Hector! Truly the heart of each of us hoped
+289	that he had died at the hands of Ajax, son of Telamon.
+290	But once again one of the gods has rescued and saved
+291	Hector, who has loosened the knees of many of the Danaans,
+292	as I think he will now too; for not without
+293	loud-thundering Zeus does he stand forth as champion, so eager.
+294	Come then, let us all do as I say.
+295	Let us order the multitude to go back to the ships;
+296	but let us ourselves, all of us who claim to be the best in the army,
+297	stand firm, in the hope that we may first hold him back, meeting him
+298	with our spears held up; and I think that, eager though he is,
+299	he will be afraid in his heart to plunge into the throng of the Danaans.”
+300	So he spoke, and they listened closely to him and obeyed.
+301	Those around Ajax and lord Idomeneus,
+302	Teucer and Meriones and Meges, the equal of Ares,
+303	called the best men and set the battle in order
+304	against Hector and the Trojans; but behind them
+305	the multitude went back to the ships of the Achaeans.
+306	And the Trojans drove forward in a body, and Hector led them,
+307	with long strides; and before him went Phoebus Apollo,
+308	his shoulders wrapped in cloud, and he held the furious aegis,
+309	dreadful, shaggy all around, conspicuous, which the smith
+310	Hephaestus gave to Zeus to carry, to put men to rout;
+311	holding this in his hands he led the army.
+312	And the Argives held their ground in a body, and the war cry rose
+313	shrill on both sides, and arrows leapt from the bowstrings;
+314	and many spears from bold hands
+315	were fixed, some of them, in the flesh of young men swift in war,
+316	and many, too, in between, before they could reach the white flesh,
+317	stood fixed in the ground, longing to glut themselves on flesh.
+318	As long as Phoebus Apollo held the aegis motionless in his hands,
+319	so long the missiles of both sides struck home, and the people fell.
+320	But when he looked the Danaans of the swift horses in the face
+321	and shook it, and himself shouted very loudly besides, then their hearts
+322	in their breasts he bewitched, and they forgot their furious courage.
+323	And as a herd of cattle or a great flock of sheep
+324	is thrown into confusion by two wild beasts in the dead of black night,
+325	coming on them suddenly when the herdsman is not there,
+326	so the Achaeans fled in rout, their courage gone; for Apollo
+327	sent rout among them, and granted glory to the Trojans and Hector.
+328	Then man killed man, as the battle scattered.
+329	Hector killed Arcesilaus and Stichius,
+330	the one a leader of the bronze-armored Boeotians,
+331	the other a trusted companion of great-hearted Menestheus;
+332	and Aeneas slew and stripped Medon and Iasus.
+333	One was the bastard son of divine Oileus,
+334	Medon, the brother of Ajax; but he lived
+335	in Phylace, away from his native land, since he had killed a man,
+336	a kinsman of his stepmother Eriopis, whom Oileus had as wife;
+337	and Iasus had been made a leader of the Athenians,
+338	and was called the son of Sphelus, son of Bucolus.
+339	And Polydamas killed Mecisteus, and Polites Echius,
+340	in the front line of battle, and brilliant Agenor killed Clonius.
+341	And Paris struck Deiochus at the base of the shoulder from behind,
+342	as he fled among the champions, and drove the bronze straight through.
+343	While these were stripping them of their armor, the Achaeans meanwhile,
+344	plunging into the ditch they had dug and the stakes,
+345	fled this way and that, and went inside the wall under compulsion.
+346	And Hector called out to the Trojans, shouting aloud:
+347	“Rush on the ships, and leave the bloody spoils!
+348	Whomever I see away from the ships, on the other side,
+349	there and then I will devise his death, and his kinsmen
+350	and kinswomen shall not give him his portion of fire when he is dead,
+351	but dogs shall tear him in front of our city.”
+352	So saying, he drove on the horses with the whip from the shoulder,
+353	calling to the Trojans along the ranks; and with him they
+354	all shouted and drove the chariot-drawing horses
+355	with a wondrous din; and before them Phoebus Apollo
+356	easily kicked down the banks of the deep trench with his feet
+357	and threw them into the middle, and bridged a path
+358	long and wide, as far as the cast of a spear
+359	goes, when a man throws it to test his strength.
+360	There they poured forward in battalions, and before them Apollo
+361	holding the aegis, highly prized; and he threw down the wall of the Achaeans
+362	very easily, as when a boy beside the sea throws down the sand,
+363	who, when he has made playthings in his childishness,
+364	scatters them again with his feet and hands in play:
+365	so you, archer Phoebus, scattered the long labor and misery
+366	of the Argives, and roused panic among them.
+367	So they halted beside the ships and stood their ground,
+368	calling to one another, and to all the gods
+369	they lifted up their hands, and each man prayed aloud;
+370	and above all Nestor, the Gerenian, the guardian of the Achaeans,
+371	prayed, stretching out his hands to the starry sky:
+372	“Father Zeus, if ever anyone in Argos rich in wheat,
+373	burning to you the fat thigh pieces of ox or sheep,
+374	prayed that he might return, and you promised and nodded your assent,
+375	remember these things, Olympian, and ward off the pitiless day,
+376	and do not let the Achaeans be so beaten down by the Trojans.”
+377	So he spoke in prayer, and Zeus the counselor thundered loudly,
+378	hearing the prayers of the old son of Neleus.
+379	And the Trojans, when they heard the thunder of aegis-bearing Zeus,
+380	sprang on the Argives more fiercely, and remembered the joy of battle.
+381	And as a great wave of the wide-wayed sea
+382	comes down over the sides of a ship, when it is driven on
+383	by the force of the wind; for that above all swells the waves:
+384	so the Trojans with a great shout went down over the wall,
+385	and drove their horses in and fought at the sterns
+386	hand to hand with double-pointed spears, the one side from their chariots,
+387	the others from the black ships, having climbed up high,
+388	with the long spears that lay ready for them on the ships,
+389	for fighting at sea, jointed, clad in bronze at the tip.
+390	And Patroclus, as long as the Achaeans and Trojans
+391	were fighting around the wall, outside the swift ships,
+392	so long sat in the hut of manly Eurypylus
+393	and cheered him with talk, and on the grievous wound
+394	he spread healing drugs against the black pains.
+395	But when he saw them rushing at the wall,
+396	the Trojans, and among the Danaans there rose shouting and rout,
+397	he groaned aloud then, and struck both his thighs
+398	with the flat of his hands, and lamenting he spoke a word:
+399	“Eurypylus, I can no longer, much as you need me,
+400	stay here beside you; for a great quarrel has arisen.
+401	But let your attendant cheer you, and I
+402	will hurry to Achilles, to urge him to fight.
+403	Who knows if, with a god's help, I might stir his heart
+404	by persuading him? Good is the persuasion of a companion.”
+405	So he spoke, and his feet carried him off; and the Achaeans
+406	awaited the Trojans steadfastly as they came on, but could not
+407	push them, fewer as they were, away from the ships;
+408	nor could the Trojans ever break the battalions of the Danaans
+409	and force their way among the huts and the ships.
+410	But as a chalk line makes a ship's timber straight
+411	in the hands of a skilled carpenter, who knows
+412	well all his craft by the promptings of Athena,
+413	so evenly was their battle and war stretched tight;
+414	and others were fighting their battle around other ships,
+415	and Hector went straight at glorious Ajax.
+416	The two were toiling over one ship, and could not,
+417	the one drive the other off and burn the ship with fire,
+418	nor the other thrust him back, since a god had brought him there.
+419	Then shining Ajax struck Caletor, son of Clytius,
+420	as he brought fire to the ship, in the chest with his spear.
+421	He fell with a thud, and the brand dropped from his hand.
+422	And when Hector saw with his eyes his cousin
+423	fallen in the dust in front of the black ship,
+424	he called out to the Trojans and Lycians, shouting aloud:
+425	“Trojans and Lycians and Dardanians who fight hand to hand,
+426	do not draw back from the battle yet, in this narrow place,
+427	but save the son of Clytius, so that the Achaeans do not
+428	strip him of his armor, fallen in the gathering of the ships.”
+429	So saying, he threw his shining spear at Ajax.
+430	He missed him, but then Lycophron, son of Mastor,
+431	the attendant of Ajax, from Cythera, who lived with him,
+432	since he had killed a man in holy Cythera—
+433	him he struck on the head above the ear with the sharp bronze
+434	as he stood near Ajax; and he fell on his back in the dust
+435	from the stern of the ship to the ground, and his limbs were loosened.
+436	And Ajax shuddered, and spoke to his brother:
+437	“Teucer, my friend, our trusted companion has been killed,
+438	the son of Mastor, who came from Cythera and lived in our house,
+439	and whom we honored in our halls like our own dear parents;
+440	and great-hearted Hector has killed him. Where now are your arrows
+441	of swift death, and the bow that Phoebus Apollo gave you?”
+442	So he spoke, and the other understood, and ran and stood beside him,
+443	holding in his hand the back-bent bow and the quiver
+444	that holds the arrows; and very swiftly he let fly his missiles at the Trojans.
+445	And he struck Cleitus, the splendid son of Peisenor,
+446	the companion of Polydamas, the noble son of Panthous,
+447	as he held the reins in his hands; he was busy with the horses,
+448	for he drove them where by far the most battalions were thrown into confusion,
+449	to do a favor to Hector and the Trojans; but quickly upon him
+450	came the evil that no one could keep from him, eager though they were.
+451	For the arrow of many groans fell on his neck from behind;
+452	he fell from the chariot, and the horses shied back,
+453	rattling the empty chariot. And the lord was quickest to notice,
+454	Polydamas, and was the first to come to meet the horses.
+455	He gave them to Astynous, son of Protiaon,
+456	and urged him strongly to keep them close, with his eyes on him,
+457	the horses; and he himself went back and mingled with the champions.
+458	And Teucer took another arrow for Hector armed in bronze,
+459	and he would have stopped him from battle at the ships of the Achaeans,
+460	if he had hit him while he was the best in the fighting, and taken away his life.
+461	But he did not escape the shrewd mind of Zeus, who was guarding
+462	Hector, and he took the triumph away from Teucer, son of Telamon,
+463	for he broke the well-twisted string on his flawless bow
+464	as he was drawing it against him; and it went astray elsewhere,
+465	the arrow heavy with bronze, and the bow fell from his hand.
+466	And Teucer shuddered, and spoke to his brother:
+467	“Ah, truly the plans of our battle are being utterly cut short
+468	by a god, who has knocked the bow from my hand,
+469	and broken the newly twisted string that I bound on
+470	this morning, so that it might bear the arrows springing thick and fast.”
+471	Then great Telamonian Ajax answered him:
+472	“My friend, let your bow and your thick-flying arrows
+473	lie, since a god has confounded them, begrudging the Danaans;
+474	but take a long spear in your hands, and a shield on your shoulder,
+475	and fight the Trojans, and rouse the rest of the army.
+476	Let them not, even though they have overpowered us, take without a struggle
+477	the well-benched ships; let us remember the joy of battle.”
+478	So he spoke, and the other put the bow away in the huts,
+479	and around his shoulders he put a shield of four layers,
+480	and on his mighty head he set a well-made helmet
+481	with a horsehair crest, and the plume nodded terribly above it;
+482	and he took a strong spear, tipped with sharp bronze,
+483	and went his way, and running very swiftly stood beside Ajax.
+484	And when Hector saw that Teucer's missiles had been foiled,
+485	he called out to the Trojans and Lycians, shouting aloud:
+486	“Trojans and Lycians and Dardanians who fight hand to hand,
+487	be men, my friends, and remember your furious courage
+488	along the hollow ships; for I have seen with my eyes
+489	the missiles of their best man foiled by Zeus.
+490	Easily known among men is the help that comes from Zeus,
+491	both in those into whose hands he puts the higher glory
+492	and in those whom he diminishes and will not defend,
+493	as now he diminishes the might of the Argives, and helps us.
+494	So fight at the ships in a body; and whoever of you
+495	is hit or struck and meets his death and his fate,
+496	let him die; it is not unseemly for him, fighting in defense of his native land,
+497	to die; but his wife is safe and his children after him,
+498	and his house and his allotment unharmed, if the Achaeans
+499	are gone with their ships to their dear native land.”
+500	So saying, he urged on the might and spirit of every man.
+501	And Ajax on the other side called to his companions:
+502	“Shame, Argives! Now it is sure: either we perish
+503	or we are saved and thrust the evil away from the ships.
+504	Do you expect, if Hector of the gleaming helmet takes the ships,
+505	that you will each come on foot to your native land?
+506	Do you not hear him urging on his whole army,
+507	Hector, who is eager to set fire to the ships?
+508	Truly it is not to a dance that he bids them come, but to fight.
+509	For us there is no better thought or counsel than this,
+510	to mingle our hands and our might with theirs hand to hand.
+511	Better to perish once and for all, or to live,
+512	than to be slowly drained away in grim combat
+513	like this, beside the ships, by worse men than we are.”
+514	So saying, he urged on the might and spirit of every man.
+515	Then Hector killed Schedius, son of Perimedes,
+516	leader of the Phocians, and Ajax killed Laodamas,
+517	leader of the foot soldiers, the splendid son of Antenor;
+518	and Polydamas slew and stripped Otus of Cyllene,
+519	companion of the son of Phyleus, and a leader of the great-hearted Epeians.
+520	Meges saw it and sprang at him; but he ducked under and slipped aside,
+521	Polydamas; and he missed him; for Apollo
+522	would not let the son of Panthous be overpowered among the champions;
+523	but he stabbed Croesmus in the middle of the chest with his spear,
+524	and he fell with a thud; and the other was stripping the armor from his shoulders.
+525	Meanwhile Dolops sprang at him, well skilled with the spear,
+526	the son of Lampus, the strongest son that Lampus,
+527	son of Laomedon, fathered, well skilled in furious courage;
+528	he then stabbed the middle of the shield of the son of Phyleus with his spear,
+529	rushing at him from close by; but the close-fitted corselet kept it off,
+530	which he wore, fitted with plates; Phyleus had once
+531	brought it from Ephyra, from the river Selleis.
+532	For his guest-friend, Euphetes, lord of men, had given it to him
+533	to wear into war, a defense against enemy men;
+534	and then too it kept destruction from his son's body.
+535	And Meges, on his bronze-fitted, horsehair-crested helmet,
+536	stabbed the topmost peak with his sharp spear,
+537	and broke off the horsehair plume from it; and it all fell
+538	to the ground in the dust, bright with fresh purple.
+539	While he stood his ground and fought him, and still hoped for victory,
+540	warlike Menelaus came to his defense,
+541	and stood off to one side with his spear, unseen, and hit him in the shoulder from behind;
+542	and the point sped through his chest in its fury,
+543	pressing forward; and he sank face down.
+544	The two hurried to strip the bronze-fitted armor from his shoulders;
+545	but Hector called on his kinsmen,
+546	all of them, and first he rebuked the son of Hicetaon,
+547	mighty Melanippus. For a time he grazed shambling cattle
+548	in Percote, while the enemy were still far away;
+549	but when the curving ships of the Danaans came,
+550	he came back to Ilios, and stood out among the Trojans,
+551	and lived beside Priam; and Priam honored him as he honored his children.
+552	Hector rebuked him, and spoke to him, and called him by name:
+553	“Are we to hold back like this, Melanippus? Is your dear heart
+554	not moved at all, now that your cousin is killed?
+555	Do you not see how they are busy about the armor of Dolops?
+556	Come with me; for we can no longer fight the Argives
+557	from a distance, until either we kill them, or from top to bottom
+558	they take steep Ilios and kill its citizens.”
+559	So saying, he led the way, and the other followed, a man equal to the gods.
+560	And great Telamonian Ajax urged on the Argives:
+561	“Friends, be men, and set shame in your hearts,
+562	and feel shame before one another in the fierce battles;
+563	when men feel shame, more are saved than are killed;
+564	but when men flee, there rises neither fame nor any courage.”
+565	So he spoke, and they too were eager to defend themselves,
+566	and they laid his word to heart, and fenced the ships
+567	with a bulwark of bronze; but Zeus roused the Trojans against them.
+568	And Menelaus, good at the war cry, urged on Antilochus:
+569	“Antilochus, no other of the Achaeans is younger than you,
+570	nor swifter of foot, nor as valiant as you in fighting;
+571	if only you would leap out and strike some man of the Trojans.”
+572	So saying, he hurried back again, and spurred him on;
+573	and he leapt out from the champions and threw his shining spear,
+574	glancing around him; and the Trojans shrank back
+575	from the man as he threw; and he did not throw the shaft in vain,
+576	but struck the son of Hicetaon, high-hearted Melanippus,
+577	as he was going into the war, in the chest beside the nipple.
+578	He fell with a thud, and darkness covered his eyes.
+579	And Antilochus sprang at him like a dog that darts
+580	at a wounded fawn, which, as it leapt from its lair,
+581	a hunter has hit with his shot, and loosened its limbs;
+582	so at you, Melanippus, Antilochus, steadfast in battle, leapt
+583	to strip your armor; but he did not escape brilliant Hector's notice,
+584	who came running through the combat to meet him.
+585	And Antilochus did not stand his ground, swift warrior though he was,
+586	but fled in fear, like a wild beast that has done some harm,
+587	that has killed a dog or a herdsman beside his cattle,
+588	and flees before a throng of men can gather;
+589	so the son of Nestor fled in fear, and the Trojans and Hector
+590	with a wondrous din poured their groaning missiles on him;
+591	and he turned and stood, when he reached the crowd of his companions.
+592	And the Trojans, like lions that eat raw flesh,
+593	rushed upon the ships, and fulfilled the commands of Zeus,
+594	who kept rousing great might in them, and bewitched the heart
+595	of the Argives, and took away their glory, and spurred the others on.
+596	For his heart wished to hold out glory to Hector,
+597	son of Priam, so that on the curved ships he might cast wondrous fire,
+598	tireless fire, and fulfill the excessive prayer of Thetis
+599	in full; for Zeus the counselor was waiting for this,
+600	to see with his eyes the blaze of a burning ship.
+601	For from then on he was going to bring about a counterattack
+602	against the Trojans from the ships, and to hold out glory to the Danaans.
+603	With this in mind he roused at the hollow ships
+604	Hector, son of Priam, though he was very eager himself.
+605	He raged as when spear-brandishing Ares, or deadly fire,
+606	rages in the mountains, in the thickets of the deep forest;
+607	and foam formed around his mouth, and his two eyes
+608	blazed under his grim brows, and his helmet
+609	shook terribly around his temples as he fought,
+610	Hector; for from the upper air he himself was his defender,
+611	Zeus, who, though Hector was alone among many men,
+612	honored him and gave him glory. Short-lived he was to be;
+613	for already she was rousing his fated day against him,
+614	Pallas Athena, under the strength of the son of Peleus.
+615	And he wanted to break the ranks of men, testing them,
+616	where he saw the greatest throng and the best armor;
+617	but even so he could not break them, though he raged greatly;
+618	for they held, fitted together in close order like a tower, like a rock,
+619	lofty and great, close to the gray sea,
+620	which withstands the swift paths of the shrill winds
+621	and the swollen waves that belch against it:
+622	so the Danaans awaited the Trojans steadfastly and did not flee.
+623	But he, blazing all over with fire, leapt into the throng,
+624	and fell on them as when a wave falls on a swift ship,
+625	violent under the clouds, wind-nurtured; and the ship is all
+626	hidden under the foam, and the dread blast of the wind
+627	roars in the sail, and the sailors tremble at heart
+628	in fear; for they are carried out from under death by only a little:
+629	so the heart in the breasts of the Achaeans was torn.
+630	But he, like a deadly lion coming upon cattle
+631	that graze in the low wet ground of a great marsh,
+632	countless, and among them a herdsman who does not yet well know
+633	how to fight a wild beast over the slaughter of a cow with curving horns;
+634	he walks always with the first and the last of the cattle,
+635	keeping in step with them, but the lion leaps into the middle
+636	and devours a cow, and they all flee in fear: so then the Achaeans
+637	fled in wondrous rout before Hector and father Zeus,
+638	all of them; but he killed only Periphetes of Mycenae,
+639	the dear son of Copreus, who used to go for lord Eurystheus
+640	with messages to mighty Heracles.
+641	From him, a far worse father, was born a better son
+642	in every kind of prowess, both in running and in fighting,
+643	and in mind he was among the first of the Mycenaeans;
+644	he it was who then put the higher glory into Hector's hands.
+645	For as he turned back, he tripped on the rim of his shield,
+646	which he carried himself, reaching to his feet, a barrier against javelins;
+647	caught in it, he fell on his back, and his helmet
+648	rang terribly around his temples as he fell.
+649	But Hector was quick to see it, and ran and stood beside him,
+650	and fixed his spear in his chest, and close to his dear companions
+651	he killed him; and they could not, though grieving for their companion,
+652	help him; for they themselves feared brilliant Hector greatly.
+653	And they came face to face with the ships, and the outermost ships,
+654	all those drawn up first, hemmed them in; and the others poured in.
+655	And the Argives gave way from the ships, under compulsion,
+656	from the first ones, but there beside the huts they stood their ground
+657	all together, and did not scatter through the camp; for shame held them
+658	and fear; for they called to one another ceaselessly.
+659	And above all Gerenian Nestor, the guardian of the Achaeans,
+660	begged each man by his parents, imploring him:
+661	“Friends, be men, and set shame in your hearts
+662	before other men; and let each of you remember
+663	your children and your wives and your wealth and your parents,
+664	both he whose parents are living and he whose parents are dead;
+665	for their sake, though they are not here, I implore you
+666	to stand firm, and not to turn to rout.”
+667	So saying, he urged on the might and spirit of every man.
+668	And from their eyes Athena thrust away the cloud of mist,
+669	wondrous; and a great light came to them on both sides,
+670	both toward the ships and toward the war, common to all.
+671	And they saw Hector, good at the war cry, and his companions,
+672	both those who stood back behind and were not fighting,
+673	and those who were fighting their battle beside the swift ships.
+674	Nor did it please the heart of great-hearted Ajax any longer
+675	to stand where the other sons of the Achaeans had stood back;
+676	but he went up and down the decks of the ships with long strides,
+677	and wielded in his hands a great spear for fighting at sea,
+678	joined with bands, twenty-two cubits long.
+679	And as a man well skilled in riding horses,
+680	who, when he has harnessed together four horses out of many,
+681	drives them from the plain and speeds toward a great city
+682	along the public road; and many gaze at him,
+683	men and women; and he, always steadily and safely,
+684	leaps from one horse to another as they fly on:
+685	so Ajax went over many decks of the swift ships,
+686	ranging with long strides, and his voice reached the upper air,
+687	and always shouting terribly he ordered the Danaans
+688	to defend the ships and the huts. Nor did Hector
+689	stay in the throng of the close-armored Trojans;
+690	but as a tawny eagle swoops on a tribe of winged birds
+691	as they feed beside a river,
+692	geese or cranes or long-necked swans,
+693	so Hector made straight for a dark-prowed ship,
+694	darting at it face to face; and Zeus pushed him on from behind
+695	with his very great hand, and urged on the army with him.
+696	And again a bitter battle was fought beside the ships;
+697	you would have said that unwearied and unyielding they met one another
+698	in war, so furiously did they fight.
+699	And as they fought, this was their mind: the Achaeans
+700	thought they would not escape from the evil, but would perish,
+701	and the heart in the breast of each of the Trojans hoped
+702	to set fire to the ships and kill the Achaean heroes.
+703	With these thoughts they stood against one another;
+704	and Hector took hold of the stern of a seafaring ship,
+705	a fine, swift-sailing ship, which had brought Protesilaus
+706	to Troy, and did not take him back again to his native land.
+707	It was around his ship that the Achaeans and Trojans
+708	were cutting one another down hand to hand; nor did they
+709	stand apart and await the rush of arrows any longer, nor of javelins,
+710	but standing close by, with one heart,
+711	they fought with sharp axes and battle-axes
+712	and with great swords and double-pointed spears.
+713	And many fine swords, with black-bound hilts,
+714	fell to the ground, some from the hands, some from the shoulders
+715	of fighting men; and the black earth ran with blood.
+716	And Hector, once he had taken hold of the stern, would not let go,
+717	holding the stern ornament in his hands, and he called to the Trojans:
+718	“Bring fire, and at the same time raise the war cry yourselves, in a body!
+719	Now Zeus has given us a day worth all the rest,
+720	to take the ships, which came here against the will of the gods
+721	and brought many banes upon us, through the cowardice of the elders,
+722	who, when I wanted to fight at the sterns of the ships,
+723	held me back, and restrained the army;
+724	but if far-seeing Zeus was harming our minds then,
+725	now he himself is urging us on and commanding us.”
+726	So he spoke, and they sprang more fiercely on the Argives.
+727	And Ajax no longer stood his ground; for he was hard pressed by missiles;
+728	but he drew back a little way, thinking he would die,
+729	to the seven-foot bench, and left the deck of the balanced ship.
+730	There he stood on the watch, and with his spear he always
+731	kept the Trojans from the ships, whoever brought tireless fire;
+732	and always shouting terribly he ordered the Danaans:
+733	“Friends, Danaan heroes, attendants of Ares,
+734	be men, my friends, and remember your furious courage.
+735	Do we think there are helpers behind us,
+736	or some stronger wall, that could ward off ruin from men?
+737	There is no city near, fitted with towers,
+738	where we could defend ourselves, with a people to turn the battle;
+739	but here in the plain of the close-armored Trojans
+740	we sit with our backs to the sea, far from our native land;
+741	so in our hands lies the light, not in softness in war.”
+742	He spoke, and in his fury pressed on with his sharp spear.
+743	And whoever of the Trojans rushed at the hollow ships
+744	with blazing fire, to do a favor to Hector who urged them on,
+745	Ajax would wait for him and stab him with his long spear;
+746	and twelve he stabbed hand to hand in front of the ships.

@@ -38,7 +38,7 @@ He beats down Alcathous for Idomeneus' spear, guards Antilochus, breaks Adamas' 
 
 **Openly.** In Book 14 he takes Agamemnon by the hand in the likeness of an old man and shouts like nine or ten thousand men (14.135–152; see [[agamemnon]]). Hera puts Zeus to sleep on Ida, and Sleep tells Poseidon to help the Danaans while Zeus sleeps (14.153–360; see [[hera]], [[sleep]] and [[the-deception-of-zeus]]). He leads them openly, holding a terrible long sword “like lightning”; Ajax fells Hector with a stone, and the Trojans are routed (14.361–510).
 
-**Ordered out.** Zeus wakes and sees “Poseidon the lord” among the Achaeans (15.4–8). Through Iris he orders him out of the war, as far the stronger and “elder by birth” (15.158–167). Poseidon protests that he is Zeus' equal, one of three brothers who divided the world by lot, but when Iris reminds him that the Erinyes follow the elder, he yields in indignation, threatening lasting anger if Zeus spares Troy (15.184–217; see [[iris]]). He plunges into the sea, “and the Achaean heroes missed him” (15.218–219), and Apollo takes his place beside Hector (15.220–262; see [[apollo]]).
+**Ordered out.** Zeus wakes and sees “lord Poseidon” among the Achaeans (15.4–8). Through Iris he orders him out of the war, as far the stronger and “elder by birth” (15.158–167). Poseidon protests that he is Zeus' equal, one of three brothers who divided the world by lot, but when Iris reminds him that the Erinyes follow the elder, he yields in indignation, threatening lasting anger if Zeus spares Troy (15.184–217; see [[iris]]). He plunges into the sea, “and the Achaean heroes missed him” (15.218–219), and Apollo takes his place beside Hector (15.220–262; see [[apollo]]).
 
 ## In the poem
 

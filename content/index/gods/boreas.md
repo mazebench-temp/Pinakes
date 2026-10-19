@@ -8,7 +8,7 @@ aliases: [North Wind, Borees]
 grc: [Βορέ*]
 ---
 
-Βορέας (Homer's form is Βορέης), the north wind. The Iliad calls it αἰθρηγενής, “born of the bright upper air” (15.171, 19.358): a cold wind that clears the sky. With Zephyrus it blows “from Thrace” (9.5). The name has no agreed etymology.
+Βορέας (Homer's form is Βορέης), the north wind. The Iliad calls it αἰθρηγενής, “born of the clear sky” (15.171, 19.358): a cold wind that clears the sky. With Zephyrus it blows “from Thrace” (9.5). The name has no agreed etymology.
 
 ## In Homer
 

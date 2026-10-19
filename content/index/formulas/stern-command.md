@@ -3,7 +3,7 @@ title: A stern command
 greek: κρατερὸν δ’ ἐπὶ μῦθον ἔτελλε
 kind: formula
 tags: [speech-formula, kingship]
-summary: The half-line for Agamemnon's harsh orders, “and laid a stern command on him” It frames his dismissal of Chryses (1.25, repeated at 1.379) and his dispatch of the heralds (1.326).
+summary: The half-line κρατερὸν δʼ ἐπὶ μῦθον ἔτελλε, “and laid a stern command on him”, which introduces a leader's harsh order.
 aliases: [harsh word, krateron mython]
 grc: [κρατερὸν δʼ ἐπὶ μῦθον ἔτελλε]
 en: [laid a stern command on him, laid a stern command on them]

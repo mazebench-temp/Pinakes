@@ -1,0 +1,5 @@
+---
+summary: Telamon is named in his sons' titles: Ajax is “son of Telamon” when Thoas recalls the stone that felled Hector and when he speaks to Teucer and to the Argives, and Teucer is “son of Telamon” when Zeus breaks his bowstring (15.289, 15.462, 15.471, 15.560).
+---
+
+Τελαμωνιάδαο, “son of Telamon”, ends a verse of Thoas' speech: every Achaean had hoped that Hector had died “at the hands of Ajax, son of Telamon” (15.289; see [[thoas]], [[ajax]] and [[telamonian]]). μέγας Τελαμώνιος Αἴας, “great Telamonian Ajax”, answers Teucer and urges on the Argives (15.471, 15.560). Τεῦκρον Τελαμώνιον, “Teucer, son of Telamon” (15.462), gives the title to the younger brother when Zeus takes the triumph away from him, as Agamemnon did in Book 8 and the narrator in Book 13 (8.281, 13.170; see [[teucer]] and [[nothos]]). The brothers speak of a house they share: Lycophron, Ajax tells Teucer, “came from Cythera and lived in our house”, and they honored him “like our own dear parents” (15.438–439; see [[lycophron]]).

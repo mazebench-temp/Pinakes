@@ -9,7 +9,7 @@ aliases: [Aias, Telamonian Ajax]
 grc: [Αἴαντ*, Αἴας]
 # Αἶαν at 12.366 is the son of Oileus, whom Telamonian Ajax addresses; Ὀϊλῆος ταχὺς Αἴας (13.66, 13.701)
 # and Αἴαντος ἀδελφεός (13.695, of Medon) are the son of Oileus too.
-except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701, Rhetoric 1399b29, Rhetoric 1400a28]
+except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701, 15.334, Rhetoric 1399b29, Rhetoric 1400a28]
 en: [Ajax]
 ---
 
@@ -39,7 +39,7 @@ Elsewhere he is the best after Achilles “in form and in deeds” (17.279–280
 
 **The line and the embassy.** His ships are drawn up at one end of the camp and Achilles' at the other (8.222–226 = 11.5–9). He is one of the three envoys to Achilles in Book 9, and his short, blunt speech wins the only concession Achilles makes (9.624–655; see [[the-embassy-to-achilles]]).
 
-**The wall and the ships.** He rescues Odysseus, cut off among the Trojans (11.465–491), and when Zeus puts fear in him he gives ground step by step, like a lion driven from the cattle or a donkey that boys can hardly beat out of the grain, with spears standing in his shield (11.544–574). He holds the wall with the other Ajax and with Teucer, and drives Sarpedon back from the battlement (12.265–270, 12.370–407). He fells Hector with a stone (14.409–420). At the ships he strides from deck to deck with a pike twenty-two cubits long, tells the army that no wall and no city stands behind them, “so the light is in our hands”, and wounds twelve men who come with fire (15.674–688, 15.733–746). He gives way only when Hector lops the head from his spear and he sees the work of Zeus, and the first ship burns (16.114–123).
+**The wall and the ships.** He rescues Odysseus, cut off among the Trojans (11.465–491), and when Zeus puts fear in him he gives ground step by step, like a lion driven from the cattle or a donkey that boys can hardly beat out of the grain, with spears standing in his shield (11.544–574). He holds the wall with the other Ajax and with Teucer, and drives Sarpedon back from the battlement (12.265–270, 12.370–407). He fells Hector with a stone (14.409–420). At the ships he strides from deck to deck with a spear for fighting at sea, twenty-two cubits long, tells the army that no wall and no city stands behind them, “so in our hands lies the light”, and stabs twelve men who come with fire (15.674–688, 15.733–746). He gives way only when Hector lops the head from his spear and he sees the work of Zeus, and the first ship burns (16.114–123).
 
 **Patroclus.** He stands over the body of Patroclus like a lion over its cubs (17.128–137). When Zeus hides the field in mist he prays: “Father Zeus, rescue the sons of the Achaeans from the mist … and in the light destroy us, since that is your pleasure”, and Zeus, pitying him, scatters the mist (17.645–650). With the other Ajax he holds back the Trojans while Menelaus and Meriones carry the body away (17.715–753).
 

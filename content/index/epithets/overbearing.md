@@ -12,7 +12,7 @@ of: [diomedes]
 
 ## Meaning
 
-ὑπερφίαλος begins with ὑπέρ (“over, beyond”); the rest of the word is of uncertain origin. It means “going beyond measure, arrogant, overbearing,” and it is always blame. In the Iliad Menelaus says that Priam's sons are “overbearing and not to be trusted” (3.106), and calls the Trojans “overbearing, insatiable of the dread war cry” (Il. 13.621); Athena taunts Ares that he helps “the overbearing Trojans” (Il. 21.414). Hera tells Themis that the spirit of Zeus is “overbearing and harsh” (Il. 15.93–94). In the Odyssey it is the suitors' formula, μνηστῆρσιν ὑπερφιάλοισι (for example Od. 4.790, 13.373), and it describes the Cyclopes (Od. 9.106). Compare [[hybris]] and [[overweening]] (ὑπερηνορέων).
+ὑπερφίαλος begins with ὑπέρ (“over, beyond”); the rest of the word is of uncertain origin. It means “going beyond measure, arrogant, overbearing,” and it is always blame. In the Iliad Menelaus says that Priam's sons are “overbearing and not to be trusted” (3.106), and over the body of Peisander he cries, “you overbearing Trojans, insatiable of the dread war cry” (Il. 13.621); Athena taunts Ares that he helps “the overbearing Trojans” (Il. 21.414). Hera tells Themis that Zeus has a heart “overbearing and harsh” (Il. 15.93–94). In the Odyssey it is the suitors' formula, μνηστῆρσιν ὑπερφιάλοισι (for example Od. 4.790, 13.373), and it describes the Cyclopes (Od. 9.106). Compare [[hybris]] and [[overweening]] (ὑπερηνορέων).
 
 ## Use
 

@@ -3,11 +3,11 @@ title: Dark brows
 greek: κυάνεαι ὀφρύες
 kind: epithet
 tags: [divine-epithet, body]
-summary: The dark brows with which [[Zeus]] nods his assent to Thetis (1.528), one of the most famous gestures in the Iliad.
+summary: The dark brows of the gods, κυάνεαι ὀφρύες: beneath them [[Zeus]] nods his assent (1.528, 17.209), and above them Hera's forehead stays unwarmed when she laughs (15.102).
 aliases: [dark eyebrows, kyaneai ophryes]
 grc: [κυανέῃσιν ἐπʼ ὀφρύσι]
 en: [dark brows]
-of: [zeus]
+of: [zeus, hera]
 ---
 
 ## Meaning

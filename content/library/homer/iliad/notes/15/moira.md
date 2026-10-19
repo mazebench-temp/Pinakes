@@ -1,0 +1,11 @@
+---
+summary: Book 15 sets the two senses of μοῖρα side by side. Poseidon's claim against Zeus rests on the share, his “third share” of the world and his “equal lot”; Ares would accept his fate, the thunderbolt, to avenge his son; and Hector, short-lived, is already being driven toward “his fated day”.
+grc: [μοίρῃ, ἰσόμορον, ὠκύμοροι]
+en: [third share, equal lot, swift death]
+passages:
+  - 15.185-211 | Poseidon's share
+---
+
+**The share.** Poseidon argues from the first sense of the word. The world was divided in three among the sons of Cronus, “and each has his share of honor” (ἔμμορε τιμῆς, 15.189; see [[time]] and [[the-lots-of-the-three-brothers]]); so Zeus, strong as he is, should “stay in his third share” (τριτάτῃ ἐνὶ μοίρῃ, 15.195). Yielding to Iris, he names his grievance in the same terms: dread grief comes upon him whenever Zeus wishes to rebuke with angry words “one who has an equal lot, ordained to the same portion as himself” (ἰσόμορον καὶ ὁμῇ πεπρωμένον αἴσῃ, 15.208–210; see [[aisa]]). ἰσόμορος, “of equal share”, occurs only here in Homer, and the verse heaps up the words of allotment, μόρος, πέπρωται and αἶσα, to say that the brothers' portions were fixed alike. His praise of Iris uses the formula of approval, κατὰ μοῖραν, “fair and right” (15.206; see [[a-messenger-who-knows-what-is-due]]).
+
+**The fated death.** Ares, told that his son Ascalaphus has fallen, will go to avenge him “even if it is my fate to be struck by the thunderbolt of Zeus / and lie with the dead among the blood and the dust” (εἴ πέρ μοι καὶ μοῖρα, 15.117–118; see [[ares]] and [[thunderbolt]]). A god cannot die, and the fate he names is the worst that Zeus can do to him; Athena stops him before he goes (15.121–142). Among men the word keeps its usual weight. Teucer's arrows are ὠκύμοροι, “of swift death” (15.441; see [[arrows]]), the epithet that marks Achilles as “swift-fated” (1.417, 1.505). And Hector, at the height of his triumph, is “short-lived” (μινυνθάδιος, 15.612), the word Achilles used of himself (1.352; see [[the-short-life-of-achilles]]): “for already she was rousing his fated day against him, / Pallas Athena, under the strength of the son of Peleus” (μόρσιμον ἦμαρ, 15.613–614; see [[hector]]).

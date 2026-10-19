@@ -3,7 +3,7 @@ title: Daring (tharsos)
 greek: θάρσος
 kind: term
 tags: [mind, warfare, divine-will]
-summary: Daring, the boldness to face what is feared; the verb θαρσέω is “take heart”, and θάρσει is the poem's word of encouragement. In Homer θάρσος is nearly always a god's gift, and Book 5 begins with Athena giving Diomedes “might and daring”.
+summary: Daring, the boldness to face what is feared; the verb θαρσέω is “take heart”, and θάρσει is the poem's word of encouragement. In Homer θάρσος is nearly always a god's gift.
 aliases: [tharsos, thrasos, tharseō, tharsaleos, tharsynō, boldness, confidence, take heart]
 grc: [θαρσ*]
 en: [daring, take heart, took courage, encourage, bold]

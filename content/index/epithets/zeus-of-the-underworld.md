@@ -12,7 +12,7 @@ of: [hades]
 
 ## Meaning
 
-καταχθόνιος = κατά (“down, beneath”) + χθών (“earth”): “beneath the earth.” With Ζεύς it makes Hades the Zeus of the world below, the king of the dead as Zeus is king of the gods above. Homer's Hades is the brother of Zeus and Poseidon, who drew the murky darkness as his share when the three divided the world (15.187–193), and he rules with Persephone. The phrase occurs only in Phoenix's speech (9.457); elsewhere Hades is named, or called “Hades the gatekeeper” ([[gatekeeper]]), “implacable and untamable” ([[implacable]], [[untamable]]). Compare Althaea's prayer in the same speech, “calling on Hades and dread Persephone” (9.569; [[dread]]).
+καταχθόνιος = κατά (“down, beneath”) + χθών (“earth”): “beneath the earth.” With Ζεύς it makes Hades the Zeus of the world below, the king of the dead as Zeus is king of the gods above. Homer's Hades is the brother of Zeus and Poseidon, who drew “the misty darkness” as his share when the three divided the world (15.191; see [[the-lots-of-the-three-brothers]]), and he rules with Persephone. The phrase occurs only in Phoenix's speech (9.457); elsewhere Hades is named, or called “Hades the gatekeeper” ([[gatekeeper]]), “implacable and untamable” ([[implacable]], [[untamable]]). Compare Althaea's prayer in the same speech, “calling on Hades and dread Persephone” (9.569; [[dread]]).
 
 ## Use
 

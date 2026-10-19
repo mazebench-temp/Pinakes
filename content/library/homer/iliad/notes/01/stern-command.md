@@ -1,3 +1,7 @@
+---
+summary: The half-line for Agamemnon's harsh orders, “and laid a stern command on him”. It frames his dismissal of Chryses (1.25, repeated at 1.379) and his dispatch of the heralds (1.326).
+---
+
 {{quote:805e1048-fc81-5416-9397-a93d039dfde1}}
 
 {{quote:5220a50b-0614-53b2-93b8-530a9b375d05}}

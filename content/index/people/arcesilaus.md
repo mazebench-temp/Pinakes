@@ -15,4 +15,4 @@ The name joins ἀρκέω, "ward off, defend", and λαός, "people": "defende
 
 ## Elsewhere in Homer
 
-When the Trojans break through to the ships, Hector kills Stichius and Arcesilaus, "the one a leader of the bronze-armored Boeotians, the other a trusted companion of great-hearted Menestheus" (15.329–331).
+When Apollo shakes the aegis and the Achaeans flee to their wall, “Hector killed Arcesilaus and Stichius, / the one a leader of the bronze-armored Boeotians, / the other a trusted companion of great-hearted Menestheus” (15.329–331).

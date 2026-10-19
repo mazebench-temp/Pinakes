@@ -1,0 +1,7 @@
+---
+summary: The book begins with the Trojans “pale with fear” in their rout and ends with the Achaeans held together by shame and fear. Between them Athena is terribly afraid for all the gods, Poseidon will not be frightened like a coward, and Periphetes' companions fear Hector too much to save him.
+grc: [δείσεσθαι, δείδισαν, δειδισσέσθω, περιδείσασα]
+en: [afraid, feared, frighten]
+---
+
+The rout of Book 14 leaves the Trojans halted by their chariots, “pale with fear” (χλωροὶ ὑπαὶ δείους, 15.4). Then the fear passes to the other side. Thoas hopes that Hector “will be afraid in his heart to plunge into the throng of the Danaans” (15.299), but it is the Achaeans whose hearts sink to their feet (15.280; see [[thymos]]); Periphetes dies close to his companions, who could not help him, “for they themselves feared brilliant Hector greatly” (15.652; see [[periphetes-of-mycenae]]); and the Argives driven back to their huts stand together, “for shame held them / and fear” (αἰδὼς / καὶ δέος, 15.657–658; see [[aidos]]). Among the gods, Athena runs out to stop Ares, “terribly afraid for all the gods” (περιδείσασα, 15.123; see [[athena]]), and Poseidon refuses to be frightened: “let him not try at all to frighten me with his hands, as if I were a coward” (δειδισσέσθω, 15.196; see [[poseidon]]). In a simile the sailors tremble at heart “in fear” as the wave falls on their ship (δειδιότες, 15.628).

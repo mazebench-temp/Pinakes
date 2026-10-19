@@ -1,0 +1,5 @@
+---
+summary: Twice in the book Hector calls on the “Trojans and Lycians and Dardanians who fight hand to hand”: to save the body of Caletor, and to press on at the ships when Teucer's bowstring breaks.
+---
+
+“Trojans and Lycians and Dardanians who fight hand to hand” is the first verse of Hector's exhortations, heard already in Books 8, 11 and 13 (8.173, 11.286, 13.150; [[exhortation]], [[trojans]], [[lycians]], [[dardanians]]). Here it opens two speeches. After Ajax kills his cousin Caletor, Hector bids them not draw back but save the body, “so that the Achaeans do not / strip him of his armor, fallen in the gathering of the ships” (15.424–428; [[caletor]], [[stripping-the-dead]]). After Teucer's bowstring snaps, he tells them that Zeus' help is easy to see, and that a man who dies fighting for his native land leaves his family safe (15.485–499; [[teucer]], [[dear-native-land]]). The epithet of close fighting comes in a book in which the fighting at the ships becomes hand to hand (15.386, 15.708, 15.746).

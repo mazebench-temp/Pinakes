@@ -1,0 +1,12 @@
+---
+summary: In the battle at the ships stripping the dead is a danger and a delay. The Achaeans escape behind their wall while the Trojans strip the first dead, and Hector orders his men to leave the bloody spoils; Meges is attacked as he strips Croesmus, the Achaeans' haste to strip Dolops brings Hector's kinsmen on them, and Antilochus, leaping to strip Melanippus, is driven off by Hector.
+grc: ["τεύχεα συλήσωσι", συλήσειν, "περὶ τεύχεʼ ἕπουσιν"]
+en: [strip him of his armor, strip, busy about the armor]
+passages:
+  - 15.343-351 | Hector: leave the bloody spoils
+  - 15.523-559 | Croesmus and Dolops
+---
+
+**Leave the spoils.** Hector and his men kill eight Achaeans as the battle scatters; Aeneas “slew and stripped” Medon and Iasus (ἐξενάριξεν, 15.332), as Polydamas will Otus of Cyllene (15.518), with the verb in which stripping and killing are one (see the article above). “While these were stripping them of their armor”, the Achaeans plunge through the ditch and get behind the wall (15.343–345). Hector will not let it happen again: “Rush on the ships, and leave the bloody spoils!” (ἐᾶν δʼ ἔναρα βροτόεντα, 15.347; see [[bloody-spoils]]), and whoever he sees away from the ships he will kill and leave unburied for the dogs (15.348–351; see [[cremation]] and [[honoring-the-dead]]). It is the order Nestor gave the Achaeans in Book 6, to kill men first and strip the dead at their ease afterward (6.66–71).
+
+**Stripping as danger.** Most of the book's attempts to strip a body are interrupted. Hector calls the Trojans to save the body of his cousin Caletor, “so that the Achaeans do not / strip him of his armor, fallen in the gathering of the ships” (15.427–428; see [[caletor]]). Meges kills Croesmus, “and the other was stripping the armor from his shoulders” (15.524) when Dolops springs at him; Menelaus kills Dolops, and “The two hurried to strip the bronze-fitted armor from his shoulders” (15.544–545), but Hector calls his kinsmen and rebukes Melanippus, “Do you not see how they are busy about the armor of Dolops?” (15.555; see [[dolops-son-of-lampus]] and [[fighting-over-the-body]]). Antilochus kills Melanippus and leaps on him “to strip your armor” like a dog on a wounded fawn, but Hector comes running and Antilochus flees like a beast that has done harm (15.579–589; see [[antilochus]] and [[the-dog-and-the-fawn]]). The spoils are the proof of a victory, and at the ships no one can stop long enough to take them.

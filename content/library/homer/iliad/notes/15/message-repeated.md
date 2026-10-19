@@ -1,0 +1,12 @@
+---
+summary: Zeus' order to Poseidon is given to Iris and delivered by her in the same words, changed only in person, except where she turns his veiled threat into a plain one; then she adds counsel of her own. Hera, sent to summon Iris and Apollo, repeats nothing of Zeus' plan but the summons.
+refs: [15.158-167, 15.174-183]
+passages:
+  - 15.157-183 | Zeus' message and Iris' delivery
+---
+
+**Iris' delivery.** Zeus tells Iris to take Poseidon “all this message, and do not be a false messenger” (15.159), and she delivers it almost verse for verse (15.160–167, 15.176–183). The changes of the first kind are those of person: “Bid him cease from battle and war” becomes “He bade you cease from battle and war”, “if he will not obey my words” becomes “if you will not obey his words”, and the closing verses keep their shape with “you” and “him” for “he” and “me”: Zeus is “far stronger than you in strength, / and the elder by birth” (15.181–182; see [[genee]]). The frame is hers: “A message for you, dark-haired earth-holder, / I have come here bringing, from aegis-bearing Zeus” (15.174–175; see [[earth-holder]] and [[dark-haired]]). The one change of substance is the threat. Zeus said only that Poseidon should consider whether he would dare to await him when he came (15.163–165); Iris says that Zeus “threatened that he himself would come here to fight against you / face to face; and he bids you keep out of reach of / his hands” (15.179–181). The veiled warning becomes an order to keep away.
+
+**Her own words.** When Poseidon refuses, Iris goes beyond the message, asking whether she is really to carry back so harsh an answer, and adding two maxims (15.200–204; see [[the-hearts-of-good-men-can-be-turned]] and [[the-erinyes-follow-the-elder]]). Poseidon praises her for it: “it is a good thing, too, when a messenger knows what is due” (15.207; see [[a-messenger-who-knows-what-is-due]]).
+
+**Hera's summons.** Zeus has told Hera his whole plan, from Hector's revival to the fall of Ilios, and sent her to call Iris and Apollo (15.54–77; see [[plan-of-zeus]]). She delivers only the summons: “Zeus bids you two come to Ida as quickly as you can; / and when you have come and looked upon the face of Zeus, / do whatever he urges and bids you” (15.146–148). To the other gods she has said only that Zeus is making known “evil deeds” (15.97). Here the messenger leaves out the message: neither Iris nor Apollo learns from Hera what Zeus intends.

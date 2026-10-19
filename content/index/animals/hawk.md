@@ -4,12 +4,12 @@ greek: ἴρηξ
 kind: animal
 tags: [bird, wild-animal]
 summary: The hawk or falcon, ἴρηξ, the swiftest of birds in Homer and a hunter of smaller birds. Gods go down like hawks, and so does Poseidon when he leaves the two Ajaxes (13.62–65); in the Odyssey a hawk tearing a dove is an omen for Telemachus.
-aliases: [hawks, falcon, ierax, kirkos, the dove-killer]
+aliases: [hawks, falcon, ierax, kirkos]
 grc: [ἴρηξ, "ἰρηκ*"]
 en: [hawk, hawks]
 ---
 
-ἴρηξ is the epic form of ἱέραξ, the hawk or falcon. Homer also names the κίρκος, a kind of hawk, “the lightest of winged creatures” (ἐλαφρότατος πετεηνῶν, 22.139; *Odyssey* 13.87), and once puts the two names together, ἴρηξ κίρκος (*Odyssey* 13.86–87). The hawk's epithets are of speed and of killing: ὠκύπτερος, “swift-winged” (13.62), ὠκύς, “swift”, φασσοφόνος, “dove-killer”, and ὤκιστος πετεηνῶν, “the swiftest of birds” (15.237–238).
+ἴρηξ is the epic form of ἱέραξ, the hawk or falcon. Homer also names the κίρκος, a kind of hawk, “the lightest of winged creatures” (ἐλαφρότατος πετεηνῶν, 22.139; *Odyssey* 13.87), and once puts the two names together, ἴρηξ κίρκος (*Odyssey* 13.86–87). The hawk's epithets are of speed and of killing: ὠκύπτερος, “swift-winged” (13.62), ὠκύς, “swift”, φασσοφόνος, “dove-killer”, and ὤκιστος πετεηνῶν, “the swiftest of winged birds” (15.237–238).
 
 ## In Homer
 

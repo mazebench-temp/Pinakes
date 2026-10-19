@@ -20,7 +20,7 @@ passages:
 
 ## Elsewhere in Homer
 
-Agamemnon finds Menestheus standing idle with “the Athenians, masters of the war cry” around him (4.327–328). When Hector attacks the ships, the Athenians hold the line with the Boeotians, Ionians, Locrians and Epeians, under Menestheus, Pheidas, Stichius and Bias (13.685–691). Aeneas kills Iasus, "a leader of the Athenians" (15.332–337).
+Agamemnon finds Menestheus standing idle with “the Athenians, masters of the war cry” around him (4.327–328). When Hector attacks the ships, the Athenians hold the line with the Boeotians, Ionians, Locrians and Epeians, under Menestheus, Pheidas, Stichius and Bias (13.685–691). Aeneas kills Iasus, “a leader of the Athenians” (15.332–337; see [[iasus]]).
 
 ## Outside Homer
 

@@ -1,0 +1,9 @@
+---
+summary: Zeus will let no god defend the Danaans until Achilles' wish is fulfilled, and then will hold out glory to them; meanwhile the Danaans stand against Hector like a sea cliff, and Ajax calls them “Danaan heroes, attendants of Ares” as he holds the ships (15.72–77, 15.602, 15.618–622, 15.733).
+---
+
+**Undefended.** Zeus forbids the gods to help them: “nor will I let any other / of the immortals defend the Danaans here, / until the wish of the son of Peleus is fulfilled” (15.72–74; see [[zeus]], [[achilles]] and [[thetis-supplicates-zeus]]). Their glory is deferred, not denied: when a ship burns, “from then on he was going to bring about a counterattack / against the Trojans from the ships, and to hold out glory to the Danaans” (15.601–602; see [[plan-of-zeus]]). Ajax, feeling the god's hand in Teucer's broken string, says that a god has confounded his arrows, “begrudging the Danaans” (15.473; see [[ajax]] and [[teucer]]).
+
+**Like a sea cliff.** When Hector tries to break their ranks, “they held, fitted together in close order like a tower, like a rock, / lofty and great, close to the gray sea”, which withstands the winds and the swollen waves: “so the Danaans awaited the Trojans steadfastly and did not flee” (15.618–622; see [[the-rock-by-the-sea]], [[like-a-tower]] and [[hector]]). The simile that follows turns it round, and Hector falls on them like a wave on a ship (15.623–629; see [[the-ship-in-the-storm]]).
+
+**Danaan heroes.** On the decks, Ajax “always shouting terribly … ordered the Danaans” to defend the ships and the huts (15.687–688, 15.732), and addresses them as the army's kings address it, “Friends, Danaan heroes, attendants of Ares” (15.733; 2.110, 6.67; see [[attendants-of-ares]] and [[heros]]). The name also marks the ships they came in. Melanippus left his herds at Percote “when the curving ships of the Danaans came” (15.549; see [[melanippus-son-of-hicetaon]]).

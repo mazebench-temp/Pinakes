@@ -3,13 +3,14 @@ title: Dolops
 greek: Δόλοψ
 kind: person
 tags: [achaean, warrior]
-summary: An Achaean, Dolops son of Clytius, the fourth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan Dolops son of Lampus, whom Menelaus kills in Book 15.
+summary: An Achaean, Dolops son of Clytius, the fourth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan [[dolops-son-of-lampus|Dolops son of Lampus]], whom Menelaus kills in Book 15.
 aliases: [Dolops son of Clytius]
 # The phrase claims the patronymic for the son: Clytius here has no entry, and is not the Trojan elder
-# (clytius, 3.147). Δόλοψ, Δόλοπος (15.525-555) are the Trojan son of Lampus, who will need his own id;
+# (clytius, 3.147). Δόλοψ, Δόλοπος (15.525-555) are the Trojan son of Lampus (dolops-son-of-lampus);
 # Δολόπεσσιν (9.484) are the Dolopians.
 grc: ["Δόλοπα Κλυτίδην"]
 en: [Dolops, "Dolops, son of Clytius"]
+except: [15.525, 15.555]
 relations:
   - slayer: hector (11.300-304)
 passages:
@@ -20,4 +21,4 @@ passages:
 
 Dolops is the only one of the nine whom the list gives a father: Δόλοπα Κλυτίδην, “Dolops, son of Clytius” (11.302). Neither he nor his father appears anywhere else. This Clytius is not the Trojan elder who sits with Priam on the wall (3.147; see [[clytius]]).
 
-Δόλοψ is also the singular of the people's name, “a Dolopian”: Peleus made Phoenix ruler of the Dolopians at the edge of Phthia (9.484; see [[dolopians]]). The name is given again to a Trojan, Dolops son of Lampus and grandson of Laomedon, who stabs at the shield of Meges and is speared from behind by Menelaus (15.525–545; see [[lampus]], [[meges]] and [[menelaus]]).
+Δόλοψ is also the singular of the people's name, “a Dolopian”: Peleus made Phoenix ruler of the Dolopians at the edge of Phthia (9.484; see [[dolopians]]). The name is given again to a Trojan, Dolops son of Lampus and grandson of Laomedon, who stabs at the shield of Meges and is speared from behind by Menelaus (15.525–545; see [[dolops-son-of-lampus]], [[lampus]], [[meges]] and [[menelaus]]).
