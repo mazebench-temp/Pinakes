@@ -20,7 +20,7 @@ A bright moon dims the stars near it, and readers have asked how the stars can s
 
 ## The repeated lines
 
-Two of the simile's verses are found again in Book 16 (8.557–558 = 16.299–300). There, when Patroclus has driven the Trojans from the burning ship, the Danaans breathe again as when Zeus moves a thick cloud from the top of a high mountain, and the peaks and headlands and glens stand out, and the boundless air breaks open from the sky (16.297–302). The breaking open of the sky suits the clearing of a cloud better than a night that is already windless (8.556), and the two verses are reported to have been rejected here in antiquity (see the translation's note on 8.557–558). In Book 8 they add the land to the sky, lit and visible to the shepherd on his watch.
+Two of the simile's verses are found again in Book 16 (8.557–558 = 16.299–300). There, when Patroclus has driven the Trojans from the burning ship, the Danaans breathe again as when Zeus moves a thick cloud from the top of a high mountain, and the peaks and headlands and glens stand out, and the boundless air breaks open from the sky (16.297–302; see [[the-cloud-lifted-from-the-peak]]). The breaking open of the sky suits the clearing of a cloud better than a night that is already windless (8.556), and the two verses are reported to have been rejected here in antiquity (see the translation's note on 8.557–558). In Book 8 they add the land to the sky, lit and visible to the shepherd on his watch.
 
 ## In context
 

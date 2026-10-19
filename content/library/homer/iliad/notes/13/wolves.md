@@ -1,6 +1,6 @@
 ---
 summary: Wolves are the third of the beasts whose prey, Poseidon says, the Trojans used to be, as deer quick to flee (13.103).
-# λύκων will also catch the Trojan Λύκων, whom Peneleos kills (16.335, 16.337): add "!^Λύκων" with Book 16.
+# λύκων also catches the Trojan Λύκων, whom Peneleos kills (16.335, 16.337): the entry excepts both lines.
 grc: [λύκων]
 ---
 

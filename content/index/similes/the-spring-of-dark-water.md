@@ -3,7 +3,7 @@ title: The spring of dark water
 greek: δάκρυ χέων ὥς τε κρήνη μελάνυδρος
 kind: simile
 tags: [mind, kingship]
-summary: In the night assembly after the defeat, Agamemnon stands up “shedding tears like a spring of dark water that pours its murky water down a sheer rock” (9.14–15). The simile is given again to Patroclus when he comes to Achilles in tears (16.3–4).
+summary: A weeping man is like a spring of dark water that pours its murky water down a sheer rock: Agamemnon in the night assembly after the defeat (9.14–15), and Patroclus when he comes to Achilles from the fighting at the ships (16.3–4).
 aliases: [like a spring of dark water, a spring of dark water, the weeping spring, Agamemnon's tears, the dark spring]
 grc: ["κρήνη μελάνυδρος", "δνοφερὸν χέει ὕδωρ"]
 en: [spring, pours]
@@ -24,4 +24,8 @@ The likeness is first of all the flow: tears run down the king's face without st
 
 The weeping king is the book's second simile, after the two winds that tear the army's heart (9.4–8; see [[two-winds-from-thrace]]). The Iliad's heroes weep without shame (see [[tears]]), and Agamemnon has wept before. On the evening of the defeat he prayed with tears that the army might at least escape, and Zeus “pitied him as he shed tears” (δάκρυ χέοντα, 8.245). In Book 2 he proposed flight standing with the scepter of his fathers, to test the army (2.100–141). Now he proposes it in the same words, weeping, and the assembly answers him with silence (9.29–31).
 
-The second spring comes at the next turn of the story. While the Trojans fight at the ships, Patroclus comes to Achilles “shedding hot tears like a spring of dark water” (δάκρυα θερμὰ χέων, 16.3), and the verse of the rock follows unchanged (16.4 = 9.15). Achilles pities him and asks why he is crying like a little girl who runs beside her mother, clutching her dress until she is picked up (16.5–11). Agamemnon's tears begin the night that sends the envoys to Achilles; Patroclus' tears win from Achilles what the envoys could not, a man in his armor sent out to save the ships (16.21–100; see [[the-embassy-to-achilles]]).
+{{notes}}
+
+## Elsewhere in Homer
+
+The simile returns once, for Patroclus weeping before Achilles while the Trojans fight at the ships, with “hot tears” in the first verse and the verse of the rock unchanged (16.3–4 = 9.14–15). Agamemnon's tears begin the night that sends the envoys to Achilles; Patroclus' tears win from Achilles what the envoys could not, a man in his armor sent out to save the ships (see [[the-embassy-to-achilles]]).

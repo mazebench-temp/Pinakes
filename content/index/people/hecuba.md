@@ -21,7 +21,7 @@ relations:
 
 She is the mother of [[Hector]], who calls her “lady mother” (πότνια μήτηρ, 6.264), and of [[Laodice]], “the most beautiful in form of her daughters” (6.252). Helenus calls her “your mother and mine” (6.87; see [[helenus]]), and Hector names Deiphobus as the dearest of “the brothers whom Hecuba and Priam bore” (22.233–234). Priam says that nineteen of his fifty sons were born “from one womb” (24.495–497); he does not name the mother, but she is usually taken to be Hecuba (see [[sons-of-priam]]).
 
-Her own family was Phrygian. Apollo rouses Hector in the likeness of Asius, his uncle, “own brother of Hecuba, and son of Dymas, who lived in Phrygia by the streams of the Sangarius” (16.715–720; see [[sangarius]]); the Greek leaves it open whether the one who lived there was Dymas or Asius. He is not the Asius son of Hyrtacus who leads the men of Arisbe ([[asius]]).
+Her own family was Phrygian. Apollo rouses Hector in the likeness of [[asius-son-of-dymas|Asius]], his uncle, “own brother of Hecuba, and son of Dymas, who lived in Phrygia by the streams of the Sangarius” (16.715–720; see [[dymas]] and [[sangarius]]); the Greek leaves it open whether the one who lived there was Dymas or Asius. He is not the Asius son of Hyrtacus who leads the men of Arisbe ([[asius]]).
 
 ## Descriptions
 

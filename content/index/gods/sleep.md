@@ -7,8 +7,8 @@ summary: Sleep as a god, the brother of [[death|Death]], whom Hera calls “lord
 aliases: [Hypnos, Hypnus, Somnus]
 # The god is the capitalized word: Ὕπνῳ (14.231), Ὕπνε (14.233, 14.264), Ὕπνος (14.242, 14.270, 14.286,
 # 14.354). In Book 16 Monro–Allen print the twins in lowercase, θάνατόν τε φέρειν καὶ νήδυμον ὕπνον (16.454)
-# and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): add those phrases when Book 16 is indexed, and leave
-# the common word to hypnos.
+# and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): the Book 16 note claims the phrases "νήδυμον ὕπνον" and
+# "ὕπνῳ καὶ θανάτῳ διδυμάοσιν", and hypnos excepts those lines in its Book 16 note.
 grc: ["^Ὕπν*"]
 relations:
   - brother: death (14.231)
@@ -42,8 +42,6 @@ Sleep is poured over the sleeper and wraps him. Hera means to “pour sleep, har
 **The first time.** Sleep had done this for Hera once before, and paid for it. On the day Heracles sailed from Ilios after sacking it, Sleep lulled Zeus, and Hera roused storms over the sea and carried Heracles off to Cos. Zeus woke in anger, flung the gods about his house and looked for Sleep above all, and he would have thrown him “from the upper air into the sea, out of sight”, had Night not saved him; Zeus stopped, “for he shrank from doing what would displease swift Night” (14.249–261; see [[hera-drives-heracles-to-cos]], [[heracles-sacks-troy]] and [[cos]]). In Zeus' own account of that day Sleep has no part: Hera won over the storms with the North Wind, and Zeus hung her from the sky with anvils on her feet (15.18–30; see [[hera]]).
 
 ## Elsewhere in Homer
-
-**Sarpedon.** When Zeus thinks of saving his son Sarpedon, Hera tells him to let him die at Patroclus' hands and then send Death and sweet Sleep to carry him to Lycia, where his kin will bury him (16.450–457). Zeus has Apollo wash and anoint the body and give it to swift escorts, “Sleep and Death, the twins”, who set it down in Lycia (16.666–683; see [[sarpedon]]).
 
 **Sleep and death.** The poem speaks of death as a sleep. Iphidamas, killed by Agamemnon, “slept the sleep of bronze” (11.241), and Acamas tells the Argives to “consider how your Promachus sleeps, overcome / by my spear” (14.482–483). The sleep that falls on Odysseus as the Phaeacians row him home is θανάτῳ ἄγχιστα ἐοικώς, “most like death” (*Odyssey* 13.79–80).
 

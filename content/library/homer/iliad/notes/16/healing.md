@@ -1,0 +1,5 @@
+---
+summary: Patroclus reminds Achilles that “The healers, with their many drugs, are busy over” the wounded chiefs (16.28–29), and the book's one cure is a god's: Apollo heals the wound that Teucer's arrow gave Glaucus at the wall, stopping the pains and drying the blood (16.508–529).
+---
+
+The healers' work is set against Achilles: they are busy over the wounds, “but there is no dealing with you, Achilles” (ἀμήχανος, 16.29; see [[the-wounded-chiefs]]). Patroclus himself has come from tending Eurypylus (11.828–848, 15.390–404). Glaucus' wound has troubled him since Teucer shot him at the wall (12.387–391): his arm is pierced with pains, his blood cannot be dried, and he cannot hold his spear (16.510–520). He asks Apollo, “heal me this severe wound” (ἄκεσσαι, 16.523; see [[prayer]]), and the god does what the healers do with drugs, at once and by his power alone: “At once he stopped the pains, and from the grievous wound / he dried the black blood, and put might into his heart” (16.528–529; see [[apollo]]).

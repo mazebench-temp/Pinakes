@@ -3,7 +3,7 @@ title: A lion among cattle
 greek: ὡς δὲ λέων ἐν βουσὶ θορὼν ἐξ αὐχένα ἄξῃ
 kind: simile
 tags: [wild-animal, livestock, warfare]
-summary: The lion that falls on a herd of cattle and kills one beast while the rest scatter. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165); Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180); and Hector falls on the Achaeans like a lion on cattle grazing in a marsh, which leaps into the middle of the herd and devours one cow (15.630–638).
+summary: The lion that falls on a herd of cattle and kills one beast. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165); Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180); Hector falls on the Achaeans like a lion on cattle grazing in a marsh, which leaps into the middle of the herd and devours one cow (15.630–638); and Sarpedon dies under Patroclus like a bull that a lion kills among the herd (16.487–491).
 aliases: [like a lion among cattle, the lion and the heifer]
 grc: [ἐν βουσὶ θορὼν, αὐχένα ἄξῃ, πόρτιος ἠὲ βοὸς, κακῶς ἀέκοντας]
 en: [leaps among, breaks the neck, as they graze in a thicket, roughly, against their will]
@@ -29,3 +29,7 @@ Echemmon and Chromius are the last of the pairs of brothers whom Diomedes kills 
 Agamemnon has a day of killing like this one in Book 11. He takes Isus and Antiphus, two sons of Priam, one a bastard and one legitimate, “in one chariot”, and the simile is of a lion that comes into the lair of a deer and crushes her young fawns while she can do nothing to help them (11.101–121). Then he falls on the two sons of Antimachus, also “in one chariot”, rising against them “like a lion” (11.122–130).
 
 The broken neck recurs. A lion that routs a herd of cattle at night breaks the neck of one and gulps down its blood and entrails (11.172–178), and a mountain lion seizes the best cow of a grazing herd, breaks her neck with its strong teeth and devours her, while dogs and herdsmen shout from a distance and dare not come near (17.61–67). Sarpedon dies under Patroclus' spear like a bull that a lion kills among the herd (16.487–491), and on the shield of Achilles two lions seize a bellowing bull at the head of the herd (18.579–586). See [[lion]] and [[cattle]].
+
+## Outside Homer
+
+In Virgil the likeness is told of the killer. Turnus, going out against Pallas, is like a lion that has seen from a high lookout a bull standing far off on the plain, intent on battle, and flies at it (*Aeneid* 10.454–456). A few verses later Hercules hears Pallas' prayer and sheds vain tears, and his father consoles him: so many sons of gods fell at Troy, and with them Sarpedon, his own offspring (*Aeneid* 10.464–471).

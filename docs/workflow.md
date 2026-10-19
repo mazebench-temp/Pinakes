@@ -1,6 +1,6 @@
 # Studying a new book: the workflow
 
-How Iliad 2 to 15 were added, as a checklist for the next book. Every step ends with `npm run check`
+How Iliad 2 to 16 were added, as a checklist for the next book. Every step ends with `npm run check`
 and `npm test` clean.
 
 1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other

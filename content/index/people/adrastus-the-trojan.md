@@ -3,13 +3,13 @@ title: Adrastus the Trojan
 greek: Ἄδρηστος
 kind: person
 tags: [trojan, warrior, supplication, captive]
-summary: A Trojan whose horses wrecked his chariot in the rout. Menelaus took him alive and was ready to accept a ransom, until Agamemnon ran up and killed him, the first suppliant on the battlefield of the Iliad (6.37–65). Not the king of Sicyon ([[adrastus]]) nor the son of Merops ([[adrestus]]).
+summary: A Trojan whose horses wrecked his chariot in the rout. Menelaus took him alive and was ready to accept a ransom, until Agamemnon ran up and killed him, the first suppliant on the battlefield of the Iliad (6.37–65). Not the king of Sicyon ([[adrastus]]), the son of Merops ([[adrestus]]) or the Trojan whom Patroclus kills ([[adrastus-killed-by-patroclus]]).
 aliases: [Adrestus the Trojan]
 # Ἄδρηστος is the king of Sicyon at 2.572 and the son of Merops at 2.830. Ἄδρηστον at 16.694 is another
-# Trojan, killed by Patroclus, who will need his own id and an except here.
+# Trojan, killed by Patroclus (adrastus-killed-by-patroclus, which excepts 6.37 and 6.63): excepted here.
 grc: [Ἄδρηστον, Ἄδρηστος]
 en: [Adrastus]
-except: [2.572, 2.830]
+except: [2.572, 2.830, 16.694]
 refs: [6.38, 6.42-43, 6.46-53, 6.64-65]
 relations:
   - captor: menelaus (6.37-38)

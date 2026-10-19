@@ -1,0 +1,7 @@
+---
+summary: Nestor does not appear in the book, but his two sons fight side by side: “the sons of Nestor”, Antilochus and Thrasymedes, kill two sons of Amisodarus, Sarpedon's companions (16.317–329). The plan he gave Patroclus in Book 11, that he go out in Achilles' armor, is carried out.
+---
+
+**His sons.** Νεστορίδαι, “the sons of Nestor” (16.317), is the only time the plural patronymic is heard in Homer (see [[antilochus]] and [[thrasymedes]]). Antilochus stabs Atymnius, and when Maris rushes at him over his brother's body, Thrasymedes strikes first; “So these two, brought down by two brothers, / went down to Erebus” (16.317–327; see [[atymnius-son-of-amisodarus]] and [[maris]]).
+
+**His plan.** Patroclus comes to Achilles with Nestor's words in his mouth. Nestor had told him to speak to Achilles, and if Achilles was shunning some oracle, to ask to be sent out with the Myrmidons in Achilles' armor, so that the Trojans might take him for Achilles and the Achaeans draw breath (11.794–803). Patroclus repeats the ten verses nearly word for word, changing only the persons (16.36–45; see [[patroclus]] and [[brief-is-the-breathing-space]]). The plan works as Nestor said it would: the Trojans, seeing the son of Menoetius and his attendant gleaming in the armor, think that Achilles has thrown away his wrath (16.278–283). What Nestor did not foresee, the narrator says at once: “So he spoke, begging, great fool that he was; for truly he was / begging for his own evil death and doom” (16.46–47; see [[nepios]] and [[the-death-of-patroclus]]).

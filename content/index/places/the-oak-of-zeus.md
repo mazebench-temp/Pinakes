@@ -9,6 +9,7 @@ aliases: [Oak of Zeus, phegos]
 # at 16.767 (φηγόν) will need an except.
 grc: [φηγῷ]
 en: [oak]
+except: [16.767]
 passages:
   - 5.692-698 | Sarpedon under the oak
 ---

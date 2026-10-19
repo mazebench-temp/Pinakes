@@ -6,7 +6,7 @@ tags: [time]
 summary: Sleep, often “sweet” in the formulas, with the verbs of sleeping and of lulling another to sleep. Sleep is also a god, the brother of Death, who has his own entry.
 aliases: [hypnos, slept, lay down]
 # The god is the capitalized Ὕπνος of Book 14 (14.231–354), claimed by sleep; Monro–Allen print the twins of
-# Book 16 in lowercase (16.454, 16.672, 16.682), and those lines will need to be kept apart when Book 16 is indexed.
+# Book 16 in lowercase (16.454, 16.672, 16.682), and the Book 16 note excepts them for sleep.
 grc: [ὕπνος, κοιμήσαντο, κοιμᾶθʼ, καθεῦδʼ, κακκείοντες, "!^Ὕπν*"]
 en: [lay down to sleep, lie down, sleep, slept]
 ---

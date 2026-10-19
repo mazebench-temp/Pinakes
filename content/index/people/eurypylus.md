@@ -3,7 +3,7 @@ title: Eurypylus
 greek: Εὐρύπυλος
 kind: person
 tags: [achaean, warrior, thessaly]
-summary: Son of Euaemon, leader of forty ships from Ormenium and the country around Mount Titanus. Wounded by Paris in Book 11, he is tended by Patroclus.
+summary: Son of Euaemon, leader of forty ships from Ormenium and the country around Mount Titanus. Paris wounds him in the thigh with an arrow, and Patroclus tends the wound until he sees the Trojans storm the wall.
 aliases: [Eurypylos]
 grc: [Εὐρύπυλος]
 except: [2.677, Poetics 1459b6]

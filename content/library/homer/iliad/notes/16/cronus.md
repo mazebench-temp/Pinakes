@@ -1,0 +1,5 @@
+---
+summary: Cronus is named in his son's titles: “the son of crooked-counseling Cronus” pities Sarpedon and Patroclus, Hera calls Zeus “most dread son of Cronus”, “the son of Cronus” stretches tight the strife over Sarpedon, and Patroclus names “Zeus, son of Cronus” among his killers.
+---
+
+In Book 16 Cronus appears only in the titles of his son (see [[zeus]]). “And seeing them the son of crooked-counseling Cronus pitied them” (16.431; see [[crooked-counseling]]): Κρόνου πάϊς ἀγκυλομήτεω, the verse end of 2.205, 2.319, 4.75, 9.37, 12.450 and 18.293, is used here when Zeus looks with pity on his son and on Patroclus. Hera answers him “Most dread son of Cronus” (αἰνότατε Κρονίδη, 16.440; see [[most-dread]] and [[hera]]). Over Sarpedon's body many Lycians fell “when the son of Cronus stretched tight the mighty strife” (Κρονίων, 16.662), and the dying Patroclus tells Hector that victory was given to him by “Zeus, son of Cronus, and Apollo” (Ζεὺς Κρονίδης, 16.845; see [[apollo]] and [[patroclus]]).

@@ -26,4 +26,4 @@ Hera and Athena have come down to the Simoeis and go toward the battle on foot, 
 
 The couplet is used again in Book 7, when Hector and Ajax, their spears thrown, draw them back and “fell upon each other like lions that eat raw flesh or wild boars, whose strength is no weakling's” (7.255–257). The first half-line returns alone for the Trojans storming the ships “like lions that eat raw flesh” (15.592).
 
-Lion and boar meet in other similes. Hector turns among his enemies like a boar or a lion among dogs and hunters (12.41–48), and he kills Patroclus as a lion overcomes a tireless boar in a fight over a little spring on the mountain peaks (16.823–826). See [[lion]].
+Lion and boar meet in other similes. Hector turns among his enemies like a boar or a lion among dogs and hunters (12.41–48), and he kills Patroclus as a lion overcomes a tireless boar in a fight over a little spring on the mountain peaks (16.823–826; see [[the-lion-and-the-boar]]). See [[lion]].

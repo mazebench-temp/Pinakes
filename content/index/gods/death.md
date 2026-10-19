@@ -6,8 +6,8 @@ tags: [personification, fate]
 summary: Death as a god, the brother of [[sleep|Sleep]]. Homer names him so once, as Sleep's brother (14.231), and in Book 16 the twins Sleep and Death carry Sarpedon's body from the battlefield to Lycia; Hesiod makes them both children of Night.
 aliases: [Thanatos]
 # The god is the capitalized Θανάτοιο of 14.231. Monro–Allen print the twins of Book 16 in lowercase,
-# θάνατόν τε φέρειν (16.454) and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): add those phrases when
-# Book 16 is indexed, and leave the common word to thanatos.
+# θάνατόν τε φέρειν (16.454) and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): the Book 16 note claims
+# those phrases, and thanatos excepts those lines in its Book 16 note.
 grc: ["^Θάνατ*"]
 relations:
   - brother: sleep (14.231)
@@ -25,7 +25,7 @@ Death is the brother of [[sleep|Sleep]] (κασιγνήτῳ Θανάτοιο), 
 
 ## In Homer
 
-Death is a person in two scenes only. In Book 14 he is named, and nothing more, when Hera finds his brother on Lemnos (14.231). In Book 16 Hera tells Zeus to let his son Sarpedon die at Patroclus' hands, and then to send Death and sweet Sleep to carry him to Lycia, where his kin will bury him “with mound and pillar, for that is the honor of the dead” (16.450–457). Zeus has Apollo wash the body in the river, anoint it with ambrosia and clothe it, and give it to swift escorts, “Sleep and Death, the twins”, who set it down in the rich land of Lycia (16.666–683; see [[sarpedon]]). The two gods who come for Sarpedon do not kill: the spear has done that, and Death carries the body home.
+Death is a person in two scenes only. In Book 14 he is named, and nothing more, when Hera finds his brother on Lemnos (14.231). In Book 16 the twins Sleep and Death carry the body of Zeus' son Sarpedon from the battlefield to Lycia, where his kin will bury him (16.453–457, 16.666–683; see [[sarpedon]]). The two gods who come for Sarpedon do not kill: the spear has done that, and Death carries the body home.
 
 Everywhere else θάνατος is the thing itself, “black death” and death “that lays men low” (see [[black-death]], [[that-lays-men-low]] and [[thanatos]]).
 

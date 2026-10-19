@@ -3,7 +3,7 @@ title: Enienes
 greek: Ἐνιῆνες
 kind: people
 tags: [achaean, thessaly]
-summary: A people of the northern mountains who followed [[Gouneus]] to Troy. In historical times, as the Aenianes, they lived in the upper valley of the Spercheius.
+summary: A people of the northern mountains who followed [[Gouneus]] to Troy. In historical times, as the Aenianes, they lived in the upper valley of the [[Spercheius]].
 aliases: [Aenianes, Ainianes]
 grc: [Ἐνιῆνες]
 ---

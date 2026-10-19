@@ -12,7 +12,7 @@ of: [bronze]
 
 ## Meaning
 
-νῶροψ is found only as an epithet of bronze (χαλκός), always of bronze armor, eight times in Homer. Its meaning was already uncertain in antiquity, and it was explained as “gleaming, flashing.” The ending -οψ recalls ὤψ (“eye, face, look”), as in [[wine-dark]] (οἶνοψ) and αἶθοψ (“fiery-looking”), which suggests an adjective of appearance. The first part is obscure. The translation follows the traditional sense.
+νῶροψ is found only as an epithet of bronze (χαλκός), always of bronze armor, eight times in Homer. Its meaning was already uncertain in antiquity, and it was explained as “gleaming, flashing.” The ending -οψ recalls ὤψ (“eye, face, look”), as in [[wine-dark]] (οἶνοψ) and αἶθοψ (“fiery-looking”), which suggests an adjective of appearance. The first part is obscure. The translation follows the traditional sense, and gives the same English to two other old epithets of bronze: αἶθοψ, in the verse-end κεκορυθμένος αἴθοπι χαλκῷ, “armored in gleaming bronze” (4.495), and ἦνοψ, said of a fisherman's hook (16.408) and of the cauldron in which the water is heated to wash Patroclus' body (18.349).
 
 ## Use
 

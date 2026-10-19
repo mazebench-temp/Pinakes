@@ -1,0 +1,5 @@
+---
+summary: The Harpy Podarge bore Achilles' horses to the West Wind “as she grazed in a meadow beside the stream of Oceanus”, at the edge of the world.
+---
+
+“Xanthus and Balius, who flew as fast as the winds, / whom the Harpy Podarge bore to the West Wind / as she grazed in a meadow beside the stream of Oceanus” (16.149–151; see [[podarge]], [[zephyrus]] and [[the-horses-of-achilles]]). The horses come from the edge of the world, where the river Oceanus runs around the earth: the cranes fly “toward the streams of Oceanus” to bring death to the Pygmies (3.5–6), the sun rises out of it and falls into it (7.421–423, 8.485), and Hera tells Aphrodite that she is going “to see the limits of the all-nourishing earth, / and Oceanus” (14.200–201). παρὰ ῥόον Ὠκεανοῖο, “beside the stream of Oceanus”, is the phrase of the Odyssey for the shore of Odysseus' journey to the dead (*Odyssey* 11.21, 12.1). In the Odyssey's Elysian plain it is Oceanus that sends up the breezes of the West Wind to refresh men (*Odyssey* 4.567–568).

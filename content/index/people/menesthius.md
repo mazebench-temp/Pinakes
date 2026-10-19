@@ -3,11 +3,12 @@ title: Menesthius
 greek: Μενέσθιος
 kind: person
 tags: [achaean, warrior, boeotia]
-summary: An Achaean from [[Arne]] in Boeotia, son of [[areithous|Areithous]] the mace-man and [[Phylomedusa]], killed by Paris as Hector and Paris return to the battle (7.8–10). Not the Myrmidon Menesthius, son of the river Spercheius.
+summary: An Achaean from [[Arne]] in Boeotia, son of [[areithous|Areithous]] the mace-man and [[Phylomedusa]], killed by Paris as Hector and Paris return to the battle (7.8–10). Not the Myrmidon [[menesthius-son-of-spercheius|Menesthius]], son of the river Spercheius.
 aliases: [Menesthios, Menesthius of Arne]
 # Μενέσθιος at 16.173 is the Myrmidon, son of Spercheius and Polydora, who leads the first of Achilles'
-# five companies: another man, who will need his own id.
+# five companies: another man (menesthius-son-of-spercheius).
 grc: [Μενέσθιον]
+except: [16.173]
 refs: [7.8, 7.10]
 relations:
   - father: areithous (7.8-10)
@@ -23,4 +24,4 @@ He is the first of three Achaeans whom the Trojans kill as Hector and Alexander 
 
 His father is κορυνήτης, “the mace-man” (7.9), the title Nestor gives to the Areithous whose armor Ereuthalion wore (7.137–141), and the poem makes them one man (see [[areithous]]). Taken strictly, this makes Menesthius older than Nestor, since his father was dead, and his father's killer an old man, before the young Nestor fought Ereuthalion (7.142–154). The poem does not remark on it.
 
-The name, like Menestheus', looks formed from μένος (“might”). The Myrmidon Menesthius, son of the river Spercheius and of Polydora, daughter of Peleus, is another man (16.173–176).
+The name, like Menestheus', looks formed from μένος (“might”). The Myrmidon Menesthius, son of the river Spercheius and of Polydora, daughter of Peleus, is another man (16.173–176; see [[menesthius-son-of-spercheius]]).

@@ -12,7 +12,7 @@ of: [ares]
 
 ## Meaning
 
-χάλκεος is the adjective of χαλκός (“bronze”; [[bronze]]), the metal of Homeric weapons and armor. The formula χάλκεος Ἄρης closes the verse. It names the god by the stuff of battle, as his name can stand for battle itself ([[ares]]). Outside Book 5 it describes him twice as a power working through men and things. In one of Nestor's stories, Lycurgus strips Areithous of the armor that “bronze Ares had given him” (Il. 7.146), and Glaucus reports that Sarpedon lies dead: “bronze Ares has brought him down under the spear of Patroclus” (Il. 16.543).
+χάλκεος is the adjective of χαλκός (“bronze”; [[bronze]]), the metal of Homeric weapons and armor. The formula χάλκεος Ἄρης closes the verse. It names the god by the stuff of battle, as his name can stand for battle itself ([[ares]]). Outside Book 5 it describes him twice as a power working through men and things. In one of Nestor's stories, Lycurgus strips Areithous of the armor that “bronze Ares had given him” (Il. 7.146), and Glaucus reports that Sarpedon lies dead: “bronze Ares has brought him down by the spear of Patroclus” (Il. 16.543).
 
 ## Use
 

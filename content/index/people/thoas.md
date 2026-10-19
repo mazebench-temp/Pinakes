@@ -4,7 +4,9 @@ greek: Θόας
 kind: person
 tags: [achaean, warrior, king, aetolia]
 summary: Son of [[Andraemon]] and leader of the [[Aetolians]], to whom the command passed after the house of Oeneus died out. He is a good javelin fighter and a good speaker in assembly.
+# Θόαντα at 16.311 is a Trojan whom Menelaus kills (thoas-killed-by-menelaus): excepted for the English name.
 grc: ["=Θόας"]
+except: [16.311]
 refs: [2.643, 2.644]
 relations:
   - father: andraemon (2.638)
@@ -26,4 +28,4 @@ Poseidon takes his voice to rouse Idomeneus; there he is Thoas, “who in all Pl
 
 ## Outside Homer
 
-Later genealogists made his mother Gorge a daughter of Oeneus, so that he was Oeneus' grandson and Diomedes' cousin (Apollodorus 1.8.1). Virgil puts him in the Wooden Horse (*Aeneid* 2.262). He is not Thoas, king of Lemnos (14.230; see [[thoas-of-lemnos]]).
+Later genealogists made his mother Gorge a daughter of Oeneus, so that he was Oeneus' grandson and Diomedes' cousin (Apollodorus 1.8.1). Virgil puts him in the Wooden Horse (*Aeneid* 2.262). He is not Thoas, king of Lemnos (14.230; see [[thoas-of-lemnos]]), nor the Trojan Thoas whom Menelaus kills (16.311; see [[thoas-killed-by-menelaus]]).

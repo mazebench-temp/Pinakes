@@ -51,7 +51,7 @@ The Chimaera was “of divine race, not of men”, and he killed her “obeying 
 
 **The tablet and the guest.** Proetus will not kill Bellerophon himself; “his heart held back in awe from that” (σεβάσσατο γὰρ τό γε θυμῷ, 6.167). He sends him to be killed by another man, who receives him as a guest. The Lycian king entertains his guest for nine days before he asks what he has brought (6.174–177), as a host should, and then tries to have him killed. The same half-line tells how Achilles would not strip the body of Eetion (6.417); in Homer it occurs only in these two places. The σήματα λυγρά, “grim signs”, are the only thing like writing in Homer (see [[writing]] and [[bellerophons-letter]]). The woman who accuses the man she could not seduce, and the letter that orders the death of its bearer, have long been compared with the stories of Joseph and Potiphar's wife (Genesis 39.7–20) and of David's letter about Uriah (2 Samuel 11.14–15); whether the Greek tale borrowed from such stories or shared a common stock with them cannot be shown.
 
-**The Chimaera.** The monster is described once more in the Iliad. Two of Sarpedon's companions, killed by the sons of Nestor, were sons of Amisodarus, “who reared the irresistible Chimaera, a bane to many men” (16.317–329). Homer never names Pegasus.
+**The Chimaera.** The monster is described once more in the Iliad. Two of Sarpedon's companions, killed by the sons of Nestor, were sons of Amisodarus, “who reared the Chimaera, / the irresistible, an evil to many men” (16.317–329). Homer never names Pegasus.
 
 ## Outside Homer
 

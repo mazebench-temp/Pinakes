@@ -22,8 +22,10 @@ The verse ends in a formula of death, λίπε δʼ ὀστέα θυμός, “a
 
 The Lycians are climbing onto the battlements of Menestheus' tower like a dark storm when Ajax and Teucer arrive (12.373–377; see [[like-a-black-storm]]). Ajax kills first. The boulder he hurls down lay inside the wall beside the battlement, so big that no man of today could easily hold it in both hands, and it kills Sarpedon's companion Epicles (12.378–386; see [[epicles]], [[ajax]], [[men-of-today]] and [[stone-throwing]]). Then Teucer wounds Glaucus, and Sarpedon pulls down a battlement (12.387–399; see [[the-fight-at-the-wall]]).
 
+{{notes}}
+
 ## Elsewhere in Homer
 
-The half-verse and the next are used again when Patroclus kills Cebriones, Hector's charioteer, with a stone that drives his eyes out: he falls like a diver from the well-made chariot, and his spirit leaves his bones (16.737–743; see [[cebriones]]). This time the comparison is taken up. Patroclus mocks the dead man: how nimble he is, how easily he dives (κυβιστᾷ); if he were on the sea he would feed many men diving from a ship for oysters, even in rough weather, as easily as he dives from his chariot on the plain; “so there are divers among the Trojans too” (16.744–750). The jest turns the half-line into a picture.
+The half-verse and the next are used again when Patroclus kills Cebriones, Hector's charioteer, with a stone, and this time the comparison is taken up: Patroclus mocks the dead man as a tumbler who would dive for oysters from a ship (16.737–750; see [[cebriones]]). The jest turns the half-line into a picture.
 
 In the Odyssey the two and a half verses come back in the storm that Zeus sends after Odysseus' ship leaves the island of the Sun: the falling mast strikes the helmsman's head, smashes the bones of the head all together, and he falls from the deck like a diver (*Odyssey* 12.405–414).

@@ -1,0 +1,5 @@
+---
+summary: Retreat runs through the book in every form. Ajax draws back from the ship before the work of the gods (16.101–122); Hector stands to save his companions, then flees with his horses, and later turns to flight when Zeus puts a craven heart in him (16.358–383, 16.656–658); Patroclus gives ground “a long way back” before Apollo at the wall, and, wounded, draws back among his companions to be killed (16.710–711, 16.817–821).
+---
+
+Two retreats are told as knowledge. Ajax “knew in his noble heart” that Zeus was cutting short his plans, and drew back out of range (16.119–122); Hector “knew the victory that turns the battle” and still stood his ground to save his companions (16.362–363), and later “knew the sacred scales of Zeus” and called the Trojans to flee (16.658; see [[that-turns-the-battle]] and [[the-scales-of-zeus]]). Euphorbus, who wounds Patroclus, runs back into the throng at once and does not stand against him (16.813–815). Patroclus' own last retreat is the verse of a man escaping doom, and he does not escape (16.817; see [[ker-doom]]).

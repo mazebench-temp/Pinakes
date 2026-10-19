@@ -1,0 +1,5 @@
+---
+summary: Patroclus goes out in Achilles' armor, and the armor does what Nestor said it would: the Trojans take him for Achilles and give way (16.278–283). At the end the armor is taken back by a god, piece by piece, and passes to Hector, “and his destruction was near him” (16.793–804).
+---
+
+The loan is asked and given: “And give me your armor to put on my shoulders, / in the hope that, taking me for you, they may hold off from the war” (16.40–41), and “So put my glorious armor on your shoulders” (16.64; see [[retelling]] and [[arming-scene]]). The likeness works on the Trojans, who think Achilles has thrown away his wrath (16.281–282), and it has limits. The spear cannot be lent (16.140–144; see [[the-pelian-ash]]), and the gods know who is inside the armor. Apollo strips it from Patroclus, and the narrator follows the helmet into Hector's hands: “but then Zeus gave it to Hector / to wear on his head, and his destruction was near him” (16.799–800; see [[helmet]]). Patroclus' last words claim that the gods took it, not Hector (16.846; see [[stripping-the-dead]]).

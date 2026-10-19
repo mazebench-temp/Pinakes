@@ -23,4 +23,4 @@ The traditional title of Book 11 is Ἀγαμέμνονος ἀριστεία, �
 
 **Nestor and Patroclus.** The title also passes over the two parts of the book that reach furthest beyond it. Nestor's story of his war with the Epeians (11.670–761), the longest of his stories of his youth, is an old man's account of his own first day of prowess. He killed Itymoneus in the raid and Mulius in the battle, took fifty chariots, and at the end “all gave thanks to Zeus among the gods, and to Nestor among men” (11.761; see [[nestor-and-the-epeians]]). And Patroclus' errand to Nestor's hut is, in the narrator's words, “the beginning of evil for him” (11.604). The plan that Nestor gives him (11.794–803) he puts to Achilles in Book 16 (16.36–45), and so the episode that Aelian calls the Patrocleia begins in a book named for Agamemnon (see [[patroclus]] and [[the-death-of-patroclus]]).
 
-See [[title-of-book-10]], [[title-of-book-13]], [[aelian]] and [[agamemnon]].
+See [[title-of-book-10]], [[title-of-book-13]], [[title-of-book-16]], [[aelian]] and [[agamemnon]].

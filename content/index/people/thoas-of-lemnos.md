@@ -7,9 +7,11 @@ summary: The king of Lemnos in the generation before the war: Homer calls the is
 aliases: [Thoas, king of Lemnos, Lemnian Thoas]
 # Θόαντος is the Lemnian only at 14.230; the bowl of 23.745 (Θόαντι δὲ δῶρον ἔδωκαν) will need the phrase
 # "Θόαντι δὲ δῶρον" when Book 23 is indexed. The Aetolian Thoas (thoas) claims =Θόας and his own phrases,
-# and the Trojan Thoas of 16.311 (Θόαντα) will need his own id.
+# and the Trojan Thoas of 16.311 (Θόαντα) is thoas-killed-by-menelaus; this entry excepts 16.311 for its
+# English name.
 grc: ["θείοιο Θόαντος"]
 en: [Thoas]
+except: [16.311]
 ---
 
 ## In Homer

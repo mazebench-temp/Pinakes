@@ -2,7 +2,7 @@
 title: Seeing the gods
 kind: theme
 tags: [divine-will, divine-scene]
-summary: The gods walk among men openly, in a mortal's likeness or hidden in cloud, and men seldom know them. In Book 5 Athena takes the mist from Diomedes' eyes so that he can tell god from man, and the book turns on who recognizes whom.
+summary: The gods walk among men openly, in a mortal's likeness or hidden in cloud, and men seldom know them. A few see a god plainly, as Diomedes does when Athena takes the mist from his eyes; most know the gods by their voice or their work, or not at all.
 aliases: [recognizing the gods, gods in disguise, telling god from man, recognition of a god, the gods unseen]
 refs: [5.127-132, 5.177-191, 5.331, 5.433-434, 5.462, 5.596-606, 5.785, 5.815-824, 5.845]
 passages:

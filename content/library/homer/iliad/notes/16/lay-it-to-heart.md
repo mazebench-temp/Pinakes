@@ -1,0 +1,5 @@
+---
+summary: The line introduces two warnings. Hera warns Zeus that if he saves Sarpedon other gods will want to save their sons (16.444), and the dying Patroclus warns Hector that his own death stands close beside him, at the hands of Achilles (16.851).
+---
+
+Hera's warning follows her protest, “Do it; but not all of us other gods approve” (16.443; see [[not-all-the-gods-approve]]), and leads to her counsel: let Sarpedon die, and send him home for burial (16.444–457; see [[the-prize-of-the-dead]]). In Book 4 the same two verses were spoken the other way round: Hera protested, and Zeus, granting her wish, used the line to warn her that one day he would sack a city she loved and she must not hinder him (4.29, 4.37–43). Patroclus' warning is his last word, a prophecy of Hector's death (16.851–854; see [[prophecy]]). Achilles used the line to Agamemnon in Book 1, when he said he would not fight for the girl but that Agamemnon could not carry off a single thing of his against his will (1.297–303).

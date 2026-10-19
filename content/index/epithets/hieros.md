@@ -12,7 +12,7 @@ of: [hecatomb, thebe, altar, onchestus, euboea, echinae, troy, temple]
 
 ## Meaning
 
-ἱερός marks what belongs to the gods: sacred places, rites, and victims. It also has uses that are hard to explain as “holy”: a “holy” fish (Il. 16.407), the “holy might” of a king (ἱερὸν μένος), a “holy” army. For these many scholars compare Sanskrit *iṣirá-* (“vigorous, lively”), and suggest that an old sense such as “strong, filled with divine power” lies behind the Greek word.
+ἱερός marks what belongs to the gods: sacred places, rites, and victims. It also has uses that are hard to explain as “holy”: a “sacred fish” (Il. 16.407), the “holy might” of a king (ἱερὸν μένος), a “holy” army. For these many scholars compare Sanskrit *iṣirá-* (“vigorous, lively”), and suggest that an old sense such as “strong, filled with divine power” lies behind the Greek word.
 
 ## Use
 

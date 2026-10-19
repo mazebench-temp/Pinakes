@@ -1,0 +1,9 @@
+---
+summary: Stones kill four men in Book 16, three of them Patroclus' victims and the fourth a Myrmidon killed by Hector. Erylaus and Epeigeus die in the same three verses, the head split in two inside the helmet; Sthenelaus' neck is broken; and Cebriones, Hector's charioteer, is struck on the forehead so that his eyes fall into the dust.
+grc: ["βάλε πέτρῳ", "λάζετο πέτρον", "μάρμαρον ὀκριόεντα", "ὀξέϊ λᾶϊ", "σύνελεν λίθος"]
+en: [with a stone, grasped a stone, jagged and gleaming, the sharp stone, the stone crushed]
+---
+
+**Two deaths in one form.** Patroclus strikes Erylaus “with a stone as he rushed on, / full on the head; and it was all split in two / in the heavy helmet; and he fell face down on the ground” (16.411–414). Hector strikes the Myrmidon Epeigeus as he takes hold of Sarpedon's body, and the same verses follow, with “on the body” in place of “on the ground” (16.577–580, 16.413; see [[fighting-over-the-body]]). Patroclus answers by breaking Sthenelaus' neck with a stone (16.586–587).
+
+**Cebriones.** When Hector drives at him, Patroclus leaps down with his spear in his left hand and takes up in his right “a stone, / jagged and gleaming, that his hand closed around” (16.734–735): μάρμαρος ὀκριόεις, the “jagged boulder” with which Ajax killed Sarpedon's companion Epicles at the wall (μαρμάρῳ ὀκριόεντι, 12.380), and with which, his companions fear, the Cyclops will smash Odysseus' ship (*Odyssey* 9.499). The blow is told with the anatomy of a spear wound: it strikes Cebriones on the forehead, “And the stone crushed both his brows together, nor did the bone / hold, and his eyes fell to the ground in the dust / there before his feet” (16.739–742; see [[cebriones]] and [[like-a-diver]]). Over his body, “many great stones battered the shields” of both sides (16.774).

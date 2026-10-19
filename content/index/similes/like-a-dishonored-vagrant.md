@@ -24,7 +24,11 @@ The comparison names the opposite of everything the envoys have promised. Agamem
 
 Ajax has spoken last and most bluntly, and Achilles grants that everything he said is “after my own heart” (9.645). But his heart swells with anger, οἰδάνεται κραδίη χόλῳ, whenever he remembers (9.646). Phoenix had used the same verb of the anger that came upon Meleager, “the anger that swells the mind in the breasts of others too, even of men who think shrewdly” (οἰδάνει, 9.553–554; see [[cholos]] and [[the-wrath-of-meleager]]). The memory turns Achilles' last answer: he will not think of war until Hector reaches the huts and ships of the Myrmidons (9.649–655).
 
-In Book 16 he says the line again to Patroclus, of the girl the Achaeans chose for him as his prize and he won with his spear when he sacked a city, and whom powerful Agamemnon took back from his hands “as if I were some dishonored vagrant” (16.56–59; see [[taking-of-briseis]]). There it introduces his decision to let the past go and send Patroclus out (16.60–63). In the Odyssey the dead Achilles chooses the lowest place among the living over his kingship among the dead: he would rather be bound to the soil as a hired man for another, a man without land of his own, than rule over all the dead (*Odyssey* 11.488–491).
+{{notes}}
+
+## Elsewhere in Homer
+
+Achilles says the verse once more, to Patroclus, when he lets his anger go and sends him out (16.59). In the Odyssey the dead Achilles chooses the lowest place among the living over his kingship among the dead: he would rather be bound to the soil as a hired man for another, a man without land of his own, than rule over all the dead (*Odyssey* 11.488–491).
 
 ## Outside Homer
 

@@ -20,4 +20,4 @@ Homer has two words for a priest: ἱερεύς, “the one concerned with sacre
 
 His service gives him a claim on the god: he has roofed Apollo's [[temple|temple]] and burned thigh-pieces for him ({{ref:Iliad 1.39-41}}; see [[prayer|prayer]]). At Chryse he does the priest's part of the [[sacrifice|sacrifice]]: he prays for the Danaans and burns the god's portion ({{ref:Iliad 1.450-463}}). A priest could also be asked for the god's will: Achilles proposes to consult “some seer, or a priest” ({{ref:Iliad 1.62}}; see [[divination|divination]]).
 
-Elsewhere Onetor, priest of Zeus on Ida, “was honored like a god by the people” (Iliad 16.604–605), and the Trojans made Theano priestess of Athena (Iliad 6.300).
+Elsewhere Onetor, priest of Zeus on Ida, “was honored by the people like a god” (Iliad 16.604–605), and the Trojans made Theano priestess of Athena (Iliad 6.300).

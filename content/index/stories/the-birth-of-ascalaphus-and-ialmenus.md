@@ -18,6 +18,6 @@ passages:
 
 ## In the poem
 
-Most leaders in the Catalogue are identified by a father's name and no more. The sons of Ares get three lines of story, the first of the short narratives set among the Catalogue's names; others tell of Thamyris, Tlepolemus, Protesilaus and Philoctetes. It is told in the language Homer uses for such secret unions. Hermes, too, saw the girl Polymele among the dancers of Artemis, went up to her upper room and lay with her in secret, and she bore him Eudorus, whom her father raised (16.179–192).
+Most leaders in the Catalogue are identified by a father's name and no more. The sons of Ares get three lines of story, the first of the short narratives set among the Catalogue's names; others tell of Thamyris, Tlepolemus, Protesilaus and Philoctetes. It is told in the language Homer uses for such secret unions. Hermes, too, saw the girl [[Polymele]] among the dancers of Artemis, went up to her upper room and lay with her in secret, and she bore him [[Eudorus]], whom her father raised (16.179–192; see [[the-birth-of-eudorus]]).
 
 The genealogy prepares a later scene. When Deiphobus kills Ascalaphus, the poet turns to Ares, who does not yet know that his son has fallen (13.518–525); when Hera tells him, the god is ready to defy Zeus to avenge him (15.110–142).

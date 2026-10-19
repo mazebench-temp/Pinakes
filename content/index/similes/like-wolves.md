@@ -3,7 +3,7 @@ title: Like wolves
 greek: οἳ δὲ λύκοι ὣς ἀλλήλοις ἐπόρουσαν
 kind: simile
 tags: [wild-animal, warfare]
-summary: Both armies fall on each other “like wolves”, with no prey in the simile but the other side. Trojans and Achaeans fight so over the body of Elephenor in the first battle (4.470–472), and again in the even fighting of the morning of the third day of battle, while Strife looks on and rejoices (11.72–73).
+summary: Fighters likened to wolves, which hunt in packs. Both armies leap on each other “like wolves” over the body of Elephenor (4.470–472) and in the even fighting of the third day of battle (11.72–73); the Myrmidons go out like wolves with jaws red from a stag they have killed (16.155–166), and the Danaans fall on the Trojans like wolves on lambs and kids that a careless shepherd has let scatter (16.352–357).
 aliases: [they fought like wolves, the fight over Elephenor]
 grc: [λύκοι ὣς, ἀλλήλοις ἐπόρουσαν, ἐδνοπάλιζεν]
 en: [leapt upon one another, man hurled man about]

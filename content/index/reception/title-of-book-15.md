@@ -26,6 +26,6 @@ The traditional title of Book 15 is Παλίωξις παρὰ τῶν νεῶν
 
 **What it leaves out.** The title passes over the gods, who fill the first half of the book: Zeus' threat to Hera and the tale of her hanging (15.4–33; see [[hera-hung-from-the-sky]]), Ares' grief for his son and Athena's restraint (15.100–142), Poseidon's protest that the world was divided by lot among three brothers (15.184–217; see [[the-lots-of-the-three-brothers]]), and Apollo, who bridges the ditch and throws down the wall “very easily, as when a boy beside the sea throws down the sand” (15.355–364). It passes over the two men who carry the book's end: Hector, whom Zeus honored because he was to be short-lived (15.610–614), and Ajax on the decks with his great spear for fighting at sea (15.674–746).
 
-As with the titles of the two books before it, the title names one moment of a longer action. Zeus foretells the counterattack in this book, and it comes in the next; the battle at the ships runs from Book 13 into Book 16 (see [[title-of-book-13]] and [[title-of-book-14]]).
+As with the titles of the two books before it, the title names one moment of a longer action. Zeus foretells the counterattack in this book, and it comes in the next; the battle at the ships runs from Book 13 into Book 16 (see [[title-of-book-13]], [[title-of-book-14]] and [[title-of-book-16]]).
 
 See [[plan-of-zeus]], [[ships]] and [[the-battle-at-the-ships]].

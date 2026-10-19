@@ -18,7 +18,7 @@ passages:
 
 ## Elsewhere in Homer
 
-Athena tells Pandarus to vow Apollo a hecatomb of firstborn lambs (Iliad 4.101–102). At Pylos nine companies of five hundred men each sacrifice nine bulls, eighty-one in all (Odyssey 3.5–8). Peleus vowed the river Spercheius a hecatomb and fifty rams besides (Iliad 23.146–147).
+Athena tells Pandarus to vow Apollo a hecatomb of firstborn lambs (Iliad 4.101–102). At Pylos nine companies of five hundred men each sacrifice nine bulls, eighty-one in all (Odyssey 3.5–8). Peleus vowed the river [[Spercheius]] a hecatomb and fifty rams besides (Iliad 23.146–147).
 
 ## Outside Homer
 

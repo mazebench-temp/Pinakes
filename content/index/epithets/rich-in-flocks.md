@@ -7,6 +7,8 @@ summary: Epithets of wealth in sheep and lambs, πολύαρνι, πολύμηλ
 aliases: [rich in sheep, polyarni, polymelos, polyrrhen]
 grc: [πολύαρνι, πολύμηλον, πολυμήλου]
 en: [rich in flocks]
+# Πολύμηλον at 16.417 is the Trojan Polymelus, son of Argeas (polymelus).
+except: [16.417]
 of: [thyestes, orchomenus-arcadia, iphiclus]
 ---
 

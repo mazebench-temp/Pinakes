@@ -17,7 +17,7 @@ relations:
 
 ## Elsewhere in Homer
 
-Tydeus married one of Adrastus' daughters, so that Diomedes is his grandson (14.121). His horse Arion, "the swift horse of Adrastus, of divine race", was the fastest ever known (23.346–347). Two Trojans have almost the same name: Adrestus, son of Merops, who leads the men of Adrasteia (2.830; [[adrestus]]), and the Adrestus whom Menelaus takes alive and Agamemnon kills (6.37–65).
+Tydeus married one of Adrastus' daughters, so that Diomedes is his grandson (14.121). His horse Arion, "the swift horse of Adrastus, of divine race", was the fastest ever known (23.346–347). Two Trojans have almost the same name: Adrestus, son of Merops, who leads the men of Adrasteia (2.830; [[adrestus]]), and the Adrastus whom Menelaus takes alive and Agamemnon kills (6.37–65; [[adrastus-the-trojan]]); a third Trojan Adrastus falls to Patroclus (16.694; [[adrastus-killed-by-patroclus]]).
 
 ## Outside Homer
 

@@ -31,7 +31,7 @@ passages:
 
 {{quote:e6c4024d-1194-5e16-b65d-b4b383f63d4d}}
 
-Teucer's arrow and Ajax's spear drive him back only “a little from the battlement” (12.406; see [[sarpedon]]). Patroclus will call him the man “who first leapt inside the wall of the Achaeans” (16.558), the words the narrator uses of Hector when he breaks the gate (12.438; see [[the-gates-of-the-wall]]).
+Teucer's arrow and Ajax's spear drive him back only “a little from the battlement” (12.406; see [[sarpedon]]). Patroclus will call him “the man who was the first to leap inside the wall of the Achaeans” (16.558), the words the narrator uses of Hector when he breaks the gate (12.438; see [[the-gates-of-the-wall]]).
 
 **Neither side gives.** When the Lycians reach the wall, the battlements hold the armies apart as a boundary holds apart two men disputing it in a common field: “so the battlements kept these apart; and over them / they hacked at the oxhide shields around one another's chests” (12.424–425; see [[the-boundary-dispute]] and [[boundary-stones]]). “Everywhere the towers and battlements were spattered with the blood of men / on both sides, from Trojans and Achaeans” (12.430–431), until Zeus gives the glory to Hector (12.437).
 

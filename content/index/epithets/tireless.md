@@ -2,7 +2,7 @@
 title: Tireless
 greek: ἀκάματος
 kind: epithet
-summary: “Untiring,” the standing epithet of fire in the line-end formula ἀκάματον πῦρ, “tireless fire.”
+summary: “Untiring,” the standing epithet of fire in the line-end formula ἀκάματον πῦρ, “tireless fire”; the shorter ἀκάμας is said of the sun, a river and a boar.
 aliases: [akamatos, unwearying, untiring fire]
 grc: [ἀκάματον πῦρ]
 en: [tireless]
@@ -10,7 +10,7 @@ en: [tireless]
 
 ## Meaning
 
-ἀκάματος = ἀ- (“not”) + κάματος (“toil, weariness,” from κάμνω, “grow tired”): “untiring.” In Homer it is the epithet of fire, always in ἀκάματον πῦρ at the end of the verse, ten times in the two poems (5.4; Il. 15.598, 15.731, 16.122, 18.225, 21.13, 21.341, 23.52; Od. 20.123, 21.181). A related form, ἀκάμας, describes the sun (Il. 18.239, 18.484) and the river Spercheius (Il. 16.176). Fire that does not tire is fire that goes on burning: the fire of the ships in Books 15 and 16, of Patroclus' pyre in Book 23.
+ἀκάματος = ἀ- (“not”) + κάματος (“toil, weariness,” from κάμνω, “grow tired”): “untiring.” In Homer it is the epithet of fire, always in ἀκάματον πῦρ at the end of the verse, ten times in the two poems (5.4; Il. 15.598, 15.731, 16.122, 18.225, 21.13, 21.341, 23.52; Od. 20.123, 21.181). A related form, ἀκάμας, describes the sun (Il. 18.239, 18.484), the river Spercheius (Il. 16.176) and a boar in the simile of Patroclus' death (Il. 16.823); it has the letters of the name Ἀκάμας (Acamas), and the patterns for it are phrases. Fire that does not tire is fire that goes on burning: the fire of the ships in Books 15 and 16, of Patroclus' pyre in Book 23.
 
 ## Use
 

@@ -3,7 +3,7 @@ title: Like a girl
 greek: ἠΰτε κούρη
 kind: simile
 tags: [trojan, foreshadowing, fate]
-summary: One of the two Carian leaders “came to the war wearing gold, like a girl, the fool” (2.872–873). The gold did not save him: Achilles killed him in the river and carried it off.
+summary: ἠΰτε κούρη, “like a girl”, in two comparisons: a Carian leader who came to the war wearing gold like a girl (2.872–873), and Patroclus in tears like a little girl who runs beside her mother and begs to be picked up (16.7–11).
 aliases: [like a girl wearing gold]
 grc: [ἠΰτε κούρη]
 en: [like a girl]

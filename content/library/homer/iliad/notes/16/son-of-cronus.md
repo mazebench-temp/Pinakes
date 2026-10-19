@@ -1,0 +1,5 @@
+---
+summary: The son of Cronus pities Sarpedon and Patroclus as they meet, Hera answers him “Most dread son of Cronus,” he stretches tight the strife over Sarpedon's body, and the dying Patroclus names “Zeus, son of Cronus,” with Apollo, as the givers of Hector's victory.
+---
+
+The patronymic marks the god at the four turns of the two great deaths of the book. As Sarpedon and Patroclus rush together, “seeing them the son of crooked-counseling Cronus pitied them” (16.431; [[crooked-counseling]], [[pity]], [[sarpedon]]), and he asks Hera whether to save his son; she answers with her verse of protest, “Most dread son of Cronus, what a thing you have said!” (16.440; [[most-dread]], [[hera]]). When the Lycians flee from their dead king, it is because “many had fallen / on top of him, when the son of Cronus stretched tight the mighty strife” (16.661–662; [[krateros]], [[fighting-over-the-body]]). And Patroclus, answering Hector's boast, gives the victory to the gods: “for to you they have given / victory, Zeus, son of Cronus, and Apollo, who brought me down / easily” (16.844–846; [[hector]], [[apollo]]). See [[zeus]].

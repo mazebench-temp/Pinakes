@@ -3,7 +3,7 @@ title: Glaucus
 greek: Γλαῦκος
 kind: person
 tags: [trojan, warrior, lycia]
-summary: Son of Hippolochus and grandson of Bellerophon, who leads the [[Lycians]] with his cousin [[Sarpedon]]. In Book 6 he meets Diomedes, tells him his lineage, and exchanges his gold armor for Diomedes' bronze.
+summary: Son of Hippolochus and grandson of Bellerophon, who leads the [[Lycians]] with his cousin [[Sarpedon]]. He exchanges his gold armor for Diomedes' bronze, and when Sarpedon falls he rallies the Lycians and Trojans to fight for the body, and rebukes Hector for abandoning it.
 aliases: [Glaukos]
 grc: [Γλαῦκος]
 except: [6.155]

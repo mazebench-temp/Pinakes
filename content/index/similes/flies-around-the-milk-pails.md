@@ -3,7 +3,7 @@ title: Flies around the milk pails
 greek: ἠΰτε μυιάων ἁδινάων ἔθνεα πολλὰ
 kind: simile
 tags: [livestock, warfare]
-summary: As many as the swarming flies that buzz around a shepherd's steading in spring, when the milk wets the pails, the long-haired Achaeans stood on the plain against the Trojans, eager to tear them apart (2.469–473).
+summary: Men in a throng like the flies that buzz around a steading in spring, when the milk wets the pails: the Achaean army drawn up on the plain, as many as the flies (2.469–473), and the fighters crowding around the body of Sarpedon (16.641–644).
 aliases: [like flies around the milk pails, the flies at the milk pails]
 grc: [μυιάων ἁδινάων, γλάγος ἄγγεα δεύει]
 en: [when the milk wets the pails]

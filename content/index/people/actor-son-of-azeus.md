@@ -8,7 +8,7 @@ aliases: [Actor]
 grc: [Ἄκτορος, Ἀζεΐδαο]
 en: [Actor]
 # Ἄκτορος at 11.785 is Actor, father of Menoetius.
-except: [2.621, 11.785]
+except: [2.621, 11.785, 16.14]
 relations:
   - father: azeus (2.513)
   - child: astyoche (2.513)
@@ -18,4 +18,4 @@ relations:
 
 Ἀζεΐδης: "son of [[Azeus]]". δόμῳ Ἄκτορος, "in the house of Actor", sets the birth of the two leaders in their grandfather's house, presumably at Orchomenus.
 
-Homer knows several men called Actor: this one; [[actor-of-elis|Actor of Elis]], ancestor of the Epeian leaders Amphimachus and Thalpius (2.621); and Actor the father of Menoetius, Patroclus' grandfather (11.785, 16.14).
+Homer knows several men called Actor: this one; [[actor-of-elis|Actor of Elis]], ancestor of the Epeian leaders Amphimachus and Thalpius (2.621); [[actor-father-of-menoetius|Actor the father of Menoetius]], Patroclus' grandfather (11.785, 16.14); and [[actor-father-of-echecles|Actor the father of Echecles]], who married Polymele (16.189).

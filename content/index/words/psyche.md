@@ -31,4 +31,4 @@ Jan Bremmer (*The Early Greek Concept of the Soul*, 1983) called this the “fre
 
 Plato turns the proem's picture round. In the *Phaedo* Socrates tells his friends that he is not the corpse they will bury; he is the one who will have gone away (115c–e). For Homer, αὐτούς in 1.4 were the bodies.
 
-In the *Republic* Plato would strike from poetry Homer's lines on the ψυχή in Hades, among them 23.103–104 and 16.856–857, because they make men fear death (3.386c–387b).
+In the *Republic* Plato would strike from poetry Homer's lines on the ψυχή in Hades, among them 23.103–104 and 16.856–857, because they make men fear death (3.386c–387b; see [[plato-the-terrors-of-hades]]).

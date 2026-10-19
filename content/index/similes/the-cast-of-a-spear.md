@@ -3,7 +3,7 @@ title: The cast of a spear
 greek: ὅσον τʼ ἐπὶ δουρὸς ἐρωὴ γίγνεται
 kind: simile
 tags: [warfare, divine-scene]
-summary: Apollo kicks down the banks of the Achaean ditch and bridges a path for the Trojan chariots, long and wide, “as far as the cast of a spear goes, when a man throws it to test his strength” (15.355–360). The width of a god's work is measured by a man's throw.
+summary: A man's throw as the measure of a distance. Apollo bridges the Achaean ditch with a causeway, long and wide, as far as the cast of a spear that a man throws to test his strength (15.355–360), and the Trojans give ground before Patroclus as far as the rush of a long javelin thrown in a contest or in war (16.588–592).
 aliases: [a spear's throw, as far as the cast of a spear, Apollo bridges the ditch]
 grc: ["σθένεος πειρώμενος"]
 en: [when a man throws it to test his strength]

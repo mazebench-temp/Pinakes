@@ -19,4 +19,4 @@ When Zeus grants Thetis' prayer, “the ambrosial locks of the lord flowed down 
 
 {{quote:640348fc-7fe1-56c7-a683-ce6bf661080e}}
 
-Achilles' fair hair returns at Patroclus' funeral, when he cuts the lock he had grown for the river Spercheius and puts it in his dead friend's hands (Iliad 23.141–153).
+Achilles' fair hair returns at Patroclus' funeral, when he cuts the lock he had grown for the river [[Spercheius]] and puts it in his dead friend's hands (Iliad 23.141–153).

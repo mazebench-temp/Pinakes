@@ -12,7 +12,7 @@ passages:
 
 Foresight in the Iliad belongs to a few. The gods know what is coming, or some of it; Zeus alone knows his own counsels. Seers such as [[calchas|Calchas]] know “the things that are, the things to come, and the things that were before” (1.70). Among men, the mark of the wise counselor is to look “before and after” (see [[before-and-after]]). Most of the characters see only the present, and act on hopes and fears that the listener knows to be wrong.
 
-The narrator knows the end of the story and lets the listener see it coming. He tells what is fated in advance, and marks a character's ignorance with a single word, νήπιος (“fool”; properly a child, one who cannot see what is coming): Patroclus, begging Achilles to send him into battle, is “a great fool, for he was begging for his own evil death and doom” (16.46–47). The listener, who knows how the story ends, watches men who do not.
+The narrator knows the end of the story and lets the listener see it coming. He tells what is fated in advance, and marks a character's ignorance with a single word, νήπιος (“fool”; properly a child, one who cannot see what is coming): Patroclus, begging Achilles to send him into battle, is a great fool, “for truly he was / begging for his own evil death and doom” (16.46–47). The listener, who knows how the story ends, watches men who do not.
 
 {{notes}}
 

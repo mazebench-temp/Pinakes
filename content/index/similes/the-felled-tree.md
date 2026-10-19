@@ -3,7 +3,7 @@ title: The felled tree
 greek: ἤριπε δʼ ὡς ὅτε τις δρῦς ἤριπεν ἢ ἀχερωῒς
 kind: simile
 tags: [warfare, fate, repetition, mountain]
-summary: Asius, struck in the throat by Idomeneus, falls as an oak falls, or a white poplar, or a tall pine that builders cut down in the mountains with newly sharpened axes for ship-timber, and lies stretched out before his horses and chariot, roaring and clutching the bloody dust (13.389–393). The same five verses tell the death of Sarpedon at the hands of Patroclus (16.482–486).
+summary: A warrior falls as an oak falls, or a white poplar, or a tall pine that builders cut down in the mountains for ship-timber, and lies stretched out before his horses and chariot, roaring and clutching the bloody dust. The five verses tell the deaths of Asius, killed by Idomeneus (13.389–393), and of Sarpedon, killed by Patroclus (16.482–486).
 aliases: [like an oak or a poplar or a pine, Asius falls like a tree, Sarpedon falls like a tree, felled for ship-timber]
 grc: [ἀχερωῒς, "πίτυς βλωθρή", "πελέκεσσι νεήκεσι", "δίφρου κεῖτο τανυσθεὶς", "κόνιος δεδραγμένος"]
 en: [white poplar, tall pine, newly sharpened axes, he lay stretched out, clutching at the bloody dust]
@@ -25,3 +25,7 @@ The narrator foretold Asius' death at the wall. He would not leave his horses an
 ## Elsewhere in Homer
 
 The same five verses tell the death of Sarpedon, whom Patroclus strikes where the midriff closes around the heart, and they are followed there by a second simile, a lion killing a bull among the herd (16.480–491; see [[sarpedon]]). Other warriors fall like trees: Simoeisius like a poplar felled by a chariot-maker (4.482–487; see [[the-poplar]]), the twin sons of Diocles like fir trees (5.559–560; see [[fir-trees]]), Imbrius like an ash cut down with the bronze on a mountain peak (13.178–181; see [[the-felled-ash]]), Hector like an oak that falls uprooted under the stroke of Zeus (14.414–417; see [[the-oak-struck-by-the-thunderbolt]]), and Euphorbus like a young olive tree torn up by a gale (17.53–58). The woodcutters of the similes work in the mountains: the woodcutter takes his meal in a mountain glen when his hands are weary of felling tall trees (11.86–89), and the men sent to Ida for Patroclus' pyre fell the high-leafed oaks with the bronze, and the trees fall with a great crash (23.114–120).
+
+## Outside Homer
+
+The Hesiodic *Shield of Heracles* gives Cycnus' fall the simile's first verse with a new ending: ἤριπε δʼ, ὡς ὅτε τις δρῦς ἤριπεν ἢ ὅτε πεύκη / ἠλίβατος, πληγεῖσα Διὸς ψολόεντι κεραυνῷ, “he fell as when an oak falls, or a towering pine, struck by the smoking thunderbolt of Zeus” (*Shield* 421–422). The tree is not cut down by builders but struck by Zeus, like the oak to which Hector is compared (14.414–417; see [[the-oak-struck-by-the-thunderbolt]]).

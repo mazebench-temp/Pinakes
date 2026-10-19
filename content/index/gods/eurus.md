@@ -3,7 +3,7 @@ title: Eurus
 greek: Εὖρος
 kind: god
 tags: [personification, sea]
-summary: The East Wind. In Book 2 it joins the South Wind to raise the long waves of the Icarian Sea, in the simile for the assembly's panic.
+summary: The East Wind. In the similes of the Iliad it blows with the South Wind, together raising the waves of the sea and against each other shaking a mountain forest.
 aliases: [East Wind, Euros]
 grc: [Εὖρος]
 ---

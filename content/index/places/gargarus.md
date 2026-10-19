@@ -15,7 +15,7 @@ passages:
 
 ## Description
 
-Gargarus is the summit of Ida, Γάργαρον ἄκρον (14.292, 14.352, 15.152; see [[ida]]). The poem never describes the peak, only the god on it. τέμενος βωμός τε θυήεις, "a precinct and a fragrant altar" (8.48), is a formula for a god's holy ground. The river Spercheius has the same at its springs (23.148), and Aphrodite at Paphos (*Odyssey* 8.363). A τέμενος is land "cut off" (τέμνω) and set apart for a god or a king (see [[altar]] and [[fragrant]]).
+Gargarus is the summit of Ida, Γάργαρον ἄκρον (14.292, 14.352, 15.152; see [[ida]]). The poem never describes the peak, only the god on it. τέμενος βωμός τε θυήεις, "a precinct and a fragrant altar" (8.48), is a formula for a god's holy ground. The river [[Spercheius]] has the same at its springs (23.148), and Aphrodite at Paphos (*Odyssey* 8.363). A τέμενος is land "cut off" (τέμνω) and set apart for a god or a king (see [[altar]] and [[fragrant]]).
 
 ## In Homer
 

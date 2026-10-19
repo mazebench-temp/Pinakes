@@ -1,0 +1,18 @@
+---
+summary: Peleus is far away in Phthia, but Patroclus goes out with his gifts. Achilles thinks of him as alive among the Myrmidons; Patroclus, reproaching Achilles, denies that the horseman Peleus was his father; the immortal horses that leap the ditch are the gods' gifts to Peleus, and the spear Patroclus leaves behind is the Pelian ash that Chiron gave him. The exile Epeigeus had come to him and Thetis as a suppliant (16.14–16, 16.33–35, 16.143–144, 16.380–381, 16.574–576, 16.866–867).
+# Πηλέος (16.203, in Πηλέος υἱέ "son of Peleus", also 18.18, 20.2, 21.139, 22.8, 22.250), the dative Πηλῆϊ
+# (16.381, 16.867; also 17.443, 18.84, 18.433, 23.278, 24.534) and the elided accusative Πηλῆʼ (16.574) are
+# all Peleus. Αἰακίδης (16.15, 21.189), "son of Aeacus", is Peleus; the genitive and accusative are Achilles.
+grc: [Πηλέος, Πηλῆϊ, "Πηλῆʼ", Αἰακίδης]
+refs: [16.143-144, 16.575]
+---
+
+**Alive in Phthia.** When Patroclus comes to him weeping, Achilles asks whether he has heard some news from Phthia, and names the two fathers: “Yet they say that Menoetius, son of Actor, still lives, / and Peleus, son of Aeacus, lives among the Myrmidons; / we would grieve greatly for both of them, if they were dead” (16.13–16; see [[phthia]], [[menoetius]] and [[aeacus]]). The patronymic Αἰακίδης, which has so far named only Achilles, “the grandson of Aeacus”, is given here to Peleus himself (see [[grandson-of-aeacus]]).
+
+**Not your father.** Patroclus turns the parentage into a reproach: “Pitiless one, the horseman Peleus was not your father after all, / nor Thetis your mother; but the gray-green sea bore you, / and the lofty rocks, since your mind is harsh” (16.33–35; see [[patroclus]], [[achilles]] and [[thetis]]). ἱππότα, “horseman”, is the title Patroclus' ghost will give Peleus when it tells how he received the boy in his house (23.89); it is Nestor's standing title, and the Catalogue gives it to Phyleus (2.628; see [[gerenian-horseman]] and [[phyleus]]). Achilles reports the Myrmidons' reproach in the same spirit, with the patronymic: “Hard son of Peleus, your mother reared you on anger” (Πηλέος υἱέ, 16.203; see [[hard]] and [[myrmidons]]).
+
+**The gifts of Peleus.** The things Patroclus takes into battle came to Achilles from his father. The horses that leap the ditch are “immortal, the splendid gifts that the gods gave to Peleus” (16.380–381), and the same verse ends the book, when they carry Automedon away from Hector (16.866–867; see [[the-horses-of-achilles]] and [[automedon]]). The armor, too, Achilles will say, was the gods' gift to Peleus on the day of his wedding (18.84–85), and when Hector puts it on the narrator adds that Peleus gave it to his son when he grew old, “but the son did not grow old in his father's armor” (17.195–197; see [[exchange-of-armor]]). The spear Patroclus leaves behind is the one gift he cannot use: “the Pelian ash, which Chiron gave to his dear father / from the peak of Pelion, to be death for heroes” (16.143–144; see [[the-pelian-ash]], [[chiron]] and [[pelion]]).
+
+**The suppliant.** Epeigeus, once lord of Budeum, killed his cousin and “came as a suppliant to Peleus and to silver-footed Thetis; / and they sent him to follow Achilles, breaker of men, / to Ilios of the fine horses” (16.574–576; see [[epeigeus]], [[supplication]] and [[exile-and-refuge]]). Peleus had received another fugitive, Phoenix, and sent him too to Troy with Achilles (9.478–484, 9.438–443; see [[phoenix]]).
+
+**His daughter.** Polydora, the mother of the Myrmidon leader Menesthius, is “the daughter of Peleus” (Πηλῆος θυγάτηρ, 16.175; see [[polydora]] and [[menesthius-son-of-spercheius]]). The poem names no other daughter of Peleus, and does not say who her mother was.

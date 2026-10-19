@@ -30,7 +30,7 @@ The Iliad calls the Eileithyiai Ἥρης θυγατέρες, “the daughters o
 
 ## In Homer
 
-She is plural twice in the Iliad and singular twice. In Book 16 “Eileithyia of the hard births” brings Eudorus, son of Hermes and Polymele, out into the light, “and he saw the rays of the sun” (16.187–188; see [[hermes]]). In Book 19 Agamemnon tells how on the day of Heracles' birth Zeus boasted that “today Eileithyia of the hard births will bring into the light a man” who would rule all who dwell around him (19.103–105), and how Hera, having bound him by an oath, brought Sthenelus' son Eurystheus to birth in the seventh month and “held back the Eileithyiai” from Alcmene (19.114–119; see [[eurystheus]] and [[heracles]]). In the Odyssey the disguised Odysseus tells Penelope that a storm once brought Odysseus to Amnisus in Crete, “where the cave of Eileithyia is” (*Odyssey* 19.185–189; see [[crete]]).
+She is plural twice in the Iliad and singular twice. In Book 16 “Eileithyia, who brings hard birth”, brings Eudorus, son of Hermes and Polymele, out into the light, “and he saw the rays of the sun” (16.187–188; see [[hermes]]). In Book 19 Agamemnon tells how on the day of Heracles' birth Zeus boasted that “today Eileithyia, who brings hard birth, will bring into the light a man” who would rule all who dwell around him (19.103–105), and how Hera, having bound him by an oath, brought Sthenelus' son Eurystheus to birth in the seventh month and “held back the Eileithyiai” from Alcmene (19.114–119; see [[eurystheus]] and [[heracles]]). In the Odyssey the disguised Odysseus tells Penelope that a storm once brought Odysseus to Amnisus in Crete, “where the cave of Eileithyia is” (*Odyssey* 19.185–189; see [[crete]]).
 
 ## Outside Homer
 

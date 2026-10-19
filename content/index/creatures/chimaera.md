@@ -3,7 +3,7 @@ title: Chimaera
 greek: Χίμαιρα
 kind: creature
 tags: [lycia]
-summary: The fire-breathing monster of Lycia, “a lion in front, a serpent behind, and in the middle a she-goat”, which the king of Lycia sent Bellerophon to kill (6.179–183). Homer calls her “of divine race, not of men”, and says that Amisodarus reared her (16.328–329).
+summary: The fire-breathing monster of Lycia, “a lion in front, a serpent behind, and in the middle a she-goat”, which the king of Lycia sent Bellerophon to kill (6.179–183). Homer calls her “of divine race, not of men” (6.180), and says that Amisodarus reared her (16.328–329).
 aliases: [the Chimaera, Chimera, Khimaira]
 grc: ["^Χίμαιραν"]
 # χίμαιρα at 6.181 is the common noun "she-goat", the monster's middle part.
@@ -24,7 +24,7 @@ passages:
 
 ἀμαιμάκετος, “irresistible”, is said of her both times she is named (6.179, 16.329; see [[irresistible]]); in the Odyssey it describes a ship's mast (Od. 14.311). θεῖον γένος οὐδʼ ἀνθρώπων, “of divine race, not of men”, sets her apart from the human enemies of Bellerophon's later tasks. She is a lion in front, a serpent (δράκων) behind and a goat in the middle (see [[lion]], [[serpent]] and [[goats]]), and she breathes “the terrible might of blazing fire” (πυρὸς μένος, 6.182; see [[menos]]). Bellerophon kills her “obeying the portents of the gods” (6.183; see [[teras]]). Homer gives him no winged horse.
 
-She is named once more. Atymnius and Maris, “noble companions of Sarpedon” whom the sons of Nestor kill, were sons of Amisodarus, “who reared the irresistible Chimaera, an evil to many men” (16.317–329). Homer says nothing more of Amisodarus, but his sons fight at Troy beside Bellerophon's grandson (see [[sarpedon]] and [[bellerophon]]).
+She is named once more. [[atymnius-son-of-amisodarus|Atymnius]] and [[maris|Maris]], “brave companions of Sarpedon” whom the sons of Nestor kill, were sons of [[amisodarus|Amisodarus]], “who reared the Chimaera, / the irresistible, an evil to many men” (16.317–329). Homer says nothing more of Amisodarus, but his sons fight at Troy beside Bellerophon's grandson (see [[sarpedon]] and [[bellerophon]]).
 
 ## Outside Homer
 

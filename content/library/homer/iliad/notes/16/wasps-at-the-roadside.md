@@ -1,0 +1,17 @@
+---
+summary: The Myrmidons pour out from the ships behind Patroclus like wasps by the wayside, which boys make a habit of teasing, so that they become a common evil for many: if a passerby stirs them unwittingly, they all fly out with valiant hearts and each defends its young (16.257–267).
+grc: ["σφήκεσσιν ἐοικότες", εἰνοδίοις, "ὁδῷ ἔπι οἰκίʼ", "ξυνὸν δὲ κακὸν", "ἀμύνει οἷσι τέκεσσι", "τῶν τότε Μυρμιδόνες"]
+en: [by the wayside, a common evil for many, each defends its young, of these]
+passages:
+  - 16.257-277 | The Myrmidons fall on the Trojans
+---
+
+{{quote:aac63de0-c0e8-5c9e-8e2f-c64698c8e451}}
+
+αὐτίκα δὲ σφήκεσσιν ἐοικότες ἐξεχέοντο / εἰνοδίοις, οὓς παῖδες ἐριδμαίνωσιν ἔθοντες / αἰεὶ κερτομέοντες ὁδῷ ἔπι οἰκίʼ ἔχοντας / νηπίαχοι: “At once they poured out like wasps / by the wayside, which boys make a habit of provoking, / always teasing them, where they have their homes beside the road, / the foolish little ones” (16.259–262). εἰνόδιος, “by the road”, and ἐριδμαίνω, “provoke”, are found only here in Homer; ἔθοντες, “as is their habit”, makes the boys' game a custom. κερτομέω is to tease or mock with words (see [[kertomia]]), and the boys are νηπίαχοι, “foolish little ones”, the children who do not know what they are doing (see [[nepios]]). ξυνὸν δὲ κακὸν πολέεσσι τιθεῖσι, “and they make a common evil for many” (16.262): the harm the boys start falls on everyone who uses the road.
+
+τοὺς δʼ εἴ περ παρά τίς τε κιὼν ἄνθρωπος ὁδίτης / κινήσῃ ἀέκων, οἳ δʼ ἄλκιμον ἦτορ ἔχοντες / πρόσσω πᾶς πέτεται καὶ ἀμύνει οἷσι τέκεσσι, “And if some wayfarer passing by / stirs them up unwittingly, they, with valiant hearts, / all fly out and each defends its young” (16.263–265). The simile has two disturbers, the boys who tease the wasps on purpose and the traveler who stirs them by chance, and it is the traveler who is stung. The swarm comes out as one, “all” of them, and each wasp fights for its own young. Walter Leaf reports that Friedländer saw two versions of the simile in the two disturbers, and that Nitzsch struck out the boys (16.260–262), so that the wasps attack unprovoked; he also quotes the ancient note that 16.261 was athetized, by Aristophanes too, because κερτομέω is to provoke with words and not with deeds and because the verse says again what 16.260 has said, and he thought the athetesis right (*Commentary on the Iliad*, 1900, on 16.259 and 16.261).
+
+The tenor: τῶν τότε Μυρμιδόνες κραδίην καὶ θυμὸν ἔχοντες / ἐκ νηῶν ἐχέοντο, “With the heart and spirit of these the Myrmidons then / poured out from the ships; and an unquenchable cry went up” (16.266–267). The likeness is of the heart, κραδίη and θυμός, the “valiant heart” of the wasps (ἄλκιμον ἦτορ), and of the pouring out, ἐξεχέοντο and ἐχέοντο, the swarm leaving the nest and the army leaving the ships. The Myrmidons have been kept long at the ships against their will: Achilles has just reminded them how they complained of it all through his wrath (16.200–209; see [[myrmidons]]). Now they are let out, and the Trojans, who have not stirred them, meet the swarm.
+
+The simile answers the one Asius spoke at the wall, where wasps or bees with their homes beside a rocky road would not leave their hollow house, but fought off the hunters for the sake of their young (12.167–172). There the swarm stays at home and holds the gate; here it comes out and attacks. Before it, the Myrmidons stood in their ranks as close as the stones of a house wall built against the winds (16.212–217; see [[the-stones-of-a-wall]]). See [[wasps]].

@@ -3,7 +3,7 @@ title: Diomedes
 greek: Διομήδης
 kind: person
 tags: [achaean, argive, king, warrior, argolid]
-summary: Son of [[Tydeus]], lord of Argos and Tiryns, the youngest of the great Achaean fighters and a favorite of [[Athena]]. With her help he dominates the fighting of Book 5, wounding Aphrodite and Ares.
+summary: Son of [[Tydeus]], lord of Argos and Tiryns, the youngest of the great Achaean fighters and a favorite of [[Athena]]. On his great day of battle, with her help, he wounds Aphrodite and even Ares.
 aliases: [son of Tydeus, Tydides, Tydeides]
 grc: [Διομήδης, "Τυδέος υἱόν"]
 en: [Diomedes, son of Tydeus]

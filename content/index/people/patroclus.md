@@ -21,7 +21,7 @@ relations:
 
 ## Elsewhere in Homer
 
-Patroclus came to Peleus' house as a boy after killing another boy over a game of dice (23.84–90). He fights in Achilles' armor, is killed by Hector (16.818–857), and Achilles' grief for him turns his wrath against the Trojans.
+Patroclus came to Peleus' house as a boy after killing another boy in a quarrel over knucklebones (23.84–90). He fights in Achilles' armor and is killed by Apollo, Euphorbus and Hector (16.786–857), and Achilles' grief for him turns his wrath against the Trojans.
 
 ## Outside Homer
 

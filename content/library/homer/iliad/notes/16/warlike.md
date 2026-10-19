@@ -1,0 +1,5 @@
+---
+summary: “The warlike sons of the Achaeans” in Patroclus' plea, “warlike Achilles” among his men, the Myrmidon leaders “warlike Eudorus” and “warlike Peisander,” and “warlike Menelaus” killing Thoas.
+---
+
+Patroclus asks for Achilles' armor so that the Trojans may hold off “and the warlike sons of the Achaeans may draw breath” (16.42; [[sons-of-the-achaeans]]). As the Myrmidons arm, “among them stood warlike Achilles, / urging on the horses and the shield-bearing men” (16.166–167; [[shield-bearing]]). In the catalogue two leaders have the epithet at the head of their entries: “The second was led by warlike Eudorus” (16.179; [[eudorus]]) and “The third was led by warlike Peisander” (16.193; [[peisander-son-of-maemalus]]). In the fighting among the leaders, “And warlike Menelaus stabbed Thoas” (16.311; [[menelaus]], [[thoas-killed-by-menelaus]]). At 16.42 the digitized text printed the word with a capital, a slip corrected in the text (see the translation's note on 16.38, 16.42, 16.846).

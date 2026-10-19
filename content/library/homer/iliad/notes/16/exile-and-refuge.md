@@ -1,0 +1,18 @@
+---
+summary: The Myrmidon Epeigeus, once lord of Budeum, killed a cousin and came as a suppliant to Peleus and Thetis, who sent him to Troy with Achilles; Hector kills him with a stone as he takes hold of Sarpedon's body (16.570–580). Achilles, in the same book, again calls himself treated “as if I were some dishonored vagrant” (16.59).
+refs: [16.572-576]
+passages:
+  - 16.570-580 | Epeigeus
+---
+
+{{quote:d6d0004c-d5d3-5c7f-b6b0-a8a9bb9c0ffb}}
+
+**Epeigeus.** The obituary is the pattern of the article above in five verses. Epeigeus had been a king, ἤνασσε, in “well-peopled Budeum” (16.572; see [[budeum]]); he killed a kinsman, ἐσθλὸν ἀνεψιόν, “a brave cousin” (16.573); he fled, and came as a suppliant, ἱκέτευσε, to the lord of another land (16.574; see [[supplication]]); and that lord gave him a place among his men. The verb ἱκετεύω occurs only here in the Iliad. In the Odyssey the seer Theoclymenus, who has killed a man of his own tribe and fled from Argos, uses it to Telemachus: “take me on board, since I have fled and come to you as a suppliant” (*Odyssey* 15.272–278). Epeigeus is the third man whom the house of Peleus is said to have received after a killing or a quarrel. Peleus took in Phoenix, who fled his father's curse, and made him lord of the Dolopians (9.478–484); Menoetius brought him the boy Patroclus, who had killed the son of Amphidamas over a game of knucklebones (23.85–90; see [[phoenix]] and [[patroclus]]). Epeigeus is sent with Achilles “to Ilios of the fine horses, to fight the Trojans” (16.575–576; see [[epeigeus]] and [[peleus-sends-achilles-to-troy]]).
+
+**His death.** He dies in the fight over Sarpedon, when the Trojans first push the Achaeans back: “Him, as he took hold of the corpse, shining Hector struck / on the head with a stone” (16.577–578; see [[hector]] and [[the-death-of-sarpedon]]). The narrator's praise opens the obituary, “a man … by no means the worst among the Myrmidons” (16.570; see [[myrmidons]]), and grief for “his fallen companion” sends Patroclus through the front ranks like a hawk (16.581–585; see [[like-a-hawk]]). Medon and Lycophron, the exiles who died in Book 15, were killed far from the lands of their birth (15.332–336, 15.430–439); so is Epeigeus, beside the dead king of the Lycians.
+
+**Thetis in Peleus' house.** He came “to Peleus and to silver-footed Thetis” (16.574): in this verse the goddess lives with her mortal husband and receives his suppliants (see [[thetis]] and [[thetis-in-the-house-of-peleus]]). Walter Leaf reports that Aristarchus noted the line against “the later poets”, in whose story Thetis had left the house of Peleus (*Commentary on the Iliad*, 1900, on 16.573). During the war the Iliad finds her in the depths of the sea beside her old father (1.357–358, 18.35–36).
+
+**Blood that cannot be paid.** Leaf took Epeigeus, like Phoenix and Patroclus, for a retainer who serves a lord in return for protection against those who would avenge the blood he shed, and observed that a kinsman's blood could not be paid for, so that the killer had to flee, as Tlepolemus fled after killing Licymnius (2.661–667); Ajax's words to Achilles, that a man accepts the blood-price even for a brother or a son (9.632–636), he thought a later stage of custom (on 16.573; see [[poine]] and [[the-flight-of-tlepolemus]]).
+
+**A vagrant.** Answering Patroclus' plea, Achilles repeats what he said to the embassy: Agamemnon took Briseis back out of his hands, “as if I were some dishonored vagrant” (16.59 = 9.648; see [[like-a-dishonored-vagrant]]). The μετανάστης, the man who has left his own people, is the figure of the exile without protection; Achilles uses it of himself, the lord in whose father's house exiles found a home.

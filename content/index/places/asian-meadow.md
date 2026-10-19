@@ -6,6 +6,7 @@ tags: [maeonia]
 summary: The marshy meadow by the river [[Cayster]] in Lydia, where flocks of birds settle “with loud cries”. Its name is usually connected with the later name Asia.
 aliases: [Asian Meadow, meadow of Asias]
 grc: [Ἀσίω]
+except: [16.717]
 ---
 
 {{quote:5d15a4b5-97df-5737-bac4-42c23c749d89}}

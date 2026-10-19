@@ -15,6 +15,6 @@ relations:
 
 {{quote:7fa34f0c-25f9-59d9-a9d1-590fc0866193}}
 
-παρθένος αἰδοίη: "a modest maiden". αἰδοῖος is the adjective of [[aidos|αἰδώς]] ("respect, modesty"). ὑπερώϊον: the upper room of the house, where the women lived. Ares came to her "in secret" (λάθρῃ), as Hermes came to the girl Polymele (16.179–186); see [[the-birth-of-ascalaphus-and-ialmenus]].
+παρθένος αἰδοίη: "a modest maiden". αἰδοῖος is the adjective of [[aidos|αἰδώς]] ("respect, modesty"). ὑπερώϊον: the upper room of the house, where the women lived. Ares came to her "in secret" (λάθρῃ), as Hermes came to the girl [[Polymele]] (16.179–186); see [[the-birth-of-ascalaphus-and-ialmenus]] and [[the-birth-of-eudorus]].
 
 Her name, from ἄστυ (town) and ἔχω (hold), "she who holds the town", is close to that of Astyocheia, the mother of Tlepolemus (2.658; [[astyocheia]]), a different woman.

@@ -1,0 +1,16 @@
+---
+summary: Thetis does not appear, but she is behind Achilles throughout the book. Patroclus says that the sea bore him and not Thetis, and asks whether his mother has told him an oracle from Zeus; the chest she packed holds the cup for his prayer; she received the suppliant Epeigeus with Peleus; and Hector names Achilles as her son.
+# "lady mother" (πότνια μήτηρ, 16.37, 16.51): Thetis named by Patroclus and Achilles without her name.
+en: [lady mother]
+refs: [16.37, 16.51, 16.203]
+---
+
+**Not Thetis but the sea.** Patroclus calls Achilles pitiless: “the horseman Peleus was not your father after all, / nor Thetis your mother; but the gray-green sea bore you, / and the lofty rocks, since your mind is harsh” (16.33–35; see [[gray-green-sea]], [[peleus]] and [[achilles]]). The insult turns on a fact, for his mother is a goddess of the sea, who sits in its depths beside her aged father (1.357–358; see [[old-man-of-the-sea]] and [[sea]]). The Myrmidons' old complaint, which Achilles repeats to them, blames her too: “Hard son of Peleus, your mother reared you on anger” (16.203; see [[myrmidons]] and [[cholos]]).
+
+**An oracle from Zeus.** Patroclus offers him a reason he could accept: “if in your mind you are shunning some oracle, / and your lady mother has told you something from Zeus”, let him at least send Patroclus out (16.36–38). The words are Nestor's, who put them in Patroclus' mouth (11.794–797; see [[nestor]]). Achilles denies it: “nor has my lady mother told me anything from Zeus” (16.51). Yet she has told him that his life is short (1.352, 1.416) and that two fates are carrying him to his death (9.410–416; see [[the-two-fates-of-achilles]]), and in Book 18 he will remember that his mother once told him that the best of the Myrmidons would leave the light of the sun at the hands of the Trojans while he still lived (18.9–11).
+
+**The chest.** Before he prays, Achilles opens a chest, “fine and intricately worked, which silver-footed Thetis / had put on his ship for him to take, filling it well with tunics / and cloaks to keep off the wind and woolly rugs” (16.222–224; see [[chest]] and [[silver-footed]]). In it he keeps the cup from which he pours libations to Zeus alone (16.225–227; see [[cup]] and [[zeus]]).
+
+**In the house of Peleus.** The Myrmidon Epeigeus, once lord of Budeum, killed a cousin and “came as a suppliant to Peleus and to silver-footed Thetis; / and they sent him to follow Achilles, breaker of men, / to Ilios” (16.574–576; see [[epeigeus]], [[exile-and-refuge]] and [[supplication]]). When the army sailed, Thetis was living with Peleus and received suppliants with him, as Achilles remembers hearing her in his father's halls (1.396–397; see [[thetis-in-the-house-of-peleus]]). In the poem's present she lives in the sea, and she will lament that she will never welcome her son home again to the house of Peleus (18.59–60, 18.440–441).
+
+**Son of Thetis.** Over the dead Patroclus, Hector answers his prophecy: “Who knows if Achilles, son of Thetis of the lovely hair, / may not first be struck by my spear and lose his life?” (16.860–861; see [[hector]] and [[lovely-haired]]). Apollo called Achilles by the same words in Book 4, when he told the Trojans that he was not fighting (4.512).

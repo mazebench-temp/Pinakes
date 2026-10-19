@@ -13,7 +13,7 @@ en: [Pelasgians, Pelasgian]
 
 ἐγχεσίμωροι, "fighters with the spear" ([[fighters-with-the-spear]]). The Pelasgians of the Trojan catalogue live at "deep-soiled Larisa" and are led by [[Hippothous]] and [[Pylaeus]], sons of "the Pelasgian Lethus". Where this Larisa was is uncertain ([[larisa]]).
 
-Homer's Pelasgians are hard to place. The Achaean catalogue has a "Pelasgian Argos" in Achilles' country ([[pelasgian-argos]], 2.681). Achilles prays to "Zeus, lord of Dodona, Pelasgian" (16.233). In the Odyssey "noble Pelasgians" live in Crete beside Achaeans, Eteocretans, Cydonians and Dorians, each with its own tongue (19.175–177). And in Book 10 Dolon names Pelasgians among the Trojan allies camped by the sea (10.429). The name seems to belong to old peoples of the Aegean who were not Achaeans, wherever they lived.
+Homer's Pelasgians are hard to place. The Achaean catalogue has a "Pelasgian Argos" in Achilles' country ([[pelasgian-argos]], 2.681). Achilles prays to “Lord Zeus, of Dodona, Pelasgian” (16.233; see [[dodona]]). In the Odyssey "noble Pelasgians" live in Crete beside Achaeans, Eteocretans, Cydonians and Dorians, each with its own tongue (*Odyssey* 19.175–177). And in Book 10 Dolon names Pelasgians among the Trojan allies camped by the sea (10.429). The name seems to belong to old peoples of the Aegean who were not Achaeans, wherever they lived.
 
 ## Outside Homer
 

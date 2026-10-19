@@ -16,7 +16,7 @@ Book 3 names Phrygia twice. Priam remembers going there in his youth, to "vine-r
 
 ## Elsewhere in Homer
 
-Hecuba's brother Asius, son of Dymas, lived "in Phrygia by the streams of the Sangarius" (16.717–719). Hector names the same pair of countries as Helen when he says that Troy's treasures have been sold off "to Phrygia and lovely Maeonia" to pay for the war (18.288–292). Achilles marks the limits of Priam's old kingdom by Lesbos, "Phrygia above" and the Hellespont (24.544–545).
+Hecuba's brother [[asius-son-of-dymas|Asius]], son of [[Dymas]], lived "in Phrygia by the streams of the Sangarius" (16.717–719). Hector names the same pair of countries as Helen when he says that Troy's treasures have been sold off "to Phrygia and lovely Maeonia" to pay for the war (18.288–292). Achilles marks the limits of Priam's old kingdom by Lesbos, "Phrygia above" and the Hellespont (24.544–545).
 
 ## Outside Homer
 

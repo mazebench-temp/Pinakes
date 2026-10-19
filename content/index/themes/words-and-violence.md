@@ -13,7 +13,7 @@ passages:
 
 The Iliad is a poem of war, but its heroes spend much of it talking, and the poem treats speech and fighting as two sides of one excellence. Phoenix was sent to Troy with the young Achilles to make him “a speaker of words and a doer of deeds” (μύθων τε ῥητῆρʼ ἔμεναι πρηκτῆρά τε ἔργων, 9.443). The language of the quarrel is the language of battle: men “fight” with words (μάχομαι), and they hurl reproaches ([[oneidos|ὀνείδεα]]), cutting words ([[kertomia|κερτόμια]]) and threats.
 
-Words stand in several relations to violence. They can replace it, as when a goddess stops a half-drawn sword with an argument. They can bind it to the future, as an oath or a threat does. They can prepare it, as the taunts exchanged before a duel do. And they can be dismissed as no substitute for it: “the end of war is in the hands, of words in council”, says Patroclus, and there is no need for speeches, but for fighting (16.630–631).
+Words stand in several relations to violence. They can replace it, as when a goddess stops a half-drawn sword with an argument. They can bind it to the future, as an oath or a threat does. They can prepare it, as the taunts exchanged before a duel do. And they can be dismissed as no substitute for it: Patroclus tells Meriones, “For the outcome of war lies in our hands, and the outcome of words in council; / so there is no need to heap up words, but to fight” (16.630–631; see [[the-outcome-of-war]]).
 
 {{notes}}
 

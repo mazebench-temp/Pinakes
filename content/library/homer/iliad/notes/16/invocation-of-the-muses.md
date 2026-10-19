@@ -1,0 +1,5 @@
+---
+summary: The last of the three invocations of the battle books asks how the fire came to the ships: “Tell me now, Muses, you who have your homes on Olympus, / how fire first fell upon the ships of the Achaeans” (16.112–113). The answer is the turning point of the poem.
+---
+
+Ajax can no longer hold his ground on the ship: his helmet rings under the missiles, his shoulder is tired from the shield, and he cannot draw breath (16.102–111; see [[ajax]]). Here the narrator stops and calls on the Muses, with the verse he used before the Catalogue of Ships, before the first man to face Agamemnon, and before the first Achaean to win spoils in the Trojan rout (2.484, 11.218–220, 14.508–510). The question is ὅππως δὴ πρῶτον, “how first”: what the Muses are asked to tell is a beginning. Hector shears off the point of Ajax's spear with his sword, Ajax knows the work of the gods and draws back, and the Trojans throw fire on the ship (16.114–123; see [[ships]] and [[stern]]). The burning ship is the sign Zeus was waiting for (15.596–602; see [[plan-of-zeus]]), and at the sight of it Achilles sends Patroclus out (16.124–129).

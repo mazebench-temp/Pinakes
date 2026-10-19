@@ -5,9 +5,10 @@ kind: animal
 tags: [livestock, warfare, achaean, myrmidon]
 summary: Xanthus and Balius, the immortal horses that the gods gave to Peleus and Peleus to his son, foaled by the Harpy Podarge to the West Wind. The Trojans covet them; they carry Patroclus into battle and weep for him, and Xanthus, given a voice by Hera, foretells the death of Achilles.
 aliases: [Xanthus and Balius, Balius, Achilles' horses, horses of Achilles, the horses of Peleus]
-# The phrase of 10.402, which will also catch ἵππους Αἰακίδαο (17.76). Later: Ξάνθον καὶ Βαλίον (16.149),
-# Ξάνθέ τε καὶ Βαλίε (19.400), Ξάνθος (19.405); the-horses-of-hector must except 19.400 and 19.420.
-grc: ["ἵππ* Αἰακίδαο"]
+# The phrase of 10.402, which will also catch ἵππους Αἰακίδαο (17.76), and the pair named at 16.149.
+# Later: Ξάνθέ τε καὶ Βαλίε (19.400), Ξάνθος (19.405); the-horses-of-hector must except 19.400 and 19.420.
+grc: ["ἵππ* Αἰακίδαο", "Ξάνθον καὶ Βαλίον"]
+en: [Xanthus and Balius]
 passages:
   - 16.145-154 | Automedon yokes Xanthus and Balius
   - 17.426-458 | The horses of Achilles weep for Patroclus
@@ -17,7 +18,7 @@ passages:
 
 ## Names and descent
 
-Ξάνθος, Xanthus, is “Bay”, from ξανθός, “yellow, fair”, a name that one of Hector's horses shares (8.185; see [[the-horses-of-hector]]). Βαλίος, Balius, is from βαλιός, “dappled”. The Harpy Podarge, “Swift-foot” or “White-foot”, bore them to the West Wind as she grazed in a meadow by the stream of Ocean, and they “flew with the breezes” (16.148–151; see [[zephyrus]]). Achilles calls them “far-famed children of Podarge” (19.400). They are ἄμβροτοι, “immortal”, the “glorious gifts” that the gods gave to Peleus (16.381 = 16.867), and Achilles says that Poseidon gave them to his father and his father to him (23.277–278; see [[peleus]] and [[poseidon]]). Zeus calls them “ageless and immortal” (17.444; see [[immortal-and-ageless]]). In Book 16 they run with a mortal trace horse, Pedasus, taken at the sack of Eetion's city, “who, though mortal, kept pace with immortal horses” (16.152–154).
+Ξάνθος, Xanthus, is “Bay”, from ξανθός, “yellow, fair”, a name that one of Hector's horses shares (8.185; see [[the-horses-of-hector]]). Βαλίος, Balius, is from βαλιός, “dappled”. The Harpy Podarge, “Swift-foot” or “White-foot”, bore them to the West Wind as she grazed in a meadow by the stream of Ocean, and they “flew as fast as the winds” (16.149; see [[zephyrus]]). Achilles calls them “far-famed children of Podarge” (19.400). They are ἄμβροτοι, “immortal”, the “splendid gifts that the gods gave to Peleus” (16.381 = 16.867), and Achilles says that Poseidon gave them to his father and his father to him (23.277–278; see [[peleus]] and [[poseidon]]). Zeus calls them “ageless and immortal” (17.444; see [[immortal-and-ageless]]). In Book 16 they run with a mortal trace horse, Pedasus, taken at the sack of Eetion's city, “who, mortal though he was, kept pace with the immortal horses” (16.152–154).
 
 ## The best of horses
 

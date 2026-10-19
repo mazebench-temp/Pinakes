@@ -3,7 +3,7 @@ title: The wounded lion
 greek: χραύσῃ μέν τʼ αὐλῆς ὑπεράλμενον οὐδὲ δαμάσσῃ
 kind: simile
 tags: [wild-animal, livestock, warfare]
-summary: Wounded by Pandarus' arrow and renewed by Athena, Diomedes goes back into the fighting with three times his former fury, like a lion that a shepherd has grazed but not killed as it leapt into the fold. Its strength roused, it scatters the flock, which lies heaped together, and leaps out again (5.134–143).
+summary: A lion wounded as it falls on a fold or a farmstead. Diomedes, wounded by Pandarus' arrow, goes back into the fighting like a lion that a shepherd has grazed but not killed, whose strength the wound only rouses (5.134–143); Patroclus leaps on the body of Cebriones with the spring of a lion that is struck in the chest as it ravages the farmsteads, and whose own courage destroys it (16.751–754).
 aliases: [like a wounded lion, the lion in the sheepfold, the lion grazed by the shepherd]
 grc: [ὥς τε λέοντα, εἰροπόκοις ὀΐεσσι, αὐλῆς ὑπεράλμενον, ἐρῆμα φοβεῖται, ἀγχιστῖναι, βαθέης ἐξάλλεται αὐλῆς]
 en: [like a, a shepherd in the fields, has grazed as it leapt over the wall of the fold, slips into the farm buildings, they lie heaped close one upon another, leaps back out of the high-walled fold]

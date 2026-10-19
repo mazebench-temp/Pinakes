@@ -1,0 +1,6 @@
+---
+summary: Named only as “the son of Phyleus”, Meges is third of the leaders who each kill a man: he watches Amphiclus rush at him and is the first to strike, at the top of the leg, where the muscle is thickest (16.313–316).
+refs: [16.314-316]
+---
+
+Φυλεΐδης δʼ Ἄμφικλον ἐφορμηθέντα δοκεύσας / ἔφθη ὀρεξάμενος πρυμνὸν σκέλος, “And the son of Phyleus, watching Amphiclus as he rushed at him, / was first to reach out and hit him at the top of the leg” (16.313–314; see [[phyleus]] and [[amphiclus]]). The wound is placed exactly: “where a man's / muscle is thickest; and around the point of the spear / the sinews were torn apart; and darkness covered his eyes” (16.314–316; see [[darkness-covered-his-eyes]]). ἔφθη ὀρεξάμενος, “was first to reach out”, comes twice in Homer, both times in this passage: Thrasymedes strikes first in the same words a few verses later (16.322; see [[thrasymedes]]). Meges is third in the list of leaders who “each killed his man” (16.306–351; see [[androktasia]]); in the first such list, in Book 5, he killed Pedaeus, Antenor's bastard son (5.69–75; see [[pedaeus]]). In Book 15 he was saved by his father's corselet and Menelaus killed Dolops for him (15.528–543); here he and Menelaus kill one after the other (see [[menelaus]]).

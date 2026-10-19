@@ -20,4 +20,4 @@ of: [achilles, meleager, menelaus, horses]
 
 Athena comes up behind Achilles and takes hold of his fair hair: a gesture that restrains him by force and also touches him, seen by him alone ([[divine-epiphany]]). The detail of color makes the moment physical.
 
-The hair returns at the funeral of Patroclus. Achilles cuts his fair hair, which his father had vowed to the river Spercheios for his safe return, and puts it in the dead man's hands (Il. 23.141–153). The hair that Athena seized to stop him killing Agamemnon becomes the sign that he will not go home.
+The hair returns at the funeral of Patroclus. Achilles cuts his fair hair, which his father had vowed to the river [[Spercheius]] for his safe return, and puts it in the dead man's hands (Il. 23.141–153). The hair that Athena seized to stop him killing Agamemnon becomes the sign that he will not go home.

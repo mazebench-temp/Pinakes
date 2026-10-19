@@ -1,0 +1,5 @@
+---
+summary: Patroclus begs for “his own evil death and doom” (16.47) and would have escaped “the evil doom of black death” had he kept Achilles' word (16.687). Struck by Apollo and Euphorbus, he draws back into the crowd of his companions, “avoiding doom” (16.817), in the verse of a man who retreats to save himself; Hector kills him as he goes.
+---
+
+The verse of 16.817, “drew back into the crowd of his companions, avoiding doom”, is used of men who save themselves by retreating and of men who are struck as they go. Paris draws back before Menelaus (3.32), Eurypylus with Paris' arrow in his thigh (11.585), Helenus with a spear through his hand (13.596). But Adamas and Harpalion are killed by Meriones as they go away (13.566–569, 13.648–652), and Hector, drawing back when his spear has failed against Ajax, is struck down by Ajax's stone (14.408–418; see [[retreat]]). Patroclus is the last of them: Hector sees him “giving ground, struck by the sharp bronze”, comes close through the ranks and stabs him (16.818–821; see [[the-death-of-patroclus]]).

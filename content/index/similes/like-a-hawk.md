@@ -3,7 +3,7 @@ title: Like a hawk
 greek: βῆ δὲ κατʼ Ἰδαίων ὀρέων ἴρηκι ἐοικὼς
 kind: simile
 tags: [bird, divine-scene]
-summary: The hawk as a short comparison for speed. Sent by Zeus to revive Hector, Apollo goes down from the mountains of Ida “like a hawk, a swift dove-killer, which is the swiftest of winged birds” (15.236–238).
+summary: The hawk as a short comparison for speed. Apollo goes down from the mountains of Ida “like a hawk, a swift dove-killer, which is the swiftest of winged birds” (15.236–238), and Patroclus darts through the champions like a swift hawk that puts jackdaws and starlings to flight (16.582–583).
 aliases: [like a swift hawk, Apollo like a hawk, Apollo goes down from Ida]
 grc: ["ἴρηκι ἐοικὼς", "ὠκέϊ φασσοφόνῳ"]
 en: [like a hawk, a swift dove-killer]

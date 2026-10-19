@@ -17,4 +17,5 @@ The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero aft
 - Pandarus and Bitias at the gate of the camp: [[virgil-pandarus-and-bitias]];
 - the duel for Lavinia and the broken truce: [[virgil-duel-for-lavinia]];
 - Neptune's drives over the sea, after Poseidon's journey to the ships: [[virgil-neptunes-chariot]];
-- Juno's promise of a nymph to Aeolus for a storm, after Hera's promise of a Grace to Sleep: [[virgil-juno-and-aeolus]].
+- Juno's promise of a nymph to Aeolus for a storm, after Hera's promise of a Grace to Sleep: [[virgil-juno-and-aeolus]];
+- Jupiter, who could not save his son Sarpedon, consoling Hercules for Pallas: [[jupiter-and-sarpedon]].

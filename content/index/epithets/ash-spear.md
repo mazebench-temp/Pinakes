@@ -12,7 +12,7 @@ of: [spear]
 
 ## Meaning
 
-μείλινος is the adjective of μελίη (“ash tree,” and a spear made of ash): “of ash wood.” Spear shafts were made of ash, and μελίη alone can mean the spear, like Achilles' Pelian ash, which Chiron cut on Mount Pelion and gave to Peleus (Il. 16.143–144, 19.390–391). Homer uses the adjective thirteen times, always of spears: μείλινον ἔγχος at the end of the verse, and δόρυ μείλινον. Priam's epithet [[with-good-ash-spear]] (ἐϋμμελίης) is built on the same μελίη. See [[spear]].
+μείλινος is the adjective of μελίη (“ash tree,” and a spear made of ash): “of ash wood.” Spear shafts were made of ash, and μελίη alone can mean the spear, like Achilles' Pelian ash, which Chiron cut on Mount Pelion and gave to Peleus (Il. 16.143–144, 19.390–391; see [[the-pelian-ash]]). Homer uses the adjective thirteen times, always of spears: μείλινον ἔγχος at the end of the verse, and δόρυ μείλινον. Priam's epithet [[with-good-ash-spear]] (ἐϋμμελίης) is built on the same μελίη. See [[spear]].
 
 ## Use
 

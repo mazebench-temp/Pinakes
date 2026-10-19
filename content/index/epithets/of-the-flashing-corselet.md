@@ -3,11 +3,11 @@ title: Of the flashing corselet
 greek: αἰολοθώρηξ
 kind: epithet
 tags: [heroic-epithet, weapon]
-summary: “With a shimmering corselet,” a rare epithet of warriors: [[antiphus-son-of-priam|Antiphus]], son of Priam, and the Myrmidon Menesthius.
+summary: “With a shimmering corselet,” a rare epithet of warriors: [[antiphus-son-of-priam|Antiphus]], son of Priam, and the Myrmidon [[menesthius-son-of-spercheius|Menesthius]].
 aliases: [aiolothorex, with gleaming corselet]
 grc: [αἰολοθώρηξ]
 en: [of the flashing corselet]
-of: [antiphus-son-of-priam]
+of: [antiphus-son-of-priam, menesthius-son-of-spercheius]
 ---
 
 ## Meaning

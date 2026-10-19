@@ -18,7 +18,7 @@ Each of Book 8's counterfactuals turns the day.
 
 The ending prevented is the fall of Troy, and Zeus prevents it with his thunderbolt (8.133–136; see [[thunderbolt]] and [[lambs]]). The opening, ἔνθά κε λοιγὸς ἔην, “Then there would have been ruin”, returns when Odysseus and Diomedes make a stand against Hector in Book 11 (11.310).
 
-**The ships.** Hector has the Achaeans penned between the ditch and the wall, “And now he would have burned the balanced ships with blazing fire, had not queen Hera put it in Agamemnon's mind to bestir himself and quickly urge on the Achaeans” (8.217–219; see [[hera]] and [[agamemnon]]). The burning of the ships is put off until Book 16, when the Muses are asked to tell “how fire first fell on the ships of the Achaeans” (16.112–124; see [[ships]]).
+**The ships.** Hector has the Achaeans penned between the ditch and the wall, “And now he would have burned the balanced ships with blazing fire, had not queen Hera put it in Agamemnon's mind to bestir himself and quickly urge on the Achaeans” (8.217–219; see [[hera]] and [[agamemnon]]). The burning of the ships is put off until Book 16, when the Muses are asked to tell “how fire first fell upon the ships of the Achaeans” (16.112–124; see [[ships]]).
 
 A man saves an Achaean, Zeus saves the Trojans, and Hera saves the ships. Between them the three keep the battle in the balance Zeus intends: the Achaeans are beaten but not destroyed, and the Trojans are not driven back into their city (see [[plan-of-zeus]]).
 

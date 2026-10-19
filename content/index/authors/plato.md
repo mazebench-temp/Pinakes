@@ -12,4 +12,6 @@ Plato's Socrates calls Homer "the first teacher and leader" of the tragedians (*
 - the prose retelling of Chryses' plea, to define narration: [[plato-chryses-diegesis]];
 - the gods' unquenchable laughter: [[plato-homeric-laughter]];
 - Hephaestus hurled by his father: [[plato-hephaestus-hurled]];
-- Achilles' insults to Agamemnon: [[plato-achilles-insults]].
+- Achilles' insults to Agamemnon: [[plato-achilles-insults]];
+- the terrors of Hades, among them the soul of Patroclus leaving manhood and youth: [[plato-the-terrors-of-hades]];
+- the laments of gods and heroes, among them Zeus' grief for Sarpedon: [[plato-laments-of-gods-and-heroes]].

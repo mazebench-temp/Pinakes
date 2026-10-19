@@ -1,0 +1,8 @@
+---
+summary: The blind folly that Achilles wished on Agamemnon passes to Patroclus. Patroclus tells the Myrmidons to fight so that Agamemnon may learn “his own blind folly” (16.274), in Achilles' words of Book 1; then he himself pursues the Trojans and “was greatly blinded, the fool” (16.685); and when Apollo strikes him, “blind folly seized his mind” (16.805).
+grc: [ἀάσθη]
+---
+
+**Agamemnon's.** Patroclus' rally of the Myrmidons ends in two verses that Achilles spoke to Thetis when he asked for the Achaeans to be penned among the sterns: “so that the son of Atreus, wide-ruling Agamemnon, may learn / his own blind folly, in that he paid no honor to the best of the Achaeans” (16.273–274 = 1.411–412; see [[time]] and [[best-of-the-achaeans]]). Achilles' wish has come true at the ships, and his companion repeats it as the reason to fight.
+
+**Patroclus' own.** The word then turns to the speaker. Patroclus pursues the Trojans and Lycians, forgetting Achilles' word, “and was greatly blinded, / the fool” (μέγʼ ἀάσθη / νήπιος, 16.685–686; see [[nepios]]); Agamemnon will use the same verb of Zeus himself, deceived by Ate over the birth of Heracles (πολλὸν ἀάσθη, 19.113). The narrator names the cause in the next verses: the mind of Zeus, which put the spirit in his breast (16.688–691; see [[the-mind-of-zeus]]). At the end ἄτη is the stunned helplessness of a man struck by a god: “And blind folly seized his mind, and his shining limbs were loosened beneath him, / and he stood amazed” (τὸν δʼ ἄτη φρένας εἷλε, 16.805–806; see [[phrenes]] and [[loosened-his-limbs]]). The folly that ruins Agamemnon's judgment in Book 1 here takes away a man's power to defend himself.

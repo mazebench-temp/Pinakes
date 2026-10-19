@@ -3,7 +3,7 @@ title: Two lions
 greek: οἵω τώ γε λέοντε δύω ὄρεος κορυφῇσιν
 kind: simile
 tags: [wild-animal, livestock, warfare, kinship]
-summary: Two lions together, the picture of a pair of fighters. The twin sons of Diocles fall to Aeneas like two lions reared on the mountain peaks, which raid men's farmsteads until they themselves are killed (5.554–560), and Diomedes and Odysseus set out on the night raid “like two lions through the black night” (10.297).
+summary: Two lions, the picture of a pair of fighters. The twin sons of Diocles fall to Aeneas like two lions reared on the mountain peaks, which raid men's farmsteads until they themselves are killed (5.554–560); Diomedes and Odysseus set out on the night raid “like two lions through the black night” (10.297); and Hector and Patroclus fight over the body of Cebriones like two hungry lions over a slain deer on the mountain peaks (16.755–761).
 aliases: [like two lions, the two young lions, the twin lions]
 grc: [λέοντε δύω ὄρεος, ἐτραφέτην ὑπὸ μητρὶ, ἁρπάζοντε βόας, κεραΐζετον, τοίω τὼ]
 en: [on the mountain peaks, in the thickets of the deep forest, ravage the farmsteads of men, such were these two]
@@ -31,3 +31,7 @@ The pair of lions is answered by another pair. Menelaus pities them as they fall
 Pairs of lions recur. Diomedes and Odysseus set out on the night raid “like two lions through the black night” (10.297). The two Ajaxes carry off the body of Imbrius like two lions carrying a goat they have snatched from the dogs (13.198–202). Hector and Patroclus fight over the body of Cebriones like two lions, both hungry, over a slain deer “on the mountain peaks” (ὄρεος κορυφῇσι, 16.756–758). On the shield of Achilles two lions seize a bull at the head of the herd (18.579–586).
 
 The raider's death is told again of Patroclus, who leaps on Cebriones “with the rush of a lion that, ravaging the farmsteads (σταθμοὺς κεραΐζων), is struck in the chest, and its own courage destroys it” (16.752–753). The lion's young appear in two similes of the fight for Patroclus: Ajax stands over the body like a lion over its cubs (17.133–136), and Achilles groans over it like a bearded lion whose cubs a hunter has stolen (18.318–322). See [[lion]].
+
+## Outside Homer
+
+In the Hesiodic *Shield of Heracles*, Heracles and Cycnus clash as two lions, angry with each other, rush together over a slain deer, with a terrible roar and a gnashing of teeth; the half-verse ἀμφὶ κταμένης ἐλάφοιο, “over a slain deer”, is nearly that of Hector and Patroclus over Cebriones (περὶ κταμένης ἐλάφοιο, 16.757), and a simile of two vultures follows (*Shield* 402–412; see [[like-vultures]]).

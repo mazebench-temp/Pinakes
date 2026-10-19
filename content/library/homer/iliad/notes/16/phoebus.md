@@ -1,0 +1,5 @@
+---
+summary: Phoebus Apollo hears Glaucus' prayer, is sent by Zeus to care for Sarpedon's body, stands on the tower to drive Patroclus from the wall, rouses Hector, and meets Patroclus “in the fierce battle” and strikes off his helmet.
+---
+
+The name follows Apollo through his part in the book. He hears the wounded Glaucus: “So he spoke in prayer, and Phoebus Apollo heard him” (16.527; [[glaucus]], [[counselor]]). Zeus sends him with the vocative of affection, “Come now, dear Phoebus” (16.667; [[cloud-gatherer]]), to cleanse Sarpedon's body. At the wall, the sons of the Achaeans would have taken Troy “had not Phoebus Apollo stood on the well-built tower” (16.700; [[would-have-had-not]], [[well-built]]), and at the Scaean gates “Phoebus Apollo stood beside him,” in the likeness of Asius, to send Hector against Patroclus (16.715; [[hector]], [[asius-son-of-dymas]]). At the last, “for Phoebus met you in the fierce battle, / terrible” (16.788–789; [[apostrophe]]), “And Phoebus Apollo struck the helmet from his head” (16.793; [[with-a-socket-for-the-plume]]). At 16.700 the order of the names is reversed, Ἀπόλλων Φοῖβος. See [[apollo]] and [[the-death-of-patroclus]].

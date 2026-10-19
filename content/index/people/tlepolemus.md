@@ -5,7 +5,10 @@ kind: person
 tags: [achaean, warrior, king, dodecanese]
 summary: A son of [[Heracles]] who led nine ships from [[Rhodes]]. He had killed his father's uncle [[Licymnius]] and fled overseas to found a new home; in Book 5 he falls to [[Sarpedon]].
 aliases: [Tlapolemus]
+# Τληπόλεμόν τε Δαμαστορίδην (16.416) is a Trojan, son of Damastor, whom Patroclus kills
+# (tlepolemus-son-of-damastor, which claims the phrase): excepted.
 grc: [Τληπόλεμ*, Ἡρακλεΐδης]
+except: [16.416]
 refs: [2.654, 2.658, 2.662, 2.664, 2.665, 2.667]
 relations:
   - father: heracles (2.653, 2.658)
@@ -33,6 +36,8 @@ Son of [[Heracles]] by [[Astyocheia]], whom Heracles carried off from [[Ephyra]]
 The Catalogue gives him a whole history: the killing of Licymnius, the flight, and the settling of Rhodes (2.661–670; see [[the-flight-of-tlepolemus]]).
 
 He appears once more. In Book 5 "mighty fate" drives him against [[Sarpedon]], and the narrator marks the meeting of "the son and the grandson of Zeus the cloud-gatherer" (5.628–631). Tlepolemus taunts Sarpedon that he is no true son of Zeus beside Heracles, who once sacked Troy with only six ships (5.633–646). They throw at the same moment. Sarpedon's spear goes through his neck and kills him; his own spear pierces Sarpedon's thigh (5.655–662).
+
+He is not the Trojan Tlepolemus, son of Damastor, whom Patroclus kills in Book 16 (16.416; see [[tlepolemus-son-of-damastor]]).
 
 ## Outside Homer
 

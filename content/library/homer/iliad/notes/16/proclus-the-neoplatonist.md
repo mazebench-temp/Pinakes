@@ -1,0 +1,7 @@
+---
+summary: Proclus answers Plato's censures of two passages of Book 16. The soul of Patroclus, “leaving manhood and youth”, is the soul of a man of action, loath to leave the body that served it, and Zeus' lament for Sarpedon is the poets' sign of the gods' care for perishing things. In the commentary on the Timaeus the dying horse Pedasus, “gasping out its life”, is his witness for an old form of the word for sensation.
+---
+
+- The soul of Patroclus and the terrors of Hades (*On the Republic* I 118–122 Kroll, on 16.856–857): [[plato-the-terrors-of-hades]].
+- The laments of heroes and gods, and Zeus' “ah me” for Sarpedon (*On the Republic* I 122–126 Kroll, on 16.433–434): [[plato-laments-of-gods-and-heroes]].
+- **Pedasus' last breath.** In the *Timaeus* the motions that strike the soul through the body are said to have been called, then and ever since, sensations, αἰσθήσεις (*Timaeus* 43c). Commenting on the name, Proclus finds the usage of the ancients on its side: αἴσθησις is, in four syllables, a kind of ἀΐσθησις, and he quotes Homer, ὃ δʼ ἔβραχε θυμὸν ἀΐσθων (*On the Timaeus* III 331 Diehl). The verse is the death of Pedasus, Achilles' trace horse, whom Sarpedon's spear strikes in the right shoulder: “and it screamed, gasping out its life” (16.468; see [[pedasus-the-horse]] and [[sarpedon]]). The verb ἀΐσθω, “breathe out”, is used in the Iliad only of the dying, here and at 20.403.

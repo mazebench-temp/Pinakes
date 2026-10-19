@@ -17,7 +17,7 @@ passages:
 
 θέμις comes from the root of τίθημι, “set, lay down”. It is what has been laid down: the established order, what is right and customary among gods and men. It is θέμις for a man to speak his mind against a king in the assembly (9.33), and it is not θέμις to slight a stranger (*Odyssey* 14.56–57). In the plural, θέμιστες are the particular ordinances or judgments in which that order is applied. They come from Zeus and are held by kings. Nestor tells Agamemnon that Zeus has put into his hands “the scepter and the θέμιστες, so that you may take counsel for your people” (9.98–99).
 
-A king who judges crookedly offends Zeus. In a simile of Book 16, Zeus pours down torrents of rain in anger at men who “by force give crooked θέμιστες in the assembly and drive out justice (δίκη), not heeding the regard of the gods” (16.386–388). On the shield of Achilles, elders sit in a sacred circle and judge a case, holding heralds' scepters in their hands (18.497–508).
+A king who judges crookedly offends Zeus. In a simile of Book 16, Zeus pours down torrents of rain in anger at men “who by force in the assembly judge crooked ordinances / and drive out justice, caring nothing for the regard of the gods” (σκολιὰς κρίνωσι θέμιστας, with δίκη for “justice”, 16.386–388). On the shield of Achilles, elders sit in a sacred circle and judge a case, holding heralds' scepters in their hands (18.497–508).
 
 The δικασπόλοι of 1.238 are the men who give such judgments. The word is formed from δίκαι, “judgments”, and πολέω, “go about, busy oneself with”. The verb δικάζω means “judge, decide”.
 

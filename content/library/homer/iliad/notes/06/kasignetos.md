@@ -10,7 +10,7 @@ passages:
 
 **Brothers who advise.** Two pairs of brothers open the book, and in each one brother turns the other. Agamemnon runs up as Menelaus is about to spare Adrastus, and “the hero turned his brother's mind” (ἀδελφειοῦ φρένας, 6.61): the elder decides for the younger, as he will again in Book 7, in the same words, when he keeps Menelaus from facing Hector (7.120–121). Then Helenus, Priam's son and the best of the bird-seers, tells Hector what to do, and “Hector did not disobey his brother” (6.102). Helenus sends him to “your mother and mine” (6.87): they are full brothers, sons of Hecuba. See [[helenus]] and [[agamemnon]].
 
-**Brothers asked after.** At the Scaean gates the Trojan women ask Hector after “their sons and brothers (κασιγνήτους) and kinsmen (ἔτας) and husbands” (6.239). ἔται are the men of one's own family and people in a wider sense; κασίγνητοί τε ἔται τε, “brothers and kinsmen”, are the ones who bury a dead man (16.456 = 16.674). Hecuba uses the word of all the city's men when she tells Hector that he is weary “from defending your kinsmen” (ἔτῃσι, 6.262).
+**Brothers asked after.** At the Scaean gates the Trojan women ask Hector after “their sons and brothers (κασιγνήτους) and kinsmen (ἔτας) and husbands” (6.239). ἔται are the men of one's own family and people in a wider sense; κασίγνητοί τε ἔται τε, “his brothers and his kinsmen”, are the ones who bury a dead man (16.456 = 16.674). Hecuba uses the word of all the city's men when she tells Hector that he is weary “from defending your kinsmen” (ἔτῃσι, 6.262).
 
 **Seven brothers.** Andromache had seven brothers, and they died together:
 

@@ -3,7 +3,7 @@ title: Wasps at the roadside
 greek: ὥς τε σφῆκες μέσον αἰόλοι ἠὲ μέλισσαι
 kind: simile
 tags: [wild-animal, warfare, speech]
-summary: In his complaint to Zeus, Asius says that the two Lapiths will not give way from the gate, like wasps with nimble waists, or bees, that have made their homes beside a rocky road and do not leave their hollow house, but stand their ground and fight off the hunting men for the sake of their young (12.164–172). Wasps by the road return for the Myrmidons in Book 16 (16.259–267).
+summary: Wasps that make their homes beside a road and fight for their young. Asius likens the two Lapiths holding the gate to wasps or bees that will not leave their hollow house (12.164–172), and the Myrmidons pour out to battle like wasps by the wayside that boys have teased, which fly out at any passerby who stirs them (16.259–267).
 aliases: [like wasps or bees, Asius' wasps, the wasps and the bees, the Lapiths like wasps]
 grc: ["σφῆκες μέσον αἰόλοι", "ὁδῷ ἔπι παιπαλοέσσῃ", "κοῖλον δόμον", "ἀμύνονται περὶ τέκνων"]
 en: [made their homes, stand their ground, for the sake of their young]
@@ -24,6 +24,6 @@ Asius drove his chariot for the open gate, and the Lapiths met him like oaks roo
 
 ## Elsewhere in Homer
 
-Wasps return when the Myrmidons pour out to battle behind Patroclus, σφήκεσσιν ἐοικότες … εἰνοδίοις, like wasps by the road that boys keep teasing where they live beside the way, making them a common bane to many; if a traveler disturbs them unawares, they fly out with valiant hearts, every one, and fight for their young (16.259–267). The two similes share the road, the nest and the defense of the young. In Book 16 the swarm comes out and attacks; in Book 12 it stays at home and holds.
+Wasps return when the Myrmidons pour out to battle behind Patroclus, “like wasps by the wayside” (16.259–267). The two similes share the road, the nest and the defense of the young. In Book 16 the swarm comes out and attacks; in Book 12 it stays at home and holds.
 
 Bees are the image of number in Book 2, where the army streams to the assembly like swarms of bees pouring out of a hollow rock (2.87–93; see [[swarming-bees]]).

@@ -19,7 +19,7 @@ passages:
 
 {{quote:15fc586a-8ecb-5201-971c-4659a010ad88}}
 
-Glaucus leaps back unseen, to spare the Achaeans a boast over him (εὐχετόῳτο, 12.391; see [[glaucus]], [[arrows]] and [[euchomai]]), and Sarpedon grieves to see him go (12.392). The wound outlasts the day. When Sarpedon falls, Glaucus prays to Apollo, pressing his arm, and the narrator recalls the shot in the words of this scene: the wound “which Teucer had dealt him with an arrow as he rushed at the high wall, warding off disaster from his companions” (16.510–512), as Menestheus had hoped someone would (ἀρὴν ἑτάροισιν ἀμύναι, 12.334). Apollo heals it (16.527–531).
+Glaucus leaps back unseen, to spare the Achaeans a boast over him (εὐχετόῳτο, 12.391; see [[glaucus]], [[arrows]] and [[euchomai]]), and Sarpedon grieves to see him go (12.392). The wound outlasts the day. When Sarpedon falls, Glaucus prays to Apollo, pressing his arm, and the narrator recalls the shot in the words of this scene: “the wound where Teucer had hit him with an arrow as he rushed on / at the high wall, warding off disaster from his companions” (16.510–512), as Menestheus had hoped someone would (ἀρὴν ἑτάροισιν ἀμύναι, 12.334). Apollo heals it (16.527–531).
 
 **Sarpedon.** Then Teucer shoots at Sarpedon himself:
 

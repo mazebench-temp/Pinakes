@@ -1,0 +1,7 @@
+---
+summary: The gods decide every turn of Book 16. Zeus cuts short Ajax's fighting so that fire falls on the ship (16.119–123), puts a craven heart in Hector (16.656), and stretches the strife over Sarpedon's body (16.662); Apollo heals Glaucus, carries away Sarpedon's body, stops Patroclus at the wall, rouses Hector in disguise and at last strikes Patroclus himself (16.527–529, 16.678–683, 16.700–711, 16.715–730, 16.788–804).
+---
+
+**Zeus' mind.** The narrator states the rule when Patroclus pursues the Trojans: “But the mind of Zeus is always stronger than that of men; / he puts even a valiant man to flight and takes away victory / easily, and at another time he himself urges him on to fight; / and he it was who then too let loose the spirit in his breast” (16.688–691; see [[the-mind-of-zeus]]). The same god who grants Achilles half his prayer has decided Patroclus' death, and puts into him the courage that leads to it (16.249–252, 16.644–655; see [[decision-scene]] and [[plan-of-zeus]]).
+
+**Apollo's blow.** The last intervention is the most direct in the poem. Apollo comes to meet Patroclus wrapped in mist, stands behind him and strikes his back with the flat of his hand, so that his eyes whirl; the helmet falls, the spear breaks, the shield drops, the corselet is loosened, “And blind folly seized his mind” (16.788–805; see [[arming-scene]] and [[ate]]). The man is left for Euphorbus and Hector, and the dying Patroclus names the god as the one who killed him (16.849; see [[seeing-the-gods]]).

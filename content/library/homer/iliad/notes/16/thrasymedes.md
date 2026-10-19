@@ -1,0 +1,6 @@
+---
+summary: “Godlike Thrasymedes” saves his brother Antilochus: when Maris springs at Antilochus over the body of Atymnius, Thrasymedes strikes first, tears the upper arm from the shoulder, and kills him (16.321–325).
+refs: [16.317, 16.322-326]
+---
+
+τοῦ δʼ ἀντίθεος Θρασυμήδης / ἔφθη ὀρεξάμενος πρὶν οὐτάσαι, οὐδʼ ἀφάμαρτεν, “but godlike Thrasymedes / was first to reach out, before he could stab, and did not miss” (16.321–322; see [[antitheos]] and [[maris]]). The wound is one of the book's most exact: “in the shoulder at once; and the point of the spear tore away the upper arm / from the muscles, and broke the bone clean through. / He fell with a thud, and darkness covered his eyes” (16.323–325; see [[fell-with-a-thud]] and [[darkness-covered-his-eyes]]). Maris was attacking Antilochus to avenge his brother Atymnius, whom Antilochus had just killed (16.317–321; see [[antilochus]] and [[atymnius-son-of-amisodarus]]), and the narrator closes the exchange with the symmetry of it: two sons of Amisodarus, Sarpedon's companions, “brought down by two brothers” (16.326–328; see [[amisodarus]]). The two are “the sons of Nestor” together (Νεστορίδαι, 16.317; see [[nestor]]). ἔφθη ὀρεξάμενος, “was first to reach out”, has just been said of Meges, who struck Amphiclus first (16.314; see [[meges]]). It is Thrasymedes' only kill in the Iliad.

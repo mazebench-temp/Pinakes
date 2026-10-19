@@ -3,7 +3,7 @@ title: Masters of the war cry
 greek: μήστωρες ἀϋτῆς
 kind: epithet
 tags: [heroic-epithet, warfare, athenian]
-summary: “Devisers of the battle cry,” an epithet of warriors: the [[Athenians]], and later Meriones and Antilochus.
+summary: “Devisers of the battle cry,” an epithet of warriors: the [[Athenians]], Meriones and Antilochus, and Patroclus and Hector as they fight over Cebriones.
 aliases: [mestores autes, masters of the battle cry]
 grc: [μήστωρες ἀϋτῆς]
 en: [masters of the war cry]

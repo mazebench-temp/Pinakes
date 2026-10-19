@@ -1,0 +1,5 @@
+---
+summary: Patroclus never sees the god who kills him: “he did not see him coming through the turmoil, / for he came to meet him wrapped in thick mist” (16.789–790). Hector does not know Apollo in the likeness of Asius (16.715–725), while Ajax knows “the work of the gods” in his broken spear (16.119–121) and Glaucus knows that a god has heard him (16.530–531).
+---
+
+The book's men know the gods by their work more than by sight. Ajax shudders when he sees the point of his spear fall, knowing that Zeus is cutting short his plans (16.119–121); Hector knows “the sacred scales of Zeus” and turns to flight (16.658; see [[the-scales-of-zeus]]); Glaucus feels the pain stop and the blood dry and knows that Apollo has heard him (16.528–531; see [[healing]]). At the wall Patroclus hears Apollo's voice and obeys it (16.706–711). On the plain the god is unseen, and Patroclus learns who struck him only from what has been done to him: “deadly fate and the son of Leto have killed me” (16.849; see [[divine-epiphany]]).

@@ -1,0 +1,7 @@
+---
+summary: The narrator calls Patroclus νήπιος twice, “great fool that he was” when he asks for the armor (16.46) and “the fool” when he forgets Achilles' word (16.686), and Hector calls him so over his body, “you fool!” (16.833). The word's first sense frames the book: the weeping girl who runs beside her mother (16.8) and the boys who stir up the wasps (16.262).
+---
+
+**The children.** Achilles compares the weeping Patroclus to a little girl, νηπίη, who runs beside her mother and clutches her robe until she is picked up (16.7–11; see [[like-a-girl]] and [[childhood]]). The wasps by the wayside are provoked by boys, “the foolish little ones” (νηπίαχοι), who make “a common evil for many” (16.260–262; see [[wasps-at-the-roadside]]).
+
+**The fool.** The narrator's νήπιος marks a man who does not know what his act will bring. When Patroclus begs for the armor, “So he spoke, begging, great fool that he was; for truly he was / begging for his own evil death and doom” (16.46–47; see [[ker-doom]]). When he pursues the Trojans, “and was greatly blinded, / the fool; if he had kept the word of the son of Peleus, / he would have escaped the evil doom of black death” (16.685–687; see [[ate]] and [[would-have-had-not]]). Hector uses the word over the dying man in mockery: he had hoped to carry off the Trojan women, “you fool!” (16.833), and Achilles' orders “persuaded your mind, fool that you were” (ἄφρονι, 16.842). Hector does not know that the word fits him as well: Patroclus answers with the prophecy of his death (16.851–854).

@@ -1,5 +1,5 @@
 ---
-title: Chest
+title: Chest (stethos)
 greek: στῆθος
 kind: term
 tags: [body, mind]

@@ -4,7 +4,7 @@ grc: ["δάκρυʼ ἀναπρήσας"]
 en: [bursting into tears]
 ---
 
-**Agamemnon.** “And Agamemnon stood up, shedding tears like a spring of dark water that pours its murky water down a sheer rock; so, groaning heavily, he spoke his words among the Argives” (9.13–16; see [[groaning-heavily]] and [[agamemnon]]). The same simile brings Patroclus to Achilles at the start of Book 16, “shedding warm tears like a spring of dark water” (16.3–4), with the plea that will send him into battle. The king who weeps before the army asks it to flee; the friend who weeps before Achilles asks to fight.
+**Agamemnon.** “And Agamemnon stood up, shedding tears like a spring of dark water that pours its murky water down a sheer rock; so, groaning heavily, he spoke his words among the Argives” (9.13–16; see [[groaning-heavily]] and [[agamemnon]]). The same simile brings Patroclus to Achilles at the start of Book 16, “shedding hot tears like a spring of dark water” (16.3–4), with the plea that will send him into battle. The king who weeps before the army asks it to flee; the friend who weeps before Achilles asks to fight.
 
 **Phoenix.** After Achilles' refusal the envoys are silent, until Phoenix speaks, “bursting into tears, for he feared greatly for the ships of the Achaeans” (δάκρυʼ ἀναπρήσας, 9.432–433; see [[phoenix]] and [[silence]]). The phrase occurs once more in Homer, when Telemachus, after his speech to the Ithacan assembly, dashes the scepter to the ground, bursting into tears (Od. 2.80–81).
 

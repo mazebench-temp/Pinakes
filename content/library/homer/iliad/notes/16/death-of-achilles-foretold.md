@@ -1,0 +1,16 @@
+---
+summary: Dying, Patroclus foretells that Achilles will kill Hector, and Hector answers the dead man with a question: “Who knows if Achilles, son of Thetis of the lovely hair, / may not first be struck by my spear and lose his life?” (16.859–861). Achilles' death is put in doubt by the man who will die first; in Book 22 Hector, dying, foretells it himself.
+refs: [16.860-861]
+passages:
+  - 16.858-861 | Hector answers the dead Patroclus
+---
+
+{{quote:34fe4ed6-e1c9-5e43-8fdf-290171ebf478}}
+
+**Hector's question.** Patroclus' last words were a prophecy: Hector would not live long, for “death and mighty fate stand close beside you, / to be brought down at the hands of Achilles” (16.852–854; see [[the-death-of-patroclus]] and [[prophecy]]). Hector speaks to the dead man, and turns the prophecy into a question. He does not deny it; he sets another outcome beside it, that Achilles may be killed first, by his spear. τυπεὶς ἀπὸ θυμὸν ὀλέσσαι, “be struck … and lose his life” (16.861), is said of the man whom the poem has told from its first book will die young (1.352, 1.416–418; see [[the-short-life-of-achilles]]). Hector names him as Θέτιδος πάϊς ἠϋκόμοιο, “son of Thetis of the lovely hair” (16.860; see [[thetis]]), the goddess who knows her son's fate. He holds to the hope two books later, when Polydamas urges retreat: if Achilles has truly risen beside the ships, Hector will stand against him, “to see whether he wins great power, or I”, for Enyalius is common to all and kills the killer (18.305–309; see [[common-to-all]]).
+
+**The answer in Book 22.** The scene returns with the parts exchanged. Hector, dying under Achilles' spear, foretells Achilles' death, “on the day when Paris and Phoebus Apollo / destroy you, brave as you are, at the Scaean gates” (22.358–360); the end of death covers him in the three verses that ended Patroclus (22.361–363 = 16.855–857), and Achilles speaks to the dead man, as Hector spoke to Patroclus (22.364 ≈ 16.858). But where Hector answered with a doubt, Achilles answers with acceptance: “Die; and I will accept my own doom whenever Zeus wishes to fulfill it, and the other immortal gods” (22.365–366). Thetis has told him that his death will come at once after Hector's (18.95–96), and he has told Lycaon that for him too there are “death and mighty fate” (21.110), the words with which Patroclus foretold Hector's end (16.853).
+
+**Within the book.** Book 16 keeps Achilles' death in view in two other places. Achilles wishes that every Trojan and every Argive might die, so that he and Patroclus alone might take Troy (16.97–100), and Apollo tells Patroclus at the wall that the city is fated to fall neither to his spear “nor by Achilles, who is far better than you” (16.707–709; see [[sack-of-troy-foretold]]): the man who wishes to sack Troy will die before it falls (see [[the-two-fates-of-achilles]]).
+
+**The dying man's sight.** Walter Leaf reports a scholium on 16.854 that explains the prophecy of the dying from the belief that the soul, gathering itself to leave the body, becomes most prophetic, and that quotes Socrates in Plato's *Apology*: “for I am already at the point where men most of all prophesy, when they are about to die” (*Commentary on the Iliad*, 1900, on 16.854; Plato, *Apology* 39c; see [[plato]]).

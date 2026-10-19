@@ -1,0 +1,7 @@
+---
+summary: Achilles' first thought for Patroclus' tears is the fathers at home, Menoetius and Peleus (16.13–16), and Patroclus answers that Peleus was not his father at all, nor Thetis his mother, but the sea and the rocks (16.33–35). Zeus, the father of gods and men, cannot save his son Sarpedon, and Glaucus reproaches him with it: “he does not defend even his own son” (16.522).
+---
+
+**At home.** “Yet they say that Menoetius, son of Actor, still lives, / and Peleus, son of Aeacus, lives among the Myrmidons; / we would grieve greatly for both of them, if they were dead” (16.14–16; see [[menoetius]] and [[peleus]]). Peleus' gifts go to war with his son, and with his son's companion: the Pelian ash that Chiron gave him (16.143–144; see [[the-pelian-ash]]), and the immortal horses, “the splendid gifts that the gods gave to Peleus” (16.381, 16.867). In the catalogue of the Myrmidons a grandfather does a father's part: “the old man Phylas reared the boy well and cherished him, / loving him as if he were his own son” (16.191–192; see [[geron]]).
+
+**Zeus.** The book's great father is Zeus, who calls Sarpedon “dearest of men to me” (16.433) and yields to Hera's warning that every god would then save his son (16.446–449). He honors him with a rain of blood, “honoring his dear son” (16.459–460), and draws out the fight over the body “so that there might be deadly toil of battle around his dear son” (16.568; see [[bereaved-parents]] and [[philos]]). The father's last care is the body's (16.666–683; see [[honoring-the-dead]]).

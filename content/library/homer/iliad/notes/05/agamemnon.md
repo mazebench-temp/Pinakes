@@ -12,7 +12,7 @@ passages:
 
 {{quote:42bdeef4-2c47-5a9c-bc79-261ec63f798d}}
 
-Six leaders kill six men in turn: Agamemnon, Idomeneus, Menelaus, Meriones, Meges and Eurypylus (5.37–83; see [[androktasia]]). The king's man is himself a leader, “great Odius, leader of the Halizones” (see [[odius]]). πρῶτος is said twice. Agamemnon is the first to kill, and Odius was the first to turn and run (πρώτῳ γὰρ στρεφθέντι, 5.40). The spear in the back “between the shoulders” is a formula for a man struck as he turns to flee (8.258–259, 11.447–448), and Menelaus kills Scamandrius the same way a few lines later (5.56–57). Book 16 opens its own round of leaders' kills with the same thought: “there, as the battle scattered, man took man among the leaders” (16.306–307).
+Six leaders kill six men in turn: Agamemnon, Idomeneus, Menelaus, Meriones, Meges and Eurypylus (5.37–83; see [[androktasia]]). The king's man is himself a leader, “great Odius, leader of the Halizones” (see [[odius]]). πρῶτος is said twice. Agamemnon is the first to kill, and Odius was the first to turn and run (πρώτῳ γὰρ στρεφθέντι, 5.40). The spear in the back “between the shoulders” is a formula for a man struck as he turns to flee (8.258–259, 11.447–448), and Menelaus kills Scamandrius the same way a few lines later (5.56–57). Book 16 opens its own round of leaders' kills with the same thought: “Then man killed man, as the battle scattered, / among the leaders” (16.306–307).
 
 **Shame.** When Hector and Ares bring the Trojans on again, the Achaeans stand fast like clouds on the mountains (5.519–527; see [[clouds-on-the-mountains]]), and Agamemnon goes through the ranks:
 

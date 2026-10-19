@@ -1,0 +1,32 @@
+---
+summary: The Myrmidons go into battle at last. Achilles arms them, the narrator gives them a catalogue of their own, fifty ships of fifty men under five leaders, Achilles reminds them how they blamed him through all his wrath, and under Patroclus they pour out of the ships like wasps and drive the Trojans from the burning ship.
+passages:
+  - 16.155-167 | Achilles arms the Myrmidons
+  - 16.168-197 | The leaders of the Myrmidons
+  - 16.198-217 | Achilles' speech and the close-set ranks
+  - 16.257-283 | The Myrmidons fall upon the Trojans
+---
+
+**Released.** Since the quarrel the Myrmidons have stayed by their ships, “for there was no one to lead them into the ranks” (2.687; see the note on Book 2). Patroclus asks for them in the words of Nestor's plan: “send me out quickly at least, and grant me the rest of the army / of the Myrmidons” (16.38–39 ≈ 11.796–797), and Achilles grants it, “lead the war-loving Myrmidons into battle” (16.65; see [[war-loving]]). He had said that he would not end his wrath until the war reached his own ships (16.61–63; see [[the-embassy-to-achilles]]), and when the fire takes Protesilaus' ship he tells Patroclus to arm, “and I will gather the army” (16.129).
+
+**The arming.** “And Achilles went among the Myrmidons and armed them, / all of them, throughout the huts” (16.155–156; see [[achilles]]). The narrator likens them to wolves that have killed a great stag in the mountains and go in a pack, their jaws red with blood, to lap the dark water of a spring, “such were the leaders and rulers of the Myrmidons” around Patroclus (16.156–165; see [[like-wolves]] and [[eating-raw-flesh]]). Achilles stands among them, “urging on the horses and the shield-bearing men” (16.166–167).
+
+**Their own catalogue.** The Catalogue of Book 2 gave the Myrmidons fifty ships and no leader but Achilles (2.681–685). Book 16 counts them again, now that they are going to fight:
+
+{{quote:40c07d64-9a64-5038-afcd-2dd8c2014f67}}
+
+Fifty ships of fifty men make two thousand five hundred men. The Boeotian ships carried a hundred and twenty men each (2.509–510), and each of Philoctetes' seven ships fifty rowers, skilled with the bow (2.718–720). Each of the five leaders commands a στιχός, a “rank” or company (16.173), the word of 2.687: in Book 2 there was no one to lead them ἐπὶ στίχας, “into the ranks”. The five are Menesthius, son of the river Spercheius and of Peleus' daughter Polydora; Eudorus, son of Hermes and of Polymele; Peisander, son of Maemalus, the best spearman of the Myrmidons after Patroclus; the old horseman Phoenix; and Alcimedon, son of Laerces (16.173–197; see [[menesthius-son-of-spercheius]], [[eudorus]], [[peisander-son-of-maemalus]], [[phoenix]] and [[alcimedon]]). Two of the five are sons of gods, and the catalogue gives their births, not their deeds (see [[the-birth-of-menesthius]] and [[the-birth-of-eudorus]]). Only Phoenix has appeared before, and only Phoenix and Alcimedon will appear again (17.466–506, 17.555, 19.311, 23.360).
+
+**Achilles' speech.** Before they go, Achilles reminds them of their own words:
+
+{{quote:438dd56a-41ae-5dd3-a4fb-3f0d46c64b6e}}
+
+The speech quotes the Myrmidons as they spoke while he nursed his wrath, the μηνιθμός, a word for it found only in this book (16.62, 16.202, 16.282; see [[menis]]). Their reproach is Patroclus' own. Patroclus has just called him νηλεές, “pitiless”, born not of Peleus and Thetis but of the gray-green sea and the rocks (16.33–35); the Myrmidons call him νηλεές too (16.204), and the vocative is said in Homer of no one else (see [[pitiless]]). Their “Hard son of Peleus, your mother reared you on anger” (16.203) makes his wrath his food. Walter Leaf reports that Aristarchus read χόλος here as χολή, “bile”: Thetis nursed him not on milk but on bile (*Commentary on the Iliad*, 1900, on 16.203). The men who stayed by the ships against their will (ἀέκοντας, 16.204) “loved” the work of battle (ἐράασθε, 16.208); now it has come. In Aeschylus' lost *Myrmidons*, named after its chorus of Achilles' men, the army's anger goes further, and the Achaeans threaten to stone him (see [[aeschylus-myrmidons]]).
+
+**The ranks.** The speech closes their ranks, “when they heard their king” (16.211). They stand as close as the stones a man fits into the wall of a high house to keep out the winds, “Shield pressed on shield, helmet on helmet, man on man” (16.212–217; see [[the-stones-of-a-wall]]). The verses are those of the Achaeans who wait for Hector beside the two Ajaxes in Book 13 (16.215–217 = 13.131–133). In front of them all Patroclus and Automedon arm, “with one heart, / to fight in front of the Myrmidons” (16.218–220; see [[automedon]]).
+
+**Into battle.** When Achilles has prayed and Patroclus has led them out, the Myrmidons pour from the ships like wasps by the wayside that boys have stirred up, each defending its young, “and an unquenchable cry went up” (16.257–267; see [[wasps-at-the-roadside]]). Patroclus calls to them as the companions of Achilles: let them win honor for the best of the Argives, and let Agamemnon learn his blind folly (16.269–274), in the words of the wish Achilles sent to Zeus by Thetis in Book 1 (16.273–274 = 1.411–412; see [[thetis-supplicates-zeus]] and [[ate]]). The Trojans, seeing Patroclus and his attendant gleaming in Achilles' armor, think that Achilles has thrown away his wrath, and each man looks for a way to flee (16.278–283). The fire is put out and the half-burned ship is left (16.293–294).
+
+**In the battle.** Later in the book the Myrmidons hold Sarpedon's snorting horses when he has fallen (16.506–507), and Glaucus warns Hector that the Myrmidons, “angry for all the Danaans who have perished”, will strip and defile Sarpedon's body (16.545–547; see [[the-death-of-sarpedon]]). Two of them die in the fight over the body: Epeigeus, “by no means the worst among the Myrmidons”, an exile whom Peleus and Thetis had sent to Troy, and Bathycles, son of Chalcon, who “stood out among the Myrmidons for prosperity and wealth” (16.570–580, 16.593–599; see [[epeigeus]], [[bathycles]] and [[exile-and-refuge]]). In Book 18 they mourn Patroclus all night, gathered around Achilles (18.354–355).
+
+**A later addition?** Walter Leaf judged the whole catalogue and Achilles' speech (16.168–211) a later addition: Phoenix, he argued, belongs only to the latest form of the story, the other leaders are never named again, and the speech has unusual language (*Commentary on the Iliad*, 1900, on 16.168).

@@ -6,8 +6,8 @@ tags: [divine-object, fate, divine-will]
 summary: The golden scales in which Zeus weighs two fates of death against each other. At midday of the second day of battle the fated day of the Achaeans sinks (8.68–74), and under the walls of Troy, Hector's (22.209–213); men speak of the turn of a battle as the scales of Zeus (16.658, 19.223–224).
 aliases: [golden scales, scales of Zeus, Zeus' scales, balance of Zeus, kerostasia, psychostasia, weighing of the fates]
 # τάλαντα are also "talents", weights of gold (9.122, 18.507, 19.247, 23.269, 24.232), and a working woman's scales
-# in a simile (12.433): claim the phrases of Zeus' scales only. ἐτίταινε τάλαντα returns at 22.209; later books
-# need Διὸς ἱρὰ τάλαντα (16.658) and κλίνῃσι τάλαντα (19.223).
+# in a simile (12.433): claim the phrases of Zeus' scales only. ἐτίταινε τάλαντα returns at 22.209; Διὸς ἱρὰ τάλαντα
+# (16.658) is claimed in the Book 16 note, and Book 19 will need κλίνῃσι τάλαντα (19.223).
 grc: ["ἐτίταινε τάλαντα"]
 en: [golden scales, scales]
 refs: [8.70-74]

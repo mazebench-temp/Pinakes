@@ -13,6 +13,6 @@ of: [eumaeus, odysseus]
 
 ## The proverbs
 
-“Like always to like” is the start of a line of the Odyssey: as Eumaeus brings the beggar who is Odysseus into the town, the goatherd Melanthius jeers, “now truly the vile leads the vile; as always, god brings like to like” (*Odyssey* 17.217–218). Plato's Socrates calls “age delights in age” an old saying (*Phaedrus* 240c). In the *Nicomachean Ethics* Aristotle cites “jackdaw to jackdaw” among the sayings of those who hold that friendship is a kind of likeness (8.1, 1155a32–35).
+“Like always to like” is the start of a line of the Odyssey: as Eumaeus brings the beggar who is Odysseus into the town, the goatherd Melanthius jeers, “now truly the vile leads the vile; as always, god brings like to like” (*Odyssey* 17.217–218). Plato's Socrates calls “age delights in age” an old saying (*Phaedrus* 240c). In the *Nicomachean Ethics* Aristotle cites “jackdaw to jackdaw” among the sayings of those who hold that friendship is a kind of likeness (8.1, 1155a32–35). Homer names the bird only as a hawk's prey (16.582–583; see [[jackdaws]]).
 
 {{notes}}
