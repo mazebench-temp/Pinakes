@@ -3,11 +3,11 @@ title: Like a boar
 greek: συῒ εἴκελος ἀλκήν
 kind: simile
 tags: [wild-animal, warfare]
-summary: Agamemnon finds the Cretans arming, and Idomeneus among the champions, “like a boar in courage” (4.253). The boar is the beast that stands at bay, and it is Idomeneus' animal again in Book 13.
-aliases: [Idomeneus like a boar, like a boar in courage, like a wild boar]
+summary: “Like a boar in courage”, συῒ εἴκελος ἀλκήν, a half-verse that gives a fighter the courage of the beast that stands and fights. Idomeneus is among the champions “like a boar in courage” when Agamemnon finds the Cretans arming (4.253), and Telamonian Ajax goes through the champions over the body of Patroclus “like a boar in courage”, a wild boar that easily scatters the dogs and young men in the mountains (17.281–285).
+aliases: [Idomeneus like a boar, like a boar in courage, like a wild boar, Ajax like a boar]
 grc: [συῒ εἴκελος ἀλκήν]
 en: [like a]
-of: [idomeneus]
+of: [idomeneus, ajax]
 ---
 
 ## The simile

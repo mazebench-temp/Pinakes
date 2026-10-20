@@ -21,7 +21,7 @@ passages:
 
 ## Family
 
-He is “the brave son of Diores” (Διώρεος ἄλκιμος υἱός, 17.429; 17.474). This Diores is not the Epeian leader of that name (2.622, 4.517; see [[diores]]), and the poem tells nothing more of him.
+He is “the valiant son of Diores” (Διώρεος ἄλκιμος υἱός, 17.429; 17.474; see [[diores-father-of-automedon]]). This Diores is not the Epeian leader of that name (2.622, 4.517; see [[diores]]), and the poem tells nothing more of him.
 
 ## In Homer
 
@@ -29,7 +29,7 @@ He is first named on the night of the embassy. Achilles carves the meat for the 
 
 In Book 16 he drives Achilles' immortal horses for Patroclus, the man Patroclus “honored most after Achilles” (16.145–147), cuts the dead trace horse Pedasus loose when Sarpedon's spear kills it, and escapes Hector when Patroclus falls (16.148–154, 16.466–476, 16.864–867; see [[sack-of-thebe]]).
 
-In Book 17 the horses stand weeping for Patroclus and will not move, until Zeus pities them and puts strength in them (17.426–458). Automedon cannot both drive and fight, and gives the reins to Alcimedon. He prays to Zeus, kills Aretus, dodges Hector's spear, and strips the body, saying that he has eased his heart a little of its grief for the dead son of Menoetius, “though I have killed a lesser man” (17.459–542). In Book 19 he and Alcimus yoke the horses, and he mounts as charioteer with Achilles armed behind him (19.392–399). Achilles sends him for the corselet he gives to Eumelus (23.563–565). When Priam comes, Automedon and Alcimus are the two companions waiting on Achilles, the men he honored most “after the dead Patroclus” (24.473–476, 24.573–576). At the meal Automedon sets out the bread in baskets while Achilles serves the meat, in the verses that gave the task to Patroclus on the night of the embassy (24.625–626 ≈ 9.216–217).
+In Book 17 the horses stand weeping for Patroclus and will not move, until Zeus pities them and puts strength in them (17.426–458). Automedon cannot both drive and fight, and gives the reins to Alcimedon. He prays to Zeus, kills Aretus, dodges Hector's spear, and strips the body, saying that he has eased his heart a little of its grief for the dead son of Menoetius, “though it is a lesser man I have killed” (17.459–542). In Book 19 he and Alcimus yoke the horses, and he mounts as charioteer with Achilles armed behind him (19.392–399). Achilles sends him for the corselet he gives to Eumelus (23.563–565). When Priam comes, Automedon and Alcimus are the two companions waiting on Achilles, the men he honored most “after the dead Patroclus” (24.473–476, 24.573–576). At the meal Automedon sets out the bread in baskets while Achilles serves the meat, in the verses that gave the task to Patroclus on the night of the embassy (24.625–626 ≈ 9.216–217).
 
 ## Outside Homer
 

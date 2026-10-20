@@ -1,7 +1,7 @@
 ---
 summary: Asius, son of Hyrtacus, leads the third company with Helenus and Deiphobus, and alone of the Trojans will not leave his horses at the ditch. He drives for the open gate on the left of the ships, is held there by the two Lapiths, and calls Zeus a lover of lies; the narrator foretells his death by Idomeneus' spear.
 # Ἀσιάδην (12.140) is his son Adamas, a mention of Asius by the patronymic rule. Ἀσιάδῃ at 17.583 is
-# Phaenops of Abydus, "son of Asius"; the poem does not say whether his father is this Asius.
+# Phaenops of Abydos, "son of Asius"; the poem does not say whether his father is this Asius.
 # Book 13 will need Ἀσίου (13.403) and Ἀσιάδης (13.771). Asius son of Dymas, Hecuba's brother (Ἀσίῳ, 16.717),
 # is another man: the English name there will need an except.
 grc: [Ἄσιον, Ἀσιάδην]

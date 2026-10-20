@@ -8,7 +8,7 @@ aliases: [pray, prayers, vow, vows, euchole]
 # Εὐχήνωρ (13.663) is a man, the son of the seer Polyidus.
 grc: [ἠρᾶθʼ, κλῦθί μευ, κρήηνον ἐέλδωρ, εὐχ*, εὐξ*, ἠρήσατο, χεῖρας ὀρεγνύς, χεῖρας ἀνασχών, ἐπικρήηνον ἐέλδωρ, "!ἐϋξοο*", "!ἐϋξου", "!ἐϋξεστ*", "!εὐχαλκ*", "!^Εὐχην*", "!^Εὐξεν*"]
 # εὖχος (12.328) and εὐχετόῳτο (12.391) are a triumph and a boast, not prayers.
-except: [1.91, 1.397, 12.328, 12.391]
+except: [1.91, 1.397, 12.328, 12.391, 17.19]
 en: [prayed, prayer, pray, vow, Hear me, fulfill for me this wish, stretching out his hands, lifting up his hands]
 passages:
   - 1.35-43 | Chryses prays for revenge

@@ -13,4 +13,4 @@ Panopeus lay in eastern Phocis near Chaeronea, on the road from Boeotia to Delph
 
 ## Outside Homer
 
-Pausanias doubted that it deserved the name of city: it had "no government offices, no gymnasium, no theater, no marketplace, no water running into a fountain" (10.4.1). He was shown there the clay from which Prometheus was said to have made the human race (10.4.4).
+Strabo identifies it with the Phanoteus of his own day, bordering on the country around Lebadea, the home of Epeius, and says that the story of Tityus is told there (*Geography* 9.3.14; see [[strabo]]). Pausanias doubted that it deserved the name of city: it had "no government offices, no gymnasium, no theater, no marketplace, no water running into a fountain" (10.4.1). He was shown there the clay from which Prometheus was said to have made the human race (10.4.4).

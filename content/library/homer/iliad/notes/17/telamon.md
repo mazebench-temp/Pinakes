@@ -1,0 +1,7 @@
+---
+summary: Telamon is named six times through his son, Ajax: Τελαμώνιος, Τελαμωνιάδης and υἱὸς Τελαμῶνος (17.115, 17.235, 17.284, 17.293, 17.628, 17.715). Three verses before “the son of Telamon” kills Hippothous, Hippothous has tied a strap, τελαμών, round Patroclus' ankle (17.290–293).
+---
+
+παπταίνων Αἴαντα μέγαν Τελαμώνιον υἱόν, “looking about for great Ajax, the son of Telamon” (17.115): Menelaus, giving ground from the body, looks for him (see [[ajax]] and [[menelaus]]). The father's name marks the son six times in the book: Τελαμώνιος (17.115, 17.628, 17.715; see [[telamonian]]), Τελαμωνιάδης (17.235), and υἱὸς Τελαμῶνος (17.284, 17.293). Once Telamon has an epithet of his own: “so the son of noble Telamon, shining Ajax” (υἱὸς Τελαμῶνος ἀγαυοῦ, 17.284; see [[noble]]). The son of Oileus is in the field too (17.256), and the patronymic tells the two Ajaxes apart where the poem needs it (see [[ajax-son-of-oileus]]).
+
+The name is the common noun τελαμών, a strap or baldric. Hippothous has dragged Patroclus by the foot, “having tied a strap around the tendons by the ankle” (δησάμενος τελαμῶνι, 17.290; see [[hippothous]]), and three verses later “The son of Telamon, rushing at him through the throng” kills him (17.293). Walter Leaf takes the strap as the baldric of a sword or shield taken off for the purpose, since τελαμών is elsewhere used only in that sense (*Commentary on the Iliad*, 1900, on 17.290).

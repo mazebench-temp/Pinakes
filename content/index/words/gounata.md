@@ -15,7 +15,7 @@ passages:
 
 γόνυ, plural γούνατα (genitive γούνων), is the knee. Clasping the knees of the person one begs is the central gesture of supplication, often with a hand under the chin. The verb γουνάζομαι, “clasp the knees”, means simply “supplicate”. John Gould's study “Hiketeia” (1973) showed how the gesture binds: the one who is held must answer.
 
-The knees are also the seat of a man's strength; a warrior killed in battle has his knees “loosened”. And the outcome of what men cannot control “lies on the knees of the gods” (17.514).
+The knees are also the seat of a man's strength; a warrior killed in battle has his knees “loosened”. And the things men cannot control “lie on the knees of the gods” (17.514; see [[on-the-knees-of-the-gods]]).
 
 {{notes}}
 

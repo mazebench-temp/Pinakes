@@ -22,4 +22,4 @@ A warrior's armor is his own: it is described when he puts it on, it is what his
 
 **On loan.** For the night raid Thrasymedes gives Diomedes a sword, a shield and a helmet, and Meriones gives Odysseus a bow, a quiver, a sword and the boar's-tusk helmet (10.255–271; see [[the-doloneia]]). Patroclus asks Achilles for his armor, so that the Trojans may take him for Achilles and draw back (16.40–43), and when they see him in it, they think that Achilles has given up his wrath (16.278–282).
 
-**From the dead.** Hector, having stripped Patroclus, steps apart from the battle and “changed his armor” (ἔντεʼ ἄμειβεν, 17.192), sending his own to Troy and putting on the immortal armor of Achilles, which the gods gave to Peleus (17.192–197).
+**From the dead.** Hector, having stripped Patroclus, steps apart from the battle and “changed his armor” (ἔντεʼ ἄμειβεν, 17.192), sending his own to Troy and putting on the immortal armor of Achilles, which the gods gave to Peleus (17.192–197; see [[the-armor-of-peleus]]).

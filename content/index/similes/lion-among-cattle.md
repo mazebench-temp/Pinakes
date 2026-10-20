@@ -3,11 +3,11 @@ title: A lion among cattle
 greek: ὡς δὲ λέων ἐν βουσὶ θορὼν ἐξ αὐχένα ἄξῃ
 kind: simile
 tags: [wild-animal, livestock, warfare]
-summary: The lion that falls on a herd of cattle and kills one beast. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165); Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180); Hector falls on the Achaeans like a lion on cattle grazing in a marsh, which leaps into the middle of the herd and devours one cow (15.630–638); and Sarpedon dies under Patroclus like a bull that a lion kills among the herd (16.487–491).
+summary: The lion that falls on a herd of cattle and kills one beast. Diomedes takes two sons of Priam from one chariot as a lion breaks the neck of a heifer or a cow (5.159–165); Agamemnon pursues the fleeing Trojans as a lion routs a herd in the night, breaks the neck of one cow and gulps down her blood and entrails, always killing the hindmost (11.170–180); Hector falls on the Achaeans like a lion on cattle grazing in a marsh, which leaps into the middle of the herd and devours one cow (15.630–638); Sarpedon dies under Patroclus like a bull that a lion kills among the herd (16.487–491); Menelaus stands over the dead Euphorbus like a mountain lion that has seized the best cow of a herd, while dogs and herdsmen shout from far off (17.61–69); and Automedon mounts his chariot bloody, like a lion that has devoured a bull (17.540–542).
 aliases: [like a lion among cattle, the lion and the heifer]
 grc: [ἐν βουσὶ θορὼν, αὐχένα ἄξῃ, πόρτιος ἠὲ βοὸς, κακῶς ἀέκοντας]
 en: [leaps among, breaks the neck, as they graze in a thicket, roughly, against their will]
-of: [diomedes, echemmon, chromius-son-of-priam]
+of: [diomedes, echemmon, chromius-son-of-priam, menelaus, automedon]
 ---
 
 ## The simile

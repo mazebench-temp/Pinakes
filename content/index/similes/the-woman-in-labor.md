@@ -24,7 +24,7 @@ Coon's spear went through Agamemnon's forearm below the elbow. “While the bloo
 
 ## Elsewhere in Homer
 
-No other simile in Homer takes its picture from a woman's labor; the nearest is the cow that stands over her first calf, “not knowing birth before”, as Menelaus stands over the body of Patroclus (17.4–5). Eileithyia appears again in the Iliad as the goddess of births: she brings Eudorus to the light (16.187), and on the day Heracles is to be born Hera holds back the Eileithyiai from Alcmene and hastens another birth (19.103–119). The verb ὠδίνω returns once, in the Odyssey, for the blinded Cyclops, “groaning and in agony with his pains” (ὠδίνων ὀδύνῃσι, *Odyssey* 9.415).
+No other simile in Homer takes its picture from a woman's labor; the nearest is the cow that stands over her first calf, which “never knew birth before”, as Menelaus stands over the body of Patroclus (17.4–5; see [[the-cow-and-her-calf]]). Eileithyia appears again in the Iliad as the goddess of births: she brings Eudorus to the light (16.187), and on the day Heracles is to be born Hera holds back the Eileithyiai from Alcmene and hastens another birth (19.103–119). The verb ὠδίνω returns once, in the Odyssey, for the blinded Cyclops, “groaning and in agony with his pains” (ὠδίνων ὀδύνῃσι, *Odyssey* 9.415).
 
 ## Outside Homer
 

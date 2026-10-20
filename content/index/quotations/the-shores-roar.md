@@ -12,6 +12,6 @@ source: Homer, Iliad 17.265
 
 ## In the Iliad
 
-As the Trojans charge in a mass over the body of Patroclus, their shout is likened to the sea at a river's mouth: “as when at the mouth of a rain-fed river the great wave roars against the current, and the shores on either side roar as the salt sea belches out” (*Iliad* 17.263–266). The verb βοάω, “shout, roar”, is the one used of warriors' battle cries.
+As the Trojans charge in a mass over the body of Patroclus, their shout is likened to the sea at a river's mouth: “a great wave roars against the stream, and all around the headlands / of the shore resound as the salt sea belches out” (17.264–265; see [[the-wave-at-the-rivers-mouth]]). The verb of the shores, βοάω, “shout, roar”, is the one used of warriors' battle cries.
 
 {{notes}}

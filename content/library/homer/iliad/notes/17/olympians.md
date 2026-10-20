@@ -1,0 +1,9 @@
+---
+summary: The heavenly gods gave Peleus the immortal armor that Hector now puts on, and Zeus, pitying the horses of Achilles, asks why “we” gave them to a mortal. On the field, men speak of the gods together as the power that gives and takes away.
+# Unnamed: "why did we give you" (17.443), the gods as givers of the horses.
+refs: [17.443]
+---
+
+**The gods' gifts.** Hector puts on “the immortal armor / of Achilles, son of Peleus, which the heavenly gods / gave to his dear father” (17.194–196; see [[the-armor-of-peleus]] and [[peleus]]). θεοὶ Οὐρανίωνες, “the heavenly gods”, are those of the sky, οὐρανός (see [[sky]]). Zeus, seeing the immortal horses weep, asks: “Ah, wretched pair, why did we give you to lord Peleus, / a mortal, while you are ageless and immortal?” (17.443–444; see [[zeus]] and [[the-horses-of-achilles]]). The narrator had called them “the splendid gifts that the gods gave to Peleus” (16.381, 16.867), and in Book 18 Achilles will say that the gods gave Peleus the armor on the day they cast Thetis into the bed of a mortal man (18.84–85; see [[thetis-in-the-house-of-peleus]]).
+
+**The gods in men's speech.** Menelaus knows that a man who fights “against a god's will” (πρὸς δαίμονα) with a man “whom a god honors” brings a great bane on himself (17.98–99), and gives way to Hector, “since he fights with help from the gods” (ἐκ θεόφιν, 17.101; see [[daimon]] and [[menelaus]]); with Ajax beside him he would fight “even against a god's will” (17.104). Alcimedon asks Automedon “which of the gods” has taken away his good wits (17.469–470; see [[kerdos]]), and Automedon, before he throws, says that “these things lie on the knees of the gods” (17.514; see [[on-the-knees-of-the-gods]] and [[gounata]]). Menelaus tells Antilochus that “a god is rolling a bane upon the Danaans” (17.688). The gods who act in the book are Zeus, Apollo and Athena (see [[apollo]] and [[athena]]); the men below rarely know which of them is at work.

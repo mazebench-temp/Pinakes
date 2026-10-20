@@ -16,3 +16,4 @@ Its author holds that sublimity comes first of all from greatness of mind, “th
 - The battle of the gods and the wounded gods: [[longinus-wounded-gods]].
 - The advance of Poseidon: [[longinus-poseidons-advance]].
 - Homer raging like Hector, in the simile of the fire in the mountains: [[longinus-homers-fury]].
+- Ajax's prayer for light in the mist, “and in the light destroy us”: [[longinus-ajaxs-prayer]].

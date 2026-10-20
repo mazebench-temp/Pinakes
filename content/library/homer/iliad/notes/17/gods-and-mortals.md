@@ -1,0 +1,5 @@
+---
+summary: The book sets immortal things beside mortal men. The armor the gods gave Peleus is “immortal”, but “the son did not grow old in his father's armor” (17.194–197); Hector puts it on with his death close to him (17.201–203); and Zeus asks the immortal horses why the gods gave them to a mortal, since “there is nothing, I think, more miserable than man” (17.443–447).
+---
+
+Both of Zeus' soliloquies look at a gift of the gods in mortal hands. Over Hector it is the armor: “you put on the immortal armor / of the best of men”, and Zeus gives him power for the day in recompense for the homecoming he will not have (17.201–208; see [[poine]] and [[the-armor-of-peleus]]). Over the horses it is the horses themselves, given to Peleus, a mortal, while they are ageless and immortal, to have sorrows among unhappy men (17.443–445; see [[immortal-and-ageless]] and [[nothing-more-miserable-than-man]]). The horses weep for a mortal charioteer, and Achilles is the son “whom an immortal mother bore” (17.78; see [[mothers-and-sons]]).

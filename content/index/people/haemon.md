@@ -7,7 +7,7 @@ summary: One of the five captains around whom [[Nestor]] marshals the Pylians be
 aliases: [Haemon the Pylian, Haimon]
 grc: ["^Αἵμονα"]
 # The Haemon of the Rhetoric is the son of Creon.
-except: [Rhetoric 1417b20, Rhetoric 1418b31]
+except: [17.467, Rhetoric 1417b20, Rhetoric 1418b31]
 relations:
   - commander: nestor (4.293-296)
 ---
@@ -16,4 +16,4 @@ relations:
 
 Haemon is the fourth of Nestor's five captains, with [[Pelagon]], [[Alastor]], [[Chromius]] and [[Bias]]. He alone is given a title. κρείων (“powerful, ruling”) is a word for a ruler, and above all the title of Agamemnon ([[powerful]]). The name may be connected with αἷμα (“blood”), or with the rare adjective αἵμων (“skilled”), used of a hunter (5.49); neither derivation is certain.
 
-The same book names a second Haemon: Tydeus spared the Theban Maeon, “son of Haemon” (4.394; see [[haemon-of-thebes]]). A third is the grandfather of the Myrmidon [[Alcimedon]], whose father [[Laerces]] is called “son of Haemon” (17.467).
+The same book names a second Haemon: Tydeus spared the Theban Maeon, “son of Haemon” (4.394; see [[haemon-of-thebes]]). A third is the grandfather of the Myrmidon [[Alcimedon]], whose father [[Laerces]] is called “son of Haemon” (17.467; see [[haemon-father-of-laerces]]).

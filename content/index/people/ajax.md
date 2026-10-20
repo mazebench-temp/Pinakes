@@ -31,7 +31,7 @@ Homer names no mother, wife or child for him, and does not make Telamon a son of
 
 {{quote:7a36300d-342c-59c6-9f8f-a6b668b1f744}}
 
-Elsewhere he is the best after Achilles “in form and in deeds” (17.279–280; Od. 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, Od. 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of Book 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
+Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–280; Od. 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, Od. 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of Book 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
 
 {{notes}}
 
@@ -41,7 +41,7 @@ Elsewhere he is the best after Achilles “in form and in deeds” (17.279–280
 
 **The wall and the ships.** He rescues Odysseus, cut off among the Trojans (11.465–491), and when Zeus puts fear in him he gives ground step by step, like a lion driven from the cattle or a donkey that boys can hardly beat out of the grain, with spears standing in his shield (11.544–574). He holds the wall with the other Ajax and with Teucer, and drives Sarpedon back from the battlement (12.265–270, 12.370–407). He fells Hector with a stone (14.409–420). At the ships he strides from deck to deck with a spear for fighting at sea, twenty-two cubits long, tells the army that no wall and no city stands behind them, “so in our hands lies the light”, and stabs twelve men who come with fire (15.674–688, 15.733–746). He gives way only when Hector lops the head from his spear and he sees the work of Zeus, and the first ship burns (16.114–123).
 
-**Patroclus.** He stands over the body of Patroclus like a lion over its cubs (17.128–137). When Zeus hides the field in mist he prays: “Father Zeus, rescue the sons of the Achaeans from the mist … and in the light destroy us, since that is your pleasure”, and Zeus, pitying him, scatters the mist (17.645–650). With the other Ajax he holds back the Trojans while Menelaus and Meriones carry the body away (17.715–753).
+**Patroclus.** He stands over the body of Patroclus like a lion over its cubs (17.128–137). When Zeus hides the field in mist he prays: “Father Zeus, rescue the sons of the Achaeans from under the mist … and in the light destroy us, since that is now your pleasure”, and Zeus, pitying him, scatters the mist (17.645–650). With the other Ajax he holds back the Trojans while Menelaus and Meriones carry the body away (17.715–753).
 
 **The games.** At the funeral games he wins no contest outright. He wrestles Odysseus to a draw (23.708–739); the Achaeans, fearing for him, stop his armed fight with Diomedes (23.811–825); and Polypoetes outthrows him with the iron weight (23.836–849; see [[contests]]). The wrestling match has been read as a glance at his later contest with Odysseus for Achilles' arms.
 

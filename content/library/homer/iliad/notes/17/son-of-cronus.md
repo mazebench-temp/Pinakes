@@ -1,0 +1,5 @@
+---
+summary: The son of Cronus nods to his promise for Hector with the verse of his nod to Thetis, pours a mist over the body, pities the weeping horses, and takes up the aegis to give the victory to the Trojans.
+---
+
+The patronymic marks four acts of Zeus in the book ([[zeus]]). After his words over Hector in Achilles' armor, “He spoke, and the son of Cronus nodded with his dark brows” (17.209; [[dark-brows]], [[exchange-of-armor]]): the verse of the nod by which he granted Thetis' prayer (1.528; [[neuo]], [[thetis-supplicates-zeus]]). He covers the defenders of the body: “about their shining helmets, the son of Cronus poured a thick mist” (17.269), since he had not hated Patroclus while he lived. “And the son of Cronus saw them weeping and pitied them” (17.441; [[pity]], [[the-horses-of-achilles]]), as in Book 16 he pitied Sarpedon and Patroclus (16.431). And at the turn of the battle, “And then the son of Cronus took up the tasseled aegis” (17.593; [[tasseled]], [[aegis]]), thundered from Ida, and gave victory to the Trojans.

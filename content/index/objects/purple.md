@@ -23,7 +23,7 @@ In the simile of Book 4 a Maeonian or Carian woman stains ivory with purple to m
 
 Purple brightened the belts that heroes gave one another. Oeneus gave Bellerophon a belt “bright with purple” (φοίνικι φαεινόν, 6.219), and Ajax gave Hector one in the same words after their duel (7.305; see [[belt]]).
 
-πορφύρεος is Homer's other purple. Helen weaves “a double-folded purple cloth” (δίπλακα πορφυρέην, 3.126), and Agamemnon holds up a great purple cloak to rally the Achaeans (8.221). But the sea wave is πορφύρεον too (1.482, where the translation renders it “surging”), and so are a rainbow (17.547) and death (πορφύρεος θάνατος, 5.83). The verb πορφύρω means “heave, surge”, of the sea (14.16) and of a troubled heart (21.551), and the adjective seems to name a dark gleam, or a heaving motion, as much as a hue.
+πορφύρεος is Homer's other purple. Helen weaves “a double-folded purple cloth” (δίπλακα πορφυρέην, 3.126), and Agamemnon holds up a great purple cloak to rally the Achaeans (8.221). But the sea wave is πορφύρεον too, “surging” in the translation (1.482), and so are “a purple rainbow” (17.547) and death (πορφύρεος θάνατος, 5.83). The verb πορφύρω means “heave, surge”, of the sea (14.16) and of a troubled heart (21.551), and the adjective seems to name a dark gleam, or a heaving motion, as much as a hue.
 
 ## Outside Homer
 

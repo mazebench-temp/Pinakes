@@ -7,7 +7,7 @@ summary: Looks, form, appearance: what a person is seen to be. The verb εἴδ�
 aliases: [eidos, looks, form, appearance, eidomai, eueidēs]
 grc: [εἶδος, εὐειδέʼ, εἴδεται, ἐεισάμενος, εἰδομένη, εἴσατο, ἐεισαμένη]
 # εἴσατο at 12.118 is "went" (εἶμι), not "seemed".
-except: [4.138, 5.538, 12.118]
+except: [4.138, 5.538, 12.118, 17.518]
 en: [looks, form, lovely woman, in the likeness of, likeness, made her voice like]
 ---
 

@@ -1,0 +1,5 @@
+---
+summary: The Achaeans want to drag the body “to the hollow ships,” an Achaean says it is no glory to go back to them without it, Zeus promises to bring Automedon safe to them, Idomeneus flees toward them, and the body is carried “toward the hollow ships.”
+---
+
+The hollow ships are where the body must go. The Achaeans' hearts have high hopes of dragging it “to the hollow ships” (17.395–397), and an Achaean says, “Friends, it is no glorious thing for us to go back / to the hollow ships” without it (17.415–416; [[black-earth]]). Zeus promises the horses that they will bring Automedon safe out of the war “to the hollow ships” (17.452–453; [[the-horses-of-achilles]]). Idomeneus, when Zeus has given victory to the Trojans, “lashed the fine-maned horses / toward the hollow ships; for fear had fallen on his heart” (17.624–625; [[fine-maned]], [[idomeneus]]). And at the end Menelaus and Meriones “eagerly carried the corpse out of the war / toward the hollow ships” (17.735–736). See [[ships]].

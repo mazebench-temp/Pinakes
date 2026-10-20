@@ -7,8 +7,9 @@ summary: Hecuba's brother and Hector's uncle on his mother's side, a son of [[Dy
 aliases: [Asius, Asios, Asius brother of Hecuba]
 # The Greek (=Ἀσίῳ, 16.717) and the English name are claimed in the Book 16 note, so that they stay in the
 # Iliad: in Strabo Ἀσίῳ names the son of Hyrtacus, and Ἀσίω at 2.461 is the Asian meadow. Ἀσιάδῃ at
-# 17.583 (Phaenops, "son of Asius", of Abydus) will need an `except` on this entry for its English name.
+# 17.583 is Phaenops, "son of Asius", of Abydos (phaenops-son-of-asius), excepted for its English name.
 en: []
+except: [17.583]
 refs: [16.716, 16.718-720]
 relations:
   - father: dymas (16.718)
@@ -24,7 +25,7 @@ passages:
 
 **The likeness.** Hector has halted his horses at the Scaean gates, unsure whether to drive back into the turmoil or call the army inside the wall (16.712–714; see [[scaean-gates]] and [[hector]]). Apollo comes to him “in the likeness of a man, young and strong” (16.716), and speaks as an elder kinsman might: “Hector, why do you cease from battle? You have no need to. / I wish I were as much stronger than you as I am weaker; / then you would soon hold back from the war to your sorrow” (16.721–723). The god who pretends to be the weaker man then sends Hector against Patroclus, naming himself as the giver of the triumph: “and Apollo give you triumph” (16.725; see [[apollo]]).
 
-The verse that brings in his speech, τῷ μιν ἐεισάμενος προσέφη Διὸς υἱὸς Ἀπόλλων, “in his likeness Apollo, son of Zeus, spoke to him” (16.720), returns when Apollo rouses Aeneas in the likeness of the herald Periphas and of Lycaon, son of Priam (17.326, 20.82; see [[aeneas]]). In Book 17 Apollo rouses Hector twice more in a man's shape, as Mentes, leader of the Cicones, and as Phaenops, son of Asius, of Abydus (17.73, 17.582–590).
+The verse that brings in his speech, τῷ μιν ἐεισάμενος προσέφη Διὸς υἱὸς Ἀπόλλων, “in his likeness Apollo, son of Zeus, spoke to him” (16.720), returns when Apollo rouses Aeneas in the likeness of the herald Periphas and of Lycaon, son of Priam (17.326, 20.82; see [[aeneas]]). In Book 17 Apollo rouses Hector twice more in a man's shape, as Mentes, leader of the Cicones, and as Phaenops, son of Asius, of Abydos (17.73, 17.582–590).
 
 He is not Asius son of Hyrtacus, the leader of the men of Arisbe, whom Idomeneus killed at the ships (13.384–393; see [[asius]]); that Asius' fall is the one repeated for Sarpedon in this book (16.482–486 = 13.389–393; see [[sarpedon]] and [[the-felled-tree]]).
 

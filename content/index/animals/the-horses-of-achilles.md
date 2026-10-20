@@ -18,7 +18,7 @@ passages:
 
 ## Names and descent
 
-Ξάνθος, Xanthus, is “Bay”, from ξανθός, “yellow, fair”, a name that one of Hector's horses shares (8.185; see [[the-horses-of-hector]]). Βαλίος, Balius, is from βαλιός, “dappled”. The Harpy Podarge, “Swift-foot” or “White-foot”, bore them to the West Wind as she grazed in a meadow by the stream of Ocean, and they “flew as fast as the winds” (16.149; see [[zephyrus]]). Achilles calls them “far-famed children of Podarge” (19.400). They are ἄμβροτοι, “immortal”, the “splendid gifts that the gods gave to Peleus” (16.381 = 16.867), and Achilles says that Poseidon gave them to his father and his father to him (23.277–278; see [[peleus]] and [[poseidon]]). Zeus calls them “ageless and immortal” (17.444; see [[immortal-and-ageless]]). In Book 16 they run with a mortal trace horse, Pedasus, taken at the sack of Eetion's city, “who, mortal though he was, kept pace with the immortal horses” (16.152–154).
+Ξάνθος, Xanthus, is “Bay”, from ξανθός, “yellow, fair”, a name that one of Hector's horses shares (8.185; see [[the-horses-of-hector]]). Βαλίος, Balius, is from βαλιός, “dappled”. The Harpy Podarge, “Swift-foot” or “White-foot”, bore them to the West Wind as she grazed in a meadow by the stream of Ocean, and they “flew as fast as the winds” (16.149; see [[zephyrus]]). Achilles calls them “far-famed children of Podarge” (19.400). They are ἄμβροτοι, “immortal”, the “splendid gifts that the gods gave to Peleus” (16.381 = 16.867), as the armor was (see [[the-armor-of-peleus]]), and Achilles says that Poseidon gave them to his father and his father to him (23.277–278; see [[peleus]] and [[poseidon]]). Zeus calls them “ageless and immortal” (17.444; see [[immortal-and-ageless]]). In Book 16 they run with a mortal trace horse, Pedasus, taken at the sack of Eetion's city, “who, mortal though he was, kept pace with the immortal horses” (16.152–154).
 
 ## The best of horses
 
@@ -33,3 +33,5 @@ When Achilles sends Patroclus out, Automedon yokes the pair (16.145–154; see [
 ## Outside Homer
 
 In the *Rhesus*, Hector tells Dolon that he too loves these horses, immortal and born of immortals, which Poseidon himself broke and gave to Peleus, “as they say” (*Rhesus* 184–188; see [[euripides-rhesus]]). Apollodorus makes them Poseidon's gift to Peleus at his wedding to Thetis, when Chiron gave him the ash spear (*Library* 3.13.5; see [[apollodorus]]). In the *Posthomerica* of Quintus of Smyrna they weep for the dead Achilles and long to leave the world of men, but the Fates had spun their service to Poseidon, to Peleus, to Achilles and last to Neoptolemus, whom they were to carry after his death to the Elysian plain (*Posthomerica* 3).
+
+Virgil gives the funeral of Pallas a weeping war-horse: Aethon, his trappings laid aside, walks in the procession weeping and wets his face with great drops (*Aeneid* 11.89–90; see [[virgils-weeping-horse]] and [[virgil]]).

@@ -14,7 +14,7 @@ Panthous is named first among the elders who sit "around Priam" at the Scaean ga
 
 ## Family
 
-The Iliad knows him through his sons. Polydamas, Πανθοΐδης, "son of Panthous", is the shrewdest of the Trojan counselors, who "alone saw both before and after" (18.249–250), the gift that Menelaus gives to old men (3.109; see [[before-and-after]]). [[euphorbus|Euphorbus]] is the first to wound Patroclus (16.806–815). Menelaus kills him, after reminding him that he had killed his brother [[hyperenor|Hyperenor]] too (17.9–60, 14.516–519). Euphorbus had hoped to put Menelaus' head and armor "in the hands of Panthous and noble Phrontis", his father and mother (17.39–40). The old man who watches Menelaus fight Paris in Book 3 will lose two sons to him.
+The Iliad knows him through his sons. Polydamas, Πανθοΐδης, "son of Panthous", is the shrewdest of the Trojan counselors, who "alone saw both before and after" (18.249–250), the gift that Menelaus gives to old men (3.109; see [[before-and-after]]). [[euphorbus|Euphorbus]] is the first to wound Patroclus (16.806–815). Menelaus kills him, after reminding him that he had killed his brother [[hyperenor|Hyperenor]] too (17.9–60, 14.516–519). Euphorbus had hoped to put Menelaus' head and armor “in the hands of Panthous and of brilliant Phrontis”, his father and mother (17.39–40; see [[phrontis]]). The old man who watches Menelaus fight Paris in Book 3 will lose two sons to him.
 
 ## Outside Homer
 

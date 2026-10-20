@@ -3,7 +3,7 @@ title: Barren
 greek: ἀτρύγετος
 kind: epithet
 tags: [sea]
-summary: A standing epithet of the [[sea]] of uncertain meaning, traditionally “barren, unharvested” (1.316, 1.327).
+summary: A standing epithet of the [[sea]], of uncertain meaning, traditionally “barren, unharvested” (1.316, 1.327); once it is given to the upper air (17.425).
 aliases: [unharvested, restless, atrygetos]
 grc: [ἀτρυγέτοιο]
 en: [barren]

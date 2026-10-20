@@ -3,7 +3,7 @@ title: Fighting over the body
 greek: ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε
 kind: formula
 tags: [type-scene, warfare, honor]
-summary: The type-scene of the fight for a fallen man. His friends stand over the body to shield it, the enemy tries to strip it and drag it away, and the struggle costs new lives. It begins in the first battle (4.463–472), and it fills the whole of Book 17, the fight for the body of Patroclus.
+summary: The type-scene of the fight for a fallen man. His friends stand over the body to shield it, the enemy tries to strip it and drag it away, and the struggle costs new lives. It begins in the first battle (4.463–472), and it fills the whole of Book 17, [[the-fight-for-the-body-of-patroclus|the fight for the body of Patroclus]].
 aliases: [fight over the body, fight for the corpse, bestriding the body, standing over the fallen]
 grc: ["ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖν*", "περιβῆναι", "ἀμφίβασιν", "νεκρὸν γὰρ ἐρύοντα", "νέκυν ἑτέρωσʼ ἐρύοντα", "ἐρύσαντο δὲ νεκρούς", "ἐρυσαίατο νεκρὸν", "νεκροὺς ἔρυσαν"]
 en: [bestrode, stand over, dragging the corpse, drag the body away, dragged away the dead, dragged the dead, around the body]

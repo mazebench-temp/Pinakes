@@ -5,7 +5,8 @@ kind: animal
 tags: [wild-animal]
 summary: The hare, λαγωός, also called πτώξ, “the cowerer”. In the Iliad it is always quarry, run down by two hounds in the chase of Dolon (10.360–364) and seized by the eagle in two later similes (17.674–678, 22.308–311).
 aliases: [hares, lagos, lagoos, ptox, the cowerer]
-grc: [λαγωόν]
+# πτώξ, "the cowerer" (17.676); later πτῶκα (22.310).
+grc: [λαγωόν, πτὼξ]
 en: [hare]
 ---
 

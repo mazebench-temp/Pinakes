@@ -11,7 +11,7 @@ en: [in their prime, flourishing, big]
 
 ## Meaning
 
-θαλερός is formed from θάλλω (“bloom, flourish”): “blooming, fresh, in its prime.” Young men are θαλεροὶ αἰζηοί, a young wife θαλερὴ παράκοιτις, and a marriage θαλερὸς γάμος (Od. 6.66). The word also means “swelling, abundant”: a tear that wells up and falls is θαλερόν ({{ref:Iliad 2.266}}, where the translation renders it “big”; Il. 6.496), and Antilochus, hearing of Patroclus' death, is struck dumb, “his full voice held back” (θαλερὴ δέ οἱ ἔσχετο φωνή, Il. 17.696).
+θαλερός is formed from θάλλω (“bloom, flourish”): “blooming, fresh, in its prime.” Young men are θαλεροὶ αἰζηοί, a young wife θαλερὴ παράκοιτις, and a marriage θαλερὸς γάμος (Od. 6.66). The word also means “swelling, abundant”: a tear that wells up and falls is θαλερόν ({{ref:Iliad 2.266}}, where the translation renders it “big”; Il. 6.496), and Antilochus, hearing of Patroclus' death, is struck dumb, “his strong voice was checked” (θαλερὴ δέ οἱ ἔσχετο φωνή, Il. 17.696).
 
 ## Use
 

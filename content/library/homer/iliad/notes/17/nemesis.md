@@ -1,0 +1,5 @@
+---
+summary: Menelaus fears the indignation of the Danaans if he leaves Patroclus' body (17.93), and decides that no one will be indignant if he gives way before a man whom a god honors (17.100–101). Then he turns indignation into a duty: each leader is to “be indignant in his heart / that Patroclus should become a plaything for the Trojan dogs” (17.254–255).
+---
+
+The verse is said twice, the second time with a negative: μή τίς μοι Δαναῶν νεμεσήσεται ὅς κεν ἴδηται, “I fear that any of the Danaans who sees it will be indignant with me” (17.93), and τώ μʼ οὔ τις Δαναῶν νεμεσήσεται ὅς κεν ἴδηται, “So no one of the Danaans who sees it will be indignant with me” (17.100). Between them stands the rule about the gods (17.98–99; see [[decision-scene]]). νέμεσις is the blame of the onlooker, of whoever sees it, and the will of a god takes it away. In the call to the leaders it is the hearer's own: νεμεσιζέσθω δʼ ἐνὶ θυμῷ, each is to “be indignant in his heart” (17.254; see [[exhortation]] and [[honoring-the-dead]]).

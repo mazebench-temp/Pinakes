@@ -5,7 +5,7 @@ passages:
   - 10.416-434 | Dolon on the allies' camp
 ---
 
-**Asleep.** The Trojans keep watch at their fires, Dolon says, “but the allies, called from many lands, / are asleep; for they leave it to the Trojans to keep watch, / since their children are not near them, nor their wives” (10.420–422; see [[called-from-many-lands]] and [[night-watch]]). The Trojans guard their own families, who are in the city behind them; the allies' families are far away. Hector puts the same bond the other way when he rallies the allies in Book 17: he did not summon them for their numbers, but so that they might defend “the wives and little children of the Trojans” (17.220–224; see [[trojans]]).
+**Asleep.** The Trojans keep watch at their fires, Dolon says, “but the allies, called from many lands, / are asleep; for they leave it to the Trojans to keep watch, / since their children are not near them, nor their wives” (10.420–422; see [[called-from-many-lands]] and [[night-watch]]). The Trojans guard their own families, who are in the city behind them; the allies' families are far away. Hector puts the same bond the other way when he rallies the allies in Book 17: he did not summon them for their numbers, but so that they might defend “the wives of the Trojans and their little children” (17.220–224; see [[trojans]]).
 
 **The camp.** Odysseus asks whether the allies sleep “mingled with the horse-taming Trojans … or apart” (10.424–425), and Dolon gives the whole order of the camp:
 

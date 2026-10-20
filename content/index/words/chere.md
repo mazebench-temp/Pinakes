@@ -15,7 +15,7 @@ passages:
 
 ## Meaning
 
-χήρη is a widow, a woman who has lost her husband. The adjective χῆρος, “bereft”, lies behind it, and so does the verb χηρόω, “widow, make desolate”: Heracles, sacking Troy in Laomedon's day, “widowed its streets” (χήρωσε δʼ ἀγυιάς, 5.642), and Euphorbus tells Menelaus that he “widowed” his brother's wife “in the corner of her new bridal chamber” (17.36). The χηρωσταί are the distant kinsmen who divide the property of a man who dies without sons (5.158; see [[bereaved-parents]]).
+χήρη is a widow, a woman who has lost her husband. The adjective χῆρος, “bereft”, lies behind it, and so does the verb χηρόω, “widow, make desolate”: Heracles, sacking Troy in Laomedon's day, “widowed its streets” (χήρωσε δʼ ἀγυιάς, 5.642), and Euphorbus tells Menelaus that he “widowed” his brother's wife “in the inmost part of her new bridal chamber” (17.36). The χηρωσταί are the distant kinsmen who divide the property of a man who dies without sons (5.158; see [[bereaved-parents]]).
 
 Widows appear in Homer as a picture of helpless grief. Odysseus likens the army that wants to go home to “young children or widowed women” who wail to one another (2.289–290), and Diomedes describes the man his spear strikes: “his wife's cheeks are torn in mourning, and his children are orphans” (παῖδες δʼ ὀρφανικοί, 11.393–394). The widow and the orphan go together. ὀρφανικός, “orphaned”, is the child left without a father; in Andromache's lament the “day of orphanhood” leaves a child without friends (22.490).
 

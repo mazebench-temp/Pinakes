@@ -4,7 +4,8 @@ greek: Παίονες
 kind: people
 tags: [trojan, thracian, paeonia]
 summary: A people of the Axius valley, in what was later Macedonia, led to Troy by [[Pyraechmes]] "with their curved bows". They are the westernmost of Troy's allies.
-aliases: [Paiones, Paeonia]
+# The land, Paeonia (Παιονίης, 17.350), has its own entry.
+aliases: [Paiones]
 grc: [Παίονας]
 en: [Paeonians]
 ---

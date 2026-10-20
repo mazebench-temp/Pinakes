@@ -1,0 +1,10 @@
+---
+summary: The news of Patroclus' death needs a messenger, and the book finds one slowly. Ajax wishes there were a companion to take it to Achilles, but the mist hides everyone (17.640–644); when Zeus has lifted the mist, Ajax sends Menelaus to find Antilochus (17.651–655); Menelaus gives him the message, and Antilochus runs weeping to Achilles (17.685–701). The delivery comes at the start of the next book (18.1–21).
+refs: [17.640-642, 17.651-655, 17.685-693, 17.700-701]
+passages:
+  - 17.640-701 | Antilochus sent to Achilles
+---
+
+**The message.** Ajax gives it twice: a companion should go “to the son of Peleus, since I do not think he has even heard / the grievous news, that his dear companion has perished” (17.641–642), and Menelaus should urge Antilochus “to go quickly to wise-hearted Achilles / and tell him that by far the dearest of his companions has perished” (17.654–655). They are the narrator's words for what Thetis had not told her son: she “did not tell him of so great an evil as had come about … that by far the dearest of his companions had perished” (17.410–411; see [[foresight]]). Menelaus finds Antilochus where he found Ajax at the start of the book, “on the left of all the battle, / encouraging his companions and urging them on to fight” (17.682–683 = 17.116–117), and gives him the news with its purpose: let Achilles save the body, “naked; for Hector of the gleaming helmet has his armor” (17.692–693 = 17.122; see [[stripping-the-dead]]).
+
+**The messenger.** Antilochus is struck dumb: “and for a long time speechlessness took him, and his two eyes / filled with tears, and his strong voice was checked” (17.695–696), the verses the Odyssey uses of Penelope when she learns that Telemachus has sailed (*Odyssey* 4.704–705). He keeps the charge all the same (see [[ephemosyne]]), leaves his armor with Laodocus, and goes: “And his feet carried him out of the war, shedding tears, / to bring the evil news to Achilles, son of Peleus” (17.700–701; see [[antilochus]] and [[tears]]). Menelaus does not expect the message to bring Achilles to the fight, “for naked as he is, there is no way he could fight the Trojans” (17.708–711).

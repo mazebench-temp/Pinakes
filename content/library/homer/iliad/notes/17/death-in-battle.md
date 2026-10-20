@@ -1,0 +1,5 @@
+---
+summary: The deaths of the book are few beside Book 16's, and each is told with a mark of the life lost: Euphorbus' hair like the Graces' drenched in blood, and his fall like an olive sapling uprooted by a storm (17.51–60; see [[the-olive-sapling]]); Hippothous dying far from Larisa without repaying his parents for his rearing (17.300–303); Podes, rich and brave, Hector's dear companion at the feast (17.575–577); Coeranus, who came as a light to Idomeneus and lost his own life (17.610–619).
+---
+
+Most of the deaths are paid for the body. Hippothous dies dragging it by the foot and falls face down on it (17.288–300); Phorcys dies standing over Hippothous (17.312–315); Leiocritus, Apisaon and Aretus die in the charges around it (17.344–355, 17.516–524; see [[androktasia]] and [[fighting-over-the-body]]). The losses are counted once, and they are fewer on the Achaean side (17.360–365; see [[androktasia]]). Two men die in place of others: Schedius, by the spear thrown at Ajax (17.304–311), and Coeranus, by the spear thrown at Idomeneus (17.608–619).

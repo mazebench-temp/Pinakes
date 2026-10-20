@@ -1,0 +1,5 @@
+---
+summary: Every son of Atreus in Book 17 is Menelaus, named by his father ten times, from the first verse of the book; Agamemnon is named with him once, when Menelaus calls on the leaders who drink at the public cost “beside the sons of Atreus” (17.1, 17.249).
+---
+
+“Nor did it escape the son of Atreus, Menelaus, dear to Ares” (Ἀτρέος υἱόν, 17.1; see [[menelaus]]): the book opens with the father's name. It names Menelaus so ten times, four times as Ἀτρέος υἱός, “the son of Atreus” (17.1, 17.79, 17.89, 17.553), and six times by the patronymic Ἀτρεΐδης (17.12, 17.46, 17.60, 17.71, 17.138, 17.580; see [[son-of-atreus]]). Twice the father's name stands for the son alone: “he, the son of Atreus” (17.71), and “nor did his shrill shout escape the son of Atreus” (17.89). Agamemnon, whom the patronymic names in most books, is named only once, beside his brother, when Menelaus calls the leaders “who beside the sons of Atreus, Agamemnon and Menelaus, / drink at the public cost” (17.249–250; see [[agamemnon]] and [[atreidae]]).

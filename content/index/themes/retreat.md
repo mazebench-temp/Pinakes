@@ -14,7 +14,7 @@ The warriors of the Iliad fear the name of coward, κακός or δειλός, m
 
 ## Before a god
 
-A man may give way to a god. When Diomedes sees Ares beside Hector, he orders the Achaeans to “keep your faces turned toward the Trojans and give ground always backward, and do not be eager to fight in force against gods” (5.605–606), and the army does so, neither fleeing to the ships nor charging (5.699–702; see [[who-fights-the-gods]]). Giving way to Zeus is the same case, and in Book 8 Nestor has to persuade Diomedes of it (see the note on Book 8). Menelaus, alone over the body of Patroclus, reasons it out for himself: whoever fights a man whom a god honors brings a great disaster on himself, so no Danaan will blame him for yielding to Hector, “since he fights with the gods' help” (17.91–105).
+A man may give way to a god. When Diomedes sees Ares beside Hector, he orders the Achaeans to “keep your faces turned toward the Trojans and give ground always backward, and do not be eager to fight in force against gods” (5.605–606), and the army does so, neither fleeing to the ships nor charging (5.699–702; see [[who-fights-the-gods]]). Giving way to Zeus is the same case, and in Book 8 Nestor has to persuade Diomedes of it (see the note on Book 8). Menelaus, alone over the body of Patroclus, reasons it out for himself: whoever fights a man whom a god honors brings a great disaster on himself, so no Danaan will blame him for yielding to Hector, “since he fights with help from the gods” (17.91–105).
 
 ## The voice of others
 

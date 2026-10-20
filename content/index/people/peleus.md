@@ -16,7 +16,7 @@ relations:
 
 ## Elsewhere in Homer
 
-Peleus is the son of Aeacus, a son of Zeus (Iliad 21.189). The gods attended his wedding to Thetis (24.59–63). He received the exile [[Phoenix]] and made him lord of the Dolopians (9.478–484), and when Achilles sailed for Troy he sent Phoenix with him (9.438–443). In Book 24 Achilles weeps for him with Priam, an old father who will not see his son again.
+Peleus is the son of Aeacus, a son of Zeus (Iliad 21.189). The gods attended his wedding to Thetis (24.59–63) and gave him splendid gifts, the immortal horses and the armor that Achilles brought to Troy (16.381, 17.194–196, 18.84–85; see [[the-horses-of-achilles]] and [[the-armor-of-peleus]]). He received the exile [[Phoenix]] and made him lord of the Dolopians (9.478–484), and when Achilles sailed for Troy he sent Phoenix with him (9.438–443). In Book 24 Achilles weeps for him with Priam, an old father who will not see his son again.
 
 ## Outside Homer
 

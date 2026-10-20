@@ -7,6 +7,9 @@ summary: The messenger of the gods in the Iliad, sent by [[Zeus]] and sometimes 
 aliases: [rainbow, messenger of the gods]
 grc: [Ἶρις]
 en: [Iris]
+# ἶριν at 17.547 is the common word: the purple rainbow that Zeus stretches out as a portent, in the simile
+# for Athena's descent. The goddess takes no part in Book 17.
+except: [17.547]
 ---
 
 ## Etymology

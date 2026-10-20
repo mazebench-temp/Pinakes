@@ -1,0 +1,9 @@
+---
+summary: Glaucus expects the Argives to give back Sarpedon's armor in exchange for Patroclus' body; Menelaus calls on their leaders, and Automedon and Menelaus greet the Ajaxes as “leaders of the Argives”. Once, the narrator says, the Argives would have won glory even beyond the portion of Zeus, had not Apollo roused Aeneas (17.151–165, 17.248, 17.317–322, 17.505–508, 17.669).
+---
+
+**Glaucus' bargain.** Glaucus reproaches Hector with leaving Sarpedon “to become the prey and spoil of the Argives” (17.151; see [[glaucus]] and [[sarpedon]]), and proposes a trade: if the Trojans could drag Patroclus into Ilios, “the Argives would quickly release the fine armor of Sarpedon” (17.162–163), since Patroclus' master is “by far the best / of the Argives beside the ships” (17.164–165; see [[achilles]]).
+
+**Beyond the portion of Zeus.** When Ajax kills Phorcys, “the Argives shouted aloud, and dragged away the dead, / Phorcys and Hippothous” (17.317–318; see [[phorcys]] and [[hippothous]]). “Then once more the Trojans, before the Achaeans dear to Ares, / would have gone up into Ilios, beaten by their own cowardice, / and the Argives would have won glory even beyond the portion of Zeus / by their own power and strength” (17.319–322; see [[would-have-had-not]] and [[aisa]]), but Apollo rouses Aeneas (17.322–341; see [[apollo]]). In Book 16 the Achaeans were “stronger beyond their portion” in the evening (16.780).
+
+**Their leaders.** Menelaus calls the “leaders and rulers of the Argives” to the body (17.248; see [[menelaus]]), and the Ajaxes are greeted twice as “leaders of the Argives”, by Automedon and by Menelaus (17.508, 17.669; see [[the-two-ajaxes]]). Automedon fears that Hector will not hold back until he has killed him and Alcimedon and “puts to rout the ranks of men / of the Argives” (17.503–506; see [[automedon]]).

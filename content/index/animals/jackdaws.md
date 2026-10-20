@@ -3,16 +3,15 @@ title: Jackdaws
 greek: κολοιός
 kind: animal
 tags: [bird, wild-animal]
-summary: The jackdaw, κολοιός, a small, noisy bird of the crow family. Homer names it only with the starling, as the prey that scatters before a hawk: in the simile of Patroclus' charge (16.582–583), and in the Achaeans' flight before Aeneas and Hector (17.755–759).
+summary: The jackdaw, κολοιός, a small, noisy bird of the crow family. Homer names it only with the starling, as the small birds that scatter before a hawk or a falcon: in the simile of Patroclus' charge (16.582–583), and in the Achaeans' flight before Aeneas and Hector (17.755–759).
 aliases: [jackdaw, koloios]
-# Later: κολοιῶν (17.755).
-grc: [κολοιούς]
+grc: [κολοιούς, κολοιῶν]
 en: [jackdaws]
 ---
 
 ## In Homer
 
-ἴθυσεν δὲ διὰ προμάχων ἴρηκι ἐοικὼς / ὠκέϊ, ὅς τʼ ἐφόβησε κολοιούς τε ψῆράς τε, “and he made straight through the champions like a hawk, / a swift one, which puts jackdaws and starlings to flight” (16.582–583; see [[like-a-hawk]], [[hawk]] and [[starlings]]). The jackdaws and starlings are a flock of small birds, and they scatter. In Book 17 the Achaeans retreat before Aeneas and Hector “as a cloud of starlings or jackdaws goes, screaming shrilly, when they see coming the hawk that brings death to small birds” (17.755–757). Both times the birds are many and the hawk is one. The word κολῳός, “brawling”, has been connected with the jackdaw's chatter, but the etymology is uncertain (see [[kolooos]]).
+ἴθυσεν δὲ διὰ προμάχων ἴρηκι ἐοικὼς / ὠκέϊ, ὅς τʼ ἐφόβησε κολοιούς τε ψῆράς τε, “and he made straight through the champions like a hawk, / a swift one, which puts jackdaws and starlings to flight” (16.582–583; see [[like-a-hawk]], [[hawk]] and [[starlings]]). The jackdaws and starlings are a flock of small birds, and they scatter. In Book 17 the Achaeans retreat before Aeneas and Hector “as a cloud of starlings or of jackdaws goes / screaming a cry of death, when they see coming / a falcon, which brings slaughter to small birds” (17.755–757; see [[falcon]]). Both times the birds are many and the bird of prey is one. The word κολῳός, “brawling”, has been connected with the jackdaw's chatter, but the etymology is uncertain (see [[kolooos]]).
 
 ## Outside Homer
 

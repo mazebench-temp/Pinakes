@@ -1,7 +1,7 @@
 ---
 summary: Telamonian Ajax is one of the elders at Agamemnon's sacrifice. In the Catalogue he brings twelve ships from Salamis, the lesser Ajax is measured against him, and he is named the best of the Achaeans “while Achilles kept up his wrath”.
 grc: [Τελαμώνιος]
-en: [Telamonian Ajax, two Ajaxes]
+en: [Telamonian Ajax]
 except: [2.527]
 refs: [2.558]
 passages:

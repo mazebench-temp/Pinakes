@@ -19,6 +19,6 @@ passages:
 
 Agamemnon has just told the Achaeans to stand and feel shame before one another (5.529–532), and he throws at once. His man is a πρόμος, “a man in the front rank” (5.533). Deicoon is Αἰνείω ἕταρον μεγαθύμου, “companion of great-hearted Aeneas” (5.534), and he dies just after Aeneas has come back healed to his companions (5.512–518; see [[aeneas]]). The Trojans honored him “as they did the sons of Priam” (5.535–536). The same verb, τίω, measured Aeneas against Hector a little earlier (ἶσον ἐτίομεν Ἕκτορι δίῳ, 5.467), and Priam honored his son-in-law Imbrius “as he honored his children” (13.176).
 
-The shield does not hold: “the bronze went on through, and he drove it through the belt into the lower belly” (5.538–539). The same two verses tell how Automedon kills Aretus in Book 17 (17.518–519). He falls with a thud, and his armor clatters upon him (5.540; see [[fell-with-a-thud]] and [[androktasia]]).
+The shield does not hold: “the bronze went on through, and he drove it through the belt into the lower belly” (5.538–539). The same two verses tell how Automedon kills Aretus in Book 17 (17.518–519; see [[aretus]]). He falls with a thud, and his armor clatters upon him (5.540; see [[fell-with-a-thud]] and [[androktasia]]).
 
 The name is formed like Democoon (4.499); both seem to end in -κόων, from κοέω, “perceive, heed” (see [[democoon]]).

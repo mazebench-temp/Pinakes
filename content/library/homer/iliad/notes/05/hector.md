@@ -26,7 +26,7 @@ The praise, αἰχμητήν τʼ ἔμεναι καὶ θαρσαλέον πο
 
 {{quote:3753f24c-87d2-5fa4-bc78-bd9c88a88f70}}
 
-He does what Sarpedon's rebuke asked of him and drives the Argives back, but he does not answer the ally who asked it. In Book 17 Glaucus will charge him with leaving Sarpedon, “your guest and companion”, to be prey and spoil for the Argives (17.150–151).
+He does what Sarpedon's rebuke asked of him and drives the Argives back, but he does not answer the ally who asked it. In Book 17 Glaucus will charge him with leaving Sarpedon, “at once your guest-friend and your companion”, to be prey and spoil for the Argives (17.150–151).
 
 **Whom first, whom last.** The Argives give ground “before Ares and Hector armed in bronze” (5.699), and the narrator asks:
 

@@ -24,7 +24,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | χόλος, χολόω | anger, be angry | |
 | χώομαι | be angry, enraged | |
 | κότος, κοτέω | grudge, resentment | κότον αἰνόν "a dread grudge" (8.449, 16.449); κοτεσσάμενος "in resentment" (5.177, 16.386) |
-| τιμή, τίω, τιμάω | honor, pay honor | 1.159 τιμή = "satisfaction" (compensation) |
+| τιμή, τίω, τιμάω | honor, pay honor | 1.159 τιμή = "satisfaction" (compensation); the satisfaction owed to Menelaus, "to win satisfaction for me" (17.92) |
 | ἀτιμάζω, ἀτιμάω, ἄτιμος | dishonor, dishonored | ἀτιμότερον "more dishonored" (16.90) |
 | γέρας | prize | the prize of honor from the spoils |
 | ἄποινα | ransom | also Agamemnon's amends, ἀπερείσια ἄποινα "a boundless ransom" (9.120 = 19.138) |
@@ -47,7 +47,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἀτασθαλίαι | recklessness | |
 | ὄις | sheep | ewes only where the Greek says so |
 | ὄρνυμι / ὀτρύνω | rouse / urge on | ὄρνυον "kept rousing" (12.141–142); μένος ὀτρύνοντες "urging on the might" (12.266, as 5.470); ὀρνύμενον, of a wave, "roused" (14.395); ὀτρυνώμεθα "urge ourselves on" (14.369); ἀνίημι, of a god setting someone on, "set on" (5.405, 14.362); ἐπόρνυμι "rouse against" (7.42 "rouse up"; 15.613) |
-| μένος | might; fury | "might", the power a god puts in a man (5.2, 5.125, 5.513; 10.366, 10.482) or a man has (5.254, 5.472; κρατερὸν μένος "strong might", 7.38, 10.479); "fury" where it is rage (1.207, 5.136, 5.892); "strength" of the life that leaves a victim (3.294; λύθη ψυχή τε μένος τε "his soul and his strength were loosed", 5.296); with a genitive, "the might of" (Ἕκτορος … μένος "the might of Hector", 7.38, 14.418; μένος Ἀτρεΐδαο, 11.268) |
+| μένος | might; fury | "might", the power a god puts in a man (5.2, 5.125, 5.513; 10.366, 10.482) or a man has (5.254, 5.472; κρατερὸν μένος "strong might", 7.38, 10.479); "fury" where it is rage (1.207, 5.136, 5.892); "strength" of the life that leaves a victim (3.294; λύθη ψυχή τε μένος τε "his soul and his strength were loosed", 5.296); with a genitive, "the might of" (Ἕκτορος … μένος "the might of Hector", 7.38, 14.418; μένος Ἀτρεΐδαο, 11.268); λῦσε μένος, λύθη μένος "loose … strength" of a man's life (16.332; 17.29, 17.298) |
 | φόβος | rout; flight | "rout", panic flight (5.272 μήστωρε φόβοιο "masters of rout"); "flight" of one man's retreat (5.252); φοβέω "put to flight" (11.173; 15.91, 15.230), "put to rout" (11.406; 15.15) |
 | θάρσος | daring | 5.2 |
 | ψυχή | soul; life | "soul" (1.3, 5.296, 5.654, 5.696; 9.408, the soul that passes the teeth); "life" where it is staked or valued (9.322, 9.401) |
@@ -77,8 +77,8 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | θέσφατον | decreed | ὣς γὰρ θέσφατόν ἐστι "For so it is decreed" (8.477); θέσφατα "oracles" (5.64) |
 | ἀρετή | prowess | ἣν ἀρετὴν διαείσεται "he will learn his own prowess" (8.535); συμφερτὴ δʼ ἀρετή "prowess … when it is joined" (13.237); ἀρετὴ διαείδεται "the prowess of men is seen clearly" (13.277) |
 | ἠώς | dawn; morning | the goddess Dawn (8.1); "morning" (8.66); ἠοῦς "at dawn" (8.470, 8.525); ἐγγύθι δʼ ἠώς "dawn is near" (10.251) |
-| φύζα, φόβος (personified) | Panic, Rout | θεσπεσίη … φύζα φόβου κρυόεντος ἑταίρη "heaven-sent Panic, companion of chilling Rout" (9.2), printed lowercase in the Greek |
-| θεσπέσιος | wondrous; heaven-sent | "wondrous" of song and din (2.600, 8.159); θεσπεσίῃ "by the will of heaven" (2.367); "heaven-sent Panic" (9.2) |
+| φύζα, φόβος (personified) | Panic, Rout | θεσπεσίη … φύζα φόβου κρυόεντος ἑταίρη "heaven-sent Panic, companion of chilling Rout" (9.2), printed lowercase in the Greek; φύζα, the common noun, "panic" (14.140; 17.381) |
+| θεσπέσιος | wondrous; heaven-sent | "wondrous" of song and din (2.600, 8.159); θεσπεσίῃ "by the will of heaven" (2.367); "heaven-sent Panic" (9.2); θεσπέσιον … φόβον "a heaven-sent rout" (17.118) |
 | λιταί | the Prayers | the daughters of Zeus (9.502–512), printed lowercase; beside them ἄτη is "Blind Folly" |
 | κλέος, κλέα | fame; famous deeds | κλέος ἄφθιτον "imperishable fame" (9.413), κλέος ἐσθλόν "noble fame" (5.3, 9.415); κλέα ἀνδρῶν "the famous deeds of men" (9.189, 9.524); κῦδος is "glory" |
 | θέμις / θέμιστες | custom / ordinances | ἣ θέμις ἐστί "as is the custom" (2.73, 9.33, 9.134, 9.276); θέμιστες "ordinances" (1.238, 2.206, 9.99, 9.156); οὐ θέμις ἐστί "it is not lawful" (14.386); σκολιὰς … θέμιστας "crooked ordinances" (16.387); οὐ θέμις ἦεν "it had not been lawful" (16.796) |
@@ -106,7 +106,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | δοῦπος / ὅμαδος, κτύπος | thudding / din | δοῦπος ὀρώρει "a thudding rose" (12.289, as 9.573); ὅμαδος "din" (12.471), κτύπος "din" (12.338); Τρώων ὅμαδος "the throng of the Trojans" (7.307, 15.689) |
 | ἔπαλξις, κρόσσαι, στῆλαι, πύργος | battlement, copings, buttresses, tower | ἐπάλξεις "battlements" (12.258–430); κρόσσαι "copings" (12.258, 12.444); στῆλαι προβλῆτες "jutting buttresses" (12.259); πύργος "tower", but ἀνὰ πύργον Ἀχαιῶν "along the rampart of the Achaeans", the towered wall as a whole (12.333) |
 | σανίδες, πύλαι, ὀχεύς, κληΐς, θαιροί | doors, gates, bar, bolt, hinges | the gate of the Achaean wall (12.121, 12.453–461) |
-| μεθημοσύνη, μεθίημι | slackness, hold back | κακότητι μεθημοσύνῃσί τε λαῶν "the baseness of their leader and the slackness of the army" (13.108, 13.121); μεθίημι + gen. "hold back from" (4.240, 13.97, 13.114, 13.234); with an accusative, "yield" (μεθίεμεν Ἕκτορι νίκην "to yield the victory to Hector", 14.364); μεθήσομεν "are we to hold back" (15.553) |
+| μεθημοσύνη, μεθίημι | slackness, hold back | κακότητι μεθημοσύνῃσί τε λαῶν "the baseness of their leader and the slackness of the army" (13.108, 13.121); μεθίημι + gen. "hold back from" (4.240, 13.97, 13.114, 13.234); with an accusative, "yield" (μεθίεμεν Ἕκτορι νίκην "to yield the victory to Hector", 14.364); μεθήσομεν "are we to hold back" (15.553); μεθήσομεν "yield" this man to the Trojans (17.418), as 14.364 |
 | φύλοπις | the din of battle | φύλοπις αἰνή "the dread din of battle" (4.82, 5.379, 6.1); φυλόπιδος κορέσασθαι "have their fill of the din of battle" (13.635); μάχη καὶ φύλοπις "the battle and the din of battle" (13.789) |
 | ἠχή / ὅμαδος | din, roar / din | ἠχῇ θεσπεσίῃ "with a wondrous din" (8.159, 13.834); θεσπεσίῳ ὁμάδῳ "with a wondrous din" (13.797); ἠχὴ δʼ ἀμφοτέρων "the roar of both" (13.837) |
 | κράτος | strength; power; mastery | "the greatest power" (2.118, 9.39, 13.484); φέροιτο μέγα κράτος "carry off the great mastery" (13.486); δόμεναι κράτος "give us the power" (13.743) |
@@ -114,7 +114,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | θεοπρόπος, οἰωνιστής, μάντις | prophet, augur, seer | Κάλχας … θεοπρόπος οἰωνιστής "Calchas, the prophet and augur" (13.70; οἰωνιστής of Ennomus, 2.858); μάντις "seer" (1.92, 13.69, 13.663) |
 | ἐριβρεμέτης / ὑψιβρεμέτης / ἐρίγδουπος | who thunders loud / who thunders on high / loud-thundering | Ζηνὸς ἐριβρεμέτεω "Zeus who thunders loud" (13.624, only here); Ζεὺς ὑψιβρεμέτης (1.354, 12.68); ἐρίγδουπος πόσις Ἥρης "the loud-thundering husband of Hera" (7.411, 10.329, 13.154) |
 | ἀμφίγυος | double-pointed | ἔγχεσιν ἀμφιγύοισιν "double-pointed spears" (13.147; also 14.26, 15.278, 15.386, 15.712, 16.637, 17.731) |
-| καυλός | socket | ἐν καυλῷ ἐάγη "snapped at the socket" (13.162, 13.608; 17.607) |
+| καυλός | socket | ἐν καυλῷ ἐάγη "snapped at the socket" (13.162, 13.608; 17.607); παρʼ αὐλόν "along the spear's socket", the tube of the spearhead (17.297) |
 | Ὕπνος, Θάνατος, Νύξ (personified) | Sleep, Death, Night | Ὕπνῳ … κασιγνήτῳ Θανάτοιο "Sleep, the brother of Death" (14.231); "Sleep, lord of all gods and of all men" (14.233); νήδυμος Ὕπνος "sweet Sleep" (14.242, 14.354); Νὺξ δμήτειρα θεῶν "Night, the tamer of gods" (14.259), Νυκτὶ θοῇ "swift Night" (14.261); lowercase ὕπνος "sleep" (14.164, 14.353), νύξ "night" (14.78, 14.439) |
 | κεστὸς ἱμάς / ζώνη / μίτρη / ζωστήρ | the embroidered strap / girdle / band / belt | Aphrodite's κεστὸν ἱμάντα, / ποικίλον "the embroidered strap, / richly worked" (14.214–215; τοῦτον ἱμάντα "this strap", 14.219); ἱμάς is "strap" (πολύκεστος ἱμάς "the richly worked strap", 3.371); Hera's ζώνη "girdle" (14.181); μίτρη "band" (4.137) |
 | θελκτήρια, πάρφασις | enchantments, persuasion | 14.215, 14.217; πάρφασις is the noun παραίφασις, "persuasion" (11.793) |
@@ -123,21 +123,21 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἐξαπαφίσκω, παραπαφίσκω | beguile | ἐξαπάφοιτο Διὸς νόον "beguile the mind of Zeus" (14.160); παρήπαφεν "has beguiled" (14.360) |
 | κοιμάω, κατευνάω, λέγω (of sleep) | lull to sleep | κοίμησον "lull to sleep" (14.236), κατευνήσαιμι (14.245, 14.248), ἔλεξα "lulled" (14.252) |
 | νόος / φρένες | mind / mind, wits | νόος "mind" (9.554; 14.62 "if the mind can do any good"; 14.217); φρένες "mind" or "wits" (6.234, 13.394); νόος "thought" where it is a plan formed in the mind (9.104; νόος καὶ μῆτις "thought or counsel", 15.509) |
-| ἀργαλέος | grievous | ἀργαλέους πολέμους "grievous wars" (14.87), ἐνιπῇ ἀργαλέῃ "a grievous rebuke" (14.104–105), ἀργαλέων ἀνέμων "grievous winds" (13.795, 14.254); "hard" with an infinitive (1.589, 12.63) |
+| ἀργαλέος | grievous | ἀργαλέους πολέμους "grievous wars" (14.87), ἐνιπῇ ἀργαλέῃ "a grievous rebuke" (14.104–105), ἀργαλέων ἀνέμων "grievous winds" (13.795, 14.254); "hard" with an infinitive (1.589, 12.63); ἔριδος … ἀργαλέης "strife … grievous" (17.384–385), ὑσμίνη ἀργαλέη "battle … grievous" (17.543–544) |
 | εὐναί | mooring-stones | 1.436; ἐπʼ εὐνάων ὁρμίσσομεν "anchor them out on their mooring-stones" (14.77) |
-| ἐρωή | force | ἀνδρὸς ἐρωήν "the man's force" (3.62); "the force of the missiles" (4.542); 14.488; δουρὸς ἐρωή "the cast of a spear" (11.357, 15.358); πολέμου δʼ οὐ γίγνετʼ ἐρωή "there was no respite from the war" (16.302; 17.761), from ἐρωέω "draw back" (13.776; ἀπερωήσειας "hold back", 16.723) |
+| ἐρωή | force | ἀνδρὸς ἐρωήν "the man's force" (3.62); "the force of the missiles" (4.542); 14.488; δουρὸς ἐρωή "the cast of a spear" (11.357, 15.358); πολέμου δʼ οὐ γίγνετʼ ἐρωή "there was no respite from the war" (16.302; 17.761), from ἐρωέω "hold back" (13.57, 13.776; ἀπερωήσειας 16.723), "hang back" (2.179, 14.101; 17.422) |
 | χαίρω / γάνυμαι | rejoice / be glad | χήρατο δʼ Ὕπνος "Sleep rejoiced" (14.270), χαῖρε δὲ θυμῷ "she rejoiced in her heart" (14.156); γάνυται "is glad" (13.493), γανύσσεται "will be glad" (14.504) |
 | δῖος (of things and places) | shining | ἅλα δῖαν "the shining sea" (1.141, 14.76); χθὼν δῖα "the shining earth" (14.347); δῖος of persons is "brilliant" |
 | ἀτρέμας | motionless; still | "motionless" (5.524, 13.438, 14.352); "sit still" (2.200) |
 | νείατος | lowest; last | τὰ νείατα πείραθʼ "the lowest limits" (8.478); νείατον ἀστράγαλον "the last vertebra", where the head joins the neck (14.466) |
-| ὀπάζω | grant | κῦδος ὀπάζει "grants glory" (8.141; 12.255; 14.358); κτῆσιν ὄπασσε "granted him wealth" (14.491) |
+| ὀπάζω | grant | κῦδος ὀπάζει "grants glory" (8.141; 12.255; 14.358); κτῆσιν ὄπασσε "granted him wealth" (14.491); ὄπασσε "granted" the armor to his son (17.196) |
 | ἀλαστέω | chafe | ἠλάστεον "the gods chafed" (15.21); ἀλαστήσας "chafing" (12.163) |
 | ἀλογέω / ἀνηκουστέω | disregard / fail to heed | ἀλογήσει "disregards" (15.162, 15.178); οὐδʼ ἀνηκούστησε "did not fail to heed" (15.236; 16.676) |
 | ὑπερφίαλος / ὑπέροπλος | overbearing / arrogant | ὑπερφίαλος "overbearing" (3.106, 5.881, 13.621, 15.94); ὑπέροπλον "arrogantly" (15.185), ὑπεροπλίῃσι "arrogance" (1.205) |
 | ἔκπαγλος | terrible; beyond measure | ἐκπάγλοις ἐπέεσσιν "with terrible words" (15.198); ἔκπαγλον ἐπεύξατο "boasted terribly" (13.413, 14.453); "beyond measure" (3.415, 5.423) |
 | ἠλίβατος / αἰγίλιψ | lofty / sheer | ἠλίβατος πέτρη "a lofty rock" (15.273, 15.619; 16.35); αἰγίλιπος πέτρης "a sheer rock" (9.15, 13.63) |
 | ἀολλέες / ἀθρόοι / ὁμιλαδόν | in a body / all together / in a mass | ἀολλέες (5.498, 12.78, 13.136 = 15.306, 15.312, 15.494, 15.718); ἀθρόοι "together", "all together" (2.439, 14.38, 15.657); ὁμιλαδόν (12.3, 15.277) |
-| χάζομαι / ἀναχάζομαι / ὑπείκω | draw back / give ground / give way | χάζεσθε μάχης "draw back from the battle" (15.426; 3.32, 13.165); ἀνεχάζετο "gave ground" (5.600, 11.461), with τυτθόν "drew back a little way" (5.443, 15.728); ὑποείξω "I will give way" (1.294; 15.211, 15.227); in Book 16 at 707, 710, 736, 817, 819 |
+| χάζομαι / ἀναχάζομαι / ὑπείκω | draw back / give ground / give way | χάζεσθε μάχης "draw back from the battle" (15.426; 3.32, 13.165); ἀνεχάζετο "gave ground" (5.600, 11.461), with τυτθόν "drew back a little way" (5.443, 15.728); ὑποείξω "I will give way" (1.294; 15.211, 15.227); in Book 16 at 707, 710, 736, 817, 819; ἀναχαζομένοιο, ἀνεχάζετο "gave ground" (17.47, 17.108, 17.129) |
 | παύομαι + gen. / παύω | cease from / stop | παύσασθαι πολέμοιο "cease from war" (7.376; 15.58, 15.160, 15.176); ἔπαυσε μάχης "stopped him from battle" (12.389; 15.15, 15.459) |
 | μενεαίνω | be eager to; rage | with an infinitive "be eager to" (3.379, 13.628; 15.507, 15.565); alone "rage" (4.32, 15.104, 15.617) |
 | λίσσομαι / λιτανεύω / γουνοῦμαι, γουνάζομαι | beg / entreat / implore | λίσσετο "begged" (1.15, 12.49, 15.660); λιτάνευε "entreated" (9.581); γουνούμενος "imploring" (9.583, 15.660), γουνάζομαι "I implore you" (15.665) |
@@ -149,7 +149,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | βλάπτω | harm; catch; foil | βλάπτουσʼ ἀνθρώπους "doing harm to men" (9.507); βλάπτε φρένας "was harming our minds" (15.724); ἐνὶ βλαφθείς "caught in it" (6.39; 15.647); βλαφθέντα βέλεμνα "missiles foiled" (15.484, 15.489); βεβλαμμένον ἦτορ "harmed in the heart" (16.660) |
 | κυδαίνω | give glory | 5.448, 10.69, 13.348, 13.350; τίμα καὶ κύδαινε "honored him and gave him glory" (15.612) |
 | μόρσιμος | fated | μόρσιμον ἦεν "it was fated" (5.674); μόρσιμον ἦμαρ "his fated day" (15.613), as αἴσιμον ἦμαρ "the fated day" (8.72) |
-| δῃόω | cut down | δῄουν "cut each other down" (11.71; 15.708) |
+| δῃόω | cut down | δῄουν "cut each other down" (11.71; 15.708); δῃῶν "mauling", of a lion with a cow it has killed (17.65) |
 | ἀτειρής | unyielding | 3.60, 5.292, 7.247, 14.25; ἀκμῆτας καὶ ἀτειρέας "unwearied and unyielding" (15.697); of a voice "tireless" (13.45) |
 | φέρτατος | strongest | 1.581, 2.769; φέρτατον υἱόν "the strongest son" (15.526); "mightiest" (7.289) |
 | ἄρκιος | sure | 2.393, 10.304, 15.502 |
@@ -160,7 +160,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | θρῆνυς / ἄκμων | footstool, bench / anvil | θρῆνυς "footstool" (14.240), on a ship "bench" (15.729); ἄκμονας "anvils" (15.19) |
 | ἰαίνω | warm | οὐδʼ ἰάνθη "was not warmed" (15.103) |
 | μαρμαίρω, μαρμάρεος, μάρμαρος | gleaming | ἔντεα μαρμαίροντα "gleaming armor" (12.195; 13.22); σὺν ἔντεσι μαρμαίροντας "gleaming in their armor" (16.279); χάλκεα μαρμαίροντα "bronze, gleaming" (16.664); μάρμαρον ὀκριόεντα "jagged and gleaming" (16.735; the boulder of 12.380) |
-| μιαίνω | stain | μιαίνῃ "stains" ivory with purple (4.141); μιάνθην "were stained" (4.146); μιάνθησαν, μιαίνεσθαι "was stained", "to be stained", of the helmet's crest (16.795, 16.797) |
+| μιαίνω | stain | μιαίνῃ "stains" ivory with purple (4.141); μιάνθην "were stained" (4.146); μιάνθησαν, μιαίνεσθαι "was stained", "to be stained", of the helmet's crest (16.795, 16.797); ἐμιαίνετο "were stained", the horses' manes in the dust (17.439) |
 | μεταπρέπω | stand out among | 2.579, 11.720, 13.175, 15.550; 16.194, 16.596, 16.835 |
 | ἀνίημι | let loose; set on | ἀνέντες, ἀνέηκεν "let loose" (5.761, 5.881); "set on", of a god (5.405, 14.362); θυμὸν ἐνὶ στήθεσσιν ἀνῆκεν "let loose the spirit in his breast" (16.691) |
 | κερτομέω | taunt | κερτομέων "to taunt" (2.256); τὸν δʼ ἐπικερτομέων "taunting him" (16.744; again 24.649) |
@@ -176,6 +176,31 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἀσπερχές | relentlessly | ἀσπερχὲς μενεαίνεις "that you rage so relentlessly" (4.32); ἀσπερχὲς κεχολῶσθαι "to be relentlessly angry" (16.61): vehemence that will not stop (Od. 1.20) |
 | ὀλοφύρομαι | grieve for; lament | with a genitive "grieve for" (8.33, 11.656; 16.17, 16.450); the participle before speech "lamenting" (5.871, 11.815, 15.114) |
 | ἀνάγκη, ἀναγκαῖος | compulsion | ἀνάγκῃ "under compulsion" (16.305); ἦμαρ ἀναγκαῖον "the day of compulsion" (16.836), beside ἐλεύθερον ἦμαρ "the day of freedom" (16.831) and δούλιον ἦμαρ "the day of slavery" (6.463) |
+| ἀήρ / ὀμίχλη / αἰθήρ / αἴθρη | mist / fog / upper air / clear sky | ἀήρ "mist" (3.381, 5.776, 8.50, 16.790; the mist over the body of Patroclus, 17.269, 17.368, 17.376, 17.644, 17.645, 17.649), kept apart from ἀχλύς "mist" over the eyes only by context; ὀμίχλη "mist" in similes (1.359, 3.10, 13.336), "fog" beside ἀήρ at 17.649; αἰθήρ "upper air" everywhere (2.412, 14.288, 16.365; ὑπʼ αἰθέρι "under the upper air" 17.371, 17.425); αἴθρη "clear sky" (17.646; αἰθρηγενέος "born of the clear sky" 15.171) |
+| περιβαίνω / ἀμφὶ (περὶ) … βαίνω | stand over / bestride | περιβάς, περιβάντα "standing over, stood over" (5.21, 8.331 = 13.420, 14.424; 17.80, 17.313); ἀμφὶ … βαῖνε "bestrode" (5.299; 17.4), περὶ … βαῖνε (17.6); βεβήκει "stood over" (17.137, 17.706) |
+| πρὸς δαίμονα / ὑπὲρ θεόν / ὑπὲρ Διὸς αἶσαν | against a god's will / in defiance of a god / beyond the portion of Zeus | 17.98, 17.104 / 17.327 (as ὑπὲρ ὅρκια "in defiance of the oaths", 3.299, 4.67) / 17.321 |
+| ἀμελέω | neglect | 8.330, 13.419; 17.9, 17.697 |
+| προφρονέως | with a ready heart | 5.810, 5.816, 6.173, 7.160; 17.224 |
+| ὄνομαι | scorn; make light of | ὠνοσάμην "I … scorn" (14.95 = 17.173), ὤνατο "scorned" (17.25); ὀνόσαιτο "make light of" (4.539, 13.127; 17.399) |
+| ἐλέγχιστος | most despised | 2.285; 17.26 |
+| δαίω (δέδηε) | blaze | 2.93, 12.35, 12.466, 13.736; 17.253 |
+| ἰθύω | make straight | 15.693, 16.582; 17.281, 17.353 |
+| πρηνής | face down | 5.58, 6.43, 15.543, 16.310, 16.413, 16.579; 17.300; "headlong" only of the fall from the wall (12.396) |
+| τανύω (τέτατο), of battle | stretch (tight) | 11.336, 12.436 = 15.413, 14.389, 16.662; 17.401, 17.543, 17.736; the hide of the simile, τανύειν, τανύουσι, τάνυται "stretch" (17.390–393) |
+| γυμνός | naked | of a man without armor (16.815; 17.711) and of a stripped body (17.122 = 17.693) |
+| δαιδάλεος | intricate, intricately worked | 4.135, 6.418, 8.195, 13.331, 13.719; 17.448 |
+| ἀγακλεής | famous | ἀγακλῆος "famous" (16.738), ἀγακλεές (17.716); kept apart from κυδάλιμος "glorious" |
+| θηρητήρ / ἐπακτήρ | hunter / huntsman | 5.51, 11.292, 15.581; 17.726 / 17.135 |
+| χειμών | winter | 3.4, 12.279; 17.549; kept apart from λαῖλαψ "storm" (17.57) |
+| κίρκος / ἴρηξ | falcon / hawk | 17.757 / 13.62, 15.237, 16.582 |
+| ἐνηής, ἐνηείη | gentle, gentleness | of Patroclus (17.204, 17.670) |
+| κινυρός | plaintive | κινυρή, of the cow over her first calf, "lowing plaintively" (17.5; only here) |
+| μῶλος | toil | μῶλος Ἄρηος "the toil of Ares" (2.401, 7.147, 16.245); 17.397; it shares "toil" with πόνος, as the two share the passage 17.397–401 |
+| ἀρητός | accursed | 17.37 = 24.741 (disputed: see the note on 17.37) |
+| φύξηλις | runaway | 17.143 (only here) |
+| μείλιχος / μειλίχιος | kind / soothing | μείλιχος εἶναι "to be kind", of Patroclus (17.671; μείλιχον, of Patroclus again, 19.300; 24.739); μειλίχιος "soothing" (9.113) |
+| ἐναλίγκιος / εἰσάμενος, ἐεισάμενος | like / in the likeness of | the two stay apart where they meet: Φαίνοπι … ἐναλίγκιος "like Phaenops" (17.583) and τῷ μιν ἐεισάμενος "in his likeness" (17.585), as δέμας Περίφαντι ἐοικώς "in form like Periphas" (17.323) before 17.326 |
+| οὖλος (of a cry) | of death | οὖλον κεκλήγοντες "screaming a cry of death" (17.756, 17.759): οὖλος "deadly", the word rendered "baneful" of the Dream and of Ares (2.6, 5.461) (see the note on 17.756) |
 
 ## Epithets and formulas
 
@@ -279,7 +304,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ὑπὲρ ὅρκια δηλήσασθαι | do harm in defiance of the oaths (3.299, 4.67) |
 | ὑπερκύδαντες Ἀχαιοί | the exultant Achaeans |
 | ἀγκυλομήτης Κρόνος | crooked-counseling Cronus |
-| ἐϋμμελίης (Πρίαμος) | of the good ash spear |
+| ἐϋμμελίης (Πρίαμος) | of the good ash spear; also of the sons of Panthous (17.9, 17.23, 17.59) |
 | Ἴλιος ἱρή | sacred Ilios |
 | Ἥρη Ἀργείη / Ἀλαλκομενηῒς Ἀθήνη | Argive Hera / Athena of Alalcomenae |
 | Λυκηγενής, κλυτότοξος (Ἀπόλλων) | the Lycian-born, famed for his bow |
@@ -290,7 +315,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | πλήξιππος / ἱππηλάτα | driver of horses / horse-driving |
 | Δαναοὶ ταχύπωλοι | the Danaans of the swift horses |
 | τόξων ἐῢ εἰδώς | well skilled with the bow |
-| ὑπόδρα ἰδών | looking at him darkly |
+| ὑπόδρα ἰδών | looking at him darkly; with a named object, "looking at Hector darkly" (17.141; as 15.13) |
 | ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων | what a word has escaped the barrier of your teeth |
 | ἀλλʼ ἄγε δή | But come |
 | τὸν δὲ σκότος ὄσσε κάλυψεν | darkness covered his eyes |
@@ -338,7 +363,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ταναήκης χαλκός | the long-edged bronze |
 | κῆρυξ ἠπύτα | the loud-voiced herald |
 | ἀκαλαρρείτης, βαθύρροος Ὠκεανός | gently flowing, deep-streaming Oceanus |
-| Δαρδανίδης Πρίαμος, θεόφιν μήστωρ ἀτάλαντος | Priam, descendant of Dardanus, a counselor equal to the gods |
+| Δαρδανίδης Πρίαμος, θεόφιν μήστωρ ἀτάλαντος | Priam, descendant of Dardanus, a counselor equal to the gods; θεόφιν μήστωρ ἀτάλαντος also of Patroclus, "a counselor equal to the gods" (17.477) |
 | Ἠὼς κροκόπεπλος / ἐΰθρονος Ἠώς | saffron-robed Dawn / Dawn of the fair throne |
 | πολυδειράς / πολύπτυχος Οὔλυμπος | many-ridged / many-folded Olympus |
 | Ἴδη πολυπῖδαξ, μήτηρ θηρῶν / Ἰδαῖα ὄρεα | Ida of the many springs, mother of wild beasts / the mountains of Ida |
@@ -379,7 +404,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | φόρμιγξ λίγεια | a clear-toned lyre (9.186) |
 | πῦρ ἀΐδηλον / δήϊον πῦρ | the destroying fire (2.455, 9.436) / the consuming fire (6.331, 9.347, 9.674) |
 | ὁμοίϊος πόλεμος / πόλεμος φθισήνωρ | war, common to all (9.440) / man-destroying war (2.833, 9.604) |
-| Φοῖνιξ ἄττα γεραιὲ διοτρεφές | Phoenix, old father, nurtured by Zeus (9.607) |
+| Φοῖνιξ ἄττα γεραιὲ διοτρεφές | Phoenix, old father, nurtured by Zeus (9.607); Φοῖνιξ ἄττα γεραιὲ παλαιγενές "Phoenix, old father, aged one" (17.561) |
 | νύκτα διʼ ἀμβροσίην / νύκτα διʼ ὀρφναίην / θοὴν διὰ νύκτα μέλαιναν | through the ambrosial night (2.57, 10.41, 10.142) / through the dark night (10.83, 10.276, 10.386) / through the swift black night (10.394, 10.468) |
 | ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον / τοὶ γὰρ ἐγώ τοι ταῦτα μάλʼ ἀτρεκέως καταλέξω | But come, tell me this, and give me an exact account (10.384 = 10.405) / Well then, I will tell you all this very exactly (10.413; 10.427) |
 | ἀριστῆες Παναχαιῶν / πάντας ἀρίστους | the best of all the Achaeans (7.73, 7.327, 10.1) / all the best (3.19, 7.150, 10.273, 10.300) |
@@ -549,6 +574,28 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | νώροπι / ἤνοπι / αἴθοπι χαλκῷ | gleaming bronze: three epithets of bronze of uncertain sense share one English word (νῶροψ 7.206, 13.406, 16.130; ἦνοψ 16.408, 18.349; αἶθοψ 4.495) |
 | μέγα φρονέοντε | in high spirits (8.553, 11.325; 16.258, 16.758, 16.824) |
 | κελαινεφὲς αἷμα | dark blood (16.667), the same English as αἷμα κελαινόν |
+| φρένας ἀμφὶ μελαίνας | heart, dark on every side (17.83, 17.499, 17.573), as φρένες ἀμφιμέλαιναι (1.103) |
+| κινήσας ῥα κάρη προτὶ ὃν μυθήσατο θυμόν | he shook his head and spoke to his own heart (17.200, 17.442) |
+| Τρῳῇσι(ν) … κυσί | the Trojan dogs (17.127, 17.255, 17.272–273) |
+| ἠέρα πολλὴν χεῦε | poured a thick mist (5.776, 8.50; 17.269) |
+| ἠέρι κατέχοντο | were covered in mist (17.368, 17.644) |
+| ζωὸς ἐών· νῦν αὖ θάνατος καὶ μοῖρα κιχάνει | while he lived; but now death and fate have overtaken him (17.478 = 17.672 = 22.436) |
+| θεῶν ἐν γούνασι κεῖται | lie on the knees of the gods (17.514; again 20.435; Od. 1.267, 1.400, 16.129) |
+| μένος ἠΰ | noble might (17.456; again 20.80, 23.524, 24.6, 24.442) |
+| δὴν δέ μιν ἀμφασίη ἐπέων λάβε, τὼ δέ οἱ ὄσσε / δακρυόφι πλῆσθεν, θαλερὴ δέ οἱ ἔσχετο φωνή | and for a long time speechlessness took him, and his two eyes / filled with tears, and his strong voice was checked (17.695–696 = Od. 4.704–705; the second verse again 23.397 and Od. 19.472) |
+| πάντων, ὅσσά τε γαῖαν ἔπι πνείει τε καὶ ἕρπει | of all the things that breathe and creep upon the earth (17.447 = Od. 18.131) |
+| πόδας ταχύς | swift of foot (13.249, 13.348, 13.482; 17.676, 17.709), kept apart from πόδας ὠκύς and ποδώκης "swift-footed" |
+| γυμνόν· ἀτὰρ τά γε τεύχεʼ ἔχει κορυθαίολος Ἕκτωρ | naked; for Hector of the gleaming helmet has his armor (17.122, 17.693) |
+| φραζώμεθα μῆτιν ἀρίστην, / ἠμὲν ὅπως τὸν νεκρὸν ἐρύσσομεν, ἠδὲ καὶ αὐτοὶ | let us ourselves consider the best plan, / both how we may drag away the body, and how we ourselves (17.634–635 = 17.712–713) |
+| Αἴαντʼ Ἀργείων ἡγήτορε | Ajaxes, leaders of the Argives (17.508, 17.669) |
+| καὶ τότʼ ἄρʼ Αἴας εἶπε βοὴν ἀγαθὸν Μενέλαον | And then Ajax spoke to Menelaus, good at the war cry (17.237, 17.651) |
+| ὣς ἔφατʼ, οὐδʼ ἀπίθησε βοὴν ἀγαθὸς Μενέλαος | So he spoke, and Menelaus, good at the war cry, did not disobey (17.246, 17.656) |
+| τὸν δὲ μάλʼ αἶψʼ ἐνόησε μάχης ἐπʼ ἀριστερὰ πάσης | And very quickly he saw him on the left of all the battle (17.116, 17.682) |
+| λυγρῆς ἀγγελίης | the grievous news (17.642, 17.686) |
+| μέγα ἰάχων / μέγα ἴαχον | with a great cry (14.421; 17.213) / shouted aloud (4.506 = 17.317) |
+| ὧδε δέ τις εἴπεσκε(ν) / αὐδήσασκεν | and this is what a man would say (3.297; 17.414); "a man of the great-hearted Trojans would speak" (17.420) |
+| μάχη πολύδακρυς | the tearful battle (17.192) |
+| κακῶν φέρτατον | of evils … the best (17.105) |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -945,7 +992,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **12.3–35** — The narrator looks past the end of the poem to the wall's destruction after the sack, carrying out Zeus' word to Poseidon (7.459–463): 12.5–6 echo 7.449–450 and 12.31 echoes 7.462, and 12.18 and 12.32 keep the verb of 7.463 (ἀμαλδύνω, "bring to nothing", only in these three verses of Homer). The wall "stood firm" (ἔμπεδον ἦεν, 12.9, 12.12) while Hector lived, Achilles kept up his wrath and Priam's city stood; Hector breaks its gate in this book (12.445–471), and Apollo throws part of it down at 15.361–366. For the ancient suspicion of the whole story and Aristotle's remark that the poet who made the wall made it vanish (Strabo 13.1.36), see 7.443–464. The scholia on 12.3–4 say the same: the poet invented the wall to move the battle from the plain to a fight at a wall (τειχομαχία), and told of its destruction so that later men could not refute his invention. Rendered as transmitted.
 - **12.6–8** — ὄφρά σφιν … ἐντὸς ἔχον ῥύοιτο: the purpose clause goes with the building (τὸ ποιήσαντο, 12.5), the hecatombs not given being a parenthesis; it can also be taken with the hecatombs, the offering that should have won the gods' favor for the wall (compare Poseidon's complaint, 7.449–450). ἔχον is the neuter participle, the wall "holding" the ships and plunder within. Rendered in the Greek order.
 - **12.13–15** — πέρθετο δὲ Πριάμοιο πόλις δεκάτῳ ἐνιαυτῷ: the narrator tells the sack and the homecoming as past events, "in the tenth year", as Calchas read the sign of the sparrows (2.328–329); the ninth year was passing when Agamemnon tested the army (2.134, 2.295). Rendered "was sacked in the tenth year".
-- **12.19–22** — The rivers of Ida. The Rhesus, Heptaporus, Caresus, Rhodius and Granicus are named only here in Homer (the Aesepus also at 2.825 and 4.91; the Scamander and Simoeis often). Hesiod's catalogue of the rivers that Tethys bore to Ocean has the Rhesus, Heptaporus, Rhodius, Granicus, Aesepus, Simoeis and Scamander (Theogony 337–345). Strabo, after Demetrius of Scepsis, gives their courses (13.1.43–44): the Scamander, Granicus and Aesepus rise close together on Cotylus, a height of Ida, the Granicus and Aesepus running north to the Propontis; the Heptaporus, also called Polyporus, is crossed seven times on one road (compare Strabo 13.1.10); the Rhesus was in Strabo's day the Rhoeites, or else a stream that joins the Granicus; the Caresus runs into the Aesepus, and the Rhodius into the Aenius, though Strabo also reports that it reaches the sea between Abydus and Dardanus, or joins the Aesepus (Strabo 13.1.28). Ῥοδίος is accented as printed; the adjective "Rhodian" is Ῥόδιος. An ancient note on 12.22 takes ὅθι with the Simoeis, which runs through the middle of the plain, and holds that Hesiod, the younger poet, took these minor rivers from Homer (scholium A). Rendered "the Rhesus and Heptaporus, the Caresus and Rhodius, / the Granicus and Aesepus".
+- **12.19–22** — The rivers of Ida. The Rhesus, Heptaporus, Caresus, Rhodius and Granicus are named only here in Homer (the Aesepus also at 2.825 and 4.91; the Scamander and Simoeis often). Hesiod's catalogue of the rivers that Tethys bore to Ocean has the Rhesus, Heptaporus, Rhodius, Granicus, Aesepus, Simoeis and Scamander (Theogony 337–345). Strabo, after Demetrius of Scepsis, gives their courses (13.1.43–44): the Scamander, Granicus and Aesepus rise close together on Cotylus, a height of Ida, the Granicus and Aesepus running north to the Propontis; the Heptaporus, also called Polyporus, is crossed seven times on one road (compare Strabo 13.1.10); the Rhesus was in Strabo's day the Rhoeites, or else a stream that joins the Granicus; the Caresus runs into the Aesepus, and the Rhodius into the Aenius, though Strabo also reports that it reaches the sea between Abydos and Dardanus, or joins the Aesepus (Strabo 13.1.28). Ῥοδίος is accented as printed; the adjective "Rhodian" is Ῥόδιος. An ancient note on 12.22 takes ὅθι with the Simoeis, which runs through the middle of the plain, and holds that Hesiod, the younger poet, took these minor rivers from Homer (scholium A). Rendered "the Rhesus and Heptaporus, the Caresus and Rhodius, / the Granicus and Aesepus".
 - **12.23** — ἡμιθέων γένος ἀνδρῶν: the only ἡμίθεος in Homer. The narrator looks back on the men who fought at Troy from a later age, as Hesiod names his fourth race "the godlike race of hero-men, who are called demigods (ἡμίθεοι)", destroyed in war at Thebes and at Troy (Works and Days 159–165); compare οἷοι νῦν βροτοί εἰσι, "such as mortals are now" (5.304, 12.383, 12.449). Rendered "the race of men half-divine".
 - **12.26** — ἁλίπλοα τείχεα θείη (ἁλίπλοος only here): "make the walls sea-floating", swept away and carried off on the sea. The subject of θείη may be Zeus, whose rain is named last, or Apollo, who turns the rivers (12.24–25); "he" leaves it open. Rendered "make the walls float out to sea".
 - **12.36** — δούρατα πύργων: the timbers of the towers, struck by the missiles (βαλλόμενʼ, 12.37), as δοῦρα are a ship's timbers (2.135); the wall rests on logs and stones (12.29) and is "of stone" (12.178). Rendered "the timbers of the towers".
@@ -1096,7 +1143,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **15.526–527** — Λαομεδοντιάδης is nominative, with Λάμπος: Lampus is the son of Laomedon (20.237–238), and Dolops his son, so that Dolops, Caletor (15.419) and Melanippus (15.546) are all Hector's cousins (ἀνεψιός, 15.422, 15.554).
 - **15.530–531** — Strabo places this Ephyra in Elis, on the Selleis that flows from Pholoe, a fourth Ephyra beside the Thesprotian, the Thessalian and Corinth, and takes from it both Tlepolemus' mother (2.659) and Meges' corselet (Geography 8.3.5). The Selleis near Arisbe in the Troad is another river (2.839, 12.97).
 - **15.536** — κύμβαχον ἀκρότατον: the crown of the helmet, in which the plume is set; at 5.586 κύμβαχος is "headfirst". Rendered "the topmost peak".
-- **15.547–548** — Strabo quotes these lines to show that Priam's land reached along the coast, pairing Melanippus' herds at Percote with Democoon at Abydus (4.499–500; Geography 13.1.7).
+- **15.547–548** — Strabo quotes these lines to show that Priam's land reached along the coast, pairing Melanippus' herds at Percote with Democoon at Abydos (4.499–500; Geography 13.1.7).
 - **15.598** — Θέτιδος ἐξαίσιον ἀρήν: Thetis' prayer in Book 1 (1.503–510); ἀρή is "prayer" (see 12.334), and ἐξαίσιος (only here in the Iliad) "beyond measure", beyond what is fitting. Rendered "the excessive prayer of Thetis".
 - **15.601–602** — παλίωξιν … Τρώων: the counterattack is made against the Trojans, as Zeus has said (15.69–71; παλίωξις 12.71). Rendered "a counterattack / against the Trojans".
 - **15.653–656** — εἰσωποὶ δʼ ἐγένοντο νεῶν has no expressed subject: the Achaeans, driven back, now face their ships, and the first row of ships, those beached farthest toward the plain (as at 14.31; not the row nearest the sea of 14.75), hems them in, while "the others", the Trojans, pour after them. Rendered literally.
@@ -1142,3 +1189,34 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **16.810** — καὶ γὰρ δὴ τότε … πρῶτʼ ἐλθὼν σὺν ὄχεσφι: the Greek does not say whether Euphorbus brought down his twenty men on this same day, his first, or earlier in the war.
 - **16.849–850** — Patroclus ranks his killers: fate and the son of Leto, then of men Euphorbus, and Hector "the third to slay" him; ἐξεναρίζεις is "slay", for the gods have already taken his armor (16.846).
 - **16.855–857** (= 22.361–363) — ἐκ ῥεθέων, "from his limbs" (again 22.68). In ἀνδροτῆτα the first syllable must be short, which the cluster -νδρ- does not allow; the same problem returns at 22.363 and 24.6. Plato quotes the two verses, with Ἄϊδόσδε, among those to be struck out so that the young will not fear death (*Republic* 3.386d).
+- **17.4–5** — The cow over her first calf: κινυρή (only here) is "plaintive", as Eustathius glosses it (οἰκτρόφωνος), and Walter Leaf takes the point of the simile to be the mother's anxious care for her young (*Commentary*, on 17.4–5); hence "lowing plaintively".
+- **17.37** (= 24.741) — ἀρητόν, printed here and in Andromache's lament, is "accursed", the sense of ἀρή "curse, bane". Leaf (on 17.37) doubts that ἀρητός can mean "accursed", since ἀράομαι means only "pray", and inclines to ἄρρητον "unspeakable" (as Od. 14.466); "accursed" follows the printed word.
+- **17.54** — ἀναβέβροχεν, which Leaf reports as Zenodotus' reading (the vulgate has ἀναβέβρυχεν), is the perfect of ἀναβρέχω "drench": "where water has drenched it in plenty". The vulgate word, akin to βρύω (17.56), would give "where water wells up".
+- **17.149–153** — Glaucus' question opens with πῶς κε … σαώσειας (149), but the digitized text has no question mark in these lines. The English ends it at 153, "while he lived?", where the Greek has a raised dot (ἐών·); the punctuation of the printed edition could not be checked.
+- **17.163** — αὐτόν is Sarpedon's body, "as opposed to the arms" (Leaf on 17.163): "his body". Glaucus does not know that Apollo has already carried the body to Lycia (16.667–683).
+- **17.205** — οὐ κατὰ κόσμον, "against all order": Zeus says Hector took the armor from Patroclus' head and shoulders, but at 16.793–804 Apollo strikes the helmet from his head and looses the corselet. Leaf (on 17.205) notes the inconsistency and asks why it should be "against all order" to strip a slain enemy, "perhaps because it is of divine origin".
+- **17.210–211** — ἥρμοσε is taken as transitive, with Zeus (209) as subject, "he fitted the armor to Hector's body", as Leaf takes it and as 3.333 ἥρμοσε δʼ αὐτῷ "fitted it to himself"; some read the armor as the subject, "the armor fitted Hector's body". ἐνυάλιος (211), printed lowercase, is "Enyalius", the god's name in apposition to Ares, as everywhere else in the Iliad (2.651, 7.166, 13.519, 17.259); Leaf calls it here "a mere epithet of Ares".
+- **17.239** — αὐτώ περ "by ourselves", that is, without help (Leaf on 17.239); Ajax goes on to ask Menelaus to call the best of the Danaans (17.245).
+- **17.249–251** — δήμια πίνουσιν "drink at the public cost": δήμια is adverbial, and the king, who has free gifts from his people, offers the chiefs hospitality in return (Leaf on 17.250, comparing 4.259, 4.343 and 9.73). Leaf finds strange the turn from the second person to the third and Menelaus' naming of himself; the variant Ἀτρεΐδῃ Ἀγαμέμνονι ποιμένι λαῶν avoids it, and Düntzer would reject 249–251, which Leaf thinks hardly justified.
+- **17.297** — παρʼ αὐλόν: αὐλός, "tube", is taken as the socket of the spearhead, along which the brain spurts; Leaf (on 17.297) prefers it, "as the scholia say", to the opening of the helmet, and rejects the jet of blood (as αὐλὸς παχύς at Od. 22.18).
+- **17.306–309** — Hector's spear kills Schedius, but the verb waits for the resumption τὸν βάλʼ (309): the English keeps the anacoluthon with a dash, as 15.430–433.
+- **17.324** — "beside Aeneas' old father": οἱ is Aeneas and the old father Anchises; the name is added because after "son of Epytus" the English "his" would point to Epytus. Ἠπυτίδης, "son of Epytus", is a name made from the herald's calling (ἠπύτα κῆρυξ "the loud-voiced herald", 7.384; Leaf on 17.324).
+- **17.327, 17.321** — ὑπὲρ θεόν "in defiance of a god"; Leaf (on 17.327) takes it as the same thought as ὑπὲρ Διὸς αἶσαν "beyond the portion of Zeus" (17.321).
+- **17.330** — ὑπερδέα δῆμον: "a people above fear", as Eustathius explains the word (from δέος). The ancient lexicon of Apollonius explains it from δέω "lack", "much inferior"; Leaf (on 17.330) calls all the ancient explanations "virtually impossible" and adopts the conjecture ὑπὲρ Δία, "in defiance of Zeus". The English follows the printed word in the sense that agrees with "trusting … in their numbers" on the same line.
+- **17.368** — μάχης ἐπί θʼ ὅσσον, as most editors print it, explained as ἐφʼ ὅσον τε μάχης, "over so much of the fight": "in all that part of the battle where …". Leaf (on 17.368) calls such a displacement of τε impossible and prefers μάχῃ ἔνι ὅσσοι; the English follows the printed text.
+- **17.371** — ὑπʼ αἰθέρι "under the upper air", kept apart from αἴθρη "clear sky" (17.646): the contrast of the passage is mist (ἀήρ) over the body and the bright upper air over the rest of the battle.
+- **17.383, 17.457, 17.579, 17.750** — πόλεμον δέ, οὖδας δέ, φόβον δέ, πεδίον δέ: the suffix of direction -δε printed as a separate word (πόλεμόνδε "to war", οὖδάσδε "to the ground", φόβονδε "into flight", πεδίονδε "onto the plain"), as at 16.188 and the places listed there; the δέ is not the conjunction (at 17.750 the clause already has δέ τε).
+- **17.404–425** — Leaf (on 17.404) quotes a scholium: Zenodotus did not write 404–425, and Aristarchus athetized only 420. Leaf glosses τό (404) as "wherefore"; on 420 he takes ὥς as "in the same manner" or as ὧδε, and calls Ludwich's extension of the athetesis "entirely without authority".
+- **17.408–411** — νόσφιν "in secret" (Leaf on 17.408, comparing 16.36–37). The prophecy at 18.9–11, Leaf observes, "almost directly contradicts" 410–411, and he puts the discrepancy down to difference of authorship.
+- **17.424** — σιδήρειος ὀρυμαγδός "the iron din": Leaf (on 17.424) takes the epithet as "inflexible, unwearying" (compare 23.177 πυρὸς μένος σιδήρεον).
+- **17.448–449** — ἐποχήσεται: "not behind you … will Hector, son of Priam, ride", the verb of Hector's oath to Dolon (10.330 "shall ride behind those horses").
+- **17.455** — The digitized text ends Zeus' speech with a raised dot before the closing quotation mark (ἔλθῃ·”); the same verse ends with a full stop at 11.194 and 11.209. Left as printed, as at 2.242.
+- **17.464** — ἱερῷ ἐνὶ δίφρῳ "in the sacred chariot": Leaf (on 17.464) suggests "as drawn by steeds of divine origin"; Schulze takes ἱερός here as "swift".
+- **17.535** — δεδαϊγμένον ἦτορ "with his heart torn": Leaf (on 17.535) takes ἦτορ as "the life" (compare 15.252, 16.660), since the wound is in the belly (17.524), and calls Heyne's conjecture δεδαϊγμένοι, of the Trojans who leave him, "more natural".
+- **17.545–546** — Leaf (on 17.545) reports that 545 was athetized (by Zenodotus, or by Aristarchus on Ludwich's reading of the scholium) and judges the couplet an interpolation: Zeus does not change his design (17.593–596), and he is on Ida, not in heaven. νόος ἐτράπετʼ αὐτοῦ recalls Od. 7.263.
+- **17.547** — The rainbow is a portent "of war or of chilling winter", a part of the storm-cloud with no associations of hope; Leaf (on 17.547) compares the τέρας of 11.28 and takes πορφύρεος as "lurid, dark" rather than a bright color.
+- **17.612–616** — πεζός: Idomeneus had come on foot, and Coeranus drove the horses up to save him; "Idomeneus" is added to the English because the subject is not expressed. Leaf (on 17.612) thinks the parenthesis was added to explain how Idomeneus came to be on foot.
+- **17.617–618** — δόρυ πρυμνόν: πρυμνόν is taken as an adverb, "by the roots", as Leaf (on 17.618) takes it, comparing 5.339; as an epithet of the spear, "the butt-end", it gives no sense.
+- **17.664** — = 11.555, except that the digitized text prints ἀπονόσφιν here and ἀπὸ νόσφιν there; the English is the same.
+- **17.733** — σταίησαν, a late form for σταῖεν, and τράπετο χρώς, where Leaf (on 17.733) wants the imperfect τρέπετο for repeated action; the English "whenever" (732) renders the repeated action of the optative.
+- **17.756, 17.759** — οὖλον κεκλήγοντες "screaming a cry of death": οὖλος = ὀλοός "deadly", a death-shriek, as Leaf (on 17.756) takes it after Buttmann, who distinguished three words of this form; others take it as οὖλος "woolly", "a confused, thick cry", or as οὖλος "whole", "unceasingly".

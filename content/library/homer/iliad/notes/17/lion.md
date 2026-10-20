@@ -1,0 +1,11 @@
+---
+summary: The lions of Book 17 are the defenders of the body of Patroclus. Menelaus stands over the dead Euphorbus like a mountain lion over the cow it has killed, gives ground like a lion driven from a farmyard, and leaves the body again in the verses of Ajax's retreat in Book 11; Ajax stands over Patroclus like a lion over its young; and Automedon mounts his chariot bloody like a lion that has devoured a bull (17.61–69, 17.108–113, 17.133–137, 17.540–542, 17.657–667).
+---
+
+**Menelaus.** Menelaus, mocking Euphorbus, begins with the beasts: “Neither is the leopard's might so great, nor the lion's, / nor the deadly wild boar's”, as the pride of the sons of Panthous (17.20–23; see [[leopard]] and [[boar]]). When he has killed Euphorbus, he is the lion himself: a mountain lion that snatches the best cow of a grazing herd, breaks her neck and gulps down her blood and entrails, while dogs and herdsmen shout from far off and dare not come near (17.61–69; see [[lion-among-cattle]]). The lion's moment is brief. When Hector comes, Menelaus gives ground “turning back again and again, like a bearded lion” that dogs and men drive from the steading (17.108–113), and when he leaves the body to find Antilochus he is the lion of Book 11 that goes off at dawn from the cattle it could not take, very unwillingly (17.657–667 = 11.548–557 in part; see [[lion-driven-from-the-farmyard]] and [[menelaus]]). λίς, the rarer word for the lion, is used at 17.109.
+
+**Ajax.** The other defender of the body is a lion with cubs: Ajax covers Patroclus with his broad shield “and stood like a lion over his young”, drawing down the skin of its brow over its eyes as the huntsmen come at it (17.132–137; see [[the-lion-and-its-cubs]] and [[ajax]]).
+
+**Automedon.** After he has killed Aretus and stripped him, Automedon mounts the chariot with his feet and hands bloody, “like a lion that has devoured a bull” (17.540–542; see [[lion-among-cattle]] and [[automedon]]).
+
+In Book 16 the lions were Patroclus' until Hector killed him like a lion overpowering a boar (16.823–826). In Book 17 they are the men who fight for his body, and for the first time a lion stands guard over its own young. The cubs come again when Achilles groans over the dead Patroclus like a bearded lion whose cubs a hunter has stolen (18.318–322).

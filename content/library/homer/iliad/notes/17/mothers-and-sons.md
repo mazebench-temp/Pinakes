@@ -1,0 +1,7 @@
+---
+summary: Menelaus stands over Patroclus as a cow stands over her first calf (17.4–5), and Achilles' ignorance is a mother's silence: Thetis often told him in secret the purpose of great Zeus, “But this time she did not tell him of so great an evil as had come about” (17.408–411).
+---
+
+**The cow and her calf.** The first simile of the book is a mother's: Menelaus bestrides the body “as a mother stands over her calf, / one that has borne her first, lowing plaintively, and never knew birth before” (17.4–5). Walter Leaf takes the point of it to lie only in the mother's affectionate care for her young, not in a defense against a beast of prey (*Commentary on the Iliad*, 1900, on 17.4; see the translation's note on 17.4–5, [[the-cow-and-her-calf]] and [[fighting-over-the-body]]).
+
+**Thetis.** Achilles did not expect Patroclus to sack Troy, with him or without him, “for often he had learned this from his mother, hearing it in secret, / who would report to him the purpose of great Zeus” (17.406–409); of Patroclus' death she had told him nothing (17.410–411). Leaf notes that a continued prophetic communication from Thetis is found only here, and that her prophecy of Patroclus' death in the next book almost directly contradicts these lines (on 17.408; 18.9–11; see [[thetis]] and [[foresight]]). Apollo, as Mentes, reminds Hector who Achilles is: the one “whom an immortal mother bore” (17.78).

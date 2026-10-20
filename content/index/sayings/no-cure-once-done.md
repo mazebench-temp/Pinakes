@@ -3,8 +3,8 @@ title: “No cure for an evil once it is done”
 greek: οὐδέ τι μῆχος ῥεχθέντος κακοῦ ἔστʼ ἄκος εὑρεῖν
 kind: saying
 tags: [fate, mind]
-summary: Odysseus' warning to Achilles: if the ships burn, grief will come to him afterward, “and there is no means to find a cure for an evil once it is done”; he must think now how to ward off the evil day. The Iliad says the same in another proverb, that a fool knows a thing once it is done, and the warning comes true when Patroclus dies.
-aliases: [no cure for an evil once it is done, too late, the fool knows it once it is done]
+summary: Odysseus' warning to Achilles: if the ships burn, grief will come to him afterward, “and there is no means to find a cure for an evil once it is done”; he must think now how to ward off the evil day. The Iliad says the same in another proverb, that a fool learns a thing once it is done, and the warning comes true when Patroclus dies.
+aliases: [no cure for an evil once it is done, too late]
 grc: ["ῥεχθέντος κακοῦ"]
 en: [a cure for an evil once it is done]
 passages:
@@ -17,7 +17,7 @@ passages:
 
 Phoenix ends the night's pleading with the same argument in his own terms: it would be worse to defend the ships when they are already burning (9.601–602). Both envoys foresee what happens. Achilles waits until the fire is at the ships, sends Patroclus, and loses him; when the news comes, “a black cloud of grief covered him” (ἄχεος νεφέλη, 18.22), and he wishes to die at once, since he was not there to save his friend (18.98–100; see [[the-death-of-patroclus]]).
 
-**The fool knows it once it is done.** The Iliad has a second proverb for the same truth, ῥεχθὲν δέ τε νήπιος ἔγνω, “a fool knows a thing once it is done”. Menelaus says it to Euphorbus, and Achilles to Aeneas, each warning a man to retreat before he comes to harm (17.32, 20.198; see [[nepios]]). The participle is the one Odysseus uses here.
+**The fool learns it once it is done.** The Iliad has a second proverb for the same truth, ῥεχθὲν δέ τε νήπιος ἔγνω, “a fool learns a thing once it is done” (17.32). Menelaus says it to Euphorbus, and Achilles to Aeneas, each warning a man to retreat before he comes to harm (17.32, 20.198; see [[a-fool-learns-once-it-is-done]] and [[nepios]]). The participle is the one Odysseus uses here.
 
 ## Outside Homer
 

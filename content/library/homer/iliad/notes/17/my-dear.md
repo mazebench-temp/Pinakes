@@ -1,0 +1,5 @@
+---
+summary: Menelaus calls Ajax to the body, “Ajax, come here, my friend”; Hector invites Glaucus to watch him fight, “come here, my friend”; and Ajax opens his fear for their lives with “My dear Menelaus.”
+---
+
+“Ajax, come here, my friend; for the sake of dead Patroclus / let us make haste, if we may bring at least his corpse to Achilles” (17.120–121; [[ajax]], [[menelaus]]). Hector answers Glaucus' rebuke with an invitation: “But come here, my friend, and stand by me, and watch my work, / whether I shall be a coward all day long, as you say” (17.179–180; [[glaucus]], [[hector]]), the verse that Athena, as Mentor, speaks to Odysseus among the suitors (*Odyssey* 22.233); Odysseus calls Diomedes with its first half in Book 11 (11.314). And Ajax to Menelaus: “My dear Menelaus, nurtured by Zeus, no longer do I expect / that we two by ourselves will come back from the war” (17.238–239; [[zeus-nurtured]]; see the translation's note on 17.239). The word of affection between comrades is used on both sides of the fight for the body.

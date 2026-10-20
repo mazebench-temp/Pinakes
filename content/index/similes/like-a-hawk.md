@@ -20,7 +20,7 @@ passages:
 
 The comparison gives two things. The first is speed: the hawk is the swiftest of birds, and the god has the whole distance from Ida to the plain to cover. The second is in the epithet. The dove is the bird that flees, and the hawk is its killer; Artemis flees from Hera like a dove into a hollow rock (21.493–495), and Achilles swoops on Hector like a mountain hawk on a dove (22.139–142). The god who goes down like a hawk goes down to put the Achaeans to flight. Zeus has told him to shake the tasseled aegis over them and drive them back to the ships and the Hellespont (15.229–233), and on the plain Apollo shakes it, and they flee like a herd scattered by two beasts in the night (15.320–327; see [[two-beasts-in-the-night]]).
 
-The hawk is Apollo's bird in the Odyssey: as Telemachus lands on Ithaca a hawk flies by on the right with a dove in its talons, “a hawk, Apollo's swift messenger” (κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος, *Odyssey* 15.525–527).
+In the Odyssey Apollo's bird is the falcon: as Telemachus lands on Ithaca a κίρκος flies by on the right with a dove in its talons, “Apollo's swift messenger” (κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος, *Odyssey* 15.525–527; see [[falcon]]).
 
 ## In context
 

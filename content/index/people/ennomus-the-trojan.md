@@ -5,9 +5,10 @@ kind: person
 tags: [trojan, warrior]
 summary: A Trojan slain and stripped by Odysseus, with Thoon, when the Trojans close around him alone (11.422). Not the augur [[ennomus|Ennomus]], leader of the Mysians, who is still alive in Book 17 (17.218).
 aliases: [Ennomos the Trojan]
-# Ἔννομον at 17.218 is the Mysian augur (ennomus), who will need the form and this entry an except there.
+# Ἔννομον at 17.218 is the Mysian augur (ennomus, whose Book 17 note claims "Ἔννομον οἰωνιστήν").
 grc: [Ἔννομον]
 en: [Ennomus]
+except: [17.218]
 relations:
   - slayer: odysseus (11.422)
 passages:

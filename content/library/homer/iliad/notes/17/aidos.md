@@ -1,0 +1,5 @@
+---
+summary: Shame is weighed twice. Menelaus thinks of fighting Hector alone “out of shame” (αἰδεσθείς) and decides that the gods excuse him (17.94–101); Aeneas cries that it is “a shame” for the Trojans to be driven into Ilios by their own cowardice, and they stand again (17.335–343).
+---
+
+In Menelaus' debate shame and blame are the two sides of one fear: he fears the indignation of the Danaans if he leaves the body, and, if shame keeps him there alone, being surrounded (17.91–95; see [[nemesis]] and [[decision-scene]]). The rule about the gods settles it, and shame yields. Aeneas' cry is the call of the rally, αἰδώς, which Sarpedon raised to the Lycians (16.422) and Hera, Agamemnon, Poseidon and Ajax to the Argives (5.787, 8.228, 13.95, 15.502), made into a sentence: “Hector, and you other leaders of the Trojans and the allies, / this now is a shame”, to go up into Ilios beaten by their own cowardice (17.335–337; see [[exhortation]]). The Achaeans' last word on shame comes from Athena: “a shame and a reproach” if dogs tear Patroclus (17.556; see [[katepheie]]).

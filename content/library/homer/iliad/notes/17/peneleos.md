@@ -1,0 +1,8 @@
+---
+summary: When Zeus shakes the aegis and gives the victory to the Trojans, Peneleos the Boeotian is the first to begin the flight: Polydamas, coming close, has grazed his shoulder to the bone, though he was always facing forward (17.597–600). It is his last appearance in the poem.
+refs: [17.598-600]
+---
+
+πρῶτος Πηνέλεως Βοιώτιος ἦρχε φόβοιο, “Peneleos the Boeotian was the first to begin the rout” (17.597; see [[boeotians]] and [[phobos]]). Zeus has just taken up the aegis, covered Ida in clouds and thundered, “and gave victory to the Trojans, and put the Achaeans to flight” (17.593–596; see [[aegis]] and [[zeus]]). The narrator gives the reason in the same breath: “For he was hit on the shoulder with a spear, always facing forward, / a grazing blow on the top; and right to the bone it scored him, / the point of Polydamas; for he had come close and hit him” (17.598–600; see [[polydamas]]). πρόσω τετραμμένος αἰεί, “always facing forward”: the wound came while he faced the enemy. ἐπιλίγδην, “grazing”, occurs only here, and γράφω, “score”, is the verb that elsewhere means scratching, and once, on Bellerophon's tablet, something like writing (6.168–169; see the translation's note on 6.168–169 and [[writing]]). How a grazing blow could reach the bone, Walter Leaf explains from the scholia: there is little flesh on the shoulder blade (*Commentary on the Iliad*, 1900, on 17.599).
+
+Polydamas had killed another of the Boeotian leaders, Prothoenor, in Book 14, and Peneleos avenged the Boeotian dead on Ilioneus (14.449–457, 14.487–505; see [[prothoenor]] and [[ilioneus]]). His fellow leader Leitus is wounded next (17.601–604; see [[leitus]]). Neither is named again in the Iliad.

@@ -1,0 +1,6 @@
+---
+summary: Hippothous, the Pelasgian leader, dies over the body of Patroclus “far from deep-soiled Larisa” (17.301), the town of the Pelasgians in the Catalogue.
+grc: [Λαρίσης]
+---
+
+τῆλʼ ἀπὸ Λαρίσης ἐριβώλακος, “far from deep-soiled Larisa” (17.301; see [[deep-soiled]]): the narrator begins Hippothous' epitaph with the distance of his home, and goes on in the verses of Simoeisius, “and he did not repay / his dear parents for his rearing, and short was his life” (17.301–302 ≈ 4.477–478; see [[hippothous]] and [[simoeisius]]). The Catalogue gave the Pelasgians “deep-soiled Larisa” in the same words (Λάρισαν ἐριβώλακα, 2.841; see [[pelasgians]]). Walter Leaf observes that the Catalogue seems to count the Pelasgians among the peoples of the Troad, so that its Larisa should be the one near Hamaxitus, only twenty-five miles from Troy, which does not suit a man who dies “far from” it; Strabo, on this ground, chose the Larisa near Cyme in Aeolis. Leaf's own explanation is that the Catalogue means the Larisa of the Troad, and the poet of Book 17 was thinking of another, as he easily might, since many towns bore the name (*Commentary on the Iliad*, 1900, on 2.840, to which his note on 17.301 refers).

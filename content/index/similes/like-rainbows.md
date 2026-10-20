@@ -3,11 +3,11 @@ title: Like rainbows
 greek: ἴρισσιν ἐοικότες, ἅς τε Κρονίων ἐν νέφεϊ στήριξε
 kind: simile
 tags: [cosmic, divine-will, weapon]
-summary: The dark blue serpents on Agamemnon's corselet, three on each side, stretch up toward the neck “like the rainbows that the son of Cronus sets in the clouds, a portent for mortal men” (11.26–28).
-aliases: [like the rainbows, the serpents like rainbows, the rainbows of Zeus]
+summary: The rainbow, ἶρις, which Zeus sets in the clouds as a portent, as a likeness. The dark blue serpents on Agamemnon's corselet stretch up toward the neck “like the rainbows that the son of Cronus sets in the clouds, a portent for mortal men” (11.26–28), and Athena comes down among the Achaeans wrapped in a purple cloud, like the purple rainbow that Zeus stretches out from heaven as a portent of war or of chilling winter (17.547–552).
+aliases: [like the rainbows, the serpents like rainbows, the rainbows of Zeus, the purple rainbow, Athena like a rainbow]
 grc: ["ἴρισσιν ἐοικότες"]
 en: [like the rainbows]
-of: [corselet, serpent]
+of: [corselet, serpent, athena]
 ---
 
 ## The simile

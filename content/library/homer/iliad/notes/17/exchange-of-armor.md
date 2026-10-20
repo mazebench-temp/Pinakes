@@ -1,0 +1,19 @@
+---
+summary: Hector changes his armor apart from the battle, sends his own to Ilios and puts on the armor of Achilles that he stripped from Patroclus (17.183–214): an exchange made with the dead. Aristarchus read the last verse of the scene as saying that Hector looked like Achilles; Walter Leaf thought the whole change of armor a later addition. Antilochus, sent to Achilles with the news, gives his armor to a companion (17.698–699).
+# ἔντεʼ ἄμειβεν (17.192), only here; τεύχεʼ ἄμειβε (6.235) and τεύχεʼ ἄμειβον (14.381) are the other exchanges.
+grc: ["ἔντεʼ ἄμειβεν"]
+en: [changed his armor]
+refs: [17.186-187, 17.191, 17.193-194, 17.214, 17.698-699]
+passages:
+  - 17.183-214 | Hector in the armor of Achilles
+---
+
+**With the dead.** The verb of the theme returns with no living partner to the exchange: “And standing apart from the tearful battle he changed his armor” (ἔντεʼ ἄμειβεν, 17.192). Glaucus and Diomedes exchanged armor as guest-friends (6.230–236; see [[glaucus-and-diomedes]]), and the wounded kings exchanged it through the Achaean army so that the best men should have the best arms (14.379–382): those were exchanges among the living. Hector exchanges his own armor for the spoil of a dead man, the armor that Achilles lent Patroclus: “the fine armor I stripped from mighty Patroclus when I killed him” (17.187; see [[hector]] and [[stripping-the-dead]]). He had sent it to the city a little before, “to be great fame for him” (17.130–131); now he runs after the men who are carrying it and sends his own armor to Ilios in its place (17.188–194; see [[the-armor-of-peleus]]). Zeus, who watches him arm, fits it to his body:
+
+{{quote:2a2a34d0-22a7-50ef-b0b8-62ac7c10810d}}
+
+**The look of the son of Peleus.** Patroclus put the armor on so that the Trojans might take him for Achilles (16.40–41), and they did (16.278–283). Hector, putting it on, “appeared to them all / flashing in the armor of the great-hearted son of Peleus” (17.213–214). Walter Leaf reports that Aristarchus read the dative, μεγαθύμῳ Πηλεΐωνι, and so must have taken ἰνδάλλετό σφισι to mean that Hector looked to them like the great-hearted son of Peleus; Leaf himself takes the verb, as elsewhere in Homer, as “appeared”, and thought that the double reading and interpretation went back to a respectable antiquity (*Commentary on the Iliad*, 1900, on 17.214). He found it a difficulty that the change of armor has no more marked effect, and that the Achaeans do not seem to notice it (on 17.186, 17.214); Alcimedon, however, tells Automedon that Hector “wears the armor of the grandson of Aeacus on his own shoulders and glories in it” (17.472–473; see [[alcimedon]]).
+
+**A later addition?** Leaf thought the change of armor an interpolation by the author of the Making of the Armor in Book 18. In this book, he observes, the armor of Patroclus is first said to be Achilles' at 17.186; nothing explains why Hector should think of changing his armor just after he has sent Patroclus' spoils to the city; and the narrative of 17.229 follows on 17.185 without a perceptible gap, as Hentze observed (on 17.186). He quotes a scholium that had expected Hector, shamed by Glaucus' rebuke and his own promises, to keep his word and fight, and found him instead forgetting what he had said and busying himself with his dress. Hector's offer of half the spoils to the man who drags Patroclus among the Trojans (17.229–232) seemed to Leaf “singularly out of place at the moment when Hector has just clad himself in the spoils”, and he asked how a suit of armor could be halved (on 17.231; see [[division-of-spoils]]).
+
+**Armor handed over.** Before he runs to Achilles, Antilochus “gave his armor to his noble companion / Laodocus, who was wheeling his single-hoofed horses close by” (17.698–699; see [[antilochus]] and [[laodocus-companion-of-antilochus]]). The poem gives no reason.

@@ -5,6 +5,7 @@ kind: person
 tags: [achaean, warrior, elis]
 summary: Son of [[Amarynceus]] and one of the four leaders of the [[Epeians]]. In the first battle of the poem the Thracian [[Peirous]] crushes his ankle with a stone and kills him.
 grc: [Διώρης, Ἀμαρυγκεΐδης]
+except: [17.429, 17.474]
 relations:
   - father: amarynceus (2.622)
 passages:
@@ -19,4 +20,4 @@ passages:
 
 ## Elsewhere in Homer
 
-He is not the Diores whose son Automedon drives Achilles' chariot (17.429, 17.474).
+He is not the Diores whose son Automedon drives Achilles' chariot (17.429, 17.474; see [[diores-father-of-automedon]]).

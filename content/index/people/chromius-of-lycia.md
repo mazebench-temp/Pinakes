@@ -7,7 +7,7 @@ summary: A Lycian, the third of the seven whom [[Odysseus]] kills when Athena tu
 aliases: [Chromius of Lycia]
 grc: [Χρομίον]
 # 4.295: Nestor's captain; 5.160: the son of Priam; 8.275: a Trojan killed by Teucer.
-except: [4.295, 5.160, 8.275]
+except: [4.295, 5.160, 8.275, 17.218, 17.494, 17.534]
 en: [Chromius]
 relations:
   - slayer: odysseus (5.677)

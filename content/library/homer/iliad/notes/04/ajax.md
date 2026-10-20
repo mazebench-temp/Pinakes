@@ -1,6 +1,5 @@
 ---
 summary: Agamemnon finds the two Ajaxes arming, their battalions dark and bristling like a storm cloud seen by a goatherd, and tells them that they need no orders. In the first battle Telamonian Ajax kills the young Simoeisius.
-en: [Ajaxes]
 refs: [4.274, 4.286-287, 4.292, 4.480, 4.488, 4.490-491]
 passages:
   - 4.273-292 | Agamemnon and the two Ajaxes

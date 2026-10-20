@@ -1,0 +1,7 @@
+---
+summary: “Fair-haired Menelaus” seven times, more than in any other book of the Iliad: as he bestrides Patroclus, answers Euphorbus, gives way, comes back with Ajax, kills Podes, goes in search of Antilochus, and gives him the news.
+---
+
+The verse-end ξανθὸς Μενέλαος marks Menelaus at each turn of his part in the book ([[menelaus]]). He takes his stand over the body like a cow over her first calf, “so fair-haired Menelaus bestrode Patroclus” (17.4–6; [[plaintive]]). “Deeply troubled, fair-haired Menelaus said to him” (17.18; [[deeply-troubled]]) opens his answer to Euphorbus' boast. When Hector comes on, he leaves the body like a lion driven from a farmyard, “so fair-haired Menelaus went from Patroclus” (17.113; [[lion-driven-from-the-farmyard]]), and he comes back with Ajax: “and he went through the champions, and fair-haired Menelaus with him” (17.124; [[ajax]]). “Him fair-haired Menelaus struck on the belt” (17.578) is the death of Podes ([[podes]]). In the last part of the book the epithet frames his search for Antilochus: “So he spoke, and fair-haired Menelaus went away” (17.673), looking about like an eagle ([[eagle]]), and “standing near him fair-haired Menelaus spoke” (17.684), as he gives him the news ([[antilochus]]).
+
+Seven of the thirteen uses of the verse-end in the Iliad are in this book; three more are in the chariot race of Book 23 (23.293, 23.401, 23.438). The verse of 17.18 returns twice in the Odyssey, in Menelaus' own house (*Odyssey* 4.30, 4.332).

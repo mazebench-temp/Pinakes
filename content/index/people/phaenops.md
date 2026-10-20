@@ -5,8 +5,9 @@ kind: person
 tags: [trojan, elder]
 summary: An old Trojan whose only sons, [[xanthus-son-of-phaenops|Xanthus]] and [[thoon-son-of-phaenops|Thoon]], are killed by Diomedes. He is left with lamentation, and distant kinsmen divide his wealth (5.152–158).
 grc: [Φαίνοπος]
-# Φαίνοπος at 17.312 is the father of the Phrygian Phorcys, another man; Φαίνοπι at 17.583 is
-# Phaenops son of Asius.
+except: [17.312, 17.583]
+# Φαίνοπος at 17.312 is the father of the Phrygian Phorcys, another man (phaenops-father-of-phorcys);
+# Φαίνοπι at 17.583 is Phaenops son of Asius (phaenops-son-of-asius).
 refs: [5.153-154, 5.156-158]
 relations:
   - child: xanthus-son-of-phaenops (5.152)
@@ -21,4 +22,4 @@ Of all the obituaries in Diomedes' rampage, this is the fullest, and it is about
 
 The last line turns from grief to property: the χηρωσταί, “distant kinsmen”, divide his wealth (5.158). The word occurs only here in Homer. Hesiod uses it, in almost the same words (διὰ κτῆσιν δατέονται χηρωσταί), of the man who refuses to marry and has no one to care for him in old age (*Theogony* 603–607). The war does to Phaenops what Hesiod's bachelor did to himself. See [[bereaved-parents]] and [[androktasia]].
 
-The Phrygian Phorcys is called son of Phaenops in Book 17 (17.312). Since this Phaenops had no other son (5.154), that is evidently another man, as is Phaenops son of Asius (17.582–584).
+The Phrygian Phorcys is called son of Phaenops in Book 17 (17.312). Since this Phaenops had no other son (5.154), that is evidently another man (see [[phaenops-father-of-phorcys]]), as is Phaenops son of Asius (17.582–584; see [[phaenops-son-of-asius]]).

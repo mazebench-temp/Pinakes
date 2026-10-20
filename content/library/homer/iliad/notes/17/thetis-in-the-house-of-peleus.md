@@ -1,0 +1,8 @@
+---
+summary: Book 17 recalls the household of Peleus twice. The armor that Hector puts on and the horses that weep for Patroclus were the gods' gifts to Peleus, immortal things given to a mortal (17.194–197, 17.443–445); and Achilles, who as a boy often heard his mother in his father's halls, has often heard from her since the purpose of Zeus, though not this time (17.408–411).
+refs: [17.195-196, 17.408-409, 17.443-444]
+---
+
+**Often from his mother.** In Book 1 Achilles reminds Thetis of what he heard as a boy: “For often I have heard you, in my father's halls, / boasting” (πολλάκι … ἄκουσα, 1.396–397). In Book 17 the narrator says the like of the grown man at Troy: “for often he had learned this from his mother, hearing it in secret, / who would report to him the purpose of great Zeus” (πολλάκι … ἀκούων, 17.408–409; see [[thetis]] and [[achilles]]). The goddess who told of her service to Zeus in the house of Peleus still tells her son what Zeus intends; and the narrator adds what she did not tell him, that his dearest companion had perished (17.410–411; see [[the-death-of-patroclus]]).
+
+**The gifts of the house.** The armor and the horses that Achilles brought to Troy from his father's house were the gods' gifts to Peleus (see [[the-armor-of-peleus]] and [[the-horses-of-achilles]]). Hector puts on “the immortal armor / of Achilles, son of Peleus, which the heavenly gods / gave to his dear father” (17.194–196), and Zeus asks the weeping horses, “why did we give you to lord Peleus, / a mortal, while you are ageless and immortal?” (17.443–444; see [[zeus]] and [[peleus]]). The armor was given, Achilles will tell his mother, on the day the gods put her in the bed of a mortal man (18.84–85).

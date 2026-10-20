@@ -13,7 +13,7 @@ passages:
 
 The last three verses are Adrastus' plea to Menelaus, with “you” in the plural (6.48–50), and the sons of Antimachus will repeat them to Agamemnon (11.133–135; see [[apoina]] and [[supplication-type-scene]]). ζωγρεῖτʼ, “take me alive”, is Adrastus' ζώγρει in the plural, for two captors (6.46).
 
-**Hope.** Odysseus answers, “Take heart, and do not let death be on your mind at all” (10.383), and questions him. The words promise nothing. The phrase returns once in the Iliad, when Zeus watches Hector put on the armor of Achilles: “Ah, wretch, death is not on your mind at all, and it is coming close to you” (17.201–202). Dolon tells all he is asked and more, and at the end asks to be taken to the ships, or left bound until his word has been tested (10.442–445).
+**Hope.** Odysseus answers, “Take heart, and do not let death be on your mind at all” (10.383), and questions him. The words promise nothing. The phrase returns once in the Iliad, when Zeus watches Hector put on the armor of Achilles: “Ah, wretch, death is not on your mind at all, / which is now close to you” (17.201–202). Dolon tells all he is asked and more, and at the end asks to be taken to the ships, or left bound until his word has been tested (10.442–445).
 
 **The refusal.** Diomedes, “looking at him darkly” (see [[looking-darkly]]), gives a soldier's reason: “if we take ransom and release you now, or let you go, surely later too you will come to the swift ships of the Achaeans, either to spy, or to fight face to face” (10.449–451). Agamemnon refused Adrastus for the wrong done in Menelaus' house (6.55–60), and Achilles will refuse Lycaon for the death of Patroclus (21.99–113). Diomedes refuses a spy.
 

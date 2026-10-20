@@ -1,0 +1,6 @@
+---
+summary: Around the body the order of battle is turned to defense. Ajax lets no Achaean “fight out in front of the others”, but bids them stand close around it behind their shields and fight at close quarters (17.354–359); the champions (πρόμαχοι), through whom Menelaus, Hector and Ajax go to the body, give way to a ring of shields. Twice the man sought is found “on the left of all the battle” (17.116, 17.682).
+grc: [προμάχεσθαι]
+---
+
+The verse βῆ δὲ διὰ προμάχων, “He went through the champions”, takes Menelaus to the body and Hector against him, “armored in gleaming bronze” (17.3, 17.87, 17.592), and Ajax and Menelaus back to it (17.124); Ajax goes through them like a boar (17.281), and Aeneas leaps out far in front of them to rally the Trojans (17.342). The Achaean defense is the opposite of the champions' fighting: “for they were fenced all around with their shields, / standing around Patroclus, and held their spears before them” (17.354–355), and fewer of them fall, since they remember to ward off slaughter from one another (17.363–365; see [[fighting-over-the-body]] and [[shield]]). Menelaus finds Ajax “on the left of all the battle, / encouraging his companions” (17.116–117), and Antilochus later in the same two verses (17.682–683; see [[messenger-scene]]).

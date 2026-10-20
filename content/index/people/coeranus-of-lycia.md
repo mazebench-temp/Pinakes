@@ -8,6 +8,7 @@ aliases: [Coeranus of Lycia]
 # ^: κοίρανος “lord, commander” is a common noun.
 grc: ["^Κοίρανον"]
 en: [Coeranus]
+except: [17.611, 17.614]
 relations:
   - slayer: odysseus (5.677)
 ---
@@ -16,7 +17,7 @@ relations:
 
 The name is the common noun κοίρανος, “lord, commander” (see [[koiranos]]); only the capital tells the man from the word. He heads the list of seven Lycians killed by Odysseus in two lines, all named without a father, a home or a wound (5.677–678; see [[lycians]] and [[odysseus]]).
 
-Another Coeranus, from Lyctus in Crete, is the attendant and charioteer of Meriones. He drives up to rescue Idomeneus, who has come on foot, and Hector's spear, thrown at Idomeneus, kills him instead (17.605–619).
+Another Coeranus, from Lyctus in Crete, is the attendant and charioteer of Meriones. He drives up to rescue Idomeneus, who has come on foot, and Hector's spear, thrown at Idomeneus, kills him instead (17.605–619; see [[coeranus-of-lyctus]]).
 
 ## Outside Homer
 

@@ -1,0 +1,5 @@
+---
+summary: The gods act at every stage of the fight for the body, but none decides it in a stroke. Apollo, three times in a man's likeness, keeps Hector and Aeneas in the fight; Zeus fits Achilles' armor to Hector, covers the body in mist and lifts it, breathes might into the weeping horses and gives the Trojans victory with the aegis; Athena puts strength and the daring of a fly into Menelaus. The body itself is carried by men.
+---
+
+Each act meets a choice. Apollo's word sends Hector against Menelaus, and Menelaus decides, against his shame, to give way (17.70–108; see [[decision-scene]]); Athena's strength is answered by Menelaus' spear (17.569–581); Zeus' victory for the Trojans is answered by Ajax's plan and prayer (17.626–647; see [[even-a-fool-can-see]]). The god who does nothing is Thetis: she had often told Achilles the purpose of Zeus, but not this (17.408–411; see [[foresight]]). Ares enters into Hector with the armor (17.210–211), and in Automedon's fight “mighty Ares let its might go”, the might of Hector's spear quivering in the ground (17.528–529; see [[ares]]).

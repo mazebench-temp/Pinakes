@@ -12,7 +12,7 @@ of: [kleos]
 
 ## Meaning
 
-ὑπουράνιος = ὑπό (“under”) + οὐρανός (“sky, heaven”): “under the sky.” Homer uses it three times. Twice it describes fame: the κλέος that Nestor promises to the man who will spy on the Trojans (10.212), and in the Odyssey the fame of Agamemnon, which Odysseus tells the Cyclops is now the greatest under heaven (Od. 9.263–264). Once it describes birds: the eagle, they say, sees most sharply “of the birds under heaven” (17.674–675). Fame under heaven is fame that reaches everywhere the sky covers; elsewhere it “reaches the sky” itself, as Odysseus says of his own (κλέος οὐρανὸν ἵκει, Od. 9.20). Compare [[imperishable]], the epithet of the fame Achilles is promised (κλέος ἄφθιτον, 9.413), and see [[kleos]].
+ὑπουράνιος = ὑπό (“under”) + οὐρανός (“sky, heaven”): “under the sky.” Homer uses it three times. Twice it describes fame: the κλέος that Nestor promises to the man who will spy on the Trojans (10.212), and in the Odyssey the fame of Agamemnon, which Odysseus tells the Cyclops is now the greatest under heaven (Od. 9.263–264). Once it describes birds: the eagle, they say, has the sharpest sight “of all the winged birds under heaven” (17.674–675). Fame under heaven is fame that reaches everywhere the sky covers; elsewhere it “reaches the sky” itself, as Odysseus says of his own (κλέος οὐρανὸν ἵκει, Od. 9.20). Compare [[imperishable]], the epithet of the fame Achilles is promised (κλέος ἄφθιτον, 9.413), and see [[kleos]].
 
 ## Use
 
