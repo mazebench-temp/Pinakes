@@ -15,7 +15,7 @@ en: [Oceanus]
 
 ## Family
 
-Husband of [[tethys|Tethys]], “mother Tethys”, with whom he reared Hera in his halls (14.201–204; see [[hera]]). His daughter in the Iliad is Eurynome, who with Thetis took in Hephaestus when he fell from heaven (18.398–399; see [[hephaestus]]).
+Husband of [[tethys|Tethys]], “mother Tethys”, with whom he reared Hera in his halls (14.201–204; see [[hera]]). His daughter in the Iliad is [[eurynome|Eurynome]], who with Thetis took in Hephaestus when he fell from heaven (18.398–399; see [[hephaestus]]).
 
 {{notes}}
 

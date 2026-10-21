@@ -28,7 +28,7 @@ It is the first image of the day that ancient readers called his aristeia (see [
 
 ## Elsewhere in Homer
 
-Athena kindles the same fire on Achilles in Book 18. She puts the aegis around his shoulders, sets a golden cloud about his head and kindles from it a blazing flame, which rises to the sky like the beacon fires of a besieged island (18.203–214). The Trojan charioteers are struck with terror when they see “the tireless fire” (ἀκάματον πῦρ; see [[tireless]]) burning above his head, “and the gray-eyed goddess Athena kindled it” (18.225–227). The words are those of 5.4.
+Athena kindles the same fire on Achilles in Book 18. She puts the aegis around his shoulders, sets a golden cloud about his head and kindles from it a blazing flame, which rises to the sky like the beacon fires of a besieged island (18.203–214). The Trojan charioteers are struck with terror when they see “the tireless fire” (ἀκάματον πῦρ; see [[tireless]]) burning above his head, “the gray-eyed goddess Athena kindled it” (18.225–227). The words are those of 5.4.
 
 Stars are the Iliad's image for the flash of armor. When Achilles arms, his helmet shines “like a star” (19.381), and when he runs toward Troy he is Orion's Dog itself, bright and baneful (22.26–32); the point of his spear gleams like the evening star, the most beautiful star in the sky (22.317–320). Hector moves among the ranks like a baneful star (οὔλιος ἀστήρ) that now shines out of the clouds and now hides in them again (11.62–65). The robe that Hecuba chooses for Athena “shone like a star” (6.295). The star of Book 5 is the first of them, and in this book the hero the goddess sets ablaze is Diomedes. See also [[shooting-star]].
 

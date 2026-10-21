@@ -24,4 +24,4 @@ The two Ajaxes have carried off Imbrius like two lions with a goat and stripped 
 
 ## Elsewhere in Homer
 
-Other bodies are thrown or mutilated in anger. Agamemnon cuts off the arms and head of Hippolochus and sends the trunk rolling “like a log” through the throng (11.145–147; see [[like-a-log]]). Peneleos cuts off the head of Ilioneus with the helmet still on it and holds it up on his spear like the head of a poppy, boasting to the Trojans (14.496–500). Hector means to cut Patroclus' head “from his tender neck” and fix it on stakes (18.176–177), in the same words as 13.202 (ἁπαλῆς ἀπὸ δειρῆς).
+Other bodies are thrown or mutilated in anger. Agamemnon cuts off the arms and head of Hippolochus and sends the trunk rolling “like a log” through the throng (11.145–147; see [[like-a-log]]). Peneleos cuts off the head of Ilioneus with the helmet still on it and holds it up on his spear like the head of a poppy, boasting to the Trojans (14.496–500). Hector means to cut Patroclus' head “from the tender neck” and fix it on stakes (18.176–177), in the same words as 13.202 (ἁπαλῆς ἀπὸ δειρῆς).

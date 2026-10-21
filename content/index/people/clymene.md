@@ -6,6 +6,8 @@ tags: [woman]
 summary: “Ox-eyed Clymene”, the second of Helen's two handmaids at Troy (3.144). Homer says nothing more about her.
 aliases: [Klymene]
 grc: [Κλυμένη]
+# 18.47 is the Nereid Clymene (clymene-the-nereid).
+except: [18.47]
 refs: [3.143, 3.145]
 relations:
   - mistress: helen (3.143-144)
@@ -17,4 +19,4 @@ passages:
 
 She walks with [[Aethra]] behind Helen to the Scaean gates. βοῶπις (“ox-eyed”, praising large, lustrous eyes) is the standing epithet of Hera; here a servant has it (see [[ox-eyed]]).
 
-The name means “famous”: κλύμενος is an old participle of κλύω (“hear”), “heard of”. It is a common name in myth. A Nereid is called Clymene (18.47), and Odysseus sees another Clymene among the famous women of the past in the underworld (Od. 11.326). Nothing connects them with Helen's handmaid.
+The name means “famous”: κλύμενος is an old participle of κλύω (“hear”), “heard of”. It is a common name in myth. A Nereid is called Clymene (18.47; see [[clymene-the-nereid]]), and Odysseus sees another Clymene among the famous women of the past in the underworld (Od. 11.326). Nothing connects them with Helen's handmaid.

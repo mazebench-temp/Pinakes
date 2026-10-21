@@ -21,4 +21,4 @@ Nestor has listed the wounded and asked whether Achilles will wait until the shi
 
 ## Outside Homer
 
-In the Homeric Hymn to Aphrodite the same verse describes Tithonus in his endless old age: his voice runs on, but there is no strength in his supple limbs such as there was before (*Hymn to Aphrodite* 237–238; [[tithonus]], [[the-tithonus-verse]]). Hesiod uses the word of the hawk's curved talons that pierce the nightingale (*Works and Days* 203–205).
+In the Homeric Hymn to Aphrodite the same verse describes Tithonus in his endless old age: his voice runs on, but there is no strength in his supple limbs such as there was before (*Hymn to Aphrodite* 237–238; [[tithonus]], [[the-tithonus-verse]]). Hesiod uses the word of the hawk's curved talons that pierce the nightingale (*Works and Days* 203–205). The verse of Hephaestus' jewelry (18.401) recurs whole in the Hymn to Aphrodite, of the ornaments that Anchises takes from the goddess's body (*Hymn to Aphrodite* 162–163), and the goddess wears ἐπιγναμπτὰς ἕλικας, “curved spirals,” when she appears to him (87).

@@ -1,0 +1,6 @@
+---
+summary: Two kinds of tripod. Achilles' companions set a great tripod over the fire to heat water for washing Patroclus (18.344–348), and Thetis finds Hephaestus making twenty tripods on golden wheels, to go of themselves into the assembly of the gods and come back to his house, “a wonder to see” (18.373–377).
+en: [tripods]
+---
+
+Walter Leaf compares the wheels with those of Helen's silver workbasket (*Odyssey* 4.131), takes πυθμήν here as the leg, a golden wheel under each, and suggests that the tripods were to carry trays at the gods' feasts (*Commentary on the Iliad*, 1900, on 18.373). The self-moving tripods go with the gold and silver dogs that Hephaestus made to guard the palace of Alcinous (*Odyssey* 7.91–94) and with the golden handmaids who hold him up (18.417–421), and Leaf notes how sparingly such marvels are used even on Olympus (on 18.376). They were finished but for the handles, which Hephaestus was fixing with rivets (18.378–379); Leaf observes that the oldest bronze tripods found at Olympia are fastened in the same way (on 18.378). Aristotle uses the self-moving tripods to imagine tools that need no slaves (see [[aristotle-the-tripods-of-hephaestus]]). See [[hephaestus]], [[handmaids]] and [[the-golden-handmaids]].

@@ -15,6 +15,6 @@ passages:
 
 Olympus is a town of divine households, and the book ends with the most domestic of scenes: each god goes home to bed, and Zeus sleeps beside Hera. The craftsman god who has just been laughed at is named as the builder of it all. Zeus' own house is "bronze-floored" (χαλκοβατὲς δῶ, 1.426).
 
-## Outside Homer
+## Elsewhere in Homer
 
-Hephaestus builds the gods' furniture, armor and palaces throughout Homer: Hera's bedroom with its secret lock (Iliad 14.166–168), and his own starry bronze house, where Thetis finds him making self-moving tripods (18.369–381).
+Hephaestus builds the gods' furniture, armor and palaces throughout Homer: Hera's bedroom with its secret lock (14.166–168), and his own starry bronze house, where Thetis finds him making self-moving tripods (18.369–381; see [[the-making-of-the-arms]]).

@@ -14,4 +14,6 @@ Plato's Socrates calls Homer "the first teacher and leader" of the tragedians (*
 - Hephaestus hurled by his father: [[plato-hephaestus-hurled]];
 - Achilles' insults to Agamemnon: [[plato-achilles-insults]];
 - the terrors of Hades, among them the soul of Patroclus leaving manhood and youth: [[plato-the-terrors-of-hades]];
-- the laments of gods and heroes, among them Zeus' grief for Sarpedon: [[plato-laments-of-gods-and-heroes]].
+- the laments of gods and heroes, among them Zeus' grief for Sarpedon: [[plato-laments-of-gods-and-heroes]];
+- Achilles' choice, in Socrates' defense at his trial and in Phaedrus' praise of love: [[plato-the-choice-of-achilles]];
+- the anger “far sweeter than dripping honey”, a pain of the soul mixed with pleasure: [[plato-the-pleasure-of-anger]].

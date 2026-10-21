@@ -3,7 +3,7 @@ title: Maeonia
 greek: Μῃονίη
 kind: place
 tags: [trojan, maeonia, asia-minor]
-summary: The land of the [[Maeonians]] under Mount [[Tmolus]], later called Lydia. Helen names "lovely Maeonia" beside Phrygia as a place where Aphrodite might have another favorite.
+summary: The land of the [[Maeonians]] under Mount [[Tmolus]], later called Lydia, which the Iliad names beside Phrygia as one of the rich inland countries beyond Troy.
 aliases: [Meonia]
 grc: [Μῃονίης]
 ---

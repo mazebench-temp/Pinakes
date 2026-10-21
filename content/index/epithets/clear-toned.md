@@ -3,7 +3,7 @@ title: Clear-toned
 greek: λίγεια (φόρμιγξ)
 kind: epithet
 tags: [music]
-summary: “Clear, high-sounding,” the epithet of the lyre in the hands of a singer: of Achilles' lyre in his hut, and in the Odyssey of the lyre of the bards.
+summary: “Clear, high-sounding,” the epithet of the lyre in the hands of a singer: of Achilles' lyre in his hut and of the boy's at the vintage on the shield, and in the Odyssey of the lyre of the bards.
 aliases: [ligys, ligeia, clear-sounding, shrill-toned]
 grc: ["φόρμιγγι λιγείῃ"]
 en: [clear-toned]

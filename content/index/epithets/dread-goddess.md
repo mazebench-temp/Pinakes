@@ -3,7 +3,7 @@ title: Dread goddess
 greek: δεινὴ θεός
 kind: epithet
 tags: [divine-epithet]
-summary: “The dread goddess,” said in the Iliad only of [[Athena]], as the Trojan women try to appease her; in the Odyssey a formula for Calypso and Circe.
+summary: “The dread goddess,” said in the Iliad of [[Athena]], as the Trojan women try to appease her, and of Thetis by Hephaestus, who owes her his life; in the Odyssey a formula for Calypso and Circe.
 aliases: [deine theos, terrible goddess]
 grc: [δεινὴν θεὸν]
 en: [dread goddess]

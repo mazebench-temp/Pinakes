@@ -40,4 +40,4 @@ The choice is made in Book 18. When Achilles resolves to kill Hector, Thetis tel
 
 ## Outside Homer
 
-In Plato's *Apology* Socrates, on trial for his life, cites Achilles' choice: told that his death would follow Hector's, he chose to die avenging his friend rather than live on in disgrace (28c–d).
+In Plato's *Apology* Socrates, on trial for his life, cites Achilles' choice: told that his death would follow Hector's, he chose to die avenging his friend rather than live on in disgrace (28c–d; see [[plato-the-choice-of-achilles]]).

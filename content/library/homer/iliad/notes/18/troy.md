@@ -1,0 +1,13 @@
+---
+summary: Thetis sent her son to Ilios and will not welcome him home; the Trojans would drag Patroclus' body to windy Ilios; Polydamas would shut the Trojans in the city, which Achilles will never sack, and Hector scorns being penned in it. Achilles knows that he and Patroclus are fated to redden the same earth at Troy, and Thetis tells Hephaestus that the Achaeans would have sacked the city on the day Patroclus died, had not Apollo killed him.
+# Unnamed: the city (ἄστυ, πτόλις, πόλις) in 18.255, 18.265-266, 18.274, 18.281, 18.283, 18.286, 18.288, 18.454.
+refs: [18.255, 18.265-266, 18.274, 18.281, 18.283, 18.286, 18.288, 18.454]
+---
+
+**Ilios.** Thetis reared her son like a plant on the slope of an orchard “and sent him out with the curved ships to Ilios / to fight with the Trojans; but I shall not welcome him again / returning home to the house of Peleus” (18.58–60), and she says it again to Hephaestus (18.439–441; see [[thetis]] and [[nostos]]). She and her sisters come up out of the sea “to deep-soiled Troy”, where the Myrmidons' ships are drawn up around Achilles (18.67–69; see [[deep-soiled]] and [[nereids]]). Iris tells Achilles that the Trojans are striving to drag Patroclus' body “to windy Ilios” (18.174; see [[windy]]), and Polydamas warns that if Achilles finds the Trojans on the plain at dawn, whoever escapes will be glad “to reach sacred Ilios” (18.270; see [[hieros]]).
+
+**The city.** For Polydamas the city is safety. They must “go now to the city” (18.255, 18.266); its towers and gates will guard it, and Achilles may roam beneath it, but he will never sack it (18.274–283; see [[polydamas]] and [[the-walls-of-troy]]). Hector scorns the counsel to “go back and be penned in the city” (18.286), and recalls the days when all men spoke of the city of Priam as rich in gold and bronze, before its treasures were sold away (18.288–292; see [[hector]] and [[priam]]).
+
+**Fated.** Achilles once told Menoetius that he would bring his son home to Opus “when he had sacked Ilios and won his share of the spoil” (18.326–327; see [[menoetius]] and [[opus]]), but it is fated “that both of us redden the same earth / here in Troy” (18.329–330; see [[patroclus]] and [[death-of-achilles-foretold]]). Thetis' account to Hephaestus ends with the day of Patroclus' death: “and on that very day they would have sacked the city, had not Apollo” killed him (18.454–456; see [[would-have-had-not]] and [[apollo]]). In Book 16 Apollo told Patroclus at the wall that it was not his portion “that the city of the proud Trojans be sacked by your spear, / nor by Achilles” (16.707–709; see [[sack-of-troy-foretold]]).
+
+Its epithets in the book are ἐρίβωλος, “deep-soiled” (18.67), ἠνεμόεσσα, “windy” (18.174), and ἱρή, “sacred” (18.270).

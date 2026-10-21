@@ -11,7 +11,7 @@ en: [penalty, pay, pay for, repay, paid them back, pay them back, pay back, took
 
 ## Meaning
 
-ποινή is what is paid to make good a wrong: a penalty, a compensation, and especially the blood-price that a killer pays to the kin of the man he has killed. Ajax reproaches Achilles with it in Book 9: a man accepts the ποινή even from the killer of his brother or his son, and the killer stays at home among his people, having paid a great deal (9.632–636). On the shield of Achilles two men quarrel in the assembly “over the blood-price of a man who had been killed” (εἵνεκα ποινῆς / ἀνδρὸς ἀποφθιμένου, 18.498–499). When no price is accepted, the penalty is taken in blood: Achilles takes twelve Trojan youths alive from the river “as ποινή for Patroclus” (21.28).
+ποινή is what is paid to make good a wrong: a penalty, a compensation, and especially the blood-price that a killer pays to the kin of the man he has killed. Ajax reproaches Achilles with it in Book 9: a man accepts the ποινή even from the killer of his brother or his son, and the killer stays at home among his people, having paid a great deal (9.632–636). On the shield of Achilles two men quarrel in the assembly “over the penalty / for a man who had perished” (εἵνεκα ποινῆς / ἀνδρὸς ἀποφθιμένου, 18.498–499). When no price is accepted, the penalty is taken in blood: Achilles takes twelve Trojan youths alive from the river “as ποινή for Patroclus” (21.28).
 
 The noun belongs with the verb τίνω, “pay”; both come from an Indo-European root *kwei-* that also gives Avestan *kaēnā* (“punishment, revenge”) and Lithuanian *kaina* (“price”). Latin *poena* was borrowed from ποινή, and through it English has *penal*, *penalty*, *punish* and *pain*.
 

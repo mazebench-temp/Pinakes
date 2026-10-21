@@ -3,7 +3,7 @@ title: Of tender mind
 greek: ἀταλάφρων
 kind: epithet
 tags: [heroic-epithet, mind, rare-word]
-summary: “Of tender mind,” the epithet of the infant [[Astyanax]] in his nurse's arms, found only here in Homer.
+summary: “Of tender mind,” ἀταλάφρων, the epithet of the infant [[Astyanax]] in his nurse's arms, found once in Homer; its two parts stand apart in ἀταλὰ φρονέοντες, “with light hearts,” of the young people at the vintage on the shield of Achilles.
 aliases: [ataláphron, atalaphron, tender-hearted, tender-minded]
 grc: [ἀταλάφρονα]
 en: [of tender mind]
@@ -12,7 +12,7 @@ of: [astyanax]
 
 ## Meaning
 
-ἀταλάφρων = ἀταλός (“tender, young, frolicsome”) + φρήν (“mind, heart”): “with the mind of a young child.” The compound occurs only here in Homer. Its first part describes the young elsewhere: the girls and youths who carry the grapes at the vintage on the shield of Achilles, ἀταλὰ φρονέοντες, “with young and carefree hearts” (Il. 18.567), the mares that delight in their young foals (πώλοισιν … ἀταλῇσι, Il. 20.222), and the young girls among the dead whom Odysseus sees in the underworld (παρθενικαί τʼ ἀταλαί, Od. 11.39). The mind it describes knows nothing yet.
+ἀταλάφρων = ἀταλός (“tender, young, frolicsome”) + φρήν (“mind, heart”): “with the mind of a young child.” The compound occurs only here in Homer. Its first part describes the young elsewhere: the girls and youths who carry the grapes at the vintage on the shield of Achilles, ἀταλὰ φρονέοντες, “with light hearts” (Il. 18.567), the mares that delight in their young foals (πώλοισιν … ἀταλῇσι, Il. 20.222), and the young girls among the dead whom Odysseus sees in the underworld (παρθενικαί τʼ ἀταλαί, Od. 11.39). The mind it describes knows nothing yet.
 
 ## Use
 

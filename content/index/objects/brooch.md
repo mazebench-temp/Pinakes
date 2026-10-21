@@ -3,7 +3,7 @@ title: Brooch
 greek: περόνη
 kind: object
 tags: [woman, exchange]
-summary: The περόνη, the pin or brooch that fastened a robe or a cloak. Athena mocks the wounded Aphrodite with one: she must have scratched her hand on a golden brooch while caressing an Achaean woman (5.422–425).
+summary: The pin or brooch that fastened a robe or a cloak, περόνη, and the πόρπη, which is probably the same thing. The brooches of the poems are gold.
 aliases: [brooches, pin, pins, perone, fibula]
 grc: [περόνῃ]
 en: [brooch]

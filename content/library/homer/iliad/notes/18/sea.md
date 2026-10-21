@@ -1,0 +1,9 @@
+---
+summary: The sea of Book 18 is the home of Thetis and the Nereids, who rise from its depths to lament with Achilles and go back beneath its wave (18.35–69, 18.139–145); Hector boasts of penning the Achaeans against it (18.294); and on the Shield Hephaestus makes it with the earth and the sky (18.483).
+---
+
+**The depths.** Achilles' groan reaches his mother “as she sat in the depths of the sea beside her aged father” (18.36), the verse with which she heard him in Book 1 (1.358; see [[thetis]] and [[old-man-of-the-sea]]). Around her gather “all the Nereids that were in the depths of the sea”, a verse that returns, nearly the same, at the end of their catalogue (18.38, 18.49; see [[nereids]]). They leave the silver-white cave in tears, “and around them the wave of the sea / broke”, until they come up onto the shore at Troy, one after another, where the Myrmidons' ships are drawn up (18.65–69). When Thetis has spoken with her son, she sends her sisters back: “Now go down into the broad bosom of the sea, / to see the Old Man of the Sea and our father's house”, and “at once they plunged beneath the wave of the sea” (18.140–145). In between, Achilles wishes that his mother had stayed “among the immortal goddesses of the sea” and that Peleus had married a mortal (18.86–87).
+
+**The camp by the sea.** In the Trojan assembly Hector says that Zeus has granted him “to win glory at the ships, and to pen the Achaeans against the sea” (18.294; see [[hector]]), the plight that Achilles once asked Thetis to bring about (1.409; see the note on Book 16).
+
+**On the Shield.** “On it he made the earth, on it the sky, on it the sea” (18.483; see [[earth]], [[sky]] and [[the-shield-of-achilles]]). The sea is the third of the three, and nothing more is said of it; the water that frames the Shield is the river Oceanus at its rim (18.607–608; see [[oceanus]]).

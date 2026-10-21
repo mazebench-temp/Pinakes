@@ -3,7 +3,7 @@ title: Snowy
 greek: ἀγάννιφος
 kind: epithet
 tags: [cosmic, mountain]
-summary: “Deep in snow,” an epithet of [[Olympus]], in Thetis' promise to plead with Zeus (1.420).
+summary: “Deep in snow,” ἀγάννιφος, an epithet of [[Olympus]], the mountain of the gods.
 aliases: [snow-capped, agannifos]
 grc: [ἀγάννιφον]
 en: [snowy]

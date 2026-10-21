@@ -1,0 +1,9 @@
+---
+summary: Plato quotes Book 18 for Achilles' choice, which Socrates takes for his own defense and Phaedrus for an act of love; for the sooty dust and Thetis' lament, which the Republic would strike from poetry; and for the anger sweeter than honey, a pain of the soul mixed with pleasure. The Laws recall the arms that the gods gave Peleus, and the Meno the statues of Daedalus.
+---
+
+- Achilles' choice: Thetis' “straight after Hector your own fate is ready” and his “May I die at once”, cited by Socrates at his trial (*Apology* 28b–d, on 18.95–104), and told by Phaedrus as a lover's choice rewarded with the Isles of the Blessed (*Symposium* 179e–180a): [[plato-the-choice-of-achilles]].
+- Achilles pouring the sooty dust over his head with both hands, and Thetis' “ah me, unhappy mother of the best of men”, among the laments of heroes and gods that the guardians should not hear (*Republic* 3.388a–c, on 18.23–24 and 18.54): [[plato-laments-of-gods-and-heroes]].
+- The anger that “sets even a man of much wisdom to rage” and is “far sweeter than dripping honey”, quoted for the pleasures mixed with the soul's pains (*Philebus* 47d–48a, on 18.108–109): [[plato-the-pleasure-of-anger]].
+- **The arms of Peleus.** The *Laws*, imagining Patroclus brought back to life without his arms while Hector held them, call the arms the dowry that the gods gave Peleus when he married Thetis (12.944a). Achilles says the same of them in this book: they were “the splendid gifts that the gods gave to Peleus” on the day the gods put Thetis in a mortal's bed (18.84–85; see [[the-armor-of-peleus]] and the Book 16 note).
+- **Daedalus.** Socrates tells Meno that the statues of Daedalus run away unless they are tied down, as true opinions do until reasoning binds them (*Meno* 97d–98a). Homer's Daedalus is the maker of the dancing floor at Cnossus (18.590–592; see [[daedalus]] and [[pausanias-the-dance-of-ariadne]]).

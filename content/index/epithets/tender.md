@@ -3,7 +3,7 @@ title: Tender
 greek: τέρην
 kind: epithet
 tags: [body]
-summary: “Soft, tender,” an epithet of tears, flesh, leaves and flowers.
+summary: “Soft, tender,” τέρην and ἁπαλός: epithets of tears, flesh, leaves and flowers, and of the neck and cheeks.
 aliases: [soft, teren]
 grc: [τέρεν]
 en: [tender]

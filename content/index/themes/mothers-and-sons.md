@@ -43,7 +43,7 @@ Hera smiles and takes the cup “from her son's hand”. The quarrel of the gods
 
 The scenes answer each other. Thetis goes to a stronger power on her son's behalf and wins. Hephaestus tells his mother to yield to that same power, because he cannot win for her. Apollo, too, is first named as a mother's son: “the son of Leto and of Zeus” (1.9; see [[leto|Leto]]).
 
-In Book 18 Thetis, among her sisters the Nereids, laments that she is the unhappy mother of the best of sons (18.54). The same question she asks in Book 1, “why are you weeping? what grief has reached your heart?”, returns there word for word (18.73), when Patroclus is dead.
+In Book 18 Thetis, among her sisters the Nereids, laments that she is the unhappy mother of the best of sons (18.54). The same question she asks in Book 1, “why are you weeping? What grief has come upon your heart?”, returns there word for word (18.73), when Patroclus is dead.
 
 ## Related entries
 

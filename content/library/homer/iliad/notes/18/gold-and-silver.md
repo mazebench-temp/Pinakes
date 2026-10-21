@@ -1,0 +1,6 @@
+---
+summary: Hephaestus works in gold and silver. His tripods have golden wheels and his handmaids are golden (18.375, 18.418); he gathers his tools into a silver chest (18.413), and Thetis sits on a silver-studded throne (18.389). He casts gold and silver into the fire with bronze and tin (18.474–475), and on the Shield gold and silver are the colors of the picture: golden gods, a golden field that darkens behind the plow, a golden vineyard on silver poles, cows of gold and tin and golden herdsmen, and dancers with golden knives on silver straps (18.517, 18.548–549, 18.561–563, 18.574–577, 18.597–598). Two talents of gold lie before the judges (18.507). Athena sets a golden cloud on Achilles' head (18.206).
+grc: [ἀργυροήλου, ἀργυρέην, χρύσειαι, ἄργυρον, χρυσείω, χρυσείη, ἀργυρέῃσιν, ἀργυρέων]
+---
+
+The plowland is the Shield's marvel: “And the earth grew dark behind them, and looked like plowed land, / though it was made of gold; that was a wonder beyond all” (18.548–549). Walter Leaf takes it as a means of shading the gold, by alloy or glaze, and thinks the poet was describing work he had seen (*Commentary on the Iliad*, 1900, on 18.548). See [[the-shield-of-achilles]], [[tin]] and [[kyanos]].

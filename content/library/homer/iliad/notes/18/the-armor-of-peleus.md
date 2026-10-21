@@ -1,0 +1,14 @@
+---
+summary: Book 18 tells what the loss of the armor costs. Antilochus' news ends with it (18.21); Achilles names the day the gods gave it to Peleus (18.84–85); Thetis says that Hector glories in it, but not for long (18.130–133); without it Achilles cannot go into the battle (18.188–197); and Thetis asks Hephaestus for new armor, since his trusted companion lost what he had (18.451, 18.457–461).
+refs: [18.21, 18.82-85, 18.130-133, 18.188-192, 18.197, 18.451, 18.460-461]
+---
+
+**The news.** Antilochus ends his message with the armor: “naked; for Hector of the gleaming helmet has his armor” (18.21), the verse that Menelaus spoke twice in Book 17 (17.122, 17.693; see [[the-fight-for-the-body-of-patroclus]]).
+
+**The day of the gift.** Achilles tells his mother what Hector took: “the armor, huge, a wonder to see, / and fine, the splendid gifts that the gods gave to Peleus / on the day when they put you into the bed of a mortal man” (18.83–85). In Book 17 the narrator said only that the gods gave the armor to Peleus (17.195–196); here Achilles names the day, the wedding of Peleus and Thetis, and wishes at once that it had never been (18.86–87; see [[thetis-in-the-house-of-peleus]]). θαῦμα ἰδέσθαι, “a wonder to see” (18.83), is said again in the book of the tripods of Hephaestus (18.377), and the god promises Thetis new armor that many men will marvel at (18.466–467; see [[the-making-of-the-arms]]).
+
+**Hector's glory.** Thetis knows where the armor is: “your fine armor is held among the Trojans, / bronze, gleaming; Hector of the gleaming helmet / wears it on his own shoulders and glories in it; but I say / he will not exult in it long, since his death is near him” (18.130–133). ἐπαγλαϊεῖσθαι, “exult in”, occurs only here in Homer, after ἀγάλλεται, “glories in”. In Book 17 Zeus, watching Hector put it on, saw the same nearness of death (17.201–208; see [[hector]]).
+
+**Naked.** Without the armor Achilles cannot fight. He tells Iris, “Those men have my armor” (18.188), and ἐκεῖνοι, “those men”, Leaf hears as a word of dislike (*Commentary on the Iliad*, 1900, on 18.188). He knows of no other armor that he could put on but the shield of Ajax (18.192–193; see [[the-shield-of-ajax]]), and Iris answers, “We too know well that your glorious armor is held by them” (18.197). He goes to the ditch as he is, and Athena puts the aegis around his shoulders (18.198–206; see [[aegis]]).
+
+**The new armor.** Thetis tells Hephaestus the armor's last journey: her son “put his own armor on Patroclus, / and sent him into the war” (18.451–452). She asks for a shield and a helmet, greaves fitted with ankle-pieces and a corselet, “for what he had, his trusted companion lost / when he was brought down by the Trojans” (18.457–461). Hephaestus makes them in the night (18.478–613; see [[the-shield-of-achilles]]). The old armor stays with Hector, who will wear it when Achilles meets him in the new (22.313–327).

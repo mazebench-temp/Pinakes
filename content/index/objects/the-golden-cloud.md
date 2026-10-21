@@ -22,7 +22,7 @@ Then the earth sends up grass and flowers beneath them, “and they drew over th
 
 **The Sun.** Zeus names the one watcher who sees everything: “not even the Sun could see through it to us, / whose light is the sharpest of all for seeing” (14.344–345; see [[helios]]). In the Odyssey it is the Sun who sees Ares and Aphrodite lying together in Hephaestus' house and goes to tell him (*Odyssey* 8.270–271, 8.302). Zeus' cloud keeps out even the Sun.
 
-**Gold.** The cloud is golden, χρύσεον and χρυσείη (14.344, 14.351), like the things that belong to the gods (see [[gold-and-silver]]). The only other golden clouds in Homer are those under which Ares sits on the peak of Olympus with the other gods, held back from the war by the will of Zeus (13.523–525). When Iris and Apollo come to Zeus on Gargarus in the next book, “a fragrant cloud” (θυόεν νέφος) is wreathed about him (15.152–153).
+**Gold.** The cloud is golden, χρύσεον and χρυσείη (14.344, 14.351), like the things that belong to the gods (see [[gold-and-silver]]). Elsewhere in Homer golden clouds hide Ares, who sits on the peak of Olympus with the other gods, held back from the war by the will of Zeus (13.523–525), and Athena sets a golden cloud as a crown on the head of Achilles at the ditch (18.205–206; see [[the-beacon-fires]]). When Iris and Apollo come to Zeus on Gargarus in the next book, “a fragrant cloud” (θυόεν νέφος) is wreathed about him (15.152–153).
 
 ## Elsewhere in Homer
 

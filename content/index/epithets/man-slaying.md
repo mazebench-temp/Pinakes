@@ -3,7 +3,7 @@ title: Man-slaying
 greek: ἀνδροφόνος
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: The standing epithet of [[Hector]]. His first appearance in the Iliad is in this formula, in Achilles' oath (1.242).
+summary: “Man-slaying,” ἀνδροφόνος, the standing epithet of [[Hector]] in the formula Ἕκτορος ἀνδροφόνοιο; it is also said of Ares and of Lycurgus, and of the hands of Achilles.
 aliases: [man-killing, androphonos]
 grc: [ἀνδροφόνοιο]
 en: [man-slaying]

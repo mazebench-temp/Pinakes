@@ -3,7 +3,7 @@ title: Barley meal
 greek: ἄλφιτα
 kind: object
 tags: [feast]
-summary: Ground barley, ἄλφιτα, the staple food that the Odyssey calls “the marrow of men”, stored in sacks for a voyage and sprinkled over meat and drink. In the Iliad Hecamede sprinkles it over the mixed drink she makes for Nestor and the wounded Machaon (11.631, 11.640).
+summary: Ground barley, ἄλφιτα, the staple food that the Odyssey calls “the marrow of men”, stored in sacks for a voyage and sprinkled over meat and drink.
 aliases: [barley, barley groats, alphita, meal]
 grc: [ἄλφιτα, ἀλφίτου]
 en: [barley meal, meal of holy barley]

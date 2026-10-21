@@ -16,7 +16,7 @@ passages:
 
 χόλος (“anger”) is the commonest word for anger in Homer, and its first sense is physical. Like χολή, it means “bile, gall”, and it is related to Latin *fel* and English *gall*. The Myrmidons, Achilles reports, used to say that his mother must have reared him on χόλος (16.203).
 
-The metaphor stays close to the body. Anger rises in the chest and swells there. In Book 18 Achilles wishes that strife and χόλος might perish, “which, far sweeter than dripping honey, swells in men's breasts like smoke” (18.107–110). It can be “digested” (καταπέσσω, 1.81), stopped (παύω, 1.192), let go (μεθίημι, 1.283). It seizes a man (1.387), and he can cease from it (1.224).
+The metaphor stays close to the body. Anger rises in the chest and swells there. In Book 18 Achilles wishes that strife and χόλος might perish, “which, far sweeter than dripping honey, / swells in the breasts of men like smoke” (18.107–110). It can be “digested” (καταπέσσω, 1.81), stopped (παύω, 1.192), let go (μεθίημι, 1.283). It seizes a man (1.387), and he can cease from it (1.224).
 
 The verb χολόω means “anger someone”, and in the passive “become angry”. χώομαι (“be angry, resentful”) is a different verb, of uncertain origin. It names the same passion, and the translation renders it “angry” or “enraged”.
 

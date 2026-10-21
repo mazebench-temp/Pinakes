@@ -11,7 +11,7 @@ en: [chest]
 
 ## Meaning
 
-στῆθος, usually plural στήθεα, is the chest or breast. For Homer it is not only a part of the body. It contains the organs of feeling and thought, the [[thymos|θυμός]], the [[phrenes|φρένες]], the [[etor|ἦτορ]] and the [[kradie|κραδίη]], and emotions are felt there. Anger “swells in men's breasts like smoke” (18.110).
+στῆθος, usually plural στήθεα, is the chest or breast. For Homer it is not only a part of the body. It contains the organs of feeling and thought, the [[thymos|θυμός]], the [[phrenes|φρένες]], the [[etor|ἦτορ]] and the [[kradie|κραδίη]], and emotions are felt there. Anger “swells in the breasts of men like smoke” (18.110).
 
 {{notes}}
 

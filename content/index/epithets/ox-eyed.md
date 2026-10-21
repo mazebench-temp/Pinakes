@@ -3,16 +3,16 @@ title: Ox-eyed
 greek: βοῶπις
 kind: epithet
 tags: [divine-epithet]
-summary: “Ox-eyed” or “cow-eyed,” praising large, lustrous eyes: the epithet of [[Hera]] in the formula βοῶπις πότνια Ἥρη, and of a few mortal women.
+summary: “Ox-eyed” or “cow-eyed,” praising large, lustrous eyes: the epithet of [[Hera]] in the formula βοῶπις πότνια Ἥρη, and of a few other women and a Nereid.
 aliases: [cow-eyed, boopis, large-eyed]
 grc: [βοῶπις]
 en: [ox-eyed]
-of: [hera, clymene]
+of: [hera, clymene, halia]
 ---
 
 ## Meaning
 
-βοῶπις = βοῦς (“ox, cow”) + ὤψ (“eye, face”): “with the eyes of a cow.” To modern ears the compliment is strange; in Homer it praises large, dark, gentle eyes. The same epithet is given to mortal women: Clymene, one of Helen's attendants (Il. 3.144), Phylomedusa, the mother of Menesthius (Il. 7.10), and the Nereid Halie (Il. 18.40). Those uses show that it was a term of beauty and not a peculiarity of Hera.
+βοῶπις = βοῦς (“ox, cow”) + ὤψ (“eye, face”): “with the eyes of a cow.” To modern ears the compliment is strange; in Homer it praises large, dark, gentle eyes. The same epithet is given to mortal women, Clymene, one of Helen's attendants (Il. 3.144), and Phylomedusa, the mother of Menesthius (Il. 7.10), and to the Nereid Halia (Il. 18.40). Those uses show that it was a term of beauty and not a peculiarity of Hera.
 
 Nineteenth-century scholars read it otherwise, as a trace of a time when Hera was worshipped in the form of a cow. Heinrich Schliemann linked it to cow figurines he found at Mycenae and Tiryns, and Hera's close ties to cattle in cult and myth (her sanctuary at Argos, the story of Io, turned into a heifer) kept the idea alive. Most scholars now doubt it. The second element ὤψ can mean “face” as well as “eye,” as in [[gray-eyed]] (γλαυκῶπις).
 

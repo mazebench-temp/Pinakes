@@ -11,3 +11,4 @@ The *Deipnosophistae* survives in fifteen books, some of them only in an abridgm
 
 - Nestor's cup, with the treatise of Asclepiades of Myrlea *On the Nestoris*, the doves read as the Pleiades, and Sosibius' “solution” of Nestor's strength (*Deipnosophistae* 11.487f–494b): [[athenaeus-nestors-cup]].
 - Aeschylus' saying that his tragedies were “slices from the great banquets of Homer” (*Deipnosophistae* 8.347e): [[aeschylus]].
+- The singer and the tumblers of the Cretan dance on the shield of Achilles, which, he says, Aristarchus moved into Menelaus' feast in the Odyssey (*Deipnosophistae* 5.180c–181c): [[the-singer-on-the-shield]].

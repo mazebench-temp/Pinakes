@@ -9,7 +9,9 @@ grc: [χάριν]
 en: [thanks]
 passages:
   - 4.93-103 | Athena tempts Pandarus
-except: [Rhetoric 1360b7, Rhetoric 1366a32, Rhetoric 1371a16, Rhetoric 1384a23, Rhetoric 1415b39]
+# 18.382: Χάρις is the goddess, the wife of Hephaestus (charis-wife-of-hephaestus), whom the pattern χάρις of the
+# Book 9 note would otherwise catch.
+except: [18.382, Rhetoric 1360b7, Rhetoric 1366a32, Rhetoric 1371a16, Rhetoric 1384a23, Rhetoric 1415b39]
 ---
 
 ## Meaning
@@ -18,7 +20,7 @@ except: [Rhetoric 1360b7, Rhetoric 1366a32, Rhetoric 1371a16, Rhetoric 1384a23, 
 
 Its absence is a grievance, and a sorrow. Iphidamas, killed soon after his wedding, lies dead “far from his wedded wife, from whom he saw no χάρις”, though he had given much for her (11.241–245). Achilles complains to the envoys of Book 9 that “there was, it seems, no thanks for fighting against the enemy without rest” (9.316–317), and Glaucus says the same to Hector in Book 17 (17.147–148). When Hera asks Sleep to lull Zeus, she promises to owe him χάρις all her days (14.235), and then promises him one of the Graces for a wife (14.267–268). At the funeral games Nestor thanks Achilles for a prize and prays that the gods give him a full return (χάριν μενοεικέα) for it (23.650).
 
-The Χάριτες, the Graces, are goddesses of the same name. Hephaestus' wife in the Iliad is Charis (18.382–383).
+The Χάριτες, the Graces, are goddesses of the same name (see [[graces]]). Hephaestus' wife in the Iliad is Charis, the word made a person (18.382–383; see [[charis-wife-of-hephaestus]]).
 
 {{notes}}
 

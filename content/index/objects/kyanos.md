@@ -3,7 +3,7 @@ title: Kyanos
 greek: κύανος
 kind: object
 tags: [craftsman, weapon]
-summary: κύανος, a dark blue substance used to inlay metalwork and furniture, rendered “dark blue enamel”: perhaps glass paste or the blue frit called Egyptian blue. In Homer it bands Agamemnon's corselet, forms the center of his shield and the feet of Nestor's table, and runs round the walls of Alcinous' palace.
+summary: κύανος, a dark blue substance used to inlay metalwork and furniture, rendered “dark blue enamel”: perhaps glass paste or the blue frit called Egyptian blue. In Homer it bands Agamemnon's corselet, forms the center of his shield and the feet of Nestor's table, surrounds the vineyard on the shield of Achilles, and runs round the walls of Alcinous' palace.
 aliases: [kuanos, cyanus, dark blue enamel, blue enamel, blue glass paste]
 grc: [κυάνοιο, "κυάνεοι δὲ δράκοντες", "κυάνεος ἐλέλικτο", κυανόπεζαν]
 en: [dark blue enamel, dark blue]

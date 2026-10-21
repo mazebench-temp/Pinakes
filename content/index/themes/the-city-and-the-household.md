@@ -24,7 +24,7 @@ The two worlds meet at the threshold. Hector stands on the threshold of his own 
 
 ## The city at peace and at war
 
-The shield Hephaestus makes for Achilles holds two cities. In one there are weddings and feasts and a trial in the market place; the other is besieged, “and their dear wives and little children stood on the wall to guard it, and with them the men whom old age held”, while the fighting men go out to lay an ambush (18.490–540). The second city is Troy's case. Its fall will be the ruin of its houses, and the Iliad pictures it through them: Priam's sons killed, his daughters dragged away, his bridal chambers ravaged, his infants dashed to the ground (22.62–65); Andromache led away to weave at another woman's loom (6.454–458); the child hurled from the tower (24.734–738). See [[sack-of-troy-foretold]], [[slavery-and-freedom]] and [[polis]].
+The shield Hephaestus makes for Achilles holds two cities. In one there are weddings and banquets and a trial in the place of assembly; the other is besieged, and “the wall was guarded by their dear wives and little children / standing upon it, and with them the men whom old age held”, while the fighting men go out to lay an ambush (18.490–540). The second city is Troy's case. Its fall will be the ruin of its houses, and the Iliad pictures it through them: Priam's sons killed, his daughters dragged away, his bridal chambers ravaged, his infants dashed to the ground (22.62–65); Andromache led away to weave at another woman's loom (6.454–458); the child hurled from the tower (24.734–738). See [[sack-of-troy-foretold]], [[slavery-and-freedom]] and [[polis]].
 
 ## Related entries
 

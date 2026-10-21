@@ -2,7 +2,7 @@
 title: Necklace
 greek: περιδέραιον
 kind: object
-summary: The necklace as a token of recognition, among the external signs that Aristotle lists with the little boat of Tyro; the most famous necklace of legend is Harmonia's, with which Polynices bribed Eriphyle.
+summary: Necklaces, ὅρμοι in Homer, among the jewelry Hephaestus forged in Thetis' cave and the gifts of Penelope's suitors. Aristotle lists the necklace among the tokens of recognition, with the little boat of Tyro; the most famous necklace of legend is Harmonia's, with which Polynices bribed Eriphyle.
 aliases: [necklaces, the necklace of Harmonia]
 ---
 

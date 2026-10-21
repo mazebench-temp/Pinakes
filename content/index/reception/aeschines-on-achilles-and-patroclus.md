@@ -1,0 +1,22 @@
+---
+title: Aeschines on Achilles and Patroclus
+greek: ἦ ῥʼ ἅλιον ἔπος ἔκβαλον ἤματι κείνῳ
+kind: anecdote
+tags: [rhetoric]
+summary: Prosecuting Timarchus, the orator Aeschines turned the defense's appeal to Achilles and Patroclus against it by reading Homer to the jury. Homer, he argued, hides their love and its name but makes its greatness plain to the educated, in Achilles' grief over his promise to Menoetius, his vow over the body, the ghost's wish to share one urn, and his choice of death after Hector. His text of Book 18 differs from ours in several places, and in one of them Patroclus is “by far the dearest” to Achilles.
+source: Aeschines, Against Timarchus 133, 141–150
+of: [achilles, patroclus, menoetius, thetis]
+refs: [18.95-99, 18.324-329, 18.333-335]
+---
+
+{{quote:47747473-e850-55bf-9eb6-9dd69ca90944}}
+
+**The speech.** Aeschines brought Timarchus to trial on the charge that his shameful private life barred him by law from speaking before the people (*Against Timarchus* 2–3). He expected the defense to praise beauty and to celebrate the friendship of Patroclus and Achilles, “which, we are told, had its source in love” (133). So, he tells the jury, since his opponents mention Achilles and Patroclus, Homer and the other poets, as if the jurors were uneducated, he too will say something about them, to show how far the good poets set chaste lovers of their like apart from the wanton (141).
+
+**Homer, as Aeschines reads him.** Homer, he says, speaks often of Patroclus and Achilles, but hides their love and the name of their friendship, thinking the excess of their affection plain to the educated among his hearers (142). Achilles, lamenting Patroclus' death, recalls as one of the most painful things that he broke his promise to Patroclus' father Menoetius: he had undertaken to bring the young man home safe to Opus if Menoetius sent him to Troy and entrusted him to his care, from which it is plain that it was for love that he took on that care (143). Aeschines recites the verses himself, 18.324–329 (144). Nor did Achilles only lament. Told by his mother that if he left Patroclus' death unavenged he would go home and die old in his own country, and if he avenged it he would soon die, he chose faithfulness to the dead over his own safety, and when everyone urged him to bathe and eat he swore to do neither until he had brought Hector's head to Patroclus' tomb (145). The ghost of Patroclus, coming to him as he slept, asked that their bones lie in one urn, as they had been reared together (146–147). Then the clerk reads the verses: the vow over the body, “I will not give you burial rites until I bring here Hector's / armor and head” (18.333–335; *Against Timarchus* 148), the ghost's speech (23.77–91; 149), and, to show that Achilles could have saved himself, Thetis' warning and his answer, “May I die at once” (18.95–99; 150). Euripides follows, on the love that leads to temperance and virtue (151).
+
+**His text.** Aeschines' Homer differs from ours in small things and one large one. The vow, which in our text calls on Patroclus by name (18.333), begins in his ἀλλʼ ἐπεὶ οὖν, φίλʼ ἑταῖρε, “but since, dear companion”. The lament ends with ἐρεύθειν for ἐρεῦσαι, “redden” (18.329). And in the answer to Thetis, Achilles was not to defend his companion when he was killed, ὅ μοι πολὺ φίλτατος ἔσκεν, “who was by far the dearest to me”, where our text goes on, “and he, very far from his native land” (18.99). Whether the line was so in Aeschines' copy or was changed to suit his case, the text does not say.
+
+**Homer.** The Iliad tells the promise to Menoetius in Achilles' lament over the body (18.324–327), and Patroclus' coming to Peleus' house from Opus, as a boy who had killed another over a game of knucklebones, in the ghost's speech (23.85–90; see [[menoetius]] and [[opus]]). Of love it says nothing in so many words; Achilles honored Patroclus “above all my companions, / as my own life” (18.81–82). Plato's Phaedrus also made Achilles' choice an act of love, and his Socrates made it an act of courage (see [[plato-the-choice-of-achilles]] and [[aeschylus-myrmidons]]).
+
+See [[achilles]] and [[patroclus]].

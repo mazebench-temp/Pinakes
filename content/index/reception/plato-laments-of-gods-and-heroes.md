@@ -6,7 +6,7 @@ tags: [philosophy, emotions]
 summary: In the Republic Socrates would take the laments of famous men out of poetry and give them to women, and still more those of the gods. His last example is Zeus' grief that Sarpedon, “dearest of men” to him, is fated to fall to Patroclus. Proclus answered that the heroes weep because they live the life of action, and the gods' tears are the poets' sign of their care for mortal things that perish.
 source: Plato, Republic 3.387d–388d; Proclus, On the Republic I 122–126 Kroll
 of: [lament, zeus, sarpedon, plato]
-refs: [16.433-434]
+refs: [16.433-434, 18.23-24, 18.54]
 passages:
   - 16.431-438 | Zeus grieves for Sarpedon
 ---

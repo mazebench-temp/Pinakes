@@ -1,0 +1,12 @@
+---
+summary: Olympus is the house of the gods to which Thetis goes for her son's armor and from which she leaps down with it like a hawk; Iris comes running from it at Hera's bidding, and the house of Hephaestus stands there among the immortals.
+passages:
+  - 18.142-148 | Thetis goes to Olympus
+  - 18.616-617 | Thetis leaps down from snowy Olympus
+---
+
+**Thetis' journeys.** Thetis sends the Nereids home into the sea and tells them: “and I will go to high Olympus, / to Hephaestus, famed for his craft” (18.142–143; see [[thetis]], [[high-olympus]] and [[hephaestus]]). “And she, the goddess silver-footed Thetis, went to Olympus / to bring glorious armor to her dear son. / So her feet carried her to Olympus” (18.146–148). Οὔλυμπον δέ, written in two words at 18.146 and 18.148, is Οὔλυμπόνδε, “to Olympus”, with the suffix of direction, as at 1.221, 1.425 and 15.133 (see the translation's note on 15.133). In Book 1 she went up to Olympus to supplicate Zeus (1.493–497); now she goes to the house of Hephaestus, “imperishable, starry, standing out among the immortals, / of bronze” (18.370–371), one of the houses that he built for the gods (1.606–608; see [[house]]). When the armor is made she comes down: “And she like a hawk leapt down from snowy Olympus, / carrying the gleaming armor from Hephaestus” (18.616–617; see [[like-a-hawk]]). νιφόεις, “snowy”, is said of Olympus only here in Homer, and elsewhere of other mountains: Hector likened to a snowy mountain, the mountains of Thrace, Tmolus and the mountains of Crete (13.754, 14.227, 20.385; *Odyssey* 19.338); Olympus is otherwise ἀγάννιφος, which the translation also renders “snowy” (see [[niphoeis]] and [[snowy-olympus]]).
+
+**Iris.** Iris comes to Achilles “running from Olympus as a messenger” (18.167), and tells him that neither Zeus nor any other “of the immortals who dwell around snowy Olympus” knows that Hera has sent her (18.185–186; see [[iris]]). Ὄλυμπον ἀγάννιφον stands in Homer only here and in Thetis' promise of Book 1, “I will go myself to snowy Olympus” (1.420). Walter Leaf observes that the line of secrecy (18.168) seems to assume that Zeus is still on Olympus with the other gods rather than on Ida, though this is not necessarily implied (*Commentary on the Iliad*, 1900, on 18.168; see [[zeus]]).
+
+**The goddesses on Olympus.** Thetis begins her plea to Hephaestus: “Hephaestus, is there any, of all the goddesses on Olympus, / who has endured in her heart so many grievous sorrows” (18.429–430; see [[thetis]]).

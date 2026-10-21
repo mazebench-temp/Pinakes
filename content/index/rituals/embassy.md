@@ -7,7 +7,7 @@ summary: An errand to another people with a message or a demand, ἀγγελίη
 aliases: [embassies, envoy, envoys, angelie]
 grc: [ἀγγελίην, ἀγγελίης]
 # ἀγγελίης at 13.252 is a message brought from the field, not an embassy.
-except: [7.416, 13.252]
+except: [7.416, 13.252, 18.17, 18.19]
 en: [embassy]
 passages:
   - 3.203-224 | The embassy to Troy

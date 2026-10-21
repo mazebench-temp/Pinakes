@@ -26,7 +26,7 @@ passages:
 
 ## Family
 
-He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers [[euphorbus|Euphorbus]] and [[hyperenor|Hyperenor]] are killed by Menelaus (14.516–519, 17.9–60). Book 18 joins him to Hector: “He was Hector's companion, and they were born in one night; but the one excelled far in words, the other with the spear” (18.251–252).
+He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers [[euphorbus|Euphorbus]] and [[hyperenor|Hyperenor]] are killed by Menelaus (14.516–519, 17.9–60). Book 18 joins him to Hector: “he was Hector's companion, and they were born in the same night, / but the one excelled far in words, the other with the spear” (18.251–252).
 
 {{quote:db8becb5-44a5-501a-a44b-6235a49d9ddc}}
 
@@ -38,7 +38,7 @@ He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250)
 
 **In battle.** He kills Prothoenor and boasts over him; Ajax's answering spear misses him and kills Antenor's son Archelochus (14.449–474). He kills Mecisteus and Otus of Cyllene, and Apollo will not let “the son of Panthous” fall among the champions (15.339, 15.518–522). He wounds Peneleos (17.597–600).
 
-**The last counsel.** On the night after Achilles shows himself at the trench, the Trojans hold their assembly standing. Polydamas, who “alone saw before and after” (18.250; see [[before-and-after]]), urges them to go back into the city before dawn: Achilles will not stay on the plain but will carry the fight to the city and its women, and dogs and vultures will eat many Trojans (18.254–283). Hector calls him a fool and refuses, the Trojans shout their applause, and the narrator calls them fools: they praised Hector, who devised evil, “but no one praised Polydamas, who gave good counsel” (18.284–313; see [[boule]]). Alone before the gates, Hector remembers: “Polydamas will be the first to heap reproach on me”, for he did not take his advice (22.99–107).
+**The last counsel.** On the night after Achilles shows himself at the trench, the Trojans hold their assembly standing. Polydamas, who “alone saw before and after” (18.250; see [[before-and-after]]), urges them to go back into the city before dawn: Achilles will not stay on the plain but will carry the fight to the city and its women, and dogs and vultures will eat many Trojans (18.254–283). Hector calls him a fool and refuses, the Trojans shout their applause, and the narrator calls them fools: they approved of Hector, who devised evil, “but no one approved of Polydamas, who had devised good counsel” (18.284–313; see [[boule]]). Alone before the gates, Hector remembers: “Polydamas will be the first to heap reproach on me”, for he did not take his advice (22.99–107).
 
 The poem sets the counselor beside the fighter. Each time Hector refuses him, events bear Polydamas out, and Hector pays for the last refusal with his life.
 

@@ -1,0 +1,23 @@
+---
+summary: Hera sends Iris to Achilles in secret from Zeus. She bids him rise and defend Patroclus, whose head Hector means to fix on the stakes, and when he answers that he has no armor and that his mother has forbidden him to arm, she tells him to go to the ditch just as he is and show himself to the Trojans.
+# Unnamed: her running from Olympus and standing near him (18.167, 18.169), and "We too know well" (18.197).
+refs: [18.167, 18.169, 18.197]
+passages:
+  - 18.165-202 | Iris rouses Achilles
+---
+
+**Sent by Hera.** Hector has seized the body of Patroclus three times by the feet, and the two Ajaxes cannot drive him off (18.155–164; see [[the-fight-for-the-body-of-patroclus]]):
+
+{{quote:6c2ea8aa-8d5a-5ff9-a9b9-96aaedb32a3b}}
+
+ποδήνεμος ὠκέα Ἶρις, “swift Iris, wind-footed”, is her formula when she brings the news of the Achaeans' advance to the Trojans (2.786) and when she answers Poseidon (15.200), and it names her three times here, as she comes and before each of her answers (18.166, 18.183, 18.196; see [[wind-footed]]). θωρήσσεσθαι, “to arm”, is to prepare for battle, without thought of armor, which Achilles does not have (Walter Leaf, *Commentary on the Iliad*, 1900, on 18.167). Elsewhere in the Iliad Zeus sends her, or she comes with no sender named; only here does Hera send her on an errand of her own (see [[hera]] and [[would-have-had-not]]). Leaf suspects the verse of secrecy, which seems to assume that Zeus is on Olympus and not on Ida (on 18.168; see [[zeus]] and the translation's note on 18.168).
+
+**Her message.** “Rise, son of Peleus, most terrible of all men; / defend Patroclus” (18.170–171; see [[most-terrible-of-men]]): ἐκπαγλότατε here seems to express amazement at his remissness (Leaf on 18.170). The battle stands before the ships, and the Trojans strive to drag the body to Ilios; Hector above all, “and his heart bids him fix the head / on the stakes, when he has cut it from the tender neck” (18.176–177; see the translation's note on 18.177). Hector had meant to cut the head from the shoulders and give the corpse to the Trojan dogs (17.125–127; see [[hector]]); Aristarchus, who held that Hector meant to exchange the body for Sarpedon's (17.160–163), took 18.176–177 for a pious fraud of Iris to rouse Achilles (see the translation's note on 18.154–156, 18.175–177). She ends with shame: “Up, then, and lie here no longer; let shame come into your heart / that Patroclus should become a plaything for the Trojan dogs; / yours will be the disgrace, if the corpse comes back disfigured at all” (18.178–180; see [[sebas]], [[lobe]] and [[dogs]]). The middle verse ends Menelaus' call to the Achaean leaders in Book 17 (18.179 = 17.255).
+
+**Who sent you?** Achilles asks in a single verse:
+
+{{quote:fd9b61d0-b5c3-523d-84b3-bcb3aba283bc}}
+
+Leaf notes that this is the first speech of a single verse in the Iliad, and that if 18.168 is rejected, 18.181–186, or at least 18.185–186, must go with it (on 18.182). Poseidon also calls her Ἶρι θεά, “Goddess Iris” (15.206). Her answer names Hera with her title, Διὸς κυδρὴ παράκοιτις, “the glorious wife of Zeus” (18.184), and Zeus with his, “throned on high” (18.185; see [[high-throned]]), and she speaks of the gods as those “who dwell around snowy Olympus” (18.186; see [[snowy-olympus]]).
+
+**As you are.** Achilles answers that the Trojans have his armor, that his dear mother does not allow him to arm until she brings new armor from Hephaestus, and that he knows of no other man whose armor he could put on, “unless it were the shield of Ajax, son of Telamon” (18.188–195; see [[thetis]], [[ajax]] and [[the-shield-of-ajax]]). Iris has an answer for that too: “We too know well that your glorious armor is held by them; / but go just as you are to the ditch and show yourself to the Trojans” (18.197–198; see the translation's note on 18.198 and [[the-achaean-wall]]). Her last verses are Nestor's words to Patroclus, which Patroclus spoke again to Achilles, “and the warlike sons of the Achaeans may draw breath, / worn out as they are; and brief is the breathing space in war” (18.200–201 = 11.800–801, 16.42–43; see [[brief-is-the-breathing-space]]); Leaf thinks them interpolated here, since Achilles is to be roused by his friend's body, not by the Achaeans' weariness (on 18.200; see the translation's note on 18.200–201). “So saying, swift-footed Iris went away” (18.202), the verse that ends her errands to Hera and Athena, to Hector and to Priam (8.425, 11.210, 24.188), and Athena throws the aegis around Achilles' shoulders (18.203–206; see [[athena]] and [[aegis]]). See [[messenger-scene]].

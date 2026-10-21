@@ -1,6 +1,8 @@
 ---
 summary: Hera begins her adornment by cleansing her body with ambrosia, and the oil, the tresses and the robe that follow are all ambrosial.
 grc: [ἀμβροσίῃ]
+# ἀμβροσίη at 18.268 is the adjective, "the ambrosial night" (ambrosial).
+except: [18.268]
 passages:
   - 14.170-178 | Ambrosia and oil
 ---

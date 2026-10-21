@@ -12,7 +12,7 @@ of: [teucer]
 
 ## Meaning
 
-κεφαλή (“head”) stands in Homer for the whole person, and for a life. Achilles honored Patroclus “equal to my own head” (ἶσον ἐμῇ κεφαλῇ, 18.81–82) and greets his ghost as ἠθείη κεφαλή, “dear head” (23.94); Penelope longs for “such a head” (τοίην … κεφαλήν), her lost husband (Od. 1.343). The vocative φίλη κεφαλή occurs only here. The translation gives it the English idiom of affection, “dear heart.” Compare [[my-dear]] and [[dear-brother]].
+κεφαλή (“head”) stands in Homer for the whole person, and for a life. Achilles honored Patroclus ἶσον ἐμῇ κεφαλῇ, “equal to my own head”, “as my own life” in the translation (18.81–82) and greets his ghost as ἠθείη κεφαλή, “dear head” (23.94); Penelope longs for “such a head” (τοίην … κεφαλήν), her lost husband (Od. 1.343). The vocative φίλη κεφαλή occurs only here. The translation gives it the English idiom of affection, “dear heart.” Compare [[my-dear]] and [[dear-brother]].
 
 ## Use
 

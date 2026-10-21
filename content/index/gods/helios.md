@@ -13,4 +13,4 @@ en: [sun]
 
 ## Elsewhere in Homer
 
-In the Odyssey he is again the god "who sees all things and hears all things" (11.109, 12.323), and his cattle on Thrinacia are the ruin of Odysseus' crew (Odyssey 12).
+In the Odyssey he is again the god "who sees all things and hears all things" (*Odyssey* 11.109, 12.323), and his cattle on Thrinacia are the ruin of Odysseus' crew (*Odyssey* 12).

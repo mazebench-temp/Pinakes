@@ -3,11 +3,11 @@ title: The lion and its cubs
 greek: ἑστήκει ὥς τίς τε λέων περὶ οἷσι τέκεσσιν
 kind: simile
 tags: [wild-animal, warfare, kinship]
-summary: Ajax covers the body of Patroclus with his broad shield and stands over it like a lion over its young, when huntsmen meet him in the forest as he leads them, and he exults in his strength and draws down all the skin of his brow over his eyes (17.132–137).
-aliases: [like a lion over its young, Ajax like a lion with its cubs, the lion and the huntsmen, the lion's brow]
+summary: A lion and its young, in two similes for the body of Patroclus. Ajax stands over the body like a lion over its cubs when huntsmen meet it in the forest (17.132–137); Achilles, leading the lament, groans like a bearded lion whose cubs a deer hunter has stolen, and which searches the valleys for the man's tracks in bitter anger (18.318–322).
+aliases: [like a lion over its young, Ajax like a lion with its cubs, the lion and the huntsmen, the lion's brow, the lion robbed of its cubs, Achilles like a lion robbed of its cubs, the stolen cubs]
 grc: ["λέων περὶ οἷσι τέκεσσιν", "νήπιʼ ἄγοντι", "ἄνδρες ἐπακτῆρες", ἐπισκύνιον, "ὣς Αἴας περὶ Πατρόκλῳ"]
 en: [over his young, when men meet him in the forest, huntsmen, draws down all the skin of his brow]
-of: [ajax, patroclus]
+of: [ajax, patroclus, achilles]
 passages:
   - 17.114-139 | Ajax stands over Patroclus
 ---

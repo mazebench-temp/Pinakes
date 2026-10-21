@@ -41,6 +41,8 @@ Mother of [[Achilles]]. Nestor uses her divinity as a measure of Achilles' stren
 
 Wife of [[Peleus]]. Achilles grew up hearing her in his father's halls, so she lived for a time in the house of her mortal husband. See [[thetis-in-the-house-of-peleus]].
 
+Sister of the [[nereids|Nereids]], the daughters of the Old Man of the Sea, whom she calls κασίγνηται, “my sisters” (18.52; ἁλίῃσι κασιγνήτῃσι, “her sisters of the sea”, 18.139).
+
 ## Descriptions
 
 {{quote:2d690683-b504-5296-af7e-04584385a039}}
@@ -61,9 +63,9 @@ Achilles reminds her of her greatest service to Zeus. When Hera, Poseidon and At
 
 See [[binding-of-zeus]].
 
-## Elsewhere in Homer
+Homer knows her as a rescuer of gods. Besides Zeus, she took Dionysus to her bosom when Lycurgus drove him into the sea (6.130–137; see [[lycurgus-and-dionysus]]), and with Eurynome she took in Hephaestus when he had fallen from heaven by his mother's will, and kept him hidden for nine years (18.394–405; see [[eurynome]] and [[fall-of-hephaestus]]).
 
-Later in the Iliad she says Zeus forced her, alone of the sea goddesses, to marry a mortal (18.432–434). Homer knows her as a rescuer of gods: she saved Hephaestus when Hera threw him from heaven (18.395–405) and sheltered Dionysus from Lycurgus (6.130–137).
+Of all the goddesses of the sea, Zeus gave her alone to a mortal man, and she endured the bed of Peleus “much against my will” (18.432–434). Hera says that she herself reared Thetis and gave her to Peleus for his wife, and that all the gods came to the wedding (24.59–63). See [[thetis-in-the-house-of-peleus]].
 
 ## Outside Homer
 

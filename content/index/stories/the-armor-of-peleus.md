@@ -12,8 +12,8 @@ participants: [peleus, thetis, achilles, patroclus, apollo, hector, zeus]
 # (16.278-283), Apollo strikes the armor from Patroclus (16.793-804), "they themselves took the armor" (16.846).
 # Book 17: "his armor" (17.122 = 17.693), Hector takes it and sends it to the city (17.125, 17.130-131), puts it on
 # (17.186-187, 17.191-197), Zeus watches (17.199, 17.202-208), fits it (17.210), Hector flashing in it (17.214),
-# "he has the armor too" (17.450), Alcimedon (17.472-473). Later: 18.20-21, 18.82-85, 18.130-133, 18.188-197,
-# 19.411-412, 22.321-327, 22.367-369, 22.399.
+# "he has the armor too" (17.450), Alcimedon (17.472-473). Book 18: the refs are in the Book 18 note (18.21,
+# 18.82-85, 18.130-133, 18.188-192, 18.197, 18.451, 18.460-461). Later: 19.411-412, 22.321-327, 22.367-369, 22.399.
 refs: [16.40-41, 16.64, 16.134, 16.278-283, 16.793-804, 16.846, 17.122, 17.125, 17.130-131, 17.186-187, 17.191-197, 17.199, 17.202-208, 17.210, 17.214, 17.450, 17.472-473, 17.693]
 passages:
   - 17.192-197 | The armor the gods gave Peleus
@@ -31,7 +31,7 @@ passages:
 
 **Lost.** At Patroclus' last charge Apollo strikes the helmet from his head, the helmet that “guarded the head and the graceful brow of a divine man, / Achilles; but then Zeus gave it to Hector / to wear on his head, and his destruction was near him” (16.798–800). The shield falls, and the god loosens the corselet (16.801–804; see [[helmet]] and [[corselet]]). Patroclus, dying, says that the gods themselves took the armor from his shoulders (16.846). Hector strips it from the body and sends it to the city, “to be great fame for him” (17.125–131); then he runs after the men who carry it, puts it on in place of his own, and Zeus fits it to his body (17.183–214; see [[hector]] and [[zeus]]).
 
-**Worn by Hector.** Hector wears it through the fight for Patroclus' body (17.450, 17.472–473; see [[the-fight-for-the-body-of-patroclus]]). Thetis tells Achilles that Hector glories in it on his own shoulders, but not for long, for his death is near him (18.130–133), and she promises to bring him new armor from Hephaestus (18.136–137). Until she comes he cannot go into battle: the Trojans have his armor, and he knows no other man's that he could put on, except the shield of Ajax (18.188–193). She brings the new armor at dawn (19.10–12).
+**Worn by Hector.** Hector wears it through the fight for Patroclus' body (17.450, 17.472–473; see [[the-fight-for-the-body-of-patroclus]]). Thetis tells Achilles that Hector glories in it on his own shoulders, but not for long, for his death is near him (18.130–133), and she promises to bring him new armor from Hephaestus (18.136–137; see [[the-making-of-the-arms]]). Until she comes he cannot go into battle: the Trojans have his armor, and he knows no other man's that he could put on, except the shield of Ajax (18.188–193). She brings the new armor at dawn (19.10–12).
 
 **Taken back.** When Achilles meets Hector at the Scaean gates, the armor that Hector stripped from Patroclus covers his whole body but the throat, where the collarbones part the neck from the shoulders, and there Achilles drives his spear (22.321–327). He strips it, bloody, from the dead man's shoulders and lifts it into his chariot (22.367–369, 22.399). The poem says no more of it.
 

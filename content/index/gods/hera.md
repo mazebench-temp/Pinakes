@@ -45,6 +45,8 @@ Mother of [[Hephaestus]], who calls her "my dear mother"
 
 χρυσόθρονος = χρυσός (gold) + θρόνος (throne): of the golden throne. The book's last word.
 
+Iris calls her Διὸς κυδρὴ παράκοιτις, “the glorious wife of Zeus” (18.184), and her son Hephaestus, remembering how she wished to hide him away because he was lame, calls her κυνῶπις, “dog-faced”, the insult that Achilles throws at Agamemnon and Helen at herself (18.396; 1.159, 3.180; see [[dog-face]] and [[hephaestus]]).
+
 {{notes}}
 
 ## Elsewhere in Homer

@@ -23,7 +23,7 @@ passages:
 
 - **Golden nails.** It is χρυσείοις ἥλοισι πεπαρμένον, “studded with golden nails” (11.633), the words used of the scepter that Achilles throws to the ground (1.246); golden studs also gleam on Agamemnon's sword (11.29–30).
 - **Four handles and the doves.** Its οὔατα, “ears”, are handles, as on Hephaestus' tripods (18.378). There are four, and “around each two doves / of gold were feeding” (11.634–635; see [[doves]]). The verb νεμέθοντο, “were feeding”, is found only here.
-- **Two bases.** “And below were two bases” (δύω δʼ ὑπὸ πυθμένες ἦσαν, 11.635). πυθμήν is the base or bottom of a vessel; Hephaestus sets wheels “beneath each base” of his tripods (18.375). Whether the two are two feet, or two supports beneath the bowl, and how they were joined to the handles, has been much debated (see the translation's note on 11.624–641).
+- **Two bases.** “And below were two bases” (δύω δʼ ὑπὸ πυθμένες ἦσαν, 11.635). πυθμήν is the base or bottom of a vessel; Hephaestus sets golden wheels “under the base of each” of his tripods (18.375). Whether the two are two feet, or two supports beneath the bowl, and how they were joined to the handles, has been much debated (see the translation's note on 11.624–641).
 
 **The weight.** “Another man could move it from the table only with toil / when it was full, but Nestor, the old man, lifted it without toil” (11.636–637). μογέων, “with toil”, is set against ἀμογητί, “without toil”, a word found nowhere else in Homer. A few verses later Nestor tells Patroclus that his strength “is not such as it was before in my supple limbs” (11.668–669; see [[nestor]] and [[old-age-and-memory]]).
 

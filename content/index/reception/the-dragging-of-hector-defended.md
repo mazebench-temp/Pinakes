@@ -6,7 +6,7 @@ tags: [scholarship, homeric-problems]
 summary: Plato would not have the young believe that Achilles dragged Hector around the tomb of Patroclus. Homer's defenders answered from Book 17. Hector had dragged Patroclus first, meaning to cut off his head and give the body to the Trojan dogs, and Achilles did to him only part of what he had meant to do. A note in the scholia, collected among the fragments of Aristotle's Homeric Problems, gives this answer and adds a Thessalian custom; Proclus repeats both.
 source: "Plato, Republic 3.391a–c; Aristotle, Homeric Problems, fr. 389 Gigon (scholia on Iliad 24.15); Proclus, On the Republic I 150–151 Kroll"
 of: [hector, achilles, patroclus, plato, aristotle, proclus-the-neoplatonist]
-refs: [17.125-127, 17.389-395]
+refs: [17.125-127, 17.389-395, 18.175-177]
 ---
 
 {{quote:6a794336-df3e-505a-b260-f600bef631ab}}

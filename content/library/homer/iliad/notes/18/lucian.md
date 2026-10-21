@@ -1,0 +1,5 @@
+---
+summary: Lucian's dialogue On the Dance passes over the dance of Ariadne on the shield of Achilles and its two tumblers as known to his reader, and praises the young men who whirl at the weddings as the finest thing Hephaestus put on the shield.
+---
+
+- **The dances on the shield.** Lucian passes over what Homer made on the shield about Ariadne and the dance that Daedalus fashioned for her, “as you have read it”, and the two dancers whom the poet calls tumblers, leading the dance, and again what he says on the same shield, “young men dancers were whirling”, as though Hephaestus had made this the finest thing on the shield (*On the Dance* 13, on 18.494 and 18.590–606; see [[the-singer-on-the-shield]] and [[dance]]). Just before, he describes the dance called the necklace, in which young men and maidens dance in a line, the young man leading with the steps he will one day use in war and the maiden following (12); Walter Leaf compares it with the dance of young men and maidens on the Shield (*Commentary on the Iliad*, 1900, on 18.593).

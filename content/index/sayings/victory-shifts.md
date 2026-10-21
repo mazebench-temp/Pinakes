@@ -3,8 +3,8 @@ title: “Victory shifts from man to man”
 greek: νίκη δʼ ἐπαμείβεται ἄνδρας
 kind: saying
 tags: [warfare, divine-will]
-summary: Paris' answer to Hector's rebuke in Book 6: his wife has urged him back to the war, and it will be better so, for “victory shifts from man to man”. He said much the same after his defeat in Book 3.
-aliases: [victory shifts, victory passes from man to man, the fortune of war]
+summary: The soldier's comfort that victory changes sides: Paris' “victory shifts from man to man” (6.339), Nestor's word that Zeus gives glory to Hector today and to the Achaeans another day (8.141–143), and Hector's “Enyalius is impartial, and he kills the man who would kill” (18.309), which Aristotle cites as a common maxim.
+aliases: [victory shifts, victory passes from man to man, the fortune of war, Enyalius is impartial, xynos Enyalios, the god of war is impartial]
 grc: ["νίκη δʼ ἐπαμείβεται"]
 en: [victory shifts from man to man]
 passages:

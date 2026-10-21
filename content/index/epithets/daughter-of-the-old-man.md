@@ -12,7 +12,7 @@ of: [thetis, old-man-of-the-sea]
 
 ## Meaning
 
-θυγάτηρ (“daughter”) + ἁλίοιο (“of the sea,” from ἅλς, “salt, sea”) + γέροντος (“old man”). Homer never names Thetis' father. He is the old man of the sea, who lives in its depths with his daughters. Hesiod calls him Nereus (*Theogony* 233–236), and his daughters, the Nereids, are listed by name in Iliad 18 (Il. 18.38–49). The Odyssey gives the same title to another sea god, Proteus, whose daughter Eidothea is Πρωτέος ἰφθίμου θυγάτηρ, ἁλίοιο γέροντος (Od. 4.365).
+θυγάτηρ (“daughter”) + ἁλίοιο (“of the sea,” from ἅλς, “salt, sea”) + γέροντος (“old man”). Homer never names Thetis' father. He is the old man of the sea, who lives in its depths with his daughters. Hesiod calls him Nereus (*Theogony* 233–236), and his daughters, the [[nereids|Nereids]], are listed by name in Iliad 18 (Il. 18.38–49). The Odyssey gives the same title to another sea god, Proteus, whose daughter Eidothea is Πρωτέος ἰφθίμου θυγάτηρ, ἁλίοιο γέροντος (Od. 4.365).
 
 ## Use
 

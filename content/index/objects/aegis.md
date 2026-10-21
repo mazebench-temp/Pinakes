@@ -15,7 +15,7 @@ The aegis (αἰγίς) belongs to [[Zeus]], whose standing epithet αἰγίο�
 
 ## Elsewhere in Homer
 
-The smith [[Hephaestus]] gave it to Zeus to carry “to put men to rout” (Iliad 15.308–310). Rout, Strife, Courage and Onslaught are set on it with the Gorgon's head (Iliad 5.738–742). Zeus shakes it to raise a storm and send panic among men (Iliad 17.593–596), and Athena and Apollo carry it into battle.
+The smith [[Hephaestus]] gave it to Zeus to carry “to put men to rout” (Iliad 15.308–310). Rout, Strife, Courage and Onslaught are set on it with the Gorgon's head (Iliad 5.738–742). Zeus shakes it to raise a storm and send panic among men (Iliad 17.593–596), and Athena and Apollo carry it into battle. Once a mortal wears it: Athena throws it around the shoulders of Achilles when he goes unarmed to the ditch (Iliad 18.203–204).
 
 ## Outside Homer
 

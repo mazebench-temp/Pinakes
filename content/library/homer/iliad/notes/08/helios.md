@@ -13,6 +13,6 @@ passages:
 
 {{quote:afbb3fe7-2380-54db-a972-5bc74db915bc}}
 
-The day ends when the sun sets, and the two armies feel it differently. The Trojans, who were winning, lose the light "against their will"; the Achaeans welcome the night they have prayed for (see [[war-and-night]], [[sunset-lines]] and [[oceanus]]). Agamemnon prayed for the opposite on the first day of battle, that the sun might not set before he had burned Priam's palace (2.412–415). On the day of Patroclus' death Hera sends "the unwearied sun", unwilling, down into the streams of Oceanus, and the Achaeans can rest from the fighting (18.239–242).
+The day ends when the sun sets, and the two armies feel it differently. The Trojans, who were winning, lose the light "against their will"; the Achaeans welcome the night they have prayed for (see [[war-and-night]], [[sunset-lines]] and [[oceanus]]). Agamemnon prayed for the opposite on the first day of battle, that the sun might not set before he had burned Priam's palace (2.412–415). On the day of Patroclus' death Hera sends "the tireless Sun", unwilling, to go back to the streams of Oceanus, and the Achaeans can rest from the fighting (18.239–242).
 
 **Sunrise.** Hector ends his night assembly with a boast about the morning. Diomedes will lie wounded among the foremost, with many companions around him, "when the sun rises tomorrow" (8.535–538; see [[hector]] and [[immortal-and-ageless]]).

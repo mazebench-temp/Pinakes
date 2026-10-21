@@ -10,6 +10,6 @@ grc: [αὐλῶν συρίγγων]
 
 ## The instrument
 
-The syrinx belongs to shepherds and to Pan, who invented it, the story went, from the reeds into which the nymph Syrinx was changed. In the Iliad it is heard from the Trojan camp at night (10.13), and on the shield of Achilles two herdsmen walk behind their cattle “delighting in the panpipes” (18.526).
+The syrinx belongs to shepherds and to Pan, who invented it, the story went, from the reeds into which the nymph Syrinx was changed. In the Iliad it is heard from the Trojan camp at night (10.13), and on the shield of Achilles two herdsmen walk behind their cattle “taking their delight in their pipes” (18.526).
 
 {{notes}}

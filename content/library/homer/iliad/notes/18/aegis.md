@@ -1,0 +1,7 @@
+---
+summary: When Achilles rises to go unarmed to the ditch, Athena throws the tasseled aegis around his shoulders, the only time in the poem that a living man wears it, and crowns his head with a golden cloud and a flame.
+passages:
+  - 18.203-206 | The aegis on Achilles' shoulders
+---
+
+**On Achilles' shoulders.** Achilles has no armor, and Iris has told him to go to the ditch just as he is and show himself to the Trojans (18.197–201; see [[iris]]). “And Achilles, dear to Zeus, rose up; and Athena around / his mighty shoulders flung the tasseled aegis” (18.203–204; see [[athena]] and [[achilles]]). βάλʼ αἰγίδα θυσσανόεσσαν are the words with which Athena slung the aegis around her own shoulders in Book 5, the aegis on which Rout, Strife, Courage and Onslaught are set with the Gorgon's head (5.738–742; see [[tasseled]] and [[rout]]), and Walter Leaf refers to its hundred golden tassels in Book 2 (2.447–449; *Commentary on the Iliad*, 1900, on 18.204). Zeus gave it to Apollo to carry against the Achaeans in Book 15 (15.229–230, 15.307–322; see [[apollo]]) and shook it himself over Ida in Book 17 (17.593–596; see [[zeus]]). Only here does a living man wear it; in Book 24 Apollo will cover the dead Hector with the golden aegis, to keep his body from being torn as Achilles drags it (24.20–21). Then Athena sets a golden cloud on his head and kindles a flame from him, and he shouts from the ditch, and the Trojans are thrown into confusion (18.205–231).

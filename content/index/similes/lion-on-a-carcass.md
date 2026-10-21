@@ -3,11 +3,11 @@ title: Lion on a carcass
 greek: ὥς τε λέων ἐχάρη μεγάλῳ ἐπὶ σώματι κύρσας
 kind: simile
 tags: [wild-animal, warfare]
-summary: When Menelaus sees Alexander striding out in front of the Trojans, he rejoices “as a lion rejoices when he comes upon a great carcass”, a stag or a wild goat, and devours it though dogs and young men rush at him (3.21–28). The next simile answers it: Alexander shrinks back like a man who meets a serpent.
-aliases: [the hungry lion, Menelaus like a lion]
+summary: A hungry lion on a carcass that men cannot drive away. Menelaus rejoices at the sight of Alexander “as a lion rejoices when he comes upon a great carcass”, which he devours though dogs and young men rush at him (3.21–28), and Hector will not be frightened from the body of Patroclus, as shepherds cannot drive a tawny lion from a carcass when he is very hungry (18.161–164).
+aliases: [the hungry lion, Menelaus like a lion, Hector like a hungry lion, the tawny lion and the shepherds]
 grc: [λέων ἐχάρη, ἐπὶ σώματι κύρσας]
 en: [rejoices when he comes upon a great carcass]
-of: [menelaus]
+of: [menelaus, hector]
 ---
 
 ## The simile

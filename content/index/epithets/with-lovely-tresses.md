@@ -3,7 +3,7 @@ title: With lovely tresses
 greek: ἐϋπλόκαμος
 kind: epithet
 tags: [heroic-epithet, woman, body]
-summary: “With lovely braided hair,” an epithet of women and goddesses: in the Iliad of the Trojan women and of serving women, in the Odyssey above all of goddesses, Calypso and Circe.
+summary: “With lovely braided hair,” an epithet of women and goddesses: in the Iliad of the Trojan women, of serving women and of the Nereid [[amatheia|Amatheia]], in the Odyssey above all of goddesses, Calypso and Circe.
 aliases: [euplokamos, lovely-tressed, with lovely braids]
 grc: [ἐϋπλόκαμοι]
 en: [with lovely tresses]

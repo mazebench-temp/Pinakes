@@ -7,7 +7,7 @@ passages:
   - 10.241-247 | Diomedes chooses Odysseus
 ---
 
-**Hector's plans.** Agamemnon has said that Zeus favors Hector (10.45–46). Nestor answers with a hope: “surely Zeus the counselor will not fulfill for Hector all the plans that he now hopes for” (πάντα νοήματα, 10.104–105). A νόημα is what a man has in mind, an intention or a plan, and the hope is that only the god's will be fulfilled (see [[plan-of-zeus]]). Achilles will say the same of himself after Patroclus' death: “Zeus does not bring all men's plans to fulfillment” (ἀλλʼ οὐ Ζεὺς ἄνδρεσσι νοήματα πάντα τελευτᾷ, 18.328).
+**Hector's plans.** Agamemnon has said that Zeus favors Hector (10.45–46). Nestor answers with a hope: “surely Zeus the counselor will not fulfill for Hector all the plans that he now hopes for” (πάντα νοήματα, 10.104–105). A νόημα is what a man has in mind, an intention or a plan, and the hope is that only the god's will be fulfilled (see [[plan-of-zeus]]). Achilles will say the same of himself after Patroclus' death: “But Zeus does not fulfill for men all their plans” (ἀλλʼ οὐ Ζεὺς ἄνδρεσσι νοήματα πάντα τελευτᾷ, 18.328).
 
 **Thoughtlessness.** Nestor blames Menelaus for sleeping while his brother toils; Agamemnon defends him. Menelaus often hangs back, “not giving way to sloth or to thoughtlessness of mind” (ἀφραδίῃσι νόοιο, 10.122), but because he looks to his brother to lead (10.120–123; see [[menelaus]]). The same noun returns with Dolon, who runs past the hidden Achaeans “in his thoughtlessness” (ἀφραδίῃσιν, 10.350).
 

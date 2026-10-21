@@ -1,0 +1,12 @@
+---
+summary: Book 18 ends the withdrawal. Achilles reproaches himself as an idle burden on the earth beside the ships (18.104) and wants the Trojan women to learn that he has long ceased from the war (18.125); the Trojans hold their assembly standing, in fear, because the man who had long ceased from battle has appeared (18.246–248); and Polydamas and Thetis look back on the wrath and the grief that kept him away (18.257–258, 18.446).
+refs: [18.104, 18.125, 18.247-248, 18.257-258, 18.446]
+---
+
+**Idle by the ships.** In Book 1 Thetis told her son to “sit beside your swift-sailing ships / and keep up your wrath against the Achaeans, and hold back from war entirely” (1.421–422), and he did: “But he kept up his wrath, sitting beside his swift-sailing ships” (1.488; see [[menis]]). In Book 18 he says it of himself as a reproach: “but I sit idly beside the ships, a burden on the earth” (18.104). Walter Leaf takes ἐτώσιον as an adverb, “idly”, comparing the suitors' scorn of the beggar in the *Odyssey*, αὔτως ἄχθος ἀρούρης, “a mere burden on the earth” (*Commentary on the Iliad*, 1900, on 18.104; *Odyssey* 20.379; see the translation's note on 18.104).
+
+**Long ceased.** Thetis' “hold back from war” (πολέμου δʼ ἀποπαύεο, 1.422) returns twice in the book. Achilles wants the Trojan women to weep, “and let them know that I have long ceased from the war” (δηρὸν … πολέμοιο πέπαυμαι, 18.125), and the Trojans stand trembling in their assembly “because Achilles / had appeared, who had long ceased from grievous battle” (18.247–248; see [[trojans]]). Leaf counts the “long” time as fifteen days at most by the poem's own chronology, and quotes the scholium that one day was much for Achilles to be absent (on 18.125).
+
+**The wrath and the grief.** Polydamas dates the Trojans' success from the withdrawal: “As long as this man nursed his wrath against brilliant Agamemnon, / so long the Achaeans were easier to fight” (18.257–258; see [[polydamas]]). μήνιε, “nursed his wrath”, is the verb of 1.488. Thetis gives Hephaestus the other side: “Grieving for her, he was wasting his heart away” (18.446), as he “wasted away his own heart” by the ships in Book 1 (1.491; see [[quarrel-of-achilles-and-agamemnon]]).
+
+**The end of it.** Achilles does not fight in Book 18, for he has no armor, but he shows himself at the ditch and shouts, and the Trojans are routed (18.198–231; see [[the-fight-for-the-body-of-patroclus]]). The withdrawal is over. He gives up his anger before the army in Book 19 (19.65–67).

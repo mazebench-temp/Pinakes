@@ -17,7 +17,7 @@ Phoenix begins his plea with his own place in Achilles' life. When Peleus sent h
 
 The ideal is stated by a teacher to his pupil at the start of the longest speech in the Iliad (9.434–605), and the occasion tests it. Phoenix's words are meant to bring Achilles back to the deeds; Achilles has already told Odysseus that he will join Agamemnon “in no counsel, nor in any deed” (9.374; see [[boule]]).
 
-**Elsewhere.** Homer's men are measured in both fields, and seldom excel in both. Nestor told the quarreling kings that they were “first among the Danaans in counsel, and first in battle” (1.258). Agamemnon told Diomedes that he was worse than his father in battle, “though better in assembly” (4.400), and on this night Nestor praises him for both (9.53–54). Polydamas tells Hector that a god gives one man the works of war and puts a good mind in another (13.726–734). Achilles himself, in his grief for Patroclus, calls himself such as no other of the Achaeans in war, “but in assembly others too are better” (18.105–106). See [[phoenix]] and [[peleus]].
+**Elsewhere.** Homer's men are measured in both fields, and seldom excel in both. Nestor told the quarreling kings that they were “first among the Danaans in counsel, and first in battle” (1.258). Agamemnon told Diomedes that he was worse than his father in battle, “though better in assembly” (4.400), and on this night Nestor praises him for both (9.53–54). Polydamas tells Hector that a god gives one man the works of war and puts a good mind in another (13.726–734). Achilles himself, in his grief for Patroclus, calls himself such as no other of the Achaeans in war, “though in the assembly others too are better” (18.105–106). See [[phoenix]] and [[peleus]].
 
 ## Outside Homer
 

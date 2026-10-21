@@ -7,6 +7,7 @@ summary: “Twisted, curving,” an epithet of cattle, usually understood of the
 aliases: [helix, crumpled-horned, twisted-horned]
 grc: [ἕλικας]
 en: [with curving horns]
+except: [18.401]
 of: [cattle]
 ---
 

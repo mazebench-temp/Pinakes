@@ -12,7 +12,7 @@ of: [sea]
 
 ## Meaning
 
-γλαυκός is a word of color and light, “gleaming, gray-green,” the color of the sea. Homer has the simple adjective only here; its compound γλαυκῶπις, “gray-eyed,” is the standing epithet of Athena ([[gray-eyed]]). The translation keeps it apart from πολιὴ ἅλς, “the gray sea” ([[gray-sea]]). The pattern catches the whole verse-end, because the Nereid Γλαύκη (18.39) has the same letters.
+γλαυκός is a word of color and light, “gleaming, gray-green,” the color of the sea. Homer has the simple adjective only here; its compound γλαυκῶπις, “gray-eyed,” is the standing epithet of Athena ([[gray-eyed]]). The translation keeps it apart from πολιὴ ἅλς, “the gray sea” ([[gray-sea]]). The pattern catches the whole verse-end, because the Nereid Γλαύκη (18.39; see [[glauce]]) has the same letters.
 
 {{notes}}
 

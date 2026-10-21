@@ -19,4 +19,5 @@ The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero aft
 - Neptune's drives over the sea, after Poseidon's journey to the ships: [[virgil-neptunes-chariot]];
 - Juno's promise of a nymph to Aeolus for a storm, after Hera's promise of a Grace to Sleep: [[virgil-juno-and-aeolus]];
 - Jupiter, who could not save his son Sarpedon, consoling Hercules for Pallas: [[jupiter-and-sarpedon]];
-- Aethon, the war-horse that weeps in Pallas' funeral procession, as the horses of Achilles weep for Patroclus: [[virgils-weeping-horse]].
+- Aethon, the war-horse that weeps in Pallas' funeral procession, as the horses of Achilles weep for Patroclus: [[virgils-weeping-horse]];
+- Venus asking Vulcan for arms for her son, as Thetis asked Hephaestus, and the shield of Aeneas with the history of Rome: [[virgil-shield-of-aeneas]].

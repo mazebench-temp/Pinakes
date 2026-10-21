@@ -9,7 +9,7 @@ grc: [Ὀπόεντά]
 
 {{quote:08c2306b-d692-5f2a-9341-9ccc362979f1}}
 
-Opus is named twice more in the Iliad, both times with [[Patroclus]]. Achilles had promised [[Menoetius]] to bring his son home "to famous Opus" with his share of the spoils of Troy (18.324–327). Patroclus' ghost recalls how Menoetius brought him, still a boy, from Opus to Peleus' house after he had killed another boy in a quarrel over knucklebones (23.84–90).
+Opus is named twice more in the Iliad, both times with [[Patroclus]], as the home to which he never returns. Achilles had promised [[Menoetius]] to bring his son back there from Troy (18.326), and Patroclus' ghost recalls how Menoetius brought him, still a boy, from Opus to Peleus' house after he had killed another boy in a quarrel over knucklebones (23.84–90).
 
 ## Outside Homer
 

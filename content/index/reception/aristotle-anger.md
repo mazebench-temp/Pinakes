@@ -6,6 +6,7 @@ tags: [philosophy, rhetoric]
 summary: In the Rhetoric, Aristotle defines anger as a longing for revenge for an apparent slight, and quotes Achilles' complaint that Agamemnon “has dishonored me” as his example; the same chapter quotes Homer on the sweetness of anger and the great spirit of kings.
 source: Aristotle, Rhetoric 2.2, 1378a30–1379a7
 of: [achilles, menis, cholos, time, orge]
+refs: [18.109-110]
 passages:
   - 1.355-356 | He has dishonored me
 ---

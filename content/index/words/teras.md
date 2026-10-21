@@ -23,7 +23,7 @@ A portent can be refused. Polydamas reads the eagle and the serpent as a warning
 
 πέλωρ is a monster, anything huge and dreadful; the Gorgon on the aegis is a “dread monster” (δεινοῖο πελώρου, 5.741). The neuter plural πέλωρα can name a portent as a thing of terror and wonder (2.321).
 
-The etymology of τέρας is uncertain. It may be related to τείρεα, the constellations, the “signs” that crown the sky (18.485).
+The etymology of τέρας is uncertain. It has been related to τείρεα, the constellations “with which the sky is crowned” (18.485); Walter Leaf thought τείρεα more probably akin to Sanskrit *tārā*, “star” (*Commentary on the Iliad*, 1900, on 18.485).
 
 {{notes}}
 

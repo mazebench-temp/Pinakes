@@ -3,7 +3,7 @@ title: Helmeted
 greek: κορυστής
 kind: epithet
 tags: [heroic-epithet, weapon, warfare]
-summary: “A helmeted man, a man in arms,” in the formula for the first kill of a battle: “the first to kill a helmeted man of the Trojans.”
+summary: “A helmeted man, a man in arms,” in the formula for the first kill of a battle, “the first to kill a helmeted man of the Trojans,” and in the dual of the two Ajaxes.
 aliases: [korystes, armed man]
 grc: [κορυστὴν]
 en: [helmeted]

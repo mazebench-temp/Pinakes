@@ -3,7 +3,7 @@ title: Famed for his craft
 greek: κλυτοτέχνης
 kind: epithet
 tags: [divine-epithet, craftsman]
-summary: The epithet of [[Hephaestus]] as the craftsman god, used as he rises to make peace between Zeus and Hera (1.571).
+summary: “Famed for his craft,” κλυτοτέχνης, the epithet of [[Hephaestus]] as the craftsman god.
 aliases: [renowned craftsman, klytotechnes]
 grc: [κλυτοτέχνης]
 en: [famed for his craft]
