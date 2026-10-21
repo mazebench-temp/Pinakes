@@ -3,11 +3,10 @@ title: Perseus
 greek: Περσεύς
 kind: person
 tags: [argive, demigod, child-of-zeus]
-summary: Son of Zeus and Danae, the hero of Argos who cut off the Gorgon's head with the help of Athena and Hermes, rescued Andromeda, and was the ancestor of Heracles. In the Iliad Zeus names him among the sons of his loves, “Perseus, preeminent among all men” (14.320).
+summary: Son of Zeus and Danae, the hero of Argos who cut off the Gorgon's head with the help of Athena and Hermes, rescued Andromeda, and was the ancestor of Heracles. In the Iliad Zeus names him among the sons of his loves, “Perseus, preeminent among all men” (14.320), and Agamemnon's story makes him the grandfather of Eurystheus (19.116, 19.123).
 aliases: [Perseus son of Danae]
-# Περσῆα (14.320) is his only form in the Iliad so far. Book 19 will add Περσηϊάδαο, "son of Perseus",
-# the patronymic of Sthenelus (19.116, 19.123). Περσεύς, Nestor's son (Od. 3.414, 3.444), is another man;
-# never use a stem.
+# Περσῆα (14.320); the patronymic Περσηϊάδαο, "son of Perseus", of Sthenelus (19.116, 19.123), is claimed in the
+# Book 19 note. Περσεύς, Nestor's son (Od. 3.414, 3.444), is another man; never use a stem (πέρθω, Περσεφόνεια).
 grc: [Περσῆα]
 relations:
   - father: zeus (14.319-320)
@@ -16,7 +15,7 @@ relations:
 
 {{quote:d35f199d-5156-58a1-a344-61e89f21f231}}
 
-Zeus, listing his loves, names “Danae of the lovely ankles, daughter of Acrisius, / who bore Perseus, preeminent among all men” (14.319–320; see [[danae]], [[acrisius]] and [[the-loves-of-zeus]]). It is all that the Iliad tells of him. His line appears once more, in Book 19, where Eurystheus, born early by Hera's contrivance to rule the Argives, is “son of Sthenelus, son of Perseus”, of the blood of Zeus (19.116, 19.123; see [[eurystheus]]). The Odyssey's Perseus, a son of Nestor, is another man (*Odyssey* 3.414, 3.444).
+Zeus, listing his loves, names “Danae of the lovely ankles, daughter of Acrisius, / who bore Perseus, preeminent among all men” (14.319–320; see [[danae]], [[acrisius]] and [[the-loves-of-zeus]]). It is all that the Iliad tells of him. His line appears once more, in Book 19, where Eurystheus, born early by Hera's contrivance to rule the Argives, is “child of Sthenelus the son of Perseus”, of the blood of Zeus (19.116, 19.123; see [[eurystheus]], [[sthenelus-son-of-perseus]] and [[the-birth-of-heracles]]). The Odyssey's Perseus, a son of Nestor, is another man (*Odyssey* 3.414, 3.444).
 
 {{notes}}
 

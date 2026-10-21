@@ -12,7 +12,7 @@ of: [the-shield-of-ajax]
 
 ## Meaning
 
-αἰόλος joins two ideas that Greek did not keep apart: quick movement and changing light. Of living things it is movement: a snake that writhes (12.208), wasps with their quick, narrow waists (12.167), the swarming worms that will eat Hector's body (22.509), the gadfly that drives cattle wild (Od. 22.300), and Achilles' horse Xanthus, “quick of foot” (πόδας αἰόλος, 19.404). Of metal it is the glancing of light on a moving surface. The compounds are some of the best-known epithets in the poem: Hector [[of-the-gleaming-helmet]] (κορυθαίολος), Antiphus [[of-the-flashing-corselet]] (αἰολοθώρηξ), Oresbius [[of-the-flashing-band]] (αἰολομίτρης), the Phrygians [[with-quick-horses]] (αἰολόπωλοι), and the “all-gleaming” belt and shield ([[panaiolos]]).
+αἰόλος joins two ideas that Greek did not keep apart: quick movement and changing light. Of living things it is movement: a snake that writhes (12.208), wasps with their quick, narrow waists (12.167), the swarming worms that will eat Hector's body (22.509), the gadfly that drives cattle wild (Od. 22.300), and Achilles' horse Xanthus, “with flashing feet” (πόδας αἰόλος, 19.404). Of metal it is the glancing of light on a moving surface. The compounds are some of the best-known epithets in the poem: Hector [[of-the-gleaming-helmet]] (κορυθαίολος), Antiphus [[of-the-flashing-corselet]] (αἰολοθώρηξ), Oresbius [[of-the-flashing-band]] (αἰολομίτρης), the Phrygians [[with-quick-horses]] (αἰολόπωλοι), and the “all-gleaming” belt and shield ([[panaiolos]]).
 
 ## Use
 

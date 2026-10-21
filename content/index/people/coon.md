@@ -3,7 +3,7 @@ title: Coon
 greek: Κόων
 kind: person
 tags: [trojan, warrior]
-summary: The eldest son of [[Antenor]]. To avenge his brother [[Iphidamas]] he stabs Agamemnon through the arm, and Agamemnon kills him over his brother's body (11.248–263). The wound he gave is what drives Agamemnon from the battle, as Book 19 recalls (19.51–53).
+summary: The eldest son of [[Antenor]]. To avenge his brother [[Iphidamas]] he stabs Agamemnon through the arm, and Agamemnon kills him over his brother's body (11.248–263). The wound he gave drives Agamemnon from the battle (11.264–283).
 aliases: [Koon, Coön, Coon son of Antenor]
 # Κόων at 14.255 and 15.28 is the adverb Κόωνδε, "to Cos", printed as two words (Κόων δʼ):
 # cos claims the phrase; 14.255 is excepted here, and 15.28 will be when Book 15 is indexed.
@@ -26,4 +26,4 @@ passages:
 
 He dies as he tries to save his brother's body, dragging it by the foot and calling on the best men to help, and his head falls on the body he was saving (see [[fighting-over-the-body]]). κασίγνητον καὶ ὄπατρον, “his brother by the same father”, is said also of Teucer, Ajax's bastard brother (12.371; 8.284), so the phrase does not say whether Coon too was Theano's son; the poem names only Iphidamas as hers (11.221–224; see [[theano]] and [[kasignetos]]).
 
-**The wound remembered.** Agamemnon fights on while the blood is warm, and when it dries, pains like a woman's in labor drive him to his chariot (11.264–274). He comes to the assembly of Book 19 still wounded, “for in the fierce battle Coon, son of Antenor, had stabbed him too with his bronze-fitted spear” (19.51–53), like Diomedes and Odysseus, who come limping before him (19.47–50). The wounded chiefs of Book 11 begin with him (see [[the-wounded-chiefs]]).
+**The wound remembered.** Agamemnon fights on while the blood is warm, and when it dries, pains like a woman's in labor drive him to his chariot (11.264–274). The wounded chiefs of Book 11 begin with him (see [[the-wounded-chiefs]]), and the king still bears the wound at the assembly of reconciliation (19.51–53).

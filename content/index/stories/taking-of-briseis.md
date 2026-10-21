@@ -5,7 +5,7 @@ kind: story
 period: iliad
 mode: narrated
 tags: [captive, honor]
-summary: Agamemnon's heralds come reluctantly to Achilles' hut. He greets them courteously, has Patroclus hand Briseis over, and calls them to witness his withdrawal. She goes with them unwilling.
+summary: Agamemnon takes Briseis from Achilles to make up for the loss of Chryseis, and his heralds lead her from Achilles' hut. The taking is retold through the poem by those it divided, and undone when she is given back with Agamemnon's oath that he never touched her.
 participants: [talthybius, eurybates, achilles, patroclus, briseis, agamemnon]
 passages:
   - 1.318-348 | The taking of Briseis

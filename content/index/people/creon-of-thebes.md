@@ -5,6 +5,8 @@ kind: person
 tags: [theban, king, labdacids]
 summary: Brother of Jocasta, ruler of Thebes after the deaths of Oedipus' sons; in Sophocles' Antigone he condemns Antigone, and his son Haemon draws a sword on him.
 aliases: [Creon, Kreon]
+# Creon at 19.240 is the father of Lycomedes, not the king of Thebes.
+except: [19.240]
 relations:
   - child: haemon-son-of-creon
 ---

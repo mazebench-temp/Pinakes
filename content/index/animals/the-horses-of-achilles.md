@@ -5,8 +5,9 @@ kind: animal
 tags: [livestock, warfare, achaean, myrmidon]
 summary: Xanthus and Balius, the immortal horses that the gods gave to Peleus and Peleus to his son, foaled by the Harpy Podarge to the West Wind. The Trojans covet them; they carry Patroclus into battle and weep for him, and Xanthus, given a voice by Hera, foretells the death of Achilles.
 aliases: [Xanthus and Balius, Balius, Achilles' horses, horses of Achilles, the horses of Peleus]
-# The phrase of 10.402, which will also catch ἵππους Αἰακίδαο (17.76), and the pair named at 16.149.
-# Later: Ξάνθέ τε καὶ Βαλίε (19.400), Ξάνθος (19.405); the-horses-of-hector must except 19.400 and 19.420.
+# The phrase of 10.402, which also catches ἵππους Αἰακίδαο (17.76), and the pair named at 16.149; the Book 19 note
+# claims Ξάνθέ τε καὶ Βαλίε (19.400). Xanthus named alone (19.405, 19.420) is xanthus-the-horse, which also claims
+# the pair's two phrases; the-horses-of-hector, xanthus-son-of-phaenops and xanthus-of-lycia except those lines.
 grc: ["ἵππ* Αἰακίδαο", "Ξάνθον καὶ Βαλίον"]
 en: [Xanthus and Balius]
 passages:
@@ -28,7 +29,7 @@ The Catalogue ends its question about the best men and horses with Achilles: whi
 
 ## In Homer
 
-When Achilles sends Patroclus out, Automedon yokes the pair (16.145–154; see [[patroclus]]). They carry Patroclus across the ditch (16.380–383), and after his death they carry Automedon away from Hector's spear (16.864–867). Then they stand apart from the battle and weep for their charioteer, as still as a pillar on a grave, their heads bowed to the ground and their manes trailing in the dust. Zeus pities them: “why did we give you to lord Peleus, a mortal, while you are ageless and immortal?” (17.426–447; see [[pity]] and [[tears]]). He breathes might into them, and they carry Automedon back into the fight (17.451–458). When Achilles goes out at last, he bids them bring their driver back alive this time. Xanthus bows his head until his mane touches the ground, and Hera gives him a voice: they will save Achilles now, but his day of death is near; it was not their slowness that cost Patroclus his armor but Apollo, who killed him; and Achilles himself is fated to be killed “by a god and a man”. The Erinyes stop his voice, and Achilles answers that he knows his fate (19.399–423; see [[hera]], [[erinyes]] and [[the-short-life-of-achilles]]). At the funeral games he will not race them: they are immortal, and they stand mourning the charioteer who used to wash their manes and pour oil on them (23.274–284).
+When Achilles sends Patroclus out, Automedon yokes the pair (16.145–154; see [[patroclus]]). They carry Patroclus across the ditch (16.380–383), and after his death they carry Automedon away from Hector's spear (16.864–867). Then they stand apart from the battle and weep for their charioteer, as still as a pillar on a grave, their heads bowed to the ground and their manes trailing in the dust. Zeus pities them: “why did we give you to lord Peleus, a mortal, while you are ageless and immortal?” (17.426–447; see [[pity]] and [[tears]]). He breathes might into them, and they carry Automedon back into the fight (17.451–458). When Achilles goes out at last, he bids them bring their driver back alive this time. Xanthus (see [[xanthus-the-horse]]) bows his head until his mane touches the ground, and Hera gives him a voice: they will save Achilles now, but his day of death is near; it was not their slowness that cost Patroclus his armor but Apollo, who killed him; and Achilles himself is fated to be killed “by a god and a man”. The Erinyes stop his voice, and Achilles answers that he knows his fate (19.399–423; see [[hera]], [[erinyes]] and [[the-short-life-of-achilles]]). At the funeral games he will not race them: they are immortal, and they stand mourning the charioteer who used to wash their manes and pour oil on them (23.274–284).
 
 ## Outside Homer
 

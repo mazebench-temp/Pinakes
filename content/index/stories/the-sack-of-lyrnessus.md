@@ -6,7 +6,7 @@ period: cypria
 order: 5.5
 mode: backstory
 tags: [warfare, backstory, captive]
-summary: Achilles sacked Lyrnessus in the Troad after much toil, killing Mynes and Epistrophus, the sons of Euenus, and took Briseis as his prize. The narrator recalls it to explain why Achilles lies idle by his ships.
+summary: Achilles sacked Lyrnessus in the Troad after much toil, killing Mynes and Epistrophus, the sons of Euenus, and took Briseis as his prize. The Iliad recalls it in the Catalogue, when Briseis is given back to Achilles, and when Achilles faces Aeneas, who escaped from the town.
 participants: [achilles, briseis, mynes, epistrophus-of-lyrnessus, euenus]
 passages:
   - 2.686-694 | The Myrmidons without their leader
@@ -24,7 +24,7 @@ The story explains the present. Achilles lies idle "angry over the girl", and th
 
 ## Elsewhere in Homer
 
-The Iliad comes back to Lyrnessus three times. Achilles wishes that Artemis had killed Briseis "on the day I took Lyrnessus" (19.59–60). Briseis, lamenting over Patroclus, remembers the day: she saw her husband and her three brothers killed, and Patroclus would not let her weep, promising to make her Achilles' wedded wife (19.291–300). Aeneas escaped from Lyrnessus when Achilles, with the help of Athena and Zeus, sacked it and led its women away captive, and both men recall it before their duel (20.89–96, 20.187–194).
+The Iliad comes back to Lyrnessus three times. Achilles and Briseis remember the sack when she is given back to him (19.59–60, 19.291–300). Aeneas escaped from Lyrnessus when Achilles, with the help of Athena and Zeus, sacked it and led its women away captive, and both men recall it before their duel (20.89–96, 20.187–194).
 
 ## Outside Homer
 

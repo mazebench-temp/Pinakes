@@ -7,6 +7,8 @@ summary: The healer's craft in Homer: drawing or cutting out the missile, washin
 aliases: [healer, healers, physician, medicine, drugs, iatros]
 grc: [ἰητὴρ, ἰητῆρος, φάρμαχʼ, φάρμακα, ἕλκος, ἐπιμάσσεται, ἐκμυζήσας, ἀμφεπένοντο]
 en: [healer, healers, drugs, wound, examine, sucked out the blood, busy about]
+# ἀμφεπένοντο at 19.278: the Myrmidons busy themselves with the gifts, not with a wound.
+except: [19.278]
 passages:
   - 4.188-219 | Machaon heals Menelaus
 ---

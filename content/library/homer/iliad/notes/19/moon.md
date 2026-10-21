@@ -1,0 +1,6 @@
+---
+summary: When Achilles takes up the shield that Hephaestus made, “from it, far off, came a blaze as of the moon” (19.374), before the simile of the fire that sailors see from the sea.
+grc: [μήνης]
+---
+
+τοῦ δʼ ἀπάνευθε σέλας γένετʼ ἠΰτε μήνης, “and from it, far off, came a blaze as of the moon” (19.374). μήνη is the other word for the moon, beside σελήνη (see the entry). The moon is a light seen from afar: in the simile of the Trojan watch-fires the stars shine out around it on a windless night (8.555–556; see [[stars-around-the-moon]]), and on the Shield itself Hephaestus made “the moon at the full” with the sun and the stars (18.484; see [[the-shield-of-achilles]]). Now the shield shines like it. A longer simile follows at once, the blaze of a fire burning high in the mountains, which sailors see from the sea (19.375–380; see [[the-fire-seen-by-sailors]]). Walter Leaf reports that the line has been suspected since Hermann and Heyne, because heaped-up comparisons elsewhere show different sides of a thing and these two do not; and the moon, to which the round white mark on a horse's forehead is likened in the chariot race (23.455), suggests a round shield, which there is no ground for thinking that Achilles bore (*Commentary on the Iliad*, 1900, on 19.374; see the translation's note on 19.369–373).

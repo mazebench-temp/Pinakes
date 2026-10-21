@@ -1,0 +1,5 @@
+---
+summary: Twice Achilles answers Agamemnon with the full address, “Most glorious son of Atreus, Agamemnon, lord of men,” the verse he broke off with an insult in Book 1.
+---
+
+“Most glorious son of Atreus, Agamemnon, lord of men, / the gifts are yours, to give them if you wish, as is fitting, / or to keep them by you” (19.146–148), and again when Agamemnon proposes the oath and the sacrifice: “Most glorious son of Atreus, Agamemnon, lord of men, / at some other time you ought rather to busy yourselves with these things” (19.199–200; [[lord-of-men]], [[son-of-atreus]], [[agamemnon]]). In Book 1 Achilles began his first answer to Agamemnon with the same honorific and ended the verse otherwise: “Most glorious son of Atreus, most covetous of all men” (1.122). Here he speaks the whole verse of courtesy that Nestor, Odysseus and Diomedes used in Books 2, 9 and 10 (2.434, 9.96, 9.677, 9.697, 10.103), and in both speeches he turns at once from the gifts to the war (19.148–153, 19.200–214; [[amends-and-reconciliation]]).

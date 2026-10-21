@@ -5,8 +5,8 @@ kind: animal
 tags: [sea, wild-animal]
 summary: Fish, ἰχθύς. In the Iliad they are drawn from the sea on a line and bronze hook, and they eat the dead that the river carries; the men of the Odyssey catch them with bent hooks when hunger drives them.
 aliases: [fishes, ichthys]
-# Later: ἰχθύσιν (19.268, 21.122), ἰχθύες (21.22, 21.203, 21.353), ἰχθύς (21.127), ἰχθὺς (23.692),
-# ἰχθύσι (24.82). Not ἰχθυόεις, “fish-filled”, the epithet of the sea (9.4, 16.746; see fish-filled).
+# ἰχθύσιν (19.268, 21.122) is claimed in the Book 19 note. Later: ἰχθύες (21.22, 21.203, 21.353), ἰχθύς (21.127),
+# ἰχθὺς (23.692), ἰχθύσι (24.82). Not ἰχθυόεις, “fish-filled”, the epithet of the sea (9.4, 16.746; see fish-filled).
 grc: [ἰχθὺν]
 en: [fish]
 ---

@@ -10,7 +10,8 @@ en: [Xanthus]
 # Ξάνθον recurs for the Lycian river (6.172), Achilles' horse (16.149) and the river of Troy
 # (20.74, 21.332), which this entry will need to except. At 5.479 "Xanthus" is the Lycian river
 # (xanthus-of-lycia), and the English name must not be linked here.
-except: [5.479, 6.172, 16.149]
+# Xanthus at 19.400, 19.405 and 19.420 is Achilles' horse (xanthus-the-horse).
+except: [5.479, 6.172, 16.149, 19.400, 19.405, 19.420]
 refs: [5.153, 5.155-157]
 relations:
   - father: phaenops (5.152)
@@ -22,4 +23,4 @@ passages:
 
 {{quote:82b513e0-5741-5602-a943-bbe41a4064ab}}
 
-Xanthus and Thoon are the only sons of an old man, “both his darlings” (5.153), and the lines that tell their death are about the father they leave: see [[phaenops]]. ξανθός means “yellow, fair-haired”, and Homer gives the name to rivers, the Lycian Xanthus (2.877) and the river of Troy, “which the gods call Xanthus” (20.74), and to one of Achilles' horses (16.149).
+Xanthus and Thoon are the only sons of an old man, “both his darlings” (5.153), and the lines that tell their death are about the father they leave: see [[phaenops]]. ξανθός means “yellow, fair-haired”, and Homer gives the name to rivers, the Lycian Xanthus (2.877) and the river of Troy, “which the gods call Xanthus” (20.74), and to one of Achilles' horses (16.149), who speaks to Achilles and foretells his death (19.404–417; see [[xanthus-the-horse]]).

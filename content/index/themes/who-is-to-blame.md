@@ -21,7 +21,7 @@ The vocabulary is the vocabulary of an accusation and of public opinion. The [[a
 
 **The man who acted.** Achilles tells the heralds who come for Briseis that they are not to blame, “but Agamemnon” (1.335), as the Trojans are not to blame toward him (1.153). In Book 2 Agamemnon himself admits it: “I was the first to grow angry” (2.378).
 
-**The gods.** In the same breath Agamemnon blames Zeus, who “throws me into fruitless strife and quarrels” (2.375–376). In Book 19 he goes further: “I am not to blame, but Zeus and Moira and the Erinys who walks in darkness”, who put ἄτη into his mind (19.86–89). Priam tells Helen that she is not to blame; the gods are (3.164).
+**The gods.** In the same breath Agamemnon blames Zeus, who “throws me into fruitless strife and quarrels” (2.375–376). In Book 19 he goes further: “I am not to blame, / but Zeus and Fate and the Erinys who walks in darkness”, who put ἄτη into his mind (19.86–89). Priam tells Helen that she is not to blame; the gods are (3.164).
 
 **Oneself.** Helen blames herself. She wishes she had died before she followed Paris, and calls herself “dog-faced” (3.173–180); she calls herself a dog again before Hector (6.344, 6.356), and in her lament over him she wishes once more that she had died (24.764).
 

@@ -1,0 +1,249 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 39,
+      "title": "Thetis Brings the Armor",
+      "summary": "At dawn Thetis comes to the ships with the gifts of Hephaestus and finds Achilles lying over Patroclus, weeping, with his companions around him. She lays the armor before him: it rings, the Myrmidons cannot look at it, and Achilles' anger rises as he takes delight in it. He fears that flies will breed worms in the body while he fights; Thetis promises to keep it sound even for a year, tells him to call the Achaeans to an assembly, renounce his wrath against Agamemnon and arm at once, and drips ambrosia and nectar into Patroclus' nostrils."
+    },
+    {
+      "from": 40,
+      "to": 75,
+      "title": "Achilles Renounces His Wrath",
+      "summary": "Achilles goes along the shore shouting, and all the Achaeans come to the assembly, even the helmsmen and the stewards; Diomedes and Odysseus come limping on their spears, and Agamemnon last, still wounded. Achilles wishes Artemis had killed the girl on the day he took her, for the quarrel has profited only Hector and the Trojans; he puts an end to his anger and asks Agamemnon to rouse the army to war. The Achaeans rejoice."
+    },
+    {
+      "from": 76,
+      "to": 144,
+      "title": "Agamemnon on Blind Folly",
+      "summary": "Agamemnon speaks from his seat: not he is to blame, but Zeus and Fate and the Erinys, who cast blind folly into his mind on the day he took Achilles' prize. Blind Folly, the eldest daughter of Zeus, walks over the heads of men; even Zeus was blinded, when Hera tricked him into swearing that the child of his blood born that day would rule all who dwell around, then held back Alcmene's labor and brought Eurystheus into the light before his time. Zeus hurled Blind Folly from the starry sky to the works of men and groaned over her whenever he saw Heracles laboring for Eurystheus. So Agamemnon too was blinded, and he offers all the gifts that Odysseus promised."
+    },
+    {
+      "from": 145,
+      "to": 237,
+      "title": "Odysseus Counsels a Meal",
+      "summary": "Achilles wants to go into battle at once. Odysseus answers that the army must eat first, for no man can fight all day without food; let the gifts be brought into the assembly, let Agamemnon swear that he never lay with Briseis, and give a feast in his huts. Agamemnon agrees and orders the gifts and a boar for the oath. Achilles refuses food until he has avenged Patroclus; Odysseus replies that men soon have their fill of battle, that the dead must be mourned for a day and buried, and that those who are left must eat and fight on."
+    },
+    {
+      "from": 238,
+      "to": 281,
+      "title": "The Gifts and the Oath",
+      "summary": "Odysseus and young men of the Achaeans bring out the gifts: seven tripods, twenty cauldrons, twelve horses, seven women skilled in handiwork and Briseis the eighth, and ten talents of gold. Agamemnon cuts the first hairs from the boar and swears by Zeus, Earth, the Sun and the Erinyes that he never touched Briseis; Talthybius flings the boar into the sea. Achilles says that Zeus must have wanted the death of many Achaeans, sends them to their meal and dissolves the assembly, and the Myrmidons carry the gifts to his ship."
+    },
+    {
+      "from": 282,
+      "to": 302,
+      "title": "Briseis Mourns Patroclus",
+      "summary": "Briseis, like golden Aphrodite, sees Patroclus torn by the bronze, throws herself around him and tears her breast and neck and face. She lost her husband and her three brothers to Achilles; Patroclus would not let her weep, and promised to make her the wedded wife of Achilles in Phthia, and she weeps for him who was always kind. The women groan with her, for Patroclus outwardly, but each for her own sorrows."
+    },
+    {
+      "from": 303,
+      "to": 339,
+      "title": "Achilles Refuses Food",
+      "summary": "The elders beg Achilles to eat; he refuses until sunset and sends the other kings away, but the sons of Atreus, Odysseus, Nestor, Idomeneus and Phoenix stay to comfort him. He laments for Patroclus, who used to set his meal before him: no worse grief could come to him, not even the death of his father Peleus in Phthia or of his son Neoptolemus in Scyros; he had hoped that he alone would die at Troy and that Patroclus would bring his son home. The elders groan with him, each remembering what he had left in his halls."
+    },
+    {
+      "from": 340,
+      "to": 356,
+      "title": "Athena's Nectar",
+      "summary": "Zeus pities them and sends Athena, who darts down like a bird of prey and drips nectar and ambrosia into Achilles' breast, so that hunger may not weaken his knees, while the Achaeans arm."
+    },
+    {
+      "from": 357,
+      "to": 398,
+      "title": "The Arming of Achilles",
+      "summary": "Helmets, shields, corselets and spears pour from the ships as thick as snowflakes, and the earth laughs at the gleam of the bronze. Achilles, gnashing his teeth, his eyes blazing, puts on the armor of Hephaestus: greaves, corselet, sword, the shield that blazes like the moon or like a fire seen by sailors out at sea, and the helmet that shines like a star. The armor is like wings to him. He takes his father's spear, the Pelian ash that no other Achaean could wield; Automedon and Alcimus yoke the horses, and Achilles mounts behind Automedon, shining like Hyperion."
+    },
+    {
+      "from": 399,
+      "to": 424,
+      "title": "Xanthus Speaks",
+      "summary": "Achilles bids his horses Xanthus and Balius bring their charioteer back safe, not leave him dead as they left Patroclus. Hera gives Xanthus a voice: they will save him this time, but his day of destruction is near, and the fault is not theirs but a great god's and mighty Fate's, as it was Apollo who killed Patroclus; Achilles is fated to fall by a god and a man. The Erinyes check the horse's voice. Achilles answers that he knows he will die far from home, but will not stop until the Trojans have their fill of war, and drives out with a cry among the foremost."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 8,
+      "to": 11,
+      "speaker": "thetis",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 21,
+      "to": 27,
+      "speaker": "achilles",
+      "to_whom": [
+        "thetis"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 29,
+      "to": 36,
+      "speaker": "thetis",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 56,
+      "to": 73,
+      "speaker": "achilles",
+      "to_whom": [
+        "agamemnon",
+        "achaeans"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 78,
+      "to": 144,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "achaeans",
+        "achilles"
+      ],
+      "kind": "apology"
+    },
+    {
+      "from": 146,
+      "to": 153,
+      "speaker": "achilles",
+      "to_whom": [
+        "agamemnon"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 155,
+      "to": 183,
+      "speaker": "odysseus",
+      "to_whom": [
+        "achilles",
+        "agamemnon"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 185,
+      "to": 197,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 199,
+      "to": 214,
+      "speaker": "achilles",
+      "to_whom": [
+        "agamemnon",
+        "odysseus"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 216,
+      "to": 237,
+      "speaker": "odysseus",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 258,
+      "to": 265,
+      "speaker": "agamemnon",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "oath"
+    },
+    {
+      "from": 270,
+      "to": 275,
+      "speaker": "achilles",
+      "to_whom": [
+        "argives"
+      ],
+      "kind": "comment"
+    },
+    {
+      "from": 287,
+      "to": 300,
+      "speaker": "briseis",
+      "to_whom": [
+        "patroclus"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 305,
+      "to": 308,
+      "speaker": "achilles",
+      "to_whom": [
+        "elders"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 315,
+      "to": 337,
+      "speaker": "achilles",
+      "to_whom": [
+        "patroclus"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 342,
+      "to": 348,
+      "speaker": "zeus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 400,
+      "to": 403,
+      "speaker": "achilles",
+      "to_whom": [
+        "the-horses-of-achilles"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 408,
+      "to": 417,
+      "speaker": "xanthus-the-horse",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "prophecy"
+    },
+    {
+      "from": 420,
+      "to": 423,
+      "speaker": "achilles",
+      "to_whom": [
+        "xanthus-the-horse"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 424,
+      "label": "Day 27",
+      "note": "Dawn rises from the streams of Oceanus (19.1–2), as Thetis promised (18.136); the assembly, the reconciliation, the meal and the arming fill the morning, and Achilles drives out to the fourth day of battle, whose fighting fills Books 20–22 (19.424)."
+    }
+  ]
+}

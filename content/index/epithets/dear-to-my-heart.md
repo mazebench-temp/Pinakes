@@ -12,7 +12,7 @@ of: [diomedes]
 
 ## Meaning
 
-κεχαρισμένος is the perfect participle of χαρίζομαι (“show favor, please”; see [[charis]]): “welcome, pleasing.” With θυμῷ (“to the heart”; [[thymos]]) it is a formula of address at the end of the verse, “dear to my heart.” The whole verse Τυδεΐδη Διόμηδες ἐμῷ κεχαρισμένε θυμῷ is spoken three times, all to Diomedes: by Sthenelus (5.243), by Athena (5.826), and by Agamemnon in Book 10 (Il. 10.234). Achilles addresses Patroclus with the same half-verse (Il. 11.608), Briseis calls the dead Patroclus “most dear to my heart” (Il. 19.287), and in the Odyssey Telemachus uses it to Nestor's son Peisistratus (Od. 4.71).
+κεχαρισμένος is the perfect participle of χαρίζομαι (“show favor, please”; see [[charis]]): “welcome, pleasing.” With θυμῷ (“to the heart”; [[thymos]]) it is a formula of address at the end of the verse, “dear to my heart.” The whole verse Τυδεΐδη Διόμηδες ἐμῷ κεχαρισμένε θυμῷ is spoken three times, all to Diomedes: by Sthenelus (5.243), by Athena (5.826), and by Agamemnon in Book 10 (Il. 10.234). Achilles addresses Patroclus with the same half-verse (Il. 11.608), Briseis calls the dead Patroclus “dearest to my heart” (Il. 19.287), and in the Odyssey Telemachus uses it to Nestor's son Peisistratus (Od. 4.71).
 
 ## Use
 

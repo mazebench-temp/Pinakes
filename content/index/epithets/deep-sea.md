@@ -6,7 +6,8 @@ tags: [sea]
 summary: “Deep,” an epithet of the [[sea]].
 aliases: [bathys]
 grc: [βαθεῖαν]
-except: [7.341, 7.440]
+# κατὰ φρένα τύψε βαθεῖαν (19.125): "struck him deep in his heart".
+except: [7.341, 7.440, 19.125]
 en: [deep]
 of: [sea]
 ---

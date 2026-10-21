@@ -1,0 +1,8 @@
+---
+summary: Achilles fears that while he fights, flies will make their way into the wounds of Patroclus, breed worms and defile the body; Thetis promises to ward off “the savage tribes, / the flies, which feed on men slain in battle”, and keeps the body sound with ambrosia and nectar (19.23–39).
+grc: [μυίας]
+---
+
+μυῖαι καδδῦσαι κατὰ χαλκοτύπους ὠτειλὰς / εὐλὰς ἐγγείνωνται, ἀεικίσσωσι δὲ νεκρόν: “flies will make their way, through the wounds the bronze has struck, / and breed worms, and defile the body” (19.25–26; see [[maggots]]). Walter Leaf notes that ἄλκιμον υἱόν (19.24), in strict grammar the object of καδδῦσαι, “making their way into”, is governed in thought by ἀεικίσσωσι, “defile”, the verb uppermost in Achilles' mind (*Commentary on the Iliad*, 1900, on 19.24; see the translation's note on 19.24–27). In the earlier books the flies were a swarm, around the milk pails or around the body of Sarpedon (2.469–473, 16.641–643; see [[flies-around-the-milk-pails]]), and the image of Menelaus' daring (17.570–572; see [[the-daring-of-a-fly]]); here they are eaters of the dead.
+
+Thetis answers: τῷ μὲν ἐγὼ πειρήσω ἀλαλκεῖν ἄγρια φῦλα / μυίας, αἵ ῥά τε φῶτας ἀρηϊφάτους κατέδουσιν, “From him I will try to ward off the savage tribes, / the flies, which feed on men slain in battle” (19.30–31). φῦλα, “tribes”, is the word for the tribes of men and gods (see [[phylon]]). Even if he lies there a full year, she says, his flesh will be sound, or better; and she drips ambrosia and red nectar into his nostrils (19.32–39; see [[ambrosia]], [[nectar]] and [[patroclus]]). The end of her second verse returns in Book 24, of the worms that have not touched Hector's body (αἵ ῥά τε φῶτας ἀρηϊφάτους κατέδουσιν, 24.415).

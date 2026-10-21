@@ -10,14 +10,15 @@ aliases: [Melanippos]
 # melanippus-killed-by-patroclus) and an Achaean (19.240). Each later one needs his own id, and this entry an
 # except for his line.
 grc: [Μελάνιππον]
-except: [15.547, 15.553, 15.576, 15.582, 16.695]
+# Melanippus at 19.240 is an Achaean who brings the gifts, not the Trojan of 8.276.
+except: [15.547, 15.553, 15.576, 15.582, 16.695, 19.240]
 relations:
   - slayer: teucer (8.273-276)
 ---
 
 καὶ Μελάνιππον, “and Melanippus”, closes the list of the eight men whom Teucer brings down with his arrows while Ajax covers him with his shield (8.273–277; see [[teucer]]). Nothing is told of him but his name and his death.
 
-The name joins μέλας, “black”, and ἵππος, “horse”, like many Greek names made with ἵππος. Three more men bear it in the Iliad. Melanippus, son of Hicetaon, who herded cattle at Percote until the Achaeans came and then lived in Priam's house, honored like one of his sons, is rebuked by Hector and killed by Antilochus (15.546–583; see [[melanippus-son-of-hicetaon]], [[hicetaon]], [[percote]] and [[antilochus]]). Patroclus kills a Trojan Melanippus as he pursues the Trojans toward the city (16.695; see [[melanippus-killed-by-patroclus]]), and an Achaean Melanippus is among the young men whom Odysseus takes to fetch Agamemnon's gifts for Achilles (19.238–241).
+The name joins μέλας, “black”, and ἵππος, “horse”, like many Greek names made with ἵππος. Three more men bear it in the Iliad. Melanippus, son of Hicetaon, who herded cattle at Percote until the Achaeans came and then lived in Priam's house, honored like one of his sons, is rebuked by Hector and killed by Antilochus (15.546–583; see [[melanippus-son-of-hicetaon]], [[hicetaon]], [[percote]] and [[antilochus]]). Patroclus kills a Trojan Melanippus as he pursues the Trojans toward the city (16.695; see [[melanippus-killed-by-patroclus]]), and an Achaean Melanippus is among the young men whom Odysseus takes to fetch Agamemnon's gifts for Achilles (19.238–241; see [[melanippus-the-achaean]]).
 
 ## Outside Homer
 

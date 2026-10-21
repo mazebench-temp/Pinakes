@@ -12,7 +12,7 @@ of: [zeus]
 
 ## Meaning
 
-ὕπατος is a superlative formed from ὑπό, ὑπέρ (“over, above”): “highest, uppermost.” It describes the top of a pyre, where the dead man is laid (Il. 23.165, 24.787), and above all Zeus as the highest of the gods: “Zeus, highest and best of the gods” in oaths (Il. 19.258, 23.43; Od. 19.303), and in address, “our father, son of Cronus, highest of rulers” (ὕπατε κρειόντων, Il. 8.31; Od. 1.45, 1.81, 24.473). In the accusative Ζῆνʼ ὕπατον it is joined with other titles: with the patronymic, “the most high son of Cronus” (5.756), and with μήστωρ (“deviser, counselor”; see [[master-of-rout]]) at Il. 8.22 and 17.339. Compare [[son-of-cronus]], [[supreme-in-might]] and [[father-of-men-and-gods]].
+ὕπατος is a superlative formed from ὑπό, ὑπέρ (“over, above”): “highest, uppermost.” It describes the top of a pyre, where the dead man is laid (Il. 23.165, 24.787), and above all Zeus as the highest of the gods, “highest and best of the gods”, in oaths (Il. 19.258, 23.43; Od. 19.303), and in address, “our father, son of Cronus, highest of rulers” (ὕπατε κρειόντων, Il. 8.31; Od. 1.45, 1.81, 24.473). In the accusative Ζῆνʼ ὕπατον it is joined with other titles: with the patronymic, “the most high son of Cronus” (5.756), and with μήστωρ (“deviser, counselor”; see [[master-of-rout]]) at Il. 8.22 and 17.339. Compare [[son-of-cronus]], [[supreme-in-might]] and [[father-of-men-and-gods]].
 
 ## Use
 

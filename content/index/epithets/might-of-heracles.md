@@ -12,7 +12,7 @@ of: [heracles]
 
 ## Meaning
 
-βίη (“force, might”) + Ἡρακλήειος (“of Heracles,” an adjective formed from the name): “the Heraclean might.” The hero is named by the quality that defines him. Epic has several such periphrases, in which βίη with an adjective or genitive stands for a man: βίη Ἰφικληείη for Iphiclus (Od. 11.290, 11.296), Πριάμοιο βίη, “the might of Priam,” for Priam himself (Il. 3.105). For Heracles the phrase occurs seven times in Homer. The translation renders it “the mighty Heracles.”
+βίη (“force, might”) + Ἡρακλήειος (“of Heracles,” an adjective formed from the name): “the Heraclean might.” The hero is named by the quality that defines him. Epic has several such periphrases, in which βίη with an adjective or genitive stands for a man: βίη Ἰφικληείη for Iphiclus (Od. 11.290, 11.296), Πριάμοιο βίη, literally “the might of Priam,” for Priam himself, rendered “the mighty Priam” (Il. 3.105). For Heracles the phrase occurs seven times in Homer. The translation renders it “the mighty Heracles.”
 
 ## Use
 

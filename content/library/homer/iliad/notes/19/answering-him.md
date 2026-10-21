@@ -1,0 +1,5 @@
+---
+summary: The reconciliation is argued in a chain of replies framed by the formula. Achilles answers Agamemnon twice and Odysseus answers Achilles twice, each with his standing epithet, “Answering him, swift-footed Achilles said” (19.145, 19.198) and “Answering him, Odysseus of many wiles said” (19.154, 19.215); between them Agamemnon “spoke to him in turn” (19.184).
+---
+
+Five replies follow one another, and the formula marks who is pressing whom: Achilles wants to fight at once, Odysseus wants the army fed, Agamemnon agrees with Odysseus, Achilles refuses to eat, and Odysseus answers him again (19.145–237; see [[fasting]] and [[the-renunciation-of-wrath]]). Each of Achilles' replies opens with the same address to Agamemnon, “Most glorious son of Atreus, Agamemnon, lord of men” (19.146, 19.199; see [[most-glorious]] and [[lord-of-men]]). Other replies in the book have other frames: Thetis answers her son with [[then-answered]] (19.28), and Achilles answers his horse “Deeply troubled” (19.419; see [[deeply-troubled]]).

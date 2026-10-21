@@ -16,7 +16,7 @@ Book 2 names Lyrnessus with Thebe, the city of Eetion, as the towns of the Troad
 
 ## Elsewhere in Homer
 
-Briseis, lamenting over Patroclus, tells how Achilles killed her husband and her three brothers when he sacked the city (19.291–300). Achilles wishes that Artemis had killed her "on the day I took Lyrnessus" (19.59–60). Aeneas, chased by Achilles from Mount Ida, fled to Lyrnessus, and escaped when Achilles sacked it with the help of Athena and Zeus (20.89–96, 20.187–194).
+Achilles and Briseis remember the sack when she is given back to him (19.59–60, 19.291–300). Aeneas, chased by Achilles from Mount Ida, fled to Lyrnessus, and escaped when Achilles sacked it with the help of Athena and Zeus (20.89–96, 20.187–194).
 
 ## Outside Homer
 

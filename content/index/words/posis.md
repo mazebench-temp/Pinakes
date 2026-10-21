@@ -5,7 +5,8 @@ kind: term
 tags: [woman]
 summary: Husband. πόσις is an old Indo-European word for “master, lord”, the same as Sanskrit *páti-*, “lord, husband”, and related to Latin *potis*, “able”, and to Greek δεσπότης and πότνια.
 aliases: [posis, husband]
-# =: ποσίν "feet" (8.339) differs only in accent.
+# =: ποσίν "feet" (8.339) differs only in accent. πόσις "drink" has the same letters as the nominative:
+# οὐ πόσις οὐδὲ βρῶσις (19.210, excepted in the Book 19 note); βρῶσίς τε πόσις τε (Od. 10.176, 12.320) will need the same.
 grc: ["=πόσιν", πόσις]
 en: [husband]
 ---

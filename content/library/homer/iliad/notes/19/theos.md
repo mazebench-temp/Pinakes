@@ -1,0 +1,5 @@
+---
+summary: “The god” of Book 19 is often unnamed. The armor is “the gifts from the god”, Hephaestus (19.3, 19.18, 19.21, 19.368); Agamemnon says that “It is a god who brings all things to fulfillment” (19.90), and Odysseus that in battle “a god breathes might into both sides” (19.159); Xanthus blames “a great god and mighty Fate”, Apollo, and says that Achilles will fall “by a god and a man” (19.410, 19.417). Patroclus was brought down “by the will of the gods” (19.9), and Agamemnon swears by the gods who punish false oaths (19.258–265).
+---
+
+The anonymous god is named elsewhere in the same speech: “the best of the gods, whom Leto of the lovely hair bore” (19.413; see [[apollo]]). In Agamemnon's speech θεός is divine power, not Blind Folly herself (Walter Leaf, *Commentary on the Iliad*, 1900, on 19.90; see [[a-god-brings-all-things-to-fulfillment]]). The gods are named together as an audience in Zeus' boast, “all you gods and all you goddesses” (19.101; see [[hear-me]]), and the armor is “such as is fitting / for the works of immortals, and no mortal man could make it” (19.21–22; see [[immortals]] and [[gods-and-mortals]]).

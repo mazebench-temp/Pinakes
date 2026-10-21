@@ -1,0 +1,9 @@
+---
+summary: The dawn of the fourth day of battle and of Achilles' return: “Now saffron-robed Dawn rose from the streams of Oceanus / to bring light to the immortals and to mortals” (19.1–2), and Thetis comes to the ships with the armor.
+grc: ["κροκόπεπλος ἀπʼ Ὠκεανοῖο"]
+refs: [19.2]
+---
+
+The first verse is found only here. The second is the second verse of the dawn that began the third day of battle, when Dawn rose from the bed of Tithonus (11.2 = *Odyssey* 5.2; see [[eos]]), and Walter Leaf compares the dawn verses of 8.1 and 24.695 (*Commentary on the Iliad*, 1900, on 19.1). Here Dawn rises from the streams of Oceanus, as the sun rose out of deep-streaming Oceanus on the morning of the truce (7.421–423; see [[oceanus]] and [[helios]]), and she is κροκόπεπλος, “saffron-robed”, as at the dawn of the second day of battle (8.1; see [[saffron-robed]]). The μέν of the first verse is answered by ἣ δʼ, “and she”, in the third, and she is Thetis, who “came to the ships, bringing the gifts from the god” (19.3; see [[thetis]] and [[the-making-of-the-arms]]). She had told her son, “at dawn I will return with the rising sun” (18.136), and the dawn verse keeps her promise.
+
+The night before was the night of the making of the arms. It began when Hera sent the unwilling sun “to go back to the streams of Oceanus” at the end of the third day of battle (18.239–242; see [[the-third-day-of-battle]]), and it ends with Dawn rising from the same streams. The day that begins here is the fourth day of battle, the day on which Achilles goes back to the war and kills Hector (see [[the-fourth-day-of-battle]]). Within the book its sunset is looked for: Achilles would have the Achaeans fight fasting and eat only “as the sun goes down”, and he himself will wait for the sunset before he eats (19.207–208, 19.308; see [[sunset-lines]]).

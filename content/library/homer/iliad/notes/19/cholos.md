@@ -1,0 +1,5 @@
+---
+summary: Achilles' anger is stopped and redirected in one book. At the sight of the new armor “anger entered him the more” (19.16); in the assembly he says “Now I put a stop to my anger” (19.67). In Agamemnon's story Zeus, learning how Hera has tricked him, is “angered in his heart” (19.127).
+---
+
+παύω χόλον, “I put a stop to my anger” (19.67), answers the choice he weighed in Book 1, whether to kill Agamemnon “or to check his anger and restrain his spirit” (1.189–192), when Athena came down “to stop your fury” (1.207; see [[athena]]). In Book 18 he wished that anger might perish from among gods and men (18.107–113). He says it now in the verses of that wish, “we will let all this be, as done and past, for all our grief, / taming the dear heart in our breasts under compulsion” (19.65–66 = 18.112–113; see [[menis]] and [[eris]]). The anger he puts away is the anger at Agamemnon. The anger that enters him at the sight of the armor is the anger of a man going to war, and it is renewed as he arms: “raging against the Trojans / he put on the gifts of the god” (19.367–368; see [[menos]]).

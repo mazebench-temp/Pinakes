@@ -5,7 +5,8 @@ kind: god
 tags: [titan, personification]
 summary: A name of the Sun, "the one on high". In Homer the Sun is Ὑπερίων Ἠέλιος, "Hyperion the Sun", or simply Hyperion, and once the son of Hyperion; Hesiod makes Hyperion a Titan and the Sun's father.
 aliases: [Hyperiōn]
-grc: ["Ὑπερίον*"]
+# Ὑπερίων, the nominative, is found in Homer only at 19.398, of the Sun (ἠλέκτωρ Ὑπερίων).
+grc: ["Ὑπερίον*", Ὑπερίων]
 ---
 
 ## Etymology
@@ -14,7 +15,7 @@ grc: ["Ὑπερίον*"]
 
 ## In Homer
 
-In the Iliad the name occurs twice. In Book 8 Zeus tells Hera that Iapetus and Cronus sit at the lowest limits of earth and sea, with no joy "in the rays of Hyperion the Sun / or in the winds" (8.480–481; see [[iapetus]], [[cronus]] and [[tartarus]]). The Titans below have no share in the light of the god who sees everything above (see [[helios]] and [[who-sees-all-things]]). In Book 19 Achilles mounts his chariot "gleaming in his armor like the beaming Hyperion" (ἠλέκτωρ Ὑπερίων, 19.398; see [[like-the-sun]]).
+In the Iliad the name occurs twice. In Book 8 Zeus tells Hera that Iapetus and Cronus sit at the lowest limits of earth and sea, with no joy "in the rays of Hyperion the Sun / or in the winds" (8.480–481; see [[iapetus]], [[cronus]] and [[tartarus]]). The Titans below have no share in the light of the god who sees everything above (see [[helios]] and [[who-sees-all-things]]). In Book 19 Achilles mounts his chariot "gleaming in his armor like shining Hyperion" (ἠλέκτωρ Ὑπερίων, 19.398; see [[like-the-sun]]).
 
 The Odyssey uses the name more often, and nearly always of the Sun himself. The crew of Odysseus perish because they ate "the cattle of Hyperion the Sun" (*Odyssey* 1.8), which graze with his fat flocks on Thrinacia (12.262–263); the Ethiopians live "some where Hyperion sets, and some where he rises" (1.24; see [[ethiopians]]); the nymphs who herd the cattle are daughters of "Hyperion the Sun" (12.131–133), and Lampetie runs to him with the news when the cattle are killed (12.374–375). Once, though, the Odyssey makes Hyperion his father, in "the rays of the lord son of Hyperion" (Ὑπεριονίδαο ἄνακτος, 12.176). Homer does not reconcile the two uses (see the translation's note on 8.480).
 

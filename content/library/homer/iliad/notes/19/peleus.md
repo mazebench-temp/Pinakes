@@ -1,0 +1,18 @@
+---
+summary: Peleus is far away and old. Lamenting Patroclus, Achilles says that even the news of his father's death would grieve him less, and imagines Peleus in Phthia weeping for lack of his son, dead already or barely alive in hateful old age and waiting for the news of his son's death (19.321–325, 19.334–337). Achilles arms with his father's spear, the Pelian ash that Chiron gave Peleus (19.387–391), calls to his father's horses (19.399), and tells Xanthus that he knows he will die far from his father and mother (19.421–422). Three times his son is named after him (19.75, 19.83, 19.216).
+# Unnamed: "my father" in Phthia (19.322-324), Peleus waiting for the news (19.335-337), "his father's spear" and
+# "his dear father" (19.387, 19.390), "the horses of his father" (19.399), "far from my dear father" (19.422).
+refs: [19.322-324, 19.335-337, 19.387, 19.390, 19.399, 19.422]
+passages:
+  - 19.321-337 | Achilles thinks of his father and his son
+---
+
+**News from Phthia.** In his lament for Patroclus Achilles measures his grief by his father: he could suffer nothing worse, “not even if I should learn of the death of my father, / who now, I think, in Phthia is letting his tender tears fall / for lack of such a son” (19.322–324; see [[achilles]], [[phthia]] and [[fathers-and-sons]]). τέρεν κατὰ δάκρυον εἴβει, “is letting his tender tears fall”, is the half-line with which Achilles chided the weeping Patroclus in Book 16, “Like her, Patroclus, you let your tender tears fall” (16.11; see [[tender]]); there he asked whether Patroclus had heard some news from Phthia, and said that Menoetius and Peleus were still alive (16.12–16). χήτεϊ τοιοῦδʼ, “for lack of such”, is Hector's phrase for Andromache in her widowhood, “to lack such a man” (6.463). He ends the lament with his father again:
+
+{{quote:8e139245-21a7-5ee2-86b6-cb507a9f9bce}}
+
+Thetis told Hephaestus that Peleus lies “worn out” by old age in his halls (18.434–435; see [[thetis]]). Walter Leaf finds 19.334–337 at odds with 19.322–323, where Peleus is alive and weeping, and thinks them more probably meant to explain κτῆσιν ἐμήν, “my wealth” (19.333), which would not yet be Achilles' while his father lived (*Commentary on the Iliad*, 1900, on 19.334). Priam will remind Achilles of the same old man, who hears that his son is alive and hopes every day to see him come home from Troy (24.486–492; see [[priam]]). In the Odyssey the shade of Achilles asks whether Peleus still keeps his honor among the Myrmidons, or is slighted now that old age binds his hands and feet, and Odysseus has heard nothing of him (*Odyssey* 11.494–505).
+
+**The father's spear and horses.** Achilles arms in Hephaestus' armor, but the spear is his father's: “And from its case he drew his father's spear”, the Pelian ash “which Chiron gave to his dear father / from the peak of Pelion, to be death for heroes” (19.387–391; see [[the-pelian-ash]] and [[chiron]]). His horses are his father's too, the immortal horses that the gods gave Peleus (16.381, 16.866–867): “and he called terribly to the horses of his father” (19.399; see [[the-horses-of-achilles]]). When the horse Xanthus foretells his death (see [[xanthus-the-horse]]), Achilles answers that he knows it is his fate to perish at Troy, “far from my dear father and mother” (19.421–422; see [[death-of-achilles-foretold]]).
+
+**The patronymic.** Achilles is named after his father three times: the Achaeans rejoice that “the great-hearted son of Peleus” has renounced his wrath (Πηλεΐωνος, 19.75), Agamemnon will open his mind “To the son of Peleus” (Πηλεΐδῃ, 19.83), and Odysseus addresses him as “Achilles, son of Peleus” (Πηλῆος υἱέ, 19.216; see [[son-of-peleus]]).

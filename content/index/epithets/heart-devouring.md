@@ -14,7 +14,7 @@ of: [eris]
 
 θυμοβόρος = θυμός (“heart, spirit”; [[thymos]]) + βορός (“devouring,” from the root of βιβρώσκω, “eat,” and βορά, “food”): “eating the heart.” The picture of grief or passion as something that eats the heart is common in Homer. Bellerophon wandered alone, “eating his heart out” (6.202; ὃν θυμὸν κατέδων), and Thetis asks Achilles how long he will go on eating his heart in grief (24.128–129). Agamemnon is a “people-devouring king” in Achilles' insult, with the same second element ([[people-devouring-king]]).
 
-Homer gives the epithet only to ἔρις, strife ([[eris]]), five times, all in the Iliad: twice in Book 7 (7.210, 7.301), of Patroclus and Sarpedon when they meet again in their duel (16.476), in Achilles' regret for his quarrel with Agamemnon, “in heart-devouring strife over a girl” (19.58), and in Aeneas' picture of women who come out into the street to quarrel (20.252–255).
+Homer gives the epithet only to ἔρις, strife ([[eris]]), five times, all in the Iliad: twice in Book 7 (7.210, 7.301), of Patroclus and Sarpedon when they meet again in their duel (16.476), in Achilles' regret for his quarrel with Agamemnon, “in heart-devouring strife for the sake of a girl” (19.58), and in Aeneas' picture of women who come out into the street to quarrel (20.252–255).
 
 ## Use
 

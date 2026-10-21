@@ -1,0 +1,20 @@
+---
+title: Euripides' Scyrians
+greek: ἡ παῖς νοσεῖ σου κἀπικινδύνως ἔχει
+kind: anecdote
+tags: [art]
+summary: Achilles says in his lament for Patroclus that his son Neoptolemus is being reared on Scyros, and the Iliad names neither the boy's mother nor how a son of Achilles came to be there. Later tradition hid the young Achilles on Scyros in a girl's dress among the daughters of King Lycomedes, where he fathered Neoptolemus on Deidamia. Euripides' lost Scyrians was set at Lycomedes' court; in one of its fragments the king is told that his daughter is sick and in danger.
+source: Euripides, Scyrians, frr. 682–686 Nauck; Apollodorus, Library 3.13.8; Statius, Achilleid 1.669–674
+of: [neoptolemus, scyros, achilles, lycomedes, euripides]
+refs: [19.326-327, 19.331-332]
+---
+
+{{quote:fd3a8431-ec1b-59ce-8fa2-823c14f3fef3}}
+
+**Homer.** Achilles, refusing food, laments Patroclus: nothing worse could happen to him, not even news of his father's death, “or of my dear son, who is being reared for me in Scyros, / if indeed godlike Neoptolemus is still alive” (19.326–327; see [[neoptolemus]] and [[scyros]]). He had hoped that Patroclus would bring the boy from Scyros to Phthia in a swift black ship and show him everything, his wealth, his slaves and his great high-roofed house (19.328–333). The Iliad names Neoptolemus only here. It knows Scyros otherwise as a place that Achilles sacked, where he won the captive Iphis (9.667–668), and in the Odyssey Odysseus tells the shade of Achilles that he himself brought the boy from Scyros in his ship (*Odyssey* 11.506–509). Neither poem names the boy's mother, or says how a son of Achilles came to be reared on Scyros. Aristarchus and Aristophanes athetized 19.327, on the ground that Achilles could not be in doubt whether his son was alive, Scyros being near Troy, and that “godlike” did not suit; Didymus adds a variant that named the son Πυρῆς (see the translation's note on 19.326–337). Walter Leaf suspects the whole passage, since the Iliad knows no son of Achilles except at the equally doubtful 24.467, and wonders whether Πυρῆς is the later Pyrrhus (*Commentary on the Iliad*, 1900, on 19.327).
+
+**The later story.** In Apollodorus' handbook, when Achilles was nine years old Calchas declared that Troy could not be taken without him, and Thetis, knowing that he must die if he went to the war, dressed him as a girl and entrusted him to Lycomedes. Brought up at his court, Achilles lay with Lycomedes' daughter Deidamia, and a son was born to him, Pyrrhus, who was later called Neoptolemus. Odysseus, told that Achilles was at Lycomedes' court, found him out with a trumpet (*Library* 3.13.8; see [[apollodorus]]). Statius' *Achilleid* tells the story at length; there the lovers take Deidamia's nurse into their secret, and she hides the girl's swelling womb and the heavy months until the appointed time comes and Lucina, the goddess of childbirth, brings the child to light (*Achilleid* 1.669–674; see [[statius]]). This Lycomedes, king of Scyros, is not the Achaean Lycomedes, son of Creon, who helps carry Agamemnon's gifts in this book (19.240; see [[lycomedes]]).
+
+**Euripides.** Euripides' *Scyrians* is lost. August Nauck's collection of his fragments has five pieces of it (frr. 682–686 Nauck). In the first someone tells Lycomedes, “Your daughter is sick, and in danger”, and the king, named as the speaker, asks what the cause is, what affliction has overpowered her, and whether some chill is racking her sides (fr. 682). Two are maxims, “The wise keep the harms of their own house hidden” (fr. 683), and a lament for the unevenness of mortal fortune, which brings hard disasters on men who are pious toward the gods and live justly and without shame (fr. 684). The last two are single words (frr. 685–686). The fragments name neither Achilles nor Deidamia nor the child. A daughter's sickness and a household harm that the wise conceal would suit a hidden pregnancy, the story that Apollodorus and Statius tell; the fragments themselves go no further (see [[euripides]]).
+
+See [[neoptolemus]], [[scyros]] and [[euripides]].

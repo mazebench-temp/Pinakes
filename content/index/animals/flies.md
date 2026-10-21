@@ -9,7 +9,7 @@ grc: [μυιάων]
 en: [flies]
 ---
 
-μυῖα is the fly. Homer's flies do three things. They swarm, and a cloud of them around the milk pails in spring gives the measure of a crowd of men (Iliad 2.469–473, 16.641–643). They come back however often they are brushed away: Athena puts into Menelaus “the daring of a fly”, which keeps trying to bite, “and human blood is sweet to it” (Iliad 17.570–572). And they feed on the dead. Achilles fears that flies will get into Patroclus' wounds and breed worms, and Thetis promises to keep away “the savage tribes, the flies that eat men slain in battle” (Iliad 19.23–31).
+μυῖα is the fly. Homer's flies do three things. They swarm, and a cloud of them around the milk pails in spring gives the measure of a crowd of men (Iliad 2.469–473, 16.641–643). They come back however often they are brushed away: Athena puts into Menelaus “the daring of a fly”, which keeps trying to bite, “and human blood is sweet to it” (Iliad 17.570–572). And they feed on the dead. Achilles fears that flies will get into Patroclus' wounds and breed worms (see [[maggots]]), and Thetis promises to keep away “the savage tribes, / the flies, which feed on men slain in battle” (Iliad 19.30–31).
 
 {{notes}}
 

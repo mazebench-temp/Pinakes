@@ -6,6 +6,9 @@ tags: [achaean, warrior, argive, argolid]
 summary: Son of [[Capaneus]], one of the Seven against Thebes, and Diomedes' companion and charioteer. He shares the command of the men of Argos and Tiryns.
 aliases: [Sthenelos]
 grc: [Σθένελος]
+# Sthenelus at 19.116 and 19.123 is the son of Perseus, father of Eurystheus (sthenelus-son-of-perseus); at Poetics
+# 1458a21 the English "Sthenelus" is the tragic poet (sthenelus-the-poet).
+except: [19.116, 19.123, Poetics 1458a21]
 relations:
   - father: capaneus (2.564)
   - companion: diomedes (2.563-567)
@@ -15,7 +18,7 @@ passages:
 
 {{quote:35f5711c-53f2-58a3-9683-9adf696e7386}}
 
-Sthenelus is named second, after [[Diomedes]], as "the dear son of famous Capaneus" (2.564). Both men are sons of the Seven who attacked Thebes, and both took the city in the next generation, with the Epigoni. With [[Euryalus]] they lead eighty ships from [[Argos]], [[Tiryns]] and the towns of the Argolid, but "Diomedes, good at the war cry, led them all" (2.567). The name comes from σθένος, "strength".
+Sthenelus is named second, after [[Diomedes]], as "the dear son of famous Capaneus" (2.564). Both men are sons of the Seven who attacked Thebes, and both took the city in the next generation, with the Epigoni. With [[Euryalus]] they lead eighty ships from [[Argos]], [[Tiryns]] and the towns of the Argolid, but "Diomedes, good at the war cry, led them all" (2.567). The name comes from σθένος, "strength". He is not [[sthenelus-son-of-perseus|Sthenelus, son of Perseus]], the father of Eurystheus, whom Agamemnon names in his story of the birth of Heracles (19.116, 19.123).
 
 {{notes}}
 
@@ -25,4 +28,4 @@ When Agamemnon taunts Diomedes with his father Tydeus, Diomedes keeps silent, bu
 
 ## Outside Homer
 
-Apollodorus counts him among the Epigoni and among the suitors of Helen (3.7.2, 3.10.8). Virgil puts him in the Wooden Horse (*Aeneid* 2.261). He is not Sthenelus son of Perseus, the father of Eurystheus (19.116–123).
+Apollodorus counts him among the Epigoni and among the suitors of Helen (3.7.2, 3.10.8). Virgil puts him in the Wooden Horse (*Aeneid* 2.261).

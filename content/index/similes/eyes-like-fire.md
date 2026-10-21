@@ -3,11 +3,11 @@ title: Eyes like fire
 greek: ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐΐκτην
 kind: simile
 tags: [anger, body]
-summary: Eyes that blaze like fire, the look of fury. Agamemnon's eyes are “like blazing fire” when he rises to answer Calchas (1.104), and Hector's eyes “blazed with fire” as he leaps through the broken gate of the Achaean wall (12.466).
+summary: Eyes that blaze like fire, the look of fury. Agamemnon's eyes are “like blazing fire” when he rises to answer Calchas (1.104), Hector's “blazed with fire” as he leaps through the broken gate of the Achaean wall (12.466), a boar's blaze as it stands at bay (13.474), and Achilles' shine “like a blaze” when he sees the armor that Hephaestus made and “like the blaze of fire” when he puts it on (19.16–17, 19.365–366).
 aliases: [his eyes were like blazing fire]
 grc: [πυρὶ λαμπετόωντι ἐΐκτην]
 en: [like blazing fire]
-of: [agamemnon]
+of: [agamemnon, hector, achilles]
 ---
 
 ## The simile
@@ -24,4 +24,4 @@ When Athena appears to Achilles, “her eyes blazed terribly” ({{ref:Iliad 1.2
 
 ## Outside Book 1
 
-The same lines, from “in distress” to the blazing eyes, describe Antinous, the leader of the suitors, when he learns that Telemachus has sailed (Odyssey 4.661–662). When Achilles arms at last to avenge Patroclus, his eyes blaze “like the gleam of fire” (Iliad 19.365–366).
+The same lines, from “in distress” to the blazing eyes, describe Antinous, the leader of the suitors, when he learns that Telemachus has sailed (Odyssey 4.661–662). When Achilles arms at last to avenge Patroclus, his eyes “shone like the blaze of fire” (Iliad 19.365–366).

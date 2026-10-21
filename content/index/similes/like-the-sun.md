@@ -3,11 +3,11 @@ title: Like the shining sun
 greek: τεύχεσι παμφαίνων ὥς τʼ ἠλέκτωρ
 kind: simile
 tags: [cosmic, repetition, warfare]
-summary: Paris comes down from Pergamus to the war “gleaming in his armor like the shining sun” (6.513). The same half-line describes Achilles as he mounts his chariot to avenge Patroclus (19.398).
-aliases: [like the sun, like the shining sun, gleaming like the sun, elektor]
+summary: The sun as the measure of bronze and of men who shine in it. Paris comes down to the war “gleaming in his armor like the shining sun” (6.513), and Achilles, in the same half-verse, “like shining Hyperion” (19.398); once it is horses, “terribly like the rays of the sun” (10.547).
+aliases: [like the sun, like the shining sun, gleaming like the sun]
 grc: [ἠλέκτωρ]
 en: [like the shining sun]
-of: [paris]
+of: [paris, achilles]
 ---
 
 ## The simile
@@ -24,6 +24,6 @@ Paris is going to the war at last. Hector has rebuked him, Helen has scorned him
 
 ## Elsewhere in Homer
 
-The half-line returns once. Achilles, armed in the armor Hephaestus made for him, mounts his chariot behind Automedon, “gleaming in his armor like the beaming Hyperion” (τεύχεσι παμφαίνων ὥς τʼ ἠλέκτωρ Ὑπερίων, 19.398), and calls to his horses. The line joins two men whose fates are bound together: Paris, with Apollo, will kill Achilles at the Scaean gates, as the dying Hector foretells (22.359–360; see [[death-of-achilles-foretold]]).
+The half-line returns once. Achilles, armed in the armor Hephaestus made for him, mounts his chariot behind Automedon, “gleaming in his armor like shining Hyperion” (τεύχεσι παμφαίνων ὥς τʼ ἠλέκτωρ Ὑπερίων, 19.398), and calls to his horses. The line joins two men whose fates are bound together: Paris, with Apollo, will kill Achilles at the Scaean gates, as the dying Hector foretells (22.359–360; see [[death-of-achilles-foretold]]).
 
 Achilles' bronze shines again “like the gleam of blazing fire or of the rising sun” when he comes at Hector (22.134–135). In the Odyssey the sun is the measure of splendor at peace: the halls of Menelaus and of Alcinous gleam “as of the sun or of the moon” (*Odyssey* 4.45, 7.84), and so does the shroud that Penelope wove and washed (*Odyssey* 24.147–148).

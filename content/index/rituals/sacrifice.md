@@ -22,3 +22,5 @@ Homer's words for sacrificing are ἱερὰ ῥέζειν, “to do sacred thin
 ## Outside Homer
 
 [[Hesiod]] explains why the gods get the bones. At Mecone, Prometheus hid the meat in the ox's stomach and wrapped the white bones in glistening fat, and Zeus chose the fat; “since then the tribes of men on earth burn white bones for the immortals on fragrant altars” (*Theogony* 535–557). Burnt thigh bones and tail vertebrae found at the altars of Greek sanctuaries show that the god's portion described in Homer was really offered.
+
+The victim of an oath was another matter. [[Pausanias]] saw at Olympia the statue of Zeus Horkios, “of oaths”, before which the athletes, their fathers, brothers and trainers swore over slices of a boar's flesh that they would do no wrong at the games. He forgot to ask what was done with the boar afterward, he says, but among the ancients a victim over which an oath had been sworn was no longer food for any man, and Homer shows it best: the boar of Agamemnon's oath is thrown into the sea by the herald. He quotes 19.266–268 (*Description of Greece* 5.24.9–11, reading σφάραγον, “gullet”, for στόμαχον; see [[oath]]).

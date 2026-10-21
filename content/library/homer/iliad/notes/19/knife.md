@@ -1,0 +1,5 @@
+---
+summary: At the oath of reconciliation Agamemnon draws the knife that always hangs beside his sword, cuts the first hairs from the boar, prays, and cuts its throat with the pitiless bronze (19.252–266).
+---
+
+The verses are those of the oath sacrifice of Book 3: Ἀτρεΐδης δὲ ἐρυσσάμενος χείρεσσι μάχαιραν, / ἥ οἱ πὰρ ξίφεος μέγα κουλεὸν αἰὲν ἄωρτο, “And the son of Atreus drew with his hand the knife / that always hung beside the great sheath of his sword” (19.252–253 = 3.271–272; see [[oath]] and [[sheath]]). In Book 3 he cut hair from the heads of the lambs; here he cuts the first hairs from the boar, ἀπὸ τρίχας ἀρξάμενος, and lifts his hands to Zeus (19.254; 3.273; see [[boar]] and [[prayer]]). When he has sworn, “He spoke, and cut the boar's throat with the pitiless bronze” (19.266), the verse with which he cut the lambs' throats (3.292; see [[pitiless-bronze]]). Walter Leaf notes that Homer never mentions the μάχαιρα, the sacrificial knife, as a weapon, and that it is not to be confused with the sword (*Commentary on the Iliad*, 1900, on 3.271).

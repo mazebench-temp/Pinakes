@@ -7,7 +7,8 @@ summary: A son of [[Antenor]] and the husband of [[Laodice]], the most beautiful
 aliases: [Helikaon, son of Antenor]
 grc: [Ἑλικάων, Ἀντηνορίδαο, Ἀντηνορίδης]
 # Ἀντηνορίδης at 11.221 and 11.249 is Iphidamas and Coon.
-except: [11.221, 11.249]
+# Κόων Ἀντηνορίδης (19.53) is Coon, another son of Antenor.
+except: [11.221, 11.249, 19.53]
 en: [Helicaon, son of Antenor, Antenor's son]
 relations:
   - father: antenor (3.122-123)

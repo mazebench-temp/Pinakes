@@ -1,0 +1,5 @@
+---
+summary: Achilles goes along the shore of the sea, shouting terribly, to call the Achaeans to the assembly in which he renounces his wrath (19.40–41).
+---
+
+αὐτὰρ ὃ βῆ παρὰ θῖνα θαλάσσης δῖος Ἀχιλλεὺς / σμερδαλέα ἰάχων: “But brilliant Achilles went along the shore of the sea, / shouting terribly” (19.40–41). The words βῆ … παρὰ θῖνα … θαλάσσης are those of Chryses in Book 1, who, sent away by Agamemnon, “went in silence along the shore of the loud-roaring sea” (βῆ δʼ ἀκέων παρὰ θῖνα πολυφλοίσβοιο θαλάσσης, 1.34). In that book the shore was the place of men alone with their grief, and Achilles himself, when Briseis had been taken, sat apart from his companions “on the shore of the gray sea, looking out over the boundless deep” (1.348–350); in Book 9 the envoys walked along it to his huts, in the verse of Chryses (9.182; see [[the-embassy-to-achilles]]). Now he walks the beach where the ships are drawn up, and not in silence: he rouses the whole army, and even the helmsmen and the stewards who used to stay by the ships come to the assembly (19.42–46; see [[assembly]], [[sea]] and [[the-renunciation-of-wrath]]).

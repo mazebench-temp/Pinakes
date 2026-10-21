@@ -1,0 +1,7 @@
+---
+summary: Phthia is the home that Briseis was promised and Achilles will not see again. Patroclus promised to take her there for her marriage to Achilles (19.298–299); Achilles imagines his father weeping for him in Phthia, and had hoped that Patroclus, not he, would go back there (19.323, 19.330).
+# Φθίηφι (19.323), "in Phthia", with the old ending -φι, is found only here in Homer.
+grc: [Φθίηφι]
+---
+
+In Briseis' lament Phthia is the home of the marriage Patroclus promised her: he would take her “in the ships / to Phthia, and give the marriage feast among the Myrmidons” (19.298–299; see [[briseis]], [[marriage]] and [[myrmidons]]). In Achilles' lament it is the home he will not see. He thinks of his father, “who now, I think, in Phthia is letting his tender tears fall / for lack of such a son” (19.323–324; see [[peleus]]), and he tells how he had hoped “that I alone would perish far from horse-pasturing Argos, / here in Troy, and that you would go back to Phthia” (19.329–330; see [[patroclus]] and [[argos]]). Φθίην δέ (19.330) is Φθίηνδε, “to Phthia”, with the suffix of direction printed apart, as in Achilles' threat of Book 1, “Now I will go to Phthia” (1.169; see the translation's note on 16.188). In Books 1 and 9 he threatened to sail home (1.169–171, 9.356–363); now, answering the horse Xanthus (see [[xanthus-the-horse]]), he says that he knows it is his fate to perish at Troy, “far from my dear father and mother” (19.421–422; see [[death-of-achilles-foretold]] and [[nostos]]).

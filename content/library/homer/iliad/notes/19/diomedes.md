@@ -1,0 +1,8 @@
+---
+summary: Diomedes, “the son of Tydeus, steadfast in battle”, comes limping to the assembly beside Odysseus, leaning on his spear, still wounded from Paris' arrow, and sits in the front (19.47–50). He is not named again in the book.
+refs: [19.47, 19.49-50]
+---
+
+“And the two attendants of Ares came limping, / the son of Tydeus, steadfast in battle, and brilliant Odysseus, / leaning on their spears; for they still had grievous wounds” (19.47–49; see [[odysseus]], [[son-of-tydeus]] and [[attendants-of-ares]]). Paris' arrow went through the flat of his right foot the day before (11.369–378; see [[paris]] and [[the-wounded-chiefs]]). Walter Leaf notes that his limp, unlike Odysseus', is explained by his wound (*Commentary on the Iliad*, 1900, on 19.47). μενεπτόλεμος, “steadfast in battle”, is given to him only here; elsewhere it is said of Polypoetes, Polyphontes, Thrasymedes and Podarces, and of the Perrhaebians (2.740, 2.749, 4.395, 10.255, 13.693; see [[steadfast-in-battle]]). With Odysseus and Agamemnon he is one of the three wounded kings who came up from the ships in Book 14 “leaning on their spears, all together” (14.29, 14.38).
+
+He sits “in the front of the assembly” (19.50; see [[assembly]]) and says nothing. In Book 9 he was the first to answer Agamemnon in the assembly, telling him that Zeus had given him the scepter but not courage, and he had the last word in the council: Achilles would fight again “when / the heart in his breast bids him and a god rouses him” (9.32–49, 9.702–703; see [[agamemnon]]). A god has roused him since, when Iris came from Hera with “Rise, son of Peleus” (18.166–170; see [[iris]] and [[achilles]]).

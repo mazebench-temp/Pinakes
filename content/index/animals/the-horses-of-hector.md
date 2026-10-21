@@ -5,10 +5,12 @@ kind: animal
 tags: [livestock, warfare, trojan]
 summary: Hector's chariot horses, four of which he calls by name in Book 8, Xanthus, Podargus, Aethon and Lampus, reminding them that Andromache fed them wheat and wine (8.185–190). A team of four is unusual in Homer, and the verse that names them is reported to have been rejected in antiquity.
 aliases: [Hector's horses, Podargus, Aethon]
-# The four vocatives of 8.185. ^ keeps out αἴθων "tawny" and λάμπε "shone" (12.463). Later books will need
-# except: Ξάνθε at 19.400 and 19.420 is Achilles' horse, and Αἴθων at Od. 19.183 is the name Odysseus gives himself.
+# The four vocatives of 8.185. ^ keeps out αἴθων "tawny" and λάμπε "shone" (12.463). Αἴθων at Od. 19.183, the name
+# Odysseus gives himself, will need an except.
 grc: ["^Ξάνθε", Πόδαργε, "^Αἴθων", "^Λάμπε"]
 en: [Xanthus, Podargus, Aethon, Lampus]
+# Ξάνθε at 19.400 and 19.420 is Achilles' horse Xanthus (xanthus-the-horse), not Hector's.
+except: [19.400, 19.420]
 refs: [8.88-89, 8.121-123, 8.127-129, 8.186-191, 8.314-315, 8.319, 8.348]
 passages:
   - 8.184-197 | Hector speaks to his horses
@@ -16,7 +18,7 @@ passages:
 
 {{quote:4244ef5b-f11b-5bfb-b263-e573e36f4c95}}
 
-**The names.** Hector names four horses in one verse (8.185). Ξάνθος, Xanthus, is from ξανθός, “yellow, fair”: a bay or chestnut. Πόδαργος, Podargus, joins πούς, “foot”, and ἀργός, which is both “shining white” and “swift” (the “swift dogs” of 1.50): “White-foot” or “Swift-foot”. Αἴθων, Aethon, is “Blaze”, from αἴθω, “burn” (see [[tawny]]). Λάμπος, Lampus, “Bright”, from λάμπω, “shine”, is called δῖος, “brilliant” (see [[brilliant]]). The same names go to other horses. Achilles' immortal pair are Xanthus and Balius, foaled by the Harpy Podarge (16.148–151), and he too calls them by name before he drives out (19.400). In the chariot race Menelaus drives his own Podargus beside Agamemnon's mare Aethe (23.295).
+**The names.** Hector names four horses in one verse (8.185). Ξάνθος, Xanthus, is from ξανθός, “yellow, fair”: a bay or chestnut. Πόδαργος, Podargus, joins πούς, “foot”, and ἀργός, which is both “shining white” and “swift” (the “swift dogs” of 1.50): “White-foot” or “Swift-foot”. Αἴθων, Aethon, is “Blaze”, from αἴθω, “burn” (see [[tawny]]). Λάμπος, Lampus, “Bright”, from λάμπω, “shine”, is called δῖος, “brilliant” (see [[brilliant]]). The same names go to other horses. Achilles' immortal pair are Xanthus and Balius, foaled by the Harpy Podarge (16.148–151), and he too calls them by name before he drives out (19.400); his Xanthus, given a voice by Hera, answers him and foretells his death (19.404–417; see [[xanthus-the-horse]]). In the chariot race Menelaus drives his own Podargus beside Agamemnon's mare Aethe (23.295).
 
 **Their keep.** Hector asks them to repay (ἀποτίνετον) the care (κομιδή) that Andromache gave them. She set honey-sweet wheat before them and mixed them wine to drink whenever they wished, “before me, who boast that I am her husband in my prime” (8.188–190; see [[andromache]] and [[wine]]). Wine for horses occurs nowhere else in Homer. Elsewhere horses eat white barley and spelt, as the Trojans' horses do at the end of this book (8.564; 5.195–196). He speaks of their keep as a debt, as the poem speaks of the return a son owes the parents who reared him (θρέπτρα, 4.477–478; see [[threptra]]). Then he sets them their task: to carry him to Nestor's golden shield and Diomedes' corselet, “If we could take these two, I would hope to make the Achaeans board their swift ships this very night” (8.191–197; see [[shield]] and [[corselet]]). Diomedes began with the same words when he set his heart on the horses of Aeneas: “If we could take these two, we would win noble fame” (5.273; see [[tros]]).
 

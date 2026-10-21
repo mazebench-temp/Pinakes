@@ -5,7 +5,7 @@ kind: creature
 tags: [personification, mother]
 summary: A Harpy, the mother of Achilles' immortal horses, Xanthus and Balius, whom she bore to the West Wind as she grazed in a meadow beside the stream of Oceanus.
 aliases: [Podarge the Harpy]
-# Ποδάργη (16.150); Ποδάργης (19.400) will need adding with Book 19. Πόδαργε (8.185) and Πόδαργον (23.295) are
+# Ποδάργη (16.150); the Book 19 note claims Ποδάργης (19.400). Πόδαργε (8.185) and Πόδαργον (23.295) are
 # horses, Hector's and Menelaus', and the exact forms leave them alone.
 grc: [Ποδάργη]
 relations:

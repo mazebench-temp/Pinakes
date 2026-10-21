@@ -3,7 +3,7 @@ title: Briseis
 greek: Βρισηΐς
 kind: person
 tags: [captive, woman]
-summary: Daughter of [[Briseus]], Achilles' captive and prize, given him by the Achaeans. [[Agamemnon]] takes her to make up for Chryseis, and her loss turns Achilles' anger into wrath.
+summary: Daughter of [[Briseus]], Achilles' captive from [[Lyrnessus]] and the prize the Achaeans gave him. [[Agamemnon]] takes her to make up for Chryseis, and her loss turns Achilles' anger into wrath; she is given back with the gifts of reconciliation, and mourns [[Patroclus]] in her only speech in the poem.
 aliases: [daughter of Briseus]
 grc: [Βρισηΐ*]
 en: [Briseis]
@@ -23,4 +23,4 @@ passages:
 
 ## Outside Homer
 
-In Book 19 Briseis is returned and laments over Patroclus. She tells how Achilles killed her husband and three brothers when he sacked Lyrnessus, and how Patroclus promised to make her Achilles' wife (19.282–300; see also 2.688–694). Her name, merged with Chryseis', gave the Middle Ages its Cressida. See [[from-briseis-to-cressida]].
+Her name, merged with Chryseis', gave the Middle Ages its Cressida. See [[from-briseis-to-cressida]].

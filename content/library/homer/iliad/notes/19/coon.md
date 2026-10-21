@@ -1,0 +1,5 @@
+---
+summary: Coon is named once, as the man who wounded Agamemnon. The king comes last to the assembly of reconciliation with his wound, “for him too in the fierce battle / Coon, son of Antenor, had stabbed with his bronze-fitted spear” (19.51–53).
+---
+
+οὖτα Κόων Ἀντηνορίδης χαλκήρεϊ δουρί, “Coon, son of Antenor, had stabbed with his bronze-fitted spear” (19.53; see [[antenor]], [[son-of-antenor]] and [[bronze-fitted]]). In Book 11 he was “the eldest-born son of Antenor” (11.249), and his spear went through the king's arm below the elbow (11.251–253; see [[agamemnon]]). καὶ γὰρ τόν, “for him too”, sets the king beside Diomedes and Odysseus, who have just come limping in on their spears (19.47–52; see [[the-wounded-chiefs]]). οὖτα is the verb of the spear thrust, the word in which Nestor counted the wounded: “Odysseus, famed for his spear, has been stabbed, and Agamemnon” (οὔτασται, 11.661). Coon paid for the blow at once, beheaded by Agamemnon over his brother's body (11.256–261; see [[iphidamas]]); his name returns as the cause of the wound with which the king comes to the reconciliation.

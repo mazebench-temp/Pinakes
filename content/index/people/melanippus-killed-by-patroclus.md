@@ -20,4 +20,4 @@ passages:
 
 καὶ Μελάνιππον, “and Melanippus”, closes the second verse of the list of nine men whom Patroclus kills when the narrator asks him “whom first, whom last” (16.692–697; see [[adrastus-killed-by-patroclus]], [[whom-first-whom-last]] and [[patroclus]]). The same words end the last verse of names in the list of Teucer's victims in Book 8, where they name another Melanippus (8.276; see [[melanippus]] and [[perimus]]).
 
-The Iliad has four men of the name: the Trojan shot by Teucer (8.276); Melanippus, son of Hicetaon, Hector's cousin, whom Antilochus kills (15.546–583; see [[melanippus-son-of-hicetaon]]); this Trojan; and an Achaean among the young men who fetch Agamemnon's gifts for Achilles (19.238–241). The name joins μέλας, “black”, and ἵππος, “horse”.
+The Iliad has four men of the name: the Trojan shot by Teucer (8.276); Melanippus, son of Hicetaon, Hector's cousin, whom Antilochus kills (15.546–583; see [[melanippus-son-of-hicetaon]]); this Trojan; and an Achaean among the young men who fetch Agamemnon's gifts for Achilles (19.238–241; see [[melanippus-the-achaean]]). The name joins μέλας, “black”, and ἵππος, “horse”.

@@ -20,7 +20,7 @@ The embassy fails. Achilles answers that no gifts will persuade him until the wh
 
 ## Amends accepted
 
-In Book 19 the quarrel is ended in public. Achilles calls the assembly and renounces his wrath; Agamemnon blames Zeus, Moira, the Erinys and Ate, and offers the gifts again (19.56–144). Odysseus gives the rule for such endings: let Agamemnon make amends with a rich feast, and in future be more just, “for it is no blame for a king to make amends to a man when he was the first to be angry” (19.179–183). The gifts are brought out and the oath is sworn over Briseis (19.238–268). Achilles takes them with indifference (19.146–148). What moves him is Patroclus' death, not the gifts.
+In Book 19 the quarrel is ended in public. Achilles calls the assembly and renounces his wrath; Agamemnon blames Zeus, Moira, the Erinys and Ate, and offers the gifts again (19.56–144). Odysseus gives the rule for such endings: let Agamemnon make amends with a rich feast, and in future be more just, “for it is no cause for blame that a king / should make amends to a man, when he was the first to grow angry” (19.182–183). The gifts are brought out and the oath is sworn over Briseis (19.238–268). Achilles takes them with indifference (19.146–148). What moves him is Patroclus' death, not the gifts.
 
 ## Other endings
 

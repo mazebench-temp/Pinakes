@@ -1,0 +1,7 @@
+---
+summary: Thebes is the city where Heracles was to be born to Alcmene, ἐϋστεφάνῳ ἐνὶ Θήβῃ, “in well-crowned Thebes” (19.99), the only city in Homer called ἐϋστέφανος.
+---
+
+In Agamemnon's story Hera deceived Zeus “on the day when mighty Heracles / was to be born to Alcmene in well-crowned Thebes” (19.98–99; see [[the-birth-of-heracles]], [[alcmene]] and [[heracles]]). The city has its singular name, Θήβη, as when Zeus remembers “Alcmene in Thebes” among his loves (14.323) and Sthenelus boasts that the sons took “the seat of seven-gated Thebes” (4.406; see [[seven-gated]]). The story then moves to Argos, where Hera brings Eurystheus to birth (19.114–118; see [[argos]]); it does not say how she stopped Alcmene's labor in Thebes (19.119).
+
+ἐϋστέφανος, “well-crowned”, is said of a city only here in Homer (see [[well-crowned]]); the Odyssey gives it to the heroine Mycene, named with Tyro and Alcmene among the famous women of old (*Odyssey* 2.120). Walter Leaf takes it as “well crowned with walls”, comparing the κρήδεμνα, “the sacred veil of Troy” (16.100), and notes that Hesiod gives the epithet to Thebes (*Commentary on the Iliad*, 1900, on 19.99). Hesiod has the whole half-verse, ἐυστεφάνῳ ἐνὶ Θήβῃ, of the children whom Harmonia bore to Cadmus there (*Theogony* 975–978), and in the *Shield* Amphitryon comes ἐυστέφανον ποτὶ Θήβην, “to well-crowned Thebes”, after killing Electryon (*Shield* 80–82).

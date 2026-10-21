@@ -1,0 +1,8 @@
+---
+summary: Thetis sets the armor down before Achilles and all its intricate designs ring; he delights in gazing on them (19.12–19). When he arms, he takes up the shield fourth, and its blaze shines far off like the moon and reaches the upper air like a fire seen by sailors from the sea (19.373–380).
+refs: [19.373-380]
+---
+
+**The designs.** “So she spoke, and the goddess set the armor down / before Achilles; and all its intricate designs rang” (τὰ δʼ ἀνέβραχε δαίδαλα πάντα, 19.12–13). The Myrmidons tremble and none dares look at it face to face, while Achilles' anger rises, and he delights in holding the god's gifts, “gazing on the intricate designs” (δαίδαλα λεύσσων, 19.14–19; see [[eyes-like-fire]] and [[the-making-of-the-arms]]). The δαίδαλα are the work of the night before, above all the “many intricate designs” that Hephaestus made on the shield (18.482; see [[intricately-worked]]). Achilles tells his mother that the armor is such as is fitting “for the works of immortals, and no mortal man could make it” (19.21–22).
+
+**The shield taken up.** Achilles takes up the shield after the greaves, the corselet and the sword, in the half-verse of every arming: “and then his shield, great and heavy” (19.373; see [[arming-scene]] and [[shield]]), the words of its making (18.478, 18.609). “and from it, far off, came a blaze as of the moon” (19.374; see [[moon]]), and then a simile: as sailors out at sea see the blaze of a fire burning high in the mountains in a lonely farmstead, while the storm carries them far from their friends, “so from the shield of Achilles the blaze reached the upper air, / the fine shield, intricately worked” (19.375–380; see [[the-fire-seen-by-sailors]] and [[upper-air]]).

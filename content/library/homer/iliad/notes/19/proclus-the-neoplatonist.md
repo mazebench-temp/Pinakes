@@ -1,0 +1,7 @@
+---
+summary: Proclus explains why it is Hera who gives Achilles' horse a voice: she is the air, and voice is struck air. He cites Hera's “Father Zeus” as proof that among the gods a brother may be called father, and borrows Achilles' “a great work is still undone” for Plato's refusal to go into astronomy.
+---
+
+- Hera, the air, gives the horse of Achilles its voice, since voice is struck air (*On the Cratylus* 170, on 19.407): [[the-horses-voice]].
+- Hera's “Father Zeus” to her brother (19.121), with Poseidon's (7.446), as proof that among the gods a brother may be called father for his higher rank, so that Oceanus and Tethys can be both the brother and sister and the parents of Cronus and Rhea (*On the Timaeus* III 184–185 Diehl): [[proclus-on-father-zeus]].
+- **A great work undone.** When Plato declines to discuss the dances of the stars and their conjunctions without models to look at, Proclus says that the philosopher excuses himself, and borrows Achilles' words to Agamemnon, “for a great work is still undone” (19.150), with νῦν, now, added. One must not spend time on these things, οὐ δεῖ περὶ ταῦτα διατρίβειν, he goes on, with the verb of Achilles' “nor delay” (οὐδὲ διατρίβειν, 19.150): astronomy is one thing and natural philosophy another, as Aristotle distinguished them, and much leisure is needed to study these things first in models (*On the Timaeus* III 145 Diehl; see [[plato]]).

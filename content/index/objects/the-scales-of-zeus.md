@@ -7,7 +7,7 @@ summary: The golden scales in which Zeus weighs two fates of death against each 
 aliases: [golden scales, scales of Zeus, Zeus' scales, balance of Zeus, kerostasia, psychostasia, weighing of the fates]
 # τάλαντα are also "talents", weights of gold (9.122, 18.507, 19.247, 23.269, 24.232), and a working woman's scales
 # in a simile (12.433): claim the phrases of Zeus' scales only. ἐτίταινε τάλαντα returns at 22.209; Διὸς ἱρὰ τάλαντα
-# (16.658) is claimed in the Book 16 note, and Book 19 will need κλίνῃσι τάλαντα (19.223).
+# (16.658) is claimed in the Book 16 note, and κλίνῃσι τάλαντα (19.223, only there) in the Book 19 note.
 grc: ["ἐτίταινε τάλαντα"]
 en: [golden scales, scales]
 refs: [8.70-74]
@@ -27,7 +27,7 @@ The weighing is told twice, in the same verses. In Book 8 it comes at midday, "w
 
 In Book 22 Achilles has chased Hector three times around the walls of Troy, "but when for the fourth time they came to the springs", Zeus holds out the golden scales again, with one fate for Achilles and one for Hector. Hector's fated day sinks "and went to Hades, and Phoebus Apollo left him" (22.208–213). The first weighing gives Hector his day of victory; the second ends his life (see [[hector]]).
 
-Elsewhere the scales are a figure of speech. When Zeus puts a cowardly heart into Hector, he turns his chariot to flight, "for he knew the sacred scales of Zeus" (16.656–658). Odysseus tells Achilles that men soon have their fill of battle, where the bronze strews the most straw and the harvest is smallest, "when Zeus inclines his scales, he who is the steward of war for men" (19.221–224; the last verse also at 4.84). In a simile the fight at the Achaean wall hangs even, like the scales of an honest working woman weighing wool for a meager wage, until Zeus gives the higher glory to Hector (12.433–438; see [[kydos]] and [[the-working-womans-scales]]).
+Elsewhere the scales are a figure of speech. When Zeus puts a cowardly heart into Hector, he turns his chariot to flight, "for he knew the sacred scales of Zeus" (16.656–658). Odysseus tells Achilles that men soon have their fill of battle, where the bronze strews the most straw and the harvest is smallest, "when he tips the scales, / Zeus, who is the dispenser of war for men" (19.221–224; the last verse also at 4.84). In a simile the fight at the Achaean wall hangs even, like the scales of an honest working woman weighing wool for a meager wage, until Zeus gives the higher glory to Hector (12.433–438; see [[kydos]] and [[the-working-womans-scales]]).
 
 ## Fate and the will of Zeus
 

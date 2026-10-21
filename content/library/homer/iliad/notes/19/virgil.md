@@ -1,0 +1,6 @@
+---
+summary: Virgil's Venus brings Aeneas his arms as Thetis brings Achilles his, and Aeneas cannot have his fill of looking at them. Walter Leaf compares the Fates and Juno who forbid the seer Helenus to say more with the Erinyes who check the voice of Achilles' horse.
+---
+
+- **The arms delivered.** Thetis comes to the ships at dawn, “bringing the gifts from the god” (19.3), sets the armor down before Achilles, and he delights in holding the splendid gifts in his hands, until he “had taken his fill of delight in his heart, gazing on the intricate designs” (19.18–19; see [[thetis]] and [[the-making-of-the-arms]]). Virgil's Venus comes bearing gifts (*dona ferens*) to Aeneas in a secluded valley, tells him that the gifts her husband promised are finished, embraces him and sets the shining arms under an oak. Aeneas, glad of the goddess' gifts and of so great an honor, cannot have his fill (*expleri nequit*): he runs his eyes over each piece and turns them in his hands, the helmet with its terrible crests spouting flame, the sword, the blood-red corselet of bronze, the greaves, the spear and the shield (*Aeneid* 8.608–625): [[virgil-shield-of-aeneas]].
+- Helenus, whom the Parcae forbid to know more and Juno to say more, compared by Walter Leaf with the Erinyes who check the voice of Xanthus (*Aeneid* 3.377–380, on 19.418): [[the-horses-voice]].

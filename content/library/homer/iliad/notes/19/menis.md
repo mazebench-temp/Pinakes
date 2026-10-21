@@ -1,0 +1,5 @@
+---
+summary: The wrath is renounced in the words of the book's ancient title. Thetis tells Achilles to call the assembly, “renouncing your wrath against Agamemnon” (μῆνιν ἀποειπών, 19.35); he speaks of the time “while I nursed my wrath apart” (19.62); and the Achaeans rejoice “that the great-hearted son of Peleus had renounced his wrath” (19.75).
+---
+
+ἀπειπεῖν is “speak off, renounce”, and Μήνιδος ἀπόρρησις, “the renunciation of wrath”, is the ancient title of the book (see [[the-renunciation-of-wrath]]). Achilles himself never says the noun here. He calls it his anger, “Now I put a stop to my anger” (χόλον, 19.67; see [[cholos]]), and uses the verb of Book 9 for the time of his withdrawal, ἐμεῦ ἀπομηνίσαντος (19.62; 9.426). Walter Leaf notes that 19.75 neglects the digamma that 19.35 keeps, and that Bentley rejected the verse as superfluous (*Commentary on the Iliad*, 1900, on 19.75; see the translation's note on 19.75). The wrath against Agamemnon ends; the anger it leaves turns on the Trojans (19.16, 19.367; see [[quarrel-of-achilles-and-agamemnon]]).

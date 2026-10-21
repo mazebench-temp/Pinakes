@@ -20,7 +20,7 @@ Archaeology offers parallels for both kinds. Tall “tower” shields and shield
 
 ## Elsewhere in Homer
 
-In the arming scenes the shield is taken up after the sword, in the same words for Paris, Patroclus and Achilles: “and then the great and heavy shield” (αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε, 3.335, 16.136, 19.373). Agamemnon's is an ἀσπίς, “the furious shield, man-covering, intricately worked” (11.32). The shield Hephaestus makes for Achilles, with the earth, the sky and the sea, two cities and the work of the seasons on it, is described over some 130 lines (18.478–608).
+In the arming scenes the shield is taken up after the sword, in the same words for Paris, Patroclus and Achilles: “and then his shield, great and heavy” (αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε, 3.335, 16.136, 19.373). Agamemnon's is an ἀσπίς, “the furious shield, man-covering, intricately worked” (11.32). The shield Hephaestus makes for Achilles, with the earth, the sky and the sea, two cities and the work of the seasons on it, is described over some 130 lines (18.478–608).
 
 ## Outside Homer
 

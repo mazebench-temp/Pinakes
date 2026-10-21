@@ -1,0 +1,7 @@
+---
+summary: Phoenix is one of those who stay with Achilles when he refuses food and sends the other kings away, comforting him in his grief; he hears his lament for Patroclus and groans with the others (19.309–339).
+# Unnamed: those "comforting him" (19.312) and the elders who groan with him (19.338-339).
+refs: [19.312, 19.338-339]
+---
+
+When the elders beg Achilles to eat and he refuses, he sends the other kings away, “but the two sons of Atreus stayed, and brilliant Odysseus, / Nestor and Idomeneus and the old horse-driving Phoenix, / comforting him in his deep grief” (19.310–312; see [[achilles]], [[atreidae]], [[odysseus]], [[nestor]] and [[idomeneus]]). γέρων ἱππηλάτα, “the old horse-driving”, is the title the narrator gave him when he rose to speak in the embassy (9.432) and when he led the fourth company of the Myrmidons (16.196; see [[horse-driving]]). He is named last of those who stay, and he alone is of Achilles' own household; Odysseus, his companion in the embassy, is with him again (see [[the-embassy-to-achilles]]). Nothing is said of his words. “But not at all in his heart / would he be comforted, before he entered the mouth of bloody war” (19.312–313), and Achilles laments Patroclus before them; “the elders groaned with him, / each remembering what he had left in his halls” (19.338–339; see [[elders]] and [[lament]]). Phoenix had fled his father's house, “fleeing the quarrels of my father Amyntor”, and found a home with Peleus in Phthia (9.447–484; see [[the-flight-of-phoenix]]).

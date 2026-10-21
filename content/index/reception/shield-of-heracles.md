@@ -23,4 +23,4 @@ passages:
 
 **The difference.** Homer's shield is made in the poem, at Thetis' request, and shown as Hephaestus makes it, scene by scene (see [[the-making-of-the-arms]]); the Hesiodic shield is already made, and is described as Heracles takes it up. The Hesiodic shield sounds in use: the teeth of its snakes clash whenever Heracles fights (164–165), and the shield rings loud as the Gorgons run across it (231–233). Homer's wonder is of another kind: the plowed land grows dark behind the plowmen, “though it was made of gold; that was a wonder beyond all” (18.548–549). In the fifth book of the *Deipnosophistae* Athenaeus cites the *Shield*'s Muses who “led the song” (205–206) to argue that on Achilles' shield it is the singer, not the tumblers, who leads the dance (5.180c–181c; see [[the-singer-on-the-shield]]).
 
-See [[the-shield-of-achilles]], [[hesiod]] and [[virgil-shield-of-aeneas]].
+See [[the-shield-of-achilles]], [[hesiod]], [[heracles-in-the-hesiodic-shield]] and [[virgil-shield-of-aeneas]].

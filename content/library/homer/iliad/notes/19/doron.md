@@ -1,0 +1,7 @@
+---
+summary: Two sets of gifts meet in Book 19. Thetis brings “the gifts from the god” (19.3), the armor of Hephaestus, in which Achilles delights (19.18) and which he puts on at the end (19.368). Agamemnon offers the gifts Odysseus promised in Book 9 (19.140–144); Achilles leaves it to him whether to give them or keep them (19.147–148), but they are brought into the assembly, counted out, and carried to Achilles' ship (19.172–174, 19.238–249, 19.278–281).
+passages:
+  - 19.238-249 | The gifts brought out
+---
+
+The god's gifts are wondered at; the king's are scarcely looked at. Achilles “delighted in holding in his hands the splendid gifts of the god” (19.18), and when Agamemnon offers his, he answers, “the gifts are yours, to give them if you wish, as is fitting, / or to keep them by you. But now let us remember the joy of battle” (19.147–148; see [[charme]]). It is Odysseus who insists that they be set “into the middle of the assembly, so that all the Achaeans / may see them with their eyes”, for gifts that make amends must be seen to be given (19.172–174; see [[amends-and-reconciliation]]). The list is the list of Book 9 in part: seven tripods, twenty cauldrons and twelve horses, seven women skilled in handiwork and Briseis the eighth, and ten talents of gold (19.243–247; 9.122–130; see [[the-gifts-of-agamemnon]] and [[numbers-and-counting]]). Agamemnon calls the gifts ransom (19.138; see [[apoina]]). The young men who carry them are named (19.238–240, 19.248; see [[kouretes]]).

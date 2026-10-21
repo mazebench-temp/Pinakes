@@ -3,16 +3,16 @@ title: The moon
 greek: σελήνη
 kind: place
 tags: [cosmic]
-summary: The moon, σελήνη, a light of the sky and never a goddess in Homer. In the Iliad it shines among the stars in the simile of the Trojan watch-fires, is lost in the darkness over the body of Patroclus, and is made “at the full” on the Shield of Achilles (8.555, 17.367, 18.484).
+summary: The moon, σελήνη or μήνη, a light of the sky and never a goddess in Homer. In the Iliad it shines among the stars in the simile of the Trojan watch-fires, is lost in the darkness over the body of Patroclus, is made “at the full” on the Shield of Achilles, and is the likeness of the shield's blaze when Achilles takes it up (8.555, 17.367, 18.484, 19.374).
 aliases: [moon, Selene, the full moon, mene]
-# μήνη, the other word for the moon (μήνης 19.374, μήνη 23.455), will need adding with those books.
+# μήνη, the other word for the moon: μήνης (19.374) is claimed in the Book 19 note; μήνη (23.455) will need adding.
 grc: [σελήνην]
 en: [moon]
 ---
 
 ## The word
 
-σελήνη is the moon. Homer also has μήνη, a word akin to μήν, “month”, in two comparisons of the later books (19.374, 23.455). He never names the moon as a person: the goddess Selene belongs to Hesiod and the hymns (see below).
+σελήνη is the moon. Homer also has μήνη, a word akin to μήν, the month, in two comparisons of the later books (19.374, 23.455). He never names the moon as a person: the goddess Selene belongs to Hesiod and the hymns (see below).
 
 ## In Homer
 
@@ -22,7 +22,7 @@ The Iliad names the moon, σελήνη, three times, always with the sun or the 
 
 σελήνην τε πλήθουσαν, “the moon at the full”: πλήθω is the verb of being full, used elsewhere in the Iliad of rivers running in flood (5.87, 11.492, 16.389; see [[river-in-flood]]). Here the moon is full, and on the Shield it shines with the sun at the same time. Walter Leaf compares a gold ring from Mycenae on which the sun and the moon are shown at the top, apart from the rest of the scene (*Commentary on the Iliad*, 1900, on 18.483).
 
-The later books use the moon for brightness and for roundness. When Achilles takes up his new shield, its gleam goes up “like the moon” (ἠΰτε μήνης, 19.374), and a horse in the chariot race has on its forehead a white mark, round like the moon (23.455). In the Odyssey the gleam of Menelaus' house and of Alcinous' palace is “as of the sun or the moon” (*Odyssey* 4.45, 7.84), and on the night when Odysseus' ships came to the island of goats no moon showed, hidden in the clouds (*Odyssey* 9.144–145). Months are reckoned by it: Odysseus will come home, the disguised Odysseus swears, “as one month wanes and the next begins” (*Odyssey* 14.162, 19.307).
+The later books use the moon for brightness and for roundness. When Achilles takes up his new shield, “from it, far off, came a blaze as of the moon” (ἠΰτε μήνης, 19.374), and a horse in the chariot race has on its forehead a white mark, round like the moon (23.455). In the Odyssey the gleam of Menelaus' house and of Alcinous' palace is “as of the sun or the moon” (*Odyssey* 4.45, 7.84), and on the night when Odysseus' ships came to the island of goats no moon showed, hidden in the clouds (*Odyssey* 9.144–145). Months are reckoned by it: Odysseus will come home, the disguised Odysseus swears, “as one month wanes and the next begins” (*Odyssey* 14.162, 19.307).
 
 ## Outside Homer
 

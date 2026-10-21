@@ -1,0 +1,9 @@
+---
+summary: Nestor says nothing at the reconciliation he worked for in Books 1 and 9. His sons are the first named among the young men who bring out Agamemnon's gifts (19.238), and he is one of the six who stay with Achilles when the other kings are sent away (19.311).
+---
+
+**His sons.** “He spoke, and took with him the sons of glorious Nestor” (19.238; see [[kydalimos]]): Odysseus' first choice among the young men who are to carry the gifts out of Agamemnon's hut (19.193, 19.238–248; see [[odysseus]] and [[the-gifts-of-agamemnon]]). The verse does not say which sons. The Iliad names two of Nestor's sons at Troy, Antilochus and Thrasymedes; Thrasymedes was one of the captains of the watch on the night of the embassy, with Meriones and Lycomedes, who are chosen here too (9.81–84; see [[antilochus]], [[thrasymedes]], [[meriones]] and [[lycomedes]]).
+
+**Silent.** The reconciliation is the one Nestor tried to make in Book 1, when he begged Agamemnon not to take the girl and Achilles not to quarrel with a king (1.275–284), and the one he proposed in Book 9, when he told Agamemnon to win Achilles back “with kindly gifts and with soothing words” (9.112–113). In Book 19 he does not speak. Odysseus gives the counsel, and Agamemnon praises him, as he had praised Nestor in the first assembly, for speaking “rightly” (19.186; κατὰ μοῖραν, 1.286).
+
+**With Achilles.** When Achilles refuses food and sends the other kings away, “the two sons of Atreus stayed, and brilliant Odysseus, / Nestor and Idomeneus and the old horse-driving Phoenix, / comforting him in his deep grief” (19.310–312; see [[elders]] and [[achilles]]). Two of the six are old men, Nestor and Phoenix, who on the night of the embassy spoke for the amends, one at Agamemnon's table and the other in Achilles' hut (9.96–113, 9.434–605; see [[phoenix]]).

@@ -1,0 +1,7 @@
+---
+summary: In Agamemnon's story Alcmene is the mother whose labor Hera stops. On the day when Heracles “was to be born to Alcmene in well-crowned Thebes”, Hera brought Eurystheus to birth in Argos, “and she stopped Alcmene's childbirth, and held back the Eileithyiai” (19.98–99, 19.119).
+---
+
+Alcmene is named twice in the story, at its beginning and at its turn. On the day “when mighty Heracles / was to be born to Alcmene in well-crowned Thebes” (19.98–99; see [[heracles]], [[thebes]] and [[the-birth-of-heracles]]), Zeus swore that the man of his blood born that day would rule all who dwell around him. Hera made the oath serve another: she brought the wife of Sthenelus to birth in her seventh month, “and she stopped Alcmene's childbirth, and held back the Eileithyiai” (Ἀλκμήνης δʼ ἀπέπαυσε τόκον, σχέθε δʼ Εἰλειθυίας, 19.119; see [[eurystheus]] and [[hera]]). The goddesses of childbirth whom Hera holds back are plural here, as in the simile of Book 11, where they are “the daughters of Hera” (11.270–271; see [[eileithyia]]).
+
+The verses join Alcmene to the same words in Hesiod: Ἀλκμήνη δʼ ἄρʼ ἔτικτε βίην Ἡρακληείην, “Alcmene bore mighty Heracles”, after lying with Zeus (*Theogony* 943–944), as Agamemnon's βίην Ἡρακληείην / Ἀλκμήνη τέξεσθαι (19.98–99). Agamemnon does not tell how the birth was released, or say anything of Alcmene's husband; Zeus names her among his loves in Book 14 (14.323–324; see [[the-loves-of-zeus]]), and later writers tell how Hera's delay was undone (see [[the-birth-of-heracles]]).

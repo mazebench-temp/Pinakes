@@ -8,7 +8,6 @@ tags: [divine-scene, craftsman, divine-object, supplication]
 summary: Thetis goes up to Olympus to ask Hephaestus for armor for Achilles, whose own was lost with Patroclus. Hephaestus, who owes her his life, receives her in his bronze house, promises armor that men will marvel at, and makes in one night a shield, a corselet, a helmet and greaves, which she carries down to her son at dawn (18.127–147, 18.369–617; 19.1–23).
 aliases: [the Hoplopoiia, the Hoplopoeia, the forging of the armor, the forging of the arms, the new armor of Achilles, the armor of Hephaestus, Thetis and Hephaestus, Thetis in the house of Hephaestus, Thetis' visit to Hephaestus]
 participants: [thetis, hephaestus, charis-wife-of-hephaestus, achilles]
-# Later: Thetis brings the armor to Achilles at dawn (19.1-23).
 refs: [18.189-191]
 passages:
   - 18.127-147 | Thetis promises new armor

@@ -11,7 +11,7 @@ en: [torn in mourning]
 
 ## Meaning
 
-ἀμφίδρυφος and ἀμφιδρυφής = ἀμφί (“around, on both sides”) + δρύπτω (“tear, scratch”): “torn all around.” Each form occurs once, and both are said of widows. Protesilaus, the first Achaean to die at Troy, left behind in Phylace a wife “her cheeks torn in mourning” and a house half-finished (2.700–701; [[the-death-of-protesilaus]]); and Diomedes tells Paris that when his spear strikes a man, the man's wife has her cheeks torn in mourning (11.393). Women tear their faces over the dead: Briseis, lamenting over Patroclus, tears her breast, her soft neck and her lovely face (19.282–285). See [[husbands-and-wives]] and [[tears]].
+ἀμφίδρυφος and ἀμφιδρυφής = ἀμφί (“around, on both sides”) + δρύπτω (“tear, scratch”): “torn all around.” Each form occurs once, and both are said of widows. Protesilaus, the first Achaean to die at Troy, left behind in Phylace a wife “her cheeks torn in mourning” and a house half-finished (2.700–701; [[the-death-of-protesilaus]]); and Diomedes tells Paris that when his spear strikes a man, the man's wife has her cheeks torn in mourning (11.393). Women tear their faces over the dead: Briseis, lamenting over Patroclus, tears her breasts, her tender neck and her beautiful face (19.284–285; see [[lament]]). See [[husbands-and-wives]] and [[tears]].
 
 ## Use
 

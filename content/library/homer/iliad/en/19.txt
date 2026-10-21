@@ -1,0 +1,427 @@
+# Homer, Iliad, Book 19 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Now saffron-robed Dawn rose from the streams of Oceanus
+2	to bring light to the immortals and to mortals;
+3	and she came to the ships, bringing the gifts from the god.
+4	She found her dear son lying with his arms around Patroclus,
+5	weeping loudly; and many of his companions around him
+6	were weeping; and she stood among them, brilliant among goddesses,
+7	and she clung to his hand, and spoke to him, and called him by name:
+8	“My child, this man we will let lie, for all our grief,
+9	since he was brought down once and for all by the will of the gods;
+10	but you, receive this glorious armor from Hephaestus,
+11	very fine, such as no man has ever yet worn on his shoulders.”
+12	So she spoke, and the goddess set the armor down
+13	before Achilles; and all its intricate designs rang.
+14	And trembling seized all the Myrmidons, and no one dared
+15	look at it face to face, but they fled in fear. But Achilles,
+16	as he saw it, anger entered him the more, and his eyes
+17	shone out terribly beneath his lids, like a blaze;
+18	and he delighted in holding in his hands the splendid gifts of the god.
+19	But when he had taken his fill of delight in his heart, gazing on the intricate designs,
+20	at once he addressed his mother with winged words:
+21	“My mother, the armor the god has given is such as is fitting
+22	for the works of immortals, and no mortal man could make it.
+23	Now I will arm myself; but terribly
+24	I fear that in the meantime into the valiant son of Menoetius
+25	flies will make their way, through the wounds the bronze has struck,
+26	and breed worms, and defile the body—
+27	the life is slain out of it—and all his flesh will rot.”
+28	Then the goddess silver-footed Thetis answered him:
+29	“My child, do not let these things trouble your mind.
+30	From him I will try to ward off the savage tribes,
+31	the flies, which feed on men slain in battle;
+32	for even if he lies here for a full year's round,
+33	his flesh will always be sound, or even better.
+34	But you, call the Achaean heroes to an assembly,
+35	renouncing your wrath against Agamemnon, shepherd of the people,
+36	and arm yourself at once for the war, and put on your courage.”
+37	So she spoke, and put in him a might full of daring,
+38	and into Patroclus in turn ambrosia and red nectar
+39	she dripped through his nostrils, so that his flesh might be sound.
+40	But brilliant Achilles went along the shore of the sea,
+41	shouting terribly, and he roused the Achaean heroes.
+42	And even those who before had always stayed in the gathering of the ships,
+43	who were helmsmen and held the steering oars of the ships,
+44	and were stewards beside the ships, dealing out the food,
+45	even they came to the assembly then, because Achilles
+46	had appeared, who had long ceased from grievous battle.
+47	And the two attendants of Ares came limping,
+48	the son of Tydeus, steadfast in battle, and brilliant Odysseus,
+49	leaning on their spears; for they still had grievous wounds;
+50	and they came and sat down in the front of the assembly.
+51	And last of all came Agamemnon, lord of men,
+52	with his wound; for him too in the fierce battle
+53	Coon, son of Antenor, had stabbed with his bronze-fitted spear.
+54	And when all the Achaeans were gathered together,
+55	swift-footed Achilles stood up among them and spoke:
+56	“Son of Atreus, was this then better for us both,
+57	for you and for me, that we two, grieving at heart,
+58	raged in heart-devouring strife for the sake of a girl?
+59	I wish Artemis had killed her with an arrow among the ships
+60	on the day when I took her, when I destroyed Lyrnessus;
+61	then not so many Achaeans would have bitten the boundless ground with their teeth
+62	at the hands of their enemies, while I nursed my wrath apart.
+63	For Hector and the Trojans that was the better thing; but the Achaeans,
+64	I think, will long remember my strife and yours.
+65	But we will let all this be, as done and past, for all our grief,
+66	taming the dear heart in our breasts under compulsion.
+67	Now I put a stop to my anger; there is no need for me
+68	to rage stubbornly forever; but come, quickly
+69	urge the long-haired Achaeans on to war,
+70	so that I may go against the Trojans once more and make trial of them,
+71	whether they will want to spend the night by the ships; but I think
+72	many a man among them will be glad to bend his knees and rest, who escapes
+73	from the destructive war, from under our spear.”
+74	So he spoke, and the well-greaved Achaeans rejoiced
+75	that the great-hearted son of Peleus had renounced his wrath.
+76	And among them spoke also Agamemnon, lord of men,
+77	from where he sat, and not standing up in their midst:
+78	“Friends, Danaan heroes, attendants of Ares,
+79	it is good to listen to a man when he stands up to speak, and it is not fitting
+80	to interrupt; for that is hard even for one who is skilled.
+81	But in the great din of men how could anyone listen
+82	or speak? He is hindered, clear-voiced orator though he is.
+83	To the son of Peleus I will open my mind; but you others,
+84	Argives, take heed, and each of you mark my word well.
+85	Often the Achaeans have spoken this word to me
+86	and kept rebuking me; but I am not to blame,
+87	but Zeus and Fate and the Erinys who walks in darkness,
+88	who in the assembly cast savage blind folly into my mind
+89	on the day when I myself took away the prize of Achilles.
+90	But what could I do? It is a god who brings all things to fulfillment.
+91	Blind Folly is the eldest daughter of Zeus, who blinds all,
+92	ruinous; her feet are tender, for she does not step
+93	upon the ground, but walks over the heads of men,
+94	doing harm to men; and she fetters one or the other.
+95	For once even Zeus was blinded, who, they say, is the best
+96	of men and gods; but even him
+97	Hera, female though she was, deceived with her treachery
+98	on the day when mighty Heracles
+99	was to be born to Alcmene in well-crowned Thebes.
+100	He spoke out, boasting among all the gods:
+101	‘Hear me, all you gods and all you goddesses,
+102	so that I may say what the heart in my breast bids me.
+103	Today Eileithyia, who brings hard birth, will bring into the light
+104	a man who will be lord over all who dwell around him,
+105	of the lineage of those men who are of my blood.’
+106	And queen Hera, with treachery in her heart, addressed him:
+107	‘You will prove false, and hereafter will not put fulfillment to your word.
+108	But come now, Olympian, swear me a mighty oath
+109	that he truly will be lord over all who dwell around him,
+110	whoever on this day falls between a woman's feet,
+111	of the men who are sprung from the blood of your stock.’
+112	So she spoke; and Zeus did not perceive her treachery at all,
+113	but swore a great oath, and in this was greatly blinded.
+114	And Hera darted down and left the peak of Olympus,
+115	and swiftly came to Achaean Argos, where she knew
+116	the strong wife of Sthenelus, son of Perseus.
+117	She was carrying her dear son, and the seventh month had come;
+118	and she brought him out into the light, though he was short of his months,
+119	and she stopped Alcmene's childbirth, and held back the Eileithyiai.
+120	And she herself, bringing the news, addressed Zeus, son of Cronus:
+121	‘Father Zeus of the gleaming thunderbolt, I will put a word in your mind:
+122	now a brave man is born who will be lord of the Argives,
+123	Eurystheus, child of Sthenelus the son of Perseus,
+124	of your race; it is not unseemly for him to be lord of the Argives.’
+125	So she spoke, and sharp grief struck him deep in his heart;
+126	and at once he seized Blind Folly by her head of shining tresses,
+127	angered in his heart, and swore a mighty oath
+128	that never to Olympus and the starry sky
+129	would Blind Folly come again, who blinds all.
+130	So saying, he hurled her from the starry sky,
+131	whirling her round in his hand; and soon she came to the works of men.
+132	Over her he always groaned whenever he saw his dear son
+133	doing unseemly work under the labors that Eurystheus set him.
+134	So I too, when in turn great Hector of the gleaming helmet
+135	was killing the Argives at the sterns of the ships,
+136	could not forget Blind Folly, by whom I was first blinded.
+137	But since I was blinded, and Zeus took away my wits,
+138	I am willing to make amends and give a boundless ransom.
+139	But rouse yourself to war, and rouse the rest of the army.
+140	And here am I to provide all the gifts that, coming to you
+141	yesterday in your huts, brilliant Odysseus promised.
+142	But if you wish, wait, eager though you are for Ares,
+143	and attendants will take the gifts from my ship
+144	and bring them, so that you may see that what I give will satisfy your heart.”
+145	Answering him, swift-footed Achilles said:
+146	“Most glorious son of Atreus, Agamemnon, lord of men,
+147	the gifts are yours, to give them if you wish, as is fitting,
+148	or to keep them by you. But now let us remember the joy of battle
+149	at once; for we must not waste time in talk here
+150	nor delay; for a great work is still undone;
+151	so that once again a man may see Achilles among the foremost
+152	destroying the battalions of the Trojans with his bronze spear.
+153	So let each of you remember this and fight his man.”
+154	Answering him, Odysseus of many wiles said:
+155	“Not like this, godlike Achilles, brave as you are:
+156	do not urge the sons of the Achaeans to Ilios fasting
+157	to fight with the Trojans, since it will be no short time
+158	that the din of battle lasts, once the battalions
+159	of men first engage, and a god breathes might into both sides.
+160	But bid the Achaeans eat by the swift ships
+161	of food and wine; for in that is might and courage.
+162	For no man all day long, until the sun goes down,
+163	will be able to fight face to face, going without food;
+164	for even if in his heart he is eager to make war,
+165	yet his limbs grow heavy unawares, and thirst and hunger
+166	overtake him, and his knees are hindered as he goes.
+167	But the man who has had his fill of wine and food
+168	and fights all day long against hostile men—
+169	the heart in his breast is bold, and his limbs
+170	do not grow weary until all have held back from the war.
+171	But come, dismiss the army, and bid them make ready
+172	their meal; and let Agamemnon, lord of men, bring the gifts
+173	into the middle of the assembly, so that all the Achaeans
+174	may see them with their eyes, and you may be warmed in your heart.
+175	And let him stand up among the Argives and swear you an oath
+176	that he never went up into her bed or lay with her,
+177	as is the custom, my lord, of men and of women;
+178	and let the heart in your breast be gracious too.
+179	And then let him make amends to you with a rich feast in his huts,
+180	so that you may have no lack of justice.
+181	And you, son of Atreus, will be more just hereafter
+182	toward another too. For it is no cause for blame that a king
+183	should make amends to a man, when he was the first to grow angry.”
+184	Then Agamemnon, lord of men, spoke to him in turn:
+185	“I rejoice, son of Laertes, to hear your word;
+186	for you have gone through all of it rightly and told it in full.
+187	These things I am willing to swear, and my heart bids me,
+188	and I will not swear falsely before a god. But let Achilles
+189	stay here meanwhile, eager though he is for Ares,
+190	and all you others stay here in a body, until the gifts
+191	come from my hut and we swear trusty oaths.
+192	And to you yourself I give this charge and command:
+193	choose young men, the best of all the Achaeans,
+194	and bring the gifts from my ship, all that we promised Achilles
+195	yesterday that we would give, and bring the women.
+196	And let Talthybius quickly, through the wide army of the Achaeans,
+197	make ready a boar for me, to sacrifice to Zeus and the Sun.”
+198	Answering him, swift-footed Achilles said:
+199	“Most glorious son of Atreus, Agamemnon, lord of men,
+200	at some other time you ought rather to busy yourselves with these things,
+201	when there comes some pause in the war
+202	and there is not so much might in my breast.
+203	But now they lie torn, those whom he brought down,
+204	Hector, son of Priam, when Zeus gave him glory,
+205	and you two urge us to food! For my part, I
+206	would now bid the sons of the Achaeans fight
+207	fasting and unfed, and as the sun goes down
+208	make ready a great supper, when we have avenged the insult.
+209	Before that, nothing would go down my throat,
+210	neither drink nor food, while my companion is dead,
+211	who lies in my hut, torn by the sharp bronze,
+212	turned toward the doorway, and around him his companions
+213	weep; so these things are not in my mind at all,
+214	but slaughter and blood and the grievous groaning of men.”
+215	Answering him, Odysseus of many wiles said:
+216	“Achilles, son of Peleus, by far the strongest of the Achaeans,
+217	you are stronger than I, and better by no small amount
+218	with the spear, but I would surpass you in understanding
+219	by far, since I was born first and know more.
+220	So let your heart be patient with my words.
+221	Quickly men come to satiety of the din of battle,
+222	in which the bronze strews the most straw on the ground,
+223	but the harvest is smallest, when he tips the scales,
+224	Zeus, who is the dispenser of war for men.
+225	But the Achaeans cannot mourn a corpse with the belly;
+226	for too many, and in rows, day after day,
+227	are falling: when could anyone draw breath from toil?
+228	But we must bury the man who dies,
+229	having a pitiless heart, after weeping for him a single day;
+230	and all who survive the hateful war
+231	must remember drink and food, so that still more
+232	we may fight against hostile men without rest, forever,
+233	our bodies clothed in unyielding bronze. And let none
+234	of the army hold back, waiting for some other summons;
+235	for this summons will mean evil for whoever is left behind
+236	at the ships of the Argives; but rushing on all together
+237	let us rouse sharp Ares against the horse-taming Trojans.”
+238	He spoke, and took with him the sons of glorious Nestor,
+239	and Meges, son of Phyleus, and Thoas and Meriones,
+240	and Lycomedes, son of Creon, and Melanippus;
+241	and they went to the hut of Agamemnon, son of Atreus.
+242	No sooner was the word spoken than the work was done:
+243	seven tripods they brought from the hut, which he had promised him,
+244	and twenty gleaming cauldrons, and twelve horses;
+245	and quickly they led out women skilled in flawless handiwork,
+246	seven, and the eighth was fair-cheeked Briseis.
+247	And Odysseus weighed out ten talents of gold in all
+248	and led the way, and with him the other young men of the Achaeans carried the gifts.
+249	And they set them in the middle of the assembly, and Agamemnon
+250	stood up; and Talthybius, like a god in his voice,
+251	holding the boar in his hands, stood beside the shepherd of the people.
+252	And the son of Atreus drew with his hand the knife
+253	that always hung beside the great sheath of his sword,
+254	and cutting the first hairs from the boar, he lifted up his hands to Zeus
+255	and prayed; and they all sat there in silence in their places,
+256	the Argives, listening to the king, as was right.
+257	And praying he spoke, looking up into the wide sky:
+258	“Now let Zeus be witness first, highest and best of the gods,
+259	and Earth and the Sun and the Erinyes, who beneath the earth
+260	punish men, whoever has sworn a false oath,
+261	that I never laid a hand on the girl Briseis,
+262	either wanting her for my bed or for anything else;
+263	but she remained untouched in my huts.
+264	And if any of this is falsely sworn, may the gods give me sorrows,
+265	very many, all that they give to whoever sins against them in his oath.”
+266	He spoke, and cut the boar's throat with the pitiless bronze.
+267	And Talthybius flung it into the great gulf of the gray sea,
+268	whirling it around, food for the fishes; but Achilles
+269	stood up and spoke among the war-loving Argives:
+270	“Father Zeus, truly great are the blind follies you give to men:
+271	never would the heart in my breast have been stirred
+272	through and through by the son of Atreus, nor would he have led the girl
+273	away against my will—there was no dealing with him; but Zeus, it seems,
+274	wanted death to come upon many of the Achaeans.
+275	But now go to your meal, so that we may join in the clash of Ares.”
+276	So he spoke, and quickly dissolved the assembly.
+277	And they scattered, each to his own ship,
+278	and the great-hearted Myrmidons busied themselves with the gifts,
+279	and went carrying them to the ship of divine Achilles.
+280	And they set them in the huts, and seated the women,
+281	and the noble attendants drove the horses to the herd.
+282	And then Briseis, like golden Aphrodite,
+283	when she saw Patroclus torn by the sharp bronze,
+284	threw herself around him and wailed shrilly, and with her hands she tore
+285	her breasts and her tender neck and her beautiful face.
+286	And weeping, the woman, like the goddesses, spoke:
+287	“Patroclus, dearest to my heart, wretched that I am,
+288	I left you alive when I went from the hut,
+289	and now I find you dead, leader of the people,
+290	as I come back; so evil follows evil for me always.
+291	The husband to whom my father and lady mother gave me
+292	I saw before the city, torn by the sharp bronze,
+293	and my three brothers, whom one mother bore with me,
+294	dearly loved, who all met their day of destruction.
+295	Nor would you let me, when swift Achilles killed my husband
+296	and sacked the city of divine Mynes,
+297	weep; but you said that of divine Achilles
+298	you would make me the wedded wife, and take me in the ships
+299	to Phthia, and give the marriage feast among the Myrmidons.
+300	Therefore I weep for you without end, dead, who were always kind.”
+301	So she spoke, weeping, and the women groaned with her,
+302	for Patroclus outwardly, but each for her own sorrows.
+303	And around him the elders of the Achaeans gathered,
+304	begging him to take his meal; but he refused, groaning:
+305	“I beg you, if any of my dear companions will obey me,
+306	do not bid me, before that, with food or drink
+307	to sate my dear heart, since dread grief has come upon me:
+308	until the sun goes down I will wait and endure all the same.”
+309	So saying, he dismissed the other kings,
+310	but the two sons of Atreus stayed, and brilliant Odysseus,
+311	Nestor and Idomeneus and the old horse-driving Phoenix,
+312	comforting him in his deep grief; but not at all in his heart
+313	would he be comforted, before he entered the mouth of bloody war.
+314	And remembering, he heaved a heavy sigh and spoke:
+315	“Truly once, you too, most ill-fated one, dearest of my companions,
+316	would yourself set a pleasant meal before me in the hut,
+317	swiftly and quickly, whenever the Achaeans were in haste
+318	to bring tearful Ares against the horse-taming Trojans.
+319	But now you lie torn, and my heart
+320	goes without drink and food, though they are here within,
+321	for longing for you; for I could suffer nothing worse,
+322	not even if I should learn of the death of my father,
+323	who now, I think, in Phthia is letting his tender tears fall
+324	for lack of such a son; while I, in a foreign land,
+325	for the sake of Helen, at whom men shudder, am fighting the Trojans;
+326	or of my dear son, who is being reared for me in Scyros,
+327	if indeed godlike Neoptolemus is still alive.
+328	For before this the heart in my breast hoped
+329	that I alone would perish far from horse-pasturing Argos,
+330	here in Troy, and that you would go back to Phthia,
+331	so that you might take my son in a swift black ship
+332	from Scyros, and show him everything,
+333	my wealth and my slaves and my great high-roofed house.
+334	For by now I think Peleus is either altogether
+335	dead, or still alive just barely, and grieving
+336	in hateful old age, and always waiting for
+337	the grievous news of me, when he hears that I have perished.”
+338	So he spoke, weeping, and the elders groaned with him,
+339	each remembering what he had left in his halls;
+340	and the son of Cronus saw them weeping and pitied them,
+341	and at once he addressed Athena with winged words:
+342	“My child, you have utterly abandoned your brave man.
+343	Is Achilles then no longer at all in your mind?
+344	There he sits before the straight-horned ships,
+345	mourning his dear companion; and the others
+346	have gone to their meal, while he is unfed and has tasted nothing.
+347	But go, drip nectar and lovely ambrosia
+348	into his breast, so that hunger may not come upon him.”
+349	So saying he urged on Athena, who was eager already;
+350	and she, like a long-winged, shrill-voiced bird of prey,
+351	leapt down from the sky through the upper air. But the Achaeans
+352	were at once arming throughout the army; and into Achilles'
+353	breast, nectar and lovely ambrosia
+354	she dripped, so that joyless hunger might not come upon his knees;
+355	and she herself went to the well-built house of her mighty father,
+356	and they poured out away from the swift ships.
+357	And as when snowflakes fly thick and fast from Zeus,
+358	cold, under the rush of the North Wind, born of the clear sky,
+359	so then, thick and fast, the helmets, shining brightly,
+360	were carried out from the ships, and bossed shields
+361	and corselets with strong plates and ash spears.
+362	And the gleam reached the sky, and all the earth around laughed
+363	under the flash of the bronze; and beneath rose a din from the feet
+364	of men; and in their midst brilliant Achilles armed himself.
+365	And there was a gnashing of his teeth, and his two eyes
+366	shone like the blaze of fire, and into his heart
+367	entered unbearable grief; and raging against the Trojans
+368	he put on the gifts of the god, which Hephaestus had toiled to make.
+369	First he put the greaves around his shins,
+370	fine ones, fitted with silver ankle-pieces;
+371	second, he put on the corselet around his chest.
+372	And around his shoulders he slung his silver-studded sword
+373	of bronze, and then his shield, great and heavy,
+374	he took up, and from it, far off, came a blaze as of the moon.
+375	And as when to sailors out at sea there appears the blaze
+376	of a burning fire, which burns high up in the mountains
+377	in a lonely farmstead; and storm winds bear them, unwilling,
+378	over the fish-filled sea, far from their friends;
+379	so from the shield of Achilles the blaze reached the upper air,
+380	the fine shield, intricately worked; and lifting the helmet,
+381	he set it, heavy, on his head; and like a star it shone,
+382	the helmet with its horsehair crest, and around it waved the plumes
+383	of gold, which Hephaestus had set thick about the crest.
+384	And brilliant Achilles tried himself in his armor,
+385	whether it fitted him and his splendid limbs moved freely in it;
+386	and it was like wings to him, and it lifted the shepherd of the people.
+387	And from its case he drew his father's spear,
+388	heavy, huge, and massive; no other of the Achaeans
+389	could wield it, but Achilles alone knew how to wield it,
+390	the Pelian ash, which Chiron gave to his dear father
+391	from the peak of Pelion, to be death for heroes.
+392	And Automedon and Alcimus, busying themselves with the horses,
+393	yoked them; and they put the fine breast straps on them, and the bits
+394	they set in their jaws, and pulled the reins back
+395	to the well-joined chariot. And he, taking the shining whip
+396	that fitted his hand, sprang up behind the horses,
+397	Automedon; and behind him Achilles took his stand, armed,
+398	gleaming in his armor like shining Hyperion,
+399	and he called terribly to the horses of his father:
+400	“Xanthus and Balius, far-famed children of Podarge,
+401	take thought in another way to bring your charioteer back
+402	safe to the throng of the Danaans, when we have had our fill of war,
+403	and do not leave him there dead, as you left Patroclus.”
+404	And from under the yoke the horse with flashing feet spoke to him,
+405	Xanthus, and at once he bowed his head; and all his mane,
+406	streaming from under the yoke-cushion down beside the yoke, reached the ground;
+407	and the white-armed goddess Hera gave him speech:
+408	“Yes, we will save you still, this time at least, mighty Achilles;
+409	but the day of your destruction is near; nor are we
+410	to blame, but a great god and mighty Fate.
+411	For it was not through our slowness or sloth
+412	that the Trojans took the armor from the shoulders of Patroclus;
+413	but the best of the gods, whom Leto of the lovely hair bore,
+414	killed him among the champions, and gave glory to Hector.
+415	But we two could run even as fast as the breath of the West Wind,
+416	which they say is the swiftest of all; but for you yourself
+417	it is fated to be brought down by force by a god and a man.”
+418	So he spoke, and the Erinyes checked his voice.
+419	Deeply troubled, swift-footed Achilles said to him:
+420	“Xanthus, why do you prophesy death for me? You have no need to.
+421	I know well myself that it is my fate to perish here,
+422	far from my dear father and mother; but all the same
+423	I will not stop until I have given the Trojans their fill of war.”
+424	He spoke, and with a cry drove his single-hoofed horses among the foremost.

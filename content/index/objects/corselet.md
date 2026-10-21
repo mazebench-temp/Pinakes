@@ -19,7 +19,7 @@ Bronze body armor was made in Mycenaean Greece. The best-known example is the su
 
 ## Elsewhere in Homer
 
-In the arming scenes the corselet comes second, after the greaves: “second, he put the corselet around his chest” (δεύτερον αὖ θώρηκα περὶ στήθεσσιν ἔδυνεν, 3.332, 11.19, 16.133, 19.371). Paris borrows his brother Lycaon's (3.333), and Patroclus puts on Achilles', “the inlaid corselet, starry” (16.134). Agamemnon's was a guest-gift from Cinyras of Cyprus, with bands of dark κύανος, gold and tin, and three serpents rising toward the neck on either side (11.19–28). When Pandarus' arrow strikes Menelaus, it pierces his belt, his corselet and the guard (μίτρη) worn beneath, and only grazes the skin (4.132–140).
+In the arming scenes the corselet comes second, after the greaves: “second, he put on the corselet around his chest” (δεύτερον αὖ θώρηκα περὶ στήθεσσιν ἔδυνεν, 3.332, 11.19, 16.133, 19.371). Paris borrows his brother Lycaon's (3.333), and Patroclus puts on Achilles', “the inlaid corselet, starry” (16.134). Agamemnon's was a guest-gift from Cinyras of Cyprus, with bands of dark κύανος, gold and tin, and three serpents rising toward the neck on either side (11.19–28). When Pandarus' arrow strikes Menelaus, it pierces his belt, his corselet and the guard (μίτρη) worn beneath, and only grazes the skin (4.132–140).
 
 ## Outside Homer
 

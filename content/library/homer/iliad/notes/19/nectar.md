@@ -1,0 +1,5 @@
+---
+summary: Nectar is not drunk in Book 19 but dripped, with ambrosia, into a man's body: Thetis drips red nectar into the nostrils of the dead Patroclus to keep his flesh sound, and Athena drips nectar into the breast of the fasting Achilles to keep hunger from him.
+---
+
+In Book 1 Hephaestus poured nectar for the gods from the mixing bowl, and in Book 4 Hebe poured it for them as they sat with Zeus (1.597–598, 4.2–3; see the notes on Books 1 and 4). In Book 19 the gods' drink is given to men. Thetis drips “ambrosia and red nectar” into the nostrils of Patroclus, “so that his flesh might be sound” (19.38–39; see [[thetis]], [[patroclus]] and [[ambrosia]]); νέκταρ ἐρυθρόν, “red nectar”, is also the nectar that Calypso mixes for Hermes in the Odyssey (*Odyssey* 5.93; see [[red]]). Walter Leaf suggests that it is red because it takes the place of blood (*Commentary on the Iliad*, 1900, on 19.38). Then Zeus sends Athena to drip “nectar and lovely ambrosia” into the breast of Achilles, who will not eat, and she does so, “so that joyless hunger might not come upon his knees” (19.347–354; see [[zeus]], [[athena]] and [[fasting]]).
