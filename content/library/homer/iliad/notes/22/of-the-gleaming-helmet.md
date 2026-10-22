@@ -1,0 +1,7 @@
+---
+summary: Hector has the epithet five times: as he answers Athena in Deiphobus' likeness and speaks first to Achilles (22.232, 22.249), in the verses of his last two speeches, “feebly” and “dying” (22.337, 22.355), and in Andromache's memory of “the day when Hector of the gleaming helmet took her” as his bride (22.471).
+---
+
+**Old verses.** The answer to the false Deiphobus is introduced by the verse of his answer to Andromache in Book 6, τὴν δʼ αὖτε προσέειπε μέγας κορυθαίολος Ἕκτωρ (22.232 = 6.440; [[answering-him]]), and his first words to Achilles by the verse of the meetings of champions, with his own name at its end (22.249; [[when-they-came-close]]). “Then Hector of the gleaming helmet spoke to him feebly” (22.337) is the verse with which, still weak from Ajax's stone, he answered Apollo (15.246); the dying Patroclus spoke to Hector in the same words, with his own name (16.843). Its companion, τὸν δὲ καταθνῄσκων προσέφη κορυθαίολος Ἕκτωρ, “Then, dying, Hector of the gleaming helmet spoke to him” (22.355), is found only here.
+
+**The helmet.** The helmet he wears in the duel is not his own: “All the rest of his flesh the bronze armor covered, / the fine armor he had stripped from mighty Patroclus” (22.322–323), the armor of Achilles that he put on in Book 17 (17.192–197; [[might-of-patroclus]]). Andromache's memory gives the epithet back to the young bridegroom (22.470–472; [[bride-price]]). See [[hector]].

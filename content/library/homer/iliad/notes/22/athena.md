@@ -1,0 +1,23 @@
+---
+summary: Athena protests Zeus' wish to save Hector in Hera's words over Sarpedon, and he lets her go. When Hector's day has sunk in the scales, she tells Achilles to stand and catch his breath, and goes to Hector in the likeness of Deiphobus, his dearest brother, to bring him to stand and fight. She gives Achilles back his spear, unseen by Hector, and Hector, finding no brother beside him, knows that she has deceived him; the narrator says that gray-eyed Athena brought him down at the hands of Achilles.
+# Unnamed: her words to Zeus (22.178-181), her descent (22.187), her speech to Achilles (22.215-223), her coming to
+# Hector as Deiphobus, Hector's answer to her and her words (22.226-232, 22.239-246), and the spear given back (22.277).
+refs: [22.178-181, 22.187, 22.215-223, 22.226-232, 22.239-246, 22.277]
+passages:
+  - 22.177-187 | Athena's protest
+  - 22.214-247 | Athena brings Hector to stand
+---
+
+**Her protest.** “Father, lord of the gleaming thunderbolt and of the dark clouds, what a thing you have said!” (22.178; see [[of-the-gleaming-thunderbolt]] and [[lord-of-dark-clouds]]). The rest of her answer is Hera's over Sarpedon, word for word (22.179–181 = 16.441–443; see [[not-all-the-gods-approve]] and [[hera]]). Zeus answers her as he did in Book 8, “Take heart, Tritogeneia, dear child” (22.183 = 8.39; see [[tritogeneia]] and [[zeus]]), and she goes down from Olympus, “eager already” (πάρος μεμαυῖαν, 22.186–187 = 4.73–74; see [[olympus]]).
+
+**To Achilles.** When Hector's day has sunk in the scales and Apollo has left him (22.208–213; see [[the-scales-of-zeus]] and [[apollo]]), she comes to Achilles:
+
+{{quote:48b20e12-3f19-5179-834a-27ad3d4bc294}}
+
+νῶϊ, “we two” (22.216; see the translation's note on 22.216), makes the goddess Achilles' partner, and the glory she promises is the Achaeans' (κῦδος, 22.217; see [[kydos]] and [[dear-to-zeus]]). “So spoke Athena, and he obeyed, and rejoiced in his heart” (22.224). In Book 1 she came down to stop his hand, “if you will obey me”, and he obeyed (1.207, 1.216–218; see [[athena-restrains-achilles]]); here she bids him stand still, and he obeys again, rejoicing, and leans on his ash spear (22.225; see [[the-pelian-ash]]).
+
+**As Deiphobus.** “And she left him, and came upon brilliant Hector / in the likeness of Deiphobus in form and in tireless voice” (22.226–227; see [[deiphobus]] and [[tireless]]). She takes the shape of the brother Hector loves best (22.233–234), and speaks as a brother, ἠθεῖε, “Dear brother” (22.229, 22.239; see [[dear-brother]]). Her second speech is false in every part, the parents and companions who begged her to stay and the grief that brought her out (22.239–246; see [[truth-and-deception]]), and it ends in a call to fight: “So saying, Athena led the way by craft” (22.247). κερδοσύνῃ, “by craft”, is found only here in the Iliad; in the *Odyssey* it is said twice of Odysseus in a beggar's disguise (*Odyssey* 4.251, 14.31), and there Athena claims κέρδεα, “crafts”, as her own fame among the gods (*Odyssey* 13.296–299). She has led a Trojan to his death in a Trojan's likeness before. In Book 4, as Laodocus, son of Antenor, she found Pandarus and persuaded him to break the truce, “and she persuaded the mind of the fool” (4.86–104; see [[pandarus-breaks-the-truce]]); in Book 5 she guided the throw that killed him (5.290–291).
+
+**The spear.** Achilles throws first and misses, “but Pallas Athena snatched it up, / and gave it back to Achilles, unseen by Hector, shepherd of the people” (22.276–277; see [[pallas]]). Hector's spear glances off the shield, and he calls to Deiphobus for another, but Deiphobus is nowhere near (22.289–295). “Ah, truly the gods have called me to my death; / for I thought that the hero Deiphobus was beside me; / but he is within the wall, and Athena has deceived me” (22.297–299; see [[hector]] and [[the-death-of-hector]]). ἐξαπάτησεν, “has deceived”, is used in the Iliad elsewhere of the deceits of Agamemnon, which Achilles will not suffer again (9.371, 9.376), and of Hera's plan to beguile the mind of Zeus (ἐξαπάφοιτο, 14.160; see [[the-deception-of-zeus]]).
+
+**Her work.** Achilles had said it before he threw: “at once Pallas Athena / will bring you down by my spear” (22.270–271). The narrator says it when the news has not yet reached Hector's house: “nor did she know that far from all baths / gray-eyed Athena had brought him down at the hands of Achilles” (22.445–446; see [[gray-eyed]] and [[andromache]]). δαμάᾳ and δάμασε, “will bring down” and “had brought down”, are the same verb. In Book 15 the narrator had said that she was already rousing Hector's fated day against him, “Pallas Athena, under the strength of the son of Peleus” (15.613–614; see [[plan-of-zeus]]).

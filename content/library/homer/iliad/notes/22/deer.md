@@ -1,0 +1,5 @@
+---
+summary: The deer of Book 22 are fawns at both ends of the chase: the Trojans who have fled into the city “in panic like fawns” (22.1), and the fawn of a deer that a dog rouses from its lair and tracks through the mountains, as Achilles hunts Hector around the walls (22.189–193).
+---
+
+νεβροί, fawns, the young of the deer, open the book. The Trojans who fled before Achilles are inside the walls, cooling their sweat and drinking, πεφυζότες ἠΰτε νεβροί, “in panic like fawns” (22.1–2; see [[like-fawns]]). The fawn returns in the chase: ὡς δʼ ὅτε νεβρὸν ὄρεσφι κύων ἐλάφοιο δίηται, “As when in the mountains a dog chases the fawn of a deer” (22.189), and however it cowers under a bush, the dog tracks it until he finds it (22.189–193; see [[the-dog-and-the-fawn]] and [[dogs]]). The fawn is always prey in the Iliad: of the eagle of Zeus, which drops one by his altar (8.247–250), of the lion that crushes a swift hind's young in their lair (11.113–119; see [[the-lion-and-the-fawns]]), and of hounds (10.360–364, 15.579–581). The fawns of the first verse have reached safety. The fawn of the chase is Hector, the one man left outside.

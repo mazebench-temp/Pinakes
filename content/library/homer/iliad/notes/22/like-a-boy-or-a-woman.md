@@ -1,0 +1,9 @@
+---
+summary: Thinking of going to Achilles unarmed to offer him terms, Hector knows that Achilles would not pity him, “but will kill me naked, / just like a woman, once I have taken off my armor” (22.122–125).
+grc: ["ὥς τε γυναῖκα"]
+en: [just like a woman]
+---
+
+μή μιν ἐγὼ μὲν ἵκωμαι ἰών, ὃ δέ μʼ οὐκ ἐλεήσει / οὐδέ τί μʼ αἰδέσεται, κτενέει δέ με γυμνὸν ἐόντα / αὔτως ὥς τε γυναῖκα, ἐπεί κʼ ἀπὸ τεύχεα δύω: “I fear that I may go up to him, and he will not pity me, / nor respect me at all, but will kill me naked, / just like a woman, once I have taken off my armor” (22.123–125). γυμνός, “naked”, is the warrior without his armor, and αὔτως, “just so”, makes the woman the very picture of the defenseless. In Book 7 the comparison was a challenge that Hector threw back at Ajax: “do not test me as if I were some feeble boy / or a woman, who does not know the works of war” (7.235–236). Now, alone before the gates, it is his own fear, and he speaks it to his own heart (22.98–130; see [[pondering-two-ways]] and [[hector]]). He has thought of laying down his shield and helmet and leaning his spear against the wall, and going to Achilles with the offer of Helen and half the wealth of the city (22.111–121); the picture of the woman ends the thought. Nor can he talk with Achilles as lovers talk: “There is no way now, from an oak or from a rock, / to talk intimately with him, as a maiden and a young man” (22.126–127; see [[oaristys]]).
+
+He has killed a naked man himself. Apollo struck the helmet from the head of Patroclus and loosened his corselet, Euphorbus did not stand his ground “against Patroclus, naked though he was, in the combat” (16.815), and Hector came close and drove the spear through him (16.791–821; see [[patroclus]]). At the end of Book 22 Andromache uses the word of Hector's own body, which the worms will eat by the ships when the dogs have had their fill “of your naked body” (γυμνόν, 22.509–510; see [[maggots]]).

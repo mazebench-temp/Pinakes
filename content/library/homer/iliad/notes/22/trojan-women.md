@@ -1,0 +1,13 @@
+---
+summary: Priam begs Hector to come inside and save “the Trojans and the Trojan women” (22.56–57), and Hector, waiting outside, would feel shame before “the Trojans and the Trojan women with trailing robes” if he went in (22.105). When he is dead Hecuba leads the lament among the Trojan women, to whom he was a blessing (22.430–435), and Andromache laments among them for the husband whose clothes she will burn to be his fame “before the Trojans and the Trojan women” (22.476–515).
+# Unnamed: the daughters and sons' wives dragged off in Priam's picture of the sack (22.62, 22.65), the wives of the
+# Trojans who washed at the springs in time of peace (22.155) and who should give Hector his portion of fire (22.343),
+# and the women who groan with Andromache (22.515).
+refs: [22.62, 22.65, 22.155, 22.343, 22.515]
+---
+
+**Whom Hector guards.** Priam's plea joins the two peoples in one phrase, Τρῶας καὶ Τρῳάς, “the Trojans and the Trojan women” (22.57; see [[trojans]]): Hector, inside the wall, would save them. If he dies, the women are what the sack will take, “my daughters dragged off” and “my sons' wives dragged off by the deadly hands of the Achaeans” (22.62–65; see [[captive-women]] and [[sack-of-troy-foretold]]). Hector thinks of them too, in the verse of his answer to Andromache in Book 6: if he went in, “I would feel shame before the Trojans and the Trojan women with trailing robes” (22.105 = 6.442; see [[aidos]], [[with-trailing-robes]] and [[hector-and-andromache]]).
+
+**In time of peace.** As the two men run past the springs of the Scamander, the narrator remembers the stone troughs “where the glossy clothes / the wives of the Trojans and their fair daughters used to wash / in former days, in time of peace, before the sons of the Achaeans came” (22.154–156; see [[the-springs-of-the-scamander]] and [[eirene]]). The dying Hector asks for his body to be given back, so that “the Trojans and the wives of the Trojans may give me my portion of fire” (22.343; see [[cremation]] and [[honoring-the-dead]]).
+
+**The women's lament.** “And among the Trojan women Hecuba led the unceasing lamentation” (22.430): Hector was a blessing “to the Trojans and the Trojan women throughout the city, who greeted you / as a god” (22.434–435; see [[hecuba]] and [[lament]]). Andromache, held up by Hector's sisters and his brothers' wives (22.473–474; see [[in-laws]]), speaks “among the Trojan women” (22.476), and ends with his clothes, burned “to be your fame before the Trojans and the Trojan women”, Τρώων καὶ Τρωϊάδων (22.514; see [[andromache]] and [[kleos]]); “and the women groaned with her” (22.515). The pair of peoples that Priam asked Hector to save closes the last speech of the book.

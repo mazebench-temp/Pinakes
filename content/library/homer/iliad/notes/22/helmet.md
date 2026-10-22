@@ -1,0 +1,15 @@
+---
+summary: Hector thinks of setting down his heavy helmet to go to Achilles unarmed (22.112). Achilles charges at him nodding with the shining, four-ridged helmet that Hephaestus made, and around it wave “the fair plumes / of gold, which Hephaestus had set thick about the crest” (22.314–316).
+# καλαὶ δὲ περισσείοντο ἔθειραι (22.315), where 19.382 has περισσείοντο δʼ ἔθειραι.
+grc: ["περισσείοντο ἔθειραι"]
+---
+
+{{quote:3d4271cc-12a5-5566-b02b-12242932d619}}
+
+**The four ridges.** The helmet is the one Hephaestus made, “a heavy helmet fitted to his temples, / fine and intricately worked”, with a golden crest (18.611–612), which shone like a star when Achilles put it on (19.380–383; see the note on Book 19 and [[the-making-of-the-arms]]). Here it is τετράφαλος, “with its four ridges” (22.315; see [[four-ridged]]), a word used elsewhere only of the helmet that Ajax's stone crushed on Epicles' head (12.384); φάλος is the ridge of the helmet, on which Menelaus' sword shattered (3.362; see the translation's note on 12.384). κόρυθι δʼ ἐπένευε, “and nodded with his shining helmet” (22.314), is said only here. In the arming verses it is the plume that nods terribly above the helmet (3.337, 11.42, 15.481, 16.138; see [[horsehair-crested]]), and Astyanax shrank from the crest of his father's helmet, “as he saw it nodding terribly from the top of the helmet” (6.470).
+
+**The plumes.** 22.315–316 stand also in the arming of Achilles, where the first of the two verses begins ἵππουρις τρυφάλεια, “the helmet with its horsehair crest” (19.382–383). Walter Leaf holds that 19.382 was made from this verse, where Achilles is running and περισσείοντο, “waved around”, has its full force, and that the verse of Hephaestus and the crest is in both places an interpolation, made to bring in an allusion to the making of the arms; here, he says, it is out of place in the old part of the poems, where the making of the arms is unknown (*Commentary on the Iliad*, 1900, on 19.382, 22.315; see the translation's note on 22.315–316). ἔθειραι, “plumes”, are the hair of the crest, which was fouled with blood and dust when Apollo struck Achilles' first helmet from Patroclus' head (16.795–797).
+
+**Hector's helmet.** Hector, before the gates, asks himself whether he should set down his bossed shield “and my heavy helmet” and go to Achilles unarmed (22.111–112; see [[heavy-helmet]] and [[shield]]). In Book 6 he took his helmet off and laid it on the ground so that his son would not be afraid (6.472–473; see [[hector-and-andromache]]). The helmet he wears now is Achilles' first, which Zeus gave him “to wear on his head” when Apollo struck it from Patroclus (16.799–800; see [[the-armor-of-peleus]]).
+
+Two epithets of the book are made from κόρυς. Hector is κορυθαίολος, “of the gleaming helmet”, five times (22.232, 22.249, 22.337, 22.355, 22.471; see [[of-the-gleaming-helmet]]), and Enyalius, whose equal Achilles is as he comes, is κορυθάϊξ, “of the shaking helmet”, a word found only here in Homer (22.132; see [[of-the-shaking-helmet]] and [[enyalius]]).

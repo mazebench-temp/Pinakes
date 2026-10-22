@@ -19,7 +19,7 @@ relations:
 
 {{quote:7d252193-6f88-5d8f-8c22-418b5aa8bdff}}
 
-She is the mother of [[Hector]], who calls her “lady mother” (πότνια μήτηρ, 6.264), and of [[Laodice]], “the most beautiful in form of her daughters” (6.252). Helenus calls her “your mother and mine” (6.87; see [[helenus]]), and Hector names Deiphobus as the dearest of “the brothers whom Hecuba and Priam bore” (22.233–234). Priam says that nineteen of his fifty sons were born “from one womb” (24.495–497); he does not name the mother, but she is usually taken to be Hecuba (see [[sons-of-priam]]).
+She is the mother of [[Hector]], who calls her “lady mother” (πότνια μήτηρ, 6.264), and of [[Laodice]], “the most beautiful in form of her daughters” (6.252). Helenus calls her “your mother and mine” (6.87; see [[helenus]]), and Hector names Deiphobus as the dearest “of my brothers, the sons whom Hecuba and Priam bore” (22.233–234). Priam says that nineteen of his fifty sons were born “from one womb” (24.495–497); he does not name the mother, but she is usually taken to be Hecuba (see [[sons-of-priam]]).
 
 Her own family was Phrygian. Apollo rouses Hector in the likeness of [[asius-son-of-dymas|Asius]], his uncle, “own brother of Hecuba, and son of Dymas, who lived in Phrygia by the streams of the Sangarius” (16.715–720; see [[dymas]] and [[sangarius]]); the Greek leaves it open whether the one who lived there was Dymas or Asius. He is not the Asius son of Hyrtacus who leads the men of Arisbe ([[asius]]).
 
@@ -31,7 +31,7 @@ Her own family was Phrygian. Apollo rouses Hector in the likeness of [[asius-son
 
 ## Elsewhere in Homer
 
-In Book 22 she stands on the wall beside Priam, loosens the fold of her robe and holds out her breast to Hector, begging him to come inside: if Achilles kills him, neither she nor his “richly dowered wife” will weep over him on a bier (22.79–89). When she sees his body dragged, she tears her hair and flings away her veil (22.405–407), and she begins the Trojan women's lament (22.430–436).
+In Book 22 she begs Hector from the wall, holding up the breast that nursed him, and when he is dead and dragged she leads the Trojan women's lament (22.79–91, 22.405–436).
 
 In Book 24 she tries to keep Priam from going to Achilles, a savage, faithless man whose liver she wishes she could eat (24.200–216; see [[bereaved-parents]]). Yet she brings him wine in a golden cup to pour to Zeus. The wine that Hector refused in Book 6 Priam accepts: he washes his hands, pours and prays, and Zeus sends an eagle (24.283–321; see [[libation]]). Her lament over the body comes second of three, after Andromache's: Achilles sold her other sons across the sea, but Hector he dragged around the tomb of Patroclus, and now he lies fresh, “like one whom Apollo has slain with his gentle arrows” (24.747–759).
 

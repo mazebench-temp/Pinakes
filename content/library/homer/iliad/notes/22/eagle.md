@@ -1,0 +1,5 @@
+---
+summary: The eagle of Book 22 is Hector in his last charge: he draws his sword and swoops “like an eagle flying high / that goes down to the plain through the murky clouds / to snatch a tender lamb or a cowering hare” (22.306–311).
+---
+
+οἴμησεν δὲ ἀλεὶς ὥς τʼ αἰετὸς ὑψιπετήεις, “and crouching, he swooped like an eagle flying high” (22.308; see [[the-eagle-flying-high]]). ὑψιπετήεις is the longer form of ὑψιπέτης, “flying high”, the epithet of the eagles of omen in Books 12 and 13 (12.201, 13.822; see [[high-flying]]), and the Odyssey has the whole verse once more, for Odysseus falling on the kinsmen of the suitors (*Odyssey* 24.538). It is Hector's second eagle. In Book 15 he darted at the ships as a tawny eagle swoops on a flock of birds feeding beside a river, and Zeus pushed him on from behind (15.688–695; see [[the-eagle-and-the-birds]]). Now Zeus has weighed his fate, and the eagle's quarry is not a lamb or a hare (see [[lambs]] and [[hare]]) but Achilles, in the armor of Hephaestus.

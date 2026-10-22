@@ -18,4 +18,4 @@ of: [placus]
 
 Placus is named only in the story of Andromache's family, and never without this epithet. Her father “lived beneath wooded Placus” (6.396), and her mother “was queen beneath wooded Placus” (6.425), until Achilles took her captive with the rest of the spoil and ransomed her (6.425–427; [[sack-of-thebe]], [[eetion]]). The town at its foot is called Thebe Hypoplacia, “Thebe under Placus” (6.397; [[thebe]]).
 
-In her lament over Hector, Andromache remembers her birthplace in the same words: “but I at Thebe under wooded Placus, in the house of Eetion, who reared me when I was little” (αὐτὰρ ἐγὼ Θήβῃσιν ὑπὸ Πλάκῳ ὑληέσσῃ, Il. 22.479–480). The wooded mountain belongs to her memory of home ([[andromache]], [[placus]]).
+In her lament over Hector, Andromache remembers her birthplace in the same words: “and I in Thebe under wooded Placus, in the house of Eetion, who reared me when I was little” (αὐτὰρ ἐγὼ Θήβῃσιν ὑπὸ Πλάκῳ ὑληέσσῃ, Il. 22.479–480). The wooded mountain belongs to her memory of home ([[andromache]], [[placus]]).

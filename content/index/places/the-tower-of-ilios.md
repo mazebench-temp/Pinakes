@@ -5,9 +5,9 @@ kind: place
 tags: [troad, city]
 summary: The great tower on the wall of [[Troy]] by the [[scaean-gates|Scaean gates]]. The elders and Helen watch the war from it, Andromache runs to it in fear for Hector, and she foresees that her son will be thrown from a tower when the city falls.
 aliases: [great tower of Ilios, tower of Troy]
-# πύργῳ and πύργον are this tower in Books 3 and 6. In later books the same forms are Ajax's shield
-# "like a tower" (7.219, 11.485, 17.128) and towers of the Achaean wall (12.332–333, 12.373),
-# which will need except.
+# πύργῳ and πύργον are this tower in Books 3, 6 and 22 (22.97, 22.462). In other books the same forms are Ajax's
+# shield "like a tower" (7.219, 11.485, 17.128) and towers of the Achaean wall (12.332–333, 12.373), which are
+# excepted. ἀπὸ πύργου, this tower at 21.529, 22.447 and 24.735, is the Achaean wall at 8.213: the notes claim phrases.
 grc: [πύργῳ, πύργον]
 # πύργον at 12.332, 12.333 and 12.373 is a tower of the Achaean wall.
 except: [7.219, 11.485, 12.332, 12.333, 12.373, 17.128]

@@ -17,7 +17,7 @@ passages:
 
 ## Description
 
-ἔπαλξις is a defense, and usually connected with ἀλέξω, “ward off”. On a wall it is the breastwork along the top, behind which the defenders stand and over which they fight (12.263–264, 12.424–425). The Achaean wall has battlements along its length and on its towers (12.258, 12.430; see [[the-achaean-wall]]). They are named in Homer only in Book 12 and once of Troy, where after the rout of Book 21 the Trojans cool their sweat and drink, “leaning on the fair battlements” (κεκλιμένοι καλῇσιν ἐπάλξεσιν, 22.3).
+ἔπαλξις is a defense, and usually connected with ἀλέξω, “ward off”. On a wall it is the breastwork along the top, behind which the defenders stand and over which they fight (12.263–264, 12.424–425). The Achaean wall has battlements along its length and on its towers (12.258, 12.430; see [[the-achaean-wall]]). They are named in Homer only in Book 12 and once on the wall of Troy, where the Trojans rest after the rout of Book 21 (22.3; see [[the-walls-of-troy]]).
 
 **Copings.** κρόσσαι occur only in Book 12. The Trojans “tore at the copings of the towers” (12.258) and later “climbed onto the copings, holding their sharpened spears” (12.444). The word has been explained as copings, as battlements, or as courses of stone that project like steps; the related προκρόσσας describes ships drawn up on the beach in rows (14.35; see the translation's note on 12.258–260, 12.444).
 

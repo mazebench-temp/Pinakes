@@ -11,7 +11,8 @@ grc: [ἀγορ*, ἤγερθεν ὁμηγερέες]
 # (10.180) is the sentries where they were gathered, and ἀγορεύεις (10.250) is Odysseus' "you are saying" to
 # Diomedes in the council.
 # ἀγόρευε, ἀγόρευεν, ἀγόρευον in Book 21 (21.99, 21.121, 21.427, 21.514) are speaking; the book has no assembly.
-except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20]
+# ἀγόρευε (22.261) and ἀγόρευεν (22.377) are speaking: Achilles to Hector, Achilles to the Achaeans.
+except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20]
 refs: [1.191]
 en: [assembly, assembled, orator, declare, declared, began to speak]
 passages:

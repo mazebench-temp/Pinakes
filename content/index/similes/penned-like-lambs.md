@@ -30,4 +30,4 @@ By evening the likeness has turned around. It is the Achaeans who are shut in: t
 
 ## Elsewhere in Homer
 
-Lambs in Homer's similes are victims. Wolves fall on lambs or kids that have strayed from the flock through a shepherd's carelessness (16.352–355), and an eagle swoops through the clouds to the plain to seize a lamb or a hare (22.308–310; see [[eagle]]). Refusing Hector any pact, Achilles says that there are no trusty oaths between lions and men, “nor do wolves and lambs have hearts in accord” (22.262–263).
+Lambs in Homer's similes are victims. Wolves fall on lambs or kids that have strayed from the flock through a shepherd's carelessness (16.352–355), and an eagle swoops through the clouds to the plain to seize a lamb or a hare (22.308–310; see [[eagle]]). Refusing Hector any pact, Achilles says that there are no trusty oaths between lions and men, “nor do wolves and lambs have hearts at one” (22.262–263).

@@ -5,11 +5,10 @@ kind: term
 tags: [kingship, assembly]
 summary: A community and the land it lives on: a district with its territory and its people. A “man of the people” (δήμου ἀνήρ) is a commoner, set apart from the kings and the men of note.
 aliases: [dēmos, demos, deme, land, people, commoner, dēmogerontes]
-# δημός "fat" (δημὸν 8.240; δημῷ 8.380, 11.818, 13.832) is another word.
-grc: [δήμου, δῆμον, "!=δημὸν", "!=δημῷ"]
+# δημός "fat" (δημὸν 8.240; δημῷ 8.380, 11.818, 13.832; δημόν 21.127, the white fat of Lycaon, and 22.501, the fat of
+# sheep that Astyanax ate; 23.253 later) is another word.
+grc: [δήμου, δῆμον, "!=δημὸν", "!=δημῷ", "!=δημόν"]
 en: [people, land]
-# δημόν at 21.127 is "fat", the white fat of Lycaon.
-except: [21.127]
 ---
 
 ## Meaning

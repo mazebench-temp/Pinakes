@@ -3,7 +3,7 @@ title: The dog and the fawn
 greek: Ἀντίλοχος δʼ ἐπόρουσε κύων ὥς, ὅς τʼ ἐπὶ νεβρῷ
 kind: simile
 tags: [wild-animal, warfare]
-summary: Antilochus, having struck Melanippus with his spear, leaps on him to strip his armor like a dog that darts at a wounded fawn, which a hunter has hit as it leapt from its lair (15.576–583).
+summary: A dog after a fawn, the young of the deer, in two similes of the hunt. Antilochus leaps on the dying Melanippus like a dog that darts at a wounded fawn (15.576–583), and Achilles hunts Hector around Troy like a dog that rouses a fawn from its lair in the mountains and tracks it down wherever it hides (22.188–193).
 aliases: [like a dog, the hound and the fawn, the wounded fawn, Antilochus and Melanippus]
 grc: ["κύων ὥς", "ἐξ εὐνῆφι θορόντα", "θηρητὴρ ἐτύχησε"]
 en: [like a dog that darts, as it leapt from its lair, a hunter has hit with his shot]
@@ -28,4 +28,8 @@ After Hector has rebuked Melanippus for holding back while their cousin Dolops l
 
 ## Elsewhere in Homer
 
-Dogs and fawns meet again in two chases. Diomedes and Odysseus press Dolon toward the ships as two sharp-toothed hounds press a fawn or a hare through wooded country (10.360–364; see [[two-hounds]]). Achilles pursues Hector around the walls of Troy as a dog in the mountains, having roused a fawn from its lair, chases it through glens and valleys and tracks it down when it hides under a thicket; so Hector does not escape the son of Peleus (ὣς Ἕκτωρ οὐ λῆθε, 22.189–193). Here it is the dog that does not escape Hector (οὐ λάθεν Ἕκτορα, 15.583). The fawn is the helpless young of the deer in the Iliad: the eagle of Zeus drops one by the altar (8.247–250), and Agamemnon asks his men why they stand dazed like fawns (4.243; see [[like-fawns]]).
+Dogs and fawns meet again in two chases. Diomedes and Odysseus press Dolon toward the ships as two sharp-toothed hounds press a fawn or a hare through wooded country (10.360–364; see [[two-hounds]]). And Achilles hunts Hector around the walls of Troy as a dog in the mountains tracks a fawn that it has roused from its lair, until it finds it (22.189–193). The fawn is the helpless young of the deer in the Iliad: the eagle of Zeus drops one by the altar (8.247–250), and Agamemnon asks his men why they stand dazed like fawns (4.243; see [[like-fawns]]).
+
+## Outside Homer
+
+[[virgil|Virgil]] gives the dog of the second simile to Aeneas in his pursuit of Turnus. Lamed by an arrow, Aeneas presses on foot to foot, as a hunting dog presses a stag hemmed in by a river or by the fear of the crimson-feathered snare; the stag flees back and forth a thousand ways, and the Umbrian hound clings to it with open jaws, now, now holding it, and snaps, and is mocked by an empty bite (*Aeneid* 12.746–757; see [[virgil-the-death-of-turnus]]). Homer's dog finds the fawn; Virgil's closes on nothing, until the end.

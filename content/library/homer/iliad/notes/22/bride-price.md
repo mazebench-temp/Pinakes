@@ -1,0 +1,10 @@
+---
+summary: Hector took Andromache “from the house of Eetion, after giving a countless bride-price” (22.472), in the half-verse of Echecles' marriage to Polymele (16.190). Earlier in the book a gift goes the other way: Priam would ransom his sons with the wealth that old Altes “granted … to his daughter” when she married (22.51).
+# The dowry of Laothoe (22.51): the phrase occurs only here. ἕδνα (22.472) is claimed in the Book 16 note.
+grc: ["ὤπασε παιδὶ"]
+en: [granted much to his daughter]
+---
+
+**A countless bride-price.** ἐπεὶ πόρε μυρία ἕδνα (22.472) is the formula of a marriage made in the ordinary way: so Echecles took Polymele to his house (16.190; see [[echecles]] and [[polymele]]), and in the Odyssey Neleus married Chloris for her beauty (*Odyssey* 11.282). The narrator recalls it when Andromache flings away the veil that Aphrodite gave her “on the day when Hector of the gleaming helmet took her / from the house of Eetion” (22.470–472; see [[veil]], [[eetion]] and [[marriage]]). The gifts were Hector's, and Hecuba calls Andromache πολύδωρος (22.88): “richly dowered”, bringing many gifts, as the translation renders it, or “won with many gifts” (see [[richly-dowered]] and the translation's note on 6.394).
+
+**Gifts with a daughter.** Priam has gold and bronze laid up in the house, he says, to ransom Lycaon and Polydorus, “for the old man of famous name, Altes, granted much to his daughter” (22.50–51; see [[altes]], [[laothoe]] and [[apoina]]). This is the father's gift that goes with the bride, like the μείλια, “a dowry”, that Agamemnon offers with his daughter (9.147–148). Walter Leaf thinks van Leeuwen probably right to omit the line as a late addition, since the practice of giving gifts to a daughter at her marriage dates only from the end of the Homeric period (*Commentary on the Iliad*, 1900, on 22.51). The book thus names both kinds of marriage gift, the suitor's for the bride and the father's with her, whose relation is disputed in the Odyssey's uses of ἔεδνα.

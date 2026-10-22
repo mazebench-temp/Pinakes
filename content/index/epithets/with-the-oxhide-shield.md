@@ -22,4 +22,4 @@ The adjective lives in one verse, αἵματος ἆσαι Ἄρηα ταλαύ
 
 Pandarus has thrown his spear through Diomedes' shield and boasted that he has hit him in the flank (5.280–285). Diomedes corrects him and promises a death: the fight will not end before one of the two, Pandarus or Aeneas, has fallen and glutted the war god with his blood. The war god is named as a shield-bearing spearman just after the archer has made his first cast with the spear. Pandarus had come to Troy on foot, trusting in his bow (5.192–205), and the spear serves him no better than his arrows ([[pandarus]], [[bow]]). In the next verse Athena guides Diomedes' spear into his face (5.290).
 
-Achilles speaks the same second half of the sentence to Hector in Book 22: there will be no oaths between them “before one or the other of us has fallen” (πρίν γʼ ἢ ἕτερόν γε πεσόντα, Il. 22.266 = 5.288).
+Achilles speaks the same second half of the sentence to Hector in Book 22: there will be no oaths between them “before one or the other has fallen” (πρίν γʼ ἢ ἕτερόν γε πεσόντα, Il. 22.266 = 5.288).

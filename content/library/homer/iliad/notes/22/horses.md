@@ -1,0 +1,7 @@
+---
+summary: The horses of Book 22 are racehorses in two similes of the running, a prize-winning horse with its chariot (22.22–24) and prize-winning horses round the turning posts (22.162–166), and the swift horses of Achilles that drag Hector's body to the ships (22.399–400, 22.464–465).
+---
+
+**Racehorses.** Achilles runs toward Troy “rushing like a prize-winning horse with its chariot, / that runs easily at full stretch over the plain” (22.22–23; see [[like-a-racehorse]]), and around the walls he and Hector run as “prize-winning single-hoofed horses round the turning posts” run for a tripod or a woman at a dead man's games (22.162–166; see [[racehorses-at-the-turning-post]], [[prize-winning]] and [[single-hoofed]]). ἀεθλοφόρος, “prize-winning”, is the epithet of horses that race for prizes, like the twelve in the list of Agamemnon's gifts and the four of Neleus that went to the games in Elis to race for a tripod (9.123–124, 11.698–702). In the verse before the second simile Hector has his own epithet of horses, ἱππόδαμος, “tamer of horses” (22.161; see [[tamer-of-horses]]).
+
+**The horses of Achilles.** When Achilles has tied Hector to his chariot, “he whipped them to a run, and the pair flew on not unwilling” (22.400; see [[chariot-journey]]), and Andromache sees from the wall how “the swift horses / were dragging him ruthlessly toward the hollow ships of the Achaeans” (22.464–465; see [[the-horses-of-achilles]] and [[the-dragging-of-hector]]).

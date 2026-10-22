@@ -19,7 +19,7 @@ The Homeric table was small and light, one for each diner or for two: it is push
 
 ## In Homer
 
-In Nestor's hut Hecamede “first pushed up before the two of them a table, a fine one, well polished, with feet of dark blue enamel”, and set on it a bronze basket with an onion as a relish for the drink, pale honey and barley meal, and Nestor's great cup; another man could move the cup from the table only with toil when it was full (11.628–637; see [[hecamede]], [[barley-meal]], [[the-cup-of-nestor]] and [[kykeon]]). In Achilles' hut the bread is set out on the table in fine baskets, by Patroclus for the envoys of Book 9 and by Automedon for Priam (9.216–217, 24.625–626), and when Priam comes in, Achilles has just finished eating and drinking, “and the table still stood beside him” (24.476). The dogs that a lord feeds at his table are τραπεζῆες, “table-dogs” (22.69, 23.173).
+In Nestor's hut Hecamede “first pushed up before the two of them a table, a fine one, well polished, with feet of dark blue enamel”, and set on it a bronze basket with an onion as a relish for the drink, pale honey and barley meal, and Nestor's great cup; another man could move the cup from the table only with toil when it was full (11.628–637; see [[hecamede]], [[barley-meal]], [[the-cup-of-nestor]] and [[kykeon]]). In Achilles' hut the bread is set out on the table in fine baskets, by Patroclus for the envoys of Book 9 and by Automedon for Priam (9.216–217, 24.625–626), and when Priam comes in, Achilles has just finished eating and drinking, “and the table still stood beside him” (24.476). The dogs that a lord feeds at his table are τραπεζῆες, reared “to share my table” (22.69; again 23.173).
 
 ## Elsewhere in Homer
 

@@ -1,0 +1,5 @@
+---
+summary: The word passes judgment twice and names a child three times. Achilles calls the dying Hector “fool!” for thinking himself safe when he stripped Patroclus (22.331–333), and the narrator calls Andromache “the fool” as she orders a bath for a husband already dead (22.444–446). Priam pictures “little children / dashed to the ground” in the sack (22.63–64), and Andromache's son is “still a mere infant” whose “childish play” is over (22.484, 22.502).
+---
+
+Achilles' taunt is built on Hector's over Patroclus: “I suppose you said”, then νήπιε at the head of a line, then the dogs or the vultures (16.830–836; 22.331–336; see [[patroclus]] and [[hector]]). Andromache's νηπίη is the narrator's judgment on one who acts without knowing what has happened, the word's commonest use (see [[bathing]] and [[andromache]]). νήπια τέκνα, “little children”, belong with the wives to the formula of a city's defenseless people (6.95, 18.514; see [[the-city-and-the-household]]), and Priam adds the sack's violence to it. νήπιος αὔτως, “a mere infant”, returns in Andromache's lament in the last book (22.484 = 24.726; see [[astyanax]] and [[childhood]]).

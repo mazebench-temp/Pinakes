@@ -12,7 +12,7 @@ of: [heracles]
 
 ## Meaning
 
-ὀβριμοεργός = ὄβριμος (“heavy, mighty”; [[obrimos]]) + ἔργον (“deed, work”): “doer of mighty deeds,” and in its two uses “of violent deeds.” Both are in reproach. Dione uses it of Heracles, and Priam, begging the Trojans to let him go alone to the Achaean ships, calls Achilles “this reckless man, doer of violent deeds” (Il. 22.418).
+ὀβριμοεργός = ὄβριμος (“heavy, mighty”; [[obrimos]]) + ἔργον (“deed, work”): “doer of mighty deeds,” and in its two uses “of violent deeds.” Both are in reproach. Dione uses it of Heracles, and Priam, begging the Trojans to let him go alone to the Achaean ships, calls Achilles “this reckless man, this doer of violent deeds” (Il. 22.418).
 
 ## Use
 

@@ -1,0 +1,518 @@
+# Homer, Iliad, Book 22 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So they throughout the city, in panic like fawns,
+2	let the sweat dry from them, and drank, and quenched their thirst,
+3	leaning on the fair battlements; but the Achaeans
+4	came nearer the wall, leaning their shields against their shoulders.
+5	And deadly fate fettered Hector to stay where he was,
+6	in front of Ilios and the Scaean gates.
+7	But Phoebus Apollo addressed the son of Peleus:
+8	“Why, son of Peleus, do you pursue me with your swift feet,
+9	you who are mortal, me, an immortal god? Not even yet
+10	have you recognized that I am a god, and you rage so relentlessly.
+11	Truly you care nothing now for your toil against the Trojans, whom you put to flight,
+12	who have crowded into the city, while you have turned aside here.
+13	You will not kill me, since I am not fated to fall to you.”
+14	Deeply troubled, swift-footed Achilles said to him:
+15	“You have foiled me, Far-Worker, most baneful of all the gods,
+16	turning me now away from the wall to this place; truly many more
+17	would have bitten the earth with their teeth before they reached Ilios.
+18	But now you have taken great glory from me, and saved them
+19	easily, since you have no fear at all of vengeance hereafter.
+20	Truly I would take vengeance on you, if I had the strength.”
+21	So saying, he strode toward the city in high spirits,
+22	rushing like a prize-winning horse with its chariot,
+23	that runs easily at full stretch over the plain;
+24	so Achilles plied his nimble feet and knees.
+25	And the old man Priam was the first to see him with his eyes,
+26	gleaming like the star, as he sped over the plain,
+27	the star that comes in late summer, and its rays are plain for all to see,
+28	shining among the many stars in the dead of night,
+29	the star that men call by the name of the dog of Orion.
+30	It is the brightest, but it is made a sign of evil,
+31	and brings much fever to wretched mortals;
+32	so the bronze shone about his chest as he ran.
+33	And the old man groaned aloud, and beat his head with his hands,
+34	lifting them up high, and with a great groan he called out,
+35	begging his dear son; but he stood in front of the gates,
+36	raging without end to fight with Achilles;
+37	and the old man addressed him pitifully, stretching out his hands:
+38	“Hector, dear child, for my sake do not wait for this man
+39	alone, apart from the others, lest you soon meet your fate,
+40	brought down by the son of Peleus, since he is far the stronger,
+41	the hard man! Would that he were as dear to the gods
+42	as he is to me: soon the dogs and vultures would eat him
+43	as he lay; truly then dread grief would go from my heart;
+44	he who has made me bereft of many brave sons,
+45	killing them, and selling them off to islands far away.
+46	For even now there are two sons, Lycaon and Polydorus,
+47	whom I cannot see among the Trojans who have crowded into the city,
+48	whom Laothoe bore me, a queen among women.
+49	But if they are alive in the camp, then indeed
+50	we will ransom them with bronze and gold, for we have it at home;
+51	for the old man of famous name, Altes, granted much to his daughter.
+52	But if they are already dead and in the house of Hades,
+53	it is sorrow to my heart and to their mother, we who brought them into the world;
+54	but to the rest of the people the sorrow will be shorter-lived,
+55	unless you die too, brought down by Achilles.
+56	But come inside the wall, my child, so that you may save
+57	the Trojans and the Trojan women, and not hold out great glory
+58	to the son of Peleus, and be robbed yourself of your dear life.
+59	And pity me too, unhappy as I am, while I am still alive and aware,
+60	ill-fated, whom the father, the son of Cronus, on the threshold of old age
+61	will destroy in a grievous fate, when I have looked on many evils,
+62	my sons perishing and my daughters dragged off,
+63	and the chambers ravaged, and little children
+64	dashed to the ground in grim combat,
+65	and my sons' wives dragged off by the deadly hands of the Achaeans.
+66	And myself, last of all, at the outer doors the dogs
+67	that eat raw flesh will tear at, when someone with the sharp bronze
+68	has struck or hit me and taken the life from my limbs,
+69	the dogs I reared in my halls to share my table and guard my doors,
+70	who will drink my blood and, frenzied at heart,
+71	will lie in the doorway. For a young man it is all fitting,
+72	killed in battle, torn by the sharp bronze,
+73	to lie there; all that is seen of him is fair, dead though he is;
+74	but when dogs disfigure the gray head and the gray beard
+75	and the nakedness of an old man who is slain,
+76	this is the most pitiable thing that comes to wretched mortals.”
+77	The old man spoke, and with his hands he pulled at the gray hairs,
+78	tearing them from his head; but he did not persuade Hector's heart.
+79	And his mother on the other side mourned, shedding tears,
+80	loosening the fold of her robe, and with her other hand she held up her breast;
+81	and shedding tears she addressed him with winged words:
+82	“Hector, my child, respect this, and pity me
+83	myself, if ever I gave you the breast that makes care forgotten;
+84	remember these things, dear child, and ward off the enemy
+85	from inside the wall, and do not stand forth as champion against this man,
+86	the hard man! For if he kills you, I shall never
+87	weep for you on a bier, dear scion, whom I bore myself,
+88	nor will your richly dowered wife; but far away from us both,
+89	beside the ships of the Argives, the swift dogs will devour you.”
+90	So the two, weeping, addressed their dear son
+91	begging him earnestly; but they did not persuade Hector's heart,
+92	but he waited for huge Achilles as he came nearer.
+93	As a serpent of the mountains waits for a man at its hole,
+94	having fed on evil drugs, and dread anger has come into it,
+95	and it glares terribly as it coils about its hole;
+96	so Hector, with unquenchable might, did not give ground,
+97	leaning his shining shield against a jutting tower;
+98	and deeply troubled he spoke to his own proud heart:
+99	“Ah me! If I go within the gates and the walls,
+100	Polydamas will be the first to heap disgrace on me,
+101	who bade me lead the Trojans to the city
+102	during this deadly night, when brilliant Achilles rose up.
+103	But I did not listen—it would have been far better.
+104	But now, since I have destroyed the army by my own recklessness,
+105	I would feel shame before the Trojans and the Trojan women with trailing robes,
+106	lest some day another man, baser than I, should say:
+107	‘Hector trusted in his own strength and destroyed the army.’
+108	So they will say; and then it would be far better for me
+109	either to face Achilles, kill him, and come home,
+110	or to perish gloriously at his hands before the city.
+111	Or what if I set down my bossed shield
+112	and my heavy helmet, and lean my spear against the wall,
+113	and go myself to meet noble Achilles,
+114	and promise him Helen, and the possessions with her,
+115	all, as many as Alexander in his hollow ships
+116	brought to Troy, which was the beginning of the quarrel,
+117	to give to the sons of Atreus to take away, and besides among the Achaeans
+118	to share out a part of all else that this city holds hidden;
+119	and afterwards take from the Trojans an oath of the elders
+120	to hide nothing, but to divide in two all
+121	the wealth that the lovely citadel holds within it?
+122	But why does my heart debate these things with me?
+123	I fear that I may go up to him, and he will not pity me,
+124	nor respect me at all, but will kill me naked,
+125	just like a woman, once I have taken off my armor.
+126	There is no way now, from an oak or from a rock,
+127	to talk intimately with him, as a maiden and a young man,
+128	a maiden and a young man talk intimately with each other.
+129	Better to drive together in strife as quickly as may be;
+130	let us see to which of us the Olympian will hold out triumph.”
+131	So he pondered as he waited; and Achilles came near him,
+132	the equal of Enyalius, the warrior of the shaking helmet,
+133	brandishing over his right shoulder the Pelian ash,
+134	the terrible spear; and the bronze shone around him like the light
+135	of a blazing fire or of the rising sun.
+136	And when Hector saw him, trembling seized him; and he could no longer bear
+137	to stay there, but left the gates behind him, and went off in flight;
+138	and the son of Peleus sprang at him, trusting in his swift feet.
+139	As a falcon in the mountains, the nimblest of winged birds,
+140	swoops easily after a timid dove,
+141	and she flees out from under him, but he, close behind, with shrill cries,
+142	darts at her again and again, and his heart bids him seize her;
+143	so he flew straight on in his fury, and Hector fled
+144	beneath the wall of the Trojans, and plied his nimble knees.
+145	And they ran past the lookout and the windy wild fig tree,
+146	always out from under the wall, along the wagon road,
+147	and came to the two fair-flowing springs, where the two sources
+148	of the eddying Scamander leap up.
+149	For the one flows with warm water, and smoke
+150	rises from it all around as if from a blazing fire;
+151	and the other in summer flows forth like hail,
+152	or cold snow, or ice formed from water.
+153	And there beside them are the washing troughs, wide,
+154	fair, and of stone, where the glossy clothes
+155	the wives of the Trojans and their fair daughters used to wash
+156	in former days, in time of peace, before the sons of the Achaeans came.
+157	There they ran past, one fleeing, the other pursuing behind;
+158	in front a brave man fled, but a far better one pursued him
+159	swiftly, for it was no beast for sacrifice or ox-hide
+160	they strove to win, such as are prizes for the feet of men,
+161	but they ran for the life of Hector, tamer of horses.
+162	And as when prize-winning single-hoofed horses round the turning posts
+163	run very swiftly, and a great prize is set out,
+164	a tripod or a woman, in honor of a man who has died;
+165	so the two whirled three times around the city of Priam
+166	on swift feet; and all the gods were watching;
+167	and among them the father of men and gods began to speak:
+168	“Ah, truly a man dear to me, pursued around the wall,
+169	I see with my eyes; and my heart grieves
+170	for Hector, who has burned many thighs of oxen for me
+171	on the peaks of many-folded Ida, and at other times
+172	on the height of the city; and now brilliant Achilles
+173	is pursuing him with swift feet around the city of Priam.
+174	But come, consider, you gods, and take counsel,
+175	whether we shall save him from death, or now at last
+176	bring him down by Achilles, son of Peleus, brave as he is.”
+177	Then the gray-eyed goddess Athena spoke to him in turn:
+178	“Father, lord of the gleaming thunderbolt and of the dark clouds, what a thing you have said!
+179	A man who is mortal, long since ordained to his portion,
+180	do you wish to set free again from grim-sounding death?
+181	Do it; but not all of us other gods approve.”
+182	Answering her, Zeus the cloud-gatherer said:
+183	“Take heart, Tritogeneia, dear child; I do not speak
+184	in full earnest, and I want to be kind to you;
+185	do as your mind is set, and hang back no longer.”
+186	So saying he urged on Athena, who was eager already,
+187	and she went darting down from the peaks of Olympus.
+188	And swift Achilles pressed on after Hector, relentlessly driving him on.
+189	As when in the mountains a dog chases the fawn of a deer,
+190	having roused it from its lair, through the valleys and through the glens;
+191	and even if it escapes his notice, cowering under a bush,
+192	yet he runs on, tracking it steadily, until he finds it;
+193	so Hector did not escape the notice of the swift-footed son of Peleus.
+194	As often as he made a rush for the Dardanian gates,
+195	to dart straight in beneath the well-built towers,
+196	in the hope that from above they might defend him with their missiles,
+197	so often would the other get in front of him and turn him back
+198	toward the plain; and he himself flew always on the side of the city.
+199	As in a dream a man cannot pursue one who flees;
+200	the one cannot escape, nor the other pursue;
+201	so the one could not catch him with his feet, nor the other escape.
+202	And how could Hector have escaped the fates of death,
+203	had not Apollo come to him for the very last time,
+204	close by, who roused his might and his nimble knees?
+205	And brilliant Achilles shook his head at his men,
+206	and would not let them hurl their bitter missiles at Hector,
+207	lest someone win the glory by hitting him, and he himself come second.
+208	But when for the fourth time they came to the springs,
+209	then the father held out his golden scales,
+210	and in them he set two fates of death that lays men low,
+211	one of Achilles, and one of Hector, tamer of horses,
+212	and he took the scales by the middle and raised them; and the fated day of Hector sank,
+213	and went off to the house of Hades; and Phoebus Apollo left him.
+214	And the gray-eyed goddess Athena came to the son of Peleus,
+215	and standing near him she addressed him with winged words:
+216	“Now at last I hope that we two, shining Achilles, dear to Zeus,
+217	will carry off great glory for the Achaeans to the ships,
+218	having cut down Hector, insatiable of battle though he is.
+219	Now there is no way for him to get clear of us any longer,
+220	not even if far-working Apollo should go to great lengths,
+221	groveling before aegis-bearing father Zeus.
+222	But you stand still now and catch your breath, and I
+223	will go to him and persuade him to fight you face to face.”
+224	So spoke Athena, and he obeyed, and rejoiced in his heart,
+225	and he stood, leaning on his ash spear with its point of bronze.
+226	And she left him, and came upon brilliant Hector
+227	in the likeness of Deiphobus in form and in tireless voice;
+228	and standing near him she addressed him with winged words:
+229	“Dear brother, truly swift Achilles is pressing you hard,
+230	pursuing you with swift feet around the city of Priam;
+231	but come, let us stand firm and hold our ground and beat him off.”
+232	Then great Hector of the gleaming helmet spoke to her in turn:
+233	“Deiphobus, truly before now you were by far the dearest to me
+234	of my brothers, the sons whom Hecuba and Priam bore;
+235	but now I mean to honor you even more in my heart,
+236	you who dared for my sake, when you saw me with your eyes,
+237	to come outside the wall, while the others stay inside.”
+238	Then the gray-eyed goddess Athena spoke to him in turn:
+239	“Dear brother, truly our father and our lady mother
+240	begged me hard, imploring me one after the other, and our companions around me,
+241	to stay there; so much do they all tremble before him;
+242	but my heart within me was worn down by grim grief.
+243	But now let us charge straight on and fight, and let there be no sparing
+244	of spears, so that we may see whether Achilles
+245	will kill us both and carry off our bloody spoils
+246	to the hollow ships, or whether he will be brought down by your spear.”
+247	So saying, Athena led the way by craft;
+248	and when they had come close, advancing against each other,
+249	great Hector of the gleaming helmet spoke to him first:
+250	“I will no longer flee from you, son of Peleus, as before
+251	I fled three times around the great city of Priam, and never dared
+252	to wait for you as you came on; but now my heart has sent me
+253	to stand against you face to face; I may kill you, or be killed.
+254	But come, let us call upon the gods; for they will be the best
+255	witnesses and overseers of agreements;
+256	for I will not defile you terribly, if Zeus grants me
+257	to outlast you, and I take your life;
+258	but when I have stripped you of your glorious armor, Achilles,
+259	I will give your body back to the Achaeans; and you do the same.”
+260	Looking at him darkly, swift-footed Achilles said:
+261	“Hector, accursed one, do not talk to me of agreements;
+262	as there are no trusty oaths between lions and men,
+263	nor do wolves and lambs have hearts at one,
+264	but they mean evil to one another through and through,
+265	so it is not possible for you and me to be friends, nor will there be
+266	oaths between us two, before one or the other has fallen
+267	and glutted Ares with blood, the warrior with the oxhide shield.
+268	Remember all your prowess; now you must indeed
+269	be a spearman and a bold warrior;
+270	there is no escape for you any longer, but at once Pallas Athena
+271	will bring you down by my spear; and now you will pay back all at once
+272	the sorrows of my companions, whom you killed raging with your spear.”
+273	He spoke, and poising his long-shadowed spear, he let it fly,
+274	but shining Hector, looking straight at it, avoided it;
+275	for he sank down, seeing it in time, and the bronze spear flew over,
+276	and stuck fast in the ground; but Pallas Athena snatched it up,
+277	and gave it back to Achilles, unseen by Hector, shepherd of the people.
+278	And Hector spoke to the noble son of Peleus:
+279	“You missed! So, Achilles, like the gods, you did not yet at all
+280	know my fate from Zeus, though truly you said you did;
+281	but you were a glib talker and a cheat with words,
+282	so that in fear of you I might forget my might and my courage.
+283	You will not plant your spear in my back as I flee,
+284	but drive it through my chest as I come straight on,
+285	if a god has granted it to you; now in your turn avoid my spear,
+286	my bronze one; would that you might take it whole into your flesh!
+287	And the war would be lighter for the Trojans
+288	once you were dead; for you are their greatest bane.”
+289	He spoke, and poising his long-shadowed spear, he let it fly,
+290	and struck the middle of the shield of the son of Peleus, and did not miss;
+291	but the spear glanced far off from the shield; and Hector was angry
+292	that his swift missile had flown from his hand in vain,
+293	and he stood downcast, for he had no other ash spear.
+294	And he called to Deiphobus of the white shield, shouting aloud,
+295	and asked him for a long spear; but he was nowhere near him.
+296	And Hector understood in his heart, and spoke:
+297	“Ah, truly the gods have called me to my death;
+298	for I thought that the hero Deiphobus was beside me;
+299	but he is within the wall, and Athena has deceived me.
+300	And now evil death is near me, and no longer far off,
+301	nor any way to avoid it; for truly this long ago was dearer
+302	to Zeus and to the far-shooting son of Zeus, who before now
+303	protected me with ready hearts; but now my fate has overtaken me.
+304	Let me not die without a struggle and without glory,
+305	but having done some great thing, even for men to come to hear of.”
+306	So he spoke, and drew the sharp sword
+307	that hung beneath his flank, great and heavy,
+308	and crouching, he swooped like an eagle flying high
+309	that goes down to the plain through the murky clouds
+310	to snatch a tender lamb or a cowering hare;
+311	so Hector swooped, brandishing his sharp sword.
+312	And Achilles rushed at him, and filled his heart with savage
+313	fury, and covered his chest in front with his shield,
+314	fine and intricately worked, and nodded with his shining helmet
+315	with its four ridges; and around it waved the fair plumes
+316	of gold, which Hephaestus had set thick about the crest.
+317	And as a star goes among the stars in the dead of night,
+318	the evening star, which stands in the sky the fairest star of all,
+319	so light shone from the well-sharpened point which Achilles
+320	brandished in his right hand, with evil intent against brilliant Hector,
+321	eyeing his fair skin, where it would best give way.
+322	All the rest of his flesh the bronze armor covered,
+323	the fine armor he had stripped from mighty Patroclus when he killed him;
+324	but his flesh showed where the collarbones hold the neck away from the shoulders,
+325	at the throat, where the destruction of life is swiftest;
+326	there, as he came on, brilliant Achilles drove at him with his spear,
+327	and straight through the soft neck went the point;
+328	but the ash spear heavy with bronze did not cut the windpipe,
+329	so that he might still say something to him in answer.
+330	And he fell in the dust; and brilliant Achilles boasted over him:
+331	“Hector, you thought, I suppose, when you were stripping Patroclus,
+332	that you would be safe, and you had no regard for me, since I was far away,
+333	fool! But far from him a helper, a much better man,
+334	was left behind at the hollow ships, I myself,
+335	who have loosened your knees; and you the dogs and the birds
+336	will tear shamefully, but him the Achaeans will give burial rites.”
+337	Then Hector of the gleaming helmet spoke to him feebly:
+338	“I beg you by your life and your knees and your parents,
+339	do not let the dogs devour me beside the ships of the Achaeans,
+340	but take bronze and gold in plenty,
+341	the gifts that my father and my lady mother will give you,
+342	but give my body back to be taken home, so that when I am dead
+343	the Trojans and the wives of the Trojans may give me my portion of fire.”
+344	Looking at him darkly, swift-footed Achilles said:
+345	“Do not implore me, you dog, by my knees or my parents;
+346	I wish that my fury and my heart would somehow send me
+347	to carve your flesh and eat it raw, for what you have done to me,
+348	as surely as there is no one who will keep the dogs from your head,
+349	not even if ten and twenty times the ransom
+350	they bring here and weigh out, and promise still more besides,
+351	not even if he should bid them weigh out your own body in gold,
+352	Priam, descendant of Dardanus; not even so shall your lady mother
+353	lay you on a bier and lament for you, whom she bore herself,
+354	but the dogs and the birds will divide you all among them.”
+355	Then, dying, Hector of the gleaming helmet spoke to him:
+356	“Truly I know you well as I look at you, and I was not going
+357	to persuade you; for truly the heart in your breast is iron.
+358	Take care now, lest I become a cause of the gods' wrath against you,
+359	on that day when Paris and Phoebus Apollo
+360	destroy you, brave as you are, at the Scaean gates.”
+361	As he spoke, the end of death covered him,
+362	and his soul flew from his limbs and went to Hades,
+363	lamenting its fate, leaving manhood and youth.
+364	And to him, though he was dead, brilliant Achilles spoke:
+365	“Lie dead; and I will accept my doom then, whenever
+366	Zeus is willing to bring it to pass, and the other immortal gods.”
+367	He spoke, and drew the bronze spear out of the body,
+368	and laid it aside, and began to strip the armor from his shoulders,
+369	bloody; and the other sons of the Achaeans ran up around him,
+370	and gazed at the stature and admirable looks
+371	of Hector; and not one stood beside him without stabbing him.
+372	And this is what a man would say, looking at his neighbor:
+373	“Ah, truly much softer to handle now
+374	is Hector than when he burned the ships with blazing fire.”
+375	So a man would say, and would stand beside him and stab him.
+376	And when brilliant swift-footed Achilles had stripped him,
+377	he stood among the Achaeans and spoke winged words:
+378	“Friends, leaders and rulers of the Argives,
+379	since the gods have granted us to bring down this man,
+380	who has done more harm than all the others together,
+381	come, let us make trial around the city in our armor,
+382	so that we may know what mind the Trojans have,
+383	whether they will leave the height of the city now that this man has fallen,
+384	or are eager to stay, even though Hector is no more.
+385	But why does my heart debate these things with me?
+386	There lies beside the ships a corpse unwept, unburied,
+387	Patroclus; and him I will not forget, as long as I
+388	am among the living and my knees have strength to move;
+389	and even if in the house of Hades men forget the dead,
+390	yet even there I will remember my dear companion.
+391	But now come, young men of the Achaeans, singing the paean,
+392	let us go back to the hollow ships, and take this man with us.
+393	We have won great glory; we have killed brilliant Hector,
+394	to whom the Trojans throughout the city prayed as to a god.”
+395	He spoke, and devised shameful deeds against brilliant Hector.
+396	Behind both his feet he pierced the tendons
+397	from heel to ankle, and fastened straps of oxhide to them,
+398	and tied them to the chariot, and let the head drag;
+399	and mounting the chariot, and lifting the glorious armor in,
+400	he whipped them to a run, and the pair flew on not unwilling.
+401	And as he was dragged a cloud of dust rose, and around him his dark hair
+402	spread out, and all his head lay in the dust,
+403	that once was handsome; but then Zeus gave him to his enemies
+404	to defile in his own native land.
+405	So his head was all grimed with dust; and his mother
+406	tore her hair, and flung her shining head covering
+407	far from her, and wailed very loudly when she saw her son;
+408	and his dear father groaned pitifully, and around them the people
+409	were seized by wailing and groaning throughout the city.
+410	And it was most like as if all
+411	beetling Ilios were smoldering with fire from top to bottom.
+412	The people could hardly hold back the old man as he chafed,
+413	eager to go out through the Dardanian gates.
+414	He entreated them all, rolling in the dung,
+415	calling each man by his name:
+416	“Hold back, my friends, and for all your care let me go alone
+417	out of the city and come to the ships of the Achaeans.
+418	Let me beg this reckless man, this doer of violent deeds,
+419	in the hope that he may respect my years and pity
+420	my old age; for he too has a father like me,
+421	Peleus, who begot him and reared him to be a bane
+422	to the Trojans; and on me above all others he has laid sorrows.
+423	For so many sons of mine he has killed in their bloom;
+424	for all of them I do not mourn so much, grieved though I am,
+425	as for one, for whom sharp grief will bring me down to the house of Hades,
+426	for Hector; would that he had died in my arms;
+427	then we would have had our fill of weeping and shedding tears,
+428	his mother, most ill-fated, who bore him, and I myself.”
+429	So he spoke, weeping, and the citizens groaned with him;
+430	and among the Trojan women Hecuba led the unceasing lamentation:
+431	“My child, wretched that I am! Why should I live, when I have suffered dreadful things,
+432	now that you are dead? You who night and day were
+433	my boast throughout the city, and a blessing to all,
+434	to the Trojans and the Trojan women throughout the city, who greeted you
+435	as a god; for truly you were their very great glory
+436	while you lived; but now death and fate have overtaken you.”
+437	So she spoke, weeping; but the wife had not yet learned anything
+438	of Hector; for no true messenger had come and told her
+439	that her husband was staying outside the gates,
+440	but she was weaving a web in the inner part of the high house,
+441	a double-folded purple cloth, and was working flowers of many colors into it.
+442	And she called to her handmaids with lovely tresses through the house
+443	to set a great tripod over the fire, so that there might be
+444	a hot bath for Hector when he came home from the battle,
+445	the fool, nor did she know that far from all baths
+446	gray-eyed Athena had brought him down at the hands of Achilles.
+447	And she heard the wailing and the groaning from the tower;
+448	and her limbs shook, and the shuttle fell from her to the ground;
+449	and she spoke again among her slave women with lovely tresses:
+450	“Come, two of you follow me, let me see what has been done.
+451	I heard the voice of my revered mother-in-law, and in my own
+452	breast my heart leaps up to my mouth, and beneath me my knees
+453	are frozen; surely some evil is near for the children of Priam.
+454	May the word be far from my hearing! But I am terribly afraid
+455	that brilliant Achilles has cut off my bold Hector
+456	alone from the city and is chasing him toward the plain,
+457	and has now put an end to the grievous pride
+458	that held him, since he never stayed in the crowd of men,
+459	but ran far out in front, yielding to no one in his might.”
+460	So saying, she rushed through the hall like a maenad,
+461	with her heart leaping; and her handmaids went with her.
+462	But when she came to the tower and the throng of men,
+463	she stood on the wall, looking about, and saw him
+464	being dragged in front of the city; and the swift horses
+465	were dragging him ruthlessly toward the hollow ships of the Achaeans.
+466	And murky night covered her eyes,
+467	and she fell backward, and breathed out her soul.
+468	And far from her head she flung the glossy bindings,
+469	the headband, and the cap, and the plaited band,
+470	and the veil that golden Aphrodite had given her
+471	on the day when Hector of the gleaming helmet took her
+472	from the house of Eetion, after giving a countless bride-price.
+473	And around her stood her husband's sisters and his brothers' wives in plenty,
+474	and they held her up among them, dazed to the point of death.
+475	But when she came to herself and her spirit was gathered back into her heart,
+476	lamenting, with deep sobs, she spoke among the Trojan women:
+477	“Hector, unhappy that I am! We were both born, it seems, to one fate,
+478	both of us, you in Troy in the house of Priam,
+479	and I in Thebe under wooded Placus,
+480	in the house of Eetion, who reared me when I was little,
+481	he ill-fated, and I of dread fate; would that he had never begotten me!
+482	But now you go to the house of Hades beneath the depths of the earth,
+483	and leave me in hateful grief,
+484	a widow in the halls; and the boy is still a mere infant,
+485	whom you and I begot, both most ill-fated; neither will you be to him
+486	a blessing, Hector, since you are dead, nor he to you.
+487	For even if he escapes the tearful war of the Achaeans,
+488	always there will be toil and sorrows for him
+489	hereafter; for others will take away his lands.
+490	The day of orphanhood leaves a child without friends of his own age;
+491	in all things he hangs his head, and his cheeks are wet with tears,
+492	and in his need the boy goes up to his father's companions,
+493	plucking one by the cloak and another by the tunic;
+494	and of those who pity him one holds out a cup for a moment;
+495	he wets his lips, but does not wet his palate.
+496	And the boy whose parents are both alive drives him from the feast,
+497	striking him with his hands and rebuking him with abusive words:
+498	‘Off with you! Your father does not feast among us.’
+499	And in tears the boy goes up to his widowed mother,
+500	Astyanax, who once on his father's knees
+501	ate only marrow and the rich fat of sheep;
+502	and when sleep came over him, and he stopped his childish play,
+503	he would sleep in a bed, in the arms of his nurse,
+504	in a soft bed, his heart filled with good things;
+505	but now he will suffer much, having lost his dear father,
+506	he whom the Trojans call by the name of Astyanax;
+507	for you alone guarded their gates and long walls.
+508	But now beside the curved ships, far from your parents,
+509	writhing worms will eat you, when the dogs have had their fill
+510	of your naked body; yet there are clothes laid up for you in the halls,
+511	fine and lovely, made by the hands of women.
+512	But all of these I will burn up with blazing fire,
+513	of no use to you, since you will not lie in them,
+514	but to be your fame before the Trojans and the Trojan women.”
+515	So she spoke, weeping, and the women groaned with her.

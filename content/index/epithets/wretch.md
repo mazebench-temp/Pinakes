@@ -3,7 +3,7 @@ title: Wretch
 greek: ἆ δειλέ
 kind: epithet
 tags: [speech]
-summary: “Ah, wretch,” ἆ δειλέ, an address of scorn or pity, often to a man who is about to die or who does not see his fate.
+summary: “Ah, wretch,” ἆ δειλέ, an address of scorn or pity, often to a man who is about to die or who does not see his fate; and δειλός, “wretched,” of mourners and of mortals.
 aliases: [a deile, ah wretch, poor wretch, wretched]
 grc: [ἆ δείλʼ, ἆ δειλοὶ]
 en: [wretch, wretched]

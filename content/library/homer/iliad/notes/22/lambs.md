@@ -1,0 +1,5 @@
+---
+summary: Lambs in Book 22 are prey. Wolves and lambs, Achilles tells Hector, “have hearts at one” no more than lions and men keep oaths (22.262–263), and the eagle of Hector's last charge goes down to snatch “a tender lamb or a cowering hare” (22.310).
+---
+
+οὐδὲ λύκοι τε καὶ ἄρνες ὁμόφρονα θυμὸν ἔχουσιν, “nor do wolves and lambs have hearts at one” (22.263). Hector has asked that the winner give back the loser's body, and Achilles refuses with a law of nature: lions and men, wolves and lambs “mean evil to one another through and through” (22.261–266; see [[no-oaths-between-lions-and-men]] and [[wolves]]). The lamb was the wolf's prey in the simile of Book 16, where the Danaans fall on the Trojans like wolves on lambs and kids scattered in the mountains (16.352–355). Then the eagle: ἁρπάξων ἢ ἄρνʼ ἀμαλήν, “to snatch a tender lamb” (22.310; see [[the-eagle-flying-high]]). ἀμαλός, “tender”, occurs only here in the Iliad. In Achilles' words the lamb is Hector; in the simile of the eagle it is what Hector, swooping, hopes to take.

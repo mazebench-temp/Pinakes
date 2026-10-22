@@ -12,4 +12,4 @@ passages:
 
 {{quote:7b8205dc-9953-54e9-b121-1866d5ba6a91}}
 
-The ψυχή leaves him, and yet he is not dead, and the scene shows what the word means. The ψυχή is the breath of life, related to ψύχω, “breathe, blow”, and a faint is a breath lost for a while. Sarpedon faints, “breathes again” (ἐμπνύνθη), and the breath (πνοιή) of the North Wind brings back the spirit he had gasped away. When Andromache sees Hector dragged behind Achilles' chariot, she faints in the same way: “she gasped out her ψυχή”, and then “breathed again” (22.466–475). See [[achlys]], [[thymos]] and [[sarpedon]].
+The ψυχή leaves him, and yet he is not dead, and the scene shows what the word means. The ψυχή is the breath of life, related to ψύχω, “breathe, blow”, and a faint is a breath lost for a while. Sarpedon faints, “breathes again” (ἐμπνύνθη), and the breath (πνοιή) of the North Wind brings back the spirit he had gasped away. When Andromache sees Hector dragged behind Achilles' chariot, she faints in the same way: she “breathed out her soul”, and then “came to herself” (22.466–475). See [[achlys]], [[thymos]] and [[sarpedon]].

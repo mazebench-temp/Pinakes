@@ -6,10 +6,9 @@ tags: [troad, city]
 summary: The wall around [[Troy]], built for King [[Laomedon]] by Poseidon, who served him for a year's wage together with Apollo and was cheated of it. The Trojans watch the war from its towers and defend its gates, and the gods keep it standing until its time.
 aliases: [walls of Troy, wall of Troy, Trojan wall, wall of Ilios]
 # The walls of Troy and the Achaean wall share τεῖχος, so each entry claims phrases, not the bare word.
-# Later lines of this wall: αἰπύ τε τεῖχος 11.181 and τείχεα μακρά 22.507 are caught, and the Book 21 note
-# claims ten lines (21.277–608); τείχει ὕπο Τρώων (17.404, 17.558, 23.81), τεῖχος ὕπο Τρώων (22.144), 16.702,
-# ἀπὸ τείχεος (22.16), 22.4–237 and 22.463 will need forms or refs. The wall of Heracles on the plain (20.145)
-# is another wall.
+# Later lines of this wall: αἰπύ τε τεῖχος 11.181 and τείχεα μακρά 22.507 are caught, the Book 21 note claims ten
+# lines (21.277–608), and the Book 22 note thirteen phrases (22.4–463); τείχει ὕπο Τρώων (17.404, 17.558, 23.81)
+# and 16.702 will need forms or refs. The wall of Heracles on the plain (20.145) is another wall.
 grc: ["τείχεα μακρ*", "αἰπύ τε τεῖχος", "πρὸς τεῖχος ἐπειγομένη", "ἐπίδρομον ἔπλετο τεῖχος"]
 en: [wall, walls]
 ---
@@ -20,7 +19,7 @@ Troy is a walled city, and its wall is its defense for the whole of the war. The
 
 ## Descriptions
 
-The city's epithets are epithets of its fortifications. Troy and Ilios are εὐτείχεος, “well-walled” (1.129, 2.113; see [[well-walled]]), εὔπυργος, “of the fine towers” (7.71; see [[of-the-fine-towers]]), and ὑψίπυλος, “high-gated” (16.698, 21.544). The wall is “steep” (αἰπύ, 6.327, 11.181) and “long” (τείχεα μακρά, 4.34, 22.507), and Hector calls its towers θεόδμητοι, “god-built” (8.519). Its gates are the [[scaean-gates|Scaean gates]] toward the plain and the [[dardanian-gates|Dardanian gates]], which may be the same gate under another name, and beside the Scaean gates stands “the great tower of Ilios” (6.386; see [[the-tower-of-ilios]]). A wagon road runs along its foot, past a lookout and the wild fig tree to the springs of the Scamander (22.145–148; see [[the-fig-tree]]). By the fig tree, Andromache says, “the city can be scaled and the wall is open to assault” (6.433–434). ἐπίδρομον, “open to assault”, is found only there, and the attempts she speaks of are told nowhere else (see [[andromaches-advice]]).
+The city's epithets are epithets of its fortifications. Troy and Ilios are εὐτείχεος, “well-walled” (1.129, 2.113; see [[well-walled]]), εὔπυργος, “of the fine towers” (7.71; see [[of-the-fine-towers]]), and ὑψίπυλος, “high-gated” (16.698, 21.544). The wall is “steep” (αἰπύ, 6.327, 11.181) and “long” (τείχεα μακρά, 4.34, 22.507), and Hector calls its towers θεόδμητοι, “god-built” (8.519). Its gates are the [[scaean-gates|Scaean gates]] toward the plain and the [[dardanian-gates|Dardanian gates]], which may be the same gate under another name, and beside the Scaean gates stands “the great tower of Ilios” (6.386; see [[the-tower-of-ilios]]). A wagon road runs along its foot, past a lookout and the wild fig tree to the springs of the Scamander (22.145–148; see [[the-lookout-at-troy]], [[the-fig-tree]] and [[the-springs-of-the-scamander]]). By the fig tree, Andromache says, “the city can be scaled and the wall is open to assault” (6.433–434). ἐπίδρομον, “open to assault”, is found only there, and the attempts she speaks of are told nowhere else (see [[andromaches-advice]]).
 
 {{notes}}
 
@@ -34,7 +33,7 @@ The wall did not save Laomedon. When he cheated Heracles too, Heracles sacked Il
 
 The Trojans watch the war from the wall. The elders sit with Priam on the tower by the Scaean gates, and Helen names the Achaean leaders to them (3.145–244; see [[the-view-from-the-wall]]). Zeus asks Hera whether her anger would be healed only if she could “go in through the gates and the long walls / and eat Priam raw” (4.34–35; see [[hera]]). In Book 6 the people are dying “around the city and the steep wall” (6.327), and Andromache goes hurrying to the wall because she has heard that the Trojans are hard pressed (6.386–389).
 
-The gods defend it. Patroclus three times sets foot on the angle of the high wall, and three times Apollo, standing on the tower, pushes him back: it is not fated that the city be sacked by his spear, nor by Achilles' (16.698–711; see [[three-times-and-a-fourth]]). When Achilles routs the Trojans, Apollo goes into Ilios, mindful of the wall, Priam has the gates opened for the fleeing army, and Apollo draws Achilles away until it is inside (21.515–611; see [[apollo-deceives-achilles]]). Only Hector stays outside, bound there by his fate before the Scaean gates (22.5–6). Achilles chases him three times around the city of Priam, along the wagon road under the wall, and whenever Hector makes for the Dardanian gates, hoping for help from the men on the towers, Achilles turns him back toward the plain (22.136–166, 22.194–198). Andromache, running to the wall, sees him dragged away (22.460–465), and says in her lament that he alone guarded “the gates and the long walls” (22.507; see [[astyanax]]).
+The gods defend it. Patroclus three times sets foot on the angle of the high wall, and three times Apollo, standing on the tower, pushes him back: it is not fated that the city be sacked by his spear, nor by Achilles' (16.698–711; see [[three-times-and-a-fourth]]). When Achilles routs the Trojans, Apollo goes into Ilios, mindful of the wall, Priam has the gates opened for the fleeing army, and Apollo draws Achilles away until it is inside (21.515–611; see [[apollo-deceives-achilles]]). Only Hector stays outside, bound there by his fate before the Scaean gates, and Achilles chases him three times around the wall, keeping him from the gates whenever he makes for them (22.5–6, 22.136–198); Andromache says in her lament that he alone guarded “their gates and long walls” (22.507; see [[astyanax]]).
 
 ## Outside Homer
 

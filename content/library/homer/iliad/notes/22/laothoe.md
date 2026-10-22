@@ -1,0 +1,11 @@
+---
+summary: Priam, begging Hector from the wall, names Laothoe, “a queen among women”, as the mother of Lycaon and Polydorus, whom he cannot see among the Trojans in the city; he would ransom them with what her father Altes gave with her, and if they are dead, “it is sorrow to my heart and to their mother” (22.46–53).
+# Unnamed: the daughter to whom Altes gave much (22.51), and the mother of the two sons (22.53).
+refs: [22.51, 22.53]
+---
+
+{{quote:8bf09c64-4778-5239-99c0-5350f6862e5e}}
+
+**Her sons.** Priam, on the wall, looks for her two sons among the Trojans who have fled into the city, and cannot see them (see [[priam]], [[lycaon-son-of-priam]] and [[polydorus-son-of-priam]]). If they are alive in the Achaean camp, he will ransom them with bronze and gold, for there is store of it in the house: old Altes, “of famous name”, gave much with his daughter (22.49–51; see [[altes]], [[apoina]] and [[bride-price]]). If they are already dead and in the house of Hades, the grief belongs to the two who brought them into the world, τοὶ τεκόμεσθα, “we who brought them into the world” (22.53; see [[bereaved-parents]]). Both are dead, and Priam speaks of her, not to her. She is named twice in the poem, by her son Lycaon at Achilles' knees (21.84–85) and by Priam here, each time as the mother of sons whom Achilles kills; over Lycaon's body Achilles had said that his mother would not lay him on a bier and lament him (21.123–124; see [[lament]] and [[mothers-and-sons]]). The mother on the wall is Hecuba, who begs Hector next, by the breast that nursed him (22.79–89; see [[hecuba]]).
+
+**A late line?** Walter Leaf thinks the gifts, if the line is genuine, show again that she held no inferior place, since κρείουσα γυναικῶν, “a queen among women” (22.48), makes her a true wife; but he thinks van Leeuwen probably right to omit 22.51 as a late addition, since gifts given with a daughter at her marriage belong only to the end of the Homeric period, and Priam would hardly say that he counts on his wives' dowries to ransom his sons. He reports that Hoffmann rejected 22.46–55, and Naber 22.46–53 (*Commentary on the Iliad*, 1900, on 22.48 and 22.51; see the translation's note on 22.46–55).

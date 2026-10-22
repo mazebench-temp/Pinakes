@@ -1,0 +1,7 @@
+---
+summary: Hector's heart decides the book. His parents “did not persuade Hector's heart” (22.78, 22.91); he speaks “to his own proud heart” and breaks off, “But why does my heart debate these things with me?” (22.98, 22.122); after his flight he tells Achilles, “now my heart has sent me / to stand against you face to face” (22.252–253). Achilles' heart answers: he “filled his heart with savage / fury” (22.312–313), and the dying Hector tells him, “truly the heart in your breast is iron” (22.357).
+---
+
+The line of debate is spoken in the book by both men, by Hector before the fight and by Achilles after it, when he turns from the Trojan city to the unburied Patroclus (22.122, 22.385; also 11.407, 17.97, 21.562; see [[pondering-two-ways]]). Hector's iron θυμός (σιδήρεος, 22.357) is answered in the last book, where the iron heart is Priam's, first in Hecuba's mouth and then in Achilles' (σιδήρειόν νύ τοι ἦτορ, 24.205, 24.521; see [[etor]]). Achilles refuses agreements because wolves and lambs do not “have hearts at one” (ὁμόφρονα θυμόν, 22.263, only here in Homer).
+
+The θυμός is also the life. Priam pictures the enemy who “has struck or hit me and taken the life from my limbs” (θυμὸν ἕληται, 22.68), and Andromache, fainting, comes to herself when “her spirit was gathered back into her heart” (22.475), the verse used of Odysseus come ashore after the storm and of Laertes at his son's return (*Odyssey* 5.458, 24.349; see [[psyche]] and [[andromache]]).

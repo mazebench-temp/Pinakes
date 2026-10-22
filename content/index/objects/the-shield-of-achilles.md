@@ -6,8 +6,8 @@ tags: [divine-object, weapon, art, cosmic]
 summary: The shield that Hephaestus makes for Achilles in the night after Patroclus' death, to replace the armor that Hector took. It is great and heavy, of five layers, and worked all over with the earth, the sky and the sea, two cities of men, the plowing, the harvest and the vintage, herds and a pasture, and a dance, with the river Oceanus around its rim (18.478–608).
 aliases: [Achilles' shield, shield of Achilles, the Shield, the new shield of Achilles, the shield of Hephaestus, the description of the shield]
 # Refs in the book notes: Achilles takes it up (19.373-380); it stops Aeneas' spear (20.259-272, 20.289); it stops the spear
-# of Asteropaeus and takes the river's stream (21.164-165, 21.241). Later: it turns Hector's spear (22.290-291); Achilles
-# comes at Hector behind it (22.313-314).
+# of Asteropaeus and takes the river's stream (21.164-165, 21.241). Book 22, in the Book 22 note: it turns
+# Hector's spear (22.290-291); Achilles comes at Hector behind it (22.313-314).
 refs: [18.458, 18.478, 18.481, 18.608, 18.609]
 passages:
   - 18.478-482 | Five layers and a threefold rim

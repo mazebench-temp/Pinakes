@@ -1,0 +1,7 @@
+---
+summary: Two fragments of Aeschylus' Phrygians, or the Ransom of Hector, touch this book. One says that the dead feel neither joy nor pain, but that Nemesis and Justice avenge them, the warning of Hector's last words; the other names Lyrnessus, not Homer's Thebe, as the place from which Hector brought his wife.
+---
+
+- **The dead feel nothing.** “And if you wish to do good to the dead or to harm them, it comes to the same either way, since the dead feel neither joy nor pain; yet Nemesis stands above us, and Justice exacts the dead man's anger” (*Phrygians*, fr. 266 Nauck, quoted by Stobaeus). The play's other title is the *Ransom of Hector*. In this book Achilles says that no ransom will buy back the body, and drags it in the dust (22.344–354, 22.395–404). Hector, dying, warned him: “Take care now, lest I become a cause of the gods' wrath against you” (22.358): [[cicero-the-body-of-hector]] and [[the-dragging-of-hector]].
+- **Lyrnessus.** A fragment quoted by the scholia on Euripides' *Andromache* names Lyrnessus as the place “from where Hector brought his dear wife” (ὅθεν περ Ἕκτωρ ἄλοχον ἤγαγεν φίλην, *Phrygians*, fr. 267 Nauck). In the Iliad Andromache was born “in Thebe under wooded Placus, / in the house of Eetion” (22.479–480), and Hector took her “from the house of Eetion” (22.472); Lyrnessus is the town that Achilles sacked with the walls of Thebe, where he took Briseis (2.690–692): [[thebe]], [[lyrnessus]] and [[andromache]].
+- His lost *Weighing of Souls* (Ψυχοστασία) is told under [[the-weighing-of-souls]].

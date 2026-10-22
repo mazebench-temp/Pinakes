@@ -1,0 +1,8 @@
+---
+summary: Hector dies watched from the wall and from Olympus. Priam is “the first to see him with his eyes” (22.25); as the two men run around the city, “all the gods were watching”, and Zeus says, “Ah, truly a man dear to me, pursued around the wall, / I see with my eyes; and my heart grieves” (22.166–169); and when it is over, Hecuba “wailed very loudly when she saw her son” (22.407), and Andromache “stood on the wall, looking about, and saw him / being dragged in front of the city” (22.463–464).
+refs: [22.25-32, 22.166-176, 22.205-207, 22.369-375, 22.405-409, 22.462-467]
+---
+
+The same words for seeing come back. Priam sees Achilles “with his eyes” (ὀφθαλμοῖσι, 22.25), and the star of the simile is the shape he sees (22.26–32; see [[the-autumn-star]]); Zeus sees Hector “with my eyes” (ὀφθαλμοῖσιν, 22.169); and Hector thanks the false Deiphobus, who is Athena, for coming out to him “when you saw me with your eyes” (22.236; see [[truth-and-deception]]). Zeus' watching turns at once into a question for the gods, “whether we shall save him from death” (22.175), and Athena answers it in Hera's words over Sarpedon (22.179–181 = 16.441–443; see [[not-all-the-gods-approve]] and [[the-gods-mirror-the-mortals]]).
+
+The armies watch too. Achilles shakes his head at his men and lets no one throw at Hector, “lest someone win the glory by hitting him, and he himself come second” (22.205–207; see [[kydos]]). When Hector is dead the Achaeans run up and “gazed at the stature and admirable looks / of Hector; and not one stood beside him without stabbing him” (22.370–371; see [[the-dragging-of-hector]] and [[eidos]]). Andromache's sight of the body ends in darkness: “murky night covered her eyes” (22.466; see [[andromache]]).

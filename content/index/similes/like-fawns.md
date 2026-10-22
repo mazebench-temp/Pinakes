@@ -3,7 +3,7 @@ title: Like fawns
 greek: ἔστητε τεθηπότες ἠΰτε νεβροί
 kind: simile
 tags: [wild-animal, shame, warfare]
-summary: Going through the army, Agamemnon rebukes the Argives who hang back: why do they stand dazed like fawns that have run themselves out on a wide plain and stand still, with no courage in their hearts (4.242–246)?
+summary: Fawns, the young of the deer, as the likeness of men with no fight left in them. Agamemnon asks the Argives who hang back why they stand dazed like fawns that have run themselves out (4.242–246); Achilles leads his captives out of the river “dazed, like fawns” (21.29); and the Trojans who have fled into the city rest “in panic like fawns” (22.1).
 aliases: [dazed like fawns, Agamemnon's fawns]
 grc: [ἔστητε τεθηπότες, ἠΰτε νεβροί]
 en:

@@ -1,0 +1,10 @@
+---
+summary: Deadly fate holds Hector “in front of Ilios and the Scaean gates” while the Trojans shelter inside; there his parents beg him to come in, and there he waits for Achilles, until fear takes him and he leaves the gates in flight. Dying, he foretells that Paris and Apollo will kill Achilles “at the Scaean gates”.
+# Unnamed: the gates before which Hector stands (22.35) and which he leaves in flight (22.137), and outside which
+# Andromache does not know that he is staying (22.439).
+refs: [22.35, 22.137, 22.439]
+---
+
+**Before the gates.** “And deadly fate fettered Hector to stay where he was, / in front of Ilios and the Scaean gates” (22.5–6; see [[hector]] and [[moira]]). Priam sees Achilles coming over the plain and calls to his son, “but he stood in front of the gates, / raging without end to fight with Achilles” (22.35–36; see [[priam]]). In Book 9 Achilles said that while he was fighting, Hector came out only as far as the Scaean gates and the oak, and that there he once waited for him alone and barely escaped his charge (9.352–355); now Hector waits for him alone at the same gates. When Achilles comes near, Hector “could no longer bear / to stay there, but left the gates behind him, and went off in flight” (22.136–137; see [[the-pursuit-of-hector]]). In the house, Andromache has had no word “that her husband was staying outside the gates” (22.439; see [[andromache]]).
+
+**The death foretold.** Hector's last words name the same gates: “on that day when Paris and Phoebus Apollo / destroy you, brave as you are, at the Scaean gates” (22.359–360; see [[death-of-achilles-foretold]], [[the-death-of-hector]], [[paris]] and [[apollo]]). The horse Xanthus told Achilles that it was fated for him “to be brought down by force by a god and a man” (19.417), and Achilles remembered his mother's word that he would perish by Apollo's arrows “under the wall of the armored Trojans” (21.277–278); Hector gives both names and the place (see the translation's note on 22.359–360). The gates are named at the start of the book and in Hector's last words.

@@ -1,0 +1,7 @@
+---
+summary: As Achilles charges Hector, the plumes of gold that Hephaestus set thick about the crest wave around his helmet (22.315–316 = 19.382–383), and the shield the god made turns Hector's spear.
+---
+
+“and nodded with his shining helmet / with its four ridges; and around it waved the fair plumes / of gold, which Hephaestus had set thick about the crest” (22.314–316; see [[helmet]] and [[the-making-of-the-arms]]). The same plumes waved about the helmet when Achilles armed (19.382–383). Walter Leaf thinks the verse that names Hephaestus out of place in the old part of the poems, where the making of the arms is unknown (*Commentary on the Iliad*, 1900, on 22.315); on 19.382 he takes that verse as borrowed from here, where Achilles is in rapid motion and περισσείοντο, “waved around”, has its full force, and the verse of Hephaestus as an interpolation in both places, made to bring in an allusion to the making of the arms (see the translation's note on 22.315–316).
+
+The shield Achilles holds before his chest, “fine and intricately worked” (22.314), is the one Hephaestus made in Book 18 (18.478–608; see [[the-shield-of-achilles]]). Hector's spear strikes its middle and glances far off (22.290–291), as the gold of “the gifts of the god” held back the spears of Aeneas and Asteropaeus (20.267–268, 21.164–165). Hector himself wears the older armor of Achilles, which he stripped from Patroclus (22.322–323; see [[the-armor-of-peleus]]).

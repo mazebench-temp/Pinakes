@@ -1,0 +1,12 @@
+---
+summary: Two of the laments that Plato would take out of poetry come from this book. Priam rolls in the dung as he begs the Trojans to let him go to Achilles, and Zeus grieves at the sight of Hector chased around the wall, which Plato quotes as “around the city”.
+refs: [22.168-169, 22.414-415]
+passages:
+  - 22.166-187 | Zeus grieves for Hector
+---
+
+{{quote:aa9cc543-1644-59b7-9411-9e4bb580da70}}
+
+**Priam.** When Hector is dragged away, the people can hardly hold the old man back from going out through the Dardanian gates. “He entreated them all, rolling in the dung, / calling each man by his name” (22.414–415): he means to go alone to the ships and beg Achilles to pity his old age (22.416–428; see [[priam]]). Plato quotes the second half of the first verse and all of the second, with the participles fitted to his sentence: Priam, “near to the gods in birth”, must not be shown “begging and rolling in the dung, calling on each man by his name” (λιτανεύοντά τε … κυλινδόμενον κατὰ κόπρον, ἐξονομακλήδην ὀνομάζοντʼ ἄνδρα ἕκαστον, *Republic* 3.388b). Homer's verb for the begging is ἐλλιτάνευε, “he entreated”. The plan he makes in the dung is carried out in Book 24, where he does go to Achilles' hut and kisses his hands (see [[supplication]]).
+
+**Zeus.** The other verses are the first two of Zeus' speech as the gods watch the chase: “Ah, truly a man dear to me, pursued around the wall, / I see with my eyes; and my heart grieves” (22.168–169). Plato's text has διωκόμενον περὶ ἄστυ, “pursued around the city”, for περὶ τεῖχος, “around the wall” (*Republic* 3.388c); a few verses later the poem has “around the city of Priam” (22.173). Zeus goes on to ask the gods whether they shall save Hector from death or let him fall, and Athena answers in the words that Hera used of Sarpedon, “Do it; but not all of us other gods approve” (22.174–181; 22.179–181 = 16.441–443; see [[not-all-the-gods-approve]]). Here the question ends the grief at once. Zeus tells his daughter that he does not speak in full earnest, and sends her down to the chase (22.183–187; see [[zeus]] and [[athena]]). Plato sets the two laments side by side, Hector's and Sarpedon's, and Proclus, stating the charge, has the greatest of the gods say “ah me” (ὤμοι ἐγών) over both (*On the Republic* I 123 Kroll; see [[proclus-the-neoplatonist]]), though in Homer the words open only the lament for Sarpedon (16.433); for Hector Zeus says ὢ πόποι (22.168).

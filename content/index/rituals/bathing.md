@@ -19,7 +19,7 @@ The Iliad tells the bath of living men only once, when Odysseus and Diomedes com
 
 - **Gods.** Hebe bathes Ares when Paeëon has healed the wound Diomedes gave him (5.905), and Hera cleanses her body with ambrosia and anoints it with oil before she goes to beguile Zeus (14.170–172).
 - **Planned and wished for.** Nestor tells the wounded Machaon to sit and drink until Hecamede heats a bath and washes off the clotted gore (14.5–7). Agenor, thinking of flight, imagines bathing in the river at evening, cooling off his sweat, and going back to Ilios (21.556–561).
-- **Prepared in vain.** Andromache orders her handmaids to set a great tripod on the fire, so that Hector may have a warm bath when he comes home from the battle, not knowing that Athena has already struck him down “far from baths” (22.442–446).
+- **Prepared in vain.** Andromache orders her handmaids to set a great tripod on the fire, so that Hector may have a warm bath when he comes home from the battle, not knowing that Athena has already struck him down “far from all baths” (22.442–446).
 - **Refused.** Achilles swears that no water shall come near his head until he has burned Patroclus, heaped his mound and cut his hair (23.39–47).
 - **The dead.** Apollo bathes Sarpedon's body in the river and anoints it with ambrosia (16.667–680); Achilles' companions heat water in a tripod, wash Patroclus and anoint him with oil (18.343–353); and Achilles has the handmaids wash and anoint Hector's body away from Priam's sight (24.582–588).
 

@@ -7,6 +7,8 @@ summary: “Gray, whitish,” the color of the [[sea]] near the shore, of old me
 aliases: [grey, polios]
 grc: [πολιῆς]
 en: [gray]
+# πολιόν at 22.74 is the gray head and beard of an old man.
+except: [22.74]
 of: [sea, iron]
 ---
 

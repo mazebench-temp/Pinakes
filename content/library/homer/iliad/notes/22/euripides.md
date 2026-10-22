@@ -1,0 +1,7 @@
+---
+summary: Euripides' Andromache saw Hector dragged by the chariot, around the walls in his version, and left him lying in the dust; she remembers coming from Thebe with golden bride-gifts. In the Trojan Women Cassandra makes Hector's death the source of his fame, the fame that Hector and Andromache seek for him in this book.
+---
+
+- Andromache's memories of the dragging, which she saw, of her husband left in the dust, and of her bride-gifts from Thebe (*Andromache* 1–4, 8–9, 107–112, 399–403, on 22.402, 22.463–465, 22.472): [[euripides-andromache]] and [[the-dragging-of-hector]].
+- **Hector's fame.** In the *Trojan Women* Cassandra, given to Agamemnon for his bed, undertakes to show her mother that Troy is more blessed than the Achaeans (*Trojan Women* 353–366). Of Hector's grievous fate she says: “he is gone, dead, with the name of the best of men, and the coming of the Achaeans brought this about; if they had stayed at home, his worth would have gone unseen” (*Trojan Women* 394–397). In this book Hector, knowing he must die, asks only not to die “without a struggle and without glory, / but having done some great thing, even for men to come to hear of” (22.304–305), and Andromache means to burn his clothes “to be your fame before the Trojans and the Trojan women” (22.514): [[fame-and-the-tomb]] and [[kleos]].
+- The child Astyanax, whom Andromache in this book foresees growing up an orphan, driven from the feast and in want (22.484–507), is thrown from the walls in the *Trojan Women*: [[euripides-astyanax]] and [[the-day-of-orphanhood]].

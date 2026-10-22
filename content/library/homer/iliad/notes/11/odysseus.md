@@ -27,7 +27,7 @@ It is the first of four monologues in which a man alone in battle decides whethe
 
 {{quote:1a818b9c-d039-5af2-807c-d9aa1699534c}}
 
-Achilles draws the same line between the dying Hector and Patroclus: “dogs and birds will drag you shamefully, but the Achaeans will give him burial rites” (22.335–336; see [[honoring-the-dead]]). Odysseus pulls Socus' spear from his own flesh, “and it grieved his heart” (11.456–458).
+Achilles draws the same line between the dying Hector and Patroclus: “and you the dogs and the birds will tear shamefully, but him the Achaeans will give burial rites” (22.335–336; see [[honoring-the-dead]]). Odysseus pulls Socus' spear from his own flesh, “and it grieved his heart” (11.456–458).
 
 **The rescue.** The Trojans see his blood and come at him. He gives ground and shouts three times, “as loud as a man's head could hold”, and three times Menelaus hears and brings Ajax (11.459–472; see [[menelaus]] and [[ajax]]). They find the Trojans around him “as blood-red jackals in the mountains / press around a horned stag that is wounded”, until a god brings a lion (11.473–481). ἀμφʼ Ὀδυσῆα δαΐφρονα ποικιλομήτην, “around wise-hearted Odysseus of subtle wiles” (11.482), is a verse-end of the Odyssey (*Odyssey* 3.163, 7.168, 22.115, 22.202, 22.281), found in the Iliad only here (see [[wise-hearted]]). Ajax comes up “carrying his shield like a tower”, the Trojans scatter, and Menelaus leads Odysseus out by the hand until his attendant brings the horses (11.485–488; see [[the-shield-of-ajax]]).
 

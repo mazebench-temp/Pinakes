@@ -1,0 +1,13 @@
+---
+summary: Book 22 is the last stage of the day, and it marks no hour. The Trojans are inside the walls, Hector alone waits before the Scaean gates, flees three times around the city, and is killed; Achilles drags the body to the ships while the city laments. Hector looks back to Polydamas' advice “during this deadly night” (22.102), and the day goes on into Book 23, with the night at the ships.
+# The day named: "this deadly night" (22.102), the night before, and Hector's "fated day" (22.212).
+refs: [22.102, 22.212]
+---
+
+**The night before.** The book begins where the last left off, with the Trojans who have fled into the city cooling their sweat and quenching their thirst on the battlements, and Hector held outside by his fate (22.1–6; see [[apollo-deceives-achilles]]). Hector, alone before the gates, remembers the night before: Polydamas, “who bade me lead the Trojans to the city / during this deadly night, when brilliant Achilles rose up” (22.101–102), gave his advice in the assembly held after Achilles appeared at the ditch (18.243–313; see [[polydamas]] and [[the-third-day-of-battle]]). Hector rejected it, and now says that it would have been far better (22.103–107).
+
+**Hector's day.** Zeus weighs the two fates, and “the fated day of Hector sank, / and went off to the house of Hades” (22.212–213; see [[the-scales-of-zeus]]). αἴσιμον ἦμαρ, “the fated day”, is the day of the Achaeans that sank in the same scales at noon on the second day of battle (8.68–72; see [[the-second-day-of-battle]]). Andromache, at her loom, is having a bath made ready for Hector's return from the battle (22.442–446).
+
+**The end of the fighting.** When Hector is dead, Achilles thinks of making trial of the city in arms “now that this man has fallen”, then turns back to Patroclus and the ships (22.378–394; see [[achilles]]). There is no more fighting on this day: the Achaeans go back to the ships with Hector's body, and the city laments on the wall (22.395–515; see [[the-dragging-of-hector]] and [[lament]]). The night before, Polydamas warned that if Achilles found the Trojans on the plain in the morning, “dogs and vultures will eat many / of the Trojans” (18.268–272); now Hector is dragged to the ships, and Achilles has promised him to the dogs and the birds (22.335–336, 22.354, 22.464–465).
+
+**Into Book 23.** The day goes on without a break. The Achaeans scatter to their ships, the Myrmidons drive three times around Patroclus' body in lament, and Achilles gives the funeral feast; the night falls, Patroclus' ghost comes to Achilles in his sleep, and the next day dawns at 23.109 (23.1–110). In this index's count the whole book is Day 27.

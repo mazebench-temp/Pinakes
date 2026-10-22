@@ -1,0 +1,13 @@
+---
+summary: The Achaeans come up to the wall with their shields leaning against their shoulders (22.4). Hector waits for Achilles with his shining shield leaning against a tower, and thinks of setting down his bossed shield to go to him unarmed (22.97, 22.111). In the duel Hector's spear strikes the middle of Achilles' shield and glances far off (22.290–291), and Achilles charges with the shield before his chest, “fine and intricately worked” (22.313–314).
+# Unnamed: "fine and intricately worked", of Achilles' shield (22.314).
+refs: [22.314]
+---
+
+**Shields against the shoulder.** While the Trojans dry their sweat on the battlements, “the Achaeans / came nearer the wall, leaning their shields against their shoulders” (22.3–4). σάκεʼ ὤμοισι κλίναντες is the formation of 11.593 and 13.488, where the men stand close and wait for a charge. Walter Leaf finds it hard to see how it could serve an advance, since the men's right arms would be hampered, and suggests a reconnaissance made with every defensive precaution (*Commentary on the Iliad*, 1900, on 22.4; see the translation's note on 22.4).
+
+**Hector's shield.** Hector does not give ground, “leaning his shining shield against a jutting tower” (22.97; see [[the-tower-of-ilios]] and [[phaeinos]]), and asks himself whether he should set down “my bossed shield / and my heavy helmet”, lean his spear against the wall, and go to meet Achilles with an offer of terms (22.111–113; see [[bossed]] and [[helmet]]). He knows what would come of it: Achilles “will kill me naked, / just like a woman, once I have taken off my armor” (22.124–125; see [[hector]]). His shield is ἀσπίς, as when it knocked against his ankles and neck on his way to the city in Book 6 (6.117–118).
+
+**Achilles' shield.** Hector's spear “struck the middle of the shield of the son of Peleus, and did not miss; / but the spear glanced far off from the shield” (22.290–291; see [[the-shield-of-achilles]]). μέσον σάκος, “the middle of the shield”, is where Hector's spear struck Ajax's shield in their duel (7.258; see [[the-duel-of-hector-and-ajax]]). Then Achilles “covered his chest in front with his shield, / fine and intricately worked” (22.313–314; see [[intricately-worked]]). Achilles' shield is σάκος, as it was in the duel with Aeneas (see the note on Book 20), and so are the shields of the Achaeans at the wall (22.4); Hector's is ἀσπίς (22.97, 22.111).
+
+Two epithets of the book name a shield. Ares is ταλαύρινος, “the warrior with the oxhide shield” (22.267; see [[with-the-oxhide-shield]]), and Deiphobus, whom Hector calls in vain to bring him a spear, is λευκάσπις, “of the white shield”, a word found only here in Homer (22.294; see [[of-the-white-shield]] and [[deiphobus]]).

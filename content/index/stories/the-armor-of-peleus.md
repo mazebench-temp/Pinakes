@@ -13,7 +13,7 @@ participants: [peleus, thetis, achilles, patroclus, apollo, hector, zeus]
 # Book 17: "his armor" (17.122 = 17.693), Hector takes it and sends it to the city (17.125, 17.130-131), puts it on
 # (17.186-187, 17.191-197), Zeus watches (17.199, 17.202-208), fits it (17.210), Hector flashing in it (17.214),
 # "he has the armor too" (17.450), Alcimedon (17.472-473). Book 18: the refs are in the Book 18 note (18.21,
-# 18.82-85, 18.130-133, 18.188-192, 18.197, 18.451, 18.460-461). Book 19: 19.411-412, in the Book 19 note. Later: 22.321-327, 22.367-369, 22.399.
+# 18.82-85, 18.130-133, 18.188-192, 18.197, 18.451, 18.460-461). Book 19: 19.411-412, in the Book 19 note. Book 22: 22.321-327, 22.367-369, 22.376, 22.399, in the Book 22 note.
 refs: [16.40-41, 16.64, 16.134, 16.278-283, 16.793-804, 16.846, 17.122, 17.125, 17.130-131, 17.186-187, 17.191-197, 17.199, 17.202-208, 17.210, 17.214, 17.450, 17.472-473, 17.693]
 passages:
   - 17.192-197 | The armor the gods gave Peleus

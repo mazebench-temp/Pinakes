@@ -20,7 +20,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 
 | Greek | English | Notes |
 |---|---|---|
-| μῆνις, μηνίω | wrath, keep up / nurse one's wrath | reserved for this word family; μηνιθμός "wrath" (16.62, 16.202, 16.282); μῆνιν ἀποειπών "renouncing your wrath" (19.35), μῆνιν ἀπειπόντος "had renounced his wrath" (19.75); ἐμεῦ ἀπομηνίσαντος "while I nurse (nursed) my wrath apart" (9.426 = 19.62) |
+| μῆνις, μηνίω | wrath, keep up / nurse one's wrath | reserved for this word family; μηνιθμός "wrath" (16.62, 16.202, 16.282); μῆνιν ἀποειπών "renouncing your wrath" (19.35), μῆνιν ἀπειπόντος "had renounced his wrath" (19.75); ἐμεῦ ἀπομηνίσαντος "while I nurse (nursed) my wrath apart" (9.426 = 19.62); μήνιμα "a cause of the gods' wrath" (22.358 = Od. 11.73) |
 | χόλος, χολόω | anger, be angry | |
 | χώομαι | be angry, enraged | |
 | κότος, κοτέω | grudge, resentment | κότον αἰνόν "a dread grudge" (8.449, 16.449); κοτεσσάμενος "in resentment" (5.177, 16.386); κοτεσσαμένη "in my resentment" (18.367) |
@@ -58,18 +58,18 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ξεῖνος, ξεινήϊα, ξεινίζω | guest-friend, guest-gifts, entertain | ξεῖνοι πατρώϊοι "guest-friends from our fathers' time" (6.215, 6.231); ξεινήϊα also of the entertainment set before a guest, παράθες ξεινήϊα καλά "set fine guest-gifts before her" (18.408; ξεινήια … φαγόντε, Od. 4.33) |
 | γενεή | lineage; generation | "lineage" of a family (6.145, 6.151, 6.211); "generation" of the leaves (6.146, 6.149); "lineage" of Dardanus and of Priam (20.303–306); "birthplace" (20.390; Od. 1.407) |
 | δᾶερ, γάλοως, εἰνάτερες, γαμβρός | brother-in-law, husband's sisters, brothers' wives, son-in-law | 6.249, 6.344, 6.378 |
-| ἐλεύθερον ἦμαρ / δούλιον ἦμαρ | the day of freedom / the day of slavery | 6.455, 6.463; κρητὴρ ἐλεύθερος "the mixing bowl of freedom" (6.528) |
+| ἐλεύθερον ἦμαρ / δούλιον ἦμαρ | the day of freedom / the day of slavery | 6.455, 6.463; κρητὴρ ἐλεύθερος "the mixing bowl of freedom" (6.528); ἦμαρ ὀρφανικόν "the day of orphanhood" (22.490); ὀρφανικός elsewhere "an orphan" (6.432), "orphans" (11.394) |
 | εὖχος | triumph | 5.285, 5.654, 7.81, 7.154, 7.203; kept apart from κῦδος "glory" (7.205) |
 | μόθος | the fray | 7.117, 7.240; "the dread din of battle" is φύλοπις αἰνή, "Tumult" Κυδοιμός |
 | τύμβος / σῆμα | tomb / mound (of a grave); sign, mark | τύμβος "tomb" (2.604, 7.336, 7.435); σῆμα "mound" (6.419, 7.86, 7.89), "sign" (6.168, 6.176), "mark" on a lot (7.189); τύμβῳ τε στήλῃ τε "with a tomb and a pillar" (16.457 = 16.675) |
 | εἶλαρ | safeguard | 7.338, 7.437; "bulwark" is ἕρκος; ἕρκος "bulwark" (1.284, 3.229; ἕρκεϊ χαλκείῳ "a bulwark of bronze", 15.567), "barrier" in ἕρκος ἀκόντων (4.137, 15.646); "enclosure", the courtyard (16.231 = 24.306) |
 | χάρμη | the joy of battle; battle | προκαλέσσατο χάρμῃ "challenged … to battle" (7.218, 7.285); οὐ λήθετο χάρμης "did not forget the joy of battle" (12.203, 12.393), the negative of μνήσαντο δὲ χάρμης (4.222, 8.252); παῦσε δὲ χάρμης "stopped him from battle" (12.389); "in battle" (16.823) |
-| δήϊος (πόλεμος, Ἄρης) | destructive | "destructive war" (4.281, 7.119), "destructive Ares" (7.241); πῦρ δήϊον "consuming fire" (6.331) |
+| δήϊος (πόλεμος, Ἄρης) | destructive | "destructive war" (4.281, 7.119), "destructive Ares" (7.241); πῦρ δήϊον "consuming fire" (6.331); δήϊον ἄνδρα "his enemy" (6.481), "the enemy" (22.84) |
 | ἀπέλεθρος | measureless | ἶνʼ ἀπέλεθρον "measureless strength" (5.245, 7.269) |
 | κήρ, κῆρες | fate, the fates (of death) | δύο κῆρε "two fates of death" (8.70), "the fates of the Achaeans" (8.73), κηρεσσιφόρητοι "borne along by the fates" (8.527); as 2.302, 2.834; κῆρα μέλαιναν is "black doom"; κῆρ "heart" is another word; beside death or slaughter "doom": φόνον καὶ κῆρα (2.352, 3.6), θάνατόν τε κακὸν καὶ κῆρα "his own evil death and doom" (16.47), κῆρα κακὴν μέλανος θανάτοιο "the evil doom of black death" (16.687); κῆρα … δέξομαι "I will accept my doom" (18.115 = 22.365), φύγε κῆρα "escaped his doom" (18.117); Κήρ in person, "deadly Doom", with Strife and Tumult on the Shield (18.535) |
 | τάλαντα / σειρή | scales / rope | the golden scales of Zeus (8.69); the golden rope (8.19, 8.25) |
 | ἀλκή | courage; help | ἐκ Διὸς ἀλκή "help from Zeus" (8.140) |
-| εὐχωλή | vow; boast | "vow" (1.65, 1.93); "a thing to boast of" (2.160); εὐχωλαί "boasts" (8.229); "cries of triumph" (4.450 = 8.64) |
+| εὐχωλή | vow; boast | "vow" (1.65, 1.93); "a thing to boast of" (2.160); εὐχωλαί "boasts" (8.229); "cries of triumph" (4.450 = 8.64); "my boast", of Hector to his mother (22.433) |
 | δαίμων | god; doom | "a god" (7.291); δαίμονα δώσω "I will deal you your doom" (8.166) |
 | πρεσβήϊον | gift of honor | 8.289, kept apart from γέρας "prize" |
 | φόως | light | of rescue: "a light to the Danaans" (8.282, 11.797; 6.6); μάλα δέ σφι φόως γένετʼ "a great light came to them" (15.669); τὼ ἐν χερσὶ φόως "in our hands lies the light" (15.741); φάος, of Achilles who failed his friend, "I was no light at all to Patroclus" (18.102); τίθει φάος "brought him light" (20.95) |
@@ -86,14 +86,14 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | μοῖρα, αἶσα | share, portion; fate | ἴση μοῖρα "the same share" (9.318); κατὰ μοῖραν "fair and right" (1.286 = 8.146, 9.59); Διὸς αἴσῃ "by the portion of Zeus" (9.608); see 6.487; κατὰ μοῖραν "in good order", of a crossing (16.367); Μοῖρα in person, "Fate", with Zeus and the Erinys (19.87) and θεός τε μέγας καὶ Μοῖρα κραταιή "a great god and mighty Fate" (19.410); μόρος "fate" (19.421); κατὰ μοῖραν "as was right" (19.256); ἐν μοίρῃ "rightly" (19.186; Leaf: for κατὰ μοῖραν) |
 | λώβη | insult | θυμαλγέα λώβην "heart-grieving insult" (9.387), as λωβήσαιο (1.232); "disgrace" where the shame falls on the one who allowed it, σοὶ λώβη "yours will be the disgrace" (18.180; as 3.42, 7.97) |
 | ἀμείλιχος | implacable | Hades (9.158), the Erinys (9.572); μειλίχιος is "soothing" (9.113) |
-| σκοπός, ἐπίσκοπος / διοπτήρ, διοπτεύω | spy / scout, spy | Dolon is Hector's σκοπός, "spy" (10.324, 10.526, 10.561), and a διοπτήρ, "scout" (10.562); ἐπίσκοπος "to spy on" (10.38, 10.342); διοπτεύσων "to spy" (10.451); σκοπός "lookout", a man posted to watch (2.792; 18.523) |
+| σκοπός, ἐπίσκοπος / διοπτήρ, διοπτεύω | spy / scout, spy | Dolon is Hector's σκοπός, "spy" (10.324, 10.526, 10.561), and a διοπτήρ, "scout" (10.562); ἐπίσκοπος "to spy on" (10.38, 10.342); διοπτεύσων "to spy" (10.451); σκοπός "lookout", a man posted to watch (2.792; 18.523); ἐπίσκοποι ἁρμονιάων "overseers of agreements", of the gods (22.255) |
 | φύλακες, φυλακή | sentries; watch | "the sentries" (9.66, 9.80, 10.56–59, 10.180–193); "the watch" (10.99), "the watches" (10.408, 10.416); κεκριμένη "picked" (10.417) |
 | κυνέη | helmet; cap | "helmet" (3.316, 10.257, 10.261); κτιδέη κυνέη "a cap of ferret skin" (10.335, 10.458); καταῖτυξ "skullcap" (10.258) |
 | στρατός / λαός | army; camp / army; people | στρατός "army", the host (10.336, 10.341, 10.347, 10.385, 10.417), and "camp", the ground it lies on (10.66, 10.82, 10.141, 10.221, 10.325); λαός "army" (2.163, 10.364) and "people" (ποιμὴν λαῶν, "shepherd of the people") |
 | κύντερος, κύντατος | more shameless, most shameless | the κύων family keeps "shameless": κύντερον (8.483), ὅ τι κύντατον ἕρδοι "what was the most shameless thing he could do" (10.503) |
 | πρόμαχοι / ἱππῆες | champions / horsemen | πρόμαχοι "champions", the men who fight in front (3.31, 4.253, 11.188, 11.342); ἱππῆες "horsemen" (2.810, 4.297, 11.51, 11.151, 11.724), kept apart from ἡνίοχος "charioteer", the driver (11.47, 11.273) |
 | θύνω / θύω | rush / rage | θῦνε "rushed" (5.87; 11.73, 11.342, 11.570), θύνοντʼ "rushing" (11.188); θῦεν "raged" (11.180); θῦνε "rushed" (20.412, 20.493) |
-| βάλλω / οὐτάω | hit, shoot / stab | Nestor keeps them apart: βέβληται "has been shot", οὔτασται "has been stabbed" (11.660–661); βεβλημένοι οὐτάμενοί τε "shot or stabbed" (11.659, 11.826); οὐτάμενοί περ "stabbed though we are (they were)" of the three wounded kings (14.128, 14.379), though Diomedes was shot (11.376–377) |
+| βάλλω / οὐτάω | hit, shoot / stab | Nestor keeps them apart: βέβληται "has been shot", οὔτασται "has been stabbed" (11.660–661); βεβλημένοι οὐτάμενοί τε "shot or stabbed" (11.659, 11.826); οὐτάμενοί περ "stabbed though we are (they were)" of the three wounded kings (14.128, 14.379), though Diomedes was shot (11.376–377); ἀνουτητί "without stabbing him" (22.371), answered by οὐτήσασκε παραστάς "would stand beside him and stab him" (22.375) |
 | νεμεσάω, νεμεσητός | be indignant; quick to blame | Ζεὺς … νεμέσασχε "Zeus was indignant" (11.543); νεμεσητός "quick to blame", of Achilles (11.649); νέμεσις is "blame" |
 | ὑβρίζω / ὑπερηφανέω | treat with outrage / be haughty | 11.694–695, kept apart from λώβη "insult" (9.387, 11.142) |
 | κύανος, κυάνεος | dark blue enamel, dark blue | 11.24, 11.26, 11.35, 11.39; κυανόπεζα "with feet of dark blue enamel" (11.629); κυανέην … κάπετον "a trench of dark blue", the material (18.564; Leaf) |
@@ -118,7 +118,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | Ὕπνος, Θάνατος, Νύξ (personified) | Sleep, Death, Night | Ὕπνῳ … κασιγνήτῳ Θανάτοιο "Sleep, the brother of Death" (14.231); "Sleep, lord of all gods and of all men" (14.233); νήδυμος Ὕπνος "sweet Sleep" (14.242, 14.354); Νὺξ δμήτειρα θεῶν "Night, the tamer of gods" (14.259), Νυκτὶ θοῇ "swift Night" (14.261); lowercase ὕπνος "sleep" (14.164, 14.353), νύξ "night" (14.78, 14.439) |
 | κεστὸς ἱμάς / ζώνη / μίτρη / ζωστήρ | the embroidered strap / girdle / band / belt | Aphrodite's κεστὸν ἱμάντα, / ποικίλον "the embroidered strap, / richly worked" (14.214–215; τοῦτον ἱμάντα "this strap", 14.219); ἱμάς is "strap" (πολύκεστος ἱμάς "the richly worked strap", 3.371); Hera's ζώνη "girdle" (14.181); μίτρη "band" (4.137) |
 | θελκτήρια, πάρφασις | enchantments, persuasion | 14.215, 14.217; πάρφασις is the noun παραίφασις, "persuasion" (11.793) |
-| κόλπος | bosom | 6.136, 6.467, 9.570; ἐγκάτθεο κόλπῳ "put in your bosom" (14.219, 14.223) |
+| κόλπος | bosom | 6.136, 6.467, 9.570; ἐγκάτθεο κόλπῳ "put in your bosom" (14.219, 14.223); κόλπον ἀνιεμένη "loosening the fold of her robe" (22.80) |
 | ποικίλος | inlaid; richly worked | "inlaid" of armor and chariots (3.327, 4.226, 14.420, 14.431); "richly worked" of a robe or of Aphrodite's strap (5.735 = 8.386; 14.215, 14.220) |
 | ἐξαπαφίσκω, παραπαφίσκω | beguile | ἐξαπάφοιτο Διὸς νόον "beguile the mind of Zeus" (14.160); παρήπαφεν "has beguiled" (14.360) |
 | κοιμάω, κατευνάω, λέγω (of sleep) | lull to sleep | κοίμησον "lull to sleep" (14.236), κατευνήσαιμι (14.245, 14.248), ἔλεξα "lulled" (14.252) |
@@ -130,7 +130,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | δῖος (of things and places) | shining | ἅλα δῖαν "the shining sea" (1.141, 14.76); χθὼν δῖα "the shining earth" (14.347); δῖος of persons is "brilliant" |
 | ἀτρέμας | motionless; still | "motionless" (5.524, 13.438, 14.352); "sit still" (2.200) |
 | νείατος | lowest; last | τὰ νείατα πείραθʼ "the lowest limits" (8.478); νείατον ἀστράγαλον "the last vertebra", where the head joins the neck (14.466) |
-| ὀπάζω | grant | κῦδος ὀπάζει "grants glory" (8.141; 12.255; 14.358); κτῆσιν ὄπασσε "granted him wealth" (14.491); ὄπασσε "granted" the armor to his son (17.196); πολὺν δʼ ἅμα λαὸν ὄπασσε "granted a great army to go with him" (18.452; as 16.38) |
+| ὀπάζω | grant | κῦδος ὀπάζει "grants glory" (8.141; 12.255; 14.358); κτῆσιν ὄπασσε "granted him wealth" (14.491); ὄπασσε "granted" the armor to his son (17.196); πολὺν δʼ ἅμα λαὸν ὄπασσε "granted a great army to go with him" (18.452; as 16.38); πολλὰ … ὤπασε παιδί "granted much to his daughter" (22.51) |
 | ἀλαστέω | chafe | ἠλάστεον "the gods chafed" (15.21); ἀλαστήσας "chafing" (12.163) |
 | ἀλογέω / ἀνηκουστέω | disregard / fail to heed | ἀλογήσει "disregards" (15.162, 15.178); οὐδʼ ἀνηκούστησε "did not fail to heed" (15.236; 16.676) |
 | ὑπερφίαλος / ὑπέροπλος | overbearing / arrogant | ὑπερφίαλος "overbearing" (3.106, 5.881, 13.621, 15.94); ὑπέροπλον "arrogantly" (15.185), ὑπεροπλίῃσι "arrogance" (1.205); the adverb ὑπερφιάλως "overbearingly" (13.293) and "overly", beyond measure (18.300) |
@@ -142,13 +142,13 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | μενεαίνω | be eager to; rage | with an infinitive "be eager to" (3.379, 13.628; 15.507, 15.565); alone "rage" (4.32, 15.104, 15.617); κατακτάμεναι μενεαίνων "eager to kill him" (20.346, 20.442) |
 | λίσσομαι / λιτανεύω / γουνοῦμαι, γουνάζομαι | beg / entreat / implore | λίσσετο "begged" (1.15, 12.49, 15.660); λιτάνευε "entreated" (9.581); γουνούμενος "imploring" (9.583, 15.660), γουνάζομαι "I implore you" (15.665) |
 | ἀμύμων (of things) | flawless | ἀμύμονα ἔργα "flawless handiwork" (9.128), 10.19, 13.637; ἀμύμονι τόξῳ "his flawless bow" (15.463); "blameless escort" (6.171); κατὰ θυμὸν ἀμύμονα "in his noble heart", of a man's own heart (16.119) |
-| αἰδώς, αἰδέομαι | shame, feel shame | αἰδὼς Ἀργεῖοι "Shame, Argives!" (5.787, 13.95, 15.502); αἰδῶ θέσθʼ ἐνὶ θυμῷ "set shame in your hearts" (15.561, 15.661); ἀλλήλους τʼ αἰδεῖσθε "feel shame before one another" (5.530 = 15.562); ἴσχε γὰρ αἰδὼς / καὶ δέος "for shame held them / and fear" (15.657–658) |
+| αἰδώς, αἰδέομαι | shame, feel shame | αἰδὼς Ἀργεῖοι "Shame, Argives!" (5.787, 13.95, 15.502); αἰδῶ θέσθʼ ἐνὶ θυμῷ "set shame in your hearts" (15.561, 15.661); ἀλλήλους τʼ αἰδεῖσθε "feel shame before one another" (5.530 = 15.562); ἴσχε γὰρ αἰδὼς / καὶ δέος "for shame held them / and fear" (15.657–658); αἰδῶ "nakedness" (2.262; 22.75) |
 | κάματος / ὀϊζύς / πόνος | labor / misery / toil | πολὺν κάματον καὶ ὀϊζύν "the long labor and misery" (15.365); ὀϊζύς "misery" (6.285, 13.2, 14.480) |
 | θέλγω | bewitch | θέλγε νόον (12.255, 13.435); θυμὸν … ἔθελξε "bewitched their hearts" (15.322); θέλγε δὲ θυμόν (15.594); ψεύδεσσιν ἔθελγεν "bewitched me with lies" (21.276); δόλῳ … ἔθελγεν "by a trick … was bewitching him" (21.604) |
 | κακότης | baseness; cowardice | "baseness" (13.108); "cowardice" (2.368; κακότητι γερόντων "the cowardice of the elders", 15.721) |
-| βλάπτω | harm; catch; foil | βλάπτουσʼ ἀνθρώπους "doing harm to men" (9.507); βλάπτε φρένας "was harming our minds" (15.724); ἐνὶ βλαφθείς "caught in it" (6.39; 15.647); βλαφθέντα βέλεμνα "missiles foiled" (15.484, 15.489); βεβλαμμένον ἦτορ "harmed in the heart" (16.660); βλάβεται "is hindered" (19.82, 19.166) |
+| βλάπτω | harm; catch; foil | βλάπτουσʼ ἀνθρώπους "doing harm to men" (9.507); βλάπτε φρένας "was harming our minds" (15.724); ἐνὶ βλαφθείς "caught in it" (6.39; 15.647); βλαφθέντα βέλεμνα "missiles foiled" (15.484, 15.489); βεβλαμμένον ἦτορ "harmed in the heart" (16.660); βλάβεται "is hindered" (19.82, 19.166); of a god, ἔβλαψας "you have foiled me" (22.15: see the note) |
 | κυδαίνω | give glory | 5.448, 10.69, 13.348, 13.350; τίμα καὶ κύδαινε "honored him and gave him glory" (15.612) |
-| μόρσιμος | fated | μόρσιμον ἦεν "it was fated" (5.674); μόρσιμον ἦμαρ "his fated day" (15.613), as αἴσιμον ἦμαρ "the fated day" (8.72) |
+| μόρσιμος | fated | μόρσιμον ἦεν "it was fated" (5.674); μόρσιμον ἦμαρ "his fated day" (15.613), as αἴσιμον ἦμαρ "the fated day" (8.72); of a person, οὔ τοι μόρσιμός εἰμι "I am not fated to fall to you" (22.13: see the note) |
 | δῃόω | cut down | δῄουν "cut each other down" (11.71; 15.708); δῃῶν "mauling", of a lion with a cow it has killed (17.65) |
 | ἀτειρής | unyielding | 3.60, 5.292, 7.247, 14.25; ἀκμῆτας καὶ ἀτειρέας "unwearied and unyielding" (15.697); of a voice "tireless" (13.45); χαλκὸν ἀτειρέα "unyielding bronze" (19.233) |
 | φέρτατος | strongest | 1.581, 2.769; φέρτατον υἱόν "the strongest son" (15.526); "mightiest" (7.289) |
@@ -162,19 +162,19 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | μαρμαίρω, μαρμάρεος, μάρμαρος | gleaming | ἔντεα μαρμαίροντα "gleaming armor" (12.195; 13.22); σὺν ἔντεσι μαρμαίροντας "gleaming in their armor" (16.279); χάλκεα μαρμαίροντα "bronze, gleaming" (16.664); μάρμαρον ὀκριόεντα "jagged and gleaming" (16.735; the boulder of 12.380) |
 | μιαίνω | stain | μιαίνῃ "stains" ivory with purple (4.141); μιάνθην "were stained" (4.146); μιάνθησαν, μιαίνεσθαι "was stained", "to be stained", of the helmet's crest (16.795, 16.797); ἐμιαίνετο "were stained", the horses' manes in the dust (17.439) |
 | μεταπρέπω | stand out among | 2.579, 11.720, 13.175, 15.550; 16.194, 16.596, 16.835 |
-| ἀνίημι | let loose; set on | ἀνέντες, ἀνέηκεν "let loose" (5.761, 5.881); "set on", of a god (5.405, 14.362); θυμὸν ἐνὶ στήθεσσιν ἀνῆκεν "let loose the spirit in his breast" (16.691); ἀνῆκε "set him on", of Apollo with Aeneas and Agenor (20.118; 21.545); θυμὸς ἀνῆκεν "your heart has sent you" (6.256, 7.25; 21.395); θεῶν δέ ἑ μῆνις ἀνῆκε "the wrath of the gods has sent it up" (21.523) |
+| ἀνίημι | let loose; set on | ἀνέντες, ἀνέηκεν "let loose" (5.761, 5.881); "set on", of a god (5.405, 14.362); θυμὸν ἐνὶ στήθεσσιν ἀνῆκεν "let loose the spirit in his breast" (16.691); ἀνῆκε "set him on", of Apollo with Aeneas and Agenor (20.118; 21.545); θυμὸς ἀνῆκεν "your heart has sent you" (6.256, 7.25; 21.395); θεῶν δέ ἑ μῆνις ἀνῆκε "the wrath of the gods has sent it up" (21.523); νῦν αὖτέ με θυμὸς ἀνῆκε "but now my heart has sent me" (22.252); μένος καὶ θυμὸς ἀνήη "my fury and my heart would … send me" (22.346) |
 | κερτομέω | taunt | κερτομέων "to taunt" (2.256); τὸν δʼ ἐπικερτομέων "taunting him" (16.744; again 24.649) |
-| ἀεικίζω | defile | ἀεικίσσωσι "defile" (16.545), ἀεικισσαίμεθα (16.559); later 19.26, 22.404, 24.22, 24.54 |
+| ἀεικίζω | defile | ἀεικίσσωσι "defile" (16.545), ἀεικισσαίμεθα (16.559); later 19.26, 22.256, 22.404, 24.22, 24.54 |
 | κεραΐζω | ravage | 5.557; σταθμοὺς κεραΐζων "ravages the farmsteads" (16.752); πόλιν … κεραϊζέμεν "ravage our city" (16.830); kept apart from πέρθω "sack" (16.708) and ἀλαπάζω (side by side at 24.245) |
 | κυβιστάω, κυβιστητήρ | tumble, tumbler | Patroclus' jest over Cebriones (16.745, 16.749, 16.750); the tumblers of the dance (18.605 = Od. 4.18) and the fish of 21.354; the diver of 12.385 and 16.742 is ἀρνευτήρ |
 | νέκυς / νεκρός | corpse / body | νέκυς "corpse" (4.492, 7.84, 13.509; 16.321, 16.577); νεκύων κατατεθνηώτων "the corpses of the dead" (7.409, 10.343, 10.387) and ἀμφὶ νέκυι κατατεθνηῶτι "around the corpse of the dead man" (16.526, 16.565); νεκρός "body" (4.493, 5.298, 5.620; 16.545, 16.579, 16.629, 16.641, 16.644); νέκυος πέρι τεθνηῶτος "the corpse of the dead man" (18.173); νεκρούς "the bodies" (18.540); νεκύων "of corpses" (21.218), νεκύεσσι "with corpses" (21.220), νέκυες "corpses" (21.302); νεκρούς "the bodies" (21.235, 21.343, 21.348–349) |
 | δάμνημι, δαμάζω | overpower; bring down | δαμῆναι ὑπὸ χερσί "be brought down at the hands of" (2.860, 2.874, 5.559; 16.420, 16.452, 16.854); ἐμῷ ὑπὸ δουρὶ δαμέντ- "brought down by my spear" (5.653, 11.444; 16.848; "beaten down" 11.749, 11.821); Sarpedon is "brought down" throughout Book 16 (16.434, 16.438, 16.543); "overpowered" where the blow does not yet kill (16.816) and for the press of battle (16.103); μοῖρα δάμασσε "fate brought him down" (18.119); of the heart "tame" (9.496; θυμὸν … δαμάσαντες "taming the dear heart", 18.113 = 19.66); of a goddess given to a mortal, ἀνδρὶ δάμασσεν "subdued me to a man" (18.432) |
 | δίκη | justice; judgment | δίκην ἐξελάσωσι "drive out justice" (16.388, the word's first use in the Iliad); δίκῃσί τε καὶ σθένεϊ ᾧ "with his judgments and his strength" (16.542); ἵνα μή τι δίκης ἐπιδευὲς ἔχῃσθα "so that you may have no lack of justice" (19.180), with δικαιότερος "more just" (19.181) |
-| ὄπις | regard (of the gods) | θεῶν ὄπιν οὐκ ἀλέγοντες "caring nothing for the regard of the gods" (16.388; Od. 14.82, 20.215, 21.28) |
-| ἐξεναρίζω | slay | ἐξενάριξαν, ἐξενάριξας "did they / did you slay" (5.703, 11.299; 16.692); σὺ δέ με τρίτος ἐξεναρίζεις "you are the third to slay me" (16.850) |
+| ὄπις | regard (of the gods) | θεῶν ὄπιν οὐκ ἀλέγοντες "caring nothing for the regard of the gods" (16.388; Od. 14.82, 20.215, 21.28); ὀπίζεο "you had no regard for me" (22.332) |
+| ἐξεναρίζω | slay; strip | ἐξενάριξαν, ἐξενάριξας "did they / did you slay" (5.703, 11.299; 16.692); σὺ δέ με τρίτος ἐξεναρίζεις "you are the third to slay me" (16.850); "strip" where the stripping is the point: "stripped of his armor" (4.488, 7.146), "stripped" (11.246), "was stripping" (5.842), "began to strip" (11.368), "did not strip" (6.417); in lists "slew and stripped" (5.151, 6.20, 6.30, 6.36, 11.335); of Hector over Patroclus, "were stripping" (22.331), and of Achilles over Hector, "had stripped" (22.376) |
 | ταφών | amazed | στῆ δὲ ταφών "and he stood amazed" (11.545, 16.806); "in amazement" (9.193, 11.777) |
-| ἀσπερχές | relentlessly | ἀσπερχὲς μενεαίνεις "that you rage so relentlessly" (4.32); ἀσπερχὲς κεχολῶσθαι "to be relentlessly angry" (16.61): vehemence that will not stop (Od. 1.20) |
-| ὀλοφύρομαι | grieve for; lament | with a genitive "grieve for" (8.33, 11.656; 16.17, 16.450); the participle before speech "lamenting" (5.871, 11.815, 15.114) |
+| ἀσπερχές | relentlessly | ἀσπερχὲς μενεαίνεις "that you rage so relentlessly" (4.32); ἀσπερχὲς κεχολῶσθαι "to be relentlessly angry" (16.61): vehemence that will not stop (Od. 1.20); again 22.10 (= 4.32); ἀσπερχὲς κλονέων "relentlessly driving him on" (22.188); ἀσπερχὲς πάρεχον "kept supplying them relentlessly" (18.556) |
+| ὀλοφύρομαι | grieve for; lament | with a genitive "grieve for" (8.33, 11.656; 16.17, 16.450); the participle before speech "lamenting" (5.871, 11.815, 15.114); of the heart, ὀλοφύρεται "grieves" (8.202, 16.450; 22.169) |
 | ἀνάγκη, ἀναγκαῖος | compulsion | ἀνάγκῃ "under compulsion" (16.305); ἦμαρ ἀναγκαῖον "the day of compulsion" (16.836), beside ἐλεύθερον ἦμαρ "the day of freedom" (16.831) and δούλιον ἦμαρ "the day of slavery" (6.463); ἀναγκαίηφι "under compulsion" (20.143) |
 | ἀήρ / ὀμίχλη / αἰθήρ / αἴθρη | mist / fog / upper air / clear sky | ἀήρ "mist" (3.381, 5.776, 8.50, 16.790; the mist over the body of Patroclus, 17.269, 17.368, 17.376, 17.644, 17.645, 17.649), kept apart from ἀχλύς "mist" over the eyes only by context; ὀμίχλη "mist" in similes (1.359, 3.10, 13.336), "fog" beside ἀήρ at 17.649; αἰθήρ "upper air" everywhere (2.412, 14.288, 16.365; ὑπʼ αἰθέρι "under the upper air" 17.371, 17.425); αἴθρη "clear sky" (17.646; αἰθρηγενέος "born of the clear sky" 15.171) |
 | περιβαίνω / ἀμφὶ (περὶ) … βαίνω | stand over / bestride | περιβάς, περιβάντα "standing over, stood over" (5.21, 8.331 = 13.420, 14.424; 17.80, 17.313); ἀμφὶ … βαῖνε "bestrode" (5.299; 17.4), περὶ … βαῖνε (17.6); βεβήκει "stood over" (17.137, 17.706) |
@@ -211,7 +211,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἐπήτριμος / ἐπισχερώ | in rows / one after another | ἐπήτριμοι, ἐπήτριμα "in rows" (18.211, 18.552; again 19.226), Leaf's "in rows, one after another" (on 18.211); ἐπισχερώ "one after another" (11.668; 18.68) |
 | ἠερόφωνος | far-voiced | κηρύκων … ἠεροφώνων "the far-voiced heralds" (18.505; only here in Homer), kept apart from λιγύφθογγος "clear-voiced" (2.50) and ἠπύτα "loud-voiced" (7.384): see the note on 18.505 |
 | σκῆπτρον | scepter; staff | "scepter" of kings, priests and heralds (1.15, 1.28, 2.101, 7.277; σκῆπτρα … κηρύκων "the scepters of the … heralds", 18.505; the king on the Shield, 18.557); "staff" once, the thick stick the lame Hephaestus leans on (18.416): a σκῆπτρον is not always a badge of office (Leaf on 18.550, citing Od. 13.437, 17.199, 18.103) |
-| θρόνος | throne; chair | "throne" of the gods (1.536, 8.199, 8.442, 14.238, 15.124, 15.142, 15.150; 18.389, 18.422); "chair" for Nestor's seat (11.645) |
+| θρόνος | throne; chair | "throne" of the gods (1.536, 8.199, 8.442, 14.238, 15.124, 15.142, 15.150; 18.389, 18.422); "chair" for Nestor's seat (11.645); kept apart from θρόνα "flowers" (22.441) |
 | ὅμιλος, ὁμιλέω | throng, be in the throng | ὅμιλος "throng" (3.22, 4.86, 7.218; 18.603; "crowd" once, 3.36); ὁμιλέω "be in the throng" (11.502; 18.194, 18.535, 18.539), "throng around" (16.641, 16.644), with a dative of the enemy "engage" (11.523, 13.779), "mingle" and "keep company" (5.86, 5.834); "the fray" stays μόθος (18.537) |
 | τέμενος | domain; precinct | of a king or hero "domain" (6.194, 9.578, 12.313; τέμενος βασιλήϊον "a king's domain", 18.550); of a god "precinct" (2.696, 8.48) |
 | ὄγμος / ὦλξ | swath; furrow / furrow | ὄγμος in reaping "swath" (11.68; 18.552, 18.557), in plowing "furrow" (18.546); ὦλξ "furrow" (13.707) |
@@ -221,7 +221,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἀναστενάχω / στενάχω | groan over / groan | ἀνεστενάχοντο "groaned over" Patroclus (18.315 = 18.355); ἀνεστενάχιζε "groan" (10.9); στενάχων "groaning" (18.318, 18.323) |
 | ἄγκος / βῆσσα | valley / glen | ἄγκεα "valleys" (18.321), as μισγάγκεια "where two valleys meet" (4.453); βῆσσαι "glens" (11.87, 14.397, 16.634, 16.766, 17.283; 18.588); ἄγκεα "valleys" (20.490) |
 | ῥώομαι | rush on; move nimbly | of warriors "rushed on" (11.50, 16.166); of the lame god's shins and of the handmaids who hold him up "moved nimbly" (18.411, 18.417) |
-| ἔρρω / χωλεύω | go on one's ill-starred way; hobble / limp | ἐνθάδε ἔρρων "on my ill-starred way here" (8.239, 9.364); ἔρρων "hobbling", of the lame god (18.421; see the note on 18.421); χωλεύων "limping" (18.411, 18.417) |
+| ἔρρω / χωλεύω | go on one's ill-starred way; hobble / limp | ἐνθάδε ἔρρων "on my ill-starred way here" (8.239, 9.364); ἔρρων "hobbling", of the lame god (18.421; see the note on 18.421); χωλεύων "limping" (18.411, 18.417); ἔρρε, ἔρρʼ "Off with you!" (8.164; 22.498), ἐρρέτω "Let him go to his ruin!" (20.349) |
 | ὀπυίω | marry | ὀπυιέμεν "to marry" (13.379, 14.268), ὄπυιε "married" (16.178), ὀπυιομένη "a bride" (8.304); ὄπυιε "had married" (18.383) |
 | στίχες | ranks | ἐπὶ στίχας "into the ranks" (2.687), "in the ranks" (3.113); κατὰ στίχας "in their ranks" (3.326); στίχας ἀνδρῶν "the ranks of men" (3.196, 4.231); of the dancers, ἐπὶ στίχας "in ranks" (18.602) |
 | ἄσπετος | boundless; untold | "boundless" of the upper air, of courage and of Oceanus' stream (8.558 = 16.300, 16.157; 18.403); "untold" of glory, tumult and rain (3.373 = 18.165, 10.523, 13.139; 18.218); "vast" of a forest and of spoil (2.455, 11.704) |
@@ -254,7 +254,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ἅρπη | bird of prey | ἅρπῃ ἐϊκυῖα τανυπτέρυγι λιγυφώνῳ "like a long-winged, shrill-voiced bird of prey" (19.350; only here in the Iliad): see the note on 19.350 |
 | ῥιγεδανός | at whom men shudder | εἵνεκα ῥιγεδανῆς Ἑλένης "for the sake of Helen, at whom men shudder" (19.325; only here in Homer), from the root of ῥιγέω "shudder" (3.259, 4.148, 5.351); στυγερός keeps "hateful" (19.230, 19.336) |
 | πρόφασις | for the sake of; outwardly | εὐνῆς πρόφασιν … κεχρημένος "wanting her for my bed" (19.262); Πάτροκλον πρόφασιν "for Patroclus outwardly" (19.302): the only two places in Homer; see the notes on 19.262 and 19.302 |
-| αἰόλος | writhing; nimble; flashing | αἰόλον ὄφιν "the writhing snake" (12.208); σφῆκες μέσον αἰόλοι "wasps with nimble waists" (12.167); πόδας αἰόλος ἵππος "the horse with flashing feet" (19.404; only here): see the notes on 12.167 and 19.404 |
+| αἰόλος | writhing; nimble; flashing | αἰόλον ὄφιν "the writhing snake" (12.208); σφῆκες μέσον αἰόλοι "wasps with nimble waists" (12.167); πόδας αἰόλος ἵππος "the horse with flashing feet" (19.404; only here): see the notes on 12.167 and 19.404; αἰόλαι εὐλαί "writhing worms" (22.509) |
 | ἐπίορκος, ἐπιορκέω | false oath, swear falsely | ὅτις κʼ ἐπίορκον ὀμόσσῃ "whoever has sworn a false oath" (3.279; 19.260); εἰ δέ τι τῶνδʼ ἐπίορκον "if any of this is falsely sworn" (19.264); οὐδʼ ἐπιορκήσω "and I will not swear falsely" (19.188); see the note on 10.330–332 |
 | ἀρέσκω, ἀπαρέσκομαι | make amends; make good | ἀρεσσάμενοι "make amends" (9.112); ἀρέσαι (9.120 = 19.138), ἀρεσάσθω (19.179), ἀπαρέσσασθαι (19.183) "make amends"; ἀρεσσόμεθα "we will make these things good", "right" (4.362, 6.526) |
 | θυμοβόρος | heart-devouring | ἔριδος … θυμοβόροιο "heart-devouring strife" (7.210, 7.301, 16.476); θυμοβόρῳ ἔριδι (19.58) |
@@ -267,7 +267,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | ῥίπτω | hurl; fling | of a god thrown from heaven "hurl" (1.591; 19.130); ῥῖψʼ ἐπιδινήσας "flung … whirling it around" (3.378; 19.267–268) |
 | κλισίη, κλισίαι | hut, huts | one man's κλισίαι are "huts" (2.227, 9.263, 13.253, 15.478; 19.141, 19.179, 19.263); κλισίη "hut" (19.191, 19.211) |
 | ἄμμορος / δυσάμμορος | ill-fated / most ill-fated | ἔμʼ ἄμμορον "me, ill-fated" (6.408); δυσάμμορε "most ill-fated one" (19.315; again 22.428, 22.485, 24.727); ἄμμορος with a genitive "has no share in" (18.489) |
-| ἐπιστενάχω | groan with | ἐπεστενάχοντο δʼ ἑταῖροι "and his companions groaned with him" (4.154); in tmesis ἐπὶ δὲ στενάχοντο "groaned with her", "with him" (19.301, 19.338) |
+| ἐπιστενάχω | groan with | ἐπεστενάχοντο δʼ ἑταῖροι "and his companions groaned with him" (4.154); in tmesis ἐπὶ δὲ στενάχοντο "groaned with her", "with him" (19.301, 19.338); again 22.429 ("and the citizens groaned with him") and 22.515 (= 19.301) |
 | νόημα | plans; thoughts; purpose; device; understanding | "plans" (10.104, 18.328), "thoughts" (18.295), "purpose" (17.409), "device" (7.456); of a man's wit, νοήματι … προβαλοίμην "I would surpass you in understanding" (19.218) |
 | κτῆσις / κτήματα | wealth / possessions | κτῆσις "wealth" (5.158, 14.491, 18.512; 19.333); κτήματα "possessions" (3.282, 9.400, 13.626) |
 | ταρφύς / θαμειός | thick; thick and fast | ταρφέα "thick" (11.69), "thick and fast" (13.718), ταρφειαί "thick and fast", of snowflakes and of helmets (19.357, 19.359); θαμειαί "thick and fast" (12.44, 14.422), "thick" (12.278, 12.287; 19.383) |
@@ -277,7 +277,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | λαῖτμα | gulf | πολιῆς ἁλὸς ἐς μέγα λαῖτμα "into the great gulf of the gray sea" (19.267; elsewhere only in the Odyssey) |
 | σῦριγξ | pipes; case | "pipes", the shepherds' and the Trojans' music (10.13, 18.526); of the socket that holds a spear, "case" (19.387; Leaf on 19.387) |
 | λόφος / ἔθειραι | plume; crest / plumes; horsehair; manes | λόφος "the plume" that nods on a helmet (3.337 = 11.42), "the plume of horsehair" (6.469); the golden λόφος Hephaestus makes, "crest" (18.612; 19.383), about which the ἔθειραι, "the plumes", are set (19.382); ἔθειραι "horsehair" (16.795), of horses "manes" (8.42 = 13.24) |
-| ἄχος | grief | ἄχος "grief" everywhere (1.188, 2.171, 4.169; 19.125, 19.307); ἦ μοι ἄχος "truly I have grief for" (20.293, as 4.169); κὰδ δʼ ἄχος οἱ χύτο μυρίον ὀφθαλμοῖσι "countless grief was poured over his eyes" (20.282: see the note on 20.282); ἀλλοτρίων ἀχέων "others' griefs" (20.298) |
+| ἄχος | grief | ἄχος "grief" everywhere (1.188, 2.171, 4.169; 19.125, 19.307); ἦ μοι ἄχος "truly I have grief for" (20.293, as 4.169); κὰδ δʼ ἄχος οἱ χύτο μυρίον ὀφθαλμοῖσι "countless grief was poured over his eyes" (20.282: see the note on 20.282); ἀλλοτρίων ἀχέων "others' griefs" (20.298); ἄχος ὀξύ "sharp grief" (19.125; 22.425) |
 | μυρίος | countless | "countless" (1.2, 2.272, 9.699, 12.327; 16.190); πένθος … μυρίον "countless grief" (18.88); ἄχος … μυρίον (20.282): kept apart from ἄσπετος "boundless" |
 | ἀρειή | threats | πολλὰ δʼ ἀρειῇ "and often with threats" (17.431); λευγαλέοις ἐπέεσσιν … καὶ ἀρειῇ "with wretched words and threats" (20.109): see the note on 20.109 |
 | κερτομίη / αἴσυλα | taunt / evil | ἠμὲν κερτομίας ἠδʼ αἴσυλα μυθήσασθαι "how to speak both taunts and evil words" (20.202 = 20.433); αἴσυλα ῥέζων "the evil he did" (5.403); κερτομέω "taunt" (2.256; 16.744) |
@@ -303,7 +303,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | κῆτος | sea monster | τὸ κῆτος "the sea monster" (20.147); κήτεα "the sea beasts" (13.27) |
 | ἐμμεμαώς | eagerly; in his fury | "eagerly" (5.240, 5.330, 13.785, 17.735, 17.746; 20.284); "in his fury" (5.142; 20.442); μάλʼ ἐμμεμαώς "in a great fury" (20.468) |
 | ἐπορούω | spring at | ἐπόρουσε "sprang at" (3.379, 5.436, 16.784; 20.284, 20.442, 20.445); "sprang upon", of leaping on a fallen enemy (11.580, 13.550) |
-| ἀλεύομαι | avoid | μῆνιν ἀλευάμενος "avoiding the wrath" (5.444, 16.711), ἀλευάμενος χόλον "avoiding the sheer anger" (15.223); ἀλευάμενος δόρυ μακρόν "having avoided the long spear" (20.281) |
+| ἀλεύομαι | avoid | μῆνιν ἀλευάμενος "avoiding the wrath" (5.444, 16.711), ἀλευάμενος χόλον "avoiding the sheer anger" (15.223); ἀλευάμενος δόρυ μακρόν "having avoided the long spear" (20.281); ἄλευαι "avoid" (22.285); the noun ἀλέη, οὐδʼ ἀλέη "nor any way to avoid it" (22.301), kept apart from ὑπάλυξις "escape" (22.270; ὑπαλύξαι "escape" 12.327, οὐδʼ ὑπάλυξας 11.451) |
 | εἶθαρ | at once | 5.337, 11.579, 12.353, 13.412, 17.119, 17.349, 17.707; 20.473 |
 | ἀναμαιμάω / εἰλυφάζω | rage through / whirl | ἀναμαιμάει "rages through" (20.490; only here); φλόγα εἰλυφάζει "whirls the flame" (20.492; only here), as εἰλυφόων ἄνεμος "the whirling wind" (11.156) |
 | κυδάνω | exult | μέγα κύδανον "exulted greatly" (20.42), intransitive, kept apart from κυδαίνω "give glory"; transitive at 14.73 (Leaf on 20.42) |
@@ -331,12 +331,70 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | λιλαίομαι / ἵεμαι (of a spear) | long / strain | λιλαιόμενα χροὸς ἆσαι "longing to glut themselves on flesh" (11.574, 15.317; 21.168); ἱεμένη χροὸς ἄμεναι "straining to glut itself on the flesh" (21.70) |
 | ἀρκέω | protect; keep off | οὐδʼ ἤρκεσε θώρηξ "the bronze corselet … did not protect him" (13.371–372, 13.397–398); ἀρκέσει "will protect you" (21.131); with ὄλεθρον, "keep off destruction" (2.873, 6.16, 15.534; 20.289); "kept it off" (15.529) |
 | σμαραγέω | resound | σμαραγεῖ "resounds", of the sea and a meadow (2.210, 2.463), of thunder (21.199) |
-| κλονέω | drive in confusion | κλονέοντας ὄπισθε "driving them in confusion from behind" (14.14, 15.7); κλονέονται "are driven in confusion" (18.7; 21.554), κλονέοντο "were … driven in confusion" (21.528); with ὀρινόμενοι, "are driven in turmoil and confusion" (14.59) |
+| κλονέω | drive in confusion | κλονέοντας ὄπισθε "driving them in confusion from behind" (14.14, 15.7); κλονέονται "are driven in confusion" (18.7; 21.554), κλονέοντο "were … driven in confusion" (21.528); with ὀρινόμενοι, "are driven in turmoil and confusion" (14.59); of a single man, ἀσπερχὲς κλονέων "relentlessly driving him on" (22.188); of the wind and the flame, "driving it everywhere" (20.492) |
 | ἀτύζομαι | be in terror | ἀτυζόμενοι "in terror" (6.41, 18.7; 21.4, 21.554); "bolting in terror" (6.38); "dazed by the smoke" (8.183); "one in terror" (15.90) |
 | μέλεος | idle; in vain; for nothing | μέλεον, adverbial, "idle" (10.480), "in vain" (16.336), "for nothing" (21.473): see the note on 21.473 |
 | κυνάμυια | dog-fly | (21.394, 21.421): see the note on 21.394 |
 | ἄητος / ἄημι | gale / blow | θάρσος ἄητον "your gale of daring" (21.395: see the note); θυμὸς ἄητο "the heart … was blown" (21.386); ἄητον "blow", of winds (9.5) |
 | δίνη / δινήεις | eddy / eddying | δῖναι "the eddies" (21.11, 21.132, 21.239, 21.353); "a deep eddy" (21.213), "the eddy" (21.246); Ξάνθος δινήεις "the eddying Xanthus" (2.877, 5.479, 14.434; 21.2, 21.332); "the eddying river" (8.490; 21.206); δινήεις alone, "eddying" (21.125) |
+| σχέτλιος | hard; hard man | σχέτλιος "hard god" (2.112, 9.19), "hard man" (5.403, 9.630, 10.164, 17.150, 18.13), "hard as he is" (8.361), "Hard son of Peleus" (16.203); of Achilles, "the hard man!" (22.41, 22.86); of Helen, σχετλίη "wretched woman" (3.414) |
+| ἐλεεινός | pitifully; in my misery | ἐλεεινά, adverbial, "pitifully" (2.314; 22.37, 22.408); ἐλεεινόν "in my misery" (21.273) |
+| εὖνις | bereft | εὖνιν ἔθηκε "has made me bereft" (22.44; in Homer again only Od. 9.524) |
+| μινυνθάδιος / μίνυνθα | short-lived / a little while | "short-lived" (1.352, 15.612, 21.84), μινυνθάδιος δέ οἱ αἰών "short was his life" (4.478, 17.302); of grief, the comparative, "shorter-lived" (22.54); μίνυνθα "for a little while" (12.356, 13.573, 14.358, 20.27) |
+| ἀμέρδω / ἀφαιρέομαι | rob / take (from) | ἀμέρσαι "to rob" (16.53); αἰῶνος ἀμερθῇς "be robbed … of your dear life" (22.58); ὄσσε δʼ ἄμερδεν "eyes were blinded" (13.340); ἀφείλεο "you have taken … from me" (22.18), ψυχὴν ἀφέλωμαι "I take your life" (22.257) |
+| δύστηνος / δύσμορος | unhappy / ill-fated | δυστήνων … παῖδες "the sons of unhappy men" (6.127, 21.151), δυστήνοισι μετʼ ἀνδράσιν "among unhappy men" (17.445); "unhappy as I am" (22.59), "unhappy that I am" (22.477); δύσμορος "ill-fated" (22.60, 22.481), kept apart from δυσάμμορος "most ill-fated" (22.428, 22.485) |
+| ῥέθεα | limbs | ἐκ ῥεθέων "from his limbs" (16.856 = 22.362; 22.68) |
+| πρόθυρον | doorway | (11.777, 15.124, 18.496, 19.212; 22.71) |
+| λαθικηδής | that makes care forgotten | λαθικηδέα μαζόν "the breast that makes care forgotten" (22.83; only here in Homer) |
+| πρόμος | champion | "champion" (7.75, 7.116, 7.136, 15.293; 22.85), "our champion" (3.44); πρόμον ἄνδρα "a man in the front rank" (5.533); it shares "champion" with πρόμαχοι |
+| θάλος | scion | φίλον θάλος "dear scion" (22.87), kept apart from ὄζος Ἄρηος "offshoot of Ares", ὄρπηξ "young shoots" (21.38) and ἔρνος "sapling" (17.53, 18.56) |
+| φάρμακον | drug | ἤπια φάρμακα "soothing drugs" (4.218, 11.515, 11.830), ὀδυνήφατα φάρμακα "pain-killing drugs" (5.401, 5.900), "drugs" (11.741, 15.394); of the snake, κακὰ φάρμακα "evil drugs" (22.94) |
+| ὑποχωρέω | give ground | ὑπεχώρησαν "gave ground" (6.107); οὐχ ὑπεχώρει "did not give ground" (22.96), "did not give way" (13.476) |
+| ἐλεγχείη | disgrace | ἐλεγχείην ἀναθήσει "to heap disgrace on me" (22.100; again 23.342, 23.408), kept apart from ὄνειδος "reproach" |
+| ὀαρίζω | talk intimately | ὀάριζε "had talked intimately" (6.516); ὀαριζέμεναι, ὀαρίζετον (22.127–128): see the note on 13.291 |
+| κορυθάϊξ | of the shaking helmet | κορυθάϊκι πτολεμιστῇ "the warrior of the shaking helmet", of Enyalius (22.132; only here in Homer), kept apart from κορυθαίολος "of the gleaming helmet" |
+| τρήρων | timid | τρήρωνα πέλειαν "a timid dove" (22.140); πολυτρήρων "of the many doves" (2.502, 2.582) |
+| σκοπιή | lookout | ἀπὸ σκοπιῆς "from a lookout" (4.275), ἐν σκοπιῇ "on a lookout" (5.771), ἐς σκοπιήν "at a lookout" (20.137); παρὰ σκοπιήν "past the lookout" (22.145); ἀλαοσκοπιή "a blind watch" (10.515, 13.10, 14.135) |
+| κρουνός / πηγή | spring / source | κρουνῶν ἐκ μεγάλων "from great springs" (4.454); κρουνώ "the two … springs" (22.147), κρουνούς "the springs" (22.208); πηγαί "the … sources" (22.147) |
+| σιγαλόεις | glossy | ἡνία σιγαλόεντα "the glossy reins" (5.226, 5.328, 8.116, 8.137, 11.128, 17.479); εἵματα σιγαλόεντα "the glossy clothes" (22.154), δέσματα σιγαλόεντα "the glossy bindings" (22.468) |
+| πτώσσω / καταπτήσσω | cower | πτώσσεις "do you cower" (4.371), καταπτώσσοντα "cowering" (4.224, 4.340), καταπτώσσειν (5.254), καταπτώσσουσι (5.476), πτώσσειν (5.634), πτώσσοντας (7.129), πτώσσουσι (21.14), πτῶσσον "cowered" (21.26), "shrink from each other" (20.427); καταπτήτην "cowered" (8.136); καταπτήξας "cowering" (22.191), kept apart from εἴλω "crouch" (22.308) |
+| ἀνανεύω | shake the head; refuse | ἀνένευε "shook her head" (6.311), "shook his head at his men" (22.205); ἀνένευσε "refused" (16.250, 16.252) |
+| ἠθεῖος | dear brother | ἠθεῖε, ἠθεῖʼ "Dear brother" (6.518, 10.37; 22.229, 22.239) |
+| κερδοσύνη | craft | κερδοσύνῃ "by craft" (22.247; Od. 4.251, 14.31) |
+| ἁρμονίη / συνημοσύνη | agreement | ἐπίσκοποι ἁρμονιάων "overseers of agreements" (22.255); συνημοσύνας "agreements" (22.261): the same compacts (Leaf on 22.261) |
+| καμμονίη | to outlast | δώῃ καμμονίην "grants me to outlast you" (22.256–257; again 23.661) |
+| πυρετός | fever | (22.31; only here in Homer: see the note on 22.26–31) |
+| ἄλαστος | accursed | ἄλαστε "accursed one", of a man, only at 22.261; elsewhere of grief, πένθος ἄλαστον (24.105; Od. 1.342), "not to be forgotten"; ἀλαστέω keeps "chafe" |
+| ἀϊκῶς | shamefully | ἑλκήσουσʼ ἀϊκῶς "will tear shamefully" (22.336; only here), the adverb of ἀεικής "shameful" (ἀεικέα … ἔργα "shameful deeds", 22.395) |
+| τέθναθι | lie dead | the perfect imperative, only at 22.365, spoken over a man already dead (22.364) |
+| ἄκλαυτος / ἄθαπτος | unwept / unburied | νέκυς ἄκλαυτος ἄθαπτος "a corpse unwept, unburied" (22.386; as Elpenor's plea, Od. 11.54, 11.72) |
+| κονίσαλος | cloud of dust | "a whirling cloud of dust" (3.13), "a cloud of dust" (22.401); "the dust" (5.503); kept apart from κονίη "dust" (22.402) |
+| κωκύω / κωκυτός | wail / wailing | κώκυσεν "wailed aloud" (18.37), "wailed very loudly" (22.407); κωκύσασα "wailing shrilly" (18.71), λίγʼ ἐκώκυε "wailed shrilly" (19.284); κωκυτός "wailing" (22.409, 22.447) |
+| κλαίω / μύρομαι | weep / weep; shed tears | μύρομαι "weep" (6.373, 17.438, 17.441, 18.234, 19.213, 19.340); beside κλαίω, κλαίοντέ τε μυρομένω τε "weeping and shedding tears" (22.427) |
+| ὄνειαρ | blessing | πᾶσί τʼ ὄνειαρ "and a blessing to all" (22.433); ἔσσεαι … ὄνειαρ "will you be … a blessing" (22.485–486) |
+| ἀκηδέστως | ruthlessly | ἕλκον ἀκηδέστως "were dragging him ruthlessly" (22.465; again 24.417); the adjective, passive, ἀκήδεστοι "unmourned" (6.60) |
+| ἱστός (of weaving) | web; loom | ἱστὸν ὕφαινε "was weaving a web" (3.125; 22.440); "at the loom" (1.31, 6.456), ἱστόν τʼ ἠλακάτην τε "the loom and the distaff" (6.491); of a ship, "mast" (1.434, 1.480) |
+| θρόνα | flowers | ἐν δὲ θρόνα ποικίλʼ ἔπασσε "and was working flowers of many colors into it" (22.441; only here in Homer), patterns in the cloth, not θρόνος "throne" |
+| ἄμπυξ / κεκρύφαλος / ἀναδέσμη / κρήδεμνον / καλύπτρη | headband / cap / band / veil / head covering | χρυσάμπυκες ἵπποι "the horses with golden headbands" (5.358, 5.363, 5.720, 8.382); ἄμπυκα κεκρύφαλόν τε ἰδὲ πλεκτὴν ἀναδέσμην "the headband, and the cap, and the plaited band" (22.469; κεκρύφαλος and ἀναδέσμη only here), δέσματα "bindings" (22.468); κρήδεμνον "veil" (14.184; 22.470; see the note on 16.97–100); καλύπτρη "head covering" (22.406) |
+| νήπιος αὔτως | a mere infant | πάϊς δʼ ἔτι νήπιος αὔτως "the boy is still a mere infant" (22.484; again 24.726); νήπιον αὔτως "an infant …, quite small" (6.400) |
+| πραπίδες | midriff; heart; skill | ἧπαρ ὑπὸ πραπίδων "in the liver beneath the midriff" (11.579, 13.412, 17.349); ἰδυίῃσι πραπίδεσσι "with his cunning skill" (1.608, 18.380, 18.482, 20.12); ἀπὸ πραπίδων "from my heart" (22.43) |
+| ὠμηστής | that eat raw flesh | of birds (11.454), of dogs (22.67) |
+| ὀλοός | deadly | "deadly" (3.133, 9.305, 11.71, 13.629, 13.665, 14.139, 15.605, 16.567–568, 16.771, 16.849, 18.535, 21.83; 22.5, 22.65, 22.102), ὀλοιῇσι φρεσί "with a ruinous mind" (1.342); of a god, the comparative "more baneful" (3.365) and the superlative "most baneful" (22.15), sharing "baneful" with οὖλος |
+| κατηφέω / κατηφείη | be downcast / a shame | κατηφήσας "downcast" (22.293); κατηφείη "a shame" (3.51), κατηφείη καὶ ὄνειδος "a shame and a reproach" (16.498, 17.556) |
+| ἀρτιεπής / ἐπίκλοπος | glib talker / cheat | ἀρτιεπὴς καὶ ἐπίκλοπος … μύθων "a glib talker and a cheat with words" (22.281; ἀρτιεπής only here in Homer, ἐπίκλοπος again Od. 11.364, 13.291, 21.397) |
+| λευκάσπις | of the white shield | of Deiphobus (22.294; only here in Homer) |
+| ἀκλεής / ἀκλειῶς | without glory | ἀκλεὲς αὔτως "without glory, just as you are" (7.100); οὐ … ἀκλεέες "not without glory" (12.318); ἀκλειῶς "without glory" (22.304), though κλέος is "fame" |
+| λάμπω, ἀπολάμπω / παμφαίνω | shine / gleam; shine bright | ἔλαμπε "shone" (13.245 = 22.32), ἐλάμπετο (22.134); ἀπέλαμπεν "shone" (6.295, 19.381), "shone from" (14.183; 22.319: see the note); παμφαίνων "gleaming" (6.513, 19.398; 22.26), elsewhere "shines out bright" (5.6), "shone bright" (11.30), "shining bright" (11.63) |
+| εὐήκης | well-sharpened | (22.319; only here in Homer) |
+| κληΐς | collarbone; key; bolt | κληῗδα "the collarbone" (5.146, 5.579), κληΐς (8.325), κληῗδες "the collarbones" (22.324); of a door, "the key" (6.89), "a … bolt" (12.456) |
+| λαυκανίη / ἀσφάραγος | throat / windpipe | λαυκανίην "at the throat" (22.325; again 24.642); ἀσφάραγον "the windpipe" (22.328; only here in Homer) |
+| χαλκοβάρεια | heavy with bronze | of a helmet (11.96); of the ash spear, μελίη … χαλκοβάρεια (22.328) |
+| ἐμπνύνθη, ἔμπνυτο / ἄμπνυε | breathed again; came to himself (herself) / catch your breath | ἐμπνύνθη "breathed again" (5.697), ἀμπνύνθη "got his breath back" (14.436); ἔμπνυτο "came to himself" (11.359), "came to herself" (22.475); ἄμπνυε "catch your breath" (22.222) |
+| ἀγηνορίη | pride | (9.700, 12.46; 22.457), kept apart from εὐχωλή "boast" (22.433) |
+| ἀμφίπολος / δμῳαί | handmaid / slave women | ἀμφίπολοι "handmaids" (3.143, 3.422, 6.286, 6.324, 6.372, 6.399, 6.491, 6.499, 18.417; 22.442, 22.461); δμῳαί "slave women" (6.323, 6.375–376, 9.477, 9.658, 18.28; 22.449) |
+| ἑκυρός / ἑκυρή | father-in-law / mother-in-law | φίλε ἑκυρέ "dear father-in-law" (3.172); αἰδοίης ἑκυρῆς "my revered mother-in-law" (22.451; again 24.770) |
+| ἀμβλήδην | with deep sobs | ἀμβλήδην γοόωσα "lamenting, with deep sobs" (22.476; only here in Homer) |
+| παναφῆλιξ / ὑπεμνήμυκε / ὑπερῴη / ἀμφιθαλής | without friends of his own age / hangs his head / palate / whose parents are both alive | the orphan of Andromache's lament (22.490, 22.491, 22.495, 22.496; each only here in Homer, ὑπερῴη in this sense) |
 
 ## Epithets and formulas
 
@@ -521,7 +579,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | θηλύτεραι γυναῖκες | the womenfolk |
 | πολύδακρυς Ἄρης / ὀξὺς Ἄρης | tearful Ares (3.132, 8.516) / sharp Ares; ἐγείρειν ὀξὺν Ἄρηα "rouse sharp Ares" (2.440, 4.352, 8.531) |
 | ἀρηΐθοοι αἰζηοί | young men swift in war |
-| νὺξ ἐρεβεννή | the murky night (5.659, 8.488) |
+| νὺξ ἐρεβεννή | the murky night (5.659, 8.488, 9.474, 13.425, 13.580; 22.466); ἐρεβεννός elsewhere "murky": "a murky mist" (5.864), "the murky clouds" (22.309) |
 | ὣς ἄρα φωνήσας (-σα) | So he (she) spoke, and (1.428 … 7.303, 8.157, 8.432) |
 | τάφρος ὀρυκτή | the ditch they have dug (8.179); with the Trojans as the subject, "the ditch that had been dug" (16.369) |
 | οἳ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον | And they put out their hands to the good things lying ready before them (9.91, 9.221) |
@@ -558,7 +616,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | Γοργὼ βλοσυρῶπις | the grim-faced Gorgon (11.36) |
 | ἄσβεστος βοή | an unquenchable cry (11.50, 11.500, 11.530) |
 | οὔλιος ἀστήρ | a baleful star (11.62) |
-| κῦδος ὀρέξαι | hold out glory (5.33, 5.225, 5.260, 11.79) |
+| κῦδος ὀρέξαι | hold out glory (5.33, 5.225, 5.260, 11.79; 22.57) |
 | νυκτὸς ἀμολγῷ | in the dead of night (11.173) |
 | Ἴδη πιδήεσσα | Ida rich in springs (11.183) |
 | χάλκεον ὕπνον κοιμᾶσθαι | to sleep the sleep of bronze (11.241) |
@@ -577,12 +635,12 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | μοῖρα δυσώνυμος | fate of evil name (12.116) |
 | ἀνέμοιο θύελλα | a storm of wind (6.346, 12.253) |
 | θεσπιδαὲς πῦρ | a wondrous fire (12.177, 12.441; 21.342, 21.381) |
-| αἰετὸς ὑψιπέτης | an eagle flying high (12.201, 12.219, 13.822) |
+| αἰετὸς ὑψιπέτης | an eagle flying high (12.201, 12.219, 13.822); in the longer form αἰετὸς ὑψιπετήεις (22.308) |
 | Διὸς τέρας αἰγιόχοιο | the portent of aegis-bearing Zeus (5.742, 12.209) |
 | εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης | One omen is best: to fight in defense of our native land (12.243) |
 | Λυκίων (Τρώων) πύκα θωρηκτάων | the close-armored Lycians (12.317); the close-armored Trojans (15.689, 15.739) |
-| εὖχος ὀρέξαι | hold out triumph (12.328), as κῦδος ὀρέξαι "hold out glory" |
-| πολέμου ἀκόρητος | insatiable of war (12.335; μόθου ἀκόρητος "insatiable of the fray", 7.117); μάχης ἀκόρητος "insatiable of battle" (13.639; of Achilles, 20.2) |
+| εὖχος ὀρέξαι | hold out triumph (12.328, 13.327; 22.130), as κῦδος ὀρέξαι "hold out glory" |
+| πολέμου ἀκόρητος | insatiable of war (12.335; μόθου ἀκόρητος "insatiable of the fray", 7.117); μάχης ἀκόρητος "insatiable of battle" (13.639; of Achilles, 20.2); μάχης ἄατος "insatiable of battle", of Hector (22.218) |
 | κασίγνητος καὶ ὄπατρος | his brother by the same father (11.257, 12.371) |
 | οἷοι νῦν βροτοί εἰσι | such as mortals are now (5.304, 12.383, 12.449) |
 | νυκτὶ θοῇ ἀτάλαντος ὑπώπια | his face like swift night (12.463) |
@@ -669,7 +727,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | δριμεῖα μάχη | a bitter battle (15.696) |
 | φάσγανα … μελάνδετα κωπήεντα | swords with black-bound hilts (15.713) |
 | ὄρνυτʼ ἀϋτήν | raise the war cry (15.718) |
-| ἀκάματον πῦρ / πυρὶ κηλέῳ (κηλείῳ) | tireless fire (5.4, 15.598, 15.731) / with blazing fire (8.217, 8.235; πυρὶ κηλείῳ 15.744) |
+| ἀκάματον πῦρ / πυρὶ κηλέῳ (κηλείῳ) | tireless fire (5.4, 15.598, 15.731) / with blazing fire (8.217, 8.235; πυρὶ κηλείῳ 15.744; 22.374, 22.512) |
 | λείουσιν ἐοικότες ὠμοφάγοισι | like lions that eat raw flesh (5.782, 7.256, 15.592) |
 | τὸν μὲν ἄρʼ ὣς εἰπόντα πόδες φέρον | So he spoke, and his feet carried him off (15.405) |
 | Πατρόκλεες ἱππεῦ (τὸν δʼ … προσέφης) | horseman Patroclus (16.20, 16.744, 16.812, 16.843); the frames keep their own formulas: "Groaning heavily, you said to him" (16.20, as 1.364), "Then you spoke to him feebly" (16.843, as 15.246) |
@@ -715,7 +773,7 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | Τρῳῇσι(ν) … κυσί | the Trojan dogs (17.127, 17.255, 17.272–273) |
 | ἠέρα πολλὴν χεῦε | poured a thick mist (5.776, 8.50; 17.269) |
 | ἠέρι κατέχοντο | were covered in mist (17.368, 17.644) |
-| ζωὸς ἐών· νῦν αὖ θάνατος καὶ μοῖρα κιχάνει | while he lived; but now death and fate have overtaken him (17.478 = 17.672 = 22.436) |
+| ζωὸς ἐών· νῦν αὖ θάνατος καὶ μοῖρα κιχάνει | while he lived; but now death and fate have overtaken him (17.478 = 17.672 = 22.436); νῦν αὖτέ με μοῖρα κιχάνει "but now my fate has overtaken me" (22.303) |
 | θεῶν ἐν γούνασι κεῖται | lie on the knees of the gods (17.514; again 20.435; Od. 1.267, 1.400, 16.129) |
 | μένος ἠΰ | noble might (17.456; again 20.80, 23.524, 24.6, 24.442) |
 | δὴν δέ μιν ἀμφασίη ἐπέων λάβε, τὼ δέ οἱ ὄσσε / δακρυόφι πλῆσθεν, θαλερὴ δέ οἱ ἔσχετο φωνή | and for a long time speechlessness took him, and his two eyes / filled with tears, and his strong voice was checked (17.695–696 = Od. 4.704–705; the second verse again 23.397 and Od. 19.472) |
@@ -759,12 +817,12 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | καταδημοβορῆσαι | to consume in common (18.301; only here; see the note on 18.300–302) |
 | θεῶν ἰότητι | by the will of the gods (19.9) |
 | μένος πολυθαρσές | a might full of daring (17.156; 19.37) |
-| ὀδὰξ ἕλον (ἄσπετον) οὖδας | bit the (boundless) ground with their teeth (11.749; 19.61) |
+| ὀδὰξ ἕλον (ἄσπετον) οὖδας | bit the (boundless) ground with their teeth (11.749; 19.61); γαῖαν ὀδὰξ εἷλον "would have bitten the earth with their teeth" (22.17; as 2.418) |
 | λιγὺς … ἀγορητής | clear-voiced orator (1.248, 2.246; 19.82) |
 | ἐϋστεφάνῳ ἐνὶ Θήβῃ | in well-crowned Thebes (19.99; ἐϋστέφανος of a city only here in Homer) |
 | καρτερὸν ὅρκον / μέγαν ὅρκον | a mighty oath (19.108, 19.127) / a great oath (1.233, 9.132, 9.274; 19.113) |
 | ἰφθίμη ἄλοχος | the strong wife (5.415; 19.116) |
-| Ζεῦ πάτερ ἀργικέραυνε | Father Zeus of the gleaming thunderbolt (19.121); ὦ πάτερ ἀργικέραυνε (22.178); ἀργικέραυνε alone, "lord of the gleaming thunderbolt" (20.16) |
+| Ζεῦ πάτερ ἀργικέραυνε | Father Zeus of the gleaming thunderbolt (19.121); ὦ πάτερ ἀργικέραυνε κελαινεφές "Father, lord of the gleaming thunderbolt and of the dark clouds" (22.178); ἀργικέραυνε alone, "lord of the gleaming thunderbolt" (20.16) |
 | κεφαλῆς λιπαροπλοκάμοιο | by her head of shining tresses (19.126; only here) |
 | ἐπειγόμενός περ Ἄρηος | eager though you are (he is) for Ares (19.142, 19.189) |
 | πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα | all day long, until the sun went (goes) down (1.601; 19.162) |
@@ -822,6 +880,30 @@ American spelling is used throughout (“gray-eyed Athena”, “the gray sea”
 | κυλλοποδίων | the crook-footed god (18.371, 20.270); in address, "crook-footed one" (21.331) |
 | Ἰλήϊον πεδίον | the Ilean plain (21.558: see the note) |
 | ταρβεῖ οὐδὲ φοβεῖται | of a beast at bay, "never fears or flees" (12.46, with οὔ ποτε), "neither fears nor flees" (21.575, with οὔτε τι) |
+| ἐπίκλησιν καλέουσι | call by the name of (18.487; 22.29, 22.506); "called by the name of" (7.138) |
+| δειλοῖσι βροτοῖσιν | to wretched mortals (22.31, 22.76) |
+| ἐν αἰνῇ δηϊοτῆτι | in grim combat (3.20, 7.40, 7.51, 13.207, 13.603, 15.512; 22.64) |
+| ἄμοτον μεμαώς | raging without end (4.440, 5.518, 13.40, 13.80; 22.36) |
+| χεῖρας ὀρεγνύς | stretching out his hands (1.351; 22.37) |
+| πότμον ἐπισπεῖν / θάνατον καὶ πότμον ἐπισπεῖν | meet one's fate (6.412; 22.39) / meet one's death and one's fate (2.359, 15.495, 20.337); "die and meet your end" (7.52) |
+| ἀσπὶς ὀμφαλόεσσα | the bossed shield (4.448, 6.118, 8.62, 11.259, 11.424, 11.457, 12.161, 13.264, 16.214, 19.360; 22.111) |
+| κόρυς βριαρή | the heavy helmet (11.375, 16.413, 16.579, 18.611, 20.162; 22.112) |
+| γερούσιος ὅρκος | an oath of the elders (22.119), as γερούσιον αἴθοπα οἶνον "the sparkling wine of the elders" (4.259) |
+| ἔριδι ξυνελαύνω | drive together in strife (21.394; 22.129) |
+| ἶσος Ἄρηϊ / ἶσος Ἐνυαλίῳ | the equal of Ares (11.295, 11.604, 13.802) / the equal of Enyalius (22.132) |
+| οἷον ἔειπες | what a thing you have said (7.455, 8.152, 16.49; 22.178; ποῖον ἔειπες 13.824); "from what you have said" (14.95, 17.173) |
+| πύλαι Δαρδανίαι | the Dardanian gates (5.789; 22.194, 22.413) |
+| πατρὸς Διὸς αἰγιόχοιο | of aegis-bearing father Zeus (7.60, 11.66); "before aegis-bearing father Zeus" (22.221) |
+| λαιψηρὰ (πόδας καὶ) γούνατʼ ἐνώμα / μένος λαιψηρά τε γοῦνα | plied his nimble (feet and) knees (10.358, 15.269; 22.24, 22.144) / my (his) might and my (his) nimble knees (20.93; 22.204) |
+| ἵππος ἀθλοφόρος (ἀεθλοφόρος) | prize-winning horse(s) (11.699; 22.22, 22.162); "strong prize-winners" (9.124, 9.266) |
+| ἀρίζηλοι δέ οἱ αὐγαί | of lightning, its flashes are plain for all to see (13.244); of the star, its rays are plain for all to see (22.27) |
+| Τρῶας καὶ Τρῳάς / Τρῶας καὶ Τρῳάδας | the Trojans and the Trojan women (22.57; Τρωσί τε καὶ Τρῳῇσι 22.434, πρὸς Τρώων καὶ Τρωϊάδων 22.514) / the Trojans and the Trojan women with trailing robes (6.442 = 22.105) |
+| ἔρδʼ / ἔρξον | Do it (4.29 = 16.443 = 22.181) / Do as you wish (4.37), do as your mind is set (22.185) |
+| ὣς φάμενος, ὣς φαμένη | So saying (5.290, 5.835; 22.247, 22.460) |
+| ἐκέκλετο μακρὸν ἀΰσας / μακρὸν ἄϋσε | called out to …, shouting aloud (6.66, 6.110, 8.172, 11.285, 15.346, 15.424, 15.485, 16.268, 17.183); called to …, shouting aloud (22.294) / shouted aloud (3.81, 5.101, 5.283, 5.347, 8.160) |
+| καλὸς δαιδάλεος | fine and intricately worked (16.222, 18.390, 18.612, 19.380; 22.314) |
+| Ἕκτορα δῖον ἀεικέα μήδετο ἔργα | devised shameful deeds against brilliant Hector (22.395; again 23.24) |
+| καὶ ἐσσομένοισι πυθέσθαι | even for men to come to hear of (2.119; 22.305) |
 
 The Catalogue of Ships keeps the Greek order of names within each line, so that every town and
 leader stays on its own verse. Place names use their customary Latin forms (Eilesium, Pteleus,
@@ -917,7 +999,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
   eye-holes" (also 11.353, 13.530, 16.795).
 - **5.245** — ἶνʼ ἀπέλεθρον: "measureless strength" (ἀπέλεθρος, "beyond measure", from πέλεθρον, a measure
   of length; also 7.269).
-- **5.289** — ταλαύρινος πολεμιστής, of Ares: "bearing the oxhide shield", as rendered, or "stubborn in
+- **5.289** — ταλαύρινος πολεμιστής, of Ares: "the warrior with the oxhide shield", as rendered, or "stubborn in
   fight" (also 20.78, 22.267).
 - **5.339** — πρυμνὸν ὕπερ θέναρος: "above the base of the palm", that is, at the wrist, as 5.458 and 5.883
   say (χεῖρʼ ἐπὶ καρπῷ).
@@ -963,7 +1045,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **6.252** — Λαοδίκην ἐσάγουσα: "leading in Laodice", as the verb most naturally means, as rendered; an ancient explanation takes it as "going in to Laodice", to her daughter's rooms. θυγατρῶν εἶδος ἀρίστην as at 3.124.
 - **6.326** — χόλον τόνδε, "this anger": Hector does not say what Paris is angry at. Paris' reply takes it as anger at the Trojans (6.335), who hated him (3.454). The word may be Hector's tactful name for a holding back that he later calls willful (ἑκὼν μεθιεῖς, 6.523; compare 3.45). Rendered "this anger".
 - **6.344** — ὀκρυοέσσης: usually explained as κρυοέσσης, "chilling", wrongly divided from an older genitive in -οο (κακομηχάνοο κρυοέσσης); compare κρυόεσσα Ἰωκή (5.740), φόβου κρυόεντος (9.2) and ἐπιδημίου ὀκρυόεντος (9.64). Rendered "chilling".
-- **6.394** — ἄλοχος πολύδωρος (also 22.88; Od. 24.294): "richly dowered", bringing many gifts to her husband's house, as rendered, or "won with many gifts", since Hector gave countless bride-gifts for her (ἐπεὶ πόρε μυρία ἕδνα, 22.472).
+- **6.394** — ἄλοχος πολύδωρος (also 22.88; Od. 24.294): "richly dowered", bringing many gifts to her husband's house, as rendered, or "won with many gifts", since Hector gave a countless bride-price for her (ἐπεὶ πόρε μυρία ἕδνα, 22.472).
 - **6.433–439** — Andromache's advice to post the army by the wild fig tree, where the wall can be scaled, was athetized in antiquity (by Aristarchus) as unfit for her to give, and Hector's reply (6.441–446) passes it over. The fig tree is a landmark near the wall (11.167, 22.145). Rendered as transmitted.
 - **6.456–457** — ἐν Ἄργει: Greece at large, or the Argolid. Hypereia is the Thessalian spring of 2.734 (κρήνην Ὑπέρειαν), and Messeis is named only here, so the springs place Andromache in no single region. Rendered "Argos" and "Messeis or Hypereia".
 - **6.479–480** — καί ποτέ τις εἴποι: the optative makes Hector's words a wish, "and may someone say", where the same formula elsewhere predicts with the subjunctive εἴπῃσι (6.459, 7.87). ἀνιόντα (6.480) agrees with no word in the sentence: the words are said of the boy "as he comes back from war". Rendered as a wish.
@@ -1134,7 +1216,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **10.428–431** — Dolon's allies do not follow the Trojan Catalogue (2.816–877): the Pelasgians, Paeonians, Mysians, Phrygians, Maeonians, Carians and Lycians are there, but not the Leleges (also 20.96, 21.86) or the Caucones (20.329; Od. 3.366). Thymbre is named only here; Strabo, citing this verse, places the plain of Thymbra, with the river Thymbrius and the temple of Thymbraean Apollo, near the older site of Ilium (13.1.35). Rendered "toward Thymbre".
 - **10.437** — λευκότεροι χιόνος: white horses are named nowhere else in Homer. In the Rhesus, Rhesus' team is "brighter than snow" (304) and his mares are white, shining like a river swan's wing (616–618); Nestor likens the horses to the rays of the sun (10.547). Rendered "whiter than snow".
 - **10.460** — ληΐτιδι (only here): Athena "of the spoil" (ληΐς, "booty"), to whom Odysseus holds up Dolon's arms; compare ἀγελείη, "driver of spoil" (4.128). Rendered "goddess of the spoil".
-- **10.463** — ἐπιδωσόμεθα, with the accusative σέ: as θεοὺς ἐπιδώμεθα, "let us call the gods (to witness)" (22.254), so "you, first of all the immortals, we will call upon"; it has also been taken as "we will give (gifts) to you". Rendered "we will call upon".
+- **10.463** — ἐπιδωσόμεθα, with the accusative σέ: as θεοὺς ἐπιδώμεθα, "let us call upon the gods" (22.254), so "you, first of all the immortals, we will call upon"; it has also been taken as "we will give (gifts) to you". Rendered "we will call upon".
 - **10.466** — δέελον (only here): a form of δῆλος, "clear to see"; compare εὐδείελος, of Ithaca (Od. 2.167, 9.21). Rendered "a clear mark".
 - **10.475** — ἐξ ἐπιδιφριάδος πυμάτης (only here): the rail around the chariot box (δίφρος), at its end, to which the horses are tied. Rendered "the end of the chariot rail".
 - **10.494–497** — Rhesus is the thirteenth man, after the twelve of 10.488. κακὸν γὰρ ὄναρ κεφαλῆφιν ἐπέστη … Οἰνεΐδαο πάϊς: Diomedes, grandson of Oeneus (14.117–118), stands over the sleeper's head as dreams do (2.20, 2.59; 23.68), an evil dream that night by Athena's design. The verses can also be read of a real dream in which Rhesus saw him; in the Rhesus the charioteer dreams of wolves mounted on the horses' backs (780–788). Rendered "an evil dream … the son of Oeneus' son".
@@ -1318,7 +1400,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **13.796** — εἶσι πέδον δέ: the digitized text divides πέδονδε, "to the ground", with the suffix of direction (printed whole at Od. 11.598), as it divides Κύπρονδε at 11.21; the particle δέ does not construe here. The English and the lexicon read the suffix: "comes down to the plain".
 - **13.824** — ἁμαρτοεπές (only here; compare ἀφαμαρτοεπής, "missing the point", 3.215) and βουγάϊε (also Od. 18.79, Antinous to the beggar Irus): βουγάϊος is of uncertain sense, explained as "boaster" (βου-, "big", and γαίω, "exult") or as "big ox, lout". Rendered "blundering in speech, you braggart".
 - **13.825–828** (compare 8.538–541) — Hector's wish has the form of 8.538–541, "If only I were … as surely as this day brings evil to the Argives", with "the son of aegis-bearing Zeus all my days, and queen Hera had borne me" in place of "immortal and ageless all my days"; 13.827 = 8.540. The impossible wish measures his certainty; it is no claim to divine birth. Rendered as at 8.538–541.
-- **13.837** — Διὸς αὐγάς (only here): "the rays of Zeus", the brightness of the heaven where he dwells, beside αἰθήρ, "the upper air"; αὐγαί are elsewhere the rays of the sun (8.480, 16.188), the light of a star (22.27) and the flashes of Zeus' lightning (13.244). Rendered "the rays of Zeus".
+- **13.837** — Διὸς αὐγάς (only here): "the rays of Zeus", the brightness of the heaven where he dwells, beside αἰθήρ, "the upper air"; αὐγαί are elsewhere the rays of the sun (8.480, 16.188), the rays of a star (22.27) and the flashes of Zeus' lightning (13.244). Rendered "the rays of Zeus".
 - **14.16** — πορφύρῃ: πορφύρω is used elsewhere in Homer only of a heart turning things over (21.551; Odyssey 4.427, 4.572, 10.309), and of the sea only here. It is taken as "heave, surge", beside the sea's πορφύρεον κῦμα, "the surging wave" (1.482), though "grow dark", from πορφύρεος, is also defended. Rendered "heaves".
 - **14.31–36, 14.75** — The ships: τὰς … πρώτας (31) are the ships beached first, hauled farthest toward the plain, with the wall built along their sterns; νῆες ὅσαι πρῶται (75) are the row nearest the sea, which Agamemnon would launch first. προκρόσσας (35, only here in Homer) is "in rows", one behind another, like the κρόσσαι "copings" of the wall (12.258): Herodotus says that the Persian fleet off Magnesia lay πρόκροσσαι, eight ships deep, "because the beach was not large" (7.188.1). Rendered literally.
 - **14.78** — νὺξ ἀβρότη (only here): ἀβρότη is taken as ἄμβροτος without the μ, "immortal, divine", as night is ἀμβροσίη (2.57). Rendered "the immortal night".
@@ -1809,3 +1891,43 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **21.587** — οἳ καί, Aristarchus' reading, for οἵ κε (Leaf on 21.587).
 - **21.594** — Leaf (on 21.594) thinks the line added to recall the god's making of the arms; A omits it.
 - **21.611** — σαώσαι, Aristarchus' reading, for σάωσαν (Leaf on 21.611).
+- **22.1** — πεφυζότες "in panic", as 21.6, 21.528, 21.532 (Leaf on 22.1; see the note on 21.6–7).
+- **22.2** — ἀπεψύχοντο, "let the sweat dry from them": the scholia report both ἀπ- and ἀνεψύχοντο, and Aristarchus is said to have written ἀνεψύχοντο; Leaf (on 22.2) holds that ἀπό is the preposition required, as the verb recurs without a variant at 11.621 and 21.561. ἀκέοντο, of thirst, "quenched", a unique use: the verb is regularly used of healing wounds, and also of mending ships and repairing an error (Leaf on 22.2).
+- **22.4** — σάκεʼ ὤμοισι κλίναντες, "leaning their shields against their shoulders", the formation of 11.593 and 13.488, there made to receive a charge; how it serves an advance is unclear, and Leaf (on 22.4) suggests a reconnaissance made with every precaution.
+- **22.5** — ὀλοιή for ὀλοή, "deadly", only here, 1.342 and Hymn to Aphrodite 224 (Leaf on 22.5).
+- **22.6** — Ἰλίου, to be read Ἰλίοο (Leaf on 22.6, referring to his note on 21.104).
+- **22.7** — Apollo still has the likeness of Agenor (21.600) (Leaf on 22.7).
+- **22.10** — σὺ δέ: the contrast is between the two actions, not the two persons (Leaf on 22.10, comparing 1.191). The second half of the line is 4.32; the Syriac palimpsest adds 4.33 here, out of place (Leaf on 22.10).
+- **22.11** — Τρώων πόνος, an objective genitive, "your toil against the Trojans", their slaughter, not their distress; the manuscripts do not have here the usual variant φόνος (Leaf on 22.11).
+- **22.13** — μόρσιμος of a person, "predestined", as Od. 16.392 = 21.162; elsewhere only μόρσιμον ἦμαρ and μόρσιμον ἦεν (Leaf on 22.13). Since the speaker is a god, rendered "I am not fated to fall to you".
+- **22.15** — ἔβλαψας, "you have foiled me": in this sense used in Homer only of divine agency (9.507, 15.724), except Od. 21.294. Bentley conjectured βλάψας με, ϝεκάεργε; others move μʼ into the next line (Leaf on 22.15). ὀλοώτατε "most baneful", as ὀλοώτερος "more baneful" (3.365) (Leaf on 22.15).
+- **22.20** — Compare Od. 2.62; the T scholia report a reading ᾗ for ἦ (Leaf on 22.20).
+- **22.23** — For ὅς ῥά τε ῥεῖα the reading ὅς τε ῥεῖα "may be right" (Leaf on 22.23, referring to his note on 17.462); πεδίοιο is most simply taken with θέῃσι, "runs … over the plain" (Leaf on 22.23).
+- **22.24** — = 15.269. λαιψηρά is an adverb or a predicative epithet; as an epithet it comes from λαιψηρὰ … γοῦνα (10.358, 20.93; 22.144, 22.204) (Leaf on 22.24).
+- **22.26–31** — The star of late summer is Sirius, the ἀστὴρ ὀπωρινός of 5.5, called "the dog of Orion" (29). Sirius is seen at night only in winter and spring, and its rising at dawn in late summer marks the season of fever; Leaf (on 22.27) asks whether the poet joined the star's brightness and deadliness by poetic licence, or whether νυκτὸς ἀμολγῷ ("in the dead of night", as 11.173, 15.324) means the twilight; the same question returns at 317. ἐπίκλησιν, "by the name of", may mean "as a second name", as at 18.487 (Leaf on 22.29). πυρετός, "fever", occurs only here, and in its proper sense (the scholia, as Leaf on 22.31 reports).
+- **22.34** — ἀνασχόμενος, with χεῖρας understood, as 23.686: a violent gesture (Leaf on 22.34). Rendered "lifting them up high", the hands of 33.
+- **22.41, 22.86** — σχέτλιος, "the hard man!", of Achilles at 41, where the verbs before and after are his; otherwise, Leaf says (on 22.41), the word would more naturally go to Hector, "rash", in the tone of friendly but shocked remonstrance it so often has, and he cites 86 (with 10.164, 18.13). At 86 it is Hecuba's word, and the English takes it there too of Achilles.
+- **22.42** — ἔδοιεν, the optative, is Aristarchus' reading; the manuscripts all give ἔδονται. Leaf (on 22.42) prefers the optative, since Priam does not mean to express any confident hope that the dogs will soon eat Achilles.
+- **22.43** — κείμενον, "as he lay", unburied; ἀπό goes with ἔλθοι, and ἦ … ἔλθοι is a parenthesis (Leaf on 22.43).
+- **22.45** — The T scholia mention a variant θηλυτεράων here too (Leaf on 22.45, comparing 21.454).
+- **22.46–55** — Lycaon and Polydorus, Laothoe's sons, die at 21.34–135 and 20.407–418 (Leaf on 22.46). κρείουσα γυναικῶν (48; only here) makes Laothoe a full wife, a sign of polygamy among the Trojans, never hinted at among the Greeks (Leaf on 22.48). Leaf (on 22.51) thinks van Leeuwen right to omit 51 as a late addition, since gifts to a daughter at marriage belong to the end of the Homeric period, and reports that Hoffmann rejected 46–55 and Naber 46–53.
+- **22.117–120** — ἄνδιχα πάντα δάσασθαι, "to divide in two all" (120): half of the city's movable goods left to its people, half taken by the besiegers as ransom, the terms put to the besieged city on the shield (18.511), whose sense Leaf (on 18.511) takes from these lines. ἀμφὶς … ἀποδάσσεσθαι (117–118) is rendered "to share out a part of".
+- **22.134** — ἀμφί, "around him", to right and left, of the armor generally (Leaf on 22.134, comparing 13.245).
+- **22.216** — The digitized text printed νῶι without the diaeresis, the only such spelling in it; νῶϊ is restored.
+- **22.254** — θεοὺς ἐπιδώμεθα, "let us call upon the gods": see the note on 10.463.
+- **22.261** — ἄλαστε, "accursed one" (for Leaf see his note on 12.163); συνημοσύνας, "agreements", the ἁρμονίαι of 255 (compare συνώμεθα, 13.381), written by Herodian with the rough breathing inside the word (Leaf on 22.261).
+- **22.309, 22.362, 22.456** — πεδίον δέ (309, 456) and Ἄϊδος δέ (362) are the suffix of direction printed as a separate word (πεδίονδε, Ἄϊδόσδε), as at 16.856 and 21.3: "down to the plain", "went to Hades", "toward the plain".
+- **22.315–316** — = 19.382–383. Leaf (on 22.315) thinks the second line out of place in the old part of the poems, where the making of the arms is unknown; on 19.382 he takes that line as borrowed from here, where Achilles is in rapid motion and περισσείοντο has its full force, and 383 (= 316) as "in both places an interpolation".
+- **22.319** — ἀπέλαμπε, impersonal, "there was a gleam", with σέλας or the like understood (19.379), a use hardly paralleled in Homer (Leaf on 22.319). Rendered "so light shone from the well-sharpened point".
+- **22.344** — The digitized text printed Ἀχιλλεὺς· with a grave accent before the stop, unlike the same verse at 260 and 1.148; Ἀχιλλεύς· is restored.
+- **22.346–347** — Achilles wishes his fury would let him cut Hector's flesh and eat it raw; compare Zeus to Hera, ὠμὸν βεβρώθοις Πρίαμον "and eat Priam raw" (4.35), and Hecuba's wish to eat Achilles' liver (24.212–213).
+- **22.356** — προτιόσσομαι: "look at" (Od. 7.31, 23.365) or "forebode" (Od. 5.389, 14.219); rendered "as I look at you".
+- **22.358** — = Elpenor's plea to Odysseus (Od. 11.73), the only other place of μήνιμα; the same speech has ἄκλαυτον ἄθαπτον (Od. 11.72; compare 386) and καὶ ἐσσομένοισι πυθέσθαι (Od. 11.76; compare 305).
+- **22.359–360** — Achilles' death by Paris and Apollo at the Scaean gates; foretold by the horse Xanthus (19.416–417), and told to Achilles by Thetis (21.277–278).
+- **22.389** — εἰ δὲ θανόντων περ καταλήθοντʼ: the subject is not expressed, the dead themselves or men in general; rendered "men forget the dead".
+- **22.419** — ἡλικίην: Priam's years, his old age; at 16.808 the word is the men of one's own age ("all of his age"). Rendered "my years".
+- **22.437–438** — Ἕκτορος, first in 438 and closed off by the stop, goes with ἄλοχος ("the wife of Hector") or with πέπυστο ("had not yet learned anything of Hector"); the English keeps the Greek order.
+- **22.461** — The digitized text ended the line without a stop, though the sentence ends there and 462 begins αὐτὰρ ἐπεί; a period is supplied.
+- **22.468–470** — Andromache's headdress: ἄμπυξ "the headband", as of horses (χρυσάμπυκες, 5.358); κεκρύφαλος "the cap" and ἀναδέσμη "the plaited band", both only here in Homer; κρήδεμνον "the veil", Aphrodite's wedding gift (see the note on 16.97–100). Hecuba's καλύπτρη (406) is kept apart as "head covering".
+- **22.484–485** — Return as 24.726–727: νήπιος αὔτως "a mere infant", and δυσάμμοροι "most ill-fated" (as 19.315). At 6.400 the same child is νήπιον αὔτως "quite small".
+- **22.512–514** — Andromache will burn Hector's clothes "to be your fame": Leaf (on 21.323) sees here, and at Od. 1.291, a hint of a cenotaph, which Homer never mentions.

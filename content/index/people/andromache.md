@@ -19,7 +19,7 @@ relations:
 
 {{quote:3764cc28-e031-539d-9faa-2cb5029e9531}}
 
-She is the daughter of [[Eetion]], king of the [[Cilicians]] at [[Thebe]] under [[Placus]]; “daughter of great-hearted Eetion” is her formula, and Hector uses it again to his horses (8.187). Achilles killed her father and her seven brothers on one day; her mother, taken captive and ransomed, was struck down by Artemis “in her father's halls” (6.413–428; see [[sack-of-thebe]]). Hector led her from the house of Eetion after giving “countless bride-gifts” for her (22.470–472; see [[marriage]]). Their son is [[Astyanax]] (6.399–403). At Troy her kin are Hector's sisters and his brothers' wives (6.378, 22.473; see [[in-laws]]).
+She is the daughter of [[Eetion]], king of the [[Cilicians]] at [[Thebe]] under [[Placus]]; “daughter of great-hearted Eetion” is her formula, and Hector uses it again to his horses (8.187). Achilles killed her father and her seven brothers on one day; her mother, taken captive and ransomed, was struck down by Artemis “in her father's halls” (6.413–428; see [[sack-of-thebe]]). Hector took her from the house of Eetion, “after giving a countless bride-price” (22.470–472; see [[marriage]]). Their son is [[Astyanax]] (6.399–403). At Troy her kin are Hector's sisters and his brothers' wives (6.378, 22.473; see [[in-laws]]).
 
 ## Descriptions
 
@@ -31,7 +31,7 @@ She is the daughter of [[Eetion]], king of the [[Cilicians]] at [[Thebe]] under 
 
 Hector reminds his horses that Andromache fed them honey-sweet wheat and mixed wine for them before she served him, “who boast that I am her husband in my prime” (8.185–190). When he puts on Achilles' armor, Zeus pities him: Andromache will never take those arms from his hands (17.201–208).
 
-In Book 22 she is weaving in the inmost room and has told her handmaids to heat a bath for his return, “the fool” (νηπίη, 22.445; see [[nepios]]). At the wailing from the tower she drops her shuttle, runs to the wall “like a maenad” (μαινάδι ἴση), sees him dragged toward the ships, and faints, flinging away the headdress that Aphrodite gave her on her wedding day (22.437–472). She laments that they were born to one fate, he at Troy and she at Thebe under wooded Placus, and that their son will grow up an orphan (22.477–514; see [[astyanax]]).
+In Book 22 she is at her loom, with a bath heating for his return, when she hears the wailing from the tower; she runs to the wall, sees him dragged toward the ships, faints, and laments him and the orphan their son will be (22.437–515; see [[astyanax]]).
 
 At the funeral she leads the lament, holding Hector's head. The city will be sacked and she will be carried off in the ships; the child will follow her to shameful work, or some Achaean will hurl him from the tower. Hector did not reach out his hands to her from his bed as he died, or leave her a word to remember (24.723–745).
 

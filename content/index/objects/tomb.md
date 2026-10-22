@@ -9,7 +9,8 @@ grc: [τύμβον, τύμβῳ, σῆμα]
 en: [tomb]
 # σῆμα at 10.466 is the mark Odysseus sets by Dolon's spoils.
 # σῆμα at 13.244 is the sign Zeus shows mortals in the lightning.
-except: [2.308, 10.466, 13.244]
+# σῆμα at 22.30 is a sign: the dog of Orion, "a sign of evil".
+except: [2.308, 10.466, 13.244, 22.30]
 ---
 
 τύμβος is the mound of earth heaped over a grave. σῆμα, "sign, marker", names the same mound as a memorial, the thing that shows where a man lies; elsewhere the word means a sign from the gods ([[teras]]).

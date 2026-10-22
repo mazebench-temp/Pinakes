@@ -1,0 +1,7 @@
+---
+summary: The Trojans who have fled into the city from Achilles cool their sweat and drink, “leaning on the fair battlements”, while the Achaeans come up to the wall (22.1–4).
+---
+
+The battlements of Troy are named only here: κεκλιμένοι καλῇσιν ἐπάλξεσιν, “leaning on the fair battlements” (22.3). The rout of Book 21 is over, and the Trojans who fled into the city “in panic like fawns” rest along the top of the wall (22.1–3; see [[like-fawns]] and [[the-walls-of-troy]]). ἀπεψύχοντο, “let the sweat dry from them”, is the word of Nestor and Machaon cooling off in the breeze by the shore (11.621) and of Agenor's plan to bathe in the river at evening and let the sweat dry from him (21.561; see [[agenor]]). Walter Leaf finds the scholia's contradictory reports of the reading suspicious (one of them makes Aristarchus write ἀνεψύχοντο), and holds that ἀπό is clearly the preposition required; ἀκέοντο, “quenched”, he calls a unique use of a verb that is regularly said of healing wounds (*Commentary on the Iliad*, 1900, on 22.2; see the translation's note on 22.2).
+
+Below them, “the Achaeans / came nearer the wall, leaning their shields against their shoulders” (22.3–4). In Book 12 the battlements were the line on which the two armies fought at the Achaean wall (12.256–264, 12.424–431); here the Trojans lean on their own in safety, and only Hector stays outside (22.5–6; see [[hector]]).

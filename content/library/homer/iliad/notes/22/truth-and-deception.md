@@ -1,0 +1,20 @@
+---
+summary: The book opens with one god's trick revealed and turns on another's. Apollo tells Achilles that he has been chasing a god (22.7–13); then Athena, in the likeness of Deiphobus, tells Hector that she has come out of the city to stand by him, and leads him on “by craft” to face Achilles (22.226–247). When his spear has failed and he calls to Deiphobus for another, no one is there, and he knows that “Athena has deceived me” (22.294–299).
+refs: [22.7-13, 22.226-247, 22.276-277, 22.281, 22.294-299, 22.438]
+passages:
+  - 22.226-247 | Athena in the likeness of Deiphobus
+---
+
+**The false brother.** Athena does not come to Hector as herself. She takes the form and the voice of Deiphobus (22.227; see [[deiphobus]] and [[athena]]), and Hector believes her at once: of all his brothers Deiphobus was the dearest, and now he alone has dared to come outside the wall for his sake, “while the others stay inside” (22.233–237). Her answer gives him what he wants to hear:
+
+{{quote:9f287c0e-f552-5b90-b89d-0107edd7c761}}
+
+Every part of it is made up. The parents who begged her to stay are the parents who have just begged Hector to come in (22.38–91; see [[priam]] and [[hecuba]]), and the grief that brought her out is a brother's (22.242). She speaks as a brother, ἠθεῖε, “Dear brother” (22.229, 22.239; see [[dear-brother]]), and the narrator names what she does, κερδοσύνῃ, “by craft” (22.247), a word the *Odyssey* uses of Odysseus in disguise (*Odyssey* 4.251, 14.31).
+
+**The deceit found out.** The trick works through the spears. Athena gives Achilles back his own, “unseen by Hector” (λάθε δʼ Ἕκτορα, 22.277); Hector's glances off the shield, and he calls to Deiphobus for a long spear, “but he was nowhere near him” (22.294–295). He understands at once: “for I thought that the hero Deiphobus was beside me; / but he is within the wall, and Athena has deceived me” (22.298–299; see [[hector]]). ἐξαπάτησεν, “has deceived”, is the word Achilles used of Agamemnon's deceits (9.371), and the word with which Odysseus, in the *Odyssey*, laughs at how his name and his cunning deceived the Cyclopes (*Odyssey* 9.413–414).
+
+**Known too late.** The verse that brings Athena to Hector, “in the likeness of Deiphobus in form and in tireless voice” (22.227), brought Poseidon to the two Ajaxes in the likeness of Calchas (13.45) and Athena to Menelaus in the likeness of Phoenix (17.555), and each time the god came to help. Swift Ajax, son of Oileus, knew Poseidon from behind as he went away, “and gods are easy to know” (13.66–72). Menelaus did not know Athena, and wished that Athena would give him strength; she was glad, and gave it (17.560–569). Hector knows his god only when she is gone, and her help was a lure. Ἕκτωρ δʼ ἔγνω, “And Hector understood in his heart” (22.296), is the knowing that Apollo found wanting in Achilles at the start of the book, οὐδέ νύ πώ με / ἔγνως, “Not even yet / have you recognized” (22.9–10). What Hector understands is his death: “Ah, truly the gods have called me to my death” (22.297; see [[the-death-of-hector]]). Dying, he turns the same knowledge on Achilles: “Truly I know you well as I look at you, and I was not going / to persuade you” (εὖ γιγνώσκων, 22.356–357).
+
+**Two tricks.** Apollo's trick, the false Agenor of the last book, is revealed in the first lines: “Not even yet / have you recognized that I am a god” (22.9–10; see [[apollo-deceives-achilles]] and [[seeing-the-gods]]). It drew Achilles away and saved the Trojans in the city; Athena's draws Hector out to stand, and kills him. Achilles, who was deceived, is the one helped by the second deceit.
+
+**Other words.** When Achilles' spear misses, Hector thinks that Achilles' talk of knowing his fate from Zeus was itself a trick to frighten him, “but you were a glib talker and a cheat with words, / so that in fear of you I might forget my might and my courage” (22.281–282). Andromache, weaving in the inner room, has not learned the truth, “for no true messenger had come and told her” (ἐτήτυμος ἄγγελος, 22.438; see [[andromache]]).

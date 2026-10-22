@@ -1,0 +1,6 @@
+---
+summary: The book is fought around the city and for it. The Trojans have fled “throughout the city” (22.1); Hector thinks it better “to perish gloriously at his hands before the city” (22.110); the two men run “three times around the city of Priam” (22.165); Achilles plans to learn “whether they will leave the height of the city now that this man has fallen” (22.383); and Andromache sees her husband “being dragged in front of the city” (22.464).
+grc: [πτόλις, πόλει]
+---
+
+Hector's offer would divide the city's wealth: Helen and her possessions for the sons of Atreus, and an oath of the elders to share out half of all the rest, “to divide in two all / the wealth that the lovely citadel holds within it” (22.117–121). The verses are those of the besieged city on the Shield, whose besiegers argue “whether to sack it or to divide in two all / the wealth” (18.511–512); Walter Leaf takes the sense of the Shield's terms from these lines, half the movable goods left to the citizens and half taken as ransom (*Commentary on the Iliad*, 1900, on 18.511; see the translation's note on 22.117–120 and [[the-two-cities]]). Zeus remembers Hector's offerings “on the height of the city” (ἐν πόλει ἀκροτάτῃ, 22.172), where Athena's temple stood (6.88, 6.297; see [[the-walls-of-troy]] and [[troy]]).

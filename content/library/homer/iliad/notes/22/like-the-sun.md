@@ -1,0 +1,9 @@
+---
+summary: As Achilles comes near Hector before the gates, brandishing the Pelian ash, “the bronze shone around him like the light / of a blazing fire or of the rising sun”, and Hector, seeing him, trembles and runs (22.131–137).
+grc: ["εἴκελος αὐγῇ", "ἢ ἠελίου ἀνιόντος"]
+en: [like the light]
+---
+
+ἀμφὶ δὲ χαλκὸς ἐλάμπετο εἴκελος αὐγῇ / ἢ πυρὸς αἰθομένου ἢ ἠελίου ἀνιόντος, “and the bronze shone around him like the light / of a blazing fire or of the rising sun” (22.134–135). αὐγή is the gleam of fire and of the sun, and of the rays of the star of late summer earlier in the book (22.27). Walter Leaf takes ἀμφί as “to right and left”, of the armor as a whole, and compares the bronze that shone about the chest of Idomeneus as he ran (*Commentary on the Iliad*, 1900, on 22.134; 13.245; see the translation's note on 22.134). The comparison offers two lights joined by ἢ … ἢ, “or … or”, the fire and the sun, as when Achilles first armed in the gifts of Hephaestus: then the blaze of his shield went up like a fire seen by sailors far out at sea, and he stood in his chariot “gleaming in his armor like shining Hyperion” (19.373–380, 19.398; see [[the-fire-seen-by-sailors]] and [[hyperion]]).
+
+The light comes with the god of war's likeness. Achilles comes near, “the equal of Enyalius, the warrior of the shaking helmet, / brandishing over his right shoulder the Pelian ash, / the terrible spear” (22.132–134; see [[enyalius]] and [[the-pelian-ash]]), and Hector, who has just resolved to fight, cannot bear it: “And when Hector saw him, trembling seized him” (22.136), and he runs (see [[the-falcon-and-the-dove]]). It is the second light that Achilles gives off in the book, between the star of late summer that Priam sees from the wall (22.26–32; see [[the-autumn-star]]) and the evening star on the point of his spear (22.317–319; see [[the-evening-star]]).

@@ -1,0 +1,311 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 24,
+      "title": "Apollo Reveals Himself",
+      "summary": "The Trojans, fled into the city like fawns, cool their sweat and drink along the battlements, but deadly fate holds Hector outside before the Scaean gates. Apollo, who has drawn Achilles away in Agenor's likeness, reveals himself: Achilles cannot kill a god. Achilles answers that Apollo has foiled him and taken great glory from him, and that he would take vengeance on him if he had the strength, and he turns back toward the city like a prize-winning racehorse."
+    },
+    {
+      "from": 25,
+      "to": 91,
+      "title": "Priam and Hecuba Implore Hector",
+      "summary": "Old Priam sees Achilles coming over the plain, gleaming like the star called the dog of Orion, the brightest and an evil sign. He tears his hair and begs Hector to come inside: he has lost Lycaon and Polydorus already, and if Hector dies the city falls, and he himself, an old man, will be torn by his own dogs at his doors. Hecuba bares her breast and begs her son by the breast that nursed him not to stand against the hard man; if he dies she will not lay him on a bier. Hector does not listen."
+    },
+    {
+      "from": 92,
+      "to": 130,
+      "title": "Hector's Monologue",
+      "summary": "Hector waits for Achilles like a serpent coiled at its hole, leaning his shield against a tower, and debates with himself. Polydamas will be the first to heap disgrace on him for losing the army; better to kill Achilles or die gloriously before the city. He thinks of laying down his arms and offering Helen and all the treasure of Troy, then knows that Achilles would cut him down unarmed like a woman: there is no talking intimately with him, as a maiden and a young man talk. Better to fight and see to whom Zeus gives the triumph."
+    },
+    {
+      "from": 131,
+      "to": 207,
+      "title": "The Pursuit around the Walls",
+      "summary": "When Achilles comes near, brandishing the Pelian ash and shining like fire or the rising sun, Hector loses his nerve and runs. Achilles chases him like a falcon after a dove, past the lookout and the wild fig tree, past the two springs of the Scamander, one warm and one cold, and the stone washing troughs where the Trojan women washed their clothes in peace. They run three times around the city, not for a prize but for Hector's life, while the gods look on; Zeus pities Hector and asks whether to save him, Athena objects, and he lets her go. Achilles keeps Hector from the gates as a dog runs down a fawn; as in a dream, the one cannot catch, nor the other escape. Apollo strengthens Hector for the last time, and Achilles forbids the Achaeans to shoot at him."
+    },
+    {
+      "from": 208,
+      "to": 247,
+      "title": "The Scales of Zeus and Athena's Deceit",
+      "summary": "At the springs for the fourth time Zeus lifts his golden scales with the two fates of death, and Hector's day sinks toward Hades; Apollo leaves him. Athena tells Achilles to stand and catch his breath while she persuades Hector to fight; then, in the likeness of Deiphobus, she tells Hector that she has come out to stand by him, and so, by craft, leads the way."
+    },
+    {
+      "from": 248,
+      "to": 366,
+      "title": "The Death of Hector",
+      "summary": "Hector proposes that the victor give back the other's body; Achilles refuses: there are no oaths between lions and men. Achilles' spear misses and Athena returns it unseen; Hector's spear glances from the shield, and when he calls for another from Deiphobus no one is there. Knowing that the gods have called him to death, Hector draws his sword and charges like an eagle, and Achilles, seeing the gap at the throat in the armor Hector stripped from Patroclus, drives his spear through the neck. Dying, Hector begs that his body be ransomed; Achilles refuses even Hector's weight in gold. Hector foretells Achilles' death at the Scaean gates by Paris and Apollo, and dies; Achilles answers that he will accept his own death when the gods will it."
+    },
+    {
+      "from": 367,
+      "to": 404,
+      "title": "Achilles Defiles the Body",
+      "summary": "Achilles strips the armor; the Achaeans run up to marvel at Hector's body and stab it. Achilles proposes to test the Trojans' resolve, but remembers Patroclus lying unburied, and leads the army back to the ships singing the paean. He pierces the tendons of Hector's feet, ties him to his chariot with oxhide straps, and drags him in the dust before the city."
+    },
+    {
+      "from": 405,
+      "to": 436,
+      "title": "The Lament of Priam and Hecuba",
+      "summary": "Hecuba tears her hair and flings away her head covering; Priam groans, and the whole city wails as if Ilios were burning. The people hold Priam back as he rolls in the dung and begs to go to Achilles and plead with him by the thought of his own old father; Hector he mourns above all his dead sons. Hecuba leads the lament of the Trojan women: Hector was her boast, greeted like a god by all the city."
+    },
+    {
+      "from": 437,
+      "to": 515,
+      "title": "Andromache",
+      "summary": "Andromache, not yet told, is weaving a purple cloth in the inner room and has her maids heat a bath for Hector's return. Hearing the wailing, she drops her shuttle and runs to the wall like a maenad, sees Hector dragged toward the ships, and faints, flinging off the headdress Aphrodite gave her on her wedding day. Reviving among her sisters-in-law, she laments: they were born to one fate; their son Astyanax will be an orphan, pushed from the feasts of his father's friends; and Hector's body will lie naked by the ships while she burns the fine clothes in the house."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 8,
+      "to": 13,
+      "speaker": "apollo",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 15,
+      "to": 20,
+      "speaker": "achilles",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "retort"
+    },
+    {
+      "from": 38,
+      "to": 76,
+      "speaker": "priam",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 82,
+      "to": 89,
+      "speaker": "hecuba",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 99,
+      "to": 130,
+      "speaker": "hector",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 168,
+      "to": 176,
+      "speaker": "zeus",
+      "to_whom": [
+        "olympians"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 178,
+      "to": 181,
+      "speaker": "athena",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "protest"
+    },
+    {
+      "from": 183,
+      "to": 185,
+      "speaker": "zeus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 216,
+      "to": 223,
+      "speaker": "athena",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 229,
+      "to": 231,
+      "speaker": "athena",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "persuasion"
+    },
+    {
+      "from": 233,
+      "to": 237,
+      "speaker": "hector",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 239,
+      "to": 246,
+      "speaker": "athena",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "persuasion"
+    },
+    {
+      "from": 250,
+      "to": 259,
+      "speaker": "hector",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 261,
+      "to": 272,
+      "speaker": "achilles",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 279,
+      "to": 288,
+      "speaker": "hector",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 297,
+      "to": 305,
+      "speaker": "hector",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 331,
+      "to": 336,
+      "speaker": "achilles",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 338,
+      "to": 343,
+      "speaker": "hector",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 345,
+      "to": 354,
+      "speaker": "achilles",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 356,
+      "to": 360,
+      "speaker": "hector",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "prophecy"
+    },
+    {
+      "from": 365,
+      "to": 366,
+      "speaker": "achilles",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 373,
+      "to": 374,
+      "speaker": "achaeans",
+      "to_whom": [
+        "achaeans"
+      ],
+      "kind": "mockery"
+    },
+    {
+      "from": 378,
+      "to": 394,
+      "speaker": "achilles",
+      "to_whom": [
+        "achaeans"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 416,
+      "to": 428,
+      "speaker": "priam",
+      "to_whom": [
+        "trojans"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 431,
+      "to": 436,
+      "speaker": "hecuba",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 450,
+      "to": 459,
+      "speaker": "andromache",
+      "to_whom": [
+        "handmaids"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 477,
+      "to": 514,
+      "speaker": "andromache",
+      "to_whom": [
+        "hector"
+      ],
+      "kind": "lament"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 515,
+      "label": "Day 27",
+      "note": "The fourth day of battle ends with the death of Hector: Achilles, drawn off by Apollo, turns back to the city and kills Hector before the Scaean gates, and the Trojans mourn him on the wall; the day continues into Book 23, when the Myrmidons mourn Patroclus and the night falls."
+    }
+  ]
+}

@@ -15,7 +15,7 @@ The neuter noun ἔλεγχος means “disgrace”, and in the plural, ἐλέ
 
 The words belong to a world in which a man's worth is what others see and say. ἔλεγχος is the exposure of a failure, cowardice above all, before the army and before men to come. As an insult it is the language of rebuke to an army. Thersites calls the Achaeans “weaklings, wretched disgraces, Achaean women, Achaean men no longer” (2.235). Agamemnon calls the Argives who hold back “you disgraces” (ἐλεγχέες, 4.242). Hera, in the likeness of Stentor, and later Agamemnon, cry “Shame, Argives, base disgraces, admirable only in looks!” (αἰδώς, Ἀργεῖοι, κάκʼ ἐλέγχεα, εἶδος ἀγητοί, 5.787, 8.228). Priam, after Hector's death, calls the sons he has left “disgraces” (24.260).
 
-ἐλέγχιστος is a leader's fear. Odysseus tells Agamemnon that the army, by going home, wants to make him “the most despised of all mortal men” (2.284–285), and Agamemnon fears that he will come to Argos “in utter disgrace” if his brother dies (4.171). Hector, outside the walls, fears that Polydamas will be the first to lay reproach (ἐλεγχείην) on him if he goes back into the city (22.99–100), and so he stays to face Achilles.
+ἐλέγχιστος is a leader's fear. Odysseus tells Agamemnon that the army, by going home, wants to make him “the most despised of all mortal men” (2.284–285), and Agamemnon fears that he will come to Argos “in utter disgrace” if his brother dies (4.171). Hector, outside the walls, fears that Polydamas will be the first to heap disgrace (ἐλεγχείην) on him if he goes back into the city (22.99–100), and so he stays to face Achilles.
 
 {{notes}}
 

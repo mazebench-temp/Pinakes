@@ -30,7 +30,7 @@ See [[paris]], [[hectors-visit-to-troy]] and [[horses]].
 
 ## Elsewhere in Homer
 
-The six lines return in Book 15 for Hector, when Apollo has breathed great might into him after Ajax's stone (15.263–268 = 6.506–511). The verse that follows them there, ὣς Ἕκτωρ λαιψηρὰ πόδας καὶ γούνατʼ ἐνώμα, “so Hector plied his nimble feet and knees” (15.269), is used again of Achilles, who runs toward Troy like a prize-winning horse with its chariot, running easily at full stretch over the plain (22.21–24). Achilles and Hector then run around the walls like prize-winning horses racing around the turning post, with a great prize set out, a tripod or a woman (22.162–164); but the prize of this race is Hector's life (22.159–161). In these similes the horse is a runner, and the last race is run for a life.
+The six lines return in Book 15 for Hector, when Apollo has breathed great might into him after Ajax's stone (15.263–268 = 6.506–511). The verse that follows them there, ὣς Ἕκτωρ λαιψηρὰ πόδας καὶ γούνατʼ ἐνώμα, “so Hector plied his nimble feet and knees” (15.269), is used again of Achilles, who runs toward Troy like a prize-winning horse with its chariot, running easily at full stretch over the plain (22.21–24; see [[like-a-racehorse]]). Achilles and Hector then run around the walls like prize-winning horses racing around the turning posts, with a great prize set out, a tripod or a woman (22.162–164; see [[racehorses-at-the-turning-post]]); but the prize of this race is Hector's life (22.159–161). In these similes the horse is a runner, and the last race is run for a life.
 
 ## Outside Homer
 

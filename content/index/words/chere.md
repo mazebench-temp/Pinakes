@@ -23,7 +23,7 @@ Widows appear in Homer as a picture of helpless grief. Odysseus likens the army 
 
 The Iliad gives the word above all to Andromache, and she uses it before it is true. At the Scaean gates she tells Hector that he has no pity “for your infant son or for me, ill-fated, who soon will be your widow” (ἣ τάχα χήρη σεῦ ἔσομαι, 6.408–409), and begs him to stay on the tower: “do not make your child an orphan and your wife a widow” (μὴ παῖδʼ ὀρφανικὸν θήῃς χήρην τε γυναῖκα, 6.432). She has already lost father, mother and brothers; the husband is the last (6.413–430; see [[kasignetos]] and [[posis]]).
 
-When Hector is dead, she laments him twice with the same words: “and you leave me a widow in the halls” (χήρην ἐν μεγάροισι), with a son who is still an infant (22.483–485, 24.725–727). In Book 22 she imagines the orphan pushed away from the feasts of his father's friends and coming back in tears “to his widowed mother” (22.490–499). In Book 24 she foresees her own slavery, and for the child either slavery with her or death, thrown from the tower by some Achaean whose kin Hector killed (24.731–738). See [[andromache]], [[astyanax]] and [[captive-women]].
+When Hector is dead, she laments him twice with the same words: “and leave me in hateful grief, a widow in the halls” (χήρην ἐν μεγάροισι), with a son who is still a mere infant (22.483–485, 24.725–727). In Book 22 she imagines the orphan pushed away from the feasts of his father's friends and coming back in tears “to his widowed mother” (22.490–499). In Book 24 she foresees her own slavery, and for the child either slavery with her or death, thrown from the tower by some Achaean whose kin Hector killed (24.731–738). See [[andromache]], [[astyanax]] and [[captive-women]].
 
 {{notes}}
 

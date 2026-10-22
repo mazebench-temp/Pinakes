@@ -28,7 +28,7 @@ When Zeus has scattered the mist, Ajax tells Menelaus to look for Antilochus, so
 
 ## Elsewhere in Homer
 
-The eagle is the hunter of Homer's similes. Hector makes for the ships as a tawny eagle swoops on a flock of geese or cranes or swans feeding beside a river (15.690–692; see [[the-eagle-and-the-birds]]); Achilles springs away from the river with the swoop of the black eagle, the hunter, the strongest and swiftest of birds (21.251–253); and Hector, drawing his sword for his last charge, swoops like a high-flying eagle that goes down through the dark clouds to the plain to seize a tender lamb or a cowering hare (22.306–311), a verse that the Odyssey gives to Odysseus falling on the suitors' kinsmen (*Odyssey* 24.538). The hare is the quarry in the Iliad's other hunting simile that has it, run down by two hounds in the chase of Dolon (10.360–364; see [[two-hounds]]).
+The eagle is the hunter of Homer's similes. Hector makes for the ships as a tawny eagle swoops on a flock of geese or cranes or swans feeding beside a river (15.690–692; see [[the-eagle-and-the-birds]]); Achilles springs away from the river with the swoop of the black eagle, the hunter, the strongest and swiftest of birds (21.251–253); and Hector, drawing his sword for his last charge, swoops like a high-flying eagle that goes down through the dark clouds to the plain to seize a tender lamb or a cowering hare (22.306–311; see [[the-eagle-flying-high]]), a verse that the Odyssey gives to Odysseus falling on the suitors' kinsmen (*Odyssey* 24.538). The hare is the quarry in the Iliad's other hunting simile that has it, run down by two hounds in the chase of Dolon (10.360–364; see [[two-hounds]]).
 
 ## Outside Homer
 

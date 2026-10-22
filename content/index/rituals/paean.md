@@ -3,7 +3,7 @@ title: Paean
 greek: παιήων
 kind: ritual
 tags: [music, prayer]
-summary: The song to Apollo the healer. The young Achaeans sing it all day at Chryse after the sacrifice, and the god who sent the plague is glad as he listens.
+summary: A song of deliverance, above all to Apollo the healer: the young Achaeans sing it all day at Chryse to end the plague, and Achilles bids them sing it as they take Hector's body back to the ships.
 aliases: [paeans, paian, paeon]
 grc: [μολπῇ, καλὸν ἀείδοντες παιήονα, μέλποντες]
 en: [song and dance, singing a beautiful paean, hymning]

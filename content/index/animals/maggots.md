@@ -5,8 +5,8 @@ kind: animal
 tags: [wild-animal]
 summary: The maggot, εὐλή, the worm that breeds in dead flesh. Homer names it three times, always for the body of a hero left unburied: Achilles fears that flies will breed worms in the wounds of Patroclus (19.24–27), Andromache says that worms will eat Hector by the ships (22.509), and Hermes tells Priam that they have not touched him (24.414).
 aliases: [maggot, worms, eule]
-# Later: εὐλαί (22.509, 24.414).
-grc: [εὐλὰς]
+# εὐλαί (22.509, 24.414).
+grc: [εὐλὰς, εὐλαί]
 en: [worms]
 ---
 

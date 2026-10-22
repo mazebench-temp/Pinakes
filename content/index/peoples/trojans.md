@@ -10,7 +10,8 @@ aliases: [Troes]
 grc: [Τρώ*, "!=Τρῳ*", "!Τρωϊάδ*", "!τρωπ*", "!=τρώσεσθαι", "+Τρῳὰς δὲ στίχας", "!τρώσεις", "!τρῶσαι", "!τρωτὸς"]
 # τρωτὸς (21.568) is "can be pierced", of Achilles' flesh.
 # Τρώϊοι ἵπποι "the horses of Tros" (5.222 = 8.106) and Τρωΐ "to Tros" (5.265) belong to tros.
-except: [5.222, 5.265, 8.106]
+# τρωχῶσι at 22.163 is "run", of the racehorses.
+except: [5.222, 5.265, 8.106, 22.163]
 en: [Trojans, Trojan]
 ---
 

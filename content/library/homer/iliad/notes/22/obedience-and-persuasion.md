@@ -1,0 +1,6 @@
+---
+summary: No one in the book is moved by argument or entreaty. The father's plea and then both parents' end in the same half-line, they “did not persuade Hector's heart” (22.78, 22.91); Hector did not obey Polydamas (22.100–103); Achilles will hear of no agreements and no ransom, and Hector knows that he “was not going / to persuade” him (22.261–272, 22.344–357). Hector is moved only by a god in a brother's shape, and Achilles obeys only a goddess (22.222–247).
+refs: [22.78, 22.91, 22.100-110, 22.222-247, 22.356-357, 22.416-422]
+---
+
+The grounds of the appeals are the old ones: a father's old age and the pity it asks, a mother's breast and the respect owed to it (22.59–76, 22.82–83; see [[aidos]] and [[pity]]), and the gods as witnesses of an oath (22.254–255; see [[oath]]). Each is refused. Hector stays outside for fear of what men will say of his disobedience to Polydamas (22.104–110; see [[tis-speech]] and [[retreat]]), and comes to stand only when Athena, as Deiphobus, gives him a companion (22.231–247; see [[peitho]] and [[truth-and-deception]]). After the death Priam asks his own people to let him go and beg the killer (22.416–422; see [[supplication]]), the persuasion that the last book will bring off.

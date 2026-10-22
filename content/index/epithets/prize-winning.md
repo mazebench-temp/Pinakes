@@ -12,7 +12,7 @@ of: [horses]
 
 ## Meaning
 
-ἀθλοφόρος (also ἀεθλοφόρος) = ἆθλον, ἄεθλον (“prize”) + φέρω (“carry off”): “that carries off prizes,” a racehorse that wins. Homer uses it only of horses. Nestor tells how his father Neleus sent “four prize-winning horses with their chariot” to race for a tripod in Elis, and how King Augeas kept them (11.698–702). In Book 22 the word comes twice in similes of speed: Achilles runs toward the city “like a prize-winning horse with its chariot” (22.22–23), and he and Hector circle the walls “as when prize-winning single-hoofed horses run swiftly around the turning posts” for a great prize, a tripod or a woman, at the funeral games of a dead man (22.162–166).
+ἀθλοφόρος (also ἀεθλοφόρος) = ἆθλον, ἄεθλον (“prize”) + φέρω (“carry off”): “that carries off prizes,” a racehorse that wins. Homer uses it only of horses. Nestor tells how his father Neleus sent “four prize-winning horses with their chariot” to race for a tripod in Elis, and how King Augeas kept them (11.698–702). In Book 22 the word comes twice in similes of speed: Achilles runs toward the city “like a prize-winning horse with its chariot” (22.22–23), and he and Hector circle the walls “as when prize-winning single-hoofed horses round the turning posts run very swiftly” for a great prize, a tripod or a woman, at the funeral games of a dead man (22.162–166).
 
 πηγός, the word paired with it here, occurs in Homer only in this verse and of a wave, κύματι πηγῷ, in the Odyssey (Od. 5.388, 23.235). It is usually explained from πήγνυμι (“make firm”): “solid, well-knit,” and so “strong.” The sense is not certain. The translation renders πηγοὺς ἀθλοφόρους “strong prize-winners.”
 

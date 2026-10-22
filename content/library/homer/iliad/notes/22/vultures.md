@@ -1,0 +1,5 @@
+---
+summary: The vultures of Book 22 are in Priam's wish against Achilles: “soon the dogs and vultures would eat him / as he lay” (22.42–43).
+---
+
+τάχα κέν ἑ κύνες καὶ γῦπες ἔδοιεν, “soon the dogs and vultures would eat him” (22.42). The optative ἔδοιεν is the reading of Aristarchus alone; the manuscripts all have the future ἔδονται. Walter Leaf prefers the optative, since Priam does not mean to express any confident hope that the dogs will soon eat Achilles, and takes κείμενον, “as he lay”, to mean unburied (*Commentary on the Iliad*, 1900, on 22.42, 22.43). The pair is the one of Polydamas' warning, that if the Trojans stayed on the plain, “dogs and vultures will eat many / of the Trojans” (18.271–272); Priam turns it against the man who has made him “bereft of many brave sons” (22.44; see [[priam]] and [[dogs]]). Elsewhere in the book the birds that eat the unburied are οἰωνοί, joined with the dogs in Achilles' threats over Hector (22.335, 22.354; see [[birds]]). Hector had told Patroclus as he died that the vultures would eat him there (16.836).

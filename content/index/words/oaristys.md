@@ -5,7 +5,7 @@ kind: term
 tags: [speech, woman, warfare]
 summary: Intimate talk, the converse of lovers and of husband and wife, from ὄαρ, “wife, companion”. Hector talks so with Andromache at the Scaean gates; later he knows that he cannot talk so with Achilles, and warriors give the word to battle, “the intimate talk of war”.
 aliases: [oaristys, oarizō, oarizo, oar, intimate talk, converse, talk intimately]
-grc: [ὀάριζε, ὤρεσσι]
+grc: [ὀάριζε, ὀαριζέμεναι, ὀαρίζετον, ὤρεσσι]
 en: [talked intimately, wives]
 passages:
   - 6.515-516 | Where he had talked with his wife
@@ -19,7 +19,7 @@ The verb ὀαρίζω, “talk intimately”, and the noun ὀαριστύς ar
 
 **Hector and Andromache.** The narrator's last word for the farewell at the Scaean gates is this verb. Paris, running down from the citadel, comes upon Hector “just as he was about to turn from the place where he had talked intimately with his wife” (ὅθι ᾗ ὀάριζε γυναικί, 6.515–516). The whole scene, with its plea, its prophecy and its laughter, is summed up as the talk of a husband and wife (see [[hector-and-andromache]]). Ancient readers named the book after it, “the meeting of Hector and Andromache” (see [[title-of-book-6]]).
 
-**No talk with Achilles.** The word returns when Hector waits for Achilles outside the wall and weighs whether to go to him unarmed and offer terms. “There is no way now to talk with him from an oak or from a rock, as a maiden and a youth do, a maiden and a youth who talk together” (ὀαριζέμεναι, ὀαρίζετον, 22.126–128). The love-talk of the young is the image of everything that cannot now happen between the two men.
+**No talk with Achilles.** The word returns when Hector waits for Achilles outside the wall and weighs whether to go to him unarmed and offer terms. “There is no way now, from an oak or from a rock, to talk intimately with him, as a maiden and a young man, a maiden and a young man talk intimately with each other” (ὀαριζέμεναι, ὀαρίζετον, 22.126–128). The love-talk of the young is the image of everything that cannot now happen between the two men.
 
 **The intimate talk of war.** Warriors turn the word on battle itself. Idomeneus tells Meriones that a missile would strike him in the chest or the belly, never in the back, as he pressed forward “to the intimate talk of the champions” (μετὰ προμάχων ὀαριστύν, 13.291), and Hector tells his allies to face the enemy and live or die, “for that is the intimate talk of war” (ἣ γὰρ πολέμου ὀαριστύς, 17.228). The two worlds of Book 6, the war outside the walls and the house within them, share a word (see [[the-city-and-the-household]]).
 
