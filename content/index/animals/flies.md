@@ -4,7 +4,7 @@ greek: μυῖα
 kind: animal
 tags: [wild-animal, insult]
 summary: The fly, μυῖα. Homer's flies are countless, they will not be driven off, and they feed on the dead; they give the measure of a crowd of men, and Menelaus is given “the daring of a fly”.
-aliases: [fly, muia, dog-fly]
+aliases: [fly, muia]
 grc: [μυιάων]
 en: [flies]
 ---
@@ -17,7 +17,7 @@ en: [flies]
 
 One fly is only a nuisance. Athena turns aside the arrow Pandarus shoots at Menelaus “as a mother brushes a fly from her child, when he lies in sweet sleep” (Iliad 4.130–131).
 
-κυνάμυια (“dog-fly”, from κύων, “dog”, and μυῖα) is an insult the gods throw at one another: Ares at Athena, and Hera at Aphrodite (Iliad 21.394, 21.421). It joins the dog's shamelessness to the fly's persistence (see [[dogs]] and [[anaideia]]).
+κυνάμυια (“dog-fly”, from κύων, “dog”, and μυῖα) is an insult the gods throw at one another: Ares at Athena, and Hera at Aphrodite (Iliad 21.394, 21.421). It joins the dog's shamelessness to the fly's persistence (see [[dog-fly]], [[dogs]] and [[anaideia]]).
 
 ## Outside Homer
 

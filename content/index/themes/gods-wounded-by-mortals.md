@@ -2,7 +2,7 @@
 title: Gods wounded by mortals
 kind: theme
 tags: [divine-scene, divine-will, fate]
-summary: Only in Iliad 5 does a mortal wound a god: Diomedes wounds Aphrodite and then Ares, and Dione tells of three gods whom men hurt before, Ares, Hera and Hades. The gods bleed ichor, cry out in pain and are healed at once; they cannot die, and their wounds show how far the book lets a mortal go.
+summary: A mortal can wound a god, with a god's help, and the Iliad lets it happen in one book only, when Diomedes wounds Aphrodite and Ares. The gods bleed ichor, cry out in pain and are healed at once, since they cannot die; the poem remembers the deed, and later the gods wound one another.
 aliases: [wounded gods, gods wounded by men, mortals who fight gods, the wounding of Aphrodite, the wounding of Ares]
 refs: [5.330-354, 5.359-362, 5.373-417, 5.457-459, 5.757-766, 5.826-834, 5.855-906]
 passages:

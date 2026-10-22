@@ -13,7 +13,7 @@ en: [hawk, hawks]
 
 ## In Homer
 
-The hawk is a hunter of smaller birds. Its prey in the similes is the dove, which Artemis is like when she flees from Hera into a hollow rock (21.493–495), and the jackdaws and starlings that scatter before it (16.582–583). The falcon hunts the same birds: the starlings and jackdaws flee screaming before it (17.755–757), and Achilles chases Hector as a falcon chases a dove (22.139–142; see [[falcon]]).
+The hawk is a hunter of smaller birds. Its prey in the similes is the dove, which Artemis is like when she flees from Hera into a hollow rock (21.493–495; see [[the-dove-and-the-hawk]]), and the jackdaws and starlings that scatter before it (16.582–583). The falcon hunts the same birds: the starlings and jackdaws flee screaming before it (17.755–757), and Achilles chases Hector as a falcon chases a dove (22.139–142; see [[falcon]]).
 
 Its speed makes it a likeness for gods. Poseidon leaves the two Ajaxes “as a swift-winged hawk flies, that rises from a sheer and towering rock, and darts across the plain to chase some other bird” (13.62–65; see [[the-hawk-from-the-rock]]). Apollo goes down from the mountains of Ida like a swift hawk, the dove-killer (15.237–238), and Thetis leaps down from snowy Olympus like a hawk, carrying the armor Hephaestus made (18.616–617). It is a likeness for heroes in their onset: Patroclus charges the Lycians like a swift hawk (16.582–584). And it is the measure of speed. Ajax tells Hector that the time is near when, in flight, he will pray that his fine-maned horses “may be swifter than hawks” (13.817–820), and in the Odyssey not even a hawk could keep pace with the ship of the Phaeacians (*Odyssey* 13.86–88).
 

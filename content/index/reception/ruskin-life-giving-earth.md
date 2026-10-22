@@ -8,6 +8,7 @@ source: John Ruskin, Modern Painters, vol. 3 (1856), part 4, chapter 12
 of: [castor, polydeuces, life-giving-earth, helen]
 passages:
   - 3.236-244 | Helen's brothers
+  - 21.54-63 | Achilles sees Lycaon come back
 ---
 
 {{quote:6e2a25e6-f610-5278-8aee-a6803789e5b9}}
@@ -15,6 +16,8 @@ passages:
 Ruskin named "the pathetic fallacy": the false appearance that things take on when they are seen through strong feeling. His best-known example came from Charles Kingsley's song of a drowned girl, "They rowed her in across the rolling foam— / The cruel, crawling foam." The foam is not cruel, and does not crawl; the grieving mind makes it so. Ruskin allowed that such writing could be beautiful, but he ranked it below the work of the greatest poets, who feel as strongly and still see truly.
 
 Among his examples of the greatest was the end of Helen's speech on the wall. She looks among the Achaeans for her brothers Castor and Polydeuces, and supposes that they stayed at home, or will not fight for shame of her (3.236–242). The narrator answers her: the life-giving earth (φυσίζοος αἶα) already held them fast, there in Lacedaemon, in their own dear native land. Ruskin pointed to the epithet. The poet has to speak of the earth in sadness, but he will not let the sadness change what he thinks of it: though the brothers are dead, the earth is still "our mother", "fruitful, life-giving". Homer states the fact, and leaves the feeling to the listener.
+
+The epithet comes back in Book 21 with the same thought. Achilles, seeing Lycaon home again from Lemnos, wonders whether he will come back from below as well, or whether “the life-giving earth will hold him back, which holds back even the strong” (21.63; see [[lycaon-son-of-priam]]). Walter Leaf calls the epithet at 3.243 inappropriate “to our idea”, and on 21.63 he reports that the T scholia had already found it unfitting when it is set beside the dead and their tombs; Fick, he adds, derived the word from a form akin to ζειά, “spelt”, so that it would mean what ζείδωρος, “grain-giving”, means, and the difficulty would vanish (*Commentary on the Iliad*, 1900, on 3.243 and 21.63). The inappropriateness that the scholiast and Leaf felt is what Ruskin praised.
 
 The formula has a second life in the Odyssey. In the underworld Odysseus hears of the same brothers, and "the life-giving earth holds them both, alive"; by the gift of Zeus they live and die on alternate days (Odyssey 11.301–304). The Iliad says only that the earth holds them.
 

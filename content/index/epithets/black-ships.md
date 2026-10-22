@@ -6,7 +6,8 @@ tags: [ship]
 summary: “Black,” an epithet of [[ships]], whose hulls were coated with pitch.
 aliases: [black ship, melaina]
 grc: [μέλαιναν, μελαίνῃ]
-except: [7.254, 9.65, 14.462]
+# μέλαιναν at 21.66 is black doom (κῆρα μέλαιναν), at 21.126 the dark ripple.
+except: [7.254, 9.65, 14.462, 21.66, 21.126]
 en: [black]
 of: [ships]
 ---

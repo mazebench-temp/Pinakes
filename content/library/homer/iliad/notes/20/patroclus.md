@@ -8,4 +8,4 @@ refs: [20.29, 20.426]
 
 **Hector.** When Hector comes against him, Achilles leaps up and says, “Here near me is the man who has touched my heart most deeply, / who killed my honored companion” (20.425–426; see [[hector]] and [[the-death-of-patroclus]]). τετιμένον, “honored”, is a participle that has become a mere adjective, Leaf notes (on 20.426). It is the vow Achilles made when he heard the news, to find “the destroyer of that dear life, / Hector” (18.114–115). The T scholia and Eustathius, Leaf reports, took Hector's answer, that his weapon too is sharp πάροιθεν, “at the point” (20.437), as “before now”, a reminder that his spear had killed Patroclus (on 20.437; see the translation's note on 20.437).
 
-In the next book Achilles takes twelve young men alive from the river as ποινή, “blood-price”, for Patroclus (21.26–28; see [[poine]]).
+In the next book Achilles takes twelve young men alive from the river as ποινή, “the penalty for Patroclus” (21.26–28; see [[poine]]).

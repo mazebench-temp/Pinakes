@@ -3,7 +3,7 @@ title: Agenor
 greek: Ἀγήνωρ
 kind: person
 tags: [trojan, warrior, troad]
-summary: A son of [[Antenor]] and one of the leading Trojan fighters. He makes the first Trojan kill of the poem, and in Book 21 he alone stands against Achilles before the walls until Apollo carries him away.
+summary: A son of [[Antenor]] and one of the leading Trojan fighters. He makes the first Trojan kill of the poem, and he alone stands against Achilles before the walls of Troy until Apollo carries him away.
 aliases: [Agēnōr]
 # ^: ἀγήνωρ “bold, proud” is also an adjective (θυμὸς ἀγήνωρ, 2.276).
 grc: ["^Ἀγήνωρ"]
@@ -33,7 +33,7 @@ He is one of the “three sons of Antenor” who stand with Hector, Polydamas an
 
 He is one of the Trojan leaders gathered around Hector on the plain (11.56–60). In the attack on the Achaean wall he commands the second of five companies with Paris and Alcathous (12.93), and he is one of the men Aeneas calls to his side (13.489–490). He draws the spear out of the hand of the wounded Helenus and binds it with a sling of twisted wool (13.598–600). When Ajax fells Hector with a stone, he is one of the best men who stand over Hector, with Polydamas, Aeneas, Sarpedon and Glaucus (14.424–426). He kills Clonius (15.340).
 
-His great scene is in Book 21. The Trojans are fleeing into the city, and the Achaeans would have taken Troy then if Apollo had not put courage into Agenor and stood beside him, hidden in mist (21.544–549). Alone before the walls, he argues with himself whether to run for the spurs of Ida and come back at nightfall, and decides to stand: Achilles' flesh too can be pierced by the sharp bronze, “and there is one life in him” (21.553–570). The speech is one of four in which a warrior alone weighs flight against standing his ground, with those of Odysseus (11.404–410), Menelaus (17.91–105) and Hector (22.99–130); see [[decision-scene]]. He waits like a leopard that goes out to meet the hunter (21.573–580), throws, and hits Achilles' shin below the knee, but the greave, the gift of a god, turns the bronze (21.590–594). As Achilles rushes at him, Apollo snatches him away in mist, takes his shape, and leads Achilles off across the plain while the Trojans crowd into the city (21.595–611).
+His great scene is in Book 21, when Apollo sets him against Achilles before the gates, and then snatches him away and takes his shape to lead Achilles off while the Trojans crowd into the city (21.544–611; see [[apollo-deceives-achilles]]). His debate with his own heart there is one of four in which a warrior alone weighs flight against standing his ground, with those of Odysseus (11.404–410), Menelaus (17.91–105) and Hector (22.99–130); see [[pondering-two-ways]] and [[decision-scene]].
 
 ## Outside Homer
 

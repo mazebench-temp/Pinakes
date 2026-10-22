@@ -1,0 +1,5 @@
+---
+summary: Agenor, waiting for Achilles, is like a leopard that comes out of a deep thicket to face a hunter, is not afraid when she hears the baying of the hounds, and even pierced with a spear does not give up her courage until she closes with him or is brought down (21.573–578). It is the only time Homer likens a man to a leopard.
+---
+
+ἠΰτε πάρδαλις εἶσι βαθείης ἐκ ξυλόχοιο, “As a leopard comes out of a deep thicket” (21.573; see [[the-leopard-and-the-hunter]] and [[agenor]]). πάρδαλις is feminine, and the participle that follows is feminine too, περὶ δουρὶ πεπαρμένη, “pierced through with the spear” (21.577): the translation keeps the leopard a she. The beast of the simile is what Menelaus said of the leopard, the first of the beasts of greatest might (17.20–23), and the opposite of the deer in Poseidon's taunt, which are the prey of leopards and flee without courage (13.101–104; see [[timid-deer]]). She does not flee, ταρβεῖ οὐδὲ φοβεῖται, “neither fears nor flees” (21.575), the words of the boar or lion at bay among hounds and hunters in Hector's simile at the ditch (12.46; see [[the-boar-or-lion-at-bay]]).

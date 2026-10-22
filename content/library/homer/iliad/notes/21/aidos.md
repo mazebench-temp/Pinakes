@@ -1,0 +1,6 @@
+---
+summary: Lycaon begs, “I implore you, Achilles; respect me and pity me; / I am as good as a revered suppliant to you” (21.74–75), and among the gods Apollo will not fight Poseidon, “for he was ashamed / to come to blows with his father's brother” (21.468–469). Poseidon wishes the Trojans dead “with their children and their modest wives” (21.460), and Hera is “the revered wife of Zeus” (21.479).
+grc: [αἴδεο, αἴδετο]
+---
+
+Lycaon's two verbs are the suppliant's, and they will be Hecuba's to Hector from the wall (22.82) and Priam's to Achilles (24.503). His claim to be “as good as” a suppliant rests on having eaten at Achilles' table, “for with you first I tasted the grain of Demeter” (21.76): Walter Leaf explains that the mere breaking of bread under a man's roof gives a claim to protection, even without the host's consent (*Commentary on the Iliad*, 1900, on 21.75; see the translation's note on 21.75). Achilles answers with neither respect nor pity (21.99–113; see [[supplication]] and [[pity]]). Apollo's shame before his uncle keeps the gods' battle from a fight between kin, and his sister calls it flight (21.470–477). The Odyssey gives Athena the same words, αἴδετο γάρ ῥα πατροκασίγνητον, when out of respect for Poseidon she will not yet appear openly to Odysseus (*Odyssey* 6.329–330; see [[kasignetos]]).

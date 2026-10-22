@@ -6,7 +6,7 @@ tags: [justice]
 summary: The stones that marked the bounds of a field. Homer names them twice: in a simile two men with measuring rods quarrel over them in a common field (12.421–424), and in the battle of the gods Athena fells Ares with a boundary stone that men of former times had set up (21.403–406).
 aliases: [boundary stone, boundary markers, landmarks, horoi, ouroi]
 # οὖρος is also a fair wind (1.479) and the "guardian" of the Achaeans, Nestor (8.80, 11.840); claim only the form of 12.421.
-# 21.405 (οὖρον ἀρούρης) will need adding when Book 21 is indexed.
+# οὖρον ἀρούρης (21.405) is claimed in the Book 21 note.
 grc: [οὔροισι]
 en: [boundary stones, measuring rods, common field]
 refs: [12.422-423]
@@ -26,7 +26,7 @@ The simile of Book 12 is set in a field held in common:
 
 ἐπίξυνος, “common”, occurs only here. The two men hold μέτρα, measuring rods, and quarrel over a narrow strip, each claiming his equal share (περὶ ἴσης). So the battlements keep the Lycians and the Achaeans apart, and neither side can push the other back (12.417–424; see [[the-boundary-dispute]] and [[battlements]]). A few verses later a second simile from ordinary life, an honest working woman weighing wool, holds the battle level in the same way (12.433–436; see [[the-working-womans-scales]]).
 
-In the battle of the gods Athena steps back and picks up “a stone lying on the plain, black, jagged and big, / which men of former times had set to be the boundary of a field” (οὖρον ἀρούρης), and with it strikes Ares on the neck and loosens his limbs (21.403–406; see [[athena]], [[ares]] and [[stone-throwing]]). The stone that earlier men set up to settle what belonged to whom becomes a goddess's weapon.
+In the battle of the gods a boundary stone that men of former times had set up becomes Athena's weapon against Ares (21.403–406; see [[athena]], [[ares]] and [[stone-throwing]]).
 
 ## Outside Homer
 

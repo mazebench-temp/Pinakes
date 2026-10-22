@@ -1,0 +1,6 @@
+---
+summary: The battle of the gods is fought under Zeus' laughter. When they clash, “his heart within him laughed / for joy, as he saw the gods coming together in strife” (21.389–390), and when Artemis comes to him in tears he draws her to him, “and laughing heartily asked her” what had happened (21.508). Athena laughs over the fallen Ares (21.408), Hera smiles at her boast (21.434), and Hera beats Artemis with her own bow, “smiling” (21.491).
+refs: [21.388-390, 21.408, 21.434, 21.491, 21.508]
+---
+
+Walter Leaf notes that only here and at 21.508 does Homer's Zeus go beyond a smile, and takes his laughter as a just view of the whole combat, a parody of serious fighting (*Commentary on the Iliad*, 1900, on 21.390). In Book 20 he had said that he would stay on Olympus to watch, “where I shall look on and delight my heart” (20.23; see [[watching-the-war]]). The laughter of Book 1 ended a quarrel among the gods; this laughter greets one. Hera's smile is the verse with which she smiled at her son in Book 1 (1.595 = 21.434), and Leaf thinks it interpolated here to soften the change of scene (on 21.434; see the translation's note on 21.434). See [[zeus]], [[the-battle-of-the-gods]] and [[the-gods-mirror-the-mortals]].

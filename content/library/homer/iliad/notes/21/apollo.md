@@ -1,0 +1,24 @@
+---
+summary: The river reproaches Apollo for not defending the Trojans as Zeus charged him, and Achilles remembers that he is to die by Apollo's arrows. In the battle of the gods Poseidon challenges him, but Apollo will not fight his father's brother for the sake of mortals, who are like leaves, and makes no answer to Artemis' taunts. Then he goes into Ilios to guard its wall, leaps out to meet the fleeing Trojans, sets Agenor against Achilles and stands by him in mist, snatches him away, and in his likeness draws Achilles off from the city.
+# Unnamed: the river's reproach (21.230-232), his answer to Poseidon and his turning away (21.462-469), Artemis' taunt
+# (21.474-477), his care for the wall (21.516-517), his leap (21.539), his standing by Agenor (21.546-549), and the
+# rescue and the trick (21.597-599, 21.601-603, 21.605).
+refs: [21.230-232, 21.462-469, 21.474-477, 21.516-517, 21.539, 21.546-549, 21.597-599, 21.601-603, 21.605]
+passages:
+  - 21.461-469 | Apollo will not fight Poseidon
+  - 21.514-520 | Apollo goes into Ilios
+---
+
+**The river's reproach.** Scamander turns from Achilles to Apollo: “Ah, god of the silver bow, child of Zeus, you have not kept / the plans of the son of Cronus” (21.229–230; see [[scamander]] and [[zeus]]), who had charged him to stand by the Trojans until evening. Apollo is not there, and nothing comes of it, and for that reason the speech has been condemned; Walter Leaf defends it as a reproach, not a cry for help, and takes the command for an angry partisan's version of the leave Zeus had given (*Commentary on the Iliad*, 1900, on 21.229; see the translation's note on 21.229–232).
+
+**His arrows.** In the river Achilles remembers his mother's word, that under the wall of the Trojans “I would perish by the swift arrows of Apollo” (21.277–278; see [[death-of-achilles-foretold]] and [[the-short-life-of-achilles]]); Hector, dying, will name the place and Paris beside Apollo (22.359–360).
+
+**Against Poseidon.** In Book 20 he was set against Poseidon (20.67–68), and Poseidon had named him and Ares as the gods who might begin the battle (20.138). Now Poseidon bids him begin, as the younger, and reminds him of the year they served Laomedon, when Apollo herded the king's cattle “on the slopes of wooded, many-folded Ida” (21.436–460; see [[poseidon]], [[poseidon-and-apollo-serve-laomedon]] and [[cattle]]). Apollo answers:
+
+{{quote:b58fa3d4-06ce-5762-99a7-2d2093d3244d}}
+
+His reason is Hera's, who has just called off Hephaestus because an immortal god is not to be battered “for the sake of mortals” (21.380; see [[hera]]), and it is the other half of his own warning to Diomedes in Book 5, that the race of gods and men is never alike (5.440–442; see [[gods-and-men-not-alike]]); the leaves recall Glaucus' answer to Diomedes in Book 6 (6.146–149; see [[the-generations-of-leaves]]). Leaf calls the mixture of leaves that blaze and eat the fruit of the field a medley that only deliberate parody could explain (on 21.464). αἴδετο, “he was ashamed” (21.468), before his father's brother (see [[aidos]]).
+
+**Artemis' taunt.** His sister rebukes him as a coward, with a bow “as empty as the wind”, who used to boast in their father's halls that he would fight Poseidon face to face (21.470–477; see [[artemis]]); “So she spoke, and far-working Apollo said nothing to her” (21.478; see [[far-worker]]). Aristonicus reports that 475–477 were athetized, since a god ashamed to fight his uncle could not always have been challenging him, and Apollo is no warrior but delights in dances and the lyre; Leaf keeps the verses, since the speech can hardly end at 474 (on 21.475; see the translation's note on 21.475–477).
+
+**The wall and Agenor.** When the battle is over, “Phoebus Apollo went into sacred Ilios; / for the wall of the well-built city was on his mind, / lest the Danaans sack it against fate that day” (21.515–517; see [[the-walls-of-troy]] and [[phoebus]]). ὑπὲρ μόρον, “against fate”, is what Zeus feared when he let the gods go to war (ὑπέρμορον, 20.30). When Priam opens the gates, Apollo “leapt out in front, to ward off ruin from the Trojans” (21.538–539), in the words in which the river had twice resolved to “ward off ruin from the Trojans” (21.138, 21.250; see [[loigos]]). He sets Agenor on, casts daring into his heart, and stands beside him leaning against the oak, hidden in thick mist (21.545–549; see [[agenor]], [[tharsos]] and [[the-oak-of-zeus]]). When Achilles rushes at Agenor, “Apollo no longer allowed him to win glory, / but snatched him away, and hid him in thick mist” (21.596–597; see [[divine-rescue]]), as he had snatched Hector away in Book 20 (20.443–444). Then the Far-Worker, “in the likeness of Agenor himself in every way” (21.600), draws Achilles away along the Scamander (21.599–605; see [[apollo-deceives-achilles]]).

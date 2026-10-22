@@ -7,6 +7,8 @@ summary: The red-purple dye made from sea snails, φοῖνιξ, and the color i
 aliases: [purple dye, crimson, phoinix]
 grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος, "!^Φοίνικ*"]
 en: [purple]
+# πορφύρεον κῦμα (21.326) is the surging wave.
+except: [21.326]
 passages:
   - 4.141-147 | Ivory stained with purple
 ---

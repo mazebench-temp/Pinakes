@@ -1,0 +1,5 @@
+---
+summary: Sophocles' Neoptolemus tells Philoctetes that Achilles died by no man's hand but a god's, shot down by Phoebus, as Thetis had told Achilles in this book that he would; Philoctetes answers that the slayer and the slain were both noble, which Walter Leaf takes for a reminiscence of Achilles' wish that Hector had killed him.
+---
+
+- **Shot by Phoebus.** Beginning his tale of how the Atreidae wronged him, Neoptolemus tells Philoctetes of his father's death: he is dead, by no man's hand but a god's, shot down, as they say, by Phoebus; and Philoctetes answers that both the slayer and the slain were noble (*Philoctetes* 331–336). In the river Achilles complains that his mother bewitched him with lies, telling him that he would perish under the wall of the Trojans by the swift arrows of Apollo, and wishes that Hector had killed him: “then a brave man would have been the killer, and he would have slain a brave man” (21.276–280). Walter Leaf compares the lines of Sophocles, and takes Philoctetes' answer for a reminiscence of 21.280 (*Commentary on the Iliad*, 1900, on 21.278): [[death-of-achilles-foretold]] and [[thetis]].

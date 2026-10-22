@@ -1,0 +1,7 @@
+---
+summary: Achilles says that even Oceanus, the source of all waters, fears “the thunderbolt of great Zeus / and his dread thunder” (21.198–199); in the battle of the gods Ares strikes at Athena's aegis, “which not even the thunderbolt of Zeus overpowers” (21.400–401).
+---
+
+**Even Oceanus.** Achilles ends his boast over Asteropaeus, the grandson of a river, with the one thing the greatest of rivers fears: “yet even he fears the thunderbolt of great Zeus / and his dread thunder, when it resounds from the sky” (21.198–199; see [[oceanus]], [[asteropaeus]] and [[zeus-is-mightier-than-rivers]]). Διὸς μεγάλοιο κεραυνός, “the thunderbolt of great Zeus”, ends the verse as it ends the simile of the oak felled by Zeus, “for hard to bear is the thunderbolt of great Zeus” (14.417; see [[the-oak-struck-by-the-thunderbolt]]). Here the bolt is joined with the thunder, βροντή, and with σμαραγήσῃ, “resounds”, the verb of the sea crashing on the beach and of the meadow loud with birds in the similes of Book 2 (2.210, 2.463). Zeus had thundered once already on this day, terribly, from above, when the gods went down to battle (20.56; see [[the-battle-of-the-gods]]).
+
+**The aegis.** In the battle of the gods Ares stabs at Athena's aegis, “the terrible one, which not even the thunderbolt of Zeus overpowers” (21.400–401; see [[aegis]], [[ares]] and [[athena]]), and she fells him with a stone. The weapon that Oceanus fears cannot master the aegis.

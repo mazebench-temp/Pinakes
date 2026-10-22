@@ -1,0 +1,355 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 33,
+      "title": "Achilles at the River",
+      "summary": "At the ford of Xanthus Achilles splits the Trojans: some flee across the plain toward the city, where Hera spreads a deep mist before them, and half are penned into the river and swim this way and that, like locusts driven into the water by fire. Achilles leaves his spear against the tamarisks and leaps in with his sword; the Trojans cower under the banks like fishes before a dolphin, and when his hands are weary he takes twelve young men alive from the river as the penalty for Patroclus and sends them, bound with their own belts, to the ships."
+    },
+    {
+      "from": 34,
+      "to": 135,
+      "title": "Lycaon",
+      "summary": "Achilles meets Lycaon, son of Priam, whom he once caught cutting fig shoots by night in his father's orchard and sold into Lemnos; ransomed by Eetion of Imbros, Lycaon has been home eleven days. Unarmed, he clasps Achilles' knees and begs for his life: he is not of the same womb as Hector. Achilles answers that before Patroclus died he spared Trojans, but now none shall escape; Patroclus died too, and he himself will die at dawn or evening or midday. He kills Lycaon with the sword, flings him into the river for the fishes, and boasts that the river will not save the Trojans until they have paid for Patroclus."
+    },
+    {
+      "from": 136,
+      "to": 204,
+      "title": "Asteropaeus",
+      "summary": "The river, angered, puts might into Asteropaeus, son of Pelegon and grandson of the river Axius, leader of the Paeonians. Throwing two spears at once, he hits Achilles' shield, where the gold holds, and grazes his right forearm; Achilles' spear sticks in the bank. Asteropaeus fails to wrench it free, and Achilles kills him with the sword and boasts that the lineage of Zeus is stronger than any river: even Achelous and Oceanus, from whom all waters flow, fear the thunderbolt of Zeus. Eels and fishes feed on the body."
+    },
+    {
+      "from": 205,
+      "to": 232,
+      "title": "The River Protests",
+      "summary": "Achilles kills seven Paeonians, Thersilochus, Mydon, Astypylus, Mnesus, Thrasius, Aenius and Ophelestes, until the river, in the likeness of a man, calls from a deep eddy: his streams are choked with the dead, let Achilles do his grim work on the plain. Achilles agrees to stop killing in the river, but not to stop killing Trojans until he has penned them in the city and met Hector. The river reproaches Apollo for not defending the Trojans as Zeus charged him."
+    },
+    {
+      "from": 233,
+      "to": 327,
+      "title": "Achilles and the River",
+      "summary": "Achilles leaps into the river, and the river rises against him, throws out the dead and hides the living in his eddies. Pushed off his feet, Achilles clutches an elm, which falls and bridges the stream, and flees across the plain with the swoop of an eagle, but the wave overtakes him as water overtakes a man leading a channel through his garden. He prays to Zeus: his mother promised him death from Apollo's arrows, and now he will drown like a swineherd boy. Poseidon and Athena come in the likeness of men and promise that he will not be overcome by the river and will kill Hector. The river calls on his brother Simoeis to help him bury Achilles in sand and silt."
+    },
+    {
+      "from": 328,
+      "to": 384,
+      "title": "Hephaestus' Fire",
+      "summary": "Hera, afraid for Achilles, sends Hephaestus against the river and raises the West and South Winds. The fire burns the dead on the plain and dries it like an orchard in the late-summer North Wind, then burns the elms, willows and tamarisks, the lotus and rushes, and the eels and fishes. The river boils like a cauldron of fat; he yields to Hephaestus and begs Hera to call off her son, swearing never to help the Trojans, even when Troy burns. Hera bids Hephaestus stop, and the river flows back in its bed."
+    },
+    {
+      "from": 385,
+      "to": 434,
+      "title": "Athena against Ares and Aphrodite",
+      "summary": "Strife falls among the other gods; they clash with a great crash, and Zeus on Olympus laughs to see them. Ares strikes at Athena's aegis and reminds her of Diomedes' spear; she fells him with a boundary stone, and he covers seven plethra as he falls. Aphrodite leads him away groaning, and at Hera's bidding Athena strikes her on the breast and boasts over them both."
+    },
+    {
+      "from": 435,
+      "to": 513,
+      "title": "Poseidon and Apollo, Hera and Artemis",
+      "summary": "Poseidon challenges Apollo, reminding him of the year they served Laomedon for hire, who cheated them of their wages and threatened to sell them and lop off their ears. Apollo will not fight for the sake of mortals, who are like leaves, and turns away, ashamed to fight his father's brother. Artemis taunts him; Hera seizes her wrists with one hand and beats her about the ears with her own bow, and she flees weeping like a dove. Hermes declines to fight Leto, who gathers up the bow and arrows; Artemis sits weeping on her father's knees and tells him that Hera struck her."
+    },
+    {
+      "from": 514,
+      "to": 543,
+      "title": "Priam Opens the Gates",
+      "summary": "Apollo goes into Troy, concerned for its wall, and the other gods return to Olympus. Achilles brings toil and sorrow on the Trojans, like smoke from a burning city sent by the gods' wrath. From the divine tower old Priam sees the rout and orders the gatekeepers to hold the gates open until the army is inside and then to shut them; Apollo goes out to meet the Trojans as they flee, parched and dusty, toward the wall, with Achilles behind them."
+    },
+    {
+      "from": 544,
+      "to": 611,
+      "title": "Agenor",
+      "summary": "Apollo puts daring into Agenor, son of Antenor, and stands by him hidden in mist. Agenor considers fleeing to Ida and returning at evening, but he would be caught; Achilles too is mortal, with one life. He waits like a leopard that faces the hunter, throws his spear, and hits Achilles' greave of newly wrought tin, which holds. Apollo snatches Agenor away, takes his likeness, and draws Achilles off along the Scamander, always a little ahead, while the Trojans pour into the city without waiting to learn who has escaped and who has died."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 54,
+      "to": 63,
+      "speaker": "achilles",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 74,
+      "to": 96,
+      "speaker": "lycaon-son-of-priam",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 99,
+      "to": 113,
+      "speaker": "achilles",
+      "to_whom": [
+        "lycaon-son-of-priam"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 122,
+      "to": 135,
+      "speaker": "achilles",
+      "to_whom": [
+        "lycaon-son-of-priam",
+        "trojans"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 150,
+      "to": 151,
+      "speaker": "achilles",
+      "to_whom": [
+        "asteropaeus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 153,
+      "to": 160,
+      "speaker": "asteropaeus",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "genealogy"
+    },
+    {
+      "from": 184,
+      "to": 199,
+      "speaker": "achilles",
+      "to_whom": [
+        "asteropaeus"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 214,
+      "to": 221,
+      "speaker": "scamander",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "protest"
+    },
+    {
+      "from": 223,
+      "to": 226,
+      "speaker": "achilles",
+      "to_whom": [
+        "scamander"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 229,
+      "to": 232,
+      "speaker": "scamander",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 273,
+      "to": 283,
+      "speaker": "achilles",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 288,
+      "to": 297,
+      "speaker": "poseidon",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 308,
+      "to": 323,
+      "speaker": "scamander",
+      "to_whom": [
+        "simoeis"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 331,
+      "to": 341,
+      "speaker": "hera",
+      "to_whom": [
+        "hephaestus"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 357,
+      "to": 360,
+      "speaker": "scamander",
+      "to_whom": [
+        "hephaestus"
+      ],
+      "kind": "entreaty"
+    },
+    {
+      "from": 369,
+      "to": 376,
+      "speaker": "scamander",
+      "to_whom": [
+        "hera"
+      ],
+      "kind": "entreaty"
+    },
+    {
+      "from": 379,
+      "to": 380,
+      "speaker": "hera",
+      "to_whom": [
+        "hephaestus"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 394,
+      "to": 399,
+      "speaker": "ares",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 410,
+      "to": 414,
+      "speaker": "athena",
+      "to_whom": [
+        "ares"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 420,
+      "to": 422,
+      "speaker": "hera",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 428,
+      "to": 433,
+      "speaker": "athena",
+      "to_whom": [
+        "ares",
+        "aphrodite"
+      ],
+      "kind": "boast"
+    },
+    {
+      "from": 436,
+      "to": 460,
+      "speaker": "poseidon",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "challenge"
+    },
+    {
+      "from": 462,
+      "to": 467,
+      "speaker": "apollo",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 472,
+      "to": 477,
+      "speaker": "artemis",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 481,
+      "to": 488,
+      "speaker": "hera",
+      "to_whom": [
+        "artemis"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 498,
+      "to": 501,
+      "speaker": "hermes",
+      "to_whom": [
+        "leto"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 509,
+      "to": 510,
+      "speaker": "zeus",
+      "to_whom": [
+        "artemis"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 512,
+      "to": 513,
+      "speaker": "artemis",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 531,
+      "to": 536,
+      "speaker": "priam",
+      "to_whom": [
+        "trojans"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 553,
+      "to": 570,
+      "speaker": "agenor",
+      "to_whom": [
+        "agenor"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 583,
+      "to": 589,
+      "speaker": "agenor",
+      "to_whom": [
+        "achilles"
+      ],
+      "kind": "challenge"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 611,
+      "label": "Day 27",
+      "note": "The fourth day of battle goes on: Achilles fights the river, the gods fight one another, and the Trojans flee into the city before Achilles, whom Apollo draws away in Agenor's likeness; the day continues through Book 22."
+    }
+  ]
+}

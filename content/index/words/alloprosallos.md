@@ -26,7 +26,7 @@ The promise she speaks of is not told in the Iliad. It serves to give the charge
 
 The two speakers condemn the god of war for changing sides, and both have their own dealings with him. Athena led him out of the battle by the hand at the start of the book, to leave the mortals to fight it out (5.29–36), and now she drives Diomedes' spear into his belly (5.855–859). Zeus calls him the most hateful of the gods, and has Paeëon heal him at once, because Ares is his son (5.895–904).
 
-The charge comes back in the battle of the gods. Athena fells Ares with a stone and tells him that he is paying for his mother's curses, “because you abandoned the Achaeans and help the arrogant Trojans” (21.412–414). In the Odyssey the singer Demodocus tells how Ares, the lover of Aphrodite, was caught in Hephaestus' net (*Odyssey* 8.266–366). Ares is Aphrodite's ally in the Iliad too: in Book 5 he lends her his horses to take her, wounded, to Olympus (5.355–363).
+The charge comes back in the battle of the gods. Athena fells Ares with a stone and tells him that he is paying for his mother's curses, “because the Achaeans you deserted, and give help to the overbearing Trojans” (21.412–414). In the Odyssey the singer Demodocus tells how Ares, the lover of Aphrodite, was caught in Hephaestus' net (*Odyssey* 8.266–366). Ares is Aphrodite's ally in the Iliad too: in Book 5 he lends her his horses to take her, wounded, to Olympus (5.355–363).
 
 {{notes}}
 

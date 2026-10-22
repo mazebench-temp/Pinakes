@@ -14,7 +14,7 @@ passages:
 
 Σατνιόεις (Satnioeis). Like the Simoeis, the river has a name ending in -όεις, and its origin is unknown. ἐϋρρείταο, “fair-flowing” (6.34; see [[fair-flowing]]).
 
-The Iliad names the river three times, each time as the place a man's family came from. Elatus, whom Agamemnon kills, lived “beside the banks of the fair-flowing Satnioeis, in steep Pedasus” (6.34–35; see [[elatus]]). A Naiad bore Satnius, whose name echoes the river's, to Enops “as he tended his cattle by the banks of the Satnioeis”, and the son of Oileus kills him (14.443–447; see [[satnius]], [[enops]] and [[ajax-son-of-oileus]]). Altes, whose daughter Laothoe bore Priam two sons, “rules the war-loving Leleges, holding steep Pedasus on the Satnioeis” (21.85–87); one of the two, Lycaon, is telling Achilles of his birth as he begs for his life (see [[lycaon-son-of-priam]]).
+The Iliad names the river three times, each time as the place a man's family came from. Elatus, whom Agamemnon kills, lived “beside the banks of the fair-flowing Satnioeis, in steep Pedasus” (6.34–35; see [[elatus]]). A Naiad bore Satnius, whose name echoes the river's, to Enops “as he tended his cattle by the banks of the Satnioeis”, and the son of Oileus kills him (14.443–447; see [[satnius]], [[enops]] and [[ajax-son-of-oileus]]). Altes, whose daughter Laothoe bore Priam two sons, “rules over the war-loving Leleges, holding steep Pedasus on the Satnioeis” (21.85–87); one of the two, Lycaon, is telling Achilles of his birth as he begs for his life (see [[altes]], [[laothoe]] and [[lycaon-son-of-priam]]).
 
 ## Outside Homer
 

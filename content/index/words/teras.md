@@ -10,7 +10,8 @@ en: [sign, signs, portents]
 refs: [2.318]
 # σῆμα at 10.466 is the mark Odysseus sets by Dolon's spoils, not a sign from the gods.
 # σῆμα at 11.166 is the mound of Ilus (the-tomb-of-ilus).
-except: [2.814, 10.466, 11.166]
+# σῆμα at 21.322 is the grave mound the river will make for Achilles.
+except: [2.814, 10.466, 11.166, 21.322]
 ---
 
 ## Meaning

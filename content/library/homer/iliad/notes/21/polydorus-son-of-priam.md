@@ -1,0 +1,11 @@
+---
+summary: Lycaon, his full brother, reminds Achilles at the river that Laothoe bore Priam two sons and that Achilles has killed one of them: “Him you brought down among the foremost foot soldiers, / godlike Polydorus, when you struck him with your sharp spear” (21.90–91).
+# Unnamed: the second of Laothoe's two sons, whose throat Achilles will cut (21.89), and "Him" (21.90).
+refs: [21.89-90]
+---
+
+{{quote:f8cb359e-0def-5157-870e-3dc4c5ad1497}}
+
+**Remembered by his brother.** Lycaon names Polydorus as he begs Achilles for his own life: their mother Laothoe, daughter of Altes, bore Priam two sons, “and you will cut the throats of both” (21.89; see [[lycaon-son-of-priam]], [[laothoe]] and [[altes]]). The death he recalls was told earlier on the same day, the fourth day of battle (see [[the-fourth-day-of-battle]]). ἀντίθεον Πολύδωρον, “godlike Polydorus” (21.91), are the words with which the narrator brought him in, when Achilles “went with his spear after godlike Polydorus” (20.407; see [[antitheos]]). He fell “among the foremost foot soldiers” (21.90): he had rushed through the champions to show off his speed, and Achilles' javelin struck him in the middle of the back as he darted past (20.411–416). πρυλέες are men who fight on foot, as the chiefs who leave their chariots at the ditch fight “on foot, armed in their armor” (11.49, 12.77). Lycaon says that Achilles struck him “with your sharp spear” (ὀξέϊ δουρί, 21.91; see [[sharp]]).
+
+**Hector's brother too.** When Polydorus fell, Hector, his brother by another mother, could no longer keep away from Achilles: “But when Hector saw his brother Polydorus / holding his bowels in his hands, sinking to the ground” (20.419–420), he came against him (20.419–423; see [[hector]] and [[kasignetos]]). Lycaon's last argument, “do not kill me, since I am not of the same womb as Hector” (21.95), comes just after he has named the brother of his own womb whom Achilles has killed; Bayfield found the plea out of place for that reason, as Walter Leaf reports (*Commentary on the Iliad*, 1900, on 21.94; see the translation's note on 21.94–96). In the next book Priam, on the wall, cannot see either son of Laothoe among the Trojans who have fled into the city, and does not know that both are dead (22.46–53; see [[priam]]).

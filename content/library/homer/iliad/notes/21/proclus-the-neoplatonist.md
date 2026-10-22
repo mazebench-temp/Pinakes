@@ -1,0 +1,7 @@
+---
+summary: Proclus defends Achilles' fight with the river against Plato: Achilles fought the visible water, or a local power, with Athena and Poseidon at his side, as Heracles fought the Achelous. He reads Hephaestus and the river as heat and dryness against cold and wet, and he answers the slaughter of the captives taken in this book with the fate of Lycaon, left to the fishes.
+---
+
+- The fight with Xanthus, the hair vowed to the Spercheius and the twelve captives, in answer to Plato (*On the Republic* I 146–153 Kroll, on 21.211–304 and 21.26–32): [[plato-achilles-and-the-river]].
+- Hephaestus against the river Xanthus, gathering the powers of heat and dryness against those of cold and wet, from which all becoming is made (*On the Republic* I 94–95 Kroll, on 21.328–382): [[proclus-on-the-battle-of-the-gods]].
+- **Lycaon among the fishes.** The twelve captives killed at the pyre, Proclus says, fared better than if they had suffered what Lycaon suffered, and he quotes Achilles' boast: “Lie there now among the fishes, who will lick the blood / from your wound and care nothing for you” (21.122–123; *On the Republic* I 152 Kroll). His text has ὠτειλῆς, “from the wound”, where ours has the accusative ὠτειλήν; Walter Leaf reports the genitive from most manuscripts and thinks it a correction (*Commentary on the Iliad*, 1900, on 21.122): [[lycaon-son-of-priam]] and [[human-sacrifice]].

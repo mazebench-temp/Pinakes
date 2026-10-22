@@ -1,0 +1,11 @@
+---
+summary: The book's speeches close on their effects: Lycaon's knees give way and the river grows angry at Achilles' words (21.114, 21.136); Achilles leaps into the river, and the river rushes on him (21.233, 21.324); Hephaestus readies and quenches the fire at Hera's word (21.342, 21.381); and in the battle of the gods each speech ends in a blow, a smile or a silence (21.400–502).
+grc: ["ὣς ἄρα μιν Πριάμοιο προσηύδα", "ὣς εἰπόντε", "φῆ πυρὶ καιόμενος"]
+en: [So the shining son of Priam spoke to him, She spoke]
+---
+
+**Three new forms.** Lycaon's plea is closed by a verse built like the close of the sons of Antimachus' plea, “So the shining son of Priam spoke to him, / begging with words” (21.97–98, as 11.136–137; [[implacable]]). Poseidon and Athena, having promised Achilles their help, go away together: “So saying, the two went away among the immortals” (21.298). And the burning river's speech to Hephaestus closes with φῆ, “He spoke, burning with fire” (21.361), the only place where φῆ follows a speech in place of the usual ἦ (Walter Leaf, *Commentary on the Iliad*, 1900, on 21.361; see the translation's note on 21.361).
+
+**Words and deeds.** The formula ἦ (ῥα) καί, “He spoke, and,” runs the word into the deed in one verse: Achilles draws his spear from the bank (21.200), leaps into the river (21.233); the river rushes on him (21.324); Hera seizes Artemis' wrists after a sentence she does not finish (21.489; [[aposiopesis]]); Agenor throws (21.590). Ares' threat ends in a stab at the aegis (21.400), Hera's call in Athena's pursuit of Aphrodite (21.423), Apollo's refusal in his turning back, “for he was ashamed / to come to blows with his father's brother” (21.468–469).
+
+**A smile and a silence.** Two speeches have no answer but a gesture: Athena's boast over Ares and Aphrodite, “So she spoke, and the white-armed goddess Hera smiled” (21.434; [[white-armed]]), and Artemis' taunt, “So she spoke, and far-working Apollo said nothing to her” (21.478; [[far-worker]]). The gods' talk ends in the verse that closes a conversation, “So they spoke such words to one another” (21.514), and the book's last speech, Agenor's challenge, ends in his spear cast (21.590). See [[the-battle-of-the-gods]] and [[winged-words]].

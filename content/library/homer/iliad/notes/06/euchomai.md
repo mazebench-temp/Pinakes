@@ -11,7 +11,7 @@ passages:
 
 {{quote:355eb7a5-a8c1-5675-b8b5-f98c69a34fa6}}
 
-ταύτης τοι γενεῆς τε καὶ αἵματος εὔχομαι εἶναι, “this is the lineage and the blood I claim”. εὔχομαι here is not a boast. It is the formal declaration with which a man states who he is, and the line is a formula: Aeneas ends his own genealogy with it when he meets Achilles (20.241; see [[genealogy-in-battle]]). Diomedes claims to be “of a good father” in the same way (γένος εὔχομαι εἶναι, 14.113), and Achilles “of the race of great Zeus” (21.187). See [[genee]] and [[fathers-and-sons]].
+ταύτης τοι γενεῆς τε καὶ αἵματος εὔχομαι εἶναι, “this is the lineage and the blood I claim”. εὔχομαι here is not a boast. It is the formal declaration with which a man states who he is, and the line is a formula: Aeneas ends his own genealogy with it when he meets Achilles (20.241; see [[genealogy-in-battle]]). Diomedes claims to be “of a good father” in the same way (γένος εὔχομαι εἶναι, 14.113), and Achilles “of the lineage of great Zeus” (21.187). See [[genee]] and [[fathers-and-sons]].
 
 Diomedes answers with a claim of his own, and makes it public. “Let us exchange armor with each other, so that these men too may know that we claim to be (εὐχόμεθʼ εἶναι) guest-friends from our fathers' time” (6.230–231). A claim made before others binds the man who makes it (see the note on Book 4). The two armies are to see what the two men declare, and the armor is the proof (see [[xenia]]).
 

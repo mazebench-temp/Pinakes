@@ -8,6 +8,8 @@ aliases: [dēmos, demos, deme, land, people, commoner, dēmogerontes]
 # δημός "fat" (δημὸν 8.240; δημῷ 8.380, 11.818, 13.832) is another word.
 grc: [δήμου, δῆμον, "!=δημὸν", "!=δημῷ"]
 en: [people, land]
+# δημόν at 21.127 is "fat", the white fat of Lycaon.
+except: [21.127]
 ---
 
 ## Meaning

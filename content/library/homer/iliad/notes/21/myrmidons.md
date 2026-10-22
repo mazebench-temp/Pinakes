@@ -1,0 +1,5 @@
+---
+summary: Over the body of Asteropaeus Achilles names his father, in his lineage from Zeus, as “lord over many Myrmidons” (21.188).
+---
+
+τίκτέ μʼ ἀνὴρ πολλοῖσιν ἀνάσσων Μυρμιδόνεσσι, “The man who begot me is lord over many Myrmidons” (21.188; see [[peleus]] and [[zeus-is-mightier-than-rivers]]). It is the only time the book names the Myrmidons. Achilles gives his father's rank as the first link of his line up to Zeus, in the language of the genealogies: Diocles' line was from the Alpheus, “who begot Ortilochus, lord over many men” (5.546), and Idomeneus, tracing his own descent from Zeus, says “and Deucalion fathered me, a lord over many men” (13.452; see [[genealogy-in-battle]]). Agamemnon told Achilles to go home with his ships and his companions “and lord it over the Myrmidons” (1.179–180); it is Peleus, at home in Phthia, who rules them, and Achilles had reminded the weeping Patroclus that “Peleus, son of Aeacus, lives among the Myrmidons” (16.15; see [[phthia]] and [[aeacus]]).

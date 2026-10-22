@@ -1,0 +1,10 @@
+---
+summary: Book 21 has no dawn of its own: it goes on with the fourth day of battle. Two newcomers count their days at Troy by dawns, Lycaon, home from Lemnos, “this dawn / is the twelfth since I came to Ilios” (21.80–81), and Asteropaeus, “the eleventh dawn since I came to Ilios” (21.155–156). Achilles' “a morning or an evening or a midday” is the time of day, and is not counted to the goddess (21.111).
+# ἠὼς at 21.111, beside δείλη "evening" and μέσον ἦμαρ "midday", is the morning, the part of the day, as at 8.66
+# and 11.84, and is excepted.
+except: [21.111]
+---
+
+**Counting by dawns.** The book continues the day that began with Dawn rising from the streams of Oceanus at the start of Book 19 (19.1–3; see [[the-fourth-day-of-battle]]). Its two speakers who have just come to Troy reckon the days since by dawns, as the twelfth dawn after Thetis' visit to Achilles brought the gods home from the Ethiopians (1.493). Lycaon, ransomed from Lemnos, tells Achilles, ἠὼς δέ μοί ἐστιν / ἥδε δυωδεκάτη, “and this dawn / is the twelfth since I came to Ilios” (21.80–81), and the narrator has counted them before him: “For eleven days he delighted his heart with his friends”, and on the twelfth a god threw him into Achilles' hands (21.45–47; see [[lycaon-son-of-priam]]). Asteropaeus, leader of the Paeonians, counts one day fewer: “and this is now / the eleventh dawn since I came to Ilios” (21.155–156; see [[asteropaeus]]). Both die at Achilles' hands that day.
+
+**Morning.** Achilles tells Lycaon that his own death is sure, though its hour is not: “there will come a morning or an evening or a midday” (21.111; see [[patroclus-died-too]]). Here ἠώς is the time of day, beside δείλη, “evening”, a word found only here in Homer, and μέσον ἦμαρ, “midday” (see the translation's note on 21.111). The index does not count it to the goddess, as it does not count “As long as it was morning” (8.66 = 11.84). Walter Leaf reports that the scholia, though not Aristarchus, put a stop after ἔσσεται and made “a morning or an evening or a midday” a parenthesis (*Commentary on the Iliad*, 1900, on 21.111).

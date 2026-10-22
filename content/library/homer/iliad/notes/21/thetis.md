@@ -1,0 +1,9 @@
+---
+summary: She is not named in the book. Achilles tells Lycaon that “a goddess was the mother who bore me” (21.109), and trapped in the river he blames his dear mother, “who bewitched me with lies”: she told him that he would perish under the wall of the Trojans by the swift arrows of Apollo (21.276–278).
+# Unnamed: "a goddess was the mother who bore me" (21.109) and "my dear mother" (21.276-278).
+refs: [21.109, 21.276-278]
+---
+
+**The goddess his mother.** Lycaon has pleaded that his mother Laothoe bore him “to be short-lived” (21.84–85; see [[laothoe]]), the word Achilles used of himself when he spoke to Thetis in the first book (1.352). Achilles answers with his own parents: “I am the son of a brave father, and a goddess was the mother who bore me; / yet over me too hang death and mighty fate” (21.109–110; see [[achilles]] and [[the-short-life-of-achilles]]). The son of a goddess will die as Lycaon dies.
+
+**Her word.** In the river he cries to Zeus that no other of the heavenly gods is so much to blame “as my dear mother, who bewitched me with lies; / she told me that under the wall of the armored Trojans / I would perish by the swift arrows of Apollo” (21.276–278; see [[death-of-achilles-foretold]]). No earlier book reports her saying so. She told him that his life would be brief and that his fate was ready straight after Hector's (1.416–418, 18.95–96), and of the two fates between which he must choose (9.410–416; see [[the-two-fates-of-achilles]]). ψεύδεσσιν ἔθελγεν, “bewitched me with lies”: θέλγω is to beguile or bewitch, and the same form comes back at the end of the book, when Apollo draws Achilles away from the city, “for by a trick Apollo was bewitching him” (21.604; see [[apollo]]). His fear is answered at once: Poseidon and Athena tell him that it is not his fate to be brought down by a river (21.291), and the dying Hector will foretell his death by Paris and Apollo at the Scaean gates (22.359–360).

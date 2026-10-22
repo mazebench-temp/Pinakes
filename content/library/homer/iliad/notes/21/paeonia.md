@@ -1,0 +1,5 @@
+---
+summary: Asked who he is, Asteropaeus tells Achilles that he comes “from deep-soiled Paeonia, which lies far away”, leading the Paeonians, and that he came to Ilios only eleven days before (21.154–156).
+---
+
+εἴμʼ ἐκ Παιονίης ἐριβώλου τηλόθʼ ἐούσης, “I come from deep-soiled Paeonia, which lies far away” (21.154; see [[asteropaeus]] and [[deep-soiled]]). It is the answer to the second half of Achilles' question, “Who are you among men, and from where” (21.150), given before the lineage, and the first thing it says of the country is its distance: the Catalogue too brings the Paeonians τηλόθεν, “from far away” (2.849; see [[paeonians]] and [[amydon]]). The verse is made like those that bring other allies from distant lands to die, ὃς ἐκ … ἐριβώλακος εἰληλούθει, “who had come from deep-soiled …”: Phaestus from Tarne, Apisaon from this same Paeonia, Rhigmus from Thrace (5.44, 17.350, 20.485; see [[apisaon-son-of-hippasus]] and [[rhigmus]]). Asteropaeus says it of himself, in the first person, with the shorter form of the adjective. The distance in space is matched by the shortness of his stay: “this is now / the eleventh dawn since I came to Ilios” (21.155–156).

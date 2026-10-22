@@ -19,7 +19,7 @@ The warning answers the charge in its own terms. Diomedes has rushed on “like 
 
 The same book gives the other side of the lesson. Diomedes has just wounded one god, with Athena's leave (5.130–132), and he will wound another at her side (5.855–859). Dione tells Aphrodite what becomes of the man who fights the gods (5.406–409; see [[who-fights-the-gods]]), and Ares, in his pain, calls the gods' sufferings the price of favors done for men (5.873–874). Apollo speaks from the side of the gods who are not wounded. See [[gods-and-mortals]], [[gods-wounded-by-mortals]] and [[apollo]].
 
-Apollo says it again in the battle of the gods, when he refuses to fight Poseidon “for the sake of wretched mortals, who are like leaves”, now flourishing, now wasting away (21.462–467). The two scenes are one thought. Men are not the gods' equals, and they are not worth a quarrel between gods.
+Apollo says it again in the battle of the gods, when he refuses to fight Poseidon for the sake of mortals (21.462–467).
 
 ## Outside Homer
 

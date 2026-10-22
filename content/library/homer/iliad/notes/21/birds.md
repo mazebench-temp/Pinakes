@@ -1,0 +1,5 @@
+---
+summary: The birds of Book 21 are birds of prey in similes of speed and flight: the eagle, “the strongest and the swiftest of birds”, whose swoop Achilles has when he springs away from the river (21.252–253), and the hawk from which a dove flies into a hollow rock, as Artemis flees from Hera (21.493–496).
+---
+
+No bird of omen appears in the book. πετεηνά, “winged creatures”, the birds, are named once, in the eagle's superlative: ὅς θʼ ἅμα κάρτιστός τε καὶ ὤκιστος πετεηνῶν, “which is at once the strongest and the swiftest of birds” (21.253; see [[eagle]] and [[like-an-eagle]]). The hawk was ὤκιστος πετεηνῶν, “the swiftest of winged birds”, in Book 15 (15.238; see [[like-a-hawk]]). In this book the hawk is the pursuer of a dove: Artemis, beaten by Hera, flees in tears “like a dove / that flies from a hawk into a hollow rock” (21.493–494; see [[the-dove-and-the-hawk]], [[hawk]] and [[doves]]). Both birds of prey are likenesses of flight. Achilles has the eagle's swoop when he springs away from the river, and the goddess is the hunted bird.

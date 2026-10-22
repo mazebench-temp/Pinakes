@@ -1,0 +1,6 @@
+---
+summary: The river's anger drives the middle of the book. Scamander “grew all the more angry in his heart” at Achilles' taunt (21.136), was angry for the young men slain in his streams (21.146), spoke to Achilles “in anger” (21.212), and “was enraged at the son of Peleus” (21.306). Hera holds back the fire, “angry though she was” (21.384); Athena tells Ares that his mother “in her anger is devising evil against you” (21.413); Poseidon and Apollo went home from Laomedon “angry over the wage” (21.457); and the gods go back to Olympus, “some of them angry” (21.519).
+grc: [χολώσατο, κεχόλωτο, χωσάμενος, χώετο, χωομένη, χωόμενοι]
+---
+
+Both verbs are here: the river's anger is told first with χολόω, the verb of bile (21.136, 21.146), then with χώομαι (21.212, 21.306), which the book also uses for the anger of Hera and of the other gods. Aristophanes athetized Achilles' taunt about the river's sacrifices (21.130–135), Didymus reports, as added by readers who could not see why the river is angry, though 21.146 says why (see the translation's note on 21.130–135). The battle of the gods ends as it began, with the gods divided, some angry and some exulting, as they sit down again beside Zeus (21.518–520; see [[the-battle-of-the-gods]], [[scamander]] and [[menis]]).

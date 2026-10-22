@@ -1,0 +1,6 @@
+---
+summary: Achilles tells Lycaon that no Trojan whom a god throws into his hands before Ilios shall escape death, “no one of all the Trojans, and above all of the sons of Priam” (21.104–105). Lycaon, Priam's son by Laothoe, dies; his full brother Polydorus fell earlier the same day (21.88–91).
+grc: ["Πριάμοιό γε παίδων"]
+---
+
+περὶ δʼ αὖ Πριάμοιό γε παίδων, “and above all of the sons of Priam” (21.105): Walter Leaf takes καί before πάντων to stress “all”, so as to set off the “above all” that follows (*Commentary on the Iliad*, 1900, on 21.105). The son of Priam before Achilles is Lycaon, son of Priam by Laothoe, daughter of Altes, one of the many wives of Priam, “His daughter Priam had for a wife, and many others too” (21.88; see [[lycaon-son-of-priam]], [[laothoe]] and [[priam]]). The other son of Laothoe, Polydorus, the youngest of Priam's sons, Achilles killed earlier in the day (21.89–91; 20.407–418; see [[polydorus-son-of-priam]]). Lycaon's plea that he is not of the same womb as Hector (21.95) separates the sons of Hecuba from the rest; Priam tells Achilles in the last book that nineteen of his fifty sons were from one womb, and the others were borne to him by women in his halls (24.495–497; see [[hecuba]]).

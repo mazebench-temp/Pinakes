@@ -24,7 +24,7 @@ The goddesses have crossed from Olympus in Hera's chariot, each leap of the hors
 
 ## Elsewhere in Homer
 
-Goddesses are doves again in the battle of the gods. Hera boxes Artemis' ears with her own bow, and Artemis flees in tears “like a dove that flies from a hawk into a hollow rock” (21.493–496). There the dove is a defeated goddess in flight, and the image fits its usual place in Homer, where the dove is prey: Achilles swoops on Hector as a hawk on a timid dove (22.139–142). See [[doves]].
+Goddesses are doves again in the battle of the gods. Hera boxes Artemis' ears with her own bow, and Artemis flees in tears “like a dove that flies from a hawk into a hollow rock” (21.493–496; see [[the-dove-and-the-hawk]]). There the dove is a defeated goddess in flight, and the image fits its usual place in Homer, where the dove is prey: Achilles swoops on Hector as a hawk on a timid dove (22.139–142). See [[doves]].
 
 ## Outside Homer
 

@@ -4,8 +4,9 @@ greek: Μύδων
 kind: person
 tags: [trojan, warrior, paphlagonia]
 summary: Son of [[Atymnius]] and charioteer of the Paphlagonian leader [[Pylaemenes]]. Struck down by Antilochus with a stone and a sword, he pitches headfirst from the chariot into deep sand and stays standing there until his own horses knock him flat.
-# Μύδωνα at 21.209 is a Paeonian killed by Achilles.
 grc: [Μύδωνα, Ἀτυμνιάδην]
+# Μύδωνα at 21.209 is a Paeonian whom Achilles kills beside the river (mydon-the-paeonian).
+except: [21.209]
 refs: [5.582-588]
 relations:
   - father: atymnius (5.581)
@@ -21,4 +22,4 @@ passages:
 
 **The fall.** Antilochus rushes in and strikes his temple (κόρση) with the sword. Mydon falls gasping from the chariot, κύμβαχος, “headfirst”, onto the crown of his head (βρεχμός, a word found only here) and his shoulders (5.585–586). Then the poem holds the picture: “He stood there a long while, for he had struck deep sand, until the horses kicked him and threw him flat in the dust” (5.587–588). The horses he was turning finish his fall, and Antilochus whips them off to the Achaean army (5.589). A dead charioteer's horses are a prize; in Book 13 Antilochus drives off the horses of Asius' charioteer in the same way (13.400–401). See [[antilochus]], [[horses]] and [[chariot]].
 
-Another Mydon, a Paeonian, is among the men Achilles kills by the river in Book 21 (21.209).
+Another Mydon, a Paeonian, is among the men Achilles kills by the river in Book 21 (21.209; see [[mydon-the-paeonian]]).

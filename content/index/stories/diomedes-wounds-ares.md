@@ -49,7 +49,7 @@ He has his mother Hera's fury, Zeus goes on, and had he been the son of any othe
 
 ## Elsewhere in Homer
 
-In Book 8 Hera and Athena set out again against Zeus' orders, in the same lines: the harnessing, Athena's robe and tunic, the spear, the gates kept by the Hours (8.381–396). This time Zeus sends Iris to turn them back. In Book 15 Athena disarms Ares when he wants to go down and avenge his son Ascalaphus, and calls him a madman (15.113–142). In the battle of the gods Ares attacks her and reminds her of the day she set Diomedes on him and thrust the spear herself, “and tore my fair skin” (21.394–399). She fells him with a boundary stone, and Aphrodite leads him away (21.403–417). The Odyssey's Demodocus sings of Ares caught in Hephaestus' net with Aphrodite, while the gods laugh (Odyssey 8.266–366).
+In Book 8 Hera and Athena set out again against Zeus' orders, in the same lines: the harnessing, Athena's robe and tunic, the spear, the gates kept by the Hours (8.381–396). This time Zeus sends Iris to turn them back. In Book 15 Athena disarms Ares when he wants to go down and avenge his son Ascalaphus, and calls him a madman (15.113–142). In the battle of the gods Ares reminds Athena of the wound, and she fells him with a boundary stone (21.394–417). The Odyssey's Demodocus sings of Ares caught in Hephaestus' net with Aphrodite, while the gods laugh (Odyssey 8.266–366).
 
 ## Outside Homer
 

@@ -1,0 +1,12 @@
+---
+summary: Achilles tells Lycaon that before Patroclus died he spared Trojans, “and many I took alive and sold” (21.101–102). Lycaon was one of them, sold into Lemnos and ransomed (21.40–44, 21.78–80); now Achilles takes twelve young men alive only to kill them at the pyre (21.26–32). Poseidon recalls that Laomedon threatened to sell him and Apollo “off to islands far away” (21.453–454).
+# Unnamed: Lycaon's sale and ransom (21.40-44, 21.58, 21.78-80), Achilles' captives (21.101-102), Laomedon's
+# threat (21.453-454).
+refs: [21.40-44, 21.58, 21.78-80, 21.101-102, 21.453-454]
+---
+
+**A captive's history.** Lycaon's story is the fullest account in the Iliad of what became of a man taken alive. A king's grandson, caught by night in his father's orchard, he was carried across the sea and sold into Lemnos, where the son of Jason bought him; Walter Leaf thinks as a slave (*Commentary on the Iliad*, 1900, on 21.41; see [[lycaon-son-of-priam]], [[euneus]] and [[lemnos]]). A guest-friend ransomed him at three times his price, and he came home (21.42–44, 21.79–80; see [[eetion-of-imbros]] and [[apoina]]). He had eleven days of freedom (21.45–46). Persons are priced as goods are: he fetched Achilles “the worth of a hundred oxen” (21.79; see [[trade]]).
+
+**Taken alive.** ζωοὺς ἕλον ἠδʼ ἐπέρασσα, “many I took alive and sold” (21.102): before Patroclus died, Achilles says, sparing his captives and selling them was dearer to him than killing them (21.100–102), as he once took Isus and Antiphus on Ida and let them go for ransom (11.104–106; see [[achilles-raids]]). The same word for “alive”, ζωούς, is used of the twelve young men whom he chooses from the river in this book, “as the penalty for Patroclus”; he binds their hands with their own belts and sends them to the ships, not to be sold but to be killed at the pyre (21.26–32; 23.175–176; see [[human-sacrifice]]). Lycaon is killed, and Achilles says that none shall escape death now (21.103–105; see [[the-death-of-lycaon]]).
+
+**Gods threatened with sale.** Even gods could be threatened with slavery. Poseidon reminds Apollo that when they served Laomedon for hire, he robbed them of their wage, threatened to bind their feet and hands “and to sell us off to islands far away”, and vowed to lop off their ears (21.450–455; see [[poseidon-and-apollo-serve-laomedon]] and [[laomedon]]). Priam uses the same words in the next book of the sons whom Achilles killed or sold (22.44–45), and Hecuba in the last names the islands, Samos, Imbros and Lemnos (24.751–753).

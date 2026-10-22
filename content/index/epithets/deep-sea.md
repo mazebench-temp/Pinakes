@@ -8,7 +8,8 @@ aliases: [bathys]
 grc: [βαθεῖαν]
 # κατὰ φρένα τύψε βαθεῖαν (19.125): "struck him deep in his heart".
 # ἠέρα τύψε βαθεῖαν (20.446): Achilles strikes the deep mist.
-except: [7.341, 7.440, 19.125, 20.446]
+# ἠέρα … βαθεῖαν (21.7): the deep mist that Hera spreads.
+except: [7.341, 7.440, 19.125, 20.446, 21.7]
 en: [deep]
 of: [sea]
 ---

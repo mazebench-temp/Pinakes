@@ -4,7 +4,7 @@ greek: πάντοσε παπταίνων ὥς τʼ αἰετός, ὅν ῥά �
 kind: simile
 tags: [bird, wild-animal]
 summary: Menelaus looks everywhere for Antilochus like the eagle, which, men say, has the sharpest sight of all the winged birds under heaven: even from high up it sees the swift-footed hare crouching under a leafy bush, and swoops down and takes its life (17.673–681).
-aliases: [like an eagle, the sharp-sighted eagle, Menelaus like an eagle, the eagle's eye]
+aliases: [the sharp-sighted eagle, Menelaus like an eagle, the eagle's eye]
 grc: ["ὅν ῥά τέ φασιν", "ὀξύτατον δέρκεσθαι", "ὑψόθʼ ἐόντα", "θάμνῳ ὑπʼ ἀμφικόμῳ", "ὦκα λαβὼν ἐξείλετο", "πάντοσε δινείσθην"]
 en: [looking about everywhere, they say, sight, even when he is high up, does not escape him, crouching under a, swoops, quickly seizes it, roved everywhere]
 of: [menelaus]

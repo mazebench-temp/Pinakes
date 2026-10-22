@@ -1,0 +1,11 @@
+---
+summary: Achilles names his father twice. To Lycaon he says, “I am the son of a brave father, and a goddess was the mother who bore me” (21.109), and over the body of Asteropaeus, grandson of a river, he traces his line to Zeus: “The man who begot me is lord over many Myrmidons, / Peleus, son of Aeacus; and Aeacus was the son of Zeus” (21.188–189). His spear is the Pelian ash that Chiron gave Peleus (21.162), and twelve times he is named after his father.
+# Unnamed: "a brave father" (21.109) and "The man who begot me" (21.188).
+refs: [21.109, 21.188]
+---
+
+**Son of Aeacus.** Asteropaeus, son of Pelegon, has claimed descent from the river Axius, and Achilles answers with his father's line: “but I claim to be of the lineage of great Zeus. / The man who begot me is lord over many Myrmidons, / Peleus, son of Aeacus; and Aeacus was the son of Zeus” (21.187–189; see [[achilles]], [[asteropaeus]], [[genealogy-in-battle]] and [[myrmidons]]). Αἰακίδης, “son of Aeacus”, is Peleus here, as when Achilles asked Patroclus for news of him (16.15) and when Thetis told Hephaestus of her marriage (18.433); the genitive Αἰακίδαο, “the grandson of Aeacus”, is Achilles, whose spear Asteropaeus tries to break (21.178; see [[grandson-of-aeacus]]). Only here does the poem name Aeacus himself and call him a son of Zeus (see [[aeacus]] and [[zeus]]). To Lycaon Achilles gave his parents without names: πατρὸς δʼ εἴμʼ ἀγαθοῖο, θεὰ δέ με γείνατο μήτηρ, “I am the son of a brave father, and a goddess was the mother who bore me” (21.109; see [[thetis]]).
+
+**The father's spear.** Achilles raises against Asteropaeus “the Pelian ash” (21.162), the spear that Chiron gave to his father from the peak of Pelion (16.143–144, 19.390–391; see [[the-pelian-ash]] and [[chiron]]). Asteropaeus cannot draw it out of the bank where it has stuck (21.174–178).
+
+**The patronymic.** Achilles is named after his father twelve times in the book: Πηλέος υἱός, “the son of Peleus” (21.139), Πηλεΐδης and its cases (21.153, 21.173, 21.208, 21.251, 21.272, 21.288, 21.557, 21.595) and Πηλεΐων (21.306, 21.327, 21.599; see [[son-of-peleus]]). Asteropaeus and Poseidon address him so, “Great-hearted son of Peleus” and “Son of Peleus” (21.153, 21.288).

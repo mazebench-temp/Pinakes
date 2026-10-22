@@ -15,7 +15,7 @@ The Achaeans are ἐϋκνήμιδες, “well-greaved” ([[well-greaved]]), a
 
 ## Elsewhere in Homer
 
-Hephaestus makes Achilles' new greaves of pliant tin (ἑανοῦ κασσιτέροιο, 18.613). Old Laertes, working in his orchard, wears greaves of stitched oxhide against the thorns (Odyssey 24.228–229).
+Hephaestus makes Achilles' new greaves of pliant tin (ἑανοῦ κασσιτέροιο, 18.613), and Agenor's javelin rings on one of them, “the greave of newly wrought tin”, without piercing it (21.591–594; see [[tin]]). Old Laertes, working in his orchard, wears greaves of stitched oxhide against the thorns (Odyssey 24.228–229).
 
 ## Outside Homer
 

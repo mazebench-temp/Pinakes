@@ -6,7 +6,8 @@ tags: [trojan, troad]
 summary: Father of the archer [[Pandarus]], from [[Zeleia]] under Mount Ida. Not Lycaon the son of Priam, whom Achilles kills in Book 21.
 grc: [Λυκάονος]
 # Λυκάονος at 3.333 is Paris' brother (lycaon-son-of-priam).
-except: [3.333]
+# Λυκάονος at 21.127 is Priam's son (lycaon-son-of-priam).
+except: [3.333, 21.127]
 en: [Lycaon]
 ---
 

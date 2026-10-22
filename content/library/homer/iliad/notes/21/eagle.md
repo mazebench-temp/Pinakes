@@ -1,0 +1,5 @@
+---
+summary: Fleeing the river that has risen against him, Achilles springs away “with the swoop of an eagle, the black hunter, / which is at once the strongest and the swiftest of birds” (21.252–253).
+---
+
+μέλανος τοῦ θηρητῆρος, “the black hunter” (21.252), is one of the eagle's names, like the “dark hunter” of Book 24 (24.316); κάρτιστός τε καὶ ὤκιστος πετεηνῶν, “at once the strongest and the swiftest of birds” (21.253), adds two superlatives to its others, the surest in omen and the sharpest-sighted (8.247, 17.674–675). Walter Leaf reports the variants that ancient readers found in the verse: μελανόστου, “black-boned”, μελανόσσου, “black-eyed”, Ahrens' conjecture μελανόρσου, “black-tailed”, and ὄμματα, “eyes”, for οἴματα, “swoop” (*Commentary on the Iliad*, 1900, on 21.252). The eagle is usually a hunter in the similes, falling on its prey; here its speed carries Achilles in flight from the water, and the water overtakes him all the same (21.254–264; see [[like-an-eagle]] and [[the-channel-and-the-gardener]]). Aristotle's black eagle, the hare-killer, is the smallest of the eagles and the strongest (*History of Animals* 9.32; see [[aristotle]]).

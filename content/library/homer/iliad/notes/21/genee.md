@@ -1,0 +1,5 @@
+---
+summary: Achilles asks Asteropaeus who he is, and Asteropaeus answers, “Great-hearted son of Peleus, why do you ask about my lineage?” (21.153), and gives it: “But my lineage is from the broad-flowing Axius” (21.157). Achilles kills him and answers with his own: “You say that you are of the lineage of a broad-flowing river, / but I claim to be of the lineage of great Zeus” (21.186–187), for “the lineage of Zeus is mightier than a river's” (21.191). Among the gods, Poseidon bids Apollo begin, “for you are younger by birth” (21.439).
+---
+
+Asteropaeus opens with Glaucus' answer to Diomedes, with “son of Peleus” for “son of Tydeus” (6.145), and is killed after reciting his lineage, where Glaucus was spared for his (see [[genealogy-in-battle]], [[asteropaeus]] and [[zeus-is-mightier-than-rivers]]). Poseidon's rank is age: Apollo should begin “since I was born first and know more” (21.440), the verse of Odysseus to Achilles (19.219), and the claim that Zeus makes over Poseidon himself, “the elder by birth” (15.166; and 13.355). Hera turns Glaucus' verse to war when she beats Artemis: “But if you wish to learn of war, so that you may know well” (21.487; 6.150).

@@ -10,7 +10,8 @@ aliases: [Pedasos]
 grc: [Πήδασον]
 en: [Pedasus]
 # Πήδασον at 20.92 is the town of the Leleges that Achilles sacked.
-except: [6.35, 9.152, 9.294, 16.152, 16.467, 20.92]
+# Πήδασον at 21.87 is the town of the Leleges on the Satnioeis.
+except: [6.35, 9.152, 9.294, 16.152, 16.467, 20.92, 21.87]
 refs: [6.26-28]
 relations:
   - father: bucolion (6.22)

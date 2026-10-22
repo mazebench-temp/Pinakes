@@ -7,6 +7,8 @@ summary: “Shining, divine”: a general honorific of heroes and heroines, godd
 aliases: [divine, glorious, dios]
 grc: [=δῖος]
 en: [brilliant]
+# δῖαν at 21.43 (Arisbe) and 21.219 (the sea) is "shining", of places.
+except: [21.43, 21.219]
 of: [achilles, odysseus, nestor, agamemnon, alcestis, aphrodite, cephisus, elis, arisbe, helen, paris, hector, athena, oeneus, anteia, aretaon, lycomedes, eos, artemis]
 ---
 

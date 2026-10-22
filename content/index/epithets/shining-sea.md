@@ -7,7 +7,8 @@ summary: The adjective δῖος (“bright, divine”) applied to the [[sea]].
 aliases: [bright sea, divine sea]
 grc: [δῖαν]
 # Ἠῶ δῖαν, "brilliant Dawn" (9.240, 9.662, 11.723, 18.255), belongs to brilliant.
-except: [9.240, 9.662, 11.723, 18.255]
+# δῖαν at 21.43 is shining Arisbe.
+except: [9.240, 9.662, 11.723, 18.255, 21.43]
 en: [shining]
 of: [sea]
 ---

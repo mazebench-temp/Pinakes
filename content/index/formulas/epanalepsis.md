@@ -3,7 +3,7 @@ title: Epanalepsis
 greek: ἐπανάληψις
 kind: formula
 tags: [figure, repetition]
-summary: A phrase that ends one verse is taken up again at the beginning of the next. The Iliad has the figure three times, first in Hector's answer to Achilles: “even if his hands are like fire, / if his hands are like fire.”
+summary: A word or phrase of one verse is taken up again at the beginning of the next. With a whole phrase the Iliad has the figure three times, first in Hector's answer to Achilles: “even if his hands are like fire, / if his hands are like fire.”
 aliases: [epanalepsis, resumption, taking up again]
 ---
 

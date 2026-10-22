@@ -19,7 +19,7 @@ Its first use ends the last of the single kills that open Book 5. Eurypylus runs
 
 The verse comes twice more, and the setting is the same each time: a sword stroke and blood. Ajax son of Oileus cuts Cleobulus' neck, “and the whole sword grew warm with blood” (16.330–334), and Achilles splits Echeclus' head, with the same half-verse about the sword (20.474–477). The color follows the blood in each scene: the arm that falls “bloody” (αἱματόεσσα) to the plain, the sword warm with it. See [[hypsenor]], [[eurypylus]] and [[sword]].
 
-What πορφύρεος means here is not certain. It is the color of fine dyed cloth (3.126), but also of the sea wave (1.482), of the rainbow (17.547) and of a cloud (17.551), and the verb πορφύρω means “surge, heave”, of the sea and of a troubled heart (14.16, 21.551). Some take purple death as the color of blood; others as the darkness that covers a dying man's eyes, like the black night of other formulas; others, from the verb, as death surging over him. See [[purple]].
+What πορφύρεος means here is not certain. It is the color of fine dyed cloth (3.126), but also of the sea wave (1.482), of the rainbow (17.547) and of a cloud (17.551), and the verb πορφύρω means “heave”, of the sea and of a troubled heart (14.16, 21.551). Some take purple death as the color of blood; others as the darkness that covers a dying man's eyes, like the black night of other formulas; others, from the verb, as death surging over him. See [[purple]].
 
 ## Death and mighty fate
 

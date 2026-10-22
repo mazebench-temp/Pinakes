@@ -19,7 +19,7 @@ The bolt is ἀργής, “gleaming” (8.133; Od. 5.128, 5.131, 7.249, 12.387)
 
 ## Elsewhere in Homer
 
-The gods fear it. Ares will avenge his son “even if it is my fate to be struck by the thunderbolt of Zeus / and lie with the dead among the blood and the dust” (15.117–118). Achilles, boasting over the grandson of a river, says that not even Oceanus can fight against Zeus, but “he too fears the thunderbolt of great Zeus and his dread thunder” (21.193–199). Athena's aegis is a thing “which not even the thunderbolt of Zeus overcomes” (21.400–401; see [[aegis]]).
+The gods fear it. Ares will avenge his son “even if it is my fate to be struck by the thunderbolt of Zeus / and lie with the dead among the blood and the dust” (15.117–118). Achilles, boasting over the grandson of a river, says that not even Oceanus can fight against Zeus, but “even he fears the thunderbolt of great Zeus and his dread thunder” (21.193–199). Athena's aegis is a thing “which not even the thunderbolt of Zeus overpowers” (21.400–401; see [[aegis]]).
 
 In the Odyssey it strikes men. Zeus killed Iasion with it when Demeter lay with him in a thrice-plowed field (Od. 5.125–128), and he shattered Odysseus' ship after the companions ate the cattle of the Sun (Od. 5.131–132, 7.249–250, 12.415–419, 23.330). At the end of the poem he throws a smoky thunderbolt that falls before Athena, and she stops the fighting on Ithaca (Od. 24.539–544). Like the bolt before Diomedes' horses (8.133–136), it is a warning that ends a fight.
 

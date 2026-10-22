@@ -19,4 +19,6 @@ The Scamander is a god as well as a river. It has a priest and cult among the Tr
 
 ## Outside Homer
 
+Hesiod names “divine Scamander” last among the rivers that Tethys bore to Oceanus (*Theogony* 345; see [[hesiod]]). Plato's Socrates will not let it be believed that Achilles was “disobedient toward the river, which was a god, and ready to fight it” (*Republic* 3.391b; see [[plato-achilles-and-the-river]]), and Proclus answers that Achilles fought not the god but the visible water that hindered his attack, or one of the local powers (*On the Republic* I 148–149 Kroll; see [[proclus-on-the-battle-of-the-gods]]). Virgil's Neptune remembers how the rivers groaned, choked with the dead whom Achilles killed, and the Xanthus could not find its way out to the sea (*Aeneid* 5.803–808; see [[virgil-the-house-of-aeneas]] and [[achilles-and-the-river]]).
+
 The river is the modern Karamenderes, which crosses the plain west of Hisarlık to reach the sea near the mouth of the Dardanelles.

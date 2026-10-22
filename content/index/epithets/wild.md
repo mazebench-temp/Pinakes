@@ -12,7 +12,7 @@ of: [boar, artemis]
 
 ## Meaning
 
-ἀγρότερος is formed from ἀγρός (“field, the open country”) with the suffix -τερος, which marks one side of a contrast: “of the wild,” as against the tame. Homer uses it of the Eneti's breed of “wild mules” (2.852; [[mules]]), of boars (11.293; 12.146; Od. 11.611), of deer (21.486; Od. 6.133) and of goats (Od. 17.295). It is also a title of the huntress Artemis, πότνια θηρῶν, Ἄρτεμις ἀγροτέρη, “mistress of beasts, Artemis of the wild,” when she reproaches her brother for not fighting Poseidon (21.470–471; [[artemis]]). Compare [[of-the-fields]] (ἄγραυλος), the word for herds that live out in the fields.
+ἀγρότερος is formed from ἀγρός (“field, the open country”) with the suffix -τερος, which marks one side of a contrast: “of the wild,” as against the tame. Homer uses it of the Eneti's breed of “wild mules” (2.852; [[mules]]), of boars (11.293; 12.146; Od. 11.611), of deer (21.486; Od. 6.133) and of goats (Od. 17.295). It is also a title of the huntress Artemis, πότνια θηρῶν, Ἄρτεμις ἀγροτέρη, “the mistress of wild beasts, Artemis of the wild,” when she reproaches her brother for not fighting Poseidon (21.470–471; [[artemis]]). Compare [[of-the-fields]] (ἄγραυλος), the word for herds that live out in the fields.
 
 ## Use
 

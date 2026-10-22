@@ -16,7 +16,7 @@ passages:
 
 {{quote:c02a0a80-931b-506d-a518-5a69480cdeca}}
 
-αἰπεινή, “steep” (6.35; see [[steep]]): a town on a height. In Book 21 it is αἰπήεσσα, with the same meaning, and again on the Satnioeis: Lycaon tells Achilles that his mother Laothoe was the daughter of old Altes, “who rules the war-loving Leleges, holding steep Pedasus on the Satnioeis” (21.85–87; see [[lycaon-son-of-priam]]). The Leleges are among the allies of Troy, encamped toward the sea (10.429).
+αἰπεινή, “steep” (6.35; see [[steep]]): a town on a height. In Book 21 it is αἰπήεσσα, with the same meaning, and again on the Satnioeis: Lycaon tells Achilles that his mother Laothoe was the daughter of old Altes, “who rules over the war-loving Leleges, holding steep Pedasus on the Satnioeis” (21.85–87; see [[altes]], [[laothoe]] and [[lycaon-son-of-priam]]). The Leleges are among the allies of Troy, encamped toward the sea (10.429).
 
 Aeneas remembers that Achilles, after chasing him from his cattle on Ida, “sacked Lyrnessus and Pedasus” (20.89–92; see [[lyrnessus]] and [[the-sack-of-lyrnessus]]). Aeneas does not say which Pedasus he means, but he names the Leleges four lines later (20.96), and Strabo takes it for the Pedasus of the Leleges (13.1.7). Another Pedasus, “vine-rich”, is one of the seven towns at the edge of sandy Pylos that Agamemnon offers Achilles (9.152, 9.294), and Pedasus is also the name of Achilles' mortal trace horse (16.152).
 

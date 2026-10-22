@@ -1,0 +1,18 @@
+---
+summary: The book ends in a god's trick. Apollo takes Agenor's likeness “in every way” and runs a little ahead of Achilles along the Scamander, bewitching him “by a trick” so that he always hopes to catch him, while the Trojans crowd into the city (21.599–611). Earlier, gods come to Achilles in the likeness of men, and in the river he says that his mother bewitched him with lies (21.213, 21.276, 21.285).
+refs: [21.213, 21.276-278, 21.285, 21.599-605]
+passages:
+  - 21.599-611 | Apollo's trick
+---
+
+**A trick.** Apollo has snatched Agenor out of the fight and hidden him in mist (21.595–598). Then:
+
+{{quote:58e75549-35bd-5ae4-b5c4-1a093338e8f1}}
+
+δόλῳ, “by a trick”, comes twice in six verses (21.599, 21.604). Elsewhere in the Iliad the dative is used of Lycurgus, who killed Areithous “by guile, not by strength at all”, in a narrow road where his iron mace could not save him (7.142–144), and of the oath that Menelaus demands of Antilochus after the chariot race, that he did not hinder his chariot by a trick (23.585). θέλγω, “bewitch” (21.604), is in the Iliad the work of gods on men's minds and eyes: Zeus bewitches the minds of the Achaeans, Poseidon the eyes of Alcathous, Apollo the hearts of the Achaeans with the aegis, and Hermes' wand the eyes of men (12.255, 13.435, 15.322, 24.343). The trick is a likeness, Ἀγήνορι πάντα ἐοικώς, “in the likeness of Agenor himself in every way” (21.600; see [[eidos]]), and a lure: the god runs “a little way ahead”, “so that he always hoped to catch him with his own feet” (21.604–605). It works on Achilles' hope and his speed. Meanwhile the Trojans, whom he was killing, crowd into the city (21.606–611; see [[apollo-deceives-achilles]]).
+
+**The trick revealed.** In the next book the god turns and asks why Achilles, a mortal, is chasing an immortal god: he has not yet known that he is a god (22.7–10). Achilles' answer names the deception as a wrong, ἔβλαψας, “you have foiled me” (22.15), and he would pay the god back if he had the power (22.20; see [[seeing-the-gods]]). Then Athena deceives Hector in the likeness of Deiphobus, and he knows it only at the end, when he calls for Deiphobus and no one is there: “but Athena has deceived me” (22.226–247, 22.294–299). One god's trick saves the Trojans for a day; another's kills Hector.
+
+**Likenesses.** Three times in the book gods come to Achilles in a mortal shape. The river speaks to him ἀνέρι εἰσάμενος, “in the likeness of a man”, from a deep eddy (21.213; see [[scamander]] and [[achilles-and-the-river]]). Poseidon and Athena come “in form like men” (21.285), and yet name themselves, “I and Pallas Athena” (21.290): the verse was athetized because a god in a man's shape should not name himself, and Walter Leaf defends it, since Achilles must know that the help is divine (*Commentary on the Iliad*, 1900, on 21.290; see the translation's note on 21.290). The third is Apollo in the shape of Agenor, and he is not known.
+
+**“Bewitched me with lies.”** In the river Achilles says that no god is so much to blame as his mother, “who bewitched me with lies”: she told him that he would die under the wall of the Trojans by the swift arrows of Apollo (21.275–278; see [[thetis]], [[pseudos]] and [[death-of-achilles-foretold]]). ψεύδεσσιν, “with lies”, is the charge of a man who thinks he is about to drown. Poseidon answers at once that it is not his fate to be brought down by a river (21.291), and the prophecy stands: the dying Hector will name Paris and Phoebus Apollo as his killers at the Scaean gates (22.359–360). In the same book in which Achilles calls his mother a liar, the god of her prophecy deceives him.

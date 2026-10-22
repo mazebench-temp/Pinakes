@@ -3,7 +3,7 @@ title: The generations of leaves
 greek: οἵη περ φύλλων γενεὴ τοίη δὲ καὶ ἀνδρῶν
 kind: simile
 tags: [fate, time, kinship]
-summary: Asked who he is, Glaucus answers Diomedes that the generations of men are like the leaves, which the wind scatters on the ground while the forest puts forth others in spring (6.146–149). Then he tells his lineage.
+summary: Asked who he is, Glaucus answers Diomedes that the generations of men are like the leaves, which the wind scatters on the ground while the forest puts forth others in spring (6.146–149). Then he tells his lineage. Apollo recalls the leaves in the battle of the gods (21.464–466).
 aliases:
   - As is the generation of leaves, so is that of men
   - the leaves of Glaucus
@@ -38,7 +38,7 @@ Glaucus is also the listener of the Iliad's other famous speech on mortality. Sa
 
 ## Elsewhere in Homer
 
-The same comparison returns in the battle of the gods. Apollo will not fight Poseidon “for the sake of wretched mortals, who like leaves now blaze with life, eating the fruit of the field, and now waste away and die” (21.463–466). ζαφλεγέες, “full of fire”, is the flourishing of 6.148; ἀρούρης καρπὸν ἔδοντες is Diomedes' phrase for mortals, “who eat the fruit of the field” (6.142). The god sees men as Glaucus does, and for that reason will not fight about them.
+The same comparison returns in the battle of the gods, where Apollo will not fight Poseidon for the sake of mortals, who, like leaves, now blaze with life and now waste away (21.462–467).
 
 Elsewhere Homer's leaves are a measure of number. The Achaeans in the meadow of the Scamander are as many “as the leaves and flowers that grow in their season” (2.468; see [[leaves-and-flowers]]); Iris warns that they are coming “like leaves or like the sands” (2.800; see [[like-leaves-or-sand]]); and the Cicones come against Odysseus' men as many as the leaves and flowers in their season (*Odyssey* 9.51). Only Glaucus and Apollo use the leaves for the brevity of life.
 

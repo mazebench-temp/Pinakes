@@ -7,7 +7,8 @@ summary: The peoples who came from Thrace to Lycia to fight for [[Priam]]'s city
 aliases: [allies, epikouroi, Trojan allies]
 grc: [ἐπίκουρ*]
 # ἐπικούρους at 4.379 are the allies Tydeus and Polynices sought at Mycenae.
-except: [4.379]
+# ἐπίκουρος at 21.431: Aphrodite came as an ally to Ares.
+except: [4.379, 21.431]
 en: [allies]
 ---
 

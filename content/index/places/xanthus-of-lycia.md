@@ -9,7 +9,8 @@ aliases: [Lycian Xanthus]
 grc: ["=Ξάνθου", "!Ξάνθου δινήεντος"]
 en: [Xanthus]
 # Xanthus at 19.400, 19.405 and 19.420 is Achilles' horse (xanthus-the-horse).
-except: [19.400, 19.405, 19.420]
+# Ξάνθου at 21.15 is the river of Troy.
+except: [19.400, 19.405, 19.420, 21.15]
 ---
 
 {{quote:5ea519a8-cd28-560d-8c06-98a8618dbf0c}}

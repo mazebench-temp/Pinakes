@@ -12,7 +12,7 @@ of: [dream, ares]
 
 ## Meaning
 
-This οὖλος (“destructive, deadly”) belongs with ὀλοός and οὐλόμενος, from the root of ὄλλυμι (“destroy”). The wrath in the first lines of the Iliad is οὐλομένη, “ruinous” ({{ref:Iliad 1.2}}; [[menis]]). Homer gives the adjective to Ares (οὖλος Ἄρης, Il. 5.461; οὖλον Ἄρηα, Il. 5.717) and once to Achilles, whom Priam fears as “the deadly man” (Il. 21.536).
+This οὖλος (“destructive, deadly”) belongs with ὀλοός and οὐλόμενος, from the root of ὄλλυμι (“destroy”). The wrath in the first lines of the Iliad is οὐλομένη, “ruinous” ({{ref:Iliad 1.2}}; [[menis]]). Homer gives the adjective to Ares (οὖλος Ἄρης, Il. 5.461; οὖλον Ἄρηα, Il. 5.717) and once to Achilles, whom Priam fears as “this baneful man” (Il. 21.536).
 
 It must be kept apart from two words of the same sound: οὖλος “woolly, curly,” of hair and fleece, and οὖλος “whole,” the Ionic form of ὅλος (ἄρτον οὖλον, “a whole loaf,” Od. 17.343).
 

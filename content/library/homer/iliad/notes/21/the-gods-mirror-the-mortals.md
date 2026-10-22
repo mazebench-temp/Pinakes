@@ -1,0 +1,6 @@
+---
+summary: The battle of the gods is fought as men fight: the gods pair off, open with abuse, strike, and boast over the fallen (21.385–513). Athena takes up her stone in the verses in which Hector took up his against Ajax, with the man made a goddess (21.403–404; 7.264–265), and Artemis, beaten, is comforted on her father's knees with the question that Dione put to Aphrodite (21.509–510 = 5.373–374).
+refs: [21.385-513]
+---
+
+The narrator gives the gods the words of a man's victory: Athena speaks “boasting over him” and “boasting over them” (21.409, 21.427; see [[euchomai]]), and the victor's taunt of the fallen, “Little fool” (21.410; see [[nepios]]). Walter Leaf notes that the scene on Olympus is founded on reminiscences of the wounding of Aphrodite (*Commentary on the Iliad*, 1900, on 21.509). Poseidon offers Apollo the first stroke, as one warrior might another, since Apollo is the younger (21.436–440; see [[genee]]), and his grievance is a man's, an unpaid wage (21.441–460). The fighting of men goes on meanwhile: when the gods go back to Olympus, “Achilles / was killing the Trojans themselves and their single-hoofed horses alike” (21.520–521; see [[the-battle-of-the-gods]] and [[laughter-of-the-gods]]).

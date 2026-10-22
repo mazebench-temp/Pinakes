@@ -9,4 +9,10 @@ aliases: [Paionia]
 grc: [Παιονίης]
 ---
 
-**Deep-soiled Paeonia.** The land is named twice in the Iliad, both times as the home a Paeonian has left: Apisaon, son of Hippasus, whom Lycomedes kills over the body of Patroclus, “had come from deep-soiled Paeonia, / and after Asteropaeus he was the best in the fighting” (17.350–351; see [[apisaon-son-of-hippasus]] and [[asteropaeus]]), and in Book 21 Asteropaeus tells Achilles that he has come from deep-soiled Paeonia, far away, leading the Paeonians with their long spears (21.154–155; see [[achilles]]). ἐριβῶλαξ, “deep-soiled”, is a common epithet of lands, and in this book it is said also of Lycia and of Larisa (17.172, 17.301; see [[deep-soiled]], [[lycia]] and [[larisa]]). The Catalogue gives the land no name: the Paeonians come “from far away, from Amydon, from the broad-flowing Axius” (2.849; see [[amydon]] and [[axius]]).
+**Deep-soiled Paeonia.** The land is named twice in the Iliad, both times as the home a Paeonian has left to fight at Troy: Apisaon, son of Hippasus, whom Lycomedes kills over the body of Patroclus, “had come from deep-soiled Paeonia” (17.350; see [[apisaon-son-of-hippasus]]), and Asteropaeus tells Achilles, “I come from deep-soiled Paeonia, which lies far away” (21.154; see [[asteropaeus]]). ἐριβῶλαξ and ἐρίβωλος, “deep-soiled”, are common epithets of lands, of Lycia and Larisa, of Phthia and of Troy (see [[deep-soiled]]). The Catalogue gives the land no name: the Paeonians come “from far away, from Amydon, from the broad-flowing Axius” (2.849; see [[amydon]] and [[axius]]).
+
+{{notes}}
+
+## Outside Homer
+
+[[Strabo]] places Paeonia west of the Thracian mountains and north of Macedonia, which the Axius enters from it through a narrow pass, and says that it reached as far as the Strymon (*Geography* 7, fr. 4); some, he reports, extended it to Pelagonia and Pieria (7, fr. 38; see [[pelegon]]).

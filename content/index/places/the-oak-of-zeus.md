@@ -31,3 +31,5 @@ In Book 5 it is a place of refuge for an ally: there Pelagon draws the spear fro
 ## Outside Homer
 
 The oak was Zeus' tree elsewhere too. At Dodona, Odysseus is said to have gone to hear the will of Zeus “from the high-leafed oak” (δρῦς, Od. 14.327–328, 19.296–297; see [[dodona]]). In the story that the priestesses of Dodona told Herodotus, a black dove settled on a φηγός and declared in a human voice that an oracle of Zeus should be founded there (Herodotus 2.55).
+
+Strabo, setting out the case of Demetrius of Scepsis that Homer's Ilium stood not where the Ilium of his own day stood but at the village of the Ilians, thirty stadia away, puts the oak there. The Erineus, a rough place overgrown with wild figs, lies just below the old site, which suits Andromache's advice to station the army by the fig tree; and a little lower down than the Erineus is the oak, of which Achilles says that Hector came out only as far as the Scaean gates and the oak (*Geography* 13.1.35, quoting 6.433–434 and 9.352–354; see [[strabo]] and [[the-fig-tree]]).

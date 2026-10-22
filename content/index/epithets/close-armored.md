@@ -3,7 +3,7 @@ title: Close-armored
 greek: πύκα θωρηκτής
 kind: epithet
 tags: [heroic-epithet, weapon]
-summary: “Closely armored,” a line-end formula in the genitive plural, πύκα θωρηκτάων, used of the Lycians in Sarpedon's speech and of the Trojans in Book 15.
+summary: “Closely armored,” a line-end formula in the genitive plural, πύκα θωρηκτάων, used of the Lycians and of the Trojans; θωρηκτής alone, “armored,” is said of both armies.
 aliases: [closely armored, pyka thorektai]
 grc: [πύκα θωρηκτάων]
 en: [close-armored]

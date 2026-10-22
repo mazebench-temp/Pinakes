@@ -1,0 +1,25 @@
+---
+summary: Zeus begot the river Xanthus, and his lineage, Achilles tells Asteropaeus, is mightier than any river's. He sends no help in person when Achilles cries to him from the river, but Poseidon and Athena come with his consent. When the gods fall upon one another he sits on Olympus and laughs for joy, and he laughs again when Artemis, beaten by Hera, sits weeping on his knees; then the other gods come back and sit beside him.
+# Unnamed: his laughter (21.389-390), Artemis on his knees and his question (21.506-507, 21.509-510), and "the
+# father, lord of the dark clouds" (21.520).
+refs: [21.389-390, 21.506-507, 21.509-510, 21.520]
+passages:
+  - 21.385-390 | Strife falls on the gods
+  - 21.505-513 | Artemis on her father's knees
+---
+
+**The river's father.** The book begins with the formal couplet of the ford, “the eddying Xanthus, whom immortal Zeus begot” (21.2 = 14.434; see [[scamander]]). The river is διιπετής, “fallen from Zeus” (21.268, 21.326; see [[fallen-from-zeus]]), and Achilles addresses him as “nurtured by Zeus” (21.223; see [[zeus-nurtured]]). Over Asteropaeus, grandson of the river Axius, Achilles sets his own descent against the river's, through Peleus and Aeacus to Zeus: “So, as Zeus is mightier than rivers that murmur to the sea, / so the lineage of Zeus is mightier than a river's”; there is no fighting with Zeus, and even Achelous and Oceanus fear his thunderbolt and his dread thunder (21.184–199; see [[zeus-is-mightier-than-rivers]], [[aeacus]] and [[thunderbolt]]).
+
+**His will.** Men and the river read their fortunes as his doing. Lycaon, caught a second time, thinks he must be “hateful to father Zeus”, who has given him to Achilles again (21.83–84; see [[lycaon-son-of-priam]] and [[father-zeus]]). The river allows that “the son of Cronus has given you all the Trojans to destroy” (21.216), and reproaches Apollo for not keeping “the plans of the son of Cronus”, who had charged him to stand by the Trojans until evening (21.229–232; see [[son-of-cronus]] and [[apollo]]). Walter Leaf knows of no such command, and takes it for an angry partisan's version of the leave Zeus had given (*Commentary on the Iliad*, 1900, on 21.229). Agenor, deciding to face Achilles, says that he too is mortal, “but Zeus, son of Cronus, grants him glory” (21.570; see [[agenor]] and [[kydos]]).
+
+**Achilles' cry.** In the river Achilles looks up into the wide sky: “Father Zeus, how no one of the gods has undertaken to save me in my misery / from the river!” (21.272–274; see [[achilles]] and [[prayer]]). Zeus does not answer in person. Poseidon and Athena come at once, in the form of men, and Poseidon tells Achilles that the two of them are his helpers “with the consent of Zeus” (Ζηνὸς ἐπαινήσαντος, 21.290; see [[poseidon]] and [[athena]]). The verse was athetized in antiquity, since a god in a man's likeness should not name himself; Leaf answers that Achilles has to know that the help is divine (on 21.290).
+
+**The spectator.** In Book 20 he stayed on Olympus to look on and delight his heart (20.22–23; see [[watching-the-war]]). Now he hears the gods clash:
+
+{{quote:1acb02d3-b261-579c-b108-f4db46286ede}}
+
+Leaf thought the phrase of Book 20 carried here to exaggeration (on 20.23), and notes that Homer's Zeus goes beyond a smile only here and at 508, like the Zeus of the *Hymn to Hermes*, who laughs aloud at the tricks of his son (on 21.390; Ζεὺς δὲ μέγʼ ἐξεγέλασσεν, *Hymn to Hermes* 389; see [[laughter-of-the-gods]]). He takes no part in the fight. The aegis that Ares strikes is the one “which not even the thunderbolt of Zeus overpowers” (21.401; see [[aegis]]), and Leaf reports the ancient remark that the phrase is a strange one for the aegis, which the poet gives to Zeus himself (on 21.401).
+
+**The father.** Most of the gods of the battle are his children or his wives. Aphrodite is “daughter of Zeus” (21.416; see [[daughter-of-zeus]]), Athena “child of aegis-bearing Zeus” (21.420; see [[child-of-aegis-bearing-zeus]]), Hera “the revered wife of Zeus” (21.479), and Hermes will not fight Leto, since it is a hard thing “to trade blows with the wives of Zeus the cloud-gatherer” (21.499; see [[cloud-gatherer]] and [[leto]]), a plural that Leaf takes for a general truth with a glance at Hera's triumph (on 21.499). Hera tells Artemis that “a lion to women / Zeus has made you” (21.483–484; see [[a-lion-to-women]]), and Artemis, beaten, goes up to his house and sits weeping on his knees: “the son of Cronus, drew her to him, and laughing heartily asked her” the question that Dione asked Aphrodite (21.505–510; 21.509–510 = 5.373–374; see [[artemis]] and [[dione]]). She blames “your wife” (21.512; see [[hera]]). The other gods follow her to Olympus, “and they sat down beside the father, lord of the dark clouds” (21.518–520; see [[lord-of-dark-clouds]] and [[olympus]]).
+
+Poseidon and Apollo served Laomedon for a year after they “came from Zeus” (21.444). The poem gives no reason, and Leaf notes that πὰρ Διός might be thought to imply a punishment (on 21.442; see [[poseidon-and-apollo-serve-laomedon]]).

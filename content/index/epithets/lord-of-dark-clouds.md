@@ -7,7 +7,8 @@ summary: “Of the dark clouds,” an epithet of [[Zeus]] as the storm god.
 aliases: [dark-clouded, kelainephes]
 grc: [κελαινεφέϊ]
 en: [lord of the dark clouds]
-except: [4.140, 5.798, 14.437]
+# αἷμα κελαινεφές (21.167) is the dark blood of Achilles' forearm.
+except: [4.140, 5.798, 14.437, 21.167]
 of: [zeus]
 ---
 

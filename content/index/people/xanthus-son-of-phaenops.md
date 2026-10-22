@@ -12,7 +12,8 @@ en: [Xanthus]
 # (xanthus-of-lycia), and the English name must not be linked here.
 # Xanthus at 19.400, 19.405 and 19.420 is Achilles' horse (xanthus-the-horse).
 # Xanthus at 20.40 and 20.74 is the river of Troy, whom men call Scamander.
-except: [5.479, 6.172, 16.149, 19.400, 19.405, 19.420, 20.40, 20.74]
+# Xanthus at 21.146 and 21.332 is the river of Troy, whom men call Scamander.
+except: [5.479, 6.172, 16.149, 19.400, 19.405, 19.420, 20.40, 20.74, 21.146, 21.332]
 refs: [5.153, 5.155-157]
 relations:
   - father: phaenops (5.152)

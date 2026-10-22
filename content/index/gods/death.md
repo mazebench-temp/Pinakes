@@ -3,7 +3,7 @@ title: Death
 greek: Θάνατος
 kind: god
 tags: [personification, fate]
-summary: Death as a god, the brother of [[sleep|Sleep]]. Homer names him so once, as Sleep's brother (14.231), and in Book 16 the twins Sleep and Death carry Sarpedon's body from the battlefield to Lycia; Hesiod makes them both children of Night.
+summary: Death as a god, the brother of [[sleep|Sleep]]. Homer names him so once, as Sleep's brother (14.231), and in Book 16 the twins Sleep and Death carry Sarpedon's body from the battlefield to Lycia; Apollo stands by Agenor to ward off “the heavy hands of Death” (21.548). Hesiod makes them both children of Night.
 aliases: [Thanatos]
 # The god is the capitalized Θανάτοιο of 14.231. Monro–Allen print the twins of Book 16 in lowercase,
 # θάνατόν τε φέρειν (16.454) and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): the Book 16 note claims

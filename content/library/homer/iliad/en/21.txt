@@ -1,0 +1,614 @@
+# Homer, Iliad, Book 21 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	But when they came to the ford of the fair-flowing river,
+2	the eddying Xanthus, whom immortal Zeus begot,
+3	there he split them, and some he drove across the plain
+4	toward the city, where the Achaeans had been fleeing in terror
+5	the day before, when shining Hector raged;
+6	there they poured forward in panic, and Hera spread
+7	a deep mist before them to hold them back; and half of them
+8	were penned into the deep-streaming, silver-eddying river,
+9	and they fell in with a great crash, and the sheer streams roared,
+10	and the banks all around resounded loudly; and with a shout
+11	they swam this way and that, whirled around in the eddies.
+12	As when, under the rush of fire, locusts flutter up into the air
+13	to flee to a river, and the tireless fire burns,
+14	springing up suddenly, and they cower down into the water,
+15	so before Achilles deep-eddying Xanthus'
+16	sounding stream was filled with horses and men, all mingled together.
+17	But he, sprung from Zeus, left his spear there on the bank,
+18	leaning against the tamarisks, and leapt in like a god,
+19	holding only his sword, and he devised evil deeds in his mind,
+20	and he struck, turning this way and that; and an ugly groaning rose
+21	from the men struck by the sword, and the water grew red with blood.
+22	As before a huge-bellied dolphin the other fishes
+23	flee and fill the recesses of a harbor with good anchorage,
+24	in fear; for he devours greedily whatever he catches;
+25	so the Trojans, down the streams of the dread river,
+26	cowered under the banks. And when his hands grew weary with killing,
+27	he chose twelve young men out of the river alive,
+28	as the penalty for Patroclus, son of Menoetius, who had died.
+29	These he led out, dazed, like fawns,
+30	and bound their hands behind them with well-cut straps,
+31	which they themselves used to wear on their plaited tunics,
+32	and gave them to his companions to take down to the hollow ships.
+33	But he sprang at them again, eager to cut men down.
+34	There he met a son of Priam, descendant of Dardanus,
+35	Lycaon, fleeing out of the river, whom he himself had once
+36	taken and led away against his will from his father's orchard,
+37	coming out by night; and he was cutting from a wild fig tree with the sharp bronze
+38	young shoots, to be the rails of a chariot;
+39	and upon him, an evil he never foresaw, came brilliant Achilles.
+40	And that time he sold him into well-built Lemnos,
+41	taking him there in his ships, and the son of Jason paid the price;
+42	and from there a guest-friend ransomed him, and paid much,
+43	Eetion of Imbros, and sent him to shining Arisbe;
+44	and from there he escaped and came to his father's house.
+45	For eleven days he delighted his heart with his friends,
+46	after he came from Lemnos; but on the twelfth, again,
+47	a god threw him into the hands of Achilles, who was to
+48	send him on his way to the house of Hades against his will.
+49	And when brilliant swift-footed Achilles caught sight of him,
+50	naked, without helmet or shield, and he had no spear either,
+51	for he had flung all these from him to the ground, since sweat wore him down
+52	as he fled out of the river, and weariness was overpowering his knees beneath him;
+53	and deeply troubled he spoke to his own proud heart:
+54	“Ah, truly this is a great wonder that I see with my eyes:
+55	surely the great-hearted Trojans whom I have killed
+56	will rise up again from under the misty darkness,
+57	now that this man too has come back, escaping the pitiless day,
+58	though he was sold into sacred Lemnos; nor did it hold him,
+59	the deep of the gray sea, which holds back many against their will.
+60	But come, the point of my spear too
+61	he shall taste, so that I may see and learn in my mind
+62	whether he will come back from there just the same, or whether
+63	the life-giving earth will hold him back, which holds back even the strong.”
+64	So he pondered as he waited; and the other came near him, dazed,
+65	eager to clasp his knees, and above all he wished in his heart
+66	to escape evil death and black doom.
+67	Now brilliant Achilles lifted up his long spear,
+68	eager to stab him, but he ran in under it and clasped his knees,
+69	stooping; and the spear, passing over his back, in the ground
+70	stood fixed, straining to glut itself on the flesh of a man.
+71	And with one hand he took hold of his knees and begged him,
+72	and with the other he held the sharpened spear and would not let it go;
+73	and he spoke to him, addressing him with winged words:
+74	“I implore you, Achilles; respect me and pity me;
+75	I am as good as a revered suppliant to you, you who are nurtured by Zeus;
+76	for with you first I tasted the grain of Demeter
+77	on the day when you took me in the well-built orchard,
+78	and you sold me, taking me far away from my father and my friends,
+79	into sacred Lemnos, and I fetched you the worth of a hundred oxen.
+80	And now I have been ransomed, paying three times as much; and this dawn
+81	is the twelfth since I came to Ilios,
+82	after much suffering; and now again into your hands
+83	deadly fate has put me; I must be hateful to father Zeus,
+84	who has given me to you again; and to be short-lived my mother
+85	bore me, Laothoe, daughter of the old man Altes,
+86	Altes, who rules over the war-loving Leleges,
+87	holding steep Pedasus on the Satnioeis.
+88	His daughter Priam had for a wife, and many others too;
+89	and two of us were born of her, and you will cut the throats of both.
+90	Him you brought down among the foremost foot soldiers,
+91	godlike Polydorus, when you struck him with your sharp spear;
+92	and now here evil will come to me; for I do not think
+93	I shall escape your hands, since a god has brought me here.
+94	And I will tell you something else, and you lay it to heart:
+95	do not kill me, since I am not of the same womb as Hector,
+96	who killed your companion, gentle and strong.”
+97	So the shining son of Priam spoke to him,
+98	begging with words; but the voice he heard would not be soothed:
+99	“Fool, do not offer me ransom, nor make speeches;
+100	for before Patroclus met his fated day,
+101	until then it was somehow dearer to my heart to spare
+102	Trojans, and many I took alive and sold;
+103	but now there is no one who shall escape death, whomever a god
+104	throws into my hands before Ilios,
+105	no one of all the Trojans, and above all of the sons of Priam.
+106	No, friend, you too must die; why do you lament like this?
+107	Patroclus died too, who was far better than you.
+108	Do you not see what a man I am too, how handsome and how tall?
+109	I am the son of a brave father, and a goddess was the mother who bore me;
+110	yet over me too hang death and mighty fate;
+111	there will come a morning or an evening or a midday
+112	when someone will take the life from me too in the work of Ares,
+113	striking me either with a spear or with an arrow from the string.”
+114	So he spoke, and the other's knees and dear heart were loosened where he was;
+115	he let go of the spear, and sat down, stretching out both
+116	his hands; and Achilles, drawing his sharp sword,
+117	struck him on the collarbone beside the neck, and all the way in
+118	the two-edged sword went; and face down on the ground
+119	he lay stretched out; and the dark blood flowed and soaked the earth.
+120	And Achilles took him by the foot and flung him into the river to be swept away,
+121	and boasting over him he spoke winged words:
+122	“Lie there now among the fishes, who will lick the blood
+123	from your wound and care nothing for you; nor will your mother
+124	lay you on a bier and lament for you, but Scamander
+125	will carry you, eddying, into the broad bosom of the sea.
+126	Leaping along the wave, one will dart up under the dark ripple,
+127	some fish, to eat the white fat of Lycaon.
+128	Perish, until we reach the city of sacred Ilios,
+129	you fleeing, and I ravaging behind you.
+130	Not even the river, fair-flowing and silver-eddying though it is,
+131	will protect you, to whom you have long sacrificed many bulls,
+132	and thrown single-hoofed horses alive into its eddies.
+133	But even so you will perish by an evil fate, until all of you
+134	pay for the slaughter of Patroclus and the ruin of the Achaeans,
+135	whom you killed beside the swift ships while I was away.”
+136	So he spoke, and the river grew all the more angry in his heart,
+137	and he pondered in his heart how he might stop from his toil
+138	brilliant Achilles, and ward off ruin from the Trojans.
+139	Meanwhile the son of Peleus, holding his long-shadowed spear,
+140	leapt at Asteropaeus, eager to kill him,
+141	the son of Pelegon; and him the Axius of the broad streams
+142	begot, and Periboea, of the daughters of Acessamenus
+143	the eldest; for with her the deep-eddying river lay.
+144	At him Achilles sprang, and he, coming out of the river, against him
+145	stood, holding two spears; and might was put in his heart
+146	by Xanthus, since he was angry for the young men slain in battle,
+147	whom Achilles was cutting down along the stream, and did not pity them.
+148	And when they had come close, advancing against each other,
+149	brilliant swift-footed Achilles spoke to him first:
+150	“Who are you among men, and from where, that you have dared to come against me?
+151	It is the sons of unhappy men who meet my might.”
+152	Then the shining son of Pelegon spoke to him in turn:
+153	“Great-hearted son of Peleus, why do you ask about my lineage?
+154	I come from deep-soiled Paeonia, which lies far away,
+155	leading the Paeonian men with their long spears; and this is now
+156	the eleventh dawn since I came to Ilios.
+157	But my lineage is from the broad-flowing Axius,
+158	the Axius, who sends the fairest water over the earth,
+159	who begot Pelegon, famed for his spear; and he, they say,
+160	was my father. Now let us fight, shining Achilles.”
+161	So he spoke, threatening, and brilliant Achilles raised up
+162	the Pelian ash; but with two spears at once, one from each hand,
+163	the hero Asteropaeus threw, for he could use either hand.
+164	With the one spear he hit the shield, but it did not go through
+165	and break the shield; for the gold held it back, the gifts of the god;
+166	and with the other he grazed the forearm of his
+167	right arm, and the dark blood spurted; and the spear, passing over him,
+168	was fixed in the ground, longing to glut itself on flesh.
+169	Then second in his turn Achilles let fly his straight-flying ash
+170	at Asteropaeus, eager to kill him,
+171	and he missed him, but hit the high bank,
+172	and drove the ash spear halfway into the bank.
+173	Then the son of Peleus drew the sharp sword from beside his thigh
+174	and leapt at him eagerly; and he could not draw Achilles' ash spear
+175	out of the bank with his strong hand.
+176	Three times he shook it, eager to draw it out,
+177	and three times he held back from the effort; and the fourth time he wished in his heart
+178	to bend and break the ash spear of the grandson of Aeacus,
+179	but before that Achilles took his life with his sword at close quarters.
+180	For he struck him in the belly beside the navel, and all
+181	his bowels poured out on the ground, and darkness covered his eyes
+182	as he gasped; and Achilles, springing upon his chest,
+183	stripped off his armor, and spoke in triumph:
+184	“Lie there as you are. It is hard for you to strive with the children of the mighty son of Cronus,
+185	even though you are sprung from a river.
+186	You say that you are of the lineage of a broad-flowing river,
+187	but I claim to be of the lineage of great Zeus.
+188	The man who begot me is lord over many Myrmidons,
+189	Peleus, son of Aeacus; and Aeacus was the son of Zeus.
+190	So, as Zeus is mightier than rivers that murmur to the sea,
+191	so the lineage of Zeus is mightier than a river's.
+192	For here beside you is a great river, if he can do anything
+193	to help; but there is no fighting with Zeus, son of Cronus,
+194	with whom not even lord Achelous can match himself,
+195	nor the great strength of deep-flowing Oceanus,
+196	from whom all rivers and all the sea
+197	and all springs and deep wells flow;
+198	yet even he fears the thunderbolt of great Zeus
+199	and his dread thunder, when it resounds from the sky.”
+200	He spoke, and drew the bronze spear out of the bank,
+201	and left him there, since he had robbed him of his dear life,
+202	lying in the sand, and the dark water lapped over him.
+203	And the eels and the fishes busied themselves about him,
+204	tearing at the fat about his kidneys and nibbling it away.
+205	But he went on his way after the Paeonians who fight from chariots,
+206	who were still fleeing in rout along the eddying river,
+207	when they saw their best man in the fierce battle
+208	brought down by force at the hands of the son of Peleus and by his sword.
+209	There he killed Thersilochus and Mydon and Astypylus
+210	and Mnesus and Thrasius and Aenius and Ophelestes;
+211	and swift Achilles would have killed still more of the Paeonians,
+212	had not the deep-eddying river spoken to him in anger,
+213	in the likeness of a man, and called out from a deep eddy:
+214	“Achilles, beyond all men you are strong, and beyond men you do evil;
+215	for the gods themselves are always there to defend you.
+216	If the son of Cronus has given you all the Trojans to destroy,
+217	at least drive them out of me, and do your grim deeds across the plain;
+218	for my lovely streams are full of corpses,
+219	and I can find no way to pour my stream into the shining sea,
+220	choked with corpses, and you go on killing, destroying them.
+221	But come, leave off; I am filled with amazement, leader of the people.”
+222	Answering him, swift-footed Achilles said:
+223	“So it shall be, Scamander, nurtured by Zeus, as you bid.
+224	But I will not stop slaying the overbearing Trojans
+225	until I have penned them in the city and made trial of Hector
+226	face to face, whether he will bring me down or I him.”
+227	So saying, he rushed on the Trojans like a god;
+228	and then the deep-eddying river spoke to Apollo:
+229	“Ah, god of the silver bow, child of Zeus, you have not kept
+230	the plans of the son of Cronus, who charged you many times over
+231	to stand by the Trojans and defend them, until there comes
+232	the evening, late in its setting, and darkens the deep-soiled earth.”
+233	He spoke; and Achilles, famed for his spear, leapt into the midst of him,
+234	springing down from the bank; and the river rushed on him, raging with his swell,
+235	and stirred up all his streams, churning, and thrust out the bodies,
+236	the many that lay thick in him, whom Achilles had killed;
+237	these he cast out, bellowing like a bull,
+238	onto the dry land; and the living he saved in his fair streams,
+239	hiding them in his deep, great eddies.
+240	And terribly around Achilles the churning wave rose up,
+241	and the stream, falling on his shield, pushed him back; nor with his feet
+242	could he keep his footing; and he caught hold of an elm with his hands,
+243	well-grown and great; and it fell, torn out by the roots,
+244	and tore away the whole bank, and held back the fair streams
+245	with its thick branches, and bridged the river itself,
+246	falling full length into it; and he, leaping up out of the eddy,
+247	darted away to fly over the plain on his swift feet,
+248	in fear; but the great god did not stop, and rose against him,
+249	darkening at the crest, so that he might stop from his toil
+250	brilliant Achilles, and ward off ruin from the Trojans.
+251	And the son of Peleus sprang away as far as the cast of a spear,
+252	with the swoop of an eagle, the black hunter,
+253	which is at once the strongest and the swiftest of birds;
+254	like him he darted away, and on his chest the bronze
+255	rang terribly; and swerving out from under the river
+256	he fled, and it came flowing behind him with a great din.
+257	As when a man leading a channel from a spring of dark water
+258	guides the course of the water among his plants and gardens,
+259	a mattock in his hands, clearing the obstructions out of the channel;
+260	and as it flows on, all the pebbles beneath
+261	are swept along; and it runs down quickly, murmuring,
+262	on a sloping place, and outruns even the man who leads it;
+263	so the wave of the stream kept overtaking Achilles,
+264	nimble though he was; for the gods are stronger than men.
+265	As often as brilliant swift-footed Achilles set out
+266	to stand against it and learn whether all
+267	the immortals were putting him to flight, who hold the wide sky,
+268	so often the great wave of the river fallen from Zeus
+269	beat upon his shoulders from above; and he leapt upward with his feet,
+270	vexed in his heart; and the river was overpowering his knees beneath him,
+271	rushing violently under him, and ate the ground away from under his feet.
+272	And the son of Peleus groaned aloud, looking up into the wide sky:
+273	“Father Zeus, how no one of the gods has undertaken to save me in my misery
+274	from the river! After that I could suffer anything.
+275	No other of the heavenly gods is so much to blame for this
+276	as my dear mother, who bewitched me with lies;
+277	she told me that under the wall of the armored Trojans
+278	I would perish by the swift arrows of Apollo.
+279	Would that Hector had killed me, the best man bred here;
+280	then a brave man would have been the killer, and he would have slain a brave man.
+281	But now it was fated that I be caught by a wretched death,
+282	trapped in a great river, like a swineherd boy
+283	whom a torrent sweeps away as he crosses it in winter.”
+284	So he spoke, and very swiftly Poseidon and Athena
+285	came and stood near him, in form like men,
+286	and taking his hand in their hands they pledged their faith with words.
+287	And among them Poseidon the earth-shaker began to speak:
+288	“Son of Peleus, do not tremble too much, nor be afraid;
+289	for such helpers from among the gods are we two to you,
+290	with the consent of Zeus, I and Pallas Athena;
+291	so it is not your fate to be brought down by a river,
+292	but he will soon subside, and you yourself will see it.
+293	But we will give you shrewd counsel, if you will obey us:
+294	do not stop your hands from war, common to all,
+295	until you have penned the army within the glorious walls of Ilios,
+296	the Trojan army, whoever escapes; and when you have taken Hector's life,
+297	go back to the ships; we grant that you win a triumph.”
+298	So saying, the two went away among the immortals;
+299	and he went, for the command of the gods had greatly urged him on,
+300	toward the plain; and all of it was full of the water that had poured out,
+301	and much fine armor of young men slain in battle
+302	was floating there, and corpses; and his knees leapt high
+303	as he rushed straight on against the stream, nor did the broad-flowing river
+304	hold him back; for Athena had put great strength in him.
+305	Nor did Scamander abate his fury, but all the more
+306	he was enraged at the son of Peleus, and made the wave of his stream rear its head,
+307	lifting himself on high, and he called to Simoeis with a shout:
+308	“Dear brother, let us both together check the strength of this man,
+309	since soon he will sack the great city of lord Priam,
+310	and the Trojans will not hold their ground in the fray.
+311	But come to my aid quickly, and fill your streams
+312	with water from your springs, and spur on all your torrents,
+313	and raise a great wave, and stir up a great din
+314	of logs and stones, so that we may stop this savage man,
+315	who now prevails, and is bent on being the equal of the gods.
+316	For I say that neither his strength will help him, nor his looks,
+317	nor that fine armor, which, I think, deep at the bottom of the lake
+318	will lie covered under the slime; and himself
+319	I will wrap in the sands, pouring heaps of gravel,
+320	countless, around him, nor will the Achaeans know how
+321	to gather his bones, so much silt will I cover him with from above.
+322	Right there his mound shall be made, and he will have no need
+323	of a heaped-up tomb, when the Achaeans hold his funeral.”
+324	He spoke, and rushed on Achilles, churning, raging on high,
+325	seething with foam and blood and corpses.
+326	And the surging wave of the river fallen from Zeus
+327	stood, lifted high, and was bringing the son of Peleus down;
+328	and Hera gave a great shout, terribly afraid for Achilles,
+329	lest the great deep-eddying river sweep him away,
+330	and at once she spoke to Hephaestus, her dear son:
+331	“Rise, crook-footed one, my child; for against you
+332	we judged eddying Xanthus to be matched in battle;
+333	but come to our aid quickly, and let your great flame shine forth.
+334	And I will go and rouse the West Wind and the brightening South Wind
+335	to a hard storm out of the sea,
+336	to burn away the heads and the armor of the Trojans,
+337	carrying the evil blaze; and you, along the banks of Xanthus,
+338	burn the trees, and set the river himself on fire; and do not let him at all
+339	turn you back with soothing words and threats;
+340	and do not stop your fury before then, but when I
+341	call out with a cry, then hold back the tireless fire.”
+342	So she spoke, and Hephaestus made ready a wondrous fire.
+343	First the fire blazed up on the plain, and burned the bodies,
+344	the many that lay thick on it, whom Achilles had killed;
+345	and the whole plain was dried, and the bright water was checked.
+346	As when the North Wind of late summer a newly watered orchard
+347	quickly dries, and whoever tends it rejoices;
+348	so the whole plain was dried, and he burned up
+349	the bodies; and then he turned on the river the flame, gleaming all over.
+350	The elms and the willows and the tamarisks were burning,
+351	and the lotus was burning, and the rushes and the galingale,
+352	which grew in plenty about the fair streams of the river;
+353	and the eels and the fishes in the eddies were in distress,
+354	which tumbled this way and that in the fair streams,
+355	distressed by the breath of Hephaestus of many wiles.
+356	And the force of the river was burning, and he spoke to him, and called him by name:
+357	“Hephaestus, no one of the gods can match himself against you,
+358	nor would I fight with you, blazing with fire as you are.
+359	Cease from strife; and as for the Trojans, let brilliant Achilles at once
+360	drive them out of their city; what have I to do with strife and help?”
+361	He spoke, burning with fire, and his fair streams bubbled up.
+362	As a cauldron boils within, pressed by a great fire,
+363	as it melts the fat of a tender-fed hog,
+364	bubbling up on every side, and dry sticks lie beneath it,
+365	so his fair streams were blazing with fire, and the water boiled;
+366	and it would not flow on, but was held back; and the blast of the strength
+367	of Hephaestus, of much wisdom, wore him down. And he addressed Hera,
+368	begging her earnestly, with winged words:
+369	“Hera, why has your son attacked my stream to trouble it
+370	above all others? I am surely not so much to blame
+371	as all the others who help the Trojans.
+372	But I will cease, if you bid me,
+373	and let him cease too; and I will swear this oath besides,
+374	never to ward off the evil day from the Trojans,
+375	not even when all Troy blazes with ravening fire,
+376	burning, and the warlike sons of the Achaeans are burning it.”
+377	But when the white-armed goddess Hera heard this,
+378	at once she spoke to Hephaestus, her dear son:
+379	“Hephaestus, hold back, my famous child; for it is not fitting
+380	to batter an immortal god like this for the sake of mortals.”
+381	So she spoke, and Hephaestus quenched the wondrous fire,
+382	and the wave rushed back down along its fair streams.
+383	But when the might of Xanthus had been overpowered, then the two of them
+384	ceased; for Hera held them back, angry though she was.
+385	But among the other gods strife fell, heavy
+386	and grievous, and the heart within them was blown two ways;
+387	and they fell upon each other with a great crash, and the wide earth roared,
+388	and the great sky trumpeted around. And Zeus heard it
+389	as he sat on Olympus; and his heart within him laughed
+390	for joy, as he saw the gods coming together in strife.
+391	Then they stood apart no longer; for Ares began it,
+392	the piercer of shields, and he first sprang at Athena,
+393	holding his bronze spear, and spoke abusive words:
+394	“Why again, you dog-fly, do you drive the gods together in strife,
+395	with your gale of daring, and has your great heart sent you?
+396	Do you not remember when you set Diomedes, son of Tydeus, on
+397	to stab me, and you yourself took the spear seen by all
+398	and drove it straight at me, and tore through my fair skin?
+399	So now I think you will pay for all that you have done.”
+400	So saying, he stabbed at the tasseled aegis,
+401	the terrible one, which not even the thunderbolt of Zeus overpowers;
+402	on it blood-stained Ares stabbed her with his long spear.
+403	But she, giving ground, took up in her strong hand a stone
+404	that lay on the plain, black and jagged and great,
+405	which men of former times had set there to be the boundary stone of a field;
+406	with it she struck furious Ares on the neck, and loosened his limbs.
+407	He covered seven plethra as he fell, and grimed his hair with dust,
+408	and his armor clattered about him; and Pallas Athena laughed,
+409	and boasting over him she addressed him with winged words:
+410	“Little fool, not even yet have you realized how much stronger
+411	I claim to be than you, since you match your might with mine.
+412	So you may pay in full for the Erinyes of your mother,
+413	who in her anger is devising evil against you, because the Achaeans
+414	you deserted, and give help to the overbearing Trojans.”
+415	So she spoke, and turned her shining eyes away;
+416	and Aphrodite, daughter of Zeus, took him by the hand and led him away,
+417	groaning thick and fast; and hardly did he gather his spirit again.
+418	And when the white-armed goddess Hera saw her,
+419	at once she addressed Athena with winged words:
+420	“Ah, child of aegis-bearing Zeus, Atrytone,
+421	there again that dog-fly is leading Ares, ruin of mortals,
+422	out of destructive war, through the turmoil; go after her!”
+423	So she spoke, and Athena rushed after her, and rejoiced in her heart,
+424	and rushing at her, on the breast with her strong hand
+425	she struck her; and her knees and dear heart were loosened where she was.
+426	So the two of them lay on the bountiful earth,
+427	and she, boasting over them, spoke winged words:
+428	“Would that all who help the Trojans were now such as these
+429	whenever they fight with the armored Argives,
+430	so bold and hardy, as Aphrodite was
+431	when she came as an ally to Ares, to meet my might;
+432	then long ago we would have ceased from war,
+433	having sacked the well-built citadel of Ilios.”
+434	So she spoke, and the white-armed goddess Hera smiled.
+435	And the powerful earth-shaker spoke to Apollo:
+436	“Phoebus, why is it that we two stand apart? It is not fitting,
+437	when the others have begun; it would be the more shameful if without a fight
+438	we went back to Olympus, to the bronze-floored house of Zeus.
+439	You begin, for you are younger by birth; for me it would not
+440	be good, since I was born first and know more.
+441	Little fool, how senseless is the heart you have! You do not even
+442	remember all the evils we suffered around Ilios,
+443	we two alone of the gods, when to proud Laomedon
+444	we came from Zeus and served for hire for a year
+445	for a fixed wage; and he was our master and gave us our orders.
+446	I built a wall around the city for the Trojans,
+447	wide and very beautiful, so that the city might be unbreakable;
+448	and you, Phoebus, herded the shambling cattle with curving horns
+449	on the slopes of wooded, many-folded Ida.
+450	But when the joyful seasons were bringing on the term of our wage,
+451	then he robbed us by force of our whole wage,
+452	Laomedon, that terrible man, and sent us away with threats.
+453	He threatened to bind together our feet, and our hands above,
+454	and to sell us off to islands far away;
+455	and he vowed that he would lop off the ears of both of us with the bronze.
+456	And we two went back with resentful hearts,
+457	angry over the wage, which he had promised and did not pay.
+458	It is to his people that you now do a favor, and you do not try with us
+459	to bring it about that the overbearing Trojans perish
+460	utterly and wretchedly, with their children and their modest wives.”
+461	Then far-working lord Apollo spoke to him in turn:
+462	“Shaker of the earth, you would not call me sound of mind
+463	if I should fight with you for the sake of mortals,
+464	wretched creatures, who, like leaves, at one time
+465	blaze with life, eating the fruit of the field,
+466	and at another waste away lifeless. No, let us
+467	cease from battle at once; and let them fight it out themselves.”
+468	So he spoke, and turned back; for he was ashamed
+469	to come to blows with his father's brother.
+470	But his sister rebuked him harshly, the mistress of wild beasts,
+471	Artemis of the wild, and spoke abusive words:
+472	“So you flee, Far-Worker, and to Poseidon you have yielded
+473	the whole victory, and given him the triumph for nothing!
+474	Little fool, why do you carry a bow as empty as the wind?
+475	Let me never again hear you in our father's halls
+476	boasting, as before among the immortal gods,
+477	that you would fight face to face against Poseidon.”
+478	So she spoke, and far-working Apollo said nothing to her,
+479	but the revered wife of Zeus, in anger,
+480	rebuked her of the showering arrows with abusive words:
+481	“How do you now mean, you shameless dog, to stand
+482	against me? I am hard for you to match in might,
+483	bow-bearer though you are, since a lion to women
+484	Zeus has made you, and has given you leave to kill whichever of them you wish.
+485	Truly it is better to slay wild beasts on the mountains
+486	and wild deer than to fight in force with those stronger than you.
+487	But if you wish to learn of war, so that you may know well
+488	how much stronger I am, since you match your might with mine…”
+489	She spoke, and caught both her hands at the wrist
+490	with her left hand, and with her right took the bow from her shoulders,
+491	and with the bow itself she beat her about the ears, smiling,
+492	as she twisted this way and that; and the swift arrows fell out.
+493	And the goddess fled from under her in tears, like a dove
+494	that flies from a hawk into a hollow rock,
+495	a cleft; nor was it her fate to be caught;
+496	so she fled in tears, and left her bow there.
+497	And the guide, the slayer of Argus, spoke to Leto:
+498	“Leto, I will not fight with you at all; it is a hard thing
+499	to trade blows with the wives of Zeus the cloud-gatherer;
+500	no, with a ready heart, among the immortal gods,
+501	boast that you overcame me by your mighty strength.”
+502	So he spoke, and Leto gathered up the curved bow
+503	and the arrows, fallen here and there in the whirl of dust.
+504	When she had taken the bow she went back after her daughter;
+505	and the daughter came to Olympus, to the bronze-floored house of Zeus,
+506	and the maiden sat in tears on her father's knees,
+507	and the ambrosial robe trembled around her; and her father,
+508	the son of Cronus, drew her to him, and laughing heartily asked her:
+509	“Who of the heavenly gods has done such things to you, dear child,
+510	for no reason, as if you were caught doing some wrong openly?”
+511	Then the well-crowned, the clamorous goddess spoke to him in turn:
+512	“It was your wife who battered me, father, white-armed Hera,
+513	from whom strife and quarrel have fastened upon the immortals.”
+514	So they spoke such words to one another,
+515	but Phoebus Apollo went into sacred Ilios;
+516	for the wall of the well-built city was on his mind,
+517	lest the Danaans sack it against fate that day.
+518	And the other gods who live forever went to Olympus,
+519	some of them angry, and some exulting greatly,
+520	and they sat down beside the father, lord of the dark clouds. But Achilles
+521	was killing the Trojans themselves and their single-hoofed horses alike.
+522	As when smoke goes up and reaches the wide sky
+523	from a burning city, and the wrath of the gods has sent it up,
+524	and it brings toil on all, and sends sorrows on many,
+525	so Achilles brought toil and sorrows on the Trojans.
+526	And the old man Priam stood on the divine tower,
+527	and caught sight of huge Achilles; and before him
+528	the Trojans were at once driven in confusion, in panic, and no courage
+529	arose in them; and with a groan he came down from the tower to the ground,
+530	urging on the famous gatekeepers along the wall:
+531	“Hold the gates wide open in your hands until the people
+532	come to the city in panic; for Achilles is here,
+533	close by, driving them in confusion; now I think there will be ruin.
+534	But when they have crowded inside the wall and draw breath,
+535	put the closely fitted doors back in their place again;
+536	for I fear that this baneful man may leap inside the wall.”
+537	So he spoke, and they opened the gates and pushed back the bars;
+538	and the gates, thrown open, made a light for them; and Apollo
+539	leapt out in front, to ward off ruin from the Trojans.
+540	And they, straight for the city and the high wall,
+541	parched with thirst and grimed with dust, from the plain
+542	were fleeing; and he pressed on fiercely with his spear, and a mighty frenzy
+543	held his heart unceasingly, and he was eager to win glory.
+544	There the sons of the Achaeans would have taken high-gated Troy,
+545	had not Phoebus Apollo set brilliant Agenor on,
+546	a man, the son of Antenor, noble and strong.
+547	He cast daring into his heart, and himself stood
+548	beside him, to ward off the heavy hands of Death,
+549	leaning against the oak; and he was hidden in thick mist.
+550	But when he caught sight of Achilles, sacker of cities,
+551	he stood, and his heart heaved with many thoughts as he waited;
+552	and deeply troubled he spoke to his own proud heart:
+553	“Ah me! If I flee before mighty Achilles,
+554	where the others too are being driven in confusion, in terror,
+555	he will catch me even so, and cut my throat, a coward.
+556	But what if I let these men be driven in confusion
+557	by Achilles, son of Peleus, and on my feet, away from the wall,
+558	flee elsewhere toward the Ilean plain, until I reach
+559	the slopes of Ida and slip down into the brushwood;
+560	and then in the evening, when I have bathed in the river,
+561	and let the sweat dry from me, I might go back to Ilios.
+562	But why does my heart debate these things with me?
+563	I fear he may notice me as I go away from the city toward the plain,
+564	and dart after me and catch me with his swift feet.
+565	Then there will be no more escaping death and the fates;
+566	for he is far too strong, beyond all men.
+567	But what if I go out to meet him in front of the city?
+568	For surely his flesh too can be pierced by the sharp bronze,
+569	and there is one life in him, and men say that he
+570	is mortal; but Zeus, son of Cronus, grants him glory.”
+571	So saying, he crouched and waited for Achilles, and his valiant heart
+572	within him was eager to make war and to fight.
+573	As a leopard comes out of a deep thicket
+574	to face a hunting man, and in her heart
+575	neither fears nor flees, when she hears the baying of the hounds;
+576	for even if he is first and stabs her or shoots her,
+577	yet even pierced through with the spear she does not give up
+578	her courage, until she either closes with him or is brought down;
+579	so the son of noble Antenor, brilliant Agenor,
+580	would not flee before he had made trial of Achilles.
+581	But he held before him his shield, balanced on every side,
+582	and took aim at him with his spear, and gave a great shout:
+583	“Surely you hoped in your mind, shining Achilles,
+584	that on this day you would sack the city of the proud Trojans,
+585	you little fool; truly many sorrows will yet be wrought over it.
+586	For there are many of us within it, valiant men,
+587	who in front of our dear parents and wives and sons
+588	guard Ilios; but you will meet your fate here,
+589	terrible and bold warrior though you are.”
+590	He spoke, and hurled the sharp javelin from his heavy hand,
+591	and hit him on the shin below the knee, and did not miss.
+592	And around him the greave of newly wrought tin
+593	rang terribly; and the bronze sprang back from the man it struck,
+594	and did not pierce it, for the gifts of the god held it back.
+595	Then the son of Peleus rushed at godlike Agenor
+596	in his turn; but Apollo no longer allowed him to win glory,
+597	but snatched him away, and hid him in thick mist,
+598	and sent him away to go out of the war in peace.
+599	And then by a trick he kept the son of Peleus away from the people;
+600	for the Far-Worker, in the likeness of Agenor himself in every way,
+601	stood before his feet, and he rushed after him to chase him on foot.
+602	While he was chasing him over the wheat-bearing plain,
+603	turning him along the deep-eddying river Scamander,
+604	as he ran a little way ahead—for by a trick Apollo was bewitching him,
+605	so that he always hoped to catch him with his own feet—
+606	meanwhile the other Trojans in their rout came in a throng
+607	gladly to the city, and the city was filled with them as they crowded in.
+608	Nor did they dare any longer to wait for one another outside the city
+609	and the wall, and learn who had escaped
+610	and who had died in the war; but eagerly they poured
+611	into the city, all whose feet and knees had saved them.

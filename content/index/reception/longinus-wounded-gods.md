@@ -9,11 +9,12 @@ of: [gods-wounded-by-mortals, aphrodite, ares, olympians, longinus]
 passages:
   - 5.382-404 | Dione's examples
   - 5.872-887 | Ares complains to Zeus
+  - 21.385-390 | The gods come together in strife
 ---
 
 {{quote:5f210e1d-b851-54dc-9636-01780f5e2612}}
 
-After the leap of the gods' horses (9.5; see [[longinus-horses-of-the-gods]]), the author of *On the Sublime* turns to the battle of the gods in Books 20 and 21. The great heaven blares like a trumpet (21.388). Hades leaps from his throne and cries out in fear that Poseidon will break open the earth and lay bare the houses of the dead, which even the gods hate (20.61–65). The earth is torn open, Tartarus laid bare, the whole world overturned, and heaven and Hades, mortal and immortal, all fight together and share the danger (9.6).
+After the leap of the gods' horses (9.5; see [[longinus-horses-of-the-gods]]), the author of *On the Sublime* turns to the battle of the gods in Books 20 and 21. The great heaven blares like a trumpet (21.388); the quotation ends the line with “great heaven and Olympus”, the verse-end of the gates of heaven that the Hours keep (5.750 = 8.394), in place of Zeus hearing the din, and runs straight on into Book 20. Hades leaps from his throne and cries out in fear that Poseidon will break open the earth and lay bare the houses of the dead, which even the gods hate (20.61–65). The earth is torn open, Tartarus laid bare, the whole world overturned, and heaven and Hades, mortal and immortal, all fight together and share the danger (9.6).
 
 Then he checks himself. These things are terrifying, he says, but unless they are taken as allegory they are altogether impious, and they do not keep what is fitting. Homer, it seems to him, by telling of the wounds of the gods, their factions, their revenges, tears, bonds and all their passions, has made the men at Troy gods, as far as he could, and the gods men. For us in our misery, death is laid up as a harbor from our ills; of the gods, Homer made eternal not their nature but their misfortune (9.7). Far better are the passages that show the divine as pure and truly great, like the advance of Poseidon, when the long mountains and the forest tremble under his immortal feet (9.8; the quotation runs half of 13.18 into a verse of Book 20, 20.60, and goes on with 13.19 and 13.27–29; see [[longinus-poseidons-advance]]).
 

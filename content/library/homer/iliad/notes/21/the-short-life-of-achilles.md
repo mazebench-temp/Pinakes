@@ -1,0 +1,8 @@
+---
+summary: Achilles tells Lycaon that his own death is as sure as the boy's: “yet over me too hang death and mighty fate; / there will come a morning or an evening or a midday / when someone will take the life from me too in the work of Ares” (21.110–112). In the river he remembers his mother's word, that “under the wall of the armored Trojans / I would perish by the swift arrows of Apollo” (21.277–278), and fears a death without glory, “trapped in a great river, like a swineherd boy” (21.282).
+refs: [21.106-113, 21.272-283, 21.291]
+---
+
+The two forecasts differ. To Lycaon the hour and the weapon are unknown, “either with a spear or with an arrow from the string” (21.113); in the river he gives his mother's version, a death by Apollo's arrows under the wall, which Hector, dying, will give again with Paris beside Apollo, at the Scaean gates (22.359–360). Walter Leaf finds the discrepancy from 21.113 hardly worth notice (*Commentary on the Iliad*, 1900, on 21.278; see [[death-of-achilles-foretold]]).
+
+What frightens him in the river is the manner of dying, not death. He would rather Hector had killed him, the best man bred at Troy, for “then a brave man would have been the killer, and he would have slain a brave man” (21.279–280), and Poseidon answers the fear exactly: “so it is not your fate to be brought down by a river” (21.291). The river had promised him a burial in silt with no tomb for the Achaeans to heap (21.316–323; see [[fame-and-the-tomb]] and [[achilles-and-the-river]]). At the end of the book Agenor says what everyone knows, that “there is one life in him, and men say that he / is mortal” (21.569–570; see [[psyche]] and [[patroclus-died-too]]).

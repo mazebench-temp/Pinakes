@@ -11,7 +11,7 @@ en: [nimble]
 
 ## Meaning
 
-λαιψηρός means “light, nimble, quick.” In the Iliad it describes the knees and feet of a man who runs: the formula λαιψηρὰ (πόδας καὶ) γούνατʼ ἐνώμα is used of Dolon, who “plied his nimble knees” to flee (10.358), of Hector, who runs back to battle like a horse loosed from its stall (15.263–269), of Achilles speeding toward the city like a racehorse (22.21–24), and of Hector fleeing before him under the wall of Troy (22.143–144). Zeus, says Aeneas, “roused my might and my nimble knees” (20.92–93), and Apollo did the same for Hector (22.203–204). It describes the swift paths of the winds (14.17, 15.620), the arrows of Apollo by which Thetis foretold that Achilles would die (21.277–278), and Achilles himself, whom the river overtakes “nimble though he is” (21.263–264). Compare [[swift]], [[swift-footed]] and [[podarkes]].
+λαιψηρός means “light, nimble, quick.” In the Iliad it describes the knees and feet of a man who runs: the formula λαιψηρὰ (πόδας καὶ) γούνατʼ ἐνώμα is used of Dolon, who “plied his nimble knees” to flee (10.358), of Hector, who runs back to battle like a horse loosed from its stall (15.263–269), of Achilles speeding toward the city like a racehorse (22.21–24), and of Hector fleeing before him under the wall of Troy (22.143–144). Zeus, says Aeneas, “roused my might and my nimble knees” (20.92–93), and Apollo did the same for Hector (22.203–204). It describes the swift paths of the winds (14.17, 15.620), the arrows of Apollo by which Thetis foretold that Achilles would die (21.277–278), and Achilles himself, whom the river kept overtaking, “nimble though he was” (21.263–264). Compare [[swift]], [[swift-footed]] and [[podarkes]].
 
 ## Use
 

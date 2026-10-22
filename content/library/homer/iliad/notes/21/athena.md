@@ -1,0 +1,20 @@
+---
+summary: Athena comes with Poseidon to Achilles in the river, both in the form of men, and puts great strength in him. In the battle of the gods Ares stabs at her aegis, and she fells him with a boundary stone, laughs and boasts over him; at Hera's bidding she strikes down Aphrodite, who is leading him away, and mocks her as the Trojans' boldest ally.
+# Unnamed: with Poseidon at Achilles' side (21.285-299), Ares' words to her and his blow (21.394-402), her stone
+# (21.403-407), her boast over Ares (21.409-415), Hera's words to her (21.421-422), and her blow and her boast over
+# Aphrodite (21.424-433).
+refs: [21.285-299, 21.394-407, 21.409-415, 21.421-422, 21.424-433]
+passages:
+  - 21.284-304 | Poseidon and Athena at Achilles' side
+  - 21.391-434 | Athena fells Ares and Aphrodite
+---
+
+**In the river.** When Achilles cries to Zeus from the river, “very swiftly Poseidon and Athena / came and stood near him, in form like men” (21.284–285; see [[poseidon]] and [[achilles]]). Poseidon speaks for both, “for such helpers from among the gods are we two to you” (21.289; see [[epitarrhothos]]), the claim that Athena made for herself when she sent Diomedes against Ares, “such a helper am I to you” (5.828), and he names her: “I and Pallas Athena” (21.290; see [[pallas]]), the words with which Hera named her partner in their oath against Troy (20.314). Walter Leaf explains the human form by the danger to mortal eyes of a god seen in his own brightness, and quotes Hera's maxim, “for gods are hard to face when they appear in plain sight” (20.131; *Commentary on the Iliad*, 1900, on 21.290; see [[gods-are-hard-to-face]]). When they have gone, Achilles rushes against the stream, and the river cannot hold him back, “for Athena had put great strength in him” (21.304).
+
+**Against Ares.** Ares springs at her first, calls her a dog-fly, and reminds her of Book 5, when she set Diomedes on him and drove the spear home herself (21.391–399; 5.855–859; see [[ares]], [[dog-fly]] and [[diomedes-wounds-ares]]). In Book 4 the two of them roused the two armies (4.439–440), and in Book 20 they were set against each other, “against Enyalius the gray-eyed goddess Athena” (20.69). He stabs at the aegis she wears (21.400–402; see [[aegis]]), and she gives ground and takes up a stone, “which men of former times had set there to be the boundary stone of a field”, and strikes him on the neck (21.403–406; see [[boundary-stones]] and [[stone-throwing]]). The two verses of the stone are those of Hector's against Ajax (21.403–404 = 7.264–265). Some ancient readers objected to χειρὶ παχείῃ, “strong hand”, of a goddess (21.403, 21.424), and would have read βαρείῃ or Παλλὰς Ἀθήνη; Leaf answers with the same words of Penelope's hand in the *Odyssey* and of Hera's in the *Hymn to Apollo* (*Odyssey* 21.6; *Hymn to Apollo* 340; on 21.403). Then she laughs:
+
+{{quote:07bc61a0-6575-5f85-9d74-c28399c65cc3}}
+
+νηπύτιε, “Little fool” (21.410), is an address peculiar to this book (see [[nepios]] and the translation's note on 21.410), and εὔχομαι in 21.411 is a claim, not a prayer (see [[euchomai]]). Hera will say the same words to Artemis, “since you match your might with mine” (21.488; see [[menos]]). Leaf takes the Erinyes of his mother for Hera's curses, and recalls Athena's own complaint in Book 5, that Ares had promised her and Hera to fight the Trojans and help the Argives (5.832–834; on 21.412; see [[erinyes]] and [[hera]]).
+
+**Against Aphrodite.** When Aphrodite leads Ares away, Hera sets Athena on her with the verses she used in Book 5 to call her out against Ares himself (21.419–422; 5.713–714; see [[hera]]), and Athena, who “rushed after her, and rejoiced in her heart” (21.423), strikes her on the breast and lays her on the earth beside Ares (21.424–426; see [[aphrodite]]). Her second boast wishes all the Trojans' helpers were as “bold and hardy” as Aphrodite: then the Achaeans would long ago have sacked Ilios (21.428–433). Her titles are her old ones: “Pallas Athena” (21.290, 21.408), and in Hera's mouth “child of aegis-bearing Zeus, Atrytone” (21.420 = 2.157, 5.714; see [[child-of-aegis-bearing-zeus]] and [[atrytone]]).

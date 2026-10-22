@@ -28,7 +28,7 @@ Daughter of [[Zeus]] and [[Leto]], and “sister of the Far-Shooter” (κασι
 
 ## In Homer
 
-**The archer.** Her arrows, like Apollo's, are Homer's explanation of sudden death: hers for women, his for men. She killed Andromache's mother in her father's halls (6.428) and, in anger, Laodameia, the mother of Sarpedon (6.205). Achilles wishes she had shot Briseis (19.59–60), and Hera tells her that Zeus has made her “a lion to women” (21.483). In the Odyssey she kills Orion and Ariadne, and Penelope prays to her for death (*Odyssey* 5.121–124, 11.324–325, 18.202–204, 20.60–81).
+**The archer.** Her arrows, like Apollo's, are Homer's explanation of sudden death: hers for women, his for men. She killed Andromache's mother in her father's halls (6.428) and, in anger, Laodameia, the mother of Sarpedon (6.205). Achilles wishes she had shot Briseis (19.59–60), and Hera tells her that Zeus has made her “a lion to women” (21.483; see [[a-lion-to-women]]). In the Odyssey she kills Orion and Ariadne, and Penelope prays to her for death (*Odyssey* 5.121–124, 11.324–325, 18.202–204, 20.60–81).
 
 **The huntress.** The poem first names her as the teacher of a hunter:
 

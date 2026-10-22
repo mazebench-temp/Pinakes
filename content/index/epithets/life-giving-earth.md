@@ -12,7 +12,7 @@ of: [earth]
 
 ## Meaning
 
-φυσίζοος = φύω (“grow, bring forth”) + ζόος, ζωή (“life”): “bringing forth life.” The earth is the source of all that grows. Yet Homer uses the word where the earth holds the dead. Achilles wonders whether Lycaon, back from Lemnos, will come back from below as well, or whether “the life-giving earth” will hold him, “which holds down even the strong” (Il. 21.62–63). The Odyssey uses the Iliad's own words of Helen's brothers: “both of them, alive, the life-giving earth holds” (τοὺς ἄμφω ζωοὺς κατέχει φυσίζοος αἶα, Od. 11.301). There they live and die on alternate days, honored by Zeus (Od. 11.301–304).
+φυσίζοος = φύω (“grow, bring forth”) + ζόος, ζωή (“life”): “bringing forth life.” The earth is the source of all that grows. Yet Homer uses the word where the earth holds the dead. Achilles wonders whether Lycaon, back from Lemnos, will come back from below as well, or whether “the life-giving earth will hold him back, which holds back even the strong” (Il. 21.62–63). The Odyssey uses the Iliad's own words of Helen's brothers: “both of them, alive, the life-giving earth holds” (τοὺς ἄμφω ζωοὺς κατέχει φυσίζοος αἶα, Od. 11.301). There they live and die on alternate days, honored by Zeus (Od. 11.301–304).
 
 ## Use
 
