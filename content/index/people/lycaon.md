@@ -7,7 +7,8 @@ summary: Father of the archer [[Pandarus]], from [[Zeleia]] under Mount Ida. Not
 grc: [Λυκάονος]
 # Λυκάονος at 3.333 is Paris' brother (lycaon-son-of-priam).
 # Λυκάονος at 21.127 is Priam's son (lycaon-son-of-priam).
-except: [3.333, 21.127]
+# Λυκάονος at 23.746 is Priam's son, sold to Lemnos (lycaon-son-of-priam).
+except: [3.333, 21.127, 23.746]
 en: [Lycaon]
 ---
 

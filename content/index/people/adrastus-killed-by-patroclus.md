@@ -8,7 +8,8 @@ summary: A Trojan, the first of the nine men whom Patroclus kills when, against 
 # which excepts 16.694); Ἄδρηστος is the king of Sicyon (adrastus) and the son of Merops (adrestus).
 grc: [Ἄδρηστον]
 en: [Adrastus]
-except: [6.37, 6.63]
+# Ἀδρήστου at 23.347 is the king, the master of the horse Arion (adrastus).
+except: [6.37, 6.63, 23.347]
 refs: [16.697]
 relations:
   - slayer: patroclus (16.692-697)

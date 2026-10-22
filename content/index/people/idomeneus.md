@@ -11,8 +11,6 @@ relations:
   - father: deucalion (12.117, 13.451-452)
   - grandfather: minos (13.450-452)
   - companion: meriones (2.650-651, 13.246-249)
-passages:
-  - 23.448-498 | Idomeneus and the son of Oileus at the chariot race
 ---
 
 ## Family

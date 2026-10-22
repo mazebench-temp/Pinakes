@@ -7,6 +7,8 @@ summary: The Great Bear, “which they also call by the name of the Wagon, / whi
 aliases: [Bear, the Great Bear, Wagon, the Wagon, the Wain, Hamaxa, Arktos, Ursa Major]
 grc: [Ἄρκτον, "ἣν καὶ Ἄμαξαν"]
 en: [Bear, Wagon]
+# "Bear with me" at 23.587 renders ἄνσχεο; the constellation is not there.
+except: [23.587]
 # 18.488–489 describe the Bear without naming it.
 refs: [18.488, 18.489]
 ---

@@ -12,7 +12,7 @@ of: [scamander, pyrasus]
 
 ## Meaning
 
-ἀνθεμόεις = ἄνθεμον (“flower,” from the root of ἄνθος) + the suffix -όεις (“full of”): “flowery.” Homer uses it six times: of meadows, in the Iliad the meadow of the Scamander and in the Odyssey the Sirens' meadow (Od. 12.159); of the Thessalian town Pyrasus; and of a cauldron and mixing bowls “with flowers” worked on them (Il. 23.885; Od. 3.440, 24.275).
+ἀνθεμόεις = ἄνθεμον (“flower,” from the root of ἄνθος) + the suffix -όεις (“full of”): “flowery.” Homer uses it six times: of meadows, in the Iliad the meadow of the Scamander and in the Odyssey the Sirens' meadow (Od. 12.159); of the Thessalian town Pyrasus; and of a cauldron and mixing bowls with flowers worked on them, a cauldron “worth an ox, flowered” (Il. 23.885; Od. 3.440, 24.275).
 
 ## Use
 

@@ -9,7 +9,8 @@ grc: [ἰητὴρ, ἰητῆρος, φάρμαχʼ, φάρμακα, ἕλκο�
 en: [healer, healers, drugs, wound, examine, sucked out the blood, busy about]
 # ἀμφεπένοντο at 19.278: the Myrmidons busy themselves with the gifts, not with a wound.
 # ἀμφεπένοντο at 21.203: the eels and fishes busy themselves about the dead Asteropaeus.
-except: [19.278, 21.203]
+# ἀμφεπένοντο at 23.184: no dogs busy themselves about Hector's body.
+except: [19.278, 21.203, 23.184]
 passages:
   - 4.188-219 | Machaon heals Menelaus
 ---

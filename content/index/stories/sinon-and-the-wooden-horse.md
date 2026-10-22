@@ -7,7 +7,7 @@ order: 7
 mode: example
 tags: [warfare]
 summary: Epeius builds the wooden horse at Athena's prompting; the best of the Greeks hide inside, the rest withdraw to Tenedos, and Sinon, left behind, persuades the Trojans to take the horse into the city and then signals the fleet. The Sinon is among the tragedies listed from the Little Iliad.
-aliases: [the wooden horse, the Trojan horse, Epeius]
+aliases: [the wooden horse, the Trojan horse]
 participants: [sinon, odysseus, neoptolemus, helen, athena]
 ---
 

@@ -8,7 +8,8 @@ aliases: [raid, raids, sack, sacking, plunder, cattle raid]
 grc: [ἐκπέρσαι, ἐξεπράθομεν, ἐξαλαπάξαι, ὁδὸν ἐλθέμεναι, ἤλασαν, ἐδηλήσαντʼ, ἐκπέρσωσʼ, διεπράθομέν, ἤγομεν ἐνθάδε πάντα]
 # ἤλασαν is also "drove" a ditch round the wall (τάφρον ἤλασαν, 7.450).
 # ἤλασαν at 12.6 is "drove" a ditch, i.e. dug it.
-except: [7.450, 12.6]
+# ἤλασαν at 23.13 is "drove", of the Myrmidons' horses around the body of Patroclus.
+except: [7.450, 12.6, 23.13]
 en: [sack, plundered, go on a raid, drove off, ravage, sacked, brought everything here]
 passages:
   - 1.152-160 | Achilles: the Trojans never raided me

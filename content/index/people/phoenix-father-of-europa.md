@@ -11,6 +11,8 @@ summary: The “far-famed Phoenix” whose daughter bore Minos and Rhadamanthys 
 # both are English-only candidates: except that line here.
 grc: ["^Φοίνικος"]
 en: [Phoenix]
+# Φοίνικα at 23.360 is Achilles' tutor, the son of Amyntor (phoenix).
+except: [23.360]
 ---
 
 οὐδʼ ὅτε Φοίνικος κούρης τηλεκλειτοῖο, “nor when I loved the daughter of far-famed Phoenix, / who bore me Minos and godlike Rhadamanthys” (14.321–322). He is named only as a father, in Zeus' list of his loves (see [[the-loves-of-zeus]], [[europa]], [[minos]] and [[rhadamanthus]]). τηλεκλειτός, “far-famed”, is the epithet of the Trojans' allies (6.111, 12.108; see [[famous]]), and in the Odyssey of Penelope's father, in a verse-end of the same shape: Ἰκαρίου κούρη τηλεκλειτοῖο, “daughter of far-famed Icarius” (*Odyssey* 19.546). The name is the word for a Phoenician, and for the red-purple dye (see [[phoenix]] and [[purple]]). He is not Phoenix, son of Amyntor, Achilles' old tutor.

@@ -7,6 +7,8 @@ summary: The standing title of [[Nestor]], “the Gerenian horseman.” The hors
 aliases: [Gerenios hippota, horseman, the Gerenian]
 grc: [Γερήνιος ἱππότα, ἱππότα Φυλεύς]
 en: [Gerenian horseman, horseman]
+# "the horseman Peleus" at 23.89 (ἱππότα Πηλεύς) is not Nestor.
+except: [23.89]
 of: [nestor, phyleus]
 ---
 

@@ -1,0 +1,8 @@
+---
+summary: Achilles gives Eumelus, last in the chariot race, the bronze corselet he took from Asteropaeus (23.558–565), and in the armed duel the corselet of Diomedes stops the spear of Ajax (23.813, 23.818–819).
+# θώρηκα (23.560), θωρήχθησαν (23.813) and θώρηξ (23.819) are claimed by the notes on Books 3 and 4.
+---
+
+**For Eumelus.** When Antilochus refuses to give up the mare, Achilles, smiling, offers Eumelus “something else from my store”: “I will give him the corselet that I took from Asteropaeus, / of bronze, around which a casting of shining tin / runs in a circle; it will be worth much to him” (23.558–562; see [[tin]], [[eumelus]] and [[antilochus]]). Automedon brings it from the hut, and Eumelus “received it with joy” (23.563–565; see [[automedon]]). Achilles had killed Asteropaeus at the river with the sword, striking him in the belly, and stripped him of his armor (21.179–183; see [[asteropaeus]]). Walter Leaf observes that Book 21 says nothing of a corselet, though if Asteropaeus wore one the sword must have gone through it, and takes the games to belong to a time when the corselet had become an essential part of the armor (*Commentary on the Iliad*, 1900, on 23.560).
+
+**The armed duel.** “And when they had armed on either side of the throng” (θωρήχθησαν, 23.813), Ajax and Diomedes meet in the middle. The prize was to go to the man who first reached the other's flesh through the armor (23.805–806), and “Then Ajax stabbed at his shield, balanced on every side, / but did not reach the flesh; for the corselet within protected him” (23.818–819; see [[ajax]], [[diomedes]] and [[shield]]). Diomedes, reaching over the great shield at Ajax's neck, is given the sword (23.820–825; see [[sword]]).

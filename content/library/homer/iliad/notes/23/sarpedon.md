@@ -1,0 +1,7 @@
+---
+summary: For the armed duel at the funeral games Achilles sets out a spear, a shield and a helmet, “the armor of Sarpedon, which Patroclus had taken from him” (23.798–800).
+---
+
+τεύχεα Σαρπήδοντος, ἅ μιν Πάτροκλος ἀπηύρα, “the armor of Sarpedon, which Patroclus had taken from him” (23.800). When Patroclus killed him, the Achaeans stripped “the armor from the shoulders of Sarpedon, / bronze, gleaming”, and Patroclus gave it to his companions to carry to the ships (16.663–665; see [[patroclus]] and [[stripping-the-dead]]). Now the spoil of Patroclus' greatest victory is a prize at his funeral. Achilles sets it out for two men to fight in armor, and whoever first reaches the other's flesh through his armor and draws blood is to have the Thracian sword of Asteropaeus, but “let both of them carry off this armor in common” (23.798–810; see [[asteropaeus]] and [[contests]]). Telamonian Ajax and Diomedes fight, the Achaeans, afraid for Ajax, stop them, and Achilles gives the sword to Diomedes (23.811–825; see [[ajax]] and [[diomedes]]).
+
+Sarpedon had feared this. Dying, he told Glaucus, “I will be a shame and a reproach to you hereafter, / all your days without end, if the Achaeans / strip me of my armor” (16.498–500), and Glaucus later blamed Hector for leaving him “to become the prey and spoil of the Argives” (17.150–151; see [[glaucus]]). His body was carried home to Lycia by Sleep and Death (16.666–683); his armor stayed with the Achaeans, and ends as the shared prize of a contest at the funeral of the man who killed him.

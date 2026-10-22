@@ -1,0 +1,7 @@
+---
+summary: Iris is going back “to the streams of Oceanus”, to the sacrifices of the Ethiopians. Walter Leaf allows that the river beyond which the unburied Patroclus may not cross could be Oceanus, though he takes it to be the Styx.
+---
+
+**The streams of Oceanus.** Iris will not sit with the winds, “for I am going back to the streams of Oceanus, / to the land of the Ethiopians” (23.205–206; see [[iris]] and [[ethiopians]]). Ὠκεανοῖο ῥέεθρα, “the streams of Oceanus”, is found only here in Homer; elsewhere they are his ῥοαί (19.1) or his ῥόος (16.151, 18.402). It was “to Oceanus, to the blameless Ethiopians” that Zeus and the other gods went to feast in Book 1 (1.423; see [[zeus-among-the-ethiopians]]). The next morning in this book, “saffron-robed Dawn spreads over the sea” (23.227); Walter Leaf contrasts Book 19, where she rises “from the streams of Oceanus” (19.1; *Commentary on the Iliad*, 1900, on 23.227; see [[eos]]).
+
+**The river of the dead?** The ghost of Patroclus complains that the souls “do not yet let me mingle with them beyond the river” (23.73; see [[hades]] and [[psyche]]). Leaf takes the river to be presumably the Styx, as in Book 8, where Heracles would not have escaped “the sheer streams of the water of Styx” (8.369; see [[styx]]). But he allows that it may be Oceanus, which Odysseus has to pass to reach the dead, and which the souls of the suitors pass on their way to Hades (*Odyssey* 11.13–22, 24.11–14; Leaf on 23.73; see the translation's note on 23.71–74).

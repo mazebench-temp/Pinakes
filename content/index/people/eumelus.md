@@ -33,6 +33,4 @@ Son of Admetus and Alcestis, "most beautiful in form of the daughters of Pelias"
 
 When the narrator asks the Muse who were the best of the men and of the horses, the horses come first, and they are Eumelus' (see [[the-mares-of-eumelus]]). The answer is qualified at once: the best of all were Achilles and his horses (2.769–770; see [[best-of-the-achaeans]]).
 
-## In the Iliad
-
-In the rest of the Iliad Eumelus has one scene. In the chariot race at the funeral games of Patroclus he is the first to rise, "lord of men, Eumelus, who excelled in horsemanship" (23.288–289). He is leading when Apollo, the patron of his mares, knocks the whip from Diomedes' hand; Athena gives it back and breaks Eumelus' yoke, and he is thrown and comes in last, dragging his chariot (23.375–397, 23.532–533). "The best man is driving his horses in last," says Achilles, and he wants to give him the second prize. Antilochus objects, and Achilles gives Eumelus instead the bronze corselet he took from Asteropaeus (23.536–565).
+{{notes}}

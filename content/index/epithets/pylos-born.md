@@ -12,7 +12,7 @@ of: [nestor]
 
 ## Meaning
 
-Πυλοιγενής = Πύλος (“Pylos”) + -γενής (“born,” from γίγνομαι): “born at Pylos.” The first part looks like an old locative, Πύλοι (“at Pylos”), of the kind seen in οἴκοι (“at home”). The word occurs twice in Homer: here of Nestor, and in Book 23 of his horses, which are “of Pylian breed” (Πυλοιγενέες … ἵπποι, Il. 23.303).
+Πυλοιγενής = Πύλος (“Pylos”) + -γενής (“born,” from γίγνομαι): “born at Pylos.” The first part looks like an old locative, Πύλοι (“at Pylos”), of the kind seen in οἴκοι (“at home”). The word occurs twice in Homer: here of Nestor, and in Book 23 of his horses, which are “born in Pylos” (Πυλοιγενέες … ἵπποι, Il. 23.303).
 
 ## Use
 

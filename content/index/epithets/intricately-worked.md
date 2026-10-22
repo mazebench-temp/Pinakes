@@ -3,7 +3,7 @@ title: Intricately worked
 greek: πολυδαίδαλος
 kind: epithet
 tags: [weapon, craftsman]
-summary: “Of much cunning work,” an epithet of richly crafted things: corselets, shields, bowls and ornaments.
+summary: “Of much cunning work,” an epithet of richly crafted things: corselets, shields, bowls and ornaments; once of the craftsmen themselves, the Sidonians.
 aliases: [richly wrought, polydaidalos]
 grc: [πολυδαιδάλου]
 en: [intricately worked]

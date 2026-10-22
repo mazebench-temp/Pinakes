@@ -36,7 +36,9 @@ test('speeches in the structure files match the quotation marks of the Greek', (
     const grc = t.editions.grc;
     const starts = new Set((t.structure.speeches ?? []).map(s => s.from));
     for (const s of t.structure.speeches ?? []) {
-      assert.ok(grc.get(s.from)?.trimStart().startsWith('“'), `${w.id} ${book}.${s.from}: speech does not open with “`);
+      // A speech opens a verse, except where the text itself turns to direct speech inside one ("midline": true, 23.855).
+      const open = grc.get(s.from) ?? '';
+      assert.ok(open.trimStart().startsWith('“') || (s.midline === true && open.includes('“')), `${w.id} ${book}.${s.from}: speech does not open with “`);
       assert.ok(grc.get(s.to)?.includes('”'), `${w.id} ${book}.${s.to}: speech does not close with ”`);
     }
     for (const [n, line] of grc) if (line.includes('“')) assert.ok(starts.has(n), `${w.id} ${book}.${n}: a speech opens here but is not in the structure file`);

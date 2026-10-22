@@ -1,0 +1,12 @@
+---
+summary: Sheep are slaughtered with the cattle for the funeral feast and flayed before the pyre of Patroclus, and fifty uncut rams were the offering that Peleus vowed to the river Spercheius for his son's homecoming (23.31, 23.144–149, 23.166, 23.550).
+# ἔνορχα (23.147), “uncut”, of rams, occurs only here in Homer.
+grc: [ἔνορχα]
+en: [uncut rams]
+---
+
+**The feast and the pyre.** For the funeral feast “many sleek oxen bellowed around the iron / as their throats were cut, and many sheep and bleating goats” (23.30–31; see [[cattle]] and [[goats]]). At the pyre the next day “many fat sheep and shambling cattle with curving horns / they flayed before the pyre” (23.166), and Achilles wraps the dead man in their fat and heaps the flayed carcasses around him (23.167–169; see [[cremation]] and [[pyres]]). The verse is the one in which Phoenix's kinsmen slaughtered their flocks and herds to keep him at home (9.466). Walter Leaf reports the T scholia's remark that white victims are not offered to the dead, as the Odyssey shows when Odysseus is told to sacrifice a ram and a black ewe to the dead and an all-black ram to Teiresias (*Commentary on the Iliad*, 1900, on 23.30; *Odyssey* 10.524–527).
+
+**The rams for the river.** When Achilles cuts off the hair he had grown for the Spercheius, he tells the river that his father's prayer was in vain: Peleus had vowed that when his son came home he would cut his hair for the river and offer a hecatomb, “and would sacrifice fifty uncut rams right there / into your waters, where you have a precinct and a fragrant altar” (23.144–148; see [[spercheius]], [[hair]] and [[peleus]]). ἔνορχα are uncastrated males; Leaf compares the “males without blemish” of Jewish ritual, and takes ἱερεύσειν ἐς πηγάς to mean that the blood was let run into the water, if the victims were not dropped into it, as the Trojans threw live horses into the eddies of the Scamander (on 23.147; 21.131–132), and as Odysseus cut the throats of his sheep over the pit so that the blood ran into it (*Odyssey* 11.35–36). The rams are never offered: “So the old man prayed, but you did not fulfill what he had in mind” (23.149).
+
+**The flocks.** Antilochus, refusing to give up the mare to Eumelus, reminds Achilles of what he has in his hut, “much gold … and there is bronze / and flocks, and there are slave women and single-hoofed horses”, from which he can give Eumelus a greater prize (23.549–552; see [[antilochus]]). πρόβατα are flocks, as in the wealth of Tydeus at Argos, who “had many flocks” (14.124).

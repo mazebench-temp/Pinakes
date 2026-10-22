@@ -18,4 +18,4 @@ of: [euryalus, priam, patroclus]
 
 {{quote:35f5711c-53f2-58a3-9683-9adf696e7386}}
 
-Euryalus is the third and least of the leaders from Argos and Tiryns, after Diomedes and Sthenelus. The formula gives him a hero's line-end in a passage that names him by his father and his grandfather. In Book 23 he appears again, “equal to the gods,” as the only man who dares to box against Epeius (Il. 23.677).
+Euryalus is the third and least of the leaders from Argos and Tiryns, after Diomedes and Sthenelus. The formula gives him a hero's line-end in a passage that names him by his father and his grandfather. In Book 23 he appears again, “equal to the gods,” as the only man who dares to box against Epeius (Il. 23.677; see [[epeius]]).

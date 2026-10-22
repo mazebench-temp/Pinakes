@@ -1,0 +1,22 @@
+---
+summary: In the chariot race Athena sees Apollo cheat Diomedes, gives him back his whip and puts might into his horses, and in her resentment breaks the yoke of Eumelus' mares; Antilochus knows that it is she who has given Diomedes' team its speed. In the footrace Odysseus prays to her in his heart; she makes his limbs light and makes Ajax, son of Oileus, slip in the dung of the slaughtered oxen, and Ajax complains that she stands by Odysseus like a mother.
+# Unnamed: her pursuit of Diomedes and of Eumelus, and "the goddess" who broke the yoke (23.389-392), the might and
+# glory she gives Diomedes (23.400, 23.406), Odysseus' "Hear me, goddess" (23.770), the limbs she makes light
+# (23.772), and Ajax's "the goddess" (23.782-783).
+refs: [23.389-392, 23.400, 23.406, 23.770, 23.772, 23.782-783]
+passages:
+  - 23.388-400 | Athena in the chariot race
+  - 23.768-784 | Athena in the footrace
+---
+
+**The chariot race.** Apollo has struck the whip from Diomedes' hands, and his horses run on “without the goad” (23.383–387; see [[apollo]]). Athena answers at once:
+
+{{quote:f8552509-ad05-5066-a95b-3189764ff489}}
+
+Eumelus tumbles out beside the wheel, with the skin torn from his elbows, mouth and nose, and his eyes fill with tears (23.394–397; see [[eumelus]]), while Diomedes drives past the others, “for Athena / put might into his horses and set glory on him” (23.399–400; see [[menos]] and [[kydos]]). She gave him “might and daring” at the start of his great day in Book 5 (5.1–2), and there she took the whip and the reins herself and drove his horses against Ares (5.837–841; see [[diomedes]]). Antilochus, driving behind, tells his own horses not to strive against “the horses of the wise-hearted son of Tydeus, to which Athena / has now held out speed, and has set glory on him” (23.405–406; see [[antilochus]]). The two verses were athetized in antiquity, since Antilochus could not know what Athena had done; Walter Leaf finds the grounds insufficient, since the poet is not troubled by such trifles, and Athena's friendship for Diomedes was well known (*Commentary on the Iliad*, 1900, on 23.405; see the translation's note on 23.405–406). Idomeneus, watching from his lookout, misses the mares that led on the way out and guesses at an accident: “Or did the reins escape the charioteer, and he could not / hold them well around the turning post, and failed to wheel?” (23.465–466; see [[idomeneus]] and [[divine-intervention]]). The narrator has told whose work it was.
+
+**The footrace.** Ajax, son of Oileus, takes the lead, and Odysseus runs so close behind that his breath falls on Ajax's head (23.758–766; see [[ajax-son-of-oileus]] and [[odysseus]]). Then:
+
+{{quote:c32c3157-8493-5362-86dd-ea1265f0c9ad}}
+
+ἐπίρροθος, “helper”, is said in Homer only here and of Athena herself, when Diomedes' father Tydeus, alone among the Cadmeians at Thebes, “challenged them to contests, and won them all / easily; such a helper was Athena to him” (4.389–390; see [[tydeus-at-thebes]] and [[contests]]). Odysseus' prayer has nothing but the call and the request (see [[prayer]] and [[hear-me]]); in Book 10 he reminded her that she had always stood by him (10.277–282). Her answer is told in the two verses with which she answered Diomedes' prayer in Book 5 (23.771–772 = 5.121–122), and Poseidon gave the same lightness to the two Ajaxes (13.61). Aristarchus marked 772, since if Athena had made Odysseus' limbs light he would have won without Ajax's fall, and Leaf agrees (on 23.772; see the translation's note on 23.772). Just short of the prize, “there Ajax slipped as he ran, for Athena hindered him, / where the dung was spread from the loud-bellowing oxen that were slain, / which swift-footed Achilles killed in honor of Patroclus” (23.774–776; see [[sacrifice]]). He stands holding the horn of the ox that is his prize, spitting out the dung, and says: “Ah, truly the goddess hindered my feet, she who always before / stands by Odysseus like a mother and helps him” (23.782–783; see [[o-popoi]]); and they all laugh heartily at him (23.784). Odysseus had said the same in his prayer in Book 10, “you who always / stand by me in all my toils” (10.278–279), and in the *Odyssey* Athena says it of herself, ἥ τέ τοι αἰεὶ / ἐν πάντεσσι πόνοισι παρίσταμαι ἠδὲ φυλάσσω (*Odyssey* 13.300–301). In the *Odyssey* the son of Oileus is ἐχθόμενος Ἀθήνῃ, “hated by Athena”, and Proteus tells how he would have escaped drowning on his way home but for a boast (*Odyssey* 4.499–511).

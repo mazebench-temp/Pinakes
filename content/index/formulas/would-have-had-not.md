@@ -7,6 +7,8 @@ summary: The narrator's turn “and now he would have … had not …”, which 
 aliases: [if not situation, if-not situation, would have had not, almost-episode, counterfactual, kai ny ken]
 grc: ["καί νύ κεν", "καί νύ κʼ", "ἔνθά κεν Ἀργείοισιν ὑπέρμορα νόστος ἐτύχθη"]
 en: [would have]
+# εἰ καί νύ κεν … ἐπαιτήσειας at 23.592 is "if you should ask", not "would have … had not".
+except: [23.592]
 ---
 
 ## The pattern

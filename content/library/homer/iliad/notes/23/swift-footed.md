@@ -1,0 +1,9 @@
+---
+summary: Achilles is swift-footed as the kings lead him to Agamemnon (23.35), as he answers the soul of Patroclus (23.93), and as he watches the footrace in which he does not run: the son of Oileus slips in the dung of the oxen “which swift-footed Achilles killed in honor of Patroclus,” and Antilochus' praise “gave glory to the swift-footed son of Peleus” (23.776, 23.793); the compounds also describe the racehorses (23.304, 23.376, 23.504).
+# ποδώκεϊ (23.249; again 24.458), ποδώκεσιν (23.262), ποδώκεες (23.376): each only here in this form so far.
+grc: [ποδώκεϊ, ποδώκεσιν, ποδώκεες]
+---
+
+**Achilles.** The epithet keeps company with his patronymics, “the swift-footed son of Peleus” (23.35, 23.249, 23.793), and “the swift-footed grandson of Aeacus,” beside whose ship the Myrmidons sit for the funeral feast (23.28; [[grandson-of-aeacus]]). “Swift Achilles” pours wine on the ground all night long (23.218; [[libation]]). In the footrace the epithet turns into the point of Antilochus' praise: the old Odysseus is hard to beat, “except for Achilles” (23.791–792), and Achilles answers with half a talent of gold (23.795–796).
+
+**Horses.** The racehorses are swift-footed as a matter of course, even Antilochus' horses, which his father calls “the slowest at running” six verses later (23.304, 23.310). An ancient note quoted by Walter Leaf remarks on the loose use of the epithet; Leaf calls the ornamental epithet “very harsh,” but no reason for Bentley's conjecture λευκόποδες (*Commentary on the Iliad*, 1900, on 23.304). The mares of Eumelus lead (23.376), Diomedes' chariot runs close behind his “swift-footed horses” (23.504), and Menelaus keeps “his swift horses” close to Antilochus (23.516). ποδώκεσιν, of the “swift horsemen” for whom Achilles sets the first prizes (23.262), and ποδώκεϊ and ποδώκεες are new to the entry. See [[achilles]], [[son-of-peleus]], [[horses]] and [[podarkes]].

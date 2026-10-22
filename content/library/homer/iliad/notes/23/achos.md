@@ -1,0 +1,7 @@
+---
+summary: Grief belongs to Achilles, to the mourners and to the horses. Achilles swears not to wash until Patroclus is burned, “since never again will a second grief like this / come to my heart while I am among the living” (23.46–47); the mourners lay the body on the pyre “grieving at heart” (23.165); and the immortal horses “stand grieving at heart” for their charioteer (23.284). In the race Menelaus tells his own horses not to “stand still, grieving at heart” (23.443), and afterwards he rises against Antilochus “grieving in his heart” (23.566).
+---
+
+The two verses about horses are one formula turned round. Achilles' horses ἕστατον ἀχνυμένω κῆρ, “stand grieving at heart”, for the man who used to wash them and pour oil on their manes (23.280–284; see [[the-horses-of-achilles]]), and Menelaus urges his mares μὴ δʼ ἕστατον ἀχνυμένω κῆρ, “do not stand still, grieving at heart”, since the other team will tire first (23.443–445; see [[aethe-and-podargus]]).
+
+Achilles' grief has a cause and a limit: nothing like it will come to him again while he lives (23.46–47; see [[the-short-life-of-achilles]]), and he holds the dead man's head in the procession, “grieving; for he was sending his noble companion to Hades” (23.136–137; see [[hetairos]]). Menelaus' ἄχος is the other kind, a hurt to his honor close to anger: he rises “grieving in his heart, / angry without end at Antilochus” (23.566–567; see [[cholos]] and [[arete]]).

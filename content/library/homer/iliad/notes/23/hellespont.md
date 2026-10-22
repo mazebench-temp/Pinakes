@@ -1,0 +1,7 @@
+---
+summary: The book begins as the Achaeans come back from the city to “the ships and the Hellespont” (23.2), the verse in which they had reached them in flight before Hector (18.150); by the strait Achilles plans the barrow for Patroclus and for himself.
+---
+
+“So they groaned throughout the city; but the Achaeans, / when they had reached the ships and the Hellespont, / they scattered, each to his own ship” (23.1–3). The verse ἐπεὶ δὴ νῆάς τε καὶ Ἑλλήσποντον ἵκοντο ends in the words of the rout in Book 18, “in their flight reached the ships and the Hellespont” (18.150), which had been the limit Zeus set for the Trojan advance (15.233; see the note on Book 18). Then the Achaeans fled to the strait before Hector; now they come back to it from the city where he lies dead, while the Trojans groan inside the walls (23.1; see [[troy]] and [[hector]]).
+
+The camp by the strait is also the place of the tomb. Achilles has planned “a great barrow for Patroclus and for himself” on the shore (23.125–126; see [[shore]]), and when the bones are gathered he asks only for a fitting mound, which the Achaeans are to make “wide and high” after his own death (23.245–248; see [[tomb]]). The Odyssey tells how it was done: the army heaped up a great tomb over the bones of the two companions ἀκτῇ ἔπι προὐχούσῃ, ἐπὶ πλατεῖ Ἑλλησπόντῳ, “on a jutting headland, by the broad Hellespont”, to be seen far out from the sea by the men of that time and of times to come (*Odyssey* 24.76–84; see [[achilles]] and [[patroclus]]).

@@ -26,4 +26,4 @@ Birds appear in one other simile of the book, the flocks on the Asian meadow, wh
 
 ## Elsewhere in Homer
 
-The mares run again in the chariot race at the funeral games of Patroclus, in the same words: Φηρητιάδαο ποδώκεες … ἵπποι, “the swift-footed horses of the grandson of Pheres” (Iliad 23.376). They lead until Athena breaks their yoke and Eumelus is thrown from the chariot (23.375–397).
+The mares run again in the chariot race at the funeral games of Patroclus, in the same words: Φηρητιάδαο ποδώκεες … ἵπποι, “the swift-footed mares of the grandson of Pheres” (Iliad 23.376). They lead until Athena breaks their yoke and Eumelus is thrown from the chariot (23.375–397).

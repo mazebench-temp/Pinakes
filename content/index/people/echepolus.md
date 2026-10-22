@@ -7,6 +7,8 @@ summary: A Trojan, son of [[Thalysias]], the first man killed in the Iliad. [[An
 aliases: [Echepolos]
 grc: [Ἐχέπωλον, Θαλυσιάδην]
 refs: [4.459-463, 4.465, 4.467]
+# Echepolus at 23.296 is the son of Anchises, a man of Sicyon (echepolus-son-of-anchises).
+except: [23.296]
 relations:
   - father: thalysias (4.458)
 passages:
@@ -19,4 +21,4 @@ He is “a helmeted man of the Trojans, brave among the champions” (4.457–45
 
 His body is the first to be fought over. Elephenor, leader of the Abantes, takes him by the feet and drags him out from under the missiles to strip his armor, and as he stoops Agenor stabs him in the side (4.463–469; see [[agenor]]). The fight then closes over Elephenor, and the two sides leap on one another “like wolves” (4.470–472; see [[like-wolves]]). The poem does not say who kept Echepolus' body. See [[the-first-battle]] and [[androktasia]].
 
-The name joins ἔχω (“have, hold”) and πῶλος (“foal, horse”): “owner of horses”. Another Echepolus, son of Anchises, lived at Sicyon; he gave Agamemnon the mare Aethe so that he would not have to follow him to Troy (23.293–299).
+The name joins ἔχω (“have, hold”) and πῶλος (“foal, horse”): “owner of horses”. Another Echepolus, son of Anchises, lived at Sicyon; he gave Agamemnon the mare Aethe so that he would not have to follow him to Troy (23.293–299; see [[echepolus-son-of-anchises]]).

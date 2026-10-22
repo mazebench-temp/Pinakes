@@ -1,0 +1,900 @@
+# Homer, Iliad, Book 23 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So they groaned throughout the city; but the Achaeans,
+2	when they had reached the ships and the Hellespont,
+3	they scattered, each to his own ship;
+4	but Achilles would not let the Myrmidons scatter,
+5	and he spoke among his war-loving companions:
+6	“Myrmidons of the swift horses, my trusty companions,
+7	let us not yet loose the single-hoofed horses from under the chariots,
+8	but with the horses themselves and the chariots let us go near
+9	and weep for Patroclus; for that is the prize of the dead.
+10	And when we have taken our fill of deadly lament,
+11	we will loose the horses and all take our supper here.”
+12	So he spoke, and they groaned aloud in a body, and Achilles led them.
+13	And three times they drove their well-maned horses around the body,
+14	weeping; and Thetis roused among them the longing for lament.
+15	The sands were wet, and wet was the armor of the men
+16	with tears; such a master of rout did they long for.
+17	And among them the son of Peleus led the unceasing lamentation,
+18	laying his man-slaying hands on the breast of his companion:
+19	“Rejoice, Patroclus, even in the house of Hades;
+20	for now I am fulfilling for you all that I promised before,
+21	to drag Hector here and give him raw to the dogs to divide among them,
+22	and before your pyre to cut the throats of twelve
+23	splendid children of the Trojans, in my anger over your killing.”
+24	He spoke, and devised shameful deeds against brilliant Hector,
+25	stretching him face down beside the bier of the son of Menoetius
+26	in the dust. And they each took off their armor,
+27	bronze, gleaming, and loosed their high-neighing horses,
+28	and sat down beside the ship of the swift-footed grandson of Aeacus,
+29	countless men; and he gave them a funeral feast to satisfy the heart.
+30	Many sleek oxen bellowed around the iron
+31	as their throats were cut, and many sheep and bleating goats;
+32	and many white-tusked hogs, rich with lard,
+33	were stretched to singe across the flame of Hephaestus;
+34	and everywhere around the corpse the blood ran, enough to be drawn in cups.
+35	But the lord, the swift-footed son of Peleus,
+36	the kings of the Achaeans led to brilliant Agamemnon,
+37	having won him over with difficulty, for he was angry at heart for his companion.
+38	And when they reached the hut of Agamemnon,
+39	at once they ordered the clear-voiced heralds
+40	to set a great tripod over the fire, in the hope that they might persuade
+41	the son of Peleus to wash off the clotted blood.
+42	But he refused stubbornly, and swore an oath besides:
+43	“No, by Zeus, who is highest and best of the gods,
+44	it is not lawful that water for washing should come near my head
+45	until I have laid Patroclus on the fire and heaped up a mound
+46	and cut my hair, since never again will a second grief like this
+47	come to my heart while I am among the living.
+48	But now let us yield to the hateful feast;
+49	and at dawn urge them on, Agamemnon, lord of men,
+50	to bring wood, and to provide all that is fitting
+51	for a dead man to have when he goes beneath the misty darkness,
+52	so that the tireless fire may burn him away
+53	the sooner from our eyes, and the army may turn to its tasks.”
+54	So he spoke, and they listened closely to him and obeyed.
+55	And quickly they made ready their supper, each of them,
+56	and feasted, and no one's heart lacked an equal share of the feast.
+57	But when they had put away the desire for drink and food,
+58	they went to lie down, each to his own hut,
+59	but the son of Peleus, on the shore of the loud-roaring sea,
+60	lay groaning heavily among the many Myrmidons
+61	in a clear space, where the waves washed up on the beach;
+62	and when sleep seized him, loosening the cares of his heart,
+63	sweet sleep, poured around him (for his shining limbs were very weary
+64	from chasing Hector toward windy Ilios),
+65	there came to him the soul of poor Patroclus,
+66	like him in all things, in stature and in the fair eyes
+67	and the voice, and it wore such clothes about its body as he had worn;
+68	and it stood above his head and spoke to him:
+69	“You are asleep, and you have forgotten me, Achilles.
+70	You were not careless of me while I lived, but you are now that I am dead.
+71	Bury me as quickly as may be, so that I may pass the gates of Hades.
+72	The souls keep me far away, the phantoms of the dead,
+73	and they do not yet let me mingle with them beyond the river,
+74	but I wander aimlessly through the wide-gated house of Hades.
+75	And give me your hand, in my grief; for never again
+76	shall I come back from Hades, once you have given me my portion of fire.
+77	For no longer, alive, apart from our dear companions,
+78	shall we sit and take counsel together; but hateful doom
+79	has gaped around me, the doom allotted me even at my birth;
+80	and it is your fate too, Achilles, like the gods,
+81	to die beneath the wall of the wealthy Trojans.
+82	And I will tell you something else, and charge you with it, if you will obey me:
+83	do not lay my bones apart from yours, Achilles,
+84	but together, just as we were reared in your house,
+85	when Menoetius brought me, still a little boy, from Opus
+86	to your house, because of a grievous killing,
+87	on the day when I killed the son of Amphidamas,
+88	a foolish child, not meaning to, in anger over the knucklebones;
+89	then the horseman Peleus received me into his halls
+90	and reared me with care and named me your attendant;
+91	so too let one urn enclose the bones of us both,
+92	the golden two-handled jar that your lady mother gave you.”
+93	Answering him, swift-footed Achilles said:
+94	“Why, dear heart, have you come here to me,
+95	and charge me with all these things one by one? I
+96	will accomplish them all and obey as you bid me.
+97	But stand nearer to me; let us put our arms around each other, if only for a little while,
+98	and take our fill of deadly lament.”
+99	So he spoke, and reached out with his own hands,
+100	but did not take hold of it; and the soul went beneath the earth like smoke,
+101	gibbering; and Achilles sprang up in amazement,
+102	and struck his hands together, and spoke a piteous word:
+103	“Ah, truly even in the house of Hades there is some
+104	soul and phantom, but there is no mind in it at all;
+105	for all night long the soul of poor Patroclus
+106	stood over me, lamenting and weeping,
+107	and charged me with each thing, and it was wondrously like him.”
+108	So he spoke, and in them all he roused the longing for lament;
+109	and rosy-fingered Dawn appeared to them as they wept
+110	around the pitiable corpse. But powerful Agamemnon
+111	urged on mules and men to bring wood
+112	from all the huts; and a brave man watched over them,
+113	Meriones, the attendant of manly Idomeneus.
+114	And they went holding woodcutting axes in their hands
+115	and well-plaited ropes; and the mules went before them.
+116	Many a time they went uphill and downhill, sideways and aslant;
+117	but when they reached the slopes of Ida of the many springs,
+118	at once with the long-edged bronze they cut the high-leafed oaks
+119	in haste; and these fell with a great crashing;
+120	and then the Achaeans split them
+121	and bound them behind the mules; and the mules tore up the ground with their feet,
+122	longing for the plain, through the thick brushwood.
+123	And all the woodcutters carried logs; for so he bade them,
+124	Meriones, the attendant of manly Idomeneus.
+125	And they threw them down on the shore one after another, where Achilles
+126	had planned a great barrow for Patroclus and for himself.
+127	But when they had thrown down the vast load of wood on every side,
+128	they sat there waiting in a body. But Achilles
+129	at once ordered the war-loving Myrmidons
+130	to gird on their bronze, and each to yoke beneath the chariot
+131	his horses; and they rose and put on their armor,
+132	and mounted their chariots, fighters and charioteers,
+133	the horsemen in front, and behind them followed a cloud of foot soldiers,
+134	countless; and in the middle his companions carried Patroclus.
+135	And they covered the whole corpse with their hair, which they cast on it
+136	as they cut it off; and behind, brilliant Achilles held his head,
+137	grieving; for he was sending his noble companion to Hades.
+138	And when they came to the place that Achilles had pointed out to them,
+139	they set him down, and quickly heaped up ample wood for him.
+140	Then brilliant swift-footed Achilles thought of another thing:
+141	standing apart from the pyre he cut off his fair hair,
+142	which he had grown thick and long for the river Spercheius;
+143	and deeply troubled he spoke, looking out over the wine-dark sea:
+144	“Spercheius, it was in vain that my father Peleus prayed to you
+145	that when I came home there to my dear native land
+146	I would cut my hair for you and offer a holy hecatomb,
+147	and would sacrifice fifty uncut rams right there
+148	into your waters, where you have a precinct and a fragrant altar.
+149	So the old man prayed, but you did not fulfill what he had in mind.
+150	But now, since I am not going home to my dear native land,
+151	I would grant my hair to the hero Patroclus to take with him.”
+152	So saying he placed the hair in the hands of his dear companion,
+153	and in them all he roused the longing for lament.
+154	And now the light of the sun would have set on them as they mourned,
+155	had not Achilles quickly stood beside Agamemnon and said:
+156	“Son of Atreus, for it is your words above all that the army of the Achaeans
+157	will obey; they may have their fill of lament, it is true;
+158	but now dismiss them from the pyre, and bid them make ready
+159	their meal; we will see to these things, we to whom most of all
+160	the corpse is dear; and let the leaders stay here with us.”
+161	But when Agamemnon, lord of men, heard this,
+162	at once he dismissed the army to the balanced ships,
+163	but those who cared for the dead stayed there and heaped up the wood,
+164	and made a pyre a hundred feet this way and that,
+165	and on the top of the pyre they laid the body, grieving at heart.
+166	And many fat sheep and shambling cattle with curving horns
+167	they flayed before the pyre and were busy over them; and from them all
+168	great-hearted Achilles took the fat and covered the corpse with it
+169	from head to foot, and heaped the flayed carcasses around it.
+170	And he set in it two-handled jars of honey and of ointment,
+171	leaning them against the bier; and four horses with high-arched necks
+172	he threw on the pyre in haste, groaning loudly.
+173	The lord had nine dogs that fed at his table,
+174	and he cut the throats of two of them and threw them on the pyre,
+175	and twelve brave sons of the great-hearted Trojans,
+176	cutting them down with the bronze; and he devised evil deeds in his mind;
+177	and he let loose in it the iron might of the fire, to feed on them.
+178	He groaned aloud then, and called his dear companion by name:
+179	“Rejoice, Patroclus, even in the house of Hades;
+180	for now I am fulfilling for you all that I promised before:
+181	twelve brave sons of the great-hearted Trojans,
+182	all these the fire is eating along with you; but Hector,
+183	the son of Priam, I will not give to the fire to devour, but to the dogs.”
+184	So he spoke, threatening; but no dogs busied themselves about him,
+185	for Aphrodite, daughter of Zeus, kept the dogs from him
+186	by day and by night, and anointed him with rose-sweet oil,
+187	ambrosial, so that he should not tear his skin as he dragged him.
+188	And Phoebus Apollo brought a dark cloud over him
+189	from the sky down to the plain, and covered all the place
+190	that the corpse lay on, lest the might of the sun should first
+191	parch the skin around his sinews and limbs.
+192	But the pyre of dead Patroclus would not burn;
+193	then brilliant swift-footed Achilles thought of another thing:
+194	standing apart from the pyre he prayed to two winds,
+195	the North Wind and the West Wind, and promised them fine sacrifices;
+196	and pouring many libations from a golden cup he entreated them
+197	to come, so that the dead might blaze with fire as quickly as may be,
+198	and the wood be quick to burn. And swiftly Iris,
+199	hearing his prayers, went as messenger to the winds.
+200	They were all together in the house of the stormy West Wind,
+201	feasting at a banquet; and Iris came running and stood
+202	on the stone threshold; and when they saw her with their eyes,
+203	they all sprang up, and each called her to sit by him;
+204	but she refused to sit, and spoke a word:
+205	“There is no time to sit; for I am going back to the streams of Oceanus,
+206	to the land of the Ethiopians, where they are offering hecatombs
+207	to the immortals, so that I too may feast among them on the sacrifices.
+208	But Achilles prays the North Wind and the clamorous West Wind
+209	to come, and promises fine sacrifices,
+210	so that you may rouse the pyre to burn, on which lies
+211	Patroclus, over whom all the Achaeans groan.”
+212	So saying she went away, and they rose
+213	with a wondrous din, driving the clouds in confusion before them.
+214	And swiftly they came to the sea to blow, and a wave rose
+215	under the shrill wind; and they came to deep-soiled Troy,
+216	and fell on the pyre, and the wondrous fire roared loud.
+217	And all night long, together, they tossed the flame of the pyre,
+218	blowing shrilly; and all night long swift Achilles,
+219	taking a two-handled cup, drew wine from a golden mixing bowl
+220	and poured it on the ground, and soaked the earth,
+221	calling on the soul of poor Patroclus.
+222	And as a father mourns as he burns the bones of his son,
+223	newly married, whose death has grieved his wretched parents,
+224	so Achilles mourned as he burned the bones of his companion,
+225	dragging himself beside the pyre, groaning without ceasing.
+226	When the morning star goes forth to herald the light over the earth,
+227	the star after which saffron-robed Dawn spreads over the sea,
+228	then the pyre was dying down, and the flame ceased.
+229	And the winds went back again to go home
+230	over the Thracian sea; and it groaned, raging with its swell.
+231	And the son of Peleus, turning away from the pyre to one side,
+232	lay down worn out, and sweet sleep leapt upon him;
+233	and those around the son of Atreus gathered in a body;
+234	and the din and the thudding of them as they came woke him,
+235	and he sat up and spoke to them:
+236	“Son of Atreus, and you others, the best of all the Achaeans,
+237	first put out the pyre with sparkling wine,
+238	all of it, as far as the might of the fire has reached; and then
+239	let us gather the bones of Patroclus, son of Menoetius,
+240	telling them carefully apart; and they are easy to know;
+241	for he lay in the middle of the pyre, and the others apart
+242	were burned at its edge, horses and men all mingled together.
+243	And let us put them in a golden bowl and a double fold of fat,
+244	until I myself am hidden in Hades.
+245	And I do not bid you labor over a very great tomb,
+246	but one just such as is fitting; and afterwards, you Achaeans,
+247	make it wide and high, you who after me
+248	are left behind among the many-benched ships.”
+249	So he spoke, and they obeyed the swift-footed son of Peleus.
+250	First they put out the pyre with sparkling wine,
+251	as far as the flame had come, and the ash had fallen deep;
+252	and weeping, the white bones of their gentle companion
+253	they gathered into a golden bowl and a double fold of fat,
+254	and laid them in the huts and covered them with a soft linen cloth;
+255	and they marked out the circle of the mound and laid its foundations
+256	around the pyre; and at once they heaped up the loose earth,
+257	and when they had heaped up the mound they were going back. But Achilles
+258	kept the army there and made them sit in a wide gathering,
+259	and brought prizes out of the ships, cauldrons and tripods
+260	and horses and mules and the strong heads of oxen,
+261	and fair-belted women, and gray iron.
+262	For the swift horsemen first he set out splendid prizes:
+263	a woman to lead away, skilled in flawless handiwork,
+264	and a tripod with handles, holding twenty-two measures,
+265	for the first; and for the second he set a mare,
+266	six years old, unbroken, carrying a mule foal in her womb;
+267	and for the third he set out a cauldron untouched by fire,
+268	a fine one, holding four measures, still white as it was;
+269	and for the fourth he set two talents of gold,
+270	and for the fifth he set a two-handled bowl untouched by fire.
+271	And he stood upright and spoke among the Argives:
+272	“Son of Atreus, and you other well-greaved Achaeans,
+273	these prizes lie in the gathering, awaiting the horsemen.
+274	If now we Achaeans were holding games in honor of another,
+275	truly I would take the first prize and carry it to my hut.
+276	For you know how far my two horses surpass the rest in prowess;
+277	for they are immortal, and Poseidon gave them
+278	to my father Peleus, and he in turn put them into my hands.
+279	But I for my part will stay here, and my single-hoofed horses with me;
+280	for they have lost the noble fame of such a charioteer,
+281	a kind one, who very often poured liquid olive oil
+282	on their manes, after washing them with clear water.
+283	Him the two stand and mourn, and their manes
+284	rest on the ground, and they stand grieving at heart.
+285	But you others make ready throughout the army, whoever of the Achaeans
+286	trusts in his horses and his well-joined chariot.”
+287	So spoke the son of Peleus, and the swift horsemen gathered.
+288	First by far rose Eumelus, lord of men,
+289	the dear son of Admetus, who excelled in horsemanship;
+290	and after him rose the son of Tydeus, mighty Diomedes,
+291	and he led under the yoke the horses of Tros, of which he had once robbed
+292	Aeneas, though Apollo saved the man himself.
+293	And after him rose the son of Atreus, fair-haired Menelaus,
+294	sprung from Zeus, and he led under the yoke the swift horses,
+295	Aethe, Agamemnon's mare, and his own Podargus;
+296	her Echepolus, son of Anchises, had given to Agamemnon
+297	as a gift, so that he might not have to follow him to windy Ilios,
+298	but might stay at home and take his pleasure; for great wealth
+299	had Zeus given him, and he lived in Sicyon with its wide dancing floors;
+300	her he led under the yoke, straining hard for the race.
+301	And Antilochus, fourth, made ready his well-maned horses,
+302	the splendid son of Nestor, the high-hearted lord,
+303	the son of Neleus; and horses born in Pylos,
+304	swift-footed, drew his chariot; and his father, standing close beside him,
+305	spoke to him for his good, a wise man to one who understood it himself:
+306	“Antilochus, truly, young as you are, they have loved you,
+307	Zeus and Poseidon, and have taught you horsemanship
+308	of every kind; so there is no great need to teach you;
+309	for you know well how to wheel around the turning posts; but your horses
+310	are the slowest at running; so I think there will be ruin.
+311	The others' horses are swifter, but they themselves
+312	do not know how to devise more than you yourself.
+313	But come, my friend, put cunning into your heart,
+314	cunning of every kind, so that the prizes do not slip past you.
+315	By cunning, far more than by strength, is a woodcutter better;
+316	by cunning again a helmsman on the wine-dark sea
+317	steers a swift ship buffeted by the winds;
+318	by cunning one charioteer gets the better of another.
+319	But he who, trusting in his horses and his chariot,
+320	wheels heedlessly wide, this way and that,
+321	his horses wander over the course, and he does not hold them in;
+322	but he who knows crafty ways, though he drives worse horses,
+323	always watches the turning post and turns close, and does not forget
+324	how at first to hold them at full stretch with the oxhide straps,
+325	but keeps them steady and watches the man in front.
+326	And I will tell you a sign, very easy to see, and it will not escape you.
+327	There stands a dry stump, about a fathom above the ground,
+328	of oak or of pine; it does not rot in the rain,
+329	and two white stones lean against it on either side
+330	at the narrowing of the road, and the course is smooth all around;
+331	it is either the mound of some mortal who died long ago,
+332	or it was set as a post in the time of earlier men,
+333	and now brilliant swift-footed Achilles has made it the turning post.
+334	Pressing close to it, drive your chariot and horses near,
+335	and lean yourself in the well-woven chariot
+336	a little to the left of them; but the right-hand horse
+337	goad on with a shout, and let the reins go with your hands.
+338	And at the post let your left-hand horse press close,
+339	so that the hub may seem to graze its edge,
+340	the hub of the well-made wheel; but avoid touching the stone,
+341	lest you wound the horses and smash the chariot;
+342	that would be a joy to the others, and a disgrace to yourself;
+343	but, my friend, be wise and be on your guard.
+344	For if at the post you drive past them in pursuit,
+345	there is no one who could spring after you and catch you, or pass you,
+346	not even if he drove brilliant Arion behind you,
+347	the swift horse of Adrastus, who was of the stock of the gods,
+348	or the horses of Laomedon, the good ones that were reared here.”
+349	So saying, Nestor, son of Neleus, sat down again in his place,
+350	since he had told his son the sum of each thing.
+351	And Meriones, fifth, made ready his well-maned horses.
+352	And they mounted their chariots and cast in their lots;
+353	Achilles shook them, and out leapt the lot of the son of Nestor,
+354	Antilochus; after him powerful Eumelus drew his place;
+355	and after him the son of Atreus, Menelaus famed for his spear,
+356	and after him Meriones drew the lot to drive; and last
+357	the son of Tydeus, by far the best, drew the lot to drive his horses.
+358	And they stood in a row, and Achilles pointed out the turning post
+359	far off on the smooth plain; and beside it he set as a lookout
+360	godlike Phoenix, his father's squire,
+361	so that he might mark the running and report the truth.
+362	And all together they raised their whips over their horses,
+363	and struck them with the straps, and shouted at them with words,
+364	eagerly; and quickly they crossed the plain,
+365	swiftly, away from the ships; and beneath their chests the dust
+366	rose and stood like a cloud or a storm,
+367	and their manes streamed in the blasts of the wind.
+368	And the chariots at one moment skimmed the bountiful earth,
+369	and at another bounded high in the air; and the drivers
+370	stood in the chariots, and the heart of each was pounding
+371	as they strove for victory; and each called to his own
+372	horses, and they flew on, raising the dust of the plain.
+373	But when the swift horses were finishing the last stretch
+374	back toward the gray sea, then the prowess of each
+375	showed itself, and at once the horses' running was strained to the full; and quickly then
+376	the swift-footed mares of the grandson of Pheres took the lead.
+377	And after them the stallions of Diomedes drew out ahead,
+378	the horses of Tros, and they were not far behind, but very close;
+379	for they always seemed about to mount the chariot,
+380	and with their breath Eumelus' back and broad shoulders
+381	grew warm; for they flew with their heads laid on him.
+382	And now he would have passed him or left the race in doubt,
+383	had not Phoebus Apollo borne a grudge against the son of Tydeus,
+384	and struck the shining whip from his hands.
+385	And tears poured from his eyes in his anger,
+386	because he saw the mares going on still faster,
+387	while his own were hindered, running without the goad.
+388	Nor did Apollo escape Athena's notice as he cheated
+389	the son of Tydeus, and very quickly she sped after the shepherd of the people,
+390	and gave him the whip, and put might into his horses;
+391	and she went after the son of Admetus in resentment,
+392	and the goddess broke his horses' yoke; and his mares
+393	ran apart, off the road, and the pole was dashed to the ground.
+394	And he himself tumbled out of the chariot beside the wheel,
+395	and the skin was torn from his elbows and mouth and nose,
+396	and his forehead above the brows was bruised; and his two eyes
+397	filled with tears, and his strong voice was checked.
+398	And the son of Tydeus turned aside and drove his single-hoofed horses past,
+399	leaping far out ahead of the others; for Athena
+400	put might into his horses and set glory on him.
+401	And after him drove the son of Atreus, fair-haired Menelaus.
+402	And Antilochus called to the horses of his father:
+403	“You two as well, step out! Go at full stretch, as fast as you can.
+404	Those over there I do not bid you strive against at all,
+405	the horses of the wise-hearted son of Tydeus, to which Athena
+406	has now held out speed, and has set glory on him;
+407	but catch the horses of the son of Atreus, and do not be left behind,
+408	and quickly, so that she does not pour disgrace on you two,
+409	Aethe, female though she is. Why are you lagging, good sirs?
+410	For I will tell you this, and it will surely come to pass:
+411	there will be no keep for you two with Nestor, shepherd of the people,
+412	but he will kill you at once with the sharp bronze,
+413	if you grow slack and we carry off a worse prize.
+414	But follow hard and hurry as fast as you can;
+415	and this I myself will contrive and devise,
+416	to slip past him in the narrow road, and it will not escape me.”
+417	So he spoke, and they, fearing their lord's rebuke,
+418	ran harder for a little while; and quickly then
+419	Antilochus, steadfast in battle, saw a narrow place in the hollow road.
+420	There was a rift in the ground, where winter water, pent up,
+421	had broken away part of the road and deepened the whole place;
+422	there Menelaus was driving, shunning a clash of wheels.
+423	But Antilochus turned aside and drove his single-hoofed horses
+424	off the road, and swerving a little he pressed on after him.
+425	And the son of Atreus was afraid and called out to Antilochus:
+426	“Antilochus, you drive heedlessly; hold in your horses!
+427	For the road is narrow; soon it is wider for driving past;
+428	or you may run into my chariot and bring us both to harm.”
+429	So he spoke, but Antilochus drove on still harder, much harder,
+430	urging them with the goad, as if he had not heard.
+431	As far as the range of a discus swung from the shoulder carries,
+432	which a man in his prime lets fly, testing his young strength,
+433	so far they ran ahead; and they hung back behind,
+434	the mares of the son of Atreus; for he himself of his own will let up on the driving,
+435	lest the single-hoofed horses collide in the road
+436	and overturn the well-woven chariots, and they themselves
+437	fall in the dust in their eagerness for victory.
+438	And fair-haired Menelaus spoke to him, rebuking him:
+439	“Antilochus, no other mortal is more baneful than you.
+440	Off with you! We Achaeans were wrong to say that you were wise.
+441	But not even so will you carry off the prize without an oath.”
+442	So saying, he called to his horses and spoke:
+443	“Do not hold back, do not stand still, grieving at heart.
+444	Their feet and knees will grow weary sooner
+445	than yours; for both of them are lacking in youth.”
+446	So he spoke, and they, fearing their lord's rebuke,
+447	ran harder, and soon they came close to the others.
+448	And the Argives, sitting in the gathering, were watching
+449	the horses; and they flew on, raising the dust of the plain.
+450	And Idomeneus, leader of the Cretans, was the first to make out the horses;
+451	for he sat outside the gathering, highest of all, at a lookout.
+452	And hearing the man who shouted at them, far off as he was,
+453	he knew him; and he made out a horse, conspicuous, in the lead,
+454	which was bay in all the rest, but on its forehead
+455	there was a white mark, round like the moon.
+456	And he stood upright and spoke among the Argives:
+457	“Friends, leaders and rulers of the Argives,
+458	do I alone discern the horses, or do you as well?
+459	Other horses seem to me to be in front,
+460	and another charioteer appears; and the mares must have come to grief
+461	somewhere there on the plain, that were the better going out.
+462	For I saw them first swinging around the turning post,
+463	but now I cannot see them anywhere; and everywhere my eyes
+464	search across the Trojan plain as I look.
+465	Or did the reins escape the charioteer, and he could not
+466	hold them well around the turning post, and failed to wheel?
+467	There, I think, he was thrown out and broke his chariot,
+468	and the mares swerved off, when fury seized their hearts.
+469	But stand up and look, you too; for I
+470	cannot tell them apart well; but the man seems to me to be
+471	an Aetolian by lineage, and he is lord among the Argives,
+472	the son of Tydeus, tamer of horses, mighty Diomedes.”
+473	And swift Ajax, son of Oileus, rebuked him shamefully:
+474	“Idomeneus, why do you bluster as you always have? The mares are far off,
+475	the high-stepping mares, speeding over the wide plain.
+476	You are not by so much the youngest among the Argives,
+477	nor are the eyes that look out of your head the sharpest;
+478	but you are always blustering with words; and you have no need
+479	to be a blusterer; for there are others here, better men.
+480	The mares in front are the same that were in front before,
+481	those of Eumelus, and he stands in the chariot holding the reins.”
+482	Then in anger the leader of the Cretans answered him face to face:
+483	“Ajax, best in quarreling, ill-counseling, in all else
+484	you fall short of the Argives, since your mind is harsh.
+485	Come here now, let us wager a tripod or a cauldron,
+486	and let us both make Agamemnon, son of Atreus, the arbiter
+487	of whose horses are in front, so that you may learn by paying.”
+488	So he spoke, and at once swift Ajax, son of Oileus, rose
+489	in anger, to answer him with harsh words;
+490	and now the strife between the two would have gone further still,
+491	had not Achilles himself stood up and spoken:
+492	“No longer now answer each other with harsh words,
+493	Ajax and Idomeneus, with evil words, since it is not fitting.
+494	You would be indignant with another man who did such things.
+495	But sit in the gathering and watch
+496	for the horses; they themselves will soon, in their eagerness for victory,
+497	come here; and then you will each know
+498	the horses of the Argives, which are second and which in front.”
+499	So he spoke, and the son of Tydeus came on very close, driving hard,
+500	and he kept driving them with the whip from the shoulder; and his horses
+501	lifted themselves high as they swiftly made their way.
+502	And the drops of dust kept striking the charioteer,
+503	and the chariot, overlaid with gold and tin,
+504	ran close behind the swift-footed horses; and there was no deep
+505	track of the tires left behind
+506	in the fine dust; and the two flew on in their haste.
+507	And he stopped in the middle of the gathering, and much sweat poured
+508	from the horses, from their necks and from their chests to the ground.
+509	And he himself leapt to the ground from the all-gleaming chariot,
+510	and leaned the whip against the yoke; nor did he dally,
+511	mighty Sthenelus, but quickly took the prize,
+512	and gave the woman to his high-hearted companions to lead away
+513	and the tripod with handles to carry; and he unyoked the horses.
+514	And after him Antilochus, of the line of Neleus, drove in his horses,
+515	by crafty ways, not by speed, having got in ahead of Menelaus;
+516	but even so Menelaus kept his swift horses close.
+517	As far as a horse is from the wheel, a horse that draws its master
+518	over the plain at full stretch with the chariot,
+519	and the tips of its hairs touch the tire,
+520	the hairs of its tail; and the wheel runs very close, and there is no great
+521	space between, as it runs over the wide plain;
+522	so far was Menelaus behind noble Antilochus.
+523	At first, it is true, he was left behind as far as the range of a discus,
+524	but he quickly caught up with him; for the noble might was growing
+525	of Agamemnon's mare, fine-maned Aethe;
+526	and if the race had gone on still further for the two,
+527	he would have passed him and not left it in doubt.
+528	But Meriones, the good attendant of Idomeneus,
+529	was behind famous Menelaus by the cast of a spear;
+530	for his fine-maned horses were the slowest,
+531	and he himself was the least skilled at driving a chariot in a contest.
+532	And the son of Admetus came in last of all the others,
+533	dragging his fine chariot, driving his horses in front of him.
+534	And seeing him, brilliant swift-footed Achilles pitied him,
+535	and standing among the Argives he spoke winged words:
+536	“The best man is driving in his single-hoofed horses last.
+537	But come, let us give him a prize, as is fitting,
+538	the second; and let the son of Tydeus carry off the first.”
+539	So he spoke, and they all approved what he bade.
+540	And now he would have given him the mare, for the Achaeans approved,
+541	had not Antilochus, son of great-hearted Nestor,
+542	stood up and answered Achilles, son of Peleus, claiming his right:
+543	“Achilles, I will be very angry with you if you accomplish
+544	this word; for you mean to take away my prize,
+545	thinking that his chariot and swift horses came to grief,
+546	and he himself, good as he is; but he should have prayed
+547	to the immortals; then he would not have come in last of all, driving.
+548	But if you pity him and he is dear to your heart,
+549	there is much gold in your hut, and there is bronze
+550	and flocks, and there are slave women and single-hoofed horses;
+551	take from these and give him afterward an even greater prize,
+552	or even at once, now, so that the Achaeans may praise you.
+553	But her I will not give up; for her let any man make trial
+554	who is willing to fight with me hand to hand.”
+555	So he spoke, and brilliant swift-footed Achilles smiled,
+556	rejoicing in Antilochus, since he was his dear companion;
+557	and answering him he addressed him with winged words:
+558	“Antilochus, if you bid me bring something else from my store
+559	and give it to Eumelus besides, I will do that too.
+560	I will give him the corselet that I took from Asteropaeus,
+561	of bronze, around which a casting of shining tin
+562	runs in a circle; it will be worth much to him.”
+563	He spoke, and bade Automedon, his dear companion,
+564	bring it from the hut; and he went and brought it for him,
+565	and put it in Eumelus' hands; and he received it with joy.
+566	And among them Menelaus too stood up, grieving in his heart,
+567	angry without end at Antilochus; and a herald
+568	put the scepter in his hand, and bade the Argives
+569	be silent; and then the man equal to the gods spoke among them:
+570	“Antilochus, who were wise before, what a thing you have done!
+571	You have shamed my prowess, and hindered my horses
+572	by throwing your own in front, which were far worse than mine.
+573	But come, leaders and rulers of the Argives,
+574	judge between the two of us impartially, and not to help one,
+575	lest someday one of the bronze-clad Achaeans say:
+576	‘Menelaus overpowered Antilochus with lies,
+577	and has gone off leading the mare, because his horses were far worse,
+578	but he himself was the greater in prowess and strength.’
+579	But come, I myself will judge, and I say that no other
+580	of the Danaans will rebuke me; for the judgment will be straight.
+581	Antilochus, come here, nurtured by Zeus, as is the custom;
+582	stand in front of your horses and chariot, and hold the whip
+583	in your hands, the slender one with which you drove before,
+584	and touching the horses, by the earth-holder, the shaker of the earth,
+585	swear that you did not willingly hamper my chariot by a trick.”
+586	Then wise Antilochus answered him face to face:
+587	“Bear with me now; for I am much younger
+588	than you, lord Menelaus, and you are the elder and the better.
+589	You know what the transgressions of a young man are like;
+590	for his mind is quicker, and his counsel thin.
+591	So let your heart be patient; and the mare I myself
+592	will give you, the one I won. And if you should ask for something else from my store,
+593	something greater, I would rather give it to you at once
+594	than, nurtured by Zeus, for all my days
+595	fall from your heart and be an offender against the gods.”
+596	He spoke, and leading the mare the son of great-hearted Nestor
+597	put her in the hands of Menelaus; and his heart
+598	was warmed, as when there is dew around the ears
+599	of a growing crop, when the fields are bristling;
+600	so, Menelaus, was the spirit in your heart warmed.
+601	And he spoke to him, addressing him with winged words:
+602	“Antilochus, now I myself will give way to you,
+603	for all my anger, since you were never flighty or light of mind
+604	before; but this time youth has overcome your mind.
+605	Another time, avoid deceiving your betters.
+606	For no other man of the Achaeans would have won me over so soon.
+607	But you have suffered much and toiled much,
+608	you and your brave father and your brother, for my sake;
+609	so I will yield to you, since you beg me, and the mare as well
+610	I will give you, though she is mine, so that these men too may know
+611	that my heart is never overbearing and harsh.”
+612	He spoke, and to Noemon, the companion of Antilochus, he gave
+613	the mare to lead away; and then he took the all-gleaming cauldron.
+614	And Meriones took up the two talents of gold,
+615	fourth, as he had driven in. And the fifth prize was left,
+616	the two-handled bowl; Achilles gave it to Nestor,
+617	carrying it through the gathering of the Argives, and stood beside him and said:
+618	“Here now, old man, let this be a treasure for you too,
+619	to be a memorial of the funeral of Patroclus; for you will not see him
+620	among the Argives any more. And I give you this prize
+621	just as it is; for you will not fight with fists, nor wrestle,
+622	nor enter the javelin throw any more, nor run
+623	with your feet; for already grievous old age presses upon you.”
+624	So saying, he put it in his hands; and he received it with joy,
+625	and he spoke to him, addressing him with winged words:
+626	“Yes, my child, all that you have said is fair and right.
+627	For my limbs are no longer steady, my friend, nor my feet, nor do my arms
+628	dart out lightly from my shoulders on either side.
+629	If only I were young like that, and my strength were steadfast,
+630	as when the Epeians were burying powerful Amarynceus
+631	at Buprasium, and his sons set out prizes in honor of the king!
+632	There no man was a match for me, neither of the Epeians
+633	nor of the Pylians themselves nor of the great-hearted Aetolians.
+634	In boxing I defeated Clytomedes, son of Enops,
+635	and in wrestling Ancaeus of Pleuron, who stood up against me;
+636	Iphiclus I outran in the footrace, good as he was,
+637	and with the spear I outthrew Phyleus and Polydorus.
+638	Only with horses did the two sons of Actor drive past me,
+639	getting in front by their numbers, grudging me the victory,
+640	because the greatest prizes were left there.
+641	They were twins: the one held the reins steadily,
+642	held the reins steadily, and the other urged them on with the whip.
+643	So I was once; but now let younger men take on
+644	such deeds; and I must yield to grievous old age,
+645	but then I stood out among heroes.
+646	But go, and likewise honor your companion with funeral games.
+647	This I accept gladly, and my heart rejoices
+648	that you always remember me, a gentle friend, and I am not forgotten by you,
+649	nor the honor with which it is fitting that I be honored among the Achaeans.
+650	And for this may the gods give you thanks in return, to satisfy your heart.”
+651	So he spoke, and the son of Peleus went through the great throng of the Achaeans,
+652	when he had listened to all the praise of the son of Neleus.
+653	Then he set out prizes for the painful boxing:
+654	he led in a hard-working mule and tethered it in the gathering,
+655	six years old, unbroken, the hardest to tame;
+656	and for the loser he set out a two-handled cup.
+657	And he stood upright and spoke among the Argives:
+658	“Son of Atreus, and you other well-greaved Achaeans,
+659	for these we bid two men, the very best,
+660	to put up their fists and strike hard; and the one whom Apollo
+661	grants to outlast the other, and all the Achaeans know it,
+662	let him lead the hard-working mule and go back to his hut;
+663	and the loser shall carry off the two-handled cup.”
+664	So he spoke, and at once a man rose, tall and brave,
+665	skilled in boxing, the son of Panopeus, Epeius;
+666	and he laid hold of the hard-working mule and spoke:
+667	“Let him come near, whoever will carry off the two-handled cup;
+668	but the mule, I say, no other of the Achaeans will lead away
+669	by winning at boxing, since I claim to be the best.
+670	Is it not enough that I fall short in battle? It is not possible, after all,
+671	for a man to be skilled in every kind of work.
+672	For I will tell you this, and it will surely come to pass:
+673	I will tear his flesh right through and crush his bones.
+674	Let those who care for him stay here in a body,
+675	to carry him out when he is brought down beneath my hands.”
+676	So he spoke, and they all fell hushed in silence.
+677	Euryalus alone stood up against him, a man equal to the gods,
+678	son of lord Mecisteus, son of Talaus,
+679	who once came to Thebes, when Oedipus had fallen,
+680	for his funeral; and there he defeated all the Cadmeians.
+681	And the son of Tydeus, famed for his spear, busied himself about him,
+682	encouraging him with words, and he greatly wished him victory.
+683	First he put the loincloth about him, and then
+684	he gave him the well-cut straps of an ox of the fields.
+685	And the two, having girded themselves, went into the middle of the gathering,
+686	and raising their strong hands against each other, both at once,
+687	they fell to, and their heavy hands were mingled together.
+688	And there was a terrible grinding of jaws, and sweat flowed
+689	from all their limbs; and brilliant Epeius rushed on,
+690	and struck him on the cheek as he peered about; and he did not
+691	stand long; for there his shining limbs gave way beneath him.
+692	And as when under the ripple of the North Wind a fish leaps up
+693	on a shore full of seaweed, and a dark wave hides it,
+694	so he leapt up when he was struck; but great-hearted Epeius
+695	took him in his hands and set him upright; and his dear companions stood around him,
+696	who led him through the gathering with trailing feet,
+697	spitting thick blood, his head lolling to one side;
+698	and they led him and set him down among them, his wits wandering,
+699	and they themselves went and fetched the two-handled cup.
+700	And at once the son of Peleus set out other prizes, a third set,
+701	showing them to the Danaans, for the painful wrestling:
+702	for the winner a great tripod to stand on the fire,
+703	which the Achaeans valued among themselves at twelve oxen;
+704	and for the man who lost he set a woman in their midst,
+705	and she was skilled in much handiwork, and they valued her at four oxen.
+706	And he stood upright and spoke among the Argives:
+707	“Rise up, you two who will make trial of this prize too.”
+708	So he spoke, and then great Telamonian Ajax rose,
+709	and up stood Odysseus of many wiles, who knew crafty ways.
+710	And the two, having girded themselves, went into the middle of the gathering,
+711	and took hold of each other in their arms with strong hands,
+712	like rafters that a famous craftsman has fitted together
+713	of a high house, keeping out the force of the winds.
+714	And their backs creaked under bold hands,
+715	tugged hard; and the wet sweat ran down,
+716	and thick welts along their ribs and shoulders
+717	rose up, crimson with blood; and they kept on, always
+718	striving for victory, for the well-made tripod;
+719	neither could Odysseus trip him and bring him to the ground,
+720	nor could Ajax, but the strong force of Odysseus held.
+721	But when they began to vex the well-greaved Achaeans,
+722	then great Telamonian Ajax said to him:
+723	“Son of Laertes, sprung from Zeus, Odysseus of many devices,
+724	either lift me, or I you; and all the rest will be the business of Zeus.”
+725	So saying, he lifted him; but Odysseus did not forget his trickery:
+726	he struck the hollow of his knee from behind, and loosened his limbs,
+727	and threw him down backward; and on his chest Odysseus
+728	fell; and the people gazed and were amazed.
+729	Then second in his turn much-enduring brilliant Odysseus tried to lift him,
+730	and moved him a little from the ground, but could not lift him,
+731	but hooked his knee in; and both fell on the ground
+732	close to each other, and were stained with dust.
+733	And now they would have sprung up again and wrestled a third time,
+734	had not Achilles himself stood up and held them back:
+735	“Strain no longer, and do not wear yourselves out with hurt;
+736	victory is for both; take equal prizes
+737	and go, so that the other Achaeans too may compete.”
+738	So he spoke, and they listened closely to him and obeyed,
+739	and wiping off the dust they put on their tunics.
+740	And at once the son of Peleus set out other prizes, for speed:
+741	a mixing bowl of silver, well wrought; it held six measures,
+742	and in beauty it surpassed all others on the whole earth
+743	by far, since Sidonians, skilled in intricate work, had worked it finely,
+744	and Phoenician men brought it over the misty sea
+745	and set it out in harbors, and gave it as a gift to Thoas;
+746	and as the price of Lycaon, son of Priam, it was given
+747	to the hero Patroclus by Euneus, son of Jason.
+748	This too Achilles set as a prize in honor of his companion,
+749	for whoever should prove the nimblest with his swift feet;
+750	for the second in turn he set an ox, great and rich with fat,
+751	and he set half a talent of gold for the last.
+752	And he stood upright and spoke among the Argives:
+753	“Rise up, you who will make trial of this prize too.”
+754	So he spoke, and at once swift Ajax, son of Oileus, rose,
+755	and Odysseus of many wiles, and then the son of Nestor,
+756	Antilochus; for he, for his part, beat all the young men in running.
+757	And they stood in a row; and Achilles pointed out the turning post.
+758	For them the running was strained to the full from the post; and quickly then
+759	the son of Oileus took the lead; and brilliant Odysseus rushed on,
+760	very close, as close as to a fair-belted woman's
+761	breast is the rod, when she pulls it very skillfully with her hands,
+762	drawing the spool out past the warp, and holds it near
+763	her breast; so close Odysseus ran, and behind
+764	he trod in his footprints before the dust could settle around them;
+765	and brilliant Odysseus poured his breath on his head,
+766	running swiftly all the while; and all the Achaeans shouted
+767	for him as he strove for victory, and cheered him on as he sped.
+768	But when they were finishing the last stretch, at once Odysseus
+769	prayed in his heart to gray-eyed Athena:
+770	“Hear me, goddess, come as a good helper to my feet.”
+771	So he spoke in prayer, and Pallas Athena heard him,
+772	and she made his limbs light, his feet and his hands above.
+773	But when they were just about to dash in upon the prize,
+774	there Ajax slipped as he ran, for Athena hindered him,
+775	where the dung was spread from the loud-bellowing oxen that were slain,
+776	which swift-footed Achilles killed in honor of Patroclus;
+777	and his mouth and nostrils were filled with the dung of oxen;
+778	and much-enduring brilliant Odysseus took up the mixing bowl,
+779	since he came in first; and shining Ajax took the ox.
+780	And he stood holding in his hands the horn of the ox of the fields,
+781	spitting out the dung, and spoke among the Argives:
+782	“Ah, truly the goddess hindered my feet, she who always before
+783	stands by Odysseus like a mother and helps him.”
+784	So he spoke, and they all laughed heartily at him.
+785	And Antilochus carried off the last prize,
+786	smiling, and spoke among the Argives:
+787	“You all know it, friends, but I will tell you: that still, even now,
+788	the immortals honor older men.
+789	For Ajax is only a little older than I,
+790	but this man is of an earlier generation and of earlier men;
+791	they say he is in green old age; and it is hard
+792	for the Achaeans to contend with him in running, except for Achilles.”
+793	So he spoke, and gave glory to the swift-footed son of Peleus.
+794	And answering him with these words, Achilles said:
+795	“Antilochus, your praise shall not be spoken in vain,
+796	but I will add half a talent of gold for you.”
+797	So saying, he put it in his hands, and he received it with joy.
+798	Then the son of Peleus brought a long-shadowed spear
+799	and set it down in the gathering, and a shield and a helmet,
+800	the armor of Sarpedon, which Patroclus had taken from him.
+801	And he stood upright and spoke among the Argives:
+802	“For these we bid two men, the very best,
+803	to put on their armor and take the flesh-cutting bronze
+804	and make trial of each other in front of the throng.
+805	Whichever of them is first to reach the other's fair flesh
+806	and touch his inward parts through the armor and the black blood,
+807	to him I will give this silver-studded sword,
+808	a fine Thracian one, which I took from Asteropaeus;
+809	and let both of them carry off this armor in common;
+810	and we will set a good feast before them in the huts.”
+811	So he spoke, and then great Telamonian Ajax rose,
+812	and up rose the son of Tydeus, mighty Diomedes.
+813	And when they had armed on either side of the throng,
+814	the two came together into the middle, eager to fight,
+815	glaring terribly; and amazement held all the Achaeans.
+816	And when they had come close, advancing against each other,
+817	three times they sprang at each other, and three times they rushed in close.
+818	Then Ajax stabbed at his shield, balanced on every side,
+819	but did not reach the flesh; for the corselet within protected him;
+820	and the son of Tydeus then, over the great shield,
+821	kept reaching his neck with the point of his shining spear.
+822	And then the Achaeans, terribly afraid for Ajax,
+823	bade them stop and take equal prizes.
+824	But the hero gave the great sword to the son of Tydeus,
+825	bringing it with its sheath and its well-cut strap.
+826	Then the son of Peleus set out a lump of iron, rough as it was cast,
+827	which once the great strength of Eetion used to hurl;
+828	but him brilliant swift-footed Achilles killed,
+829	and brought the lump away in his ships with the rest of the possessions.
+830	And he stood upright and spoke among the Argives:
+831	“Rise up, you who will make trial of this prize too.
+832	Even if the winner's rich fields lie very far away,
+833	he will have it to use for five circling years;
+834	for not for lack of iron will his shepherd
+835	or his plowman go to the city, but this will supply it.”
+836	So he spoke, and then Polypoetes, steadfast in battle, rose,
+837	and up rose the strong might of godlike Leonteus,
+838	and up rose Ajax, son of Telamon, and brilliant Epeius.
+839	And they stood in order, and brilliant Epeius took the lump,
+840	and whirled it and threw; and at this all the Achaeans laughed.
+841	Then second in his turn Leonteus, offshoot of Ares, let it fly;
+842	and third great Telamonian Ajax hurled it
+843	from his strong hand, and overshot the marks of all.
+844	But when Polypoetes, steadfast in battle, took the lump,
+845	as far as a herdsman hurls his throwing stick,
+846	and it flies spinning through the cattle of the herd,
+847	so far did he overshoot the whole gathering; and they shouted.
+848	And the companions of mighty Polypoetes stood up
+849	and carried the king's prize to the hollow ships.
+850	Then for the archers he set out dark iron:
+851	he set down ten double axes and ten single axes,
+852	and he set up the mast of a dark-prowed ship
+853	far off on the sand, and to it he tied a timid dove
+854	by the foot with a thin cord, and he bade them
+855	shoot at it: “Whoever hits the timid dove,
+856	let him take up all the double axes and carry them home;
+857	and whoever hits the cord, missing the bird,
+858	since he is the lesser, he shall carry off the single axes.”
+859	So he spoke, and then mighty lord Teucer rose,
+860	and up rose Meriones, the good attendant of Idomeneus.
+861	And they took the lots and shook them in a bronze-fitted helmet,
+862	and Teucer drew the first lot; and at once he shot an arrow
+863	with force, but did not promise the lord
+864	that he would offer a glorious hecatomb of firstborn lambs.
+865	He missed the bird; for Apollo begrudged him that;
+866	but he hit the cord beside its foot, where the bird was tied;
+867	and the bitter arrow cut the cord clean through.
+868	Then the bird darted up toward the sky, and the cord
+869	hung loose toward the ground; and the Achaeans shouted in applause.
+870	Then Meriones in haste snatched the bow from his hand;
+871	but he had long been holding an arrow, while the other aimed.
+872	And at once he promised far-shooting Apollo
+873	that he would offer a glorious hecatomb of firstborn lambs.
+874	And high up under the clouds he saw the timid dove;
+875	and there, as she circled, he struck her under the wing, in the middle,
+876	and the shaft went straight through; and it fell back to the ground
+877	and stuck in front of the foot of Meriones; and the bird,
+878	settling on the mast of the dark-prowed ship,
+879	let her neck hang down, and her thick feathers drooped.
+880	And swiftly the spirit flew from her limbs, and far from him
+881	she fell; and the people gazed and were amazed.
+882	And Meriones took up all ten double axes,
+883	and Teucer carried the single axes to the hollow ships.
+884	Then the son of Peleus brought a long-shadowed spear
+885	and a cauldron untouched by fire, worth an ox, flowered,
+886	and set them down in the gathering; and men who throw the javelin stood up:
+887	up rose the son of Atreus, wide-ruling Agamemnon,
+888	and up rose Meriones, the good attendant of Idomeneus.
+889	And among them spoke also brilliant swift-footed Achilles:
+890	“Son of Atreus, for we know how far you are ahead of all,
+891	and how far you are the best in strength and in throwing,
+892	take this prize and go to the hollow ships,
+893	and let us give the spear to the hero Meriones,
+894	if you would be willing in your heart; for so I bid.”
+895	So he spoke, and Agamemnon, lord of men, did not disobey;
+896	and he gave Meriones the bronze spear; but the hero
+897	gave the beautiful prize to the herald Talthybius.

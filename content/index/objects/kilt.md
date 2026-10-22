@@ -7,6 +7,8 @@ summary: The ζῶμα, “what is girded on”: in Book 4 part of Menelaus' arm
 aliases: [zoma, zōma, apron, loincloth]
 grc: [ζῶμα]
 en: [kilt]
+# ζῶμα at 23.683 is the boxer's girdle, not armor.
+except: [23.683]
 passages:
   - 4.185-187 | Belt, kilt and band
   - 4.213-216 | Machaon loosens belt, kilt and band

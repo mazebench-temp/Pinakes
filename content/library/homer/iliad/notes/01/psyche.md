@@ -1,3 +1,7 @@
+---
+summary: In the proem the wrath sends many ψυχαί to [[Hades]], while “the men themselves”, their bodies, are left for dogs and birds (1.3–5).
+---
+
 {{quote:a7fa6e2f-d814-5a31-b617-e5dc7e0b5d8c}}
 
 The word occurs once in the book, in the proem. The wrath hurled many ψυχαί to Hades, but made “the men themselves” (αὐτούς) the spoil of dogs and birds. For Homer the self is here the body; what goes to Hades is only a shade. The ψυχαί are called ἴφθιμοι, “mighty”, a strength that belonged to the men while they lived.

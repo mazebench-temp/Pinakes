@@ -1,6 +1,6 @@
 # Studying a new book: the workflow
 
-How Iliad 2 to 22 were added, as a checklist for the next book. Every step ends with `npm run check`
+How Iliad 2 to 23 were added, as a checklist for the next book. Every step ends with `npm run check`
 and `npm test` clean.
 
 1. **Greek.** Extract the book into `grc/NN.txt` (one verse per row, the same header as the other
@@ -19,7 +19,8 @@ and `npm test` clean.
    about every change the audit makes, and run `node scripts/checkquotes.mjs` after the last one:
    articles written while the translation moved will quote old wording.
 4. **Structure** (`structure/NN.json`): scenes covering every line, speeches that match the
-   quotation marks, days. Speakers and addressees must be entry ids.
+   quotation marks (a speech that opens inside a verse, as the Iliad's one at 23.855, has `"midline": true`),
+   days. Speakers and addressees must be entry ids.
 5. **Lexicon.** `node scripts/lexicon.mjs skeleton` makes parts of about 125 lines; analyze them in
    parallel against the lemma list of the earlier books (`lexicon.mjs lemmas`); `check` each part;
    normalize lemma spellings across parts; `merge`.

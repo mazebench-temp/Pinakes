@@ -19,7 +19,7 @@ passages:
 
 Games in the poems are held at a funeral or in honor of a guest.
 
-- **Funeral games.** Achilles holds games for Patroclus, with prizes for the chariot race, boxing, wrestling, the footrace, armed combat, the throw of a lump of iron, archery and the spear (23.257–897). Nestor remembers the games for Amarynceus at Buprasium, where he won everything but the chariot race (23.629–642; see [[amarynceus]]), and Euryalus' father Mecisteus went to Thebes for the funeral of Oedipus “and there beat all the Cadmeians” (23.677–680; see [[mecisteus]]). In the underworld Agamemnon tells Achilles of the games held at his own funeral (Odyssey 24.85–92).
+- **Funeral games.** Achilles holds games for Patroclus, with prizes for the chariot race, boxing, wrestling, the footrace, armed combat, the throw of a lump of iron, archery and the spear (23.257–897; see [[the-funeral-games-of-patroclus]]). Nestor remembers the games for Amarynceus at Buprasium, where he won everything but the chariot race (23.629–642; see [[the-funeral-games-of-amarynceus]] and [[amarynceus]]), and Euryalus' father Mecisteus went to Thebes for the funeral of Oedipus “and there he defeated all the Cadmeians” (23.677–680; see [[mecisteus]]). In the underworld Agamemnon tells Achilles of the games held at his own funeral (Odyssey 24.85–92).
 - **Games for a guest.** The Phaeacians hold games in Odysseus' honor and taunt him into joining; he throws the discus far beyond them all (Odyssey 8.97–255).
 
 ## Tydeus
@@ -28,7 +28,7 @@ Agamemnon's story of Tydeus at Thebes turns the custom around. The guest does no
 
 {{quote:fd0cb92d-4c10-5b20-9600-cb8a389a9e77}}
 
-Athena tells the story to Diomedes in nearly the same words, and in her mouth the last line becomes “such a helper was I to him” (5.806–808). Mecisteus' victory at the funeral of Oedipus is told with the same verb, πάντας ἐνίκα, “he beat them all” (23.680). The Cadmeians answer their defeat in the games with an ambush of fifty men (4.391–398; see [[embassy]] and [[ambush]]).
+Athena tells the story to Diomedes in nearly the same words, and in her mouth the last line becomes “such a helper was I to him” (5.806–808). Mecisteus' victory at the funeral of Oedipus is told with the same verb, πάντας ἐνίκα, “he defeated all the Cadmeians” (23.680). The Cadmeians answer their defeat in the games with an ambush of fifty men (4.391–398; see [[embassy]] and [[ambush]]).
 
 ## Outside Homer
 

@@ -1,0 +1,7 @@
+---
+summary: The ghost of Patroclus remembers how Menoetius brought him, still a little boy, from Opus to Peleus' house, because he had killed the son of Amphidamas (23.85–88). Patroclus is twice named as his son, when Hector is laid beside his bier and when his bones are gathered (23.25, 23.239).
+---
+
+“When Menoetius brought me, still a little boy, from Opus / to your house, because of a grievous killing” (23.85–86): the soul of Patroclus tells Achilles why the two were reared together (see [[the-ghost-of-patroclus]], [[opus]] and [[amphidamas-of-opus]]). Walter Leaf takes it as exile for an unintended killing, and thinks the story reconciles Nestor's account, in which Menoetius gave his son advice in Peleus' house when the army gathered (11.765–790), with Achilles' promise to Menoetius to bring his son home to Opus (18.324–327; *Commentary on the Iliad*, 1900, on 23.87; see [[exile-and-refuge]]). Later writers divide over whether the father went with him. In Apollodorus Patroclus flees with his father to Peleus (*Library* 3.13.8); Strabo says that Menoetius stayed in his native land, since Achilles promised to bring Patroclus back there (*Geography* 9.4.2; see [[strabo]]).
+
+Μενοιτιάδης, “the son of Menoetius”, names Patroclus twice in the book: Achilles lays Hector face down “beside the bier of the son of Menoetius” (23.25), and bids the leaders gather “the bones of Patroclus, son of Menoetius” (23.239; see [[son-of-menoetius]] and [[patroclus]]).

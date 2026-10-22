@@ -40,7 +40,7 @@ The characters come close to the truth without knowing it. Nestor says that if a
 
 ## Dreams in Homer
 
-Dreams come from outside the sleeper, and they can come from Zeus (1.63; see [[a-dream-comes-from-zeus]]). A god who sends one gives it the form of someone the sleeper knows. Athena sends Penelope a phantom in the likeness of her sister Iphthime (Odyssey 4.795–841) and visits Nausicaa as a friend of hers (Odyssey 6.20–23). The ghost of Patroclus stands above Achilles' head as he sleeps (Iliad 23.65–107). Penelope knows that some dreams deceive: the true ones come through the gate of horn, the false through the gate of ivory (Odyssey 19.562–567). Hermes leads the suitors' souls past “the people of dreams” on the road to Hades (Odyssey 24.12).
+Dreams come from outside the sleeper, and they can come from Zeus (1.63; see [[a-dream-comes-from-zeus]]). A god who sends one gives it the form of someone the sleeper knows. Athena sends Penelope a phantom in the likeness of her sister Iphthime (Odyssey 4.795–841) and visits Nausicaa as a friend of hers (Odyssey 6.20–23). The ghost of Patroclus stands above Achilles' head as he sleeps (Iliad 23.65–107; see [[the-ghost-of-patroclus]]). Penelope knows that some dreams deceive: the true ones come through the gate of horn, the false through the gate of ivory (Odyssey 19.562–567). Hermes leads the suitors' souls past “the people of dreams” on the road to Hades (Odyssey 24.12).
 
 ## Outside Homer
 

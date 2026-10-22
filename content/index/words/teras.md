@@ -11,7 +11,8 @@ refs: [2.318]
 # σῆμα at 10.466 is the mark Odysseus sets by Dolon's spoils, not a sign from the gods.
 # σῆμα at 11.166 is the mound of Ilus (the-tomb-of-ilus).
 # σῆμα at 21.322 is the grave mound the river will make for Achilles.
-except: [2.814, 10.466, 11.166, 21.322]
+# σῆμα in Book 23 is never a sign from the gods: the mound of Patroclus (23.45, 23.255, 23.257), Nestor's landmark and the old mound at the turning post (23.326, 23.331), the white mark on a horse's forehead (23.455), the marks of the throws (σήματα, 23.843).
+except: [2.814, 10.466, 11.166, 21.322, 23.45, 23.255, 23.257, 23.326, 23.331, 23.455, 23.843]
 ---
 
 ## Meaning

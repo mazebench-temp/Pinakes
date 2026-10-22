@@ -1,0 +1,7 @@
+---
+summary: Idomeneus guesses that the leader of the chariot race is Diomedes, “an Aetolian by lineage” who rules among the Argives (23.471), and Nestor names the “great-hearted Aetolians” among the competitors whom he outdid at the games of Amarynceus (23.633).
+---
+
+**Diomedes.** From his lookout Idomeneus makes out the leading horse but cannot tell the drivers apart: “but the man seems to me to be / an Aetolian by lineage, and he is lord among the Argives, / the son of Tydeus, tamer of horses, mighty Diomedes” (23.470–472; see [[idomeneus]] and [[diomedes]]). Αἰτωλὸς γενεήν, “an Aetolian by lineage”, is the descent that Diomedes himself traced in Book 14: his grandfather Oeneus lived “in Pleuron and steep Calydon”, and his father Tydeus settled in Argos (14.113–121; see [[tydeus]] and [[oeneus]]). The ancient critics rejected the verse, reports Walter Leaf, because such an explanation belongs to the poet, not to a character, and he thinks that it “certainly seems out of place here” (*Commentary on the Iliad*, 1900, on 23.471; see the translation's notes on 23.471).
+
+**At Buprasium.** “There no man was a match for me, neither of the Epeians / nor of the Pylians themselves nor of the great-hearted Aetolians” (23.632–633; see [[the-funeral-games-of-amarynceus]], [[epeians]] and [[pylians]]). The next verses name one Aetolian rival, Ancaeus of Pleuron, whom Nestor beat at wrestling (23.635; see [[ancaeus-of-pleuron]] and [[pleuron]]).

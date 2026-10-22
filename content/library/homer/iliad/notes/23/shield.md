@@ -1,0 +1,6 @@
+---
+summary: The shield of Sarpedon is one of the prizes of the armed duel (23.799–800), in which Ajax stabs at Diomedes' round shield and Diomedes strikes at Ajax's neck over the great shield (23.818–821).
+# ἀσπίδα (23.799, 23.818) and σάκεος (23.820) are claimed by the entry and its notes on Books 3 and 18.
+---
+
+For the armed duel Achilles sets out a spear, “and a shield and a helmet, / the armor of Sarpedon, which Patroclus had taken from him” (23.799–800; see [[sarpedon]], [[spear]] and [[helmet]]). The two fighters arm on either side of the throng (23.813), and the two words for the shield divide them: “Then Ajax stabbed at his shield, balanced on every side, / but did not reach the flesh; for the corselet within protected him; / and the son of Tydeus then, over the great shield, / kept reaching his neck with the point of his shining spear” (23.818–821; see [[ajax]], [[diomedes]] and [[corselet]]). Diomedes carries an ἀσπίς πάντοσʼ ἐΐση, the round shield “balanced on every side” (see [[balanced-on-every-side]]), and Ajax a σάκος, the word for his great shield “like a tower”, of seven oxhides (7.219–220). Over its rim Diomedes reaches the neck, and the Achaeans, afraid for Ajax, stop the fight (23.822–823).

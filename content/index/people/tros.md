@@ -5,7 +5,9 @@ kind: person
 tags: [trojan, king, house-of-priam]
 summary: King of the Trojans, son of Erichthonius and grandson of [[Dardanus]], and father of Ilus, Assaracus and [[Ganymede]]. When the gods carried Ganymede off, Zeus gave Tros in recompense a breed of horses, the best under the sun.
 aliases: [Trōs]
-grc: ["^Τρωΐ", "Τρώϊοι"]
+# Τρῳοὺς (23.291), "of Tros", of the horses Diomedes races, occurs only there; trojan-women excepts the line, and trojans
+# excludes the Τρῳ- forms.
+grc: ["^Τρωΐ", "Τρώϊοι", Τρῳοὺς]
 # Tros at 20.463 is the son of Alastor, whom Achilles kills.
 except: [20.463]
 relations:

@@ -11,7 +11,7 @@ en: [rich in cattle]
 
 ## Meaning
 
-πολυβούτης = πολύς (“many”) + βοῦς (“ox, cow”): “owner of many cattle.” It is found only in the verse of the men of the seven towns, said by Agamemnon and repeated by Odysseus (9.154 = 9.296), beside its partner πολύρρηνες, “rich in flocks” ([[rich-in-flocks]]). Cattle were the measure of wealth: prizes and gifts are valued in oxen, as the tripod “worth twelve oxen” and the woman “worth four” of the funeral games (23.703–705), and Glaucus' golden armor, “the worth of a hundred oxen” (6.236; [[cattle]]).
+πολυβούτης = πολύς (“many”) + βοῦς (“ox, cow”): “owner of many cattle.” It is found only in the verse of the men of the seven towns, said by Agamemnon and repeated by Odysseus (9.154 = 9.296), beside its partner πολύρρηνες, “rich in flocks” ([[rich-in-flocks]]). Cattle were the measure of wealth: prizes and gifts are valued in oxen, as the tripod that the Achaeans “valued among themselves at twelve oxen” and the woman skilled in handiwork, of whom “they valued her at four oxen” (23.703–705), and Glaucus' golden armor, “the worth of a hundred oxen” (6.236; [[cattle]]).
 
 ## Use
 

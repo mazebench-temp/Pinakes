@@ -11,7 +11,8 @@ grc: [Τρώ*, "!=Τρῳ*", "!Τρωϊάδ*", "!τρωπ*", "!=τρώσεσθα
 # τρωτὸς (21.568) is "can be pierced", of Achilles' flesh.
 # Τρώϊοι ἵπποι "the horses of Tros" (5.222 = 8.106) and Τρωΐ "to Tros" (5.265) belong to tros.
 # τρωχῶσι at 22.163 is "run", of the racehorses.
-except: [5.222, 5.265, 8.106, 22.163]
+# τρώσῃς at 23.341 is "wound" (of the stone at the turning post); Τρώϊοι ἵπποι at 23.378 are the horses of Tros.
+except: [5.222, 5.265, 8.106, 22.163, 23.341, 23.378]
 en: [Trojans, Trojan]
 ---
 

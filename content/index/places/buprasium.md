@@ -13,4 +13,4 @@ Buprasium is named first, before "shining [[Elis]]". The name seems to join βο
 
 ## Elsewhere in Homer
 
-Nestor remembers it twice. In the war of his youth the Pylians drove their horses "to Buprasium, rich in wheat, and to the Olenian Rock and to where the hill of Alesium is named" (11.756–758). And when "the Epeians buried lord Amarynceus at Buprasium", Nestor won every contest at his funeral games but the chariot race (23.629–642). The site was later forgotten; it lay somewhere in the north of Elis.
+Nestor remembers it twice. In the war of his youth the Pylians brought their horses "to Buprasium, rich in wheat, / and the Olenian Rock, and where the hill of Alesium / is named" (11.756–758). And when "the Epeians were burying powerful Amarynceus / at Buprasium", Nestor won every contest at his funeral games but the chariot race (23.629–642; see [[the-funeral-games-of-amarynceus]]). The site was later forgotten; it lay somewhere in the north of Elis.

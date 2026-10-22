@@ -3,7 +3,7 @@ title: Soul
 greek: ψυχή
 kind: term
 tags: [mind, fate]
-summary: The breath of life that leaves the body at death and goes to Hades as a shade. In the proem the wrath sends many ψυχαί to [[Hades]], while “the men themselves”, their bodies, are left for dogs and birds.
+summary: The breath of life that leaves the body at death and goes down to [[Hades]] as a shade, an image without wits. It plays no part in the thoughts and feelings of the living; it is the life a man stakes and loses.
 aliases: [psychē, psyche, psuche, shade, breath-soul]
 grc: [ψυχὰς]
 en: [souls]
@@ -15,7 +15,7 @@ passages:
 
 ψυχή is usually translated “soul”, but the Homeric word is narrower than the English. It is the life a person loses at death, and the shade that goes down to Hades afterwards. It plays no part in the thoughts or feelings of the living; those belong to the [[thymos|θυμός]], the [[phrenes|φρένες]] and the [[noos|νόος]]. The word is related to ψύχω, “breathe, blow”. The ψυχή is a breath-soul, which leaves through the mouth or through a wound.
 
-In Hades the ψυχή is an image (εἴδωλον) without wits. When the ψυχή of Patroclus slips out of his arms, Achilles cries out that there is in Hades a ψυχή and an image, “but no φρένες in it at all” (23.103–104). A dying warrior's ψυχή flies from his limbs to Hades, lamenting its fate and leaving youth and manhood behind (16.856–857, 22.362–363). Nothing can buy it back. Cattle can be raided and tripods acquired, Achilles tells the embassy in Book 9, but a man's ψυχή cannot be raided or won again once it has passed the barrier of his teeth (9.406–409).
+In Hades the ψυχή is an image (εἴδωλον) without wits. When the ψυχή of Patroclus slips out of his arms, Achilles cries out that there is in Hades a ψυχή and an image, “but there is no mind in it at all”, no φρένες (23.103–104). A dying warrior's ψυχή flies from his limbs to Hades, lamenting its fate and leaving youth and manhood behind (16.856–857, 22.362–363). Nothing can buy it back. Cattle can be raided and tripods acquired, Achilles tells the embassy in Book 9, but a man's ψυχή cannot be raided or won again once it has passed the barrier of his teeth (9.406–409).
 
 Jan Bremmer (*The Early Greek Concept of the Soul*, 1983) called this the “free soul”, as distinct from the “body souls”, θυμός, νόος and [[menos|μένος]], that animate the living.
 

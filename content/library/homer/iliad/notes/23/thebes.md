@@ -1,0 +1,7 @@
+---
+summary: Euryalus' father Mecisteus once came to Thebes for the funeral of Oedipus and there defeated all the Cadmeians, so that Thebes is remembered in this book for funeral games, not for war (23.677–680).
+---
+
+“Euryalus alone stood up against him, a man equal to the gods, / son of lord Mecisteus, son of Talaus, / who once came to Thebes, when Oedipus had fallen, / for his funeral; and there he defeated all the Cadmeians” (23.677–680; see [[euryalus]], [[mecisteus]], [[oedipus]] and [[cadmeians]]). The other Theban stories of the Iliad belong to the wars against the city. In the one closest to this, Tydeus came to Thebes as an envoy, found the Cadmeians feasting, “challenged them to contests, and won them all” (πάντα δʼ ἐνίκα, 4.389; again 5.807; see [[tydeus-at-thebes]] and [[contests]]); Mecisteus, at the funeral, πάντας ἐνίκα, “defeated all” of them (23.680). His son boxes now at another funeral, for Patroclus, with Tydeus' son Diomedes as his second (23.681–684; see [[diomedes]]).
+
+The verse implies that Oedipus died and was buried at Thebes. The Odyssey tells that after his mother had hanged herself he went on ruling the Cadmeians in Thebes, suffering many sorrows (*Odyssey* 11.271–280). Walter Leaf reports that the ancient glossographers took δεδουπότος, “fallen”, simply for “dead”, while Aristarchus held that it could be used only of death in battle; Leaf adds that no legend tells of a war in which Oedipus could have died (*Commentary on the Iliad*, 1900, on 23.679).

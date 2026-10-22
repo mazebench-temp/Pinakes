@@ -36,7 +36,7 @@ The plunder was fifty herds each of cattle, sheep, pigs and goats, and a hundred
 
 {{quote:86f19102-62fb-51d4-9776-1b4d482743ff}}
 
-Buprasium, the Olenian Rock and Alesium belong to the land of the Epeians in the Catalogue (2.615–617; see [[buprasium]], [[olenian-rock]] and [[alesium]]): the Pylians drove them back into their own country.
+Buprasium, the Olenian Rock and Alesium belong to the land of the Epeians in the Catalogue (2.615–617; see [[buprasium]], [[olenian-rock]] and [[alesium]]): the Pylians drove them back into their own country. Nestor returns to Buprasium in the last of his tales of youth, when the Epeians buried their king Amarynceus there and the young Nestor won every contest at his funeral games but the chariot race, which the Moliones, now grown, won from him (23.629–645; see [[the-funeral-games-of-amarynceus]]).
 
 ## In the poem
 

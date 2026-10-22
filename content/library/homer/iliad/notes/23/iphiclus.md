@@ -1,0 +1,9 @@
+---
+summary: Nestor remembers that at the funeral games of Amarynceus he outran Iphiclus, “good as he was” (23.636). Homer does not say which Iphiclus he means; the likeliest is the son of Phylacus, whom the Hesiodic Catalogue of Women made a famous runner.
+# Ἴφικλον (23.636) occurs only here.
+grc: [Ἴφικλον]
+---
+
+Ἴφικλον δὲ πόδεσσι παρέδραμον ἐσθλὸν ἐόντα, “Iphiclus I outran in the footrace, good as he was” (23.636; see [[the-funeral-games-of-amarynceus]] and [[nestor]]). He is the third of the five men whom Nestor says he beat, and the only one whose excellence he grants: ἐσθλὸν ἐόντα, “good as he was”, makes the victory over him the greater.
+
+**Which Iphiclus?** The poem gives this Iphiclus no father and no country. The Iphiclus of the Catalogue is the son of Phylacus, “rich in flocks”, whose sons Protesilaus and Podarces led the men of Phylace to Troy (2.704–708, 13.698; see [[phylacus]], [[protesilaus]] and [[podarces]]). He belongs to Nestor's generation, and in the Odyssey his cattle are the price that Neleus set for Nestor's sister Pero (*Odyssey* 11.287–297; see [[neleus]]). Later tradition made the same son of Phylacus a runner: a scholium on *Odyssey* 11.326 calls him “a swift-footed boy” who raced the winds, and quotes the Hesiodic *Catalogue of Women* for his running over the ears of grain without breaking them (Hesiod fr. 84 Evelyn-White; see [[hesiod]]); and his younger son is Podarces (2.704), whose name is the epithet ποδάρκης, “swift-footed” (see [[podarkes]]). A rival whom Nestor names in the footrace and calls “good” is most likely this famous runner, and he is indexed here as the Iphiclus of Phylace. But the identification is not Homer's: Nestor names the peoples of his rivals as the Epeians, the Pylians and the Aetolians (23.632–633), and Phylace is in Thessaly.

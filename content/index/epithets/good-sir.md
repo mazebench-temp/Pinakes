@@ -11,7 +11,7 @@ en: [good sir]
 
 ## Meaning
 
-φέριστος is the superlative that belongs with φέρτερος (“better, stronger”), the word used of Proetus, “far the mightier” (6.158): “best, most excellent.” Homer uses it only in the vocative, φέριστε, as a courteous address. Three times in the Iliad it stands in the same half-verse, τίς δὲ σύ ἐσσι φέριστε, “who are you, good sir,” a question put to a stranger: by Diomedes to Glaucus (6.123), by Hector to Apollo, whom he does not recognize (Il. 15.247), and by Priam to Hermes, disguised as a young Myrmidon (Il. 24.387). In the Odyssey Eurymachus uses it to Telemachus (Od. 1.405), and Odysseus in his plea to the Cyclops, “respect the gods, good sir” (Od. 9.269).
+φέριστος is the superlative that belongs with φέρτερος (“better, stronger”), the word used of Proetus, “far the mightier” (6.158): “best, most excellent.” Homer uses it almost always in the vocative, φέριστε, as a courteous address; the accusative φέριστον, “the best of men,” is said once of Achilles (9.110), and the plural φέριστοι once of a team of horses (23.409). Three times in the Iliad it stands in the same half-verse, τίς δὲ σύ ἐσσι φέριστε, “who are you, good sir,” a question put to a stranger: by Diomedes to Glaucus (6.123), by Hector to Apollo, whom he does not recognize (Il. 15.247), and by Priam to Hermes, disguised as a young Myrmidon (Il. 24.387). In the Odyssey Eurymachus uses it to Telemachus (Od. 1.405), and Odysseus in his plea to the Cyclops, “respect the gods, good sir” (Od. 9.269).
 
 ## Use
 

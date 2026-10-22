@@ -26,7 +26,7 @@ The narrator adds a warning at once: “So they spoke, but the son of Cronus was
 
 ## Elsewhere in Homer
 
-The curse takes its image from the battlefield, where a spear goes through helmet and bone and “the brain inside was all spattered” (11.96–98, 12.184–186, 20.398–400). In the Odyssey the same words describe the Cyclops' meal: he dashes two of Odysseus' men to the ground like puppies, “and their brains flowed out on the ground (ἐγκέφαλος χαμάδις ῥέε), and wet the earth” (Odyssey 9.288–290). The second half of that line is used of wine: Achilles, keeping vigil by Patroclus' pyre, draws wine from a golden bowl and pours it on the ground all night, “and wet the earth” (23.218–221). Wine and brains are poured out in the same words.
+The curse takes its image from the battlefield, where a spear goes through helmet and bone and “the brain inside was all spattered” (11.96–98, 12.184–186, 20.398–400). In the Odyssey the same words describe the Cyclops' meal: he dashes two of Odysseus' men to the ground like puppies, “and their brains flowed out on the ground (ἐγκέφαλος χαμάδις ῥέε), and wet the earth” (Odyssey 9.288–290). The second half of that line is used of wine: Achilles, keeping vigil by Patroclus' pyre, draws wine from a golden bowl and pours it on the ground all night, “and soaked the earth” (23.218–221). Wine and brains are poured out in the same words.
 
 ## Outside Homer
 

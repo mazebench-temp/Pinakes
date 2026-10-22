@@ -6,7 +6,8 @@ tags: [warrior, demigod, elis]
 summary: The twin sons of Actor, or of Poseidon, among the Epeians: [[Cteatus]] and [[eurytus-of-elis|Eurytus]]. Nestor remembers them as boys in his first war, saved from his spear by their father Poseidon (11.709–710, 11.750–752), and as the pair who beat him in the chariot race at Buprasium (23.638–642). Later writers made them conjoined twins.
 aliases: [Moliones, Molionidae, Molione's sons, the sons of Actor, the two sons of Actor, Actorione]
 # Μολίονα (11.322) is Molion, Thymbraeus' attendant (molion). Ἀκτορίωνε is claimed by actor-of-elis: at
-# 2.621 it is the twins' sons, at 11.750 and 23.638 the twins themselves (23.638 will need adding here).
+# 2.621 it is the twins' sons, at 11.750 and 23.638 the twins themselves; the Book 23 note claims 23.638 by the
+# phrase "παρήλασαν Ἀκτορίωνε".
 grc: [Μολίονε]
 refs: [11.710, 11.751-752]
 relations:
@@ -31,7 +32,7 @@ Nestor tells of them twice, and both times they are his opponents.
 
 **The Epeian war.** They arm among the Epeians who come to besiege Thryoessa, “still boys, not yet well skilled in furious courage” (11.709–710; see [[furious]]). After Nestor has killed Mulius and taken fifty chariots, he would have killed them too, “had not their father, the wide-ruling earth-shaker, / saved them from the war, hiding them in thick mist” (11.750–752; see [[would-have-had-not]] and [[nestor-and-the-epeians]]). Other gods save their favorites in the same way: Aphrodite hides Paris in thick mist (ἐκάλυψε δʼ ἄρʼ ἠέρι πολλῇ, 3.381), and Apollo Hector and Agenor (20.444, 21.597); Hephaestus saves the son of his priest, “covering him in night” (5.23). Here, as when Aphrodite carries her son Aeneas out of the fighting (5.311–318), the god who saves is the parent.
 
-**The chariot race at Buprasium.** At the funeral games of Amarynceus, when Nestor won every other contest, “the two sons of Actor” beat him in the chariot race “by their numbers”, for they were twins (δίδυμοι): one held the reins steadily, while the other urged the horses on with the whip (23.638–642; see [[amarynceus]] and [[buprasium]]). It is the only contest Nestor says he lost.
+**The chariot race at Buprasium.** At the funeral games of Amarynceus, when Nestor won every other contest, “the two sons of Actor” beat him in the chariot race “by their numbers”, for they were twins (δίδυμοι): one held the reins steadily, while the other urged the horses on with the whip (23.638–642; see [[the-funeral-games-of-amarynceus]], [[amarynceus]] and [[buprasium]]). It is the only contest Nestor says he lost.
 
 ## Outside Homer
 

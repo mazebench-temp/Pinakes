@@ -1,0 +1,5 @@
+---
+summary: At the end of the games Achilles gives Agamemnon the prize for the javelin without a throw, and Agamemnon hands the beautiful prize to his herald Talthybius (23.884–897).
+---
+
+Ταλθυβίῳ κήρυκι δίδου περικαλλὲς ἄεθλον, “gave the beautiful prize to the herald Talthybius” (23.897), the last verse of the games and of the book. The prize is a cauldron untouched by fire, worth an ox, flowered (23.885; see [[cauldron]]); Achilles has given it to Agamemnon without a contest, “for we know how far you are ahead of all” (23.890), and at his word Agamemnon has given the bronze spear to Meriones (23.893–896; see [[agamemnon]] and [[meriones]]). The king does not carry it to the ships himself, as the winners before him did with their prizes or had their companions do; he passes it to his herald (see [[heralds]]). In the first book Talthybius and Eurybates were sent to fetch Briseis from Achilles' hut (1.318–348; see [[taking-of-briseis]]); in the last scene of the games he receives from Agamemnon a prize that Achilles has given.

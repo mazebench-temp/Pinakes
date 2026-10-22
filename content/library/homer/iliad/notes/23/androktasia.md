@@ -1,0 +1,5 @@
+---
+summary: The word that names the killing scene is said of a killing in peace: the soul of Patroclus tells how Menoetius brought him as a boy to Peleus' house “because of a grievous killing” (23.86).
+---
+
+Patroclus killed the son of Amphidamas over the knucklebones, “a foolish child, not meaning to” (23.87–88). Walter Leaf (*Commentary on the Iliad*, 1900, on 23.87) takes it as exile for a killing without intent, in place of the blood-price that Ajax holds up to Achilles in Book 9 (9.632–636), and compares the man who has killed at home and comes to another people in the simile of Priam's arrival (24.480–481). Others in the Iliad live away from home for a killing: Medon, “in Phylace, away from his native land, since he had killed a man” (13.696), Lycophron with Ajax, “since he had killed a man in holy Cythera” (15.432), and Epeigeus, who “came as a suppliant to Peleus and to silver-footed Thetis” after slaying a cousin (16.573–574), as Patroclus came to Peleus. Elsewhere the word is the slaughter of battle (5.909, 7.237, 11.164; 24.548). See [[patroclus]], [[menoetius]], [[peleus]] and [[grim]].

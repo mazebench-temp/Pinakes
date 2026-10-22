@@ -1,0 +1,5 @@
+---
+summary: Nestor names “the horses of Laomedon, the good ones that were reared here” beside Arion, the horse of Adrastus, as the swiftest horses a charioteer could drive (23.346–348).
+---
+
+If Antilochus gets past the others at the turning post, his father tells him, no one will catch him, not even with Arion, “or the horses of Laomedon, the good ones that were reared here” (23.346–348; see [[nestor]], [[arion-the-horse]] and [[turning-post]]). “Here” is the Troad. Laomedon owned the breed that Zeus gave Tros in recompense for Ganymede, from which Anchises bred in secret (5.265–272; see [[ganymede-and-the-horses-of-tros]] and [[anchises-steals-the-horses]]), and Heracles once came to Troy “for the sake of the horses of Laomedon” and sacked the city (5.640–642; see [[heracles-sacks-troy]]). Two of that breed are running in the race, the horses Diomedes took from Aeneas (23.291–292). Walter Leaf thought the verse an interpolation: the article with the genitive is late, and the second half seems modeled on Achilles' words in the river, “the best man bred here” (*Commentary on the Iliad*, 1900, on 23.348; 21.279).

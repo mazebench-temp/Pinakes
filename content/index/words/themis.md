@@ -4,7 +4,7 @@ greek: θέμις
 kind: term
 tags: [justice, kingship]
 summary: θέμις is what is laid down as right; its plural θέμιστες are the ordinances that come from [[Zeus]] and are kept by kings and judges. Themis is also a goddess, who calls the gods to assembly.
-aliases: [themis, themistes, right, custom, judgment, dikaspoloi, judges]
+aliases: [themis, themistes, right, custom, judgment, dikaspoloi, judges, dike, dikē, dikazō]
 grc: [θέμιστας, δικασπόλοι, δικαζέμεν]
 en: [give judgment, ordinances, decide]
 # Θέμιστα at 20.4 is the goddess (themis-the-goddess).
@@ -31,7 +31,7 @@ Themis is also a goddess. At Zeus' command she calls the gods to assembly (20.4�
 
 - [[basileus|βασιλεύς]] (“king”): the holder of the θέμιστες.
 - [[boule|βουλή]] (“counsel”): what the king gives with them.
-- δίκη (“judgment, justice”), not found in Book 1, and δικάζω (“judge”).
+- δίκη (“justice, judgment, right”), first used at 16.388 (see the notes on Books 16, 18, 19 and 23), and δικάζω (“judge”).
 - [[oath]] and [[scepter]].
 
 ## Outside Homer

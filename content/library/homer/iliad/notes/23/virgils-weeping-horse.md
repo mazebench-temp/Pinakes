@@ -1,0 +1,12 @@
+---
+summary: The horses of Achilles mourn again in this book, standing with their manes on the ground for the charioteer who washed and oiled them, while Achilles keeps them out of the race. Virgil's procession for Pallas, with the war-horse weeping before the body and the captives bound for the pyre, follows the funeral of Patroclus, and Aeneas' last words to the dead are a greeting, as Achilles' are.
+refs: [23.279-284]
+passages:
+  - 23.274-284 | The horses mourn their charioteer
+---
+
+{{quote:ce7d971a-5500-5f45-a432-3394365e1b7f}}
+
+**Homer.** When Achilles sets out the prizes for the chariot race, he will not enter his own horses. They are immortal, Poseidon's gift to Peleus, and if the Achaeans were holding games in honor of another he would carry off the first prize; “But I for my part will stay here, and my single-hoofed horses with me; / for they have lost the noble fame of such a charioteer, / a kind one, who very often poured liquid olive oil / on their manes, after washing them with clear water. / Him the two stand and mourn, and their manes / rest on the ground, and they stand grieving at heart” (23.274–284; see [[the-horses-of-achilles]] and [[patroclus]]). They stand as they stood in Book 17, bowing their heads to the ground, their manes stained in the dust (17.434–440).
+
+**Virgil's procession.** The weeping war-horse walks in a procession built on the funeral of Patroclus. Before it Aeneas sends the prizes of the battle, the horses and weapons he had stripped from the enemy, and captives with their hands bound behind their backs, whom he would send as offerings to the shades, to sprinkle the flames with the blood of the slain (*Aeneid* 11.78–84). He had taken them alive in the battle for that purpose (*Aeneid* 10.517–520; see [[virgils-lycaon]]). At Patroclus' pyre Achilles throws on four horses, two of his dogs, “and twelve brave sons of the great-hearted Trojans, / cutting them down with the bronze” (23.171–176; see [[human-sacrifice]]). When the column has gone on ahead, Aeneas stops and speaks his last words to the dead: *salve aeternum mihi, maxime Palla, / aeternumque vale*, “hail for ever, greatest Pallas, and for ever farewell” (*Aeneid* 11.94–98). Achilles too greets the dead man with the word of welcome, laying his hands on his companion's breast at the start of the mourning and again at the burning pyre: “Rejoice, Patroclus, even in the house of Hades” (χαῖρέ μοι ὦ Πάτροκλε, 23.19, 23.179; see [[achilles]] and [[lament]]).

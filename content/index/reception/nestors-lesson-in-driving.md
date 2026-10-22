@@ -1,0 +1,24 @@
+---
+title: Nestor's lesson in driving
+greek: αὐτὸς δὲ κλινθῆναι ἐϋπλέκτῳ ἐνὶ δίφρῳ
+kind: anecdote
+tags: [philosophy]
+summary: Nestor's advice to Antilochus on taking the turn was the passage of Homer that the Socratic writers quoted on the art of driving. Plato's Socrates has the rhapsode Ion recite five verses of it, and argues that a charioteer, not a rhapsode, can judge whether Homer speaks rightly; Xenophon's Niceratus, who knew the whole Iliad by heart, quotes three of them to show what Homer can teach. Both have “well-polished” where our text has “well-woven”.
+source: Plato, Ion 537a–c; Xenophon, Symposium 3.5, 4.6–7
+of: [nestor, antilochus, turning-post, plato]
+refs: [23.335-340]
+passages:
+  - 23.334-343 | Nestor's advice at the turn
+---
+
+{{quote:b10704e0-4f35-5e1e-8d1c-96eaf9498c8f}}
+
+**Homer.** Before the chariot race Nestor stands beside his son and advises him at length. His horses are slow, but cunning wins where strength does not: “By cunning, far more than by strength, is a woodcutter better; / by cunning again a helmsman on the wine-dark sea / steers a swift ship buffeted by the winds; / by cunning one charioteer gets the better of another” (23.315–318; see [[cunning-not-strength]] and [[metis]]). The lesson itself is the turn: “Pressing close to it, drive your chariot and horses near, / and lean yourself in the well-woven chariot / a little to the left of them; but the right-hand horse / goad on with a shout, and let the reins go with your hands. / And at the post let your left-hand horse press close, / so that the hub may seem to graze its edge, / the hub of the well-made wheel; but avoid touching the stone” (23.334–340; see [[nestor]], [[antilochus]] and [[turning-post]]). The race does not go as the lesson says. Antilochus gets ahead of Menelaus not at the post but in a narrow place in the road, and comes in “by crafty ways, not by speed” (23.415–441, 23.514–515).
+
+**Plato.** In the *Ion* Socrates tests the rhapsode's claim to speak about Homer better than anyone. Homer often speaks of the arts, he says, of driving for one, and he asks Ion to tell him “what Nestor says to Antilochus his son, advising him to be careful about the turn in the horse race in honor of Patroclus”. Ion, who says he remembers the verses, recites them, from “and lean yourself” to “avoid touching the stone” (*Ion* 537a–b; 23.335–340). “Enough,” says Socrates: who would know better whether Homer speaks rightly in these verses, a doctor or a charioteer? A charioteer, Ion answers, because he has the art; and to each art, Socrates goes on, the god has given the power to know its own work, so that what we know by the helmsman's art we shall not know by the doctor's (537c). The rule takes him on to the doctor's passage, the fisherman's and the seer's, and leaves Ion with no field of his own (see [[plato-ion-the-seers-passages]] and [[plato-asclepiads]]). Plato's first verse reads κλινθῆναι δὲ καὶ αὐτὸς ἐυξέστῳ ἐνὶ δίφρῳ, “and lean yourself too in the well-polished chariot”, where ours has αὐτὸς δὲ κλινθῆναι ἐϋπλέκτῳ ἐνὶ δίφρῳ; the other four are ours.
+
+**Xenophon.** In Xenophon's *Symposium* Niceratus tells the company that his father, wishing him to become a good man, made him learn all the verses of Homer, and that he could still recite the whole Iliad and Odyssey by heart (*Symposium* 3.5). When his turn comes to say what he can teach, he claims that Homer, the wisest of poets, wrote about nearly everything human, so that whoever wants to manage a household, to speak in the assembly or to lead an army, or to be like Achilles, Ajax, Nestor or Odysseus, should come to him. Antisthenes asks whether he also knows how to be a king, since Homer praised Agamemnon as “both a good king and a strong spearman” (3.179). “Yes, by Zeus,” he answers, “and I know too that a man driving a chariot must make the turn close to the post”, and he quotes three verses: “and himself lean in the well-polished chariot / a little to the left of them, but goad on the right-hand horse / with a shout, and let the reins go with his hands” (*Symposium* 4.6; 23.335–337). And he knows another thing that they can try at once: Homer says “an onion, a relish for the drink”, so if someone brings an onion they will drink with more pleasure (4.7; 11.630). His first verse, αὐτὸν δὲ κλινθῆναι ἐυξέστου ἐπὶ δίφρου, has the well-polished chariot of Plato's text, with another construction.
+
+**Two uses.** The two Socratic writers quote the same verses of Homer's advice, in a text that differs from ours in the same word. Plato's Socrates uses them to show that a rhapsode's knowledge of Homer is not knowledge of driving; Xenophon gives the opposite claim, that Homer teaches all the arts, to a guest who knows the poems by heart.
+
+See [[plato]], [[turning-post]] and [[title-of-book-23]].

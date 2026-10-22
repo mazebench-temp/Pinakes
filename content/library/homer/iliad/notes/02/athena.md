@@ -11,7 +11,7 @@ passages:
 
 **Sent by Hera.** Hera calls her “child of aegis-bearing Zeus, Atrytone” (2.157). Ἀτρυτώνη is usually taken as “the unwearied one”, from ἀ- (“not”) and τρύω (“wear out”), but the sense is not certain. See [[atrytone]]. Athena “did not disobey”, and darts down from the peaks of Olympus (2.166–168), as she came down at Hera's bidding to stop Achilles' sword in Book 1 (1.194–195). In both books Hera sends and Athena goes.
 
-**Odysseus.** She finds Odysseus standing grieved by his ship and gives him Hera's words, turned from “the Argives” to “you”, with small changes. The Achaeans will flee “tumbling into your many-benched ships” (2.175), and she adds, “hang back no longer” (2.179). He knows her voice at once (2.182). Her instrument is the hero she favors most, the goddess who, as the lesser Ajax complains, “always stands by Odysseus like a mother” (23.782–783). See [[odysseus]] and [[message-repeated]].
+**Odysseus.** She finds Odysseus standing grieved by his ship and gives him Hera's words, turned from “the Argives” to “you”, with small changes. The Achaeans will flee “tumbling into your many-benched ships” (2.175), and she adds, “hang back no longer” (2.179). He knows her voice at once (2.182). Her instrument is the hero she favors most, the goddess who, as the lesser Ajax complains, “always before stands by Odysseus like a mother” (23.782–783). See [[odysseus]] and [[message-repeated]].
 
 **The herald.** When Odysseus rises to speak, she stands beside him in the likeness of a herald and orders the army to be silent, so that the nearest and the farthest may hear (2.278–282). A goddess does the work of the assembly's herald. See [[heralds]].
 

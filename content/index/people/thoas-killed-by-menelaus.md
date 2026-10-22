@@ -8,6 +8,8 @@ summary: A Trojan whom Menelaus stabs in the chest, where it was bared beside th
 # out; thoas claims =Θόας and those phrases, thoas-of-lemnos "θείοιο Θόαντος" (14.230), and both except 16.311.
 grc: [Θόαντα, "!Θόαντά τε"]
 en: [Thoas]
+# Θόαντι at 23.745 is Thoas of Lemnos, to whom the Phoenicians gave the silver bowl (thoas-of-lemnos).
+except: [23.745]
 refs: [16.312]
 relations:
   - slayer: menelaus (16.311-312)

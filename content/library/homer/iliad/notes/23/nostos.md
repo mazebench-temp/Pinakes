@@ -1,0 +1,9 @@
+---
+summary: Achilles gives up his homecoming at the pyre. His father Peleus vowed his hair to the river Spercheius “that when I came home there to my dear native land” it would be cut (23.144–148), but Achilles says, “now, since I am not going home to my dear native land, / I would grant my hair to the hero Patroclus to take with him” (23.150–151).
+---
+
+{{quote:32610b8a-12b4-5322-9174-3847794497b1}}
+
+The vow assumed a return (νοστήσαντα, 23.145), and the hair grown for the river would have been cut when the son came home; Achilles cuts it now for the dead (see [[hair]], [[spercheius]] and [[peleus]]). Walter Leaf takes ἄλλως, “in vain”, as μάτην (on 23.144) and the optative ὀπάσαιμι as a deferential wish, “I should like to give it” (*Commentary on the Iliad*, 1900, on 23.151; see the translation's note on 23.141–151). The refusal answers the choice of Book 9, which Thetis set before her son: if he stays and fights, his homecoming is lost and his fame will be imperishable; “but if I come home to my dear native land” (φίλην ἐς πατρίδα γαῖαν, the words of 23.145 and 23.150), his fame is lost and his life long (9.412–416; see [[the-short-life-of-achilles]]).
+
+The soul of Patroclus speaks of the one return there is not: “never again / shall I come back from Hades” (23.75–76). Leaf notes the pathos of νίσομαι there, a verb used, like νόστος, of happy returning home (on 23.76; see [[psyche]]). Achilles' bones are not to go home either: they are to lie at Troy with those of Patroclus, in one urn and under one mound (23.82–92, 23.243–248; see [[the-golden-urn]] and [[fame-and-the-tomb]]). In four other verses νέεσθαι and οἶκον δέ are a plain going, not a homecoming: the dead man going beneath the darkness, the winds going home, the winning boxer leading the mule to his hut, and the archer carrying the axes home (23.51, 23.229, 23.662, 23.856).

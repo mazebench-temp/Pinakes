@@ -6,7 +6,7 @@ tags: [achaean, myrmidon, elder, king, speaker]
 summary: Achilles' old tutor and foster father, son of [[Amyntor]] and lord of the [[Dolopians]] under [[Peleus]]. Cursed by his father to have no son, he fled to Peleus, who sent him to Troy with Achilles; in the embassy of Book 9 he makes the longest speech in the Iliad, and later poets said that his father had blinded him.
 aliases: [Phoinix, Phoenix son of Amyntor]
 # ^ keeps out the common word φοῖνιξ, "purple, red" (4.141, 6.219, 7.305; 15.538, 23.454); purple excludes ^Φοίνικ*.
-# Book 23 will add Φοίνικα (23.360). Φοίνικος (14.321) is another Phoenix, father of the girl who bore Minos
+# Φοίνικα (23.360) is claimed in the Book 23 note. Φοίνικος (14.321) is another Phoenix, father of the girl who bore Minos
 # to Zeus (phoenix-father-of-europa), and Φοίνικες (23.744) are the Phoenicians; in the Odyssey Φοῖνιξ ἀνήρ, "a Phoenician man"
 # (Od. 14.288), will need an except.
 grc: ["^Φοῖνιξ", "^Φοίνικι"]

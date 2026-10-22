@@ -1,0 +1,7 @@
+---
+summary: The chariot of Diomedes is overlaid with gold and tin (23.503), and the corselet of Asteropaeus that Achilles gives to Eumelus has a casting of shining tin running round it (23.560–562).
+---
+
+**The chariot.** As Diomedes drives in first, “the chariot, overlaid with gold and tin, / ran close behind the swift-footed horses” (23.503–504; see [[chariot]] and [[diomedes]]). Walter Leaf takes πεπυκασμένα, “covered up”, the only sense the word has in Homer, as a hyperbole for the metal facings of a chariot's woodwork, like the chariot of Rhesus, “finely worked with gold and silver” (10.438), and Agamemnon's, “inlaid with bronze” (4.226; *Commentary on the Iliad*, 1900, on 23.503; see [[gold-and-silver]] and [[bronze]]).
+
+**The corselet.** For Eumelus, who came in last, Achilles brings out “the corselet that I took from Asteropaeus, / of bronze, around which a casting of shining tin / runs in a circle; it will be worth much to him” (23.560–562; see [[corselet]], [[eumelus]] and [[asteropaeus]]). χεῦμα, “a casting”, is to Leaf a sign that some process of coating a metal surface with tin was known, and the scholia explain it as tin poured over the corselet and set fast. ἀμφιδεδίνηται is obscure: it may mean that the tin covers the whole plate, or that it runs round in strips, like the bands of tin on Agamemnon's breastplate (11.24–25; Leaf on 23.561). The verse recurs in the Odyssey of a sword whose sheath has new-sawn ivory running round it (*Odyssey* 8.403–405).

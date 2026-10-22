@@ -17,4 +17,4 @@ relations:
 
 ## Elsewhere in Homer
 
-Nestor recalls that he outthrew Phyleus with the spear at the funeral games of Amarynceus (23.637). Phyleus brought home a corselet from Ephyra on the river Selleis, the gift of his guest-friend Euphetes, and it later saves his son's life (15.529–534). Meges is often simply "the son of Phyleus" (10.110, 15.519, 15.528).
+Nestor recalls that he outthrew a Phyleus with the spear at the funeral games of Amarynceus, most likely this one (23.637; see [[the-funeral-games-of-amarynceus]]). Phyleus brought home a corselet from Ephyra on the river Selleis, the gift of his guest-friend Euphetes, and it later saves his son's life (15.529–534). Meges is often simply "the son of Phyleus" (10.110, 15.519, 15.528).

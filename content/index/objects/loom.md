@@ -6,7 +6,8 @@ tags: [woman, craftsman, captive]
 summary: The upright loom (ἱστός) at which the women of a house wove, from queens to captives. The same word names a ship's mast.
 aliases: [looms]
 grc: [ἱστὸν]
-except: [1.434, 1.480]
+# ἱστόν at 23.852 is the mast of a ship, set up as a target for the archers.
+except: [1.434, 1.480, 23.852]
 en: [loom]
 ---
 

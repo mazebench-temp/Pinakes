@@ -1,0 +1,7 @@
+---
+summary: Menelaus' heart is the book's. He rises against Antilochus “grieving in his heart” (23.566); when Antilochus yields him the mare, “his heart / was warmed, as when there is dew around the ears / of a growing crop” (23.597–599); and he gives her back so that the Achaeans may know “that my heart is never overbearing and harsh” (23.611). The θυμός is also life: when Meriones' arrow strikes the dove, “swiftly the spirit flew from her limbs” (23.880).
+---
+
+The simile of the dew (see [[dew-on-the-growing-crop]]) ends with an apostrophe to Menelaus himself, “so, Menelaus, was the spirit in your heart warmed” (23.600; see [[apostrophe]]). His last words are those of Hera about Zeus' heart, “overbearing and harsh” (ὑπερφίαλος καὶ ἀπηνής, 15.94), which Walter Leaf compares (*Commentary on the Iliad*, 1900, on 23.611); Menelaus says that his heart is not so (see [[menelaus]] and [[amends-and-reconciliation]]).
+
+The phrases of the θυμός run through the games. In the racers “the heart of each was pounding” (πάτασσε δὲ θυμός, 23.370); Nestor bids his son “put cunning into your heart” (23.313; see [[metis]]); Antilochus would rather give up the mare than “fall from your heart” (ἐκ θυμοῦ πεσέειν, 23.595), and Leaf compares Zeus' warning to Hera that she will only grow “more distant from my heart” (ἀπὸ θυμοῦ, 1.562–563; on 23.595); Odysseus prays to Athena “in his heart” (23.769). The dove's θυμός leaves its limbs as a warrior's does (ἐκ μελέων, 23.880; ἀπὸ μελέων, 13.671–672; see [[doves]]).

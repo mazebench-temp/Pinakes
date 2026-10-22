@@ -1,0 +1,9 @@
+---
+summary: Echepolus, son of Anchises, who gave Agamemnon the mare Aethe so as not to follow him to Troy, lived “in Sicyon with its wide dancing floors” (23.296–299).
+# Σικυῶνι (23.299) is found only here; Σικυῶνʼ (2.572) is claimed in the entry.
+grc: [Σικυῶνι]
+---
+
+“her Echepolus, son of Anchises, had given to Agamemnon / as a gift, so that he might not have to follow him to windy Ilios, / but might stay at home and take his pleasure; for great wealth / had Zeus given him, and he lived in Sicyon with its wide dancing floors” (23.296–299; see [[echepolus-son-of-anchises]] and [[aethe-and-podargus]]). The Catalogue counts Sicyon among the cities whose men followed Agamemnon (2.569–580), so the rich man of Sicyon was one of his own subjects, and bought his way out of the war with a horse (see [[agamemnon]]). Walter Leaf compares the payment in place of service with the story of Euchenor, “rich and brave”, who lived at Corinth, another of Agamemnon's cities, and sailed to Troy knowing his fate, so that “he avoided at once the grievous fine of the Achaeans / and the hateful sickness” (13.663–670; Leaf on 23.297, referring to his note on 13.669). Leaf reports too the dry remark of the scholia, after Plutarch, that Agamemnon thought a war horse more useful than a man who would not serve (*Commentary on the Iliad*, 1900, on 23.297).
+
+εὐρύχορος is said of Hellas in Phoenix' speech, “through Hellas with its wide dancing floors” (9.478). Leaf takes it as properly an epithet of a town, early confused with εὐρύχωρος, “spacious”; he places the old city in the fertile plain between the mountains and the Corinthian gulf, and finds the wealth of Echepolus in the richness of its soil (on 23.299). The Catalogue's one note on Sicyon is that Adrastus “was king at first” there (2.572), and Adrastus' horse Arion is named by Nestor a few lines later (23.346–347; see [[adrastus]] and [[arion-the-horse]]).

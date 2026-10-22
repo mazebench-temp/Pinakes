@@ -7,7 +7,8 @@ summary: When Zeus comes into his house, all the gods rise from their seats and 
 aliases: [rising for a superior, standing up for Zeus]
 grc: [ἀνέσταν, σφοῦ πατρὸς ἐναντίον, ἀντίοι ἔσταν]
 # ἀνέσταν is also the nine volunteers standing up to fight Hector (7.161).
-except: [7.161]
+# ἀνέσταν at 23.886 is the javelin throwers standing up for the contest.
+except: [7.161, 23.886]
 en: [rose, to meet their father, stood up to face him]
 ---
 

@@ -12,7 +12,7 @@ of: [tripod]
 
 ## Meaning
 
-ἄπυρος = ἀ- (“not”) + πῦρ (“fire”): “without fire.” Of a tripod or a cauldron it is usually understood as one that has never been set over a fire for cooking, and so is new and bright. Achilles' third prize in the chariot race is “a cauldron untouched by fire, a fine one, holding four measures, still white as it was” (23.267–268), and he sets out another “cauldron untouched by fire, worth an ox, adorned with flowers” for the spear-throwing (23.885). The fifth prize of the chariot race is a two-handled bowl “untouched by fire” in the related form ἀπύρωτος (23.270). A vessel that had never been used for cooking was a treasure to be stored, given and won ([[tripod]], [[gold-and-silver]]).
+ἄπυρος = ἀ- (“not”) + πῦρ (“fire”): “without fire.” Of a tripod or a cauldron it is usually understood as one that has never been set over a fire for cooking, and so is new and bright. Achilles' third prize in the chariot race is “a cauldron untouched by fire, a fine one, holding four measures, still white as it was” (23.267–268), and he sets out another “cauldron untouched by fire, worth an ox, flowered” for the spear-throwing (23.885). The fifth prize of the chariot race is a two-handled bowl “untouched by fire” in the related form ἀπύρωτος (23.270). A vessel that had never been used for cooking was a treasure to be stored, given and won ([[tripod]], [[gold-and-silver]]).
 
 ## Use
 

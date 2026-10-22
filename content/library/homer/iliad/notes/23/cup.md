@@ -1,0 +1,10 @@
+---
+summary: Achilles pours libations to the winds from a golden cup and all night draws wine with a two-handled cup from a golden mixing bowl, pouring it on the ground for the soul of Patroclus (23.196, 23.219–221); in the boxing a two-handled cup is the prize of the loser (23.656–699).
+# δέπαϊ (23.196, again 24.285) is first met here; δέπας ἀμφικύπελλον (23.219, 23.656, 23.699) and δέπας (23.663,
+# 23.667) are claimed by the entry and its note on Book 4.
+grc: [δέπαϊ]
+---
+
+**Libations at the pyre.** Standing apart from the pyre, Achilles prays to the North Wind and the West Wind, “and pouring many libations from a golden cup he entreated them / to come” (23.196–197; see [[libation]], [[boreas]] and [[zephyrus]]). All night, while they fan the flame, “swift Achilles, / taking a two-handled cup, drew wine from a golden mixing bowl / and poured it on the ground, and soaked the earth, / calling on the soul of poor Patroclus” (23.218–221; see [[mixing-bowl]], [[wine]] and [[psyche]]). Walter Leaf prefers the present ἀφυσσόμενος, which marks a series of acts, to the aorist, and for the same reason the variant ἔχων to ἑλών (*Commentary on the Iliad*, 1900, on 23.220). δέπας ἀμφικύπελλον is the cup that Hephaestus puts in his mother's hand (1.584), the cup of the guest-gift that Bellerophon gave Oeneus (6.220), and the cup from which the envoys pour their libations before they leave Achilles' hut (9.656).
+
+**The boxing prize.** For the boxing Achilles sets out a hard-working mule for the winner, “and for the loser he set out a two-handled cup” (23.656), and tells the Achaeans that “the loser shall carry off the two-handled cup” (23.663). Epeius, laying hold of the mule, answers with Achilles' own words, “Let him come near, whoever will carry off the two-handled cup” (23.667; see [[epeius]]); Leaf takes the repetition as ironical, as though the words were in quotation marks (on 23.667). When Euryalus has been knocked senseless, his companions lead him away, “and they themselves went and fetched the two-handled cup” (23.699; see [[euryalus]] and [[the-funeral-games-of-patroclus]]).

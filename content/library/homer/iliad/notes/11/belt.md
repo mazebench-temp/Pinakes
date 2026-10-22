@@ -6,7 +6,7 @@ passages:
   - 11.234-240 | Iphidamas' spear on the belt
 ---
 
-**Girding.** The day of battle begins with Agamemnon's order: he “bade them gird themselves” (ζώννυσθαι, 11.15), with ζώννυμι, the verb of the belt (ζωστήρ). To gird oneself is to arm, as Nestor girded on his gleaming belt whenever he armed for war (10.77–78), and as Achilles will bid the Myrmidons “gird on the bronze” for Patroclus' funeral (χαλκὸν ζώννυσθαι, 23.130; see [[arming-scene]]).
+**Girding.** The day of battle begins with Agamemnon's order: he “bade them gird themselves” (ζώννυσθαι, 11.15), with ζώννυμι, the verb of the belt (ζωστήρ). To gird oneself is to arm, as Nestor girded on his gleaming belt whenever he armed for war (10.77–78), and as Achilles will bid the Myrmidons “gird on their bronze” for Patroclus' funeral (χαλκὸν ζώννυσθαι, 23.130; see [[arming-scene]]).
 
 **The belt holds.** Iphidamas is the first man to face Agamemnon after the invocation. Agamemnon's spear turns aside, and Iphidamas thrusts:
 

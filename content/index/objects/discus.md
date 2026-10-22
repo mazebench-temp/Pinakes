@@ -9,7 +9,7 @@ grc: [δίσκοισιν]
 en: [discus]
 ---
 
-δίσκος (“discus”) is the noun of δικεῖν, “throw”: the thing thrown. In the Odyssey it is a stone (*Odyssey* 8.190); the discuses of later Greek athletics were usually of bronze. Homer's heroes throw it for pleasure in idle hours, together with the javelin and the bow, and in contests. Its range served as a measure of distance: “as far as a discus flies, swung from the shoulder” (23.431).
+δίσκος (“discus”) is the noun of δικεῖν, “throw”: the thing thrown. In the Odyssey it is a stone (*Odyssey* 8.190); the discuses of later Greek athletics were usually of bronze. Homer's heroes throw it for pleasure in idle hours, together with the javelin and the bow, and in contests. Its range served as a measure of distance: “as far as the range of a discus swung from the shoulder carries” (23.431).
 
 {{notes}}
 

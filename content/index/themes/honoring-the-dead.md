@@ -35,4 +35,4 @@ In the wars of classical Greece the side that sent heralds to ask for a truce to
 
 ## Related entries
 
-[[cremation]], [[pyres]], [[tomb]], [[lament]], [[stripping-the-dead]], [[fighting-over-the-body]], [[death-in-battle]], [[fame-and-the-tomb]], [[the-comfort-of-fire]], [[the-truce-for-the-dead]].
+[[the-funeral-of-patroclus]], [[cremation]], [[pyres]], [[tomb]], [[lament]], [[stripping-the-dead]], [[fighting-over-the-body]], [[death-in-battle]], [[fame-and-the-tomb]], [[the-comfort-of-fire]], [[the-truce-for-the-dead]].

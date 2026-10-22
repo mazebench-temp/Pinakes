@@ -7,7 +7,8 @@ summary: “Hollow,” an epithet of [[ships]]: κοῖλος, and its synonym �
 aliases: [koilos]
 grc: [κοίλῃσιν, κοίλῃς, "!^Γλαφύρας"]
 en: [hollow]
-except: [4.454]
+# κοίλης at 23.419 is the hollow road (στεῖνος ὁδοῦ κοίλης), not the ships.
+except: [4.454, 23.419]
 of: [ships]
 ---
 

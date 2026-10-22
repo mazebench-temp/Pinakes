@@ -23,6 +23,10 @@ The Epeians of [[Elis]] and [[Buprasium]] come under four leaders, each commandi
 
 ## Elsewhere in Homer
 
-The Epeians hold the line at the ships with the Boeotians and others (13.685–691), and Otus of Cyllene, one of their leaders, is killed by Polydamas (15.518–519; see [[otus-of-cyllene]]). In Nestor's tales of his youth they are the enemies of the Pylians (11.670–761), and it is they who bury King Amarynceus at Buprasium with funeral games (23.630–642). In the same tale they are also called Eleans (11.671), the name their descendants used.
+The Epeians hold the line at the ships with the Boeotians and others (13.685–691), and Otus of Cyllene, one of their leaders, is killed by Polydamas (15.518–519; see [[otus-of-cyllene]]). In Nestor's tales of his youth they are the enemies of the Pylians (11.670–761), and it is they who bury King Amarynceus at Buprasium with funeral games (23.630–642; see [[the-funeral-games-of-amarynceus]]). In the same tale they are also called Eleans (11.671), the name their descendants used.
 
-They are not to be confused with Epeius, son of Panopeus, the boxer who built the Wooden Horse (23.665, Od. 8.493).
+They are not to be confused with [[epeius|Epeius]], son of Panopeus, the boxer who built the wooden horse (23.665, *Odyssey* 8.493).
+
+## Outside Homer
+
+Elean legend, as Pausanias tells it, gave the people an eponym. Endymion set his sons to race at Olympia for the throne; Epeius won, and his subjects were then first called Epeians. The kingdom later passed to Eleius, a grandson of Endymion, who gave them their later name of Eleans (*Description of Greece* 5.1.4, 5.1.8; see [[pausanias]]).

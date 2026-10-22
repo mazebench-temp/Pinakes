@@ -12,7 +12,7 @@ of: [polydeuces]
 
 ## Meaning
 
-πύξ (“with the fist,” an adverb, from the family of πυγμή, “fist,” and πυγμαχίη, “boxing”) + ἀγαθός (“good”): “good with the fist,” a boxer. The construction is like βοὴν ἀγαθός, “good at the war cry” ([[good-at-the-war-cry]]). The two brothers are told apart by their skills: Castor is the horseman, “tamer of horses” ([[tamer-of-horses]]), and Polydeuces the boxer. Boxing is one of the contests at the funeral games of Patroclus, won by Epeius (Il. 23.653–699).
+πύξ (“with the fist,” an adverb, from the family of πυγμή, “fist,” and πυγμαχίη, “boxing”) + ἀγαθός (“good”): “good with the fist,” a boxer. The construction is like βοὴν ἀγαθός, “good at the war cry” ([[good-at-the-war-cry]]). The two brothers are told apart by their skills: Castor is the horseman, “tamer of horses” ([[tamer-of-horses]]), and Polydeuces the boxer. Boxing is one of the contests at the funeral games of Patroclus, won by Epeius (Il. 23.653–699; see [[epeius]]).
 
 ## Use
 

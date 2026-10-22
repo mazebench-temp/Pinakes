@@ -1,0 +1,14 @@
+---
+summary: Achilles lies on the shore of the loud-roaring sea among the Myrmidons, where the soul of Patroclus comes to him in his sleep (23.59–65), and the woodcutters throw down their logs on the shore where he has planned a great barrow for Patroclus and for himself (23.125–126).
+# θινί (23.59, as at 4.248) and ἀκτῆς (23.125) are first met here; ἀκτῆς is claimed only in the Iliad, since at
+# Od. 2.355 ἀλφίτου ἀκτῆς is barley meal. θίνʼ (23.693), the shore of the simile of the leaping fish, and ἠϊόνος (23.61)
+# are claimed already.
+grc: [θινὶ, ἀκτῆς]
+en: [beach]
+---
+
+**The night on the shore.** When the kings go to their huts, “the son of Peleus, on the shore of the loud-roaring sea, / lay groaning heavily among the many Myrmidons / in a clear space, where the waves washed up on the beach” (23.59–61). The verse-end πολυφλοίσβοιο θαλάσσης is the one in which Chryses went in silence along the shore in Book 1 (1.34), and the scene recalls Achilles in that book, who sat apart from his companions “on the shore of the gray sea, looking out over the boundless deep” (1.350; see the note on Book 1). ἐν καθαρῷ, “in a clear space”, is the formula of Hector's assembly on the plain and of the Achaean council outside the ditch, “where the ground showed free of corpses” (8.491, 10.199); here the clear ground is the beach, and the clause that completes it is the wash of the waves. There sleep takes Achilles, and the soul of Patroclus stands over his head (23.62–68; see [[the-ghost-of-patroclus]], [[achilles]] and [[psyche]]). The body lies on the shore too: the Myrmidons drive three times around it, and “the sands were wet, and wet was the armor of the men / with tears” (23.13–16). Walter Leaf notes that the body, which lay in the hut at 19.211, is here thought of as out in the open on the shore, where the Myrmidons and Achilles sleep around it (*Commentary on the Iliad*, 1900, on 23.13).
+
+**The barrow.** The men sent to Ida bring the logs down, “And they threw them down on the shore one after another, where Achilles / had planned a great barrow for Patroclus and for himself” (23.125–126; see [[ida]] and [[tomb]]). ἠρίον, “barrow”, is found only here in Homer; Leaf notes that later prose and poetry use it too (on 23.126). ἀκτή is the word of Athena's shout from the shores in Book 20 (20.50), and the Odyssey sets the tomb that the army heaped up over the bones of Achilles and Patroclus on such a shore, ἀκτῇ ἔπι προὐχούσῃ, “on a jutting headland, by the broad Hellespont” (*Odyssey* 24.82; see [[hellespont]]).
+
+**The games.** The chariots race out from the ships and back “toward the gray sea” (23.374), and the archers' target is the mast of a ship set up “far off on the sand” (23.852–853; see [[mast]]). In the boxing the stunned Euryalus leaps up like a fish that leaps under the ripple of the North Wind “on a shore full of seaweed, and a dark wave hides it” (23.692–694; see [[the-leaping-fish]]).

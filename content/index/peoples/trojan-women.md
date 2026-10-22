@@ -6,7 +6,8 @@ tags: [trojan, woman]
 summary: The women of [[Troy]]. [[Helen]] fears their blame, [[Hector]] would be ashamed before them to hold back from battle, and the Trojans fight to save them from captivity.
 aliases: [women of Troy, Troades]
 grc: ["=Τρῳ*", Τρωϊάδ*]
-except: [5.461, 16.393, 17.127, 17.255, 17.273, 18.179, Poetics 1459b7]
+# Τρῳοὺς at 23.291 are the horses of Tros (ἵππους Τρῳούς), which Diomedes took from Aeneas.
+except: [5.461, 16.393, 17.127, 17.255, 17.273, 18.179, 23.291, Poetics 1459b7]
 ---
 
 {{quote:c6da5457-abf8-5c2b-a525-9eb9da2cd1f9}}

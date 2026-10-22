@@ -1,0 +1,11 @@
+---
+summary: The line that Aristotle quotes closes the night of the ghost, when Achilles, waking, tells the Myrmidons of the soul that stood over him. Its second half is said again when he puts his hair in the dead man's hands, and Thetis rouses the same longing at the start of the book.
+grc: ["φάτο τοῖσι δὲ πᾶσιν ὑφʼ ἵμερον"]
+en: [in them all he roused the longing for lament]
+---
+
+{{quote:99962af3-b84d-52c3-a71a-320e97d226e2}}
+
+The soul of Patroclus has asked for burial and has slipped from Achilles' arms “like smoke, / gibbering”. Achilles springs up, strikes his hands together and cries out that there is some soul and phantom even in the house of Hades, but no mind in it; all night long it stood over him, “lamenting and weeping, / and charged me with each thing, and it was wondrously like him” (23.99–107; see [[patroclus]] and [[psyche]]). “So he spoke, and in them all he roused the longing for lament; / and rosy-fingered Dawn appeared to them as they wept / around the pitiable corpse” (23.108–110). Those around him are the Myrmidons, among whom he had lain down on the shore (23.59–61; see [[myrmidons]]). What he has seen is the dead man as he was, like him in stature, in the eyes and in the voice (23.65–67); and in Aristotle's account that is where the pleasure in mourning lies, in remembering the dead and in a way seeing him, “what he did and what he was like” (*Rhetoric* 1.11, 1370b25–29).
+
+The phrase runs through the funeral. At its start, as the Myrmidons drive three times around the body, “Thetis roused among them the longing for lament” (μετὰ δέ σφι Θέτις γόου ἵμερον ὦρσε, 23.14; see [[thetis]]); and when Achilles has cut the hair he had grown for the Spercheius and put it in the hands of his companion, the second half of Aristotle's line follows, “and in them all he roused the longing for lament” (23.153; see [[the-lock-for-the-spercheius]]). Achilles himself, before the ghost vanishes, asks for the same thing, that they may put their arms around each other “and take our fill of deadly lament” (23.97–98), as he had bidden the Myrmidons weep until they had their fill of it (23.10). Walter Leaf says of this phrase that the word expresses satiety “but certainly has not lost the sense of satisfaction” (*Commentary on the Iliad*, 1900, on 23.10; see [[lament]] and [[himeros]]).

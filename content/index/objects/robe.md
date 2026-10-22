@@ -8,7 +8,8 @@ aliases: [robes, heanos]
 grc: [ἑανοῦ, ἑανῷ]
 en: [robe]
 # ἑανῷ λιτί (18.352) and ἑανοῦ κασσιτέροιο (18.613): the adjective "soft" (heanos), not the robe.
-except: [18.352, 18.613]
+# ἑανῷ λιτί at 23.254, as at 18.352: the adjective "soft", not the robe.
+except: [18.352, 18.613, 23.254]
 ---
 
 ἑανός is a woman's fine robe, often a goddess's. The noun is usually connected with ἕννυμι, “clothe”. An adjective ἑανός describes Athena's robe (5.734), the linen cloth over Patroclus' body (18.352) and the tin of Achilles' greaves (18.613); it means “soft, fine”, and whether it is the same word as the noun is disputed (see [[heanos]]).

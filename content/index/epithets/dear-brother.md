@@ -11,7 +11,7 @@ en: [Dear brother]
 
 ## Meaning
 
-The origin of ἠθεῖος is uncertain; it is often connected with ἦθος (“accustomed place, custom”), as if “familiar, one's own.” In Homer it is used only in address, and in the Iliad nearly always to a brother: Paris to Hector (6.518), Menelaus to Agamemnon when he finds him arming by night (Il. 10.37), and Athena, in the likeness of Deiphobus, to Hector (Il. 22.229, 22.239). Achilles greets the ghost of Patroclus as ἠθείη κεφαλή, “dear head” (Il. 23.94). In the Odyssey Eumaeus says that he calls his absent master ἠθεῖος even when he is far away (Od. 14.147). Compare [[my-dear]] (πέπον), the address of comrades, and [[strange-one]] (δαιμόνιε), the address of reproach.
+The origin of ἠθεῖος is uncertain; it is often connected with ἦθος (“accustomed place, custom”), as if “familiar, one's own.” In Homer it is used only in address, and in the Iliad nearly always to a brother: Paris to Hector (6.518), Menelaus to Agamemnon when he finds him arming by night (Il. 10.37), and Athena, in the likeness of Deiphobus, to Hector (Il. 22.229, 22.239). Achilles greets the ghost of Patroclus as ἠθείη κεφαλή, “dear head”, “dear heart” in the translation (Il. 23.94). In the Odyssey Eumaeus says that he calls his absent master ἠθεῖος even when he is far away (Od. 14.147). Compare [[my-dear]] (πέπον), the address of comrades, and [[strange-one]] (δαιμόνιε), the address of reproach.
 
 ## Use
 

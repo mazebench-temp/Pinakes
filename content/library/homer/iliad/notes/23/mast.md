@@ -1,0 +1,10 @@
+---
+summary: For the archery Achilles sets up the mast of a dark-prowed ship far off on the sand and ties a dove to it by a cord; Teucer cuts the cord, and the dove, struck by Meriones high under the clouds, settles on the mast before she falls dead (23.852–881).
+# ἱστὸν (23.852) is claimed by the entry (loom excepts the line). ἱστῷ (23.878) is accent-sensitive: ἴστω, “let … know”,
+# of the oath formulas (7.411, 10.329, 15.36, 15.217, 19.258), has the same letters.
+grc: ["=ἱστῷ"]
+---
+
+“and he set up the mast of a dark-prowed ship / far off on the sand, and to it he tied a timid dove / by the foot with a thin cord, and he bade them / shoot at it” (23.852–855; see [[doves]], [[dark-prowed]] and [[shore]]). The man who hits the dove is to take the double axes, the man who hits the cord the single (23.855–858; see [[axe]]). Teucer shoots first without promising Apollo a hecatomb, and, the god begrudging him, misses the bird and cuts the cord; the dove flies up toward the sky, and Meriones, who promises the god a hecatomb of firstborn lambs, strikes her under the wing as she circles high under the clouds (23.862–876; see [[teucer]], [[meriones]] and [[apollo]]). Then “the bird, / settling on the mast of the dark-prowed ship, / let her neck hang down, and her thick feathers drooped” (23.877–879), and she falls dead “far from him” (23.880–881).
+
+Walter Leaf finds the whole contest confused, above all the prize set beforehand for cutting the cord (*Commentary on the Iliad*, 1900, on 23.850), and the last shot “hopelessly confused”: if the arrow struck the bird from the side, it could only by a miracle fall at Meriones' feet, and if she was straight overhead, it is as strange that she could fly back to the mast far off (on 23.875). τῆλε δʼ ἀπʼ αὐτοῦ may mean far from the mast, though the poet does not trouble to think how a dying bird on top of a mast could fall far from it, or far from Meriones, which Leaf thinks a little more probable (on 23.880); the translation follows him.

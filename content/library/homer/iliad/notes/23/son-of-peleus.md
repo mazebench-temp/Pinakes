@@ -1,0 +1,7 @@
+---
+summary: At the funeral “the son of Peleus” leads the lament, refuses to wash, lies on the shore and turns from the pyre to sleep (23.17, 23.41, 23.59, 23.231); at the games the patronymic marks him as host, “And at once the son of Peleus set out other prizes” and “Then the son of Peleus brought” (23.700, 23.740, 23.798, 23.826, 23.884).
+---
+
+**The funeral.** “And among them the son of Peleus led the unceasing lamentation” (23.17) repeats the verse with which he began the lament over the body in Book 18 (18.316; [[swarming]], [[man-slaying]]). The kings try to persuade “the son of Peleus to wash off the clotted blood” (23.41; [[clotted-blood]]), and at the end of the night of burning “the son of Peleus, turning away from the pyre to one side, / lay down worn out” (23.231–232; [[sweet-sleep]]).
+
+**The games.** Each new set of prizes is brought out by “the son of Peleus”: for the wrestling and the footrace (23.700, 23.740), and for the armed duel, the weight throw and the javelin (23.798, 23.826, 23.884). The patronymic also closes his first speech of the games, “So spoke the son of Peleus, and the swift horsemen gathered” (23.287), and Antilochus addresses him with it when he claims the second prize, “stood up and answered Achilles, son of Peleus, claiming his right” (23.542). After Nestor's speech “the son of Peleus went through the great throng of the Achaeans” (23.651–652). See [[achilles]], [[peleus]] and [[contest-scene]].

@@ -12,7 +12,7 @@ of: [sword, belt]
 
 ## Meaning
 
-ἐΰτμητος = εὖ (“well”) + the verbal adjective of τέμνω (“cut”): “well cut,” of leather cut into straps. Homer uses it five times, always of leather. Twice it describes the τελαμών, the strap from which a sword hangs at the shoulder, in the same verse: σὺν κολεῷ τε φέρων καὶ ἐϋτμήτῳ τελαμῶνι, “bringing it with its sheath and its well-cut strap” (7.304, 23.825). The other three are thongs (ἱμάντες): Odysseus and Diomedes tie up the horses of Rhesus with them (10.567), Achilles binds the hands of the twelve Trojan youths he takes alive for Patroclus' pyre (21.30), and Diomedes gives Euryalus boxing thongs of oxhide for his bout with Epeius (23.683–684). See [[sword]] and [[belt]].
+ἐΰτμητος = εὖ (“well”) + the verbal adjective of τέμνω (“cut”): “well cut,” of leather cut into straps. Homer uses it five times, always of leather. Twice it describes the τελαμών, the strap from which a sword hangs at the shoulder, in the same verse: σὺν κολεῷ τε φέρων καὶ ἐϋτμήτῳ τελαμῶνι, “bringing it with its sheath and its well-cut strap” (7.304, 23.825). The other three are thongs (ἱμάντες): Odysseus and Diomedes tie up the horses of Rhesus with them (10.567), Achilles binds the hands of the twelve Trojan youths he takes alive for Patroclus' pyre (21.30), and Diomedes gives Euryalus boxing thongs of oxhide for his bout with Epeius (23.683–684; see [[epeius]]). See [[sword]] and [[belt]].
 
 ## Use
 

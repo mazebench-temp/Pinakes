@@ -1,0 +1,15 @@
+---
+summary: Nestor's sign for the turn is a dry stump “of oak or of pine”, which “does not rot in the rain”. Aristotle reports that the words were attacked as absurd and that Hippias of Thasos answered by an accent; which way he read is disputed. Walter Leaf thought the line irrelevant and unlike Homer, and the critics' remedy “the low water of Homeric criticism”.
+grc: ["τὸ μὲν οὐ καταπύθεται ὄμβρῳ"]
+en: [it does not rot in the rain]
+passages:
+  - 23.326-333 | The turning post
+---
+
+{{quote:d2da01d9-2800-51c1-a286-f8dc32947c14}}
+
+**The line.** Nestor has told Antilochus that the man who knows crafty ways, though his horses are worse, watches the turning post and turns close (23.319–325; see [[nestor]] and [[antilochus]]). Then he gives him a sign, “very easy to see”: a dry stump about a fathom above the ground, “of oak or of pine; it does not rot in the rain, / and two white stones lean against it on either side / at the narrowing of the road” (23.326–330). What the stump was he does not know: “it is either the mound of some mortal who died long ago, / or it was set as a post in the time of earlier men, / and now brilliant swift-footed Achilles has made it the turning post” (23.331–333; see [[turning-post]], [[tomb]] and [[the-funeral-games-of-patroclus]]). The verse that the critics attacked, 328, stands between the stump and the stones. Our text has οὐ, “not”.
+
+**Aristotle.** Among the problems that are solved by accent, Aristotle names two that Hippias of Thasos solved, “and we grant him to win glory” and “part of which rots in the rain”, τὸ μὲν οὗ καταπύθεται ὄμβρῳ, as his text is printed (*Poetics* 25, 1461a21–23; see [[hippias-of-thasos]] and [[aristotle-and-hippias]]). The *Sophistical Refutations* tells the same story without naming Hippias: some correct Homer against those who charge him with having spoken absurdly in these words, and solve the difficulty by the accent, pronouncing the syllable ου with a sharper pitch (4, 166b3–6). Written without accents, as the old texts were, the letters ΟΥ can be the negative οὐ, “not”, or the relative οὗ, “of which”. Which of the two readings the critics found absurd, and which the accent restored, Aristotle does not say in so many words, and modern readers take him both ways.
+
+**Walter Leaf.** Leaf takes it that the critics of Aristotle's day held it unnatural that a stump of wood should not rot, and “solved the difficulty” by reading οὗ, “part of it decays”: “This must mark the low water of Homeric criticism.” For his own part he calls the line “irrelevant” and “totally unlike Homer” (*Commentary on the Iliad*, 1900, on 23.328), and the whole description of the post “hopelessly obscure”; to make sense of it, he says, one must suppose that Nestor knows in advance where Achilles will set the turn, and that the ground there is smooth (on 23.326). Heyne's remark, that there is no evidence in antiquity for wooden posts as grave monuments, seems to Leaf still to hold good (on 23.331). The note on this entry in the Poetics reads the *Sophistical Refutations* the other way, with the critics reading οὗ and Hippias οὐ.

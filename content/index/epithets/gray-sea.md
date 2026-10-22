@@ -8,7 +8,8 @@ aliases: [grey, polios]
 grc: [πολιῆς]
 en: [gray]
 # πολιόν at 22.74 is the gray head and beard of an old man.
-except: [22.74]
+# πολιόν at 23.261 is gray iron, one of the prizes.
+except: [22.74, 23.261]
 of: [sea, iron]
 ---
 

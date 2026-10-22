@@ -18,4 +18,4 @@ en: [blazing fire]
 
 {{quote:1b9cc57b-d835-5c1d-9333-f9aa99b25cec}}
 
-The Chimaera breathes out “the terrible might of blazing fire” (δεινὸν … πυρὸς μένος αἰθομένοιο). πυρὸς μένος, “the might of fire,” is used elsewhere of the funeral fires of Patroclus (Il. 23.177, 23.238) and of Hector (Il. 24.792). Warriors in Homer come on “breathing fury” (μένεα πνείοντες, 2.536, 3.8; [[breathing-fury]]); no other creature breathes fire ([[chimaera]], [[irresistible]], [[bellerophon]]).
+The Chimaera breathes out “the terrible might of blazing fire” (δεινὸν … πυρὸς μένος αἰθομένοιο). πυρὸς μένος, “the might of the fire,” is used elsewhere of the funeral fires of Patroclus (Il. 23.177, 23.238) and of Hector (Il. 24.792). Warriors in Homer come on “breathing fury” (μένεα πνείοντες, 2.536, 3.8; [[breathing-fury]]); no other creature breathes fire ([[chimaera]], [[irresistible]], [[bellerophon]]).

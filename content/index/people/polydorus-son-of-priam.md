@@ -5,8 +5,8 @@ kind: person
 tags: [trojan, house-of-priam, warrior]
 summary: The youngest and dearest of [[Priam]]'s sons, by [[Laothoe]], daughter of [[Altes]], and the fastest runner of them all. His father would not let him fight, but he rushed through the champions to show off his speed, and Achilles struck him through the back (20.407–418); his death draws Hector against Achilles. Later poets made him Hecuba's son, murdered for his gold by the Thracian king Polymestor.
 aliases: [Polydoros, Polydorus]
-# Πολύδωρον (20.407, 20.419, 21.91, 22.46). Πολύδωρον at 23.637 is an Epeian whom Nestor outthrew with the spear
-# (excepted, Greek and English). Πολυδώρη (16.175) is Peleus' daughter (polydora), and πολύδωρος "richly dowered"
+# Πολύδωρον (20.407, 20.419, 21.91, 22.46). Πολύδωρον at 23.637 is the Polydorus whom Nestor outthrew with the spear
+# at Buprasium (polydorus-at-buprasium; excepted, Greek and English). Πολυδώρη (16.175) is Peleus' daughter (polydora), and πολύδωρος "richly dowered"
 # an epithet of wives (6.394, 22.88). Hesiod's Polydorus, son of Cadmus (Theogony 978), will need an except if
 # Hesiod is indexed.
 grc: [Πολύδωρον]
