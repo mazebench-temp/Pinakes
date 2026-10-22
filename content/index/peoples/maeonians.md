@@ -12,7 +12,7 @@ en: [Maeonians]
 
 {{quote:a555c934-fdac-507f-92f0-1c7ea5e5892c}}
 
-The Maeonians live under Mount [[Tmolus]], by the [[gygaean-lake|Gygaean lake]], in the country the Greeks later called Lydia. Homer never uses the name Lydians. Herodotus says that the Lydians were once called Maeonians and took their new name from Lydus son of Atys (1.7, 7.74). In the Iliad they are "fighters from chariots" (ἱπποκορυσταί, 10.431). Troy's wealth has gone to them: Hector says that the city's treasures have been sold off to Phrygia and "lovely Maeonia" (18.288–292).
+The Maeonians live under Mount [[Tmolus]], by the [[gygaean-lake|Gygaean lake]], in the country the Greeks later called Lydia. Homer never uses the name Lydians. Iphition, the first man Achilles kills when he leaps among the Trojans, was born under the same mountain, “beneath snowy Tmolus, in the rich land of Hyde”, and his birthplace was by the Gygaean lake (20.381–392; see [[iphition]] and [[hyde]]). Herodotus says that the Lydians were once called Maeonians and took their new name from Lydus son of Atys (1.7, 7.74). In the Iliad they are "fighters from chariots" (ἱπποκορυσταί, 10.431). Troy's wealth has gone to them: Hector says that the city's treasures have been sold off to Phrygia and "lovely Maeonia" (18.288–292).
 
 ## Outside Homer
 

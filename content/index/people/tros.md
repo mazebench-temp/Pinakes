@@ -6,6 +6,8 @@ tags: [trojan, king, house-of-priam]
 summary: King of the Trojans, son of Erichthonius and grandson of [[Dardanus]], and father of Ilus, Assaracus and [[Ganymede]]. When the gods carried Ganymede off, Zeus gave Tros in recompense a breed of horses, the best under the sun.
 aliases: [Trōs]
 grc: ["^Τρωΐ", "Τρώϊοι"]
+# Tros at 20.463 is the son of Alastor, whom Achilles kills.
+except: [20.463]
 relations:
   - child: ganymede (5.265-266)
 passages:
@@ -19,7 +21,7 @@ passages:
 
 ## Family
 
-Aeneas gives the line in Book 20: Erichthonius, the son of Dardanus, fathered Tros, and Tros had three sons, Ilus, Assaracus and godlike Ganymede (20.219–235). Ilus was the grandfather of [[Priam]], and Assaracus of [[Anchises]] (20.236–240; see [[laomedon]] and [[aeneas]]). Below Tros the royal house divides into the two branches whose sons, Hector and Aeneas, lead the Trojans and the Dardanians in the war (2.816–820).
+Aeneas gives the line in Book 20: [[Erichthonius]], the son of Dardanus, fathered Tros, and Tros had three sons, Ilus, [[Assaracus]] and godlike Ganymede (20.219–235). Ilus was the grandfather of [[Priam]], and Assaracus of [[Anchises]] (20.236–240; see [[laomedon]] and [[aeneas]]). Below Tros the royal house divides into the two branches whose sons, Hector and Aeneas, lead the Trojans and the Dardanians in the war (2.816–820).
 
 ## The horses
 
@@ -27,7 +29,7 @@ Aeneas gives the line in Book 20: Erichthonius, the son of Dardanus, fathered Tr
 
 ποινή is the price paid for a life, accepted even for a murdered brother or son (9.632–636). Zeus pays for Ganymede, who is not dead but lost to his father, in the currency of a blood price (see [[ganymede-and-the-horses-of-tros]]). The breed passed down the house. Laomedon owned the stallions, and Anchises bred from them in secret (5.268–272; see [[anchises-steals-the-horses]]). Heracles sacked Troy when Laomedon cheated him of the horses he had promised, though the Iliad does not say they were of this breed (5.640–651; see [[heracles-sacks-troy]]). Diomedes takes Aeneas' pair (5.319–327) and later drives them himself, offering Nestor a ride in Aeneas' own words (8.105–108 ~ 5.221–223) and racing them at the funeral games (23.291–292, 23.377–378). See [[horses]].
 
-A different Tros, son of Alastor, is killed by Achilles in Book 20 (20.463–472).
+A different Tros, son of Alastor, is killed by Achilles in Book 20 (20.463–472; see [[tros-son-of-alastor]]).
 
 ## Outside Homer
 

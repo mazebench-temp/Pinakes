@@ -5,11 +5,11 @@ kind: god
 tags: [titan, personification, woman, justice, assembly]
 summary: The goddess of θέμις, what is laid down as right, who keeps order where gods and men gather. In Homer she presides at the gods' feast, calls them to assembly for Zeus, and seats and dismisses the assemblies of men; in Hesiod she is a Titan, the second wife of Zeus and the mother of the Hours and the Fates.
 aliases: [Themis the goddess]
-# The goddess is the capitalized name: Θέμιστι (15.87) and Θέμι (15.93), and later Θέμιστα (20.4) and Θέμιστος
+# The goddess is the capitalized name: Θέμιστι (15.87), Θέμι (15.93) and Θέμιστα (20.4), and later Θέμιστος
 # (Od. 2.68), which will need `^` too, since the common word has the same letters (θέμιστα 5.761). The common word
 # is the entry themis, whose id the name "Themis" would collide with: hence the title, and `en` for the English.
 # Θεμιστοκλῆς and Χρυσόθεμις rule out a stem.
-grc: ["^Θέμιστι", "^Θέμι"]
+grc: ["^Θέμιστι", "^Θέμι", "^Θέμιστα"]
 en: [Themis]
 ---
 
@@ -25,7 +25,7 @@ en: [Themis]
 
 ## Elsewhere in Homer
 
-Themis belongs to the places where gods and men gather. At the start of Book 20 Zeus bids her call the gods to assembly from the head of many-folded Olympus (κρατὸς ἀπʼ Οὐλύμποιο πολυπτύχου), and she goes everywhere and bids them come to his house; no river stays away but Oceanus, and no nymph (20.4–9; see [[many-folded]], [[olympians]] and [[assembly]]). There Zeus lets the gods go down to the Trojans and the Achaeans and help whichever side they please (20.22–25). In the *Odyssey* Telemachus, at the first assembly held in Ithaca since Odysseus sailed (*Odyssey* 2.26–27), begs the people “by Olympian Zeus and by Themis, who dissolves and seats the assemblies of men” (*Odyssey* 2.68–69). The common word keeps the same company: the Achaeans' place of assembly by the ships of Odysseus is where “the assembly and θέμις” were (11.806–808; see [[themis]]).
+Themis belongs to the places where gods and men gather. She is the first to greet Hera at the gods' feast in the house of Zeus (15.87–95), and at Zeus' bidding she calls the gods to assembly in his house, from the rivers to the nymphs, on the day he lets them go down to the war (20.4–9; see [[olympians]] and [[assembly]]). In the *Odyssey* Telemachus, at the first assembly held in Ithaca since Odysseus sailed (*Odyssey* 2.26–27), begs the people “by Olympian Zeus and by Themis, who dissolves and seats the assemblies of men” (*Odyssey* 2.68–69). The common word keeps the same company: the Achaeans' place of assembly by the ships of Odysseus is where “the assembly and θέμις” were (11.806–808; see [[themis]]).
 
 ## Outside Homer
 

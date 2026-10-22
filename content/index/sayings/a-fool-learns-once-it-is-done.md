@@ -17,8 +17,6 @@ Euphorbus, who struck Patroclus first, has told Menelaus to leave the body and t
 
 Euphorbus is not persuaded (17.33), and he learns as the proverb says. His spear bends back on Menelaus' shield, and Menelaus' spear goes through his neck (17.43–50; see [[menelaus]]).
 
-**Again in Book 20.** Achilles says the same three verses to Aeneas, who has come out to meet him: let him go back into the crowd and not stand against Achilles, before he suffers harm (20.196–198 = 17.30–32; see [[commoners]]). Aeneas answers that Achilles should not hope to frighten him with words, as if he were a child (νηπύτιον ὥς, 20.200–202), and only Poseidon saves him from Achilles' sword (20.288–340).
-
 **Related sayings.** Odysseus warned Achilles that there is no cure for an evil once it is done, ῥεχθέντος κακοῦ (9.249; see [[no-cure-once-done]]). Ajax, later in this book, turns another saying about fools against his own side: “even one who is an utter fool / would know that father Zeus himself is helping the Trojans” (17.629–630; see [[even-a-fool-can-see]]).
 
 ## Outside Homer

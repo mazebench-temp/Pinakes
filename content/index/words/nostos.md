@@ -7,6 +7,8 @@ summary: The return home, above all a warrior's return from war. It is the subje
 aliases: [nostos, aponosteō, oikade, return home]
 grc: [ἀπονοστήσειν, οἴκαδʼ]
 en: [home, sail for home]
+# νέεσθαι at 20.6: Themis bids the gods come to the house of Zeus, not a homecoming.
+except: [20.6]
 ---
 
 ## Meaning

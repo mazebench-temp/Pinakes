@@ -7,6 +7,8 @@ summary: A son of [[Antenor]] and one of the leading Trojan fighters. He makes t
 aliases: [Agēnōr]
 # ^: ἀγήνωρ “bold, proud” is also an adjective (θυμὸς ἀγήνωρ, 2.276).
 grc: ["^Ἀγήνωρ"]
+# Agenor at 20.474 is the father of Echeclus; the poem does not say that he is Antenor's son.
+except: [20.474]
 relations:
   - father: antenor
 ---
@@ -17,7 +19,7 @@ The name is the adjective ἀγήνωρ, from ἄγαν (“very much”) and �
 
 ## Family
 
-He is one of the “three sons of Antenor” who stand with Hector, Polydamas and Aeneas in Book 11, with Polybus and the young Acamas (11.59–60), and Book 21 calls him “son of Antenor” twice (21.546, 21.579). Several of his brothers fight and die in the Iliad (see [[antenor]]). Achilles kills an Echeclus, “son of Agenor” (20.474); the poem does not say whether his father is this Agenor.
+He is one of the “three sons of Antenor” who stand with Hector, Polydamas and Aeneas in Book 11, with Polybus and the young Acamas (11.59–60), and Book 21 calls him “son of Antenor” twice (21.546, 21.579). Several of his brothers fight and die in the Iliad (see [[antenor]]). Achilles kills an Echeclus, “son of Agenor” (20.474); the poem does not say whether his father is this Agenor, and the index keeps the two apart (see [[echeclus-son-of-agenor]] and [[agenor-father-of-echeclus]]).
 
 ## Descriptions
 

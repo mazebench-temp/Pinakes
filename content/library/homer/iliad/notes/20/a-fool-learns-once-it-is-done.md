@@ -1,0 +1,5 @@
+---
+summary: Achilles warns Aeneas in Menelaus' verses to Euphorbus: “I bid you draw back / and go into the crowd, and do not stand against me, / before you suffer some harm; a fool learns a thing once it is done” (20.196–198 = 17.30–32).
+---
+
+The crowd (πληθύς) into which Achilles sends Aeneas is the mass of fighters behind the champions (see [[commoners]] and [[battle-order]]). Aeneas answers that Achilles should not hope to frighten him with words, “as if I were a child” (νηπύτιον ὥς, 20.200–202), and only Poseidon saves him from Achilles' sword (20.288–340). Aristarchus athetized 20.195–198 as borrowed from Book 17, where Menelaus wants only the body of Patroclus and can let Euphorbus go; Achilles, come for vengeance, should not wish his first enemy to escape (Walter Leaf, *Commentary on the Iliad*, 1900, on 20.195; see the translation's note on 20.195–198). Euphorbus was not persuaded, and died; Aeneas is not persuaded, and lives by a god's help (see [[nepios]], [[retreat]] and [[divine-rescue]]).

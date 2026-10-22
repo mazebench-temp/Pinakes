@@ -12,7 +12,7 @@ of: [polemos]
 
 ## Meaning
 
-ἀλίαστος = ἀ- (“not”) + λιάζομαι (“turn aside, shrink back”): “that does not turn aside,” and so “unceasing, relentless.” Homer uses it seven times: of war (Il. 2.797, 20.31), of battle and its din (Il. 12.471, 14.57, 16.296), and of grief, when Achilles tells Priam not to grieve without ceasing and when Hecuba laments Hector (Il. 24.549, 24.760).
+ἀλίαστος = ἀ- (“not”) + λιάζομαι (“turn aside, shrink back”): “that does not turn aside”, and so “unceasing”, “relentless”. Homer uses the word seven times: of war (Il. 2.797, 20.31), of battle and its din (Il. 12.471, 14.57, 16.296), and of grief, when Achilles tells Priam not to grieve without ceasing and when Hecuba laments Hector (Il. 24.549, 24.760).
 
 ## Use
 

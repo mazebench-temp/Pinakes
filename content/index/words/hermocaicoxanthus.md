@@ -4,7 +4,7 @@ greek: Ἑρμοκαϊκόξανθος
 kind: term
 tags: [diction, rare-word]
 summary: A triple compound of three river names, Hermus, Caicus and Xanthus, Aristotle's one example of the many-part names of the Massaliots; the rest of the passage is lost.
-aliases: [Hermokaikoxanthos, Hermocaicoxanthus, Hermus, Caicus, Xanthus]
+aliases: [Hermokaikoxanthos, Hermocaicoxanthus, Caicus, Xanthus]
 ---
 
 ## The word

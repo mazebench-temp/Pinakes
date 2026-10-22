@@ -1,0 +1,6 @@
+---
+summary: Zeus lets the gods go to war (20.23–25). Apollo, in Lycaon's likeness, sends Aeneas against Achilles and breathes might into him (20.79–111); Poseidon lifts Aeneas out of the duel, pouring a mist over Achilles' eyes (20.288–340); Apollo warns Hector to keep out of Achilles' way (20.375–380); and when they meet, Athena turns Hector's spear back with a breath and Apollo snatches Hector away in thick mist (20.438–446).
+refs: [20.23-25, 20.79-111, 20.288-340, 20.375-380, 20.438-446]
+---
+
+The gods act on both sides, and once across the sides: Poseidon, who favors the Achaeans, saves a Trojan. Walter Leaf finds his speech and action glaringly inconsistent with his part in the rest of the poem and with his own speech to Hera (20.133–143); he suggests that the episode was made for the glory of Aeneas, and to explain a worship of Poseidon among families that claimed descent from him (*Commentary on the Iliad*, 1900, on 20.293). The divine help is told in a few verses, and each time a man acts on it or against it: Aeneas goes though he is unwilling (20.87–111), Hector goes back into the crowd and comes out again when his brother falls (20.379–423; see [[divine-rescue]], [[seeing-the-gods]] and [[obedience-and-persuasion]]).

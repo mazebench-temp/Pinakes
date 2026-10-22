@@ -20,4 +20,4 @@ passages:
 
 “and then Elasus and Mulius and Pylartes” (16.696): Mulius is the eighth of the nine men whom Patroclus kills when the narrator asks him “whom first, whom last” (16.692–697; see [[adrastus-killed-by-patroclus]], [[whom-first-whom-last]] and [[patroclus]]).
 
-Homer has three other men of the name: the Epeian spearman, son-in-law of Augeas, who was the first man Nestor killed in the battle by the Alpheus (11.737–746; see [[mulius]]); a Trojan whom Achilles stabs through the ear (20.472–473); and a herald from Dulichium, who mixes the wine for the suitors (*Odyssey* 18.423–424).
+Homer has three other men of the name: the Epeian spearman, son-in-law of Augeas, who was the first man Nestor killed in the battle by the Alpheus (11.737–746; see [[mulius]]); a Trojan whom Achilles stabs through the ear (20.472–473; see [[mulius-killed-by-achilles]]); and a herald from Dulichium, who mixes the wine for the suitors (*Odyssey* 18.423–424).

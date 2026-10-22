@@ -5,8 +5,8 @@ kind: object
 tags: [divine-object, weapon, art, cosmic]
 summary: The shield that Hephaestus makes for Achilles in the night after Patroclus' death, to replace the armor that Hector took. It is great and heavy, of five layers, and worked all over with the earth, the sky and the sea, two cities of men, the plowing, the harvest and the vintage, herds and a pasture, and a dance, with the river Oceanus around its rim (18.478–608).
 aliases: [Achilles' shield, shield of Achilles, the Shield, the new shield of Achilles, the shield of Hephaestus, the description of the shield]
-# Achilles takes it up (19.373-380): refs in the Book 19 note. Later: it stops the spears of Aeneas (20.259-272) and Asteropaeus (21.164-165)
-# and turns Hector's (22.290-291); Achilles comes at Hector behind it (22.313-314).
+# Refs in the book notes: Achilles takes it up (19.373-380); it stops Aeneas' spear (20.259-272, 20.289). Later: it stops the spear
+# of Asteropaeus (21.164-165) and turns Hector's (22.290-291); Achilles comes at Hector behind it (22.313-314).
 refs: [18.458, 18.478, 18.481, 18.608, 18.609]
 passages:
   - 18.478-482 | Five layers and a threefold rim
@@ -70,7 +70,7 @@ Leaf took the darkening for some shading of the gold, by alloy or by glaze, and 
 
 Achilles takes up the shield after the greaves, the corselet and the sword, and its gleam shines far like the moon, and like a fire that sailors see burning high on a mountain (19.373–380). The verse that ends the simile (19.379) is the verse of the flame from Achilles' head at the ditch, “so from the head of Achilles the blaze reached the upper air” (18.214), with σάκεος, “shield”, in place of κεφαλῆς, “head”.
 
-In the fighting the shield holds. Aeneas' spear does not break it, for the gold, the god's gift, holds the point (20.259–268), and the same verse is said of Asteropaeus' spear (21.164–165). Four verses after the first give the five layers as metals, two of bronze, two of tin inside and one of gold, and say that the spear drove through two and was stopped in the gold (20.269–272). Leaf calls them spurious, as Aristarchus did, the work of someone who took the five layers of 18.481 to be metal: put in the middle, the gold would be neither useful nor ornamental (on 20.269). He reports that the place of the gold was a favorite problem of ancient critics, that Porphyry put it in the middle and Aristarchus on the outside, and that Aristotle quotes the last verse (*Poetics* 1461a33–34; see [[the-bronze-spear-stopped]]). Hector's spear strikes the middle of the shield and rebounds (22.290–291), and Achilles comes at him with the shield, fine and intricately worked, before his chest (22.313–314).
+In the fighting the shield holds. Aeneas' spear does not break it, for the gold, the god's gift, holds the point (20.259–268), and the same verse is said of Asteropaeus' spear (21.164–165). Four verses that give the five layers as metals, two of bronze, two of tin and one of gold, with the spear stopped in the gold, were athetized by Aristarchus (20.269–272; see the note on Book 20 and [[the-bronze-spear-stopped]]). Hector's spear strikes the middle of the shield and rebounds (22.290–291), and Achilles comes at him with the shield, fine and intricately worked, before his chest (22.313–314).
 
 In the *Odyssey* the arms of Achilles, set as a prize by his mother, are judged between Ajax and Odysseus (*Odyssey* 11.543–551; see [[the-judgment-of-arms]]).
 

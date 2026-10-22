@@ -1,0 +1,5 @@
+---
+summary: In this book gods fight gods: “So gods went to meet gods” (20.75). Zeus calls them to assembly and lets them go to war (20.4–32), and “the blessed gods” bring the armies together (20.54). Hera says that “gods are hard to face when they appear in plain sight” (20.131), and Aeneas that “always at his side is one of the gods” (20.98). Zeus and “the other gods” rescued Aeneas at Lyrnessus (20.194), the gods snatched up Ganymede (20.234), and Poseidon pleads for Aeneas, who gives pleasing gifts “to the gods who hold the wide sky” (20.299).
+---
+
+Walter Leaf reports Heyne's remark on the lightness with which the gods' names are used as forms of speech: in three lines Achilles says that he sacked Lyrnessus with Athena and father Zeus and that Zeus and the other gods rescued Aeneas (20.192–194; *Commentary on the Iliad*, 1900, on 20.194). θεούς at 20.114 means only Poseidon and Athena, and θεοὶ ἄλλοι at 20.149 only the gods of the Achaean side (Leaf on 20.114, 20.149; see the translation's note on 20.114). Even the gods hate the dwellings of Hades (20.65; see [[hades]]). See [[the-battle-of-the-gods]], [[gods-and-mortals]] and [[gods-are-hard-to-face]].

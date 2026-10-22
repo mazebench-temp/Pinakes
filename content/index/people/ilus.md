@@ -3,9 +3,9 @@ title: Ilus
 greek: Ἶλος
 kind: person
 tags: [trojan, king, house-of-priam]
-summary: Son of [[Tros]] and father of [[Laomedon]], the grandfather of Priam, remembered in Homer only by his grave mound in the middle of the Trojan plain (see [[the-tomb-of-ilus]]). Later writers made him the founder of Ilios.
+summary: Son of [[Tros]] and father of [[Laomedon]], the grandfather of Priam. Homer knows him by his place in Aeneas' genealogy and by his grave mound in the middle of the Trojan plain (see [[the-tomb-of-ilus]]). Later writers made him the founder of Ilios.
 aliases: [Ilos, Ilus son of Tros]
-# Exact forms only: a stem Ἰλ- would catch Ἴλιος, Ilios. Later: Ἶλος (20.232, 20.236) and Ἴλοιο (24.349).
+# Exact forms only: a stem Ἰλ- would catch Ἴλιος, Ilios. Ἶλος (20.232, 20.236) is claimed in the Book 20 note; later Ἴλοιο (24.349).
 # Ἴλου at Od. 1.259 is Ilus son of Mermerus, of Ephyra, who will need his own id and an except here.
 grc: [Ἴλου]
 relations:
@@ -15,7 +15,7 @@ relations:
 
 ## Family
 
-Aeneas gives the line when he faces Achilles: Zeus fathered Dardanus, Dardanus Erichthonius, Erichthonius Tros, and Tros “three blameless sons, Ilus and Assaracus and godlike Ganymede”; Ilus fathered Laomedon, and Laomedon Priam and his brothers (20.215–238). Ilus is Priam's grandfather, and his brother Assaracus is the great-grandfather of Aeneas (20.239–240). See [[tros]], [[ganymede]], [[laomedon]], [[priam]] and [[dardanus]].
+Aeneas gives the line when he faces Achilles: Zeus fathered Dardanus, Dardanus Erichthonius, Erichthonius Tros, and Tros “three noble sons, / Ilus and Assaracus and godlike Ganymede” (20.231–232); Ilus fathered Laomedon, and Laomedon Priam and his brothers (20.215–238). Ilus is Priam's grandfather, and his brother [[assaracus|Assaracus]] is the great-grandfather of Aeneas (20.239–240). See [[tros]], [[ganymede]], [[laomedon]], [[priam]] and [[dardanus]].
 
 ## Descriptions
 
@@ -27,4 +27,4 @@ He is remembered by his tomb: Hector holds his night council there (10.414–416
 
 ## Outside Homer
 
-Strabo reports that Ilus was held to be the founder of Ilium, which took his name, and suggests that he was buried in the middle of the plain because he was the first to dare to live on the plain (13.1.25). In [[apollodorus|Apollodorus]] Ilus wins the wrestling at games in Phrygia and is given fifty youths, fifty maidens and a dappled cow, with an oracle to found a city where the cow lies down; it lies down on the hill of Phrygian Ate, and there he founds Ilium. He prays for a sign and finds the Palladium, fallen from heaven, before his tent (*Library* 3.12.3).
+Strabo reports that Ilus was held to be the founder of Ilium, which took his name, and suggests that he was buried in the middle of the plain because he was the first to dare to live on the plain (*Geography* 13.1.25; see [[plato-the-slopes-of-ida]]). In [[apollodorus|Apollodorus]] Ilus wins the wrestling at games in Phrygia and is given fifty youths, fifty maidens and a dappled cow, with an oracle to found a city where the cow lies down; it lies down on the hill of Phrygian Ate, and there he founds Ilium. He prays for a sign and finds the Palladium, fallen from heaven, before his tent (*Library* 3.12.3).

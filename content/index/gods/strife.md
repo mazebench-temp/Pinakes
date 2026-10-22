@@ -24,7 +24,7 @@ passages:
 
 ## Descriptions
 
-ἄμοτον μεμαυῖα, “raging without end” (4.440): ἄμοτον is “insatiably, unceasingly”, and μεμαυῖα is from μέμαα, “be eager, rage”. The half-line returns in Book 5, where Apollo, Ares and Strife stir up the toil of battle (5.517–518). Later books call her “grievous” (ἀργαλέη, 11.4), “of many groans” (πολύστονος, 11.73), and “mighty, rouser of hosts” (κρατερὴ λαοσσόος, 20.48).
+ἄμοτον μεμαυῖα, “raging without end” (4.440): ἄμοτον is “insatiably, unceasingly”, and μεμαυῖα is from μέμαα, “be eager, rage”. The half-line returns in Book 5, where Apollo, Ares and Strife stir up the toil of battle (5.517–518). Later books call her “grievous” (ἀργαλέη, 11.4), “of many groans” (πολύστονος, 11.73), and “mighty”, “who rouses armies” (κρατερὴ λαοσσόος, 20.48; see [[who-rouses-armies]]).
 
 ## Her growth
 
@@ -32,7 +32,7 @@ passages:
 
 ## Elsewhere in Homer
 
-In Book 5 she is worked into Athena's [[aegis]] with [[courage|Courage]] and [[onslaught|Onslaught]] (5.740). In Book 11 Zeus sends her to the Achaean ships “holding a portent of war in her hands”; she shouts from the ship of Odysseus, and war becomes sweeter to the Achaeans than going home (11.3–14). She rejoices as she watches the battle that follows, for she alone of the gods is present at it (11.73–74). On the shield of Achilles she moves through the fighting with Tumult and Doom (18.535), and when the gods go down to battle in Book 20, mighty Strife, rouser of hosts, rises among them (20.48).
+In Book 5 she is worked into Athena's [[aegis]] with [[courage|Courage]] and [[onslaught|Onslaught]] (5.740). In Book 11 Zeus sends her to the Achaean ships “holding a portent of war in her hands”; she shouts from the ship of Odysseus, and war becomes sweeter to the Achaeans than going home (11.3–14). She rejoices as she watches the battle that follows, for she alone of the gods is present at it (11.73–74). On the shield of Achilles she moves through the fighting with Tumult and Doom (18.535), and when the gods go down to battle in Book 20, mighty Strife, who rouses armies, rises among them (20.48; see [[the-battle-of-the-gods]]).
 
 ## Outside Homer
 

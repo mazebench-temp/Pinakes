@@ -12,7 +12,7 @@ of: [ares]
 
 ## Meaning
 
-βροτολοιγός = βροτός (“mortal”) + λοιγός (“ruin, destruction”; [[loigos]]): “ruin of mortals.” λοιγός is death on a large scale, the ruin that Apollo's plague brings on the army in Book 1. Homer gives the compound to Ares alone, thirteen times, five of them in Book 5. Outside Book 5 it serves mostly in a comparison: a hero at the height of his fury is “equal to Ares, ruin of mortals” (βροτολοιγῷ ἶσος Ἄρηϊ): Hector (Il. 11.295, 13.802), Leonteus (Il. 12.130), Achilles (Il. 20.46), and the Phaeacian Euryalus (Od. 8.115). The god's other epithets in Book 5 describe him from other sides: [[blood-stained]], [[stormer-of-walls]], [[furious]], [[baneful]], [[insatiable-of-war]], [[bronze-ares]] and [[obrimos]].
+βροτολοιγός = βροτός (“mortal”) + λοιγός (“ruin, destruction”; [[loigos]]): “ruin of mortals.” λοιγός is death on a large scale, the ruin that Apollo's plague brings on the army in Book 1. Homer gives the compound to Ares alone, thirteen times, five of them in Book 5. Outside Book 5 it serves mostly in a comparison: a hero at the height of his fury is “the equal of Ares, ruin of mortals” (βροτολοιγῷ ἶσος Ἄρηϊ): Hector (Il. 11.295, 13.802), Leonteus (Il. 12.130), Achilles (Il. 20.46), and the Phaeacian Euryalus (Od. 8.115). The god's other epithets in Book 5 describe him from other sides: [[blood-stained]], [[stormer-of-walls]], [[furious]], [[baneful]], [[insatiable-of-war]], [[bronze-ares]] and [[obrimos]].
 
 ## Use
 

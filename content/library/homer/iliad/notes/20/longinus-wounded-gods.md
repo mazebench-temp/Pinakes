@@ -1,0 +1,11 @@
+---
+summary: The critic's example of the terror of the battle of the gods is Hades leaping from his throne in fear that Poseidon will break the earth open and lay bare the dwellings of the dead, quoted after the trumpet of heaven from Book 21. He calls the passage “the Theomachy”, and his text of the second verse has ἔπειτα, “then”, where ours has ὕπερθε, “above him”.
+passages:
+  - 20.61-65 | Aidoneus leaps from his throne
+---
+
+{{quote:45bbf05c-e345-54a7-a320-d04489228937}}
+
+“Prodigious too are the images in the Theomachy”, says the author of *On the Sublime* (ὑπερφυᾶ καὶ τὰ ἐπὶ τῆς θεομαχίας φαντάσματα), and he quotes two passages as one. The first verse is from Book 21, where the gods at last come to blows and the great heaven blares like a trumpet around them; the critic completes it with Οὔλυμπός τε, “and Olympus”, where the Iliad goes on ἄϊε δὲ Ζεύς, “and Zeus heard” (21.388). Then come the five verses of Book 20 in which Aidoneus, lord of those below, leaps from his throne in fear that Poseidon will break the earth open and that his dwellings will be laid bare (20.61–65; see [[hades]] and [[poseidon]]). In W. Rhys Roberts' text of the treatise the second of them reads μή οἱ ἔπειτα, “lest then”, for our μή οἱ ὕπερθε, “lest above him” (20.62). “Do you see, my friend,” the critic goes on, “how the earth is torn up from its foundations, Tartarus itself laid bare, the whole world overturned and split apart, and all things at once, heaven and Hades, mortal and immortal, share the war and the danger of that battle?” (*On the Sublime* 9.6; see [[tartarus]]).
+
+In the poem the earthquake is Poseidon's part in the opening of the battle of the gods: Zeus thunders from on high, Poseidon shakes the earth from below, Ida and its peaks, the city and the ships are shaken, and then Aidoneus is afraid (20.56–65; see [[the-battle-of-the-gods]] and [[longinus-poseidons-advance]]). Plato had quoted the last two verses among those to be struck out of poetry (*Republic* 3.386d; see [[plato-the-terrors-of-hades]]). The critic's next words call such passages impious unless they are taken as allegory (*On the Sublime* 9.7), and his word for the episode, θεομαχία, is the traditional title of the book (see [[title-of-book-20]]).

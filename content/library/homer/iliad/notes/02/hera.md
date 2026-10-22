@@ -11,7 +11,7 @@ passages:
 
 {{quote:2ee51c7c-6e2d-51bf-81a6-2731f4973478}}
 
-ὑπέρμορα (“beyond fate”, “against fate”): the Achaeans would have gone home contrary to what was fated. It is one of the poem's “almost” moments. The narrator says what would have happened “if not” (εἰ μή) for a god, and the story is turned back onto its course. Zeus himself fears that Achilles may sack Troy “beyond fate” (20.30). See [[moira]] and [[nostos]].
+ὑπέρμορα (“beyond fate”, “against fate”): the Achaeans would have gone home contrary to what was fated. It is one of the poem's “almost” moments. The narrator says what would have happened “if not” (εἰ μή) for a god, and the story is turned back onto its course. Zeus himself fears that Achilles may sack the wall “against fate” (20.30). See [[moira]] and [[nostos]].
 
 Hera speaks at once, to Athena, not to Zeus. Her argument is Argive Helen and the Achaean dead: if the army goes home, the Trojans will keep Helen as a trophy, and the many who died for her will have died in vain (2.157–162; see [[helen]]). Athena is to hold back every man with gentle words (σοῖς ἀγανοῖς ἐπέεσσιν, 2.164). She does, through Odysseus.
 

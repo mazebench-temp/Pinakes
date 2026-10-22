@@ -18,7 +18,7 @@ passages:
 4. **Safety.** The god sets the man down somewhere safe: Paris in his own fragrant bedroom (3.382), Aeneas in Apollo's temple on Pergamus, where Leto and Artemis heal him (5.445–448).
 5. **The attacker.** The man robbed of his victory is left searching or baffled. Menelaus ranges through the crowd like a wild beast (3.449–450). Diomedes rushes at Aeneas three times, though he knows that Apollo is shielding him, until the god warns him off (5.432–444). Achilles cannot believe what he has seen (20.344–352).
 
-The gods rescue the men they favor, and the men whose time has not come. Poseidon saves Aeneas because he is fated to survive and to rule the Trojans (20.293–308). Zeus thinks of snatching his son Sarpedon alive out of the battle, and later of saving Hector, and gives way when Hera and Athena object (16.431–461, 22.166–187). Bernard Fenik studied such recurring patterns of battle narrative (*Typical Battle Scenes in the Iliad*, 1968).
+The gods rescue the men they favor, and the men whose time has not come. Poseidon saves Aeneas because he is fated to survive and to rule the Trojans (20.293–308; see [[achilles-and-aeneas]]). Zeus thinks of snatching his son Sarpedon alive out of the battle, and later of saving Hector, and gives way when Hera and Athena object (16.431–461, 22.166–187). Bernard Fenik studied such recurring patterns of battle narrative (*Typical Battle Scenes in the Iliad*, 1968).
 
 {{notes}}
 

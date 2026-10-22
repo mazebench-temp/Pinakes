@@ -28,7 +28,7 @@ passages:
 
 Twice in the Iliad a warrior asked who he is answers with his lineage, in the same verses. Glaucus tells Diomedes, “if you wish to learn this too, so that you may know well our lineage, and many men know it” (6.150–151), and Aeneas says the same two lines to Achilles before he recites the descendants of Dardanus (20.213–214). Both end with the same claim, “this is the lineage and the blood I claim” (6.211 = 20.241). A third man begins with Glaucus' question: when Achilles asks the Paeonian Asteropaeus who he is, Asteropaeus answers, “Great-hearted son of Peleus, why do you ask about my lineage?” (21.153), names his grandfather, the river Axius, and dies (21.157–183). Glaucus is spared for his lineage, and Asteropaeus is killed after reciting his; Achilles, boasting over his body, declares the race of Zeus stronger than the race of rivers (21.184–191). See [[genealogy-in-battle]], [[glaucus-and-diomedes]] and [[fathers-and-sons]].
 
-A lineage can also end. Poseidon saves Aeneas from Achilles “so that the race of Dardanus may not perish without seed”, since Zeus now hates “the race of Priam” (20.303–306).
+A lineage can also end. Poseidon saves Aeneas from Achilles “so that the lineage may not perish without seed and without a trace, / the lineage of Dardanus”, since the son of Cronus “has come to hate the lineage of Priam” (20.303–306).
 
 {{notes}}
 

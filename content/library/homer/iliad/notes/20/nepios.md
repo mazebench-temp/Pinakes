@@ -1,0 +1,7 @@
+---
+summary: The narrator calls Achilles himself a fool when he fears Aeneas' spear, “the fool, nor did he consider in his mind and in his heart / that the glorious gifts of the gods are not easy / for mortal men to master” (20.264–266), and Tros, son of Alastor, when he begs for his life, “the fool, and he did not know that the other would not be persuaded” (20.466). Poseidon calls Aeneas a fool for obeying Apollo (20.296), and Polydorus dies through his speed, “in his childishness” (20.411). In speeches Achilles warns Aeneas that “a fool learns a thing once it is done” (20.198), Aeneas and Hector will not be frightened “as if I were a child” (20.200, 20.431), and Aeneas will not part from Achilles with “childish words” or go on talking “like children” (20.211, 20.244).
+grc: [νηπύτιον, νηπυτίοισιν]
+en: [childish, childishness]
+---
+
+The narrator's “fool” usually marks a man who does not know what the gods have in store, and here it is given once to the greatest of the Achaeans. 20.466 is the verse with which Nestor tells of Agamemnon, who hoped to win Athena over with sacrifices (*Odyssey* 3.146), and Walter Leaf suspects 20.463–468 (*Commentary on the Iliad*, 1900, on 20.463; see the translation's note on 20.463–468). νηπύτιος, which Leaf explains as in-fans, the infant who cannot yet speak (on 20.200), is found eight times in Books 20 and 21 and elsewhere in Homer only at 13.292, the verse that Aeneas repeats at 20.244 (Leaf on 20.244). See [[a-fool-learns-once-it-is-done]], [[childhood]] and [[children-and-widows]].

@@ -1,0 +1,6 @@
+---
+summary: Fate is named at every turn of the duel. Zeus fears that Achilles “may even sack the wall against fate” (ὑπέρμορον, 20.30); Poseidon says that “it is fated for him to escape” (μόριμον, 20.302), warns Aeneas to draw back from Achilles “lest you come to the house of Hades even beyond your portion” (ὑπὲρ μοῖραν, 20.336), and bids him fight among the foremost only “when Achilles has met his death and his fate” (20.337). Echeclus' eyes are seized “by purple death and mighty fate” (20.477).
+grc: [μόριμον, ὑπέρμορον, πότμον]
+---
+
+Most ancient grammarians read one word, ὑπέρμορον, as ὑπέρμορα at 2.155; Walter Leaf thinks the familiar ὑπὲρ αἶσαν favors dividing it, ὑπὲρ μόρον, and the sense is the same (*Commentary on the Iliad*, 1900, on 20.30); the poem allows that a thing may happen, or nearly happen, beyond what is fated (2.155, 16.780, 17.321; see the translation's notes on 6.487 and 20.30). μόριμον is found only here in Homer, and most manuscripts have the unmetrical μόρσιμον (Leaf on 20.302). θάνατον καὶ πότμον ἐπίσπῃ is a formula of the dying (2.359, 15.495), and Poseidon uses it of Achilles' own death (20.337; see [[the-short-life-of-achilles]]). Echeclus' death repeats two verses of the death of Cleobulus at the hands of the lesser Ajax (20.476–477 = 16.333–334; see [[purple-death]]). See [[aisa]] and [[no-man-escapes-his-fate]].

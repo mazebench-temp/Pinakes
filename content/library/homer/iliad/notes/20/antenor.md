@@ -1,0 +1,5 @@
+---
+summary: Antenor is named once, as the father of Demoleon, “a brave defender against battle, the son of Antenor”, whom Achilles stabs through the helmet, the last of Antenor's sons to die in the Iliad (20.395–400).
+---
+
+Ἀντήνορος υἱὸν, “the son of Antenor” (20.396; see [[son-of-antenor]] and [[demoleon]]). Demoleon is the second man Achilles kills when he returns to the battle, after Iphition (20.381–400; see [[achilles]]). He is the last of Antenor's sons to fall in the Iliad: Meges killed the bastard Pedaeus (5.69–75), Agamemnon killed Iphidamas and Coon (11.221–263), Ajax' spear meant for Polydamas killed Archelochus (14.459–464), Ajax killed Laodamas (15.516–517), and Meriones killed an Acamas who is taken for Antenor's son (16.342–344; see [[pedaeus]], [[iphidamas]], [[coon]], [[archelochus]], [[laodamas]] and [[acamas]]). Agenor, whom Apollo saves from Achilles in the next book, survives (21.595–611; see [[agenor]]). The Agenor whose son Echeclus Achilles kills later in this book is not said to be Antenor's son (20.474; see [[agenor-father-of-echeclus]]).

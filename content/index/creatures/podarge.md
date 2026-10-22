@@ -22,6 +22,8 @@ passages:
 
 Podarge is named twice. When Automedon yokes the horses of Achilles for Patroclus, the poem gives their descent: “Xanthus and Balius, who flew as fast as the winds, / whom the Harpy Podarge bore to the West Wind / as she grazed in a meadow beside the stream of Oceanus” (16.149–151; see [[the-horses-of-achilles]], [[harpies]], [[zephyrus]] and [[oceanus]]). When Achilles himself drives out, he calls them “far-famed children of Podarge” (19.400). A Harpy is a snatching wind, and she grazes like a mare by the river at the edge of the world; her foals by the West Wind run as fast as the winds. The North Wind sired horses in the same way, lying with the mares of Erichthonius in the likeness of a stallion as they grazed (20.221–229; see [[boreas]]).
 
+The North Wind did the same with the mares of Erichthonius, and their foals ran over the ears of grain without breaking them (20.221–229; see [[the-mares-of-erichthonius]]).
+
 {{notes}}
 
 ## Outside Homer

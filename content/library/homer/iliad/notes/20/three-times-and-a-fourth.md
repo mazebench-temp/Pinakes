@@ -1,0 +1,5 @@
+---
+summary: Apollo snatches Hector away in mist; three times Achilles springs at him and strikes the deep mist, and at the fourth, “like a god,” he shouts after him (20.443–454).
+---
+
+“Three times then brilliant swift-footed Achilles sprang at him / with his bronze spear, and three times he struck the deep mist. / But when for the fourth time he rushed on like a god, / he shouted at him terribly and addressed him with winged words” (20.445–448). Of the four uses of the full pattern this is the only one in which no god speaks or strikes at the fourth assault (see the entry): Apollo has done his work already, and the fourth charge ends in Achilles' own speech, which repeats Diomedes' words to Hector in Book 11 (20.449–454 = 11.362–367). Walter Leaf reports that most manuscripts omit 447 and thinks it was added from the three parallel passages, in which the fourth onset brings the god's intervention (*Commentary on the Iliad*, 1900, on 20.444; see the translation's note on 20.447). See [[like-a-god]], [[winged-words]] and [[divine-rescue]].

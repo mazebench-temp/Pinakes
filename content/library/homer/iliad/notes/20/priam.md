@@ -1,0 +1,15 @@
+---
+summary: Priam does not appear in the book. Achilles taunts Aeneas that Priam, who has sons, will never hand him his honor; Aeneas names him in his genealogy as Laomedon's son and Hector's father; Poseidon says that Zeus has come to hate his lineage; and his youngest son, Polydorus, whom he would not let fight, is killed by Achilles (20.179–183, 20.237–240, 20.306, 20.407–418).
+---
+
+**The honor of Priam.** Achilles asks Aeneas why he has come out so far from the throng:
+
+{{quote:f7e2cbe5-7e82-5be2-a10f-d4172b8347c5}}
+
+τιμῆς τῆς Πριάμου, “with the honor of Priam” (20.181): Walter Leaf explains it as “to be master of Priam's dignity among the Trojans”, and calls the construction late (*Commentary on the Iliad*, 1900, on 20.180; see [[time]]). Priam “will not put the prize in your hand for that; / for he has sons, and he is steady, and not light of mind” (20.182–183; see [[geras]] and the translation's note on 20.183). Aristarchus athetized 180–186 as mean in style and thought and unworthy of Achilles (Leaf on 20.180). The taunt touches an old grievance: in Book 13 Aeneas stood at the back of the throng, “always nursing wrath against brilliant Priam, / because, brave as he was among men, Priam did not honor him at all” (13.460–461), and Leaf points out that Aeneas' pretensions to the throne are explained by the genealogy he now gives (on 20.180; see [[aeneas]] and [[achilles-and-aeneas]]).
+
+**In the genealogy.** “And Laomedon fathered Tithonus and Priam”, and “Priam brilliant Hector” (20.237, 20.240; see [[laomedon]] and [[hector]]). Priam is of the branch of Ilus and Anchises of the branch of Assaracus, both great-grandsons of Tros, so that Hector and Aeneas are of the same generation (20.231–240; see [[ilus]], [[assaracus]], [[anchises]] and [[tros]]).
+
+**The lineage of Priam.** Poseidon tells the gods that Aeneas is fated to escape, so that the lineage of Dardanus may not perish, “For already the son of Cronus has come to hate the lineage of Priam; / and now mighty Aeneas shall be lord over the Trojans” (20.306–307; see [[dardanus]], [[genee]] and [[the-rule-of-aeneas]]). Leaf takes the aorist ἔχθηρε as “a petulant expression”, “has come to hate”, referring to Zeus' recent decision to let the war take its course (on 20.306). In Book 4 Zeus had said that of all the cities of men, “sacred Ilios was the most honored in my heart, / and Priam, and the people of Priam of the good ash spear” (4.46–47; see [[zeus]] and [[troy]]).
+
+**His sons.** Achilles longs to meet “Hector, … / son of Priam” (20.76–77); Apollo takes the voice of “Priam's son Lycaon”, and Aeneas answers him as “Son of Priam” (20.81, 20.87; see [[lycaon-son-of-priam]] and [[son-of-priam]]). Polydorus, “son of Priam”, is the first of them to die at Achilles' hands. “His father would not let him fight at all, / because he was the youngest born among his children, / and the dearest to him” (20.408–410); showing off his speed, he rushes through the champions and is struck in the back, and Hector sees his brother fall (20.407–420; see [[polydorus-son-of-priam]] and [[sons-of-priam]]).

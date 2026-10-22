@@ -24,7 +24,7 @@ Sarpedon supplies the cause.
 
 {{quote:d6044c66-71e8-5a17-93fe-509749bb8127}}
 
-Heracles had done Laomedon a good turn (εὖ ἕρξαντα), and the king repaid him with harsh words and did not hand over (ἀπέδωκε, “give what is due”) the horses he had come for (see [[laomedon]]). What the service was, the Iliad does not say. It does mention the sea monster from which Heracles was sheltered. When the gods gather to watch the fighting in Book 20, Poseidon leads his party to “the high wall of godlike Heracles”, which the Trojans and Pallas Athena built for him so that he could escape the monster (κῆτος) when it rushed from the shore onto the plain (20.144–148).
+Heracles had done Laomedon a good turn (εὖ ἕρξαντα), and the king repaid him with harsh words and did not hand over (ἀπέδωκε, “give what is due”) the horses he had come for (see [[laomedon]]). What the service was, the Iliad does not say. It does mention the sea monster from which Heracles was sheltered. When the gods sit apart from the fighting in Book 20, Poseidon leads his party “to the heaped-up wall of divine Heracles, / the high wall, which the Trojans and Pallas Athena / had made for him, so that he might slip away and escape the sea monster / whenever it chased him from the shore toward the plain” (20.145–148; see [[the-wall-of-heracles]] and [[sea-beasts]]).
 
 The Iliad does not say which horses they were, but Laomedon owned the famous breed that Zeus gave his grandfather Tros as the price of Ganymede, “the best of all horses under the dawn and the sun”, and Anchises bred a strain from it without his knowledge (5.265–273; see [[ganymede-and-the-horses-of-tros]] and [[anchises-steals-the-horses]]). Apollodorus makes the horses Heracles was promised the ones Zeus gave for Ganymede (2.5.9).
 

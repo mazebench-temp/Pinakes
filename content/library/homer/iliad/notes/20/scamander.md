@@ -1,0 +1,12 @@
+---
+summary: The river of Troy goes to war among the gods as Xanthus, on the Trojan side, and in the pairs of gods is set against Hephaestus, “the great deep-eddying river, / whom the gods call Xanthus, and men Scamander”.
+# Ξάνθος at 20.40 and Ξάνθον at 20.74 are this river, by its gods' name: phrases within the line, since Ξάνθον is also
+# the Lycian river (6.172), Achilles' horse (16.149) and Phaenops' son (5.152). xanthus-son-of-phaenops excepts both lines.
+grc: ["Ξάνθός τε", "Ξάνθον καλέουσι"]
+---
+
+**Among the gods.** The river goes to war among the gods who go to the Trojans, under the name the gods give it: “and Leto and Xanthus and laughter-loving Aphrodite” (20.40; see [[the-battle-of-the-gods]]). In the pairs that follow it is set against Hephaestus: “and against Hephaestus the great deep-eddying river, / whom the gods call Xanthus, and men Scamander” (20.73–74; see [[hephaestus]], [[language-of-gods-and-men]] and [[deep-eddying]]). Walter Leaf sees no principle in the pairing except here, fire against water (*Commentary on the Iliad*, 1900, on 20.67). The river comes to the gods' assembly with the rest: “And not one of the rivers was absent, except Oceanus” (20.7; see [[rivers]] and [[oceanus]]). Leaf reports Heyne's view that the presence of rivers and nymphs at a council of the gods is stranger than Oceanus' absence, and that 7–9 may have been added to account for the river among the gods in the battle (on 20.7; see the translation's note on 20.7–9).
+
+**Two names.** Elsewhere the poem uses the gods' name of the river without comment: the battle surges “between the streams of the Simoeis and the Xanthus” (6.4), and the Trojans carry the stunned Hector to the ford of “the eddying Xanthus, whom immortal Zeus begot” (14.433–434). Leaf suggests that both names may be attempts to give Greek form to a foreign name hard to pronounce, something like *Ksamnd-*, and that Σιμοεντ-, the Simoeis, may be another rendering of the same stem (on 20.74, referring to his note on 1.403; see [[simoeis]]). Plato's Socrates asks why it is more correct to call the river Xanthus, the gods' name, than Scamander (*Cratylus* 391e–392a; see [[plato-chalcis-and-cymindis]]).
+
+**In Book 21.** The river fights as a god. It rises against Achilles, who has choked it with the dead, and calls on its brother the Simoeis for help (21.136–327); Hera sets Hephaestus on it, and when it is burned it yields and swears never to ward off the evil day from the Trojans, in the words of Hera's own oath in Book 20 (21.328–382; 20.313–317; see [[hera]]).

@@ -5,7 +5,8 @@ kind: god
 tags: [child-of-zeus, woman]
 summary: Goddesses of springs and rivers, mountains, meadows and groves, in Homer the daughters of [[Zeus]]. They bear sons to mortal men, honor the dead, and receive prayers and offerings at springs and in caves.
 aliases: [nymph, Naiads, Naiad, Oreads, mountain nymphs, nymphai]
-grc: [νύμφη, νύμφαι, "=νηῒς"]
+# νυμφάων (20.8, 24.616; Od. 6.123, 13.104, 13.348, 17.211) is always the goddesses in Homer.
+grc: [νύμφη, νύμφαι, νυμφάων, "=νηῒς"]
 en: [nymph, nymphs, mountain nymphs, Naiad]
 relations:
   - father: zeus (6.420)
@@ -29,7 +30,7 @@ Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο,
 
 **Mothers of warriors.** In the Iliad nymphs are the mothers of men from the Troad and Asia Minor, born beside rivers and lakes to fathers who kept herds. Satnius was the son of “a noble Naiad nymph” and of Enops, who herded cattle on the banks of the Satnioeis (14.443–445; see [[satnius]], [[enops]] and [[satnioeis]]). Iphition's mother was a Naiad, and he was born beneath snowy Tmolus (20.382–385; see [[tmolus]]). The Gygaean lake bore the Maeonian leaders Mesthles and Antiphus (2.864–865; see [[gygaean-lake]]). All of them fight for Troy, and Satnius and Iphition, like the sons of Abarbarea, fall to Achaean spears.
 
-**Among the gods.** When Zeus calls the gods to assembly in Book 20, no river stays away but Oceanus, nor any of the nymphs “who haunt the lovely groves and the springs of rivers and the grassy meadows” (20.7–9). Niobe, turned to stone, broods on her sorrows on Sipylus, where, men say, the nymphs who dance around the Achelous have their resting places (24.614–617).
+**Among the gods.** When Zeus calls the gods to assembly in Book 20, no river stays away but Oceanus, nor any of the nymphs “who dwell in the lovely groves / and the springs of rivers and the grassy meadows” (20.7–9). Niobe, turned to stone, broods on her sorrows on Sipylus, where, men say, the nymphs who dance around the Achelous have their resting places (24.614–617).
 
 **Worship.** At the head of the harbor of Ithaca is a cave sacred to the Naiads, with bowls and jars of stone where bees store honey, and stone looms on which the nymphs weave sea-purple cloth; one of its two doors is for men, the other for the gods (Od. 13.102–112). Odysseus used to offer them hecatombs there, and when he comes home he prays to them and promises gifts again (Od. 13.347–360). Eumaeus sets aside a share of the feast for the nymphs and Hermes (Od. 14.435–436), and prays to the nymphs at the town's spring, where every traveler made offerings at their altar (Od. 17.204–211, 17.240–246).
 

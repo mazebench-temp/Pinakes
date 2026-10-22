@@ -22,7 +22,7 @@ relations:
 
 Son of [[Anchises]] and [[Aphrodite]], born "on the slopes of Ida" ([[aphrodite-and-anchises]]). ἐῢς πάϊς Ἀγχίσαο, "the brave son of Anchises": ἐΰς means "good, brave", and πάϊς is the old two-syllable form of παῖς, "child".
 
-Through Anchises he belongs to the royal line of Troy, in a branch parallel to Priam's. He gives the genealogy himself in Book 20 (20.215–240): Zeus fathered Dardanus, and Dardanus' grandson Tros had three sons. From one of them, Ilus, came Laomedon and Priam; from another, Assaracus, came Capys, Anchises and Aeneas.
+Through Anchises he belongs to the royal line of Troy, in a branch parallel to Priam's. He gives the genealogy himself in Book 20 (20.215–240; see [[genealogy-in-battle]]): Zeus fathered Dardanus, and Dardanus' grandson Tros had three sons. From one of them, Ilus, came Laomedon and Priam; from another, Assaracus, came Capys, Anchises and Aeneas.
 
 ## Descriptions
 
@@ -34,8 +34,8 @@ He leads the [[Dardanians]], the second contingent of the Trojan catalogue after
 
 ## Elsewhere in Homer
 
-The gods rescue Aeneas twice. In Book 5 Diomedes crushes his hip with a stone. Aphrodite carries him off, and when she too is wounded, Apollo takes him to his temple on Pergamus to be healed, leaving a phantom of him on the field (5.297–453). In Book 20 Apollo urges him against Achilles. Poseidon saves him, because he is fated to survive "so that the race of Dardanus may not perish", and foretells that "the might of Aeneas will rule among the Trojans, and his children's children after him" (20.302–308). Between these rescues he fights well, but he is not content. He resents Priam, who does not honor him as he deserves (13.460–461), and Achilles taunts him with hoping for Priam's throne (20.178–186).
+The gods rescue Aeneas twice. In Book 5 Diomedes crushes his hip with a stone. Aphrodite carries him off, and when she too is wounded, Apollo takes him to his temple on Pergamus to be healed, leaving a phantom of him on the field (5.297–453). In Book 20 Apollo urges him against Achilles, and Poseidon saves him, because he is fated to survive, “so that the lineage may not perish without seed and without a trace, / the lineage of Dardanus”; and Poseidon foretells that “now mighty Aeneas shall be lord over the Trojans, / and his children's children, who will be born hereafter” (20.302–308; see [[achilles-and-aeneas]] and [[the-rule-of-aeneas]]). Between these rescues he fights well, but he is not content. He resents Priam, who does not honor him as he deserves (13.460–461), and Achilles taunts him with hoping to rule the Trojans “with the honor of Priam” (20.178–186).
 
 ## Outside Homer
 
-The *Hymn to Aphrodite* repeats the prophecy of his rule (196–197). In the *Iliupersis*, as Proclus summarizes it, Aeneas and his people withdraw to Mount Ida after the omen of Laocoön's serpents, before the city falls. Livy begins his history with the Achaeans sparing Aeneas and Antenor, because of old ties of hospitality and because both had always urged peace and the return of Helen (1.1.1). Later legend took Aeneas west. In Virgil's *Aeneid* he carries his father on his shoulders out of burning Troy (2.707–708) and becomes the ancestor of the Romans.
+The *Hymn to Aphrodite* repeats the prophecy of his rule (196–197; see [[the-rule-of-aeneas]]). In the *Iliupersis*, as Proclus summarizes it, Aeneas and his people withdraw to Mount Ida after the omen of Laocoön's serpents, before the city falls. Livy begins his history with the Achaeans sparing Aeneas and Antenor, because of old ties of hospitality and because both had always urged peace and the return of Helen (1.1.1). Later legend took Aeneas west. In Virgil's *Aeneid* he carries his father on his shoulders out of burning Troy (2.707–708) and becomes the ancestor of the Romans.

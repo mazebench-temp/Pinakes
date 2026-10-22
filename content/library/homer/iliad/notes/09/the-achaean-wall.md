@@ -7,7 +7,7 @@ passages:
   - 9.346-355 | Achilles on the wall and the ditch
 ---
 
-**The sentries.** Nestor proposes that the sentries “spend the night beside the ditch they have dug, outside the wall” (9.67; see [[night-watch]] and [[dug]]), and the seven companies go out and sit “midway between the ditch and the wall”, where they light their fires and make their supper (9.87–88). That afternoon the Trojans had penned the Achaeans inside the ditch (8.213–215); now the guards hold it against them. The verse of 9.67 returns when Athena shouts “beside the ditch they have dug, outside the wall” as the gods go into battle (20.49).
+**The sentries.** Nestor proposes that the sentries “spend the night beside the ditch they have dug, outside the wall” (9.67; see [[night-watch]] and [[dug]]), and the seven companies go out and sit “midway between the ditch and the wall”, where they light their fires and make their supper (9.87–88). That afternoon the Trojans had penned the Achaeans inside the ditch (8.213–215); now the guards hold it against them. The verse of 9.67 returns when Athena shouts, “standing now beside the ditch they had dug, outside the wall”, as the gods go into battle (20.49).
 
 **The camp beside it.** Odysseus tells Achilles where the danger lies: “For near the ships and the wall they have pitched their camp, the high-hearted Trojans and their far-famed allies” (9.232–233), with their fires burning through the army (9.234).
 

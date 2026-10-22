@@ -1,0 +1,9 @@
+---
+summary: The rivers come to the assembly of the gods in the house of Zeus, all of them except Oceanus, and the river of Troy goes to war among the gods as Xanthus and is set against Hephaestus.
+---
+
+**At the assembly.** When Themis calls the gods to the house of Zeus, “not one of the rivers was absent, except Oceanus, / nor any of the nymphs who dwell in the lovely groves / and the springs of rivers and the grassy meadows” (20.7–9; see [[themis-the-goddess]], [[oceanus]] and [[nymphs]]). The rivers are gods with the rest, as they are when Agamemnon calls them to witness an oath (3.278). Walter Leaf reports Heyne's view that the presence of rivers and nymphs at a council of the gods is stranger than Oceanus' absence, and that 7–9 may have been added to account for the Scamander among the gods in the battle (*Commentary on the Iliad*, 1900, on 20.7; see the translation's note on 20.7–9). The last verse, καὶ πηγὰς ποταμῶν καὶ πίσεα ποιήεντα, “and the springs of rivers and the grassy meadows”, recurs in the *Odyssey* after another verse on the nymphs (*Odyssey* 6.123–124), and the *Homeric Hymn to Aphrodite* has 8–9 almost word for word (*Hymn to Aphrodite* 97–99; Leaf on 20.8).
+
+**The river at war.** The river of Troy goes with the gods who help the Trojans, “and Leto and Xanthus” (20.40), and in the pairs “against Hephaestus the great deep-eddying river, / whom the gods call Xanthus, and men Scamander” (20.73–74; see [[scamander]], [[hephaestus]] and [[deep-eddying]]). ποταμὸς βαθυδίνης, “the deep-eddying river”, is how Book 21 names the river when it speaks in anger to Achilles and to Apollo (21.212, 21.228), and Hera fears that μέγας ποταμὸς βαθυδίνης, the words of this verse, will sweep Achilles away (21.329).
+
+**The rivers of Lydia.** In his boast over Iphition Achilles names the rivers of his homeland: “by the fish-filled Hyllus and the eddying Hermus” (20.392; see [[iphition]], [[gygaean-lake]], [[fish-filled]] and [[eddying]]).

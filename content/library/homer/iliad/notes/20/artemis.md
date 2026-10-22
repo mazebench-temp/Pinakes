@@ -1,0 +1,7 @@
+---
+summary: Artemis goes to the Trojans with her brother Apollo and her mother Leto, and in the pairs of gods she is set against Hera, “she of the golden distaff, the clamorous / Artemis of the showering arrows, sister of the Far-Shooter”.
+---
+
+“And to the Trojans went Ares of the gleaming helmet, and with him / Phoebus of the unshorn hair, and Artemis of the showering arrows, / and Leto and Xanthus and laughter-loving Aphrodite” (20.38–40; see [[the-battle-of-the-gods]], [[apollo]], [[leto]] and [[of-the-showering-arrows]]). In the pairs, “against Hera stood she of the golden distaff, the clamorous / Artemis of the showering arrows, sister of the Far-Shooter” (20.70–71; see [[hera]], [[of-the-golden-distaff]] and [[clamorous]]). χρυσηλάκατος κελαδεινή is the title under which she was named in Book 16, where Hermes fell in love with Polymele as she danced in the chorus of Artemis (16.181–183), and κασιγνήτη ἑκάτοιο, “sister of the Far-Shooter”, names her by her brother (see [[hekatos]]).
+
+Walter Leaf observes that Hermes, Hephaestus, Artemis and Leto are new to the war, and take no part in it outside this book and the next (*Commentary on the Iliad*, 1900, on 20.35). They have not fought, but they have not been idle: Artemis and Leto healed Aeneas in Apollo's temple on Pergamus (5.445–448), and Hephaestus saved a son of his priest Dares in the first battle (5.9–24). In Book 21 the pair meet: Hera seizes Artemis by the wrists, beats her about the ears with her own bow, smiling, and Artemis flies weeping to her father's knees (21.479–513).

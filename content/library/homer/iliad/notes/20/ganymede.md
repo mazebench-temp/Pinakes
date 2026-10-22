@@ -1,0 +1,7 @@
+---
+summary: Ganymede is the third son of Tros in Aeneas' genealogy, the most beautiful of mortal men, whom the gods snatched up to pour wine for Zeus and to dwell among the immortals (20.232–235).
+---
+
+Ἶλός τʼ Ἀσσάρακός τε καὶ ἀντίθεος Γανυμήδης, “Ilus and Assaracus and godlike Ganymede” (20.232): he is named last of the three sons of Tros, and he alone has an epithet, ἀντίθεος, “godlike” (see [[tros]] and [[godlike]]). The next verse praises him as the genealogy praised his grandfather Erichthonius, with beauty in place of wealth: ὃς δὴ κάλλιστος γένετο θνητῶν ἀνθρώπων, “who was the most beautiful of mortal men” (20.233; compare 20.220; see [[erichthonius]]). His brothers carry the line on (20.236–240; see [[ilus]] and [[assaracus]]). Ganymede leaves it, for the gods took him “to pour wine for Zeus, / for the sake of his beauty, so that he might dwell among the immortals” (20.234–235; see [[cupbearing]]). Book 5 told what Zeus gave his father in return (5.265–267; see [[ganymede-and-the-horses-of-tros]]).
+
+Walter Leaf reports that Döderlein read ἀνηρέψαντο for ἀνηρείψαντο, “snatched up”, from the root of ἁρπάζω, “snatch”, and that Aristarchus rejected 235 in the Odyssey, where it recurs, but kept it here (*Commentary on the Iliad*, 1900, on 20.234, 20.235; see the translation's notes on 20.234 and 20.235). Aristotle cites the verse among the problems solved by the custom of the language: Ganymede “pours wine for Zeus”, though the gods do not drink wine (*Poetics* 25, 1461a29–31; see [[aristotle-wine-of-the-gods]]).

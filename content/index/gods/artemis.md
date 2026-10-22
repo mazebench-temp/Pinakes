@@ -18,7 +18,7 @@ relations:
 
 ## Family
 
-Daughter of [[Zeus]] and [[Leto]], and “the sister of the Far-Shooter” (κασιγνήτη ἑκάτοιο, 20.71; see [[apollo]]). When Hera has beaten her in the battle of the gods, she flies weeping to Olympus and sits on her father's knees, while Leto gathers up the bow and arrows she dropped and goes after “her daughter” (21.502–510). Niobe, who boasted that Leto had borne only two children, lost her twelve to the two of them (24.602–609).
+Daughter of [[Zeus]] and [[Leto]], and “sister of the Far-Shooter” (κασιγνήτη ἑκάτοιο, 20.71; see [[apollo]]). When Hera has beaten her in the battle of the gods, she flies weeping to Olympus and sits on her father's knees, while Leto gathers up the bow and arrows she dropped and goes after “her daughter” (21.502–510). Niobe, who boasted that Leto had borne only two children, lost her twelve to the two of them (24.602–609).
 
 ## Descriptions
 
@@ -36,7 +36,7 @@ Daughter of [[Zeus]] and [[Leto]], and “the sister of the Far-Shooter” (κα
 
 Her gift does not save him from Menelaus' spear (see [[scamandrius]]). Hera tells her to kill wild beasts in the mountains rather than fight her betters (21.485–486), and the Odyssey pictures her on Taygetus or Erymanthus, delighting in boars and swift deer (*Odyssey* 6.102–108). She sent the boar on Calydon when Oeneus forgot her at the harvest offerings (9.533–540; see [[the-death-of-meleager]]).
 
-**On the Trojan side.** With Leto she heals Aeneas in Apollo's temple on Pergamus (5.445–448; see [[pergamus]]). In the battle of the gods she comes to the Trojans with Apollo and Leto (20.38–40) and faces Hera, who seizes her by the wrists and beats her about the ears with her own bow (21.470–496). Her flight repeats Aphrodite's in Book 5: hurt in battle, she goes up to Olympus to a parent's knees, and Zeus asks her Dione's question, “Who of the heavenly gods has done such things to you, dear child?” (21.509–510 = 5.373–374; see [[aphrodite]]).
+**On the Trojan side.** With Leto she heals Aeneas in Apollo's temple on Pergamus (5.445–448; see [[pergamus]]). In the battle of the gods she comes to the Trojans with Apollo and Leto (20.38–40; see [[the-battle-of-the-gods]]) and faces Hera, who seizes her by the wrists and beats her about the ears with her own bow (21.470–496). Her flight repeats Aphrodite's in Book 5: hurt in battle, she goes up to Olympus to a parent's knees, and Zeus asks her Dione's question, “Who of the heavenly gods has done such things to you, dear child?” (21.509–510 = 5.373–374; see [[aphrodite]]).
 
 ## Outside Homer
 

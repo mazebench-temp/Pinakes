@@ -36,7 +36,7 @@ Other phrases give him the qualities of war: “the hateful work of Ares” (σ�
 
 ## Mythology
 
-Ares takes the Trojan side in the Iliad. Diomedes wounds him with Athena's help, and he goes up to Olympus roaring, where Zeus calls him the most hateful of the gods (5.855–898). In the battle of the gods Athena fells him with a stone (21.391–414). On the shield of Achilles he leads the sortie from a besieged city with Athena, both of gold and taller than the men (18.516–519). His companions in battle are Deimos and Phobos, “Terror” and “Rout” (4.440, 15.119; see [[terror]] and [[rout]]). In the Odyssey the singer Demodocus tells how Hephaestus caught him in bed with Aphrodite (*Odyssey* 8.266–366).
+Ares takes the Trojan side in the Iliad. Diomedes wounds him with Athena's help, and he goes up to Olympus roaring, where Zeus calls him the most hateful of the gods (5.855–898). In the battle of the gods Athena fells him with a stone (21.391–414; see [[the-battle-of-the-gods]]). On the shield of Achilles he leads the sortie from a besieged city with Athena, both of gold and taller than the men (18.516–519). His companions in battle are Deimos and Phobos, “Terror” and “Rout” (4.440, 15.119; see [[terror]] and [[rout]]). In the Odyssey the singer Demodocus tells how Hephaestus caught him in bed with Aphrodite (*Odyssey* 8.266–366).
 
 ## Outside Homer
 

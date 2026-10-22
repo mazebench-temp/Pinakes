@@ -7,7 +7,8 @@ summary: “Deep,” an epithet of the [[sea]].
 aliases: [bathys]
 grc: [βαθεῖαν]
 # κατὰ φρένα τύψε βαθεῖαν (19.125): "struck him deep in his heart".
-except: [7.341, 7.440, 19.125]
+# ἠέρα τύψε βαθεῖαν (20.446): Achilles strikes the deep mist.
+except: [7.341, 7.440, 19.125, 20.446]
 en: [deep]
 of: [sea]
 ---

@@ -12,7 +12,7 @@ of: [hector]
 
 ## Meaning
 
-κορυθαίολος = κόρυς (“helmet”) + αἰόλος (“quick-moving; glittering, shimmering”): “with a helmet that flashes,” or “with a nodding, shaking helmet.” αἰόλος joins the ideas of quick movement and changing light, and the helmet's crest both tosses and gleams. The epithet belongs to Hector: of its thirty-nine uses in the Iliad, all but one are his, most often in the formula μέγας κορυθαίολος Ἕκτωρ. The exception is Ares, who goes over to the Trojans “with gleaming helmet” in Book 20 (Il. 20.38).
+κορυθαίολος = κόρυς (“helmet”) + αἰόλος (“quick-moving; glittering, shimmering”): “with a helmet that flashes,” or “with a nodding, shaking helmet.” αἰόλος joins the ideas of quick movement and changing light, and the helmet's crest both tosses and gleams. The epithet belongs to Hector: of its thirty-nine uses in the Iliad, all but one are his, most often in the formula μέγας κορυθαίολος Ἕκτωρ. The exception is Ares, who goes over to the Trojans in Book 20: “And to the Trojans went Ares of the gleaming helmet” (Il. 20.38).
 
 ## Use
 

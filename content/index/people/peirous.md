@@ -13,8 +13,8 @@ en: [Peirous]
 
 ἥρως, "the hero" ([[heros]]).
 
+## Family
+
+He is Ἰμβρασίδης, “son of Imbrasus” (4.520; see [[imbrasus]]). The index takes him also for the father of the Thracian Rhigmus, whom Achilles kills, “the noble son of Peirous” (Πείρεω υἱὸν, 20.484), though the poem does not say that they are one man (see [[rhigmus]]).
+
 {{notes}}
-
-## Elsewhere in Homer
-
-In Book 20 Achilles kills a Thracian, Rhigmus, "the noble son of Peireos", who "had come from fertile Thrace" (20.484–485). Peireos may be another form of the same name, and Rhigmus the son of this Peirous; the poem does not say.

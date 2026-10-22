@@ -11,7 +11,7 @@ en: [ravening]
 
 ## Meaning
 
-μαλερός is of uncertain origin; it means “fierce, violent,” and Homer uses it only of fire. It occurs three times. Besides Hector's threat here, it comes twice in the same oath. Hera tells Poseidon that she and Athena have sworn never to ward off the evil day from the Trojans, “not even when all Troy burns with ravening fire, and the warlike sons of the Achaeans burn it” (20.313–317), and the river Scamander, beaten by Hephaestus' fire, swears the same words to Hera (21.373–376; [[evil-day]]). In the Hesiodic *Shield of Heracles* Amphitryon may not go to Alcmene's bed until he has avenged her brothers and burned the villages of the Taphians and Teleboans “with ravening fire” (*Shield* 14–19). Compare [[blazing-fire]] and [[destructive]], the other epithets of fire in war.
+μαλερός is of uncertain origin; it means “fierce, violent,” and Homer uses it only of fire. It occurs three times. Besides Hector's threat here, it comes twice in the same oath. Hera tells Poseidon that she and Athena have sworn never to ward off the evil day from the Trojans, “not even when all Troy blazes with ravening fire, / burning, and the warlike sons of the Achaeans are burning it” (20.313–317), and the river Scamander, beaten by Hephaestus' fire, swears the same words to Hera (21.373–376; [[evil-day]]). In the Hesiodic *Shield of Heracles* Amphitryon may not go to Alcmene's bed until he has avenged her brothers and burned the villages of the Taphians and Teleboans “with ravening fire” (*Shield* 14–19). Compare [[blazing-fire]] and [[destructive]], the other epithets of fire in war.
 
 ## Use
 

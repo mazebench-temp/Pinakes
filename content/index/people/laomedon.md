@@ -13,11 +13,11 @@ relations:
 
 ## Etymology
 
-Λαομέδων = λαός ("people") + μέδων ("ruler", from μέδω, "rule"): "ruler of the people". The same verb is in the prayer to Zeus, "who rule from Ida" (Ἴδηθεν μεδέων, 3.276).
+Λαομέδων = λαός (“people”) + μέδων (“ruler”, from μέδω, “rule”): “ruler of the people”. The same verb is in the prayer to Zeus, “who rule from Ida” (Ἴδηθεν μεδέων, 3.276).
 
 ## Family
 
-In Book 3 he is named only in his son's patronymic: the herald Idaeus calls Priam Λαομεδοντιάδης, "son of Laomedon" (3.250). Aeneas gives the family in Book 20: Ilus fathered Laomedon, "and Laomedon fathered Tithonus and Priam, Lampus and Clytius and Hicetaon, offshoot of Ares" (20.236–238). Three of these sons sit with Priam among the elders on the wall (3.146–147; see [[lampus]], [[clytius]] and [[hicetaon]]). Book 6 names an elder son, Bucolion, born out of wedlock (6.23–24).
+In Book 3 he is named only in his son's patronymic: the herald Idaeus calls Priam Λαομεδοντιάδης, “son of Laomedon” (3.250). Aeneas gives the family in Book 20: Ilus fathered Laomedon, “and Laomedon fathered Tithonus and Priam, Lampus and Clytius and Hicetaon, offshoot of Ares” (20.236–238). Three of these sons sit with Priam among the elders on the wall (3.146–147; see [[lampus]], [[clytius]] and [[hicetaon]]). Book 6 names an elder son, Bucolion, born out of wedlock (6.23–24).
 
 {{notes}}
 
@@ -27,4 +27,4 @@ The Iliad remembers him as a cheat. Poseidon and Apollo served him for a year fo
 
 ## Outside Homer
 
-[[apollodorus|Apollodorus]] tells the story in full. When Laomedon refused Apollo and Poseidon their wages, Apollo sent a plague and Poseidon a sea monster, and an oracle said that Troy would be saved if Laomedon gave his daughter Hesione to the monster. Heracles killed it for the promise of the horses, and when Laomedon cheated him too, he came back, took the city and shot Laomedon and all his sons except Podarces. Hesione ransomed her brother, who was then called Priam, from πρίασθαι, "to buy" (*Library* 2.5.9, 2.6.4). Roman poets made him a byword for Trojan perjury: "long enough have we paid with our blood for the perjuries of Laomedon's Troy" (Virgil, *Georgics* 1.501–502).
+[[apollodorus|Apollodorus]] tells the story in full. When Laomedon refused Apollo and Poseidon their wages, Apollo sent a plague and Poseidon a sea monster, and an oracle said that Troy would be saved if Laomedon gave his daughter Hesione to the monster. Heracles killed it for the promise of the horses, and when Laomedon cheated him too, he came back, took the city and shot Laomedon and all his sons except Podarces. Hesione ransomed her brother, who was then called Priam, from πρίασθαι, “to buy” (*Library* 2.5.9, 2.6.4). Roman poets made him a byword for Trojan perjury: “long enough have we paid with our blood for the perjuries of Laomedon's Troy” (Virgil, *Georgics* 1.501–502).

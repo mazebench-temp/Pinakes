@@ -14,7 +14,7 @@ of: [phrenes]
 
 φρένες are the seat of thought and feeling ([[phrenes]]). πευκάλιμος occurs only in this phrase, in the dative plural at the end of the verse; its origin is uncertain, and its sense, “shrewd, sharp,” comes from its uses.
 
-The formula describes the minds of gods and of the clever. Athena uses it of her own mind here. In Book 14 Hera plans to pour sleep on Zeus' eyelids and his shrewd wits (14.164–165). In a simile of Book 15 Hera flies as fast as the thought of a man who has traveled over much of the earth and thinks in his shrewd mind, “If only I were there, or there” (15.79–83). In Book 20 Hermes, who goes down to the battle among the gods, is the god “who excels in shrewd wits” (20.35).
+The formula describes the minds of gods and of the clever. Athena uses it of her own mind here. In Book 14 Hera plans to pour sleep on Zeus' eyelids and his shrewd wits (14.164–165). In a simile of Book 15 Hera flies as fast as the thought of a man who has traveled over much of the earth and thinks in his shrewd mind, “If only I were there, or there” (15.79–83). In Book 20 Hermes, who goes down to the battle among the gods, is the god “who excels in his shrewd mind” (20.35).
 
 ## Use
 

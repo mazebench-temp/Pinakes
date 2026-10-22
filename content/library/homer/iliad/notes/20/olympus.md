@@ -1,0 +1,9 @@
+---
+summary: Themis calls the gods to assembly from the summit of Olympus, and Zeus stays in a fold of Olympus to watch the war while the others go down; the gods of the Achaean side say they have all come down from Olympus to stand by Achilles, and Poseidon expects to send the others back to Olympus if they begin the fight.
+---
+
+“And Zeus bade Themis call the gods to assembly / from the summit of many-folded Olympus” (20.4–5; see [[themis-the-goddess]] and [[many-folded]]). κρατὸς ἀπʼ Οὐλύμποιο, “from the summit of Olympus”, uses κράς, “head”, of a mountaintop, only here (Walter Leaf, *Commentary on the Iliad*, 1900, on 20.5; see the translation's note on 20.5). In Book 8 Zeus held his assembly “on the topmost peak of many-ridged Olympus” (8.3; see [[many-ridged-olympus]]).
+
+When he has let the gods go, Zeus himself stays behind: “But I for my part will stay here in a fold of Olympus, / seated, where I shall look on and delight my heart” (20.22–23; see [[zeus]] and [[watching-the-war]]). πτυχί, “in a fold”, is the word of the epithet πολύπτυχος, “many-folded” (20.5), and of the gods' houses, built for each of them “in the folds of Olympus” (11.77).
+
+Hera tells Poseidon and Athena, “We have all come down from Olympus to take our part / in this battle” (20.125–126; see [[hera]]), and Poseidon, refusing to begin the fight, expects that if Ares or Apollo begins it, they will soon “go back to Olympus, to the gathering of the other gods, / brought down at our hands under compulsion” (20.142–143; see [[poseidon]]). In Book 21 Poseidon puts it to Apollo that it would be the more shameful if they went back to Olympus without a fight, and when the battle of the gods is over the others go back to Olympus and sit by their father (21.437–438, 21.518–520; see [[the-battle-of-the-gods]]).

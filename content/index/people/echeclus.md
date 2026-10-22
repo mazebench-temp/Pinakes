@@ -19,4 +19,4 @@ passages:
 
 “Adrastus first, and Autonous and Echeclus” (16.694): Echeclus closes the first verse of the list of nine men whom Patroclus kills when the narrator asks him “whom first, whom last” (16.692–697; see [[adrastus-killed-by-patroclus]], [[whom-first-whom-last]] and [[patroclus]]).
 
-Another Echeclus, son of Agenor, is killed by Achilles, who brings his sword down on the middle of his head (20.474–477). The name joins ἔχω, “hold”, and κλέος, “fame”, like that of Echecles, the Myrmidon who married Polymele (16.189; see [[echecles]]).
+Another Echeclus, son of Agenor, is killed by Achilles, who brings his sword down on the middle of his head (20.474–477; see [[echeclus-son-of-agenor]]). The name joins ἔχω, “hold”, and κλέος, “fame”, like that of Echecles, the Myrmidon who married Polymele (16.189; see [[echecles]]).

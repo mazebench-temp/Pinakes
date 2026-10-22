@@ -1,0 +1,7 @@
+---
+summary: Achilles and Hector meet for the first time in the poem, and Hector escapes again, hidden in a mist by Apollo; Achilles shouts after him, “Once again you have escaped death now, you dog” (20.449).
+---
+
+{{quote:01bdcf72-c94c-5dfc-ac4a-52ce7f6242bc}}
+
+In Book 9 Achilles told the envoys of the one time Hector had waited for him, at the Scaean gates and the oak, “and barely escaped my charge” (9.352–355). In Book 20 the two meet for the first time in the poem: Hector, who had obeyed Apollo and kept back in the crowd, comes against Achilles when Polydorus falls, and when his spear is turned back by Athena, Apollo snatches him away and hides him in thick mist (20.419–444; see [[hector]], [[polydorus-son-of-priam]] and [[divine-rescue]]). ἐξ αὖ νῦν ἔφυγες θάνατον, “Once again you have escaped death now” (20.449): the verses are those Diomedes spoke to Hector in Book 11, after Apollo's helmet had saved him (11.362–367), and Walter Leaf thinks them in their own place here and copied there (*Commentary on the Iliad*, 1900, on 20.449). Hector has escaped death before in the poem, from Diomedes' spear and from Ajax' stone (11.349–360, 14.409–439); from Achilles himself the only escape it tells of is the one at the oak. Achilles promises to finish him off when he meets him later (20.452), and the next meeting is at the Scaean gates, where this time Hector does not escape (see [[the-pursuit-of-hector]] and [[achilles]]).

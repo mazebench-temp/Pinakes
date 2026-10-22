@@ -3,8 +3,8 @@ title: Forest fire
 greek: ἠΰτε πῦρ ἀΐδηλον ἐπιφλέγει ἄσπετον ὕλην
 kind: simile
 tags: [warfare, weapon]
-summary: Fire raging in a forest, the Iliad's likeness for the gleam of an army's bronze and for a hero's fury and destruction of his enemies. The bronze of the Achaeans marching out flashes to the sky like a destroying fire on a mountain (2.455–458); on Agamemnon's day the Trojans fall before him like thickets before a fire that the wind drives through uncut woodland (11.155–159); its roar is one of three noises that the shout of the armies outdoes (14.396–397); and Hector rages like Ares or a deadly fire in the thickets of a mountain forest (15.605–606).
-aliases: [like a forest fire, the gleam of bronze]
+summary: Fire raging in a forest, the Iliad's likeness for the gleam of an army's bronze and for a hero's fury and destruction of his enemies. The bronze of the Achaeans marching out flashes to the sky like a destroying fire on a mountain (2.455–458); on Agamemnon's day the Trojans fall before him like thickets before a fire that the wind drives through uncut woodland (11.155–159); its roar is one of three noises that the shout of the armies outdoes (14.396–397); Hector rages like Ares or a deadly fire in the thickets of a mountain forest (15.605–606); and at the height of his killing Achilles rushes everywhere with his spear as a wondrous fire rages through the deep valleys of a dry mountain (20.490–494).
+aliases: [like a forest fire, the gleam of bronze, Achilles like a forest fire]
 grc: [πῦρ ἀΐδηλον, αἴγλη παμφανόωσα]
 en: [a destroying fire, the dazzling gleam]
 of: [achaeans, bronze]

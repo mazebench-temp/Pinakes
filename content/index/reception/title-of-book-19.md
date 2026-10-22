@@ -29,4 +29,4 @@ The traditional title of Book 19 is Μήνιδος ἀπόρρησις, “the R
 
 The poets and artists went to the arms and to the birth of Heracles. The Hesiodic *Shield of Heracles* tells the begetting of Heracles that Agamemnon passes over, and the *Homeric Hymn to Apollo* has Hera keep Eileithyia from another mother in labor (see [[heracles-in-the-hesiodic-shield]] and [[eileithyia-kept-from-leto]]). A scene on the chest of Cypselus at Olympia was taken, Pausanias reports, for Thetis receiving the arms from Hephaestus with the Nereids beside her, and Aeschylus named a tragedy the *Nereids* (see [[the-nereids-and-the-arms]]); Euripides' *Scyrians* was set on the island where Achilles' son was reared (see [[euripides-scyrians]]). Virgil's Venus brings Aeneas his arms as Thetis brings Achilles his, and Aeneas cannot have his fill of looking at them (*Aeneid* 8.608–625; see [[virgil-shield-of-aeneas]]).
 
-See [[title-of-book-18]], [[the-renunciation-of-wrath]] and [[menis]].
+See [[title-of-book-18]], [[title-of-book-20]], [[the-renunciation-of-wrath]] and [[menis]].

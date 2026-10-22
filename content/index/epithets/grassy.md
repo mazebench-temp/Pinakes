@@ -12,7 +12,7 @@ of: [haliartus, hire]
 
 ## Meaning
 
-ποιήεις = ποίη (“grass”) + the suffix -ήεις (“full of”): “grassy.” In the Iliad it is given to two towns, Haliartus in the Boeotian Catalogue (2.503; [[haliartus]]) and Hire in Agamemnon's offer (9.150 = 9.292; [[hire]]), and to “the grassy water meadows” where the nymphs live (πίσεα ποιήεντα, 20.9). In the Odyssey it describes the grassy glens where a doe grazes while the lion is away (Od. 4.335–338 = 17.126–129), the meadows of the nymphs again (Od. 6.124), and the island of Dulichium, “rich in wheat, grassy” (Od. 16.396). The Hesiodic *Shield of Heracles* has a “grassy Antheia” among the towns of Thessaly that ring with the shouting of Heracles' fight with Cycnus (*Shield* 380–382); it is probably not the Antheia of Agamemnon's offer ([[antheia]]).
+ποιήεις = ποίη (“grass”) + the suffix -ήεις (“full of”): “grassy.” In the Iliad it is given to two towns, Haliartus in the Boeotian Catalogue (2.503; [[haliartus]]) and Hire in Agamemnon's offer (9.150 = 9.292; [[hire]]), and to “the grassy meadows” where the nymphs live (πίσεα ποιήεντα, 20.9). In the Odyssey it describes the grassy glens where a doe grazes while the lion is away (Od. 4.335–338 = 17.126–129), the meadows of the nymphs again (Od. 6.124), and the island of Dulichium, “rich in wheat, grassy” (Od. 16.396). The Hesiodic *Shield of Heracles* has a “grassy Antheia” among the towns of Thessaly that ring with the shouting of Heracles' fight with Cycnus (*Shield* 380–382); it is probably not the Antheia of Agamemnon's offer ([[antheia]]).
 
 ## Use
 

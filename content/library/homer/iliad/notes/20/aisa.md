@@ -1,0 +1,5 @@
+---
+summary: Hera would have the gods keep Achilles from harm in this day's battle; “hereafter he shall suffer whatever his fate / spun for him with her thread at his birth, when his mother bore him” (20.127–128).
+---
+
+The portion is spun at birth. Hecuba will say so of Hector, with Μοῖρα as the spinner (24.209–210), and Alcinous of Odysseus, with αἶσα and the Spinners (*Odyssey* 7.196–198; Walter Leaf, *Commentary on the Iliad*, 1900, on 20.128). Aristarchus athetized 20.125–128 as contradicting Zeus, who fears that Achilles will be too strong, not that he will suffer (20.26–30); Leaf answers that “all” at 20.125 means only the gods of the Achaean side (on 20.125; see the translation's note on 20.125–128). Twice more the book names a limit that fate sets and that might be overstepped: Zeus fears that Achilles may sack the wall “against fate” (20.30), and Poseidon warns Aeneas “lest you come to the house of Hades even beyond your portion” (20.336; see [[moira]] and [[no-man-escapes-his-fate]]).

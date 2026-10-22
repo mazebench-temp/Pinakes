@@ -23,4 +23,4 @@ passages:
 
 Mulius is the first man Nestor killed in the battle by the Alpheus: a spearman, the son-in-law of Augeas, king of the Epeians, and the husband of his eldest daughter Agamede (11.738–741; see [[augeas]], [[agamede]], [[spearmen]] and [[nestor-and-the-epeians]]). His death turns the battle. Nestor, who had come on foot because his father hid his horses (11.717–721), leapt into Mulius' chariot, and the Epeians fled when they saw “the leader of the horsemen” fall (11.743–746). The half-verse that praises him, ὃς ἀριστεύεσκε μάχεσθαι, “who was the best of them in fighting” (11.746), is used in Book 16 of Pyraechmes, whose death at Patroclus' hands routs the Paeonians in the same way (16.287–292).
 
-Three other men in Homer bear the name: Trojans killed by Patroclus (16.696; see [[mulius-killed-by-patroclus]]) and by Achilles (20.472), and a herald from Dulichium (*Odyssey* 18.423).
+Three other men in Homer bear the name: Trojans killed by Patroclus (16.696; see [[mulius-killed-by-patroclus]]) and by Achilles (20.472; see [[mulius-killed-by-achilles]]), and a herald from Dulichium (*Odyssey* 18.423).

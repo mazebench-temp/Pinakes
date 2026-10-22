@@ -1,0 +1,15 @@
+---
+summary: Aeneas tells Apollo that Achilles would not easily win in an even fight, “not even if he boasts that he is all of bronze” (20.102), and goes out against him “armored in gleaming bronze” (20.111, 20.117). Two of the five layers of Achilles' shield are bronze, and Achilles' spear strikes Aeneas' shield where its bronze was thinnest (20.271, 20.275). The plain gleams with bronze when the armies meet (20.156), and in Achilles' killings the point goes through a bronze helmet, and the bronze through ear and arm and into Rhigmus' belly (20.398–399, 20.473–474, 20.480, 20.486).
+# Two forms found only here in the Iliad: παγχάλκεος (20.102; in the Odyssey of a sword and of Orion's club, Od. 8.403,
+# 11.575) and χαλκείας, the bronze layers (20.271).
+grc: [παγχάλκεος, χαλκείας]
+en: [all of bronze]
+---
+
+**All of bronze.** Aeneas grants that a god always stands by Achilles, but if a god stretched the outcome of war evenly, “he would not very easily / win, not even if he boasts that he is all of bronze” (20.101–102). παγχάλκεος, “all of bronze”, means invulnerable, Walter Leaf explains, a different metaphor from the “heart of bronze” of the invocation before the Catalogue (2.490; *Commentary on the Iliad*, 1900, on 20.101; see the translation's note on 20.101–102 and [[achilles]]). It is found only here in the Iliad; the Odyssey has the word of Euryalus' sword and of Orion's club (Od. 8.403, 11.575).
+
+**Gleaming bronze.** Apollo bids Aeneas “carry the unyielding bronze straight at him” (20.108; see [[unyielding]]), and Aeneas goes through the champions “armored in gleaming bronze” (20.111), as Hera sees him (20.117; see [[gleaming-bronze]]). When the armies come on, “the whole plain was filled with them, and it gleamed with bronze, / with men and horses” (20.156–157). Aeneas would fight Achilles “face to face with the bronze” (20.257), and the spears are “bronze-fitted” (20.258; see [[bronze-fitted]]).
+
+**The shields.** In the four verses that give the layers of Achilles' shield as metals, two are bronze (τὰς δύο χαλκείας, 20.271; see [[the-shield-of-achilles]], [[tin]] and [[gold-and-silver]]). Achilles' spear strikes Aeneas' shield “under the outermost rim, where the bronze ran thinnest” (20.275): χαλκός is the metal facing of the shield, Leaf explains, as χρυσός at 268 is the gold of Achilles' (on 20.275; see [[shield]]).
+
+**The point.** In the killings the bronze is the spear's point. Through Mulius' head “through the other ear went / the bronze point” (20.473–474); Deucalion was pierced through the arm “with the bronze point” (20.480); and in Rhigmus “the bronze stuck in his belly” (20.486; see [[spear]]). Demoleon's helmet is bronze too: “Nor did the bronze helmet hold it” (20.398; see [[helmet]]). Achilles strikes the mist three times “with his bronze spear” (20.446), and Aeneas says that Athena bade Achilles kill the Leleges and the Trojans “with his bronze spear” (20.96). Against the bronze Hector sets iron: he will go against Achilles even if his hands are like fire, “and his might like gleaming iron” (20.372; see [[iron]]).

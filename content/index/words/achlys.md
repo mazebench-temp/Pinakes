@@ -24,7 +24,7 @@ passages:
 
 The mist that was “on them before” is the ordinary condition of mortal eyes, not a blindness sent for the occasion. Without it Diomedes can do what Athena tells him next: fight no god except Aphrodite (5.129–132). He knows Aphrodite for a feeble god (5.331), he knows that Apollo is holding his hands over Aeneas (5.433), and he recognizes Ares beside Hector in the likeness of a man (5.596–606). See [[seeing-the-gods]].
 
-A god can also pour the mist on. Poseidon pours it over Achilles' eyes while he carries Aeneas out of the battle, then scatters it, and Achilles “saw clearly with his eyes” and marveled (20.321–344). Athena pushes a “cloud of mist” from the eyes of the Achaeans, and there is light on both sides of the battle (15.668–670). In the Odyssey she pours a mist about Odysseus so that the Phaeacians do not see him walk through their town (*Odyssey* 7.39–42), and the seer Theoclymenus sees the sun perish from the sky and an evil mist run over the house of the suitors (*Odyssey* 20.356–357).
+A god can also pour the mist on. Poseidon pours it over Achilles' eyes while he carries Aeneas out of the battle, then scatters it, and Achilles “stared hard with his eyes” and marveled (20.321–344). Athena pushes a “cloud of mist” from the eyes of the Achaeans, and there is light on both sides of the battle (15.668–670). In the Odyssey she pours a mist about Odysseus so that the Phaeacians do not see him walk through their town (*Odyssey* 7.39–42), and the seer Theoclymenus sees the sun perish from the sky and an evil mist run over the house of the suitors (*Odyssey* 20.356–357).
 
 {{notes}}
 

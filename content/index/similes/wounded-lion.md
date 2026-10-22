@@ -3,11 +3,11 @@ title: The wounded lion
 greek: χραύσῃ μέν τʼ αὐλῆς ὑπεράλμενον οὐδὲ δαμάσσῃ
 kind: simile
 tags: [wild-animal, livestock, warfare]
-summary: A lion wounded as it falls on a fold or a farmstead. Diomedes, wounded by Pandarus' arrow, goes back into the fighting like a lion that a shepherd has grazed but not killed, whose strength the wound only rouses (5.134–143); Patroclus leaps on the body of Cebriones with the spring of a lion that is struck in the chest as it ravages the farmsteads, and whose own courage destroys it (16.751–754).
-aliases: [like a wounded lion, the lion in the sheepfold, the lion grazed by the shepherd]
+summary: A lion wounded by the men whose flocks and herds it ravages, which the wound only rouses, or whose own courage destroys it. Diomedes, wounded by Pandarus' arrow, goes back into the fighting like a lion that a shepherd has grazed but not killed (5.134–143); Patroclus leaps on the body of Cebriones with the spring of a lion that is struck in the chest as it ravages the farmsteads (16.751–754); and Achilles goes against Aeneas like a ravaging lion that a whole people has gathered to kill, which turns on them when a young man's spear has struck it (20.164–175).
+aliases: [like a wounded lion, the lion in the sheepfold, the lion grazed by the shepherd, Achilles like a lion, the lion that lashes its flanks]
 grc: [ὥς τε λέοντα, εἰροπόκοις ὀΐεσσι, αὐλῆς ὑπεράλμενον, ἐρῆμα φοβεῖται, ἀγχιστῖναι, βαθέης ἐξάλλεται αὐλῆς]
 en: [like a, a shepherd in the fields, has grazed as it leapt over the wall of the fold, slips into the farm buildings, they lie heaped close one upon another, leaps back out of the high-walled fold]
-of: [diomedes]
+of: [diomedes, patroclus, achilles]
 ---
 
 ## The simile
@@ -32,4 +32,8 @@ Wound, prayer and renewal belong to the pattern of a hero's great day (see [[the
 
 Diomedes is a lion among the flocks again in Book 10, when he falls on the sleeping Thracians “as a lion, coming on flocks that have no herdsman, on goats or sheep, leaps on them with evil intent” (10.485–486). Sarpedon goes against the Achaean wall like a mountain lion long without meat, which makes for the close-built fold; even if it finds herdsmen there guarding the sheep with dogs and spears, it will not be driven off untried, but either seizes a sheep or is itself struck by a javelin among the first (12.299–306).
 
-The wounded lion returns when Achilles goes against Aeneas in Book 20. He is like a ravaging lion that a whole people gathers to kill. At first it goes on disdainfully, but when a young man strikes it with a spear, it crouches with gaping jaws and foam about its teeth, lashes its flanks with its tail, and rushes straight on in its fury, to kill or be killed (20.164–175). See [[lion]] and [[sheep]].
+The wounded lion returns twice. Patroclus leaps at the body of Cebriones like a lion struck in the chest as it ravages the farmsteads, and its own courage destroys it (16.751–754); and Achilles goes against Aeneas like a ravaging lion that a whole people has gathered to kill, which goes its way heedless until a young man's spear strikes it, and then turns on the men in its fury, to kill or be killed (20.164–175). See the notes on those books, and [[lion]] and [[sheep]].
+
+## Outside Homer
+
+In the Hesiodic *Shield*, Heracles stands against Ares like a lion that has come upon a body: it tears the hide with its strong claws and takes the sweet life, its dark heart fills with fury, and γλαυκιόων δʼ ὄσσοις δεινὸν πλευράς τε καὶ ὤμους / οὐρῇ μαστιόων ποσσὶν γλάφει, “glaring terribly with its eyes, lashing its flanks and shoulders with its tail, it digs with its paws”, and no one dares to look at it and come near (*Shield* 425–434). Walter Leaf quotes these verses on the lion of Achilles in Book 20, which lashes its ribs and hips with its tail and rushes on glaring, γλαυκιόων, a word found in Homer only there (*Commentary on the Iliad*, 1900, on 20.170, 20.172).

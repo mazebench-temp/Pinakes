@@ -1,0 +1,5 @@
+---
+summary: When Achilles' spear passes over Aeneas' back and stands in the ground, “countless grief was poured over his eyes” (20.282). Poseidon begins his speech to the gods, “Ah, truly I have grief for great-hearted Aeneas” (20.293), who suffers “for the sake of others' griefs” (20.298).
+---
+
+Grief poured over the eyes is an unusual phrase. Walter Leaf compares the grief “poured about” Penelope (ἄχος ἀμφεχύθη, *Odyssey* 4.716) and the cloud of grief that covers Hector when Apollo tells him that Podes is dead, “a black cloud of grief covered him” (17.591), and reports Bentley's conjecture ἀχλύς, “mist”, the word of 20.321 (*Commentary on the Iliad*, 1900, on 20.282; see [[achlys]] and the translation's note on 20.282). ἀλλοτρίων ἀχέων, “others' griefs” (20.298), he finds a strange expression: Aeneas suffers in a war whose sorrows are not his own. He reports a scholion of Aristonicus that explained Priam's suspicion of Aeneas (13.460–461) by Aeneas' having no stake of his own in the war (Leaf on 20.298). Poseidon's grief is for a man “who is not to blame” (20.297; see [[who-is-to-blame]] and [[algos]]).

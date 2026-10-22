@@ -1,0 +1,7 @@
+---
+summary: Poseidon hides his rescue of Aeneas with a mist: “At once he poured a mist over the eyes / of Achilles, son of Peleus” (20.321–322), and when Aeneas is safe he scatters it, “the heaven-sent mist” (20.341–342). When Hector sees his brother Polydorus fall, “a mist was poured over his eyes” (20.421).
+---
+
+While the mist lies on Achilles' eyes the god draws the ash spear out of Aeneas' shield, sets it at Achilles' feet, and sends Aeneas flying over the ranks to the far edge of the battle (20.322–329). When it is gone, Achilles “stared hard with his eyes”, and sees his spear on the ground and no man (20.342–346): he knows the god by the work (see [[seeing-the-gods]] and [[divine-rescue]]).
+
+Over Hector's eyes the mist is the one said of the dying (κέχυτʼ ἀχλύς, 5.696, 16.344), and here grief brings it (see [[kasignetos]]). Walter Leaf reports a variant, κέχυτο χλόος, “pallor”, found in good manuscripts and probably read by Apollonius of Rhodes, but notes that the eyes are hardly the seat of pallor (*Commentary on the Iliad*, 1900, on 20.421; see the translation's note on 20.421). At 20.282 Bentley proposed ἀχλύς for the grief poured over Aeneas' eyes (Leaf on 20.282; see [[achos]]). The other mists of the book are ἀήρ: Apollo hides Hector “in thick mist” (20.444), and Achilles strikes “the deep mist” three times (20.446). The gods of the Achaean side sit apart wrapped in “an unbreakable cloud” (νεφέλη, 20.150).

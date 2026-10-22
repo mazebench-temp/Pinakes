@@ -27,7 +27,7 @@ The city's epithets are epithets of its fortifications. Troy and Ilios are εὐ
 
 Poseidon built the wall. In the battle of the gods he reminds Apollo of the year the two of them spent in the service of “the proud Laomedon” for an agreed wage (21.441–445; see [[laomedon]]). “I built a wall around the city for the Trojans,” he says, “wide and very beautiful, so that the city might be unbreakable; and you, Phoebus, herded his cattle in the glens of wooded Ida” (21.446–449). When the year was out, Laomedon robbed them of their wages and sent them away with threats: he would bind them hand and foot and sell them into distant islands, and he would cut off the ears of both (21.450–457). θητεύσαμεν, “we served for hire” (21.444), puts the gods among the θῆτες, hired laborers who owned no land, the lowest place a free man could hold (Od. 11.489–491). In Book 7 Poseidon claims the building for both of them (7.452–453), and the two accounts do not agree about Apollo's part (see [[poseidon-and-apollo-serve-laomedon]]).
 
-The wall did not save Laomedon. When he cheated Heracles too, Heracles sacked Ilios with six ships and few men (5.640–651; see [[heracles-sacks-troy]]). On the plain stands another wall, “the high, heaped-up wall of godlike Heracles”, which the Trojans and Athena built for him so that he could escape the sea monster (20.144–148).
+The wall did not save Laomedon. When he cheated Heracles too, Heracles sacked Ilios with six ships and few men (5.640–651; see [[heracles-sacks-troy]]). On the plain stands another wall, “the heaped-up wall of divine Heracles, / the high wall”, which the Trojans and Athena built for him so that he could escape the sea monster (20.144–148; see [[the-wall-of-heracles]]).
 
 ## Elsewhere in Homer
 

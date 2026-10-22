@@ -25,7 +25,7 @@ A leader's rebuke is meant to make men fight, and a good rebuke is answered by a
 
 ## The word returned
 
-Aeneas, facing Achilles in Book 20, sums up the whole business. Both of them could speak reproaches (ὀνείδεα) enough to overload a ship of a hundred benches; “the tongue of mortals is a twisting thing”, and “whatever word you speak, that is the word you will hear back” (20.246–250).
+Aeneas, facing Achilles in Book 20, sums up the whole business. Both of them could speak insults (ὀνείδεα) enough to overload a ship of a hundred benches; “the tongue of mortals is a twisting thing”, and “whatever kind of word you speak, such will you hear back” (20.246–250).
 
 {{notes}}
 

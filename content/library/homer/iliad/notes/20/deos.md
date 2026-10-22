@@ -1,0 +1,6 @@
+---
+summary: Fear runs from the gods to the men. Zeus says, “I fear he may even sack the wall against fate” (20.30); Aidoneus “was afraid, / and in fear he leapt from his throne” lest Poseidon break the earth open (20.61–62); the Trojans tremble at the sight of Achilles, “in their fear” (20.45). Hera foretells that Achilles “will be afraid then, when some god comes against him face to face” (20.130); Aeneas crouches under his shield “in fear” (20.279); and Hector tells the Trojans, “do not fear the son of Peleus” (20.366). Aeneas and Hector answer Achilles in the same verses: “do not think that with words, as if I were a child, / you will frighten me” (20.200–201 = 20.431–432).
+grc: [δειδιότας, δείσετʼ, δείδιτε, δειδίξεσθαι]
+---
+
+The book's other verb of fear is ταρβέω. Achilles holds his shield away from Aeneas' spear “in fear” (20.262), Aeneas stands “in fear that the shaft had stuck so near him” (20.283), and Hector goes back into the crowd “afraid, when he heard the voice of the god” (20.380), but answers Achilles “Unafraid” (20.430). Walter Leaf reports lines in the T scholia that were put in place of 20.29–30 by those who held that the god who knows all things ought not to fear (*Commentary on the Iliad*, 1900, on 20.30; see the translation's note on 20.30).

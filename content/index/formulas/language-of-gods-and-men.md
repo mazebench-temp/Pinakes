@@ -3,7 +3,7 @@ title: Language of gods and men
 greek: καλέουσι θεοί, ἄνδρες δέ
 kind: formula
 tags: [figure]
-summary: The device of giving a thing two names, one used by the gods and one by men: the Hundred-Hander Briareus, whom men call Aegaeon (1.403–404), the bird chalcis, which men call cymindis (14.290–291), and, in later books, the river Xanthus, which men call Scamander (20.74).
+summary: The device of giving a thing two names, one used by the gods and one by men: the Hundred-Hander Briareus, whom men call Aegaeon (1.403–404), the bird chalcis, which men call cymindis (14.290–291), and the river Xanthus, which men call Scamander (20.74).
 aliases: [divine names, names among the gods]
 grc: [καλέουσι θεοί]
 en: [whom the gods call]

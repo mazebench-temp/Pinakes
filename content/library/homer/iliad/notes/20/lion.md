@@ -1,0 +1,7 @@
+---
+summary: The one lion of Book 20 is Achilles, who goes against Aeneas like a ravaging lion that a whole people has gathered to kill, and which turns on them when a young man's spear has struck it (20.164–175).
+---
+
+**Achilles the lion.** Πηλεΐδης δʼ ἑτέρωθεν ἐναντίον ὦρτο λέων ὣς / σίντης, “And the son of Peleus rushed against him from the other side like a lion, / a ravager” (20.164–165). The lion has robbed the herds of men, and the whole people gathers to kill it; it goes its way heedless of them until a young man hits it with a spear, and then it crouches with gaping jaws, foam about its teeth, lashes its ribs and hips with its tail, and rushes straight on in its fury, to kill one of the men or perish itself (20.165–173; see [[wounded-lion]], [[like-a-lion]] and [[ravager]]). It is the longest of the lions given to Achilles.
+
+The lions of the earlier books belonged to many men, among them Diomedes, Agamemnon, Ajax, Menelaus, Sarpedon, Hector and Patroclus (see the notes on those books). In Book 18 Achilles was a lion in grief, groaning over Patroclus like a bearded lion whose cubs a hunter has snatched from the thick wood (18.318–322; see [[the-lion-and-its-cubs]]). This one is on the attack. The lion stays his in the books to come: Apollo will complain to the gods that Achilles, like a lion that yields to its great might and proud spirit, knows only savage things (24.39–44), and when Priam has begged for Hector's body, Achilles leaps out of his hut like a lion (24.572). See [[achilles]].

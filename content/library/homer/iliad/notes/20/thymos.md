@@ -1,0 +1,5 @@
+---
+summary: Achilles' heart drives the book. Zeus fears him “now that he is terribly enraged at heart over his companion” (20.29); his heart bids him glut Ares with Hector's blood (20.77–78); “his might and his proud spirit” urge him on like the lion (20.174); and Hector is “the man who has touched my heart most deeply” (20.425). The gods go to war “their hearts divided” (20.32). In the killings θυμός is the life that leaves: Achilles “took away his life” from Demuchus (20.459), Hippodamas “gasped out his life”, and “his proud spirit left his bones” (20.403, 20.406), Polydorus “lost his dear life” (20.412), and darkness covered Tros' eyes “as his life failed” (20.472).
+---
+
+The heart is also where men hope and deceive themselves. Achilles asks whether Aeneas' heart bids him fight in the hope of Priam's honor (20.179–181), and tells him that the gods will not save him now, “as you / imagine in your heart” (20.195–196); Achilles did not consider “in his mind and in his heart” that the gods' gifts are not easily mastered (20.264), and he speaks “to his own proud heart” when Aeneas vanishes (20.343; see [[deeply-troubled]]). See [[phrenes]] and [[menos]].

@@ -3,12 +3,14 @@ title: Areithous
 greek: Ἀρηΐθοος
 kind: person
 tags: [king, warrior]
-summary: “The mace-man”, a lord of the generation before Nestor who fought not with the bow or the spear but with an iron mace, until [[lycurgus-of-arcadia|Lycurgus]] killed him by guile in a narrow road and took the armor Ares had given him (7.137–146). He is the father of [[Menesthius]], whom Paris kills (7.8–10). Not the charioteer of Rhigmus whom Achilles kills in Book 20.
+summary: “The mace-man”, a lord of the generation before Nestor who fought not with the bow or the spear but with an iron mace, until [[lycurgus-of-arcadia|Lycurgus]] killed him by guile in a narrow road and took the armor Ares had given him (7.137–146). He is the father of [[Menesthius]], whom Paris kills (7.8–10). Not [[areithous-the-attendant|Areithous]], the attendant of Rhigmus, whom Achilles kills in Book 20.
 aliases: [Areithoos, the mace-man, Areithous the mace-man]
 # Exact capitalized forms: ἀρηΐθοος is also an adjective, "swift in war" (ἀρηϊθόων αἰζηῶν, 8.298,
-# 15.315, 20.167). Ἀρηΐθοον at 20.487 is Rhigmus' charioteer, killed by Achilles: another man, who will
-# need his own id.
+# 15.315, 20.167). Ἀρηΐθοον at 20.487 is Rhigmus' attendant, killed by Achilles: another man
+# (areithous-the-attendant).
 grc: ["^Ἀρηϊθόοιο", "^Ἀρηΐθοος", "^Ἀρηϊθόου"]
+# Areithous at 20.487 is the attendant of Rhigmus, whom Achilles kills.
+except: [20.487]
 refs: [7.9, 7.139-146]
 relations:
   - slayer: lycurgus-of-arcadia (7.142-145)
@@ -25,7 +27,7 @@ passages:
 
 **His son.** The same title marks him as the father of Menesthius of Arne, whom Paris kills at the start of the book, and whose mother was Phylomedusa (7.8–10; see [[menesthius]] and [[phylomedusa]]).
 
-The name is the adjective ἀρηΐθοος, “swift in war”, said of young fighters (ἀρηϊθόων αἰζηῶν, 8.298, 15.315, 20.167), from Ἄρης and θοός (“swift”). The charioteer of Rhigmus whom Achilles kills bears it too (20.487).
+The name is the adjective ἀρηΐθοος, “swift in war”, said of young fighters (ἀρηϊθόων αἰζηῶν, 8.298, 15.315, 20.167), from Ἄρης and θοός (“swift”). The attendant of Rhigmus whom Achilles kills bears it too (20.487; see [[areithous-the-attendant]]).
 
 ## Outside Homer
 

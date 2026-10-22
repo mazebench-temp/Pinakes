@@ -33,7 +33,7 @@ Apollo then calls on Ares to drag Diomedes out of the battle, and sits down on t
 
 **Why a phantom.** The armies are fighting over Aeneas' body. Aeneas himself fought over Pandarus' body a little earlier (5.297–302), and the Achaeans wanted the armor as much as the man: Diomedes was “ever eager to kill Aeneas and strip off his glorious armor” (5.434–435; see [[stripping-the-dead]]). The phantom keeps the fight where it was: Trojans and Achaeans go on hacking at each other's shields around it, while the man himself is healed far from the field. Neither side knows the truth, and Ares uses the fallen “Aeneas” to rouse the Trojans (see [[divine-rescue]] and [[divine-intervention]]).
 
-**Aeneas saved.** Aeneas is saved three times in the Iliad, twice in this book, by his mother and then by Apollo, and in Book 20 by Poseidon, who lifts him out of the fight with Achilles because his line is fated to survive and to rule the Trojans (20.302–308, 20.318–329). The temple on Pergamus, the healing goddesses and the phantom are the most elaborate of the rescues (see [[aeneas]]).
+**Aeneas saved.** Aeneas is saved three times in the Iliad, twice in this book, by his mother and then by Apollo, and in Book 20 by Poseidon, who lifts him out of the fight with Achilles because his line is fated to survive and to rule the Trojans (20.302–308, 20.318–329; see [[achilles-and-aeneas]]). The temple on Pergamus, the healing goddesses and the phantom are the most elaborate of the rescues (see [[aeneas]]).
 
 ## Elsewhere in Homer
 

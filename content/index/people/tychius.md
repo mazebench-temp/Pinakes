@@ -17,4 +17,4 @@ Tychius is named only here. σκυτοτόμος = σκῦτος (“hide, leath
 
 ## Outside Homer
 
-Some ancient texts read Ὕδῃ, “in Hyde”, and made him a Lydian; Strabo rejects the reading (9.2.20, 13.4.6; see [[hyle-or-hyde]]). Pliny the Elder's list of inventors credits “Tychius the Boeotian” with shoemaking (*Natural History*, Book 7). The *Life of Homer* ascribed to Herodotus makes him a leather-worker of Neon Teichos, near Cyme, who took in the wandering poet, and says that Homer repaid him with these verses.
+Some ancient texts read Ὕδῃ, “in Hyde”, and made him a Lydian; Strabo rejects the reading (9.2.20, 13.4.6; see [[hyle-or-hyde]] and [[hyde]]). Pliny the Elder's list of inventors credits “Tychius the Boeotian” with shoemaking (*Natural History*, Book 7). The *Life of Homer* ascribed to Herodotus makes him a leather-worker of Neon Teichos, near Cyme, who took in the wandering poet, and says that Homer repaid him with these verses.

@@ -20,4 +20,4 @@ Achilles and Briseis remember the sack when she is given back to him (19.59–60
 
 ## Outside Homer
 
-In Proclus' summary of the *Cypria*, Achilles drives off the cattle of Aeneas and sacks Lyrnessus, Pedasus and many of the towns around. The site has not been found; ancient geographers placed it near Thebe, in the plain behind Adramyttium. See [[the-sack-of-lyrnessus]].
+In Proclus' summary of the *Cypria*, Achilles drives off the cattle of Aeneas and sacks Lyrnessus, Pedasus and many of the towns around. The site has not been found. Strabo places it with Thebe in what was later called the plain of Thebe, behind Adramyttium: a deserted stronghold in his day, eighty-eight stades from that city (*Geography* 13.1.61; see [[strabo-on-the-city-of-mynes]]). See [[the-sack-of-lyrnessus]].

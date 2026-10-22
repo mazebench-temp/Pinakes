@@ -1,0 +1,14 @@
+---
+summary: The horses of the Achaeans tear Iphition's body with the tires of their wheels (20.394). Achilles kills Hippodamas as he leaps down from his chariot, thrusts the two sons of Bias from theirs, and kills Rhigmus, who falls from his chariot, and his attendant Areithous as he turns the horses back (20.401, 20.460–462, 20.484–489). At the end of the book Achilles drives his own chariot over the dead, and its axle and rails are spattered with blood (20.498–502).
+# ἐπισσώτροις, a short dative plural found only here (20.394).
+grc: [ἐπισσώτροις]
+# Unnamed: ἵππων, the team and chariot, "leapt down from his chariot" (20.401 = 11.423) and "thrust both from their
+# chariot" (20.461).
+refs: [20.401, 20.461]
+---
+
+**The tires.** “And the horses of the Achaeans tore him apart with the tires of their wheels / in the front line of battle” (20.394–395; see [[iphition]]). Walter Leaf finds δατέοντο, “tore apart”, a strange phrase, and counts the short dative ἐπισσώτροις among the signs that the Iphition episode is later than its setting (*Commentary on the Iliad*, 1900, on 20.394, 20.381; see the translation's note on 20.381–395).
+
+**Down from the chariot.** ἵπποι, “horses”, is often the team and the chariot together, and the English renders it “chariot” when a man leaps down or is thrown from it: Hippodamas “leapt down from his chariot” (καθʼ ἵππων, 20.401), in the verse of Chersidamas' death at Odysseus' hands (11.423; see [[hippodamas]]), and Achilles “thrust both from their chariot to the ground”, the sons of Bias (ἐξ ἵππων, 20.461; see [[laogonus-son-of-bias]] and [[dardanus-son-of-bias]]). Rhigmus, hit by the javelin, “fell from the chariot” (ἐξ ὀχέων, 20.487), and Achilles stabbed his attendant Areithous in the back “as he turned the horses back, / … and thrust him from the chariot; and his horses were thrown into confusion” (20.488–489; see [[rhigmus]] and [[areithous-the-attendant]]). The driver is Rhigmus' θεράπων, “attendant” (20.487), the word for Automedon as the driver of Achilles' horses (16.865).
+
+**Achilles' chariot.** The book ends with Achilles in his chariot, his horses trampling the dead like bulls treading out barley (see [[bulls-on-the-threshing-floor]]): “and with blood the axle / was all spattered beneath, and the rails that ran around the chariot, / struck by the drops thrown up from the horses' hooves / and from the tires” (20.499–502; see [[the-horses-of-achilles]]). The verses are those of Hector's chariot in Book 11 (11.534–537). Some editors rejected 495–503 because Achilles, fighting on foot through the book, is suddenly in his chariot; Leaf answers that the chariot was kept close at hand, and the hero mounted and dismounted as he needed, without the poem's saying so (on 20.495; see the translation's note on 20.495–503 and [[achilles]]). The poem does not name the driver; in Book 19 Automedon took the reins, with Achilles standing behind him (19.395–397; see [[automedon]]).

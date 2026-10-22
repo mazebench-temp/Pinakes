@@ -1,0 +1,7 @@
+---
+summary: Herodotus names the Panionium on Mycale as sacred to Poseidon Heliconius, the god of the bull simile, and Helice as the Achaean town to which the Ionians fled. He tells of Ionians who took Pylian Caucones as kings, and he uses Poseidon's rare word for Aeneas, ἀτέων, “reckless”, of the Spartans at Thermopylae.
+---
+
+- The Panionium, set apart for Poseidon Heliconius, and Helice, where the Ionians took refuge from the Achaeans (*Histories* 1.145, 1.148.1, on 20.403–405): [[helice-or-the-panionia]] and [[heliconian-poseidon]].
+- **The Caucones.** Poseidon sets Aeneas down at the far edge of the battle, “where the Caucones were arming themselves for war” (20.329). Herodotus, writing of the Ionian cities, says that some of them took as kings Lycians descended from Glaucus, son of Hippolochus, others Pylian Caucones descended from Codrus, son of Melanthus, and others both (*Histories* 1.147.1; see [[caucones]], [[glaucus]] and the translation's note on 20.329).
+- **Recklessly.** Poseidon asks Aeneas which of the gods bids him “so recklessly” (ἀτέοντα) fight the son of Peleus (20.332), the word's only use in Homer. Herodotus uses it of the Spartans at Thermopylae, who, knowing that death was coming upon them from the men who had gone around the mountain, showed against the barbarians all the strength they had, careless of their lives and reckless (παραχρεώμενοί τε καὶ ἀτέοντες, *Histories* 7.223.4; see the translation's note on 20.332).

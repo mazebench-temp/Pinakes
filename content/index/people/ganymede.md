@@ -18,7 +18,7 @@ relations:
 
 {{quote:e88cd9d8-2f05-5531-ad15-b9a53f1f3459}}
 
-The Iliad names him twice. In Book 5 Zeus gives the breed of Aeneas' horses to Tros “in recompense for his son Ganymede” (5.265–266; see [[tros]] and [[ganymede-and-the-horses-of-tros]]). In Book 20 Aeneas names him among the sons of Tros: “godlike Ganymede, who was born the most beautiful of mortal men; him the gods snatched up to pour wine for Zeus, for the sake of his beauty, so that he might live among the immortals” (20.232–235).
+The Iliad names him twice. In Book 5 Zeus gives the breed of Aeneas' horses to Tros “in recompense for his son Ganymede” (5.265–266; see [[tros]] and [[ganymede-and-the-horses-of-tros]]). In Book 20 Aeneas names him among the sons of Tros: “godlike Ganymede, / who was the most beautiful of mortal men; / and the gods snatched him up to pour wine for Zeus, / for the sake of his beauty, so that he might dwell among the immortals” (20.232–235).
 
 The gods take him, not Zeus alone, and there is no eagle and no word of love. The verb, ἀνηρείψαντο (“snatched up”), is the one the Odyssey uses of the storm winds and Harpies that carry people off without trace (*Odyssey* 1.241, 4.727, 20.77), and the last half-verse is used again of Cleitus, whom the Dawn carried off (*Odyssey* 15.250–251). Among the gods the cupbearer is otherwise Hebe (4.2–3) or, once, Hephaestus (1.597–598); see [[cupbearing]] and [[hebe]].
 

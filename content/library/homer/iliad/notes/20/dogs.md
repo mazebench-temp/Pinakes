@@ -1,0 +1,7 @@
+---
+summary: When Apollo has snatched Hector away in a thick mist, Achilles shouts after him, “Once again you have escaped death now, you dog” (20.449), in the verses with which Diomedes shouted after Hector in Book 11 (20.449–454 = 11.362–367).
+---
+
+ἐξ αὖ νῦν ἔφυγες θάνατον κύον· ἦ τέ τοι ἄγχι / ἦλθε κακόν: “Once again you have escaped death now, you dog; truly, evil came close / to you” (20.449–450). κύον, the vocative, is abuse: the dog stands for shamelessness (see the article). Iris called Athena a “shameless dog” in Book 8 (8.423), and Achilles will use the word again when the dying Hector begs him by his life, his knees and his parents not to let the dogs devour him by the ships (22.338–345).
+
+The six verses are those that Diomedes shouted after Hector in Book 11, when a helmet that Apollo had given him saved Hector from Diomedes' spear and he escaped into the throng (11.349–367; see the note on Book 11). Walter Leaf thinks that they are in their own place here and were copied there (*Commentary on the Iliad*, 1900, on 20.449). In Book 20 the rescue they speak of is the god's own: “and now again Phoebus Apollo has saved you, / to whom you must pray when you go into the thud of javelins” (20.450–451). Apollo has snatched Hector away very easily, as a god can, and hidden him in thick mist, and Achilles has struck the mist three times with his spear (20.443–448; see [[apollo]], [[divine-rescue]] and [[hector]]). He leaves the dog for later, “I will surely finish you off when I meet you later” (20.452), and turns to the others.

@@ -23,7 +23,7 @@ In Book 2 Hermes is the second holder of the scepter that [[Hephaestus]] made. Z
 
 ## Mythology
 
-Later books of the Iliad show him as a guide and a thief. Zeus sends him to lead Priam through the Achaean camp to Achilles (24.333–469), and the gods had urged him to steal Hector's body (24.23–24). He once stole Ares out of the bronze jar in which the sons of Aloeus had shut him (5.385–391). He declines to fight Leto in the battle of the gods (21.497–501), and by Polymele he is the father of the Myrmidon leader Eudorus (16.179–186).
+Later books of the Iliad show him as a guide and a thief. Zeus sends him to lead Priam through the Achaean camp to Achilles (24.333–469), and the gods had urged him to steal Hector's body (24.23–24). He once stole Ares out of the bronze jar in which the sons of Aloeus had shut him (5.385–391). He declines to fight Leto in the battle of the gods (21.497–501; see [[the-battle-of-the-gods]]), and by Polymele he is the father of the Myrmidon leader Eudorus (16.179–186).
 
 In the Odyssey he carries Zeus' order to Calypso (5.28–148), gives Odysseus the herb moly against Circe (10.277–306), and leads the souls of the suitors down to Hades (24.1–14). There he is called the son of Maia (14.435).
 

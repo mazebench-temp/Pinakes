@@ -12177,6 +12177,321 @@
       "id": "f0dd09fc-5311-56a6-b56d-e6befed14ac3",
       "ref": "19.420-423",
       "title": "I know well myself"
+    },
+    {
+      "id": "29d85285-ea2f-5e34-9a53-71e166f1cb31",
+      "ref": "20.4-9",
+      "title": "Themis calls the gods to assembly"
+    },
+    {
+      "id": "1d3aebc3-b3f2-58ca-a81e-2283bd4889f0",
+      "ref": "20.20-30",
+      "title": "Zeus releases the gods"
+    },
+    {
+      "id": "29e95b82-4cad-527d-aa64-93e5f051a400",
+      "ref": "20.26-30",
+      "title": "If Achilles fights alone"
+    },
+    {
+      "id": "56640ffd-b9c1-518c-8714-9b67722470cb",
+      "ref": "20.31-40",
+      "title": "The gods take sides"
+    },
+    {
+      "id": "97106a6c-0f13-520e-8940-87a3efb12a97",
+      "ref": "20.56-66",
+      "title": "Poseidon shakes the earth"
+    },
+    {
+      "id": "45bbf05c-e345-54a7-a320-d04489228937",
+      "ref": "20.61-65",
+      "title": "Aidoneus leaps from his throne"
+    },
+    {
+      "id": "23a3e6e9-c002-5f44-9b77-68a121303cb2",
+      "ref": "20.66-74",
+      "title": "Gods against gods"
+    },
+    {
+      "id": "8727b3b9-5607-5a61-9b40-9da7b118eafe",
+      "ref": "20.67-74",
+      "title": "The gods set in pairs"
+    },
+    {
+      "id": "45fe54a6-ae5b-5494-8578-cf96283bfd30",
+      "ref": "20.73-74",
+      "title": "Xanthus and Scamander"
+    },
+    {
+      "id": "b17d75fb-960b-5670-9cb3-40b567ace685",
+      "ref": "20.75-78",
+      "title": "Achilles longs for Hector"
+    },
+    {
+      "id": "6de47a0a-8e07-56b1-840e-c9902ac8137e",
+      "ref": "20.79-82",
+      "title": "Apollo in the likeness of Lycaon"
+    },
+    {
+      "id": "8e267afe-66cd-552f-b380-928c2e1075ad",
+      "ref": "20.89-96",
+      "title": "Aeneas remembers Lyrnessus"
+    },
+    {
+      "id": "2db11768-7cc4-59e8-a43c-8187d380adba",
+      "ref": "20.104-109",
+      "title": "Born of a greater goddess"
+    },
+    {
+      "id": "94799ae7-f569-59be-affb-49fb1bc4e3f6",
+      "ref": "20.115-131",
+      "title": "Hera's counsel to Poseidon and Athena"
+    },
+    {
+      "id": "2009de39-d912-589c-9782-bca37e1ba46c",
+      "ref": "20.129-131",
+      "title": "Gods are hard to face"
+    },
+    {
+      "id": "5af9602f-b8e7-5518-944d-a371c8f4095e",
+      "ref": "20.133-143",
+      "title": "Poseidon counsels the gods to sit apart"
+    },
+    {
+      "id": "caf38fb8-3aa5-5b8f-bc78-9b3c5a2e55ac",
+      "ref": "20.144-148",
+      "title": "The wall of Heracles"
+    },
+    {
+      "id": "09e60ce4-b2d0-5390-a33f-465f1860a539",
+      "ref": "20.149-155",
+      "title": "The gods sit apart"
+    },
+    {
+      "id": "c3ea1a5f-003f-596a-a973-3ac85be91967",
+      "ref": "20.164-175",
+      "title": "Achilles like a lion"
+    },
+    {
+      "id": "f7e2cbe5-7e82-5be2-a10f-d4172b8347c5",
+      "ref": "20.178-186",
+      "title": "Achilles taunts Aeneas"
+    },
+    {
+      "id": "afdca81b-f543-5e85-87f5-9fb41c83d352",
+      "ref": "20.187-194",
+      "title": "Achilles remembers Lyrnessus"
+    },
+    {
+      "id": "ac527758-a530-58d9-852d-3f202b4481a4",
+      "ref": "20.206-212",
+      "title": "Aeneas claims his parents"
+    },
+    {
+      "id": "838514ba-e275-58b0-8eda-7d0d2d7532f2",
+      "ref": "20.215-218",
+      "title": "Dardanus founds Dardania"
+    },
+    {
+      "id": "63a3c9c2-c89b-53c0-964e-c719df811bd5",
+      "ref": "20.219-222",
+      "title": "Erichthonius, the richest of mortal men"
+    },
+    {
+      "id": "848117bf-f5e4-562d-8f08-1bfec6d53990",
+      "ref": "20.221-229",
+      "title": "The mares of Erichthonius"
+    },
+    {
+      "id": "6fcdc7aa-6bd8-5a50-a914-67eb70859b51",
+      "ref": "20.230-235",
+      "title": "The sons of Tros"
+    },
+    {
+      "id": "89541ac7-fe81-5beb-9702-1303228c1094",
+      "ref": "20.236-240",
+      "title": "The lines of Ilus and Assaracus"
+    },
+    {
+      "id": "412f02eb-a02e-57de-bde4-191f7b5be098",
+      "ref": "20.242-243",
+      "title": "Zeus increases and diminishes prowess"
+    },
+    {
+      "id": "e2a3ead2-58d6-5af0-bad4-5fca3429037a",
+      "ref": "20.246-249",
+      "title": "The pasture of words"
+    },
+    {
+      "id": "2e70ac6c-dcf8-5871-a307-2d5aae40bb35",
+      "ref": "20.250",
+      "title": "Whatever word you speak"
+    },
+    {
+      "id": "adacfdfa-2949-5e57-9123-1e4ab1a36b1d",
+      "ref": "20.251-255",
+      "title": "The women in the street"
+    },
+    {
+      "id": "f9b2a2c1-416a-569a-b568-89f1416b85be",
+      "ref": "20.259-268",
+      "title": "The gold held it back"
+    },
+    {
+      "id": "09c7ab0a-9fb5-5980-89bb-3b3678c68053",
+      "ref": "20.269-272",
+      "title": "Five layers"
+    },
+    {
+      "id": "e236fa40-b294-5b03-b16b-f756668821f5",
+      "ref": "20.273-277",
+      "title": "Achilles casts the Pelian ash"
+    },
+    {
+      "id": "a2d87747-c276-51f4-a599-e2a86129cd57",
+      "ref": "20.285-287",
+      "title": "Aeneas lifts a stone"
+    },
+    {
+      "id": "b29576d8-205f-52bd-9ee6-e4949fee0ec3",
+      "ref": "20.293-299",
+      "title": "Poseidon grieves for Aeneas"
+    },
+    {
+      "id": "5de3e051-3cfc-5965-b98b-2b5d23d08729",
+      "ref": "20.302-308",
+      "title": "The rule of Aeneas foretold"
+    },
+    {
+      "id": "24878767-45b7-5cb1-b628-a5ad85a5f96e",
+      "ref": "20.313-317",
+      "title": "Hera's oath against Troy"
+    },
+    {
+      "id": "02d3fee9-6348-51bd-8172-21dd64c3b9fb",
+      "ref": "20.321-329",
+      "title": "Poseidon carries Aeneas away"
+    },
+    {
+      "id": "f5753c38-6771-555d-b640-d32efddb924f",
+      "ref": "20.344-352",
+      "title": "A great wonder"
+    },
+    {
+      "id": "2303a731-9de0-565d-be9b-fd798a62f5a8",
+      "ref": "20.354-363",
+      "title": "Man against man"
+    },
+    {
+      "id": "92856e34-ddb0-56c6-916d-a81bc6504387",
+      "ref": "20.366-372",
+      "title": "Hector to the Trojans"
+    },
+    {
+      "id": "e12e5541-34a0-52bd-beb0-f15e253d7dc1",
+      "ref": "20.371-372",
+      "title": "His hands like fire"
+    },
+    {
+      "id": "7a58eab6-8776-5da9-b713-7db39ff3729d",
+      "ref": "20.375-380",
+      "title": "Apollo warns Hector"
+    },
+    {
+      "id": "d6c72224-c614-5666-85fa-d71dda2f0435",
+      "ref": "20.382-385",
+      "title": "Iphition, son of Otrynteus"
+    },
+    {
+      "id": "dc1e51a0-bb23-5959-b654-bfbc414983a7",
+      "ref": "20.389-392",
+      "title": "Achilles boasts over Iphition"
+    },
+    {
+      "id": "5e1c5bc0-ec95-5131-a8bc-0872c43b7c51",
+      "ref": "20.395-400",
+      "title": "Achilles kills Demoleon"
+    },
+    {
+      "id": "59525024-f74c-5df3-abe6-8ff1160cd0d0",
+      "ref": "20.401-406",
+      "title": "Hippodamas bellows like a bull"
+    },
+    {
+      "id": "82d2b421-1dfd-54a1-afd1-8dd8ad843b06",
+      "ref": "20.407-412",
+      "title": "Polydorus, Priam's youngest son"
+    },
+    {
+      "id": "f19e3ba9-12cc-5b23-8ee8-e62c8edaba63",
+      "ref": "20.413-418",
+      "title": "Achilles kills Polydorus"
+    },
+    {
+      "id": "df6876a6-7af8-526e-94b7-90c1317b8f44",
+      "ref": "20.419-423",
+      "title": "Hector sees Polydorus fall"
+    },
+    {
+      "id": "dc047cbe-ef7f-5805-9ff0-65c162fefeed",
+      "ref": "20.425-429",
+      "title": "The man who killed my companion"
+    },
+    {
+      "id": "aa378b47-dc43-56b1-b6d0-6f6aadaaf6b4",
+      "ref": "20.431-437",
+      "title": "Hector answers Achilles"
+    },
+    {
+      "id": "bdbb507c-972c-551d-ba2d-8000916cc3f0",
+      "ref": "20.441-446",
+      "title": "Apollo snatches Hector away"
+    },
+    {
+      "id": "01bdcf72-c94c-5dfc-ac4a-52ce7f6242bc",
+      "ref": "20.449-454",
+      "title": "Once again you have escaped death"
+    },
+    {
+      "id": "41301706-8596-5001-b3bc-1f66b78366ab",
+      "ref": "20.455-459",
+      "title": "Achilles kills Dryops and Demuchus"
+    },
+    {
+      "id": "f46b1486-e47f-59a6-b3dc-5e54972cc09a",
+      "ref": "20.460-462",
+      "title": "The sons of Bias"
+    },
+    {
+      "id": "1e1c9dc9-0970-585f-a7ee-7c030d470e8f",
+      "ref": "20.463-472",
+      "title": "Tros, son of Alastor"
+    },
+    {
+      "id": "7001b810-2e91-5de5-b54c-3e95bd8e4de9",
+      "ref": "20.472-477",
+      "title": "Achilles kills Mulius and Echeclus"
+    },
+    {
+      "id": "9e623104-394c-56e6-b3ab-5f547289d655",
+      "ref": "20.478-483",
+      "title": "Achilles kills Deucalion"
+    },
+    {
+      "id": "e2f7bb1b-e15b-5456-add6-a098907669f1",
+      "ref": "20.484-489",
+      "title": "Achilles kills Rhigmus and Areithous"
+    },
+    {
+      "id": "c9efdbc4-6ae4-517e-a043-be7f9cdce473",
+      "ref": "20.490-494",
+      "title": "Achilles like a forest fire"
+    },
+    {
+      "id": "68c4ea42-acff-57a1-a117-8e7d383edaad",
+      "ref": "20.495-503",
+      "title": "Achilles' horses trample the dead"
     }
   ]
 }

@@ -9,7 +9,8 @@ aliases: [Pedasos]
 # Pedasus in Messenia (9.152, 9.294) and Achilles' trace horse (16.152, 16.467): except those lines.
 grc: [Πήδασον]
 en: [Pedasus]
-except: [6.35, 9.152, 9.294, 16.152, 16.467]
+# Πήδασον at 20.92 is the town of the Leleges that Achilles sacked.
+except: [6.35, 9.152, 9.294, 16.152, 16.467, 20.92]
 refs: [6.26-28]
 relations:
   - father: bucolion (6.22)
@@ -21,6 +22,6 @@ passages:
 
 {{quote:fb0f65ec-7c59-5491-8d59-26fc70951453}}
 
-Like his twin he bears the name of a place in the Troad: Pedasus was a town of the Leleges on the river Satnioeis, named fourteen lines later as the home of Elatus (6.34–35; see [[pedasus-on-the-satnioeis]]). The name is also given to a town of Messenia that Agamemnon offers Achilles (9.152) and to Achilles' mortal trace horse, which Sarpedon kills (16.152–154, 16.467–469).
+Like his twin he bears the name of a place in the Troad: Pedasus was a town of the Leleges on the river Satnioeis, named fourteen lines later as the home of Elatus (6.34–35; see [[pedasus-on-the-satnioeis]]). Achilles sacked it, Aeneas says, when he drove him from his cattle on Ida (20.92). The name is also given to a town of Messenia that Agamemnon offers Achilles (9.152) and to Achilles' mortal trace horse, which Sarpedon kills (16.152–154, 16.467–469).
 
 He dies with his brother: see [[aesepus-son-of-bucolion]] and, on their parents, [[bucolion]] and [[abarbarea]].

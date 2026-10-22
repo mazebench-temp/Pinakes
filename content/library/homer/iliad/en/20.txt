@@ -1,0 +1,506 @@
+# Homer, Iliad, Book 20 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So they were arming themselves beside the curved ships,
+2	around you, son of Peleus, insatiable of battle, the Achaeans;
+3	and the Trojans on the other side, on the rise of the plain.
+4	And Zeus bade Themis call the gods to assembly
+5	from the summit of many-folded Olympus; and she went everywhere,
+6	going to and fro, and bade them come to the house of Zeus.
+7	And not one of the rivers was absent, except Oceanus,
+8	nor any of the nymphs who dwell in the lovely groves
+9	and the springs of rivers and the grassy meadows.
+10	And when they came to the house of Zeus the cloud-gatherer,
+11	they sat down in the polished colonnades, which for father Zeus
+12	Hephaestus had made with his cunning skill.
+13	So they were gathered within the house of Zeus; nor did the earth-shaker
+14	fail to heed the goddess, but came up out of the sea to join them,
+15	and sat down in their midst, and asked Zeus his plan:
+16	“Why, lord of the gleaming thunderbolt, have you called the gods to assembly again?
+17	Are you pondering something about the Trojans and the Achaeans?
+18	For now their battle and war have blazed up at very close quarters.”
+19	Answering him, Zeus the cloud-gatherer said:
+20	“You know, shaker of the earth, the plan in my breast,
+21	for which I have gathered you: I care for them, even as they perish.
+22	But I for my part will stay here in a fold of Olympus,
+23	seated, where I shall look on and delight my heart; but you others
+24	go, until you come among the Trojans and the Achaeans,
+25	and help either side, whichever way each of you has a mind.
+26	For if Achilles fights alone against the Trojans,
+27	they will not hold the swift-footed son of Peleus even for a little while.
+28	Even before now they used to tremble when they saw him;
+29	and now that he is terribly enraged at heart over his companion,
+30	I fear he may even sack the wall against fate.”
+31	So spoke the son of Cronus, and roused relentless war.
+32	And the gods set out to go to war, their hearts divided:
+33	Hera went to the gathering of the ships, and Pallas Athena,
+34	and Poseidon the earth-holder, and the great helper
+35	Hermes, who excels in his shrewd mind;
+36	and Hephaestus went with them, exulting in his strength,
+37	limping; and his slender shins moved nimbly beneath him.
+38	And to the Trojans went Ares of the gleaming helmet, and with him
+39	Phoebus of the unshorn hair, and Artemis of the showering arrows,
+40	and Leto and Xanthus and laughter-loving Aphrodite.
+41	Now as long as the gods were apart from mortal men,
+42	so long the Achaeans exulted greatly, because Achilles
+43	had appeared, who had long ceased from grievous battle;
+44	but a dread trembling came over the limbs of every Trojan,
+45	in their fear, when they saw the swift-footed son of Peleus
+46	flashing in his armor, the equal of Ares, ruin of mortals.
+47	But when the Olympians had come into the throng of men,
+48	mighty Strife rose up, who rouses armies, and Athena shouted,
+49	standing now beside the ditch they had dug, outside the wall,
+50	and now on the loud-resounding shores she shouted aloud.
+51	And Ares on the other side shouted, like a dark storm,
+52	shrilly calling on the Trojans from the topmost height of the city,
+53	and now running beside the Simoeis on Callicolone.
+54	So the blessed gods urged both sides on
+55	and brought them together, and made heavy strife break out among them;
+56	and terribly the father of men and gods thundered
+57	from on high; and below, Poseidon shook
+58	the boundless earth and the steep peaks of the mountains.
+59	And all the feet of Ida of the many springs were shaken,
+60	and its peaks, and the city of the Trojans and the ships of the Achaeans.
+61	And beneath, Aidoneus, lord of those below, was afraid,
+62	and in fear he leapt from his throne and cried out, lest above him
+63	Poseidon the earth-shaker should break the earth open,
+64	and his dwellings be laid bare to mortals and immortals,
+65	terrible and dank, which even the gods hate:
+66	so great was the din that rose as the gods came together in strife.
+67	For against lord Poseidon
+68	stood Phoebus Apollo with his feathered arrows,
+69	and against Enyalius the gray-eyed goddess Athena;
+70	against Hera stood she of the golden distaff, the clamorous
+71	Artemis of the showering arrows, sister of the Far-Shooter;
+72	against Leto stood strong Hermes, the great helper,
+73	and against Hephaestus the great deep-eddying river,
+74	whom the gods call Xanthus, and men Scamander.
+75	So gods went to meet gods; but Achilles
+76	longed above all to plunge into the throng to meet Hector,
+77	son of Priam; for it was with his blood above all that his heart bade him
+78	glut Ares, the warrior with the oxhide shield.
+79	But Apollo, who rouses armies, roused Aeneas straight
+80	to face the son of Peleus, and put noble might into him;
+81	and he made his voice like that of Priam's son Lycaon;
+82	in his likeness Apollo, son of Zeus, spoke to him:
+83	“Aeneas, counselor of the Trojans, where have your threats gone,
+84	which you promised the kings of the Trojans as you drank your wine,
+85	that you would fight face to face with Achilles, son of Peleus?”
+86	Then Aeneas, answering, spoke to him in turn:
+87	“Son of Priam, why do you bid me do this, though I am unwilling,
+88	to fight face to face with the high-hearted son of Peleus?
+89	For not now for the first time against swift-footed Achilles
+90	shall I stand; but already once before he put me to flight with his spear
+91	from Ida, when he came upon our cattle
+92	and sacked Lyrnessus and Pedasus; but Zeus
+93	rescued me, who roused my might and my nimble knees.
+94	Otherwise I would have been brought down at the hands of Achilles and of Athena,
+95	who went before him and brought him light, and bade him
+96	slay the Leleges and the Trojans with his bronze spear.
+97	So no man can fight face to face with Achilles;
+98	for always at his side is one of the gods, who keeps ruin away.
+99	And even without that, his weapon flies straight, and does not cease
+100	until it has passed through a man's skin. But if a god
+101	were to stretch the outcome of war evenly, he would not very easily
+102	win, not even if he boasts that he is all of bronze.”
+103	Then lord Apollo, son of Zeus, spoke to him in turn:
+104	“Come, hero, you too pray to the everlasting gods;
+105	for they say that you too were born of Zeus' daughter Aphrodite,
+106	and he is from a lesser goddess;
+107	for one is the daughter of Zeus, and the other of the Old Man of the Sea.
+108	But carry the unyielding bronze straight at him, and do not let him at all
+109	turn you back with wretched words and threats.”
+110	So saying, he breathed great might into the shepherd of the people,
+111	and he went through the champions, armored in gleaming bronze.
+112	Nor did the son of Anchises escape the notice of white-armed Hera
+113	as he went to face the son of Peleus through the crowd of men;
+114	and she gathered the gods together and spoke among them:
+115	“Consider now, you two, Poseidon and Athena,
+116	in your minds, how these things are to be.
+117	Here is Aeneas, gone forth armored in gleaming bronze
+118	to face the son of Peleus, and Phoebus Apollo set him on.
+119	But come, let us ourselves turn him back
+120	from where he is; or else let one of us stand by Achilles
+121	and give him great power, and let him lack nothing in his heart,
+122	so that he may know that the best of the immortals love him,
+123	and that those are empty wind who before now
+124	have warded off the war and the combat from the Trojans.
+125	We have all come down from Olympus to take our part
+126	in this battle, so that he may suffer nothing among the Trojans
+127	today; hereafter he shall suffer whatever his fate
+128	spun for him with her thread at his birth, when his mother bore him.
+129	But if Achilles does not learn this from the voice of the gods,
+130	he will be afraid then, when some god comes against him face to face
+131	in battle; for gods are hard to face when they appear in plain sight.”
+132	Then Poseidon the earth-shaker answered her:
+133	“Hera, do not rage beyond good sense; you have no need to.
+134	I would not wish that we should drive the gods together in strife,
+135	we others, since we are far the stronger.
+136	But let us go now and sit down
+137	off the path, at a lookout, and war will be the concern of men.
+138	But if Ares or Phoebus Apollo begins the battle,
+139	or they hold Achilles back and do not let him fight,
+140	then at once there will rise for us too, right there, the quarrel
+141	of the din of battle; and very soon, I think, they will be parted and
+142	go back to Olympus, to the gathering of the other gods,
+143	brought down at our hands under compulsion.”
+144	So he spoke, and the dark-haired god led the way
+145	to the heaped-up wall of divine Heracles,
+146	the high wall, which the Trojans and Pallas Athena
+147	had made for him, so that he might slip away and escape the sea monster
+148	whenever it chased him from the shore toward the plain.
+149	There Poseidon sat down, and the other gods,
+150	and they wrapped an unbreakable cloud about their shoulders;
+151	and the others sat down on the other side, on the brows of Callicolone,
+152	around you, archer Phoebus, and Ares, sacker of cities.
+153	So they sat on either side, devising
+154	their plans; but to begin harsh war
+155	both sides were loath, though Zeus, sitting on high, bade them.
+156	And the whole plain was filled with them, and it gleamed with bronze,
+157	with men and horses; and the earth rumbled beneath their feet
+158	as they rushed on together. And two men, by far the best,
+159	came together between the two armies, eager to fight,
+160	Aeneas, son of Anchises, and brilliant Achilles.
+161	Aeneas strode out first, threatening,
+162	tossing his heavy helmet; and he held his furious shield
+163	before his chest, and shook his bronze spear.
+164	And the son of Peleus rushed against him from the other side like a lion,
+165	a ravager, whom men are eager to kill,
+166	gathered together, a whole people; and at first he goes his way
+167	heedless of them; but when one of the young men swift in war
+168	hits him with a spear, he crouches with gaping jaws, and foam gathers
+169	about his teeth, and his valiant heart groans within him,
+170	and with his tail he lashes his ribs and his hips on both sides,
+171	and he urges himself on to fight,
+172	and glaring he rushes straight on in his fury, to see if he will kill
+173	one of the men, or perish himself in the front of the throng;
+174	so his might and his proud spirit urged Achilles on
+175	to go to meet great-hearted Aeneas.
+176	And when they had come close, advancing against each other,
+177	brilliant swift-footed Achilles spoke to him first:
+178	“Aeneas, why have you come so far out from the throng
+179	to stand here? Does your heart bid you fight with me
+180	in the hope that you will rule over the horse-taming Trojans
+181	with the honor of Priam? But even if you slay me,
+182	Priam will not put the prize in your hand for that;
+183	for he has sons, and he is steady, and not light of mind.
+184	Or have the Trojans marked out for you a domain finer than all others,
+185	a fair one, of orchard and plowland, for you to hold,
+186	if you kill me? But I think you will find it hard to do.
+187	Already, I say, once before I put you to flight with my spear.
+188	Do you not remember when you were alone, and I drove you
+189	away from the cattle, down the mountains of Ida on swift feet,
+190	swiftly? Then you never turned around as you fled.
+191	From there you escaped to Lyrnessus; but I
+192	sacked it, going after you with Athena and father Zeus,
+193	and took away the day of freedom from the women, and led them off
+194	as captives; but Zeus and the other gods rescued you.
+195	But they will not rescue you now, I think, as you
+196	imagine in your heart; no, I bid you draw back
+197	and go into the crowd, and do not stand against me,
+198	before you suffer some harm; a fool learns a thing once it is done.”
+199	Then Aeneas answered him in turn and said:
+200	“Son of Peleus, do not think that with words, as if I were a child,
+201	you will frighten me, since I too know well myself
+202	how to speak both taunts and evil words.
+203	We know each other's lineage, and we know each other's parents,
+204	hearing the tales mortal men have told of old;
+205	but by sight you have never yet seen mine, nor I yours.
+206	They say that you are the offspring of noble Peleus,
+207	and that your mother is Thetis of the lovely tresses, daughter of the sea;
+208	but I claim that I was born the son of great-hearted Anchises,
+209	and my mother is Aphrodite.
+210	Of these, one pair or the other will weep for their dear son
+211	today; for I do not think that with childish words
+212	we two shall part like this and come back from the battle.
+213	But if you wish to learn this too, so that you may know well
+214	our lineage—and many men know it—
+215	first Zeus the cloud-gatherer fathered Dardanus,
+216	and he founded Dardania, since sacred Ilios was not yet
+217	built in the plain, a city of mortal men,
+218	but they still dwelt on the slopes of Ida of the many springs.
+219	And Dardanus in turn fathered a son, king Erichthonius,
+220	who was the richest of mortal men;
+221	three thousand horses of his were pastured along the marshland,
+222	mares, glorying in their tender foals.
+223	And the North Wind fell in love with them as they grazed,
+224	and in the likeness of a dark-maned stallion he lay with them;
+225	and they conceived and bore twelve foals.
+226	These, when they bounded over the grain-giving earth,
+227	would run on the very tips of the ripe ears and not break them;
+228	but when they bounded over the broad back of the sea,
+229	they would run on the very crests of the breakers of the gray sea.
+230	And Erichthonius fathered Tros, lord of the Trojans;
+231	and to Tros in turn were born three noble sons,
+232	Ilus and Assaracus and godlike Ganymede,
+233	who was the most beautiful of mortal men;
+234	and the gods snatched him up to pour wine for Zeus,
+235	for the sake of his beauty, so that he might dwell among the immortals.
+236	And Ilus in turn fathered a son, noble Laomedon,
+237	and Laomedon fathered Tithonus and Priam,
+238	Lampus and Clytius and Hicetaon, offshoot of Ares;
+239	and Assaracus fathered Capys, and he fathered Anchises, his son;
+240	and Anchises fathered me, and Priam brilliant Hector.
+241	This is the lineage and the blood I claim.
+242	But it is Zeus who increases and diminishes the prowess of men,
+243	as he wishes; for he is the mightiest of all.
+244	But come, let us no longer talk like this, like children,
+245	standing in the middle of the battle of combat.
+246	For there are insults enough for both of us to speak,
+247	a great many, so that a ship of a hundred benches could not carry the load.
+248	The tongue of mortals is a twisting thing, and there are many words in it
+249	of every kind, and wide is the pasture of words, this way and that.
+250	Whatever kind of word you speak, such will you hear back.
+251	But what need is there for strife and quarrels between us two,
+252	to quarrel with each other face to face, like women
+253	who in their anger over heart-devouring strife
+254	go out into the middle of the street and quarrel with each other,
+255	saying many things, true and not true; for anger bids them say these too.
+256	You will not turn me from courage with words, eager as I am,
+257	until we have fought face to face with the bronze; but come, quickly,
+258	let us taste of each other with our bronze-fitted spears.”
+259	He spoke, and drove his heavy spear into the dread shield,
+260	the terrible shield; and the shield groaned loudly around the point of the spear.
+261	And the son of Peleus held the shield away from him with his strong hand
+262	in fear; for he thought that the long-shadowed spear
+263	of great-hearted Aeneas would easily pass through it,
+264	the fool, nor did he consider in his mind and in his heart
+265	that the glorious gifts of the gods are not easy
+266	for mortal men to master, nor do they give way.
+267	Nor did the heavy spear of wise-hearted Aeneas then
+268	break the shield; for the gold held it back, the gifts of the god;
+269	but it drove through two layers, and there were still three,
+270	since the crook-footed god had beaten out five layers,
+271	two of bronze, and two of tin inside,
+272	and one of gold, and in that the ash spear was stopped.
+273	Then second in his turn Achilles let fly his long-shadowed spear,
+274	and struck Aeneas on his shield, balanced on every side,
+275	under the outermost rim, where the bronze ran thinnest,
+276	and the oxhide on it was thinnest; and right through
+277	sped the Pelian ash, and the shield cracked beneath it.
+278	And Aeneas crouched, and held the shield up away from him
+279	in fear; and the spear, passing over his back, stood fixed in the ground,
+280	still straining, and it had parted both circles
+281	of the man-covering shield; and he, having avoided the long spear,
+282	stood still, and countless grief was poured over his eyes,
+283	in fear that the shaft had stuck so near him. But Achilles
+284	sprang at him eagerly, drawing his sharp sword,
+285	shouting terribly. But he took up a stone in his hand,
+286	Aeneas, a huge thing, which two men could not carry,
+287	such as mortals are now; but he wielded it easily even alone.
+288	Then Aeneas would have hit him with the stone as he rushed on,
+289	on helmet or on the shield that had kept grim destruction from him,
+290	and the son of Peleus would have taken his life with his sword at close quarters,
+291	had not Poseidon the earth-shaker been quick to see it;
+292	and at once he spoke among the immortal gods:
+293	“Ah, truly I have grief for great-hearted Aeneas,
+294	who will soon go down to Hades, brought down by the son of Peleus,
+295	because he obeyed the words of Apollo the Far-Shooter,
+296	the fool, and the god will do nothing to ward off grim destruction from him.
+297	But why does this man, who is not to blame, suffer sorrows now
+298	for nothing, for the sake of others' griefs, when he always gives pleasing
+299	gifts to the gods who hold the wide sky?
+300	But come, let us ourselves lead him out from death,
+301	lest the son of Cronus too be angry, if Achilles
+302	kills this man; for it is fated for him to escape,
+303	so that the lineage may not perish without seed and without a trace,
+304	the lineage of Dardanus, whom the son of Cronus loved above all the children
+305	who were born to him from mortal women.
+306	For already the son of Cronus has come to hate the lineage of Priam;
+307	and now mighty Aeneas shall be lord over the Trojans,
+308	and his children's children, who will be born hereafter.”
+309	Then ox-eyed queen Hera answered him:
+310	“Shaker of the earth, consider for yourself in your own mind
+311	whether you will rescue Aeneas or let him,
+312	brave as he is, be brought down by Achilles, son of Peleus.
+313	For we two have sworn many oaths
+314	among all the immortals, I and Pallas Athena,
+315	never to ward off the evil day from the Trojans,
+316	not even when all Troy blazes with ravening fire,
+317	burning, and the warlike sons of the Achaeans are burning it.”
+318	But when Poseidon the earth-shaker heard this,
+319	he went his way through the battle and through the turmoil of spears,
+320	and came to where Aeneas and famous Achilles were.
+321	At once he poured a mist over the eyes
+322	of Achilles, son of Peleus; and he drew the ash spear with its good bronze
+323	out of the shield of great-hearted Aeneas,
+324	and set it down before the feet of Achilles,
+325	and lifting Aeneas high he sent him flying from the ground.
+326	And over many ranks of heroes, and many ranks of horses,
+327	Aeneas leapt, springing from the hand of the god,
+328	and came to the far edge of the furious war,
+329	where the Caucones were arming themselves for war.
+330	And Poseidon the earth-shaker came very near him,
+331	and he spoke to him, addressing him with winged words:
+332	“Aeneas, which of the gods bids you so recklessly
+333	fight face to face with the high-hearted son of Peleus,
+334	who is at once stronger than you and dearer to the immortals?
+335	No, draw back whenever you meet him,
+336	lest you come to the house of Hades even beyond your portion.
+337	But when Achilles has met his death and his fate,
+338	then take heart, and fight among the foremost;
+339	for no other of the Achaeans will slay you.”
+340	So saying, he left him there, when he had made all this plain to him.
+341	And at once he scattered the mist from the eyes of Achilles,
+342	the heaven-sent mist; and he stared hard with his eyes,
+343	and deeply troubled he spoke to his own proud heart:
+344	“Ah, truly this is a great wonder that I see with my eyes:
+345	here is my spear lying on the ground, and I do not see the man at all
+346	at whom I hurled it, eager to kill him.
+347	Truly Aeneas too was dear to the immortal gods;
+348	but I thought he boasted idly, all for nothing.
+349	Let him go to his ruin! He will have no heart to try me again,
+350	he who even now was glad to escape from death.
+351	But come, calling on the war-loving Danaans,
+352	I will go against the other Trojans and make trial of them.”
+353	He spoke, and leapt along the ranks, and called on every man:
+354	“Stand no longer far from the Trojans now, brilliant Achaeans,
+355	but come, let man go against man, and let him be eager to fight.
+356	It is hard for me, mighty though I am,
+357	to chase so many men and fight with them all;
+358	not even Ares, though he is an immortal god, nor Athena
+359	could deal with the mouth of so great a battle and toil through it;
+360	but as far as I can, with hands and feet
+361	and strength, I say that I will hold back no longer, not even a little,
+362	but I will go right through their ranks, and I think no man
+363	of the Trojans will rejoice, whoever comes near my spear.”
+364	So he spoke, urging them on; and shining Hector called to the Trojans
+365	with a shout, and said that he would go against Achilles:
+366	“High-hearted Trojans, do not fear the son of Peleus.
+367	I too could fight even with the immortals in words,
+368	but with the spear it is hard, since they are far stronger than we are.
+369	Nor will Achilles put fulfillment to all his words,
+370	but one he will fulfill, and another he will cut short halfway.
+371	I will go against him, even if his hands are like fire,
+372	if his hands are like fire, and his might like gleaming iron.”
+373	So he spoke, urging them on, and they raised their spears to face them,
+374	the Trojans; and their might mingled together, and the war cry rose.
+375	And then Phoebus Apollo stood beside Hector and said:
+376	“Hector, no longer step out at all as a champion against Achilles,
+377	but wait for him in the crowd and out of the din,
+378	lest he hit you with a spear, or strike you with his sword at close quarters.”
+379	So he spoke, and Hector went back again into the crowd of men,
+380	afraid, when he heard the voice of the god as he spoke.
+381	And Achilles leapt among the Trojans, clothed in courage in his heart,
+382	shouting terribly, and first he killed Iphition,
+383	the brave son of Otrynteus, leader of many people,
+384	whom a Naiad nymph bore to Otrynteus, sacker of cities,
+385	beneath snowy Tmolus, in the rich land of Hyde;
+386	and as he came straight on, eager, brilliant Achilles hit him with his spear
+387	full on the head; and it was all split in two,
+388	and he fell with a thud; and brilliant Achilles boasted over him:
+389	“You lie there, son of Otrynteus, most terrible of all men;
+390	here is your death, but your birthplace is by the lake,
+391	the Gygaean, where your father's domain is,
+392	by the fish-filled Hyllus and the eddying Hermus.”
+393	So he spoke, boasting, and darkness covered his eyes.
+394	And the horses of the Achaeans tore him apart with the tires of their wheels
+395	in the front line of battle; and after him Demoleon,
+396	a brave defender against battle, the son of Antenor,
+397	he stabbed in the temple, through the bronze-cheeked helmet.
+398	Nor did the bronze helmet hold it, but right through it
+399	the point, pressing on, broke the bone, and the brain
+400	inside was all spattered; and he beat him down for all his eagerness.
+401	And then, as Hippodamas leapt down from his chariot,
+402	he stabbed him with his spear in the back as he fled before him.
+403	And he gasped out his life and bellowed, as when a bull
+404	bellows as he is dragged around the Heliconian lord
+405	by young men dragging him; and the earth-shaker is glad of them;
+406	so as he bellowed, his proud spirit left his bones.
+407	But he went with his spear after godlike Polydorus,
+408	son of Priam. His father would not let him fight at all,
+409	because he was the youngest born among his children,
+410	and the dearest to him, and he surpassed them all in speed of foot;
+411	and then in his childishness, showing off the prowess of his feet,
+412	he rushed through the champions, until he lost his dear life.
+413	Brilliant swift-footed Achilles hit him in the middle with a javelin
+414	in the back as he darted past, where the golden clasps of the belt
+415	held it together, and the corselet met it in a double layer;
+416	and the point of the spear went straight through, beside the navel,
+417	and he fell to his knees with a groan, and a cloud enfolded him,
+418	a dark cloud, and sinking down he clutched his bowels to him with his hands.
+419	But when Hector saw his brother Polydorus
+420	holding his bowels in his hands, sinking to the ground,
+421	a mist was poured over his eyes, and he could no longer bear
+422	to range far off for long, but he came against Achilles,
+423	brandishing his sharp spear, like a flame; but Achilles,
+424	as soon as he saw him, leapt up, and spoke in triumph:
+425	“Here near me is the man who has touched my heart most deeply,
+426	who killed my honored companion; no longer now
+427	will we shrink from each other along the bridges of war.”
+428	He spoke, and looking at him darkly he addressed brilliant Hector:
+429	“Come nearer, so that you may the sooner reach the bounds of destruction.”
+430	Unafraid, Hector of the gleaming helmet answered him:
+431	“Son of Peleus, do not think that with words, as if I were a child,
+432	you will frighten me, since I too know well myself
+433	how to speak both taunts and evil words.
+434	And I know that you are brave, and I am far worse than you.
+435	But these things lie on the knees of the gods,
+436	whether, worse though I am, I shall take your life
+437	hitting you with my spear, since my weapon too is sharp at the point.”
+438	He spoke, and poising his spear he let it fly; and Athena
+439	turned it back from glorious Achilles with a breath,
+440	blowing very gently; and it came back to brilliant Hector,
+441	and fell right there before his feet. But Achilles
+442	sprang at him in his fury, eager to kill him,
+443	shouting terribly; but Apollo snatched him away
+444	very easily, as a god can, and hid him in thick mist.
+445	Three times then brilliant swift-footed Achilles sprang at him
+446	with his bronze spear, and three times he struck the deep mist.
+447	But when for the fourth time he rushed on like a god,
+448	he shouted at him terribly and addressed him with winged words:
+449	“Once again you have escaped death now, you dog; truly, evil came close
+450	to you; and now again Phoebus Apollo has saved you,
+451	to whom you must pray when you go into the thud of javelins.
+452	I will surely finish you off when I meet you later,
+453	if there is any god who is a helper to me as well.
+454	Now I will go after the others, whomever I can catch.”
+455	So saying, he stabbed Dryops in the middle of the neck with a javelin,
+456	and he fell before his feet. And he left him there,
+457	and Demuchus, son of Philetor, tall and brave,
+458	he hit on the knee with his spear and stopped him; and then
+459	stabbing him with his great sword he took away his life.
+460	And then Laogonus and Dardanus, the two sons of Bias,
+461	he rushed upon, and thrust both from their chariot to the ground,
+462	hitting the one with his spear, and striking the other with his sword at close quarters.
+463	And Tros, son of Alastor—he came to meet him, to clasp his knees,
+464	in the hope that he would take him and spare him and let him go alive,
+465	and not kill him, pitying a man of his own age,
+466	the fool, and he did not know that the other would not be persuaded;
+467	for he was no sweet-tempered man, nor gentle-hearted,
+468	but in a great fury; and he was trying to clasp his knees with his hands,
+469	eager to beg him, but the other stabbed him with his sword in the liver;
+470	and the liver slipped out of him, and the dark blood from it
+471	filled his bosom; and darkness covered his eyes
+472	as his life failed; and he went up to Mulius and stabbed him
+473	with his spear in the ear; and at once through the other ear went
+474	the bronze point. And Echeclus, son of Agenor,
+475	he struck full on the head with his hilted sword,
+476	and the whole sword grew warm with blood; and his eyes
+477	were seized by purple death and mighty fate.
+478	And then Deucalion, where the sinews of the elbow
+479	hold together, there he pierced through the arm
+480	with the bronze point; and he awaited him, his arm weighed down,
+481	seeing death before him; and he struck his neck with his sword
+482	and sent his head flying far, helmet and all; and the marrow
+483	spurted from his vertebrae, and he lay stretched out on the ground.
+484	And he went on his way after the noble son of Peirous,
+485	Rhigmus, who had come from deep-soiled Thrace;
+486	he hit him in the middle with a javelin, and the bronze stuck in his belly,
+487	and he fell from the chariot; and Areithous, his attendant,
+488	as he turned the horses back, he stabbed in the back with his sharp spear,
+489	and thrust him from the chariot; and his horses were thrown into confusion.
+490	As a wondrous fire rages through the deep valleys
+491	of a dry mountain, and the deep forest burns,
+492	and the wind, driving it everywhere, whirls the flame,
+493	so he rushed everywhere with his spear, like a god,
+494	chasing the men he was killing; and the black earth ran with blood.
+495	As when a man yokes broad-browed bulls
+496	to tread out white barley on a well-built threshing floor,
+497	and quickly it is husked beneath the feet of the loud-bellowing bulls,
+498	so beneath great-hearted Achilles his single-hoofed horses
+499	trampled corpses and shields alike; and with blood the axle
+500	was all spattered beneath, and the rails that ran around the chariot,
+501	struck by the drops thrown up from the horses' hooves
+502	and from the tires. And he was eager to win glory,
+503	the son of Peleus, and his irresistible hands were spattered with gore.

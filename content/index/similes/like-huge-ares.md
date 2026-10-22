@@ -26,6 +26,6 @@ It is measured by its effect. “And the Argives rejoiced as they looked at him,
 
 ## Elsewhere in Homer
 
-The Trojans' trembling is told in the same line when Achilles appears in Book 20 (20.44 = 7.215). They tremble as they see him shining in his armor, “equal to Ares, the bane of mortals” (20.46). Only these two men, Ajax like Ares and Achilles equal to Ares, make the whole Trojan army tremble in those words.
+The Trojans' trembling is told in the same line when Achilles appears in Book 20 (20.44 = 7.215). They tremble as they see him “flashing in his armor, the equal of Ares, ruin of mortals” (20.46). Only these two men, Ajax like Ares and Achilles equal to Ares, make the whole Trojan army tremble in those words.
 
 Other warriors are likened to the god. Meriones and Idomeneus go to battle as Ares goes to war with his son Rout (13.298–305), Hector rages “as when spear-brandishing Ares” rages (15.605–606), and both Hector and Achilles are “the equal of Ares” or of Enyalius (11.295, 20.46, 22.132). In Book 7 Meriones is “the equal of Enyalius, slayer of men” (7.166; see [[enyalius]]).

@@ -1,0 +1,10 @@
+---
+summary: The Republic will admit none of the battles of the gods that Homer composed, nor the strife of the gods through Themis and Zeus, and strikes out the dank dwellings of Hades that Aidoneus fears will be laid bare. The Cratylus asks why the river is more rightly called Xanthus than Scamander, and the Laws find in Aeneas' verses on Dardania the time when men lived on the slopes of Ida, before Ilios was built in the plain.
+---
+
+- All the battles of the gods that Homer composed, banned “whether composed with hidden meanings or without” (*Republic* 2.378b–d): [[title-of-book-20]] and [[plato-hephaestus-hurled]].
+- “The strife and judgment of the gods through Themis and Zeus” (*Republic* 2.379e–380a), which Proclus took for the assembly that opens this book (20.4–25): [[proclus-on-the-battle-of-the-gods]].
+- The dwellings of Hades, “terrible and dank, which even the gods hate” (*Republic* 3.386d, quoting 20.64–65): [[plato-the-terrors-of-hades]].
+- The river “whom the gods call Xanthus, and men Scamander”, which “fought in single combat with Hephaestus” (*Cratylus* 391e, on 20.73–74): [[plato-chalcis-and-cymindis]].
+- Dardania, founded on the slopes of Ida “since sacred Ilios was not yet / built in the plain”, as Homer's witness to the growth of cities after the flood (*Laws* 3.681e–682b, 702a, quoting 20.216–218): [[plato-the-slopes-of-ida]] and [[dardania]].
+- **Hestia at home.** Only Oceanus stays away from the gods' assembly (20.7; see [[oceanus]]). Walter Leaf reports the suggestion that Oceanus stays away because he is the bond that holds the world together, as Hestia, the fixed dwelling, stays away from the procession of the gods in the *Phaedrus*, where Zeus drives his winged chariot through the heavens and an army of gods and daemons follows him in eleven divisions, “for Hestia stays alone in the house of the gods” (*Phaedrus* 246e–247a; *Commentary on the Iliad*, 1900, on 20.7). The same procession gave Proclus the number of the gods who take part in the battle (see [[proclus-on-the-battle-of-the-gods]]).

@@ -13,11 +13,12 @@ relations:
   - commander: menestheus (13.690-691)
 passages:
   - 13.689-693 | The leaders at the ships
-except: [Rhetoric 1389b24]
+# Bias at 20.460 is a Trojan, the father of Laogonus and Dardanus.
+except: [20.460, Rhetoric 1389b24]
 ---
 
 {{quote:5dda8018-71dc-5b5d-9c20-0d89b8bcf3ec}}
 
 Βίας τʼ ἐΰς, “and good Bias” (13.691): ἐΰς, “good, brave”, is a common word of praise. He is named only here, the last of the three Athenians who follow Menestheus at the head of the picked men, with Pheidas and Stichius (see [[menestheus]], [[pheidas]], [[stichius]] and [[athenians]]). The name is formed from βίη, “might, force”.
 
-Homer has two other men of the name: Bias, one of the five captains around whom Nestor marshals the Pylians (4.295–296; see [[bias]]), and a Trojan whose two sons, Laogonus and Dardanus, Achilles kills (20.460–461). The Bias of later genealogy, brother of the seer Melampus, is another again (see [[bias]]).
+Homer has two other men of the name: Bias, one of the five captains around whom Nestor marshals the Pylians (4.295–296; see [[bias]]), and a Trojan whose two sons, Laogonus and Dardanus, Achilles kills (20.460–461; see [[bias-father-of-laogonus]], [[laogonus-son-of-bias]] and [[dardanus-son-of-bias]]). The Bias of later genealogy, brother of the seer Melampus, is another again (see [[bias]]).

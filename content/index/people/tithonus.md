@@ -3,7 +3,7 @@ title: Tithonus
 greek: Τιθωνός
 kind: person
 tags: [trojan, house-of-priam]
-summary: A Trojan prince, son of [[Laomedon]] and brother of [[Priam]], and the husband of Dawn, who rises from his bed at the start of the third day of battle (11.1). Later poets told how Dawn won him immortality but not youth, so that he grew old forever.
+summary: A Trojan prince, son of [[Laomedon]] and brother of [[Priam]], and the husband of Dawn, who rises from his bed (11.1). Later poets told how Dawn won him immortality but not youth, so that he grew old forever.
 aliases: [Tithonos, Tithōnos]
 grc: ["Τιθων*"]
 relations:

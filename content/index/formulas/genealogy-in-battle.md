@@ -21,6 +21,6 @@ Three meetings of the Iliad are built the same way: Diomedes and Glaucus (6.119�
 
 Lineage is a warrior's title to be heard and feared. Diomedes, the youngest of the leaders, claims the right to speak in council from his father Tydeus: no one could say that he was of base or cowardly birth (14.110–127). Tlepolemus, a son of Heracles, tells Sarpedon that men lie when they call him a son of Zeus (5.633–646), and Idomeneus, over a man he has killed, tells Deiphobus to come and see what kind of offspring of Zeus has come to Troy: Zeus fathered Minos, Minos Deucalion, and Deucalion him (13.448–454). When Achilles has killed Asteropaeus, he answers the genealogy the dead man gave him: a river's son cannot contend with the sons of Zeus, and Achilles is a grandson of Aeacus, the son of Zeus (21.184–199).
 
-The long genealogies also keep the memory of the older generations. Glaucus' carries the story of Bellerophon (see [[bellerophon]]), and Aeneas' the history of the Dardanian house, from Dardanus through Tros and the horses of Erichthonius to Priam and himself (see [[dardanus]] and [[tros]]).
+The long genealogies also keep the memory of the older generations. Glaucus' carries the story of Bellerophon (see [[bellerophon]]), and Aeneas' the history of the Dardanian house, from Dardanus through Tros and the horses of Erichthonius to Priam and himself (see [[dardanus]], [[the-mares-of-erichthonius]] and [[tros]]).
 
 {{notes}}

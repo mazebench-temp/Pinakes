@@ -8,7 +8,8 @@ aliases: [sacrifices, offering, burnt offering, victims]
 grc: [ἱερὰ ῥέξας, ἕρδον, κνίσης, κνίση, ἑλισσομένη περὶ καπνῷ, ῥέξαι, αὐέρυσαν, ἔσφαξαν, ἔδειραν, ἐξέταμον, κνίσῃ ἐκάλυψαν, δίπτυχα ποιήσαντες, ὠμοθέτησαν, καῖε δʼ ἐπὶ σχίζῃς, κάη, σπλάγχνα πάσαντο, μίστυλλόν, ὤπτησάν τε περιφραδέως]
 refs: [1.443]
 # ἐξέταμον at 13.391 is the felling of pines for ship-timber.
-except: [13.391]
+# ῥέξειν at 20.186 is "do": "I think you will find it hard to do".
+except: [13.391, 20.186]
 en: [offer the sacrifices, offered, offer, savor, curling in the smoke, drew back the victims' heads, cut their throats, flayed them, cut out, wrapped them in fat, making a double fold, laid raw flesh upon them, burned them on split wood, burned up, tasted the entrails, cut up the rest, roasted it carefully]
 passages:
   - 1.313-317 | Purification and sacrifice on the shore

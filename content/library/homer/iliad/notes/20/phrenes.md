@@ -1,0 +1,5 @@
+---
+summary: Zeus will watch the war from Olympus “and delight my heart” (20.23); Hermes “excels in his shrewd mind” (20.35); Hera bids Poseidon and Athena consider “in your minds” how to deal with Aeneas (20.116), and Poseidon “in your own mind” whether to save him (20.310). Achilles did not consider “in his mind and in his heart” that the gods' gifts cannot be mastered (20.264), and he leaps among the Trojans “clothed in courage in his heart” (20.381).
+---
+
+φρένα τέρψομαι is “take my ease” in Walter Leaf's rendering; he finds it hard to square with Zeus' care for the mortals two lines before (20.21), and notes that the next book develops it to exaggeration, when Zeus laughs to see the gods meet in strife (21.389–390; *Commentary on the Iliad*, 1900, on 20.23; see [[watching-the-war]]). Priam, Achilles says, is “not light of mind” (ἀεσίφρων, 20.183), a word that Leaf thinks may come not from ἀάω, “blind”, as is usually held, but from ἄημι, “blow”, and so mean “volatile” (on 20.183; see the translation's note on 20.183).

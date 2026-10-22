@@ -14,7 +14,7 @@ of: [olympus, ida]
 
 πολύπτυχος = πολύς (“many”) + πτύξ (“fold, layer”): “of many folds.” A πτύξ is a layer of a shield; Hector's spear goes through six of the seven layers of Ajax's shield (7.247; [[seven-oxhide]]). Of a mountain the folds are its ridges and glens. Olympus has another epithet of the same kind, πολυδειράς, “many-ridged” ([[many-ridged-olympus]]).
 
-The word occurs four times, always in the genitive. Of Olympus: here, and when Themis calls the gods to assembly “from the head of many-folded Olympus” (20.4–5). Of Ida: the glens of wooded Ida where Apollo herded Laomedon's cattle (21.448–449), and its peaks, on which Hector burned many thighs of oxen for Zeus (22.170–171; [[ida]]).
+The word occurs four times, always in the genitive. Of Olympus: here, and when Themis calls the gods to assembly “from the summit of many-folded Olympus” (20.4–5). Of Ida: the glens of wooded Ida where Apollo herded Laomedon's cattle (21.448–449), and its peaks, on which Hector burned many thighs of oxen for Zeus (22.170–171; [[ida]]).
 
 ## Use
 

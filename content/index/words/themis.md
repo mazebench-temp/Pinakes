@@ -7,6 +7,8 @@ summary: θέμις is what is laid down as right; its plural θέμιστες a
 aliases: [themis, themistes, right, custom, judgment, dikaspoloi, judges]
 grc: [θέμιστας, δικασπόλοι, δικαζέμεν]
 en: [give judgment, ordinances, decide]
+# Θέμιστα at 20.4 is the goddess (themis-the-goddess).
+except: [20.4]
 refs: [1.239]
 passages:
   - 1.233-246 | The oath on the scepter

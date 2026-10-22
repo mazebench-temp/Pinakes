@@ -18,6 +18,10 @@ passages:
 
 αἰπεινή, “steep” (6.35; see [[steep]]): a town on a height. In Book 21 it is αἰπήεσσα, with the same meaning, and again on the Satnioeis: Lycaon tells Achilles that his mother Laothoe was the daughter of old Altes, “who rules the war-loving Leleges, holding steep Pedasus on the Satnioeis” (21.85–87; see [[lycaon-son-of-priam]]). The Leleges are among the allies of Troy, encamped toward the sea (10.429).
 
-Aeneas remembers that Achilles, after chasing him from his cattle on Ida, “sacked Lyrnessus and Pedasus” (20.89–92; see [[lyrnessus]] and [[the-sack-of-lyrnessus]]). The poem does not say whether this is the same Pedasus. Another Pedasus, “vine-rich”, is one of the seven towns at the edge of sandy Pylos that Agamemnon offers Achilles (9.152, 9.294), and Pedasus is also the name of Achilles' mortal trace horse (16.152).
+Aeneas remembers that Achilles, after chasing him from his cattle on Ida, “sacked Lyrnessus and Pedasus” (20.89–92; see [[lyrnessus]] and [[the-sack-of-lyrnessus]]). Aeneas does not say which Pedasus he means, but he names the Leleges four lines later (20.96), and Strabo takes it for the Pedasus of the Leleges (13.1.7). Another Pedasus, “vine-rich”, is one of the seven towns at the edge of sandy Pylos that Agamemnon offers Achilles (9.152, 9.294), and Pedasus is also the name of Achilles' mortal trace horse (16.152).
 
 The son of Bucolion who dies with his twin fourteen lines earlier bears the town's name (6.21; see [[pedasus-son-of-bucolion]]).
+
+## Outside Homer
+
+Strabo says that in his day the site of the town was shown, deserted, on the river Satnioeis, and that the Leleges, driven out by Achilles, moved to Caria and settled around Halicarnassus, where a town in the interior, Pedasa, was named after it (*Geography* 13.1.50, 13.1.58–59; see [[leleges]] and [[strabo]]).
