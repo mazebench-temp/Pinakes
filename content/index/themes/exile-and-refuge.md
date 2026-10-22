@@ -25,4 +25,4 @@ The exile is a man without the protection of his kin. Nestor's maxim names the o
 
 ## Priam
 
-When Priam enters Achilles' hut and kisses his hands, the poem compares him to a fugitive killer: “as when blind folly seizes a man who has killed a man in his own country, and he comes to the land of others, to the house of a rich man, and wonder holds those who see him”, so Achilles wondered at the sight of Priam (24.480–484; see [[ate]]). The roles are reversed. The man who comes as a suppliant to the killer's house is the father of the man who was killed.
+When Priam enters Achilles' hut and kisses his hands, the poem compares him to a fugitive killer: “As when a heavy blind folly seizes a man who in his native land / has killed a man, and he comes to the land of others, / to the house of a wealthy man, and amazement holds those who watch”, so Achilles was amazed at the sight of Priam (24.480–484; see [[ate]]). The roles are reversed. The man who comes as a suppliant to the killer's house is the father of the man who was killed.

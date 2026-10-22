@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, warrior]
 summary: A Trojan killed by the Boeotian [[Leitus]] as he fled (6.35–36). Not [[Phylacus]], the father of Iphiclus.
 aliases: [Phylakos]
-# ^: φύλακος "guard" (φυλάκους, 24.566).
+# ^: φύλακος, genitive of φύλαξ "sentry" (φυλάκους, "the sentries", 24.566).
 grc: ["^Φύλακον"]
 en: [Phylacus]
 refs: [6.36]

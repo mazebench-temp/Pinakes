@@ -4,9 +4,9 @@ greek: Σάμος
 kind: place
 tags: [island, ionian-islands]
 summary: An island of Odysseus' realm, the one later called Cephallenia (Kefalonia), which the Odyssey also calls Same. It is not the Samos off Ionia.
-# Σάμον at 24.753 (with Imbros and Lemnos) is Samothrace: except it here when Book 24 is indexed.
 grc: [Σάμον]
-except: [Rhetoric 1384b32, Rhetoric 1393b23, Rhetoric 1393b32]
+# Σάμον at 24.753 (with Imbros and Lemnos) is Samothrace (samothrace).
+except: [24.753, Rhetoric 1384b32, Rhetoric 1393b23, Rhetoric 1393b32]
 ---
 
 {{quote:9c03507b-9887-5f75-ba10-30dc72cbc764}}

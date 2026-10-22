@@ -1,0 +1,8 @@
+---
+summary: Alcimus, “offshoot of Ares”, is one of the two companions busy beside Achilles when Priam comes into the hut, and goes out with Achilles and Automedon to take the ransom; Achilles honors the two above all his companions after Patroclus (24.474, 24.574–575). The commentators take Alcimus for the short form of Alcimedon.
+# Unnamed: busy beside Achilles (24.475); unyoking the mules and horses, bringing in the herald, taking the ransom
+# and leaving the mantles (24.576-580).
+refs: [24.475, 24.576-580]
+---
+
+**Alcimus.** The short name is always beside Automedon's: “the hero Automedon and Alcimus, offshoot of Ares” are the two companions busy at Achilles' side when Priam comes in (24.473–475), and “the hero Automedon and Alcimus, whom above all / of his companions Achilles honored, after Patroclus who was dead” go out with him to unyoke the mules and horses, bring in the herald and take the ransom from the wagon (24.573–579; see [[automedon]], [[achilles]] and [[boundless-ransom]]). ὄζος Ἄρηος, “offshoot of Ares”, is a title of fighting men (2.540, 2.704, 2.745; see [[offshoot-of-ares]]). Walter Leaf calls Ἄλκιμος the short form of Ἀλκιμέδων, as at 19.392 (*Commentary on the Iliad*, 1900, on 24.474), and those whom Strabo reports, arguing that Homer shortened names, cite this verse, “the hero Automedon and Alcimus”, Ἄλκιμος “instead of Ἀλκιμέδων” (*Geography* 8.5.3; see [[strabo]]). In the poem Alcimedon took the reins of Achilles' horses for Automedon in the fight over Patroclus (17.475–483), and Alcimus yoked them with Automedon when Achilles armed (19.392–394); here the two unyoke Priam's.

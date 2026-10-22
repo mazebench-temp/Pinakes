@@ -22,7 +22,7 @@ Here Hecuba meets Hector, leading in Laodice (6.251–252; see [[hecuba]] and [[
 
 ## Elsewhere in Homer
 
-The Trojans hold their assemblies at Priam's doors (2.788, 7.345–346). When Iris comes to him in the last book, he sits in the courtyard among his sons with dung on his head and neck (24.160–165). He drives the Trojans out of the colonnade (24.237–238), prays standing in the middle of the courtyard (24.306), and drives out through the gateway and the echoing colonnade on his way to Achilles (24.322–323).
+The Trojans hold their assemblies at Priam's doors (2.788, 7.345–346). In the last book Priam sets out from it to ransom Hector, and after the burial the Trojans hold Hector's funeral feast in it (24.160–323, 24.802–803).
 
 ## Outside Homer
 

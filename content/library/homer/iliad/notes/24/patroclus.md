@@ -1,0 +1,21 @@
+---
+summary: Achilles lies awake longing for Patroclus, his manhood and his might and all they went through together, and drags Hector around his mound at dawn (24.3–18). In the hut he weeps for him beside Priam, honors Automedon and Alcimus most after him, and, when he has given Hector's body back, asks him not to be angry in the house of Hades and promises him his share of the ransom (24.511–512, 24.575, 24.591–595). Hecuba remembers the dragging around his mound (24.755–756).
+# Unnamed: "his dear companion" (24.4), what they went through together (24.7-9), the mound of his dear companion
+# (24.51, 24.416, 24.755), and Achilles' words to him (24.591, 24.593-595).
+refs: [24.4, 24.7-9, 24.51, 24.416, 24.591, 24.593-595, 24.755]
+passages:
+  - 24.3-13 | Achilles longs for Patroclus
+  - 24.591-595 | Achilles asks Patroclus' pardon
+---
+
+**The longing.** When the games are over, Achilles “wept, remembering his dear companion”, and cannot sleep, “longing for Patroclus, for his manhood and his noble might, / and all that he had wound out with him, and the sorrows he had suffered, / passing through the wars of men and the grievous waves” (24.4–8; see [[achilles]]). ἀνδροτής, “manhood”, is the word of the verse in which his soul went down to Hades, “leaving manhood and youth” (16.857; see [[the-death-of-patroclus]]). τολυπεύω, “wind out”, is found elsewhere in the Iliad only of the wars that Zeus gives men to wind out from youth to old age (14.86), and the next verse, of the wars of men and the waves of the sea, is the Odyssey's (*Odyssey* 8.183, 13.91, 13.264; Walter Leaf, *Commentary on the Iliad*, 1900, on 24.6 and 24.8; see the translation's note on 24.6–9). Achilles counted his own wars by sea and land in Book 9, twelve cities sacked from the ships and eleven on foot (9.328–329; see [[achilles-raids]]).
+
+**The mound.** Each dawn Achilles drags Hector three times “around the mound of the dead son of Menoetius” (24.16; see [[son-of-menoetius]] and [[the-dragging-of-hector]]). It is the mound heaped over the pyre in Book 23, left small until the Achaeans make it wide and high over Achilles too (23.245–248, 23.255–257; see [[tomb]]). Apollo, Hermes and Hecuba call it the mound of Achilles' companion (24.51, 24.416, 24.755–756), and Hecuba names him: “Patroclus, whom you killed; and even so he did not raise him up” (24.756; see [[hecuba]]).
+
+**In the hut.** When Priam weeps for Hector at his feet, “Achilles wept for his own father, and now again / for Patroclus; and their groaning rose through the house” (24.511–512; see [[peleus]]). Automedon and Alcimus are the companions whom Achilles honored most “after Patroclus who was dead” (24.575; see [[automedon]] and [[alcimedon]]); the Odyssey says the same of Antilochus, whom Achilles honored above all the rest after the dead Patroclus (*Odyssey* 24.78–79; see [[antilochus]]). In Book 16 Patroclus too had honored Automedon most after Achilles (16.146).
+
+**The share of the ransom.** When the body has been washed and laid on the wagon, Achilles “groaned aloud then, and called his dear companion by name” (24.591):
+
+{{quote:c4e0c860-0bda-5a51-8da0-4ba091931a85}}
+
+σκυδμαινέμεν, “be angry”, is the anger of the gods with Achilles himself for keeping Hector (σκύζεσθαι, 24.113, 24.134), and the anger Achilles owned in Book 9, when he greeted the envoys as dearest to him, “angry as I am” (9.198). The ghost of Patroclus asked to be buried so that he might pass the gates of Hades (23.71–74; see [[the-ghost-of-patroclus]]), and now he is imagined there, hearing the news. The Alexandrians athetized 594–595, holding that Achilles gives up the body at the command of Zeus, not for gifts; Walter Leaf answers that the command was conditional on the ransom, and that only the ransom lets Achilles say that the surrender does him no dishonor (on 24.594; see the translation's note on 24.594 and [[the-ransom-of-hector]]). How Patroclus was to have his share, Leaf confesses, we do not know: Andromache's words over Hector's clothes, which she will burn for his fame (22.510–514), suggest that a portion of the clothing would be burned in his honor, as Odysseus promises the dead a pyre filled with good things (*Odyssey* 11.30–31), and some of the costly things might be kept to be buried with his ashes (on 24.594; see [[boundless-ransom]] and [[honoring-the-dead]]).

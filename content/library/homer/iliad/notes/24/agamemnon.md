@@ -1,0 +1,5 @@
+---
+summary: Agamemnon is named in the last book only as a danger to Priam: Achilles has him sleep outside, lest a counselor see him and tell Agamemnon (24.650–655), and Hermes warns that Priam's sons would pay three times the ransom for him alive “if Agamemnon, / son of Atreus, learns of you” (24.686–688).
+---
+
+The quarrel that began the poem is remembered in the disguised Hermes' tale: Achilles “would not let us fight, being angry with the son of Atreus” (24.394–395; see [[hermes]] and [[quarrel-of-achilles-and-agamemnon]]). Otherwise Agamemnon appears only as a threat in the night. Achilles has Priam lie outside, “lest one of the Achaeans / come in here, a counselor”, who might “at once tell Agamemnon, shepherd of the people, / and there might be delay in the ransoming of the body” (24.650–655; see [[achilles]] and [[apoina]]). Hermes, waking Priam, warns that his sons would give three times as much ransom for him alive “if Agamemnon, / son of Atreus, learns of you, and all the Achaeans know it” (24.686–688; see [[priam]]), and Priam leaves before dawn.

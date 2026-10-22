@@ -24,7 +24,7 @@ The gods pity men as they watch them (see [[watching-the-war]]). A formula marks
 
 ## Pity lost and found
 
-The poem's last movement turns on pity. Apollo, “pitying the man even in death”, keeps Hector's body from disfigurement, and the gods pity him as they watch it dragged (24.18–23). Apollo complains to them that Achilles “has destroyed pity” and has no sense of shame (24.44). When Priam has made his plea and the two have wept together, Achilles raises the old man from the ground, “pitying his gray head and gray beard” (οἰκτίρων, 24.507–516).
+The poem's last movement turns on pity. Apollo, “pitying the man, / though he was dead”, keeps all defilement from Hector's body, and the gods pity him as they watch it dragged (24.18–23). Apollo complains to them that Achilles “has lost all pity, and he has no shame” (24.44). When Priam has made his plea and the two have wept together, Achilles raises the old man from the ground, “pitying his gray head and his gray beard” (οἰκτίρων, 24.507–516).
 
 {{notes}}
 

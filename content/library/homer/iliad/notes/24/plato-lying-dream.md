@@ -1,0 +1,8 @@
+---
+summary: With the lying Dream Plato rejects a passage of Aeschylus in which Thetis complains that Apollo, who sang at her wedding of her children's long lives, was himself the killer of her son. Hera makes the same charge in this book, when she reminds Apollo that he feasted with his lyre at that wedding, “friend of the wicked, faithless always”.
+refs: [24.62-63]
+---
+
+**Aeschylus' Thetis.** After the Dream, Socrates will not praise Aeschylus either, when Thetis says that Apollo, singing at her wedding, foretold her children's good fortune, “lives free from sickness and long”, and raised the paean over her blessed lot: “and I hoped that the divine mouth of Phoebus was free from falsehood, rich in the prophet's art; but he who sang, who was himself at the feast, who said these things, he it is who killed my son” (*Republic* 2.383a–b; see the entry above and [[aeschylus]]).
+
+**Hera's charge.** In this book Hera answers Apollo's protest for Hector with the same wedding. Achilles is the son of a goddess whom she reared herself and gave as wife to Peleus, “And all you gods came to the wedding; and you among them / feasted with your lyre, friend of the wicked, faithless always” (24.59–63; see [[apollo]], [[hera]] and [[thetis-in-the-house-of-peleus]]). Hera's word is ἄπιστε, “faithless”, the reproach of Aeschylus' Thetis to the god whose mouth she thought free of falsehood. In the Iliad Apollo's part in Achilles' death is foretold by the dying Hector (22.359–360), and Thetis, when Iris finds her in the sea in this book, “was weeping for the fate of her noble son, who was to / perish in deep-soiled Troy, far from his native land” (24.85–86; see [[thetis]] and [[death-of-achilles-foretold]]).

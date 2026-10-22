@@ -1,0 +1,15 @@
+---
+summary: Iris finds Priam sitting in the dung of his courtyard, “wrapped close in his cloak” (24.162–163). He takes twelve single cloaks and twelve white mantles from his chests for the ransom (24.230–231); two of the mantles are left out to wrap the body, and Hector is given back clothed in a mantle and a tunic (24.580–588). Woolly cloaks are laid on the beds of Priam and his herald in Achilles' porch (24.646).
+# χλαίνῃ (24.163), χλαίνας (24.230, 24.646), φάρεα (24.231) and φάρεʼ (24.580) are first met here; φᾶρος (24.588)
+# is the entry's.
+grc: [χλαίνῃ, χλαίνας, φάρεα, φάρεʼ]
+en: [mantles, mantle]
+---
+
+**Wrapped close.** Iris finds the old king among his weeping sons, “and in their midst the old man / sat wrapped close in his cloak; and around him much / dung lay on the head and neck of the old man” (24.162–164; see [[priam]] and [[lament]]). ἐντυπάς, “wrapped close”, is found only here. Walter Leaf reports the ancient explanation, that the cloak was drawn so tight that the shape of the body showed through it, which is how Apollonius of Rhodes understood the word, and that Quintus of Smyrna may have taken it of the outline printed in the dust; he finds the word strange in either sense (*Commentary on the Iliad*, 1900, on 24.163; see the translation's note on 24.163).
+
+**In the ransom.** “and twelve single cloaks, and as many rugs, / and as many white mantles, and as many tunics besides” (24.230–231). Leaf explains ἁπλοΐς, “single”, as a cloak worn single, against the χλαῖνα διπλῆ (10.134) or the δίπλαξ (3.126), which was larger and folded double before it was put on; both are outer garments, “a sort of plaid”. He reports Studniczka's view that the φᾶρος was an especially costly form of the double cloak, worn only by people of rank, and made not of wool, like the χλαῖνα, but of the dearer linen, which would explain λευκά, “white”, an epithet of linen (on 24.230). The two verses recur in the Odyssey, in the list of gifts that Odysseus, in his tale to his father, says he gave a guest (*Odyssey* 24.276–277), with καλά, “fine”, for λευκά (see [[guest-gifts]]).
+
+**The body's wrappings.** When Achilles' men unload the ransom, “they left two mantles and a well-spun tunic, / so that he could wrap the corpse and give it to be carried home” (24.580–581), and after the slave women have washed and anointed the body, they “put a fine mantle and a tunic around him” (24.587–588; see [[tunic]], [[bathing]] and [[honoring-the-dead]]). Leaf supposes that of the two mantles one was spread as a cover on the bier and the other wrapped round the body (on 24.587; see the translation's note on 24.587). Patroclus too lay on his bier under “a white cloak”, a φᾶρος (18.353; see the note on Book 18).
+
+**The guests' beds.** For the night Achilles' companions and slave women spread beds under the colonnade with purple blankets and rugs, “and put woolly cloaks on top for them to wear” (24.646; see [[bed]] and [[purple]]): the χλαῖνα is the blanket of the night, as it is for the guest in the palaces of the Odyssey, where the same verse recurs (*Odyssey* 4.299, 7.338).

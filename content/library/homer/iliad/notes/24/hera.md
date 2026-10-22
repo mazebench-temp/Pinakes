@@ -1,0 +1,19 @@
+---
+summary: With Poseidon and Athena, Hera alone of the gods will not have Hector's body stolen, keeping the hatred of Troy she has held since the Judgment of Paris. She answers Apollo's protest in anger: Hector is a mortal, Achilles the son of a goddess whom she reared herself and gave to Peleus, and Apollo played his lyre at their wedding. Zeus answers her mildly. When Thetis comes up to Olympus, Hera puts a golden cup in her hand and comforts her.
+# Unnamed: her words to Apollo (24.56-63).
+refs: [24.56-63]
+passages:
+  - 24.55-63 | Hera answers Apollo
+---
+
+**The hatred of Troy.** When the gods would have Hermes steal the body, “This pleased all the others, but never Hera, / nor Poseidon, nor the gray-eyed maiden” (24.25–26; see [[the-gods-debate]], [[poseidon]] and [[athena]]). The narrator gives the reason: they held to the hatred they had conceived for sacred Ilios, and Priam, and the people, “for Alexander's blind folly, / who insulted the goddesses when they came to his farmyard” (24.28–29; see [[the-judgment-of-paris]]). It is the only reason the poem gives. In Book 4 Zeus asked her what Priam and his sons had done to her, that she raged to sack Ilios, and she did not say (4.31–36; see [[the-bargain-of-zeus-and-hera]]). Aristarchus athetized 25–30 (see the translation's note on 24.23–30).
+
+**Hera's answer.** When Apollo has reproached the gods for letting Achilles defile the corpse, “Then in anger white-armed Hera said to him” (24.55; see [[white-armed]]):
+
+{{quote:2c53a978-c538-5178-b38a-c596b565064c}}
+
+Her argument is honor, τιμή: the man Apollo pleads for is a mortal, and the man he condemns is a goddess' son. Walter Leaf paraphrases the first verses, “Even this thing thou sayest might be so, if indeed ye gods will set like price on Achilles as on Hector”, and finds in them a reduction to absurdity of Apollo's whole case (*Commentary on the Iliad*, 1900, on 24.56); in θνητός, “a mortal”, the weight falls on the second half of the verse, the woman's breast (on 24.58; see [[time]]). The goddess is Thetis, whom Hera says she nursed and gave to Peleus (see [[thetis]], [[peleus]] and [[thetis-in-the-house-of-peleus]]). Elsewhere the marriage is the gods' doing, “on the day when they put you into the bed of a mortal man” (18.85), and Thetis says that Zeus subdued her to a man against her will (18.432–434). Leaf reports the later legend that Hera favored Thetis because she refused the advances of Zeus (on 24.60), and Apollodorus gives it as one version, that Thetis would not lie with Zeus because Hera had reared her, and Zeus in anger married her to a mortal (*Library* 3.13.5; see [[apollodorus]]). Hera ends with a taunt at Apollo, who played his lyre at the wedding, “friend of the wicked, faithless always” (24.63; see [[apollo]]).
+
+Zeus does not rebuke her as he did in Book 1 (1.560–567; see [[quarrel-on-olympus]]). He grants her first point, “Hera, do not be wholly angry with the gods; / their honor will not be one and the same”, and then sets Hector's offerings against it (24.65–70; see [[zeus]]). ἀποσκύδμαινε, “be wholly angry”, is found only here in Homer.
+
+**The cup for Thetis.** When Iris brings Thetis up from the sea, she sits down beside father Zeus, “And Hera put a fine golden cup in her hand / and gladdened her with words; and Thetis drank and handed it back” (24.101–102; see [[cup]]). Leaf takes εὔφρηνε as “cheered her with kind words” (on 24.102). In Book 1 Hera saw that Thetis had been with Zeus and taunted him for laying plans with her in secret (1.536–543); now she welcomes her with the cup. The gods welcomed Hera herself so when she came back to Olympus in Book 15, rising and greeting her with their cups, and she took the cup of fair-cheeked Themis (15.85–88; see [[themis-the-goddess]]). This is Hera's last act in the poem.

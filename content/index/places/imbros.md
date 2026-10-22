@@ -5,10 +5,10 @@ kind: place
 tags: [island, thrace]
 summary: An island of the northern Aegean off the Thracian Chersonese, northwest of the mouth of the Hellespont, which Homer calls “rocky”. Poseidon leaves his horses in a cave of the sea “between Tenedos and rocky Imbros” (13.32–38), and later books name it with Samothrace and Lemnos.
 aliases: [Imvros, Gökçeada]
-# Ἴμβρου (13.33; also 14.281, 24.78); Ἴμβρον (24.753) to be added then. Ἴμβριον (13.171, 13.197) is the
-# Trojan Imbrius, and Ἴμβριος at 21.43 is "of Imbros", of Lycaon's guest-friend Eetion: claimed as an exact
-# form in the Book 21 note, never a stem.
-grc: [Ἴμβρου]
+# Ἴμβρου (13.33, 14.281, 24.78) and Ἴμβρον (24.753). Ἴμβριον (13.171, 13.197) is the Trojan Imbrius, and
+# Ἴμβριος at 21.43 is "of Imbros", of Lycaon's guest-friend Eetion: claimed as an exact form in the Book 21
+# note, never a stem.
+grc: [Ἴμβρου, Ἴμβρον]
 passages:
   - 13.32-38 | The cave between Tenedos and Imbros
 ---

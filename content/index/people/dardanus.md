@@ -4,8 +4,9 @@ greek: Δάρδανος
 kind: person
 tags: [trojan, king, demigod, child-of-zeus]
 summary: Son of [[Zeus]] and founder of the royal line of Troy. Priam is called Δαρδανίδης, “descendant of Dardanus”, after him, and the [[Dardanians]] bear his name.
-# Δαρδανίδῃ (13.376) is Priam, by the patronymic rule; the same letters are the vocative to Priam at 24.171, 24.354.
-grc: [Δαρδανίδης, Δαρδανίδῃ]
+# Δαρδανίδῃ (13.376) is Priam, by the patronymic rule; the same letters are the vocative to Priam at 24.171, 24.354,
+# and Δαρδανίδην is Priam at 24.631.
+grc: [Δαρδανίδης, Δαρδανίδῃ, Δαρδανίδην]
 # Dardanus at 20.460 is a son of Bias, whom Achilles kills.
 except: [20.460]
 relations:

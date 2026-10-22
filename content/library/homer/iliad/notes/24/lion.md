@@ -1,0 +1,9 @@
+---
+summary: Both lions of Book 24 are Achilles. Apollo tells the gods that he knows savage ways, like a lion that gives way to its strength and proud spirit and goes among the flocks of men to take its feast (24.41–43), and when Priam has obeyed his warning he springs out of the door of his hut like a lion (24.572).
+---
+
+**Apollo's lion.** λέων δʼ ὣς ἄγρια οἶδεν, “he knows savage ways, like a lion” (24.41). Apollo speaks among the gods on the twelfth day of the dragging, and the lion is his picture of a mind that cannot be bent: it gives way to its great strength and proud spirit and goes among the flocks of men to take its feast, “so Achilles has lost all pity, and he has no shame” (24.41–45; see [[savage-as-a-lion]] and [[apollo]]). The simile names no hunger, the motive of so many lions in the battle similes (3.25, 12.299–300, 18.162). Walter Leaf thinks its verses an imitation of the lion simile of Book 17, where a lion is kept from the cattle by dogs and men (*Commentary on the Iliad*, 1900, on 24.42; 17.657–664; see [[lion-driven-from-the-farmyard]]).
+
+**The lion at the door.** Πηλεΐδης δʼ οἴκοιο λέων ὣς ἆλτο θύραζε, “And the son of Peleus sprang out of the door of the house like a lion” (24.572; see [[like-a-lion]]). He has just warned Priam not to provoke him, lest he break the commands of Zeus and not spare even a suppliant (24.560–570). The lion goes out to take the ransom and to have the body washed and laid on the wagon (24.573–590).
+
+The lions of the last books have been Achilles': he groaned over Patroclus like a bearded lion robbed of its cubs (18.318–322; see [[the-lion-and-its-cubs]]), he rushed against Aeneas like a wounded lion (20.164–175; see [[wounded-lion]]), and he told Hector that there are no trusty oaths between lions and men (22.262; see [[no-oaths-between-lions-and-men]]). Apollo's is the only one of his lions that a god describes, and the lion at the door is the last lion of the poem. See [[achilles]].

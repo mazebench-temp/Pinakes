@@ -1,0 +1,10 @@
+---
+summary: Achilles, sleepless, remembers “the sorrows he had suffered” with Patroclus (24.7); Priam asks the Trojans whether they make light of it “that Zeus, son of Cronus, has given me sorrows” (24.241); Achilles bids Priam “let us leave our sorrows / to lie quiet in our hearts” (24.522–523), and warns him not to stir his heart “among its sorrows” (24.568); Andromache ends her lament, “but to me above all will grievous sorrows be left” (24.742).
+grc: [ἄλγεσι]
+---
+
+**Sorrows shared.** The first ἄλγεα of the book are those Achilles shared with Patroclus, in war and at sea (24.6–9; see [[patroclus]] and [[achilles]]). The Alexandrians athetized 6–9, and Walter Leaf finds their case strong but not decisive: line 8 and the verb τολυπεύω are Odyssean, and the rare synizesis of ἄλγεα suggests that the phrase was borrowed from the Odyssey, where ἄλγεα is a dactyl (*Odyssey* 13.263; *Commentary on the Iliad*, 1900, on 24.6; see the translation's note on 24.6–9).
+
+**Sorrows given.** Priam's Κρονίδης Ζεὺς ἄλγεʼ ἔδωκε is the verse-end with which Agamemnon blamed Zeus for his quarrel with Achilles (2.375) and Thetis began the tale of her sorrows to Hephaestus (18.431); here it is the loss of “my best son” (24.241–242; see [[priam]]). Achilles' parable gives the same thought its image, the jars from which Zeus gives evils and blessings (24.527–533; see [[the-two-jars-of-zeus]]).
+
+**Sorrows laid to rest.** Achilles bids Priam sit and let their sorrows lie quiet in their hearts (24.522–524; see [[achos]]), and then, when Priam asks for the body at once, warns him not to stir his heart ἐν ἄλγεσι, “among its sorrows”, lest Achilles fail to spare him, suppliant though he is, and sin against the commands of Zeus (24.568–570; see [[supplication]] and [[thymos]]). Leaf notes the variant ἐνὶ φρεσί in manuscript A, and compares the Odyssey's κεῖται ἐν ἄλγεσι θυμός, of Penelope (*Odyssey* 21.88; on 24.568; see the translation's note on 24.568). Andromache's sorrows have no rest: ἄλγεα λυγρά are what Hector leaves her (24.742; see [[andromache]]).

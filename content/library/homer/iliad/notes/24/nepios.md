@@ -1,0 +1,7 @@
+---
+summary: Andromache begins her lament with her son: “and the boy is still a mere infant” (24.726), who she thinks will not reach his youth, and with the “devoted wives and little children” whom Hector kept safe and who will soon be carried off in the ships (24.730–731).
+---
+
+In the last book νήπιος has only its first sense, a small child; the narrator's “fool” is not heard in it. Andromache's verse is the one she spoke when she first saw Hector dragged, πάϊς δʼ ἔτι νήπιος αὔτως (24.726–727 = 22.484–485); Walter Leaf notes that apart from these lines her lament here is independent of the one in Book 22 (*Commentary on the Iliad*, 1900, on 24.726). The same child was νήπιον αὔτως, “quite small”, in his nurse's arms at the Scaean gates in Book 6 (6.400; see [[astyanax]] and [[andromache]]). She does not think he will reach his youth (ἥβη, 24.727–728), and foresees his death, thrown from the tower by an Achaean whose kinsman Hector killed (24.734–738; see [[cholos]]).
+
+ἀλόχους … καὶ νήπια τέκνα, “wives and little children”, are what the war is fought over in the Iliad's formulas: the families the Achaeans left at home, the wives and children of Troy for whom the Trojan women pray to Athena, and those Hector summoned the allies to defend (2.136, 6.95, 17.223; see [[the-city-and-the-household]]). Hector, Andromache says, kept them safe, and they will be carried off in the hollow ships, she among them (24.729–732; see [[sack-of-troy-foretold]]).

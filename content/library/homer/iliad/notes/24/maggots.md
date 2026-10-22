@@ -1,0 +1,5 @@
+---
+summary: Hermes tells Priam that his son has lain twelve days beside the ship of Achilles, and that his flesh does not rot and the worms that feed on men slain in battle do not eat him (24.411–415).
+---
+
+“and this is the twelfth dawn / that he has lain there, and his flesh does not rot at all, nor do the worms / eat him, which feed on men slain in battle” (24.413–415; see [[hermes]] and [[fresh-as-dew]]). The relative verse, αἵ ῥά τε φῶτας ἀρηϊφάτους κατέδουσιν, is the verse that Thetis said of the flies in Book 19, when Achilles feared that they would breed worms in the wounds of Patroclus (19.31); Walter Leaf notes the repetition and finds the verse less appropriate in Book 19, where it is said of flies (*Commentary on the Iliad*, 1900, on 24.415). Andromache, when Hector's body was dragged away, foresaw that writhing worms would eat it by the ships when the dogs had had their fill (22.508–510). Hermes' words answer both fears: the gods have kept Hector's body as Thetis kept the body of Patroclus with ambrosia and nectar (19.38–39), and “So do the blessed gods care for your own son, / corpse though he is” (24.422–423; see [[slain-in-battle]]).

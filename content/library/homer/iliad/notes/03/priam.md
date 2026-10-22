@@ -24,7 +24,7 @@ passages:
 
 {{quote:0bf4d405-d02f-599f-ab87-63f250320f9f}}
 
-He calls her φίλον τέκος ("dear child") and clears her before she speaks: she is not αἰτίη ("to blame"); the gods are αἴτιοι. See [[aitios]] and [[who-is-to-blame]]. It is his judgment, not Helen's: she answers, calling him "dear father-in-law" (ἑκυρέ; see [[in-laws]]), by wishing she had died before she followed his son (3.172–176). In her lament for Hector at the end of the poem she remembers that Priam was "always gentle, like a father" (24.767–772).
+He calls her φίλον τέκος ("dear child") and clears her before she speaks: she is not αἰτίη ("to blame"); the gods are αἴτιοι. See [[aitios]] and [[who-is-to-blame]]. It is his judgment, not Helen's: she answers, calling him "dear father-in-law" (ἑκυρέ; see [[in-laws]]), by wishing she had died before she followed his son (3.172–176). In her lament for Hector at the end of the poem she remembers that Priam was "always kind, like a father" (24.770).
 
 **The view from the wall.** He asks her to name "this huge man", handsomer and more stately than any he has seen, "for he looks like a king" (3.166–170). It is Agamemnon, and Priam answers with praise and a memory:
 

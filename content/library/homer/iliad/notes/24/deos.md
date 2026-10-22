@@ -1,0 +1,7 @@
+---
+summary: Zeus wants Achilles to “fear me and release Hector” (24.116); Priam is “terribly afraid” when Hermes appears (24.358) and twice, at Achilles' threat and at Hermes' warning, “the old man was afraid” (24.571, 24.689); at home he tells the Trojans to “have no fear” of an ambush (24.778–779).
+---
+
+**Fear of the gods.** Zeus sends Thetis to tell Achilles that the gods are angry, “in the hope that he may fear me and release Hector” (24.116; see [[zeus]] and [[thetis]]). Hermes, in disguise, says of Achilles, “I fear him and feel shame above all in my heart” (24.435; see [[hermes]] and [[aidos]]).
+
+**Priam's fear.** The journey is made through fear. When Idaeus sees a man approaching in the dark, “the old man's mind was confounded, and he was terribly afraid” (24.358); the stranger asks, “Do you not fear the Achaeans breathing fury” (24.364; see [[breathing-fury]]). In the hut, when Achilles warns him not to provoke him, “the old man was afraid, and obeyed his word” (24.571), the line of Chryses before Agamemnon (1.33; see [[book-1-and-book-24]]); and when Hermes wakes him in the night with the warning that the Achaeans would pay three times the ransom for him alive, “the old man was afraid, and roused the herald” (24.689; see [[priam]]). His sons, “fearing their father's rebuke”, make ready the wagon (24.265; see [[sons-of-priam]]), and at home he tells the Trojans to “have no fear / in your hearts of a cunning ambush of the Argives” (24.778–779; see [[ambush]]).

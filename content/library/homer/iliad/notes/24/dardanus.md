@@ -1,0 +1,5 @@
+---
+summary: Dardanus is named in this book only in Priam's title, Δαρδανίδης, “descendant of Dardanus”: in Iris' greeting, in Idaeus' warning, and twice as Priam and Achilles marvel at each other (24.171, 24.354, 24.629, 24.631).
+---
+
+“Take heart in your mind, Priam, descendant of Dardanus, and have no fear” (24.171): Iris greets him with his ancestor's name and the word of reassurance, θάρσει (see [[iris]] and [[tharsos]]). His herald uses it in warning, “Take thought, descendant of Dardanus; this is work for a prudent mind” (24.354; see [[idaeus]]). The narrator gives it to him at the moment of mutual wonder: “then Priam, descendant of Dardanus, marveled at Achilles”, “and Achilles marveled at Priam, descendant of Dardanus” (24.629–631; see [[priam]], [[achilles]] and [[thambos]]). Δαρδανίδης Πρίαμος is a formula (3.303, 7.366, 22.352), and the accusative, Δαρδανίδην Πρίαμον, is found only here. Zeus fathered Dardanus, and loved him above all his children by mortal women (20.304–305).

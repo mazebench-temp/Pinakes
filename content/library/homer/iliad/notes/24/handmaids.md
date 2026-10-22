@@ -1,0 +1,12 @@
+---
+summary: In Priam's house the housekeeper, a handmaid, brings the basin and the pitcher for the water he pours over his hands before his libation. In Achilles' hut the slave women wash and anoint Hector's body and wrap it in a mantle and a tunic, out of Priam's sight, and at night they spread the beds for Priam and his herald beneath the colonnade (24.302–304, 24.582–590, 24.643–648).
+# ταμίην (24.302) only here in the Iliad. Unnamed: the women who go out with torches and spread the beds (24.647-648).
+grc: [ταμίην]
+refs: [24.647-648]
+---
+
+**The housekeeper.** “He spoke, and the old man urged the housekeeper, a handmaid, / to pour pure water over his hands; and she stood beside him, / the handmaid, holding a basin and a pitcher in her hands” (24.302–304; see [[hand-washing]] and [[priam]]). ἀμφίπολον ταμίην, “the housekeeper, a handmaid”: the ταμίη keeps the stores of the house, and the one woman is both (see the translation's row for ἀμφίπολος / δμῳαί). Hector found the “ready housekeeper” at his own door in Book 6 (6.381). In the Odyssey the handmaid who brings the water for a guest's hands pours it from a golden pitcher over a silver basin (*Odyssey* 1.136–138), and Walter Leaf notes that the ancient critics rejected 24.304 because Homer elsewhere calls the basin λέβης (*Commentary on the Iliad*, 1900, on 24.304; see the translation's note on 24.304).
+
+**The washing of the body.** In Achilles' hut, when the ransom has been taken from the wagon, “he called out the slave women and bade them wash and anoint him, / taking him aside, so that Priam should not see his son”, lest the father's anger break out and Achilles kill him (24.582–586; see [[achilles]] and [[hector]]). “And when the slave women had washed him and anointed him with oil, / and put a fine mantle and a tunic around him”, Achilles himself laid him on the bier (24.587–589; see [[cremation]] and [[bed]]). Patroclus' body was washed and anointed by Achilles' companions (18.343–353). In Book 22 Andromache had told her handmaids to heat a bath for Hector's return from battle (22.442–444; see [[bathing]]).
+
+**The beds.** At night “Achilles bade his companions and the slave women / set beds beneath the colonnade”, “And the women went out from the hall with torches in their hands, / and quickly, in haste, they spread two beds” (24.643–648; see [[hut]] and [[bed]]). Over Hector's body Andromache foresees herself and the wives of Troy carried off in the ships, and her son toiling for an implacable master (24.730–734; see [[captive-women]] and [[andromache]]).

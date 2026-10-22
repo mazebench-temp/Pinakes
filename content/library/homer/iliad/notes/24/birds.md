@@ -1,0 +1,12 @@
+---
+summary: The birds of Book 24 are omens and eaters of the dead. Priam tells Hecuba not to be a bird of evil omen in the halls; at her bidding he asks Zeus for a bird of omen, the swift messenger that is dearest of birds to him, and Zeus sends the eagle; and Hermes tells Priam that neither the dogs nor the birds have eaten his son (24.218–219, 24.292–321, 24.411).
+# οἰωνόν (24.292, 24.310) and οἰωνῶν (24.293, 24.311) occur in the Iliad only here.
+grc: [οἰωνὸν, οἰωνῶν]
+en: [bird of omen, bird of evil omen]
+---
+
+**A bird of evil omen.** When Hecuba begs him not to go, Priam answers, “Do not hold me back when I wish to go, and do not yourself / be a bird of evil omen in the halls; you will not persuade me” (24.218–219; see [[hecuba]] and [[priam]]). ὄρνις is the bird, and here, as Walter Leaf notes, the omen itself, as οἰωνός is in Hector's “One omen is best” (*Commentary on the Iliad*, 1900, on 24.219; 12.243; see [[one-omen-is-best]]); Leaf adds that the sense is not uncommon in later Greek. Priam goes on: if any mortal, a seer or a priest, had told him to go, he would call it a lie, but he heard the goddess himself (24.220–224; see [[divination]]).
+
+**The bird of Zeus.** Hecuba gives way, but she asks for a sign: he is to pray to Zeus “and ask for a bird of omen, his swift messenger, the one that to him / is dearest of birds, and whose strength is greatest, / on the right” (24.292–294), and if Zeus will not send it, she would not urge him to go (24.296–298). Leaf reports Brugmann's view that ταχύν, “swift”, has taken the place of an original ἑόν, “his own”, which a papyrus reads in this verse and the margin of a manuscript in both, and which Apollonius Dyscolus said some had wrongly changed to ταχύν (on 24.292). Priam prays in her words (24.308–313), and Zeus sends the eagle, “surest in omen of winged birds” (24.315; see [[eagle]], [[surest-of-birds]] and [[wings-as-wide-as-a-door]]). The omen birds of the earlier books came unasked; Leaf reports Bergk's remark that the asking is otherwise a thing of the Odyssey (on 24.290; see [[prayer]]).
+
+**The birds of the dead.** Priam fears that Achilles has set his son before his dogs, and Hermes answers, “Old man, the dogs have not yet eaten him, nor the birds” (24.411; see [[dogs]]). The dogs and the birds that the first verses of the poem promised to the dead (1.4–5), and that Achilles promised to Hector (22.335–336, 22.354), do not touch him.

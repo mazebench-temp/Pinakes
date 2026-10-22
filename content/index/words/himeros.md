@@ -13,7 +13,7 @@ en: [sweet longing, lovely]
 
 ἵμερος is longing: a desire that comes upon a person, often from outside, and “takes hold” of them (αἱρεῖ, 3.446). A god can put it into the heart (ἔμβαλε θυμῷ, 3.139). It is usually “sweet” (γλυκύς).
 
-It can be the longing of love. Hera asks Aphrodite for “φιλότης and ἵμερος”, with which Aphrodite overpowers gods and men (14.198–199), and ἵμερος is worked into Aphrodite's embroidered band beside φιλότης (“love”) and seductive talk (14.216). But it is not only desire for a lover. Iris puts in Helen a sweet longing for her former husband, her city and her parents (3.139–140). In the last book, Priam stirs in Achilles “a longing to weep for his father” (πατρὸς ἵμερον ὦρσε γόοιο, 24.507), and the two men weep together.
+It can be the longing of love. Hera asks Aphrodite for “φιλότης and ἵμερος”, with which Aphrodite overpowers gods and men (14.198–199), and ἵμερος is worked into Aphrodite's embroidered band beside φιλότης (“love”) and seductive talk (14.216). But it is not only desire for a lover. Iris puts in Helen a sweet longing for her former husband, her city and her parents (3.139–140). In the last book, Priam “roused the longing for lament for his father” in Achilles (πατρὸς ἵμερον ὦρσε γόοιο, 24.507), and the two men weep together.
 
 The adjective ἱμερόεις means “lovely, arousing longing”. Helen sees the “lovely breasts” of Aphrodite (3.397), and Zeus, when Diomedes has wounded his daughter, tells her that the works of war are not for her: she should attend to “the lovely works of marriage” (ἱμερόεντα ἔργα γάμοιο, 5.428–429). ἱμερτός, “lovely, longed for”, describes the river Titaressus in the Catalogue (2.751). The etymology is unknown.
 

@@ -4,7 +4,7 @@ grc: [ἐκνοστήσαντε, νοστήσω]
 en: [come home, returned]
 ---
 
-**Not returned.** Diomedes kills the two sons of old Phaenops and leaves their father “lamentation and grievous sorrows, since he did not receive them back alive, returned from battle” (ἐπεὶ οὐ ζώοντε μάχης ἐκνοστήσαντε δέξατο, 5.156–158; see [[bereaved-parents]]). ἐκνοστέω is “return out of” battle. The phrase comes back at the end of the poem, when Cassandra calls the Trojans to meet Hector's body as they once met him “alive, returned from battle” (24.704–706).
+**Not returned.** Diomedes kills the two sons of old Phaenops and leaves their father “lamentation and grievous sorrows, since he did not receive them back alive, returned from battle” (ἐπεὶ οὐ ζώοντε μάχης ἐκνοστήσαντε δέξατο, 5.156–158; see [[bereaved-parents]]). ἐκνοστέω is “return out of” battle. The phrase comes back at the end of the poem, when Cassandra calls the Trojans to meet Hector's body as they once met him “when he came home alive from battle” (24.704–706).
 
 **If I come home.** Pandarus, whose arrows have wounded two chieftains and killed neither, swears an oath on his homecoming: “if I come home and see with my eyes my native land and my wife and my great high-roofed house, then may a stranger cut my head from my shoulders on the spot if I do not put this bow in the blazing fire” (5.212–216; see [[the-bow-of-pandarus]]). He dies in the fight that follows, and the vow is never tested (5.290–296).
 

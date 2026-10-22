@@ -33,7 +33,7 @@ Hector reminds his horses that Andromache fed them honey-sweet wheat and mixed w
 
 In Book 22 she is at her loom, with a bath heating for his return, when she hears the wailing from the tower; she runs to the wall, sees him dragged toward the ships, faints, and laments him and the orphan their son will be (22.437–515; see [[astyanax]]).
 
-At the funeral she leads the lament, holding Hector's head. The city will be sacked and she will be carried off in the ships; the child will follow her to shameful work, or some Achaean will hurl him from the tower. Hector did not reach out his hands to her from his bed as he died, or leave her a word to remember (24.723–745).
+Over his body in the last book she leads the first of the three laments, holding his head, and foresees the sack of the city, her own captivity and her son's death (24.723–746; see [[the-laments-for-hector]]).
 
 ## Outside Homer
 

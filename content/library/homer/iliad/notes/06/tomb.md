@@ -7,7 +7,7 @@ passages:
   - 6.414-420 | The tomb of Eetion
 ---
 
-**Eetion's mound.** Achilles killed Eetion but did not strip him, “but he burned him with his intricate armor and heaped a mound over him” (ἠδʼ ἐπὶ σῆμʼ ἔχεεν, 6.418–419; see [[cremation]] and [[stripping-the-dead]]). χέω, “pour”, is the verb for heaping up the earth of a grave, and the same words close the poem: the Trojans laid Hector's bones in a grave “and quickly heaped a mound” (σῆμʼ ἔχεαν, 24.799). Around Eetion's mound grew trees:
+**Eetion's mound.** Achilles killed Eetion but did not strip him, “but he burned him with his intricate armor and heaped a mound over him” (ἠδʼ ἐπὶ σῆμʼ ἔχεεν, 6.418–419; see [[cremation]] and [[stripping-the-dead]]). χέω, “pour”, is the verb for heaping up the earth of a grave, and the same words close the poem: the Trojans laid Hector's bones in a grave “and swiftly they heaped up the mound” (σῆμʼ ἔχεαν, 24.799). Around Eetion's mound grew trees:
 
 {{quote:ea9b6b13-cf8a-5ff4-a559-e4af9444b4be}}
 

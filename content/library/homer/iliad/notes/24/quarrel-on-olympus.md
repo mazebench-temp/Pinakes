@@ -1,0 +1,6 @@
+---
+summary: The gods' last quarrel is over Hector's body: Hera answers Apollo “in anger” (24.55–63), Zeus settles it (24.65–76), and he tells Thetis that “For nine days a quarrel has arisen among the immortals” (24.107).
+refs: [24.55-76, 24.107-110]
+---
+
+The quarrels of Books 1 and 8 were between Zeus and Hera; the last is between Hera and Apollo, with Zeus as judge. After Apollo's protest (24.33–54), “in anger white-armed Hera said to him” that Hector and Achilles could not have the same honor, and reminded him that he had feasted at Peleus' wedding with his lyre, “friend of the wicked, faithless always” (24.55–63; see [[hera]], [[apollo]] and [[thetis-in-the-house-of-peleus]]). Zeus answers, “Hera, do not be wholly angry with the gods” (24.65), and settles it: there will be no stealing of the body, but Thetis will be called, so that Achilles “may receive gifts from Priam and release Hector” (24.71–76; see [[zeus]]). To Thetis he sums up the nine days: “For nine days a quarrel has arisen among the immortals / about Hector's corpse and Achilles, sacker of cities” (24.107–108). This time Hera's own welcome to Thetis, a golden cup and kind words, closes the scene in peace (24.101–102). See [[the-gods-debate]].

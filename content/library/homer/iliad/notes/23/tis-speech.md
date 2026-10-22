@@ -1,5 +1,5 @@
 ---
-summary: Menelaus asks the leaders to judge between him and Antilochus “lest someday one of the bronze-clad Achaeans say” that he won the mare by lies and by his rank, not by his horses (23.573–578).
+summary: Menelaus asks the leaders to judge between him and Antilochus “lest someday one of the bronze-armored Achaeans say” that he won the mare by lies and by his rank, not by his horses (23.573–578).
 en: [lest someday]
 ---
 

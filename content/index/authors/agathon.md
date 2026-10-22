@@ -6,6 +6,8 @@ tags: [tragic-poet, poet]
 summary: Athenian tragic poet (c. 448–400 BCE), whose first victory in 416 is the occasion of Plato's Symposium. Aristotle cites his Antheus, a tragedy with invented names, his failure with a whole Sack of Troy, his choral interludes, and his saying that the improbable is probable.
 aliases: [Agathon of Athens]
 grc: ["^Ἀγάθων*"]
+# Ἀγάθωνά at 24.249 is Agathon, son of Priam, not the tragic poet.
+except: [24.249]
 ---
 
 ## Life and work
@@ -15,3 +17,5 @@ Agathon won his first victory at the Lenaea of 416 BCE, and Plato set the *Sympo
 ## In the Poetics
 
 Agathon is Aristotle's example of a tragedy with nothing traditional in it: “in some none at all [of the familiar names], as in Agathon's Antheus; for in this play the incidents and the names alike are invented, and it gives no less pleasure” (1451b21–23; see [[antheus]] and [[traditional-stories]]). He made the mistake of putting an epic structure into a tragedy, “even Agathon failed in this alone” (1456a18–19; see [[sack-of-troy]]). He began the practice of choral interludes that belong to no particular play (1456a29–30; see [[embolima]]). And Aristotle twice quotes his paradox, “it is probable that many things should happen even contrary to probability” (1456a23–25, 1461b15; see [[the-probable-improbable]]). Some editors restore his name in the corrupt sentence at 1454b14, “as Agathon and Homer portrayed Achilles”.
+
+Agathon, son of Priam, is another man (24.249; see [[agathon-son-of-priam]]).

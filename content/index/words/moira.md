@@ -5,7 +5,9 @@ kind: term
 tags: [fate]
 summary: A share or portion, and so one's lot in life and above all one's death. κατὰ μοῖραν is “fairly, as is due”.
 aliases: [moira, moros, share, lot, ōkymoros, emmore]
-grc: [μοῖραν, ἔμμορε, ὠκύμορος, ὠκυμορώτατος]
+# Fate in person is the capitalized Μοῖρα (19.87, 19.410, 24.209) and Μοῖραι (24.49), claimed by fates; the
+# exclusion keeps them out of the common word's lines.
+grc: [μοῖραν, ἔμμορε, ὠκύμορος, ὠκυμορώτατος, "!^Μοῖρ*"]
 en: [fair and right, share, swift-fated, swifter to his fate]
 ---
 
@@ -13,7 +15,7 @@ en: [fair and right, share, swift-fated, swifter to his fate]
 
 μοῖρα is a share: a portion of meat at a feast, of land, of booty, of honor. From there it becomes one's lot in life, and above all the death that is one's portion. The word belongs with μείρομαι (“receive a share”; perfect ἔμμορε, “has as his share”) and with μόρος (“doom, death”).
 
-Personified, Μοῖρα is a power beside Zeus. Agamemnon names Zeus, Moira and the Erinys as the authors of his blindness (19.87), and Apollo says that the Moirai gave men an enduring heart (24.49).
+Personified, Μοῖρα is Fate, a power beside Zeus (see [[fates]]). Agamemnon names Zeus, Moira and the Erinys as the authors of his blindness (19.87), and Apollo says that the Moirai gave men an enduring heart (24.49).
 
 κατὰ μοῖραν means “in due measure, rightly”. It is the regular formula of approval for something said.
 

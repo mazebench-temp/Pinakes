@@ -1,0 +1,15 @@
+---
+summary: Achilles yokes his horses to his chariot each day to drag Hector behind it (24.14–15). Priam drives his own chariot to the ships behind the mule wagon, and Hermes takes the reins and the whip on the plain (24.279–282, 24.322–327, 24.440–442); at dawn Cassandra sees her father standing in the chariot, and from it he speaks to the people at the gates (24.701, 24.715).
+# ζυγόφιν (24.576), with the ν; ζυγόφι (19.404) is claimed in the note on Book 19. Unnamed: ἐξ ἵππων, the team and
+# chariot, "stepped down from the chariot" (24.459) and "leapt from the chariot" (24.469). ζυγὸν at 24.268 is the
+# mule yoke of the wagon (wagon), and δίφρου at 24.578 is the chair on which Idaeus is seated (stool).
+grc: [ζυγόφιν]
+refs: [24.459, 24.469]
+except: [24.268, 24.578]
+---
+
+**The dragging.** Each day “whenever he had yoked his swift horses under the chariot, / he would tie Hector behind the chariot to be dragged”, and drag him three times around the mound of Patroclus (24.14–16; see [[the-dragging-of-hector]] and [[achilles]]). The iterative verbs mark a deed done again and again (see the translation's note on 24.12). It is the chariot of Book 22, to which Achilles tied Hector by the feet with straps of oxhide, letting the head drag in the dust (22.395–404).
+
+**Priam's chariot.** For Priam his sons lead under the yoke the horses “that the old man / kept for himself and reared at the polished manger”, and the herald and the king have them yoked in the palace (24.279–282; see [[horses]] and [[idaeus]]). Walter Leaf reports a manuscript reading Τρωούς, “of Tros”, for Πριάμῳ, which would make them the famous breed of Tros kept by the kings of Troy and give point to αὐτὸς ἔχων, “kept for himself” (*Commentary on the Iliad*, 1900, on 24.279; see [[tros]]). After the libation and the eagle “the old man in his haste mounted his chariot, / and drove out from the doorway and the loud-resounding colonnade”, the wagon going in front with Idaeus and the horses behind, which “the old man drove, urging them on with the whip, / swiftly through the city” (24.322–327; see [[wagon]]). In Book 3 he drove out of the city to the oath in his own chariot too, but with Antenor beside him (3.259–263; see the note on Book 3); now he goes with no companion but the herald on the wagon. On the plain Hermes, still unknown, springs onto the chariot, “quickly took the whip and the reins in his hands”, and breathes might into the horses and the mules (24.440–442; see [[hermes]]); at the hut he steps down from it, and Priam leaps down after he has gone (24.459, 24.469). Achilles' men loose the horses and the mules “from under the yoke” (24.576), and before dawn Hermes yokes them again and drives them through the camp himself (24.690–691).
+
+**Home.** Cassandra, from Pergamus, sees her father first, “standing in the chariot, and the herald, crier of the city” (24.701; see [[cassandra]] and [[pergamus]]), and the people would have mourned Hector all day before the gates, “had not the old man spoken among the people from the chariot” (24.715; see [[priam]]).

@@ -38,6 +38,6 @@ In the Odyssey she is home again at Sparta with Menelaus. She mixes into the win
 
 ## Outside Homer
 
-In the *Cypria*, as [[proclus|Proclus]] summarizes it, Aphrodite promises Helen to Paris at the Judgment; Paris comes to Sparta while Menelaus is away in Crete, and carries off Helen with much treasure. The same poem made Nemesis, pursued by Zeus, her mother (Athenaeus 8.334b–d). Later tradition made her the daughter of Leda, whom Zeus visited as a swan (Euripides, *Helen* 16–21).
+In the *Cypria*, as [[proclus|Proclus]] summarizes it, Aphrodite promises Helen to Paris at the Judgment (see [[the-judgment-of-paris]]); Paris comes to Sparta while Menelaus is away in Crete, and carries off Helen with much treasure. The same poem made Nemesis, pursued by Zeus, her mother (Athenaeus 8.334b–d). Later tradition made her the daughter of Leda, whom Zeus visited as a swan (Euripides, *Helen* 16–21).
 
 Stesichorus retracted the story in his *Palinode* (see [[stesichorus-palinode]]): “That story is not true: you did not go in the well-benched ships, nor come to the towers of Troy” (quoted by Plato, *Phaedrus* 243a–b). Herodotus heard in Egypt that Helen had spent the war there with King Proteus, and argued that Homer knew this version but set it aside as less fit for epic (2.112–120; see [[helen-in-egypt]]). Euripides' *Helen* (412 BCE) sends only a phantom to Troy. Gorgias defended her in his *Encomium of Helen* (see [[gorgias-helen]]).

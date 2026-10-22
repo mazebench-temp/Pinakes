@@ -3,7 +3,7 @@ title: Silver-white
 greek: ἀργύφεος
 kind: epithet
 tags: [sea, rare-word]
-summary: “Silver-white, shining,” ἀργύφεος, in the Iliad the epithet of the cave in the sea where Thetis lives among the Nereids; in the Odyssey of the great robe of a goddess, and in its short form ἄργυφος of sheep.
+summary: “Silver-white, shining,” ἀργύφεος and its short form ἄργυφος: in the Iliad of the cave in the sea where Thetis lives among the Nereids and of the sheep Achilles kills for Priam; in the Odyssey of the great robe of a goddess and of flocks.
 aliases: [argypheos, argyphos, shining white]
 grc: [ἀργύφεον]
 en: [silver-white]

@@ -9,6 +9,6 @@ aliases: [Kypria, Cypria, Cyprian epic, Cypria epe]
 
 ## The poem
 
-Proclus' summary tells of the plan of Zeus, the Judgment of Paris, the rape of Helen, the gathering at Aulis and the sacrifice of Iphigenia, the landing at Troy, and the raids of the first nine years (see [[cypria-plan-of-zeus]] and [[plan-of-zeus]]). It was variously ascribed to Stasinus of Cyprus, Hegesias, or Homer, and survives only in fragments.
+Proclus' summary tells of the plan of Zeus, [[the-judgment-of-paris|the Judgment of Paris]], the rape of Helen, the gathering at Aulis and the sacrifice of Iphigenia, the landing at Troy, and the raids of the first nine years (see [[cypria-plan-of-zeus]] and [[plan-of-zeus]]). It was variously ascribed to Stasinus of Cyprus, Hegesias, or Homer, and survives only in fragments.
 
 {{notes}}

@@ -12,7 +12,7 @@ of: [paris]
 
 ## The simile
 
-οὐ μὲν γὰρ φιλότητί γʼ ἐκεύθανον εἴ τις ἴδοιτο· / ἶσον γάρ σφιν πᾶσιν ἀπήχθετο κηρὶ μελαίνῃ: “for they would not have hidden him out of love, if anyone had seen him; for he was hateful to them all, like black doom”. ἶσον … κηρί is “equally with doom”. κήρ is the doom of death, the fate that takes a man (see [[ker-doom]]), and it is often “black” (μέλαινα). ἀπήχθετο, “was hateful”, is the verb of lasting enmity: it is used of men hated by all the gods, like Lycurgus and Bellerophon (6.140, 6.200), and of Troy itself, hateful to Hera, Poseidon and Athena “because of Alexander's blind folly” (24.27–28).
+οὐ μὲν γὰρ φιλότητί γʼ ἐκεύθανον εἴ τις ἴδοιτο· / ἶσον γάρ σφιν πᾶσιν ἀπήχθετο κηρὶ μελαίνῃ: “for they would not have hidden him out of love, if anyone had seen him; for he was hateful to them all, like black doom”. ἶσον … κηρί is “equally with doom”. κήρ is the doom of death, the fate that takes a man (see [[ker-doom]]), and it is often “black” (μέλαινα). ἀπήχθετο, “was hateful”, is the verb of lasting enmity: it is used of men hated by all the gods, like Lycurgus and Bellerophon (6.140, 6.200), and of Troy itself, hateful to Hera, Poseidon and Athena “for Alexander's blind folly” (24.27–28).
 
 The comparison measures hatred by the most hateful thing a man can name. φιλότης (“love, friendship”) in the line before is the word of the truce, “making friendship and swearing a trusty truce” (3.73, 3.94), and of the bed that Paris has just gone to (3.441, 3.445; see [[philotes]]).
 

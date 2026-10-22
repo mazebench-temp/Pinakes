@@ -1,0 +1,8 @@
+---
+summary: Priam comes “to ransom him from you, and I bring a boundless ransom” (24.502), as Chryses came (1.13); Achilles' “Do not provoke me any longer, old man” (24.560) and “So he spoke, and the old man was afraid, and obeyed his word” (24.571 = 1.33) are the words of Agamemnon's scene with Chryses (1.26–33).
+refs: [24.502, 24.560, 24.569, 24.571, 24.788]
+---
+
+**The old man at the ships.** The last book repeats the first in its words as well as its plot. Chryses had come to the ships “to win his daughter's freedom, bringing a boundless ransom” (1.13); Priam tells Achilles that he has come “to ransom him from you, and I bring a boundless ransom” (λυσόμενος … φέρω δʼ ἀπερείσιʼ ἄποινα, 24.502; see [[boundless-ransom]] and [[apoina]]). Agamemnon threatened Chryses, “Old man, let me not find you beside the hollow ships” and “do not provoke me” (1.26, 1.32); Achilles, his anger rising when Priam presses him, says “Do not provoke me any longer, old man” and warns that he may not spare him “even you, old man, in my huts, / suppliant though you are” (24.560, 24.569–570). The line that follows is the same in both books: “So he spoke, and the old man was afraid, and obeyed his word” (24.571 = 1.33; see [[priam]], [[chryses]] and [[achilles]]).
+
+**What differs.** Chryses is driven away and the god brings the plague; Priam is fed, given a bed and sent home with the body (24.599–697; see [[the-ransom-of-hector]]). The formula of dawn that brought the Achaeans' ship back from Chryse, “And when early-born Dawn appeared, the rosy-fingered” (1.477), returns in the Iliad only once more, on the morning after Hector's pyre (24.788; see [[dawn-line]]).

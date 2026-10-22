@@ -23,11 +23,13 @@ passages:
 
 She is a daughter of Priam: “the most beautiful in form of the daughters of Priam” (13.365; see [[priam]]), and in the Odyssey Agamemnon calls her Πριάμοιο θυγατρός, “the daughter of Priam” (Od. 11.421). Homer does not name her mother. The formula of her beauty is given also to her sister Laodice (3.124, 6.252; see [[laodice]] and [[best-in-looks]]), and Idomeneus turns it on the daughters of Agamemnon (13.378; see [[laodice-daughter-of-agamemnon]]).
 
-## In Homer
+## In the Iliad
 
 **The suitor.** Othryoneus of Cabesus came to Troy at the report of the war and asked Priam for her ἀνάεδνον, “without bride-price” (13.366), promising instead to drive the Achaeans from Troy; Priam promised and nodded his assent, and Idomeneus kills Othryoneus at the ships and mocks the bargain (13.363–384; see [[othryoneus]] and [[bride-price]]).
 
-**Hector's return.** In the last book she is the first of all the Trojans, men and women, to see Priam coming home with Hector's body. Like golden Aphrodite, she has climbed Pergamus; she sees her father standing in the chariot with the herald, and Hector lying on the bier in the mule cart, and she cries out through the city for the Trojans and the Trojan women to come and look on Hector, if ever they rejoiced when he came back alive from battle (24.697–706; see [[pergamus]] and [[golden]]).
+{{notes}}
+
+## In the Odyssey
 
 **Her death.** In the underworld Agamemnon tells Odysseus that the most pitiful voice he heard as he died was that of Cassandra, daughter of Priam, whom Clytemnestra killed beside him (Od. 11.421–423; see [[clytemnestra]] and [[clytemnestra-and-the-return]]). The Odyssey does not say how she came to Mycenae. Homer never makes her a seer, and he says nothing of Apollo's love or of Ajax.
 

@@ -19,4 +19,4 @@ Priam's address stacks three words of good fortune. μάκαρ (“blessed”) i
 
 {{quote:038917fa-238d-5540-8d51-37b70b217f68}}
 
-Helen has named Agamemnon, and the old man marvels at him (3.178–181). Priam measures his fortune by the size of the army under his command and compares it with the greatest host he ever saw, the Phrygians who fought the Amazons ([[priam-and-the-amazons]]). The king of Troy calls blessed the king who has come to destroy it. In Book 24 Achilles tells Priam that he too, “we hear, was once blessed” (ὄλβιον, Il. 24.543), before the gods brought the war upon him.
+Helen has named Agamemnon, and the old man marvels at him (3.178–181). Priam measures his fortune by the size of the army under his command and compares it with the greatest host he ever saw, the Phrygians who fought the Amazons ([[priam-and-the-amazons]]). The king of Troy calls blessed the king who has come to destroy it. In Book 24 Achilles tells Priam, “And you too, old man, we hear, were prosperous once” (ὄλβιον, Il. 24.543), before the gods brought the war upon him.

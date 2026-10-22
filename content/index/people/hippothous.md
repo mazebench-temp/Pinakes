@@ -8,6 +8,8 @@ summary: Leader of the [[Pelasgians]] of [[Larisa]] with his brother [[Pylaeus]]
 # son of Priam.
 grc: [Ἱππόθοος]
 en: [Hippothous]
+# Hippothous at 24.251 is a son of Priam, not the Pelasgian killed by Ajax.
+except: [24.251]
 refs: [2.843]
 relations:
   - father: lethus (2.843)
@@ -16,4 +18,4 @@ relations:
 
 {{quote:936006d4-a5e1-5c59-a029-78b0b053377f}}
 
-The name means "swift with horses" (ἵππος, "horse" + θοός, "swift"). The Catalogue names him twice, first as leader of the Pelasgians and then with his brother. In Book 17 Ajax kills him as he drags the body of Patroclus by the foot (17.288–303). A son of Priam of the same name appears in Book 24 (24.251).
+The name means "swift with horses" (ἵππος, "horse" + θοός, "swift"). The Catalogue names him twice, first as leader of the Pelasgians and then with his brother. In Book 17 Ajax kills him as he drags the body of Patroclus by the foot (17.288–303). A son of Priam of the same name appears in Book 24 (24.251; see [[hippothous-son-of-priam]]).

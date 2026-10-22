@@ -3,11 +3,11 @@ title: Olympian
 greek: Ὀλύμπιος
 kind: epithet
 tags: [divine-epithet]
-summary: “Of Olympus,” used of [[Zeus]] both as an epithet and, standing alone, as a name, “the Olympian”; in the feminine, of the Muses.
+summary: “Of Olympus,” used of [[Zeus]] both as an epithet and, standing alone, as a name, “the Olympian”; in the feminine, of the Muses; and once of Iris, “an Olympian messenger.”
 aliases: [the Olympian, olympios]
 grc: [Ὀλύμπιος, Ὀλύμπιε]
 en: [Olympian]
-of: [zeus, muses]
+of: [zeus, muses, iris]
 ---
 
 ## Meaning

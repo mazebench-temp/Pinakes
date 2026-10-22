@@ -1,0 +1,7 @@
+---
+summary: Apollodorus' handbook lists the sons of Priam, by Hecuba and by other women, among them several of the nine whom Priam rebukes in this book. It tells Niobe's story in the later form, in which she goes home to Tantalus at Sipylus and is turned to stone at her own prayer, still weeping, and it gives the version in which Thetis would not lie with Zeus because Hera had reared her.
+---
+
+- The sons of Priam: by Hecuba, Deiphobus, Helenus, Pammon, Polites, Antiphus, Hipponous, Polydorus and Troilus, “this last she is said to have had by Apollo”; by other women, among many others, Hippothous, Agathon and Mestor (*Library* 3.12.5, on 24.249–251 and 24.257): [[sons-of-priam]], [[pammon]], [[antiphonus]], [[agathon-son-of-priam]], [[hippothous-son-of-priam]], [[mestor]] and [[troilus]].
+- Niobe's seven sons and seven daughters, with Hesiod's ten and ten and Homer's six and six; the daughters shot by Artemis in the house and the sons by Apollo on Cithaeron; and Niobe, gone home to Sipylus, turned to stone at her prayer to Zeus, “and tears flow night and day from the stone” (*Library* 3.5.6, on 24.602–617): [[ovid-niobe]], [[the-weeping-rock-of-sipylus]] and [[niobe]].
+- Thetis, who would not lie with Zeus because Hera had brought her up, so that Zeus in anger married her to a mortal (*Library* 3.13.5), beside Hera's claim that she reared Thetis and gave her to Peleus (24.59–61): [[hera]] and [[thetis]].

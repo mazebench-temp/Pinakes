@@ -1,0 +1,5 @@
+---
+summary: On the night Priam sleeps in the porch, Achilles sleeps in the inner part of his hut, “and beside him lay fair-cheeked Briseis” (24.675–676). It is her last appearance in the poem.
+---
+
+“But Achilles slept in the inner part of the well-built hut, / and beside him lay fair-cheeked Briseis” (24.675–676; see [[achilles]] and [[hut]]). The first verse ended the night of the embassy, when the woman beside him was Diomede, “whom he had brought from Lesbos”, while Briseis was in Agamemnon's huts (9.663–665; see [[diomede]]). In Book 19 she was given back with Agamemnon's gifts, after his oath that he had never touched her, and lamented Patroclus in Achilles' hut (19.245–246, 19.258–265, 19.282–300). καλλιπάρῃος, “fair-cheeked”, is her epithet from the first book (1.184, 1.323, 1.346; 19.246; see [[fair-cheeked]]). Thetis had told her son that it was good to lie with a woman in love, since his death was near (24.130–132; see [[thetis]]); the last night in his hut ends as she advised.

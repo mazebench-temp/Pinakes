@@ -20,4 +20,4 @@ Peleus is the son of Aeacus, a son of Zeus (Iliad 21.189). The gods attended his
 
 ## Outside Homer
 
-In the *Cypria* the wedding feast of Peleus and Thetis was the scene of Eris' golden apple, which led to the Judgment of Paris.
+The wedding feast of Peleus and Thetis began the quarrel of the goddesses that led to the Judgment of Paris. J. G. Frazer notes that Proclus' summary of the *Cypria* tells of the intervention of Strife there but not of the golden apple, which first appears in late writers such as Lucian and Hyginus (see [[the-judgment-of-paris]]).

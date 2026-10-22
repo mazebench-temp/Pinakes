@@ -10,6 +10,6 @@ relations:
   - father: priam (1.255)
 ---
 
-Priam had fifty sons, nineteen of them by Hecuba, as he tells Achilles (Iliad 24.495–497). The best known are [[Hector]], Paris, Deiphobus, Helenus and Troilus.
+Priam had fifty sons when the Achaeans came, nineteen of them, he tells Achilles, of one womb (24.495–497; see [[hecuba]]). The best known are [[Hector]], [[paris|Paris]], [[deiphobus|Deiphobus]], [[helenus|Helenus]] and [[troilus|Troilus]].
 
 {{notes}}

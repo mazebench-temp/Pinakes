@@ -12,7 +12,8 @@ grc: [Τρώ*, "!=Τρῳ*", "!Τρωϊάδ*", "!τρωπ*", "!=τρώσεσθα
 # Τρώϊοι ἵπποι "the horses of Tros" (5.222 = 8.106) and Τρωΐ "to Tros" (5.265) belong to tros.
 # τρωχῶσι at 22.163 is "run", of the racehorses.
 # τρώσῃς at 23.341 is "wound" (of the stone at the turning post); Τρώϊοι ἵπποι at 23.378 are the horses of Tros.
-except: [5.222, 5.265, 8.106, 22.163, 23.341, 23.378]
+# Τρωΐλον at 24.257 is Troilus, son of Priam.
+except: [5.222, 5.265, 8.106, 22.163, 23.341, 23.378, 24.257]
 en: [Trojans, Trojan]
 ---
 

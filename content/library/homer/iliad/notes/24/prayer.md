@@ -1,0 +1,24 @@
+---
+summary: Before Priam sets out, Hecuba brings wine and bids him pour a libation to Zeus and pray for a safe return and for a bird of omen on the right. He washes his hands, pours the wine standing in the middle of the courtyard, and prays to Zeus of Ida to let him come to Achilles welcomed and pitied; Zeus hears him and sends an eagle. When he learns that the body is unharmed, Priam says that it is good to give the gods their due.
+# χεῖρας ἀνασχέμεν, "to lift up one's hands" (24.301), the gesture of prayer: the infinitive is found only here in
+# Homer; the participle χεῖρας ἀνασχών is the entry's.
+grc: ["χεῖρας ἀνασχέμεν"]
+en: [lift up one's hands]
+# Unnamed: Hecuba's bidding (24.288, 24.291-298), and Priam's prayer (24.307-313).
+refs: [24.288, 24.291-298, 24.307-313]
+passages:
+  - 24.283-301 | Hecuba bids Priam pray
+  - 24.302-321 | Priam's prayer and the eagle
+---
+
+**Hecuba's counsel.** As the wagon and the chariot are yoked, Hecuba comes with wine in a golden cup, “so that they might pour a libation before they went” (24.285; see [[hecuba]], [[libation]] and [[cup]]). She bids Priam pour to father Zeus and pray to come home again from hostile men, and then to ask the god of Ida for a bird of omen, “his swift messenger, the one that to him / is dearest of birds, and whose strength is greatest, / on the right”: if Zeus will not give it, she would not have him go (24.287–298; see [[divination]] and [[eagle]]). Walter Leaf reports Bergk's remark that praying for an omen is otherwise found only in the *Odyssey*, while in the Iliad signs come unasked, and notes that the synizesis of εὔχεο (24.290) is very rare in the Iliad, another link between this book and the *Odyssey* (*Commentary on the Iliad*, 1900, on 24.290). He also reports the reading ἑὸν ἄγγελον, “his own messenger”, for ταχὺν ἄγγελον, “his swift messenger”, in the papyrus at 24.292 and in the margin of manuscript A, as Hecuba says ἑὸν ἄγγελον at 24.296 (on 24.292). In Book 6 Hecuba met Hector with wine for a libation to Zeus, and he would not pour it, “and with unwashed hands I shrink from pouring sparkling wine to Zeus” (6.258–266; see [[hand-washing]]).
+
+**The prayer.** Priam answers, “Lady, I will not disobey you in this that you bid me; / for it is good to lift up one's hands to Zeus, in the hope that he may have pity” (24.300–301). The lifted hands are the gesture of prayer, as when Chryses “prayed aloud for them, lifting up his hands” (1.450) and Hecuba asked Hector to “lift up your hands to Zeus from the height of the city” (6.257). This time the hands are washed first: a handmaid pours pure water over them from a pitcher into a basin (24.302–305; see [[handmaids]]). Then:
+
+{{quote:a326be1d-8d82-5be9-afa9-618b6f209b76}}
+
+The first verse and a half are those of Achilles' prayer to Zeus of Dodona before Patroclus went out (16.231–232), and the invocation is the verse of the oath in Book 3 (3.276; see [[who-rules-from-ida]] and [[zeus]]). The request, δός μʼ ἐς Ἀχιλλῆος φίλον ἐλθεῖν ἠδʼ ἐλεεινόν, is the one Odysseus makes to Athena before he goes into the city of the Phaeacians, δός μʼ ἐς Φαίηκας φίλον ἐλθεῖν ἠδʼ ἐλεεινόν, “grant that I come to the Phaeacians welcomed and pitied” (*Odyssey* 6.327): both are strangers going to a house where they must be suppliants (see [[supplication]]). The prayer makes no claim: Priam names no past sacrifice, as Chryses did (1.39–41) and Agamemnon (8.238–241). The claim has been made for him on Olympus, where Zeus remembered that Hector never failed in the gifts he loves (24.66–70; see [[reciprocity-with-the-gods]] and [[the-gods-debate]]).
+
+**The answer.** “So he spoke in prayer, and Zeus the counselor heard him, / and at once he sent an eagle, surest in omen of winged birds” (24.314–315; see [[counselor]] and [[surest-of-birds]]). The first verse is the one in which Zeus heard Achilles' prayer for Patroclus, and granted one thing and refused the other (16.249–250); the second, the one in which he answered Agamemnon's prayer for the army's safety (8.247). The eagle darts on the right across the city, and all rejoice (24.319–321). Priam's prayer is granted whole: he comes to Achilles unseen, and Achilles pities his gray head and his gray beard (24.516; see [[pity]]).
+
+**The gods' due.** When Hermes tells him that the gods have kept Hector's body unharmed, Priam says it plainly: “My child, truly it is good to give the gifts that are their due / to the immortals; for my son, if that was ever so, / never forgot in his halls the gods who hold Olympus; / so they have remembered him, even in the portion of death” (24.425–428). Leaf takes ἀπεμνήσαντο as remembering Hector's gifts and repaying them, the sense of requiting a favor that the compound has in Hesiod, when the sons of Uranus whom Zeus set free repay him with thunder and the thunderbolt (οἳ οἱ ἀπεμνήσαντο χάριν ἐυεργεσιάων, *Theogony* 501–505), and in Thucydides (on 24.428; see the translation's note on 24.428).

@@ -1,0 +1,807 @@
+# Homer, Iliad, Book 24 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Monro–Allen Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	The gathering broke up, and the people scattered, each of them,
+2	to go to the swift ships. And the others thought of supper
+3	and of taking their fill of sweet sleep; but Achilles
+4	wept, remembering his dear companion, and sleep
+5	that subdues all did not take him, but he tossed this way and that,
+6	longing for Patroclus, for his manhood and his noble might,
+7	and all that he had wound out with him, and the sorrows he had suffered,
+8	passing through the wars of men and the grievous waves;
+9	remembering these, he let big tears fall,
+10	now lying on his side, and now again
+11	on his back, and now face down; and then he would stand up
+12	and wander distraught along the shore of the sea; nor would the dawn
+13	escape him as it appeared over the sea and the shores.
+14	But whenever he had yoked his swift horses under the chariot,
+15	he would tie Hector behind the chariot to be dragged,
+16	and when he had dragged him three times around the mound of the dead son of Menoetius,
+17	he would rest again in his hut, and leave him
+18	stretched out face down in the dust; but Apollo
+19	kept all defilement from his flesh, pitying the man,
+20	though he was dead; and he covered him all over with the aegis,
+21	golden, so that he should not tear his skin as he dragged him.
+22	So in his rage he defiled brilliant Hector;
+23	and the blessed gods, looking on, kept pitying him,
+24	and kept urging the keen-sighted slayer of Argus to steal him away.
+25	This pleased all the others, but never Hera,
+26	nor Poseidon, nor the gray-eyed maiden;
+27	but they held to it, as when sacred Ilios first became hateful to them,
+28	and Priam, and the people, for Alexander's blind folly,
+29	who insulted the goddesses when they came to his farmyard,
+30	and praised her who gave him his grievous lust.
+31	But when the twelfth dawn after that had come,
+32	then Phoebus Apollo spoke among the immortals:
+33	“You are hard, you gods, and destructive. Was it not for you
+34	that Hector burned thighs of oxen and unblemished goats?
+35	And now you have not dared to save him, corpse though he is,
+36	for his wife to see, and his mother and his child,
+37	and his father Priam and the people, who would quickly
+38	burn him in the fire and give him funeral rites.
+39	But it is deadly Achilles, you gods, that you choose to help,
+40	who has no fitting mind, nor any thought
+41	in his breast that can be bent; he knows savage ways, like a lion
+42	that gives way to his great strength and proud spirit
+43	and goes among the flocks of men to take his feast;
+44	so Achilles has lost all pity, and he has no shame,
+45	which greatly harms men and helps them.
+46	A man may well have lost another, dearer still,
+47	a brother of the same womb, or even a son;
+48	yet when he has wept and mourned, he leaves off;
+49	for the Fates have put an enduring heart in men.
+50	But this man, when he has robbed brilliant Hector of his dear life,
+51	ties him to his horses and drags him around the mound of his dear companion;
+52	and that is not more honorable for him, nor better.
+53	Let him beware, brave as he is, that we do not grow indignant with him;
+54	for in his rage he defiles the senseless earth.”
+55	Then in anger white-armed Hera said to him:
+56	“Even that word of yours might stand, god of the silver bow,
+57	if you gods are to give Achilles and Hector equal honor.
+58	Hector is a mortal and was suckled at a woman's breast;
+59	but Achilles is the offspring of a goddess, whom I myself
+60	nursed and cherished, and gave as wife to a man,
+61	to Peleus, who was dear above all to the hearts of the immortals.
+62	And all you gods came to the wedding; and you among them
+63	feasted with your lyre, friend of the wicked, faithless always.”
+64	Answering her, Zeus the cloud-gatherer said:
+65	“Hera, do not be wholly angry with the gods;
+66	their honor will not be one and the same; but Hector too
+67	was the dearest to the gods of all the mortals in Ilios;
+68	so he was to me, for he never failed in the gifts I love.
+69	For my altar never lacked an equal share of the feast,
+70	libation and the savor of the burnt fat; for that is the prize allotted to us.
+71	But stealing him we will let be, and there is no way to do it,
+72	bold Hector, unknown to Achilles; for his mother
+73	is always beside him, night and day alike.
+74	But let one of the gods call Thetis to come near me,
+75	so that I may tell her a shrewd word, how Achilles
+76	may receive gifts from Priam and release Hector.”
+77	So he spoke, and storm-footed Iris rose to carry the message,
+78	and between Samos and rocky Imbros
+79	she leapt into the dark sea; and the water groaned over her.
+80	And she sped down to the depths like a lead weight,
+81	which, mounted on the horn of an ox of the fields,
+82	goes down bringing doom to the fishes that eat raw flesh.
+83	And she found Thetis in a hollow cave, and around her the other
+84	goddesses of the sea sat assembled; and she in their midst
+85	was weeping for the fate of her noble son, who was to
+86	perish in deep-soiled Troy, far from his native land.
+87	And standing near, swift-footed Iris spoke to her:
+88	“Rise, Thetis; Zeus calls you, whose counsels are imperishable.”
+89	Then the goddess silver-footed Thetis answered her:
+90	“Why does he summon me, the great god? I feel shame
+91	to mingle with the immortals, and I have griefs past measure in my heart.
+92	Yet I will go, and whatever he says, his word will not be in vain.”
+93	So she spoke, and the brilliant goddess took a veil,
+94	dark blue, and no garment was ever blacker than this.
+95	And she went her way, and before her swift Iris, wind-footed,
+96	led the way; and around them the wave of the sea parted.
+97	And stepping out on the shore, they shot up to the sky,
+98	and found the far-seeing son of Cronus, and around him all the others,
+99	the blessed gods who live forever, sat assembled.
+100	And she sat down beside father Zeus, and Athena made way for her.
+101	And Hera put a fine golden cup in her hand
+102	and gladdened her with words; and Thetis drank and handed it back.
+103	And among them the father of men and gods began to speak:
+104	“You have come to Olympus, goddess Thetis, grieved though you are,
+105	with grief not to be forgotten in your heart; I know it myself;
+106	but even so I will tell you why I called you here.
+107	For nine days a quarrel has arisen among the immortals
+108	about Hector's corpse and Achilles, sacker of cities;
+109	and they urge the keen-sighted slayer of Argus to steal him away;
+110	but I bestow this glory on Achilles,
+111	keeping your respect and your friendship for the time to come.
+112	Go quickly to the army and give your son this charge:
+113	tell him the gods are angry with him, and that I above all
+114	the immortals am angry, because in his raging heart
+115	he keeps Hector beside the curved ships and has not released him,
+116	in the hope that he may fear me and release Hector.
+117	And I will send Iris to great-hearted Priam,
+118	to ransom his dear son, going to the ships of the Achaeans,
+119	and bring gifts to Achilles that may warm his heart.”
+120	So he spoke, and the goddess silver-footed Thetis did not disobey,
+121	and she went darting down from the peaks of Olympus.
+122	And she came to the hut of her son; and there she
+123	found him groaning without ceasing; and around him his dear companions
+124	were busy in haste and making ready their morning meal;
+125	and a great shaggy ram was being sacrificed for them in the hut.
+126	And she sat down very close to him, his lady mother,
+127	and stroked him with her hand, and spoke to him, and called him by name:
+128	“My child, how long, mourning and grieving,
+129	will you eat out your heart, remembering neither food
+130	nor bed? It is good even to lie with a woman
+131	in love; for you will not live long for me, but already
+132	death and mighty fate stand close beside you.
+133	But listen to me quickly: I am a messenger to you from Zeus.
+134	He says the gods are angry with you, and that he above all
+135	the immortals is angry, because in your raging heart
+136	you keep Hector beside the curved ships and have not released him.
+137	But come, release him, and accept a ransom for the body.”
+138	Answering her, swift-footed Achilles said:
+139	“So be it: let him who brings the ransom carry off the body,
+140	if the Olympian himself so bids with a ready heart.”
+141	So, among the gathered ships, mother and son
+142	spoke many winged words to one another;
+143	and the son of Cronus urged Iris on to sacred Ilios:
+144	“Go, swift Iris, leave the seat of Olympus,
+145	and take a message to great-hearted Priam within Ilios,
+146	to ransom his dear son, going to the ships of the Achaeans,
+147	and bring gifts to Achilles that may warm his heart,
+148	alone; let no other man of the Trojans go with him.
+149	Let a herald go with him, an older man, to guide
+150	the mules and the well-wheeled wagon, and bring back
+151	the body to the city, the man whom brilliant Achilles killed.
+152	Let him have no thought of death in his heart, and no fear;
+153	for such an escort will we grant him, the slayer of Argus,
+154	who will lead him until he brings him to Achilles.
+155	And when he has led him into the hut of Achilles,
+156	he himself will not kill him, and he will keep all the others off;
+157	for he is not a fool, nor heedless, nor an offender,
+158	but with great care he will spare a man who comes as a suppliant.”
+159	So he spoke, and storm-footed Iris rose to carry the message.
+160	And she came to the house of Priam, and found there cries and lament.
+161	His sons sat around their father within the courtyard
+162	and soaked their clothes with tears; and in their midst the old man
+163	sat wrapped close in his cloak; and around him much
+164	dung lay on the head and neck of the old man,
+165	which, rolling in it, he had heaped on himself with his own hands.
+166	And his daughters and his sons' wives were mourning through the house,
+167	remembering those who, many and brave,
+168	lay dead at the hands of the Argives, having lost their lives.
+169	And the messenger of Zeus stood beside Priam, and spoke to him
+170	softly; and trembling seized his limbs:
+171	“Take heart in your mind, Priam, descendant of Dardanus, and have no fear;
+172	for I do not come here boding evil for you,
+173	but with good intent; I am a messenger to you from Zeus,
+174	who, though he is far away, cares greatly for you and pities you.
+175	The Olympian bids you ransom brilliant Hector,
+176	and bring gifts to Achilles that may warm his heart,
+177	alone; let no other man of the Trojans go with you.
+178	Let a herald go with you, an older man, to guide
+179	the mules and the well-wheeled wagon, and bring back
+180	the body to the city, the man whom brilliant Achilles killed.
+181	Have no thought of death in your heart, and no fear;
+182	for such an escort will go with you, the slayer of Argus,
+183	who will lead you until he brings you to Achilles.
+184	And when he has led you into the hut of Achilles,
+185	he himself will not kill you, and he will keep all the others off;
+186	for he is not a fool, nor heedless, nor an offender,
+187	but with great care he will spare a man who comes as a suppliant.”
+188	So saying, swift-footed Iris went away;
+189	and he bade his sons make ready the well-wheeled mule wagon
+190	and bind the wicker body upon it.
+191	And he himself went down into the fragrant chamber,
+192	high-roofed, of cedar, which held many bright trinkets;
+193	and he called in Hecuba his wife and said:
+194	“Strange one, an Olympian messenger has come to me from Zeus,
+195	to ransom my dear son, going to the ships of the Achaeans,
+196	and bring gifts to Achilles that may warm his heart.
+197	But come, tell me this: how does it seem to you in your mind?
+198	For terribly my own might and heart bid me
+199	to go there to the ships, into the wide army of the Achaeans.”
+200	So he spoke, and the woman wailed aloud and answered him:
+201	“Ah me, where has your mind gone, for which before
+202	you were famous among strangers and among those you rule?
+203	How can you wish to go alone to the ships of the Achaeans,
+204	before the eyes of the man who has slain many and brave
+205	sons of yours? Your heart is iron.
+206	For if he takes you and sets his eyes on you,
+207	that eater of raw flesh, that faithless man, he will not pity you
+208	or respect you at all. No, let us weep for him now, apart,
+209	sitting in the hall; this is how mighty Fate
+210	spun for him with her thread at his birth, when I myself bore him,
+211	that he should glut the swift dogs, far from his parents,
+212	at the side of a mighty man; I wish I could fix my teeth
+213	in the middle of his liver and eat it; then there would be requital
+214	for my son, since he did not kill him as he played the coward,
+215	but as he stood before the Trojans and the deep-bosomed Trojan women,
+216	with no thought of flight or of shelter.”
+217	Then the old man, godlike Priam, spoke to her in turn:
+218	“Do not hold me back when I wish to go, and do not yourself
+219	be a bird of evil omen in the halls; you will not persuade me.
+220	For if any other of the men on earth had bidden me,
+221	seers who read the smoke of the sacrifice, or priests,
+222	we would call it a lie and turn away from it all the more;
+223	but now, since I myself heard the goddess and looked on her face to face,
+224	I will go, and the word will not be in vain. And if it is my fate
+225	to die beside the ships of the bronze-armored Achaeans,
+226	I would have it so; let Achilles kill me at once,
+227	when I have taken my son in my arms and put away my desire for lament.”
+228	He spoke, and opened the fine lids of the chests;
+229	and from them he took twelve beautiful robes,
+230	and twelve single cloaks, and as many rugs,
+231	and as many white mantles, and as many tunics besides.
+232	And he weighed out and brought ten talents of gold in all,
+233	and brought out two gleaming tripods and four cauldrons,
+234	and brought out a beautiful cup, which Thracian men had given him
+235	when he went to them on an embassy, a great possession; not even this
+236	did the old man spare in his halls, for above all he wished in his heart
+237	to ransom his dear son. And all the Trojans
+238	he kept away from the colonnade, rebuking them with shaming words:
+239	“Off with you, you wretches, you disgraces! Have you not
+240	lament enough at home, that you come to trouble me?
+241	Or do you make light of it that Zeus, son of Cronus, has given me sorrows,
+242	to lose my best son? But you will learn it too;
+243	for you will be all the easier now for the Achaeans
+244	to slay, now that he is dead. But as for me,
+245	before I see the city sacked and ravaged
+246	with my eyes, may I go down into the house of Hades.”
+247	He spoke, and drove the men off with his staff; and they went out
+248	before the old man in his haste. And he shouted at his sons,
+249	rebuking Helenus and Paris and brilliant Agathon
+250	and Pammon and Antiphonus and Polites, good at the war cry,
+251	and Deiphobus and Hippothous and brilliant Agauus;
+252	to these nine the old man shouted his commands:
+253	“Hurry, you wicked children, you shames of mine! I wish that all of you
+254	had been killed beside the swift ships in Hector's place.
+255	Ah me, utterly ill-starred that I am, since I fathered the best sons
+256	in wide Troy, and of them, I say, not one is left,
+257	godlike Mestor and Troilus, who fought from his chariot,
+258	and Hector, who was a god among men, and did not seem
+259	the son of a mortal man, but of a god.
+260	Ares has destroyed them, and these disgraces are all that is left,
+261	liars and dancers, best at beating the dancing floor,
+262	robbers of lambs and kids from their own people.
+263	Will you not make ready the wagon for me at once,
+264	and put all these things on it, so that we may make our way?”
+265	So he spoke, and they, fearing their father's rebuke,
+266	brought out the well-wheeled mule wagon,
+267	fine and newly built, and bound the wicker body upon it,
+268	and took down from its peg the mule yoke,
+269	of boxwood, with its knob, well fitted with guide rings;
+270	and they brought out the yoke band, nine cubits long, with the yoke.
+271	And they laid the yoke carefully on the polished pole,
+272	at the front end, and put the ring over the pin,
+273	and bound it three times on each side around the knob, and then
+274	tied it fast all along, and tucked the end under the hook.
+275	And they brought from the chamber and heaped on the polished wagon
+276	the boundless ransom for Hector's head,
+277	and yoked the strong-hoofed mules that work in harness,
+278	which the Mysians had once given to Priam, splendid gifts.
+279	And for Priam they led under the yoke the horses that the old man
+280	kept for himself and reared at the polished manger.
+281	So the two had the horses yoked in the high palace,
+282	the herald and Priam, with shrewd counsels in their minds;
+283	and Hecuba came near them with grieving heart,
+284	holding wine sweet to the heart in her right hand
+285	in a golden cup, so that they might pour a libation before they went;
+286	and she stood before the horses, and spoke to him, and called him by name:
+287	“Here, pour a libation to father Zeus, and pray that you come home
+288	again from hostile men, since your heart
+289	urges you to the ships, though I do not wish it.
+290	But pray then to the son of Cronus, lord of the dark clouds,
+291	the god of Ida, who looks down on all of Troy,
+292	and ask for a bird of omen, his swift messenger, the one that to him
+293	is dearest of birds, and whose strength is greatest,
+294	on the right, so that you may see it yourself with your eyes
+295	and, trusting in it, go to the ships of the Danaans of the swift horses.
+296	But if far-seeing Zeus will not give you his own messenger,
+297	then I would not urge you on and bid you
+298	go to the ships of the Argives, however eager you are.”
+299	Answering her, godlike Priam said:
+300	“Lady, I will not disobey you in this that you bid me;
+301	for it is good to lift up one's hands to Zeus, in the hope that he may have pity.”
+302	He spoke, and the old man urged the housekeeper, a handmaid,
+303	to pour pure water over his hands; and she stood beside him,
+304	the handmaid, holding a basin and a pitcher in her hands.
+305	And when he had washed, he took the cup from his wife;
+306	then he prayed, standing in the middle of the enclosure, and poured out the wine,
+307	looking up to the sky, and he spoke and said:
+308	“Father Zeus, who rule from Ida, most glorious, greatest,
+309	grant that I come to Achilles as one welcomed and pitied,
+310	and send a bird of omen, your swift messenger, the one that to you yourself
+311	is dearest of birds, and whose strength is greatest,
+312	on the right, so that I may see it myself with my eyes
+313	and, trusting in it, go to the ships of the Danaans of the swift horses.”
+314	So he spoke in prayer, and Zeus the counselor heard him,
+315	and at once he sent an eagle, surest in omen of winged birds,
+316	the dark hunter, which men also call the dusky eagle.
+317	As wide as the door of the high-roofed chamber
+318	of a wealthy man is made, well fitted with bolts,
+319	so wide were its wings on either side; and it appeared to them
+320	darting on the right across the city; and when they saw it
+321	they rejoiced, and the heart in the breasts of all was warmed.
+322	And the old man in his haste mounted his chariot,
+323	and drove out from the doorway and the loud-resounding colonnade.
+324	In front the mules drew the four-wheeled wagon,
+325	and wise-hearted Idaeus drove them; and behind
+326	came the horses, which the old man drove, urging them on with the whip,
+327	swiftly through the city; and all his dear ones followed with him,
+328	lamenting much, as if he were going to his death.
+329	And when they had come down from the city and reached the plain,
+330	the others went back toward Ilios,
+331	his sons and his sons-in-law; but the two did not escape the notice of far-seeing Zeus
+332	as they came out on the plain; and seeing the old man he pitied him,
+333	and at once he spoke to Hermes, his dear son, face to face:
+334	“Hermes, since to you above all it is dearest
+335	to keep company with a man, and you listen to whom you will,
+336	go, and lead Priam to the hollow ships of the Achaeans
+337	in such a way that no one sees him or notices him
+338	of the other Danaans, until he comes to the son of Peleus.”
+339	So he spoke, and the guide, the slayer of Argus, did not disobey.
+340	At once he bound under his feet his fine sandals,
+341	ambrosial, golden, which carried him over the waters
+342	and over the boundless earth as fast as the blasts of the wind;
+343	and he took the wand with which he bewitches the eyes of men,
+344	of whomever he will, and again wakes others who are sleeping;
+345	holding it in his hands the mighty slayer of Argus flew.
+346	And quickly he came to Troy and the Hellespont,
+347	and went on his way in the likeness of a young prince,
+348	with the first down on his lip, when youth is at its most graceful.
+349	And when they had driven past the great mound of Ilus,
+350	they halted the mules and the horses to drink
+351	at the river; for darkness had now come over the earth.
+352	And the herald, seeing him close by, made out
+353	Hermes, and he spoke to Priam and said:
+354	“Take thought, descendant of Dardanus; this is work for a prudent mind.
+355	I see a man, and I think he will soon tear us to pieces.
+356	But come, let us flee on the horses, or else
+357	clasp his knees and entreat him, in the hope that he may have pity.”
+358	So he spoke, and the old man's mind was confounded, and he was terribly afraid,
+359	and the hair stood up on his supple limbs,
+360	and he stood amazed; but the great helper came near of himself,
+361	and took the old man's hand, and questioned him and said:
+362	“Where, father, are you guiding your horses and mules like this
+363	through the ambrosial night, when other mortals are asleep?
+364	Do you not fear the Achaeans breathing fury,
+365	who are hostile to you and merciless, and near at hand?
+366	If one of them should see you through the swift black night
+367	bringing so many good things, what would you have in mind then?
+368	You are not young yourself, and this man who goes with you is old,
+369	to ward off a man, when someone is the first to grow angry.
+370	But I will do you no harm, and I would even keep another
+371	away from you; for you look to me like my dear father.”
+372	Then the old man, godlike Priam, answered him:
+373	“It is much as you say, dear child.
+374	But still some god has held his hand over me too,
+375	who sent such a wayfarer to meet me,
+376	one of good omen, so admirable are you in build and looks,
+377	and you are wise in mind, and come of blessed parents.”
+378	Then the guide, the slayer of Argus, spoke to him in turn:
+379	“Yes, old man, all that you have said is fair and right.
+380	But come, tell me this, and give me an exact account:
+381	are you sending away many fine treasures
+382	to foreign men, so that they may stay safe for you,
+383	or are you all now leaving sacred Ilios
+384	in fear? For such a man, the best, has perished,
+385	your son; for he never held back from battle with the Achaeans.”
+386	Then the old man, godlike Priam, answered him:
+387	“Who are you, good sir, and of what parents are you,
+388	that you speak so well of the fate of my ill-starred son?”
+389	Then the guide, the slayer of Argus, spoke to him in turn:
+390	“You are testing me, old sir, in asking about brilliant Hector.
+391	Him I have seen many times in the battle where men win glory
+392	with my own eyes, and when, having driven them to the ships,
+393	he kept killing the Argives, cutting them down with the sharp bronze;
+394	and we stood there and marveled; for Achilles
+395	would not let us fight, being angry with the son of Atreus.
+396	For I am his attendant; one well-made ship brought us;
+397	I am one of the Myrmidons, and my father is Polyctor.
+398	He is wealthy, and an old man, just as you are,
+399	and he has six sons, and I am the seventh;
+400	and casting lots with them I drew the lot to follow him here.
+401	And now I have come to the plain from the ships; for at dawn
+402	the bright-eyed Achaeans will set battle in array around the city.
+403	For these men chafe as they sit idle, nor can
+404	the kings of the Achaeans hold them back in their eagerness for war.”
+405	Then the old man, godlike Priam, answered him:
+406	“If you are indeed the attendant of Achilles, son of Peleus,
+407	come, tell me the whole truth:
+408	is my son still beside the ships, or by now
+409	has Achilles cut him limb from limb and set him before his dogs?”
+410	Then the guide, the slayer of Argus, spoke to him in turn:
+411	“Old man, the dogs have not yet eaten him, nor the birds,
+412	but he still lies beside the ship of Achilles,
+413	just as he was, in the huts; and this is the twelfth dawn
+414	that he has lain there, and his flesh does not rot at all, nor do the worms
+415	eat him, which feed on men slain in battle.
+416	Truly he drags him around the mound of his dear companion
+417	ruthlessly, whenever brilliant Dawn appears,
+418	yet he does not disfigure him; you yourself would gaze, if you came,
+419	at how fresh as dew he lies, and the blood is washed from him,
+420	and he is nowhere foul; and all the wounds are closed
+421	where he was struck; for many drove their bronze into him.
+422	So do the blessed gods care for your own son,
+423	corpse though he is, since he was dear above all to their hearts.”
+424	So he spoke, and the old man rejoiced, and answered him:
+425	“My child, truly it is good to give the gifts that are their due
+426	to the immortals; for my son, if that was ever so,
+427	never forgot in his halls the gods who hold Olympus;
+428	so they have remembered him, even in the portion of death.
+429	But come, accept from me this fine goblet,
+430	and protect me myself, and with the gods' help escort me,
+431	until I come to the hut of the son of Peleus.”
+432	Then the guide, the slayer of Argus, spoke to him in turn:
+433	“You are testing me, old sir, a younger man, but you will not persuade me,
+434	bidding me take gifts from you behind Achilles' back.
+435	I fear him and feel shame above all in my heart
+436	to rob him, lest some harm come to me afterward.
+437	But as your escort I would go even to famous Argos,
+438	with great care, in a swift ship or going with you on foot;
+439	and no one would fight you in scorn of your escort.”
+440	He spoke, and the great helper, springing onto the chariot behind the horses,
+441	quickly took the whip and the reins in his hands,
+442	and breathed noble might into the horses and the mules.
+443	But when they came to the towers of the ships and the ditch,
+444	the sentries had just begun to busy themselves about their supper;
+445	and the guide, the slayer of Argus, poured sleep over them
+446	all, and at once opened the gates and pushed back the bars,
+447	and brought in Priam and the splendid gifts on the wagon.
+448	But when they came to the hut of the son of Peleus,
+449	the high hut that the Myrmidons had built for their lord,
+450	cutting beams of fir; and above they had roofed it over
+451	with a shaggy thatch that they had mown in the meadow;
+452	and around it they had made for their lord a great courtyard
+453	with close-set stakes; and a single bar of fir held the door,
+454	which three of the Achaeans would drive home,
+455	and three would draw back, the great bolt of the doors,
+456	three of the others; but Achilles would drive it home even alone;
+457	then Hermes, the great helper, opened it for the old man,
+458	and brought in the glorious gifts for the swift-footed son of Peleus,
+459	and stepped down from the chariot to the ground and said:
+460	“Old man, I who have come to you am an immortal god,
+461	Hermes; for my father granted me to you as an escort.
+462	But I for my part will go back again, and into the sight of Achilles
+463	I will not come; it would be a thing for blame
+464	for an immortal god to welcome mortals so openly.
+465	But go in yourself and clasp the knees of the son of Peleus,
+466	and beg him by his father and his mother of the lovely hair
+467	and his child, so that you may stir his heart.”
+468	So he spoke, and went away to high Olympus,
+469	Hermes; and Priam leapt from the chariot to the ground,
+470	and left Idaeus there; and he stayed, holding
+471	the horses and the mules; and the old man went straight to the house,
+472	where Achilles, dear to Zeus, used to sit; and he found him
+473	inside, and his companions sat apart; only two,
+474	the hero Automedon and Alcimus, offshoot of Ares,
+475	were busy at his side; he had just finished his meal,
+476	eating and drinking; and the table still stood beside him.
+477	Great Priam came in unseen by them, and standing close
+478	he clasped the knees of Achilles in his hands and kissed his hands,
+479	the terrible, man-slaying hands that had killed many of his sons.
+480	As when a heavy blind folly seizes a man who in his native land
+481	has killed a man, and he comes to the land of others,
+482	to the house of a wealthy man, and amazement holds those who watch,
+483	so Achilles was amazed when he saw godlike Priam;
+484	and the others were amazed too, and looked at one another.
+485	And Priam spoke to him, begging:
+486	“Remember your father, Achilles, like the gods,
+487	who is of my age, on the deadly threshold of old age;
+488	and perhaps the men who live around him
+489	wear him down, and there is no one to ward off disaster and ruin.
+490	Yet he at least, when he hears that you are alive,
+491	rejoices in his heart, and hopes every day
+492	to see his dear son come home from Troy;
+493	but I am utterly ill-starred, since I fathered the best sons
+494	in wide Troy, and of them, I say, not one is left.
+495	I had fifty when the sons of the Achaeans came;
+496	nineteen were born to me of one womb,
+497	and the others women bore to me in my halls.
+498	Of most of them furious Ares has loosened the knees;
+499	and he who was my only one, who guarded the city and its people,
+500	him you killed the other day as he fought in defense of his native land,
+501	Hector; for his sake I have come now to the ships of the Achaeans
+502	to ransom him from you, and I bring a boundless ransom.
+503	But respect the gods, Achilles, and pity me,
+504	remembering your own father; I am more pitiable still,
+505	for I have endured what no other mortal on earth has yet endured,
+506	to put to my lips the hand of the man who killed my sons.”
+507	So he spoke, and in him he roused the longing for lament for his father;
+508	and taking the old man's hand he gently pushed him away.
+509	And the two remembered, the one man-slaying Hector,
+510	and wept unceasingly, crouched before the feet of Achilles,
+511	and Achilles wept for his own father, and now again
+512	for Patroclus; and their groaning rose through the house.
+513	But when brilliant Achilles had taken his fill of lament,
+514	and the longing for it had gone from his heart and from his limbs,
+515	at once he rose from his chair and raised the old man by the hand,
+516	pitying his gray head and his gray beard,
+517	and he spoke to him, addressing him with winged words:
+518	“Ah, wretch, truly you have endured many evils in your heart.
+519	How did you dare to come alone to the ships of the Achaeans,
+520	before the eyes of the man who has slain many and brave
+521	sons of yours? Your heart is iron.
+522	But come, sit down on a chair, and let us leave our sorrows
+523	to lie quiet in our hearts, for all our grief;
+524	for there is no profit in chilling lament;
+525	for so the gods have spun the thread for wretched mortals,
+526	to live in grief; but they themselves are free from care.
+527	For two jars stand on the floor of Zeus
+528	of the gifts that he gives, one of evils, and the other of blessings;
+529	the man to whom Zeus who delights in thunder gives a mixture
+530	meets now with evil, and now with good;
+531	but the man to whom he gives only from the grievous, he makes a thing of scorn,
+532	and evil, ravening hunger drives him over the shining earth,
+533	and he wanders honored neither by gods nor by mortals.
+534	So to Peleus too the gods gave splendid gifts
+535	from his birth; for he excelled all men
+536	in prosperity and wealth, and he ruled over the Myrmidons,
+537	and to him, a mortal, they gave a goddess as his wife.
+538	But on him too the god laid evil, that no
+539	offspring of princely sons was born to him in his halls,
+540	but he fathered one son, doomed to an untimely death; nor do I
+541	care for him as he grows old, since very far from my native land
+542	I sit here in Troy, bringing sorrow to you and your children.
+543	And you too, old man, we hear, were prosperous once;
+544	all that Lesbos, the seat of Macar, shuts in, out to sea,
+545	and Phrygia inland, and the boundless Hellespont,
+546	over all these, old man, they say you excelled in wealth and sons.
+547	But since the heavenly gods brought this bane upon you,
+548	there are always battles around your city, and the killing of men.
+549	Bear up, and do not mourn relentlessly in your heart;
+550	for you will achieve nothing by grieving for your own son,
+551	nor will you raise him up; before that you will suffer some other evil.”
+552	Then the old man, godlike Priam, answered him:
+553	“Do not yet bid me sit on a chair, nurtured by Zeus, while Hector
+554	lies uncared for in the huts, but quickly
+555	release him, so that I may see him with my eyes; and accept the ransom,
+556	the many things that we bring you; may you have joy of them, and may you come
+557	to your native land, since you have first let me
+558	live myself and see the light of the sun.”
+559	Looking at him darkly, swift-footed Achilles said:
+560	“Do not provoke me any longer, old man; I have it in mind myself
+561	to release Hector to you; for a messenger came to me from Zeus,
+562	my mother, who bore me, the daughter of the Old Man of the Sea.
+563	And I know you too, Priam, in my heart, and you do not escape me:
+564	one of the gods led you to the swift ships of the Achaeans.
+565	For no mortal would dare to come, not even one in his prime,
+566	into the camp; for he would not escape the sentries, nor would he
+567	easily push back the bar of our doors.
+568	So now do not stir my heart any more among its sorrows,
+569	lest I do not spare even you, old man, in my huts,
+570	suppliant though you are, and sin against the commands of Zeus.”
+571	So he spoke, and the old man was afraid, and obeyed his word.
+572	And the son of Peleus sprang out of the door of the house like a lion,
+573	not alone: with him went two attendants,
+574	the hero Automedon and Alcimus, whom above all
+575	of his companions Achilles honored, after Patroclus who was dead;
+576	who then loosed the horses and the mules from under the yoke,
+577	and led in the herald, the old man's crier,
+578	and sat him on a chair; and from the polished wagon
+579	they took the boundless ransom for Hector's head.
+580	But they left two mantles and a well-spun tunic,
+581	so that he could wrap the corpse and give it to be carried home.
+582	And he called out the slave women and bade them wash and anoint him,
+583	taking him aside, so that Priam should not see his son,
+584	lest in the grief of his heart he should not hold back his anger
+585	when he saw his son, and Achilles' own heart be stirred,
+586	and he kill him, and sin against the commands of Zeus.
+587	And when the slave women had washed him and anointed him with oil,
+588	and put a fine mantle and a tunic around him,
+589	Achilles himself lifted him and laid him on a bier,
+590	and his companions lifted it with him onto the polished wagon.
+591	He groaned aloud then, and called his dear companion by name:
+592	“Do not be angry with me, Patroclus, if you learn,
+593	even in the house of Hades, that I have released brilliant Hector
+594	to his dear father, since the ransom he gave me is not unseemly.
+595	And I in turn will give you your share of this too, as much as is fitting.”
+596	He spoke, and brilliant Achilles went back into the hut,
+597	and sat down on the intricately worked chair from which he had risen,
+598	by the other wall, and spoke a word to Priam:
+599	“Your son is released to you, old man, as you asked,
+600	and he lies on a bier; and when dawn appears
+601	you will see him yourself as you take him away; but now let us remember supper.
+602	For even Niobe of the lovely hair remembered food,
+603	she whose twelve children perished in her halls,
+604	six daughters and six sons in their prime.
+605	The sons Apollo killed with arrows from his silver bow,
+606	in his anger with Niobe, and the daughters Artemis of the showering arrows,
+607	because she used to liken herself to fair-cheeked Leto;
+608	she said that the goddess had borne two, while she herself had borne many;
+609	and so those two, though they were only two, destroyed them all.
+610	For nine days they lay in their blood, and there was no one
+611	to bury them, for the son of Cronus had turned the people to stones;
+612	and on the tenth day the heavenly gods buried them.
+613	And she remembered food, when she was worn out with shedding tears.
+614	And now somewhere among the rocks, in the lonely mountains,
+615	on Sipylus, where they say the goddesses have their beds,
+616	the nymphs who dance around the Achelous,
+617	there, though she is stone, she broods over the sorrows the gods gave her.
+618	But come, let us two also think, brilliant old sir,
+619	of food; and then you may weep again for your dear son
+620	when you have brought him into Ilios; he will be much wept for.”
+621	He spoke, and springing up swift Achilles slaughtered a silver-white sheep,
+622	and his companions flayed it and were busy over it in good order,
+623	and cut it up skillfully and threaded it on spits,
+624	and roasted it carefully, and drew it all off.
+625	And Automedon took bread and set it out on the table
+626	in beautiful baskets, while Achilles served the meat.
+627	And they put out their hands to the good things lying ready before them.
+628	But when they had put away the desire for drink and food,
+629	then Priam, descendant of Dardanus, marveled at Achilles,
+630	how tall he was and how fair; for he looked like the gods face to face;
+631	and Achilles marveled at Priam, descendant of Dardanus,
+632	seeing his noble looks and hearing his words.
+633	But when they had taken their fill of looking at one another,
+634	the old man, godlike Priam, spoke to him first:
+635	“Put me to bed now quickly, nurtured by Zeus, so that at last
+636	we may lie down and take our fill of sweet sleep;
+637	for my eyes have not yet closed beneath my lids
+638	since my son lost his life at your hands,
+639	but always I groan and brood over countless sorrows,
+640	rolling in the dung in the enclosure of the courtyard.
+641	Now at last I have tasted food and let sparkling wine
+642	go down my throat; before now I had tasted nothing.”
+643	He spoke, and Achilles bade his companions and the slave women
+644	set beds beneath the colonnade, and throw fine purple
+645	blankets on them, and spread rugs over them,
+646	and put woolly cloaks on top for them to wear.
+647	And the women went out from the hall with torches in their hands,
+648	and quickly, in haste, they spread two beds.
+649	Taunting him, swift-footed Achilles said:
+650	“Lie outside, dear old man, lest one of the Achaeans
+651	come in here, a counselor, one of those who always
+652	sit beside me and take counsel with me, as is the custom;
+653	if one of them should see you through the swift black night,
+654	he would at once tell Agamemnon, shepherd of the people,
+655	and there might be delay in the ransoming of the body.
+656	But come, tell me this, and give me an exact account:
+657	for how many days are you minded to give brilliant Hector his funeral rites,
+658	so that for so long I may stay here myself and hold back the army?”
+659	Then the old man, godlike Priam, answered him:
+660	“If you are willing that I should hold a funeral for brilliant Hector,
+661	by doing as I say, Achilles, you would show me a kindness.
+662	For you know how we are penned within the city, and the wood is far
+663	to bring from the mountain, and the Trojans are greatly afraid.
+664	Nine days we would lament him in our halls,
+665	and on the tenth we would bury him, and the people would feast,
+666	and on the eleventh we would make a tomb over him,
+667	and on the twelfth we will fight, if we must.”
+668	Then brilliant swift-footed Achilles spoke to him in turn:
+669	“This too shall be as you ask, old Priam;
+670	for I will hold back the war for as long a time as you bid.”
+671	So he spoke, and at the wrist he took the old man's
+672	right hand, so that he might feel no fear in his heart.
+673	So they slept there in the porch of the house,
+674	the herald and Priam, with shrewd counsels in their minds;
+675	but Achilles slept in the inner part of the well-built hut,
+676	and beside him lay fair-cheeked Briseis.
+677	Now the other gods and the men who fight from chariots
+678	slept all night long, overcome by soft sleep;
+679	but sleep did not take hold of Hermes, the great helper,
+680	as he pondered in his heart how he might send King Priam
+681	away from the ships unseen by the sacred gatekeepers.
+682	And he stood above his head and spoke to him:
+683	“Old man, you have no thought of any evil, so soundly do you still sleep
+684	among enemy men, since Achilles has spared you.
+685	And now you have ransomed your dear son, and given much for him;
+686	but for you, alive, three times as much ransom would be given
+687	by your sons who are left behind, if Agamemnon,
+688	son of Atreus, learns of you, and all the Achaeans know it.”
+689	So he spoke, and the old man was afraid, and roused the herald.
+690	And Hermes yoked the horses and the mules for them,
+691	and drove them himself swiftly through the camp, and no one knew.
+692	But when they came to the ford of the fair-flowing river,
+693	the eddying Xanthus, whom immortal Zeus begot,
+694	then Hermes went away to high Olympus,
+695	and saffron-robed Dawn was spreading over all the earth,
+696	and they drove toward the city with cries of woe and groaning
+697	the horses, and the mules carried the corpse. And no one else,
+698	of the men or the lovely-girdled women, knew them first,
+699	but Cassandra, like golden Aphrodite,
+700	who had gone up onto Pergamus, caught sight of her dear father
+701	standing in the chariot, and the herald, crier of the city;
+702	and she saw him lying on the bier, drawn by the mules;
+703	and then she wailed aloud, and called out through all the city:
+704	“Go and see Hector, Trojans and Trojan women,
+705	if ever too, when he came home alive from battle,
+706	you rejoiced; for he was a great joy to the city and to all the people.”
+707	So she spoke, and not a man was left there in the city,
+708	nor a woman; for uncontrollable grief came upon them all;
+709	and near the gates they met him as he brought the body.
+710	First his dear wife and his lady mother
+711	tore their hair for him, rushing to the well-wheeled wagon
+712	and touching his head; and the throng stood around them weeping.
+713	And now all day long, until the sun went down,
+714	they would have mourned Hector before the gates, shedding tears,
+715	had not the old man spoken among the people from the chariot:
+716	“Make way for me to pass through with the mules; and afterwards
+717	you shall have your fill of weeping, when I have brought him home.”
+718	So he spoke, and they stood apart and made way for the wagon.
+719	And when they had brought him into the famous house, they then
+720	laid him on a corded bed, and set singers beside him
+721	to lead the dirges, and they the song of groaning
+722	sang in lament, and the women groaned with them.
+723	And among them white-armed Andromache led the lamentation,
+724	holding in her hands the head of man-slaying Hector:
+725	“Husband, you have perished from life while young, and you leave me a widow
+726	in the halls; and the boy is still a mere infant,
+727	whom you and I begot, both most ill-fated; and I do not think
+728	he will reach his youth; for before that this city from top to bottom
+729	will be sacked; for you have perished, its guardian, who kept the city itself
+730	safe, and kept its devoted wives and little children,
+731	who soon now will be carried off in the hollow ships,
+732	and I among them; and you, my child, will either go with me,
+733	where you would labor at shameful tasks,
+734	toiling for an implacable master; or some one of the Achaeans
+735	will take you by the hand and hurl you from the tower to grim destruction,
+736	in anger, because Hector killed his brother, it may be,
+737	or his father, or his son too, since very many of the Achaeans
+738	at the hands of Hector bit the boundless ground with their teeth.
+739	For your father was not kind in grim battle;
+740	and so the people mourn him throughout the city,
+741	and you have brought accursed lamentation and grief upon your parents,
+742	Hector; but to me above all will grievous sorrows be left.
+743	For you did not stretch out your hands to me from your bed as you died,
+744	nor speak to me some shrewd word, which I might always
+745	remember night and day, shedding tears.”
+746	So she spoke, weeping, and the women groaned with her.
+747	And among them Hecuba in turn led the unceasing lamentation:
+748	“Hector, by far the dearest to my heart of all my children,
+749	truly while you were alive you were dear to the gods;
+750	and they have cared for you even in the portion of death.
+751	For my other sons swift-footed Achilles
+752	would sell, whomever he took, across the barren sea,
+753	to Samos and to Imbros and to misty Lemnos;
+754	but when he had taken your life with the long-edged bronze,
+755	he dragged you many times around the mound of his companion
+756	Patroclus, whom you killed; and even so he did not raise him up.
+757	But now, fresh as dew and as if newly slain, in my halls
+758	you lie, like one whom Apollo, god of the silver bow,
+759	has come upon and killed with his gentle arrows.”
+760	So she spoke, weeping, and stirred up relentless lamentation.
+761	And then Helen, the third, led the lamentation among them:
+762	“Hector, by far the dearest to my heart of all my brothers-in-law,
+763	truly my husband is godlike Alexander,
+764	who brought me to Troy; I wish I had perished before that!
+765	For this is now the twentieth year for me
+766	since I went from there and left my native land;
+767	but never yet have I heard from you an evil or a contemptuous word;
+768	no, if anyone else in the halls rebuked me,
+769	one of my brothers-in-law or my husband's sisters, or his brothers' well-robed wives,
+770	or my mother-in-law (but my father-in-law was always kind, like a father),
+771	you would talk them round with words and hold them back
+772	by your gentleness and your gentle words.
+773	So I weep for you, and for my ill-fated self, grieving at heart;
+774	for there is no longer anyone else in wide Troy
+775	who is kind to me or a friend, but all shudder at me.”
+776	So she spoke, weeping, and the countless people groaned with her.
+777	And the old man Priam spoke a word among the people:
+778	“Now, Trojans, bring wood into the city, and have no fear
+779	in your hearts of a cunning ambush of the Argives; for Achilles,
+780	as he sent me from the black ships, gave orders
+781	that they would do us no harm until the twelfth dawn comes.”
+782	So he spoke, and under the wagons oxen and mules
+783	they yoked, and quickly then they gathered before the city.
+784	For nine days they brought in a vast load of wood;
+785	but when the tenth dawn appeared, bringing light to mortals,
+786	then they carried out bold Hector, shedding tears,
+787	and on the top of the pyre they laid the body, and set fire to it.
+788	And when early-born Dawn appeared, the rosy-fingered,
+789	then around the pyre of famous Hector the people were astir.
+790	And when they had gathered and were all assembled,
+791	first they put out the pyre with sparkling wine,
+792	all of it, as far as the might of the fire had reached; and then
+793	his brothers and his companions gathered the white bones,
+794	weeping, and the big tears ran down their cheeks.
+795	And they took the bones and put them in a golden chest,
+796	covering them with soft purple robes,
+797	and quickly laid it in a hollow trench, and above it
+798	they spread great stones, close-set;
+799	and swiftly they heaped up the mound, and lookouts sat all around,
+800	lest the well-greaved Achaeans should attack too soon.
+801	And when they had heaped up the mound they went back; and then
+802	they gathered together and feasted well on a glorious feast
+803	in the house of Priam, the king nurtured by Zeus.
+804	So they held the funeral of Hector, tamer of horses.

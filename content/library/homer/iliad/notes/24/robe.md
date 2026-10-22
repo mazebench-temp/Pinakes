@@ -1,0 +1,10 @@
+---
+summary: Robes open the list of Priam's ransom, twelve beautiful robes taken from his chests (24.228–229), and close the poem's last rites, when Hector's bones are laid in a golden chest covered with soft purple robes (24.795–796).
+# πέπλους (24.229) and πέπλοισι (24.796) are first met here.
+grc: [πέπλους, πέπλοισι]
+en: [robes]
+---
+
+**In the ransom.** Priam goes down into his fragrant chamber of cedar, “which held many bright trinkets” (24.191–192), in the verse with which Hecuba went down to choose the robe for Athena (6.288; Walter Leaf, *Commentary on the Iliad*, 1900, on 24.191; see the note on Book 6). “He spoke, and opened the fine lids of the chests; / and from them he took twelve beautiful robes” (24.228–229), and after them cloaks, rugs, mantles, tunics, gold, tripods, cauldrons and a cup (24.230–237; see [[cloak]], [[tunic]], [[talent]], [[tripod]], [[cauldron]], [[cup]] and [[apoina]]). Leaf notes that πέπλοι are usually women's garments, and so presumably meant for Achilles to give to his captive women, but that they are also coverings, as over Pandarus' chariots at home and over Hector's bones at the end of the book (on 24.229; 5.194, 24.796). περικαλλής, “beautiful”, is the word of the Thracian cup a few verses below (24.234; see the translation's row περικαλλής).
+
+**Over the bones.** When the pyre has been quenched with wine, Hector's brothers and companions gather his white bones, “And they took the bones and put them in a golden chest, / covering them with soft purple robes” (24.795–796; see [[larnax]], [[purple]] and [[the-funeral-of-hector]]). Leaf reports Studniczka's view that the covering was spread over the chest, not wrapped round the bones inside it: he cites a richly painted woolen cover of a wooden coffin of the fourth century found in the Crimea, wool being the stuff of the πέπλος, and the fine linen covers spread in Etruscan graves on the stools that bear the urns (on 24.796; see the translation's note on 24.796). The bones of Patroclus were laid in a golden bowl in Achilles' hut and covered with a soft linen cloth (23.252–254; see [[the-golden-urn]]).

@@ -6,10 +6,12 @@ tags: [mainland-greece, aetolia]
 summary: The great river of western Greece, which divides Aetolia from Acarnania, and its god. In Homer he is “lord Achelous”, named once, when Achilles says that not even he, nor Oceanus himself, can match himself against Zeus (21.194). Not the Achelous by Sipylus in the story of Niobe (24.616).
 aliases: [Acheloos, Acheloüs, Achelōios, Achelous river]
 # Ἀχελώϊος (21.194) is named only here in Homer. Ἀχελώϊον (24.616) is another river, by Sipylus (Leaf on 21.194,
-# 24.616), which will need its own id: this entry claims only the nominative, so its Greek does not reach 24.616,
-# but its English "Achelous" will need an except there.
+# 24.616), achelous-of-lydia: this entry claims only the nominative, so its Greek does not reach 24.616, and it
+# excepts the line for its English "Achelous".
 grc: [Ἀχελώϊος]
 en: [Achelous]
+# Ἀχελώϊον at 24.616 is a stream in Lydia by Sipylus, not the river of 21.194.
+except: [24.616]
 passages:
   - 21.192-199 | No fighting with Zeus
 ---
@@ -20,7 +22,7 @@ passages:
 
 **Zenodotus' text.** Zenodotus left out the verse of Oceanus (21.195), so that Achelous became the source of all rivers, the sea and the springs. Aristarchus kept it, objecting that in Homer the parent of rivers is Oceanus and not Achelous, and Leaf, who thinks the objection enough to save “one of the most majestic lines ever written”, also reports that Aristarchus read οὔτε for οὐδέ (on 21.195; see the translation's note on 21.194–197).
 
-**Another Achelous.** In Achilles' story of Niobe, the nymphs who dance about another Achelous have their beds on Sipylus (24.615–616; see [[niobe]] and [[nymphs]]). Leaf calls that river quite different from this one, a stream of Lydia otherwise unknown, and notes other rivers of the name in the Troad, Achaea, Thessaly and Arcadia (on 21.194, 24.616).
+**Another Achelous.** In Achilles' story of Niobe, the nymphs who dance about another Achelous have their beds on Sipylus (24.615–616; see [[achelous-of-lydia]], [[sipylus]], [[niobe]] and [[nymphs]]). Leaf calls that river quite different from this one, a stream of Lydia otherwise unknown, and notes other rivers of the name in the Troad, Achaea, Thessaly and Arcadia (on 21.194, 24.616).
 
 ## Outside Homer
 

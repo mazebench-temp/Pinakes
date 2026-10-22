@@ -7,7 +7,7 @@ summary: The gates in the Achaean wall, built with it as “a way for driving ho
 aliases: [gates of the Achaean wall, gate of the Achaean wall, Achaean gates, the left gate, the gate Hector broke]
 # πύλαι are also the gates of Troy, of Olympus (5.749, 8.393) and of Hades (9.312), so this entry claims
 # phrases, not the bare word. ὀχῆες are the clasps of a belt at 4.132, so the bars are claimed in phrases too.
-# Later books will need 13.124 (ἔρρηξεν δὲ πύλας καὶ μακρὸν ὀχῆα, caught by "μακρὸν ὀχῆα"), 13.679 and 24.446.
+# 13.124 is caught by "μακρὸν ὀχῆα"; 13.679 and 24.446 by the Book 13 and Book 24 notes.
 grc:
   - "πύλας ποιήσομεν"
   - "πύλας ἐνεποίεον"

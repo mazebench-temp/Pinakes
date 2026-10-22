@@ -24,7 +24,7 @@ In Book 6 Andromache goes there when she hears that the Trojans are hard pressed
 
 The housekeeper calls it “the great tower of Ilios” (6.386), and Hector finds her at the Scaean gates (6.392–394). The poem does not say that this is the tower of Book 3, but both stand by the same gate. Andromache asks Hector to “stay here on the tower” (6.431) and defend the city from its wall (see [[andromache]]).
 
-Later Priam stands “on the divine tower” to watch Achilles rout the Trojans (21.526), and Hector leans his shield against “a jutting tower” as he waits for Achilles (22.97). Andromache hears the wailing from the tower, runs to it, and sees Hector dragged away (22.447–465). In her last lament she foresees that some Achaean will take her son by the arm and hurl him “from the tower to a grim death” (24.734–735; see [[astyanax]]).
+Later Priam stands “on the divine tower” to watch Achilles rout the Trojans (21.526), and Hector leans his shield against “a jutting tower” as he waits for Achilles (22.97). Andromache hears the wailing from the tower, runs to it, and sees Hector dragged away (22.447–465). In her last lament she foresees that some Achaean will take her son by the hand and hurl him “from the tower to grim destruction” (24.734–735; see [[astyanax]]).
 
 ## Outside Homer
 

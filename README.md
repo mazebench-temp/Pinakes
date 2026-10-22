@@ -1,7 +1,7 @@
 # Pinakes · Πίνακες
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
-catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 23, and Aristotle's
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 24, and Aristotle's
 Poetics and Rhetoric: the Greek texts, new line-for-line translations, a word-by-word lexicon of the
 Iliad, the Poetics and the first book of the Rhetoric, and an index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
 them.

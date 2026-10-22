@@ -5,8 +5,9 @@ kind: person
 tags: [trojan, house-of-priam, seer, warrior]
 summary: Son of [[Priam]] and [[Hecuba]] and brother of [[Hector]], “by far the best of the bird-seers” among the Trojans. In the Iliad he sends Hector into the city to have the women offer Athena a robe, and prompts his duel with Ajax; in later epic the Achaeans capture him and learn from him how Troy can be taken, and he ends his life a king in Epirus, married to Andromache.
 aliases: [Helenos, Helenus son of Priam]
-# Ἕλενον at 5.707 is the Achaean helenus-son-of-oenops; the form returns for this Helenus at 24.249.
-grc: [Ἕλενος]
+# Ἕλενον is this Helenus at 24.249; at 5.707 it is the Achaean helenus-son-of-oenops (which excepts 24.249).
+grc: [Ἕλενος, Ἕλενον]
+except: [5.707]
 relations:
   - father: priam (6.76, 7.44)
   - mother: hecuba (6.87)
@@ -33,7 +34,7 @@ relations:
 
 **The archer.** In Book 13 he kills the Achaean Deipyrus with a great Thracian sword and shoots Menelaus in the breastplate, but the arrow glances off like beans from a winnowing shovel. Menelaus drives his spear through the hand that holds the bow, and Agenor binds the wound with a sling of wool (13.576–600; see [[agenor]]).
 
-**A son left alive.** In the last book Priam, setting out to ransom Hector, rages at his nine remaining sons, Helenus first among them: “liars and dancers”, while the best are dead (24.249–262). Helenus does not appear in the Odyssey.
+**A son left alive.** In the last book Priam, setting out to ransom Hector, names him first of the nine sons still living whom he rebukes (24.249). Helenus does not appear in the Odyssey.
 
 ## Outside Homer
 

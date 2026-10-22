@@ -12,7 +12,7 @@ of: [abantes, achaeans]
 
 ## Meaning
 
-μένεα, plural of μένος (“might, fury, spirit”) + πνείοντες (“breathing,” from πνέω): “breathing fury.” μένος is the surge of force and spirit that fills a warrior, often put into him by a god; here it is breathed out, as if it could be felt on the breath. The phrase occurs three times in Homer: of the Abantes, and twice of the Achaeans as they march or stand against the enemy (Il. 3.8, 11.508).
+μένεα, plural of μένος (“might, fury, spirit”) + πνείοντες (“breathing,” from πνέω): “breathing fury.” μένος is the surge of force and spirit that fills a warrior, often put into him by a god; here it is breathed out, as if it could be felt on the breath. The phrase occurs four times in Homer, all in the Iliad: of the Abantes, twice of the Achaeans as they march or stand against the enemy (Il. 3.8, 11.508), and once, in the accusative, in Hermes' question to Priam about the Achaeans in their camp (Il. 24.364).
 
 ## Use
 

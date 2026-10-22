@@ -1,0 +1,17 @@
+---
+summary: Achilles tells the story to Priam over his son's released body, to persuade him to eat: Niobe's twelve children were killed by Apollo and Artemis and lay nine days unburied, until the gods buried them on the tenth, and even she remembered food (24.599–620).
+# Unnamed: the children killed, unburied and buried (24.603-605, 24.607-612).
+refs: [24.603-605, 24.607-612]
+---
+
+**The example.** Achilles has had the body washed and laid on the bier, and comes back to Priam: “Your son is released to you, old man, as you asked, / and he lies on a bier; and when dawn appears / you will see him yourself as you take him away; but now let us remember supper” (24.599–601; see [[achilles]] and [[the-ransom-of-hector]]).
+
+{{quote:7e0c5c1a-5d0c-53c2-8642-c8008728995e}}
+
+The story is told, as Phoenix told the wrath of Meleager to Achilles, to persuade the hearer to do something now (9.524–605; see [[the-wrath-of-meleager]]), and it ends with its lesson: “But come, let us two also think, brilliant old sir, / of food; and then you may weep again for your dear son / when you have brought him into Ilios; he will be much wept for” (24.618–620; see [[niobe]] and [[fasting]]). Walter Leaf puts the thought so: do not refuse food as if eating slighted the mourner's duty, for even Niobe, the type of the disconsolate, ate, and her sorrow was not lessened (*Commentary on the Iliad*, 1900, on 24.614).
+
+**Told to Priam.** The story's details stand beside Priam's own. Her twelve children, “six daughters and six sons in their prime”, died in her halls, and his sons are dead too, most of them killed by Ares, he has told Achilles, and Hector by Achilles himself (24.495–501; see [[sons-of-priam]]); the same verse is said in the Odyssey of the twelve children of Aeolus (24.604 = *Odyssey* 10.6). Her children lay nine days unburied, and Hector has lain twelve days in Achilles' huts (24.413, 24.610–611; see [[hector]]); “on the tenth day the heavenly gods buried them” (24.612), and the gods have cared for Hector's body “even in the portion of death” (24.422–428, 24.749–750). Later that night Priam asks for nine days to lament Hector, and the burial on the tenth (24.664–665; see [[the-funeral-of-hector]]).
+
+**The archers.** Apollo kills the sons “with arrows from his silver bow” and Artemis the daughters (24.605–606; see [[apollo]], [[artemis]] and [[of-the-showering-arrows]]). The two gods of sudden death come back at the end of the book, when Hecuba says that Hector lies “like one whom Apollo, god of the silver bow, / has come upon and killed with his gentle arrows” (24.758–759); Leaf quotes the Odyssey's commentators, Merry and Riddell, that a sudden death without suffering is given by the “painless shafts” of Artemis or Apollo, the goddess bringing it to women and the god to men (on 24.759; see [[hecuba]]). Leto, whom Niobe slighted, sides with Troy in the battle of the gods, and gathers up the bow of her daughter (21.497–504; see [[leto]]).
+
+**The people turned to stone.** No one buried the children, “for the son of Cronus had turned the people to stones” (24.610–611; see [[zeus]]). Why, the poem does not say. Leaf supposes that the people shared in Niobe's offense and were punished for it, while the gods, mindful of their friendship with her and her father, did not let Leto's vengeance deny the dead their rites altogether; and he hears a play on λαός “people” and λᾶας “stone”, words linked in the legend of Deucalion (on 24.611; see the translation's note on 24.611).

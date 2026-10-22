@@ -25,4 +25,4 @@ The war is spoken of as a debt: τιμή, “satisfaction”, for Menelaus, and 
 
 ## Outside Homer
 
-The *Cypria* told the causes: the Judgment of Paris, Aphrodite's promise of Helen, and Paris' visit to Sparta, where he carried her off while Menelaus was away. Homer alludes to the Judgment only once (Iliad 24.28–30). Later tradition added the oath of Helen's suitors, sworn at her father Tyndareus' urging, to defend whoever won her (Euripides, *Iphigenia at Aulis* 49–80).
+The *Cypria* told the causes: the Judgment of Paris, Aphrodite's promise of Helen, and Paris' visit to Sparta, where he carried her off while Menelaus was away. Homer alludes to the Judgment only once (Iliad 24.28–30; see [[the-judgment-of-paris]]). Later tradition added the oath of Helen's suitors, sworn at her father Tyndareus' urging, to defend whoever won her (Euripides, *Iphigenia at Aulis* 49–80).

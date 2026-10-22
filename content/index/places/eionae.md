@@ -4,7 +4,8 @@ greek: Ἠϊόνες
 kind: place
 tags: [peloponnese, city, argive, argolid]
 summary: A coastal place of the Argolid in Diomedes' contingent, whose name means "the beaches". Its site is unknown.
-grc: [Ἠϊόνας]
+# ^: ἠϊόνας "the shores" (24.13) is a common word.
+grc: ["^Ἠϊόνας"]
 ---
 
 {{quote:e217e833-d088-5825-94e3-20890dcc153d}}

@@ -3,7 +3,7 @@ title: Chilling
 greek: κρυόεις
 kind: epithet
 tags: [personification, warfare, rare-word]
-summary: “Icy, chilling,” an epithet of the powers of fear, Onslaught on the aegis and Rout, and in her self-reproach of [[Helen]].
+summary: “Icy, chilling,” κρυόεις and κρυερός: epithets of the powers of fear, Onslaught on the aegis and Rout, of [[Helen]] in her self-reproach, and of lament.
 aliases: [kryoeis, icy, chill]
 grc: [κρυόεσσα]
 en: [chilling]

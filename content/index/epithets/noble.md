@@ -7,12 +7,14 @@ summary: “Admirable, noble,” an old adjective of praise for heroes and their
 aliases: [illustrious, agauos]
 grc: [ἀγαυοὶ]
 en: [noble]
+# Ἀγαυόν at 24.251 is printed as the name of a son of Priam (δῖον Ἀγαυόν).
+except: [24.251]
 of: [heralds, laomedon]
 ---
 
 ## Meaning
 
-ἀγαυός is usually connected with ἄγαμαι (“admire, wonder at”): “admirable, illustrious, noble.” Homer uses it of kings, heroes and peoples, of Tithonus, from whose bed Dawn rises (Il. 11.1), and in the Odyssey of the queen of the dead, ἀγαυὴ Περσεφόνεια (Od. 11.213).
+ἀγαυός is usually connected with ἄγαμαι (“admire, wonder at”): “admirable, illustrious, noble.” Homer uses it of kings, heroes and peoples, of Tithonus, from whose bed Dawn rises (Il. 11.1), and in the Odyssey of the queen of the dead, ἀγαυὴ Περσεφόνεια (Od. 11.213). In the list of Priam's sons the text prints Ἀγαυόν as a name, “brilliant Agauus” (24.251; [[agauus]]); Walter Leaf reports that the scholia could not tell whether Δῖος or Ἀγαυός is the name there (*Commentary on the Iliad*, 1900, on 24.250).
 
 ## Use
 

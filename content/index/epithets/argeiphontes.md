@@ -14,7 +14,7 @@ of: [hermes]
 
 The traditional analysis is Ἄργος (“Argus”) + -φόντης (“slayer,” from the root of φόνος, “killing”): “slayer of Argus.” It refers to the story in which Hermes killed the many-eyed herdsman Argus, whom Hera had set to guard Io. Homer never tells that story, and some scholars doubt that the title first meant it. Other proposals connect the first part with ἀργός (“bright, shining”) or take the compound to mean “dog-killer” or “snake-slayer.” None has won general agreement, and the translation keeps the traditional rendering.
 
-The title belongs to Hermes alone. It often stands with [[guide]], διάκτορος ἀργεϊφόντης, a formula that closes the verse, and it can replace his name. Other epithets join it too: κρατὺς ἀργεϊφόντης (“mighty Argeiphontes,” Il. 16.181) and ἐΰσκοπος ἀργεϊφόντης (“keen-sighted Argeiphontes,” Il. 24.24).
+The title belongs to Hermes alone. It often stands with [[guide]], διάκτορος ἀργεϊφόντης, a formula that closes the verse, and it can replace his name. Other epithets join it too: κρατὺς ἀργεϊφόντης (“the mighty slayer of Argus,” Il. 16.181) and ἐΰσκοπος ἀργεϊφόντης (“the keen-sighted slayer of Argus,” Il. 24.24).
 
 ## Use
 

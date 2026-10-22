@@ -7,6 +7,8 @@ summary: An Achaean, the fifth of the six men whom Hector and Ares kill as the A
 aliases: [Helenus the Achaean]
 grc: [Ἕλενον, Οἰνοπίδην]
 en: [Helenus]
+# Ἕλενόν at 24.249 is Helenus, son of Priam (helenus).
+except: [24.249]
 relations:
   - father: oenops (5.707)
   - slayer: hector (5.703-707)

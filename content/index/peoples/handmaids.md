@@ -13,7 +13,7 @@ en: [handmaids, handmaid, slave women, housekeeper, nurse]
 
 ## Words
 
-ἀμφίπολος, from ἀμφί (“around”) and πέλομαι (“move, be busy”), is the woman who waits on her mistress and goes about the house with her. δμῳή is the feminine of δμώς, “slave”: a woman owned, often won in war. The ταμίη, “housekeeper”, keeps the stores and gives out the food (Od. 1.139); the word is related to τάμνω, “cut”, and Zeus is ταμίης πολέμοιο, the “dispenser of war” (4.84; see [[dispenser-of-war]]). τιθήνη, “nurse”, is from the root of θῆσθαι, “suck the breast” (θήσατο μαζόν, 24.58). The words overlap: the woman who pours water for Priam's hands is his “handmaid housekeeper” (ἀμφίπολον ταμίην, 24.302).
+ἀμφίπολος, from ἀμφί (“around”) and πέλομαι (“move, be busy”), is the woman who waits on her mistress and goes about the house with her. δμῳή is the feminine of δμώς, “slave”: a woman owned, often won in war. The ταμίη, “housekeeper”, keeps the stores and gives out the food (Od. 1.139); the word is related to τάμνω, “cut”, and Zeus is ταμίης πολέμοιο, the “dispenser of war” (4.84; see [[dispenser-of-war]]). τιθήνη, “nurse”, is from the root of θῆσθαι, “suck the breast” (θήσατο μαζόν, “was suckled at a woman's breast”, 24.58). The words overlap: the woman who pours water for Priam's hands is “the housekeeper, a handmaid” (ἀμφίπολον ταμίην, 24.302).
 
 ## In Homer
 

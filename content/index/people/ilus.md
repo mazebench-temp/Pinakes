@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, king, house-of-priam]
 summary: Son of [[Tros]] and father of [[Laomedon]], the grandfather of Priam. Homer knows him by his place in Aeneas' genealogy and by his grave mound in the middle of the Trojan plain (see [[the-tomb-of-ilus]]). Later writers made him the founder of Ilios.
 aliases: [Ilos, Ilus son of Tros]
-# Exact forms only: a stem Ἰλ- would catch Ἴλιος, Ilios. Ἶλος (20.232, 20.236) is claimed in the Book 20 note; later Ἴλοιο (24.349).
+# Exact forms only: a stem Ἰλ- would catch Ἴλιος, Ilios. Ἶλος (20.232, 20.236) is claimed in the Book 20 note, and Ἴλοιο (24.349) in the Book 24 note.
 # Ἴλου at Od. 1.259 is Ilus son of Mermerus, of Ephyra, who will need his own id and an except here.
 grc: [Ἴλου]
 relations:

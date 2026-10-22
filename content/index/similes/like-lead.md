@@ -14,7 +14,7 @@ of: [iphidamas, agamemnon, belt]
 
 {{quote:3866987f-5f06-57f4-8067-7c170d159de6}}
 
-ἀργύρῳ ἀντομένη μόλιβος ὣς ἐτράπετʼ αἰχμή: “meeting the silver, the point was bent like lead”. μόλιβος, “lead”, occurs only here in Homer. ἀντομένη is “meeting, encountering”, and ἐτράπετο, “was turned”, is the word used three lines before for Agamemnon's own spear, which “turned aside” and missed (11.233). The point of likeness is softness. A spear point of bronze bends on the silver of the belt as if it were made of lead, the soft metal that gives way.
+ἀργύρῳ ἀντομένη μόλιβος ὣς ἐτράπετʼ αἰχμή: “meeting the silver, the point was bent like lead”. μόλιβος, “lead”, occurs only here in Homer; the lead weight of Iris' simile is μολύβδαινα (24.80; see [[the-lead-weight]]). ἀντομένη is “meeting, encountering”, and ἐτράπετο, “was turned”, is the word used three lines before for Agamemnon's own spear, which “turned aside” and missed (11.233). The point of likeness is softness. A spear point of bronze bends on the silver of the belt as if it were made of lead, the soft metal that gives way.
 
 The belt is ζωστὴρ παναίολος, “the gleaming belt” (11.236), worked with silver. Iphidamas thrust low, below the corselet, and leaned his whole weight on the spear, “trusting in his heavy hand” (11.234–235), and the metal held (see [[belt]]).
 

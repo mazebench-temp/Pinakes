@@ -1,0 +1,12 @@
+---
+summary: Accius' Achilles, as Cicero quotes him, gave the body back to Priam and took Hector away. This is the book in which the body is given back, and its words are the other way about: Achilles releases “Hector”, and Priam is told that his son is released to him. The nearest thing to Cicero's argument is Apollo's senseless earth.
+refs: [24.54, 24.593-594, 24.599]
+passages:
+  - 24.587-590 | Achilles lays Hector on the bier
+---
+
+{{quote:c05a7cfd-9d8a-5ae2-be09-166c84e320be}}
+
+**Body and man.** Cicero quotes Accius' Achilles, “wise at last”: “No, indeed, I have given the body back to Priam; Hector I took away”, and concludes, “So it was not Hector you dragged, but the body that had been Hector's” (*Tusculan Disputations* 1.105; see the entry above). The giving back is this book's. Achilles' men take the ransom from the wagon, the slave women wash and anoint the body, and Achilles lifts it onto the bier himself (24.578–590; see [[the-ransom-of-hector]]). But Homer's Achilles does not part the body from the man. He tells the dead Patroclus “that I have released brilliant Hector / to his dear father” (24.593–594), and he tells Priam, “Your son is released to you, old man, as you asked” (24.599). Zeus' own words for the ransom are to “release Hector” (24.76), and Iris sends Priam “to ransom his dear son” (24.118). The poem has its words for the dead body, νέκυς and νεκρός, and Achilles agrees that “him who brings the ransom” may “carry off the body” (24.137–139), but he never sets the body against the man as Accius' Achilles does. The line nearest to Cicero's argument is Apollo's, who calls what Achilles drags “the senseless earth” (24.54; see [[the-senseless-earth]]).
+
+**The gods and the body.** The poem's gods care for the body as if the man could still feel what is done to it. Apollo keeps all defilement from it and covers it with the golden aegis, “so that he should not tear his skin as he dragged him” (24.18–21), and Hermes tells Priam that the body lies fresh as dew, its wounds closed: “So do the blessed gods care for your own son, / corpse though he is, since he was dear above all to their hearts” (24.411–423; see [[apollo]] and [[hermes]]). Cicero's argument, that burial concerns only the body and that no sensation remains in it, has no place in the poem, but the second half of Aeschylus' fragment, that Nemesis stands above us, has: Apollo warns the gods that they may grow indignant with Achilles (24.53; see [[aeschylus-phrygians]]).

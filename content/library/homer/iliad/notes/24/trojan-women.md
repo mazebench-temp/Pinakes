@@ -1,0 +1,12 @@
+---
+summary: Hecuba says that Hector died standing before the Trojans and the Trojan women; Cassandra calls the Trojans and the Trojan women out to look on his body, and no woman stays in the city; and the women of Troy groan in answer to the singers of the dirge and to Andromache, who foresees them carried off in the ships (24.215, 24.698–708, 24.722, 24.730–732, 24.746).
+# Unnamed: the daughters and sons' wives of Priam's house (24.166), "the lovely-girdled women" (24.698), "nor a woman"
+# (24.708), the women who groan (24.722, 24.746), the wives and children carried off (24.730-732).
+refs: [24.166, 24.698, 24.708, 24.722, 24.730-732, 24.746]
+---
+
+**Before them.** Hecuba would have requital from Achilles for her son, “since he did not kill him as he played the coward, / but as he stood before the Trojans and the deep-bosomed Trojan women” (24.214–215; see [[hecuba]] and [[deep-bosomed]]). The verse is close to the last of Andromache's lament in Book 22, where she will burn his clothes “to be your fame before the Trojans and the Trojan women” (22.514), and Walter Leaf thinks 24.215 may be borrowed from it (*Commentary on the Iliad*, 1900, on 24.213; see the translation's note on 24.213–216). It was before the Trojans and the Trojan women with trailing robes that Hector would have felt shame to go in (22.105; see [[aidos]]).
+
+**Called out.** When the body comes home, “no one else, / of the men or the lovely-girdled women, knew them first” but Cassandra (24.697–699; see [[lovely-girdled]] and [[cassandra]]), and she calls “Trojans and Trojan women”, Τρῶες καὶ Τρῳάδες (24.704), the pair Priam begged Hector to save when he stood outside the wall (22.57). “not a man was left there in the city, / nor a woman” (24.707–708; see [[the-laments-for-hector]]).
+
+**The women's answer.** In the house the singers lead the dirge, “and the women groaned with them”, and when Andromache ends, “the women groaned with her” (24.722, 24.746; see [[lament]]). They are the “devoted wives” whom Hector kept safe with the little children, and who “soon now will be carried off in the hollow ships, / and I among them” (24.730–732; see [[andromache]] and [[captive-women]]). Among them too are his sisters and his brothers' wives, whose rebukes Helen remembers (24.769; see [[helen]] and [[in-laws]]), and the daughters and daughters-in-law who mourned in Priam's house when Iris came (24.166; see [[priams-palace]]).

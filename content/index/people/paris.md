@@ -56,7 +56,7 @@ His graces as his brother lists them: the lyre (κίθαρις), his hair (κό�
 
 The Iliad tells his past in allusions: the ships that Phereclus built for him, "the beginning of evils" (5.59–64), and the voyage home with Helen by way of Sidon (6.289–292). In Book 6 Hector finds him at home handling his armor and rebukes him again, and he answers with the line he used in Book 3 (6.313–341; 6.333 = 3.59). In Book 7 he refuses to give up Helen, though he will give back the treasure (7.354–364). His arrows wound Diomedes, Machaon and Eurypylus (11.369–383, 11.505–507, 11.581–584). The dying Hector foretells that Paris and Apollo will kill Achilles at the Scaean gates (22.359–360), and in the last book Priam counts him among the surviving sons he calls "liars and dancers" (24.249–262).
 
-The same book gives the only allusion in Homer to the Judgment of Paris. Hera, Poseidon and Athena keep their hatred of Troy "because of the blind folly of Alexander, who insulted the goddesses when they came to his steading, and praised the one who gave him grievous lust" (24.25–30). [[Aristarchus]] rejected these lines, holding that Homer did not know the story.
+The same book gives the only allusion in Homer to the Judgment of Paris, the cause of the hatred of Hera, Poseidon and Athena for Troy (24.25–30; see [[the-judgment-of-paris]]). [[Aristarchus]] rejected these lines, holding that Homer did not know the story.
 
 ## Outside Homer
 

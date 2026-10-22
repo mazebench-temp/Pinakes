@@ -9,13 +9,14 @@ grc: [πολιῆς]
 en: [gray]
 # πολιόν at 22.74 is the gray head and beard of an old man.
 # πολιόν at 23.261 is gray iron, one of the prizes.
-except: [22.74, 23.261]
+# πολιόν at 24.516 is Priam's gray head and beard.
+except: [22.74, 23.261, 24.516]
 of: [sea, iron]
 ---
 
 ## Meaning
 
-πολιός means “gray, grizzled,” the color of old men's hair, of wolves, and of iron. Of the sea it describes the whitish gray of water whipped into foam near the shore.
+πολιός means “gray, grizzled,” the color of old men's hair, of wolves, and of iron. Of the sea it describes the whitish gray of water whipped into foam near the shore. The gray head and beard of an old man, πολιόν τε κάρη πολιόν τε γένειον, are Priam's, in his plea to Hector and when Achilles raises him, “pitying his gray head and his gray beard” (22.74, 24.516); those lines belong to [[old-age-and-memory]].
 
 ## Use
 

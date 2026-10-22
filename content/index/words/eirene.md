@@ -23,4 +23,4 @@ en: [peace]
 
 ## Outside Homer
 
-The Odyssey ends with Zeus' decree for Ithaca: "let there be wealth and peace in plenty" (24.486). Hesiod makes Eirene one of the Seasons (Horai), daughters of Zeus and Themis, with Eunomia, "good order", and Dike, "justice" (*Theogony* 901–902), and in the just city "peace, the nurse of children, is on the land" (*Works and Days* 228).
+The Odyssey ends with Zeus' decree for Ithaca: "let there be wealth and peace in plenty" (*Odyssey* 24.486). Hesiod makes Eirene one of the Seasons (Horai), daughters of Zeus and Themis, with Eunomia, "good order", and Dike, "justice" (*Theogony* 901–902), and in the just city "peace, the nurse of children, is on the land" (*Works and Days* 228).

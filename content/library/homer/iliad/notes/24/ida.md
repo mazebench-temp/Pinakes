@@ -1,0 +1,10 @@
+---
+summary: Hecuba bids Priam pray to Zeus, “the god of Ida, who looks down on all of Troy” (24.290–291), and Priam prays to “Father Zeus, who rule from Ida, most glorious, greatest” before he sets out (24.308). The wood for Hector's pyre is “far / to bring from the mountain” (24.662–663).
+# Ἰδαίῳ (24.291), "of Ida", the title of Zeus, as Ἰδαίου at 16.605; zeus claims it too. Ἴδηθεν (24.308) is caught by
+# the note on Book 3.
+grc: [Ἰδαίῳ]
+---
+
+**The god of Ida.** Before Priam goes to the ships Hecuba brings him wine to pour to Zeus, and tells him to pray “to the son of Cronus, lord of the dark clouds, / the god of Ida, who looks down on all of Troy”, and to ask for a bird of omen (24.290–292; see [[hecuba]], [[zeus]] and [[prayer]]). Ἰδαῖος, “of Ida”, is the god's title, as when Onetor is “the priest of Zeus / of Ida” (16.604–605), and the mountain is his lookout: from its peaks he watched “the city of the Trojans and the ships of the Achaeans” (8.51–52; see [[watching-the-war]] and [[gargarus]]). Priam's prayer begins with the verse of the oath sacrifice, “Father Zeus, who rule from Ida, most glorious, greatest” (24.308 = 3.276; Walter Leaf, *Commentary on the Iliad*, 1900, on 24.306; see [[who-rules-from-ida]]), and Zeus answers it with the eagle (24.314–321; see [[eagle]]).
+
+**The wood.** Asking for the truce, Priam tells Achilles that the Trojans, penned in the city, have far to go for wood, “and the wood is far / to bring from the mountain, and the Trojans are greatly afraid” (24.662–663); they bring it in for nine days with oxen and mules (24.782–784). Leaf reports that Peppmüller rejected the two verses as giving a false reason for the nine days, which custom required for mourning, and he answers that they may be a touch of pride, an apology for accepting the offer at all; he adds Virchow's remark that in his own day all the wood needed at Hissarlik and in the lower Troad still had to be brought by horses from the distant heights of Ida (on 24.662; see the translation's note on 24.662–663). The Achaeans had fetched the wood for Patroclus' pyre from the slopes of Ida (23.110–122; see the note on Book 23).

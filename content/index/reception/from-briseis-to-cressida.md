@@ -7,7 +7,7 @@ summary: The two captive women of Iliad 1 merged in medieval romance into one he
 of: [briseis, chryseis]
 ---
 
-In the twelfth century Benoît de Sainte-Maure's *Roman de Troie* invented a love story set in the Trojan War. Its heroine, Briseida, is the daughter of the seer Calchas, loved by Troilus and then by Diomedes. Her name came, through Latin, from Homer's Briseis.
+In the twelfth century Benoît de Sainte-Maure's *Roman de Troie* invented a love story set in the Trojan War. Its heroine, Briseida, is the daughter of the seer Calchas, loved by Troilus (see [[troilus]]) and then by Diomedes. Her name came, through Latin, from Homer's Briseis.
 
 Boccaccio, retelling the story in *Il Filostrato* (1330s), renamed her Criseida, after the other captive of Iliad 1, Chryseis. From Boccaccio the story passed to Chaucer's *Troilus and Criseyde* (1380s), Robert Henryson's *Testament of Cresseid*, and Shakespeare's *Troilus and Cressida* (c. 1602).
 

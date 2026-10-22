@@ -11,7 +11,7 @@ en: [soothing drugs]
 
 ## Meaning
 
-ἤπιος means “gentle, kind”: Agamemnon says that Odysseus' heart “knows kindly thoughts” (ἤπια δήνεα, 4.361), and Helen remembers that Priam was “always gentle, like a father” (Il. 24.770). Of drugs (φάρμακα) it means “soothing, easing pain.” The phrase ἤπια φάρμακα occurs three times in the Iliad, always of drugs spread on a wound: by Machaon here; in Idomeneus' saying that a healer is worth many other men, “to cut out arrows and spread on soothing drugs” (Il. 11.514–515); and in Eurypylus' plea to Patroclus to spread on him the drugs that Achilles learned from Chiron, “the most just of the Centaurs” (Il. 11.828–832).
+ἤπιος means “gentle, kind”: Agamemnon says that Odysseus' heart “knows kindly thoughts” (ἤπια δήνεα, 4.361), and Helen remembers that Priam was “always kind, like a father” (Il. 24.770). Of drugs (φάρμακα) it means “soothing, easing pain.” The phrase ἤπια φάρμακα occurs three times in the Iliad, always of drugs spread on a wound: by Machaon here; in Idomeneus' saying that a healer is worth many other men, “to cut out arrows and spread on soothing drugs” (Il. 11.514–515); and in Eurypylus' plea to Patroclus to spread on him the drugs that Achilles learned from Chiron, “the most just of the Centaurs” (Il. 11.828–832).
 
 ## Use
 

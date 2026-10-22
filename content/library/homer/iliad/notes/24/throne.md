@@ -1,0 +1,10 @@
+---
+summary: In Achilles' hut the chair is the host's offer. Achilles rises from his chair to raise Priam and bids him sit; Priam will not sit while Hector lies uncared for; and when the body has been released Achilles sits down again on the intricately worked chair from which he had risen (24.515, 24.522, 24.553, 24.597).
+# κλισμῷ (24.597), "the intricately worked chair", is the θρόνος of 24.515, as Leaf notes; the dative is found
+# only here in the Iliad.
+grc: [κλισμῷ]
+---
+
+**Rise and sit.** When Achilles has wept his fill, “at once he rose from his chair and raised the old man by the hand” (ἀπὸ θρόνου ὦρτο, 24.515), and when he has spoken of Priam's daring he bids him sit: “But come, sit down on a chair, and let us leave our sorrows / to lie quiet in our hearts” (24.522–523; see [[achilles]] and [[supplication]]). To raise the suppliant and seat him is to receive him; Achilles seated the envoys of Book 9 “on chairs with purple rugs” (9.200; see [[xenia]]). Priam refuses: “Do not yet bid me sit on a chair, nurtured by Zeus, while Hector / lies uncared for in the huts” (24.553–554; see [[priam]]). The scene has a forerunner in Nestor's hut, where the old man “rose from his shining chair, / and took him by the hand and led him in, and bade him sit down”, and Patroclus refused, “There is no time to sit, old sir, nurtured by Zeus” (11.645–648; see [[nestor]] and [[patroclus]]). The herald too is seated, on a δίφρος, when Automedon and Alcimus bring him in (24.577–578; see [[idaeus]]).
+
+**The other chair.** When he has laid Hector on the bier, Achilles goes back into the hut and sits down ἐν κλισμῷ πολυδαιδάλῳ, “on the intricately worked chair from which he had risen, / by the other wall” (24.597–598; see [[hut]]). Walter Leaf takes the κλισμός to be the θρόνος of 24.515, as the κλισμοί and the θρόνος of Nestor's hut seem to be the same seat (11.623, 11.645), although the two are usually kept apart, the κλισμός being a lower seat; he calls the inconsistency trifling (*Commentary on the Iliad*, 1900, on 24.597; see the translation's note on 24.597).

@@ -1,0 +1,12 @@
+---
+summary: The word runs through the last book from the gods' love of men to the guest's welcome. Zeus says that Hector “was the dearest to the gods of all the mortals in Ilios” (24.67), Hermes that “he was dear above all to their hearts” (24.423), and Hecuba that “you were dear to the gods” (24.749). Priam prays to come to Achilles “as one welcomed and pitied” (24.309), and Achilles calls him “dear old man” (24.650). Helen ends the laments with no one left in Troy “who is kind to me or a friend” (24.775).
+grc: [φίλτατε]
+---
+
+**Dear to the gods.** The gods' love is said of Peleus, “dear above all to the hearts of the immortals” in Hera's words (24.61), and in the same phrase of Hector by Hermes (περὶ κῆρι, 24.423; see [[ker-heart]]); Achilles is Διῒ φίλος, “dear to Zeus” (24.472; see [[dear-to-zeus]]). Zeus' Hector was φίλτατος, “dearest”, because “he never failed in the gifts I love”, φίλων … δώρων (24.67–68; see [[doron]]). Hecuba's lament makes the same claim for the living man and the gods' care for the dead one (24.749–750; see [[aisa]]). The eagle Zeus sends is “dearest of birds” to him (24.293, 24.311; see [[eagle]]), and Hermes is the god to whom “above all it is dearest / to keep company with a man” (24.334–335; see [[hermes]] and [[hetairos]]).
+
+**Welcome.** Priam prays to come to Achilles φίλον ἠδʼ ἐλεεινόν, “as one welcomed and pitied” (24.309; see [[pity]]), and he finds welcome on the way: the stranger who meets him says, “you look to me like my dear father” (24.371), and Priam calls him “dear child” (24.373); Achilles, putting him to bed outside his hut, calls him γέρον φίλε, “dear old man” (24.650; see [[xenia]]).
+
+**One's own.** φίλος is also simply “one's own”: φίλον υἱόν, “his dear son”, in Zeus' message and its repetitions and in the plea about Peleus (24.118, 24.146, 24.195, 24.237, 24.492); φίλον ἦτορ, “his dear life” (24.50; see [[etor]]); “his dear companion”, Patroclus (24.4, 24.51, 24.416; see [[hetairos]]); the “dear father” to whom Achilles gives back the body and whom Cassandra sees from Pergamus, and Hector's “dear wife” (24.594, 24.700, 24.710).
+
+**The laments.** Hecuba and Helen begin with the same verse, Hector “by far the dearest to my heart” of all her children, of all her brothers-in-law (24.748, 24.762; see [[lament]] and [[in-laws]]); φίλτατε, the vocative, is found only in these two lines in Homer. Helen ends with the loss: there is no one left in wide Troy ἤπιος οὐδὲ φίλος, “who is kind to me or a friend” (24.774–775; see [[helen]]).

@@ -5,8 +5,8 @@ kind: object
 tags: [vessel, exchange]
 summary: The cauldron or basin, λέβης, a vessel of bronze or silver for heating water and for washing, kept as treasure with tripods: twenty cauldrons are among Agamemnon's gifts to Achilles, and cauldrons are prizes at the funeral games of Patroclus and part of Priam's ransom for Hector.
 aliases: [cauldrons, lebes, basin, washing basin]
-# λέβης (21.362) is claimed in the Book 21 note. Later: λέβητάς (23.259), λέβητα (23.267), λέβητος (23.485), λέβηθʼ (23.613), λέβητʼ (23.885),
-# λέβητας (24.233).
+# λέβητας (9.123, 9.265, 19.244, 23.259, 24.233) is the entry's; λέβης (21.362) is claimed in the Book 21 note, and
+# λέβητα (23.267), λέβητος (23.485), λέβηθʼ (23.613) and λέβητʼ (23.885) in the Book 23 note.
 grc: [λέβητας]
 en: [cauldrons]
 ---

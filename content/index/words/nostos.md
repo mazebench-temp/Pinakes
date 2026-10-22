@@ -9,7 +9,8 @@ grc: [ἀπονοστήσειν, οἴκαδʼ]
 en: [home, sail for home]
 # νέεσθαι at 20.6: Themis bids the gods come to the house of Zeus, not a homecoming.
 # νέεσθαι and οἶκον δέ in Book 23 are not homecomings: the dead man going beneath the darkness (23.51), the winds going home (23.229), the winner leading the mule to his hut (23.662), the archer carrying the axes home (23.856).
-except: [20.6, 23.51, 23.229, 23.662, 23.856]
+# οἶκον δέ at 24.581 is the body of Hector carried home.
+except: [20.6, 23.51, 23.229, 23.662, 23.856, 24.581]
 ---
 
 ## Meaning

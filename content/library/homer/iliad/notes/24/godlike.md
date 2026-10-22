@@ -1,0 +1,7 @@
+---
+summary: Priam is “godlike” nine times, and only in this book: eight times in the verses that bring in his speeches, “Then the old man, godlike Priam, answered him” and its variants (24.217, 24.299, 24.372, 24.386, 24.405, 24.552, 24.634, 24.659), and once as Achilles is amazed to see him (24.483). Helen gives the epithet to Alexander for the last time (24.763).
+---
+
+**Priam.** θεοειδής, “godlike in form,” is given to Priam nowhere else in the Iliad. The verse τὸν δʼ ἠμείβετʼ ἔπειτα γέρων Πρίαμος θεοειδής, “Then the old man, godlike Priam, answered him,” answers Hermes three times and Achilles twice (24.372, 24.386, 24.405, 24.552, 24.659; [[then-answered]]); its variants answer Hecuba (24.217, 24.299; [[answering-him]]), and with τὸν πρότερος προσέειπε, “spoke to him first,” he asks Achilles for a bed (24.634). Two of these frames were Paris' verses, with Ἀλέξανδρος θεοειδής at the end: τὸν δʼ αὖτε προσέειπεν (3.58, 6.332, 13.774) and τὸν πρότερος προσέειπεν (6.517). Once the epithet is in Achilles' sight: “so Achilles was amazed when he saw godlike Priam” (24.483), and after the meal Priam marvels at Achilles in turn, “for he looked like the gods face to face” (24.629–632; [[thambos]]). Priam had said the same of Hector, “who was a god among men” (24.258).
+
+**Alexander.** Helen's “truly my husband is godlike Alexander, / who brought me to Troy; I wish I had perished before that!” (24.763–764) is the last use for Paris, who had the epithet from his first appearance (3.16; [[paris]], [[helen]]). See [[priam]].

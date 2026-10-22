@@ -8,7 +8,8 @@ aliases: [Bear, the Great Bear, Wagon, the Wagon, the Wain, Hamaxa, Arktos, Ursa
 grc: [Ἄρκτον, "ἣν καὶ Ἄμαξαν"]
 en: [Bear, Wagon]
 # "Bear with me" at 23.587 renders ἄνσχεο; the constellation is not there.
-except: [23.587]
+# "Bear up" at 24.549 renders ἄνσχεο; the constellation is not there.
+except: [23.587, 24.549]
 # 18.488–489 describe the Bear without naming it.
 refs: [18.488, 18.489]
 ---

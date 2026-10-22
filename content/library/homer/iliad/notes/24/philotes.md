@@ -1,0 +1,7 @@
+---
+summary: Zeus grants Achilles the glory of the ransom “keeping your respect and your friendship for the time to come” (24.111), and Thetis, bidding her son eat and sleep, tells him, “It is good even to lie with a woman / in love” (24.130–131).
+---
+
+**Friendship among the gods.** Zeus, who granted Thetis' plea in Book 1, speaks of a respect and friendship that he will keep for the time to come (1.503–530; see [[thetis]] and [[zeus]]). Walter Leaf notes that τεήν may be objective or subjective, her respect and affection for Zeus or his for her (*Commentary on the Iliad*, 1900, on 24.111), and that the phrase is built on the familiar αἰδοῖός τε φίλος τε, “respected and dear” (18.386; see [[aidos]]).
+
+**Love.** Thetis' advice uses the phrase of love, ἐν φιλότητι μίσγεσθαι (24.130–131; see [[eros]]): food and bed, since his death is near (24.128–132; see [[fasting]] and [[the-short-life-of-achilles]]). For οὔτε (24.129) some of the best manuscripts have οὐδέ, Aristarchus' reading, which his obelus on 130–132 required: he condemned the lines on moral grounds, as advice unfit for a mother. Leaf reports that Aristotle quotes them without offense (Aristotle names only the bed, “as Homer says”, *Nicomachean Ethics* 3.11, 1118b10–11), and adds that 131–132 seem to be taken from 16.852–853 (on 24.129; see the translation's note on 24.129–132). At the end of the night of Priam's visit, Achilles sleeps in the inner part of the hut, “and beside him lay fair-cheeked Briseis” (24.675–676; see [[briseis]]).

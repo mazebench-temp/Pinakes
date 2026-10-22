@@ -29,7 +29,7 @@ He is “an infant of tender mind, quite small” (ἀταλάφρονα νήπ�
 
 Andromache's lament in Book 22 imagines his life as an orphan, robbed of his lands and driven from the feasts of his father's companions, he who once ate marrow on his father's knees (22.484–507; see [[the-day-of-orphanhood]]).
 
-In Book 24 she fears that he will not live to be a man. He will follow her into slavery, or some Achaean will take him by the arm and hurl him from the tower to a grim death, in anger for a brother or a father or a son whom Hector killed (24.726–739; see [[the-tower-of-ilios]]).
+In Book 24 she foresees that he will follow her into slavery, or that some Achaean will hurl him from the tower (24.726–739; see [[the-tower-of-ilios]]).
 
 ## Outside Homer
 

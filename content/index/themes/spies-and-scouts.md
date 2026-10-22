@@ -8,7 +8,8 @@ grc: [σκοπὸς, σκοπὸν, ἐπίσκοπον, ἐπίσκοπος, σ
 en: [spy, scout, lookout]
 passages:
   - 2.786-795 | Iris in the likeness of Polites
-except: [Rhetoric 1360b4, Rhetoric 1362a17]
+# ἐπίσκοπος at 24.729 is Hector, the guardian of the city.
+except: [24.729, Rhetoric 1360b4, Rhetoric 1362a17]
 ---
 
 σκοπός, from the root of σκέπτομαι, “look about, watch”, is a watcher: a lookout on a height, a man set to observe and report, and in Book 10 a spy. A σκοπιή is the high place he watches from. ἐπίσκοπος is an overseer or guardian, and in Book 10 a man who goes “to spy on” the enemy (10.38, 10.342); διοπτήρ, “scout”, and διοπτεύω, “spy”, both from a verb of looking through, occur only in that book (10.562, 10.451). The verb σκοπιάζω is to keep watch or spy on (10.40; 14.58), and διασκοπιάομαι to make out each thing in turn (10.388; 17.252).

@@ -1,0 +1,6 @@
+---
+summary: Priam weighs out ten talents of gold for Hector's ransom (24.232), in the verse with which Odysseus weighed out Agamemnon's gold for Achilles (19.247); Walter Leaf takes the line here for an interpolation.
+# δέκα πάντα τάλαντα (24.232 = 19.247) is claimed by the entry.
+---
+
+“And he weighed out and brought ten talents of gold in all” (24.232). The verse is the one in which Odysseus weighed out the ten talents of Agamemnon's gifts and led the way to Achilles (19.247), and the sum is the sum of those gifts, “ten talents of gold” (9.122; see [[the-gifts-of-agamemnon]]): the gold of Priam's ransom matches the gold of Agamemnon's amends. Walter Leaf thinks the line obviously interpolated from Book 19. It breaks the connection of the passage, and ἔφερεν, “brought”, which suits gifts carried out of a hut, means nothing where the ransom is still being chosen from the chests and stays in the chamber until it is put on the wagon (24.275); and weighing is needed only where the exact payment of a promised sum is in question (*Commentary on the Iliad*, 1900, on 24.232; see the translation's note on 24.232, [[apoina]] and [[wagon]]). On the same verse in Book 19 he took the weighing as a sign that the talent was a known weight of gold, though the talents were most probably bars that needed only counting (on 19.247).

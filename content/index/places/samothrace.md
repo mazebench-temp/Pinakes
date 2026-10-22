@@ -5,11 +5,11 @@ kind: place
 tags: [island, thrace, mountain, sanctuary]
 summary: The mountainous island of the northern Aegean off the coast of Thrace, which Homer calls Samos, “the Thracian”. From its topmost peak Poseidon watches the battle, for all of Ida, Priam's city and the Achaean ships can be seen from there (13.10–16); later Greece knew it for the mysteries of its gods.
 aliases: [Thracian Samos, Samos, Samothraki, Samothrake]
-# Homer names the island only as Samos: Σάμου ὑληέσσης / Θρηϊκίης (13.12–13), later with its neighbors,
-# Σάμου τε καὶ Ἴμβρου (24.78) and ἐς Σάμον ἔς τʼ Ἴμβρον (24.753). samos (Odysseus' island) claims Σάμον,
-# which will catch 24.753: that line will need an except on samos and a phrase here. Θρηϊκίης (13.13)
-# is claimed by thracians.
-grc: ["Σάμου ὑληέσσης"]
+# Homer names the island only as Samos: Σάμου ὑληέσσης / Θρηϊκίης (13.12–13), and with its neighbors,
+# Σάμου τε καὶ Ἴμβρου (24.78) and ἐς Σάμον ἔς τʼ Ἴμβρον (24.753), claimed here as phrases (the Ἴμβρου and
+# Ἴμβρον inside them are imbros' too). samos (Odysseus' island) claims Σάμον and excepts 24.753, and
+# samos-ionia excepts 24.78. Θρηϊκίης (13.13) is claimed by thracians.
+grc: ["Σάμου ὑληέσσης", "Σάμου τε καὶ Ἴμβρου", "ἐς Σάμον ἔς τʼ Ἴμβρον"]
 refs: [13.13, 13.15, 13.17-18]
 passages:
   - 13.10-19 | Poseidon on the peak of Samothrace
@@ -30,5 +30,7 @@ Strabo thought it more plausible that the island was named from σάμοι, “h
 The island is “wooded” (ὑλήεις) and its mountain “rocky” (παιπαλόεις, 13.17), the epithet of Imbros (13.33). Poseidon had come up out of the sea to sit there (13.15). When he comes down, “the high mountains and the woods trembled / under the immortal feet of Poseidon as he went” (13.18–19), and in four strides he reaches Aegae (13.20–22; see [[aegae]] and [[poseidon-rallies-the-achaeans]]).
 
 ## Outside Homer
+
+The *Homeric Hymn to Apollo* still calls the island Θρηικίη … Σάμος, “Thracian Samos”, among the lands Leto passed in her wanderings, and names Imbros and Lemnos two verses later (*Homeric Hymn to Apollo* 34–36; see [[imbros]] and [[lemnos]]).
 
 Later Greece knew Samothrace for its mysteries. Herodotus says that the Samothracians perform the rites of the Cabeiri, received from the Pelasgians who once lived on the island, and that a sacred story of Hermes is revealed in the Samothracian mysteries (Herodotus 2.51.2–4; see [[pelasgians]]). Strabo reports that many held the gods honored there to be the Cabeiri, though no one could say who the Cabeiri were (*Geography* 7, fr. 51; 10.3.19–21). He also reports that the brothers Iasion and Dardanus lived there, and that when Iasion was struck by lightning for his offense against Demeter, Dardanus sailed to the foot of Ida, founded Dardania and taught the Trojans the mysteries of Samothrace (7, fr. 50). In the Iliad Dardanus, son of Zeus, founds Dardania on the slopes of Ida, and the poem does not say where he came from (20.215–218; see [[dardanus]]). The Suda, quoting Antiphon's Samothracian speech, says that the first settlers were Samians driven from Samos by tyrants (σ 79); Strabo calls the tale of a colony from Samos an invention of the Samians for their own glory (10.2.17). The island lies off the coast of Thrace, with Imbros not far from it (*Geography* 7, fr. 48).

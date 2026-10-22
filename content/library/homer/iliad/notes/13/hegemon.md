@@ -1,6 +1,7 @@
 ---
 summary: Poseidon lays the Achaeans' plight on “the baseness of their leader”; Idomeneus is four times “leader of the Cretans”, and he and Meriones go out together as “leaders of men”; Aeneas calls on the other “leaders of the Trojans”, and at the end of the book the Trojans follow “with their leaders”.
-grc: [ἀγοὶ]
+# =: ἄγοι "would bring" (24.151, 24.180) is another word.
+grc: ["=ἀγοὶ"]
 ---
 
 **The leader's fault.** Poseidon, in Calchas' likeness, tells the Achaean leaders that the Trojans are fighting by the ships “through the baseness of their leader and the slackness of the army” (ἡγεμόνος κακότητι μεθημοσύνῃσί τε λαῶν, 13.108; see [[who-is-to-blame]], [[the-army-and-its-leaders]] and the translation's note on 13.108–114). The leader is Agamemnon, named a few lines later (13.112), and the fault of the one becomes the fault of the many.

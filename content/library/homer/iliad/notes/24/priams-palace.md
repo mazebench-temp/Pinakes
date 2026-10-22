@@ -1,0 +1,17 @@
+---
+summary: The last book begins and ends in Priam's house. Iris finds it in mourning, the old man rolling in the dung of the courtyard among his sons; from its fragrant chamber he takes the ransom, from its colonnade he drives the Trojans, in its enclosure he prays, and through its doorway he drives out to Achilles. Hector's body is brought home to it, and after the burial the people feast there (24.160–323, 24.717–719, 24.802–803).
+# ἐς Πριάμοιο, "to the house of Priam" (24.160), and "δώμασιν ἐν Πριάμοιο" (24.803); the chamber, also Hecuba's in
+# Book 6 (6.288 = 24.191); the phrase stops before κηώεντα, which the epithet fragrant keeps. Unnamed: the courtyard (24.161), the colonnade (24.238), the high palace (24.281), the
+# enclosure (24.306), the famous house (24.719), "in my halls" (24.757).
+grc: ["ἐς Πριάμοιο", "δώμασιν ἐν Πριάμοιο", "θάλαμον κατεβήσετο", "αὐλῆς ἐν χόρτοισι", "προθύροιο καὶ αἰθούσης ἐριδούπου"]
+en: [chamber, enclosure of the courtyard, doorway, colonnade]
+refs: [24.161, 24.238, 24.281, 24.306, 24.719, 24.757]
+---
+
+**The courtyard.** “And she came to the house of Priam, and found there cries and lament” (24.160): his sons sit around him “within the courtyard”, the old man rolls in the dung, and his daughters and his sons' wives mourn through the house (24.161–168; see [[lament]], [[sons-of-priam]] and [[priam]]). The courtyard is the one across which, in Book 6, the twelve chambers of the daughters faced the fifty of the sons and their wives (ἔνδοθεν αὐλῆς, 6.247). Priam tells Achilles that he has rolled in the dung “in the enclosure of the courtyard” (αὐλῆς ἐν χόρτοισι, 24.640), the place where Nestor and Odysseus found Peleus burning thigh pieces to Zeus (11.773–774; see [[peleus]]).
+
+**The chamber.** “And he himself went down into the fragrant chamber, / high-roofed, of cedar, which held many bright trinkets” (24.191–192): the first verse took Hecuba down to the chamber of her Sidonian robes, when she chose one for Athena (6.288; see [[hecuba]]). κέδρινον, “of cedar”, carries on the thought of “fragrant”, Walter Leaf notes, since the smell of cedar was held to preserve what was stored (*Commentary on the Iliad*, 1900, on 24.192; see [[fragrant]] and the translation's note on 24.192). From its chests he takes the robes, the cloaks, the gold and the Thracian cup, and his sons carry the ransom out of the chamber to the wagon (24.228–237, 24.275–276; see [[apoina]] and [[wagon]]).
+
+**The colonnade and the enclosure.** He drives the Trojans out of the colonnade with his staff (24.237–247; see [[trojans]]), the horses are yoked “in the high palace” (24.281), and Hecuba's wine is poured as he prays “standing in the middle of the enclosure”, the verse of Achilles' prayer for Patroclus at his hut (24.306 = 16.231; see [[libation]] and [[prayer]]). Then he drives out “from the doorway and the loud-resounding colonnade” (24.323), a verse said three times in the Odyssey of Telemachus and Nestor's son driving away from the houses of their hosts (*Odyssey* 3.493, 15.146, 15.191; see [[loud-resounding]]).
+
+**The return.** He brings Hector “home” (δόμον δέ, 24.717), into “the famous house” (24.719), and Hecuba says that he lies fresh “in my halls” (24.757; see [[the-laments-for-hector]]); Helen remembers the reproaches she heard “in the halls” (24.768; see [[helen]]). After the burial the people “gathered together and feasted well on a glorious feast / in the house of Priam, the king nurtured by Zeus” (24.802–803; see [[the-funeral-of-hector]] and [[feast]]): the last place the poem names.

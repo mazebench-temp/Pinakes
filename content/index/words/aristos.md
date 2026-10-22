@@ -7,6 +7,8 @@ summary: The best, bravest, noblest: the superlative that goes with ἀγαθό�
 aliases: [aristos, aristeus, areiōn, best of the Achaeans]
 grc: [ἄριστος, ἄριστον, ἀριστήεσσιν, ἀρείοσιν]
 en: [best, better]
+# ἄριστον at 24.124 is the morning meal.
+except: [24.124]
 passages:
   - 1.84-91 | Achilles: not even Agamemnon
   - 1.240-244 | Achilles' oath

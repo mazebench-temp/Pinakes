@@ -3,7 +3,7 @@ title: Winged words
 greek: ἔπεα πτερόεντα προσηύδα
 kind: formula
 tags: [speech-formula, speech]
-summary: The most famous speech formula in Homer, “he addressed him with winged words.” It always introduces a speech and never closes one.
+summary: The most famous speech formula in Homer, “he addressed him with winged words.” It introduces speeches and never closes one.
 aliases: [epea pteroenta]
 grc: [ἔπεα πτερόεντα προσηύδα]
 en: [winged words]
@@ -12,7 +12,7 @@ featured: true
 
 ## The pattern
 
-ἔπεα, plural of ἔπος (“word”) + πτερόεντα (“winged, feathered,” from πτερόν, “feather, wing”) + προσηύδα (“addressed,” from προσαυδάω). The phrase fills the second half of the verse after the main caesura, and it usually completes a whole-line formula: καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα, “and he spoke and addressed him with winged words.” It always introduces a speech and never closes one. It occurs more than a hundred times in the Iliad and the Odyssey together.
+ἔπεα, plural of ἔπος (“word”) + πτερόεντα (“winged, feathered,” from πτερόν, “feather, wing”) + προσηύδα (“addressed,” from προσαυδάω). The phrase fills the second half of the verse after the main caesura, and it usually completes a whole-line formula: καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα, “and he spoke and addressed him with winged words.” It introduces a speech and never closes one; once in the Iliad it sums up a conversation that is not given (24.141–142). It occurs more than a hundred times in the Iliad and the Odyssey together.
 
 ἔπεα once began with a consonant, the digamma (ϝέπεα). That is why a short syllable before it can count as long, as it does after φωνήσας in the whole-line formula.
 

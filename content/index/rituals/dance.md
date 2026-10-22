@@ -15,4 +15,4 @@ When Aphrodite comes for Helen after the duel, she describes Paris in his chambe
 
 ## Elsewhere in Homer
 
-On the shield of Achilles Hephaestus makes a dancing floor like the one Daedalus made for Ariadne at Cnossus, where young men and girls dance with their hands on each other's wrists (18.590–606). In his grief for Hector, Priam calls the sons he has left “liars and dancers, the best at beating the dancing floor” (24.261).
+On the shield of Achilles Hephaestus makes a dancing floor like the one Daedalus made for Ariadne at Cnossus, where young men and girls dance with their hands on each other's wrists (18.590–606). In his grief for Hector, Priam calls the sons he has left “liars and dancers, best at beating the dancing floor” (24.261).

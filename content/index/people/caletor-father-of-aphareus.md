@@ -16,4 +16,4 @@ relations:
 
 Ἀφαρῆα Καλητορίδην, “Aphareus, son of Caletor” (13.541): the father is named only to name the son, as Aeneas springs at him and strikes him in the throat (see [[aphareus]] and [[aeneas]]). The poem says nothing else of him.
 
-καλήτωρ is also a common noun, “caller”, from καλέω, “call”: Priam's herald is κήρυκα καλήτορα τοῖο γέροντος, “the herald, the old man's caller” (24.577; see [[heralds]]). The Iliad has another Caletor, a Trojan, son of Clytius and cousin of Hector, whom Ajax kills as he carries fire to a ship (15.419–422; see [[caletor]] and [[clytius]]).
+καλήτωρ is also a common noun, “crier”, from καλέω, “call”: Priam's herald is κήρυκα καλήτορα τοῖο γέροντος, “the herald, the old man's crier” (24.577; see [[heralds]]). The Iliad has another Caletor, a Trojan, son of Clytius and cousin of Hector, whom Ajax kills as he carries fire to a ship (15.419–422; see [[caletor]] and [[clytius]]).

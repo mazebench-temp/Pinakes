@@ -51,7 +51,7 @@ Iris calls her Διὸς κυδρὴ παράκοιτις, “the glorious wife 
 
 ## Elsewhere in Homer
 
-In the Iliad she names Argos, Sparta and Mycenae as the cities dearest to her (4.51–52). Her hatred of Troy is traced to the Judgment of Paris, which Homer mentions only once, late in the poem (24.25–30).
+In the Iliad she names Argos, Sparta and Mycenae as the cities dearest to her (4.51–52). Her hatred of Troy is traced to the Judgment of Paris, which Homer mentions only once, in the last book (24.25–30; see [[the-judgment-of-paris]]).
 
 ## Outside Homer
 

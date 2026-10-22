@@ -9,6 +9,7 @@ grc: [Λητ*]
 en: [Leto]
 relations:
   - child: apollo (1.9, 1.36)
+  - child: artemis (21.502-504, 24.606-609)
 ---
 
 {{notes}}
