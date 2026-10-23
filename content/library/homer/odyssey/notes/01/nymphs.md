@@ -1,0 +1,5 @@
+---
+summary: Two nymphs are named in Book 1. Calypso is “the lady nymph” who holds Odysseus and “the nymph of the lovely tresses” to whom Hermes is to bring the gods' counsel; Thoosa, mother of the Cyclops Polyphemus, lay with Poseidon in the hollow caves.
+---
+
+**Calypso and Thoosa.** The first nymph of the poem is Calypso, νύμφη πότνιʼ, “the lady nymph” (1.14), whom Athena calls a goddess (θεά, 1.51) and names again as νύμφῃ ἐυπλοκάμῳ, “the nymph of the lovely tresses” (1.86; see [[calypso]] and [[with-lovely-tresses]]). The second is Thoosa, Θόωσα … νύμφη (1.71), the daughter of Phorcys who bore Polyphemus to Poseidon (1.71–73; see [[thoosa]], [[phorcys-the-sea-god]] and [[polyphemus-the-cyclops]]). Both are nymphs of caves: Calypso keeps Odysseus “in her hollow caves” (1.15), and Thoosa lay with Poseidon “in the hollow caves” (1.73), the same words (see [[hollow-caves]]). Neither is called a daughter of Zeus, the title Homer gives the nymphs elsewhere (6.105, 9.154; *Iliad* 6.420): Calypso is the daughter of Atlas, Thoosa of Phorcys (see [[atlas]]).

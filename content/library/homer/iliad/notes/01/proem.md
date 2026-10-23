@@ -1,3 +1,7 @@
+---
+summary: The first seven lines of the Iliad. The poet asks the goddess to sing the wrath of Achilles, counts its cost in one long sentence, names the plan of Zeus, and fixes the starting point, “from the time when” Agamemnon and Achilles first quarreled.
+---
+
 {{quote:86460625-f50f-58a7-990b-6330c318d18b}}
 
 The proem is one sentence. It moves out from the wrath to its effects and the plan behind them, then back to where it began.

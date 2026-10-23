@@ -1,0 +1,5 @@
+---
+summary: The immortals in the council and on earth: Zeus speaks “among the immortals” (1.31) of the gods “who hold the wide sky” (1.67) and of Poseidon, who cannot strive against them all (1.79); the stranger prophesies “as the immortals put it” in her heart (1.200–201); and Telemachus knows “the immortal goddess” (1.420).
+---
+
+The word marks the line between the gods and men that the book keeps crossing. Zeus, speaking among the immortals, blames mortals for blaming the gods (1.31–34; [[who-is-to-blame]]), and says that Poseidon will not be able to strive alone “against all / the immortals, against the will of the gods” (1.78–79). In the likeness of Mentes, Athena speaks of the immortals as a mortal would: she will prophesy “as the immortals / put it in my heart” (1.200–201; [[divination]]). At the end of the day Telemachus gives the suitors the stranger's story, “but in his heart he knew the immortal goddess” (1.420). Merry notes the feminine ἀθανάτην as one of the compound adjectives to which Homer often gives three endings (Merry, *Commentary on the Odyssey*, 1886, on 1.420).

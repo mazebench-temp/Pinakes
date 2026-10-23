@@ -1,0 +1,8 @@
+---
+summary: The Achaeans are both the army that went home from Troy and the people of Ithaca. Phemius sings of their homecoming, Menelaus was the last of them to come home, and Athena would have Telemachus call “the long-haired Achaeans” of Ithaca to an assembly, where many are “kings of the Achaeans” (1.90, 1.239, 1.272, 1.286, 1.326, 1.394, 1.401).
+en: [all the Achaeans]
+---
+
+**The army from Troy.** Telemachus would grieve less if his father had died at Troy: “Then all the Achaeans would have made a tomb for him” (1.239). Παναχαιοί, “all the Achaeans”, is the whole army, as in the Iliad's ἀριστῆες Παναχαιῶν, “the best of all the Achaeans” (*Iliad* 2.404). Menelaus “was the last of the bronze-armored Achaeans to come home” (1.286; see [[bronze-armored]] and [[menelaus]]), and Phemius sings “of the homecoming of the Achaeans” (1.326; see [[the-returns-of-the-achaeans]]).
+
+**The people of Ithaca.** The same name serves for Telemachus' own people. Athena means to rouse him “to call the long-haired Achaeans to an assembly” (1.90; see [[long-haired]] and [[assembly]]), and bids him “call the Achaean heroes to an assembly” (1.272; see [[heros]]). Telemachus answers Antinous that there are “other kings of the Achaeans, / many in sea-girt Ithaca, young and old” (1.394–395), and Eurymachus speaks of the man “who will be king of the Achaeans in sea-girt Ithaca” (1.401; see [[kings]]). Merry notes that the name, properly that of the leading people of northern Greece and the Peloponnese, is found in Ithaca and in Crete (19.175) and served as the common name of the Greek race; their long hair, κάρη κομόωντας, he compares with the Abantes, who wore it long behind (Merry, *Commentary on the Odyssey*, 1886, on 1.90; *Iliad* 2.542; see [[abantes]]).

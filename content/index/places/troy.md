@@ -3,9 +3,11 @@ title: Troy
 greek: Τροίη
 kind: place
 tags: [troad, city]
-summary: The city of [[Priam]] in northwest Asia Minor, also called Ilios, whose siege is the setting of the Iliad.
+summary: The city of [[Priam]] in northwest Asia Minor, also called Ilios. The Iliad is set before its walls in the tenth year of the siege; the Odyssey begins with the man who sacked it and the homecomings that followed its fall.
 aliases: [Ilios, Ilion, Ilium, Troie, city of Priam]
-grc: [Τροίην, Ἴλιον]
+# Τροίῃ and Τροίης (Od. 1.2, 1.62, 1.327, 1.355) also catch 26 Iliad lines, which the Book 2 and Book 6 notes
+# claim as well.
+grc: [Τροίην, Τροίῃ, Τροίης, Ἴλιον]
 en: [Troy, Ilios, city of Priam]
 refs: [1.19]
 ---

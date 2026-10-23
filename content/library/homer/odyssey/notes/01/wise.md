@@ -1,0 +1,6 @@
+---
+summary: Telemachus' standing epithet seven times, six of them in the verse of his answers, “And wise Telemachus answered her face to face” or “answered him” (1.213, 1.230, 1.306, 1.345, 1.388, 1.412), and once when he begins to speak among the suitors (1.367); and Penelope lays “her son's wise word” to heart (1.361).
+grc: [πεπνυμένον]
+---
+
+The verse of Telemachus' answers, τὴν (τὸν) δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα, is his in the Odyssey as “And wise Antenor answered her face to face” is the Trojan elder's in the *Iliad* (*Iliad* 3.203; [[answering-him]]). In this book it answers the stranger three times, his mother once, and the suitors Antinous and Eurymachus. The epithet is given before he has done anything wise; but when he rebukes his mother, the narrator says that she “laid her son's wise word to heart” (1.361), and his first speech to the suitors begins “And among them wise Telemachus began to speak” (1.367). Merry derives πεπνυμένος from the root of πνέω, “breathe,” as πινυτός (“of good sense,” 1.229) is formed from the same root, and compares Latin *animus* beside *anima* (Merry, *Commentary on the Odyssey*, 1886, on 1.213). See [[telemachus]] and [[periphron]].

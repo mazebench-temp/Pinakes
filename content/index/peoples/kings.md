@@ -3,7 +3,7 @@ title: Kings
 greek: βασιλῆες
 kind: people
 tags: [achaean, king, kingship]
-summary: The βασιλῆες, the “scepter-bearing kings” whom Zeus has nurtured: the leaders of the Achaean contingents. Homer's army has many kings, and one of them, [[Agamemnon]], commands the rest.
+summary: The βασιλῆες, the “scepter-bearing kings” whom Zeus has nurtured, in Homer a class of leaders rather than single monarchs. In the Iliad they lead the Achaean contingents, and one of them, [[Agamemnon]], commands the rest; in the Odyssey the nobles of Ithaca and the lords of the Phaeacians are kings too.
 aliases: [basilees, scepter-bearing kings, kings whom Zeus has nurtured]
 grc: [βασιλῆες, βασιλήων, βασιλεῦσιν, βασιλῆας, βασιλῆα]
 # βασιλῆα at 10.494 is Rhesus, king of the Thracians.
@@ -16,7 +16,7 @@ passages:
 
 ## The word
 
-βασιλεύς (“king”, plural βασιλῆες) in Homer names a class, not a single monarch. The Catalogue names “the leaders and lords of the Danaans” (2.487, 2.760), and most of them are kings in their own lands. On Ithaca there are many kings, young and old (Odyssey 1.394–395), and among the Phaeacians twelve kings rule under a thirteenth, Alcinous (Odyssey 8.390–391). In the Mycenaean tablets the word, written *qa-si-re-u*, names a local official well below the king, the *wa-na-ka* (ἄναξ). See [[basileus]] and [[anax]].
+βασιλεύς (“king”, plural βασιλῆες) in Homer names a class, not a single monarch. The Catalogue names “the leaders and lords of the Danaans” (2.487, 2.760), and most of them are kings in their own lands. On Ithaca there are many kings, young and old (*Odyssey* 1.394–395), and among the Phaeacians twelve kings rule under a thirteenth, Alcinous (*Odyssey* 8.390–391). In the Mycenaean tablets the word, written *qa-si-re-u*, names a local official well below the king, the *wa-na-ka* (ἄναξ). See [[basileus]] and [[anax]].
 
 ## Kings and their epithets
 

@@ -8,7 +8,8 @@ aliases: [embassies, envoy, envoys, angelie]
 grc: [ἀγγελίην, ἀγγελίης]
 # ἀγγελίης at 13.252 is a message brought from the field, not an embassy.
 # ἀγγελίην at 19.337 is "news", as 18.17, 18.19.
-except: [7.416, 13.252, 18.17, 18.19, 19.337]
+# ἀγγελίην at Od. 1.408 is news of Odysseus.
+except: [7.416, 13.252, 18.17, 18.19, 19.337, Od. 1.408]
 en: [embassy]
 passages:
   - 3.203-224 | The embassy to Troy

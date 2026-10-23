@@ -2,7 +2,7 @@
 title: Kingship and authority
 kind: theme
 tags: [kingship, assembly]
-summary: What makes a king, where his authority comes from, and what he may demand. In the Iliad a king holds his scepter from Zeus and rules over more men than others, but his power depends on counsel and on the obedience of those he leads.
+summary: What makes a king, where his authority comes from, and what he may demand. In the Iliad a king holds his scepter from Zeus and rules over more men than others, but his power depends on counsel and on the obedience of those he leads; in the Odyssey, with the king away, the kingship of Ithaca is itself in question.
 refs: [1.15, 1.22, 1.28, 1.79, 1.80, 1.176, 1.186, 1.231, 1.234, 1.245, 1.279, 1.281, 1.288, 1.289, 1.296, 1.340, 1.533, 1.581]
 passages:
   - 1.12-32 | Two scepters: priest and king

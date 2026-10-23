@@ -1,0 +1,5 @@
+---
+summary: At night Telemachus takes off his soft tunic in his chamber, and Eurycleia folds it, smooths it and hangs it on a peg beside the bed (1.437–440).
+---
+
+In his chamber Telemachus “sat down on the bed, and took off his soft tunic, / and put it in the hands of the shrewd old woman. / She folded and smoothed the tunic, / hung it on a peg beside the corded bed” (1.437–440; see [[eurycleia]] and [[bed]]). The verse undoes a verse of the Iliad: Agamemnon, rising before dawn, “sat up and put on his soft tunic” (ἕζετο δʼ ὀρθωθείς, μαλακὸν δʼ ἔνδυνε χιτῶνα, *Iliad* 2.42; see [[dressing-scene]]); Telemachus sits down and takes it off (ἕζετο δʼ ἐν λέκτρῳ, μαλακὸν δʼ ἔκδυνε χιτῶνα). ἀσκήσασα is “having smoothed” the tunic (W. W. Merry, *Commentary on the Odyssey*, 1886, on 1.439); elsewhere ἀσκέω is “work with skill”. The old nurse's care for the young master's clothes closes the book's account of her (see [[handmaids]]). A peg (πάσσαλος) on the wall is where a house keeps what it values: Demodocus' lyre hangs on one in the hall of Alcinous, and Penelope takes Odysseus' bow down from its peg (*Odyssey* 8.67, 21.53–54).

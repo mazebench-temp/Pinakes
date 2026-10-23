@@ -11,7 +11,7 @@ en: [overweening, overweeningly]
 
 ## Meaning
 
-ὑπέρβιος = ὑπέρ (“over, beyond”) + βίη (“force, violence”): “beyond the measure of force.” In the Iliad the neuter serves as an adverb, when Menelaus prays to Zeus, “it is no fine thing to boast so overweeningly” (17.19), and Polydamas fears Achilles for “his overweening spirit” (18.262). The Odyssey uses nearly the same verse of Nestor, whose overweening spirit, his son Peisistratus fears, will not let Telemachus go (*Odyssey* 15.212), and gives the word above all to the suitors, who have ὑπέρβιον ὕβριν, “overweening insolence” (*Odyssey* 1.368, 4.321, 16.410), and devour Odysseus' goods ὑπέρβιον (*Odyssey* 14.92, 16.315). Compare [[overbearing]] (ὑπερφίαλος) and [[overweening]] (ὑπερηνορέων).
+ὑπέρβιος = ὑπέρ (“over, beyond”) + βίη (“force, violence”): “beyond the measure of force.” In the Iliad the neuter serves as an adverb, when Menelaus prays to Zeus, “it is no fine thing to boast so overweeningly” (17.19), and Polydamas fears Achilles for “his overweening spirit” (18.262). The Odyssey uses nearly the same verse of Nestor, whose overweening spirit, his son Peisistratus fears, will not let Telemachus go (*Odyssey* 15.212), and gives the word above all to the suitors, who devour Odysseus' goods ὑπέρβιον (*Odyssey* 14.92, 16.315); Telemachus first addresses them as μητρὸς ἐμῆς μνηστῆρες ὑπέρβιον ὕβριν ἔχοντες, “Suitors of my mother, overweening in your arrogance” (*Odyssey* 1.368; the phrase again *Odyssey* 4.321, 16.410). Compare [[overbearing]] (ὑπερφίαλος) and [[overweening]] (ὑπερηνορέων).
 
 {{notes}}
 

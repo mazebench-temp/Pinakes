@@ -3,7 +3,7 @@ title: Circling years
 greek: περιτελλόμενοι ἐνιαυτοί
 kind: epithet
 tags: [time]
-summary: “The years as they come round,” a phrase for the turning year: of the yearly sacrifices of the Athenians in the Catalogue, and of the ten years in which Hera and Athena would not heal of Zeus' thunderbolt.
+summary: “The years as they come round,” a phrase for the turning year: in the Iliad of the yearly sacrifices of the Athenians and of the ten years in which Hera and Athena would not heal of Zeus' thunderbolt; in the Odyssey of the years that brought round the year of Odysseus' homecoming.
 aliases: [peritellomenoi eniautoi, revolving years, as the years come round]
 grc: [περιτελλομένους ἐνιαυτοὺς, περιτελλομένων ἐνιαυτῶν]
 en: [circling years, as the years come round]

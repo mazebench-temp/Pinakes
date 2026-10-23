@@ -28,7 +28,7 @@ Lemnos was a market for captives as well as a source of wine. Achilles sold Lyca
 
 ## Elsewhere in Homer
 
-In the Odyssey trade is carried on by others. Phoenician traders, “famous for ships”, come to Eumaeus' island with countless trinkets, spend a year trading from their ship, and carry off the boy to sell him (Od. 15.415–484). In one of Odysseus' false tales a Phoenician cheat takes him to Phoenicia and means to sell him in Libya (Od. 14.288–297). Athena, in the likeness of the Taphian Mentes, says that she is sailing to Temesa for bronze with a cargo of iron (Od. 1.180–184). Among the Phaeacians, Euryalus insults Odysseus by saying that he looks like the captain of a crew of traders, mindful of cargo and greedy gains, and not like an athlete (Od. 8.159–164). The insult shows that a life of trade was thought beneath a noble.
+In the Odyssey trade is carried on by others. Phoenician traders, “famous for ships”, come to Eumaeus' island with countless trinkets, spend a year trading from their ship, and carry off the boy to sell him (Od. 15.415–484). In one of Odysseus' false tales a Phoenician cheat takes him to Phoenicia and means to sell him in Libya (Od. 14.288–297). Athena, in the likeness of the Taphian Mentes, says that she is sailing to Temese for bronze with a cargo of iron (*Odyssey* 1.180–184; see [[temese]]). Among the Phaeacians, Euryalus insults Odysseus by saying that he looks like the captain of a crew of traders, mindful of cargo and greedy gains, and not like an athlete (Od. 8.159–164). The insult shows that a life of trade was thought beneath a noble.
 
 ## Outside Homer
 

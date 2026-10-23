@@ -3,9 +3,11 @@ title: Zeus
 greek: Ζεύς
 kind: god
 tags: [olympian, cronids]
-summary: King of the gods and “father of men and gods”, son of [[Cronus]]. His plan is fulfilled through the wrath of [[Achilles]].
+summary: King of the gods and “father of men and gods”, son of [[Cronus]]. From Olympus he rules over gods and men, and gives mortals good and evil as he wills.
 aliases: [Father Zeus, son of Cronus, the Olympian, Cronides, Kronion]
-grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Ὀλύμπιος, Ὀλύμπιε, "πατὴρ ἀνδρῶν τε θεῶν τε", "!Ζευξι*", "!Ὀλύμπιος ἄγγελος"]
+# Ζηνός and Ὀλυμπίου are Zeus wherever they occur in Homer (Ζηνὸς ... Ὀλυμπίου, Od. 1.27; Ζηνός also Il. 4.408 and
+# thirteen more lines, Ὀλυμπίου Il. 15.131, which the Book 4 and Book 15 notes already claim within the Iliad).
+grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Ὀλύμπιος, Ὀλύμπιε, Ζηνὸς, Ὀλυμπίου, "πατὴρ ἀνδρῶν τε θεῶν τε", "!Ζευξι*", "!Ὀλύμπιος ἄγγελος"]
 # Ζεύς τε καταχθόνιος at 9.457 is Hades, "Zeus of the underworld". Ὀλύμπιος ἄγγελος at 24.194 is Iris, "an Olympian
 # messenger" (found only there): the exclusion keeps the adjective out and leaves Zeus Διόθεν, "from Zeus", in the same verse.
 except: [9.457]

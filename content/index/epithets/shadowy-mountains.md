@@ -3,7 +3,7 @@ title: Shadowy mountains
 greek: οὔρεα σκιόεντα
 kind: epithet
 tags: [mountain]
-summary: “Shadowy,” σκιόεις, an epithet of mountains and of clouds.
+summary: “Shadowy,” σκιόεις, an epithet of mountains and of clouds, and in the Odyssey of the halls of a house, μέγαρα σκιόεντα.
 aliases: [skioeis]
 grc: [σκιόεντα]
 en: [shadowy]
@@ -11,7 +11,7 @@ en: [shadowy]
 
 ## Meaning
 
-σκιόεις is formed from σκιά (“shadow”) with the adjective suffix -όεις: “shadowy, full of shade.” Of mountains it suggests wooded slopes, or ranges darkened by distance. The phrase οὔρεά τε σκιόεντα, “and shadowy mountains,” recurs in the Odyssey.
+σκιόεις is formed from σκιά (“shadow”) with the adjective suffix -όεις: “shadowy, full of shade.” Of mountains it suggests wooded slopes, or ranges darkened by distance. The phrase οὔρεά τε σκιόεντα, “and shadowy mountains,” recurs in the Odyssey, which also gives the word to the halls of a house, μέγαρα σκιόεντα, “the shadowy halls” (*Odyssey* 1.365): rooms lit only through narrow openings, as Merry explains it (*Commentary on the Odyssey*, 1886, on 1.365).
 
 ## Use
 

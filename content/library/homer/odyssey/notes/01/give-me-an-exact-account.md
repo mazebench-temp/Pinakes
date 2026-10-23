@@ -1,0 +1,6 @@
+---
+summary: The formula three times, in an exchange of questions between host and guest: Telemachus asks the stranger who he is (1.169); the stranger asks whether Telemachus is truly the son of Odysseus (1.206) and what feast this is (1.224); and each answers, “I will tell you … very exactly” (1.179, 1.214).
+grc: ["ἀτρεκέως ἀγορεύσω"]
+---
+
+Host and guest put the same question to each other. Telemachus asks first, after the meal, and the stranger answers with the Odyssey's form of the reply, τοιγὰρ ἐγώ τοι ταῦτα μάλʼ ἀτρεκέως ἀγορεύσω, “Well then, I will tell you all this very exactly” (1.169–179; [[who-are-you-among-men]]). Then the stranger asks, and Telemachus answers with the same verse, the address “stranger” in place of ταῦτα: “Well then, stranger, I will tell you very exactly” (1.206–214). The stranger's second question asks what feast and what throng this is (1.224–229), and Telemachus answers with the story of the suitors (1.231–251). The exact account the guest gives is the false story of Mentes, and the exact account the son gives is that he does not know his own father: “My mother says that I am his; but I for my part / do not know” (1.215–216). See [[tell-me-this-truly]].

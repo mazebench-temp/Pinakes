@@ -5,7 +5,8 @@ kind: place
 tags: [sea]
 summary: The sea around the island of Icaria in the eastern Aegean, west of Samos. The Iliad names it once, in the simile for the assembly stirred by Agamemnon's speech.
 aliases: [Icarian deep, Icarian sea, Ikarian Sea]
-grc: [Ἰκαρίοιο]
+# Ἰκαρίοιο alone is also Icarius, Penelope's father (Od. 1.329 and often): the phrase only.
+grc: ["πόντου Ἰκαρίοιο"]
 ---
 
 {{quote:56df7537-849d-5a7b-bd20-a451bb3fd6af}}

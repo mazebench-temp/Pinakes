@@ -17,4 +17,4 @@ Calchas speaks of Agamemnon as the man "who rules with great power over all the 
 
 {{quote:ec316561-f74e-5fb4-b908-dbd9ac17da1f}}
 
-The name is used in Book 1 where the whole host suffers or must be protected.
+In the first book of the Iliad the name is used where the whole host suffers or must be protected.

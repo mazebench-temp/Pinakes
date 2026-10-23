@@ -3,7 +3,7 @@ title: Swift-fated
 greek: ὠκύμορος
 kind: epithet
 tags: [heroic-epithet, fate]
-summary: Thetis' word for her son [[Achilles]], “with a swift doom,” and its superlative ὠκυμορώτατος, “swifter to his fate than any other.”
+summary: “With a swift doom,” ὠκύμορος: Thetis' word for her son [[Achilles]], with its superlative ὠκυμορώτατος, “swifter to his fate than any other”; it is also said of arrows that bring a swift death, and in the Odyssey of the suitors, who would all be swift-fated if Odysseus faced them.
 aliases: [doomed to die young, okymoros]
 grc: [ὠκύμορος, ὠκυμορώτατος]
 en: [swift-fated, swifter to his fate than any other]
@@ -14,7 +14,7 @@ of: [achilles]
 
 ὠκύμορος = ὠκύς (“swift”) + μόρος (“fate, death,” from μείρομαι, “receive one's portion”): “whose death comes quickly.” The first element is the adjective of [[swift-footed]] (πόδας ὠκύς): the speed of Achilles' feet and the speed of his death are named with the same word.
 
-In the Odyssey the word describes the suitors, who would all be “swift-fated and bitter in their marriage” if Odysseus came home (Od. 1.266).
+In the Odyssey the word is a curse on the suitors: if Odysseus came home and faced them, “they would all be swift-fated, and bitter would their wedding be” (*Odyssey* 1.266, 4.346, 17.137).
 
 ## Use
 

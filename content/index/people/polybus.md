@@ -9,6 +9,8 @@ aliases: [Polybos, Polybus son of Antenor]
 # king of Egyptian Thebes (Od. 4.126); a Phaeacian craftsman (Od. 8.373); and a suitor (Od. 22.243), whose
 # Πόλυβον at Od. 22.284 will need an except here.
 grc: [Πόλυβον]
+# Polybus at Od. 1.399 is the father of the suitor Eurymachus.
+except: [Od. 1.399]
 relations:
   - father: antenor (11.59)
 ---

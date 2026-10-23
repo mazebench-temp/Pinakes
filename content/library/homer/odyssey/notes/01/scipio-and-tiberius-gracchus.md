@@ -1,0 +1,8 @@
+---
+summary: The verse that Scipio recited is Athena's first word in the poem, her verdict on Aegisthus in the council of the gods, spoken before she turns to Odysseus.
+refs: [1.47]
+---
+
+The council of the gods opens with Zeus remembering Aegisthus, “whom the son of Agamemnon, far-famed Orestes, had killed” (1.29–30). Mortals blame the gods, he says, but they have sorrows beyond their share through their own recklessness, as Aegisthus did, who married Agamemnon's wife and killed him on his return, knowing it was sheer destruction, since Hermes had warned him (1.32–43; see [[the-council-of-the-gods]], [[aegisthus]] and [[who-is-to-blame]]). Athena's reply begins with the verdict that Scipio quoted, and then turns: “But my heart is torn for wise-hearted Odysseus” (1.48). The contrast is hers. Aegisthus has his fitting destruction; Odysseus, who has done nothing of the kind, “long now suffers woes far from his friends” (1.49).
+
+The optative of the wish, ὡς ἀπόλοιτο … ὅτις τοιαῦτά γε ῥέζοι, is the mood of a general statement: Merry notes the optative in such sentences and compares *Odyssey* 6.286, where the mood changes to the subjunctive to make the general sentence particular, and he records Scipio's use of the line on the death of Tiberius Gracchus (Merry, *Commentary on the Odyssey*, 1886, on 1.47). The words fit any man who does “such things”, which is how Scipio could turn them on a Roman tribune. In the poem the same story of Aegisthus is held up to Telemachus by Athena herself, who tells him of the fame that Orestes won by killing his father's slayer (1.298–302; see [[orestes]]).

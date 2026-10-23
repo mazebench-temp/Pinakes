@@ -3,7 +3,7 @@ title: Pity
 greek: ἔλεος
 kind: theme
 tags: [mind, divine-will, supplication]
-summary: Pity in the Iliad: what the weaker ask of the stronger, what the gods feel as they watch men suffer, and what Achilles, who has lost it, finds again for Priam. The verbs are ἐλεέω and ἐλεαίρω, “pity”, and ὀλοφύρομαι, “grieve for”.
+summary: Pity, what the weaker ask of the stronger and what the gods feel as they watch men suffer. In the Iliad Achilles, who has lost it, finds it again for Priam; the Odyssey begins with the pity of all the gods but Poseidon for the wandering Odysseus. The verbs are ἐλεέω and ἐλεαίρω, “pity”, and ὀλοφύρομαι, “grieve for”.
 aliases: [eleos, eleeō, eleaireō, olophyromai, oiktirō, compassion, mercy, have pity]
 grc: [ἐλεησ*, ἐλεαιρ*, ὀλοφυρ*]
 except: [5.871]

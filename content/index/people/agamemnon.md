@@ -3,7 +3,7 @@ title: Agamemnon
 greek: Ἀγαμέμνων
 kind: person
 tags: [achaean, argive, king, atreidae, warrior]
-summary: Son of [[Atreus]], king of Mycenae and commander of the Achaean army at Troy, the “lord of men” whose quarrel with [[Achilles]] sets the Iliad in motion.
+summary: Son of [[Atreus]], king of Mycenae and commander of the Achaean army at Troy, the “lord of men” whose quarrel with [[Achilles]] sets the Iliad in motion. On his return he was murdered by Aegisthus, who had seduced his wife, and the Odyssey sets his homecoming against that of Odysseus.
 aliases: [son of Atreus, Atreides, lord of men]
 grc: [Ἀγαμέμν*, Ἀτρεΐδης, Ἀτρεΐδη, Ἀτρεΐδην, Ἀτρεΐδαο, Ἀτρεΐωνα, Ἀτρεΐδα, Ἀτρεΐδαι]
 en: [Agamemnon, son of Atreus]
@@ -26,7 +26,7 @@ sort: 3
 
 {{quote:90fba18f-532e-5cd7-977c-9bf5c6530598}}
 
-Son of [[Atreus]]. Ἀτρεΐδης (son of Atreus) is his most frequent name in Book 1, often standing alone.
+Son of [[Atreus]]. Ἀτρεΐδης (son of Atreus) is his most frequent name in the first book of the Iliad, often standing alone.
 
 {{quote:63f57839-c317-508c-b63c-d19548ac2ff2}}
 
@@ -56,6 +56,10 @@ The insults gather into a portrait: drunk, cowardly, greedy, a "people-devouring
 
 {{notes}}
 
+## Mythology
+
+The Odyssey tells of his death. While he was at Troy, Aegisthus seduced his wife Clytemnestra, though the gods had warned him through Hermes; when Agamemnon came home, Aegisthus invited him to a feast and killed him there with his companions, and Clytemnestra killed his captive Cassandra beside him; in the eighth year his son Orestes came back and killed Aegisthus (*Odyssey* 1.35–43; 3.254–312; 4.512–537; 11.405–434; see [[the-murder-of-agamemnon]] and [[orestes-kills-clytemnestra]]).
+
 ## Outside Homer
 
-The Odyssey tells of his murder by Aegisthus and Clytemnestra on his return (1.35–43, 4.512–537, 11.405–434). Aeschylus made it the subject of the *Agamemnon* (458 BCE). The sacrifice of his daughter Iphigenia at Aulis was told in the *Cypria* and is unknown to Homer. The gold "Mask of Agamemnon" that Schliemann found at Mycenae in 1876 is several centuries older than any Trojan War.
+Aeschylus made his murder the subject of the *Agamemnon* (458 BCE), in which Clytemnestra kills him in the bath (see [[aeschylus]]). The sacrifice of his daughter Iphigenia at Aulis was told in the *Cypria* and is unknown to Homer. The gold "Mask of Agamemnon" that Schliemann found at Mycenae in 1876 is several centuries older than any Trojan War.

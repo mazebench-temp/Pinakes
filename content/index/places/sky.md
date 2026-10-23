@@ -19,4 +19,4 @@ The savor of the sacrifice rises to heaven, which is how the gods receive their 
 
 {{quote:c1d86482-a3a0-5d66-b313-f163075590e9}}
 
-μέγας οὐρανός: "great heaven", joined with Olympus, as Thetis goes up to Zeus. In Homer the sky is a solid vault, "bronze" or "iron" (5.504, Odyssey 15.329). Hesiod personifies it as Uranus. See [[olympians]] for the "heavenly ones".
+μέγας οὐρανός: "great heaven", joined with Olympus, as Thetis goes up to Zeus. In Homer the sky is a solid vault, "bronze" or "iron" (5.504; *Odyssey* 15.329). Hesiod personifies it as Uranus. See [[olympians]] for the "heavenly ones".

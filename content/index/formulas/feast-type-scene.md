@@ -24,4 +24,4 @@ passages:
 
 ## Elsewhere in Homer
 
-In the Odyssey, when the suitors have put away the desire for drink and food, they turn to “song and dance, for these are the ornaments of a feast” (Odyssey 1.150–152). Elsewhere it is Hebe, the goddess of youth, who pours the gods' nectar (Iliad 4.2–3).
+In the Odyssey, when the suitors have put away the desire for drink and food, they turn to “song and dancing; for these are the accompaniments of a feast” (*Odyssey* 1.150–152), and a guest is served in fixed verses of his own (see [[water-for-the-hands]]). Elsewhere it is Hebe, the goddess of youth, who pours the gods' nectar (Iliad 4.2–3).

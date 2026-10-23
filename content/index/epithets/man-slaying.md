@@ -3,7 +3,7 @@ title: Man-slaying
 greek: ἀνδροφόνος
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: “Man-slaying,” ἀνδροφόνος, the standing epithet of [[Hector]] in the formula Ἕκτορος ἀνδροφόνοιο; it is also said of Ares and of Lycurgus, and of the hands of Achilles.
+summary: “Man-slaying,” ἀνδροφόνος, the standing epithet of [[Hector]] in the formula Ἕκτορος ἀνδροφόνοιο; it is also said of Ares and of Lycurgus, of the hands of Achilles, and in the Odyssey of a poison for arrows.
 aliases: [man-killing, androphonos]
 grc: [ἀνδροφόνοιο]
 en: [man-slaying]

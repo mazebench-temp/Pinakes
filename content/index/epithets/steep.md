@@ -3,7 +3,7 @@ title: Steep
 greek: αἰπύς, αἰπεινός
 kind: epithet
 tags: [mountain, city]
-summary: “Steep, sheer,” two related adjectives for mountains and hill towns: αἰπύς and the longer αἰπεινός.
+summary: “Steep, sheer,” two related adjectives for mountains and hill towns, αἰπύς and the longer αἰπεινός; αἰπύς is also the “sheer” of αἰπὺς ὄλεθρος, “sheer destruction.”
 aliases: [sheer, aipys, aipeinos]
 grc: [αἰπύ, αἰπεῖα, αἰπεινὴν, αἰπεινὰ]
 except: [2.592]

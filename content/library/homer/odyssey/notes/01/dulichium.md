@@ -1,0 +1,5 @@
+---
+summary: Dulichium is the first of the three islands whose best men, with the lords of Ithaca, woo Penelope (1.245–248).
+---
+
+Telemachus names the islands from which the suitors come: “all the best men who hold command over the islands, / Dulichium and Same and wooded Zacynthus” (1.245–246; see [[the-suitors]] and [[ithaca]]). Merry observes that in the Iliad Dulichium did not belong to Odysseus' kingdom but to Meges (*Iliad* 2.625–630; see [[meges]]), and that in the Odyssey a king Acastus rules there (14.335–336). He reviews the places proposed for it: Dolicha among the Echinades, as Strabo has it; an island since lost, which modern Greek story calls Kakaba; a town on the mainland of Acarnania; or Cephallenia, as Hellanicus held. He suggests that Dulichium may be the larger part of Cephallenia, nearer the Echinades, and Same the part farther from Ithaca, or that Homer thought of Cephallenia as two islands (Merry, *Commentary on the Odyssey*, 1886, on 1.246; see [[samos]] and [[echinae]]).

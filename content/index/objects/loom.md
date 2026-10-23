@@ -13,8 +13,6 @@ en: [loom]
 
 The Greek loom stood upright. The warp hung from a crossbeam, held taut by clay weights, and the weaver walked back and forth along it to pass the weft. Hence its name ἱστός, “the upright”, the same word as the ship's [[mast|mast]] ({{ref:Iliad 1.434}}, {{ref:Iliad 1.480}}).
 
-When [[Chryses]] asks for his daughter, [[Agamemnon]] answers with her future: she will grow old in his house in Argos, far from home, “as she walks to and fro at the loom and comes to share my bed”. The loom and the [[bed|bed]] sum up a captive woman's life in her master's house (see [[weaving|weaving]] and [[captive-women]]).
+The loom is the work of the women of a house, from queens to captives. Agamemnon foresees Chryseis at his loom in Argos, and Hector Andromache weaving at another woman's bidding (Iliad 1.29–31, 6.456; see [[captive-women]]); Helen weaves the trials of Trojans and Achaeans into a purple web (Iliad 3.125–128; see [[helens-web]]); Hector sends Andromache back to “the loom and the distaff” (Iliad 6.490–492), and Telemachus sends Penelope back in the same words (Odyssey 1.356–358). Penelope's own loom is her stratagem: the shroud for Laertes, woven by day and unwoven by night, kept the suitors waiting for three years (Odyssey 2.93–110; see [[weaving]] and [[penelope]]).
 
-{{quote:1d882361-e5e9-57f6-ac52-654158bcbc7b}}
-
-Hector foresees the same fate for his own wife: Andromache in Argos, weaving at another woman's loom (Iliad 6.456).
+{{notes}}

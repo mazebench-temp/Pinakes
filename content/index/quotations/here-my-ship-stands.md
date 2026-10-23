@@ -13,6 +13,6 @@ of: [metaphora, odyssey]
 
 ## In the Odyssey
 
-The line is spoken twice. Athena, disguised as Mentes, lord of the Taphians, tells Telemachus where she has left her ship: “my ship stands here, off the open country, away from the city, in the harbor of Rheithron under wooded Neion” (*Odyssey* 1.185–186; see [[athena]] and [[telemachus]]). Odysseus, inventing a past for himself before his father Laertes, says the same line of his own ship (*Odyssey* 24.308; see [[laertes]]). Both speakers are in disguise, and neither ship is real.
+The line is spoken twice. Athena, disguised as Mentes, lord of the Taphians, tells Telemachus where she has left her ship: “My ship stands over there, by the fields, away from the city, / in the harbor of Rheithron, under wooded Neion” (*Odyssey* 1.185–186; see [[athena]] and [[telemachus]]). Odysseus, inventing a past for himself before his father Laertes, says the same line of his own ship (*Odyssey* 24.308; see [[laertes]]). Both speakers are in disguise, and neither ship is real.
 
 {{notes}}

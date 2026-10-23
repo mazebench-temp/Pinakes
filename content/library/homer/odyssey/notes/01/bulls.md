@@ -1,0 +1,7 @@
+---
+summary: Poseidon is away among the far-off Ethiopians, sharing in a hecatomb of bulls and rams, while the other gods meet in the halls of Zeus and decide the return of Odysseus (1.22–27).
+---
+
+“But he had gone to the Ethiopians, who are far away, / … to share in a hecatomb of bulls and rams” (1.22–25; see [[poseidon]], [[ethiopians]] and [[hecatomb]]). The bull is the victim the Odyssey gives to Poseidon above all. At Pylos the people sacrifice all-black bulls to him on the shore, nine to each of nine companies (3.5–8); on the way home from Troy, Nestor recalls, they offered him many thighs of bulls at Geraestus when they had crossed the open sea (3.176–179); Teiresias tells Odysseus to appease him with a ram, a bull and a boar (11.130–131), and the Phaeacians prepare twelve chosen bulls for him when he has turned their ship to stone (13.180–184). Bull and ram are offered together in the Iliad too, when the young men of Athens seek the favor of Erechtheus “with bulls and rams” (*Iliad* 2.550; see [[ram]]).
+
+The god who hates Odysseus is at his feast at the ends of the earth, “but the others / were all together in the halls of Olympian Zeus” (1.26–27), and Athena pleads for Odysseus in his absence (1.44–95; see [[the-council-of-the-gods]]). When he comes back from the Ethiopians and sees Odysseus on his raft, he knows that the gods have changed their purpose for Odysseus while he was away (5.282–287).

@@ -7,7 +7,8 @@ summary: The mast of a ship, ἱστός, “the upright”, which a Homeric cre
 aliases: [masts]
 grc: [ἱστὸν]
 # ἱστόν at 22.440 is Andromache's loom.
-except: [1.31, 3.125, 6.456, 6.491, 22.440]
+# ἱστόν at Od. 1.357 is the loom.
+except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357]
 en: [mast]
 ---
 

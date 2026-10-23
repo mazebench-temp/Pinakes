@@ -6,8 +6,9 @@ tags: [trojan, king, house-of-priam]
 summary: Son of [[Tros]] and father of [[Laomedon]], the grandfather of Priam. Homer knows him by his place in Aeneas' genealogy and by his grave mound in the middle of the Trojan plain (see [[the-tomb-of-ilus]]). Later writers made him the founder of Ilios.
 aliases: [Ilos, Ilus son of Tros]
 # Exact forms only: a stem Ἰλ- would catch Ἴλιος, Ilios. Ἶλος (20.232, 20.236) is claimed in the Book 20 note, and Ἴλοιο (24.349) in the Book 24 note.
-# Ἴλου at Od. 1.259 is Ilus son of Mermerus, of Ephyra, who will need his own id and an except here.
 grc: [Ἴλου]
+# Ἴλου at Od. 1.259 is Ilus son of Mermerus, of Ephyra, not the son of Tros.
+except: [Od. 1.259]
 relations:
   - father: tros (20.231-232)
   - child: laomedon (20.236)
@@ -23,7 +24,7 @@ Aeneas gives the line when he faces Achilles: Zeus fathered Dardanus, Dardanus E
 
 ## In Homer
 
-He is remembered by his tomb: Hector holds his night council there (10.414–416), the Trojans flee past it (11.166–168), Paris shoots Diomedes from beside its pillar (11.369–378), and Priam passes it on his way to Achilles (24.349–351; see [[the-tomb-of-ilus]]). Another Ilus, son of Mermerus, of Ephyra, refused Odysseus poison for his arrows, fearing the gods (*Odyssey* 1.259–263).
+He is remembered by his tomb: Hector holds his night council there (10.414–416), the Trojans flee past it (11.166–168), Paris shoots Diomedes from beside its pillar (11.369–378), and Priam passes it on his way to Achilles (24.349–351; see [[the-tomb-of-ilus]]). Another Ilus, son of Mermerus, of Ephyra, refused Odysseus poison for his arrows, fearing the gods (*Odyssey* 1.259–263; see [[ilus-son-of-mermerus]]).
 
 ## Outside Homer
 

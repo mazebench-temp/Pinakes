@@ -1,0 +1,7 @@
+---
+summary: Said twice in the book: Athena, as Mentes, leaves on the knees of the gods “whether he will return and take vengeance, or not” (1.267–268), and Eurymachus “who will be king of the Achaeans in sea-girt Ithaca” (1.400–401).
+---
+
+**The gods as umpires.** Merry rejects the explanations from the suppliant, who clasps the knees, and from the gifts laid on the knees of the gods' images, since the phrase is used of what man cannot influence by wish or prayer, and finds Nitzsch's “in the power of the gods” far-fetched. He suggests instead the gods as judges or umpires, on whose knees the prizes for the contestants were placed, and cites the proverb “it lies on the knees of five judges” from the Plutarchan collection of proverbs (*Commentary on the Odyssey*, 1886, on 1.267; see [[gounata]]). Walter Leaf, on the same half-verse in the Iliad, finds the phrase by no means explained by the proverb of the five judges, which he knows from the Suda, and would not separate it from the gifts laid on the laps of seated images (*Commentary on the Iliad*, 1900, on 17.514).
+
+**Return and kingship.** The two uses frame the two questions of the book's second half: whether Odysseus will come home to punish the suitors (1.265–269; see [[nostos]] and [[poine]]), and who will rule Ithaca in his place (1.383–401; see [[basileus]] and [[kingship-and-authority]]). Telemachus says the verse again to Eumaeus when he comes home from his journey, of the suitors who are eating up his house (16.127–129).

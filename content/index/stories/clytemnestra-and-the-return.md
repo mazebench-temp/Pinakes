@@ -21,6 +21,10 @@ passages:
 
 The Iliad never speaks of Agamemnon's death, and there is no sign that the poet meant these lines as a warning. But an audience that knew the story of the Returns would hear the irony. A king who plans to bring a captive woman home to Argos, and who rates her above his wife, is speaking of the homecoming that will kill him.
 
+## Elsewhere in Homer
+
+The Odyssey tells what waited for him. Agamemnon's ghost tells Odysseus how Aegisthus, with his accursed wife, killed him at a feast, and how Clytemnestra killed Cassandra, the captive Trojan princess he had brought home, beside him (*Odyssey* 11.405–434; see [[the-murder-of-agamemnon]]).
+
 ## Outside Homer
 
-In the Odyssey, Agamemnon's ghost tells Odysseus how Clytemnestra and Aegisthus killed him at a feast. With him they killed Cassandra, the captive Trojan princess he had brought home (11.405–434). The *Nostoi* told the returns, and Aeschylus' *Agamemnon* stages the murder of king and captive together.
+The *Nostoi* told the returns, and Aeschylus' *Agamemnon* stages the murder of king and captive together.

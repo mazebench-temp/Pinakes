@@ -1,0 +1,7 @@
+---
+summary: The Sun's other name appears twice in Book 1: beside Ἠέλιος in the proem's “cattle of Hyperion the Sun”, and alone in the Ethiopians who live “some where Hyperion sets and some where he rises”.
+---
+
+**Two uses of the name.** In the proem the companions are “fools, who ate up the cattle of Hyperion the Sun” (1.8; see [[the-cattle-of-helios]] and [[helios]]), where Ὑπερίων stands beside Ἠέλιος as his title. In the account of Poseidon's journey the Ethiopians live “some where Hyperion sets and some where he rises” (1.24; see [[ethiopians]] and [[poseidon]]), where the name stands alone for the sun. Merry notes the change of tense in that verse: the aorist participle δυσομένου for the setting, the present ἀνιόντος for the rising, as the poet commonly speaks of sunset, marked off by the last visible ray, and of the slow growth of the light at dawn (Merry, *Commentary on the Odyssey*, 1886, on 1.24).
+
+**Son of Hyperion?** Merry discusses the name on 1.8. Hesiod makes Helios the son of Hyperion (*Theogony* 371–374) and calls him Ὑπεριονίδης (*Theogony* 1011), and the Odyssey once has Ὑπεριονίδαο ἄνακτος, “the lord son of Hyperion” (12.176). That does not prove, he argues against Eustathius, that Ὑπερίων is a shortened Ὑπεριονίων, “son of Hyperion”, for a form in -ίδης need not be a patronymic, as Ἡρακλείδης is used for Ἡρακλῆς. Nitzsch held 12.176 spurious and took Ὑπερίων itself as a quasi-patronymic, “child of the height” (on 1.8; see the general article).

@@ -3,17 +3,20 @@ title: Sparta
 greek: Σπάρτη
 kind: place
 tags: [peloponnese, city, laconia]
-summary: The city in the valley of the Eurotas, one of Menelaus' towns in the Catalogue, and later the leading power of the Peloponnese.
-grc: [Σπάρτην]
+summary: The city in the valley of the Eurotas, the home of Menelaus: one of the towns of his realm in the Iliad's Catalogue, and in the Odyssey the palace to which Telemachus goes for news of his father. Later it was the leading power of the Peloponnese.
+# Σπάρτηνδε, "to Sparta", is found only at Od. 1.285.
+grc: [Σπάρτην, Σπάρτηνδε]
 ---
 
 {{quote:52a9b1ca-0180-58c2-867f-21c1e0a710f2}}
 
 In the Catalogue Sparta is only one of the nine towns of [[Lacedaemon]], Menelaus' land; Homer uses the name of the land more often than the city's. In classical times both names remained in use: Sparta for the city, Lacedaemon for the state and its land, and the Spartans called themselves Lacedaemonians.
 
+{{notes}}
+
 ## Elsewhere in Homer
 
-Hera names Argos, Sparta and wide-streeted Mycenae as the three cities she loves most, and offers to let Zeus destroy them (4.51–54). In the Odyssey Athena sends Telemachus "to Sparta and to sandy Pylos" for news of his father (Od. 1.93). When he reaches Menelaus' palace he is dazzled by its gleam of bronze, gold, amber, silver and ivory, and whispers that the court of Zeus must look like this (Od. 4.71–75).
+Hera names Argos, Sparta and wide-streeted Mycenae as the three cities she loves most, and offers to let Zeus destroy them (4.51–54). In the Odyssey Sparta and “sandy Pylos” are the goals of Telemachus' journey (*Odyssey* 1.93, 2.214, 2.359). When he reaches Menelaus' palace he is dazzled by its gleam of bronze, gold, amber, silver and ivory, and whispers that the court of Zeus must look like this (*Odyssey* 4.71–75).
 
 ## Outside Homer
 

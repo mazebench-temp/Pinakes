@@ -3,7 +3,7 @@ title: Swarming
 greek: ἁδινός
 kind: epithet
 tags: [wild-animal]
-summary: “Thick, crowded,” an epithet of swarming creatures such as bees and flies; of sound it means “loud, vehement.”
+summary: “Thick, crowded,” an epithet of swarming creatures such as bees and flies, and in the Odyssey of thronging flocks; of sound it means “loud, vehement.”
 aliases: [thronging, dense, hadinos]
 grc: [ἁδινάων]
 en: [in their swarms, swarming]

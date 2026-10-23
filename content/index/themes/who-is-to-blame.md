@@ -2,7 +2,7 @@
 title: Who is to blame
 kind: theme
 tags: [justice, divine-will, shame]
-summary: The Iliad keeps asking who is responsible for suffering: the man who acts, the woman who follows, or the gods who move them. Its characters blame one another, the gods and themselves, and the poem lets their answers stand side by side.
+summary: Who is responsible for suffering: the man who acts, the woman who follows, or the gods who move them. Homer's people blame one another, the gods and themselves; the Iliad lets their answers stand side by side, and the Odyssey opens with Zeus' reply that mortals suffer beyond their share through their own recklessness.
 aliases: [blame, responsibility, guilt]
 refs: [1.8, 1.9, 1.11, 1.12, 1.153, 1.335, 2.375, 2.376, 2.378]
 passages:

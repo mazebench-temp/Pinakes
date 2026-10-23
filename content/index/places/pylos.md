@@ -4,7 +4,8 @@ greek: Πύλος
 kind: place
 tags: [peloponnese, mainland-greece, city, pylian, messenia]
 summary: Nestor's kingdom in the western Peloponnese, "sandy Pylos". Its site was disputed in antiquity; most scholars now place it at the Mycenaean palace excavated at Ano Englianos in Messenia.
-grc: [Πύλῳ, Πύλου]
+# Πύλον also catches Il. 2.591, 11.682, 11.716, which the Book 2 note claims as well.
+grc: [Πύλῳ, Πύλου, Πύλον]
 en: [Pylos]
 ---
 

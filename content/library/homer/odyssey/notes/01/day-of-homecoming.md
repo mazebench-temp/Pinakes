@@ -1,0 +1,5 @@
+---
+summary: The formula ends three verses of the book: the companions, from whom the Sun “took away … the day of their homecoming” (1.9), and Odysseus, whose day Telemachus twice speaks of as lost (1.168, 1.354).
+---
+
+The proem closes the story of the companions with it: they ate the cattle of the Sun, “and he took away from them the day of their homecoming” (1.9; [[the-cattle-of-helios]]). The poem then turns to the one man who still wants his homecoming (1.13). Telemachus speaks of that man's day twice, both times as lost. To the stranger he says that there is no comfort even if someone says his father will come, “but the day of his homecoming is lost” (1.166–168); to his mother, defending Phemius' song of the Achaeans' return, he says that Odysseus “was not the only one who lost the day of his homecoming / in Troy, but many other men perished too” (1.354–355; [[the-song-of-the-returns]]). Between the two the stranger has told him the opposite, that Odysseus is alive and “will not be away much longer from his dear native land” (1.196–205; [[dear-native-land]]). See [[nostos]].

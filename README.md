@@ -1,9 +1,9 @@
 # Pinakes · Πίνακες
 
 A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
-catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 24, and Aristotle's
-Poetics and Rhetoric: the Greek texts, new line-for-line translations, a word-by-word lexicon of the
-Iliad, the Poetics and the first book of the Rhetoric, and an index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 24, the first book of the
+Odyssey, and Aristotle's Poetics and Rhetoric: the Greek texts, new line-for-line translations, a
+word-by-word lexicon of the Iliad, the first book of the Odyssey, the Poetics and the first book of the Rhetoric, and an index of every name, place, god, creature, custom, word, epithet, formula, story, quotation and idea in
 them.
 
 ```sh
@@ -79,8 +79,10 @@ work fits: Bekker lines as line ids, chapters as books, and a running-text reade
 
 - Greek text: D. B. Monro and T. W. Allen, *Homeri Opera*, Oxford Classical Texts (3rd ed., 1920), as
   digitized by the Perseus Digital Library (CC BY-SA).
+- Greek text of the Odyssey: A. T. Murray, *Homer: The Odyssey*, Loeb Classical Library (1919), as
+  digitized by the Perseus Digital Library (CC BY-SA).
 - Greek text of the Poetics: R. Kassel, *Aristotelis De arte poetica liber*, Oxford Classical Texts
   (1965), as digitized by the Perseus Digital Library (CC BY-SA 4.0).
 - Translations, lexicon, index and articles: written for this project by Claude (Anthropic), 2026.
-  See `content/library/homer/iliad/TRANSLATION.md` and `content/library/aristotle/poetics/TRANSLATION.md`
-  for the conventions.
+  See `content/library/homer/iliad/TRANSLATION.md`, `content/library/homer/odyssey/TRANSLATION.md` and
+  `content/library/aristotle/poetics/TRANSLATION.md` for the conventions.

@@ -3,7 +3,7 @@ title: To blame
 greek: αἴτιος
 kind: term
 tags: [justice, speech]
-summary: Responsible, to blame: the one against whom a charge lies. In the Iliad the word is spoken most often to deny guilt, “you are not to blame”, and to move the blame to someone else, a king or the gods.
+summary: Responsible, to blame: the one against whom a charge lies. In Homer the word is spoken most often to deny guilt, “you are not to blame”, and to move the blame to someone else, a king or the gods.
 aliases: [aitios, aitia, aitiē, epaitios, blame, responsible]
 grc: [αἴτιοί, αἰτίη, ἐπαίτιοι]
 en: [to blame, done me no wrong]

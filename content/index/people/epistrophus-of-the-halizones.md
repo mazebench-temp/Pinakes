@@ -4,7 +4,7 @@ greek: Ἐπίστροφος
 kind: person
 tags: [trojan, warrior, mysia-phrygia]
 summary: Leader of the [[Halizones]] with [[Odius]]. Not the Phocian leader or the man of Lyrnessus who share his name.
-grc: [Ἐπίστροφος]
+grc: ["^Ἐπίστροφος"]
 en: [Epistrophus]
 except: [2.517, 2.692]
 ---

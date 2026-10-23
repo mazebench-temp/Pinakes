@@ -3,7 +3,7 @@ title: City
 greek: πόλις, πτολίεθρον
 kind: term
 tags: [city, warfare]
-summary: The city or town, a walled settlement with its citadel, houses and people. The Iliad is the story of a siege: the Achaeans hope to sack “the city of Priam”, and have already sacked many lesser towns.
+summary: The city or town, a walled settlement with its citadel, houses and people. The Iliad is the story of a siege, in which the Achaeans hope to sack “the city of Priam” and have already sacked many lesser towns; the Odyssey begins with the man who sacked it and “saw the cities of many men”.
 aliases: [polis, city, citadel]
 # !=πολεῖς keeps out πολεῖς, a form of πολύς "many" (11.708).
 grc: [πόλιν, πολίων, πτολίεθρον, "!=πολεῖς"]

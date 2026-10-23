@@ -3,7 +3,7 @@ title: Heralds
 greek: κῆρυξ
 kind: ritual
 tags: [herald]
-summary: The messengers of kings, under the protection of Zeus. Heralds summon the people, keep order in the assembly, and serve at sacrifices and oaths.
+summary: The messengers of kings, under the protection of Zeus. Heralds summon the people, keep order in the assembly, serve at sacrifices and oaths, and in a great house wait on the feast.
 aliases: [herald, messengers, keryx]
 grc: [κήρυκε, κήρυκες, ἄγγελοι]
 en: [heralds, messengers]

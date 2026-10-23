@@ -3,7 +3,7 @@ title: Sweet sleep
 greek: νήδυμος ὕπνος
 kind: epithet
 tags: [time, rare-word]
-summary: “Sweet” sleep: νήδυμος, a word of disputed origin found only with ὕπνος, and the plainer γλυκὺς ὕπνος.
+summary: “Sweet” sleep: νήδυμος, a word of disputed origin found only with ὕπνος, the plainer γλυκὺς ὕπνος, and in the Odyssey ὕπνος ἡδύς, the sleep Athena casts on Penelope's eyelids.
 aliases: [nedymos, glykys hypnos]
 grc: [νήδυμος, γλυκὺς ὕπνος]
 en: [sweet]

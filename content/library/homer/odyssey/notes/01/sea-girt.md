@@ -1,0 +1,5 @@
+---
+summary: “Sea-girt Ithaca” three times in the last exchange of the book, each speaker taking the phrase from the one before: Antinous (1.386), Telemachus (1.395) and Eurymachus (1.401), all on who will be king.
+---
+
+The epithet is spoken only in the quarrel over the kingship that closes the day. Antinous prays that the son of Cronus may never make Telemachus “king in sea-girt Ithaca, / which is yours by birth from your father” (1.386–387). Telemachus answers that there are other kings of the Achaeans, “many in sea-girt Ithaca, young and old” (1.395), and that he will be lord of his own house. Eurymachus closes the question with a saying, “truly these things lie on the knees of the gods, / who will be king of the Achaeans in sea-girt Ithaca” (1.400–401; [[on-the-knees-of-the-gods]]). The island is named by its sea each time it is named as a kingdom. Earlier in the book, among the islands whose nobles woo Penelope, it is “craggy Ithaca” (1.247; [[craggy]]). See [[ithaca]], [[antinous]] and [[eurymachus]].

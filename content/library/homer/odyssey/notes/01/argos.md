@@ -1,0 +1,5 @@
+---
+summary: In Penelope's words Odysseus' fame is wide “through Hellas and the heart of Argos” (1.344), a phrase for the whole of Greece.
+---
+
+Argos is named once in the book, at the end of Penelope's plea to Phemius: “the man whose fame is wide through Hellas and the heart of Argos” (1.344; see [[penelope]] and [[hellas]]). For Merry μέσον, “the heart of”, sets Argos against Hellas, the heart of the Peloponnese against the most outlying province of Greece. He describes Argos in Argolis, on the river Inachus, as the capital of Diomedes' kingdom in Homer's time (*Iliad* 2.559, 2.567), with the epithets “Achaean” (*Iliad* 9.141) and “horse-pasturing” (*Iliad* 6.152, and in this poem 3.263), and Ἴασον Ἄργος, “Iasian Argos”, as the town that stands for the whole Greek race (18.246; Merry, *Commentary on the Odyssey*, 1886, on 1.344). Strabo counts μέσον Ἄργος among the passages in which Homer means the Peloponnese by Argos, with “Argive Helen” and Ephyra “in a corner of Argos” (*Geography* 8.6.9; see [[ephyra-in-argos]]). The [[argives|Argives]], who take their name from Argos, are in this book the army at Troy (1.61, 1.211).

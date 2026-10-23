@@ -2,7 +2,7 @@
 title: Fathers and sons
 kind: theme
 tags: [backstory, warrior, kinship]
-summary: The Iliad's heroes are sons first. They are named by their fathers, sent to war with their fathers' charges, and measured against them; the poem's fathers send, advise, lose and mourn their sons, and its last book brings a father to the man who killed his son.
+summary: Homer's heroes are sons first. They are named by their fathers, sent to war with their fathers' charges, and measured against them. The Iliad's fathers send, advise, lose and mourn their sons, and its last book brings a father to the man who killed his son; the Odyssey begins with a son who has grown up without his father.
 aliases: [fathers, sons, sons and fathers, patronymics]
 refs: [2.260, 2.831-834, 3.50, 3.105-106, 3.306-307]
 passages:

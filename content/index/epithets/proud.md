@@ -3,7 +3,7 @@ title: Proud
 greek: ἀγήνωρ, ἀγέρωχος
 kind: epithet
 tags: [heroic-epithet, mind]
-summary: Two epithets of pride and high spirit: ἀγήνωρ, “manly, headstrong,” usually of the heart, and ἀγέρωχος, “lordly,” of warlike peoples.
+summary: Two epithets of pride and high spirit: ἀγήνωρ, “manly, headstrong,” usually of the heart and in the Odyssey the standing epithet of the suitors, and ἀγέρωχος, “lordly,” of warlike peoples.
 aliases: [headstrong, lordly, agenor, agerochos]
 grc: [θυμὸς ἀγήνωρ, ἀγερώχων]
 en: [proud]

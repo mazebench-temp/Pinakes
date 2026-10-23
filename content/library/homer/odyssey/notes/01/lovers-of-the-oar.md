@@ -1,0 +1,5 @@
+---
+summary: The verse with which Athena, as Mentes, names herself, “and I am lord over the Taphians, lovers of the oar” (1.181), and which Telemachus repeats to Eurymachus (1.419).
+---
+
+The stranger names herself in two verses, “I claim to be Mentes, son of wise-hearted Anchialus, / and I am lord over the Taphians, lovers of the oar” (1.180–181), and her trade follows: she is sailing over the wine-dark sea to Temese for bronze, with a cargo of iron (1.182–184). Merry reports that the Taphians, who lived on islets off the Leucadian coast, were a race of pirates, and cites the Suda, where Τάφιος is glossed “robber” (Merry, *Commentary on the Odyssey*, 1886, on 1.105). When Eurymachus asks who the stranger was, Telemachus gives back the same two verses in the third person, “and he claims to be Mentes, son of wise-hearted Anchialus, / and he is lord over the Taphians, lovers of the oar” (1.418–419), though in his heart he knew the immortal goddess (1.420). The repeated verse is the cover story, told once by the goddess and once for her. See [[mentes-the-taphian]], [[taphians]] and [[wise-hearted]].

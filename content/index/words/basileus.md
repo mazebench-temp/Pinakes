@@ -3,7 +3,7 @@ title: King
 greek: βασιλεύς
 kind: term
 tags: [kingship]
-summary: King or chief. Many men at Troy are βασιλῆες; the word names a rank that admits degrees, and an authority that comes from [[Zeus]].
+summary: King or chief. Many men at Troy are βασιλῆες, and many in Ithaca; the word names a rank that admits degrees, and an authority that comes from [[Zeus]].
 aliases: [basileus, basilēes, chief, kings]
 grc: [βασιλεύς, βασιλῆα, βασιλῆϊ, βασιλῆος, βασιλήων]
 en: [king, kings]

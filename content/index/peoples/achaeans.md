@@ -3,9 +3,11 @@ title: Achaeans
 greek: Ἀχαιοί
 kind: people
 tags: [achaean]
-summary: The Greeks at Troy. Homer's most common name for them, used interchangeably with [[Argives]] and [[Danaans]]; Homer never calls them "Hellenes" as a whole.
+summary: Homer's commonest name for the Greeks: the army at Troy, used interchangeably with [[Argives]] and [[Danaans]], and in the Odyssey also the people of Ithaca and the other Greek lands. Homer never calls them "Hellenes" as a whole.
 aliases: [Achaioi, the Greeks, sons of the Achaeans]
-grc: [Ἀχαιοί, Ἀχαιοὶ, Ἀχαιοῖς, Ἀχαιοῖσιν, Ἀχαιούς, Ἀχαιοὺς, Ἀχαιῶν]
+# Παναχαιοί, "all the Achaeans" (Od. 1.239), catches no Iliad line: the Iliad's Παναχαιῶν and Παναχαιούς are
+# claimed by the Book 2 and Book 9 notes.
+grc: [Ἀχαιοί, Ἀχαιοὶ, Ἀχαιοῖς, Ἀχαιοῖσιν, Ἀχαιούς, Ἀχαιοὺς, Ἀχαιῶν, Παναχαιοί]
 en: [Achaeans, Achaean]
 ---
 
@@ -17,7 +19,7 @@ en: [Achaeans, Achaean]
 
 Homer uses three names for the Greek army without distinction of meaning:
 
-- **Achaeans** (Ἀχαιοί), by far the most frequent, more than forty times in Book 1;
+- **Achaeans** (Ἀχαιοί), by far the most frequent, in more than forty lines of the Iliad's first book;
 - **Argives** (Ἀργεῖοι), after Argos: [[argives]];
 - **Danaans** (Δαναοί), after Danaus: [[danaans]].
 

@@ -22,7 +22,7 @@ Homer names kinds of nymphs by the places they live in. A νηΐς or νηϊάς
 
 ## Family
 
-Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο, “daughters of aegis-bearing Zeus” (6.420; Od. 6.105, 9.154), a title they share with the Muses (2.598; see [[muses]]). Few are named. Abarbarea, a Naiad, bore twin sons to Bucolion (6.21–22; see [[abarbarea]]). In the Odyssey the nymph Thoosa bore the Cyclops Polyphemus to Poseidon (Od. 1.71–73), and the nymphs Phaethusa and Lampetie, daughters of Helios, herd their father's cattle (Od. 12.131–136). Calypso is called a nymph again and again (νύμφη πότνια, “the lady nymph”, Od. 1.14), and Circe once (Od. 10.543).
+Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο, “daughters of aegis-bearing Zeus” (6.420; Od. 6.105, 9.154), a title they share with the Muses (2.598; see [[muses]]). Few are named. Abarbarea, a Naiad, bore twin sons to Bucolion (6.21–22; see [[abarbarea]]). In the Odyssey the nymph [[thoosa|Thoosa]] bore the Cyclops Polyphemus to Poseidon (Od. 1.71–73), and the nymphs Phaethusa and Lampetie, daughters of Helios, herd their father's cattle (Od. 12.131–136). [[calypso|Calypso]] is called a nymph again and again (νύμφη πότνια, “the lady nymph”, Od. 1.14), and [[circe|Circe]] once (Od. 10.543).
 
 {{notes}}
 

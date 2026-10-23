@@ -14,7 +14,8 @@ grc: [ἀγορ*, ἤγερθεν ὁμηγερέες]
 # ἀγόρευε (22.261) and ἀγόρευεν (22.377) are speaking: Achilles to Hector, Achilles to the Achaeans.
 # ἀγόρευε at 23.535 is speaking: Achilles to the Argives at the games.
 # ἀγόρευον at 24.142 and ἀγορεύεις at 24.373 are speaking.
-except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20]
+# ἀγορεύω at Od. 1.174, 1.179, 1.214, 1.307, 1.382 and 1.385 is "speak, tell", not an assembly.
+except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20, Od. 1.174, Od. 1.179, Od. 1.214, Od. 1.307, Od. 1.382, Od. 1.385]
 refs: [1.191]
 en: [assembly, assembled, orator, declare, declared, began to speak]
 passages:

@@ -33,4 +33,4 @@ The epic cycle gave the fall of Troy a poem of its own, the *Iliupersis* ("Sack 
 - Neoptolemus kills Priam at the altar of Zeus Herkeios. Menelaus kills Deiphobus and takes Helen back to the ships.
 - Ajax the son of Oileus drags Cassandra away from Athena's image, pulling the image with her.
 - Odysseus kills Hector's son Astyanax. Neoptolemus takes Andromache as his prize, and Polyxena is killed at Achilles' tomb.
-- The Achaeans sail away, and Athena plans their destruction at sea. That is where the [[clytemnestra-and-the-return|Nostoi]] begin.
+- The Achaeans sail away, and Athena plans their destruction at sea. That is where the [[the-returns-of-the-achaeans|Nostoi]] begin.

@@ -4,7 +4,7 @@ greek: ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κ
 kind: formula
 tags: [speech-formula]
 summary: The whole-line formula that turns a speech to a question, “But come, tell me this, and give me an exact account”, with its answer, “I will tell you all this very exactly”. In the Iliad it is spoken only at night, in meetings across the lines of the war; in the Odyssey it is the formula for questioning a stranger.
-aliases: [tell me this truly, tell me truly, exact account, atrekeos katalexon]
+aliases: [tell me truly, exact account, atrekeos katalexon]
 grc: ["ἀτρεκέως κατάλεξον", "ἀτρεκέως καταλέξω"]
 en: [give me an exact account, very exactly]
 ---

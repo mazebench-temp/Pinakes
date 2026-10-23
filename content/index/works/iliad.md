@@ -11,6 +11,6 @@ sort: 1
 
 ## The poem
 
-The Iliad tells of some fifty days in the tenth year of the war at Troy: Agamemnon's insult to Achilles, Achilles' withdrawal and the Trojan successes that follow, the death of Patroclus, Achilles' return and his killing of Hector, and Priam's ransom of his son's body. It is the oldest surviving work of Greek literature, composed probably in the eighth or seventh century BCE (see [[homer]]). This library contains Books 1–12 in Greek and English.
+The Iliad tells of some fifty days in the tenth year of the war at Troy: Agamemnon's insult to Achilles, Achilles' withdrawal and the Trojan successes that follow, the death of Patroclus, Achilles' return and his killing of Hector, and Priam's ransom of his son's body. It is the oldest surviving work of Greek literature, composed probably in the eighth or seventh century BCE (see [[homer]]). This library contains all twenty-four books in Greek and English.
 
 {{notes}}

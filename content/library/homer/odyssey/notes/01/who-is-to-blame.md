@@ -1,0 +1,16 @@
+---
+summary: The Odyssey opens with Zeus' answer to the question: mortals blame the gods for their evils, when by their own recklessness they suffer beyond their share (1.32–34). Aegisthus is his example, warned by Hermes and punished all the same (1.35–43); Odysseus, for whom Athena pleads, suffers by Poseidon's anger (1.48–75); and Telemachus, defending the singer, says that “Zeus, I think, is to blame” (1.348).
+refs: [1.32-43, 1.347-349]
+passages:
+  - 1.32-43 | Zeus on Aegisthus
+---
+
+{{quote:1645d478-ddf8-5153-88a0-08b2242fcf43}}
+
+**Zeus' complaint.** The first speech of the poem is a god's reply to men's reproach. Mortals say that their evils come from the gods; Zeus says that they bring sorrows on themselves “against fate” by their own ἀτασθαλίαι (see [[atasthalie]] and [[moira]]). Merry calls ὑπὲρ μόρον a popular solution of the difficulty of reconciling divine power with human free will: each man's lot was fated, but misconduct could aggravate or hasten it (*Commentary on the Odyssey*, 1886, on 1.34; see the translation's note on 1.34). Zeus' example is Aegisthus, who married Agamemnon's wife and killed him, “knowing it was sheer destruction, since we ourselves had told him beforehand, / sending Hermes” (1.37–38; see [[aegisthus]] and [[the-murder-of-agamemnon]]). Merry takes ἡμεῖς as emphatic: the gods, in spite of the reproaches of mortals, were not the cause (on 1.37). The warning did not persuade him (1.42–43; see [[peitho]]), “and now he has paid back all at once” (1.43; see [[poine]]).
+
+**Suffering without guilt.** Athena accepts the verdict on Aegisthus, “so may any other perish too who did such things” (1.47), and turns at once to a man who has done no such thing: Odysseus suffers “far from his friends”, though he pleased Zeus with sacrifices at Troy, and she asks, “Why are you so angry with him, Zeus?” (1.48–62; see [[reciprocity-with-the-gods]]). Zeus moves the cause to another god, Poseidon, angry for the blinding of his son the Cyclops (1.64–75; see [[cholos]] and [[poseidon]]). The council keeps two kinds of suffering apart: the evils men bring on themselves, as Aegisthus did and the companions of the proem (1.7), and those a god's anger lays on them.
+
+**A mortal's answer.** In the hall Telemachus says what Zeus complained of, for a reason of his own: “It is not the singers / who are to blame, but Zeus, I think, is to blame, who gives / to toiling men, to each, as he wills” (1.347–349; see [[aitios]]). He says it to defend Phemius' song of the Achaeans' homecoming against his mother's grief (see [[the-song-of-the-returns]]). Merry gives Eustathius' sense: the singers are not to blame for the misfortunes they sing, since they sing them because they happened (on 1.347). Telemachus lays his own sorrows on the gods too: they “have willed otherwise, devising evil” for his father's house, and “have brought other evil sorrows on me” (1.234, 1.244).
+
+**The warning to the suitors.** Aegisthus was warned, and so are the suitors. Telemachus tells them to leave his halls, and if they go on destroying “one man's substance … without payment”, he will call on the gods, and “then, unavenged, you would perish inside my house” (1.374–380; see [[poine]]). Merry explains νήποινοι: once he has given them formal notice to quit, he will owe no compensation for their deaths (on 1.377).

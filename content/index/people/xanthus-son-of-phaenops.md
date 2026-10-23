@@ -5,7 +5,7 @@ kind: person
 tags: [trojan, warrior]
 summary: A Trojan, one of the two cherished sons of old [[Phaenops]], killed by Diomedes with his brother [[thoon-son-of-phaenops|Thoon]] (5.152–158). Not the river [[xanthus-of-lycia|Xanthus]].
 aliases: [Xanthus]
-grc: [Ξάνθον]
+grc: ["^Ξάνθον"]
 en: [Xanthus]
 # Ξάνθον recurs for the Lycian river (6.172), Achilles' horse (16.149) and the river of Troy
 # (20.74, 21.332), which this entry will need to except. At 5.479 "Xanthus" is the Lycian river

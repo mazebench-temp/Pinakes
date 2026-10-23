@@ -1,0 +1,51 @@
+{
+  "id": "homer.odyssey",
+  "author": "homer",
+  "title": "Odyssey",
+  "greek": "Ὀδύσσεια",
+  "aliases": [
+    "odyssey",
+    "od",
+    "od."
+  ],
+  "genre": "Epic",
+  "meter": "Dactylic hexameter",
+  "date": "c. 725–675 BCE (traditional)",
+  "summary": "Twenty-four books on the homecoming of Odysseus in the tenth year after the fall of Troy: his son's search for news of him, his release from Calypso and his stay among the Phaeacians, the tale of his wanderings, and his return to Ithaca and his revenge on the suitors.",
+  "citation": {
+    "scheme": "book.line",
+    "book": "Book",
+    "unit": "line",
+    "abbr": "Od."
+  },
+  "display": "verse",
+  "bookCount": 24,
+  "editions": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "label": "Greek",
+      "name": "Murray",
+      "credit": "A. T. Murray, Homer: The Odyssey, Loeb Classical Library (Harvard University Press and William Heinemann, 1919), via the Perseus Digital Library (CC BY-SA).",
+      "path": "grc/{book}.txt"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "label": "English",
+      "name": "Claude",
+      "credit": "New line-for-line translation by Claude (Anthropic), 2026. See TRANSLATION.md.",
+      "path": "en/{book}.txt"
+    }
+  ],
+  "structure": "structure/{book}.json",
+  "lexicon": "lexicon/{book}.json",
+  "books": {
+    "1": {
+      "letter": "α",
+      "title": "Athena Visits Telemachus",
+      "greek": "Θεῶν ἀγορά, Ἀθηνᾶς παραίνεσις πρὸς Τηλέμαχον, Μνηστήρων εὐωχία",
+      "summary": "The poet calls on the Muse to tell of Odysseus. In the tenth year after Troy he is held by Calypso, and while Poseidon is away among the Ethiopians the gods resolve to bring him home. Athena goes to Ithaca in the likeness of Mentes, finds the suitors feasting in Odysseus' house, and urges Telemachus to call an assembly and sail to Pylos and Sparta for news of his father. Penelope asks Phemius to stop his song of the Achaeans' homecoming; Telemachus rebukes her and the suitors, and lies awake all night pondering his journey."
+    }
+  }
+}

@@ -7,7 +7,8 @@ summary: A song of deliverance, above all to Apollo the healer: the young Achaea
 aliases: [paeans, paian, paeon]
 grc: [μολπῇ, καλὸν ἀείδοντες παιήονα, μέλποντες]
 en: [song and dance, singing a beautiful paean, hymning]
-except: [18.572]
+# μολπή at Od. 1.152 is the suitors' song and dancing, not a paean.
+except: [18.572, Od. 1.152]
 ---
 
 The παιήων is a song addressed to a god, above all Apollo, for deliverance from danger or in thanks for it. In Homer Παιήων is also the name of the gods' own physician (Iliad 5.401, 5.899–900); later the name became a title of Apollo.

@@ -3,7 +3,7 @@ title: Good sir
 greek: φέριστος
 kind: epithet
 tags: [speech]
-summary: “Good sir,” φέριστε, a courteous address, three times in the Iliad to a stranger who is, or may be, a god.
+summary: “Good sir,” φέριστε, a courteous address: in the Iliad three times to a stranger who is, or may be, a god; in the Odyssey from the suitor Eurymachus to Telemachus, and from Odysseus to the Cyclops.
 aliases: [pheristos, pheriste, best of men]
 grc: [φέριστε]
 en: [good sir]

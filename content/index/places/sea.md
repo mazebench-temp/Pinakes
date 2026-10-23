@@ -3,7 +3,7 @@ title: The sea
 greek: θάλασσα
 kind: place
 tags: [sea]
-summary: The sea beside the Achaean camp, loud-roaring, barren, and gray. It separates Achilles from home, and his divine mother lives in its depths.
+summary: The sea (θάλασσα, ἅλς, πόντος), loud-roaring, barren and gray. In the Iliad it lies beside the Achaean camp and between the army and home; in the Odyssey it is the scene of Odysseus' wanderings and the road of every homecoming.
 aliases: [sea, deep]
 grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον]
 en: [sea, deep]

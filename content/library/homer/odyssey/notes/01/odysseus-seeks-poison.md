@@ -1,0 +1,13 @@
+---
+summary: Athena, as Mentes, tells the story inside a wish: if only Odysseus would stand at the doors now, armed, as he was when Mentes first saw him in his father's house, on his way back from Ephyra with a man-slaying drug for his arrows, the suitors would be swift-fated and bitter would their wedding be (1.255–266).
+# The story is told in a parenthesis within the wish (1.257-264).
+refs: [1.257-264]
+passages:
+  - 1.255-266 | Odysseus as Mentes first saw him
+---
+
+**A story inside a wish.** εἰ γὰρ νῦν ἐλθὼν … σταίη, “If only he would come now and stand at the outer doors of the house, / with helmet and shield and two spears” (1.255–256): the wish is broken off by the memory of Ephyra and taken up again with τοῖος ἐών, “such as that” (1.265), and its outcome comes last, “they would all be swift-fated, and bitter would their wedding be” (1.266; see [[the-suitors]]). Merry gathers other wishes so built, in which a long parenthesis comes between the εἰ γάρ and the outcome (*Commentary on the Odyssey*, 1886, on 1.255, 1.265). πικρόγαμοι, “bitter would their wedding be”, is one of the words coined for the occasion in excited speech, as Nitzsch remarks, and Merry compares Antinous' threat to the disguised Odysseus, “lest you come soon to a bitter Egypt and Cyprus” (on 1.266; 17.448). The rendering of the seventeenth book is a plain rendering, not the translation.
+
+**The man in the memory.** Athena gives Telemachus a picture of his father as Mentes first saw him before the war, “drinking and taking his delight” in a friend's house (1.257–258), and wishes him back in that strength, armed, at his own doors, the man who “would lay his hands on the shameless suitors” (1.254–256; see [[odysseus]]). The memory belongs to the false tale of Mentes, son of Anchialus, and to its claim that the two houses were friends from of old (1.187–188; see [[mentes-the-taphian]], [[anchialus-father-of-mentes]] and [[athena-visits-telemachus]]).
+
+**The drug and the gods.** φάρμακον ἀνδροφόνον, “a man-slaying drug”, ἰοὺς χρίεσθαι χαλκήρεας, “to smear his bronze-fitted arrows” (1.261–262; see [[man-slaying]] and [[arrows]]). Ilus refused it, “since he feared the indignation of the gods who live forever” (1.263; see [[ilus-son-of-mermerus]] and [[nemesis]]). There is no mention of poisoned arrows in the Iliad, Merry notes, and the Odyssey alludes to them in words that show a strong feeling against the practice as barbarous or impious (on 1.263; see the translation's note on 1.263). Which Ephyra Odysseus visited, the Thesprotian or the Elean, was argued from this passage (see [[ephyra]] and the translation's note on 1.259).

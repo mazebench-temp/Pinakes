@@ -18,4 +18,4 @@ passages:
 
 **The god's errand.** ἀνέρι εἰσάμενος, “in the likeness of a man” (17.73), begins the verse with which Apollo came to Hector as his uncle Asius in Book 16 (16.716; see [[asius-son-of-dymas]]). As Mentes he turns Hector from his vain chase of the horses of Achilles and tells him that Menelaus has killed Euphorbus (17.75–81; see [[apollo]], [[hector]] and [[the-horses-of-achilles]]), and then “the god went back again into the toil of men” (17.82).
 
-**The Mentes of the Odyssey.** Athena comes to Telemachus in the likeness of a guest, Ταφίων ἡγήτορι Μέντῃ, “Mentes, leader of the Taphians” (*Odyssey* 1.105), and calls herself Mentes, son of Anchialus, lord of the Taphians (*Odyssey* 1.180–181). The two verses end alike, ἡγήτορι Μέντῃ, but the poems mean two men.
+**The Mentes of the Odyssey.** Athena comes to Telemachus in the likeness of a guest, Ταφίων ἡγήτορι Μέντῃ, “the leader of the Taphians, Mentes” (*Odyssey* 1.105), and calls herself Mentes, son of Anchialus, lord of the Taphians (*Odyssey* 1.180–181). The two verses end alike, ἡγήτορι Μέντῃ, but the poems mean two men (see [[mentes-the-taphian]]).

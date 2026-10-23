@@ -9,6 +9,6 @@ aliases: [logos, speech, prose, statement, account, argument, discourse, reason]
 
 ## Meaning
 
-λόγος is the noun of λέγω, “gather, count, say”: a reckoning, an account, a word, an argument, reason. Homer has it only twice, in the plural, of words that charm: Patroclus cheers the wounded Eurypylus with talk (15.393), and Calypso beguiles Odysseus “with soft and wheedling words” (*Odyssey* 1.56). In Heraclitus it is the order of the world; in Plato and Aristotle reasoned discourse and definition.
+λόγος is the noun of λέγω, “gather, count, say”: a reckoning, an account, a word, an argument, reason. Homer has it only twice, in the plural, of words that charm: Patroclus cheers the wounded Eurypylus with talk (15.393), and Calypso beguiles Odysseus “with gentle and wheedling talk” (*Odyssey* 1.56). In Heraclitus it is the order of the world; in Plato and Aristotle reasoned discourse and definition.
 
 {{notes}}

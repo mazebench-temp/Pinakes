@@ -3,7 +3,7 @@ title: Athena
 greek: Ἀθήνη
 kind: god
 tags: [olympian, child-of-zeus, woman]
-summary: Daughter of [[Zeus]], the gray-eyed goddess of cunning and war, and the Achaeans' constant helper.
+summary: Daughter of [[Zeus]], the gray-eyed goddess of cunning and war, the Achaeans' constant helper at Troy and, in the Odyssey, the protector of [[Odysseus]] and his son.
 aliases: [Pallas, Pallas Athena, Athene, Athenaie]
 grc: [Ἀθήν*, Ἀθηναί*, Παλλάδ*, Παλλὰς, "!Ἀθήνας", "!=Ἀθήνῃς", "!Ἀθηναιο*", "!Ἀθηναιω*", "!Ἀθήνησιν", "!Ἀθήνησι"]
 en: [Athena, Pallas Athena, Pallas]

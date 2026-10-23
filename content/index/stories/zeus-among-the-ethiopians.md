@@ -22,6 +22,6 @@ The gods' absence is a device of time. It puts twelve days between Achilles' req
 
 The Ethiopians are ἀμύμονες, "blameless", the pious people whose sacrifices the gods come to share in person. In the Iliad, gods feast with men only at the edges of the earth.
 
-## Outside Homer
+## Elsewhere in Homer
 
-The Odyssey opens with Poseidon away among the Ethiopians, "the farthest of men", receiving a hecatomb (1.22–26). His absence, like Zeus' here, lets a plan go forward. In Iliad 23.205–207 Iris is on her way to their sacrifices.
+In Book 23 Iris, who has carried Achilles' prayer to the winds, will not sit with them, since she is going to the land of the Ethiopians to share in their hecatombs (23.198–207). The Odyssey opens with Poseidon away among them, “the farthest of men”, to share in a hecatomb of bulls and rams (*Odyssey* 1.22–26). His absence, like that of Zeus here, lets a plan go forward: while he feasts, the other gods resolve on the homecoming of Odysseus (*Odyssey* 1.26–95; see [[poseidon]] and [[ethiopians]]).

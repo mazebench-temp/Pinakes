@@ -3,7 +3,7 @@ title: Invocation of the Muses
 greek: ἔσπετε νῦν μοι Μοῦσαι Ὀλύμπια δώματʼ ἔχουσαι
 kind: formula
 tags: [muse, music]
-summary: The poet's appeal to the Muse, or the Muses, for knowledge he cannot have himself. It opens the poem and returns before the great lists and at turning points of the battle; its fullest form introduces the Catalogue of Ships (2.484–493).
+summary: The poet's appeal to the Muse, or the Muses, for knowledge he cannot have himself. It opens both poems; in the Iliad it returns before the great lists and at turning points of the battle, and its fullest form introduces the Catalogue of Ships (2.484–493).
 aliases: [appeal to the Muses, invocation of the Muse, Tell me now Muses]
 grc: [ἄειδε θεά, ἔσπετε νῦν μοι Μοῦσαι, ἔννεπε Μοῦσα]
 en: ["Sing, goddess", "Tell me now, Muses", "tell me, Muse"]
@@ -23,7 +23,7 @@ The poet asks a goddess to tell or sing what he is about to tell. The request ha
 
 The Muses ([[muses]]) are asked because they know. They were present at the events, and the singer was not. The invocation is where the narrator of the Iliad speaks most plainly in his own person, as “I” and “me”. Elsewhere he rarely does; one other place is his complaint that “it is hard for me to tell all these things like a god” (12.176).
 
-The appeals come at the poem's beginning and before its great efforts of memory: the Catalogue of Ships and the question of the best men and horses in Book 2, and three moments in the battle when the poet must say who struck first or how the fire came to the ships (11.218–220, 14.508–510, 16.112–113). The line “Tell me now, Muses, you who have your homes on Olympus” (2.484) returns at each of those three. The Odyssey opens with the same request in the singular: ἄνδρα μοι ἔννεπε, Μοῦσα, “Tell me, Muse, of the man” (*Odyssey* 1.1). See also [[proem]].
+The appeals come at the poem's beginning and before its great efforts of memory: the Catalogue of Ships and the question of the best men and horses in Book 2, and three moments in the battle when the poet must say who struck first or how the fire came to the ships (11.218–220, 14.508–510, 16.112–113). The line “Tell me now, Muses, you who have your homes on Olympus” (2.484) returns at each of those three. The Odyssey opens with the same request in the singular: ἄνδρα μοι ἔννεπε, μοῦσα, “Tell me, Muse, of the man” (*Odyssey* 1.1), and renews it nine lines later; it does not call on the Muse again. See also [[proem]].
 
 {{notes}}
 

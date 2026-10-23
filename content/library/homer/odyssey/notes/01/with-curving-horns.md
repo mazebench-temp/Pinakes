@@ -1,0 +1,7 @@
+---
+summary: The suitors are forever slaughtering Odysseus' “shambling cattle with curving horns” (1.91–92), in the verse-end that the Iliad uses for the slaughter of a great house's herds.
+---
+
+“who are forever / slaughtering his thronging sheep and shambling cattle with curving horns” (1.91–92; see [[cattle]], [[shambling]] and [[the-suitors]]). The verse-end εἰλίποδας ἕλικας βοῦς is the Iliad's, where Phoenix's kinsmen slaughter many fat sheep and shambling cattle with curving horns to keep him at home, and the Myrmidons flay them before the pyre of Patroclus (*Iliad* 9.466 = 23.166). In the Odyssey it returns when Telemachus tells Menelaus of the suitors (4.320 = 1.92) and when Odysseus' men slaughter sheep and cattle by the shore at Ismarus (9.46), and the cattle of the Sun are ἕλικες too (12.136, 12.355; see [[the-cattle-of-helios]]).
+
+Merry reports the two senses that the Homeric lexicon of Apollonius gives for ἕλικας, of horns twisted like spirals or, as some held, of the rolling motion of the feet, and prefers the first, which the *Hymn to Hermes* supports when Apollo seeks his cows, “all with twisted horns” (κεράεσσιν ἑλικτάς, 192). Others referred ἕλιξ to the root of σέλας, “brightness”, and took it of the color or the sleekness of the beasts, or, comparing ἀμφιέλισσαι, said of ships, as “well-rounded”, that is, fat (*Commentary on the Odyssey*, 1886, on 1.92; see the translation's note on 1.92). The translation keeps the Iliad's “with curving horns”.

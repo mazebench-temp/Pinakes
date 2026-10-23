@@ -1,0 +1,9 @@
+---
+summary: The stranger names old Laertes as the witness of the friendship between the two houses, and says that he no longer comes to the city but lives a hard life on his farm, tended by an old handmaid; at the end of the book he is the man who bought Eurycleia and honored her like his wife (1.187–193, 1.429–433).
+---
+
+{{quote:be6d5837-ee10-5c50-8a37-b4d64e81922e}}
+
+**The old man on the farm.** The goddess, as Mentes, calls Laertes as the witness of the guest-friendship between her father's house and his (see [[xenia]] and [[mentes-the-taphian]]). The hero (ἥρωα, 1.189; see [[heros]]) has withdrawn from the town to his farm, and W. W. Merry takes πήματα πάσχειν here of a hard life on the farm, not of grief for his lost son (Merry, *Commentary on the Odyssey*, 1886, on 1.190). His grief is told in the underworld, where his wife's shade tells Odysseus that his father stays in the country and never comes down to the city, sleeps in the dust by the fire in winter and in summer on fallen leaves “along the slope of his vineyard”, the same words as here, and lies there grieving, longing for his son's return (*Odyssey* 11.187–196). γουνός is a knoll or rising ground, from γόνυ, “knee”, and Merry renders “the upland plot of his vineyard” (on 1.193). The old handmaid who brings him food and drink is the old Sicilian woman of the last book (*Odyssey* 24.211–212, 24.366, 24.389; Merry on 1.191; see [[handmaids]]), where Odysseus finds him at work in that vineyard (*Odyssey* 24.226–231).
+
+**The master who bought Eurycleia.** At the end of the book Laertes is the man who bought Eurycleia “with his own possessions”, gave the worth of twenty oxen for her, and honored her in his halls as he honored his wife, “but he never lay with her in bed, for he shunned his wife's anger” (1.429–433; see [[eurycleia]]).

@@ -1,0 +1,260 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 10,
+      "title": "The Invocation",
+      "summary": "The poet asks the Muse to tell of the man of many turns, who sacked Troy and wandered far, saw the cities of many men and suffered on the sea, but could not save his companions, who ate the cattle of the Sun and lost their homecoming."
+    },
+    {
+      "from": 11,
+      "to": 21,
+      "title": "Odysseus on the Island of Calypso",
+      "summary": "All the others who escaped have come home; Odysseus alone is held by the nymph Calypso in her caves. The year of his return has come, and all the gods pity him except Poseidon."
+    },
+    {
+      "from": 22,
+      "to": 43,
+      "title": "The Council of the Gods",
+      "summary": "While Poseidon feasts among the far-off Ethiopians, the other gods gather in the halls of Zeus. Zeus, remembering Aegisthus, whom Orestes killed, complains that mortals blame the gods for the sorrows their own recklessness brings them."
+    },
+    {
+      "from": 44,
+      "to": 95,
+      "title": "Athena's Plea and Plan",
+      "summary": "Athena turns the talk to Odysseus, kept by the daughter of Atlas on Ogygia; Zeus answers that Poseidon is angry over his son Polyphemus, but that the gods will bring Odysseus home. Athena proposes that Hermes go to Calypso and that she herself go to Ithaca to rouse Telemachus and send him to Pylos and Sparta."
+    },
+    {
+      "from": 96,
+      "to": 143,
+      "title": "Athena in Ithaca",
+      "summary": "Athena flies down to Ithaca in the likeness of Mentes, leader of the Taphians, and finds the suitors at their games before the doors. Telemachus, sitting among them and thinking of his father, welcomes the stranger, sets her spear in the rack and seats her apart from the suitors."
+    },
+    {
+      "from": 144,
+      "to": 155,
+      "title": "The Suitors' Feast",
+      "summary": "The suitors come in to their meal, and when they have eaten they turn to song and dancing; a herald gives the lyre to Phemius, who sings among them under compulsion."
+    },
+    {
+      "from": 156,
+      "to": 251,
+      "title": "Telemachus and the Stranger",
+      "summary": "Telemachus speaks of his father, whose bones he thinks lie rotting, and asks the stranger who he is. Athena, as Mentes, tells a false tale of her voyage, foretells that Odysseus will soon return, and asks if Telemachus is truly his son; Telemachus answers bitterly and tells of the suitors who woo his mother and devour his house."
+    },
+    {
+      "from": 252,
+      "to": 324,
+      "title": "Athena's Counsel and Departure",
+      "summary": "Athena bids Telemachus summon an assembly, send the suitors home, and sail to Pylos and Sparta for news of his father; if Odysseus is dead, he is to raise a mound, give his mother to a husband, and plan the suitors' death, as Orestes killed Aegisthus. She refuses his gift and flies off like a bird, and Telemachus knows that a god has been with him."
+    },
+    {
+      "from": 325,
+      "to": 364,
+      "title": "Phemius' Song and Penelope",
+      "summary": "Phemius sings of the grim homecoming of the Achaeans. Penelope comes down from her room and begs him to sing of something else; Telemachus rebukes her, and she goes back to weep for Odysseus until Athena sends her sleep."
+    },
+    {
+      "from": 365,
+      "to": 420,
+      "title": "Telemachus and the Suitors",
+      "summary": "Telemachus tells the suitors that tomorrow he will order them out of his house in the assembly. Antinous mocks him and Eurymachus asks about the stranger; Telemachus answers that he is Mentes of Taphos, though in his heart he knows the goddess."
+    },
+    {
+      "from": 421,
+      "to": 444,
+      "title": "Night",
+      "summary": "The suitors dance and sing until evening and go home. Eurycleia, who nursed him, lights Telemachus to his chamber, and all night he ponders the journey Athena has shown him."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 32,
+      "to": 43,
+      "speaker": "zeus",
+      "to_whom": [
+        "olympians"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 45,
+      "to": 62,
+      "speaker": "athena",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "plea"
+    },
+    {
+      "from": 64,
+      "to": 79,
+      "speaker": "zeus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 81,
+      "to": 95,
+      "speaker": "athena",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "plan"
+    },
+    {
+      "from": 123,
+      "to": 124,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "welcome"
+    },
+    {
+      "from": 158,
+      "to": 177,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "questions"
+    },
+    {
+      "from": 179,
+      "to": 212,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "false tale"
+    },
+    {
+      "from": 214,
+      "to": 220,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 222,
+      "to": 229,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "questions"
+    },
+    {
+      "from": 231,
+      "to": 251,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 253,
+      "to": 305,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 307,
+      "to": 313,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "offer"
+    },
+    {
+      "from": 315,
+      "to": 318,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 337,
+      "to": 344,
+      "speaker": "penelope",
+      "to_whom": [
+        "phemius"
+      ],
+      "kind": "appeal"
+    },
+    {
+      "from": 346,
+      "to": 359,
+      "speaker": "telemachus",
+      "to_whom": [
+        "penelope"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 368,
+      "to": 380,
+      "speaker": "telemachus",
+      "to_whom": [
+        "the-suitors"
+      ],
+      "kind": "warning"
+    },
+    {
+      "from": 384,
+      "to": 387,
+      "speaker": "antinous",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 389,
+      "to": 398,
+      "speaker": "telemachus",
+      "to_whom": [
+        "antinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 400,
+      "to": 411,
+      "speaker": "eurymachus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "questions"
+    },
+    {
+      "from": 413,
+      "to": 419,
+      "speaker": "telemachus",
+      "to_whom": [
+        "eurymachus"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 444,
+      "label": "Day 1",
+      "note": "The council of the gods; Athena in Ithaca; the evening of the suitors' feast and the night (1.11–444)."
+    }
+  ]
+}

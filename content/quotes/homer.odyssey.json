@@ -1,0 +1,225 @@
+{
+  "work": "homer.odyssey",
+  "quotes": [
+    {
+      "id": "3b9d21ee-7ee4-5349-a809-6d2d999eee6a",
+      "ref": "1.1-10",
+      "title": "The proem"
+    },
+    {
+      "id": "c26db905-eb7d-5554-b665-2384860cdd14",
+      "ref": "1.6-9",
+      "title": "The cattle of the Sun"
+    },
+    {
+      "id": "5f8508b4-4564-5f2f-b3a5-85e8f3405fed",
+      "ref": "1.11-12",
+      "title": "All the others were at home"
+    },
+    {
+      "id": "777bdccc-2a28-5f9c-96b8-fd4ebf390b0a",
+      "ref": "1.13-15",
+      "title": "Calypso holds him back"
+    },
+    {
+      "id": "9b59389f-705b-5304-8d8c-c1c3d91ebaca",
+      "ref": "1.22-26",
+      "title": "Poseidon among the Ethiopians"
+    },
+    {
+      "id": "6e27b15f-b22c-5c48-ac33-3c30028599fc",
+      "ref": "1.29-31",
+      "title": "Zeus remembers Aegisthus"
+    },
+    {
+      "id": "1645d478-ddf8-5153-88a0-08b2242fcf43",
+      "ref": "1.32-34",
+      "title": "Mortals blame the gods"
+    },
+    {
+      "id": "ffaf8c8c-c4d4-5284-994f-0edfe3f02ba8",
+      "ref": "1.35-43",
+      "title": "Hermes warns Aegisthus"
+    },
+    {
+      "id": "cb90a3c1-5bc5-5eb4-a0f9-b30d6fd0a0a7",
+      "ref": "1.45-47",
+      "title": "So may any other perish"
+    },
+    {
+      "id": "13bb7b8c-8fef-53b6-b7fe-cb98e9816b53",
+      "ref": "1.50-51",
+      "title": "The navel of the sea"
+    },
+    {
+      "id": "45ff2123-13af-5967-9bb4-69dd1ed75c14",
+      "ref": "1.51-54",
+      "title": "The daughter of Atlas"
+    },
+    {
+      "id": "2e726887-2a82-50a7-a803-7dc6ef136da9",
+      "ref": "1.55-59",
+      "title": "She bewitches him"
+    },
+    {
+      "id": "0363f96f-20b8-5d3a-8923-f4e7a4795248",
+      "ref": "1.64-67",
+      "title": "How could I forget divine Odysseus"
+    },
+    {
+      "id": "ad8a8a30-fde5-5e81-be18-d99f13a91350",
+      "ref": "1.68-73",
+      "title": "Poseidon's anger"
+    },
+    {
+      "id": "1869f932-0d04-51bd-87fd-e7707ddd935f",
+      "ref": "1.96-98",
+      "title": "Athena's golden sandals"
+    },
+    {
+      "id": "52285d0c-c0df-5e41-9296-1d5868a42367",
+      "ref": "1.96-102",
+      "title": "Athena goes down to Ithaca"
+    },
+    {
+      "id": "1f433411-216f-590b-b4fe-399e7cd1965d",
+      "ref": "1.99-101",
+      "title": "Athena's spear"
+    },
+    {
+      "id": "e520811a-5314-54b3-8de3-4c652681acbc",
+      "ref": "1.102-105",
+      "title": "Athena at the doorway"
+    },
+    {
+      "id": "72ad5563-f42a-5b64-ac3c-010bd4a32226",
+      "ref": "1.106-108",
+      "title": "The suitors at their game"
+    },
+    {
+      "id": "3940ed53-6d6c-50aa-9ac4-2ba33d694e66",
+      "ref": "1.113-117",
+      "title": "Telemachus among the suitors"
+    },
+    {
+      "id": "2401a35a-7faa-5a6c-ad44-a0c6ba8e12cc",
+      "ref": "1.123-124",
+      "title": "Welcome, stranger"
+    },
+    {
+      "id": "3970370e-3224-5868-aae1-c7a9eef2f27d",
+      "ref": "1.136-140",
+      "title": "Water for the hands"
+    },
+    {
+      "id": "509af42a-1893-51c5-91d1-9fd33a49c93d",
+      "ref": "1.170-173",
+      "title": "The stranger's question"
+    },
+    {
+      "id": "44edc3cd-ece1-54f5-b152-433c94fa6614",
+      "ref": "1.182-184",
+      "title": "Iron for bronze"
+    },
+    {
+      "id": "30dcb255-4540-5f2b-93da-83f4fd03fe53",
+      "ref": "1.185-186",
+      "title": "The harbor of Rheithron"
+    },
+    {
+      "id": "be6d5837-ee10-5c50-8a37-b4d64e81922e",
+      "ref": "1.187-193",
+      "title": "Ask the old man, the hero Laertes"
+    },
+    {
+      "id": "3a6202af-62bb-5ae7-8d22-a601980cbd57",
+      "ref": "1.200-205",
+      "title": "Athena's prophecy"
+    },
+    {
+      "id": "f79afc23-3e13-5a0b-a4fd-9dc4d1950199",
+      "ref": "1.215-220",
+      "title": "My mother says that I am his"
+    },
+    {
+      "id": "3ca6b47c-9cd6-5ecf-b71b-87d164dfc882",
+      "ref": "1.225-229",
+      "title": "What feast is this?"
+    },
+    {
+      "id": "f301d159-791c-5972-b640-83f79a3e5f96",
+      "ref": "1.245-248",
+      "title": "The suitors from the islands"
+    },
+    {
+      "id": "38c1f63e-604b-56b3-a3fd-cbbfafec7be9",
+      "ref": "1.257-264",
+      "title": "Odysseus at Ephyra"
+    },
+    {
+      "id": "26a8dbae-ffdc-506b-bc92-369cf885b518",
+      "ref": "1.280-286",
+      "title": "Pylos and Sparta"
+    },
+    {
+      "id": "18798678-88e6-56ef-a32a-1cca9cec6616",
+      "ref": "1.293-297",
+      "title": "By guile or openly"
+    },
+    {
+      "id": "b10c2598-aa6a-565a-ae57-c450a44e5b06",
+      "ref": "1.298-302",
+      "title": "The fame of Orestes"
+    },
+    {
+      "id": "f1981b7f-6fc0-5b6c-aaca-71eee703010f",
+      "ref": "1.319-323",
+      "title": "Athena flies away"
+    },
+    {
+      "id": "6e96a87d-00ee-5934-a614-08a073bcaaa1",
+      "ref": "1.325-329",
+      "title": "Phemius sings the homecoming of the Achaeans"
+    },
+    {
+      "id": "32d4fb43-1f8c-591a-8bdb-ade2c47a733d",
+      "ref": "1.328-329",
+      "title": "Penelope hears the song"
+    },
+    {
+      "id": "fc1b1fd2-9489-523a-89ac-5ef5bac57466",
+      "ref": "1.337-344",
+      "title": "Penelope asks Phemius to stop"
+    },
+    {
+      "id": "a667cef2-60d2-50d0-b1d7-554e92c57b85",
+      "ref": "1.350-352",
+      "title": "The newest song"
+    },
+    {
+      "id": "44074f0e-5ddb-578c-a671-2dc98a0d8bab",
+      "ref": "1.356-359",
+      "title": "Speech will be the concern of men"
+    },
+    {
+      "id": "8f7461a6-edee-595c-a7da-38411f8cc76f",
+      "ref": "1.368-380",
+      "title": "Telemachus warns the suitors"
+    },
+    {
+      "id": "04669fff-3ec6-5ecc-be79-2cc5266956ad",
+      "ref": "1.381-382",
+      "title": "They bit their lips"
+    },
+    {
+      "id": "9d789e55-c791-5943-9dfc-72b90ca8b2b0",
+      "ref": "1.417-420",
+      "title": "Mentes of Taphos"
+    },
+    {
+      "id": "49bf1c83-0df4-510d-b32b-e7f3bd23ec78",
+      "ref": "1.428-435",
+      "title": "Eurycleia"
+    }
+  ]
+}

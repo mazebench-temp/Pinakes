@@ -1,0 +1,19 @@
+---
+summary: The suitors' daily feast in Odysseus' house is a feast at another man's cost. The stranger asks what feast it is, a banquet, a wedding or a shared feast, and finds it none of them; Telemachus tells the suitors to feast in their own houses by turns. The guest is given his own meal apart, and after the meal come song and dancing, “the accompaniments of a feast” (1.124–152, 1.225–229, 1.369–375).
+# δαιτὶ (1.26) is Poseidon's feast among the Ethiopians; εἰλαπίνη and ἔρανος (1.226) are the banquet and the shared
+# feast (see the translation's row εἰλαπίνη / γάμος / ἔρανος).
+grc: [δαιτὶ, δαίς, δαῖτας, δείπνου, δείπνῳ, δαίνυσθαι, δαινύμενοι, εἰλαπίνη, ἔρανος]
+en: [meal, feasts, banquet, shared feast]
+---
+
+**What feast is this?** When Telemachus has told the stranger of his father, the goddess asks in turn:
+
+{{quote:3ca6b47c-9cd6-5ecf-b71b-87d164dfc882}}
+
+Her three words are three kinds of meal. The εἰλαπίνη, “banquet”, is given by one host; the γάμος, “wedding”, is a marriage feast; the ἔρανος, “shared feast”, is held at each house in turn, as W. W. Merry explains, and he refers it to the suitors' feasting “taking turns from house to house” (1.375; Merry, *Commentary on the Odyssey*, 1886, on 1.226; see the translation's note on 1.226). What the stranger sees is none of these but a feast of men committing outrage (see [[hybris]] and [[the-suitors]]). Telemachus' answer is that they are eating his house (1.248–251; see [[house]]), and when he speaks to the suitors he bids them feast in their own houses: “and provide other feasts, / eating your own possessions, taking turns from house to house” (1.374–375). The three kinds of feast are named together again, as Merry notes, in the underworld, where Agamemnon tells how Aegisthus killed him at dinner “as one kills an ox at the manger”, and his companions were slaughtered around him like swine for a wedding, a shared feast or a rich banquet (*Odyssey* 11.409–415; see [[the-murder-of-agamemnon]]).
+
+**At another man's cost.** Telemachus says of the suitors that they care for “the lyre and song, / easily, since they eat another man's substance without payment” (1.159–160; see [[lyre]]). Their meal is told in the verses of every feast: they come in, sit in order, wash their hands, take bread and wine, put out their hands to the food, and when they have put away the desire for drink and food turn to “song and dancing; for these are the accompaniments of a feast” (1.144–152; see [[feast-type-scene]] and [[desire-for-drink-and-food]]). ἀναθήματα are “accompaniments”, not the later offerings set up to the gods (Merry on 1.152); Homer calls the lyre the companion of the feast (δαιτὶ συνήορος, *Odyssey* 8.99; δαιτὶ … ἑταίρην, 17.271). The same half-verse returns when Odysseus has strung the bow and bids that supper be made for the Achaeans by daylight, and after it “song and the lyre: for these are the accompaniments of a feast” (*Odyssey* 21.428–430): the feast he means is the killing of the suitors.
+
+**The guest's meal.** Telemachus' first words to the stranger put the meal before the questions: “when you have tasted the meal, you will tell us what you need” (1.124; see [[xenia]]). He seats the guest apart, “so that the stranger, troubled by the din, / should not loathe his meal, coming among overbearing men” (1.133–134), and a meal of his own is set before them both (1.136–143; see [[feast-type-scene]] and [[table]]).
+
+**The master of the feast.** When his mother has gone up to her room, Telemachus speaks to the suitors as the master of the house: “now let us feast and take our delight, and let there be no / shouting, since it is a fine thing to listen to a singer” (1.369–370; see [[phemius]] and [[telemachus-and-the-suitors]]). The gods have their own feast far away: Poseidon “sat at the feast and took his delight” among the Ethiopians (1.26; see [[zeus-among-the-ethiopians]]).

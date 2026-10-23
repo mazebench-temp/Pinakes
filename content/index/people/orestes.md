@@ -3,32 +3,26 @@ title: Orestes
 greek: Ὀρέστης
 kind: person
 tags: [atreidae, argive]
-summary: The son of [[Agamemnon]] and [[Clytemnestra]]. In the Iliad he is a boy at home, the “darling son” beside whom Agamemnon offers to honor Achilles as his son-in-law (9.142–143); in the Odyssey he is the son who came home and killed his father's murderer Aegisthus, the model held up to Telemachus.
+summary: The son of [[Agamemnon]] and [[Clytemnestra]], who came home from exile and killed his father's murderer Aegisthus: in the Odyssey the model of a son held up to Telemachus, in tragedy the matricide pursued by his mother's Erinyes.
 aliases: [Orestes son of Agamemnon]
 # The plain id is Agamemnon's son (docs/homonyms.md): orestes-the-achaean (Ὀρέστην, 5.705) and the Trojan
 # Orestes of 12.139 and 12.193 are other men. The exact form keeps out ὀρεστιάδες (6.420).
-grc: [Ὀρέστῃ]
+grc: [Ὀρέστῃ, Ὀρέστης, Ὀρέσταο]
 en: [Orestes]
 relations:
   - father: agamemnon (9.142-143)
-passages:
-  - 9.141-143 | Achilles as Agamemnon's son-in-law
 except: [Rhetoric 1401a36]
 ---
 
-{{quote:0d2d9ec7-889d-517f-add5-43e1dd532565}}
-
 ## The name
 
-Ὀρέστης is usually derived from ὄρος (“mountain”), “man of the mountains”. Homer has two other men of the name, an Achaean killed by Hector (5.705; see [[orestes-the-achaean]]) and a Trojan of Asius' company (12.139, 12.193).
+Ὀρέστης is usually derived from ὄρος (“mountain”), “man of the mountains”. Homer has two other men of the name, an Achaean killed by Hector (5.705; see [[orestes-the-achaean]]) and a Trojan of Asius' company (12.139, 12.193; see [[orestes-the-trojan]]).
 
-## In the Iliad
+{{notes}}
 
-The Iliad names him only in the list of gifts, twice: once in Agamemnon's offer and once when Odysseus repeats it to Achilles (9.142, 9.284; see [[the-gifts-of-agamemnon]]). If they come home to “Achaean Argos”, Achilles will be Agamemnon's son-in-law, and Agamemnon will honor him “equally with Orestes, who is reared as my darling son in great abundance” (9.142–143). τηλύγετος, “darling”, is the word for a cherished child, often a late-born or an only one (see [[darling]]); θαλίη, “abundance”, is the plenty of a rich house. Orestes is the measure of the honor Achilles is offered: a place in Agamemnon's house equal to his heir's. The three daughters follow in the next lines (9.144–148; see [[chrysothemis]], [[laodice-daughter-of-agamemnon]] and [[iphianassa]]).
+## Mythology
 
-## In the Odyssey
-
-The Odyssey knows what the Iliad leaves unsaid. In the first speech of the poem Zeus recalls Aegisthus, whom “far-famed Orestes, son of Agamemnon”, killed (Od. 1.29–30): the gods had sent Hermes to warn him not to kill Agamemnon or woo his wife, for vengeance for the son of Atreus would come from Orestes, “when he comes of age and longs for his own land” (Od. 1.35–43). Athena, in the guise of Mentes, holds him up to Telemachus: “have you not heard what fame brilliant Orestes won among all men, when he killed his father's murderer, crafty Aegisthus?” (Od. 1.298–300), and Nestor says the same (Od. 3.193–200). Aegisthus ruled Mycenae for seven years; in the eighth Orestes came back from Athens and killed him, and then gave the Argives a funeral feast “for his hateful mother and the cowardly Aegisthus” (Od. 3.304–310). The poem does not say how his mother died. Proteus tells Menelaus that he may find Aegisthus alive, “or Orestes may have killed him first” (Od. 4.546–547), and in the underworld Agamemnon's shade complains that his wife did not even let him feast his eyes on his son, and asks Odysseus whether Orestes is alive, “in Orchomenus, or in sandy Pylos, or with Menelaus in wide Sparta” (Od. 11.452–461). See [[clytemnestra-and-the-return]].
+Homer's Orestes is the avenger of his father. The Iliad names him only as the son reared at home, in Agamemnon's offer of gifts to Achilles (9.142–143, 9.284–285). The Odyssey tells the rest. Aegisthus ruled Mycenae for seven years after the murder; in the eighth Orestes came back from Athens and killed him, and then gave the Argives a funeral feast “for his hateful mother and the cowardly Aegisthus” (*Odyssey* 3.304–310). The poem does not say how his mother died. Proteus tells Menelaus that he may find Aegisthus alive, “or Orestes may have killed him first” (*Odyssey* 4.546–547), and in the underworld Agamemnon's shade complains that his wife did not even let him feast his eyes on his son, and asks Odysseus whether Orestes is alive, “in Orchomenus, or in sandy Pylos, or with Menelaus in wide Sparta” (*Odyssey* 11.452–461). Zeus remembers his deed in the council of the gods, and Athena and Nestor hold it up to Telemachus (*Odyssey* 1.29–43, 1.298–302; 3.193–200; see [[the-murder-of-agamemnon]] and [[orestes-kills-clytemnestra]]). The renderings of books of the Odyssey other than the first are plain renderings, not the translation.
 
 ## Outside Homer
 
