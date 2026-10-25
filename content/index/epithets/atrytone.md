@@ -20,4 +20,4 @@ It occurs seven times in Homer, always at the end of the verse and always in add
 
 {{quote:04171b59-a89d-5cfe-b37e-146e1fd4a0d0}}
 
-When the army runs for the ships, Hera speaks to Athena and the story turns. The formal title of her address to the unwearied goddess stands against the picture of an army exhausted by nine years of war and fleeing home. The same words open Hera's appeals in Book 5, when the Achaeans are hard pressed by Ares and Hector (Il. 5.714), and in Book 21, when she sends Athena after Aphrodite (Il. 21.420).
+When the army runs for the ships, Hera speaks to Athena and the story turns. The formal title of her address to the unwearied goddess stands against the picture of an army exhausted by nine years of war and fleeing home. The same words open Hera's appeals in *Iliad* 5, when the Achaeans are hard pressed by Ares and Hector (Il. 5.714), and in Book 21, when she sends Athena after Aphrodite (Il. 21.420).

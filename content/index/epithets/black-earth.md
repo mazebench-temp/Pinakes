@@ -12,7 +12,7 @@ of: [earth]
 
 ## Meaning
 
-γαῖα (“earth, land”) + μέλαινα (“black, dark,” feminine of μέλας): “the black earth.” The color is that of plowed, fertile soil, and of the ground that covers the dead. The phrase closes the verse. It is used seven times in Homer, several of them of the earth running with blood in battle (Il. 15.715, 20.494). Once the adjective is κελαινή, “dark,” and stands apart from χθών, in the simile of the autumn storm: “the whole black earth is weighed down” (16.384; [[the-storm-of-late-summer]]). Compare [[grain-giving]], the other epithet of the earth in Book 2, and [[black-ships]] for the same adjective.
+γαῖα (“earth, land”) + μέλαινα (“black, dark,” feminine of μέλας): “the black earth.” The color is that of plowed, fertile soil, and of the ground that covers the dead. The phrase closes the verse. It is used seven times in Homer, several of them of the earth running with blood in battle (Il. 15.715, 20.494). Once the adjective is κελαινή, “dark,” and stands apart from χθών, in the simile of the autumn storm: “the whole black earth is weighed down” (16.384; [[the-storm-of-late-summer]]). Compare [[grain-giving]], the other epithet of the earth in *Iliad* 2, and [[black-ships]] for the same adjective.
 
 ## Use
 

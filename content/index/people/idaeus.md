@@ -3,7 +3,7 @@ title: Idaeus
 greek: Ἰδαῖος
 kind: person
 tags: [trojan, herald]
-summary: The herald of [[Priam]]. He summons the king to the oath sacrifice in Book 3, carries the Trojans' offer to the Achaeans in Book 7, and in the last book drives the wagon with Hector's ransom to Achilles.
+summary: The herald of [[Priam]]. He summons the king to the oath sacrifice in *Iliad* 3, carries the Trojans' offer to the Achaeans in Book 7, and in the last book drives the wagon with Hector's ransom to Achilles.
 grc: [Ἰδαῖος]
 except: [5.11, 5.20]
 refs: [3.249]
@@ -19,4 +19,4 @@ relations:
 
 ## Elsewhere in Homer
 
-In Book 7 he parts Hector and Ajax at nightfall and carries Paris' offer and Priam's request for a truce to the Achaean ships (7.273–282, 7.372–416). In Book 24 he drives the mule wagon with Hector's ransom, goes with Priam by night to Achilles' hut, and brings the body home (24.325, 24.470–471, 24.701). A different Idaeus, son of Dares, the priest of Hephaestus, is saved from Diomedes by the god (5.9–24).
+In *Iliad* 7 he parts Hector and Ajax at nightfall and carries Paris' offer and Priam's request for a truce to the Achaean ships (7.273–282, 7.372–416). In Book 24 he drives the mule wagon with Hector's ransom, goes with Priam by night to Achilles' hut, and brings the body home (24.325, 24.470–471, 24.701). A different Idaeus, son of Dares, the priest of Hephaestus, is saved from Diomedes by the god (5.9–24).

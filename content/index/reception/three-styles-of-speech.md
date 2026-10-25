@@ -17,7 +17,7 @@ On the wall Antenor remembers the two Achaean envoys speaking in the Trojan asse
 
 {{quote:a3959e44-a574-5b82-99b2-f469b4d3d518}}
 
-Nestor needs no description here. In Book 1 the narrator had said that from his tongue "the voice flowed sweeter than honey" (1.249).
+Nestor needs no description here. In *Iliad* 1 the narrator had said that from his tongue "the voice flowed sweeter than honey" (1.249).
 
 Ancient rhetoric divided style into three kinds, which Aulus Gellius gives with their Greek names: the grand or full (ἁδρόν), the plain (ἰσχνόν) and the middle (μέσον) (6.14.1). Homer, he adds, had already shown them in three men: "the magnificent and full in Ulysses, the fine and restrained in Menelaus, the mixed and moderate in Nestor" (6.14.7). Quintilian, near the end of his *Institutio*, makes the same division. Homer gave Menelaus an eloquence brief and pleasing, exact ("for that is what it means not to go astray in words", his rendering of ἀφαμαρτοεπής), and free of anything superfluous; he made Nestor's speech flow sweeter than honey; and "to express the highest eloquence in Ulysses" he gave him a great voice and a force of speech equal to winter snows in abundance and onrush (12.10.64). "With him, then, no mortal will contend" (12.10.65), Quintilian goes on, translating 3.223.
 

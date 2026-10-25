@@ -31,7 +31,7 @@ She is the daughter of [[Eetion]], king of the [[Cilicians]] at [[Thebe]] under 
 
 Hector reminds his horses that Andromache fed them honey-sweet wheat and mixed wine for them before she served him, “who boast that I am her husband in my prime” (8.185–190). When he puts on Achilles' armor, Zeus pities him: Andromache will never take those arms from his hands (17.201–208).
 
-In Book 22 she is at her loom, with a bath heating for his return, when she hears the wailing from the tower; she runs to the wall, sees him dragged toward the ships, faints, and laments him and the orphan their son will be (22.437–515; see [[astyanax]]).
+In *Iliad* 22 she is at her loom, with a bath heating for his return, when she hears the wailing from the tower; she runs to the wall, sees him dragged toward the ships, faints, and laments him and the orphan their son will be (22.437–515; see [[astyanax]]).
 
 Over his body in the last book she leads the first of the three laments, holding his head, and foresees the sack of the city, her own captivity and her son's death (24.723–746; see [[the-laments-for-hector]]).
 

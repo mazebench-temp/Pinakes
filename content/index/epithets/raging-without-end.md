@@ -3,7 +3,7 @@ title: Raging without end
 greek: ἄμοτον μεμαώς
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: “Raging without end,” a phrase of unceasing fury in battle: of Strife in Books 4 and 5, of the Trojans and Hector at the ships, and of Hector waiting for Achilles before the gates.
+summary: “Raging without end,” a phrase of unceasing fury in battle: of Strife in *Iliad* 4 and 5, of the Trojans and Hector at the ships, and of Hector waiting for Achilles before the gates.
 aliases: [amoton memaos, raging unceasingly, eager without end]
 grc: ["ἄμοτον μεμα*"]
 en: [raging without end]
@@ -16,4 +16,4 @@ of: [strife, trojans, hector]
 
 ## Use
 
-The phrase first names Strife among the powers that drive the armies at their first meeting: “and Terror and Rout, and Strife, raging without end, / the sister and companion of man-slaying Ares” (4.440–441; [[strife]], [[rout]]). In Book 5 she is one of the three powers that have roused the toil of battle on the Trojan side, with Apollo and Ares: “and Ares, ruin of mortals, and Strife, raging without end” (5.517–518; [[ruin-of-mortals]]). In both places the phrase marks a power of war that is never at rest. Later books give it to men.
+The phrase first names Strife among the powers that drive the armies at their first meeting: “and Terror and Rout, and Strife, raging without end, / the sister and companion of man-slaying Ares” (4.440–441; [[strife]], [[rout]]). In *Iliad* 5 she is one of the three powers that have roused the toil of battle on the Trojan side, with Apollo and Ares: “and Ares, ruin of mortals, and Strife, raging without end” (5.517–518; [[ruin-of-mortals]]). In both places the phrase marks a power of war that is never at rest. Later books give it to men.

@@ -12,7 +12,7 @@ of: [horses]
 
 ## Meaning
 
-ὑψηχής is usually explained as ὕψι (“on high”) + ἠχή (“sound, noise”): “neighing loudly,” or “with a high-pitched neigh.” It occurs twice. Besides Book 5, the Myrmidons unyoke their high-neighing horses after driving three times round the body of Patroclus (Il. 23.13–27). Compare [[single-hoofed]], [[fine-maned]] and [[with-golden-headbands]].
+ὑψηχής is usually explained as ὕψι (“on high”) + ἠχή (“sound, noise”): “neighing loudly,” or “with a high-pitched neigh.” It occurs twice. Besides *Iliad* 5, the Myrmidons unyoke their high-neighing horses after driving three times round the body of Patroclus (Il. 23.13–27). Compare [[single-hoofed]], [[fine-maned]] and [[with-golden-headbands]].
 
 ## Use
 

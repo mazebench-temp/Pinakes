@@ -19,4 +19,4 @@ Hector ends his challenge with the words he imagines a sailor saying as he passe
 
 {{quote:49b62789-a319-5614-b469-0ea22b08bbda}}
 
-The tomb by the sea is built for the man who dies ([[broad-hellespont]], [[tomb]]), but the words that the men born hereafter will say belong to Hector: “my fame will never perish” (7.91; [[kleos]]). Helen said in Book 6 that Zeus had set an evil fate on her and Paris so that they might be a theme of song for men to come (6.357–358). Hector expects the same future audience to remember his victory. See [[tis-speech]] and [[hector]].
+The tomb by the sea is built for the man who dies ([[broad-hellespont]], [[tomb]]), but the words that the men born hereafter will say belong to Hector: “my fame will never perish” (7.91; [[kleos]]). Helen said in *Iliad* 6 that Zeus had set an evil fate on her and Paris so that they might be a theme of song for men to come (6.357–358). Hector expects the same future audience to remember his victory. See [[tis-speech]] and [[hector]].

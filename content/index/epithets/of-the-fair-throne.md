@@ -20,4 +20,4 @@ of: [eos]
 
 {{quote:571a0630-c99f-55ed-821c-0f311cd3e32c}}
 
-The last verses of the book. The first verse brought in saffron-robed Dawn and the day that Zeus gave the Trojans (8.1; [[saffron-robed]]); the last leaves the Trojans' horses standing by their chariots on the plain, eating white barley and spelt, as the horses that Pandarus left at home in Lycaon's halls do in Book 5 (5.192–196; [[white]]), and waiting for the next dawn. The night between lasts through Books 9 and 10, and the dawn that the horses wait for opens Book 11 (11.1–2). See [[eos]] and [[horses]].
+The last verses of the book. The first verse brought in saffron-robed Dawn and the day that Zeus gave the Trojans (8.1; [[saffron-robed]]); the last leaves the Trojans' horses standing by their chariots on the plain, eating white barley and spelt, as the horses that Pandarus left at home in Lycaon's halls do in *Iliad* 5 (5.192–196; [[white]]), and waiting for the next dawn. The night between lasts through Books 9 and 10, and the dawn that the horses wait for opens Book 11 (11.1–2). See [[eos]] and [[horses]].

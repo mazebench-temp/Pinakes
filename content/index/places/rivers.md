@@ -19,7 +19,7 @@ Rivers place peoples and towns. In the Catalogue men live “beside the shining 
 
 ## Gods
 
-A river is also a god. Agamemnon calls on Zeus, the Sun, “and rivers and earth” to witness the oaths of the duel (3.276–280; see [[oath]]). A river can found a family: Diocles' lineage was from the river Alpheus (5.544–545), and Menesthius was the son of “Spercheius, the river fallen from Zeus”, by Peleus' daughter Polydora (16.173–176; see [[alpheus]], [[spercheius]] and [[menesthius]]). The Trojan river is the eddying Xanthus, “whom immortal Zeus begot” (14.433–434). Rivers receive sacrifice: Nestor's Pylians offered a bull to Alpheus (11.726–728), and in later books Achilles mocks the Trojans for the bulls and live horses they gave to the Scamander (21.130–132), and cuts off the hair that Peleus had vowed to the Spercheius (23.141–151). When Zeus summons the gods to assembly in Book 20, no river stays away except Oceanus (20.7–9), and Oceanus is the source of them all, “from whom all rivers and all the sea and all springs and deep wells flow” (21.195–197; see [[oceanus]]).
+A river is also a god. Agamemnon calls on Zeus, the Sun, “and rivers and earth” to witness the oaths of the duel (3.276–280; see [[oath]]). A river can found a family: Diocles' lineage was from the river Alpheus (5.544–545), and Menesthius was the son of “Spercheius, the river fallen from Zeus”, by Peleus' daughter Polydora (16.173–176; see [[alpheus]], [[spercheius]] and [[menesthius]]). The Trojan river is the eddying Xanthus, “whom immortal Zeus begot” (14.433–434). Rivers receive sacrifice: Nestor's Pylians offered a bull to Alpheus (11.726–728), and in later books Achilles mocks the Trojans for the bulls and live horses they gave to the Scamander (21.130–132), and cuts off the hair that Peleus had vowed to the Spercheius (23.141–151). When Zeus summons the gods to assembly in *Iliad* 20, no river stays away except Oceanus (20.7–9), and Oceanus is the source of them all, “from whom all rivers and all the sea and all springs and deep wells flow” (21.195–197; see [[oceanus]]).
 
 ## In the similes
 
@@ -29,4 +29,4 @@ The river in the similes is force. Diomedes sweeps over the plain like a river i
 
 ## Outside Homer
 
-Hesiod gives the rivers a genealogy: Tethys bore them to Oceanus, the eddying Rivers, and he names twenty-five, among them the Nile, the Alpheus, the Maeander and the Peneius, and the rivers of Ida that Homer names in Book 12, the Rhesus, Heptaporus, Granicus, Aesepus, Rhodius, Simoeis and Scamander (*Theogony* 337–345).
+Hesiod gives the rivers a genealogy: Tethys bore them to Oceanus, the eddying Rivers, and he names twenty-five, among them the Nile, the Alpheus, the Maeander and the Peneius, and the rivers of Ida that Homer names in *Iliad* 12, the Rhesus, Heptaporus, Granicus, Aesepus, Rhodius, Simoeis and Scamander (*Theogony* 337–345).

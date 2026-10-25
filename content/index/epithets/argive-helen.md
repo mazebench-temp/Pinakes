@@ -16,7 +16,7 @@ of: [helen]
 
 ## Use
 
-In Book 2 the phrase comes twice in the same words. Hera tells Athena what the flight to the ships would mean:
+In *Iliad* 2 the phrase comes twice in the same words. Hera tells Athena what the flight to the ships would mean:
 
 {{quote:6b36d935-7107-53a4-a253-3a06aace538e}}
 

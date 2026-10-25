@@ -12,7 +12,7 @@ of: [hector, lycurgus]
 
 ## Meaning
 
-ἀνδροφόνος = ἀνήρ, ἀνδρ- (“man”) + -φόνος (“slaying,” from the root of φόνος, “killing”): “killer of men.” It is Hector's regular epithet in the genitive formula Ἕκτορος ἀνδροφόνοιο. It is also used of Ares, and of the hands of Achilles: when Priam kisses them in Book 24, they are the “terrible, man-slaying hands” that had killed many of his sons (Il. 24.478–479).
+ἀνδροφόνος = ἀνήρ, ἀνδρ- (“man”) + -φόνος (“slaying,” from the root of φόνος, “killing”): “killer of men.” It is Hector's regular epithet in the genitive formula Ἕκτορος ἀνδροφόνοιο. It is also used of Ares, and of the hands of Achilles: when Priam kisses them in *Iliad* 24, they are the “terrible, man-slaying hands” that had killed many of his sons (Il. 24.478–479).
 
 ## Use
 

@@ -17,7 +17,7 @@ passages:
 
 The word is rare in the Iliad and common in the Odyssey. There it is the defining vice of the suitors, and the gods go about in disguise to watch men's ὕβρις and their good order (*Odyssey* 17.487).
 
-Scholars disagree on where to put the weight. N. R. E. Fisher (*Hybris*, 1992) argued that its core is the deliberate infliction of dishonor. Douglas Cairns (1996) stressed the disposition behind the act, the habit of claiming too much honor for oneself. Book 1 shows both: a king who thinks himself above everyone, and the seizure of a prize that proves it.
+Scholars disagree on where to put the weight. N. R. E. Fisher (*Hybris*, 1992) argued that its core is the deliberate infliction of dishonor. Douglas Cairns (1996) stressed the disposition behind the act, the habit of claiming too much honor for oneself. *Iliad* 1 shows both: a king who thinks himself above everyone, and the seizure of a prize that proves it.
 
 ὑπεροπλίη (“arrogance”) is a rarer word, here in the plural: “acts of arrogance”. It is usually derived from ὑπέρ (“over”) and ὅπλα (“arms”), as if the overconfidence of a man who trusts in his strength.
 

@@ -3,7 +3,7 @@ title: Eniopeus
 greek: Ἠνιοπεύς
 kind: person
 tags: [trojan, companion, warrior]
-summary: Son of [[Thebaeus]] and Hector's charioteer, killed by the spear Diomedes threw at Hector, the first of the drivers Hector loses in Book 8 (8.118–126).
+summary: Son of [[Thebaeus]] and Hector's charioteer, killed by the spear Diomedes threw at Hector, the first of the drivers Hector loses in *Iliad* 8 (8.118–126).
 aliases: [Eniopeus son of Thebaeus]
 grc: [Ἠνιοπῆα]
 refs: [8.119, 8.121-126]

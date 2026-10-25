@@ -3,7 +3,7 @@ title: Waves of the Icarian Sea
 greek: φὴ κύματα μακρὰ θαλάσσης
 kind: simile
 tags: [sea, assembly]
-summary: When Agamemnon, testing the army, tells it to sail home, “the assembly was stirred like the long waves of the sea on the Icarian deep” (2.144–146). It is the first of three sea similes that frame the assembly of Book 2.
+summary: When Agamemnon, testing the army, tells it to sail home, “the assembly was stirred like the long waves of the sea on the Icarian deep” (2.144–146). It is the first of three sea similes that frame the assembly of *Iliad* 2.
 aliases: [like the long waves of the sea, the Icarian sea simile]
 grc: [φὴ κύματα μακρὰ θαλάσσης]
 en: [like the long waves]
@@ -28,4 +28,4 @@ This is the first of three sea similes in the assembly. The men come back like a
 
 At Iliad 14.499 Peneleos holds up the severed head of Ilioneus on his spear φὴ κώδειαν (“like a poppy head”).
 
-Two winds stir the sea again at the start of Book 9. The North Wind and the West Wind heap up the dark waves, and so grief tears at the Achaeans' hearts (9.4–8). In the assembly that follows, Agamemnon proposes flight once more, repeating 2.111–118 and 2.139–141, and this time he means it (9.17–28).
+Two winds stir the sea again at the start of *Iliad* 9. The North Wind and the West Wind heap up the dark waves, and so grief tears at the Achaeans' hearts (9.4–8). In the assembly that follows, Agamemnon proposes flight once more, repeating 2.111–118 and 2.139–141, and this time he means it (9.17–28).

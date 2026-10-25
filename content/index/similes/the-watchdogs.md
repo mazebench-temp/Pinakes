@@ -16,7 +16,7 @@ passages:
 
 {{quote:014b4795-e0fe-5b19-afde-91b73482c078}}
 
-ὡς δὲ κύνες περὶ μῆλα δυσωρήσωνται ἐν αὐλῇ: “as dogs keep a troubled watch around the sheep in a fold”. δυσωρέομαι occurs only here. It joins δυσ-, “hard, ill”, to the root of ὤρα, “care, heed”, which is also in θυραωροί, the dogs Priam reared to “guard my doors” (22.69). See the translation's note on 10.183. The αὐλή is the walled yard of a farmstead, where the flock is penned at night, the fold over whose wall the wounded lion of Book 5 leaps (5.138; see [[wounded-lion]]).
+ὡς δὲ κύνες περὶ μῆλα δυσωρήσωνται ἐν αὐλῇ: “as dogs keep a troubled watch around the sheep in a fold”. δυσωρέομαι occurs only here. It joins δυσ-, “hard, ill”, to the root of ὤρα, “care, heed”, which is also in θυραωροί, the dogs Priam reared to “guard my doors” (22.69). See the translation's note on 10.183. The αὐλή is the walled yard of a farmstead, where the flock is penned at night, the fold over whose wall the wounded lion of *Iliad* 5 leaps (5.138; see [[wounded-lion]]).
 
 The dogs do not see the danger; they hear it. θηρὸς ἀκούσαντες κρατερόφρονος, “when they hear a fierce-hearted beast”, coming down through the woods among the mountains. The beast is not named. Then the men are awake too: πολὺς δʼ ὀρυμαγδὸς ἐπʼ αὐτῷ / ἀνδρῶν ἠδὲ κυνῶν, “a great din rises against it of men and dogs”. ὀρυμαγδός is the din of battle, the word of the formula for armies meeting (πολὺς δʼ ὀρυμαγδὸς ὀρώρει, 4.449, 8.63), and the farm makes a battle noise against the beast. The vehicle ends on sleep, ἀπό τέ σφισιν ὕπνος ὄλωλεν, “and sleep is lost to them”, and the tenor takes up the same verb: ὣς τῶν νήδυμος ὕπνος ἀπὸ βλεφάροιιν ὀλώλει, “so sweet sleep was lost from their eyelids”.
 

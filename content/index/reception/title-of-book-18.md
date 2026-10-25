@@ -1,9 +1,9 @@
 ---
-title: The title of Book 18
+title: The title of Iliad 18
 greek: Ὁπλοποιία
 kind: note
 tags: [scholarship]
-summary: Book 18 is traditionally called Ὁπλοποιία, “the Making of the Arms”, and Strabo and Athenaeus already use the name for the passage in which Hephaestus forges the new armor of Achilles. The forging fills only the last third of the book. The title passes over the news of Patroclus' death, Achilles' choice, the shout from the ditch and the Trojan assembly, which the philosophers and orators quoted more often than the Shield.
+summary: Book 18 of the Iliad is traditionally called Ὁπλοποιία, “the Making of the Arms”, and Strabo and Athenaeus already use the name for the passage in which Hephaestus forges the new armor of Achilles. The forging fills only the last third of the book. The title passes over the news of Patroclus' death, Achilles' choice, the shout from the ditch and the Trojan assembly, which the philosophers and orators quoted more often than the Shield.
 source: Strabo, Geography 1.1.7; Athenaeus, Deipnosophistae 1.15d–e, 5.180c–f
 of: [the-making-of-the-arms, the-shield-of-achilles, hephaestus, title-of-book-17]
 refs: [18.409, 18.412, 18.614]
@@ -14,7 +14,7 @@ passages:
 
 {{quote:acc4d800-4cf5-5efc-b8f3-6c8bb6f5db31}}
 
-The traditional title of Book 18 is Ὁπλοποιία, “the Making of the Arms”. In the division of the poem into twenty-four books, each named by a letter, this one is Σ, sigma (see [[title-of-book-5]]). Thetis' visit to Hephaestus and the forging are told under [[the-making-of-the-arms]], and the Shield under [[the-shield-of-achilles]].
+The traditional title of *Iliad* 18 is Ὁπλοποιία, “the Making of the Arms”. In the division of the poem into twenty-four books, each named by a letter, this one is Σ, sigma (see [[title-of-book-5]]). Thetis' visit to Hephaestus and the forging are told under [[the-making-of-the-arms]], and the Shield under [[the-shield-of-achilles]].
 
 **The name.** The title is a compound of ὅπλα, “arms”, and ποιέω, “make”. It is not Homeric, and in later Greek it is a common word for the manufacture of arms: Strabo uses it of the Carthaginians, who in their last war with Rome set up an arms-making and turned out shields, swords and spears every day (*Geography* 17.3.15). In Homer ὅπλα is gear of any kind. In the Odyssey it is a ship's tackle (*Odyssey* 2.430, 12.410); in the Iliad it is the armor that Diomedes and Odysseus put on for their night raid (10.254, 10.272). In this book the word is used first of Hephaestus' tools, which he puts away when Thetis comes, “while I put away my bellows and all my tools” (18.409, 18.412–413), and then of his work: “And when the famous god, lame in both legs, had made all the armor” (πάνθʼ ὅπλα, 18.614). Achilles calls the gift by the same word when his mother brings it (19.21). The verb of the title is the narrator's for the Shield: ποίει, “And first he made a shield” (18.478), and ποίησε for the two cities, the herd and the pasture (18.490, 18.573, 18.587). Its partner is τεύχω, “On it he made the earth” (ἔτευξʼ, 18.483), the verb of the four lines that finish the shield and make the corselet, the helmet and the greaves (18.609–613).
 

@@ -11,7 +11,7 @@ en: [shameless stone]
 
 ## Meaning
 
-ἀναιδής = ἀ- (“not”) + αἰδώς (“respect, shame”; [[aidos]]): “without respect, shameless.” Achilles uses the same family of words against Agamemnon in Book 1: “you clothed in shamelessness” and “you utterly shameless one” ([[clothed-in-shamelessness]], [[utterly-shameless]], [[anaideia]]). Given to a stone, the word makes it a thing that respects nothing and spares no one, as the bronze is pitiless ([[pitiless-bronze]]). The phrase λᾶας ἀναιδής is used again in the Odyssey of the stone that Sisyphus pushes up the hill and that always rolls back down (Od. 11.598), and in Book 13 Hector charges like a boulder that a winter torrent has broken from a “shameless” rock (Il. 13.137–139).
+ἀναιδής = ἀ- (“not”) + αἰδώς (“respect, shame”; [[aidos]]): “without respect, shameless.” Achilles uses the same family of words against Agamemnon in *Iliad* 1: “you clothed in shamelessness” and “you utterly shameless one” ([[clothed-in-shamelessness]], [[utterly-shameless]], [[anaideia]]). Given to a stone, the word makes it a thing that respects nothing and spares no one, as the bronze is pitiless ([[pitiless-bronze]]). The phrase λᾶας ἀναιδής is used again in the Odyssey of the stone that Sisyphus pushes up the hill and that always rolls back down (Od. 11.598), and in *Iliad* 13 Hector charges like a boulder that a winter torrent has broken from a “shameless” rock (Il. 13.137–139).
 
 ## Use
 

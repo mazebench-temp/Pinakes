@@ -26,13 +26,13 @@ The priest's story closes where it began. Odysseus leads Chryseis to the altar, 
 
 ## Named for their fathers
 
-The captive women of Book 1 have no names of their own. Χρυσηΐς is “daughter of Chryses”, Βρισηΐς “daughter of Briseus”, and Achilles calls Briseis κούρη Βρισῆος, “the daughter of Briseus” (1.392). Briseus himself never appears.
+The captive women of *Iliad* 1 have no names of their own. Χρυσηΐς is “daughter of Chryses”, Βρισηΐς “daughter of Briseus”, and Achilles calls Briseis κούρη Βρισῆος, “the daughter of Briseus” (1.392). Briseus himself never appears.
 
 Among the gods the pattern recurs. Thetis is “daughter of the Old Man of the Sea” (1.538, 1.556) and hears her son's prayer while sitting “beside her aged father” in the depths (1.358). Achilles addresses Athena as “child of aegis-bearing Zeus” (1.202). Zeus is father of gods and men (1.544), and Hephaestus calls him “our dear father” (1.578).
 
 ## Agamemnon as father
 
-Agamemnon's own daughters appear only in Book 9. He offers Achilles any of the three, Chrysothemis, Laodice and Iphianassa, as a wife without bride-price (9.144–148). The man who would not give back a daughter for ransom offers a daughter for nothing. Homer never mentions the sacrifice of Iphigenia at Aulis, which the *Cypria* told (in Proclus' summary) and which the first choral song of Aeschylus' *Agamemnon* recalls. Ancient readers nevertheless heard an allusion to Aulis in Agamemnon's attack on Calchas as a “prophet of evils” (1.106; see [[calchas-evil-prophecies]]).
+Agamemnon's own daughters appear only in *Iliad* 9. He offers Achilles any of the three, Chrysothemis, Laodice and Iphianassa, as a wife without bride-price (9.144–148). The man who would not give back a daughter for ransom offers a daughter for nothing. Homer never mentions the sacrifice of Iphigenia at Aulis, which the *Cypria* told (in Proclus' summary) and which the first choral song of Aeschylus' *Agamemnon* recalls. Ancient readers nevertheless heard an allusion to Aulis in Agamemnon's attack on Calchas as a “prophet of evils” (1.106; see [[calchas-evil-prophecies]]).
 
 ## Related entries
 

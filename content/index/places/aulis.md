@@ -3,7 +3,7 @@ title: Aulis
 greek: Αὐλίς
 kind: place
 tags: [mainland-greece, sea, sanctuary, boeotia]
-summary: The harbor in Boeotia, on the narrow strait facing Euboea, where the Achaean fleet gathered before sailing to Troy. In Book 2 Odysseus reminds the army of the portent it saw there.
+summary: The harbor in Boeotia, on the narrow strait facing Euboea, where the Achaean fleet gathered before sailing to Troy. In *Iliad* 2 Odysseus reminds the army of the portent it saw there.
 aliases: [Avlida]
 grc: [Αὐλίδα]
 passages:
@@ -12,7 +12,7 @@ passages:
 
 {{quote:5ab0ffb0-0021-5e5f-ab73-0b2edf7dbc37}}
 
-Aulis is named twice in Book 2. After the army has been turned back from its rush to the ships, Odysseus reminds it of the day, "yesterday, it seems, or the day before", when the ships gathered at Aulis "bringing evils for Priam and the Trojans" (2.303–304). As they sacrificed at the altars around a spring, under a plane tree, a serpent darted from beneath an altar, ate eight sparrow chicks and their mother, and was turned to stone; Calchas read it as nine years of war and Troy taken in the tenth (2.305–330; see [[the-portent-at-aulis]]). Nestor adds the lightning Zeus flashed on the right as they embarked (2.350–353; see [[the-departure-from-aulis]]).
+Aulis is named twice in *Iliad* 2. After the army has been turned back from its rush to the ships, Odysseus reminds it of the day, "yesterday, it seems, or the day before", when the ships gathered at Aulis "bringing evils for Priam and the Trojans" (2.303–304). As they sacrificed at the altars around a spring, under a plane tree, a serpent darted from beneath an altar, ate eight sparrow chicks and their mother, and was turned to stone; Calchas read it as nine years of war and Troy taken in the tenth (2.305–330; see [[the-portent-at-aulis]]). Nestor adds the lightning Zeus flashed on the right as they embarked (2.350–353; see [[the-departure-from-aulis]]).
 
 In the Catalogue it is "rocky Aulis" (Αὐλίδα πετρήεσσαν; [[rocky]]), a town of the [[Boeotians]] named beside [[Hyria]] (2.496). That the fleet gathered on Boeotian soil is the simplest explanation of why the Boeotians come first.
 

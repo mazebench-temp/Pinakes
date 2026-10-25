@@ -3,7 +3,7 @@ title: Like a flame
 greek: φλογὶ εἴκελος
 kind: simile
 tags: [warfare, repetition]
-summary: “Like a flame”, a half-verse comparison for a fighter in his fury, given above all to Hector, in Book 13 and again in Books 17, 18 and 20. The Trojans follow him like a flame or a storm wind (13.39); Poseidon calls him the frenzied man who leads them “like a flame” (13.53); the Trojans see Idomeneus “like a flame in his courage” (13.330); and where Hector first broke in, by the ships of Ajax and Protesilaus, the Achaeans cannot push him, “like a flame”, away from them (13.687–688).
+summary: “Like a flame”, a half-verse comparison for a fighter in his fury, given above all to Hector, in *Iliad* 13 and again in Books 17, 18 and 20. The Trojans follow him like a flame or a storm wind (13.39); Poseidon calls him the frenzied man who leads them “like a flame” (13.53); the Trojans see Idomeneus “like a flame in his courage” (13.330); and where Hector first broke in, by the ships of Ajax and Protesilaus, the Achaeans cannot push him, “like a flame”, away from them (13.687–688).
 aliases: [like a flame in his courage, Hector like a flame, phlogi eikelos, like a flame or a storm wind]
 grc: ["φλογὶ ἶσοι", "φλογὶ εἴκελ*"]
 en: [like a flame]
@@ -18,7 +18,7 @@ of: [hector, idomeneus, trojans]
 
 The phrase belongs to Hector. Poseidon, in Calchas' likeness, fears most the place “where that frenzied man leads them, like a flame, Hector, who claims to be the son of mighty Zeus” (13.53–54; see [[frenzied]]). Where he holds on at the gate he broke, by the ships of Ajax and Protesilaus, the Boeotians, Ionians, Locrians, Phthians and Epeians “could not push away from them brilliant Hector, like a flame” (13.679–688; see [[hector]]). Once it is given to an Achaean: the Trojans see Idomeneus φλογὶ εἴκελον ἀλκήν, “like a flame in his courage”, with his attendant, and all come at him (13.330–332; see [[idomeneus]]). ἀλκήν limits the likeness, as in Idomeneus' other likeness, “like a boar in courage” (συῒ εἴκελος ἀλκήν, 4.253; see [[like-a-boar]] and [[alke]]).
 
-The flame is the Trojans' aim as well as their likeness. Hector has promised fire for the ships since Book 8 (8.180–182) and called for it as he broke the gate (12.440–441), and Menelaus says in this book that the Trojans are eager “to throw deadly fire” among them (13.628–629).
+The flame is the Trojans' aim as well as their likeness. Hector has promised fire for the ships since *Iliad* 8 (8.180–182) and called for it as he broke the gate (12.440–441), and Menelaus says in this book that the Trojans are eager “to throw deadly fire” among them (13.628–629).
 
 ## Elsewhere in Homer
 

@@ -14,7 +14,7 @@ of: [hephaestus]
 
 περικλυτός = περί (“exceedingly”) + κλυτός (“renowned”): “very famous.” ἀμφιγυήεις is harder. It contains ἀμφί (“on both sides”) and a form related to γυῖον (“limb”), but the meaning of the whole is disputed:
 
-- “Lame in both legs,” with limbs crooked on both sides. This fits the Homeric picture of Hephaestus. He calls himself χωλός, “lame,” in Book 18 (Il. 18.397), his thin legs move quickly beneath him as he walks (Il. 18.411), and in the Odyssey his lameness is part of his story (Od. 8.308, 8.332).
+- “Lame in both legs,” with limbs crooked on both sides. This fits the Homeric picture of Hephaestus. He calls himself χωλός, “lame,” in *Iliad* 18 (Il. 18.397), his thin legs move quickly beneath him as he walks (Il. 18.411), and in the Odyssey his lameness is part of his story (Od. 8.308, 8.332).
 - “Strong in both arms,” or “ambidextrous”: the smith with two skilled hands. Those who prefer this sense point out that the word praises, like the adjective beside it.
 
 The translation follows the first. In Homer the word belongs to Hephaestus alone, and the phrase περικλυτὸς ἀμφιγυήεις can stand in for his name, as here, with Ἥφαιστος following in the next verse.

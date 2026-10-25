@@ -3,7 +3,7 @@ title: “Not all of us other gods approve”
 greek: ἕρδʼ· ἀτὰρ οὔ τοι πάντες ἐπαινέομεν θεοὶ ἄλλοι
 kind: saying
 tags: [divine-scene, divine-will]
-summary: A goddess's answer when Zeus proposes to go against the others: “Do it; but not all of us other gods approve.” Hera says it when Zeus proposes peace in Book 4, and again when he would save Sarpedon; Athena says it when he would save Hector.
+summary: A goddess's answer when Zeus proposes to go against the others: “Do it; but not all of us other gods approve.” Hera says it when Zeus proposes peace in *Iliad* 4, and again when he would save Sarpedon; Athena says it when he would save Hector.
 aliases: [not all the gods approve, do it, but we do not all approve]
 grc: ["οὔ τοι πάντες ἐπαινέομεν θεοὶ ἄλλοι"]
 en: [not all of us other gods approve]

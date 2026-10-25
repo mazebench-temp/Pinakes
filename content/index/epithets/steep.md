@@ -19,7 +19,7 @@ The Catalogue also has a town called Αἰπύ, “the steep,” in Nestor's kin
 
 ## Use
 
-Book 2 uses the words six times, mostly of the high places of the Catalogues. The steep citadel of Dium in Euboea ({{ref:Iliad 2.538}}), steep Gonoessa in Agamemnon's realm ({{ref:Iliad 2.573}}), and “the steep mountain of Cyllene” in Arcadia:
+*Iliad* 2 uses the words six times, mostly of the high places of the Catalogues. The steep citadel of Dium in Euboea ({{ref:Iliad 2.538}}), steep Gonoessa in Agamemnon's realm ({{ref:Iliad 2.573}}), and “the steep mountain of Cyllene” in Arcadia:
 
 {{quote:14e1d256-fa57-5a60-b035-44f109758d3a}}
 

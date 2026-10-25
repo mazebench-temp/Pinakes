@@ -12,7 +12,7 @@ of: [troy]
 
 ## Meaning
 
-εὐτείχεος = εὖ (“well”) + τεῖχος (“wall”): “well-walled.” Poseidon built the walls of Troy for King Laomedon. In Book 7 he says that he and Apollo built them together (Il. 7.452–453); in Book 21 he says that he built the wall while Apollo herded Laomedon's cattle on Ida (Il. 21.446–449). See [[the-walls-of-troy]]. The walls are the city's defense throughout the war.
+εὐτείχεος = εὖ (“well”) + τεῖχος (“wall”): “well-walled.” Poseidon built the walls of Troy for King Laomedon. In *Iliad* 7 he says that he and Apollo built them together (Il. 7.452–453); in Book 21 he says that he built the wall while Apollo herded Laomedon's cattle on Ida (Il. 21.446–449). See [[the-walls-of-troy]]. The walls are the city's defense throughout the war.
 
 ## Use
 

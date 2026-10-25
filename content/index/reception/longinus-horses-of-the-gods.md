@@ -12,7 +12,7 @@ passages:
 
 {{quote:837f0dd8-6ebf-59c0-8d6d-9d52d06dd509}}
 
-The first and greatest source of the sublime, says the author of *On the Sublime*, is the power to conceive great thoughts, and he finds it above all in Homer (9.1–4; see [[longinus-strife]]). After Strife, whose head reaches the sky, he takes an example from Book 5. Hera and Athena have set out from Olympus to stop Ares, and the poet measures the stride of their horses. As far as a man sees into the haze as he sits on a lookout, gazing over the wine-dark sea, “so far do the high-neighing horses of the gods leap at a bound” (5.770–772).
+The first and greatest source of the sublime, says the author of *On the Sublime*, is the power to conceive great thoughts, and he finds it above all in Homer (9.1–4; see [[longinus-strife]]). After Strife, whose head reaches the sky, he takes an example from *Iliad* 5. Hera and Athena have set out from Olympus to stop Ares, and the poet measures the stride of their horses. As far as a man sees into the haze as he sits on a lookout, gazing over the wine-dark sea, “so far do the high-neighing horses of the gods leap at a bound” (5.770–772).
 
 “He measures their onset by a cosmic interval,” the critic comments. Who, at so great an excess of magnitude, would not rightly exclaim that if the horses of the gods take two such leaps in a row, they will no longer find room in the world? (9.5).
 

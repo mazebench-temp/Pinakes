@@ -55,7 +55,7 @@ He built a house for each of the gods on Olympus (1.606–608), Hera's chamber w
 
 ## Mythology
 
-Homer tells two falls of Hephaestus from heaven. In Book 1 Zeus seized him by the foot and threw him from the threshold of heaven when he tried to defend his mother, and he fell all day and came down on Lemnos at sunset, where the Sintians cared for him (1.590–594; see [[lemnos]] and [[sintians]]). In Book 18 he says that his mother wished to hide him away because he was lame, and that Thetis and Eurynome, daughter of Oceanus, took him in and kept him hidden for nine years in a cave by the stream of Oceanus, where he made jewelry for them (18.394–405; see [[thetis]] and [[eurynome]]). See [[fall-of-hephaestus]]. Lemnos is “dearest to him of all lands” in the Odyssey (*Odyssey* 8.283–284).
+Homer tells two falls of Hephaestus from heaven. In *Iliad* 1 Zeus seized him by the foot and threw him from the threshold of heaven when he tried to defend his mother, and he fell all day and came down on Lemnos at sunset, where the Sintians cared for him (1.590–594; see [[lemnos]] and [[sintians]]). In Book 18 he says that his mother wished to hide him away because he was lame, and that Thetis and Eurynome, daughter of Oceanus, took him in and kept him hidden for nine years in a cave by the stream of Oceanus, where he made jewelry for them (18.394–405; see [[thetis]] and [[eurynome]]). See [[fall-of-hephaestus]]. Lemnos is “dearest to him of all lands” in the Odyssey (*Odyssey* 8.283–284).
 
 ## Outside Homer
 

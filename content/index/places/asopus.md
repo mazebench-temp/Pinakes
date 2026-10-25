@@ -10,7 +10,7 @@ grc: [Ἀσωπ*]
 
 {{quote:bfcb865f-91e4-5537-a0fa-1b406d79def6}}
 
-βαθύσχοινος (“deep in rushes”; [[deep-in-rushes]]) and λεχεποίης (“with grassy meadows”; [[with-grassy-meadows]]): a river of reeds and meadows. The army of Tydeus' generation, whom Agamemnon calls “the Achaeans”, came to the Asopus on its march against Thebes and sent Tydeus on from there as envoy (4.382–384; see [[tydeus]]). Diomedes recalls the same moment in his prayer to Athena in Book 10: his father left the bronze-armored Achaeans by the Asopus and carried a gentle message to the Cadmeians (10.284–290).
+βαθύσχοινος (“deep in rushes”; [[deep-in-rushes]]) and λεχεποίης (“with grassy meadows”; [[with-grassy-meadows]]): a river of reeds and meadows. The army of Tydeus' generation, whom Agamemnon calls “the Achaeans”, came to the Asopus on its march against Thebes and sent Tydeus on from there as envoy (4.382–384; see [[tydeus]]). Diomedes recalls the same moment in his prayer to Athena in *Iliad* 10: his father left the bronze-armored Achaeans by the Asopus and carried a gentle message to the Cadmeians (10.284–290).
 
 The river is also a god. The Odyssey calls Antiope, the mother of Amphion and Zethus, who founded Thebes, a daughter of Asopus (Od. 11.260–265). See [[thebes]].
 

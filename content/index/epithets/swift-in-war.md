@@ -11,7 +11,7 @@ en: [swift in war]
 
 ## Meaning
 
-ἀρηΐθοος = Ἄρης (“war,” the war god; [[ares]]) + θοός (“swift”; [[swift]]): “swift in war.” The compound is also a name: Areithous, the mace-man killed by Lycurgus, whose son Menesthius is killed by Paris in Book 7 (7.8–10, 7.137–149; [[areithous]]), and a charioteer killed by Achilles (20.487–489). The name keeps its capital, and the pattern of the adjective takes only the lowercase form.
+ἀρηΐθοος = Ἄρης (“war,” the war god; [[ares]]) + θοός (“swift”; [[swift]]): “swift in war.” The compound is also a name: Areithous, the mace-man killed by Lycurgus, whose son Menesthius is killed by Paris in *Iliad* 7 (7.8–10, 7.137–149; [[areithous]]), and a charioteer killed by Achilles (20.487–489). The name keeps its capital, and the pattern of the adjective takes only the lowercase form.
 
 As an adjective it occurs only in the genitive plural, with αἰζηοί (“young men in their prime”), at the end of the verse, three times in the Iliad. Twice it describes the men in whose flesh missiles are fixed: Teucer's arrows here, and the spears thrown on both sides in Book 15, as Apollo leads the Trojans forward with the aegis (15.306–317). The third use is in a simile: Achilles goes out against Aeneas like a lion that pays no heed to the hunters until one of the young men “swift in war” strikes him with a spear (20.164–173).
 

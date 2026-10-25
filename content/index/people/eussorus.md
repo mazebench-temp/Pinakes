@@ -3,7 +3,7 @@ title: Eussorus
 greek: Ἐΰσσωρος
 kind: person
 tags: [thracian, thrace]
-summary: A Thracian, the father of [[acamas-of-thrace|Acamas]], the leader of the Thracians whom Telamonian Ajax kills at the start of Book 6 (6.8). He is named only here.
+summary: A Thracian, the father of [[acamas-of-thrace|Acamas]], the leader of the Thracians whom Telamonian Ajax kills at the start of *Iliad* 6 (6.8). He is named only here.
 aliases: [Eussoros]
 grc: [Ἐϋσσώρου]
 relations:

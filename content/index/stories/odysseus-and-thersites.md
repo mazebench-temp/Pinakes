@@ -28,7 +28,7 @@ He is most hateful to Achilles and Odysseus, whom he is always abusing, but now 
 
 ## In the poem
 
-Thersites says what Achilles said in Book 1, and much of it in Achilles' words: the king's greed, the unequal shares, the prize taken from a better man. Two of his lines are Achilles' own lines (2.240 = 1.356; 2.242 = 1.232). Spoken by the best of the Achaeans, the charges broke up the army's unity. Spoken by the ugliest man who came to Ilios, they make the army laugh. The narrator's verdict comes before a word is spoken: his words are ἄκοσμα, “disorderly”, and οὐ κατὰ κόσμον, “against all order”.
+Thersites says what Achilles said in *Iliad* 1, and much of it in Achilles' words: the king's greed, the unequal shares, the prize taken from a better man. Two of his lines are Achilles' own lines (2.240 = 1.356; 2.242 = 1.232). Spoken by the best of the Achaeans, the charges broke up the army's unity. Spoken by the ugliest man who came to Ilios, they make the army laugh. The narrator's verdict comes before a word is spoken: his words are ἄκοσμα, “disorderly”, and οὐ κατὰ κόσμον, “against all order”.
 
 The episode ends the crisis of the test (see [[the-test-of-the-army]]). The men are “troubled” (ἀχνύμενοι), since the homecoming they ran for is gone, but they laugh together, and the anonymous voice of the crowd praises Odysseus (see [[tis-speech]]). He then rises with the scepter to speak, and the army listens.
 

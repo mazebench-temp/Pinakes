@@ -22,17 +22,17 @@ passages:
 
 ## Etymology
 
-Πουλυδάμας joins πουλύς, the epic form of πολύς, “much”, to the stem of δάμνημι, “tame, subdue”: “subduer of many”. Two other Trojans of Book 11 have names in -δάμας, [[Iphidamas]] and [[Chersidamas]].
+Πουλυδάμας joins πουλύς, the epic form of πολύς, “much”, to the stem of δάμνημι, “tame, subdue”: “subduer of many”. Two other Trojans of *Iliad* 11 have names in -δάμας, [[Iphidamas]] and [[Chersidamas]].
 
 ## Family
 
-He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers [[euphorbus|Euphorbus]] and [[hyperenor|Hyperenor]] are killed by Menelaus (14.516–519, 17.9–60). Book 18 joins him to Hector: “he was Hector's companion, and they were born in the same night, / but the one excelled far in words, the other with the spear” (18.251–252).
+He is Πανθοΐδης, “son of Panthous” (13.756, 14.450, 16.535, 18.250), one of the elders who sit with Priam at the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). His brothers [[euphorbus|Euphorbus]] and [[hyperenor|Hyperenor]] are killed by Menelaus (14.516–519, 17.9–60). *Iliad* 18 joins him to Hector: “he was Hector's companion, and they were born in the same night, / but the one excelled far in words, the other with the spear” (18.251–252).
 
 {{quote:db8becb5-44a5-501a-a44b-6235a49d9ddc}}
 
 ## In Homer
 
-**First named.** He enters the poem in Book 11, in the list of the Trojan leaders on the rise of the plain, where he stands next to Hector (11.57). His epithet there, ἀμύμων, “noble”, stays with him (12.88, 13.790, 14.469; see [[blameless]]). Book 11 gives him nothing more to do.
+**First named.** He enters the poem in *Iliad* 11, in the list of the Trojan leaders on the rise of the plain, where he stands next to Hector (11.57). His epithet there, ἀμύμων, “noble”, stays with him (12.88, 13.790, 14.469; see [[blameless]]). Book 11 gives him nothing more to do.
 
 **Four counsels.** Three times a verse brings him to Hector's side: “Then Polydamas came and stood beside bold Hector and said” (12.60, 12.210, 13.725), and once more he speaks in assembly (18.249). At the ditch he advises leaving the chariots and going against the wall on foot, and the plan pleases Hector, who leaps down at once (12.60–81). All but Asius obey “the counsel of blameless Polydamas” (12.108–115; see [[asius]] and [[the-achaean-wall]]). When an eagle flying on the left drops a blood-red serpent among the Trojans, he reads it as a sign that they will not come back from the ships in good order, and complains that Hector always rebukes him in assembly when he speaks well (12.200–229; see [[divination]] and [[birds]]). Hector, looking darkly at him, answers in the words with which Paris rejected Antenor's advice (12.231–234 = 7.357–360), refuses to obey birds against the promises of Zeus, and threatens to kill him (12.230–250): “One omen is best: to fight in defense of our native land” (12.243). At the ships Polydamas tells Hector that a god gives one man the works of war and another a good mind (13.726–734), and urges him to call the best men to council, since “a man insatiable of war”, Achilles, still waits by the ships (13.735–747). This time Hector agrees (13.748–753).
 

@@ -18,7 +18,7 @@ The vocative opens a whole line of abuse, and every word of it is an insult:
 
 {{quote:450c586e-307a-5d7b-8b64-fee70366ca71}}
 
-εἶδος ἄριστε, “best in looks” ([[best-in-looks]]); γυναιμανές, “mad for women,” a word found only in this line; ἠπεροπευτά, “deceiver, seducer,” from ἠπεροπεύω (“beguile”). Hector speaks the same verse again when he rebukes Paris in Book 13 (Il. 13.769).
+εἶδος ἄριστε, “best in looks” ([[best-in-looks]]); γυναιμανές, “mad for women,” a word found only in this line; ἠπεροπευτά, “deceiver, seducer,” from ἠπεροπεύω (“beguile”). Hector speaks the same verse again when he rebukes Paris in *Iliad* 13 (Il. 13.769).
 
 ## Use
 

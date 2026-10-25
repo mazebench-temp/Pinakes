@@ -28,7 +28,7 @@ passages:
 
 {{quote:34021398-91b1-54ae-9cf7-9fdeddb4aa7c}}
 
-Book 2 shows how the kings are to be handled, and how they differ from the rest. When the army runs for the ships, [[Odysseus]] stops each king or “man of note” with gentle words and an argument: Agamemnon is only testing them, and a king's anger is to be feared. The man of the people he strikes with the scepter and orders to sit (2.198–206; see [[commoners]]). His conclusion is the Iliad's most famous line on kingship: “We Achaeans shall not all be kings here … let there be one ruler, one king” (2.203–205; see [[one-ruler]] and [[koiranos]]).
+*Iliad* 2 shows how the kings are to be handled, and how they differ from the rest. When the army runs for the ships, [[Odysseus]] stops each king or “man of note” with gentle words and an argument: Agamemnon is only testing them, and a king's anger is to be feared. The man of the people he strikes with the scepter and orders to sit (2.198–206; see [[commoners]]). His conclusion is the Iliad's most famous line on kingship: “We Achaeans shall not all be kings here … let there be one ruler, one king” (2.203–205; see [[one-ruler]] and [[koiranos]]).
 
 The kings are also the target of [[Thersites]], who is “quarreling with the kings” (ἐριζέμεναι βασιλεῦσιν, 2.214) until Odysseus beats him. The army's comment is that he will not soon “rail at the kings” again (2.277). See [[kingship-and-authority]].
 

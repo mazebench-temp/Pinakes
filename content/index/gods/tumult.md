@@ -19,7 +19,7 @@ grc: ["^Κυδοιμ*"]
 
 When Hector charges with Ares at his side, “lady Enyo” leads the Trojans too, ἣ μὲν ἔχουσα Κυδοιμὸν ἀναιδέα δηϊοτῆτος, “she bringing with her Tumult, shameless in combat” (5.593; see [[enyo]]). ἔχουσα is literally “holding, having”; how she holds him is not said. ἀναιδής, “shameless”, is the lack of αἰδώς, the regard that restrains (see [[anaideia]]); the first battle had its “shameless stone” (4.521; see [[shameless-stone]]).
 
-He appears once more, among the figures worked on the shield of Achilles, in the scene of the city at war: “And among them Strife and Tumult were in the throng, and deadly Doom” (18.535; see [[strife]]). With Rout, Strife, Courage and Onslaught, who are set on Athena's aegis later in Book 5 (5.739–740; see [[rout]], [[courage]] and [[onslaught]]), he belongs to a small company of battle powers that Homer names but does not describe.
+He appears once more, among the figures worked on the shield of Achilles, in the scene of the city at war: “And among them Strife and Tumult were in the throng, and deadly Doom” (18.535; see [[strife]]). With Rout, Strife, Courage and Onslaught, who are set on Athena's aegis later in *Iliad* 5 (5.739–740; see [[rout]], [[courage]] and [[onslaught]]), he belongs to a small company of battle powers that Homer names but does not describe.
 
 ## Outside Homer
 

@@ -16,7 +16,7 @@ of: [onchestus, eurypylus, pandarus, nastes, amphimachus-of-caria]
 
 ## Use
 
-Book 2 uses it for a spring, a sanctuary, and three pairs of father and son.
+*Iliad* 2 uses it for a spring, a sanctuary, and three pairs of father and son.
 
 At Aulis the sacrifice that brought the portent was offered “beneath a fine plane tree, where bright water flowed”:
 

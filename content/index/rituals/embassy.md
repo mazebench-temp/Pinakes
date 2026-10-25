@@ -26,7 +26,7 @@ passages:
 
 **Menelaus and Odysseus at Troy.** Before the war, the two came to demand Helen. They stayed in Antenor's house as his guests, and spoke in the Trojan assembly (3.205–224). The Trojans refused, and Antimachus urged that Menelaus be killed then and there and not allowed to go back (11.138–142). See [[the-embassy-to-troy]].
 
-**The embassy to Achilles.** In Book 9 Nestor chooses Phoenix, Ajax and Odysseus, with the heralds Odius and Eurybates, to carry Agamemnon's offer to Achilles (9.168–170): an embassy inside the army, to a man who has withdrawn from it.
+**The embassy to Achilles.** In *Iliad* 9 Nestor chooses Phoenix, Ajax and Odysseus, with the heralds Odius and Eurybates, to carry Agamemnon's offer to Achilles (9.168–170): an embassy inside the army, to a man who has withdrawn from it.
 
 ## The envoy's safety
 

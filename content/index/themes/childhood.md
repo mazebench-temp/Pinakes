@@ -19,7 +19,7 @@ To rear a child is a debt that the child repays. Simoeisius died young and “di
 
 ## Children seen
 
-The one child the poem shows in its action is Hector's son, in Book 6. A handmaid carries him, “an infant of tender mind, quite small, the beloved son of Hector, like a lovely star” (6.399–401); when his father reaches for him, he shrinks back crying into his nurse's bosom, frightened by the bronze and the nodding plume, and his father and mother laugh (6.466–471; see [[hector-and-andromache]]). Hector takes off his helmet, kisses the boy and prays that he may be better than his father (6.472–481).
+The one child the poem shows in its action is Hector's son, in *Iliad* 6. A handmaid carries him, “an infant of tender mind, quite small, the beloved son of Hector, like a lovely star” (6.399–401); when his father reaches for him, he shrinks back crying into his nurse's bosom, frightened by the bronze and the nodding plume, and his father and mother laugh (6.466–471; see [[hector-and-andromache]]). Hector takes off his helmet, kisses the boy and prays that he may be better than his father (6.472–481).
 
 ## Children in the similes
 

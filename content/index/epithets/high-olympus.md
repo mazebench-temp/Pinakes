@@ -18,4 +18,4 @@ of: [olympus]
 
 {{quote:87169d11-5c2f-5892-b992-990e050a900e}}
 
-Thetis summoned the Hundred-Hander “to high Olympus” to protect Zeus ([[hundred-handed]], [[binding-of-zeus]]). Elsewhere in Book 1 the mountain is “great” when the nod of Zeus shakes it (μέγαν δ’ ἐλέλιξεν Ὄλυμπον, {{ref:Iliad 1.530}}), and its “peaks” (Οὐλύμποιο καρήνων, {{ref:Iliad 1.44}}) are where Apollo sets out from in anger. See also [[snowy-olympus]].
+Thetis summoned the Hundred-Hander “to high Olympus” to protect Zeus ([[hundred-handed]], [[binding-of-zeus]]). Elsewhere in *Iliad* 1 the mountain is “great” when the nod of Zeus shakes it (μέγαν δ’ ἐλέλιξεν Ὄλυμπον, {{ref:Iliad 1.530}}), and its “peaks” (Οὐλύμποιο καρήνων, {{ref:Iliad 1.44}}) are where Apollo sets out from in anger. See also [[snowy-olympus]].

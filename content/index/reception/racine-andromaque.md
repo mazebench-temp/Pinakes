@@ -22,6 +22,6 @@ His Andromaque lives by her memories of Troy, and the dearest is the scene at th
 > Je te laisse mon fils pour gage de ma foi:
 > S'il me perd, je prétends qu'il me retrouve en toi.
 
-“I do not know what success fate holds for my arms; I leave you my son as the pledge of my faith: if he loses me, I mean him to find me again in you” (act 3, scene 8). Racine joins the farewell of Book 6 to the day of Hector's death in Book 22. In Homer, Hector prays for his son to the gods and gives him back to his wife, and pities her as she laughs through her tears (6.476–485).
+“I do not know what success fate holds for my arms; I leave you my son as the pledge of my faith: if he loses me, I mean him to find me again in you” (act 3, scene 8). Racine joins the farewell of *Iliad* 6 to the day of Hector's death in Book 22. In Homer, Hector prays for his son to the gods and gives him back to his wife, and pities her as she laughs through her tears (6.476–485).
 
 See [[andromache]], [[astyanax]] and [[racine]].

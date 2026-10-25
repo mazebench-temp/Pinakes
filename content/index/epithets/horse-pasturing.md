@@ -18,4 +18,4 @@ of: [argos]
 
 {{quote:6829645b-0fe0-5f11-82d9-60928be5bbb3}}
 
-Odysseus reminds Agamemnon of the army's promise, made as they set out from horse-pasturing Argos, not to go home until Troy was sacked. The epithet recalls the home they left. Argos here has its wide sense, the land of the Achaeans ([[argos]]). The same half-line, ἀπ’ Ἄργεος ἱπποβότοιο, returns in Book 19, when Achilles says he had hoped that he alone would die at Troy, “far from horse-pasturing Argos” (Il. 19.329).
+Odysseus reminds Agamemnon of the army's promise, made as they set out from horse-pasturing Argos, not to go home until Troy was sacked. The epithet recalls the home they left. Argos here has its wide sense, the land of the Achaeans ([[argos]]). The same half-line, ἀπ’ Ἄργεος ἱπποβότοιο, returns in *Iliad* 19, when Achilles says he had hoped that he alone would die at Troy, “far from horse-pasturing Argos” (Il. 19.329).

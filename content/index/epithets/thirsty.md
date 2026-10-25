@@ -18,7 +18,7 @@ of: [argos]
 
 {{quote:719ed7ea-d038-510b-a1f2-232977859441}}
 
-Agamemnon's lament over his wounded brother turns to what would follow his death. The army would remember home ([[dear-native-land]]), the war would be given up, and Helen would be left to the Trojans as a thing to boast of ([[argive-helen]]). He pictures himself arriving “in utter disgrace” (ἐλέγχιστος) in a parched land. The Argos of the epithet is his own kingdom ([[argos]], [[agamemnon]]). In Book 2 he proposed the voyage home to test the army; here he fears it in earnest.
+Agamemnon's lament over his wounded brother turns to what would follow his death. The army would remember home ([[dear-native-land]]), the war would be given up, and Helen would be left to the Trojans as a thing to boast of ([[argive-helen]]). He pictures himself arriving “in utter disgrace” (ἐλέγχιστος) in a parched land. The Argos of the epithet is his own kingdom ([[argos]], [[agamemnon]]). In *Iliad* 2 he proposed the voyage home to test the army; here he fears it in earnest.
 
 ## Outside Homer
 

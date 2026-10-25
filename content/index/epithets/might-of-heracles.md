@@ -16,7 +16,7 @@ of: [heracles]
 
 ## Use
 
-The two uses in Book 2 frame the story of Tlepolemus, Heracles' son. His mother Astyocheia bore him “to the mighty Heracles” ({{ref:Iliad 2.658}}). When he was grown he killed his father's uncle and had to flee:
+The two uses in *Iliad* 2 frame the story of Tlepolemus, Heracles' son. His mother Astyocheia bore him “to the mighty Heracles” ({{ref:Iliad 2.658}}). When he was grown he killed his father's uncle and had to flee:
 
 {{quote:701b6af0-4570-56fc-86ed-2e39efc29a71}}
 

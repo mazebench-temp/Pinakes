@@ -21,4 +21,4 @@ passages:
 
 Τληπόλεμόν τε Δαμαστορίδην, “Tlepolemus, son of Damastor” (16.416), opens the second verse of the list of nine men whom Patroclus kills one after another, with no blow told (16.415–418; see [[erymas-killed-by-patroclus]] and [[patroclus]]). With Polymelus, son of Argeas, he is one of the two in the list who are given a father (see [[damastor]] and [[polymelus]]).
 
-The patronymic sets him apart from the Rhodian Tlepolemus, son of Heracles, who led nine ships to Troy and was killed by Sarpedon in Book 5 (2.653–670, 5.628–662; see [[tlepolemus]]). He is named only here.
+The patronymic sets him apart from the Rhodian Tlepolemus, son of Heracles, who led nine ships to Troy and was killed by Sarpedon in *Iliad* 5 (2.653–670, 5.628–662; see [[tlepolemus]]). He is named only here.

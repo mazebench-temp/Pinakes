@@ -17,7 +17,7 @@ passages:
 
 ## Healers
 
-Homer's healers treat wounds. Sickness comes from the gods, and the plague of Book 1 is Apollo's arrows, ended by the return of Chryseis, purification and sacrifice (see [[plague-and-purification]]). The healer, ἰητήρ or ἰητρός, is a man of skill. [[Asclepius]] is “the noble healer” (ἀμύμονος ἰητῆρος, 4.194), a mortal in Homer, and his sons [[Machaon]] and [[Podalirius]], who lead the men of Tricca, Ithome and Oechalia, are “good healers” (2.731–732). The gods have a healer of their own, Paieon, who spreads pain-killing drugs on the wounds of Hades and of Ares (5.401–402, 5.899–901). In the Odyssey the healer is one of the craftsmen whom a community will invite from abroad, with the seer, the builder and the singer (Odyssey 17.382–385), and Egypt is the land where every man is a healer, “of the race of Paieon” (Odyssey 4.231–232).
+Homer's healers treat wounds. Sickness comes from the gods, and the plague of *Iliad* 1 is Apollo's arrows, ended by the return of Chryseis, purification and sacrifice (see [[plague-and-purification]]). The healer, ἰητήρ or ἰητρός, is a man of skill. [[Asclepius]] is “the noble healer” (ἀμύμονος ἰητῆρος, 4.194), a mortal in Homer, and his sons [[Machaon]] and [[Podalirius]], who lead the men of Tricca, Ithome and Oechalia, are “good healers” (2.731–732). The gods have a healer of their own, Paieon, who spreads pain-killing drugs on the wounds of Hades and of Ares (5.401–402, 5.899–901). In the Odyssey the healer is one of the craftsmen whom a community will invite from abroad, with the seer, the builder and the singer (Odyssey 17.382–385), and Egypt is the land where every man is a healer, “of the race of Paieon” (Odyssey 4.231–232).
 
 ## The treatment
 
@@ -30,7 +30,7 @@ The Iliad describes the work in detail twice, when Machaon heals Menelaus (4.188
 
 The sons of Autolycus bind up the young Odysseus' boar wound and stop the black blood with a charm (ἐπαοιδή, Odyssey 19.457–458). There is no such charm in the Iliad.
 
-In Book 4 the healing answers the wound in its own words. The arrow was “a source of black pains” (μελαινέων ἕρμʼ ὀδυνάων, 4.117), and the drugs will “stop the black pains” (παύσῃσι μελαινάων ὀδυνάων, 4.191). The healer is fetched by a herald, as a leader would be (4.192–209; see [[messenger-scene]]). He works while the best men stand round in a circle (4.210–212), and while “they were busy about Menelaus” the Trojan ranks come on (4.220–221). His drugs came to his father from [[Chiron]], “in friendship” (4.219).
+In *Iliad* 4 the healing answers the wound in its own words. The arrow was “a source of black pains” (μελαινέων ἕρμʼ ὀδυνάων, 4.117), and the drugs will “stop the black pains” (παύσῃσι μελαινάων ὀδυνάων, 4.191). The healer is fetched by a herald, as a leader would be (4.192–209; see [[messenger-scene]]). He works while the best men stand round in a circle (4.210–212), and while “they were busy about Menelaus” the Trojan ranks come on (4.220–221). His drugs came to his father from [[Chiron]], “in friendship” (4.219).
 
 ## Outside Homer
 

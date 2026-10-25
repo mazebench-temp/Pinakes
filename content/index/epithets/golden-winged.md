@@ -14,7 +14,7 @@ of: [iris]
 
 χρυσόπτερος = χρυσός (“gold”) + πτερόν (“feather, wing”): “with wings of gold.” Gold is the metal of the gods and of their things: Zeus' armor, whip and scales in this book are gold (8.43–44, 8.69), and Hera's horses wear golden headbands (8.382; [[with-golden-headbands]]). Iris is the only god in Homer whose wings are named in an epithet. Her other epithets are of speed: [[wind-footed]], [[storm-footed]], [[swift-iris]], and πόδας ὠκέα, “swift-footed” ([[swift-footed]]).
 
-The verse Ἶριν δʼ ὄτρυνε χρυσόπτερον ἀγγελέουσαν, “he urged on golden-winged Iris to carry a message,” occurs twice, both times when Zeus is sitting on Ida: here, and in Book 11, when he sends her to tell Hector to hold back from the fighting until Agamemnon is wounded (11.181–194).
+The verse Ἶριν δʼ ὄτρυνε χρυσόπτερον ἀγγελέουσαν, “he urged on golden-winged Iris to carry a message,” occurs twice, both times when Zeus is sitting on Ida: here, and in *Iliad* 11, when he sends her to tell Hector to hold back from the fighting until Agamemnon is wounded (11.181–194).
 
 ## Use
 

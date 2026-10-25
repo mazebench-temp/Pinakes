@@ -22,7 +22,7 @@ passages:
 
 {{quote:523fef7e-1e66-53ec-8643-dab33e11e5f5}}
 
-When Agamemnon sacrifices before the first battle, the elders are [[Nestor]], [[Idomeneus]], the two Ajaxes ([[ajax]] and [[ajax-son-of-oileus]]), [[Diomedes]] and [[Odysseus]], with [[Menelaus]], who comes without being called. Three of them, Ajax, Idomeneus and Odysseus, are the men Agamemnon named in Book 1 as fit to command the ship to Chryse (1.145), and every one of them leads a contingent in the Catalogue. Nestor is the one Agamemnon “honored most of all the elders” (2.21), and Diomedes is young enough to be Nestor's son (9.57–58). The title goes with rank.
+When Agamemnon sacrifices before the first battle, the elders are [[Nestor]], [[Idomeneus]], the two Ajaxes ([[ajax]] and [[ajax-son-of-oileus]]), [[Diomedes]] and [[Odysseus]], with [[Menelaus]], who comes without being called. Three of them, Ajax, Idomeneus and Odysseus, are the men Agamemnon named in *Iliad* 1 as fit to command the ship to Chryse (1.145), and every one of them leads a contingent in the Catalogue. Nestor is the one Agamemnon “honored most of all the elders” (2.21), and Diomedes is young enough to be Nestor's son (9.57–58). The title goes with rank.
 
 ## The council
 

@@ -18,7 +18,7 @@ Homer gives it to the gods' own things: Zeus' hair ([[ambrosial-locks]], {{ref:I
 
 ## Use
 
-Book 2 has both of the word's everyday uses, a few lines apart. The Dream finds Agamemnon asleep:
+*Iliad* 2 has both of the word's everyday uses, a few lines apart. The Dream finds Agamemnon asleep:
 
 {{quote:f7e185ba-592a-5520-8e80-3edb20189f78}}
 

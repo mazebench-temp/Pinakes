@@ -3,7 +3,7 @@ title: Areithous
 greek: Ἀρηΐθοος
 kind: person
 tags: [king, warrior]
-summary: “The mace-man”, a lord of the generation before Nestor who fought not with the bow or the spear but with an iron mace, until [[lycurgus-of-arcadia|Lycurgus]] killed him by guile in a narrow road and took the armor Ares had given him (7.137–146). He is the father of [[Menesthius]], whom Paris kills (7.8–10). Not [[areithous-the-attendant|Areithous]], the attendant of Rhigmus, whom Achilles kills in Book 20.
+summary: “The mace-man”, a lord of the generation before Nestor who fought not with the bow or the spear but with an iron mace, until [[lycurgus-of-arcadia|Lycurgus]] killed him by guile in a narrow road and took the armor Ares had given him (7.137–146). He is the father of [[Menesthius]], whom Paris kills (7.8–10). Not [[areithous-the-attendant|Areithous]], the attendant of Rhigmus, whom Achilles kills in *Iliad* 20.
 aliases: [Areithoos, the mace-man, Areithous the mace-man]
 # Exact capitalized forms: ἀρηΐθοος is also an adjective, "swift in war" (ἀρηϊθόων αἰζηῶν, 8.298,
 # 15.315, 20.167). Ἀρηΐθοον at 20.487 is Rhigmus' attendant, killed by Achilles: another man

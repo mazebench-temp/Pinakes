@@ -14,7 +14,7 @@ passages:
   - 11.656-664 | Nestor counts the wounded
 ---
 
-In Book 11 the best of the Achaeans are wounded one after another, in the hours after the woodcutter's meal on the third day of battle (see [[the-third-day-of-battle]]). The book kills many men on both sides, but none of these five. Taking its leading Achaeans out of the fighting without killing them, the poem opens the way for Hector to reach the ships while Achilles sits apart, as Thetis asked and Zeus promised with his nod (1.508–510, 1.524–527; see [[plan-of-zeus]]).
+In *Iliad* 11 the best of the Achaeans are wounded one after another, in the hours after the woodcutter's meal on the third day of battle (see [[the-third-day-of-battle]]). The book kills many men on both sides, but none of these five. Taking its leading Achaeans out of the fighting without killing them, the poem opens the way for Hector to reach the ships while Achilles sits apart, as Thetis asked and Zeus promised with his nod (1.508–510, 1.524–527; see [[plan-of-zeus]]).
 
 ## Five wounds
 

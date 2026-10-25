@@ -15,7 +15,7 @@ The gods of the Iliad come among men, but men seldom see them as they are. A god
 
 ## Book 5: god and man
 
-Book 5 makes recognition its subject. After Diomedes' prayer Athena gives him a new kind of sight:
+*Iliad* 5 makes recognition its subject. After Diomedes' prayer Athena gives him a new kind of sight:
 
 {{quote:85a7e4df-a946-5a51-9baa-282144c09f8b}}
 

@@ -3,7 +3,7 @@ title: Blood, not ichor
 greek: ἰχώρ, οἷός πέρ τε ῥέει μακάρεσσι θεοῖσιν
 kind: anecdote
 tags: [rhetoric]
-summary: Wounded by an arrow, Alexander the Great told his friends that what flowed from him was blood, and not “ichor, such as flows in the blessed gods”. The line of Book 5 became a way to answer a king who was called a god.
+summary: Wounded by an arrow, Alexander the Great told his friends that what flowed from him was blood, and not “ichor, such as flows in the blessed gods”. The line of *Iliad* 5 became a way to answer a king who was called a god.
 source: Plutarch, Alexander 28.3; Diogenes Laertius 9.60
 of: [ichor, gods-wounded-by-mortals, plutarch]
 passages:

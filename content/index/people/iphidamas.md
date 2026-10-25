@@ -3,7 +3,7 @@ title: Iphidamas
 greek: Ἰφιδάμας
 kind: person
 tags: [trojan, warrior, thrace, kinship]
-summary: A son of [[Antenor]] and [[Theano]], brought up in Thrace by his grandfather [[Cisseus]], who married him to his own daughter. He left his bride to come to the war, and he is the first man to face Agamemnon after the invocation of the Muses in Book 11; Agamemnon kills him, and his elder brother [[Coon]] dies over his body (11.218–263).
+summary: A son of [[Antenor]] and [[Theano]], brought up in Thrace by his grandfather [[Cisseus]], who married him to his own daughter. He left his bride to come to the war, and he is the first man to face Agamemnon after the invocation of the Muses in *Iliad* 11; Agamemnon kills him, and his elder brother [[Coon]] dies over his body (11.218–263).
 aliases: [Iphidamas son of Antenor]
 grc: ["Ἰφιδάμα*"]
 refs: [11.222-233, 11.235-247, 11.250, 11.262-263]

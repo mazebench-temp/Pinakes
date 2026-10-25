@@ -12,7 +12,7 @@ of: [aegis]
 
 ## Meaning
 
-θυσσανόεις is formed from θύσανος (“tassel, fringe”) with the suffix -όεις (“having”): “tasseled.” Homer uses it only of the aegis, always in αἰγίδα θυσσανόεσσαν at the end of the verse (5.738; Il. 15.229, 17.593, 18.204, 21.400). In Book 2, from Athena's aegis “a hundred tassels hang floating, all of gold, all finely woven, and each worth a hundred oxen” (2.448–449). Compare [[aegis-bearing]].
+θυσσανόεις is formed from θύσανος (“tassel, fringe”) with the suffix -όεις (“having”): “tasseled.” Homer uses it only of the aegis, always in αἰγίδα θυσσανόεσσαν at the end of the verse (5.738; Il. 15.229, 17.593, 18.204, 21.400). In *Iliad* 2, from Athena's aegis “a hundred tassels hang floating, all of gold, all finely woven, and each worth a hundred oxen” (2.448–449). Compare [[aegis-bearing]].
 
 ## Use
 

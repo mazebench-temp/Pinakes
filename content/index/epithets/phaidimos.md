@@ -16,4 +16,4 @@ of: [hector, glaucus, achilles]
 
 ## Use
 
-Hector appears in Book 4 once, and in retreat. When Odysseus kills Democoon, “the champions and shining Hector gave ground” (4.505), and the Argives press forward until Apollo rouses the Trojans from Pergamus ([[pergamus]], [[apollo]]). The whole verse is used twice more, in the fighting over the bodies of Sarpedon and of Patroclus (Il. 16.588, 17.316). In the first battle of the poem the formula of radiance names Hector at a moment when he yields ([[hector]]).
+Hector appears in *Iliad* 4 once, and in retreat. When Odysseus kills Democoon, “the champions and shining Hector gave ground” (4.505), and the Argives press forward until Apollo rouses the Trojans from Pergamus ([[pergamus]], [[apollo]]). The whole verse is used twice more, in the fighting over the bodies of Sarpedon and of Patroclus (Il. 16.588, 17.316). In the first battle of the poem the formula of radiance names Hector at a moment when he yields ([[hector]]).

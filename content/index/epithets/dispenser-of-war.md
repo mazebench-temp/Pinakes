@@ -18,7 +18,7 @@ of: [zeus]
 
 {{quote:4e819775-d173-5e7c-a5cd-d2cac0a65191}}
 
-When Athena comes down like a star, both armies take it as a sign, and a man would say to his neighbor that Zeus is about to choose between war and friendship ([[shooting-star]]). The soldiers repeat, almost word for word, the choice that Zeus put to the gods at the beginning of the book (4.14–16; [[dread-din-of-battle]], [[philotes]]). They are right that Zeus dispenses war. They do not know that he has already dispensed it: Hera has had her way, and the star they are watching is the goddess sent to break the truce ([[the-bargain-of-zeus-and-hera]]). In Book 19 Odysseus uses the same verse to argue that the army must eat before it fights, since men soon have their fill of battle when Zeus tips the scales (Il. 19.221–224).
+When Athena comes down like a star, both armies take it as a sign, and a man would say to his neighbor that Zeus is about to choose between war and friendship ([[shooting-star]]). The soldiers repeat, almost word for word, the choice that Zeus put to the gods at the beginning of the book (4.14–16; [[dread-din-of-battle]], [[philotes]]). They are right that Zeus dispenses war. They do not know that he has already dispensed it: Hera has had her way, and the star they are watching is the goddess sent to break the truce ([[the-bargain-of-zeus-and-hera]]). In *Iliad* 19 Odysseus uses the same verse to argue that the army must eat before it fights, since men soon have their fill of battle when Zeus tips the scales (Il. 19.221–224).
 
 ## Outside Homer
 

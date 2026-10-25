@@ -23,13 +23,13 @@ The poet asks a goddess to tell or sing what he is about to tell. The request ha
 
 The Muses ([[muses]]) are asked because they know. They were present at the events, and the singer was not. The invocation is where the narrator of the Iliad speaks most plainly in his own person, as “I” and “me”. Elsewhere he rarely does; one other place is his complaint that “it is hard for me to tell all these things like a god” (12.176).
 
-The appeals come at the poem's beginning and before its great efforts of memory: the Catalogue of Ships and the question of the best men and horses in Book 2, and three moments in the battle when the poet must say who struck first or how the fire came to the ships (11.218–220, 14.508–510, 16.112–113). The line “Tell me now, Muses, you who have your homes on Olympus” (2.484) returns at each of those three. The Odyssey opens with the same request in the singular: ἄνδρα μοι ἔννεπε, μοῦσα, “Tell me, Muse, of the man” (*Odyssey* 1.1), and renews it nine lines later; it does not call on the Muse again. See also [[proem]].
+The appeals come at the poem's beginning and before its great efforts of memory: the Catalogue of Ships and the question of the best men and horses in *Iliad* 2, and three moments in the battle when the poet must say who struck first or how the fire came to the ships (11.218–220, 14.508–510, 16.112–113). The line “Tell me now, Muses, you who have your homes on Olympus” (2.484) returns at each of those three. The Odyssey opens with the same request in the singular: ἄνδρα μοι ἔννεπε, μοῦσα, “Tell me, Muse, of the man” (*Odyssey* 1.1), and renews it nine lines later; it does not call on the Muse again. See also [[proem]].
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-Odysseus praises the singer Demodocus for telling the Achaeans' sufferings in order, “as if you had been present yourself, or heard it from another” (*Odyssey* 8.487–491). The Muse or Apollo taught him. Presence and hearsay are the two sources of knowledge that the invocation of Book 2 sets against each other (2.485–486).
+Odysseus praises the singer Demodocus for telling the Achaeans' sufferings in order, “as if you had been present yourself, or heard it from another” (*Odyssey* 8.487–491). The Muse or Apollo taught him. Presence and hearsay are the two sources of knowledge that the invocation of *Iliad* 2 sets against each other (2.485–486).
 
 ## Outside Homer
 

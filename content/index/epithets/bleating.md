@@ -12,7 +12,7 @@ of: [goats]
 
 ## Meaning
 
-μηκάς is formed from the root of μηκάομαι (“bleat”), the verb of the cry of goats and sheep; in a simile of Book 10 a fawn or a hare runs ahead of the hounds “crying out” (μεμηκώς, 10.360–362). The adjective is used only of she-goats, αἶγες, five times in Homer: in Paris' boast (11.383); among the beasts killed for the funeral feast of Patroclus (23.31); and in the Odyssey of the wild goats on the island off the land of the Cyclopes (Od. 9.124) and of the Cyclops' flock, which he milks with his ewes (Od. 9.244, 9.341). See [[goats]].
+μηκάς is formed from the root of μηκάομαι (“bleat”), the verb of the cry of goats and sheep; in a simile of *Iliad* 10 a fawn or a hare runs ahead of the hounds “crying out” (μεμηκώς, 10.360–362). The adjective is used only of she-goats, αἶγες, five times in Homer: in Paris' boast (11.383); among the beasts killed for the funeral feast of Patroclus (23.31); and in the Odyssey of the wild goats on the island off the land of the Cyclopes (Od. 9.124) and of the Cyclops' flock, which he milks with his ewes (Od. 9.244, 9.341). See [[goats]].
 
 ## Use
 

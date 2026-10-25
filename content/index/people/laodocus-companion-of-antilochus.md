@@ -18,4 +18,4 @@ relations:
 
 Menelaus has just told Antilochus that Patroclus is dead and asked him to run to Achilles (17.685–693; see [[menelaus]]). Antilochus stands speechless, his eyes full of tears, but does not neglect the command; he leaves his armor with Laodocus and goes on foot, weeping (17.694–701). The narrator does not say why he leaves the armor. When he reaches Achilles in the next book he is πόδας ταχὺς … ἄγγελος, “swift of foot … as a messenger” (18.2).
 
-Another Laodocus is a son of Antenor, whose likeness Athena takes in Book 4 when she goes to find Pandarus (4.86–88; see [[laodocus]]).
+Another Laodocus is a son of Antenor, whose likeness Athena takes in *Iliad* 4 when she goes to find Pandarus (4.86–88; see [[laodocus]]).

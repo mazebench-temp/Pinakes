@@ -12,13 +12,13 @@ of: [hypnos, sleep]
 
 ## Meaning
 
-νήδυμος is used in Homer only of sleep ([[hypnos]]), and in Book 14 of Sleep as a god. Its origin is disputed. The explanation most often given is that the word began as ἥδυμος (“sweet,” from the root of ἡδύς) and gained its ν by false division: a verb with movable ν before it, as in ἔχεν ἥδυμος ὕπνος, was heard as ἔχε νήδυμος ὕπνος. The second line of Book 2 has exactly this sequence, and many other occurrences stand after a word that could end in ν. Ancient grammarians took the word as it was written and explained it as a compound of the negative prefix νη-. Neither account is certain. The sense in context is clear: sleep as a welcome gift.
+νήδυμος is used in Homer only of sleep ([[hypnos]]), and in Book 14 of Sleep as a god. Its origin is disputed. The explanation most often given is that the word began as ἥδυμος (“sweet,” from the root of ἡδύς) and gained its ν by false division: a verb with movable ν before it, as in ἔχεν ἥδυμος ὕπνος, was heard as ἔχε νήδυμος ὕπνος. The second line of *Iliad* 2 has exactly this sequence, and many other occurrences stand after a word that could end in ν. Ancient grammarians took the word as it was written and explained it as a compound of the negative prefix νη-. Neither account is certain. The sense in context is clear: sleep as a welcome gift.
 
 γλυκύς (“sweet”) is the everyday word, and γλυκὺς ὕπνος is a formula of its own (ten times in Homer). The translation renders both “sweet sleep.” Compare [[honey-sweet]] (μελίφρων) and [[ambrosial]].
 
 ## Use
 
-Book 2 begins with a line that answers the end of Book 1. There Zeus went up to his bed, “where he always lay down when sweet sleep came upon him” ({{ref:Iliad 1.610}}). Now:
+*Iliad* 2 begins with a line that answers the end of Book 1. There Zeus went up to his bed, “where he always lay down when sweet sleep came upon him” ({{ref:Iliad 1.610}}). Now:
 
 {{quote:659fed74-3105-52bf-b828-b374dcbc9c9e}}
 

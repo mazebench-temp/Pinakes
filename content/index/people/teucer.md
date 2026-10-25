@@ -18,7 +18,7 @@ except: [Rhetoric 1398a4]
 
 ## Family
 
-Agamemnon tells his birth when he cheers him on in Book 8: “Teucer, dear heart, son of Telamon, lord of the people, shoot on like this, and you may become a light to the Danaans and to your father Telamon, who reared you when you were small and cared for you in his own house, bastard though you were” (8.281–284). His mother was not Telamon's wife, and the Iliad does not name her (see [[nothos]]). Ajax is his κασίγνητος καὶ ὄπατρος, “brother by the same father” (12.371; see [[kasignetos]]). Some scholars have argued that the dual Αἴαντε, “the two Ajaxes”, once meant Ajax and Teucer; in the Iliad as we have it the pair is Ajax and the son of Oileus, and the theory is unproven (see [[ajax-son-of-oileus]]).
+Agamemnon tells his birth when he cheers him on in *Iliad* 8: “Teucer, dear heart, son of Telamon, lord of the people, shoot on like this, and you may become a light to the Danaans and to your father Telamon, who reared you when you were small and cared for you in his own house, bastard though you were” (8.281–284). His mother was not Telamon's wife, and the Iliad does not name her (see [[nothos]]). Ajax is his κασίγνητος καὶ ὄπατρος, “brother by the same father” (12.371; see [[kasignetos]]). Some scholars have argued that the dual Αἴαντε, “the two Ajaxes”, once meant Ajax and Teucer; in the Iliad as we have it the pair is Ajax and the son of Oileus, and the theory is unproven (see [[ajax-son-of-oileus]]).
 
 ## Descriptions
 
@@ -30,9 +30,9 @@ Agamemnon tells his birth when he cheers him on in Book 8: “Teucer, dear heart
 
 ## Elsewhere in Homer
 
-**Behind the shield.** In Book 8 he shoots from under the shield of Ajax, “like a child under its mother”, until Hector fells him with a stone (8.266–334).
+**Behind the shield.** In *Iliad* 8 he shoots from under the shield of Ajax, “like a child under its mother”, until Hector fells him with a stone (8.266–334).
 
-**At the wall and the ships.** He wounds Glaucus in the arm at the Achaean wall (12.387–391, 16.508–512). In Book 15 he draws on Hector, but Zeus snaps the string, and at Ajax's word he puts the bow away and takes up shield and spear (15.458–483).
+**At the wall and the ships.** He wounds Glaucus in the arm at the Achaean wall (12.387–391, 16.508–512). In *Iliad* 15 he draws on Hector, but Zeus snaps the string, and at Ajax's word he puts the bow away and takes up shield and spear (15.458–483).
 
 **The contest.** At Patroclus' funeral games he shoots first in the archery but makes no vow to Apollo, and Apollo begrudges him the bird: his arrow cuts the cord that tethers the dove, and she flies free. Meriones, who makes the vow, wins the first prize (23.859–883; see [[meriones]]).
 

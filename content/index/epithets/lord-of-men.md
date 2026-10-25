@@ -14,7 +14,7 @@ of: [agamemnon]
 
 ἄναξ ἀνδρῶν = ἄναξ (“lord, master”) + ἀνδρῶν, genitive plural of ἀνήρ (“man”): “lord of men.” ἄναξ is one of the oldest Greek words for a ruler. In the Linear B tablets of the Mycenaean palaces it is written *wa-na-ka*, the title of the king. Its lost initial consonant, the digamma (ϝ), still shows in Homer's verse: at {{ref:Iliad 1.7}}, {{ref:Iliad 1.172}}, and {{ref:Iliad 1.506}} the vowel before ἄναξ is not elided (Ἀτρεΐδης τε ἄναξ, ἔπειτα ἄναξ, νῦν γε ἄναξ), because when the formula took shape the word still began with a consonant, ϝάναξ.
 
-Alone, ἄναξ is used of gods as readily as of men. In Book 1 it names Apollo (Ἀπόλλωνι ἄνακτι, “to lord Apollo,” {{ref:Iliad 1.36}}; also 75, 390, 444) and Zeus (Δία Κρονίωνα ἄνακτα, {{ref:Iliad 1.502}}; also 529). The genitive ἀνδρῶν gives Agamemnon's title its human and collective sense: he is lord of the assembled army.
+Alone, ἄναξ is used of gods as readily as of men. In *Iliad* 1 it names Apollo (Ἀπόλλωνι ἄνακτι, “to lord Apollo,” {{ref:Iliad 1.36}}; also 75, 390, 444) and Zeus (Δία Κρονίωνα ἄνακτα, {{ref:Iliad 1.502}}; also 529). The genitive ἀνδρῶν gives Agamemnon's title its human and collective sense: he is lord of the assembled army.
 
 ## Use
 

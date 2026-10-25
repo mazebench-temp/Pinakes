@@ -23,4 +23,4 @@ passages:
 
 He and Echemmon ride in one chariot, and Diomedes brings them both down like a lion breaking the neck of a heifer, strips them and sends their horses to the ships (5.159–165; see [[echemmon]], [[lion-among-cattle]] and [[sons-of-priam]]). He is not named again.
 
-The name is common in Homer. Nestor has a captain Chromius (4.295; see [[chromius]]), Odysseus kills a Lycian Chromius later in this book (5.677; see [[chromius-of-lycia]]), Teucer kills a Trojan of the name (8.275), and another is among the allies in Book 17 (17.218, 17.494, 17.534; see [[chromis]]). In the Odyssey Chromius is a brother of Nestor (Od. 11.286).
+The name is common in Homer. Nestor has a captain Chromius (4.295; see [[chromius]]), Odysseus kills a Lycian Chromius later in this book (5.677; see [[chromius-of-lycia]]), Teucer kills a Trojan of the name (8.275), and another is among the allies in *Iliad* 17 (17.218, 17.494, 17.534; see [[chromis]]). In the Odyssey Chromius is a brother of Nestor (Od. 11.286).

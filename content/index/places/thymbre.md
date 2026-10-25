@@ -10,7 +10,7 @@ grc: [Θύμβρης]
 
 {{quote:7f7baf55-76e2-5b17-904e-9964c19283fd}}
 
-πρὸς Θύμβρης, “toward Thymbre”, is the second of the two sides of the allies' camp in Dolon's account; the other is πρὸς ἁλός, “toward the sea” (see [[trojan-allies]]). The name occurs only here in Homer, and the poem does not say where Thymbre lay. A Trojan whom Diomedes kills in Book 11 is called Thymbraeus (Θυμβραῖος, 11.320), a name formed from the place.
+πρὸς Θύμβρης, “toward Thymbre”, is the second of the two sides of the allies' camp in Dolon's account; the other is πρὸς ἁλός, “toward the sea” (see [[trojan-allies]]). The name occurs only here in Homer, and the poem does not say where Thymbre lay. A Trojan whom Diomedes kills in *Iliad* 11 is called Thymbraeus (Θυμβραῖος, 11.320), a name formed from the place.
 
 ## Outside Homer
 

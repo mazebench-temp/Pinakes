@@ -16,7 +16,7 @@ of: [dione, athena, hera, thetis]
 
 ## Use
 
-In its first use Dione, “brilliant among goddesses,” answers her daughter Aphrodite, whom Diomedes has wounded, with stories of gods who suffered at the hands of men (5.381–415; [[dione]], [[gods-wounded-by-mortals]]). In Book 6 the formula closes the first verse of the Trojan women's prayer to the goddess who had set Diomedes on:
+In its first use Dione, “brilliant among goddesses,” answers her daughter Aphrodite, whom Diomedes has wounded, with stories of gods who suffered at the hands of men (5.381–415; [[dione]], [[gods-wounded-by-mortals]]). In *Iliad* 6 the formula closes the first verse of the Trojan women's prayer to the goddess who had set Diomedes on:
 
 {{quote:6d83ccd3-0ec9-5127-93d6-ddbc7cd049d1}}
 

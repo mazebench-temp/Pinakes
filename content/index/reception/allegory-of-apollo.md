@@ -3,7 +3,7 @@ title: Apollo as the sun
 greek: Ἡράκλειτος
 kind: anecdote
 tags: [allegory]
-summary: The allegorist Heraclitus defended Homer against the charge of impiety by reading the plague of Book 1 as a natural event, the summer heat of the sun, which he identified with Apollo.
+summary: The allegorist Heraclitus defended Homer against the charge of impiety by reading the plague of *Iliad* 1 as a natural event, the summer heat of the sun, which he identified with Apollo.
 source: Heraclitus, Homeric Problems 6–16
 of: [apollo, wrath-of-apollo]
 passages:

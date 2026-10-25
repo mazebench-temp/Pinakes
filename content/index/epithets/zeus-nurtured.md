@@ -12,7 +12,7 @@ of: [basileus, kings, troezenus, achilles, phoenix]
 
 ## Meaning
 
-διοτρεφής = Διός (“of Zeus”) + τρέφω (“rear, nourish”): “reared by Zeus.” Kings hold their office from Zeus. Odysseus says so in Book 2: “Great is the spirit of kings whom Zeus has nurtured; a king's honor comes from Zeus, and Zeus the counselor loves him” (Il. 2.196–197). Compare [[sprung-from-zeus]] (διογενής) and [[scepter-bearing]] (σκηπτοῦχος).
+διοτρεφής = Διός (“of Zeus”) + τρέφω (“rear, nourish”): “reared by Zeus.” Kings hold their office from Zeus. Odysseus says so in *Iliad* 2: “Great is the spirit of kings whom Zeus has nurtured; a king's honor comes from Zeus, and Zeus the counselor loves him” (Il. 2.196–197). Compare [[sprung-from-zeus]] (διογενής) and [[scepter-bearing]] (σκηπτοῦχος).
 
 ## Use
 

@@ -3,7 +3,7 @@ title: Dolops
 greek: Δόλοψ
 kind: person
 tags: [achaean, warrior]
-summary: An Achaean, Dolops son of Clytius, the fourth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan [[dolops-son-of-lampus|Dolops son of Lampus]], whom Menelaus kills in Book 15.
+summary: An Achaean, Dolops son of Clytius, the fourth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan [[dolops-son-of-lampus|Dolops son of Lampus]], whom Menelaus kills in *Iliad* 15.
 aliases: [Dolops son of Clytius]
 # The phrase claims the patronymic for the son: Clytius here has no entry, and is not the Trojan elder
 # (clytius, 3.147). Δόλοψ, Δόλοπος (15.525-555) are the Trojan son of Lampus (dolops-son-of-lampus);

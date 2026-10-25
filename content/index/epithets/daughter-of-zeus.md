@@ -18,11 +18,11 @@ In Homer, Aphrodite's mother is Dione (Il. 5.370–371). Helen's mother is not n
 
 ## Use
 
-In the second half of Book 3 the title passes between the goddess and the woman. Aphrodite is “daughter of Zeus” at the moment she rescues Paris:
+In the second half of *Iliad* 3 the title passes between the goddess and the woman. Aphrodite is “daughter of Zeus” at the moment she rescues Paris:
 
 {{quote:eb7e0e9c-9189-59c5-8946-0c6e893b428c}}
 
-The same verse brings her to save Aeneas in Book 5 (Il. 5.312). Helen is “child of Zeus” when she names Odysseus for Priam (3.199), and again when Aphrodite threatens her and she obeys:
+The same verse brings her to save Aeneas in *Iliad* 5 (Il. 5.312). Helen is “child of Zeus” when she names Odysseus for Priam (3.199), and again when Aphrodite threatens her and she obeys:
 
 {{quote:5ed0cfed-5d33-57aa-adf4-4f4e7bc9fbf3}}
 

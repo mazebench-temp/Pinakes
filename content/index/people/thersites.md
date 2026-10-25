@@ -3,7 +3,7 @@ title: Thersites
 greek: Θερσίτης
 kind: person
 tags: [achaean, speaker, insult]
-summary: The ugliest man who came to Troy, who rails at the kings in open assembly. Homer gives him no father, no homeland and no contingent, and tells a single scene of his life, in Book 2, where [[Odysseus]] beats him with the scepter.
+summary: The ugliest man who came to Troy, who rails at the kings in open assembly. Homer gives him no father, no homeland and no contingent, and tells a single scene of his life, in *Iliad* 2, where [[Odysseus]] beats him with the scepter.
 aliases: [Thersites the railer]
 grc: [Θερσίτ*]
 featured: true
@@ -18,7 +18,7 @@ sort: 19
 
 {{quote:88ad2396-b31f-5d7f-9d58-56787e854433}}
 
-The narrator describes his speech before he lets him speak. He is ἀμετροεπής (“of unmeasured words”; see [[of-unmeasured-words]]), his words are ἄκοσμα (“disorderly”), he quarrels οὐ κατὰ κόσμον (“against all order”), and he says whatever will make the Argives laugh. [[Odysseus]] calls him ἀκριτόμυθος (“reckless in speech”; see [[reckless-in-speech]]) but also λιγὺς ἀγορητής (“a clear-voiced orator”, 2.246), the praise given to [[Nestor]] in Book 1 (1.248; see [[clear-voiced-orator]]). The army calls him λωβητὴρ ἐπεσβόλος (“a word-slinging slanderer”, 2.275).
+The narrator describes his speech before he lets him speak. He is ἀμετροεπής (“of unmeasured words”; see [[of-unmeasured-words]]), his words are ἄκοσμα (“disorderly”), he quarrels οὐ κατὰ κόσμον (“against all order”), and he says whatever will make the Argives laugh. [[Odysseus]] calls him ἀκριτόμυθος (“reckless in speech”; see [[reckless-in-speech]]) but also λιγὺς ἀγορητής (“a clear-voiced orator”, 2.246), the praise given to [[Nestor]] in *Iliad* 1 (1.248; see [[clear-voiced-orator]]). The army calls him λωβητὴρ ἐπεσβόλος (“a word-slinging slanderer”, 2.275).
 
 {{quote:84632ffd-0ab5-5371-b980-4a4b1dabcf30}}
 
@@ -26,7 +26,7 @@ The narrator describes his speech before he lets him speak. He is ἀμετρο�
 
 {{quote:8421a324-0b8f-50ee-88c2-425288f33fe7}}
 
-His usual targets are [[Achilles]] and [[Odysseus]]. In Book 2 he turns on [[Agamemnon]] instead, in words borrowed from Achilles.
+His usual targets are [[Achilles]] and [[Odysseus]]. In *Iliad* 2 he turns on [[Agamemnon]] instead, in words borrowed from Achilles.
 
 {{notes}}
 

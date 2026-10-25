@@ -18,4 +18,4 @@ of: [ares, helen, erinyes]
 
 {{quote:e6fdd03a-7ccc-53a0-9848-c457a53961ea}}
 
-Agamemnon calls the army to “try our strength in the hateful work of Ares,” literally “in hateful Ares” (στυγερῷ … Ἄρηϊ): the war god's name stands for war itself ([[ares]]). The commander who a few hours earlier proposed flight now orders the whole day spent in the thing everyone hates. Compare the other epithets of war in Book 2: [[grim-sounding]], [[man-destroying]], [[relentless]].
+Agamemnon calls the army to “try our strength in the hateful work of Ares,” literally “in hateful Ares” (στυγερῷ … Ἄρηϊ): the war god's name stands for war itself ([[ares]]). The commander who a few hours earlier proposed flight now orders the whole day spent in the thing everyone hates. Compare the other epithets of war in *Iliad* 2: [[grim-sounding]], [[man-destroying]], [[relentless]].

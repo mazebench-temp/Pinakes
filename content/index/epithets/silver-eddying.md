@@ -12,7 +12,7 @@ of: [peneius]
 
 ## Meaning
 
-ἀργυροδίνης = ἄργυρος (“silver”) + δίνη (“eddy, whirlpool”): “with silvery eddies,” a clear river whose swirls gleam. It occurs three times in Homer: of the Peneius here, and of the Xanthus in Book 21, when the river fights Achilles (Il. 21.8, 21.130). Compare [[eddying]] (δινήεις).
+ἀργυροδίνης = ἄργυρος (“silver”) + δίνη (“eddy, whirlpool”): “with silvery eddies,” a clear river whose swirls gleam. It occurs three times in Homer: of the Peneius here, and of the Xanthus in *Iliad* 21, when the river fights Achilles (Il. 21.8, 21.130). Compare [[eddying]] (δινήεις).
 
 ## Use
 

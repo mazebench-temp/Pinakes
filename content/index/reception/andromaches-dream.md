@@ -27,6 +27,6 @@ The tale is too long to tell, Chauntecleer adds, and it is nearly day.
 
 **Shakespeare.** In *Troilus and Cressida* (act 5, scene 3) Andromache begs Hector to unarm and not to fight that day, for she has dreamed all night of slaughter. Cassandra joins her, and then Priam: Hector's wife has dreamed, his mother has had visions, Cassandra foresees, and the day is ominous. Hector will not stay. “Mine honour keeps the weather of my fate,” he says: life is dear to every man, but honor is dearer. He goes out, and before the play ends Achilles' men kill him.
 
-The dream is the medieval storytellers' own, but the answer is Homer's. In Book 6 Hector would feel shame before the Trojans and the Trojan women if he shrank from the war, since he has learned to fight among the foremost, “winning great fame for my father and for myself” (6.441–446; see [[kleos]]).
+The dream is the medieval storytellers' own, but the answer is Homer's. In *Iliad* 6 Hector would feel shame before the Trojans and the Trojan women if he shrank from the war, since he has learned to fight among the foremost, “winning great fame for my father and for myself” (6.441–446; see [[kleos]]).
 
 See [[andromache]], [[chaucer]], [[shakespeare]] and [[husbands-and-wives]].

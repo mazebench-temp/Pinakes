@@ -3,7 +3,7 @@ title: Strabo on the mare-milkers
 greek: ἀγαυοὶ ἱππημολγοί, γλακτοφάγοι, Ἄβιοι
 kind: note
 tags: [scholarship, thrace]
-summary: Strabo's long discussion of the far peoples on whom Zeus turns his eyes at the start of Book 13. Posidonius took the Mysians for the Mysians of Europe and the Abii for men who live without women; Apollodorus, after Eratosthenes, said that Homer did not know the Scythians and invented the mare-milkers; Strabo answers that they are the Scythian nomads, and cites Hesiod, Aeschylus and Ephorus to show that the Greeks had long thought them the most just of men.
+summary: Strabo's long discussion of the far peoples on whom Zeus turns his eyes at the start of *Iliad* 13. Posidonius took the Mysians for the Mysians of Europe and the Abii for men who live without women; Apollodorus, after Eratosthenes, said that Homer did not know the Scythians and invented the mare-milkers; Strabo answers that they are the Scythian nomads, and cites Hesiod, Aeschylus and Ephorus to show that the Greeks had long thought them the most just of men.
 source: "Strabo, Geography 7.3.2–10; 1.1.6; 12.3.26–27"
 of: [abii, mysians, thracians, zeus, strabo]
 refs: [13.3-6]

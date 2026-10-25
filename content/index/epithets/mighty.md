@@ -18,7 +18,7 @@ of: [psyche]
 
 The proem calls the souls of the dead “mighty”: the wrath “hurled down to Hades many mighty souls” ({{ref:Iliad 1.3}}; [[psyche]]). In Book 11 the same phrase is used of heads (ἰφθίμους κεφαλάς, Il. 11.55). The might belongs to the men; the soul keeps their epithet as it leaves them.
 
-In Book 3 the word is part of the arming of Paris:
+In *Iliad* 3 the word is part of the arming of Paris:
 
 {{quote:625a998c-778f-52b2-a587-1bf1d0d60065}}
 

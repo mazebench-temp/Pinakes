@@ -13,7 +13,7 @@ passages:
 
 {{quote:058cf532-fdc5-525f-b8e3-b8bb364e2617}}
 
-**Aeneas after Pallas.** In the tenth book of the *Aeneid* the news reaches Aeneas that his men are on the edge of ruin, and he mows down all that is nearest with the sword, driving a broad path through the ranks with his blade and seeking Turnus, proud of his new slaughter. Pallas and Evander are before his eyes, the table to which he first came as a stranger, and the right hands given (*Aeneid* 10.510–517); Pallas, Evander's son, has been killed (10.532–533). What follows is Achilles' revenge for Patroclus in Book 21, gathered into fifty lines.
+**Aeneas after Pallas.** In the tenth book of the *Aeneid* the news reaches Aeneas that his men are on the edge of ruin, and he mows down all that is nearest with the sword, driving a broad path through the ranks with his blade and seeking Turnus, proud of his new slaughter. Pallas and Evander are before his eyes, the table to which he first came as a stranger, and the right hands given (*Aeneid* 10.510–517); Pallas, Evander's son, has been killed (10.532–533). What follows is Achilles' revenge for Patroclus in *Iliad* 21, gathered into fifty lines.
 
 **The captives.** First Aeneas takes four young men, sons of Sulmo, and as many reared by Ufens, alive, to sacrifice them as offerings to the shades and drench the flames of the pyre with captive blood (*viventis rapit, inferias quos immolet umbris / captivoque rogi perfundat sanguine flammas*, 10.517–520). Achilles, when his hands grew weary with killing in the river, chose twelve young men out of it alive “as the penalty for Patroclus, son of Menoetius, who had died”, and at Patroclus' pyre he kills them with the bronze (21.26–32, 23.175–176; see [[human-sacrifice]]).
 

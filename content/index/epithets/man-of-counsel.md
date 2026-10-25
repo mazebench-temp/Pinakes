@@ -12,7 +12,7 @@ of: [basileus]
 
 ## Meaning
 
-βουληφόρος = βουλή (“counsel, plan; the council”) + -φόρος (“bearing,” from φέρω): “one who gives counsel.” It is an epithet of the leaders who sit in council with the king. In Book 2 the Dream reminds Agamemnon that “a man of counsel” should not sleep all night (Il. 2.24).
+βουληφόρος = βουλή (“counsel, plan; the council”) + -φόρος (“bearing,” from φέρω): “one who gives counsel.” It is an epithet of the leaders who sit in council with the king. In *Iliad* 2 the Dream reminds Agamemnon that “a man of counsel” should not sleep all night (Il. 2.24).
 
 ## Use
 

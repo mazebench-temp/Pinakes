@@ -16,7 +16,7 @@ of: [sea]
 
 ## Meaning
 
-βαθύς means “deep.” The noun βένθος (“depth”) comes from the same root, and Book 1 uses it for Thetis' home: she sits ἐν βένθεσσιν ἁλός, “in the depths of the sea” ({{ref:Iliad 1.358}}).
+βαθύς means “deep.” The noun βένθος (“depth”) comes from the same root, and *Iliad* 1 uses it for Thetis' home: she sits ἐν βένθεσσιν ἁλός, “in the depths of the sea” ({{ref:Iliad 1.358}}).
 
 ## Use
 

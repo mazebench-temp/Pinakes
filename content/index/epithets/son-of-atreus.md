@@ -15,7 +15,7 @@ of: [agamemnon, menelaus, atreus]
 
 ## Use
 
-Book 1 names Agamemnon by his father more often than by his own name: the patronymic stands in twenty-two lines (three of them for both brothers), the name Agamemnon in fifteen. It is used in narrative, in address, and in formal pairing with the name (Ἀτρεΐδῃ Ἀγαμέμνονι, {{ref:Iliad 1.24}}; Ἀγαμέμνονος Ἀτρεΐδαο, {{ref:Iliad 1.203}}).
+*Iliad* 1 names Agamemnon by his father more often than by his own name: the patronymic stands in twenty-two lines (three of them for both brothers), the name Agamemnon in fifteen. It is used in narrative, in address, and in formal pairing with the name (Ἀτρεΐδῃ Ἀγαμέμνονι, {{ref:Iliad 1.24}}; Ἀγαμέμνονος Ἀτρεΐδαο, {{ref:Iliad 1.203}}).
 
 The dual and plural appear in Chryses' plea, which is addressed to both brothers:
 
@@ -27,4 +27,4 @@ In address the patronymic can be neutral (Achilles opening the assembly, {{ref:I
 
 The narrator uses it to set the two antagonists side by side after Achilles' oath: Achilles has sat down, “while on the other side the son of Atreus nursed his wrath” ({{ref:Iliad 1.247}}). The verb is ἐμήνιε, from the family of μῆνις ([[menis]]), the word of the poem's first line; here alone in Book 1 it is used of Agamemnon.
 
-The patronymic also makes Agamemnon's authority hereditary. In Book 2 his scepter is traced from Hephaestus and Zeus through Pelops and Atreus to him (Il. 2.100–108).
+The patronymic also makes Agamemnon's authority hereditary. In *Iliad* 2 his scepter is traced from Hephaestus and Zeus through Pelops and Atreus to him (Il. 2.100–108).

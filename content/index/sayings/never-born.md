@@ -15,7 +15,7 @@ passages:
 
 Hector's rebuke begins with four names for Paris and goes on to a wish. αἴθʼ ὄφελες, “if only you had”, introduces a wish about the past that cannot come true. The two adjectives are a pair of privatives (see [[privative-adjectives]]). ἄγονος is “unborn”, as the translation takes it, though the word can also mean “childless”; ἄγαμος is “unmarried”. Either would have spared Troy: a Paris never born, or one who died before he married Helen. It would be better, Hector says, than for him to be a disgrace (λώβη; see [[lobe]]) and scorned by others (3.41–42).
 
-The wish is the first of several in the book that someone had died. Helen wishes that evil death had pleased her before she followed Paris to Troy (3.173–175), and after the duel she wishes Paris had died on the field (3.428). In Book 6 she wishes that a storm had carried her off on the day she was born (6.345–348).
+The wish is the first of several in the book that someone had died. Helen wishes that evil death had pleased her before she followed Paris to Troy (3.173–175), and after the duel she wishes Paris had died on the field (3.428). In *Iliad* 6 she wishes that a storm had carried her off on the day she was born (6.345–348).
 
 ## Outside Homer
 

@@ -16,11 +16,11 @@ relations:
 
 {{quote:6d9e1fb0-b805-5803-8e54-fab98567d675}}
 
-Δαρδανίδης is formed like a patronymic, Δάρδανος + -ίδης (“son of”), but Dardanus is Priam's remote ancestor, five generations back, and the word means “descendant of Dardanus”. In Book 3 Dardanus is named only in this word, when Priam speaks before he leaves the oath sacrifice.
+Δαρδανίδης is formed like a patronymic, Δάρδανος + -ίδης (“son of”), but Dardanus is Priam's remote ancestor, five generations back, and the word means “descendant of Dardanus”. In *Iliad* 3 Dardanus is named only in this word, when Priam speaks before he leaves the oath sacrifice.
 
 ## Family
 
-Aeneas tells the line in Book 20. Zeus fathered Dardanus, who founded [[Dardania]] on the slopes of Ida, “since sacred Ilios was not yet / built in the plain” (20.216–217). His son [[Erichthonius]] was the richest of mortal men; Erichthonius fathered [[Tros]], and Tros fathered [[ilus|Ilus]], [[Assaracus]] and [[Ganymede]]. From Ilus came Laomedon and Priam, from Assaracus came [[Capys]], Anchises and Aeneas (20.215–240). Poseidon says that Zeus loved Dardanus above all the children born to him from mortal women (20.304–305). See [[laomedon]], [[priam]], [[anchises]] and [[aeneas]].
+Aeneas tells the line in *Iliad* 20. Zeus fathered Dardanus, who founded [[Dardania]] on the slopes of Ida, “since sacred Ilios was not yet / built in the plain” (20.216–217). His son [[Erichthonius]] was the richest of mortal men; Erichthonius fathered [[Tros]], and Tros fathered [[ilus|Ilus]], [[Assaracus]] and [[Ganymede]]. From Ilus came Laomedon and Priam, from Assaracus came [[Capys]], Anchises and Aeneas (20.215–240). Poseidon says that Zeus loved Dardanus above all the children born to him from mortal women (20.304–305). See [[laomedon]], [[priam]], [[anchises]] and [[aeneas]].
 
 The [[Dardanians]] take their name from him. One of Troy's gates is the Dardanian gate (5.789), and the tomb of Ilus, “descendant of Dardanus”, stands in the plain (11.166, 11.372). Another Dardanus, a son of Bias, is killed by Achilles with his brother Laogonus (20.460–462; see [[dardanus-son-of-bias]]).
 

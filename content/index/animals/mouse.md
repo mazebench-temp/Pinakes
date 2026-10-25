@@ -3,7 +3,7 @@ title: Mouse
 greek: σμίνθος
 kind: animal
 tags: [wild-animal]
-summary: No mouse appears in Book 1. The animal is implied only if Apollo's title Smintheus, by which Chryses calls on him, means “Mouse-god”, as ancient scholars believed.
+summary: No mouse appears in *Iliad* 1. The animal is implied only if Apollo's title Smintheus, by which Chryses calls on him, means “Mouse-god”, as ancient scholars believed.
 aliases: [mice, field mouse, sminthos]
 refs: [1.39]
 ---

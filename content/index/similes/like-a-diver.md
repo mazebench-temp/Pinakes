@@ -14,7 +14,7 @@ of: [epicles, cebriones]
 
 {{quote:5607d46e-b39a-5ebe-8aa6-793d3996545a}}
 
-θλάσσε δὲ τετράφαλον κυνέην, σὺν δʼ ὀστέʼ ἄραξε / πάντʼ ἄμυδις κεφαλῆς· ὃ δʼ ἄρʼ ἀρνευτῆρι ἐοικὼς / κάππεσʼ ἀφʼ ὑψηλοῦ πύργου, λίπε δʼ ὀστέα θυμός: “and crushed the four-ridged helmet, and smashed the bones of the head all together; and he, like a diver, fell from the high tower, and his spirit left his bones” (12.384–386). ἀρνευτήρ, “diver”, occurs only in this half-line, three times in Homer. Patroclus' jest in Book 16 shows how it was understood: a man who plunges headfirst, as a diver goes into the sea (see below, and the translation's note on 12.385). The comparison is a half-verse and builds no scene. Its point is the posture of the fall: the dead man goes down from a height head first, like a man diving.
+θλάσσε δὲ τετράφαλον κυνέην, σὺν δʼ ὀστέʼ ἄραξε / πάντʼ ἄμυδις κεφαλῆς· ὃ δʼ ἄρʼ ἀρνευτῆρι ἐοικὼς / κάππεσʼ ἀφʼ ὑψηλοῦ πύργου, λίπε δʼ ὀστέα θυμός: “and crushed the four-ridged helmet, and smashed the bones of the head all together; and he, like a diver, fell from the high tower, and his spirit left his bones” (12.384–386). ἀρνευτήρ, “diver”, occurs only in this half-line, three times in Homer. Patroclus' jest in *Iliad* 16 shows how it was understood: a man who plunges headfirst, as a diver goes into the sea (see below, and the translation's note on 12.385). The comparison is a half-verse and builds no scene. Its point is the posture of the fall: the dead man goes down from a height head first, like a man diving.
 
 The verse ends in a formula of death, λίπε δʼ ὀστέα θυμός, “and his spirit left his bones”, which follows the diver each time it is used.
 

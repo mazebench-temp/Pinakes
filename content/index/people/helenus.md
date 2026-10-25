@@ -22,7 +22,7 @@ relations:
 
 {{quote:209819cb-3964-55cb-9930-b892569315c8}}
 
-Πριαμίδης, “son of Priam” (6.76; see [[priam]]); in Book 7 he is Πριάμοιο φίλος παῖς, “the dear son of Priam” (7.44). He tells Hector to go to “your mother and mine” (μητέρι σῇ καὶ ἐμῇ, 6.87), so the two are sons of the same mother, [[Hecuba]], and he reminds Hector, κασίγνητος δέ τοί εἰμι, “I am your brother” (7.48; see [[kasignetos]]). With Deiphobus, “two sons of Priam”, he leads a company in the attack on the Achaean wall (12.94–95), and in the last book he is the first of the nine surviving sons whom Priam names in his anger (24.249).
+Πριαμίδης, “son of Priam” (6.76; see [[priam]]); in *Iliad* 7 he is Πριάμοιο φίλος παῖς, “the dear son of Priam” (7.44). He tells Hector to go to “your mother and mine” (μητέρι σῇ καὶ ἐμῇ, 6.87), so the two are sons of the same mother, [[Hecuba]], and he reminds Hector, κασίγνητος δέ τοί εἰμι, “I am your brother” (7.48; see [[kasignetos]]). With Deiphobus, “two sons of Priam”, he leads a company in the attack on the Achaean wall (12.94–95), and in the last book he is the first of the nine surviving sons whom Priam names in his anger (24.249).
 
 ## Descriptions
 
@@ -32,7 +32,7 @@ relations:
 
 ## Elsewhere in Homer
 
-**The archer.** In Book 13 he kills the Achaean Deipyrus with a great Thracian sword and shoots Menelaus in the breastplate, but the arrow glances off like beans from a winnowing shovel. Menelaus drives his spear through the hand that holds the bow, and Agenor binds the wound with a sling of wool (13.576–600; see [[agenor]]).
+**The archer.** In *Iliad* 13 he kills the Achaean Deipyrus with a great Thracian sword and shoots Menelaus in the breastplate, but the arrow glances off like beans from a winnowing shovel. Menelaus drives his spear through the hand that holds the bow, and Agenor binds the wound with a sling of wool (13.576–600; see [[agenor]]).
 
 **A son left alive.** In the last book Priam, setting out to ransom Hector, names him first of the nine sons still living whom he rebukes (24.249). Helenus does not appear in the Odyssey.
 

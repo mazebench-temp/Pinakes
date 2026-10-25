@@ -3,7 +3,7 @@ title: Destructive (aidelos)
 greek: ἀΐδηλος
 kind: epithet
 tags: [divine-epithet, insult]
-summary: “Destroying, annihilating,” an epithet of fire, and in Book 5 an insult between the gods: Ares uses it of Athena, and Zeus of Ares.
+summary: “Destroying, annihilating,” an epithet of fire, and in *Iliad* 5 an insult between the gods: Ares uses it of Athena, and Zeus of Ares.
 aliases: [aidelos, annihilating, destroying]
 grc: [ἀΐδηλον, ἀΐδηλος]
 en: [destructive, destroying]

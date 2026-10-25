@@ -22,4 +22,4 @@ The gold of Mycenae became famous again in 1876, when Heinrich Schliemann opened
 
 Nine men have offered to fight Hector, and the army prays for three of them: Ajax, the son of Tydeus, and Agamemnon, who is not named but described by his city and its gold. The prayer puts the commander of the largest contingent last and grandest (2.576–580; [[mycenae]], [[agamemnon]]). The lot that leaps from the helmet is the one “that they themselves wanted,” the lot of Ajax, the first of the three (7.182–183; [[lots]]).
 
-The same half-verse names Agamemnon again as he arms for his great day of fighting in Book 11 (11.45–46). See [[the-duel-of-hector-and-ajax]].
+The same half-verse names Agamemnon again as he arms for his great day of fighting in *Iliad* 11 (11.45–46). See [[the-duel-of-hector-and-ajax]].

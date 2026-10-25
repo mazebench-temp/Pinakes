@@ -20,7 +20,7 @@ passages:
 
 The point of likeness is the mother's care. Leaf takes it to lie in her affection for her young alone, and doubts that she is to be pictured warding off a beast of prey (on 17.4). The young cow has never had a calf before, and she will not leave it; she stands over it and cries. The tenor: ὣς περὶ Πατρόκλῳ βαῖνε ξανθὸς Μενέλαος, “so fair-haired Menelaus bestrode Patroclus” (17.6). What he stands over is a dead man.
 
-The next two verses arm him: he holds his spear and his shield in front of the body, “eager to kill whoever came against him” (17.7–8). They are the verses of Aeneas standing over the body of Pandarus (5.300–301), and there the verse before them gave him another likeness: ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε λέων ὣς ἀλκὶ πεποιθώς, “He bestrode it like a lion trusting in his courage” (5.299; see [[like-a-lion]]). Leaf compares the two passages (on 17.4). The frame is the same, and Book 17 puts a mother where Book 5 put a lion.
+The next two verses arm him: he holds his spear and his shield in front of the body, “eager to kill whoever came against him” (17.7–8). They are the verses of Aeneas standing over the body of Pandarus (5.300–301), and there the verse before them gave him another likeness: ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε λέων ὣς ἀλκὶ πεποιθώς, “He bestrode it like a lion trusting in his courage” (5.299; see [[like-a-lion]]). Leaf compares the two passages (on 17.4). The frame is the same, and *Iliad* 17 puts a mother where Book 5 put a lion.
 
 ## In context
 

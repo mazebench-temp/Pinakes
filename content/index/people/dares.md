@@ -16,7 +16,7 @@ passages:
 
 {{quote:2d07b4de-6115-5e51-826d-1e98a88ef735}}
 
-ἀφνειὸς ἀμύμων, “wealthy and noble” (5.9). Dares is the only priest of Hephaestus in Homer. His sons are the first men Diomedes meets in Book 5: Phegeus is killed, and Idaeus runs (5.12–21; see [[phegeus]] and [[idaeus-son-of-dares]]). Hephaestus saves Idaeus, “covering him in night, so that the old man might not be wholly stricken with grief” (5.23–24). The god acts for his priest, and he saves one son of two, though in the war he is on the Achaean side (20.33–37, 21.328–382). The book's other priest, Dolopion of the Scamander, loses his son Hypsenor with no god to save him (5.76–83; see [[dolopion]], [[priesthood]], [[divine-rescue]] and [[bereaved-parents]]).
+ἀφνειὸς ἀμύμων, “wealthy and noble” (5.9). Dares is the only priest of Hephaestus in Homer. His sons are the first men Diomedes meets in *Iliad* 5: Phegeus is killed, and Idaeus runs (5.12–21; see [[phegeus]] and [[idaeus-son-of-dares]]). Hephaestus saves Idaeus, “covering him in night, so that the old man might not be wholly stricken with grief” (5.23–24). The god acts for his priest, and he saves one son of two, though in the war he is on the Achaean side (20.33–37, 21.328–382). The book's other priest, Dolopion of the Scamander, loses his son Hypsenor with no god to save him (5.76–83; see [[dolopion]], [[priesthood]], [[divine-rescue]] and [[bereaved-parents]]).
 
 ## Outside Homer
 

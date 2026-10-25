@@ -17,7 +17,7 @@ relations:
 
 ## Elsewhere in Homer
 
-In the Odyssey the seer Melampus tried to drive off the cattle of "mighty Iphiclus" from Phylace, to win Neleus' daughter Pero for his brother. He was held prisoner for a year, and Iphiclus set him free when he had told him the oracles (*Odyssey* 11.287–297, 15.225–238). The Iphiclus whom Nestor remembers outrunning at the funeral games of Amarynceus (23.636) is probably the same man, though Homer does not say so (see the note on Book 23 and [[the-funeral-games-of-amarynceus]]).
+In the Odyssey the seer Melampus tried to drive off the cattle of "mighty Iphiclus" from Phylace, to win Neleus' daughter Pero for his brother. He was held prisoner for a year, and Iphiclus set him free when he had told him the oracles (*Odyssey* 11.287–297, 15.225–238). The Iphiclus whom Nestor remembers outrunning at the funeral games of Amarynceus (23.636) is probably the same man, though Homer does not say so (see the note on *Iliad* 23 and [[the-funeral-games-of-amarynceus]]).
 
 ## Outside Homer
 

@@ -12,7 +12,7 @@ of: [horses]
 
 ## Meaning
 
-δίζυξ = δι- (“two”) + the root of ζυγόν (“yoke”): “yoked two together,” a pair, a team. Homer uses it twice, in the same half-verse, παρὰ δέ σφιν ἑκάστῳ δίζυγες ἵπποι, “and beside each one a yoke of horses.” In Book 5 Pandarus regrets that he came to Troy on foot, leaving at home in his father's halls eleven fine chariots, and beside each of them a pair of horses eating white barley and spelt (5.192–196). In Book 10 the pairs stand beside the sleeping Thracians (10.473). Compare [[single-hoofed]] and the other epithets of [[horses]].
+δίζυξ = δι- (“two”) + the root of ζυγόν (“yoke”): “yoked two together,” a pair, a team. Homer uses it twice, in the same half-verse, παρὰ δέ σφιν ἑκάστῳ δίζυγες ἵπποι, “and beside each one a yoke of horses.” In *Iliad* 5 Pandarus regrets that he came to Troy on foot, leaving at home in his father's halls eleven fine chariots, and beside each of them a pair of horses eating white barley and spelt (5.192–196). In Book 10 the pairs stand beside the sleeping Thracians (10.473). Compare [[single-hoofed]] and the other epithets of [[horses]].
 
 ## Use
 

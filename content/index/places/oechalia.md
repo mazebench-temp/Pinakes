@@ -12,7 +12,7 @@ passages:
 
 {{quote:fe00f2c5-6924-53ce-a99d-29fae1d8cfe5}}
 
-Homer names Oechalia twice in Book 2, and it is not clear that both lines mean the same place.
+Homer names Oechalia twice in *Iliad* 2, and it is not clear that both lines mean the same place.
 
 ## Where Homer puts it
 

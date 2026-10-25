@@ -2,7 +2,7 @@
 title: Ring composition
 kind: formula
 tags: [figure, repetition]
-summary: The arrangement of a speech or episode so that it returns at the end to where it began, often in nested pairs (A B C … C B A). Book 1 uses it at every scale, from Nestor's speech to the whole plague story, which is framed by Chryses' two prayers.
+summary: The arrangement of a speech or episode so that it returns at the end to where it began, often in nested pairs (A B C … C B A). *Iliad* 1 uses it at every scale, from Nestor's speech to the whole plague story, which is framed by Chryses' two prayers.
 aliases: [ring structure, chiasmus of episodes]
 passages:
   - 1.37-43 | Chryses' first prayer

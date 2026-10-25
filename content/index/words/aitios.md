@@ -19,7 +19,7 @@ In the Iliad the word is spoken most often to deny guilt, and each denial moves 
 - He tells the heralds who come for Briseis, “You are not to blame in my eyes, but Agamemnon” (1.335).
 - Priam tells Helen, “you are not to blame for anything in my eyes; it is the gods who are to blame” (3.164).
 
-The best-known plea in the poem is Agamemnon's. Before the army in Book 19 he says, “I am not to blame (οὐκ αἴτιός εἰμι), but Zeus and Moira and the Erinys who walks in darkness”, who cast savage ἄτη into his mind on the day he took Achilles' prize (19.86–89; see [[ate]]). He pays the gifts all the same (19.137–138). In the *Odyssey* Zeus complains of the habit: mortals blame (αἰτιόωνται) the gods for their evils, when by their own recklessness they suffer beyond their share (*Odyssey* 1.32–34). See [[who-is-to-blame]].
+The best-known plea in the poem is Agamemnon's. Before the army in *Iliad* 19 he says, “I am not to blame (οὐκ αἴτιός εἰμι), but Zeus and Moira and the Erinys who walks in darkness”, who cast savage ἄτη into his mind on the day he took Achilles' prize (19.86–89; see [[ate]]). He pays the gifts all the same (19.137–138). In the *Odyssey* Zeus complains of the habit: mortals blame (αἰτιόωνται) the gods for their evils, when by their own recklessness they suffer beyond their share (*Odyssey* 1.32–34). See [[who-is-to-blame]].
 
 {{notes}}
 

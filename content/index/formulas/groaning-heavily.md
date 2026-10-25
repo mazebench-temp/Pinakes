@@ -11,6 +11,6 @@ en: [Groaning heavily]
 
 ## The pattern
 
-βαρύ (“heavily,” the neuter of βαρύς used as an adverb) + στενάχων (“groaning,” from στενάχω). It takes the place of ἀπαμειβόμενος in the reply formula ([[answering-him]]): τὴν δὲ βαρὺ στενάχων προσέφη πόδας ὠκὺς Ἀχιλλεύς. The whole line returns in Book 18, when Achilles answers Thetis after the death of Patroclus (Il. 18.78). In Book 16 the poet uses the formula for Patroclus himself, addressing him directly: τὸν δὲ βαρὺ στενάχων προσέφης, Πατρόκλεες ἱππεῦ, “Groaning heavily, you said to him, horseman Patroclus” (Il. 16.20).
+βαρύ (“heavily,” the neuter of βαρύς used as an adverb) + στενάχων (“groaning,” from στενάχω). It takes the place of ἀπαμειβόμενος in the reply formula ([[answering-him]]): τὴν δὲ βαρὺ στενάχων προσέφη πόδας ὠκὺς Ἀχιλλεύς. The whole line returns in *Iliad* 18, when Achilles answers Thetis after the death of Patroclus (Il. 18.78). In Book 16 the poet uses the formula for Patroclus himself, addressing him directly: τὸν δὲ βαρὺ στενάχων προσέφης, Πατρόκλεες ἱππεῦ, “Groaning heavily, you said to him, horseman Patroclus” (Il. 16.20).
 
 {{notes}}

@@ -18,6 +18,6 @@ of: [thersites]
 
 {{quote:88ad2396-b31f-5d7f-9d58-56787e854433}}
 
-The narrator introduces Thersites with a cluster of words for disordered speech: he is ἀμετροεπής, he “brawls” (ἐκολῴα, the verb of κολῳός, the “brawling” of the gods in Book 1, [[kolooos]]), and he knows “many disorderly words” (ἔπεα … ἄκοσμά τε πολλά), with which he quarrels with kings “idly, and not in order” (μάψ, ἀτὰρ οὐ κατὰ κόσμον). The repeated κόσμος is pointed. Odysseus has just brought the army back to its seats ({{ref:Iliad 2.207-211}}; [[kingship-and-authority]]). Thersites is the one man whose words refuse the order.
+The narrator introduces Thersites with a cluster of words for disordered speech: he is ἀμετροεπής, he “brawls” (ἐκολῴα, the verb of κολῳός, the “brawling” of the gods in *Iliad* 1, [[kolooos]]), and he knows “many disorderly words” (ἔπεα … ἄκοσμά τε πολλά), with which he quarrels with kings “idly, and not in order” (μάψ, ἀτὰρ οὐ κατὰ κόσμον). The repeated κόσμος is pointed. Odysseus has just brought the army back to its seats ({{ref:Iliad 2.207-211}}; [[kingship-and-authority]]). Thersites is the one man whose words refuse the order.
 
 Odysseus' answer gives him another epithet of the same kind, [[reckless-in-speech]] (ἀκριτόμυθος). Compare the narrator's praise of Nestor, whose words flow “sweeter than honey” ([[sweet-of-speech]]).

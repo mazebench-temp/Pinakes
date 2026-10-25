@@ -16,7 +16,7 @@ of: [heralds]
 
 ## Use
 
-Book 2 has the phrase twice, in two passages built to match. After the council Agamemnon calls the army to the assembly:
+*Iliad* 2 has the phrase twice, in two passages built to match. After the council Agamemnon calls the army to the assembly:
 
 {{quote:0752ff08-0e87-517d-bf87-50f19f6c1d59}}
 

@@ -17,9 +17,9 @@ relations:
 
 ## Family
 
-{{figure:families-book-1.svg | The gods and heroes of Book 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
+{{figure:families-book-1.svg | The gods and heroes of *Iliad* 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
 
-In Book 1 Cronus appears only in his son's names:
+In *Iliad* 1 Cronus appears only in his son's names:
 
 {{quote:dc3a6df4-c044-5a37-ac68-5630b43c67f9}}
 
@@ -37,7 +37,7 @@ Father of [[Zeus]]. Hera is also his child (Iliad 4.59), and so the patronymic r
 
 ## Mythology
 
-Book 1 gives no story of Cronus, but its only myth of the gods' early days assumes that Zeus' rule was once fragile. That was the time after Cronus fell, when Zeus' own family tried to bind him. See [[binding-of-zeus]].
+*Iliad* 1 gives no story of Cronus, but its only myth of the gods' early days assumes that Zeus' rule was once fragile. That was the time after Cronus fell, when Zeus' own family tried to bind him. See [[binding-of-zeus]].
 
 ## Elsewhere in Homer
 

@@ -12,7 +12,7 @@ of: [buprasium]
 
 ## Meaning
 
-πολύπυρος = πολύς (“much”) + πυρός (“wheat,” the wheat of the reapers' field in a simile of Book 11, 11.69): “rich in wheat.” Homer uses it of Buprasium, where Nestor's pursuit of the Epeians ended (11.756); of Argos, in Nestor's prayer at the ships (15.372); and in the Odyssey of Dulichium, the island of the suitor Amphinomus (Od. 14.335, 16.394–396, 19.292), and of Syria, the island where the swineherd Eumaeus was born (Od. 15.403–406). Compare [[deep-soiled]] (ἐριβῶλαξ) and [[grain-giving]] (ζείδωρος).
+πολύπυρος = πολύς (“much”) + πυρός (“wheat,” the wheat of the reapers' field in a simile of *Iliad* 11, 11.69): “rich in wheat.” Homer uses it of Buprasium, where Nestor's pursuit of the Epeians ended (11.756); of Argos, in Nestor's prayer at the ships (15.372); and in the Odyssey of Dulichium, the island of the suitor Amphinomus (Od. 14.335, 16.394–396, 19.292), and of Syria, the island where the swineherd Eumaeus was born (Od. 15.403–406). Compare [[deep-soiled]] (ἐριβῶλαξ) and [[grain-giving]] (ζείδωρος).
 
 ## Use
 

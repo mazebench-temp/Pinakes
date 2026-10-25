@@ -16,7 +16,7 @@ of: [meges, meriones]
 
 ## Use
 
-Book 2 has both forms, twenty-five lines apart in the Catalogue. Meges, son of Phyleus, leads the men of Dulichium and the Echinae:
+*Iliad* 2 has both forms, twenty-five lines apart in the Catalogue. Meges, son of Phyleus, leads the men of Dulichium and the Echinae:
 
 {{quote:bf92e6b6-e0b8-5d95-88ff-c1ae38a348a6}}
 

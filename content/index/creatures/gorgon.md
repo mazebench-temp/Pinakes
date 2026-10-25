@@ -17,7 +17,7 @@ refs: [5.742]
 
 {{quote:1ccf4e4b-59ac-5499-b3b0-821a4cd1c489}}
 
-Γοργείη κεφαλή, “the Gorgon's head”, is set on the [[aegis]] with Rout, Strife, Courage and Onslaught (5.739–740; see [[rout]], [[strife]], [[courage]] and [[onslaught]]). She is δεινοῖο πελώρου, “the dread monster”, and her head is Διὸς τέρας αἰγιόχοιο, “the portent of aegis-bearing Zeus” (5.742). The same phrase names the serpent that an eagle drops among the Trojans in Book 12 (12.209). A τέρας is a portent, a sign that comes from Zeus (see [[teras]]). Homer does not say how the head came to the aegis.
+Γοργείη κεφαλή, “the Gorgon's head”, is set on the [[aegis]] with Rout, Strife, Courage and Onslaught (5.739–740; see [[rout]], [[strife]], [[courage]] and [[onslaught]]). She is δεινοῖο πελώρου, “the dread monster”, and her head is Διὸς τέρας αἰγιόχοιο, “the portent of aegis-bearing Zeus” (5.742). The same phrase names the serpent that an eagle drops among the Trojans in *Iliad* 12 (12.209). A τέρας is a portent, a sign that comes from Zeus (see [[teras]]). Homer does not say how the head came to the aegis.
 
 On the shield of Agamemnon the Gorgon “with grim face”, “glaring terribly”, is set as a crown (ἐστεφάνωτο), with Terror and Rout around her (11.36–37), as Rout crowns the aegis here (ἐστεφάνωται, 5.739). Hector, driving the Achaeans before him, has “the eyes of the Gorgon or of Ares, ruin of mortals” (8.349). In the Odyssey Odysseus leaves the land of the dead in fear that Persephone will send up from Hades “the Gorgon head of the dread monster” (Od. 11.633–635), the words of 5.741.
 

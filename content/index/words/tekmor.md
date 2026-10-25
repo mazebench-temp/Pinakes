@@ -11,7 +11,7 @@ en: [sign]
 
 ## Meaning
 
-τέκμωρ (Epic for τέκμαρ) is a sign or token, and also a fixed mark: a goal, an end. In Book 9 Achilles tells the embassy that the Achaeans will never find the τέκμωρ of Troy, the end of steep Ilios (9.418–419). The verb τεκμαίρομαι means “fix, ordain”, and later “judge from signs”.
+τέκμωρ (Epic for τέκμαρ) is a sign or token, and also a fixed mark: a goal, an end. In *Iliad* 9 Achilles tells the embassy that the Achaeans will never find the τέκμωρ of Troy, the end of steep Ilios (9.418–419). The verb τεκμαίρομαι means “fix, ordain”, and later “judge from signs”.
 
 {{notes}}
 

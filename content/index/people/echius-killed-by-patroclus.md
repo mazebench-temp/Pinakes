@@ -3,7 +3,7 @@ title: Echius, killed by Patroclus
 greek: Ἐχίος
 kind: person
 tags: [trojan, warrior]
-summary: A fighter on the Trojan side, one of the nine men whom Patroclus brings down one after another (16.415–418). Sarpedon then sees his companions fall at Patroclus' hands (16.419–420), so the nine were probably Lycians. Not the Achaean Echius whom Polites killed in Book 15, nor Echius, the father of Mecisteus.
+summary: A fighter on the Trojan side, one of the nine men whom Patroclus brings down one after another (16.415–418). Sarpedon then sees his companions fall at Patroclus' hands (16.419–420), so the nine were probably Lycians. Not the Achaean Echius whom Polites killed in *Iliad* 15, nor Echius, the father of Mecisteus.
 # Ἐχίον (16.416). Ἐχίον at 15.339 is the Achaean killed by Polites (echius-killed-by-polites, which excepts
 # 16.416); echius, the father of Mecisteus, claims Ἐχίοιο and excepts 16.416.
 grc: [Ἐχίον]

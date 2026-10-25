@@ -3,7 +3,7 @@ title: The armies clash
 greek: σύν ῥʼ ἔβαλον ῥινούς
 kind: formula
 tags: [type-scene, warfare]
-summary: Six verses for the moment two armies meet, used first in Book 4 and repeated whole in Book 8 (4.446–451 = 8.60–65): shields of hide dashed together, spears and the fury of bronze-clad men, the din, and the cries of killers and killed as the earth runs with blood.
+summary: Six verses for the moment two armies meet, used first in *Iliad* 4 and repeated whole in Book 8 (4.446–451 = 8.60–65): shields of hide dashed together, spears and the fury of bronze-clad men, the din, and the cries of killers and killed as the earth runs with blood.
 aliases: [the clash of the armies, when the armies met, general melee]
 grc: ["ἐς χῶρον ἕνα ξυνιόντες ἵκοντο", "σύν ῥʼ ἔβαλον ῥινούς", "ἔπληντʼ ἀλλήλῃσι", "οἰμωγή τε καὶ εὐχωλὴ", "ὀλλύντων τε καὶ ὀλλυμένων", "ῥέε δʼ αἵματι γαῖα"]
 en: [come together into one place, dashed together, pressed against one another, cries of pain and cries of triumph, killing and being killed, the earth ran with blood]
@@ -21,4 +21,4 @@ No one is named. The passage shows the whole battle before the poem turns to sin
 
 ## Elsewhere in Homer
 
-The same six verses begin the fighting of the next day of battle in Book 8, where they are followed not by a simile but by Zeus weighing the fates of the two armies in his golden scales at midday (8.60–65, 8.66–74).
+The same six verses begin the fighting of the next day of battle in *Iliad* 8, where they are followed not by a simile but by Zeus weighing the fates of the two armies in his golden scales at midday (8.60–65, 8.66–74).

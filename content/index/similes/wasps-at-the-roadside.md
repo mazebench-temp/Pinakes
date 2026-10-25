@@ -24,6 +24,6 @@ Asius drove his chariot for the open gate, and the Lapiths met him like oaks roo
 
 ## Elsewhere in Homer
 
-Wasps return when the Myrmidons pour out to battle behind Patroclus, “like wasps by the wayside” (16.259–267). The two similes share the road, the nest and the defense of the young. In Book 16 the swarm comes out and attacks; in Book 12 it stays at home and holds.
+Wasps return when the Myrmidons pour out to battle behind Patroclus, “like wasps by the wayside” (16.259–267). The two similes share the road, the nest and the defense of the young. In *Iliad* 16 the swarm comes out and attacks; in Book 12 it stays at home and holds.
 
-Bees are the image of number in Book 2, where the army streams to the assembly like swarms of bees pouring out of a hollow rock (2.87–93; see [[swarming-bees]]).
+Bees are the image of number in *Iliad* 2, where the army streams to the assembly like swarms of bees pouring out of a hollow rock (2.87–93; see [[swarming-bees]]).

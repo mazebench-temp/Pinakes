@@ -6,7 +6,7 @@ period: before-troy
 mode: allusion
 narrator: diomedes
 tags: [backstory, kingship]
-summary: Without Laomedon's knowledge, Anchises put his own mares to the king's stallions, of the divine breed Zeus had given Tros, and so stole a strain of it. Six foals were born in his halls; he kept four and gave two to his son Aeneas, and Diomedes takes those two in Book 5.
+summary: Without Laomedon's knowledge, Anchises put his own mares to the king's stallions, of the divine breed Zeus had given Tros, and so stole a strain of it. Six foals were born in his halls; he kept four and gave two to his son Aeneas, and Diomedes takes those two in *Iliad* 5.
 aliases: [the theft of Anchises, the foals of Anchises, Anchises' mares]
 participants: [anchises, laomedon, aeneas, diomedes]
 passages:

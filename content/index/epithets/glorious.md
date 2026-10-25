@@ -17,4 +17,4 @@ en: [glorious]
 
 {{quote:84c6e108-9fd6-59f3-a330-14bcae59dfc8}}
 
-Hector has scorned Paris' beauty as “the gifts of Aphrodite” (3.54). Paris answers that the gods' gifts are glorious, and not to be thrown away: no one could win them by his own will ([[gifts-of-the-gods]], [[golden]]). In Book 20 the narrator uses the same phrase of the shield Hephaestus made for Achilles: the glorious gifts of the gods are not easily broken by mortal men (Il. 20.264–266).
+Hector has scorned Paris' beauty as “the gifts of Aphrodite” (3.54). Paris answers that the gods' gifts are glorious, and not to be thrown away: no one could win them by his own will ([[gifts-of-the-gods]], [[golden]]). In *Iliad* 20 the narrator uses the same phrase of the shield Hephaestus made for Achilles: the glorious gifts of the gods are not easily broken by mortal men (Il. 20.264–266).

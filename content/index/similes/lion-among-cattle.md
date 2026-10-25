@@ -22,11 +22,11 @@ The point of likeness is the ease and suddenness of the kill. One lion leaps and
 
 ## In context
 
-Echemmon and Chromius are the last of the pairs of brothers whom Diomedes kills after his wound: Abas and Polyidus, the sons of the dream-reader Eurydamas (5.148–151), and Xanthus and Thoon, the only sons of old Phaenops (5.152–158). The sons of Priam are named with their father, “descendant of Dardanus” (5.159; see [[priam]] and [[sons-of-priam]]). One son of Priam, the bastard Democoon, fell to Odysseus in Book 4 (4.499); these are the next. They are “in one chariot” (εἰν ἑνὶ δίφρῳ, 5.160), a pair like the one Diomedes faces next, Aeneas and Pandarus, who come against him together in Aeneas' chariot (5.166–296).
+Echemmon and Chromius are the last of the pairs of brothers whom Diomedes kills after his wound: Abas and Polyidus, the sons of the dream-reader Eurydamas (5.148–151), and Xanthus and Thoon, the only sons of old Phaenops (5.152–158). The sons of Priam are named with their father, “descendant of Dardanus” (5.159; see [[priam]] and [[sons-of-priam]]). One son of Priam, the bastard Democoon, fell to Odysseus in *Iliad* 4 (4.499); these are the next. They are “in one chariot” (εἰν ἑνὶ δίφρῳ, 5.160), a pair like the one Diomedes faces next, Aeneas and Pandarus, who come against him together in Aeneas' chariot (5.166–296).
 
 ## Elsewhere in Homer
 
-Agamemnon has a day of killing like this one in Book 11. He takes Isus and Antiphus, two sons of Priam, one a bastard and one legitimate, “in one chariot”, and the simile is of a lion that comes into the lair of a deer and crushes her young fawns while she can do nothing to help them (11.101–121). Then he falls on the two sons of Antimachus, also “in one chariot”, rising against them “like a lion” (11.122–130).
+Agamemnon has a day of killing like this one in *Iliad* 11. He takes Isus and Antiphus, two sons of Priam, one a bastard and one legitimate, “in one chariot”, and the simile is of a lion that comes into the lair of a deer and crushes her young fawns while she can do nothing to help them (11.101–121). Then he falls on the two sons of Antimachus, also “in one chariot”, rising against them “like a lion” (11.122–130).
 
 The broken neck recurs. A lion that routs a herd of cattle at night breaks the neck of one and gulps down its blood and entrails (11.172–178), and a mountain lion seizes the best cow of a grazing herd, breaks her neck with its strong teeth and devours her, while dogs and herdsmen shout from a distance and dare not come near (17.61–67). Sarpedon dies under Patroclus' spear like a bull that a lion kills among the herd (16.487–491), and on the shield of Achilles two lions seize a bellowing bull at the head of the herd (18.579–586). See [[lion]] and [[cattle]].
 

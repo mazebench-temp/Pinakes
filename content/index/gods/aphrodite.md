@@ -25,7 +25,7 @@ In the Iliad she is the daughter of Zeus and Dione. When Diomedes wounds her, sh
 
 ## Descriptions
 
-Her own epithets are φιλομμειδής, "laughter-loving" (3.424, 5.375, 14.211, 20.40), and χρυσέη, "golden" (3.64). In Book 5, where Diomedes wounds her, she is also Κύπρις, "the Cyprian" (5.330, 5.422, 5.458).
+Her own epithets are φιλομμειδής, "laughter-loving" (3.424, 5.375, 14.211, 20.40), and χρυσέη, "golden" (3.64). In *Iliad* 5, where Diomedes wounds her, she is also Κύπρις, "the Cyprian" (5.330, 5.422, 5.458).
 
 {{notes}}
 

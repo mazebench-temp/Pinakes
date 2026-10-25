@@ -30,4 +30,4 @@ The strap was made from the hide of an ox “slain by force”, which is usually
 
 ## Elsewhere in Homer
 
-Aphrodite rescues her son Aeneas from Diomedes in Book 5 with the same verse, “had not Aphrodite, daughter of Zeus, been quick to see it” (5.311–312); this time she is wounded by Diomedes and drops him, and Apollo carries him off in a dark cloud (5.334–346). Apollo saves Hector from Achilles in the words used here, “very easily, as a god can, and hid him in thick mist” (20.443–444), and Agenor too (21.596–598). No god saves Hector in the end: when the scales of Zeus sink, Apollo leaves him (22.208–213).
+Aphrodite rescues her son Aeneas from Diomedes in *Iliad* 5 with the same verse, “had not Aphrodite, daughter of Zeus, been quick to see it” (5.311–312); this time she is wounded by Diomedes and drops him, and Apollo carries him off in a dark cloud (5.334–346). Apollo saves Hector from Achilles in the words used here, “very easily, as a god can, and hid him in thick mist” (20.443–444), and Agenor too (21.596–598). No god saves Hector in the end: when the scales of Zeus sink, Apollo leaves him (22.208–213).

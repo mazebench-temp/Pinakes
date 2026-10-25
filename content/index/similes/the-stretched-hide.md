@@ -30,4 +30,4 @@ Around the body the best men fight in a mist, while the rest of the armies fight
 
 ## Elsewhere in Homer
 
-The same verse-end, βοὸς μεγάλοιο βοείην, “the hide of a great bull”, returns on the shield of Achilles, where two lions have torn open the hide of the bull they have seized and gulp down its entrails and black blood (18.579–583). In Book 13 Zeus and Poseidon knot the rope of war and stretch it over both armies, “unbreakable and not to be loosed, which loosened the knees of many” (13.358–360; see [[the-rope-of-war]]).
+The same verse-end, βοὸς μεγάλοιο βοείην, “the hide of a great bull”, returns on the shield of Achilles, where two lions have torn open the hide of the bull they have seized and gulp down its entrails and black blood (18.579–583). In *Iliad* 13 Zeus and Poseidon knot the rope of war and stretch it over both armies, “unbreakable and not to be loosed, which loosened the knees of many” (13.358–360; see [[the-rope-of-war]]).

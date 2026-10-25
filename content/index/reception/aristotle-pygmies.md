@@ -12,7 +12,7 @@ passages:
 
 {{quote:c2977b5a-8482-5d94-893d-3e51d4d1a7fb}}
 
-The first simile of Book 3 sets the war of Troy beside a war at the edge of the world. The Trojans advance with clamor, like cranes that flee the winter and fly with cries to the streams of Oceanus, "bringing slaughter and doom to the Pygmy men" (3.3–6). Homer says no more about the Pygmies. Oceanus, the river around the earth, is where the Ethiopians live too (1.423).
+The first simile of *Iliad* 3 sets the war of Troy beside a war at the edge of the world. The Trojans advance with clamor, like cranes that flee the winter and fly with cries to the streams of Oceanus, "bringing slaughter and doom to the Pygmy men" (3.3–6). Homer says no more about the Pygmies. Oceanus, the river around the earth, is where the Ethiopians live too (1.423).
 
 Aristotle, describing the migrations of birds in the *History of Animals*, gave the cranes a route and the Pygmies a home. The cranes, he says, travel from the plains of Scythia to the marshes above Egypt, where the Nile flows from, and this is the region where the Pygmies live. "For this is no fable: there really is a race of small men, as is said, and their horses are small too, and they live in caves" (8.12, 597a4–9). The philosopher who wanted facts accepts the poet's people and moves them from the edge of the world to a place on the map.
 

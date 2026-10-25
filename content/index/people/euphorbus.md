@@ -18,11 +18,11 @@ relations:
 
 ## Family
 
-Πανθοΐδης Εὔφορβος, “Euphorbus, son of Panthous” (16.808): his father is one of the Trojan elders who sit with Priam on the wall by the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). The same patronymic names his brother Polydamas (13.756, 16.535; see [[polydamas]]). In Book 17, when Menelaus reminds him of Hyperenor, whom he killed at the end of Book 14 (17.24–28; 14.516–519), Euphorbus calls the dead man his brother (γνωτὸν ἐμόν, 17.35; see [[hyperenor]]), and he hopes to bring Menelaus' head and armor home and put them in the hands of his father and of his mother, Phrontis (17.38–40; see [[phrontis]]).
+Πανθοΐδης Εὔφορβος, “Euphorbus, son of Panthous” (16.808): his father is one of the Trojan elders who sit with Priam on the wall by the Scaean gates (3.146; see [[panthous]] and [[trojan-elders]]). The same patronymic names his brother Polydamas (13.756, 16.535; see [[polydamas]]). In *Iliad* 17, when Menelaus reminds him of Hyperenor, whom he killed at the end of Book 14 (17.24–28; 14.516–519), Euphorbus calls the dead man his brother (γνωτὸν ἐμόν, 17.35; see [[hyperenor]]), and he hopes to bring Menelaus' head and armor home and put them in the hands of his father and of his mother, Phrontis (17.38–40; see [[phrontis]]).
 
 ## Descriptions
 
-He “surpassed all of his age / with his spear and his horsemanship and his swift feet” (16.808–809). In Book 17 he is ἐϋμμελίης, “of the good ash spear” (17.9, 17.59), as the sons of Panthous are ἐϋμμελίαι (17.23; see [[with-good-ash-spear]]), and Apollo calls him the best of the Trojans (Τρώων τὸν ἄριστον, 17.80). His hair, like that of the Graces (Χαρίτεσσιν ὁμοῖαι), was braided with gold and silver (17.51–52).
+He “surpassed all of his age / with his spear and his horsemanship and his swift feet” (16.808–809). In *Iliad* 17 he is ἐϋμμελίης, “of the good ash spear” (17.9, 17.59), as the sons of Panthous are ἐϋμμελίαι (17.23; see [[with-good-ash-spear]]), and Apollo calls him the best of the Trojans (Τρώων τὸν ἄριστον, 17.80). His hair, like that of the Graces (Χαρίτεσσιν ὁμοῖαι), was braided with gold and silver (17.51–52).
 
 {{notes}}
 

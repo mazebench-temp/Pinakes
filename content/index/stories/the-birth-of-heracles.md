@@ -20,7 +20,7 @@ passages:
 
 {{quote:e653286d-e0c9-57b1-b1bf-e6f4f09c42cc}}
 
-**Zeus' boast.** Agamemnon tells it. On the day Heracles was to be born, Zeus spoke among all the gods, “boasting” (εὐχόμενος, 19.100), and began with the two verses with which he opened his ban on the gods in Book 8 (19.101–102 ≈ 8.5–6; see [[hear-me]] and [[zeus]]):
+**Zeus' boast.** Agamemnon tells it. On the day Heracles was to be born, Zeus spoke among all the gods, “boasting” (εὐχόμενος, 19.100), and began with the two verses with which he opened his ban on the gods in *Iliad* 8 (19.101–102 ≈ 8.5–6; see [[hear-me]] and [[zeus]]):
 
 {{quote:74a769a4-d9eb-5989-894b-8d5cf4881605}}
 
@@ -36,7 +36,7 @@ Then she brings Zeus the news herself: “now a brave man is born who will be lo
 
 {{quote:634eb8bf-d3e9-5a97-bd4a-b046a355d797}}
 
-The story ends not with the birth of Heracles, which it never tells, but with his servitude: “Over her he always groaned whenever he saw his dear son / doing unseemly work under the labors that Eurystheus set him” (19.132–133; see [[heracles]]). The last words, ὑπʼ Εὐρυσθῆος ἀέθλων, are those of Athena's complaint in Book 8, that Zeus had forgotten how often she saved his son “when he was worn out by the labors that Eurystheus set him” (8.363; see [[heracles-and-cerberus]]).
+The story ends not with the birth of Heracles, which it never tells, but with his servitude: “Over her he always groaned whenever he saw his dear son / doing unseemly work under the labors that Eurystheus set him” (19.132–133; see [[heracles]]). The last words, ὑπʼ Εὐρυσθῆος ἀέθλων, are those of Athena's complaint in *Iliad* 8, that Zeus had forgotten how often she saved his son “when he was worn out by the labors that Eurystheus set him” (8.363; see [[heracles-and-cerberus]]).
 
 ## In the poem
 
@@ -46,7 +46,7 @@ The story ends not with the birth of Heracles, which it never tells, but with hi
 
 **A mortal tells the gods' story.** Leaf observes that here a man in the story tells the doings and even the words of the gods, which elsewhere the poet tells himself, and takes it as a sign that the episode was worked in from an independent poem on Heracles (on 19.95; see the translation's note on 19.95–133). Achilles, too, told how the gods once tried to bind Zeus, but as he had heard it from his mother (1.396–406; see [[binding-of-zeus]]). An ancient critic wanted Hera to leave “the starry sky”, not “the peak of Olympus” (19.114), and Leaf takes the objection to mean that Agamemnon knows too much for a mortal of the ways of the gods (on 19.114).
 
-**Words of birth.** Zeus' boast is made in the poem's language of childbirth. “Eileithyia, who brings hard birth, will bring into the light” (μογοστόκος Εἰλείθυια, φόως δέ, 19.103) are the words of Eudorus' birth (16.187–188; see [[eileithyia]], [[who-brings-hard-birth]] and [[the-birth-of-eudorus]]). “Falls between a woman's feet” (19.110) is, to Leaf, a naive phrase for being born (on 19.110). Eurystheus is born in the seventh month (19.117) and ἠλιτόμηνος, “short of his months” (19.118), a word found nowhere else in Homer. The Eileithyiai whom Hera holds back from Alcmene (19.119) are “the daughters of Hera” in a simile of Book 11 (11.270–271).
+**Words of birth.** Zeus' boast is made in the poem's language of childbirth. “Eileithyia, who brings hard birth, will bring into the light” (μογοστόκος Εἰλείθυια, φόως δέ, 19.103) are the words of Eudorus' birth (16.187–188; see [[eileithyia]], [[who-brings-hard-birth]] and [[the-birth-of-eudorus]]). “Falls between a woman's feet” (19.110) is, to Leaf, a naive phrase for being born (on 19.110). Eurystheus is born in the seventh month (19.117) and ἠλιτόμηνος, “short of his months” (19.118), a word found nowhere else in Homer. The Eileithyiai whom Hera holds back from Alcmene (19.119) are “the daughters of Hera” in a simile of *Iliad* 11 (11.270–271).
 
 **Hera's enmity.** The story carries back to his birth an enmity that the poem has already shown: Hera drove Heracles to Cos with a storm when he sailed home from Troy (14.249–256, 15.18–30; see [[hera-drives-heracles-to-cos]]), and Achilles named “the grievous anger of Hera” among the things that brought him down (18.119). Hera deceives Zeus twice in the poem. On Ida she lulls him to sleep (14.153–353; see [[the-deception-of-zeus]]), setting out from Olympus in the same verse (19.114 = 14.225), and when he wakes he tells her that she “deceived” him (καί μʼ ἀπάτησας, 15.33), the verb of 19.97 (ἀπάτησεν).
 

@@ -1,9 +1,9 @@
 ---
-title: The titles of Book 10
+title: The titles of Iliad 10
 greek: Δολώνεια, νυκτεγερσία
 kind: note
 tags: [scholarship]
-summary: Book 10 is traditionally called the Doloneia, “the lay of Dolon”, after the Trojan spy who dies in it, and Aelian names “a Doloneia” among the episodes of the Iliad once sung on their own. Strabo, reporting the critic Crates, calls it the night-rousing (νυκτεγερσία), a name the book earns with its many wakings.
+summary: Book 10 of the Iliad is traditionally called the Doloneia, “the lay of Dolon”, after the Trojan spy who dies in it, and Aelian names “a Doloneia” among the episodes of the Iliad once sung on their own. Strabo, reporting the critic Crates, calls it the night-rousing (νυκτεγερσία), a name the book earns with its many wakings.
 source: Aelian, Historical Miscellany (Varia Historia) 13.14; Strabo, Geography 9.5.18
 of: [the-doloneia, dolon, the-doloneia-question, title-of-book-9]
 refs: [10.138, 10.157-159, 10.314]
@@ -14,7 +14,7 @@ passages:
 
 {{quote:da0f296e-8422-55e9-b644-85ffcd1bf2ba}}
 
-The traditional title of Book 10 is Δολώνεια, “the Doloneia”, the lay of [[dolon|Dolon]]. In the division of the poem into twenty-four books, each named by a letter, this one is Κ, kappa (see [[title-of-book-5]]). The name is formed like Πατρόκλεια, the old title of Book 16, and like Ὀδύσσεια itself, “the song of Odysseus”: the hero's name with the ending ‑εια. The book's story is told under [[the-doloneia]].
+The traditional title of *Iliad* 10 is Δολώνεια, “the Doloneia”, the lay of [[dolon|Dolon]]. In the division of the poem into twenty-four books, each named by a letter, this one is Κ, kappa (see [[title-of-book-5]]). The name is formed like Πατρόκλεια, the old title of Book 16, and like Ὀδύσσεια itself, “the song of Odysseus”: the hero's name with the ending ‑εια. The book's story is told under [[the-doloneia]].
 
 **Aelian's list.** The name is old. Aelian, collecting curiosities in the third century CE, writes that the ancients once sang the poems of Homer divided up, and gives the names they used: “The battle at the ships, and a Doloneia (Δολώνειάν τινα), and the Aristeia of Agamemnon, and the Catalogue of Ships, and the Patrocleia, and the Ransom, and the Games for Patroclus, and the Obliteration of the Oaths”. A list of episodes of the Odyssey follows, among them the Cyclopeia (Κυκλώπεια), another name of the same shape. Late, he adds, Lycurgus of Sparta first brought Homer's poetry to Greece as a whole, from Ionia, and afterward Peisistratus collected it and produced the Iliad and the Odyssey (*Historical Miscellany* 13.14). Several of his names have their own entries here (see [[the-boeotia]] and [[titles-of-book-4]]). What Aelian says about separate performance bears on the old question whether this book belonged to the Iliad from the first (see [[the-doloneia-question]]).
 

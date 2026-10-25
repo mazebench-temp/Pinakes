@@ -12,7 +12,7 @@ of: [horses]
 
 ## Meaning
 
-κεντρηνεκής joins κέντρον (“goad”) to a form of the root ἐνεκ- (the aorist of φέρω, ἐνεγκεῖν, “carry”): “carried along by the goad,” horses driven hard. Homer uses it only in one verse, of Hera's horses, here and when she drives out again in Book 8 (5.752 = Il. 8.396). The same κέντρον is in [[goaders-of-horses]] (κέντορες ἵππων).
+κεντρηνεκής joins κέντρον (“goad”) to a form of the root ἐνεκ- (the aorist of φέρω, ἐνεγκεῖν, “carry”): “carried along by the goad,” horses driven hard. Homer uses it only in one verse, of Hera's horses, here and when she drives out again in *Iliad* 8 (5.752 = Il. 8.396). The same κέντρον is in [[goaders-of-horses]] (κέντορες ἵππων).
 
 ## Use
 

@@ -16,7 +16,7 @@ of: [augeiae, augeiae-laconia, araethyrea, arene, mantinea, lacedaemon, maeonia,
 
 ## Use
 
-In Book 2 the epithet belongs to the Catalogue, where it is, after [[well-built]], the commonest adjective for a town. It is given to Augeiae in Locris ({{ref:Iliad 2.532}}) and to a second Augeiae in Laconia, in exactly the same words, Αὐγειὰς ἐρατεινάς ({{ref:Iliad 2.583}}); to Araethyrea near Mycenae ({{ref:Iliad 2.571}}); to Mantinea in Arcadia ({{ref:Iliad 2.607}}); and to Arene in Nestor's kingdom:
+In *Iliad* 2 the epithet belongs to the Catalogue, where it is, after [[well-built]], the commonest adjective for a town. It is given to Augeiae in Locris ({{ref:Iliad 2.532}}) and to a second Augeiae in Laconia, in exactly the same words, Αὐγειὰς ἐρατεινάς ({{ref:Iliad 2.583}}); to Araethyrea near Mycenae ({{ref:Iliad 2.571}}); to Mantinea in Arcadia ({{ref:Iliad 2.607}}); and to Arene in Nestor's kingdom:
 
 {{quote:3c989587-8240-5a19-bcd3-53ade1ede1d6}}
 

@@ -3,7 +3,7 @@ title: Schedius
 greek: Σχεδίος
 kind: person
 tags: [achaean, warrior, phocis]
-summary: One of the two leaders of the [[Phocians]], son of [[Iphitus]] and brother of [[Epistrophus]]. Hector kills him in Book 17, though in Book 15 he has already killed a Phocian leader of the same name, the son of Perimedes.
+summary: One of the two leaders of the [[Phocians]], son of [[Iphitus]] and brother of [[Epistrophus]]. Hector kills him in *Iliad* 17, though in Book 15 he has already killed a Phocian leader of the same name, the son of Perimedes.
 grc: [Σχεδίος]
 except: [15.515]
 relations:
@@ -19,7 +19,7 @@ The name is probably related to σχεδόν, "near", as in σχεδίην, "at 
 
 ## Elsewhere in Homer
 
-In Book 15 Hector kills "Schedius, son of Perimedes, / leader of the Phocians" (15.515–516; see [[schedius-son-of-perimedes]]). In Book 17 he kills “Schedius, son of great-hearted Iphitus, / by far the best of the Phocians, who in famous Panopeus / had his home and ruled over many men” (17.306–308; see [[panopeus]]). Either the poem knows two Phocian leaders of this name, or it has slipped; readers ancient and modern have taken both views. The man of the Catalogue is the son of Iphitus.
+In *Iliad* 15 Hector kills "Schedius, son of Perimedes, / leader of the Phocians" (15.515–516; see [[schedius-son-of-perimedes]]). In Book 17 he kills “Schedius, son of great-hearted Iphitus, / by far the best of the Phocians, who in famous Panopeus / had his home and ruled over many men” (17.306–308; see [[panopeus]]). Either the poem knows two Phocian leaders of this name, or it has slipped; readers ancient and modern have taken both views. The man of the Catalogue is the son of Iphitus.
 
 ## Outside Homer
 

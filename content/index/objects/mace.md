@@ -13,7 +13,7 @@ passages:
 
 ## Meaning
 
-κορύνη is a club or mace, a staff with a heavy head. The word has been connected with κόρυς, “helmet”, and κορυφή, “crown, top”, as a stick with a knob at its end, but the connection is not certain. κορυνήτης, “mace-man”, is formed from it as αἰχμητής, “spearman”, is formed from αἰχμή, “spear-point” (see [[spearmen]]). Both words occur in Homer only in Book 7: κορυνήτης twice, as the byname of Areithous (7.9, 7.138), and κορύνη twice, in the story of his death (7.141, 7.143).
+κορύνη is a club or mace, a staff with a heavy head. The word has been connected with κόρυς, “helmet”, and κορυφή, “crown, top”, as a stick with a knob at its end, but the connection is not certain. κορυνήτης, “mace-man”, is formed from it as αἰχμητής, “spearman”, is formed from αἰχμή, “spear-point” (see [[spearmen]]). Both words occur in Homer only in *Iliad* 7: κορυνήτης twice, as the byname of Areithous (7.9, 7.138), and κορύνη twice, in the story of his death (7.141, 7.143).
 
 Homer's other word for a club, ῥόπαλον, is a staff or cudgel, not a weapon of war. Boys break their sticks on a stubborn donkey in a simile for Ajax (11.558–562), the Cyclops keeps a great club of green olive wood in his cave (Od. 9.319–320), and in the underworld the hunter Orion holds a club of solid bronze (Od. 11.572–575).
 

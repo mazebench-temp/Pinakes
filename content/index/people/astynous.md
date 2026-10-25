@@ -3,7 +3,7 @@ title: Astynous
 greek: Ἀστύνοος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan whom Diomedes kills with a spear thrust above the nipple, together with [[Hypeiron]] (5.144–145). Another Astynous, [[astynous-son-of-protiaon|son of Protiaon]], appears in Book 15.
+summary: A Trojan whom Diomedes kills with a spear thrust above the nipple, together with [[Hypeiron]] (5.144–145). Another Astynous, [[astynous-son-of-protiaon|son of Protiaon]], appears in *Iliad* 15.
 grc: [Ἀστύνοον]
 except: [15.455]
 # A second Astynous, son of Protiaon, is named at 15.455 (Ἀστυνόῳ: astynous-son-of-protiaon).

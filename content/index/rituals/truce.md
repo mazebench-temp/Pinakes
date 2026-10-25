@@ -22,7 +22,7 @@ A truce in the Iliad is proposed and carried by heralds, sworn before Zeus, and 
 
 ## Elsewhere in Homer
 
-**For the duel.** In Book 3 Paris proposes that the others make friendship and a trusty truce while he and Menelaus fight for Helen (3.67–75). The armies lay their armor on the ground (3.113–115), and Agamemnon swears the oaths over lambs and wine in Priam's presence (3.245–301). The truce was meant to end the war, and in Book 4 Pandarus breaks it with an arrow, at the gods' contriving (4.64–72, 4.104–126; see [[the-oaths-sworn]] and [[pandarus-breaks-the-truce]]).
+**For the duel.** In *Iliad* 3 Paris proposes that the others make friendship and a trusty truce while he and Menelaus fight for Helen (3.67–75). The armies lay their armor on the ground (3.113–115), and Agamemnon swears the oaths over lambs and wine in Priam's presence (3.245–301). The truce was meant to end the war, and in Book 4 Pandarus breaks it with an arrow, at the gods' contriving (4.64–72, 4.104–126; see [[the-oaths-sworn]] and [[pandarus-breaks-the-truce]]).
 
 **For Hector's funeral.** In the last book Achilles asks Priam how many days he needs to bury Hector, so that he may hold back the army for that long (24.656–658). Priam asks for eleven: nine days to mourn and gather wood, the tenth to burn Hector and feast, the eleventh to heap the mound; on the twelfth they will fight, if they must (24.660–667). Achilles grants it and takes the old man's right wrist, so that he will not be afraid (24.669–672). Even so, the Trojans set watchmen around the mound while they build it, for fear the Achaeans will attack (24.799–800).
 

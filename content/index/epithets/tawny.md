@@ -18,4 +18,4 @@ of: [horses]
 
 {{quote:de37ec23-05bd-545e-a892-0dbe5fdafe56}}
 
-The Trojan ally Asius is known by his horses: they carried him “from Arisbe, great and tawny horses, from the river Selleis.” The same two lines return in Book 12, where Asius refuses to leave them and drives his chariot at the Achaean wall (Il. 12.96–97; [[leader-of-men]]).
+The Trojan ally Asius is known by his horses: they carried him “from Arisbe, great and tawny horses, from the river Selleis.” The same two lines return in *Iliad* 12, where Asius refuses to leave them and drives his chariot at the Achaean wall (Il. 12.96–97; [[leader-of-men]]).

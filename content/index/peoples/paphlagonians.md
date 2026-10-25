@@ -17,7 +17,7 @@ The entry opens with a periphrasis: the Paphlagonians were led, literally, by "t
 
 ## Elsewhere in Homer
 
-In Book 13 they carry the body of Pylaemenes' son Harpalion back to Troy, and his father, though Menelaus killed him in Book 5, follows it, weeping (13.656–659; see [[pylaemenes]]). Harpalion had been Paris' guest-friend among the Paphlagonians, and Paris avenges him by shooting the Corinthian Euchenor (13.660–672).
+In *Iliad* 13 they carry the body of Pylaemenes' son Harpalion back to Troy, and his father, though Menelaus killed him in Book 5, follows it, weeping (13.656–659; see [[pylaemenes]]). Harpalion had been Paris' guest-friend among the Paphlagonians, and Paris avenges him by shooting the Corinthian Euchenor (13.660–672).
 
 ## Outside Homer
 

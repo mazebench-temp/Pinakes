@@ -18,7 +18,7 @@ Since antiquity the epithet has also been connected with γλαύξ (“owl”),
 
 ## Use
 
-The formula θεὰ γλαυκῶπις Ἀθήνη, “the gray-eyed goddess Athena,” fills the second half of the verse after the caesura in the middle of the third foot, the place held by θεὰ λευκώλενος Ἥρη ([[white-armed]]). In Book 1 it occurs once:
+The formula θεὰ γλαυκῶπις Ἀθήνη, “the gray-eyed goddess Athena,” fills the second half of the verse after the caesura in the middle of the third foot, the place held by θεὰ λευκώλενος Ἥρη ([[white-armed]]). In *Iliad* 1 it occurs once:
 
 {{quote:f7e234bd-908e-5189-add0-a9ab8f7b7499}}
 

@@ -11,7 +11,7 @@ en: [shameful, ugliest]
 
 ## Meaning
 
-αἰσχρός is the adjective of αἶσχος, “ugliness, disgrace”. One word covers what offends the eye and what offends the sense of honor. Thersites is αἴσχιστος, “the ugliest man who came to Ilios” (2.216), and it is αἰσχρόν, “shameful”, to go home empty-handed after nine years (2.298). Its opposite, καλός, is both “beautiful” and “fine, noble”, and Book 2 sets the two superlatives in the same frame of line: Thersites is the ugliest man “who came to Ilios”, Nireus the most handsome (κάλλιστος, 2.673).
+αἰσχρός is the adjective of αἶσχος, “ugliness, disgrace”. One word covers what offends the eye and what offends the sense of honor. Thersites is αἴσχιστος, “the ugliest man who came to Ilios” (2.216), and it is αἰσχρόν, “shameful”, to go home empty-handed after nine years (2.298). Its opposite, καλός, is both “beautiful” and “fine, noble”, and *Iliad* 2 sets the two superlatives in the same frame of line: Thersites is the ugliest man “who came to Ilios”, Nireus the most handsome (κάλλιστος, 2.673).
 
 Words can be αἰσχρά. Hector rebukes Paris “with shaming words” (αἰσχροῖς ἐπέεσσι, 3.38 = 6.325), words that bring shame on the man they are aimed at. The plural of the noun, αἴσχεα, means “reproaches”: Hector's heart grieves when he hears the Trojans' αἴσχεα about Paris (6.524). The verb αἰσχύνω in Homer means “shame, foul, disfigure”. Achilles, told of Patroclus' death, fouls his handsome face with sooty dust (18.24), and Priam imagines dogs defiling the body of an old man killed in war (22.75).
 

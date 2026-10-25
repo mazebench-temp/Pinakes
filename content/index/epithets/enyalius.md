@@ -14,7 +14,7 @@ of: [ares]
 
 The origin of Ἐνυάλιος is unknown. It is related to the name of Enyo (Ἐνυώ), a goddess of war who goes into battle beside Ares (Il. 5.592–593). In the Iliad Enyalius is Ares under another name: Hector in Achilles' armor is filled with “dread Enyalius” (Il. 17.211), and “Enyalius is impartial, and he kills the man who would kill” (Il. 18.309). The name is older than Homer. A Linear B tablet from Knossos (KN V 52) names *e-nu-wa-ri-jo* beside *a-ta-na-po-ti-ni-ja*, the “Lady of Athana,” and *pa-ja-wo-ne*, Paean, and there Enyalius seems to be a god in his own right. Later Greek cult sometimes kept the two apart.
 
-In Book 2 the name stands with ἀνδρειφόντης = ἀνήρ (“man”) + -φόντης (“slayer”): “man-slaying,” an epithet found only in this formula. The verse does not scan as it has come down: the meter requires ἀνδρειφόντῃ to begin with two short syllables. The usual explanation is that the word once had a syllabic *r̥*, *anr̥-kʷʰontāi*, pronounced as two short syllables. If so, the formula was made while the language still had that sound, and it is among the oldest phrases in the poem. The explanation is widely accepted but cannot be proved.
+In *Iliad* 2 the name stands with ἀνδρειφόντης = ἀνήρ (“man”) + -φόντης (“slayer”): “man-slaying,” an epithet found only in this formula. The verse does not scan as it has come down: the meter requires ἀνδρειφόντῃ to begin with two short syllables. The usual explanation is that the word once had a syllabic *r̥*, *anr̥-kʷʰontāi*, pronounced as two short syllables. If so, the formula was made while the language still had that sound, and it is among the oldest phrases in the poem. The explanation is widely accepted but cannot be proved.
 
 ## Use
 

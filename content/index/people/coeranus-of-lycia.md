@@ -3,7 +3,7 @@ title: Coeranus the Lycian
 greek: Κοίρανος
 kind: person
 tags: [trojan, lycia, warrior]
-summary: A Lycian, the first of the seven whom [[Odysseus]] kills when Athena turns his heart from the wounded Sarpedon against the Lycians (5.677). Not the Cretan Coeranus, Meriones' charioteer, whom Hector kills in Book 17.
+summary: A Lycian, the first of the seven whom [[Odysseus]] kills when Athena turns his heart from the wounded Sarpedon against the Lycians (5.677). Not the Cretan Coeranus, Meriones' charioteer, whom Hector kills in *Iliad* 17.
 aliases: [Coeranus of Lycia]
 # ^: κοίρανος “lord, commander” is a common noun.
 grc: ["^Κοίρανον"]

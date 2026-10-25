@@ -30,7 +30,7 @@ The Iliad never shows Achilles' death, but it keeps it in view. The honor he see
 
 ## Elsewhere in Homer
 
-In Book 9 Achilles says his mother told him of two fates: to stay and fight at Troy, with imperishable fame but no homecoming, or to go home and live long without it (9.410–416; see [[the-two-fates-of-achilles]]). He learns he must die soon after Hector (18.95–96); his horse Xanthus tells him that the day is near and that a god and a man will bring him down (19.408–417; see [[xanthus-the-horse]]); trapped in the river, he says that his mother told him he would perish under the wall of Troy by the arrows of Apollo (21.277–278); and the dying Hector names the god and the man, Paris and Apollo, at the Scaean gates (22.359–360). The Odyssey describes his funeral (Od. 24.36–94).
+In *Iliad* 9 Achilles says his mother told him of two fates: to stay and fight at Troy, with imperishable fame but no homecoming, or to go home and live long without it (9.410–416; see [[the-two-fates-of-achilles]]). He learns he must die soon after Hector (18.95–96); his horse Xanthus tells him that the day is near and that a god and a man will bring him down (19.408–417; see [[xanthus-the-horse]]); trapped in the river, he says that his mother told him he would perish under the wall of Troy by the arrows of Apollo (21.277–278); and the dying Hector names the god and the man, Paris and Apollo, at the Scaean gates (22.359–360). The Odyssey describes his funeral (Od. 24.36–94).
 
 ## Outside Homer
 

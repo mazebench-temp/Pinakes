@@ -19,4 +19,4 @@ The same word is the name of a bird, the bee-eater, and of a man: Merops of Perc
 
 {{quote:dd9be6f9-e43e-59b3-9093-e57b2633665e}}
 
-Nestor has outlived two generations of men and now rules the third. The formula sets his long life against the ordinary span of human generations. Book 1 has other words for humankind as opposed to the gods: [[mortal-men]] (θνητοὶ ἄνθρωποι) and [[upon-the-earth]] (ἐπιχθόνιοι).
+Nestor has outlived two generations of men and now rules the third. The formula sets his long life against the ordinary span of human generations. *Iliad* 1 has other words for humankind as opposed to the gods: [[mortal-men]] (θνητοὶ ἄνθρωποι) and [[upon-the-earth]] (ἐπιχθόνιοι).

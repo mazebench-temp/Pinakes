@@ -14,7 +14,7 @@ of: [achilles]
 
 ἐκπαγλότατος is the superlative of ἔκπαγλος, “terrible, violent, astonishing.” The adjective is usually explained from ἐκπλήσσω (“strike out of one's senses, astound”), so that its root sense is “astounding.” It can express awe or disapproval.
 
-Book 1 also has the adverb: the Lapiths destroyed the Centaurs ἐκπάγλως, “terribly” ({{ref:Iliad 1.268}}). In Book 3 Aphrodite tells Helen that she loves her ἔκπαγλα, “beyond measure” (Il. 3.415).
+*Iliad* 1 also has the adverb: the Lapiths destroyed the Centaurs ἐκπάγλως, “terribly” ({{ref:Iliad 1.268}}). In Book 3 Aphrodite tells Helen that she loves her ἔκπαγλα, “beyond measure” (Il. 3.415).
 
 ## Use
 

@@ -26,7 +26,7 @@ Then the oak, and the fall: “so the might of Hector fell quickly to the ground
 
 ## Elsewhere in Homer
 
-Ajax has felled Hector with a stone before. In their duel in Book 7 he lifted a far greater stone than Hector's, hurled it “whirling it round”, broke Hector's shield with it and stretched him on his back, “but Apollo at once set him on his feet” (7.268–272). This time no god raises him at once. He is carried to the ford of the Xanthus, vomits dark blood and sinks back with black night over his eyes (14.433–439), and Apollo comes to revive him only in the next book, sent by Zeus (15.236–262).
+Ajax has felled Hector with a stone before. In their duel in *Iliad* 7 he lifted a far greater stone than Hector's, hurled it “whirling it round”, broke Hector's shield with it and stretched him on his back, “but Apollo at once set him on his feet” (7.268–272). This time no god raises him at once. He is carried to the ford of the Xanthus, vomits dark blood and sinks back with black night over his eyes (14.433–439), and Apollo comes to revive him only in the next book, sent by Zeus (15.236–262).
 
 ## Outside Homer
 

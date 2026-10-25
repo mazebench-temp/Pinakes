@@ -21,11 +21,11 @@ The Iliad gives the word mostly to warriors, which suits the first sense. The Od
 
 ## Use
 
-Book 2 uses the epithet at its beginning and its end. The Dream opens its message with a formal address to Agamemnon through his father:
+*Iliad* 2 uses the epithet at its beginning and its end. The Dream opens its message with a formal address to Agamemnon through his father:
 
 {{quote:836e20ea-a0df-5a3c-b96c-dacb08847e3a}}
 
-The half-line υἱὲ δαΐφρονος ἱπποδάμοιο (“son of wise-hearted …, tamer of horses”; [[tamer-of-horses]]) is a ready-made frame for addressing a man through his father. Agamemnon uses it in Book 4 to reproach Diomedes, “son of wise-hearted Tydeus” (Il. 4.370). Here it lends the lying message the courtesy of a proper greeting, and Agamemnon repeats it word for word when he reports the dream ({{ref:Iliad 2.60}}).
+The half-line υἱὲ δαΐφρονος ἱπποδάμοιο (“son of wise-hearted …, tamer of horses”; [[tamer-of-horses]]) is a ready-made frame for addressing a man through his father. Agamemnon uses it in *Iliad* 4 to reproach Diomedes, “son of wise-hearted Tydeus” (Il. 4.370). Here it lends the lying message the courtesy of a proper greeting, and Agamemnon repeats it word for word when he reports the dream ({{ref:Iliad 2.60}}).
 
 The last use is in the book's second-to-last line. One of the Carian leaders, Nastes or his brother Amphimachus (the Greek does not say which), came to war wearing gold like a girl, and it did not save him:
 

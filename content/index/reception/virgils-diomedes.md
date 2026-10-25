@@ -13,7 +13,7 @@ passages:
 
 {{quote:404d182a-8d6a-524c-9d87-0a281dd00a1a}}
 
-In Book 5 Diomedes nearly kills Aeneas. He crushes his hip with a stone that two men of today could not carry (see [[men-of-today]]), and only Aphrodite, and then Apollo, carry him out of the battle; Diomedes wounds the goddess in the hand as she goes (5.297–351; see [[aeneas]] and [[diomedes]]). The Aeneid remembers the scene twice.
+In *Iliad* 5 Diomedes nearly kills Aeneas. He crushes his hip with a stone that two men of today could not carry (see [[men-of-today]]), and only Aphrodite, and then Apollo, carry him out of the battle; Diomedes wounds the goddess in the hand as she goes (5.297–351; see [[aeneas]] and [[diomedes]]). The Aeneid remembers the scene twice.
 
 **Aeneas' wish.** The poem begins with a storm. As his ships are wrecked, Aeneas groans that those who died before their fathers' eyes beneath the walls of Troy were three and four times blessed, and he calls on Diomedes: “O bravest of the race of the Danaans, son of Tydeus! Could I not have fallen on the plains of Ilium and poured out this life by your right hand, where fierce Hector lies by the spear of Achilles, where huge Sarpedon lies” (*Aeneid* 1.94–101). The model is Odysseus in his storm, who calls the Danaans who died at Troy three and four times blessed and wishes he had died there (*Odyssey* 5.306–312). Virgil adds the name of the man at whose hands Aeneas nearly did die, in Iliad 5.
 

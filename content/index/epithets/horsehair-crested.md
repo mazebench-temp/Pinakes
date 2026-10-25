@@ -12,7 +12,7 @@ of: [helmet]
 
 ## Meaning
 
-ἵππουρις = ἵππος (“horse”) + οὐρά (“tail”): “with a horse-tail,” the plume of horsehair on the crest. ἱπποδάσεια = ἵππος + δασύς (“thick, shaggy”): “thick with horsehair.” The crest (λόφος) was set on the ridge (φάλος) that ran over the top of the helmet. The ridge of the horsehair-crested helmet, κόρυθος φάλον ἱπποδασείης, is where spears strike in the first killings of Books 4 and 6 (Il. 4.459, 6.9). In the arming verse ἵππουρις is followed by the nodding plume: “and the plume nodded terribly above it” (3.337). The same nodding crest frightens Hector's baby son (Il. 6.469–470).
+ἵππουρις = ἵππος (“horse”) + οὐρά (“tail”): “with a horse-tail,” the plume of horsehair on the crest. ἱπποδάσεια = ἵππος + δασύς (“thick, shaggy”): “thick with horsehair.” The crest (λόφος) was set on the ridge (φάλος) that ran over the top of the helmet. The ridge of the horsehair-crested helmet, κόρυθος φάλον ἱπποδασείης, is where spears strike in the first killings of *Iliad* 4 and 6 (Il. 4.459, 6.9). In the arming verse ἵππουρις is followed by the nodding plume: “and the plume nodded terribly above it” (3.337). The same nodding crest frightens Hector's baby son (Il. 6.469–470).
 
 ## Use
 

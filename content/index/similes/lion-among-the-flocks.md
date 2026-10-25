@@ -16,7 +16,7 @@ passages:
 
 {{quote:766295b2-ca7a-530b-9ef5-eeec864c6e03}}
 
-ὡς δὲ λέων μήλοισιν ἀσημάντοισιν ἐπελθὼν / αἴγεσιν ἢ ὀΐεσσι κακὰ φρονέων ἐνορούσῃ: “as a lion, coming on flocks that have no herdsman, on goats or sheep, leaps on them with evil intent”. μῆλα are the small livestock, sheep and goats together, and the next verse names both (see [[sheep]] and [[goats]]). ἀσήμαντος, “without a herdsman”, occurs only here. It is the negative of σημάντωρ, the one who gives the signs: a herdsman (15.325), a charioteer (8.127), a commander (4.431). κακὰ φρονέων, “with evil intent”, is a phrase for men, and in Book 16 it is used with the same verb of Patroclus, who “leapt on the Trojans with evil intent” (16.783).
+ὡς δὲ λέων μήλοισιν ἀσημάντοισιν ἐπελθὼν / αἴγεσιν ἢ ὀΐεσσι κακὰ φρονέων ἐνορούσῃ: “as a lion, coming on flocks that have no herdsman, on goats or sheep, leaps on them with evil intent”. μῆλα are the small livestock, sheep and goats together, and the next verse names both (see [[sheep]] and [[goats]]). ἀσήμαντος, “without a herdsman”, occurs only here. It is the negative of σημάντωρ, the one who gives the signs: a herdsman (15.325), a charioteer (8.127), a commander (4.431). κακὰ φρονέων, “with evil intent”, is a phrase for men, and in *Iliad* 16 it is used with the same verb of Patroclus, who “leapt on the Trojans with evil intent” (16.783).
 
 The tenor gives the count: ὣς μὲν Θρήϊκας ἄνδρας ἐπῴχετο Τυδέος υἱὸς / ὄφρα δυώδεκʼ ἔπεφνεν, “so the son of Tydeus went at the Thracian men, until he had killed twelve”. ἐπῴχετο, “went at, went among”, is the verb of Apollo's plague, which went first among the mules and dogs (1.50), and of Diomedes going after Aphrodite with the pitiless bronze (5.330).
 

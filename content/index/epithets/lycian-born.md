@@ -12,7 +12,7 @@ of: [apollo]
 
 ## Meaning
 
-Λυκηγενής = a first element + -γενής (“born”). It occurs only in two lines of Book 4, Athena's instruction and Pandarus' prayer (4.101, 4.119), and its first element can be read in three ways:
+Λυκηγενής = a first element + -γενής (“born”). It occurs only in two lines of *Iliad* 4, Athena's instruction and Pandarus' prayer (4.101, 4.119), and its first element can be read in three ways:
 
 - Λυκίη, Lycia: “born in Lycia.” Apollo has close ties to Lycia in the Iliad. The Lycian Glaucus prays to him as a god who may be “in the rich land of Lycia or in Troy” (Il. 16.514–515), and Apollo has the body of Sarpedon carried home to Lycia (Il. 16.666–683).
 - λύκος, “wolf”: “wolf-born.” A Greek tale told that Leto came to Delos in the shape of a she-wolf (see Outside Homer).

@@ -16,4 +16,4 @@ of: [horses]
 
 ## Use
 
-Sthenelus remembers his orders, holds his own team away from the din, “and rushing at the fine-maned horses of Aeneas drove them away from the Trojans to the well-greaved Achaeans” (5.323–324). These are the horses of the breed that Zeus gave to Tros, which Diomedes told him to take (5.261–273; [[master-of-rout]], [[tros]]). Sthenelus gives them to his companion Deipylus to drive to the ships (5.325–327; [[deipylus]]). In Book 8 Diomedes drives them himself, and offers Nestor a place in his chariot to see what the horses of Tros are like (Il. 8.105–108).
+Sthenelus remembers his orders, holds his own team away from the din, “and rushing at the fine-maned horses of Aeneas drove them away from the Trojans to the well-greaved Achaeans” (5.323–324). These are the horses of the breed that Zeus gave to Tros, which Diomedes told him to take (5.261–273; [[master-of-rout]], [[tros]]). Sthenelus gives them to his companion Deipylus to drive to the ships (5.325–327; [[deipylus]]). In *Iliad* 8 Diomedes drives them himself, and offers Nestor a place in his chariot to see what the horses of Tros are like (Il. 8.105–108).

@@ -12,7 +12,7 @@ of: [andromache]
 
 ## Meaning
 
-πολύδωρος = πολύς (“much, many”) + δῶρον (“gift”): “of many gifts.” Which gifts is disputed. The translation takes it as “richly dowered,” a wife who brought many gifts to her husband's house. It can also mean “won with many gifts,” since in Homer a man gives gifts for his bride (ἕδνα), and Hector took Andromache “after giving a countless bride-price” (ἐπεὶ πόρε μυρία ἕδνα, Il. 22.472). Both kinds of gift are Homeric: in Book 9 Agamemnon offers Achilles a daughter without bride-price and with gifts of his own besides (Il. 9.146–148). See [[marriage]].
+πολύδωρος = πολύς (“much, many”) + δῶρον (“gift”): “of many gifts.” Which gifts is disputed. The translation takes it as “richly dowered,” a wife who brought many gifts to her husband's house. It can also mean “won with many gifts,” since in Homer a man gives gifts for his bride (ἕδνα), and Hector took Andromache “after giving a countless bride-price” (ἐπεὶ πόρε μυρία ἕδνα, Il. 22.472). Both kinds of gift are Homeric: in *Iliad* 9 Agamemnon offers Achilles a daughter without bride-price and with gifts of his own besides (Il. 9.146–148). See [[marriage]].
 
 Homer uses the word three times, always in the phrase ἄλοχος πολύδωρος and always of a hero's wife: Andromache (Il. 6.394, 22.88) and Penelope (Od. 24.294).
 

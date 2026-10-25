@@ -10,7 +10,7 @@ relations:
   - father: oeneus (14.115-118)
 ---
 
-The origin of the name Τυδεύς (Tydeus) is unknown. In Book 2 he is named only in his son's title, “the son of Tydeus” (2.406). Later books often call Diomedes simply Τυδεΐδης, “son of Tydeus”.
+The origin of the name Τυδεύς (Tydeus) is unknown. In *Iliad* 2 he is named only in his son's title, “the son of Tydeus” (2.406). Later books often call Diomedes simply Τυδεΐδης, “son of Tydeus”.
 
 {{notes}}
 

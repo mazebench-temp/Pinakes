@@ -22,7 +22,7 @@ passages:
 
 The oath is a prophecy that Achilles makes come true himself. He withdraws, asks Zeus to help the Trojans, and waits. It is fulfilled step by step:
 
-- In Book 8 the Trojans camp on the plain.
+- In *Iliad* 8 the Trojans camp on the plain.
 - In Book 9 Agamemnon admits his folly (ἄτη) and sends an embassy with gifts.
 - In Books 11–15 Hector breaks through to the ships.
 - In Book 16 Patroclus dies in Achilles' armor.

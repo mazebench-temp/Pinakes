@@ -11,7 +11,7 @@ en: [My dear, dear, Weaklings]
 
 ## Meaning
 
-πέπων means “ripe, soft,” as of fruit ripened by the sun, from the root of πέσσω (“ripen, cook”). In Homer it is used only in address. The singular vocative πέπον, “soft one,” is an endearment among comrades: Diomedes to Sthenelus (5.109), Agamemnon to Menelaus (6.55), Odysseus to Achilles (Il. 9.252), Sarpedon to Glaucus (Il. 12.322, 16.492), Ajax to his brother Teucer (Il. 15.437, 15.472), and in the Odyssey the blinded Cyclops to the ram that leads his flock (Od. 9.447). The plural turns the same softness into scorn. Thersites calls the Achaeans πέπονες, “Weaklings, wretched disgraces, Achaean women, Achaean men no longer” (2.235), and Poseidon uses the word to shame them in Book 13 (Il. 13.120).
+πέπων means “ripe, soft,” as of fruit ripened by the sun, from the root of πέσσω (“ripen, cook”). In Homer it is used only in address. The singular vocative πέπον, “soft one,” is an endearment among comrades: Diomedes to Sthenelus (5.109), Agamemnon to Menelaus (6.55), Odysseus to Achilles (Il. 9.252), Sarpedon to Glaucus (Il. 12.322, 16.492), Ajax to his brother Teucer (Il. 15.437, 15.472), and in the Odyssey the blinded Cyclops to the ram that leads his flock (Od. 9.447). The plural turns the same softness into scorn. Thersites calls the Achaeans πέπονες, “Weaklings, wretched disgraces, Achaean women, Achaean men no longer” (2.235), and Poseidon uses the word to shame them in *Iliad* 13 (Il. 13.120).
 
 ## Use
 

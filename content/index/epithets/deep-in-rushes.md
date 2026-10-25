@@ -18,4 +18,4 @@ of: [asopus]
 
 {{quote:bfcb865f-91e4-5537-a0fa-1b406d79def6}}
 
-In Agamemnon's story the army of the Seven, on its way to Thebes, halts at the Asopus and sends Tydeus ahead on an embassy ([[embassy]], [[tydeus-at-thebes]]). In Book 10 Diomedes recalls the same halt in his prayer to Athena: his father left the Achaeans at the Asopus and carried a soothing word to the Cadmeians (Il. 10.284–290; [[soothing-words]]). The two rare epithets mark the river as a place in the story, as the Catalogue marks its towns.
+In Agamemnon's story the army of the Seven, on its way to Thebes, halts at the Asopus and sends Tydeus ahead on an embassy ([[embassy]], [[tydeus-at-thebes]]). In *Iliad* 10 Diomedes recalls the same halt in his prayer to Athena: his father left the Achaeans at the Asopus and carried a soothing word to the Cadmeians (Il. 10.284–290; [[soothing-words]]). The two rare epithets mark the river as a place in the story, as the Catalogue marks its towns.

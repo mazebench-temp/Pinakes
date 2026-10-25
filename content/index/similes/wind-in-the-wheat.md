@@ -27,4 +27,4 @@ The West Wind ([[zephyrus]]) is not the gentle breeze of later poetry. In the Il
 
 ## Elsewhere in Homer
 
-Grain fields return in the battle similes. In Book 11 the two armies cut into each other like reapers driving their swaths through a rich man's field of wheat or barley, and the handfuls of grain fall thick (Iliad 11.67–71).
+Grain fields return in the battle similes. In *Iliad* 11 the two armies cut into each other like reapers driving their swaths through a rich man's field of wheat or barley, and the handfuls of grain fall thick (Iliad 11.67–71).

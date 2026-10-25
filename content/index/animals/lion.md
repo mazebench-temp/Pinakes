@@ -15,7 +15,7 @@ In the Iliad the lion lives almost only in similes, and no animal comes into the
 
 Outside the similes, lions appear as skins and as images. Agamemnon and Diomedes put on lions' skins for the night raid (10.23–24, 10.177–178). The Chimaera was “a lion in front, a serpent behind, and in the middle a she-goat” (6.181). On the shield of Achilles two lions seize a bellowing bull at the head of a herd, and the dogs will not face them (18.579–586). Hera tells Artemis that Zeus has made her “a lion to women” (21.483; see [[a-lion-to-women]]).
 
-The first lion simile of the poem is in Book 3. When Menelaus sees Alexander, he rejoices like a hungry lion that comes upon a great carcass (3.23–28; see [[lion-on-a-carcass]]), and at the end of the book, his prey lost, he ranges the throng “like a wild beast” (3.449; see [[like-a-wild-beast]]).
+The first lion simile of the poem is in *Iliad* 3. When Menelaus sees Alexander, he rejoices like a hungry lion that comes upon a great carcass (3.23–28; see [[lion-on-a-carcass]]), and at the end of the book, his prey lost, he ranges the throng “like a wild beast” (3.449; see [[like-a-wild-beast]]).
 
 {{notes}}
 

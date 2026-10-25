@@ -18,7 +18,7 @@ The formula closes the verse. It occurs ten times in the Iliad, always of lesser
 
 ## Use
 
-Book 2 has half of all its uses, five men on both sides. Elephenor leads the Abantes:
+*Iliad* 2 has half of all its uses, five men on both sides. Elephenor leads the Abantes:
 
 {{quote:a4e4786f-95d8-5b2e-af90-29bd60829ecd}}
 

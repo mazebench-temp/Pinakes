@@ -3,7 +3,7 @@ title: The wall of Heracles
 greek: τεῖχος ἀμφίχυτον Ἡρακλῆος θείοιο
 kind: place
 tags: [troad, backstory]
-summary: The high wall of heaped-up earth on the Trojan plain that the Trojans and Athena built for Heracles, so that he could escape the sea monster when it chased him from the shore. In Book 20 Poseidon leads the gods of the Achaean side to it, and they sit there, wrapped in cloud, to watch the war.
+summary: The high wall of heaped-up earth on the Trojan plain that the Trojans and Athena built for Heracles, so that he could escape the sea monster when it chased him from the shore. In *Iliad* 20 Poseidon leads the gods of the Achaean side to it, and they sit there, wrapped in cloud, to watch the war.
 aliases: [wall of Heracles, the heaped-up wall]
 # τεῖχος alone is the Achaean wall or the wall of Troy: the phrase is found only at 20.145.
 grc: ["τεῖχος ἐς ἀμφίχυτον"]
@@ -22,9 +22,9 @@ passages:
 
 ## In the poem
 
-The poem names the wall only here, when the gods sit apart from the battle. Poseidon leads the gods of the Achaean side to it, “and the other gods, / and they wrapped an unbreakable cloud about their shoulders”, while the Trojans' gods sit on Callicolone (20.149–152; see [[poseidon]], [[the-battle-of-the-gods]] and [[callicolone]]). Its builders were the Trojans themselves and Athena, the goddess who, as she complains in Book 8, often saved Heracles in his labors (8.362–363; see [[athena]]).
+The poem names the wall only here, when the gods sit apart from the battle. Poseidon leads the gods of the Achaean side to it, “and the other gods, / and they wrapped an unbreakable cloud about their shoulders”, while the Trojans' gods sit on Callicolone (20.149–152; see [[poseidon]], [[the-battle-of-the-gods]] and [[callicolone]]). Its builders were the Trojans themselves and Athena, the goddess who, as she complains in *Iliad* 8, often saved Heracles in his labors (8.362–363; see [[athena]]).
 
-It is one of three walls on the plain. Poseidon and Apollo built the wall of Troy for Laomedon (7.452–453; in Book 21 Poseidon says that he built it while Apollo herded the king's cattle, 21.446–449; see [[the-walls-of-troy]]); the Achaeans built theirs to protect their ships, and Poseidon feared it would make men forget his (7.446–453; see [[the-achaean-wall]]); and the Trojans built this one for Heracles, who later sacked their city when Laomedon refused him the horses he had earned (5.638–642, 5.648–651; see [[heracles-sacks-troy]] and [[laomedon]]). The poem does not say what service Heracles had done, or whether it was the killing of the monster.
+It is one of three walls on the plain. Poseidon and Apollo built the wall of Troy for Laomedon (7.452–453; in *Iliad* 21 Poseidon says that he built it while Apollo herded the king's cattle, 21.446–449; see [[the-walls-of-troy]]); the Achaeans built theirs to protect their ships, and Poseidon feared it would make men forget his (7.446–453; see [[the-achaean-wall]]); and the Trojans built this one for Heracles, who later sacked their city when Laomedon refused him the horses he had earned (5.638–642, 5.648–651; see [[heracles-sacks-troy]] and [[laomedon]]). The poem does not say what service Heracles had done, or whether it was the killing of the monster.
 
 ## Outside Homer
 

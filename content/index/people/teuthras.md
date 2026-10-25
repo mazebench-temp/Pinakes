@@ -15,4 +15,4 @@ relations:
 
 ἀντίθεον Τεύθραντʼ, “godlike Teuthras” (5.705; see [[antitheos]]). He heads the list that answers the narrator's question, “whom first, whom last did they slay, Hector, the son of Priam, and bronze Ares?” (5.703–704). The poem does not divide the six between the man and the god (see [[hector]] and [[ares]]). Teuthras is named only here.
 
-Another Teuthras is the father of Axylus of Arisbe, the rich and hospitable man whom Diomedes kills at the start of Book 6 (Τευθρανίδην, 6.12–19).
+Another Teuthras is the father of Axylus of Arisbe, the rich and hospitable man whom Diomedes kills at the start of *Iliad* 6 (Τευθρανίδην, 6.12–19).

@@ -6,7 +6,7 @@ period: before-troy
 mode: told
 narrator: phoenix
 tags: [backstory, kinship, digression]
-summary: At his mother's urging the young Phoenix lay with his father's concubine; his father Amyntor cursed him to have no son, the gods below fulfilled the curse, and Phoenix, kept at home for nine nights by his kinsmen, broke out and fled to Peleus, who received him like a son and made him lord of the Dolopians. He tells the story to Achilles in Book 9; later versions make him innocent and blinded by his father.
+summary: At his mother's urging the young Phoenix lay with his father's concubine; his father Amyntor cursed him to have no son, the gods below fulfilled the curse, and Phoenix, kept at home for nine nights by his kinsmen, broke out and fled to Peleus, who received him like a son and made him lord of the Dolopians. He tells the story to Achilles in *Iliad* 9; later versions make him innocent and blinded by his father.
 aliases: [Phoenix and Amyntor, the curse of Amyntor, Phoenix and the concubine, Phoenix's flight, Phoenix's exile]
 participants: [phoenix, amyntor, peleus, erinyes, hades, persephone, dolopians]
 refs: [9.447-484]
@@ -50,4 +50,4 @@ Phoenix comes to Phthia as an exile and is received as an heir (see [[as-a-fathe
 
 In later versions his father blinds him. Euripides' lost *Phoenix*, older than Aristophanes' *Acharnians* (425 BC), showed him blind: the *Acharnians* names “blind Phoenix” among the ragged heroes of Euripides (*Acharnians* 421), and a fragment is spoken by a man who once mocked the blind and has now fallen into their state (fr. 816 Nauck). In Apollodorus the concubine, Phthia, falsely accused Phoenix of seducing her; Amyntor blinded him, and Peleus brought him to Chiron, who restored his sight, and made him king of the Dolopians (*Library* 3.13.8; see [[chiron]] and [[apollodorus]]). The Homeric son who obeys his mother has become a young man falsely accused by his father's woman, like Bellerophon (see [[bellerophon]]) or Euripides' Hippolytus.
 
-Where the story took place was disputed. Book 9 makes Phoenix leave “Hellas” (9.447, 9.478), but in Book 10 Amyntor's house is at Eleon (10.266), and ancient scholars placed it in Thessaly, Phocis or Boeotia (Strabo 9.5.18; see [[hellas-or-ormenium]] and [[amyntor]]).
+Where the story took place was disputed. *Iliad* 9 makes Phoenix leave “Hellas” (9.447, 9.478), but in Book 10 Amyntor's house is at Eleon (10.266), and ancient scholars placed it in Thessaly, Phocis or Boeotia (Strabo 9.5.18; see [[hellas-or-ormenium]] and [[amyntor]]).

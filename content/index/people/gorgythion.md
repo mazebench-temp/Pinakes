@@ -20,4 +20,4 @@ passages:
 
 **His mother.** The narrator stops to name her: “lovely Castianeira, like the goddesses in form”, whom Priam had married and brought from Aesyme (8.304–305; see [[castianeira]] and [[aesyme]]). He was not Hecuba's son, then, but one of the sons whom, as Priam says, other women bore him “in my halls” (24.497; see [[sons-of-priam]]). His epithets are ἀμύμων, “noble”, and ἐΰς, “brave” (8.302–303; see [[blameless]]).
 
-**The poppy.** His head droops to one side, weighed down by his helmet, as a poppy in a garden droops, heavy with its seed and with the showers of spring (8.306–308; see [[the-poppy]]). No other death in Book 8 is given a simile. He is named nowhere else in Homer.
+**The poppy.** His head droops to one side, weighed down by his helmet, as a poppy in a garden droops, heavy with its seed and with the showers of spring (8.306–308; see [[the-poppy]]). No other death in *Iliad* 8 is given a simile. He is named nowhere else in Homer.

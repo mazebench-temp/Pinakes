@@ -12,7 +12,7 @@ of: [doves]
 
 ## Meaning
 
-τρήρων is formed from τρέω (“tremble, flee in fear”): “trembling, timid.” It is the epithet of the dove (πέλεια), often in τρήρωνα πέλειαν at the end of the verse: the dove that the hawk swoops on in the simile of Achilles chasing Hector (Il. 22.139–140), the dove tied to the mast as the target of the archery contest at the games (Il. 23.853–874), and in the Odyssey the doves that carry ambrosia to Zeus past the Wandering Rocks (Od. 12.62–63). The Catalogue's [[of-many-doves]] (πολυτρήρων) is built on it. Diomedes uses the verb in Book 5: “Pallas Athena does not let me flee” (τρεῖν μʼ οὐκ ἐᾷ, 5.256).
+τρήρων is formed from τρέω (“tremble, flee in fear”): “trembling, timid.” It is the epithet of the dove (πέλεια), often in τρήρωνα πέλειαν at the end of the verse: the dove that the hawk swoops on in the simile of Achilles chasing Hector (Il. 22.139–140), the dove tied to the mast as the target of the archery contest at the games (Il. 23.853–874), and in the Odyssey the doves that carry ambrosia to Zeus past the Wandering Rocks (Od. 12.62–63). The Catalogue's [[of-many-doves]] (πολυτρήρων) is built on it. Diomedes uses the verb in *Iliad* 5: “Pallas Athena does not let me flee” (τρεῖν μʼ οὐκ ἐᾷ, 5.256).
 
 ## Use
 

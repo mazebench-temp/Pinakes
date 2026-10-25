@@ -33,7 +33,7 @@ sort: 2
 
 ## Family
 
-{{figure:families-book-1.svg | The gods and heroes of Book 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
+{{figure:families-book-1.svg | The gods and heroes of *Iliad* 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
 
 {{quote:4fe0a215-4fd6-5749-8db4-f0fca6ad0c3a}}
 
@@ -53,7 +53,7 @@ Husband of [[Hera]]: ἄλοχος, "wife", literally "she who shares the bed"
 
 {{quote:8d1b58f4-d620-5214-bd5a-c32edb6c5990}}
 
-Son of [[Cronus]]. The patronymics Κρονίδης and Κρονίων name him through his father five times in Book 1.
+Son of [[Cronus]]. The patronymics Κρονίδης and Κρονίων name him through his father five times in *Iliad* 1.
 
 ## Descriptions
 

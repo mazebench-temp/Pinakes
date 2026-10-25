@@ -8,7 +8,7 @@ aliases: [Troas, Biga peninsula]
 refs: [1.37, 1.38, 1.366, 1.431]
 ---
 
-The Troad (Τρῳάς) is the land between the Hellespont, the Aegean and Mount Ida, today the Biga peninsula of Turkey. Homer does not use the regional name, but Book 1 moves around it. There is the Achaean camp on the shore by Troy. Odysseus sails down the coast to [[Chryse]], arriving the same day. [[Cilla]] and [[Tenedos]] belong to Apollo, and [[Thebe]], the city of Eetion, was sacked by Achilles.
+The Troad (Τρῳάς) is the land between the Hellespont, the Aegean and Mount Ida, today the Biga peninsula of Turkey. Homer does not use the regional name, but *Iliad* 1 moves around it. There is the Achaean camp on the shore by Troy. Odysseus sails down the coast to [[Chryse]], arriving the same day. [[Cilla]] and [[Tenedos]] belong to Apollo, and [[Thebe]], the city of Eetion, was sacked by Achilles.
 
 {{quote:40474f4d-59a6-5a2d-9566-f4bd0318fb4a}}
 

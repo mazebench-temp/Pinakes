@@ -14,7 +14,7 @@ of: [mynes, epistrophus-of-lyrnessus, pelasgians]
 
 ἐγχεσίμωρος = ἔγχος (“spear”) + -μωρος. The first part is clear; the second is not. The same element appears in ἰόμωρος, an insult of uncertain sense (“arrow-fighter”?), and in ὑλακόμωρος, of barking dogs. One explanation connects it with a word for “great, famous” found in Celtic and Germanic names (as in Old Irish *mór*, “great”), which would make the compound “famous for the spear.” Another takes it from μωρός (“foolish, frenzied”), “spear-mad.” The translation gives the general sense, “fighters with the spear.”
 
-Homer uses it four times: of Mynes and Epistrophus and of the Pelasgians in Book 2, of the Arcadians (Il. 7.134), and of the Myrmidons (Od. 3.188).
+Homer uses it four times: of Mynes and Epistrophus and of the Pelasgians in *Iliad* 2, of the Arcadians (Il. 7.134), and of the Myrmidons (Od. 3.188).
 
 ## Use
 

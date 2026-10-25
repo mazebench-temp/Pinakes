@@ -24,7 +24,7 @@ The simile follows hard on another. Three verses before, Antilochus leapt on the
 
 ## In context
 
-Antilochus has struck Melanippus, son of Hicetaon, in the chest and leapt on him to strip his armor, but Hector comes running through the combat to meet him (15.573–584; see [[antilochus]], [[melanippus-son-of-hicetaon]] and [[hector]]). Antilochus runs, and under the Trojans' missiles “he turned and stood, when he reached the crowd of his companions” (15.591). The verse is the one that ends Ajax's slow retreat in Book 11 (11.595), where Ajax too falls back “like a wild beast” and then like a lion driven from the farmyard (11.544–557; see [[like-a-wild-beast]] and [[lion-driven-from-the-farmyard]]). The Trojans then rush on the ships like lions that eat raw flesh (15.592; see [[lions-and-boars]]).
+Antilochus has struck Melanippus, son of Hicetaon, in the chest and leapt on him to strip his armor, but Hector comes running through the combat to meet him (15.573–584; see [[antilochus]], [[melanippus-son-of-hicetaon]] and [[hector]]). Antilochus runs, and under the Trojans' missiles “he turned and stood, when he reached the crowd of his companions” (15.591). The verse is the one that ends Ajax's slow retreat in *Iliad* 11 (11.595), where Ajax too falls back “like a wild beast” and then like a lion driven from the farmyard (11.544–557; see [[like-a-wild-beast]] and [[lion-driven-from-the-farmyard]]). The Trojans then rush on the ships like lions that eat raw flesh (15.592; see [[lions-and-boars]]).
 
 ## Elsewhere in Homer
 

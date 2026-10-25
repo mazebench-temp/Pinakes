@@ -14,7 +14,7 @@ passages:
 
 {{quote:c805a82b-1290-50fa-8f36-621d655d95d6}}
 
-The Catalogue gives the fact and no more: [[Meleager]] was dead, like the other sons of [[Oeneus]] and like Oeneus himself. Homer never tells how he died. In Book 9 Phoenix ends Meleager's story when he saves Calydon without receiving the gifts (9.598–599), but he has already told of the curse of Meleager's mother Althaea, who called on Hades and Persephone "to give death to her son", and of the Erinys "who walks in darkness" hearing her from Erebus (9.566–572). The audience is left to supply the end.
+The Catalogue gives the fact and no more: [[Meleager]] was dead, like the other sons of [[Oeneus]] and like Oeneus himself. Homer never tells how he died. In *Iliad* 9 Phoenix ends Meleager's story when he saves Calydon without receiving the gifts (9.598–599), but he has already told of the curse of Meleager's mother Althaea, who called on Hades and Persephone "to give death to her son", and of the Erinys "who walks in darkness" hearing her from Erebus (9.566–572). The audience is left to supply the end.
 
 ## In the poem
 

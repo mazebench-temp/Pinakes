@@ -3,7 +3,7 @@ title: Adamas
 greek: Ἀδάμας
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, son of [[Asius]], who comes against the Achaean wall with his father (12.140). In Book 13 he stabs at Antilochus' shield, Poseidon blunts his spear, and Meriones kills him as he draws back (13.560–575).
+summary: A Trojan, son of [[Asius]], who comes against the Achaean wall with his father (12.140). In *Iliad* 13 he stabs at Antilochus' shield, Poseidon blunts his spear, and Meriones kills him as he draws back (13.560–575).
 aliases: [Adamas son of Asius]
 # ^ keeps out ἀδάμαστος, "unconquerable" (9.158). The stem also takes Ἀδάμας (13.771).
 # Ἀσιάδην is claimed with asius (the patronymic rule); Ἀσιάδης (13.771) will need adding.

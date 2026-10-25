@@ -38,11 +38,11 @@ In return she asks that her own labor not go unfulfilled, since she too is a god
 
 **The cities.** Hera's three cities are the cities of the kings she fights for: in the Catalogue Argos is Diomedes' city, Mycenae Agamemnon's, and Sparta one of the towns of Menelaus (2.559, 2.569, 2.582). She does not say why she hates Troy, and Zeus' question, what Priam and his sons have done to her, gets no answer. The Iliad names a cause only in its last book, in lines that Aristarchus rejected (24.25–30). See [[hera]], [[argos]], [[sparta]] and [[mycenae]].
 
-**The city Zeus loved.** Zeus gives up Ilios “willingly, though with an unwilling heart” (4.43). Of all the cities of men it was the most honored in his heart, because its people fed his altar with “libation and the savor of the burnt fat” (4.44–49; see [[reciprocity-with-the-gods]]). The same two lines return in Book 24, when Zeus tells the gods why Hector's body should be ransomed: Hector too never failed in his gifts (24.66–70). Here the lines give up the city; there they save the body of its defender. See [[zeus]] and [[troy]].
+**The city Zeus loved.** Zeus gives up Ilios “willingly, though with an unwilling heart” (4.43). Of all the cities of men it was the most honored in his heart, because its people fed his altar with “libation and the savor of the burnt fat” (4.44–49; see [[reciprocity-with-the-gods]]). The same two lines return in *Iliad* 24, when Zeus tells the gods why Hector's body should be ransomed: Hector too never failed in his gifts (24.66–70). Here the lines give up the city; there they save the body of its defender. See [[zeus]] and [[troy]].
 
 **Hatred.** The picture of Hera eating Priam raw is the first of three such wishes in the poem. Achilles wishes his fury would let him carve Hector's flesh and eat it raw (22.346–347), and Hecuba wishes she could fasten her teeth in Achilles' liver (24.212–213).
 
-**Quarrel and agreement.** The scene answers the quarrel on Olympus at the end of Book 1, when Hera challenged Zeus over his promise to Thetis and he silenced her with a threat (1.536–567; see [[quarrel-on-olympus]]). This time Zeus avoids a quarrel (νεῖκος, 4.37), and the two agree. Their agreement costs mortals more than their quarrel did.
+**Quarrel and agreement.** The scene answers the quarrel on Olympus at the end of *Iliad* 1, when Hera challenged Zeus over his promise to Thetis and he silenced her with a threat (1.536–567; see [[quarrel-on-olympus]]). This time Zeus avoids a quarrel (νεῖκος, 4.37), and the two agree. Their agreement costs mortals more than their quarrel did.
 
 ## Outside Homer
 

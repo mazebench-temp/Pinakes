@@ -3,7 +3,7 @@ title: Achelous of Lydia
 greek: Ἀχελώϊος
 kind: place
 tags: [maeonia, asia-minor]
-summary: A stream by Mount Sipylus, around which the nymphs dance in Achilles' story of Niobe (24.616). It is named only there, and is not the great river of western Greece that Achilles names in Book 21.
+summary: A stream by Mount Sipylus, around which the nymphs dance in Achilles' story of Niobe (24.616). It is named only there, and is not the great river of western Greece that Achilles names in *Iliad* 21.
 aliases: [Lydian Achelous]
 # Ἀχελώϊον (24.616) only. Ἀχελώϊος (21.194) is the river of Aetolia and Acarnania (achelous), which excepts 24.616;
 # this entry's English name is given so that "Achelous" links here at 24.616, and it excepts 21.194 for the same reason.

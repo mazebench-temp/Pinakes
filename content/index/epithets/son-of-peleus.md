@@ -25,7 +25,7 @@ The Iliad names Achilles first by his father:
 
 {{quote:5d895128-2bd2-5af5-9447-d17d47447b4e}}
 
-Forms in Book 1: Πηληϊάδεω (1, 322), Πηλεΐδη (146; spelled Πηλείδη at 277), Πηλεΐδης (223, 245, 306), Πηλεΐωνι (188), Πηλεΐωνα (197), and Πηλῆος υἱός (489).
+Forms in *Iliad* 1: Πηληϊάδεω (1, 322), Πηλεΐδη (146; spelled Πηλείδη at 277), Πηλεΐδης (223, 245, 306), Πηλεΐωνι (188), Πηλεΐωνα (197), and Πηλῆος υἱός (489).
 
 The patronymic gathers at the crisis of the quarrel. The narrator uses it when grief comes on Achilles and he reaches for his sword, and when Athena seizes him by the hair:
 

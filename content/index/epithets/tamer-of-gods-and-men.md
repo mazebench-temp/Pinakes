@@ -12,7 +12,7 @@ of: [night]
 
 ## Meaning
 
-δμήτειρα is a feminine agent noun from δάμνημι, δαμάζω (“tame, subdue, overcome”), the verb of [[tamer-of-horses]] (ἱππόδαμος): “she who tames.” With θεῶν … καὶ ἀνδρῶν, set on either side of the verb, it gives Night power over both races, gods and men. The word is found only here in Homer. Book 14 names other powers over the same whole world: Hera greets Sleep as “lord of all gods and of all men” (14.233; [[sleep]]), and she asks Aphrodite for the love and longing with which she overcomes, with the same verb, “all the immortals and mortal men” (δαμνᾷ, 14.198–199; [[mortal-men]], [[philotes]]). In Book 24 sleep itself is πανδαμάτωρ, the sleep “that subdues all” (24.5; [[hypnos]]).
+δμήτειρα is a feminine agent noun from δάμνημι, δαμάζω (“tame, subdue, overcome”), the verb of [[tamer-of-horses]] (ἱππόδαμος): “she who tames.” With θεῶν … καὶ ἀνδρῶν, set on either side of the verb, it gives Night power over both races, gods and men. The word is found only here in Homer. *Iliad* 14 names other powers over the same whole world: Hera greets Sleep as “lord of all gods and of all men” (14.233; [[sleep]]), and she asks Aphrodite for the love and longing with which she overcomes, with the same verb, “all the immortals and mortal men” (δαμνᾷ, 14.198–199; [[mortal-men]], [[philotes]]). In Book 24 sleep itself is πανδαμάτωρ, the sleep “that subdues all” (24.5; [[hypnos]]).
 
 ## Use
 

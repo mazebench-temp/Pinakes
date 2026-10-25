@@ -20,9 +20,9 @@ The Iliad names him in four lines, one of them repeated, and each time he gives 
 
 {{quote:0e1ce1ad-1f84-5cd3-90c5-caf768b12e7a}}
 
-φίλα φρονέων, “with friendly thoughts”: the translation's “in friendship”. The drugs are ἤπια φάρμακα, “soothing drugs”, and the knowledge of them passes from the Centaur to Asclepius and from Asclepius to his son (see [[healing]] and [[chiron-and-asclepius]]). In Book 11 the wounded Eurypylus asks Patroclus for the drugs he learned from Achilles, “whom Chiron taught, the most just of the Centaurs” (ὃν Χείρων ἐδίδαξε δικαιότατος Κενταύρων, 11.831–832). Achilles' spear is the Pelian ash “which Chiron gave to his dear father / from the peak of Pelion, to be death for heroes” (16.143–144 = 19.390–391). Both times he gives to a father: πατρί in 4.219, πατρὶ φίλῳ in 16.143.
+φίλα φρονέων, “with friendly thoughts”: the translation's “in friendship”. The drugs are ἤπια φάρμακα, “soothing drugs”, and the knowledge of them passes from the Centaur to Asclepius and from Asclepius to his son (see [[healing]] and [[chiron-and-asclepius]]). In *Iliad* 11 the wounded Eurypylus asks Patroclus for the drugs he learned from Achilles, “whom Chiron taught, the most just of the Centaurs” (ὃν Χείρων ἐδίδαξε δικαιότατος Κενταύρων, 11.831–832). Achilles' spear is the Pelian ash “which Chiron gave to his dear father / from the peak of Pelion, to be death for heroes” (16.143–144 = 19.390–391). Both times he gives to a father: πατρί in 4.219, πατρὶ φίλῳ in 16.143.
 
-Homer never describes his body, and in Book 4 does not even call him a Centaur. δικαιότατος (“most just”) sets him apart from the wild “beasts” whom the Lapiths fought in Nestor's youth (1.262–268, 2.742–744; see [[centaurs]]). The Iliad does not say that he raised Achilles: in Book 9 Phoenix tells how he reared the child himself in Peleus' house (9.485–495). The Odyssey does not name him.
+Homer never describes his body, and in *Iliad* 4 does not even call him a Centaur. δικαιότατος (“most just”) sets him apart from the wild “beasts” whom the Lapiths fought in Nestor's youth (1.262–268, 2.742–744; see [[centaurs]]). The Iliad does not say that he raised Achilles: in Book 9 Phoenix tells how he reared the child himself in Peleus' house (9.485–495). The Odyssey does not name him.
 
 ## Outside Homer
 

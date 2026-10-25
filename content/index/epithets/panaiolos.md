@@ -11,7 +11,7 @@ en: [gleaming]
 
 ## Meaning
 
-παναίολος = πᾶν (“all”) + αἰόλος (“quick-moving, glittering”): “glittering all over.” It describes armor: the belt (ζωστήρ) of Menelaus here and of Nestor in Book 10 (Il. 10.77), and a corselet and a shield in later books (Il. 11.374, 13.552). In Book 11 Agamemnon's spear fails to pierce another “gleaming” belt (Il. 11.236). The same αἰόλος is in Hector's [[of-the-gleaming-helmet]] (κορυθαίολος) and in [[of-the-flashing-corselet]] (αἰολοθώρηξ), which Book 4 gives to Antiphus (4.489).
+παναίολος = πᾶν (“all”) + αἰόλος (“quick-moving, glittering”): “glittering all over.” It describes armor: the belt (ζωστήρ) of Menelaus here and of Nestor in *Iliad* 10 (Il. 10.77), and a corselet and a shield in later books (Il. 11.374, 13.552). In Book 11 Agamemnon's spear fails to pierce another “gleaming” belt (Il. 11.236). The same αἰόλος is in Hector's [[of-the-gleaming-helmet]] (κορυθαίολος) and in [[of-the-flashing-corselet]] (αἰολοθώρηξ), which Book 4 gives to Antiphus (4.489).
 
 ## Use
 

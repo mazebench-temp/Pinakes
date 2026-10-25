@@ -37,7 +37,7 @@ Apollo then calls on Ares to drag Diomedes out of the battle, and sits down on t
 
 ## Elsewhere in Homer
 
-Apollo deceives Achilles in a similar way in Book 21. He takes the shape of Agenor, whom he has just hidden in a mist, and leads Achilles away from the city in a chase across the plain, until the Trojans are safely inside the walls. Then he reveals himself: “You will not kill me, since I am not subject to fate” (21.596–22.13; see [[apollo-deceives-achilles]] and [[truth-and-deception]]). In the Odyssey the εἴδωλον of Heracles is in Hades, while “he himself” feasts among the immortal gods (Odyssey 11.601–604).
+Apollo deceives Achilles in a similar way in *Iliad* 21. He takes the shape of Agenor, whom he has just hidden in a mist, and leads Achilles away from the city in a chase across the plain, until the Trojans are safely inside the walls. Then he reveals himself: “You will not kill me, since I am not subject to fate” (21.596–22.13; see [[apollo-deceives-achilles]] and [[truth-and-deception]]). In the Odyssey the εἴδωλον of Heracles is in Hades, while “he himself” feasts among the immortal gods (Odyssey 11.601–604).
 
 ## Outside Homer
 

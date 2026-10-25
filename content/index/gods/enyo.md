@@ -3,7 +3,7 @@ title: Enyo
 greek: Ἐνυώ
 kind: god
 tags: [personification, warfare]
-summary: A goddess of war who goes into battle with [[Ares]]. Homer names her twice, both times in Book 5: “Enyo, sacker of cities”, with Athena among the goddesses who rule over the war of men, and “lady Enyo”, who leads the Trojans with Ares and brings [[tumult|Tumult]] with her.
+summary: A goddess of war who goes into battle with [[Ares]]. Homer names her twice, both times in *Iliad* 5: “Enyo, sacker of cities”, with Athena among the goddesses who rule over the war of men, and “lady Enyo”, who leads the Trojans with Ares and brings [[tumult|Tumult]] with her.
 aliases: [Enyō]
 grc: [Ἐνυώ]
 passages:

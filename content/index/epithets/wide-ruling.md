@@ -16,7 +16,7 @@ of: [agamemnon]
 
 ## Use
 
-The whole formula Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων names Agamemnon three times in Book 1, and each time his power is doing harm. At 102 he rises in anger to answer Calchas:
+The whole formula Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων names Agamemnon three times in *Iliad* 1, and each time his power is doing harm. At 102 he rises in anger to answer Calchas:
 
 {{quote:ec02c80c-2742-5bdf-90d1-35ff07928185}}
 

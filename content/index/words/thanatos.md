@@ -12,7 +12,7 @@ en: [death, dying, died, mortals]
 
 ## Meaning
 
-θάνατος means death, and in Homer Death can also be a person: Sleep is “the brother of Death” (14.231), and in Book 16 the twin brothers carry Sarpedon's body home to Lycia (16.671–683; see [[death]] and [[sleep]]). The verb θνῄσκω ("die") and the adjective θνητός ("mortal") share the root. The gods are ἀθάνατοι, "deathless", and in the Iliad death is the one thing that divides them from men.
+θάνατος means death, and in Homer Death can also be a person: Sleep is “the brother of Death” (14.231), and in *Iliad* 16 the twin brothers carry Sarpedon's body home to Lycia (16.671–683; see [[death]] and [[sleep]]). The verb θνῄσκω ("die") and the adjective θνητός ("mortal") share the root. The gods are ἀθάνατοι, "deathless", and in the Iliad death is the one thing that divides them from men.
 
 {{notes}}
 

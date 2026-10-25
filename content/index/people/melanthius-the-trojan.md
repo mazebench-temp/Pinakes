@@ -3,7 +3,7 @@ title: Melanthius the Trojan
 greek: Μελάνθιος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan killed and stripped by [[Eurypylus]], the last of the fourteen men killed in the list that opens Book 6 (6.36). Not the goatherd Melanthius of the Odyssey.
+summary: A Trojan killed and stripped by [[Eurypylus]], the last of the fourteen men killed in the list that opens *Iliad* 6 (6.36). Not the goatherd Melanthius of the Odyssey.
 aliases: [Melanthios]
 # Μελάνθιον is also the goatherd of the Odyssey (Od. 21.175, 21.265, 22.474): except those lines.
 grc: [Μελάνθιον]

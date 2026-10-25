@@ -16,4 +16,4 @@ of: [sheep]
 
 ## Use
 
-Three things are white in Book 3, and two of them are Helen's clothes. She veils herself “in white linen” (ἀργεννῇσι … ὀθόνῃσιν, 3.141) as she goes out to the wall, moved by longing for her former husband. Odysseus ranges the ranks like a ram “through a great flock of white sheep” (3.198; [[ram-among-the-sheep]]). And Helen wraps herself “in her shining white robe” (ἑανῷ ἀργῆτι φαεινῷ, 3.419; [[phaeinos]]) to follow Aphrodite back to Paris. The two white garments mark her going out and her return.
+Three things are white in *Iliad* 3, and two of them are Helen's clothes. She veils herself “in white linen” (ἀργεννῇσι … ὀθόνῃσιν, 3.141) as she goes out to the wall, moved by longing for her former husband. Odysseus ranges the ranks like a ram “through a great flock of white sheep” (3.198; [[ram-among-the-sheep]]). And Helen wraps herself “in her shining white robe” (ἑανῷ ἀργῆτι φαεινῷ, 3.419; [[phaeinos]]) to follow Aphrodite back to Paris. The two white garments mark her going out and her return.

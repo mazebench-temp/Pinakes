@@ -20,4 +20,4 @@ of: [achilles]
 
 The word opens Achilles' first appeal to Thetis and states the premise of his claim: a short life deserves honor in compensation. Thetis answers in the same terms, first with the adverb itself, “your portion of life is brief (μίνυνθα), not long at all” ({{ref:Iliad 1.416}}), and then with [[swift-fated]] (ὠκύμορος).
 
-The narrator applies the same adjective to Hector in Book 15, when Zeus gives him glory because he is to live only a little while (Il. 15.612). The two men whose deaths frame the end of the Iliad share the word.
+The narrator applies the same adjective to Hector in *Iliad* 15, when Zeus gives him glory because he is to live only a little while (Il. 15.612). The two men whose deaths frame the end of the Iliad share the word.

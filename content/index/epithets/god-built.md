@@ -12,7 +12,7 @@ of: [the-walls-of-troy]
 
 ## Meaning
 
-θεόδμητος = θεός (“god”) + the root of δέμω (“build”): “built by gods.” In Troy's case the word is literal. Poseidon says that he and Apollo built the wall of Troy for Laomedon, and fears that men will forget it for the Achaeans' wall (7.452–453; [[the-achaean-wall]]), and in Book 21 he reminds Apollo how they served Laomedon for a year, he building the wall and Apollo herding the king's cattle (21.441–457; [[poseidon-and-apollo-serve-laomedon]]). The word is found only here.
+θεόδμητος = θεός (“god”) + the root of δέμω (“build”): “built by gods.” In Troy's case the word is literal. Poseidon says that he and Apollo built the wall of Troy for Laomedon, and fears that men will forget it for the Achaeans' wall (7.452–453; [[the-achaean-wall]]), and in *Iliad* 21 he reminds Apollo how they served Laomedon for a year, he building the wall and Apollo herding the king's cattle (21.441–457; [[poseidon-and-apollo-serve-laomedon]]). The word is found only here.
 
 ## Use
 

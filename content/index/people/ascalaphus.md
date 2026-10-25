@@ -3,7 +3,7 @@ title: Ascalaphus
 greek: Ἀσκάλαφος
 kind: person
 tags: [achaean, warrior, demigod, boeotia]
-summary: A son of Ares who leads the men of Aspledon and Minyan Orchomenus with his brother [[Ialmenus]]. Deiphobus kills him in Book 13, and Ares learns of it only later.
+summary: A son of Ares who leads the men of Aspledon and Minyan Orchomenus with his brother [[Ialmenus]]. Deiphobus kills him in *Iliad* 13, and Ares learns of it only later.
 grc: [Ἀσκάλαφος]
 refs: [2.513, 2.516]
 relations:

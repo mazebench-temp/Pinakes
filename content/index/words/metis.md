@@ -15,7 +15,7 @@ en: [counselor, schemer, many wiles]
 
 Marcel Detienne and Jean-Pierre Vernant made μῆτις the subject of a classic study (*Les ruses de l'intelligence: la mètis des Grecs*, 1974; English *Cunning Intelligence in Greek Culture and Society*, 1978).
 
-The word stands in several compounds. Elsewhere in the poem Cronus is ἀγκυλομήτης, “of crooked counsel” (for instance 2.205). Book 1 has three.
+The word stands in several compounds. Elsewhere in the poem Cronus is ἀγκυλομήτης, “of crooked counsel” (for instance 2.205). *Iliad* 1 has three.
 
 {{notes}}
 

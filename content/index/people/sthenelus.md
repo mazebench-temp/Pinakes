@@ -24,7 +24,7 @@ Sthenelus is named second, after [[Diomedes]], as "the dear son of famous Capane
 
 ## Elsewhere in Homer
 
-When Agamemnon taunts Diomedes with his father Tydeus, Diomedes keeps silent, but Sthenelus answers for them: “We boast that we are far better than our fathers” (4.405). They took seven-gated Thebes, while the fathers “perished through their own recklessness” (4.409). Diomedes tells him to be quiet (4.411–418). In Book 5 he pulls an arrow from Diomedes' shoulder (5.108–113), drives his chariot, and takes the horses of Aeneas (5.319–327). "I and Sthenelus will fight on," Diomedes says, if all the rest go home (9.48–49). At Patroclus' games he takes the prizes for Diomedes' victory in the chariot race (23.510–513).
+When Agamemnon taunts Diomedes with his father Tydeus, Diomedes keeps silent, but Sthenelus answers for them: “We boast that we are far better than our fathers” (4.405). They took seven-gated Thebes, while the fathers “perished through their own recklessness” (4.409). Diomedes tells him to be quiet (4.411–418). In *Iliad* 5 he pulls an arrow from Diomedes' shoulder (5.108–113), drives his chariot, and takes the horses of Aeneas (5.319–327). "I and Sthenelus will fight on," Diomedes says, if all the rest go home (9.48–49). At Patroclus' games he takes the prizes for Diomedes' victory in the chariot race (23.510–513).
 
 ## Outside Homer
 

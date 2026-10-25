@@ -26,7 +26,7 @@ Other books add a few details. The craftsman Phereclus built Paris' ships, the s
 
 ## In the poem
 
-Book 3 looks back on the abduction again and again, because the duel is meant to undo it. Each speaker sees it differently.
+*Iliad* 3 looks back on the abduction again and again, because the duel is meant to undo it. Each speaker sees it differently.
 
 For Hector it is a disgrace: the champion who has nothing but his looks once sailed abroad and brought home “a great grief to your father and your city and all the people, a joy to your enemies, and a shame to yourself” (3.50–51). For Menelaus it is a crime against the host. He prays that Zeus will let him take vengeance on “the man who first wronged me”, so that men to come may shudder “to do evil to a host who has shown him friendship” (3.351–354; see [[xenia]]). For Helen it is a regret she cannot undo:
 
@@ -34,7 +34,7 @@ For Hector it is a disgrace: the champion who has nothing but his looks once sai
 
 For Paris it is the measure of desire, and he remembers it only to say that he wants her more now. At the end of the day of the duel he leads her to bed with the memory of Cranae (3.441–446; see [[helen-and-aphrodite]]).
 
-The terms of the duel treat the abduction as a theft to be repaid: “Helen and all her possessions” go to the winner (3.70, 3.91), with a satisfaction on top if Menelaus wins (3.286–287; see [[war-for-menelaus]]). Menelaus names the cause of the war as “my quarrel, and because Alexander began it” (Ἀλεξάνδρου ἕνεκʼ ἀρχῆς, 3.100). An ancient variant read ἄτης, “Alexander's blind folly”, the ending of the same phrase at 6.356 and 24.28 (see [[arche-or-ate]]). On who is to blame, Book 3 gives every answer: the old men say there is no blame in fighting for such a woman, Priam blames the gods, Helen blames herself, and Hector his brother (see [[who-is-to-blame]]).
+The terms of the duel treat the abduction as a theft to be repaid: “Helen and all her possessions” go to the winner (3.70, 3.91), with a satisfaction on top if Menelaus wins (3.286–287; see [[war-for-menelaus]]). Menelaus names the cause of the war as “my quarrel, and because Alexander began it” (Ἀλεξάνδρου ἕνεκʼ ἀρχῆς, 3.100). An ancient variant read ἄτης, “Alexander's blind folly”, the ending of the same phrase at 6.356 and 24.28 (see [[arche-or-ate]]). On who is to blame, *Iliad* 3 gives every answer: the old men say there is no blame in fighting for such a woman, Priam blames the gods, Helen blames herself, and Hector his brother (see [[who-is-to-blame]]).
 
 ## Outside Homer
 

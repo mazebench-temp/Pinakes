@@ -11,7 +11,7 @@ en: [Mysians]
 
 {{quote:81a9365c-5c70-5d61-918e-9d23ebee7634}}
 
-Most of the Mysian entry is given to the death of its augur ([[ennomus]], [[the-river-battle-foretold]]). In Dolon's list the Mysians are "proud" (ἀγέρωχοι) and camp with the Lycians toward Thymbre (10.430). Telamonian Ajax kills [[hyrtius|Hyrtius]], a leader of the Mysians, in Book 14 (14.511–512). The mules that draw Priam's wagon in the last book were a gift of the Mysians to Priam (24.277–278). At the start of Book 13 Zeus turns his eyes away from Troy to the land of the Thracians and of the "Mysians who fight hand to hand" (13.4–5). The poem says nothing more about them. Strabo, following Posidonius, took them for the Mysians of Europe, by the lower Danube, rather than the Trojans' allies (*Geography* 7.3.2–3, 7.3.10).
+Most of the Mysian entry is given to the death of its augur ([[ennomus]], [[the-river-battle-foretold]]). In Dolon's list the Mysians are "proud" (ἀγέρωχοι) and camp with the Lycians toward Thymbre (10.430). Telamonian Ajax kills [[hyrtius|Hyrtius]], a leader of the Mysians, in *Iliad* 14 (14.511–512). The mules that draw Priam's wagon in the last book were a gift of the Mysians to Priam (24.277–278). At the start of Book 13 Zeus turns his eyes away from Troy to the land of the Thracians and of the "Mysians who fight hand to hand" (13.4–5). The poem says nothing more about them. Strabo, following Posidonius, took them for the Mysians of Europe, by the lower Danube, rather than the Trojans' allies (*Geography* 7.3.2–3, 7.3.10).
 
 ## Outside Homer
 

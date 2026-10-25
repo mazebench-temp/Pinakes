@@ -3,7 +3,7 @@ title: Back-bent
 greek: παλίντονος
 kind: epithet
 tags: [weapon]
-summary: “Bent back,” an epithet of the bow, of Teucer's in Books 8 and 15 and of Dolon's in Book 10, and in the Odyssey of the great bow of Odysseus.
+summary: “Bent back,” an epithet of the bow, of Teucer's in *Iliad* 8 and 15 and of Dolon's in Book 10, and in the Odyssey of the great bow of Odysseus.
 aliases: [palintonos, recurved, back-stretched]
 grc: [παλίντονα]
 en: [back-bent]

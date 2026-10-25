@@ -10,7 +10,7 @@ relations:
   - master: odysseus (2.184)
 ---
 
-The name means “wide-striding” (εὐρύς, “wide” + βαίνω, “walk”), a good name for a herald. The same name belongs to one of Agamemnon's heralds in Book 1 (1.320). The poem marks this one as “Eurybates of Ithaca, who attended him”.
+The name means “wide-striding” (εὐρύς, “wide” + βαίνω, “walk”), a good name for a herald. The same name belongs to one of Agamemnon's heralds in *Iliad* 1 (1.320). The poem marks this one as “Eurybates of Ithaca, who attended him”.
 
 {{quote:41f3032b-4390-5ba9-91a7-1b60ce3beeec}}
 

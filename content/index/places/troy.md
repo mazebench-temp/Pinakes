@@ -18,7 +18,7 @@ Two names: Ἴλιος (Ilios, originally Ϝίλιος, Wilios), from which the 
 
 ## The walls
 
-Troy is “well-walled” and “of the fine towers” ([[well-walled]], [[of-the-fine-towers]]). Poseidon built its wall for King Laomedon: in Book 7 he says that he and Apollo built it together (7.452–453), and in Book 21 that he built it while Apollo herded Laomedon's cattle (21.446–449). See [[the-walls-of-troy]], [[the-tower-of-ilios]] and [[poseidon-and-apollo-serve-laomedon]].
+Troy is “well-walled” and “of the fine towers” ([[well-walled]], [[of-the-fine-towers]]). Poseidon built its wall for King Laomedon: in *Iliad* 7 he says that he and Apollo built it together (7.452–453), and in Book 21 that he built it while Apollo herded Laomedon's cattle (21.446–449). See [[the-walls-of-troy]], [[the-tower-of-ilios]] and [[poseidon-and-apollo-serve-laomedon]].
 
 {{notes}}
 

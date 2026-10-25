@@ -20,8 +20,8 @@ The tenor: τόσσοι (“so many”) were the long-haired Achaeans who stood 
 
 {{quote:c963462c-35d5-5e17-8180-96456dd17579}}
 
-The simile follows the leaves and flowers ([[leaves-and-flowers]]), and like them it is set in spring: ὥρῃ (“in season”) closes 2.468 and opens 2.471. ἔθνεα (“tribes”), the word for the bees (2.87), the men (2.91, 2.464) and the birds (2.459), serves for the flies too; in Book 2 it occurs only in these similes. The farm of this simile leads into the pasture of the next, where the leaders sort out the army as goatherds sort their flocks ([[goatherds-sorting-their-flocks]]).
+The simile follows the leaves and flowers ([[leaves-and-flowers]]), and like them it is set in spring: ὥρῃ (“in season”) closes 2.468 and opens 2.471. ἔθνεα (“tribes”), the word for the bees (2.87), the men (2.91, 2.464) and the birds (2.459), serves for the flies too; in *Iliad* 2 it occurs only in these similes. The farm of this simile leads into the pasture of the next, where the leaders sort out the army as goatherds sort their flocks ([[goatherds-sorting-their-flocks]]).
 
 ## Elsewhere in Homer
 
-The simile returns in Book 16, with its last line repeated, for the fight over the body of Sarpedon: the men throng around the corpse like flies humming around the brimming pails in a farmstead in spring (Iliad 16.641–643). The flies that count an army here crowd around a dead man there. When Athena gives Menelaus fresh courage over the body of Patroclus, she puts in his breast the boldness of a fly, which keeps trying to bite however often it is driven off (17.570–572).
+The simile returns in *Iliad* 16, with its last line repeated, for the fight over the body of Sarpedon: the men throng around the corpse like flies humming around the brimming pails in a farmstead in spring (Iliad 16.641–643). The flies that count an army here crowd around a dead man there. When Athena gives Menelaus fresh courage over the body of Patroclus, she puts in his breast the boldness of a fly, which keeps trying to bite however often it is driven off (17.570–572).

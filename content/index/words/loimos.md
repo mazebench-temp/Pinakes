@@ -3,7 +3,7 @@ title: Plague
 greek: λοιμός
 kind: term
 tags: [divine-will]
-summary: Plague, pestilence. [[Achilles]] fears that “war and plague together” will crush the Achaeans. Book 1's traditional title begins with the word: Λοιμός, Μῆνις, “Plague, Wrath”.
+summary: Plague, pestilence. [[Achilles]] fears that “war and plague together” will crush the Achaeans. *Iliad* 1's traditional title begins with the word: Λοιμός, Μῆνις, “Plague, Wrath”.
 aliases: [loimos, pestilence]
 grc: [λοιμὸς]
 en: [plague]
@@ -11,7 +11,7 @@ en: [plague]
 
 ## Meaning
 
-λοιμός is plague: a pestilence that kills many at once. It is a rare word in Homer. According to the scholia, Zenodotus read it also at 1.97, where our text has λοιγόν. The traditional title of Book 1 is Λοιμός, Μῆνις, “Plague, Wrath”.
+λοιμός is plague: a pestilence that kills many at once. It is a rare word in Homer. According to the scholia, Zenodotus read it also at 1.97, where our text has λοιγόν. The traditional title of *Iliad* 1 is Λοιμός, Μῆνις, “Plague, Wrath”.
 
 {{notes}}
 

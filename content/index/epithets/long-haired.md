@@ -18,7 +18,7 @@ Long hair is the mark of the free fighting man. Achilles has let his grow as an 
 
 ## Use
 
-The formula belongs to Book 2's commands and summonses. Zeus gives it to the Dream: bid Agamemnon arm the long-haired Achaeans ({{ref:Iliad 2.11}}). The Dream repeats the order word for word ({{ref:Iliad 2.28}}), and Agamemnon repeats it again to the council ({{ref:Iliad 2.65}}; [[message-repeated]]). Twice Agamemnon has the heralds call the long-haired Achaeans out, first to the assembly and then, when the test has failed and been repaired, to war:
+The formula belongs to *Iliad* 2's commands and summonses. Zeus gives it to the Dream: bid Agamemnon arm the long-haired Achaeans ({{ref:Iliad 2.11}}). The Dream repeats the order word for word ({{ref:Iliad 2.28}}), and Agamemnon repeats it again to the council ({{ref:Iliad 2.65}}; [[message-repeated]]). Twice Agamemnon has the heralds call the long-haired Achaeans out, first to the assembly and then, when the test has failed and been repaired, to war:
 
 {{quote:0752ff08-0e87-517d-bf87-50f19f6c1d59}}
 

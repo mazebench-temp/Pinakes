@@ -18,7 +18,7 @@ The most famous use is Achilles' κλέος ἄφθιτον, the fame that “wi
 
 ## Use
 
-In Book 2 the epithet belongs to the scepter of Agamemnon, in a whole-line formula that describes it twice:
+In *Iliad* 2 the epithet belongs to the scepter of Agamemnon, in a whole-line formula that describes it twice:
 
 {{quote:415fc276-cc68-5e78-8299-393f6b7c5a67}}
 

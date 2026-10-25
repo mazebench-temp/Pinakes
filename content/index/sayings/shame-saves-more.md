@@ -3,7 +3,7 @@ title: “When men feel shame, more are saved than are killed”
 greek: αἰδομένων ἀνδρῶν πλέονες σόοι ἠὲ πέφανται
 kind: saying
 tags: [shame, warfare, speech]
-summary: Agamemnon's exhortation to the Achaeans: be men, feel shame before one another in battle, for when men feel shame more are saved than are killed, and when they flee there rises neither fame nor any courage. Ajax repeats it in Book 15.
+summary: Agamemnon's exhortation to the Achaeans: be men, feel shame before one another in battle, for when men feel shame more are saved than are killed, and when they flee there rises neither fame nor any courage. Ajax repeats it in *Iliad* 15.
 aliases: [shame saves more than it kills, feel shame before one another, be men, neither fame nor courage]
 grc: ["πλέονες σόοι", "φευγόντων δʼ οὔτʼ ἂρ κλέος"]
 en: [more are saved than are killed, when men flee]

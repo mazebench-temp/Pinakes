@@ -20,7 +20,7 @@ passages:
 
 {{quote:c99a1945-6921-5957-8d4d-c000d5479a6a}}
 
-At the first clash of the armies Rout is one of the powers that drive the men on, with [[terror|Terror]] and [[strife|Strife]] (4.439–440). On Athena's aegis he runs in a circle all around it, and [[strife|Strife]], [[courage|Courage]] and chilling [[onslaught|Onslaught]] are set within, with the head of the [[gorgon|Gorgon]] (5.739–742). On the shield of Agamemnon he and Terror surround the Gorgon (11.36–37). In a simile of Book 13 he is Ares' “dear son, strong and fearless”, “who routs even a warrior of enduring heart” (13.299–300), and in Book 15 Ares tells Terror and Rout to yoke his horses (15.119–120).
+At the first clash of the armies Rout is one of the powers that drive the men on, with [[terror|Terror]] and [[strife|Strife]] (4.439–440). On Athena's aegis he runs in a circle all around it, and [[strife|Strife]], [[courage|Courage]] and chilling [[onslaught|Onslaught]] are set within, with the head of the [[gorgon|Gorgon]] (5.739–742). On the shield of Agamemnon he and Terror surround the Gorgon (11.36–37). In a simile of *Iliad* 13 he is Ares' “dear son, strong and fearless”, “who routs even a warrior of enduring heart” (13.299–300), and in Book 15 Ares tells Terror and Rout to yoke his horses (15.119–120).
 
 ## Outside Homer
 

@@ -18,7 +18,7 @@ An army stands in στίχες, “ranks” or files, from στείχω (“walk
 
 ## Nestor's order
 
-Before the first battle Nestor advised Agamemnon to “separate the men by tribes and by clans … so that clan may help clan, and tribe tribe”, and so to learn which leaders and men were brave and which cowards (2.362–368). In Book 4 Agamemnon finds him putting such an order into practice with his own men:
+Before the first battle Nestor advised Agamemnon to “separate the men by tribes and by clans … so that clan may help clan, and tribe tribe”, and so to learn which leaders and men were brave and which cowards (2.362–368). In *Iliad* 4 Agamemnon finds him putting such an order into practice with his own men:
 
 {{quote:fe6f576a-3f4e-5d1b-8468-0e04ebfd1e8a}}
 

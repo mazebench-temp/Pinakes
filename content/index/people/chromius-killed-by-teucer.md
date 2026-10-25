@@ -16,4 +16,4 @@ relations:
 
 Δαίτορά τε Χρομίον τε, “Daetor and Chromius” (8.275): he is the fifth of the eight men whom Teucer brings down with his arrows, named and nothing more (8.273–277; see [[teucer]] and [[daetor]]).
 
-The half-verse pairs Chromius with a name in -τωρ, as Ἀλάστορά τε Χρομίον τε, “and Alastor and Chromius”, does twice, for two of Nestor's captains (4.295) and for two of the Lycians whom Odysseus kills (5.677; see [[chromius]] and [[chromius-of-lycia]]). Diomedes killed another Chromius, a son of Priam (5.159–160; see [[chromius-son-of-priam]]), and a Trojan ally of the name fights beside Hector and Aeneas in Book 17 (17.218, 17.494, 17.534; see [[chromis]]).
+The half-verse pairs Chromius with a name in -τωρ, as Ἀλάστορά τε Χρομίον τε, “and Alastor and Chromius”, does twice, for two of Nestor's captains (4.295) and for two of the Lycians whom Odysseus kills (5.677; see [[chromius]] and [[chromius-of-lycia]]). Diomedes killed another Chromius, a son of Priam (5.159–160; see [[chromius-son-of-priam]]), and a Trojan ally of the name fights beside Hector and Aeneas in *Iliad* 17 (17.218, 17.494, 17.534; see [[chromis]]).

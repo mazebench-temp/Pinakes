@@ -16,23 +16,23 @@ passages:
 
 ## The story
 
-Aeneas gives the first half of the story in Book 20, in his genealogy of the house of Troy. Tros, lord of the Trojans, had three sons, Ilus, Assaracus and godlike Ganymede, “who was the most beautiful of mortal men; / and the gods snatched him up to pour wine for Zeus, / for the sake of his beauty, so that he might dwell among the immortals” (20.231–235; see [[ganymede]] and [[tros]]).
+Aeneas gives the first half of the story in *Iliad* 20, in his genealogy of the house of Troy. Tros, lord of the Trojans, had three sons, Ilus, Assaracus and godlike Ganymede, “who was the most beautiful of mortal men; / and the gods snatched him up to pour wine for Zeus, / for the sake of his beauty, so that he might dwell among the immortals” (20.231–235; see [[ganymede]] and [[tros]]).
 
-Diomedes gives the second half in Book 5, as he tells Sthenelus to seize Aeneas' horses if the gods grant them victory.
+Diomedes gives the second half in *Iliad* 5, as he tells Sthenelus to seize Aeneas' horses if the gods grant them victory.
 
 {{quote:e88cd9d8-2f05-5531-ad15-b9a53f1f3459}}
 
 ποινή is the price paid for a life, the compensation a man accepts for a kinsman killed (see [[poine]]). Zeus pays it to a father whose son is not dead but lost to him. The price is horses, and the best in the world.
 
-The breed passed down the royal house. Tros' grandson Laomedon owned it, and Anchises, of the other branch of the house, put his mares to Laomedon's stallions without his knowledge and had six foals, of which he gave two to his son Aeneas (5.268–272; see [[anchises-steals-the-horses]]). When Diomedes crushes Aeneas' hip and Aphrodite carries him off, Sthenelus does as he was told: he drives the pair out of the Trojan lines and gives them to his companion Deipylus to take to the Achaean ships (5.319–327). They are Diomedes' from then on. In Book 8 he takes Nestor into his chariot behind them (8.105–108), and at the funeral games of Patroclus he races them, “the horses of Tros, of which he had once robbed Aeneas, though Apollo saved the man himself”, and wins (23.290–292, 23.499–513).
+The breed passed down the royal house. Tros' grandson Laomedon owned it, and Anchises, of the other branch of the house, put his mares to Laomedon's stallions without his knowledge and had six foals, of which he gave two to his son Aeneas (5.268–272; see [[anchises-steals-the-horses]]). When Diomedes crushes Aeneas' hip and Aphrodite carries him off, Sthenelus does as he was told: he drives the pair out of the Trojan lines and gives them to his companion Deipylus to take to the Achaean ships (5.319–327). They are Diomedes' from then on. In *Iliad* 8 he takes Nestor into his chariot behind them (8.105–108), and at the funeral games of Patroclus he races them, “the horses of Tros, of which he had once robbed Aeneas, though Apollo saved the man himself”, and wins (23.290–292, 23.499–513).
 
 ## In the poem
 
-**Why the pedigree is told.** Diomedes tells the story to explain why the horses are worth the risk: “If we could take these two, we would win noble fame” (5.273; see [[kleos]]). Horses are among the richest spoils, and a divine pedigree makes these the finest prize on the field (see [[horses]] and [[stripping-the-dead]]). Aeneas had boasted of them a few lines before, offering Pandarus a ride: “come, mount my chariot, so that you may see what the horses of Tros are like, how they know the plain, how to pursue and to flee very swiftly this way and that” (5.221–223). In Book 8 Diomedes offers Nestor a ride in the same words, and adds that he took them from Aeneas (8.105–108). The lines follow the horses from owner to owner.
+**Why the pedigree is told.** Diomedes tells the story to explain why the horses are worth the risk: “If we could take these two, we would win noble fame” (5.273; see [[kleos]]). Horses are among the richest spoils, and a divine pedigree makes these the finest prize on the field (see [[horses]] and [[stripping-the-dead]]). Aeneas had boasted of them a few lines before, offering Pandarus a ride: “come, mount my chariot, so that you may see what the horses of Tros are like, how they know the plain, how to pursue and to flee very swiftly this way and that” (5.221–223). In *Iliad* 8 Diomedes offers Nestor a ride in the same words, and adds that he took them from Aeneas (8.105–108). The lines follow the horses from owner to owner.
 
 **Horses from the gods.** The royal horses of Troy have divine sires. Erichthonius, Tros' father, owned three thousand mares, and the North Wind, in the likeness of a dark-maned stallion, fathered on them twelve foals that could run over the ears of grain without breaking them (20.221–229; see [[erichthonius]], [[the-mares-of-erichthonius]] and [[boreas]]). Tros' horses came from Zeus. They are the earthly counterpart of the horses that carry the gods, the horses of Ares that Aphrodite borrows and of Hera that leap to the horizon at every bound (5.355–369, 5.768–772; see [[the-lookout]]).
 
-**Masters of rout.** Diomedes calls the pair μήστωρε φόβοιο, “masters of rout” (5.272; also 8.108; see [[master-of-rout]]). In Book 6 the seer Helenus gives the same title to Diomedes himself (6.97).
+**Masters of rout.** Diomedes calls the pair μήστωρε φόβοιο, “masters of rout” (5.272; also 8.108; see [[master-of-rout]]). In *Iliad* 6 the seer Helenus gives the same title to Diomedes himself (6.97).
 
 ## Outside Homer
 

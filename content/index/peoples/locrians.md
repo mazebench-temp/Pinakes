@@ -20,7 +20,7 @@ Their towns are [[Cynus]], [[Opus]], [[Calliarus]], [[Bessa]], [[Scarphe]], [[Au
 
 ## Elsewhere in Homer
 
-Their way of fighting is unexpected after the Catalogue's praise of their leader's spear. In Book 13 the Locrians do not stand in close combat, for "they had no bronze helmets with horsehair crests, no round shields and no ash spears". They trust in bows and slings of twisted wool, and shoot from behind the heavy-armed men (13.712–722).
+Their way of fighting is unexpected after the Catalogue's praise of their leader's spear. In *Iliad* 13 the Locrians do not stand in close combat, for "they had no bronze helmets with horsehair crests, no round shields and no ash spears". They trust in bows and slings of twisted wool, and shoot from behind the heavy-armed men (13.712–722).
 
 ## Outside Homer
 

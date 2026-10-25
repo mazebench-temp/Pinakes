@@ -18,4 +18,4 @@ of: [briseis, handmaids, captive-women, cleopatra, iphis]
 
 {{quote:1a9fc602-185f-5271-97be-ef0fcd39e95e}}
 
-The narrator says that Achilles is angry at heart “for the sake of the fair-belted woman whom they had taken by force against his will.” Briseis is not named. It is the closest Book 1 comes to naming what Achilles feels for her, and it sets beside the question of his prize ([[geras]]) the loss of a person. The epithet is the last glimpse of her in the book.
+The narrator says that Achilles is angry at heart “for the sake of the fair-belted woman whom they had taken by force against his will.” Briseis is not named. It is the closest *Iliad* 1 comes to naming what Achilles feels for her, and it sets beside the question of his prize ([[geras]]) the loss of a person. The epithet is the last glimpse of her in the book.

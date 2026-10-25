@@ -16,4 +16,4 @@ of: [earth]
 
 ## Use
 
-Book 3 uses the formula three times, always of the ground where the war has paused. Hector proposes that both armies “lay aside their fine armor on the bountiful earth” (3.89). Priam sees Odysseus ranging the ranks while “his armor lies on the bountiful earth” (3.195). And Priam and Antenor step down from the chariot “onto the bountiful earth” between the armies to swear the oath (3.265). The earth that feeds men receives the armor of the truce. The same earth, as Γῆ, is a witness of the oath (3.104, 3.278; [[earth]]).
+*Iliad* 3 uses the formula three times, always of the ground where the war has paused. Hector proposes that both armies “lay aside their fine armor on the bountiful earth” (3.89). Priam sees Odysseus ranging the ranks while “his armor lies on the bountiful earth” (3.195). And Priam and Antenor step down from the chariot “onto the bountiful earth” between the armies to swear the oath (3.265). The earth that feeds men receives the armor of the truce. The same earth, as Γῆ, is a witness of the oath (3.104, 3.278; [[earth]]).

@@ -10,7 +10,7 @@ passages:
   - 2.698-702 | Protesilaus
 ---
 
-The proem promises deaths: the wrath of Achilles “hurled down to Hades many mighty souls of heroes, and made the men themselves the spoil of dogs and of every bird” (1.3–5). The first deaths of the poem are the plague's: Apollo's arrows strike the mules and the dogs and then the men, and “the pyres of the dead burned on, thick and constant” (1.50–52). The first deaths in battle wait until the end of Book 4. Before them come three books of assemblies, a catalogue and a duel in which, against its own terms, no one dies (3.101–102, 3.373–382). From then on killing is the poem's main business.
+The proem promises deaths: the wrath of Achilles “hurled down to Hades many mighty souls of heroes, and made the men themselves the spoil of dogs and of every bird” (1.3–5). The first deaths of the poem are the plague's: Apollo's arrows strike the mules and the dogs and then the men, and “the pyres of the dead burned on, thick and constant” (1.50–52). The first deaths in battle wait until the end of *Iliad* 4. Before them come three books of assemblies, a catalogue and a duel in which, against its own terms, no one dies (3.101–102, 3.373–382). From then on killing is the poem's main business.
 
 ## Named
 
@@ -24,7 +24,7 @@ The poem has a small set of phrases for the moment of death, and it repeats them
 
 ## After death
 
-A dead man's body is fought over. The victor wants the armor, and the dead man's companions want to save the body from being stripped and from the dogs and birds of the proem. The first battle already has the whole pattern, and the fights over Sarpedon and Patroclus are its largest forms (16.419–683, Book 17). Deaths call for more deaths, as companions and brothers take revenge (see [[kasignetos]] and [[hetairos]]).
+A dead man's body is fought over. The victor wants the armor, and the dead man's companions want to save the body from being stripped and from the dogs and birds of the proem. The first battle already has the whole pattern, and the fights over Sarpedon and Patroclus are its largest forms (16.419–683, *Iliad* 17). Deaths call for more deaths, as companions and brothers take revenge (see [[kasignetos]] and [[hetairos]]).
 
 ## Why
 

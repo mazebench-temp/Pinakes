@@ -17,13 +17,13 @@ relations:
 
 ## Etymology
 
-ὕπνος is the common word for sleep (see [[hypnos]]). The god is the same word, and only the editor's capital tells them apart: Monro–Allen print Ὕπνος in Book 14, but ὕπνος and θάνατος in Book 16, where the two brothers carry Sarpedon (16.454, 16.672, 16.682). Latin *somnus* and Sanskrit *svápna-*, “sleep, dream”, come from the same root.
+ὕπνος is the common word for sleep (see [[hypnos]]). The god is the same word, and only the editor's capital tells them apart: Monro–Allen print Ὕπνος in *Iliad* 14, but ὕπνος and θάνατος in Book 16, where the two brothers carry Sarpedon (16.454, 16.672, 16.682). Latin *somnus* and Sanskrit *svápna-*, “sleep, dream”, come from the same root.
 
 ## Family
 
 {{quote:3106b6a1-680c-5619-8587-ec64a347a498}}
 
-κασιγνήτῳ Θανάτοιο: Sleep is the brother of [[death|Death]], and in Book 16 the two are twins (διδυμάοσιν, 16.672, 16.682). Homer does not name their parents. When Zeus hunted him through the sky, Sleep fled to Night, and she saved him (14.258–261; see [[night]]); Hesiod makes Night the mother of both. Sleep longs for Pasithea, one of the younger Graces, and Hera promises her to him as his wife (14.267–276; see [[pasithea]] and [[graces]]).
+κασιγνήτῳ Θανάτοιο: Sleep is the brother of [[death|Death]], and in *Iliad* 16 the two are twins (διδυμάοσιν, 16.672, 16.682). Homer does not name their parents. When Zeus hunted him through the sky, Sleep fled to Night, and she saved him (14.258–261; see [[night]]); Hesiod makes Night the mother of both. Sleep longs for Pasithea, one of the younger Graces, and Hera promises her to him as his wife (14.267–276; see [[pasithea]] and [[graces]]).
 
 ## Descriptions
 

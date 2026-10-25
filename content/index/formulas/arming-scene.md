@@ -27,7 +27,7 @@ The Iliad tells four arming scenes in full: Paris before his duel (3.328–338),
 
 What changes is what the story needs, and each full scene gives one piece a history or a meaning. Agamemnon's corselet was a guest-gift from Cinyras of Cyprus, his shield bears the Gorgon's face, and Athena and Hera thunder to honor him (11.19–46). Patroclus puts on all of Achilles' armor except the spear, the ash from Pelion that no other Achaean could wield (16.140–144). Achilles' shield shines like the moon and his helmet like a star, and when he tries the armor on it lifts him like wings (19.373–386); last he takes up his father's spear (19.387–391).
 
-The scene can also shrink to a verse, as for Menelaus in Book 3 (3.339), or change its pieces for the occasion. Teucer, when his bowstring breaks, puts down the bow and takes a shield, a helmet and a spear (15.461–482). Diomedes and Odysseus arm for their night raid with a leather cap and a helmet of boar's tusks (10.254–271).
+The scene can also shrink to a verse, as for Menelaus in *Iliad* 3 (3.339), or change its pieces for the occasion. Teucer, when his bowstring breaks, puts down the bow and takes a shield, a helmet and a spear (15.461–482). Diomedes and Odysseus arm for their night raid with a leather cap and a helmet of boar's tusks (10.254–271).
 
 Walter Arend described the arming scene among Homer's recurring scenes (*Die typischen Scenen bei Homer*, 1933). J. I. Armstrong showed how the four full scenes grow in scale and how each prepares a decisive fight (“The Arming Motif in the Iliad”, *American Journal of Philology* 79, 1958).
 

@@ -11,6 +11,6 @@ en: [Deeply troubled]
 
 ## The pattern
 
-μέγα (“greatly”) + ὀχθήσας, aorist participle of ὀχθέω (“be vexed, troubled”). It takes the place of ἀπαμειβόμενος in the reply formula ([[answering-him]]): τὴν δὲ μέγ’ ὀχθήσας προσέφη νεφεληγερέτα Ζεύς. The same whole line introduces Zeus' reply to Hera in Book 4 (Il. 4.30).
+μέγα (“greatly”) + ὀχθήσας, aorist participle of ὀχθέω (“be vexed, troubled”). It takes the place of ἀπαμειβόμενος in the reply formula ([[answering-him]]): τὴν δὲ μέγ’ ὀχθήσας προσέφη νεφεληγερέτα Ζεύς. The same whole line introduces Zeus' reply to Hera in *Iliad* 4 (Il. 4.30).
 
 {{notes}}

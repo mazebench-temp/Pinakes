@@ -16,7 +16,7 @@ passages:
 
 {{quote:0e1ce1ad-1f84-5cd3-90c5-caf768b12e7a}}
 
-The story is told in one line: the drugs are those “which Chiron once gave to his father in friendship” (τά οἵ ποτε πατρὶ φίλα φρονέων πόρε Χείρων, 4.219). ποτε, “once”, puts the gift in the past, in the generation before the war. φίλα φρονέων is “with friendly thoughts”, the language of a friend's gift. The father is [[Asclepius]], “the noble healer” (4.194), and the son [[Machaon]], who uses the drugs on Menelaus' wound (see [[pandarus-breaks-the-truce]] and [[healing]]). Homer does not say when or why the Centaur gave them, or that he taught Asclepius; in Book 4 he does not even call him a Centaur (see [[chiron]]).
+The story is told in one line: the drugs are those “which Chiron once gave to his father in friendship” (τά οἵ ποτε πατρὶ φίλα φρονέων πόρε Χείρων, 4.219). ποτε, “once”, puts the gift in the past, in the generation before the war. φίλα φρονέων is “with friendly thoughts”, the language of a friend's gift. The father is [[Asclepius]], “the noble healer” (4.194), and the son [[Machaon]], who uses the drugs on Menelaus' wound (see [[pandarus-breaks-the-truce]] and [[healing]]). Homer does not say when or why the Centaur gave them, or that he taught Asclepius; in *Iliad* 4 he does not even call him a Centaur (see [[chiron]]).
 
 The Iliad names Chiron three times more. The wounded Eurypylus asks Patroclus for the soothing drugs that he learned from Achilles, “whom Chiron taught, the most just of the Centaurs” (11.830–832). And the great ash spear that only Achilles could wield is “the Pelian ash, which Chiron gave to his dear father / from the peak of Pelion, to be death for heroes” (16.140–144, repeated at 19.387–391).
 

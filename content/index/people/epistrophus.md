@@ -3,7 +3,7 @@ title: Epistrophus
 greek: Ἐπίστροφος
 kind: person
 tags: [achaean, warrior, phocis]
-summary: One of the two leaders of the [[Phocians]], son of [[Iphitus]] and brother of [[Schedius]]. Book 2 has two other men of this name, one killed at Lyrnessus and a leader of the Halizones.
+summary: One of the two leaders of the [[Phocians]], son of [[Iphitus]] and brother of [[Schedius]]. *Iliad* 2 has two other men of this name, one killed at Lyrnessus and a leader of the Halizones.
 grc: ["^Ἐπίστροφος"]
 except: [2.692, 2.856]
 relations:
@@ -17,7 +17,7 @@ passages:
 
 Epistrophus is named only in the Catalogue. The adjective ἐπίστροφος means "turning toward, going about among": Telemachus says that his father too "was one who went about among men" (ἐπίστροφος ἀνθρώπων, *Odyssey* 1.177).
 
-Two other men in Book 2 bear the name: Epistrophus, son of Euenus, whom Achilles killed when he sacked Lyrnessus (2.692; [[epistrophus-of-lyrnessus]]), and Epistrophus, who leads the Halizones with Odius (2.856; [[epistrophus-of-the-halizones]]).
+Two other men in *Iliad* 2 bear the name: Epistrophus, son of Euenus, whom Achilles killed when he sacked Lyrnessus (2.692; [[epistrophus-of-lyrnessus]]), and Epistrophus, who leads the Halizones with Odius (2.856; [[epistrophus-of-the-halizones]]).
 
 ## Outside Homer
 

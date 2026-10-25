@@ -14,7 +14,7 @@ of: [achilles, patroclus, odysseus, agamemnon, ajax]
 
 διογενής = Διός (“of Zeus”) + γένος, γίγνομαι (“birth, be born”): “Zeus-born.” It is a title of kings and heroes in general rather than a claim about each one's parentage, like [[zeus-nurtured]] (διοτρεφής). In the Odyssey the vocative is part of Odysseus' standing address, διογενὲς Λαερτιάδη, πολυμήχαν’ Ὀδυσσεῦ.
 
-For Achilles it is also true by descent. In Book 21 he boasts that his father Peleus was the son of Aeacus, and Aeacus the son of Zeus (Il. 21.187–189).
+For Achilles it is also true by descent. In *Iliad* 21 he boasts that his father Peleus was the son of Aeacus, and Aeacus the son of Zeus (Il. 21.187–189).
 
 ## Use
 

@@ -18,7 +18,7 @@ passages:
 
 {{quote:95ffd98d-3d19-5b06-b075-3388c6f2539f}}
 
-When Diomedes takes Nestor into his chariot, he leaves the old man's horses to “our attendants” (θεράποντε, a dual: 8.109), who are named as they take over: “mighty Sthenelus and manly Eurymedon” (8.114; see [[sthenelus]], [[nestor]] and [[manly]]). In Book 11 the same Eurymedon unyokes Nestor's horses at his hut, when the old man brings the wounded Machaon back from the battle (11.618–621).
+When Diomedes takes Nestor into his chariot, he leaves the old man's horses to “our attendants” (θεράποντε, a dual: 8.109), who are named as they take over: “mighty Sthenelus and manly Eurymedon” (8.114; see [[sthenelus]], [[nestor]] and [[manly]]). In *Iliad* 11 the same Eurymedon unyokes Nestor's horses at his hut, when the old man brings the wounded Machaon back from the battle (11.618–621).
 
 Diomedes has just told Nestor that “your attendant is a weakling” (ἠπεδανός, 8.104), yet the two who take over are ἴφθιμοι, “mighty”. The poem does not say whether Diomedes meant Eurymedon. ἠπεδανός occurs only once more, when Hephaestus speaks of his own lameness (Od. 8.311).
 

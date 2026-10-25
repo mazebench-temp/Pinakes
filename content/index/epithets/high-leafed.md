@@ -17,4 +17,4 @@ en: [high-leafed]
 
 {{quote:df270364-d518-5c60-975f-8deaf5468be2}}
 
-The shout of the armies, as Poseidon and Hector bring them together, is louder than the wave driven by the North Wind, louder than a forest fire in the glens, louder than the wind that cries “around the high-leafed oaks, / the wind that roars the loudest in its rage” (14.394–401; [[louder-than-sea-fire-and-wind]], [[grievous]], [[blazing-fire]], [[boreas]]). The tall oaks are where the wind is loudest. In Book 23 the same trees fall for the pyre of Patroclus, cut with the long-edged bronze, ταναήκεϊ χαλκῷ (23.118; [[long-edged]]).
+The shout of the armies, as Poseidon and Hector bring them together, is louder than the wave driven by the North Wind, louder than a forest fire in the glens, louder than the wind that cries “around the high-leafed oaks, / the wind that roars the loudest in its rage” (14.394–401; [[louder-than-sea-fire-and-wind]], [[grievous]], [[blazing-fire]], [[boreas]]). The tall oaks are where the wind is loudest. In *Iliad* 23 the same trees fall for the pyre of Patroclus, cut with the long-edged bronze, ταναήκεϊ χαλκῷ (23.118; [[long-edged]]).

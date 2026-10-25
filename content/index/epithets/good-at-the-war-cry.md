@@ -18,7 +18,7 @@ The formula βοὴν ἀγαθὸς Μενέλαος / Διομήδης closes 
 
 ## Use
 
-Book 2 names Menelaus by the formula when he comes, uninvited, to his brother's sacrifice before battle:
+*Iliad* 2 names Menelaus by the formula when he comes, uninvited, to his brother's sacrifice before battle:
 
 {{quote:99a4f893-5395-5c18-8675-0de481a81de2}}
 

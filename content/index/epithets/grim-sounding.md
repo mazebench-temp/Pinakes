@@ -18,4 +18,4 @@ of: [polemos]
 
 {{quote:8dabd452-362d-5346-b996-1374b97efce9}}
 
-The Myrmidons' entry in the Catalogue lists their towns and their fifty ships, and then says that they are not fighting. The epithet recalls what they are missing, the din of the war they “gave no thought to,” because their leader lies idle by the ships, angry over Briseis ([[achilles-withdraws]], [[podarkes]]). Compare [[man-destroying]] (φθισήνωρ), the other epithet of war in Book 2.
+The Myrmidons' entry in the Catalogue lists their towns and their fifty ships, and then says that they are not fighting. The epithet recalls what they are missing, the din of the war they “gave no thought to,” because their leader lies idle by the ships, angry over Briseis ([[achilles-withdraws]], [[podarkes]]). Compare [[man-destroying]] (φθισήνωρ), the other epithet of war in *Iliad* 2.

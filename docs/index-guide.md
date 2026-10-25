@@ -47,6 +47,11 @@ in a note of the Poetics or the Rhetoric the work name is not needed, and a cita
 treatise names it (“*Poetics* 1449a32–37” in a Rhetoric note). In prose, too, a bare citation means the Iliad: write *Odyssey* 19.203, not
 19.203, after a mention of the Odyssey.
 
+A book is cited by its poem, never as a bare “Book 2”, which could be either poem's: write *Iliad* 2 or
+*Odyssey* 5 (“the plague of *Iliad* 1”), and in a title “The title of Iliad 12”. A summary cannot begin with
+`*`, so one that opens with a book says “Book 12 of the Iliad”. Within a paragraph that has named the poem,
+a later “Book 9” may stand; in a note, as with line references, a bare book is the note's own work.
+
 Lists may be written inline (`[a, b]`) or as indented `- item` lines. Use the indented form when an item
 contains a comma.
 

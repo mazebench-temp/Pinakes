@@ -16,4 +16,4 @@ of: [mixing-bowl, wine]
 
 ## Use
 
-Agamemnon recalls the feast on Lemnos at which the Achaeans boasted: they were “eating much meat of straight-horned cattle and drinking mixing bowls brim-full of wine” (8.231–232). The full bowl is the measure of the feast and of the boasts it produced, which the battle has emptied ([[empty-boasting]], [[straight-horned]], [[lemnos]]). Lemnos is the island from which the wine that the Achaeans drank at the end of Book 7 came (7.467–475; [[euneus]]).
+Agamemnon recalls the feast on Lemnos at which the Achaeans boasted: they were “eating much meat of straight-horned cattle and drinking mixing bowls brim-full of wine” (8.231–232). The full bowl is the measure of the feast and of the boasts it produced, which the battle has emptied ([[empty-boasting]], [[straight-horned]], [[lemnos]]). Lemnos is the island from which the wine that the Achaeans drank at the end of *Iliad* 7 came (7.467–475; [[euneus]]).

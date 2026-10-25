@@ -11,7 +11,7 @@ en: [stormy]
 
 ## Meaning
 
-δυσαής = δυσ- (“ill, hard,” as in [[grim-sounding]], δυσηχής) + the root of ἄημι (“blow”): “blowing ill, stormy.” Homer uses it five times, of winds: of Zephyrus, the west wind, in the Iliad and the Odyssey (Il. 23.200; Od. 5.295, 12.289), of winds in general (Od. 13.99), and here. Compare the other winds of Book 5: the “violent winds” that scatter the clouds (5.525; [[violent]]) and the North Wind whose breath revives Sarpedon (5.697–698).
+δυσαής = δυσ- (“ill, hard,” as in [[grim-sounding]], δυσηχής) + the root of ἄημι (“blow”): “blowing ill, stormy.” Homer uses it five times, of winds: of Zephyrus, the west wind, in the Iliad and the Odyssey (Il. 23.200; Od. 5.295, 12.289), of winds in general (Od. 13.99), and here. Compare the other winds of *Iliad* 5: the “violent winds” that scatter the clouds (5.525; [[violent]]) and the North Wind whose breath revives Sarpedon (5.697–698).
 
 ## Use
 

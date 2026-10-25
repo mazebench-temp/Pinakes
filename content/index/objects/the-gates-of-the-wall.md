@@ -3,7 +3,7 @@ title: The gates of the wall
 greek: πύλαι
 kind: object
 tags: [camp, warfare]
-summary: The gates in the Achaean wall, built with it as “a way for driving horses” (7.339–340, 7.438–439). In Book 12 one on the left of the ships stands open for fleeing comrades when Asius drives at it, and Hector breaks another with a stone, splitting its high double doors and leaping in (12.118–136, 12.445–471).
+summary: The gates in the Achaean wall, built with it as “a way for driving horses” (7.339–340, 7.438–439). In *Iliad* 12 one on the left of the ships stands open for fleeing comrades when Asius drives at it, and Hector breaks another with a stone, splitting its high double doors and leaping in (12.118–136, 12.445–471).
 aliases: [gates of the Achaean wall, gate of the Achaean wall, Achaean gates, the left gate, the gate Hector broke]
 # πύλαι are also the gates of Troy, of Olympus (5.749, 8.393) and of Hades (9.312), so this entry claims
 # phrases, not the bare word. ὀχῆες are the clasps of a belt at 4.132, so the bars are claimed in phrases too.
@@ -63,4 +63,4 @@ The gates were part of the wall from the first. Nestor proposed high towers by t
 
 ## Elsewhere in Homer
 
-The breaking is remembered. Poseidon, rousing the Achaeans in Book 13, tells them in the words of the narrator's warning (12.291) that Hector “has broken the gates and the long bar” (13.124), and Hector later holds his ground “where he had first leapt in at the gates and the wall” (13.679). The gates are opened once more, by a god: Hermes brings Priam past “the towers of the ships and the ditch”, puts the sentries to sleep, “and at once opened the gates and pushed back the bars”, and brings him in with the ransom (24.443–447; see [[hermes]] and [[priam]]).
+The breaking is remembered. Poseidon, rousing the Achaeans in *Iliad* 13, tells them in the words of the narrator's warning (12.291) that Hector “has broken the gates and the long bar” (13.124), and Hector later holds his ground “where he had first leapt in at the gates and the wall” (13.679). The gates are opened once more, by a god: Hermes brings Priam past “the towers of the ships and the ditch”, puts the sentries to sleep, “and at once opened the gates and pushed back the bars”, and brings him in with the ransom (24.443–447; see [[hermes]] and [[priam]]).

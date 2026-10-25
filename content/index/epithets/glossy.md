@@ -15,4 +15,4 @@ of: [chariot]
 
 ## Use
 
-The reins pass from hand to hand in Book 5. Aeneas offers them to Pandarus, “But come now, take the whip and the glossy reins” (5.226), and Pandarus refuses, since the horses will run better under the driver they know (5.230–234; [[chariot]]). Later Sthenelus, having taken Aeneas' horses, “mounted his own chariot and took the glossy reins” (5.328; [[strong-hoofed]]). In Book 8 Nestor takes the glossy reins in Diomedes' chariot, and they escape his hands as Zeus' thunderbolt strikes before the horses (Il. 8.116, 8.137).
+The reins pass from hand to hand in *Iliad* 5. Aeneas offers them to Pandarus, “But come now, take the whip and the glossy reins” (5.226), and Pandarus refuses, since the horses will run better under the driver they know (5.230–234; [[chariot]]). Later Sthenelus, having taken Aeneas' horses, “mounted his own chariot and took the glossy reins” (5.328; [[strong-hoofed]]). In Book 8 Nestor takes the glossy reins in Diomedes' chariot, and they escape his hands as Zeus' thunderbolt strikes before the horses (Il. 8.116, 8.137).

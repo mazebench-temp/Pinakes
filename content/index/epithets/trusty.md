@@ -16,7 +16,7 @@ of: [hetairos]
 
 ## Use
 
-Book 3 uses the epithet twice, at the two ends of Helen's story. Hector asks Paris whether it was as such a coward that he crossed the sea, “gathering your trusty companions,” and brought back a lovely woman from a distant land (3.46–49). At the end of the duel it is Menelaus' men who are trusty:
+*Iliad* 3 uses the epithet twice, at the two ends of Helen's story. Hector asks Paris whether it was as such a coward that he crossed the sea, “gathering your trusty companions,” and brought back a lovely woman from a distant land (3.46–49). At the end of the duel it is Menelaus' men who are trusty:
 
 {{quote:cd43b3cb-5a0a-514f-9f10-06b4511b49db}}
 

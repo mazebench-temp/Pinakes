@@ -3,7 +3,7 @@ title: Dolon
 greek: Δόλων
 kind: person
 tags: [trojan, captive, supplication]
-summary: The Trojan spy of the night raid, son of the herald [[Eumedes]]. Rich, ill-favored and swift, the only son among five sisters, he goes out in a wolf's skin to spy on the Achaean ships for the promise of Achilles' horses, is caught by Odysseus and Diomedes, tells them where the Trojans and their allies sleep, and is killed as he begs for his life (Book 10).
+summary: The Trojan spy of the night raid, son of the herald [[Eumedes]]. Rich, ill-favored and swift, the only son among five sisters, he goes out in a wolf's skin to spy on the Achaean ships for the promise of Achilles' horses, is caught by Odysseus and Diomedes, tells them where the Trojans and their allies sleep, and is killed as he begs for his life (*Iliad* 10).
 aliases: [Dolōn, Dolon son of Eumedes]
 # ^ keeps out δόλων "of tricks" (δόλων ἆτʼ, "insatiable of tricks", said of Odysseus: 11.430; Od. 13.293).
 grc: ["^Δόλων", Δόλωνος]

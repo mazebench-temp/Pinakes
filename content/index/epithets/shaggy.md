@@ -18,4 +18,4 @@ of: [centaurs, the-calydonian-boar]
 
 {{quote:569ff1e4-c3ab-59dc-8f9d-45eaacd2915f}}
 
-The Centaurs are named here only as φῆρες, “beasts,” the Aeolic form of θῆρες, and the epithet completes the picture of the wild creatures of the mountains ([[centaurs]], [[lapiths-drive-out-the-centaurs]]). In Book 1 Nestor called them “mountain-dwelling beasts” ([[mountain-dwelling]], {{ref:Iliad 1.268}}).
+The Centaurs are named here only as φῆρες, “beasts,” the Aeolic form of θῆρες, and the epithet completes the picture of the wild creatures of the mountains ([[centaurs]], [[lapiths-drive-out-the-centaurs]]). In *Iliad* 1 Nestor called them “mountain-dwelling beasts” ([[mountain-dwelling]], {{ref:Iliad 1.268}}).

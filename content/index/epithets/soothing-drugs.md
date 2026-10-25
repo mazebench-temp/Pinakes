@@ -17,4 +17,4 @@ en: [soothing drugs]
 
 {{quote:0e1ce1ad-1f84-5cd3-90c5-caf768b12e7a}}
 
-Machaon's drugs are the knowledge of his family. Chiron gave them to his father Asclepius “in friendship” (φίλα φρονέων), and the gentle drugs answer the kindly gift. The same Centaur taught Achilles, and Achilles taught Patroclus, as Eurypylus says in Book 11 ([[chiron]], [[asclepius]], [[machaon]], [[healing]]).
+Machaon's drugs are the knowledge of his family. Chiron gave them to his father Asclepius “in friendship” (φίλα φρονέων), and the gentle drugs answer the kindly gift. The same Centaur taught Achilles, and Achilles taught Patroclus, as Eurypylus says in *Iliad* 11 ([[chiron]], [[asclepius]], [[machaon]], [[healing]]).

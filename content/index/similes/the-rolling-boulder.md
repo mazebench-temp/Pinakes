@@ -28,7 +28,7 @@ Poseidon has rallied the Achaeans, and the best of them have formed around the t
 
 ## Elsewhere in Homer
 
-Torrents in flood are the force of a charging hero: Diomedes and Ajax sweep the plain like rivers swollen by the rain of Zeus (5.85–94, 11.492–497; see [[river-in-flood]]), and when the armies first meet, their roar is the roar of two winter torrents rushing together (4.452–456; see [[torrents-meeting]]). The image is turned round in Book 15. Hector, testing the ranks, cannot break them, because they hold “like a tower” (πυργηδόν), like a great sheer rock beside the gray sea that withstands the winds and the swelling waves (15.615–622). In Book 14 Hector himself is struck by Ajax's stone and spun like a top (14.409–413).
+Torrents in flood are the force of a charging hero: Diomedes and Ajax sweep the plain like rivers swollen by the rain of Zeus (5.85–94, 11.492–497; see [[river-in-flood]]), and when the armies first meet, their roar is the roar of two winter torrents rushing together (4.452–456; see [[torrents-meeting]]). The image is turned round in *Iliad* 15. Hector, testing the ranks, cannot break them, because they hold “like a tower” (πυργηδόν), like a great sheer rock beside the gray sea that withstands the winds and the swelling waves (15.615–622). In Book 14 Hector himself is struck by Ajax's stone and spun like a top (14.409–413).
 
 ## Outside Homer
 

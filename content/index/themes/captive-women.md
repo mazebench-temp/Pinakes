@@ -12,7 +12,7 @@ passages:
   - 1.430-447 | Chryseis returned
 ---
 
-The quarrel of Book 1 is fought over two women. Chryseis is Agamemnon's prize, Briseis Achilles'. Both were taken when Achilles sacked towns of the Troad, both are called καλλιπάρῃος, “fair-cheeked”, and neither speaks. Even their names are their fathers': Chryseis and Briseis mean “daughter of Chryses” and “daughter of Briseus”.
+The quarrel of *Iliad* 1 is fought over two women. Chryseis is Agamemnon's prize, Briseis Achilles'. Both were taken when Achilles sacked towns of the Troad, both are called καλλιπάρῃος, “fair-cheeked”, and neither speaks. Even their names are their fathers': Chryseis and Briseis mean “daughter of Chryses” and “daughter of Briseus”.
 
 ## How they were taken
 
@@ -36,11 +36,11 @@ Agamemnon values Chryseis in the terms used for a wife. He prefers her to Clytem
 
 Briseis is handed over by Patroclus to the heralds, and “the woman went with them, unwilling” (ἀέκουσα). It is her only act in the book. The same word is used of the others in the scene: the heralds go unwillingly (ἀέκοντε, 1.327), and Briseis was taken from Achilles “against his will” (ἀέκοντος, 1.430). Everyone in the exchange is unwilling, and it happens all the same.
 
-Chryseis is returned. Odysseus leads her to the altar at Chryse and places her in her father's arms (1.439–447). She is the only person in Book 1 who comes home.
+Chryseis is returned. Odysseus leads her to the altar at Chryse and places her in her father's arms (1.439–447). She is the only person in *Iliad* 1 who comes home.
 
 ## Prize or person
 
-Is Briseis only a prize to Achilles? He calls her “something small but dear” (1.167), and Thetis leaves him “angry at heart for the sake of the fair-belted woman” (1.429). In Book 9 he says he loved her from his heart, “though she was won by my spear” (9.340–343). Briseis speaks for the first time in Book 19, lamenting Patroclus, who had been kind to her (19.282–300).
+Is Briseis only a prize to Achilles? He calls her “something small but dear” (1.167), and Thetis leaves him “angry at heart for the sake of the fair-belted woman” (1.429). In *Iliad* 9 he says he loved her from his heart, “though she was won by my spear” (9.340–343). Briseis speaks for the first time in Book 19, lamenting Patroclus, who had been kind to her (19.282–300).
 
 ## Related entries
 

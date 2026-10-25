@@ -20,7 +20,7 @@ passages:
 
 {{quote:3a0e2a1b-df4f-5bd7-ab27-d9d570a06f03}}
 
-Homer names Tartarus itself only in Book 8, once at dawn and once at nightfall. In the morning it is Zeus' threat to any god who goes off to help either army. It lies "very far off, where the pit beneath the earth is deepest" (8.14). βέρεθρον, "pit", occurs elsewhere in Homer only of Scylla's den (*Odyssey* 12.94). Its gates are of iron and its threshold of bronze, and it lies "as far beneath Hades as the sky is from the earth" (8.15–16). Above the earth is the sky, below it the realm of Hades, and below that, as far again, Tartarus. Its epithet ἠερόεις, "misty, murky" (8.13; see [[misty]]), is the word for "the misty dark" that fell to Hades as his share when the sons of Cronus divided the world (ζόφον ἠερόεντα, 15.191; see [[hades]]).
+Homer names Tartarus itself only in *Iliad* 8, once at dawn and once at nightfall. In the morning it is Zeus' threat to any god who goes off to help either army. It lies "very far off, where the pit beneath the earth is deepest" (8.14). βέρεθρον, "pit", occurs elsewhere in Homer only of Scylla's den (*Odyssey* 12.94). Its gates are of iron and its threshold of bronze, and it lies "as far beneath Hades as the sky is from the earth" (8.15–16). Above the earth is the sky, below it the realm of Hades, and below that, as far again, Tartarus. Its epithet ἠερόεις, "misty, murky" (8.13; see [[misty]]), is the word for "the misty dark" that fell to Hades as his share when the sons of Cronus divided the world (ζόφον ἠερόεντα, 15.191; see [[hades]]).
 
 At nightfall Zeus names it again. Hera may go "to the lowest limits / of earth and sea" in her anger, and he will not care:
 

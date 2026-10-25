@@ -12,7 +12,7 @@ of: [polemos]
 
 ## Meaning
 
-φύλοπις is an old word for battle whose origin is unknown; the translation renders it “the din of battle.” αἰνός means “dread, terrible” ([[most-dread]], [[grim-combat]]). The phrase φύλοπις αἰνή ends the verse, often in the half-line Τρώων καὶ Ἀχαιῶν φύλοπις αἰνή, “the dread din of battle between the Trojans and the Achaeans” (4.65; compare Il. 5.379, 6.1). Book 4 pairs it with πόλεμος κακός, “evil war,” in the whole-line formula πόλεμόν τε κακὸν καὶ φύλοπιν αἰνήν (4.15, 4.82).
+φύλοπις is an old word for battle whose origin is unknown; the translation renders it “the din of battle.” αἰνός means “dread, terrible” ([[most-dread]], [[grim-combat]]). The phrase φύλοπις αἰνή ends the verse, often in the half-line Τρώων καὶ Ἀχαιῶν φύλοπις αἰνή, “the dread din of battle between the Trojans and the Achaeans” (4.65; compare Il. 5.379, 6.1). *Iliad* 4 pairs it with πόλεμος κακός, “evil war,” in the whole-line formula πόλεμόν τε κακὸν καὶ φύλοπιν αἰνήν (4.15, 4.82).
 
 ## Use
 

@@ -3,7 +3,7 @@ title: Strabo on the chase around Troy
 greek: οὐδʼ ἡ τοῦ Ἕκτορος δὲ περιδρομὴ ἡ περὶ τὴν πόλιν ἔχει τι εὔλογον
 kind: note
 tags: [scholarship, troad]
-summary: Setting out the case of Demetrius of Scepsis that Homer's Ilium did not stand where the Ilium of his own day stood, Strabo argues from the chase of Book 22. The old site could be run around, but the new city could not, because of the ridge joined to it. Demetrius also explained why only one of Homer's two springs could be found: the hot spring had failed, perhaps in the great earthquakes of old, and the Scamander rises from a single spring on Ida.
+summary: Setting out the case of Demetrius of Scepsis that Homer's Ilium did not stand where the Ilium of his own day stood, Strabo argues from the chase of *Iliad* 22. The old site could be run around, but the new city could not, because of the ridge joined to it. Demetrius also explained why only one of Homer's two springs could be found: the hot spring had failed, perhaps in the great earthquakes of old, and the Scamander rises from a single spring on Ida.
 source: Strabo, Geography 13.1.34–38, 13.1.43; 1.3.17
 of: [the-pursuit-of-hector, the-walls-of-troy, the-springs-of-the-scamander, scamander, the-fig-tree, strabo]
 refs: [22.145-152, 22.165]

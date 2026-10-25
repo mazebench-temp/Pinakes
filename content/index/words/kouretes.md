@@ -20,6 +20,6 @@ The same word, with a capital and the accent Κουρῆτες in the printed te
 
 ## Outside Homer
 
-Strabo, discussing the Curetes, quotes both verses of Book 19 to show that Homer called young soldiers κούρητες, in a text that differs from ours: “choose young men, the best of all the Achaeans, to bring the gifts from the swift ship (δῶρα θοῆς παρὰ νηὸς ἐνεγκεῖν), all that we promised Achilles yesterday (χθιζοί)”, and “the young men of the Achaeans (κούρητες Ἀχαιοί) carried the gifts”. He thinks it likely that the armed dance, first brought in by men who took such care of their hair and dress and were called Curetes, lent the same name to others more given to war, who lived under arms, the Curetes of Euboea, Aetolia and Acarnania (*Geography* 10.3.8).
+Strabo, discussing the Curetes, quotes both verses of *Iliad* 19 to show that Homer called young soldiers κούρητες, in a text that differs from ours: “choose young men, the best of all the Achaeans, to bring the gifts from the swift ship (δῶρα θοῆς παρὰ νηὸς ἐνεγκεῖν), all that we promised Achilles yesterday (χθιζοί)”, and “the young men of the Achaeans (κούρητες Ἀχαιοί) carried the gifts”. He thinks it likely that the armed dance, first brought in by men who took such care of their hair and dress and were called Curetes, lent the same name to others more given to war, who lived under arms, the Curetes of Euboea, Aetolia and Acarnania (*Geography* 10.3.8).
 
 See [[strabo-on-the-kouretes]].

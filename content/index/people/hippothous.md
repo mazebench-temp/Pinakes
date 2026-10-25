@@ -18,4 +18,4 @@ relations:
 
 {{quote:936006d4-a5e1-5c59-a029-78b0b053377f}}
 
-The name means "swift with horses" (ἵππος, "horse" + θοός, "swift"). The Catalogue names him twice, first as leader of the Pelasgians and then with his brother. In Book 17 Ajax kills him as he drags the body of Patroclus by the foot (17.288–303). A son of Priam of the same name appears in Book 24 (24.251; see [[hippothous-son-of-priam]]).
+The name means "swift with horses" (ἵππος, "horse" + θοός, "swift"). The Catalogue names him twice, first as leader of the Pelasgians and then with his brother. In *Iliad* 17 Ajax kills him as he drags the body of Patroclus by the foot (17.288–303). A son of Priam of the same name appears in Book 24 (24.251; see [[hippothous-son-of-priam]]).

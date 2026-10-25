@@ -18,4 +18,4 @@ of: [arrows]
 
 {{quote:d8453c80-19de-51e3-bb9c-4357ed25b441}}
 
-The phrase names the arrows of Apollo in the first scene of the poem, when the god shoots first at the mules and the dogs and then at the men. In Book 4 it names the arrow that Athena wards off from Menelaus: she “stood in front of you and warded off the piercing shaft” (4.129; [[driver-of-spoil]]). The god's arrows kill; the man's arrow is turned aside by a god.
+The phrase names the arrows of Apollo in the first scene of the poem, when the god shoots first at the mules and the dogs and then at the men. In *Iliad* 4 it names the arrow that Athena wards off from Menelaus: she “stood in front of you and warded off the piercing shaft” (4.129; [[driver-of-spoil]]). The god's arrows kill; the man's arrow is turned aside by a god.

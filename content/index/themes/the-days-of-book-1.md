@@ -1,5 +1,5 @@
 ---
-title: The days of Book 1
+title: The days of Iliad 1
 greek: ἦμαρ
 kind: theme
 tags: [time]

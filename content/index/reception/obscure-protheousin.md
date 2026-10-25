@@ -3,7 +3,7 @@ title: Do his insults rush forth? (1.291)
 greek: προθέουσιν
 kind: note
 tags: [scholarship]
-summary: Agamemnon's question at 1.291, τοὔνεκά οἱ προθέουσιν ὀνείδεα μυθήσασθαι, is one of the obscure lines of Book 1. προθέουσιν may mean "run forward" or come from "put forward, allow".
+summary: Agamemnon's question at 1.291, τοὔνεκά οἱ προθέουσιν ὀνείδεα μυθήσασθαι, is one of the obscure lines of *Iliad* 1. προθέουσιν may mean "run forward" or come from "put forward, allow".
 of: [agamemnon]
 refs: [1.291]
 ---

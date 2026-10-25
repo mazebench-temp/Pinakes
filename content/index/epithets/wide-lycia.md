@@ -16,6 +16,6 @@ of: [lycia]
 
 ## Use
 
-All three uses in Book 6 are Glaucus', in the story of his family. When Bellerophon came to Lycia, “the lord of wide Lycia honored him with a ready heart” (6.173); when he came back from his labors, the same king “chose the best men out of wide Lycia” to ambush him (6.188); and Hippolochus told his son not to shame the race of his fathers, “who were by far the best in Ephyra and in wide Lycia” (6.209–210; [[bellerophon]], [[glaucus]]). The land's epithet frames the story of how a stranger became its king's son-in-law.
+All three uses in *Iliad* 6 are Glaucus', in the story of his family. When Bellerophon came to Lycia, “the lord of wide Lycia honored him with a ready heart” (6.173); when he came back from his labors, the same king “chose the best men out of wide Lycia” to ambush him (6.188); and Hippolochus told his son not to shame the race of his fathers, “who were by far the best in Ephyra and in wide Lycia” (6.209–210; [[bellerophon]], [[glaucus]]). The land's epithet frames the story of how a stranger became its king's son-in-law.
 
-In Book 16 the formula names the land to which the dead Sarpedon is carried. Hera proposes, and Zeus orders, that Sleep and Death take him to “the rich land of wide Lycia,” where his kinsmen will bury him with a mound and a pillar (Il. 16.454–457, 16.673–675), and there they set him down (Il. 16.681–683; [[sarpedon]], [[lycia]]).
+In *Iliad* 16 the formula names the land to which the dead Sarpedon is carried. Hera proposes, and Zeus orders, that Sleep and Death take him to “the rich land of wide Lycia,” where his kinsmen will bury him with a mound and a pillar (Il. 16.454–457, 16.673–675), and there they set him down (Il. 16.681–683; [[sarpedon]], [[lycia]]).

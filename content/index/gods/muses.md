@@ -20,7 +20,7 @@ refs: [1.1]
 
 ## Elsewhere in Homer
 
-The half-line of 1.604, ἀμειβόμεναι ὀπὶ καλῇ, returns once more in Homer. At Achilles' funeral "all nine Muses, answering one another with lovely voices, sang the lament" (*Odyssey* 24.60–61). The voices that sing at the gods' feast in Book 1 will sing for Achilles when he dies.
+The half-line of 1.604, ἀμειβόμεναι ὀπὶ καλῇ, returns once more in Homer. At Achilles' funeral "all nine Muses, answering one another with lovely voices, sang the lament" (*Odyssey* 24.60–61). The voices that sing at the gods' feast in *Iliad* 1 will sing for Achilles when he dies.
 
 ## Outside Homer
 

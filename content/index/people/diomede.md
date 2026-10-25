@@ -18,7 +18,7 @@ passages:
 
 Diomede is named once in Homer, in the last lines of the embassy. When the envoys have gone, Achilles sleeps “in the inner part of the well-built hut”, and beside him lies “a woman, whom he had brought from Lesbos, / the daughter of Phorbas, fair-cheeked Diomede” (9.663–665; see [[phorbas-father-of-diomede]] and [[lesbos]]). Achilles sacked Lesbos (9.129, 9.271), and she was presumably part of his share of the spoil, as Agamemnon chose seven women of Lesbos for himself (9.128–130; see [[captive-women]]). Patroclus lies on the other side of the hut with Iphis, from Scyros (see [[iphis]]).
 
-Her name is the feminine of Diomedes' (see [[diomedes]]). καλλιπάρῃος, “fair-cheeked”, is the epithet of Briseis and Chryseis in Book 1 (1.143, 1.184; see [[fair-cheeked]]), and the narrator gives it to her on the night when Briseis is in Agamemnon's huts and Achilles has refused the gifts that would bring her back. In the last book the scene returns with Briseis in her place: “But Achilles slept in the inner part of the well-built hut, and beside him lay fair-cheeked Briseis” (24.675–676; see [[briseis]]). Diomede is not mentioned again.
+Her name is the feminine of Diomedes' (see [[diomedes]]). καλλιπάρῃος, “fair-cheeked”, is the epithet of Briseis and Chryseis in *Iliad* 1 (1.143, 1.184; see [[fair-cheeked]]), and the narrator gives it to her on the night when Briseis is in Agamemnon's huts and Achilles has refused the gifts that would bring her back. In the last book the scene returns with Briseis in her place: “But Achilles slept in the inner part of the well-built hut, and beside him lay fair-cheeked Briseis” (24.675–676; see [[briseis]]). Diomede is not mentioned again.
 
 ## Outside Homer
 

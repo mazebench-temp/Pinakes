@@ -12,7 +12,7 @@ passages:
 
 ## Making amends
 
-The verb is ἀρέσκομαι, “make amends, set right”. Agamemnon uses it when he takes back a rebuke he has given Odysseus at the review: “we will make these things good later, if anything bad has been said now” (4.357–363; see [[the-review-of-the-army]]), and Hector uses it to Paris, “we will make these things right later”, if Zeus ever lets the Trojans drive the Achaeans away (6.526). In Book 9 it names the purpose of the embassy. Nestor proposes that they consider “how we may make amends to him and win him over with kindly gifts and with soothing words” (9.112–113), and Agamemnon answers, “I am willing to make amends and give a boundless ransom” (9.120; see [[ate]] and [[apoina]]). Amends are made with gifts, with words, and with an oath, and they restore honor by paying it (see [[time]] and [[doron]]).
+The verb is ἀρέσκομαι, “make amends, set right”. Agamemnon uses it when he takes back a rebuke he has given Odysseus at the review: “we will make these things good later, if anything bad has been said now” (4.357–363; see [[the-review-of-the-army]]), and Hector uses it to Paris, “we will make these things right later”, if Zeus ever lets the Trojans drive the Achaeans away (6.526). In *Iliad* 9 it names the purpose of the embassy. Nestor proposes that they consider “how we may make amends to him and win him over with kindly gifts and with soothing words” (9.112–113), and Agamemnon answers, “I am willing to make amends and give a boundless ransom” (9.120; see [[ate]] and [[apoina]]). Amends are made with gifts, with words, and with an oath, and they restore honor by paying it (see [[time]] and [[doron]]).
 
 ## Amends refused
 
@@ -20,7 +20,7 @@ The embassy fails. Achilles answers that no gifts will persuade him until the wh
 
 ## Amends accepted
 
-In Book 19 the quarrel is ended in public. Achilles calls the assembly and renounces his wrath; Agamemnon blames Zeus, Moira, the Erinys and Ate, and offers the gifts again (19.56–144). Odysseus gives the rule for such endings: let Agamemnon make amends with a rich feast, and in future be more just, “for it is no cause for blame that a king / should make amends to a man, when he was the first to grow angry” (19.182–183). The gifts are brought out and the oath is sworn over Briseis (19.238–268). Achilles takes them with indifference (19.146–148). What moves him is Patroclus' death, not the gifts.
+In *Iliad* 19 the quarrel is ended in public. Achilles calls the assembly and renounces his wrath; Agamemnon blames Zeus, Moira, the Erinys and Ate, and offers the gifts again (19.56–144). Odysseus gives the rule for such endings: let Agamemnon make amends with a rich feast, and in future be more just, “for it is no cause for blame that a king / should make amends to a man, when he was the first to grow angry” (19.182–183). The gifts are brought out and the oath is sworn over Briseis (19.238–268). Achilles takes them with indifference (19.146–148). What moves him is Patroclus' death, not the gifts.
 
 ## Other endings
 

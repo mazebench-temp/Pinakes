@@ -26,7 +26,7 @@ Later Faustus asks for Helen as his lover, to drive out all thought of repentanc
 > And burnt the topless towers of Ilium?
 > Sweet Helen, make me immortal with a kiss.
 
-He goes on to cast himself as Paris: Wittenberg shall be sacked instead of Troy, and "I will combat with weak Menelaus, / And wear thy colours on my plumèd crest". The duel of Book 3 is replayed with the outcome reversed. In Homer Menelaus won, and Paris was dragged by the crest of his helmet until Aphrodite broke the strap and carried him off (3.369–382).
+He goes on to cast himself as Paris: Wittenberg shall be sacked instead of Troy, and "I will combat with weak Menelaus, / And wear thy colours on my plumèd crest". The duel of *Iliad* 3 is replayed with the outcome reversed. In Homer Menelaus won, and Paris was dragged by the crest of his helmet until Aphrodite broke the strap and carried him off (3.369–382).
 
 The question "Was this the face…?" had been asked before. In Lucian's *Dialogues of the Dead*, Menippus, shown Helen's skull in Hades, asks whether it was for this that the thousand ships were manned (see [[lucian-helens-skull]]). The number is a round one. The Catalogue of Ships counts 1,186 ships (see [[catalogue-of-ships]]), and Aeschylus already calls the expedition "the thousand-ship armament of the Argives" (*Agamemnon* 45). And Marlowe's Helen, a spirit in Helen's shape, is the phantom of Stesichorus' palinode in a new form (see [[stesichorus-palinode]]). Many readers have taken Faustus' embrace of her as the act that seals his damnation.
 

@@ -19,4 +19,4 @@ He has the bow of an archer and the spears of a front-line fighter at once, and 
 
 ## Elsewhere in Homer
 
-In Book 10 the leaders roused in the night throw the skins of beasts over their shoulders: Agamemnon a lion's skin (10.23–24), Menelaus a leopard's skin over his broad back, “dappled” (10.29–30), Diomedes another lion's (10.177–178), and the Trojan spy Dolon a wolf's (10.334).
+In *Iliad* 10 the leaders roused in the night throw the skins of beasts over their shoulders: Agamemnon a lion's skin (10.23–24), Menelaus a leopard's skin over his broad back, “dappled” (10.29–30), Diomedes another lion's (10.177–178), and the Trojan spy Dolon a wolf's (10.334).

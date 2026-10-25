@@ -12,11 +12,11 @@ of: [bees, flies]
 
 ## Meaning
 
-ἁδινός means “thick, close-packed, crowded,” and then of sound “loud, vehement, frequent.” Homer uses it of flocks (μῆλ’ ἁδινά, Od. 1.92), of the heart beating fast within the chest, and often of lament: the adverb ἁδινά means “without ceasing,” as in Achilles' groaning for Patroclus (Il. 23.225). Its origin is uncertain. The genitive plural ἁδινάων describes bees and flies in Book 2, and in the Odyssey the “thronging” or “loud-voiced” Sirens (Od. 23.326).
+ἁδινός means “thick, close-packed, crowded,” and then of sound “loud, vehement, frequent.” Homer uses it of flocks (μῆλ’ ἁδινά, Od. 1.92), of the heart beating fast within the chest, and often of lament: the adverb ἁδινά means “without ceasing,” as in Achilles' groaning for Patroclus (Il. 23.225). Its origin is uncertain. The genitive plural ἁδινάων describes bees and flies in *Iliad* 2, and in the Odyssey the “thronging” or “loud-voiced” Sirens (Od. 23.326).
 
 ## Use
 
-Two similes of Book 2 open with the same pair of words, ἔθνεα (“tribes”) and ἁδινάων. The army goes out to the assembly like bees:
+Two similes of *Iliad* 2 open with the same pair of words, ἔθνεα (“tribes”) and ἁδινάων. The army goes out to the assembly like bees:
 
 {{quote:ba4da8de-746b-5d9d-99e3-258d5b8b58ce}}
 

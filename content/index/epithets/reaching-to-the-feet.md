@@ -11,7 +11,7 @@ en: [reaching to his feet]
 
 ## Meaning
 
-ποδηνεκής = πούς, ποδ- (“foot”) + -ηνεκής, the element of “carrying, reaching” in διηνεκής (“stretching through, continuous”) and in δουρηνεκές, “a spear's throw” (10.357): “reaching to the feet.” Homer uses it three times. Twice it closes the verse that describes the lion skin worn on the night of Book 10, first by Agamemnon and then by Diomedes: δέρμα λέοντος / αἴθωνος μεγάλοιο ποδηνεκές, “the skin of a lion, a great tawny lion, reaching to his feet” (10.23–24, 10.177–178; [[tawny]], [[lion-skin]]). The third is a shield. Periphetes of Mycenae, turning back, tripped on the rim of the shield he carried, “which he carried himself, reaching to his feet, a barrier against javelins” and Hector killed him as he lay (15.645–651). Compare [[man-covering]] (ἀμφιβρότη), the shield that covers the whole man.
+ποδηνεκής = πούς, ποδ- (“foot”) + -ηνεκής, the element of “carrying, reaching” in διηνεκής (“stretching through, continuous”) and in δουρηνεκές, “a spear's throw” (10.357): “reaching to the feet.” Homer uses it three times. Twice it closes the verse that describes the lion skin worn on the night of *Iliad* 10, first by Agamemnon and then by Diomedes: δέρμα λέοντος / αἴθωνος μεγάλοιο ποδηνεκές, “the skin of a lion, a great tawny lion, reaching to his feet” (10.23–24, 10.177–178; [[tawny]], [[lion-skin]]). The third is a shield. Periphetes of Mycenae, turning back, tripped on the rim of the shield he carried, “which he carried himself, reaching to his feet, a barrier against javelins” and Hector killed him as he lay (15.645–651). Compare [[man-covering]] (ἀμφιβρότη), the shield that covers the whole man.
 
 ## Use
 

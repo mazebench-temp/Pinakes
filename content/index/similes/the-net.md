@@ -22,7 +22,7 @@ of: [hector, trojans]
 
 The net ends the reproach that began with the dogs (5.471–477; see [[dogs-around-a-lion]]). Hector's kinsmen cower, the allies fight, and Hector stands idle and does not even tell the rest of the people “to stand firm and defend their wives” (5.485–486). After the net, Sarpedon tells him what his duty is, night and day: to beg the leaders of the allies to hold on (5.490–492). Hector leaps from his chariot and rallies the Trojans (5.493–497). See [[sarpedon]] and [[hector]].
 
-The words come back to the man who spoke them. Wounded by Tlepolemus' spear, Sarpedon begs Hector not to leave him “as prey for the Danaans” (ἕλωρ, 5.684–685; see [[tlepolemus-and-sarpedon]]). When he is dead, in Book 17, Glaucus reproaches Hector for leaving Sarpedon, his guest and companion, “to become the prey and spoil of the Argives” (ἕλωρ καὶ κύρμα, 17.150–153).
+The words come back to the man who spoke them. Wounded by Tlepolemus' spear, Sarpedon begs Hector not to leave him “as prey for the Danaans” (ἕλωρ, 5.684–685; see [[tlepolemus-and-sarpedon]]). When he is dead, in *Iliad* 17, Glaucus reproaches Hector for leaving Sarpedon, his guest and companion, “to become the prey and spoil of the Argives” (ἕλωρ καὶ κύρμα, 17.150–153).
 
 ## Elsewhere in Homer
 

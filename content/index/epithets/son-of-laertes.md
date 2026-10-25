@@ -20,4 +20,4 @@ The vocative belongs to a whole-line address: διογενὲς Λαερτιάδ
 
 {{quote:2120afa7-03c3-5a09-b697-ecb38d557968}}
 
-Athena uses the full address when she comes to Odysseus as the army flees. The formal naming, father, divine descent, and his own quality of resource, sets the man she speaks to against the picture she paints of him: a man tumbling into his ship to run home. See also [[son-of-atreus]] and the other patronymics of Book 2.
+Athena uses the full address when she comes to Odysseus as the army flees. The formal naming, father, divine descent, and his own quality of resource, sets the man she speaks to against the picture she paints of him: a man tumbling into his ship to run home. See also [[son-of-atreus]] and the other patronymics of *Iliad* 2.

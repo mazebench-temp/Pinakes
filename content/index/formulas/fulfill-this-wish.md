@@ -11,6 +11,6 @@ en: [fulfill for me this wish]
 
 ## The pattern
 
-κρήηνον, aorist imperative of κραίνω (“accomplish, bring to pass”), + ἐέλδωρ (“wish, longing”): “accomplish my wish.” The compound ἐπικρήηνον adds ἐπί without changing the sense. In a prayer the line comes after the claim on the god (“if ever I …”) and introduces the request itself ([[prayer-type-scene]]). Agamemnon uses it in his prayer to Zeus in Book 8 (Il. 8.242).
+κρήηνον, aorist imperative of κραίνω (“accomplish, bring to pass”), + ἐέλδωρ (“wish, longing”): “accomplish my wish.” The compound ἐπικρήηνον adds ἐπί without changing the sense. In a prayer the line comes after the claim on the god (“if ever I …”) and introduces the request itself ([[prayer-type-scene]]). Agamemnon uses it in his prayer to Zeus in *Iliad* 8 (Il. 8.242).
 
 {{notes}}

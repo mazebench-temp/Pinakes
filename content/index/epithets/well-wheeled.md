@@ -11,7 +11,7 @@ of: [chariot]
 
 ## Meaning
 
-ἐΰτροχος = εὖ (“well”) + τροχός (“wheel”): “with good wheels.” A τροχός is the wheel by which a man thrown from his chariot falls (6.42, 23.394) and the potter's wheel of a simile on the shield of Achilles (18.600–601). The wheels of Hera's chariot are described piece by piece in Book 5 (5.722–726; [[chariot]]).
+ἐΰτροχος = εὖ (“well”) + τροχός (“wheel”): “with good wheels.” A τροχός is the wheel by which a man thrown from his chariot falls (6.42, 23.394) and the potter's wheel of a simile on the shield of Achilles (18.600–601). The wheels of Hera's chariot are described piece by piece in *Iliad* 5 (5.722–726; [[chariot]]).
 
 The epithet is used of a chariot twice in the Iliad: Zeus' chariot here, and the chariot that a horse could not easily draw across the Achaean ditch (12.58). Its other uses are of a wagon, ἄμαξα: the mule wagon on which Priam takes the ransom to Achilles, in Zeus' instructions, in Iris' message and in the preparations (24.150, 24.179, 24.189, 24.266), and to which Andromache and Hecuba rush, tearing their hair, when Hector's body comes back to Troy (24.710–711). In the Odyssey it is Nausicaa's wagon (Od. 6.72).
 

@@ -3,7 +3,7 @@ title: Fighting over the body
 greek: ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε
 kind: formula
 tags: [type-scene, warfare, honor]
-summary: The type-scene of the fight for a fallen man. His friends stand over the body to shield it, the enemy tries to strip it and drag it away, and the struggle costs new lives. It begins in the first battle (4.463–472), and it fills the whole of Book 17, [[the-fight-for-the-body-of-patroclus|the fight for the body of Patroclus]].
+summary: The type-scene of the fight for a fallen man. His friends stand over the body to shield it, the enemy tries to strip it and drag it away, and the struggle costs new lives. It begins in the first battle (4.463–472), and it fills the whole of *Iliad* 17, [[the-fight-for-the-body-of-patroclus|the fight for the body of Patroclus]].
 aliases: [fight over the body, fight for the corpse, bestriding the body, standing over the fallen]
 grc: ["ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖν*", "περιβῆναι", "ἀμφίβασιν", "νεκρὸν γὰρ ἐρύοντα", "νέκυν ἑτέρωσʼ ἐρύοντα", "ἐρύσαντο δὲ νεκρούς", "ἐρυσαίατο νεκρὸν", "νεκροὺς ἔρυσαν"]
 en: [bestrode, stand over, dragging the corpse, drag the body away, dragged away the dead, dragged the dead, around the body]
@@ -20,6 +20,6 @@ When a man falls, his body lies between the lines with his armor on it, and both
 
 A god can take part. Zeus has Apollo carry Sarpedon's body out of the missiles, wash and anoint it, and give it to Sleep and Death to take home to Lycia for burial (16.666–675). Apollo covers Hector's body with his aegis to keep it from harm while Achilles drags it (24.18–21).
 
-The fight grows with the poem. Over Sarpedon the Lycians and the Myrmidons fight until he is hidden under missiles, blood and dust (16.532–683); over Cebriones, Hector holds the head and Patroclus the foot like two lions over a slain deer (16.756–764). The whole of Book 17 is a fight over the body of Patroclus. Hector strips the armor and would cut off the head and give the body to the dogs of Troy (17.125–127); Menelaus, the Ajaxes and Meriones fight their way back to the ships with it (17.717–761); and Achilles, unarmed, saves it at last with his shout from the trench, so that the Achaeans can draw it out of the missiles and lay it on a bier (18.203–233).
+The fight grows with the poem. Over Sarpedon the Lycians and the Myrmidons fight until he is hidden under missiles, blood and dust (16.532–683); over Cebriones, Hector holds the head and Patroclus the foot like two lions over a slain deer (16.756–764). The whole of *Iliad* 17 is a fight over the body of Patroclus. Hector strips the armor and would cut off the head and give the body to the dogs of Troy (17.125–127); Menelaus, the Ajaxes and Meriones fight their way back to the ships with it (17.717–761); and Achilles, unarmed, saves it at last with his shout from the trench, so that the Achaeans can draw it out of the missiles and lay it on a bier (18.203–233).
 
 {{notes}}

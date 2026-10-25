@@ -10,4 +10,4 @@ en: [Aesyetes]
 
 {{quote:f11430bb-1410-56f5-ab67-fcb77b5351d7}}
 
-τύμβος, "grave mound". Aesyetes is remembered only by his tomb, which stands high enough to watch the ships from. In Book 13 Alcathous, the son-in-law of Anchises, is the son of "Aesyetes whom Zeus nurtured" (13.427–428); whether this is the same man is not said. Ancient geographers argued over where the tomb stood as part of their dispute about the site of Homer's Troy (Strabo, *Geography*, Book 13).
+τύμβος, "grave mound". Aesyetes is remembered only by his tomb, which stands high enough to watch the ships from. In *Iliad* 13 Alcathous, the son-in-law of Anchises, is the son of "Aesyetes whom Zeus nurtured" (13.427–428); whether this is the same man is not said. Ancient geographers argued over where the tomb stood as part of their dispute about the site of Homer's Troy (Strabo, *Geography*, Book 13).

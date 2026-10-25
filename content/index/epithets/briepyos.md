@@ -18,4 +18,4 @@ of: [ares]
 
 {{quote:7fb3d98e-6783-5c61-ba4a-5fdd73cd5e33}}
 
-The loud-voiced god has not heard. βριήπυος and πέπυστο, “had heard,” stand in one verse, and the loudest of the gods is the last to know that his son has fallen (13.521–522; [[ascalaphus]], [[obrimos]]). The counsels of Zeus keep him and the other gods on Olympus (13.523–525; [[boule]]). In Book 15 Hera tells him, and he beats his thighs and arms himself to avenge his son, until Athena takes away his helmet, shield and spear and sits him down again (15.110–142). See [[ares]].
+The loud-voiced god has not heard. βριήπυος and πέπυστο, “had heard,” stand in one verse, and the loudest of the gods is the last to know that his son has fallen (13.521–522; [[ascalaphus]], [[obrimos]]). The counsels of Zeus keep him and the other gods on Olympus (13.523–525; [[boule]]). In *Iliad* 15 Hera tells him, and he beats his thighs and arms himself to avenge his son, until Athena takes away his helmet, shield and spear and sits him down again (15.110–142). See [[ares]].

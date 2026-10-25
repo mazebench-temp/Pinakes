@@ -12,7 +12,7 @@ of: [zeus]
 
 ## Meaning
 
-χαλκοβατής = χαλκός (“bronze”) + βαίνω (“step, walk”): “with a floor of bronze to tread on.” δῶ is a short form of δῶμα (“house”). The gods' houses shine with metal, and in Book 1 each god's house is the work of Hephaestus ({{ref:Iliad 1.606-608}}). The same phrase describes the house of Zeus elsewhere in the Iliad, as when Artemis flees there in tears (Il. 21.505).
+χαλκοβατής = χαλκός (“bronze”) + βαίνω (“step, walk”): “with a floor of bronze to tread on.” δῶ is a short form of δῶμα (“house”). The gods' houses shine with metal, and in *Iliad* 1 each god's house is the work of Hephaestus ({{ref:Iliad 1.606-608}}). The same phrase describes the house of Zeus elsewhere in the Iliad, as when Artemis flees there in tears (Il. 21.505).
 
 ## Use
 

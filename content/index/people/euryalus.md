@@ -17,7 +17,7 @@ passages:
 
 ## Elsewhere in Homer
 
-In the first battle he kills Dresus and Opheltius, and then Aesepus and Pedasus, twin sons of a river nymph (6.20–28). His four victims are the largest share in a quick list of Achaean killings at the opening of Book 6, where each leader in turn takes his man (6.5–36). At Patroclus' games Epeius boasts that he will crush the bones of any man who faces him in the boxing, and Euryalus alone stands up. The poet recalls that his father Mecisteus had once gone to Thebes for the funeral games of Oedipus and beaten all the Cadmeians. Diomedes stands by him and girds him, but Epeius knocks him down, and his companions drag him away spitting blood (23.664–699).
+In the first battle he kills Dresus and Opheltius, and then Aesepus and Pedasus, twin sons of a river nymph (6.20–28). His four victims are the largest share in a quick list of Achaean killings at the opening of *Iliad* 6, where each leader in turn takes his man (6.5–36). At Patroclus' games Epeius boasts that he will crush the bones of any man who faces him in the boxing, and Euryalus alone stands up. The poet recalls that his father Mecisteus had once gone to Thebes for the funeral games of Oedipus and beaten all the Cadmeians. Diomedes stands by him and girds him, but Epeius knocks him down, and his companions drag him away spitting blood (23.664–699).
 
 ## Outside Homer
 

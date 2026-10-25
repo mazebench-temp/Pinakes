@@ -45,4 +45,4 @@ See [[the-death-of-the-dioscuri]]. The heralds come through the city with the of
 
 ## Outside Homer
 
-The traditional Greek title of Book 3 names three episodes: the Oaths, the View from the Wall (Τειχοσκοπία), and the Duel of Alexander and Menelaus. Euripides retold the scene in the *Phoenician Women*, where an old servant names the Argive leaders for Antigone from the palace roof at Thebes (88–201; see [[euripides-teichoskopia]]).
+The traditional Greek title of *Iliad* 3 names three episodes: the Oaths, the View from the Wall (Τειχοσκοπία), and the Duel of Alexander and Menelaus. Euripides retold the scene in the *Phoenician Women*, where an old servant names the Argive leaders for Antigone from the palace roof at Thebes (88–201; see [[euripides-teichoskopia]]).

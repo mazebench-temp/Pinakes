@@ -12,7 +12,7 @@ en: [Paeonians]
 
 {{quote:06984e1b-ed6f-5268-b011-74490c5b9573}}
 
-ἀγκυλότοξοι = ἀγκύλος ("curved, bent") + τόξον ("bow"): "with curved bows", perhaps the recurved bow. Dolon uses the same word of them (10.428). Elsewhere, though, they fight otherwise. In Book 16 the Paeonians whom Pyraechmes led are those “who fight from chariots” (ἱπποκορυσταί, 16.287), and Asteropaeus, who arrives late in the war, leads the Paeonian men “with their long spears” (21.155). Asteropaeus, grandson of the river [[Axius]], is the Paeonian the Iliad knows best. He faces Achilles with a spear in each hand, wounds him, and dies in the river (21.139–204).
+ἀγκυλότοξοι = ἀγκύλος ("curved, bent") + τόξον ("bow"): "with curved bows", perhaps the recurved bow. Dolon uses the same word of them (10.428). Elsewhere, though, they fight otherwise. In *Iliad* 16 the Paeonians whom Pyraechmes led are those “who fight from chariots” (ἱπποκορυσταί, 16.287), and Asteropaeus, who arrives late in the war, leads the Paeonian men “with their long spears” (21.155). Asteropaeus, grandson of the river [[Axius]], is the Paeonian the Iliad knows best. He faces Achilles with a spear in each hand, wounds him, and dies in the river (21.139–204).
 
 ## Outside Homer
 

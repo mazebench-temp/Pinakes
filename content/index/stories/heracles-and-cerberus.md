@@ -6,7 +6,7 @@ period: heracles
 mode: told
 narrator: athena
 tags: [digression, backstory, divine-will]
-summary: Eurystheus sent Heracles down to the house of Hades to bring back its hound from Erebus, and Athena, sent by Zeus, saved him. Athena recalls it in anger in Book 8; in the Odyssey the shade of Heracles says that Hermes and Athena guided him, and Hesiod names the hound Cerberus.
+summary: Eurystheus sent Heracles down to the house of Hades to bring back its hound from Erebus, and Athena, sent by Zeus, saved him. Athena recalls it in anger in *Iliad* 8; in the Odyssey the shade of Heracles says that Hermes and Athena guided him, and Hesiod names the hound Cerberus.
 aliases: [Heracles and Cerberus, Heracles fetches the hound of Hades, the hound of Hades, Cerberus, Kerberos, the twelfth labor]
 participants: [heracles, athena, eurystheus, hades, zeus, hermes]
 refs: [8.362-369]
@@ -24,9 +24,9 @@ The Odyssey gives the other side of the story. Among the dead Odysseus meets the
 
 ## In the poem
 
-**A complaint, not a boast.** Hera has proposed that the two goddesses go down to help the Achaeans, and Athena answers with anger against her father, who “rages with a mind that is not good” (8.358–361). The labors are her proof. She helped his son whenever Zeus sent her, and he does not remember (8.362); now he hates her and has fulfilled the plans of Thetis (8.370–372; see [[thetis-supplicates-zeus]]). The past service that gave Thetis her claim on Zeus (1.393–406) has given Athena none. Her regret is harsh: had she known, she would have left Heracles in the underworld. In Book 5 Dione told a darker story of the same hero, who shot Hera and Hades (5.392–404), and one reading of her words puts the wounding of Hades “at the gate”, on this same descent (see [[heracles-wounds-hera-and-hades]] and [[pylos-or-the-gate]]).
+**A complaint, not a boast.** Hera has proposed that the two goddesses go down to help the Achaeans, and Athena answers with anger against her father, who “rages with a mind that is not good” (8.358–361). The labors are her proof. She helped his son whenever Zeus sent her, and he does not remember (8.362); now he hates her and has fulfilled the plans of Thetis (8.370–372; see [[thetis-supplicates-zeus]]). The past service that gave Thetis her claim on Zeus (1.393–406) has given Athena none. Her regret is harsh: had she known, she would have left Heracles in the underworld. In *Iliad* 5 Dione told a darker story of the same hero, who shot Hera and Hades (5.392–404), and one reading of her words puts the wounding of Hades “at the gate”, on this same descent (see [[heracles-wounds-hera-and-hades]] and [[pylos-or-the-gate]]).
 
-**Told to Hera.** Athena tells it to the goddess who made Heracles subject to Eurystheus. In Book 19 Agamemnon tells how Hera tricked Zeus on the day Heracles was to be born, so that Eurystheus was born first and became his master, and how Zeus groaned whenever he saw his son at the shameful labors Eurystheus set him (19.95–133; see [[heracles]] and [[hera]]). The two goddesses who drive out together against Zeus in Book 8 had been on opposite sides in his son's life.
+**Told to Hera.** Athena tells it to the goddess who made Heracles subject to Eurystheus. In *Iliad* 19 Agamemnon tells how Hera tricked Zeus on the day Heracles was to be born, so that Eurystheus was born first and became his master, and how Zeus groaned whenever he saw his son at the shameful labors Eurystheus set him (19.95–133; see [[heracles]] and [[hera]]). The two goddesses who drive out together against Zeus in Book 8 had been on opposite sides in his son's life.
 
 ## Outside Homer
 

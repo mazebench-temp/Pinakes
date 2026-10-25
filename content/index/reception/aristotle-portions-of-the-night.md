@@ -21,6 +21,6 @@ Aristotle's quotation differs from Monro and Allen's text in two words, παρ�
 
 **Other ancient answers.** Leaf reports from the scholia that the Alexandrian editors, Zenodotus, Aristophanes and Aristarchus, rejected the verse that follows (10.253), presumably because they could make no sense of it, and that Porphyry gathered a long list of solutions. Aristotle, by Porphyry's account, kept the verse and explained it; Chrysippus took it to mean that more than two portions were gone and only the third was left to act in (Leaf on 10.252–253). The *Rhesus* divides the night otherwise: its chorus of Trojan sentries keeps “the fourfold watch of the night” (τετράμοιρον νυκτὸς φυλακήν, *Rhesus* 5; see [[euripides-rhesus]]).
 
-**In the poem.** The exact count matters less than the urgency. The night is “far spent, and dawn is near” (10.251), and the raid fills its last part: the two set out, take Dolon, kill Rhesus and come back to bathe and eat before Day 26 dawns at the opening of Book 11 (see [[war-and-night]]).
+**In the poem.** The exact count matters less than the urgency. The night is “far spent, and dawn is near” (10.251), and the raid fills its last part: the two set out, take Dolon, kill Rhesus and come back to bathe and eat before Day 26 dawns at the opening of *Iliad* 11 (see [[war-and-night]]).
 
 See [[aristotle]], [[odysseus]] and [[aristotle-upright-spears]].

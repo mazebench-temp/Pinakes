@@ -16,4 +16,4 @@ of: [odysseus]
 
 ## Use
 
-In Book 2 it comes once, in Athena's formal address to Odysseus ({{ref:Iliad 2.173}}; [[son-of-laertes]]). The goddess calls on his resourcefulness at the moment the army needs it. He answers at once: he throws off his cloak, runs to Agamemnon for the scepter, and goes through the camp, stopping the kings with gentle words and the commoners with blows ({{ref:Iliad 2.182-206}}).
+In *Iliad* 2 it comes once, in Athena's formal address to Odysseus ({{ref:Iliad 2.173}}; [[son-of-laertes]]). The goddess calls on his resourcefulness at the moment the army needs it. He answers at once: he throws off his cloak, runs to Agamemnon for the scepter, and goes through the camp, stopping the kings with gentle words and the commoners with blows ({{ref:Iliad 2.182-206}}).

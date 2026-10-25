@@ -18,4 +18,4 @@ of: [nestor, thersites]
 
 {{quote:24b70433-3226-52fc-81b1-78beba817c48}}
 
-Nestor is called λιγὺν Πυλίων ἀγορητήν again in Book 4 (Il. 4.293). The only other man praised in similar words is the least heroic in the army: Odysseus concedes to Thersites that he is a clear-voiced speaker, λιγύς περ ἐὼν ἀγορητής, before beating him with the scepter (Il. 2.246). A clear voice can serve good counsel or bad. Nestor's is set beside sweetness ([[sweet-of-speech]]) and good intent: he speaks ἐὺ φρονέων, “with good intent” ([[with-good-intent]], {{ref:Iliad 1.253}}).
+Nestor is called λιγὺν Πυλίων ἀγορητήν again in *Iliad* 4 (Il. 4.293). The only other man praised in similar words is the least heroic in the army: Odysseus concedes to Thersites that he is a clear-voiced speaker, λιγύς περ ἐὼν ἀγορητής, before beating him with the scepter (Il. 2.246). A clear voice can serve good counsel or bad. Nestor's is set beside sweetness ([[sweet-of-speech]]) and good intent: he speaks ἐὺ φρονέων, “with good intent” ([[with-good-intent]], {{ref:Iliad 1.253}}).

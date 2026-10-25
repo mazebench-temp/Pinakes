@@ -12,7 +12,7 @@ of: [arcadians]
 
 ## Meaning
 
-ἀγχιμαχητής = ἄγχι (“near”) + μάχομαι (“fight”) with an agent suffix: “one who fights at close range.” It contrasts with those who fight from a distance with the bow or sling, like the Locrians of Book 13 ([[with-linen-corselet]]). The word occurs seven times in the Iliad. Six of them are in one line of rallying: “Trojans and Lycians and Dardanians, close fighters” (Τρῶες καὶ Λύκιοι καὶ Δάρδανοι ἀγχιμαχηταί, as at Il. 8.173), with which Hector urges his army on.
+ἀγχιμαχητής = ἄγχι (“near”) + μάχομαι (“fight”) with an agent suffix: “one who fights at close range.” It contrasts with those who fight from a distance with the bow or sling, like the Locrians of *Iliad* 13 ([[with-linen-corselet]]). The word occurs seven times in the Iliad. Six of them are in one line of rallying: “Trojans and Lycians and Dardanians, close fighters” (Τρῶες καὶ Λύκιοι καὶ Δάρδανοι ἀγχιμαχηταί, as at Il. 8.173), with which Hector urges his army on.
 
 ## Use
 

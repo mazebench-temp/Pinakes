@@ -12,7 +12,7 @@ of: [athena, muses, helen, nymphs]
 
 ## Meaning
 
-τέκος (“child,” from τίκτω, “bear”) + Διός (“of Zeus”) + αἰγιόχοιο (“aegis-bearing”; see [[aegis-bearing]]). The phrase is a formula for Athena; Diomedes uses it in prayer to her (Il. 5.115). Athena was born of Zeus alone. Homer does not tell the story of her birth from his head, but Ares complains in Book 5 that Zeus himself begot her (Il. 5.880).
+τέκος (“child,” from τίκτω, “bear”) + Διός (“of Zeus”) + αἰγιόχοιο (“aegis-bearing”; see [[aegis-bearing]]). The phrase is a formula for Athena; Diomedes uses it in prayer to her (Il. 5.115). Athena was born of Zeus alone. Homer does not tell the story of her birth from his head, but Ares complains in *Iliad* 5 that Zeus himself begot her (Il. 5.880).
 
 ## Use
 

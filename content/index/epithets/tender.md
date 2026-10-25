@@ -17,4 +17,4 @@ en: [tender]
 
 {{quote:81d0162b-1905-5a05-957d-a9bbcc564b29}}
 
-Iris has put in Helen's heart a sweet longing for her former husband, her city and her parents, and she hurries from her chamber in tears. Achilles uses nearly the same words to tease Patroclus in Book 16, who stands by him weeping like a little girl who wants to be picked up (τέρεν κατὰ δάκρυον εἴβεις, Il. 16.11). See [[tears]], [[shedding-tears]].
+Iris has put in Helen's heart a sweet longing for her former husband, her city and her parents, and she hurries from her chamber in tears. Achilles uses nearly the same words to tease Patroclus in *Iliad* 16, who stands by him weeping like a little girl who wants to be picked up (τέρεν κατὰ δάκρυον εἴβεις, Il. 16.11). See [[tears]], [[shedding-tears]].

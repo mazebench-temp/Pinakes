@@ -22,4 +22,4 @@ The only helmet whose history the Iliad tells is the one covered with boar's tus
 
 ## Outside Homer
 
-Helmets covered with rows of plates cut from boar's tusks, like the one Meriones lends Odysseus, are known from Mycenaean graves and pictures of the Late Bronze Age. They had long gone out of use when the poems took their final form, and the helmet of Book 10 is often counted among the memories of the Bronze Age that Homer preserves.
+Helmets covered with rows of plates cut from boar's tusks, like the one Meriones lends Odysseus, are known from Mycenaean graves and pictures of the Late Bronze Age. They had long gone out of use when the poems took their final form, and the helmet of *Iliad* 10 is often counted among the memories of the Bronze Age that Homer preserves.

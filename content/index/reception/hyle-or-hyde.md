@@ -19,6 +19,6 @@ Strabo discusses the line in his account of Boeotia (*Geography* 9.2.20). Some, 
 
 He also identifies the lake. The river [[Cephisus]] flows into Lake Copais, and some took Homer's Cephisian lake for Copais. Strabo says that Homer means instead the lake called Hylice, after the nearby village of Hylae. Copais is large and lies outside the territory of Thebes; the lake by Hyle is small, filled from Copais through underground channels, and lies between Thebes and Anthedon. The lake still bears the name, as Yliki (see [[cephisian-lake]]).
 
-Strabo notes one more thing about the name. Homer lengthens its first syllable in the Catalogue, “and Hyle” (ἠδʼ Ὕλην), as a poetic license, and keeps it short in Book 5 and in the line on Tychius.
+Strabo notes one more thing about the name. Homer lengthens its first syllable in the Catalogue, “and Hyle” (ἠδʼ Ὕλην), as a poetic license, and keeps it short in *Iliad* 5 and in the line on Tychius.
 
 Monro and Allen print Ὕλῃ in both places, and the translation follows them. See [[boeotians]] and [[strabo]].

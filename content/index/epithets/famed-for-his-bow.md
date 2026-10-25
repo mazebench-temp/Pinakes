@@ -12,7 +12,7 @@ of: [apollo]
 
 ## Meaning
 
-κλυτότοξος = κλυτός (“famous,” from the root of κλέος; [[kleos]]) + τόξον (“bow”; [[bow]]): “famed for his bow.” It is formed like κλυτοτέχνης, the title of Hephaestus ([[famed-for-his-craft]]), and it names Apollo by his weapon, as ἀργυρότοξος does ([[god-of-the-silver-bow]]). Homer gives it to Apollo alone: in Pandarus' prayer (4.101, 4.119), when Zeus sends for Iris and Apollo in Book 15 (Il. 15.55), and twice in the Odyssey, when Penelope wishes that Apollo famed for his bow would strike down Antinous (Od. 17.494), and when the suitors plan to sacrifice to him before they try the bow of Odysseus (Od. 21.265–268).
+κλυτότοξος = κλυτός (“famous,” from the root of κλέος; [[kleos]]) + τόξον (“bow”; [[bow]]): “famed for his bow.” It is formed like κλυτοτέχνης, the title of Hephaestus ([[famed-for-his-craft]]), and it names Apollo by his weapon, as ἀργυρότοξος does ([[god-of-the-silver-bow]]). Homer gives it to Apollo alone: in Pandarus' prayer (4.101, 4.119), when Zeus sends for Iris and Apollo in *Iliad* 15 (Il. 15.55), and twice in the Odyssey, when Penelope wishes that Apollo famed for his bow would strike down Antinous (Od. 17.494), and when the suitors plan to sacrifice to him before they try the bow of Odysseus (Od. 21.265–268).
 
 ## Use
 

@@ -11,7 +11,7 @@ of: [heralds, talthybius, eurybates, dream, ossa, iris]
 
 ## Meaning
 
-ἄγγελος (“messenger,” the source of English “angel”) + Διός (“of Zeus”) + ἠδὲ καὶ ἀνδρῶν (“and of men too”). Heralds (κήρυκες) were under the protection of Zeus. Their persons were inviolable, and their office carried his authority. The same phrase describes heralds in Book 7 (Il. 7.274).
+ἄγγελος (“messenger,” the source of English “angel”) + Διός (“of Zeus”) + ἠδὲ καὶ ἀνδρῶν (“and of men too”). Heralds (κήρυκες) were under the protection of Zeus. Their persons were inviolable, and their office carried his authority. The same phrase describes heralds in *Iliad* 7 (Il. 7.274).
 
 ## Use
 

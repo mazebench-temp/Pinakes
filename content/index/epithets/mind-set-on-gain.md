@@ -12,7 +12,7 @@ of: [agamemnon]
 
 ## Meaning
 
-κερδαλεόφρων = κερδαλέος (“gainful, crafty,” from κέρδος, “gain, profit, advantage”) + φρήν (“mind”). κέρδος in Homer means both material profit and the cleverness that secures an advantage, so κερδαλεόφρων can mean “greedy” or “crafty.” In Book 4 Agamemnon uses the same word of Odysseus, together with “skilled in evil tricks” (Il. 4.339); there the sense is “cunning.”
+κερδαλεόφρων = κερδαλέος (“gainful, crafty,” from κέρδος, “gain, profit, advantage”) + φρήν (“mind”). κέρδος in Homer means both material profit and the cleverness that secures an advantage, so κερδαλεόφρων can mean “greedy” or “crafty.” In *Iliad* 4 Agamemnon uses the same word of Odysseus, together with “skilled in evil tricks” (Il. 4.339); there the sense is “cunning.”
 
 ## Use
 

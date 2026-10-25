@@ -22,4 +22,4 @@ The two sons of Antimachus had lost the reins and begged from their chariot to b
 
 ## Elsewhere in Homer
 
-A head is sent through the throng in the same way in Book 13. The Locrian Ajax cuts off Imbrius' head in anger for the death of Amphimachus and sends it spinning like a ball through the throng, until it falls in the dust at Hector's feet (σφαιρηδὸν … διʼ ὁμίλου, 13.202–205). Agamemnon beheads Coon a hundred lines after Hippolochus (11.261).
+A head is sent through the throng in the same way in *Iliad* 13. The Locrian Ajax cuts off Imbrius' head in anger for the death of Amphimachus and sends it spinning like a ball through the throng, until it falls in the dust at Hector's feet (σφαιρηδὸν … διʼ ὁμίλου, 13.202–205). Agamemnon beheads Coon a hundred lines after Hippolochus (11.261).

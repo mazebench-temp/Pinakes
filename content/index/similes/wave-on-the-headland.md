@@ -26,4 +26,4 @@ The simile closes the series of sea similes that framed the assembly. First the 
 
 ## Elsewhere in Homer
 
-In Book 15 the Danaans hold against Hector like a great sheer rock by the gray sea, which withstands the swift paths of the shrill winds and the swelling waves that break against it (Iliad 15.618–622). There the rock is the army; here the army is the wave.
+In *Iliad* 15 the Danaans hold against Hector like a great sheer rock by the gray sea, which withstands the swift paths of the shrill winds and the swelling waves that break against it (Iliad 15.618–622). There the rock is the army; here the army is the wave.

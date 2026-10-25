@@ -20,7 +20,7 @@ passages:
 
 ## The cicadas
 
-They are "done with war now because of their age, but excellent speakers" (ἀγορηταὶ ἐσθλοί), like cicadas that sit on a tree in the woods and send out their "lily-soft voice" (3.150–152; see [[like-cicadas]]). The simile compares their voices, though the point of "lily-like" (λειριόεσσα) is disputed. The old men who can no longer fight can still talk, and in Book 2 Iris mocked Priam for his love of endless words (2.796).
+They are "done with war now because of their age, but excellent speakers" (ἀγορηταὶ ἐσθλοί), like cicadas that sit on a tree in the woods and send out their "lily-soft voice" (3.150–152; see [[like-cicadas]]). The simile compares their voices, though the point of "lily-like" (λειριόεσσα) is disputed. The old men who can no longer fight can still talk, and in *Iliad* 2 Iris mocked Priam for his love of endless words (2.796).
 
 ## Helen
 

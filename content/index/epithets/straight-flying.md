@@ -12,7 +12,7 @@ of: [the-pelian-ash]
 
 ## Meaning
 
-ἰθύς (“straight”) + the root of πέτομαι (“fly”): “flying straight.” Walter Leaf explains it by Aeneas' words of Achilles in Book 20, “his weapon flies straight” (ἰθὺ βέλος πέτεται, 20.99), though he finds no complete analogy for the suffix. Zenodotus read ἰθυκτίωνα, said to mean “straight-grained” and derived from κτηδών, the fibre of wood, a derivation Leaf calls impossible (*Commentary on the Iliad*, 1900, on 21.169; see the translation's note on 21.169).
+ἰθύς (“straight”) + the root of πέτομαι (“fly”): “flying straight.” Walter Leaf explains it by Aeneas' words of Achilles in *Iliad* 20, “his weapon flies straight” (ἰθὺ βέλος πέτεται, 20.99), though he finds no complete analogy for the suffix. Zenodotus read ἰθυκτίωνα, said to mean “straight-grained” and derived from κτηδών, the fibre of wood, a derivation Leaf calls impossible (*Commentary on the Iliad*, 1900, on 21.169; see the translation's note on 21.169).
 
 ## Use
 

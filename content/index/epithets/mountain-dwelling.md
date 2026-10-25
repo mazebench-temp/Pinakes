@@ -18,4 +18,4 @@ of: [centaurs, nymphs]
 
 {{quote:671ad107-a990-5581-ab36-087c845927a7}}
 
-In Book 1 they are never called Centaurs; Nestor names them only as mountain beasts. The epithet sets them outside the settled world of cities and assemblies. That is what makes the Lapiths' victory over them a model of strength, and Nestor's part in it a claim to be heard ([[catalogue-of-lapiths]], [[nestor-and-the-centaurs]]).
+In *Iliad* 1 they are never called Centaurs; Nestor names them only as mountain beasts. The epithet sets them outside the settled world of cities and assemblies. That is what makes the Lapiths' victory over them a model of strength, and Nestor's part in it a claim to be heard ([[catalogue-of-lapiths]], [[nestor-and-the-centaurs]]).

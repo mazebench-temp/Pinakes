@@ -16,7 +16,7 @@ of: [zeus, muses, iris]
 
 ## Use
 
-Six times in Book 1. With other titles: Ὀλύμπιος … Ζεὺς ὑψιβρεμέτης (Achilles, {{ref:Iliad 1.353-354}}; see [[thunders-on-high]]), Ὀλύμπιε μητίετα Ζεῦ (Thetis, {{ref:Iliad 1.508}}; see [[counselor]]), and Ὀλύμπιος ἀστεροπητής ([[lord-of-the-lightning]], 580, 609).
+Six times in *Iliad* 1. With other titles: Ὀλύμπιος … Ζεὺς ὑψιβρεμέτης (Achilles, {{ref:Iliad 1.353-354}}; see [[thunders-on-high]]), Ὀλύμπιε μητίετα Ζεῦ (Thetis, {{ref:Iliad 1.508}}; see [[counselor]]), and Ὀλύμπιος ἀστεροπητής ([[lord-of-the-lightning]], 580, 609).
 
 Alone, as a name for Zeus, it comes in Hephaestus' speech to his mother:
 

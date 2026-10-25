@@ -29,7 +29,7 @@ The sling is not used as a weapon here. A θεράπων, an attendant, carries 
 
 {{quote:58fd12c7-b858-579e-a165-062a7ef588b6}}
 
-They are without the arms of the close fight, the bronze helmet, the round shield and the ash spear, and they fight from behind the men who have them, shooting “thick and fast”, so that the Trojans remember nothing of the joy of battle (see [[locrians]], [[ajax-son-of-oileus]] and [[bow]]). So Teucer shot from under the shield of Ajax in Book 8 (8.266–272; see [[the-shield-of-ajax]]). The Catalogue gives their leader a linen corselet (λινοθώρηξ, 2.529), armor as light as theirs. Nowhere else in the poems is a sling used; elsewhere stones are thrown by hand (see [[stone-throwing]]).
+They are without the arms of the close fight, the bronze helmet, the round shield and the ash spear, and they fight from behind the men who have them, shooting “thick and fast”, so that the Trojans remember nothing of the joy of battle (see [[locrians]], [[ajax-son-of-oileus]] and [[bow]]). So Teucer shot from under the shield of Ajax in *Iliad* 8 (8.266–272; see [[the-shield-of-ajax]]). The Catalogue gives their leader a linen corselet (λινοθώρηξ, 2.529), armor as light as theirs. Nowhere else in the poems is a sling used; elsewhere stones are thrown by hand (see [[stone-throwing]]).
 
 ## Outside Homer
 

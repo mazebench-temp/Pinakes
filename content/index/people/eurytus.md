@@ -10,7 +10,7 @@ except: [2.621]
 
 {{quote:6a1b3048-96a6-51f6-be66-100c76396d62}}
 
-Homer names him twice in Book 2, both times as "Eurytus of Oechalia" (Εὐρύτου Οἰχαλιῆος). Thamyris was coming from his house when the Muses met him (2.596). The Thessalian contingent of Podalirius and Machaon includes "Oechalia, the city of Eurytus" (2.730). On where Oechalia lay, see [[Oechalia]].
+Homer names him twice in *Iliad* 2, both times as "Eurytus of Oechalia" (Εὐρύτου Οἰχαλιῆος). Thamyris was coming from his house when the Muses met him (2.596). The Thessalian contingent of Podalirius and Machaon includes "Oechalia, the city of Eurytus" (2.730). On where Oechalia lay, see [[Oechalia]].
 
 {{quote:fe00f2c5-6924-53ce-a99d-29fae1d8cfe5}}
 

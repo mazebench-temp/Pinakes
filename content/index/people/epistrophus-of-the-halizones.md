@@ -11,4 +11,4 @@ except: [2.517, 2.692]
 
 {{quote:f93097d4-bb36-5b6f-98e2-89865772859b}}
 
-He is named only here. Book 2 has three men called Epistrophus: a Phocian leader, son of Iphitus ([[epistrophus]], 2.517); a son of Euenus, killed by Achilles at Lyrnessus ([[epistrophus-of-lyrnessus]], 2.692); and this ally of Troy. The name comes from ἐπιστρέφω, "turn around".
+He is named only here. *Iliad* 2 has three men called Epistrophus: a Phocian leader, son of Iphitus ([[epistrophus]], 2.517); a son of Euenus, killed by Achilles at Lyrnessus ([[epistrophus-of-lyrnessus]], 2.692); and this ally of Troy. The name comes from ἐπιστρέφω, "turn around".

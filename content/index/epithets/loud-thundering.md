@@ -16,11 +16,11 @@ of: [zeus]
 
 ## Use
 
-Book 5 uses it once, of Sarpedon's father. Tlepolemus has fallen, Sarpedon has been carried off with a spear in his thigh, and Odysseus sees the Achaeans carry Tlepolemus from the field:
+*Iliad* 5 uses it once, of Sarpedon's father. Tlepolemus has fallen, Sarpedon has been carried off with a spear in his thigh, and Odysseus sees the Achaeans carry Tlepolemus from the field:
 
 {{quote:e0d50c03-6eb5-55b5-a967-3e0466433a03}}
 
-It was not fated that Odysseus should kill “the mighty son of Zeus,” and Athena turns his heart against the other Lycians ([[pondering-two-ways]], [[son-of-zeus]], [[sarpedon]]). The father's epithet reminds the listener who stands behind the wounded man: a few lines before, “his father still kept ruin away” from him (5.662). Sarpedon's death is kept for Book 16, where Zeus sheds drops of blood upon the earth in honor of his son (Il. 16.459–461).
+It was not fated that Odysseus should kill “the mighty son of Zeus,” and Athena turns his heart against the other Lycians ([[pondering-two-ways]], [[son-of-zeus]], [[sarpedon]]). The father's epithet reminds the listener who stands behind the wounded man: a few lines before, “his father still kept ruin away” from him (5.662). Sarpedon's death is kept for *Iliad* 16, where Zeus sheds drops of blood upon the earth in honor of his son (Il. 16.459–461).
 
 ## Outside Homer
 

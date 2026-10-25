@@ -3,7 +3,7 @@ title: Juno's bribe to Aeolus
 greek: Χαρίτων μίαν ὁπλοτεράων
 kind: anecdote
 tags: [art]
-summary: In the first book of the Aeneid Juno goes to Aeolus, king of the winds, and asks him to raise a storm against the Trojan fleet, promising him Deiopea, the fairest of her nymphs, for his wife. The bargain is Hera's with Sleep in Book 14, who is promised one of the younger Graces, and the storm recalls the one that Hera raised against Heracles the last time Sleep helped her.
+summary: In the first book of the Aeneid Juno goes to Aeolus, king of the winds, and asks him to raise a storm against the Trojan fleet, promising him Deiopea, the fairest of her nymphs, for his wife. The bargain is Hera's with Sleep in *Iliad* 14, who is promised one of the younger Graces, and the storm recalls the one that Hera raised against Heracles the last time Sleep helped her.
 source: Virgil, Aeneid 1.50–86
 of: [sleep, hera, pasithea, hera-drives-heracles-to-cos, virgil]
 passages:
@@ -18,6 +18,6 @@ passages:
 
 **What Virgil took.** The two bargains are alike in kind: the queen of the gods buys a lesser god's help with a bride, one of a company of goddesses, named for her beauty or for the lesser god's longing. Homer's Hera promises one of the Graces “to marry and to be called your wife” (δώσω ὀπυιέμεναι καὶ σὴν κεκλῆσθαι ἄκοιτιν, 14.268); Juno promises Deiopea in lasting marriage (1.73). Virgil has joined in one scene what Homer told in two. The storm against a hero at sea belongs in the Iliad to the earlier deception, which Sleep remembers with fear; the bride belongs to the present one. Virgil's Juno buys the storm with the bride, and her victim is again a hero at sea whom the king of the gods means to bring safe to land; Zeus brought Heracles back from Cos to Argos (15.28–30). Even the feast comes back: Hera's throne and footstool are for Sleep to use at the banquet (14.241), and Aeolus thanks Juno for his couch at the banquets of the gods (1.79).
 
-The gods differ. Sleep has once barely escaped the anger of Zeus, and he bargains for an oath by the Styx before he moves (14.270–279); Aeolus asks no oath and obeys at once. And Homer's deception succeeds, while Virgil's storm is undone: Neptune feels the sea in turmoil, sees through “the tricks and the anger of Juno” and calms the waves (*Aeneid* 1.124–143; see [[virgil-neptunes-chariot]]). In Book 14 Poseidon is the god who profits from Hera's deceit (14.354–362; see [[poseidon]]).
+The gods differ. Sleep has once barely escaped the anger of Zeus, and he bargains for an oath by the Styx before he moves (14.270–279); Aeolus asks no oath and obeys at once. And Homer's deception succeeds, while Virgil's storm is undone: Neptune feels the sea in turmoil, sees through “the tricks and the anger of Juno” and calms the waves (*Aeneid* 1.124–143; see [[virgil-neptunes-chariot]]). In *Iliad* 14 Poseidon is the god who profits from Hera's deceit (14.354–362; see [[poseidon]]).
 
 See [[virgil]] and [[the-deception-of-zeus]].

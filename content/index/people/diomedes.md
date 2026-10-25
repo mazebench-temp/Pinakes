@@ -29,7 +29,7 @@ relations:
 
 ## Mythology
 
-Before Troy he and Sthenelus took seven-gated Thebes, where their fathers had failed (4.404–410). At Troy he is the youngest of the kings: Nestor says he could be his youngest son (9.57–58). With Athena at his side he has the first great run of fighting in the poem, and he wounds both Aphrodite and Ares (5.330–351, 5.855–863). He exchanges armor with the Lycian Glaucus instead of fighting him (6.119–236), goes on the night raid with Odysseus (Book 10; see [[the-doloneia]] and [[odysseus-and-diomedes]]), and is wounded in the foot by an arrow of Paris (11.369–400). In the Odyssey Nestor reports that he reached Argos safely on the fourth day after leaving Troy (3.180–182).
+Before Troy he and Sthenelus took seven-gated Thebes, where their fathers had failed (4.404–410). At Troy he is the youngest of the kings: Nestor says he could be his youngest son (9.57–58). With Athena at his side he has the first great run of fighting in the poem, and he wounds both Aphrodite and Ares (5.330–351, 5.855–863). He exchanges armor with the Lycian Glaucus instead of fighting him (6.119–236), goes on the night raid with Odysseus (*Iliad* 10; see [[the-doloneia]] and [[odysseus-and-diomedes]]), and is wounded in the foot by an arrow of Paris (11.369–400). In the Odyssey Nestor reports that he reached Argos safely on the fourth day after leaving Troy (3.180–182).
 
 ## Outside Homer
 

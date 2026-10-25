@@ -3,7 +3,7 @@ title: The Seven in Aeschylus
 greek: Ἑπτὰ ἐπὶ Θήβας
 kind: anecdote
 tags: [art]
-summary: In Aeschylus' Seven against Thebes, Tydeus rages at the gate and mocks the seer who will not let him cross the river, and Capaneus boasts that he will sack the city whether the god wills it or not. They are the fathers who, Sthenelus says in Book 4, perished through their own recklessness.
+summary: In Aeschylus' Seven against Thebes, Tydeus rages at the gate and mocks the seer who will not let him cross the river, and Capaneus boasts that he will sack the city whether the god wills it or not. They are the fathers who, Sthenelus says in *Iliad* 4, perished through their own recklessness.
 source: Aeschylus, Seven against Thebes 375–436, 568–596
 of: [tydeus, capaneus, polynices, the-seven-against-thebes, aeschylus]
 passages:

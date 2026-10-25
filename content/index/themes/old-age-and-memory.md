@@ -10,7 +10,7 @@ passages:
   - 1.586-594 | Hephaestus' fall
 ---
 
-Old age in Book 1 is both weakness and authority. The same word, γέρων, “old man”, is used with contempt and with respect, and the old are the keepers of the past.
+Old age in *Iliad* 1 is both weakness and authority. The same word, γέρων, “old man”, is used with contempt and with respect, and the old are the keepers of the past.
 
 ## The old priest
 
@@ -26,7 +26,7 @@ Nestor's age is his claim to be heard. His voice flows sweeter than honey (see [
 
 {{quote:8ce9109f-39dc-56b9-9e3e-5c482e6e4548}}
 
-His argument is memory. He once kept company with better men than these, Peirithous, Dryas, Caeneus and the rest, the mightiest men on earth, who fought the Centaurs; and they heeded his counsels (see [[nestor-and-the-centaurs]]). The past is used as a model, a paradeigma, to shame the present into obedience. It fails. Agamemnon answers “Yes, old man (γέρον), all that you have said is fair and right”, and goes on as before (1.286). Nestor's later stories of his youth work better. In Book 7 his rebuke brings nine heroes to their feet to answer Hector's challenge, and in Book 11 his long tale moves Patroclus to act. Phoenix's story of Meleager, told to Achilles in Book 9, fails as this one does.
+His argument is memory. He once kept company with better men than these, Peirithous, Dryas, Caeneus and the rest, the mightiest men on earth, who fought the Centaurs; and they heeded his counsels (see [[nestor-and-the-centaurs]]). The past is used as a model, a paradeigma, to shame the present into obedience. It fails. Agamemnon answers “Yes, old man (γέρον), all that you have said is fair and right”, and goes on as before (1.286). Nestor's later stories of his youth work better. In *Iliad* 7 his rebuke brings nine heroes to their feet to answer Hector's challenge, and in Book 11 his long tale moves Patroclus to act. Phoenix's story of Meleager, told to Achilles in Book 9, fails as this one does.
 
 ## Memory among the gods
 

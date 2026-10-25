@@ -12,13 +12,13 @@ passages:
   - 5.297-310 | Diomedes' stone
 ---
 
-Once in Book 5 the narrator speaks from his own time. Diomedes has killed Pandarus, and Aeneas stands over the body like a lion:
+Once in *Iliad* 5 the narrator speaks from his own time. Diomedes has killed Pandarus, and Aeneas stands over the body like a lion:
 
 {{quote:b5c86ba6-9bcf-503e-ab9c-b9e88ab96f20}}
 
 The stone crushes Aeneas' hip joint and brings him to his knees, and only Aphrodite saves him (5.305–318). οἷοι νῦν βροτοί εἰσι, “such as mortals are now”, sets the heroes against the poet's audience. The men who fought at Troy were bigger and stronger than those who now hear of them.
 
-The same half-line comes back whenever a hero lifts a stone. Ajax throws one from the Achaean wall that a man could not easily hold in both hands, “not even one in his prime, such as mortals are now” (12.380–383). Hector breaks the gate of the wall with a stone that two of the best men of the people could not easily lever onto a wagon, “such as mortals are now”; he carries it easily alone, for Zeus has made it light (12.445–450). And Aeneas, facing Achilles, takes up a stone “which two men could not carry, such as mortals are now” (20.285–287), in the same words that describe Diomedes' stone here. In Book 5 Aeneas is struck by the stone that two men could not carry; in Book 20 he lifts it. The last line of the verse is the same in all three books, ὃ δέ μιν ῥέα πάλλε καὶ οἶος, “but he wielded it easily even alone” (5.304 = 12.449 = 20.287).
+The same half-line comes back whenever a hero lifts a stone. Ajax throws one from the Achaean wall that a man could not easily hold in both hands, “not even one in his prime, such as mortals are now” (12.380–383). Hector breaks the gate of the wall with a stone that two of the best men of the people could not easily lever onto a wagon, “such as mortals are now”; he carries it easily alone, for Zeus has made it light (12.445–450). And Aeneas, facing Achilles, takes up a stone “which two men could not carry, such as mortals are now” (20.285–287), in the same words that describe Diomedes' stone here. In *Iliad* 5 Aeneas is struck by the stone that two men could not carry; in Book 20 he lifts it. The last line of the verse is the same in all three books, ὃ δέ μιν ῥέα πάλλε καὶ οἶος, “but he wielded it easily even alone” (5.304 = 12.449 = 20.287).
 
 ## Men of former times
 

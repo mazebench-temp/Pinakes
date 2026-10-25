@@ -21,4 +21,4 @@ The formula of destruction closes two obituaries in the same words. Of the Caria
 
 Neither gold nor hospitality kept off the end ([[axylus]], [[xenia]], [[the-war-in-small]]).
 
-The second use in Book 6 is the most discussed in the poem. Proetus sent Bellerophon to Lycia with “grim signs,” scratched on a folded tablet, “many things to destroy a man's life,” and the king of Lycia “received the evil sign” (σήματα λυγρά, 6.168–169; σῆμα κακόν, 6.178). Whether the signs were letters or some other marks is disputed ([[writing]], [[bellerophon]]). The epithet says what they meant, not what they were.
+The second use in *Iliad* 6 is the most discussed in the poem. Proetus sent Bellerophon to Lycia with “grim signs,” scratched on a folded tablet, “many things to destroy a man's life,” and the king of Lycia “received the evil sign” (σήματα λυγρά, 6.168–169; σῆμα κακόν, 6.178). Whether the signs were letters or some other marks is disputed ([[writing]], [[bellerophon]]). The epithet says what they meant, not what they were.

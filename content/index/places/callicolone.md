@@ -3,7 +3,7 @@ title: Callicolone
 greek: Καλλικολώνη
 kind: place
 tags: [troad]
-summary: “Beauty Hill”, a height by the Simoeis on the Trojan plain, named only in Book 20. Ares runs on it shouting to the Trojans, and the gods of the Trojan side sit on its brows to watch the war, apart from the Achaeans' gods on the wall of Heracles.
+summary: “Beauty Hill”, a height by the Simoeis on the Trojan plain, named only in *Iliad* 20. Ares runs on it shouting to the Trojans, and the gods of the Trojan side sit on its brows to watch the war, apart from the Achaeans' gods on the wall of Heracles.
 aliases: [Kallikolone, Beauty Hill]
 # Named only at 20.53 and 20.151.
 grc: [Καλλικολώνῃ, Καλλικολώνης]

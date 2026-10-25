@@ -32,13 +32,13 @@ Homer names no mother, wife or child for him, and does not make Telamon a son of
 
 {{quote:7a36300d-342c-59c6-9f8f-a6b668b1f744}}
 
-Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–280; Od. 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, Od. 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of Book 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
+Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–280; Od. 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, Od. 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of *Iliad* 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-**The line and the embassy.** His ships are drawn up at one end of the camp and Achilles' at the other (8.222–226 = 11.5–9). He is one of the three envoys to Achilles in Book 9, and his short, blunt speech wins the only concession Achilles makes (9.624–655; see [[the-embassy-to-achilles]]).
+**The line and the embassy.** His ships are drawn up at one end of the camp and Achilles' at the other (8.222–226 = 11.5–9). He is one of the three envoys to Achilles in *Iliad* 9, and his short, blunt speech wins the only concession Achilles makes (9.624–655; see [[the-embassy-to-achilles]]).
 
 **The wall and the ships.** He rescues Odysseus, cut off among the Trojans (11.465–491), and when Zeus puts fear in him he gives ground step by step, like a lion driven from the cattle or a donkey that boys can hardly beat out of the grain, with spears standing in his shield (11.544–574). He holds the wall with the other Ajax and with Teucer, and drives Sarpedon back from the battlement (12.265–270, 12.370–407). He fells Hector with a stone (14.409–420). At the ships he strides from deck to deck with a spear for fighting at sea, twenty-two cubits long, tells the army that no wall and no city stands behind them, “so in our hands lies the light”, and stabs twelve men who come with fire (15.674–688, 15.733–746). He gives way only when Hector lops the head from his spear and he sees the work of Zeus, and the first ship burns (16.114–123).
 

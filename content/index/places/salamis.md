@@ -11,7 +11,7 @@ passages:
 
 {{quote:98e07671-c4cf-5d1c-9d99-96c78ec704d5}}
 
-Salamis is the home of Telamonian [[Ajax]], son of [[Telamon]]; in Book 7 he says that he was born and raised there (7.198–199). Its entry is the shortest in the Catalogue: no towns, no father's name, no epithet, and only twelve ships for one of the two greatest Achaean fighters.
+Salamis is the home of Telamonian [[Ajax]], son of [[Telamon]]; in *Iliad* 7 he says that he was born and raised there (7.198–199). Its entry is the shortest in the Catalogue: no towns, no father's name, no epithet, and only twelve ships for one of the two greatest Achaean fighters.
 
 The second line says that Ajax stationed his ships "where the battalions of the [[Athenians]] stood". The rest of the poem does not bear this out. Ajax's ships are drawn up at one end of the camp and Achilles' at the other (8.222–226, 11.5–9), and when Agamemnon reviews the army the Athenians stand beside Odysseus (4.327–329).
 

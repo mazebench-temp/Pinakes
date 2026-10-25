@@ -19,6 +19,6 @@ Horses and chariots were the richest spoils of the field. When a man was killed 
 
 To stoop over a body to strip it was dangerous, and the stripping of the dead and the fight over the body go together (see [[fighting-over-the-body]]). Nestor tells the Achaeans not to hang back for the spoils but to kill men first; they can strip the corpses on the plain at leisure afterward (6.66–71).
 
-The custom had its restraints. Before his duel in Book 7, Hector proposes that the victor keep the armor and give back the body for burial (7.76–86), and before their last fight he asks Achilles for the same agreement, which Achilles refuses (22.254–267). Achilles himself, when he sacked Thebe, killed Eetion “but did not strip him, for he felt awe in his heart”, and burned him in his armor and heaped a mound over him (6.416–420; see [[sack-of-thebe]]).
+The custom had its restraints. Before his duel in *Iliad* 7, Hector proposes that the victor keep the armor and give back the body for burial (7.76–86), and before their last fight he asks Achilles for the same agreement, which Achilles refuses (22.254–267). Achilles himself, when he sacked Thebe, killed Eetion “but did not strip him, for he felt awe in his heart”, and burned him in his armor and heaped a mound over him (6.416–420; see [[sack-of-thebe]]).
 
 {{notes}}

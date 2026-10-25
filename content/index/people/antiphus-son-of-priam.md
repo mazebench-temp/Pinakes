@@ -3,7 +3,7 @@ title: Antiphus, son of Priam
 greek: Ἄντιφος
 kind: person
 tags: [trojan, house-of-priam, warrior]
-summary: A son of [[Priam]], “of the flashing corselet”, whose spear, thrown at Ajax, kills Odysseus' companion Leucus. In Book 11 Agamemnon kills him and his half-brother Isus in one chariot. Not the Achaean [[antiphus|Antiphus]] of Cos, nor [[antiphus-of-maeonia|Antiphus the Maeonian]].
+summary: A son of [[Priam]], “of the flashing corselet”, whose spear, thrown at Ajax, kills Odysseus' companion Leucus. In *Iliad* 11 Agamemnon kills him and his half-brother Isus in one chariot. Not the Achaean [[antiphus|Antiphus]] of Cos, nor [[antiphus-of-maeonia|Antiphus the Maeonian]].
 aliases: [Antiphus, Antiphos]
 grc: [Ἄντιφος]
 en: [Antiphus]
@@ -24,9 +24,9 @@ passages:
 
 ## Elsewhere in Homer
 
-Agamemnon kills him in Book 11. He and Isus, “two sons of Priam, one a bastard and one born in wedlock” (νόθον καὶ γνήσιον), ride in one chariot: Isus drives, and “renowned” Antiphus stands beside him. Achilles had once caught the two of them herding sheep on the slopes of Ida, bound them with willow shoots and let them go for ransom. Agamemnon knows them, for he had seen them at the ships when Achilles brought them in. He spears Isus in the chest, strikes Antiphus beside the ear with his sword and throws him from the chariot, and strips them both, like a lion crushing the young of a deer in their lair (11.101–121; see [[ida]]).
+Agamemnon kills him in *Iliad* 11. He and Isus, “two sons of Priam, one a bastard and one born in wedlock” (νόθον καὶ γνήσιον), ride in one chariot: Isus drives, and “renowned” Antiphus stands beside him. Achilles had once caught the two of them herding sheep on the slopes of Ida, bound them with willow shoots and let them go for ransom. Agamemnon knows them, for he had seen them at the ships when Achilles brought them in. He spears Isus in the chest, strikes Antiphus beside the ear with his sword and throws him from the chariot, and strips them both, like a lion crushing the young of a deer in their lair (11.101–121; see [[ida]]).
 
-Priam's list of his surviving sons in Book 24 includes an Antiphonus (24.250), a different name (see [[antiphonus]]).
+Priam's list of his surviving sons in *Iliad* 24 includes an Antiphonus (24.250), a different name (see [[antiphonus]]).
 
 ## Outside Homer
 

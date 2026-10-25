@@ -15,7 +15,7 @@ en: [beautiful]
 
 ## Use
 
-Book 3 uses it four times. Antenor mounts Priam's “beautiful chariot” to drive out to the oath and back again, in a verse said twice (3.262, 3.312). Aphrodite leads Helen to “the beautiful house of Alexander” (3.421). And Helen recognizes the goddess, disguised as an old wool-comber, by her body:
+*Iliad* 3 uses it four times. Antenor mounts Priam's “beautiful chariot” to drive out to the oath and back again, in a verse said twice (3.262, 3.312). Aphrodite leads Helen to “the beautiful house of Alexander” (3.421). And Helen recognizes the goddess, disguised as an old wool-comber, by her body:
 
 {{quote:df8d2ca8-fead-5edf-bcf7-78e1a032b790}}
 

@@ -10,6 +10,6 @@ en: [by word or deed, with words and with your hands]
 
 ## The pattern
 
-Speech and action together make up everything a person can do for someone else. The ideal hero, as Phoenix puts it in Book 9, is "a speaker of words and a doer of deeds" (9.443).
+Speech and action together make up everything a person can do for someone else. The ideal hero, as Phoenix puts it in *Iliad* 9, is "a speaker of words and a doer of deeds" (9.443).
 
 {{notes}}

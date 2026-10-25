@@ -10,7 +10,7 @@ grc: [Σαγγαρίοιο]
 
 {{quote:6e7db609-0616-5bc0-8eb4-67136c9689a8}}
 
-In Priam's memory the Phrygians of [[Otreus]] and [[Mygdon]] were "encamped along the banks of the Sangarius" (παρʼ ὄχθας Σαγγαρίοιο) on the day the Amazons came (3.187; see [[priam-and-the-amazons]]). The river returns in Book 16, when Apollo takes the likeness of [[asius-son-of-dymas|Asius]], Hecuba's brother, son of [[Dymas]], "who lived in Phrygia by the streams of the Sangarius" (16.717–719).
+In Priam's memory the Phrygians of [[Otreus]] and [[Mygdon]] were "encamped along the banks of the Sangarius" (παρʼ ὄχθας Σαγγαρίοιο) on the day the Amazons came (3.187; see [[priam-and-the-amazons]]). The river returns in *Iliad* 16, when Apollo takes the likeness of [[asius-son-of-dymas|Asius]], Hecuba's brother, son of [[Dymas]], "who lived in Phrygia by the streams of the Sangarius" (16.717–719).
 
 ## Outside Homer
 

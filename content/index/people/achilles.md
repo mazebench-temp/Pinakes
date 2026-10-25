@@ -23,7 +23,7 @@ sort: 1
 
 ## Family
 
-{{figure:families-book-1.svg | The gods and heroes of Book 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
+{{figure:families-book-1.svg | The gods and heroes of *Iliad* 1 and how they are related. Lines between names join parents; lines down lead to their children. Only figures named in Book 1 are shown. Hera is Zeus' sister as well as his wife.}}
 
 {{quote:4630ecf7-c829-5e61-b61f-793096803b5a}}
 
@@ -67,11 +67,11 @@ His mother's gift is also his doom: she bore him μινυνθάδιος, "short-
 
 ## The wrath
 
-The poem's first word, μῆνις, belongs to Achilles, although in Book 1 it is used first of Apollo (1.75) and its verb of Agamemnon (1.247). Achilles' anger is a response to dishonor (ἀτιμία). What has been taken from him is his γέρας, the prize that makes his worth visible. See [[menis]], [[time]], [[geras]] and [[honor-and-dishonor]].
+The poem's first word, μῆνις, belongs to Achilles, although in *Iliad* 1 it is used first of Apollo (1.75) and its verb of Agamemnon (1.247). Achilles' anger is a response to dishonor (ἀτιμία). What has been taken from him is his γέρας, the prize that makes his worth visible. See [[menis]], [[time]], [[geras]] and [[honor-and-dishonor]].
 
 ## Mythology
 
-Achilles' past in Book 1 is war: the sack of Thebe (1.366–369) and the raiding of many Trojan towns (1.163–168). See [[sack-of-thebe]] and [[achilles-raids]]. His future is a short life, which Thetis knows:
+Achilles' past in *Iliad* 1 is war: the sack of Thebe (1.366–369) and the raiding of many Trojan towns (1.163–168). See [[sack-of-thebe]] and [[achilles-raids]]. His future is a short life, which Thetis knows:
 
 {{quote:8177126f-a070-5891-bee9-8d80c2c18630}}
 

@@ -22,7 +22,7 @@ The tenor takes up the mother's verb. “So none could ward off destruction from
 
 Isus, a bastard son of Priam, was driving, and Antiphus, born in wedlock, stood beside him in the same chariot. Agamemnon strikes Isus in the chest with his spear and Antiphus beside the ear with his sword, throws him from the chariot, and strips them both in haste (11.101–110; see [[isus]] and [[antiphus-son-of-priam]]). He knows them. Achilles had once caught the pair herding sheep on Ida, bound them with willow shoots and let them go for ransom, and Agamemnon had seen them by the ships (11.104–112; see [[achilles-raids]]). Spared once by Achilles, they are not spared again.
 
-The pair is the second of three that Agamemnon kills in this part of his day. After it come the two sons of Antimachus, also “in one chariot”, against whom he rushes “like a lion” (11.122–130; see [[like-a-lion]] and [[sons-of-antimachus]]). Diomedes killed two sons of Priam from one chariot in Book 5, as a lion breaks the neck of a heifer (5.159–165; see [[lion-among-cattle]]). See [[the-aristeia-of-agamemnon]].
+The pair is the second of three that Agamemnon kills in this part of his day. After it come the two sons of Antimachus, also “in one chariot”, against whom he rushes “like a lion” (11.122–130; see [[like-a-lion]] and [[sons-of-antimachus]]). Diomedes killed two sons of Priam from one chariot in *Iliad* 5, as a lion breaks the neck of a heifer (5.159–165; see [[lion-among-cattle]]). See [[the-aristeia-of-agamemnon]].
 
 ## Elsewhere in Homer
 

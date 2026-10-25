@@ -18,7 +18,7 @@ Zeus is “the father of men and gods” (1.544), and in Homer he is also the fa
 
 **The wives.** Hera is the wife, κασιγνήτην ἄλοχόν τε, “his sister and wife” (16.432, 18.356; see [[hera]] and [[husbands-and-wives]]). But Hermes, refusing to fight Leto, counts her among the wives of Zeus (ἀλόχοισι Διὸς νεφεληγερέταο, 21.498–499), and the Odyssey calls her Διὸς κυδρὴν παράκοιτιν, “the glorious consort of Zeus” (*Odyssey* 11.580).
 
-**The one list.** Homer gathers Zeus' loves together only in Book 14, where Zeus, overcome by desire for Hera on the peak of Gargarus, names seven of them, and their sons, to tell her that he never loved any of them as he loves her now (14.315–328). The Odyssey has a catalogue of the same kind on a larger scale: in the underworld Odysseus sees the women “who were wives and daughters of the best men”, among them Antiope and Alcmene, who bore sons to Zeus (*Odyssey* 11.225–330, 11.260–268).
+**The one list.** Homer gathers Zeus' loves together only in *Iliad* 14, where Zeus, overcome by desire for Hera on the peak of Gargarus, names seven of them, and their sons, to tell her that he never loved any of them as he loves her now (14.315–328). The Odyssey has a catalogue of the same kind on a larger scale: in the underworld Odysseus sees the women “who were wives and daughters of the best men”, among them Antiope and Alcmene, who bore sons to Zeus (*Odyssey* 11.225–330, 11.260–268).
 
 {{notes}}
 

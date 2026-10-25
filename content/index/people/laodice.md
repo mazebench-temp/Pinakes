@@ -17,9 +17,9 @@ relations:
 
 {{quote:60101102-e667-5737-9806-117b96639b61}}
 
-Λαοδίκη = λαός ("people") + δίκη ("right, justice"). To Helen she is γαλόως, "husband's sister" (3.122; see [[in-laws]]). Iris comes to Helen in her likeness, as in Book 2 she came to the Trojans in the voice of Polites, another child of Priam (2.791).
+Λαοδίκη = λαός ("people") + δίκη ("right, justice"). To Helen she is γαλόως, "husband's sister" (3.122; see [[in-laws]]). Iris comes to Helen in her likeness, as in *Iliad* 2 she came to the Trojans in the voice of Polites, another child of Priam (2.791).
 
-θυγατρῶν εἶδος ἀρίστη, "most beautiful in form of the daughters", is a formula of praise ([[best-in-looks]]). The Catalogue gives it to Alcestis among the daughters of Pelias (2.715), and a later book to Cassandra among the daughters of Priam (13.365). In Book 6 Hecuba meets Hector "leading Laodice, the most beautiful in form of her daughters" (6.252). Agamemnon has a daughter of the same name (9.145).
+θυγατρῶν εἶδος ἀρίστη, "most beautiful in form of the daughters", is a formula of praise ([[best-in-looks]]). The Catalogue gives it to Alcestis among the daughters of Pelias (2.715), and a later book to Cassandra among the daughters of Priam (13.365). In *Iliad* 6 Hecuba meets Hector "leading Laodice, the most beautiful in form of her daughters" (6.252). Agamemnon has a daughter of the same name (9.145).
 
 ## Outside Homer
 

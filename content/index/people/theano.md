@@ -24,7 +24,7 @@ A νόθος is a son born to a man by a woman who is not his wife (see [[nothos
 
 ## In Homer
 
-She is the only woman Homer calls a priestess (ἱέρεια, 6.300). In Book 6 she opens Athena's temple on the citadel to Hecuba and the old women of Troy, lays their robe on the goddess's knees, and prays for the city, and Athena shakes her head (6.297–311; see [[the-robe-for-athena]], [[priesthood]] and [[temple]]).
+She is the only woman Homer calls a priestess (ἱέρεια, 6.300). In *Iliad* 6 she opens Athena's temple on the citadel to Hecuba and the old women of Troy, lays their robe on the goddess's knees, and prays for the city, and Athena shakes her head (6.297–311; see [[the-robe-for-athena]], [[priesthood]] and [[temple]]).
 
 ## Outside Homer
 

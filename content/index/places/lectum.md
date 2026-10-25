@@ -12,7 +12,7 @@ grc: [Λεκτόν]
 
 {{quote:48a43bd2-af2c-526a-92e2-51b39e11e435}}
 
-Homer names Lectum once. Hera and Sleep, clothed in mist, leave Lemnos and Imbros, cross the sea, and come to Ida “to Lectum, where they first left the sea” (14.283–284; see [[lemnos]], [[imbros]] and [[ida]]). The verse that brings them to “Ida of the many springs, mother of wild beasts” is the one that brought Zeus there in Book 8, but where Zeus came to Gargarus, the summit, they come to Lectum, the headland where the range meets the sea (8.47–48; see [[gargarus]]). From there they go over dry land, and the treetops shake beneath their feet (14.284–285), until Sleep stops in a tall fir and Hera goes on to the peak of Gargarus (14.286–293; see [[sleep]] and [[gargarus]]).
+Homer names Lectum once. Hera and Sleep, clothed in mist, leave Lemnos and Imbros, cross the sea, and come to Ida “to Lectum, where they first left the sea” (14.283–284; see [[lemnos]], [[imbros]] and [[ida]]). The verse that brings them to “Ida of the many springs, mother of wild beasts” is the one that brought Zeus there in *Iliad* 8, but where Zeus came to Gargarus, the summit, they come to Lectum, the headland where the range meets the sea (8.47–48; see [[gargarus]]). From there they go over dry land, and the treetops shake beneath their feet (14.284–285), until Sleep stops in a tall fir and Hera goes on to the peak of Gargarus (14.286–293; see [[sleep]] and [[gargarus]]).
 
 ## Outside Homer
 

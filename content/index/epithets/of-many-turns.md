@@ -16,7 +16,7 @@ of: [odysseus]
 
 ## Use
 
-The word occurs twice, both times of Odysseus. The Odyssey opens with it: the Muse is asked to tell of “the man of many turns” (*Odyssey* 1.1), and the hero's name is held back until the twenty-first verse. In Book 10 Circe, whose drug has failed to bewitch him, begins with the question put to strangers, “Who are you among men, and from where?”, and answers it herself: “Surely you are Odysseus of many turns, whom the slayer of Argus always told me would come” (*Odyssey* 10.325–331; [[who-are-you-among-men]]). Merry compares the way Odysseus presents himself to the Phaeacians, “I am Odysseus, son of Laertes, who am known to men for all my wiles” (*Odyssey* 9.19–20; Merry on 1.1).
+The word occurs twice, both times of Odysseus. The Odyssey opens with it: the Muse is asked to tell of “the man of many turns” (*Odyssey* 1.1), and the hero's name is held back until the twenty-first verse. In *Odyssey* 10 Circe, whose drug has failed to bewitch him, begins with the question put to strangers, “Who are you among men, and from where?”, and answers it herself: “Surely you are Odysseus of many turns, whom the slayer of Argus always told me would come” (*Odyssey* 10.325–331; [[who-are-you-among-men]]). Merry compares the way Odysseus presents himself to the Phaeacians, “I am Odysseus, son of Laertes, who am known to men for all my wiles” (*Odyssey* 9.19–20; Merry on 1.1).
 
 {{notes}}
 

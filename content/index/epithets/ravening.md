@@ -17,4 +17,4 @@ en: [ravening]
 
 {{quote:bd47e450-0c0a-513f-b15f-15f5096b8030}}
 
-Odysseus tells Achilles what Hector means to do at dawn: hack the high sternposts from the ships, burn the ships themselves with ravening fire, and slaughter the Achaeans beside them, bewildered by the smoke (9.240–243; [[hector]], [[ships]]). The same word is kept for the burning of Troy itself. The fire Hector threatens in Book 9 reaches one ship in Book 16 (16.122–124), and Patroclus is sent out at that moment.
+Odysseus tells Achilles what Hector means to do at dawn: hack the high sternposts from the ships, burn the ships themselves with ravening fire, and slaughter the Achaeans beside them, bewildered by the smoke (9.240–243; [[hector]], [[ships]]). The same word is kept for the burning of Troy itself. The fire Hector threatens in *Iliad* 9 reaches one ship in Book 16 (16.122–124), and Patroclus is sent out at that moment.

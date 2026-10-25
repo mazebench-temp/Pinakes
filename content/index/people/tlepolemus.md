@@ -3,7 +3,7 @@ title: Tlepolemus
 greek: Τληπόλεμος
 kind: person
 tags: [achaean, warrior, king, dodecanese]
-summary: A son of [[Heracles]] who led nine ships from [[Rhodes]]. He had killed his father's uncle [[Licymnius]] and fled overseas to found a new home; in Book 5 he falls to [[Sarpedon]].
+summary: A son of [[Heracles]] who led nine ships from [[Rhodes]]. He had killed his father's uncle [[Licymnius]] and fled overseas to found a new home; in *Iliad* 5 he falls to [[Sarpedon]].
 aliases: [Tlapolemus]
 # Τληπόλεμόν τε Δαμαστορίδην (16.416) is a Trojan, son of Damastor, whom Patroclus kills
 # (tlepolemus-son-of-damastor, which claims the phrase): excepted.
@@ -29,7 +29,7 @@ Son of [[Heracles]] by [[Astyocheia]], whom Heracles carried off from [[Ephyra]]
 
 ## Descriptions
 
-ἠΰς τε μέγας τε, "tall and brave" (2.653): ἠΰς ("good, noble") and μέγας ("big"). The same words introduce him again in Book 5 (5.628). δουρὶ κλυτός, "famed for his spear" (2.657; see [[famed-for-his-spear]]).
+ἠΰς τε μέγας τε, "tall and brave" (2.653): ἠΰς ("good, noble") and μέγας ("big"). The same words introduce him again in *Iliad* 5 (5.628). δουρὶ κλυτός, "famed for his spear" (2.657; see [[famed-for-his-spear]]).
 
 ## In the Iliad
 

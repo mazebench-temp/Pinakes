@@ -14,7 +14,7 @@ of: [axius, alpheus]
 
 εὐρύ (“wide,” as an adverb) + ῥέων (“flowing,” from ῥέω): “flowing broad.” The compound εὐρυρέεθρος joins εὐρύς to ῥέεθρα, “streams”: “of the broad streams,” found only at 21.141 (see the translation's note on 21.141–143).
 
-The phrase belongs above all to the Axius, the river of the Paeonians. The Catalogue brings them “from far away, from Amydon, from the broad-flowing Axius” (2.849), and the verse returns, with “led” in place of “from far away,” when Patroclus kills their leader Pyraechmes (16.287–288). Once it is the Alpheius, “which flows broad through the land of the Pylians” (5.545; [[alpheus]]). Book 21 has it four times, in the story of Asteropaeus, grandson of the Axius, and of the river that fights Achilles (21.141, 21.157, 21.186, 21.304).
+The phrase belongs above all to the Axius, the river of the Paeonians. The Catalogue brings them “from far away, from Amydon, from the broad-flowing Axius” (2.849), and the verse returns, with “led” in place of “from far away,” when Patroclus kills their leader Pyraechmes (16.287–288). Once it is the Alpheius, “which flows broad through the land of the Pylians” (5.545; [[alpheus]]). *Iliad* 21 has it four times, in the story of Asteropaeus, grandson of the Axius, and of the river that fights Achilles (21.141, 21.157, 21.186, 21.304).
 
 ## Use
 

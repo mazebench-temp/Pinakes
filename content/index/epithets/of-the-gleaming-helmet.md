@@ -18,4 +18,4 @@ of: [hector]
 
 {{quote:cb28467a-86c3-5c18-acc9-cbe0e89341ae}}
 
-The Trojan Catalogue begins with Hector and his epithet. His helmet is his most famous attribute. In Book 6, when he reaches out for his baby son, the child shrinks back in fear of the bronze and the horsehair crest, and Hector takes the helmet off and lays it on the ground (Il. 6.466–473).
+The Trojan Catalogue begins with Hector and his epithet. His helmet is his most famous attribute. In *Iliad* 6, when he reaches out for his baby son, the child shrinks back in fear of the bronze and the horsehair crest, and Hector takes the helmet off and lays it on the ground (Il. 6.466–473).

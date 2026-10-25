@@ -3,7 +3,7 @@ title: Contests
 greek: ἄεθλος
 kind: ritual
 tags: [exchange, honor]
-summary: Athletic contests (ἄεθλοι) for prizes, held in Homer at a funeral or in honor of a guest. Tydeus, alone among the Cadmeians, challenges them to contests and wins them all; the fullest account is the funeral games of Patroclus in Book 23.
+summary: Athletic contests (ἄεθλοι) for prizes, held in Homer at a funeral or in honor of a guest. Tydeus, alone among the Cadmeians, challenges them to contests and wins them all; the fullest account is the funeral games of Patroclus in *Iliad* 23.
 aliases: [games, athletic contests, athletics, funeral games, athla]
 grc: [ἀεθλεύειν]
 en: [contests]

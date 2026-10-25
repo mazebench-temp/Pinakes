@@ -20,7 +20,7 @@ The Trojan women have laid the robe on the knees of Athena's statue, and Theano 
 
 {{quote:6d83ccd3-0ec9-5127-93d6-ddbc7cd049d1}}
 
-The prayer piles up titles in its first verse: “lady” ([[queenly]]), “protector of the city,” “brilliant among goddesses” ([[brilliant-among-goddesses]]). The second of them is the whole of the Trojans' claim on her, since they ask her to protect their city by breaking the spear of Diomedes. The answer is the last verse: the goddess shakes her head (6.311; [[pallas]]). The goddess whom Troy honors with a temple on its citadel is working for its fall: at the council of the gods in Book 4 she and Hera sat “devising evils for the Trojans” (4.20–21; [[athena]], [[temple]]). Hector, not Athena, is the one who guards the city, and in Book 22 Athena herself deceives him to his death (Il. 22.226–247).
+The prayer piles up titles in its first verse: “lady” ([[queenly]]), “protector of the city,” “brilliant among goddesses” ([[brilliant-among-goddesses]]). The second of them is the whole of the Trojans' claim on her, since they ask her to protect their city by breaking the spear of Diomedes. The answer is the last verse: the goddess shakes her head (6.311; [[pallas]]). The goddess whom Troy honors with a temple on its citadel is working for its fall: at the council of the gods in *Iliad* 4 she and Hera sat “devising evils for the Trojans” (4.20–21; [[athena]], [[temple]]). Hector, not Athena, is the one who guards the city, and in Book 22 Athena herself deceives him to his death (Il. 22.226–247).
 
 ## Outside Homer
 

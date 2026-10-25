@@ -39,7 +39,7 @@ Achilles answers the gifts with scorn: “His gifts are hateful to me, and I hon
 
 ## Given
 
-The gifts return when Achilles has lost Patroclus. Earlier he had told Patroclus to win great honor, so that the Danaans would give the girl back “and give splendid gifts besides” (16.84–86), as if none had been offered; whether such lines show that Book 9 was added late, or only Achilles' own view of that night, is disputed (see [[the-embassy-to-achilles]]). Thetis tells Hephaestus that the elders of the Argives begged him and named many glorious gifts (18.448–449). On the morning after Patroclus' death the gifts that were to be “at hand at once” (9.135) are carried out of Agamemnon's hut into the assembly, Briseis among them, and Agamemnon swears the oath he promised; then the Myrmidons take them to Achilles' ship (19.238–281). The spoil of Troy, the daughter and the seven cities are not mentioned again.
+The gifts return when Achilles has lost Patroclus. Earlier he had told Patroclus to win great honor, so that the Danaans would give the girl back “and give splendid gifts besides” (16.84–86), as if none had been offered; whether such lines show that *Iliad* 9 was added late, or only Achilles' own view of that night, is disputed (see [[the-embassy-to-achilles]]). Thetis tells Hephaestus that the elders of the Argives begged him and named many glorious gifts (18.448–449). On the morning after Patroclus' death the gifts that were to be “at hand at once” (9.135) are carried out of Agamemnon's hut into the assembly, Briseis among them, and Agamemnon swears the oath he promised; then the Myrmidons take them to Achilles' ship (19.238–281). The spoil of Troy, the daughter and the seven cities are not mentioned again.
 
 ## Outside Homer
 

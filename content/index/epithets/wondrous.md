@@ -15,7 +15,7 @@ en: [by the will of heaven, marvelous, wondrous, divine]
 
 ## Use
 
-Book 2 has the word four times, in all its senses. Nestor tells Agamemnon that the test of the army will show whether he fails to take Troy “by the will of heaven, or by the cowardice of men” ({{ref:Iliad 2.367-368}}). As the army marches out, “the dazzling gleam from their marvelous bronze” rises to the sky ({{ref:Iliad 2.457-458}}; [[forest-fire]]). The Muses take from Thamyris his “wondrous song” ({{ref:Iliad 2.599-600}}; [[thamyris-and-the-muses]]), and the son of Cronus pours “wondrous wealth” on Rhodes ({{ref:Iliad 2.670}}).
+*Iliad* 2 has the word four times, in all its senses. Nestor tells Agamemnon that the test of the army will show whether he fails to take Troy “by the will of heaven, or by the cowardice of men” ({{ref:Iliad 2.367-368}}). As the army marches out, “the dazzling gleam from their marvelous bronze” rises to the sky ({{ref:Iliad 2.457-458}}; [[forest-fire]]). The Muses take from Thamyris his “wondrous song” ({{ref:Iliad 2.599-600}}; [[thamyris-and-the-muses]]), and the son of Cronus pours “wondrous wealth” on Rhodes ({{ref:Iliad 2.670}}).
 
 {{quote:6a1b3048-96a6-51f6-be66-100c76396d62}}
 

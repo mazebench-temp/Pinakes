@@ -20,4 +20,4 @@ of: [ships]
 
 Hera ends her appeal to Athena with a command in three parts: go through the army, hold back every man with gentle words, and do not let them drag their curving ships to the sea. Athena repeats all three to Odysseus ({{ref:Iliad 2.179-181}}), who carries them out ([[gentle-words]]).
 
-The words return in Book 9, νῆας ἐϋσσέλμους ἅλαδ’ ἑλκέμεν ἀμφιελίσσας (“to drag the well-benched, curving ships to the sea”), when Odysseus reports that Achilles threatens to launch his ships and sail home at dawn (Il. 9.683). What Hera prevented in Book 2 is threatened again by the hero who has withdrawn.
+The words return in *Iliad* 9, νῆας ἐϋσσέλμους ἅλαδ’ ἑλκέμεν ἀμφιελίσσας (“to drag the well-benched, curving ships to the sea”), when Odysseus reports that Achilles threatens to launch his ships and sail home at dawn (Il. 9.683). What Hera prevented in Book 2 is threatened again by the hero who has withdrawn.

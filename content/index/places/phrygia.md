@@ -10,7 +10,7 @@ grc: [Φρυγί*]
 
 {{quote:6e7db609-0616-5bc0-8eb4-67136c9689a8}}
 
-Book 3 names Phrygia twice. Priam remembers going there in his youth, to "vine-rich Phrygia" (Φρυγίην ἀμπελόεσσαν; see [[vine-rich]]), where he fought as an ally beside the Phrygians of [[Otreus]] and [[Mygdon]] on the Sangarius on the day the [[Amazons]] came (3.184–189; see [[priam-and-the-amazons]]). Helen, refusing Aphrodite, asks whether the goddess will lead her on to some city "of Phrygia or of lovely Maeonia" (3.401; see [[maeonia]]).
+*Iliad* 3 names Phrygia twice. Priam remembers going there in his youth, to "vine-rich Phrygia" (Φρυγίην ἀμπελόεσσαν; see [[vine-rich]]), where he fought as an ally beside the Phrygians of [[Otreus]] and [[Mygdon]] on the Sangarius on the day the [[Amazons]] came (3.184–189; see [[priam-and-the-amazons]]). Helen, refusing Aphrodite, asks whether the goddess will lead her on to some city "of Phrygia or of lovely Maeonia" (3.401; see [[maeonia]]).
 
 {{notes}}
 

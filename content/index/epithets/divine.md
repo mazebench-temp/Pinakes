@@ -20,7 +20,7 @@ Of things, θεῖος marks what comes from the gods: a divine voice, a divine 
 
 ## Use
 
-The first three uses in Book 2 belong to the deception of Agamemnon. The Dream, which Zeus has sent as “baneful” ([[baneful]]), speaks as a divine Dream:
+The first three uses in *Iliad* 2 belong to the deception of Agamemnon. The Dream, which Zeus has sent as “baneful” ([[baneful]]), speaks as a divine Dream:
 
 {{quote:35ebf63a-b420-5abe-aec6-8794cc2671ea}}
 

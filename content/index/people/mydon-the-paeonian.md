@@ -3,7 +3,7 @@ title: Mydon the Paeonian
 greek: Μύδων
 kind: person
 tags: [trojan, warrior, paeonia]
-summary: A Paeonian, the second of the seven whom Achilles kills by the river after the fall of their leader Asteropaeus (21.209). Not [[mydon|Mydon]], son of Atymnius, the charioteer whom Antilochus kills in Book 5.
+summary: A Paeonian, the second of the seven whom Achilles kills by the river after the fall of their leader Asteropaeus (21.209). Not [[mydon|Mydon]], son of Atymnius, the charioteer whom Antilochus kills in *Iliad* 5.
 aliases: [Mydōn, Mydon of Paeonia]
 # Μύδωνά (21.209). The same letters are Pylaemenes' charioteer at 5.580 (mydon, which excepts 21.209), so 5.580 is
 # excepted here, for the Greek and for the English "Mydon".

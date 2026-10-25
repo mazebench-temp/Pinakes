@@ -12,7 +12,7 @@ of: [hypnos, wine]
 
 ## Meaning
 
-μελίφρων = μέλι (“honey”) + φρήν (“mind, heart”): “honey to the heart,” gladdening the mind. Homer gives it to wine (οἶνον μελίφρονα, as in Il. 6.264, where Hector refuses the cup his mother offers), to grain (Il. 8.188), and once to sleep. It belongs with the other words for sleep in Book 2: [[sweet-sleep]] (νήδυμος, γλυκύς) and [[ambrosial]] (ἀμβρόσιος).
+μελίφρων = μέλι (“honey”) + φρήν (“mind, heart”): “honey to the heart,” gladdening the mind. Homer gives it to wine (οἶνον μελίφρονα, as in Il. 6.264, where Hector refuses the cup his mother offers), to grain (Il. 8.188), and once to sleep. It belongs with the other words for sleep in *Iliad* 2: [[sweet-sleep]] (νήδυμος, γλυκύς) and [[ambrosial]] (ἀμβρόσιος).
 
 ## Use
 

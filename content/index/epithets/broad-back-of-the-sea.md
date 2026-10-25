@@ -18,4 +18,4 @@ of: [sea]
 
 {{quote:04171b59-a89d-5cfe-b37e-146e1fd4a0d0}}
 
-Hera sees the army about to flee over the sea's broad back. The phrase is Homer's for flight by sea. In Book 8 Hector fears that the Achaeans will escape in the same way by night, “set out to flee over the broad back of the sea” (Il. 8.511). In the Odyssey it is the road home: Nestor recalls how, after Troy fell, Menelaus urged the Achaeans to think of their return “over the broad back of the sea” (Od. 3.141–142).
+Hera sees the army about to flee over the sea's broad back. The phrase is Homer's for flight by sea. In *Iliad* 8 Hector fears that the Achaeans will escape in the same way by night, “set out to flee over the broad back of the sea” (Il. 8.511). In the Odyssey it is the road home: Nestor recalls how, after Troy fell, Menelaus urged the Achaeans to think of their return “over the broad back of the sea” (Od. 3.141–142).

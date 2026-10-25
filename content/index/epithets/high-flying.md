@@ -3,7 +3,7 @@ title: High-flying
 greek: ὑψιπέτης
 kind: epithet
 tags: [bird, divination]
-summary: “Flying high,” the epithet of the eagle, αἰετὸς ὑψιπέτης, in the omens of Books 12 and 13 and of the Odyssey; the longer ὑψιπετήεις is the eagle of two similes.
+summary: “Flying high,” the epithet of the eagle, αἰετὸς ὑψιπέτης, in the omens of *Iliad* 12 and 13 and of the Odyssey; the longer ὑψιπετήεις is the eagle of two similes.
 aliases: [hypsipetes, hypsipeteeis, flying high]
 grc: [ὑψιπέτης]
 en: [flying high]

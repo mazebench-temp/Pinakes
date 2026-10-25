@@ -33,7 +33,7 @@ passages:
 
 **His brother.** Ἕκτωρ δʼ ὡς ἐνόησε κασίγνητον Πολύδωρον, “But when Hector saw his brother Polydorus” (20.419; see [[kasignetos]]): Apollo had sent Hector back into the crowd, but at the sight of his brother he could no longer bear to keep away, and came against Achilles (20.375–380, 20.421–423). The two were sons of different mothers. Polydorus' mother was Laothoe, daughter of Altes, king of the Leleges at Pedasus, and his full brother was Lycaon (21.84–91, 22.46–48; see [[laothoe]], [[altes]], [[lycaon-son-of-priam]], [[leleges]] and [[pedasus-on-the-satnioeis]]), who begs Achilles in the next book to spare him “since I am not of the same womb as Hector” (21.95).
 
-**Remembered.** In Book 21 his brother Lycaon, caught by Achilles at the river, names him as he begs for his own life (21.88–91; see [[lycaon-son-of-priam]] and [[laothoe]]). In Book 22 Priam, on the wall, looks for him and Lycaon among the Trojans who have fled into the city and hopes to ransom them, not knowing that both are dead (22.46–53; see [[priam]] and [[apoina]]).
+**Remembered.** In *Iliad* 21 his brother Lycaon, caught by Achilles at the river, names him as he begs for his own life (21.88–91; see [[lycaon-son-of-priam]] and [[laothoe]]). In Book 22 Priam, on the wall, looks for him and Lycaon among the Trojans who have fled into the city and hopes to ransom them, not knowing that both are dead (22.46–53; see [[priam]] and [[apoina]]).
 
 ## Outside Homer
 

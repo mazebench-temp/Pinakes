@@ -15,13 +15,13 @@ passages:
 
 ## Meaning
 
-φοῖνιξ names a deep red or purple and the dye that gave it. The same word is the date palm (Odyssey 6.163), the name of the Phoenicians (Φοίνικες), who were famous for the dye and for trade, and the name of Achilles' old tutor Phoenix. Whether the color was named after the people or the people after the color has long been debated. Related adjectives are φοινικόεις, “crimson”, used of Nestor's cloak (10.133), and φοινήεις, “blood-red”, used of the serpent in the eagle's talons in the portent of Book 12 (12.202).
+φοῖνιξ names a deep red or purple and the dye that gave it. The same word is the date palm (Odyssey 6.163), the name of the Phoenicians (Φοίνικες), who were famous for the dye and for trade, and the name of Achilles' old tutor Phoenix. Whether the color was named after the people or the people after the color has long been debated. Related adjectives are φοινικόεις, “crimson”, used of Nestor's cloak (10.133), and φοινήεις, “blood-red”, used of the serpent in the eagle's talons in the portent of *Iliad* 12 (12.202).
 
 The dye was made from the murex, a sea snail. Heaps of crushed murex shells show that it was made in Crete in the Bronze Age, and later the Phoenician cities of Tyre and Sidon were famous for it.
 
 ## In Homer
 
-In the simile of Book 4 a Maeonian or Carian woman stains ivory with purple to make a cheekpiece for a horse (4.141–145). The verb of her staining, μιαίνω (“stain, defile”), is the verb for Menelaus' blood on his thighs: the woman μιήνῃ, “stains”, the ivory (4.141), and his thighs μιάνθην, “were stained”, with blood (4.146). See [[ivory-stained-with-purple]] and [[ivory]].
+In the simile of *Iliad* 4 a Maeonian or Carian woman stains ivory with purple to make a cheekpiece for a horse (4.141–145). The verb of her staining, μιαίνω (“stain, defile”), is the verb for Menelaus' blood on his thighs: the woman μιήνῃ, “stains”, the ivory (4.141), and his thighs μιάνθην, “were stained”, with blood (4.146). See [[ivory-stained-with-purple]] and [[ivory]].
 
 Purple brightened the belts that heroes gave one another. Oeneus gave Bellerophon a belt “bright with purple” (φοίνικι φαεινόν, 6.219), and Ajax gave Hector one in the same words after their duel (7.305; see [[belt]]).
 

@@ -3,7 +3,7 @@ title: Lightning before the storm
 greek: ὡς δʼ ὅτʼ ἂν ἀστράπτῃ πόσις Ἥρης ἠϋκόμοιο
 kind: simile
 tags: [cosmic, mind, kingship]
-summary: Awake while the other chiefs sleep, Agamemnon groans as thick and fast as the flashes of Zeus when he makes ready rain, hail or snow, “or somewhere the great mouth of bitter war” (10.5–10). It is the first simile of Book 10.
+summary: Awake while the other chiefs sleep, Agamemnon groans as thick and fast as the flashes of Zeus when he makes ready rain, hail or snow, “or somewhere the great mouth of bitter war” (10.5–10). It is the first simile of *Iliad* 10.
 aliases: [Agamemnon's groans, groans like lightning, as thick as lightning, the lightning of Zeus before the storm, the lightning simile of Book 10]
 grc: ["ἀστράπτῃ πόσις", "ὄμβρον ἀθέσφατον", "χιὼν ἐπάλυνεν", "στόμα πευκεδανοῖο", "πυκίνʼ ἐν στήθεσσιν", "νειόθεν ἐκ κραδίης"]
 en: [flashes his lightning, "heavy, endless rain", the snowflakes sprinkle the fields, the great mouth of bitter war, so thick and fast, from the depths of his heart]
@@ -26,8 +26,8 @@ The comparison is of frequency, but the vehicle says more than the tenor needs. 
 
 The book opens with the chiefs asleep and their king awake (10.1–4; see [[the-doloneia]]). The simile follows at once, and the next lines give its cause. When Agamemnon looks out over the plain he marvels at the many Trojan fires and at the sound of flutes and pipes; when he looks at his own ships and army, he tears out his hair “to Zeus on high”, and his glorious heart groans greatly (10.11–16; see the translation's note on 10.15–16). His fear is the same when he tells it to Nestor: his heart leaps out of his breast and his limbs tremble beneath him (10.93–95; see [[agamemnon]]).
 
-The two night books both measure the king's grief by a force of nature. In Book 9 he stood up in the assembly shedding tears like a spring of dark water and spoke “groaning heavily” (9.14–16; see [[the-spring-of-dark-water]]). Here the groans are lightning, and the god whose flashes they match is the god whose mind, he says, “has turned” (10.45; see [[zeus]] and [[plan-of-zeus]]).
+The two night books both measure the king's grief by a force of nature. In *Iliad* 9 he stood up in the assembly shedding tears like a spring of dark water and spoke “groaning heavily” (9.14–16; see [[the-spring-of-dark-water]]). Here the groans are lightning, and the god whose flashes they match is the god whose mind, he says, “has turned” (10.45; see [[zeus]] and [[plan-of-zeus]]).
 
 ## Elsewhere in Homer
 
-The bronze of the Achaeans shines “like the lightning of father Zeus” later in the same book, and so does Hector's armor in Book 11 (10.153–154, 11.65–66; see [[like-lightning]]). Snow is Zeus' work in the similes too. Stones fly in battle as thick as the snowflakes that Zeus pours down on a winter's day, showing his shafts, until he has covered mountains, fields and shores (12.278–286), and the helmets and shields pour out from the ships like snowflakes that fly from Zeus under the blast of the North Wind (19.357–360). Iris flies from Ida as snow or hail flies from the clouds (15.170–172). See [[storm-cloud]] and [[snowflakes-of-winter]].
+The bronze of the Achaeans shines “like the lightning of father Zeus” later in the same book, and so does Hector's armor in *Iliad* 11 (10.153–154, 11.65–66; see [[like-lightning]]). Snow is Zeus' work in the similes too. Stones fly in battle as thick as the snowflakes that Zeus pours down on a winter's day, showing his shafts, until he has covered mountains, fields and shores (12.278–286), and the helmets and shields pour out from the ships like snowflakes that fly from Zeus under the blast of the North Wind (19.357–360). Iris flies from Ida as snow or hail flies from the clouds (15.170–172). See [[storm-cloud]] and [[snowflakes-of-winter]].

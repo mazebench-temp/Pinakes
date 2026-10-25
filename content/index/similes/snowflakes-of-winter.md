@@ -26,9 +26,9 @@ The last line turns back to looks: “then we did not so much marvel at Odysseus
 
 ## Elsewhere in Homer
 
-The snow similes of the battle books are all of multitude. The stones thrown from the Achaean wall fall like snowflakes that a wind drives thick onto the earth (12.154–158). On a winter's day, when Zeus snows, the flakes cover the mountain peaks and the headlands, the fields and the harbors and the shores, and only the sea's wave keeps it off; so thick fly the stones from both sides (12.278–289). When the army arms for Achilles' return, helmets, shields, corselets and spears pour from the ships as thick as the snowflakes of Zeus under the North Wind (19.357–361; see [[snowflakes-from-zeus]]). Words, in Book 3, take the place of stones and weapons.
+The snow similes of the battle books are all of multitude. The stones thrown from the Achaean wall fall like snowflakes that a wind drives thick onto the earth (12.154–158). On a winter's day, when Zeus snows, the flakes cover the mountain peaks and the headlands, the fields and the harbors and the shores, and only the sea's wave keeps it off; so thick fly the stones from both sides (12.278–289). When the army arms for Achilles' return, helmets, shields, corselets and spears pour from the ships as thick as the snowflakes of Zeus under the North Wind (19.357–361; see [[snowflakes-from-zeus]]). Words, in *Iliad* 3, take the place of stones and weapons.
 
-Nestor, the third great speaker of the Achaeans, is described in Book 1 as “the clear-voiced orator of the Pylians, from whose tongue the voice flowed sweeter than honey” (1.248–249; see [[sweeter-than-honey]]).
+Nestor, the third great speaker of the Achaeans, is described in *Iliad* 1 as “the clear-voiced orator of the Pylians, from whose tongue the voice flowed sweeter than honey” (1.248–249; see [[sweeter-than-honey]]).
 
 ## Outside Homer
 

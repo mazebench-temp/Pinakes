@@ -3,7 +3,7 @@ title: Pandarus
 greek: Πάνδαρος
 kind: person
 tags: [trojan, warrior, troad]
-summary: Son of [[Lycaon]], leader of the Trojans of [[Zeleia]], and an archer whose bow was a gift of [[Apollo]]. In Book 4 his arrow breaks the truce, and in Book 5 Diomedes kills him.
+summary: Son of [[Lycaon]], leader of the Trojans of [[Zeleia]], and an archer whose bow was a gift of [[Apollo]]. In *Iliad* 4 his arrow breaks the truce, and in Book 5 Diomedes kills him.
 aliases: [Pandaros]
 grc: [Πάνδαρ*]
 en: [Pandarus]
@@ -22,9 +22,9 @@ relations:
 
 ## Elsewhere in Homer
 
-His arrow breaks the truce in Book 4. In Book 5 he wounds Diomedes in the shoulder and boasts too soon (5.95–105). Riding with Aeneas against Diomedes, he complains that his arrows have hit two of the best Achaeans and only roused them, and swears to break his bow and burn it if he ever gets home (5.206–216). Diomedes' spear, guided by Athena, strikes him in the face, and he falls from the chariot (5.290–296).
+His arrow breaks the truce in *Iliad* 4. In Book 5 he wounds Diomedes in the shoulder and boasts too soon (5.95–105). Riding with Aeneas against Diomedes, he complains that his arrows have hit two of the best Achaeans and only roused them, and swears to break his bow and burn it if he ever gets home (5.206–216). Diomedes' spear, guided by Athena, strikes him in the face, and he falls from the chariot (5.290–296).
 
-The Catalogue calls his people Trojans, but in Book 5 he speaks of setting out "from Lycia" (5.105), and Aeneas says that no one in Lycia claims to be his better (5.173). His prayer to Apollo “the Lycian-born” (Λυκηγενής, 4.119) points the same way. Whether Homer meant a Lycia around Zeleia, in the Troad, or the far Lycia of [[Sarpedon]] has been argued since antiquity.
+The Catalogue calls his people Trojans, but in *Iliad* 5 he speaks of setting out "from Lycia" (5.105), and Aeneas says that no one in Lycia claims to be his better (5.173). His prayer to Apollo “the Lycian-born” (Λυκηγενής, 4.119) points the same way. Whether Homer meant a Lycia around Zeleia, in the Troad, or the far Lycia of [[Sarpedon]] has been argued since antiquity.
 
 ## Outside Homer
 

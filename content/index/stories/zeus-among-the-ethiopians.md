@@ -24,4 +24,4 @@ The Ethiopians are ἀμύμονες, "blameless", the pious people whose sacrif
 
 ## Elsewhere in Homer
 
-In Book 23 Iris, who has carried Achilles' prayer to the winds, will not sit with them, since she is going to the land of the Ethiopians to share in their hecatombs (23.198–207). The Odyssey opens with Poseidon away among them, “the farthest of men”, to share in a hecatomb of bulls and rams (*Odyssey* 1.22–26). His absence, like that of Zeus here, lets a plan go forward: while he feasts, the other gods resolve on the homecoming of Odysseus (*Odyssey* 1.26–95; see [[poseidon]] and [[ethiopians]]).
+In *Iliad* 23 Iris, who has carried Achilles' prayer to the winds, will not sit with them, since she is going to the land of the Ethiopians to share in their hecatombs (23.198–207). The Odyssey opens with Poseidon away among them, “the farthest of men”, to share in a hecatomb of bulls and rams (*Odyssey* 1.22–26). His absence, like that of Zeus here, lets a plan go forward: while he feasts, the other gods resolve on the homecoming of Odysseus (*Odyssey* 1.26–95; see [[poseidon]] and [[ethiopians]]).

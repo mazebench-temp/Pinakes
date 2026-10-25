@@ -21,7 +21,7 @@ en: [Hermes, slayer of Argus, guide]
 
 His gear is described in the same verses in both poems: the “ambrosial, golden” sandals that carry him over the sea and the boundless earth as fast as the wind, and the wand with which he bewitches the eyes of men and wakes the sleeping (24.340–345 = *Odyssey* 5.44–49; *Odyssey* 24.2–4; see [[sandals]] and [[wand]]). In the Odyssey he is χρυσόρραπις, “of the golden wand” (*Odyssey* 5.87, 10.277, 10.331). When he meets Priam, and Odysseus in the Odyssey, he takes the likeness of a young man “with the first down on his lip, when youth is at its most graceful” (24.348 = *Odyssey* 10.279).
 
-In Book 2 Hermes is the second holder of the scepter that [[Hephaestus]] made. Zeus gave it to him, and he gave it to [[Pelops]]. The god who carries messages between Zeus and men is the link through which a king's authority comes down from Zeus. See [[the-scepter-of-agamemnon]] and [[scepter]].
+In *Iliad* 2 Hermes is the second holder of the scepter that [[Hephaestus]] made. Zeus gave it to him, and he gave it to [[Pelops]]. The god who carries messages between Zeus and men is the link through which a king's authority comes down from Zeus. See [[the-scepter-of-agamemnon]] and [[scepter]].
 
 ## Mythology
 

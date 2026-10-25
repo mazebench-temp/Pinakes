@@ -3,7 +3,7 @@ title: Dresus
 greek: Δρῆσος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan killed and stripped by [[Euryalus]], together with [[Opheltius]], in the list of kills that opens Book 6 (6.20).
+summary: A Trojan killed and stripped by [[Euryalus]], together with [[Opheltius]], in the list of kills that opens *Iliad* 6 (6.20).
 aliases: [Dresos]
 grc: [Δρῆσον]
 relations:

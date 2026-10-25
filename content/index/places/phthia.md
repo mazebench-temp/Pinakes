@@ -14,4 +14,4 @@ en: [Phthia]
 
 {{quote:fc70876d-1cf9-5130-a06e-ea30786fc9ad}}
 
-Phthia is where he will go. He threatens it here, repeats it in Book 9 (9.356–363), and never does it.
+Phthia is where he will go. He threatens it here, repeats it in *Iliad* 9 (9.356–363), and never does it.

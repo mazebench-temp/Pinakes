@@ -5,7 +5,7 @@ kind: story
 period: timeless
 mode: narrated
 tags: [divine-scene, craftsman]
-summary: Each of the gods has a house on Olympus built by the lame craftsman Hephaestus "with his cunning skill", and to these they go to sleep at the end of Book 1.
+summary: Each of the gods has a house on Olympus built by the lame craftsman Hephaestus "with his cunning skill", and to these they go to sleep at the end of *Iliad* 1.
 participants: [hephaestus, olympians, zeus, hera]
 passages:
   - 1.605-611 | The gods go to bed

@@ -3,7 +3,7 @@ title: Borus
 greek: Βῶρος
 kind: person
 tags: [trojan, maeonia]
-summary: A Maeonian, the father of [[phaestus-son-of-borus|Phaestus]], whom Idomeneus kills in the first rout of Book 5. Not [[borus-son-of-perieres|Borus, son of Perieres]] (16.177).
+summary: A Maeonian, the father of [[phaestus-son-of-borus|Phaestus]], whom Idomeneus kills in the first rout of *Iliad* 5. Not [[borus-son-of-perieres|Borus, son of Perieres]] (16.177).
 grc: [Βώρου]
 except: [16.177]
 refs: [5.43]

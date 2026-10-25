@@ -22,7 +22,7 @@ Sleep tells it. The day is fixed by the first fall of Troy: “that high-hearted
 
 {{quote:482d4510-28b0-5de5-bd01-af8beba663de}}
 
-Zeus' own account, when he wakes on Ida in Book 15, tells the rest. Hera won over the storm winds with the help of the North Wind, sent Heracles over the barren sea with evil intent and carried him off to Cos (15.26–28; see [[boreas]]), and Zeus rescued his son from there and brought him back to Argos, though he had suffered many labors (15.29–30). For the storm Zeus hung Hera from the sky, with two anvils on her feet and an unbreakable golden bond about her hands, and hurled from the threshold any god who tried to set her free; even so the pain for “divine Heracles” did not leave his heart (15.18–25; see [[hera-hung-from-the-sky]], [[hera]] and [[threshold]]).
+Zeus' own account, when he wakes on Ida in *Iliad* 15, tells the rest. Hera won over the storm winds with the help of the North Wind, sent Heracles over the barren sea with evil intent and carried him off to Cos (15.26–28; see [[boreas]]), and Zeus rescued his son from there and brought him back to Argos, though he had suffered many labors (15.29–30). For the storm Zeus hung Hera from the sky, with two anvils on her feet and an unbreakable golden bond about her hands, and hurled from the threshold any god who tried to set her free; even so the pain for “divine Heracles” did not leave his heart (15.18–25; see [[hera-hung-from-the-sky]], [[hera]] and [[threshold]]).
 
 ## In the poem
 

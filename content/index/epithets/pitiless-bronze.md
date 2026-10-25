@@ -18,4 +18,4 @@ of: [bronze]
 
 {{quote:187f6dbc-86ff-597d-9a8e-2c5c0441efe4}}
 
-Agamemnon cuts the throats of the oath lambs, and the narrator watches them die: they gasp on the ground, their life failing, for the bronze has taken their strength. The killing is told in the words of battle, and it prepares the curse that follows: may the brains of whoever breaks the oath pour out on the ground like the wine (3.299–301). In Book 19 Agamemnon swears his oath of reconciliation over a boar, and a nearly identical verse cuts its throat “with the pitiless bronze” (Il. 19.266). See [[oath]], [[the-oaths-sworn]], [[bronze]].
+Agamemnon cuts the throats of the oath lambs, and the narrator watches them die: they gasp on the ground, their life failing, for the bronze has taken their strength. The killing is told in the words of battle, and it prepares the curse that follows: may the brains of whoever breaks the oath pour out on the ground like the wine (3.299–301). In *Iliad* 19 Agamemnon swears his oath of reconciliation over a boar, and a nearly identical verse cuts its throat “with the pitiless bronze” (Il. 19.266). See [[oath]], [[the-oaths-sworn]], [[bronze]].

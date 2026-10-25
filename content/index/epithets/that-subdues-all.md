@@ -12,7 +12,7 @@ of: [hypnos]
 
 ## Meaning
 
-πανδαμάτωρ = πᾶς (“all”) + δαμάτωρ, an agent noun from δάμνημι (“tame, subdue”), the verb of [[tamer-of-horses]]: “the tamer of all.” Night has a word of the same family in Book 14, δμήτειρα, “tamer of gods and men” ([[tamer-of-gods-and-men]]).
+πανδαμάτωρ = πᾶς (“all”) + δαμάτωρ, an agent noun from δάμνημι (“tame, subdue”), the verb of [[tamer-of-horses]]: “the tamer of all.” Night has a word of the same family in *Iliad* 14, δμήτειρα, “tamer of gods and men” ([[tamer-of-gods-and-men]]).
 
 ## Use
 

@@ -3,7 +3,7 @@ title: The watch-fires in English
 greek: χίλιʼ ἄρʼ ἐν πεδίῳ πυρὰ καίετο
 kind: anecdote
 tags: [art, scholarship]
-summary: The close of Book 8, the Trojan watch-fires shining like the stars around the moon, became a test piece for English translators. Pope's ornate couplets were long admired; Wordsworth called them “throughout false and contradictory”, Matthew Arnold used them to show that Pope fails in plain narrative, and Tennyson rendered the passage in blank verse.
+summary: The close of *Iliad* 8, the Trojan watch-fires shining like the stars around the moon, became a test piece for English translators. Pope's ornate couplets were long admired; Wordsworth called them “throughout false and contradictory”, Matthew Arnold used them to show that Pope fails in plain narrative, and Tennyson rendered the passage in blank verse.
 source: "Pope, Iliad 8 (1715–1720); Wordsworth, Essay, Supplementary to the Preface (1815); Arnold, On Translating Homer 1 (1861) and Last Words (1862); Tennyson, Specimen of a Translation of the Iliad in Blank Verse (1863)"
 of: [stars-around-the-moon, trojans, pope, arnold, tennyson]
 passages:

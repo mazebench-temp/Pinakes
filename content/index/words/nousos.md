@@ -3,7 +3,7 @@ title: Sickness
 greek: νοῦσος
 kind: term
 tags: [divine-will]
-summary: Sickness, disease. [[Apollo]] “roused an evil sickness through the army”: the plague of Book 1 is at once a disease and the god's arrows.
+summary: Sickness, disease. [[Apollo]] “roused an evil sickness through the army”: the plague of *Iliad* 1 is at once a disease and the god's arrows.
 aliases: [nousos, nosos, disease]
 grc: [νοῦσον]
 en: [sickness]

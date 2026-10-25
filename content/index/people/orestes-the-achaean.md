@@ -3,7 +3,7 @@ title: Orestes the Achaean
 greek: Ὀρέστης
 kind: person
 tags: [achaean, warrior]
-summary: An Achaean, “Orestes, driver of horses”, the second of the six men whom Hector and Ares kill as the Argives give ground before them (5.705). Not Agamemnon's son, nor the Trojan Orestes of Book 12.
+summary: An Achaean, “Orestes, driver of horses”, the second of the six men whom Hector and Ares kill as the Argives give ground before them (5.705). Not Agamemnon's son, nor the Trojan Orestes of *Iliad* 12.
 aliases: [Orestes, driver of horses]
 grc: [Ὀρέστην]
 # Ὀρέστην at 12.139 and 12.193 is the Trojan who comes with Asius (orestes-the-trojan).

@@ -15,4 +15,4 @@ en: [in their prime, flourishing, big]
 
 ## Use
 
-Book 3 uses it twice. In the lion simile the hunters are “the young men in their prime” (θαλεροὶ αἰζηοί, 3.26; [[lion-on-a-carcass]]). Hector's taunt uses it of Helen: if Paris faced Menelaus, “you would learn what kind of man he is whose flourishing wife you have” (θαλερὴν παράκοιτιν, 3.53). The young wife in her bloom belongs to another man.
+*Iliad* 3 uses it twice. In the lion simile the hunters are “the young men in their prime” (θαλεροὶ αἰζηοί, 3.26; [[lion-on-a-carcass]]). Hector's taunt uses it of Helen: if Paris faced Menelaus, “you would learn what kind of man he is whose flourishing wife you have” (θαλερὴν παράκοιτιν, 3.53). The young wife in her bloom belongs to another man.

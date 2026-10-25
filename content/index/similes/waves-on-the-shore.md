@@ -24,7 +24,7 @@ The vehicle is loud. The wave “roars” (βρέμει) when it breaks on the l
 
 {{quote:9dc3b891-9cbc-5594-a730-092f3089db1b}}
 
-Diomedes has leapt from his chariot, and the bronze on his breast rang terribly (4.419–421). The review is over (see [[the-review-of-the-army]]), and the advance of the two armies is told in a pair of similes. The Danaans are waves. The Trojans are ewes in a rich man's fold, bleating without pause, “for not all of them had the same speech” (4.433–438; see [[sheep-in-the-fold]]). The pair repeats the contrast with which Book 3 began, where the Trojans came on with clamor like cranes, and the Achaeans in silence, raising a dust like mountain mist (3.1–14; see [[cranes-and-pygmies]] and [[mist-on-the-mountain]]). This silence is a matter of discipline. Each leader gives orders to his own men (4.428–429), and the rest fear their σημάντορες, the men who give the orders (see [[semaino]] and [[silence]]).
+Diomedes has leapt from his chariot, and the bronze on his breast rang terribly (4.419–421). The review is over (see [[the-review-of-the-army]]), and the advance of the two armies is told in a pair of similes. The Danaans are waves. The Trojans are ewes in a rich man's fold, bleating without pause, “for not all of them had the same speech” (4.433–438; see [[sheep-in-the-fold]]). The pair repeats the contrast with which *Iliad* 3 began, where the Trojans came on with clamor like cranes, and the Achaeans in silence, raising a dust like mountain mist (3.1–14; see [[cranes-and-pygmies]] and [[mist-on-the-mountain]]). This silence is a matter of discipline. Each leader gives orders to his own men (4.428–429), and the rest fear their σημάντορες, the men who give the orders (see [[semaino]] and [[silence]]).
 
 The wave's verb returns a few lines later for Strife, “who is small when first she rears her head, but afterwards she plants her head against the sky and walks upon the earth” (4.442–443). ἥ τʼ ὀλίγη μὲν πρῶτα κορύσσεται, αὐτὰρ ἔπειτα repeats πόντῳ μέν τε πρῶτα κορύσσεται, αὐτὰρ ἔπειτα (4.424) with the first words changed. Strife grows as the wave grows, small at first and then enormous. The lines on Strife are a description, not a simile: nothing is compared, and the goddess herself is said to grow. But they are told in the words of the simile before them. See [[strife]].
 
@@ -32,12 +32,12 @@ The West Wind that raises these waves also drove the storm cloud to which the ba
 
 ## Elsewhere in Homer
 
-The sea similes of Book 2 gave the noise of an assembly: waves on the Icarian sea as it broke up, surf on a long beach as it gathered again, a wave on a headland as it shouted its approval (2.144–146, 2.209–210, 2.394–397; see [[waves-of-the-icarian-sea]], [[surf-on-the-beach]] and [[wave-on-the-headland]]). The surf simile shares its verb with this one: there a wave “crashes on the long beach” (αἰγιαλῷ μεγάλῳ βρέμεται, 2.210).
+The sea similes of *Iliad* 2 gave the noise of an assembly: waves on the Icarian sea as it broke up, surf on a long beach as it gathered again, a wave on a headland as it shouted its approval (2.144–146, 2.209–210, 2.394–397; see [[waves-of-the-icarian-sea]], [[surf-on-the-beach]] and [[wave-on-the-headland]]). The surf simile shares its verb with this one: there a wave “crashes on the long beach” (αἰγιαλῷ μεγάλῳ βρέμεται, 2.210).
 
 Later the image turns against the Achaeans. The Trojans come on like the waves of the loud-roaring sea driven by a storm of winds, “arched and white-crested, some in front, and others behind” (13.795–800), they pour over the wall like a great wave over a ship's side (15.381–384), and Hector falls on the Achaeans as a wave falls on a swift ship (15.624–628). Then the Danaans hold like a sheer rock that stands against the winds and the swelling waves (15.618–622).
 
-The roar of the breaking wave, which the silent Danaans do not yet make, returns in Book 14 as a measure of the battle's noise: the shout of Trojans and Achaeans is louder than the wave of the sea roaring against the dry land, roused from the deep by the North Wind (14.394–395; see [[louder-than-sea-fire-and-wind]]).
+The roar of the breaking wave, which the silent Danaans do not yet make, returns in *Iliad* 14 as a measure of the battle's noise: the shout of Trojans and Achaeans is louder than the wave of the sea roaring against the dry land, roused from the deep by the North Wind (14.394–395; see [[louder-than-sea-fire-and-wind]]).
 
 ## Outside Homer
 
-Plato's Socrates quotes the silence of these lines, joined to a line of Book 3, as a lesson in self-control for the guardians of his city (*Republic* 3.389e; see [[plato-silent-achaeans]]).
+Plato's Socrates quotes the silence of these lines, joined to a line of *Iliad* 3, as a lesson in self-control for the guardians of his city (*Republic* 3.389e; see [[plato-silent-achaeans]]).

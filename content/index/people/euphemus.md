@@ -13,4 +13,4 @@ relations:
 
 {{quote:8cb583e9-2962-5543-80b9-6da4abc3d7d4}}
 
-The name means "of good speech" or "of good omen" (εὖ, "well" + φήμη, "utterance"). Euphemus is named only here; in Book 17 the Cicones have another leader, Mentes (17.73). An Argonaut of the same name, a son of Poseidon, appears in Pindar's fourth *Pythian*.
+The name means "of good speech" or "of good omen" (εὖ, "well" + φήμη, "utterance"). Euphemus is named only here; in *Iliad* 17 the Cicones have another leader, Mentes (17.73). An Argonaut of the same name, a son of Poseidon, appears in Pindar's fourth *Pythian*.

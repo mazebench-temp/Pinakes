@@ -14,9 +14,9 @@ passages:
 
 {{quote:c85422e7-fb25-5294-9d07-199abffb1184}}
 
-The words are Thersites', in the assembly of Book 2. He has railed at Agamemnon's greed, and he turns on the army for putting up with it: ὦ πέπονες, κάκʼ ἐλέγχεα, “weaklings, wretched disgraces”, and then the half-line that makes the men women (see [[my-dear]] and [[elenchos]]). Ἀχαιΐδες is the ordinary word for the women of Achaea, as when Achilles says that there are many Achaean women in Hellas and Phthia whom he could marry (9.395); here it is turned on the men. Thersites' conclusion is to go home and leave Agamemnon to his prizes (see [[thersites]] and [[odysseus-and-thersites]]).
+The words are Thersites', in the assembly of *Iliad* 2. He has railed at Agamemnon's greed, and he turns on the army for putting up with it: ὦ πέπονες, κάκʼ ἐλέγχεα, “weaklings, wretched disgraces”, and then the half-line that makes the men women (see [[my-dear]] and [[elenchos]]). Ἀχαιΐδες is the ordinary word for the women of Achaea, as when Achilles says that there are many Achaean women in Hellas and Phthia whom he could marry (9.395); here it is turned on the men. Thersites' conclusion is to go home and leave Agamemnon to his prizes (see [[thersites]] and [[odysseus-and-thersites]]).
 
-Menelaus says it again in Book 7, when Hector's challenge has been met with silence:
+Menelaus says it again in *Iliad* 7, when Hector's challenge has been met with silence:
 
 {{quote:0d8831f4-1695-5e50-bdc7-38d9c1166d00}}
 

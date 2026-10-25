@@ -3,7 +3,7 @@ title: Ichor
 greek: ἰχώρ
 kind: term
 tags: [body, fate, rare-word]
-summary: The fluid that flows in the gods instead of blood. Homer names it only in Book 5, when Diomedes wounds Aphrodite, and explains it there: the gods eat no bread and drink no wine, and so they are bloodless, and immortal.
+summary: The fluid that flows in the gods instead of blood. Homer names it only in *Iliad* 5, when Diomedes wounds Aphrodite, and explains it there: the gods eat no bread and drink no wine, and so they are bloodless, and immortal.
 aliases: [ichōr, ichor, immortal blood, the blood of the gods, anaimones, bloodless]
 grc: [ἰχώρ, ἰχῶ, ἀναίμονες, ἄμβροτον αἷμα]
 en: [ichor, bloodless, immortal blood]

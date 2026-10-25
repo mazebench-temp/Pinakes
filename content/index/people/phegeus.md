@@ -3,7 +3,7 @@ title: Phegeus
 greek: Φηγεύς
 kind: person
 tags: [trojan, warrior]
-summary: A son of the Trojan priest [[Dares]] and the first man Diomedes kills in Book 5. He throws first and misses, and Diomedes' spear strikes him in the chest and throws him from the chariot (5.9–19).
+summary: A son of the Trojan priest [[Dares]] and the first man Diomedes kills in *Iliad* 5. He throws first and misses, and Diomedes' spear strikes him in the chest and throws him from the chariot (5.9–19).
 grc: [Φηγεύς]
 refs: [5.12-14, 5.16-17, 5.19, 5.21, 5.27-28]
 relations:

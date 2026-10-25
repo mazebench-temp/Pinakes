@@ -21,7 +21,7 @@ passages:
 
 ἤπιος is “kind, gentle”. It is the word of the “soothing” drugs that a healer lays on a wound (ἤπια φάρμακα, 4.218, 11.830), of the kindness that Zeus tells Athena he means toward her, “and I want to be kind to you” (8.40 = 22.184), and of Patroclus, “a kind one”, in Achilles' words about the charioteer whom his horses mourn (23.281). Helen uses it twice in this speech. Priam was always kind, and at the end, after Hector's death, “there is no longer anyone else in wide Troy / who is kind to me or a friend, but all shudder at me” (24.774–775). Beside it she sets Hector's ἀγανοφροσύνη, “by your gentleness and your gentle words” (24.772; see [[helen]]).
 
-The point of likeness is a father's kindness to his child, shown by Priam to the woman over whom the war that has killed his sons was fought. The poem has shown that kindness in Book 3. Priam called her to sit beside him on the wall, “Come here, dear child, and sit in front of me”, and told her, “you are not to blame for anything in my eyes; it is the gods who are to blame” (3.162–164), and she answered, “You are one I respect, dear father-in-law, and one I fear” (3.172; see [[priam]] and [[the-view-from-the-wall]]).
+The point of likeness is a father's kindness to his child, shown by Priam to the woman over whom the war that has killed his sons was fought. The poem has shown that kindness in *Iliad* 3. Priam called her to sit beside him on the wall, “Come here, dear child, and sit in front of me”, and told her, “you are not to blame for anything in my eyes; it is the gods who are to blame” (3.162–164), and she answered, “You are one I respect, dear father-in-law, and one I fear” (3.172; see [[priam]] and [[the-view-from-the-wall]]).
 
 ## In context
 

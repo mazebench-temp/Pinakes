@@ -22,4 +22,4 @@ The formula introduces all three of Hera's speeches of deceit in the book: her r
 
 ## Outside Homer
 
-Hesiod uses the participle of Prometheus at Mecone. Prometheus divides an ox in two portions, Διὸς νόον ἐξαπαφίσκων, “seeking to deceive the mind of Zeus” (*Theogony* 537), in the words of Hera's plan in Book 14 (Διὸς νόον, 14.160; [[aegis-bearing]]). He offers Zeus the choice, speaking δολοφρονέων, and Zeus, whose counsels never perish, sees the trick (*Theogony* 535–551; [[prometheus]]).
+Hesiod uses the participle of Prometheus at Mecone. Prometheus divides an ox in two portions, Διὸς νόον ἐξαπαφίσκων, “seeking to deceive the mind of Zeus” (*Theogony* 537), in the words of Hera's plan in *Iliad* 14 (Διὸς νόον, 14.160; [[aegis-bearing]]). He offers Zeus the choice, speaking δολοφρονέων, and Zeus, whose counsels never perish, sees the trick (*Theogony* 535–551; [[prometheus]]).

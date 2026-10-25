@@ -3,7 +3,7 @@ title: Achilles and Odysseus in the Hippias Minor
 greek: ἁπλούστατος καὶ ἀληθέστατος
 kind: anecdote
 tags: [philosophy]
-summary: In Plato's Hippias Minor the sophist Hippias quotes Achilles' first words to Odysseus in Book 9 to prove that Homer made Achilles the simplest and truest of men and Odysseus a liar. Socrates answers that Achilles told Odysseus he would sail at dawn and told Ajax something else, and never sailed.
+summary: In Plato's Hippias Minor the sophist Hippias quotes Achilles' first words to Odysseus in *Iliad* 9 to prove that Homer made Achilles the simplest and truest of men and Odysseus a liar. Socrates answers that Achilles told Odysseus he would sail at dawn and told Ajax something else, and never sailed.
 source: Plato, Hippias Minor 363a–376c; Aristotle, Metaphysics 5.29, 1025a6–13
 of: [achilles, odysseus, truth-and-deception, the-embassy-to-achilles, plato]
 passages:
@@ -18,7 +18,7 @@ passages:
 
 **Plato's text.** Hippias' verses are not quite ours. For 9.310 he has ὥσπερ δὴ κρανέω τε καὶ ὡς τελέεσθαι ὀίω, “as I will bring it to pass and as I think it will be fulfilled”. He leaves out 9.311, and he ends with a verse that begins like 9.314 and ends like our 9.310, αὐτὰρ ἐγὼν ἐρέω, ὡς καὶ τετελεσμένον ἔσται, “but I will speak as it will in fact be accomplished”. Our 9.314 is a verse that Nestor speaks earlier in the book, at 9.103. Whether the differences come from Plato's text of Homer or from his memory cannot be told.
 
-**Socrates' answer.** Leaving Homer aside, “since one cannot ask him what he meant”, Socrates leads Hippias to agree that the man best able to tell the truth about numbers is also best able to lie about them: the true man and the false are the same (365c–369b). Then he turns back to the poem. Odysseus is nowhere seen lying, but Achilles is. Soon after his words against the man who hides one thing and says another, he tells Odysseus that he will sail home at dawn and reach Phthia on the third day (9.357–363), as he had told Agamemnon in Book 1, “Now I will go to Phthia” (1.169–171); yet he never prepares to launch his ships, “very nobly disregarding the truth” (369e–370e). Hippias replies that Achilles lies unwillingly, compelled by the army's misfortune to stay, while Odysseus lies willingly and by design. Socrates answers that Achilles was the cleverer deceiver, who told Ajax something else to Odysseus' face without Odysseus noticing:
+**Socrates' answer.** Leaving Homer aside, “since one cannot ask him what he meant”, Socrates leads Hippias to agree that the man best able to tell the truth about numbers is also best able to lie about them: the true man and the false are the same (365c–369b). Then he turns back to the poem. Odysseus is nowhere seen lying, but Achilles is. Soon after his words against the man who hides one thing and says another, he tells Odysseus that he will sail home at dawn and reach Phthia on the third day (9.357–363), as he had told Agamemnon in *Iliad* 1, “Now I will go to Phthia” (1.169–171); yet he never prepares to launch his ships, “very nobly disregarding the truth” (369e–370e). Hippias replies that Achilles lies unwillingly, compelled by the army's misfortune to stay, while Odysseus lies willingly and by design. Socrates answers that Achilles was the cleverer deceiver, who told Ajax something else to Odysseus' face without Odysseus noticing:
 
 {{quote:c183e4a7-f4b4-5dfe-9c2a-a3c083aef940}}
 

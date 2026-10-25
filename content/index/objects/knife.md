@@ -14,7 +14,7 @@ In Homer μάχαιρα is a knife, not a weapon of war; later Greek used the wo
 
 {{quote:51665e87-cf2d-5fef-8846-1aa289798cdf}}
 
-At the oath of Book 3 he cuts hair from the lambs' heads with it, and then their throats, “with the pitiless bronze” (3.292; see [[oath]], [[sheath]] and [[pitiless-bronze]]). The same two verses bring out the knife when he swears over a boar in Book 19 (19.252–253).
+At the oath of *Iliad* 3 he cuts hair from the lambs' heads with it, and then their throats, “with the pitiless bronze” (3.292; see [[oath]], [[sheath]] and [[pitiless-bronze]]). The same two verses bring out the knife when he swears over a boar in Book 19 (19.252–253).
 
 ## Elsewhere in Homer
 

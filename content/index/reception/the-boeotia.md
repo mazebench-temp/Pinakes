@@ -12,7 +12,7 @@ passages:
 
 {{quote:89029e76-400a-592e-a24d-1133cf487d61}}
 
-The episodes of the Iliad had names long before the poem was divided into twenty-four books. Herodotus quotes lines of our Book 6 as coming from "the Aristeia of Diomedes" (2.116). Aelian lists "the Catalogue of Ships" among the old titles of the episodes that rhapsodes performed separately (*Varia Historia* 13.14), and Thucydides already refers to Homer's "catalogue of ships" (1.10.4). The traditional titles of Book 2 are "the Dream" (Ὄνειρος) for its first part and "the Boeotia" (Βοιωτία) for the Catalogue, which is named after its first entry.
+The episodes of the Iliad had names long before the poem was divided into twenty-four books. Herodotus quotes lines of our Book 6 as coming from "the Aristeia of Diomedes" (2.116). Aelian lists "the Catalogue of Ships" among the old titles of the episodes that rhapsodes performed separately (*Varia Historia* 13.14), and Thucydides already refers to Homer's "catalogue of ships" (1.10.4). The traditional titles of *Iliad* 2 are "the Dream" (Ὄνειρος) for its first part and "the Boeotia" (Βοιωτία) for the Catalogue, which is named after its first entry.
 
 The Boeotian entry has more leaders and more towns than any other: five leaders (2.494–495) and twenty-nine towns. Its fifty ships carry 120 young men each (2.509–510), the largest crews the Catalogue records. Yet the Boeotians play a small part in the rest of the poem.
 

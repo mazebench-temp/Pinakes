@@ -3,7 +3,7 @@ title: Of the flashing band
 greek: αἰολομίτρης
 kind: epithet
 tags: [heroic-epithet, weapon, rare-word]
-summary: “With a flashing band,” an epithet found only once in Homer, of Oresbius, the last of the six men killed by Hector and Ares in Book 5.
+summary: “With a flashing band,” an epithet found only once in Homer, of Oresbius, the last of the six men killed by Hector and Ares in *Iliad* 5.
 aliases: [aiolomitres, with gleaming belt]
 grc: [αἰολομίτρην]
 en: [of the flashing band]

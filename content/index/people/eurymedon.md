@@ -18,7 +18,7 @@ relations:
 
 θεράπων (“attendant, squire”) is the word for the companion who serves a warrior and drives his chariot. When the Trojans advance, Agamemnon leaves his horses and his chariot with Eurymedon and goes through the ranks on foot, telling him again and again to keep the horses close for when weariness should take his limbs (4.226–231). The attendant of four lines is given a father and a grandfather.
 
-Εὐρυμέδων = εὐρύ (“widely”) + μέδων (“ruling”): “wide-ruling”, a lordly name for a servant, and a common one. Nestor's attendant in Books 8 and 11 is also a Eurymedon (8.114, 11.620), and nothing in the text makes them one man. In the Odyssey a Eurymedon was king of the Giants (Od. 7.58–59).
+Εὐρυμέδων = εὐρύ (“widely”) + μέδων (“ruling”): “wide-ruling”, a lordly name for a servant, and a common one. Nestor's attendant in *Iliad* 8 and 11 is also a Eurymedon (8.114, 11.620), and nothing in the text makes them one man. In the Odyssey a Eurymedon was king of the Giants (Od. 7.58–59).
 
 ## Outside Homer
 

@@ -3,7 +3,7 @@ title: Trojan Catalogue
 greek: Τρῶές τε διέκριθεν ἠδʼ ἐπίκουροι
 kind: formula
 tags: [trojan, warfare, digression]
-summary: The list of the Trojans and their allies that ends Book 2 (2.816–877): sixteen contingents under twenty-seven leaders, arranged outward from Troy, and without numbers. It is the Trojan counterpart of the Catalogue of Ships, and less than a quarter of its length.
+summary: The list of the Trojans and their allies that ends *Iliad* 2 (2.816–877): sixteen contingents under twenty-seven leaders, arranged outward from Troy, and without numbers. It is the Trojan counterpart of the Catalogue of Ships, and less than a quarter of its length.
 aliases: [Catalogue of the Trojans, Trojan catalogue, catalogue of the Trojan allies, Trojan Battle-Order]
 refs: [2.816, 2.819, 2.824, 2.828, 2.835, 2.840, 2.844, 2.846, 2.848, 2.851, 2.856, 2.858, 2.862, 2.864, 2.867, 2.876]
 passages:
@@ -57,9 +57,9 @@ Each line ends with a people from far away: the Paeonians (τηλόθεν, “fr
 
 The allies' many tongues are heard again when the armies meet. The Trojans come on with a clamor like cranes, the Achaeans in silence (3.1–9). In the next battle the Trojans' war cry is like the bleating of ewes, for they had no one speech or language, but their tongues were mixed, men called from many lands (4.433–438).
 
-Several of the allies named here matter later. Pandarus breaks the truce with his bow in Book 4. Sarpedon has a large part in Books 5, 12 and 16, and Glaucus meets Diomedes in Book 6. Rebuking Hector, Sarpedon says that he came from very far, for Lycia is far away, by the eddying Xanthus (τηλοῦ γὰρ Λυκίη Ξάνθῳ ἔπι δινήεντι, 5.478–479).
+Several of the allies named here matter later. Pandarus breaks the truce with his bow in *Iliad* 4. Sarpedon has a large part in Books 5, 12 and 16, and Glaucus meets Diomedes in Book 6. Rebuking Hector, Sarpedon says that he came from very far, for Lycia is far away, by the eddying Xanthus (τηλοῦ γὰρ Λυκίη Ξάνθῳ ἔπι δινήεντι, 5.478–479).
 
-The catalogue and the later narrative do not always agree. Pylaemenes, the Paphlagonian leader, is killed by Menelaus (5.576–579), yet he follows the body of his son Harpalion, weeping, in Book 13 (13.643–659). Ennomus the augur is still among Hector's allies in Book 17 (17.218), and neither his death nor that of the Carian leader “in the river” (2.860–861, 2.874–875) is told when Achilles fights in the river in Book 21. (An Ennomus is killed by Odysseus at 11.422, but he is not called an augur.)
+The catalogue and the later narrative do not always agree. Pylaemenes, the Paphlagonian leader, is killed by Menelaus (5.576–579), yet he follows the body of his son Harpalion, weeping, in *Iliad* 13 (13.643–659). Ennomus the augur is still among Hector's allies in Book 17 (17.218), and neither his death nor that of the Carian leader “in the river” (2.860–861, 2.874–875) is told when Achilles fights in the river in Book 21. (An Ennomus is killed by Odysseus at 11.422, but he is not called an augur.)
 
 ## Outside Homer
 

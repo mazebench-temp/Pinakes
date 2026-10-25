@@ -3,7 +3,7 @@ title: Orsilochus, son of Diocles
 greek: Ὀρσίλοχος
 kind: person
 tags: [achaean, warrior, messenia]
-summary: The twin brother of [[Crethon]], son of [[Diocles]] of Pherae, killed with him by Aeneas; his name echoes that of his grandfather [[Ortilochus]]. Not the Trojan Orsilochus whom Teucer kills in Book 8.
+summary: The twin brother of [[Crethon]], son of [[Diocles]] of Pherae, killed with him by Aeneas; his name echoes that of his grandfather [[Ortilochus]]. Not the Trojan Orsilochus whom Teucer kills in *Iliad* 8.
 aliases: [Orsilochus, Orsilokhos]
 # Ὀρσίλοχον at 8.274 is a Trojan killed by Teucer.
 grc: [Ὀρσίλοχον, Ὀρσίλοχος]

@@ -20,4 +20,4 @@ passages:
 
 **His house.** δαΐφρων, “wise-hearted”, is his epithet both times he is named in full (11.123, 11.138; see [[wise-hearted]]). His sons promise “many treasures lying in the house of Antimachus, / bronze and gold and iron worked with much toil” as their ransom (11.132–133), in nearly the words of the suppliant Adrastus (6.47–48; see [[adrastus-the-trojan]] and [[apoina]]). Agamemnon answers that the sons will pay for “your father's shameful insult” (λώβη, 11.142; see [[sons-of-antimachus]] and [[fathers-and-sons]]).
 
-In Book 12 Leonteus kills “the son of Antimachus”, Hippomachus (12.188–189; see [[leonteus]]). The poem does not say whether his father is this Antimachus.
+In *Iliad* 12 Leonteus kills “the son of Antimachus”, Hippomachus (12.188–189; see [[leonteus]]). The poem does not say whether his father is this Antimachus.

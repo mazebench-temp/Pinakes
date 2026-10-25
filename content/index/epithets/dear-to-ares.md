@@ -12,7 +12,7 @@ of: [achilles, menelaus, achaeans, meleager]
 
 ## Meaning
 
-ἀρηΐφιλος = Ἄρης (“Ares,” here as war itself) + φίλος (“dear”): “dear to Ares,” favored by the god of war. Homer uses it twenty-six times. It is Menelaus' standing epithet in the duel of Book 3 (ἀρηΐφιλος Μενέλαος), and it describes the Achaeans as a whole (ἀρηϊφίλων ὑπ’ Ἀχαιῶν). Compare [[dear-to-zeus]] (Διὶ φίλος), [[warlike]] (ἀρήϊος), and [[offshoot-of-ares]].
+ἀρηΐφιλος = Ἄρης (“Ares,” here as war itself) + φίλος (“dear”): “dear to Ares,” favored by the god of war. Homer uses it twenty-six times. It is Menelaus' standing epithet in the duel of *Iliad* 3 (ἀρηΐφιλος Μενέλαος), and it describes the Achaeans as a whole (ἀρηϊφίλων ὑπ’ Ἀχαιῶν). Compare [[dear-to-zeus]] (Διὶ φίλος), [[warlike]] (ἀρήϊος), and [[offshoot-of-ares]].
 
 ## Use
 

@@ -17,7 +17,7 @@ passages:
 
 ## Family
 
-Hector turns to Cebriones, “his brother, who was close by” (ἀδελφεὸν ἐγγὺς ἐόντα, 8.318). Book 16 names his birth: Κεβριόνην νόθον υἱὸν ἀγακλῆος Πριάμοιο, “Cebriones, the bastard son of famous Priam” (16.738; see [[nothos]] and [[sons-of-priam]]). His mother is not named. Priam's bastard sons fight beside their brothers, and some of them, like Cebriones, drive for them: Isus, “the bastard”, held the reins in the chariot in which his brother Antiphus rode when Agamemnon killed them both (11.101–104).
+Hector turns to Cebriones, “his brother, who was close by” (ἀδελφεὸν ἐγγὺς ἐόντα, 8.318). *Iliad* 16 names his birth: Κεβριόνην νόθον υἱὸν ἀγακλῆος Πριάμοιο, “Cebriones, the bastard son of famous Priam” (16.738; see [[nothos]] and [[sons-of-priam]]). His mother is not named. Priam's bastard sons fight beside their brothers, and some of them, like Cebriones, drive for them: Isus, “the bastard”, held the reins in the chariot in which his brother Antiphus rode when Agamemnon killed them both (11.101–104).
 
 ## Hector's charioteer
 

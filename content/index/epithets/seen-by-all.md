@@ -18,6 +18,6 @@ of: [spear]
 
 {{quote:22c2d59a-76a5-5375-9b6b-a6a5efe4bff4}}
 
-Ares recalls Book 5. There Athena put on the helmet of Hades “so that mighty Ares should not see her” (5.845), and when Diomedes thrust with his spear, “Pallas Athena drove it home” into Ares' flank (5.856–857; [[helmet-of-hades]], [[diomedes-wounds-ares]]). The spear was in full sight, and the hand that drove it was not: the epithet carries Ares' grievance. See [[ares]], [[athena]] and [[spear]].
+Ares recalls *Iliad* 5. There Athena put on the helmet of Hades “so that mighty Ares should not see her” (5.845), and when Diomedes thrust with his spear, “Pallas Athena drove it home” into Ares' flank (5.856–857; [[helmet-of-hades]], [[diomedes-wounds-ares]]). The spear was in full sight, and the hand that drove it was not: the epithet carries Ares' grievance. See [[ares]], [[athena]] and [[spear]].
 
 {{notes}}

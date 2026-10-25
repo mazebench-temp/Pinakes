@@ -30,7 +30,7 @@ The audience hears the message twice and knows the original, so every change is 
 
 ## Elsewhere in Homer
 
-The best-known choice is made in Book 9. Odysseus repeats Agamemnon's list of gifts to Achilles almost line for line (9.264–299, from 9.122–157), but he leaves out the king's last words, that Achilles should yield to him as the more kingly and the elder (9.158–161), and puts an appeal of his own in their place (9.300–306).
+The best-known choice is made in *Iliad* 9. Odysseus repeats Agamemnon's list of gifts to Achilles almost line for line (9.264–299, from 9.122–157), but he leaves out the king's last words, that Achilles should yield to him as the more kingly and the elder (9.158–161), and puts an appeal of his own in their place (9.300–306).
 
 ## Outside Homer
 

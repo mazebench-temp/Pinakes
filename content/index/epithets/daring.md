@@ -12,7 +12,7 @@ of: [thymos]
 
 ## Meaning
 
-τολμήεις is formed from τόλμα and τολμάω (“dare, endure”), from the root of τλῆναι (“endure, dare”): “daring, enduring.” Like τλήμων ([[enduring]]) it has both senses. Homer uses it twice, both times of the heart (θυμός; [[thymos]]). Nestor asks whether any man would trust “his own daring heart” and go among the Trojans (10.204–205). In the Odyssey the disguised Odysseus tells Eumaeus that he is used to blows and missiles: “my heart is enduring, since I have suffered many evils on the waves and in war” (τολμήεις μοι θυμός, Od. 17.283–285). The verb of the same family names Odysseus' heart in Book 10: “the heart in his breast was always daring” (θυμὸς ἐτόλμα, 10.232). Compare [[bold-hearted]] and [[much-enduring]].
+τολμήεις is formed from τόλμα and τολμάω (“dare, endure”), from the root of τλῆναι (“endure, dare”): “daring, enduring.” Like τλήμων ([[enduring]]) it has both senses. Homer uses it twice, both times of the heart (θυμός; [[thymos]]). Nestor asks whether any man would trust “his own daring heart” and go among the Trojans (10.204–205). In the Odyssey the disguised Odysseus tells Eumaeus that he is used to blows and missiles: “my heart is enduring, since I have suffered many evils on the waves and in war” (τολμήεις μοι θυμός, Od. 17.283–285). The verb of the same family names Odysseus' heart in *Iliad* 10: “the heart in his breast was always daring” (θυμὸς ἐτόλμα, 10.232). Compare [[bold-hearted]] and [[much-enduring]].
 
 ## Use
 

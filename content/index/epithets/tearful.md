@@ -16,7 +16,7 @@ of: [ares, polemos, andromache]
 
 ## Use
 
-Two speakers in Book 3 give war this epithet. Iris, in the likeness of Laodice, tells Helen that the armies “were bringing tearful Ares on one another” before the truce (3.132). Priam, calling Helen to sit beside him, says she is not to blame:
+Two speakers in *Iliad* 3 give war this epithet. Iris, in the likeness of Laodice, tells Helen that the armies “were bringing tearful Ares on one another” before the truce (3.132). Priam, calling Helen to sit beside him, says she is not to blame:
 
 {{quote:71eb3284-916b-501b-a634-01303f7cd625}}
 

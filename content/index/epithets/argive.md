@@ -12,7 +12,7 @@ of: [hera]
 
 ## Meaning
 
-Ἀργείη is the feminine of Ἀργεῖος, “of Argos, Argive.” The same adjective makes Helen “Argive Helen” ([[argive-helen]]), and there Argos has its widest sense, the Greek homeland set against Troy. With Hera it names her own city. Argos was the center of her cult, and her great sanctuary, the Heraion, stood across the plain toward Mycenae ([[argos]]). In Book 4 Hera herself names Argos first of the three cities dearest to her (4.51–52).
+Ἀργείη is the feminine of Ἀργεῖος, “of Argos, Argive.” The same adjective makes Helen “Argive Helen” ([[argive-helen]]), and there Argos has its widest sense, the Greek homeland set against Troy. With Hera it names her own city. Argos was the center of her cult, and her great sanctuary, the Heraion, stood across the plain toward Mycenae ([[argos]]). In *Iliad* 4 Hera herself names Argos first of the three cities dearest to her (4.51–52).
 
 Homer gives the epithet to Hera twice, both times in one whole verse: Ἥρη τʼ Ἀργείη καὶ Ἀλαλκομενηῒς Ἀθήνη, “Argive Hera and Athena of Alalcomenae” (4.8, Il. 5.908). The two goddesses who favor the Achaeans are named from two places of their worship ([[of-alalcomenae]]).
 
@@ -20,7 +20,7 @@ Homer gives the epithet to Hera twice, both times in one whole verse: Ἥρη τ
 
 {{quote:18f5310e-e5a9-548f-a0ae-e1d7df330f61}}
 
-Zeus opens the council of the gods by provoking Hera (4.5–6). Menelaus has two helpers among the goddesses, and Zeus names each by her title of place. But they “sit apart and look on,” while laughter-loving Aphrodite stays beside Paris and has just saved him (4.9–12; [[laughter-loving]], [[aphrodite-rescues-paris]]). The formal titles sharpen the jibe. Hera's answer turns on the same city: to have Troy destroyed, she offers Zeus Argos, Sparta and Mycenae, to sack whenever he likes (4.51–54; [[the-bargain-of-zeus-and-hera]]). The goddess named from Argos gives up Argos. The verse returns at the end of Book 5, when the two goddesses go back to Olympus together, having stopped Ares from his killing (Il. 5.907–909).
+Zeus opens the council of the gods by provoking Hera (4.5–6). Menelaus has two helpers among the goddesses, and Zeus names each by her title of place. But they “sit apart and look on,” while laughter-loving Aphrodite stays beside Paris and has just saved him (4.9–12; [[laughter-loving]], [[aphrodite-rescues-paris]]). The formal titles sharpen the jibe. Hera's answer turns on the same city: to have Troy destroyed, she offers Zeus Argos, Sparta and Mycenae, to sack whenever he likes (4.51–54; [[the-bargain-of-zeus-and-hera]]). The goddess named from Argos gives up Argos. The verse returns at the end of *Iliad* 5, when the two goddesses go back to Olympus together, having stopped Ares from his killing (Il. 5.907–909).
 
 ## Outside Homer
 

@@ -21,7 +21,7 @@ Hera has won Sleep's help with the promise of one of the younger Graces, Pasithe
 
 Sleep has reason to stay out of sight. Once before he lulled Zeus to sleep for Hera, so that she could drive Heracles over the sea to Cos, and Zeus woke in a rage, flung the gods about his house and looked for Sleep above all, and would have thrown him from the upper air into the sea had Night not saved him (14.249–262; see [[hera-drives-heracles-to-cos]]). In the fir he waits unseen until the god is asleep, and then goes running to the ships to tell Poseidon (14.354–360).
 
-ὄρνιθι … ἐναλίγκιος, “like a bird”: whether Sleep takes the shape of the bird or only sits in the branches as such a bird would, the poem leaves open. The same question is asked of Athena and Apollo, who sit on the oak of Zeus “like birds, like vultures” to watch the duel of Book 7 (7.58–61; see [[like-vultures]]). Elsewhere gods plainly go in the shape of birds, as when Athena leaves Nestor's company at Pylos in the likeness of a bird of prey, and all who see it are amazed (*Odyssey* 3.371–372).
+ὄρνιθι … ἐναλίγκιος, “like a bird”: whether Sleep takes the shape of the bird or only sits in the branches as such a bird would, the poem leaves open. The same question is asked of Athena and Apollo, who sit on the oak of Zeus “like birds, like vultures” to watch the duel of *Iliad* 7 (7.58–61; see [[like-vultures]]). Elsewhere gods plainly go in the shape of birds, as when Athena leaves Nestor's company at Pylos in the likeness of a bird of prey, and all who see it are amazed (*Odyssey* 3.371–372).
 
 ## Outside Homer
 

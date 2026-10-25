@@ -18,4 +18,4 @@ Homer uses it only of Hermes, eighteen times, almost always in the line-end form
 
 ## Use
 
-In Book 2 the epithet comes once, in the list of the scepter's owners: Zeus gave it “to the guide, the slayer of Argus” ({{ref:Iliad 2.103}}). Hermes is the link between the gods and the first mortal owner, Pelops. It is fitting that the go-between of the gods should be the one who hands the emblem of kingship to men ([[argeiphontes]], [[the-scepter-of-agamemnon]]).
+In *Iliad* 2 the epithet comes once, in the list of the scepter's owners: Zeus gave it “to the guide, the slayer of Argus” ({{ref:Iliad 2.103}}). Hermes is the link between the gods and the first mortal owner, Pelops. It is fitting that the go-between of the gods should be the one who hands the emblem of kingship to men ([[argeiphontes]], [[the-scepter-of-agamemnon]]).

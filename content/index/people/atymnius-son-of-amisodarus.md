@@ -25,7 +25,7 @@ passages:
 
 **Sarpedon's men.** They were “brave companions of Sarpedon, / the spearmen sons of Amisodarus, who reared the Chimaera” (16.327–328; see [[sarpedon]], [[amisodarus]] and [[chimaera]]). Through their father the brothers belong to the story of Bellerophon, Sarpedon's grandfather, who killed the Chimaera in Lycia (6.179–183, 6.196–199; see [[bellerophon-in-lycia]]). A little later Sarpedon sees “his companions, who wear their tunics without the band, / brought down at the hands of Patroclus”, and goes out to meet him (16.419–420; see [[lycians]]).
 
-**The name.** Elsewhere in Homer Atymnius is only a father's name: Mydon, the charioteer of Pylaemenes, is “the brave son of Atymnius” (5.581; see [[atymnius]] and [[mydon]]). Antilochus kills both men, Mydon in Book 5 and this Atymnius here; the poem does not connect them.
+**The name.** Elsewhere in Homer Atymnius is only a father's name: Mydon, the charioteer of Pylaemenes, is “the brave son of Atymnius” (5.581; see [[atymnius]] and [[mydon]]). Antilochus kills both men, Mydon in *Iliad* 5 and this Atymnius here; the poem does not connect them.
 
 ## Outside Homer
 

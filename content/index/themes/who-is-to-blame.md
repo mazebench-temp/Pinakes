@@ -19,9 +19,9 @@ The vocabulary is the vocabulary of an accusation and of public opinion. The [[a
 
 ## Three answers
 
-**The man who acted.** Achilles tells the heralds who come for Briseis that they are not to blame, “but Agamemnon” (1.335), as the Trojans are not to blame toward him (1.153). In Book 2 Agamemnon himself admits it: “I was the first to grow angry” (2.378).
+**The man who acted.** Achilles tells the heralds who come for Briseis that they are not to blame, “but Agamemnon” (1.335), as the Trojans are not to blame toward him (1.153). In *Iliad* 2 Agamemnon himself admits it: “I was the first to grow angry” (2.378).
 
-**The gods.** In the same breath Agamemnon blames Zeus, who “throws me into fruitless strife and quarrels” (2.375–376). In Book 19 he goes further: “I am not to blame, / but Zeus and Fate and the Erinys who walks in darkness”, who put ἄτη into his mind (19.86–89). Priam tells Helen that she is not to blame; the gods are (3.164).
+**The gods.** In the same breath Agamemnon blames Zeus, who “throws me into fruitless strife and quarrels” (2.375–376). In *Iliad* 19 he goes further: “I am not to blame, / but Zeus and Fate and the Erinys who walks in darkness”, who put ἄτη into his mind (19.86–89). Priam tells Helen that she is not to blame; the gods are (3.164).
 
 **Oneself.** Helen blames herself. She wishes she had died before she followed Paris, and calls herself “dog-faced” (3.173–180); she calls herself a dog again before Hector (6.344, 6.356), and in her lament over him she wishes once more that she had died (24.764).
 
@@ -29,7 +29,7 @@ None of these answers cancels the others. A god's part in an act does not excuse
 
 ## The war
 
-The largest case is the war itself. Is it Paris, who took Helen from his host's house, or Helen, who went with him? Aphrodite, who gave her to him; the gods, who roused the war, as Priam says (3.164–165); or the Trojans, who keep her? Book 3 puts almost every answer into some character's mouth (see the note on Book 3). Later books add others. Helen speaks of “Alexander's ἄτη” (6.356); the narrator, in the only mention of the judgment of Paris, calls it Alexander's ἄτη too, “who insulted the goddesses” (24.28–30); and in the *Odyssey* Helen blames the ἄτη that Aphrodite gave her (*Odyssey* 4.261–264), while Penelope says that a god drove her to the deed (*Odyssey* 23.222–224).
+The largest case is the war itself. Is it Paris, who took Helen from his host's house, or Helen, who went with him? Aphrodite, who gave her to him; the gods, who roused the war, as Priam says (3.164–165); or the Trojans, who keep her? *Iliad* 3 puts almost every answer into some character's mouth (see the note on Book 3). Later books add others. Helen speaks of “Alexander's ἄτη” (6.356); the narrator, in the only mention of the judgment of Paris, calls it Alexander's ἄτη too, “who insulted the goddesses” (24.28–30); and in the *Odyssey* Helen blames the ἄτη that Aphrodite gave her (*Odyssey* 4.261–264), while Penelope says that a god drove her to the deed (*Odyssey* 23.222–224).
 
 {{notes}}
 
@@ -41,6 +41,6 @@ The largest case is the war itself. Is it Paris, who took Helen from his host's 
 
 [[Herodotus]] opens his history with the same question. The Persian chroniclers, he says, traced the enmity between Greeks and barbarians to a series of abductions, of Io, [[europa|Europa]], Medea and last Helen, and held that it was foolish to go to war over them, since “clearly they would not have been carried off if they had not wished it” (1.1–5, 1.4.2). Later he argues from what the Egyptian priests told him that the Trojans would have given Helen back if they had had her, whatever Alexander wanted (2.120; see [[helen-in-egypt]]).
 
-A dithyramb of Bacchylides tells the embassy that Antenor remembers in Book 3, and gives Menelaus a speech to the Trojans: Zeus, who sees all things, is not to blame (αἴτιος) for mortals' great sorrows; Insolence (Ὕβρις) is (Bacchylides 15; see [[bacchylides-embassy]]).
+A dithyramb of Bacchylides tells the embassy that Antenor remembers in *Iliad* 3, and gives Menelaus a speech to the Trojans: Zeus, who sees all things, is not to blame (αἴτιος) for mortals' great sorrows; Insolence (Ὕβρις) is (Bacchylides 15; see [[bacchylides-embassy]]).
 
 Gorgias' *Encomium of Helen* sets out to free her from the charge (αἰτία). Whether she went by the will of the gods and of Necessity, taken by force, persuaded by words or overcome by love, she is not to blame (2, 6; see [[gorgias-helen]]). In Euripides' *Trojan Women* Helen and Hecuba argue the case before Menelaus. Helen blames Hecuba, who bore Paris, Priam, who did not kill him as a child, and Aphrodite, to whom even Zeus is a slave; Hecuba answers that when Helen saw Paris, “your own mind became Aphrodite” (914–1032, the line at 988; see [[euripides-trojan-women]]).

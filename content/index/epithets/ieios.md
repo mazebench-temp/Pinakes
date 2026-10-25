@@ -16,7 +16,7 @@ of: [apollo]
 
 ## Use
 
-Both times the narrator turns from his story to speak to the god in the second person ([[apostrophe]]): when Apollo has thrown down the Achaean wall in Book 15, and in Book 20, when the gods who favor the Trojans sit on the brows of Callicolone around Apollo and Ares (20.151–152). See [[apollo]] and [[phoebus]].
+Both times the narrator turns from his story to speak to the god in the second person ([[apostrophe]]): when Apollo has thrown down the Achaean wall in *Iliad* 15, and in Book 20, when the gods who favor the Trojans sit on the brows of Callicolone around Apollo and Ares (20.151–152). See [[apollo]] and [[phoebus]].
 
 {{notes}}
 

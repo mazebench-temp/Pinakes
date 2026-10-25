@@ -22,7 +22,7 @@ passages:
 
 The tenor takes up the builder's verb: ὣς ἄραρον κόρυθές τε καὶ ἀσπίδες ὀμφαλόεσσαι, “so closely were the helmets and bossed shields fitted together” (16.214; see [[helmet]], [[shield]] and [[bossed]]). The verse before the simile has it too, στίχες ἄρθεν, “the ranks closed up” (16.211), so that the same verb is said three times in four verses, of the ranks, of the wall and of the armor. Walter Leaf notes that ἄραρον is intransitive here, like ἄρθεν, and that setting it beside the transitive ἀράρῃ of the simile, though perhaps harsh, “emphasizes the simile” (*Commentary on the Iliad*, 1900, on 16.214). The point of likeness is closeness. A wall of close-set stones lets nothing through, and the ranks are packed as tight as the stones.
 
-Three verses follow that are not part of the simile but finish its picture: ἀσπὶς ἄρʼ ἀσπίδʼ ἔρειδε, κόρυς κόρυν, ἀνέρα δʼ ἀνήρ, “Shield pressed on shield, helmet on helmet, man on man”, and the helmets with horsehair crests touched with their bright ridges when the men nodded, so close did they stand to one another (16.215–217; see [[horsehair-crested]] and [[neuo]]). Each thing is set against its like (see [[polyptoton]]). The three verses are those of Book 13, where the best of the Achaeans stood so around the two Ajaxes to await Hector (13.130–133; see [[battle-order]]). There they come without a simile; here the builder's wall comes first and the close ranks are its stones.
+Three verses follow that are not part of the simile but finish its picture: ἀσπὶς ἄρʼ ἀσπίδʼ ἔρειδε, κόρυς κόρυν, ἀνέρα δʼ ἀνήρ, “Shield pressed on shield, helmet on helmet, man on man”, and the helmets with horsehair crests touched with their bright ridges when the men nodded, so close did they stand to one another (16.215–217; see [[horsehair-crested]] and [[neuo]]). Each thing is set against its like (see [[polyptoton]]). The three verses are those of *Iliad* 13, where the best of the Achaeans stood so around the two Ajaxes to await Hector (13.130–133; see [[battle-order]]). There they come without a simile; here the builder's wall comes first and the close ranks are its stones.
 
 ## In context
 
@@ -36,4 +36,4 @@ The second verse of the simile returns in the funeral games, for Ajax and Odysse
 
 ## Outside Homer
 
-Virgil gives the clash of the Trojan and Latin lines the close ranks of the verse that follows the simile (16.215 = 13.131): *haeret pede pes densusque viro vir*, “foot clings to foot, and man close to man” (*Aeneid* 10.361; see the Book 13 note on [[virgil]]).
+Virgil gives the clash of the Trojan and Latin lines the close ranks of the verse that follows the simile (16.215 = 13.131): *haeret pede pes densusque viro vir*, “foot clings to foot, and man close to man” (*Aeneid* 10.361; see the *Iliad* 13 note on [[virgil]]).

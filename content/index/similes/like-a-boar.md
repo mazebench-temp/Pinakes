@@ -16,7 +16,7 @@ of: [idomeneus, ajax]
 
 The comparison is half a line and builds no scene. Its force is in the animal. The Homeric boar is the beast that does not run. Brought to bay by hunters and dogs, it bristles, whets its tusks and turns on them, and it can kill men and dogs before it dies. A lion in the similes is sometimes driven off by dogs and herdsmen; the boar waits for them. The point is steadiness: Idomeneus stands in front and holds.
 
-The line pairs the two Cretan leaders. The older man is in front among the champions, and the younger, his companion Meriones, drives on the rear (see [[meriones]]). In Book 13 Idomeneus is “half-gray” (μεσαιπόλιος, 13.361).
+The line pairs the two Cretan leaders. The older man is in front among the champions, and the younger, his companion Meriones, drives on the rear (see [[meriones]]). In *Iliad* 13 Idomeneus is “half-gray” (μεσαιπόλιος, 13.361).
 
 ## In context
 
@@ -26,6 +26,6 @@ After rebuking the men who hang back (see [[like-fawns]]), Agamemnon comes to th
 
 ## Elsewhere in Homer
 
-The boar is Idomeneus' animal. When Aeneas comes at him in Book 13, fear does not take him like a pampered child: he waits like a boar in the mountains “trusting in its strength” (ἀλκὶ πεποιθώς), that awaits a crowd of men coming at it in a lonely place, its back bristling and its eyes shining with fire, whetting its tusks to fight off dogs and men (13.470–477). ἀλκή is the word of both similes.
+The boar is Idomeneus' animal. When Aeneas comes at him in *Iliad* 13, fear does not take him like a pampered child: he waits like a boar in the mountains “trusting in its strength” (ἀλκὶ πεποιθώς), that awaits a crowd of men coming at it in a lonely place, its back bristling and its eyes shining with fire, whetting its tusks to fight off dogs and men (13.470–477). ἀλκή is the word of both similes.
 
 The half-line itself returns for Telamonian Ajax over the body of Patroclus. He goes through the champions “like a boar in courage”, and this time the boar is drawn in full: a wild boar that easily scatters the dogs and young men in the mountains (17.281–285). Other boars stand at bay. Odysseus, cut off by the Trojans, is like a boar that comes out of a thicket whetting its white tusk while dogs and young men close in around it (11.414–420), and the two Lapiths at the gate of the Achaean wall are like wild boars that meet the hunters and dogs in the mountains (12.146–152). Boar and lion are often paired. The Achaeans around Diomedes stand “like lions that eat raw flesh or wild boars, whose strength is no weakling's” (5.782–783), and Hector turns among his enemies like a boar or a lion among dogs and hunters (12.41–48). When Hector kills Patroclus, it is as a lion overcomes a tireless boar in a fight over a little spring (16.823–826).

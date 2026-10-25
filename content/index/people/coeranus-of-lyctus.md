@@ -26,4 +26,4 @@ A parenthesis tells why Idomeneus had need of him. He had left the ships on foot
 
 Meriones stoops to pick up the reins from the plain and tells Idomeneus to whip the horses to the ships, “you know yourself that the power is no longer with the Achaeans”, and Idomeneus flees in fear (17.620–625).
 
-Another Coeranus, a Lycian, is the first of the seven men whom Odysseus kills in Book 5 (5.677; see [[coeranus-of-lycia]]). The name is the common noun κοίρανος, “lord, commander” (see [[koiranos]]).
+Another Coeranus, a Lycian, is the first of the seven men whom Odysseus kills in *Iliad* 5 (5.677; see [[coeranus-of-lycia]]). The name is the common noun κοίρανος, “lord, commander” (see [[koiranos]]).

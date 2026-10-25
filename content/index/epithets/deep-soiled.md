@@ -20,4 +20,4 @@ of: [phthia, larisa, troy]
 
 The epithet carries Achilles' argument. Phthia is a land of fields and harvests, and the Trojans never raided it: they never drove off his cattle or horses, never ravaged his crops. Its fertility is what a raid would have threatened, and no one threatened it. The next epithet, [[nurse-of-men]], adds that the same land raises men.
 
-In Book 9 Achilles says that with a good voyage he could be home on the third day, in deep-soiled Phthia (Il. 9.363, Φθίην ἐρίβωλον).
+In *Iliad* 9 Achilles says that with a good voyage he could be home on the third day, in deep-soiled Phthia (Il. 9.363, Φθίην ἐρίβωλον).

@@ -15,7 +15,7 @@ except: [Rhetoric 1361b15, Rhetoric 1368a7, Rhetoric 1369a3, Rhetoric 1379a9, Rh
 
 ## Meaning
 
-βουλή is what one wills and plans. It is the noun of βούλομαι, “want, prefer”, and it covers a range from the will of a god to a piece of advice. It can mean a purpose or plan, counsel given in debate, or the council of elders that gives it: in Book 2 Agamemnon first seats a council (βουλή) of the elders by Nestor's ship (2.53). The verb βουλεύω means “plan, deliberate”, and βουληφόρος, “counsel-bearing”, is a title of leaders who advise.
+βουλή is what one wills and plans. It is the noun of βούλομαι, “want, prefer”, and it covers a range from the will of a god to a piece of advice. It can mean a purpose or plan, counsel given in debate, or the council of elders that gives it: in *Iliad* 2 Agamemnon first seats a council (βουλή) of the elders by Nestor's ship (2.53). The verb βουλεύω means “plan, deliberate”, and βουληφόρος, “counsel-bearing”, is a title of leaders who advise.
 
 βούλομαι in Homer often means “prefer, choose one thing rather than another”, with ἤ, “rather than”.
 

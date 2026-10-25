@@ -16,7 +16,7 @@ passages:
 
 ἀχλύς is a dark mist. In Homer it is nearly always a mist over the eyes, and it comes from two directions.
 
-**From death.** “And a mist was poured over his eyes” (κατὰ δʼ ὀφθαλμῶν κέχυτʼ ἀχλύς) is said of men at the point of death. In Book 5 it is said of Sarpedon, when his companions push the spear out of his thigh: “his soul left him, and a mist was poured over his eyes” (5.696). Then “he breathed again”, and the North Wind revived him (5.697–698). The same half-line is used of a Trojan killed by Meriones (16.344) and of the suitor Eurymachus as Odysseus' arrow kills him (*Odyssey* 22.88). It comes over Hector when he sees his brother Polydorus fall (20.421): grief does to the eyes what death does. See [[darkness-covered-his-eyes]].
+**From death.** “And a mist was poured over his eyes” (κατὰ δʼ ὀφθαλμῶν κέχυτʼ ἀχλύς) is said of men at the point of death. In *Iliad* 5 it is said of Sarpedon, when his companions push the spear out of his thigh: “his soul left him, and a mist was poured over his eyes” (5.696). Then “he breathed again”, and the North Wind revived him (5.697–698). The same half-line is used of a Trojan killed by Meriones (16.344) and of the suitor Eurymachus as Odysseus' arrow kills him (*Odyssey* 22.88). It comes over Hector when he sees his brother Polydorus fall (20.421): grief does to the eyes what death does. See [[darkness-covered-his-eyes]].
 
 **From the gods.** Athena answers Diomedes' prayer by giving him strength, and something more:
 

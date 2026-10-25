@@ -12,8 +12,8 @@ Proclus was born at Constantinople to a family from Xanthus in Lycia, studied at
 Whether he wrote the *Chrestomathy*, the handbook whose summaries of the lost poems of the Epic Cycle survive, is disputed (see [[proclus]]).
 
 - The golden chain of beings, from Zeus' golden rope: [[homers-golden-chain]].
-- Zeus' rank above Poseidon, from "but Zeus was born first and knew more" (13.355): [[poseidon-rallies-the-achaeans]] and the Book 13 note.
-- The union of Zeus and Hera on Ida, defended against Plato as theology (*On the Republic* I 132–140 Kroll): [[plato-zeus-deceived]] and the Book 14 note.
-- Hera hung with two anvils at her feet, the air above the two heaviest elements (*On the Cratylus* 170), the three Zeuses of the division by lot (*On the Cratylus* 148) and the eternal lots of the gods (*On the Timaeus* I 136, 141 Diehl): [[hera-hung-from-the-sky]], [[the-lots-of-the-three-brothers]] and the Book 15 note.
-- The soul of Patroclus loath to leave the body, and Zeus' lament for Sarpedon, against Plato's censures (*On the Republic* I 118–126 Kroll), and ἀΐσθων at 16.468 (*On the Timaeus* III 331 Diehl): [[plato-the-terrors-of-hades]], [[plato-laments-of-gods-and-heroes]] and the Book 16 note.
+- Zeus' rank above Poseidon, from "but Zeus was born first and knew more" (13.355): [[poseidon-rallies-the-achaeans]] and the *Iliad* 13 note.
+- The union of Zeus and Hera on Ida, defended against Plato as theology (*On the Republic* I 132–140 Kroll): [[plato-zeus-deceived]] and the *Iliad* 14 note.
+- Hera hung with two anvils at her feet, the air above the two heaviest elements (*On the Cratylus* 170), the three Zeuses of the division by lot (*On the Cratylus* 148) and the eternal lots of the gods (*On the Timaeus* I 136, 141 Diehl): [[hera-hung-from-the-sky]], [[the-lots-of-the-three-brothers]] and the *Iliad* 15 note.
+- The soul of Patroclus loath to leave the body, and Zeus' lament for Sarpedon, against Plato's censures (*On the Republic* I 118–126 Kroll), and ἀΐσθων at 16.468 (*On the Timaeus* III 331 Diehl): [[plato-the-terrors-of-hades]], [[plato-laments-of-gods-and-heroes]] and the *Iliad* 16 note.
 - Achilles' dragging of Hector around the tomb of Patroclus, defended against Plato as a Thessalian custom and as the penalty for Hector's design on the body of Patroclus (*On the Republic* I 150–151 Kroll): [[the-dragging-of-hector-defended]].

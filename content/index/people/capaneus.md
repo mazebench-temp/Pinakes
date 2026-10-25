@@ -11,7 +11,7 @@ relations:
 
 {{quote:35f5711c-53f2-58a3-9683-9adf696e7386}}
 
-ἀγακλειτός "famous, glorious" = ἀγα- (very) + κλειτός (renowned). Homer names him only as the father of [[Sthenelus]] (2.564, 4.367, 5.109, 5.319). In Book 4 Sthenelus says that the fathers who attacked Thebes “perished through their own recklessness” (4.409), while their sons took the city. Homer does not tell how Capaneus died.
+ἀγακλειτός "famous, glorious" = ἀγα- (very) + κλειτός (renowned). Homer names him only as the father of [[Sthenelus]] (2.564, 4.367, 5.109, 5.319). In *Iliad* 4 Sthenelus says that the fathers who attacked Thebes “perished through their own recklessness” (4.409), while their sons took the city. Homer does not tell how Capaneus died.
 
 ## Outside Homer
 

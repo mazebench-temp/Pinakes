@@ -20,7 +20,7 @@ The translation renders both “proud.”
 
 ## Use
 
-Both words appear once in Book 2. After Thersites has been beaten, the soldiers laugh: “Surely his proud spirit will never drive him again to rail at the kings with abusive words” ({{ref:Iliad 2.276-277}}). The heroic formula, used of the ugliest man at Troy, is mockery ([[odysseus-and-thersites]]).
+Both words appear once in *Iliad* 2. After Thersites has been beaten, the soldiers laugh: “Surely his proud spirit will never drive him again to rail at the kings with abusive words” ({{ref:Iliad 2.276-277}}). The heroic formula, used of the ugliest man at Troy, is mockery ([[odysseus-and-thersites]]).
 
 In the Catalogue Tlepolemus brings nine ships from Rhodes, “of the proud Rhodians”:
 

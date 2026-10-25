@@ -20,4 +20,4 @@ The phrase has drawn much comment. W. E. Gladstone (*Studies on Homer and the Ho
 
 {{quote:4dfff20e-2a16-553c-b456-a32d9b85d1a6}}
 
-The only wine-dark sea in Book 2 is the one the Arcadians could not cross alone. Theirs is an inland country, “beneath the steep mountain of Cyllene” ([[steep]]), and its men “cared nothing for the works of the sea,” so Agamemnon gave them well-benched ships ([[well-benched]]) to cross it. The formula ἐπὶ οἴνοπα πόντον is the traveler's phrase: it recurs in the Iliad when Hector imagines a man of later times sailing past a hero's tomb (Il. 7.88), and often in the voyages of the Odyssey.
+The only wine-dark sea in *Iliad* 2 is the one the Arcadians could not cross alone. Theirs is an inland country, “beneath the steep mountain of Cyllene” ([[steep]]), and its men “cared nothing for the works of the sea,” so Agamemnon gave them well-benched ships ([[well-benched]]) to cross it. The formula ἐπὶ οἴνοπα πόντον is the traveler's phrase: it recurs in the Iliad when Hector imagines a man of later times sailing past a hero's tomb (Il. 7.88), and often in the voyages of the Odyssey.

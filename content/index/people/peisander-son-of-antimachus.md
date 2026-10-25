@@ -3,7 +3,7 @@ title: Peisander, son of Antimachus
 greek: Πείσανδρος
 kind: person
 tags: [trojan, warrior, supplication]
-summary: A Trojan, son of [[Antimachus]], who begs Agamemnon with his brother [[hippolochus-son-of-antimachus|Hippolochus]] to take them alive for ransom, and is speared from the chariot for his father's sake (11.122–144). Not the Trojan Peisander whom Menelaus kills in Book 13, nor the Myrmidon of Book 16.
+summary: A Trojan, son of [[Antimachus]], who begs Agamemnon with his brother [[hippolochus-son-of-antimachus|Hippolochus]] to take them alive for ransom, and is speared from the chariot for his father's sake (11.122–144). Not the Trojan Peisander whom Menelaus kills in *Iliad* 13, nor the Myrmidon of Book 16.
 aliases: [Peisandros, Pisander]
 # Other Peisanders: a Trojan killed by Menelaus (Πείσανδρος 13.601, 13.606; Πεισάνδρῳ 13.611), a Myrmidon
 # leader (Πείσανδρος 16.193), and the suitor of the Odyssey (Πεισάνδροιο Od. 18.299; Πείσανδρον Od. 22.268,

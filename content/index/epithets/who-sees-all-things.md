@@ -18,4 +18,4 @@ of: [helios]
 
 {{quote:21e4284e-c1b5-5925-be78-6308bf3433a8}}
 
-Agamemnon calls on Zeus of Ida ([[who-rules-from-ida]]), on the Sun, on the rivers and the earth, and on the powers below who punish perjurers. The epithet says why the Sun is a witness: no false oath can be hidden from him. Menelaus had asked for a lamb for Earth and one for the Sun (3.103–104). In Book 19 Agamemnon swears again by Zeus, Earth, the Sun and the Erinyes (Il. 19.258–260). See [[helios]], [[oath]], [[the-oaths-sworn]].
+Agamemnon calls on Zeus of Ida ([[who-rules-from-ida]]), on the Sun, on the rivers and the earth, and on the powers below who punish perjurers. The epithet says why the Sun is a witness: no false oath can be hidden from him. Menelaus had asked for a lamb for Earth and one for the Sun (3.103–104). In *Iliad* 19 Agamemnon swears again by Zeus, Earth, the Sun and the Erinyes (Il. 19.258–260). See [[helios]], [[oath]], [[the-oaths-sworn]].

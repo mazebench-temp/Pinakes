@@ -3,7 +3,7 @@ title: Amphimachus
 greek: Ἀμφίμαχος
 kind: person
 tags: [achaean, warrior, elis]
-summary: Son of [[Cteatus]] and grandson of Actor, one of the four leaders of the [[Epeians]] (not the Carian Amphimachus). Hector kills him in Book 13, and Poseidon, his grandfather, is angered.
+summary: Son of [[Cteatus]] and grandson of Actor, one of the four leaders of the [[Epeians]] (not the Carian Amphimachus). Hector kills him in *Iliad* 13, and Poseidon, his grandfather, is angered.
 grc: [Ἀμφίμαχος]
 except: [2.870, 2.871]
 refs: [2.621]

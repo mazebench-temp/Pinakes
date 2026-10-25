@@ -12,7 +12,7 @@ of: [thracians]
 
 ## Meaning
 
-νέηλυς = νέος (“new”) + the stem ἐλυθ- of ἦλθον (“came”): “newly come.” Homer uses it twice, both times in Book 10 and both times in the plural, of the Thracians who have just reached Troy with their king Rhesus. Other Thracians are already among the Trojan allies in the Catalogue (2.844–845); these have come late and camp apart. Compare [[called-from-many-lands]], the epithet of the allies as a whole.
+νέηλυς = νέος (“new”) + the stem ἐλυθ- of ἦλθον (“came”): “newly come.” Homer uses it twice, both times in *Iliad* 10 and both times in the plural, of the Thracians who have just reached Troy with their king Rhesus. Other Thracians are already among the Trojan allies in the Catalogue (2.844–845); these have come late and camp apart. Compare [[called-from-many-lands]], the epithet of the allies as a whole.
 
 ## Use
 

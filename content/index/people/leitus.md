@@ -11,7 +11,7 @@ passages:
 
 {{quote:048f277c-3b7a-5164-9bb1-34b00e23fa0a}}
 
-Leitus is named second among the Boeotian commanders. The Catalogue gives only his name; his father appears in Book 17, where he is "the son of great-hearted Alectryon" (17.602; see [[alectryon]]).
+Leitus is named second among the Boeotian commanders. The Catalogue gives only his name; his father appears in *Iliad* 17, where he is "the son of great-hearted Alectryon" (17.602; see [[alectryon]]).
 
 ## Elsewhere in Homer
 

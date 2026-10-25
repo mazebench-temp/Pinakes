@@ -22,7 +22,7 @@ passages:
 
 {{quote:2e4e2a99-8ae7-569c-8435-96f25bbb32f9}}
 
-**From Percote to Priam's house.** The narrator stops before Hector's rebuke to give his history. The verses that bring him back to Ilios and to Priam's house were said of Imbrius, Priam's son-in-law, in Book 13 (15.549–551 = 13.174–176; see [[imbrius]] and [[priam]]): each lived away from the city until the Achaeans came, Melanippus with his cattle at Percote, Imbrius at Pedaeum (13.172; see [[percote]] and [[pedaeum]]). His father Hicetaon is Priam's brother (20.237–238; see [[hicetaon]]), so that he is Hector's first cousin, and so is Dolops, son of Lampus, whose death Hector holds up to him (15.553–555; see [[dolops-son-of-lampus]]).
+**From Percote to Priam's house.** The narrator stops before Hector's rebuke to give his history. The verses that bring him back to Ilios and to Priam's house were said of Imbrius, Priam's son-in-law, in *Iliad* 13 (15.549–551 = 13.174–176; see [[imbrius]] and [[priam]]): each lived away from the city until the Achaeans came, Melanippus with his cattle at Percote, Imbrius at Pedaeum (13.172; see [[percote]] and [[pedaeum]]). His father Hicetaon is Priam's brother (20.237–238; see [[hicetaon]]), so that he is Hector's first cousin, and so is Dolops, son of Lampus, whose death Hector holds up to him (15.553–555; see [[dolops-son-of-lampus]]).
 
 **Rebuked.** “Are we to hold back like this, Melanippus? Is your dear heart / not moved at all, now that your cousin is killed?” (15.553–554). They can no longer fight the Argives from a distance, Hector tells him, until either they kill them or the Argives take Ilios (15.556–558; see [[hector]]). He follows, “a man equal to the gods” (15.559).
 

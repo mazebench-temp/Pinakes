@@ -17,4 +17,4 @@ passages:
 
 **Three charges.** The Iliad remembers the day Achilles left Phthia three times, and each speaker gives Peleus the words his purpose needs: Odysseus the charge to keep the peace, Phoenix the charge to teach the boy speech and action (9.438–443; see [[speaker-of-words-doer-of-deeds]]), and Nestor, in Book 11, the charge “always to be the best and to excel above the others” (11.783–784; see [[always-to-be-the-best]]). Nestor's account, framed in the same verses as Odysseus' here, says that Odysseus was in Peleus' halls that day and heard the charges himself (11.765–790; see [[peleus-sends-achilles-to-troy]]).
 
-**Afterward.** Achilles does not answer the charge, and he does not forget his father. In Book 24 he weeps for Peleus with Priam, and says that he will not care for him in his old age (24.511, 24.538–542; see [[fathers-and-sons]] and [[peleus]]).
+**Afterward.** Achilles does not answer the charge, and he does not forget his father. In *Iliad* 24 he weeps for Peleus with Priam, and says that he will not care for him in his old age (24.511, 24.538–542; see [[fathers-and-sons]] and [[peleus]]).

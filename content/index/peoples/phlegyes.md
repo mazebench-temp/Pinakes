@@ -3,7 +3,7 @@ title: Phlegyes
 greek: Φλεγύαι
 kind: people
 tags: [mainland-greece, thessaly]
-summary: A people named once in Homer, “the great-hearted Phlegyes”, against whom Ares and his son Rout go out from Thrace in the simile of Book 13 (13.302). In later sources they are a violent people: the Homeric Hymn to Apollo sets their city by the Cephisian lake, and Strabo reports that the people of Gyrton in Thessaly were once called Phlegyae, after Phlegyas, the brother of Ixion.
+summary: A people named once in Homer, “the great-hearted Phlegyes”, against whom Ares and his son Rout go out from Thrace in the simile of *Iliad* 13 (13.302). In later sources they are a violent people: the Homeric Hymn to Apollo sets their city by the Cephisian lake, and Strabo reports that the people of Gyrton in Thessaly were once called Phlegyae, after Phlegyas, the brother of Ixion.
 aliases: [the Phlegyes, Phlegyae, Phlegyans]
 grc: [Φλεγύας]
 ---

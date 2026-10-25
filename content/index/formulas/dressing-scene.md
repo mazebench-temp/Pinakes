@@ -29,7 +29,7 @@ Walter Arend's *Die typischen Scenen bei Homer* (1933) is the classic study of H
 
 ## Elsewhere in Homer
 
-Book 10 has a run of night dressings. Agamemnon, unable to sleep, puts on his tunic and sandals, throws a lion's skin over his shoulders and takes a spear (Iliad 10.21–24). Nestor, woken by him, does the same with a crimson cloak (10.131–135).
+*Iliad* 10 has a run of night dressings. Agamemnon, unable to sleep, puts on his tunic and sandals, throws a lion's skin over his shoulders and takes a spear (Iliad 10.21–24). Nestor, woken by him, does the same with a crimson cloak (10.131–135).
 
 Hera, making herself beautiful to beguile Zeus, binds on her sandals in the same verse after she has bathed and anointed herself, braided her hair and put on robe, girdle, earrings and veil (14.170–186). Her veil is νηγάτεος, the rare word used of Agamemnon's tunic; it occurs only in these two scenes (2.43, 14.185). Her scene belongs to another type, the adornment of a goddess (see [[the-adornment-of-a-goddess]]).
 

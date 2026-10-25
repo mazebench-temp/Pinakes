@@ -18,4 +18,4 @@ The adjective occurs only in the dual ὠκυπέτα, in one verse: ὠκυπέ
 
 ## Use
 
-Zeus yokes the horses after he has forbidden the gods to fight and answered Athena (8.38–44). They carry him from Olympus to Ida “between earth and the starry sky” (8.46; [[starry]]), in the verse that described the flight of Hera's horses in Book 5 (5.769). Later in the day Hera and Athena set out from Olympus in their own chariot, and Zeus sends Iris to turn them back at its gates (8.389–437; [[chariot-journey]], [[storm-footed]]). See [[horses]] and [[zeus]].
+Zeus yokes the horses after he has forbidden the gods to fight and answered Athena (8.38–44). They carry him from Olympus to Ida “between earth and the starry sky” (8.46; [[starry]]), in the verse that described the flight of Hera's horses in *Iliad* 5 (5.769). Later in the day Hera and Athena set out from Olympus in their own chariot, and Zeus sends Iris to turn them back at its gates (8.389–437; [[chariot-journey]], [[storm-footed]]). See [[horses]] and [[zeus]].

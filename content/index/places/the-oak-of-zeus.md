@@ -26,7 +26,7 @@ The tree belongs to Zeus. It is “the beautiful oak of aegis-bearing Zeus” wh
 
 It stands where the plain meets the city. Hector reaches “the Scaean gates and the oak” on his way back from the battle (6.237), and the Trojans in flight halt there to wait for one another (11.170). Achilles measures his own absence by it: while he fought, Hector would not come out beyond “the Scaean gates and the oak” (9.352–355; see [[scaean-gates]]). In the last battle Apollo stands “leaning against the oak”, hidden in mist, to keep death from Agenor (21.549).
 
-In Book 5 it is a place of refuge for an ally: there Pelagon draws the spear from Sarpedon's thigh, and Sarpedon faints and revives (5.692–698; see [[sarpedon]] and [[pelagon-of-lycia]]).
+In *Iliad* 5 it is a place of refuge for an ally: there Pelagon draws the spear from Sarpedon's thigh, and Sarpedon faints and revives (5.692–698; see [[sarpedon]] and [[pelagon-of-lycia]]).
 
 ## Outside Homer
 

@@ -12,7 +12,7 @@ of: [olympians]
 
 ## Meaning
 
-Οὐρανίωνες is formed from οὐρανός (“sky, heaven”) with the suffix -ίων, which also forms patronymics (Κρονίων, [[son-of-cronus]]). It could mean either “the heavenly ones” or “the sons of Ouranos.” In Homer it normally names the Olympian gods. Once, in Book 5, it seems to mean the older gods whom Zeus imprisoned below the earth (Il. 5.898).
+Οὐρανίωνες is formed from οὐρανός (“sky, heaven”) with the suffix -ίων, which also forms patronymics (Κρονίων, [[son-of-cronus]]). It could mean either “the heavenly ones” or “the sons of Ouranos.” In Homer it normally names the Olympian gods. Once, in *Iliad* 5, it seems to mean the older gods whom Zeus imprisoned below the earth (Il. 5.898).
 
 ## Use
 

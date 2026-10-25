@@ -18,4 +18,4 @@ relations:
 
 He is the last of the six killed by Hector and Ares (5.703–707; see [[hector]] and [[ares]]), and the only one given a life: a home at Hyle, on the shore of “the Cephisian lake”, among other Boeotians in “a very rich land” (see [[hyle]], [[cephisian-lake]] and [[boeotians]]). He is the first man the poem names as a Boeotian among the dead.
 
-Book 5 often records the wealth of the dead. Dares, the father of Phegeus, is “wealthy” (5.9), distant kinsmen divide the wealth of Phaenops when his sons are killed (5.158), Diocles of Pherae is “wealthy in substance” (5.544), and Amphius of Paesus is “rich in possessions, rich in grainland” (5.613). Wealth saves none of them. See [[the-war-in-small]].
+*Iliad* 5 often records the wealth of the dead. Dares, the father of Phegeus, is “wealthy” (5.9), distant kinsmen divide the wealth of Phaenops when his sons are killed (5.158), Diocles of Pherae is “wealthy in substance” (5.544), and Amphius of Paesus is “rich in possessions, rich in grainland” (5.613). Wealth saves none of them. See [[the-war-in-small]].

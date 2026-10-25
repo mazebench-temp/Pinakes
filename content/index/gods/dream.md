@@ -3,7 +3,7 @@ title: Dream
 greek: Ὄνειρος
 kind: god
 tags: [personification, divination, divine-will]
-summary: The “baneful Dream” (οὖλος ὄνειρος) that [[Zeus]] sends to [[Agamemnon]] in the likeness of [[Nestor]], with the false promise that he can take Troy. Its errand sets the whole of Book 2 in motion.
+summary: The “baneful Dream” (οὖλος ὄνειρος) that [[Zeus]] sends to [[Agamemnon]] in the likeness of [[Nestor]], with the false promise that he can take Troy. Its errand sets the whole of *Iliad* 2 in motion.
 aliases: [Oneiros, baneful Dream, the Dream]
 grc: [ὄνειρον, ὄνειρε, ὄνειρος]
 en: [dream]
@@ -14,7 +14,7 @@ passages:
 
 ## Etymology
 
-ὄνειρος (“dream”) is the common Homeric word for a dream; [[onar|ὄναρ]] is its shorter twin. The Greek text prints it with a small letter, and Homer draws no sharp line between a dream and a dream-god. In Book 2 the Dream is a person. Zeus speaks to it, and it listens, goes, takes a shape, stands and talks, and flies away (2.71).
+ὄνειρος (“dream”) is the common Homeric word for a dream; [[onar|ὄναρ]] is its shorter twin. The Greek text prints it with a small letter, and Homer draws no sharp line between a dream and a dream-god. In *Iliad* 2 the Dream is a person. Zeus speaks to it, and it listens, goes, takes a shape, stands and talks, and flies away (2.71).
 
 ## Descriptions
 

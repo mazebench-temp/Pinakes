@@ -19,7 +19,7 @@ passages:
 
 ## In the poem
 
-The Catalogue seldom stops for a story. This one gives Aeneas the most distinguished birth of any Trojan leader, and it prepares for Book 5, where his mother carries him out of the battle (5.311–318), and Book 20, where the gods save him again because his line must survive (20.302–308). A goddess's love for a mortal is a painful theme in Homer. Thetis was married to Peleus against her will (18.432–434), and Calypso lists goddesses whose mortal lovers the gods destroyed (Odyssey 5.118–129).
+The Catalogue seldom stops for a story. This one gives Aeneas the most distinguished birth of any Trojan leader, and it prepares for *Iliad* 5, where his mother carries him out of the battle (5.311–318), and Book 20, where the gods save him again because his line must survive (20.302–308). A goddess's love for a mortal is a painful theme in Homer. Thetis was married to Peleus against her will (18.432–434), and Calypso lists goddesses whose mortal lovers the gods destroyed (Odyssey 5.118–129).
 
 ## Outside Homer
 

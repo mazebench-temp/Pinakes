@@ -12,7 +12,7 @@ of: [heracles]
 
 ## Meaning
 
-θρασυμέμνων joins θρασύς (“bold”) to a second element from the root of μένω (“stand fast, endure”), or perhaps of μέμονα (“be eager”): “bold and steadfast,” or “bold of purpose.” The analysis is not certain. The translation renders it “bold in endurance.” Homer uses it twice, both times of Heracles and both times in the same pair, θρασυμέμνονα θυμολέοντα: in Book 5 and when Odysseus sees Alcmene among the dead, who “bore Heracles, bold in endurance, lion-hearted, lying in the arms of great Zeus” (Od. 11.266–268). The same θρασ- is in θάρσος (“daring”; [[tharsos]]).
+θρασυμέμνων joins θρασύς (“bold”) to a second element from the root of μένω (“stand fast, endure”), or perhaps of μέμονα (“be eager”): “bold and steadfast,” or “bold of purpose.” The analysis is not certain. The translation renders it “bold in endurance.” Homer uses it twice, both times of Heracles and both times in the same pair, θρασυμέμνονα θυμολέοντα: in *Iliad* 5 and when Odysseus sees Alcmene among the dead, who “bore Heracles, bold in endurance, lion-hearted, lying in the arms of great Zeus” (Od. 11.266–268). The same θρασ- is in θάρσος (“daring”; [[tharsos]]).
 
 ## Use
 

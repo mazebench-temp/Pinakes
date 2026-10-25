@@ -16,4 +16,4 @@ of: [shield, mixing-bowl]
 
 ## Use
 
-Book 3 uses it three times. The herald Idaeus carries “a shining mixing bowl” down to the plain for the oath (3.247; [[mixing-bowl]]). Menelaus' spear passes “through the shining shield” of Paris (3.357; [[heavy-spear]]). And Helen, afraid of Aphrodite, wraps herself “in her shining white robe” to follow her to Paris' house (3.419; [[white]]).
+*Iliad* 3 uses it three times. The herald Idaeus carries “a shining mixing bowl” down to the plain for the oath (3.247; [[mixing-bowl]]). Menelaus' spear passes “through the shining shield” of Paris (3.357; [[heavy-spear]]). And Helen, afraid of Aphrodite, wraps herself “in her shining white robe” to follow her to Paris' house (3.419; [[white]]).

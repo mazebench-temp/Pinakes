@@ -24,7 +24,7 @@ The tenor: ὣς τῶν μισγομένων γένετο ἰαχή τε πόν
 
 The book has been moving toward this moment since the truce was broken. The two approaches were told apart: the Danaans silent like waves, the Trojans loud like ewes in a fold (4.422–438; see [[waves-on-the-shore]] and [[sheep-in-the-fold]]), with Ares rousing one side and Athena the other, and Terror, Rout and Strife among them (4.439–445; see [[strife]], [[terror]] and [[rout]]). Now they come “together into one place” (ἐς χῶρον ἕνα, 4.446), and the lines of the clash are made of joining words. σύν … σύν, “together”, dashes the shields, the spears and the fury of men together, and the bossed shields press against one another (4.447–449). Then the sounds: “cries of pain and cries of triumph together from men killing and being killed, and the earth ran with blood” (4.450–451). ὀλλύντων τε καὶ ὀλλυμένων, “killing and being killed”, sets the active and passive of one verb side by side (see [[polyptoton]] and [[the-armies-clash]]). The simile gathers all this into one sound.
 
-After it the poem turns to single men. “Antilochus was the first to kill a helmeted man of the Trojans” (4.457; see [[the-first-battle]] and [[like-a-tower]]). The six lines of the clash (4.446–451) are repeated word for word when the armies meet again in Book 8 (8.60–65).
+After it the poem turns to single men. “Antilochus was the first to kill a helmeted man of the Trojans” (4.457; see [[the-first-battle]] and [[like-a-tower]]). The six lines of the clash (4.446–451) are repeated word for word when the armies meet again in *Iliad* 8 (8.60–65).
 
 ## Elsewhere in Homer
 

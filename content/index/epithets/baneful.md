@@ -18,7 +18,7 @@ It must be kept apart from two words of the same sound: οὖλος “woolly, c
 
 ## Use
 
-The Dream is called οὖλος twice, three lines apart at the start of Book 2, and nowhere else in Homer:
+The Dream is called οὖλος twice, three lines apart at the start of *Iliad* 2, and nowhere else in Homer:
 
 {{quote:de36e79b-2678-5b3a-9b3c-c57b9c8f5849}}
 

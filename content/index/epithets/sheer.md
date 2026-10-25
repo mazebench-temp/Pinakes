@@ -17,4 +17,4 @@ en: [sheer]
 
 {{quote:fdbf2d94-5382-55d5-bfcb-835ec9315033}}
 
-The spring runs down a face of rock that nothing can climb ([[the-spring-of-dark-water]]). The simile gives Agamemnon's tears the steady, helpless fall of water down a cliff, and the same two verses describe Patroclus' tears in Book 16 (16.3–4). See [[agamemnon]].
+The spring runs down a face of rock that nothing can climb ([[the-spring-of-dark-water]]). The simile gives Agamemnon's tears the steady, helpless fall of water down a cliff, and the same two verses describe Patroclus' tears in *Iliad* 16 (16.3–4). See [[agamemnon]].

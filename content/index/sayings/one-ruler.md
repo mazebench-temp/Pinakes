@@ -17,7 +17,7 @@ Odysseus has taken Agamemnon's scepter and is turning the army back from the shi
 
 πολυκοιρανίη, “the rule of many lords”, is formed from πολύς, “many”, and [[koiranos|κοίρανος]], “ruler, lord”; Homer has the noun only here. The answer is one κοίρανος, one βασιλεύς ([[basileus]]), and the next line says where his authority comes from: the son of Cronus has given him “the scepter and the ordinances” (σκῆπτρόν τʼ ἠδὲ θέμιστας; see [[scepter]] and [[themis]]), “so that he may take counsel for them” ([[boule|βουλεύῃσι]]). Rule is a gift of Zeus, and its purpose is counsel for the people.
 
-The maxim is spoken with the king's own staff in Odysseus' hand and a blow just given (see [[scepter]]). It is also spoken in a camp full of kings. Every leader in the Catalogue is a βασιλεύς, and the quarrel of Book 1 was about how far one of them could command another. Odysseus claims for Agamemnon the undivided authority that Achilles has just refused him (see [[kingship-and-authority]]). Immediately afterward the army comes back to its seats, and [[Thersites]] shows that not everyone accepts it.
+The maxim is spoken with the king's own staff in Odysseus' hand and a blow just given (see [[scepter]]). It is also spoken in a camp full of kings. Every leader in the Catalogue is a βασιλεύς, and the quarrel of *Iliad* 1 was about how far one of them could command another. Odysseus claims for Agamemnon the undivided authority that Achilles has just refused him (see [[kingship-and-authority]]). Immediately afterward the army comes back to its seats, and [[Thersites]] shows that not everyone accepts it.
 
 ## Outside Homer
 

@@ -3,7 +3,7 @@ title: Fierce-hearted
 greek: κρατερόφρων
 kind: epithet
 tags: [heroic-epithet, mind]
-summary: “Strong of mind, fierce-hearted,” said of a wild beast in a simile of Book 10, of Heracles, and in the Odyssey of Odysseus and of Castor and Polydeuces.
+summary: “Strong of mind, fierce-hearted,” said of a wild beast in a simile of *Iliad* 10, of Heracles, and in the Odyssey of Odysseus and of Castor and Polydeuces.
 aliases: [kraterophron, stout-hearted, strong-minded]
 grc: [κρατερόφρον*]
 en: [fierce-hearted]

@@ -3,7 +3,7 @@ title: Shameless dog
 greek: κύον ἀδεές
 kind: epithet
 tags: [insult]
-summary: “Fearless dog,” an insult spoken by a woman to a woman: by Iris to Athena in Book 8, by Hera to Artemis in Book 21, and by Penelope to her maid Melantho in the Odyssey.
+summary: “Fearless dog,” an insult spoken by a woman to a woman: by Iris to Athena in *Iliad* 8, by Hera to Artemis in Book 21, and by Penelope to her maid Melantho in the Odyssey.
 aliases: [kyon adees, fearless dog]
 grc: [κύον ἀδεὲς]
 en: [shameless dog]

@@ -3,7 +3,7 @@ title: Blood-stained
 greek: μιαιφόνος
 kind: epithet
 tags: [divine-epithet, warfare, rare-word]
-summary: “Stained with slaughter,” an epithet of [[Ares]], used four times in Homer, three of them in Book 5.
+summary: “Stained with slaughter,” an epithet of [[Ares]], used four times in Homer, three of them in *Iliad* 5.
 aliases: [miaiphonos, bloodthirsty, murderous]
 grc: [μιαιφόνε, μιαιφόνος]
 en: [blood-stained]
@@ -20,4 +20,4 @@ In the vocative line the word is part of a list of names for the god's work, spo
 
 {{quote:756627de-f70b-5e11-9dea-ed8bbc272fe4}}
 
-The narrator gives him the epithet at the only moment in Book 5 when he is seen stripping a man he has killed ([[periphas]]). Athena, invisible in the helmet of Hades, is already beside Diomedes ([[helmet-of-hades]]), and a few lines later the god who is stained with other men's blood is wounded himself (5.855–859). In Book 21 he recalls that wound as he stabs at the aegis: Athena drove the spear at him herself “and tore through my fair skin” (Il. 21.396–398).
+The narrator gives him the epithet at the only moment in *Iliad* 5 when he is seen stripping a man he has killed ([[periphas]]). Athena, invisible in the helmet of Hades, is already beside Diomedes ([[helmet-of-hades]]), and a few lines later the god who is stained with other men's blood is wounded himself (5.855–859). In Book 21 he recalls that wound as he stabs at the aegis: Athena drove the spear at him herself “and tore through my fair skin” (Il. 21.396–398).

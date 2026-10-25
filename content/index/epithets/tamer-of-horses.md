@@ -18,7 +18,7 @@ of: [atreus, trojans, castor, antenor, diomedes]
 
 ## Use
 
-In Book 2 it names a king of the Achaeans and then the enemy. The Dream addresses Agamemnon as “son of wise-hearted Atreus, tamer of horses” ({{ref:Iliad 2.23}}; [[wise-hearted]]), and Agamemnon repeats the words ({{ref:Iliad 2.60}}). The whole half-line is formulaic: it serves for Tydeus in Book 4 (Il. 4.370) and for the Trojan Hippasus in Book 11 (Il. 11.450).
+In *Iliad* 2 it names a king of the Achaeans and then the enemy. The Dream addresses Agamemnon as “son of wise-hearted Atreus, tamer of horses” ({{ref:Iliad 2.23}}; [[wise-hearted]]), and Agamemnon repeats the words ({{ref:Iliad 2.60}}). The whole half-line is formulaic: it serves for Tydeus in Book 4 (Il. 4.370) and for the Trojan Hippasus in Book 11 (Il. 11.450).
 
 Thersites uses the Trojans' epithet as he mocks Agamemnon's greed for ransom:
 

@@ -3,7 +3,7 @@ title: Ophelestes the Paeonian
 greek: Ὀφελέστης
 kind: person
 tags: [trojan, warrior, paeonia]
-summary: A Paeonian, the last of the seven whom Achilles kills by the river after the fall of their leader Asteropaeus (21.210). Not [[ophelestes|Ophelestes]], the Trojan whom Teucer shoots in Book 8.
+summary: A Paeonian, the last of the seven whom Achilles kills by the river after the fall of their leader Asteropaeus (21.210). Not [[ophelestes|Ophelestes]], the Trojan whom Teucer shoots in *Iliad* 8.
 aliases: [Ophelestes of Paeonia]
 # Ὀφελέστην (21.210). The same word ends 8.274, Teucer's victim (ophelestes, which excepts 21.210), so 8.274 is
 # excepted here, for the Greek and for the English "Ophelestes".

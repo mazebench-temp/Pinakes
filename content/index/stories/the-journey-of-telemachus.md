@@ -26,7 +26,7 @@ Meanwhile the suitors learn that he has gone. Antinous takes twenty men to lie i
 
 **Why he goes.** Athena's purpose is double: that Telemachus may hear of his father's homecoming, and “that noble fame may be his among men” (*Odyssey* 1.94–95; see [[nostos]] and [[kleos]]). The news he brings home is Menelaus' report of what Proteus saw, and he tells it to his mother in the same verses (*Odyssey* 17.142–146, where 17.143–146 = 4.557–560, the verses Athena speaks in the second council, 5.14–17).
 
-**The two councils.** The journey fills the books between the two councils of the gods. When the gods sit again at the start of Book 5, Athena tells them that the suitors are waiting to kill Odysseus' son on his way home from Pylos and Lacedaemon, and Zeus bids her bring him home unharmed (*Odyssey* 5.18–20, 5.25–27; see [[the-council-of-the-gods]]).
+**The two councils.** The journey fills the books between the two councils of the gods. When the gods sit again at the start of *Odyssey* 5, Athena tells them that the suitors are waiting to kill Odysseus' son on his way home from Pylos and Lacedaemon, and Zeus bids her bring him home unharmed (*Odyssey* 5.18–20, 5.25–27; see [[the-council-of-the-gods]]).
 
 **Twenty oarsmen.** Athena bids Telemachus man his ship with twenty oarsmen (*Odyssey* 1.280), and Antinous asks the suitors for a swift ship and twenty companions to lie in wait for him, and chooses twenty of the best (*Odyssey* 4.669, 4.778).
 

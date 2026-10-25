@@ -31,9 +31,9 @@ Her own family was Phrygian. Apollo rouses Hector in the likeness of [[asius-son
 
 ## Elsewhere in Homer
 
-In Book 22 she begs Hector from the wall, holding up the breast that nursed him, and when he is dead and dragged she leads the Trojan women's lament (22.79–91, 22.405–436).
+In *Iliad* 22 she begs Hector from the wall, holding up the breast that nursed him, and when he is dead and dragged she leads the Trojan women's lament (22.79–91, 22.405–436).
 
-In Book 24 she tries to keep Priam from going to Achilles, whose liver she wishes she could eat, then brings him wine to pour to Zeus before he goes, and over Hector's body she speaks the second of the three laments (24.200–216, 24.283–305, 24.747–760; see [[bereaved-parents]], [[libation]] and [[the-laments-for-hector]]).
+In *Iliad* 24 she tries to keep Priam from going to Achilles, whose liver she wishes she could eat, then brings him wine to pour to Zeus before he goes, and over Hector's body she speaks the second of the three laments (24.200–216, 24.283–305, 24.747–760; see [[bereaved-parents]], [[libation]] and [[the-laments-for-hector]]).
 
 ## Outside Homer
 

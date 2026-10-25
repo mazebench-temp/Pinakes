@@ -3,7 +3,7 @@ title: Orsilochus the Trojan
 greek: Ὀρσίλοχος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, the first of the eight men whom Teucer shoots from under the shield of Ajax (8.274). Not [[orsilochus-son-of-diocles|Orsilochus, son of Diocles]], whom Aeneas kills in Book 5.
+summary: A Trojan, the first of the eight men whom Teucer shoots from under the shield of Ajax (8.274). Not [[orsilochus-son-of-diocles|Orsilochus, son of Diocles]], whom Aeneas kills in *Iliad* 5.
 aliases: [Orsilochus killed by Teucer]
 # Ὀρσίλοχον at 5.542 is the son of Diocles. Odysseus' Cretan Orsilochus, son of Idomeneus (Od. 13.260),
 # will need an except when the Odyssey is indexed.

@@ -3,7 +3,7 @@ title: Cayster
 greek: Καΰστριος
 kind: place
 tags: [maeonia]
-summary: A river of Lydia that reaches the sea at Ephesus. The flocks of geese, cranes and swans on its meadow give Book 2 one of its great similes for the Achaean army.
+summary: A river of Lydia that reaches the sea at Ephesus. The flocks of geese, cranes and swans on its meadow give *Iliad* 2 one of its great similes for the Achaean army.
 aliases: [Kaystros, Caystrus, Caÿster]
 grc: [Καϋστρ*]
 ---

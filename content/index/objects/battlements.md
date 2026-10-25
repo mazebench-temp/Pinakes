@@ -3,7 +3,7 @@ title: Battlements
 greek: ἐπάλξεις
 kind: object
 tags: [camp, warfare]
-summary: The breastworks along the top of a wall and its towers, behind which the defenders stand and fight. In Homer they are named on the Achaean wall in Book 12, with its copings (κρόσσαι) and the jutting buttresses that prop its towers, and once on the wall of Troy (22.3).
+summary: The breastworks along the top of a wall and its towers, behind which the defenders stand and fight. In Homer they are named on the Achaean wall in *Iliad* 12, with its copings (κρόσσαι) and the jutting buttresses that prop its towers, and once on the wall of Troy (22.3).
 aliases: [battlement, epalxis, epalxeis, parapets, copings, krossai, buttresses, props of the towers]
 # ἐπαλξ* catches ἐπάλξεις, ἔπαλξιν, ἐπάλξιος, ἐπάλξιες and, in Book 22, ἐπάλξεσιν; no other Homeric word begins so.
 # στῆλαι are grave pillars elsewhere (11.371) and ἔχματα the props of ships (14.410): claim the phrases only.
@@ -17,9 +17,9 @@ passages:
 
 ## Description
 
-ἔπαλξις is a defense, and usually connected with ἀλέξω, “ward off”. On a wall it is the breastwork along the top, behind which the defenders stand and over which they fight (12.263–264, 12.424–425). The Achaean wall has battlements along its length and on its towers (12.258, 12.430; see [[the-achaean-wall]]). They are named in Homer only in Book 12 and once on the wall of Troy, where the Trojans rest after the rout of Book 21 (22.3; see [[the-walls-of-troy]]).
+ἔπαλξις is a defense, and usually connected with ἀλέξω, “ward off”. On a wall it is the breastwork along the top, behind which the defenders stand and over which they fight (12.263–264, 12.424–425). The Achaean wall has battlements along its length and on its towers (12.258, 12.430; see [[the-achaean-wall]]). They are named in Homer only in *Iliad* 12 and once on the wall of Troy, where the Trojans rest after the rout of Book 21 (22.3; see [[the-walls-of-troy]]).
 
-**Copings.** κρόσσαι occur only in Book 12. The Trojans “tore at the copings of the towers” (12.258) and later “climbed onto the copings, holding their sharpened spears” (12.444). The word has been explained as copings, as battlements, or as courses of stone that project like steps; the related προκρόσσας describes ships drawn up on the beach in rows (14.35; see the translation's note on 12.258–260, 12.444).
+**Copings.** κρόσσαι occur only in *Iliad* 12. The Trojans “tore at the copings of the towers” (12.258) and later “climbed onto the copings, holding their sharpened spears” (12.444). The word has been explained as copings, as battlements, or as courses of stone that project like steps; the related προκρόσσας describes ships drawn up on the beach in rows (14.35; see the translation's note on 12.258–260, 12.444).
 
 **Buttresses.** The Trojans also “pried at the jutting buttresses, which the Achaeans / had set first in the ground to be the props of the towers”, and dragged them out (12.259–261). στῆλαι are posts or pillars, the word for the pillar on a grave (11.371; see [[tomb]]); προβλῆτες, “jutting”, is said in the Odyssey of headlands (Od. 5.405, 10.89, 13.97). πρώτας has been taken as “first”, laid as the foundation, or as “in front” of the towers, and ἔχματα are props, as the stones that propped the ships are ἔχματα νηῶν (14.410).
 

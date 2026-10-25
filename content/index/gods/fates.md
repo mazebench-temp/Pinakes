@@ -20,7 +20,7 @@ grc: ["^Μοῖραι", "^Μοῖρα"]
 
 Fate stands with the gods as an author of what befalls men. Agamemnon lays his folly on three powers, “but Zeus and Fate and the Erinys who walks in darkness” (19.87; see [[agamemnon]], [[erinyes]] and [[ate]]). The horse Xanthus tells Achilles that his day is near and that the horses will not be to blame, “but a great god and mighty Fate” (19.409–410; see [[xanthus-the-horse]] and [[mighty-fate]]). In the last book Apollo says that the Fates have given men an enduring heart, and Hecuba that mighty Fate spun Hector's death for him at his birth (24.49, 24.209–210).
 
-Spinning is the image of the allotment. Hecuba's verse, γιγνομένῳ ἐπένησε λίνῳ, “spun for him with her thread at his birth”, is said in Book 20 of αἶσα, the portion that Achilles will suffer hereafter (20.127–128; see [[aisa]]), and in the Odyssey of Odysseus, who at home will suffer whatever his αἶσα and the heavy spinners spun for him when his mother bore him (*Odyssey* 7.196–198). More often the spinners are the gods themselves (ἐπεκλώσαντο θεοί, 24.525; *Odyssey* 1.17, 3.208, 8.579).
+Spinning is the image of the allotment. Hecuba's verse, γιγνομένῳ ἐπένησε λίνῳ, “spun for him with her thread at his birth”, is said in *Iliad* 20 of αἶσα, the portion that Achilles will suffer hereafter (20.127–128; see [[aisa]]), and in the Odyssey of Odysseus, who at home will suffer whatever his αἶσα and the heavy spinners spun for him when his mother bore him (*Odyssey* 7.196–198). More often the spinners are the gods themselves (ἐπεκλώσαντο θεοί, 24.525; *Odyssey* 1.17, 3.208, 8.579).
 
 {{notes}}
 

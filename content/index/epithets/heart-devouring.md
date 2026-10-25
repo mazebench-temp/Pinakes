@@ -22,4 +22,4 @@ The first use is in the simile of Ajax's advance. He goes forth “as huge Ares 
 
 {{quote:7e48128d-5964-5456-a8ff-16c710799c78}}
 
-Strife and friendship (φιλότης; [[philotes]]) are set against each other in the two verses, joined by ἠμέν … ἠδʼ αὖτε, “both … and then.” The heart-devouring strife of the simile is the strife of all war; here it is the fight of two men who stop, exchange gifts and part (7.299–305). In Book 19 Achilles uses the same words of the quarrel that began the poem, which he now wishes had never happened (19.56–62). See [[parted-in-friendship]], [[the-duel-of-hector-and-ajax]] and [[tis-speech]].
+Strife and friendship (φιλότης; [[philotes]]) are set against each other in the two verses, joined by ἠμέν … ἠδʼ αὖτε, “both … and then.” The heart-devouring strife of the simile is the strife of all war; here it is the fight of two men who stop, exchange gifts and part (7.299–305). In *Iliad* 19 Achilles uses the same words of the quarrel that began the poem, which he now wishes had never happened (19.56–62). See [[parted-in-friendship]], [[the-duel-of-hector-and-ajax]] and [[tis-speech]].

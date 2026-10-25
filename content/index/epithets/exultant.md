@@ -12,7 +12,7 @@ of: [achaeans]
 
 ## Meaning
 
-ὑπερκύδας (genitive ὑπερκύδαντος) = ὑπέρ (“over, beyond”) + κῦδος (“glory, the radiance of success”; [[kydos]]): “glorious beyond measure,” or “exulting in glory.” In Homer it occurs only in one verse, spoken twice in Book 4 (4.66, 4.71). Whether it is plain praise or hints at pride cannot be decided from Homer; Hesiod's use points to pride (see Outside Homer). The translation's “exultant” leaves room for both.
+ὑπερκύδας (genitive ὑπερκύδαντος) = ὑπέρ (“over, beyond”) + κῦδος (“glory, the radiance of success”; [[kydos]]): “glorious beyond measure,” or “exulting in glory.” In Homer it occurs only in one verse, spoken twice in *Iliad* 4 (4.66, 4.71). Whether it is plain praise or hints at pride cannot be decided from Homer; Hesiod's use points to pride (see Outside Homer). The translation's “exultant” leaves room for both.
 
 ## Use
 

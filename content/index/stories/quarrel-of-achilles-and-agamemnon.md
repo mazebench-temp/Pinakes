@@ -5,7 +5,7 @@ kind: story
 period: iliad
 mode: narrated
 tags: [honor, anger, assembly]
-summary: The quarrel between Achilles and Agamemnon over Achilles' prize, the girl Briseis, which the proem dates as “the time when first the two of them stood apart in strife”. It breaks out in the assembly of Book 1, when Agamemnon, made to give up Chryseis, takes Briseis and Achilles withdraws from the war; Agamemnon's amends are refused in Book 9; and it ends in the assembly of Book 19, when Achilles renounces his wrath, and Agamemnon lays his act on the blind folly sent by Zeus and gives the gifts.
+summary: The quarrel between Achilles and Agamemnon over Achilles' prize, the girl Briseis, which the proem dates as “the time when first the two of them stood apart in strife”. It breaks out in the assembly of *Iliad* 1, when Agamemnon, made to give up Chryseis, takes Briseis and Achilles withdraws from the war; Agamemnon's amends are refused in Book 9; and it ends in the assembly of Book 19, when Achilles renounces his wrath, and Agamemnon lays his act on the blind folly sent by Zeus and gives the gifts.
 participants: [achilles, agamemnon, calchas, nestor, athena, odysseus, briseis, achaeans]
 passages:
   - 1.101-187 | The quarrel
@@ -31,7 +31,7 @@ The proem dates the whole poem from this quarrel. It unfolds in the assembly in 
 
 **Its course.** Achilles withdraws to his ships, and Thetis asks Zeus to honor him with the Achaeans' defeat (1.348–430, 1.488–530; see [[achilles-withdraws]] and [[thetis-supplicates-zeus]]). On the night after the second day of battle Agamemnon admits his blind folly and offers amends, and Achilles refuses them (see [[the-embassy-to-achilles]] and [[the-gifts-of-agamemnon]]). The defeat he asked for brings Patroclus into the battle in his armor, and Patroclus is killed (see [[the-death-of-patroclus]]). Then Achilles wishes that strife might perish from among gods and men, and lets his anger go (18.107–113).
 
-**Its end.** In the assembly of Book 19 Achilles renounces his wrath, and Agamemnon answers that not he was to blame but Zeus, Fate and the Erinys, who sent blind folly into his mind; he gives the gifts and swears that he never touched Briseis, and Achilles answers that Zeus must have wanted the death of many Achaeans (19.56–275; see [[the-renunciation-of-wrath]] and [[ate]]).
+**Its end.** In the assembly of *Iliad* 19 Achilles renounces his wrath, and Agamemnon answers that not he was to blame but Zeus, Fate and the Erinys, who sent blind folly into his mind; he gives the gifts and swears that he never touched Briseis, and Achilles answers that Zeus must have wanted the death of many Achaeans (19.56–275; see [[the-renunciation-of-wrath]] and [[ate]]).
 
 ## In the poem
 

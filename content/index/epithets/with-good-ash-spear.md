@@ -16,7 +16,7 @@ of: [priam]
 
 ## Use
 
-The whole verse is used twice in Book 4, with opposite meanings. Zeus uses it of the city he loved:
+The whole verse is used twice in *Iliad* 4, with opposite meanings. Zeus uses it of the city he loved:
 
 {{quote:0400527c-ca17-5edc-9e1a-5a8092362062}}
 
@@ -24,4 +24,4 @@ Agamemnon uses it of the city that will fall:
 
 {{quote:2f616469-d39c-5c58-b7ba-997c641df646}}
 
-The verse that named Troy's honor names its end ([[a-day-will-come]], [[troy]]). Hector speaks the same three lines to Andromache in Book 6, beginning as Agamemnon does, “For I know this well in my mind and in my heart” (4.163; Il. 6.447–449). The epithet praises the old king as a spearman when the poem foresees his fall ([[priam]]).
+The verse that named Troy's honor names its end ([[a-day-will-come]], [[troy]]). Hector speaks the same three lines to Andromache in *Iliad* 6, beginning as Agamemnon does, “For I know this well in my mind and in my heart” (4.163; Il. 6.447–449). The epithet praises the old king as a spearman when the poem foresees his fall ([[priam]]).

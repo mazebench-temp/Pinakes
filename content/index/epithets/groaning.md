@@ -20,4 +20,4 @@ The Odyssey gives it to the arrows in Odysseus' quiver (Od. 21.11–12, 21.59–
 
 {{quote:021a6920-1ffb-57a7-84b3-d4621df15565}}
 
-Nestor has persuaded Diomedes that Zeus' thunderbolt is a sign against them, and turns the horses (8.139–157). The Trojans pursue with the din and the missiles, and Hector shouts his taunt after Diomedes (8.160–166; [[wretched-doll]]). The half-verse and the verse that follows return in Book 15, when another man of Pylos, Nestor's son Antilochus, flees from the Trojans (15.585–590). See [[arrows]], [[nestor]] and [[diomedes]].
+Nestor has persuaded Diomedes that Zeus' thunderbolt is a sign against them, and turns the horses (8.139–157). The Trojans pursue with the din and the missiles, and Hector shouts his taunt after Diomedes (8.160–166; [[wretched-doll]]). The half-verse and the verse that follows return in *Iliad* 15, when another man of Pylos, Nestor's son Antilochus, flees from the Trojans (15.585–590). See [[arrows]], [[nestor]] and [[diomedes]].

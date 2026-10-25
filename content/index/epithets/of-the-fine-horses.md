@@ -18,4 +18,4 @@ of: [troy]
 
 {{quote:a8ac00c9-cd1e-5152-8526-580c1450ba04}}
 
-The twin sons of Diocles came from Pherae in Messenia to fight for the sons of Atreus, and Aeneas kills them both (5.541–560; [[crethon]], [[orsilochus-son-of-diocles]]). The epithet of the city comes in the verse that brings them there, two lines before their death. In Book 16 the same half-verse brings the Myrmidon Epeigeus to Troy, “to fight the Trojans,” just before Hector kills him with a stone (Il. 16.570–580).
+The twin sons of Diocles came from Pherae in Messenia to fight for the sons of Atreus, and Aeneas kills them both (5.541–560; [[crethon]], [[orsilochus-son-of-diocles]]). The epithet of the city comes in the verse that brings them there, two lines before their death. In *Iliad* 16 the same half-verse brings the Myrmidon Epeigeus to Troy, “to fight the Trojans,” just before Hector kills him with a stone (Il. 16.570–580).

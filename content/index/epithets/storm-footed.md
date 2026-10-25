@@ -14,7 +14,7 @@ of: [iris]
 
 ἀελλόπος = ἄελλα (“storm wind, squall”) + πούς (“foot”): “with feet like the storm.” ἄελλα is the gust that drives over the sea and whirls up the dust: the winter storms that keep a sailor penned in with his ship (2.292–294), the “whirling cloud of dust” that rises under the marching armies (ἀελλής, 3.13), and Hector, who falls on the battle “like a blustering storm wind” (11.297; ἶσος ἀέλλῃ again at 12.40). Iris has another epithet of the wind, ποδήνεμος, “wind-footed” ([[wind-footed]]).
 
-The epithet occurs only in one verse, ὣς ἔφατʼ, ὦρτο δὲ Ἶρις ἀελλόπος ἀγγελέουσα, “So he spoke, and storm-footed Iris rose to carry the message.” It closes Zeus' command and sends her off: here to Hera and Athena, and in Book 24 twice, first to bring Thetis up from the sea and then to tell Priam to ransom Hector (24.77, 24.159). See [[swift-iris]] and [[golden-winged]].
+The epithet occurs only in one verse, ὣς ἔφατʼ, ὦρτο δὲ Ἶρις ἀελλόπος ἀγγελέουσα, “So he spoke, and storm-footed Iris rose to carry the message.” It closes Zeus' command and sends her off: here to Hera and Athena, and in *Iliad* 24 twice, first to bring Thetis up from the sea and then to tell Priam to ransom Hector (24.77, 24.159). See [[swift-iris]] and [[golden-winged]].
 
 ## Use
 

@@ -17,4 +17,4 @@ of: [briseis, briseus]
 
 {{quote:3d9aa1fc-0f36-5531-a1eb-2eec5cf8ae7f}}
 
-In his account to Thetis, Achilles names the woman he has lost by her father, as the narrator does nowhere else in Book 1. The phrasing matches the other woman's story, told in the lines just before: Chryseis, daughter of Chryses, is being sent home to her father ({{ref:Iliad 1.389-390}}), while the daughter of Briseus is being led away from Achilles. One father regains his child; the other woman is passed from hand to hand.
+In his account to Thetis, Achilles names the woman he has lost by her father, as the narrator does nowhere else in *Iliad* 1. The phrasing matches the other woman's story, told in the lines just before: Chryseis, daughter of Chryses, is being sent home to her father ({{ref:Iliad 1.389-390}}), while the daughter of Briseus is being led away from Achilles. One father regains his child; the other woman is passed from hand to hand.

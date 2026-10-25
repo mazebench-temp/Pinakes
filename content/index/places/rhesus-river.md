@@ -16,7 +16,7 @@ passages:
 
 {{quote:baebab8e-cc03-5f75-83f4-4996f989a81d}}
 
-The Rhesus heads the list of the rivers that bring the Achaean wall to nothing (12.20; see [[the-achaean-wall]] and [[the-building-of-the-wall]]). It has the name of the Thracian king whom Diomedes kills in his sleep in Book 10, but the poem does not connect the two (see [[rhesus]]).
+The Rhesus heads the list of the rivers that bring the Achaean wall to nothing (12.20; see [[the-achaean-wall]] and [[the-building-of-the-wall]]). It has the name of the Thracian king whom Diomedes kills in his sleep in *Iliad* 10, but the poem does not connect the two (see [[rhesus]]).
 
 ## Outside Homer
 

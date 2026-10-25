@@ -18,4 +18,4 @@ of: [ajax]
 
 {{quote:7a36300d-342c-59c6-9f8f-a6b668b1f744}}
 
-Book 2 uses the formula twice, both times to measure the Locrian against the greater Ajax or the greater Ajax against Achilles. The Locrian Ajax is “the lesser Ajax, not so great as Telamonian Ajax” ({{ref:Iliad 2.528}}). And when the Muse is asked who was the best of the Achaeans, the answer is Telamonian Ajax, “while Achilles kept up his wrath” ([[best-of-the-achaeans]]).
+*Iliad* 2 uses the formula twice, both times to measure the Locrian against the greater Ajax or the greater Ajax against Achilles. The Locrian Ajax is “the lesser Ajax, not so great as Telamonian Ajax” ({{ref:Iliad 2.528}}). And when the Muse is asked who was the best of the Achaeans, the answer is Telamonian Ajax, “while Achilles kept up his wrath” ([[best-of-the-achaeans]]).

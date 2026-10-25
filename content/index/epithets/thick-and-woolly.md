@@ -18,4 +18,4 @@ of: [cloak]
 
 {{quote:8a953499-8276-5e06-8207-313312dd9caf}}
 
-Nestor fastens around him a crimson cloak, “double and wide, with a thick woolly nap upon it” (10.133–134; [[crimson]], [[double]], [[cloak]]). The verse ends with the half-verse that describes the head of Thersites in Book 2, with the adjective changed: there “a scant stubble sprouted on it” (ψεδνὴ δʼ ἐπενήνοθε λάχνη, 2.219), here the nap is thick. The cloak is the kind the Odyssey gives to honored guests, and Nestor wears it at night as he goes from hut to hut to wake the chiefs (10.136–158; [[nestor]]).
+Nestor fastens around him a crimson cloak, “double and wide, with a thick woolly nap upon it” (10.133–134; [[crimson]], [[double]], [[cloak]]). The verse ends with the half-verse that describes the head of Thersites in *Iliad* 2, with the adjective changed: there “a scant stubble sprouted on it” (ψεδνὴ δʼ ἐπενήνοθε λάχνη, 2.219), here the nap is thick. The cloak is the kind the Odyssey gives to honored guests, and Nestor wears it at night as he goes from hut to hut to wake the chiefs (10.136–158; [[nestor]]).

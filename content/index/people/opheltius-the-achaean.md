@@ -3,7 +3,7 @@ title: Opheltius the Achaean
 greek: Ὀφέλτιος
 kind: person
 tags: [achaean, warrior]
-summary: An Achaean, the fifth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan [[opheltius|Opheltius]] whom Euryalus kills in Book 6.
+summary: An Achaean, the fifth of the nine “leaders of the Danaans” whom Hector kills when Agamemnon has left the field (11.302). Not the Trojan [[opheltius|Opheltius]] whom Euryalus kills in *Iliad* 6.
 aliases: [Opheltios the Achaean]
 grc: [Ὀφέλτιον]
 # Ὀφέλτιον at 6.20 is the Trojan killed by Euryalus.

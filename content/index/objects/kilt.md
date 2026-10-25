@@ -3,7 +3,7 @@ title: Kilt
 greek: ζῶμα
 kind: object
 tags: [weapon]
-summary: The ζῶμα, “what is girded on”: in Book 4 part of Menelaus' armor, worn beneath the belt and rendered “kilt”, and elsewhere a boxer's loincloth. What the warrior's ζῶμα was is disputed.
+summary: The ζῶμα, “what is girded on”: in *Iliad* 4 part of Menelaus' armor, worn beneath the belt and rendered “kilt”, and elsewhere a boxer's loincloth. What the warrior's ζῶμα was is disputed.
 aliases: [zoma, zōma, apron, loincloth]
 grc: [ζῶμα]
 en: [kilt]

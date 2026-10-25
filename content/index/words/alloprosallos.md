@@ -14,7 +14,7 @@ passages:
 
 ## Meaning
 
-ἀλλοπρόσαλλος is built from ἄλλος, “other”, twice, with πρός, “to”, between: “to one and then to another”. Homer uses it twice, both times of Ares and both times near the end of Book 5.
+ἀλλοπρόσαλλος is built from ἄλλος, “other”, twice, with πρός, “to”, between: “to one and then to another”. Homer uses it twice, both times of Ares and both times near the end of *Iliad* 5.
 
 Athena uses it first, when she tells Diomedes to drive his horses straight at the god:
 

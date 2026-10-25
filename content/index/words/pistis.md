@@ -9,6 +9,6 @@ aliases: [pistis, pisteis, proof, proofs, means of persuasion, entechnos, atechn
 
 ## Meaning
 
-πίστις belongs to πείθω, “persuade”, and πέποιθα, “trust” (see [[peitho]]): it is trust, faith, a pledge given, and what produces belief. Homer has the adjective πιστός, “trusted, trusty”, and the “trusty oaths” (ὅρκια πιστά) of the truce in Book 3, but not the noun. In the orators πίστεις are the arguments and evidence of a speech, and Aristotle makes the word technical: a proof is whatever makes the hearer believe.
+πίστις belongs to πείθω, “persuade”, and πέποιθα, “trust” (see [[peitho]]): it is trust, faith, a pledge given, and what produces belief. Homer has the adjective πιστός, “trusted, trusty”, and the “trusty oaths” (ὅρκια πιστά) of the truce in *Iliad* 3, but not the noun. In the orators πίστεις are the arguments and evidence of a speech, and Aristotle makes the word technical: a proof is whatever makes the hearer believe.
 
 {{notes}}

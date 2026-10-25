@@ -18,4 +18,4 @@ of: [helmet, spear]
 
 {{quote:d6b20ea7-e357-594a-852e-2682753936bb}}
 
-Hector and Odysseus measure out the ground for the duel and shake the lots in a helmet to decide who throws first ([[lots]]). The same verse is used when lots are shaken for the archery contest at the funeral games of Patroclus (Il. 23.861). In Book 7 the lots for the duel with Hector are thrown into Agamemnon's helmet (Il. 7.175–176).
+Hector and Odysseus measure out the ground for the duel and shake the lots in a helmet to decide who throws first ([[lots]]). The same verse is used when lots are shaken for the archery contest at the funeral games of Patroclus (Il. 23.861). In *Iliad* 7 the lots for the duel with Hector are thrown into Agamemnon's helmet (Il. 7.175–176).

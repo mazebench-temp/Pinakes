@@ -13,4 +13,4 @@ The Achaean ships were drawn up on the beach stern first, with their bows to the
 
 {{quote:4dd5afa9-8033-5b4c-9ce6-7a90e33c200d}}
 
-The wish comes true in Book 15, when Hector reaches the ships, seizes the stern of Protesilaus' ship and calls for fire (Iliad 15.716–718). The [[stern-cables|stern-cables]] (πρυμνήσια) take their name from the stern.
+The wish comes true in *Iliad* 15, when Hector reaches the ships, seizes the stern of Protesilaus' ship and calls for fire (Iliad 15.716–718). The [[stern-cables|stern-cables]] (πρυμνήσια) take their name from the stern.

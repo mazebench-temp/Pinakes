@@ -18,4 +18,4 @@ of: [thracians]
 
 {{quote:faaba23f-3a21-5855-9503-2f01e20555a0}}
 
-The Thracians stand first in the list of northern peoples on whom Zeus turns his eyes, and their epithet names them by their herds, as the next peoples are named by what they drink (13.4–6; [[thracians]], [[thrace]], [[noble]], [[abii]]). In the night raid of Book 10 Dolon calls the horses of the Thracian king Rhesus the finest he has seen, “whiter than snow, and like the winds in running” (10.436–437; [[rhesus]]).
+The Thracians stand first in the list of northern peoples on whom Zeus turns his eyes, and their epithet names them by their herds, as the next peoples are named by what they drink (13.4–6; [[thracians]], [[thrace]], [[noble]], [[abii]]). In the night raid of *Iliad* 10 Dolon calls the horses of the Thracian king Rhesus the finest he has seen, “whiter than snow, and like the winds in running” (10.436–437; [[rhesus]]).

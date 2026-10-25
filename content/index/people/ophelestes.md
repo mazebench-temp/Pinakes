@@ -3,7 +3,7 @@ title: Ophelestes
 greek: Ὀφελέστης
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, the third of the eight men whom Teucer shoots from under the shield of Ajax (8.274). A Paeonian of the same name is killed by Achilles in Book 21.
+summary: A Trojan, the third of the eight men whom Teucer shoots from under the shield of Ajax (8.274). A Paeonian of the same name is killed by Achilles in *Iliad* 21.
 aliases: [Ophelestes the Trojan]
 grc: [Ὀφελέστην]
 # Ὀφελέστην at 21.210 is a Paeonian whom Achilles kills beside the river (ophelestes-the-paeonian).

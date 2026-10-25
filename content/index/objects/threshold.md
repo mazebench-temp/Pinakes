@@ -13,4 +13,4 @@ en: [threshold]
 
 {{quote:7fe8d317-d2cf-5ea1-baea-2cdf0dfce120}}
 
-Zeus uses the same phrase in Book 15, recalling how he would seize any god who tried to help Hera and hurl him “from the threshold” (τεταγὼν ἀπὸ βηλοῦ) until he reached the earth half dead (15.22–24; see [[hera-hung-from-the-sky]]). [[Plato]] banned the story from his ideal city (see [[plato-hephaestus-hurled]]).
+Zeus uses the same phrase in *Iliad* 15, recalling how he would seize any god who tried to help Hera and hurl him “from the threshold” (τεταγὼν ἀπὸ βηλοῦ) until he reached the earth half dead (15.22–24; see [[hera-hung-from-the-sky]]). [[Plato]] banned the story from his ideal city (see [[plato-hephaestus-hurled]]).

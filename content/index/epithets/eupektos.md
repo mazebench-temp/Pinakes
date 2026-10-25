@@ -18,4 +18,4 @@ of: [house, hut]
 
 {{quote:6fe13aea-71c8-5d38-89ce-9d0171ec9f1c}}
 
-Book 9 uses the word for the two dwellings set against each other in the offer and its refusal. Agamemnon has three daughters “in my well-built hall,” and Achilles may take the one he likes (9.144–147). At the end of the night Achilles sleeps “in the inner part of the well-built hut,” and beside him lies Diomede, the woman he brought from Lesbos (9.663–665; [[diomede]], [[hut]]). The same verse puts him to sleep beside Briseis after Priam's visit in Book 24 (24.675–676).
+*Iliad* 9 uses the word for the two dwellings set against each other in the offer and its refusal. Agamemnon has three daughters “in my well-built hall,” and Achilles may take the one he likes (9.144–147). At the end of the night Achilles sleeps “in the inner part of the well-built hut,” and beside him lies Diomede, the woman he brought from Lesbos (9.663–665; [[diomede]], [[hut]]). The same verse puts him to sleep beside Briseis after Priam's visit in Book 24 (24.675–676).

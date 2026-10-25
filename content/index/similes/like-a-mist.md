@@ -24,4 +24,4 @@ Twelve days later she rises again and goes up to Olympus ἠερίη ({{ref:Ilia
 
 ## Outside Book 1
 
-Book 1's three similes are all short. The long similes of the battle books build a whole scene beside the action, and the first of them begins with the same word, ἠΰτε: the Achaeans pour out to the assembly like swarms of bees (Iliad 2.87–93). Mist returns in such a simile. The dust of the advancing armies is like the mist the south wind spreads over the mountain peaks (Iliad 3.10–14).
+*Iliad* 1's three similes are all short. The long similes of the battle books build a whole scene beside the action, and the first of them begins with the same word, ἠΰτε: the Achaeans pour out to the assembly like swarms of bees (Iliad 2.87–93). Mist returns in such a simile. The dust of the advancing armies is like the mist the south wind spreads over the mountain peaks (Iliad 3.10–14).

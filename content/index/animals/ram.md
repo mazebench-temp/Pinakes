@@ -13,9 +13,9 @@ en: [ram]
 
 Rams are victims for the gods, often together with bulls. At Athens the young men propitiate Erechtheus with bulls and rams (2.550). Poseidon goes to the Ethiopians to receive a hecatomb “of bulls and rams” (Odyssey 1.25). Teiresias tells Odysseus to appease Poseidon with a ram, a bull and a boar (Odyssey 11.131, 23.278), and Circe tells him to offer a ram and a black ewe to the dead (Odyssey 10.524–527, 10.571–572).
 
-The ram as leader gives two similes. Priam, watching from the wall, sees Odysseus going along the ranks of seated men: “I liken him to a thick-fleeced ram that goes through a great flock of white sheep” (3.196–198; see [[ram-among-the-sheep]]). In Book 13 the Trojans follow Aeneas “as sheep follow the ram from the pasture to drink, and the shepherd is glad at heart” (13.491–494).
+The ram as leader gives two similes. Priam, watching from the wall, sees Odysseus going along the ranks of seated men: “I liken him to a thick-fleeced ram that goes through a great flock of white sheep” (3.196–198; see [[ram-among-the-sheep]]). In *Iliad* 13 the Trojans follow Aeneas “as sheep follow the ram from the pasture to drink, and the shepherd is glad at heart” (13.491–494).
 
-In the oath of Book 3 the victims are two lambs for Earth and the Sun, “a white ram and a black ewe”, as the translation has it (3.103). The Greek word there is ἄρνα, “lamb”; the male and the female are marked only by the adjectives (see [[lambs]]).
+In the oath of *Iliad* 3 the victims are two lambs for Earth and the Sun, “a white ram and a black ewe”, as the translation has it (3.103). The Greek word there is ἄρνα, “lamb”; the male and the female are marked only by the adjectives (see [[lambs]]).
 
 {{notes}}
 

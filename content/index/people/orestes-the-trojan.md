@@ -3,7 +3,7 @@ title: Orestes the Trojan
 greek: Ὀρέστης
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan who comes against the Achaean wall with [[Asius]] and is killed by the Lapith [[Leonteus]] at the left gate (12.139, 12.193). Not Agamemnon's son, nor the Achaean Orestes of Book 5.
+summary: A Trojan who comes against the Achaean wall with [[Asius]] and is killed by the Lapith [[Leonteus]] at the left gate (12.139, 12.193). Not Agamemnon's son, nor the Achaean Orestes of *Iliad* 5.
 aliases: [Orestes, Orestes companion of Asius]
 grc: [Ὀρέστην]
 # Ὀρέστην at 5.705 is the Achaean killed by Hector and Ares (orestes-the-achaean).

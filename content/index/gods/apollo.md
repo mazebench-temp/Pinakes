@@ -42,7 +42,7 @@ His mother, [[Leto]] "of the lovely hair" (ἠΰκομος)
 
 ## Descriptions
 
-No god in Book 1 has more titles. Most of them are about distance: Apollo strikes from far off, unseen.
+No god in *Iliad* 1 has more titles. Most of them are about distance: Apollo strikes from far off, unseen.
 
 {{quote:180e443d-8020-5d72-84c5-dc1c76ef8b43}}
 
@@ -66,4 +66,4 @@ No god in Book 1 has more titles. Most of them are about distance: Apollo strike
 
 The *Homeric Hymn to Apollo* tells of his birth on Delos and the founding of his oracle at Delphi. His arrows are also the ordinary Homeric explanation for sudden death in men, as Artemis' are for women (Odyssey 3.279–281, 11.172–173).
 
-The allegorist Heraclitus read the plague of Book 1 as a natural event, a pestilence brought by the heat of the sun, which he took Apollo to be. See [[allegory-of-apollo]].
+The allegorist Heraclitus read the plague of *Iliad* 1 as a natural event, a pestilence brought by the heat of the sun, which he took Apollo to be. See [[allegory-of-apollo]].

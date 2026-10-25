@@ -17,7 +17,7 @@ relations:
 
 {{quote:915a8bbc-80e3-5a16-9ff0-d4082a5abbf6}}
 
-Σκαμάνδριος is “of the Scamander”, the river of Troy (see [[scamander]]), as Simoeisius was named for the Simoeis, on whose banks he was born (4.474–477; see [[simoeisius]]). A Trojan hunter killed in Book 5 has the same name (see [[scamandrius]]). Ἀστυάναξ = ἄστυ (“town”) + ἄναξ (“lord”): “lord of the city”. The name is his father's glory, not his own, and the poet explains it: “for Hector alone was guarding Ilios” (6.403). When Hector is dead Andromache gives the same reason: the Trojans call him Astyanax, “for you alone guarded their gates and long walls” (22.506–507). Ἑκτορίδης, “son of Hector”, is a patronymic found only here (6.401).
+Σκαμάνδριος is “of the Scamander”, the river of Troy (see [[scamander]]), as Simoeisius was named for the Simoeis, on whose banks he was born (4.474–477; see [[simoeisius]]). A Trojan hunter killed in *Iliad* 5 has the same name (see [[scamandrius]]). Ἀστυάναξ = ἄστυ (“town”) + ἄναξ (“lord”): “lord of the city”. The name is his father's glory, not his own, and the poet explains it: “for Hector alone was guarding Ilios” (6.403). When Hector is dead Andromache gives the same reason: the Trojans call him Astyanax, “for you alone guarded their gates and long walls” (22.506–507). Ἑκτορίδης, “son of Hector”, is a patronymic found only here (6.401).
 
 ## Descriptions
 
@@ -27,9 +27,9 @@ He is “an infant of tender mind, quite small” (ἀταλάφρονα νήπ�
 
 ## Elsewhere in Homer
 
-Andromache's lament in Book 22 imagines his life as an orphan, robbed of his lands and driven from the feasts of his father's companions, he who once ate marrow on his father's knees (22.484–507; see [[the-day-of-orphanhood]]).
+Andromache's lament in *Iliad* 22 imagines his life as an orphan, robbed of his lands and driven from the feasts of his father's companions, he who once ate marrow on his father's knees (22.484–507; see [[the-day-of-orphanhood]]).
 
-In Book 24 she foresees that he will follow her into slavery, or that some Achaean will hurl him from the tower (24.726–739; see [[the-tower-of-ilios]]).
+In *Iliad* 24 she foresees that he will follow her into slavery, or that some Achaean will hurl him from the tower (24.726–739; see [[the-tower-of-ilios]]).
 
 ## Outside Homer
 

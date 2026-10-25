@@ -10,7 +10,7 @@ grc: [Πυθῶνά]
 
 {{quote:a9605d31-5afc-55e2-b5c7-8b957cbf257f}}
 
-πετρήεσσα "rocky" ([[rocky]]). The epithet returns in Book 9, where Achilles says that not “all that is shut within the stone threshold of the Archer, Phoebus Apollo, in rocky Pytho” would buy back a man's life (9.404–405). The name Delphi does not occur in Homer.
+πετρήεσσα "rocky" ([[rocky]]). The epithet returns in *Iliad* 9, where Achilles says that not “all that is shut within the stone threshold of the Archer, Phoebus Apollo, in rocky Pytho” would buy back a man's life (9.404–405). The name Delphi does not occur in Homer.
 
 The Odyssey knows the oracle. Agamemnon consulted Apollo at Pytho before the war and was told of a quarrel among the best of the Achaeans (Od. 8.79–82). The giant Tityus assaulted Leto as she went to Pytho "through Panopeus of the fair dancing places" (Od. 11.580–581).
 

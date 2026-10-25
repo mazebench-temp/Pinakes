@@ -22,7 +22,7 @@ The Odyssey gives the same lesson to Odysseus in the land of the dead. Three tim
 
 ## The other smoke
 
-The only other “like smoke” in Homer is also spoken by Achilles in his grief for Patroclus. In Book 18 he wishes that strife might perish from among gods and men, and anger, “which, far sweeter than dripping honey, / swells in the breasts of men like smoke” (18.107–110; see [[sweeter-than-honey]]). There the smoke rises and fills a man, the anger that kept Achilles from the war while Patroclus died; here it sinks away, the friend he cannot hold. Elsewhere smoke goes up from a besieged city to the sky, a likeness for the blaze about Achilles' head at the trench and for the sorrows he brings on the Trojans (18.207–214, 21.522–525; see [[smoke-from-a-burning-city]]), and Odysseus on Calypso's island longs only to see the smoke leaping up from his own land (*Odyssey* 1.57–59).
+The only other “like smoke” in Homer is also spoken by Achilles in his grief for Patroclus. In *Iliad* 18 he wishes that strife might perish from among gods and men, and anger, “which, far sweeter than dripping honey, / swells in the breasts of men like smoke” (18.107–110; see [[sweeter-than-honey]]). There the smoke rises and fills a man, the anger that kept Achilles from the war while Patroclus died; here it sinks away, the friend he cannot hold. Elsewhere smoke goes up from a besieged city to the sky, a likeness for the blaze about Achilles' head at the trench and for the sorrows he brings on the Trojans (18.207–214, 21.522–525; see [[smoke-from-a-burning-city]]), and Odysseus on Calypso's island longs only to see the smoke leaping up from his own land (*Odyssey* 1.57–59).
 
 ## Outside Homer
 

@@ -3,7 +3,7 @@ title: Heracles in the Hesiodic Shield
 greek: Θήβῃ ἐν ἑπταπύλῳ διδυμάονε γείνατο παῖδε
 kind: anecdote
 tags: [epic]
-summary: The Shield of Heracles, handed down under Hesiod's name, opens with the night on which Zeus and Amphitryon both lay with Alcmene, the begetting that Agamemnon's story of Heracles' birth passes over, and has Heracles blame Zeus for the folly that sent his twin brother to serve Eurystheus, in the words of Agamemnon's apology. It also shares with Book 19 the verses with which a hero puts on the gifts of Hephaestus, and the gnashing of teeth that Aristarchus thought unworthy of Achilles.
+summary: The Shield of Heracles, handed down under Hesiod's name, opens with the night on which Zeus and Amphitryon both lay with Alcmene, the begetting that Agamemnon's story of Heracles' birth passes over, and has Heracles blame Zeus for the folly that sent his twin brother to serve Eurystheus, in the words of Agamemnon's apology. It also shares with *Iliad* 19 the verses with which a hero puts on the gifts of Hephaestus, and the gnashing of teeth that Aristarchus thought unworthy of Achilles.
 source: "[Hesiod], Shield 1–56, 77–94, 122–138, 144–146, 161–165"
 of: [heracles, alcmene, amphitryon, eurystheus, the-birth-of-heracles, shield-of-heracles, arming-scene, hesiod]
 refs: [19.98-99, 19.137, 19.365-366, 19.369-371]

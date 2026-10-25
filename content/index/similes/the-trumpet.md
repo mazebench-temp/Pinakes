@@ -3,7 +3,7 @@ title: The trumpet
 greek: ὡς δʼ ὅτʼ ἀριζήλη φωνή, ὅτε τʼ ἴαχε σάλπιγξ
 kind: simile
 tags: [warfare, city]
-summary: Achilles' shout from the ditch rings out as clear as a trumpet that sounds when enemies surround a city (18.217–221). Three times he shouts, and the Trojans and their allies are thrown into confusion. It is the only trumpet in Homer, except for a metaphor in Book 21.
+summary: Achilles' shout from the ditch rings out as clear as a trumpet that sounds when enemies surround a city (18.217–221). Three times he shouts, and the Trojans and their allies are thrown into confusion. It is the only trumpet in Homer, except for a metaphor in *Iliad* 21.
 aliases: [like a trumpet, the shout of Achilles, Achilles' shout, the voice like a trumpet, salpinx]
 grc: ["ἀριζήλη φωνή", "ἴαχε σάλπιγξ", "ἄστυ περιπλομένων"]
 en: [a voice rings out clear, when a trumpet sounds, so clear then rang out the voice]
@@ -20,7 +20,7 @@ passages:
 
 Leaf leaves open what the trumpet is doing: it may be the alarm with which the watchmen of a beleaguered town call the citizens to the walls, or the besiegers' signal for the assault (on 18.220). Either way the sound means a city surrounded, and the simile is the second in a row to picture a siege, after the island town that lights its beacons at sunset (18.207–214; see [[the-beacon-fires]]).
 
-The tenor: ὣς τότʼ ἀριζήλη φωνὴ γένετʼ Αἰακίδαο, “so clear then rang out the voice of the grandson of Aeacus” (18.221; see [[grandson-of-aeacus]]). The next verse calls it ὄπα χάλκεον, “the bronze voice” (18.222). Leaf takes χάλκεον as “unwearied”, as in χάλκεον ἦτορ, “a heart of bronze” (2.490), perhaps with the ringing quality that the trumpet suggests; Stentor, whose likeness Hera takes in Book 5, is χαλκεόφωνος, “with the voice of bronze”, and could shout as loud as fifty other men (5.785–786; Leaf on 18.222; see the translation's note on 18.222).
+The tenor: ὣς τότʼ ἀριζήλη φωνὴ γένετʼ Αἰακίδαο, “so clear then rang out the voice of the grandson of Aeacus” (18.221; see [[grandson-of-aeacus]]). The next verse calls it ὄπα χάλκεον, “the bronze voice” (18.222). Leaf takes χάλκεον as “unwearied”, as in χάλκεον ἦτορ, “a heart of bronze” (2.490), perhaps with the ringing quality that the trumpet suggests; Stentor, whose likeness Hera takes in *Iliad* 5, is χαλκεόφωνος, “with the voice of bronze”, and could shout as loud as fifty other men (5.785–786; Leaf on 18.222; see the translation's note on 18.222).
 
 ## In context
 
@@ -32,4 +32,4 @@ The horses foresee sorrows and turn the chariots back, the charioteers are struc
 
 ## Elsewhere in Homer
 
-The trumpet is named again only in a metaphor, when the gods join battle in Book 21: the wide earth rang, and the great sky trumpeted around them (ἀμφὶ δὲ σάλπιγξεν μέγας οὐρανός, 21.388). Leaf reports the ancient remark, which he gives from Aristonicus, that the poet knows the trumpet himself but never brings his heroes on using it, and he sets it beside the like remarks on riding horseback (15.679) and on the boiling of meat (21.362), things the poet knew and kept to his similes (on 18.219). The poet, Leaf thinks, was conscious that such inventions were still recent and not to be ascribed to the time of which he sang (on 15.679; see [[the-rider-of-four-horses]]). The heroes give their own signals with their voices. The Iliad's other great shouts are Hera's in the likeness of Stentor (5.784–792), Strife's from beside the ship of Odysseus (11.3–14; see [[strife]]), and Poseidon's, as loud as nine or ten thousand men in war (14.147–152; see [[poseidon]]).
+The trumpet is named again only in a metaphor, when the gods join battle in *Iliad* 21: the wide earth rang, and the great sky trumpeted around them (ἀμφὶ δὲ σάλπιγξεν μέγας οὐρανός, 21.388). Leaf reports the ancient remark, which he gives from Aristonicus, that the poet knows the trumpet himself but never brings his heroes on using it, and he sets it beside the like remarks on riding horseback (15.679) and on the boiling of meat (21.362), things the poet knew and kept to his similes (on 18.219). The poet, Leaf thinks, was conscious that such inventions were still recent and not to be ascribed to the time of which he sang (on 15.679; see [[the-rider-of-four-horses]]). The heroes give their own signals with their voices. The Iliad's other great shouts are Hera's in the likeness of Stentor (5.784–792), Strife's from beside the ship of Odysseus (11.3–14; see [[strife]]), and Poseidon's, as loud as nine or ten thousand men in war (14.147–152; see [[poseidon]]).

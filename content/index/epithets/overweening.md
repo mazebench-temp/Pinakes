@@ -12,7 +12,7 @@ of: [trojans]
 
 ## Meaning
 
-ὑπερηνορέων is the participle of a verb formed from ὑπερήνωρ, “exceeding in manhood”: ὑπέρ (“over, beyond”) + ἠνορέη (“manhood, manly spirit”). Nestor uses the noun in Book 4 for the pride of horsemen, warning each man not to go out alone “trusting in his horsemanship and his manhood” (4.303). Manhood in excess is arrogance. In the Iliad the participle describes the Trojans here and Deiphobus in Book 13 (Il. 13.258). In the Odyssey it is a word for the suitors, often in the line that introduces what “one of the overweening young men” would say (for example Od. 2.324), and for the Cyclopes (Od. 6.5).
+ὑπερηνορέων is the participle of a verb formed from ὑπερήνωρ, “exceeding in manhood”: ὑπέρ (“over, beyond”) + ἠνορέη (“manhood, manly spirit”). Nestor uses the noun in *Iliad* 4 for the pride of horsemen, warning each man not to go out alone “trusting in his horsemanship and his manhood” (4.303). Manhood in excess is arrogance. In the Iliad the participle describes the Trojans here and Deiphobus in Book 13 (Il. 13.258). In the Odyssey it is a word for the suitors, often in the line that introduces what “one of the overweening young men” would say (for example Od. 2.324), and for the Cyclopes (Od. 6.5).
 
 ## Use
 

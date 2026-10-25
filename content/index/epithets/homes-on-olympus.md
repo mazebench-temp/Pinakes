@@ -12,7 +12,7 @@ of: [olympians, muses]
 
 ## Meaning
 
-Ὀλύμπια (“Olympian,” the neuter plural adjective of Ὄλυμπος) + δώματα (“houses”) + ἔχοντες (“having, holding”): “who hold Olympian homes.” At the end of Book 1 the narrator shows those homes: each god has a house built by Hephaestus ({{ref:Iliad 1.606-608}}; [[with-cunning-skill]]).
+Ὀλύμπια (“Olympian,” the neuter plural adjective of Ὄλυμπος) + δώματα (“houses”) + ἔχοντες (“having, holding”): “who hold Olympian homes.” At the end of *Iliad* 1 the narrator shows those homes: each god has a house built by Hephaestus ({{ref:Iliad 1.606-608}}; [[with-cunning-skill]]).
 
 ## Use
 

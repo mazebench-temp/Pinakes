@@ -12,7 +12,7 @@ passages:
 
 {{quote:928a112c-1109-58ec-9ba6-c65344bd885a}}
 
-**Homer.** When Paris has armed at last, he runs down through the city like a stalled horse that breaks his halter and gallops across the plain, a horse used to bathing in the river, head high, mane streaming over his shoulders, making for the pasture of the herd (see [[the-stallion]] and [[paris]]). The same six lines return in Book 15, when Apollo has breathed strength into the wounded Hector and he runs back to the fight (15.263–268). Homer gives the simile to both brothers.
+**Homer.** When Paris has armed at last, he runs down through the city like a stalled horse that breaks his halter and gallops across the plain, a horse used to bathing in the river, head high, mane streaming over his shoulders, making for the pasture of the herd (see [[the-stallion]] and [[paris]]). The same six lines return in *Iliad* 15, when Apollo has breathed strength into the wounded Hector and he runs back to the fight (15.263–268). Homer gives the simile to both brothers.
 
 **Ennius.** The first Latin epic poet translated it in his *Annals*: a horse, stuffed full at the stalls, breaks its halter in its high spirits and carries itself over the plain and its glad meadows, chest held high, tossing its mane. The context of the lines is lost. They survive because Macrobius, discussing Virgil's debts, sets Homer's Greek, Ennius' Latin and Virgil's lines side by side (*Saturnalia* 6.3).
 

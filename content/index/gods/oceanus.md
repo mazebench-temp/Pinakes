@@ -21,7 +21,7 @@ Husband of [[tethys|Tethys]], “mother Tethys”, with whom he reared Hera in h
 
 ## In Homer
 
-Oceanus is a river, ποταμός (14.245, 18.607), that runs around the edge of the world. On Achilles' shield it runs around the rim (18.607–608). The sun rises out of it and sets in it (7.421–423, 8.485), and the Ethiopians, whom the gods visit, live beside it (1.423–424). It alone of the rivers does not come to the assembly of the gods in Book 20 (20.7). Achilles calls it the source of all rivers, of the whole sea and of all springs and wells, but no match for Zeus (21.193–199), and Hera and Sleep call it the origin of the gods and of all (14.201, 14.246).
+Oceanus is a river, ποταμός (14.245, 18.607), that runs around the edge of the world. On Achilles' shield it runs around the rim (18.607–608). The sun rises out of it and sets in it (7.421–423, 8.485), and the Ethiopians, whom the gods visit, live beside it (1.423–424). It alone of the rivers does not come to the assembly of the gods in *Iliad* 20 (20.7). Achilles calls it the source of all rivers, of the whole sea and of all springs and wells, but no match for Zeus (21.193–199), and Hera and Sleep call it the origin of the gods and of all (14.201, 14.246).
 
 ## Outside Homer
 

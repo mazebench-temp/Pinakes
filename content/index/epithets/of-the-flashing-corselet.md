@@ -18,4 +18,4 @@ of: [antiphus-son-of-priam, menesthius-son-of-spercheius]
 
 {{quote:652651c3-1822-58f1-b46c-5e01536a10c6}}
 
-Antiphus, a son of Priam, enters the poem with this epithet and his patronymic ([[son-of-priam]]). He throws at Ajax, misses, and kills Leucus, the companion of Odysseus, and Odysseus' anger then takes the life of another son of Priam, Democoon (4.494–504; [[leucus]], [[democoon]]). In Book 11 Agamemnon kills Antiphus and his half-brother Isus, whom Achilles had once captured on Ida and let go for ransom (Il. 11.101–121).
+Antiphus, a son of Priam, enters the poem with this epithet and his patronymic ([[son-of-priam]]). He throws at Ajax, misses, and kills Leucus, the companion of Odysseus, and Odysseus' anger then takes the life of another son of Priam, Democoon (4.494–504; [[leucus]], [[democoon]]). In *Iliad* 11 Agamemnon kills Antiphus and his half-brother Isus, whom Achilles had once captured on Ida and let go for ransom (Il. 11.101–121).

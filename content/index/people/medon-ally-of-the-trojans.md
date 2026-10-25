@@ -14,4 +14,4 @@ passages:
 
 **One of ten.** Hector goes among the allies in Achilles' armor and urges on “Mesthles and Glaucus and Medon and Thersilochus / and Asteropaeus and Deisenor and Hippothous / and Phorcys and Chromius and Ennomus the augur” (17.216–218; see [[hector]] and [[trojan-allies]]). Walter Leaf notes that these names are mostly taken from the Catalogue (*Commentary on the Iliad*, 1900, on 17.216); Medon is not among them, and the poem gives him no father, people or deed. He is named only here.
 
-He is not Medon, the bastard son of Oileus, who led Philoctetes' men and was killed by Aeneas in Book 15 (2.726–728, 15.332–336; see [[medon]]). The Odyssey has a third Medon, the herald of Ithaca.
+He is not Medon, the bastard son of Oileus, who led Philoctetes' men and was killed by Aeneas in *Iliad* 15 (2.726–728, 15.332–336; see [[medon]]). The Odyssey has a third Medon, the herald of Ithaca.

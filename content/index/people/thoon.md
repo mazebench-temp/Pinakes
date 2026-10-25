@@ -3,7 +3,7 @@ title: Thoon
 greek: Θόων
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan slain and stripped by Odysseus, with Ennomus, when the Trojans close around him alone (11.422). Not [[thoon-son-of-phaenops|Thoon, son of Phaenops]], whom Diomedes killed in Book 5, nor the Trojans named Thoon in Books 12 and 13.
+summary: A Trojan slain and stripped by Odysseus, with Ennomus, when the Trojans close around him alone (11.422). Not [[thoon-son-of-phaenops|Thoon, son of Phaenops]], whom Diomedes killed in *Iliad* 5, nor the Trojans named Thoon in Books 12 and 13.
 aliases: [Thoōn]
 # Θόωνα at 5.152 is Thoon son of Phaenops. Θόωνα recurs at 12.140 (with Asius at the wall) and 13.545
 # (killed by Antilochus): except those lines when Books 12 and 13 are indexed.

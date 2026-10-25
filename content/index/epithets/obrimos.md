@@ -18,8 +18,8 @@ The translation renders ὄβριμος “mighty” of persons and “heavy” 
 
 ## Use
 
-Book 5 gives the word to Ares once, as Athena prepares to strike him:
+*Iliad* 5 gives the word to Ares once, as Athena prepares to strike him:
 
 {{quote:634bf8df-0bb6-5416-b0fd-5e543ff569a4}}
 
-The epithet of weight and force comes at the moment when force is no help to the god. He cannot see the goddess who will drive Diomedes' spear into his flank (5.855–857; [[helmet-of-hades]]). Book 5 names him by his power in each of his reverses: “insatiable of war” as he bellows with the wound ([[insatiable-of-war]]), and “ruin of mortals” in the last line, when the goddesses have stopped his slaughter ([[ruin-of-mortals]]).
+The epithet of weight and force comes at the moment when force is no help to the god. He cannot see the goddess who will drive Diomedes' spear into his flank (5.855–857; [[helmet-of-hades]]). *Iliad* 5 names him by his power in each of his reverses: “insatiable of war” as he bellows with the wound ([[insatiable-of-war]]), and “ruin of mortals” in the last line, when the goddesses have stopped his slaughter ([[ruin-of-mortals]]).

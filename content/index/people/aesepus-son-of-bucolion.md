@@ -20,6 +20,6 @@ passages:
 
 {{quote:fb0f65ec-7c59-5491-8d59-26fc70951453}}
 
-He and his twin have the names of places in the Troad. The Aesepus is one of the rivers that flow from Ida to the sea, whose dark water the men of Zeleia drink (2.825, 12.21; see [[aesepus]]), and Pedasus is a town on the Satnioeis (6.35; see [[pedasus-on-the-satnioeis]]). The poem does not say why the twins were named so. Other Trojans bear the names of rivers: Simoeisius, whom Ajax killed in Book 4, was named for the Simoeis beside which he was born (4.473–479; see [[simoeisius]]), and Hector calls his son Scamandrius (6.402).
+He and his twin have the names of places in the Troad. The Aesepus is one of the rivers that flow from Ida to the sea, whose dark water the men of Zeleia drink (2.825, 12.21; see [[aesepus]]), and Pedasus is a town on the Satnioeis (6.35; see [[pedasus-on-the-satnioeis]]). The poem does not say why the twins were named so. Other Trojans bear the names of rivers: Simoeisius, whom Ajax killed in *Iliad* 4, was named for the Simoeis beside which he was born (4.473–479; see [[simoeisius]]), and Hector calls his son Scamandrius (6.402).
 
 The twins die together, and the verse gives their death one verb and their bodies one phrase, μένος καὶ φαίδιμα γυῖα, “the strength and the shining limbs” (6.27). Euryalus takes “the armor from their shoulders” (6.28; see [[stripping-the-dead]]). On their parents and their grandfather, see [[bucolion]].

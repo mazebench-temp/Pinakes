@@ -3,7 +3,7 @@ title: Purple death
 greek: πορφύρεος θάνατος
 kind: formula
 tags: [fate, warfare]
-summary: The verse that ends a killing at the victim's eyes, “and his eyes were seized by purple death and mighty fate”. It is used three times, each time after a sword stroke and a spill of blood, and first for Hypsenor, the priest's son, in Book 5 (5.82–83).
+summary: The verse that ends a killing at the victim's eyes, “and his eyes were seized by purple death and mighty fate”. It is used three times, each time after a sword stroke and a spill of blood, and first for Hypsenor, the priest's son, in *Iliad* 5 (5.82–83).
 aliases: [purple death, porphyreos thanatos, death and mighty fate]
 grc: ["πορφύρεος θάνατος"]
 en: [purple death]
@@ -13,7 +13,7 @@ en: [purple death]
 
 τὸν δὲ κατʼ ὄσσε / ἔλλαβε πορφύρεος θάνατος καὶ μοῖρα κραταιή: κατʼ ὄσσε, “down over his two eyes”, + ἔλλαβε, “seized” (λαμβάνω, with the λ doubled for the meter), + πορφύρεος θάνατος, “purple death”, + καὶ μοῖρα κραταιή, “and mighty fate”. The phrase begins at the end of one verse and fills the next. Like [[darkness-covered-his-eyes]], it tells death as something that comes over the eyes.
 
-Its first use ends the last of the single kills that open Book 5. Eurypylus runs down Hypsenor, son of Dolopion, the priest of the Scamander:
+Its first use ends the last of the single kills that open *Iliad* 5. Eurypylus runs down Hypsenor, son of Dolopion, the priest of the Scamander:
 
 {{quote:25287042-9cd7-5eda-a487-cfe698409f20}}
 

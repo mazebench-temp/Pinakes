@@ -26,6 +26,6 @@ The simile follows the stand of the two Lapiths in front of the gates, who fight
 
 ## Elsewhere in Homer
 
-Book 12 has a second snow simile for the stones, longer and windless. When the two Ajaxes have roused the Achaeans along the towers, the stones fly from both sides as thick as the snow that Zeus pours down on a winter's day when he has lulled the winds, covering the mountains, the plains and the fields to the edge of the sea (12.278–289; see [[the-great-snowfall]]). Here a blustering wind drives the flakes; there “he lulls the winds” (12.281).
+*Iliad* 12 has a second snow simile for the stones, longer and windless. When the two Ajaxes have roused the Achaeans along the towers, the stones fly from both sides as thick as the snow that Zeus pours down on a winter's day when he has lulled the winds, covering the mountains, the plains and the fields to the edge of the sea (12.278–289; see [[the-great-snowfall]]). Here a blustering wind drives the flakes; there “he lulls the winds” (12.281).
 
 Snowflakes are a measure of number elsewhere too. When the army arms for Achilles' return, the helmets, shields, corselets and spears pour from the ships as thick as the snowflakes of Zeus under the North Wind (19.357–361; see [[snowflakes-from-zeus]]), and Antenor remembers Odysseus' words “like the snowflakes of winter” (3.222; see [[snowflakes-of-winter]]). Iris flies down from Ida as swiftly as snow or hail from the clouds (15.170–172).

@@ -5,7 +5,7 @@ kind: story
 period: iliad
 mode: narrated
 tags: [divine-scene, divine-will]
-summary: Hera's seduction of Zeus on Mount Ida, which gives Book 14 its traditional name. She adorns herself, borrows Aphrodite's embroidered strap, wins over Sleep with the promise of a Grace, and lies with Zeus in a golden cloud on Gargarus; while he sleeps, Poseidon leads the Achaeans openly and Ajax strikes Hector down, until Zeus wakes and sees what she has done (14.153–522, 15.4–77).
+summary: Hera's seduction of Zeus on Mount Ida, which gives *Iliad* 14 its traditional name. She adorns herself, borrows Aphrodite's embroidered strap, wins over Sleep with the promise of a Grace, and lies with Zeus in a golden cloud on Gargarus; while he sleeps, Poseidon leads the Achaeans openly and Ajax strikes Hector down, until Zeus wakes and sees what she has done (14.153–522, 15.4–77).
 aliases: [Dios apate, Dios apatē, Deception of Zeus, the beguiling of Zeus, Hera beguiles Zeus, Hera deceives Zeus, the seduction of Zeus, Zeus deceived]
 participants: [hera, zeus, aphrodite, sleep, poseidon, hector, ajax]
 passages:
@@ -36,7 +36,7 @@ passages:
 
 **Against the plan of Zeus.** Hera cannot overpower Zeus, and Poseidon would not fight him when she asked (8.198–211). What force cannot do, sleep and love can (14.353). The deception holds back Zeus' promise to Thetis for part of a day and turns the battle for the Achaeans; when Zeus wakes, he sends Apollo to restore Hector and states his plan in full (15.49–77; see [[plan-of-zeus]], [[the-battle-at-the-ships]] and [[the-third-day-of-battle]]).
 
-**A marriage seen whole.** The quarrels of Zeus and Hera in Books 1, 4 and 8 are fought in words, in public. Here the poem shows their marriage from inside: a memory of their first love in secret from their parents, desire stronger than any he has felt, the bed, and a sleep in each other's arms (see [[husbands-and-wives]] and [[quarrel-on-olympus]]). Zeus woos her in the words of Paris to Helen after the duel: “as I love you now, and sweet longing takes hold of me” (14.328 = 3.446; see [[helen-and-aphrodite]]).
+**A marriage seen whole.** The quarrels of Zeus and Hera in *Iliad* 1, 4 and 8 are fought in words, in public. Here the poem shows their marriage from inside: a memory of their first love in secret from their parents, desire stronger than any he has felt, the bed, and a sleep in each other's arms (see [[husbands-and-wives]] and [[quarrel-on-olympus]]). Zeus woos her in the words of Paris to Helen after the duel: “as I love you now, and sweet longing takes hold of me” (14.328 = 3.446; see [[helen-and-aphrodite]]).
 
 **Deceit in set pieces.** The episode is built from the poem's set pieces: a goddess dressing, a gift, a bargain sealed with an oath, a journey through the sky, a catalogue of loves. Each serves a lie, and the lie works (see [[apate]] and [[truth-and-deception]]).
 

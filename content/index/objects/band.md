@@ -29,6 +29,6 @@ Elsewhere in the Iliad the μίτρη is worn at the lowest part of the belly. D
 
 ## What it was
 
-Three things are clear from Book 4: the band was worn at the belly beneath belt and corselet, it was made of bronze, and it gave the best protection. Beyond that there is no agreement. Semicircular bronze plates of the seventh century BC, some with engraved figures, have been found in Crete; they hung from a belt to cover the lower belly, and archaeologists call them mitrai after this passage. Whether Homer's μίτρη was such a plate, or a band of bronze around the body, is not known.
+Three things are clear from *Iliad* 4: the band was worn at the belly beneath belt and corselet, it was made of bronze, and it gave the best protection. Beyond that there is no agreement. Semicircular bronze plates of the seventh century BC, some with engraved figures, have been found in Crete; they hung from a belt to cover the lower belly, and archaeologists call them mitrai after this passage. Whether Homer's μίτρη was such a plate, or a band of bronze around the body, is not known.
 
 The narrator names three defenses when the arrow strikes: belt, corselet and band (4.132–138). Menelaus and Machaon name belt, kilt and band, and not the corselet (4.185–187, 4.215–216). See [[belt]], [[corselet]] and [[kilt]].

@@ -11,7 +11,7 @@ passages:
   - 1.500-510 | Thetis' prayer to Zeus
 ---
 
-Prayer in Homer is a relationship of exchange. The one who prays reminds the god of what he has given, a temple, sacrifices, a service, and asks for something in return. Book 1 has three such prayers. Two turn on the words “if ever” (εἴ ποτε); the third, on “once before”.
+Prayer in Homer is a relationship of exchange. The one who prays reminds the god of what he has given, a temple, sacrifices, a service, and asks for something in return. *Iliad* 1 has three such prayers. Two turn on the words “if ever” (εἴ ποτε); the third, on “once before”.
 
 ## Chryses
 
@@ -35,7 +35,7 @@ Thetis uses the formula as he suggested. Her favor to Zeus was greater than any 
 
 The exchange is not only material. Achilles gives it a moral form: “whoever obeys the gods, to him they gladly listen” (1.218; see [[whoever-obeys-the-gods]]). When the plague begins he assumes that the god's anger must come from a failure in exchange, some vow or hecatomb left unpaid (1.65). Calchas tells him otherwise. The offense was the dishonor of a priest (1.93–95).
 
-The gods, for their part, want their share. In Book 4 Zeus says that his altar at Troy never lacked its equal feast, “libation and savor, for that is the privilege (γέρας) we have received” (4.48–49). At Chryse the hecatomb is called “gifts to the lord” (1.390), and after a day of song the paean pleases him: “his heart was glad as he listened” (1.474).
+The gods, for their part, want their share. In *Iliad* 4 Zeus says that his altar at Troy never lacked its equal feast, “libation and savor, for that is the privilege (γέρας) we have received” (4.48–49). At Chryse the hecatomb is called “gifts to the lord” (1.390), and after a day of song the paean pleases him: “his heart was glad as he listened” (1.474).
 
 ## Related entries
 

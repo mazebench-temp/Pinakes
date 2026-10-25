@@ -12,7 +12,7 @@ of: [athena]
 
 ## Meaning
 
-ἀγελείη has two ancient explanations. One takes it from ἄγω (“drive, lead away”) and λεία or ληΐς (“booty,” above all cattle driven off in a raid; [[raiding]]): “she who drives off the spoil.” Athena has a similar title in Book 10, where Odysseus dedicates the spoils of Dolon to her as ληΐτις, “goddess of the spoil” (Il. 10.460). The other takes it from ἄγω and λαός (“the host, the army”): “leader of the host.” The translation follows the first. Homer uses the epithet only of Athena, often in the genitive Ἀθηναίης ἀγελείης (Il. 6.269, 15.213; Od. 16.207), and in the nominative with Διὸς θυγάτηρ, “daughter of Zeus” (4.128; Od. 13.359).
+ἀγελείη has two ancient explanations. One takes it from ἄγω (“drive, lead away”) and λεία or ληΐς (“booty,” above all cattle driven off in a raid; [[raiding]]): “she who drives off the spoil.” Athena has a similar title in *Iliad* 10, where Odysseus dedicates the spoils of Dolon to her as ληΐτις, “goddess of the spoil” (Il. 10.460). The other takes it from ἄγω and λαός (“the host, the army”): “leader of the host.” The translation follows the first. Homer uses the epithet only of Athena, often in the genitive Ἀθηναίης ἀγελείης (Il. 6.269, 15.213; Od. 16.207), and in the nominative with Διὸς θυγάτηρ, “daughter of Zeus” (4.128; Od. 13.359).
 
 ## Use
 

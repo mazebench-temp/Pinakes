@@ -14,6 +14,6 @@ relations:
   - child: mecisteus-son-of-echius (8.333)
 ---
 
-Μηκιστεὺς Ἐχίοιο πάϊς, “Mecisteus, son of Echius” (8.333), names one of the two companions who carry Teucer to the ships when Hector has felled him with a stone, and the verse returns when the same two carry Hypsenor in Book 13 (13.422; see [[mecisteus-son-of-echius]] and [[teucer]]). Echius is known only as a father.
+Μηκιστεὺς Ἐχίοιο πάϊς, “Mecisteus, son of Echius” (8.333), names one of the two companions who carry Teucer to the ships when Hector has felled him with a stone, and the verse returns when the same two carry Hypsenor in *Iliad* 13 (13.422; see [[mecisteus-son-of-echius]] and [[teucer]]). Echius is known only as a father.
 
-When Polydamas kills Mecisteus in Book 15, Polites kills an Echius in the same verse (15.339; see [[echius-killed-by-polites]]). The poem does not say whether he is the father, fighting beside his son, or another man of the name. Patroclus kills another Echius, on the Trojan side (16.416; see [[echius-killed-by-patroclus]]).
+When Polydamas kills Mecisteus in *Iliad* 15, Polites kills an Echius in the same verse (15.339; see [[echius-killed-by-polites]]). The poem does not say whether he is the father, fighting beside his son, or another man of the name. Patroclus kills another Echius, on the Trojan side (16.416; see [[echius-killed-by-patroclus]]).

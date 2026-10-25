@@ -18,4 +18,4 @@ of: [bronze]
 
 {{quote:4d6d85aa-2bbf-5c97-bfe8-855eff55cfda}}
 
-In the Catalogue, Agamemnon puts on the gleaming bronze and stands out among all the heroes, “because he was the best and led by far the most men.” The same line, ἐν δ’ αὐτὸς ἐδύσετο νώροπα χαλκόν, marks the beginning of his great day of fighting in Book 11 (Il. 11.16). Here the arming is a mark of rank: the commander of the largest contingent, exulting (κυδιόων), stands out in bronze. In the morning he had dressed as a king, with a sword but no armor ([[silver-studded]]).
+In the Catalogue, Agamemnon puts on the gleaming bronze and stands out among all the heroes, “because he was the best and led by far the most men.” The same line, ἐν δ’ αὐτὸς ἐδύσετο νώροπα χαλκόν, marks the beginning of his great day of fighting in *Iliad* 11 (Il. 11.16). Here the arming is a mark of rank: the commander of the largest contingent, exulting (κυδιόων), stands out in bronze. In the morning he had dressed as a king, with a sword but no armor ([[silver-studded]]).

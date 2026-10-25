@@ -24,4 +24,4 @@ Sarpedon has pulled a battlement down and called on the Lycians to follow, “th
 
 ## Elsewhere in Homer
 
-Disputes and boundaries belong to the life of peace that the similes bring into the war. On the shield of Achilles two men quarrel in the assembly over the blood-price of a dead man, and both go to an arbiter for a settlement (18.497–501). The shield shows the land being worked as well, the plowland, the king's domain and the vineyard (18.541–572). The stone that marked a field in peace becomes a weapon in Book 21, when Athena hurls it at Ares (21.403–406).
+Disputes and boundaries belong to the life of peace that the similes bring into the war. On the shield of Achilles two men quarrel in the assembly over the blood-price of a dead man, and both go to an arbiter for a settlement (18.497–501). The shield shows the land being worked as well, the plowland, the king's domain and the vineyard (18.541–572). The stone that marked a field in peace becomes a weapon in *Iliad* 21, when Athena hurls it at Ares (21.403–406).

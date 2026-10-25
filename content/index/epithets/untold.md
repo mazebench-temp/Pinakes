@@ -16,4 +16,4 @@ en: [untold, vast]
 
 {{quote:eb7e0e9c-9189-59c5-8946-0c6e893b428c}}
 
-Menelaus has Paris by the helmet strap, and the glory the duel was to decide is in his hands. The goddess takes it away in a line. The same verse describes Hector dragging the body of Patroclus in Book 18, until Iris comes from Olympus (Il. 18.165). See [[kydos]], [[divine-rescue]].
+Menelaus has Paris by the helmet strap, and the glory the duel was to decide is in his hands. The goddess takes it away in a line. The same verse describes Hector dragging the body of Patroclus in *Iliad* 18, until Iris comes from Olympus (Il. 18.165). See [[kydos]], [[divine-rescue]].

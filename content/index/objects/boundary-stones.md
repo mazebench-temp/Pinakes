@@ -20,7 +20,7 @@ passages:
 
 ## In Homer
 
-The simile of Book 12 is set in a field held in common:
+The simile of *Iliad* 12 is set in a field held in common:
 
 {{quote:b88bd160-b3e1-5e94-a41c-6476162f16c5}}
 

@@ -25,6 +25,6 @@ sort: 14
 
 The Iliad has two wraths, and Apollo's comes first. The pattern is the same as Achilles'. A figure of great power suffers dishonor to a person under his protection (ἠτίμασεν, 1.11). The dishonored party calls on a higher power, as Chryses calls on Apollo and Achilles on Zeus through Thetis. The Achaeans die until amends are made.
 
-Calchas even calls it μῆνις (1.75), the word of the poem's first line. The plague is resolved in Book 1 by ransom, sacrifice and song. Achilles' wrath will take twenty-three more books and far more death.
+Calchas even calls it μῆνις (1.75), the word of the poem's first line. The plague is resolved in *Iliad* 1 by ransom, sacrifice and song. Achilles' wrath will take twenty-three more books and far more death.
 
 See [[chryses]], [[apollo]], [[plague-and-purification]] and [[menis]].

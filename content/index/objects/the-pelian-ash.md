@@ -21,7 +21,7 @@ Its history is a gift. Chiron gave it to Achilles' “dear father / from the pea
 
 ## In the later books
 
-When Achilles arms in the armor Hephaestus has made, he takes up the spear last, drawing “his father's spear” from its case (πατρώϊον ἔγχος, 19.387), and the verses of Book 16 describe it again (19.388–391). With it he strikes Aeneas' shield (Πηλιὰς ἤϊξεν μελίη, 20.277) and fights Asteropaeus, who tries three times to pull it from the river bank where it has stuck and cannot (21.161–179; see [[three-times-and-a-fourth]]). He comes at Hector “brandishing over his right shoulder the Pelian ash” (22.133), and after his first cast Athena gives the spear back to him unseen (22.273–277); he drives it through Hector's neck where the armor of Patroclus leaves the throat bare (22.317–327). The spear Patroclus could not take kills the man who killed him.
+When Achilles arms in the armor Hephaestus has made, he takes up the spear last, drawing “his father's spear” from its case (πατρώϊον ἔγχος, 19.387), and the verses of *Iliad* 16 describe it again (19.388–391). With it he strikes Aeneas' shield (Πηλιὰς ἤϊξεν μελίη, 20.277) and fights Asteropaeus, who tries three times to pull it from the river bank where it has stuck and cannot (21.161–179; see [[three-times-and-a-fourth]]). He comes at Hector “brandishing over his right shoulder the Pelian ash” (22.133), and after his first cast Athena gives the spear back to him unseen (22.273–277); he drives it through Hector's neck where the armor of Patroclus leaves the throat bare (22.317–327). The spear Patroclus could not take kills the man who killed him.
 
 {{notes}}
 

@@ -1,9 +1,9 @@
 ---
-title: The titles of Book 4
+title: The titles of Iliad 4
 greek: Ὁρκίων σύγχυσις, Ἀγαμέμνονος ἐπιπώλησις
 kind: note
 tags: [scholarship]
-summary: Book 4 has two traditional titles, “the confounding of the oaths” for the truce that Pandarus breaks, and “Agamemnon's Epipolesis”, his going round the army, for the review of its leaders. Both are made from the poem's own words.
+summary: Book 4 of the Iliad has two traditional titles, “the confounding of the oaths” for the truce that Pandarus breaks, and “Agamemnon's Epipolesis”, his going round the army, for the review of its leaders. Both are made from the poem's own words.
 source: Aelian, Varia Historia 13.14; Plato, Republic 2.379e
 of: [pandarus-breaks-the-truce, oaths-and-their-breaking, agamemnon, the-review, the-review-of-the-army]
 refs: [4.231, 4.250, 4.269]
@@ -17,4 +17,4 @@ Both come from the text. The first takes up Idomeneus' words to Agamemnon, “th
 
 ἐπιπώλησις is the noun of ἐπιπωλέομαι, “go about among”, the verb the narrator uses twice of Agamemnon on his tour: “he himself, on foot, ranged through the ranks of men” and “So, like a master, he ranged through the ranks of men” (4.231, 4.250). The review runs from 4.220 to 4.421. Agamemnon goes from the Cretans to the two Ajaxes, to Nestor, to Menestheus and Odysseus, and to Diomedes and Sthenelus, praising some and rebuking others (see [[the-review]], [[the-review-of-the-army]] and [[praise-and-blame]]).
 
-The two names divide the book at the healing of Menelaus. The first part tells how the oaths sworn in Book 3 were broken ([[the-oaths-sworn]], [[pandarus-breaks-the-truce]]); the second brings the army to its first battle.
+The two names divide the book at the healing of Menelaus. The first part tells how the oaths sworn in *Iliad* 3 were broken ([[the-oaths-sworn]], [[pandarus-breaks-the-truce]]); the second brings the army to its first battle.

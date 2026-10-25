@@ -3,7 +3,7 @@ title: Like vultures
 greek: ἑζέσθην ὄρνισιν ἐοικότες αἰγυπιοῖσι
 kind: simile
 tags: [bird, divine-scene]
-summary: The vulture, αἰγυπιός, as a likeness for gods and fighters. Athena and Apollo sit on the oak of Zeus “like birds, like vultures” to watch Hector's challenge (7.58–61), Meriones leaps in “like a vulture” to pull his spear from Deiphobus' arm (13.531), Sarpedon and Patroclus rush at each other like two vultures fighting on a high rock (16.428–430), and Automedon swoops through the battle with the horses of Achilles like a vulture after geese (17.460). Whether the gods of Book 7 take the shape of vultures is debated; the index reads the line as a simile.
+summary: The vulture, αἰγυπιός, as a likeness for gods and fighters. Athena and Apollo sit on the oak of Zeus “like birds, like vultures” to watch Hector's challenge (7.58–61), Meriones leaps in “like a vulture” to pull his spear from Deiphobus' arm (13.531), Sarpedon and Patroclus rush at each other like two vultures fighting on a high rock (16.428–430), and Automedon swoops through the battle with the horses of Achilles like a vulture after geese (17.460). Whether the gods of *Iliad* 7 take the shape of vultures is debated; the index reads the line as a simile.
 aliases: [Athena and Apollo like vultures, the gods like vultures, like birds like vultures, the vultures on the oak]
 grc: ["ὄρνισιν ἐοικότες αἰγυπιοῖσι"]
 en: [like]
@@ -16,7 +16,7 @@ of: [athena, apollo]
 
 κὰδ δʼ ἄρʼ Ἀθηναίη τε καὶ ἀργυρότοξος Ἀπόλλων / ἑζέσθην ὄρνισιν ἐοικότες αἰγυπιοῖσι / φηγῷ ἐφʼ ὑψηλῇ πατρὸς Διὸς αἰγιόχοιο / ἀνδράσι τερπόμενοι. ἑζέσθην, “the two sat down”, is dual. ὄρνις is the common word for a bird, and αἰγυπιός names the kind, a large bird of prey that the translation calls a vulture (see [[vultures]]). ἐοικότες is “resembling, like”. The φηγός is the oak of Zeus by the Scaean gates, where the two gods met a few lines before (7.22; see [[the-oak-of-zeus]]). τερπόμενοι is “taking pleasure”: the gods enjoy the sight of the men.
 
-The αἰγυπιός of Homer's similes is a hunter and a fighter. With crooked talons and curved beak it fights other vultures on a high rock (16.428–430), swoops on geese (17.460), comes down from the mountains on smaller birds in the plain (*Odyssey* 22.302–306), and cries for its young when countrymen have taken them from the nest (*Odyssey* 16.216–218). It watches from a height. The vultures of Book 16 fight “on a high rock” (πέτρῃ ἐφʼ ὑψηλῇ), and the gods here sit “on the high oak” (φηγῷ ἐφʼ ὑψηλῇ).
+The αἰγυπιός of Homer's similes is a hunter and a fighter. With crooked talons and curved beak it fights other vultures on a high rock (16.428–430), swoops on geese (17.460), comes down from the mountains on smaller birds in the plain (*Odyssey* 22.302–306), and cries for its young when countrymen have taken them from the nest (*Odyssey* 16.216–218). It watches from a height. The vultures of *Iliad* 16 fight “on a high rock” (πέτρῃ ἐφʼ ὑψηλῇ), and the gods here sit “on the high oak” (φηγῷ ἐφʼ ὑψηλῇ).
 
 ## Simile or transformation?
 

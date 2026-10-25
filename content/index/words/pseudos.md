@@ -23,7 +23,7 @@ The Odyssey is full of lies, most of them its hero's. Back on Ithaca he tells fa
 
 - [[apate|ἀπάτη]] (“deceit”).
 - ἔτυμος, ἐτήτυμος (“real, true”), and ἀληθείη (“truth”).
-- [[onar|ὄναρ]] and [[dream]]: the lying dream of Book 2.
+- [[onar|ὄναρ]] and [[dream]]: the lying dream of *Iliad* 2.
 - [[tekmor|τέκμωρ]]: Zeus' nod, the sign that cannot prove false (1.526).
 - See [[truth-and-deception]].
 

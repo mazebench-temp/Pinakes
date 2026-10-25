@@ -12,7 +12,7 @@ of: [titaressus, satnioeis]
 
 ## Meaning
 
-καλλίρροος = καλός (“beautiful”) + ῥόος (“stream, flow,” from ῥέω, “flow”): “fair-flowing.” Homer uses it three times: of the Titaressus here, of the rivers of Ida, which Poseidon and Apollo turned against the Achaean wall and then sent back to their beds (Il. 12.33), and of the two springs of the Scamander, one warm and one cold, past which Achilles chases Hector (Il. 22.147). Compare the other river epithets of Book 2, [[silver-eddying]] and [[eddying]].
+καλλίρροος = καλός (“beautiful”) + ῥόος (“stream, flow,” from ῥέω, “flow”): “fair-flowing.” Homer uses it three times: of the Titaressus here, of the rivers of Ida, which Poseidon and Apollo turned against the Achaean wall and then sent back to their beds (Il. 12.33), and of the two springs of the Scamander, one warm and one cold, past which Achilles chases Hector (Il. 22.147). Compare the other river epithets of *Iliad* 2, [[silver-eddying]] and [[eddying]].
 
 ## Use
 

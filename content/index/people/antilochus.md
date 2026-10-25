@@ -17,7 +17,7 @@ relations:
 
 ## Family
 
-Book 4 names him without his father. From Book 5 on he is “the son of great-hearted Nestor” (μεγαθύμου Νέστορος υἱός, 5.565, 13.400, 17.653, 23.541; see [[great-hearted]]), or simply Νεστορίδης, “son of Nestor” (6.33, 15.589). He fights beside his brother Thrasymedes; together they are “the sons of Nestor” (Νεστορίδαι, 16.317). The Odyssey names Nestor's wife, Eurydice (Od. 3.451–452), and his sons at home in Pylos, among them Thrasymedes and Peisistratus (Od. 3.412–415), but not Antilochus' mother.
+*Iliad* 4 names him without his father. From Book 5 on he is “the son of great-hearted Nestor” (μεγαθύμου Νέστορος υἱός, 5.565, 13.400, 17.653, 23.541; see [[great-hearted]]), or simply Νεστορίδης, “son of Nestor” (6.33, 15.589). He fights beside his brother Thrasymedes; together they are “the sons of Nestor” (Νεστορίδαι, 16.317). The Odyssey names Nestor's wife, Eurydice (Od. 3.451–452), and his sons at home in Pylos, among them Thrasymedes and Peisistratus (Od. 3.412–415), but not Antilochus' mother.
 
 ## Descriptions
 

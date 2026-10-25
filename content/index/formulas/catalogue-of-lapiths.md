@@ -11,7 +11,7 @@ passages:
 
 ## The pattern
 
-A catalogue is a list of names, each with a brief attribute: a patronymic, an epithet, a home. Epic uses catalogues to measure and to honor; the great example is the Catalogue of Ships in Book 2. Short catalogues appear inside speeches, where a list of names carries the authority of the past.
+A catalogue is a list of names, each with a brief attribute: a patronymic, an epithet, a home. Epic uses catalogues to measure and to honor; the great example is the Catalogue of Ships in *Iliad* 2. Short catalogues appear inside speeches, where a list of names carries the authority of the past.
 
 {{notes}}
 

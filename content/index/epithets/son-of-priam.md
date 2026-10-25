@@ -12,7 +12,7 @@ of: [hector, paris, antiphus-son-of-priam, priam, helenus]
 
 ## Meaning
 
-Πριαμίδης = Πρίαμος + the patronymic suffix -ίδης: “son of Priam.” Priam had fifty sons, nineteen of them by one mother (Il. 24.495–497; [[sons-of-priam]]), and the patronymic can name any of them. Books 2–4 give it to three: Hector, as he leads the Trojans in the Trojan Catalogue ({{ref:Iliad 2.817}}); Paris, when Menelaus' spear strikes his shield ({{ref:Iliad 3.356}}); and Antiphus (4.490). Compare [[son-of-atreus]], which also names more than one brother.
+Πριαμίδης = Πρίαμος + the patronymic suffix -ίδης: “son of Priam.” Priam had fifty sons, nineteen of them by one mother (Il. 24.495–497; [[sons-of-priam]]), and the patronymic can name any of them. *Iliad* 2–4 give it to three: Hector, as he leads the Trojans in the Trojan Catalogue ({{ref:Iliad 2.817}}); Paris, when Menelaus' spear strikes his shield ({{ref:Iliad 3.356}}); and Antiphus (4.490). Compare [[son-of-atreus]], which also names more than one brother.
 
 ## Use
 

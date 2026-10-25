@@ -16,7 +16,7 @@ of: [cronus]
 
 ## Use
 
-In Homer the epithet usually stands in the line-end formula Κρόνου πάϊς ἀγκυλομήτεω, “the son of crooked-counseling Cronus,” which names Zeus through his father (see [[son-of-cronus]]). The father has the epithet, the son the action. Book 2 uses the formula twice, both times in Odysseus' mouth, and both times of a gift of Zeus. He tells the commoners that there must be one king:
+In Homer the epithet usually stands in the line-end formula Κρόνου πάϊς ἀγκυλομήτεω, “the son of crooked-counseling Cronus,” which names Zeus through his father (see [[son-of-cronus]]). The father has the epithet, the son the action. *Iliad* 2 uses the formula twice, both times in Odysseus' mouth, and both times of a gift of Zeus. He tells the commoners that there must be one king:
 
 {{quote:a08bf104-57fa-51e0-9d0d-32ada468bbf2}}
 

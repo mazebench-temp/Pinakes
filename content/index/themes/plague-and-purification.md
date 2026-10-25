@@ -2,7 +2,7 @@
 title: Plague and purification
 kind: theme
 tags: [purification, sacrifice, divine-will]
-summary: [[Apollo]]'s plague and its cure frame the first half of Book 1: the god's arrows, a seer's diagnosis, the return of [[Chryseis]], the army's purification, a hecatomb and a paean.
+summary: [[Apollo]]'s plague and its cure frame the first half of *Iliad* 1: the god's arrows, a seer's diagnosis, the return of [[Chryseis]], the army's purification, a hecatomb and a paean.
 refs: [1.10, 1.50, 1.52, 1.61, 1.97, 1.313, 1.314, 1.317, 1.456, 1.472, 1.473]
 passages:
   - 1.43-52 | The plague

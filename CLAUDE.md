@@ -30,7 +30,8 @@ A zero-dependency reader and index of Greek literature. Content lives in `conten
   key terms keep one English word each. Refs in their notes are bare Bekker lines
   (`1355b26`); elsewhere they name the work (`Rhetoric 1355b26`).
 - **References**: in entry files a bare reference is an Iliad line; name any other work
-  (`refs: [Poetics 1451a36]`, `{{quote:Rhetoric 1355b25-27 | Title}}`, *Odyssey* 19.203 in prose).
+  (`refs: [Poetics 1451a36]`, `{{quote:Rhetoric 1355b25-27 | Title}}`, *Odyssey* 19.203 in prose), and
+  name the poem when citing a book (*Iliad* 2, *Odyssey* 5, never a bare "Book 2").
   In a note, references default to the note's own work. A note's `grc` and `en` apply only within
   its work (or its author's works); put forms that would mislead elsewhere there, not in the entry.
 - **Quotations**: a work's structure file lists the passages that quote other authors (`source`,

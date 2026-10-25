@@ -12,7 +12,7 @@ of: [hector]
 
 ## Meaning
 
-λυσσητήρ is an agent noun formed from λύσσα, the battle frenzy of a warrior: “one who rages.” In Book 9 Odysseus tells Achilles that Hector, trusting in Zeus, rages terribly, that a mighty frenzy has entered him, and that he will come on with a deadly frenzy (9.237–239, 9.304–305); in Book 21 the frenzy holds Achilles' own heart (21.542–543). κύων, “dog,” is a common word of abuse in Homer ([[dogs]], [[dog-face]], [[shameless-dog]]). Teucer joins the two: the dog of insult, and the frenzy of the warrior. The word λυσσητήρ is found only here.
+λυσσητήρ is an agent noun formed from λύσσα, the battle frenzy of a warrior: “one who rages.” In *Iliad* 9 Odysseus tells Achilles that Hector, trusting in Zeus, rages terribly, that a mighty frenzy has entered him, and that he will come on with a deadly frenzy (9.237–239, 9.304–305); in Book 21 the frenzy holds Achilles' own heart (21.542–543). κύων, “dog,” is a common word of abuse in Homer ([[dogs]], [[dog-face]], [[shameless-dog]]). Teucer joins the two: the dog of insult, and the frenzy of the warrior. The word λυσσητήρ is found only here.
 
 ## Use
 

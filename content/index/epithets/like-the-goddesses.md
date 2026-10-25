@@ -3,7 +3,7 @@ title: Like the goddesses
 greek: ἐϊκυῖα θεῇσι
 kind: epithet
 tags: [woman, heroic-epithet]
-summary: “Like the goddesses,” a line-end formula of praise for a woman's beauty: Castianeira, the mother of Gorgythion, in Book 8, Hecamede and Briseis later in the Iliad, and Nausicaa in the Odyssey.
+summary: “Like the goddesses,” a line-end formula of praise for a woman's beauty: Castianeira, the mother of Gorgythion, in *Iliad* 8, Hecamede and Briseis later in the Iliad, and Nausicaa in the Odyssey.
 aliases: [eikyia theeisi, like the goddesses in form]
 grc: [ἐϊκυῖα θεῇσι]
 en: [like the goddesses]

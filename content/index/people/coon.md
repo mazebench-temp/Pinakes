@@ -26,4 +26,4 @@ passages:
 
 He dies as he tries to save his brother's body, dragging it by the foot and calling on the best men to help, and his head falls on the body he was saving (see [[fighting-over-the-body]]). κασίγνητον καὶ ὄπατρον, “his brother by the same father”, is said also of Teucer, Ajax's bastard brother (12.371; 8.284), so the phrase does not say whether Coon too was Theano's son; the poem names only Iphidamas as hers (11.221–224; see [[theano]] and [[kasignetos]]).
 
-**The wound remembered.** Agamemnon fights on while the blood is warm, and when it dries, pains like a woman's in labor drive him to his chariot (11.264–274). The wounded chiefs of Book 11 begin with him (see [[the-wounded-chiefs]]), and the king still bears the wound at the assembly of reconciliation (19.51–53).
+**The wound remembered.** Agamemnon fights on while the blood is warm, and when it dries, pains like a woman's in labor drive him to his chariot (11.264–274). The wounded chiefs of *Iliad* 11 begin with him (see [[the-wounded-chiefs]]), and the king still bears the wound at the assembly of reconciliation (19.51–53).

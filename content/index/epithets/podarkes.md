@@ -17,7 +17,7 @@ of: [achilles]
 
 ## Use
 
-It occurs once in Book 1, in a whole-line formula of reply:
+It occurs once in *Iliad* 1, in a whole-line formula of reply:
 
 {{quote:29e9c380-725c-58be-a5eb-f15349dd7651}}
 

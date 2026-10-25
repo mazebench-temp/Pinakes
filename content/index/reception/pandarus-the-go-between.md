@@ -12,7 +12,7 @@ passages:
 
 {{quote:505dae43-d440-50b7-a29d-c9332c98490b}}
 
-In Homer, Pandarus son of Lycaon leads the men of Zeleia, under Mount Ida, and Apollo himself gave him his bow (2.824–827). In Book 4 Athena, in the likeness of the Trojan Laodocus, persuades him to shoot Menelaus during the truce, for the thanks of the Trojans and the gifts of Alexander (4.86–104). The arrow breaks the oaths. In Book 5 Diomedes kills him (5.290–296). Nothing in the Iliad connects him with love.
+In Homer, Pandarus son of Lycaon leads the men of Zeleia, under Mount Ida, and Apollo himself gave him his bow (2.824–827). In *Iliad* 4 Athena, in the likeness of the Trojan Laodocus, persuades him to shoot Menelaus during the truce, for the thanks of the Trojans and the gifts of Alexander (4.86–104). The arrow breaks the oaths. In Book 5 Diomedes kills him (5.290–296). Nothing in the Iliad connects him with love.
 
 The change came in the fourteenth century. The love of the Trojan prince Troilus for the daughter of the seer Calchas was a medieval invention, first told by Benoît de Sainte-Maure in the twelfth century (see [[from-briseis-to-cressida]]). Boccaccio, retelling it in *Il Filostrato* (1330s), added a go-between. His Pandaro, Troiolo's friend and Criseida's cousin, persuades her to return the prince's love and arranges their meetings. Why Boccaccio gave this part to a man named after Homer's archer is not known.
 

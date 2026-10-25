@@ -19,7 +19,7 @@ passages:
 
 **His text.** Lycurgus' verses differ from ours in three places. He has “fight at the ships without a break” (διαμπερές) for “in a body” (ἀολλέες, 15.494); “his little children” (νήπια τέκνα, the phrase of 2.136 and 4.238) for “his children after him” (παῖδες ὀπίσσω, 15.497); and “his allotment and his house” for “his house and his allotment” (15.498).
 
-**The lesson.** Lycurgus makes a Trojan the model for Athenian citizens, without remark. What he takes from the verses is what Hector offers his men: a death that is not unseemly, and a household kept safe by it. Tyrtaeus' couplet, quoted next, says it in nearly the same words, τεθνάμεναι … περὶ ᾗ πατρίδι μαρνάμενον, “to die … fighting for his native land”, as Hector's ἀμυνομένῳ περὶ πάτρης τεθνάμεν. Hector had put the thought in a single verse in Book 12: “One omen is best: to fight in defense of our native land” (12.243; see [[one-omen-is-best]]).
+**The lesson.** Lycurgus makes a Trojan the model for Athenian citizens, without remark. What he takes from the verses is what Hector offers his men: a death that is not unseemly, and a household kept safe by it. Tyrtaeus' couplet, quoted next, says it in nearly the same words, τεθνάμεναι … περὶ ᾗ πατρίδι μαρνάμενον, “to die … fighting for his native land”, as Hector's ἀμυνομένῳ περὶ πάτρης τεθνάμεν. Hector had put the thought in a single verse in *Iliad* 12: “One omen is best: to fight in defense of our native land” (12.243; see [[one-omen-is-best]]).
 
 The law of the Panathenaea that Lycurgus cites is reported under [[the-robe-and-the-panathenaea]] and [[rhapsody]].
 

@@ -24,7 +24,7 @@ In the Iliad the noun belongs to gods and to [[Achilles]] alone. Athena leads Ar
 
 Homer has several words for anger, and they are not interchangeable. [[cholos|χόλος]] (“anger”) is the everyday word: it rises in the chest and can be swallowed. [[kotos|κότος]] (“grudge”) is anger stored up for later. μῆνις is larger than either. It is the anger of a being whose [[time|τιμή]] (“honor”) has been violated, and it works like a sanction: the offender's whole community suffers until the honor is restored. Leonard Muellner (*The Anger of Achilles: Mênis in Greek Epic*, 1996) argued that the word names a sanction against acts that threaten the order of the world. That is why it belongs to gods, and why a mortal who has it stands on their level.
 
-The verb μηνίω means “keep up one's wrath” or “nurse one's wrath”. Book 1 uses it of Achilles twice and of [[Agamemnon]] once. The poem never gives Agamemnon the noun.
+The verb μηνίω means “keep up one's wrath” or “nurse one's wrath”. *Iliad* 1 uses it of Achilles twice and of [[Agamemnon]] once. The poem never gives Agamemnon the noun.
 
 The etymology is disputed. The word has been connected with [[menos|μένος]] (“fury”), and Calvert Watkins derived it from the root of μιμνῄσκω (“remember”), which would make μῆνις an anger that does not forget. Neither view is certain.
 

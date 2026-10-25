@@ -3,7 +3,7 @@ title: Far-shooter
 greek: ἑκηβόλος
 kind: epithet
 tags: [divine-epithet]
-summary: The chief epithet of [[Apollo]] as archer, “shooting from afar,” also used alone as his name, “the Far-Shooter.” It heads a family of related titles that run through the plague story of Book 1.
+summary: The chief epithet of [[Apollo]] as archer, “shooting from afar,” also used alone as his name, “the Far-Shooter.” It heads a family of related titles that run through the plague story of *Iliad* 1.
 aliases: [far-shooting, far-darter, hekebolos]
 grc: [ἑκηβόλ*]
 en: [far-shooting, Far-Shooter]
@@ -15,7 +15,7 @@ of: [apollo]
 
 ἑκηβόλος is traditionally analyzed as ἑκάς (“far off”) + βάλλω (“throw, shoot”): “shooting from afar.” The analysis fits Apollo the archer, whose arrows strike from a distance, and the translation follows it. It is not certain. Some modern scholars connect the first element instead with ἑκών (“willing”) and ἕκητι (“by the will of”), which would give “who shoots at will,” a god whose arrows go where he wishes.
 
-The same idea appears in several related forms, all used of Apollo in Book 1: ἑκατηβόλος ([[hekatebolos]]), ἑκατηβελέτης ([[hekatebeletes]]), the short form ἕκατος ([[hekatos]]), and ἑκάεργος ([[far-worker]]). With [[god-of-the-silver-bow]] (ἀργυρότοξος) they make the bow his defining attribute.
+The same idea appears in several related forms, all used of Apollo in *Iliad* 1: ἑκατηβόλος ([[hekatebolos]]), ἑκατηβελέτης ([[hekatebeletes]]), the short form ἕκατος ([[hekatos]]), and ἑκάεργος ([[far-worker]]). With [[god-of-the-silver-bow]] (ἀργυρότοξος) they make the bow his defining attribute.
 
 ## Use
 

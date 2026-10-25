@@ -10,7 +10,7 @@ en: [distant kinsmen]
 
 When the Iliad lets a minor warrior die with more than a name, it often looks past him to his parents: who his father was, what the old man hoped, and what the death leaves in his house.
 
-Among the gods, parents can save their sons for a time, as no mortal parent can. Aphrodite carries Aeneas out of the battle (5.311–318), and Zeus keeps death from Sarpedon in Book 5 (5.662) but lets him die in Book 16 (16.431–461; see [[sarpedon]] and [[mothers-and-sons]]). The mortal fathers can only send their sons, advise them, and lose them.
+Among the gods, parents can save their sons for a time, as no mortal parent can. Aphrodite carries Aeneas out of the battle (5.311–318), and Zeus keeps death from Sarpedon in *Iliad* 5 (5.662) but lets him die in Book 16 (16.431–461; see [[sarpedon]] and [[mothers-and-sons]]). The mortal fathers can only send their sons, advise them, and lose them.
 
 {{notes}}
 

@@ -23,7 +23,7 @@ passages:
 
 The lookout is named only in the race around the city: Achilles and Hector run “past the lookout and the windy wild fig tree” (22.145), always out from under the wall, along the wagon road, to the springs of the Scamander (22.145–148; see [[the-fig-tree]], [[the-springs-of-the-scamander]], [[the-walls-of-troy]] and [[the-pursuit-of-hector]]). The poem does not say what it was.
 
-Two other lookouts appear on the Trojan plain. Polites, Priam's son, “sat as a lookout for the Trojans, trusting in his speed of foot, / on top of the tomb of old Aesyetes, / waiting for the moment when the Achaeans would set out from their ships” (2.792–794; see [[polites]] and [[aesyetes]]). And when the gods withdraw from the fighting in Book 20, Poseidon bids them sit “off the path, at a lookout” (20.137): they sit on the high wall of Heracles, and the gods of the other side on the brows of Callicolone (20.144–151; see [[the-wall-of-heracles]] and [[callicolone]]). The poem does not connect either with the lookout of Book 22.
+Two other lookouts appear on the Trojan plain. Polites, Priam's son, “sat as a lookout for the Trojans, trusting in his speed of foot, / on top of the tomb of old Aesyetes, / waiting for the moment when the Achaeans would set out from their ships” (2.792–794; see [[polites]] and [[aesyetes]]). And when the gods withdraw from the fighting in *Iliad* 20, Poseidon bids them sit “off the path, at a lookout” (20.137): they sit on the high wall of Heracles, and the gods of the other side on the brows of Callicolone (20.144–151; see [[the-wall-of-heracles]] and [[callicolone]]). The poem does not connect either with the lookout of Book 22.
 
 ## Outside Homer
 

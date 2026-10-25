@@ -16,12 +16,12 @@ of: [zeus]
 
 ## Use
 
-The three uses in Book 2 name Zeus as the power that decides the war.
+The three uses in *Iliad* 2 name Zeus as the power that decides the war.
 
 Agamemnon, pretending despair, says that the flight must be what pleases Zeus:
 
 {{quote:ba72721d-8045-5464-be78-c108d4fc49f8}}
 
-He means it as a test, but the lines are those of real despair. They return word for word in Book 9, when he proposes flight in earnest (Il. 9.23–25), and the first of them again in Book 14 (Il. 14.69).
+He means it as a test, but the lines are those of real despair. They return word for word in *Iliad* 9, when he proposes flight in earnest (Il. 9.23–25), and the first of them again in Book 14 (Il. 14.69).
 
 Nestor answers with a sign of Zeus' favor: when the army sailed from Aulis, the son of Cronus, supreme in might, nodded assent and flashed his lightning on the right ({{ref:Iliad 2.350-353}}; [[the-departure-from-aulis]]). And Agamemnon sacrifices an ox “to the son of Cronus, supreme in might” before the battle ({{ref:Iliad 2.403}}). Zeus accepts the offering but does not grant the prayer ({{ref:Iliad 2.419-420}}).

@@ -18,4 +18,4 @@ of: [hawk]
 
 ## Outside Homer
 
-In Aristotle's *History of Animals* the φασσοφόνος is one of the kinds of hawk (9.36), and the cymindis is the size of “the hawk called the dove-killer” (9.12), so that Homer's epithet has become the name of a species (see the Book 15 note on [[aristotle]]).
+In Aristotle's *History of Animals* the φασσοφόνος is one of the kinds of hawk (9.36), and the cymindis is the size of “the hawk called the dove-killer” (9.12), so that Homer's epithet has become the name of a species (see the *Iliad* 15 note on [[aristotle]]).

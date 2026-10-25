@@ -28,7 +28,7 @@ Achilles has been driving Hector on relentlessly, like a dog that rouses a fawn 
 
 ## Elsewhere in Homer
 
-The chase that cannot end has a forerunner at the close of Book 21, where Apollo, in Agenor's likeness, ran a little ahead of Achilles over the plain, bewitching him by a trick “so that he always hoped to catch him with his own feet” (21.604–605; see [[apollo-deceives-achilles]]). That was a god's deception. The dream of Book 22 is a man's.
+The chase that cannot end has a forerunner at the close of *Iliad* 21, where Apollo, in Agenor's likeness, ran a little ahead of Achilles over the plain, bewitching him by a trick “so that he always hoped to catch him with his own feet” (21.604–605; see [[apollo-deceives-achilles]]). That was a god's deception. The dream of Book 22 is a man's.
 
 The chase ends in a dream. That night, as he lies groaning on the shore among the Myrmidons, sleep seizes Achilles (ὕπνος ἔμαρπτε), for his limbs are very weary from rushing at Hector toward windy Ilios, and the soul of Patroclus comes to him as he sleeps; he reaches out with his hands and cannot take hold of it, and it goes beneath the earth like smoke (23.59–65, 23.99–101). In the Odyssey a dream is the likeness of what cannot be held. Three times Odysseus rushes to embrace the shade of his mother, his heart bidding him take hold of her (ἑλέειν τέ με θυμὸς ἀνώγει, the half-verse of the falcon at 22.142), and three times she flies from his hands σκιῇ εἴκελον ἢ καὶ ὀνείρῳ, like a shadow or a dream (*Odyssey* 11.204–208); for when the body has been burned, the soul flies off and flits about like a dream (*Odyssey* 11.219–222).
 

@@ -3,7 +3,7 @@ title: Arcesilaus
 greek: Ἀρκεσίλαος
 kind: person
 tags: [achaean, warrior, boeotia]
-summary: One of the five leaders of the [[Boeotians]]. Hector kills him in Book 15.
+summary: One of the five leaders of the [[Boeotians]]. Hector kills him in *Iliad* 15.
 grc: [Ἀρκεσίλαός]
 passages:
   - 2.494-510 | The Boeotians in the Catalogue

@@ -16,11 +16,11 @@ passages:
 
 {{quote:8dabd452-362d-5346-b996-1374b97efce9}}
 
-The Catalogue tells the sack in three lines, as a clause about Briseis. Achilles took her "out of Lyrnessus after much toil" (πολλὰ μογήσας), when he sacked Lyrnessus and the walls of Thebe and struck down Mynes and Epistrophus, the sons of lord Euenus. διαπορθήσας, "having sacked utterly", is the language of the raids in Book 1 (see [[achilles-raids]] and [[raiding]]).
+The Catalogue tells the sack in three lines, as a clause about Briseis. Achilles took her "out of Lyrnessus after much toil" (πολλὰ μογήσας), when he sacked Lyrnessus and the walls of Thebe and struck down Mynes and Epistrophus, the sons of lord Euenus. διαπορθήσας, "having sacked utterly", is the language of the raids in *Iliad* 1 (see [[achilles-raids]] and [[raiding]]).
 
 ## In the poem
 
-The story explains the present. Achilles lies idle "angry over the girl", and the narrator stops to say where the girl came from. The phrase πολλὰ μογήσας confirms Achilles' complaint in Book 1, that his prize was one "for which I toiled much" (1.162): the narrator takes his side on the facts. The line that joins Lyrnessus and Thebe also joins the two captive women of the quarrel, [[Briseis]] from Lyrnessus and [[Chryseis]] from Thebe (1.366–369; see [[sack-of-thebe]] and [[captive-women]]).
+The story explains the present. Achilles lies idle "angry over the girl", and the narrator stops to say where the girl came from. The phrase πολλὰ μογήσας confirms Achilles' complaint in *Iliad* 1, that his prize was one "for which I toiled much" (1.162): the narrator takes his side on the facts. The line that joins Lyrnessus and Thebe also joins the two captive women of the quarrel, [[Briseis]] from Lyrnessus and [[Chryseis]] from Thebe (1.366–369; see [[sack-of-thebe]] and [[captive-women]]).
 
 ## Elsewhere in Homer
 

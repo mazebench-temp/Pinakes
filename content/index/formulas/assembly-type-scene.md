@@ -22,4 +22,4 @@ passages:
 
 ## Elsewhere in Homer
 
-A herald puts the scepter into the speaker's hand (Iliad 23.567–568; Odyssey 2.37–38). Achilles calls an assembly again in Book 19, to renounce his wrath (19.40–41), and this time he dissolves it himself (19.276).
+A herald puts the scepter into the speaker's hand (Iliad 23.567–568; Odyssey 2.37–38). Achilles calls an assembly again in *Iliad* 19, to renounce his wrath (19.40–41), and this time he dissolves it himself (19.276).

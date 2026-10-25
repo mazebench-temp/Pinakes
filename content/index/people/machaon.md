@@ -3,7 +3,7 @@ title: Machaon
 greek: Μαχάων
 kind: person
 tags: [achaean, warrior, thessaly]
-summary: A son of [[Asclepius]], healer and fighter, who with his brother [[Podalirius]] led thirty ships from Tricca, Ithome and Oechalia. He heals Menelaus in Book 4 and is wounded by Paris in Book 11.
+summary: A son of [[Asclepius]], healer and fighter, who with his brother [[Podalirius]] led thirty ships from Tricca, Ithome and Oechalia. He heals Menelaus in *Iliad* 4 and is wounded by Paris in Book 11.
 grc: [Μαχάων]
 refs: [2.731, 2.733]
 relations:
@@ -18,7 +18,7 @@ The name seems to be formed from μάχη ("battle"). Machaon has two scenes in 
 
 ## Elsewhere in Homer
 
-In Book 11 Paris hits him in the right shoulder with an arrow, and Idomeneus urges Nestor to carry him from the field, since “a healer is a man worth many others” (11.504–520). Achilles, watching from his ship, sends [[Patroclus]] to find out who the wounded man is, and the narrator says of this errand, “this was the beginning of evil for him” (11.597–615).
+In *Iliad* 11 Paris hits him in the right shoulder with an arrow, and Idomeneus urges Nestor to carry him from the field, since “a healer is a man worth many others” (11.504–520). Achilles, watching from his ship, sends [[Patroclus]] to find out who the wounded man is, and the narrator says of this errand, “this was the beginning of evil for him” (11.597–615).
 
 ## Outside Homer
 

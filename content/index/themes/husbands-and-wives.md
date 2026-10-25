@@ -21,11 +21,11 @@ The army's own wives are at home. Agamemnon, testing the men, reminds them that 
 
 ## Two husbands
 
-Helen has two. The duel of Book 3 is fought to decide whose wife she will be (3.138), and she calls Menelaus her “former husband” to Paris' face (3.429; see [[posis]]). In Book 6 she wishes she were the wife of a better man, one who felt the blame and reproaches of others (6.349–351); Paris has just told Hector that she urged him back to battle “with gentle words” (6.337–338).
+Helen has two. The duel of *Iliad* 3 is fought to decide whose wife she will be (3.138), and she calls Menelaus her “former husband” to Paris' face (3.429; see [[posis]]). In Book 6 she wishes she were the wife of a better man, one who felt the blame and reproaches of others (6.349–351); Paris has just told Hector that she urged him back to battle “with gentle words” (6.337–338).
 
 ## Hector and Andromache
 
-Against these the poem sets one marriage whole. Andromache tells Hector that he is father, mother and brother to her, and her “flourishing husband” (θαλερὸς παρακοίτης, 6.429–430), the phrase Hector used in Book 3 of Menelaus' wife (θαλερὴν παράκοιτιν, 3.53). Hector answers that what grieves him most is the thought of her led away captive to weave at another woman's loom (6.450–465). The curse of the oath in Book 3, “may their wives be subdued by others” (3.301), is the fate he foresees for her. In the last book she mourns him as his widow (24.725–745).
+Against these the poem sets one marriage whole. Andromache tells Hector that he is father, mother and brother to her, and her “flourishing husband” (θαλερὸς παρακοίτης, 6.429–430), the phrase Hector used in Book 3 of Menelaus' wife (θαλερὴν παράκοιτιν, 3.53). Hector answers that what grieves him most is the thought of her led away captive to weave at another woman's loom (6.450–465). The curse of the oath in *Iliad* 3, “may their wives be subdued by others” (3.301), is the fate he foresees for her. In the last book she mourns him as his widow (24.725–745).
 
 In the *Odyssey* the ideal is spoken outright: nothing is better than when a husband and wife keep house together with one mind (ὁμοφρονέοντε, *Odyssey* 6.182–184).
 

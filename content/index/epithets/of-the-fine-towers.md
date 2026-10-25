@@ -22,6 +22,6 @@ Hector opens his challenge by laying the broken oaths on Zeus:
 
 {{quote:ddb17e1d-32bf-5f01-a125-f46fc3634e59}}
 
-The war has two possible ends, and Hector names both: the Achaeans take the city, or they are beaten at their ships ([[seafaring-ship]]). The epithet of the city's strength stands in the clause of its capture. The poem follows the second road first: from Book 8 on, the Trojans drive the Achaeans back behind their wall, and in Book 15 Hector fights at the ships.
+The war has two possible ends, and Hector names both: the Achaeans take the city, or they are beaten at their ships ([[seafaring-ship]]). The epithet of the city's strength stands in the clause of its capture. The poem follows the second road first: from *Iliad* 8 on, the Trojans drive the Achaeans back behind their wall, and in Book 15 Hector fights at the ships.
 
 The Achaeans answer with towers of their own. Nestor proposes them on the evening of the duel, “high towers, a safeguard for the ships and for ourselves” (7.338; πύργους ὑψηλούς), and two days later the army builds them, with a wall and gates and a ditch (7.436–441; [[the-achaean-wall]]). Poseidon complains that men will forget the wall that he and Apollo built for Laomedon (7.451–453; [[the-walls-of-troy]]). The book in which Hector names Troy of the fine towers ends with a second walled camp on the plain. See [[troy]] and [[hector]].

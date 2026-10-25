@@ -3,7 +3,7 @@ title: Polyidus, son of Eurydamas
 greek: Πολύειδος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, son of the old dream-reader [[Eurydamas]], killed by Diomedes with his brother [[abas-son-of-eurydamas|Abas]] (5.148–151). The Corinthian seer Polyidus of Book 13 is another man.
+summary: A Trojan, son of the old dream-reader [[Eurydamas]], killed by Diomedes with his brother [[abas-son-of-eurydamas|Abas]] (5.148–151). The Corinthian seer Polyidus of *Iliad* 13 is another man.
 aliases: [Polyidus, Polyeidos]
 grc: [Πολύειδον]
 en: [Polyidus]

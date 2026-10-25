@@ -13,7 +13,7 @@ passages:
   - 10.272-282 | The heron and Odysseus' prayer
 ---
 
-ἐρῳδιός occurs only once in Homer, in Book 10, and the poem says nothing of the bird's look. It is usually taken as the heron, the bird that later Greek calls by this name (see the translation's note on 10.274–276). What the poem gives is its cry. In the dark the two men “did not see it with their eyes … but they heard it cry” (κλάγξαντος ἄκουσαν, 10.276). κλάζω and κλαγγή are the words for the harsh cries of birds: the cranes that fly crying over Oceanus (3.3–5; see [[cranes]]), and the eagle that shrieks as it drops its serpent and flies off down the wind (12.207; see [[eagle]]). At the end of the night the same noun gives the cry of the Trojans when they find the Thracians dead, “a clamor and an untold tumult” (10.523).
+ἐρῳδιός occurs only once in Homer, in *Iliad* 10, and the poem says nothing of the bird's look. It is usually taken as the heron, the bird that later Greek calls by this name (see the translation's note on 10.274–276). What the poem gives is its cry. In the dark the two men “did not see it with their eyes … but they heard it cry” (κλάγξαντος ἄκουσαν, 10.276). κλάζω and κλαγγή are the words for the harsh cries of birds: the cranes that fly crying over Oceanus (3.3–5; see [[cranes]]), and the eagle that shrieks as it drops its serpent and flies off down the wind (12.207; see [[eagle]]). At the end of the night the same noun gives the cry of the Trojans when they find the Thracians dead, “a clamor and an untold tumult” (10.523).
 
 ## The sign
 

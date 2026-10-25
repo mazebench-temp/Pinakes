@@ -12,6 +12,6 @@ of: [spear]
 
 ## Meaning
 
-κόλος, “docked, cut short,” is found only here in Homer. The verb of the same root, κολούω, “cut short, curtail,” is Hector's word for Achilles' boasts in Book 20: he will fulfill one and cut the other short midway (20.369–370). The pattern is the phrase κόλον δόρυ. See [[spear]].
+κόλος, “docked, cut short,” is found only here in Homer. The verb of the same root, κολούω, “cut short, curtail,” is Hector's word for Achilles' boasts in *Iliad* 20: he will fulfill one and cut the other short midway (20.369–370). The pattern is the phrase κόλον δόρυ. See [[spear]].
 
 {{notes}}

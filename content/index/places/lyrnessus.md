@@ -12,7 +12,7 @@ passages:
 
 {{quote:63dc3fe5-137d-5006-8724-9fe60eea5aeb}}
 
-Book 2 names Lyrnessus with Thebe, the city of Eetion, as the towns of the Troad that Achilles sacked (see [[thebe]]). It was "the city of divine Mynes", and Achilles killed [[Mynes]] and his brother [[epistrophus-of-lyrnessus|Epistrophus]] there (2.692; 19.296).
+*Iliad* 2 names Lyrnessus with Thebe, the city of Eetion, as the towns of the Troad that Achilles sacked (see [[thebe]]). It was "the city of divine Mynes", and Achilles killed [[Mynes]] and his brother [[epistrophus-of-lyrnessus|Epistrophus]] there (2.692; 19.296).
 
 ## Elsewhere in Homer
 

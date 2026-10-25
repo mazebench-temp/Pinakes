@@ -13,7 +13,7 @@ passages:
 
 ## Meaning
 
-νεύω is “nod, bow the head”. κατανεύω, “nod down”, means assent: to grant a request or confirm a promise. ἀνανεύω, “nod up”, means refusal. When Achilles prays for Patroclus in Book 16, Zeus grants one request and refuses the other (ἀνένευσε, 16.250). Latin *numen*, “nod” and so “divine will”, comes from the same root.
+νεύω is “nod, bow the head”. κατανεύω, “nod down”, means assent: to grant a request or confirm a promise. ἀνανεύω, “nod up”, means refusal. When Achilles prays for Patroclus in *Iliad* 16, Zeus grants one request and refuses the other (ἀνένευσε, 16.250). Latin *numen*, “nod” and so “divine will”, comes from the same root.
 
 {{notes}}
 

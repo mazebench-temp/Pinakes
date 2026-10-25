@@ -17,6 +17,6 @@ In *Politics* 3.14 Aristotle sorts the kinds of kingship. The Spartan kind, he s
 
 Those last words are not in our manuscripts, where the speech ends with the dogs and the birds (2.393). Either the text Aristotle used had an extra phrase here, or he supplied one from memory. Modern editions, including Monro and Allen, do not print them.
 
-The passage is also a reading of Book 2. The abuse Agamemnon endured in assembly is presumably Achilles' in Book 1 and Thersites' in this book (2.225–242). Aristotle saw what the book dramatizes: a king who cannot command the assembly still holds, on the field, the power of death.
+The passage is also a reading of *Iliad* 2. The abuse Agamemnon endured in assembly is presumably Achilles' in Book 1 and Thersites' in this book (2.225–242). Aristotle saw what the book dramatizes: a king who cannot command the assembly still holds, on the field, the power of death.
 
 See [[aristotle]], [[agamemnon]] and [[kingship-and-authority]].

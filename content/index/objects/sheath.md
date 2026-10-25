@@ -9,7 +9,7 @@ grc: [κολεοῖο, κουλεὸν]
 en: [sheath]
 ---
 
-The κολεός is the sword's scabbard. Book 1 names it twice, in two spellings, at the beginning and end of Athena's intervention. Achilles is drawing his great [[sword|sword]] “from its sheath” (ἐκ κολεοῖο) when she arrives, and at her word he thrusts it “back into its sheath” (ἐς κουλεόν). The form κουλεόν lengthens the first syllable to fit the verse; κολεόν would not scan there.
+The κολεός is the sword's scabbard. *Iliad* 1 names it twice, in two spellings, at the beginning and end of Athena's intervention. Achilles is drawing his great [[sword|sword]] “from its sheath” (ἐκ κολεοῖο) when she arrives, and at her word he thrusts it “back into its sheath” (ἐς κουλεόν). The form κουλεόν lengthens the first syllable to fit the verse; κολεόν would not scan there.
 
 {{quote:b98de796-cb17-562e-a5e2-56276bbe59e0}}
 

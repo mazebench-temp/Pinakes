@@ -16,7 +16,7 @@ relations:
 
 ## Family
 
-Son of [[Zeus]] and Semele. Zeus names her in the list of women he has loved: ἣ δὲ Διώνυσον Σεμέλη τέκε χάρμα βροτοῖσιν, “and Semele bore Dionysus, a joy to mortals” (14.323–325). χάρμα (“joy, delight”) may point to wine, though Homer never names wine as his gift. In Book 6 he has nurses (τιθῆναι, 6.132), so the Iliad's one story of him belongs to his childhood. Hesiod makes Semele a daughter of Cadmus, “a mortal who bore an immortal; now both are gods” (*Theogony* 940–942, 975–976), and gives Dionysus a wife, Ariadne, daughter of Minos, whom Zeus made immortal and ageless (*Theogony* 947–949).
+Son of [[Zeus]] and Semele. Zeus names her in the list of women he has loved: ἣ δὲ Διώνυσον Σεμέλη τέκε χάρμα βροτοῖσιν, “and Semele bore Dionysus, a joy to mortals” (14.323–325). χάρμα (“joy, delight”) may point to wine, though Homer never names wine as his gift. In *Iliad* 6 he has nurses (τιθῆναι, 6.132), so the Iliad's one story of him belongs to his childhood. Hesiod makes Semele a daughter of Cadmus, “a mortal who bore an immortal; now both are gods” (*Theogony* 940–942, 975–976), and gives Dionysus a wife, Ariadne, daughter of Minos, whom Zeus made immortal and ageless (*Theogony* 947–949).
 
 ## Descriptions
 

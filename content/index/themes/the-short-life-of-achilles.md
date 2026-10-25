@@ -30,9 +30,9 @@ Before Zeus, Thetis makes the superlative her argument: honor my son, who is ὠ
 
 ## The choice
 
-Book 1 does not yet name the choice that lies behind this fate. Achilles explains it in Book 9. His mother told him of two destinies: if he stays and fights at Troy he loses his homecoming but his glory will never perish; if he goes home his glory is lost but his life will be long (9.410–416). In Book 1 he threatens to take the second road and sail home to Phthia (1.169–171), but he does not go. He sits by the ships, and the idle days consume him: he “wasted away his own heart” (φθινύθεσκε φίλον κῆρ, 1.491). The verb belongs with φθίνω, “waste, perish”.
+*Iliad* 1 does not yet name the choice that lies behind this fate. Achilles explains it in Book 9. His mother told him of two destinies: if he stays and fights at Troy he loses his homecoming but his glory will never perish; if he goes home his glory is lost but his life will be long (9.410–416). In Book 1 he threatens to take the second road and sail home to Phthia (1.169–171), but he does not go. He sits by the ships, and the idle days consume him: he “wasted away his own heart” (φθινύθεσκε φίλον κῆρ, 1.491). The verb belongs with φθίνω, “waste, perish”.
 
-The choice is made in Book 18. When Achilles resolves to kill Hector, Thetis tells him he will indeed be ὠκύμορος, since his own death is ready straight after Hector's (18.95–96).
+The choice is made in *Iliad* 18. When Achilles resolves to kill Hector, Thetis tells him he will indeed be ὠκύμορος, since his own death is ready straight after Hector's (18.95–96).
 
 ## Related entries
 

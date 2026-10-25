@@ -18,4 +18,4 @@ of: [asius, achilles]
 
 {{quote:de37ec23-05bd-545e-a892-0dbe5fdafe56}}
 
-The Trojan Catalogue names Asius twice in two lines, the second time taking up the end of the first (Ἄσιος Ὑρτακίδης), and adds his great tawny horses. In Book 12 he refuses to leave his chariot and drives it at the Achaean wall, and the narrator foretells that he will not come back from the ships (Il. 12.110–115). The title in Book 2 prepares a leader whose pride in his horses brings him down.
+The Trojan Catalogue names Asius twice in two lines, the second time taking up the end of the first (Ἄσιος Ὑρτακίδης), and adds his great tawny horses. In *Iliad* 12 he refuses to leave his chariot and drives it at the Achaean wall, and the narrator foretells that he will not come back from the ships (Il. 12.110–115). The title in Book 2 prepares a leader whose pride in his horses brings him down.

@@ -5,7 +5,7 @@ kind: story
 period: iliad
 mode: narrated
 tags: [warfare, divine-will, camp]
-summary: The fighting among the Achaean ships after the Trojans break through the wall, which fills Book 13 and goes on until Patroclus drives the Trojans back in Book 16. While Zeus looks away, Poseidon secretly rallies the Achaeans; the close ranks around the two Ajaxes stop Hector, Idomeneus and Meriones hold the left, and the book ends with Ajax's challenge and the shout of both armies (13.1–837).
+summary: The fighting among the Achaean ships after the Trojans break through the wall, which fills *Iliad* 13 and goes on until Patroclus drives the Trojans back in Book 16. While Zeus looks away, Poseidon secretly rallies the Achaeans; the close ranks around the two Ajaxes stop Hector, Idomeneus and Meriones hold the left, and the book ends with Ajax's challenge and the shout of both armies (13.1–837).
 aliases: [battle at the ships, the fight at the ships, the fighting at the ships, the battle by the ships, Mache epi nausi, Machē epi nausi]
 participants: [zeus, poseidon, hector, the-two-ajaxes, ajax, ajax-son-of-oileus, teucer, idomeneus, meriones, antilochus, menelaus, deiphobus, helenus, aeneas, paris, polydamas, asius, othryoneus, alcathous, ascalaphus, imbrius, amphimachus, harpalion, euchenor, trojans, achaeans]
 passages:
@@ -45,11 +45,11 @@ passages:
 
 ## In the poem
 
-**Against Zeus' design.** Zeus has promised Hector power to kill “until he comes to the well-benched ships” (11.193; see [[the-third-day-of-battle]]), and Achilles will not fight until Hector “comes to the huts and ships of the Myrmidons, / killing the Argives, and burns the ships with fire” (9.652–653). Zeus brings Hector to the ships and looks away, and Poseidon, who would not fight Zeus in Book 8 (8.208–211), acts in secret, “in the likeness of a man” (13.357). So the first book of the battle at the ships is a book of Achaean success inside a day of Trojan victory: “soon the glory would have been the Achaeans'”, so hard did Poseidon urge them on (13.676–678; see [[would-have-had-not]]).
+**Against Zeus' design.** Zeus has promised Hector power to kill “until he comes to the well-benched ships” (11.193; see [[the-third-day-of-battle]]), and Achilles will not fight until Hector “comes to the huts and ships of the Myrmidons, / killing the Argives, and burns the ships with fire” (9.652–653). Zeus brings Hector to the ships and looks away, and Poseidon, who would not fight Zeus in *Iliad* 8 (8.208–211), acts in secret, “in the likeness of a man” (13.357). So the first book of the battle at the ships is a book of Achaean success inside a day of Trojan victory: “soon the glory would have been the Achaeans'”, so hard did Poseidon urge them on (13.676–678; see [[would-have-had-not]]).
 
 **Two fronts.** Most of the killing happens on the left, while Hector holds the breach and comes to the left only to look for his brothers (13.765). No great hero falls; the dead are lesser men, many of them given a family: Priam's sons-in-law, Cassandra's suitor, Poseidon's grandson, Ares' son.
 
-**How it goes on.** Nestor hears the din and sees the wall thrown down (14.1–15). While Hera lulls Zeus to sleep, Poseidon leads the Argives openly, and Ajax fells Hector with a stone (14.354–439). Zeus wakes, sees Poseidon among the Argives, and sends him back to the sea (15.4–8, 15.158–219). Apollo throws down the wall, and Hector lays hold of the stern of Protesilaus' ship and calls for fire while Ajax keeps it off with his spear (15.355–366, 15.704–746; see [[protesilaus]]). The first ship burns in Book 16, and Patroclus puts out the fire and drives the Trojans away (16.112–124, 16.284–305; see [[patroclus]]).
+**How it goes on.** Nestor hears the din and sees the wall thrown down (14.1–15). While Hera lulls Zeus to sleep, Poseidon leads the Argives openly, and Ajax fells Hector with a stone (14.354–439). Zeus wakes, sees Poseidon among the Argives, and sends him back to the sea (15.4–8, 15.158–219). Apollo throws down the wall, and Hector lays hold of the stern of Protesilaus' ship and calls for fire while Ajax keeps it off with his spear (15.355–366, 15.704–746; see [[protesilaus]]). The first ship burns in *Iliad* 16, and Patroclus puts out the fire and drives the Trojans away (16.112–124, 16.284–305; see [[patroclus]]).
 
 ## Outside Homer
 

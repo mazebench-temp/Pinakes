@@ -18,4 +18,4 @@ of: [tripod]
 
 {{quote:f456ba10-2d88-516b-93b0-966232bfb778}}
 
-The tripods head the list of Agamemnon's gifts, and the epithet marks them as treasure, not kitchen ware: seven tripods untouched by fire, ten talents of gold, twenty gleaming cauldrons ([[tawny]]), twelve prize-winning horses ([[prize-winning]]). Odysseus repeats the line word for word (9.264). In Book 19 the tripods are carried out of Agamemnon's hut with the rest of the gifts (19.243). See [[the-gifts-of-agamemnon]].
+The tripods head the list of Agamemnon's gifts, and the epithet marks them as treasure, not kitchen ware: seven tripods untouched by fire, ten talents of gold, twenty gleaming cauldrons ([[tawny]]), twelve prize-winning horses ([[prize-winning]]). Odysseus repeats the line word for word (9.264). In *Iliad* 19 the tripods are carried out of Agamemnon's hut with the rest of the gifts (19.243). See [[the-gifts-of-agamemnon]].

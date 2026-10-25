@@ -16,10 +16,10 @@ of: [troy]
 
 ## Use
 
-In Book 2 the wide-streeted city is always Troy, and always the object of the verb “take.” Zeus tells the Dream to promise that Agamemnon may take it now ({{ref:Iliad 2.12}}), and the promise is repeated twice in the same words ({{ref:Iliad 2.29}}, {{ref:Iliad 2.66}}). Then Agamemnon, testing the army, says the opposite:
+In *Iliad* 2 the wide-streeted city is always Troy, and always the object of the verb “take.” Zeus tells the Dream to promise that Agamemnon may take it now ({{ref:Iliad 2.12}}), and the promise is repeated twice in the same words ({{ref:Iliad 2.29}}, {{ref:Iliad 2.66}}). Then Agamemnon, testing the army, says the opposite:
 
 {{quote:878c5554-79f9-5d32-9f2d-595a7a0e252c}}
 
 Odysseus answers with the older prophecy. At Aulis Calchas had said that the war would last nine years, “and in the tenth we shall take the wide-streeted city” ({{ref:Iliad 2.329}}). The same phrase, πόλιν αἱρήσομεν εὐρυάγυιαν, carries the false promise, the pretended despair, and the true prediction.
 
-Agamemnon's line of despair returns word for word in Book 9, when he proposes flight in earnest (Il. 9.28). What was a test in Book 2 has become his real counsel.
+Agamemnon's line of despair returns word for word in *Iliad* 9, when he proposes flight in earnest (Il. 9.28). What was a test in Book 2 has become his real counsel.

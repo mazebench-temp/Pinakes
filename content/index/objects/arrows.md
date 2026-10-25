@@ -12,7 +12,7 @@ passages:
   - 1.43-53 | The plague arrows
 ---
 
-Book 1 has four words for Apollo's arrows. ὀϊστός and ἰός are the ordinary words for an arrow. βέλος (from βάλλω, “throw, shoot”) is any missile, arrow or spear. κῆλα is a rare poetic word that Homer uses only of divine missiles: Apollo's arrows here, and Zeus's snow at Iliad 12.280.
+*Iliad* 1 has four words for Apollo's arrows. ὀϊστός and ἰός are the ordinary words for an arrow. βέλος (from βάλλω, “throw, shoot”) is any missile, arrow or spear. κῆλα is a rare poetic word that Homer uses only of divine missiles: Apollo's arrows here, and Zeus's snow at Iliad 12.280.
 
 {{notes}}
 

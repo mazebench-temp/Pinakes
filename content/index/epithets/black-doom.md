@@ -20,4 +20,4 @@ The Trojan Catalogue uses the formula of the augur Ennomus: “his birds did not
 
 {{quote:f49731cf-d73d-5abf-9bbd-dddf0d20d3c2}}
 
-The same verse ends Ajax's throw at Hector in Book 7 (Il. 7.254). At the end of Book 3, when Menelaus searches the field for him, none of the Trojans would have hidden Paris, “for he was hateful to them all, like black doom” (3.454). The man who has twice escaped death is as hateful as death to his own people ([[like-black-doom]]).
+The same verse ends Ajax's throw at Hector in *Iliad* 7 (Il. 7.254). At the end of Book 3, when Menelaus searches the field for him, none of the Trojans would have hidden Paris, “for he was hateful to them all, like black doom” (3.454). The man who has twice escaped death is as hateful as death to his own people ([[like-black-doom]]).

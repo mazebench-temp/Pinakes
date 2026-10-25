@@ -28,7 +28,7 @@ The point of both comparisons is brightness and beauty. The robe is the finest t
 
 ## In context
 
-Both are held out to the gods. The robe is carried to the temple of Athena on the citadel, laid on the goddess's knees by the priestess Theano, and offered with a prayer that Diomedes may fall before the Scaean gates; “but Pallas Athena shook her head” (6.297–311; see [[the-robe-for-athena]]). The child is kissed and lifted in his father's arms while Hector prays that he may rule Ilios and come back from war with bloody spoils, and that someone may say of him, “He is far better than his father” (6.474–481; see [[hector-and-andromache]]). The narrator reports Athena's refusal at once and says nothing of Hector's prayer. Andromache's lament in Book 24 says what will become of the child: some Achaean will take him by the arm and throw him from the tower (24.734–736).
+Both are held out to the gods. The robe is carried to the temple of Athena on the citadel, laid on the goddess's knees by the priestess Theano, and offered with a prayer that Diomedes may fall before the Scaean gates; “but Pallas Athena shook her head” (6.297–311; see [[the-robe-for-athena]]). The child is kissed and lifted in his father's arms while Hector prays that he may rule Ilios and come back from war with bloody spoils, and that someone may say of him, “He is far better than his father” (6.474–481; see [[hector-and-andromache]]). The narrator reports Athena's refusal at once and says nothing of Hector's prayer. Andromache's lament in *Iliad* 24 says what will become of the child: some Achaean will take him by the arm and throw him from the tower (24.734–736).
 
 ## Elsewhere in Homer
 

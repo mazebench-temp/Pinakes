@@ -15,7 +15,7 @@ en: [loosened his limbs]
 
 {{quote:118b8e20-94d4-56d8-9fd6-3fee41c4159d}}
 
-The next verse gives the other half of the picture: ὣς τὸν μὲν λίπε θυμός, “so his spirit left him” (4.470). The limbs are loosened and the θυμός, the spirit that moves them, goes away (see [[thymos]]). Book 4 has other ways of saying it: Diores dies “breathing out his life” (θυμὸν ἀποπνείων, 4.524), and Thoas, killing Peirous, “took away his life” (ἐκ δʼ αἴνυτο θυμόν, 4.531).
+The next verse gives the other half of the picture: ὣς τὸν μὲν λίπε θυμός, “so his spirit left him” (4.470). The limbs are loosened and the θυμός, the spirit that moves them, goes away (see [[thymos]]). *Iliad* 4 has other ways of saying it: Diores dies “breathing out his life” (θυμὸν ἀποπνείων, 4.524), and Thoas, killing Peirous, “took away his life” (ἐκ δʼ αἴνυτο θυμόν, 4.531).
 
 ## Related phrases
 

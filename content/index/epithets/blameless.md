@@ -18,7 +18,7 @@ Ancient scholars analyzed ἀμύμων as ἀ- (“not”) + μῶμος (“bl
 
 {{quote:10431272-fdda-5d6b-889a-b5f838187ae1}}
 
-Calchas is μάντις ἀμύμων as he speaks under Achilles' protection. The phrase is ordinary praise for a seer, but in Book 1 it stands against Agamemnon's answer fourteen lines later, μάντι κακῶν, “prophet of evils” ([[prophet-of-evils]]).
+Calchas is μάντις ἀμύμων as he speaks under Achilles' protection. The phrase is ordinary praise for a seer, but in *Iliad* 1 it stands against Agamemnon's answer fourteen lines later, μάντι κακῶν, “prophet of evils” ([[prophet-of-evils]]).
 
 {{quote:dc12989d-0cdd-56cd-982f-df5359978008}}
 

@@ -18,4 +18,4 @@ The sender gives the message in direct speech and sends the messengers off. They
 
 ## Elsewhere in Homer
 
-The embassy of Book 9 arrives in the same words: “they came to the huts and ships of the Myrmidons, and found him” delighting his heart with the lyre (Iliad 9.185–186). Its walk along the shore is told in dual verbs (9.182), though the envoys are more than two. The duals are a much-discussed puzzle.
+The embassy of *Iliad* 9 arrives in the same words: “they came to the huts and ships of the Myrmidons, and found him” delighting his heart with the lyre (Iliad 9.185–186). Its walk along the shore is told in dual verbs (9.182), though the envoys are more than two. The duals are a much-discussed puzzle.

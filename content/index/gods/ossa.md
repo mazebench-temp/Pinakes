@@ -3,7 +3,7 @@ title: Rumor
 greek: Ὄσσα
 kind: god
 tags: [personification, speech, divine-will]
-summary: Ὄσσα, the Voice or Rumor that spreads news where no one knows its source, “the messenger of Zeus”. In Book 2 she blazes through the Achaeans as they gather for the assembly.
+summary: Ὄσσα, the Voice or Rumor that spreads news where no one knows its source, “the messenger of Zeus”. In *Iliad* 2 she blazes through the Achaeans as they gather for the assembly.
 aliases: [Rumour, Fama]
 grc: ["=ὄσσα"]
 ---

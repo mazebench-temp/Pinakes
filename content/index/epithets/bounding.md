@@ -12,7 +12,7 @@ of: [poseidon, horses]
 
 ## Meaning
 
-ἐΰσκαρθμος = εὖ (“well”) + the root of σκαίρω (“skip, bound”), the verb of the young people who follow the singer, skipping, at the vintage on Achilles' shield (ποσὶ σκαίροντες, 18.571–572) and of calves that frisk around their mothers (Od. 10.410–412): “bounding well, nimble.” Homer has it only here. It names the gait of horses that fly over the waves, as the stride of the gods' horses in Book 5 covers as much haze as a man can see from a lookout over the sea (5.770–772; [[swift-flying]]).
+ἐΰσκαρθμος = εὖ (“well”) + the root of σκαίρω (“skip, bound”), the verb of the young people who follow the singer, skipping, at the vintage on Achilles' shield (ποσὶ σκαίροντες, 18.571–572) and of calves that frisk around their mothers (Od. 10.410–412): “bounding well, nimble.” Homer has it only here. It names the gait of horses that fly over the waves, as the stride of the gods' horses in *Iliad* 5 covers as much haze as a man can see from a lookout over the sea (5.770–772; [[swift-flying]]).
 
 ## Use
 

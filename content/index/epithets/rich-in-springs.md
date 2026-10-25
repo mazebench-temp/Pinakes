@@ -18,4 +18,4 @@ of: [ida]
 
 {{quote:c6c1ae0c-17d6-5c7d-9f54-56662c199210}}
 
-Agamemnon has driven the Trojans to the Scaean gates (11.163–180) when Zeus comes down from heaven and sits on the peaks of Ida with the lightning in his hands. From there he sends Iris to Hector with the message that makes Agamemnon's wounding the turn of the day (11.186–194; [[message-repeated]], [[plan-of-zeus]]). He watched the battle from the peaks of Ida in Book 8 as well (8.47–52), and from Ida he stretches this battle evenly (11.336–337; [[watching-the-war]]). See [[ida]], [[zeus]] and [[iris]].
+Agamemnon has driven the Trojans to the Scaean gates (11.163–180) when Zeus comes down from heaven and sits on the peaks of Ida with the lightning in his hands. From there he sends Iris to Hector with the message that makes Agamemnon's wounding the turn of the day (11.186–194; [[message-repeated]], [[plan-of-zeus]]). He watched the battle from the peaks of Ida in *Iliad* 8 as well (8.47–52), and from Ida he stretches this battle evenly (11.336–337; [[watching-the-war]]). See [[ida]], [[zeus]] and [[iris]].

@@ -3,7 +3,7 @@ title: Apisaon
 greek: Ἀπισάων
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, son of Phausius, “shepherd of the people”, killed by Eurypylus with a spear in the liver as he presses Ajax; Paris shoots Eurypylus while he strips him (11.575–584). Not the Paeonian Apisaon, son of Hippasus, whom Lycomedes kills in Book 17.
+summary: A Trojan, son of Phausius, “shepherd of the people”, killed by Eurypylus with a spear in the liver as he presses Ajax; Paris shoots Eurypylus while he strips him (11.575–584). Not the Paeonian Apisaon, son of Hippasus, whom Lycomedes kills in *Iliad* 17.
 aliases: [Apisaōn, Apisaon son of Phausius]
 # Φαυσιάδην (11.578), "son of Phausius": the father has no entry, so the son claims the patronymic.
 # Ἀπισάονα at 17.348 is the Paeonian son of Hippasus (apisaon-son-of-hippasus), excepted here.

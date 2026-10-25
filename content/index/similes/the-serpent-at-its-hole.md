@@ -3,7 +3,7 @@ title: The serpent at its hole
 greek: ὡς δὲ δράκων ἐπὶ χειῇ ὀρέστερος ἄνδρα μένῃσι
 kind: simile
 tags: [wild-animal, warfare, anger]
-summary: Unmoved by his parents' pleas, Hector waits for Achilles outside the gates “As a serpent of the mountains waits for a man at its hole, / having fed on evil drugs”, full of anger, glaring terribly as it coils (22.92–97). It turns the serpent simile of Book 3 around: here the Trojan is the snake.
+summary: Unmoved by his parents' pleas, Hector waits for Achilles outside the gates “As a serpent of the mountains waits for a man at its hole, / having fed on evil drugs”, full of anger, glaring terribly as it coils (22.92–97). It turns the serpent simile of *Iliad* 3 around: here the Trojan is the snake.
 aliases: [like a serpent at its hole, the mountain serpent, Hector like a serpent, the snake at its hole, the coiled serpent]
 grc: ["ἐπὶ χειῇ ὀρέστερος", "βεβρωκὼς κακὰ", "ἑλισσόμενος περὶ χειῇ", "ἄσβεστον ἔχων μένος"]
 en: [waits for a man at its hole, having fed on evil drugs, glares terribly as it coils about its hole, did not give ground]
@@ -28,7 +28,7 @@ Priam and Hecuba have begged Hector from the wall to come inside, the father tea
 
 ## Elsewhere in Homer
 
-The simile answers the serpent of Book 3, where Alexander, seeing Menelaus come out among the champions, shrinks back into the Trojan ranks: “As when a man sees a serpent and starts back / in the glades of a mountain, and trembling seizes his limbs” (3.33–34; see [[man-who-meets-a-serpent]]). There the Trojan was the man, and he recoiled. Here the Trojan is the serpent, and he waits. But in the end Hector does what the man of Book 3 did. “And when Hector saw him” (ὡς ἐνόησεν), the narrator says, “trembling seized him” (ἕλε τρόμος, 22.136), as Alexander drew back “when … caught sight of him” (ὡς οὖν ἐνόησεν, 3.30) and trembling seized the limbs of the man in the glades (3.34). The serpents of the portents are monsters: the blood-red snake of Aulis that ate the sparrow and her nestlings (2.308–319; see [[the-portent-at-aulis]]), and the one the eagle dropped among the Trojans at the ditch, still alive and fighting (12.200–209; see [[the-eagle-and-the-serpent]]).
+The simile answers the serpent of *Iliad* 3, where Alexander, seeing Menelaus come out among the champions, shrinks back into the Trojan ranks: “As when a man sees a serpent and starts back / in the glades of a mountain, and trembling seizes his limbs” (3.33–34; see [[man-who-meets-a-serpent]]). There the Trojan was the man, and he recoiled. Here the Trojan is the serpent, and he waits. But in the end Hector does what the man of Book 3 did. “And when Hector saw him” (ὡς ἐνόησεν), the narrator says, “trembling seized him” (ἕλε τρόμος, 22.136), as Alexander drew back “when … caught sight of him” (ὡς οὖν ἐνόησεν, 3.30) and trembling seized the limbs of the man in the glades (3.34). The serpents of the portents are monsters: the blood-red snake of Aulis that ate the sparrow and her nestlings (2.308–319; see [[the-portent-at-aulis]]), and the one the eagle dropped among the Trojans at the ditch, still alive and fighting (12.200–209; see [[the-eagle-and-the-serpent]]).
 
 ## Outside Homer
 

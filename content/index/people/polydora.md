@@ -25,7 +25,7 @@ passages:
 
 The name is the adjective πολύδωρος, “of many gifts”, which Homer gives to wives, Andromache (6.394, 22.88) and Penelope (*Odyssey* 24.294; see [[richly-dowered]]). Whether the gifts are a dowry or the bride-price paid for a girl is disputed; Polydora was married with “a boundless bride-price”.
 
-If her father is Achilles' father, she is Achilles' sister, and the poem does not say so. Achilles himself, in Book 24, speaks of Peleus as a man who had no line of sons in his halls to rule after him, only one son, doomed to an untimely death (24.538–540; see [[peleus]]); he says nothing of a daughter.
+If her father is Achilles' father, she is Achilles' sister, and the poem does not say so. Achilles himself, in *Iliad* 24, speaks of Peleus as a man who had no line of sons in his halls to rule after him, only one son, doomed to an untimely death (24.538–540; see [[peleus]]); he says nothing of a daughter.
 
 ## Outside Homer
 

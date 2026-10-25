@@ -3,7 +3,7 @@ title: Clonius
 greek: Κλονίος
 kind: person
 tags: [achaean, warrior, boeotia]
-summary: One of the five leaders of the [[Boeotians]]. Agenor kills him in Book 15.
+summary: One of the five leaders of the [[Boeotians]]. Agenor kills him in *Iliad* 15.
 grc: [Κλονίος]
 passages:
   - 2.494-510 | The Boeotians in the Catalogue
@@ -15,4 +15,4 @@ The name recalls κλόνος, the rout or turmoil of battle. He is the last of 
 
 ## Elsewhere in Homer
 
-He dies in a single half-line, in the Trojan rally of Book 15: “and brilliant Agenor killed Clonius” (15.340).
+He dies in a single half-line, in the Trojan rally of *Iliad* 15: “and brilliant Agenor killed Clonius” (15.340).

@@ -18,7 +18,7 @@ The epithet is not Hera's alone. Homer gives it to mortal women too: Helen (Il. 
 
 ## Use
 
-The formula occurs four times in Book 1 in the nominative ({{ref:Iliad 1.55}}, {{ref:Iliad 1.195}}, {{ref:Iliad 1.208}}, {{ref:Iliad 1.595}}) and once in the dative, λευκωλένῳ Ἥρῃ ({{ref:Iliad 1.572}}).
+The formula occurs four times in *Iliad* 1 in the nominative ({{ref:Iliad 1.55}}, {{ref:Iliad 1.195}}, {{ref:Iliad 1.208}}, {{ref:Iliad 1.595}}) and once in the dative, λευκωλένῳ Ἥρῃ ({{ref:Iliad 1.572}}).
 
 The first three show Hera acting out of sight on the human plot. She puts the idea of an assembly into Achilles' mind:
 
@@ -32,6 +32,6 @@ On Olympus the formulas change. When Hera challenges Zeus and is silenced, she i
 
 {{quote:02590d94-91da-5505-a434-049e80dfe8a6}}
 
-The two formulas have exactly the same metrical shape, and both fill the second half of the verse after the caesura in the middle of the third foot (compare 551 with 595). Meter does not decide between them. In Book 1 the distribution is nonetheless clear: the white-armed goddess is Hera the helper of the Achaeans and the mother, and the ox-eyed queen is Hera in confrontation with her husband. Whether the poet chose with that difference in mind cannot be proved, but the pattern is there to be heard.
+The two formulas have exactly the same metrical shape, and both fill the second half of the verse after the caesura in the middle of the third foot (compare 551 with 595). Meter does not decide between them. In *Iliad* 1 the distribution is nonetheless clear: the white-armed goddess is Hera the helper of the Achaeans and the mother, and the ox-eyed queen is Hera in confrontation with her husband. Whether the poet chose with that difference in mind cannot be proved, but the pattern is there to be heard.
 
 The book ends with a third formula, [[golden-throned]] (χρυσόθρονος), as Hera sleeps beside Zeus ({{ref:Iliad 1.611}}).

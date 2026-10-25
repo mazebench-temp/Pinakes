@@ -26,4 +26,4 @@ passages:
 
 **His head.** The two Ajaxes carry him off like two lions holding a goat high above the ground in their jaws, and strip his armor. The son of Oileus, angry for Amphimachus, cuts his head from his tender neck and sends it spinning through the throng, σφαιρηδόν, “like a ball”, a word found only here, to fall in the dust at Hector's feet (13.197–205; see [[the-two-ajaxes]], [[ajax-son-of-oileus]] and [[two-lions-and-a-goat]]).
 
-**The name.** Ἴμβριος means “of Imbros”, the island off the Thracian Chersonese (see [[imbros]]); in Book 21 Eetion of Imbros is Ἴμβριος Ἠετίων (21.43). The poem does not say that Imbrius came from the island.
+**The name.** Ἴμβριος means “of Imbros”, the island off the Thracian Chersonese (see [[imbros]]); in *Iliad* 21 Eetion of Imbros is Ἴμβριος Ἠετίων (21.43). The poem does not say that Imbrius came from the island.

@@ -16,7 +16,7 @@ of: [sword]
 
 ## Use
 
-The silver-studded sword belongs to the arming of a hero. The whole line ἀμφὶ δ’ ἄρ’ ὤμοισιν βάλετο ξίφος ἀργυρόηλον recurs when Paris (Il. 3.334), Patroclus (Il. 16.135) and Achilles (Il. 19.372) arm for battle. In Book 2 it has a different setting. Agamemnon dresses in the dark after the Dream, and the sword comes between the sandals and the scepter:
+The silver-studded sword belongs to the arming of a hero. The whole line ἀμφὶ δ’ ἄρ’ ὤμοισιν βάλετο ξίφος ἀργυρόηλον recurs when Paris (Il. 3.334), Patroclus (Il. 16.135) and Achilles (Il. 19.372) arm for battle. In *Iliad* 2 it has a different setting. Agamemnon dresses in the dark after the Dream, and the sword comes between the sandals and the scepter:
 
 {{quote:e33c248a-9e1b-596b-9d6c-bac21690432c}}
 

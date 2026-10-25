@@ -19,4 +19,4 @@ Death is told as the end of sight. To live is to “look on the light of the sun
 
 ## Elsewhere in Homer
 
-The whole blow of the first killing of the poem, three verses from the ridge of the helmet to the darkness, is used again when Ajax kills the Thracian leader Acamas at the beginning of Book 6 (6.9–11 ~ 4.459–461).
+The whole blow of the first killing of the poem, three verses from the ridge of the helmet to the darkness, is used again when Ajax kills the Thracian leader Acamas at the beginning of *Iliad* 6 (6.9–11 ~ 4.459–461).

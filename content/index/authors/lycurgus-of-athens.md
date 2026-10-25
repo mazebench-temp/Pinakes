@@ -13,4 +13,4 @@ To show the jurors how their ancestors thought of their country, Lycurgus quotes
 
 - Hector's exhortation at the ships, and the law that Homer alone of the poets should be recited at every Great Panathenaea (*Against Leocrates* 102–104): [[lycurgus-quotes-hector]], [[the-robe-and-the-panathenaea]] and [[rhapsody]].
 
-See [[erechtheus]] for the king of the *Erechtheus*; others of the name are [[lycurgus-of-sparta]], the lawgiver, and [[lycurgus]], the Thracian king of Book 6.
+See [[erechtheus]] for the king of the *Erechtheus*; others of the name are [[lycurgus-of-sparta]], the lawgiver, and [[lycurgus]], the Thracian king of *Iliad* 6.

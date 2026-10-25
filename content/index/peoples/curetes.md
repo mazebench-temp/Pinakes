@@ -14,7 +14,7 @@ passages:
 
 {{quote:8b7573b8-38ee-5811-b063-b1227106df85}}
 
-The name is formed from κοῦρος, “young man”, and the same word is a common noun in Book 19, where “young men, the best of all the Achaeans”, carry Agamemnon's gifts (κούρητας, 19.193; κούρητες, 19.248; see [[kouretes]]). The Monro–Allen text gives the people a capital and a different accent, Κουρῆτες beside κούρητες, and the index claims only the capitalized forms.
+The name is formed from κοῦρος, “young man”, and the same word is a common noun in *Iliad* 19, where “young men, the best of all the Achaeans”, carry Agamemnon's gifts (κούρητας, 19.193; κούρητες, 19.248; see [[kouretes]]). The Monro–Allen text gives the people a capital and a different accent, Κουρῆτες beside κούρητες, and the index claims only the capitalized forms.
 
 Homer tells only what the story needs. The war began over the head and hide of the boar that Artemis had sent (9.547–549; see [[the-calydonian-boar]]). As long as Meleager fought, “it went badly for the Curetes, and they could not / hold their ground outside the wall, many as they were” (9.551–552). When he held back, they battered the gates and towers, and at last “onto the towers / the Curetes were climbing and setting fire to the great city” (9.573–574, 9.588–589; see [[calydon]] and [[aetolians]]). Phoenix does not say where they came from or who led them. In his likeness they stand where the Trojans stand, at the wall and with fire for the ships (see [[the-wrath-of-meleager]]).
 

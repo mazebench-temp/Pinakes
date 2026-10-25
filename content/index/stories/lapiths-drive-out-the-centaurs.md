@@ -19,7 +19,7 @@ Three verbs tell the whole war. Peirithous "took vengeance" (ἐτίσατο) on
 
 ## In the poem
 
-The story is told to date a birth. Polypoetes was born "on the day" of the victory, as if the Lapiths' future leader and their triumph belonged together. In Book 1 Nestor named Peirithous and Caeneus among the mightiest men he had ever known and said that they destroyed the beasts of the mountains (1.262–268; see [[nestor-and-the-centaurs]]). Book 2 brings on their son and grandson, [[Polypoetes]] and [[Leonteus]], as leaders at Troy. The heroes whom Nestor held up as a standard are the fathers of men in the army.
+The story is told to date a birth. Polypoetes was born "on the day" of the victory, as if the Lapiths' future leader and their triumph belonged together. In *Iliad* 1 Nestor named Peirithous and Caeneus among the mightiest men he had ever known and said that they destroyed the beasts of the mountains (1.262–268; see [[nestor-and-the-centaurs]]). Book 2 brings on their son and grandson, [[Polypoetes]] and [[Leonteus]], as leaders at Troy. The heroes whom Nestor held up as a standard are the fathers of men in the army.
 
 ## Outside Homer
 

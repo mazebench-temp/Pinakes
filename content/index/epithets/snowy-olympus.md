@@ -18,4 +18,4 @@ of: [olympus]
 
 {{quote:1a74728f-7bc4-5370-8ff9-9d6f977b4aa5}}
 
-Thetis names the snowy mountain as the goal of her journey. It is one of four epithets of Olympus in Book 1, each fitted to its moment: snowy as a distant destination, [[many-ridged-olympus|many-ridged]] where Zeus sits on the summit, [[high-olympus|high]] in the story of Briareus, and [[gleaming-olympus|gleaming]] as Thetis leaps from it into the sea.
+Thetis names the snowy mountain as the goal of her journey. It is one of four epithets of Olympus in *Iliad* 1, each fitted to its moment: snowy as a distant destination, [[many-ridged-olympus|many-ridged]] where Zeus sits on the summit, [[high-olympus|high]] in the story of Briareus, and [[gleaming-olympus|gleaming]] as Thetis leaps from it into the sea.

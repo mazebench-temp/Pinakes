@@ -22,4 +22,4 @@ Nestor has shamed the Achaeans into answering Hector's challenge, and nine men s
 
 {{quote:5153eedb-7af4-524d-ad81-372a289f58f6}}
 
-The two Ajaxes rise together and are described together, the great and the lesser, by one formula ([[ajax]], [[ajax-son-of-oileus]]). The same verse, with the same neighbors, brings them into the fighting of Book 8 (8.261–263), and in Book 18 they drive Hector back three times from Patroclus' body, “clothed in furious courage” (18.157–158). Of the nine, the lot will fall to the greater of the two (7.182–183). See [[the-duel-of-hector-and-ajax]].
+The two Ajaxes rise together and are described together, the great and the lesser, by one formula ([[ajax]], [[ajax-son-of-oileus]]). The same verse, with the same neighbors, brings them into the fighting of *Iliad* 8 (8.261–263), and in Book 18 they drive Hector back three times from Patroclus' body, “clothed in furious courage” (18.157–158). Of the nine, the lot will fall to the greater of the two (7.182–183). See [[the-duel-of-hector-and-ajax]].

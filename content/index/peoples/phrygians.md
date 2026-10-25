@@ -11,7 +11,7 @@ en: [Phrygians]
 
 {{quote:cf90bca4-c022-58c6-a339-f28215b69be4}}
 
-μέμασαν δ᾽ ὑσμῖνι μάχεσθαι, "they were eager to fight in the combat". The Phrygians are old friends of Troy. On the wall in Book 3, Priam remembers going to Phrygia in his youth and fighting beside its kings, Otreus and Mygdon, on the banks of the Sangarius, when the Amazons came against them; he went, he says, as an ally (ἐπίκουρος), and he remembers the Phrygians and their quick horses (3.184–189). Hecuba's brother Asius lived in Phrygia by the Sangarius (16.717–719). In Dolon's list they are "Phrygians who fight from horses" (ἱππόμαχοι, 10.431). Hector says that Troy's treasures have gone to Phrygia and Maeonia to pay for the war (18.288–292), and Achilles, speaking to Priam, marks the limits of his old kingdom by Lesbos, "Phrygia above" and the Hellespont (24.544–545).
+μέμασαν δ᾽ ὑσμῖνι μάχεσθαι, "they were eager to fight in the combat". The Phrygians are old friends of Troy. On the wall in *Iliad* 3, Priam remembers going to Phrygia in his youth and fighting beside its kings, Otreus and Mygdon, on the banks of the Sangarius, when the Amazons came against them; he went, he says, as an ally (ἐπίκουρος), and he remembers the Phrygians and their quick horses (3.184–189). Hecuba's brother Asius lived in Phrygia by the Sangarius (16.717–719). In Dolon's list they are "Phrygians who fight from horses" (ἱππόμαχοι, 10.431). Hector says that Troy's treasures have gone to Phrygia and Maeonia to pay for the war (18.288–292), and Achilles, speaking to Priam, marks the limits of his old kingdom by Lesbos, "Phrygia above" and the Hellespont (24.544–545).
 
 ## Outside Homer
 

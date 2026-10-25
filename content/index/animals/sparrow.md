@@ -11,7 +11,7 @@ en: [sparrow, nestlings]
 
 στρουθός is a small bird, usually identified with the sparrow. Later Greek also used the word loosely of small birds, and called the ostrich “the big στρουθός” (Xenophon, *Anabasis* 1.5.2). Its young are νεοσσοί (“nestlings”, from νέος, “young”).
 
-Homer names the sparrow in a single passage, the sign at [[aulis|Aulis]] that [[Odysseus]] recalls in Book 2. There the sparrow is a victim, a mother with eight nestlings devoured by a [[serpent]] that Zeus has sent, and [[Calchas]] turns their number into the years of the war (see [[the-portent-at-aulis]]).
+Homer names the sparrow in a single passage, the sign at [[aulis|Aulis]] that [[Odysseus]] recalls in *Iliad* 2. There the sparrow is a victim, a mother with eight nestlings devoured by a [[serpent]] that Zeus has sent, and [[Calchas]] turns their number into the years of the war (see [[the-portent-at-aulis]]).
 
 {{notes}}
 

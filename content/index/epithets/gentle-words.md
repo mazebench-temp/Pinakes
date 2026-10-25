@@ -16,7 +16,7 @@ of: [epos]
 
 ## Use
 
-The phrase comes three times in Book 2, in a command given twice and then carried out. Hera tells Athena to go through the army and “hold back every man with your gentle words” ({{ref:Iliad 2.164}}); Athena gives the same command to Odysseus ({{ref:Iliad 2.180}}). Odysseus obeys, but only with the kings:
+The phrase comes three times in *Iliad* 2, in a command given twice and then carried out. Hera tells Athena to go through the army and “hold back every man with your gentle words” ({{ref:Iliad 2.164}}); Athena gives the same command to Odysseus ({{ref:Iliad 2.180}}). Odysseus obeys, but only with the kings:
 
 {{quote:1c378be8-f929-5889-a0b4-ca518ae9c506}}
 

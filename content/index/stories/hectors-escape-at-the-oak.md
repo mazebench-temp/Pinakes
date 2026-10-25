@@ -7,7 +7,7 @@ order: 6.5
 mode: allusion
 narrator: achilles
 tags: [backstory, warfare, foreshadowing]
-summary: In the years when Achilles fought, Hector kept the battle near the walls of Troy, and once he waited for Achilles alone at the Scaean gates and the oak and barely escaped his charge. Achilles recalls it in Book 9; the poem does not tell it.
+summary: In the years when Achilles fought, Hector kept the battle near the walls of Troy, and once he waited for Achilles alone at the Scaean gates and the oak and barely escaped his charge. Achilles recalls it in *Iliad* 9; the poem does not tell it.
 aliases: [Hector at the oak, Hector waits for Achilles, Hector and Achilles before the Iliad]
 participants: [hector, achilles]
 refs: [9.352-355]
@@ -25,6 +25,6 @@ Achilles tells it to Odysseus in his answer to the embassy, as the measure of wh
 
 **The years before.** Other speakers describe those years in the same way. Hera, in the likeness of Stentor, shames the Argives: as long as Achilles went to war, the Trojans never came out even before the Dardanian gates, for they dreaded his heavy spear, and now they fight far from the city, by the ships (5.788–791; see [[dardanian-gates]]). Agamemnon, holding Menelaus back from Hector's challenge, claims that even Achilles “shudders to meet this man” (7.113–114). That is usually taken as an exaggeration meant to keep his brother out of the fight (see the translation's note on 7.114). Achilles' account is the one the poem bears out: since he withdrew, Hector has driven the Achaeans back to their ships and camped on the plain (8.335–349, 8.489–565).
 
-**The place.** “The Scaean gates and the oak” mark the edge of the city. Hector came there on his way into Troy in Book 6, in the same half-verse (6.237), and the Trojans in flight halt there in Book 11 (11.170). It is where the war passes from the plain to the walls.
+**The place.** “The Scaean gates and the oak” mark the edge of the city. Hector came there on his way into Troy in *Iliad* 6, in the same half-verse (6.237), and the Trojans in flight halt there in Book 11 (11.170). It is where the war passes from the plain to the walls.
 
-**The meeting to come.** The story looks forward. When Achilles returns to the fighting, he meets Hector in Book 20, and Apollo snatches Hector away in a mist; Achilles shouts after him, “Once again you have escaped death now, you dog” (20.449), in a verse Diomedes has used of Hector before (11.362). In Book 22 Hector waits for Achilles once more before the Scaean gates, alone, when the other Trojans have fled into the city (22.5–6, 22.35–36, 22.92–97). This time he does not escape (see [[hector]] and [[achilles]]).
+**The meeting to come.** The story looks forward. When Achilles returns to the fighting, he meets Hector in *Iliad* 20, and Apollo snatches Hector away in a mist; Achilles shouts after him, “Once again you have escaped death now, you dog” (20.449), in a verse Diomedes has used of Hector before (11.362). In Book 22 Hector waits for Achilles once more before the Scaean gates, alone, when the other Trojans have fled into the city (22.5–6, 22.35–36, 22.92–97). This time he does not escape (see [[hector]] and [[achilles]]).

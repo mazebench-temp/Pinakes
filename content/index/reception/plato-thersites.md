@@ -17,7 +17,7 @@ The *Republic* ends with the story of Er, a soldier who came back from the dead 
 
 Plato's word for him, γελωτοποιός, "laughter-maker, buffoon", takes up Homer's description: Thersites said "whatever he thought would make the Argives laugh" (2.215–216). The ape was the proverbial mimic. The man who lived by ridicule takes the form of the animal people laugh at.
 
-A second figure of Book 2 appears in the same passage. The soul of Thamyras (Homer's Thamyris, whom the Muses maimed for his boast, 2.594–600) chooses the life of a nightingale, just as Orpheus chooses to be a swan (620a). The singer robbed of his song becomes a bird famous for singing.
+A second figure of *Iliad* 2 appears in the same passage. The soul of Thamyras (Homer's Thamyris, whom the Muses maimed for his boast, 2.594–600) chooses the life of a nightingale, just as Orpheus chooses to be a swan (620a). The singer robbed of his song becomes a bird famous for singing.
 
 Plato mentions Thersites once more, in the myth of the *Gorgias*. Homer, Socrates says, shows kings and rulers punished forever in Hades, Tantalus, Sisyphus and Tityus. No poet has shown Thersites, or any other wicked private man, bound in great punishments as incurable, for he did not have the power to do the worst wrongs, and so was more fortunate than those who had (525e).
 

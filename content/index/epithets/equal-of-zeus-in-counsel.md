@@ -18,7 +18,7 @@ The formula fills the second half of the verse. It occurs six times in the Iliad
 
 ## Use
 
-Book 2 uses it three times of Odysseus, each time at a turn in his part. Athena finds him when the army is fleeing:
+*Iliad* 2 uses it three times of Odysseus, each time at a turn in his part. Athena finds him when the army is fleeing:
 
 {{quote:11f43dec-ef22-5407-a3cf-0ade45e0de79}}
 

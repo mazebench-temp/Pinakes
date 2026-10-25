@@ -3,7 +3,7 @@ title: The laughter of the gods
 greek: ἄσβεστος γέλως
 kind: theme
 tags: [divine-scene, feast]
-summary: The “unquenchable laughter” (ἄσβεστος γέλως) of the gods, which ends the quarrel on Olympus in Book 1, and the laughter of men that answers it. The gods can laugh at what would be a disaster among men.
+summary: The “unquenchable laughter” (ἄσβεστος γέλως) of the gods, which ends the quarrel on Olympus in *Iliad* 1, and the laughter of men that answers it. The gods can laugh at what would be a disaster among men.
 refs: [1.595, 1.596, 1.599, 1.600]
 passages:
   - 1.584-604 | Laughter and song on Olympus

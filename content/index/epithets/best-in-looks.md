@@ -16,6 +16,6 @@ of: [alcestis, laodice, paris]
 
 ## Use
 
-Book 3 has the phrase twice. Iris comes to Helen in the likeness of Laodice, “most beautiful in form of the daughters of Priam” and wife of Antenor's son Helicaon (3.121–124). The goddess chooses the loveliest of Priam's daughters to call the loveliest of women to the wall.
+*Iliad* 3 has the phrase twice. Iris comes to Helen in the likeness of Laodice, “most beautiful in form of the daughters of Priam” and wife of Antenor's son Helicaon (3.121–124). The goddess chooses the loveliest of Priam's daughters to call the loveliest of women to the wall.
 
 Earlier, Hector turned the praise into a reproach. Paris is εἶδος ἄριστε, “best in looks,” and nothing more (3.39; [[evil-paris]]). The rest of the speech explains the charge: the Achaeans took him for a champion because of his looks, but there is no strength in him (3.43–45), and his hair and looks would not help him in the dust (3.54–55).

@@ -22,4 +22,4 @@ Achilles grants the Trojans the warrior's title while denying that they are his 
 
 {{quote:fb741578-0f58-5b3f-939b-b0e86edbcef1}}
 
-Agamemnon uses the word of Achilles to confine him to it. The everlasting gods ([[gods-who-live-forever]]) made him a spearman; they did not therefore give him the right to hurl insults. The contrast between fighting and speaking runs through the quarrel. In Book 9 Phoenix recalls that Peleus sent him to teach Achilles to be both “a speaker of words and a doer of deeds” (Il. 9.443).
+Agamemnon uses the word of Achilles to confine him to it. The everlasting gods ([[gods-who-live-forever]]) made him a spearman; they did not therefore give him the right to hurl insults. The contrast between fighting and speaking runs through the quarrel. In *Iliad* 9 Phoenix recalls that Peleus sent him to teach Achilles to be both “a speaker of words and a doer of deeds” (Il. 9.443).

@@ -3,7 +3,7 @@ title: Pylartes
 greek: Πυλάρτης
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan wounded by Telamonian Ajax when he falls on the Trojans to rescue Odysseus, the last of four men named in a single verse (11.491). Patroclus kills [[pylartes-killed-by-patroclus|a Pylartes]] in Book 16; the poem does not connect them.
+summary: A Trojan wounded by Telamonian Ajax when he falls on the Trojans to rescue Odysseus, the last of four men named in a single verse (11.491). Patroclus kills [[pylartes-killed-by-patroclus|a Pylartes]] in *Iliad* 16; the poem does not connect them.
 aliases: [Pylartēs]
 # Πυλάρτην recurs at 16.696, among the men Patroclus kills (pylartes-killed-by-patroclus, which excepts 11.491):
 # excepted here. gatekeeper claims only πυλάρταο, Hades' title "the gatekeeper" (8.367).

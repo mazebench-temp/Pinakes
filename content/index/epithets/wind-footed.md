@@ -18,4 +18,4 @@ of: [iris]
 
 {{quote:06383a26-5ced-57db-a633-cd4a8bf59986}}
 
-Book 2 introduces Iris with this formula, then switches to the other twice as she speaks: “swift-footed Iris spoke to them” ({{ref:Iliad 2.790}}, {{ref:Iliad 2.795}}). She comes from Zeus with news of the Achaean advance, taking the likeness of Priam's son Polites, a lookout “trusting in his speed of foot” ({{ref:Iliad 2.791-792}}). The swift goddess takes the form of a swift young man ([[messengers-of-zeus]]).
+*Iliad* 2 introduces Iris with this formula, then switches to the other twice as she speaks: “swift-footed Iris spoke to them” ({{ref:Iliad 2.790}}, {{ref:Iliad 2.795}}). She comes from Zeus with news of the Achaean advance, taking the likeness of Priam's son Polites, a lookout “trusting in his speed of foot” ({{ref:Iliad 2.791-792}}). The swift goddess takes the form of a swift young man ([[messengers-of-zeus]]).

@@ -28,4 +28,4 @@ His speech turns the retreat into an order. Hector always has a god at his side 
 
 ## Elsewhere in Homer
 
-A real river stops a greater hero. In Book 21 the Scamander rises against Achilles, and its wave overtakes him again and again as water overtakes a man who leads it through a garden, “for the gods are stronger than men” (21.257–264). The recoil of a man who meets something too strong for him is the subject of another simile: Alexander starts back from Menelaus like a man who sees a serpent in a mountain glade (3.33–37; see [[man-who-meets-a-serpent]]).
+A real river stops a greater hero. In *Iliad* 21 the Scamander rises against Achilles, and its wave overtakes him again and again as water overtakes a man who leads it through a garden, “for the gods are stronger than men” (21.257–264). The recoil of a man who meets something too strong for him is the subject of another simile: Alexander starts back from Menelaus like a man who sees a serpent in a mountain glade (3.33–37; see [[man-who-meets-a-serpent]]).

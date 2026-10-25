@@ -3,7 +3,7 @@ title: Rhesus
 greek: Ῥῆσος
 kind: person
 tags: [trojan, thracian, king, thrace]
-summary: King of the Thracians and son of [[eioneus-father-of-rhesus|Eioneus]], newly come to Troy with horses whiter than snow and armor fit for gods; betrayed by Dolon, he is killed in his sleep by Diomedes on the night of Book 10, and Odysseus drives off his horses. Later poets made him the son of the river Strymon and a Muse.
+summary: King of the Thracians and son of [[eioneus-father-of-rhesus|Eioneus]], newly come to Troy with horses whiter than snow and armor fit for gods; betrayed by Dolon, he is killed in his sleep by Diomedes on the night of *Iliad* 10, and Odysseus drives off his horses. Later poets made him the son of the river Strymon and a Muse.
 aliases: [Rhesos, Rhēsos, King Rhesus, Rhesus of Thrace]
 grc: [Ῥῆσος, Ῥήσου]
 # Ῥῆσος at 12.20 is the river Rhesus (rhesus-river).

@@ -36,7 +36,7 @@ Heracles did not come home easily. When he sailed from Ilios after sacking the c
 
 **Laomedon's bad faith.** The Iliad remembers Laomedon as a king who cheats those who serve him. He refused Poseidon and Apollo the wage they had earned by a year's work, building the wall and herding his cattle, and sent them off with threats (21.441–457). Heracles is another of his creditors, and the horses were his wage.
 
-**The first sack and the last.** The poem never reaches the sack that the Achaeans have come for, though its people speak of it again and again (see [[sack-of-troy-foretold]]). The fullest account it gives of a fall of Troy is of the first one, told here; Book 14 alludes to it again (14.250–251). In both wars the Trojans are in the wrong in the same way: Laomedon broke faith with the man who had served him, and Alexander with the man who had received him as a guest (3.351–354; see [[the-abduction-of-helen]]).
+**The first sack and the last.** The poem never reaches the sack that the Achaeans have come for, though its people speak of it again and again (see [[sack-of-troy-foretold]]). The fullest account it gives of a fall of Troy is of the first one, told here; *Iliad* 14 alludes to it again (14.250–251). In both wars the Trojans are in the wrong in the same way: Laomedon broke faith with the man who had served him, and Alexander with the man who had received him as a guest (3.351–354; see [[the-abduction-of-helen]]).
 
 ## Outside Homer
 

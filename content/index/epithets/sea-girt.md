@@ -17,6 +17,6 @@ of: [ithaca]
 
 ## Use
 
-It belongs to Ithaca alone, five times, always in the dative after ἐν and always where someone speaks of the island and its people. Three times it comes in the exchange between Telemachus and the suitors about who will be king (*Odyssey* 1.386, 1.395, 1.401). In Book 2 Athena, in the likeness of Mentor, promises Telemachus the best of the many ships “in sea-girt Ithaca, new and old” (*Odyssey* 2.292–294), and in Book 21 Eurymachus, who cannot string the bow, says that there are many other Achaean women “in sea-girt Ithaca itself” and in other cities (*Odyssey* 21.249–252). Compare [[craggy]] (κραναός), the island's epithet in the Iliad and once in the first book of the Odyssey (*Odyssey* 1.247).
+It belongs to Ithaca alone, five times, always in the dative after ἐν and always where someone speaks of the island and its people. Three times it comes in the exchange between Telemachus and the suitors about who will be king (*Odyssey* 1.386, 1.395, 1.401). In *Odyssey* 2 Athena, in the likeness of Mentor, promises Telemachus the best of the many ships “in sea-girt Ithaca, new and old” (*Odyssey* 2.292–294), and in Book 21 Eurymachus, who cannot string the bow, says that there are many other Achaean women “in sea-girt Ithaca itself” and in other cities (*Odyssey* 21.249–252). Compare [[craggy]] (κραναός), the island's epithet in the Iliad and once in the first book of the Odyssey (*Odyssey* 1.247).
 
 {{notes}}

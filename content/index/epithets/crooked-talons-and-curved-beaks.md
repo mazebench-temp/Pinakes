@@ -20,4 +20,4 @@ The pair comes twice in Homer, each time in a simile of fighting men: Sarpedon a
 
 ## Outside Homer
 
-The Hesiodic *Shield of Heracles* uses the same likeness for Heracles and Cycnus: like vultures with crooked talons and curved beaks that fight with loud cries on a high rock over a mountain goat or a deer that a hunter has shot, “so they rushed at one another, screaming,” in the same last verse as Book 16 (*Shield* 405–412).
+The Hesiodic *Shield of Heracles* uses the same likeness for Heracles and Cycnus: like vultures with crooked talons and curved beaks that fight with loud cries on a high rock over a mountain goat or a deer that a hunter has shot, “so they rushed at one another, screaming,” in the same last verse as *Iliad* 16 (*Shield* 405–412).

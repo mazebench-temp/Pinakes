@@ -18,4 +18,4 @@ of: [polemos]
 
 {{quote:bead43ef-f2ab-581d-a787-282407a09bbc}}
 
-Iris, in the likeness of Polites, rebukes Priam for talking endlessly as in peacetime, “but relentless war has come.” The epithet sets the war against the peace of the old man's assemblies, and the rest of her speech describes an army “like leaves or like the sands” ([[like-leaves-or-sand]]). Compare the other epithets of war in Book 2: [[grim-sounding]], [[man-destroying]], [[hateful]].
+Iris, in the likeness of Polites, rebukes Priam for talking endlessly as in peacetime, “but relentless war has come.” The epithet sets the war against the peace of the old man's assemblies, and the rest of her speech describes an army “like leaves or like the sands” ([[like-leaves-or-sand]]). Compare the other epithets of war in *Iliad* 2: [[grim-sounding]], [[man-destroying]], [[hateful]].

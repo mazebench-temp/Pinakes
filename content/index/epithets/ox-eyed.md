@@ -32,4 +32,4 @@ Line 568 repeats the shape of the line that described Chryses after Agamemnon's 
 
 A king threatens, and the one threatened is afraid and obeys; the scene on Olympus echoes the scene by the ships.
 
-βοῶπις πότνια Ἥρη and θεὰ λευκώλενος Ἥρη ([[white-armed]]) fill the same part of the verse. Book 1 keeps them apart: the ox-eyed queen quarrels with her husband, the white-armed goddess helps the Achaeans and smiles at her son.
+βοῶπις πότνια Ἥρη and θεὰ λευκώλενος Ἥρη ([[white-armed]]) fill the same part of the verse. *Iliad* 1 keeps them apart: the ox-eyed queen quarrels with her husband, the white-armed goddess helps the Achaeans and smiles at her son.

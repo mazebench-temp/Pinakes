@@ -18,7 +18,7 @@ except: [Rhetoric 1398a22, Rhetoric 1401b20]
 
 ## Etymology
 
-He has two names, and the translation keeps them apart: Ἀλέξανδρος is "Alexander" and Πάρις is "Paris". Homer uses Alexander far more often; Book 3 has it twenty-two times, and Paris twice (3.325, 3.437).
+He has two names, and the translation keeps them apart: Ἀλέξανδρος is "Alexander" and Πάρις is "Paris". Homer uses Alexander far more often; *Iliad* 3 has it twenty-two times, and Paris twice (3.325, 3.437).
 
 Ἀλέξανδρος is a Greek compound of ἀλέξω ("ward off, defend") and ἀνήρ ("man"): "defender of men". A treaty of the early thirteenth century BC between the Hittite king Muwatalli II and Alaksandu, king of Wilusa, has led many scholars to connect Alaksandu with Alexandros and Wilusa with Ilios (see [[troy]]), but neither identification is certain. Πάρις has no convincing Greek etymology and may be an Anatolian name. Hector turns it into an insult, Δύσπαρι, "Evil Paris" (3.39): δυσ- ("ill, bad") + Πάρις (see [[evil-paris]]).
 
@@ -40,11 +40,11 @@ Husband of [[Helen]]. "Brilliant Alexander, the husband of Helen of the lovely h
 
 {{quote:553b8de8-3760-5a18-a4d2-79fd88e6b536}}
 
-θεοειδής = θεός ("god") + εἶδος ("form, looks"): "godlike in looks". It is his standing epithet in Book 3, used six times, and it names the one thing everyone grants him. He first appears with an archer's leopard skin (παρδαλέη; see [[leopard-skin]]) and curved bow (καμπύλα τόξα), and with a spearman's two spears.
+θεοειδής = θεός ("god") + εἶδος ("form, looks"): "godlike in looks". It is his standing epithet in *Iliad* 3, used six times, and it names the one thing everyone grants him. He first appears with an archer's leopard skin (παρδαλέη; see [[leopard-skin]]) and curved bow (καμπύλα τόξα), and with a spearman's two spears.
 
 {{quote:450c586e-307a-5d7b-8b64-fee70366ca71}}
 
-Hector's insults, in one line: Δύσπαρι, "Evil Paris"; εἶδος ἄριστε, "best in looks" ([[best-in-looks]]); γυναιμανής = γυνή ("woman") + μαίνομαι ("be mad"): "mad for women"; ἠπεροπευτής, "seducer", from ἠπεροπεύω ("beguile"; see [[eperopeuo]]). Hector repeats the line in Book 13 (13.769). See [[eidos]] and [[beauty-and-its-price]].
+Hector's insults, in one line: Δύσπαρι, "Evil Paris"; εἶδος ἄριστε, "best in looks" ([[best-in-looks]]); γυναιμανής = γυνή ("woman") + μαίνομαι ("be mad"): "mad for women"; ἠπεροπευτής, "seducer", from ἠπεροπεύω ("beguile"; see [[eperopeuo]]). Hector repeats the line in *Iliad* 13 (13.769). See [[eidos]] and [[beauty-and-its-price]].
 
 {{quote:d10cf66b-61cf-5306-8071-257cfecad967}}
 

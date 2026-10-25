@@ -18,4 +18,4 @@ of: [hephaestus]
 
 {{quote:93d20fd6-fcb4-5f43-b7e4-1d0389626619}}
 
-The last picture of the gods in Book 1 is a picture of order: each goes to the house that the craftsman god has made. The formula for his skill completes the rehabilitation of Hephaestus, who began the scene as a peacemaker, went on as a figure of fun ([[unquenchable-laughter]]), and ends as the builder of Olympus.
+The last picture of the gods in *Iliad* 1 is a picture of order: each goes to the house that the craftsman god has made. The formula for his skill completes the rehabilitation of Hephaestus, who began the scene as a peacemaker, went on as a figure of fun ([[unquenchable-laughter]]), and ends as the builder of Olympus.

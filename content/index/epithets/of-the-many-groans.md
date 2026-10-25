@@ -3,7 +3,7 @@ title: Of the many groans
 greek: πολύστονος
 kind: epithet
 tags: [personification, warfare, rare-word]
-summary: “Causing many groans,” an epithet of Strife in the battle of Book 11, and of the sorrows of the plague, of an arrow and of a man worn by grief.
+summary: “Causing many groans,” an epithet of Strife in the battle of *Iliad* 11, and of the sorrows of the plague, of an arrow and of a man worn by grief.
 aliases: [polystonos, much-groaning, grievous]
 grc: [πολύστονος, πολύστονα]
 en: [of the many groans, grievous]

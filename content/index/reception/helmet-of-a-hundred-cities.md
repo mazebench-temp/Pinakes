@@ -12,7 +12,7 @@ passages:
 
 {{quote:44fc7188-f42c-5697-ab35-ffc3aeddb7a6}}
 
-When Athena arms to go down against Ares, the first line on her helmet is the line used for Agamemnon's when he arms in Book 11: “and on her head she set a helmet with two ridges and four plates” (5.743 = 11.41). What the ridges and plates of a helmet were is not certain (see [[helmet]]). The next line is Athena's alone: χρυσείην, ἑκατὸν πολίων πρυλέεσσʼ ἀραρυῖαν, “golden, fitted with the foot soldiers of a hundred cities”.
+When Athena arms to go down against Ares, the first line on her helmet is the line used for Agamemnon's when he arms in *Iliad* 11: “and on her head she set a helmet with two ridges and four plates” (5.743 = 11.41). What the ridges and plates of a helmet were is not certain (see [[helmet]]). The next line is Athena's alone: χρυσείην, ἑκατὸν πολίων πρυλέεσσʼ ἀραρυῖαν, “golden, fitted with the foot soldiers of a hundred cities”.
 
 The words are clear; the picture is not. The πρυλέες are men who fight on foot. The heroes become πρυλέες when they leave their horses at the ditch and advance in their armor (11.47–49, 12.75–77); Laodamas, a son of Antenor, is a “leader of the foot soldiers” (15.517); and Achilles killed Polydorus “among the foremost foot soldiers” (21.90). ἀραρυῖαν is the participle of ἀραρίσκω, “fit”, and with a dative it can mean either “fitted to” or “fitted with”. A helmet is “fitted to the temples” (κόρυθα κροτάφοις ἀραρυῖαν, 13.188, 18.611), and a shield is “fitted with two rods” (δύω κανόνεσσʼ ἀραρυῖαν, 13.407).
 

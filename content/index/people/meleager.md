@@ -3,7 +3,7 @@ title: Meleager
 greek: Μελέαγρος
 kind: person
 tags: [warrior, aetolia]
-summary: Son of Oeneus and hero of Calydon, who killed the Calydonian boar. The Catalogue notes that he was dead before the war; in Book 9 Phoenix tells Achilles the story of his wrath.
+summary: Son of Oeneus and hero of Calydon, who killed the Calydonian boar. The Catalogue notes that he was dead before the war; in *Iliad* 9 Phoenix tells Achilles the story of his wrath.
 aliases: [Meleagros]
 grc: [Μελέαγρος]
 relations:
@@ -19,7 +19,7 @@ except: [Rhetoric 1399b26]
 
 ## Elsewhere in Homer
 
-In Book 9 Phoenix tells Achilles the story of his anger, as a warning to take the gifts while they are offered (9.527–599; see [[the-wrath-of-meleager]] and [[mythological-paradigm]]).
+In *Iliad* 9 Phoenix tells Achilles the story of his anger, as a warning to take the gifts while they are offered (9.527–599; see [[the-wrath-of-meleager]] and [[mythological-paradigm]]).
 
 ## Outside Homer
 

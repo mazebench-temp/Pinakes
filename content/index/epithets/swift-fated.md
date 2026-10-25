@@ -18,7 +18,7 @@ In the Odyssey the word is a curse on the suitors: if Odysseus came home and fac
 
 ## Use
 
-Only Thetis uses it in Book 1, first to her son and then to Zeus:
+Only Thetis uses it in *Iliad* 1, first to her son and then to Zeus:
 
 {{quote:8177126f-a070-5891-bee9-8d80c2c18630}}
 

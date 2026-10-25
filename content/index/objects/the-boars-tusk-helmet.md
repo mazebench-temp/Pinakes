@@ -3,7 +3,7 @@ title: The boar's-tusk helmet
 greek: κυνέη ῥινοῦ ποιητή
 kind: object
 tags: [weapon, exchange, backstory]
-summary: The leather helmet set with a boar's white tusks that [[Meriones]] gives [[Odysseus]] for the night raid of Book 10, the only helmet in Homer whose history is told: [[Autolycus]] stole it from the house of [[Amyntor]] at [[Eleon]], and it passed by gift to [[Amphidamas]] of Cythera, to [[Molus]], and to Molus' son Meriones. Helmets of the kind are known from Mycenaean graves.
+summary: The leather helmet set with a boar's white tusks that [[Meriones]] gives [[Odysseus]] for the night raid of *Iliad* 10, the only helmet in Homer whose history is told: [[Autolycus]] stole it from the house of [[Amyntor]] at [[Eleon]], and it passed by gift to [[Amphidamas]] of Cythera, to [[Molus]], and to Molus' son Meriones. Helmets of the kind are known from Mycenaean graves.
 aliases: [boar's-tusk helmet, boar's tusk helmet, helmet of boar's tusks, tusk helmet, the helmet of Meriones, Meriones' helmet]
 # ῥινοῦ ποιητήν and πῖλος occur only here in Homer. κυνέην (10.261) is claimed by helmet, and ἀργιόδοντος
 # ὑὸς (10.264) by white-tusked and boar; the other lines of the description and of the history are refs.
@@ -27,7 +27,7 @@ The spies go out in leather. Diomedes' helmet is “of bull's hide, without ridg
 
 {{quote:c1004c2c-a396-5bee-99a8-43069d2053b3}}
 
-The narrator stops the arming to tell where the helmet came from, as in Book 2 he told how Agamemnon's scepter came down from Hephaestus through Zeus, Hermes, Pelops, Atreus and Thyestes (2.100–108; see [[the-scepter-of-agamemnon]]). Few things in Homer have such a history: Agamemnon's corselet, a guest-gift from Cinyras of Cyprus (11.19–23), Meges' corselet, a gift to his father from a guest-friend at Ephyra (15.529–533), the silver mixing bowl made in Sidon (23.740–749), and in the Odyssey Odysseus' bow, the gift of Iphitus (*Odyssey* 21.11–38).
+The narrator stops the arming to tell where the helmet came from, as in *Iliad* 2 he told how Agamemnon's scepter came down from Hephaestus through Zeus, Hermes, Pelops, Atreus and Thyestes (2.100–108; see [[the-scepter-of-agamemnon]]). Few things in Homer have such a history: Agamemnon's corselet, a guest-gift from Cinyras of Cyprus (11.19–23), Meges' corselet, a gift to his father from a guest-friend at Ephyra (15.529–533), the silver mixing bowl made in Sidon (23.740–749), and in the Odyssey Odysseus' bow, the gift of Iphitus (*Odyssey* 21.11–38).
 
 This one changes hands four times, in four ways, before it reaches Odysseus. Autolycus stole it, “boring through” (ἀντιτορήσας) Amyntor's house: the verb is used of Diomedes' spear piercing the skin of Aphrodite's hand (5.337), and here it is a burglar's. At Scandeia he gave it to Amphidamas of Cythera; why, the poem does not say (see [[scandeia]] and [[cythera]]). Amphidamas gave it to Molus “to be a guest-gift”, ξεινήϊον εἶναι, the half-verse of Cinyras' corselet (10.269; 11.20; see [[guest-gifts]]). Molus gave it to his son “to wear”, φορῆναι, the word with which Thyestes left the scepter to Agamemnon (10.270; 2.107). Now Meriones puts it on Odysseus' head for the night.
 

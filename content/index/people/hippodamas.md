@@ -22,7 +22,7 @@ passages:
 
 **The bellow.** He alone of Achilles' victims in the book is given a simile. “He gasped out his life and bellowed” (θυμὸν ἄϊσθε καὶ ἤρυγεν, 20.403) like a bull that young men drag around the Heliconian lord, Poseidon, who is glad of them, “so as he bellowed, his proud spirit left his bones” (20.406): the death of a fighting man is told as a sacrifice (see [[the-bull-of-the-heliconian-lord]], [[heliconian-poseidon]] and [[sacrifice]]). θυμὸν ἀΐσθων, “gasping out its life”, is said elsewhere only of Achilles' trace horse Pedasus under Sarpedon's spear (16.468; see [[pedasus-the-horse]]).
 
-**The name.** Ἱπποδάμας, from ἵππος, “horse”, and δαμάζω, “tame”, has the root of ἱππόδαμος, “tamer of horses”, the Trojans' epithet, and of the name of Hippodamus, whom Odysseus kills in Book 11 (11.335; see [[tamer-of-horses]] and [[hippodamus]]).
+**The name.** Ἱπποδάμας, from ἵππος, “horse”, and δαμάζω, “tame”, has the root of ἱππόδαμος, “tamer of horses”, the Trojans' epithet, and of the name of Hippodamus, whom Odysseus kills in *Iliad* 11 (11.335; see [[tamer-of-horses]] and [[hippodamus]]).
 
 ## Outside Homer
 

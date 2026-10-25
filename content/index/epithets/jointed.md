@@ -3,7 +3,7 @@ title: Jointed
 greek: πηκτός
 kind: epithet
 tags: [craftsman]
-summary: “Fitted together, jointed,” the epithet of the plow, πηκτὸν ἄροτρον, made of several pieces of wood: in the furrow-length of Book 10, in a simile of the two Ajaxes, and in the Odyssey.
+summary: “Fitted together, jointed,” the epithet of the plow, πηκτὸν ἄροτρον, made of several pieces of wood: in the furrow-length of *Iliad* 10, in a simile of the two Ajaxes, and in the Odyssey.
 aliases: [pektos, jointed plow, compacted]
 grc: [πηκτὸν ἄροτρον]
 en: [jointed]

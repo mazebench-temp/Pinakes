@@ -3,7 +3,7 @@ title: Astyalus
 greek: Ἀστύαλος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan killed by the Lapith [[Polypoetes]] in the list of kills that opens Book 6 (6.29).
+summary: A Trojan killed by the Lapith [[Polypoetes]] in the list of kills that opens *Iliad* 6 (6.29).
 aliases: [Astyalos]
 grc: [Ἀστύαλον]
 relations:

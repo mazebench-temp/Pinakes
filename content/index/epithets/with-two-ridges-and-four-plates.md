@@ -18,4 +18,4 @@ of: [helmet]
 
 {{quote:44fc7188-f42c-5697-ab35-ffc3aeddb7a6}}
 
-The helmet comes after the aegis in the arming of Athena ([[tasseled]], [[aegis]]). It is golden, and “fitted with the foot soldiers of a hundred cities”: figures of soldiers worked on it, or, in an ancient explanation, a helmet large enough to cover them. The two technical epithets of the first verse describe a warrior's helmet, and the second verse makes it a god's. The verse is used again for the helmet of Agamemnon, whose arming begins his own great day in Book 11 (Il. 11.41; [[the-aristeia]]).
+The helmet comes after the aegis in the arming of Athena ([[tasseled]], [[aegis]]). It is golden, and “fitted with the foot soldiers of a hundred cities”: figures of soldiers worked on it, or, in an ancient explanation, a helmet large enough to cover them. The two technical epithets of the first verse describe a warrior's helmet, and the second verse makes it a god's. The verse is used again for the helmet of Agamemnon, whose arming begins his own great day in *Iliad* 11 (Il. 11.41; [[the-aristeia]]).

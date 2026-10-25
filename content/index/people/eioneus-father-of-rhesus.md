@@ -12,7 +12,7 @@ relations:
   - child: rhesus (10.435)
 ---
 
-Ῥῆσος βασιλεὺς πάϊς Ἠϊονῆος, “Rhesus, their king, the son of Eioneus” (10.435): Dolon names the father as he points Odysseus and Diomedes to the Thracians, and nothing else is said of him (see [[rhesus]] and [[dolon]]). The name looks formed from ἠϊών, “shore, beach”, as is that of the Achaean Eioneus killed by Hector in Book 7 (7.11–12; see [[eioneus]]), another man. Eion (Ἠιών, “Beach”), the town at the mouth of the Strymon (Herodotus 7.25.2, 7.113.1), has the same root.
+Ῥῆσος βασιλεὺς πάϊς Ἠϊονῆος, “Rhesus, their king, the son of Eioneus” (10.435): Dolon names the father as he points Odysseus and Diomedes to the Thracians, and nothing else is said of him (see [[rhesus]] and [[dolon]]). The name looks formed from ἠϊών, “shore, beach”, as is that of the Achaean Eioneus killed by Hector in *Iliad* 7 (7.11–12; see [[eioneus]]), another man. Eion (Ἠιών, “Beach”), the town at the mouth of the Strymon (Herodotus 7.25.2, 7.113.1), has the same root.
 
 ## Outside Homer
 

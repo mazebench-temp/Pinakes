@@ -14,7 +14,7 @@ of: [nestor]
 
 Νηλήϊος (“of Neleus,” an adjective formed from the name) + υἱός (“son”): “the son of Neleus.” The usual patronymic is Νηληϊάδης, used a dozen times in Homer, often in the address ὦ Νέστορ Νηληϊάδη, μέγα κῦδος Ἀχαιῶν (“Nestor, son of Neleus, great glory of the Achaeans,” as in Il. 10.87). The adjective with υἱός serves the same purpose in a different metrical shape; compare Τελαμώνιος Αἴας ([[telamonian]]).
 
-Neleus was king of Pylos. Nestor tells in Book 11 how Heracles killed his eleven brothers, so that he alone of Neleus' sons survived (Il. 11.690–693).
+Neleus was king of Pylos. Nestor tells in *Iliad* 11 how Heracles killed his eleven brothers, so that he alone of Neleus' sons survived (Il. 11.690–693).
 
 ## Use
 

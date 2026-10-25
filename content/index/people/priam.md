@@ -17,7 +17,7 @@ relations:
 
 ## Elsewhere in Homer
 
-Priam had fifty sons, nineteen of them “of one womb” (24.495–497), presumably Hecuba's (see [[hecuba]] and [[sons-of-priam]]). In Book 24 he goes by night to Achilles' hut to ransom Hector's body (see [[the-ransom-of-hector]]). That scene answers the failed ransom of Book 1, where a father begs for his child and is driven away.
+Priam had fifty sons, nineteen of them “of one womb” (24.495–497), presumably Hecuba's (see [[hecuba]] and [[sons-of-priam]]). In *Iliad* 24 he goes by night to Achilles' hut to ransom Hector's body (see [[the-ransom-of-hector]]). That scene answers the failed ransom of Book 1, where a father begs for his child and is driven away.
 
 ## Outside Homer
 

@@ -12,7 +12,7 @@ passages:
 
 Greek uses one verb for being persuaded and for obeying: πείθομαι, the middle of [[peitho|πείθω]], “persuade”. To obey is to let oneself be persuaded.
 
-Its opposite is ἀπιθέω, “disobey”, and the narrator marks compliance with a short formula, “and he did not disobey” (οὐδʼ ἀπίθησε), used of gods and men alike (1.220). The poem's persuaders use every means they have: reasons and promises, gifts, memories of the past held up as examples, appeals to shame, threats, and, among the gods, plain strength. Its great refusals are refusals to be persuaded. When the embassy of Book 9 brings Agamemnon's gifts, Achilles says of the king that he has deceived him once, and “he will not persuade me” (οὐδέ με πείσει, 9.345).
+Its opposite is ἀπιθέω, “disobey”, and the narrator marks compliance with a short formula, “and he did not disobey” (οὐδʼ ἀπίθησε), used of gods and men alike (1.220). The poem's persuaders use every means they have: reasons and promises, gifts, memories of the past held up as examples, appeals to shame, threats, and, among the gods, plain strength. Its great refusals are refusals to be persuaded. When the embassy of *Iliad* 9 brings Agamemnon's gifts, Achilles says of the king that he has deceived him once, and “he will not persuade me” (οὐδέ με πείσει, 9.345).
 
 {{notes}}
 

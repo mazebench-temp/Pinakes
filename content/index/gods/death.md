@@ -3,7 +3,7 @@ title: Death
 greek: Θάνατος
 kind: god
 tags: [personification, fate]
-summary: Death as a god, the brother of [[sleep|Sleep]]. Homer names him so once, as Sleep's brother (14.231), and in Book 16 the twins Sleep and Death carry Sarpedon's body from the battlefield to Lycia; Apollo stands by Agenor to ward off “the heavy hands of Death” (21.548). Hesiod makes them both children of Night.
+summary: Death as a god, the brother of [[sleep|Sleep]]. Homer names him so once, as Sleep's brother (14.231), and in *Iliad* 16 the twins Sleep and Death carry Sarpedon's body from the battlefield to Lycia; Apollo stands by Agenor to ward off “the heavy hands of Death” (21.548). Hesiod makes them both children of Night.
 aliases: [Thanatos]
 # The god is the capitalized Θανάτοιο of 14.231. Monro–Allen print the twins of Book 16 in lowercase,
 # θάνατόν τε φέρειν (16.454) and ὕπνῳ καὶ θανάτῳ διδυμάοσιν (16.672, 16.682): the Book 16 note claims
@@ -15,17 +15,17 @@ relations:
 
 ## Etymology
 
-θάνατος is the common word for death, from the root of θνῄσκω, “die” (see [[thanatos]]). As with Sleep, only the editor's capital marks the god: Monro–Allen print Θανάτοιο at 14.231 and θανάτῳ in Book 16.
+θάνατος is the common word for death, from the root of θνῄσκω, “die” (see [[thanatos]]). As with Sleep, only the editor's capital marks the god: Monro–Allen print Θανάτοιο at 14.231 and θανάτῳ in *Iliad* 16.
 
 ## Family
 
 {{quote:3106b6a1-680c-5619-8587-ec64a347a498}}
 
-Death is the brother of [[sleep|Sleep]] (κασιγνήτῳ Θανάτοιο), and in Book 16 the two are twins, διδυμάοσιν (16.672, 16.682). Homer gives them no parents; in Hesiod both are children of [[night|Night]].
+Death is the brother of [[sleep|Sleep]] (κασιγνήτῳ Θανάτοιο), and in *Iliad* 16 the two are twins, διδυμάοσιν (16.672, 16.682). Homer gives them no parents; in Hesiod both are children of [[night|Night]].
 
 ## In Homer
 
-Death is a person in two scenes only. In Book 14 he is named, and nothing more, when Hera finds his brother on Lemnos (14.231). In Book 16 the twins Sleep and Death carry the body of Zeus' son Sarpedon from the battlefield to Lycia, where his kin will bury him (16.453–457, 16.666–683; see [[sarpedon]]). The two gods who come for Sarpedon do not kill: the spear has done that, and Death carries the body home.
+Death is a person in two scenes only. In *Iliad* 14 he is named, and nothing more, when Hera finds his brother on Lemnos (14.231). In Book 16 the twins Sleep and Death carry the body of Zeus' son Sarpedon from the battlefield to Lycia, where his kin will bury him (16.453–457, 16.666–683; see [[sarpedon]]). The two gods who come for Sarpedon do not kill: the spear has done that, and Death carries the body home.
 
 Everywhere else θάνατος is the thing itself, “black death” and death “that lays men low” (see [[black-death]], [[that-lays-men-low]] and [[thanatos]]).
 

@@ -13,7 +13,7 @@ grc: [Κῶν, "Κόων δʼ εὖ"]
 
 Κῶν Εὐρυπύλοιο πόλιν: "Cos, the city of Eurypylus", island and city under one name. Of [[eurypylus-of-cos|Eurypylus]] Homer says nothing more.
 
-Cos is also the island to which Hera's storm drove [[Heracles]] when he sailed home from sacking Troy, as Sleep tells it in Book 14 and Zeus in Book 15 (14.249–256, 15.18–30; see [[hera-drives-heracles-to-cos]]).
+Cos is also the island to which Hera's storm drove [[Heracles]] when he sailed home from sacking Troy, as Sleep tells it in *Iliad* 14 and Zeus in Book 15 (14.249–256, 15.18–30; see [[hera-drives-heracles-to-cos]]).
 
 {{notes}}
 

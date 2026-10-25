@@ -3,7 +3,7 @@ title: Phylacus
 greek: Φύλακος
 kind: person
 tags: [thessaly]
-summary: Father of [[Iphiclus]] and grandfather of [[Protesilaus]] and [[Podarces]], named in Book 2 only through the patronymic Φυλακίδης.
+summary: Father of [[Iphiclus]] and grandfather of [[Protesilaus]] and [[Podarces]], named in *Iliad* 2 only through the patronymic Φυλακίδης.
 grc: [Φυλακίδαο]
 ---
 

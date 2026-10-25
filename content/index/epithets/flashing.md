@@ -16,7 +16,7 @@ of: [the-shield-of-ajax]
 
 ## Use
 
-The shield of Ajax is αἰόλος twice: here, and in Book 16, when Ajax, worn out, holds it steady against the Trojan spears at the ships (16.106–108). Here it is described as Ajax comes near Hector:
+The shield of Ajax is αἰόλος twice: here, and in *Iliad* 16, when Ajax, worn out, holds it steady against the Trojan spears at the ships (16.106–108). Here it is described as Ajax comes near Hector:
 
 {{quote:0ca0ab0a-cc2d-50d1-9f9d-b507ed33c3f0}}
 

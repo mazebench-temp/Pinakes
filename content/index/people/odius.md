@@ -16,4 +16,4 @@ en: [Odius]
 
 ## Elsewhere in Homer
 
-An Achaean herald in Book 9 has the same name (9.170; see [[odius-the-herald]]).
+An Achaean herald in *Iliad* 9 has the same name (9.170; see [[odius-the-herald]]).

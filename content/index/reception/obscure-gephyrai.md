@@ -14,6 +14,6 @@ Agamemnon finds Diomedes standing by his horses and chariot and asks him: τί �
 
 In Homer γέφυρα is not a bridge over a river. When Diomedes rages over the plain like a river in flood, the torrent sweeps away the γέφυραι, the dikes built to hold it (5.88–89). The verb γεφυρόω is used when Apollo throws down the bank of the Achaean ditch and makes a causeway across it (15.357), and when a fallen elm dams the river Scamander (21.245). The sense “bridge” is later.
 
-What, then, are the “bridges of war”? Some take them as the lanes between the ranks, along which men and chariots pass; others as the open ground between the two armies, where the fighting is done. Neither view can be proved, and the picture behind the metaphor is lost. Agamemnon's sense is clear enough: Diomedes looks at the field instead of entering it. Achilles' words in Book 20 use the same verb, “cower, shrink” (πτώσσοιμεν, 20.427), as Agamemnon's taunt (πτώσσεις, 4.371).
+What, then, are the “bridges of war”? Some take them as the lanes between the ranks, along which men and chariots pass; others as the open ground between the two armies, where the fighting is done. Neither view can be proved, and the picture behind the metaphor is lost. Agamemnon's sense is clear enough: Diomedes looks at the field instead of entering it. Achilles' words in *Iliad* 20 use the same verb, “cower, shrink” (πτώσσοιμεν, 20.427), as Agamemnon's taunt (πτώσσεις, 4.371).
 
 See [[diomedes]] and [[the-review]].
