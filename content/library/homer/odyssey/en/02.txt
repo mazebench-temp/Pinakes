@@ -1,0 +1,437 @@
+# Homer, Odyssey, Book 2 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	And when early-born Dawn appeared, the rosy-fingered,
+2	the dear son of Odysseus rose from his bed,
+3	put on his clothes, and about his shoulder set his sharp sword,
+4	and under his shining feet he bound his fine sandals,
+5	and went out of his chamber, like a god to look upon.
+6	At once he ordered the clear-voiced heralds
+7	to summon the long-haired Achaeans to the assembly.
+8	They made the summons, and the men gathered very quickly.
+9	And when they had gathered and were all assembled,
+10	he went to the assembly, and in his hand he held the bronze spear,
+11	not alone: with him went two swift dogs.
+12	And Athena poured a wondrous grace upon him,
+13	and all the people gazed at him as he came;
+14	and he sat in his father's seat, and the elders made way.
+15	Among them then the hero Aegyptius began to speak,
+16	who was bent with age and knew countless things.
+17	For his dear son too had gone with godlike Odysseus
+18	to Ilios of the fine horses in the hollow ships,
+19	Antiphus the spearman; but the savage Cyclops killed him
+20	in his hollow cave, and made ready of him the last of his suppers.
+21	He had three others: one kept company with the suitors,
+22	Eurynomus, and two always kept to their father's fields.
+23	But even so he did not forget that one, mourning and grieving.
+24	Shedding tears for him, he addressed them and spoke:
+25	“Hear me now, men of Ithaca, in what I say.
+26	Never has there been an assembly of ours or a session
+27	since brilliant Odysseus went away in the hollow ships.
+28	Who has gathered us now like this? On whom has such need come,
+29	on one of the young men, or of those who are older?
+30	Has he heard some news of the army's coming,
+31	which he might tell us plainly, since he learned it first?
+32	Or is it some other public matter that he declares and speaks of?
+33	He seems to me a good man, may he prosper! For him himself
+34	may Zeus bring to pass some good, whatever he has in his mind.”
+35	So he spoke, and the dear son of Odysseus rejoiced at the word of omen,
+36	and he did not sit long, but was eager to speak,
+37	and stood in the middle of the assembly; and the scepter was put in his hand
+38	by the herald Peisenor, who knew wise counsels.
+39	Then first, approaching the old man with words, he spoke to him:
+40	“Old man, that man is not far off, and you will soon know it yourself,
+41	who gathered the people: it was I; and sorrow comes most of all to me.
+42	I have not heard any news of the army's coming,
+43	which I might tell you plainly, since I learned it first,
+44	nor is it some other public matter that I declare or speak of,
+45	but a business of my own, since evil has fallen upon my house,
+46	twofold: first, I have lost my brave father, who once among you
+47	here was king, and was kind, like a father;
+48	and now an evil far greater still, which will soon shatter my whole house
+49	utterly, and destroy my substance altogether.
+50	Suitors have fallen upon my mother against her will,
+51	the dear sons of the men who are the best here,
+52	who shudder at going to the house of her father,
+53	Icarius, so that he himself might settle the bride-price for his daughter
+54	and give her to whom he wished, the man who came pleasing to him;
+55	but they haunt our house every day,
+56	sacrificing oxen and sheep and fat goats,
+57	and hold banquets and drink the sparkling wine,
+58	wantonly; and much of it is wasted. For there is no man here
+59	such as Odysseus was, to ward off disaster from the house.
+60	And we are in no way such as to ward it off; truly, even then
+61	we shall be wretched, and unskilled in courage.
+62	Truly I would ward it off myself, if I had the strength.
+63	For deeds no longer to be borne have been done, and no longer fairly
+64	has my house been destroyed. Be indignant yourselves,
+65	and feel shame before others, the men who dwell around,
+66	who live about us; and fear the wrath of the gods,
+67	lest, indignant at your evil deeds, they turn upon you.
+68	I beg you by Olympian Zeus and by Themis,
+69	who dissolves the assemblies of men and seats them:
+70	hold back, my friends, and leave me alone with grim grief
+71	to be worn down, unless perhaps my brave father Odysseus
+72	in ill will did harm to the well-greaved Achaeans,
+73	taking vengeance on me for these, you do me harm in ill will,
+74	urging these men on. For me it would be better
+75	if you yourselves ate up my treasures and my herds.
+76	If you were the ones to eat them, there would soon perhaps be recompense;
+77	for so long we would press you with words throughout the city,
+78	asking back our goods, until all of it was given back;
+79	but now you cast pains past remedy into my heart.”
+80	So he spoke in anger, and flung the scepter to the ground,
+81	bursting into tears; and pity seized all the people.
+82	Then all the others were silent, and no one dared
+83	to answer Telemachus with harsh words;
+84	but Antinous alone, answering him, said:
+85	“Telemachus, lofty in speech, uncontrollable in your fury, what a thing you have said
+86	to shame us! You would like to fasten blame on us.
+87	But it is not the Achaean suitors who are to blame toward you:
+88	it is your dear mother, who knows crafty ways beyond all others.
+89	For it is now the third year, and soon it will be the fourth,
+90	since she has been cheating the heart in the breasts of the Achaeans.
+91	She gives hope to all, and makes promises to each man,
+92	sending out messages, but her mind has other things in view.
+93	And she pondered in her mind this further trick:
+94	she set up a great loom in the halls and began to weave,
+95	fine and very wide; and at once she said to us:
+96	‘Young men, my suitors, since brilliant Odysseus is dead,
+97	wait, eager though you are for my marriage, until I have this mantle
+98	finished, so that my threads may not be wasted and perish,
+99	a shroud for the hero Laertes, against the time when
+100	the deadly fate of death that lays men low takes him down,
+101	lest one of the Achaean women in the land be indignant with me,
+102	if he were to lie without a winding-sheet, who won great possessions.’
+103	So she spoke, and our proud spirit was persuaded.
+104	Then by day she would weave the great web,
+105	but by night she would unravel it, when she had set torches beside her.
+106	So for three years she escaped notice by her trick and persuaded the Achaeans;
+107	but when the fourth year came and the seasons came round,
+108	then indeed one of her women told us, who knew it clearly,
+109	and we caught her unraveling the splendid web.
+110	So she finished it, against her will, under compulsion.
+111	But to you the suitors give this answer, so that you may know it
+112	in your own heart, and all the Achaeans may know it:
+113	send your mother away, and order her to marry
+114	whichever man her father bids, and who pleases her.
+115	But if she goes on vexing the sons of the Achaeans for a long time,
+116	pondering in her heart what Athena has given her beyond all others,
+117	to be skilled in beautiful handiwork, and good wits,
+118	and crafty ways, such as we have never heard of in any woman, not even of old,
+119	of those who were before, the Achaean women with lovely tresses,
+120	Tyro and Alcmene and well-crowned Mycene:
+121	none of them knew devices like Penelope's;
+122	and yet this one, at least, she did not devise rightly.
+123	For so long will they eat up your substance and your possessions,
+124	as long as she keeps to this purpose, which now
+125	the gods put in her breast. Great fame she makes
+126	for herself, but for you a longing for much substance.
+127	And we will not go to our fields or anywhere else
+128	until she marries whichever of the Achaeans she wishes.”
+129	And wise Telemachus answered him face to face:
+130	“Antinous, there is no way for me to thrust out of the house against her will
+131	the woman who bore me, who raised me; and my father is elsewhere on earth,
+132	alive or dead. And it would be hard for me to pay back much
+133	to Icarius, if of my own will I send my mother away.
+134	For I shall suffer evil from her father, and a god will give
+135	me other evils, since my mother will call down the hateful Erinyes
+136	as she leaves the house; and blame will come upon me from men.
+137	So I will never speak that word.
+138	And if your own hearts are indignant at this,
+139	leave my halls, and provide other feasts,
+140	eating your own possessions, taking turns from house to house.
+141	But if this seems to you better and more profitable,
+142	that one man's substance should be destroyed without payment,
+143	then eat it up; but I will call upon the gods who live forever,
+144	if ever Zeus will grant that deeds of requital be done;
+145	then, unavenged, you would perish inside my house.”
+146	So Telemachus spoke, and for him far-seeing Zeus sent two eagles
+147	flying from on high, from the peak of a mountain.
+148	For a while they flew along in the blasts of the wind,
+149	close beside one another, with wings at full stretch;
+150	but when they came over the middle of the assembly of many voices,
+151	there they wheeled about and shook their thick wings,
+152	and looked down at the heads of all, and foresaw destruction;
+153	and tearing each other's cheeks and necks all round with their talons,
+154	they darted on the right across the houses and the city of the people.
+155	And they were amazed at the birds, when they saw them with their eyes,
+156	and pondered in their hearts what was to be fulfilled.
+157	And among them spoke also the old hero Halitherses,
+158	son of Mastor; for he alone surpassed those of his age
+159	in knowing birds and in speaking words of fate.
+160	With good intent he addressed them and spoke:
+161	“Hear me now, men of Ithaca, in what I say;
+162	and it is above all to the suitors that I declare these things.
+163	For a great bane is rolling upon them: Odysseus will not
+164	be long away from his dear ones, but is already somewhere
+165	near, and plants slaughter and doom for these men,
+166	for all of them; and for many others too there will be evil,
+167	of us who live in clear-seen Ithaca. But long before that
+168	let us consider how we may stop them; and let them stop
+169	of themselves; for this is at once the better thing for them.
+170	For I do not prophesy untried, but with sure knowledge;
+171	for to him too, I say, all has been fulfilled
+172	as I told him, when they were embarking for Ilios,
+173	the Argives, and among them went Odysseus of many wiles.
+174	I said that after suffering many evils, and losing all his companions,
+175	unknown to all, in the twentieth year,
+176	he would come home; and now it is all being fulfilled.”
+177	Then Eurymachus, son of Polybus, answered him face to face:
+178	“Old man, come now, prophesy to your own children,
+179	going home, lest they suffer some evil hereafter;
+180	but in these things I am far better than you at prophesying.
+181	Many are the birds that go to and fro under the rays of the sun,
+182	and not all of them are birds of fate. But Odysseus
+183	has perished far away, as you too ought to have perished
+184	along with him. Then you would not prophesy and declare so much,
+185	nor would you set Telemachus on like this in his anger,
+186	waiting for a gift for your own house, in case he may give one.
+187	But I will speak out to you, and it will surely come to pass:
+188	if you, who know many things of old, urge a younger man,
+189	beguiling him with your words, to grow angry,
+190	first it will be the more vexing for him himself,
+191	and he will be able to achieve nothing even so, because of these men;
+192	and on you, old man, we will lay a fine, which you will
+193	chafe at heart to pay, and grievous will be your sorrow.
+194	And to Telemachus I myself will give counsel before them all:
+195	let him bid his mother go back to her father's house;
+196	and they will arrange a wedding and make ready the bride-price,
+197	a very great one, as much as is fitting to go with a dear daughter.
+198	For before that, I think, the sons of the Achaeans will not cease
+199	from their grievous wooing, since in any case we fear no one,
+200	not even Telemachus, for all his many words,
+201	nor do we heed the oracle that you, old sir,
+202	pronounce, never to be fulfilled; and you make yourself hateful all the more.
+203	And his goods will be wretchedly eaten up, and there will never
+204	be amends, as long as she keeps the Achaeans waiting
+205	for her marriage; and we, waiting every day,
+206	strive for the sake of her excellence, and do not go after other women,
+207	whom it is fitting for each of us to marry.”
+208	And wise Telemachus answered him face to face:
+209	“Eurymachus, and you others, all the noble suitors,
+210	I will no longer beg you or speak to you about these things;
+211	for the gods know them already, and all the Achaeans.
+212	But come, give me a swift ship and twenty companions,
+213	who will accomplish the way for me there and back.
+214	For I will go to Sparta and to sandy Pylos
+215	to learn of the homecoming of my father, who has long been gone,
+216	in the hope that some mortal may tell me, or I may hear a rumor
+217	from Zeus, which most of all brings report to men.
+218	If I hear of my father's life and homecoming,
+219	then, worn down though I am, I could endure for another year;
+220	but if I hear that he is dead and no longer living,
+221	then I will come home to my dear native land,
+222	and heap up a mound for him, and give him funeral rites,
+223	very many, as many as are fitting, and give my mother to a husband.”
+224	He spoke thus and sat down, and among them stood up
+225	Mentor, who was the companion of noble Odysseus,
+226	and to whom, when he went in the ships, he had entrusted all his house,
+227	that it should obey the old man, and that he should keep all things safe.
+228	With good intent he addressed them and spoke:
+229	“Hear me now, men of Ithaca, in what I say.
+230	Never again let any man with a ready heart be gentle and kind,
+231	a scepter-bearing king, nor know in his mind what is due,
+232	but let him always be harsh and do evil;
+233	since no one remembers divine Odysseus
+234	among the people he was lord over, and he was kind, like a father.
+235	As for the proud suitors, I do not begrudge them at all
+236	their deeds of violence in the mischief of their minds;
+237	for they stake their own heads when they violently devour
+238	the house of Odysseus, and say that he will come home no more.
+239	But it is with the rest of the people that I am indignant, that you all
+240	sit silent, and do not approach them with words
+241	and stop the suitors, few as they are, though you are many.”
+242	Then Leiocritus, son of Euenor, answered him face to face:
+243	“Harsh Mentor, crazed in your mind, what a thing you have said,
+244	urging them to stop us! It is a hard thing
+245	to fight over a feast with men who are more numerous, at that.
+246	For even if Odysseus of Ithaca himself were to come
+247	and find the noble suitors feasting in his house,
+248	and be eager in his heart to drive them out of the hall,
+249	his wife, much though she longs for him, would have no joy
+250	of his coming, but he would meet a shameful doom right here,
+251	if he fought with men who outnumbered him; what you have said is not fair and right.
+252	But come, people, scatter, each to his work,
+253	and Mentor and Halitherses will speed this one on his way,
+254	who are his father's companions from of old.
+255	But I think he will sit here a long time, and hear
+256	news in Ithaca, and never accomplish this journey.”
+257	So he spoke, and quickly dissolved the assembly.
+258	And they scattered, each to his own house,
+259	and the suitors went to the house of divine Odysseus.
+260	But Telemachus went apart along the shore of the sea,
+261	and washed his hands in the gray sea, and prayed to Athena:
+262	“Hear me, you god who came yesterday to our house
+263	and bade me go in a ship over the misty sea
+264	to learn of the homecoming of my father, who has long been gone:
+265	all this the Achaeans are delaying,
+266	and most of all the suitors, wickedly overweening.”
+267	So he spoke in prayer, and Athena came near to him
+268	in the likeness of Mentor, both in form and in voice,
+269	and she spoke to him, addressing him with winged words:
+270	“Telemachus, hereafter you will be no coward and no fool,
+271	if indeed your father's noble might has been instilled in you,
+272	such a man as he was to accomplish both deed and word:
+273	then your journey will not be in vain or unfulfilled.
+274	But if you are not his offspring and Penelope's,
+275	then I do not expect you to accomplish what you have in mind.
+276	Few sons are like their father;
+277	most are worse, and few are better than their father.
+278	But since hereafter you will be no coward and no fool,
+279	and the counsel of Odysseus has not wholly failed you,
+280	then there is hope that you will accomplish these things.
+281	So now let be the plan and the thought of the suitors,
+282	senseless men, since they are in no way discerning or just;
+283	nor do they know anything of death and black doom,
+284	which is near them now, that they should all perish in a single day.
+285	But the journey you have in mind will not be far off much longer;
+286	such a companion of your father's am I to you
+287	that I will fit out a swift ship for you and go with you myself.
+288	But you go to the house and keep company with the suitors,
+289	and make ready provisions and fit them all into vessels,
+290	wine in two-handled jars, and barley meal, the marrow of men,
+291	in thick skins; and I will go through the land and quickly
+292	gather companions who will go willingly. There are many ships
+293	in sea-girt Ithaca, new and old;
+294	of these I will pick out for you the best there is,
+295	and we will quickly make her ready and launch her on the wide sea.”
+296	So spoke Athena, daughter of Zeus; nor did
+297	Telemachus stay there long, once he had heard the voice of the goddess.
+298	He went to the house, grieving at heart,
+299	and found the proud suitors in the halls,
+300	flaying goats and singeing fat hogs in the courtyard.
+301	And Antinous, with a laugh, came straight up to Telemachus,
+302	and he clung to his hand, and spoke to him, and called him by name:
+303	“Telemachus, lofty in speech, uncontrollable in your fury, let no other
+304	evil be a care in your breast, either deed or word,
+305	but eat and drink with me, just as before.
+306	And all these things the Achaeans will surely bring about for you,
+307	a ship and choice oarsmen, so that you may come the sooner
+308	to sacred Pylos, in search of news of your noble father.”
+309	And wise Telemachus answered him face to face:
+310	“Antinous, there is no way for me among you overbearing men
+311	to feast in silence and make merry at my ease.
+312	Is it not enough that in the past you ate up many fine
+313	possessions of mine, you suitors, while I was still a child?
+314	But now that I am grown, and hearing the words of others
+315	I learn, and the spirit within me grows,
+316	I will try to let loose the evil fates upon you,
+317	whether I go to Pylos or stay here in this land.
+318	I will go, and the journey I speak of will not be in vain,
+319	a passenger; for I have no ship of my own, nor oarsmen:
+320	that, I suppose, is what seemed to you the better way.”
+321	He spoke, and drew his hand from the hand of Antinous
+322	easily; and the suitors were making ready a feast throughout the house.
+323	And they insulted him and taunted him with words,
+324	and this is what one of the overweening young men would say:
+325	“Surely Telemachus is pondering slaughter for us.
+326	Either he will bring some helpers from sandy Pylos,
+327	or even from Sparta, since he is so terribly eager;
+328	or he means to go to Ephyra too, that rich plowland,
+329	to bring back from there drugs that destroy life,
+330	and put them in the mixing bowl, and destroy us all.”
+331	And another of the overweening young men would say in turn:
+332	“Who knows if he himself too, going on the hollow ship,
+333	may perish far from his friends, wandering like Odysseus?
+334	So he would increase our toil even more;
+335	for we would divide all his possessions, and the house
+336	we would give to his mother to keep, and to whoever married her.”
+337	So they spoke; but he went down into the high-roofed chamber of his father,
+338	a wide one, where gold and bronze lay heaped,
+339	and clothing in chests, and fragrant oil in plenty;
+340	and in it jars of old wine, sweet to drink,
+341	stood holding within them the unmixed, divine drink,
+342	fitted in order against the wall, in case Odysseus ever
+343	came home, even after toiling through many sorrows.
+344	And closely fitted doors were set on it that could be locked,
+345	double doors; and a woman was in it as housekeeper night and day,
+346	who guarded everything with the great knowledge of her mind,
+347	Eurycleia, daughter of Ops, son of Peisenor.
+348	Telemachus called her to the chamber then and said to her:
+349	“Nurse, come, draw me off wine in two-handled jars,
+350	sweet wine, the sweetest after the one you are keeping,
+351	thinking of that ill-fated man, if from somewhere he might come,
+352	Odysseus, sprung from Zeus, escaping death and the fates.
+353	Fill twelve, and fit them all with lids;
+354	and pour me barley meal into well-sewn leather bags:
+355	let there be twenty measures of the meal of mill-ground barley.
+356	You alone must know of it; and let it all be got ready together.
+357	For I will take it in the evening, when
+358	my mother has gone up to her upper room and is thinking of bed.
+359	For I will go to Sparta and to sandy Pylos
+360	to learn of my dear father's homecoming, if I may hear of it somewhere.”
+361	So he spoke, and the dear nurse Eurycleia wailed aloud,
+362	and lamenting addressed him with winged words:
+363	“Why, dear child, has this thought come
+364	into your mind? Where do you mean to go, far over the earth,
+365	you, an only and beloved son? He has perished far from his native land,
+366	Odysseus, sprung from Zeus, among a strange people.
+367	And these men, as soon as you are gone, will devise evil for you hereafter,
+368	so that you may perish by guile, and they will divide all this among themselves.
+369	No, stay here, sitting over what is yours; you have no need
+370	to suffer evils on the barren sea or to wander.”
+371	And wise Telemachus answered her face to face:
+372	“Take heart, nurse, since this plan is not without a god.
+373	But swear to tell none of this to my dear mother
+374	until the eleventh or the twelfth day has come,
+375	or she herself misses me and hears that I have gone,
+376	so that she may not mar her fair skin with weeping.”
+377	So he spoke, and the old woman swore a great oath by the gods not to tell.
+378	But when she had sworn and completed the oath,
+379	then at once she drew off wine for him in two-handled jars,
+380	and poured barley meal for him into well-sewn leather bags.
+381	And Telemachus went into the house and kept company with the suitors.
+382	Then the gray-eyed goddess Athena thought of another thing.
+383	In the likeness of Telemachus she went everywhere through the city,
+384	and standing beside each man she spoke her word,
+385	and bade them gather in the evening at the swift ship.
+386	And she asked Noemon, the shining son of Phronius,
+387	for a swift ship; and he gladly promised it to her.
+388	And the sun set, and all the streets grew dark;
+389	and then she dragged the swift ship down to the sea, and put in her
+390	all the tackle that well-benched ships carry.
+391	She moored her at the far edge of the harbor, and around her the brave companions
+392	gathered all together; and the goddess urged on each man.
+393	Then the gray-eyed goddess Athena thought of another thing.
+394	She went to the house of divine Odysseus,
+395	and there she poured sweet sleep upon the suitors,
+396	and confused them as they drank, and made the cups fall from their hands.
+397	And they rose to go to sleep through the city, and did not
+398	sit there long, since sleep was falling on their eyelids.
+399	But gray-eyed Athena spoke to Telemachus,
+400	calling him out of the well-appointed halls,
+401	in the likeness of Mentor, both in form and in voice:
+402	“Telemachus, already your well-greaved companions
+403	sit at the oars, waiting for you to set out;
+404	so let us go, and not delay the journey long.”
+405	So she spoke, and Pallas Athena led the way
+406	swiftly; and he followed in the footprints of the goddess.
+407	And when they had come down to the ship and the sea,
+408	they found on the shore their long-haired companions.
+409	And among them spoke also the sacred strength of Telemachus:
+410	“Come here, friends, let us bring the provisions; for they are all
+411	together in the hall now. My mother has learned nothing of it,
+412	nor have the other slave women; only one has heard the word.”
+413	So he spoke, and led the way, and they followed with him.
+414	And they brought everything to the well-benched ship
+415	and stowed it, as the dear son of Odysseus bade them.
+416	And Telemachus went on board the ship, and Athena went before him
+417	and sat down in the stern of the ship; and close beside her
+418	sat Telemachus. And they loosed the stern-cables,
+419	and went on board themselves, and sat down at the rowing benches.
+420	And gray-eyed Athena sent them a following wind,
+421	a fresh West Wind, sounding over the wine-dark sea.
+422	And Telemachus urged on his companions and bade them
+423	lay hold of the tackle; and they heeded his urging.
+424	The mast of fir, within the hollow mast-box,
+425	they raised and set up, and made it fast with forestays,
+426	and hoisted the white sails with well-twisted ox-hide ropes.
+427	And the wind blew full into the sail, and around the cutwater
+428	the surging wave roared loud as the ship went on,
+429	and she ran over the waves, accomplishing her way.
+430	And when they had made fast the tackle throughout the swift black ship,
+431	they set up mixing bowls brim-full of wine,
+432	and poured libations to the immortal, everlasting gods,
+433	and most of all to the gray-eyed daughter of Zeus.
+434	All night long and through the dawn the ship cut her way.

@@ -19,3 +19,5 @@ of: [chryse]
 {{quote:ced22725-9f84-5972-aeb6-4e2f94d570dd}}
 
 The epithet opens the arrival at Chryse, the first stage of the landing sequence ([[sailing-type-scene]]). The ship enters the deep harbor; the crew furl the sails, lower the mast into its crutch, and row her to her mooring.
+
+For harbors in Homer, see [[harbor]].

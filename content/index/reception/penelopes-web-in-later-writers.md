@@ -1,0 +1,31 @@
+---
+title: Penelope's web in later writers
+greek: Πηνελόπης τινὰ ἐναντίως ἱστὸν μεταχειριζομένης
+kind: anecdote
+tags: [philosophy, art]
+summary: Penelope's web, woven by day and unraveled by night, became a figure for work that undoes itself. Plato's Socrates says that the philosopher's soul, once philosophy has set it free, will not bind itself again to pleasures and pains, doing the endless work of a Penelope handling her web the opposite way; Cicero likens dialectic, which ends by destroying its own foundation, to Penelope unweaving her web; Propertius praises her nightly trick; and Proclus compares the body's nourishment, which puts together again what it has undone.
+aliases: [Penelope's web as a figure, Penelopae telam retexens, the endless work of Penelope, Plato on Penelope's web, Cicero on Penelope's web]
+source: Plato, Phaedo 84a; Cicero, Lucullus 95; Propertius, Elegies 2.9.3–8; Proclus, On the Timaeus III 332 Diehl
+of: [the-web-of-penelope, penelope, plato, cicero, propertius, proclus-the-neoplatonist]
+refs: [Od. 2.104-105]
+passages:
+  - Od. 2.93-110 | Antinous tells of the web
+---
+
+{{quote:6e4b01e8-7b99-525c-a069-f262ef56b2e6}}
+
+**Homer.** Antinous tells the story to the assembly of Ithaca. Penelope set up a great loom in the hall and asked the suitors to wait for her marriage until she had finished a shroud for Laertes; she wove by day and unraveled the web by torchlight at night, for three years, until one of her women told and the suitors caught her at it (*Odyssey* 2.93–110; see [[the-web-of-penelope]]). She tells the story herself to the disguised Odysseus, and the shade of the suitor Amphimedon tells it in the underworld (*Odyssey* 19.137–156, 24.128–146). Homer's verb for the unraveling, ἀλλύω, is a shortened form of ἀναλύω, “undo”, and in the shortened form he uses it only of this web; the full form comes once, when the companions untie Odysseus from the mast after the Sirens (ἀνέλυσαν, *Odyssey* 12.200). Later writers took from the story the work that is undone as fast as it is done.
+
+**Plato.** In the *Phaedo*, on the day of his death, Socrates explains why the true lovers of learning are orderly and brave. Every pleasure and pain, he says, has a kind of nail with which it nails the soul to the body and makes it bodily, so that it believes true whatever the body says (*Phaedo* 83d). The soul of a philosopher reasons otherwise: “it would not think that philosophy must set it free, and that, while philosophy is setting it free, it must hand itself over to pleasures and pains to bind itself fast again, and do the endless work of a Penelope handling her web the opposite way” (ἀνήνυτον ἔργον πράττειν Πηνελόπης τινὰ ἐναντίως ἱστὸν μεταχειριζομένης, 84a). Instead it makes a calm of these things, follows reasoning and is always in it, beholding the true and the divine (84a–b; see [[plato]]). Penelope undid what she had woven; a soul that let the pleasures bind it again would weave up what philosophy had undone. The labor is as endless, and runs the other way. Plato's verb for the freeing, λύειν, “loosen”, is the simple verb of Homer's ἀλλύω.
+
+**Cicero.** In the *Lucullus*, the second book of the first version of his *Academica*, Cicero answers Lucullus' defense of certain knowledge. His opponents call dialectic the judge of true and false (*Lucullus* 91), and he turns it against them: “What of the fact that this same art, like Penelope unweaving her web, in the end takes away what came before? Is that your fault or ours?” (*Quid quod eadem illa ars quasi Penelopae telam retexens tollit ad extremum superiora: utrum ea vestra an nostra culpa est?*, 95; see [[cicero]]). The foundation of dialectic, he goes on, is that whatever is stated is either true or false; yet of the statement “if you say that you are lying and say it truly, you are lying” its defenders say that such things cannot be solved (95). The art unravels its own first principle. *Retexere*, “unweave”, is the reverse of *texere*, “weave”.
+
+**Propertius.** Propertius, reproaching a mistress who could not stay alone “for a single night” (*Elegies* 2.9.19), sets Penelope against her: “Penelope could live unharmed for twice ten years, a woman worthy of so many suitors; she could put off marriage with a false Minerva, unweaving by a trick of the night what was woven by day; and though she never hoped to see Ulysses, she stayed, grown old in waiting for him” (*Penelope poterat bis denos salva per annos / vivere, tam multis femina digna procis; / coniugium falsa poterat differre Minerva, / nocturno solvens texta diurna dolo*, 2.9.3–8; see [[propertius]]). The “false Minerva” is the goddess's own art of weaving, used to deceive, and *dolo*, “by a trick”, is the word of Antinous' story, δόλος (*Odyssey* 2.93, 2.106).
+
+**Ovid.** Ovid's Penelope, writing to Ulysses, gives the web to the nights she cannot sleep: if Paris had drowned on his way to Lacedaemon, she would not lie cold in a deserted bed, “nor, as I seek to beguile the long night, would the hanging web weary my widowed hands” (*nec mihi quaerenti spatiosam fallere noctem / lassaret viduas pendula tela manus*, *Heroides* 1.9–10; see [[ovid-penelopes-letter]]). Homer's Penelope unraveled her web by night; Ovid's weaves to get through it, and the trick is gone.
+
+**Proclus.** Eight centuries after Plato, Proclus brings the web into the body. In the *Timaeus* the circuits of the soul are bound into a body “that flows in and flows out”, as into a great river, and are shaken by the motions of sensation together with “the channel that flows without ceasing” (*Timaeus* 43a, 43c–d). Commenting on the passage, Proclus says that the perceptions of infancy moved the soul together with the nutritive power, “which always makes good what flows away with what flows in, and puts together again what it has undone, like Penelope's web” (καὶ ὃ ἀνέλυσε συντιθείσης πάλιν κατὰ τὸν τῆς Πηνελόπης ἱστόν, *On the Timaeus* III 332 Diehl, on *Timaeus* 43a–d; see [[proclus-the-neoplatonist]]). His ἀνέλυσε, “undid”, is the full form of Homer's verb. In Plato the endless work is what the philosopher's soul refuses; in Proclus it is the life of every body.
+
+{{notes}}
+
+See [[penelope]], [[the-web-of-penelope]], [[weaving]] and [[loom]].

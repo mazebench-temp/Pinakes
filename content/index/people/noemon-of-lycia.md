@@ -9,7 +9,7 @@ aliases: [Noemon of Lycia]
 grc: ["^Νοήμονα"]
 en: [Noemon]
 # Νοήμονι at 23.612 is a Pylian, the companion of Antilochus.
-except: [23.612]
+except: [23.612, Od. 2.386]
 relations:
   - slayer: odysseus (5.678)
 ---
@@ -18,7 +18,7 @@ relations:
 
 He is named only in Odysseus' list of seven Lycians (5.677–678; see [[lycians]] and [[odysseus]]). The name is the adjective νοήμων, “thoughtful, sensible”, from νοέω (“perceive, think”; see [[noos]]).
 
-Two other men bear it. Noemon, a companion of Antilochus, leads away the mare that Menelaus gives up to Antilochus after the chariot race (23.612–613; see [[noemon-companion-of-antilochus]]). In the Odyssey Noemon, son of Phronius, lends Telemachus the ship for his voyage to Pylos, and his question about it tells the suitors that the young man has gone (Od. 2.386–387, 4.630–656).
+Two other men bear it. Noemon, a companion of Antilochus, leads away the mare that Menelaus gives up to Antilochus after the chariot race (23.612–613; see [[noemon-companion-of-antilochus]]). In the Odyssey [[noemon-son-of-phronius|Noemon, son of Phronius]], lends Telemachus the ship for his voyage to Pylos, and his question about it tells the suitors that the young man has gone (*Odyssey* 2.386–387, 4.630–656).
 
 ## Outside Homer
 

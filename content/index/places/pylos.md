@@ -4,14 +4,15 @@ greek: Πύλος
 kind: place
 tags: [peloponnese, mainland-greece, city, pylian, messenia]
 summary: Nestor's kingdom in the western Peloponnese, "sandy Pylos". Its site was disputed in antiquity; most scholars now place it at the Mycenaean palace excavated at Ano Englianos in Messenia.
-# Πύλον also catches Il. 2.591, 11.682, 11.716, which the Book 2 note claims as well.
-grc: [Πύλῳ, Πύλου, Πύλον]
+# Πύλον also catches Il. 2.591, 11.682, 11.716, which the Book 2 note claims as well. Πύλονδ* is Πύλονδʼ, Πύλονδε,
+# "to Pylos" (Il. 11.760, claimed by the Book 11 note too; Od. 2.317, later 3.182, 4.656 and others).
+grc: [Πύλῳ, Πύλου, Πύλον, "Πύλονδ*"]
 en: [Pylos]
 ---
 
 ## Descriptions
 
-ἠμαθόεις "sandy" ([[sandy]]), from ἄμαθος, "sand", is its standing epithet: Nestor was "king of sandy Pylos" (2.77). It is also ἠγάθεος, "very holy" ([[egatheos]], 1.252). Its people are the [[Pylians]], and its king is [[Nestor]], son of [[Neleus]], "the Pylos-born" (2.54).
+ἠμαθόεις "sandy" ([[sandy]]), from ἄμαθος, "sand", is its standing epithet: Nestor was "king of sandy Pylos" (2.77). It is also ἠγάθεος, "very holy", rendered "sacred" ([[egatheos]], 1.252; *Odyssey* 2.308). Its people are the [[Pylians]], and its king is [[Nestor]], son of [[Neleus]], "the Pylos-born" (2.54).
 
 {{notes}}
 

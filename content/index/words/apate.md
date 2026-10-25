@@ -17,7 +17,7 @@ In the Iliad deceit belongs above all to the gods. Zeus assures Thetis that noth
 
 Among men the Iliad condemns the deceit that breaks an oath. When Pandarus wounds Menelaus during the truce, Agamemnon foresees Zeus shaking the aegis over the Trojans, “angry at this deceit” (τῆσδʼ ἀπάτης κοτέων, 4.168).
 
-Homer's commoner word for a trick is δόλος, “bait, snare”. The wooden horse is the δόλος that Odysseus brought into the citadel of Troy (Odyssey 8.494).
+Homer's commoner word for a trick is [[dolos|δόλος]], “bait, snare”. The wooden horse is the δόλος that Odysseus brought into the citadel of Troy (*Odyssey* 8.494).
 
 {{notes}}
 
@@ -26,7 +26,7 @@ Homer's commoner word for a trick is δόλος, “bait, snare”. The wooden h
 - [[pseudos|ψεῦδος]] (“lie”).
 - [[ate|ἄτη]] (“blind folly”): Zeus binds Agamemnon in ἄτη and devises ἀπάτη, three lines apart (2.111, 2.114).
 - [[metis|μῆτις]] (“cunning”): the intelligence that deceit needs.
-- δόλος (“trick”).
+- [[dolos|δόλος]] (“trick”).
 - See [[truth-and-deception]].
 
 ## Outside Homer

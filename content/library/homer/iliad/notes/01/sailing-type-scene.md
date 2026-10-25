@@ -1,3 +1,7 @@
+---
+summary: The ship that takes Chryseis home makes the only voyage the Iliad narrates. It is launched (1.308–312), moored at Chryse (1.432–439), and carried home on Apollo's wind to be drawn up on the beach (1.477–487).
+---
+
 **Launching.** Agamemnon gives the order step by step: a black ship, oarsmen, the hecatomb, Chryseis, and “one man of counsel” in command ({{ref:Iliad 1.141-146}}). The narrative carries it out in the same order and nearly the same words, and names the commander, Odysseus.
 
 {{quote:a2ac1dff-c337-51bc-9afc-7d4e41b9e2f3}}

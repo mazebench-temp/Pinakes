@@ -8,7 +8,7 @@ aliases: [Antiphus, Antiphos]
 grc: [Ἄντιφος]
 en: [Antiphus]
 # Ἄντιφος at 2.678 is the leader from Cos (antiphus); at 2.864 the Maeonian (antiphus-of-maeonia).
-except: [2.678, 2.864]
+except: [2.678, 2.864, Od. 2.19]
 refs: [4.491-492]
 relations:
   - father: priam (4.490)

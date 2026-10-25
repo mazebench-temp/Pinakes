@@ -25,8 +25,10 @@ Her standing epithet is περίφρων, “prudent”, in the verse that names
 
 ## Elsewhere in Homer
 
-She has kept the suitors waiting by a trick: she set up a great web in the hall and told them that she must finish a shroud for Laertes before she married, and for three years she wove it by day and undid it by torchlight at night, until one of her women betrayed her (*Odyssey* 2.93–110). She tells the story herself to the disguised Odysseus (*Odyssey* 19.137–156), and the shade of the suitor Amphimedon tells it in the underworld (*Odyssey* 24.128–146; see [[weaving]]). The renderings here are plain renderings, not the translation.
+She has kept the suitors waiting by a trick: she set up a great web in the hall and told them that she must finish a shroud for Laertes before she married, and for three years she wove it by day and undid it by torchlight at night, until one of her women betrayed her. Antinous tells the story in the assembly of Ithaca (*Odyssey* 2.93–110), Penelope herself to the disguised Odysseus (*Odyssey* 19.137–156), and the shade of the suitor Amphimedon in the underworld (*Odyssey* 24.128–146; see [[the-web-of-penelope]] and [[weaving]]).
 
 ## Outside Homer
 
 In the Bath, convinced by the stranger's description of her husband's clothes, she infers what is false; Aristotle makes the passage his example of a false inference (*Poetics* 1460a25–26; see [[the-bath]] and [[paralogismos]]). Herodotus reports that the Greeks call Pan the son of Penelope and Hermes, and reckons about eight hundred years from Pan's birth to his own time, fewer than from the Trojan war (*Histories* 2.145.4, 2.146.1; see [[herodotus]] and [[pan]]).
+
+For her web as a figure in later writers, and Ovid's letter in her name, see [[penelopes-web-in-later-writers]] and [[ovid-penelopes-letter]].

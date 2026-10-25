@@ -7,7 +7,7 @@ mode: narrated
 tags: [seafaring, kinship, divine-will]
 summary: Sent by Athena to learn of his father's homecoming, Telemachus sails secretly from Ithaca with the goddess in the likeness of Mentor, visits Nestor at Pylos and Menelaus and Helen at Sparta, and learns that Odysseus is alive on Calypso's island; the suitors lie in wait to kill him on his return, but he comes home by night and finds his father in the swineherd's hut. Modern readers call the books that tell it the Telemachy.
 aliases: [the Telemachy, Telemachy, Telemachus' voyage, Telemachus at Pylos and Sparta]
-participants: [telemachus, athena, nestor, menelaus, helen]
+participants: [telemachus, athena, eurycleia, nestor, menelaus, helen]
 ---
 
 ## The story
@@ -28,7 +28,7 @@ Meanwhile the suitors learn that he has gone. Antinous takes twenty men to lie i
 
 **The two councils.** The journey fills the books between the two councils of the gods. When the gods sit again at the start of *Odyssey* 5, Athena tells them that the suitors are waiting to kill Odysseus' son on his way home from Pylos and Lacedaemon, and Zeus bids her bring him home unharmed (*Odyssey* 5.18–20, 5.25–27; see [[the-council-of-the-gods]]).
 
-**Twenty oarsmen.** Athena bids Telemachus man his ship with twenty oarsmen (*Odyssey* 1.280), and Antinous asks the suitors for a swift ship and twenty companions to lie in wait for him, and chooses twenty of the best (*Odyssey* 4.669, 4.778).
+**Twenty oarsmen.** Athena bids Telemachus man his ship with twenty oarsmen (*Odyssey* 1.280), Telemachus asks the assembly for “a swift ship and twenty companions” (*Odyssey* 2.212), and Antinous asks the suitors for them in the same verse, to lie in wait for him, and chooses twenty of the best (*Odyssey* 4.669 = 2.212, 4.778).
 
 ## Outside Homer
 

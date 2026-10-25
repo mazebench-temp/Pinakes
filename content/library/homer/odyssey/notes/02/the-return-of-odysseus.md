@@ -1,0 +1,23 @@
+---
+summary: In the first assembly since Odysseus sailed, his return is foretold and denied. Halitherses reads Zeus' eagles as Odysseus near at hand, planting death for the suitors, and recalls his old prophecy of a homecoming in the twentieth year; the suitors answer that Odysseus has perished, and Leiocritus that he would die if he came. In the storeroom the old wine is kept for the day he comes home.
+# Unnamed: Halitherses' prophecy (2.163-176); the suitors' denials and Leiocritus' supposition (2.182-184, 2.238,
+# 2.246-251); Athena's warning (2.283-284); the wine kept for him (2.342-343, 2.350-352); Eurycleia's despair
+# (2.365-366).
+refs: [2.163-176, 2.182-184, 2.238, 2.246-251, 2.283-284, 2.342-343, 2.350-352, 2.365-366]
+passages:
+  - 2.161-176 | Halitherses foretells the return
+---
+
+**No news.** The assembly is the first since Odysseus “went away in the hollow ships” (2.26–27), and Aegyptius' first guess at its cause is “news of the army's coming” (2.30); Telemachus has heard none (2.42; see [[the-assembly-of-the-ithacans]]). The scholia took the army either for an enemy's or for the one that sailed for Ilios, and Ameis for the second, since a father longing for his son would think of the host's return; Merry finds the news of an invasion or a raid more likely to call a hasty assembly (Merry, *Commentary on the Odyssey*, 1886, on 2.30; see [[aegyptius]]). Telemachus' father is lost, “alive or dead” (2.46, 2.131–132), and he will go to Sparta and Pylos to learn of his homecoming, on the terms Athena gave him in her own verses: if he hears that his father lives, he will endure another year; if he hears that he is dead, he will heap up a mound for him and give his mother to a husband (2.214–223; 1.287–292; see [[the-journey-of-telemachus]]).
+
+**Foretold.** When Zeus sends two eagles over the assembly, Halitherses reads them as the return: Odysseus will not be long away, “but is already somewhere / near, and plants slaughter and doom for these men, / for all of them” (2.164–166; see [[the-omen-of-the-eagles]]). Then he recalls what he foretold when the fleet sailed:
+
+{{quote:46b49703-3fb1-582b-8d6d-6f3cae86eb93}}
+
+The later books fulfill each part of it, and Halitherses speaks again when the suitors are dead (24.451–462; see [[the-prophecy-of-halitherses]]). When he speaks here, the poem has left Odysseus on Calypso's island (1.13–15, 1.48–59). The first book's prophecy was Athena's, given in the likeness of Mentes, “though I am no seer and have no clear knowledge of birds” (1.202); this one is a seer's, read from a sign of Zeus before the whole people (see [[divination]]).
+
+**Denied.** Eurymachus answers that Odysseus “has perished far away, as you too ought to have perished / along with him” (2.183–184; see [[eurymachus]]). Mentor complains that the suitors devour his house “and say that he will come home no more” (2.238; see [[mentor]]), and Leiocritus makes the return a supposition: “For even if Odysseus of Ithaca himself were to come” to drive them out of his hall, his wife would have no joy of his coming, for he would meet a shameful doom, one man against many (2.246–251; see [[leiocritus-son-of-euenor]]). The suitors jeer that Telemachus too may perish, “wandering like Odysseus” (2.333), and his nurse counts his father dead: “He has perished far from his native land, / Odysseus, sprung from Zeus, among a strange people” (2.365–366; see [[eurycleia]]).
+
+**The end foreseen.** Athena, in the likeness of Mentor, tells Telemachus that the suitors know nothing “of death and black doom, / which is near them now, that they should all perish in a single day” (2.283–284; see [[black-doom]]), as Halitherses has said that Odysseus plants slaughter and doom “for all of them” (2.165–166). The suitors die together, in one day, in the twenty-second book (see [[the-suitors]]).
+
+**Kept for him.** In his father's high-roofed chamber stand the jars of old wine, “fitted in order against the wall, in case Odysseus ever / came home, even after toiling through many sorrows” (2.342–343). ἄλγεα πολλὰ μογήσας, “toiling through many sorrows”, are the words with which Odysseus will make himself known to the old nurse: “after toiling through many sorrows / I have come in the twentieth year to my native land” (19.483–484; see [[the-prophecy-of-halitherses]]). In this book Telemachus asks her for the sweetest wine after the one she keeps, “thinking of that ill-fated man, if from somewhere he might come” (2.350–351; see [[the-storeroom-of-odysseus]]). The nurse who keeps the best wine for him tells his son, a few verses later, that he has perished (2.365–366). The renderings of other books are plain renderings, not the translation.

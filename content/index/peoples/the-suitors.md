@@ -24,8 +24,10 @@ Telemachus counts them: fifty-two from Dulichium, with six servants, twenty-four
 
 ## Elsewhere in Homer
 
-They have wooed Penelope for three years and more, deceived by her web (*Odyssey* 2.89–110; see [[penelope]]). They feast every day in Odysseus' house, plot to kill Telemachus on his way home from Pylos and Sparta (*Odyssey* 4.660–672, 4.842–847; see [[the-journey-of-telemachus]]), and abuse the disguised Odysseus in his own hall. None of them can string his bow (Book 21), and Odysseus, with Telemachus and two loyal herdsmen, kills them all (Book 22). Hermes leads their shades to the underworld (*Odyssey* 24.1–14), and when their kinsmen take up arms to avenge them, Athena stops the fighting and makes peace between the two sides (*Odyssey* 24.413–548; see [[eupeithes]]).
+They have wooed Penelope for three years and more, deceived by her web (see [[the-web-of-penelope]] and [[penelope]]). They feast every day in Odysseus' house, plot to kill Telemachus on his way home from Pylos and Sparta (*Odyssey* 4.660–672, 4.842–847; see [[the-journey-of-telemachus]]), and abuse the disguised Odysseus in his own hall. None of them can string his bow (Book 21), and Odysseus, with Telemachus and two loyal herdsmen, kills them all (Book 22). Hermes leads their shades to the underworld (*Odyssey* 24.1–14), and when their kinsmen take up arms to avenge them, Athena stops the fighting and makes peace between the two sides (*Odyssey* 24.413–548; see [[eupeithes]]).
 
 ## Outside Homer
 
 In Aristotle's outline of the Odyssey, the hero's “property is being wasted by suitors and his son plotted against” (*Poetics* 1455b19–21; see [[the-return-of-odysseus]] and [[aristotle-the-story-of-the-odyssey]]).
+
+Horace makes them a byword for idle consumers, and Ovid's Penelope names them in her letter to Ulysses (see [[horace-on-the-suitors]] and [[ovid-penelopes-letter]]); for the game called Penelope, see [[the-game-of-penelope]].

@@ -2,6 +2,7 @@
 summary: In Book 2 the Achaeans are an army under test. They run for home, are driven back, and are marshaled and counted, and the Catalogue names their leaders and their ships. Thersites calls them “Achaean women, Achaean men no longer”.
 grc: [Ἀχαιΐδες, Παναχαιῶν]
 en: [all the Achaeans]
+except: [9.395]
 ---
 
 **New names.** Παναχαιοί (“all the Achaeans”): the elders Agamemnon calls to his sacrifice are “the best of all the Achaeans” (2.404). Ἀχαιΐδες (“Achaean women”) is Thersites' insult, “Weaklings, wretched disgraces, Achaean women, Achaean men no longer” (2.235). Menelaus throws the same words at the army when no one will face Hector (7.96). See [[thersites]].

@@ -1,0 +1,9 @@
+---
+summary: Named once, in the verses that bring in his father: Antiphus the spearman went with Odysseus to Ilios, and the savage Cyclops killed him in his hollow cave and made ready of him the last of his suppers (2.17–20). His father, mourning him still, is the first to speak in the assembly.
+# Unnamed: the son who sailed (2.17-18), the Cyclops' meal (2.20), the father's grief for him (2.23-24).
+refs: [2.17-18, 2.20, 2.23-24]
+---
+
+**The last of his suppers.** The narrator tells what became of him in a verse and a half: “but the savage Cyclops killed him / in his hollow cave, and made ready of him the last of his suppers” (2.19–20; see [[polyphemus-the-cyclops]] and [[hollow-caves]]). πύματον, “the last”, must mean that Antiphus was the last of the six companions the Cyclops ate, Merry explains, comparing 9.369, where the Cyclops promises to eat Οὖτις, “Nobody”, last of all; the other sense Eustathius gives, “the last of all men”, needs an un-Homeric version of the story in which the Cyclops lost his life with his sight. Merry adds that the stress may fall on ὡπλίσσατο, “made ready”, since once he was blinded the Cyclops could no longer wait on himself (Merry, *Commentary on the Odyssey*, 1886, on 2.20; see the translation's note on 2.20). ὡπλίσσατο δόρπον, “made ready his supper”, is the verse-end of the Cyclops' own meals in the ninth book (9.291, 9.344).
+
+**His father's grief.** The verses explain why the old man speaks first, and with tears: “But even so he did not forget that one, mourning and grieving. / Shedding tears for him, he addressed them and spoke” (2.23–24; see [[aegyptius]] and [[shedding-tears]]). Of his brothers, Eurynomus sits with the suitors who are wasting the house of the man Antiphus followed to Troy (2.21–22; see [[eurynomus]] and [[the-suitors]]).

@@ -3,7 +3,7 @@ title: Noble
 greek: ἀγαυός
 kind: epithet
 tags: [heroic-epithet, herald]
-summary: “Admirable, noble,” an old adjective of praise for heroes and their followers, and in the Odyssey for Persephone.
+summary: “Admirable, noble,” an old adjective of praise for heroes and their followers, and in the Odyssey for the suitors and for Persephone.
 aliases: [illustrious, agauos]
 grc: [ἀγαυοὶ]
 en: [noble]

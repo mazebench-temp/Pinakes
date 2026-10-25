@@ -7,7 +7,7 @@ summary: Son of [[Talaemenes]] and of the nymph of the Gygaean lake, leader of t
 aliases: [Antiphus of Maeonia]
 grc: [Ἄντιφος]
 en: [Antiphus]
-except: [2.678, 4.489, 11.104]
+except: [2.678, 4.489, 11.104, Od. 2.19]
 refs: [2.865, 2.866]
 relations:
   - father: talaemenes (2.865)

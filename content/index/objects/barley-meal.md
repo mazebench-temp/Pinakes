@@ -11,7 +11,7 @@ en: [barley meal, meal of holy barley]
 
 ## Meaning
 
-ἄλφιτα (usually plural) is barley that has been husked and ground into groats or meal, the everyday food of the Homeric household, as against the whole grains (οὐλαί, οὐλοχύται) thrown at a sacrifice (see [[barley-grains]]). ἀκτή is “meal”, ground grain: “the meal of holy barley” (ἀλφίτου ἱεροῦ ἀκτή, 11.631), and a mortal is one who eats Demeter's ἀκτή (13.322, 21.76; see [[demeter]]). Why the barley is called ἱερός, “holy”, is not said. The Odyssey twice calls barley meal μυελὸν ἀνδρῶν, “the marrow of men” (Odyssey 2.290, 20.108).
+ἄλφιτα (usually plural) is barley that has been husked and ground into groats or meal, the everyday food of the Homeric household, as against the whole grains (οὐλαί, οὐλοχύται) thrown at a sacrifice (see [[barley-grains]]). ἀκτή is “meal”, ground grain: “the meal of holy barley” (ἀλφίτου ἱεροῦ ἀκτή, 11.631), and a mortal is one who eats Demeter's ἀκτή (13.322, 21.76; see [[demeter]]). Why the barley is called ἱερός, “holy”, is not said. The Odyssey twice calls barley meal μυελὸν ἀνδρῶν, “the marrow of men” (*Odyssey* 2.290, 20.108).
 
 ## In Homer
 
@@ -19,7 +19,7 @@ In Nestor's hut the barley meal is set on the table beside the onion and the hon
 
 ## Elsewhere in Homer
 
-In the Odyssey barley meal is the stuff of a household's stores and of travel. Telemachus has it poured into well-sewn leather sacks for his voyage, twenty measures of mill-ground meal, with wine in jars (Odyssey 2.289–291, 2.354–355, 2.380), and twelve women grind barley and wheat at the mills in Odysseus' house (Odyssey 20.105–108). Eumaeus sprinkles white barley meal over the meat he sets before his guest (Odyssey 14.76–77), and over the first portions he throws into the fire as an offering (Odyssey 14.429). Circe mixes it into her drugged drink (Odyssey 10.234), and Odysseus sprinkles white barley meal over the offerings to the dead at the edge of the world (Odyssey 10.517–520, 11.25–28).
+In the Odyssey barley meal is the stuff of a household's stores and of travel. Telemachus has it poured into well-sewn leather bags for his voyage, twenty measures of mill-ground meal, with wine in two-handled jars (*Odyssey* 2.289–291, 2.354–355, 2.380; see [[provisions]] and [[two-handled-jar]]), and twelve women grind barley and wheat at the mills in Odysseus' house (*Odyssey* 20.105–108). Eumaeus sprinkles white barley meal over the meat he sets before his guest (*Odyssey* 14.76–77), and over the first portions he throws into the fire as an offering (*Odyssey* 14.429). Circe mixes it into her drugged drink (*Odyssey* 10.234), and Odysseus sprinkles white barley meal over the offerings to the dead at the edge of the world (*Odyssey* 10.517–520, 11.25–28).
 
 ## Outside Homer
 

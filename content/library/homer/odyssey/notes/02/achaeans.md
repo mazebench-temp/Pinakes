@@ -1,0 +1,9 @@
+---
+summary: In the assembly the Achaeans are the people of Ithaca and the suitors among them. Telemachus summons “the long-haired Achaeans” (2.7); Antinous says that Penelope has cheated and deceived “the Achaeans” for three years (2.90, 2.106); the suitors are “the sons of the Achaeans” (2.115, 2.198).
+---
+
+**The people summoned.** The heralds call “the long-haired Achaeans to the assembly” (2.7), as Athena had planned (1.90; see [[long-haired]] and [[ithacans]]), and the companions whom Telemachus finds on the shore at nightfall have the same epithet, κάρη κομόωντας ἑταίρους, “their long-haired companions” (2.408). Telemachus begs the people to hold back, “unless perhaps my brave father Odysseus / in ill will did harm to the well-greaved Achaeans”, and they are taking vengeance on his son for it (2.70–73; see [[well-greaved]]).
+
+**The suitors as Achaeans.** To Antinous the suitors are the Achaeans. They are “the Achaean suitors”, μνηστῆρες Ἀχαιῶν (2.87), whose heart Penelope has been cheating (2.90), whom her trick persuaded (2.106), and who give Telemachus their answer “so that you may know it / in your own heart, and all the Achaeans may know it” (2.111–112). She vexes “the sons of the Achaeans” (2.115; see [[sons-of-the-achaeans]]) and is to marry “whichever of the Achaeans she wishes” (2.128). Eurymachus speaks the same way: “the sons of the Achaeans will not cease” their wooing, while she “keeps the Achaeans waiting” (2.198, 2.204). In Telemachus' mouth the name takes in both the people and the suitors: the gods know these things already, “and all the Achaeans” (2.211), and in his prayer “all this the Achaeans are delaying, / and most of all the suitors” (2.265–266). Antinous, mocking him, promises that “the Achaeans will surely bring about for you, / a ship and choice oarsmen” (2.306–307).
+
+**The women.** The women of the land have names of their own, Ἀχαιϊάδες and Ἀχαιαί (2.101, 2.119; see [[achaean-women]]).

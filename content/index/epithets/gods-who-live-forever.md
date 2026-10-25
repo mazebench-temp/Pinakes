@@ -12,7 +12,7 @@ of: [olympians]
 
 ## Meaning
 
-θεοί (“gods”) + αἰέν (“always”) + ἐόντες (“being”): “the gods who always are.” The phrase defines the gods by what mortals lack. Elsewhere Homer says the same with θεοὶ αἰειγενέται, “the gods who live forever.” *Iliad* 1 sets it against its words for human brevity: [[short-lived]], [[swift-fated]], [[mortal-men]].
+θεοί (“gods”) + αἰέν (“always”) + ἐόντες (“being”): “the gods who always are.” The phrase defines the gods by what mortals lack. Elsewhere Homer says the same with θεοὶ αἰειγενέται, “the everlasting gods.” *Iliad* 1 sets it against its words for human brevity: [[short-lived]], [[swift-fated]], [[mortal-men]].
 
 ## Use
 

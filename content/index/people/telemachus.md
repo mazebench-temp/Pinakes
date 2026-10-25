@@ -25,8 +25,10 @@ He is the only son of an only son. Arceisius had only Laertes, Laertes only Odys
 
 ## Elsewhere in Homer
 
-The first four books of the Odyssey follow him: the assembly of Ithaca (Book 2) and his journey to Pylos and Sparta for news of his father (Books 2–4; see [[the-journey-of-telemachus]]). He comes home in Book 15, escaping the suitors' ambush. Father and son meet in Eumaeus' hut (*Odyssey* 16.154–320) and kill the suitors together (Book 22).
+The first four books of the Odyssey follow him: the assembly of Ithaca (Book 2; see [[the-assembly-of-the-ithacans]]) and his journey to Pylos and Sparta for news of his father (Books 2–4; see [[the-journey-of-telemachus]]). He comes home in Book 15, escaping the suitors' ambush. Father and son meet in Eumaeus' hut (*Odyssey* 16.154–320) and kill the suitors together (Book 22).
 
 ## Outside Homer
 
 In the *Cypria*, as [[proclus|Proclus]] summarizes it, Odysseus pretended to be mad to avoid the war, and Palamedes exposed him by seizing the infant Telemachus. In the *Telegony*, after Odysseus' death Telemachus marries Circe, and Telegonus, Odysseus' son by Circe, marries Penelope.
+
+For Athena at his side in the likeness of Mentor in later writers, and Fénelon's *Télémaque*, see [[athena-as-mentor-in-later-writers]].

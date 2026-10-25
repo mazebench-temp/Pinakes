@@ -10,6 +10,6 @@ summary: Ithaca is the home the gods have spun for Odysseus' return and the isla
 
 {{quote:f301d159-791c-5972-b640-83f79a3e5f96}}
 
-The verses return when Telemachus speaks to the disguised Odysseus and when Penelope does, the second time with εὐδείελον, “clear to see”, in place of κραναήν, “craggy” (16.122–124, 19.130–132; see [[the-suitors]], [[dulichium]], [[samos]], [[zacynthus]] and [[craggy]]).
+The verses return when Telemachus speaks to the disguised Odysseus and when Penelope does, the second time with εὐδείελον, “clear-seen”, in place of κραναήν, “craggy” (16.122–124, 19.130–132; see [[the-suitors]], [[dulichium]], [[samos]], [[zacynthus]] and [[craggy]]).
 
 **Sea-girt Ithaca and its kings.** ἐν ἀμφιάλῳ Ἰθάκῃ, “in sea-girt Ithaca”, comes three times in the exchange with Antinous and Eurymachus (1.386, 1.395, 1.401; see [[sea-girt]]). Antinous prays that Zeus may never make Telemachus king in Ithaca, “which is yours by birth from your father” (1.386–387); Telemachus answers that there are “other kings of the Achaeans, / many in sea-girt Ithaca, young and old” (1.394–395; see [[kings]]); and Eurymachus wishes that no man may rob him of his possessions “while Ithaca is still inhabited” (1.404). Merry takes Ἰθάκης ἔτι ναιετοώσης as the island standing for its people, “while Ithaca stands” (on 1.404). See [[antinous]] and [[eurymachus]].

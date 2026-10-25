@@ -6,7 +6,7 @@ summary: Egypt, and its river, both called Αἴγυπτος in Homer. The Iliad
 aliases: [Aigyptos, Aegyptus, the Egyptians]
 # Αἰγυπτίας (9.382) is the only mention in the Iliad. In the Odyssey Αἴγυπτος is the land (Od. 3.300,
 # 4.351) and the river (Od. 4.477, 4.581, 14.257–258); Αἰγύπτιος at Od. 2.15 is the Ithacan elder
-# Aegyptius, who will need his own id and an exclusion here.
+# Aegyptius (aegyptius, which claims the phrase "ἥρως Αἰγύπτιος"), and at Od. 4.385 Proteus "the Egyptian".
 grc: [Αἰγυπτίας]
 passages:
   - 9.379-387 | Not for all the wealth of Orchomenus and Thebes
@@ -14,7 +14,7 @@ passages:
 
 ## The name
 
-Homer uses Αἴγυπτος for the river as well as the land. Menelaus has to go back “to the water of Aegyptus, the river fallen from Zeus” (διιπετέος ποταμοῖο, Od. 4.477, 4.581), and Odysseus in his false tale beaches his ships “in the river Aegyptus” (Od. 14.258, 17.427). Homer never names the Nile; Νεῖλος first appears in Hesiod, among the rivers that Tethys bore to Oceanus (*Theogony* 337–338; see [[hesiod]]). The Egyptians are Αἰγύπτιοι.
+Homer uses Αἴγυπτος for the river as well as the land. Menelaus has to go back “to the water of Aegyptus, the river fallen from Zeus” (διιπετέος ποταμοῖο, Od. 4.477, 4.581), and Odysseus in his false tale beaches his ships “in the river Aegyptus” (Od. 14.258, 17.427). Homer never names the Nile; Νεῖλος first appears in Hesiod, among the rivers that Tethys bore to Oceanus (*Theogony* 337–338; see [[hesiod]]). The Egyptians are Αἰγύπτιοι, and the adjective Αἰγύπτιος, “Egyptian”, is also the name of an old hero of Ithaca (*Odyssey* 2.15; see [[aegyptius]]).
 
 ## In the Iliad
 

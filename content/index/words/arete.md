@@ -3,7 +3,7 @@ title: Prowess
 greek: ἀρετή
 kind: term
 tags: [honor, warfare]
-summary: Excellence, whatever makes a man, a woman, a horse or a god good at what they are; in the Iliad most often a fighter's prowess, which only a test can show. The word that later Greek used for “virtue” enters the poem in Hector's boast about Diomedes.
+summary: Excellence, whatever makes a man, a woman, a horse or a god good at what they are; in the Iliad most often a fighter's prowess, which only a test can show. The word that later Greek used for “virtue” enters the Iliad in Hector's boast about Diomedes.
 aliases: [aretē, arete, excellence, virtue]
 grc: [ἀρετὴν]
 en: [prowess]

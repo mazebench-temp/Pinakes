@@ -18,4 +18,4 @@ A god comes down, sometimes sent by another god, and stands near a mortal, often
 
 ## Elsewhere in Homer
 
-Aphrodite comes to Helen disguised as an old woman. Helen knows her by her neck, her breasts and her flashing eyes, and is astonished (θάμβησεν, Iliad 3.396–398). In the Odyssey, when Athena appears to Odysseus but not to Telemachus, the narrator explains that “the gods do not appear plainly to all” (Odyssey 16.161).
+Aphrodite comes to Helen disguised as an old woman. Helen knows her by her neck, her breasts and her flashing eyes, and is astonished (θάμβησεν, 3.396–398). In the Odyssey, when Athena appears to Odysseus but not to Telemachus, the narrator explains that “the gods do not appear plainly to all” (*Odyssey* 16.161).

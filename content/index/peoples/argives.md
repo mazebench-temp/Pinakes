@@ -5,7 +5,8 @@ kind: people
 tags: [achaean, argive]
 summary: "The men of Argos", one of Homer's three names for the whole Greek army at Troy. See also [[Achaeans]] and [[Danaans]].
 aliases: [Argeioi]
-grc: [Ἀργείων, Ἀργείοισι]
+# Ἀργεῖοι (Od. 2.173) also catches 31 Iliad lines, all the army, which the Book 2 note claims as well.
+grc: [Ἀργείων, Ἀργείοισι, Ἀργεῖοι]
 en: [Argives]
 ---
 

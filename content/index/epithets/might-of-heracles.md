@@ -21,3 +21,7 @@ The two uses in *Iliad* 2 frame the story of Tlepolemus, Heracles' son. His moth
 {{quote:701b6af0-4570-56fc-86ed-2e39efc29a71}}
 
 The phrase names the father whose strength the son inherits and the family whose vengeance he escapes ([[the-flight-of-tlepolemus]]).
+
+## Outside Homer
+
+The critic Longinus, as Proclus reports, set a periphrasis of Plato's beside this one and “the sacred strength of Telemachus” (see [[longinus-on-the-sacred-strength-of-telemachus]]).

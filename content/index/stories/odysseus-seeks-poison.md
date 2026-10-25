@@ -6,7 +6,7 @@ period: before-troy
 mode: told
 narrator: athena
 tags: [weapon, backstory, digression]
-summary: Before the Trojan War Odysseus sailed to Ephyra to get from Ilus, son of Mermerus, a man-slaying drug to smear on his arrows; Ilus refused it for fear of the gods, but Anchialus, the father of Mentes, gave it to him. Athena, in the likeness of Mentes, tells it to Telemachus in the first book of the Odyssey.
+summary: Before the Trojan War Odysseus sailed to Ephyra to get from Ilus, son of Mermerus, a man-slaying drug to smear on his arrows; Ilus refused it for fear of the gods, but Anchialus, the father of Mentes, gave it to him. Athena, in the likeness of Mentes, tells it to Telemachus (*Odyssey* 1.255–266), and the suitors name Ephyra again as the place of deadly drugs when they jeer at him (*Odyssey* 2.328–330).
 aliases: [Odysseus at Ephyra, the poisoned arrows, the man-slaying drug]
 participants: [odysseus, ilus-son-of-mermerus, anchialus-father-of-mentes, mentes-the-taphian]
 ---
@@ -25,7 +25,7 @@ Odysseus was then a guest in the house of Mentes' father, Anchialus, on his way 
 
 ## In the poem
 
-The memory serves a wish. Athena wishes that Odysseus would come now and stand at the doors with helmet, shield and two spears, as he was when Mentes first saw him, and engage the suitors: “they would all be swift-fated, and bitter would their wedding be” (*Odyssey* 1.255–266; see [[the-suitors]]). In the next book the suitors think of the same place: Telemachus, they jest, may go “to Ephyra, rich plowland”, to bring back “life-destroying drugs”, throw them in the mixing bowl and destroy them all (*Odyssey* 2.328–330). When Odysseus turns on the suitors he begins with the bow, and his first arrow, aimed at Antinous, is called “bitter” (πικρὸν ὀϊστόν), but nothing is said of poison (*Odyssey* 22.1–21; see [[bow]]). The renderings of books other than the first are plain renderings, not the translation.
+The memory serves a wish. Athena wishes that Odysseus would come now and stand at the doors with helmet, shield and two spears, as he was when Mentes first saw him, and engage the suitors: “they would all be swift-fated, and bitter would their wedding be” (*Odyssey* 1.255–266; see [[the-suitors]]). In the next book the suitors think of the same place: Telemachus, one of them jeers, may go to Ephyra, “that rich plowland”, to bring back “drugs that destroy life”, put them in the mixing bowl and destroy them all (*Odyssey* 2.328–330; see [[mixing-bowl]]). When Odysseus turns on the suitors he begins with the bow, and his first arrow, aimed at Antinous, is called “bitter” (πικρὸν ὀϊστόν), but nothing is said of poison (*Odyssey* 22.1–21; see [[bow]]). The renderings of books other than the first two are plain renderings, not the translation.
 
 ## Outside Homer
 

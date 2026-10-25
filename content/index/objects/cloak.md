@@ -13,7 +13,7 @@ Over the [[tunic]] a man wore a cloak, and Homer has two words for it.
 
 The χλαῖνα is a cloak of wool. It is “woolly” (οὔλη), with a thick nap, single or folded double (ἁπλοΐς, διπλῆ), and often dyed purple (πορφυρέη, φοινικόεσσα). It was fastened with a brooch (περόνη), and at night it served as a blanket (24.643–646). The origin of the word is uncertain.
 
-The φᾶρος is larger and finer, a mantle of woven cloth, often white. Kings wear it: Agamemnon's is “great” (μέγα, 2.43) and purple (8.221). So do goddesses: Calypso and Circe put on a great silvery φᾶρος (*Odyssey* 5.230, 10.543). It is also a shroud. Patroclus' body is covered with a white φᾶρος (18.352–353), and the web that Penelope weaves by day and unpicks by night is a φᾶρος for the burial of Laertes (*Odyssey* 2.97–99). The word is old: cloths listed on the Linear B tablets as *pa-we-a* are usually read as φάρϝεα, its plural.
+The φᾶρος is larger and finer, a mantle of woven cloth, often white. Kings wear it: Agamemnon's is “great” (μέγα, 2.43) and purple (8.221). So do goddesses: Calypso and Circe put on a great silvery φᾶρος (*Odyssey* 5.230, 10.543). It is also a shroud. Patroclus' body is covered with a white φᾶρος (18.352–353), and the web that Penelope weaves by day and unpicks by night is a φᾶρος for the burial of Laertes (*Odyssey* 2.97–99; see [[shroud]] and [[the-web-of-penelope]]). The word is old: cloths listed on the Linear B tablets as *pa-we-a* are usually read as φάρϝεα, its plural.
 
 Both kinds, with a tunic, were gifts from host to guest (for example *Odyssey* 8.392, 16.79), and both went into Priam's ransom for Hector, twelve single cloaks and twelve white mantles (24.229–231).
 

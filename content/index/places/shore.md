@@ -3,9 +3,10 @@ title: The shore
 greek: θίς
 kind: place
 tags: [sea, camp]
-summary: The beach along the sea, where the Achaean ships are drawn up in rows and the camp meets the water. Homer calls it θίς, ἠϊών or ἀκτή; it is the place where men go apart in their grief and speak to the gods.
+summary: The beach along the sea, θίς, ἠϊών or ἀκτή. In the Iliad it is the edge of the Achaean camp, where the ships are drawn up in rows; in both poems it is where ships are launched and crews gather, and where men go apart in their grief and speak to the gods.
 aliases: [beach, shore]
-grc: [θῖνα, θῖνʼ]
+# θινὶ (Od. 2.408; later Od. 3.5, 7.290, 9.551, 11.75) also catches Il. 4.248 and 23.59, which the Book 23 note claims.
+grc: [θῖνα, θῖνʼ, θινὶ]
 en: [shore]
 ---
 

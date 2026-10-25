@@ -13,4 +13,6 @@ en: [sails, sail]
 
 {{quote:ca68adaf-e1f6-553f-8abf-c22143e3780b}}
 
-The last three lines return for Telemachus' departure from Ithaca (Odyssey 2.427–429).
+The last three lines return, almost word for word, for Telemachus' departure from Ithaca (*Odyssey* 2.427–429).
+
+{{notes}}

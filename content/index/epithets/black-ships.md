@@ -8,7 +8,7 @@ aliases: [black ship, melaina]
 grc: [μέλαιναν, μελαίνῃ]
 # μέλαιναν at 21.66 is black doom (κῆρα μέλαιναν), at 21.126 the dark ripple.
 # μέλαιναν at 24.366 and 24.653 is the black night (θοὴν διὰ νύκτα μέλαιναν).
-except: [7.254, 9.65, 14.462, 21.66, 21.126, 24.366, 24.653]
+except: [7.254, 9.65, 14.462, 21.66, 21.126, 24.366, 24.653, Od. 2.283]
 en: [black]
 of: [ships]
 ---

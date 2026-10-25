@@ -21,3 +21,5 @@ of: [calchas, helenus]
 The introduction gives Calchas a full set of credentials: his father's name ([[son-of-thestor]]), his rank among seers, his knowledge of what is, will be, and was ([[past-present-future]]), and his service as guide of the fleet to Troy by the prophetic gift of Apollo. The credentials matter because he is about to say what the king does not want to hear.
 
 The word οἰωνός has already appeared in the proem, where the birds feed on the dead ({{ref:Iliad 1.5}}).
+
+The Odyssey introduces its reader of birds in other words. Halitherses of Ithaca “alone surpassed those of his age / in knowing birds and in speaking words of fate” (*Odyssey* 2.158–159), and in the last book he is brought in with the verse that the Iliad gives Polydamas, “for he alone saw before and after” (*Iliad* 18.250; *Odyssey* 24.452; see [[halitherses]] and [[before-and-after]]).

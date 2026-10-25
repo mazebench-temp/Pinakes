@@ -3,7 +3,7 @@ title: Leiocritus
 greek: Λειώκριτος
 kind: person
 tags: [achaean, warrior, companion]
-summary: An Achaean, son of [[Arisbas]] and the brave companion of [[Lycomedes]], whom Aeneas stabs with his spear when Apollo has turned the Trojans back to the fight over Patroclus (17.344–345); Lycomedes avenges him on the Paeonian Apisaon. Not the suitor Leiocritus of the Odyssey.
+summary: An Achaean, son of [[Arisbas]] and the brave companion of [[Lycomedes]], whom Aeneas stabs with his spear when Apollo has turned the Trojans back to the fight over Patroclus (17.344–345); Lycomedes avenges him on the Paeonian Apisaon. Not the suitor [[leiocritus-son-of-euenor|Leiocritus]] of the Odyssey.
 aliases: [Leiokritos, Leiocritus son of Arisbas]
 # No form in this file: Λειώκριτον (17.344) is claimed in the Book 17 note, in the Iliad's scope, because the
 # Odyssey's suitor Leiocritus, son of Euenor, has the same accusative (Od. 22.294; Λειώκριτος, Od. 2.242).
@@ -24,4 +24,4 @@ passages:
 
 **The name.** Walter Leaf calls the name “Odyssean”, and reports Nauck's view that it should be Ληόκριτος, from ληός, an Ionic form of λαός, “people” (*Commentary on the Iliad*, 1900, on 17.344). The second half is κριτός, “chosen”, from κρίνω, “pick out”, as in κριτὸς … λαὸς Ἀχαιῶν, “a chosen band of the Achaeans” (7.434).
 
-In the Odyssey Leiocritus, son of Euenor, is one of the suitors: he answers Mentor in the assembly of Ithaca, and Telemachus stabs him with his spear in the hall (*Odyssey* 2.242–256, 22.294–296).
+In the Odyssey [[leiocritus-son-of-euenor|Leiocritus, son of Euenor]], is one of the suitors: he answers Mentor in the assembly of Ithaca, and Telemachus stabs him with his spear in the hall (*Odyssey* 2.242–256, 22.294–296).

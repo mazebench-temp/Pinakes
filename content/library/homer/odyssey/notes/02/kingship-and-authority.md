@@ -1,0 +1,6 @@
+---
+summary: The assembly of Ithaca meets with the king away: Telemachus takes his father's seat (2.14) and speaks of the father “who once among you / here was king” (2.46–47); Mentor reproaches a people that has forgotten its kind king (2.229–241); and a suitor dissolves the assembly (2.252–257).
+refs: [2.14, 2.46-47, 2.229-241, 2.252-257]
+---
+
+Who may call an assembly and who may end it is the question the book raises and does not answer. Aegyptius asks who has gathered the people, and Telemachus answers that he did (2.28–41); he holds the scepter as a speaker, put into his hand by the herald (2.37–38; see [[scepter]]), which, Merry explains, invested him for the time being with a public office (*Commentary on the Odyssey*, 1886, on 2.37). In Merry's account the council of chiefs, βουλή or θῶκος, laid its measures before the people, who assented or dissented (Merry on 2.7; see [[boule]] and [[elders]]); here no council meets, and the people say nothing. Telemachus calls on Themis, who seats and dissolves the assemblies of men (2.68–69; see [[themis-the-goddess]]), and it is Leiocritus, one of the suitors, who sends the people home and dissolves it, with the verse of Achilles (2.252–257; *Iliad* 19.276; see [[assembly]] and [[leiocritus-son-of-euenor]]). See [[basileus]].

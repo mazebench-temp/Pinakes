@@ -14,7 +14,7 @@ refs: [2.318]
 # σῆμα in Book 23 is never a sign from the gods: the mound of Patroclus (23.45, 23.255, 23.257), Nestor's landmark and the old mound at the turning post (23.326, 23.331), the white mark on a horse's forehead (23.455), the marks of the throws (σήματα, 23.843).
 # σῆμα in Book 24 is a mound: of Patroclus (24.16, 24.416), of Ilus (24.349), of Hector (24.801).
 # σῆμα at Od. 1.291 is a grave mound (tomb).
-except: [2.814, 10.466, 11.166, 21.322, 23.45, 23.255, 23.257, 23.326, 23.331, 23.455, 23.843, 24.16, 24.349, 24.416, 24.801, Od. 1.291]
+except: [2.814, 10.466, 11.166, 21.322, 23.45, 23.255, 23.257, 23.326, 23.331, 23.455, 23.843, 24.16, 24.349, 24.416, 24.801, Od. 1.291, Od. 2.222]
 ---
 
 ## Meaning

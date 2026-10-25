@@ -1,0 +1,19 @@
+---
+summary: The book gives Eurycleia her office, the housekeeper who guards the storeroom of Odysseus night and day. Telemachus asks her for wine and barley meal for his voyage; she wails and begs him to stay; he tells her that the plan is not without a god and makes her swear to tell his mother nothing until the eleventh or twelfth day; she swears, and fills the jars and the bags (2.345–380).
+# Unnamed: the housekeeper (2.345-346), "called her to the chamber" (2.348), "Nurse" (μαῖʼ, 2.349, 2.372), her lament
+# (2.362), "And wise Telemachus answered her" (2.371), the old woman's oath and her filling of the jars and bags
+# (2.377-380), and "only one has heard the word" (2.412).
+refs: [2.345-346, 2.348-349, 2.362, 2.371-372, 2.377-380, 2.412]
+passages:
+  - 2.345-380 | Eurycleia and the provisions
+---
+
+**The housekeeper.** The description of the storeroom ends with its keeper: “a woman was in it as housekeeper night and day, / who guarded everything with the great knowledge of her mind, / Eurycleia, daughter of Ops, son of Peisenor” (2.345–347; see [[the-storeroom-of-odysseus]] and [[handmaids]]). The last verse is the one that brought her into the poem at the end of the first book (1.429; see [[ops]] and [[peisenor-father-of-ops]]). πολυϊδρείῃσιν, “with the great knowledge”, is said once more, in her own story of the scar, of Odysseus himself, who stopped her mouth “in the great knowledge of his mind” (πολυϊδρείῃσι νόοιο, 23.77; the rendering is a plain one).
+
+**The lament.** Telemachus calls her to the chamber and gives his orders, “You alone must know of it” (2.356), and tells her why: “For I will go to Sparta and to sandy Pylos / to learn of my dear father's homecoming” (2.359–360; see [[provisions]] and [[the-journey-of-telemachus]]). “So he spoke, and the dear nurse Eurycleia wailed aloud” (2.361): κωκύω is the shrill cry of women in lament, of Thetis when she hears her son's grief for Patroclus, of Briseis over Patroclus' body, of Hecuba when she sees Hector dragged behind the chariot (*Iliad* 18.37, 19.284, 22.407), and the verse has the shape of the one in which Hecuba wails when Priam tells her that he will go to the ships of the Achaeans, “So he spoke, and the woman wailed aloud and answered him” (*Iliad* 24.200; see [[lament]]).
+
+{{quote:3448b7d2-9571-5745-a028-868749439d92}}
+
+She takes Odysseus for dead, “far from his native land” (2.365), and fears for the son what the suitors have just been saying in the hall, that he may perish and they divide his house (2.332–336, 2.367–368; see [[the-suitors]]). μοῦνος ἐὼν ἀγαπητός, “an only and beloved son” (2.365): ἀγαπητός is said again of Telemachus by his mother in her grief at his going, “now again my beloved son has gone in a hollow ship” (4.817; a plain rendering).
+
+**The oath.** “Take heart, nurse, since this plan is not without a god” (2.372; see [[not-without-a-god]]). He asks her to swear to tell his mother nothing “until the eleventh or the twelfth day has come, / or she herself misses me and hears that I have gone, / so that she may not mar her fair skin with weeping” (2.374–376), and “the old woman swore a great oath by the gods not to tell” (2.377; see [[oath]]). ἀπώμνυ is “swore not to”, the oath of denial (see the translation's note on 2.377). The next verse, “But when she had sworn and completed the oath”, is Hera's after her oath to Sleep (2.378 = *Iliad* 14.280; see [[oath-formulas]]). Only then does she draw off the wine and pour the barley meal (2.379–380; see [[two-handled-jar]] and [[barley-meal]]). That night Telemachus tells the crew that his mother has learned nothing, “nor have the other slave women; only one has heard the word” (2.412). In the fourth book, when Penelope learns that her son has gone, Eurycleia tells her that she knew, and that he took a great oath of her not to tell before the twelfth day, so that Penelope might not mar her fair skin with weeping (4.742–749).

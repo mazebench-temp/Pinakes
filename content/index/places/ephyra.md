@@ -4,7 +4,9 @@ greek: Ἐφύρη
 kind: place
 tags: [mainland-greece, city, epirus, elis]
 summary: A city of western Greece on the river Selleis, from which [[Heracles]] carried off [[Astyocheia]], and to which, in the Odyssey, Odysseus sailed for a man-slaying drug for his arrows. Whether it lay in Thesprotia or in Elis was disputed already in antiquity.
-grc: [Ἐφύρης]
+# Ἐφύρης (Il. 2.659, 15.531; Od. 1.259) and Ἐφύρην (Od. 2.328, the Ephyra of the drugs, as at 1.259; no Iliad line).
+# Ἐφύρη and Ἐφύρῃ (Il. 6.152, 6.210) are ephyra-in-argos.
+grc: [Ἐφύρης, Ἐφύρην]
 ---
 
 {{quote:8fb7d558-f13e-5edb-b2df-9f44174a7405}}

@@ -3,7 +3,7 @@ title: Alcmene
 greek: Ἀλκμήνη
 kind: person
 tags: [theban, woman, mother]
-summary: The mother of Heracles by Zeus, wife of Amphitryon, who bore her son in Thebes. Zeus names her among his loves (14.323–324); Agamemnon tells how Hera held back her labor on the day of the birth so that Eurystheus was born first (19.95–133). Later writers make her the daughter of Electryon and tell how Zeus came to her in the likeness of her husband.
+summary: The mother of Heracles by Zeus, wife of Amphitryon, who bore her son in Thebes. In the Iliad Zeus names her among his loves (14.323–324), and Agamemnon tells how Hera held back her labor on the day of the birth so that Eurystheus was born first (19.95–133); in the Odyssey she is one of the famous women of old (*Odyssey* 2.120) and one of the heroines Odysseus sees in the underworld (*Odyssey* 11.266–268). Later writers make her the daughter of Electryon and tell how Zeus came to her in the likeness of her husband.
 aliases: [Alcmena, Alkmene, mother of Heracles]
 # Ἀλκμήνης (14.323); later Ἀλκμήνη (19.99), Ἀλκμήνης (19.119), and in the Odyssey Ἀλκμήνη (Od. 2.120),
 # Ἀλκμήνην (Od. 11.266). The stem catches no other word in Homer.
@@ -21,7 +21,7 @@ relations:
 
 **The day of the birth.** In *Iliad* 19 Agamemnon tells how even Zeus was deceived by Ate. On the day when Alcmene was to bear Heracles in Thebes, Zeus swore that a man of his blood born that day would rule all who dwell around him, and Hera brought Eurystheus to an early birth and stopped Alcmene's labor, holding back the goddesses of childbirth, so that Eurystheus, not Heracles, became lord of the Argives (19.95–124; see [[the-birth-of-heracles]], [[eurystheus]], [[eileithyia]] and [[ate]]). Thebes is ἐϋστέφανος there, “well-crowned” (19.99; see [[well-crowned]]), the only city in Homer with the epithet; Walter Leaf takes it as “well crowned with walls” (*Commentary on the Iliad*, 1900, on 19.99).
 
-**The Odyssey.** Antinous says that Penelope's cunning surpasses that of the famous women of old, “Tyro and Alcmene and fair-crowned Mycene” (*Odyssey* 2.120). In the underworld Odysseus sees “Alcmene, the wife of Amphitryon, who bore Heracles, bold in endurance and lion-hearted, after she had lain in the arms of great Zeus” (*Odyssey* 11.266–268; see [[amphitryon]]).
+**The Odyssey.** In the underworld Odysseus sees “Alcmene, the wife of Amphitryon, who bore Heracles, bold in endurance and lion-hearted, after she had lain in the arms of great Zeus” (*Odyssey* 11.266–268; see [[amphitryon]]).
 
 ## Outside Homer
 

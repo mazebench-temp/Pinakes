@@ -1,0 +1,11 @@
+---
+summary: The first telling. Antinous tells the story in the assembly to lay the blame for the suitors' long stay on Penelope: after three years of promises and messages the web was “this further trick”, and it ended when one of her women told the suitors and they caught her unraveling it; so Telemachus must send his mother back to her father (2.87–128).
+# The web in Antinous' speech (2.93-110).
+refs: [2.93-110]
+---
+
+**Evidence for the suitors.** Antinous answers Telemachus' appeal by turning the blame: “it is not the Achaean suitors who are to blame toward you: / it is your dear mother, who knows crafty ways beyond all others” (2.87–88; see [[antinous]], [[penelope]] and [[kerdos]]). For three years she has given hope to all and promises to each, “but her mind has other things in view” (2.89–92), and the web is δόλον τόνδʼ ἄλλον, “this further trick” (2.93; see [[dolos]]). The story ends with the suitors' verdict, “So she finished it, against her will, under compulsion” (2.110), and its moral follows at once: “But to you the suitors give this answer”, that Telemachus send his mother away to marry the man her father bids (2.111–114; see [[icarius]]).
+
+**The suitors deceived.** In Antinous' own words the suitors are the ones deceived: “So she spoke, and our proud spirit was persuaded” (2.103; see [[proud]]), and for three years “she escaped notice by her trick and persuaded the Achaeans” (2.106). What ends it is a betrayal from within the house, “one of her women told us, who knew it clearly, / and we caught her unraveling the splendid web” (2.108–109; see [[handmaids]]). Antinous admires even as he blames: no woman of old knew such devices, “and yet this one, at least, she did not devise rightly” (2.121–122).
+
+**By day and by night.** “Then by day she would weave the great web, / but by night she would unravel it, when she had set torches beside her” (2.104–105; see [[torches]]). The iteratives ὑφαίνεσκεν and ἀλλύεσκεν, “she would weave”, “she would unravel”, mark the repeated work of three years (see [[weaving]]). The verse of the fourth year, “but when the fourth year came and the seasons came round” (2.107), stands here without the verse that follows it when the story is told again (see the translation's note on 2.107).

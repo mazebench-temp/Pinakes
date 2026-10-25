@@ -1,0 +1,7 @@
+---
+summary: Telemachus bids the men of Ithaca “fear the wrath of the gods, / lest, indignant at your evil deeds, they turn upon you” (2.66–67): the noun's first use in the Odyssey, where it is only ever the wrath of gods.
+---
+
+**The wrath of gods.** In the Odyssey the noun belongs to the gods alone. Nestor tells how many Argives met an evil end through the deadly wrath of Athena (μήνιος ἐξ ὀλοῆς, 3.135), Hermes bids Calypso beware the wrath of Zeus (5.146), and the king of Egypt in Odysseus' tale protects a suppliant because he fears the wrath of Zeus of strangers (14.283–284). The shade of Elpenor asks not to be left unburied, lest he become a cause of the gods' wrath, θεῶν μήνιμα (11.73).
+
+**Indignant at evil deeds.** The second line gives the cause: ἀγασσάμενοι κακὰ ἔργα, “indignant at your evil deeds” (2.67). The gods' indignation answers the men's (2.64; see [[nemesis]]), and the Odyssey uses the same words for the gods who punish the suitors. Zeus of strangers “is most indignant at evil deeds” (νεμεσσᾶται κακὰ ἔργα, 14.284), and Penelope, when she hears that the suitors are dead, says that some god has killed them, indignant at their outrage and their evil deeds (ὕβριν ἀγασσάμενος θυμαλγέα καὶ κακὰ ἔργα, 23.64; see [[hybris]]). Telemachus threatens a whole people with what the suitors do: the gods will turn on those who let it be done, as Zeus in a simile of the Iliad pours his storm on men who judge crooked ordinances in the assembly (*Iliad* 16.384–388; see [[themis]] and [[who-is-to-blame]]).

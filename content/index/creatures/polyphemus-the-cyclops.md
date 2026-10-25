@@ -7,8 +7,11 @@ summary: The Cyclops, son of [[Poseidon]] and the nymph [[Thoosa]] and mightiest
 aliases: [Polyphemos, Polyphemus son of Poseidon]
 # Capitalized only: the adjective πολύφημος, "of many voices", is said of the assembly (Od. 2.150) and of the
 # singer Phemius (Od. 22.376). ἀντίθεον Πολύφημον at Il. 1.264 is the Lapith (polyphemus): excepted.
-grc: ["^Πολύφημ*"]
-en: [Polyphemus]
+# Κύκλωψ, the singular, is always Polyphemus in the Odyssey (Od. 2.19; later 9.296-502, 10.435, 12.209, 20.19,
+# 23.312); it occurs nowhere in the Iliad or Aristotle. The oblique singulars (Κύκλωπος, Od. 1.69; Κύκλωπα in
+# Book 9) fall under the stem Κύκλωπ* of cyclopes, which claims the race.
+grc: ["^Πολύφημ*", Κύκλωψ]
+en: [Polyphemus, Cyclops]
 except: [1.264]
 relations:
   - father: poseidon (Od. 1.68-73, Od. 9.519, Od. 9.529)
@@ -18,7 +21,7 @@ relations:
 
 ## The name
 
-Πολύφημος = πολύς (“much”) + φήμη (“speech, report”): “much spoken of”, the sense in which the Lapith's name is read (see [[polyphemus]]). As a common adjective πολύφημος is “of many voices” or “of many songs”: Zeus' two eagles fly down to “the middle of the assembly of many voices” (μέσσην ἀγορὴν πολύφημον, *Odyssey* 2.150), and Odysseus calls Phemius πολύφημος ἀοιδός, the singer “of many songs” (*Odyssey* 22.376; see [[phemius]]). The renderings of books other than the first are plain renderings, not the translation.
+Πολύφημος = πολύς (“much”) + φήμη (“speech, report”): “much spoken of”, the sense in which the Lapith's name is read (see [[polyphemus]]). As a common adjective πολύφημος is “of many voices” or “of many songs” (see [[of-many-voices]]): Zeus' two eagles come over “the middle of the assembly of many voices” (μέσσην ἀγορὴν πολύφημον, *Odyssey* 2.150), and Odysseus calls Phemius πολύφημος ἀοιδός, the singer “of many songs” (*Odyssey* 22.376; see [[phemius]]). The renderings of books other than the first two are plain renderings, not the translation.
 
 ## Family
 
@@ -31,6 +34,8 @@ Son of [[Poseidon]] and the nymph [[Thoosa]], daughter of the sea god Phorcys (s
 - ἀντίθεος, “godlike” (*Odyssey* 1.70), the standing epithet of heroes, here given to the giant (see [[antitheos]]). The half-verse ἀντίθεον Πολύφημον also names the Lapith in Nestor's list of the mightiest men (*Iliad* 1.264).
 - κρατερός, “mighty” (κρατερὸς Πολύφημος, *Odyssey* 9.407, 9.446), and the one “whose power is the greatest / among all the Cyclopes” (*Odyssey* 1.70–71; see [[kratos]]).
 - ἀνὴρ … πελώριος, a monstrous man who pastured his flocks alone, “not like a man who eats bread, but like a wooded peak of high mountains” (*Odyssey* 9.187–192), and πέλωρ, “the monster” (*Odyssey* 9.428). He lives apart and “knows lawless ways”, ἀθεμίστια ᾔδη (*Odyssey* 9.189; again 9.428; see [[themis]]).
+- ἄγριος, “savage” (ἄγριος … Κύκλωψ, *Odyssey* 2.19). Before he meets him, Odysseus forebodes “a man clothed in great might, savage, with no good knowledge of justice or of ordinances” (*Odyssey* 9.214–215), and his companions call him “a savage man” when Odysseus taunts him from the ship (*Odyssey* 9.494).
+- μένος ἄσχετος, “uncontrollable in his fury” (*Odyssey* 20.19), when Odysseus remembers the day the Cyclops ate his companions. Antinous throws the same words at Telemachus, μένος ἄσχετε, “uncontrollable in your fury” (*Odyssey* 2.85, 2.303; see [[menos]]).
 
 {{notes}}
 

@@ -6,7 +6,8 @@ tags: [sacred-object]
 summary: The olive tree, ἐλαίη, with its wood and its oil. The Iliad's one olive tree is the sapling to which the dying Euphorbus is likened (17.53–58), its wood makes the handle of Peisander's axe (13.612), and its oil anoints the living and the dead. In the Odyssey the olive stands at the harbor of Ithaca and in the bed of Odysseus.
 aliases: [olive tree, olives, elaie, olive wood, olive oil]
 # ἔλαιον "olive oil" is left to bathing and like-olive-oil, except in the Book 23 note ("χρῖεν ἐλαίῳ", "ὑγρὸν ἔλαιον",
-# ἀλείφατος). Later, in the Odyssey: ἐλαίη, ἐλαῖαι, ἐλάινος.
+# ἀλείφατος) and the Odyssey's Book 2 note ("ἐυῶδες ἔλαιον", the oil of the storeroom). Later, in the Odyssey: ἐλαίη,
+# ἐλαῖαι, ἐλάινος.
 grc: [ἐλαίης, ἐλαΐνῳ]
 en: [olive]
 ---

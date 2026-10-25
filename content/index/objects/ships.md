@@ -5,8 +5,9 @@ kind: object
 tags: [ship, camp, seafaring]
 summary: The ship (νηῦς), Homer's means of war, trade and homecoming. In the Iliad it is the Achaean fleet drawn up on the shore before Troy, the army's camp and its only way home; in the Odyssey, the ships of wanderers, traders and raiders, and the ship Telemachus fits out to seek news of his father.
 aliases: [ship, black ship, swift ships, hollow ships, fleet]
-# !=νέων keeps out νέων "of young men" (νέος, 11.503).
-grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, "!=νέων"]
+# !=νέων keeps out νέων "of young men" (νέος, 11.503). νῆες (Od. 2.292, 2.390) also catches the Iliad's νῆες, which
+# the Book 2 note claims as well; νέαι "new" (Od. 2.293) is the adjective and is not caught.
+grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, νῆες, "!=νέων"]
 en: [ships, ship]
 passages:
   - 1.308-312 | The ship sails for Chryse

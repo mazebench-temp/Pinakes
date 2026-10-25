@@ -36,3 +36,5 @@ The mist on mortal eyes lets gods pass unrecognized, and gods also hide themselv
 ## Outside Homer
 
 Virgil gives Aeneas the sight that Athena gave Diomedes, on the night Troy falls. Venus takes from his eyes the cloud that dulls mortal sight, and he sees the gods themselves pulling down the city: Neptune shaking the walls from their foundations, Juno at the Scaean gates, Pallas on the citadel with her Gorgon, and Jupiter rousing the gods against the Trojans (*Aeneid* 2.604–623).
+
+Plato would have no poet tell of gods who change their shape, and Proclus answers with Athena in the likeness of Mentor (see [[athena-as-mentor-in-later-writers]]).

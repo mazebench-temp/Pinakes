@@ -1,0 +1,13 @@
+---
+summary: The homecoming is what Telemachus sails to learn of, “to learn of the homecoming of my father, who has long been gone” (2.215, 2.264), what Halitherses foretells, “in the twentieth year, / he would come home” (2.175–176), and what the suitors deny, saying “that he will come home no more” (2.238). The old wine waits in the storeroom “in case Odysseus ever / came home” (2.342–343).
+grc: [νοστήσειε]
+except: [2.52, 2.179]
+---
+
+**News of it.** Telemachus asks the people for a ship to Sparta and Pylos “to learn of the homecoming of my father, who has long been gone” (2.214–215), and says it again in his prayer to the god of the day before (2.264) and to his nurse (2.359–360; see [[the-journey-of-telemachus]]). The verse is Athena's charge of Book 1 (1.281), and so are the two outcomes he lays before the people: if he hears of his father's “life and homecoming”, he will endure another year; if he hears that he is dead, he will “come home” himself and heap up a mound for him (2.218–223, as 1.287–292; see [[fame-and-the-tomb]]).
+
+**Foretold and denied.** Halitherses says that Odysseus will not be long away and is already near (2.163–165), as he foretold when the Argives sailed: “after suffering many evils, and losing all his companions, / unknown to all, in the twentieth year, / he would come home” (2.174–176; see [[the-prophecy-of-halitherses]] and [[the-return-of-odysseus]]). The suitors answer with his death: “Odysseus / has perished far away” (2.182–183), they “say that he will come home no more” (2.238), and if he did come, Leiocritus says, he would meet a shameful doom at their hands (2.246–251; see [[leiocritus-son-of-euenor]]). Halitherses throws Mentor's half-line back at the people in the poem's last assembly, τὸν δʼ οὐκέτι φάντο νέεσθαι (24.460; see [[assembly]]). The young suitors joke that Telemachus too may perish far from his friends, “wandering like Odysseus” (2.332–333), and Eurycleia fears the same: “He has perished far from his native land” (2.365).
+
+**Kept for him.** In the storeroom the jars of old wine stand against the wall “in case Odysseus ever / came home, even after toiling through many sorrows” (2.342–343), and Telemachus asks for the next sweetest, not the wine his nurse keeps “thinking of that ill-fated man, if from somewhere he might come” (2.349–352; see [[the-storeroom-of-odysseus]] and [[wine]]).
+
+**Not homecomings.** νέεσθαι at 2.52 is the suitors' going to the house of Icarius, which they shudder at, and οἴκαδʼ at 2.179 is Halitherses' going home to prophesy to his children: the two lines are excepted. Penelope's going back to her father's house, ἀπονέεσθαι (2.195), is not claimed.

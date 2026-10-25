@@ -41,3 +41,5 @@ Daughter of [[Zeus]]: Διὸς τέκος αἰγιόχοιο, "child of aegis-
 ## Outside Homer
 
 Hesiod tells how Zeus swallowed Metis and Athena was born from his head (*Theogony* 886–900, 924–926). At Athens she was Polias, the goddess of the city, and the Parthenon housed Phidias' gold-and-ivory statue of her.
+
+For her likeness of Mentor in Plato, Proclus and Fénelon, see [[athena-as-mentor-in-later-writers]].

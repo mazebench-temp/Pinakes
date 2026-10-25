@@ -20,7 +20,7 @@ With a hundred ships, "by far the most and the best men", Agamemnon leads the la
 
 ## Descriptions
 
-The Iliad also calls Mycenae "rich in gold" (πολύχρυσος, 7.180, 11.46) and "wide-streeted" (εὐρυάγυια, 4.52; [[wide-streeted]]). Hera names it with Argos and Sparta as the three cities she loves most (4.51–52). Homer uses both the plural Μυκῆναι and the singular Μυκήνη; in the Odyssey Mycene is also a heroine of old (Od. 2.120).
+The Iliad also calls Mycenae "rich in gold" (πολύχρυσος, 7.180, 11.46) and "wide-streeted" (εὐρυάγυια, 4.52; [[wide-streeted]]). Hera names it with Argos and Sparta as the three cities she loves most (4.51–52). Homer uses both the plural Μυκῆναι and the singular Μυκήνη; in the Odyssey [[mycene|Mycene]] is also a heroine of old (*Odyssey* 2.120).
 
 ## Outside Homer
 

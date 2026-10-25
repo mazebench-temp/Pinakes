@@ -1,0 +1,14 @@
+---
+summary: Telemachus asks the assembly for a ship and companions and gets nothing; the goddess then gives him both, in his own likeness and in Mentor's, puts the suitors to sleep and sends the wind. The speakers see the gods behind what happens: Antinous in Penelope's skill and purpose, Telemachus in the requital he leaves to Zeus and in his own plan, which “is not without a god”.
+# Unnamed: the purpose "the gods put in her breast" (2.124-125); "the gods know them already" (2.211); "this plan is
+# not without a god" (2.372).
+refs: [2.124-125, 2.211, 2.372]
+---
+
+**What the people would not do.** In the assembly Telemachus asks: “But come, give me a swift ship and twenty companions, / who will accomplish the way for me there and back” (2.212–213; see [[the-journey-of-telemachus]]). No one gives them. Leiocritus jeers that Mentor and Halitherses will speed him on his way, and that he will sit long in Ithaca and never accomplish the journey (2.253–256; see [[leiocritus-son-of-euenor]]), and he dissolves the assembly. The goddess provides what the people would not. In the likeness of Mentor she promises: “I will fit out a swift ship for you and go with you myself” (2.287); in the likeness of Telemachus she gathers the crew and asks Noemon for the ship (2.383–387); she launches it, puts the suitors to sleep and sends the wind (2.389–398, 2.420–421; see [[athena]]). Telemachus does his own part: he prays, has the provisions drawn and filled, binds Eurycleia to silence, and gives the crew their orders (2.260–266, 2.348–381, 2.409–412, 2.422–423; see [[eurycleia]]). The two halves meet at the ship.
+
+**Not without a god.** When Eurycleia begs him to stay, he answers: “Take heart, nurse, since this plan is not without a god” (2.372). He knows a god has sent him, the god who “bade me go in a ship over the misty sea” (2.263; see [[prayer]]), and the narrator has just shown the god in Mentor's likeness. The plan (βουλή) is his, and a god is in it (see [[boule]] and the article above).
+
+**What men say of the gods.** Antinous lays Penelope's resistance to the gods: her skill and good wits are Athena's gift (2.116–117), and she will hold out “as long as she keeps to this purpose, which now / the gods put in her breast” (2.124–125; see [[penelope]]). Telemachus tells the suitors that “the gods know them already, and all the Achaeans” (2.211). He leaves his requital to Zeus (2.143–145), and the two eagles come at once (2.146–154; see [[zeus]] and [[the-omen-of-the-eagles]]); Halitherses reads them, and Eurymachus answers that birds are many and “not all of them are birds of fate” (2.181–182; see [[divination]]).
+
+**The gift of grace.** In Book 1 the goddess put might and daring into Telemachus' heart as she left him (1.320–322); here, as he goes to the assembly, she pours a wondrous grace upon him, and all the people gaze at him (2.12–13; see [[charis]]).

@@ -23,6 +23,6 @@ Homer uses three names for the Greek army without distinction of meaning:
 - **Argives** (Ἀργεῖοι), after Argos: [[argives]];
 - **Danaans** (Δαναοί), after Danaus: [[danaans]].
 
-Meter often decides which name is used. The Greeks called themselves Hellenes only later. In the Iliad, Hellenes are one people in Achilles' corner of Thessaly (2.683–684).
+Meter often decides which name is used. The Greeks called themselves Hellenes only later. In the Iliad, Hellenes are one people in Achilles' corner of Thessaly (2.683–684). The women of the Achaeans have names of their own, Ἀχαιϊάδες and Ἀχαιαί (see [[achaean-women]]).
 
 {{notes}}

@@ -22,6 +22,7 @@ The word stands in several compounds. Elsewhere in the poem Cronus is ἀγκυ�
 ## Related words
 
 - [[boule|βουλή]] (“counsel, plan”) and [[noos|νόος]] (“understanding”).
+- [[dolos|δόλος]] (“trick”), woven with μῆτις (*Odyssey* 9.422).
 - [[odysseus|Odysseus]] and [[zeus|Zeus]].
 
 ## Outside Homer

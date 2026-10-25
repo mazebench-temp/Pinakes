@@ -8,7 +8,7 @@ aliases: [purple dye, crimson, phoinix]
 grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος, "!^Φοίνικ*"]
 en: [purple]
 # πορφύρεον κῦμα (21.326) is the surging wave.
-except: [21.326]
+except: [21.326, 1.482, Od. 2.428]
 passages:
   - 4.141-147 | Ivory stained with purple
 ---

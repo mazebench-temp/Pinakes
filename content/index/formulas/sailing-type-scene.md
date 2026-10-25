@@ -3,7 +3,7 @@ title: Sailing scene
 greek: ἐκ δʼ εὐνὰς ἔβαλον, κατὰ δὲ πρυμνήσιʼ ἔδησαν
 kind: formula
 tags: [type-scene, seafaring, ship]
-summary: Launching, sailing, landing and beaching, told as a fixed sequence of steps. The ship that takes Chryseis home makes the only voyage the Iliad narrates. It is launched (1.308–312), moored at Chryse (1.432–439), and carried home on Apollo's wind to be drawn up on the beach (1.477–487).
+summary: Launching, sailing, landing and beaching, told as a fixed sequence of steps, each with its own formula: in the Iliad the one voyage the poem narrates, the return of Chryseis, and in the Odyssey the voyages of Telemachus and of Odysseus.
 aliases: [sailing type-scene, voyage scene, landing scene]
 refs: [1.308-312, 1.432-439, 1.477-487]
 passages:
@@ -23,6 +23,6 @@ A Homeric voyage is told as a series of practical steps, each with its own formu
 
 {{notes}}
 
-## Outside Book 1
+## Elsewhere in Homer
 
-When Telemachus sails from Ithaca, Athena sends “a following wind” in the words of 1.479, with her name in place of Apollo's (Odyssey 2.420). The lines on the wind in the sail, the wave at the cutwater and the running ship follow almost word for word (Odyssey 2.427–429 = Iliad 1.481–483). The harbor of the island off the land of the Cyclopes is so sheltered that there is no need “to cast out mooring-stones or tie stern-cables” (Odyssey 9.136–137).
+The Odyssey tells its voyages in the same steps and often in the same verses. When Telemachus sails from Ithaca by night, the following wind, the mast, the white sails, the wave at the cutwater and the running ship come in the words of the voyage home from Chryse (*Odyssey* 2.413–434; *Iliad* 1.479–483). The harbor of the island off the land of the Cyclopes is so sheltered that there is no need “to cast out mooring-stones or tie stern-cables” (*Odyssey* 9.136–137).

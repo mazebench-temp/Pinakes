@@ -285,7 +285,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Μέδων | medon, Oileus' bastard son (Μέδων, 2.727, 13.693; Μέδοντα 15.332 in its Book 15 note, which sets `except: [17.216]`); the Trojan ally, medon-ally-of-the-trojans, claims `"Μέδοντά τε"` in its Book 17 note (17.216); the herald of Ithaca (Od. 4.677 and later) will need his own id, and medon an `except` in the Odyssey |
 | Στιχίος | stichius (Στιχίος, 13.195, 13.691; Στιχίον 15.329, where Hector kills him, in its Book 15 note) |
 | Ἴμβριος | imbrius claims only Ἴμβριον (13.171, 13.197); Ἴμβριος (21.43) is the adjective "of Imbros", of Lycaon's guest-friend Eetion, and imbros' Book 21 note claims it |
-| Μέντωρ | mentor-father-of-imbrius claims only Μέντορος (13.171), a form the Odyssey never uses of Mentor of Ithaca, who will need his own id |
+| Μέντωρ | mentor-father-of-imbrius claims only Μέντορος (13.171), a form the Odyssey never uses of Mentor of Ithaca, who is mentor (Odyssey, Book 2) |
 | Ἀσκάνιος | ascanius, the Phrygian (Ἀσκάνιος, 2.862; `except: [13.792]`); ascanius-the-mysian (Ἀσκάνιον, 13.792), whom Strabo makes a Mysian from the Ascania by Nicaea (12.4.5) |
 | Ἱπποδάμεια | hippodameia, wife of Peirithous (Ἱπποδάμεια, 2.742); hippodameia-daughter-of-anchises (Ἱπποδάμειαν, 13.429); Penelope's handmaid (Ἱπποδάμειαν, Od. 18.182) will need her own id and an `except` |
 | Πολίτης | polites, Priam's son (Πολίτῃ 2.791; Πολίτης 13.533; Πολίτην 24.250, in its Book 24 note only, since πολίτην is "citizen" at Rhetoric 1398b13); Odysseus' companion Polites (Od. 10.224) will need his own id and an `except` |
@@ -305,12 +305,12 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ἰξίων | ixion takes the adjective Ἰξιονίης (14.317); the Poetics' Ἰξίονες, the plays, are taken by refs |
 | Πασιθέη | pasithea, the Grace (Πασιθέην, 14.269, 14.276); Hesiod's Nereid of the same name (*Theogony* 246) will need her own id if Hesiod is indexed |
 | Κλεῖτος | cleitus, son of Peisenor, Polydamas' charioteer (`"Κλεῖτον Πεισήνορος"`, 15.445); Cleitus son of Mantius (Od. 15.249–250) will need his own id |
-| Πεισήνωρ | peisenor, father of Cleitus (Πεισήνορος, 15.445); the father of Ops is peisenor-father-of-ops (Πεισηνορίδαο, Od. 1.429, 2.347, 20.148; English "Peisenor" with `except: [15.445]`), and peisenor `except: [Od. 1.429]`; the herald of Ithaca (Od. 2.38) will need his own id and English excepts on both |
+| Πεισήνωρ | peisenor, father of Cleitus (Πεισήνορος, 15.445); the father of Ops is peisenor-father-of-ops (Πεισηνορίδαο, Od. 1.429, 2.347, 20.148; English "Peisenor" with `except: [15.445]`), and peisenor `except: [Od. 1.429]`; the herald of Ithaca (Od. 2.38) is peisenor-the-herald, whose Greek match outranks both English names |
 | Λαοδάμας | laodamas, son of Antenor (`"ἕλε Λαοδάμαντα"`, 15.516); Alcinous' son (Od. 7.170, 8.117, 8.370) will need his own id |
 | Κλυτίος (again) | clytius, the Trojan elder, claims Κλυτίοιο (15.419, 15.427) in its Book 15 note; Peiraeus' father (Κλυτίοιο Od. 16.327; Κλυτίδη Od. 15.540) will need his own id |
 | Λαομεδοντιάδης | Priam (3.250) and Lampus (15.527): lampus' Book 15 note takes 15.527 by `refs` |
 | Ἴασος | iasus, an Athenian leader (Ἴασος 15.337; Ἴασον 15.332 in its Iliad-scoped note, because Ἴασον Ἄργος at Od. 18.246 is an adjective); Amphion's father (Ἰασίδαο, Od. 11.283) and Dmetor's (Ἰασίδῃ, Od. 17.443) will need English excepts |
-| Μάστωρ, Μαστορίδης | mastor, father of Lycophron (Μάστορος 15.430; Μαστορίδης 15.438 in the Iliad-scoped notes of mastor and lycophron); Halitherses son of Mastor (Od. 2.158, 24.452) will need English excepts |
+| Μάστωρ, Μαστορίδης | mastor, father of Lycophron (Μάστορος 15.430; Μαστορίδης 15.438 in the Iliad-scoped notes of mastor and lycophron); Halitherses son of Mastor (Od. 2.158, 24.452): see Odyssey, Book 2 |
 | Σχεδίος | schedius, son of Iphitus (Σχεδίος 2.517; `except: [15.515]`); schedius-son-of-perimedes claims `"Σχεδίον Περιμήδεος"` (15.515); Σχεδίον υἱὸν Ἰφίτου (17.306) is the son of Iphitus, and schedius' Book 17 note claims Σχεδίον there |
 | Περιμήδης | perimedes, father of Schedius (15.515); Odysseus' companion (Od. 11.23, 12.195) will need an English `except` |
 | Ἐρύμας | erymas-killed-by-idomeneus (Ἐρύμαντα 16.345; `except: [16.415]`) and erymas-killed-by-patroclus (Ἐρύμαντα 16.415; `except: [16.345]`): two men of the Trojan side, each entry excepting the other's line |
@@ -328,7 +328,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Πηλέος υἱ- | always Achilles (16.203; 18.18, 20.2, 21.139, 22.8, 22.250): achilles' Book 16 note `"Πηλέος υἱ*"`, and peleus' note Πηλέος, as with Πηλῆος υἱός; son-of-peleus' Book 21 note claims `"Πηλέος υἱὸς"` (21.139) |
 | Ἀτρεΐδης (Book 17) | agamemnon's Book 17 note `except: [17.12, 17.46, 17.60, 17.71, 17.138, 17.580]`, where the son of Atreus is Menelaus; menelaus takes 17.71, 17.89 and 17.553 by `refs`, and son-of-atreus' Book 17 note claims `"Ἀτρέος υἱός"` (17.79) |
 | Αἴαντε, the pair | ajax claims the dual and the plural (Αἴαντ*); the-two-ajaxes takes its lines by `refs` and links the English "two Ajaxes" and "Ajaxes" (en in its entry), which ajax's Book 2 and Book 4 notes no longer claim |
-| Λειώκριτος | leiocritus, the Achaean (Λειώκριτον 17.344, in its Book 17 note, which applies only within the Iliad); the suitor Leiocritus, son of Euenor (Od. 2.242, 22.294), will need his own id and an English `except` |
+| Λειώκριτος | leiocritus, the Achaean (Λειώκριτον 17.344, in its Book 17 note, which applies only within the Iliad); the suitor Leiocritus, son of Euenor (Od. 2.242, 22.294), is leiocritus-son-of-euenor, whose Greek match outranks the English |
 | Ἄρητος | aretus, the Trojan (17.494, 17.517, 17.535, in its Iliad-scoped Book 17 note); Nestor's son Aretus (Od. 3.414, 3.440) will need his own id |
 | Μέντης | mentes, leader of the Cicones, whose likeness Apollo takes (Μέντῃ 17.73, with English Mentes, in its Book 17 note; `en: []` in the entry); the Taphian Mentes, whose likeness Athena takes, is mentes-the-taphian (Μέντης, Μέντῃ, Od. 1.105, 1.180, 1.418; `except: [17.73]`) |
 | Φρόντις | phrontis, wife of Panthous (Φρόντιδι 17.40, with English Phrontis, in its Book 17 note); Phrontis, son of Onetor, Menelaus' helmsman (Od. 3.282), will need his own id |
@@ -388,7 +388,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ἐφύρη | ephyra, Astyocheia's Ephyra on the Selleis (Ἐφύρης 2.659), and the Ephyra of the drugs in the Odyssey (Ἐφύρης, Od. 1.259), which ancient readers put in Thesprotia or in Elis; ephyra-in-argos, "in a corner of Argos", later Corinth (Ἐφύρη 6.152, Ἐφύρῃ 6.210) |
 | Φρυγίη, Μῃονίη | phrygia and maeonia are places; phrygians and maeonians are peoples (the people's stem must not catch the land: maeonians `[Μῄο*, "!Μῃονίη*"]`, which still lets in Μῃονίς "a Maeonian woman", 4.142); maeonia's Book 18 note claims Μῃονίην (18.291) |
 | Θῆβαι in Egypt | thebes-in-egypt (`"ὅσα Θήβας"` 9.381, Αἰγυπτίας 9.382; Od. 4.126–127); thebes (Boeotian) `except: [2.691, 9.381]`; egypt shares Αἰγυπτίας |
-| Αἰγύπτιος | egypt and thebes-in-egypt (9.382); Αἰγύπτιος, the Ithacan elder (Od. 2.15), will need his own id |
+| Αἰγύπτιος | egypt and thebes-in-egypt (9.382); Αἰγύπτιος, the Ithacan elder (Od. 2.15), is aegyptius (see Odyssey, Book 2) |
 | Θρῄκη / Θρῇκες | thrace, the land (Θρῄκηθεν 9.5, 9.72; Θρῄκης 13.301 by its Book 13 note); thracians, the people (`Θρήϊκ*`), which also takes Θρηϊκίης, "Thracian", of Samos (13.13), and in Book 23 Θρηΐκιον, of the sea (23.230) and of a sword (23.808); thrace takes the Thracian sea by `refs` and the English "Thracian sea" |
 | Κύθηρα, Κυθέρεια | cythera claims `Κυθηρ*` (10.268; 15.431, 15.432, 15.438; Od. 9.81); Aphrodite's title Κυθέρεια (Od. 8.288, 18.193) is spelled with ε and is not caught |
 | Ἐλεών | eleon claims Ἐλεῶνʼ (2.500) and Ἐλεῶνος (10.266); Strabo reports an ancient reading ἐξ Ἑλεῶνος, "from Heleon", at 10.266 (9.5.18) |
@@ -764,6 +764,55 @@ only to the Odyssey.
 | ἦ καί as a question (Od. 1.158, 1.389), disjunctive ἦ (1.175) | ἦ καί "he spoke, and" (so-he-spoke: `=ἦ καὶ`) | so-he-spoke's Odyssey Book 1 note `except: [1.158, 1.175, 1.389]`; later books will need the same |
 | περικλυτὸς ἀμφιγυήεις, Hephaestus' title | περικλυτός "renowned" (famous) | famous' Odyssey Book 1 note: `"!περικλυτὸς ἀμφιγυήεις"` |
 | γλαφυρός "hollow", of caves (hollow-caves) | of ships (hollow-ships) | hollow-caves claims only the phrases with σπέος |
+
+### Odyssey, Book 2
+
+The second book brought more namesakes of Iliad figures (an Antiphus, a Noemon, a Leiocritus, a Mentor, a Peisenor, a Mastor,
+and the heroine Mycene beside the city), names that are also common words, and common words in senses the earlier books do not
+use. Where an Iliad namesake links only an English name (mentor-father-of-imbrius, mastor, peisenor-father-of-ops, mycenae's
+alias "Mycene", ephyra-in-argos), the Odyssey entry's Greek match takes the line from it, and no except is needed.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Αἰγύπτιος, the Ithacan elder (Od. 2.15) | Αἰγύπτιος "Egyptian", of Proteus (Od. 4.385); Αἰγυπτίας (Il. 9.382) | aegyptius: the phrase `"ἥρως Αἰγύπτιος"`; egypt keeps Αἰγυπτίας |
+| Ἄντιφος, son of Aegyptius (Od. 2.19) | the Antiphus of Cos (Il. 2.678), of Maeonia (Il. 2.864), the son of Priam (Il. 4.489, 11.104); the old friend of Od. 17.68 | antiphus-son-of-aegyptius: `"Ἄντιφος αἰχμητής"`; antiphus, antiphus-of-maeonia, antiphus-son-of-priam `except: [Od. 2.19]` (Od. 17.68 to come) |
+| Εὐρύνομος, a suitor (Od. 2.22, 22.242) | Εὐρυνόμη (Il. 18.398; Od. 17.495 and later) | eurynomus: the exact form only |
+| Μέντωρ, Μέντορ, Μέντορι, Odysseus' companion (Od. 2.225 and often) | Mentor, father of Imbrius (Μέντορος, Il. 13.171), English alias "Mentor" | mentor: the exact forms; Μέντορα with Book 4 |
+| Λειώκριτος, son of Euenor (Od. 2.242; 22.294) | Leiocritus, son of Arisbas (Λειώκριτον, Il. 17.344) | leiocritus-son-of-euenor: Λειώκριτος, `Εὐηνορίδ*`; his Λειώκριτον (Od. 22.294) will need a Book 22 note |
+| Εὐηνορίδης (Od. 2.242, 22.294) | ἐυήνορα, εὐήνορα (Od. 4.622, 13.19); Εὔηνος (Il. 2.693) | euenor and leiocritus-son-of-euenor: `Εὐηνορίδ*` |
+| Πεισήνωρ, the herald (Od. 2.38) | Peisenor, father of Cleitus (Πεισήνορος, Il. 15.445); Peisenor, father of Ops (Πεισηνορίδαο, Od. 1.429, 2.347) | peisenor-the-herald: the exact form |
+| Μαστορίδης, Halitherses (Od. 2.158, 24.452) | Mastor, father of Lycophron (Μάστορος, Il. 15.430; Μαστορίδην, 15.438) | halitherses and mastor-father-of-halitherses: Μαστορίδης in their Odyssey notes; mastor-father-of-halitherses `except: [15.430, 15.438]` |
+| Νοήμων, son of Phronius (Νοήμονα, Od. 2.386) | Noemon the Lycian (Il. 5.678); Noemon, companion of Antilochus (Il. 23.612); νοήμονες "discerning" (Od. 2.282) | noemon-son-of-phronius: `"Φρονίοιο Νοήμονα"` (Book 4 will add `"Φρονίοιο Νοήμων"`); noemon-of-lycia `except: [Od. 2.386]`; phronius: Φρονίοιο |
+| Μυκήνη, the heroine (Od. 2.120) | Μυκήνη, the city (Il. 4.52) | mycene: the form in her Odyssey Book 2 note; mycenae keeps the city |
+| Τυρώ (Od. 2.120, 11.235) | τυρῷ "cheese" (Od. 20.69) | tyro: `^Τυρώ` |
+| Κύκλωψ, Polyphemus (Od. 2.19) | the race, Κύκλωπες | polyphemus-the-cyclops: the exact Κύκλωψ; cyclopes' `Κύκλωπ*` still takes Κύκλωπος (Od. 1.69) and Κύκλωπα (Od. 9.345), which are Polyphemus too: Book 9 will sort them |
+| Ἰθακήσιοι, the people (Od. 2.25, 2.161, 2.229) | Ἰθακήσιος "of Ithaca" (Il. 2.184; Od. 2.246) | ithacans: the plural, `en: [men of Ithaca]`; ithaca keeps the singular |
+| Ἀχαιϊάδες, Ἀχαιαί, Ἀχαιΐδες, the Achaean women (Od. 2.101, 2.119; Il. 5.422, 5.424, 9.395) | Ἀχαιΐς, the land (achaea); the insult “Achaean women, Achaean men no longer” (Il. 2.235, 7.96) | achaean-women, `except: [2.235, 7.96]` |
+| Θέμιστος (Od. 2.68) | Θεμιστοκλῆς (*Rhetoric* 1376a1) | themis-the-goddess: `^Θέμιστος`, with `^Θέμιστι`, `^Θέμι`, `^Θέμιστα` |
+| πολύφημος "of many voices" (Od. 2.150, 22.376) | Πολύφημος, the Cyclops (Od. 1.70) and the Lapith (Il. 1.264) | of-many-voices: `"πολύφημ*"`, `"!^Πολύφημ*"` |
+| ἄλλʼ ἐνόησε "thought of another thing" (Od. 2.382, 2.393; Il. 23.140, 23.193) | ἀλλʼ ἐνόησε "but noticed", the same letters | thought-of-another-thing: the phrase `"αὖτʼ ἄλλʼ ἐνόησε"` |
+| ἱερὴ ἲς Τηλεμάχοιο (Od. 2.409) | ἱερός "sacred" (hieros) | sacred-strength-of-telemachus claims the phrase; hieros does not |
+| ἦ καί "truly, even" (ἦ καὶ ἔπειτα, Od. 2.60) | ἦ καί "he spoke, and" | so-he-spoke's Book 2 note `except: [2.60]`, and `"=ἦ ῥα καὶ"` for 2.321 |
+| κοίλης, of the mast-box (Od. 2.424) | κοῖλος, of ships | hollow-ships' Book 2 note `except: [2.424]` |
+| μεσόδμης, the mast-box (Od. 2.424 = 15.289) | μεσόδμαι of the hall (Od. 19.37, 20.354) | mast-box: the genitive only |
+| κληΐς "rowing bench" (Od. 2.419; Il. 16.170) | key, bolt, collarbone; κληῗσιν "clasps" (Od. 18.294) | rowing-benches: the phrases `"ἐπὶ κληῖσι"`, `"ἐπὶ κληῖσιν"` (κληίδεσσιν, Od. 12.215, to add) |
+| πορφύρεον "surging", of the wave (Od. 2.428 = Il. 1.482) | πορφύρεος "purple" | purple `except: [21.326, 1.482, Od. 2.428]` |
+| ἤια "provisions" (Od. 2.289, 2.410) | ἤια "I went" (Od. 4.427 and later); ἤϊα "prey" (Il. 13.103) | provisions: the phrases `"ὅπλισσόν τʼ ἤια"`, `"ἤια φερώμεθα"` |
+| σπείρου "winding-sheet" (Od. 2.102) | σπεῖρον "sail", σπεῖρα | shroud: the exact form |
+| πίθοι "jars" (Od. 2.340; Il. 24.527) | forms of πείθω | storage-jar: the exact form |
+| ὑψόροφον θάλαμον, the storeroom (Od. 2.337) | Paris' bedchamber (Il. 3.423) | the-storeroom-of-odysseus: the phrase in its Odyssey note only |
+| αὐλῇ, the courtyard (Od. 2.300) | αὐλή of a steading (Od. 9.184, 14.5) | house: `"=αὐλῇ"` in its Book 2 note |
+| δόμον, the house (Od. 2.322) | δόμος, a lion's fold (Od. 6.134) | house: `"δόμον κάτα"` in its Book 2 note |
+| δμωαί (Od. 2.412, printed without the iota subscript) | δμῳαί elsewhere | handmaids: δμωαί in its Book 2 note |
+| μαῖα, Eurycleia (Od. 2.349, 2.372) | μαῖα, Penelope to Eurynome (Od. 17.499) | eurycleia: refs, not a form |
+| νέεσθαι (Od. 2.52), οἴκαδʼ (Od. 2.179) | νόστος "homecoming" | nostos' Book 2 note `except: [2.52, 2.179]` |
+| ἀγορεύω "speak", in the house (Od. 2.318) | ἀγορή "assembly" | assembly's Book 2 note `except: [2.318]` |
+| δόλων "of tricks" | Δόλων, the Trojan spy | dolos: the exact forms and `"!^Δόλων"` |
+| αἶγας "goats" (Od. 2.56, 2.300) | Αἰγάς (Od. 5.381) | goats: `"=αἶγας"` |
+| ὄις "sheep" (Od. 2.56) | οἷς | sheep: `"=ὄις"` (Murray's ὄϊς at Od. 17.180, 17.535, 20.250 to add) |
+| λεῖβον "poured libations" (Od. 2.432) | δάκρυα λεῖβον "shed tears" (Il. 13.88) | libation: the exact form in its Book 2 note |
+| μῆτις | μή τις, two words (Od. 9.405–410) | metis: the one-word pattern does not catch it |
+| γέροντες, the elders (Od. 2.14) | γέροντες "old men" (Od. 11.38) | elders: the phrase `"εἶξαν δὲ γέροντες"` |
 
 ## Aristotle's Poetics
 

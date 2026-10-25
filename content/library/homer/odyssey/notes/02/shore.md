@@ -1,0 +1,5 @@
+---
+summary: After the assembly Telemachus goes apart along the shore of the sea to pray (2.260), and at nightfall he and Athena find the companions waiting on the shore (2.408).
+---
+
+When the assembly breaks up, “Telemachus went apart along the shore of the sea” (2.260): ἀπάνευθε κιὼν ἐπὶ θῖνα θαλάσσης, the half-verse in which Odysseus, made handsome by Athena, goes apart and sits on the shore of the Phaeacians (6.236). In the first book of the Iliad Chryses, “when he had gone far off” (ἀπάνευθε κιών) along the shore, prayed to Apollo, and Achilles sat apart on the shore of the gray sea and prayed to his mother (*Iliad* 1.34–36, 1.348–351). Telemachus prays there too, and the god comes to him (2.261–268; see [[prayer]] and [[athena]]). The shore is also where the voyage begins: when Athena has called him out of the house, “they found on the shore their long-haired companions” (2.408; see [[ithacans]], [[harbor]] and [[sailing-type-scene]]). The next book opens on another shore, where the people of Pylos are sacrificing to Poseidon as the ship comes in (3.4–8).

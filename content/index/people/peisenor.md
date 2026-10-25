@@ -16,4 +16,4 @@ relations:
 
 Κλεῖτον Πεισήνορος ἀγλαὸν υἱὸν, “Cleitus, the splendid son of Peisenor” (15.445): the father is named only to name the son, whom Teucer shoots as he drives Polydamas' chariot (see [[cleitus]], [[teucer]] and [[polydamas]]). The name is formed from πείθω, “persuade”, and ἀνήρ, “man”.
 
-The Odyssey has two more men of the name: the herald Peisenor of Ithaca, “knowing wise counsels”, who puts the staff into Telemachus' hand in the assembly (*Odyssey* 2.37–38), and [[peisenor-father-of-ops|the father of Ops]], the grandfather of [[eurycleia|Eurycleia]], who is called Ὦπος θυγάτηρ Πεισηνορίδαο, “daughter of Ops, son of Peisenor” (*Odyssey* 1.429).
+The Odyssey has two more men of the name: [[peisenor-the-herald|the herald Peisenor]] of Ithaca, “who knew wise counsels”, who puts the scepter into Telemachus' hand in the assembly (*Odyssey* 2.37–38), and [[peisenor-father-of-ops|the father of Ops]], the grandfather of [[eurycleia|Eurycleia]], who is called Ὦπος θυγάτηρ Πεισηνορίδαο, “daughter of Ops, son of Peisenor” (*Odyssey* 1.429).

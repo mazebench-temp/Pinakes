@@ -24,7 +24,7 @@ The two senses, the gain and the craft that wins it, meet in Odysseus. When he t
 - [[metis|μῆτις]] (“cunning”), with which κέρδεα are paired (*Odyssey* 13.299).
 - [[noos|νόος]] (“understanding”): one “sees” (νοέω) the advantage (10.224–225).
 - [[boule|βουλή]] (“counsel”).
-- δόλος (“trick”) and [[apate|ἀπάτη]] (“deceit”).
+- [[dolos|δόλος]] (“trick”) and [[apate|ἀπάτη]] (“deceit”).
 - νηκερδής, “profitless”: “which of the gods has put a profitless plan / in your breast” (17.469–470; also *Odyssey* 14.509).
 
 ## Outside Homer

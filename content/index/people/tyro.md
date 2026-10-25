@@ -5,6 +5,9 @@ kind: person
 tags: [aeolids, mother, woman]
 summary: Daughter of Salmoneus, loved by Poseidon in the form of the river Enipeus; she bore the twins Pelias and Neleus, exposed them, and recognized them later by the little boat in which she had set them out.
 aliases: [Tyrō]
+# Capitalized only: τυρῷ "cheese" (Od. 20.69) has the same letters. Τυρώ (Od. 2.120; Τυρὼ, 11.235); the play is
+# Τυροῖ at Poetics 1454b25 (tyro-play), which the form does not catch.
+grc: ["^Τυρώ"]
 refs: [Poetics 1454b25]
 relations:
   - child: neleus

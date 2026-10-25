@@ -3,7 +3,7 @@ title: Clear-voiced
 greek: λιγύφθογγος
 kind: epithet
 tags: [heroic-epithet, herald, speech]
-summary: “With a clear, carrying voice,” the epithet of [[heralds]], whose office is to be heard across the camp.
+summary: “With a clear, carrying voice,” the epithet of [[heralds]], whose office is to be heard by a whole army or people.
 aliases: [clear-voiced heralds, ligyphthongos]
 grc: [λιγυφθόγγοισι]
 en: [clear-voiced]

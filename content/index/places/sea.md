@@ -5,7 +5,8 @@ kind: place
 tags: [sea]
 summary: The sea (θάλασσα, ἅλς, πόντος), loud-roaring, barren and gray. In the Iliad it lies beside the Achaean camp and between the army and home; in the Odyssey it is the scene of Odysseus' wanderings and the road of every homecoming.
 aliases: [sea, deep]
-grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον]
+# ἅλαδ* is ἅλαδʼ, ἅλαδε, "to the sea" (Od. 2.389; Il. 9.683, 14.97, of dragging ships down; later Od. 10.351).
+grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον, "ἅλαδ*"]
 en: [sea, deep]
 except: [Rhetoric 1400a12, Rhetoric 1400a13]
 ---

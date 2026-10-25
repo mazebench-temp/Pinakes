@@ -1,0 +1,6 @@
+---
+summary: Telemachus “sat in his father's seat, and the elders made way” (2.14): the γέροντες of Ithaca, in their seats in the place of assembly. Three old men speak in the debate, Aegyptius, Halitherses and Mentor.
+grc: ["εἶξαν δὲ γέροντες"]
+---
+
+Merry explains that in the place of assembly the γέροντες sit on seats of stone, as the elders on the Shield of Achilles sit “on polished stones in the sacred circle” (*Iliad* 18.504) and the Phaeacians in their assembly (8.6), and that Telemachus, as the son of the king, takes his father's seat while the elders make way for him (*Commentary on the Odyssey*, 1886, on 2.14; see the translation's note on 2.14). On 2.7 he defines them as the recognized heads of the noblest families, whether aged or not, who form the council apart from the people (see [[boule]] and [[assembly]]). The elders who rise in this assembly are old in years as well: the hero Aegyptius, “bent with age” (2.15–16), Halitherses, “the old hero” (2.157), and Mentor, the old man to whom Odysseus entrusted his house (2.225–227; see [[geron]], [[aegyptius]], [[halitherses]] and [[mentor]]). When Telemachus next comes to the place of assembly, he sits where Mentor, Antiphus and Halitherses sit, his father's companions from of old (17.67–70; see [[hetairos]]).

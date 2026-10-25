@@ -3,7 +3,7 @@ title: Eagle
 greek: αἰετός
 kind: animal
 tags: [bird, divination, wild-animal]
-summary: The eagle, αἰετός, the bird of Zeus. It is the surest of omen birds, sent by Zeus to the Achaeans in *Iliad* 8 and to Priam in Book 24, and in the similes it is the high-flying hunter that swoops on hares, lambs and flocks of birds.
+summary: The eagle, αἰετός, the bird of Zeus. In both poems it is the surest of omen birds, the sign that Zeus sends and men read, and in the similes it is the high-flying hunter that swoops on hares, lambs and flocks of birds.
 aliases: [eagles, aietos, the eagle of Zeus]
 grc: [αἰετ*]
 en: [eagle]
@@ -19,7 +19,7 @@ en: [eagle]
 
 ## Elsewhere in Homer
 
-The Odyssey has four eagles of omen, all of them read. Zeus sends two eagles from a mountain peak over the assembly of Ithaca; they wheel over the crowd, tear each other's cheeks and necks, and fly away to the right, and the old seer Halitherses foretells the return of Odysseus (*Odyssey* 2.146–176). As Telemachus leaves Sparta an eagle flies by on the right with a tame white goose in its talons, and Helen reads it as Odysseus coming home to take revenge (15.160–178). In Penelope's dream an eagle from the mountain breaks the necks of her twenty geese and then speaks to her: the geese are the suitors, and he is her husband (19.535–553). An eagle on the left with a dove in its talons turns the suitors from their plot to kill Telemachus (20.240–246). When Odysseus swoops on the suitors' kinsmen at the end, he does so like a high-flying eagle, in the line of Hector's last charge (*Odyssey* 24.538 = *Iliad* 22.308).
+The Odyssey has four eagle omens, all of them read. The first is the pair that Zeus sends over the assembly of the Ithacans, which the old bird-reader Halitherses reads as the return of Odysseus (*Odyssey* 2.146–176; see [[the-omen-of-the-eagles]] and [[halitherses]]). As Telemachus leaves Sparta an eagle flies by on the right with a tame white goose in its talons, and Helen reads it as Odysseus coming home to take revenge (*Odyssey* 15.160–178). In Penelope's dream an eagle from the mountain breaks the necks of her twenty geese and then speaks to her: the geese are the suitors, and he is her husband (*Odyssey* 19.535–553). An eagle on the left with a dove in its talons turns the suitors from their plot to kill Telemachus (*Odyssey* 20.240–246). When Odysseus swoops on the suitors' kinsmen at the end, he does so like a high-flying eagle, in the line of Hector's last charge (*Odyssey* 24.538 = *Iliad* 22.308).
 
 ## Outside Homer
 

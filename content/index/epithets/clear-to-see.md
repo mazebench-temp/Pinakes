@@ -11,7 +11,7 @@ en: [clear]
 
 ## Meaning
 
-δέελος is an epic form of δῆλος (“clear, plain to see”). Homer uses it only once, at 10.466. The compound εὐδείελος, the Odyssey's epithet of Ithaca, is usually taken from the same root, “clear-seen, conspicuous” (Od. 2.167, 9.21, 13.234). The mark is a σῆμα, the word for a sign of any kind, which elsewhere in the book is the mound of Ilus (10.415; [[the-tomb-of-ilus]]).
+δέελος is an epic form of δῆλος (“clear, plain to see”). Homer uses it only once, at 10.466. The compound εὐδείελος, the Odyssey's epithet of Ithaca, is usually taken from the same root, “clear-seen, conspicuous”, of Ithaca (*Odyssey* 2.167, 9.21, 13.212, 19.132) and once of islands in general (*Odyssey* 13.234; see [[clear-seen]]). The mark is a σῆμα, the word for a sign of any kind, which elsewhere in the book is the mound of Ilus (10.415; [[the-tomb-of-ilus]]).
 
 ## Use
 

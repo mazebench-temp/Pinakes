@@ -1,0 +1,6 @@
+---
+summary: The suitors' rivalry, which Apion's game turns into a contest of pebbles, is spoken of in this book by Eurymachus, the game's champion in Apion's story, “we, waiting every day, / strive for the sake of her excellence”.
+refs: [2.205-206]
+---
+
+In Apion's game the suitors compete for the pebble they called Penelope, and the winner had great hopes of marrying her (see the entry above). In this book the contest is in the speeches. Antinous complains that she “gives hope to all, and makes promises to each man, / sending out messages” (2.91–92), and Eurymachus, who in Apion's story had won the game most often, tells the assembly that the suitors will not cease from their grievous wooing until she marries: “and we, waiting every day, / strive for the sake of her excellence, and do not go after other women” (2.198–207; see [[eurymachus]] and [[arete]]). His verb, ἐριδαίνομεν, “strive, compete”, belongs with ἔρις, “strife”, and the phrase may also be taken of a contest of merit among the suitors themselves; either way it is the rivalry that Apion's pebbles play out. The game is played in the house the players are eating up: when Telemachus comes home from the shore, the suitors are “flaying goats and singeing fat hogs in the courtyard” (2.300; see [[the-suitors]] and [[game-pieces]]).

@@ -14,7 +14,7 @@ of: [eagle]
 
 τελειότατος is the superlative of τέλειος, from τέλος (“end, fulfillment”). Homer uses τέλειος of victims that are full-grown and without blemish (αἰγῶν τελείων, 1.66, 24.34), and the eagle may be “the most perfect” of birds; but a bird sent by Zeus is valued for the fulfillment of its sign, and the translation renders the phrase “surest in omen.” πετεηνά, “winged ones,” is formed from the root of πέτομαι (“fly”). The eagle is Zeus' bird ([[eagle]], [[birds]], [[teras]], [[divination]]).
 
-The verse αὐτίκα δʼ αἰετὸν ἧκε τελειότατον πετεηνῶν, “At once he sent an eagle, surest in omen of winged birds,” occurs twice, each time as Zeus' answer to a prayer for a sign. In *Iliad* 8 it answers Agamemnon. In Book 24 Priam, about to go to Achilles, asks Zeus for a bird on the right, “his own swift messenger, the dearest of birds to him and greatest in strength,” and Zeus sends the eagle, the dark hunter (24.308–321).
+The verse αὐτίκα δʼ αἰετὸν ἧκε τελειότατον πετεηνῶν, “At once he sent an eagle, surest in omen of winged birds,” occurs twice, each time as Zeus' answer to a prayer for a sign. In *Iliad* 8 it answers Agamemnon. In Book 24 Priam, about to go to Achilles, asks Zeus for a bird on the right, “his own swift messenger, the dearest of birds to him and greatest in strength,” and Zeus sends the eagle, the dark hunter (24.308–321). The Odyssey does not use the verse. Its first eagles of omen come as a pair, sent in answer to Telemachus' call on the gods for requital: “far-seeing Zeus sent two eagles / flying from on high, from the peak of a mountain” (*Odyssey* 2.143–147; see [[the-omen-of-the-eagles]]).
 
 ## Use
 

@@ -3,7 +3,7 @@ title: Elders
 greek: γέροντες
 kind: people
 tags: [achaean, elder, king, assembly]
-summary: The γέροντες, the senior kings whom [[Agamemnon]] calls to council and to his table. The word means “old men”, but it marks rank rather than age: the young [[Diomedes]] is one of them.
+summary: The γέροντες, the senior men who sit in a people's council: at Troy the senior kings whom [[Agamemnon]] calls to council and to his table, in the Odyssey the elders of Ithaca and of the Phaeacians. The word means “old men”, but it marks rank rather than age: the young [[Diomedes]] is one of them.
 aliases: [the elders, council of elders, gerontes]
 grc: [γερόντων, γέροντας]
 # γερόντων at 4.323 and γέροντας at 8.518 (the old men on the walls) are old men in general, not the council.
@@ -32,7 +32,7 @@ The council meets before the assembly and apart from it, beside Nestor's ship. T
 
 ## Elsewhere in Homer
 
-The elders drink the “elders' wine” (γερούσιος οἶνος) at the kings' feasts (4.259–260), and Agamemnon feasts them in his hut before the embassy to Achilles (9.89–90). Troy has its elders too. They sit in Priam's assembly with the young men (2.789), and the old men of the city, too old for war but fine speakers, sit on the tower by the Scaean gates (3.146–153). On the Shield of Achilles the elders of a city sit in a sacred circle on polished stones and give judgment, holding heralds' scepters (18.503–505).
+The elders drink the “elders' wine” (γερούσιος οἶνος) at the kings' feasts (4.259–260), and Agamemnon feasts them in his hut before the embassy to Achilles (9.89–90). Troy has its elders too. They sit in Priam's assembly with the young men (2.789), and the old men of the city, too old for war but fine speakers, sit on the tower by the Scaean gates (3.146–153). On the Shield of Achilles the elders of a city sit in a sacred circle on polished stones and give judgment, holding heralds' scepters (18.503–505). In the Odyssey the elders of Ithaca make way for Telemachus in the assembly when he takes his father's seat (*Odyssey* 2.14), Alcinous calls more of the Phaeacian elders to entertain the stranger (*Odyssey* 7.189), and the young Odysseus was sent to Messene on the people's business by his father and the other elders (*Odyssey* 21.16–21).
 
 ## Outside Homer
 

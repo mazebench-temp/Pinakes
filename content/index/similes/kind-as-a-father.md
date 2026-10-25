@@ -3,7 +3,7 @@ title: Kind as a father
 greek: ἑκυρὸς δὲ πατὴρ ὣς ἤπιος αἰεί
 kind: simile
 tags: [kinship, kingship]
-summary: Lamenting Hector, Helen says that when anyone else in the house rebuked her, Hector held them back, and that Priam, her father-in-law, “was always kind, like a father” (24.768–772). The Odyssey uses the comparison for Odysseus as king of Ithaca and for Nestor.
+summary: “Kind, like a father,” πατὴρ ὣς ἤπιος, a comparison for one who rules or protects as a father would: in the Iliad Helen's words for Priam in her lament for Hector, in the Odyssey the half-verse for Odysseus as king of Ithaca and for Nestor.
 aliases: [like a father, kindly as a father, Priam's kindness to Helen, gentle as a father]
 grc: ["πατὴρ ὣς ἤπιος"]
 en:
@@ -29,6 +29,6 @@ Helen's lament is the third and last over Hector's body, after Andromache's and 
 
 ## Elsewhere in Homer
 
-πατὴρ ὣς ἤπιος ἦεν, “he was kind as a father”, ends four verses of the Odyssey, and three times it is said of Odysseus as king. Telemachus tells the assembly of Ithaca that he has lost his good father, who once ruled over them and was kind as a father (*Odyssey* 2.46–47). Mentor in the same assembly, and Athena among the gods, say that no sceptered king should be ready to be ἀγανὸς καὶ ἤπιος, “gentle and kind”, any more, since none of the people he ruled remembers Odysseus, who was kind as a father (*Odyssey* 2.230–234 = 5.8–12). The fourth time Menelaus says it of Nestor: “for he was kind to me as a father, while we sons of the Achaeans fought at Troy” (*Odyssey* 15.151–153). The pair ἀγανός and ἤπιος are the two words of Helen's praise, the gentleness of Hector and the kindness of Priam.
+πατὴρ ὣς ἤπιος ἦεν, “he was kind as a father”, ends four verses of the Odyssey, and three times it is said of Odysseus as king. Telemachus tells the assembly of Ithaca that he has lost his brave father, who was once king among them and was kind, like a father (*Odyssey* 2.46–47). Mentor in the same assembly, and Athena among the gods, say that no scepter-bearing king should be ready to be ἀγανὸς καὶ ἤπιος, “gentle and kind”, any more, since none of the people he ruled remembers Odysseus, who was kind, like a father (*Odyssey* 2.230–234 = 5.8–12). The fourth time Menelaus says it of Nestor: “for he was kind to me as a father, while we sons of the Achaeans fought at Troy” (*Odyssey* 15.151–153). The pair ἀγανός and ἤπιος are the two words of Helen's praise, the gentleness of Hector and the kindness of Priam.
 
 In the Iliad the old king is a father to others too in the last book. Hermes, in the likeness of a young Myrmidon, tells Priam, “you look to me like my dear father” (24.371), and Priam begs Achilles to remember his own father, who is of his age (24.486–487; see [[peleus]]).

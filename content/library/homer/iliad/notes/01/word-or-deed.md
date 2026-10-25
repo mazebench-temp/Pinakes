@@ -1,3 +1,7 @@
+---
+summary: Calchas asks Achilles to protect him “with words and with your hands”, Achilles asks Thetis whether she ever helped Zeus “by word or deed”, and Thetis uses the same phrase to Zeus.
+---
+
 {{quote:be8e0e4b-cf4a-596b-8d22-d5c00b909155}}
 
 Calchas asks Achilles to protect him "with words and with your hands".

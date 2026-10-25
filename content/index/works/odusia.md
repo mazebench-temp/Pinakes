@@ -10,7 +10,7 @@ aliases: [the Latin Odyssey, Odyssia, Odyssia Latina, Odussia, Livius Andronicus
 
 Livius Andronicus put the Odyssey into Latin verse. Cicero says that he was the first to produce a play at Rome, and dates it to the consulship of Gaius Claudius, son of Caecus, and Marcus Tuditanus, “in the very year before Ennius was born”, the five hundred and fourteenth year of the city, that is, 240 BCE; he rejects as a great error the dating of the poet Accius, who made Livius a captive taken at Tarentum by Quintus Maximus thirty years later (*Brutus* 72–73). Aulus Gellius saw a copy of the translation under its Greek title, Ὀδύσσεια (*Attic Nights* 18.9.5), and Cicero calls it the *Odyssia Latina*, “the Latin Odyssey” (*Brutus* 71).
 
-The poem is lost. Its surviving lines, a verse or a phrase at a time, are collected on The Latin Library under the title *Odusia* and arranged by the lines of Homer they render, from Book 1 to Book 24. Eight of them render lines of Book 1, the first line of the poem among them.
+The poem is lost. Its surviving lines, a verse or a phrase at a time, are collected on The Latin Library under the title *Odusia* and arranged by the lines of Homer they render, from the first book of the Odyssey to the last. Eight of them render lines of *Odyssey* 1, the first line of the poem among them, and three render lines of *Odyssey* 2. Gellius quotes two: the first line, from the old copy he found at Patrae, and a verse on the day foretold by Morta, which he read in the *Ancient Readings* of Caesellius Vindex (*Attic Nights* 18.9.5, 3.16.11).
 
 ## The first line
 

@@ -1,0 +1,285 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 14,
+      "title": "Telemachus Calls the Assembly",
+      "summary": "At dawn Telemachus dresses, has the heralds summon the Achaeans, and goes to the assembly with a spear and two swift dogs; Athena pours grace upon him, and he sits in his father's seat while the elders make way."
+    },
+    {
+      "from": 15,
+      "to": 39,
+      "title": "Aegyptius' Question",
+      "summary": "The old hero Aegyptius, whose son Antiphus the Cyclops ate, opens the first assembly held since Odysseus sailed and asks who has called it, and why. Telemachus rises, and the herald Peisenor puts the scepter in his hand."
+    },
+    {
+      "from": 40,
+      "to": 84,
+      "title": "Telemachus' Appeal",
+      "summary": "Telemachus tells of his twofold evil, his father lost and his house devoured by his mother's suitors, and calls on the Ithacans to restrain them; then he flings down the scepter in tears, and only Antinous dares to answer."
+    },
+    {
+      "from": 85,
+      "to": 128,
+      "title": "Antinous Blames Penelope",
+      "summary": "Antinous lays the blame on Penelope, who has cheated the suitors for three years with promises and with the trick of the web, a shroud for Laertes woven by day and unraveled by night; Telemachus must send her back to her father to marry."
+    },
+    {
+      "from": 129,
+      "to": 145,
+      "title": "Telemachus' Refusal",
+      "summary": "Telemachus will not drive out the mother who bore him, fearing her father, her Erinyes and the blame of men, and calls on Zeus to bring the suitors to ruin in his house."
+    },
+    {
+      "from": 146,
+      "to": 176,
+      "title": "The Eagles and Halitherses' Prophecy",
+      "summary": "Zeus sends two eagles that wheel over the assembly and tear at each other before darting off to the right. The old bird-reader Halitherses declares that Odysseus is near and planting slaughter for the suitors, as he foretold when the Argives sailed for Ilios."
+    },
+    {
+      "from": 177,
+      "to": 207,
+      "title": "Eurymachus' Threats",
+      "summary": "Eurymachus mocks the old man's birds, threatens him with a fine, and tells Telemachus to send his mother back to her father; the suitors fear no one and will go on wooing."
+    },
+    {
+      "from": 208,
+      "to": 223,
+      "title": "Telemachus Asks for a Ship",
+      "summary": "Telemachus asks for a swift ship and twenty companions to go to Sparta and Pylos for news of his father: if Odysseus lives, he will endure another year; if he is dead, he will build his tomb and give his mother to a husband."
+    },
+    {
+      "from": 224,
+      "to": 259,
+      "title": "Mentor and Leiocritus",
+      "summary": "Mentor, to whom Odysseus entrusted his house, rebukes the silent people for not restraining the suitors; Leiocritus, son of Euenor, answers insolently and dissolves the assembly, and the suitors go back to the house of Odysseus."
+    },
+    {
+      "from": 260,
+      "to": 297,
+      "title": "Athena in the Likeness of Mentor",
+      "summary": "Telemachus prays to Athena on the shore; she comes to him in the likeness of Mentor, tells him that he is his father's son, foretells the suitors' doom, and promises a ship and a crew if he makes ready the provisions."
+    },
+    {
+      "from": 298,
+      "to": 336,
+      "title": "The Suitors Mock Telemachus",
+      "summary": "Antinous invites Telemachus to feast as before; Telemachus refuses and vows to bring the fates upon them, and the young men jeer that he will fetch helpers from Pylos or Sparta, or poison from Ephyra, or perish at sea like his father."
+    },
+    {
+      "from": 337,
+      "to": 381,
+      "title": "Eurycleia and the Provisions",
+      "summary": "Telemachus goes down to his father's storeroom and has Eurycleia, the old nurse who keeps it, fill jars of wine and bags of barley meal; she laments his going, and he makes her swear not to tell his mother."
+    },
+    {
+      "from": 382,
+      "to": 404,
+      "title": "Athena Gathers the Crew",
+      "summary": "In the likeness of Telemachus, Athena gathers a crew and borrows a ship from Noemon; at nightfall she launches it, pours sleep on the suitors, and in the likeness of Mentor calls Telemachus out."
+    },
+    {
+      "from": 405,
+      "to": 434,
+      "title": "The Departure",
+      "summary": "Telemachus brings the provisions to the ship and sails with Athena beside him in the stern; she sends a following west wind, and they raise the mast, pour libations, and run all night over the sea."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 25,
+      "to": 34,
+      "speaker": "aegyptius",
+      "to_whom": [
+        "ithacans"
+      ],
+      "kind": "questions"
+    },
+    {
+      "from": 40,
+      "to": 79,
+      "speaker": "telemachus",
+      "to_whom": [
+        "aegyptius",
+        "ithacans"
+      ],
+      "kind": "appeal"
+    },
+    {
+      "from": 85,
+      "to": 128,
+      "speaker": "antinous",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "retort"
+    },
+    {
+      "from": 130,
+      "to": 145,
+      "speaker": "telemachus",
+      "to_whom": [
+        "antinous",
+        "the-suitors"
+      ],
+      "kind": "refusal"
+    },
+    {
+      "from": 161,
+      "to": 176,
+      "speaker": "halitherses",
+      "to_whom": [
+        "ithacans",
+        "the-suitors"
+      ],
+      "kind": "prophecy"
+    },
+    {
+      "from": 178,
+      "to": 207,
+      "speaker": "eurymachus",
+      "to_whom": [
+        "halitherses",
+        "telemachus"
+      ],
+      "kind": "threat"
+    },
+    {
+      "from": 209,
+      "to": 223,
+      "speaker": "telemachus",
+      "to_whom": [
+        "eurymachus",
+        "the-suitors"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 229,
+      "to": 241,
+      "speaker": "mentor",
+      "to_whom": [
+        "ithacans"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 243,
+      "to": 256,
+      "speaker": "leiocritus-son-of-euenor",
+      "to_whom": [
+        "mentor",
+        "ithacans"
+      ],
+      "kind": "retort"
+    },
+    {
+      "from": 262,
+      "to": 266,
+      "speaker": "telemachus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 270,
+      "to": 295,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 303,
+      "to": 308,
+      "speaker": "antinous",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "mockery"
+    },
+    {
+      "from": 310,
+      "to": 320,
+      "speaker": "telemachus",
+      "to_whom": [
+        "antinous",
+        "the-suitors"
+      ],
+      "kind": "threat"
+    },
+    {
+      "from": 325,
+      "to": 330,
+      "speaker": "the-suitors",
+      "to_whom": [
+        "the-suitors"
+      ],
+      "kind": "mockery"
+    },
+    {
+      "from": 332,
+      "to": 336,
+      "speaker": "the-suitors",
+      "to_whom": [
+        "the-suitors"
+      ],
+      "kind": "mockery"
+    },
+    {
+      "from": 349,
+      "to": 360,
+      "speaker": "telemachus",
+      "to_whom": [
+        "eurycleia"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 363,
+      "to": 370,
+      "speaker": "eurycleia",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "lament"
+    },
+    {
+      "from": 372,
+      "to": 376,
+      "speaker": "telemachus",
+      "to_whom": [
+        "eurycleia"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 402,
+      "to": 404,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 410,
+      "to": 412,
+      "speaker": "telemachus",
+      "to_whom": [
+        "ithacans"
+      ],
+      "kind": "command"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 434,
+      "label": "Day 2",
+      "note": "The assembly in Ithaca, Telemachus' preparations, and the night voyage toward Pylos (2.1–434)."
+    }
+  ]
+}

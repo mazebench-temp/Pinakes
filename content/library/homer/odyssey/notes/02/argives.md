@@ -1,0 +1,5 @@
+---
+summary: Halitherses recalls the prophecy he made “when they were embarking for Ilios, / the Argives, and among them went Odysseus of many wiles” (2.172–173).
+---
+
+The name comes once in the book, for the army setting out for Troy at the start of the war. Halitherses' prophecy is fulfilled, he says, “as I told him, when they were embarking for Ilios, / the Argives, and among them went Odysseus of many wiles” (2.172–173; see [[troy]], [[halitherses]] and [[of-many-wiles]]). As in Book 1, where the best of the Argives went to Troy in their hollow ships (1.210–211), the Argives are the expedition, while at home the same men and their sons are Achaeans (see [[achaeans]]). Penelope dates her own loss by the same departure, in the same words: the immortals destroyed her excellence, her beauty and her form “when the Argives embarked for Ilios, and with them went my husband Odysseus” (18.251–253, 19.124–126, a plain rendering). On εἰσανέβαινον, “were embarking”, see the translation's note on 2.172.

@@ -3,7 +3,7 @@ title: Ordinances
 greek: θέμις
 kind: term
 tags: [justice, kingship]
-summary: θέμις is what is laid down as right; its plural θέμιστες are the ordinances that come from [[Zeus]] and are kept by kings and judges. Themis is also a goddess, who calls the gods to assembly.
+summary: θέμις is what is laid down as right; its plural θέμιστες are the ordinances that come from [[Zeus]] and are kept by kings and judges. Themis is also a goddess, who calls the gods to assembly and dissolves and seats the assemblies of men.
 aliases: [themis, themistes, right, custom, judgment, dikaspoloi, judges, dike, dikē, dikazō]
 grc: [θέμιστας, δικασπόλοι, δικαζέμεν]
 en: [give judgment, ordinances, decide]
@@ -23,7 +23,7 @@ A king who judges crookedly offends Zeus. In a simile of *Iliad* 16, Zeus pours 
 
 The δικασπόλοι of 1.238 are the men who give such judgments. The word is formed from δίκαι, “judgments”, and πολέω, “go about, busy oneself with”. The verb δικάζω means “judge, decide”.
 
-Themis is also a goddess. At Zeus' command she calls the gods to assembly (20.4–5), and in the *Odyssey* she dismisses and seats the assemblies of men (2.68–69). The link with the assembly matters in *Iliad* 1: Achilles' oath is sworn in one.
+Themis is also a goddess. At Zeus' command she calls the gods to assembly (20.4–5), and she dissolves and seats the assemblies of men (*Odyssey* 2.68–69). The link with the assembly matters in *Iliad* 1: Achilles' oath is sworn in one.
 
 {{notes}}
 

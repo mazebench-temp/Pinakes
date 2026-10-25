@@ -60,6 +60,38 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | πύκα ποιητός | strongly made | of the hall and the chamber (1.333, 1.436), as *Iliad* 18.608 |
 | βουλεύω / μερμηρίζω | plan / ponder | βούλευε "he planned" (1.444); μερμηρίζων "pondering" (1.427), as in the Iliad |
 | ἐεικοσάβοιος | the worth of twenty oxen | (1.431: see the note), as ἑκατόμβοιʼ ἐννεαβοίων "the worth of a hundred oxen for the worth of nine" (*Iliad* 6.236) |
+| θῶκος, θόωκος | seat; session | ἐν πατρὸς θώκῳ "in his father's seat" (2.14); ἀγορὴ … οὔτε θόωκος "an assembly … or a session" (2.26: see the note on 2.7) |
+| Ἰθακήσιοι | men of Ithaca | the address of every speaker in the assembly (2.25, 2.161, 2.229); Ἰθακήσιος "of Ithaca" (2.246), as *Iliad* 2.184 |
+| ἀγγελίη | news; messages | "news" (2.30, 2.42, 2.255), as 1.408; the plural "messages" (2.92), as *Iliad* 15.640 |
+| χρεῖος / χρειώ | business / need | ἐμὸν αὐτοῦ χρεῖος "a business of my own" (2.45), as 1.409; χρειώ "need" (2.28) |
+| ὀνήμενος / φήμη | may he prosper! / word of omen | (2.33; 2.35) |
+| καθάπτομαι | approach … with words | (2.39, 2.240), as *Iliad* 1.582, 15.127, 16.421 |
+| ἤπιος | kind | πατὴρ δʼ ὣς ἤπιος ἦεν "and he was kind, like a father" (2.47, 2.234), as *Iliad* 24.770 |
+| ἐεδνόομαι | settle the bride-price | of the bride's father (2.53), as ἔεδνα "bride-price" (1.277) |
+| μαψιδίως | wantonly | (2.58); "reckless" is kept for ἀτάσθαλος and ἀτασθαλίαι |
+| ἄσχετος | uncontrollable | μένος ἄσχετε "uncontrollable in your fury" (2.85, 2.303), as ἄσχετον (*Iliad* 16.549) and μένος … ἀάσχετον (5.892) |
+| ἱστός | loom; web; mast | "loom" where it is set up (2.94), "web" where it is woven and unraveled (2.104, 2.109), as μέγαν ἱστὸν ὕφαινε "She was weaving a great web" (*Iliad* 3.125); "mast" (2.424) |
+| φᾶρος / ταφήιον / σπεῖρον | mantle / shroud / winding-sheet | (2.97, 2.99, 2.102); φᾶρος as *Iliad* 24.588 |
+| ποθή | longing | (2.126), as in the Iliad |
+| ἐναίσιμος | of fate; rightly | ἐναίσιμα μυθήσασθαι "speaking words of fate" (2.159), οὐδέ τε πάντες ἐναίσιμοι "not all of them are birds of fate" (2.182); ἐναίσιμον "rightly" (2.122) |
+| ἐυδείελος | clear-seen | of Ithaca (2.167: see the note) |
+| θωή / μνηστύς | fine / wooing | (2.192, as *Iliad* 13.669; 2.199) |
+| θεοπροπίη | oracle | (2.201), as 1.415 |
+| ἀρετή | excellence | of Penelope (2.206); the Iliad's "prowess" is a warrior's |
+| ὀπυίω | marry | (2.207, 2.336), as *Iliad* 13.379 |
+| κακορραφίη | mischief | (2.236), as *Iliad* 15.16 |
+| νοήμων / ἀνοήμων / ἀφραδής | discerning / fool / senseless | (2.282; 2.270, 2.278; 2.282): "prudent" is kept for περίφρων, "sensible" for ἐχέφρων |
+| ἤια | provisions | (2.289, 2.410) |
+| ἀμφιφορεύς / πίθος | two-handled jar / jar | (2.290, 2.349, 2.379, as *Iliad* 23.170; 2.340) |
+| δοροί | leather bags | ἐϋρραφέεσσι δοροῖσι "well-sewn leather bags" (2.354, 2.380) |
+| ἠγάθεος | sacred | Πύλον ἠγαθέην "sacred Pylos" (2.308), as *Iliad* 1.252; "holy" is ζάθεος |
+| ἔμπορος | passenger | (2.319): one who sails on another man's ship (compare 24.300–301) |
+| μαῖα / τροφός | nurse | Eurycleia (2.349, 2.372 / 2.361) |
+| κάμμορος | ill-fated | (2.351), as δύσμορος (1.49) |
+| φαίδιμος | shining | φαίδιμον υἱόν "the shining son" (2.386), as in the Iliad |
+| δμῳαί | slave women | (2.412), as in the Iliad and 1.147 |
+| ἀκραής, κελάδων | fresh, sounding | ἀκραῆ Ζέφυρον, κελάδοντʼ "a fresh West Wind, sounding" (2.421); κελάδων as *Iliad* 18.576 |
+| μεσόδμη | mast-box | (2.424) |
 
 ## Epithets and formulas of the Odyssey
 
@@ -82,6 +114,22 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | τὸν δʼ αὖτʼ Εὐρύμαχος Πολύβου πάϊς ἀντίον ηὔδα | Then Eurymachus, son of Polybus, answered him face to face (1.399) |
 | μέλας ἐπὶ ἕσπερος ἦλθε | black evening came on (1.423) |
 | περισκέπτῳ ἐνὶ χώρῳ | in a place with a view all round (1.426) |
+| Ὀδυσσῆος φίλος υἱός | the dear son of Odysseus (2.2, 2.35, 2.415) |
+| θεῷ ἐναλίγκιος ἄντην | like a god to look upon (2.5) |
+| θεσπεσίην δʼ ἄρα τῷ γε χάριν κατέχευεν Ἀθήνη | And Athena poured a wondrous grace upon him (2.12), with "and all the people gazed at him as he came" (2.13) |
+| κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω | Hear me now, men of Ithaca, in what I say (2.25, 2.161, 2.229) |
+| ἦέ τι δήμιον ἄλλο πιφαύσκεται ἠδʼ ἀγορεύει | Or is it some other public matter that he declares and speaks of? (2.32; with οὔτε … οὐδʼ, 2.44) |
+| Τηλέμαχʼ ὑψαγόρη, μένος ἄσχετε | Telemachus, lofty in speech, uncontrollable in your fury (2.85, 2.303) |
+| ὣς ἔφαθʼ, ἡμῖν δʼ αὖτʼ ἐπεπείθετο θυμὸς ἀγήνωρ | So she spoke, and our proud spirit was persuaded (2.103) |
+| εἶμι γὰρ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα | For I will go to Sparta and to sandy Pylos (2.214, 2.359), as 1.93 |
+| νόστον πευσόμενος πατρὸς δὴν οἰχομένοιο | to learn of the homecoming of my father, who has long been gone (2.215, 2.264), as 1.281 |
+| Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν | in the likeness of Mentor, both in form and in voice (2.268, 2.401) |
+| ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων | and this is what one of the overweening young men would say (2.324), as ὧδε δέ τις εἴπεσκε (*Iliad* 2.271); "And another of the overweening young men would say in turn" (2.331) |
+| ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεά, γλαυκῶπις Ἀθήνη | Then the gray-eyed goddess Athena thought of another thing (2.382, 2.393), as *Iliad* 23.140 |
+| δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί | And the sun set, and all the streets grew dark (2.388) |
+| τοῖσι δὲ καὶ μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο | And among them spoke also the sacred strength of Telemachus (2.409) |
+| ὣς ἄρα φωνήσασʼ ἡγήσατο Παλλὰς Ἀθήνη / καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο | So she spoke, and Pallas Athena led the way / swiftly; and he followed in the footprints of the goddess (2.405–406) |
+| ἱστὸν δʼ εἰλάτινον κοίλης ἔντοσθε μεσόδμης … | The mast of fir, within the hollow mast-box, / they raised and set up, and made it fast with forestays, / and hoisted the white sails with well-twisted ox-hide ropes (2.424–426) |
 
 ## Places where the Greek is disputed
 
@@ -140,3 +188,39 @@ digitized by Perseus: "(Merry on 1.241)" is the note on that line.
 - **1.431** — ἐεικοσάβοια "the worth of twenty oxen", a high price for a slave, where a skilled woman is valued at four oxen at *Iliad* 23.705 (Merry on 1.431).
 - **1.440** — τρητοῖσι λέχεσσι "the corded bed", as *Iliad* 3.448; Merry (on 1.440) takes τρητός as "morticed", of the frame, citing Plato (*Statesman* 279e), against the holes for cords.
 - **1.441–442** — How the door is fastened: a bolt drawn home by a strap through a slit in the door, and a handle (κορώνη) on the outside (Merry on 1.441).
+- **2.1** — ῥοδοδάκτυλος "rosy-fingered": Merry (on 2.1) sees perhaps the spreading rays of rosy light before sunrise, like the fingers of an open hand, and quotes Eustathius' allegory of the sun's rays as Dawn's fingers.
+- **2.3** — εἵματα ἑσσάμενος: it was the custom to sit up and put on at least part of one's clothing before leaving the bed (Merry on 2.3, comparing *Iliad* 2.42, 10.21).
+- **2.5** — ἄντην "to look upon": "in presence", literally "if looked at in the face" (Merry on 2.5, comparing 4.310).
+- **2.7, 2.26** — ἀγορή and θῶκος: the council of kings and chiefs was the βουλή or θῶκος, and the ἀγορή the gathering of the people, who assented or dissented (Merry on 2.7, comparing *Iliad* 2.53 and 2.93, and reporting Aristotle's account of the Cretan constitution in the *Politics*). θόωκος is "session", the council of elders (Merry on 2.26, comparing 3.127), kept apart in the English from βουλή "council".
+- **2.9** — The line is no tautology: the first clause is the people gathering, the second the assembly fully formed (Merry on 2.9).
+- **2.11** — δύω κύνες ἀργοί "two swift dogs": Merry (on 2.11) defends the reading, notes the variant κύνες πόδας ἀργοί, and takes ἀργός of swiftness, not of color, against the older "white" (Eustathius' λευκόποδες).
+- **2.13** — θηεῦντο, from a present θηέομαι beside the commoner θεάομαι (Merry on 2.13).
+- **2.14** — The elders sit on seats of stone in the place of assembly, and Telemachus, as the king's son, takes his father's seat while they make way (Merry on 2.14, comparing 17.61–63, 20.144–146).
+- **2.17** — καὶ γάρ more probably gives the reason why Aegyptius speaks first, his longing for his lost son, than an explanation of his age (Merry on 2.17).
+- **2.20** — πύματον: Antiphus was the last of the six companions of Odysseus whom the Cyclops ate (Merry on 2.20, comparing 9.369, and rejecting Eustathius' "last of all men"); the stress may fall on ὡπλίσσατο, since once blinded the Cyclops could no longer wait on himself. ὡπλίσσατο δόρπον is the Cyclops' own formula (9.291, 9.344).
+- **2.22** — ἔργα "fields", the farms (Merry on 2.22: *opera rustica*).
+- **2.30, 2.42** — στρατοῦ "of the army": the scholia give two senses, an enemy's army or the army that went to Ilios; Ameis takes the second, since Aegyptius longs for his son, but Merry (on 2.30) thinks an invasion or a raid of pirates the likelier cause for calling an assembly in haste. The English keeps the ambiguity. The optative εἴποι (2.31) becomes the subjunctive εἴπω when Telemachus repeats the words (2.43), marking that he would tell such news if he had it (Merry on 2.31).
+- **2.33** — ὀνήμενος "may he prosper!": the older commentators supplied εἴη ("may he be blessed"), an ellipse Merry (on 2.33) calls unparalleled in Homer; he prefers Classen's explanation, which takes the participle from a formula of blessing, as οὐλόμενος comes from the curse ὄλοιο.
+- **2.34** — The digitized text prints ὅτι; the sense is the relative ὅ τι "whatever", as this text prints it at 5.89 and 8.577 and the Iliad at 14.221, and the English takes it so.
+- **2.35** — φήμη "word of omen": a chance utterance whose bearing the speaker does not know; Aegyptius blesses Telemachus unawares, before he has said that he called the assembly (Merry on 2.35, comparing κλεηδών, 18.117, 20.120).
+- **2.37** — The scepter was the badge of public office, carried by kings, priests, prophets, heralds and judges; the herald who puts it in a speaker's hand invests him with that office for the time (Merry on 2.37).
+- **2.39** — καθαπτόμενος "approaching … with words": earnest or animated address, not necessarily rough, as of an urgent but submissive appeal (10.70) or of an angry retort (18.415; Merry on 2.39, comparing 2.240).
+- **2.40** — οὗτος ἀνήρ "that man": not a periphrasis for "I", but "this man (about whom you ask) is not far off", until he adds that it is he (Merry on 2.40).
+- **2.45** — With Aristophanes' κακά, printed here, ὅ is "in that": "two evils have fallen upon my house"; with Aristarchus' κακόν, δοιά is "in two ways" or answers the "first" and "far greater" evils of 2.46–48 (Merry on 2.45). The English follows the text printed.
+- **2.46, 2.48** — τοίσδεσσιν "here", with a gesture of the hand (Merry on 2.46); νῦν δʼ αὖ καὶ πολὺ μεῖζον understands κακὸν ἔμπεσε, where the balance wants τὸ δέ after τὸ μέν (Merry on 2.48).
+- **2.51–52** — The scholia ask why only the suitors of Ithaca, "the men who are the best here", are blamed; and they take εἰς οἶκον to mean that Icarius lived in Ithaca (Merry on 2.51, 2.52, who also cites the legend that made Icarius king of Cephallenia, *Poetics* 25: see the note on 1.276).
+- **2.53** — ἐεδνώσαιτο "settle the bride-price": not "to dower" his daughter, a later usage, but to accept gifts of wooing for her, or "to make terms about the marriage" (Merry on 2.53, after Butcher and Lang and Cobet; see the note on 1.275–278).
+- **2.60** — ἦ καὶ ἔπειτα "truly, even then": ἔπειτα, as distinguished from ὀπίσσω "hereafter", points to the immediate future: if we do (καί) try, we shall prove weaklings (Merry on 2.60, comparing 1.65 and 2.273, 2.280, where the English has "then" as well).
+- **2.107** — The same verse at 19.152 and 24.142 is followed by μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη, which this passage lacks.
+- **2.141** — ὑμῖν here, ὕμιν in the identical verse at 1.376, as the digitized text prints them.
+- **2.167** — ἐυδείελος "clear-seen" (provisional): the word recurs of Ithaca and islands (9.21, 13.212, 13.325, 19.132); δείελος "evening" (*Iliad* 21.232) bears on the alternative sense "lying toward the west".
+- **2.172** — εἰσανέβαινον "were embarking", as ἀναβήμεναι "embarked" (1.210); the Iliad's Ἴλιον εἰσανέβησαν is "gone up into Ilios" (6.74).
+- **2.227** — γέροντι: either Mentor, whom the household is to obey, or Laertes; neither infinitive has a subject in the Greek, and the English makes the house obey the old man and Mentor keep all things safe.
+- **2.245** — ἀνδράσι καὶ πλεόνεσσι goes with μαχήσασθαι, of the suitors who outnumber the people (as 2.251), or with ἀργαλέον, "hard even for men who are more numerous".
+- **2.262** — θεός is a predicate: Athena came in the likeness of Mentes, and Telemachus knew her for a god (1.323, 1.420).
+- **2.270, 2.278** — οὐδʼ ὄπιθεν … οὐδʼ ἀνοήμων: "no coward and no fool" hereafter, or "not hereafter either", as he has not been until now.
+- **2.344** — ἔπεσαν is from ἔπειμι, "were on it", not from πίπτω.
+- **2.377** — γρῆυς, as the digitized text prints it here and at 7.8; γρηῢς in the same opening at 18.185, 19.361, 19.386, 19.503, 22.433. ἀπώμνυ is "swore not to".
+- **2.385** — ἀγέρεσθαι is accented as a present infinitive, though Homer's middle forms of the verb are aorists (ἀγέροντο, *Iliad* 2.94, 18.245).
+- **2.412** — δμωαί, without the iota subscript, as the digitized text prints it here and at 6.307, 7.103 (δμῳαί elsewhere).
+- **2.434** — ἠῶ "through the dawn": time over which, or "and at dawn".

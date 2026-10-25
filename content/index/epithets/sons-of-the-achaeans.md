@@ -16,7 +16,7 @@ of: [achaeans]
 
 ## Use
 
-The formula occurs six times in Book 1: {{ref:Iliad 1.162}}, {{ref:Iliad 1.237}}, {{ref:Iliad 1.240}}, {{ref:Iliad 1.276}}, {{ref:Iliad 1.368}}, {{ref:Iliad 1.392}}. Four of them concern the distribution of prizes. The sons of the Achaeans gave Achilles his prize (162, 392), first gave Briseis to him (276, in Nestor's words), and divided the spoils of Thebe (368).
+The formula occurs six times in *Iliad* 1: {{ref:Iliad 1.162}}, {{ref:Iliad 1.237}}, {{ref:Iliad 1.240}}, {{ref:Iliad 1.276}}, {{ref:Iliad 1.368}}, {{ref:Iliad 1.392}}. Four of them concern the distribution of prizes. The sons of the Achaeans gave Achilles his prize (162, 392), first gave Briseis to him (276, in Nestor's words), and divided the spoils of Thebe (368).
 
 {{quote:96b00c28-bc8e-5c85-be9f-b70c2a30082a}}
 

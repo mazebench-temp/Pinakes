@@ -2,7 +2,7 @@
 title: Prophecy
 kind: theme
 tags: [divination, seer, foreshadowing]
-summary: Seers, signs and oracles, and the fulfillment of what they foretell. The Iliad's prophecies come from gods, seers and dying men, and the verb τελέω, “fulfill”, marks what comes to pass.
+summary: Seers, signs and oracles, and the fulfillment of what they foretell. In Homer prophecies come from gods, seers, signs and dying men, and the verb τελέω, “fulfill”, marks what comes to pass.
 refs: [1.5, 1.62, 1.63, 1.69, 1.70, 1.72, 1.85, 1.87, 1.92, 1.106, 1.107, 1.108, 1.109, 1.204, 1.212, 1.240, 1.384, 1.385, 1.388, 1.523, 1.527]
 passages:
   - 1.62-72 | Seer, priest, dream-interpreter; Calchas

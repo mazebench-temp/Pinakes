@@ -3,7 +3,7 @@ title: Wrath
 greek: μῆνις
 kind: term
 tags: [anger]
-summary: The first word of the Iliad and its subject. μῆνις is a lasting, ruinous wrath; the poem uses the noun only of gods and of [[Achilles]].
+summary: The first word of the Iliad and its subject. μῆνις is a lasting, ruinous wrath; Homer uses the noun only of gods and of [[Achilles]].
 aliases: [mēnis, menis, mēniō]
 grc: [μῆνιν, μήνιε, μήνιʼ, ἐμήνιε]
 en: [wrath, nursed his wrath, keep up your wrath, kept up his wrath]

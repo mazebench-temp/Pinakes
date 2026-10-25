@@ -17,7 +17,7 @@ relations:
 
 ## Namesakes
 
-The Iliad gives the name to a leader of the Cicones, whose likeness Apollo takes, and the verse that brings him in ends, as the Odyssey's does, with ἡγήτορι Μέντῃ (*Iliad* 17.73; *Odyssey* 1.105; see [[mentes]] and the translation's note on 1.105). In the Odyssey Athena takes the shape of two men of almost the same name: Mentes in the first book, and from the second on Mentor, the companion of Odysseus (*Odyssey* 2.225), whose likeness she takes “in form and in voice” (Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν, *Odyssey* 2.268, 2.401). The renderings of books other than the first are plain renderings, not the translation.
+The Iliad gives the name to a leader of the Cicones, whose likeness Apollo takes, and the verse that brings him in ends, as the Odyssey's does, with ἡγήτορι Μέντῃ (*Iliad* 17.73; *Odyssey* 1.105; see [[mentes]] and the translation's note on 1.105). In the Odyssey Athena takes the shape of two men of almost the same name: Mentes in the first book, and from the second on [[mentor|Mentor]], the companion of Odysseus (*Odyssey* 2.225), in whose likeness she comes, “both in form and in voice” (Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν, *Odyssey* 2.268, 2.401).
 
 ## Family
 
