@@ -1,0 +1,14 @@
+---
+summary: In Nestor's account Agamemnon is the king who stayed at Troy to appease Athena with hecatombs, against his brother's counsel (3.141–147, 3.155–156), the man Odysseus turned back to please (3.164), and the son of Atreus whom Aegisthus killed when he came home, having bewitched his wife (3.193–194, 3.248–275, 3.303–305). Athena, as Mentor, makes his death at his own hearth the homecoming no one would choose (3.232–235).
+# Ἀτρεΐδης at 3.257 ("the son of Atreus, coming from Troy, fair-haired Menelaus") and 3.277 ("the son of Atreus and I")
+# is Menelaus. Unnamed: "how he came" (3.194), "his famous father" (3.198, 3.308), "for him", "a far better man"
+# (3.249-250), the husband whose wife the singer guarded (3.267), and "his father's slayer" (3.197, 3.307).
+except: [3.257, 3.277]
+refs: [3.194, 3.197-198, 3.249-250, 3.267, 3.307-308]
+---
+
+**The quarrel.** He stands for staying: he wished “to hold back the army and offer holy hecatombs, / so that he might heal the terrible anger of Athena, / the fool” (3.144–146; see [[hecatomb]], [[athena]] and [[nepios]]). Half the army stayed with him, “there beside Agamemnon, son of Atreus, shepherd of the people” (3.156; see [[shepherd-of-the-people]]), and at Tenedos Odysseus took his ships back “to do a kindness once more to Agamemnon, son of Atreus” (3.164; see [[the-departure-of-the-greeks]] and [[odysseus]]). Nestor does not say how the king himself came home from Troy; the storm off Malea and his landing are told in the next book (4.514–523; see [[malea]]).
+
+**The death.** Nestor first reminds Telemachus of what all men have heard, “how he came, and how Aegisthus devised a grim destruction for him” (3.194; see [[the-murder-of-agamemnon]]). Athena's words as Mentor give the death its place in the poem's theme: better to come home late after many sorrows “than come home and perish at my own hearth, as Agamemnon / perished by the guile of Aegisthus and of his own wife” (3.234–235; see [[nostos]] and [[day-of-homecoming]]). Telemachus asks how he died, “wide-ruling Agamemnon”, and how Aegisthus “killed a far better man” (3.248–250; see [[wide-ruling]]). In the answer he is “the son of Atreus” who left a singer to guard his wife when he went to Troy (3.268; see [[the-singer-of-clytemnestra]]), and the man Aegisthus killed before ruling his city (3.304–305; see [[mycenae]]). His son avenged him: “that son too took vengeance on his father's slayer” (3.197; see [[orestes]]).
+
+**Two sons of Atreus.** Ἀτρεΐδης, “the son of Atreus”, is Agamemnon at 3.193, 3.248, 3.268 and 3.304, but Menelaus at 3.257, where his name follows, and 3.277, where Nestor sails from Troy with him (see [[menelaus]], [[son-of-atreus]] and [[atreidae]]). The wife of 3.264 is Ἀγαμεμνονέη ἄλοχος, “the wife of Agamemnon”, with the adjective of his name that the Iliad gives to his ship and to his mare Aethe (*Iliad* 10.326, 23.295; see [[clytemnestra]]).

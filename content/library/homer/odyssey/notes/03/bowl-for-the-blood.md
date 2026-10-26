@@ -1,0 +1,5 @@
+---
+summary: At Nestor's sacrifice to Athena, while his brothers lead the heifer, bring the water and the barley grains and stand by with the axe, Perseus holds the bowl for the blood (3.444).
+---
+
+“And Perseus held the bowl for the blood” (3.444; see [[perseus-son-of-nestor]] and [[the-sacrifice-to-athena]]). The bowl is the last of the things made ready before the rite begins: Stratius and Echephron lead the heifer, Aretus brings the water for the hands and the barley grains, Thrasymedes stands by with the axe, and then Nestor begins the rite (3.439–446; see [[hand-washing]], [[barley-grains]] and [[axe]]). The blood comes when the heifer has been felled and her head lifted, and Peisistratus cuts her throat: “And when the black blood had flowed from her, and the spirit had left her bones” (3.454–455; see [[peisistratus]] and [[dark-blood]]). Only this sacrifice in Homer names the vessel. Of the sacrifice on the shore the day before, the poem shows only its end, the entrails tasted and the thigh-pieces burning (3.9; see [[the-sacrifice-at-pylos]]).

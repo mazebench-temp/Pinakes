@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, kingship]
 summary: “Chief of men,” and in address “leader of the people”: a title of leaders, in the Iliad of the Trojan ally [[Asius]] and of [[Achilles]], and in address of Agamemnon, Menelaus and Patroclus; in the Odyssey above all of Menelaus and, strikingly, of Eumaeus the swineherd.
 aliases: [chief of men, orchamos andron]
-grc: [ὄρχαμος ἀνδρῶν]
+grc: [ὄρχαμος ἀνδρῶν, "ὄρχαμον ἀνδρῶν"]
 en: [leader of men]
 of: [asius, achilles]
 ---

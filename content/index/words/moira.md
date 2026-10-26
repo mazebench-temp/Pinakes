@@ -6,8 +6,10 @@ tags: [fate]
 summary: A share or portion, and so one's lot in life and above all one's death. κατὰ μοῖραν is “fairly, as is due”.
 aliases: [moira, moros, share, lot, ōkymoros, emmore]
 # Fate in person is the capitalized Μοῖρα (19.87, 19.410, 24.209) and Μοῖραι (24.49), claimed by fates; the
-# exclusion keeps them out of the common word's lines.
-grc: [μοῖραν, ἔμμορε, ὠκύμορος, ὠκυμορώτατος, "!^Μοῖρ*"]
+# exclusion keeps them out of the common word's lines. The lowercase μοῖρα (Od. 3.269; in the Iliad also claimed by
+# its Book 3 note) and μοίρας, "portions" of meat at a feast (Od. 3.40, 3.66; only in the Odyssey), are the word in
+# every text.
+grc: [μοῖραν, ἔμμορε, ὠκύμορος, ὠκυμορώτατος, μοῖρα, μοίρας, "!^Μοῖρ*"]
 en: [fair and right, share, swift-fated, swifter to his fate]
 ---
 

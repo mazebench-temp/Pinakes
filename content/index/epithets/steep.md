@@ -5,7 +5,7 @@ kind: epithet
 tags: [mountain, city]
 summary: “Steep, sheer,” two related adjectives for mountains and hill towns, αἰπύς and the longer αἰπεινός; αἰπύς is also the “sheer” of αἰπὺς ὄλεθρος, “sheer destruction.”
 aliases: [sheer, aipys, aipeinos]
-grc: [αἰπύ, αἰπεῖα, αἰπεινὴν, αἰπεινὰ]
+grc: [αἰπύ, αἰπεῖα, αἰπεινὴν, αἰπεινὰ, αἰπήν]
 except: [2.592]
 en: [steep]
 of: [dium, gonoessa, cyllene, batieia, tereia, mycale, pedasus-on-the-satnioeis, troy, scyros]

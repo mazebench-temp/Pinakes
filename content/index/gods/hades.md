@@ -5,7 +5,8 @@ kind: god
 tags: [cronids, chthonic]
 summary: God of the dead, brother of [[Zeus]] and [[Poseidon]], whose share of the world is the realm beneath the earth. In Homer the dead go down to his house.
 aliases: [Aides, Aidoneus]
-grc: [Ἄϊδι]
+# Ἄϊδόσδε, "to the house of Hades", is found only in the Odyssey (3.410, 6.11, 10.560, 11.65, 11.475).
+grc: [Ἄϊδι, Ἄϊδόσδε]
 en: [Hades]
 ---
 

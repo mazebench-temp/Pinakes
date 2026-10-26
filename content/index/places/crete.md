@@ -5,7 +5,9 @@ kind: place
 tags: [island, crete]
 summary: The great island at the southern edge of the Aegean, "Crete of the hundred cities". Its king [[Idomeneus]], grandson of Minos, and [[Meriones]] bring eighty ships to Troy.
 aliases: [Krete, Kriti]
-grc: [Κρήτην, ἑκατόμπολιν]
+# Κρήτῃ (Od. 3.291; later 13.256, 13.260, 17.523, and Κρήτη, 19.172, which differs only by the iota subscript) also
+# catches 13.450 and 13.453, which the Iliad Book 13 note claims as well.
+grc: [Κρήτην, ἑκατόμπολιν, Κρήτῃ]
 passages:
   - 2.645-652 | The Cretans
 ---

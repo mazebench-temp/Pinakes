@@ -814,6 +814,60 @@ alias "Mycene", ephyra-in-argos), the Odyssey entry's Greek match takes the line
 | μῆτις | μή τις, two words (Od. 9.405–410) | metis: the one-word pattern does not catch it |
 | γέροντες, the elders (Od. 2.14) | γέροντες "old men" (Od. 11.38) | elders: the phrase `"εἶξαν δὲ γέροντες"` |
 
+### Odyssey, Book 3
+
+Nestor's family and Menelaus' helmsman bring more namesakes of Iliad figures (a Perseus, an Aretus, a Laerces, a Phrontis,
+an Onetor), a son of Nestor shares his name with the Athenian tyrant of the Rhetoric, and the Iardanus is a second river.
+Where an Iliad namesake would take an Odyssey line by its English name alone (perseus, laerces, onetor), the Odyssey entry's
+Greek match outranks it. Most of the book's new forms are claimed in Odyssey notes, whose patterns apply only within the
+poem, so that the same letters in the Iliad or in Aristotle are not caught.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Πεισίστρατος, son of Nestor (Od. 3.36, 3.400, 3.415, 3.454, 3.482) | Pisistratus, tyrant of Athens (Πεισίστρατος, *Rhetoric* 1357b32) | peisistratus: `Πεισίστρατ*` in its Odyssey Book 3 note; pisistratus: `en: [Pisistratus]`, the Rhetoric's spelling |
+| Νεστορίδης, Peisistratus (Od. 3.36, 3.482) | Νεστορίδης, Antilochus (Il. 6.33, 15.589), Thrasymedes (Νεστορίδην, Il. 9.81) | peisistratus: `Νεστορίδ*` in its Odyssey note, where every Νεστορίδ- form is Peisistratus; nestor's Book 3 note claims it too, by the patronymic rule |
+| Περσεύς, son of Nestor (Od. 3.414, 3.444) | Perseus, son of Danae (Περσῆα, Il. 14.320), English "Perseus" | perseus-son-of-nestor: `Περσεύς`, `en: [Perseus]` in its Odyssey note |
+| Ἄρητος, son of Nestor (Od. 3.414, 3.440) | the Trojan Aretus (Ἄρητος, Il. 17.494) | aretus-son-of-nestor: `Ἄρητος`, `en: [Aretus]` in its Odyssey note; aretus keeps its forms in its Iliad Book 17 note |
+| Ἐχέφρων, son of Nestor (Od. 3.413, 3.439) | ἐχέφρων "sensible" (Il. 9.341; Od. 4.111, 13.332, and of Penelope often) | echephron: `"^Ἐχέφρων"` in its Odyssey note |
+| Στρατίος, Εὐρυδίκη, Κλυμένοιο, Πολυκάστη (Od. 3.413, 3.452, 3.464) | later namesakes: Zeus στράτιος "of armies" (Herodotus 5.119.2), the mother of Danae (Hesiod fr. 18 Evelyn-White), a son of Oeneus (fr. 98), Polycaste the mother of Penelope (Strabo 10.2.24) | stratius, eurydice, clymenus, polycaste: the exact forms in their Odyssey Book 3 notes |
+| Νηλῆος, Νηλεύς (Od. 3.4, 3.409) | νηλής "pitiless" (νηλέϊ χαλκῷ), which a stem Νηλ* would catch | neleus: the exact forms and `"Νηληϊάδ*"` in its Odyssey Book 3 note |
+| Λαέρκης, the goldsmith (Λαέρκεα, Od. 3.425) | Laerces, father of Alcimedon (Λαέρκεος, Il. 16.197, 17.467), English "Laerces" | laerces-the-goldsmith: `Λαέρκεα`, `en: [Laerces]` |
+| Φρόντις, Menelaus' helmsman (Φρόντιν, Od. 3.282) | Phrontis, wife of Panthous (Φρόντιδι, Il. 17.40) | phrontis-son-of-onetor: `Φρόντιν`, `Ὀνητορίδην`, `en: [Phrontis]`, `except: [17.40]`; phrontis keeps its form and English in its Iliad Book 17 note |
+| Ὀνητορίδης (Ὀνητορίδην, Od. 3.282) | Onetor, the Trojan priest of Zeus (Ὀνήτορος, Il. 16.604), English "Onetor" | onetor-father-of-phrontis: `Ὀνητορίδην`, `en: [Onetor]`, `except: [16.604]` |
+| Ἀτρεΐδης, Menelaus (Od. 3.257, 3.277) | Ἀτρεΐδης, Agamemnon | agamemnon's Book 3 note `except: [3.257, 3.277]`; menelaus' note has 3.277 in its refs (3.257 names him) |
+| ἀοιδὸς ἀνήρ, the singer who guarded Clytemnestra (Od. 3.267, 3.270) | ἀοιδός, every singer of the poem (Phemius, Demodocus) | the-singer-of-clytemnestra: the phrases `"ἀοιδὸς ἀνήρ"`, `"τὸν μὲν ἀοιδὸν"` in its Odyssey note |
+| Ποιάντιον, Philoctetes "son of Poias" (Od. 3.190) | the Poiantian plain of later Greek (Suda π 3072) | poias: `Ποιάντιον`; philoctetes: the same in its Odyssey Book 3 note only |
+| Ἰαρδάνου, the river of Crete (Od. 3.292) | Ἰαρδάνου, the river of Elis (Il. 7.135) | iardanus `except: [Od. 3.292]`; iardanus-in-crete: `Ἰαρδάνου`, `en: [Iardanus]` in its Odyssey note |
+| Ἀθηνέων (Od. 3.278), Ἀθηνάων (Od. 3.307), "of", "from Athens" | Athena (`Ἀθήν*`) | athena `"!Ἀθηνέων"`, `"!Ἀθηνάων"`; athens claims both |
+| Φηράς, Diocles' city (Od. 3.488, 15.186) | Φῆρας, the Centaurs (Il. 2.743), the same letters; Pherae of Admetus is Φεράς (Il. 2.711) | pherae-in-messenia: `Φηρὰς` in its Odyssey Book 3 note (the Iliad's Φηράς, 9.151, 9.293, in its Book 9 note) |
+| μέλαιναν of κῆρα μέλαιναν (Od. 3.242) | black-ships' μέλαιναν | black-ships `except: [Od. 3.242]`, as Od. 2.283 |
+| ἀγορεύω "speak of", ἀγορεύσω "tell" (Od. 3.82, 3.254) | assembly's `ἀγορ*` | assembly `except: [Od. 3.82, Od. 3.254]` |
+| εὔχομαι εἶναι "claim to be" (Od. 3.362) | prayer's `εὐχ*` | prayer `except: [Od. 3.362]`; euchomai keeps it |
+| νέεσθαι "go back" for the night (Od. 3.336, 3.344) | νόστος "homecoming" | nostos' Book 3 note `except: [3.336, 3.344]` |
+| εὐρὺ κρείων "wide-ruling" (Od. 3.248) | κρείων "powerful" | powerful `except: [Od. 3.248]`; wide-ruling claims the phrase |
+| οὖρος Ἀχαιῶν "guardian of the Achaeans" (Od. 3.411) | οὖρος "fair wind" (λιγὺς οὖρος, Od. 3.176) | guardian-of-the-achaeans: the phrase `"οὖρος Ἀχαιῶν"`; shrill: `"λιγὺς οὖρος"` and `λιγέων` (3.289) |
+| νηὸς ἐίσης, the balanced ship (Od. 3.10, 3.431) | ἐΐσης "equal", of the feast (δαιτὸς ἐΐσης) | balanced-ships: the phrase `"νηὸς ἐΐσης"`; feast keeps `"δαιτὸς ἐΐσης"` |
+| ἱερά, ἱρά "sacrifices" (Od. 3.5, 3.159) | ἱερός "holy" | hieros: the phrases `"ἱερὰς ἑκατόμβας"`, `"ἱεροῖς ἐπὶ βωμοῖς"`, `"Σούνιον ἱρὸν"`; sacrifice: `"ἱερὰ ῥέζον"` in its Book 3 note |
+| μύθοισι πεπείρημαι πυκινοῖσιν (Od. 3.23) | πυκινός of other things | shrewd-word: the phrase `"πεπείρημαι πυκινοῖσιν"` in its Book 3 note, since the verb divides the noun from its epithet |
+| κοίλην ἐπὶ νῆα, κοίλῃ παρὰ νηί (Od. 3.344, 3.365) | κοίλης of the mast-box (Od. 2.424) and of the road (Il. 23.419) | hollow-ships: the two phrases |
+| ἀγανοῖς βελέεσσιν "gentle arrows" (Od. 3.280) | ἀγανοῖς ἐπέεσσιν "gentle words" (Il. 2.164, 2.180, 2.189) | gentle-arrows: the phrases `"ἀγανοῖς βελέεσσιν"`, `"ἀγανοῖσι βέλεσσιν"` |
+| δίου, δῖοι, δῖα, δῖαν "brilliant" (Od. 3.84, 3.116, 3.266, 3.326) | Διός, Δία "of Zeus", "Zeus", the same letters without accents; δῖαν of the sea (ἅλα δῖαν, Od. 3.153) | brilliant: `"=δίου"`, `"=δῖοι"` and the phrases `"δῖα Κλυταιμνήστρη"`, `"Λακεδαίμονα δῖαν"` in its Book 3 note; shining-sea's note `except: [3.326]` |
+| οὐλάς, the barley grains (Od. 3.441) | οὔλας "woolly", of cloaks (Od. 4.50, 4.299), and "curly", of hair (Od. 6.231, 23.158) | barley-grains: `"=οὐλὰς"` in its Book 3 note |
+| σφῦραν "hammer" (Od. 3.434) | σφυρά, σφυρόν "ankle" (Il. 4.147, 22.397) | forge: the exact form in its Book 3 note |
+| μεγάροις "halls" (Od. 3.213) | Μεγάροις "at Megara" (*Rhetoric* 1357b33) | house: `μεγάροις` in its Odyssey Book 3 note |
+| τάφον, the funeral feast (δαίνυ τάφον, Od. 3.309) | τάφος, the burial (Il. 24.660) | feast: the phrase `"δαίνυ τάφον"` in its Book 3 note |
+| εὐνήν, the bed (Od. 3.403) | εὐνήν, a lion's lair (Od. 4.338 = 17.129) | bed: the phrase `"λέχος πόρσυνε καὶ εὐνήν"` in its Book 3 note |
+| δίφρος, ζυγόν, μάστιξεν, ἡνία of the chariot (Od. 3.324–496) | δίφρος a stool (Od. 20.259, quoted at *Poetics* 1458b28–30), ζυγόν the heifer's yoke (Od. 3.383), μάστιξεν and ἡνία of Nausicaa's mule cart (Od. 6.81–82) | chariot: the phrases `"δίφρος τε"`, `"σὺν δίφρῳ"`, `"βήσετο δίφρον"`, `"ἐς δίφρον τʼ ἀνέβαινε"`, `"ἡνία λάζετο"`, `"μάστιξεν δʼ ἐλάαν τὼ"`, `"σεῖον ζυγὸν"` in its Book 3 note |
+| ψαμάθοις ἁλίῃσιν "the sands of the sea" (Od. 3.38) | ψάμαθος, a river's bank (Il. 21.202) or the sand of a simile (Il. 2.800) | shore: the phrase in its Book 3 note |
+| γαῖα, χθονός, the earth (Od. 3.16, 3.453) | γαῖα and χθονός in the verse of Euripides' *Meleager* quoted at *Rhetoric* 1409b10 | earth: the forms in its Odyssey Book 3 note, not the entry |
+| κηρί "doom" (κηρὶ δαμείς, Od. 3.410) | κῆρι "heart" (ker-heart), the same letters | ker-doom: the phrase `"κηρὶ δαμεὶς"` in its Book 3 note |
+| ἄγη "amazement" (Od. 3.227) | ἄγη "was broken" (Il. 3.367, 16.801), ἄγῃ "leads" (Il. 7.335) | thambos: `"=ἄγη"` in its Odyssey Book 3 note |
+| πρῆξις "business" (Od. 3.72, 3.82) | πρᾶξις "action" in Aristotle (praxis) | prexis: the Ionic forms `πρῆξιν`, `πρῆξις`, `πρηκτῆρά` |
+| ὄλβος "prosperity" (ὄλβον, Od. 3.208) | ὀλβιόδαιμον "blessed by the gods" (Il. 3.182) | olbos: the exact forms `ὄλβον`, `ὄλβῳ`, `ὄλβιον` |
+| φήνῃ, the sea eagle (Od. 3.372); φῆναι, sea eagles (Od. 16.217) | φήνῃ, φῆναι, aorist forms of φαίνω "show" (θεὸν φῆναι τέρας, Od. 3.173) | phene: `φήνῃ` in its Book 3 note; Book 16 will need the phrase `"φῆναι ἢ αἰγυπιοὶ"` |
+| βοῶν ἐπιβουκόλος, Nestor's herdsman (Od. 3.422) | βοῶν "shouting"; the same phrase is Philoetius' formula (Od. 20.235, 21.199, 22.268, 22.285) | cattle: the phrase in its Book 3 note; herdsman-of-the-cattle: `ἐπιβουκόλος` |
+| ἵπποι, horses (Od. 3.324, 3.496) | ἁλὸς ἵπποι, ships as "horses of the sea" (Od. 4.708) | horses: `ἵπποι` in its Book 3 note; Book 4 will need an except |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

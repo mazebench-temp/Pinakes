@@ -1,0 +1,5 @@
+---
+summary: “he will not tell a lie, for he is very wise” (3.20, 3.328): Athena says it of Nestor, and Nestor of Menelaus.
+---
+
+The verse is the book's formula for the man whose word can be trusted (see the translation's table of formulas). The goddess says it of the old man to whom she sends Telemachus, and the old man of the next host, each time after the charge to beg him to tell the truth, “And you yourself must beg him to tell you truly” (3.19–20, 3.327–328; see [[nestor]], [[menelaus]] and [[truth-and-deception]]). Merry notes on πεπνυμένος that the idea that wickedness and folly are one is frequent in Homer, and points to Clytemnestra, whose fall was long delayed because “her mind was good” (3.266), and to the “wise and just” Peisistratus (3.52) (*Commentary on the Odyssey*, 1886, on 3.20, 3.52; see [[wise]] and [[phrenes]]). Telemachus asks Nestor for the same: “tell me truly” (3.101), “tell me the truth” (3.247), and he answers, “Well then, my child, I will tell you all the truth” (3.254).

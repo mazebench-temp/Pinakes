@@ -5,8 +5,8 @@ kind: epithet
 tags: [fate]
 summary: “The heaped earth,” the earth piled over the dead in a grave mound.
 aliases: [chyte gaia, the heaped earth, grave mound]
-grc: [χυτὴ κατὰ γαῖα]
-en: [heaped earth]
+grc: [χυτὴ κατὰ γαῖα, "χυτὴν ἐπὶ γαῖαν"]
+en: [heaped earth, loose earth]
 of: [earth]
 ---
 

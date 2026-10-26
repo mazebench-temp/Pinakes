@@ -5,7 +5,8 @@ kind: place
 tags: [peloponnese, elis]
 summary: The great river of the western Peloponnese, which rises in Arcadia and flows past Olympia to the Ionian Sea. In Homer it runs through the land of the Pylians.
 aliases: [Alpheios, Alfeios]
-grc: [Ἀλφειοῖο]
+# Ἀλφειός (Od. 3.489 = 15.187), the river as father of Ortilochus, is not in the Iliad.
+grc: [Ἀλφειοῖο, Ἀλφειός]
 ---
 
 {{quote:3c989587-8240-5a19-bcd3-53ade1ede1d6}}

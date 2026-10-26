@@ -12,7 +12,7 @@ of: [achaeans, trojans]
 
 ## The simile
 
-ὣς οἳ μὲν μάρναντο δέμας πυρὸς αἰθομένοιο: “so they fought on like blazing fire” (11.596). δέμας is “body, build”, and in the accusative it serves as a word of comparison, “in the likeness of”, as in δέμας ἀθανάτοισιν ὁμοῖος, “like the immortals in build” (*Odyssey* 3.468). πυρὸς αἰθομένοιο is “of blazing fire”. The comparison builds no scene. It gives the fighting the heat, the spreading and the endlessness of fire.
+ὣς οἳ μὲν μάρναντο δέμας πυρὸς αἰθομένοιο: “so they fought on like blazing fire” (11.596). δέμας is “body, build”, and in the accusative it serves as a word of comparison, “in the likeness of”, as in δέμας ἀθανάτοισιν ὁμοῖος, “like the immortals in form” (*Odyssey* 3.468). πυρὸς αἰθομένοιο is “of blazing fire”. The comparison builds no scene. It gives the fighting the heat, the spreading and the endlessness of fire.
 
 The verse is a formula of transition. Its μέν looks forward to a δέ, and the narrative leaves the fighters to go on while it turns elsewhere: “So they fought on like blazing fire; and the Neleian mares carried Nestor out of the war” (11.596–597). The story moves from the battle to Nestor's chariot and Achilles watching it from his ship (see [[achilles-withdraws]]).
 

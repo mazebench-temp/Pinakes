@@ -1,0 +1,5 @@
+---
+summary: Athenaeus, praising the plain fare and the order of Homer's feasts, has Nestor sacrifice to Poseidon by the sea through his own sons, though he is a king with many subjects, and quotes the order with which this book's second sacrifice begins; the Suda gives the same account from Dioscorides' Customs in Homer.
+---
+
+- **The sacrifice by his own sons.** “And Nestor sacrifices oxen to Poseidon by the sea through the dearest and closest of his children, though he is a king and has many subjects, giving them these orders: ‘But come, let one go to the plain for a heifer’, and so on; for this sacrifice is holier and dearer to the gods, performed by one's own kin and most loyal men” (*Deipnosophistae* 1.15, in Kaibel's chapters, quoting 3.421). The order is Nestor's to his sons on the morning after the feast on the shore, for the heifer that he has vowed to Athena (3.418–429); the sacrifice to Poseidon, on the shore, is the people's, by their nine companies (3.4–8). The Suda gives the passage among its notes on Homer, from Dioscorides' *Customs in Homer* (Suda ο 251). See [[the-sacrifice-to-athena]], [[the-sacrifice-at-pylos]] and [[sacrifice-type-scene]].

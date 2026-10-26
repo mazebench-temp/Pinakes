@@ -3,13 +3,13 @@ title: Barley grains
 greek: οὐλοχύται
 kind: object
 tags: [sacrifice]
-summary: The whole barley grains taken up before the prayer at a sacrifice and thrown forward before the victims are killed.
+summary: The barley grains taken up before the prayer at a sacrifice and thrown forward before the victims are killed.
 aliases: [barley, sacrificial barley, oulochytai]
 grc: [οὐλοχύτας]
 en: [barley grains]
 ---
 
-The οὐλοχύται are whole barley grains (οὐλαί) for scattering (χέω, “pour”). Water and barley open the rite: at Pylos, Nestor begins with the hand-water and the barley (Odyssey 3.445), brought in a bowl and a basket (Odyssey 3.440–441).
+The οὐλοχύται are barley grains (οὐλαί) for scattering (χέω, “pour”), whole or, as W. W. Merry takes the οὐλαί, coarsely ground (*Commentary on the Odyssey*, 1886, on *Odyssey* 3.441). Water and barley open the rite, at Chryse and at Pylos (*Iliad* 1.449; *Odyssey* 3.440–445).
 
 {{notes}}
 

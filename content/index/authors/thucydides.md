@@ -11,5 +11,6 @@ Thucydides commanded an Athenian squadron in 424 BCE, was exiled after the loss 
 - On the Catalogue's numbers and Agamemnon's power: [[thucydides-and-the-catalogue]].
 - On the name of the Hellenes and the absence of "barbarians" in Homer: [[thucydides-hellenes]].
 - On why the Catalogue's Boeotians could sail from Boeotia: [[the-boeotia]].
+- On the old poets' question to all who sail in, whether they are pirates, as evidence that the early Greeks saw no shame in piracy (1.5.2; *Odyssey* 3.71–74): [[thucydides-and-the-pirates]].
 
 Elsewhere he cites the Homeric *Hymn to Apollo*, which he took to be Homer's, as evidence for the ancient festival on Delos (3.104).

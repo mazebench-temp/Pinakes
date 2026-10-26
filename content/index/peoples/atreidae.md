@@ -5,7 +5,9 @@ kind: people
 tags: [atreidae, king]
 summary: [[Agamemnon]] and [[Menelaus]] together, the two sons of [[Atreus]]. Greek grammar can name them as a pair in the dual number.
 aliases: [Atreidae, Atreides, sons of Atreus]
-grc: [Ἀτρεΐδα, Ἀτρεΐδαι]
+# Ἀτρεΐδῃσι (Od. 3.136, 5.307), the dative plural without the movable nu; Ἀτρεΐδῃσιν is claimed in the Iliad by
+# the Book 2 note.
+grc: [Ἀτρεΐδα, Ἀτρεΐδαι, Ἀτρεΐδῃσι]
 en: [sons of Atreus, two sons of Atreus]
 relations:
   - father: atreus (1.16)

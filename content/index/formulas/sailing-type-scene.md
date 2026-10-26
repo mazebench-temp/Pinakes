@@ -3,7 +3,7 @@ title: Sailing scene
 greek: ἐκ δʼ εὐνὰς ἔβαλον, κατὰ δὲ πρυμνήσιʼ ἔδησαν
 kind: formula
 tags: [type-scene, seafaring, ship]
-summary: Launching, sailing, landing and beaching, told as a fixed sequence of steps, each with its own formula: in the Iliad the one voyage the poem narrates, the return of Chryseis, and in the Odyssey the voyages of Telemachus and of Odysseus.
+summary: Launching, sailing, landing and beaching, told as a fixed sequence of steps, each with its own formula: in the Iliad the one voyage the poem narrates, the return of Chryseis, and in the Odyssey the voyages of Telemachus and of Odysseus, and those of Nestor and Menelaus in Nestor's tale of the returns.
 aliases: [sailing type-scene, voyage scene, landing scene]
 refs: [1.308-312, 1.432-439, 1.477-487]
 passages:

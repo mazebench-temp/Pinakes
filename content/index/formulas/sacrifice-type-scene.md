@@ -28,6 +28,6 @@ The rite divides the animal. The thigh-bones in their fat go up in smoke to the 
 
 ## Elsewhere in Homer
 
-Nestor's sacrifice to Athena at Pylos is the fullest in Homer (Odyssey 3.430–463). The victim's horns are gilded, hairs from its head are thrown into the fire, the women raise the ritual cry at the blow, and Athena comes in person to receive the rites. There the old man who “burned them on split wood” is Nestor.
+The fullest sacrifice in Homer is Nestor's to Athena at Pylos, told in many of the verses of the sacrifice at Chryse (*Odyssey* 3.418–463; see [[the-sacrifice-to-athena]]).
 
-When Odysseus' men kill the cattle of the Sun, they have no barley or wine, and use oak leaves and water instead (Odyssey 12.356–365). The fixed verses make the missing things conspicuous.
+When Odysseus' men kill the cattle of the Sun, they have no barley or wine, and use oak leaves and water instead (*Odyssey* 12.356–365). The fixed verses make the missing things conspicuous.

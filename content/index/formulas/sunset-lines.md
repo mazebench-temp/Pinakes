@@ -5,7 +5,7 @@ kind: formula
 tags: [type-scene, time]
 summary: The formulas for sunset and the end of day, built on ἠέλιος κατέδυ, “the sun went down,” and in the Odyssey also on ἕσπερος, “evening”. They close days of feasting, fighting and work, and lead to supper and sleep.
 aliases: [sunset formula, nightfall]
-grc: [ἠέλιος κατέδυ, ἠελίῳ καταδύντι, ἠέλιον καταδύντα, κατέδυ λαμπρὸν φάος ἠελίοιο]
+grc: [ἠέλιος κατέδυ, ἠελίῳ καταδύντι, ἠέλιον καταδύντα, κατέδυ λαμπρὸν φάος ἠελίοιο, "ἐπὶ κνέφας ἦλθε"]
 en: [went down, darkness came on, was setting, had set]
 ---
 

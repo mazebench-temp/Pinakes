@@ -5,7 +5,7 @@ kind: epithet
 tags: [sacrifice]
 summary: “Holy, sacred”: an epithet of what belongs to the gods, their rites, victims and places.
 aliases: [sacred, holy hecatomb]
-grc: [ἱερὴν, "!^Ἱρήν"]
+grc: [ἱερὴν, "!^Ἱρήν", "ἱερὰς ἑκατόμβας", "ἱεροῖς ἐπὶ βωμοῖς", "Σούνιον ἱρὸν"]
 en: [holy, sacred]
 of: [hecatomb, thebe, altar, onchestus, euboea, echinae, troy, temple]
 ---

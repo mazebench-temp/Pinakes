@@ -1,0 +1,5 @@
+---
+summary: The poem first names Amphitrite in Telemachus' first speech to Nestor, where he does not know whether his father was brought down on the mainland by hostile men “or on the open sea among the waves of Amphitrite” (3.90–91).
+---
+
+**The waves of Amphitrite.** Telemachus asks Nestor for any word of his father's death, since “no one can tell plainly where he has perished, / whether he was brought down on the mainland by hostile men / or on the open sea among the waves of Amphitrite” (3.89–91; see [[odysseus]] and [[telemachus]]). μετὰ κύμασιν is “in the midst of the waves”, as the Iliad's μεθʼ αἵματι καὶ κονίῃσιν, “among the blood and the dust” (*Iliad* 15.118; Merry, *Commentary on the Odyssey*, 1886, on 3.91). The waves are Amphitrite's, the sea itself, and not Poseidon's, at whose feast on the shore the words are spoken (3.43–44; see [[poseidon]] and the general article). In Book 1 Telemachus had said that the Harpies had snatched his father away “without report” (1.241; see [[harpies]]); here he names the two deaths a man may die far from home, by enemies on land or at sea, and asks which it was.

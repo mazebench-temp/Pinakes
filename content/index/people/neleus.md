@@ -3,7 +3,7 @@ title: Neleus
 greek: Νηλεύς
 kind: person
 tags: [king, pylian]
-summary: King of Pylos and father of [[Nestor]], a son of Poseidon by Tyro. The Iliad names him mostly in his son's patronymics, and in Nestor's story of the war with the Epeians in his youth (11.670–761).
+summary: King of Pylos and father of [[Nestor]], a son of Poseidon by Tyro. Homer names him mostly in his son's patronymics; in the Iliad Nestor remembers him alive in the war with the Epeians, and in the Odyssey the polished stones before Nestor's doors were once his seat.
 grc: [Νηληΐῳ]
 relations:
   - child: nestor (2.20)
@@ -13,4 +13,4 @@ relations:
 
 ## Elsewhere in Homer
 
-Nestor tells how Heracles sacked Pylos and killed all of Neleus' twelve sons except himself (Iliad 11.690–693; see [[heracles-sacks-pylos]]), and how Augeas of Elis kept a team of four prize horses that Neleus had sent to race for a tripod, so that Neleus took a great herd of cattle and sheep in return (11.696–705). In the Odyssey Neleus is a son of Poseidon by Tyro, and the twin of Pelias (11.235–259). His wife Chloris bore him Nestor, Chromius, Periclymenus and a daughter, Pero (Odyssey 11.281–297).
+Nestor tells how Heracles sacked Pylos and killed all of Neleus' twelve sons except himself (Iliad 11.690–693; see [[heracles-sacks-pylos]]), and how Augeas of Elis kept a team of four prize horses that Neleus had sent to race for a tripod, so that Neleus took a great herd of cattle and sheep in return (11.696–705). In the Odyssey Neleus is a son of Poseidon by Tyro, and the brother of Pelias (*Odyssey* 11.235–259). His wife Chloris bore him Nestor, Chromius, Periclymenus and a daughter, Pero (*Odyssey* 11.281–297). Pylos is “the well-built citadel of Neleus”, and the polished stones before Nestor's doors were his seat before he went down to Hades (*Odyssey* 3.4, 3.406–410).

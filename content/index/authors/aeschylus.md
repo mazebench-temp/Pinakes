@@ -10,3 +10,4 @@ Aeschylus fought at Marathon. Seven of his plays survive, among them the *Oreste
 
 - The omen of the eagles and the hare at Aulis, set against Homer's portent of the serpent and the sparrows: [[aeschylus-aulis]].
 - Plato's Socrates, rejecting the lying Dream of Iliad 2, rejects in the same breath a lost Aeschylean passage in which Thetis accuses Apollo of deceit: [[plato-lying-dream]].
+- The *Oresteia* against Nestor's account of the murder and the vengeance in *Odyssey* 3: the queen who plans and strikes, Aegisthus the “cowardly lion” who kept house, and Orestes come home from Phocis, who goes to Athens only after killing his mother: [[the-murder-of-agamemnon-in-tragedy]].

@@ -15,7 +15,7 @@ relations:
 
 {{quote:d35f199d-5156-58a1-a344-61e89f21f231}}
 
-Zeus, listing his loves, names “Danae of the lovely ankles, daughter of Acrisius, / who bore Perseus, preeminent among all men” (14.319–320; see [[danae]], [[acrisius]] and [[the-loves-of-zeus]]). It is all that the Iliad tells of him. His line appears once more, in Book 19, where Eurystheus, born early by Hera's contrivance to rule the Argives, is “child of Sthenelus the son of Perseus”, of the blood of Zeus (19.116, 19.123; see [[eurystheus]], [[sthenelus-son-of-perseus]] and [[the-birth-of-heracles]]). The Odyssey's Perseus, a son of Nestor, is another man (*Odyssey* 3.414, 3.444).
+Zeus, listing his loves, names “Danae of the lovely ankles, daughter of Acrisius, / who bore Perseus, preeminent among all men” (14.319–320; see [[danae]], [[acrisius]] and [[the-loves-of-zeus]]). It is all that the Iliad tells of him. His line appears once more, in Book 19, where Eurystheus, born early by Hera's contrivance to rule the Argives, is “child of Sthenelus the son of Perseus”, of the blood of Zeus (19.116, 19.123; see [[eurystheus]], [[sthenelus-son-of-perseus]] and [[the-birth-of-heracles]]). [[perseus-son-of-nestor|The Odyssey's Perseus]], a son of Nestor, is another man (*Odyssey* 3.414, 3.444).
 
 {{notes}}
 

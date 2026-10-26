@@ -1,0 +1,6 @@
+---
+summary: Proclus makes the singer who guarded Clytemnestra the third of Homer's singers, after the inspired Demodocus and the knowing Phemius: an imitative singer with right opinion, whose songs of self-control kept the queen from wrongdoing as long as he was with her. He also quotes Athena's “and in others a god too will give you counsel” for the daemon who moves the impulses within us.
+---
+
+- The singer of Clytemnestra, “an imitative one, as it seems, using right opinion”, who held out to the woman the songs of self-control: “and there was also a singer beside her, and many were the charges / the son of Atreus gave him, as he left for Troy”; as long as she had his company, Proclus says, Clytemnestra did nothing unholy, since his educative songs chastened her irrational life (*On the Republic* I 194 Kroll, quoting 3.267–268): [[the-singer-of-clytemnestra]], [[demodocus]] and [[phemius]].
+- “And in others a god too will give you counsel” (3.27), with Penelope's “a god first breathed the robe into my mind” (19.138, a plain rendering) and Phoenix's “let no god / turn you that way, my friend” (*Iliad* 9.600–601), among Homer's words for the daemon who governs the impulses within us, as fortune governs what lies outside (*On the Republic* II 298 Kroll): [[some-things-you-will-think-of-yourself]] and [[daimon]].

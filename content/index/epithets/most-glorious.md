@@ -3,9 +3,9 @@ title: Most glorious
 greek: κύδιστος
 kind: epithet
 tags: [heroic-epithet]
-summary: A superlative of honor, “most glorious,” used in address to kings and to Zeus.
+summary: A superlative of honor, “most glorious,” used in address to kings and to Zeus, and of Athena in the verse-end κυδίστη Τριτογένεια.
 aliases: [kydistos]
-grc: [κύδιστε]
+grc: [κύδιστε, κυδίστη]
 en: [most glorious]
 of: [agamemnon, zeus]
 ---

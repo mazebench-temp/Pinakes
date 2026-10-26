@@ -1,0 +1,500 @@
+# Homer, Odyssey, Book 3 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	And the sun sprang up, leaving the beautiful water,
+2	into the brazen sky, to give light to the immortals
+3	and to mortal men upon the grain-giving earth;
+4	and they came to Pylos, the well-built citadel of Neleus.
+5	There on the shore of the sea the people were offering sacrifice,
+6	bulls all black, to the dark-haired earth-shaker.
+7	There were nine companies, and in each five hundred men
+8	were seated, and in each company they held nine bulls before them.
+9	When they had tasted the entrails and were burning the thigh-pieces on the altar for the god,
+10	the others put straight in to land, and the sails of the balanced ship
+11	they hauled up and furled, and anchored her, and stepped out themselves.
+12	And Telemachus stepped out of the ship, and Athena went before him.
+13	The gray-eyed goddess Athena spoke to him first:
+14	“Telemachus, you have no more need of shame, not even a little;
+15	for this is why you have sailed over the sea, to learn
+16	of your father, where the earth hid him and what fate he has met.
+17	But come now, go straight to Nestor, tamer of horses;
+18	let us learn what counsel he keeps hidden in his breast.
+19	And you yourself must beg him to tell you truly;
+20	he will not tell a lie, for he is very wise.”
+21	And wise Telemachus answered her face to face:
+22	“Mentor, how then shall I go? How shall I greet him?
+23	I am not yet practiced at all in shrewd words,
+24	and there is shame for a young man in questioning an older one.”
+25	Then the gray-eyed goddess Athena spoke to him in turn:
+26	“Telemachus, some things you will think of yourself in your own mind,
+27	and in others a god too will give you counsel; for I do not think
+28	that you were born and bred against the will of the gods.”
+29	So she spoke, and Pallas Athena led the way
+30	swiftly; and he followed in the footprints of the goddess.
+31	And they came to the gathering and the seats of the Pylian men,
+32	where Nestor sat with his sons, and around them his companions,
+33	making ready the feast, were roasting meat and threading more on spits.
+34	And when they saw the strangers, they all came together,
+35	and welcomed them with their hands, and bade them sit down.
+36	First Peisistratus, son of Nestor, came close
+37	and took them both by the hand and seated them at the feast
+38	on soft fleeces on the sands of the sea,
+39	beside his brother Thrasymedes and his father;
+40	and he gave them portions of the entrails, and poured wine
+41	into a golden cup, and pledging her he spoke
+42	to Pallas Athena, daughter of aegis-bearing Zeus:
+43	“Pray now, stranger, to lord Poseidon;
+44	for it is his feast you have come upon in coming here.
+45	And when you have poured libation and prayed, as is the custom,
+46	then give this man too the cup of honey-sweet wine
+47	to pour libation, since I think that to the immortals he as well
+48	prays; and all men have need of the gods.
+49	But he is younger, of an age with me myself;
+50	so I will give the golden goblet to you first.”
+51	So saying, he put the cup of sweet wine in her hand;
+52	and Athena rejoiced in the wise and just man,
+53	because he gave the golden goblet to her first;
+54	and at once she prayed earnestly to lord Poseidon:
+55	“Hear me, Poseidon, earth-holder, and do not begrudge
+56	us, as we pray, the accomplishing of these things.
+57	To Nestor first of all and to his sons grant glory,
+58	and then to the others give a gracious return,
+59	to all the Pylians, for this famous hecatomb.
+60	And grant also that Telemachus and I may return when we have done the business
+61	for which we came here in our swift black ship.”
+62	So she prayed, and she herself was bringing it all to pass.
+63	And she gave Telemachus the fine two-handled cup,
+64	and in the same way the dear son of Odysseus prayed.
+65	And when they had roasted the outer flesh and drawn it off,
+66	they divided the portions and feasted on a glorious feast.
+67	But when they had put away the desire for drink and food,
+68	the Gerenian horseman Nestor began to speak among them:
+69	“Now it is more fitting to question and to ask
+70	the strangers who they are, now that they have taken their fill of food.
+71	Strangers, who are you? From where do you sail the watery ways?
+72	Is it on some business, or do you wander at random
+73	over the sea, like pirates, who wander
+74	staking their lives and bringing evil to foreigners?”
+75	And wise Telemachus answered him face to face,
+76	taking heart; for Athena herself had put daring in his mind,
+77	so that he might ask him about his absent father,
+78	and so that noble fame may be his among men:
+79	“Nestor, son of Neleus, great glory of the Achaeans,
+80	you ask where we are from; and I will recount it to you.
+81	We have come from Ithaca under Neion;
+82	and this business I speak of is private, not public.
+83	I am in quest of the wide report of my father, if I may hear of it somewhere,
+84	of brilliant Odysseus the stout-hearted, who once, they say,
+85	fighting at your side sacked the city of the Trojans.
+86	For of all the others, as many as fought against the Trojans,
+87	we have heard where each one perished by a grim destruction;
+88	but of that man the son of Cronus has made even the destruction unknown.
+89	For no one can tell plainly where he has perished,
+90	whether he was brought down on the mainland by hostile men
+91	or on the open sea among the waves of Amphitrite.
+92	That is why I come now to your knees, in the hope that you may be willing
+93	to tell me of his grim destruction, if perhaps you saw it
+94	with your own eyes, or heard word of him from someone else
+95	as he wandered; for beyond all men his mother bore him to misery.
+96	And do not soften anything out of respect for me, or out of pity,
+97	but tell me in full how you came upon the sight of him.
+98	I beg you, if ever my brave father Odysseus
+99	promised you any word or deed and fulfilled it
+100	in the land of the Trojans, where you Achaeans suffered woes,
+101	remember these things now for me, and tell me truly.”
+102	Then the Gerenian horseman Nestor answered him:
+103	“My friend, since you have reminded me of the misery that we endured
+104	in that land, we sons of the Achaeans, uncontrollable in our might,
+105	both all that we bore with our ships over the misty sea,
+106	roaming after plunder wherever Achilles led,
+107	and all the battles around the great city of lord Priam
+108	that we fought; and there all our best were killed.
+109	There lies warlike Ajax, there Achilles,
+110	there Patroclus, a counselor equal to the gods,
+111	and there my own dear son, at once strong and noble,
+112	Antilochus, swift beyond others in running, and a fighter;
+113	and many other evils we suffered besides; who could ever
+114	tell them all, of mortal men?
+115	Not even if you stayed five years, or six,
+116	and asked about all the evils the brilliant Achaeans suffered there:
+117	you would grow weary first and go home to your native land.
+118	For nine years we stitched evils together for them, busy all around them
+119	with tricks of every kind, and the son of Cronus barely brought it to an end.
+120	There no man ever wished to match himself with him in counsel to his face,
+121	since brilliant Odysseus far surpassed them
+122	in tricks of every kind, your father, if truly
+123	you are his offspring; awe holds me as I look at you.
+124	For truly your words are like his, and you would not say
+125	that a younger man would speak so like him.
+126	There, all that time, I and brilliant Odysseus
+127	never spoke at odds, in the assembly or in the council,
+128	but with one heart, with mind and thoughtful counsel,
+129	we considered for the Argives how all might turn out best by far.
+130	But when we had sacked the steep city of Priam
+131	and gone aboard the ships, and a god scattered the Achaeans,
+132	then indeed Zeus devised in his mind a grim homecoming
+133	for the Argives, since in no way discerning or just
+134	were they all; so many of them met an evil fate
+135	through the deadly wrath of the gray-eyed daughter of the mighty father,
+136	who set strife between the two sons of Atreus.
+137	And the two of them called all the Achaeans to assembly,
+138	idly and against all order, at the setting of the sun,
+139	and the sons of the Achaeans came heavy with wine,
+140	and the two told them the word for which they had gathered the army.
+141	Then Menelaus bade all the Achaeans
+142	to think of their homecoming over the broad back of the sea,
+143	but it did not please Agamemnon at all; for he wished
+144	to hold back the army and offer holy hecatombs,
+145	so that he might heal the terrible anger of Athena,
+146	the fool, and he did not know that she would not be persuaded;
+147	for the mind of the gods who live forever is not quickly turned.
+148	So the two of them, answering each other with harsh words,
+149	stood there; and the well-greaved Achaeans sprang up
+150	with a wondrous din, and they were divided in their counsel.
+151	We spent the night pondering harsh things in our minds
+152	against one another; for Zeus was preparing a bane of evil for us;
+153	and at dawn some of us dragged our ships down into the shining sea
+154	and put our possessions on board, and the deep-girdled women.
+155	But half of the army halted and stayed
+156	there beside Agamemnon, son of Atreus, shepherd of the people;
+157	and half of us embarked and rowed away; and very swiftly
+158	the ships sailed, and a god made smooth the vast-gulfed sea.
+159	And when we came to Tenedos we offered sacrifice to the gods,
+160	eager to go home; but Zeus was not yet devising our homecoming,
+161	the hard god, who roused evil strife against us once more, a second time.
+162	Some turned back and went off in their curving ships
+163	with lord Odysseus, wise-hearted, of subtle wiles,
+164	to do a kindness once more to Agamemnon, son of Atreus;
+165	but I, with all the ships that followed me in a body,
+166	fled, since I knew that a god was devising evil.
+167	And the warlike son of Tydeus fled, and roused his companions.
+168	And late, after us two, came fair-haired Menelaus,
+169	and he overtook us in Lesbos as we pondered the long voyage,
+170	whether we should go home above rocky Chios,
+171	by the island of Psyria, keeping it on our left,
+172	or below Chios, past windy Mimas.
+173	And we asked the god to show us a sign; and he
+174	showed us one, and bade us cut across the middle of the open sea to Euboea,
+175	so that we might escape from evil as quickly as we could.
+176	And a shrill fair wind rose to blow; and very swiftly
+177	the ships ran over the fish-filled ways, and at Geraestus
+178	they put in by night; and for Poseidon, of bulls,
+179	we laid many thigh-pieces on the altar, having measured the great open sea.
+180	It was the fourth day when in Argos the balanced ships
+181	of the companions of Diomedes, son of Tydeus, tamer of horses,
+182	were moored; but I held on for Pylos, and the fair wind never
+183	died down, once the god had first sent it forth to blow.
+184	So I came, dear child, without tidings, and I know nothing
+185	of those, which of the Achaeans were saved and which perished.
+186	But all that I have heard as I sit in our halls
+187	you shall learn, as is the custom, and I will not hide it from you.
+188	They say that the Myrmidons, fighters with the spear, came home safely,
+189	whom the shining son of great-hearted Achilles led,
+190	and safely Philoctetes, the splendid son of Poias.
+191	And Idomeneus brought all his companions back to Crete,
+192	all who had escaped from the war, and the sea took none of them from him.
+193	Of the son of Atreus you yourselves have heard, far off though you are,
+194	how he came, and how Aegisthus devised a grim destruction for him.
+195	But truly that man paid for it miserably;
+196	how good a thing it is for a son to be left behind by a man
+197	who has perished, since that son too took vengeance on his father's slayer,
+198	scheming Aegisthus, who had killed his famous father.
+199	You too, my friend—for I see that you are very handsome and tall—
+200	be valiant, so that some one of those born hereafter may speak well of you.”
+201	And wise Telemachus answered him face to face:
+202	“Nestor, son of Neleus, great glory of the Achaeans,
+203	yes, truly that son took vengeance, and the Achaeans
+204	will carry his fame wide, even for men to come to hear of.
+205	If only the gods would clothe me with such strength,
+206	to take vengeance on the suitors for their grievous transgression,
+207	who treat me with outrage and devise reckless deeds.
+208	But the gods have spun no such prosperity for me,
+209	for my father and for me; and now I must endure it all the same.”
+210	Then the Gerenian horseman Nestor answered him:
+211	“My friend, since you have reminded me of this and spoken of it,
+212	they say that many suitors, for your mother's sake,
+213	devise evils in your halls against your will;
+214	tell me, do you submit willingly, or do the people
+215	throughout the land hate you, following the voice of a god?
+216	Who knows if he will come someday and take vengeance on them for their violence,
+217	either he alone or all the Achaeans together?
+218	If only gray-eyed Athena were willing to love you
+219	as she cared then for glorious Odysseus
+220	in the land of the Trojans, where we Achaeans suffered sorrows—
+221	for never yet have I seen the gods show love so openly
+222	as Pallas Athena openly stood beside him—
+223	if she were willing to love you so and care for you in her heart,
+224	then one or another of those men would forget all about marriage.”
+225	And wise Telemachus answered him face to face:
+226	“Old man, I do not think this word will ever be fulfilled;
+227	for you have said too great a thing; amazement holds me. Not for me,
+228	for all my hoping, would these things happen, not even if the gods so willed.”
+229	Then the gray-eyed goddess Athena spoke to him in turn:
+230	“Telemachus, what a word has escaped the barrier of your teeth!
+231	A god, if he wished, could easily save a man even from far away.
+232	And I for my part would rather, even after toiling through many sorrows,
+233	come home and see the day of my homecoming,
+234	than come home and perish at my own hearth, as Agamemnon
+235	perished by the guile of Aegisthus and of his own wife.
+236	But death, which is common to all, not even the gods
+237	can ward off from a man they love, whenever
+238	the deadly fate of death that lays men low takes him down.”
+239	And wise Telemachus answered her face to face:
+240	“Mentor, let us no longer talk like this, grieved though we are;
+241	for him there is no longer any true homecoming, but already
+242	the immortals have devised for him death and black doom.
+243	But now I wish to question and to ask another thing
+244	of Nestor, since beyond all others he knows judgments and wisdom;
+245	for they say he has been king for three generations of men,
+246	and he appears to me like an immortal to look upon.
+247	Nestor, son of Neleus, tell me the truth:
+248	how did the son of Atreus die, wide-ruling Agamemnon?
+249	Where was Menelaus? What destruction did he devise for him,
+250	scheming Aegisthus, since he killed a far better man?
+251	Was he not in Achaean Argos, but somewhere else
+252	wandering among men, so that the other took heart and killed him?”
+253	Then the Gerenian horseman Nestor answered him:
+254	“Well then, my child, I will tell you all the truth.
+255	You yourself can surely guess how it would have turned out,
+256	if he had found Aegisthus alive in the halls,
+257	the son of Atreus, coming from Troy, fair-haired Menelaus:
+258	then they would not have heaped up the loose earth over him even in death,
+259	but the dogs and the birds would have devoured him
+260	as he lay on the plain far from the city, and no one
+261	of the Achaean women would have wept for him; for very great was the deed he devised.
+262	For we were there, toiling through many trials,
+263	and sat there; but he, undisturbed, in a corner of horse-pasturing Argos,
+264	kept bewitching the wife of Agamemnon with many words.
+265	And at first she refused the shameful deed,
+266	brilliant Clytemnestra; for her mind was good;
+267	and there was also a singer beside her, and many were the charges
+268	the son of Atreus gave him, as he left for Troy, to guard his wife.
+269	But when the fate of the gods fettered her to be overcome,
+270	then he took the singer away to a desert island
+271	and left him there to become the prey and spoil of birds,
+272	and, willing, he led her, willing, to his own house.
+273	And he burned many thigh-pieces on the holy altars of the gods,
+274	and hung up many offerings, woven things and gold,
+275	having accomplished a great deed, which he had never expected in his heart.
+276	Now we were sailing together on our way from Troy,
+277	the son of Atreus and I, with friendly hearts toward one another;
+278	but when we came to holy Sunium, the cape of Athens,
+279	there Phoebus Apollo came upon Menelaus' helmsman
+280	with his gentle arrows and killed him,
+281	as he held the steering oar of the speeding ship in his hands,
+282	Phrontis, son of Onetor, who surpassed the tribes of men
+283	in steering a ship whenever storms rushed on.
+284	So he was held back there, eager though he was for his journey,
+285	to bury his companion and give him funeral rites.
+286	But when he too, going over the wine-dark sea
+287	in the hollow ships, reached in his running the steep mountain of Malea,
+288	then far-seeing Zeus devised a hateful journey for him
+289	and poured on him the breath of shrill winds,
+290	and the waves swelled huge, like mountains.
+291	There he split the fleet, and some he drove to Crete,
+292	where the Cydonians lived about the streams of the Iardanus.
+293	There is a smooth rock, steep to the sea,
+294	at the far edge of Gortyn, in the misty sea;
+295	there the South Wind drives the great wave against the left headland,
+296	toward Phaestus, and a small rock holds back the great wave.
+297	These came there, and with difficulty escaped destruction,
+298	the men did, but the ships were smashed against the reefs
+299	by the waves; but the five dark-prowed ships
+300	the wind and the water carried and drove to Egypt.
+301	So he, gathering much substance and gold there,
+302	wandered with his ships among men of another tongue;
+303	and meanwhile Aegisthus devised these grim things at home,
+304	killing the son of Atreus, and the people were made subject to him;
+305	and for seven years he ruled over Mycenae rich in gold;
+306	but in the eighth brilliant Orestes came, an evil for him,
+307	back from Athens, and killed his father's slayer,
+308	scheming Aegisthus, who had killed his famous father.
+309	And when he had killed him he gave the Argives a funeral feast
+310	for his hateful mother and for the coward Aegisthus;
+311	and on the same day Menelaus, good at the war cry, came to him,
+312	bringing many possessions, as much as his ships could carry as their load.
+313	And you too, my friend, do not wander long far from your home,
+314	leaving your possessions behind, and men in your house
+315	so overbearing, lest they devour everything you have,
+316	dividing your possessions, and you have gone on a useless journey.
+317	But to Menelaus I urge and bid you
+318	to go; for he has lately come home from abroad,
+319	from men from whom no one would expect in his heart
+320	to come home, once the storms have driven him astray
+321	into a sea so great, from which not even the birds
+322	come back within the year, since it is so great and terrible.
+323	But go now with your ship and your companions;
+324	or if you wish to go by land, here are a chariot and horses for you,
+325	and here are my sons, who will be your escorts
+326	to shining Lacedaemon, where fair-haired Menelaus is.
+327	And you yourself must beg him to tell you truly;
+328	he will not tell a lie, for he is very wise.”
+329	So he spoke, and the sun went down and darkness came on.
+330	And among them spoke also the gray-eyed goddess Athena:
+331	“Old man, truly you have told all this fair and right;
+332	but come, cut out the tongues and mix the wine,
+333	so that to Poseidon and to the other immortals
+334	we may pour libations and then think of bed; for it is the hour.
+335	For already the light has gone down under the darkness, and it is not fitting
+336	to sit long at the feast of the gods, but to go home.”
+337	So spoke the daughter of Zeus, and they listened to her words.
+338	And the heralds poured water over their hands,
+339	and the young men filled the mixing bowls brim-full with drink,
+340	and served it out to all, first pouring drops for the libation into the cups.
+341	And they threw the tongues into the fire, and standing up poured libations over them.
+342	But when they had poured libations and drunk as much as their hearts desired,
+343	then Athena and godlike Telemachus
+344	were both eager to go back to the hollow ship.
+345	But Nestor held them back, and approached them with words:
+346	“May Zeus ward this off, and the other immortal gods,
+347	that you should go from my house to your swift ship
+348	as from a man altogether without clothing, and poor,
+349	who has no cloaks and blankets in plenty in his house
+350	for himself or his guests to sleep softly in.
+351	But I have cloaks and fine blankets.
+352	Surely the dear son of this man Odysseus will not
+353	lie down on the deck of a ship while I
+354	am alive, and after me my sons are left in the halls
+355	to entertain the guests, whoever comes to my house.”
+356	Then the gray-eyed goddess Athena spoke to him in turn:
+357	“You have spoken well in this, dear old man; and it is fitting
+358	that Telemachus should obey you, since it is much better so.
+359	So he shall go with you now, to sleep
+360	in your halls; but I will go to the black ship
+361	to encourage the companions and tell them each thing.
+362	For I claim to be the only older man among them;
+363	the others are younger men who follow out of friendship,
+364	all of an age with great-hearted Telemachus.
+365	There I will lie down by the hollow black ship
+366	tonight; but at dawn I will go to the great-hearted Caucones,
+367	where a debt is owed me, not a recent one at all
+368	nor a small one. And this man, since he has come to your house,
+369	send on with a chariot and your son; and give him horses,
+370	the nimblest of yours at running and the best in strength.”
+371	So she spoke, and gray-eyed Athena went away
+372	in the likeness of a sea eagle; and amazement seized all who saw it.
+373	And the old man marveled, when he saw it with his eyes;
+374	and he took Telemachus by the hand, and spoke to him, and called him by name:
+375	“My friend, I do not think you will be a coward and a weakling,
+376	if, young as you are, the gods go with you as your escorts.
+377	For this was no other of those who have their homes on Olympus,
+378	but the daughter of Zeus, most glorious Tritogeneia,
+379	who also honored your brave father among the Argives.
+380	But, queen, be gracious, and grant me noble fame,
+381	to me and my children and my revered wife;
+382	and I in turn will sacrifice to you a yearling heifer, broad of brow,
+383	unbroken, which no man has yet led under the yoke;
+384	I will sacrifice her to you, with gold poured around her horns.”
+385	So he spoke in prayer, and Pallas Athena heard him.
+386	And the Gerenian horseman Nestor led the way for them,
+387	his sons and his sons-in-law, to his beautiful house.
+388	And when they came to the famous house of that lord,
+389	they sat down in order on the chairs and the seats,
+390	and for them, when they had come, the old man mixed a bowl
+391	of wine sweet to drink, which in its eleventh year
+392	the housekeeper opened, and loosed its cover;
+393	of this the old man mixed a bowl, and earnestly to Athena
+394	he prayed as he poured the libation, to the daughter of aegis-bearing Zeus.
+395	But when they had poured libations and drunk as much as their hearts desired,
+396	they went to lie down, each to his own house,
+397	but the Gerenian horseman Nestor had him sleep there,
+398	Telemachus, the dear son of divine Odysseus,
+399	on a corded bed beneath the loud-resounding colonnade,
+400	and beside him Peisistratus of the good ash spear, leader of men,
+401	who of his sons was still a young unmarried man in his halls;
+402	and he himself slept in the inner part of the high house,
+403	and the lady his wife shared his bed and couch.
+404	And when early-born Dawn appeared, the rosy-fingered,
+405	the Gerenian horseman Nestor rose from his bed,
+406	and went out and sat down on the polished stones
+407	which stood before his high doors,
+408	white, shining with oil; on them in former days
+409	Neleus used to sit, a counselor equal to the gods;
+410	but he had already been overcome by his doom and gone to the house of Hades,
+411	and now Nestor in his turn sat on them, the Gerenian, the guardian of the Achaeans,
+412	holding the scepter. And around him his sons gathered in a body,
+413	coming from their chambers, Echephron and Stratius
+414	and Perseus and Aretus and godlike Thrasymedes,
+415	and then the hero Peisistratus came to them as the sixth,
+416	and they brought godlike Telemachus and seated him beside them.
+417	And among them the Gerenian horseman Nestor began to speak:
+418	“Quickly, dear children, fulfill my wish,
+419	so that first of all the gods I may propitiate Athena,
+420	who came to me in plain sight at the rich feast of the god.
+421	But come, let one go to the plain for a heifer, so that she may come
+422	as soon as may be, and the herdsman of the cattle drive her here;
+423	and let one go to the black ship of great-hearted Telemachus
+424	and bring all his companions, and leave two only;
+425	and let one in turn call the goldsmith Laerces to come
+426	here, so that he may pour gold around the heifer's horns.
+427	And you others stay here together, and tell the slave women
+428	inside to prepare a feast throughout the famous house,
+429	and to bring seats and wood all about, and bright water.”
+430	So he spoke, and they all bustled about. The heifer came
+431	from the plain, and from the swift balanced ship came
+432	the companions of great-hearted Telemachus, and the smith came
+433	holding in his hands his smith's tools, the instruments of his craft,
+434	anvil and hammer and well-made tongs,
+435	with which he worked the gold; and Athena came
+436	to share in the sacrifice. And the old horse-driving Nestor
+437	gave the gold; and the smith then poured it around the heifer's horns,
+438	working it with skill, so that the goddess might rejoice to see the offering.
+439	And Stratius and brilliant Echephron led the heifer by the horns.
+440	And Aretus brought them water for the hands in a flowered basin,
+441	coming from the chamber, and in his other hand he held the barley grains
+442	in a basket; and Thrasymedes, steadfast in battle,
+443	stood by, holding a sharp axe in his hand, to strike the heifer down.
+444	And Perseus held the bowl for the blood; and the old horse-driving Nestor
+445	began the rite with the water for the hands and the barley grains, and earnestly to Athena
+446	he prayed as he made the first offering, throwing hairs from the victim's head into the fire.
+447	And when they had prayed and scattered the barley grains,
+448	at once the son of Nestor, high-hearted Thrasymedes,
+449	standing close, struck; and the axe cut through the sinews
+450	of the neck, and loosed the strength of the heifer. And the women raised the cry,
+451	his daughters and his sons' wives and the revered wife
+452	of Nestor, Eurydice, eldest of the daughters of Clymenus.
+453	Then they lifted the heifer's head from the wide-wayed earth
+454	and held her; and Peisistratus, leader of men, cut her throat.
+455	And when the black blood had flowed from her, and the spirit had left her bones,
+456	quickly they jointed her, and at once cut out the thigh-pieces
+457	all in good order, and wrapped them in fat,
+458	making a double fold, and laid raw flesh upon them.
+459	The old man burned them on split wood, and over them poured
+460	sparkling wine; and young men beside him held five-pronged forks in their hands.
+461	But when the thigh-pieces were burned up and they had tasted the entrails,
+462	they cut up the rest and threaded it on spits,
+463	and roasted it, holding the sharp-pointed spits in their hands.
+464	Meanwhile lovely Polycaste bathed Telemachus,
+465	the youngest daughter of Nestor, son of Neleus.
+466	And when she had bathed him and anointed him richly with olive oil,
+467	and put a fine mantle and a tunic around him,
+468	he stepped out of the bathtub, like the immortals in form;
+469	and he went and sat down beside Nestor, shepherd of the people.
+470	And when they had roasted the outer flesh and drawn it off,
+471	they sat and feasted; and good men stood by to serve,
+472	pouring wine into golden cups.
+473	But when they had put away the desire for drink and food,
+474	among them the Gerenian horseman Nestor began to speak:
+475	“My sons, come, bring fine-maned horses for Telemachus
+476	and yoke them under the chariot, so that he may make his way.”
+477	So he spoke, and they listened closely to him and obeyed,
+478	and quickly they yoked the swift horses under the chariot.
+479	And a woman, the housekeeper, put bread and wine in it,
+480	and meats, such as kings whom Zeus has nurtured eat.
+481	And Telemachus mounted the beautiful chariot;
+482	and beside him Peisistratus, son of Nestor, leader of men,
+483	mounted the chariot and took the reins in his hands,
+484	and whipped them to a run, and the pair flew on not unwilling
+485	to the plain, and left the steep citadel of Pylos behind.
+486	And all day long they shook the yoke, holding it on either side.
+487	And the sun set, and all the streets grew dark;
+488	and they came to Pherae, to the house of Diocles,
+489	son of Ortilochus, whom Alpheus begot as his son.
+490	There they spent the night, and he set good cheer before them.
+491	And when early-born Dawn appeared, the rosy-fingered,
+492	they yoked the horses and mounted the inlaid chariot,
+493	and drove out from the doorway and the loud-resounding colonnade.
+494	And he whipped them to a run, and the pair flew on not unwilling.
+495	And they came to the wheat-bearing plain, and there then
+496	they were finishing their journey; so well did the swift horses carry them on.
+497	And the sun set, and all the streets grew dark.

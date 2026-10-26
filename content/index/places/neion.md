@@ -3,10 +3,11 @@ title: Neion
 greek: Νήιον
 kind: place
 tags: [mountain, ionian-islands]
-summary: The wooded mountain of Ithaca under which, Mentes says, his ship lies in the harbor of Rheithron (*Odyssey* 1.186). Whether it is another name for Neritum, the island's great mountain, was already uncertain to Strabo.
+summary: A wooded mountain of Ithaca, named twice in the Odyssey, as the landmark of the harbor of Rheithron (*Odyssey* 1.186) and in Telemachus' “Ithaca under Neion” (*Odyssey* 3.81). Whether it is another name for Neritum, the island's great mountain, was already uncertain to Strabo.
 aliases: [Neium]
 # Νηίῳ (Od. 1.186), capitalized only: νήϊον "ship-timber" (Il. 3.62, 13.391, 15.410, 16.484, 17.744) has the same letters.
-grc: ["^Νηίῳ"]
+# ὑπονηίου, "under Neion" (Od. 3.81), the adjective, found only there; Murray prints it without the diaeresis.
+grc: ["^Νηίῳ", ὑπονηίου]
 ---
 
 ## In Homer

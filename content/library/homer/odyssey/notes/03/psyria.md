@@ -1,0 +1,7 @@
+---
+summary: At Lesbos Nestor, Diomedes and Menelaus ponder whether to go home “above rocky Chios, / by the island of Psyria, keeping it on our left” (3.170–171), the course across the open sea that the god's sign then commands.
+---
+
+Psyria marks the outer of the two courses debated at Lesbos: “whether we should go home above rocky Chios, / by the island of Psyria, keeping it on our left, / or below Chios, past windy Mimas” (3.170–172; see [[chios]], [[mimas]] and [[lesbos]]). Merry follows it on the map. Geraestus, the southern point of Euboea, lies some 150 miles southwest of Lesbos, and the straight course to it passes well to the northwest of Chios but keeps as close as possible to the northwest coast of Psyria; this is the δολιχὸς πλόος, “the long voyage”, of 3.169, shorter than the way round by the islands but longer without a port (Merry, *Commentary on the Odyssey*, 1886, on 3.169; see [[geraestus]]).
+
+ἐπὶ Ψυρίης could mean “in the direction of Psyria”, a rare sense of ἐπί with the genitive, which Merry finds in the cranes' flight toward the streams of Ocean (*Iliad* 3.5); he prefers “close by the island of Psyria, having the island itself on our left”, with αὐτήν emphatic, so that the ships do not merely pass within sight of it, and the translation follows him (see the translation's note on 3.171). The scholia, he reports, were unsure whether αὐτήν is Psyria or Chios (Merry on 3.169). The god's sign settles the question: “cut across the middle of the open sea to Euboea” (3.174–175; see [[euboea]] and [[teras]]).

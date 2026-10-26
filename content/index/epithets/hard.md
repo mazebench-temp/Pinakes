@@ -3,7 +3,7 @@ title: Hard
 greek: σχέτλιος
 kind: epithet
 tags: [insult, speech]
-summary: “Hard, unrelenting,” a word of reproach for gods and men who will not give way: for Zeus in Agamemnon's complaint and in Athena's, for Heracles, for Achilles and Hector, and once for the gods themselves.
+summary: “Hard, unrelenting,” a word of reproach, said of or to gods and men who will not give way: Zeus above all, the gods, Heracles, Achilles and Hector, and in the Odyssey the Cyclops and Odysseus himself.
 aliases: [schetlios, cruel, unrelenting, hard-hearted, wretched]
 grc: ["σχετλι*"]
 en: [hard, wretched]

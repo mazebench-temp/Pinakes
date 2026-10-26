@@ -34,7 +34,7 @@ The renderings of books other than the second here are plain renderings, not the
 
 ## Elsewhere in Homer
 
-**At Pylos.** The goddess is still Mentor when the ship comes in to Pylos, and Telemachus calls her by his name, “Mentor, how shall I go?” (*Odyssey* 3.22, 3.240), until she leaves in the likeness of a bird (*Odyssey* 3.371–373; see [[the-journey-of-telemachus]]). In Ithaca Noemon is puzzled: he saw Mentor go on board as the leader of the crew, “or a god”, and yet he has since seen brilliant Mentor here in Ithaca (*Odyssey* 4.653–656).
+**At Pylos.** The goddess is still Mentor when the ship comes in to Pylos, and Telemachus calls her by his name, “Mentor, how then shall I go?” (*Odyssey* 3.22, 3.240), until she leaves in the likeness of a sea eagle (*Odyssey* 3.371–373; see [[the-journey-of-telemachus]]). In Ithaca Noemon is puzzled: he saw Mentor go on board as the leader of the crew, “or a god”, and yet he has since seen brilliant Mentor here in Ithaca (*Odyssey* 4.653–656).
 
 **In the hall.** On the day of the slaughter Athena comes to Odysseus in Mentor's likeness. Odysseus calls on “Mentor” to remember his dear companion and ward off ruin, and the suitor Agelaus threatens him with death; the goddess rebukes Odysseus for his faint heart and bids him watch how Mentor, son of Alcimus, repays kindness, then flies up to the roof-beam like a swallow, and Agelaus tells the suitors that Mentor has gone, after empty boasts (*Odyssey* 22.205–240, 22.249).
 

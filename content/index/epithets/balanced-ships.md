@@ -5,7 +5,7 @@ kind: epithet
 tags: [ship]
 summary: “Evenly built, balanced,” an epithet of [[ships]].
 aliases: [well-balanced, eise]
-grc: [ἐΐσας]
+grc: [ἐΐσας, "νηὸς ἐΐσης"]
 en: [balanced]
 of: [ships]
 ---

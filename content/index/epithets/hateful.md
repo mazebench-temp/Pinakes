@@ -5,7 +5,7 @@ kind: epithet
 tags: [warfare, fate]
 summary: “Hated, loathsome,” an epithet of war and death, of grief and of hateful things; from the same root as Styx.
 aliases: [loathsome, stygeros]
-grc: [στυγερῷ]
+grc: [στυγερῷ, στυγερὴν, στυγερῆς]
 en: [hateful]
 of: [ares, helen, erinyes]
 ---

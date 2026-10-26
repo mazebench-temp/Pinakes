@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, insult]
 summary: “Overbearing, arrogant,” a word of blame: of the Trojans in their enemies' mouths, of Diomedes in the complaint of Ares, and in the Odyssey the standing epithet of the suitors.
 aliases: [hyperphialos, arrogant, overweening]
-grc: [ὑπερφίαλον, ὑπερφίαλοι]
+grc: [ὑπερφίαλον, ὑπερφίαλοι, ὑπερφιάλους]
 en: [overbearing]
 of: [diomedes]
 ---

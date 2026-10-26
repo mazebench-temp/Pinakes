@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, patronymic, argive]
 summary: The patronymic of [[Diomedes]], from his father [[Tydeus]], one of the Seven against Thebes.
 aliases: [Tydeides]
-grc: [Τυδέος υἱόν]
+grc: [Τυδέος υἱόν, Τυδεΐδ*, "Τυδέος υἱός"]
 en: [son of Tydeus]
 of: [diomedes, tydeus]
 ---

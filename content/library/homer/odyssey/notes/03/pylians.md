@@ -1,0 +1,7 @@
+---
+summary: The strangers come upon the Pylians at their sacrifice to Poseidon, seated on the shore in nine companies, and Athena prays that the god give “a gracious return, / to all the Pylians, for this famous hecatomb” (3.5–8, 3.31, 3.58–59).
+---
+
+The book's first sight of Nestor's people is a whole city at a sacrifice: nine companies of five hundred men on the shore, with nine bulls before each company (3.5–8; see [[the-sacrifice-at-pylos]] and [[pylos]]). The strangers come “to the gathering and the seats of the Pylian men” (3.31): ἄγυρις, “gathering”, is any meeting of men, an informal one, as against ἀγορή, the assembly (Merry, *Commentary on the Odyssey*, 1886, on 3.31; see the translation's table of key words and [[assembly]]). The nine companies, Merry reports from the scholia, answer to the nine cities of Nestor's kingdom (Merry on 3.7).
+
+Athena, in the likeness of Mentor, prays for them as a people: “To Nestor first of all and to his sons grant glory, / and then to the others give a gracious return, / to all the Pylians, for this famous hecatomb” (3.57–59; see [[prayer]], [[hecatomb]] and [[reciprocity-with-the-gods]]). Merry joins ἀμοιβὴν ἑκατόμβης, “a return for the hecatomb”, and notes that eighty-one bulls are not strictly a hecatomb, a word used loosely of any large offering (on 3.58). The tenses set the gifts apart: the present imperatives ὄπαζε and δίδου, “grant” and “give”, ask for glory and a return that are to abide, and the aorist δός, “grant also”, for the one act of the strangers' safe return home (3.60; Merry on 3.57).

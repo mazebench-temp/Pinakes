@@ -7,6 +7,10 @@ interlinear reader can address any range of lines in either language. English sy
 runs across a line break; when that happens the words stay within the same one or two verses as the
 Greek.
 
+The Greek is printed as Perseus digitized Murray's text: slips are left in the text and recorded in
+the last section. The one change is the punctuation of 3.303, which the numbered order of 3.304–305
+requires (see the note on 3.303–305).
+
 American spelling is used throughout (“gray-eyed Athena”, “the wine-dark sea”). In this file a bare
 reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215).
 
@@ -92,6 +96,35 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | δμῳαί | slave women | (2.412), as in the Iliad and 1.147 |
 | ἀκραής, κελάδων | fresh, sounding | ἀκραῆ Ζέφυρον, κελάδοντʼ "a fresh West Wind, sounding" (2.421); κελάδων as *Iliad* 18.576 |
 | μεσόδμη | mast-box | (2.424) |
+| πρῆξις | business | κατὰ πρῆξιν "on some business" (3.72; a trading voyage, Merry on 3.72), πρῆξις … ἰδίη, οὐ δήμιος "this business … is private, not public" (3.82), πρήξαντα "when we have done the business" (3.60); the Iliad's οὐ γάρ τις πρῆξις is "there is no profit" (*Iliad* 24.524) |
+| μαψιδίως | wantonly; at random | "wantonly" (2.58); "at random" where it stands against κατὰ πρῆξιν, of men who wander over the sea (3.72; "idly", Merry on 3.73) |
+| ληϊστήρ / ἀλλοδαπός | pirate / foreigner | οἷά τε ληιστῆρες "like pirates" (3.73); ἀλλοδαποῖσι "to foreigners" (3.74), as *Iliad* 3.48; ἀλλόθροος is "of another tongue" (1.183, 3.302) |
+| θάρσος, θαρσύνω | daring, encourage | ἐνὶ φρεσὶ θάρσος … θῆχʼ "had put daring in his mind" (3.76–77), as *Iliad* 5.2; θαρσήσας "taking heart" (3.76, 3.252); θαρσύνω "encourage" (3.361), as *Iliad* 13.767 |
+| ἕδρα / ἄγυρις | company; seat / gathering | ἐννέα δʼ ἕδραι "nine companies" (3.7: the "messes" of the nine Pylian cities, Merry on 3.7); ἕδρας "seats" (3.31, 3.429); ἄγυρις "gathering" (3.31), kept apart from ἀγορή "assembly" |
+| σέβας | awe | σέβας μʼ ἔχει εἰσορόωντα "awe holds me as I look at you" (3.123; again 4.75, 4.142, 6.161, 8.384), the "amazement" at a likeness (Merry on 3.123), as σεβάσσατο "held back in awe" (*Iliad* 6.167); the Iliad's one σέβας is "shame" (18.178) |
+| ἄγη, θάμβος | amazement | ἄγη μʼ ἔχει "amazement holds me" (3.227); θάμβος δʼ ἕλε πάντας ἰδόντας "and amazement seized all who saw it" (3.372), as *Iliad* 3.342 |
+| μεγακήτης | vast-gulfed | μεγακήτεα πόντον "the vast-gulfed sea" (3.158); of ships "huge in the hull" (*Iliad* 8.222, 11.5, 11.600), of the dolphin "huge-bellied" (*Iliad* 21.22) |
+| ἀοιδός | singer | the singer who guarded Clytemnestra (3.267, 3.270), as Phemius (1.325, 1.346) and *Iliad* 18.604, 24.720 |
+| ἀεικής | shameful | ἔργον ἀεικές "the shameful deed" (3.265; again 11.429), as *Iliad* 14.13 |
+| ἄγαλμα | offering | πολλὰ δʼ ἀγάλματʼ ἀνῆψεν "and hung up many offerings" (3.274); ἵνʼ ἄγαλμα θεὰ κεχάροιτο ἰδοῦσα "so that the goddess might rejoice to see the offering" (3.438); the Iliad's one ἄγαλμα is "a delight for a king" (4.144) |
+| ὁμοίιος | common to all | θάνατον … ὁμοίιον "death, which is common to all" (3.236), as γῆρας … ὁμοίιον "old age, the common lot" (*Iliad* 4.315) |
+| ἀναφανδά / ἄντην | openly / to his face | ἀναφανδά "openly" (3.221, 3.222), as ἀναφανδόν (*Iliad* 16.178); ὁμοιωθήμεναι ἄντην "to match himself with him … to his face" (3.120), as *Iliad* 1.187 |
+| ἐπίφρων | thoughtful | ἐπίφρονι βουλῇ "thoughtful counsel" (3.128) |
+| ἄναλκις | coward; weakling | ἀνάλκιδος Αἰγίσθοιο "the coward Aegisthus" (3.310); κακὸν καὶ ἄναλκιν "a coward and a weakling" (3.375), as *Iliad* 8.153 |
+| ἦρα φέρειν | do a kindness | ἐπʼ Ἀτρεΐδῃ … ἦρα φέροντες "to do a kindness … to Agamemnon, son of Atreus" (3.164), as *Iliad* 14.132 |
+| ἔλπομαι (with a negative) | expect | οὔ ποτε ἔλπετο θυμῷ "he had never expected in his heart" (3.275), οὐκ ἔλποιτό γε θυμῷ (3.319), as *Iliad* 13.8, 17.404 |
+| πεδάω | fetter | μιν μοῖρα θεῶν ἐπέδησε "the fate of the gods fettered her" (3.269), as *Iliad* 4.517, 22.5 |
+| οἴκαδε ἱέμενοι | eager to go home | (3.160); *Iliad* 2.154 οἴκαδε ἱεμένων "as they longed for home", but "long" is kept for λιλαίομαι and ἱμείρομαι |
+| ἠΐθεος | young unmarried man | (3.401), the Iliad's "young man" (11.60, 18.593); again 6.63, 11.38 |
+| ἡδύποτος | sweet to drink | (3.391), as 2.340; ἡδύς is "sweet" (3.51) |
+| ὄψον | meat | ὄψα "meats", beside σῖτον "bread" (3.480; flesh-meat, Merry on 3.480), as *Iliad* 9.489; "dainties" is kept for εἴδατα (1.140) |
+| διαχέω | joint | διέχευαν "they jointed her" (3.456), as *Iliad* 7.316; μιστύλλω is "cut up" (3.462) |
+| χαλκεύς, χρυσοχόος | smith, goldsmith | the goldsmith Laerces (3.425) is "the smith" (3.432), with his "smith's tools", χαλκήια (3.433) |
+| κατάρχομαι, ἀπάρχομαι | begin the rite, make the first offering | (3.445, 3.446), with the hairs from the victim's head |
+| ἀμνίον | bowl for the blood | (3.444; only here in Homer) |
+| ὀλολύζω | raise the cry | αἱ δʼ ὀλόλυξαν "And the women raised the cry" (3.450) |
+| δέσποινα | lady | ἄλοχος δέσποινα "the lady his wife" (3.403) |
+| φήνη | sea eagle | φήνῃ εἰδομένη "in the likeness of a sea eagle" (3.372: see the note) |
 
 ## Epithets and formulas of the Odyssey
 
@@ -130,6 +163,28 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | τοῖσι δὲ καὶ μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο | And among them spoke also the sacred strength of Telemachus (2.409) |
 | ὣς ἄρα φωνήσασʼ ἡγήσατο Παλλὰς Ἀθήνη / καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο | So she spoke, and Pallas Athena led the way / swiftly; and he followed in the footprints of the goddess (2.405–406) |
 | ἱστὸν δʼ εἰλάτινον κοίλης ἔντοσθε μεσόδμης … | The mast of fir, within the hollow mast-box, / they raised and set up, and made it fast with forestays, / and hoisted the white sails with well-twisted ox-hide ropes (2.424–426) |
+| ψεῦδος δʼ οὐκ ἐρέει· μάλα γὰρ πεπνυμένος ἐστί | he will not tell a lie, for he is very wise (3.20, 3.328) |
+| λίσσεσθαι δέ μιν αὐτός, ὅπως νημερτέα εἴπῃ | And you yourself must beg him to tell you truly (3.19; with ἵνα νημερτὲς ἐνίσπῃ, 3.327) |
+| τὸν προτέρη προσέειπε θεά, γλαυκῶπις Ἀθήνη | The gray-eyed goddess Athena spoke to him first (3.13) |
+| ὦ Νέστορ Νηληϊάδη, μέγα κῦδος Ἀχαιῶν | Nestor, son of Neleus, great glory of the Achaeans (3.79, 3.202), as *Iliad* 10.87; with σὺ δʼ ἀληθὲς ἐνίσπες, "tell me the truth" (3.247) |
+| τὸν δʼ ἠμείβετʼ ἔπειτα Γερήνιος ἱππότα Νέστωρ | Then the Gerenian horseman Nestor answered him (3.102, 3.210, 3.253), as *Iliad* 10.102 |
+| ὦ φίλʼ, ἐπεί μʼ ἔμνησας (ἐπεὶ δὴ ταῦτά μʼ ἀνέμνησας) | My friend, since you have reminded me (3.103, 3.211) |
+| ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθʼ ὑγρὰ κέλευθα; / ἤ τι κατὰ πρῆξιν ἦ μαψιδίως ἀλάλησθε / οἷά τε ληιστῆρες ὑπεὶρ ἅλα, τοί τʼ ἀλόωνται / ψυχὰς παρθέμενοι κακὸν ἀλλοδαποῖσι φέροντες; | Strangers, who are you? From where do you sail the watery ways? / Is it on some business, or do you wander at random / over the sea, like pirates, who wander / staking their lives and bringing evil to foreigners? (3.71–74; again 9.252–255) |
+| οἱ δʼ ἐπεὶ ὤπτησαν κρέʼ ὑπέρτερα καὶ ἐρύσαντο | And when they had roasted the outer flesh and drawn it off (3.65, 3.470: the flesh as against the entrails, Merry on 3.65) |
+| τοιγὰρ ἐγώ τοι, τέκνον, ἀληθέα πάντʼ ἀγορεύσω | Well then, my child, I will tell you all the truth (3.254; again 16.61), as 1.179 |
+| νήπιος, οὐδὲ τὸ ᾔδη, ὃ οὐ πείσεσθαι ἔμελλεν | the fool, and he did not know that she would not be persuaded (3.146), as *Iliad* 20.466, where the one who will not be persuaded is "the other" |
+| οὐ γάρ τʼ αἶψα θεῶν τρέπεται νόος αἰὲν ἐόντων | for the mind of the gods who live forever is not quickly turned (3.147) |
+| ἀλλʼ ἦ τοι θάνατον μὲν ὁμοίιον οὐδὲ θεοί περ / καὶ φίλῳ ἀνδρὶ δύνανται ἀλαλκέμεν | But death, which is common to all, not even the gods / can ward off from a man they love (3.236–237) |
+| γέρων ἱππηλάτα Νέστωρ | the old horse-driving Nestor (3.436, 3.444), as *Iliad* 7.125 of Peleus |
+| ὄρχαμος ἀνδρῶν | leader of men (3.400, 3.454, 3.482, of Peisistratus), as *Iliad* 6.99 |
+| ὣς ἄρα φωνήσασʼ ἀπέβη γλαυκῶπις Ἀθήνη | So she spoke, and gray-eyed Athena went away (3.371; again 7.78) |
+| τρητοῖς ἐν λεχέεσσιν ὑπʼ αἰθούσῃ ἐριδούπῳ | on a corded bed beneath the loud-resounding colonnade (3.399; again 7.345) |
+| ἀλλʼ ὁ μὲν ἤδη κηρὶ δαμεὶς Ἄϊδόσδε βεβήκει | but he had already been overcome by his doom and gone to the house of Hades (3.410; again 6.11) |
+| βοῶν ἐπιβουκόλος ἀνήρ | the herdsman of the cattle (3.422), later Philoetius' formula (20.235, 21.199, 22.268, 22.285) |
+| εὐξάμενος … χρυσὸν κέρασιν περιχεύας | the vow of 3.382–384 is *Iliad* 10.292–294, and 3.385 is *Iliad* 5.121; the sacrifice 3.447–462 repeats *Iliad* 1.458–465 (3.461 is *Iliad* 1.464, printed κατὰ μῆρʼ ἐκάη), with κατὰ μοῖραν "in good order" (3.457, as *Iliad* 16.367) and διέχευαν "jointed" (3.456) |
+| αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιον θʼ, ὅσον ἤθελε θυμός | But when they had poured libations and drunk as much as their hearts desired (3.342, 3.395), as *Iliad* 9.177 |
+| οἱ δὲ πανημέριοι σεῖον ζυγὸν ἀμφὶς ἔχοντες … | And all day long they shook the yoke, holding it on either side, … / There they spent the night, and he set good cheer before them (3.486–490; again 15.184–188) |
+| μάστιξεν δʼ ἐλάαν, τὼ δʼ οὐκ ἀέκοντε πετέσθην | and whipped them to a run, and the pair flew on not unwilling (3.484, 3.494), as *Iliad* 5.366 |
 
 ## Places where the Greek is disputed
 
@@ -224,3 +279,28 @@ digitized by Perseus: "(Merry on 1.241)" is the note on that line.
 - **2.385** — ἀγέρεσθαι is accented as a present infinitive, though Homer's middle forms of the verb are aorists (ἀγέροντο, *Iliad* 2.94, 18.245).
 - **2.412** — δμωαί, without the iota subscript, as the digitized text prints it here and at 6.307, 7.103 (δμῳαί elsewhere).
 - **2.434** — ἠῶ "through the dawn": time over which, or "and at dawn".
+- **3.1** — λίμνην "water": the sea, here the farther margin of the Ocean stream, "water which washes a shore" (Merry on 3.1, who reports that Nitzsch refuted Voss's view that the Caspian is meant).
+- **3.4** — Pylos: Strabo argued for the Triphylian Pylos; the scholia, Eustathius and Pindar (*Pythian* 6.35, "the Messenian old man") for the Messenian, which Merry prefers (on 3.4).
+- **3.7** — The nine companies of five hundred answer to the nine cities of Nestor, and 4,500 men to his ninety ships at fifty a ship (Merry on 3.7, after the scholia and *Iliad* 2.719).
+- **3.8** — προύχοντο, as the digitized text prints it, for προὔχοντο (Merry): "held before them", the bulls set out ready for the sacrifice (Merry on 3.8, comparing *Iliad* 17.355).
+- **3.11** — The sail is furled by brailing it up to the yard, not lowered and stowed (Merry on 3.11, who reports the reading σεῖσαν ascribed to Zenodotus).
+- **3.95** — πλαζομένου goes with μῦθον and refers to Odysseus, as the following γάρ shows: "word of him … as he wandered" (Merry on 3.95).
+- **3.124–125** — ἐοικότες … ἐοικότα "like his", "so like him", not "fitting" (Nitzsch): Merry (on 3.124), from ὧδε and from 4.141–143 and 19.380–381.
+- **3.146** — The verse is *Iliad* 20.466, where the one who would not be persuaded is Achilles; here it is Athena ("she").
+- **3.171** — ἐπὶ Ψυρίης "by the island of Psyria", keeping Psyria itself on the left, the straight course from Lesbos to Geraestus (Merry on 3.169); the scholia, he reports, were unsure whether αὐτήν is Psyria or Chios.
+- **3.199** — καὶ σὺ φίλος, without the comma after σύ that the same verse has at 1.301 (and the same opening at 3.313), as the digitized text prints it.
+- **3.204** — καὶ ἐσσομένοισι πυθέσθαι is Wolf's reading from Eustathius; the manuscripts have καὶ ἐσσομένοισιν ἀοιδήν, "a song even for men to come" (Merry on 3.204).
+- **3.244–245** — περὶ … οἶδε … ἄλλων "knows better than others", with δίκας "rules of right" (Merry on 3.244). ἀνάξασθαι is the only middle of ἀνάσσω in Homer: Merry (on 3.245) suspects the line, reports Nauck's conjecture ἀνασσέμεναι, and, if it is genuine, takes γένεʼ as duration, "has been king for three generations of men", the tradition of *Iliad* 1.250–252.
+- **3.246** — ὥς τε "like", comparative (Merry on 3.246, referring to his note on 1.227), not the later consecutive ὥστε.
+- **3.269** — μιν: Clytemnestra, "fettered" to yield, as the English takes it with Eustathius' preferred view; Merry (on 3.269) thinks Aegisthus, "fate-bound to his ruin", the simplest, and Nitzsch took it of the singer.
+- **3.290** — τροφέοντο "swelled", as the digitized text prints it; Merry's text reads τροφόεντα "big", which would make the waves a second object of "poured" (Merry on 3.290).
+- **3.303–305** — Murray prints 305 (ἑπτάετες δʼ ἤνασσε …) before 304 (κτείνας Ἀτρεΐδην …), and so does Merry's text, after Bergk and La Roche and the scholiast on Sophocles' *Electra* 267, who quotes "Aegisthus ruled over Mycenae rich in gold, having killed the son of Atreus" (Merry on 3.304). The rows of this text must run in the order of their numbers, so they keep the manuscripts' order, in which ταῦτα "throws its meaning forward" and κτείνας explains it (Merry): the full stop after λυγρά (303) becomes a comma, the one change made to the digitized text, and the English reads "devised these grim things at home, / killing the son of Atreus, …".
+- **3.307** — ἀπʼ Ἀθηνάων "back from Athens": the tragic legend brings Orestes from Phocis, and Aeschylus sends him to Athens only after the deed (Merry on 3.307).
+- **3.309–310** — The scholia say these lines were missing in some editions, and report Aristarchus' view that they hint that Clytemnestra died with Aegisthus, though not plainly by Orestes' hand (Merry on 3.309).
+- **3.335** — The raised dot after ἔοικεν, as the digitized text prints it; the infinitives of 3.336 depend on ἔοικεν.
+- **3.348** — ἦ, as the digitized text prints it; Merry (on 3.348) construes the line with ἢ, as 19.109 prints ὥς τέ τευ ἢ βασιλῆος.
+- **3.372** — φήνη "sea eagle": named with vultures at 16.217, "commonly taken to be the sea-eagle", or the lammergeier (Merry on 3.372); after Seiler, he takes εἰδομένη of bodily likeness, so that the goddess is seen to change.
+- **3.384, 3.437** — περιχεύας, περίχευεν "poured around": gold leaf spread round the horns, not molten metal, since the smith brings anvil, hammer and tongs (Merry on 3.384, 3.437).
+- **3.400** — πὰρʼ δʼ, as the digitized text prints it, for πὰρ δʼ (3.267, 3.416, 3.482).
+- **3.442** — No stop after κανέῳ in the digitized text, though a new clause begins with πέλεκυν δέ.
+- **3.453** — ἀνελόντες has no object: they lift the victim's head to bare the throat (Merry on 3.453, comparing *Iliad* 1.459).

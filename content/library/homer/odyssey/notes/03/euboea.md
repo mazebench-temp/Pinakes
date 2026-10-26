@@ -1,0 +1,5 @@
+---
+summary: The god's sign at Lesbos bids Nestor and his companions “cut across the middle of the open sea to Euboea”, and they make land at Geraestus, its southern cape, by night (3.173–178).
+---
+
+Euboea is the goal of the crossing that the god commands: “And we asked the god to show us a sign; and he / showed us one, and bade us cut across the middle of the open sea to Euboea, / so that we might escape from evil as quickly as we could” (3.173–175; see [[teras]] and [[lesbos]]). πέλαγος μέσον … τέμνειν, “cut across the middle of the open sea”, is the long voyage the kings had pondered, straight across the Aegean from Lesbos to the southern end of Euboea, about 150 miles by Merry's reckoning (Merry, *Commentary on the Odyssey*, 1886, on 3.169; see [[sea]] and [[psyria]]). The landfall is Geraestus, the island's southern cape, reached by night (3.177–178; see [[geraestus]]). In the Catalogue the island is “holy Euboea”, the land of the Abantes (*Iliad* 2.535–536; see [[abantes]]); here it is only the far shore of a sea to be crossed.

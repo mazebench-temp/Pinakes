@@ -3,10 +3,10 @@ title: Fulfill for me this wish
 greek: τόδε μοι κρήηνον ἐέλδωρ
 kind: formula
 tags: [speech-formula, prayer]
-summary: The request at the heart of a prayer, “fulfill for me this wish,” which follows the claim on the god and introduces the wish itself.
+summary: The request at the heart of a prayer, “fulfill for me this wish,” which follows the claim on the god and introduces the wish itself; in the Odyssey also an old king's order to his sons.
 aliases: [kreenon eeldor]
-grc: [κρήηνον ἐέλδωρ, ἐπικρήηνον ἐέλδωρ]
-en: [fulfill for me this wish]
+grc: [κρήηνον ἐέλδωρ, ἐπικρήηνον ἐέλδωρ, "κρηήνατʼ ἐέλδωρ"]
+en: [fulfill for me this wish, fulfill my wish]
 ---
 
 ## The pattern

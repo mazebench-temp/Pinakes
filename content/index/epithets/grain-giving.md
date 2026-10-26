@@ -5,7 +5,7 @@ kind: epithet
 tags: [cosmic]
 summary: “Giving grain,” the standing epithet of the plowed [[earth]] in the formula ζείδωρος ἄρουρα.
 aliases: [zeidoros, grain-bearing]
-grc: [ζείδωρος]
+grc: [ζείδωρος, ζείδωρον]
 en: [grain-giving]
 of: [earth]
 ---

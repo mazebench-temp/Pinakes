@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “Like a god,” praise of a hero's looks or bearing: θεοείκελος, and θεοειδής, “godlike in form.”
 aliases: [like a god, theoeikelos]
-grc: [θεοείκελʼ]
+grc: [θεοείκελʼ, θεοείκελον]
 en: [godlike]
 of: [achilles, polyxeinus, ascanius, paris]
 ---

@@ -1,0 +1,7 @@
+---
+summary: Nestor vows Athena a heifer that is ἦνις, “yearling”, broad of brow and unbroken (3.382), in the verses of Diomedes' vow in the Iliad; this time the vow is kept, and the heifer is sacrificed the next morning (3.418–463).
+---
+
+**The vow kept.** Nestor's vow at Pylos (3.382–384) repeats Diomedes' in the Iliad word for word (*Iliad* 10.292–294), and it is the last of the five uses of ἦνις in Homer, all of them of cattle vowed to Athena (see the entry, and [[cattle]], where the vow is quoted). Both prayers are heard: “So he spoke in prayer, and Pallas Athena heard him” (3.385). In the Iliad the fulfillment of the vow is not told. At Pylos the poem tells it from Nestor's orders at dawn to the burning of the thighs: the heifer comes from the plain, the goldsmith gilds her horns, and Nestor's sons kill her (3.418–463; see [[the-sacrifice-to-athena]], [[broad-browed]] and [[unbroken]]).
+
+**The word.** Merry reports three explanations of ἦνις. The scholia take it as “of one year old”, from ἔνος, “year”, and the translation follows them; but this, Merry objects, makes ἀδμήτην, “unbroken”, superfluous. Others connect it with ἤνοψ, “gleaming”, and compare Virgil's *candentem iuvencum*, the “shining” bullock. Düntzer, with great probability in Merry's judgment, connects it with ἄνειν, “accomplish”, in the sense of τέλειος or τελήεις, “perfect”, the word of the Iliad's “perfect hecatombs” (Merry, *Commentary on the Odyssey*, 1886, on 3.382; see [[hecatomb]] and the Iliad's translation note on 10.292–294).

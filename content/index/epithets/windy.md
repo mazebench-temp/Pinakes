@@ -5,7 +5,7 @@ kind: epithet
 tags: [peloponnese]
 summary: “Windy, wind-swept,” an epithet of high and exposed places, above all of Troy (Ἴλιος ἠνεμόεσσα), and of the Arcadian town of [[Enispe]].
 aliases: [wind-swept, enemoeis]
-grc: [ἠνεμόεσσαν]
+grc: [ἠνεμόεσσαν, ἠνεμόεντα]
 en: [windy]
 of: [enispe, troy]
 ---

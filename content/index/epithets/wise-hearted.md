@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, mind]
 summary: An epithet of heroes whose meaning was debated in antiquity: “wise-hearted” (from δαῆναι, “learn”) or “warlike in mind” (from δάϊς, “battle”).
 aliases: [warlike-minded, daiphron]
-grc: [δαΐφρονος, δαΐφρων]
+grc: [δαΐφρονος, δαΐφρων, δαΐφρονα]
 en: [wise-hearted]
 of: [atreus, achilles, bellerophon, priam]
 ---

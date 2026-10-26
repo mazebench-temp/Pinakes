@@ -29,6 +29,6 @@ The first four books of the Odyssey follow him: the assembly of Ithaca (Book 2; 
 
 ## Outside Homer
 
-In the *Cypria*, as [[proclus|Proclus]] summarizes it, Odysseus pretended to be mad to avoid the war, and Palamedes exposed him by seizing the infant Telemachus. In the *Telegony*, after Odysseus' death Telemachus marries Circe, and Telegonus, Odysseus' son by Circe, marries Penelope.
+In the *Cypria*, as [[proclus|Proclus]] summarizes it, Odysseus pretended to be mad to avoid the war, and Palamedes exposed him by seizing the infant Telemachus. In the *Telegony*, after Odysseus' death Telemachus marries Circe, and Telegonus, Odysseus' son by Circe, marries Penelope. In the Hesiodic *Catalogue of Women* Nestor's youngest daughter, Polycaste, who bathed him at Pylos, bears him a son, Persepolis (fr. 12 Evelyn-White; see [[polycaste]]).
 
 For Athena at his side in the likeness of Mentor in later writers, and Fénelon's *Télémaque*, see [[athena-as-mentor-in-later-writers]].

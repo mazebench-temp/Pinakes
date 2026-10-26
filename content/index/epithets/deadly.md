@@ -5,7 +5,7 @@ kind: epithet
 tags: [fate, warfare]
 summary: “Destructive, deadly,” an adjective of ruin from ὄλλυμι, “destroy”: used of war, of fate, of a mind bent on harm, of Achilles and of the threshold of old age, and in the comparative of Zeus.
 aliases: [baneful, ruinous, oloos, oloios]
-grc: [ὀλοοῖο, ὀλοώτερος, ὀλοιῇσι]
+grc: [ὀλοοῖο, ὀλοώτερος, ὀλοιῇσι, ὀλοῆς]
 en: [deadly, more baneful, ruinous]
 ---
 

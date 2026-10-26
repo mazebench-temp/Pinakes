@@ -16,7 +16,7 @@ The Catalogue crosses the strait in a single line. The Locrians live "across fro
 
 ## Elsewhere in Homer
 
-Nestor, sailing home from Troy, crossed the open sea from Lesbos to Geraestus, the southern cape of Euboea, and sacrificed to Poseidon there (Od. 3.169–179). The Phaeacian king Alcinous calls Euboea the most distant of lands, though his sailors once took Rhadamanthys there and back in a single day (Od. 7.321–326).
+Nestor, sailing home from Troy, crossed the open sea from Lesbos to Geraestus, the southern cape of Euboea, and sacrificed to Poseidon there (*Odyssey* 3.169–179; see [[geraestus]]). The Phaeacian king Alcinous calls Euboea the most distant of lands, though his sailors once took Rhadamanthys there and back in a single day (*Odyssey* 7.321–326).
 
 ## Outside Homer
 

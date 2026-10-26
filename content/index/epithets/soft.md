@@ -5,7 +5,7 @@ kind: epithet
 tags: [body]
 summary: “Soft,” an epithet of sleep, of beds and of fine tunics, above all in the verse εὗδον παννύχιοι μαλακῷ δεδμημένοι ὕπνῳ, “slept all night long, overcome by soft sleep,” which sets the sleepers against the one who wakes.
 aliases: [malakos, soft sleep, soft bed]
-grc: [μαλακῷ δεδμημένοι ὕπνῳ, εὐνῇ ἔνι μαλακῇ, μαλακὸν δʼ ἔνδυνε χιτῶνα]
+grc: [μαλακῷ δεδμημένοι ὕπνῳ, εὐνῇ ἔνι μαλακῇ, μαλακὸν δʼ ἔνδυνε χιτῶνα, "κώεσιν ἐν μαλακοῖσιν"]
 en: [soft]
 ---
 

@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “High-spirited, proud,” an epithet of heroes and peoples, Trojan and Achaean.
 aliases: [hyperthymos]
-grc: [ὑπερθύμοιο]
+grc: [ὑπερθύμοιο, ὑπέρθυμος]
 en: [high-hearted]
 of: [coronus, trojans]
 ---

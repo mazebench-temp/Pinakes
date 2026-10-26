@@ -12,13 +12,13 @@ of: [athena]
 
 ## Meaning
 
-Τριτογένεια = Τριτο- + -γένεια (“born”). The first part was obscure already in antiquity. The commonest explanation connects it with a river or lake called Triton or Tritonis, where Athena was said to have been born or reared; Libya and Boeotia both claimed such a place (see Outside Homer). Other explanations, ancient and modern, have been offered, and none is certain. Homer uses the title four times: here (4.515), twice when Zeus reassures her, “take heart, Tritogeneia, dear child” (Il. 8.39, 22.183), and once in the Odyssey (Od. 3.378).
+Τριτογένεια = Τριτο- + -γένεια (“born”). The first part was obscure already in antiquity. The commonest explanation connects it with a river or lake called Triton or Tritonis, where Athena was said to have been born or reared; Libya and Boeotia both claimed such a place (see Outside Homer). Other explanations, ancient and modern, have been offered, and none is certain. Homer uses the title four times: three times in the Iliad, when she rouses the Achaeans (4.515) and twice when Zeus reassures her, “take heart, Tritogeneia, dear child” (8.39, 22.183), and once in the Odyssey, when Nestor knows her (*Odyssey* 3.378).
 
 ## Use
 
 {{quote:ee689e33-5753-5df8-b4a1-fde442fd3a86}}
 
-The fighting has begun, and each side has a god. Apollo, looking down from Pergamus, calls on the Trojans (4.507–513; [[pergamus]], [[flesh-cutting]]). Athena answers by going through the throng of the Achaeans. The line gives her the fullest string of her titles: daughter of Zeus ([[daughter-of-zeus]]), most glorious ([[most-glorious]]), Tritogeneia. The same verse names her in the Odyssey, when Nestor recognizes the goddess who has just flown away in the likeness of a bird (Od. 3.371–379).
+The fighting has begun, and each side has a god. Apollo, looking down from Pergamus, calls on the Trojans (4.507–513; [[pergamus]], [[flesh-cutting]]). Athena answers by going through the throng of the Achaeans. The line gives her the fullest string of her titles: daughter of Zeus ([[daughter-of-zeus]]), most glorious ([[most-glorious]]), Tritogeneia. The same words, Διὸς θυγάτηρ κυδίστη Τριτογένεια, name her in the Odyssey, when Nestor recognizes the goddess who has just left in the likeness of a sea eagle (*Odyssey* 3.371–379).
 
 ## Outside Homer
 

@@ -3,7 +3,7 @@ title: Myrmidons
 greek: Μυρμιδόνες
 kind: people
 tags: [achaean, myrmidon, thessaly]
-summary: The people of [[Phthia]] whom [[Achilles]] leads and rules.
+summary: The people of [[Phthia]] whom [[Achilles]] led to Troy and ruled; after his death his son brought them home.
 aliases: [Myrmidones]
 grc: [Μυρμιδόν*]
 en: [Myrmidons]

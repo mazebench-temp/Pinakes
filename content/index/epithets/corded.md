@@ -4,7 +4,7 @@ greek: τρητός
 kind: epithet
 summary: “Bored, pierced,” an epithet of beds, whose frames were bored to take the cords that held the bedding.
 aliases: [bored, pierced, tretos]
-grc: [τρητοῖσι]
+grc: [τρητοῖσι, "τρητοῖς ἐν λεχέεσσιν"]
 en: [corded]
 of: [bed]
 ---

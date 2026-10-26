@@ -1,0 +1,5 @@
+---
+summary: Nestor's title ten times: in the verses that bring in his speeches, “Then the Gerenian horseman Nestor answered him” (3.102, 3.210, 3.253), and as he “began to speak” at the feasts (3.68, 3.417, 3.474); as he leads the way home, keeps Telemachus for the night and rises at dawn (3.386, 3.397, 3.405); and once without ἱππότα, “the Gerenian, the guardian of the Achaeans,” as he takes his father's seat (3.411).
+---
+
+Merry reports the ancient forms of the town's name, Gerenia, Gerenon or Gerena, a town on the Messenian gulf not named in Homer except in the epithet, where Nestor was said to have been brought up, or to have taken refuge when Heracles ravaged Pylos; Apollonius and the Suda took the word not as a name but as “honored,” from γέρας or γέρων (Merry, *Commentary on the Odyssey*, 1886, on 3.68). The one Γερήνιος without ἱππότα is in the Iliad's half-verse Γερήνιος οὖρος Ἀχαιῶν (3.411; *Iliad* 8.80, 11.840, 15.370, 15.659; [[guardian-of-the-achaeans]]). See [[then-answered]] and [[nestor]].

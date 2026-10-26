@@ -5,7 +5,9 @@ kind: place
 tags: [peloponnese, city, argive, argolid]
 summary: Agamemnon's city in the northeastern Peloponnese, "the well-built citadel", which heads the largest contingent in the Catalogue. Its Bronze Age palace gave its name to the Mycenaean civilization.
 aliases: [Mycene, Mykenai]
-grc: [Μυκήνας]
+# Μυκήνης (Od. 3.305; later 21.108) also catches 7.180 and 11.46, πολυχρύσοιο Μυκήνης, which the Iliad Book 7 note
+# claims as well.
+grc: [Μυκήνας, Μυκήνης]
 passages:
   - 2.569-580 | Agamemnon's kingdom
 ---

@@ -1,0 +1,7 @@
+---
+summary: Diomedes fled with Nestor from Tenedos, rousing his companions; Menelaus overtook the two of them at Lesbos, the god's sign sent them across the open sea to Euboea, and on the fourth day from Troy Diomedes' companions moored his ships at Argos (3.165–182).
+# Unnamed: "after us two" and "as we pondered" (3.168-169), the sign and the crossing (3.173-179).
+refs: [3.168-169, 3.173-179]
+---
+
+“And the warlike son of Tydeus fled, and roused his companions” (3.167; see [[warlike]] and [[tydeus]]). He fled from Tenedos with Nestor after the second strife, when Odysseus turned back to Agamemnon (3.159–166; see [[the-departure-of-the-greeks]]), and Menelaus came late “after us two”, μετὰ νῶι, Nestor and Diomedes (3.168; Merry, *Commentary on the Odyssey*, 1886, on 3.168). Together they asked the god for a sign, crossed the middle of the open sea to Euboea, and sacrificed to Poseidon at Geraestus by night (3.173–179; see [[teras]] and [[geraestus]]). Then the voyages part: “It was the fourth day when in Argos the balanced ships / of the companions of Diomedes, son of Tydeus, tamer of horses, / were moored” (3.180–182; see [[argos]], [[balanced-ships]] and [[tamer-of-horses]]). By Merry's reckoning the first day's run was to Tenedos, the second to Lesbos, the third to Geraestus (on 3.169; see [[the-returns-of-the-achaeans]]). Τυδεΐδεω … Διομήδεος, “of Diomedes, son of Tydeus”, gives the patronymic and the name together, as at *Iliad* 16.74. Argos is his own city, where, as Merry says of the Argos of 3.260, Diomedes was king (on 3.260).

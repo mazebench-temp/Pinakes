@@ -1,0 +1,10 @@
+---
+summary: Nestor sends one of his sons to call the goldsmith Laerces, who comes with anvil, hammer and tongs, takes the gold from Nestor and works it round the heifer's horns, so that the goddess may rejoice to see the offering (3.425–426, 3.432–438).
+# χρυσοχόον (3.425), only here in Homer. Unnamed: the gilding he is called for (3.426); "the smith" with his tools
+# (3.432-435, χαλκεὺς at 3.432); he takes the gold and works it round the horns (3.437-438).
+grc: [χρυσοχόον]
+en: [goldsmith, smith]
+refs: [3.426, 3.432-435, 3.437-438]
+---
+
+Nestor's third order at dawn is for the gilding he vowed the night before: “and let one in turn call the goldsmith Laerces to come / here, so that he may pour gold around the heifer's horns” (3.425–426; see [[the-sacrifice-to-athena]], [[nestor]] and [[gold-poured-around-her-horns]]). The smith comes with the heifer from the plain and the companions from the ship, “holding in his hands his smith's tools, the instruments of his craft, / anvil and hammer and well-made tongs, / with which he worked the gold” (3.432–435; see [[forge]]). Merry renders πείρατα τέχνης “wherein lie the issues of art”, the tools on which the craft depends for its accomplishment (*Commentary on the Odyssey*, 1886, on 3.433). The gold is Nestor's, and the work the smith's: “And the old horse-driving Nestor / gave the gold; and the smith then poured it around the heifer's horns, / working it with skill, so that the goddess might rejoice to see the offering” (3.436–438; see [[gold-and-silver]]). ἀσκήσας is “working up”, the word of the horn-worker who dressed the horns of Pandarus' bow and fitted them together (*Iliad* 4.110; Merry on 3.438). The tools show that the gold was spread round the horns as leaf or foil, not poured molten (Merry on 3.384 and 3.437; see the translation's note on 3.384 and 3.437). Laerces is not named again, and the narrator gives him no family and no other part; Athena comes to share in the sacrifice in the same verse that ends his work (3.435–436).

@@ -5,7 +5,9 @@ kind: term
 tags: [divine-will]
 summary: A god or divine power, often one that is felt but not named. The address δαιμόνιε, “strange one”, is said to someone whose behavior is past understanding.
 aliases: [daimōn, daimon, daemon, daimonios, daimoniē]
-grc: [δαίμονας, δαιμονίη]
+# δαίμων is right in every text: the Iliad (claimed there by its Book 3 note), the Odyssey (2.134, 3.27, 3.166) and
+# the Rhetoric's quoted verse, “To many the deity gives great good fortune” (1399b23).
+grc: [δαίμονας, δαιμονίη, δαίμων]
 en: [gods, Strange one]
 ---
 

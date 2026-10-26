@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, fate]
 summary: “Mortal men,” θνητοὶ ἄνθρωποι, the human counterpart of the gods in phrases that divide the world between the two races.
 aliases: [mortals, thnetoi anthropoi]
-grc: [θνητῶν ἀνθρώπων]
+grc: [θνητῶν ἀνθρώπων, "θνητοῖσι βροτοῖσιν", "καταθνητῶν ἀνθρώπων"]
 en: [mortal men]
 ---
 

@@ -5,7 +5,7 @@ kind: formula
 tags: [speech-formula]
 summary: The half-line of close address, “and spoke to him and called him by name,” usually after a touch of the hand: a mother stroking her child, a wife clinging to her husband, a brother holding his brother back.
 aliases: [ek t onomaze]
-grc: [ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε]
+grc: [ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε, "ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν"]
 en:
   - spoke to him, and called him by name
 ---

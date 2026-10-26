@@ -5,8 +5,8 @@ kind: epithet
 tags: [heroic-epithet, pylian, elder]
 summary: The standing title of [[Nestor]], “the Gerenian horseman.” The horseman's title ἱππότα is also given to other heroes of the older generation.
 aliases: [Gerenios hippota, horseman, the Gerenian]
-grc: [Γερήνιος ἱππότα, ἱππότα Φυλεύς]
-en: [Gerenian horseman, horseman]
+grc: [Γερήνιος ἱππότα, ἱππότα Φυλεύς, Γερήνιος]
+en: [Gerenian horseman, horseman, Gerenian]
 # "the horseman Peleus" at 23.89 (ἱππότα Πηλεύς) is not Nestor.
 except: [23.89]
 of: [nestor, phyleus]
@@ -29,3 +29,7 @@ The formula names Nestor whenever he speaks or leads in *Iliad* 2: as he rebukes
 Nestor's own stories show why he is the horseman. In *Iliad* 11 he tells how he fought as a young man on foot and then took the chariots of the Epeians, and in Book 23 he advises his son on chariot racing.
 
 The single ἱππότα goes to Phyleus, father of Meges, “the horseman Phyleus, dear to Zeus” ({{ref:Iliad 2.628}}; [[dear-to-zeus]]).
+
+## Outside Homer
+
+The Hesiodic *Catalogue of Women* gave the epithet a story. Heracles “killed the noble sons of steadfast Neleus, / eleven of them; the twelfth, Gerenian Nestor the horseman, / happened to be a guest among the horse-taming Gerenians”, and so “Nestor alone escaped, in flowery Gerenus” (fr. 11 Evelyn-White, quoted by Stephanus of Byzantium under Gerenia; plain renderings; see [[hesiod]], [[nestor]] and [[heracles-sacks-pylos]]).

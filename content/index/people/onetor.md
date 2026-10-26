@@ -21,4 +21,4 @@ passages:
 
 **Priests and their sons.** The verse-end θεὸς δʼ ὣς τίετο δήμῳ is said of another priest whose son is killed, Dolopion, priest of the Scamander, the father of Hypsenor (5.76–78; see [[dolopion]] and [[honored-like-a-god]]). Dares, priest of Hephaestus, loses one of his two sons to Diomedes, and the god saves the other (5.9–24; see [[dares]]). No god intervenes for Onetor's son (see [[bereaved-parents]]).
 
-Homer's other Onetor is the father of Phrontis, the helmsman of Menelaus, whom Apollo killed at Sunium on the voyage home (Φρόντιν Ὀνητορίδην, Od. 3.278–283).
+Homer's other Onetor is the father of Phrontis, the helmsman of Menelaus, whom Apollo killed at Sunium on the voyage home (Φρόντιν Ὀνητορίδην, *Odyssey* 3.278–283; see [[onetor-father-of-phrontis]] and [[phrontis-son-of-onetor]]).

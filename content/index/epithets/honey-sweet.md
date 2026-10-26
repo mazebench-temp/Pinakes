@@ -5,7 +5,7 @@ kind: epithet
 tags: [feast, time]
 summary: “Sweet as honey to the heart,” an epithet of sleep, wine and grain: the good things that soothe and refresh.
 aliases: [honey-hearted, meliphron]
-grc: [μελίφρων]
+grc: [μελίφρων, μελιηδέος]
 en: [honey-sweet]
 of: [hypnos, wine]
 ---

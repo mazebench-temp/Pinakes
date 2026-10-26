@@ -2,7 +2,7 @@
 title: Husbands and wives
 kind: theme
 tags: [woman, honor, kinship]
-summary: The Iliad is fought over a wife taken from her husband, and it keeps returning to marriages. Helen stands between two husbands, the wives of the army wait at home, Hector and Andromache show what the war will destroy, and victory will make the enemy's wives captives.
+summary: Marriages and what threatens them. The Iliad is fought over a wife taken from her husband: Helen stands between two husbands, the wives of the army wait at home, Hector and Andromache show what the war will destroy, and victory will make the enemy's wives captives. The Odyssey sets the wife who waits for her husband against the wife who killed hers on his return.
 aliases: [husband and wife]
 refs: [1.113, 1.114, 1.115, 2.136, 2.137, 2.292, 2.355, 2.356, 2.700, 2.701]
 passages:

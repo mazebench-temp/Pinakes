@@ -3,10 +3,10 @@ title: Rich in wheat
 greek: πολύπυρος
 kind: epithet
 tags: [peloponnese, ionian-islands]
-summary: “Rich in wheat,” an epithet of grain lands: Buprasium in Elis and Argos in the Iliad, Dulichium and Syria in the Odyssey.
+summary: “Rich in wheat,” πολύπυρος, an epithet of grain lands: Buprasium in Elis and Argos in the Iliad, Dulichium and Syria in the Odyssey; and πυροφόρος, “wheat-bearing,” of plowland and plains.
 aliases: [polypyros, wheat-rich]
-grc: [πολυπύρου]
-en: [rich in wheat]
+grc: [πολυπύρου, πυρηφόρον]
+en: [rich in wheat, wheat-bearing]
 of: [buprasium]
 ---
 

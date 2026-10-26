@@ -1,0 +1,5 @@
+---
+summary: Telemachus answers Nestor's example of Orestes: “But the gods have spun no such prosperity for me, / for my father and for me; and now I must endure it all the same” (3.208–209).
+---
+
+**What the gods have spun.** Orestes took vengeance, and the Achaeans will carry his fame wide; Telemachus wishes the gods would clothe him with such strength against the suitors (3.203–207; see [[poine]] and [[hybris]]). The prosperity he denies himself and his father is the fortune of Agamemnon's house, a son able to take vengeance. ἐπέκλωσαν is the verb of the thread the gods spin for each man (see [[moira]]), as they “had spun the thread for him to return home” in the year of Odysseus' homecoming (1.17; see [[nostos]]). Merry takes the first μοι as an ethic dative, “I would have you know”, rather than a correction answered by πατρί τʼ ἐμῷ καὶ ἐμοί (*Commentary on the Odyssey*, 1886, on 3.208). At Sparta Menelaus sees the ὄλβος of a house in Nestor's, spun by Zeus at his marriage and his birth, a comfortable old age in his halls and sons who are wise and the best with the spear (4.207–211; see [[nestor]]).

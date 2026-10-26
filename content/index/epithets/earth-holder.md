@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, sea-deity]
 summary: “Holder of the earth,” an epithet and title of [[Poseidon]], often paired with “shaker of the earth” in the formula γαιήοχος ἐννοσίγαιος.
 aliases: [gaieochos, earth-holding, holder of the earth, earth-bearer]
-grc: [γαιηόχῳ]
+grc: [γαιηόχῳ, γαιήοχε]
 en: [earth-holder]
 of: [poseidon]
 ---

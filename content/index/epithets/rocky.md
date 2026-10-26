@@ -5,7 +5,7 @@ kind: epithet
 tags: [mainland-greece]
 summary: “Rocky,” an epithet of places, among them [[Aulis]], [[Pytho]] and [[Calydon]].
 aliases: [petreeis]
-grc: [πετρήεσσαν]
+grc: [πετρήεσσαν, παιπαλοέσσης]
 en: [rocky]
 of: [aulis, pytho, calydon]
 ---

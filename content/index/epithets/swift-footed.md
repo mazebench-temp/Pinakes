@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: The standing description of [[Achilles]], “swift as to his feet,” also given to Iris; ποδώκης and ὠκύπους are its related compounds.
 aliases: [swift of foot, fleet-footed]
-grc: [πόδας ὠκὺς]
+grc: [πόδας ὠκὺς, "ὠκέας ἵππους", "ὠκέες ἵπποι"]
 en: [swift-footed]
 of: [achilles, iris, horses]
 featured: true

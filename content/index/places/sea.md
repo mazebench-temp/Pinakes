@@ -6,7 +6,10 @@ tags: [sea]
 summary: The sea (θάλασσα, ἅλς, πόντος), loud-roaring, barren and gray. In the Iliad it lies beside the Achaean camp and between the army and home; in the Odyssey it is the scene of Odysseus' wanderings and the road of every homecoming.
 aliases: [sea, deep]
 # ἅλαδ* is ἅλαδʼ, ἅλαδε, "to the sea" (Od. 2.389; Il. 9.683, 14.97, of dragging ships down; later Od. 10.351).
-grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον, "ἅλαδ*"]
+# πόντος (Od. 3.192; later 10.195, 12.406, 14.304) also catches 2.210, 7.64 and 21.59, which the Iliad Book 2 note
+# claims as well. πέλαγος, πελάγει, "the open sea" (Od. 3.91, 3.174, 3.179, 3.321), also catch 14.16, the one
+# πέλαγος of the Iliad, in the simile of the heaving sea.
+grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον, "ἅλαδ*", πόντος, πέλαγος, πελάγει]
 en: [sea, deep]
 except: [Rhetoric 1400a12, Rhetoric 1400a13]
 ---
@@ -17,7 +20,8 @@ Homer has several words:
 
 - θάλασσα, the sea in general (1.34, 1.157, 1.437, 1.496);
 - ἅλς, the salt sea, especially near the shore (1.141, 1.316, 1.350, 1.359);
-- πόντος, the open sea (1.350).
+- πόντος, the open sea (1.350);
+- πέλαγος, the open sea far from land, once in the Iliad (14.16) and more often in the Odyssey's voyages (*Odyssey* 3.91, 3.174, 3.179, 3.321).
 
 ## Descriptions
 

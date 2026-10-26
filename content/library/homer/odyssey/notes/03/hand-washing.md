@@ -1,0 +1,8 @@
+---
+summary: At sunset the heralds pour water over the hands of the company before the libation to Poseidon (3.338), and at the sacrifice to Athena Aretus brings the water for the hands in a flowered basin, and Nestor begins the rite with it (3.440, 3.445).
+en: [water for the hands]
+---
+
+**Before the libation.** “And the heralds poured water over their hands” (3.338), the verse that goes before the libation of the embassy in the Iliad and before the suitors' meal in Book 1 (*Iliad* 9.174; 1.146; see [[heralds]], [[libation]] and [[feast-type-scene]]). The hands are washed before the wine is poured to the gods.
+
+**Before the sacrifice.** “And Aretus brought them water for the hands in a flowered basin, / coming from the chamber” (3.440–441; see [[aretus-son-of-nestor]]), and “the old horse-driving Nestor / began the rite with the water for the hands and the barley grains” (3.444–445; see [[barley-grains]] and [[the-sacrifice-to-athena]]). χέρνιψ is water for washing, not for sprinkling, W. W. Merry notes, and he compares the water Priam's housekeeper pours over his hands before he pours his libation and prays (*Iliad* 24.302–306). The basin, in the scholiast's words, was worked with flowers in relief; it had been kept in a storeroom and brought out for the rite (Merry, *Commentary on the Odyssey*, 1886, on 3.440; see [[flowering]] and [[basin-and-pitcher]]). At Chryse the washing is a single verb in the verse of the preparation, “then they washed their hands and took up the barley grains” (*Iliad* 1.449); at Pylos the water is brought by a son and taken up by the old king as the first act of the rite (see [[sacrifice-type-scene]]).

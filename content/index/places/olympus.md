@@ -35,6 +35,10 @@ passages:
 
 {{notes}}
 
+## Elsewhere in Homer
+
+In the Odyssey it is already becoming an idealized heaven, never shaken by winds or wet with rain or snow (*Odyssey* 6.42–46), where *Iliad* 1 imagines it with snow.
+
 ## Outside Homer
 
-Mount Olympus, on the border of Thessaly and Macedonia, is the highest mountain in Greece, 2,917 meters at Mytikas. In the Odyssey it is already becoming an idealized heaven, never shaken by winds or wet with rain or snow (*Odyssey* 6.42–46). Iliad 1 imagines it with snow.
+Mount Olympus, on the border of Thessaly and Macedonia, is the highest mountain in Greece, 2,917 meters at Mytikas.

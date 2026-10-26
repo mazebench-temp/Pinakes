@@ -1,0 +1,5 @@
+---
+summary: The inner of the two courses debated at Lesbos runs “below Chios, past windy Mimas” (3.172).
+---
+
+The second course would take the ships “below Chios, past windy Mimas” (3.172), down the channel between the island and the mainland of Asia, where Mimas rises on the Erythraean peninsula (see [[chios]] and [[psyria]]). Merry traces it on the map: first south between Chios and the peninsula, past “the gusty Mimas”, and then westward by short voyages from island to island through the Cyclades until the ships made Euboea, a longer way than the straight crossing, but one that never kept them long from a port (Merry, *Commentary on the Odyssey*, 1886, on 3.169). He takes καθύπερθε, “above”, as “to the north”, as Phrygia lies καθύπερθε in Achilles' words to Priam (*Iliad* 24.545), so that ὑπένερθε, “below”, is to the south, inside Chios; he adds that καθύπερθε can also mean “inland” (Merry on 3.169). The god's sign sends the ships the other way, straight across the open sea (3.173–175; see [[teras]]).

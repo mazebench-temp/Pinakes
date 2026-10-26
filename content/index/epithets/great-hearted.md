@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “Great-spirited,” praise of heroes and peoples: μεγάθυμος and its synonym μεγαλήτωρ.
 aliases: [high-spirited, megathymos]
-grc: [μεγάθυμοι]
+grc: [μεγάθυμοι, μεγαθύμου, μεγαθύμους, μεγαλήτορος]
 en: [great-hearted]
 of: [achaeans, elders, iphitus, abantes, erechtheus, cephallenians, oeneus, protesilaus, diomedes, priam, eetion, aetolians]
 ---

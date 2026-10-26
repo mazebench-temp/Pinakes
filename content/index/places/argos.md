@@ -6,7 +6,9 @@ tags: [peloponnese, mainland-greece, city, argive, argolid]
 summary: The city in the northeastern Peloponnese and the plain around it. In Homer the name can also mean Agamemnon's wider realm, the Peloponnese or all Greece, and it gives the army one of its names, the [[Argives]].
 # μέσον Ἄργος, "the heart of Argos" (Od. 1.344; later 4.726, 4.816, 15.80), as a phrase: Ἄργος alone is also
 # Pelasgian Argos (Il. 2.681) and Odysseus' dog (Od. 17.292, 17.300).
-grc: [Ἄργεϊ, "μέσον Ἄργος"]
+# Ἄργεος (Od. 3.251, 3.263; later 4.99, 15.224, 21.108, 24.37) is always the place: it also catches nine Iliad lines
+# (2.287, 6.152, 7.363, 9.246, 12.70, 13.227, 13.379, 14.70, 19.329), which the Iliad Book 2 note claims as well.
+grc: [Ἄργεϊ, Ἄργεος, "μέσον Ἄργος"]
 en: [Argos]
 ---
 

@@ -1,0 +1,6 @@
+---
+summary: Gold at Pylos: Peisistratus pours wine for the strangers in a golden cup (3.41, 3.50–53), and golden cups serve the second feast (3.472); Nestor vows a heifer “with gold poured around her horns”, and the goldsmith Laerces works the gold he gives (3.384, 3.425–438). In Nestor's tale Aegisthus offers gold to the gods (3.274), Menelaus gathers gold in Egypt (3.301), and Mycenae is “rich in gold” (3.305).
+grc: [χρυσείῳ, χρύσειον, χρυσόν, χρυσέοις, χρυσοχόον]
+---
+
+Gold marks the house of a king and the gifts to the gods. The golden cup passes from Peisistratus to the stranger who looks older, the χρύσειον ἄλεισον, “golden goblet” (3.41, 3.50, 3.53; see [[cup]] and [[all-men-need-the-gods]]). The heifer's horns are gilded with Nestor's gold by a goldsmith who brings the tools of his craft, anvil, hammer and tongs; Merry takes περιχεύας as spreading gold leaf, not molten metal (*Commentary on the Odyssey*, 1886, on 3.384, 3.437; see [[laerces-the-goldsmith]] and the translation's note on 3.384, 3.437). Gold is also the wealth of the returns: Aegisthus hangs up “woven things and gold” as offerings (3.274; see [[reciprocity-with-the-gods]]), and Menelaus wanders among men of another tongue “gathering much substance and gold” (3.301; see [[the-wanderings-of-menelaus]]).

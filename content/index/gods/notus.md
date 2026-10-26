@@ -20,7 +20,7 @@ When Agamemnon has finished his speech, the Argives shout like a wave that the S
 
 ## Elsewhere in Homer
 
-Notus spreads mist on the mountain peaks (Iliad 3.10–11). With Eurus it pins Odysseus' ship on Thrinacia for a month (Odyssey 12.325–326), and the four winds strike his raft together (Odyssey 5.295–296).
+Notus spreads mist on the mountain peaks (3.10–11). With Eurus it pins Odysseus' ship on Thrinacia for a month (*Odyssey* 12.325–326), and the four winds strike his raft together (*Odyssey* 5.295–296).
 
 ## Outside Homer
 

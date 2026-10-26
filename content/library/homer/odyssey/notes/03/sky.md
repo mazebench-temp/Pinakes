@@ -1,0 +1,5 @@
+---
+summary: The book opens as the sun springs up “into the brazen sky, to give light to the immortals / and to mortal men” (3.1–3).
+---
+
+“And the sun sprang up, leaving the beautiful water, / into the brazen sky” (3.1–2; see [[helios]]). πολύχαλκος, “brazen”, Merry reports, was taken by the older commentators and by Eustathius for “solid”, “firm”, as the sky is χάλκεος, “bronze”, in the Iliad and σιδήρεος, “iron”, later in this poem (*Iliad* 17.425; 15.329), and as Pindar's bronze heaven abides forever, a sure seat (*Nemean* 6.3); others took it for “bright-flashing”, of the bronze-floored house of Zeus (*Iliad* 1.426). Merry himself prefers the picture of the sky as a vault of burnished metal (Merry, *Commentary on the Odyssey*, 1886, on 3.2; see [[brazen]] and [[bronze]]). The water the sun leaves is the farther margin of the stream of Ocean, beside which it rises (Merry on 3.1; see the translation's note on 3.1). Later in the book the gods are “those who have their homes on Olympus” (3.377; see [[olympus]]).

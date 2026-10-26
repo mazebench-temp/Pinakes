@@ -1,0 +1,12 @@
+---
+summary: Strabo reads Book 3 as a geographer. He sets the Pylians' sacrifice at the sanctuary of Samian Poseidon, proves from the book that Nestor's city lay inland and that Pherae was the house of Ortilochus, sends Athena to Caucones in the north of Elis, and finds Poseidon's temple at Geraestus; he takes the singer who guarded Clytemnestra for a teacher of self-control, Menelaus' wanderings for a voyage after wealth, Idomeneus' safe return for proof against the ruin of ten Cretan cities, and “Achaean Argos” for the Peloponnese.
+---
+
+- The sacrifice on the shore at the sanctuary of Samian Poseidon in Triphylia (*Geography* 8.3.16, on 3.4–6); the messenger sent to Telemachus' ship, as proof that Nestor's city lay more than thirty stades inland (*Geography* 8.3.26, on 3.423–424); and “sandy” Pylos, named, he thought, for the river Amathus (*Geography* 8.3.1, on 3.4): [[strabo-on-nestors-pylos]] and [[the-sacrifice-at-pylos]].
+- Athena's journey “to the great-hearted Caucones” (3.366), which shows, he argues, that Caucones lived also in the north of Elis, near Dyme (*Geography* 8.3.17): [[caucones]].
+- Pherae as the house of Ortilochus, where Telemachus and Peisistratus spend the night (*Geography* 8.5.8, on 3.488–489): [[pherae-in-messenia]].
+- Geraestus, which the Catalogue of Ships does not name, but where Nestor's ships “put in by night” (3.177–178): it lies conveniently for those who cross from Asia to Attica, near Sunium, and has the most notable temple of Poseidon in those parts (*Geography* 10.1.7): [[geraestus]].
+- The singer whom Agamemnon left to guard his wife, as proof that Homer made singers teachers of self-control, σωφρονισταί (*Geography* 1.2.3, on 3.267–272): [[the-singer-of-clytemnestra]].
+- Menelaus' wanderings, prolonged both against his will, by bad sailing, with five ships left to him out of sixty, and by his own wish, for gain, as Nestor says, “gathering much substance and gold” (*Geography* 1.2.31, on 3.299–302): [[the-wanderings-of-menelaus]].
+- Idomeneus, who brought all his companions back to Crete and lost none to the sea (3.191–192), as proof against the story that his enemies destroyed ten of the hundred cities of Crete (*Geography* 10.4.15): [[idomeneus]] and [[crete]].
+- “Achaean Argos” (3.251) as a name of the Peloponnese, and of Laconia in particular: some, he says, take “Was he not in Achaean Argos?” to mean “was he not in Laconia?” (*Geography* 8.5.5, 8.6.5): [[argos]].

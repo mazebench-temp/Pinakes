@@ -5,8 +5,8 @@ kind: epithet
 tags: [mainland-greece, seafaring]
 summary: “One's own land of the fathers,” the formula for home, φίλην ἐς πατρίδα γαῖαν, the goal of every return in the Iliad and the Odyssey.
 aliases: [native land, phile patris gaia]
-grc: [φίλην ἐς πατρίδα γαῖαν, φίλης ἀπὸ πατρίδος αἴης]
-en: [dear native land]
+grc: [φίλην ἐς πατρίδα γαῖαν, φίλης ἀπὸ πατρίδος αἴης, "πατρίδα γαῖαν"]
+en: [dear native land, native land]
 ---
 
 ## Meaning

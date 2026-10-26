@@ -5,7 +5,7 @@ kind: formula
 tags: [speech-formula, prayer]
 summary: The imperative “hear me” that opens a prayer (κλῦθί μευ) or a speech to a gathering (κέκλυτέ μευ), and the prayer's answering close, “and (the god) heard him.”
 aliases: [klythi meu]
-grc: [κλῦθί μευ, τοῦ δʼ ἔκλυε]
+grc: [κλῦθί μευ, τοῦ δʼ ἔκλυε, "κλῦθι Ποσείδαον"]
 en: [Hear me, heard him]
 ---
 

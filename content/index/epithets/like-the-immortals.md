@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “Like the immortals,” a line-end formula of praise for heroes.
 aliases: [epieikelos athanatoisin]
-grc: [ἐπιείκελον ἀθανάτοισιν]
+grc: [ἐπιείκελον ἀθανάτοισιν, "δέμας ἀθανάτοισιν ὁμοῖος"]
 en: [like the immortals]
 of: [theseus, achilles]
 ---

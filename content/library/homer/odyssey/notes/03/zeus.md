@@ -1,0 +1,21 @@
+---
+summary: In Nestor's tale Zeus is the god of the Achaeans' grim homecoming. When Troy had fallen he devised it for men “in no way discerning or just”, through the wrath of his daughter; he prepared a bane for them the night after the drunken assembly, roused a second strife at Tenedos, and off Malea poured shrill winds on Menelaus' ships. Telemachus says that the son of Cronus has made even his father's death unknown.
+# Unnamed: "the hard god, who roused evil strife" (3.161); "and poured on him the breath of shrill winds" (3.289).
+refs: [3.161, 3.289]
+passages:
+  - 3.130-161 | Zeus and the homecoming from Troy
+---
+
+**The son of Cronus.** Telemachus' first words to Nestor about his father end in Zeus: of the others who fought at Troy “we have heard where each one perished by a grim destruction; / but of that man the son of Cronus has made even the destruction unknown” (3.87–88; see [[son-of-cronus]] and [[odysseus]]). Even his death, Merry glosses, Zeus has put beyond the reach of inquiry, to say nothing of his other trials (*Commentary on the Odyssey*, 1886, on 3.88). Nestor credits him with the end of the war: “For nine years we stitched evils together for them, busy all around them / with tricks of every kind, and the son of Cronus barely brought it to an end” (3.118–119), with the change from the imperfect of the long labor to the aorist of its end (Merry on 3.119; see [[dolos]]).
+
+**The grim homecoming.** Then the homecoming:
+
+{{quote:41bfce4e-f666-5736-90b4-f1a648ddd4d7}}
+
+καὶ τότε, “then indeed”, begins the main clause after the long “when” (Merry on 3.132; see [[nostos]], [[the-returns-of-the-achaeans]] and [[the-departure-of-the-greeks]]). The fault named is the Achaeans' own: οὔ τι νοήμονες οὐδὲ δίκαιοι are Athena's words for the suitors in Book 2, “senseless men, since they are in no way discerning or just” (2.282), and Odysseus' for the Phaeacians when he wakes on Ithaca (13.209). Merry draws the same link between knowledge and propriety in the “wise and just man” in whom Athena rejoices at the feast (3.52), and compares these verses (on 3.52). Zeus devises; the wrath that carries it out is his daughter's (3.135; see [[athena]] and [[menis]]). In Book 1 Phemius sang “the grim homecoming that Pallas Athena laid on them from Troy” (1.327), and Telemachus answered that Zeus, not the singer, was to blame (1.347–349; see the Book 1 note). Nestor names them both.
+
+**Strife upon strife.** After the quarrel in the assembly at sunset the army spends the night “pondering harsh things in our minds / against one another; for Zeus was preparing a bane of evil for us” (3.151–152). At Tenedos they sacrifice, “eager to go home; but Zeus was not yet devising our homecoming, / the hard god, who roused evil strife against us once more, a second time” (3.159–161; see [[hard]] and [[tenedos]]). Their longing to go home, Merry notes, is the reason for the sacrifice, to win the gods' favor (on 3.160); σχέτλιος, “hard”, he derives from σχέσθαι, “holding out, holding with a firm grip”, the opposite of self-sparing, like Latin *improbus* (on 3.161). μήδετο, “devised”, has Zeus for its subject at both ends of the story: he “devised in his mind a grim homecoming” (3.132), and he “was not yet devising our homecoming” (3.160). In the same tale the god who shows Nestor a sign at Lesbos and sends the fair wind is not named (3.173–175, 3.183; see [[daimon]]).
+
+**Malea.** Menelaus, sailing on when he has buried his helmsman, meets the storm at the cape: “then far-seeing Zeus devised a hateful journey for him / and poured on him the breath of shrill winds, / and the waves swelled huge, like mountains” (3.288–290; see [[far-seeing]], [[the-wanderings-of-menelaus]] and [[malea]]). The verb is again a devising, ἐφράσατο; on τροφέοντο, “swelled”, see the translation's note on 3.290.
+
+**In men's mouths.** Nestor, protesting at the strangers' going back to their ship to sleep, says “May Zeus ward this off, and the other immortal gods” (3.346; see [[xenia]]). The narrator names Athena “daughter of aegis-bearing Zeus” (3.42, 3.394; see [[aegis-bearing]]) and “the daughter of Zeus” (3.337), as Nestor does when he knows her (3.378; see [[daughter-of-zeus]]); and the housekeeper stows food in the chariot “such as kings whom Zeus has nurtured eat” (3.480; see [[zeus-nurtured]]).

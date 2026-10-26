@@ -1,0 +1,8 @@
+---
+summary: Herodotus traces the Peisistratids of Athens to Nestor's house and the tyrant's name to Nestor's son, knows Caucones of Pylos among the first kings of the Ionians, tells how Menelaus, held in Egypt after the war, came to be hated there, and reckons three generations of men at a hundred years.
+---
+
+- **The name of Peisistratus.** The tyrants of Athens “were by descent Pylians and Neleids”, of the same stock as Codrus and Melanthus, who came to Athens as immigrants and became its kings, and in memory of this Hippocrates gave his son the name Peisistratus, “naming him after Peisistratus the son of Nestor” (*Histories* 5.65.3–4; on 3.36): [[peisistratus]] and [[pisistratus]].
+- **Caucones of Pylos.** Some of the Ionians chose as their kings “Caucones of Pylos, descended from Codrus son of Melanthus” (*Histories* 1.147.1). Merry takes these Pylian Caucones for the Triphylian branch of the people to whom Athena says she will go (on 3.366): [[caucones]].
+- **Menelaus in Egypt.** Herodotus' Egyptian priests told him that Menelaus came to Egypt after the fall of Troy, was received generously at Memphis and given back Helen and his goods; then, held there a long time by contrary winds, he seized two children of the country and sacrificed them, and fled to Libya, hated and pursued (*Histories* 2.119.1–3). Nestor knows only that the wind and the water carried five of his ships to Egypt, where he gathered much substance and gold (3.299–302): [[helen-in-egypt]] and [[the-wanderings-of-menelaus]].
+- **Three generations.** “Three generations of men are a hundred years” (*Histories* 2.142.2), the Greek reckoning that Merry sets beside Telemachus' “three generations of men” (on 3.245): [[nestors-three-generations]].

@@ -3,10 +3,10 @@ title: Schemer
 greek: δολομήτης
 kind: epithet
 tags: [divine-epithet, insult]
-summary: Hera's taunt when she challenges [[Zeus]] about his meeting with Thetis (1.540): “crafty-minded.”
+summary: “Crafty-minded”: δολομήτης, Hera's taunt when she challenges [[Zeus]] about his meeting with Thetis (1.540), and in the Odyssey δολόμητις, “scheming,” the standing epithet of Aegisthus, once given to Clytemnestra.
 aliases: [wily, dolometes]
-grc: [δολομῆτα]
-en: [you schemer]
+grc: [δολομῆτα, δολόμητιν, δολόμητις]
+en: [you schemer, scheming]
 of: [zeus]
 ---
 

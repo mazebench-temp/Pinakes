@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, weapon, trojan]
 summary: “With a good ash spear,” an epithet of [[Priam]] in the formula “Priam and the people of Priam of the good ash spear,” and of a few other spearmen.
 aliases: [eummelies, with the good ash spear]
-grc: [ἐϋμμελίω]
+grc: [ἐϋμμελίω, ἐϋμμελίην]
 en: [of the good ash spear]
 of: [priam]
 ---

@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet]
 summary: A line-end formula for the gods, and for the Muses, “who have their homes on Olympus.”
 aliases: [Olympia domat echontes]
-grc: [Ὀλύμπια δώματʼ ἔχοντες]
+grc: [Ὀλύμπια δώματʼ ἔχοντες, "Ὀλύμπια δώματʼ ἐχόντων"]
 en: [who have their homes]
 of: [olympians, muses]
 ---

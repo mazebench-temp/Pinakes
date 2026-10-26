@@ -1,0 +1,6 @@
+---
+summary: Nestor names the cause of the grim homecoming: many Argives met an evil fate “through the deadly wrath of the gray-eyed daughter of the mighty father, / who set strife between the two sons of Atreus” (3.135–136).
+grc: [μήνιος]
+---
+
+μήνιος ἐξ ὀλοῆς is Athena's wrath, the daughter of the mighty father (ὀβριμοπάτρης; see [[daughter-of-a-mighty-father]]), and the Odyssey uses the noun of gods only (see the note on Book 2). The book names the anger three ways: μῆνις, the wrath that brought an evil end on many (3.134–135); χόλος, the “terrible anger” that Agamemnon hoped to heal with hecatombs (3.145; see [[cholos]] and [[the-mind-of-the-gods-is-not-quickly-turned]]); and ἔρις, the strife the goddess set between the brothers (3.136; see [[eris]]). Merry takes the wrath as aimed first at the Locrian Ajax for his outrage on Cassandra, and at the Greek chiefs for leaving it unpunished, comparing 1.327 and Virgil, *Aeneid* 1.39 and after (*Commentary on the Odyssey*, 1886, on 3.135; see [[who-is-to-blame]]). The goddess whose wrath scattered the Achaeans sits at Nestor's feast in Mentor's likeness while he tells of it, and he knows her only when she goes (3.371–379; see [[athena]] and [[seeing-the-gods]]).

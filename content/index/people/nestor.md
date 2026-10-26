@@ -31,12 +31,18 @@ sort: 10
 
 Two generations of his contemporaries have died, and he rules among the third. His age is his authority.
 
+## Family
+
+His father is Neleus, whose name he bears in the patronymic Νηληϊάδης, “son of Neleus” (see [[neleus]] and [[son-of-neleus]]), and his mother is Chloris, the youngest daughter of Amphion, who bore Neleus three sons, Nestor, Chromius and Periclymenus, and a daughter, Pero (*Odyssey* 11.281–287). His wife is Eurydice, the eldest daughter of Clymenus (*Odyssey* 3.451–452; see [[eurydice]]). Two of his sons fight at Troy, Antilochus, who died there, and Thrasymedes (see [[antilochus]] and [[thrasymedes]]); the Odyssey names six at home in Pylos, Echephron, Stratius, Perseus, Aretus, Thrasymedes and Peisistratus (*Odyssey* 3.412–415; see [[echephron]], [[stratius]], [[perseus-son-of-nestor]], [[aretus-son-of-nestor]] and [[peisistratus]]), and the youngest of his daughters, Polycaste (*Odyssey* 3.464–465; see [[polycaste]]). His household has daughters, sons' wives and sons-in-law (*Odyssey* 3.387, 3.451).
+
 {{notes}}
 
 ## Elsewhere in Homer
 
-Nestor is the son of Neleus (Iliad 11.682–761). Heracles sacked Pylos and killed his eleven brothers (11.690–693; see [[heracles-sacks-pylos]]). His long tales of youth in the Iliad (7.132–157, 11.670–761, 23.629–642) are gathered under the period [[nestor]] in the Myths. In the Odyssey he is the first host of Telemachus' journey: he receives him at Pylos and tells him of the returns from Troy (*Odyssey* 3.102–200, 3.253–312; see [[the-returns-of-the-achaeans]]).
+Nestor is the son of Neleus (Iliad 11.682–761). Heracles sacked Pylos and killed his eleven brothers (11.690–693; see [[heracles-sacks-pylos]]). His long tales of youth in the Iliad (7.132–157, 11.670–761, 23.629–642) are gathered under the period [[nestor]] in the Myths. In the Odyssey he is the first host of Telemachus' journey: he receives him at Pylos and tells him of the returns from Troy (*Odyssey* 3.102–200, 3.253–312; see [[the-returns-of-the-achaeans]] and [[the-journey-of-telemachus]]). At home again Telemachus tells his mother that Nestor received him in his high house “as a father his son” (*Odyssey* 17.108–112, a plain rendering). In the underworld Agamemnon recalls how at the funeral of Achilles, when his mother came from the sea with the goddesses of the sea, Nestor, “whose counsel had proved best before”, kept the Achaeans from flight (*Odyssey* 24.51–57, a plain rendering).
 
 ## Outside Homer
 
-Cicero quoted his honeyed speech as proof that old age need not silence a man (*On Old Age* 31); see [[cicero-nestor-honey]]. The Mycenaean palace excavated at Pylos by Carl Blegen from 1939 is known as the Palace of Nestor.
+In the Hesiodic *Catalogue of Women*, when Heracles killed the eleven sons of Neleus, the twelfth, “the Gerenian horseman Nestor”, was away as a guest among the Gerenians and so alone escaped (fr. 11 Evelyn-White, from Stephanus of Byzantium; see [[gerenian-horseman]]). Apollodorus says that he was being brought up among the Gerenians, and gives him a wife, Anaxibia, daughter of Cratieus, two daughters, Peisidice and Polycaste, and seven sons, Perseus, Stratichus, Aretus, Echephron, Peisistratus, Antilochus and Thrasymedes (*Library* 1.9.9).
+
+Cicero quoted his honeyed speech as proof that old age need not silence a man (*On Old Age* 31); see [[cicero-nestor-honey]]. For his three generations in later writers see [[nestors-three-generations]], and for the wise old speaker of Plato's dialogues [[platos-nestor]]. The Mycenaean palace excavated at Pylos by Carl Blegen from 1939 is known as the Palace of Nestor.

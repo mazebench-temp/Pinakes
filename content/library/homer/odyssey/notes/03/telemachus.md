@@ -1,0 +1,38 @@
+---
+summary: The book of Telemachus' first visit. Athena tells him to put away his shame and go straight to Nestor; he fears he is too young, and she answers that a god will help him. Taking heart, he begs Nestor for the truth about his father and speaks so like Odysseus that the old man is filled with awe; he despairs of his father's return, is rebuked by the goddess, and asks how Agamemnon died. He sleeps in Nestor's house, is bathed by Polycaste, and drives toward Sparta with Peisistratus.
+# Unnamed: the landing (3.4-5, 3.10-11); Athena's counsel to him and his answer (3.13, 3.15-20, 3.22-25, 3.27-28,
+# 3.30-31); the welcome and the cup (3.34-35, 3.37-38, 3.40, 3.46-50, 3.61, 3.64); Nestor's question (3.69-74); his
+# daring and his speech (3.76-101); Nestor's tales and counsel to him, his answers and the goddess's rebuke
+# (3.103-200, 3.202-209, 3.211-224, 3.226-228, 3.231-238, 3.240-252, 3.254-328); the night in Nestor's house
+# (3.344, 3.347-355, 3.359-360, 3.368-370, 3.375-379, 3.397, 3.399-400); the bath (3.466-469); the drive (3.476, 3.482,
+# 3.486, 3.488, 3.490, 3.492-493, 3.495-496).
+refs: [3.4-5, 3.10-11, 3.13, 3.15-20, 3.22-25, 3.27-28, 3.30-31, 3.34-35, 3.37-38, 3.40, 3.46-50, 3.61, 3.64, 3.69-74, 3.76-101, 3.103-200, 3.202-209, 3.211-224, 3.226-228, 3.231-238, 3.240-252, 3.254-328, 3.344, 3.347-355, 3.359-360, 3.368-370, 3.375-379, 3.397, 3.399-400, 3.466-469, 3.476, 3.482, 3.486, 3.488, 3.490, 3.492-493, 3.495-496]
+passages:
+  - 3.13-30 | Athena encourages Telemachus
+  - 3.75-101 | Telemachus asks Nestor about his father
+  - 3.201-252 | Telemachus' despair
+---
+
+**No more need of shame.** As they come ashore Athena speaks to him first: “Telemachus, you have no more need of shame, not even a little” (3.14), where αἰδοῦς is “shyness” (Merry, *Commentary on the Odyssey*, 1886, on 3.14; see [[aidos]]). He has sailed to learn of his father, and he must beg Nestor himself to tell him truly (3.15–20): αὐτός is emphatic, for he must act for himself now and not depend on her (Merry on 3.19). He answers:
+
+{{quote:009a635c-24d7-52da-bf8f-d84cbf41bb60}}
+
+He has not practiced himself, Merry renders, “in wisely-worded address” (on 3.23). The goddess answers: “Telemachus, some things you will think of yourself in your own mind, / and in others a god too will give you counsel; for I do not think / that you were born and bred against the will of the gods” (3.26–28; see [[daimon]]). The second οὐ belongs with θεῶν ἀέκητι, a litotes, “not under the disfavour of heaven” (Merry on 3.27). Then he follows in the footprints of the goddess (3.29–30; see [[followed-in-the-footprints]]).
+
+**At the feast.** Peisistratus seats him and the goddess beside Nestor and Thrasymedes and gives the cup first to her, since Telemachus “is younger, of an age with me myself” (3.36–50; see [[peisistratus]]). Athena prays that he and she may return home “when we have done the business / for which we came here” (3.60–61; see [[prexis]]), and gives him the two-handled cup, “and in the same way the dear son of Odysseus prayed” (3.63–64; see [[libation]] and [[dear-son-of-odysseus]]).
+
+**The supplication.** When Nestor asks who they are, Telemachus answers “taking heart; for Athena herself had put daring in his mind, / so that he might ask him about his absent father, / and so that noble fame may be his among men” (3.76–78; see [[tharsos]] and [[kleos]]), the two purposes Athena gave for the journey in the council of the gods (1.94–95; see [[the-journey-of-telemachus]]). They come “from Ithaca under Neion” on a business that is “private, not public” (3.81–82; see [[neion]] and [[prexis]]): “I am in quest of the wide report of my father” (3.83). No one can tell where his father perished, “whether he was brought down on the mainland by hostile men / or on the open sea among the waves of Amphitrite” (3.90–91; see [[amphitrite]]); in ὄλωλεν (3.89) Merry hears the pathos of a son who accepts his father's death as a fact (on 3.89). “That is why I come now to your knees” (3.92; see [[supplication]]), and Nestor is not to soften anything “out of respect for me, or out of pity” (3.96; see [[aidos]] and [[pity]]). Telemachus says the same ten verses to Menelaus in Book 4 (3.92–101 = 4.322–331).
+
+**Like his father.** Nestor answers with the war and with Odysseus, and breaks off to look at the son: “your father, if truly / you are his offspring; awe holds me as I look at you” (3.122–123; see [[sebas]]). His words are so like his father's that, as Merry explains the lines, only a son could speak so (3.124–125; Merry on 3.124; see [[fathers-and-sons]] and the translation's note on 3.124–125).
+
+**Despair.** When Nestor holds up Orestes, he answers with a wish:
+
+{{quote:8dd4168f-f9cd-5b3e-be9c-d447dacd445b}}
+
+τοσσήνδε is “so great now, and in my person”, and the wish answers Nestor's words on Orestes (Merry on 3.205; see [[orestes]], [[olbos]] and [[telemachus-and-the-suitors]]). Nestor hopes that Athena may love him as she loved his father at Troy; he answers, “Old man, I do not think this word will ever be fulfilled; / for you have said too great a thing; amazement holds me” (3.226–227), and the goddess rebukes him: “Telemachus, what a word has escaped the barrier of your teeth! / A god, if he wished, could easily save a man even from far away” (3.230–231; see [[what-a-word]] and [[athena]]). τηλόθεν cannot belong to the god, as if he helped from afar, Merry says after Nitzsch, for Homer's gods help by being present; Nitzsch takes it with σαώσαι, “can bring a man safe home even from a great distance” (Merry on 3.231). Telemachus will talk of it no more: “Mentor, let us no longer talk like this, grieved though we are; / for him there is no longer any true homecoming” (3.240–241; see [[mentor]] and [[nostos]]). He changes the subject rather than occupy the old man with his own troubles (Merry on 3.240), and asks “how did the son of Atreus die, wide-ruling Agamemnon? / Where was Menelaus?” (3.248–249; see [[the-murder-of-agamemnon]]), where πῶς is the wonder that such a man came to such an end (Merry on 3.248).
+
+**Nestor's guest.** Nestor sends him on to Menelaus (3.313–328), keeps him from the ship (3.346–355; see [[nestor]] and [[xenia]]), and when the goddess has gone tells him, “My friend, I do not think you will be a coward and a weakling, / if, young as you are, the gods go with you as your escorts” (3.375–376; see [[seeing-the-gods]]). He sleeps “on a corded bed beneath the loud-resounding colonnade”, with Peisistratus beside him (3.399–401; see [[loud-resounding]] and [[peisistratus]]), and at dawn the sons bring him to sit beside them around their father before the sacrifice (3.416; see [[the-sacrifice-to-athena]]).
+
+**The bath and the chariot.** While the meat roasts Polycaste bathes him, and “he stepped out of the bathtub, like the immortals in form” (3.464–468; see [[polycaste]] and [[bathing]]). Then “Telemachus mounted the beautiful chariot” (3.481), Peisistratus takes the reins, and they drive by Pherae toward Sparta (3.481–497; see [[the-journey-of-telemachus]]).
+
+**Wise Telemachus.** The verse “And wise Telemachus answered him face to face” brings in five of his answers, three times with “him” for Nestor (3.75, 3.201, 3.225) and twice with “her” for the goddess (3.21, 3.239; see [[wise]]); at 3.75 it runs on into θαρσήσας, “taking heart”. The narrator calls him θεοειδής and θεοείκελος, “godlike” (3.343, 3.416; see [[godlike]]), “great-hearted” (μεγάθυμος 3.364, 3.423; μεγαλήτωρ 3.432; see [[great-hearted]]), and three times he is “the dear son of Odysseus” (3.64, 3.352, 3.398; see [[dear-son-of-odysseus]]).

@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, kingship]
 summary: The pastoral title of kings and leaders, above all of [[Agamemnon]].
 aliases: [poimen laon]
-grc: [ποιμένα λαῶν]
+grc: [ποιμένα λαῶν, "ποιμένι λαῶν"]
 en: [shepherd of the people]
 of: [dryas, agamemnon, atreus, nestor, glaucus, thrasymedes]
 ---

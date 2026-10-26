@@ -3,9 +3,9 @@ title: Daughter of the mighty father
 greek: ὀβριμοπάτρη
 kind: epithet
 tags: [divine-epithet, child-of-zeus]
-summary: “Daughter of a mighty father,” an epithet of [[Athena]], in the verse that ends her arming: for battle in the Iliad, for her journey to Ithaca in the Odyssey.
+summary: “Daughter of a mighty father,” an epithet of [[Athena]] at the end of the verse: in the verse that ends her arming, for battle in the Iliad and for her journey to Ithaca in the Odyssey, and twice in the Odyssey in the genitive γλαυκώπιδος ὀβριμοπάτρης.
 aliases: [obrimopatre, daughter of a mighty sire]
-grc: [ὀβριμοπάτρη]
+grc: [ὀβριμοπάτρη, ὀβριμοπάτρης]
 en: [daughter of the mighty father]
 of: [athena]
 ---

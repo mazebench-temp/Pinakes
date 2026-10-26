@@ -1,0 +1,7 @@
+---
+summary: The Argives are the army whose welfare Nestor and Odysseus planned with one mind at Troy, and for whom Zeus devised a grim homecoming (3.126–133); Athena honored Odysseus among them (3.379). Once the name is the people of Agamemnon's kingdom, to whom Orestes gave the funeral feast for Aegisthus (3.309).
+---
+
+**The army.** At Troy Nestor and Odysseus never spoke at odds, “but with one heart, with mind and thoughtful counsel, / we considered for the Argives how all might turn out best by far” (3.128–129; see [[odysseus]] and [[nestor]]). After the sack, Zeus “devised in his mind a grim homecoming / for the Argives, since in no way discerning or just / were they all” (3.132–134; see [[the-returns-of-the-achaeans]] and [[zeus]]). Nestor, recognizing Athena in her departure, calls her the goddess “who also honored your brave father among the Argives” (3.379; see [[athena]] and [[tritogeneia]]). In each case the Argives are the Achaeans of the war, as in the first two books (1.61, 1.211, 2.173; see [[achaeans]]).
+
+**The people of Argos.** When Orestes had killed Aegisthus, “he gave the Argives a funeral feast / for his hateful mother and for the coward Aegisthus” (3.309–310; see [[orestes]] and [[the-murder-of-agamemnon]]). The guests are the people of Mycenae and of Agamemnon's kingdom, the land that Telemachus has just called “Achaean Argos” (3.251; see [[argos]] and [[mycenae]]), and the feast shows Orestes justified in the eyes of his own people (Merry, *Commentary on the Odyssey*, 1886, on 3.309).

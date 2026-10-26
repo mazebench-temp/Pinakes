@@ -1,0 +1,5 @@
+---
+summary: Olympus is named once, when Nestor knows the stranger who has just left in the likeness of a sea eagle for no other “of those who have their homes on Olympus” but the daughter of Zeus (3.377–378).
+---
+
+**The homes on Olympus.** When the bird has gone, Nestor takes Telemachus by the hand: “For this was no other of those who have their homes on Olympus, / but the daughter of Zeus, most glorious Tritogeneia” (3.377–378; see [[athena]], [[olympians]] and [[tritogeneia]]). Ὀλύμπια δώματʼ ἔχοντες, “who have their homes on Olympus”, is a verse-end phrase for the gods as a body, from Chryses' plea to the Achaeans at the start of the Iliad (*Iliad* 1.18), and, in the feminine, for the Muses before the Catalogue (*Iliad* 2.484); the Odyssey has it again in Penelope's prayer to Artemis and in Odysseus' words to Penelope (20.79, 23.167; see [[homes-on-olympus]]). Athena came down to Ithaca “from the peaks of Olympus” in Book 1 (1.102); Nestor, who saw her only as Mentor, names her home when she has gone.

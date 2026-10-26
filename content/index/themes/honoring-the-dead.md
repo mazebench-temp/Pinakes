@@ -2,7 +2,7 @@
 title: Honoring the dead
 kind: theme
 tags: [fate, justice]
-summary: The dead are owed washing, lament, fire and a mound, “the prize of the dead”. The Iliad makes the return of bodies a term of challenges and truces, and the refusal of it the measure of Achilles' rage, until its last book gives Hector his funeral.
+summary: The dead are owed washing, lament, fire and a mound, “the prize of the dead”, and the worst of ends is to lie unburied for dogs and birds. The Iliad makes the return of bodies a term of challenges and truces, and the refusal of it the measure of Achilles' rage, until its last book gives Hector his funeral; in the Odyssey a dead companion is buried before the voyage goes on.
 aliases: [funeral rites, the care of the dead, the return of the body, the prize of the dead, burial of the dead]
 refs: [1.4-5, 7.76-86, 7.327-337, 7.375-377, 7.394-396, 7.408-411, 7.417-436]
 passages:

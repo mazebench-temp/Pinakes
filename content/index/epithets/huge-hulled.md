@@ -5,8 +5,8 @@ kind: epithet
 tags: [ship, rare-word]
 summary: An epithet of uncertain sense, “huge” or “with a great hollow,” used three times in the Iliad of ships, twice of Odysseus' ship in the middle of the Achaean line, and once each of a dolphin and of the sea.
 aliases: [megaketes, huge-hulled, with a great hollow]
-grc: [μεγακήτεϊ]
-en: [huge in the hull]
+grc: [μεγακήτεϊ, μεγακήτεα]
+en: [huge in the hull, vast-gulfed]
 of: [ships]
 ---
 

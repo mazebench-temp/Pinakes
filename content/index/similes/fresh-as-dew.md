@@ -4,7 +4,7 @@ greek: νῦν δέ μοι ἑρσήεις καὶ πρόσφατος ἐν με
 kind: simile
 tags: [fate, divine-will]
 summary: Hector's body, which has lain twelve days by the ships and been dragged around the mound of Patroclus, is kept by the gods from all harm and lies “fresh as dew”: so Hermes tells Priam (24.418–421), and Hecuba, lamenting over it in her halls, says that he lies fresh as dew and as if newly slain, like one whom Apollo has come upon and killed with his gentle arrows (24.757–759).
-aliases: [the gentle arrows of Apollo, like one whom Apollo has killed, as if newly slain, the gentle arrows, Hector's body kept fresh]
+aliases: [like one whom Apollo has killed, as if newly slain, Hector's body kept fresh]
 grc: ["οἷον ἐερσήεις", "ἑρσήεις καὶ πρόσφατος", "ἀγανοῖσι βέλεσσιν"]
 en: [fresh as dew, as if newly slain, has come upon and killed with his gentle]
 of: [hector, apollo, hecuba, hermes]

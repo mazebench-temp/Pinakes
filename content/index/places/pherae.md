@@ -10,4 +10,4 @@ grc: [Φεράς]
 
 {{quote:64714e4f-ec93-5528-98b3-a890f201ab27}}
 
-In the Odyssey, Eumelus lives at Pherae with his wife Iphthime, the sister of Penelope (4.797–798). Later legend made it the home of Admetus and Alcestis, and Euripides' *Alcestis* is set there. In the fourth century BC its rulers, above all Jason of Pherae, briefly made it the strongest power in Thessaly. It is not the Messenian Pherae (Φηραί) where Telemachus stops on his way to Sparta (*Odyssey* 3.488).
+In the Odyssey, Eumelus lives at Pherae with his wife Iphthime, the sister of Penelope (*Odyssey* 4.797–798). Diocles' Pherae, where Telemachus spends a night on his way to Sparta, is another town, in Messenia (see [[pherae-in-messenia]]). Later legend made it the home of Admetus and Alcestis, and Euripides' *Alcestis* is set there. In the fourth century BC its rulers, above all Jason of Pherae, briefly made it the strongest power in Thessaly. It is not the Messenian Pherae (Φηραί) where Telemachus stops on his way to Sparta (*Odyssey* 3.488).

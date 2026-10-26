@@ -4,7 +4,7 @@ greek: λιγυρός
 kind: epithet
 summary: “Clear-sounding, shrill,” an epithet of the wind's blast, of a whip, of a bird, and of the Sirens' song.
 aliases: [ligyros, clear-sounding, whistling]
-grc: [λιγυρῇσι]
+grc: [λιγυρῇσι, λιγέων, "λιγὺς οὖρος"]
 en: [shrill]
 ---
 

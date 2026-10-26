@@ -4,7 +4,9 @@ greek: Τυδεύς
 kind: person
 tags: [argive, warrior, argolid]
 summary: Father of [[Diomedes]]: an Aetolian, son of Oeneus, who settled at Argos and was killed in the war of the Seven against Thebes. The Iliad remembers him as a small man and a great fighter.
-grc: [Τυδέος]
+# Τυδεΐδεω (Od. 3.181; Il. 5.16, 10.566, 16.74, 23.405, which the Book 5 note's Τυδεΐδ* already claims): the
+# patronymic counts for the son too (diomedes).
+grc: [Τυδέος, Τυδεΐδεω]
 relations:
   - child: diomedes (2.406)
   - father: oeneus (14.115-118)

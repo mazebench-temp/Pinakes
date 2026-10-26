@@ -3,7 +3,7 @@ title: Aretus
 greek: Ἄρητος
 kind: person
 tags: [trojan, warrior]
-summary: A Trojan, “godlike Aretus”, who goes with Hector, Aeneas and Chromius to take the horses of Achilles. Automedon's spear passes through his shield and belt into his belly, he falls like an ox struck behind the horns, and Automedon strips him, a lesser man, he says, than Patroclus (17.483–542). Not Aretus, son of Nestor, in the Odyssey.
+summary: A Trojan, “godlike Aretus”, who goes with Hector, Aeneas and Chromius to take the horses of Achilles. Automedon's spear passes through his shield and belt into his belly, he falls like an ox struck behind the horns, and Automedon strips him, a lesser man, he says, than Patroclus (17.483–542). Not [[aretus-son-of-nestor|Aretus, son of Nestor]], in the Odyssey.
 aliases: [Aretos]
 # No form in this file: Ἄρητος (17.494), Ἀρήτοιο (17.517) and Ἄρητον (17.535) are claimed in the Book 17 note, in
 # the Iliad's scope, because the Odyssey's Aretus, son of Nestor, has the same name (Ἄρητος, Od. 3.414, 3.440).
@@ -22,4 +22,4 @@ passages:
 
 **Left on the field.** Hector's spear misses Automedon, and the two Ajaxes part the fighters before they come to swords (17.525–532; see [[the-two-ajaxes]]). Hector, Aeneas and Chromius give ground, “and they left Aretus there with his heart torn, / lying” (17.535–536). Since the wound is in the belly, Walter Leaf takes ἦτορ here as “the life” rather than the heart, and calls Heyne's conjecture δεδαϊγμένοι, which would give the torn hearts to the Trojans who leave him, “more natural” (*Commentary on the Iliad*, 1900, on 17.535). Automedon strips the armor and boasts: “Truly, a little at least, for the dead son of Menoetius / I have eased my heart of grief, though it is a lesser man I have killed” (17.537–539; see [[stripping-the-dead]], [[patroclus]] and [[achos]]). He puts the bloody spoils in the chariot and mounts it, “like a lion that has devoured a bull” (17.540–542; see [[lion-among-cattle]]). The man the narrator called “godlike” is to his killer only a lesser man than Patroclus (see [[godlike]]).
 
-**The name.** Ἄρητος seems to be formed like ἀρητός, “prayed for”, from ἀράομαι, “pray”, the adjective in πολυάρητος, “much prayed for” (*Odyssey* 6.280, 19.404). Homer's other Aretus is a son of Nestor, who brings the water for the hands at his father's sacrifice to Athena (*Odyssey* 3.414, 3.440).
+**The name.** Ἄρητος seems to be formed like ἀρητός, “prayed for”, from ἀράομαι, “pray”, the adjective in πολυάρητος, “much prayed for” (*Odyssey* 6.280, 19.404). Homer's other Aretus is [[aretus-son-of-nestor|a son of Nestor]], who brings the water for the hands at his father's sacrifice to Athena (*Odyssey* 3.414, 3.440).

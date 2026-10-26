@@ -3,9 +3,9 @@ title: Dark-prowed
 greek: κυανόπρῳρος
 kind: epithet
 tags: [ship, seafaring]
-summary: “With a dark prow,” an epithet of ships, frequent in the Odyssey and used three times in the Iliad, always in the verse-end νηὸς κυανοπρῴροιο.
+summary: “With a dark prow,” an epithet of ships, used three times in the Iliad and ten times in the Odyssey, nearly always in the verse-end νηὸς (νεὸς) κυανοπρῴροιο.
 aliases: [kyanoproros, dark-bowed]
-grc: [κυανοπρῴροιο]
+grc: [κυανοπρῴροιο, κυανοπρῳρείους]
 en: [dark-prowed]
 of: [ships]
 ---

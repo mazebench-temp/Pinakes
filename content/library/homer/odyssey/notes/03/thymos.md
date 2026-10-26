@@ -1,0 +1,5 @@
+---
+summary: Nestor and Odysseus at Troy had “one heart” (ἕνα θυμόν, 3.128); Aegisthus achieved a deed “which he had never expected in his heart” (3.275), and no one, Nestor says, “would expect in his heart” to come home from where Menelaus has been (3.319).
+---
+
+The θυμός is where a man expects and hopes. Aegisthus “had never expected in his heart” to succeed, and burned thigh-pieces and hung up offerings when he did (3.273–275; see [[aegisthus]]); Nestor uses the same words for the far-off men from whom Menelaus has lately come home, across a sea so great that not even the birds come back within the year (3.318–322; see [[the-wanderings-of-menelaus]] and the translation's table of key words). ἕνα θυμὸν ἔχοντε, “with one heart”, is Nestor's word for his agreement with Odysseus in council (3.127–129; see [[boule]]), and Nestor wishes that Athena might “care for you in her heart” as she cared for Odysseus (3.223; see [[philos]]). When the heifer's throat is cut, θυμός is the life that leaves her bones (3.455).

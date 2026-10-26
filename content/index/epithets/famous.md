@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, trojan]
 summary: “Renowned,” κλειτός and its family (τηλεκλειτός, ἀγακλυτός, κλυτός, τηλεκλυτός, περικλυτός): in the Iliad above all the epithet of the Trojans' allies in the formula κλειτοὶ ἐπίκουροι; of famous men, singers and glorious things.
 aliases: [renowned, kleitos, far-famed]
-grc: [κλειτῶν]
+grc: [κλειτῶν, ἀγακλειτῆς, ἀγακλυτὰ]
 en: [famous]
 of: [trojan-allies, idomeneus]
 ---

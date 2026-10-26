@@ -1,0 +1,5 @@
+---
+summary: Hades is named once, in the verse that tells of Nestor's father: Neleus, who used to sit on the polished stones before the doors, “had already been overcome by his doom and gone to the house of Hades” (3.410).
+---
+
+**Neleus in the house of Hades.** At dawn Nestor sits on the polished stones before his high doors, where Neleus used to sit, “a counselor equal to the gods; / but he had already been overcome by his doom and gone to the house of Hades, / and now Nestor in his turn sat on them” (3.406–411; see [[neleus]], [[nestor]] and [[ker-doom]]). The verse returns of Nausithous, the father of Alcinous, with the son again in the father's place: “but he had already been overcome by his doom and gone to the house of Hades, / and Alcinous was then ruling” (6.11–12). Ἄϊδόσδε, “to the house of Hades”, is Ἄϊδος, the genitive of the Iliad's “into the house of Hades”, δόμον Ἄϊδος εἴσω (*Iliad* 3.322), with -δε, “toward”. Elsewhere the Odyssey uses it of Elpenor's spirit, which went down to Hades when he fell from Circe's roof (10.560 = 11.65), and in Achilles' question to Odysseus among the dead, how he dared to come down to Hades (11.475).

@@ -5,11 +5,18 @@ kind: person
 tags: [woman, argive, atreidae]
 summary: Wife of [[Agamemnon]], who with [[Aegisthus]] killed him on his return from Troy. The Iliad names her once; in the Odyssey her crime is the warning set against Penelope's faithfulness.
 aliases: [Klytaimnestra, Clytaemnestra]
-grc: [Κλυταιμνήστρης]
+# Κλυταιμνήστρη, the nominative (Od. 3.266, 11.422, 11.439); the Iliad has only the genitive (1.113).
+grc: [Κλυταιμνήστρης, Κλυταιμνήστρη]
 en: [Clytemnestra]
 relations:
   - husband: agamemnon (1.113-114)
 ---
+
+## Descriptions
+
+- δῖα, “brilliant” (*Odyssey* 3.266), which Merry takes as “queenly”, of rank or birth only (Merry, *Commentary on the Odyssey*, 1886, on 3.266; see [[brilliant]]).
+- στυγερή, “hateful”: she is Orestes' “hateful mother” (*Odyssey* 3.310).
+- δολόμητις, “scheming” (*Odyssey* 11.422), the epithet of Aegisthus (see [[schemer]]); in the same speech Agamemnon's shade calls her οὐλομένη, “accursed” (*Odyssey* 11.410).
 
 {{notes}}
 

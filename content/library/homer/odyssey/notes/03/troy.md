@@ -1,0 +1,7 @@
+---
+summary: In Nestor's tales Troy is the great city of lord Priam, where the best of the Achaeans lie, and the starting point of every return; Agamemnon left the singer to guard his wife when he went “to Troy”, and Menelaus and Nestor sailed together “from Troy” (3.107–112, 3.130, 3.257, 3.268, 3.276).
+---
+
+**The city of the war.** Nestor remembers “all the battles around the great city of lord Priam / that we fought; and there all our best were killed” (3.107–108; see [[priam]]): there lie Ajax, Achilles, Patroclus and his own son Antilochus (3.109–112; see [[ajax]], [[achilles]], [[patroclus]] and [[antilochus]]). Its fall is told in a clause, “when we had sacked the steep city of Priam” (3.130; see [[the-fall-of-troy]] and [[steep]]), and the returns begin at once (see [[the-returns-of-the-achaeans]]).
+
+**To Troy and from Troy.** The adverbs of the voyage are new to the poem in this book. Τροίηνδε, “to Troy”, dates Agamemnon's charge to the singer, “as he left for Troy, to guard his wife” (3.268; see [[the-singer-of-clytemnestra]]). Τροίηθεν, “from Troy”, marks the homecomings: Menelaus “coming from Troy” too late to find Aegisthus alive (3.257), and Nestor and Menelaus “sailing together on our way from Troy” until Sunium (3.276; see [[menelaus]] and [[sunium]]). Both are formulaic in the later books: Τροίηθεν ἰών (*Iliad* 24.492; 4.488, 9.38) and Τροίηνδε κιών, said of Odysseus leaving home (16.289, 17.314, 19.8).

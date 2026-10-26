@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, patronymic, pylian]
 summary: The patronymic of [[Nestor]], from his father Neleus, king of Pylos.
 aliases: [Neleiades]
-grc: [Νηληΐῳ υἷι]
+grc: [Νηληΐῳ υἷι, Νηληϊάδ*]
 en: [son of Neleus]
 of: [nestor]
 ---

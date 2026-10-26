@@ -5,16 +5,17 @@ kind: place
 tags: [peloponnese, elis]
 summary: A river near [[Pheia]] in Elis, by whose streams the Pylians and the Arcadians fought in Nestor's youth (7.135). The Odyssey gives the same name to a river of Crete, where the Cydonians lived.
 aliases: [Iardanos, Jardanus, the river Iardanus]
-# The same half-verse, Ἰαρδάνου ἀμφὶ ῥέεθρα, names the Cretan river at Od. 3.292: another place, which
-# will need its own id and an except here when the Odyssey is indexed.
 grc: [Ἰαρδάνου]
+# The same half-verse, Ἰαρδάνου ἀμφὶ ῥέεθρα, names the Cretan river where the Cydonians lived (Od. 3.292):
+# another place, iardanus-in-crete.
+except: [Od. 3.292]
 passages:
   - 7.132-135 | The war of the Pylians and the Arcadians
 ---
 
 {{quote:6b4ee1ef-0542-5537-acd9-5c854a070e5f}}
 
-Ἰαρδάνου ἀμφὶ ῥέεθρα, “about the streams of the Iardanus” (7.135), is the last of the three landmarks by which Nestor places the battle of his youth, after the Celadon and the walls of Pheia (see [[celadon]], [[pheia]] and [[nestor-and-ereuthalion]]). The same half-verse names a river of Crete in the Odyssey, where the Cydonians lived and where some of Menelaus' ships were driven on their way home (Od. 3.291–292). The name has been compared with that of the Jordan (Hebrew *Yarden*), but the connection is uncertain.
+Ἰαρδάνου ἀμφὶ ῥέεθρα, “about the streams of the Iardanus” (7.135), is the last of the three landmarks by which Nestor places the battle of his youth, after the Celadon and the walls of Pheia (see [[celadon]], [[pheia]] and [[nestor-and-ereuthalion]]). The same half-verse names a river of Crete in the Odyssey, where the Cydonians lived and where some of Menelaus' ships were driven on their way home (*Odyssey* 3.291–292; see [[iardanus-in-crete]]). The name has been compared with that of the Jordan (Hebrew *Yarden*), but the connection is uncertain.
 
 ## Outside Homer
 

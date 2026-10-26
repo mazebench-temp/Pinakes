@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “A match for the gods,” a general honorific of heroes, often of heroes remembered from the past.
 aliases: [equal to the gods, antitheos]
-grc: [ἀντίθεον]
+grc: [ἀντίθεον, ἀντίθεος]
 en: [godlike]
 of: [polyphemus, mygdon, sarpedon, ajax]
 ---

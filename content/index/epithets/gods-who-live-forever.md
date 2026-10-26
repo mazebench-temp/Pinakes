@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet]
 summary: Formulas for the gods as a body, “the gods who are forever” (θεοὶ αἰὲν ἐόντες) and “the everlasting gods” (θεοὶ αἰειγενέται).
 aliases: [everlasting gods, theoi aien eontes]
-grc: [θεοὶ αἰὲν ἐόντες]
+grc: [θεοὶ αἰὲν ἐόντες, "αἰὲν ἐόντων"]
 en: [gods who live forever]
 of: [olympians]
 ---

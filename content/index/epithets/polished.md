@@ -5,7 +5,7 @@ kind: epithet
 tags: [warfare]
 summary: “Well-smoothed, polished,” ἐΰξοος, an epithet of things made of wood and horn, chariots, bows and spear shafts; and ξεστός, of dressed stone.
 aliases: [well-polished, euxoos]
-grc: [ἐΰξοον]
+grc: [ἐΰξοον, ξεστοῖσι]
 en: [polished]
 of: [chariot, priams-palace]
 ---

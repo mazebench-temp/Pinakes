@@ -17,12 +17,12 @@ relations:
 
 ## Family
 
-*Iliad* 4 names him without his father. From Book 5 on he is “the son of great-hearted Nestor” (μεγαθύμου Νέστορος υἱός, 5.565, 13.400, 17.653, 23.541; see [[great-hearted]]), or simply Νεστορίδης, “son of Nestor” (6.33, 15.589). He fights beside his brother Thrasymedes; together they are “the sons of Nestor” (Νεστορίδαι, 16.317). The Odyssey names Nestor's wife, Eurydice (Od. 3.451–452), and his sons at home in Pylos, among them Thrasymedes and Peisistratus (Od. 3.412–415), but not Antilochus' mother.
+*Iliad* 4 names him without his father. From Book 5 on he is “the son of great-hearted Nestor” (μεγαθύμου Νέστορος υἱός, 5.565, 13.400, 17.653, 23.541; see [[great-hearted]]), or simply Νεστορίδης, “son of Nestor” (6.33, 15.589). He fights beside his brother Thrasymedes; together they are “the sons of Nestor” (Νεστορίδαι, 16.317). The Odyssey names Nestor's wife, Eurydice (Od. 3.451–452; see [[eurydice]]), and his sons at home in Pylos, among them Thrasymedes and Peisistratus (Od. 3.412–415; see [[peisistratus]]), but not Antilochus' mother.
 
 ## Descriptions
 
 - μενεχάρμης = μένω (“stand fast”) + χάρμη (“battle”; see [[charme]]): “steadfast in battle” (13.396, 15.582, 23.419).
-- Young and swift. Menelaus tells him that no other Achaean is younger than he, or swifter of foot, or as brave in the fight (15.569–570). He runs to Achilles πόδας ταχύς, “swift of foot” (18.2), and at the games “he, for his part, beat all the young men in running” (23.756). The Odyssey remembers him as πέρι μὲν θείειν ταχὺς ἠδὲ μαχητής, “surpassing in speed of foot, and a fighter” (Od. 3.112, 4.202).
+- Young and swift. Menelaus tells him that no other Achaean is younger than he, or swifter of foot, or as brave in the fight (15.569–570). He runs to Achilles πόδας ταχύς, “swift of foot” (18.2), and at the games “he, for his part, beat all the young men in running” (23.756). The Odyssey remembers him as πέρι μὲν θείειν ταχὺς ἠδὲ μαχητής, “swift beyond others in running, and a fighter” (Od. 3.112; again in the accusative, Od. 4.202).
 - πεπνυμένος, “wise” (23.570, 23.586), and ἀμύμων, “noble”, in the Iliad (23.522) and in the Odyssey (Od. 4.187, 11.468, 24.16).
 
 {{notes}}
@@ -35,7 +35,7 @@ When Patroclus falls, Menelaus sends him to Achilles with the news. He is struck
 
 At the funeral games he drives Nestor's horses. He forces past Menelaus where the road narrows and comes in second “by crafty ways, not by speed” (23.402–447, 23.515). When Achilles proposes to give his prize to Eumelus, he refuses, and Achilles smiles, “rejoicing in Antilochus, since he was his dear companion” (23.555–556). Menelaus accuses him of foul driving; Antilochus gives way to the older man, and Menelaus lets him keep the mare (23.566–611). He comes in last in the footrace, says that the gods honor older men, and wins half a talent of gold from Achilles for his compliment (23.785–797).
 
-**In the Odyssey.** Nestor counts him among the best who died at Troy: “my own dear son, strong and noble, Antilochus” (Od. 3.111–112). His brother Peisistratus, who never met him, weeps for him as the man “whom the shining son of bright Dawn killed” (Od. 4.186–202), that is, Memnon, whom the Odyssey names elsewhere (Od. 11.522). His ghost comes with those of Achilles, Patroclus and Ajax (Od. 11.467–469, 24.15–17). His bones lie in the great mound on the Hellespont, apart from those of Achilles and Patroclus, which are mixed in one golden jar; after Patroclus, Achilles honored him above all his companions (Od. 24.76–84).
+**In the Odyssey.** Nestor counts him among the best who died at Troy: “and there my own dear son, at once strong and noble, / Antilochus” (Od. 3.111–112). His brother Peisistratus, who never met him, weeps for him as the man “whom the shining son of bright Dawn killed” (Od. 4.186–202, a plain rendering; see [[peisistratus]]), that is, Memnon, whom the Odyssey names elsewhere (Od. 11.522). His ghost comes with those of Achilles, Patroclus and Ajax (Od. 11.467–469, 24.15–17). His bones lie in the great mound on the Hellespont, apart from those of Achilles and Patroclus, which are mixed in one golden jar; after Patroclus, Achilles honored him above all his companions (Od. 24.76–84).
 
 ## Outside Homer
 

@@ -5,7 +5,7 @@ kind: epithet
 tags: [sea, cosmic]
 summary: “Misty, hazy”: ἠεροειδής, in the Odyssey the standing epithet of the sea seen from far off, used twice in the Iliad, once of the sea and once alone, of the haze on the horizon; and ἠερόεις, of Tartarus and of the gloom of the dead.
 aliases: [eeroeides, eeroeis, hazy]
-grc: [ἠεροειδὲς]
+grc: [ἠεροειδὲς, ἠεροειδέι]
 en: [haze]
 of: [sea, tartarus]
 ---

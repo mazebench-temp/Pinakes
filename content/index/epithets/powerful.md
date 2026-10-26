@@ -7,7 +7,8 @@ summary: “Ruling, lord”: an old title of [[Agamemnon]], above all in the for
 aliases: [ruling, lord, kreion]
 # !=κρειῶν keeps out κρέας "meat" (11.551 = 17.660).
 grc: [κρείων, "!=κρειῶν"]
-except: [1.102, 1.355, 1.411]
+# κρείων at Od. 3.248 is wide-ruling (Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων).
+except: [1.102, 1.355, 1.411, Od. 3.248]
 en: [powerful]
 of: [agamemnon, agapenor, helicaon]
 ---

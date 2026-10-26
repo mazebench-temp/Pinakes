@@ -22,4 +22,4 @@ A raid, to drive off herds (ἐλαύνω) or to sack a town (πέρθω), broug
 
 ## Outside Homer
 
-Thucydides saw raiding as the ordinary life of early Greece: it brought no shame but some glory, as the old poets show when they ask strangers whether they are pirates (1.5).
+Thucydides saw raiding as the ordinary life of early Greece: it brought no shame but some glory, as the old poets show when they ask strangers whether they are pirates (Thucydides 1.5; see [[thucydides-and-the-pirates]]).

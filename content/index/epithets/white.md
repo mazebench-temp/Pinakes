@@ -3,9 +3,9 @@ title: White
 greek: ἀργεννός, ἀργής
 kind: epithet
 tags: [livestock]
-summary: “Shining white,” epithets of sheep, linen and robes, from the root of brightness that gives ἄργυρος, “silver.”
+summary: “Shining white,” ἀργεννός and ἀργής, epithets of sheep, linen and robes, from the root of brightness that gives ἄργυρος, “silver”; and in the Odyssey λευκός, “white,” of bones, sails and stones.
 aliases: [bright, argennos, arges]
-grc: [ἀργεννῇσι, ἀργεννάων, ἀργῆτι]
+grc: [ἀργεννῇσι, ἀργεννάων, ἀργῆτι, "λευκοί ἀποστίλβοντες"]
 en: [white]
 of: [sheep]
 ---

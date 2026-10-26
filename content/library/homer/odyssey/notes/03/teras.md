@@ -1,0 +1,5 @@
+---
+summary: At Lesbos, Nestor and his companions ask the god “to show us a sign”, φῆναι τέρας, and he shows it (3.173–174).
+---
+
+**A sign asked for.** ᾐτέομεν δὲ θεὸν φῆναι τέρας, “And we asked the god to show us a sign” (3.173; see [[divination]], where the passage is quoted). φαίνω, “show”, is the verb of the portent. At Aulis, Calchas says, “To us Zeus the counselor has shown this great sign” (ἔφηνε, *Iliad* 2.324; see [[the-portent-at-aulis]]). In the later books of the Odyssey the gods show portents to the companions who have eaten the cattle of the Sun, when the hides crawl and the meat lows on the spits (12.394–396); Nestor's son Peisistratus asks Menelaus whether the god showed the sign of the eagle and the goose for the two of them or for Menelaus himself (15.166–168); and Odysseus asks Zeus to let another sign be shown outside the house (20.101; plain renderings). Here, as Odysseus will, Nestor asks for his sign, and the poem does not say what it was. It is known only by what it bade them do: “cut across the middle of the open sea to Euboea” (3.174–175).

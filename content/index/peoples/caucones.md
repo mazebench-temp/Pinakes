@@ -3,13 +3,13 @@ title: Caucones
 greek: Καύκωνες
 kind: people
 tags: [trojan]
-summary: A people allied to Troy, not in the Trojan Catalogue: Dolon places them by the sea (10.429), and Aeneas lands among them when Poseidon carries him out of the fight (20.328–329). The Odyssey knows Caucones near Nestor's Pylos (Od. 3.366), and later Greeks found them in Elis and on the Black Sea coast.
+summary: A people allied to Troy, not in the Trojan Catalogue: Dolon places them by the sea (10.429), and Aeneas lands among them when Poseidon carries him out of the fight (20.328–329). The Odyssey knows Caucones near Nestor's Pylos (*Odyssey* 3.366), and later Greeks found them in Elis and on the Black Sea coast.
 aliases: [Kaukones, Cauconians]
-# Later: Καύκωνες (20.329); Καύκωνας (Od. 3.366), the Caucones of the western Peloponnese.
-grc: [Καύκωνες]
+# Later: Καύκωνες (20.329). Καύκωνας (Od. 3.366), the Caucones of the western Peloponnese, is found only there.
+grc: [Καύκωνες, Καύκωνας]
 ---
 
-Dolon names the Caucones among the allies camped “toward the sea” (10.428–429; see [[trojan-allies]]). The Trojan Catalogue does not name them (see [[trojan-catalogue]]). When Poseidon lifts Aeneas out of his fight with Achilles, Aeneas comes “to the far edge of the furious war, / where the Caucones were arming themselves for war” (20.325–329). Homer does not say where they came from. In the Odyssey, Athena in the likeness of Mentor leaves Nestor's house at Pylos to go “to the great-hearted Caucones”, where a debt is owed to her (*Odyssey* 3.366–368). Whether the poems mean one people is not known.
+Dolon names the Caucones among the allies camped “toward the sea” (10.428–429; see [[trojan-allies]]). The Trojan Catalogue does not name them (see [[trojan-catalogue]]). When Poseidon lifts Aeneas out of his fight with Achilles, Aeneas comes “to the far edge of the furious war, / where the Caucones were arming themselves for war” (20.325–329). Homer does not say where they came from. In the Odyssey, Athena in the likeness of Mentor tells Nestor at Pylos that she will go at dawn “to the great-hearted Caucones”, where a debt is owed her (*Odyssey* 3.366–368). Whether the poems mean one people is not known; Merry keeps them apart, the Caucones of the Odyssey being a people of the western Peloponnese and those of the Iliad allies of Troy from Paphlagonia (*Commentary on the Odyssey*, 1886, on *Odyssey* 3.366).
 
 ## Outside Homer
 

@@ -1,0 +1,16 @@
+---
+summary: While the meat of the sacrifice roasts, Nestor's youngest daughter Polycaste bathes Telemachus, anoints him with oil and puts a mantle and a tunic around him, and he steps from the bathtub like the immortals in form and sits down beside Nestor for the feast (3.464–469).
+en: [anointed him richly with olive oil, bathtub]
+passages:
+  - 3.464-469 | Polycaste bathes Telemachus
+---
+
+**The bath of a guest.** The guest is bathed between the sacrifice and the meal, while the others roast the meat:
+
+{{quote:2bbbeaea-6cb9-5d6c-a832-94e9eef34acc}}
+
+The verses are the Odyssey's verses of the bath. “And when she had bathed him and anointed him richly with olive oil” is the verse of Odysseus' bath in Circe's house (3.466 = 10.364; see [[circe]]); “and put a fine mantle and a tunic around him” is said of Odysseus' bath on the day of the recognition, and in the Iliad of Hector's body, washed and anointed by Achilles' slave women (3.467 = 23.155; *Iliad* 24.588; see [[cloak]] and [[tunic]]); and “he stepped out of the bathtub, like the immortals in form” is said again only of Odysseus, when Athena has made him taller and stouter to look at after that bath (3.468, as 23.163). The son's bath at Pylos and the father's in his own house end in the same verse. λοῦσεν has the force of a pluperfect, “meanwhile Polycasta had bathed” (Merry, *Commentary on the Odyssey*, 1886, on 3.464), and λίπʼ ἐλαίῳ, “richly with olive oil”, is always joined with the verbs of anointing (Merry on 3.466).
+
+**Who gives the bath.** Telemachus is bathed by a daughter of the house, and Merry gathers the passages on the part women take in the bathing of men in the Odyssey, after Gladstone (on 3.465; see [[polycaste]]). Gladstone argued that λούειν can mean “have bathed”, to supply what the bath needs, as εἷσε, “seated me”, can mean “bade me sit” (10.366). So in Scheria Nausicaa bids her handmaids bathe the stranger; they set out the oil and the clothes and bid him bathe in the river, and he will not bathe before the girls, “for I am ashamed”; yet he tells Arete afterward that Nausicaa “bathed me in the river” (6.209–222, 7.296; plain renderings). Merry's own conclusion is that the bath was a chief part of a guest's welcome, that the mistress of the house or a grown daughter, who oversaw the household, gave the orders for it, and that slave women carried them out. So the bath is said to be given now by the mistress or the daughter, as by Polycaste here and by Helen, who tells how she bathed Odysseus when he came into Troy in disguise (4.252); now by handmaids at a mistress's orders, as in Scheria and when Penelope bids her women wash the beggar (6.209–216, 19.317); and now by slave women alone, as when Telemachus and Peisistratus are bathed at Sparta (4.48–49; see [[handmaids]]). That it was the special duty of a king's daughter, or a mark of favor from Polycaste to Telemachus, or a slave's task only where there was no daughter, is not consistent with all the passages, in Merry's view (on 3.465).
+
+**To the feast.** Bathed and dressed, Telemachus “went and sat down beside Nestor, shepherd of the people” (3.469; see [[nestor]]), and the feast of the sacrifice begins (3.470–474; see [[feast-type-scene]] and [[the-sacrifice-to-athena]]).

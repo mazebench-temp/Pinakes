@@ -5,7 +5,7 @@ kind: epithet
 tags: [weapon, craftsman]
 summary: “Many-colored, intricately wrought,” an epithet of armor, chariots and robes, and later of a cunning mind.
 aliases: [many-colored, elaborate, poikilos]
-grc: [ποικίλα]
+grc: [ποικίλα, "ἅρματα ποικίλʼ"]
 en: [inlaid]
 ---
 
