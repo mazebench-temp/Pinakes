@@ -1,0 +1,8 @@
+---
+summary: μοῖρα is a “part” of Menelaus' wealth (4.97), what is “fair and right” (4.266) and “in good order” (4.783), and a man's fate: Proteus tells Menelaus that “it is not your fate” to reach home until he has made the sacrifices (4.475), and that he is not to die and “meet your fate” in Argos (4.562). Menelaus foresees “a shameful doom” for the suitors (4.339–340), who would all be “swift-fated” (4.346).
+en: [part, doom]
+---
+
+**Share.** The first sense is a part or portion: Menelaus would gladly live with “even a third part” of his wealth, τριτάτην ... μοῖραν, if the men who died at Troy were safe (4.97–99; see [[olbos]]). κατὰ μοῖραν is “fairly, as is due”: Menelaus grants that all Helen has said is “fair and right” (4.266), and the suitors fit out their ship “all in good order” (4.783).
+
+**Fate.** Proteus tells Menelaus, οὐ γάρ τοι πρὶν μοῖρα, “For it is not your fate” to see his friends and his home until he has gone back to the river Aegyptus and offered hecatombs (4.475–480; see [[reciprocity-with-the-gods]]), and that it is not decreed for him to die and “meet your fate” in Argos, since the immortals will send him to the Elysian plain (4.561–569; see [[thesphaton]]). πότμος is the death a man meets: Peisistratus weeps for any mortal “who dies and meets his fate” (4.196), and Medon cannot say whether Telemachus has gone to learn of his father's homecoming “or what fate he has met” (4.714). Menelaus' simile turns it against the suitors: the lion “brings a shameful doom on both of them, / so Odysseus will bring a shameful doom on those men” (4.339–340; see [[lion]]), and if Odysseus met them as he was at Lesbos, “they would all be swift-fated, and bitter would their wedding be” (4.346; see [[the-suitors]]).

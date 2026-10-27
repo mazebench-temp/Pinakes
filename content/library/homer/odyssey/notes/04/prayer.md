@@ -1,0 +1,8 @@
+---
+summary: Eurycleia sends Penelope to pray to Athena; with barley grains in a basket she prays, “Hear me, child of aegis-bearing Zeus, Atrytone”, by the thigh-pieces Odysseus burned to her, to save her son, and the goddess “heard her prayer” (4.750–767). The phantom says that other men too have prayed to have Athena beside them (4.826–828).
+grc: ["=ἠρᾶτο", "=ἀρῆς", ἠρήσαντο]
+---
+
+**Penelope's prayer.** Eurycleia, confessing that she kept Telemachus' voyage secret, bids Penelope bathe, put on clean clothes, go up to her upper room with her women “and pray to Athena, daughter of aegis-bearing Zeus; / for then she might save him even from death” (4.750–753; see [[euchomai]]). Penelope does all this, puts barley grains in a basket, “and prayed to Athena” (4.759–761; see [[barley-grains]] and [[upper-room]]). The prayer has its parts: the call, “Hear me, child of aegis-bearing Zeus, Atrytone” (4.762; see [[hear-me]] and [[atrytone]]); the claim, the fat thigh-pieces of ox or sheep that Odysseus burned to her (4.763–764; see [[thigh-pieces]] and [[reciprocity-with-the-gods]]); and the request, “remember these things now for me, and save my dear son, / and ward off the suitors, wickedly overweening” (4.765–766). She raises the cry, “and the goddess heard her prayer” (4.767; see [[ololyge]] and [[athena]]).
+
+**The answer.** That night Athena's phantom tells Penelope that her son has an escort “whom other men too / have prayed to stand beside them, for she has the power, / Pallas Athena” (4.826–828; see [[eidolon]]). Menelaus, on Pharos, goes along the shore “imploring the gods earnestly” before the ambush (4.433; see [[gounata]]).

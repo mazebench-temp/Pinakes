@@ -1,0 +1,5 @@
+---
+summary: Proteus names fair-haired Rhadamanthys as the one who is already in the Elysian plain, to which the immortals will send Menelaus instead of letting him die.
+---
+
+**In the Elysian plain.** Rhadamanthys is the only inhabitant of the plain whom Proteus names: “the immortals will send you, where fair-haired Rhadamanthys is” (4.564; see [[elysium]] and [[proteus]]). ξανθὸς Ῥαδάμανθυς, “fair-haired Rhadamanthys”, has the epithet of Menelaus himself, ξανθὸς Μενέλαος, all through this book (see [[fair-haired]] and [[menelaus]]), and the Odyssey gives it to him again when Alcinous tells how the Phaeacians carried him to Euboea (ξανθὸν Ῥαδάμανθυν, 7.323). The Iliad calls him “godlike Rhadamanthys”, the son whom the daughter of Phoenix bore to Zeus (*Iliad* 14.321–322; see the note on *Iliad* 14). Merry sets the two together: favored heroes such as Rhadamanthys, the son of Zeus, and Menelaus, his son-in-law, are carried alive to Elysium (*Commentary on the Odyssey*, 1886, on 4.563). The poem does not say what he does there. The judge of the dead belongs to later writers (see the general article).

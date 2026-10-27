@@ -1,0 +1,7 @@
+---
+summary: Two baskets: Helen's silver work basket on wheels, with its golden rim, a gift from Egyptian Thebes, which Phylo sets beside her full of yarn (4.125–135); and the basket in which Penelope puts the barley grains when she prays to Athena (4.761).
+---
+
+**Helen's work basket.** Phylo brings “a silver basket, which had been given her / by Alcandre, the wife of Polybus, who lived in Thebes / in Egypt” (4.125–127; see [[phylo]], [[alcandre]] and [[thebes-in-egypt]]). It is a τάλαρος ὑπόκυκλος, “a basket on wheels”, of silver, “and its rims were finished with gold” (4.131–132), and it holds finely spun yarn, with the distaff across it (4.133–135; see [[distaff]] and [[gold-and-silver]]). W. W. Merry renders the rim “finished off with gold” and defends κεκράαντο, from κραίνω, “complete”, against the scholiast's κεκέραστο, “mixed”, which Cobet preferred: the poet speaks of the rim of gold added as a finish (*Commentary on the Odyssey*, 1886, on 4.131 and 4.132). The same words finish the rim of the silver mixing bowl that Menelaus gives Telemachus, χρυσῷ δʼ ἐπὶ χείλεα κεκράανται (4.616; see [[mixing-bowl]]).
+
+**Penelope's basket.** When Penelope has bathed and gone up to her room, she “put barley grains in a basket, and prayed to Athena” (4.761; see [[barley-grains]] and [[penelope]]). The barley was not burned, Merry notes against Nitzsch, but poured out from the basket as wine from a cup, so that it was rather the equivalent of a libation; the scholium's view that the basket stood in for an altar he rejects (on 4.761; see [[libation]]).

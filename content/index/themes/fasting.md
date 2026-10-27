@@ -3,7 +3,7 @@ title: Fasting
 greek: νῆστις
 kind: theme
 tags: [feast, body, warfare]
-summary: Going without food and drink, the mourner's refusal to eat. The Iliad's faster is Achilles, who will not eat while Patroclus lies unavenged, against Odysseus' argument that men must eat to fight; in the last book Priam eats for the first time since Hector's death.
+summary: Going without food and drink, the mourner's refusal to eat. The Iliad's faster is Achilles, who will not eat while Patroclus lies unavenged, against Odysseus' argument that men must eat to fight; in the last book Priam eats for the first time since Hector's death. In the Odyssey Penelope lies fasting in fear for her son.
 aliases: [fast, hunger, nēstis, nestis, akmēnos, akmenos, apastos, going without food, unfed]
 grc: [νήστιας, "=ἄκμηνος", ἀκμήνους, ἄκμηνον, ἄπαστος]
 en: [fasting, unfed, going without, goes without, has tasted nothing]

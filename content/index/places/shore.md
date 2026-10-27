@@ -6,7 +6,10 @@ tags: [sea, camp]
 summary: The beach along the sea, θίς, ἠϊών or ἀκτή. In the Iliad it is the edge of the Achaean camp, where the ships are drawn up in rows; in both poems it is where ships are launched and crews gather, and where men go apart in their grief and speak to the gods.
 aliases: [beach, shore]
 # θινὶ (Od. 2.408; later Od. 3.5, 7.290, 9.551, 11.75) also catches Il. 4.248 and 23.59, which the Book 23 note claims.
-grc: [θῖνα, θῖνʼ, θινὶ]
+# ῥηγμῖνι θαλάσσης, "where the sea breaks upon the shore", "the shore of the sea" (Od. 4.430, 4.449, 4.575, and
+# seven times in later books), as a phrase: it also catches Il. 1.437, 2.773, 8.501 and 16.67. ῥηγμῖνος alone is the line
+# of breakers that the mares of Erichthonius run over (Il. 20.229), and is not caught.
+grc: [θῖνα, θῖνʼ, θινὶ, "ῥηγμῖνι θαλάσσης"]
 en: [shore]
 ---
 

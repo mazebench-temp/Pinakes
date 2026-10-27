@@ -22,7 +22,7 @@ He is introduced by his father's name, τὸν δʼ αὖτʼ Εὐρύμαχο�
 
 ## Descriptions
 
-He is θεοειδής, “godlike” (*Odyssey* 4.628, 21.186; see [[godlike]]), and with Antinous one of the “leaders of the suitors, and by far the best in excellence” (*Odyssey* 4.629 = 21.187; see [[antinous]] and [[the-suitors]]). Telemachus says that the Ithacans now look on him as on a god, that he is by far the best man, and that he is most eager to marry Penelope and to have Odysseus' honor (*Odyssey* 15.519–522); according to Athena, Penelope's father and brothers urge her to marry him, since he outdoes all the suitors in gifts and has raised his bride-price (*Odyssey* 15.16–18; see [[icarius]]). The renderings of later books here are plain renderings, not the translation.
+He is θεοειδής, “godlike” (*Odyssey* 4.628, 21.186; see [[godlike]]), and with Antinous one of the “leaders of the suitors, and in excellence they were by far the best” (*Odyssey* 4.629 = 21.187; see [[antinous]] and [[the-suitors]]). Telemachus says that the Ithacans now look on him as on a god, that he is by far the best man, and that he is most eager to marry Penelope and to have Odysseus' honor (*Odyssey* 15.519–522); according to Athena, Penelope's father and brothers urge her to marry him, since he outdoes all the suitors in gifts and has raised his bride-price (*Odyssey* 15.16–18; see [[icarius]]). The renderings of later books here are plain renderings, not the translation.
 
 {{notes}}
 

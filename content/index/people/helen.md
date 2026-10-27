@@ -18,7 +18,7 @@ featured: true
 
 ## Family
 
-Homer calls her the daughter of Zeus (Ἑλένη Διὸς ἐκγεγαυῖα, 3.199, 3.418), the sister of [[Castor]] and [[Polydeuces]], “whom one mother bore with me” (3.236–244), and the wife of [[Menelaus]], whom Priam calls her “former husband” (3.163). At Troy she is the wife of [[Paris]] (3.329, 3.427). Homer never names her mother. The Odyssey names the brothers' mother, Leda, the wife of Tyndareus (11.298–300), but does not call her Helen's. By Menelaus Helen had one child, a daughter, Hermione (Odyssey 4.12–14).
+Homer calls her the daughter of Zeus (Ἑλένη Διὸς ἐκγεγαυῖα, 3.199, 3.418), the sister of [[Castor]] and [[Polydeuces]], “whom one mother bore with me” (3.236–244), and the wife of [[Menelaus]], whom Priam calls her “former husband” (3.163). At Troy she is the wife of [[Paris]] (3.329, 3.427). Homer never names her mother. The Odyssey names the brothers' mother, Leda, the wife of Tyndareus (*Odyssey* 11.298–300), but does not call her Helen's. By Menelaus Helen had one child, a daughter, Hermione (*Odyssey* 4.12–14; see [[hermione-daughter-of-helen]]).
 
 ## Descriptions
 
@@ -34,7 +34,7 @@ Her other epithets are those of a great lady: “white-armed” (λευκώλε�
 
 Paris carried her off from Lacedaemon, and they first lay together on the island of [[Cranae]] (3.443–445; see [[the-abduction-of-helen]]). At Troy she lives as his wife in the house he built near Priam's (6.313–317), and she reproaches herself: to Hector she calls herself “dog that I am” (6.344, 6.356). She speaks the last of the three laments for Hector (24.762–775).
 
-In the Odyssey she is home again at Sparta with Menelaus. She mixes into the wine a drug from Egypt that banishes grief, and tells how she recognized Odysseus when he came into Troy disguised as a beggar (4.219–264).
+In the Odyssey she is home again at Sparta with Menelaus. She mixes into the wine a drug from Egypt that banishes grief, and tells how she recognized Odysseus when he came into Troy disguised as a beggar (*Odyssey* 4.219–264; see [[nepenthe]] and [[odysseus-enters-troy-as-a-beggar]]).
 
 ## Outside Homer
 

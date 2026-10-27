@@ -1,0 +1,7 @@
+---
+summary: Antinous means to lie in wait for Telemachus “in the strait between Ithaca and rocky Samos”, and the suitors' ship waits for him at Asteris, “between Ithaca and rocky Samos” (4.669–672, 4.842–847).
+---
+
+**The strait.** When the suitors learn from Noemon that Telemachus has really sailed, Antinous asks for a ship and twenty men, “so that I may lie in ambush for him on his way and watch for him / in the strait between Ithaca and rocky Samos” (4.669–671; see [[antinous]], [[the-suitors]] and [[ithaca]]). πορθμός, “strait”, is the channel between Odysseus' island and the great island to the west of it, which the first book called Same (1.246); it is the way, as the suitors reckon, by which Telemachus' ship will come home from Pylos. The book ends there: the ship lies in the harbors of Asteris, a rocky island “in the middle of the sea, / between Ithaca and rocky Samos” (4.844–845; see [[asteris]]), and the same verse marks the ambush when Athena warns Telemachus of it (15.29).
+
+**Rocky Samos.** Σάμοιό τε παιπαλοέσσης, “and rocky Samos”, is a verse-end: the Iliad has the same epithet in the same place for Imbros, “between Tenedos and rocky Imbros”, “between Samos and rocky Imbros” (*Iliad* 13.33, 24.78), and Nestor gives it to Chios (3.170; see [[rocky]] and [[chios]]). The Iliad's Samos of the Catalogue is the same island (*Iliad* 2.634), but its Samos with Imbros is Samothrace (*Iliad* 24.78; see [[samothrace]]), and the Samos off Ionia is another again (see [[samos-ionia]]).

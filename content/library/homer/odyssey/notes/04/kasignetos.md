@@ -1,0 +1,5 @@
+---
+summary: Menelaus' brother was killed while he gathered wealth abroad (4.91, 4.512–537); Peisistratus weeps for his brother Antilochus (4.199–202); Helen's drug holds back tears even for a brother killed before one's eyes (4.225); and Penelope greets the phantom of Iphthime, “sister” (4.810).
+---
+
+Brothers are the book's dead. Another man killed Menelaus' brother “in secret, unawares” (4.91–92), and Proteus tells him how: Hera saved his brother at sea, and Aegisthus killed him at a feast (4.512–537; see [[agamemnon]] and [[the-murder-of-agamemnon]]). Peisistratus weeps for his: “For my brother too is dead, by no means the worst / of the Argives” (4.199–202; see [[antilochus]] and [[peisistratus]]). Helen's drug would stop a man's tears even if they killed his brother or his son before his eyes (4.225; see [[nepenthe]]). The one sister of the book is a likeness: Penelope asks the phantom, τίπτε, κασιγνήτη, δεῦρʼ ἤλυθες; “Why have you come here, sister?” (4.810; see [[iphthime]] and [[eidolon]]).

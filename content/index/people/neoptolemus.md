@@ -22,3 +22,5 @@ The Iliad names him once, when Achilles, lamenting Patroclus, thinks of the son 
 ## Outside Homer
 
 In the *Little Iliad* Odysseus brought him to Troy, and in the *Sack of Troy* he killed Priam at the altar of Zeus (Proclus; see [[neoptolemus-play]], [[eurypylus-son-of-telephus]] and [[sack-of-troy]]).
+
+In Euripides' *Andromache* he is the husband of Hermione, who came to him at Phthia from Sparta (147–153), and Orestes, to whom Menelaus had first promised her, plots his death at Delphi (966–1008); a messenger tells how he fell there by the swords of the Delphians and of the stranger from Mycenae (1070–1075, 1149–1150). In the *Orestes* Apollo foretells that he will never marry Hermione but will die by a Delphian sword when he demands justice from the god for his father (1653–1657; see [[hermione-daughter-of-helen]] and [[euripides]]).

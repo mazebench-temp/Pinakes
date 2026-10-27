@@ -1,0 +1,5 @@
+---
+summary: On Pharos Menelaus' companions wander the island fishing, starving (4.367–369), and he chooses three of them to lie with him in the sealskins (4.408–409, 4.433–434). Agamemnon's companions die with him (4.536), Odysseus has none left on Calypso's island (4.559), Telemachus' wait for him in Pylos (4.598), and Antinous asks for twenty to lie in ambush (4.669).
+---
+
+Eidothea meets Menelaus alone, “apart from my companions”, who were always wandering about the island fishing (4.367–369), and tells him that their heart is dwindling (4.374). She bids him choose three companions, the best beside his ships, and he brings the three he trusted most in every undertaking (4.408–409, 4.433–434; see [[aristos]]). In Proteus' tale not one of the companions who followed Agamemnon was left, nor any of Aegisthus' men (4.536–537; see [[the-murder-of-agamemnon]]), and Odysseus “has no ships with oars and no companions” to take him home (4.559; see [[calypso]]). Telemachus tells Menelaus that his companions are growing weary in sacred Pylos (4.598), and Antinous asks for a swift ship and twenty companions for his ambush (4.669; see [[ambush]]).

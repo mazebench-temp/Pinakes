@@ -9,6 +9,7 @@ summary: Greek historian from Halicarnassus (c. 484–c. 425 BCE), whose Histori
 Herodotus opens his work with the account, which he gives to Persian learned men, that the quarrel between Europe and Asia began with a series of stolen women, Io, [[europa|Europa]], Medea and Helen; then he sets these stories aside for what he knows himself (1.1–5). He dates Homer and Hesiod no more than four hundred years before his own time (2.53). He knew the Iliad's episodes by their old titles, citing lines of our Book 6 as coming from "the Aristeia of Diomedes", and he judged that the *Cypria* was not Homer's work (2.116–117).
 
 - Helen in Egypt, and why Homer left the story out: [[helen-in-egypt]].
+- The lambs of Libya, “horned at once”, a verse of the Odyssey rightly said, since horns grow quickly in hot lands: [[the-horned-lambs-of-libya]].
 - The Athenians claim Menestheus as the best marshal at Troy: [[herodotus-menestheus]].
 - The wrath of Agamemnon's herald at Sparta: [[wrath-of-talthybius]].
 - The old titles of the Iliad's episodes: [[the-boeotia]].

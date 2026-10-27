@@ -7,9 +7,10 @@ summary: Fish, ἰχθύς. In the Iliad they are drawn from the sea on a line a
 aliases: [fishes, ichthys]
 # ἰχθύσιν (19.268, 21.122) is claimed in the Book 19 note, ἰχθύες (21.22, 21.203, 21.353) and ἰχθύς (21.127) in the
 # Book 21 note (which also takes ἰχθὺς, 23.692), and ἰχθύσι (24.82) in the Book 24 note. Not ἰχθυόεις, “fish-filled”,
-# the epithet of the sea (9.4, 16.746; see fish-filled).
-grc: [ἰχθὺν]
-en: [fish]
+# the epithet of the sea (9.4, 16.746; see fish-filled). Fishing too: the verb ἰχθυάω, "fish" (ἰχθυάασκον, Od. 4.368;
+# ἰχθυάᾳ, Od. 12.95), and the hooks, ἀγκίστροισιν (Od. 4.369 = 12.332).
+grc: [ἰχθὺν, "ἰχθυάα*", ἀγκίστροισιν]
+en: [fish, fishing, hooks]
 ---
 
 ## In the Iliad

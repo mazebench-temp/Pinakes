@@ -17,4 +17,4 @@ relations:
 
 {{quote:db8becb5-44a5-501a-a44b-6235a49d9ddc}}
 
-τρεῖς τʼ Ἀντηνορίδας, “the three sons of Antenor” (11.59; see [[son-of-antenor]]): Polybus, “brilliant Agenor” and “young Acamas”. Polybus is named first and given no epithet, and the poem does not name him again. His brothers fight on in later books (see [[agenor]] and [[acamas]]). Two more of Antenor's sons die in the same book, when [[Iphidamas]] and then his elder brother [[Coon]] face Agamemnon (11.221–263; see [[antenor]]).
+τρεῖς τʼ Ἀντηνορίδας, “the three sons of Antenor” (11.59; see [[son-of-antenor]]): Polybus, “brilliant Agenor” and “young Acamas”. Polybus is named first and given no epithet, and the poem does not name him again. His brothers fight on in later books (see [[agenor]] and [[acamas]]). The Odyssey has other men of the name, among them the father of the suitor Eurymachus and a king of Egyptian Thebes (see [[polybus-father-of-eurymachus]] and [[polybus-of-thebes]]). Two more of Antenor's sons die in the same book, when [[Iphidamas]] and then his elder brother [[Coon]] face Agamemnon (11.221–263; see [[antenor]]).

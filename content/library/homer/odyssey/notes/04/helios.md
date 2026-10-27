@@ -1,0 +1,9 @@
+---
+summary: The sun is the measure of Menelaus' house, which gleams “as of the sun or of the moon”, and the hour of Proteus, who comes out of the sea when the sun stands astride the middle of the sky. To see the light of the sun is to be alive: Menelaus, hearing of his brother's death, no longer wished to see it, and Penelope asks whether her husband still looks on it.
+---
+
+**The gleam of the house.** When Telemachus and Peisistratus are led into Menelaus' house they marvel, “for there was a gleam as of the sun or of the moon / throughout the high-roofed house of glorious Menelaus” (4.45–46; see [[house]] and [[moon]]). The verse is used again of the house of Alcinous (7.84).
+
+**Midday.** Eidothea fixes the hour of her father's coming: “When the sun stands astride the middle of the sky, / then the unerring Old Man of the Sea comes out of the sea” (4.400–401; see [[proteus]] and [[sky]]). The first verse is the Iliad's for the noon at which Zeus lifts his golden scales (*Iliad* 8.68). On ἀμφιβεβήκῃ, the subjunctive that Bekker took from a Vienna manuscript for the pluperfect, see the translation's note on 4.400; Merry notes that in the Iliad the same verse is followed by a past tense, here by a present (*Commentary on the Odyssey*, 1886, critical note on 4.400). The old man comes at midday, ἔνδιος (4.450), and the men wait for him all the morning (4.447).
+
+**The light of the sun.** When Proteus has told him of Agamemnon's murder, Menelaus wept on the sand, “and my heart / no longer wished to live and see the light of the sun” (4.539–540), the verse of Odysseus' despair at Circe's house (10.498). Penelope asks the phantom of her sister “whether he still lives somewhere and looks on the light of the sun, / or is already dead and in the house of Hades” (4.833–834; see [[hades]]), the Iliad's phrase for Achilles alive (*Iliad* 18.61).

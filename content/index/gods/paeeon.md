@@ -3,7 +3,7 @@ title: Paeëon
 greek: Παιήων
 kind: god
 tags: [olympian]
-summary: The physician of the gods, who spreads pain-killing drugs on the wounds of Hades and of Ares on Olympus (5.401–402, 5.899–904). His name is also the name of the paean, the song to Apollo, and later became a title of Apollo the healer.
+summary: The physician of the gods, who heals the wounded Hades and Ares on Olympus with pain-killing drugs (5.401–402, 5.899–904), and from whom the Egyptians, a people of healers, are descended. His name is also the name of the paean, the song to Apollo, and later became a title of Apollo the healer.
 aliases: [Paieon, Paiawon]
 grc: [^Παιήων, ^Παιήον*]
 refs: [5.402, 5.901-904]
@@ -19,7 +19,7 @@ refs: [5.402, 5.901-904]
 
 Paeëon heals twice, in almost the same two lines (5.401–402 = 5.900–901): Hades, shot by Heracles long ago, in Dione's story, and Ares, wounded by Diomedes. ὀδυνήφατα φάρμακα, “pain-killing drugs”, from ὀδύνη (“pain”) and the root of φόνος (“killing”); Patroclus lays an ὀδυνήφατον root on the wound of Eurypylus (11.846–848). πάσσων, “sprinkling, spreading”, is the verb used of Machaon's drugs on Menelaus' wound (πάσσε, 4.219). The gods' physician works as the army's physicians do, only faster: Ares is healed as quickly as fig juice curdles milk (5.902–904; see [[fig-juice]] and [[healing]]). The reason is given in the second line: the patient “was not made to be mortal” (5.402, 5.901). A god can be wounded and feel pain, but the wound cannot kill him (see [[ichor]]).
 
-In the Odyssey the Egyptians, among whom every man is a physician, are “of the race of Paeëon” (Od. 4.231–232).
+In the Odyssey the Egyptians, among whom “every man there is a healer, skilled beyond all / other men”, are “of the stock of Paeëon” (*Odyssey* 4.231–232).
 
 ## Outside Homer
 

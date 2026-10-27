@@ -1,0 +1,7 @@
+---
+summary: Proteus names him once, when he bids Menelaus stop weeping for his brother and hurry home: he may find Aegisthus alive, “or Orestes / will have killed him before you, and you may come in time for the funeral feast” (4.546–547).
+# Unnamed: "will have killed him before you" (4.547).
+refs: [4.547]
+---
+
+“For either you will find him alive, or Orestes / will have killed him before you, and you may come in time for the funeral feast” (4.546–547; see [[aegisthus]] and [[orestes-kills-clytemnestra]]). ὑποφθάμενος, “before you”, is “getting ahead of you”. Merry takes κεν … κτεῖνεν as an act that has probably already taken place, and κεν … ἀντιβολήσαις as one that probably will, “Either you will find him alive or [if you do not] Orestes will have slain him”; Bekker and Düntzer read ἢ καί for ἤ κεν (Merry, *Commentary on the Odyssey*, 1886, on 4.546 and his critical note). The scholia explain τάφου as the meal at the burial, as at 3.309 (Merry on 4.547). The second of the two is what happened, as Nestor has already told: Orestes came back in the eighth year and killed Aegisthus, and on the day he gave the funeral feast Menelaus came home (3.306–312; see [[the-wanderings-of-menelaus]] and [[the-murder-of-agamemnon]]). The vengeance that Athena and Nestor held up to Telemachus is here a piece of news Menelaus might have come home to (1.298–300, 3.195–198; see [[fathers-and-sons]]).

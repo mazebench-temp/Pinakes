@@ -9,4 +9,5 @@ summary: Athenian tragic poet (c. 480–406 BCE). Many of his plays return to th
 Nineteen plays survive under his name, more than for any other tragedian. The Trojan War and its aftermath are the setting of *Hecuba*, *Trojan Women*, *Andromache*, *Helen* and the two Iphigenia plays. The *Rhesus*, whose authorship is disputed, dramatizes the night raid of Iliad 10, and the satyr play *Cyclops* the episode of Odyssey 9.
 
 - The chorus's catalogue of heroes and ships at Aulis: [[euripides-catalogue]].
+- The *Helen* and the Egypt of *Odyssey* 4: Proteus a mortal king who lived on Pharos, his daughter Eido become the prophetess Theonoe, Menelaus shipwrecked after seven years of wandering, and the island of the blessed promised to him: [[euripides-helen]] and [[helen-in-egypt]].
 - The *Electra* and the *Orestes* against Nestor's account in *Odyssey* 3: Orestes reared in Phocis, Aegisthus killed at a sacrifice to which he has welcomed the strangers, and Menelaus come home in the days after the matricide: [[the-murder-of-agamemnon-in-tragedy]].

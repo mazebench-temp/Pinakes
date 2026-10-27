@@ -10,7 +10,7 @@ passages:
 
 **The vow.** No water will come near Achilles' head, he swears, until he has laid Patroclus on the fire, heaped up a mound “and cut my hair” (23.44–46; see [[bathing]]). Walter Leaf takes the cut hair as the sign of mourning (*Commentary on the Iliad*, 1900, on 23.46).
 
-**The Myrmidons.** In the procession “they covered the whole corpse with their hair, which they cast on it / as they cut it off” (23.135–136). καταείνυσαν is “clothed”, a hyperbole (Leaf on 23.135; see the translation's note on 23.135). Leaf explains the custom as an offering of part of the living body, by which the mourner gives himself as an escort to the dead (on 23.135). In the Odyssey Peisistratus calls it the only γέρας, the word of 23.9, left to wretched mortals, “to cut the hair and let a tear fall from the cheeks” (*Odyssey* 4.197–198; see [[the-prize-of-the-dead]]), and the Danaans cut their hair at the death of Achilles (*Odyssey* 24.46).
+**The Myrmidons.** In the procession “they covered the whole corpse with their hair, which they cast on it / as they cut it off” (23.135–136). καταείνυσαν is “clothed”, a hyperbole (Leaf on 23.135; see the translation's note on 23.135). Leaf explains the custom as an offering of part of the living body, by which the mourner gives himself as an escort to the dead (on 23.135). In the Odyssey Peisistratus calls it the only γέρας, the word of 23.9, left to miserable mortals, “to cut one's hair and let a tear fall from one's cheeks” (*Odyssey* 4.197–198; see [[the-prize-of-the-dead]]), and the Danaans cut their hair at the death of Achilles (*Odyssey* 24.46).
 
 **Achilles' lock.**
 

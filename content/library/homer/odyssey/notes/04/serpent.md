@@ -1,0 +1,7 @@
+---
+summary: The only serpent of the Odyssey is one of the shapes of Proteus. Seized by Menelaus and his men, the old man becomes a bearded lion, “and then a serpent, and a leopard, and a great boar”, then water and a tree (4.456–458).
+---
+
+**Among the changes.** δράκων comes once in the Odyssey, as the second of the four beasts that Proteus becomes in the grip of Menelaus and his three companions (4.456–457; see [[proteus]], [[lion]], [[leopard]] and [[boar]]). His daughter had told Menelaus that the old man would try every shape, “all the things that upon the earth / creep, and water, and wondrous fire” (4.417–418; see [[eidothea]]). ἑρπετά, “things that creep”, is from ἕρπω, “creep, go”, and Merry takes it here in the widest sense, of all that moves upon the earth (*Commentary on the Odyssey*, 1886, on 4.418); of the four beasts that follow, the serpent alone creeps in the narrow sense. Nothing is said of what the serpent does. The men hold on, “steadfastly with enduring heart” (4.459).
+
+In the Iliad the δράκων is a sign and a danger: the blood-red snake of the portent at Aulis, the snake that the eagle drops among the Trojans at the wall, the snake at its hole to which Hector is likened, waiting for Achilles (*Iliad* 2.308–320, 12.200–209, 22.93–97; see [[the-portent-at-aulis]] and [[the-serpent-at-its-hole]]). In the Odyssey it is one shape of a god of the sea, and it is held fast like the rest.

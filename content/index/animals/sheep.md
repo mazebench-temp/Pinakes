@@ -5,8 +5,8 @@ kind: animal
 tags: [livestock, sacrificial-animal]
 summary: The sheep, ὄις, kept in great white flocks for wool, milk and meat, and offered to the gods and the dead. In the similes flocks of sheep are the prey of lions and wolves, and the image of a people that follows its leader.
 aliases: [ewe, ewes, flock, ois]
-grc: ["=οἰῶν", πῶϋ]
-en: [sheep]
+grc: ["=οἰῶν", πῶϋ, "=ὄϊος"]
+en: [sheep, flocks]
 ---
 
 ὄις (in Homer also ὄϊς) is the sheep, ewe or ram. The word is inherited: Latin *ovis* and English *ewe* are its cousins. A flock of sheep is a πῶϋ, and “a great flock of sheep” (πῶϋ μέγʼ οἰῶν) is a formula (11.696, 15.323; *Odyssey* 12.299). With goats, sheep make up the μῆλα, the small livestock of the farm, beside the cattle that measure a rich man's wealth. Homer's sheep are “white” (ἀργεννός, 3.198, 6.424, 18.588) and “woolly” (εἰροπόκος, 5.137; *Odyssey* 9.443). The male is the [[ram]], and the young are [[lambs]].

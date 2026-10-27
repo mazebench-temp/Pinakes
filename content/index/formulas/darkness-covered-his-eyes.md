@@ -3,7 +3,7 @@ title: Darkness covered his eyes
 greek: τὸν δὲ σκότος ὄσσε κάλυψε
 kind: formula
 tags: [fate, warfare]
-summary: The half-line of death in battle, τὸν δὲ σκότος ὄσσε κάλυψε, “and darkness covered his eyes”, which follows the fatal blow. It first ends a life in the first battle of the poem (4.461).
+summary: The half-line of death in battle, τὸν δὲ σκότος ὄσσε κάλυψε, “and darkness covered his eyes”, which follows the fatal blow. It first ends a life in the first battle of the Iliad (4.461).
 aliases: [darkness covered his eyes, skotos]
 grc: ["σκότος ὄσσε κάλυψ*"]
 en: [darkness covered his eyes]

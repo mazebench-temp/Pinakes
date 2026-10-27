@@ -5,7 +5,7 @@ kind: animal
 tags: [livestock, philosophy, scholarship]
 summary: The mule, οὐρεύς or ἡμίονος, the draft animal of the Homeric world, which pulls wagons, hauls timber and plows.
 aliases: [mule, oureus, hemionos]
-grc: [οὐρῆας]
+grc: [οὐρῆας, ἡμίονοι]
 en: [mules]
 ---
 

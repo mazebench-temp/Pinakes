@@ -22,3 +22,5 @@ passages:
 ## Outside Homer
 
 Plato's Athenian argues at length that the gods cannot be won over (παραιτητοί) by wrongdoers who bring them gifts, and that they are “wholly not to be won over” against justice (*Laws* 10.905d–907b); in the *Republic* the begging priests and seers who sell absolution call Phoenix's lines to witness for the opposite view (*Republic* 2.364d–e; see [[even-the-gods-can-be-turned]]).
+
+The Suda quotes the two verses under παραιτησάμενος, "begging off", of a man who "gave back the gold, so as to beg off the god's anger with it", and reads the first without the negative, νήπιος, οὐδὲ τὸ ᾔδει, ὃ πείσεσθαι ἔμελλεν, so that πείσεσθαι comes from πάσχω, "suffer": "the fool, he did not even know what he was going to suffer" (Suda π 507).

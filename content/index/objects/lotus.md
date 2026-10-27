@@ -2,15 +2,15 @@
 title: Lotus
 greek: λωτός
 kind: object
-summary: A plant of the meadows that horses graze in the Iliad, probably a kind of clover; in the Odyssey, the honey-sweet fruit of the Lotus-eaters, which makes men forget their homecoming.
+summary: A plant of meadows and plains, probably a kind of clover, which horses graze; in the Odyssey also the honey-sweet fruit of the Lotus-eaters, which makes men forget their homecoming.
 aliases: [lotos, lotus plains]
-grc: [λωτόν, λωτοῦντα]
+grc: [λωτόν, λωτοῦντα, λωτός]
 en: [lotus]
 ---
 
-In the Iliad λωτός is a plant of damp ground and meadows, good fodder, usually taken to be a kind of clover or trefoil. While Achilles keeps out of the war, his horses stand idle beside their chariots, “munching lotus and marsh-grown parsley” (2.775–777; [[horses]]). It grows with [[crocus]] and [[hyacinth]] in the soft grass that the earth sends up under Zeus and Hera on Ida (14.347–349), and it burns by the river with rushes and galingale when Hephaestus' fire attacks the Xanthus (21.350–351; see [[rushes]], [[galingale]] and [[achilles-and-the-river]]). The plains of the snow simile are λωτοῦντα (12.283), a contracted form of λωτόεις, “full of lotus,” which occurs only there. In the Odyssey Menelaus' broad plain at Sparta has “much lotus” beside galingale, wheat and barley, as he offers Telemachus horses (Od. 4.601–604).
+In the Iliad λωτός is a plant of damp ground and meadows, good fodder, usually taken to be a kind of clover or trefoil. While Achilles keeps out of the war, his horses stand idle beside their chariots, “munching lotus and marsh-grown parsley” (2.775–777; [[horses]]). It grows with [[crocus]] and [[hyacinth]] in the soft grass that the earth sends up under Zeus and Hera on Ida (14.347–349), and it burns by the river with rushes and galingale when Hephaestus' fire attacks the Xanthus (21.350–351; see [[rushes]], [[galingale]] and [[achilles-and-the-river]]). The plains of the snow simile are λωτοῦντα (12.283), a contracted form of λωτόεις, “full of lotus,” which occurs only there. In the Odyssey Menelaus' broad plain at Sparta has “much lotus” beside galingale, wheat, spelt and barley, as Telemachus declines his gift of horses (*Odyssey* 4.601–604).
 
-The lotus of the Lotus-eaters seems to be another plant: a fruit, “the honey-sweet fruit of the lotus,” which makes those who eat it forget their way home (Od. 9.82–97). Odysseus' men “browse on lotus” there in the words used of Achilles' horses (λωτὸν ἐρεπτόμενοι, Od. 9.97; 2.776).
+The lotus of the Lotus-eaters seems to be another plant: a fruit, “the honey-sweet fruit of the lotus,” which makes those who eat it forget their way home (*Odyssey* 9.82–97). Odysseus' men “browse on lotus” there in the words used of Achilles' horses (λωτὸν ἐρεπτόμενοι, *Odyssey* 9.97; *Iliad* 2.776).
 
 {{notes}}
 

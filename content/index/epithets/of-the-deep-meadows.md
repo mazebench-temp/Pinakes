@@ -12,7 +12,7 @@ of: [antheia]
 
 ## Meaning
 
-βαθύλειμος = βαθύς (“deep”) + λειμών (“meadow”): “with deep meadows,” meadows of tall, thick grass on deep soil. The compound is found only in the verse of the seven towns, said by Agamemnon and repeated by Odysseus (9.151 = 9.293). Compare [[deep-in-rushes]] (βαθύσχοινος) and [[with-grassy-meadows]] (λεχεποίης), compounds of the same kind for rich lowland. Meadows meant pasture for horses: Telemachus, refusing Menelaus' horses, says that Ithaca has no wide courses and no meadow, and that none of the islands is “good for horses or rich in meadows” (Od. 4.605–608).
+βαθύλειμος = βαθύς (“deep”) + λειμών (“meadow”): “with deep meadows,” meadows of tall, thick grass on deep soil. The compound is found only in the verse of the seven towns, said by Agamemnon and repeated by Odysseus (9.151 = 9.293). Compare [[deep-in-rushes]] (βαθύσχοινος) and [[with-grassy-meadows]] (λεχεποίης), compounds of the same kind for rich lowland. Meadows meant pasture for horses: Telemachus, refusing Menelaus' horses, says that Ithaca has no wide courses and no meadow, and that none of the islands is “good for driving horses or rich in meadows” (Od. 4.605–608).
 
 ## Use
 

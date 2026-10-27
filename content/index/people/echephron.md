@@ -13,7 +13,7 @@ relations:
 
 ## The name
 
-Ἐχέφρων is the adjective ἐχέφρων, “sensible”, from ἔχω, “have”, and φρένες, “mind” (*Iliad* 9.341, “any man who is good and sensible”; see [[phrenes]]). The Odyssey gives the adjective to Penelope, ἐχέφρων Πηνελόπεια, “sensible Penelope” (*Odyssey* 4.111 and often; a plain rendering).
+Ἐχέφρων is the adjective ἐχέφρων, “sensible”, from ἔχω, “have”, and φρένες, “mind” (*Iliad* 9.341, “any man who is good and sensible”; see [[phrenes]]). The Odyssey gives the adjective to Penelope, ἐχέφρων Πηνελόπεια, “sensible Penelope” (*Odyssey* 4.111 and often).
 
 {{notes}}
 

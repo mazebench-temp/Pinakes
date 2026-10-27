@@ -1,0 +1,5 @@
+---
+summary: Penelope, praying to Athena for her son, puts barley grains in a basket; the barley is not burned but poured out, as W. W. Merry understands it, like a libation (4.761).
+---
+
+“And she bathed, and put clean clothes on her body, / and went up to her upper room with her handmaids, / and put barley grains in a basket, and prayed to Athena” (4.759–761; see [[penelope]], [[basket]] and [[prayer]]). At a sacrifice the barley grains are taken up with the water for the hands before the prayer and thrown before the victim (*Iliad* 1.449, 1.458; 3.441–447; see [[sacrifice-type-scene]]); Penelope has no victim, and her prayer ends not with the knife but with the women's cry (4.767; see [[ololyge]]). Merry rejects Nitzsch's rendering, a smoke-offering of holy barley, and the scholium's view that the basket stood for an altar: the barley was poured out from its basket as wine from its cup, and was rather the equivalent of a libation (*Commentary on the Odyssey*, 1886, on 4.761; see [[libation]]).

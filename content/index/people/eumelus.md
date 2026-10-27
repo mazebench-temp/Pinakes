@@ -3,7 +3,7 @@ title: Eumelus
 greek: Εὔμηλος
 kind: person
 tags: [achaean, warrior, thessaly]
-summary: Son of [[Admetus]] and [[Alcestis]], leader of eleven ships from [[Pherae]] and [[Iolcus]]. His mares, reared by Apollo, were the best horses at Troy; in the chariot race at Patroclus' funeral games he loses when Athena breaks his yoke.
+summary: Son of [[Admetus]] and [[Alcestis]], leader of eleven ships from [[Pherae]] and [[Iolcus]], whose mares, reared by Apollo, were the best horses at Troy. In the Odyssey he is the husband of [[Iphthime]], the sister of Penelope.
 aliases: [Eumelos]
 grc: [Εὔμηλ*, Φηρητιάδαο]
 en: [Eumelus, grandson of Pheres]
@@ -25,7 +25,7 @@ passages:
 
 {{quote:45774d85-3917-5018-9f00-2ec27fb17279}}
 
-Son of Admetus and Alcestis, "most beautiful in form of the daughters of Pelias". Φηρητιάδης, "descendant of Pheres" (2.763), names him after his grandfather [[Pheres]], the father of Admetus. In the Odyssey his wife is Iphthime, the sister of Penelope, and he lives at Pherae (4.797–798).
+Son of Admetus and Alcestis, "most beautiful in form of the daughters of Pelias". Φηρητιάδης, "descendant of Pheres" (2.763), names him after his grandfather [[Pheres]], the father of Admetus. In the Odyssey his wife is Iphthime, the sister of Penelope, and he has his home in Pherae (*Odyssey* 4.797–798; see [[iphthime]]).
 
 ## The mares
 

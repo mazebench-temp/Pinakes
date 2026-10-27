@@ -12,6 +12,6 @@ of: [achilles, patroclus, menelaus, himeros]
 
 ## In Homer
 
-In the Iliad the line follows Achilles' dream of Patroclus: the ghost asks for burial, Achilles reaches for him and grasps nothing, and when he cries out on waking, he stirs the longing for lament in all the Myrmidons, and dawn finds them weeping (23.62–110). In the Odyssey it follows Menelaus' memory of Odysseus, when Helen, Telemachus, Menelaus and Pisistratus all weep (*Odyssey* 4.183–186). The longing, ἵμερος, is a desire for lament itself (see [[himeros]]).
+In the Iliad the line follows Achilles' dream of Patroclus: the ghost asks for burial, Achilles reaches for him and grasps nothing, and when he cries out on waking, he stirs the longing for lament in all the Myrmidons, and dawn finds them weeping (23.62–110). In the Odyssey it follows Menelaus' memory of Odysseus, when Helen, Telemachus, Menelaus and [[peisistratus|Peisistratus]] all weep (*Odyssey* 4.183–186). The longing, ἵμερος, is a desire for lament itself (see [[himeros]]).
 
 {{notes}}

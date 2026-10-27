@@ -3,7 +3,7 @@ title: Awe
 greek: σέβας
 kind: term
 tags: [shame, divine-will]
-summary: The awe that makes a person stop and draw back before something great, holy or shameful. The verb σέβομαι comes once in the Iliad, when Agamemnon asks the Argives who hang back, “have you no shame?”
+summary: The awe that makes a person stop and draw back before something great, holy or shameful, and the wonder that holds whoever looks on a marvel: “awe holds me as I look”.
 aliases: [sebas, sebomai, sebazomai, awe, reverence]
 grc: [σέβεσθε]
 en: [have you no shame]

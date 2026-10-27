@@ -8,6 +8,8 @@ aliases: [thygater halioio gerontos]
 grc: [θυγάτηρ ἁλίοιο γέροντος]
 en: [daughter]
 of: [thetis, old-man-of-the-sea]
+# Od. 4.365 is Eidothea, daughter of Proteus
+except: [Od. 4.365]
 ---
 
 ## Meaning

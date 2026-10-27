@@ -1,0 +1,5 @@
+---
+summary: Phoenicia, the land of the Phoenicians, is second in the list of Menelaus' wanderings, after Cyprus: “after wandering to Cyprus and Phoenicia and the Egyptians” (4.83).
+---
+
+Φοινίκην, “Phoenicia”, is named here for the first time in Homer, and once more in Odysseus' false tale, where a Phoenician takes him home to his land (4.83; 14.291; see [[the-wanderings-of-menelaus]], [[cyprus]] and [[egypt]]). The Sidonians, whose city is Phoenician, follow in the next verse (4.84; see [[sidonians]] and [[sidon]]). Strabo thought that most of Menelaus' eight years were spent on these coasts, in Phoenicia, Syria, Egypt and Libya, about Cyprus and the islands, where a king could gather guest-gifts, and wealth by force or plunder, above all from the allies of the Trojans (*Geography* 1.2.32). He gives no more credit to those who carried the Sidonians and Phoenicians of the list out into the Ocean, some of whom made the Sidonians of the Mediterranean colonists of an Ocean people and explained the name Phoenicians from the red color of the sea there (1.2.35; see [[strabo]]).

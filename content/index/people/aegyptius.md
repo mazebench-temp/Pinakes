@@ -15,7 +15,7 @@ relations:
 
 ## The name
 
-Αἰγύπτιος is the adjective “Egyptian”, which the Odyssey gives to Proteus, the Old Man of the Sea, Πρωτεὺς Αἰγύπτιος, “Proteus the Egyptian” (*Odyssey* 4.385, a plain rendering; see [[egypt]]). The poem does not say why an Ithacan elder bears it.
+Αἰγύπτιος is the adjective “Egyptian”, which the Odyssey gives to Proteus, the Old Man of the Sea, Πρωτεὺς Αἰγύπτιος, “Proteus of Egypt” (*Odyssey* 4.385; see [[egypt]]). The poem does not say why an Ithacan elder bears it.
 
 ## Family
 

@@ -3,8 +3,10 @@ title: Elis
 greek: Ἦλις
 kind: place
 tags: [peloponnese, elis]
-summary: The land of the Epeians in the northwestern Peloponnese, "shining Elis". It sends forty ships under four leaders; later the Eleans held Olympia.
-grc: [Ἤλιδα, Ἤλιδος]
+summary: The land of the Epeians in the northwestern Peloponnese, "shining Elis". In the Iliad it sends forty ships under four leaders, and in the Odyssey it is the mainland across the sea from Ithaca; later the Eleans held Olympia.
+# Ἤλιδʼ, elided (Od. 4.635), is not in the Iliad; Ἤλιδι (Il. 11.673, 11.686, 11.698) is claimed by the Iliad
+# Book 11 note.
+grc: [Ἤλιδα, Ἤλιδος, Ἤλιδʼ]
 passages:
   - 2.615-624 | The Epeians in the Catalogue
 ---

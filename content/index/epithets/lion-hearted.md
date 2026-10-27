@@ -12,7 +12,7 @@ of: [heracles, achilles]
 
 ## Meaning
 
-θυμολέων = θυμός (“spirit, heart”; [[thymos]]) + λέων (“lion”; [[lion]]): “with a lion's spirit.” Homer uses it five times, always in the accusative θυμολέοντα at the end of the verse. It praises Heracles, beside [[bold-in-endurance]] (5.639; Od. 11.267); Achilles, when Ajax tells Hector that the Danaans have champions even apart from “Achilles, breaker of men, lion-hearted” (Il. 7.226–228); and Odysseus, whom Penelope mourns as her “noble, lion-hearted husband” (Od. 4.724, 4.814). The lion is the chief animal of the Iliad's similes, and Book 5 is full of them: Diomedes wounded like a lion in a sheepfold (5.136–142; [[wounded-lion]]), Aeneas over Pandarus' body “like a lion trusting in his courage” (5.299), the two sons of Diocles like two lions (5.554–558; [[two-lions]]).
+θυμολέων = θυμός (“spirit, heart”; [[thymos]]) + λέων (“lion”; [[lion]]): “with a lion's spirit.” Homer uses it five times, always in the accusative θυμολέοντα at the end of the verse. It praises Heracles, beside [[bold-in-endurance]] (5.639; Od. 11.267); Achilles, when Ajax tells Hector that the Danaans have champions even apart from “Achilles, breaker of men, lion-hearted” (Il. 7.226–228); and Odysseus, whom Penelope mourns as her “brave, lion-hearted husband” (Od. 4.724, 4.814). The lion is the chief animal of the Iliad's similes, and Book 5 is full of them: Diomedes wounded like a lion in a sheepfold (5.136–142; [[wounded-lion]]), Aeneas over Pandarus' body “like a lion trusting in his courage” (5.299), the two sons of Diocles like two lions (5.554–558; [[two-lions]]).
 
 ## Use
 

@@ -17,7 +17,7 @@ passages:
 
 ## The word
 
-σκοπιή, a word of the same root as σκοπός, “watcher”, is a place to watch from, a height or a peak. A goatherd sees a storm cloud coming over the sea “from a lookout” (4.275; see [[storm-cloud]]), and a man “sits on a lookout, gazing over the wine-dark sea” in the simile of the horses of the gods (5.771; see [[the-lookout]]); when the clouds break, “all the lookout places and the high headlands stand out” (8.557 = 16.299). In the Odyssey the watchman whom Aegisthus posted sees Agamemnon's return “from a lookout” (ἀπὸ σκοπιῆς, *Odyssey* 4.524), and Odysseus climbs a rugged lookout to spy out the land of the Laestrygonians and the island of Circe (*Odyssey* 10.97, 10.148, 10.194). The man who watches is a σκοπός (see [[spies-and-scouts]]).
+σκοπιή, a word of the same root as σκοπός, “watcher”, is a place to watch from, a height or a peak. A goatherd sees a storm cloud coming over the sea “from a lookout” (4.275; see [[storm-cloud]]), and a man “sits on a lookout, gazing over the wine-dark sea” in the simile of the horses of the gods (5.771; see [[the-lookout]]); when the clouds break, “all the lookout places and the high headlands stand out” (8.557 = 16.299). In the Odyssey the watchman whom Aegisthus posted sees Agamemnon's return “from his lookout” (ἀπὸ σκοπιῆς, *Odyssey* 4.524), and Odysseus climbs a rugged lookout to spy out the land of the Laestrygonians and the island of Circe (*Odyssey* 10.97, 10.148, 10.194). The man who watches is a σκοπός (see [[spies-and-scouts]]).
 
 ## At Troy
 

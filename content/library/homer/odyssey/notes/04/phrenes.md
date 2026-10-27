@@ -1,0 +1,5 @@
+---
+summary: Menelaus ponders “in his mind and in his heart” whether to question the weeping stranger (4.117, 4.120); Helen remembers a husband who lacked nothing, “in mind or in form” (4.264); the suitors brood plans “deep in their minds” (4.676, 4.777, 4.843), and Antinous' heart is “dark on every side” with fury (4.661).
+---
+
+The φρένες are where a man ponders and plans. Menelaus weighs his choice κατὰ φρένα καὶ κατὰ θυμόν (4.117, 4.120; see [[thymos]] and [[pondering-two-ways]]); Helen's husband lacked nothing in φρένες or in εἶδος (4.264; see [[eidos]]). In Ithaca the φρένες are the suitors': they brood the plans “deep in their minds” (4.676), carry out “the plan that has pleased all of us in our minds” (4.777), and sail out “pondering in their minds sheer slaughter for Telemachus” (4.843; see [[the-suitors]]). Antinous' φρένες, “dark on every side”, fill with fury (4.661; see [[menos]]). Penelope hopes that Laertes may weave some plan in his mind (4.739; see [[metis]]), and the phantom bids her not be too much afraid in her mind (4.825; see [[deos]]).

@@ -1,0 +1,5 @@
+---
+summary: Atreus is named only in his sons' titles, and in this book the son of Atreus is Menelaus everywhere but once: the patronymic Ἀτρεΐδης ten times, and Proteus' address Ἀτρέος υἱέ, “son of Atreus” (4.462, 4.543). Only Ἀτρεΐδεω, “of the son of Atreus”, whose companions all died with him, is Agamemnon (4.536).
+---
+
+Ἀτρεΐδης, “the son of Atreus”, is Menelaus in the narrative (4.51, 4.185, 4.304) and in the addresses of Peisistratus, Helen, Telemachus and Proteus (4.156, 4.190, 4.235, 4.291, 4.316, 4.492, 4.594; see [[menelaus]] and [[son-of-atreus]]). Proteus also calls him by the full form, Ἀτρέος υἱέ, “son of Atreus”, when he asks which god helped him to his ambush and when he bids him stop weeping (4.462, 4.543). Agamemnon, the other son, is named by his father only once in the book, among the dead: “not one of the companions of the son of Atreus who followed him was left” (4.536; see [[agamemnon]] and [[the-murder-of-agamemnon]]). The book tells nothing of Atreus himself, though it names Thyestes, whose son killed Atreus' son (4.517–518; see [[thyestes]]).

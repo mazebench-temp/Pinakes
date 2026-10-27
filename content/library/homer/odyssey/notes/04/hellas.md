@@ -1,0 +1,5 @@
+---
+summary: Penelope twice remembers Odysseus as the man “whose fame is wide through Hellas and the heart of Argos”, in her lament before her women and to the phantom of her sister (4.724–726, 4.814–816).
+---
+
+When Medon has told her of the plot against her son, Penelope sits on the threshold of her chamber and laments among her women: “I who first lost my brave, lion-hearted husband, / who excelled among the Danaans in every kind of prowess, / a brave man, whose fame is wide through Hellas and the heart of Argos” (4.724–726; see [[penelope]] and [[kleos]]). The three verses come back word for word when she answers the phantom in her dream (4.814–816; see [[iphthime]]). The last of them is the verse of the first book, where she asked Phemius to stop his song (1.344): Hellas and the heart of Argos together stand for the whole of Greece, north and south (see [[argos]] and the Book 1 note). The scholia called the verse superfluous here (Merry, *Commentary on the Odyssey*, 1886, critical note on 4.726; see the translation's note on 4.726).

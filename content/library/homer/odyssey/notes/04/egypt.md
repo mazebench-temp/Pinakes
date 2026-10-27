@@ -1,0 +1,13 @@
+---
+summary: Egypt is the land of Menelaus' wealth and of his delay. He wandered to “the Egyptians”, brought home the gifts of Egyptian Thebes, and Helen keeps the drugs of an Egyptian woman; the gods held him there, on the island “in front of Egypt”, until Proteus “of Egypt” sent him back to the river to sacrifice (4.83, 4.125–132, 4.227–232, 4.351–586).
+---
+
+**The land of the gifts.** Egypt is third in the list of Menelaus' wanderings, “Cyprus and Phoenicia and the Egyptians” (4.83; see [[the-wanderings-of-menelaus]], [[cyprus]] and [[phoenicians]]). Αἰγυπτίους is a word of three syllables here, as Αἰγυπτίῃς and Αἰγυπτίη in this book (4.127, 4.229) and Αἰγυπτίας in the Iliad (*Iliad* 9.382), while Αἰγύπτιος at 4.385 scans as four (Merry, *Commentary on the Odyssey*, 1886, on 4.83). What he gathered there is in his house: the silver bathtubs, the tripods and the gold of Polybus, who lived in Thebes in Egypt, and the gifts his wife gave Helen (4.125–132; see [[thebes-in-egypt]] and [[polybus-of-thebes]]). Helen's drug is Egyptian too:
+
+{{quote:26e5ad21-3be0-5751-803f-bcab26f849e0}}
+
+τῇ, “where”, is Egypt, understood from the adjective Αἰγυπτίη, “a woman of Egypt” (Merry on 4.229); for a land in which every man is a healer Merry compares Herodotus' Egypt, which is “full of physicians” (Herodotus 2.84; Merry on 4.231; see [[polydamna]], [[nepenthe]] and [[paeeon]]).
+
+**Held in Egypt.** Telemachus' question brings out the tale of the delay: “In Egypt, eager as I was to come home, the gods / still held me back, since I had not offered them perfect hecatombs” (4.351–352; see [[hecatomb]]). Merry doubts whether Αἰγύπτῳ means the land here or the river, “the river of Egypt”, and compares the dative of place with Ἄργεϊ, “in Argos” (4.174; Merry on 4.352); the translation keeps “In Egypt” (4.351), and the river is named only in Proteus' command (4.477; see [[aegyptus-river]]). The island where the gods kept him lies “in front of Egypt” (4.355; see [[pharos]]), and the Old Man of the Sea who haunts it is “immortal Proteus of Egypt” (4.385; see [[proteus]]). Herodotus quotes both passages, the drugs of the Egyptian woman and the gods' holding Menelaus in Egypt, to show that Homer knew of Paris' wanderings to Egypt, though he chose the other story for his poem (Herodotus 2.116.1–6; see [[helen-in-egypt]] and [[herodotus]]).
+
+**Back to Egypt.** Proteus' answer sends Menelaus back “over the misty sea / to Egypt, a long and grievous way” (4.482–483), Αἴγυπτόνδʼ, with the suffix of direction, as Σπάρτηνδε, “to Sparta” (1.285). There he offered the hecatombs, heaped up a tomb for Agamemnon, and sailed home with a fair wind (4.581–586; see [[the-murder-of-agamemnon]]).

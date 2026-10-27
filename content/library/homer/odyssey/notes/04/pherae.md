@@ -1,0 +1,5 @@
+---
+summary: The phantom that Athena sends to Penelope has the form of her sister Iphthime, “whom Eumelus had married, who had his home in Pherae”, so far away that she has never visited before (4.795–798, 4.810–811).
+---
+
+Athena makes a phantom like “Iphthime, daughter of great-hearted Icarius, / whom Eumelus had married, who had his home in Pherae” (4.797–798; see [[iphthime]], [[eumelus]] and [[icarius]]). This is the Thessalian Pherae of the Catalogue, the city of Eumelus' father Admetus by Lake Boebeis (*Iliad* 2.711–715), and Merry so places it, adding that Eumelus had taken part in the expedition to Troy (Merry, *Commentary on the Odyssey*, 1886, on 4.798). It is not Diocles' Pherae in Messenia, where Telemachus and Peisistratus spent the night on their way to Sparta (3.488; see [[pherae-in-messenia]]). Φερῇς ἔνι οἰκία ναίων is the half-verse with which Proteus gave Odysseus' home, “who has his home in Ithaca” (4.555; see [[ithaca]]). The distance is part of the dream: Penelope asks her sister why she has come, “You have not been / a visitor before, since you live very far away” (4.810–811; see [[penelope]] and [[eidolon]]).

@@ -8,6 +8,8 @@ aliases: [glorious, bright]
 grc: [φαίδιμος]
 en: [shining]
 of: [hector, glaucus, achilles]
+# Φαίδιμος at Od. 4.617 is the Sidonian king (phaedimus)
+except: [Od. 4.617]
 ---
 
 ## Meaning

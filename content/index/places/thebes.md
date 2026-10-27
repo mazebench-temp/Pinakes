@@ -8,7 +8,7 @@ aliases: [Thebai, Thebae, Boeotian Thebes]
 grc: [Θήβης]
 # Θήβης at 2.691 is Thebe in the Troad (thebe).
 # Θήβῃσιν at 22.479 is Eetion's Thebe under Placus, in the Troad (thebe).
-except: [2.691, 9.381, 22.479]
+except: [2.691, 9.381, 22.479, Od. 4.126]
 ---
 
 {{quote:962da432-0690-53a3-9676-5c0e0b672ce4}}

@@ -18,3 +18,5 @@ except: [5.43]
 ## Outside Homer
 
 Strabo counts Phaestus as the third of the cities that Minos settled, and says that the Gortynians razed it and held its land; it lay sixty stadia from Gortyn, twenty from the sea and forty from Matalum, its port. Epimenides, the author of the poem of purifications, was said to be from Phaestus, and Lissen belonged to its territory (*Geography* 10.4.14). From 1900 Italian excavators uncovered a Minoan palace on the ridge at Phaistos, second in size only to Knossos. There in 1908 Luigi Pernier found the Phaistos Disc, a clay disc stamped with signs in a script that has never been read. The Linear B tablets from Knossos name the place pa-i-to.
+
+The Suda quotes the verse of the wreck, ἐς Φαιστόν, μικρὸς δὲ λίθος μέγα κῦμʼ ἀποέργει (*Odyssey* 3.296), and explains the rock: a certain Maleos made the stone and dedicated it to Poseidon, so that the waves should not come near Phaestus (Suda φ 182; again under the name Μάλεος, μ 101).

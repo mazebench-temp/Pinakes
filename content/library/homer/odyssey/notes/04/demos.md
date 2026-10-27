@@ -1,0 +1,5 @@
+---
+summary: δῆμος is the land and its people: Odysseus slipped into Troy “in the land of the Trojans” (4.243, 4.330), Aegisthus chose twenty men “in the land” (4.530), and the best men “in the land” sail with Telemachus (4.652, 4.666). Menelaus asks whether his errand is “a public matter or your own” (4.314), and Odysseus did nothing excessive “among the people” (4.691).
+---
+
+The land: Helen's tale and Telemachus' plea both place Odysseus' deeds δήμῳ ἔνι Τρώων, “in the land of the Trojans” (4.243, 4.330); Peisistratus speaks of the fatherless son with no helpers “among the people” (4.167), and Penelope fears for her son “in the land of the people where he has gone” (4.821). The people: Odysseus did nothing excessive to anyone “among the people” (4.691; see [[kingship-and-authority]]). The adjective: Menelaus asks, δήμιον ἦ ἴδιον; “Is it a public matter or your own?” (4.314), as Aegyptius asked in the Ithacan assembly whether Telemachus would speak of some public matter (2.32; Merry, *Commentary on the Odyssey*, 1886, on 4.314), and Telemachus told Nestor that his business was “private, not public” (3.82; see [[prexis]]).

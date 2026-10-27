@@ -2,12 +2,14 @@
 title: Thebes in Egypt
 greek: Θῆβαι Αἰγύπτιαι
 kind: place
-tags: [city]
-summary: Egyptian Thebes, “where the most treasures lie stored in the houses”, a city of a hundred gates: with Orchomenus, Achilles' measure of wealth beyond any gift (9.381–384). The Odyssey knows it as the home of Polybus, whose gifts Menelaus brought home (Od. 4.125–132).
+tags: [city, africa]
+summary: Egyptian Thebes, “where the most treasures lie stored in the houses”, a city of a hundred gates: with Orchomenus, Achilles' measure of wealth beyond any gift (9.381–384). The Odyssey knows it as the home of Polybus, whose gifts Menelaus brought home (*Odyssey* 4.125–132).
 aliases: [Egyptian Thebes, Thebes of the hundred gates, hundred-gated Thebes, Diospolis]
 # Θήβας is Boeotian Thebes at 5.804, 10.286 and 23.679, so the entry claims a phrase of 9.381, and thebes
-# excepts the line. The Odyssey's form is Θήβῃς Αἰγυπτίῃς (Od. 4.126–127).
-grc: ["ὅσα Θήβας", Αἰγυπτίας]
+# excepts the line. The Odyssey's form is Θήβῃς Αἰγυπτίῃς (Od. 4.126–127): accent-sensitive, since Θήβης without
+# the iota subscript is Boeotian Thebes or Thebe in the Troad (Il. 2.691, 4.378, 4.406; Od. 11.263); thebes
+# excepts Od. 4.126.
+grc: ["ὅσα Θήβας", Αἰγυπτίας, "=Θήβῃς", Αἰγυπτίῃς]
 en: [Thebes]
 refs: [9.383-384]
 passages:
@@ -25,7 +27,7 @@ except: [Rhetoric 1397b9, Rhetoric 1398b3, Rhetoric 1398b18]
 
 Achilles names it at the height of his refusal. Not if Agamemnon gave him ten and twenty times as much as he has, “not all that comes in to Orchomenus, nor all that comes to Thebes in Egypt, where the most treasures lie stored in the houses, which has a hundred gates”, and through each of them two hundred men march out with horses and chariots, would he be persuaded, until Agamemnon has paid for the whole insult (9.379–387; see [[achilles]] and [[the-gifts-of-agamemnon]]). The two cities, the Minyan city of Boeotia and the Egyptian one, stand for wealth beyond counting (see [[orchomenus]]). ἑκατόμπυλος, “hundred-gated”, occurs only here (see [[hundred-gated]]); a hundred gates with two hundred men at each make twenty thousand men with their chariots. It is the only place in the Iliad that names Egypt (see [[egypt]]).
 
-The Odyssey repeats the half-verse. Helen's silver workbasket on wheels was a gift from Alcandre, wife of Polybus, who lived in Thebes in Egypt, “where the most treasures lie stored in the houses” (Od. 4.126–127), and Polybus gave Menelaus two silver bathtubs, two tripods and ten talents of gold (Od. 4.125–132). Ten talents of gold head Agamemnon's gifts too (9.122). Thebes is the only Egyptian city Homer names.
+The Odyssey repeats the half-verse. Helen's silver basket on wheels was a gift from Alcandre, wife of Polybus, who lived in Thebes in Egypt, “where the most treasures lie stored in the houses” (*Odyssey* 4.126–127), and Polybus gave Menelaus two silver bathtubs, two tripods and ten talents of gold (*Odyssey* 4.125–132; see [[polybus-of-thebes]] and [[alcandre]]). Ten talents of gold head Agamemnon's gifts too (9.122). Thebes is the only Egyptian city Homer names.
 
 ## Outside Homer
 

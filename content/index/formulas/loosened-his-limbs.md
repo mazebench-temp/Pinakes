@@ -3,7 +3,7 @@ title: Loosened his limbs
 greek: λῦσε δὲ γυῖα
 kind: formula
 tags: [fate, warfare]
-summary: The half-line of a killing blow, λῦσε δὲ γυῖα, “and loosened his limbs”: death as the undoing of the body's strength. Agenor's stroke ends Elephenor with it in the first battle (4.469), and the next line says the same thing another way, “so his spirit left him”.
+summary: The half-line of a killing blow, λῦσε δὲ γυῖα, “and loosened his limbs”: death as the undoing of the body's strength; the same loosening of knees and heart comes with terror and grief, and sleep loosens the limbs at night.
 aliases: [loosened his limbs, loosed his limbs, loosened his knees]
 grc: ["λῦσε δὲ γυῖα"]
 en: [loosened his limbs]

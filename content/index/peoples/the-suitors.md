@@ -18,7 +18,7 @@ en: [suitors]
 
 ## Who they are
 
-Telemachus counts them: fifty-two from Dulichium, with six servants, twenty-four from Same, twenty from Zacynthus and twelve from Ithaca, and with them the herald Medon, the singer (see [[phemius]]), and two attendants skilled in carving (*Odyssey* 16.245–253; see [[dulichium]], [[samos]], [[zacynthus]] and [[ithaca]]). Their leaders are [[Antinous]] and [[Eurymachus]], “leaders of the suitors, and by far the best in excellence” (*Odyssey* 4.629 = 21.187). The renderings of later books here are plain renderings, not the translation.
+Telemachus counts them: fifty-two from Dulichium, with six servants, twenty-four from Same, twenty from Zacynthus and twelve from Ithaca, and with them the herald Medon, the singer (see [[phemius]]), and two attendants skilled in carving (*Odyssey* 16.245–253; see [[dulichium]], [[samos]], [[zacynthus]] and [[ithaca]]). Their leaders are [[Antinous]] and [[Eurymachus]], “leaders of the suitors, and in excellence they were by far the best” (*Odyssey* 4.629 = 21.187). The renderings of later books here are plain renderings, not the translation.
 
 {{notes}}
 

@@ -1,0 +1,14 @@
+---
+summary: The seals of Proteus come up out of the gray sea and sleep in a crowd on the shore of Pharos; at midday the old man counts them like a herdsman and lies down among them, and Menelaus and three companions, hidden under sealskins, are counted with the beasts (4.400–413, 4.435–453).
+passages:
+  - 4.400-413 | Eidothea tells of the seals
+  - 4.447-453 | The old man counts his seals
+---
+
+{{quote:f2fe390b-8160-5f19-a7e0-559559eb41be}}
+
+**The flock of the sea.** Eidothea tells Menelaus what he will find at midday: her father lying in the hollow caves, and his seals sleeping around him “all together”, ἁθρόαι, come up out of the gray sea (4.400–405; see [[eidothea]], [[proteus]] and [[hollow-caves]]). On the next verse Merry notes that πικρόν is usually taken as an adjective of two endings with ὀδμήν, but is more simply taken as an adverb with ἀποπνείουσαι, “breathing out” (*Commentary on the Odyssey*, 1886, on 4.406). The old man is their keeper: he will first count the seals and go his rounds among them, and when he has counted them all off by fives he will lie down in their midst, νομεὺς ὣς πώεσι μήλων, “like a herdsman among his flocks of sheep” (4.411–413; see [[sheep]]). πεμπάσσεται is properly to count by fives on the fingers (Merry on 4.412; see the translation's note on 4.412), and with πώεσι Merry supplies ἐν from the verse, as before μέσσῃσι (on 4.413). To take the herdsman, Menelaus' men must lie in his flock.
+
+**The skins.** So Eidothea brings up from the sea “the skins of four seals; / all were freshly flayed” (4.436–437), scoops beds in the sand and throws a skin over each man (4.438–440). The seals are named again in the stench that nearly undoes the ambush, “the most baneful smell of the sea-nurtured seals; / for who would lie down to sleep beside a beast of the sea?” (4.442–443; see [[sea-beasts]]), until the goddess sets ambrosia under each man's nose (4.444–446; see [[ambrosia]] and [[ambush]]).
+
+**The count.** All the morning the men wait, and the seals come out of the sea ἀολλέες, “in a body”, and lie down in order along the shore (4.447–449). At midday the old man comes and finds them, “well-fed ones, and went among them all, and counted their number” (4.450–451; see [[well-fed]]). He counts the men first among the beasts and suspects no trick, “and then he lay down himself” (4.452–453). Merry points out that the two verbs λέκτο, “he counted” and “he lay down”, are the same form from two roots, the one of λέγω, “reckon, tell over in order”, the other of λέχος, “bed” (on 4.451), and that πρώτους shows that the men lay nearest the sea (on 4.452). The count that Eidothea foretold is the trick's success: the herdsman takes his enemies for his own flock, and the changes that follow are fought out among the seals (4.454–459; see [[lion]], [[serpent]], [[leopard]] and [[boar]]).

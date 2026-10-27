@@ -1,0 +1,5 @@
+---
+summary: At Menelaus' wedding feast two tumblers whirl among the guests while the singer sings to the lyre and leads the song and dance (4.17–19).
+---
+
+“and two tumblers among them, / as he led the song and dance, whirled in the midst” (4.18–19; see [[the-wedding-at-sparta]]). The verses are the Shield's, but there the tumblers lead (ἐξάρχοντες, *Iliad* 18.606) and here the singer does: ἐξάρχοντος is the genitive of the singer, W. W. Merry explains, as Thetis “led the lamentation” among the Nereids (ἐξῆρχε γόοιο, *Iliad* 18.51; *Commentary on the Odyssey*, 1886, on 4.19). Athenaeus, as Merry reports him, held that the singer, not the tumblers, led the dance, and thought the dancing and tumbling out of place in Menelaus' house (Merry on 4.15–19; see [[the-singer-on-the-shield]] and the translation's note on 4.19). In Book 1 the suitors turn after their meal to “song and dancing; for these are the accompaniments of a feast” (1.152; see [[dance]] and [[feast-type-scene]]); at Sparta the dance belongs to a wedding.

@@ -4,13 +4,13 @@ greek: Φοίνικες
 kind: people
 tags: [non-greek, seafaring, exchange]
 summary: The seafaring traders of the coast of what is now Lebanon, to whom [[Sidon]] belonged. The Iliad names them once, as the men who carried the Sidonian silver mixing bowl over the sea and gave it to Thoas of Lemnos; in the Odyssey they are merchants who sail far with their wares, and in the tales told on Ithaca men who carry off a man or a child to sell.
-aliases: [Phoinikes, Phoenician, Phoenician men]
+aliases: [Phoinikes, Phoenician, Phoenician men, Phoenicia]
 # Φοίνικες (23.744) is the only mention of the people in the Iliad. The Odyssey has Φοινίκην, Phoenicia (Od. 4.83, 14.291),
 # Φοίνικας (Od. 13.272), Φοῖνιξ, a Phoenician (Od. 14.288), Φοίνικες (Od. 15.415, 15.419), Φοίνισσα (Od. 15.417) and
-# Φοινίκων (Od. 15.473).
+# Φοινίκων (Od. 15.473). The land has no entry of its own: the people claim it.
 # φοῖνιξ is also “purple” (purple), “bay” of a horse (23.454), the date palm (Od. 6.163) and the name of Achilles'
-# tutor (phoenix), so the people are claimed by the capitalized form only.
-grc: ["^Φοίνικες"]
+# tutor (phoenix), so the people are claimed by the capitalized forms only.
+grc: ["^Φοίνικες", "^Φοινίκην"]
 ---
 
 ## The name

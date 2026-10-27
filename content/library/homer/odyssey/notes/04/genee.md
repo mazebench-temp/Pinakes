@@ -1,0 +1,8 @@
+---
+summary: The strangers “are like the lineage of great Zeus” (4.27), and in them “the lineage of your parents is not lost” (4.62); “Easily known is the offspring” of a man whom Zeus favors (4.207). The healers of Egypt are “of the stock of Paeëon” (4.232); in Ithaca the suitors would destroy the offspring of Odysseus (4.741), but Eurycleia trusts that the offspring of the son of Arceisius is not hateful to the gods (4.755).
+grc: [γονὴν, γενέθλης]
+---
+
+**Lineage seen.** Eteoneus sees it before he knows the strangers' names: they are like the lineage of great Zeus (4.27). Menelaus says the same at table, “for in you two the lineage of your parents is not lost, / but you are of the lineage of men, of kings whom Zeus has nurtured” (4.62–63). Merry renders “For [the nobility of] your parentage is not lost in you”, i.e. in your persons, as the scholia explain, “you are not sons of obscure parents”, and takes ἀνδρῶν as standing to διοτρεφέων βασιλήων as genus to species (*Commentary on the Odyssey*, 1886, on 4.62–63; on the athetesis of 4.62–64 see the translation's note on 4.57–58, 4.62–64). The offspring of a fortunate man is easily known (4.207; see [[easily-known-is-the-offspring]] and [[fathers-and-sons]]), and the Egyptians are all healers, “for they are of the stock of Paeëon” (4.231–232; see [[paeeon]]).
+
+**The line of Laertes.** Helen bore no more offspring after Hermione (4.12–14). Penelope fears for “his offspring, the offspring of godlike Odysseus” (4.741), and Eurycleia answers for three generations: the offspring of the son of Arceisius is not altogether hateful to the gods, and someone will still be left to hold the house (4.754–757; see [[arceisius]] and [[laertes]]).

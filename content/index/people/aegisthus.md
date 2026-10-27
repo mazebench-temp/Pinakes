@@ -12,7 +12,7 @@ relations:
 
 ## Family
 
-Son of [[Thyestes]]: Θυεστιάδης Αἴγισθος, “Aegisthus, son of Thyestes”, lived in the house where Thyestes had lived before him, at the far edge of the land (*Odyssey* 4.517–518). The renderings of books of the Odyssey other than the first three are plain renderings, not the translation.
+Son of [[Thyestes]]: Θυεστιάδης Αἴγισθος, “Aegisthus, son of Thyestes”, lived in the house where Thyestes had lived before him, at the far edge of the land (*Odyssey* 4.517–518).
 
 ## Descriptions
 

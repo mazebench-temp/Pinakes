@@ -15,7 +15,7 @@ relations:
 
 ## Family
 
-He is the only son of an only son. Arceisius had only Laertes, Laertes only Odysseus, and Odysseus only Telemachus (*Odyssey* 16.117–120; see [[laertes]]). He was a baby at the breast when his father left for Troy (*Odyssey* 11.448–449), and Menelaus and Helen remember him as the son whom Odysseus “left newborn in his house” (*Odyssey* 4.112, 4.144). The Iliad names him twice, both times in Odysseus' mouth, as “the father of Telemachus” (2.260, 4.354). Other heroes are named by their fathers; Odysseus names himself by his son.
+He is the only son of an only son. Arceisius had only Laertes, Laertes only Odysseus, and Odysseus only Telemachus (*Odyssey* 16.117–120; see [[laertes]]). He was a baby at the breast when his father left for Troy (*Odyssey* 11.448–449), and Menelaus and Helen remember him as the son whom Odysseus “left newly born in his house” (*Odyssey* 4.112, 4.144). The Iliad names him twice, both times in Odysseus' mouth, as “the father of Telemachus” (2.260, 4.354). Other heroes are named by their fathers; Odysseus names himself by his son.
 
 ## Descriptions
 

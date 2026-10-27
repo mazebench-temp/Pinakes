@@ -7,6 +7,8 @@ summary: “Shadowy,” σκιόεις, an epithet of mountains and of clouds, a
 aliases: [skioeis]
 grc: [σκιόεντα]
 en: [shadowy]
+# μέγαρα σκιόεντα (Od. 4.768) are the shadowy halls
+except: [Od. 4.768]
 ---
 
 ## Meaning

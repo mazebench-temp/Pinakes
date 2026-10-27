@@ -15,7 +15,7 @@ en: [husband]
 
 πόσις is “husband”. The word is the Greek form of an Indo-European word for the master of a household: Sanskrit *páti-* means both “lord” and “husband”, and Latin *potis* (“able”) and *possum* (“I can”) come from the same root. So do δεσπότης, “master of the house”, and πότνια, “lady, mistress”, the title of goddesses and queens; Sanskrit *pátnī*, “wife”, is the same word as πότνια.
 
-Homer also calls a husband ἀνήρ (“man”) and ἀκοίτης (“bedfellow”), and a wife ἄλοχος and ἄκοιτις, both also “bedfellow”, or παράκοιτις, “she who lies beside” (see [[marriage]]). πόσις is the word for the husband as a woman's lord and partner. In the Odyssey Helen, home again in Sparta, remembers how Aphrodite led her away from her daughter, her bedroom and her husband (πόσιν), “who lacked nothing in mind or looks” (*Odyssey* 4.261–264).
+Homer also calls a husband ἀνήρ (“man”) and ἀκοίτης (“bedfellow”), and a wife ἄλοχος and ἄκοιτις, both also “bedfellow”, or παράκοιτις, “she who lies beside” (see [[marriage]]). πόσις is the word for the husband as a woman's lord and partner. In the Odyssey Helen, home again in Sparta, remembers how Aphrodite led her away from her child, her bridal chamber and her husband (πόσιν), “who lacked nothing, in mind or in form” (*Odyssey* 4.261–264).
 
 {{notes}}
 

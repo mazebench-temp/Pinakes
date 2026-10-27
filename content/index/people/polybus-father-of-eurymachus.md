@@ -14,6 +14,6 @@ en: [Polybus]
 
 The Odyssey names him only as Eurymachus' father, in the verse that brings in his son's speeches, τὸν δʼ αὖτʼ Εὐρύμαχος Πολύβου πάϊς ἀντίον ηὔδα, “Then Eurymachus, son of Polybus, answered him face to face” (*Odyssey* 1.399; see [[eurymachus]]), and once in Telemachus' words, Εὐρύμαχον, Πολύβοιο δαΐφρονος ἀγλαὸν υἱόν, “Eurymachus, the splendid son of wise-hearted Polybus” (*Odyssey* 15.519, a plain rendering; see [[wise-hearted]]).
 
-The name is common in the Odyssey. Another Polybus, of Egyptian Thebes, the husband of Alcandre, gave Menelaus two silver baths, two tripods and ten talents of gold (*Odyssey* 4.125–129); another, a Phaeacian, made the purple ball with which two princes dance before Odysseus (*Odyssey* 8.370–373); and another is a suitor, “wise-hearted Polybus”, whom the swineherd Eumaeus kills (*Odyssey* 22.243, 22.284; see [[eumaeus]]). The Iliad's Polybus is a son of Antenor (see [[polybus]]).
+The name is common in the Odyssey. Another Polybus, of Egyptian Thebes, the husband of [[alcandre|Alcandre]], gave Menelaus two silver bathtubs (see [[polybus-of-thebes]]), two tripods and ten talents of gold (*Odyssey* 4.125–129); another, a Phaeacian, made the purple ball with which two princes dance before Odysseus (*Odyssey* 8.370–373); and another is a suitor, “wise-hearted Polybus”, whom the swineherd Eumaeus kills (*Odyssey* 22.243, 22.284; see [[eumaeus]]). The Iliad's Polybus is a son of Antenor (see [[polybus]]).
 
 {{notes}}

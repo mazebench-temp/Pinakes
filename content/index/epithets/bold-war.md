@@ -12,7 +12,7 @@ of: [polemos]
 
 ## Meaning
 
-θρασύς (“bold, daring,” from the root of θάρσος, “daring”; [[tharsos]]) + πόλεμος (“war”; [[polemos]]). War is bold as the place and the work of daring. The phrase πόλεμον θρασύν ends the verse three times in Homer: here, and twice in a whole half-verse about the Achaeans who came to Troy “bent on bold war” (πόλεμον θρασὺν ὁρμαίνοντες). Menelaus thinks of the Argives who crossed the sea for his sake (Il. 10.26–28), and Helen, at home in Sparta, of the Achaeans who came to Troy “for the sake of dog-faced me” (Od. 4.145–146; [[dog-face]]).
+θρασύς (“bold, daring,” from the root of θάρσος, “daring”; [[tharsos]]) + πόλεμος (“war”; [[polemos]]). War is bold as the place and the work of daring. The phrase πόλεμον θρασύν ends the verse three times in Homer: here, and twice in a whole half-verse about the Achaeans who came to Troy “bent on bold war” (πόλεμον θρασὺν ὁρμαίνοντες). Menelaus thinks of the Argives who crossed the sea for his sake (Il. 10.26–28), and Helen, at home in Sparta, of the Achaeans who came to Troy “for my sake, dog-faced as I am” (Od. 4.145–146; [[dog-face]]).
 
 ## Use
 

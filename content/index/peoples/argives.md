@@ -8,7 +8,8 @@ aliases: [Argeioi]
 # Ἀργεῖοι (Od. 2.173) also catches 31 Iliad lines, all the army, which the Book 2 note claims as well.
 # Ἀργείοισιν (Od. 3.129, 3.309, 3.379; later 11.500, 11.518, 15.240) and Ἀργείοις (Od. 3.133) also catch 34 and 6
 # Iliad lines, all the army, which the Iliad Book 2 and Book 3 notes claim as well.
-grc: [Ἀργείων, Ἀργείοισι, Ἀργεῖοι, Ἀργείοισιν, Ἀργείοις]
+# Ἀργείους (Od. 4.258) also catches 21 Iliad lines, all the army, which the Iliad Book 3 note claims as well.
+grc: [Ἀργείων, Ἀργείοισι, Ἀργεῖοι, Ἀργείοισιν, Ἀργείοις, Ἀργείους]
 en: [Argives]
 ---
 

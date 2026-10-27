@@ -5,7 +5,9 @@ kind: god
 tags: [personification, time]
 summary: Dawn, the goddess who brings each day, “rosy-fingered” and “early-born”. Homer marks the passing of days by her.
 aliases: [Dawn]
-grc: [Ἠώς]
+# Ἠοῦς, the genitive, as Murray capitalizes it in the Odyssey (4.188, 12.3, 13.94); the Iliad's lowercase ἠοῦς is the
+# time, "at dawn" (8.470, 8.525), and its Book 8 note claims only the phrase ἠοῦς ἠριγενείης (8.508).
+grc: [Ἠώς, "^Ἠοῦς"]
 en: [Dawn, dawn]
 ---
 

@@ -1,0 +1,5 @@
+---
+summary: In Proteus' account the storm near Malea carries Agamemnon to the far edge of the land, “where Thyestes had his dwelling / before”, and where his son Aegisthus now dwells (4.517–518). It is the poem's only mention of him.
+---
+
+“To the far edge of the land, where Thyestes had his dwelling / before, but at that time Aegisthus, son of Thyestes, dwelt there” (4.517–518; see [[aegisthus]] and [[the-murder-of-agamemnon]]). The Iliad names Thyestes only as the king who held the scepter between Atreus and Agamemnon (*Iliad* 2.106–107; see [[the-scepter-of-agamemnon]]); here the house of Thyestes lies at the edge of Agamemnon's land, and Θυεστιάδης, “son of Thyestes”, is the only time Homer calls Aegisthus by his father's name. Merry, asking what brought Agamemnon near Malea at all, reports a scholium on 3.272 and the geographer Andron, both of whom put the home of Thyestes on Cythera, and Andron that of Aegisthus after him (Merry, *Commentary on the Odyssey*, 1886, on 4.514; see [[cythera]], [[malea]] and the translation's note on 4.514–520). Homer says nothing of the feast that tragedy made Thyestes' story (see [[the-feast-of-thyestes]]).

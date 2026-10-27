@@ -3,7 +3,7 @@ title: Ajax, son of Oileus
 greek: Αἴας
 kind: person
 tags: [achaean, warrior, king, locris]
-summary: Leader of the [[Locrians]], "the lesser Ajax": small, swift and a master of the spear. He often fights beside Telamonian [[Ajax]], and later poets remembered his violence to Cassandra at the fall of Troy and his death at sea.
+summary: Leader of the [[Locrians]], "the lesser Ajax": small, swift and a master of the spear, who often fights beside Telamonian [[Ajax]]. The Odyssey tells how Poseidon drowned him on the way home from Troy for boasting that he had escaped the sea against the will of the gods; later poets remembered his violence to Cassandra at the fall of the city.
 aliases: [Locrian Ajax, Lesser Ajax, Ajax the Lesser, Oilean Ajax, Aias son of Oileus]
 grc: ["Ὀϊλῆος ταχὺς Αἴας"]
 en: [swift Ajax, lesser Ajax]
@@ -34,7 +34,7 @@ The dual Αἴαντε, "the two Ajaxes", pairs him with the son of Telamon. The
 
 ## Elsewhere in Homer
 
-At Patroclus' funeral games he quarrels with Idomeneus about who is leading the chariot race, and Achilles stops them (23.473–498). In the footrace he is ahead when Athena makes him slip in the dung of the sacrificed cattle, and Odysseus wins; spitting out dung, he complains that the goddess always stands by Odysseus "like a mother" (23.754–783). The Odyssey tells his end. Poseidon saved him from shipwreck at the Gyraean rocks, but when he boasted that he had escaped the sea in spite of the gods, Poseidon split the rock with his trident and he drowned (Od. 4.499–511).
+At Patroclus' funeral games he quarrels with Idomeneus about who is leading the chariot race, and Achilles stops them (23.473–498). In the footrace he is ahead when Athena makes him slip in the dung of the sacrificed cattle, and Odysseus wins; spitting out dung, he complains that the goddess always stands by Odysseus "like a mother" (23.754–783). The Odyssey tells his end. Hated by Athena, he was wrecked on the way home; Poseidon saved him on the rocks of Gyrae, but when he boasted that he had escaped the sea in spite of the gods, Poseidon split the rock with his trident and he drowned (*Odyssey* 4.499–511; see [[the-death-of-ajax-son-of-oileus]] and [[gyrae]]).
 
 ## Outside Homer
 

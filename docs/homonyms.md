@@ -868,6 +868,81 @@ poem, so that the same letters in the Iliad or in Aristotle are not caught.
 | βοῶν ἐπιβουκόλος, Nestor's herdsman (Od. 3.422) | βοῶν "shouting"; the same phrase is Philoetius' formula (Od. 20.235, 21.199, 22.268, 22.285) | cattle: the phrase in its Book 3 note; herdsman-of-the-cattle: `ἐπιβουκόλος` |
 | ἵπποι, horses (Od. 3.324, 3.496) | ἁλὸς ἵπποι, ships as "horses of the sea" (Od. 4.708) | horses: `ἵπποι` in its Book 3 note; Book 4 will need an except |
 
+### Odyssey, Book 4
+
+Menelaus' house and Proteus' island bring more namesakes of Iliad figures (a Medon, a Polybus, a Hermione who is not the
+Argolic town), Odyssey names that are also common words (Dolius and δόλιος, Iphthime and ἴφθιμος, Phaedimus and φαίδιμος,
+Pharos and φᾶρος), a land and a river that share the name Αἴγυπτος, and a second Samos and a second Pherae. Proteus takes
+the title "Old Man of the Sea" that the Iliad gives to Nereus. As in Book 3, most of the book's new forms are claimed in
+Odyssey notes, whose patterns apply only within the poem; the entry forms were tested on the Iliad and on Aristotle.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Μέδων, the herald (Od. 4.677, 4.696, 4.711; 16.252 and later) | the Locrian Medon (Il. 2.727, 13.693, 13.695, 15.334); the ally of the Trojans (Μέδοντα, Il. 17.216) | medon-the-herald: Μέδων and `en: [Medon]` in its Odyssey Book 4 note; medon `except: [Od. 4.677, Od. 4.696, Od. 4.711]` (later books' lines to add) |
+| Ἑρμιόνην, Helen's daughter (Od. 4.14) | the Argolic town (Il. 2.560) | hermione-daughter-of-helen: Ἑρμιόνην and `en: [Hermione]` in its Book 4 note; hermione `except: [Od. 4.14]` |
+| Πολύβοιο, Polybus of Egyptian Thebes (Od. 4.126) | Eurymachus' father (Πολύβου, Od. 1.399; Πολύβοιο, 15.519); Antenor's son (Il. 11.59); a Phaeacian (Od. 8.373); a suitor (Od. 22.243); the king of Corinth (*Rhetoric* 1415a21) | polybus-of-thebes: Πολύβοιο and `en: [Polybus]`, whose Greek match takes 4.126 from polybus-father-of-eurymachus; 15.519 to except |
+| Ἐτεωνεύς, Ἐτεωνεῦ (Od. 4.22, 4.31, 15.95) | Ἐτεωνόν, the Boeotian town (Il. 2.497) | eteoneus: the exact forms, never Ἐτεων* |
+| Βοηθοΐδης (Od. 4.31, 15.95, 15.140) | βοηθόον "to help" (Il. 13.477, 17.481) | eteoneus and boethous: `Βοηθοΐδ*` |
+| Δολίον, the slave (Od. 4.735) | δόλιον "crafty" (Od. 4.792) | dolius: `^Δολίον`; dolos: the phrase `"δόλιον περὶ κύκλον"` in its Book 4 note |
+| Ἰφθίμῃ (Od. 4.797) | ἴφθιμος "mighty" (ἰφθίμου, Od. 4.365) | iphthime: `^Ἰφθίμῃ`; mighty: `ἰφθίμου` in its Book 4 note |
+| Φαίδιμος, the Sidonian king (Od. 4.617, 15.117) | φαίδιμος "shining" | phaedimus: `^Φαίδιμος`; phaidimos `except: [Od. 4.617]` (15.117 to add) |
+| Ἀδρήστη (Od. 4.123), Ἀλκάνδρη (Od. 4.126) | Ἄδρηστος, Ἀδρήστεια; Ἄλκανδρος (Il. 5.678) | adreste, alcandre: the exact forms |
+| Μέντορα (Od. 4.654–655) | mentor-father-of-imbrius' English alias "Mentor" | mentor: Μέντορα in the entry, whose Greek match takes the lines |
+| Ἑλένη, Ἑλένῃ (Od. 4.12 and after) | Ἑλένῃ, Isocrates' *Helen* (*Rhetoric* 1414b28) | helen: `Ἑλένη` in its Odyssey Book 4 note, not the entry |
+| Αἴας, the son of Oileus (Od. 4.499, 4.509) | Telamonian Ajax (Od. 3.109) | ajax `except: [Od. 4.499, Od. 4.509]`; ajax-son-of-oileus: `"Αἴας μὲν μετὰ"`, `"Αἴας τὸ πρῶτον"`, `en: [Ajax]` in its Book 4 note (Book 11 must claim Αἴανθʼ and Αἶαν for ajax in Greek) |
+| Ἀτρεΐδης, Menelaus (Od. 4.51, 4.156, 4.185, 4.190, 4.235, 4.291, 4.304, 4.316, 4.492, 4.594) | Ἀτρεΐδης, Agamemnon | agamemnon's Book 4 note excepts these and claims Ἀτρεΐδεω (4.536, 9.263; Menelaus at Il. 23.434, so not in the entry); menelaus' note lists them in refs |
+| Φιλομηλεΐδῃ (Od. 4.343 = 17.134) | Φιλομήλα, Gorgias' swallow (*Rhetoric* 1406b17) | philomeleides: the exact form, never Φιλομηλ* |
+| Πρωτεύς, Πρωτέος (Od. 4.365, 4.385) | Πρωτεσίλαος (Il. 2.698 and often) | proteus: the exact forms, never Πρωτε* |
+| γέρων ἅλιος νημερτής, Proteus (Od. 4.349, 4.384, 4.401, 4.542; 17.140) | ἁλίοιο γέροντος of Nereus (Il. 1.538) and Phorcys (Od. 13.96); the Nereid Νημερτής (Il. 18.46); the English "Old Man of the Sea" | old-man-of-the-sea `except: [Od. 4.349, Od. 4.365, Od. 4.384, Od. 4.401, Od. 4.542]`; proteus: the phrase and `en: [Old Man of the Sea]` in its Book 4 note; unerring-old-man-of-the-sea: the phrase, `en: [unerring]` |
+| θυγάτηρ ἁλίοιο γέροντος, Eidothea (Od. 4.365) | Thetis' title (Il. 1.538, 1.556, 24.562) | daughter-of-the-old-man `except: [Od. 4.365]` |
+| Εἰδοθέη (Od. 4.366) | εἰδῶ "I may know" (Od. 4.645), εἶδος, εἰδομένη | eidothea: the exact form, never Εἰδο* |
+| Ἠοῦς, Dawn (Od. 4.188) | ἠοῦς "at dawn" (Il. 8.470, 8.525) | eos: `"^Ἠοῦς"` |
+| ἀμβροσίην, ambrosia (Od. 4.445) | νύκτα διʼ ἀμβροσίην (Od. 9.404, 15.8); ἀμβροσίη νύξ (Od. 4.429, 4.574) | ambrosia: `"ἀμβροσίην ὑπὸ ῥῖνα"` in its Book 4 note; ambrosial: `"ἀμβροσίη νύξ"` |
+| Αἰγύπτοιο, the river (Od. 4.477, 4.581) | Αἴγυπτος, the land | aegyptus-river: Αἰγύπτοιο, `en: [Aegyptus]`; egypt has no alias "Aegyptus"; later books: Αἴγυπτον ἐϋρρείτην (14.257) and "Αἰγύπτῳ ποταμῷ" (14.258, 17.427) go to the river, which egypt will except |
+| Αἰγύπτιος "of Egypt", Proteus (Od. 4.385) | Αἰγύπτιος, the elder of Ithaca (Od. 2.15) | egypt: Αἰγύπτιος, `except: [Od. 2.15]`; aegyptius keeps "ἥρως Αἰγύπτιος" |
+| Θήβῃς, Egyptian Thebes (Od. 4.126) | Θήβης, Boeotian Thebes or Thebe (Il. 2.691, 4.378, 4.406; Od. 11.263) | thebes-in-egypt: `"=Θήβῃς"`; thebes `except: [Od. 4.126]` |
+| Φάρον, Pharos (Od. 4.355) | φᾶρος "cloak" (Il. 2.43; Od. 2.97 and often) | pharos: `^Φάρον` |
+| Φερῇς, Eumelus' Pherae (Od. 4.798) | φέρῃς "you carry"; Φηραί, Diocles' Pherae (Od. 3.488) | pherae: `^Φερῇς`; pherae-in-messenia `except: [Od. 4.798]` |
+| Σάμοιο, Odysseus' Samos (Od. 4.671, 4.845; 15.29) | Samos off Ionia; Samothrace (Il. 13.12, 24.78) | samos: Σάμοιο; samos-ionia `except: [Od. 4.671, Od. 4.845]` |
+| Φοινίκην, Phoenicia (Od. 4.83; 14.291) | φοῖνιξ "purple", "palm"; Phoenix | phoenicians: `^Φοινίκην`, alias "Phoenicia" |
+| Ἐρεμβούς (Od. 4.84) | Crates' reading Ἐρεμνούς; ἐρεμνός "dark" (Il. 4.167) | erembi: the exact form |
+| Γυρῇσιν, Γυραίην (Od. 4.500, 4.507) | γυρός "round" (Od. 19.246) | gyrae: the exact forms |
+| Ἀστερίς (Od. 4.846) | Ἀστέριον (Il. 2.735); ἀστερόεις "starry" | asteris: the exact form |
+| Νηλήιον, "Neleian" Pylos (Od. 4.639) | Νηλήϊον, Nestor (Il. 10.18) | pylos: Νηλήιον in its Book 4 note |
+| ῥηγμῖνι θαλάσσης (Od. 4.430, 4.449, 4.575) | ῥηγμῖνος, the breakers (Il. 20.229) | shore: the phrase in the entry (it also takes Il. 1.437, 2.773, 8.501, 16.67, all the shore) |
+| ἐν ψαμάθοισι(ν) (Od. 4.426, 4.438, 4.539) | ψάμαθος of a simile or a river (Il. 2.800, 21.202) | shore: the two phrases in its Book 4 note |
+| ἁλὸς ἵπποι, ships as "horses of the sea" (Od. 4.708) | ἵπποι "horses" | ships: the phrase in its Book 4 note; horses' Book 4 note `except: [4.708]` |
+| ἵππω, the dual "the pair" (Od. 4.20) | ἵππῳ, the Wooden Horse (Od. 4.272) | horses: `"=ἵππω"` |
+| φῶκαι, φώκας, φωκάων "seals" | Φωκήων "Phocians" (Il. 2.517) | seals: the exact forms, never φωκ* |
+| κήτεϊ, κήτεος, κήτεσιν (Od. 4.443–452) | Κήτειοι (Od. 11.521) | sea-beasts: the exact forms |
+| πυροί, πυρόν, πυρῶν "wheat" | πῦρ, πυρός "fire"; πυρή; πύργος | wheat: the exact forms |
+| ὄϊος "of a sheep" (Od. 4.764) | οἷος "such", οἶος "alone" | sheep: `"=ὄϊος"` |
+| μῆλα "flocks" (Od. 4.86, 4.413, 4.622, 4.640) | μῆλον "apple" | sheep's Book 4 note: phrases only |
+| δώδεκα θήλειαι (Od. 4.636 = 21.23) | θήλεια of other beasts | horses: the phrase only |
+| ἰχθυάασκον "fishing" (Od. 4.368) | ἰχθυόεις "fish-filled" | fish: `"ἰχθυάα*"` |
+| κλισίη "chair" (Od. 4.123) | κλισίη "hut" | hut `except: [Od. 4.123]`; throne's Book 4 note `"κλισίην εὔτυκτον"` |
+| δίφρος "chair" (Od. 4.717) | the car of the chariot (Od. 4.590) | throne `"δίφρῳ ἐφέζεσθαι"`; chariot `"δίφρον ἐύξοον"` |
+| δόμος, the house (Od. 4.43, 4.79, 4.127, 4.319, 4.618, 4.674; δῶμʼ 4.715) | a lion's fold (Od. 6.134) | house: phrases in its Book 4 note |
+| μυχῷ δόμου, the inner part of the house (Od. 3.402, 4.304) | μυχῷ Ἄργεος, a corner of Argos (Od. 3.263) | house `"μυχῷ δόμου"` |
+| αὐλή, the court of Zeus (Od. 4.74) | αὐλῇ, the goats' yard (Od. 2.300) | house `"ἔνδοθεν αὐλή"` |
+| τάφου "funeral feast" (Od. 4.547) | Τάφου, Taphos; τάφος "burial" | feast `"τάφου ἀντιβολήσαις"` |
+| ἠλέκτρου "amber" (Od. 4.73) | Ἠλέκτρᾳ, Electra (*Poetics* 1460a31) | amber: the exact form, never a stem |
+| χρῖσαν, χρῖον ἐλαίῳ "anointed" (Od. 4.49, 4.252) | χρίεσθαι, smearing arrows with poison (Od. 1.262) | bathing: the phrases |
+| εὐνήν, the lion's lair (Od. 4.338) | εὐνή "bed" | bed `"εἰς εὐνὴν"` only |
+| ἐχέφρων "sensible" (Od. 4.111; Il. 9.341) | Ἐχέφρων, son of Nestor (Od. 3.413, 3.439) | sensible `[ἐχέφρων, "!^Ἐχέφρων"]`; echephron keeps `^Ἐχέφρων` |
+| ῥηξήνορος "breaker of men" (Od. 4.5) | Ῥηξήνωρ, Arete's father (Od. 7.63, 7.146) | breaker-of-men: the phrase `"Ἀχιλλῆος ῥηξήνορος"` in its Book 4 note (the Phaeacian will need his own id) |
+| Λακεδαίμονα δῖαν (Od. 4.313, 4.702) | ἅλα δῖαν (Od. 4.577) | brilliant (Book 3 note) claims the phrase; shining-sea's Book 4 note `except: [4.313, 4.702]` |
+| οὔλας "woolly" (Od. 4.50, 4.299) | οὐλάς, barley grains (Od. 3.441) | thick-and-woolly: the phrases `"χλαίνας οὔλας"`, `"ἐνθέμεναι οὔλας"` |
+| θείων βασιλήων "divine kings" (Od. 4.691) | θείων, participle of θέω "run" | divine: the phrase only |
+| δίκη "custom, way" (Od. 4.691 and six later lines) | δίκῃ "rightly" (Il. 23.542) | themis: `δίκη` in its Odyssey Book 4 note; English "the way of divine kings", not "way" |
+| νέεσθαι "to go" (Od. 4.8) | νέεσθαι "return home" | nostos' Book 4 note `except: [4.8]` |
+| οἴκαδε (Od. 4.701) | "to his house" (14.280, 16.370, 21.316) | nostos: refs, not a form |
+| μένεʼ "strength" (Od. 4.363) | μένε "waited" | menos: the phrase `"μένεʼ ἀνδρῶν"` |
+| ἀρῆς "prayer" (Od. 4.767) | Ἄρης (Ares) | prayer: `"=ἀρῆς"` |
+| ἠρᾶτο "prayed" (Od. 4.761) | ἤρατο "endured" (Od. 4.107) | prayer: `"=ἠρᾶτο"` |
+| ἀγορεύω "speak", ἀγορήσατο "addressed" (Od. 4.76, 4.157, 4.189, 4.383, 4.399, 4.611, 4.620, 4.645, 4.773, 4.836) | assembly's `ἀγορ*` | assembly `except:` these lines; ἀγοράων "assemblies" (4.818) stays |
+| εὐχετόωνται "claim to be" (Od. 4.139) | prayer's `εὐχ*` | prayer `except: [Od. 4.139]` |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

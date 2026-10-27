@@ -1,0 +1,8 @@
+---
+summary: The Trojans are the enemy of Helen's and Menelaus' stories: the hostile city that Odysseus entered as a beggar and the people who suspected nothing, the men he killed on his way back, and the people to whom the god who sent Helen to the horse meant to give glory (4.243–275). “The land of the Trojans, where you Achaeans suffered woes” is the war's place for Helen and Telemachus alike (4.243, 4.330).
+# Unnamed: "the wide-streeted city of hostile men" (4.246) and the Trojans who "suspected nothing, / all of them"
+# (4.250).
+refs: [4.246, 4.250]
+---
+
+In Helen's story Odysseus “slipped into the wide-streeted city of hostile men” and “slipped into the city of the Trojans, and they suspected nothing, / all of them” (4.246–250; see [[odysseus-enters-troy-as-a-beggar]] and [[troy]]). ἀβάκησαν, “suspected nothing”, Apollonius and the scholia gloss as ἠγνόησαν, “they did not know” (Merry, *Commentary on the Odyssey*, 1886, on 4.249). She swore not to reveal him “among the Trojans” until he was back at the ships, and he went back “after killing many Trojans with the long-edged bronze” (4.254, 4.257), so that the Trojan women wailed (4.259; see [[trojan-women]]). In Menelaus' story the men in the horse were “bringing slaughter and doom to the Trojans” (4.273), and the god who must have sent Helen to the horse “meant to hold out glory to the Trojans” (4.275; see [[kydos]] and [[sinon-and-the-wooden-horse]]): had she drawn the men inside into answering, Merry explains, the Trojans would have won the glory of victory (on 4.274). δήμῳ ἔνι Τρώων, “in the land of the Trojans, where you Achaeans suffered woes”, is a verse of Helen's and of Telemachus' (4.243, 4.330), as it was of Telemachus' to Nestor (3.100; see [[achaeans]]).

@@ -1,0 +1,5 @@
+---
+summary: Galingale grows with the lotus on Menelaus' wide plain, among the fodder of a land for horses, as Telemachus says when he declines the gift of three horses (4.602–604).
+---
+
+**Galingale on the plain.** Telemachus leaves the horses that Menelaus offers him as a delight for Menelaus himself, who is lord of a wide plain “in which there is much lotus, and galingale, / and wheat and spelt and broad-eared white barley”, while Ithaca has no wide courses and no meadow (4.601–608; see [[horses]], [[lotus]], [[wheat]], [[spelt]] and [[barley]]). ἐν δὲ κύπειρον, “and galingale”, is the word's only place in the Odyssey. W. W. Merry says that κύπειρον may be rendered “galingale”, the pseudo-cyperus of Pliny, a marsh plant (*Commentary on the Odyssey*, 1886, on 4.603). It is fodder here, as the lotus is, a plant of damp ground; for the plain Merry thinks of the flat land of Messenia or the valley of the Eurotas (on 4.602). In the Iliad the same two plants burn together along the Xanthus (*Iliad* 21.350–351).

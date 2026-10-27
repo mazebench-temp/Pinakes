@@ -4,7 +4,9 @@ greek: Ἀτρεύς
 kind: person
 tags: [king, atreidae]
 summary: Father of [[Agamemnon]] and [[Menelaus]], who received the scepter of Zeus from [[Pelops]] and left it to [[Thyestes]]. Homer names him most often in his sons' patronymic, Ἀτρεΐδης, “son of Atreus”.
-grc: [Ἀτρεΐδ*, Ἀτρεΐων*]
+# Ἀτρέος, "of Atreus" (Od. 4.462, 4.543; later 11.436), is right everywhere; it also catches 12 Iliad lines (2.23 and
+# others), which the Iliad Book 2 note claims as well.
+grc: [Ἀτρεΐδ*, Ἀτρεΐων*, Ἀτρέος]
 en: [Atreus]
 relations:
   - child: agamemnon (1.7, 1.12)

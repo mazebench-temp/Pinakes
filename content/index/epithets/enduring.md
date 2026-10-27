@@ -3,7 +3,7 @@ title: Enduring
 greek: τλήμων
 kind: epithet
 tags: [heroic-epithet, mind]
-summary: “Enduring, daring,” from the root of τλῆναι, “endure, dare”: in the Iliad an epithet of [[Odysseus]] and his spirit, and once, in Athena's mockery, of the helpers of the Trojans.
+summary: “Enduring, daring,” from the root of τλῆναι, “endure, dare”: τλήμων, in the Iliad an epithet of [[Odysseus]] and his spirit, and once, in Athena's mockery, of the helpers of the Trojans; and in the Odyssey the verse-end τετληότι θυμῷ, “with enduring heart.”
 aliases: [tlemon, daring, hardy, steadfast]
 grc: [τλήμων, τλήμονα]
 en: [enduring]
@@ -12,7 +12,7 @@ of: [odysseus]
 
 ## Meaning
 
-τλήμων is formed from the root of τλῆναι, which means both “endure, bear” and “dare, bring oneself to do.” The adjective has both senses: “enduring, patient” and “daring, hardy.” In later Greek it came to mean “wretched,” one who has much to bear, but not in Homer. The Iliad uses it four times. Odysseus is “he of the enduring spirit” when he sees Sarpedon wound Tlepolemus and ponders whether to pursue him (τλήμονα θυμὸν ἔχων, 5.669–671); twice in Book 10 he is ὁ τλήμων Ὀδυσεύς, “enduring Odysseus” (10.231, 10.498); and in Book 21 Athena, having struck down Ares and Aphrodite, mocks them: may all the Trojans' helpers be “so bold and hardy” as Aphrodite was when she came to help Ares (θαρσαλέοι καὶ τλήμονες, 21.428–431), where the word stands beside θαρσαλέος, “bold.” The same root gives Odysseus his other epithets: [[much-enduring]] (πολύτλας), [[stout-hearted]] (ταλασίφρων), and the [[daring]] heart (τολμήεις). The translation renders τλήμων “enduring”, and “hardy” where it stands beside θαρσαλέοι (21.430; see the translation's note on 10.231).
+τλήμων is formed from the root of τλῆναι, which means both “endure, bear” and “dare, bring oneself to do.” The adjective has both senses: “enduring, patient” and “daring, hardy.” In later Greek it came to mean “wretched,” one who has much to bear, but not in Homer. The Iliad uses it four times. Odysseus is “he of the enduring spirit” when he sees Sarpedon wound Tlepolemus and ponders whether to pursue him (τλήμονα θυμὸν ἔχων, 5.669–671); twice in Book 10 he is ὁ τλήμων Ὀδυσεύς, “enduring Odysseus” (10.231, 10.498); and in Book 21 Athena, having struck down Ares and Aphrodite, mocks them: may all the Trojans' helpers be “so bold and hardy” as Aphrodite was when she came to help Ares (θαρσαλέοι καὶ τλήμονες, 21.428–431), where the word stands beside θαρσαλέος, “bold.” The same root gives Odysseus his other epithets: [[much-enduring]] (πολύτλας), [[stout-hearted]] (ταλασίφρων), and the [[daring]] heart (τολμήεις). The translation renders τλήμων “enduring”, and “hardy” where it stands beside θαρσαλέοι (21.430; see the translation's note on 10.231). The Odyssey has the perfect participle of the same verb in the verse-end τετληότι θυμῷ, “with enduring heart” (*Odyssey* 4.447, 4.459, 9.435, 11.181), said of men who hold on and of Penelope, who waits.
 
 ## Use
 

@@ -1,0 +1,22 @@
+---
+summary: At Sparta the guests' horses are unyoked and fed with spelt and white barley in the verses of the gods' horses (4.20–42); Menelaus offers Telemachus three horses and a chariot, and Telemachus refuses them, since Ithaca is no land for horses (4.589–608). In Ithaca Noemon needs his ship to fetch a mule from his twelve mares in Elis (4.634–637).
+# 4.708: ships are ἁλὸς ἵπποι, "horses of the sea" (see ships), not this entry's horses.
+except: [4.708]
+passages:
+  - 4.20-42 | The guests' horses unyoked
+  - 4.589-608 | Telemachus refuses the horses
+---
+
+**The guests' horses.** Telemachus and Peisistratus stop in the doorway, “themselves and their horses”, αὐτώ τε καὶ ἵππω, in the duals of the pair (4.20; see [[peisistratus]]). Eteoneus asks whether to unyoke their swift horses or send them on to another host, and Menelaus rebukes him: “But unyoke the horses / of the strangers, and bring them on into the house to feast” (4.28–36; see [[eteoneus]] and [[xenia]]). The attendants unyoke the sweating horses, tie them at the horses' mangers, throw spelt before them mixed with white barley, and lean the chariot against the gleaming walls (4.39–42; see [[spelt]], [[barley]] and [[chariot]]). The verses are those of the Iliad's Hours, who unyoke Hera's horses, tie them at their ambrosial mangers and lean the chariot against the gleaming walls (*Iliad* 8.433–435): 4.42 is *Iliad* 8.435, and 4.40 is *Iliad* 8.434 with ἱππείῃσι, “the horses'”, for ἀμβροσίῃσι, “ambrosial”. Menelaus' attendants serve the guests' horses as the Hours serve the gods', and add the fodder. Merry joins ὑπὸ ζυγοῦ with λῦσαν, “unyoked from under the yoke”, as of Nausicaa's mules (7.5), and takes the gleaming ἐνώπια for the inner faces of the gateway, lit by the sun (*Commentary on the Odyssey*, 1886, on 4.39, 4.42).
+
+**Horses and chariots.** Hermione is sent to the son of Achilles “with horses and chariots” (ἵπποισι καὶ ἅρμασι, 4.8; see [[hermione-daughter-of-helen]]), and in Proteus' tale Aegisthus goes to invite Agamemnon “with horses and chariot” (ἵπποισιν καὶ ὄχεσφιν, 4.533; see [[aegisthus]]), a dative that Merry joins with the verb of going, as at 4.8 (on 4.533).
+
+**The gift refused.** Menelaus asks Telemachus to stay eleven or twelve days, and promises splendid gifts, “three horses and a well-polished chariot”, and a goblet for libations (4.587–592; see [[guest-gifts]]). The scholia explain the three as a pair and a trace horse, as Pedasus ran in the traces beside Achilles' immortal pair (Merry on 4.590, comparing *Iliad* 16.149–154). Telemachus asks for a treasure he can keep instead:
+
+{{quote:a0c65b44-fcc0-592f-bcd1-79af5ac4ff38}}
+
+He leaves the horses to Menelaus as an ἄγαλμα, “a delight” (4.602; see the translation's key-word row), and gives the reason in the land itself: Menelaus is lord of a wide plain of lotus, galingale, wheat, spelt and barley (4.602–604; see [[lotus]], [[galingale]] and [[wheat]]), while Ithaca has no wide courses for running and no meadow, and none of the islands is “good for driving horses or rich in meadows” (4.605–608; see [[ithaca]] and [[horse-pasturing]]). Merry takes the plain for the flat land of Messenia, part of which was Menelaus' country, or for the valley of the Eurotas between Taygetus and Parnon, fifteen miles long and four wide (on 4.602). Menelaus smiles at the answer and changes the gift for a mixing bowl (4.609–619; see [[mixing-bowl]]).
+
+**Noemon's mares.** In Ithaca, Noemon asks Antinous when Telemachus will be back with the ship he lent him, for he needs it “to cross over to Elis with its wide dancing floors, where I have horses, / twelve mares, and at their teats hard-working mules, / unbroken; one of these I would drive off and break in” (4.634–637; see [[noemon-son-of-phronius]], [[elis]] and [[mules]]). Merry notes that Ithaca, as Telemachus says (4.605–608), was no place for breeding horses or mules, so Noemon kept a paddock in Elis (on 4.635). The same verse tells of the twelve mares that Iphitus was seeking when he gave Odysseus his bow (21.22–23).
+
+**Horses of the sea.** When Penelope hears that her son has gone, she says that he had no need to go on board swift ships, “which are horses of the sea / for men” (4.708–709). The ἵπποι of that verse are ships, not horses, and the line is excepted here (see [[ships]]). Merry takes ἵπποι as almost “chariots”, as ἵπποι can mean the team and the car together, and compares Aeschylus, who calls ships the cars of sailors (on 4.708).

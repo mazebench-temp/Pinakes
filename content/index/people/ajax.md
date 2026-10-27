@@ -10,7 +10,7 @@ grc: [Αἴαντ*, Αἴας]
 # Αἶαν at 12.366 is the son of Oileus, whom Telamonian Ajax addresses; Ὀϊλῆος ταχὺς Αἴας (13.66, 13.701)
 # and Αἴαντος ἀδελφεός (13.695, of Medon) are the son of Oileus too.
 # Αἴας and Αἶαν at 23.473–493 (the quarrel with Idomeneus) and 23.754–789 (the footrace) are the son of Oileus.
-except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701, 15.334, 23.473, 23.483, 23.488, 23.493, 23.754, 23.774, 23.779, 23.789, Rhetoric 1399b29, Rhetoric 1400a28]
+except: [8.281, 10.110, 10.175, 12.366, 13.66, 13.695, 13.701, 15.334, 23.473, 23.483, 23.488, 23.493, 23.754, 23.774, 23.779, 23.789, Rhetoric 1399b29, Rhetoric 1400a28, Od. 4.499, Od. 4.509]
 en: [Ajax]
 ---
 

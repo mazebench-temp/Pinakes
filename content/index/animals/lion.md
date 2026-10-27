@@ -3,9 +3,9 @@ title: Lion
 greek: λέων
 kind: animal
 tags: [wild-animal]
-summary: The lion, λέων, the commonest beast of the Iliad's similes. Homer's lions are hungry, bold and alone; they fall on herds and flocks, are driven off by dogs and herdsmen, and give a warrior's courage and savagery their picture.
+summary: The lion, λέων, the commonest beast of the Iliad's similes. Homer's lions are hungry, bold and alone; they fall on herds and flocks, are driven off by dogs and herdsmen, and give a warrior's courage and savagery their picture. In the Odyssey the lion is above all the likeness of Odysseus and of his revenge on the suitors.
 aliases: [lions, leon, lis]
-grc: [λέων]
+grc: [λέων, λέοντος]
 en: [lion]
 ---
 
@@ -21,7 +21,7 @@ The first lion simile of the poem is in *Iliad* 3. When Menelaus sees Alexander,
 
 ## Elsewhere in Homer
 
-In the Odyssey, Odysseus comes out of the bushes toward Nausicaa like a mountain lion driven by hunger (Odyssey 6.130–134), the Cyclops eats his men like a mountain lion (9.292), and Odysseus stands among the dead suitors spattered with blood like a lion that has eaten an ox (22.402–406). Menelaus foretells the suitors' end in a lion simile: a deer lays her fawns in a lion's lair, and the lion comes home (4.335–340, repeated at 17.126–131).
+In the Odyssey, Odysseus comes out of the bushes toward Nausicaa like a mountain lion driven by hunger (*Odyssey* 6.130–134), the Cyclops eats his men like a mountain lion (*Odyssey* 9.292), and Odysseus stands among the dead suitors spattered with blood like a lion that has eaten an ox (*Odyssey* 22.401–406). Menelaus foretells the suitors' end in a lion simile: a hind lays her fawns in a lion's lair, and the lion comes home (*Odyssey* 4.333–340, repeated at 17.124–131; see [[the-hind-in-the-lions-lair]]). In the same book Penelope, afraid for her son, is likened to a lion in a ring of hunters (*Odyssey* 4.791–793; see [[the-lion-encircled]]), and Proteus, seized by Menelaus, becomes first of all a lion (*Odyssey* 4.456).
 
 ## Outside Homer
 

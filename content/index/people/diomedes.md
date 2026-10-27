@@ -6,8 +6,9 @@ tags: [achaean, argive, king, warrior, argolid]
 summary: Son of [[Tydeus]], lord of Argos and Tiryns, the youngest of the great Achaean fighters and a favorite of [[Athena]]. On his great day of battle, with her help, he wounds Aphrodite and even Ares; after the war he was among the first to come home.
 aliases: [son of Tydeus, Tydides, Tydeides]
 # Διομήδεος, Τυδεΐδεω and "Τυδέος υἱὸς" (Od. 3.167, 3.181) are claimed in the Iliad by the Book 5 note, and are right
-# everywhere; the patronymic counts for the father too (tydeus).
-grc: [Διομήδης, "Τυδέος υἱόν", "Τυδέος υἱὸς", Διομήδεος, Τυδεΐδεω]
+# everywhere; the patronymic counts for the father too (tydeus). Τυδεΐδης (Od. 4.280) is right everywhere as well: it
+# also catches 29 Iliad lines, all Diomedes, which the Book 5 note's Τυδεΐδ* claims as well.
+grc: [Διομήδης, "Τυδέος υἱόν", "Τυδέος υἱὸς", Διομήδεος, Τυδεΐδεω, Τυδεΐδης]
 en: [Diomedes, son of Tydeus]
 relations:
   - father: tydeus (2.406)

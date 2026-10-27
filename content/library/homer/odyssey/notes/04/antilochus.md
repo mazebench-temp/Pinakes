@@ -1,0 +1,7 @@
+---
+summary: At Sparta, when all are weeping, Peisistratus remembers his brother Antilochus, killed by the son of Dawn, and praises him, though he never saw him: “surpassingly swift at running, and a fighter” (4.186–202).
+# Unnamed: "whom the splendid son of shining Dawn had killed" (4.188) and "my brother too is dead" (4.199-201).
+refs: [4.188, 4.199-201]
+---
+
+Menelaus' grief for Odysseus sets all four weeping, “nor did the son of Nestor keep his eyes free of tears; / for in his heart he remembered noble Antilochus, / whom the splendid son of shining Dawn had killed” (4.186–188; see [[peisistratus]], [[blameless]] and [[eos]]). The killer is not named: Merry supplies Memnon, king of the Eastern Ethiopians, whom Achilles killed in revenge for Antilochus, and points to Pindar (Merry, *Commentary on the Odyssey*, 1886, on 4.188, citing *Pythian* 6.28 and *Nemean* 3.59). Peisistratus' praise ends with the half-verse his father used at Pylos, now in the accusative: “For my brother too is dead, by no means the worst / of the Argives; you may have known him; for I, for my part, / never met him or saw him; but they say he was above all others, / Antilochus, surpassingly swift at running, and a fighter” (4.199–202; 3.112; see [[nestor]]). The younger brother knows him only by report: he may not yet have been born when Antilochus sailed (Merry on 4.200). Menelaus answers with the praise of Nestor's sons, “men of good sense and the best with the spear” (4.211).

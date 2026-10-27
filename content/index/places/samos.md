@@ -5,7 +5,9 @@ kind: place
 tags: [island, ionian-islands]
 summary: An island of Odysseus' realm, the one later called Cephallenia (Kefalonia), which the Odyssey also calls Same. It is not the Samos off Ionia.
 aliases: [Same]
-grc: [Σάμον, Σάμῃ]
+# Σάμοιο (Od. 4.671, 4.845; later 15.29), always in the verse-end Σάμοιό τε παιπαλοέσσης, "and rocky Samos", is
+# not in the Iliad; samos-ionia excepts the two lines for the English.
+grc: [Σάμον, Σάμῃ, Σάμοιο]
 # Σάμον at 24.753 (with Imbros and Lemnos) is Samothrace (samothrace).
 except: [24.753, Rhetoric 1384b32, Rhetoric 1393b23, Rhetoric 1393b32]
 ---
@@ -18,7 +20,7 @@ The Cephallenians "lived around Samos" (ἀμφενέμοντο). This is the la
 
 ## Elsewhere in Homer
 
-In the Odyssey it is Same (Σάμη) as well as Samos. Penelope's suitors lie in wait for Telemachus "in the strait between Ithaca and rugged Samos" (*Odyssey* 4.671, 4.845), and twenty-four of the suitors come from Same (*Odyssey* 16.249).
+In the Odyssey it is Same (Σάμη) as well as Samos, and “rocky Samos”, Σάμοιό τε παιπαλοέσσης, with the verse-end the Iliad gives Imbros (13.33, 24.78; see [[rocky]]). Penelope's suitors lie in wait for Telemachus “in the strait between Ithaca and rocky Samos” (*Odyssey* 4.671; again 15.29), at the island of Asteris (*Odyssey* 4.844–847; see [[asteris]]), and twenty-four of the suitors come from Same (*Odyssey* 16.249).
 
 ## Outside Homer
 

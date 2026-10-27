@@ -1,0 +1,7 @@
+---
+summary: Noemon tells the suitors that he saw Mentor, “or a god, who was like him in every way”, go on board as the leader of Telemachus' crew, and yet saw brilliant Mentor in Ithaca the next morning (4.653–656).
+# Μέντορα (4.654, 4.655) is claimed by the entry. The leader Noemon saw on board was Athena in Mentor's likeness
+# (2.399-401); the Mentor he saw at daybreak was the man himself.
+---
+
+“and as their leader I saw going on board / Mentor, or a god, who was like him in every way. / But at this I marvel: I saw brilliant Mentor here / yesterday at daybreak, though at that time he went on board the ship for Pylos” (4.653–656; see [[noemon-son-of-phronius]] and [[brilliant]]). The reader knows the answer to Noemon's puzzle: Athena had taken Mentor's likeness, “both in form and in voice”, to sail with Telemachus (2.399–401; see [[athena]]), and the companion of Odysseus had stayed at home. Merry's paraphrase keeps the two times apart: Noemon saw Mentor in Ithaca yesterday at early dawn, though at the time Telemachus started he saw him go on board for Pylos (Merry, *Commentary on the Odyssey*, 1886, on 4.655). The suitors do not pursue the question; it is the ship and the boy that rouse them (4.658–672; see [[antinous]] and [[the-journey-of-telemachus]]). Medon, at the end of the poem, will tell the men of Ithaca of a god “in all things like Mentor” standing beside Odysseus (24.445–446; see [[medon-the-herald]]).

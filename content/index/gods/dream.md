@@ -3,13 +3,10 @@ title: Dream
 greek: Ὄνειρος
 kind: god
 tags: [personification, divination, divine-will]
-summary: The “baneful Dream” (οὖλος ὄνειρος) that [[Zeus]] sends to [[Agamemnon]] in the likeness of [[Nestor]], with the false promise that he can take Troy. Its errand sets the whole of *Iliad* 2 in motion.
+summary: The dream (ὄνειρος) as Homer tells it, a visitor from outside the sleeper, sent by a god in the likeness of someone the sleeper knows. Zeus sends the “baneful Dream” to [[Agamemnon]] with a false promise of Troy, and Athena sends Penelope a phantom of her sister to comfort her in her sleep.
 aliases: [Oneiros, baneful Dream, the Dream]
 grc: [ὄνειρον, ὄνειρε, ὄνειρος]
 en: [dream]
-passages:
-  - 2.1-40 | Zeus sends the Dream
-  - 2.56-71 | Agamemnon tells the council
 ---
 
 ## Etymology
@@ -24,23 +21,11 @@ passages:
 
 θεῖος ὄνειρος, “the divine Dream” (2.22, 2.56): it comes from a god, and Agamemnon feels its “divine voice” still around him when he wakes (θείη ὀμφή, 2.41).
 
-## The errand
-
-Zeus lies awake after the other gods have gone to sleep, pondering how to honor [[Achilles]], and the Dream is the plan that seems best to him (2.1–6). He gives it a message to repeat “exactly”: Agamemnon is to arm the Achaeans, for now he may take Troy; the gods are no longer divided, Hera has won them over, and sorrows hang over the Trojans (2.8–15).
-
-{{quote:35ebf63a-b420-5abe-aec6-8794cc2671ea}}
-
-The Dream takes the shape of the man Agamemnon trusts most. It stands above the sleeper's head, the usual place for a dream-figure in Homer (see [[dream-scene]]), and begins with a rebuke before it delivers the message. It adds two touches of its own: Zeus “cares greatly for you and pities you” (2.27), and the sorrows of the Trojans come “from Zeus” (2.33). It ends with a warning not to forget (2.33–34). Agamemnon then tells the council the whole dream again, in nearly the same words (2.56–71). The message is heard three times within sixty lines. See [[message-repeated]].
-
-## A lying dream
-
-The promise is false, and so is the reason given for it. The gods are not of one mind, and Zeus is planning the opposite of what the Dream announces. The narrator says so at once: Agamemnon was left “pondering in his heart things that were not to be fulfilled”, and the poet calls him νήπιος (“fool”) for believing it (2.36–40; see [[nepios]]).
-
-The characters come close to the truth without knowing it. Nestor says that if anyone but the commander had told this dream, “we would call it a lie” (ψεῦδος, 2.81; see [[pseudos]]). In the test that follows, Agamemnon tells the army that Zeus has devised “an evil deceit” against him (κακὴν ἀπάτην, 2.114; see [[apate]]). He means the pretended order to go home. The deceit he really suffers is the Dream. See [[agamemnons-dream]].
+{{notes}}
 
 ## Dreams in Homer
 
-Dreams come from outside the sleeper, and they can come from Zeus (1.63; see [[a-dream-comes-from-zeus]]). A god who sends one gives it the form of someone the sleeper knows. Athena sends Penelope a phantom in the likeness of her sister Iphthime (Odyssey 4.795–841) and visits Nausicaa as a friend of hers (Odyssey 6.20–23). The ghost of Patroclus stands above Achilles' head as he sleeps (Iliad 23.65–107; see [[the-ghost-of-patroclus]]). Penelope knows that some dreams deceive: the true ones come through the gate of horn, the false through the gate of ivory (Odyssey 19.562–567). Hermes leads the suitors' souls past “the people of dreams” on the road to Hades (Odyssey 24.12).
+Dreams come from outside the sleeper, and they can come from Zeus (1.63; see [[a-dream-comes-from-zeus]]). A god who sends one gives it the form of someone the sleeper knows. Athena sends Penelope a phantom in the likeness of her sister Iphthime (*Odyssey* 4.795–841) and visits Nausicaa as a friend of hers (*Odyssey* 6.20–23). The ghost of Patroclus stands above Achilles' head as he sleeps (Iliad 23.65–107; see [[the-ghost-of-patroclus]]). Penelope knows that some dreams deceive: the true ones come through the gate of horn, the false through the gate of ivory (Odyssey 19.562–567). Hermes leads the suitors' souls past “the people of dreams” on the road to Hades (Odyssey 24.12).
 
 ## Outside Homer
 

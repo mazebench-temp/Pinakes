@@ -1,0 +1,10 @@
+---
+summary: Menelaus answers Telemachus' wonder at his house: “no mortal could rival Zeus; / for his house and his possessions are immortal” (4.78–79). On Pharos he says that “the gods know all things” (4.379) and that “a god is hard for a mortal man to overpower” (4.397), and learns that he himself will not die but be sent to the Elysian plain, “where life is easiest for men” (4.561–569). The phantom speaks for “the gods who live at ease” (4.805).
+refs: [4.78-81, 4.561-569, 4.805]
+---
+
+**Immortal possessions.** Telemachus whispers that the house must be like the court of Olympian Zeus (4.74; see [[sebas]]), and Menelaus corrects him: “no mortal could rival Zeus; / for his house and his possessions are immortal; / but among men there may be one who will rival me, or there may be none, / in possessions” (4.78–81; see [[eris]] and [[olbos]]).
+
+**What gods can do.** Helen's maxim gives Zeus the giving of good and evil, “for he can do all things” (4.237; see [[zeus-gives-good-and-evil]]), and Menelaus appeals to Eidothea and to Proteus, “for the gods know all things” (4.379, 4.468; see [[the-gods-know-all-things]]), and explains why the goddess must devise the ambush: “a god is hard for a mortal man to overpower” (4.397; see [[a-god-is-hard-for-a-mortal-to-overpower]]). The god is overpowered all the same, by a goddess's trick and the strength of four men (4.435–461; see [[proteus]]). Mortals are measured by likeness to the gods: Helen comes from her chamber like Artemis (4.122), and Menelaus goes out “like a god to look upon” (4.310; see [[like-a-god-to-look-upon]]).
+
+**Not to die.** Proteus tells Menelaus that he is not to die in Argos: the immortals will send him to the Elysian plain at the limits of the earth, where there is no snow, nor severe winter, nor ever rain, “because you have Helen as your wife, and in their eyes you are the son-in-law of Zeus” (4.561–569; see [[elysium]], [[thanatos]] and [[in-laws]]). In Ithaca the phantom tells Penelope that “The gods who live at ease” do not let her weep (4.805; see [[who-live-at-ease]] and [[eidolon]]).

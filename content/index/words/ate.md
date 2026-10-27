@@ -3,7 +3,7 @@ title: Blind folly
 greek: ἄτη
 kind: term
 tags: [mind, divine-will]
-summary: A blindness of mind, sent by the gods, that leads a man to ruin, and the ruin itself; in person, Blind Folly, the eldest daughter of [[Zeus]]. [[Agamemnon]] at last blames it for his quarrel with [[Achilles]].
+summary: A blindness of mind, sent by the gods, that leads a man to ruin, and the ruin itself; in person, Blind Folly, the eldest daughter of [[Zeus]]. [[Agamemnon]] blames it for his quarrel with [[Achilles]], and [[Helen]] for her flight to Troy.
 aliases: [atē, ate, delusion, infatuation, aaō]
 grc: [ἄτην]
 en: [blind folly]

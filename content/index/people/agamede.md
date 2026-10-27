@@ -14,7 +14,7 @@ relations:
 
 {{quote:221562df-b624-5495-b4ca-d17cd76c5464}}
 
-Nestor names her in passing, as the wife of Mulius, the first man he killed in the battle: “fair-haired Agamede, / who knew all the drugs that the wide earth nourishes” (11.740–741; see [[mulius]], [[augeas]] and [[fair-haired]]). She takes no part in the story. In the Iliad φάρμακα, “drugs”, are mostly for healing, as Machaon's are (4.218–219, 11.515; see [[healing]]); in the Odyssey they can also kill, and Egypt, where the earth bears the most of them, “many good when mixed, and many baneful”, gave Helen hers (*Odyssey* 4.229–230). Her name seems to join ἀγα-, “very”, with μήδεα, “counsels, cunning”; Hecamede's has the same ending (see [[hecamede]]).
+Nestor names her in passing, as the wife of Mulius, the first man he killed in the battle: “fair-haired Agamede, / who knew all the drugs that the wide earth nourishes” (11.740–741; see [[mulius]], [[augeas]] and [[fair-haired]]). She takes no part in the story. In the Iliad φάρμακα, “drugs”, are mostly for healing, as Machaon's are (4.218–219, 11.515; see [[healing]]); in the Odyssey they can also kill, and Egypt, where the earth bears the most of them, “drugs, many good and many grim, growing intermixed”, gave Helen hers (*Odyssey* 4.229–230). Her name seems to join ἀγα-, “very”, with μήδεα, “counsels, cunning”; Hecamede's has the same ending (see [[hecamede]]).
 
 ## Outside Homer
 

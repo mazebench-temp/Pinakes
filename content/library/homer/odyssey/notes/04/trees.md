@@ -1,0 +1,7 @@
+---
+summary: Proteus, held fast on the shore of Pharos, turns last of all into flowing water and “a tree with high foliage” (4.458); and Penelope's old slave Dolius keeps her “garden of many trees” (4.737).
+---
+
+**The last shape.** After the four beasts, the lion, the serpent, the leopard and the boar, Proteus “became flowing water, and a tree with high foliage” (4.458; see [[proteus]] and [[shape-changing]]). Merry renders “And he became running water, and [next] a lofty tree in full leaf”, and notes that ὑψιπέτηλος expresses by a compound what is only a simple attribute of the tree (*Commentary on the Odyssey*, 1886, on 4.458; see [[with-high-foliage]]). δένδρεον ὑψιπέτηλον is the phrase of the Iliad's likeness of a man standing still as a pillar or a tree (*Iliad* 13.437) and of the trees over Tantalus (11.588). The tree is the last of the changes, and it is followed by the old man's weariness and his questions (4.459–463).
+
+**A garden of many trees.** In her grief Penelope would send for old Dolius, “my slave, whom my father gave me when I came here, / and who keeps my garden of many trees”, to go to Laertes (4.735–738; see [[dolius]], [[penelope]] and [[laertes]]). κῆπος is a garden, as in the Iliad (*Iliad* 8.306), and the translation keeps “orchard” for ἀλωή (see its key-word row); πολυδένδρεος, “of many trees”, comes again only of Laertes' farm, where Odysseus will find his father (23.139, 23.359).

@@ -1,0 +1,11 @@
+---
+summary: At Sparta a herald leads the strangers out to their beds under the colonnade (4.301). In Ithaca the herald Medon, who serves the suitors, hears their plot from the courtyard and tells Penelope that they mean to kill Telemachus on his way home; she meets him with the question whether the suitors have sent him to order another feast, and when he has told her she asks him why her son has gone (4.675–714).
+---
+
+**At Sparta.** When the beds have been spread under the colonnade, “a herald led the strangers out” to sleep in the porch (4.301; see [[bed]] and [[house]]). In the Iliad's verses that the scene repeats, it was Priam and his herald who slept in the porch of Achilles' hut (*Iliad* 24.673; see [[feast-type-scene]]).
+
+**Medon.** In Ithaca the herald is the one who knows: Penelope was not long without hearing of the suitors' plans, “for the herald Medon told her, who heard their counsels / as he stood outside the courtyard, while they inside were weaving their plan” (4.677–678; see [[medon-the-herald]] and [[house]]). W. W. Merry notes that Medon waits on the suitors and is in favor with them in later books, yet tells Penelope of the danger and is spared at the slaughter (16.252, 17.172, 22.357); he finds no inconsistency, if Medon kept up his intimacy with the suitors in order to learn their designs against his master's family (*Commentary on the Odyssey*, 1886, on 4.677). Penelope meets him at the threshold with a herald's errand in mind:
+
+{{quote:715392b6-ea4e-5c2c-b14b-d2a0e0df14a6}}
+
+The heralds of the house serve the suitors' feast, mixing the wine, pouring water over their hands and bringing the lyre (1.109–110, 1.143, 1.146, 1.153; see [[feast-type-scene]]). Merry takes the change from the third person to the second, “you who gather here”, to mean that Penelope includes Medon, the suitors' favorite herald, in her charge (on 4.686). Medon, “who had wise understanding” (4.696, 4.711), answers that the suitors are plotting something far worse, to kill Telemachus as he comes home from Pylos and Lacedaemon (4.697–702), and when she asks, “Herald, why has my child gone?”, he does not know whether a god roused him or his own heart (4.707–714; see [[telemachus]] and [[the-journey-of-telemachus]]).

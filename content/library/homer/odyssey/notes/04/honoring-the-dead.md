@@ -1,0 +1,10 @@
+---
+summary: Peisistratus grants the dead their due: “This is the only prize for miserable mortals, / to cut one's hair and let a tear fall from one's cheeks” (4.197–198). Proteus tells Menelaus that he may come home in time for Aegisthus' funeral feast (4.547), and Menelaus heaps a tomb for his brother in Egypt, “so that his fame might be unquenchable” (4.584).
+refs: [4.195-198, 4.547, 4.584]
+---
+
+**Hair and tears.** Peisistratus would stop the weeping until morning, but he is not indignant at weeping for any mortal who dies and meets his fate, and names the rite the living can give, shorn hair and tears, as the dead man's only prize (4.193–198; see [[the-only-prize-of-miserable-mortals]], [[geras]] and [[tears]]). Achilles cut his hair for Patroclus in the same words, κείρασθαί τε κόμην (*Iliad* 23.46), and at Achilles' own funeral the Danaans wept and cut their hair (24.45–46).
+
+**A funeral feast.** Proteus gives Menelaus two possibilities: either he will find Aegisthus alive, or Orestes will have killed him first, “and you may come in time for the funeral feast” (4.546–547). τάφος is the feast Orestes gave the Argives over his mother and Aegisthus in Book 3, when Menelaus came home the same day (3.309–312; see [[orestes-kills-clytemnestra]] and [[feast]]).
+
+**A tomb in Egypt.** Agamemnon was killed at the feast with all his companions (4.529–537), and his brother, who could not bury him, raises a mound for him far from Argos when he has made peace with the gods at the river Aegyptus: “I heaped up a tomb for Agamemnon, so that his fame might be unquenchable” (4.583–584; see [[tomb]], [[kleos]] and [[the-murder-of-agamemnon]]). A scholium calls it a cenotaph, with a stone inscribed with his name and the manner of his death; Merry answers that this was not the age for inscriptions, a simple mound sufficing, and takes such mounds as the memorials that kept a tradition alive where there was no written record (*Commentary on the Odyssey*, 1886, on 4.584; see [[fame-and-the-tomb]]).

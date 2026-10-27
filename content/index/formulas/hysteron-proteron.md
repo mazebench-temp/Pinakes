@@ -3,7 +3,7 @@ title: Hysteron proteron
 greek: ὕστερον πρότερον
 kind: formula
 tags: [figure]
-summary: The figure of putting the later event first. Nestor's contemporaries were “raised and born” with him (1.251).
+summary: The figure of putting the later event first, as in the half-verse τράφεν ἠδʼ ἐγένοντο, “were raised and born”, said of Nestor's contemporaries in the Iliad and of Penelope's in the Odyssey.
 aliases: [the later first]
 grc: [τράφεν ἠδʼ ἐγένοντο]
 en: [born and raised]

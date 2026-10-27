@@ -3,7 +3,7 @@ title: Phantom
 greek: εἴδωλον
 kind: term
 tags: [divine-will, fate]
-summary: An image or phantom, a likeness of a person with no one inside it. In the Iliad Apollo makes one of Aeneas for the armies to fight over; in Homer's underworld the dead themselves are εἴδωλα, images of men who have worn out their lives.
+summary: An image or phantom, a likeness of a person with no one inside it. Gods make them, as Apollo makes one of Aeneas for the armies to fight over and Athena one of Penelope's sister to comfort her in a dream; in Homer's underworld the dead themselves are εἴδωλα, images of men who have worn out their lives.
 aliases: [eidōlon, eidolon, phantom, image, double, shade]
 grc: [εἰδωλ*]
 en: [phantom]
@@ -21,7 +21,7 @@ passages:
 
 The phantom is like Aeneas and armed like him, and the two armies fight around it as they fight around a fallen man. The real Aeneas comes back healed a few scenes later, and his companions rejoice to see him alive and unhurt, but ask him nothing (5.512–516). The phantom is not mentioned again. See [[the-phantom-of-aeneas]], [[aeneas]] and [[apollo]].
 
-The Odyssey has one more phantom made by a god. Athena makes an εἴδωλον like Penelope's sister Iphthime and sends it to Penelope in her sleep to comfort her (*Odyssey* 4.795–841). When Penelope asks it whether Odysseus is alive, it will not say, since “it is a bad thing to talk empty words” (*Odyssey* 4.836–837; see [[anemolios]]).
+The Odyssey has one more phantom made by a god. Athena makes an εἴδωλον like Penelope's sister Iphthime and sends it to Penelope in her sleep to comfort her (*Odyssey* 4.795–841). When Penelope asks it whether Odysseus is alive, it will not say, since “it is a bad thing to speak empty wind” (*Odyssey* 4.836–837; see [[anemolios]]).
 
 **The dead.** In Hades the dead are εἴδωλα. The ψυχή of Patroclus comes to Achilles in his sleep, like him in everything, in stature, eyes and voice, and tells him that “The souls keep me far away, the phantoms of the dead” (ψυχαὶ εἴδωλα καμόντων, 23.65–72). When Achilles reaches for it, it goes under the earth like smoke, and he cries out that there is in the house of Hades “soul and phantom, but there is no mind in it at all” (ψυχὴ καὶ εἴδωλον, 23.99–104; see [[psyche]]). In the Odyssey the dead are “phantoms of mortals who have worn out” (βροτῶν εἴδωλα καμόντων, *Odyssey* 11.476; ψυχαί, εἴδωλα καμόντων, *Odyssey* 24.14). Three times Odysseus tries to embrace his mother, and three times she flies from his hands “like a shadow or a dream”; he asks whether Persephone has sent him a phantom (*Odyssey* 11.204–214). Heracles is divided: Odysseus sees his εἴδωλον in Hades, “but he himself is among the immortal gods”, married to Hebe (*Odyssey* 11.601–604). In the seer Theoclymenus' vision of the suitors' death the porch and the courtyard are full of phantoms going down into the dark (*Odyssey* 20.355–357).
 

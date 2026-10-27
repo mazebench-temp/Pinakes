@@ -5,6 +5,9 @@ kind: person
 tags: [demigod, child-of-zeus, crete, justice]
 summary: Rhadamanthus, son of Zeus and brother of Minos, famed for his justice, who after death judges the dead or dwells in the Elysian plain.
 aliases: [Rhadamanthys]
+# Ῥαδάμανθυς (Od. 4.564) is Rhadamanthys wherever it occurs; it also catches Rhetoric 1413b26, which the Rhetoric
+# note claims as well. Ῥαδάμανθυν is claimed within the Iliad by its Book 14 note (14.322); Od. 7.323 will need it.
+grc: [Ῥαδάμανθυς]
 relations:
   - father: zeus (14.321-322)
   - mother: europa (14.321-322)
@@ -13,7 +16,7 @@ relations:
 
 ## In Homer
 
-In the Iliad Zeus names him among the sons of his loves, with his brother Minos: the daughter of far-famed Phoenix “bore me Minos and godlike Rhadamanthys” (14.321–322; see [[minos]], [[europa]] and [[the-loves-of-zeus]]). The Odyssey twice calls him ξανθὸς Ῥαδάμανθυς, “fair-haired Rhadamanthys” (see [[fair-haired]]). Proteus tells Menelaus that he will not die in Argos: the immortals will send him to the Elysian plain at the ends of the earth, where fair-haired Rhadamanthys is and life is easiest for men, with no snow, no great storm and no rain, but the shrill breezes of the West Wind that Oceanus always sends up to cool them (*Odyssey* 4.561–569). Alcinous tells Odysseus that the Phaeacians once carried Rhadamanthys to Euboea, the farthest of lands, to see Tityos, the son of Earth, and came home the same day without toil (*Odyssey* 7.321–326).
+In the Iliad Zeus names him among the sons of his loves, with his brother Minos: the daughter of far-famed Phoenix “bore me Minos and godlike Rhadamanthys” (14.321–322; see [[minos]], [[europa]] and [[the-loves-of-zeus]]). The Odyssey twice calls him ξανθὸς Ῥαδάμανθυς, “fair-haired Rhadamanthys” (see [[fair-haired]]). Proteus tells Menelaus that he will not die in Argos: the immortals will send him to the Elysian plain at the limits of the earth, where fair-haired Rhadamanthys is and life is easiest for men, with no snow, no severe winter and no rain, but always the breezes of the West Wind, blowing shrill, which Oceanus sends up to refresh men (*Odyssey* 4.561–569; see [[elysium]]). Alcinous tells Odysseus that the Phaeacians once carried Rhadamanthys to Euboea, the farthest of lands, to see Tityos, the son of Earth, and came home the same day without toil (*Odyssey* 7.321–326).
 
 {{notes}}
 

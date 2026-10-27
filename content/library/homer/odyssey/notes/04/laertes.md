@@ -1,0 +1,10 @@
+---
+summary: Laertes is named three times: Menelaus thinks of him mourning his son, “the old man Laertes”; Proteus calls Odysseus “the son of Laertes”; and Penelope, hearing of the plot against Telemachus, would send old Dolius to tell him, but Eurycleia bids her not afflict an afflicted old man, “the son of Arceisius” (4.111, 4.555, 4.735–757).
+# Λαέρτης (4.111), Λαέρτεω (4.555), Λαέρτῃ (4.738), and his patronymic Ἀρκεισιάδαο (4.755) are claimed by the entry.
+# Unnamed: the hope that he may come out and mourn before the people (4.739-740), and "an afflicted old man" (4.754).
+refs: [4.739-740, 4.754]
+---
+
+**Mourning.** Menelaus does not know whether Odysseus is alive or dead, but “surely they mourn for him, / the old man Laertes and sensible Penelope / and Telemachus” (4.110–112; see [[odysseus]] and [[menelaus]]). Proteus names Odysseus by his father, “It is the son of Laertes, who has his home in Ithaca” (4.555; see [[son-of-laertes]] and [[the-returns-of-the-achaeans]]).
+
+**The errand not sent.** When Penelope hears from Medon that the suitors mean to kill her son, she asks that someone call Dolius, her old slave, to sit beside Laertes and tell him everything, “in the hope that he may perhaps weave some plan in his mind / and come out and mourn before the people, who are eager / to destroy his offspring, the offspring of godlike Odysseus” (4.735–741; see [[dolius]] and [[penelope]]). Merry supposes the people here to be on the suitors' side, and reports a scholium that took the plan to be that the old man would weep among the suitors, so that in pity they would spare Telemachus, an explanation Nitzsch condemns (Merry, *Commentary on the Odyssey*, 1886, on 4.739). Eurycleia stops her: “And do not afflict an afflicted old man; for I do not think / that to the blessed gods the offspring of the son of Arceisius / is altogether hateful” (4.754–756; see [[eurycleia]] and [[arceisius]]). κάκου, the imperative of κακόω, beside κεκακωμένον is a play of sound, as πέμπτῳ πέμπε (5.263; Merry on 4.754). The old man lives on his farm, apart from the town (1.189–193), and the news never reaches him in this book.

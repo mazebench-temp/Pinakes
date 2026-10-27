@@ -2,7 +2,7 @@
 title: Gods and mortals
 kind: theme
 tags: [divine-scene, divine-will]
-summary: What divides the gods, who live forever, from mortal men, and what binds them together. The Iliad sets the ease of the Olympians, who quarrel “for the sake of mortals” and then feast and laugh, beside the suffering they cause and watch.
+summary: What divides the gods, who live forever, from mortal men, and what binds them together. The Iliad sets the ease of the Olympians, who quarrel “for the sake of mortals” and then feast and laugh, beside the suffering they cause and watch; in the Odyssey the gods “who live at ease” test and help men, and Menelaus, as Zeus' son-in-law, is promised the Elysian plain instead of death.
 refs: [1.250, 1.272, 1.290, 1.339, 1.403, 1.404, 1.406, 1.423, 1.424, 1.494, 1.554, 1.574, 1.599]
 passages:
   - 1.423-427 | The gods among the Ethiopians

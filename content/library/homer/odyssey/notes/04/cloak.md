@@ -1,0 +1,9 @@
+---
+summary: After their bath the slave women put woolly cloaks and tunics on the strangers (4.50), and at night woolly cloaks are laid on top of their beds (4.299). Telemachus, hearing Menelaus speak of his father, weeps behind his purple cloak, and Menelaus, telling Helen of it, takes it for a sign of the son (4.113–116, 4.153–154).
+# χλαίνας (4.50, 4.299), first met here in the Odyssey.
+grc: [χλαίνας]
+---
+
+**Woolly cloaks.** The guests come from the bath clothed in “woolly cloaks and tunics” (4.50; see [[bathing]] and [[woolly]]). W. W. Merry notes that the cloak is named first, though the tunic is put on before it, because the outer garment is the one that catches the eye, and describes the χλαῖνα as a piece of cloth, square or rounded at the corners, passed over the left and under the right arm, the end that hung behind being thrown over the left shoulder and fastened there with a brooch or pin (*Commentary on the Odyssey*, 1886, on 4.50). At night the same cloaks serve as counterpanes: Helen has woolly cloaks laid on top of the guests' beds “for them to wear” (4.299; see [[blankets]] and [[bed]]).
+
+**The purple cloak.** When Menelaus speaks of Odysseus, Telemachus “let a tear fall from his eyelids to the ground when he heard of his father, / holding up his purple cloak before his eyes / with both his hands” (4.114–116; see [[telemachus]], [[tears]] and [[purple]]). Menelaus notices it and ponders whether to let him speak of his father first (4.116–119), and when Helen sees the likeness to Odysseus, he adds the tears and the cloak to the evidence: he had just been speaking of Odysseus, “and he let a bitter tear fall from beneath his brows, / holding up his purple cloak before his eyes” (4.151–154; see [[menelaus]] and [[helen]]). The father will hide his tears in the same way among the Phaeacians, drawing his great purple mantle over his head as Demodocus sings of Troy (8.83–86, a plain rendering; see [[odysseus-weeps-at-the-feast]]).

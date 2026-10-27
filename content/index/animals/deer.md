@@ -5,8 +5,9 @@ kind: animal
 tags: [wild-animal, insult]
 summary: The deer, ἔλαφος: the swift and timid stag, hind and fawn of the mountains, the quarry of hunters, and in the similes the prey of lions, wolves and dogs. In abuse it is the emblem of cowardice.
 aliases: [stag, hind, fawn]
-grc: [ἐλάφοιο]
-en: [deer]
+# ἔλαφος and νεβρούς as Od. 4.335-336 (νεβρούς also catches the youths led out "like fawns", Il. 21.29).
+grc: [ἐλάφοιο, ἔλαφος, νεβρούς]
+en: [deer, hind, fawns]
 ---
 
 ἔλαφος is the deer, stag or hind; the fawn is νεβρός. In Homer the deer is the animal that runs away: “swift” (ταχεῖα, 11.113) and quick to take fright, it lives in the mountains and the thickets, where hunters and their dogs pursue it. The goddess Artemis delights in boars and swift deer (Odyssey 6.102–104), and Odysseus kills a great antlered stag on Circe's island and carries it back to his starving men (Odyssey 10.156–184).

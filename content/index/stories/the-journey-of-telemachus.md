@@ -7,7 +7,7 @@ mode: narrated
 tags: [seafaring, kinship, divine-will]
 summary: Sent by Athena to learn of his father's homecoming, Telemachus sails secretly from Ithaca with the goddess in the likeness of Mentor, visits Nestor at Pylos and Menelaus and Helen at Sparta, and learns that Odysseus is alive on Calypso's island; the suitors lie in wait to kill him on his return, but he comes home by night and finds his father in the swineherd's hut. Modern readers call the books that tell it the Telemachy.
 aliases: [the Telemachy, Telemachy, Telemachus' voyage, Telemachus at Pylos and Sparta]
-participants: [telemachus, athena, eurycleia, nestor, peisistratus, menelaus, helen]
+participants: [telemachus, athena, eurycleia, nestor, peisistratus, menelaus, helen, noemon-son-of-phronius, antinous, the-suitors]
 ---
 
 ## The story

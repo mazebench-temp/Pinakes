@@ -6,7 +6,7 @@ summary: Roman poet (70–19 BCE), author of the Eclogues, the Georgics and the 
 aliases: [Vergil]
 ---
 
-The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero after the fall of Troy; the second half follows the Iliad, a war fought on the plain before a city. Virgil left it unfinished at his death. His borrowings from Iliad 2 include:
+The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero after the fall of Troy; the second half follows the Iliad, a war fought on the plain before a city. Virgil left it unfinished at his death. His borrowings from Homer include:
 
 - the poet's ten tongues, multiplied to a hundred: [[ten-tongues-in-virgil]];
 - the catalogue of forces, with its invocation of the Muses: [[virgil-catalogue-of-italians]];
@@ -20,4 +20,5 @@ The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero aft
 - Juno's promise of a nymph to Aeolus for a storm, after Hera's promise of a Grace to Sleep: [[virgil-juno-and-aeolus]];
 - Jupiter, who could not save his son Sarpedon, consoling Hercules for Pallas: [[jupiter-and-sarpedon]];
 - Aethon, the war-horse that weeps in Pallas' funeral procession, as the horses of Achilles weep for Patroclus: [[virgils-weeping-horse]];
-- Venus asking Vulcan for arms for her son, as Thetis asked Hephaestus, and the shield of Aeneas with the history of Rome: [[virgil-shield-of-aeneas]].
+- Venus asking Vulcan for arms for her son, as Thetis asked Hephaestus, and the shield of Aeneas with the history of Rome: [[virgil-shield-of-aeneas]];
+- in the fourth book of the *Georgics*, the capture of Proteus among his seals, retold for the shepherd Aristaeus and his lost bees: [[virgils-proteus]].

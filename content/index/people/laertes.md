@@ -5,8 +5,10 @@ kind: person
 tags: [king, ionian-islands]
 summary: Father of [[Odysseus]], named in the Iliad only in his son's patronymic, “son of Laertes”. The Odyssey shows him old and grieving on his farm on Ithaca, and fighting beside his son at the end.
 # Λαέρτ* catches only Laertes and his son's patronymic, in both poems: Λαερτιάδη(ς) in the Iliad, Λαέρτην and
-# Λαέρτης in Odyssey 1 (1.189, 1.430), and the other cases (Λαέρτῃ, Λαέρταο, Λαέρτεω) in later books.
-grc: [Λαέρτ*]
+# Λαέρτης in Odyssey 1 (1.189, 1.430), and the other cases (Λαέρτῃ, Λαέρταο, Λαέρτεω) in later books. His own
+# patronymic Ἀρκεισιάδ* (Ἀρκεισιάδαο Od. 4.755; Ἀρκεισιάδην, Ἀρκεισιάδη 24.270, 24.517) counts for him as well as
+# for his father (arceisius).
+grc: [Λαέρτ*, "Ἀρκεισιάδ*"]
 relations:
   - child: odysseus (2.173)
 ---

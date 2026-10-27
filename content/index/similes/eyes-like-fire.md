@@ -3,7 +3,7 @@ title: Eyes like fire
 greek: ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐΐκτην
 kind: simile
 tags: [anger, body]
-summary: Eyes that blaze like fire, the look of fury. Agamemnon's eyes are “like blazing fire” when he rises to answer Calchas (1.104), Hector's “blazed with fire” as he leaps through the broken gate of the Achaean wall (12.466), a boar's blaze as it stands at bay (13.474), and Achilles' shine “like a blaze” when he sees the armor that Hephaestus made and “like the blaze of fire” when he puts it on (19.16–17, 19.365–366).
+summary: Eyes that blaze like fire, the look of fury: in the same two verses of Agamemnon rising to answer Calchas in the Iliad and of Antinous hearing that Telemachus has sailed in the Odyssey, and of Hector at the Achaean wall, of a boar at bay, and of Achilles when he sees and puts on his new armor.
 aliases: [his eyes were like blazing fire]
 grc: [πυρὶ λαμπετόωντι ἐΐκτην]
 en: [like blazing fire]
@@ -22,6 +22,6 @@ Calchas has just named Agamemnon as the cause of the plague. The king rises “i
 
 When Athena appears to Achilles, “her eyes blazed terribly” ({{ref:Iliad 1.200}}). The Greek does not say whose eyes; some readers take them to be Achilles', on the model of this line ([[whose-eyes-blaze]]).
 
-## Outside Book 1
+## Elsewhere in Homer
 
-The same lines, from “in distress” to the blazing eyes, describe Antinous, the leader of the suitors, when he learns that Telemachus has sailed (Odyssey 4.661–662). When Achilles arms at last to avenge Patroclus, his eyes “shone like the blaze of fire” (Iliad 19.365–366).
+The same lines, from “in distress” to the blazing eyes, describe Antinous, the leader of the suitors, when he learns that Telemachus has sailed (*Odyssey* 4.661–662). Hector's eyes “blazed with fire” as he leaps through the broken gate of the Achaean wall (12.466), and a boar's eyes blaze as it stands at bay (13.474). When Achilles first sees the armor that Hephaestus made, his eyes shine “like a blaze” (19.16–17), and when he arms at last to avenge Patroclus, his eyes “shone like the blaze of fire” (Iliad 19.365–366).

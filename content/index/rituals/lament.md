@@ -21,7 +21,7 @@ A lament speaks to the dead, and in the speaking the mourner speaks of herself. 
 
 ## Elsewhere in Homer
 
-At Achilles' funeral, in the Odyssey, the daughters of the old man of the sea stand around the body wailing, and the nine Muses sing the dirge, answering one another, so that no Argive could be seen without tears (Od. 24.58–62).
+At Achilles' funeral, in the Odyssey, the daughters of the old man of the sea stand around the body wailing, and the nine Muses sing the dirge, answering one another, so that no Argive could be seen without tears (*Odyssey* 24.58–62).
 
 ## Outside Homer
 

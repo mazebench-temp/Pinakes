@@ -8,8 +8,9 @@ aliases: [ship, black ship, swift ships, hollow ships, fleet]
 # !=νέων keeps out νέων "of young men" (νέος, 11.503). νῆες (Od. 2.292, 2.390) also catches the Iliad's νῆες, which
 # the Book 2 note claims as well; νέαι "new" (Od. 2.293) is the adjective and is not caught. νήεσσι (Od. 3.131) and
 # νέες (Od. 3.312), always ships (the adjective's plural is νέοι, νέαι), also catch 18 and 9 Iliad lines, which the
-# Book 2 note claims as well.
-grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, νῆες, νήεσσι, νέες, "!=νέων"]
+# Book 2 note claims as well. νηῶν (Od. 4.361, 4.708), always ships, also catches 68 Iliad lines, which the Book 2
+# note claims as well.
+grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, νῆες, νήεσσι, νέες, νηῶν, "!=νέων"]
 en: [ships, ship]
 passages:
   - 1.308-312 | The ship sails for Chryse

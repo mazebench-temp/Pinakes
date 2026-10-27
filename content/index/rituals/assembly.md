@@ -16,7 +16,7 @@ grc: [ἀγορ*, ἤγερθεν ὁμηγερέες]
 # ἀγόρευον at 24.142 and ἀγορεύεις at 24.373 are speaking.
 # ἀγορεύω at Od. 1.174, 1.179, 1.214, 1.307, 1.382 and 1.385 is "speak, tell", not an assembly.
 # ἀγορεύω (Od. 3.82) and ἀγορεύσω (Od. 3.254) are "speak of" and "tell", in Nestor's company at Pylos.
-except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20, Od. 1.174, Od. 1.179, Od. 1.214, Od. 1.307, Od. 1.382, Od. 1.385, Od. 3.82, Od. 3.254]
+except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20, Od. 1.174, Od. 1.179, Od. 1.214, Od. 1.307, Od. 1.382, Od. 1.385, Od. 3.82, Od. 3.254, Od. 4.76, Od. 4.157, Od. 4.189, Od. 4.383, Od. 4.399, Od. 4.611, Od. 4.620, Od. 4.645, Od. 4.773, Od. 4.836]
 refs: [1.191]
 en: [assembly, assembled, orator, declare, declared, began to speak]
 passages:

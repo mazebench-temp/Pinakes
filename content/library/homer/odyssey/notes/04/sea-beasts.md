@@ -1,0 +1,7 @@
+---
+summary: In Menelaus' tale the seals of Proteus are κήτεα, “beasts” of the sea. No one would lie down to sleep beside one, ambrosia kills the smell of the beast, and the old man counts the hidden men first among his beasts (4.443–452).
+---
+
+**The seals as beasts.** The word comes three times in the ambush on Pharos, each time of the seals (see [[seals]]). Lying under the fresh skins, the men can hardly bear the stench: “for who would lie down to sleep beside a beast of the sea?” (εἰναλίῳ παρὰ κήτεϊ, 4.443). Eidothea's ambrosia “killed the smell of the beast” (κήτεος ὀδμήν, 4.446; see [[ambrosia]]), and the old man, counting his flock, “among the beasts he counted us first” (4.452; see [[proteus]]). The singular of 4.443 and 4.446 is the kind, not one seal. In the last verse Merry takes ἐν as an adverb, “among them”, with κήτεσιν added to explain it, not as a preposition governing the noun (*Commentary on the Odyssey*, 1886, on 4.452). The translation keeps “beast” for κῆτος in these verses (see its key-word row for νέποδες, φώκη, κῆτος).
+
+**The god's herd.** In the Iliad the κήτεα come up from their lairs and frolic beneath Poseidon's chariot as he drives over the waves, knowing their lord (*Iliad* 13.27–28). Here the beasts of the sea are the flock of Poseidon's servant, Ποσειδάωνος ὑποδμώς (4.386), who comes up out of the sea at midday to sleep among them, and counts them like a herdsman (4.400–413; see [[poseidon]]).

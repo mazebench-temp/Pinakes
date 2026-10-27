@@ -7,6 +7,8 @@ summary: The town of [[Diocles]], whose twin sons Aeneas kills at Troy; in the O
 aliases: [Messenian Pherae, Pharae, Pherai]
 grc: [Φηρῇ]
 en: [Pherae]
+# Od. 4.798 is Eumelus' Pherae in Thessaly (pherae)
+except: [Od. 4.798]
 ---
 
 “Whose father lived in well-built Pherae, wealthy in substance” (5.543–544): ἐϋκτιμένῃ ἐνὶ Φηρῇ, with a standing epithet of towns (see [[well-built]]). The Iliad here has the singular, Φηρή; elsewhere Homer uses the plural, Φηραί. It is not the Thessalian Pherae of Admetus and Eumelus (Φεραί, 2.711; see [[pherae]]).
