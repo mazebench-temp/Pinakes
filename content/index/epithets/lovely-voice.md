@@ -3,7 +3,7 @@ title: Lovely voice
 greek: ὀπὶ καλῇ
 kind: epithet
 tags: [divine-epithet, music]
-summary: The singing of the [[Muses]] at the gods' feast (1.604): they answer one another “with lovely voice.”
+summary: “With lovely voice,” ὀπὶ καλῇ, a half-verse for the singing of goddesses: the Muses at the feast of the gods in the Iliad and at the funeral of Achilles in the Odyssey, and Calypso and Circe at their looms.
 aliases: [opi kale, beautiful voice]
 grc: [ὀπὶ καλῇ]
 en: [lovely voices]

@@ -1,0 +1,22 @@
+---
+title: Immortality
+greek: ἀθάνατος
+kind: theme
+tags: [fate, divine-will]
+summary: What the gods have and men do not, and the few mortals to whom the gods give it or offer it. In Homer Ganymede is taken up to live among the immortals, Ino becomes a goddess of the sea, and Menelaus is promised the Elysian plain instead of death; Calypso offers to make Odysseus immortal and ageless, and he chooses to go home.
+aliases: [deathlessness, made immortal, the offer of immortality, athanatos, apotheosis]
+---
+
+## In Homer
+
+The gods are ἀθάνατοι, “immortals”, and men are θνητοί, “mortals” (see [[immortals]] and [[gods-and-mortals]]). The Iliad gives the difference a cause in food and blood: the gods do not eat bread or drink wine, “and so they are bloodless, and are called immortals” (5.341–342; see [[ichor]], [[ambrosia]] and [[nectar]]). Not dying is not enough. The immortal horses of Achilles are “ageless and immortal” (17.443–444), and a god who would give a mortal what the gods have must give both (see [[immortal-and-ageless]]).
+
+**Given.** A few mortals are taken up. The gods snatched up Ganymede, “the most beautiful of mortal men”, to pour wine for Zeus, “so that he might dwell among the immortals” (20.232–235; see [[ganymede]]), and Dawn snatched up Cleitus, son of Mantius, in the same words (*Odyssey* 15.250–251). Ino, the daughter of Cadmus, “was once a mortal with human voice, / but now in the open sea has a share of honor from the gods” (*Odyssey* 5.334–335; see [[leucothea]]). Menelaus will not die in Argos: the immortals will send him to the Elysian plain, because he has Helen to wife and is the son-in-law of Zeus (*Odyssey* 4.561–569; see [[elysium]]). Castor and Polydeuces are held alive beneath the earth and live and die on alternate days, with honor equal to the gods' (*Odyssey* 11.301–304; see [[castor]] and [[polydeuces]]), and Odysseus sees in the underworld only the phantom of Heracles, who is himself among the immortal gods with Hebe for his wife (*Odyssey* 11.601–604; see [[heracles]] and [[hebe]]); in the Iliad Achilles says that “not even mighty Heracles escaped his doom” (18.117–119).
+
+**Denied and refused.** Tithonus, Dawn's husband, is a son of Laomedon in Aeneas' genealogy (20.237) and otherwise only the one from whose bed she rises (11.1 = *Odyssey* 5.1; see [[tithonus]]); Homer does not say that he is immortal. The goddesses' other mortal lovers are killed: Calypso tells how Artemis killed Orion, whom Dawn had taken, and Zeus struck Iasion, Demeter's lover, with his thunderbolt (*Odyssey* 5.121–128; see [[dawn-and-orion]], [[demeter-and-iasion]] and [[the-jealousy-of-the-gods]]). And one man is offered immortality and refuses it. Calypso says that she meant to make Odysseus “immortal and ageless all his days” and offers it again on the last evening; he answers that he longs for home (*Odyssey* 5.135–136, 5.203–224). The offer is told twice afterwards, by Odysseus to Arete and in his tale to Penelope, each time with the words that she never persuaded the heart in his breast (*Odyssey* 7.256–258, 23.335–337; see [[calypso]] and [[odysseus]]).
+
+{{notes}}
+
+## Outside Homer
+
+The *Homeric Hymn to Aphrodite* tells both of the stories in which Dawn and Zeus take up a Trojan. Zeus snatched up Ganymede for his beauty to pour nectar for the gods, and sent Hermes to tell the boy's grieving father that his son would be “immortal and ageless, equal to the gods” (*Hymn to Aphrodite* 202–217). Dawn asked Zeus that Tithonus be immortal and live forever, but forgot to ask for youth: when his hair turned gray she kept from his bed, though she still fed him with bread and ambrosia, and when he could no longer move his limbs she laid him in a chamber and shut its doors, where his voice runs on endlessly (*Hymn to Aphrodite* 218–238). Aphrodite tells Anchises that she would not choose that he be immortal on such terms (*Hymn to Aphrodite* 239–246; see [[aphrodite-and-anchises]]). In the *Homeric Hymn to Demeter* the goddess anoints the child Demophon with ambrosia and hides him by night in the fire, and would have made him “ageless and immortal” had his mother not cried out; she swears by the water of Styx that she would have made the child “immortal and ageless all his days”, in the words of Calypso's offer (*Hymn to Demeter* 231–262). Hesiod has Zeus make Ariadne “immortal and ageless” for Dionysus, and Heracles, his labors done, live “unharmed and ageless all his days” on Olympus with Hebe (*Theogony* 947–955).

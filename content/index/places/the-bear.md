@@ -24,7 +24,7 @@ refs: [18.488, 18.489]
 
 οἴη δʼ ἄμμορός ἐστι λοετρῶν Ὠκεανοῖο, “and alone has no share in the baths of Oceanus” (18.489). The other stars set, and in setting they bathe in Oceanus, the river that runs around the earth and around the rim of the Shield (18.607–608; see [[oceanus]] and [[bathing]]); the star of late summer shines brightest “when it has bathed in Oceanus” (5.5–6; see [[the-autumn-star]]). The Bear never sets. Leaf explains οἴη, “alone”, by the fact that the other circumpolar constellations, none of them conspicuous, were later inventions of astronomy (on 18.489; see the translation's note on 18.486–489). The word was already a problem in antiquity, and Aristotle answers it in the *Poetics* (see [[alone-without-a-share]]).
 
-The same three verses name the Bear in the Odyssey, where Odysseus, sailing from Calypso's island, watches the Pleiades, Boötes, which sets late, and the Bear, which Calypso told him to keep on his left hand as he crossed the sea (*Odyssey* 5.270–277; see [[pleiades]]). With the Bear on his left hand he is sailing east.
+The same three verses name the Bear in the Odyssey, where Odysseus, sailing from Calypso's island, watches the Pleiades, Boötes, which sets late, and the Bear, which Calypso told him to keep on his left hand as he crossed the sea (*Odyssey* 5.270–277; see [[pleiades]] and [[bootes]]). With the Bear on his left hand he is sailing east.
 
 ## Outside Homer
 

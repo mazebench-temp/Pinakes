@@ -1,0 +1,7 @@
+---
+summary: Calypso gives Odysseus a great bronze axe, double-bladed, on a handle of olive wood, and with it he fells twenty trees and trims them for his raft (5.234–236, 5.244).
+---
+
+“She gave him a great axe that fitted his hands, / of bronze, sharpened on both sides; and in it / a beautiful handle of olive wood, well fitted” (5.234–236; see [[calypso]] and [[the-building-of-the-raft]]). The πέλεκυς is the axe for felling, as ἔκβαλε, “felled”, shows (5.244), and ἄρμενον ἐν παλάμῃσι, “fitted to his hands”, belongs together, as of the potter's wheel in the Iliad (W. W. Merry, *Commentary on the Odyssey*, 1886, on 5.234, citing *Iliad* 18.600). ἀμφοτέρωθεν ἀκαχμένον, “sharpened on both sides”, seems to mean a double blade, like the Latin *bipennis*, with the handle in the middle; Merry notes that Göbel explained the axes of the contest of the bow in the same way, twelve such axes set upright in a row, their handles fixed in the ground, for the arrow to pass between their upper points (Merry on 5.235, reporting Göbel on 19.574; see the translation's note on 5.235). στειλειόν, the handle, is a word found only here; the axe of Peisander in the Iliad is also hafted in olive wood (*Iliad* 13.612–613).
+
+“Twenty in all he felled, and hewed them with the bronze” (5.244): πελέκκησεν, from πέλεκυς, is the work of the axe after the felling, the lopping of the limbs, and the work of the adze begins with ξέσσε, “smoothed” (Merry on 5.244; see [[adze]]). εἴκοσι … πάντα is “full twenty”, all told (Merry on 5.244).

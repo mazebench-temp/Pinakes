@@ -1,0 +1,17 @@
+---
+summary: Zeus foretells that the Phaeacians, “who are near kin to the gods”, will honor Odysseus like a god and send him home with more gifts than his spoil from Troy (5.35–40); their land is the goal of the raft and of the swim, and the sight of him near it rekindles Poseidon's anger (5.279–290, 5.344–345, 5.377–387).
+# The relatives of 5.36–37 and Poseidon's "men whom Zeus has nurtured" (5.378) are the Phaeacians.
+refs: [5.36-37, 5.378]
+passages:
+  - 5.35-40 | Zeus' promise
+---
+
+**Zeus' promise.** The book names the Phaeacians first in Zeus' command to Hermes, which tells what they will do for Odysseus:
+
+{{quote:70aef1e8-34ba-5bc7-9c27-76fb2822587f}}
+
+περὶ κῆρι, “with all their hearts”: περί gives the notion of a completed circle, and so of thoroughness (Merry, *Commentary on the Odyssey*, 1886, on 5.36; see the translation's note on 5.36). ἀγχίθεοι is a mark of their divine lineage (Merry on 5.34–35; see [[near-kin-to-the-gods]]). The promise is kept to the letter, and it is Poseidon who reports it: the Phaeacians, “who are of my own line”, he complains to Zeus, carried Odysseus home asleep and gave him “bronze and gold in plenty and woven clothing, a great store, more than Odysseus would ever have carried off from Troy” (13.128–138, a plain rendering), three verses that are Zeus' 5.38–40 with the end of the first changed. In his false tale to Penelope Odysseus tells it again as news, in Zeus' verse: the wave cast Odysseus ashore “to the land of the Phaeacians, who are near kin to the gods, / who honored him with all their hearts like a god” (19.278–280, a plain rendering).
+
+**Near their land.** On the eighteenth day the mountains of “the land of the Phaeacians” appear (5.279–281; see [[scheria]]), and Poseidon, coming back from the Ethiopians, sees him: “and now he is near the land of the Phaeacians, where it is his lot / to escape the great bounds of the misery that has come upon him” (5.288–289; see [[poseidon]]). μᾶλλον, “all the more”: his smoldering anger blazes up again because, near the Phaeacian land, Odysseus is almost out of the reach of the lord of the sea (Merry on 5.284). Ino bids him leave the raft and “swimming with your hands strive to come / to the land of the Phaeacians, where it is your fate to escape” (5.344–345; see [[leucothea]]). νόστος is used here merely of coming to a place, not of returning, though the notion of getting home, coming to rest, may not be absent; others took γαίης Φαιήκων in apposition to νόστου, since his getting home in fact consisted in a landing on Phaeacian ground (Merry on 5.345; see [[nostos]] and the translation's note on 5.344–345).
+
+**“Men whom Zeus has nurtured.”** Poseidon's last words to him send him on “until you come among men whom Zeus has nurtured” (5.378). διοτρεφής is generally said of a king, under the special protection of Zeus; here it is given to a whole people, the Phaeacians, who were called ἀγχίθεοι before (Merry on 5.378; see [[zeus-nurtured]]). The scholia record Φαιήκεσσι here, which Merry takes for a variant for ἀνθρώποισι or a gloss on the phrase (Merry's critical note; see the translation's note on 5.378). Athena answers the taunt with his own verb: she rouses the North Wind “until he should come among the Phaeacians, lovers of the oar, / Odysseus, sprung from Zeus” (5.386–387; μιγήῃς, 5.378; μιγείη, 5.386; see [[athena]], [[boreas]] and [[lovers-of-the-oar]]).

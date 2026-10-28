@@ -121,7 +121,7 @@ Use `^` (only when capitalized), so that the clash never recurs:
 | Χάρις, Hephaestus' wife (18.382) | χάρις "grace, favor" | charis-wife-of-hephaestus: `^Χάρις` (title "Charis (wife of Hephaestus)", `en: [Charis]`); charis: `except: [18.382]` |
 | Κήρ, Doom in person (18.535) | κῆρ "heart" (18.33, 18.557) | ker-doom's Book 18 note: `^Κήρ` |
 | Δαίδαλος, the craftsman (18.592) | δαίδαλα "intricate designs", δαιδάλεος, δαιδάλλω (18.379, 18.400, 18.479, 18.482) | daedalus: `^Δαίδαλ*` |
-| Ἄρκτος, Ἄμαξα, the Bear and the Wagon (18.487) | ἄρκτοι "bears" (Od. 11.611); ἄμαξα "wagon" (7.426, 12.448; Book 24) | the-bear: `Ἄρκτον` and the phrase `"ἣν καὶ Ἄμαξαν"`; wagon claims ἄμαξαν with `"!^Ἄμαξαν"`, so the Bear stays out; at Od. 5.273, where ἄμαξαν is printed lowercase, wagon will need an `except` |
+| Ἄρκτος, Ἄμαξα, the Bear and the Wagon (18.487) | ἄρκτοι "bears" (Od. 11.611); ἄμαξα "wagon" (7.426, 12.448; Book 24) | the-bear: `Ἄρκτον` and the phrase `"ἣν καὶ Ἄμαξαν"`; wagon claims ἄμαξαν with `"!^Ἄμαξαν"`, so the Bear stays out; at Od. 5.273, where ἄμαξαν is printed lowercase, wagon has `except: [Od. 5.273]` |
 | Πληϊάδες (18.486) | πελειάδες "doves" (11.634) | pleiades: only Πληϊάδας |
 | Ἄλκιμος, Alcimus (19.392; 24.474, 24.574) | ἄλκιμος "valiant", "strong" (ἄλκιμον ἔγχος 3.338 and often) | alcimedon: `^Ἄλκιμος` in its Book 19 note; strong-spear: `"!^Ἄλκιμος"` |
 | Νηλεύς, Neleus (Νηλέα, Od. 15.229) | νηλέα "pitiless" (19.229) | pitiless claims the phrase `"νηλέα θυμὸν"` (19.229) |
@@ -399,7 +399,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Κυλλήνη, Κυλλήνιος | cyllene, the Arcadian mountain (Κυλλήνης 2.603; `except: [15.518]`); cyllene-elis, the port of Elis (Κυλλήνιον 15.518; Strabo 8.3.4); Hermes Κυλλήνιος (Od. 24.1) belongs to the mountain |
 | Παιονίη | paeonia (Παιονίης 17.350, 21.154); Παιονίδης "son of Paeon" (11.339, 11.368) is Agastrophus' patronymic, not the land |
 | Κνωσός (Κνωσόν 2.646, Κνωσῷ 18.591) | cnossus: exact forms only, never a stem, because of κνώσσω "sleep" (κνώσσουσʼ Od. 4.809); Κνωσός (Od. 19.178) will need adding |
-| Ἕρμος, Ἑρμῆς | hermus, the Lydian river, claims Ἕρμῳ (20.392); hermes claims Ἑρμεία* and, in its Book 20 note, the exact Ἑρμῆς (20.72), as its Rhetoric note has `^Ἑρμῆς`, `^Ἑρμῆν`; never a stem Ἑρμ*. The Odyssey's Ἑρμῆς, Ἑρμῆν, Ἑρμῇ will need adding when that poem is indexed |
+| Ἕρμος, Ἑρμῆς | hermus, the Lydian river, claims Ἕρμῳ (20.392); hermes claims Ἑρμεία* and the exact Ἑρμῆς in the entry (20.72; Od. 5.54, 24.1), as its Rhetoric note has `^Ἑρμῆς`, `^Ἑρμῆν`; never a stem Ἑρμ*. The Odyssey's Ἑρμῆν (8.334) and Ἑρμῇ (Book 14) are to add with their books |
 | Ὕλλος | hyllus, the Lydian river (Ὕλλῳ, 20.392); Hyllus son of Heracles, of later legend, is another and will need his own id |
 | Σιμόεις | simoeis, the river (Σιμόεντος; Σιμόεις in its Book 5 note; Σιμόεντι, 20.53 and 21.307, in its Book 20 note); simoeisius, the young Trojan named after it (Σιμοείσιον, 4.474, 4.477, 4.488): exact forms, never a stem Σιμοει* |
 | Ἀχελώϊος | achelous, the river Achilles names (21.194), claims only the nominative, with `except: [24.616]` for the English; achelous-of-lydia, the river by Sipylus, claims Ἀχελώϊον (24.616), with the English "Achelous" and `except: [21.194]` |
@@ -452,7 +452,7 @@ A formulaic epithet can describe something else in a later book, where its patte
 | μητέρι μήλων "mother of flocks" (mother-of-flocks, 11.222) | μῆλα, the flocks (lambs) | lambs claims μήλων, so 11.222 counts for both, as 9.479 does |
 | βαθείης "deep", of the sea (deep-sea) | of the woods, the sand and the ditch (5.555, 5.587, 8.336) | deep-sea claims only the phrases `"βαθείης βένθεσι λίμνης"` and `"βαθείης ἐξ ἁλὸς"` |
 | μακρῇσι "long", of spears (long-spears, 13.782) | long tails (Od. 10.215) | long-spears claims the phrase `"μακρῇσι τετυμμένω ἐγχείῃσιν"` |
-| κλυτὰ δώματα "famous house" (famous, 13.21) | the same words elided, κλυτὰ δώματʼ (Od. 5.381) | famous will need the elided phrase when the Odyssey is indexed |
+| κλυτὰ δώματα "famous house" (famous, 13.21) | the same words elided, κλυτὰ δώματʼ (Od. 5.381) | famous claims the elided phrase in its Odyssey Book 5 note |
 | Διὸς πάϊς "child of Zeus" (son-of-zeus, 13.825) | the Muse (Od. 8.488) | son-of-zeus: `except` it when the Odyssey is indexed |
 | ἤϊε Φοῖβε "archer Phoebus" (ieios, 15.365, 20.152) | ἤϊε "went" (1.47, 7.213) | ieios claims the phrase `"ἤϊε Φοῖβε"` only |
 | ὠκύμορος "swift-fated", of Achilles (swift-fated) | arrows "of swift death" (15.441; Od. 22.75) | swift-fated claims both, with en "of swift death" |
@@ -942,6 +942,64 @@ Odyssey notes, whose patterns apply only within the poem; the entry forms were t
 | ἠρᾶτο "prayed" (Od. 4.761) | ἤρατο "endured" (Od. 4.107) | prayer: `"=ἠρᾶτο"` |
 | ἀγορεύω "speak", ἀγορήσατο "addressed" (Od. 4.76, 4.157, 4.189, 4.383, 4.399, 4.611, 4.620, 4.645, 4.773, 4.836) | assembly's `ἀγορ*` | assembly `except:` these lines; ἀγοράων "assemblies" (4.818) stays |
 | εὐχετόωνται "claim to be" (Od. 4.139) | prayer's `εὐχ*` | prayer `except: [Od. 4.139]` |
+
+### Odyssey, Book 5
+
+Calypso's island and the storm bring few new names, and exact forms keep them apart (Κάδμου from the Cadmeians, Ἰασίωνι
+from Iasus, Ὀρτυγίῃ from the Ortygia of Book 15). Most of the book's clashes are common words: the parts and gear of the
+raft meet other words of the same letters (σχεδίην "at close quarters", ζώνην "waist", κάλους "beautiful"), the plants
+and birds of the island meet unrelated words (λάρῳ and λαρός, θύου and θύοντα, κορῶναι and κορώνη), and the formulas of
+the storm differ from their Iliad forms by a word or an elision. As in Books 3 and 4, most of the new forms are claimed
+in Odyssey notes, whose patterns apply only within the poem. The verb ὀδύσσομαι "be angry" belongs to cholos; odusia is
+the Latin Odyssey of Livius Andronicus.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Σχερίη, Σχερίην (Od. 5.34; 6.8, 7.79, 13.160) | ἐπισχερώ "in a row" (Il. 11.668, 18.68, 23.125) | scheria: `Σχερί*`, a stem from the start of the word, which ἐπισχερώ does not begin with |
+| Ὀρτυγίῃ, where Artemis killed Orion (Od. 5.123) | Ὀρτυγίης, above Syria in Eumaeus' story (Od. 15.404) | ortygia: the exact form; Book 15 to decide whether its Ortygia is the same place |
+| Κάδμου, Cadmus (Od. 5.333) | Καδμεῖοι, Καδμεΐωνες, the Thebans (Il. 4.385 and often; Od. 11.276) | cadmus: the exact form Κάδμου, never a stem; cadmeians keeps `Καδμε*` |
+| Ἰασίωνι, Demeter's lover (Od. 5.125) | Ἰασίδης (Od. 11.283, 17.443); Ἴασος (Il. 15.332, 15.337) | iasion: the exact form |
+| νύμφης, the nymph Calypso (Od. 4.557, 5.6, 5.14, 17.143) | νύμφης "bride", of Marpessa (Il. 9.560) | nymphs: νύμφης in its Book 5 note, which applies only to the Odyssey; it also takes νύμφῃς "to the nymphs" (13.355), the same letters |
+| ποταμός, the river of Scheria (Od. 5.441–463) | rivers' `ποταμ*` | the-river-of-scheria, the addressee of Odysseus' prayer (5.445–450): refs only; rivers keeps the stem |
+| ὠδύσατʼ, ὀδώδυσται "was angry" (Od. 5.340, 5.423) | Ὀδυσσεύς, whose name the verb is played on (1.62; 19.406–409); odusia, the Latin Odyssey | cholos: the two forms in its Book 5 note; ὠδύσαο (1.62) is unclaimed; link the verb to cholos, never to odusia |
+| σχεδίην, the raft (Od. 5.163, 5.251, 5.314, 5.343, 5.363) | σχεδίην "at close quarters" (Il. 5.830) | raft: σχεδίης and σχεδίῃ in the entry, σχεδίην in its Book 5 note |
+| ζώνην, the girdle (Od. 5.231 = 10.544; 11.245) | ζώνην "waist" (Il. 2.479, 11.234) | girdle: ζώνῃ in the entry, ζώνην in its Book 5 note |
+| κρήδεμνον, Ino's veil (Od. 5.346, 5.351, 5.373, 5.459) | κρήδεμνον, the cover of a jar (3.392); κρήδεμνα, the battlements of Troy (Il. 16.100; Od. 13.388) | veil: `"κρήδεμνον ὑπὸ στέρνοιο"`, `"κρήδεμνον ἔδωκεν"` and `"κρήδεμνον ἀπὸ"` in its Book 5 note |
+| κάλους, πόδας, the halyards and the sheets (Od. 5.260) | καλούς "beautiful"; πόδας "feet" | sails: the phrase `"ὑπέρας τε κάλους τε πόδας"` in its Book 5 note |
+| σπεῖρον, the sail (Od. 5.318) | σπείρου "shroud" (2.102 = 19.147 = 24.137); σπεῖρα "rags" (4.245) and the ship's sails (6.269); σπείρων "wrappings" (6.179) | sails: the exact form σπεῖρον in its Book 5 note; σπεῖρα at 6.269 for Book 6 |
+| φάρεʼ, the cloth for the sail (Od. 5.258) | φάρεʼ, the nymphs' sea-purple cloth (13.108); φᾶρος "cloak" | sails: the phrase `"φάρεʼ ἔνεικε"` in its Book 5 note |
+| ἱστόν "mast" (Od. 5.254, 5.316) | ἱστόν "loom" (Od. 5.62) | loom `except: [Od. 5.254, Od. 5.316]`; mast `except: [Od. 5.62]` |
+| κωρύκῳ, the leather sack (Od. 5.267) | κώρυκος, the punching bag of the *Rhetoric*'s simile (1413a14, 1413a26, 1413a27) | provisions: κωρύκῳ in its Book 5 note, which applies only to the Odyssey |
+| ᾖα "provisions" (Od. 5.266 = 9.212) | ἦα "I was" (2.313 and often) | provisions: the phrase `"ἐν δὲ καὶ ᾖα"` in its Book 5 note, which also takes 9.212 |
+| παρʼ ἀμβροσίην, the food of the gods (Od. 5.199) | νύκτα διʼ ἀμβροσίην, the ambrosial night (Od. 9.404, 15.8) | ambrosia: the phrase in its Book 5 note, as `"ἀμβροσίην ὑπὸ ῥῖνα"` in Book 4 |
+| λάρῳ, the gull (Od. 5.51) | λαρός "sweet" (Il. 17.572, 19.316; Od. 2.350, 12.283, 14.408); Λάρισα | gull: the exact form λάρῳ, never `λαρ*` |
+| θύου, thyine wood (Od. 5.60) | θύοντα "sacrificing" (Od. 15.260) | thyine-wood: the exact form |
+| ἴου, violets (Od. 5.72) | ἰός "arrow"; ἴα "one" | violet: the exact form ἴου, the only one in Homer |
+| κορῶναι, sea crows (Od. 5.66) | κορώνη, the handle of a door (1.441, 7.90, 21.46) and the tip of a bow (Il. 4.111; Od. 21.138, 21.165); κορωνίς, of ships | birds: κορῶναι, with σκῶπες and ὄρνιθι, in its Book 5 note; the sea crows of the similes (κορώνῃσιν, 12.418, 14.308) for their books |
+| κλήθρη τʼ αἴγειρος, the alder and the poplar (Od. 5.64, 5.239) | αἴγειρος of the Iliad's simile (Il. 4.482) | trees: the phrase `"κλήθρη τʼ αἴγειρός"` in its Book 5 note; the-poplar keeps `"αἴγειρος ὣς"`, and αἴγειρος alone is left for a poplar entry |
+| κρῆναι "springs" (Od. 5.70; 7.129; Il. 21.197) | κρῆναι "to accomplish" (Od. 5.170) | both unclaimed; a springs entry will need `except: [Od. 5.170]` |
+| ἐπʼ ἀκτῆς, ἐπʼ ἀκτήν, the shore (Od. 5.82, 5.151, 5.425; 10.140) | ἀκτή "grain" (Il. 11.631, 13.322, 21.76; ἀλφίτου ἀκτῆς, Od. 2.355) | shore: the two phrases in its Book 5 note, never bare ἀκτ* |
+| ἠιόνεσσι, ἠιόνας, the beaches (Od. 5.156, 5.418, 5.440) | Ἠϊόνας, the Argive town (Il. 2.561) | shore: ἠιόνεσσι and `"ἠιόνας τε παραπλῆγας"` in its Book 5 note; eionae keeps `^Ἠϊόνας` |
+| σχοίνῳ, the rushes (Od. 5.463) | Σχοῖνος, the Boeotian town (Il. 2.497) | rushes: σχοίνῳ in its Book 5 note; schoenus keeps `Σχοῖνόν` |
+| αἰθέρος, the upper air (Od. 5.50; 15.293) | Empedocles' αἰθέρος (*Rhetoric* 1373b16) | upper-air: αἰθέρος in its Book 5 note only |
+| Λακεδαίμονα δῖαν (Od. 5.20, repeating 4.702) | ἅλα δῖαν | brilliant's Book 3 note claims the phrase; shining-sea `except: [Od. 5.20]` |
+| δῖα Καλυψώ (Od. 5.263, 5.321, 5.372) | Δία, Zeus; διά "through"; δῖα θεάων | brilliant: the phrase in its Book 5 note, as `"δῖα Κλυταιμνήστρη"` in Book 3; δῖα θεάων is brilliant-among-goddesses' |
+| ἄσπετον "boundless" (Od. 5.101) | ἀπείρονα "boundless", boundless-sea's English | untold: ἄσπετον, and `en: [boundless]` in its Book 5 note |
+| κλυτὰ δώματʼ (Od. 5.381) | κλυτὰ δώματα (Il. 13.21) | famous: the elided phrase in its Book 5 note, with `"κλυτὸς ἐννοσίγαιος"` (5.423) and `"κλυτὸς Ἀμφιτρίτη"` (5.422) |
+| ὀχθήσας δʼ ἄρα εἶπε (Od. 5.298, 5.355, 5.407, 5.464) | μέγʼ ὀχθήσας, the entry's form | deeply-troubled: the phrase in its Book 5 note, as its Iliad Book 11 note has it for the Iliad (11.403, 17.90, 18.5 and after) |
+| ὤ μοι ἐγὼ δειλός (Od. 5.299) | δειλός "cowardly" (deos) | wretch: the phrase in its Book 5 note; deos' Book 5 note `except: [5.299]` |
+| δούρατα μακρά, the beams of the raft (Od. 5.162, 5.370) | δούρατα μακρά, long spears (Il. 5.656; Od. 22.251) | long-spears: the phrase in its Iliad Book 5 note, never in an Odyssey note before Book 22; the-heap-of-husks: `"τῆς δούρατα μακρὰ"` (5.370) |
+| σπείους γλαφυροῖο, σπεῖος γλαφυρόν (Od. 5.68, 5.194, 5.226) | ἐν σπέσσι γλαφυροῖσι, the formula of hollow caves (Od. 1.15, 5.155, 9.30, 23.335) | hollow-caves: both phrases in its Book 5 note; calypsos-cave: the cave's own phrases, and the formula's lines as refs |
+| εὐρὺ σπέος ἤλυθεν (Od. 5.77) | εὐρὺ σπέος ἤλασε, the Cyclops' cave (9.237, 9.337) | calypsos-cave: the phrase with its verb |
+| ὣς ἄρα μιν εἰπόντʼ (Od. 5.313) | ὣς ἄρα μιν εἰπόντα τέλος θανάτοιο κάλυψε, the death formula (Il. 16.502, 16.855, 22.361) | so-he-spoke: the elided phrase in its Book 5 note; the-end-of-death: `"τέλος θανάτου"` (5.326) in its Book 5 note |
+| πηγῷ "swollen", of the wave (Od. 5.388 = 23.235) | πηγούς "strong", of horses (Il. 9.124, 9.266); πηγαί "springs" | prize-winning: the exact form πηγοὺς; κύματι πηγῷ is unclaimed |
+| μισγομένων ἀνέμων, the winds clashing (Od. 5.317) | μισγομένων, the meeting of the torrents (Il. 4.456) | torrents-meeting `except: [Od. 5.317]` |
+| σποδιῇ … μελαίνῃ, the black ashes (Od. 5.488) | νηῒ μελαίνῃ, the black ship | black-ships `except: [Od. 5.488]` |
+| ἄμαξαν, the Wagon in the sky (Od. 5.273, printed lowercase) | ἄμαξα "wagon" | wagon `except: [Od. 5.273]`; the-bear's phrase `"ἣν καὶ Ἄμαξαν"` takes the line |
+| ἐείσατο "seemed" (Od. 2.320, 5.398, 5.442; 7.281, 7.343, 8.295, 10.149) | ἐείσατο "went", from εἶμι (Il. 15.415; Od. 22.89) | eidos: ἐείσατο in its Book 5 note, which applies to the whole Odyssey; Book 22 must except 22.89 |
+| εὔχομαι εἶναι "claim to be" (Od. 5.211, 5.450) | prayer's `εὐχ*` | prayer `except: [Od. 5.211]` in the entry and `except: [5.450]` in its Book 5 note; euchomai keeps both |
+| ἀγορεῦσαι "making (a speech)" (Od. 5.183) | assembly's `ἀγορ*` | assembly `except: [Od. 5.183]` |
+| κήδεα, κήδεʼ "sorrows" (Od. 5.5, 5.207) | κῆδε "troubled" (Il. 5.400, 11.458), the letters of the elided κήδεʼ | algos: κήδεα and κήδεʼ in its Book 5 note, which applies only to the Odyssey, where κήδεʼ is always "sorrows" (1.244, 4.108 and after) |
 
 ## Aristotle's Poetics
 

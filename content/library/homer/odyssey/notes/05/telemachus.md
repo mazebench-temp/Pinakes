@@ -1,0 +1,10 @@
+---
+summary: Athena tells the gods that the suitors are eager to kill Odysseus' beloved son as he comes home from Pylos and Lacedaemon; Zeus bids her escort him skillfully, so that he may reach his native land unharmed and the suitors sail back again (5.18–27). Then the book turns to his father.
+# Τηλέμαχον (5.25) is claimed by the entry. Unnamed: "his beloved son", on his way home from his search for news of
+# his father (5.18-20), and "so that he may reach his native land quite unharmed" (5.26).
+refs: [5.18-20, 5.26]
+---
+
+**His beloved son.** Athena ends her plea to the gods with the news the herald Medon brought Penelope, in the same words: “And now they are eager to kill his beloved son / as he comes home; for he has gone in search of news of his father / to sacred Pylos and to shining Lacedaemon” (5.18–20; 5.19–20 = 4.701–702; see [[medon-the-herald]], [[the-suitors]] and [[agapetos]]). παῖδʼ ἀγαπητόν, “his beloved son”, is Homer's word for a cherished only son, as Eurycleia called him when he would go (2.365), and νῦν αὖ παῖδʼ ἀγαπητόν opens the verse as it did in his mother's lament for him (4.727; see [[penelope]]).
+
+**The escort.** Zeus answers that the plan for vengeance was hers, and bids her: “And as for Telemachus, escort him skillfully, for you are able, / so that he may reach his native land quite unharmed, / and the suitors in their ship may go back again” (5.25–27; see [[athena]]). Then he sends Hermes to Calypso with the decree that Odysseus shall come home “with the escort neither of gods nor of mortal men” (5.32), while his son sailed with the goddess sitting beside him at the stern (2.416–418; Merry, *Commentary on the Odyssey*, 1886, on 5.32), and the phantom of Iphthime told his mother that “such an escort goes with him … Pallas Athena” (4.826–828; see [[iphthime]]). The poem leaves him at Sparta, and comes back to him only when Athena goes there to remind him of his homecoming and to warn him of the ambush in the strait between Ithaca and Samos (15.1–3, 15.27–30; see [[the-journey-of-telemachus]]).

@@ -1,0 +1,496 @@
+# Homer, Odyssey, Book 5 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Now Dawn rose from her bed beside noble Tithonus,
+2	to bring light to the immortals and to mortals;
+3	and the gods sat down to their session, and among them
+4	Zeus who thunders on high, whose power is the greatest.
+5	And Athena told them of the many sorrows of Odysseus,
+6	remembering them; for he was her concern, there in the house of the nymph:
+7	“Father Zeus, and you other blessed gods who live forever,
+8	Never again let any man with a ready heart be gentle and kind,
+9	a scepter-bearing king, nor know in his mind what is due,
+10	but let him always be harsh and do evil;
+11	since no one remembers divine Odysseus
+12	among the people he was lord over, and he was kind, like a father.
+13	But he lies on an island, suffering bitter sorrows,
+14	in the halls of the nymph Calypso, who by force
+15	holds him there; and he cannot reach his native land;
+16	for he has no ships with oars and no companions
+17	who might take him over the broad back of the sea.
+18	And now they are eager to kill his beloved son
+19	as he comes home; for he has gone in search of news of his father
+20	to sacred Pylos and to shining Lacedaemon.”
+21	Answering her, Zeus the cloud-gatherer said:
+22	“My child, what a word has escaped the barrier of your teeth!
+23	Was it not you yourself who devised this plan,
+24	that Odysseus should come and take vengeance on those men?
+25	And as for Telemachus, escort him skillfully, for you are able,
+26	so that he may reach his native land quite unharmed,
+27	and the suitors in their ship may go back again.”
+28	He spoke, and said to Hermes, his dear son, face to face:
+29	“Hermes, since you for your part are our messenger in all else,
+30	tell the nymph of the lovely tresses our unerring counsel,
+31	the homecoming of stout-hearted Odysseus, that he may return
+32	with the escort neither of gods nor of mortal men;
+33	but on a raft of many bindings, suffering woes,
+34	on the twentieth day he may reach deep-soiled Scheria,
+35	the land of the Phaeacians, who are near kin to the gods,
+36	who will honor him with all their hearts like a god,
+37	and will send him in a ship to his dear native land,
+38	giving him bronze and gold in plenty, and clothing,
+39	a great store, more than Odysseus would ever have carried off from Troy,
+40	if he had come home free of harm and won his share of the spoil.
+41	For so it is his fate to see his friends and to reach
+42	his high-roofed house and his native land.”
+43	So he spoke, and the guide, the slayer of Argus, did not disobey.
+44	At once he bound under his feet his fine sandals,
+45	ambrosial, golden, which carried him over the waters
+46	and over the boundless earth as fast as the blasts of the wind;
+47	and he took the wand with which he bewitches the eyes of men,
+48	of whomever he will, and again wakes others who are sleeping;
+49	holding it in his hands the mighty slayer of Argus flew.
+50	Stepping on Pieria, he fell from the upper air upon the sea;
+51	then he hurried over the wave like a bird, a gull,
+52	which through the dread bosom of the barren sea,
+53	hunting fish, wets its thick plumage in the brine;
+54	like it, Hermes rode over the many waves.
+55	But when he came to the island, which lay far away,
+56	then stepping out of the violet sea onto the land
+57	he went on, until he came to the great cave, in which the nymph
+58	of the lovely tresses lived; and he found her within.
+59	A great fire was burning on the hearth, and far off the scent
+60	of cedar that splits easily and of thyine wood spread over the island
+61	as they burned; and she within, singing with a lovely voice,
+62	walked to and fro at the loom and wove with a golden shuttle.
+63	And around the cave a wood had grown, flourishing,
+64	alder and poplar and fragrant cypress.
+65	And there long-winged birds would roost,
+66	owls and hawks and long-tongued crows
+67	of the sea, whose concern is the works of the sea.
+68	And there, stretched about the hollow cave,
+69	was a garden vine in its prime, and it flourished with clusters of grapes.
+70	And four springs in a row were flowing with clear water,
+71	near one another, turned this way and that.
+72	And all around, soft meadows of violets and parsley
+73	were in bloom. There even an immortal, if he came,
+74	would gaze at the sight and delight his mind.
+75	There the guide, the slayer of Argus, stood and gazed.
+76	But when he had gazed at everything in his heart,
+77	at once he went into the wide cave; and when she looked him in the face
+78	Calypso, brilliant among goddesses, did not fail to know him;
+79	for the gods are not unknown to one another,
+80	the immortals, not even if one lives in a house far away.
+81	But great-hearted Odysseus he did not find within;
+82	he sat weeping on the shore, as he had before,
+83	racking his heart with tears and groans and sorrows.
+84	He would look out over the barren sea, letting tears fall.
+85	And Calypso, brilliant among goddesses, questioned Hermes,
+86	when she had seated him on a shining, glossy throne:
+87	“Why, Hermes of the golden wand, have you come to me,
+88	respected and dear? Before now you have not come often.
+89	Say what is in your mind; my heart bids me accomplish it,
+90	if I can accomplish it and if it is a thing that can be accomplished.
+91	But come farther in, so that I may set good cheer before you.”
+92	So she spoke, and the goddess set a table beside him,
+93	filling it with ambrosia, and mixed red nectar.
+94	And the guide, the slayer of Argus, drank and ate.
+95	But when he had dined and satisfied his heart with food,
+96	then at last he answered her with words and said:
+97	“You, a goddess, ask me, a god, why I have come; and I will tell you
+98	my story truly; for you bid me.
+99	It was Zeus who bade me come here, against my will;
+100	who of his own will would speed across so much salt water,
+101	boundless? Nor is there any city of mortals near, men who to the gods
+102	offer sacrifices and choice hecatombs.
+103	But there is no way that the mind of aegis-bearing Zeus
+104	can be evaded by any other god, or made vain.
+105	He says that there is with you a man more wretched than all the others,
+106	the men who fought around the city of Priam
+107	for nine years, and in the tenth sacked the city and went
+108	home; but on their homecoming they sinned against Athena,
+109	who roused against them an evil wind and long waves.
+110	There all his other noble companions perished,
+111	but the wind and the wave bore him and brought him here.
+112	This man he bade you now send away with all speed;
+113	for it is not his lot to perish here, far from his friends,
+114	but it is still his fate to see his friends and to reach
+115	his high-roofed house and his native land.”
+116	So he spoke, and Calypso, brilliant among goddesses, shuddered,
+117	and she spoke to him, addressing him with winged words:
+118	“You are hard, you gods, and jealous beyond all others,
+119	you who begrudge goddesses that they should lie with men
+120	openly, if one makes a man her dear husband.
+121	So it was when rosy-fingered Dawn took Orion for herself:
+122	you gods who live at ease begrudged her so long,
+123	until in Ortygia chaste Artemis of the golden throne
+124	came upon him with her gentle arrows and killed him.
+125	So too when Demeter of the lovely tresses, with Iasion,
+126	yielding to her own heart, lay with him in love and bed
+127	in a thrice-plowed fallow field; and not long without hearing of it
+128	was Zeus, who killed him, striking him with a gleaming thunderbolt.
+129	And so now again you begrudge me, you gods, that a mortal man should be with me.
+130	Him I saved when he was astride the keel,
+131	alone, when his swift ship, with a gleaming thunderbolt,
+132	Zeus struck and shattered in the middle of the wine-dark sea.
+133	There all his other noble companions perished,
+134	but the wind and the wave bore him and brought him here.
+135	Him I loved and cared for, and I said
+136	that I would make him immortal and ageless all his days.
+137	But since there is no way that the mind of aegis-bearing Zeus
+138	can be evaded by any other god, or made vain,
+139	let him go to his ruin, if that god urges him on and commands it,
+140	over the barren sea; but in no way shall I send him myself;
+141	for I have no ships with oars and no companions
+142	who might take him over the broad back of the sea.
+143	But with a ready heart I will give him counsel, and not hide it,
+144	so that he may reach his native land quite unharmed.”
+145	Then the guide, the slayer of Argus, spoke to her in turn:
+146	“Send him away now, then, and have regard for the wrath of Zeus,
+147	lest in time to come he grow angry with you in resentment.”
+148	So he spoke, and the mighty slayer of Argus went away;
+149	and the lady nymph went to great-hearted Odysseus,
+150	since she had heard the messages of Zeus.
+151	She found him sitting on the shore; and his eyes were never
+152	dry of tears, and his sweet life was ebbing away
+153	as he mourned for his homecoming, since the nymph no longer pleased him.
+154	By night, it is true, he would sleep beside her, under compulsion,
+155	in the hollow caves, unwilling beside the willing;
+156	but by day he would sit on the rocks and the beaches,
+157	racking his heart with tears and groans and sorrows,
+158	and would look out over the barren sea, letting tears fall.
+159	And standing near him, she spoke to him, brilliant among goddesses:
+160	“Ill-fated man, do not mourn here any longer, I beg you, nor let your life
+161	waste away; for now with a ready heart I will send you away.
+162	But come, cut long beams with the bronze and fit together
+163	a broad raft; and fix a deck upon it
+164	high up, so that it may carry you over the misty sea.
+165	And I will put in it bread and water and red wine
+166	to satisfy your heart, that may keep hunger from you,
+167	and I will clothe you in garments; and I will send a fair wind behind you,
+168	so that you may reach your native land quite unharmed,
+169	if the gods are willing, who hold the wide sky,
+170	who are stronger than I am both to devise and to fulfill.”
+171	So she spoke, and much-enduring brilliant Odysseus shuddered,
+172	and he spoke to her, addressing her with winged words:
+173	“Something else, goddess, is what you are planning here, and not my escort,
+174	when you bid me cross on a raft the great gulf of the sea,
+175	dread and grievous; over it not even balanced ships
+176	cross, swift-sailing, glorying in the wind of Zeus.
+177	But I would not set foot on a raft against your will,
+178	unless you would bring yourself, goddess, to swear me a great oath
+179	that you will not plan some other evil bane against me myself.”
+180	So he spoke, and Calypso, brilliant among goddesses, smiled,
+181	and stroked him with her hand, and spoke to him, and called him by name:
+182	“Truly you are a rogue, and no fool,
+183	what a speech you have thought of making!
+184	Let Earth now be witness to this, and the wide Heaven above,
+185	and the down-flowing water of Styx, which is the greatest
+186	and most dread oath for the blessed gods,
+187	that I will not plan some other evil bane against you yourself.
+188	No, I am thinking of and will devise just what I would
+189	plan for myself, if so great a need should come upon me;
+190	for my mind too is right, and my own heart
+191	in my breast is not of iron, but full of pity.”
+192	So she spoke, and led the way, brilliant among goddesses,
+193	swiftly; and he followed in the footprints of the goddess.
+194	And they came to the hollow cave, the goddess and the man,
+195	and he sat down there on the throne from which had risen
+196	Hermes, and the nymph set before him all kinds of food,
+197	to eat and to drink, such as mortal men eat;
+198	and she herself sat facing divine Odysseus,
+199	and the slave women set ambrosia and nectar beside her.
+200	And they put out their hands to the good things lying ready before them.
+201	But when they had taken their fill of food and drink,
+202	Calypso, brilliant among goddesses, began to speak among them:
+203	“Son of Laertes, sprung from Zeus, Odysseus of many devices,
+204	is it so, then, that home to your dear native land
+205	you wish to go at once, now? Then farewell to you, even so.
+206	Yet if you knew in your mind what a measure of
+207	sorrows it is your lot to fill up before you reach your native land,
+208	you would stay here on the spot and keep this house with me,
+209	and be immortal, for all your longing to see
+210	your wife, for whom you yearn always, all your days.
+211	Surely I claim to be in no way inferior to her,
+212	not in form or stature, since it is in no way fitting
+213	for mortal women to vie with immortals in form and looks.”
+214	Answering her, Odysseus of many wiles said:
+215	“Lady goddess, do not be angry with me for this; I know it myself,
+216	all of it, that prudent Penelope
+217	is less than you in looks and stature to behold;
+218	for she is mortal, and you are immortal and ageless.
+219	But even so I wish and yearn all my days
+220	to come home and see the day of my homecoming.
+221	And if again some god wrecks me on the wine-dark sea,
+222	I will endure it, with a heart in my breast that bears up under sorrow;
+223	for already I have suffered very much and toiled much
+224	on the waves and in war; let this too be added to them.”
+225	So he spoke, and the sun went down and darkness came on;
+226	and the two of them went in, and in the inner part of the hollow cave
+227	took their pleasure in love, staying by each other.
+228	And when early-born Dawn appeared, the rosy-fingered,
+229	at once Odysseus put on a cloak and a tunic,
+230	and the nymph herself put on a great silver-white mantle,
+231	fine and lovely, and around her waist she cast a girdle,
+232	fine and golden, and over her head a head covering.
+233	And then she planned the escort for great-hearted Odysseus.
+234	She gave him a great axe that fitted his hands,
+235	of bronze, sharpened on both sides; and in it
+236	a beautiful handle of olive wood, well fitted;
+237	and then she gave him a polished adze; and she led the way
+238	to the far edge of the island, where tall trees grew,
+239	alder and poplar, and fir that reached to the sky,
+240	dry long since, well seasoned, that would float lightly for him.
+241	But when she had shown him where tall trees grew,
+242	Calypso, brilliant among goddesses, went to her house,
+243	and he set about cutting beams; and his work went quickly.
+244	Twenty in all he felled, and hewed them with the bronze,
+245	and smoothed them skillfully and made them straight to the chalk line.
+246	Meanwhile Calypso, brilliant among goddesses, brought him augers;
+247	and he bored them all and fitted them to one another,
+248	and hammered it together with pegs and fastenings.
+249	As wide as the floor of a ship that a man marks out,
+250	a broad freight ship, a man well skilled in carpentry,
+251	so wide did Odysseus make his broad raft.
+252	And setting up the deck, fitting it to the close-set ribs,
+253	he worked on; and he finished with long side planks.
+254	And he made a mast in it, and a yard fitted to it;
+255	and he made a steering oar besides, to steer with.
+256	And he fenced it from end to end with osier withes
+257	to be a safeguard against the waves; and he heaped much wood upon it.
+258	Meanwhile Calypso, brilliant among goddesses, brought cloth
+259	to make sails; and he fashioned these well too.
+260	And he made fast in it the braces and halyards and sheets,
+261	and with levers he dragged it down into the shining sea.
+262	It was the fourth day, and all his work was done;
+263	and on the fifth brilliant Calypso sent him from the island,
+264	when she had clothed him in fragrant garments and bathed him.
+265	And the goddess put on board for him a skin of dark wine,
+266	one skin, and another, a great one, of water, and provisions too
+267	in a leather sack; and she put in many meats to satisfy his heart;
+268	and she sent forth a fair wind, harmless and warm.
+269	Glad of the wind, brilliant Odysseus spread his sails.
+270	And he steered with skill with the steering oar,
+271	sitting there, and sleep did not fall on his eyelids
+272	as he watched the Pleiades and Boötes, who sets late,
+273	and the Bear, which they also call by the name of the Wagon,
+274	which turns in its place and watches Orion,
+275	and alone has no share in the baths of Oceanus.
+276	For this was the one Calypso, brilliant among goddesses, had bidden him
+277	keep on his left hand as he crossed the sea.
+278	For seventeen days he sailed, crossing the sea,
+279	and on the eighteenth there appeared the shadowy mountains
+280	of the land of the Phaeacians, where it lay nearest to him;
+281	and it looked like a shield on the misty sea.
+282	But the powerful earth-shaker, returning from the Ethiopians,
+283	saw him from far away, from the mountains of the Solymi; for he came into his sight
+284	sailing over the sea. And he grew all the more angry in his heart,
+285	and he shook his head and spoke to his own heart:
+286	“Ah, truly the gods have changed their purpose
+287	about Odysseus, while I was among the Ethiopians,
+288	and now he is near the land of the Phaeacians, where it is his lot
+289	to escape the great bounds of the misery that has come upon him.
+290	But I say I will yet give him his fill of misery.”
+291	So saying, he gathered the clouds and threw the sea into confusion,
+292	taking his trident in his hands; and he spurred on all the storms
+293	of winds of every kind, and with clouds he covered
+294	land and sea alike; and night arose from the sky.
+295	The East Wind and the South Wind clashed together, and the stormy West Wind
+296	and the North Wind, born of the clear sky, rolling up a great wave.
+297	And then Odysseus' knees and dear heart were loosened,
+298	and deeply troubled he spoke to his own proud heart:
+299	“Ah me, wretched that I am, what will befall me in the end?
+300	I fear that everything the goddess said was true,
+301	when she said that on the sea, before I reached my native land,
+302	I would fill up the measure of sorrows; and now it is all being fulfilled.
+303	With what clouds he is wreathing the wide sky,
+304	Zeus, and he has thrown the sea into confusion, and the storms rush on
+305	of winds of every kind. Now sheer destruction is sure for me.
+306	Three times blessed are the Danaans, and four times, who perished then
+307	in wide Troy, doing a favor to the sons of Atreus.
+308	Would that I too had died and met my fate
+309	on that day when, in their greatest numbers, bronze-fitted spears
+310	the Trojans hurled at me around the dead son of Peleus.
+311	Then I would have had my funeral rites, and the Achaeans would have spread my fame;
+312	but now it was fated that I be caught by a wretched death.”
+313	As he spoke, a great wave struck him from above,
+314	rushing on him terribly, and it whirled the raft around.
+315	He himself fell far from the raft, and the steering oar
+316	he let fly from his hands; and his mast was broken in the middle
+317	by a dread storm of winds clashing together that came upon it,
+318	and far off the sail and the yard fell into the sea.
+319	And it held him under water a long time, and he could not
+320	quickly rise from under the rush of the great wave;
+321	for the garments weighed him down that brilliant Calypso had given him.
+322	At last he came up, and spat out of his mouth the brine,
+323	the bitter brine, that ran streaming in plenty from his head.
+324	But even so he did not forget the raft, worn out though he was,
+325	but darted after it in the waves and caught hold of it,
+326	and sat down in the middle of it, avoiding the end of death.
+327	And the great wave carried it with the current this way and that.
+328	As when the North Wind of late summer carries thistles
+329	over the plain, and they cling thick together,
+330	so the winds carried it over the open sea this way and that;
+331	now the South Wind would toss it to the North Wind to carry,
+332	and now again the East Wind would yield it to the West Wind to chase.
+333	But the daughter of Cadmus saw him, Ino of the lovely ankles,
+334	Leucothea, who was once a mortal with human voice,
+335	but now in the open sea has a share of honor from the gods.
+336	She pitied Odysseus as he wandered, suffering sorrows,
+337	and like a diving bird on the wing she rose up from the sea,
+338	and sat on the raft of many bindings and spoke a word:
+339	“Ill-fated man, why is Poseidon the earth-shaker
+340	so terribly angry with you, that he plants so many evils for you?
+341	Yet he will not destroy you, though he rages greatly.
+342	But do just this, for you do not seem to me to be senseless:
+343	take off these garments, and leave the raft for the winds to carry,
+344	leave it, and swimming with your hands strive to come
+345	to the land of the Phaeacians, where it is your fate to escape.
+346	Here, take this veil and stretch it under your chest,
+347	immortal as it is; and there is no fear that you will suffer anything or perish.
+348	But when you have laid hold of the land with your hands,
+349	untie it and throw it back into the wine-dark sea
+350	far from the land, and turn yourself away.”
+351	So she spoke, and the goddess gave him the veil,
+352	and she herself plunged back into the billowing sea
+353	like a diving bird; and a dark wave hid her.
+354	But much-enduring brilliant Odysseus pondered,
+355	and deeply troubled he spoke to his own proud heart:
+356	“Ah me, may it not be that someone is weaving a trap for me again,
+357	one of the immortals, since she bids me leave the raft.
+358	But I will certainly not obey yet, since far off, with my eyes,
+359	I saw the land where she said there was a refuge for me.
+360	But I will do just this, and it seems to me best:
+361	as long as the beams hold together in their fastenings,
+362	so long I will stay here and endure, suffering sorrows;
+363	but when the wave shakes the raft apart for me,
+364	I will swim, since there is nothing better to think of beforehand.”
+365	While he was pondering this in his mind and in his heart,
+366	Poseidon the earth-shaker roused a great wave against him,
+367	dread and grievous, arching over him, and it struck him.
+368	And as a blustering wind shakes a heap of husks,
+369	dry ones, and scatters them this way and that,
+370	so it scattered the long beams of the raft. But Odysseus
+371	bestrode a single beam, as though riding a horse,
+372	and stripped off the garments that brilliant Calypso had given him.
+373	And at once he stretched the veil under his chest,
+374	and plunged headlong into the sea, stretching out both his hands,
+375	eager to swim. And the powerful earth-shaker saw him,
+376	and he shook his head and spoke to his own heart:
+377	“So now, after suffering many evils, wander over the sea,
+378	until you come among men whom Zeus has nurtured.
+379	But even so I do not expect you to make light of your misery.”
+380	So he spoke, and lashed the fine-maned horses,
+381	and came to Aegae, where his glorious house is.
+382	But Athena, daughter of Zeus, thought of another thing.
+383	She bound up the paths of the other winds,
+384	and bade them all cease and lie down to rest;
+385	and she roused the swift North Wind, and broke the waves ahead,
+386	until he should come among the Phaeacians, lovers of the oar,
+387	Odysseus, sprung from Zeus, escaping death and the fates.
+388	There for two nights and two days on the swollen wave
+389	he wandered, and many times his heart foresaw destruction.
+390	But when Dawn of the lovely tresses brought the third day,
+391	then the wind ceased, and there was a calm,
+392	a windless calm; and he saw the land near at hand,
+393	with a sharp look ahead, as he was lifted by a great wave.
+394	And as when the life of a father appears welcome to his children,
+395	a father who lies in sickness, suffering bitter pains,
+396	long wasting away, and a hateful god has attacked him,
+397	and welcome it is, when the gods free him from his misery,
+398	so welcome did the land and the woods appear to Odysseus,
+399	and he swam on, eager to set his feet on the land.
+400	But when he was as far away as a man can make himself heard with a shout,
+401	he heard the roar of the sea on the reefs;
+402	for the great wave was roaring against the dry land,
+403	belching terribly, and everything was wrapped in the foam of the sea;
+404	for there were no harbors to hold ships, nor roadsteads,
+405	but there were jutting headlands and reefs and crags;
+406	and then Odysseus' knees and dear heart were loosened,
+407	and deeply troubled he spoke to his own proud heart:
+408	“Ah me, now that he has granted me to see land beyond all hope,
+409	Zeus, and I have cut through this gulf and crossed it,
+410	nowhere does a way out of the gray sea appear;
+411	for outside are sharp crags, and around them the wave
+412	roars and surges, and the rock runs up sheer,
+413	and the sea is deep close in, and there is no way to stand
+414	on both feet and escape misery;
+415	lest somehow, as I come out, it should dash me against the jagged rock,
+416	a great wave snatching me up; and my effort will be in vain.
+417	But if I swim on farther along the shore, in case I may find
+418	beaches where the waves strike slanting, and harbors of the sea,
+419	I fear that the storm may snatch me up again
+420	and carry me, groaning heavily, over the fish-filled sea,
+421	or a god may even send some great sea monster against me
+422	out of the sea, such as famous Amphitrite breeds in great numbers;
+423	for I know how the famous shaker of the earth is angry with me.”
+424	While he was pondering this in his mind and in his heart,
+425	a great wave carried him onto the rugged shore.
+426	There his skin would have been stripped off and his bones crushed together,
+427	had not the gray-eyed goddess Athena put it in his mind:
+428	he rushed at the rock and seized it with both hands,
+429	and clung to it, groaning, until the great wave went past.
+430	And so he escaped that wave, but its backwash struck him again
+431	as it rushed on, and flung him far out into the sea.
+432	And as when an octopus is dragged out of its den,
+433	many pebbles cling thick to its suckers,
+434	so from his bold hands, against the rocks,
+435	the skin was stripped away; and the great wave covered him.
+436	Then unhappy Odysseus would have perished against fate,
+437	had not gray-eyed Athena given him presence of mind.
+438	He came up out of the waves that belch against the land,
+439	and swam along outside it, looking toward the land, in case he might find
+440	beaches where the waves strike slanting, and harbors of the sea.
+441	But when he came to the mouth of a fair-flowing river,
+442	swimming, where the place seemed to him the best,
+443	smooth, free of rocks, and there was shelter from the wind,
+444	he knew the god as he flowed forth, and prayed to him in his heart:
+445	“Hear me, lord, whoever you are; I come to you, much prayed for,
+446	fleeing out of the sea from the rebukes of Poseidon.
+447	Even to the immortal gods he is to be respected,
+448	whoever of men comes as a wanderer, as I now
+449	come to your stream and to your knees, after toiling much.
+450	But pity me, lord; I claim to be your suppliant.”
+451	So he spoke, and at once the god stopped his stream, and held back the wave,
+452	and made a calm before him, and brought him safe
+453	into the river's mouth. And he let both his knees sink,
+454	and his strong hands; for his dear heart was overcome by the sea.
+455	All his flesh was swollen, and much sea water gushed
+456	up through his mouth and nostrils; and breathless and speechless
+457	he lay with little strength left, and dreadful weariness came upon him.
+458	But when he got his breath back and his spirit was gathered back into his heart,
+459	then he untied the veil of the goddess from himself.
+460	And he let it go into the river that murmurs to the sea,
+461	and a great wave carried it back down the stream, and at once Ino
+462	took it in her own hands; and he, withdrawing from the river,
+463	sank down among the rushes, and kissed the grain-giving earth.
+464	And deeply troubled he spoke to his own proud heart:
+465	“Ah me, what will become of me? What will befall me in the end?
+466	If I keep watch through the comfortless night by the river,
+467	I fear that the cruel frost and the fresh dew together
+468	may overcome my spirit, gasped away in my weakness;
+469	and the breeze from a river blows cold in the early dawn.
+470	But if I climb up the slope to the shady forest
+471	and fall asleep in the thick bushes, in the hope that
+472	the chill and weariness may leave me, and if sweet sleep comes over me,
+473	I fear that I may become the prey and spoil of wild beasts.”
+474	And as he pondered, this seemed to him the better way:
+475	he went to the forest; and he found it near the water
+476	in a place open to view; and he crept under two bushes
+477	that grew from the same spot, one of wild olive, one of olive.
+478	Through these neither the wet might of the blowing winds could pass,
+479	nor did the shining sun ever strike them with its rays,
+480	nor could the rain pass right through them; so thick
+481	they grew, intertwined with one another. Under these Odysseus
+482	crept. And at once with his own hands he heaped up a bed,
+483	a broad one; for there was a litter of leaves in great abundance,
+484	enough to protect two men or three
+485	in the winter season, however hard it might rage.
+486	Much-enduring brilliant Odysseus saw it and rejoiced,
+487	and lay down in the middle of it, and heaped the litter of leaves over himself.
+488	As when a man hides a brand in the black ashes
+489	at the far edge of the fields, where he has no other neighbors,
+490	keeping alive the seed of fire, so that he need not kindle it from elsewhere,
+491	so Odysseus covered himself with the leaves; and Athena
+492	poured sleep on his eyes, so that it might free him as quickly as possible
+493	from his grievous weariness, enfolding his dear eyelids.

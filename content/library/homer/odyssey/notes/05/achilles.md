@@ -1,0 +1,7 @@
+---
+summary: Achilles is not named in the book: he is “the dead son of Peleus”, around whose body the Trojans hurled their spears at Odysseus, and the verse with which Odysseus then foresees a wretched death is Achilles' own in the river (5.310–312).
+---
+
+**The dead son of Peleus.** περὶ Πηλεΐωνι θανόντι, “around the dead son of Peleus” (5.310): περί with the dative is “over”, in defense of the body (see [[peleus]]). The scene is told in the last book, where the shade of Agamemnon tells how the best of the Trojans and the Achaeans were killed fighting over him all day (24.36–42, a plain rendering; Merry, *Commentary on the Odyssey*, 1886, on 5.309; see [[the-fight-over-the-body-of-achilles]] and the translation's note on 5.309–311). Odysseus wishes he had died there: then he would have had his funeral rites and his fame (5.308–311; see [[odysseus]] and [[three-times-blessed]]).
+
+**The verse of the river.** “but now it was fated that I be caught by a wretched death” (5.312) is the verse of Achilles in the Scamander, when he wishes that Hector had killed him, “then a brave man would have been the killer” (*Iliad* 21.279–281; see [[the-swineherd-boy]] and [[achilles-and-the-river]]). Achilles had the death in battle, and with it the funeral and the fame that Odysseus now wishes for (24.43–94). In the underworld Odysseus will call him more blessed than any man before or after, and Achilles will answer that he would rather be a hired laborer on earth than lord over all the dead (11.482–491, a plain rendering; see [[danaans]]).

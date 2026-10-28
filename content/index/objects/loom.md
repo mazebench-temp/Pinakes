@@ -7,7 +7,7 @@ summary: The upright loom (ἱστός) at which the women of a house wove, from
 aliases: [looms]
 grc: [ἱστὸν]
 # ἱστόν at 23.852 is the mast of a ship, set up as a target for the archers.
-except: [1.434, 1.480, 23.852, Od. 2.424, Od. 4.781]
+except: [1.434, 1.480, 23.852, Od. 2.424, Od. 4.781, Od. 5.254, Od. 5.316]
 en: [loom]
 ---
 

@@ -4,7 +4,7 @@ greek: ὀθόναι
 kind: object
 tags: [woman]
 summary: A veil or wrap of fine linen, drawn over the head when a woman went out among men. Homer's other words for a woman's veil are κρήδεμνον and καλύπτρη.
-aliases: [veils, linen, othonai, kredemnon, kalyptre]
+aliases: [veils, linen, othonai, kredemnon, kalyptre, head covering]
 grc: [ὀθόνῃσιν]
 en: [veiled herself, linen]
 ---

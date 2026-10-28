@@ -13,7 +13,7 @@ grc: ["^Καλυψ*"]
 
 ## Etymology
 
-Καλυψώ (Kalypsō), genitive Καλυψοῦς (*Odyssey* 4.557, 5.14). The name belongs with καλύπτω, “cover, hide”, and W. W. Merry glosses it “the concealer” (*Commentary on the Odyssey*, 1886, on 1.52).
+Καλυψώ (Kalypsō), genitive Καλυψοῦς (*Odyssey* 4.557, 5.14). The name belongs with καλύπτω, “cover, hide”, and W. W. Merry glosses it “the concealer” (*Commentary on the Odyssey*, 1886, on 1.52). The Suda explains it the same way: she is “not simple, but hiding what she has in mind”, “for Homer calls her crafty” (Suda κ 273; δολόεσσα, *Odyssey* 7.245).
 
 ## Family
 
@@ -29,7 +29,7 @@ Daughter of [[Atlas]], who knows the depths of the sea and holds the pillars tha
 
 ἐυπλόκαμος, “of the lovely tresses” (*Odyssey* 1.86, 5.30, 5.58, 7.246, 7.255, 12.449), = εὖ (“well”) + πλόκαμος (“lock, braid”); also ἠύκομος, “lovely-haired” (*Odyssey* 8.452, 12.389). Merry sets the two apart: ἐυπλόκαμος points to the beauty of the way her hair is dressed, since πλόκαμοι are ringlets or plaits, as when Hera “plaited the shining tresses” for her meeting with Zeus (on 1.86, comparing *Iliad* 14.176; see [[with-lovely-tresses]]).
 
-δολόεσσα, “crafty” (*Odyssey* 7.245), is said also of Circe (*Odyssey* 9.32), and both goddesses are δεινὴ θεὸς αὐδήεσσα, “a dread goddess with human speech” (*Odyssey* 10.136, 12.449; see [[circe]]).
+δολόεσσα, “crafty” (*Odyssey* 7.245), is said also of Circe (*Odyssey* 9.32), and both goddesses are δεινὴ θεὸς αὐδήεσσα, “a dread goddess with human speech” (*Odyssey* 10.136, 12.449; see [[circe]]). The scholia report that Aristotle wrote αὐλήεσσα, “living in a hall”, of Circe and Calypso, as dwelling alone in their own palaces, and οὐδήεσσα, “earthly”, of Ino; Merry thinks it impossible, since adjectives in -εις express a share in the nature of the noun they come from (Merry's critical note on *Odyssey* 5.334; see [[with-human-voice]]).
 
 {{notes}}
 
@@ -41,4 +41,6 @@ Proteus tells Menelaus that he is held there by force, with no ships or companio
 
 ## Outside Homer
 
-[[hesiod|Hesiod]] counts “lovely Calypso” (ἱμερόεσσα Καλυψώ) among the eldest daughters of Oceanus and Tethys (*Theogony* 359, 362–363; see [[oceanus]] and [[tethys]]), and at the end of the *Theogony* names Nausithous and Nausinous as the sons whom “Calypso, brilliant among goddesses” bore to Odysseus (*Theogony* 1017–1018). In the *Hymn to Demeter* she is one of the companions with whom Persephone was gathering flowers in a meadow when the earth opened and Hades carried her off (*Hymn to Demeter* 417–433).
+[[hesiod|Hesiod]] counts “lovely Calypso” (ἱμερόεσσα Καλυψώ) among the eldest daughters of Oceanus and Tethys (*Theogony* 359, 362–363; see [[oceanus]] and [[tethys]]), and at the end of the *Theogony* names Nausithous and Nausinous as the sons whom “Calypso, brilliant among goddesses” bore to Odysseus (*Theogony* 1017–1018). The Suda gives them another son, Auson, from whom the Sicilian sea was called the Ausonian sea, because he was king there (Suda α 4461). In the *Hymn to Demeter* she is one of the companions with whom Persephone was gathering flowers in a meadow when the earth opened and Hades carried her off (*Hymn to Demeter* 417–433).
+
+Cicero sets the patience of Ulysses against the temper of Ajax: in his long wandering Ulysses served women, “if Circe and Calypso are to be called women”, and wished to be pleasant to everyone in all his talk, while Ajax would rather have met death a thousand times (*On Duties* 1.113; see [[cicero]]). The Latin love poets make her a lover left on the shore, Ovid in the *Art of Love* and Propertius in his first book of elegies (*Art of Love* 2.123–142; *Elegies* 1.15.9–14; see [[calypso-in-ovid-and-propertius]]). Aelian's list of the parts of the Odyssey once sung on their own names “the cave of Calypso” (see [[the-title-of-odyssey-5]]).

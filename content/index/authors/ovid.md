@@ -12,3 +12,5 @@ In *Metamorphoses* 13 Ulysses, contending with Ajax for the arms of Achilles, li
 In *Metamorphoses* 8 Achelous lists the shapes of Proteus, and in Book 11 the “Carpathian seer” tells Peleus to hold Thetis fast through all her changes, as Eidothea tells Menelaus to hold her father in *Odyssey* 4 (*Metamorphoses* 8.730–737, 11.221–256; see [[virgils-proteus]]).
 
 In the first of the *Heroides* Penelope writes to Ulysses after the fall of Troy, of the suitors, her father, Laertes and Telemachus, and gives her web to the nights she cannot sleep (*Heroides* 1.9–10; see [[ovid-penelopes-letter]] and [[penelopes-web-in-later-writers]]).
+
+In the *Art of Love* Calypso keeps asking Ulysses to tell again the fall of Troy, and a wave washes away the Troy he has drawn in the sand (*Art of Love* 2.123–142; see [[calypso-in-ovid-and-propertius]]).

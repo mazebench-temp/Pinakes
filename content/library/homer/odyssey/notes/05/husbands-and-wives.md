@@ -1,0 +1,6 @@
+---
+summary: Calypso protests that the gods begrudge a goddess who “makes a man her dear husband” (5.120), and on the last evening sets her looks against those of “your wife, for whom you yearn always” (5.209–213); Odysseus answers with Penelope's prudence and his longing for home (5.215–220).
+refs: [5.120, 5.208-220]
+---
+
+The marriage of the book is the one Calypso cannot keep. She would have Odysseus for her ἀκοίτης, “husband” (5.120), as the proem said she longed for him “to be her husband” (1.15; see [[posis]] and [[calypso]]). Merry hears irony in her complaint: the gods wink at the amours of goddesses, but will not endure that they raise a mortal to the honorable position of husband (*Commentary on the Odyssey*, 1886, on 5.120; see [[the-jealousy-of-the-gods]]). On the last evening she names his wife as a rival she need not fear: he would stay with her and be immortal, “for all your longing to see / your wife, for whom you yearn always, all your days” (5.208–210; see [[immortality]] and [[eidos]]). He grants Calypso every advantage of looks and stature, and gives his wife one word, περίφρων, “prudent” (5.215–218; see [[penelope]] and [[periphron]]); Merry notes that he says no more of her, and speaks only of his home (on 5.216). That night the two of them lie together in the cave (5.225–227; see [[philotes]]), and on the fifth day he sails.

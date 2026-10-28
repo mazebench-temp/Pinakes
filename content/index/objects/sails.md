@@ -4,7 +4,7 @@ greek: ἱστίον
 kind: object
 tags: [ship, seafaring]
 summary: The sails of a ship, ἱστία, furled on arrival and spread to a following wind.
-aliases: [sail]
+aliases: [sail, rigging, braces, halyards, sheets, speiron]
 grc: [ἱστία, ἱστίον]
 en: [sails, sail]
 ---

@@ -1,0 +1,9 @@
+---
+summary: Hermes finds Calypso at her loom, singing as she walks to and fro and weaves with a golden shuttle (5.61–62); later in the book ἱστός is the mast of the raft (5.254, 5.316).
+---
+
+**The goddess' loom.** When Hermes comes to the cave, a fire is burning on the hearth, “and she within, singing with a lovely voice, / walked to and fro at the loom and wove with a golden shuttle” (5.61–62; see [[calypsos-cave]], [[weaving]] and [[calypso]]). The κερκίς is usually taken for what later Greek called the σπάθη, the wooden rod that strikes the threads of the weft close together; W. W. Merry prefers the shuttle, since Euripides' Hecuba speaks of whirling the κερκίς at the loom, which could not be said of the rod (*Commentary on the Odyssey*, 1886, on 5.62, citing *Trojan Women* 198; see the translation's note on 5.62). The Iliad names the κερκίς once, the shuttle that falls from Andromache's hand when she hears the wailing for Hector (*Iliad* 22.448). Calypso's is golden, as a goddess' things are (see [[gold-and-silver]]).
+
+**Goddesses at the loom.** Circe too is found at her loom, singing with a lovely voice as she walks to and fro at a great immortal loom, “such as the works of goddesses are, fine and lovely and splendid” (10.221–223, 10.254, a plain rendering; see [[circe]]), and in the cave of the Naiads in Ithaca the nymphs weave sea-purple cloth on long looms of stone (13.107–108; see [[nymphs]]). The loom is a woman's work in the houses of men (see the entry); in the houses of Calypso and Circe it is where the visitor finds the goddess.
+
+**Loom and mast.** ἱστός, “the upright”, names both the loom and the mast (see [[mast]]). The book has the word three times: the loom at which Calypso weaves (5.62), the mast that Odysseus sets up in his raft (5.254), and the mast that Poseidon's wave breaks in the middle (5.316). The entry excepts the two masts.

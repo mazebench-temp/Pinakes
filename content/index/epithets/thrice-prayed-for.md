@@ -11,7 +11,7 @@ en: [thrice prayed for]
 
 ## Meaning
 
-τρίλλιστος = τρι- (“three times”) + the root of λίσσομαι (“pray, entreat”; [[supplication]]): “prayed for three times,” that is, again and again. “Three times” is the Greek way of saying “very”: in the Odyssey the Danaans who died at Troy are “three times blessed and four times” (Od. 5.306), and Nausicaa's father, mother and brothers “three times blessed” (Od. 6.154–155). The compound is found only here.
+τρίλλιστος = τρι- (“three times”) + the root of λίσσομαι (“pray, entreat”; [[supplication]]): “prayed for three times,” that is, again and again. “Three times” is the Greek way of saying “very”: in the Odyssey Odysseus calls the Danaans who died at Troy “Three times blessed … and four times” (Od. 5.306), and Nausicaa's father, mother and brothers “three times blessed” (Od. 6.154–155). The compound is found only here.
 
 ## Use
 

@@ -1,0 +1,9 @@
+---
+summary: In Calypso's protest against the jealousy of the gods, Artemis is the goddess who killed Orion, Dawn's lover, in Ortygia: “chaste Artemis of the golden throne / came upon him with her gentle arrows and killed him” (5.123–124).
+---
+
+Calypso's first example: the gods begrudged Dawn her Orion “until in Ortygia chaste Artemis of the golden throne / came upon him with her gentle arrows and killed him” (5.123–124; see [[dawn-and-orion]], [[orion]], [[ortygia]] and [[the-jealousy-of-the-gods]]). Ortygia is her birthplace in the *Hymn to Apollo*, where Leto bore Artemis in Ortygia and Apollo on rocky Delos (*Hymn to Apollo* 16); Merry takes the Ortygia of this verse for Delos itself (*Commentary on the Odyssey*, 1886, on 5.123; see the translation's note on 5.121–124).
+
+**The archer.** The second verse is the verse of Apollo, who comes with Artemis to the people of Syrie when they grow old and kills them with his gentle arrows (15.411, with ἐποιχόμενος). ἀγανοῖς βελέεσσιν, “gentle arrows”, speaks of the painlessness of the death, not of mercy, since an arrow shot in anger is still called gentle (Merry on 5.124; see [[gentle-arrows]]). The rule that men die by the arrows of Apollo and women by those of Artemis is broken here, Merry notes, because she kills Orion not as the goddess of death but from jealousy (on 5.124). Some ancient critics rejected the two verses, since in Homer Artemis never kills men (the scholia, in Merry's critical note).
+
+**Her titles.** χρυσόθρονος, “of the golden throne”, is given to her once in the Iliad (9.533), and otherwise to Hera and to Dawn (see [[golden-throned]]). ἁγνή, “chaste”, is a word of the Odyssey, which gives it to Artemis here and twice in Penelope's words (18.202, 20.71) and once to Persephone (11.386); the Iliad never uses it (see the translation's key-word row).

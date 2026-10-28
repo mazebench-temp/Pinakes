@@ -2,7 +2,7 @@
 title: Fame and the tomb
 kind: theme
 tags: [honor, fate, time]
-summary: A grave mound is a sign that makes men speak. In the Iliad Hector pictures a passer-by at the tomb of the man he killed, keeping his own fame alive; the poem also knows that a mound can outlast every memory of the man beneath it, and that the Achaean wall, built beside a mound, will be swept away. In the Odyssey Telemachus grieves that his father has no tomb at Troy to give him fame.
+summary: A grave mound is a sign that makes men speak. In the Iliad Hector pictures a passer-by at the tomb of the man he killed, keeping his own fame alive; the poem also knows that a mound can outlast every memory of the man beneath it, and that the Achaean wall, built beside a mound, will be swept away. In the Odyssey the man lost at sea has neither tomb nor fame: Telemachus grieves that his father has no tomb at Troy to give him fame, and Odysseus, about to drown, wishes that he had died there.
 aliases: [monuments and memory, the tomb and fame, the passer-by, memorials, the fame of the wall]
 refs: [4.176-182, 7.84-91, 7.336-338, 7.435-437, 7.449-453, 7.458-463]
 passages:

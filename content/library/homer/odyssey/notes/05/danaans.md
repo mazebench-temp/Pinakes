@@ -1,0 +1,5 @@
+---
+summary: In the storm Odysseus calls the Danaans who perished at Troy “Three times blessed … and four times”, since they had their funeral rites and their fame, and he faces a death at sea without either (5.306–311).
+---
+
+“Three times blessed are the Danaans, and four times, who perished then / in wide Troy, doing a favor to the sons of Atreus” (5.306–307; see [[three-times-blessed]], [[troy]] and [[atreidae]]). τότε, “then”, is the time of the war, and these Danaans are its dead: in Phemius' song the evil fate of the Danaans was their homecoming (1.350; see [[the-returns-of-the-achaeans]]), but these fell before the city. τετράκις, “four times”, is found only here in Homer. Odysseus counts them blessed for the death he did not have, on the day of the fight over the dead Achilles, with funeral rites and fame (5.308–311; see [[the-fight-over-the-body-of-achilles]] and [[odysseus]]). The army has two of its names within six verses, the Danaans who perished and the Achaeans who would have spread his fame (5.306, 5.311; see [[achaeans]]).

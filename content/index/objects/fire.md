@@ -41,7 +41,7 @@ Fire has its standing epithets. It is ἀκάματον, “tireless” (5.4, 15
 
 ## Elsewhere in Homer
 
-In the Odyssey fire is kept and carried. Odysseus, cast ashore on Scheria, hides himself under the leaves as a man on a lonely farm hides a firebrand in black ashes, σπέρμα πυρὸς σώζων, “saving the seed of fire”, so that he need not kindle it from elsewhere (*Odyssey* 5.488–491). In the Cyclops' cave he heats the olive stake in the embers until it glows, and he and his companions grind it into the Cyclops' eye (*Odyssey* 9.375–390). Proteus, seized on the shore of Egypt, will try to become everything that creeps on the earth, καὶ ὕδωρ καὶ θεσπιδαὲς πῦρ, “and water and wondrous fire” (*Odyssey* 4.417–418).
+In the Odyssey fire is kept and carried. Odysseus, cast ashore on Scheria, hides himself under the leaves as a man on a lonely farm hides a firebrand in black ashes, σπέρμα πυρὸς σώζων, “keeping alive the seed of fire, so that he need not kindle it from elsewhere” (*Odyssey* 5.488–491). In the Cyclops' cave he heats the olive stake in the embers until it glows, and he and his companions grind it into the Cyclops' eye (*Odyssey* 9.375–390). Proteus, seized on the shore of Egypt, will try to become everything that creeps on the earth, καὶ ὕδωρ καὶ θεσπιδαὲς πῦρ, “and water and wondrous fire” (*Odyssey* 4.417–418).
 
 ## Outside Homer
 

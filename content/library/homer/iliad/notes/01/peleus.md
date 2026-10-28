@@ -1,3 +1,7 @@
+---
+summary: Peleus is named in the poem's first line, through his son, and Achilles remembers hearing his mother's story in his father's halls (1.1, 1.396).
+---
+
 {{quote:4630ecf7-c829-5e61-b61f-793096803b5a}}
 
 Πηληϊάδεω: "of the son of Peleus". The patronymic is the second name in the poem, after the goddess.

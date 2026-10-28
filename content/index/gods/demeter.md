@@ -4,7 +4,9 @@ greek: Δημήτηρ
 kind: god
 tags: [olympian, cronids, woman, mother]
 summary: The goddess of grain and the harvest, daughter of [[Cronus]] and mother of Persephone.
-grc: [Δήμητρος]
+# Δημήτηρ, the nominative, is the goddess wherever it occurs (Od. 5.125; Il. 5.500, which the Iliad's Book 5 note also
+# claims). Δημήτερος (Il. 13.322, 21.76) is claimed by the Iliad's Book 13 note.
+grc: [Δήμητρος, Δημήτηρ]
 ---
 
 ## Etymology
@@ -19,7 +21,7 @@ Pyrasus, among the towns of Protesilaus in Thessaly, is Demeter's τέμενος
 
 ## Elsewhere in Homer
 
-Bread is “the grain of Demeter” (Δημήτερος ἀκτή, Iliad 13.322, 21.76), and in a simile fair-haired Demeter herself separates grain from chaff on the threshing floor (5.499–502). Zeus names her among the goddesses he has loved (14.326; see [[the-loves-of-zeus]]). In the Odyssey she lies with Iasion in a thrice-plowed field, and Zeus kills him with a thunderbolt (5.125–128). Homer never brings her to Olympus or into the action of either poem.
+Bread is “the grain of Demeter” (Δημήτερος ἀκτή, Iliad 13.322, 21.76), and in a simile fair-haired Demeter herself separates grain from chaff on the threshing floor (5.499–502). Zeus names her among the goddesses he has loved (14.326; see [[the-loves-of-zeus]]). In the Odyssey she lies with [[iasion|Iasion]] in a thrice-plowed field, and Zeus kills him with a thunderbolt (*Odyssey* 5.125–128; see [[demeter-and-iasion]]); it is the only time the Odyssey names her. Homer never brings her to Olympus or into the action of either poem.
 
 ## Outside Homer
 

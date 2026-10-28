@@ -13,7 +13,7 @@ passages:
 
 The gods of the Iliad come among men, but men seldom see them as they are. A god may appear to one man and to no one else, as Athena appears to Achilles, “to him alone; none of the others saw her” (1.198). A god may take a mortal's shape: Iris speaks to the Trojans in the voice of Priam's son Polites (2.786–807), Aphrodite comes to Helen as an old wool-worker (3.385–389), and Athena looks for Pandarus in the likeness of Laodocus (4.86–88). A god may go unseen, wrapped in cloud. The poem states the difficulty both ways. Hera says that “gods are hard to face when they appear in plain sight” (χαλεποὶ δὲ θεοὶ φαίνεσθαι ἐναργεῖς, 20.131; see [[gods-are-hard-to-face]]). The lesser Ajax, who has just recognized Poseidon from behind by his feet and legs as he left, says that “gods are easy to know” (ἀρίγνωτοι δὲ θεοί περ, 13.68–72). Helen knows Aphrodite by her neck, her breasts and her eyes (3.396–398). Recognition usually comes late, when the god is leaving or lets the disguise slip.
 
-## Book 5: god and man
+## Iliad 5: god and man
 
 *Iliad* 5 makes recognition its subject. After Diomedes' prayer Athena gives him a new kind of sight:
 

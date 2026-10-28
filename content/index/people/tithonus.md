@@ -21,7 +21,7 @@ passages:
 
 ## Etymology
 
-Τιθωνός (Tithōnos). The name has no agreed etymology.
+Τιθωνός (Tithōnos). The name has no agreed etymology. Merry connects it with Τιτώ, a name that Lycophron, following [[callimachus|Callimachus]], gives to Dawn herself (*Alexandra* 941, as Merry reports it; Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 5.1).
 
 ## Family
 

@@ -7,7 +7,7 @@ order: 1
 mode: told
 narrator: nestor
 tags: [seafaring, anger, divine-will]
-summary: The Achaeans' homecoming from Troy was grim. Athena's anger set the sons of Atreus at odds and storms scattered the fleet; Nestor and Diomedes came home quickly, Locrian Ajax drowned, Menelaus wandered for years by way of Egypt, and Agamemnon came home to be murdered, while Odysseus alone was still kept far away. Phemius sings it in the first book of the Odyssey, and Nestor and Menelaus tell it to Telemachus.
+summary: The Achaeans' homecoming from Troy was grim. Athena's anger set the sons of Atreus at odds and storms scattered the fleet; Nestor and Diomedes came home quickly, Locrian Ajax drowned, Menelaus wandered for years by way of Egypt, and Agamemnon came home to be murdered, while Odysseus alone was still kept far away. Phemius sings it in the first book of the Odyssey, Nestor and Menelaus tell it to Telemachus, and Hermes sums it up for Calypso.
 aliases: [the homecoming of the Achaeans, the grim homecoming, the returns from Troy]
 participants: [athena, zeus, poseidon, agamemnon, menelaus, nestor, diomedes, ajax-son-of-oileus, idomeneus, neoptolemus, philoctetes, odysseus]
 ---

@@ -1,0 +1,6 @@
+---
+summary: Calypso swears that her heart “is not of iron, but full of pity” (5.191); Ino “pitied Odysseus as he wandered, suffering sorrows” (5.336); and Odysseus ends his prayer to the river, “But pity me, lord; I claim to be your suppliant” (5.450).
+grc: [ἐλεήμων]
+---
+
+The pity of the book is the pity of gods for a man at sea. Calypso ends her oath by setting her own temper against that of the gods who have ordered his departure (Merry, *Commentary on the Odyssey*, 1886, on 5.190): “for my mind too is right, and my own heart / in my breast is not of iron, but full of pity” (5.190–191; see [[aisa]] and [[oath]]). A heart of iron is the Iliad's image for one that no prayer moves, as the dying Hector finds Achilles' (*Iliad* 22.357; see [[iron]] and [[not-stone-or-iron]]); ἐλεήμων, “full of pity”, is found only here in Homer. Ino sees him on the raft and pities him (5.336; see [[leucothea]]), and her pity is a gift, the immortal veil that will keep him from drowning (5.346–347). At the river's mouth he makes pity the last request of his prayer, and the god stops his stream and brings him in (5.450–453; see [[a-suppliant-is-respected-by-the-gods]] and [[supplication]]). In Book 1 the pity of all the gods but Poseidon set the council going (1.19–20); here Poseidon raises the storm, and the pity of others brings Odysseus through it (see [[poseidon]]).

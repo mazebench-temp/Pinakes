@@ -17,7 +17,7 @@ The hawk is a hunter of smaller birds. Its prey in the similes is the dove, whic
 
 Its speed makes it a likeness for gods. Poseidon leaves the two Ajaxes “as a swift-winged hawk flies, that rises from a sheer and towering rock, and darts across the plain to chase some other bird” (13.62–65; see [[the-hawk-from-the-rock]]). Apollo goes down from the mountains of Ida like a swift hawk, the dove-killer (15.237–238), and Thetis leaps down from snowy Olympus like a hawk, carrying the armor Hephaestus made (18.616–617). It is a likeness for heroes in their onset: Patroclus charges the Lycians like a swift hawk (16.582–584). And it is the measure of speed. Ajax tells Hector that the time is near when, in flight, he will pray that his fine-maned horses “may be swifter than hawks” (13.817–820), and in the Odyssey not even a hawk could keep pace with the ship of the Phaeacians (*Odyssey* 13.86–88).
 
-The bird of omen that flies by on the right as Telemachus lands on Ithaca, tearing a dove, is not the ἴρηξ but the κίρκος, “Apollo's swift messenger” (*Odyssey* 15.525–534; see [[falcon]]). Hawks roost with owls and sea crows in the trees around Calypso's cave (*Odyssey* 5.65–67). See [[birds]] and [[eagle]].
+The bird of omen that flies by on the right as Telemachus lands on Ithaca, tearing a dove, is not the ἴρηξ but the κίρκος, “Apollo's swift messenger” (*Odyssey* 15.525–534; see [[falcon]]). Hawks roost with owls and sea crows in the trees around Calypso's cave (*Odyssey* 5.65–67; see [[calypsos-cave]]). See [[birds]] and [[eagle]].
 
 ## Outside Homer
 

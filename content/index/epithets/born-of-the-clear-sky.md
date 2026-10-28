@@ -3,7 +3,7 @@ title: Born of the clear sky
 greek: αἰθρηγενής
 kind: epithet
 tags: [divine-epithet, rare-word]
-summary: “Born of the clear sky,” an epithet of Boreas, the North Wind, the wind of clear, cold weather, in a verse of snow and hail used twice in the Iliad.
+summary: “Born of the clear sky,” αἰθρηγενής and αἰθρηγενέτης, epithets of Boreas, the North Wind, the wind of clear, cold weather: twice in the Iliad, in a verse of snow and hail, and once in the Odyssey, among the winds of the storm that breaks Odysseus' raft.
 aliases: [aithregenes, aithregenetes]
 grc: [αἰθρηγενέος]
 en: [born of the clear sky]

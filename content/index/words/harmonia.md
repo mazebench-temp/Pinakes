@@ -1,10 +1,10 @@
 ---
-title: Melody
+title: Joining, melody
 greek: ἁρμονία
 kind: term
-tags: [music, imitation]
-summary: ἁρμονία, the fitting together of notes, melody or tuning: with rhythm and speech one of the media of imitation.
-aliases: [harmonia, harmony, melody, mode, tuning]
+tags: [music, imitation, ship]
+summary: ἁρμονία, a fitting together: in Homer the fastenings that hold Odysseus' raft together and an agreement between enemies; in music the fitting together of notes, melody or tuning, which Aristotle names with rhythm and speech among the media of imitation.
+aliases: [harmonia, harmony, melody, mode, tuning, fastening, fastenings, joint]
 ---
 
 ## Meaning

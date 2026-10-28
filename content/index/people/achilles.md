@@ -79,7 +79,7 @@ See [[death-of-achilles-foretold]].
 
 ## Elsewhere in Homer
 
-Later books of the Iliad tell more. Phoenix raised him (9.485–495) and Chiron taught him medicine (11.831–832). His mother has told him of two fates, a long life at home without fame or a short one at Troy whose fame will be imperishable (9.410–416; see [[the-two-fates-of-achilles]]). He dies at the Scaean gates, killed by Paris and Apollo, as the dying Hector foretells (22.359–360). Homer's Achilles can be wounded: Asteropaeus grazes his forearm (21.166–167), and Agenor reminds himself that his flesh can be pierced and that he has one life (21.568–570). His invulnerability is a later legend (Walter Leaf, *Commentary on the Iliad*, 1900, on 21.568).
+Later books of the Iliad tell more. Phoenix raised him (9.485–495) and Chiron taught him medicine (11.831–832). His mother has told him of two fates, a long life at home without fame or a short one at Troy whose fame will be imperishable (9.410–416; see [[the-two-fates-of-achilles]]). He dies at the Scaean gates, killed by Paris and Apollo, as the dying Hector foretells (22.359–360). Homer's Achilles can be wounded: Asteropaeus grazes his forearm (21.166–167), and Agenor reminds himself that his flesh can be pierced and that he has one life (21.568–570). His invulnerability is a later legend (Walter Leaf, *Commentary on the Iliad*, 1900, on 21.568). In the Odyssey the shade of Agamemnon tells the shade of Achilles how the best of the Trojans and the Achaeans fought around his body all day, and how he was mourned and buried (*Odyssey* 24.36–94; see [[the-fight-over-the-body-of-achilles]]).
 
 ## Outside Homer
 

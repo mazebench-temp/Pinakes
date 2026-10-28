@@ -3,7 +3,7 @@ title: “No man can hold back the mind of Zeus”
 greek: ἀνὴρ δέ κεν οὔ τι Διὸς νόον εἰρύσσαιτο
 kind: saying
 tags: [divine-will, warfare]
-summary: Nestor's counsel to Diomedes when Zeus' thunderbolt falls before their horses: Zeus grants glory to Hector today, and another day, if he wishes, to them, and no man, however mighty, can hold back the mind of Zeus, “since he is far the stronger”. Poseidon gives Hera the same reason, and the narrator and Hector state the rule again in later books.
+summary: Nestor's counsel to Diomedes when Zeus' thunderbolt falls before their horses: Zeus grants glory to Hector today, and another day, if he wishes, to them, and no man, however mighty, can hold back the mind of Zeus, “since he is far the stronger”. Poseidon gives Hera the same reason, and the narrator and Hector state the rule again in later books of the Iliad; in the Odyssey Hermes tells Calypso that no other god can evade the mind of Zeus, and she yields in the same words.
 aliases: [the mind of Zeus, the mind of Zeus is stronger, since he is far the stronger, Dios noos]
 grc: ["Διὸς νόον εἰρύσσαιτο"]
 en: [No man can hold back the mind]

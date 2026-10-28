@@ -1,0 +1,15 @@
+---
+summary: Zeus sends Hermes to Calypso with the half-verse with which he sends him to Priam in the Iliad. Hermes arms and flies in the Iliad's verses, finds the nymph in her cave at her loom, is seated and fed, and gives the message only when asked, in his own words and not in Zeus': he leaves out the raft and the Phaeacians. Calypso protests and obeys, and he goes.
+passages:
+  - 5.28-148 | Hermes' errand to Calypso
+---
+
+**The sending.** “He spoke, and said to Hermes, his dear son, face to face” (5.28): the second half of the verse is Zeus' when he sends Hermes to Priam (*Iliad* 24.333), and the arming and the flight that follow are the Iliad's verses too (5.43–49 = *Iliad* 24.339–345; see [[hermes]]). The message is the one Athena proposed at the first council, now enlarged by Zeus: the homecoming on a raft, without escort, to Scheria on the twentieth day (5.29–42; 1.84–87; see [[the-council-of-the-gods]] and the note on Book 1).
+
+**The finding.** He comes to the island and the cave and finds the nymph within: τὴν δʼ ἔνδοθι τέτμεν ἐοῦσαν, “and he found her within” (5.58), singing at her loom (5.61–62); the man he has come about he does not find there, οὐδʼ ἄρʼ Ὀδυσσῆα μεγαλήτορα ἔνδον ἔτετμεν, “But great-hearted Odysseus he did not find within” (5.81). Merry: Hermes did not, as one might have thought, find Odysseus there (on 5.81). Odysseus is weeping on the shore.
+
+**Reception before the message.** The messenger is a guest. Calypso seats him on a shining throne and asks why he has come (5.86–90), and the message waits until he has eaten and drunk: “But when he had dined and satisfied his heart with food, / then at last he answered her with words and said” (5.95–96; see [[xenia]] and [[feast-type-scene]]). The verse that invites him in, “But come farther in, so that I may set good cheer before you” (5.91 = *Iliad* 18.387), is wanting in the best manuscripts and does not fit a guest already seated (Merry's critical note; see the translation's note on 5.91).
+
+**The message in his own words.** Messages in Homer are usually delivered in the sender's words (see the general article), and Merry cites Hermann's canon that this is one of the two kinds of repetition Homer allows (on 5.7). Hermes does not repeat Zeus' speech. He begins with his own reluctance and the length of the journey (5.97–104), sums up the returns from Troy (5.105–111), and gives the order as a report, “This man he bade you now send away with all speed” (5.112). Only the verses of fate come back from Zeus' speech (5.113–115, as 5.41–42). The raft, the absence of escort, the twentieth day, Scheria and the Phaeacians (5.32–40) are left out, and Calypso, who says she has no ships to send him in, devises the raft herself (5.140–142, 5.162–164; see [[raft]]).
+
+**The answer and the return.** Calypso answers with a protest and yields (5.118–144; see [[the-jealousy-of-the-gods]]); Hermes adds a warning, “have regard for the wrath of Zeus” (5.146), and goes (5.148). The message has reached her: she goes to Odysseus “since she had heard the messages of Zeus” (5.150).

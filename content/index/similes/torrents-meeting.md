@@ -8,6 +8,8 @@ aliases: [like winter torrents, the torrents, two torrents meeting]
 grc: [χείμαρροι ποταμοὶ, μισγάγκειαν, μισγομένων]
 en: [winter torrents, where two valleys meet, from their mingling]
 of: [trojans, achaeans]
+# μισγομένων at Od. 5.317 is the winds clashing in the storm
+except: [Od. 5.317]
 ---
 
 ## The simile

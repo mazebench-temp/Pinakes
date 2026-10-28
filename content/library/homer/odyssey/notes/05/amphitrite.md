@@ -1,0 +1,5 @@
+---
+summary: On the rocks of Scheria, Odysseus fears that a god may send against him “some great sea monster … / out of the sea, such as famous Amphitrite breeds in great numbers” (5.421–422).
+---
+
+Odysseus, swimming off the cliffs of Scheria, weighs his two dangers: if he swims on along the shore, the storm may carry him out again over the fish-filled sea, “or a god may even send some great sea monster against me / out of the sea, such as famous Amphitrite breeds in great numbers; / for I know how the famous shaker of the earth is angry with me” (5.420–423; see [[sea-beasts]] and [[poseidon]]). As in Book 3 she is the sea itself rather than a person, the sea that rears its creatures (3.91; see the general article), and the god Odysseus fears is Poseidon, named in the next verse. κλυτός, “famous”, is masculine in form, and the next verse gives Poseidon the same word, κλυτὸς ἐννοσίγαιος (see [[famous]]). ἐξ ἁλός, “out of the sea”, Merry takes of the water by the shore, where such monsters haunt the rocks and caverns of the coast; Aristarchus wrote εἰν ἁλί (*Commentary on the Odyssey*, 1886, on 5.422 and his critical note; see the translation's note on 5.422).

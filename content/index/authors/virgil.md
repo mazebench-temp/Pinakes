@@ -21,4 +21,7 @@ The first half of the *Aeneid* follows the Odyssey, the wanderings of a hero aft
 - Jupiter, who could not save his son Sarpedon, consoling Hercules for Pallas: [[jupiter-and-sarpedon]];
 - Aethon, the war-horse that weeps in Pallas' funeral procession, as the horses of Achilles weep for Patroclus: [[virgils-weeping-horse]];
 - Venus asking Vulcan for arms for her son, as Thetis asked Hephaestus, and the shield of Aeneas with the history of Rome: [[virgil-shield-of-aeneas]];
+- Mercury sent to Carthage with Jupiter's command, binding on the golden sandals and taking the wand, as Hermes when Zeus sends him to Calypso: [[virgils-mercury]];
+- the storm that opens the *Aeneid*, with Aeneas' cry that those who died beneath the walls of Troy were three and four times blessed, as Odysseus cries on his raft: [[virgils-storm]];
+- the helmsman Palinurus, who watches the stars, is thrown overboard with the tiller and swims to Italy, as Odysseus swims to Scheria: [[virgils-palinurus]];
 - in the fourth book of the *Georgics*, the capture of Proteus among his seals, retold for the shepherd Aristaeus and his lost bees: [[virgils-proteus]].

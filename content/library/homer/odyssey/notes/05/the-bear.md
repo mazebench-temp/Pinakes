@@ -1,0 +1,17 @@
+---
+summary: The Bear is the star by which Odysseus steers his raft from Calypso's island, keeping it on his left hand as she bade him, in the three verses that describe it on the Shield of Achilles (5.270–277).
+# 5.274-277 describe the Bear and Calypso's instruction without naming it.
+refs: [5.274, 5.275, 5.276, 5.277]
+passages:
+  - 5.270-277 | Odysseus steers by the stars
+---
+
+{{quote:c270d5ba-7478-547c-b59c-e32a86badbbd}}
+
+**The steersman's star.** The verses on the Bear are those of the Shield (5.273–275 = *Iliad* 18.487–489), and the text here prints ἄμαξαν, “wagon”, where the Iliad has the name Ἄμαξα (see the translation's note on 5.273–275). On the Shield they end the list of the stars that Hephaestus made; here they are the end of an instruction: “For this was the one Calypso, brilliant among goddesses, had bidden him / keep on his left hand as he crossed the sea” (5.276–277; see [[calypso]]). The Bear that never sets is in the sky all night, and so it is the star to steer by. With it on his left hand Odysseus sails east; W. W. Merry supposes the season to be about the autumn equinox, when near midnight Boötes would be setting in the north-west and the Pleiades rising in the south-east, with Orion an hour or two after them (*Commentary on the Odyssey*, 1886, on 5.273; see [[bootes]], [[pleiades]] and [[orion]]). The course lasts seventeen days: “For seventeen days he sailed, crossing the sea, / and on the eighteenth there appeared the shadowy mountains / of the land of the Phaeacians” (5.278–280; see [[scheria]]). For the old objection to “alone”, and Aristotle's answer, see [[alone-without-a-share]].
+
+**On his left hand.** ἐπʼ ἀριστερὰ χειρός, “on his left hand”, is found with χειρός only here in Homer; elsewhere ἐπʼ ἀριστερά stands alone or with the genitive of a place, as of the battle or the ships. Merry thinks that χειρός may refer, picturesquely, to the hand of the steersman, as a center from which the directions seem to spread (on 5.277). A variant has νηός, “of the ship”, which Nauck adopts (Merry's critical note on 5.277; see the translation's note on 5.277).
+
+**The Bear and the hunter.** The Bear “turns in its place and watches Orion” (5.274). δοκεύει is the watching of a hound that keeps its eye on a boar or a lion as it wheels (*Iliad* 8.340); the Bear stands at bay. Merry calls it a picturesque way of representing the revolutions of the two constellations in concentric circles, the Bear moving in the lesser, though in fact their circles are not so near together as the language suggests; from its “turning in its place” the Bear was also called Helice, and Merry quotes Manilius, *Arctos et Orion adversis frontibus ibant*, “the Bear and Orion went with their faces turned against each other” (*Astronomica* 1.502; Merry on 5.273). The Bear, its head turned toward the rising Orion, seems to the poet to be looking at the hunter who has appeared in the sky (on 5.273).
+
+**Without sleep.** All night Odysseus sits at the steering oar, “and sleep did not fall on his eyelids / as he watched” the stars (5.271–272; see [[steering-oar]] and [[hypnos]]). The same steersman, sailing home from Aeolus with his own hand always on the sheet, will keep awake for nine days and nights and fall asleep on the tenth, when Ithaca is already in sight (10.28–33, a plain rendering). Virgil gives the same watch to Aeneas' helmsman Palinurus (see [[virgils-palinurus]]).

@@ -9,7 +9,7 @@ grc: [δῖαν]
 # Ἠῶ δῖαν, "brilliant Dawn" (9.240, 9.662, 11.723, 18.255), belongs to brilliant.
 # δῖαν at 21.43 is shining Arisbe.
 # χθόνα δῖαν at 24.532 is the shining earth.
-except: [9.240, 9.662, 11.723, 18.255, 21.43, 24.532]
+except: [9.240, 9.662, 11.723, 18.255, 21.43, 24.532, Od. 5.20]
 en: [shining]
 of: [sea]
 ---

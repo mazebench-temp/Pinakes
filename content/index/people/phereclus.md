@@ -16,7 +16,7 @@ passages:
 
 {{quote:9906a6ab-fb26-5b59-8bab-d82d9ba5c3f5}}
 
-**A family of builders.** τέκτονος υἱὸν Ἁρμονίδεω: Phereclus is the son of a τέκτων, a builder or worker in wood, who is himself the son of Harmon. Some take Τέκτων as a name, “son of Tecton, son of Harmon”. The names suit the craft: τέκτων is “builder”, and Harmon's name belongs with ἁρμονίη, “joint, fastening”, the word for the joints with which Odysseus fastens his raft (Od. 5.248, 5.361). Φέρεκλος may be “bringer of fame” (φέρω + κλέος). See [[harmon]].
+**A family of builders.** τέκτονος υἱὸν Ἁρμονίδεω: Phereclus is the son of a τέκτων, a builder or worker in wood, who is himself the son of Harmon. Some take Τέκτων as a name, “son of Tecton, son of Harmon”. The names suit the craft: τέκτων is “builder”, and Harmon's name belongs with ἁρμονίη, “joint, fastening”, the word for the joints with which Odysseus fastens his raft (*Odyssey* 5.248, 5.361). Φέρεκλος may be “bringer of fame” (φέρω + κλέος). See [[harmon]].
 
 He “knew how to make with his hands every kind of intricate work” (δαίδαλα πάντα), “for Pallas Athena loved him above all others” (5.60–61). Athena is the patron of craftsmen. A simile of *Iliad* 15 has a carpenter “who knows / well all his craft by the promptings of Athena” (15.411–412), and in the Odyssey Hephaestus and Athena teach the goldsmith his art (Od. 6.232–234). Troy had such men: Alexander built his own house with “the men who were then the best builders in deep-soiled Troy” (6.314–315).
 

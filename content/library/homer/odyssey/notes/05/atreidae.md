@@ -1,0 +1,5 @@
+---
+summary: Odysseus calls blessed the Danaans who perished at Troy “doing a favor to the sons of Atreus” (5.307): the war as a service done to the two brothers.
+---
+
+χάριν Ἀτρεΐδῃσι φέροντες, “doing a favor to the sons of Atreus” (5.307; see [[danaans]]): χάριν φέρειν is to do someone a favor (see [[charis]]). In the Iliad Achilles tells Phoenix not to confuse his heart with weeping “to do a favor to the hero son of Atreus” (*Iliad* 9.612–613), and he had said as much to Agamemnon himself, that the army followed him to Troy “to please you, / to win satisfaction for Menelaus—and for you, dog-face— / from the Trojans” (*Iliad* 1.158–160; see [[quarrel-of-achilles-and-agamemnon]]). Nestor says that the men who turned back from Tenedos with Odysseus went “to do a kindness once more to Agamemnon” (ἦρα φέροντες, 3.164; see [[the-departure-of-the-greeks]]). Here the brothers are named together, in the dative plural Ἀτρεΐδῃσι, as when Athena “set strife between the two sons of Atreus” (3.136; see [[menelaus]] and [[agamemnon]]).

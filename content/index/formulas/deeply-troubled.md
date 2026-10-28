@@ -3,7 +3,7 @@ title: Deeply troubled
 greek: μέγ’ ὀχθήσας
 kind: formula
 tags: [speech-formula, mind]
-summary: “Deeply troubled”, μέγʼ ὀχθήσας: the participle of vexation that introduces a reluctant or indignant answer, spoken in the Iliad by Zeus, Poseidon, Achilles and Menelaus, and in the Odyssey by Menelaus and by Eumaeus.
+summary: “Deeply troubled”, μέγʼ ὀχθήσας: the participle of vexation that introduces a reluctant or indignant answer, spoken in the Iliad by Zeus, Poseidon, Achilles and Menelaus, and in the Odyssey by Menelaus and by Eumaeus; without μέγα, in the whole verse ὀχθήσας δʼ ἄρα εἶπε πρὸς ὃν μεγαλήτορα θυμόν, it introduces a soliloquy, seven times in the Iliad and four in the Odyssey.
 aliases: [meg ochthesas, deeply vexed]
 grc: [μέγʼ ὀχθήσας]
 en: [Deeply troubled]

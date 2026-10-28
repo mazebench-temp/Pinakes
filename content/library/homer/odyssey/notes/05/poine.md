@@ -1,0 +1,5 @@
+---
+summary: Zeus reminds Athena that it was her own plan “that Odysseus should come and take vengeance on those men” (5.24).
+---
+
+The vengeance on the suitors enters the second council as Athena's plan: “Was it not you yourself who devised this plan, / that Odysseus should come and take vengeance on those men?” (ὡς ἦ τοι κείνους Ὀδυσεὺς ἀποτίσεται ἐλθών, 5.23–24; see [[noos]], [[the-suitors]] and [[the-council-of-the-gods]]). Athena had not spoken of it at the first council, where she spoke only of his return; the thought is first Nestor's, “Who knows if he will come someday and take vengeance on them for their violence” (3.216), and Teiresias will foretell it to Odysseus in the same words (11.118; Merry, *Commentary on the Odyssey*, 1886, on 5.23–24; see the translation's note on 5.23–24). In Book 1 the stranger had left it on the knees of the gods, “whether he will return and take vengeance, or not” (1.267–268; see [[on-the-knees-of-the-gods]]); here Zeus speaks of it as decided, and he will ask Athena the same question in the same two verses at the end of the poem (24.479–480).

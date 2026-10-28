@@ -32,6 +32,8 @@ He is the son of Laertes, whose name he carries in his patronymic, Λαερτι�
 
 πολύμητις = πολύς (much) + μῆτις (cunning, counsel): of many wiles. It is his standing epithet in both poems, and in the first book of the Iliad it is used of him twice, both times when he takes charge (1.311, 1.440; see [[of-many-wiles]]).
 
+πολύτλας, “much-enduring”, is his in both poems in the formula πολύτλας δῖος Ὀδυσσεύς, “much-enduring brilliant Odysseus” (8.97; *Odyssey* 5.171 and often; see [[much-enduring]]).
+
 The Odyssey's first verse calls him πολύτροπος, “of many turns”, a word that Homer uses only of him, here and once more, when Circe knows him (*Odyssey* 1.1, 10.330; see [[of-many-turns]] and the Odyssey translation's note on 1.1).
 
 {{notes}}

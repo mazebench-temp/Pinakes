@@ -4,11 +4,11 @@ greek: ἱστός
 kind: object
 tags: [ship, seafaring]
 summary: The mast of a ship, ἱστός, “the upright”, which a Homeric crew lowered into its crutch to row into harbor and set up again to sail. The same word names the upright loom.
-aliases: [masts]
+aliases: [masts, yard, epikrion]
 grc: [ἱστὸν]
 # ἱστόν at 22.440 is Andromache's loom.
 # ἱστόν at Od. 1.357, 2.94, 2.104 and 2.109 is the loom (the web); ἱστὸν at Od. 2.424 is the mast.
-except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109]
+except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109, Od. 5.62]
 en: [mast]
 ---
 

@@ -1,0 +1,7 @@
+---
+summary: The coast of Scheria where Odysseus comes in from the sea has “no harbors to hold ships, nor roadsteads” (5.404), and he swims along it looking for “beaches where the waves strike slanting, and harbors of the sea” (5.418 = 5.440).
+# λιμένες (5.404), first met in the Odyssey in Book 4 (4.846) and claimed only now; again 13.195.
+grc: [λιμένες]
+---
+
+“For there were no harbors to hold ships, nor roadsteads, / but there were jutting headlands and reefs and crags” (5.404–405; see [[shore]] and [[scheria]]). λιμένες νηῶν ὄχοι are harbors that hold ships, and ἐπιωγαί, a word found only here, are not harbors, W. W. Merry explains, but roadsteads, where ships might lie under the lee of the land; the scholia explain them as places where the waves or the wind are broken, which Merry accepts, while he rejects their derivation from ἰωή, “the roar”, and ἄγνυμι, “break”, for ἄγνυμι alone, as in κυματωγή (*Commentary on the Odyssey*, 1886, on 5.404; see the translation's note on 5.404–405). What Odysseus looks for is a beach or a harbor: “beaches where the waves strike slanting, and harbors of the sea” (5.418 = 5.440). He finds instead the mouth of a river, “smooth, free of rocks, and there was shelter from the wind” (5.441–443; see [[rivers]]), the shelter that a harbor would have given. The land of the Phaeacians, which has no harbor where he lands, is known in the next book for its harbors on either side of the city (6.263, a plain rendering; see [[phaeacians]]).

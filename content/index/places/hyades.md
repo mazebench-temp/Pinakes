@@ -13,7 +13,7 @@ en: [Hyades]
 
 {{quote:28b36646-3452-5c0b-bcd0-801e7ec51533}}
 
-The Hyades are named only here in Homer, between the Pleiades and Orion (18.486; see [[pleiades]], [[orion]] and [[sky]]). The Odyssey's list of the stars by which Odysseus steers leaves them out (*Odyssey* 5.272–275). Walter Leaf reports that the name is usually explained as “the rainy stars” of autumn, as if from ὕω, “rain”, but thinks it more probable that they are the same as the Latin *suculae*, “the litter of pigs”, as if from ὗς, “pig” (*Commentary on the Iliad*, 1900, on 18.486).
+The Hyades are named only here in Homer, between the Pleiades and Orion (18.486; see [[pleiades]], [[orion]] and [[sky]]). The Odyssey's list of the stars by which Odysseus steers leaves them out, and names Boötes in their place (*Odyssey* 5.272–275; see [[bootes]]). Walter Leaf reports that the name is usually explained as “the rainy stars” of autumn, as if from ὕω, “rain”, but thinks it more probable that they are the same as the Latin *suculae*, “the litter of pigs”, as if from ὗς, “pig” (*Commentary on the Iliad*, 1900, on 18.486).
 
 ## Outside Homer
 

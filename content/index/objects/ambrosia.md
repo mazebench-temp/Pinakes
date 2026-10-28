@@ -5,7 +5,9 @@ kind: object
 tags: [divine-object]
 summary: The food and ointment of the gods, which their horses eat too, and the adjective ἀμβρόσιος, “ambrosial, immortal”, used of the things that belong to them.
 aliases: [ambrosial]
-grc: [ἀμβρόσιαι]
+# ἀμβροσίης, the genitive of the noun (Od. 5.93, 9.359), has no other sense; ἀμβροσίην is also the ambrosial night
+# (νύκτα διʼ ἀμβροσίην), so the Odyssey notes claim it only in phrases.
+grc: [ἀμβρόσιαι, ἀμβροσίης]
 en: [ambrosial]
 ---
 

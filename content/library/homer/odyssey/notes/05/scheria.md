@@ -1,0 +1,25 @@
+---
+summary: Zeus names deep-soiled Scheria, the land of the Phaeacians, as the goal of the raft, to be reached on the twentieth day (5.34–35); on the eighteenth day of the voyage its mountains rise “like a shield on the misty sea” (5.279–281), and after the storm Odysseus swims along a coast of reefs and sheer rock until he finds the mouth of a river (5.392–453).
+# Lines that speak of the land without naming it: "the land of the Phaeacians" (5.35, 5.280, 5.288, 5.345), the
+# refuge (5.359), the land seen from the wave and longed for (5.392, 5.398, 5.408), the earth he kisses (5.463).
+refs: [5.35, 5.280, 5.288, 5.345, 5.359, 5.392, 5.398, 5.408, 5.463]
+passages:
+  - 5.279-281 | The land like a shield
+  - 5.400-443 | The coast of Scheria
+---
+
+**The goal of the raft.** Zeus' command to Hermes lays out the whole voyage before it begins (5.29–42): no escort of gods or men, a raft, and “on the twentieth day he may reach deep-soiled Scheria, / the land of the Phaeacians, who are near kin to the gods” (5.34–35; see [[raft]], [[deep-soiled]], [[phaeacians]] and [[near-kin-to-the-gods]]). ἵκοιτό κε is an optative with κε, not a future, because his safe arrival hangs on many chances, as in Teiresias' words of the return (11.104, 11.111; Merry, *Commentary on the Odyssey*, 1886, on 5.34); the commoner texts left out κε (see the translation's note on 5.34). The day is kept. Odysseus sails on the fifth day after Hermes' visit and is seventeen days at sea; on the eighteenth the land appears and the storm breaks, and if that day is the first of his “two nights and two days” in the water, the third day, on which he comes ashore, is the twentieth since he set sail (5.263, 5.278–279, 5.388–390).
+
+**The land like a shield.** The first sight of it comes at the end of the calm voyage:
+
+{{quote:2c8ae76a-4a94-58fc-9e24-68e7cc078819}}
+
+ὅθι τε is “at the part where the land lay nearest to him” (Merry on 5.280; see [[shadowy-mountains]]). In the likeness, ῥινός is the oxhide of a shield: the low land along the shore makes its rim, the mountains rising inland its boss. Aristarchus is said to have read ἐρινόν, “a fig”, and the scholia explain ῥινόν as “mist”, which Merry calls a makeshift; he would read ὥς τε ῥινόν (Merry on 5.281 and his critical note; see the translation's note on 5.281 and [[misty]]). From the mountains of the Solymi Poseidon sees him “near the land of the Phaeacians, where it is his lot / to escape the great bounds of the misery that has come upon him” (5.288–289; see [[poseidon]] and [[solymi]]), and his anger blazes up again because the land would put Odysseus almost out of the sea god's reach (Merry on 5.284). Ino gives the same promise, “to the land of the Phaeacians, where it is your fate to escape” (5.345; see [[leucothea]]), and Odysseus, doubting her, remembers that he saw “the land where she said there was a refuge for me” (5.359).
+
+**The coast.** On the third day, lifted by a wave, he sees the land near at hand, as welcome as a father's recovery to his children (5.392–399; see [[the-fathers-recovery]]). The coast he swims to has no landing place. He hears the roar of the sea on the reefs, where the great wave roars against the dry land and everything is wrapped in foam (5.400–403):
+
+{{quote:a8f26f44-5ed5-5698-a7f7-8442463e3284}}
+
+ἐπιωγαί are not harbors but roadsteads, where ships may lie under the lee of the land; ἀκταί are headlands, high bluff cliffs, and σπιλάδες, as the scholia explain them, jagged points of broken rock (Merry on 5.404–405; see [[harbor]] and [[shore]]). Odysseus describes it to himself: “for outside are sharp crags, and around them the wave / roars and surges, and the rock runs up sheer, / and the sea is deep close in” (5.411–413). ἔκτοσθεν seems to imply an outlying range of rocks on which the surf breaks, with deep water inside it and a sheer face of cliff (Merry on 5.411). If he swims on to look for “beaches where the waves strike slanting, and harbors of the sea” (5.418 = 5.440), he fears that the storm may carry him off again or a god send a sea monster against him (5.417–422; see [[sea-beasts]] and [[amphitrite]]). A great wave carries him onto “the rugged shore” (5.425), and only Athena's counsel saves him there (5.426–437; see [[athena]] and [[the-octopus]]).
+
+**The river.** Swimming along outside the surf, he comes to “the mouth of a fair-flowing river”, “where the place seemed to him the best, / smooth, free of rocks, and there was shelter from the wind” (5.441–443; see [[the-river-of-scheria]] and [[rivers]]). λεῖος πετράων is “smooth of all rocks”, that is, free of them (Merry on 5.443). Odysseus uses the same verse when he tells Arete how he came to the river (7.282), and Nausicaa bids her maids bathe him in the river “where there is shelter from the wind” (6.210, a plain rendering). Out of the river he kisses “the grain-giving earth” (5.463; see [[grain-giving]]) and climbs to the forest near the water, where a wild olive and an olive grow ἐξ ὁμόθεν, “from the same spot”, or even “from the same root”, Merry suggests, “as Phaeacia was a land of marvel” (5.475–477; Merry on 5.477; see [[olive]]).

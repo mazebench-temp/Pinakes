@@ -1,0 +1,7 @@
+---
+summary: Odysseus hammers his raft together “with pegs and fastenings” (5.248), and in the storm resolves to stay on it “as long as the beams hold together in their fastenings” (5.361).
+grc: [ἁρμονίῃσιν]
+en: [fastenings]
+---
+
+In Homer ἁρμονία is a joining before it is a joining of sounds. Calypso bids Odysseus cut long beams “and fit together / a broad raft” (ἁρμόζεο, 5.162–163). He fells twenty trees, smooths them, bores them all “and fitted them to one another, / and hammered it together with pegs and fastenings” (ἥρμοσεν … γόμφοισιν δʼ ἄρα τήν γε καὶ ἁρμονίῃσιν ἄρασσεν, 5.244–248; see [[the-building-of-the-raft]] and [[raft]]). The γόμφοι are wooden pegs, such as shipwrights call trenails, as distinct from nails of metal (Merry, *Commentary on the Odyssey*, 1886, on 5.248); Merry takes the two verses as two steps, the boring of the pieces so that the hole in the upper one matches the hole in the lower, and then “he hammered the boat together with pegs and clamps” (on 5.247), where Aristophanes held that they say the same thing (Merry's critical note; see the translation's note on 5.247–248). The raft is σχεδίη πολύδεσμος, “a raft of many bindings” (5.33, 5.338; see [[of-many-bindings]]). The fastenings are what Odysseus trusts in the storm: “as long as the beams hold together in their fastenings, / so long I will stay here and endure, suffering sorrows” (5.361–362), until the wave scatters the long beams like a heap of dry husks (5.366–370; see [[winnowing]]).

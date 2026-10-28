@@ -3,7 +3,7 @@ title: Styx
 greek: Στύξ
 kind: place
 tags: [chthonic, oath, cosmic]
-summary: The river of the underworld by which the gods swear their most binding oath. In the Catalogue the Titaressus is a branch of its water.
+summary: The river of the underworld by which the gods swear their most binding oath, sworn by Hera in the Iliad and by Calypso in the Odyssey. Other rivers are branches of its water: the Titaressus in Thessaly, the Cocytus at the edge of Hades.
 grc: [Στυγὸς]
 ---
 

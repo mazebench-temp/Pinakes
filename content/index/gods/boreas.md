@@ -3,7 +3,7 @@ title: Boreas
 greek: Βορέας
 kind: god
 tags: [personification]
-summary: The North Wind, cold and clear, which blows from Thrace. Its breath revives the fainting Sarpedon in *Iliad* 5; later in the Iliad it fathers colts on the mares of Erichthonius and fans the pyre of Patroclus.
+summary: The North Wind, cold and clear, which blows from Thrace. In the Iliad its breath revives the fainting Sarpedon, it fathers colts on the mares of Erichthonius, and it fans the pyre of Patroclus; in the Odyssey it is one of the four winds of Poseidon's storm, and the wind that Athena rouses to carry Odysseus to the land of the Phaeacians.
 aliases: [North Wind, Borees]
 grc: [Βορέ*]
 ---

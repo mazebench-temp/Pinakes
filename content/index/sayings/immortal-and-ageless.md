@@ -3,7 +3,7 @@ title: “If only I were immortal and ageless”
 greek: εἰ γὰρ ἐγὼν ὣς εἴην ἀθάνατος καὶ ἀγήρως ἤματα πάντα
 kind: saying
 tags: [figure, honor]
-summary: Hector's wish at the end of his night assembly on the plain: if only he were as surely immortal and ageless all his days, and honored as Athena and Apollo are honored, as this day brings evil to the Argives. He swears by what no man can have, and the poem gives the answer in Sarpedon's mouth.
+summary: Hector's wish at the end of his night assembly on the plain: if only he were as surely immortal and ageless all his days, and honored as Athena and Apollo are honored, as this day brings evil to the Argives. He swears by what no man can have, and the poem gives the answer in Sarpedon's mouth. The words are the formula for the condition of the gods, which in the Odyssey Calypso offers to Odysseus, and he refuses.
 aliases: [immortal and ageless, ageless and immortal, would that I were immortal, athanatos kai agērōs]
 grc: ["ἀθάνατος καὶ ἀγήρως"]
 en: [immortal and ageless]

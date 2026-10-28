@@ -10,7 +10,7 @@ grc: [ἠρᾶθʼ, κλῦθί μευ, κρήηνον ἐέλδωρ, εὐχ*, 
 # εὖχος (12.328) and εὐχετόῳτο (12.391) are a triumph and a boast, not prayers.
 # εὔχομαι εἶναι ἄριστος at 23.669 is Epeius' claim to be the best, not a prayer.
 # εὔχομαι at Od. 1.172, 1.180, 1.187, 1.406, 1.418 and 3.362 is "claim to be" (euchomai keeps them).
-except: [1.91, 1.397, 12.328, 12.391, 17.19, 18.499, 23.669, Od. 1.172, Od. 1.180, Od. 1.187, Od. 1.406, Od. 1.418, Od. 3.362, Od. 4.139]
+except: [1.91, 1.397, 12.328, 12.391, 17.19, 18.499, 23.669, Od. 1.172, Od. 1.180, Od. 1.187, Od. 1.406, Od. 1.418, Od. 3.362, Od. 4.139, Od. 5.211]
 en: [prayed, prayer, pray, vow, Hear me, fulfill for me this wish, stretching out his hands, lifting up his hands]
 passages:
   - 1.35-43 | Chryses prays for revenge

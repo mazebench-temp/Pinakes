@@ -14,7 +14,7 @@ of: [crethon, orsilochus-son-of-diocles]
 
 {{quote:3f7c8e35-e6b6-57c8-9988-f3be55c5c88f}}
 
-καππεσέτην, ἐλάτῃσιν ἐοικότες ὑψηλῇσι: “and they fell like tall fir trees”. καππεσέτην is the dual aorist of καταπίπτω, “fall down”, shortened in the epic way (κατ- to καπ-). ἐλάτη is the fir, the tall, straight tree of the Greek mountains. Its wood made oars (7.5; Odyssey 12.172) and the beams of Achilles' hut (24.450). The tallest fir on Ida “reached up through the mist into the upper air”, and Sleep hides in its branches like a mountain bird (14.286–291; see [[chalcis-and-cymindis]]), and Odysseus builds his raft of fir “reaching to the sky” (Odyssey 5.239). ὑψηλαί is “tall”.
+καππεσέτην, ἐλάτῃσιν ἐοικότες ὑψηλῇσι: “and they fell like tall fir trees”. καππεσέτην is the dual aorist of καταπίπτω, “fall down”, shortened in the epic way (κατ- to καπ-). ἐλάτη is the fir, the tall, straight tree of the Greek mountains. Its wood made oars (7.5; Odyssey 12.172) and the beams of Achilles' hut (24.450). The tallest fir on Ida “reached up through the mist into the upper air”, and Sleep hides in its branches like a mountain bird (14.286–291; see [[chalcis-and-cymindis]]), and on Calypso's island Odysseus fells for his raft a fir “that reached to the sky” (Odyssey 5.239; see [[the-building-of-the-raft]]). ὑψηλαί is “tall”.
 
 The point of likeness is height and the fall of the tall. The twins were young, full grown (5.550) and “two of the best men of the Danaans” (5.541). They fall together, as two trees might be felled side by side. The comparison follows the two lions without a pause (5.554–559; see [[two-lions]]): the lions, killed by men with the bronze, become trees cut down, and the image passes from the beasts' violence to the stillness of their fall.
 

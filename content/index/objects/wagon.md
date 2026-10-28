@@ -7,10 +7,11 @@ summary: The four-wheeled wagon, ἅμαξα or ἀπήνη, drawn by mules or o
 aliases: [wagons, mule wagon, cart, hamaxa, apene]
 # ἀπήνης is accent-sensitive (=): ἀπηνής "harsh" (15.94, 16.35, 23.484, 23.611) is the same word without accents.
 # Ἄμαξαν, capitalized at 18.487, is the Wagon, the Great Bear (the-bear claims "ἣν καὶ Ἄμαξαν"); the same verse at
-# Od. 5.273 prints it in lowercase and will need an except there. ἡμιονείην (24.189, 24.266), "of mules", is the mules'.
+# Od. 5.273 prints it in lowercase and is excepted. ἡμιονείην (24.189, 24.266), "of mules", is the mules'.
 # The words of the yoking (24.268-274) are claimed in the note on Book 24.
 grc: [ἀμαξάων, ἄμαξαν, "!^Ἄμαξαν", ἀμάξῃσιν, "=ἀπήνης", ἀπήνην, ἀπήνῃ, πείρινθα]
 en: [wagon, wagons, wicker body]
+except: [Od. 5.273]
 ---
 
 ## The words

@@ -13,7 +13,7 @@ en: [Pleiades]
 
 {{quote:28b36646-3452-5c0b-bcd0-801e7ec51533}}
 
-The Pleiades are named twice in Homer, each time at the head of a short list of stars. On the Shield they come first of the constellations with which the sky is crowned (18.485–486; see [[sky]]). In the Odyssey Odysseus, sailing on his raft from Calypso's island, never lets sleep fall on his eyelids, watching the Pleiades and Boötes, which sets late, and the Bear, which Calypso told him to keep on his left hand (*Odyssey* 5.270–277; see [[the-bear]]). The lines on the Bear are the same in both poems.
+The Pleiades are named twice in Homer, each time at the head of a short list of stars. On the Shield they come first of the constellations with which the sky is crowned (18.485–486; see [[sky]]). In the Odyssey Odysseus, sailing on his raft from Calypso's island, never lets sleep fall on his eyelids, watching the Pleiades and Boötes, which sets late, and the Bear, which Calypso told him to keep on his left hand (*Odyssey* 5.270–277; see [[the-bear]] and [[bootes]]). The lines on the Bear are the same in both poems.
 
 The name is unexplained. Walter Leaf reports the usual explanation, “the sailing stars”, since their rising in May marks the time when voyages become safe, but thinks it possible that they are “the flight of doves”, as if πελειάδες, fleeing like the Bear before the hunter Orion; this, he adds, may be a later interpretation, and the name may rather be connected with πλεῖος, “full”, as if it meant “the crowd” (*Commentary on the Iliad*, 1900, on 18.486; see [[orion]]). Doves are πέλειαι and πελειάδες in Homer (11.634; see [[doves]]).
 

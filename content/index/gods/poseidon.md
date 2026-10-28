@@ -10,7 +10,9 @@ aliases: [Poseidaon]
 # Ποσείδαον (Od. 3.55; Il. 14.357, 20.115) and the epithet ἐνοσίχθων, "earth-shaker", which is always Poseidon's
 # (Od. 3.6, without the name; Od. 1.74; twenty-three lines of the Iliad), are claimed within the Iliad by its Book 14
 # and Book 7 notes.
-grc: [Ποσειδάων, Ποσειδάωνος, Ποσειδάωνι, Ποσείδαον, "ἐνοσίχθ*"]
+# ἐννοσίγαιος, "shaker of the earth", is likewise always Poseidon (Od. 5.423, and later 6.326, 9.518, 11.102, 11.241,
+# 13.140; twenty lines of the Iliad, which its Book 7 note claims within the Iliad).
+grc: [Ποσειδάων, Ποσειδάωνος, Ποσειδάωνι, Ποσείδαον, "ἐνοσίχθ*", "ἐννοσίγαι*"]
 en: [Poseidon]
 passages:
   - 1.396-406 | The plot to bind Zeus

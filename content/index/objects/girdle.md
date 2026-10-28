@@ -17,7 +17,7 @@ en: [girdle]
 
 **Hera's girdle.** Dressing in her chamber to go to Zeus, Hera puts on her ambrosial robe and fastens it with golden pins, “And she girded herself with a girdle fitted with a hundred tassels” (ζώσατο δὲ ζώνῃ ἑκατὸν θυσάνοις ἀραρυίῃ, 14.181), before the earrings, the veil and the sandals (14.178–186; see [[the-adornment-of-a-goddess]] and [[hera]]). The only other tasseled thing in Homer is the aegis, from which “a hundred tassels hang floating, all of gold, / all finely woven, and each worth a hundred oxen” (2.448–449; see [[aegis]]), and whose regular epithet is θυσσανόεσσα, “tasseled” (5.738, 15.229, 17.593, 18.204, 21.400).
 
-**Goddesses' girdles.** In the Odyssey Calypso and Circe dress at dawn in the same three verses: a great robe, silver-white, “fine and graceful, and about her waist she put a girdle / fine and golden, and on her head a veil” (*Odyssey* 5.230–232 = 10.543–545; see [[veil]]).
+**Goddesses' girdles.** In the Odyssey Calypso and Circe dress at dawn in the same three verses: a great silver-white mantle, “fine and lovely, and around her waist she cast a girdle, / fine and golden, and over her head a head covering” (*Odyssey* 5.230–232 = 10.543–545; see [[veil]]).
 
 **Loosing the girdle.** In the catalogue of heroines Poseidon, taking the shape of the river Enipeus, lies with Tyro: “he loosed her maiden girdle, and poured sleep down upon her” (λῦσε δὲ παρθενίην ζώνην, κατὰ δʼ ὕπνον ἔχευεν, *Odyssey* 11.245). The loosed girdle and the poured sleep are the pair of *Iliad* 14, where Zeus is overcome by love and sleep (14.353; see [[hypnos]]).
 

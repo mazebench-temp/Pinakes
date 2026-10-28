@@ -7,8 +7,9 @@ summary: The West Wind, in Homer usually a strong and stormy wind that drives cl
 aliases: [West Wind, Zephyros, Zephyr]
 # Ζέφυρον, the accusative, is the West Wind at Il. 23.208 (claimed also by the Book 23 note) and Od. 2.421. Ζεφύροιο
 # is the West Wind wherever it occurs (Od. 4.402, 4.567; Il. 4.276, 7.63, 19.415, 21.334, 23.200, which the Iliad's book
-# notes also claim). Ζεφύρου and Ζεφύρῳ are claimed by the Iliad's book notes, and Ζεφυρίη (Od. 7.119) is the adjective.
-grc: [Ζέφυρος, Ζέφυρον, Ζεφύροιο]
+# notes also claim). Ζεφύρῳ is the West Wind wherever it occurs too (Od. 5.332; Il. 16.150, 23.195, which the Iliad's
+# book notes also claim). Ζεφύρου is claimed by the Iliad's book notes, and Ζεφυρίη (Od. 7.119) is the adjective.
+grc: [Ζέφυρος, Ζέφυρον, Ζεφύροιο, Ζεφύρῳ]
 ---
 
 Ζέφυρος (Zephyros), the west wind. The name has been connected with ζόφος, the darkness of the west, where the sun sets; the connection is not certain.

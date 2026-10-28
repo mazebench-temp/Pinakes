@@ -1,0 +1,5 @@
+---
+summary: Hermes leaves Calypso with a warning: “Send him away now, then, and have regard for the wrath of Zeus, / lest in time to come he grow angry with you in resentment” (5.146–147).
+---
+
+The wrath of the gods falls on those who offend them, as Athena's wrath fell on the Achaeans in their homecoming (3.135; see [[the-returns-of-the-achaeans]]). Here it is held over a goddess. Calypso has protested against the gods' jealousy and yielded (5.118–144; see [[the-jealousy-of-the-gods]] and [[the-mind-of-zeus]]), and Hermes' last words make the reason plain: οὕτω νῦν ἀπόπεμπε, Διὸς δʼ ἐποπίζεο μῆνιν (5.146; see [[hermes]] and [[calypso]]). ἐποπίζεο, “have regard for”, is from ὄπις, the regard due to the gods, or their inspection and visitation of men: the lawless are men “caring nothing for the regard of the gods” (θεῶν ὄπιν οὐκ ἀλέγοντες, *Iliad* 16.388) and who do not tremble at it (20.215; Merry, *Commentary on the Odyssey*, 1886, on 5.146; see the translation's note on 5.146). The next verse names the anger that the wrath would bring, in the words of the same Iliad simile, κοτεσσάμενος χαλεπήνῃ (5.147, as *Iliad* 16.386; see [[kotos]]).

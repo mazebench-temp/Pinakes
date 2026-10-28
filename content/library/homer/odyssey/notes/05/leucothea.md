@@ -1,0 +1,24 @@
+---
+summary: In the storm Ino, daughter of Cadmus, now the sea goddess Leucothea, pities Odysseus, rises from the sea like a diving bird and sits on his raft. She tells him to strip, leave the raft and swim for the land of the Phaeacians with her immortal veil under his chest, and to throw it back into the sea when he reaches land; he mistrusts her and stays on the raft until the wave breaks it. At the river's mouth he lets the veil go, and the current carries it back to her hands.
+# Ἰνώ, her mortal name (5.333, 5.461), named only in this book in Homer.
+grc: [Ἰνώ]
+# Unnamed: she pities him, rises and sits on the raft (5.336-338); her speech (5.339-350); she gives the veil and
+# plunges back (5.351-353); "since she bids me leave the raft" (5.357), "where she said there was a refuge" (5.359);
+# "the veil of the goddess" (5.459); she takes it back (5.462).
+refs: [5.336-353, 5.357, 5.359, 5.459, 5.462]
+passages:
+  - 5.333-353 | Ino gives Odysseus her veil
+  - 5.458-463 | The veil goes back to Ino
+relations:
+  - father: cadmus (5.333)
+---
+
+**The daughter of Cadmus.** When the raft is being tossed among the four winds, “the daughter of Cadmus saw him, Ino of the lovely ankles, / Leucothea, who was once a mortal with human voice, / but now in the open sea has a share of honor from the gods” (5.333–335; see [[cadmus]], [[of-the-lovely-ankles]] and [[with-human-voice]]). The narrator gives her both her names and both her lives before she acts. On αὐδήεσσα see the translation's note on 5.334; θεῶν ἐξ ἔμμορε τιμῆς is “enjoyeth her meed of honour from the gods” (Merry, *Commentary on the Odyssey*, 1886, on 5.335). “She pitied Odysseus as he wandered, suffering sorrows” (5.336; see [[pity]]). Her pity is the counterweight to Poseidon's anger, of which she speaks at once.
+
+**Like a diving bird.** She comes up out of the sea “like a diving bird on the wing” and sits on the raft (5.337–338), and when she has given the veil she plunges back into the billowing sea “like a diving bird; and a dark wave hid her” (5.352–353; see [[like-a-diving-bird]] and [[billowing]]). The likeness is in the sudden plunge, not in the shape (Merry on 5.353). Most copies lacked 5.337, and Merry's text brackets it as made up from 5.353 (Merry's critical note and on 5.337; see the translation's note on 5.337).
+
+**Her counsel.** She speaks as one who knows the god's limits: “Ill-fated man, why is Poseidon the earth-shaker / so terribly angry with you, that he plants so many evils for you? / Yet he will not destroy you, though he rages greatly” (5.339–341; see [[poseidon]] and [[cholos]]). She judges Odysseus by his wits, “for you do not seem to me to be senseless” (5.342), and tells him to strip off Calypso's garments, which have weighed him down (5.321–322), to leave the raft, and “swimming with your hands strive to come / to the land of the Phaeacians, where it is your fate to escape” (5.344–345). νόστος is used here of coming to a place, not of returning home (Merry on 5.345; see the translation's note on 5.344–345 and [[nostos]]). Then the gift: “Here, take this veil and stretch it under your chest, / immortal as it is; and there is no fear that you will suffer anything or perish” (5.346–347; see [[veil]]). When he has laid hold of the land he must untie it, throw it back into the wine-dark sea far from the land, “and turn yourself away” (5.348–350): those who may not watch a power above men at work turn their faces away, as Circe, in the same words (αὐτὸς δʼ ἀπονόσφι τραπέσθαι), bids Odysseus turn away when he sacrifices to the dead (10.528; Merry on 5.350; see the translation's note on 5.350).
+
+**Mistrust.** Odysseus suspects her as he suspected Calypso: “Ah me, may it not be that someone is weaving a trap for me again, / one of the immortals, since she bids me leave the raft” (5.356–357; Merry on 5.356; see [[dolos]] and the translation's note on 5.357). He will stay on the raft while the beams hold, and swim only when the wave breaks it (5.358–364). The wave comes; he bestrides a single beam, strips off the garments, “And at once he stretched the veil under his chest” and plunges into the sea (5.370–374). Poseidon sees him and drives home (5.375–381).
+
+**The veil goes back.** Two days and nights later he comes ashore at the mouth of a river, and when his breath and spirit have come back, “then he untied the veil of the goddess from himself. / And he let it go into the river that murmurs to the sea, / and a great wave carried it back down the stream, and at once Ino / took it in her own hands” (5.459–462; see [[the-river-of-scheria]] and [[murmuring-to-the-sea]]). He does not throw it into the sea himself, as she had bidden: the river carries it there. Then, “withdrawing from the river”, he sinks down among the rushes and kisses the earth (5.462–463). λιασθείς is “sidling away” (Merry on 5.462). The goddess is not named again in the poem.

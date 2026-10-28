@@ -1,0 +1,5 @@
+---
+summary: Odysseus has “no ships with oars and no companions / who might take him over the broad back of the sea” (5.16–17, 5.141–142): “all his other noble companions perished” in the wreck (5.110, 5.133).
+---
+
+The companions are gone before the book begins. Athena tells the gods, in the verses in which Proteus told Menelaus where Odysseus was, that he has no ships and no companions to take him home (5.16–17 = 4.559–560; see [[the-council-of-the-gods]]), and Calypso gives the same reason why she cannot send him herself (5.141–142; see [[calypso]]). Hermes and Calypso tell how the rest died, in the same two verses: “There all his other noble companions perished, / but the wind and the wave bore him and brought him here” (5.110–111 = 5.133–134; see [[the-shipwreck-of-odysseus]] and the translation's note on 5.105–111). The proem had said it: he strove for the homecoming of his companions and could not save them (1.5–9; see [[the-cattle-of-helios]]). So the homecoming that Zeus decrees is to be made “with the escort neither of gods nor of mortal men” (5.32), on a raft that Odysseus builds alone (5.243–262; see [[raft]] and [[nostos]]).

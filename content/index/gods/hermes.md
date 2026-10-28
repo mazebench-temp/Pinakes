@@ -5,8 +5,13 @@ kind: god
 tags: [olympian, child-of-zeus]
 summary: Son of [[Zeus]], the gods' messenger and the guide of travelers and of the dead. Homer calls him Ἑρμείας or Ἑρμῆς, and gives him two old titles of uncertain meaning, διάκτορος and ἀργεϊφόντης.
 aliases: [Hermeias, Hermes Argeiphontes, Argeiphontes]
-grc: [Ἑρμεία*, ἀργεϊφόντ*, διακτόρ*]
+# Ἑρμῆς, the contracted name, is the god wherever it occurs (Il. 20.72, which the Book 20 note also claims; Od. 5.54,
+# 24.1; Rhetoric 1401a22, which the Rhetoric note also claims). The Odyssey's Ἑρμῆν (8.334; Rhetoric 1401a21) and Ἑρμῇ
+# (14.435) will join it when those books are added. Never a stem Ἑρμ*, which would catch Ἕρμος, the river (Il. 20.392).
+grc: [Ἑρμεία*, Ἑρμῆς, ἀργεϊφόντ*, διακτόρ*]
 en: [Hermes, slayer of Argus, guide]
+relations:
+  - father: zeus (24.333)
 ---
 
 ## Etymology
@@ -32,3 +37,5 @@ In the Odyssey he carries Zeus' order to Calypso (*Odyssey* 5.28–148), gives O
 ## Outside Homer
 
 Hesiod makes him the son of Zeus and Maia, daughter of Atlas (*Theogony* 938–939). The *Homeric Hymn to Hermes* tells how, on the day he was born, he made the first lyre from a tortoise shell and stole the cattle of Apollo. Apollodorus tells how he killed Argus with a stone, “and so he was called Argeiphontes” (*Library* 2.1.3). In the later story of Pelops' chariot race, the charioteer Myrtilus, whom [[Pelops]] used and then killed, was a son of Hermes (Apollodorus, *Epitome* 2.4–9). Horace's hymn to Mercury recalls the night of the ransom: with the god as his guide, rich Priam left Ilium and slipped past the proud sons of Atreus, the Thessalian fires and the camp hostile to Troy (*quin et Atridas duce te superbos / Ilio dives Priamus relicto / Thessalosque ignis et iniqua Troiae / castra fefellit*, *Odes* 1.10.13–16; see [[horace-mercury-and-priam]]).
+
+Virgil's Mercury, sent by Jupiter to Aeneas at Carthage, binds on the golden sandals, takes the wand and swoops down to the sea like a bird, as Hermes does on his way to Calypso (*Aeneid* 4; see [[virgils-mercury]]).

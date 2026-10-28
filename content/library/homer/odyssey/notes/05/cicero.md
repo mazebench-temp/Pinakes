@@ -1,0 +1,6 @@
+---
+summary: Cicero counts Ino, the daughter of Cadmus whom the Greeks call Leucothea and the Romans Matuta, among the mortals made gods, and makes Ulysses, who served Circe and Calypso, “if they are to be called women”, an example of endurance.
+---
+
+- “Is not Ino, the daughter of Cadmus, who is called Leucothea by the Greeks, held by our people to be Matuta?” (*Tusculan Disputations* 1.28), one of the men and women whom fame has carried up to heaven; all Greece, says the Academic Cotta, worships “Leucothea, who was Ino, and her son Palaemon” among the gods who were once human (*On the Nature of the Gods* 3.39), and if Ino is a goddess, Leucothea to the Greeks and Matuta to the Romans, though she is the daughter of Cadmus, he asks why Circe, Pasiphae and Aeetes, children of the Sun, should not be gods too (*On the Nature of the Gods* 3.48; on 5.333–335): [[leucothea]] and [[cadmus]].
+- “How much Ulysses endured in that long wandering, when he served women, if Circe and Calypso are to be called women, and wished to be affable to everyone in all his talk!” At home he bore even the insults of slaves and maidservants to reach what he desired; Ajax, as he is described, would rather have met death a thousand times (*On Duties* 1.113): [[calypso]] and [[odysseus]].

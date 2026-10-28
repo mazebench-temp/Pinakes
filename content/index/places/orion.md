@@ -17,7 +17,7 @@ en: [Orion]
 
 The hunter has a dog in the sky: the star of late summer, the brightest of all and a sign of evil, “the star that men call by the name of the dog of Orion” (22.29; see [[the-autumn-star]]), to which Priam likens Achilles running over the plain (22.25–31).
 
-The Odyssey tells of the man. Calypso, complaining of the gods' jealousy, recalls that when rosy-fingered Dawn took Orion, the gods begrudged it until Artemis killed him in Ortygia with her gentle arrows (*Odyssey* 5.121–124). Otus and Ephialtes were the tallest men the earth ever reared, and the most beautiful after famous Orion (*Odyssey* 11.309–310). Among the dead Odysseus sees huge Orion driving together over the meadow of asphodel the beasts that he himself had killed in the lonely mountains, holding a club all of bronze, never broken (*Odyssey* 11.572–575). The stars by which Odysseus steers include the Bear that watches Orion, in the verses of the Shield (*Odyssey* 5.273–275).
+The Odyssey tells of the man. Calypso, complaining of the gods' jealousy, recalls that when rosy-fingered Dawn took Orion, the gods begrudged it until Artemis killed him in Ortygia with her gentle arrows (*Odyssey* 5.121–124; see [[dawn-and-orion]]). Otus and Ephialtes were the tallest men the earth ever reared, and the most beautiful after famous Orion (*Odyssey* 11.309–310). Among the dead Odysseus sees huge Orion driving together over the meadow of asphodel the beasts that he himself had killed in the lonely mountains, holding a club all of bronze, never broken (*Odyssey* 11.572–575). The stars by which Odysseus steers include the Bear that watches Orion, in the verses of the Shield (*Odyssey* 5.273–275).
 
 ## Outside Homer
 

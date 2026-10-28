@@ -1,0 +1,6 @@
+---
+summary: The Phaeacians “will honor him with all their hearts like a god” (5.36), and Ino, once a mortal, “now in the open sea has a share of honor from the gods” (5.335).
+grc: [τιμήσουσιν]
+---
+
+Zeus' decree promises Odysseus the honor of a god after seven years on Calypso's island: the Phaeacians, “who are near kin to the gods, / who will honor him with all their hearts like a god”, will send him home with bronze and gold and clothing, more than his share of the spoil of Troy (5.35–40; see [[phaeacians]], [[near-kin-to-the-gods]] and [[aisa]]). θεὸν ὣς τιμήσουσιν is the phrase of Agamemnon's offer to Achilles, of the men of the seven cities “who will honor you with gifts like a god” (*Iliad* 9.155, 9.297; see [[the-embassy-to-achilles]]): what was offered to the man who would not take it is promised to the man who will. περὶ κῆρι, “with all their hearts”, has περί of a completed circle, and so of thoroughness (Merry, *Commentary on the Odyssey*, 1886, on 5.36; see the translation's note on 5.36). Ino, “who was once a mortal with human voice”, has her honor from the gods themselves: θεῶν ἒξ ἔμμορε τιμῆς, “enjoyeth her meed of honour from the gods”, as Alcinous has his wisdom “from the gods” (θεῶν ἄπο, 6.12; 5.334–335; Merry on 5.335; see [[leucothea]], [[moira]] and [[immortality]]).

@@ -3,7 +3,7 @@ title: Peleus
 greek: Πηλεύς
 kind: person
 tags: [king, aeacidae, thessaly]
-summary: King of [[Phthia]], husband of the goddess [[Thetis]] and father of [[Achilles]]. He is named in the poem's first line, through his son.
+summary: King of [[Phthia]], husband of the goddess [[Thetis]] and father of [[Achilles]], whom Homer often names after him, the son of Peleus.
 grc: [Πηλῆος, Πηλεΐδ*, Πηλείδ*, Πηληϊάδ*, Πηλεΐων*]
 en: [Peleus]
 refs: [1.396]
