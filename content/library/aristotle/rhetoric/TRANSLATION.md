@@ -120,8 +120,9 @@ our Iliad, the English keeps the wording of the Iliad translation (“Surely Pri
 shameful to stay so long”, 1363a6 = Il. 2.298). Where it differs, the English follows Aristotle: at
 1365a13–15 he gives Meleager's wife “all the ills” (ὅσσα κάκʼ) where our Iliad has “the sorrows”
 (κήδεʼ, 9.592), and “the people perish” (λαοὶ μὲν φθινύθουσι) where it has “they kill the men”
-(9.593). Il. 18.109 and 23.108 come from books the library has not yet translated, and the Odyssey
-is not in it; they are translated here. Aristotle's Odyssey 15.400–401 differs from ours as well:
+(9.593). Il. 18.109 (1370b12) and 23.108 (1370b28–29, the same verse as *Odyssey* 4.183) keep the
+library's wording too; lines from the Odyssey's later books, which the library has not yet translated,
+are translated here. Aristotle's Odyssey 15.400–401 differs from ours as well:
 “remembering, one who has suffered much and done much” (μνημένος … πολλὰ ἐόργῃ), where our texts
 have “who has suffered much and wandered much”.
 
@@ -244,12 +245,12 @@ The terms of Book I keep their renderings. The emotions and the other terms that
 
 ### Quotations
 
-Where Aristotle quotes Books 1–13 of the Iliad and agrees with our text, the English keeps the
-wording of the Iliad translation: 1378b33 (Il. 1.356, which Aristotle quotes without its last two
+Where Aristotle quotes the Iliad and agrees with our text, the English keeps the wording of the
+Iliad translation: 1378b33 (Il. 1.356, which Aristotle quotes without its last two
 words), 1378b34 (9.648), 1379a5 (2.196), 1379a5–6 (1.82), 1387a33–35 (11.542–543, with the verse that
-our manuscripts lack), 1395a14 (12.243). Il. 18.109–110 (1378b5–7), 24.54 (1380b30) and 18.309
-(1395a15, “Enyalius is impartial”, the rendering of the index) and *Odyssey* 9.504 (1380b23) are
-translated here.
+our manuscripts lack), 1395a14 (12.243). Il. 18.109–110 (1378b5–7), 24.54, “for in his rage he defiles the senseless
+earth” (1380b30), and 18.309, “Enyalius is impartial” (1395a15). *Odyssey* 9.504 (1380b23), from a book
+the library has not yet translated, is translated here.
 
 Aristotle's lines of Euripides differ in a word from our texts, and the English follows Aristotle:
 “from the citizens”, παρʼ ἀστῶν (1394a35; *Medea* 297 has πρὸς ἀστῶν); “no man”, οὐκ ἔστιν ἀνδρῶν
@@ -401,14 +402,16 @@ and daimones (1419a9–10).
 
 ### Quotations
 
-Where Aristotle's Homer agrees with our Iliad, the English keeps the library's wording: Achilles'
+Where Aristotle's Homer agrees with our Iliad or Odyssey, the English keeps the library's wording: Achilles'
 refusal (9.385, 388–390, at 1413a32–34), Nireus (2.671–673, at 1414a2–3), “they could be won with
 gifts and swayed by words” (9.526, at 1410a30–31), the arrow and the spears (13.587, 4.126, 11.574,
 13.799, at 1411b35–1412a9), and “Sing, goddess, the wrath” (1.1, at 1415a16). Where he differs, the
 English follows him: “he rushed on like a lion” (1406b21) is not in our text (the nearest is 20.164);
 he shortens 13.587 to “the arrow flew”; in the Odyssey's shameless stone (11.598) he has “down to the
-ground” for “then to the plain”. The Odyssey (1.1, 4.204, 6.327, 11.598, 19.361) and Iliad 15.542 are
-translated here. Of the tragedians, Euripides' Greeks dart forth “on their feet” (ποσίν, 1411b30)
+ground” for “then to the plain”. Iliad 15.542, “and the point sped through his chest in its fury”
+(1412a2), *Odyssey* 1.1, “Tell me, Muse, of the man” (1415a16), and 4.204, “all that a wise man would”
+(1418a8), keep the library's wording as well; the Odyssey's 6.327, 11.598 and 19.361, from books the
+library has not yet translated, are translated here. Of the tragedians, Euripides' Greeks dart forth “on their feet” (ποσίν, 1411b30)
 where our *Iphigenia at Aulis* has “with the spear” (80); Hecuba's lines are abridged (*Trojan Women*
 969, 971); the line Aristotle gives to Sophocles, “This land is Calydon” (1409b10), is the opening of
 Euripides' *Meleager*. Aristotle's own examples of style, many of them anonymous, are in quotation marks

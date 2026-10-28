@@ -28,4 +28,4 @@ passages:
 
 ## Outside Homer
 
-[[Aristotle]] quotes the verse of his death among the lines in which Homer makes lifeless things alive: in “the spear point sped through his chest, raging” the spear point rages like a living thing, and raging is activity (*Rhetoric* 3.11, 1411b31–1412a4; see [[homers-lifeless-things-alive]]).
+[[Aristotle]] quotes the verse of his death among the lines in which Homer makes lifeless things alive: in “the point sped through his chest in its fury” the spear point rages like a living thing, and raging is activity (*Rhetoric* 3.11, 1411b31–1412a4; see [[homers-lifeless-things-alive]]).

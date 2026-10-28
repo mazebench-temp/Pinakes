@@ -3,7 +3,7 @@ title: The last line of the Iliad (24.804)
 greek: ὣς οἵ γʼ ἀμφίεπον τάφον Ἕκτορος ἱπποδάμοιο
 kind: note
 tags: [scholarship, epic-cycle]
-summary: The Iliad ends with Hector's funeral, “So they held the funeral of Hector, tamer of horses”, on the eleventh day of the truce, before the fighting begins again. Walter Leaf reports a variant of the line in the T scholia, made to join the Iliad to the poem that followed it in the Epic Cycle, the Aethiopis, which told of the deaths of Penthesilea, Thersites, Antilochus, Memnon and Achilles. Virgil's pictures at Carthage pass from the ransom of Hector to Memnon and the Amazons.
+summary: The Iliad ends with Hector's funeral, “So they held the funeral of Hector, tamer of horses”, on the eleventh day of the truce, before the fighting begins again. Walter Leaf reports a variant of the line in the T scholia, made to join the Iliad to the poem that followed it in the Epic Cycle, the Aethiopis, which told of the deaths of Penthesilea, Thersites, Antilochus, [[Memnon]] and Achilles. Virgil's pictures at Carthage pass from the ransom of Hector to Memnon and the Amazons.
 source: "Walter Leaf, Commentary on the Iliad (1900), on 24.804; Virgil, Aeneid 1.483–493"
 of: [hector, the-funeral-of-hector, achilles, priam, amazons, death-of-achilles-foretold, tamer-of-horses, title-of-book-24]
 refs: [24.804]

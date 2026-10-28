@@ -15,7 +15,7 @@
 1457b7	Metaphor is the transfer of a word that belongs to something else, either from genus
 1457b8	to species, or from species to genus, or from species
 1457b9	to species, or by analogy. By “from genus to
-1457b10	species” I mean, for example, “Here my ship stands”; for lying at anchor is
+1457b10	species” I mean, for example, “My ship stands over there”; for lying at anchor is
 1457b11	a kind of standing. From species to genus: “Truly Odysseus has done countless
 1457b12	good deeds”; for countless is many, and he has used it here instead
 1457b13	of many. From species to species, for example “with the bronze

@@ -89,7 +89,8 @@ capitals (S and R, G and D).
 Aristotle quotes Homer from memory or from texts that differ from ours. Where a quotation agrees with
 our Iliad, the English keeps the wording of the Iliad translation (“Sing, goddess, the wrath”, 1456b17 =
 Il. 1.1; “Truly Odysseus has done countless good deeds”, 1457b11 = Il. 2.272; “mix the wine stronger”,
-1461a15 = Il. 9.203; “the greater part of the night has gone”, 1461a26 = Il. 10.252). Where it differs,
+1461a15 = Il. 9.203; “the greater part of the night has gone”, 1461a26 = Il. 10.252), and so it keeps the Odyssey's where the
+library has translated the book (“My ship stands over there”, 1457b10 = *Odyssey* 1.185). Where it differs,
 the English follows Aristotle: “All the gods and men slept all night long” (1461a16–17), where our
 Iliad has “the other gods” (2.1); “and we grant him to win glory” (1461a22–23), words that our text of
 2.15 does not have. His Greek differs in places where the English need not: παρῴχηκεν δὲ πλέω νύξ

@@ -282,8 +282,8 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 ## Places where the Greek is disputed
 
 Merry is cited from W. W. Merry, J. Riddell and D. B. Monro, *Commentary on the Odyssey* (1886), as
-digitized by Perseus (Books 1–3) and as scanned from the Clarendon Press volume at the Internet
-Archive (Book 4): "(Merry on 1.241)" is the note on that line.
+digitized by Perseus (1.1–2.66 and Book 3) and as scanned from the Clarendon Press volume at the
+Internet Archive (2.67–434 and Book 4): "(Merry on 1.241)" is the note on that line.
 
 - **1.1** — πολύτροπον "of many turns": Merry (on 1.1) glosses "of many devices" (*versutus*), a word found again only at 10.330, with many equivalents (πολύμητις, πολύφρων, πολυμήχανος, ποικιλόμητις); Nitzsch took it as πολύπλαγκτος, with ὃς μάλα πολλὰ πλάγχθη as its explanation. The English keeps both the turns of the mind and the wanderings. Livius Andronicus rendered the line "Virum mihi, Camena, insece versutum" (Merry on 1.1).
 - **1.10** — ἁμόθεν "beginning where you will": the Muse chooses where the singer takes up the story (Merry on 1.10, comparing 8.500); Aristarchus thought the καί of καὶ ἡμῖν superfluous (Merry on 1.10).
@@ -360,18 +360,44 @@ Archive (Book 4): "(Merry on 1.241)" is the note on that line.
 - **2.51–52** — The scholia ask why only the suitors of Ithaca, "the men who are the best here", are blamed; and they take εἰς οἶκον to mean that Icarius lived in Ithaca (Merry on 2.51, 2.52, who also cites the legend that made Icarius king of Cephallenia, *Poetics* 25: see the note on 1.276).
 - **2.53** — ἐεδνώσαιτο "settle the bride-price": not "to dower" his daughter, a later usage, but to accept gifts of wooing for her, or "to make terms about the marriage" (Merry on 2.53, after Butcher and Lang and Cobet; see the note on 1.275–278).
 - **2.60** — ἦ καὶ ἔπειτα "truly, even then": ἔπειτα, as distinguished from ὀπίσσω "hereafter", points to the immediate future: if we do (καί) try, we shall prove weaklings (Merry on 2.60, comparing 1.65 and 2.273, 2.280, where the English has "then" as well).
+- **2.67** — μεταστρέψωσιν "turn upon you": "lest they make some change, in wrath at evil deeds", the gods turning from indifference to interference, as μεταστρέψεις at *Iliad* 15.203 (Merry on 2.67); Fäsi joins μεταστρέψωσιν κακὰ ἔργα, "bring the evil deeds down on the guilty", comparing μετάτροπα ἔργα in Hesiod (*Theogony* 89, as Merry reports him).
+- **2.70** — σχέσθε, φίλοι "hold back, my friends", "let be": with φίλοι Telemachus addresses not the suitors but the Ithacans (Merry on 2.70).
+- **2.86** — ἐθέλοις δέ κε: many manuscripts have ἐθέλεις, and Bekker reads ἐθέλεις δʼ ἐκ μῶμον ἀνάψαι (Merry's critical note and on 2.86).
+- **2.89** — τάχα δʼ εἶσι τέταρτον "and soon the fourth will pass": 2.106–107 and 13.377 decide the sense (Merry on 2.89). ἐστίν is "is completed", as at *Iliad* 2.295, so that three years are past and the fourth is "fast passing", as the scholium explains εἶσι (διελεύσεται); Nitzsch took it as "is coming".
+- **2.92** — ἀγγελίας "messages", as ἀγγελιάων (2.255); Ameis takes it as "messengers", from a supposed ἀγγελίης (Merry on 2.92).
+- **2.98** — μεταμώνια "wasted": a variant μεταμώλια, which Eustathius calls Attic; Apion derived the word from going "with the winds", which Merry calls very doubtful (Merry's critical note and on 2.98).
+- **2.100** — τανηλεγέος θανάτοιο "of death that lays men low": commonly "the outstretcher", of the body laid out for burial, though from the root of λέγω, "lay", the form would be τανηλεχής (Düntzer, in Merry on 2.100).
+- **2.102** — κεῖται, the manuscripts' reading, which Buttmann defends on the ground that the verb has no distinct subjunctive form; Merry's text prints Wolf's conjecture κῆται (Merry's critical note).
+- **2.105** — ἐπεὶ … παραθεῖτο, as Bekker reads with Eustathius; nearly all manuscripts have ἐπήν, which Merry keeps, an optative of recurring action, comparing *Iliad* 24.227 (Merry's critical note and on 2.105).
 - **2.107** — The same verse at 19.152 and 24.142 is followed by μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη, which this passage lacks.
+- **2.116** — ὅ οἱ is the Harleian manuscript's reading, ὅ with the force of "that", as at *Iliad* 9.493; with the plural ἅ she ponders the gifts that Athena has given her (Merry on 2.116).
+- **2.126** — ποθήν: two manuscripts have ποθή, with ἐστί understood; ποιεῖτʼ is ποιεῖται, "she is making fame for herself; but for thee the loss of much substance" (Merry on 2.126).
+- **2.131–132** — ζώει ὅ γʼ ἦ τέθνηκε "alive or dead": "as to my father, he is away elsewhere in the world, whether he be alive or dead", a doubt put as an indirect question, with the circumflex on the second member (Merry on 2.131).
+- **2.133** — ἑκών "of my own will": the manuscripts are divided between ἑκών and ἐγών, with the greater number for ἑκών; Bekker adopts ἐγών (Merry's critical note).
 - **2.141** — ὑμῖν here, ὕμιν in the identical verse at 1.376, as the digitized text prints them.
-- **2.167** — ἐυδείελος "clear-seen" (provisional): the word recurs of Ithaca and islands (9.21, 13.212, 13.325, 19.132); δείελος "evening" (*Iliad* 21.232) bears on the alternative sense "lying toward the west".
+- **2.151** — πυκνά "thick" is La Roche's reading, with eleven manuscripts, for the common πολλά (Merry's critical note).
+- **2.154** — αὐτῶν "of the people": Aristophanes read αὖτις or αὔτως (Merry's critical note).
+- **2.167** — ἐυδείελος "clear-seen": the word recurs of Ithaca and islands (9.21, 13.212, 13.325, 19.132). The scholia give "lying well toward the evening", from δείελος "evening" (*Iliad* 21.232), the view of Buttmann and of Düntzer, "well-defined" and "conspicuous"; Merry (on 2.167) takes the last as right, if with Curtius εὐδείελος is another form of εὐδέελος, that is εὔδηλος, "clear to see".
 - **2.172** — εἰσανέβαινον "were embarking", as ἀναβήμεναι "embarked" (1.210); the Iliad's Ἴλιον εἰσανέβησαν is "gone up into Ilios" (6.74).
-- **2.227** — γέροντι: either Mentor, whom the household is to obey, or Laertes; neither infinitive has a subject in the Greek, and the English makes the house obey the old man and Mentor keep all things safe.
-- **2.245** — ἀνδράσι καὶ πλεόνεσσι goes with μαχήσασθαι, of the suitors who outnumber the people (as 2.251), or with ἀργαλέον, "hard even for men who are more numerous".
-- **2.262** — θεός is a predicate: Athena came in the likeness of Mentes, and Telemachus knew her for a god (1.323, 1.420).
-- **2.270, 2.278** — οὐδʼ ὄπιθεν … οὐδʼ ἀνοήμων: "no coward and no fool" hereafter, or "not hereafter either", as he has not been until now.
-- **2.344** — ἔπεσαν is from ἔπειμι, "were on it", not from πίπτω.
+- **2.190** — ἀνιηρέστερον: Ameis, with Bekker, reads ἀνιηρώτερον from a Vienna manuscript, needlessly; the Alexandrines called the form Attic (Merry's critical note).
+- **2.191** — The verse is wanting in two Venetian manuscripts, among others, and Wolf rejected it as made up from *Iliad* 1.562 with a varying second half, some reading εἵνεκα τῶνδε and others οἷος ἀπʼ ἄλλων; neither Eustathius nor the scholia notice it (Merry's critical note). Merry (on 2.191) calls it spurious: εἵνεκα τῶνδε may mean "because of [the resistance of] these suitors", but τῶνδε is an odd way to say "us", and the verse spoils the contrast of αὐτῷ μέν οἱ (2.190) and σοὶ δέ (2.192). The English renders it "because of these men".
+- **2.198** — παύσεσθαι is Wolf's conjecture for παύσασθαι or παύεσθαι (Merry's critical note).
+- **2.209** — ἀγαυοί "noble": the scholia record a variant ἀγανοί (Merry's critical note).
+- **2.222** — χεύω "heap up": Ptolemy son of Oroandes wrote χείω, and so did Aristarchus; Herodian read χεύω, a present for the future (the scholia, in Merry's critical note).
+- **2.227** — γέροντι: Eustathius and Merry take the old man as Laertes, "Odysseus entrusted all his house to Mentor, to obey his aged father, and keep all secure"; Nitzsch and others take him as Mentor, with the house the subject of πείθεσθαι and Mentor of φυλάσσειν (Merry on 2.227, citing Monro), which the English follows: the house is to obey the old man, and Mentor to keep all things safe.
+- **2.236** — κακορραφίῃσι "in the mischief": the scholia record κακοφραδίῃσι (Merry's critical note).
+- **2.245** — ἀνδράσι καὶ πλεόνεσσι goes with μαχήσασθαι, of the suitors who outnumber the people (as 2.251), or with ἀργαλέον, "hard even for men who are more numerous". Some wrote ἀνδράσι καὶ παύροισι, "even for a few" (the scholia); Merry (on 2.245) takes πλεόνεσσι with μαχήσασθαι, comparing 2.251 and 16.88, as the English does.
+- **2.262** — ὃ χθιζὸς θεὸς ἤλυθες "you god who came yesterday": θεός, drawn from the vocative into the nominative of the relative clause, "thou that camest yesterday in thy godhead" (Merry on 2.262, who notes the vulgate κλῦθί μοι); Athena came in the likeness of Mentes, and Telemachus knew her for a god (1.323, 1.420).
+- **2.270, 2.278** — οὐδʼ ὄπιθεν … οὐδʼ ἀνοήμων: "no coward and no fool" hereafter, or "not hereafter either", as he has not been until now: "as thou hast not been spiritless nor witless to-day, in the assembly, so neither hereafter wilt thou be" (Merry on 2.270).
+- **2.311** — ἀκέοντα "in silence" is Rhianus' reading; the scholia record ἀέκοντα (Merry's critical note).
+- **2.321** — σπάσατʼ is Aristarchus' reading; others read σπάσεν (Merry's critical note).
+- **2.338** — ὅθι νητός "where … lay heaped": Aristophanes wrote ὁθιννητός, with two ν (Merry's critical note).
+- **2.344** — ἔπεσαν is from ἔπειμι, "were on it", not from πίπτω: Merry renders "were fixed thereto", of folding doors, the frame perhaps made large to admit the chests (Merry on 2.344, comparing 23.194).
 - **2.377** — γρῆυς, as the digitized text prints it here and at 7.8; γρηῢς in the same opening at 18.185, 19.361, 19.386, 19.503, 22.433. ἀπώμνυ is "swore not to".
-- **2.385** — ἀγέρεσθαι is accented as a present infinitive, though Homer's middle forms of the verb are aorists (ἀγέροντο, *Iliad* 2.94, 18.245).
+- **2.383** — Τηλεμάχῳ ἐικυῖα, Bekker's reading with good manuscripts, for Τηλεμάχῳ δʼ ἐικυῖα (Merry's critical note).
+- **2.385** — ἀγέρεσθαι is accented as a present infinitive, though Homer's middle forms of the verb are aorists (ἀγέροντο, *Iliad* 2.94, 18.245): the irregular accent of the aorist has the authority of the grammarians, who took the form as a present (Merry's critical note).
 - **2.412** — δμωαί, without the iota subscript, as the digitized text prints it here and at 6.307, 7.103 (δμῳαί elsewhere).
+- **2.421** — ἀκραῆ "fresh": a few manuscripts read εὐκραῆ (Merry's critical note).
 - **2.434** — ἠῶ "through the dawn": time over which, or "and at dawn".
 - **3.1** — λίμνην "water": the sea, here the farther margin of the Ocean stream, "water which washes a shore" (Merry on 3.1, who reports that Nitzsch refuted Voss's view that the Caspian is meant).
 - **3.4** — Pylos: Strabo argued for the Triphylian Pylos; the scholia, Eustathius and Pindar (*Pythian* 6.35, "the Messenian old man") for the Messenian, which Merry prefers (on 3.4).

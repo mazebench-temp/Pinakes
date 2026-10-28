@@ -1,7 +1,7 @@
 ---
 summary: The first of Aristotle's examples of metaphor, from genus to species.
 grc: [νηῦς δέ μοι ἥδʼ ἕστηκεν]
-en: [Here my ship stands]
+en: [My ship stands over there]
 refs: [1457b11]
 ---
 

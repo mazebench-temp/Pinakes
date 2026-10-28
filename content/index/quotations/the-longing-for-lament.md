@@ -1,5 +1,5 @@
 ---
-title: “He stirred in all of them the longing for lament”
+title: “In them all he roused the longing for lament”
 greek: ὧς φάτο, τοῖσι δὲ πᾶσιν ὑφʼ ἵμερον ὦρσε γόοιο
 kind: quotation
 tags: [epic, mind]

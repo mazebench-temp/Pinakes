@@ -26,7 +26,7 @@
 1418a5	demonstration and necessity; for what has happened has necessity.
 1418a6	Enthymemes should not be stated in a row, but mixed in;
 1418a7	otherwise they harm one another. For there is a limit
-1418a8	to quantity too: “My friend, since you have said as much as a sensible man would,”
+1418a8	to quantity too: “My friend, since you have said all that a wise man would,”
 1418a9	not “such things as”. And do not look for enthymemes about everything;
 1418a10	otherwise you will do what some philosophers do,
 1418a11	who prove by syllogism what is better known and more credible than the premises

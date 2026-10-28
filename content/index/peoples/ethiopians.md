@@ -21,4 +21,4 @@ The Iliad calls them ἀμύμονες, “blameless”, and places them by Ocea
 
 ## Outside Homer
 
-Memnon, son of Eos, led an Ethiopian army to Troy in the *Aethiopis*, which is named after them. Herodotus later placed them south of Egypt, and he counts two kinds in Xerxes' army: the Ethiopians above Egypt, with the woolliest hair of all men, and the straight-haired Ethiopians from the sunrise, armed like the Indians (7.69–70).
+[[Memnon]], son of Eos, led an Ethiopian army to Troy in the *Aethiopis*, which is named after them. Herodotus later placed them south of Egypt, and he counts two kinds in Xerxes' army: the Ethiopians above Egypt, with the woolliest hair of all men, and the straight-haired Ethiopians from the sunrise, armed like the Indians (7.69–70).

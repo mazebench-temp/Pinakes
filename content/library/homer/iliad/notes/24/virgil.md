@@ -1,5 +1,5 @@
 ---
-summary: Virgil sets the ransom among the pictures of the war at Carthage, Hector dragged three times and sold for gold, and Priam stretching out unarmed hands, and goes on to Memnon and the Amazons, the subjects of the poem that followed the Iliad. On the night Troy falls his Priam reproaches the son of Achilles with his father's respect for the suppliant before he is killed at the altar.
+summary: Virgil sets the ransom among the pictures of the war at Carthage, Hector dragged three times and sold for gold, and Priam stretching out unarmed hands, and goes on to [[Memnon]] and the Amazons, the subjects of the poem that followed the Iliad. On the night Troy falls his Priam reproaches the son of Achilles with his father's respect for the suppliant before he is killed at the altar.
 ---
 
 - Hector dragged three times around the walls and sold for gold, and Priam stretching out unarmed hands (*Aeneid* 1.483–487, on 24.16, 24.232, 24.477–479): [[virgils-hector]].

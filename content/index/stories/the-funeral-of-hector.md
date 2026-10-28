@@ -47,4 +47,4 @@ Achilles promises to hold back the war for as long as he asks, and takes the old
 
 ## Outside Homer
 
-Walter Leaf reports a variant of the last verse in the T scholia, made to join the Iliad to the *Aethiopis*, which followed it in the epic cycle and told of the deaths of Penthesilea, Thersites, Antilochus, Memnon and Achilles; so too Quintus' continuation of the Iliad opens with the coming of Penthesilea and her Amazons (on 24.804; see [[the-last-line-of-the-iliad]] and the translation's note on 24.804).
+Walter Leaf reports a variant of the last verse in the T scholia, made to join the Iliad to the *Aethiopis*, which followed it in the epic cycle and told of the deaths of Penthesilea, Thersites, Antilochus, [[Memnon]] and Achilles; so too Quintus' continuation of the Iliad opens with the coming of Penthesilea and her Amazons (on 24.804; see [[the-last-line-of-the-iliad]] and the translation's note on 24.804).

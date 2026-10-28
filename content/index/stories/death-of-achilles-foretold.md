@@ -34,4 +34,4 @@ In *Iliad* 9 Achilles says his mother told him of two fates: to stay and fight a
 
 ## Outside Homer
 
-The *Aethiopis* told of his death after he killed Memnon, and of Thetis snatching him from the pyre to the White Island.
+The *Aethiopis* told of his death after he killed [[Memnon]], and of Thetis snatching him from the pyre to the White Island.

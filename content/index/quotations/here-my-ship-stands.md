@@ -1,10 +1,10 @@
 ---
-title: “Here my ship stands”
+title: “My ship stands over there”
 greek: νηῦς δέ μοι ἥδʼ ἕστηκεν
 kind: quotation
 tags: [figure, diction]
 summary: A half-line of the Odyssey, spoken by Athena in disguise and repeated by Odysseus, which Aristotle gives as a metaphor from genus to species; lying at anchor is a kind of standing.
-aliases: [my ship stands here]
+aliases: [my ship stands here, here my ship stands]
 source: Homer, Odyssey 1.185 = 24.308
 of: [metaphora, odyssey]
 ---

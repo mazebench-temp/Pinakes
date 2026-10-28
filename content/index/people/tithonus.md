@@ -27,7 +27,7 @@ passages:
 
 He is the husband of Dawn, who rises from his bed (11.1; see [[eos]]). In Aeneas' account of his line he is the first-named son of Laomedon: “Laomedon fathered Tithonus and Priam, Lampus and Clytius and Hicetaon, offshoot of Ares” (20.237–238; see [[laomedon]], [[priam]], [[lampus]], [[clytius]] and [[hicetaon]]). Three of these brothers sit with Priam among the elders on the wall (3.146–147; see [[trojan-elders]]), and Ganymede, whom the gods carried off for his beauty, is his great-uncle (20.231–235; see [[ganymede]]).
 
-Homer names no children of his. In the Odyssey Memnon, who killed Nestor's son Antilochus, is “the splendid son of shining Dawn” (*Odyssey* 4.187–188; see [[antilochus]]), but his father is not named.
+Homer names no children of his. In the Odyssey [[Memnon]], who killed Nestor's son Antilochus, is “the splendid son of shining Dawn” (*Odyssey* 4.187–188; see [[antilochus]]), but his father is not named.
 
 ## Descriptions
 

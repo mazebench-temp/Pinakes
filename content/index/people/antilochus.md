@@ -3,7 +3,7 @@ title: Antilochus
 greek: Ἀντίλοχος
 kind: person
 tags: [achaean, pylian, warrior]
-summary: A son of [[Nestor]], young and swift of foot, who makes the first kill of the Iliad. He carries the news of Patroclus' death to Achilles, and he died at Troy by the hand of Memnon, the son of the Dawn.
+summary: A son of [[Nestor]], young and swift of foot, who makes the first kill of the Iliad. He carries the news of Patroclus' death to Achilles, and he died at Troy by the hand of [[Memnon]], the son of the Dawn.
 aliases: [Antilokhos]
 grc: [Ἀντίλοχ*]
 relations:

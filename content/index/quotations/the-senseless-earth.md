@@ -1,5 +1,5 @@
 ---
-title: “It is the senseless earth that he maltreats”
+title: “He defiles the senseless earth”
 greek: κωφὴν γὰρ δὴ γαῖαν ἀεικίζει μενεαίνων
 kind: quotation
 tags: [anger, rhetoric, emotions]
