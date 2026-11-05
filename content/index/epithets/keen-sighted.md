@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, rare-word]
 summary: “Keen-sighted,” or perhaps “aiming well,” ἐΰσκοπος, an epithet of Hermes beside his title the slayer of Argus, and once in the Odyssey of Artemis the archer.
 aliases: [euskopos, sharp-sighted, aiming well]
-grc: [ἐΰσκοπον]
+grc: [ἐΰσκοπον, ἐυσκόπῳ]
 en: [keen-sighted]
 of: [hermes, artemis]
 ---

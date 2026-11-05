@@ -24,10 +24,6 @@ Merry, treating the building in his appendix on the Homeric ship, holds that it 
 
 {{notes}}
 
-## Elsewhere in the Odyssey
-
-Odysseus tells Arete of the raft without saying that he built it. Calypso, he says, sent him off “on a raft of many bindings”, gave him bread and sweet wine, clothed him in immortal garments and sent a fair wind; on the eighteenth day he saw the mountains of Scheria, but Poseidon roused the winds against him, bound up his path and stirred up the sea, and the waves would not let him ride on the raft as he groaned, until the storm scattered it and he swam through the gulf (*Odyssey* 7.264–277, a plain rendering; see [[calypso]] and [[poseidon]]). The verses of the fair wind and of the seventeen days at sea are, with a single word changed, those of *Odyssey* 5 (*Odyssey* 7.266–268, as 5.268, 5.278–279).
-
 ## Outside Homer
 
 Plato took the makeshift craft for an image of human reasoning. In the *Phaedo* Simmias says that on such questions as the survival of the soul a man must learn or find out how things are, or, if that is impossible, take the best and least refutable of human accounts and, carried on it “as on a raft” (ὥσπερ ἐπὶ σχεδίας), sail through life at hazard, unless he could make the crossing more safely and with less risk on a firmer vessel, some divine account (*Phaedo* 85c–d; see [[plato]]). Merry quotes the passage for the sense “hastily made” (on 5.33).

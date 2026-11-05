@@ -1,0 +1,5 @@
+---
+summary: In his story to Arete Odysseus says that Nausicaa “bathed me in the river, and gave me these clothes” (7.296), though in Book 6 he would not let her handmaids bathe him and washed himself apart (6.209–222). ὑγρὸν ἔλαιον at 7.107 is the oil that drips from the close-woven linen, which the entry excepts.
+---
+
+**The bath, retold.** Odysseus ends his account of the meeting with Nausicaa: she gave him food and wine, “and bathed me in the river, and gave me these clothes” (7.295–296). In Book 6 he bade her handmaids stand apart: “But I will not bathe in front of you; for I am ashamed / to strip naked when I have come among girls of the lovely tresses”, and washed the brine from himself (6.218–224; see [[aidos]] and [[nausicaa]]). Whether λοῦσε here means only "had me bathed", as καθέεσσε can mean "bade me sit", is discussed in this entry's Book 3 note, on the bath of Telemachus at Pylos. The book's other oil is not for the bath: “from the close-woven linen the liquid olive oil drips off” (7.107; see [[weaving]]).

@@ -16,7 +16,7 @@ grc: [Ἄτλαντος]
 
 {{quote:45ff2123-13af-5967-9bb4-69dd1ed75c14}}
 
-Father of [[Calypso]]. Homer knows him only as her father, here and when Odysseus tells Arete of “Ogygia, an island that lies far off in the sea, where the daughter of Atlas, crafty Calypso, dwells” (*Odyssey* 7.244–246).
+Father of [[Calypso]]. Homer knows him only as her father, here and when Odysseus tells Arete, “There is an island, Ogygia, lying far off in the sea; / there the daughter of Atlas, wily Calypso, / lives” (*Odyssey* 7.244–246).
 
 ## Descriptions
 

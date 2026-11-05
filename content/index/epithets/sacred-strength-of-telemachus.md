@@ -12,7 +12,7 @@ of: [telemachus]
 
 ## Meaning
 
-ἱερή, “sacred” ([[hieros]]), + ἴς, “strength, force,” + the genitive of the name: “the sacred strength of Telemachus,” for Telemachus himself. The Odyssey names Alcinous in the same way, ἱερὸν μένος Ἀλκινόοιο, “the sacred might of Alcinous” (*Odyssey* 7.167, 8.2, 8.4, 8.385, 8.421, 13.20, 13.24), and once Antinous (*Odyssey* 18.34). The *Iliad* has such periphrases with βίη, as for Heracles ([[might-of-heracles]]), and uses ἴς of the strength of a river and of the wind (21.356, 17.739). ἱερός in these phrases is one of the uses of the word that are hard to explain as “holy” (see [[hieros]]); the translation keeps “sacred.”
+ἱερή, “sacred” ([[hieros]]), + ἴς, “strength, force,” + the genitive of the name: “the sacred strength of Telemachus,” for Telemachus himself. The Odyssey names Alcinous in the same way, ἱερὸν μένος Ἀλκινόοιο, “the sacred might of Alcinous” (*Odyssey* 7.167, 8.2, 8.4, 8.385, 8.421, 13.20, 13.24; [[sacred-might-of-alcinous]]), and once Antinous (*Odyssey* 18.34). The *Iliad* has such periphrases with βίη, as for Heracles ([[might-of-heracles]]), and uses ἴς of the strength of a river and of the wind (21.356, 17.739). ἱερός in these phrases is one of the uses of the word that are hard to explain as “holy” (see [[hieros]]); the translation keeps “sacred.”
 
 ## Use
 

@@ -1,0 +1,5 @@
+---
+summary: Odysseus tells Arete how Zeus struck and shattered his swift ship with a gleaming thunderbolt in the middle of the wine-dark sea, so that a god brought him alone to Calypso's hearth (7.248–250): the verses Calypso spoke of him to Hermes (5.130–132).
+---
+
+“But me, unhappy man, a god brought to her hearth, / alone, when my swift ship, with a gleaming thunderbolt, / Zeus struck and shattered in the middle of the wine-dark sea” (7.248–250; see [[zeus]], [[wine-dark]] and [[the-shipwreck-of-odysseus]]). The last two verses are Calypso's, when she told Hermes that she had saved him astride the keel (5.130–132; see the Book 5 note), here turned into his own words; on ἔλσας, and the readings ἐλάσας, ἐκέδασσε, see the translation's note on 7.250. The stroke itself he will tell the Phaeacians later, in the tale of Helios' cattle: Zeus promises Helios to strike the ship with a gleaming thunderbolt and shatter it in the middle of the wine-dark sea, in nearly the same verses, and then thunders and hurls the bolt, and the ship is filled with sulfur and the companions fall into the sea (12.387–388, 12.415–419, plain renderings; see [[the-cattle-of-helios]]).

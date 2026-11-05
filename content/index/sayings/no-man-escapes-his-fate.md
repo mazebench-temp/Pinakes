@@ -3,7 +3,7 @@ title: “No man has ever escaped his fate”
 greek: μοῖραν δʼ οὔ τινά φημι πεφυγμένον ἔμμεναι ἀνδρῶν
 kind: saying
 tags: [fate]
-summary: Hector's comfort to Andromache at their parting. No man will send him to Hades beyond his portion, and no man, coward or brave, has ever escaped his fate once he has been born.
+summary: The rule that no man escapes the fate allotted him at his birth. Hector gives it as his comfort to Andromache at their parting: no man will send him to Hades beyond his portion, and no man, coward or brave, has ever escaped his fate once he has been born. Alcinous says the like of Odysseus, who at home will suffer whatever was spun for him at his birth.
 aliases: [no man escapes his fate, no one escapes his fate, no coward and no brave man, once he has been born]
 grc: ["πεφυγμένον ἔμμεναι"]
 en: [has ever escaped his fate, no coward and no brave man]

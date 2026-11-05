@@ -1,0 +1,7 @@
+---
+summary: A coping of κύανος, “dark blue enamel”, runs round the bronze walls of the house of Alcinous (7.86–87).
+---
+
+“For walls of bronze were drawn out this way and that, / from the threshold to the inner part, and around them a coping of dark blue enamel” (7.86–87; see [[the-house-of-alcinous]], [[house]] and [[bronze]]). It is the last of the three places where Homer names the substance, and the only one in the Odyssey (see the entry).
+
+W. W. Merry thinks it impossible to say with certainty what the coping was. Curtius connected the word with a Sanskrit word for dark smoke, which suits the Iliad's μέλανος κυάνοιο, “of dark κύανος” (*Iliad* 11.35). It had commonly been taken for blue steel, a view that Evans supported in *L'âge du bronze*; but steel would soon rust and would be quite unsuitable for decorating a wall. Merry follows Helbig, who showed from Theophrastus that there were two kinds of κύανος, the natural and the artificial: the first is lapis lazuli, too rare and costly for such a coping, the second a kind of glass or enamel colored with cobalt. Plates so colored had been found at Mycenae by Schliemann, and Merry supposes that such plates or tiles formed a frieze on the wall (*Commentary on the Odyssey*, 1886, on 7.87; see the translation's note on 7.87 and its row θριγκός, κύανος). The coping, θριγκός, is the finish of a wall that stands in the open air, so that these are the walls of the court (Merry on 7.86; see [[house]]).

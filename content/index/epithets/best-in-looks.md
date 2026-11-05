@@ -3,7 +3,7 @@ title: Best in looks
 greek: εἶδος ἀρίστη
 kind: epithet
 tags: [heroic-epithet, body, woman]
-summary: “Best in form,” praise of beauty in a formula for the loveliest daughter of a house, turned by Hector into reproach of [[Paris]].
+summary: “Best in form,” praise of beauty in a formula for the loveliest daughter of a house or the most beautiful of women, turned by Hector into reproach of [[Paris]].
 aliases: [most beautiful in form, eidos ariste]
 grc: [εἶδος ἀρίστη, εἶδος ἀρίστην, εἶδος ἄριστε]
 en: [most beautiful in form, best in looks]
@@ -12,7 +12,7 @@ of: [alcestis, laodice, paris]
 
 ## Meaning
 
-εἶδος (“form, looks,” an accusative of respect; see [[eidos]]) + ἄριστος (“best”; [[aristos]]): “best as to looks.” The formula θυγατρῶν εἶδος ἀρίστη, “most beautiful in form of the daughters,” praises the fairest daughter of a house. It is used of Alcestis, daughter of Pelias ({{ref:Iliad 2.715}}); of Laodice, daughter of Priam ({{ref:Iliad 3.124}}, and again at Il. 6.252); and of Cassandra, whom Othryoneus came to Troy to win (Il. 13.365).
+εἶδος (“form, looks,” an accusative of respect; see [[eidos]]) + ἄριστος (“best”; [[aristos]]): “best as to looks.” The formula θυγατρῶν εἶδος ἀρίστη, “most beautiful in form of the daughters,” praises the fairest daughter of a house. It is used of Alcestis, daughter of Pelias ({{ref:Iliad 2.715}}); of Laodice, daughter of Priam ({{ref:Iliad 3.124}}, and again at Il. 6.252); and of Cassandra, whom Othryoneus came to Troy to win (Il. 13.365). The Odyssey has it once, with “of women” for “of the daughters”: Periboea, the mother of Nausithous, is γυναικῶν εἶδος ἀρίστη, “most beautiful in form of women” (*Odyssey* 7.57).
 
 ## Use
 

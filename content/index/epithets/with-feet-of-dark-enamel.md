@@ -12,7 +12,7 @@ of: [table]
 
 ## Meaning
 
-κυανόπεζα = κύανος + πέζα (“foot”): “with feet of κύανος.” It occurs only here. κύανος is the dark blue material of the bands on Agamemnon's corselet and of the boss at the center of his shield (11.24, 11.35; [[kyanos]], [[corselet]], [[shield]]), and in the Odyssey of the coping on the walls of Alcinous' palace (Od. 7.87). It is perhaps glass paste or a blue enamel, and the translation renders it “dark blue enamel.” The adjective κυάνεος, “dark blue,” describes the serpents of the same material on the corselet and on the shield strap (11.26, 11.39). The compound is formed like the epithet of Thetis, ἀργυρόπεζα, “silver-footed” ([[silver-footed]]).
+κυανόπεζα = κύανος + πέζα (“foot”): “with feet of κύανος.” It occurs only here. κύανος is the dark blue material of the bands on Agamemnon's corselet and of the boss at the center of his shield (11.24, 11.35; [[kyanos]], [[corselet]], [[shield]]), and in the Odyssey of the coping on the walls of Alcinous' palace (*Odyssey* 7.87). It is perhaps glass paste or a blue enamel, and the translation renders it “dark blue enamel.” The adjective κυάνεος, “dark blue,” describes the serpents of the same material on the corselet and on the shield strap (11.26, 11.39). The compound is formed like the epithet of Thetis, ἀργυρόπεζα, “silver-footed” ([[silver-footed]]).
 
 ## Use
 

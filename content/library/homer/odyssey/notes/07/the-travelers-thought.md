@@ -1,0 +1,12 @@
+---
+summary: Athena, leading Odysseus through the city, tells him that the Phaeacians cross the great gulf of the sea trusting in the speed of their ships, “their ships are swift as a wing or a thought” (7.34–36).
+# ὡς εἰ πτερὸν ἠὲ νόημα (7.36), found only here.
+grc: ["πτερὸν ἠὲ νόημα"]
+en: [swift as a wing or a thought]
+---
+
+**The ships of the Phaeacians.** Athena, in the likeness of a young girl carrying a water jar, has told Odysseus to go on in silence and question no one, “For these men do not much put up with strangers” (7.30–33; see [[athena]], [[xenia]] and [[phaeacians]]). Then she tells him what they trust in: “Trusting in the speed of their swift ships, / they cross the great gulf, since the earth-shaker granted it to them; / their ships are swift as a wing or a thought” (7.34–36; see [[ships]], [[sea]] and [[poseidon]]). Of the two epithets of 7.34, θοός is the conventional one and ὠκύς the special one, which the English gives as “the speed” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 7.34; see the translation's note on 7.34).
+
+**The likeness.** ὡς εἰ πτερὸν ἠὲ νόημα stands without a verb, as ὡς εἰ does in two likenesses of Book 19 (19.39, 19.211; Merry on 7.36). Merry finds it hard to believe that a simile asking so much reflection should first have appeared in so compressed a form, and finds it set out in full in the Iliad, where Hera flies from Ida to Olympus as swiftly as a traveled man's mind goes from place to place (*Iliad* 15.80–83; Merry on 7.36). The wing is the likeness of ships elsewhere in the Odyssey too: in the prophecy of Teiresias, oars are the wings of ships, τά τε πτερὰ νηυσὶ πέλονται (11.125 = 23.272; see [[like-wings]]).
+
+**The speed proved.** Alcinous makes the boast good. His men, he promises, will row Odysseus home in his sleep, even if his land is much farther than Euboea, which those who saw it call the farthest away, when they carried Rhadamanthys there and came back home the same day (7.317–326; see [[euboea]] and [[rhadamanthus]]). In the next book he tells him that the Phaeacian ships have no steersmen and no steering oars, but know of themselves the thoughts and minds of men, νοήματα καὶ φρένας ἀνδρῶν, and cross the gulf of the sea most swiftly, hidden in mist and cloud (8.556–563, a plain rendering): νόημα, the thought that is their likeness here, is there what they know. On the voyage to Ithaca the ship runs so steadily that not even the falcon, the lightest of winged things, could keep pace with it (13.86–88, a plain rendering).

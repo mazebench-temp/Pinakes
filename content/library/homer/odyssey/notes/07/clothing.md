@@ -1,0 +1,9 @@
+---
+summary: Nausicaa's brothers carry the washed clothing into the house (7.6). Arete knows the clothes the stranger wears and asks who gave them to him (7.234–238); in his answer Odysseus tells of the immortal garments that Calypso gave him, which he kept wet with his tears for seven years, and of the clothes Nausicaa gave him by the river (7.259–265, 7.296).
+---
+
+**The washing comes home.** When Nausicaa reaches her father's house, her brothers unyoke the mules “and carried the clothing inside” (7.6; see [[mules]], [[wagon]] and [[nausicaa]]), the clothing that she had taken to the washing troughs in the morning (6.74; see [[washing-troughs]]).
+
+**Who gave you these clothes?** Arete knows the mantle and the tunic, “fine ones, which she herself had made with her handmaids” (7.234–235; see [[cloak]] and [[tunic]]), and her question joins the guest's name to his clothes: “Who are you among men, and from where? Who gave you these clothes? / Did you not say that you came here wandering over the sea?” (7.238–239; see [[who-are-you-among-men]] and [[arete-queen-of-the-phaeacians]]). Odysseus tells where he has come from and who gave him the clothes, but not who he is. His story passes from Calypso's immortal garments to the clothes of the princess, and ends with them, “and gave me these clothes” (7.296); his name he keeps for Book 9 (9.19).
+
+**Immortal garments.** On Ogygia “always the garments, / immortal, that Calypso gave me, I kept wet with my tears” (7.259–260), and when she sent him off on the raft she “put immortal garments on me” (7.265; see [[calypso]] and [[raft]]). ἄμβροτα εἵματα, “immortal garments”, are the clothes of a goddess' giving, as Zeus bids Apollo “put immortal clothing” on the body of Sarpedon (*Iliad* 16.670; see the translation's row ἄμβροτα εἵματα). In Book 5 the same garments weighed him down in the sea until he stripped them off (5.321, 5.343, 5.372; see the Book 5 note).

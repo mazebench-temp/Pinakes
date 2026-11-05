@@ -1,0 +1,7 @@
+---
+summary: The Phaeacians trust in their ships, “swift as a wing or a thought” (7.34–36), and Odysseus marvels at them in the harbors (7.43); the women are as skilled at the loom as the men are at driving a swift ship (7.108–111), and Alcinous ends his promise of the escort with a boast of his ships and young men (7.327–328).
+---
+
+**The ships of the Phaeacians.** Athena warns the stranger that the Phaeacians do not welcome strangers: “Trusting in the speed of their swift ships, / they cross the great gulf, since the earth-shaker granted it to them; / their ships are swift as a wing or a thought” (7.34–36; see [[phaeacians]], [[poseidon]] and [[the-travelers-thought]]). Walking unseen, Odysseus “marveled at the harbors and the balanced ships” (7.43; see [[the-city-of-the-phaeacians]] and [[balanced-ships]]). The craft of the men is the measure of the women's: “As much as the Phaeacians are skilled beyond all men / in driving a swift ship on the sea, so are the women / skilled at the loom” (7.108–110; see [[weaving]]). Ships brought Eurymedusa from Apeire (7.9; see [[eurymedusa]]), and Alcinous closes the day with a boast that the stranger will see for himself “how far the best / are my ships, and my young men at tossing up the sea with the oar-blade” (7.327–328; see [[pompe]]).
+
+**His own ship.** In his story Odysseus tells how Zeus struck his swift ship with a gleaming thunderbolt and shattered it in the middle of the wine-dark sea (7.249–250 = 5.131–132; see [[the-shipwreck-of-odysseus]] and [[thunderbolt]]).

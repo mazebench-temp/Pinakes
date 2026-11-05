@@ -1,0 +1,5 @@
+---
+summary: When Alcinous has raised him from the hearth, a handmaid brings the stranger water for his hands in a golden pitcher over a silver basin, in the verses of every guest's welcome (7.172–174 = 1.136–138).
+---
+
+The suppliant becomes a guest. As soon as Alcinous has seated him on the chair of his son, “a handmaid brought water for the hands in a pitcher and poured it, / a fine golden one, over a silver basin, / for them to wash; and she drew up a polished table beside them” (7.172–174; see [[water-for-the-hands]], [[hand-washing]], [[table]] and [[gold-and-silver]]). The verses are those of Telemachus' welcome to the disguised Athena and of the welcome at Sparta (1.136–138, 4.52–54; see the Book 1 note), and the meal follows as it does there (7.175–177; see [[feast]]). The Suda explains προχόῳ as a vessel suited to pouring, shaped like a κώθων, a drinking cup (π 2936), and χέρνιψ as the water itself (χ 209). The pitcher is kept apart in the English from the “water jar”, κάλπις, that Athena carries when she meets Odysseus at the city (7.20; see the translation's row κάλπις).

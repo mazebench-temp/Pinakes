@@ -1,0 +1,8 @@
+---
+summary: The Phaeacians approve the stranger's plea to be sent home at dawn, “since he had spoken fair and right” (κατὰ μοῖραν, 7.226–227), and Odysseus, telling of his first sight of Scheria, calls himself δύσμορος, “ill-fated”, for misery was still to come (7.269–271).
+# μοῖραν (7.227) is in the entry; δυσμόρῳ (7.270) is in the Book 1 note.
+---
+
+**Fair and right.** κατὰ μοῖραν ἔειπες ends the Iliad's verse of assent, “Yes, old man, all that you have said is fair and right”, Agamemnon's to Nestor and Hermes' to Priam (*Iliad* 1.286, 24.379), and here the narrator gives it as the leaders' reason for agreeing: they “bade / send the stranger on his way, since he had spoken fair and right” (7.226–227; see [[pompe]]). The two verses return when the Phaeacians approve his farewell and send him home (13.47–48). κατὰ μοῖραν is speech in due measure, and the evening ends with the king's maxim of the same idea, “what is due is better in all things” (7.310; see [[what-is-due-is-better]] and [[aisa]]).
+
+**Ill-fated.** The sight of the shadowy mountains of Scheria on the eighteenth day gladdened his heart, δυσμόρῳ, “ill-fated as I was; for I was yet to keep company with misery” (7.268–271; see [[algos]] and [[the-shipwreck-of-odysseus]]). The word is Athena's for him in the first council of the gods, “ill-fated man, who long now suffers woes far from his friends” (1.48–49), and the suppliant has used the second half of her verse of himself at the queen's knees, “since long now I suffer woes far from my friends” (7.152 after 1.49; see [[supplication]]); Euryalus will say it of him in Book 8, when he gives him his sword (8.411).

@@ -2,7 +2,7 @@
 summary: Two baths in the river. When the washing is done, the girls bathe and anoint themselves with the oil that Nausicaa's mother gave her (6.79–80, 6.96); then Odysseus, whom Nausicaa bids her handmaids bathe, sends them apart, since he is ashamed to strip before them, washes the brine from his body himself and anoints himself (6.209–227).
 # ἐλαίῳ (6.219), always the oil of anointing in the Odyssey (3.466, 4.49, 4.252, 6.96 and later books); in the Iliad
 # it is also the oil on the dancers' tunics (Il. 18.596), so the form stays out of the entry. "ὑγρὸν ἔλαιον" (6.79,
-# 6.215); at 7.107 the same words are the oil that drips from close-woven linen, to except with Book 7. The forms
+# 6.215); at 7.107 the same words are the oil that drips from close-woven linen, which the entry excepts. The forms
 # found only in this book are in the entry: χυτλώσαιτο, ἀπολούσομαι, χρίσομαι, "χροός ἐστιν ἀλοιφή", νίζετο,
 # ἔσμηχεν, "λίπʼ ἄλειψεν".
 grc: [ἐλαίῳ, "ὑγρὸν ἔλαιον"]

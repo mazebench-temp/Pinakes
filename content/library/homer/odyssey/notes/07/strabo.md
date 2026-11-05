@@ -1,0 +1,5 @@
+---
+summary: Strabo quotes Alcinous' verse on the Phaeacians who took Rhadamanthys to Euboea to see Tityus, the son of Earth, where he tells of the stories of Tityus at Panopeus and of the cave of his mother Elara and his shrine shown in Euboea.
+---
+
+- **Rhadamanthys and Tityus.** At Panopeus in Phocis, Strabo says, they tell the stories of Tityus. “And Homer says that the Phaeacians took Rhadamanthys to Euboea, to see Tityus, the son of Earth” (ὀψόμενον Τιτυὸν γαιήϊον υἱόν), and a cave called Elarion, after Tityus' mother Elara, is shown in the island, with a hero's shrine of Tityus and honors paid to him (*Geography* 9.3.14, a plain rendering). The verse is Alcinous' (7.323–324); Strabo's quotation has ὀψόμενον where the text has ἐποψόμενον. A little earlier he faults Ephorus, who, for all his professed dislike of myths, told that Apollo, on his way from Athens to Delphi, put down at Panopeus Tityus, “a violent and lawless man” who held the place (*Geography* 9.3.11–12): [[tityus]], [[rhadamanthus]], [[euboea]] and [[panopeus]].

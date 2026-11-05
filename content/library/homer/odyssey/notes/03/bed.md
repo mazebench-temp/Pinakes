@@ -7,7 +7,7 @@ grc: [κοίτοιο, λεχέεσσιν, εὐνῆφι, "λέχος πόρσυ
 en: [couch]
 ---
 
-**Think of bed.** At sunset Athena tells the company to pour libations to Poseidon and the other immortals “and then think of bed; for it is the hour” (3.334; see [[libation]]). κοίτοιο μεδώμεθα is the end of a feast: the Phaeacians pour their last libation of the day to Hermes “when they thought of bed” (7.137–138, a plain rendering).
+**Think of bed.** At sunset Athena tells the company to pour libations to Poseidon and the other immortals “and then think of bed; for it is the hour” (3.334; see [[libation]]). κοίτοιο μεδώμεθα is the end of a feast: the Phaeacians pour their last libation of the day to Hermes “whenever they thought of bed” (7.137–138).
 
 **Not on the deck.** Athena and Telemachus mean to sleep at their ship, and Nestor will not allow it: “Surely the dear son of this man Odysseus will not / lie down on the deck of a ship while I / am alive” (3.352–354; see [[xenia]] and [[blankets]]). A guest sleeps in the house, on bedding fit for a guest. Athena alone goes back to the ship, to lie down beside it with the crew (3.365; see [[athena]]).
 

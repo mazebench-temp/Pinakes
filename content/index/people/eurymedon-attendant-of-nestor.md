@@ -7,7 +7,7 @@ summary: Nestor's attendant, “manly Eurymedon”, who with Sthenelus takes cha
 aliases: [Eurymedon the Pylian]
 # Εὐρυμέδων at 4.228 is Agamemnon's charioteer (eurymedon), who will need except: [11.620] in Book 11.
 grc: [Εὐρυμέδων]
-except: [4.228]
+except: [4.228, Od. 7.58]
 en: [Eurymedon]
 refs: [8.109, 8.113]
 relations:
@@ -22,4 +22,4 @@ When Diomedes takes Nestor into his chariot, he leaves the old man's horses to �
 
 Diomedes has just told Nestor that “your attendant is a weakling” (ἠπεδανός, 8.104), yet the two who take over are ἴφθιμοι, “mighty”. The poem does not say whether Diomedes meant Eurymedon. ἠπεδανός occurs only once more, when Hephaestus speaks of his own lameness (Od. 8.311).
 
-The name, “wide-ruling”, belongs also to Agamemnon's charioteer, the son of Ptolemaeus (4.228; see [[eurymedon]]), and in the Odyssey to a king of the Giants (Od. 7.58). Nothing in the text makes Nestor's attendant and Agamemnon's one man.
+The name, “wide-ruling”, belongs also to Agamemnon's charioteer, the son of Ptolemaeus (4.228; see [[eurymedon]]), and in the Odyssey to a king of the Giants (*Odyssey* 7.58; see [[eurymedon-king-of-the-giants]]). Nothing in the text makes Nestor's attendant and Agamemnon's one man.

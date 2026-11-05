@@ -1,0 +1,19 @@
+---
+summary: The escort is what the suppliant asks of Arete, “But for me, speed my escort, so that I may reach my native land / the sooner” (7.151–152). Alcinous promises it for the morrow, so that the stranger may reach his native land “under our escort” without harm (7.189–196), and when he has heard his story he fixes the day and the manner: the stranger will lie down overcome by sleep, and the young men will row him over the calm, even if his home is farther than Euboea (7.317–328).
+# Unnamed: πεμπέμεναι τὸν ξεῖνον, "send the stranger on his way" (7.227 = 13.48).
+grc: ["πεμπέμεναι τὸν ξεῖνον"]
+en: [send the stranger on his way]
+passages:
+  - 7.186-196 | Alcinous promises the escort
+  - 7.317-328 | The escort for the morrow
+---
+
+**The request.** Calypso sent him from Ogygia on a raft, the voyage that Zeus decreed would be made “with the escort neither of gods nor of mortal men” (πέμπε, 7.264; 5.32; see [[the-building-of-the-raft]]). In Scheria he asks the Phaeacians for a mortal escort, and he asks for it before anything else, at the end of his plea at the queen's knees: αὐτὰρ ἐμοὶ πομπὴν ὀτρύνετε πατρίδʼ ἱκέσθαι / θᾶσσον (7.151–152; see [[supplication]]). Merry renders “hasten on with the preparations for my return, that I may reach home all the sooner” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.518, where the Cyclops mocks the same words). Nausicaa had sent him to her father for this, “so that as soon as may be / you may win escort and a homecoming from my father” (6.289–290; see [[nostos]]).
+
+**The promise.** The king gives it in the plan for the next day: after the entertainment and the sacrifices, “then we will remember his escort too, / so that the stranger, without toil and vexation, / may reach his native land under our escort, / rejoicing, and quickly, even if he is from very far away, / and suffer no evil and no bane in between, / before he sets foot on his own land” (7.191–196; see [[xenia]]). μεσσηγύς is “in between” in space, between Scheria and his city, as a scholium explains it (Merry on 7.195; see the translation's note on 7.195). The escort answers for the voyage and no more: what he must suffer at home is what his fate and the Spinners spun for him at his birth (7.196–198; see [[aisa]] and [[fates]]). Odysseus asks only that it be soon, “make haste when dawn appears, / so that you may set me, unhappy man, on my native land” (7.222–223), and the leaders approve and bid “send the stranger on his way” (7.226–227), the two verses with which, in Book 13, the Phaeacians approve his farewell before the ship sails (13.47–48).
+
+**The day and the manner.**
+
+{{quote:2fd3616a-a60b-51c5-ac1d-74470516b503}}
+
+τεκμαίρομαι is “ordain” (see the translation's table of key words): ἐς τόδʼ, “for a certain day”, is made precise by αὔριον ἔς, “for tomorrow” (Merry on 7.317; on the division of the verse, see the translation's note on 7.317–318). The manner is strange. The passenger will sleep, and the rowers will row over the calm (7.318–319; see [[hypnos]]); so it is done in Book 13, when Odysseus lies down on the deck in silence and a sound sleep falls on him, “sweetest, most like to death”, while the young men toss up the sea with their oar-blades (13.73–80, a plain rendering). The distance does not matter: they once took fair-haired Rhadamanthys to Euboea, which those who saw it say is the farthest away, to visit Tityus, and came home the same day (7.321–326; see [[the-voyage-of-rhadamanthus]] and [[euboea]]). The king ends with the boast of his ships and his young men, “how far the best / are my ships, and my young men at tossing up the sea with the oar-blade” (7.327–328), the verb of the voyage itself (ἀνερρίπτουν ἅλα πηδῷ, 13.78). Odysseus answers with a prayer to Zeus that Alcinous may fulfill all he has said: then the king's fame would be unquenchable, and he himself would reach his native land (7.331–333; see [[kleos]] and [[prayer]]).

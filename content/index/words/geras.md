@@ -3,7 +3,7 @@ title: Prize
 greek: γέρας
 kind: term
 tags: [honor, exchange]
-summary: A prize of honor, set apart for a leader from the common spoils and given by the army. It is property and a public statement of worth at once, and to lose it is to lose [[time|τιμή]].
+summary: A prize of honor, set apart for a leader from the common spoils and given by the army, or given by a people to its king. It is property and a public statement of worth at once, and to lose it is to lose [[time|τιμή]].
 aliases: [geras, prize of honor, agerastos]
 grc: [γέρας, ἀγέραστος]
 en: [prize]

@@ -1,0 +1,9 @@
+---
+summary: Odysseus says that he would not follow Nausicaa, “lest your heart too should be indignant when you saw it” (ἐπισκύσσαιτο, 7.306), and Alcinous answers that the heart in his breast is not such “as to be angry for no reason” (μαψιδίως κεχολῶσθαι, 7.310).
+# κεχολῶσθαι (7.310; again 18.227, 22.59), the perfect of χολόω; ἐπισκύσσαιτο (7.306), of ἐπισκύζομαι, as ἐπισκύζωνται
+# (Iliad 9.370), "be indignant".
+grc: [κεχολῶσθαι, ἐπισκύσσαιτο]
+en: [indignant]
+---
+
+The exchange between the stranger and the king at the end of the evening is about anger. Odysseus explains why he did not come to the house with Nausicaa's handmaids: he was afraid “lest your heart too should be indignant when you saw it”, and he gives the reason in a maxim, “for we tribes of men on the earth are quick to anger” (7.305–307; see [[quick-to-anger]] and [[deos]]). σκύζομαι is “be angry, sulk”, the word for Hera sulking at Zeus (*Iliad* 4.23) and for the gods' anger with Achilles over Hector's body (*Iliad* 24.113), and ἐπισκύζομαι is to be indignant at a thing, as Achilles would have the Achaeans be indignant at Agamemnon (*Iliad* 9.369–370). Düntzer took the verb to describe anger shown by the wrinkling of the brow, ἐπισκύνιον (W. W. Merry, *Commentary on the Odyssey*, 1886, on 7.305). The king answers with the verb of the χόλος family: “Stranger, the dear heart in my breast is not such / as to be angry for no reason” (7.309–310). The infinitive explains τοιοῦτον, “not such as to be angry”, as Telemachus says of himself and his household, “we are in no way such as to ward it off” (2.60; Merry on 7.309). μαψιδίως is “for no reason”, as Dione asks who of the gods has hurt Aphrodite “for no reason” (*Iliad* 5.373–374; see the translation's table of key words), and the perfect κεχολῶσθαι is the state of being angry, which he will not be. He closes with a maxim of his own, “what is due is better in all things” (7.310; see [[what-is-due-is-better]] and [[ker-heart]]).

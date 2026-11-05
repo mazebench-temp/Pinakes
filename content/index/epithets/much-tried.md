@@ -5,7 +5,7 @@ kind: epithet
 tags: [supplication, rare-word]
 summary: “Much-tried,” ταλαπείριος, an epithet of the Odyssey for a wandering stranger or a suppliant, first in Nausicaa's words of Odysseus, “a much-tried suppliant.”
 aliases: [talapeirios, sorely tried]
-grc: [ταλαπείριον]
+grc: [ταλαπείριον, ταλαπείριος]
 en: [much-tried]
 of: [odysseus]
 ---

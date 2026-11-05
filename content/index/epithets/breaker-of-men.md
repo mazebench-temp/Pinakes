@@ -5,14 +5,15 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Breaker of men,” an epithet that Homer gives only to [[Achilles]]: the warrior who breaks the ranks of the enemy.
 aliases: [rhexenor, man-breaking, breaker of ranks]
-grc: [ῥηξήνορα]
+# Ῥηξήνορα, Ῥηξήνορος (Od. 7.63, 7.146) are the name of Arete's father (rhexenor).
+grc: [ῥηξήνορα, "!^Ῥηξήνορ*"]
 en: [breaker of men]
 of: [achilles]
 ---
 
 ## Meaning
 
-ῥηξήνωρ = ῥήγνυμι (“break”) + ἀνήρ (“man”): “one who breaks men,” that is, the ranks of men. ῥήγνυμι is the verb of breaking a battle line: Ajax “was the first to break a battalion of the Trojans” (6.5–6), and Areithous the mace-man “broke the battalions with an iron mace” (ῥήγνυσκε φάλαγγας, 7.141; [[areithous]]). The abstract noun appears once, when the disguised Odysseus claims that Ares and Athena gave him “daring and the breaking of men” (θάρσος … καὶ ῥηξηνορίην, Od. 14.216–217). The compound is also a name: Rhexenor is the brother of Alcinous in the Odyssey (Od. 7.63, 7.146).
+ῥηξήνωρ = ῥήγνυμι (“break”) + ἀνήρ (“man”): “one who breaks men,” that is, the ranks of men. ῥήγνυμι is the verb of breaking a battle line: Ajax “was the first to break a battalion of the Trojans” (6.5–6), and Areithous the mace-man “broke the battalions with an iron mace” (ῥήγνυσκε φάλαγγας, 7.141; [[areithous]]). The abstract noun appears once, when the disguised Odysseus claims that Ares and Athena gave him “daring and the breaking of men” (θάρσος … καὶ ῥηξηνορίην, Od. 14.216–217). The compound is also a name: Rhexenor, the brother of Alcinous and father of Arete in the Odyssey, whose forms the pattern leaves to his own entry (*Odyssey* 7.63, 7.146; [[rhexenor]]).
 
 As an epithet it belongs to Achilles alone, five times in Homer, always beside his name (Ἀχιλλῆα ῥηξήνορα, Ἀχιλλῆϊ ῥηξήνορι, Ἀχιλλῆος ῥηξήνορος): Il. 7.228, 13.324, 16.146, 16.575; Od. 4.5. Compare his other titles of war, [[lion-hearted]] and [[sacker-of-cities]].
 

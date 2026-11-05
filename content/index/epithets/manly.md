@@ -14,7 +14,7 @@ of: [eurymedon-attendant-of-nestor]
 
 ἀγαπήνωρ = ἀγαπάω (“love, be content with”) + ἀνήρ (“man”), as in ἠνορέη (“manliness,” 8.226): “loving manhood,” manly. The same compound is the name of Agapenor, son of Ancaeus, who led the Arcadians to Troy in sixty ships (2.603–614; [[agapenor]]). The pattern keeps the name apart by its capital, as with [[proud]] and Agenor ([[agenor]]).
 
-The epithet is used five times in the Iliad: of Eurymedon, Nestor's attendant, here; of Polydamas, to whom the Trojans run in Book 13 (13.756); of Eurypylus, in whose hut Patroclus sits tending his wound (15.390–392); and twice of Idomeneus, in the verse “Meriones, the attendant of manly Idomeneus” (23.113, 23.124). In the Odyssey it is given to Laodamas, son of Alcinous (Od. 7.170). In *Iliad* 8 the epithet describes an attendant (θεράπων); in Book 23 it describes the master, in the verse about his attendant.
+The epithet is used five times in the Iliad: of Eurymedon, Nestor's attendant, here; of Polydamas, to whom the Trojans run in Book 13 (13.756); of Eurypylus, in whose hut Patroclus sits tending his wound (15.390–392); and twice of Idomeneus, in the verse “Meriones, the attendant of manly Idomeneus” (23.113, 23.124). In the Odyssey it is given to Laodamas, son of Alcinous, who gives up his chair to the suppliant (*Odyssey* 7.170; [[laodamas-son-of-alcinous]]). In *Iliad* 8 the epithet describes an attendant (θεράπων); in Book 23 it describes the master, in the verse about his attendant.
 
 ## Use
 

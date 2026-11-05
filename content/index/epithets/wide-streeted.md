@@ -12,7 +12,7 @@ of: [troy]
 
 ## Meaning
 
-εὐρυάγυια = εὐρύς (“wide, broad”) + ἄγυια (“street, way,” related to ἄγω, “lead”): “with wide streets.” It describes a large, well-laid-out city. Homer uses it of Troy nine times, and once each of Mycenae (Il. 4.52, one of Hera's three favorite cities), of Athens (Od. 7.80), and of a city in general (Od. 15.384).
+εὐρυάγυια = εὐρύς (“wide, broad”) + ἄγυια (“street, way,” related to ἄγω, “lead”): “with wide streets.” It describes a large, well-laid-out city. Homer uses it of Troy nine times, and once each of Mycenae (Il. 4.52, one of Hera's three favorite cities), of Athens (*Odyssey* 7.80), and of a city in general (*Odyssey* 15.384).
 
 ## Use
 

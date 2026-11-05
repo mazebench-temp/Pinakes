@@ -1,0 +1,6 @@
+---
+summary: Odysseus “threw his arms around the knees of Arete” (7.142), the gesture Nausicaa had told him to make, and names the knees in his plea: “to your husband and to your knees I have come, after toiling much” (7.147).
+# γούνασι (7.142) and γούναθʼ (7.147) are in the Odyssey notes of Books 4 and 6.
+---
+
+In Book 6 the knees were not clasped: Odysseus begged Nausicaa from a distance, “lest the girl be angry in her heart with him if he clasped her knees”, and she told him that the knees to clasp were her mother's (6.142–147, 6.310–311; see the note there). Here he does it, ἀμφὶ δʼ ἄρʼ Ἀρήτης βάλε γούνασι χεῖρας Ὀδυσσεύς (7.142; see [[supplication]] and [[arete-queen-of-the-phaeacians]]), and the plea that follows says it again in words, σόν τε πόσιν σά τε γούναθʼ ἱκάνω, “to your husband and to your knees I have come” (7.147; see [[posis]]). “To come to the knees” is the suppliant's phrase: Telemachus came to Nestor's and to Menelaus' knees for news of his father (3.92, 4.322), and Odysseus to the knees of the river god (5.449; see the Book 5 note on [[supplication]]). Then he leaves the knees and sits down in the ashes of the hearth, and it is the queen's husband who answers, taking the suppliant by the hand and raising him (7.153–154, 7.168–169).

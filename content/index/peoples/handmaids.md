@@ -21,6 +21,6 @@ A lady does not go out alone. “Not alone; two handmaids went along with her”
 
 Many were captives. Achilles and Patroclus took the slave women of their hut in raids (18.28; see [[captive-women]] and [[raiding]]), and every Trojan wife knows that she may join them: Hector foresees Andromache weaving at another woman's bidding and carrying water in Argos (6.454–458; see [[doulios]]). Hephaestus is served by handmaids of gold, made like living girls, with mind and voice and strength (18.417–420; see [[the-golden-handmaids]] and [[hephaestus]]).
 
-The Odyssey is full of them: Eurycleia, Odysseus' old nurse, who keeps the storeroom of the house (*Odyssey* 2.345–347, 2.361; see [[eurycleia]]); Eurynome the housekeeper (*Odyssey* 17.495); and the fifty slave women of Odysseus' house, twelve of whom took up with the suitors and were hanged for it (*Odyssey* 22.421–425, 22.465–473).
+The Odyssey is full of them: Eurycleia, Odysseus' old nurse, who keeps the storeroom of the house (*Odyssey* 2.345–347, 2.361; see [[eurycleia]]); Eurynome the housekeeper (*Odyssey* 17.495); the old chamber-woman Eurymedusa and the fifty slave women at the mills and the looms in the house of Alcinous (*Odyssey* 7.7–13, 7.103–111; see [[eurymedusa]] and [[the-house-of-alcinous]]); and the fifty slave women of Odysseus' house, twelve of whom took up with the suitors and were hanged for it (*Odyssey* 22.421–425, 22.465–473).
 
 {{notes}}

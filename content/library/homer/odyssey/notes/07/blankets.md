@@ -1,0 +1,5 @@
+---
+summary: Arete has her handmaids throw fine purple blankets on the guest's bed in the colonnade, spread rugs over them and put woolly cloaks on top (7.336–338 = 4.297–299, *Iliad* 24.644–646).
+---
+
+“and white-armed Arete called to her handmaids / to set beds beneath the colonnade, and throw fine purple / blankets on them, and spread rugs over them, / and put woolly cloaks on top for them to wear” (7.335–338; see [[bed]], [[purple]], [[cloak]] and [[arete-queen-of-the-phaeacians]]). The bedding is the same, verse for verse, as the bedding of the guests at Sparta and of Priam in Achilles' hut (4.297–299; *Iliad* 24.644–646; see the Book 4 note), and it is laid in the order that W. W. Merry describes from Nestor's boast of his cloaks and blankets: the costly ῥήγεα, the rug or coverlet, τάπης, over them for the sleeper to lie on, and the cloak above him as a counterpane (*Commentary on the Odyssey*, 1886, on 3.349; see the entry). The Suda glosses ῥῆγος as a dyed garment (ρ 125), and τάπητες as coverings or bedding (τ 102).

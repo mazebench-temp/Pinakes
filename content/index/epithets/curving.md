@@ -5,7 +5,7 @@ kind: epithet
 tags: [ship]
 summary: An epithet of [[ships]], usually understood as “curved at both ends,” for the upswept bow and stern.
 aliases: [curved at both ends, rolling, amphielissa]
-grc: [ἀμφιελίσσας]
+grc: [ἀμφιελίσσας, ἀμφιελίσσης]
 en: [curving]
 of: [ships]
 ---

@@ -1,0 +1,5 @@
+---
+summary: Echeneus bids the king have the heralds mix wine for a libation to Zeus, and Alcinous bids the herald Pontonous mix a bowl and serve it to all in the hall (7.163–183).
+---
+
+Echeneus' advice turns to the wine: “bid the heralds / mix the wine, so that to Zeus who delights in thunder / we may pour libations too, who attends on revered suppliants” (7.163–165; see [[echeneus]] and [[heralds]]). ἐπικρῆσαι is to mix the wine with the water, W. W. Merry explains (*Commentary on the Odyssey*, 1886, on 7.164). Alcinous gives the order to the herald, “Pontonous, mix a bowl and serve out wine / to all throughout the hall”, and ends it with Echeneus' verses of Zeus (7.179–181; see [[pontonous]] and [[alcinous]]), and “Pontonous mixed the wine sweet to the heart, / and served it out to all” (7.182–183; see [[wine]], [[cup]] and [[libation]]). The bowl is mixed for the god of suppliants as soon as the suppliant is seated (see [[a-suppliant-is-respected-by-the-gods]] and [[supplication]]).

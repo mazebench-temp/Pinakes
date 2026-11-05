@@ -25,7 +25,7 @@ passages:
 
 ## Elsewhere in Homer
 
-Vineyards are wealth in Homer. The Calydonians offered Meleager a domain half of vineyard and half of plowland (9.577–580), and towns of the Catalogue are “rich in vines” (see [[vine-rich]] and [[rich-in-grapes]]). In the Odyssey the vineyard of Alcinous shows every stage of the vintage at once: some grapes drying on level ground in the sun, others being gathered, others trodden, and in front unripe grapes shedding their blossom (*Odyssey* 7.122–126). Odysseus proves himself to his father by naming the trees that Laertes gave him as a boy, among them fifty rows of vines, each ripening in turn, with clusters of every kind on them (*Odyssey* 24.340–344). The fruit of the vintage is wine, “honey-sweet” like the grapes, as in the cup that is given to the plowmen on the Shield (18.545; see [[wine]]).
+Vineyards are wealth in Homer. The Calydonians offered Meleager a domain half of vineyard and half of plowland (9.577–580), and towns of the Catalogue are “rich in vines” (see [[vine-rich]] and [[rich-in-grapes]]). In the Odyssey the vineyard of Alcinous shows every stage of the vintage at once: some grapes drying on level ground in the sun, others being gathered, others trodden, and in front unripe grapes shedding their blossom (*Odyssey* 7.122–126; see [[the-garden-of-alcinous]]). Odysseus proves himself to his father by naming the trees that Laertes gave him as a boy, among them fifty rows of vines, each ripening in turn, with clusters of every kind on them (*Odyssey* 24.340–344). The fruit of the vintage is wine, “honey-sweet” like the grapes, as in the cup that is given to the plowmen on the Shield (18.545; see [[wine]]).
 
 ## Outside Homer
 

@@ -1,0 +1,6 @@
+---
+summary: Alcinous blames Nausicaa for not bringing the stranger home with her handmaids, and Odysseus keeps her reason, the people's bitter talk, to himself: he says that he would not follow her, out of fear and shame, “lest your heart too should be indignant when you saw it” (7.298–307).
+refs: [7.303-307]
+---
+
+In Book 6 Nausicaa sent the stranger to wait in Athena's grove and come into the city alone, because of what some baser man of the overbearing Phaeacians would say if he saw her with him: “So they will say, and this would be a reproach to me” (6.273–299; see the Book 6 note). At her father's table the arrangement is blamed, for the stranger came to her first as a suppliant, and she should have brought him to the house (7.298–301; see [[supplication]]). Odysseus does not give the king his daughter's reason. He takes the decision on himself, and the fear of the town becomes his own fear of the king: “but I would not, out of fear and shame, / lest your heart too should be indignant when you saw it; / for we tribes of men on the earth are quick to anger” (7.305–307; see [[quick-to-anger]], [[deos]] and [[cholos]]). καὶ σοί, “your heart too”, leaves the others unnamed. The maxim that ends the speech puts the talk she feared into a general truth about men, and the king answers it with a maxim of his own (7.309–310; see [[what-is-due-is-better]]).

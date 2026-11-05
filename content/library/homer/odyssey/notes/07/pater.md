@@ -1,0 +1,6 @@
+---
+summary: Athena, in the likeness of a young girl, calls the stranger ξεῖνε πάτερ, “stranger, father” (7.28, 7.48), and gives herself a father, a neighbor of the king (7.29); Nausicaa comes home to “the famous house of her father” (7.3); and the king and the stranger both call on “father Zeus” (7.311, 7.316, 7.331).
+# πάτερ (7.28, 7.48, 7.311, 7.331), πατρός (7.3, 7.29) and πατρί (7.316) are in the entry and its Odyssey notes.
+---
+
+ξεῖνε πάτερ is the respectful address of the young to an older man, which the translation renders “stranger, father” (see its table of key words); the stranger had called her ὦ τέκος, “My child” (7.22), and the goddess keeps up the part with the address and with a father of her own, who lives near the king (7.28–29; see [[athena]] and [[xenia]]). The address comes again in later books, from Euryalus when he gives the stranger his sword and from Eumaeus when he brings him Penelope's message (8.408, 17.553). The book's other fathers are the king, to whose house Nausicaa drives the wagon (7.3; see [[alcinous]] and [[nausicaa]]), and Zeus, named “father” in the king's wish for a son-in-law and in the stranger's prayer (7.311, 7.316, 7.331; see [[if-only-father-zeus]], [[father-zeus]] and [[zeus]]).

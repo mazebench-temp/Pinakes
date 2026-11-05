@@ -50,7 +50,7 @@ She sends the Nereids back to their father's house and goes to Olympus (18.138�
 
 **The god's limit.** Hephaestus can promise armor that men will marvel at, but not that it will save its wearer. His wish that he could hide Achilles from death “as surely” as he will give him armor (18.464–466) sets the gift against the fate Thetis has just named, “my swift-fated son” (18.458; see [[death-of-achilles-foretold]]).
 
-**Wonders.** The house is full of marvels: the tripods that go of themselves (18.373–377) and the golden handmaids, “like living young women. / There is a mind in their hearts, and voice in them, / and strength” (18.418–420). Leaf compares the gold and silver dogs that Hephaestus made to guard the palace of Alcinous (*Odyssey* 7.91–94), and observes how sparingly such marvels are used even on Olympus (on 18.376). The shield carries the wonder further: its soldiers fight “like living mortals” (18.539; see [[the-shield-of-achilles]] and [[thaumaston]]).
+**Wonders.** The house is full of marvels: the tripods that go of themselves (18.373–377) and the golden handmaids, “like living young women. / There is a mind in their hearts, and voice in them, / and strength” (18.418–420). Leaf compares the gold and silver dogs that Hephaestus made to guard the palace of Alcinous (*Odyssey* 7.91–94; see [[the-gold-and-silver-dogs]]), and observes how sparingly such marvels are used even on Olympus (on 18.376). The shield carries the wonder further: its soldiers fight “like living mortals” (18.539; see [[the-shield-of-achilles]] and [[thaumaston]]).
 
 ## Outside Homer
 

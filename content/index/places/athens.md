@@ -3,11 +3,12 @@ title: Athens
 greek: Ἀθῆναι
 kind: place
 tags: [mainland-greece, city, athenian, attica]
-summary: The city of Athena in Attica. The Catalogue calls it "the well-built citadel, the land of great-hearted Erechtheus", and it sends fifty ships under Menestheus; in the Odyssey Sunium is “the cape of Athens”, and Orestes comes home from Athens to avenge his father.
+summary: The city of Athena in Attica, “the land of great-hearted Erechtheus”, whose house on the Acropolis the goddess shares. In the Catalogue it sends fifty ships under Menestheus; the Odyssey names it a few times, as the place Orestes came home from to avenge his father and the city to which Athena goes from Scheria.
 aliases: [Athenai]
 # Ἀθηνέων (Od. 3.278) and Ἀθηνάων (Od. 3.307; later 11.323), "of Athens", "from Athens", are not in the Iliad;
 # athena excludes them.
-grc: [Ἀθήνας, "=Ἀθήνῃς", Ἀθηνέων, Ἀθηνάων]
+# "εὐρυάγυιαν Ἀθήνην" (Od. 7.80): Ἀθήνην alone is Athena everywhere else.
+grc: [Ἀθήνας, "=Ἀθήνῃς", Ἀθηνέων, Ἀθηνάων, "εὐρυάγυιαν Ἀθήνην"]
 passages:
   - 2.546-556 | The Athenians in the Catalogue
 ---
@@ -18,7 +19,7 @@ The Athenian entry is unlike its neighbors. It names no other town of Attica: At
 
 ## Elsewhere in Homer
 
-Athens has a small place in Homer. In the Odyssey, Athena leaves Scheria for "Marathon and wide-streeted Athens" and enters "the strong house of Erechtheus" (*Odyssey* 7.80–81), Sunium is “the cape of Athens” (*Odyssey* 3.278; see [[sunium]]), Orestes comes “back from Athens” to kill Aegisthus (*Odyssey* 3.307; see [[orestes]]), and Theseus was bringing Ariadne from Crete “to the hill of holy Athens”, but Artemis killed her first, on Dia (*Odyssey* 11.321–325, a plain rendering). The Odyssey has the singular, Ἀθήνη (*Odyssey* 7.80), as well as the plural, Ἀθῆναι, of the city (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 3.307). Theseus, the city's great hero, is named once in the Iliad, in a line that may be a later addition (1.265; see [[theseus-line]]).
+Athens has a small place in Homer. In the Odyssey, Athena leaves Scheria and comes “to Marathon and to wide-streeted Athens”, and enters “the well-built house of Erechtheus” (*Odyssey* 7.80–81), Sunium is “the cape of Athens” (*Odyssey* 3.278; see [[sunium]]), Orestes comes “back from Athens” to kill Aegisthus (*Odyssey* 3.307; see [[orestes]]), and Theseus was bringing Ariadne from Crete “to the hill of holy Athens”, but Artemis killed her first, on Dia (*Odyssey* 11.321–325, a plain rendering). The Odyssey has the singular, Ἀθήνη (*Odyssey* 7.80), as well as the plural, Ἀθῆναι, of the city (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 3.307). Theseus, the city's great hero, is named once in the Iliad, in a line that may be a later addition (1.265; see [[theseus-line]]).
 
 ## Outside Homer
 

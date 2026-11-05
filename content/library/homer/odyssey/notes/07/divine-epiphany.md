@@ -1,0 +1,14 @@
+---
+summary: Athena's guidance of Odysseus has the shape of an epiphany without its recognition. She meets him at the city in a girl's likeness, speaks to him twice, leads him to the palace and departs over the sea to Athens, and he does not know her. Alcinous tells of the epiphanies his people know, the gods who come to their hecatombs in plain sight, and wonders whether the stranger is one of them.
+# Unnamed: her coming and her likeness (7.19-21); "since he lives near my noble father" (7.29); her departure (7.78-81);
+# Alcinous on the gods who appear in plain sight (7.199-206).
+refs: [7.19-21, 7.29, 7.78-81, 7.199-206]
+passages:
+  - 7.18-38 | Athena meets Odysseus as a young girl
+---
+
+**Every part but one.** The goddess comes and stands before the man: “there the gray-eyed goddess Athena met him, / like a young girl, a maiden, carrying a water jar. / She stood before him” (7.19–21; see [[athena]]). She speaks, with counsel on the road and instruction at the door (7.28–36, 7.48–77), leads him (7.37–38; see [[followed-in-the-footprints]]), and departs: “So she spoke, and gray-eyed Athena went away / over the barren sea” (7.78–79). It is the verse with which she left Nestor in the likeness of a sea eagle, when amazement seized all who saw it and the old man named her (3.371–379). Here there is no amazement and no name. Odysseus calls her “My child” (7.22), and she keeps her part to the end, a girl whose noble father lives near the king (7.29). In Book 6 she did not yet appear to him face to face, out of respect for Poseidon (6.329–331); in Book 7 she appears, but not as herself. The recognition is put off to Ithaca, where she comes to him first as a young shepherd and then, in the likeness of a woman tall and fair and skilled in glorious works, tells him that he did not know Pallas Athena, who always stands beside him (13.221–225, 13.287–302; see [[seeing-the-gods]]).
+
+**Epiphanies at the feast.** Among the Phaeacians the pattern is the rule. Alcinous says that the gods have always appeared to his people in plain sight whenever they offered famous hecatombs, and feasted sitting beside them, and that they do not disguise themselves even from a lone wayfarer on the road (7.201–205; Merry, *Commentary on the Odyssey*, 1886, on 7.205; see [[hecatomb]] and [[gods-are-hard-to-face]]). Where the poem has shown a god at a feast of men, she came as a stranger and was known only at her going: Athena as Mentes in Odysseus' house and as Mentor at Nestor's sacrifice (1.105–323, 3.31–379; see the Book 1 and Book 3 notes).
+
+**A man taken for a god.** Alcinous turns the pattern on the stranger: “But if he is one of the immortals come down from heaven, / then this is something else that the gods are devising” (7.199–200). Odysseus denies it, “for I, for my part, / am not like the immortals” (7.208–209), as he will deny it to his son on Ithaca (16.183–188; see [[seeing-the-gods]] and [[odysseus]]).

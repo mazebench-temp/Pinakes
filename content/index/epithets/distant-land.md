@@ -12,7 +12,7 @@ of: [pylos]
 
 ## Meaning
 
-ἄπιος most probably means “far-off,” from ἀπό (“away from”). Later Greeks read it instead as “Apian,” from Ἀπία, an old name for the Peloponnese (it appears in Aeschylus' *Suppliants*), and some ancient critics took Nestor's words in that sense. In Homer the phrase ἐξ ἀπίης γαίης recurs where only distance is meant: Paris brought Helen “from a distant land” (Il. 3.49), and in the Odyssey travelers come τηλόθεν ἐξ ἀπίης γαίης (Od. 7.25; compare 16.18).
+ἄπιος most probably means “far-off,” from ἀπό (“away from”). Later Greeks read it instead as “Apian,” from Ἀπία, an old name for the Peloponnese (it appears in Aeschylus' *Suppliants*), and some ancient critics took Nestor's words in that sense. In Homer the phrase ἐξ ἀπίης γαίης recurs where only distance is meant: Paris brought Helen “from a distant land” (Il. 3.49), and in the Odyssey travelers come τηλόθεν ἐξ ἀπίης γαίης (*Odyssey* 7.25; compare *Odyssey* 16.18).
 
 ## Use
 

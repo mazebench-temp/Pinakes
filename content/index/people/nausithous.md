@@ -5,11 +5,12 @@ kind: person
 tags: [edge-of-world, king]
 summary: The first king of the Phaeacians, a son of Poseidon, who led his people away from Hypereia and the Cyclopes and settled them in Scheria; the father of [[Alcinous]], dead before Odysseus comes there (*Odyssey* 6.4–12, 7.56–63).
 aliases: [Nausithoos]
-# Ναυσίθοος (Od. 6.7) is claimed in the Odyssey Book 6 note by the stem Ναυσίθο*, which will also take Ναυσίθοον
-# (7.56, 7.62) and Ναυσιθόου (8.565) and catches nothing else in Homer or Aristotle. It stays in the Odyssey because
-# Hesiod's Nausithous, son of Odysseus and Calypso (Ναυσίθοον, Theogony 1017), is another man.
+# Ναυσίθοος (Od. 6.7) is claimed in the Odyssey Book 6 note by the stem Ναυσίθο*, which also takes Ναυσίθοον (7.56,
+# 7.62) and Ναυσίθοος (7.63), and later Ναυσιθόου (8.565), and catches nothing else in Homer or Aristotle. It stays
+# in the Odyssey because Hesiod's Nausithous, son of Odysseus and Calypso (Ναυσίθοον, Theogony 1017), is another man.
 relations:
   - father: poseidon (Od. 7.56-61)
+  - mother: periboea-mother-of-nausithous (Od. 7.56-57)
   - child: alcinous (Od. 7.62-63, Od. 8.564-565)
 ---
 
@@ -19,7 +20,7 @@ relations:
 
 ## Family
 
-Poseidon begot him on Periboea, “the best of women in looks”, the youngest daughter of Eurymedon, who once ruled the Giants and destroyed his reckless people and himself (*Odyssey* 7.56–61, a plain rendering; see [[poseidon]]). He ruled among the Phaeacians and had two sons, Rhexenor and Alcinous. Apollo struck down Rhexenor in his hall, newly married and without a son, and he left one daughter, Arete, whom Alcinous made his wife (*Odyssey* 7.62–66; see [[alcinous]] and [[arete-queen-of-the-phaeacians]]). So Nausicaa is his granddaughter on both sides (see [[nausicaa]]). Alcinous calls him “my father” (*Odyssey* 8.564–565, 13.172–173).
+Poseidon begot him on Periboea, “most beautiful in form of women”, the youngest daughter of Eurymedon, who once was king over the Giants and destroyed his reckless people and perished himself (*Odyssey* 7.56–61; see [[poseidon]], [[periboea-mother-of-nausithous]] and [[eurymedon-king-of-the-giants]]). He ruled among the Phaeacians and had two sons, Rhexenor and Alcinous. Apollo struck down Rhexenor in his hall, newly married and without a son, and he left one daughter, Arete, whom Alcinous made his wife (*Odyssey* 7.62–66; see [[rhexenor]], [[alcinous]] and [[arete-queen-of-the-phaeacians]]). So Nausicaa descends from him on both sides, his granddaughter through her father and his great-granddaughter through her mother (see [[nausicaa]]). Alcinous calls him “my father” (*Odyssey* 8.564–565, 13.172–173).
 
 ## Descriptions
 

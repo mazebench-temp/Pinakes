@@ -1,0 +1,6 @@
+---
+summary: When Alcinous has promised the escort, “much-enduring brilliant Odysseus was glad, / and he spoke in prayer, and spoke to him, and called him by name” (εὐχόμενος, 7.329–330), and prays to Zeus that the king may accomplish all he has said (7.331–333).
+# εὐχόμενος (7.330) is in the entry.
+---
+
+εὐχόμενος is prayer here, not the claim it was at the river, where he said “I claim to be your suppliant” (5.450; see the Book 5 note). The prayer is a wish addressed to Zeus and spoken in the hearing of the man it concerns, “Father Zeus, would that he might accomplish all that he has said, / Alcinous!” (7.331–332; see [[prayer]], [[zeus]] and [[kleos]]); on the verse's ending, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν, “and spoke to him, and called him by name”, see [[called-him-by-name]]. A scholium preserves two other endings for the verse, εἶπε πρὸς ὃν μεγαλήτορα θυμόν, “said to his own great-hearted heart”, and ἰδὼν εἰς οὐρανὸν εὐρύν, “looking up to the wide sky” (W. W. Merry, *Commentary on the Odyssey*, 1886, critical note on 7.330; see the translation's note on 7.330). The book opens with the other verb of prayer, ὧς ὁ μὲν ἔνθʼ ἠρᾶτο, “So he prayed there” (7.1), closing his prayer to Athena in her grove (6.323–328; see the translation's note on 7.1).

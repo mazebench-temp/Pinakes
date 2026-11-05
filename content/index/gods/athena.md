@@ -14,6 +14,8 @@ passages:
   - 1.188-222 | Athena restrains Achilles
 featured: true
 sort: 7
+# Ἀθήνην at Od. 7.80 is the city, “to wide-streeted Athens” (athens claims its English).
+except: [Od. 7.80]
 ---
 
 ## Etymology

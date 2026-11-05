@@ -11,6 +11,8 @@ aliases: [walls of Troy, wall of Troy, Trojan wall, wall of Ilios]
 # and 16.702 will need forms or refs. The wall of Heracles on the plain (20.145) is another wall.
 grc: ["τείχεα μακρ*", "αἰπύ τε τεῖχος", "πρὸς τεῖχος ἐπειγομένη", "ἐπίδρομον ἔπλετο τεῖχος"]
 en: [wall, walls]
+# “the long walls” of Od. 7.44 are the Phaeacians' (the-city-of-the-phaeacians).
+except: [Od. 7.44]
 ---
 
 Troy is a walled city, and its wall is its defense for the whole of the war. The Achaeans fight on the plain below it, the Trojans come out through its gates, and the war ends only when the city is taken (see [[troy]]).

@@ -13,7 +13,7 @@ grc: [Ὑπερείῃ]
 
 ## The name
 
-Merry takes Hypereia and Scheria for “merely topographical descriptions”, the “Highlands” and the “Coast” (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 5.34; see [[scheria]]). Elsewhere he sets it beside Apeire, the land from which the old woman who nursed Nausicaa was brought, as a name that is “purely mythical” (Merry on *Odyssey* 7.8). Its one epithet, εὐρύχορος, “with wide dancing floors”, is a standing epithet of cities and lands (see [[with-wide-dancing-floors]]).
+Merry takes Hypereia and Scheria for “merely topographical descriptions”, the “Highlands” and the “Coast” (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 5.34; see [[scheria]]). Elsewhere he sets it beside Apeire, the land from which the old woman who nursed Nausicaa was brought, as a name that is “purely mythical” (Merry on *Odyssey* 7.8; see [[apeire]] and [[eurymedusa]]). Its one epithet, εὐρύχορος, “with wide dancing floors”, is a standing epithet of cities and lands (see [[with-wide-dancing-floors]]).
 
 ## In Homer
 

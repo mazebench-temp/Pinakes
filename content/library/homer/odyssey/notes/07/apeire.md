@@ -1,0 +1,5 @@
+---
+summary: Nausicaa's chamber-woman Eurymedusa is “an old woman from Apeire”, “whom once the curving ships had brought from Apeire”, and who was picked out as a prize for Alcinous (7.8–11).
+---
+
+**Where the nurse came from.** When Nausicaa comes home, “a fire was kindled for her / by an old woman from Apeire, her chamber-woman Eurymedusa, / whom once the curving ships had brought from Apeire” (7.7–9; see [[eurymedusa]], [[nausicaa]] and [[curving]]). The land is named twice in two verses, first in the adjective of her origin, γρῆυς Ἀπειραίη, then in the adverb of her journey, Ἀπείρηθεν, and nothing more is said of it. Merry sets it beside Hypereia (6.4) as a purely mythical land (Merry, *Commentary on the Odyssey*, 1886, on 7.8; see [[hypereia-of-the-phaeacians]]). She was picked out from among the other captives as a prize for the king, “because over all / the Phaeacians he was lord” (7.10–11; Merry on 7.10; see [[alcinous]], [[geras]] and [[phaeacians]]); the poem does not say who took her, or how.

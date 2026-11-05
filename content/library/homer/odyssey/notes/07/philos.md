@@ -1,0 +1,12 @@
+---
+summary: φίλα φρονέω, “in friendship”, is the goddess's motive and the queen's hope: Athena pours the mist around Odysseus “in friendship” (7.15, 7.42), and if Arete “thinks of you in friendship in her heart”, he may hope to reach his home (7.75–77). Alcinous loved his son Laodamas “most of all” (7.171), Calypso “loved me with care” (7.256), and φίλον is also “pleasure”, as in “may that never be the pleasure of father Zeus” (7.316, 7.320).
+# φιλέεσκεν (7.171), ἐφίλει (7.256). φίλα, φίλον, φίλων and φίλους are in the entry and its Odyssey notes.
+grc: [φιλέεσκεν, ἐφίλει]
+en: [in friendship, loved]
+---
+
+**In friendship.** φίλα φρονέουσα is Athena's attitude twice in the opening of the book, when she pours the mist around him and when she keeps the Phaeacians from noticing him (7.14–15, 7.40–42; see [[athena]] and [[achlys]]). The translation renders the phrase “in friendship”, as in the Iliad (see its table of key words), and Athena gives the same words to the queen's goodwill, on which his homecoming hangs: “If she thinks of you in friendship in her heart, / then there is hope that you will see your friends and reach / your high-roofed house and your native land” (7.75–77; see [[arete-queen-of-the-phaeacians]] and [[nostos]]). The φίλοι he hopes to see are his own people, far from whom, he says at the queen's knees, he has long suffered woes (7.76, 7.152; see [[moira]]).
+
+**Love.** Alcinous seats the stranger in the chair of his son Laodamas, “who sat beside him, and whom he loved most of all” (7.170–171). In the Greek the last clause is paratactic, μάλιστα δέ μιν φιλέεσκεν, with a demonstrative in place of the relative, as in the Iliad's verse of the old wool-comber who “loved her most of all”, and its subject is the father (W. W. Merry, *Commentary on the Odyssey*, 1886, on 7.171; *Iliad* 3.386–388; see [[laodamas-son-of-alcinous]]). Calypso “loved me with care” (ἐνδυκέως ἐφίλει, 7.256), Odysseus tells the queen, before the offer of immortality (see [[immortality]] and [[calypso]]).
+
+**Pleasure.** φίλον with a dative is what pleases someone: the king's wish ends “may that never be the pleasure of father Zeus” (μὴ τοῦτο φίλον Διὶ πατρὶ γένοιτο, 7.316), that any Phaeacian should keep the stranger against his will (Merry on 7.316), and the escort will take him home “or wherever it is your pleasure” (εἴ πού τοι φίλον ἐστίν, 7.320; see [[pompe]] and the translation's table of key words).

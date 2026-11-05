@@ -10,6 +10,8 @@ aliases: [bath, baths, bathtub, bathtubs, washing, anointing, asaminthos]
 # (6.226), "λίπʼ ἄλειψεν" (6.227).
 grc: ["λου*", "λοε*", "ἀσαμίνθ*", "λίπʼ ἐλαίῳ", ἀπενίζοντο, "νίψεν ἀπὸ χρωτὸς", χυτλώσαιτο, ἀπολούσομαι, χρίσομαι, "χροός ἐστιν ἀλοιφή", νίζετο, ἔσμηχεν, "λίπʼ ἄλειψεν"]
 en: [bathed, bathtubs, anointed themselves richly with olive oil, washed off the heavy sweat, bathe and anoint herself, anoint myself all over, anointed himself richly]
+# ὑγρὸν ἔλαιον at Od. 7.107 is the oil that drips from close-woven linen, not oil for anointing.
+except: [Od. 7.107]
 ---
 
 ## The custom

@@ -3,7 +3,7 @@ title: Decreed
 greek: θέσφατος
 kind: term
 tags: [fate, divination, speech]
-summary: “Spoken by a god”: what a god has declared, and so what is fixed. The plural θέσφατα are oracles; θέσφατόν ἐστι, “it is decreed”, is said of the coming death of Patroclus and of the end of Menelaus, who is not to die in Argos.
+summary: “Spoken by a god”: what a god has declared, and so what is fixed. The plural θέσφατα are oracles; θέσφατόν ἐστι, “it is decreed”, is said of the coming death of Patroclus and of the end of Menelaus, who is not to die in Argos. Once the word is “god-sent”, of the mist that Athena pours around Odysseus.
 aliases: [thesphaton, thesphata, thesphatos, it is decreed, oracles of the gods]
 grc: [θέσφατ*]
 en: [decreed, oracles]

@@ -1,0 +1,350 @@
+# Homer, Odyssey, Book 7 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So he prayed there, much-enduring brilliant Odysseus;
+2	and the might of the two mules carried the girl to the city.
+3	And when she came to the famous house of her father,
+4	she halted them in the doorway, and her brothers stood
+5	around her, like the immortals, and they from under the wagon
+6	unyoked the mules and carried the clothing inside.
+7	And she herself went to her own chamber; and a fire was kindled for her
+8	by an old woman from Apeire, her chamber-woman Eurymedusa,
+9	whom once the curving ships had brought from Apeire;
+10	and they had picked her out as a prize for Alcinous, because over all
+11	the Phaeacians he was lord, and the people listened to him as to a god.
+12	She had reared white-armed Nausicaa in the halls.
+13	She lit the fire for her, and made ready her supper within.
+14	And then Odysseus rose to go to the city; and Athena
+15	poured a thick mist around him, in friendship for Odysseus,
+16	lest any of the great-hearted Phaeacians, meeting him,
+17	should taunt him with words and ask him who he was.
+18	But when he was about to enter the lovely city,
+19	there the gray-eyed goddess Athena met him,
+20	like a young girl, a maiden, carrying a water jar.
+21	She stood before him, and brilliant Odysseus questioned her:
+22	“My child, will you not lead me to the house of the man
+23	Alcinous, who is lord among these people?
+24	For I have come here, a much-tried stranger,
+25	far away, from a distant land; so I know no one
+26	of the people who hold this city and land.”
+27	Then the gray-eyed goddess Athena spoke to him in turn:
+28	“Well then, stranger, father, I will show you the house that you bid me
+29	show you, since he lives near my noble father.
+30	But go on in silence, just so, and I will lead the way,
+31	and do not look at any man or question anyone.
+32	For these men do not much put up with strangers,
+33	nor do they greet with open arms and make welcome whoever comes from elsewhere.
+34	Trusting in the speed of their swift ships,
+35	they cross the great gulf, since the earth-shaker granted it to them;
+36	their ships are swift as a wing or a thought.”
+37	So she spoke, and Pallas Athena led the way
+38	swiftly; and he followed in the footprints of the goddess.
+39	But the Phaeacians famed for ships did not notice him
+40	as he went through the city among them; for Athena
+41	of the lovely tresses, the dread goddess, would not allow it, who poured a mist
+42	over him, a heaven-sent mist, in friendship in her heart.
+43	And Odysseus marveled at the harbors and the balanced ships,
+44	and at the places of assembly of the heroes themselves, and the long walls,
+45	high, fitted with stakes, a wonder to see.
+46	But when they came to the famous house of the king,
+47	then among them the gray-eyed goddess Athena began to speak:
+48	“This, stranger, father, is the house that you bid me
+49	show you; and you will find the kings whom Zeus has nurtured
+50	feasting at their feast; but go inside, and do not in your heart
+51	be afraid at all; for a bold man is better in all
+52	deeds, even if he comes from some other place.
+53	First you will find the lady in the halls;
+54	Arete is her name, a name with a meaning, and she comes of the same
+55	parents who bore King Alcinous.
+56	Nausithous first was born to Poseidon the earth-shaker
+57	and Periboea, most beautiful in form of women,
+58	the youngest daughter of great-hearted Eurymedon,
+59	who once was king over the high-hearted Giants.
+60	But he destroyed his reckless people, and perished himself.
+61	And Poseidon lay with her and begot a son,
+62	great-hearted Nausithous, who was lord among the Phaeacians;
+63	and Nausithous begot Rhexenor and Alcinous.
+64	Him, when he had no son, Apollo, god of the silver bow, struck down,
+65	newly married, in his hall, leaving one only child, a daughter,
+66	Arete; and Alcinous made her his wife,
+67	and honored her as no other woman on earth is honored,
+68	of all the women who now keep house under their husbands.
+69	So she has been honored with all their hearts, and still is,
+70	by her dear children and by Alcinous himself
+71	and by the people, who look on her as a god
+72	and greet her with words when she walks through the city.
+73	For she herself is in no way lacking in good sense:
+74	for the women she favors, and for men as well, she settles quarrels.
+75	If she thinks of you in friendship in her heart,
+76	then there is hope that you will see your friends and reach
+77	your high-roofed house and your native land.”
+78	So she spoke, and gray-eyed Athena went away
+79	over the barren sea, and left lovely Scheria,
+80	and came to Marathon and to wide-streeted Athens,
+81	and entered the well-built house of Erechtheus. But Odysseus
+82	went to the glorious house of Alcinous; and his heart pondered much
+83	as he stood there, before he reached the bronze threshold.
+84	For there was a gleam as of the sun or of the moon
+85	throughout the high-roofed house of great-hearted Alcinous.
+86	For walls of bronze were drawn out this way and that,
+87	from the threshold to the inner part, and around them a coping of dark blue enamel;
+88	and golden doors shut in the well-built house;
+89	silver doorposts stood in the bronze threshold,
+90	and silver was the lintel above them, and golden the handle.
+91	And on either side were golden and silver dogs,
+92	which Hephaestus had made with his cunning skill
+93	to guard the house of great-hearted Alcinous,
+94	being immortal and ageless all their days.
+95	And within, chairs were set firm along the wall this way and that,
+96	from the threshold right through to the inner part, and on them cloths,
+97	fine and well-spun, were thrown, the work of women.
+98	There the leaders of the Phaeacians used to sit,
+99	drinking and eating; for they had unfailing store.
+100	And golden young men on well-built pedestals
+101	stood, holding blazing torches in their hands,
+102	giving light by night throughout the house to the banqueters.
+103	And he has fifty slave women in the house:
+104	some grind the yellow grain at the mills,
+105	and others weave at the looms and turn the yarn
+106	as they sit, like the leaves of a tall poplar;
+107	and from the close-woven linen the liquid olive oil drips off.
+108	As much as the Phaeacians are skilled beyond all men
+109	in driving a swift ship on the sea, so are the women
+110	skilled at the loom; for Athena has given them above all others
+111	to be skilled in beautiful handiwork, and good wits.
+112	And outside the court, near the doors, is a great orchard
+113	of four acres; and a fence is drawn around it on both sides.
+114	There tall trees grow, flourishing,
+115	pears and pomegranates and apple trees with splendid fruit,
+116	and sweet figs and flourishing olives.
+117	Of these the fruit never perishes or fails,
+118	in winter or in summer, lasting all the year; but always
+119	the West Wind, blowing, brings some to growth and ripens others.
+120	Pear upon pear grows old, apple upon apple,
+121	and cluster upon cluster, fig upon fig.
+122	And there his fruitful vineyard is rooted,
+123	one part of which, a warm spot on level ground,
+124	is dried by the sun, while other grapes they are gathering,
+125	and others they are treading; and in front are unripe grapes
+126	shedding their bloom, and others are faintly turning dark.
+127	And there, by the last row, are trim garden beds
+128	of every kind, growing, shining unfailingly;
+129	and within are two springs: one scatters its water through all the garden,
+130	and the other, on the other side, runs under the threshold of the court
+131	toward the high house; from this spring the citizens drew water.
+132	Such were the splendid gifts of the gods at the house of Alcinous.
+133	There much-enduring brilliant Odysseus stood and gazed.
+134	But when he had gazed at everything in his heart,
+135	he quickly stepped over the threshold into the house.
+136	And he found the leaders and rulers of the Phaeacians
+137	pouring libations from their cups to the keen-sighted slayer of Argus,
+138	to whom they would pour the last libation, whenever they thought of bed.
+139	But much-enduring brilliant Odysseus went through the house,
+140	wrapped in the thick mist that Athena had poured around him,
+141	until he came to Arete and King Alcinous.
+142	And Odysseus threw his arms around the knees of Arete,
+143	and then the god-sent mist flowed back from the man himself.
+144	And they fell silent when they saw the man in the house,
+145	and marveled as they looked; and Odysseus entreated her:
+146	“Arete, daughter of godlike Rhexenor,
+147	to your husband and to your knees I have come, after toiling much,
+148	and to these banqueters; may the gods grant them prosperity
+149	in their lives, and may each of them hand on to his children
+150	the possessions in his halls and the prize the people gave him.
+151	But for me, speed my escort, so that I may reach my native land
+152	the sooner, since long now I suffer woes far from my friends.”
+153	He spoke thus and sat down at the hearth in the ashes
+154	beside the fire; and they all fell hushed in silence.
+155	At last the old hero Echeneus spoke among them,
+156	who was one of the older Phaeacian men,
+157	and excelled in speaking, knowing many things of old.
+158	With good intent he addressed them and spoke:
+159	“Alcinous, this is not more honorable, nor is it fitting,
+160	that a stranger should sit on the ground at the hearth in the ashes;
+161	and these here, waiting for your word, are holding themselves back.
+162	But come, seat the stranger on a silver-studded chair,
+163	raising him up, and bid the heralds
+164	mix the wine, so that to Zeus who delights in thunder
+165	we may pour libations too, who attends on revered suppliants;
+166	and let the housekeeper give the stranger supper from the stores within.”
+167	But when the sacred might of Alcinous heard this,
+168	he took wise-hearted Odysseus of subtle wiles by the hand
+169	and roused him from the hearth, and seated him on a shining chair,
+170	making his son, manly Laodamas, stand up,
+171	who sat beside him, and whom he loved most of all.
+172	And a handmaid brought water for the hands in a pitcher and poured it,
+173	a fine golden one, over a silver basin,
+174	for them to wash; and she drew up a polished table beside them.
+175	And the revered housekeeper brought bread and set it before them,
+176	adding many dainties, giving freely of what she had.
+177	And much-enduring brilliant Odysseus drank and ate.
+178	And then the might of Alcinous spoke to the herald:
+179	“Pontonous, mix a bowl and serve out wine
+180	to all throughout the hall, so that to Zeus who delights in thunder
+181	we may pour libations too, who attends on revered suppliants.”
+182	So he spoke, and Pontonous mixed the wine sweet to the heart,
+183	and served it out to all, first pouring drops for the libation into the cups.
+184	But when they had poured libations and drunk as much as their hearts desired,
+185	then Alcinous addressed them and spoke:
+186	“Hear me, leaders and rulers of the Phaeacians,
+187	so that I may say what the heart in my breast commands me.
+188	Now that you have feasted, go home and lie down;
+189	and at dawn we will call more of the elders
+190	and entertain the stranger in the halls, and to the gods
+191	offer fine sacrifices, and then we will remember his escort too,
+192	so that the stranger, without toil and vexation,
+193	may reach his native land under our escort,
+194	rejoicing, and quickly, even if he is from very far away,
+195	and suffer no evil and no bane in between,
+196	before he sets foot on his own land; and there, after that,
+197	he shall suffer whatever his fate and the heavy Spinners
+198	spun for him with their thread at his birth, when his mother bore him.
+199	But if he is one of the immortals come down from heaven,
+200	then this is something else that the gods are devising.
+201	For always, before now, the gods have appeared in plain sight
+202	to us, whenever we offer famous hecatombs,
+203	and they feast beside us, sitting where we sit.
+204	And if even a lone wayfarer meets them on his way,
+205	they do not hide themselves at all, since we are near to them,
+206	as are the Cyclopes and the savage tribes of the Giants.”
+207	Answering him, Odysseus of many wiles said:
+208	“Alcinous, let something else be on your mind; for I, for my part,
+209	am not like the immortals, who hold the wide sky,
+210	in form or stature, but like mortal men.
+211	Whoever you know who bear the most misery
+212	among men, to them I might liken myself in sorrows.
+213	And I could tell of still more evils,
+214	all that I have toiled through by the will of the gods.
+215	But let me eat my supper, grieved though I am;
+216	for there is nothing more shameless than the hateful belly,
+217	which bids a man remember it under compulsion,
+218	even one sorely worn down and with grief in his heart,
+219	as I too have grief in my heart, but always it
+220	bids me eat and drink, and makes me forget
+221	all that I have suffered, and bids me take my fill.
+222	But you, make haste when dawn appears,
+223	so that you may set me, unhappy man, on my native land,
+224	even after my many sufferings; let life leave me, once I have seen
+225	my wealth and my slaves and my great high-roofed house.”
+226	So he spoke, and they all approved and bade
+227	send the stranger on his way, since he had spoken fair and right.
+228	But when they had poured libations and drunk as much as their hearts desired,
+229	they went to lie down, each to his own house,
+230	but brilliant Odysseus was left behind in the hall,
+231	and beside him Arete and godlike Alcinous
+232	were sitting; and the handmaids cleared away the gear of the feast.
+233	And among them white-armed Arete began to speak;
+234	for she knew the mantle and the tunic when she saw the clothes,
+235	fine ones, which she herself had made with her handmaids;
+236	and she spoke to him, addressing him with winged words:
+237	“Stranger, I myself will be the first to ask you this:
+238	Who are you among men, and from where? Who gave you these clothes?
+239	Did you not say that you came here wandering over the sea?”
+240	Answering her, Odysseus of many wiles said:
+241	“It is hard, queen, to tell from beginning to end
+242	my sorrows, since the heavenly gods have given me many;
+243	but I will tell you what you ask and question me about:
+244	There is an island, Ogygia, lying far off in the sea;
+245	there the daughter of Atlas, wily Calypso,
+246	lives, she of the lovely tresses, the dread goddess; and no one mingles with her,
+247	neither of the gods nor of mortal men.
+248	But me, unhappy man, a god brought to her hearth,
+249	alone, when my swift ship, with a gleaming thunderbolt,
+250	Zeus struck and shattered in the middle of the wine-dark sea.
+251	There all my other noble companions perished,
+252	but I took the keel of the curving ship in my arms
+253	and was borne along for nine days; and on the tenth black night
+254	the gods brought me to the island of Ogygia, where Calypso
+255	lives, she of the lovely tresses, the dread goddess, who took me in
+256	and loved me with care and cared for me, and said
+257	that she would make me immortal and ageless all my days;
+258	but she never persuaded the heart in my breast.
+259	There I stayed for seven years on end, and always the garments,
+260	immortal, that Calypso gave me, I kept wet with my tears;
+261	but when the eighth year came round in its course,
+262	then she urged me and bade me return,
+263	at a message from Zeus, or perhaps her own mind had turned.
+264	And she sent me on a raft of many bindings, and gave me much,
+265	bread and sweet wine, and put immortal garments on me,
+266	and she sent forth a fair wind, harmless and warm.
+267	For seventeen days I sailed, crossing the sea,
+268	and on the eighteenth there appeared the shadowy mountains
+269	of your land, and my dear heart rejoiced,
+270	ill-fated as I was; for I was yet to keep company with misery
+271	much misery, which Poseidon the earth-shaker roused against me,
+272	who roused the winds against me and bound up my path,
+273	and stirred up the endless sea, nor would the wave
+274	let me be borne on the raft as I groaned without ceasing.
+275	Then the storm scattered it; but I
+276	swam and cut through this gulf, until to your land
+277	the wind and the water carried and drove me.
+278	There, as I came out onto the land, the wave would have overpowered me,
+279	dashing me against great rocks, a joyless place;
+280	but I drew back and swam out again, until I came
+281	to the river, where the place seemed to me the best,
+282	smooth, free of rocks, and there was shelter from the wind.
+283	And I fell out of the water, gathering my spirit, and the ambrosial night
+284	came on. And I, apart from the river fallen from Zeus,
+285	came out and slept among the bushes, and drew the leaves
+286	about me; and a god poured boundless sleep over me.
+287	There among the leaves, grieving at heart,
+288	I slept all night long, and into the dawn and to midday.
+289	And the sun was declining, and sweet sleep let me go.
+290	And I noticed your daughter's handmaids on the shore
+291	playing, and she herself was among them, like the goddesses;
+292	I came to her as a suppliant; and she did not fall short of good sense,
+293	as you would not expect one younger, on meeting you,
+294	to do; for the young are always thoughtless.
+295	She gave me bread in plenty and sparkling wine,
+296	and bathed me in the river, and gave me these clothes.
+297	This is the truth I have told you, grieved though I am.”
+298	Then Alcinous answered him in turn and said:
+299	“Stranger, truly this, at least, she did not devise rightly,
+300	my child, in that she did not bring you with her handmaids
+301	to our house; and it was to her first that you came as a suppliant.”
+302	Answering him, Odysseus of many wiles said:
+303	“Hero, do not rebuke the noble girl for that;
+304	for she bade me follow with her handmaids,
+305	but I would not, out of fear and shame,
+306	lest your heart too should be indignant when you saw it;
+307	for we tribes of men on the earth are quick to anger.”
+308	Then Alcinous answered him in turn and said:
+309	“Stranger, the dear heart in my breast is not such
+310	as to be angry for no reason; what is due is better in all things.
+311	If only, father Zeus and Athena and Apollo,
+312	being such a man as you are, and thinking as I do,
+313	you might have my daughter and be called my son-in-law,
+314	staying here; and I would give you a house and possessions,
+315	if you stayed willingly; but against your will no one will keep you
+316	of the Phaeacians: may that never be the pleasure of father Zeus.
+317	And I ordain your escort for a set day, so that you may know it well:
+318	for tomorrow; and then you, overcome by sleep,
+319	will lie down, and they will row over the calm, until you come
+320	to your native land and your house, or wherever it is your pleasure,
+321	even if it is very much farther away than Euboea,
+322	which those who saw it say is the farthest away,
+323	of our people, when they carried fair-haired Rhadamanthys
+324	to visit Tityus, the son of Earth.
+325	And they went there, and accomplished it without weariness
+326	on the same day, and made their way back home.
+327	And you yourself will know in your mind how far the best
+328	are my ships, and my young men at tossing up the sea with the oar-blade.”
+329	So he spoke, and much-enduring brilliant Odysseus was glad,
+330	and he spoke in prayer, and spoke to him, and called him by name:
+331	“Father Zeus, would that he might accomplish all that he has said,
+332	Alcinous! Then his fame over the grain-giving earth
+333	would be unquenchable, and I would reach my native land.”
+334	So they spoke such words to one another;
+335	and white-armed Arete called to her handmaids
+336	to set beds beneath the colonnade, and throw fine purple
+337	blankets on them, and spread rugs over them,
+338	and put woolly cloaks on top for them to wear.
+339	And the women went out from the hall with torches in their hands;
+340	and when they had spread the thick bed in haste,
+341	they stood beside Odysseus and urged him with words:
+342	“Rise and go to bed, stranger; your bed has been made.”
+343	So they spoke, and it seemed welcome to him to lie down to sleep.
+344	So he lay sleeping there, much-enduring brilliant Odysseus,
+345	on a corded bed beneath the loud-resounding colonnade,
+346	and Alcinous lay down in the inner part of the high house,
+347	and beside him the lady his wife shared his bed and couch.

@@ -1,0 +1,24 @@
+---
+summary: Calypso comes into the book through Odysseus' story to Arete, his first account of his years on Ogygia: the island far off in the sea where “the daughter of Atlas, wily Calypso” lives with no one near her; how the gods brought him there after the wreck, and she took him in, loved him and promised to make him immortal and ageless; how he stayed seven years, weeping into the immortal garments she gave him; and how in the eighth year she sent him off on a raft, “at a message from Zeus, or perhaps her own mind had turned”.
+# ^Καλυψ* claims Καλυψὼ at 7.245 and 7.254 and Καλυψώ at 7.260. Unnamed: "lives ... and no one mingles with her" (7.246-247);
+# "who took me in ... but she never persuaded the heart in my breast" (7.255-258); her sending and her gifts (7.262-266).
+refs: [7.246-247, 7.255-258, 7.262-266]
+passages:
+  - 7.244-266 | Odysseus tells Arete of Calypso
+relations:
+  - father: atlas (7.245)
+---
+
+**Her island in his words.** Arete has asked who gave him the clothes he wears (7.237–239), and he begins far back: “There is an island, Ogygia, lying far off in the sea; / there the daughter of Atlas, wily Calypso, / lives, she of the lovely tresses, the dread goddess; and no one mingles with her, / neither of the gods nor of mortal men” (7.244–247; see [[ogygia]], [[atlas]], [[with-lovely-tresses]] and [[dread-goddess]]). δολόεσσα, “wily”, is said of her only here, by Odysseus; in his tale to the Phaeacians it is Circe's epithet (9.32). Merry: the word gives Odysseus' own experience of Calypso rather than her received character, and means not “treacherous” or “false” but only “sly”, scheming to keep him for her husband (*Commentary on the Odyssey*, 1886, on 7.245; see [[wily]] and the translation's key-word row). That no one mingles with her is only a way of describing her lonely home far off in the sea, as Nausicaa says of her own people, “the farthest of men, and no other mortal mingles with us” (Merry on 7.247; 6.205).
+
+**How he came.** “But me, unhappy man, a god brought to her hearth, / alone” (7.248–249; see [[daimon]]): Zeus had shattered his ship with a thunderbolt, his companions were lost, and he drifted nine days on the keel until “on the tenth black night / the gods brought me to the island of Ogygia, where Calypso / lives, she of the lovely tresses, the dread goddess” (7.249–255; see [[zeus]] and [[the-shipwreck-of-odysseus]]). The scholia report that eight verses were athetized, since the story is told later (12.447–453), and Buttmann refers the remark to these verses; Merry finds 7.254–255, a mere repetition of what Odysseus has just said (7.244–246), the most suspicious (Merry's critical note on 7.251–258; see the translation's note on 7.251–258).
+
+**What she offered.** She “took me in / and loved me with care and cared for me, and said / that she would make me immortal and ageless all my days; / but she never persuaded the heart in my breast” (7.255–258; see [[immortal-and-ageless]] and [[immortality]]). λαβοῦσα, “took me in”, is an unusual word for a host's welcome, where ὑποδεξαμένη would be expected, and probably implies that she made him stay (Merry on 7.255). The promise is told in the verse she spoke herself to Hermes (5.136 = 7.257), and the verse returns in the summary of what Odysseus told Penelope (23.336). In Book 5 the poem shows him refusing her face to face, granting that Penelope is less beautiful and saying that he longs for home (5.215–224); here he gives the refusal one verse.
+
+**Seven years.** “There I stayed for seven years on end, and always the garments, / immortal, that Calypso gave me, I kept wet with my tears” (7.259–260; see [[tears]] and [[clothing]]). ἔμπεδον is “continuously” (Merry on 7.259). Arete asked about clothes, and clothes run through his answer: Calypso's immortal garments, which she put on him for the voyage (7.265) and which in the storm weighed him down until he stripped them off (5.321, 5.372), and at the end the mantle and tunic the queen has recognized, which Nausicaa gave him (7.234–235, 7.296).
+
+**The eighth year.**
+
+{{quote:814b24eb-072d-542b-9d42-b2f6f13a713c}}
+
+Odysseus does not know what the poem has told: that Zeus sent Hermes to her with the command (5.28–42, 5.97–115; see [[hermes]]), and that she said nothing of it to him, only that she would send him away with a ready heart (5.160–161). ὀγδόατον is Dindorf's conjecture, which Bekker adopts; Merry prints ὄγδοον (Merry's critical note on 7.261; see the translation's note on 7.261). The last verses tell her parting gifts of Book 5 in brief: the raft, the bread and wine, the clothes, and “a fair wind, harmless and warm” (7.264–266, after 5.263–268; see [[raft]], [[of-many-bindings]] and [[the-fair-wind]]). He says nothing of the building of the raft, which took him four days with her tools (5.234–262; see [[the-building-of-the-raft]]).

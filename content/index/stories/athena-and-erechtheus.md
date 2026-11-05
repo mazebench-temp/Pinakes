@@ -4,7 +4,7 @@ kind: story
 period: first-kings
 mode: allusion
 tags: [backstory, digression]
-summary: The grain-giving earth bore Erechtheus. Athena raised him and set him in her own rich temple at Athens, where the young men of the Athenians honor him with bulls and rams every year.
+summary: The grain-giving earth bore Erechtheus. Athena raised him and set him in her own rich temple at Athens, where the young men of the Athenians honor him with bulls and rams every year; in the Odyssey the goddess goes home to his well-built house.
 participants: [athena, erechtheus, athenians]
 passages:
   - 2.546-551 | Athens and Erechtheus
@@ -20,7 +20,7 @@ passages:
 
 This is how the Catalogue introduces Athens. It defines the city by its first king, its goddess and its cult, and names no other place in Attica. It is also one of the most local details in the whole Catalogue, a yearly rite of a named people, and that has made the passage a favorite piece of evidence for Athenian interest in the text (see [[solon-and-salamis]]).
 
-The lines bind hero and goddess closely. Athena raises the child and the temple is hers, but the pronoun in 2.550 leaves it open whether the yearly victims are for him or for her. In the Odyssey her house at Athens is "the strong house of Erechtheus" (Od. 7.80–81).
+The lines bind hero and goddess closely. Athena raises the child and the temple is hers, but the pronoun in 2.550 leaves it open whether the yearly victims are for him or for her. In the *Odyssey* she goes home to Athens and enters “the well-built house of Erechtheus” (*Odyssey* 7.80–81).
 
 ## Outside Homer
 

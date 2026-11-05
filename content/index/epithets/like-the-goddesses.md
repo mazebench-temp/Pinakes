@@ -12,7 +12,7 @@ of: [castianeira]
 
 ## Meaning
 
-ἐϊκυῖα is the feminine participle of ἔοικα (“be like”): “resembling the goddesses.” The phrase ends the verse four times in Homer, always of a woman. Castianeira is “like the goddesses in form” (δέμας ἐϊκυῖα θεῇσι, 8.305). Hecamede, Nestor's captive, who mixes the drink for him and Machaon, is “a woman like the goddesses” (γυνὴ ἐϊκυῖα θεῇσιν, 11.636–638), and so is Briseis as she laments over Patroclus (19.282–286). In the Odyssey Nausicaa plays on the shore among her maids, “like the goddesses” (Od. 7.290–291).
+ἐϊκυῖα is the feminine participle of ἔοικα (“be like”): “resembling the goddesses.” The phrase ends the verse four times in Homer, always of a woman. Castianeira is “like the goddesses in form” (δέμας ἐϊκυῖα θεῇσι, 8.305). Hecamede, Nestor's captive, who mixes the drink for him and Machaon, is “a woman like the goddesses” (γυνὴ ἐϊκυῖα θεῇσιν, 11.636–638), and so is Briseis as she laments over Patroclus (19.282–286). In the Odyssey Nausicaa plays on the shore among her maids, “like the goddesses” (*Odyssey* 7.290–291).
 
 The poem has other measures of a woman's beauty taken from the goddesses. The elders on the wall say that Helen is “terribly like the immortal goddesses to look on” (3.158; [[beauty-and-its-price]]), and Briseis, in the verses that introduce her lament, is “like golden Aphrodite” (19.282; [[golden]]).
 

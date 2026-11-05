@@ -1,0 +1,209 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 13,
+      "title": "Nausicaa Comes Home",
+      "summary": "While Odysseus prays in the grove, the mules carry Nausicaa to her father's house. Her brothers, like the immortals, unyoke the mules and carry in the clothes, and in her chamber the old Eurymedusa, a woman from Apeire chosen out as a prize for Alcinous, who had reared her, lights her fire and makes ready her supper."
+    },
+    {
+      "from": 14,
+      "to": 45,
+      "title": "Athena Leads Odysseus to the City",
+      "summary": "Athena pours a thick mist around Odysseus, so that no Phaeacian may taunt him or question him, and meets him at the city as a young girl carrying a water jar. He asks the way to the house of Alcinous; she leads him, warning him to look at no one and ask nothing, since the Phaeacians do not welcome strangers but trust in their ships, swift as a wing or a thought. Unseen, he marvels at the harbors, the ships, the places of assembly and the long walls."
+    },
+    {
+      "from": 46,
+      "to": 81,
+      "title": "Athena Tells of Arete",
+      "summary": "At the palace Athena tells him to go in boldly and to find the queen first: Arete, of the same descent as Alcinous. Nausithous, son of Poseidon and Periboea, daughter of Eurymedon, king of the Giants, had two sons, Rhexenor and Alcinous; Apollo killed Rhexenor, a bridegroom with no son, and Alcinous married his only daughter, Arete, whom he honors above all women, as her children and the people do; she settles quarrels, and if she is kind to him he may hope to see his home. Athena leaves for Marathon and Athens, the house of Erechtheus."
+    },
+    {
+      "from": 82,
+      "to": 132,
+      "title": "The House and Gardens of Alcinous",
+      "summary": "Odysseus stands and ponders before the bronze threshold of a house that gleams like the sun or the moon: bronze walls with a coping of blue enamel, golden doors and silver doorposts, gold and silver dogs that Hephaestus made immortal to guard it, chairs along the walls under fine cloths where the Phaeacian leaders feast, golden youths holding torches, fifty serving women who grind grain and weave. Outside lie an orchard whose fruit never fails, winter or summer, ripened by the West Wind, a vineyard at every stage of the vintage, garden beds and two springs: the splendid gifts of the gods."
+    },
+    {
+      "from": 133,
+      "to": 171,
+      "title": "The Suppliant at the Hearth",
+      "summary": "He enters and finds the leaders pouring their last libation to Hermes. Still in the mist, he goes to Arete and throws his arms around her knees; the mist is lifted, and he begs her for an escort home, then sits in the ashes of the hearth. All fall silent, until the old Echeneus tells Alcinous that it is not fitting that a stranger sit in the ashes: let him be seated, and wine mixed for Zeus, who attends on suppliants. Alcinous raises him and seats him in the chair of his son Laodamas."
+    },
+    {
+      "from": 172,
+      "to": 206,
+      "title": "The Feast and the Promise of an Escort",
+      "summary": "The stranger washes and eats; the herald Pontonous mixes wine and the libation is poured to Zeus. Alcinous sends the Phaeacians home: tomorrow they will entertain the stranger, sacrifice, and plan his escort, so that he may come home without harm and then suffer what the Spinners spun for him at his birth. But if he is a god, the gods are devising something new; for the gods appear openly to the Phaeacians, who are near to them, as are the Cyclopes and the Giants."
+    },
+    {
+      "from": 207,
+      "to": 232,
+      "title": "Odysseus and the Belly",
+      "summary": "Odysseus answers that he is no god but a mortal of the most sorrows, and asks leave to eat, for nothing is more shameless than the belly, which makes a man forget his grief; let them send him home at dawn, and let him die once he has seen his house. They approve, pour libations and go home, and Odysseus is left in the hall with Arete and Alcinous while the handmaids clear away the feast."
+    },
+    {
+      "from": 233,
+      "to": 297,
+      "title": "Odysseus' Story",
+      "summary": "Arete knows the mantle and tunic she made, and asks who he is and who gave him the clothes. He tells of Ogygia and Calypso, who kept him seven years and offered him immortality; of the raft she gave him in the eighth year, the seventeen days' sailing, the storm Poseidon raised, his swim to the river mouth and his sleep among the leaves; and of Nausicaa, who did not fall short of good sense, fed and bathed him and gave him these clothes."
+    },
+    {
+      "from": 298,
+      "to": 333,
+      "title": "Alcinous' Offer",
+      "summary": "Alcinous blames his daughter for not bringing him with the handmaids; Odysseus takes the blame on himself, for fear of the king's anger. Alcinous wishes such a man might marry his daughter and stay, but no one will keep him against his will: tomorrow the Phaeacians will row him home while he sleeps, even if it is farther than Euboea, where they once took Rhadamanthus to visit Tityus and returned the same day. Odysseus prays to Zeus that Alcinous may fulfill his word."
+    },
+    {
+      "from": 334,
+      "to": 347,
+      "title": "The Bed in the Colonnade",
+      "summary": "Arete has the handmaids make a bed with purple blankets, rugs and woolly cloaks under the colonnade; they bid him go to rest, and Odysseus sleeps there, glad of it, while Alcinous lies down in the inner room of the high house beside the queen."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 22,
+      "to": 26,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 28,
+      "to": 36,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 48,
+      "to": 77,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 146,
+      "to": 152,
+      "speaker": "odysseus",
+      "to_whom": [
+        "arete-queen-of-the-phaeacians"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 159,
+      "to": 166,
+      "speaker": "echeneus",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "advice"
+    },
+    {
+      "from": 179,
+      "to": 181,
+      "speaker": "alcinous",
+      "to_whom": [
+        "pontonous"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 186,
+      "to": 206,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 208,
+      "to": 225,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 237,
+      "to": 239,
+      "speaker": "arete-queen-of-the-phaeacians",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 241,
+      "to": 297,
+      "speaker": "odysseus",
+      "to_whom": [
+        "arete-queen-of-the-phaeacians"
+      ],
+      "kind": "narrative"
+    },
+    {
+      "from": 299,
+      "to": 301,
+      "speaker": "alcinous",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 303,
+      "to": 307,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 309,
+      "to": 328,
+      "speaker": "alcinous",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 331,
+      "to": 333,
+      "speaker": "odysseus",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 342,
+      "to": 342,
+      "speaker": "handmaids",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "command"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 347,
+      "label": "Night of Day 32",
+      "note": "The evening and night after Book 6: Odysseus prays in the grove at sunset (6.321–328 and 7.1), enters the city after Nausicaa (7.14), and the feast and his story run into the night; he sleeps in the colonnade (7.344–347). The next dawn opens Book 8."
+    }
+  ]
+}

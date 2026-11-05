@@ -3,7 +3,7 @@ title: Nausicaa
 greek: Ναυσικάα
 kind: person
 tags: [edge-of-world, woman]
-summary: The daughter of [[Alcinous]] and [[arete-queen-of-the-phaeacians|Arete]], king and queen of the Phaeacians, a girl of an age to marry, who finds the shipwrecked Odysseus on the shore where she has come to wash the household's clothes, and gives him clothing, food and the way to her father's house (*Odyssey* 6–8).
+summary: The daughter of [[Alcinous]] and [[arete-queen-of-the-phaeacians|Arete]], king and queen of the Phaeacians, a girl of an age to marry. She finds the shipwrecked Odysseus on the shore where she has come to wash the household's clothes, gives him clothing and food, and sends him to her mother's knees; when she bids him farewell, he tells her that he owes her his life (*Odyssey* 6–8).
 aliases: [Nausikaa, Nausicaa daughter of Alcinous]
 # Ναυσικάα (Od. 6.17, 6.25, 6.101, 6.186, 6.213, 6.251; 8.457, 8.464) also takes the dative Ναυσικάᾳ (6.276), since
 # iota subscripts are ignored; Ναυσικάαν (6.49; 7.12). Eleven lines in Homer, all in the Odyssey and all hers; no
@@ -12,6 +12,7 @@ grc: [Ναυσικάα, Ναυσικάαν]
 relations:
   - father: alcinous (Od. 6.17, Od. 6.196)
   - mother: arete-queen-of-the-phaeacians (Od. 6.51-52, Od. 6.310-311, Od. 7.141-142)
+  - nurse: eurymedusa (Od. 7.7-12)
 ---
 
 ## The name
@@ -22,7 +23,7 @@ relations:
 
 She is θυγάτηρ μεγαλήτορος Ἀλκινόοιο, “the daughter of great-hearted Alcinous” (*Odyssey* 6.17, 6.196, 6.213; 8.464), the verse-end the Iliad gives Andromache, “the daughter of great-hearted Eetion” (*Iliad* 6.395; see [[alcinous]] and [[andromache]]). Her mother is the queen whose knees Nausicaa tells Odysseus to clasp at the hearth (*Odyssey* 6.303–315), named Arete in the next book (*Odyssey* 7.53–55, 7.141–142; see [[arete-queen-of-the-phaeacians]]). Arete is the daughter of Alcinous' brother Rhexenor, so that both her parents descend from Nausithous, the son of Poseidon (*Odyssey* 7.56–66; see [[nausithous]] and [[poseidon]]).
 
-She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 6.65), with five brothers, two married and three still unmarried (*Odyssey* 6.62–65). Three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119), and when she comes home her brothers, “like the immortals”, stand around her, unyoke the mules and carry the clothes inside (*Odyssey* 7.4–6, a plain rendering). The old chamber-woman Eurymedusa, brought by ship from Apeire and chosen as a prize for Alcinous, nursed her, and lights her fire and makes ready her supper (*Odyssey* 7.7–13).
+She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 6.65), with five brothers, two married and three still unmarried (*Odyssey* 6.62–65). Three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119; see [[laodamas-son-of-alcinous]]). Her nurse was the old chamber-woman Eurymedusa, a captive from Apeire picked out as a prize for her father (*Odyssey* 7.7–12; see [[eurymedusa]]).
 
 ## Descriptions
 
@@ -38,7 +39,7 @@ She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*,
 
 ## Later in the Odyssey
 
-For the whole episode, see [[the-meeting-of-odysseus-and-nausicaa]]. The renderings of the later books here are plain renderings, not the translation. She drives home ahead of Odysseus, and her brothers unyoke the mules and carry the clothes in (*Odyssey* 7.1–6). In the palace Odysseus tells her parents how he found her among her handmaids on the shore, “like the goddesses”, and how she did not fail in good sense, as one would not expect of someone so young (*Odyssey* 7.290–296). When Alcinous blames her for not bringing the stranger home with her women, Odysseus defends “the blameless girl”: she bade him follow with her handmaids, he says, but he would not, for fear and shame (*Odyssey* 7.298–307), though in her own words she had told him to wait in Athena's grove before the city (*Odyssey* 6.295–299). Alcinous wishes that such a man might have his daughter and be called his son-in-law (*Odyssey* 7.311–315).
+For the whole episode, see [[the-meeting-of-odysseus-and-nausicaa]]. The renderings of the later books here are plain renderings, not the translation.
 
 On the evening of the games, as Odysseus comes from the bath to the feast at which he will tell his story, she stands by the doorpost of the hall, marvels at him and speaks for the last time in the poem: “Farewell, stranger, so that even in your native land you may remember me, since to me first you owe the price of your life”; and he answers that if Zeus grants him his homecoming he will pray to her there as to a god all his days, “for you gave me my life, girl” (*Odyssey* 8.457–468). She is not named again.
 

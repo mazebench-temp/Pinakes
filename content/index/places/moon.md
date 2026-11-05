@@ -3,11 +3,12 @@ title: The moon
 greek: σελήνη
 kind: place
 tags: [cosmic]
-summary: The moon, σελήνη or μήνη, a light of the sky and never a goddess in Homer. In the Iliad it shines among the stars in the simile of the Trojan watch-fires, is lost in the darkness over the body of Patroclus, is made “at the full” on the Shield of Achilles, and is the likeness of the shield's blaze when Achilles takes it up (8.555, 17.367, 18.484, 19.374).
+summary: The moon, σελήνη or μήνη, a light of the sky and never a goddess in Homer. It shines among the stars in the simile of the Trojan watch-fires and is made “at the full” on the Shield of Achilles, and it is a measure of brightness: Achilles' shield gives “a blaze as of the moon”, and the houses of Menelaus and Alcinous gleam “as of the sun or of the moon” (8.555, 18.484, 19.374; *Odyssey* 4.45, 7.84).
 aliases: [moon, Selene, the full moon, mene]
 # μήνη, the other word for the moon: μήνης (19.374) is claimed in the Book 19 note, μήνη (23.455, only there) in the
-# Book 23 note; the comparisons are similes/like-the-moon's.
-grc: [σελήνην]
+# Book 23 note; the comparisons are similes/like-the-moon's. σελήνης, the genitive, is the gleam of the houses of
+# Menelaus and Alcinous (Od. 4.45, 7.84); σελήνη (Od. 9.144) and σελήνῃ (Od. 24.148) are to be added with their books.
+grc: [σελήνην, σελήνης]
 en: [moon]
 ---
 

@@ -1,0 +1,7 @@
+---
+summary: In the hall of Alcinous golden young men stand on pedestals holding blazing torches, giving light by night to the banqueters (7.100–102); at bedtime the handmaids go out from the hall with torches to make the guest's bed (7.339).
+---
+
+**The golden youths.** “And golden young men on well-built pedestals / stood, holding blazing torches in their hands, / giving light by night throughout the house to the banqueters” (7.100–102; see [[the-house-of-alcinous]] and [[gold-and-silver]]). αἰθομένας δαΐδας, “blazing torches”, is the phrase of the torches that Eurycleia carries before Telemachus in his own house (1.428, 1.434; see the Book 1 note). W. W. Merry takes the youths for statues on their bases, holding the torch with both hands, as μετά shows; φαίνοντες, “giving light”, is intransitive, as in Eurycleia's words to Telemachus of the slave women “who would have given light” (19.25, a plain rendering), and νύκτας is an accusative of duration, through the nights (*Commentary on the Odyssey*, 1886, on 7.100, 7.102). In Odysseus' house the light of the hall at night comes from braziers set up “to give light” and fed with wood and torches by the slave women (18.307–311, a plain rendering).
+
+**Torches for the guest's bed.** When Arete has bidden her handmaids make the stranger's bed in the colonnade, “the women went out from the hall with torches in their hands” (7.339; see [[bed]] and [[handmaids]]), the verse of the beds at Sparta and in Achilles' hut (4.300; *Iliad* 24.647; see the Book 4 note).

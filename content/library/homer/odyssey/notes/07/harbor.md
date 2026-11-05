@@ -1,0 +1,5 @@
+---
+summary: Walking unseen through the Phaeacians' city, Odysseus marvels first at the harbors (7.43), the two harbors Nausicaa had told him of (6.263).
+---
+
+The first of the sights of the city is its harbors: “And Odysseus marveled at the harbors and the balanced ships” (7.43; see [[the-city-of-the-phaeacians]], [[balanced-ships]] and [[thambos]]). They are the two harbors of Nausicaa's description, “a fine harbor on either side of the city”, with the narrow way in between them and the ships drawn up along the road (6.263–265), which Merry took for the harbors of a town on a peninsula (Merry, *Commentary on the Odyssey*, 1886, on 6.263). The imperfect θαύμαζεν is the wonder that went on as one marvel followed another (Merry on 7.43). The harbors are those of a people whose pride is the ship, “trusting in the speed of their swift ships” (7.34; see [[phaeacians]] and [[ships]]). The poem does not name them again; the next harbor of the story is the harbor of Phorcys on Ithaca, where a Phaeacian ship runs ashore and its crew lay Odysseus on the sand asleep (13.96–119, Greek only).

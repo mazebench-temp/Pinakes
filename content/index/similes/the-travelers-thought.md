@@ -3,7 +3,7 @@ title: The traveler's thought
 greek: ὡς δʼ ὅτʼ ἂν ἀΐξῃ νόος ἀνέρος, ὅς τʼ ἐπὶ πολλὴν
 kind: simile
 tags: [mind, divine-scene]
-summary: Sent from Ida to Olympus by Zeus, Hera flies as swiftly as the mind of a man who has traveled over much of the earth darts from place to place, when he thinks “If only I were there, or there,” and longs for many things (15.78–83).
+summary: Sent from Ida to Olympus by Zeus, Hera flies as swiftly as the mind of a man who has traveled over much of the earth darts from place to place, when he thinks “If only I were there, or there,” and longs for many things (15.78–83). The Odyssey gives thought, in half a verse, as the measure of the Phaeacians' ships, “swift as a wing or a thought” (*Odyssey* 7.36).
 aliases: [swift as thought, the darting mind, like a man's thought, Hera's flight to Olympus]
 grc: ["ἀΐξῃ νόος ἀνέρος", "γαῖαν ἐληλουθὼς", "ἔνθʼ εἴην ἢ ἔνθα", "διέπτατο πότνια Ἥρη"]
 en:
@@ -40,4 +40,4 @@ The speed of the gods is measured elsewhere by what a man can do. Each leap of H
 
 ## Outside Homer
 
-The Homeric Hymn to Apollo sends the god from earth to Olympus “like thought” (ὥστε νόημα, *Homeric Hymn* 3.186–187). The Hymn to Hermes has a simile close to this one for the young god's quickness of invention: as a swift thought passes through the breast of a man whom thronging cares beset, or as glances flash from the eyes, so Hermes devised word and deed together (*Homeric Hymn* 4.43–46; see [[hermes]]).
+The Homeric Hymn to Apollo sends the god from earth to Olympus “like thought” (ὥστε νόημα, *Homeric Hymn* 3.186–187), and later has him spring back to the Cretans' ship, flying “like thought” (νόημʼ ὣς, *Homeric Hymn* 3.448). The Hymn to Hermes has a simile close to this one for the young god's quickness of invention: as a swift thought passes through the breast of a man whom thronging cares beset, or as glances flash from the eyes, so Hermes devised word and deed together (*Homeric Hymn* 4.43–46; see [[hermes]]). Cicero, arguing that the soul after death breaks easily through the air around the earth, gives as the reason that nothing is swifter than the soul: *nihil est animo velocius, nulla est celeritas quae possit cum animi celeritate contendere* (*Tusculan Disputations* 1.43; see [[cicero]]). Merry cites the Hymns, and Cicero after Ameis, on the Odyssey's half-verse (W. W. Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 7.36).

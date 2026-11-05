@@ -8,7 +8,8 @@ aliases: [masts, yard, epikrion]
 grc: [ἱστὸν]
 # ἱστόν at 22.440 is Andromache's loom.
 # ἱστόν at Od. 1.357, 2.94, 2.104 and 2.109 is the loom (the web); ἱστὸν at Od. 2.424 is the mast.
-except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109, Od. 5.62]
+# ἱστοὺς at Od. 7.105 are the women's looms (αἱ δʼ ἱστοὺς ὑφόωσι).
+except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109, Od. 5.62, Od. 7.105]
 en: [mast]
 ---
 

@@ -1,0 +1,9 @@
+---
+summary: At Arete's knees Odysseus prays that each of the Phaeacian leaders may hand on to his children the possessions in his halls (7.148–150); he asks to see his own wealth, his slaves and his house before he dies (7.224–225), and Alcinous offers him a house and possessions if he will stay (7.314).
+---
+
+**The suppliant's prayer.** Odysseus' supplication includes a blessing on his hosts: “may the gods grant them prosperity / in their lives, and may each of them hand on to his children / the possessions in his halls and the prize the people gave him” (7.148–150; see [[supplication]], [[olbos]] and [[geras]]). The prize given by the people, W. W. Merry explains, is the royal domain, like the domain of Alcinous beside the grove of Athena, and the prayer is that their possessions may be enjoyed after them by their children and not by strangers, so that παισίν, “to his children”, is emphatic (*Commentary on the Odyssey*, 1886, on 7.150; 6.293; see [[the-grove-of-athena]]). In Ithaca strangers are eating up the possessions of Odysseus (see the entry and [[the-suitors]]).
+
+**His own wealth.** He asks the Phaeacians to send him home at dawn: “let life leave me, once I have seen / my wealth and my slaves and my great high-roofed house” (7.224–225; see [[house]] and [[nostos]]). The verse is Achilles' in the Iliad, where he had hoped that Patroclus would bring his son from Scyros and show him “my wealth and my slaves and my great high-roofed house” (*Iliad* 19.331–333; see [[neoptolemus]]); κτῆσις is also “the wealth of wise-hearted Telemachus” that the suitors waste (4.687; see the Book 4 note).
+
+**A house and possessions.** Alcinous, wishing that such a man might marry his daughter, offers him what he has asked to see again in Ithaca: “and I would give you a house and possessions, / if you stayed willingly” (7.314–315; see [[alcinous]] and [[nausicaas-wish]]).

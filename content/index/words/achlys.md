@@ -3,7 +3,7 @@ title: Mist (achlys)
 greek: ἀχλύς
 kind: term
 tags: [divine-will, fate]
-summary: A dark mist over the eyes. Death and fainting pour it over a man's eyes, and a god can pour it on or take it away; when Athena takes it from Diomedes' eyes, he can tell gods from men.
+summary: A dark mist, nearly always over the eyes. Death and fainting pour it over a man's eyes, and a god can pour it on or take it away; when Athena takes it from Diomedes' eyes, he can tell gods from men. In the Odyssey she wraps Odysseus in it, so that he walks unseen through the city of the Phaeacians.
 aliases: [achlys, achlus, mist over the eyes, dimness]
 grc: [ἀχλύ*]
 en: [mist]

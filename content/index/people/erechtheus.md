@@ -25,7 +25,7 @@ passages:
 
 ## The cult
 
-"And there with bulls and rams they seek his favor, the young men of the Athenians, as the years come round" (2.550–551). The pronoun μιν, "him", may refer to Erechtheus or to Athena, and the Greek does not settle it; the translation takes it as Erechtheus. Either way, hero and goddess share a house. In the Odyssey, when Athena goes to Athens, she enters "the strong house of Erechtheus" (Od. 7.80–81). See [[athena-and-erechtheus]].
+"And there with bulls and rams they seek his favor, the young men of the Athenians, as the years come round" (2.550–551). The pronoun μιν, "him", may refer to Erechtheus or to Athena, and the Greek does not settle it; the translation takes it as Erechtheus. Either way, hero and goddess share a house. In the Odyssey, when Athena goes to Athens, she enters “the well-built house of Erechtheus” (*Odyssey* 7.81). See [[athena-and-erechtheus]].
 
 ## Outside Homer
 

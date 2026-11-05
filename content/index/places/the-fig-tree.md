@@ -11,7 +11,7 @@ grc: ["παρʼ ἐρινεόν"]
 en: [wild fig tree]
 ---
 
-ἐρινεός is the wild fig, the caprifig, as against the cultivated fig tree, συκέη (Od. 7.116, 24.341).
+ἐρινεός is the wild fig, the caprifig, as against the cultivated fig tree, συκέη (*Odyssey* 7.116, 24.341; see [[the-garden-of-alcinous]]).
 
 {{quote:4499f236-e3b4-5973-aa9c-00911ef3850b}}
 

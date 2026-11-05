@@ -1,0 +1,11 @@
+---
+summary: Alcinous promises that the Phaeacians will bring the stranger home without harm, and that there he shall suffer whatever his fate and “the heavy Spinners” spun for him at his birth (7.196–198). The κλῶθες, the Spinners, are named only here in Homer.
+passages:
+  - 7.196-198 | The heavy Spinners
+---
+
+**The Spinners.** Alcinous ends his promise of an escort with the limit of what the Phaeacians can do: the stranger shall suffer no harm on the way, “before he sets foot on his own land; and there, after that, / he shall suffer whatever his fate and the heavy Spinners / spun for him with their thread at his birth, when his mother bore him” (7.196–198; see [[alcinous]], [[aisa]] and [[no-man-escapes-his-fate]]). The verses are Hera's of Achilles in the Iliad, “he shall suffer whatever his fate / spun for him with her thread at his birth, when his mother bore him” (*Iliad* 20.127–128), with the κλῶθες added beside αἶσα and the verb in the plural; in the Iliad's last book it is mighty Fate who “spun for him with her thread at his birth” (*Iliad* 24.209–210; see [[mighty-fate]]).
+
+**Half a person.** The scholia take κλῶθες as a change of form from κλωθώ, “spinner”, the name Clotho. Merry: the three Moirai are post-Homeric, first in Hesiod (*Theogony* 218, 906); here the Spinners are only “the half-personified agency of αἶσα”, a personification that stops short of mythology, like the Harpies who snatch men away (1.241), and the epithet βαρεῖαι, “heavy” (“stern”, he renders it), is no more than could have been said of αἶσα itself (*Commentary on the Odyssey*, 1886, on 7.197; see the translation's note on 7.197 and its key-word row). Eustathius reports, and rejects, two readings found in some copies, κατακλῶθές τε βαρεῖαι, the Spinners in one word, and κατακλώθησι βαρεῖα, a verb with αἶσα alone as the spinner, which, as La Roche remarks, implies the omission of the next verse (Merry's critical note on 7.197).
+
+**What the gods spin.** Elsewhere the spinners are the gods themselves: in the year the gods had spun for Odysseus to return home (1.17), and in Achilles' words to Priam, “so the gods have spun the thread for wretched mortals” (*Iliad* 24.525; see the general article). Merry reports Eusebius' view that the passage teaches no fatalism (on 7.197; see [[aisa]]).

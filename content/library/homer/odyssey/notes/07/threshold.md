@@ -1,0 +1,11 @@
+---
+summary: Odysseus stands and ponders before the bronze threshold of the house of Alcinous, where the silver doorposts stand, and after gazing at everything steps over it into the house (7.83–89, 7.135); the walls and the chairs run from the threshold to the inner part, and a spring runs under the threshold of the court (7.87, 7.96, 7.130).
+# Phrases first met here (they apply in the Odyssey only), never bare οὐδόν or οὐδῷ, which later books also use of
+# "the threshold of old age" (15.246, 15.348, 23.212): "χάλκεον οὐδὸν" (7.83), "ἕστασαν οὐδῷ" (7.89), οὐδοῖο (7.96, only
+# here), "αὐλῆς οὐδὸν" (7.130) and "ὑπὲρ οὐδὸν" (7.135; later 13.63, 22.182). οὐδοῦ (7.87) is in the Book 1 note.
+grc: ["χάλκεον οὐδὸν", "ἕστασαν οὐδῷ", οὐδοῖο, "αὐλῆς οὐδὸν", "ὑπὲρ οὐδὸν"]
+---
+
+**The bronze threshold.** Athena leaves Odysseus at the house, and “his heart pondered much / as he stood there, before he reached the bronze threshold” (7.82–83; see [[the-house-of-alcinous]]). The description that explains his pause comes back to it: “silver doorposts stood in the bronze threshold” (7.89; see [[door]], [[bronze]] and [[gold-and-silver]]). A threshold of bronze is a thing of the divine world: Tartarus has “gates of iron and the threshold of bronze” (*Iliad* 8.15; see [[tartarus]]), and the house of Zeus is “bronze-floored” (*Iliad* 1.426; see [[bronze-floored]]). The walls of the court and the chairs of the hall both run from the threshold to the inner part (7.87, 7.96; see [[house]]), and the second spring of the garden runs “under the threshold of the court / toward the high house” (7.130–131; see [[the-garden-of-alcinous]]).
+
+**Crossing it.** “But when he had gazed at everything in his heart, / he quickly stepped over the threshold into the house” (7.134–135): the man who has stood still so long goes in quickly, καρπαλίμως, and through the hall to the queen (7.139–142; see [[supplication]]). A stranger waits at the threshold to be received, as Athena does at the house of Odysseus (1.103–104; see the Book 1 note and [[xenia]]); Odysseus does not wait to be led in, but goes straight to the knees of Arete, as Nausicaa and Athena had told him (6.310–315, 7.53–77). The same words, ὑπὲρ οὐδὸν ἐβήσετο, take him out of the house when he leaves for the ship that will carry him home (13.63, a plain rendering).

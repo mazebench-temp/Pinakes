@@ -28,4 +28,4 @@ Other men have worn armor that was not made for them. Paris goes out to his duel
 
 ## Elsewhere in Homer
 
-In the Odyssey wings are a measure for ships: oars “which are wings to ships” (*Odyssey* 11.125 = 23.272), and the ships of the Phaeacians, “swift as a wing or a thought” (*Odyssey* 7.36).
+In the Odyssey wings are a measure for ships: oars “which are wings to ships” (*Odyssey* 11.125 = 23.272), and the ships of the Phaeacians, “swift as a wing or a thought” (*Odyssey* 7.36; see [[the-travelers-thought]]).

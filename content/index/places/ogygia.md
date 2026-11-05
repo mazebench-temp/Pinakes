@@ -5,7 +5,8 @@ kind: place
 tags: [island]
 summary: The island of the nymph [[Calypso]], daughter of [[Atlas]], far out in the sea, where Odysseus is held for seven years until the gods resolve on his return. Homer names it only in the Odyssey.
 aliases: [Ogygie]
-# Ὠγυγίην (Od. 1.85). The Odyssey also has Ὠγυγίης (6.172, claimed in the Odyssey Book 6 note) and Ὠγυγίη (7.244).
+# Ὠγυγίην (Od. 1.85, 7.254). The Odyssey also has Ὠγυγίης (6.172) and Ὠγυγίη (7.244), claimed in the Odyssey Book 6
+# and Book 7 notes.
 # No stem, so that the adjective ὠγύγιος "primeval" (Hesiod, Theogony 806) is not caught when later authors are added.
 grc: [Ὠγυγίην]
 ---

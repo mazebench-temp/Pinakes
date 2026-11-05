@@ -3,7 +3,7 @@ title: Boundless
 greek: ἀπείρων
 kind: epithet
 tags: [sea]
-summary: “Without limit,” an epithet of the [[sea]] and of the earth, and once of a people, “countless.”
+summary: “Without limit,” an epithet of the [[sea]] and of the earth, once of a people, “countless,” and in the Odyssey of sleep and of bonds.
 aliases: [limitless, apeiron]
 grc: [ἀπείρονα]
 en: [boundless]
@@ -12,7 +12,7 @@ of: [sea]
 
 ## Meaning
 
-ἀπείρων = ἀ- (“not”) + πεῖραρ, πέρας (“end, limit”): “boundless.” Homer uses it of the sea and of the earth (ἐπ’ ἀπείρονα γαῖαν, “over the boundless earth”), and once of the Trojan people at Hector's funeral, δῆμος ἀπείρων, “the countless people” (Il. 24.776).
+ἀπείρων = ἀ- (“not”) + πεῖραρ, πέρας (“end, limit”): “boundless.” Homer uses it of the sea and of the earth (ἐπ’ ἀπείρονα γαῖαν, “over the boundless earth”), and once of the Trojan people at Hector's funeral, δῆμος ἀπείρων, “the countless people” (Il. 24.776). The Odyssey gives it also to the sleep that a god pours over the castaway, ὕπνον … κατʼ ἀπείρονα, “boundless sleep” (*Odyssey* 7.286), and to the bonds without end, δεσμοὶ … ἀπείρονες, in which Hermes says he would gladly lie beside Aphrodite (*Odyssey* 8.339–342).
 
 ## Use
 

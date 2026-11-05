@@ -9,4 +9,6 @@ aliases: [Alkinou apologos, Apologoi, Apologue of Alcinous, the tale told to Alc
 
 The books of Homer were known in antiquity by the names of their episodes, and “the tale to Alcinous” became proverbial for a long story. Aristotle's example is the moment before the tale begins: hearing Demodocus sing of the Wooden Horse, Odysseus weeps, Alcinous notices, and asks who he is (*Odyssey* 8.521–586, 9.1–20; see [[odysseus-weeps-at-the-feast]], [[alcinous]] and [[demodocus]]).
 
+The tale has a prelude in the seventh book, where Odysseus answers Arete's question with the end of his wanderings only, from the wreck of his last ship to the shore of Scheria, and keeps back his name (*Odyssey* 7.241–297; see [[odysseus-at-the-house-of-alcinous]]). A verse of that account stands again in the opening of the great tale (*Odyssey* 9.15 = 7.242), and the tale ends where the account began, with the nine days' drift to Ogygia, breaking off because he told the rest to the king and his wife the day before (*Odyssey* 12.447–453).
+
 {{notes}}

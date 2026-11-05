@@ -11,7 +11,7 @@ en: [endless]
 
 ## Meaning
 
-ἀθέσφατος = ἀ- (“not”) + θέσφατος (“spoken by a god,” from θεός, “god,” and the root of φημί, “speak”; θέσφατα are oracles and decrees of the gods): “beyond what even a god could tell,” and so “unspeakably great, endless.” In the Iliad it describes rain twice, both times in a simile: the cranes fly toward the stream of Ocean when they have fled the winter “and its endless rain” (3.3–5), and Zeus flashes his lightning when he makes ready “a heavy, endless rain” (10.5–6). In the Odyssey the word is commoner and plainer: the sea that Poseidon stirs up (Od. 7.273), the wine that undid Elpenor (Od. 11.61), long nights (Od. 11.373, 15.392), the grain of Ithaca (Od. 13.244), the herds of Odysseus (Od. 20.211). Compare [[untold]] (ἄσπετος), “not to be told,” and [[boundless-sea]] (ἀπείρων).
+ἀθέσφατος = ἀ- (“not”) + θέσφατος (“spoken by a god,” from θεός, “god,” and the root of φημί, “speak”; θέσφατα are oracles and decrees of the gods): “beyond what even a god could tell,” and so “unspeakably great, endless.” In the Iliad it describes rain twice, both times in a simile: the cranes fly toward the stream of Ocean when they have fled the winter “and its endless rain” (3.3–5), and Zeus flashes his lightning when he makes ready “a heavy, endless rain” (10.5–6). In the Odyssey the word is commoner and plainer: the sea that Poseidon stirs up (*Odyssey* 7.273), the wine that undid Elpenor (Od. 11.61), long nights (Od. 11.373, 15.392), the grain of Ithaca (Od. 13.244), the herds of Odysseus (Od. 20.211). Compare [[untold]] (ἄσπετος), “not to be told,” and [[boundless-sea]] (ἀπείρων).
 
 ## Use
 

@@ -1037,6 +1037,52 @@ words of the washing and the city: sails and rags, masts and looms, a palm and a
 | βιός, the bow (Od. 6.270) | βίος "life" (Aristotle) | bow: in its Book 6 note only |
 | φάτις, φάτιν, φῆμιν "talk" (Od. 6.29, 6.273) | φήμη, the word of omen (2.35, 20.100, 20.105); φημί | the-talk-of-the-people: the exact forms, never `φημ*`; φῆμις with Book 14, and 15.468 to decide with Book 15 |
 
+### Odyssey, Book 7
+
+The house of Alcinous brings the queen's own name and the descent of the Phaeacian kings, which meet names of the Iliad
+(Laodamas, Periboea, Eurymedon) and a Homeric epithet (Rhexenor and ῥηξήνωρ); Athena's journey names Athens with the
+goddess's own accusative. The other clashes are words of the house and the garden that the earlier books used in other
+senses: thresholds of old age, a lion's fold, the masts of ships, the dust of a fall, sheep and apples.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ἀρήτη, Ἀρήτῃ, Ἀρήτην, Ἀρήτης (Od. 7.54 and often) | Ἄρητος (Od. 3.414; Il. 17.494), Ἀρήτοιο (Il. 17.517), ἀρητόν "accursed" (Il. 17.37), ἀρητῆρα "priest" (Il. 1.11), the patronymic Ἀρητιάδαο (Od. 16.395, 18.413); the word ἀρετή | arete-queen-of-the-phaeacians: the four exact forms, never `Ἀρήτ*`; the title is not "Arete" alone, which links resolve to the word entry arete |
+| Ἀθήνην, the city (Od. 7.80) | Ἀθήνην, the goddess, everywhere else (and 8.520) | athena `except: [Od. 7.80]`; athens: the phrase "εὐρυάγυιαν Ἀθήνην" |
+| Λαοδάμαντα, son of Alcinous (Od. 7.170; 8.117 and often) | the Trojan, ἕλε Λαοδάμαντα (Il. 15.516) | laodamas-son-of-alcinous: `Λαοδάμα*` and the English Laodamas in its Book 7 note, which applies only to the Odyssey; laodamas keeps its phrase and `except: [Od. 7.170]` |
+| Περίβοια, mother of Nausithous (Od. 7.57) | the daughter of Acessamenus, in the same words γείνατο καὶ Περίβοια (Il. 21.142) | periboea-mother-of-nausithous: Περίβοια and the English Periboea in its Book 7 note; periboea keeps its phrase and `except: [Od. 7.57]` |
+| Εὐρυμέδοντος, king of the Giants (Od. 7.58) | Εὐρυμέδων, Agamemnon's charioteer (Il. 4.228) and Nestor's attendant (Il. 8.114, 11.620); εὐρυμέδοντος "wide-ruling" (*Rhetoric* 1373b16) | eurymedon-king-of-the-giants: the form and the English Eurymedon in its Book 7 note; eurymedon and eurymedon-attendant-of-nestor `except: [Od. 7.58]` |
+| Εὐρυμέδουσα (Od. 7.8) | Εὐρυμέδοντος (7.58) and the Iliad's Eurymedons | eurymedusa: the exact form, never `Εὐρυμεδ*` |
+| Ῥηξήνορα, Ῥηξήνορος, Arete's father (Od. 7.63, 7.146) | ῥηξήνωρ "breaker of men", of Achilles (Il. 7.228, 13.324, 16.146, 16.575; Od. 4.5) | rhexenor: `^Ῥηξήνορ*`; breaker-of-men: `"!^Ῥηξήνορ*"` |
+| Ποντόνοος, Ποντόνοε, the herald (Od. 7.179, 7.182; 8.65; 13.50, 13.53) | πόντος "sea", which a stem Ποντο* would catch | pontonous: the exact forms |
+| Ἀπειραίη, Ἀπείρηθεν (Od. 7.8–9) | ἀπείρητος "untried" (Il. 12.304, 17.41; Od. 2.170), ἀπείρων, ἀπειρέσιος; ἀπειρημένου (*Rhetoric* 1373b10) | apeire: the exact forms with `^` |
+| Τιτυὸν (Od. 7.324; 11.576) | τιτύσκομαι "aim" (Il. 3.80 and often; Od. 8.556, 21.48) | tityus: the exact forms Τιτυὸν and Γαιήιον; earth's Book 7 note also takes Γαιήιον |
+| Ὠγυγίη (Od. 7.244) | ὠγύγιος "primeval" in later poets | ogygia: in its Book 7 note |
+| τείχεα μακρά, the Phaeacians' walls (Od. 7.44) | the walls of Troy (Il. 4.34, 22.507) | the-city-of-the-phaeacians: the phrase in its Book 7 note; the-walls-of-troy `except: [Od. 7.44]` |
+| σκολόπεσσιν, the city's stakes (Od. 7.45) | the stakes of the Achaean ditch (Il. 12.55, 15.344) | the-city-of-the-phaeacians: in its Book 7 note |
+| ἀγορήσατο, ἀγορεῦσαι, ἀγόρευον, speaking at the feast (Od. 7.158, 7.185, 7.241, 7.334) | ἀγορή, the assembly | assembly `except` the four lines |
+| ἱκέτευσʼ, ἱκέτευσας, ἱκέτῃσιν (Od. 7.165, 7.181, 7.292, 7.301) | ἵκετο, ἵκετʼ "came" | supplication: the exact forms in its Book 7 note, never `ἱκετ*` |
+| κῆρι "heart" (περὶ κῆρι, Od. 7.69) | κηρί "doom" (3.410) | ker-heart: `"=κῆρι"` in its Book 7 note |
+| ἱερὸν μένος Ἀλκινόοιο (Od. 7.167) | ἱερός "sacred" of things | sacred-might-of-alcinous: the phrase and μένος Ἀλκινόοιο; hieros keeps the word |
+| νηυσὶ θοῇσιν, swift ships (Od. 7.34) | νήσοισιν … θοῇσιν, "pointed" islands (15.299) | swift-ships: the phrase in its Book 7 note |
+| πυκινὸν δόμον, the well-built house (Od. 7.81, 7.88) | the lion's fold (Od. 6.134; Il. 12.301) | well-built: two phrases |
+| δόμον, a house (Od. 7.22–131) | the lion's fold (Od. 6.134) | house: bare δόμον in its Book 7 note, `except: [6.134]` |
+| τοῖχοι, τοῖχον, walls (Od. 7.86, 7.95) | τοίχους, a ship's sides (12.420) | house: the exact forms |
+| μυχόν, the inner end of court and hall (Od. 7.87, 7.96) | the back of a cave or chamber (9.236, 16.285, 22.180) | house: "μυχὸν ἐξ" |
+| οὐδός, the threshold (Od. 7.83–135) | γήραος οὐδός, the threshold of old age (15.246, 15.348, 23.212) | threshold: phrases and οὐδοῖο in its Book 7 note |
+| κορώνη, the door handle (Od. 7.90) | the tip of a bow (21.138, 21.165) | door: "χρυσέη δὲ κορώνη" |
+| βωμῶν, pedestals (Od. 7.100) | βωμός, an altar | the-house-of-alcinous: βωμῶν in its Book 7 note only |
+| ἱστούς, looms (Od. 7.105) | masts (4.578, 9.77) | loom: "ἱστοὺς ὑφόωσι" and ἱστῶν; mast `except: [Od. 7.105]` |
+| ὑγρὸν ἔλαιον, the oil dripping from linen (Od. 7.107) | the oil of the bath (6.79, 6.215) | weaving: "ἀπολείβεται ὑγρὸν ἔλαιον"; bathing `except: [Od. 7.107]` |
+| μῆλον, μήλῳ "apple" (Od. 7.120) | μῆλον "sheep" (12.301, 14.105) | unclaimed; the-garden-of-alcinous takes 7.120 by ref; a sheep entry that adds μῆλον or μήλῳ must except Od. 7.120 |
+| σταφυλῇ σταφυλή, grape on grape (Od. 7.121) | σταφύλῃ, the plumb line (Il. 2.765) | vine: the phrase in its Book 7 note |
+| πολύκαρπος ἀλωή, the vineyard (Od. 7.122) | ἀλωή "orchard" (6.293), "threshing floor" (Il. 5.499) | the-garden-of-alcinous: the phrase |
+| ἐν κονίῃσιν, the ashes of the hearth (Od. 7.153, 7.160) | the dust of a fall (10.163, 18.98, 18.398, 19.454) | hearth: "ἐσχάρῃ ἐν κονίῃσιν" |
+| οἴκαδʼ, the leaders going home to bed (Od. 7.188) | νόστος, homecoming | nostos: `except: [7.188]` in its Book 7 note |
+| νυκτὶ μελαίνῃ, the black night (Od. 7.253) | νηὶ μελαίνῃ, the black ship | black-ships `except: [Od. 7.253]` |
+| ἀγγελίης, a message from Zeus (Od. 7.263) | an embassy (Il. 3.206, 11.140) | embassy `except: [Od. 7.263]` |
+| ἐπισκύσσαιτο, be indignant (Od. 7.306) | nemesis' English "indignant" | cholos: the verb in its Book 7 note |
+| λέκτο "lay down" (Od. 7.346) | λέκτο "counted" (4.451) | unclaimed |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

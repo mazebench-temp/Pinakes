@@ -8,7 +8,8 @@ aliases: [West Wind, Zephyros, Zephyr]
 # Ζέφυρον, the accusative, is the West Wind at Il. 23.208 (claimed also by the Book 23 note) and Od. 2.421. Ζεφύροιο
 # is the West Wind wherever it occurs (Od. 4.402, 4.567; Il. 4.276, 7.63, 19.415, 21.334, 23.200, which the Iliad's book
 # notes also claim). Ζεφύρῳ is the West Wind wherever it occurs too (Od. 5.332; Il. 16.150, 23.195, which the Iliad's
-# book notes also claim). Ζεφύρου is claimed by the Iliad's book notes, and Ζεφυρίη (Od. 7.119) is the adjective.
+# book notes also claim). Ζεφύρου is claimed by the Iliad's book notes, and Ζεφυρίη (Od. 7.119), the adjective used
+# as a noun, "the West Wind", by the Odyssey Book 7 note.
 grc: [Ζέφυρος, Ζέφυρον, Ζεφύροιο, Ζεφύρῳ]
 ---
 

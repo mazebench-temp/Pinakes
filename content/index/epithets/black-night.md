@@ -3,7 +3,7 @@ title: Black night
 greek: νὺξ μέλαινα
 kind: epithet
 tags: [time]
-summary: “Black night,” the night that ends a day of battle, carries the night raid and covers journeys between the camps, and to which men must yield.
+summary: “Black night,” νὺξ μέλαινα, the night to which men must yield: it ends a day of battle or a day at sea, carries the night raid, covers journeys between the camps, and brings the castaway to land.
 aliases: [nyx melaina, dark night]
 grc: [νύκτα μέλαιναν, νυκτὶ μελαίνῃ]
 en: [black night]
@@ -11,7 +11,7 @@ en: [black night]
 
 ## Meaning
 
-μέλας (“black, dark”) is the color of night as it is of blood, of earth and of the pitch-coated ships ([[black-ships]], [[black-earth]], [[black-doom]]). In the Iliad night is “black” in the verse ἀλλʼ ἤτοι νῦν μὲν πειθώμεθα νυκτὶ μελαίνῃ, “But now let us yield to black night,” spoken by Hector to the Trojans and then by Nestor to the Achaeans (8.502, 9.65); in θοὴν διὰ νύκτα μέλαιναν, “through the swift black night,” of journeys between the camps (10.394, 10.468, 24.366, 24.653); in the night raid of Odysseus and Diomedes (10.297); and in a simile of two beasts that scatter a herd “in the dead of black night” (15.323–325). Night has other epithets: [[murky]], [[ambrosial]], and the night that covers the eyes of the dying ([[darkness-covered-his-eyes]]). As a goddess, Night is one whom even Zeus will not offend (14.258–261).
+μέλας (“black, dark”) is the color of night as it is of blood, of earth and of the pitch-coated ships ([[black-ships]], [[black-earth]], [[black-doom]]). In the Iliad night is “black” in the verse ἀλλʼ ἤτοι νῦν μὲν πειθώμεθα νυκτὶ μελαίνῃ, “But now let us yield to black night,” spoken by Hector to the Trojans and then by Nestor to the Achaeans (8.502, 9.65); in θοὴν διὰ νύκτα μέλαιναν, “through the swift black night,” of journeys between the camps (10.394, 10.468, 24.366, 24.653); in the night raid of Odysseus and Diomedes (10.297); and in a simile of two beasts that scatter a herd “in the dead of black night” (15.323–325). In the Odyssey Eurylochus urges the weary crew to land on Thrinacia with Hector's verse, “let us yield to black night” (*Odyssey* 12.291), and the shipwrecked man, borne nine days on the sea, comes to land “on the tenth black night,” in Odysseus' own story to Arete and again in his Cretan tale (*Odyssey* 7.253, 14.314). Night has other epithets: [[murky]], [[ambrosial]], and the night that covers the eyes of the dying ([[darkness-covered-his-eyes]]). As a goddess, Night is one whom even Zeus will not offend (14.258–261).
 
 ## Use
 

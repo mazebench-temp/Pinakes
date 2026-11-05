@@ -16,4 +16,4 @@ passages:
 
 The two skins are set side by side, the article given only to the first, τὸν ἕτερον, ἕτερον δʼ, to bring the contrasted words as close together as possible; and ἐν δὲ καὶ ᾖα repeats the ἐν of the verse before, “and in it too” (Merry on 5.266). The κώρυκος is a leather sack (see the translation's row κώρυκος), and ᾖα are the provisions, as in Telemachus' voyage (2.289; see the entry). ὄψα, “meats”, are what Nestor's housekeeper put in the chariot for Telemachus, with bread and wine, “such as kings whom Zeus has nurtured eat” (3.479–480). The same words, ἐν δὲ καὶ ᾖα / κωρύκῳ, are used when Odysseus climbs to the Cyclops' cave with a great skin of Maron's wine and provisions in a sack (9.212–213; see [[polyphemus-the-cyclops]]).
 
-**In Odysseus' account.** Telling Arete of his voyage, he says that Calypso “gave me much, bread and sweet wine” when she sent him on the raft (7.264–265, a plain rendering; see [[raft]]).
+**In Odysseus' account.** Telling Arete of his voyage, he says that Calypso “gave me much, bread and sweet wine” when she sent him on the raft (7.264–265; see [[raft]]).

@@ -1,0 +1,6 @@
+---
+summary: The description of the house and the garden of Alcinous ends, “Such were the splendid gifts of the gods at the house of Alcinous” (θεῶν … ἀγλαὰ δῶρα, 7.132).
+# δῶρα (7.132) is in the entry.
+---
+
+The phrase gathers up what the Phaeacians have from the gods: the orchard whose fruit never fails, the vineyard, the beds and the two springs (7.112–132; see [[the-garden-of-alcinous]]), as earlier the earth-shaker “granted” them their swift crossings and Athena “has given” their women skill at the loom (7.35, 7.110–111; see [[poseidon]], [[athena]] and [[weaving]]). Paris counts his beauty among the “glorious gifts of the gods” that are not to be cast aside (*Iliad* 3.65; see [[gifts-of-the-gods]]). The book's other gifts are given by mortals and by a goddess to the stranger. Calypso “gave me much, / bread and sweet wine, and put immortal garments on me” (7.264–265; see [[calypso]]), and Nausicaa gave him bread and wine and the clothes Arete knows (7.295–296; see [[clothing]]); the gods have given him sorrows (7.242; see [[algos]]). The Phaeacians' own gifts are still to come, with the escort, “escort and dear gifts” (8.545, 13.41, a plain rendering; see [[pompe]] and [[guest-gifts]]).

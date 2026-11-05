@@ -12,7 +12,7 @@ of: [trojan-women]
 
 ## Meaning
 
-ἐϋπλόκαμος = εὖ (“well”) + πλόκαμος (“lock, braid,” from πλέκω, “plait”): “with fine braids.” It is close in sense to [[lovely-haired]] (ἠΰκομος), but names the plaiting of the hair. In the Iliad it describes the Trojan women (6.380, 6.385), Hecamede, the captive woman who serves Nestor (Il. 11.624, 14.6), the Nereid Amatheia (Il. 18.48), and the serving women of Andromache's house (Il. 22.442, 22.449). In the Odyssey it belongs above all to goddesses: Calypso and Circe, Dawn, Demeter and Artemis. There it is often joined with “dread goddess” in one formula, ἐϋπλόκαμος, δεινὴ θεός (Od. 7.41, of Athena; 7.246, 10.136, 12.150), the two epithets that share a single verse in *Iliad* 6 ([[dread-goddess]]).
+ἐϋπλόκαμος = εὖ (“well”) + πλόκαμος (“lock, braid,” from πλέκω, “plait”): “with fine braids.” It is close in sense to [[lovely-haired]] (ἠΰκομος), but names the plaiting of the hair. In the Iliad it describes the Trojan women (6.380, 6.385), Hecamede, the captive woman who serves Nestor (Il. 11.624, 14.6), the Nereid Amatheia (Il. 18.48), and the serving women of Andromache's house (Il. 22.442, 22.449). In the Odyssey it belongs above all to goddesses: Calypso and Circe, Dawn, Demeter and Artemis. There it is often joined with “dread goddess” in one formula, ἐϋπλόκαμος, δεινὴ θεός (*Odyssey* 7.41, of Athena; 7.246, 7.255, 10.136, 12.150), the two epithets that share a single verse in *Iliad* 6 ([[dread-goddess]]).
 
 ## Use
 

@@ -1,0 +1,5 @@
+---
+summary: The mules carry Nausicaa home to the city, and her brothers unyoke them in the doorway of her father's house (7.2–6).
+---
+
+The book opens with the end of Nausicaa's drive: “So he prayed there, much-enduring brilliant Odysseus; / and the might of the two mules carried the girl to the city” (7.1–2; see [[nausicaa]] and [[the-grove-of-athena]]). μένος ἡμιόνοιιν, “the might of the two mules”, is a periphrasis of the kind the book uses of the king, μένος Ἀλκινόοιο, “the might of Alcinous” (7.167, 7.178; see [[menos]] and [[alcinous]]). At the house “she halted them in the doorway”: στῆσεν has the mules for its unexpressed object, as one halts horses or ships (W. W. Merry, *Commentary on the Odyssey*, 1886, on 7.4, citing *Iliad* 5.755 and 4.582). Her brothers, “like the immortals”, unyoke the mules from under the wagon and carry the clothing inside (7.4–6; see [[wagon]], [[clothing]] and [[like-the-immortals]]), the work that the girls had done themselves at the river, where they unyoked the mules and drove them off to graze (6.88–90; see the Book 6 note).

@@ -1,0 +1,5 @@
+---
+summary: Odysseus finds the leaders of the Phaeacians pouring libations from their cups to Hermes (7.137), and the herald Pontonous serves the wine for the libation to Zeus, first pouring drops into the cups (7.183).
+---
+
+When Odysseus comes into the hall, the leaders and rulers of the Phaeacians are “pouring libations from their cups to the keen-sighted slayer of Argus, / to whom they would pour the last libation, whenever they thought of bed” (7.137–138; see [[hermes]], [[libation]] and [[keen-sighted]]). The guest's arrival brings a second libation, to Zeus, the god of suppliants: Pontonous mixes the wine “and served it out to all, first pouring drops for the libation into the cups” (7.183; see [[pontonous]], [[mixing-bowl]] and [[wine]]), the verse of the libations at Chryse, in Agamemnon's hut before the embassy and at Pylos, with the verb in the singular for the one herald (*Iliad* 1.471, 9.176; 3.340). A scholium marks a slight pause after πᾶσιν, “to all” (W. W. Merry, *Commentary on the Odyssey*, 1886, critical note on 7.183).

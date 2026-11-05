@@ -1,0 +1,22 @@
+---
+summary: Odysseus asks the girl who meets him for the house of Alcinous, and Athena brings him to its doors (7.22–29, 7.46–48); he stands and ponders before the bronze threshold while the poem describes the house, its court and its garden, then gazes at everything, steps inside and finds the leaders of the Phaeacians at their last libation (7.82–138). The rest of the book takes place in its hall, and Odysseus sleeps in its colonnade (7.139–347).
+# Forms of this book (they apply in the Odyssey only): "ἀγακλυτὰ δώμαθʼ", the famous house that Nausicaa and then
+# Odysseus reach (7.3, 7.46), "δόμον ἀνέρος" (7.22), and the golden youths and their pedestals (7.100). The refs are
+# Athena's "the house that you bid me show you" (7.28, 7.48), the lines of the description that do not name the house
+# (7.84, 7.86-92, 7.94-111), and his step into it (7.135).
+grc: ["ἀγακλυτὰ δώμαθʼ", "δόμον ἀνέρος", "χρύσειοι δʼ ἄρα κοῦροι", βωμῶν]
+en: [young men, pedestals]
+refs: [7.28, 7.48, 7.84, 7.86-92, 7.94-111, 7.135]
+---
+
+**The way to the house.** Nausicaa reaches “the famous house of her father” first, and her brothers unyoke the mules at its doorway (7.3–6; see [[nausicaa]], [[famous]] and [[wagon]]). Odysseus, coming after her, asks the girl with the water jar, “My child, will you not lead me to the house of the man / Alcinous, who is lord among these people?” (7.22–23), and Athena answers that she will show him “the house that you bid me / show you, since he lives near my noble father” (7.28–29; see [[athena]] and [[alcinous]]). She leads him through the city in a mist to “the famous house of the king” and tells him what he will find inside: the kings feasting, and first the lady of the house (7.46–53; see [[arete-queen-of-the-phaeacians]]).
+
+**At the threshold.** “But Odysseus / went to the glorious house of Alcinous; and his heart pondered much / as he stood there, before he reached the bronze threshold” (7.81–83; see [[threshold]]). As he caught a glimpse from outside of the glories of the palace, W. W. Merry explains, his pace betrayed the wonder of his mind, and he stopped again and again (*Commentary on the Odyssey*, 1886, on 7.83). The description that follows explains the pause with γάρ, “For there was a gleam” (7.84), and runs through the walls, the doors, the dogs, the chairs, the golden youths and the women at work to the orchard, the vineyard and the springs outside the court (7.84–132; see the entry and [[the-garden-of-alcinous]]). Then the poem returns to the man:
+
+{{quote:42e9d918-308d-548f-83d0-d43ead4b62cb}}
+
+The first two verses are those of Hermes at the cave of Calypso, the first with the man's name in place of the god's (5.75–76; see [[calypsos-cave]]): the messenger of the gods and the wanderer stop alike before a dwelling of wonders, and go in when they have gazed their fill.
+
+**Inside.** He finds the leaders and rulers of the Phaeacians pouring libations from their cups to Hermes, “to whom they would pour the last libation, whenever they thought of bed” (7.136–138; see [[hermes]] and [[libation]]), and goes through the house in the mist until he comes to Arete and Alcinous (7.139–141; see [[supplication]]). The rest of the book passes in the hall: the suppliant at the hearth, the feast and the libation to Zeus, Alcinous' speech, and, when the guests have gone “to lie down, each to his own house” and the handmaids have cleared away the feast, the story that Odysseus tells the king and queen (7.153–333; 7.229–232; see [[hearth]] and [[feast]]). At the end the women make him a bed in the colonnade, “and Alcinous lay down in the inner part of the high house” (7.335–347; see [[bed]] and [[house]]).
+
+**The plan.** Merry's notes give the plan of the description: the bronze walls with their coping are the walls of the court, so that the μυχός they run to is the inner end of the court, not of the hall (on 7.86); the description of the house itself begins with ἐν δέ, “within”, at the chairs (7.95), the interior of the men's hall (on 7.95); the youths stand on pedestals, βωμοί, a word for anything one mounts on, here the base of a statue (on 7.100; see the translation's note on 7.100), as the Suda too explains βωμοί as bases (β 493); and the second spring was carried from outside under the entrance of the court, and issued, perhaps in a basin, in the middle of the court, between the entrance and the hall (on 7.130). The garden lies “outside the court, near the doors” (7.112).

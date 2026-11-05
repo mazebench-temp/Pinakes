@@ -21,4 +21,4 @@ passages:
 
 ## Elsewhere in Homer
 
-Hephaestus' own house is “imperishable, starry” and “of bronze” (Iliad 18.369–371), and bronze walls shine in the palace of Alcinous (Odyssey 7.86).
+Hephaestus' own house is “imperishable, starry” and “of bronze” (*Iliad* 18.369–371), and bronze walls shine in the house of Alcinous (*Odyssey* 7.86; see [[the-house-of-alcinous]]).

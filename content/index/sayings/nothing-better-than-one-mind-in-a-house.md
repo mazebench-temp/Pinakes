@@ -20,7 +20,7 @@ passages:
 
 **Grief to enemies, joy to friends.** The accusatives πόλλʼ ἄλγεα, “many sorrows”, and χάρματα, “joy”, stand in apposition to the whole clause, the construction of Hector's reproach to Paris, “a joy to your enemies, and a shame to yourself” (δυσμενέσιν μὲν χάρμα, *Iliad* 3.51; Merry, *Commentary on the Odyssey*, 1886, on 6.184; see [[algos]]). The last words, μάλιστα δέ τʼ ἔκλυον αὐτοί, “and they themselves know it best”, are hard. Merry follows the scholium, “they themselves feel the good of it”, comparing the man in whom Zeus puts a good mind, “and he himself knows it best” (*Iliad* 13.732–734); he rejects Lobeck's “they praise each other and hear themselves praised”, and records Nauck's verdict, *verba vitiosa* (Merry on 6.185; see the translation's note on *Odyssey* 6.185).
 
-**In the poem.** The man who speaks the blessing is on his way home to a wife of his own, whom he has just preferred to a goddess (*Odyssey* 5.215–220; see [[penelope]] and [[husbands-and-wives]]). The Phaeacian king will soon wish him for a son-in-law, “being such as you are, and thinking the thoughts I think” (*Odyssey* 7.311–315, a plain rendering; see [[alcinous]]).
+**In the poem.** The man who speaks the blessing is on his way home to a wife of his own, whom he has just preferred to a goddess (*Odyssey* 5.215–220; see [[penelope]] and [[husbands-and-wives]]). The Phaeacian king will soon wish him for a son-in-law, “being such a man as you are, and thinking as I do” (*Odyssey* 7.311–315; see [[alcinous]]).
 
 ## Outside Homer
 

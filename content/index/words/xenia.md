@@ -26,6 +26,7 @@ The Trojan War is a war about a guest. Paris came to Sparta as Menelaus' guest a
 - [[philotes|φιλότης]] (“friendship”) and φιλέω (“love, entertain”): Antenor “received them as guests and welcomed them” (ἐξείνισσα καὶ … φίλησα, 3.207), and a host is one who “has shown him friendship” (3.354).
 - [[doron|δῶρον]] (“gift”): the gifts that seal the bond.
 - [[supplication]]: the suppliant, like the guest, is under the protection of Zeus.
+- [[pompe|πομπή]] (“escort”): the host's last service, sending the guest on his way.
 
 ## Outside Homer
 

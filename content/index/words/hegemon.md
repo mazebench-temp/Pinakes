@@ -3,7 +3,7 @@ title: Leader
 greek: ἡγεμών, ἀρχός
 kind: term
 tags: [kingship, warfare]
-summary: The Homeric words for the man who leads a body of men: ἡγεμών, “the one who goes before”, and ἀρχός, “commander”. They name a function in the army rather than a rank, and the Catalogue of Ships is built on them.
+summary: The Homeric words for the man who leads a body of men: ἡγεμών, “the one who goes before”, and ἀρχός, “commander”, with ἡγήτωρ, “leader”, and μέδων, “ruler”. In the Iliad they name a function in the army rather than a rank, and the Catalogue of Ships is built on them; in the Odyssey the leaders and rulers of the Phaeacians are the lords of a people at peace.
 aliases: [hegemon, archos, leaders, commander, anarchos, without a leader]
 grc: [ἡγεμόνων, ἡγεμόνες, ἡγεμόνος, ἀρχόν, ἀρχούς, ἀρχός, ἀρχοί, ἄναρχοι, ἡγήτορες, μέδοντες]
 en: [leaders, leader, rulers, without a leader, in command, commander]

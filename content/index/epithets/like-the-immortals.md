@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet]
 summary: “Like the immortals,” phrases that liken a mortal to the gods, above all the line-end ἐπιείκελος ἀθανάτοισιν.
 aliases: [epieikelos athanatoisin]
-grc: [ἐπιείκελον ἀθανάτοισιν, "δέμας ἀθανάτοισιν ὁμοῖος"]
+grc: [ἐπιείκελον ἀθανάτοισιν, "δέμας ἀθανάτοισιν ὁμοῖος", "ἀθανάτοις ἐναλίγκιοι"]
 en: [like the immortals]
 of: [theseus, achilles]
 ---

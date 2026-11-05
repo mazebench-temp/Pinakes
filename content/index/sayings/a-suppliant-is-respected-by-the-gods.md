@@ -3,7 +3,7 @@ title: “Even to the immortal gods he is to be respected”
 greek: αἰδοῖος μέν τʼ ἐστὶ καὶ ἀθανάτοισι θεοῖσιν ἀνδρῶν ὅς τις ἵκηται ἀλώμενος
 kind: saying
 tags: [supplication, prayer]
-summary: Odysseus' plea to the god of the river at whose mouth he seeks to land, after two days and nights in the sea: “Even to the immortal gods he is to be respected, / whoever of men comes as a wanderer”, as he now comes to the river's stream and to its knees. The god stops his stream and brings him safe ashore.
+summary: The rule that a wanderer who comes as a suppliant is owed respect even by the gods. Odysseus pleads it to the god of the river at whose mouth he seeks to land, after two days and nights in the sea, “Even to the immortal gods he is to be respected, / whoever of men comes as a wanderer”, and the god brings him safe ashore; in the Phaeacian palace it becomes a libation to Zeus, “who attends on revered suppliants”.
 aliases: [a suppliant is respected by the gods, the wanderer is to be respected, whoever comes as a wanderer, aidoios men t' esti]
 grc: ["αἰδοῖος μέν τʼ ἐστὶ", "ὅς τις ἵκηται ἀλώμενος"]
 en: [Even to the immortal gods he is to be respected, whoever of men comes as a wanderer]
@@ -19,7 +19,7 @@ passages:
 
 **The answer.** “So he spoke, and at once the god stopped his stream, and held back the wave, / and made a calm before him, and brought him safe / into the river's mouth” (*Odyssey* 5.451–453). Odysseus' knees and strong hands give way, and he lies breathless and speechless; when his spirit is gathered back, he unties the veil and lets it go into the river, which carries it back to Ino (*Odyssey* 5.453–462; see [[leucothea]]).
 
-**Suppliants and strangers.** As the poem moves into the houses of men it repeats the rule there. Nausicaa tells her maids that all strangers and beggars are from Zeus (*Odyssey* 6.207–208); the Phaeacians pour libations to Zeus “who attends upon reverend suppliants” (ὅς θʼ ἱκέτῃσιν ἅμʼ αἰδοίοισιν ὀπηδεῖ, *Odyssey* 7.165, 7.181); and Odysseus bids the Cyclops respect the gods, for he and his men are his suppliants, and Zeus is the avenger of suppliants and strangers (*Odyssey* 9.269–271; see [[xenia]] and [[polyphemus-the-cyclops]]). In the Iliad Zeus sends Priam to Achilles with the assurance that “with great care he will spare a man who comes as a suppliant” (*Iliad* 24.157–158), and Achilles himself warns the old man not to stir his anger, lest he not spare even him, “suppliant though you are, and sin against the commands of Zeus” (*Iliad* 24.569–570).
+**Suppliants and strangers.** As the poem moves into the houses of men it repeats the rule there. Nausicaa tells her maids that all strangers and beggars are from Zeus (*Odyssey* 6.207–208); the Phaeacians pour libations to Zeus “who attends on revered suppliants” (ὅς θʼ ἱκέτῃσιν ἅμʼ αἰδοίοισιν ὀπηδεῖ, *Odyssey* 7.165, 7.181); and Odysseus bids the Cyclops respect the gods, for he and his men are his suppliants, and Zeus is the avenger of suppliants and strangers (*Odyssey* 9.269–271; see [[xenia]] and [[polyphemus-the-cyclops]]). In the Iliad Zeus sends Priam to Achilles with the assurance that “with great care he will spare a man who comes as a suppliant” (*Iliad* 24.157–158), and Achilles himself warns the old man not to stir his anger, lest he not spare even him, “suppliant though you are, and sin against the commands of Zeus” (*Iliad* 24.569–570).
 
 ## Outside Homer
 
