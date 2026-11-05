@@ -2,8 +2,8 @@
 title: Well-wheeled
 greek: ἐΰτροχος
 kind: epithet
-summary: “With good wheels,” an epithet of chariots and wagons: of Zeus' chariot as he drives home from Ida, of the chariots balked at the Achaean ditch, and five times of the mule wagon that carries Priam's ransom and brings Hector home.
-aliases: [eutrochos, with good wheels]
+summary: “Well-wheeled,” ἐΰτροχος, an epithet of chariots and wagons: of Zeus' chariot as he drives home from Ida, of the chariots balked at the Achaean ditch, five times of the mule wagon that carries Priam's ransom and brings Hector home, and in the Odyssey of Nausicaa's mule wagon.
+aliases: [eutrochos]
 grc: [ἐΰτροχον]
 en: [well-wheeled]
 of: [chariot]
@@ -13,7 +13,7 @@ of: [chariot]
 
 ἐΰτροχος = εὖ (“well”) + τροχός (“wheel”): “with good wheels.” A τροχός is the wheel by which a man thrown from his chariot falls (6.42, 23.394) and the potter's wheel of a simile on the shield of Achilles (18.600–601). The wheels of Hera's chariot are described piece by piece in *Iliad* 5 (5.722–726; [[chariot]]).
 
-The epithet is used of a chariot twice in the Iliad: Zeus' chariot here, and the chariot that a horse could not easily draw across the Achaean ditch (12.58). Its other uses are of a wagon, ἄμαξα: the mule wagon on which Priam takes the ransom to Achilles, in Zeus' instructions, in Iris' message and in the preparations (24.150, 24.179, 24.189, 24.266), and to which Andromache and Hecuba rush, tearing their hair, when Hector's body comes back to Troy (24.710–711). In the Odyssey it is Nausicaa's wagon (Od. 6.72).
+The epithet is used of a chariot twice in the Iliad: Zeus' chariot here, and the chariot that a horse could not easily draw across the Achaean ditch (12.58). Its other uses are of a wagon, ἄμαξα: the mule wagon on which Priam takes the ransom to Achilles, in Zeus' instructions, in Iris' message and in the preparations (24.150, 24.179, 24.189, 24.266), and to which Andromache and Hecuba rush, tearing their hair, when Hector's body comes back to Troy (24.710–711). In the Odyssey it is Nausicaa's wagon (Od. 6.72), which is also ἐύκυκλος, rendered “with good wheels” (Od. 6.58, 6.70; [[well-rounded]]); the translation keeps “well-wheeled” for ἐΰτροχος.
 
 ## Use
 

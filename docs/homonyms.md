@@ -1001,6 +1001,42 @@ the Latin Odyssey of Livius Andronicus.
 | ἀγορεῦσαι "making (a speech)" (Od. 5.183) | assembly's `ἀγορ*` | assembly `except: [Od. 5.183]` |
 | κήδεα, κήδεʼ "sorrows" (Od. 5.5, 5.207) | κῆδε "troubled" (Il. 5.400, 11.458), the letters of the elided κήδεʼ | algos: κήδεα and κήδεʼ in its Book 5 note, which applies only to the Odyssey, where κήδεʼ is always "sorrows" (1.244, 4.108 and after) |
 
+### Odyssey, Book 6
+
+Nausicaa's book brings Phaeacian names that meet names of the Iliad and of later writers (Dymas, Hypereia, Nausithous)
+and a queen, Arete, whose name is also a common word; she is not named until Book 7, so her entry takes Book 6 by refs.
+The city of the Phaeacians and Athena's grove are claimed by phrases in Odyssey notes. The other clashes are common
+words of the washing and the city: sails and rags, masts and looms, a palm and a Phoenician, brine in the *Rhetoric*.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ναυσικάα, Ναυσικάαν, Ναυσικάᾳ (Od. 6.17 and often) | Ναυσικράτην, Nausicrates (*Rhetoric* 1416a10) | nausicaa: the exact forms Ναυσικάα (which also takes Ναυσικάᾳ, 6.276) and Ναυσικάαν, in the entry |
+| Ναυσίθοος, the founder (Od. 6.7; 7.56, 7.62, 7.63; 8.565) | Nausithous, son of Odysseus and Calypso (Hesiod, *Theogony* 1017), who has no entry | nausithous: `Ναυσίθο*` in its Odyssey Book 6 note, which applies only to the Odyssey |
+| Δύμαντος, the Phaeacian "famed for ships" (Od. 6.22) | Δύμαντος, father of Asius and Hecuba (Il. 16.718) | dymas-the-phaeacian: Δύμαντος and the English Dymas in its Book 6 note; dymas keeps its Iliad Book 16 note |
+| Ἀρήτη, the queen (named from Od. 7.54) | ἀρετή "excellence" (arete); Ἄρητος (aretus, aretus-son-of-nestor); ἀρητόν "accursed"; ἀρητῆρα "priest" | arete-queen-of-the-phaeacians: refs in Book 6; from Book 7 the exact forms Ἀρήτη, Ἀρήτην, Ἀρήτης, never `Ἀρήτ*`; titled "Arete, queen of the Phaeacians", since [[arete]] is the word |
+| Ὑπερείῃ, the Phaeacians' old home (Od. 6.4) | the Thessalian spring (Ὑπέρειαν Il. 2.734; Ὑπερείης 6.457) | hypereia-of-the-phaeacians: Ὑπερείῃ in the entry, `en: [Hypereia]` in its Book 6 note; hypereia `except: [Od. 6.4]` |
+| Ποσιδήιον, the precinct of Poseidon (Od. 6.266) | Ποσιδήϊον, the adjective, of the grove at Onchestus (Il. 2.506), the same letters | the-city-of-the-phaeacians and poseidon: Ποσιδήιον in their Odyssey Book 6 notes; poseidon's Iliad Book 2 note keeps the Iliad's |
+| Δήλῳ, Delos (Od. 6.162) | δῆλος "clear" (δῆλον, Od. 20.333) | delos: `"^Δήλῳ"`; the-palm-on-delos's phrase "Δήλῳ δή ποτε" claims it too; the *Rhetoric*'s Δαλογενές (1409a14) in the Rhetoric notes of delos and apollo |
+| Ὠγυγίης (Od. 6.172) | ὠγύγιος "primeval" (Hesiod, *Theogony* 806) | ogygia: the genitive in its Book 6 note; Ὠγυγίη (7.244) with Book 7 |
+| Διὸς ἐκγεγαυῖα, Athena (Od. 6.229) | Helen's title everywhere else (Il. 3.199, 3.418; Od. 4.184, 4.219, 23.218) | no entry claims the phrase; if helen ever takes it, it must except Od. 6.229 |
+| Διὸς κούρῃ μεγάλοιο, Artemis (Od. 6.151) and Athena (6.323) | Διὸς κοῦραι μεγάλοιο, the Prayers (Il. 9.502) | daughter-of-zeus: the phrase in its Book 6 note; litai's "κούρας Διὸς" and "Διὸς κούρῃσιν" do not take the singular |
+| φοίνικος, the palm (Od. 6.163) | Φοίνικος, father of Europa (Il. 14.321); φοῖνιξ "purple" (Il. 4.141), "bay" (Il. 23.454); Φοῖνιξ, a Phoenician (Od. 14.288) | palm: `[φοίνικος, "!^Φοίνικος"]` |
+| ἅλμῃ, ἅλμην "brine" (Od. 6.137, 6.219, 6.225; 5.53, 5.322, 23.237) | ἐν ἅλμῃ (*Rhetoric* 1400a12), which sea excepts | sea: the forms in its Odyssey Book 6 note only |
+| αἴθρη "clear sky" (Od. 6.44, 12.75) | Αἴθρη, Helen's handmaid (Il. 3.144); αἰθήρ, Rhianus' reading at 6.44 | sky: αἴθρη in its Book 6 note |
+| ἠιόνας προὐχούσας (Od. 6.138) | Ἠϊόνας, the Argive town (Il. 2.561) | shore: the phrase in its Book 6 note |
+| Od. 6.134 = Il. 12.301 | Sarpedon's lion | the-hungry-lion: `refs: [Od. 6.134]`, no form |
+| χάριν κεφαλῇ τε καὶ ὤμοις (Od. 6.235, 8.19, 23.162) | Athena's grace before the games (8.19) | gold-poured-around-silver: "τῷ κατέχευε χάριν" (6.235); "τῷ περίχευε χάριν" (23.162) to add with Book 23 |
+| μελαινάων of the ships' tackle (Od. 6.268) | μελαινάων ὀδυνάων "black pains" (Il. 4.191, 15.394) | black-ships: the phrase "νηῶν ὅπλα μελαινάων", never the bare word |
+| μήδεα εἰδώς "knowing counsels" (Od. 6.12) | μήδεα "nakedness" (Od. 6.129; 18.67, 18.87, 22.476) | who-knew-counsels: the phrase only |
+| ἀδμής "unwed", of a girl (Od. 6.109, 6.228) | ἀδμής "unbroken", of animals | unbroken: the form in the entry, `en: [unwed]` in its Book 6 note |
+| σπεῖρα, sails (Od. 6.269) | rags (4.245) | sails: σπεῖρα in its Book 6 note, `except: [4.245]` |
+| ἱστοί, masts (Od. 6.271) | ἱστοί, looms (Od. 13.107) | mast: its Book 6 note; except 13.107 with Book 13 |
+| εἵματα, εἵματʼ, clothes (Od. 6 and often) | εἵμαρτο "it was fated" (Il. 21.281) | clothing: exact forms only, never `εἵμα*` |
+| χρυσέῃ, the golden flask (Od. 6.79, 6.215) | χρυσέῃ Ἀφροδίτῃ (8.337, 8.342, 17.37, 19.54) | gold-and-silver: χρυσέῃ in its Book 6 note; `"!χρυσέῃ Ἀφροδίτῃ"` with Book 8 |
+| "ὑγρὸν ἔλαιον", the oil of the bath (Od. 6.79, 6.215) | the oil that drips from the linen (7.107) | bathing: its Book 6 note; except 7.107 with Book 7 |
+| βιός, the bow (Od. 6.270) | βίος "life" (Aristotle) | bow: in its Book 6 note only |
+| φάτις, φάτιν, φῆμιν "talk" (Od. 6.29, 6.273) | φήμη, the word of omen (2.35, 20.100, 20.105); φημί | the-talk-of-the-people: the exact forms, never `φημ*`; φῆμις with Book 14, and 15.468 to decide with Book 15 |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

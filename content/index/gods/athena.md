@@ -36,6 +36,8 @@ Daughter of [[Zeus]]: Διὸς τέκος αἰγιόχοιο, "child of aegis-
 
 Παλλὰς Ἀθήνη: Pallas Athena
 
+She is the goddess of crafts as well as of war. She made her own robe and Hera's (5.734–735, 14.178–179), loved the builder's son Phereclus, who knew how to make every kind of intricate work (5.59–61), and guides the carpenter's skill (15.411–412); in the Odyssey she teaches the craftsman with Hephaestus (*Odyssey* 6.232–234), gives the Phaeacian women their skill at the loom (*Odyssey* 7.110–111), and taught the daughters of Pandareus to make glorious works (*Odyssey* 20.72).
+
 {{notes}}
 
 ## Outside Homer

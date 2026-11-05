@@ -239,6 +239,77 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | φάρεα (for sails) | cloth | φάρεʼ ἔνεικε … ἱστία ποιήσασθαι "brought cloth / to make sails" (5.258–259), where φᾶρος is "mantle" (5.230; 2.97) |
 | γαλήνη, νηνεμίη | calm, windless calm | γαλήνη / ἔπλετο νηνεμίη "a calm, / a windless calm" (5.391–392: see the note on 5.391), ποίησε γαλήνην "made a calm" (5.452); again 7.319, 10.94, 12.168–169 |
 | εὔχομαι εἶναι | claim to be | (5.211, 5.450), as the Iliad (6.211, 9.60) and 1.180 |
+| ἀρημένος (Odyssey) | worn out by | ὕπνῳ καὶ καμάτῳ ἀρημένος "worn out by sleep and weariness" (6.2: Merry on 6.2), as γήραϊ λυγρῷ … ἀρημένος "worn out by grievous old age" (*Iliad* 18.434–435) |
+| ὑπερηνορέων | overweening | Κυκλώπων ἀνδρῶν ὑπερηνορεόντων "the Cyclopes, overweening men" (6.5), as of the suitors (2.324: Merry on 6.5) |
+| ἐδάσσατʼ ἀρούρας | divided the fields | (6.10: "allotted them for cultivation", Merry on 6.10) |
+| μήδεα (θεῶν ἄπο) | counsels | θεῶν ἄπο μήδεα εἰδώς "who knew counsels from the gods" (6.12) |
+| πνοιή (of wind) | breath | ἀνέμου ὡς πνοιή "like a breath of wind" (6.20: Merry on 6.20) |
+| ναυσικλειτός | famed for ships | ναυσικλειτοῖο Δύμαντος "Dymas, famed for ships" (6.22; only here in Homer) |
+| μεθήμων | slack | τί νύ σʼ ὧδε μεθήμονα γείνατο μήτηρ "how did your mother bear you so slack?" (6.25: "such a lazy daughter", Merry on 6.25), as μεθημοσύνη "slackness" (*Iliad* 13.108, 13.121), where the Iliad's μεθήμων is "he lets it pass" (2.241); "careless" is ἀκηδέω (*Iliad* 23.70) |
+| ἀκηδής | uncared for | εἵματα … ἀκηδέα σιγαλόεντα "your glossy clothes lie uncared for" (6.26: Merry on 6.26) |
+| φάτις | talk | φάτις … ἐσθλή "talk … good talk" (6.29–30: see the note), as δήμου φάτιν "the talk of the people" (*Iliad* 9.460) and φῆμις (6.273); "report" is κλέος |
+| συνέριθος | to help | (6.32; "fellow-worker", Merry on 6.32; only here in Homer) |
+| ἀπήνη, ἄμαξα | wagon | ἀπήνην … ὑψηλὴν ἐύκυκλον "the wagon …, / high, with good wheels" (6.57–58, 6.69–70), as ἐϋξέστης ἐπʼ ἀπήνης "the polished wagon" (*Iliad* 24.275; 6.75); ἡμιόνους καὶ ἄμαξαν "the mules and the wagon" (6.37, 6.260), ἄμαξαν ἐύτροχον ἡμιονείην "the well-wheeled mule wagon" (6.72), as *Iliad* 24.150, 24.189; the ἄμαξα is four-wheeled (Merry on 6.37) |
+| πλυνοί | washing troughs | (6.40, 6.86), as *Iliad* 22.153: pools beside the river through which the water passes (Merry on 6.86) |
+| ἕδος ἀσφαλές, αἴθρη, αἴγλη | seat … firm, clear sky, gleam | the seat of the gods (6.42–45: see the note on 6.42–46), αἴθρη "clear sky" as *Iliad* 17.646, αἴγλη as *Iliad* 2.458 "gleam" |
+| πάππας | papa | πάππα φίλʼ "Papa dear" (6.57; the noun only here in Homer, where the Iliad has the verb παππάζω, of children calling their father, 5.408) |
+| ἠλάκατα | yarn | ἠλάκατα στρωφῶσʼ ἁλιπόρφυρα "turning the sea-purple yarn" (6.53, 6.306; again 7.105, 17.97), the wool spun from the ἠλακάτη "distaff" (4.131: Merry on 6.53); the plural only, sharing its English with νῆμα "yarn" (4.134) |
+| κλυτός (of things) | glorious | κλυτὰ εἵματα "glorious clothes" (6.58), as κλυτὰ δώματα "glorious house" (5.381); κλυτὸν ἄλσος "the famous grove" (6.321) |
+| ὑπερτερίη | frame above | ὑπερτερίῃ ἀραρυῖαν "fitted with a frame above" (6.70: see the note) |
+| λήκυθος | flask | χρυσέῃ ἐν ληκύθῳ "in a golden flask" (6.79, 6.215; only here in Homer) |
+| χυτλόομαι | bathe and anoint oneself | (6.80: Merry on 6.80) |
+| ἄμοτον (of running) | without end | αἱ δʼ ἄμοτον τανύοντο "and they strained on without end" (6.83: see the note), as everywhere in the Iliad (19.300, 23.567; ἄμοτον μεμαυῖα "raging without end", 4.440), and τανύοντο "strained" of horses (*Iliad* 16.375) |
+| ἔριδα προφέρω | vie in strife | ἔριδα προφέρουσαι "vying with one another in strife" (6.92); ἔρις "strife", of a match as of war (ἐξ ἔριδος 4.343), as ἔριδα προφέρονται "bring on their … strife" (*Iliad* 3.7) |
+| μολπή | song and dance | τῇσι … ἤρχετο μολπῆς "among them … began the song and dance" (6.101), as τοῖσι … ἤρχετο μύθων "among them … began to speak" (1.367); μολπή, as *Iliad* 1.472 |
+| ἀγρονόμος | who haunt the fields | of the nymphs (6.106: Merry on 6.106) |
+| παρθένος ἀδμής | a maiden unwed | (6.109, 6.228) |
+| ἐυῶπις | fair-faced | ἐυώπιδα κούρην "the fair-faced girl" (6.113, 6.142; only here in Homer) |
+| βασίλεια (of Nausicaa) | princess | (6.115), where βασίλεια is elsewhere "queen", of Penelope (4.697; πολυμνήστη βασίλεια "the much-wooed queen", 4.770); Odysseus calls Nausicaa ἄνασσα "queen" (6.149, 6.175) |
+| ὑβριστής, ἄγριος, φιλόξεινος, θεουδής | arrogant, savage, kind to strangers, that fears the gods | ἦ ῥʼ οἵ γʼ ὑβρισταί τε καὶ ἄγριοι οὐδὲ δίκαιοι, / ἦε φιλόξεινοι καί σφιν νόος ἐστὶ θεουδής "Are they arrogant and savage and unjust, / or kind to strangers, with a mind that fears the gods?" (6.120–121; again 9.175–176, 13.201–202: Merry on 6.121) |
+| μήδεα (φωτός) | nakedness | (6.129: Merry on 6.129; again 18.67, 18.87, 22.476), sharing its English with αἰδώς (*Iliad* 2.262, 22.75) |
+| κακόω | afflict | κεκακωμένος ἅλμῃ "afflicted by the brine" (6.137), as κεκακωμένον "afflicted" (4.754); "disfigure" is αἰσχύνω (*Iliad* 18.180) |
+| ἄνασσα | queen | (6.149, 6.175), as of Athena (3.380) and of Demeter (*Iliad* 14.326: Merry on 6.149) |
+| γουνοῦμαι | implore | γουνοῦμαί σε, ἄνασσα "I implore you, queen" (6.149), as *Iliad* 21.74 |
+| θάλος | scion | τοιόνδε θάλος "such a scion" (6.157), as φίλον θάλος "dear scion" (*Iliad* 22.87) |
+| βρίθω (with ἔεδνα) | prevail | ἐέδνοισι βρίσας "who prevails with his bride-price" (6.159: Merry on 6.159) |
+| φοῖνιξ, ἔρνος | palm tree, sapling | φοίνικος νέον ἔρνος "a young sapling of a palm tree" (6.163; φοῖνιξ the palm only here in Homer), as ἔρνος … ἐλαίης "a sapling of olive" (*Iliad* 17.53), kept apart from θάλος "scion" (6.157) |
+| ἄγαμαι (of wonder) | marvel at | ὡς σέ, γύναι, ἄγαμαί τε τέθηπά τε "as I marvel at you, lady, and am astounded" (6.168), as Priam ἠγάσσατο "marveled at him" (*Iliad* 3.181, 3.224), where the gods' ἄγαμαι is "begrudge" (5.119) |
+| ῥάκος, εἴλυμα | rag, wrapping | (6.178–179: Merry on 6.179) |
+| ὁμοφροσύνη | oneness of mind | (6.181; again 15.198), ὁμοφρονέοντε νοήμασιν "of one mind in their thoughts" (6.183) |
+| ταλαπείριος | much-tried | ἱκέτης ταλαπείριος "a much-tried suppliant" (6.193; again 7.24, 14.511, 17.84, 19.379) |
+| διερός | living | οὐκ ἔσθʼ οὗτος ἀνὴρ διερὸς βροτός "That man does not exist as a living mortal" (6.201: see the note); διερῷ ποδί (9.43) is "with nimble foot" (Merry on 6.201) |
+| δόσις ὀλίγη τε φίλη τε | a gift is small but dear | (6.208; again 14.58), as ὀλίγον τε φίλον τε "something small but dear" (*Iliad* 1.167) |
+| χνόος | scurf | ἁλὸς χνόον "the scurf of the sea" (6.226: Merry on 6.226; only here in Homer) |
+| οὖλος (of hair) | thick | οὔλας … κόμας "the thick hair" (6.231 = 23.158: Merry on 6.231; κόμη "hair" as in the Iliad), where οὖλος of cloth is "woolly" (4.50) |
+| ὑακίνθινος | hyacinth | ὑακινθίνῳ ἄνθει ὁμοίας "like the hyacinth flower" (6.231 = 23.158: Merry on 6.231) |
+| δέατο | seemed | (6.242: Merry on 6.242; only here in Homer) |
+| ἐπίστιον | slip | πᾶσιν γὰρ ἐπίστιόν ἐστιν ἑκάστῳ "for every man has a slip of his own" (6.265: Merry on 6.265; only here in Homer) |
+| Ποσιδήιον | precinct of Poseidon | καλὸν Ποσιδήιον "the fine precinct of Poseidon" (6.266), as Ποσιδήϊον ἀγλαὸν ἄλσος "the splendid grove of Poseidon" at Onchestus (*Iliad* 2.506) |
+| ῥυτὸς λᾶας | hauled stone | ῥυτοῖσιν λάεσσι κατωρυχέεσσι "hauled stones set deep in the earth" (6.267; ῥυτοῖσι λάεσσι again 14.10: Merry on 6.267) |
+| πείσματα | cables | (6.269; again 9.136, 10.96, 10.127) |
+| φῆμις | talk | φῆμιν ἀδευκέα "bitter talk" (6.273), as ὀλέθρῳ ἀδευκέι "a bitter destruction" (4.489) |
+| πολυάρητος | much prayed for | (6.280; again 19.404), as πολύλλιστος "much prayed for" (5.445) |
+| ἀμφάδιος | openly | ἀμφάδιον γάμον ἐλθεῖν "came openly to her marriage" (6.288), as ἀμφαδίην "openly" (*Iliad* 7.196; 5.120) |
+| τέμενος (of a king) | domain | πατρὸς ἐμοῦ τέμενος "my father's domain" (6.293: "the royal park", Merry on 6.293), as *Iliad* 6.194 |
+| οἰνοποτάζω | drink one's wine | (6.309; again 20.262), as *Iliad* 20.84 |
+| ἐπιζαφελῶς | furiously | (6.330), as *Iliad* 9.516 |
+| ὄρσεο | rise | ὄρσεο δὴ νῦν … πόλινδʼ ἴμεν "Rise now … to go to the city" (6.255: Merry on 6.255), as *Iliad* 3.250 (ὄρσεο "Rise"); ὄρσο κέων "Rise and go to bed" (7.342) |
+| ζῶστρα | sashes | (6.38; only here in Homer), kept apart from ζώνη "girdle" (5.231) |
+| τέθηπα | be astounded | ἐτεθήπεα θυμῷ "I was astounded in my heart" (6.166), τέθηπα (6.168; again 23.105, 24.392), kept apart from θαυμάζω "marvel" (6.49) and θαμβέω "be amazed" (1.323); the Iliad's τεθηπότες, of men stunned by fear, is "dazed" (4.243, 21.29) |
+| πτωχός | beggar | ξεῖνοί τε πτωχοί τε "strangers and beggars" (6.208 = 14.58; often in Books 17–18), sharing its English with δέκτης "a beggar" (4.248) |
+| κομέω, κομίζω, ἀλέγω | look after, take care of, take care of | τὸν νῦν χρὴ κομέειν "whom we must look after now" (6.207), as *Iliad* 8.109; κομίσσατο "has taken care of" (6.278), as κομίσαντο (*Iliad* 1.594: Merry on 6.278); ὅπλα … ἀλέγουσι "take care of the tackle" (6.268) |
+| ἀεικέλιος (of looks) | unsightly | (6.242; again 13.402, of Odysseus' disguise, and 9.503, 14.32, 17.357, 24.228; the adverb ἀεικελίως 8.231, 16.109), where the Iliad's one ἀεικέλιος is "unworthy" (14.84) and 4.244 has πληγῇσιν ἀεικελίῃσι "shameful blows" |
+| ἄστυ, πόλις | city | both "city", as in the Iliad and 1–5 (ἄστυ 6.178, 6.194, 6.296; πόλις 6.177, 6.191, 6.195): Merry sees no intended distinction (on 6.177–178), and the Iliad keeps "town" for πόλιν καὶ ἄστυ "your city and your town" (17.144) |
+| μωμεύω | blame | μή τις ὀπίσσω / μωμεύῃ "lest someone hereafter / should blame me" (6.273–274; only here in Homer), as μωμήσονται (*Iliad* 3.412) |
+| ἀγάλλομαι | glory | ᾗσιν ἀγαλλόμενοι "in which they glory" (6.272), as ἀγαλλόμεναι Διὸς οὔρῳ "glorying in the wind of Zeus" (5.176) |
+| ἀποξύνω | taper | ἀποξύνουσιν ἐρετμά "they taper the oars" (6.269: Merry on 6.269) |
+| κεύθω | hide | ὁπότʼ ἄν σε δόμοι κεκύθωσι καὶ αὐλή "when the house and the court have hidden you" (6.303: Merry on 6.303), as *Iliad* 23.244 |
+| τρωχάω | run | ἐὺ μὲν τρώχων "they ran well" (6.318: see the note), as τρωχῶσι of horses (*Iliad* 22.163) |
+| μάστιξ, ἱμάσθλη | whip | μάστιγι φαεινῇ "with the shining whip" (6.316), ἐπέβαλλεν ἱμάσθλην "laid on the whip" (6.320), as *Iliad* 8.43 |
+| θῆλυς | female | θῆλυς ἀυτή "a female cry" (6.122), as *Iliad* 8.7 |
+| ὄλβος | prosperity | Ζεὺς … νέμει ὄλβον "Zeus … deals out prosperity" (6.188: Merry on 6.187), as *Iliad* 16.596, 24.536 |
+| αἰδέομαι (with a person) | respect | αἴδετο … πατροκασίγνητον "she respected her father's brother" (6.329–330), as *Iliad* 1.23; with an infinitive "be ashamed" (6.66, 6.221) |
+| φίλα φρονέω | in friendship | εἴ κέν τοι κείνη γε φίλα φρονέῃσʼ ἐνὶ θυμῷ "If she thinks of you in friendship in her heart" (6.313 = 7.75), as *Iliad* 4.219 |
 
 ## Epithets and formulas of the Odyssey
 
@@ -379,12 +450,30 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ἀλλʼ ὅτε τόσσον ἀπῆν ὅσσον τε γέγωνε βοήσας | But when he was as far away as a man can make himself heard with a shout (5.400; again 9.473) |
 | λεῖος πετράων, καὶ ἐπὶ σκέπας ἦν ἀνέμοιο | smooth, free of rocks, and there was shelter from the wind (5.443; again 7.282) |
 | τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς | Much-enduring brilliant Odysseus saw it and rejoiced (5.486; again 24.504) |
+| ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεύς | So he lay sleeping there, much-enduring brilliant Odysseus (6.1; again 7.344) |
+| θυγάτηρ μεγαλήτορος Ἀλκινόοιο | the daughter of great-hearted Alcinous (6.17, 6.196, 6.213), as *Iliad* 6.395 |
+| τῇ μιν ἐεισαμένη προσέφη γλαυκῶπις Ἀθήνη | In her likeness gray-eyed Athena spoke to her (6.24), as *Iliad* 3.389 |
+| Ἠὼς … ἐύθρονος | Dawn of the fair throne (6.48), as *Iliad* 8.565 |
+| Ναυσικάα λευκώλενος | white-armed Nausicaa (6.101, 6.186, 6.251); τὸν δʼ αὖ Ναυσικάα λευκώλενος ἀντίον ηὔδα "And white-armed Nausicaa answered him face to face" (6.186) |
+| ἀπήνην / ὑψηλὴν ἐύκυκλον | the wagon, / high, with good wheels (6.57–58, 6.69–70); ἐύκυκλος of the shield is "well-rounded" (*Iliad* 5.453) |
+| χρυσέῃ ἐν ληκύθῳ ὑγρὸν ἔλαιον | liquid olive oil in a golden flask (6.79, 6.215) |
+| βρῶσίν τε πόσιν τε | food and drink (6.209, 6.246, 6.248), as 1.191 |
+| ἐπέεσσιν ἀποσταδὰ μειλιχίοισι | with soothing words, standing apart (6.143, 6.146) |
+| κούρῃσιν (ἀμφιπόλοισιν) ἐυπλοκάμοισι | girls (handmaids) of the lovely tresses (6.135, 6.222; 6.198, 6.238) |
+| ὤ μοι ἐγώ, τέων αὖτε βροτῶν ἐς γαῖαν ἱκάνω; … | Ah me, to the land of what mortals have I come this time? / Are they arrogant and savage and unjust, / or kind to strangers, with a mind that fears the gods? (6.119–121; again 13.200–202; 6.120–121 = 9.175–176) |
+| ἐλπωρή τοι ἔπειτα φίλους τʼ ἰδέειν καὶ ἱκέσθαι / οἶκον ἐυκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν | then there is hope that you will see your friends and reach / your well-built house and your native land (6.314–315; again 7.76–77, with οἶκον ἐς ὑψόροφον), after 4.475–476 |
+| ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν | and spoke to him, and called him by name (6.254), as 4.610, 5.181 |
+| τὸν μὲν Ἀθηναίη θῆκεν Διὸς ἐκγεγαυῖα … | Athena's grace on Odysseus, "Athena, child of Zeus, made him / taller to look upon and stouter, and down from his head / she made the thick hair fall, like the hyacinth flower. / And as when a man pours gold around silver …" (6.229–235; 6.230–234 = 23.157–161, where Athena's grace is poured on Odysseus after his bath at home, 23.156, 23.162) |
+| πολέες τε καὶ ἐσθλοί | many and noble (6.284, of suitors), where the Iliad's warriors are "many and brave" (6.452, 24.167) |
+| ἀλλʼ ἐλέαιρε, ἄνασσα | But pity me, queen (6.175), as ἀλλʼ ἐλέαιρε, ἄναξ "But pity me, lord" (5.450) |
+| κλυτὸς ἐννοσίγαιος | the famous shaker of the earth (6.326), as 5.423 |
+| ἀλλὰ μάλʼ ὧδʼ ἔρδειν, δοκέεις δέ μοι οὐκ ἀπινύσσειν | But do just this, for you do not seem to me to be senseless (6.258), as 5.342 |
 
 ## Places where the Greek is disputed
 
 Merry is cited from W. W. Merry, J. Riddell and D. B. Monro, *Commentary on the Odyssey* (1886), as
 digitized by Perseus (1.1–2.66 and Book 3) and as scanned from the Clarendon Press volume at the
-Internet Archive (2.67–434, Books 4 and 5, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
+Internet Archive (2.67–434, Books 4–6, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
 is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 
 - **1.1** — πολύτροπον "of many turns": Merry (on 1.1) glosses "of many devices" (*versutus*), a word found again only at 10.330, with many equivalents (πολύμητις, πολύφρων, πολυμήχανος, ποικιλόμητις); Nitzsch took it as πολύπλαγκτος, with ὃς μάλα πολλὰ πλάγχθη as its explanation. The English keeps both the turns of the mind and the wanderings. Livius Andronicus rendered the line "Virum mihi, Camena, insece versutum" (Merry on 1.1).
@@ -694,3 +783,69 @@ is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 - **5.476–477** — ἐν περιφαινομένῳ "in a place open to view", a clearing; ἐξ ὁμόθεν "from the same spot", or "from the same root" (Merry on 5.476–477); the scholia report γεγαῶτας in the commentaries for πεφυῶτας, which Merry takes for a correction by Aristarchus (his critical note).
 - **5.488–491** — the brand in the ashes: a man so lonely that he has no neighbor to give him a light keeps a brand buried in the ashes, as Odysseus keeps his spark of life under the leaves (Merry on 5.488).
 - **5.492–493** — ὕπνος is the subject of παύσειε, as the masculine ἀμφικαλύψας shows (Merry on 5.492).
+- **6.2** — ἀρημένος: Eustathius knew ἁρημένος with the rough breathing, and a few manuscripts give βεβαρημένος (Merry's critical note). The derivation is uncertain; unless ὕπνῳ can mean "sleepiness", Merry takes ὕπνῳ καὶ καμάτῳ as a syllepsis, or as one idea in two words, "oppressed with the sleep that weariness brings" (Merry on 6.2).
+- **6.4** — εὐρυχόρῳ "with its wide dancing floors": Eustathius explains the word in Homer as a place "where there is room to dance", and in later writers as merely "spacious" (Merry on 6.4).
+- **6.8** — δὲ Σχερίῃ is Aristarchus' reading; others read δʼ ἐν Σχερίῃ, and Apollonius ἐς Σχερίην (Merry's critical note).
+- **6.27–28** — τὰ δέ answers καλὰ μέν, as if καλὰ δέ had been written: "thou thyself must don fine clothes, and give other garments to those who are going to take thee to their home" (Merry on 6.27).
+- **6.29** — φάτις "talk", as φῆμις (6.273); "report" is κλέος. Callistratus read χάρις, "pleasure" at the sight, and said that Aristophanes altered it to φάτις (the scholia, in Merry's critical note). ἐκ τούτων is "from such sumptuous style" (Merry on 6.29).
+- **6.35** — ὅθι τοι γένος ἐστὶ καὶ αὐτῇ: with ἐστί, "where you have your own family ties"; ὅθι takes up δῆμον rather than ἀριστῆες, so that Athena reminds Nausicaa that her suitors are the noblest men of her own people (Merry on 6.35).
+- **6.42–46** — ὅθι φασί "where, they say", in what seems the statement of a belief all share: the scholia hold the words fitting if Olympus is the mountain, not if it is the sky. Köchly took the phrase as proof that the whole passage was inserted later; Merry thinks that needlessly strong: the verses may be suspected, since the context needs no description of Olympus, but the picture agrees with Homer's Olympus elsewhere (Merry on 6.42). Rhianus read αἰθήρ for αἴθρη (6.44) and τῇ ἔνι for τῷ ἔνι (6.46), referring it to the gleam (Merry's critical notes).
+- **6.50** — διά: some read κατά (Merry's critical note).
+- **6.57** — οὐκ ἂν δή μοι ἐφοπλίσσειας: "a tentative, beseeching form of question", "Could you not get me ready?" (Merry on 6.57). Rhianus read ἐφοπλίσσειαν, of the slaves (Merry's critical note).
+- **6.60–61** — The manuscripts divide between ἐόντα, ἔχοντα and ἐόντι, ἔχοντι; Nauck preferred the datives; the text prints the accusatives (Merry's note on 6.60).
+- **6.61** — χροΐ: the digitized text prints the acute before a word, where the same phrase has καθαρὰ χροῒ εἵμαθʼ (4.750, 4.759) and this book περὶ χροῒ (6.129): a slip, left in the text.
+- **6.70** — ὑπερτερίῃ ἀραρυῖαν "fitted with a frame above": the scholia take ὑπερτερίη as a box for baggage, like the πεῖρινς, the wicker body fixed on Priam's wagon (*Iliad* 24.190, 24.267; 15.131); others as a movable hood or awning against sun and rain, which the participle ἀραρυῖαν makes the likelier to Merry (on 6.70). The English keeps the general sense, "upper works".
+- **6.74–75** — φέρεν, κατέθηκεν: Aristophanes read φέρον and κατέθηκαν, making the slaves the subject (Merry's critical note).
+- **6.80** — χυτλώσαιτο: χύτλον is anything poured, and technically a mixture of oil and water used by bathers, so the verb covers both the bathing and the anointing of 6.96 (Merry on 6.80).
+- **6.83** — ἄμοτον "without end", as everywhere in the Iliad (19.300, 23.567), and τανύοντο "strained", of draft animals (*Iliad* 16.375). Aristarchus derived the word from ἀ- and μοτός "lint", "with unstaunched flow"; Merry glosses "without flagging", and the pace was steady rather than fast, since the handmaids followed on foot (Merry on 6.83).
+- **6.87** — ὑπεκπρόρεεν: the manuscripts read the present ὑπεκπρορέει, which seems contrary to Homeric usage; Friedlander and Nauck would read the imperfect, which the text prints (Merry's critical note).
+- **6.95** — ἀποπλύνεσκε: a variant ἀποπτύεσκε, with the scholium's gloss "cast up", would make the sea throw up the line of shingle; Nitzsch joins ποτὶ χέρσον with θάλασσα, "where the sea, beating on the shore, scoured the pebbles clean" (Merry on 6.95), and the English follows him.
+- **6.100** — σφαίρῃ ταὶ δʼ ἄρʼ ἔπαιζον, with δέ in the third place of the verse, is the reading of all the copies of Aristarchus' recension (the scholia, in Merry's critical note).
+- **6.102** — κατʼ οὔρεα "over the mountains": Merry's text prints κατʼ οὔρεος, and a scholium records οὔρεα as the better reading, which the text here prints (Merry's critical note).
+- **6.102–109** — Virgil turned the simile to Dido (*Aeneid* 1.498–504), and Valerius Probus, as Gellius reports, judged no passage of Homer less happily rendered: Nausicaa at play among her friends in a lonely place is rightly likened to Diana hunting on the mountains among the nymphs, but Dido walking through her city among the Tyrian lords is not (Merry on 6.102, quoting Gellius, *Attic Nights* 9.9).
+- **6.106** — ἀγρονόμοι "who haunt the fields": some accented the word on the antepenult, and Megaclides read ἀγρόμεναι παίζουσιν ἀνὰ δρία παιπαλόεντα (the scholia, in Merry's critical note and on 6.106).
+- **6.107** — ὑπὲρ … κάρη ἔχει: "lifts her head above all", or "overtops them by head and shoulders" (Merry on 6.107).
+- **6.110–111** — ζεύξασʼ … πτύξασα describe the going home she now has in mind, "she now thought of packing up and going home"; the preparations themselves are not begun until 6.252–253 (Merry on 6.110).
+- **6.115** — On the game, Eustathius guessed at a kind of ball play in which the thrower feints toward one player and throws to another, and recalled that Sophocles wrote a satyr play, the *Washerwomen* (Πλύντριαι), in which he himself played Nausicaa (Eustathius, as Merry reports him on 6.115).
+- **6.116** — ἔμβαλε: restored by Wolf from Eustathius and the Harleian scholia; others read ἔμπεσε, which Nitzsch thinks the original, altered lest anyone imagine that Nausicaa fell into the water (Merry's critical note). Nausicaa is the subject of both ἅμαρτε and ἔμβαλε (Merry on 6.116).
+- **6.122–125** — ὥς τε goes with κουράων, "as it were the voice of girls", and κουράων is defined by νυμφάων (Merry on 6.122). The verses 6.123–124, accepted by the scholia, are suspected or rejected by many modern editors: Nitzsch notes that 6.124 is *Iliad* 20.9 (and the *Homeric Hymn to Aphrodite* 99), and that a cry of nymphs would hardly suggest that mortals lived near (Merry on 6.122). ἦ νύ που (6.125) is a question, "Am I perhaps"; the scholiast, who thought the loneliness of the place suggested nymphs, wrote the disjunctive ἤ, "or", for the other possibility (Merry on 6.122). Editors end 6.125 with a full stop or with a question mark; the text prints the question (Merry's critical note).
+- **6.144** — Athenocles, a pupil of Aristarchus, suspected the verse, for the repeated λίσσοιτο and because the only question is whether to clasp her knees or speak from a distance (the scholia, in Merry's critical note).
+- **6.149** — θεός νύ τις, ἦ βροτός ἐσσι: Ptolemy of Ascalon wrote ἦ with the circumflex, as a question, which the scholium thinks the more graceful; others took it as "whether a god or a mortal" (Merry's critical note). The text and the English give the question.
+- **6.156** — ἐυφροσύνῃσιν: a reading ἐν εὐφροσύνῃσιν is rejected by the scholia, since Homer never divides the word (Merry's critical note).
+- **6.160** — τοιοῦτον ἴδον: Bekker printed τοῖον Ϝεῖδον, La Roche, after Grashof, τοιόνδε ἴδον, and Nauck τοιοῦτον ἐγὼ ἴδον (Merry's critical note).
+- **6.162–163** — The visit to Delos would belong to the voyage from Aulis to Troy through the Cyclades (Merry on 6.162). The scholia refer the palm to the first palm, by which Leto gave birth (*Hecuba* 458, as Merry cites it). Cicero's Quintus, in *On the Laws*, sets beside the oak of Marius' poem the olive on the Acropolis and "the same tall and slender palm that Homer's Ulysses said he saw at Delos", things that last longer in remembrance than in nature (*On the Laws* 1.2); Merry reads him as saying that the palm was still shown.
+- **6.165** — μέλλεν is the reading of most manuscripts; a scholium preserves Aristonicus' remark that the poet does not know the form, which is of later Attic writers, a remark that makes sense only if it was made of ἤμελλεν (Merry's critical note).
+- **6.166–168** — ὣς δʼ αὔτως (6.166) is answered by ὡς σέ (6.168): the comparison begins "at the wrong end", "tantum, illud conspicatus, obstupui quantum te iam nunc admiror" (Merry on 6.166).
+- **6.167** — ἀνήλυθεν ἐκ δόρυ γαίης: the preposition stands apart from its noun, a licence unusual in Homer (Merry on 6.167, comparing 9.535, 11.115).
+- **6.172** — κάββαλε: the Harleian and other manuscripts read κάμβαλε, which Bekker, La Roche and Ameis adopt (Merry's critical note). Merry renders "cast me ashore" (on 6.172).
+- **6.174** — πάροιθεν "before that", before the respite comes; the scholium's "hereafter" cannot be right, since Homer says ὄπιθεν or ὀπίσσω for that (Merry on 6.174).
+- **6.179** — εἴλυμα σπείρων "some wrapping for the clothes": a wrapper of coarse cloth in which the washing was packed, so that his request is a modest one (Merry on 6.179, after the scholia).
+- **6.185** — μάλιστα δέ τʼ ἔκλυον αὐτοί "and they themselves know it best": Merry follows the scholium, "they themselves feel the good of it", comparing μάλιστα δὲ καὐτὸς ἀνέγνω (*Iliad* 13.734), and rejects Lobeck's "they praise each other and hear themselves praised"; but he calls the expression very strange, and records Nauck's judgment, *verba vitiosa* (Merry on 6.185). The English follows *Iliad* 13.734.
+- **6.187–193** — The sentence begun by ἐπεί (6.187) is resumed at 6.191 after the parenthesis 6.188–190 on Zeus' arbitrary gifts (Merry on 6.187, 6.188).
+- **6.193** — ταλαπείριος "much-tried": Aristarchus took it as ταλαίπωρος, "wretched", others as a stranger "come from afar" (the scholia on 7.24, as Merry quotes them); Merry refers both ταλαίπωρος and ταλαπείριος to a root περ- (on 6.193). One manuscript reads ἀντιάσασθαι (Merry's critical note); with ὧν ἐπέοιχʼ the sense "not to lack" is carried over from 6.192, "which a much-tried suppliant should not lack when he has come our way" (Merry on 6.193).
+- **6.201** — διερὸς βροτός: Aristarchus explained διερός as "living"; Callistratus wrote δυερός, "wretched" (the scholia, in Merry's critical note). Merry renders "That man exists not as a living mortal, nor ever will be born, who shall come as a foeman to the Phaeacians' land", with οὗτος not pointing at Odysseus (on 6.201, 6.206); the English follows him.
+- **6.204** — ἐνὶ πόντῳ does not show that Scheria is an island, only that the Phaeacians lived far across the sea (Merry on 6.204).
+- **6.208** — δόσις δʼ ὀλίγη τε φίλη τε "a gift is small but dear": small to the giver, dear to the receiver, as the scholium explains (Merry on 6.208).
+- **6.212** — Ὀδυσσῆʼ: others read Ὀδυσσέα (Merry's critical note).
+- **6.222** — μετελθών: Eustathius reads ἐπελθών (Merry's critical note).
+- **6.231** — The hyacinth is compared for the clustering curls, not the color: the Greeks thought the hyacinth dark, and Odysseus' hair is ξανθαί, "auburn", at 13.399 (Merry on 6.231–232).
+- **6.239** — κλῦτέ μευ is a scholium's reading; the manuscripts have κλῦτέ μοι (Merry's critical note).
+- **6.244–245** — Aristarchus athetized both verses, hesitating over the first, since Alcman imitated it, bringing in maidens who say "Father Zeus, would that he were my husband" (the scholia, in Merry's critical note). Plutarch blamed the girl's boldness; Ephorus, as a scholium reports, praised the words as from a soul well made for virtue, while the scholiast saw in them the luxury of the Phaeacians; Merry sides with Ephorus (on 6.244).
+- **6.262** — αὐτὰρ ἐπήν …: the clause has no main clause unless it is sought at 6.295, where Nausicaa's directions resume; the form of the sentence is forgotten as the description of the city lengthens (Merry on 6.262), and the English leaves it unfinished. πόλιος ἐπιβήομεν "set foot in the city", as *Iliad* 16.396. ἐπιβήομεν is the scholia's reading; most manuscripts have ἐπιβείομεν, which La Roche supports and Merry prints, though he thinks ἐπιβήομεν the right form (Merry's critical note and note on 6.262).
+- **6.262–265** — A harbor on either side and a narrow way in: the town stands on a peninsula joined to the land by a narrow neck, as Tyre was joined to the mainland by its causeway (Merry on 6.263); Aristophanes read εἰσίσθμη, after ἰσθμός (the scholia, in Merry's critical note on 6.264). νῆες ὁδὸν … εἰρύαται is "are drawn up along the road", not "guard the road", for guard ships seem un-Homeric (Merry on 6.264).
+- **6.267** — ῥυτοῖσιν λάεσσι: "hauled" stones, too big to carry, as in the wall of Eumaeus' yard (14.10); they formed a low wall round the place of assembly, and perhaps its seats (8.5–6), not a pavement (Merry on 6.267).
+- **6.269** — For σπεῖρα Eustathius gives a variant σπείρας, warping cables; for ἀποξύνουσιν he mentions another reading, which Buttmann, Bekker and Dindorf adopt, though, as La Roche says, it has no manuscript authority (Merry's critical note; the variant's spelling is not legible in the scan).
+- **6.275–288** — The scholia report that the fourteen verses from 6.275 to "mingled with men" (6.288) were athetized as unfitting to the speaker (Merry's critical note). Merry reads 6.282–284 as bitter sarcasm: it is better so, since nothing in Phaeacia was good enough for her (on 6.282).
+- **6.280** — ἤ τίς οἱ: the manuscripts give no variant, but it is doubtful whether τις can stay short before οἱ; Bekker reads ἠέ τις, others ἤ τί οἱ or ἠέ οἱ (Merry's critical note).
+- **6.281** — ἕξει δέ μιν: the subject is still the god, "he will have her to wife for evermore", as ἔχεις Ἑλένην (4.569); in ἤματα πάντα Merry suspects an ironical glance at the gods' proverbial inconstancy toward their mortal loves (Merry on 6.281).
+- **6.282** — καὐτή: Wolf changed the common reading εἴ κʼ to εἰ κʼ, but καὐτή is an admissible crasis (compare 3.258) (Merry's critical note).
+- **6.287** — ἀέκητι φίλων πατρὸς καὶ μητρὸς ἐόντων: on the hint of a scholium that marks a short pause after φίλων, the parents are the friends, "in despite of her friends, father and mother, still alive" (Merry on 6.287). For ἥ τʼ a scholium records Aristarchus' ἠδʼ (Merry's critical note).
+- **6.289** — ὦκʼ: Aristarchus' reading, probably on the analogy of νῦν δʼ ἐμέθεν ξύνες ὦκα (*Iliad* 2.26), which the text prints; Merry prints ὧδʼ (Merry's critical note).
+- **6.293** — τέμενος "domain", "the royal park": the memory of it was kept in Corcyra in the Peloponnesian War, when stakes were cut from the precincts of Zeus and of Alcinous (Thucydides 3.70, as Merry cites it, on 6.293).
+- **6.301–303** — οἷος δόμος Ἀλκινόοιο / ἥρωος is an awkward explanation of ἐοικότα τοῖσι (Merry on 6.301), and ἥρωος is scanned as a dactyl (Merry on 6.303).
+- **6.307–309** — κίονι κεκλιμένη: Arete is seated, with her chair against the pillar, and the king's seat leans close to hers (αὐτῇ, "against her seat"), nearer the door (Merry on 6.307–308); a scholium reads αὐγῇ (Merry's critical note).
+- **6.313–315** — The verses are wanting in several manuscripts and are found only in the margin of the Harleian; modern editors generally reject them as adding nothing new, and their place is 7.75–77 (Merry's critical note).
+- **6.318** — τρώχων "ran", as τρωχῶσι of horses (*Iliad* 22.163): Callistratus read τρεχέτην (the scholia, in Merry's critical note). Eustathius contrasted the two verbs, a brisk pace and a walk, "And well they trotted, and well they walked"; Merry finds no different pace in them, taking πλίσσοντο as an explanation of τρώχων, "they sped on with prancing feet" (Merry on 6.318).
+- **6.319–320** — "she drove just so that they might keep up on foot, … and she laid on the lash with judgment" (Merry on 6.319); νόῳ alone, without a preposition, is unusual (Merry on 6.320).
+- **6.327** — The verse is quoted in the *Rhetoric* for the two things a speaker must aim at, to be liked and to be pitied (*Rhetoric* 1415b26–27).
+- **6.329–331** — Athena does not yet show herself, and throws off this reserve only when Odysseus has landed in Ithaca, beyond Poseidon's power: it was the custom of the gods not to oppose one another openly (Merry on 6.330), as Artemis tells Theseus, "this is the custom among the gods: none of us will set himself against the eager will of another, but we always stand aside" (Euripides, *Hippolytus* 1328–1330).

@@ -5,7 +5,7 @@ kind: epithet
 tags: [woman]
 summary: “With fine robes,” an epithet of women, above all in the phrase “the well-robed Achaean women.”
 aliases: [eupeplos, fair-robed]
-grc: [ἐϋπέπλων]
+grc: [ἐϋπέπλων, ἐύπεπλον]
 en: [well-robed]
 ---
 

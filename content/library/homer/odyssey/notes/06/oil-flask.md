@@ -1,0 +1,5 @@
+---
+summary: Nausicaa's mother gives her olive oil in a golden flask for the washing day, and the handmaids give the same flask to Odysseus for his bath in the river (6.79–80, 6.215).
+---
+
+The flask goes with the food and the wine in the box: “And she gave her liquid olive oil in a golden flask, / so that she might bathe and anoint herself, with her handmaids” (6.79–80; see [[provisions]] and [[bathing]]). χυτλώσαιτο covers both the bathing and the anointing, since χύτλον, “anything poured”, was the mixture of oil and water that bathers used (W. W. Merry, *Commentary on the Odyssey*, 1886, on 6.80; see the translation's note on 6.80). The girls anoint themselves “richly with olive oil” when they have bathed (6.96). When Nausicaa has bidden her handmaids bathe the stranger, they set a mantle and a tunic beside him “and gave him liquid olive oil in a golden flask” (6.214–215; see [[cloak]] and [[tunic]]), and he anoints himself apart from them (6.219–220, 6.227). The verse of the flask is said by the narrator both times (see the translation's row χρυσέῃ ἐν ληκύθῳ ὑγρὸν ἔλαιον and [[gold-and-silver]]).

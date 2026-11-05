@@ -1,0 +1,5 @@
+---
+summary: The Phaeacians' city has “a fine harbor on either side”, with a narrow way in between them, and the ships are drawn up along the road (6.263–265).
+---
+
+The land that had no harbor where Odysseus swam ashore has two at its city (5.404; see [[scheria]]). Nausicaa names them next after the city's rampart: “and there is a fine harbor on either side of the city, / and the way in is narrow” (6.263–264; see [[the-city-of-the-phaeacians]] and [[nausicaa]]). Merry takes the words to describe a town on a peninsula, joined to the mainland by a narrow neck with a harbor on each side of it, as Tyre had its Sidonian harbor to the north of its causeway and its Egyptian harbor to the south (Merry, *Commentary on the Odyssey*, 1886, on 6.263). Two harbors were features of the island of Asteris too, λιμένες … ἀμφίδυμοι, “with an entrance on either side” (4.846–847; Merry on 6.263; see [[asteris]]). The ships themselves are drawn up along the road, each on its own slip (6.264–265; see [[ships]]). When Odysseus walks through the city in the next book he marvels at the harbors first of all (7.43).

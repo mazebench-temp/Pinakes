@@ -1,0 +1,6 @@
+---
+summary: For the day at the river Nausicaa's mother packs food of every kind and meats in a box and pours wine into a goatskin, and gives her olive oil in a golden flask (6.76–80).
+refs: [6.78]
+---
+
+When the slaves have made ready the wagon and the clothing is on it, “her mother put in a box food to satisfy the heart, / of every kind, and put in meats, and poured wine / in a goatskin; and the girl mounted the wagon” (6.76–78; see [[wagon]] and [[wine]]), and gave her oil for the bath in a golden flask (6.79–80; see [[oil-flask]]). κίστη, “box”, is found only here in Homer; the Suda glosses it as a vessel in which food or clothes are kept (κ 1679). The day's outing is stocked like a journey. When Telemachus sets out from Pylos, the housekeeper puts bread and wine in his chariot, “and meats, such as kings whom Zeus has nurtured eat” (3.479–480; see the Book 3 note), and Calypso puts on the raft “many meats to satisfy his heart” (5.267; see the Book 5 note). ὄψα, W. W. Merry notes, is flesh-meat, properly what is cooked (*Commentary on the Odyssey*, 1886, on 3.480), and μενοεικής, “to satisfy the heart” (6.76), is the word of Calypso's promise of bread and water and wine “to satisfy your heart” (5.165–166). The girls eat it by the river while the clothes dry (6.97–99; see [[feast]] and [[washing-troughs]]).

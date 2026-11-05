@@ -1,0 +1,7 @@
+---
+summary: Nausicaa's mother sits at the hearth among her handmaids, turning the sea-purple yarn, when the girl comes to her parents at dawn (6.52–53), and Nausicaa describes her so to Odysseus, at the hearth in the light of the fire, a wonder to see (6.305–307).
+---
+
+**The queen at her spinning.** In the dream Athena had taunted the girl, “how did your mother bear you so slack?” (6.25), and W. W. Merry hears in the words a contrast between the thrifty housewifery of the queen and the idleness of the princess (*Commentary on the Odyssey*, 1886, on 6.25). At dawn Nausicaa finds her mother at work: “Her mother was sitting at the hearth with her handmaids, / turning the sea-purple yarn” (6.52–53; see [[hearth]], [[handmaids]] and [[arete-queen-of-the-phaeacians]]). The same words describe her at the end of Nausicaa's directions, “turning the sea-purple yarn, a wonder to see, / leaning against a pillar” (6.306–307; see [[house]]).
+
+**The yarn.** ἠλάκατα is the yarn spun off from the ἠλακάτη, the distaff, and has no singular; Merry compares the change of meaning between μῆρος, “thigh”, and μηρία, “thigh-pieces” (on 6.53; see the translation's row ἠλάκατα). στρωφῶσα, “turning”, is the twisting of the thread, the work of the queen and her women, as it is of the fifty slave women of the house in the next book, some of whom weave at the looms and turn the yarn, sitting (7.103–106, a plain rendering; see [[weaving]] and [[loom]]). Helen's wool was “violet-dark” (4.135); Arete's is sea-purple (see [[purple]]).

@@ -1,0 +1,179 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 14,
+      "title": "Athena Goes to the Phaeacians",
+      "summary": "While Odysseus sleeps, worn out, Athena goes to the city of the Phaeacians. They once lived in Hypereia, near the overweening Cyclopes, who plundered them, until godlike Nausithous led them away to Scheria, far from other men, walled the city, built houses and temples and divided the fields. Nausithous is dead, and Alcinous rules; to his house the goddess goes, planning Odysseus' homecoming."
+    },
+    {
+      "from": 15,
+      "to": 47,
+      "title": "The Dream of Nausicaa",
+      "summary": "In an intricately worked chamber sleeps Nausicaa, daughter of Alcinous, like the immortals in stature and looks, with two handmaids by the doors. Athena comes like a breath of wind to her bed in the likeness of her friend, the daughter of Dymas, and scolds her: her fine clothes lie unwashed, though her marriage is near and the best of the Phaeacians are wooing her; at dawn she should ask her father for the mules and the wagon and go to wash them at the washing troughs, far from the city. Then Athena goes back to Olympus, the seat of the gods, which no wind shakes, no rain wets and no snow comes near, where the clear air spreads cloudless and the blessed gods take their delight all their days."
+    },
+    {
+      "from": 48,
+      "to": 84,
+      "title": "Nausicaa and Her Father",
+      "summary": "At dawn Nausicaa goes through the house to tell her parents the dream. Her mother sits at the hearth spinning sea-purple yarn; her father she meets at the door on his way to the council. She asks him for the high wagon to take the clothes to the river, for a man among the foremost should sit in council in clean clothes, and her five brothers want fresh clothes for the dance: of her marriage she is ashamed to speak, but he understands. The slaves make ready the mule wagon; her mother packs food and wine and gives her olive oil in a golden flask, and Nausicaa drives off with her handmaids."
+    },
+    {
+      "from": 85,
+      "to": 109,
+      "title": "The Washing at the River",
+      "summary": "At the river's unfailing washing troughs they turn the mules loose to graze, tread the clothes in the pits, vying with one another, and spread them on the shore where the sea scours the pebbles clean. They bathe, anoint themselves, eat beside the river while the clothes dry, and then throw off their veils and play at ball, with Nausicaa leading the song and dance; she stands out among her handmaids as Artemis, ranging over Taygetus or Erymanthus among her nymphs, stands taller than them all, to her mother Leto's delight."
+    },
+    {
+      "from": 110,
+      "to": 148,
+      "title": "Odysseus Wakes",
+      "summary": "As they make ready to go home, Athena contrives that Odysseus should wake: the princess throws the ball, it falls into a deep eddy, and the girls shout aloud. Odysseus wakes and wonders what people he has come among, savage or kind to strangers, and whether the cry is of nymphs or of mortal girls. He breaks off a leafy branch to cover himself and comes out like a mountain lion driven by hunger, rained upon and windblown; the maids, seeing him caked with brine, scatter along the shore, but Nausicaa, given courage by Athena, stands her ground. He decides to speak to her from a distance rather than clasp her knees."
+    },
+    {
+      "from": 149,
+      "to": 185,
+      "title": "The Supplication of Odysseus",
+      "summary": "Odysseus asks whether she is a goddess, and likens her to Artemis; if she is mortal, three times blessed are her parents and brothers, and most blessed the man who will win her with his gifts. He has seen nothing like her since the young palm by Apollo's altar on Delos. Cast ashore after twenty days at sea from Ogygia, he begs her to pity him, show him the town and give him a rag to wear, and prays the gods to give her a husband, a home, and oneness of mind, than which nothing is better: grief to enemies, joy to friends."
+    },
+    {
+      "from": 186,
+      "to": 210,
+      "title": "Nausicaa's Answer",
+      "summary": "Nausicaa answers that Zeus gives good and ill to men as he wishes, and he must bear it; but now he shall not lack clothing or anything a suppliant should have. She tells him he has come to the Phaeacians, and that she is the daughter of Alcinous. She calls back her handmaids: the Phaeacians are dear to the gods and live far apart in the sea, and no enemy comes to them; this is an unhappy wanderer, and strangers and beggars are from Zeus. They are to feed him and bathe him in the river."
+    },
+    {
+      "from": 211,
+      "to": 250,
+      "title": "The Bath of Odysseus",
+      "summary": "The handmaids set clothes and oil beside him; he asks them to stand apart, for he is ashamed to bathe before them, and washes the brine from his back and shoulders and the scurf of the sea from his head. Athena makes him taller and stronger and makes his hair fall in curls like the hyacinth, pouring grace on him as a craftsman overlays silver with gold. He sits apart on the shore, shining with beauty, and Nausicaa wishes such a man might be called her husband and stay among them. The handmaids give him food and drink, and he eats greedily."
+    },
+    {
+      "from": 251,
+      "to": 315,
+      "title": "Nausicaa's Instructions",
+      "summary": "Nausicaa bids Odysseus follow the wagon with the handmaids while they cross the fields, but before the city, with its rampart, its two harbors, its ships drawn up along the road and its place of assembly round the precinct of Poseidon, he must wait behind: the Phaeacians, who care for ships and not for bows, are overbearing, and some baser man would say she had found herself a stranger for a husband, scorning the Phaeacians who woo her. He is to wait in the poplar grove of Athena near the road, by her father's domain, then ask the way to the house of Alcinous, which even a child could show him, pass by her father on his chair and clasp the knees of her mother, who sits at the hearth spinning, for if she is kindly disposed to him he may hope to reach his home."
+    },
+    {
+      "from": 316,
+      "to": 331,
+      "title": "The Grove of Athena",
+      "summary": "Nausicaa drives on at a pace the handmaids and Odysseus can keep on foot, and at sunset they come to the sacred grove of Athena, where Odysseus sits down and prays to her to listen now, since she did not listen while Poseidon was wrecking him, and to grant that he come to the Phaeacians as one welcomed and pitied. Athena hears him, but does not yet appear to him face to face, out of regard for her father's brother, who still rages against Odysseus."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 25,
+      "to": 40,
+      "speaker": "athena",
+      "to_whom": [
+        "nausicaa"
+      ],
+      "kind": "exhortation"
+    },
+    {
+      "from": 57,
+      "to": 65,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 68,
+      "to": 70,
+      "speaker": "alcinous",
+      "to_whom": [
+        "nausicaa"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 119,
+      "to": 126,
+      "speaker": "odysseus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 149,
+      "to": 185,
+      "speaker": "odysseus",
+      "to_whom": [
+        "nausicaa"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 187,
+      "to": 197,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 199,
+      "to": 210,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "handmaids"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 218,
+      "to": 222,
+      "speaker": "odysseus",
+      "to_whom": [
+        "handmaids"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 239,
+      "to": 246,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "handmaids"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 255,
+      "to": 315,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 324,
+      "to": 327,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "prayer"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 47,
+      "label": "Night of Day 31",
+      "note": "Odysseus sleeps under the olives (5.491–493 and 6.1–2), and in the same night Athena goes to Nausicaa in a dream (6.15–47). The count takes the day he came ashore as Day 31 (see Book 5); if the second council of the gods (5.1) is the morning after Book 4's night in Ithaca, every day is two earlier."
+    },
+    {
+      "from": 48,
+      "to": 331,
+      "label": "Day 32",
+      "note": "From dawn (6.48) to sunset at the grove of Athena (6.321): the washing, the meeting on the shore, and the drive toward the city. Odysseus says he escaped from the sea “yesterday, on the twentieth day” (6.170), the twentieth day of the voyage from Ogygia, as Zeus foretold (5.34)."
+    }
+  ]
+}

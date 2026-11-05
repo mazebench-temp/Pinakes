@@ -15,7 +15,7 @@ en: [game pieces]
 
 ## Elsewhere in Homer
 
-The other games of the poems are knucklebones, over which the boy Patroclus killed the son of Amphidamas “in anger over the knucklebones” (ἀμφʼ ἀστραγάλοισι, 23.85–88; see [[the-ghost-of-patroclus]] and [[amphidamas-of-opus]]), and the ball that Nausicaa and her maids throw by the river (*Odyssey* 6.100, 6.115–117) and that the Phaeacian youths throw in their dance (*Odyssey* 8.370–380). Dice are not named in Homer.
+The other games of the poems are knucklebones, over which the boy Patroclus killed the son of Amphidamas “in anger over the knucklebones” (ἀμφʼ ἀστραγάλοισι, 23.85–88; see [[the-ghost-of-patroclus]] and [[amphidamas-of-opus]]), and the ball that Nausicaa and her maids throw by the river (*Odyssey* 6.100, 6.115–117) and that the Phaeacian youths throw in their dance (*Odyssey* 8.370–380; see [[ball]]). Dice are not named in Homer.
 
 ## Outside Homer
 

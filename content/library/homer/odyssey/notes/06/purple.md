@@ -1,0 +1,5 @@
+---
+summary: The yarn that Nausicaa's mother spins at the hearth is ἁλιπόρφυρα, “sea-purple” (6.53, 6.306).
+---
+
+“Her mother was sitting at the hearth with her handmaids, / turning the sea-purple yarn” (6.52–53), and Nausicaa describes her in the same words to Odysseus (6.305–306; see [[distaff]], [[hearth]] and [[arete-queen-of-the-phaeacians]]). W. W. Merry gives the common interpretation of ἁλιπόρφυρα, found in Hesychius among others, as ἁλουργά, dyed with the purple of the sea, and suggests that the famous Phoenician dye from the murex may be meant; the scholia on 13.108 and Eustathius took it instead as purple like the sea when it shows purple, a reading that the form of the compound supports, since ἁλι- is a locative (*Commentary on the Odyssey*, 1886, on 6.53; see [[phoenicians]] and [[sea]]). The word returns for the sea-purple cloth that the nymphs weave on their stone looms in the cave of the Naiads at the harbor of Phorcys on Ithaca (13.103–108, a plain rendering). In the same book the palm tree is called by the dye's other name, φοῖνιξ (6.163; see the entry and [[palm]]).

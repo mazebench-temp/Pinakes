@@ -29,6 +29,7 @@ The phrase κλέος ἄφθιτον corresponds word for word to the Vedic *ś
 - [[kydos|κῦδος]] (“glory”): the glory of a success, often granted by a god in the moment; κλέος is what is said of it afterwards.
 - [[time|τιμή]] (“honor”): worth recognized by those present; κλέος carries it to those absent and not yet born.
 - [[aischros|αἰσχρός]] (“shameful”): the reverse of fame, a thing “a shameful thing, even for men to come to hear of” (2.119).
+- φάτις and φῆμις (“talk”): what is said of a person among his own people, good or bitter; the translation of the Odyssey keeps “report” for κλέος (see [[the-talk-of-the-people]]).
 
 ## Outside Homer
 

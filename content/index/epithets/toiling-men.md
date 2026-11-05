@@ -4,7 +4,7 @@ greek: ἀλφηστής
 kind: epithet
 summary: “Toiling, enterprising,” or perhaps “bread-eating,” ἀλφησταί, an epithet of men in the Odyssey, of ordinary mortals set against the gods, against the Phaeacians, or against a swift-footed hero.
 aliases: [alphestai, alphestes, enterprising men, bread-eating men]
-grc: [ἀλφηστῇσιν]
+grc: [ἀλφηστῇσιν, ἀλφηστάων]
 en: [toiling]
 ---
 

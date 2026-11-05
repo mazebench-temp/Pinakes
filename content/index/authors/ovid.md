@@ -14,3 +14,5 @@ In *Metamorphoses* 8 Achelous lists the shapes of Proteus, and in Book 11 the �
 In the first of the *Heroides* Penelope writes to Ulysses after the fall of Troy, of the suitors, her father, Laertes and Telemachus, and gives her web to the nights she cannot sleep (*Heroides* 1.9–10; see [[ovid-penelopes-letter]] and [[penelopes-web-in-later-writers]]).
 
 In the *Art of Love* Calypso keeps asking Ulysses to tell again the fall of Troy, and a wave washes away the Troy he has drawn in the sand (*Art of Love* 2.123–142; see [[calypso-in-ovid-and-propertius]]).
+
+In *Metamorphoses* 4 Salmacis greets the boy Hermaphroditus with the praise that Odysseus gives Nausicaa: a god, perhaps Cupid, or, if mortal, blessed are those who begot him (*Metamorphoses* 4.320–328; *Odyssey* 6.149–159; see [[three-times-blessed]]).

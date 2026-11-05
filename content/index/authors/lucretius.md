@@ -11,4 +11,5 @@ Lucretius writes to free his readers from the fear of the gods and of death. Epi
 - The sacrifice of Iphianassa at Aulis by “the chosen leaders of the Danaans”, as an example of the evils that religion has prompted (1.80–101): [[iphianassa]].
 - The pleasure of watching great contests of war drawn up on the plain without sharing in the danger (2.1–6): [[watching-the-war]].
 - Legions on maneuvers, when the gleam rises to the sky and the earth all around shines with bronze (2.323–327): [[snowflakes-from-zeus]].
+- The quiet seats of the gods, which no winds shake, no clouds wet with rain and no snow touches, after Olympus in *Odyssey* 6.42–46 (3.18–24): [[the-seat-of-the-gods-in-later-writers]].
 - The great dead, from good Ancus to Homer and Epicurus, an adaptation of Achilles' words to Lycaon (3.1024–1052): [[lucretius-on-the-great-dead]].

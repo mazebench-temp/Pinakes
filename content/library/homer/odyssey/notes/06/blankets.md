@@ -1,0 +1,5 @@
+---
+summary: The glossy blankets of the palace go to the river with the sashes and the robes, on the wagon that Athena bids Nausicaa ask for (6.37–38).
+---
+
+Athena bids Nausicaa ask her father for the mules and the wagon, “which may carry / the sashes and the robes and the glossy blankets” (6.37–38; see [[wagon]], [[girdle]], [[robe]] and [[washing-troughs]]). The blankets of the house, the bedding of its beds and the coverings of its chairs (see the Book 3 and 4 notes), are washed with the clothes. ῥήγεα σιγαλόεντα, “glossy blankets”, is the phrase of the verse-end wherever the bedding of a house is listed: the bedstead, the cloaks and the glossy blankets that Laertes lacks, that Penelope offers the stranger and that he says have been hateful to him, and the fleeces, cloaks and glossy blankets of the bed that she bids Eurycleia make up outside the chamber (11.189, 19.318, 19.337, 23.180; plain renderings; see [[glossy]] and [[bed]]). The epithet is fixed, W. W. Merry notes, and stays with things that lie unwashed (*Commentary on the Odyssey*, 1886, on 6.26).

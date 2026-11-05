@@ -1,0 +1,5 @@
+---
+summary: Nausicaa is “white-armed” in three verses that bring her to song, speech and a new plan, “and among them white-armed Nausicaa began the song and dance” (6.101), “And white-armed Nausicaa answered him face to face” (6.186), “But white-armed Nausicaa thought of another thing” (6.251); and she calls her handmaids “white-armed” (6.239).
+---
+
+The Odyssey never gives the epithet to Hera, the Iliad's “white-armed goddess” ([[hera]]): it belongs to Nausicaa, to her mother [[arete-queen-of-the-phaeacians|Arete]] (7.233, 7.335, 11.335), to Helen (22.227), and in the plural to serving women (6.239, 18.198, 19.60). Verse 6.101 is built like the verse of the last lament for Hector, τῇσιν δʼ Ἀνδρομάχη λευκώλενος ἦρχε γόοιο, “And among them white-armed Andromache led the lamentation” (*Iliad* 24.723), and like the verse with which Arete begins to speak (7.233, 11.335): the same frame begins a song, a lament and a speech. See [[nausicaa]], [[handmaids]], [[answering-him]] and [[thought-of-another-thing]].

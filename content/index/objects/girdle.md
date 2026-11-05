@@ -4,14 +4,15 @@ greek: ζώνη
 kind: object
 tags: [woman, divine-object]
 summary: The ζώνη, the girdle a woman wore at the waist over her robe. Hera's, put on to beguile Zeus, has a hundred tassels; in the Odyssey the goddesses put on golden girdles, and to loose a girdle is to lie with a woman. In the Iliad the word is also a man's waist.
-aliases: [girdles, zone, zōnē, woman's girdle]
-grc: [ζώνῃ]
-en: [girdle]
+aliases: [girdles, zone, zōnē, woman's girdle, sashes, zostra]
+# ζῶστρα, "sashes" (Od. 6.38), found only there, a word of the same verb.
+grc: [ζώνῃ, ζῶστρα]
+en: [girdle, sashes]
 ---
 
 ## The word
 
-ζώνη is formed from ζώννυμι, “gird”, like the warrior's belt, ζωστήρ, and the kilt beneath it, ζῶμα (see [[belt]] and [[kilt]]). It is the girdle that gathers a woman's robe at the waist, and three epithets of women are made from it: ἐΰζωνος, “fair-belted”, βαθύζωνος, “deep-girdled”, and καλλίζωνος, “lovely-girdled” (see [[fair-belted]], [[deep-girdled]] and [[lovely-girdled]]). In the Iliad the word also names a man's waist, where the girdle goes: Agamemnon, marshaling the army, is “in waist like Ares” (2.479; see [[like-zeus-ares-and-poseidon]]), and Iphidamas stabs him “at the waist, below the corselet” (11.234). The translation keeps “girdle” for ζώνη and “belt” for ζωστήρ, and Aphrodite's embroidered strap, which some later readers called a girdle, is another thing (see [[aphrodites-band]]).
+ζώνη is formed from ζώννυμι, “gird”, like the warrior's belt, ζωστήρ, and the kilt beneath it, ζῶμα (see [[belt]] and [[kilt]]). It is the girdle that gathers a woman's robe at the waist, and three epithets of women are made from it: ἐΰζωνος, “fair-belted”, βαθύζωνος, “deep-girdled”, and καλλίζωνος, “lovely-girdled” (see [[fair-belted]], [[deep-girdled]] and [[lovely-girdled]]). In the Iliad the word also names a man's waist, where the girdle goes: Agamemnon, marshaling the army, is “in waist like Ares” (2.479; see [[like-zeus-ares-and-poseidon]]), and Iphidamas stabs him “at the waist, below the corselet” (11.234). The translation keeps “girdle” for ζώνη and “belt” for ζωστήρ, and Aphrodite's embroidered strap, which some later readers called a girdle, is another thing (see [[aphrodites-band]]). ζῶστρα, “sashes”, things to gird with, from the same verb, are found only among the clothes that Nausicaa takes to the washing (*Odyssey* 6.38; see the translation's row ζῶστρα).
 
 ## In Homer
 

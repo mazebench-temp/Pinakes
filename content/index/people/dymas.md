@@ -15,7 +15,7 @@ relations:
 
 **Hecuba's father.** The Iliad names him once, when Apollo takes the likeness of “Asius, who was the uncle of Hector, tamer of horses, / own brother of Hecuba, and son of Dymas, / who lived in Phrygia by the streams of the Sangarius” (16.717–719; see [[asius-son-of-dymas]], [[hecuba]] and [[hector]]). Asius is Hecuba's αὐτοκασίγνητος, her “own brother”, as Castor and Polydeuces are Helen's brothers “whom one mother bore with me” (3.238), and the natural reading makes Dymas the father of both. The poem does not name Hecuba's father anywhere else. The last clause may describe Dymas or Asius: one of them, or the family, lived by the river Sangarius in Phrygia (see [[sangarius]] and [[phrygia]]).
 
-The Odyssey's Dymas is another man, a Phaeacian “famed for ships” (ναυσικλειτοῖο Δύμαντος), whose daughter's likeness Athena takes to visit Nausicaa in a dream (*Odyssey* 6.22–24). In both poems the name comes as a god takes the likeness of one of his children.
+The Odyssey's Dymas is another man, [[dymas-the-phaeacian|a Phaeacian “famed for ships”]] (ναυσικλειτοῖο Δύμαντος), whose daughter's likeness Athena takes to visit Nausicaa in a dream (*Odyssey* 6.22–24). In both poems the name comes as a god takes the likeness of one of his children.
 
 ## Outside Homer
 

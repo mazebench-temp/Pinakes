@@ -5,7 +5,7 @@ kind: epithet
 tags: [wild-animal]
 summary: “Of the wild, living in the open country,” an epithet of hunted beasts, as against the tame: mules, boars, deer and goats; and a title of Artemis.
 aliases: [agroteros, of the wild, untamed]
-grc: [ἀγροτεράων, ἀγροτέρῳ]
+grc: [ἀγροτεράων, ἀγροτέρῳ, ἀγροτέρας]
 en: [wild]
 of: [boar, artemis]
 ---

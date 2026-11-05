@@ -1,0 +1,7 @@
+---
+summary: Hesiod's Theogony gives Calypso a son by Odysseus named Nausithous, the name of the Phaeacians' founder in this book, and calls Earth by the words of the book's Olympus, “a seat secure forever”; the Catalogue of Women made Arete the sister of Alcinous, where the Odyssey makes her his niece.
+---
+
+- **Another Nausithous.** “And Calypso, brilliant among goddesses, bore to Odysseus Nausithous and Nausinous, joined with him in lovely love” (*Theogony* 1017–1018, a plain rendering). The founder of this book, “godlike Nausithous”, who led the Phaeacians from Hypereia to Scheria (6.7), is another man, the grandfather of Alcinous' children (7.56–63): [[nausithous]] and [[calypso]].
+- **Arete.** “Hesiod took Arete to be the sister of Alcinous” (*Catalogue of Women* fr. 49 Evelyn-White, from the scholia on 7.54). In the Odyssey she is the only child of his brother Rhexenor, and Alcinous made her his wife (7.63–66, a plain rendering); in this book she is the mother whom Nausicaa finds at the hearth, and whose knees Odysseus must clasp (6.52–53, 6.305–315): [[arete-queen-of-the-phaeacians]] and [[alcinous]].
+- **The seat secure forever.** Hesiod's Earth is “the ever-secure seat of all / the immortals who hold the peak of snowy Olympus” (πάντων ἕδος ἀσφαλὲς αἰεί, *Theogony* 117–118, the second verse bracketed in the text), the words of this book's Olympus, θεῶν ἕδος ἀσφαλὲς αἰεί (6.42): [[the-seat-of-the-gods-in-later-writers]] and [[olympus]].

@@ -1,0 +1,5 @@
+---
+summary: The gossip Nausicaa fears imagines that “some god has come to her at her prayer, much prayed for” (6.280); in Athena's grove Odysseus prays to the goddess, and the narrator ends, “So he spoke in prayer, and Pallas Athena heard him” (6.328).
+---
+
+The verb is prayer twice in the book, at either end of a contrast. The baser Phaeacian of Nausicaa's imagining mocks a girl's prayer for a husband: ἤ τίς οἱ εὐξαμένῃ πολυάρητος θεὸς ἦλθεν / οὐρανόθεν καταβάς, “or some god has come to her at her prayer, much prayed for, / down from the sky” (6.280–281; see [[the-talk-of-the-people]]). πολυάρητος, “much prayed for”, is what Eurycleia calls the infant Odysseus when she sets him on his grandfather's knees (19.403–404, a plain rendering; see the translation's table of key words). Odysseus' prayer is real: “Hear me, child of aegis-bearing Zeus, Atrytone” (6.324–327), and ὣς ἔφατʼ εὐχόμενος, “So he spoke in prayer” (6.328), the formula with which Telemachus' prayer at the shore ended (2.267; see [[prayer]], [[hear-me]] and [[athena]]). The goddess hears him, but out of respect for her uncle does not yet appear to him (6.328–331; see [[aidos]]).

@@ -3,14 +3,15 @@ title: Wagon
 greek: ἅμαξα
 kind: object
 tags: [exchange]
-summary: The four-wheeled wagon, ἅμαξα or ἀπήνη, drawn by mules or oxen, the cart of work and peace beside the two-wheeled war chariot. In the Iliad wagons carry the dead and the wood for a pyre, and Priam's mule wagon takes the ransom to Achilles and brings Hector's body home.
+summary: The four-wheeled wagon, ἅμαξα or ἀπήνη, drawn by mules or oxen, the cart of work and peace beside the two-wheeled war chariot. It carries the dead and the wood for a pyre, Priam's ransom to Achilles and Hector's body home, and Nausicaa's washing to the river.
 aliases: [wagons, mule wagon, cart, hamaxa, apene]
 # ἀπήνης is accent-sensitive (=): ἀπηνής "harsh" (15.94, 16.35, 23.484, 23.611) is the same word without accents.
 # Ἄμαξαν, capitalized at 18.487, is the Wagon, the Great Bear (the-bear claims "ἣν καὶ Ἄμαξαν"); the same verse at
 # Od. 5.273 prints it in lowercase and is excepted. ἡμιονείην (24.189, 24.266), "of mules", is the mules'.
-# The words of the yoking (24.268-274) are claimed in the note on Book 24.
-grc: [ἀμαξάων, ἄμαξαν, "!^Ἄμαξαν", ἀμάξῃσιν, "=ἀπήνης", ἀπήνην, ἀπήνῃ, πείρινθα]
-en: [wagon, wagons, wicker body]
+# The words of the yoking (24.268-274) are claimed in the note on Book 24. ὑπερτερίῃ (Od. 6.70), the frame fitted on
+# Nausicaa's wagon, is found only there; the whip and the reins of Odyssey 6 are claimed in its Book 6 note.
+grc: [ἀμαξάων, ἄμαξαν, "!^Ἄμαξαν", ἀμάξῃσιν, "=ἀπήνης", ἀπήνην, ἀπήνῃ, πείρινθα, ὑπερτερίῃ]
+en: [wagon, wagons, wicker body, frame above]
 except: [Od. 5.273]
 ---
 

@@ -1,0 +1,5 @@
+---
+summary: Hades is named once, in the verse that closes the story of the Phaeacians' founder: Nausithous “had already been overcome by his doom and gone to the house of Hades, / and Alcinous was ruling then” (6.11–12).
+---
+
+**Nausithous in the house of Hades.** Nausithous led the Phaeacians from Hypereia to Scheria, walled their city and built their houses and the temples of the gods, “But he had already been overcome by his doom and gone to the house of Hades, / and Alcinous was ruling then, who knew counsels from the gods” (6.11–12; see [[nausithous]], [[alcinous]], [[ker-doom]] and [[who-knew-counsels]]). The first verse is the one the poem gave Neleus, who used to sit on the polished stones before the doors where Nestor sat in his turn (3.409–411); there the dead father was “a counselor equal to the gods”, here the living son “knew counsels from the gods”, and here too the son has taken the father's place, for in the next book Alcinous is named the son of Nausithous (7.63). Ἄϊδόσδε, “to the house of Hades”, is found only in the Odyssey (see the general article and the note on Book 3).

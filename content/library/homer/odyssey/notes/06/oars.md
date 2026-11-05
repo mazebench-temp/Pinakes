@@ -1,0 +1,5 @@
+---
+summary: At their place of assembly the Phaeacians taper their oars, and they care for the oars of ships more than for bows (6.269, 6.271).
+---
+
+“There they take care of the tackle of the black ships, / cables and sails, and they taper the oars” (6.268–269; see [[ships]], [[sails]] and [[stern-cables]]). For ἀποξύνουσιν, “they taper”, W. W. Merry compares προήκης, the epithet of the oars that fly from the hands of Odysseus' companions when they see the smoke and the great wave beyond the Sirens' island (*Commentary on the Odyssey*, 1886, on 6.269; 12.201–205, a plain rendering), and records another reading of the verb that Eustathius knew, which Buttmann, Bekker and Dindorf adopted though it has no manuscript authority (Merry's critical note; see the translation's note on 6.269). The Phaeacians care “for masts and the oars of ships and balanced ships” rather than for bow or quiver (6.270–271; see [[bow]] and [[mast]]); they are the people whom the poem calls “lovers of the oar” (5.386; see [[lovers-of-the-oar]] and [[phaeacians]]), and in later books δολιχήρετμοι, with long oars (8.191, 8.369, 13.166; see [[long-oared]]).

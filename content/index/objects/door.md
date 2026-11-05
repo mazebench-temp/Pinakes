@@ -9,7 +9,7 @@ aliases: [doors, doorway, gateway, doorpost, door-bolt, bolt and strap, thyre, p
 # 14.169, 14.339, 22.66, 24.317, 24.453, 24.455, 24.567), προθυρ* its doorways (11.777, 15.124, 18.496, 19.212,
 # 22.71, 24.323), and κληῗδι κρυπτῇ Hera's secret bolt (14.168). The fastening is claimed only in phrases: κληΐς
 # is also "collarbone" and "rowing bench", ἱμάς any strap, κορώνη the tip of a bow (Od. 21.138), σταθμός a
-# steading. θύραι, θύρῃ and θυρέων, in later books of the Odyssey, will need adding with their books.
+# steading. θύραι is claimed in the Odyssey by the Book 6 note; θύρῃ and θυρέων will need adding with their books.
 grc: [θύρη, θύρην, θύρας, θυράων, θύρῃσι, θύρῃσιν, θύρετρα, "προθυρ*", "σταθμὸν τέγεος", "ἐπέρυσσε κορώνῃ", "κληῖδʼ ἐτάνυσσεν ἱμάντι", "κληῗδι κρυπτῇ"]
 en: [door, doors, doorway, doorpost, doorposts, handle, bolt, strap, key]
 ---

@@ -18,7 +18,7 @@ relations:
 
 ## Descriptions
 
-Homer names kinds of nymphs by the places they live in. A νηΐς or νηϊάς, a Naiad, is a nymph of springs and running water (6.22; Od. 13.104), a name usually derived from νάω, “flow”. The ὀρεστιάδες are nymphs “of the mountains” (ὄρος), the Oreads; the word occurs only at 6.420. Eumaeus prays to the κρηναῖαι, the nymphs “of the spring” (κρήνη, Od. 17.240), and the nymphs who play with Artemis are ἀγρονόμοι, “who haunt the countryside” (ἀγρός, “field”, + νέμομαι, “range over”, Od. 6.106). They are ἐϋπλόκαμοι, “with lovely tresses” (Od. 12.132), like the Trojan women of 6.380 (see [[with-lovely-tresses]]).
+Homer names kinds of nymphs by the places they live in. A νηΐς or νηϊάς, a Naiad, is a nymph of springs and running water (6.22; Od. 13.104), a name usually derived from νάω, “flow”. The ὀρεστιάδες are nymphs “of the mountains” (ὄρος), the Oreads; the word occurs only at 6.420. Eumaeus prays to the κρηναῖαι, the nymphs “of the spring” (κρήνη, Od. 17.240), and the nymphs who play with Artemis are ἀγρονόμοι, “who haunt the fields” (ἀγρός, “field”, + νέμομαι, “range over”, Od. 6.106). They are ἐϋπλόκαμοι, “with lovely tresses” (Od. 12.132), like the Trojan women of 6.380 (see [[with-lovely-tresses]]).
 
 ## Family
 

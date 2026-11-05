@@ -10,7 +10,7 @@ grc: [ἐλάφοιο, ἔλαφος, νεβρούς]
 en: [deer, hind, fawns]
 ---
 
-ἔλαφος is the deer, stag or hind; the fawn is νεβρός. In Homer the deer is the animal that runs away: “swift” (ταχεῖα, 11.113) and quick to take fright, it lives in the mountains and the thickets, where hunters and their dogs pursue it. The goddess Artemis delights in boars and swift deer (Odyssey 6.102–104), and Odysseus kills a great antlered stag on Circe's island and carries it back to his starving men (Odyssey 10.156–184).
+ἔλαφος is the deer, stag or hind; the fawn is νεβρός. In Homer the deer is the animal that runs away: “swift” (ταχεῖα, 11.113) and quick to take fright, it lives in the mountains and the thickets, where hunters and their dogs pursue it. The goddess Artemis delights in boars and swift deer (*Odyssey* 6.102–104; see [[artemis-among-her-nymphs]]), and Odysseus kills a great antlered stag on Circe's island and carries it back to his starving men (*Odyssey* 10.156–184).
 
 In the similes the deer is prey. A lion breaks the bones of a deer's young in their lair (11.113–119); jackals tear a stag wounded by a hunter's arrow until a lion comes and takes it from them (11.474–481); wolves devour a great antlered stag they have killed in the mountains (16.156–163); a dog chases a fawn from its lair through glens and ravines (22.189–192; see [[the-dog-and-the-fawn]]). Two lions fight over a slain deer, as Hector and Patroclus fight over the body of Cebriones (16.756–758).
 

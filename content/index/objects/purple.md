@@ -5,9 +5,10 @@ kind: object
 tags: [craftsman]
 summary: The red-purple dye made from sea snails, φοῖνιξ, and the color it gave to ivory, cloth and leather. Homer's other purple, πορφύρεος, is the color of fine cloth, and also of the sea, the rainbow and death.
 aliases: [purple dye, crimson, phoinix]
-grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος, "!^Φοίνικ*"]
-en: [purple]
-# πορφύρεον κῦμα (21.326) is the surging wave.
+grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος, "!^Φοίνικ*", ἁλιπόρφυρα]
+en: [purple, sea-purple]
+# πορφύρεον κῦμα (21.326) is the surging wave. ἁλιπόρφυρα, "sea-purple" (Od. 6.53, 6.306; later 13.108), is found
+# only in the Odyssey.
 except: [21.326, 1.482, Od. 2.428]
 passages:
   - 4.141-147 | Ivory stained with purple

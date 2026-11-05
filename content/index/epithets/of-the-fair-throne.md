@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, time]
 summary: “Of the fair throne,” an epithet of [[Eos]], the Dawn, once in the Iliad, in the last verse of Book 8, and five times in the Odyssey.
 aliases: [euthronos, fair-throned, Dawn of the fair throne]
-grc: [ἐΰθρονον]
+grc: [ἐΰθρονον, ἐύθρονος]
 en: [of the fair throne]
 of: [eos]
 ---

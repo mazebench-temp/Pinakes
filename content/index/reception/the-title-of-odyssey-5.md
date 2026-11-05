@@ -28,4 +28,4 @@ The title of *Odyssey* 5 in Merry's edition is Ὀδυσσέως σχεδία, �
 
 **The raft in Plato.** Plato's Simmias would sail through life on the best of human accounts “as on a raft”, unless a divine account could carry him more safely (*Phaedo* 85c–d); his word, σχεδία, is the word of this book (see [[raft]] and [[plato]]).
 
-See [[aelian]], [[the-title-of-odyssey-4]] and [[calypso]].
+See [[aelian]], [[the-title-of-odyssey-4]], [[the-title-of-odyssey-6]] and [[calypso]].

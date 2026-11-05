@@ -1,0 +1,38 @@
+---
+title: Nausithous
+greek: Ναυσίθοος
+kind: person
+tags: [edge-of-world, king]
+summary: The first king of the Phaeacians, a son of Poseidon, who led his people away from Hypereia and the Cyclopes and settled them in Scheria; the father of [[Alcinous]], dead before Odysseus comes there (*Odyssey* 6.4–12, 7.56–63).
+aliases: [Nausithoos]
+# Ναυσίθοος (Od. 6.7) is claimed in the Odyssey Book 6 note by the stem Ναυσίθο*, which will also take Ναυσίθοον
+# (7.56, 7.62) and Ναυσιθόου (8.565) and catches nothing else in Homer or Aristotle. It stays in the Odyssey because
+# Hesiod's Nausithous, son of Odysseus and Calypso (Ναυσίθοον, Theogony 1017), is another man.
+relations:
+  - father: poseidon (Od. 7.56-61)
+  - child: alcinous (Od. 7.62-63, Od. 8.564-565)
+---
+
+## The name
+
+Ναυσίθοος joins ναῦς, “ship”, and θοός, “swift”. The founder of a seafaring people bears a name of swift ships, as his granddaughter's begins with the ship (see [[nausicaa]] and [[phaeacians]]).
+
+## Family
+
+Poseidon begot him on Periboea, “the best of women in looks”, the youngest daughter of Eurymedon, who once ruled the Giants and destroyed his reckless people and himself (*Odyssey* 7.56–61, a plain rendering; see [[poseidon]]). He ruled among the Phaeacians and had two sons, Rhexenor and Alcinous. Apollo struck down Rhexenor in his hall, newly married and without a son, and he left one daughter, Arete, whom Alcinous made his wife (*Odyssey* 7.62–66; see [[alcinous]] and [[arete-queen-of-the-phaeacians]]). So Nausicaa is his granddaughter on both sides (see [[nausicaa]]). Alcinous calls him “my father” (*Odyssey* 8.564–565, 13.172–173).
+
+## Descriptions
+
+- θεοειδής, “godlike” (*Odyssey* 6.7; see [[godlike]]).
+- μεγάθυμος, “great-hearted” (*Odyssey* 7.62; see [[great-hearted]]).
+- ὁ γέρων, “the old man”, in his son's memory of him (*Odyssey* 8.570, 13.178).
+
+{{notes}}
+
+## Later in the Odyssey
+
+His son remembers a prophecy of his: Poseidon, he used to say, begrudged the Phaeacians because they were safe escorts of all men, and one day the god would wreck a Phaeacian ship coming home from an escort and throw a great mountain around their city. Alcinous recalls it before Odysseus tells his story, and again when the ship that carried Odysseus home is turned to stone in sight of the city (*Odyssey* 8.564–571, 13.172–178, plain renderings). For the migration and the prophecy, see [[the-migration-of-the-phaeacians]].
+
+## Outside Homer
+
+Hesiod's Nausithous is another man: at the end of the *Theogony* Calypso, “brilliant among goddesses”, bears Odysseus two sons, Nausithous and Nausinous (*Theogony* 1017–1018; see [[hesiod]] and [[calypso]]).

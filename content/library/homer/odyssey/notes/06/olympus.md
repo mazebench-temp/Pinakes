@@ -1,0 +1,17 @@
+---
+summary: When Athena leaves Nausicaa's dream she goes back to Olympus, and the poem pauses on it: the seat of the gods, “where, they say”, no wind shakes it, no rain wets it and no snow comes near, but the clear sky spreads cloudless over it, and the blessed gods take their delight all their days. Nausicaa names it once, in “the gods who hold Olympus” (6.240).
+# Unnamed: the description of the seat of the gods (6.43-46).
+refs: [6.43-46]
+passages:
+  - 6.41-47 | The seat of the gods
+---
+
+**The seat of the gods.** The poet follows Athena home:
+
+{{quote:fc51951d-31f8-578a-b1e7-a88bf1fe3343}}
+
+ἕδος, “seat”, is the Iliad's word for Olympus as the gods' dwelling, “so that I may reach Olympus, where the seat of the immortals is”, and “the seat of the gods, steep Olympus” (*Iliad* 5.360, 5.367). The rest is new. The Iliad's Olympus is snowy, ἀγάννιφος and νιφόεις (*Iliad* 1.420, 18.186, 18.616), and the Hours keep the gates of heaven, to open and close the thick cloud (*Iliad* 5.749–751; see [[hours]]); this one is above the weather, under αἴθρη, the clear sky, and αἴγλη, a white gleam, the word in the Iliad's “gleaming Olympus”, αἰγλήεντος Ὀλύμπου (*Iliad* 1.532; Merry, *Commentary on the Odyssey*, 1886, on 6.45; see the translation's key-word row). In it “the blessed gods take their delight all their days” (6.46; see [[blessed-gods]]).
+
+**“Where, they say.”** ὅθι φασί is the phrase of the Iliad for a place known by report, the bed of Typhoeus among the Arimi and the beds of the nymphs on Sipylus (*Iliad* 2.783, 24.615; see [[typhoeus]] and [[sipylus]]), and Merry finds it strange in what one would take for the statement of a belief that all share. The scholia held the words fitting if Olympus is the mountain, unfitting if it is the sky; Eustathius took them the other way. Köchly saw in them proof that the whole passage was a later insertion; Merry thinks that needlessly strong: the verses may be suspected, since the context needs no description of Olympus, but the picture is not irreconcilable with Homer's Olympus elsewhere (Merry on 6.42; see the translation's note on 6.42–46). Aristarchus, as Merry reports him, held that Homer always means by Olympus the mountain, never identified with the sky, though it rises far into it. To the question whether a cloudless Olympus can be the snowy one of the Iliad, Merry answers that both may be right: the mountain has its clouds, a boundary between the world below and the regions above, while its summit stands clear in the sky above the storms; so too Eustathius, for whom Olympus is clear above and called snowy below, among the clouds (on 6.42). Rhianus read αἰθήρ for αἴθρη, and τῇ ἔνι for τῷ ἔνι, “in the gleam” (Merry's critical notes on 6.44, 6.46). For the passage in later writers, from Lucretius to Proclus, see [[the-seat-of-the-gods-in-later-writers]].
+
+**The gods who hold Olympus.** Nausicaa, seeing the stranger after Athena has poured grace on him, tells her handmaids: “Not against the will of all the gods who hold Olympus / does this man mingle with the godlike Phaeacians” (6.240–241; see [[olympians]]). Merry compares the words of Athena, as Mentor, to Telemachus at Pylos, “for I do not think / that you were born and bred against the will of the gods” (on 6.240; 3.27–28). Twice in the book the gods are those “who hold the wide sky” (6.150, 6.243; see [[wide-sky]]), and once a god comes “down from the sky” (6.281).

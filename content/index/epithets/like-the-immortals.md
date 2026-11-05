@@ -3,7 +3,7 @@ title: Like the immortals
 greek: ἐπιείκελος ἀθανάτοισιν
 kind: epithet
 tags: [heroic-epithet]
-summary: “Like the immortals,” a line-end formula of praise for heroes.
+summary: “Like the immortals,” phrases that liken a mortal to the gods, above all the line-end ἐπιείκελος ἀθανάτοισιν.
 aliases: [epieikelos athanatoisin]
 grc: [ἐπιείκελον ἀθανάτοισιν, "δέμας ἀθανάτοισιν ὁμοῖος"]
 en: [like the immortals]

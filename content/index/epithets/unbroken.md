@@ -5,14 +5,14 @@ kind: epithet
 tags: [sacrificial-animal, livestock]
 summary: “Untamed, unbroken,” of animals never yoked or broken to work: the heifer vowed to Athena, mares and mules offered as prizes; in the Odyssey also of an unmarried girl.
 aliases: [admes, untamed, unyoked]
-grc: [ἀδμήτην]
+grc: [ἀδμήτην, ἀδμής]
 en: [unbroken]
 of: [cattle]
 ---
 
 ## Meaning
 
-ἀδμής = ἀ- (“not”) + the root of δάμνημι, δαμάζω (“tame, break, subdue”): “untamed.” The same verb is used of breaking animals to the yoke and of a girl given to a husband, and ἀδμής has both uses. In the Iliad it describes animals: the heifer “unbroken, which no man has yet led under the yoke” that Diomedes vows to Athena (10.293); the mare “six years old, unbroken, carrying a mule foal” that is the second prize in the chariot race (23.265–266); and the mule, “six years old, unbroken, the hardest to tame,” that is the prize for boxing (23.653–655). In the Odyssey Nestor vows the same heifer in the same verses (*Odyssey* 3.382–384), Noemon has unbroken mules at pasture in Elis (*Odyssey* 4.635–637), and Nausicaa among her maids is παρθένος ἀδμής, “an unwed girl” (*Odyssey* 6.109, 6.228). Compare [[untamable]] (ἀδάμαστος), the epithet of Hades, and the cattle “never touched by the goad” of *Iliad* 6 ([[never-touched-by-the-goad]]); see [[privative-adjectives]].
+ἀδμής = ἀ- (“not”) + the root of δάμνημι, δαμάζω (“tame, break, subdue”): “untamed.” The same verb is used of breaking animals to the yoke and of a girl given to a husband, and ἀδμής has both uses. In the Iliad it describes animals: the heifer “unbroken, which no man has yet led under the yoke” that Diomedes vows to Athena (10.293); the mare “six years old, unbroken, carrying a mule foal” that is the second prize in the chariot race (23.265–266); and the mule, “six years old, unbroken, the hardest to tame,” that is the prize for boxing (23.653–655). In the Odyssey Nestor vows the same heifer in the same verses (*Odyssey* 3.382–384), Noemon has unbroken mules at pasture in Elis (*Odyssey* 4.635–637), and Nausicaa among her maids is παρθένος ἀδμής, “a maiden unwed” (*Odyssey* 6.109, 6.228). Compare [[untamable]] (ἀδάμαστος), the epithet of Hades, and the cattle “never touched by the goad” of *Iliad* 6 ([[never-touched-by-the-goad]]); see [[privative-adjectives]].
 
 ## Use
 

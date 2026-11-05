@@ -3,12 +3,14 @@ title: Provisions
 greek: ἤϊα
 kind: object
 tags: [seafaring, feast]
-summary: Food and drink for a journey, ἤϊα: for Telemachus' voyage, wine in two-handled jars and barley meal in leather bags. In the tales of the Odyssey the provisions of a ship run out on a long delay, and a host or a goddess puts provisions on board.
+summary: Food and drink for a journey, ἤϊα: for Telemachus' voyage, wine in two-handled jars and barley meal in leather bags; for Nausicaa's day at the river, food and meats in a box and wine in a goatskin. In the tales of the Odyssey the provisions of a ship run out on a long delay, and a host or a goddess puts provisions on board.
 aliases: [ēia, supplies, provisions for a voyage, leather bags]
 # δοροῖσιν, δοροῖσι (Od. 2.354, 2.380), the leather bags, occur only here. ἤια itself is in the Book 2 note, as phrases:
 # the same letters are ἤια "I went" (Od. 4.427, 4.433, 4.572, 10.309), and ἤϊα at Il. 13.103 is the prey of beasts.
-grc: [δοροῖσιν, δοροῖσι]
-en: [provisions, leather bags]
+# κίστῃ, the box in which Nausicaa's mother packs the food (Od. 6.76), is found only there; ὄψα, the meats packed for a
+# journey (Od. 3.480, 5.267, 6.77), only in these three lines.
+grc: [δοροῖσιν, δοροῖσι, κίστῃ, ὄψα]
+en: [provisions, leather bags, box, meats]
 ---
 
 ## The word

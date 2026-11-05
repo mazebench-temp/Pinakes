@@ -1,0 +1,8 @@
+---
+summary: The robes of the house are among the things that the wagon carries to the washing (6.38), which Athena urges on Nausicaa because her marriage is near and she must have fine clothes for herself and for those who will lead her home (6.27–28).
+# πέπλους (6.38), first met in the Odyssey here; the Iliad's πέπλους (Il. 24.229) is claimed in its Book 24 note.
+grc: [πέπλους]
+en: [robes]
+---
+
+The wagon is to carry “the sashes and the robes and the glossy blankets” (6.38; see [[wagon]], [[girdle]], [[blankets]] and [[washing-troughs]]). πέπλος is the large woven robe of goddesses and queens in the Iliad, the robe that Athena lets fall on her father's floor and the robe that Hecuba chooses for Athena (*Iliad* 5.734, 6.288–295; see the notes on *Iliad* 5 and 6). Athena's reason for the washing is the girl's marriage: “your marriage is near, when you must wear fine clothes yourself / and provide others for those who will lead you home” (6.27–28; see [[marriage]] and [[nausicaa]]). W. W. Merry refers the second clause to the torchlight procession in which the bridegroom and his friends brought the bride to her new home, to whose splendor she could add by giving handsome dresses to those who took part (*Commentary on the Odyssey*, 1886, on 6.28; *Iliad* 18.491–493). A robe is a bride's gift in the later books too: Helen gives Telemachus a robe that she made herself, a memorial of her hands, for his bride to wear at their wedding (15.123–128); and in the hall of Alcinous fine, well-spun robes, the work of women, are spread over the chairs along the walls (7.95–97; plain renderings; see [[throne]]).

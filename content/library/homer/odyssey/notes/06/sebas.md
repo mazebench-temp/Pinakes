@@ -1,0 +1,5 @@
+---
+summary: Odysseus tells Nausicaa, “For never yet have I seen with my eyes such a mortal, / neither man nor woman; awe holds me as I look” (6.160–161).
+---
+
+The verse σέβας μʼ ἔχει εἰσορόωντα is the Odyssey's word of wonder at a sight (see [[awe-holds-me]]): Nestor's at Telemachus' likeness to his father (3.123), Telemachus' at the bronze and gold of Menelaus' house (4.75), and Odysseus' at the Phaeacian dancers (8.384). Its fullest parallel is Helen's at Sparta, when she sees Odysseus in his son: “neither man nor woman; awe holds me as I look” (4.142), the same half-verse with the feminine participle. Here the wonder is at a girl who may be a goddess, and it leads to the palm on Delos, a sight he was “astounded” at once before, “as I marvel at you, lady, and am astounded” (6.162–168; see [[the-palm-on-delos]] and [[deos]]). The translation keeps σέβας “awe”, ἄγαμαι “marvel at” and τέθηπα “be astounded” apart (see its table of key words). For the reading of 6.160, where Bekker printed τοῖον Ϝεῖδον and others τοιόνδε ἴδον, see the translation's note on 6.160.

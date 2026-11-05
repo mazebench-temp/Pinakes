@@ -1,0 +1,7 @@
+---
+summary: The knees of the suppliant's gesture: Odysseus ponders whether to clasp Nausicaa's knees and chooses not to, “lest the girl be angry in her heart with him if he clasped her knees” (6.141–147); he says he is “terribly afraid / to clasp your knees” (6.168–169); and Nausicaa tells him to throw his arms around the knees of her mother (6.310–311).
+# γοῦνα (6.147; again 9.266, 18.395, 20.352), γούνασι (6.310; again 1.267, 1.400 "on the knees of the gods", 7.142, 16.129, 19.401, 21.55).
+grc: [γοῦνα, γούνασι]
+---
+
+The book counts the knees that are not clasped. Odysseus weighs γούνων λίσσοιτο λαβών, “clasp the knees … and beg her” (6.142), against words spoken from a distance, and the knees decide it: μή οἱ γοῦνα λαβόντι χολώσαιτο φρένα κούρη, “lest the girl be angry in her heart with him if he clasped her knees” (6.147; see [[supplication]] and [[decision-scene]]). In the speech the gesture becomes a word, γουνοῦμαι, “I implore you” (6.149), and a reason, “I am terribly afraid / to clasp your knees” (γούνων ἅψασθαι, 6.168–169; see [[deos]]). The knees he must clasp are the queen's: μητρὸς περὶ γούνασι χεῖρας / βάλλειν ἡμετέρης, “throw your arms around the knees / of my mother” (6.310–311), and in Book 7 he does, ἀμφὶ δʼ ἄρʼ Ἀρήτης βάλε γούνασι χεῖρας Ὀδυσσεύς (7.142). The same dative is the knees of the gods, on which things lie (1.267, 1.400; see [[on-the-knees-of-the-gods]]).

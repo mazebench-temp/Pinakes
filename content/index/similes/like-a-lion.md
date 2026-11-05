@@ -14,7 +14,7 @@ of: [aeneas]
 
 {{quote:8eeb1e44-9409-5129-8371-c33459751088}}
 
-ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε λέων ὣς ἀλκὶ πεποιθώς: “he bestrode it like a lion trusting in his courage”. ἀμφὶ … βαῖνε, “went around, stood astride”, is the verb for standing over a fallen comrade to keep his body from the enemy (see [[fighting-over-the-body]]). ἀλκὶ πεποιθώς, “trusting in his courage”, names the strength that stands and defends (see [[alke]]). The phrase belongs to beasts at bay and to men over a body: to a mountain lion (17.61; Odyssey 6.130), to a boar that waits for the hunters or turns on the dogs (13.471, 17.728), and to Hector standing firm over the body of Patroclus (18.158).
+ἀμφὶ δʼ ἄρʼ αὐτῷ βαῖνε λέων ὣς ἀλκὶ πεποιθώς: “he bestrode it like a lion trusting in his courage”. ἀμφὶ … βαῖνε, “went around, stood astride”, is the verb for standing over a fallen comrade to keep his body from the enemy (see [[fighting-over-the-body]]). ἀλκὶ πεποιθώς, “trusting in his courage”, names the strength that stands and defends (see [[alke]]). The phrase belongs to beasts at bay and to men over a body: to a mountain lion (17.61; *Odyssey* 6.130, see [[the-hungry-lion]]), to a boar that waits for the hunters or turns on the dogs (13.471, 17.728), and to Hector standing firm over the body of Patroclus (18.158).
 
 The next lines show what the lion does. Aeneas held in front of the body “his spear and his shield, balanced on every side, eager to kill whoever came against him, shouting terribly” (5.300–302). The lion is not hunting. It stands over what is its own and dares anyone to take it. The point of likeness is courage in defense.
 

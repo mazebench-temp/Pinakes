@@ -3,7 +3,7 @@ title: Dream
 greek: Ὄνειρος
 kind: god
 tags: [personification, divination, divine-will]
-summary: The dream (ὄνειρος) as Homer tells it, a visitor from outside the sleeper, sent by a god in the likeness of someone the sleeper knows. Zeus sends the “baneful Dream” to [[Agamemnon]] with a false promise of Troy, and Athena sends Penelope a phantom of her sister to comfort her in her sleep.
+summary: The dream (ὄνειρος) as Homer tells it, a visitor from outside the sleeper, who stands above the sleeper's head in the likeness of someone the sleeper knows. It may be a figure that a god sends, as Zeus sends the “baneful Dream” to [[Agamemnon]] and Athena a phantom of her sister to Penelope, or the god in person, as Athena comes to Nausicaa.
 aliases: [Oneiros, baneful Dream, the Dream]
 grc: [ὄνειρον, ὄνειρε, ὄνειρος]
 en: [dream]

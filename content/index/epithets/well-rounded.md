@@ -4,8 +4,8 @@ greek: εὔκυκλος
 kind: epithet
 tags: [weapon]
 summary: “Well-circled, round,” an epithet of the [[shield]], and in the Odyssey of a wagon with good wheels.
-aliases: [eukyklos, round]
-grc: [εὐκύκλους, εὐκύκλου]
+aliases: [eukyklos, round, with good wheels]
+grc: [εὐκύκλους, εὐκύκλου, ἐύκυκλον]
 en: [well-rounded]
 of: [shield]
 ---

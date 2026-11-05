@@ -5,7 +5,7 @@ kind: epithet
 tags: [mainland-greece, city]
 summary: “With broad dancing places,” or perhaps “spacious,” an epithet of cities and lands, among them [[Mycalessus]] in Boeotia.
 aliases: [spacious, eurychoros]
-grc: [εὐρύχορον]
+grc: [εὐρύχορον, εὐρυχόρῳ]
 en: [with its wide dancing floors]
 of: [mycalessus, hellas]
 ---

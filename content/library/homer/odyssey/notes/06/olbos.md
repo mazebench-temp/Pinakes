@@ -1,0 +1,5 @@
+---
+summary: Nausicaa answers the stranger's plea: “it is Zeus himself, the Olympian, who deals out prosperity to men, / to the good and to the bad, to each as he wishes” (6.188–189).
+---
+
+Ζεὺς δʼ αὐτὸς νέμει ὄλβον Ὀλύμπιος ἀνθρώποισιν (6.188): ὄλβος is “prosperity”, as in the Iliad, where Peleus excelled all men “in prosperity and wealth” (*Iliad* 24.535–536; see the translation's table of key words). νέμω is to deal out, to give each his portion, and the point of the verses, Merry says, lies in “as he wishes”, the arbitrary dispensation of good and evil (W. W. Merry, *Commentary on the Odyssey*, 1886, on 6.188–189; see [[zeus-gives-good-and-evil]] and [[zeus]]). The stranger has none of it, and the half-verse that follows tells him to endure, as Telemachus said at Pylos that the gods had spun no such prosperity for him and his father (6.190, 3.208–209). The prosperity he praised a little earlier was of another kind, the happiness of a family in its daughter, three times blessed (μάκαρες, 6.154–159; see [[three-times-blessed]]).

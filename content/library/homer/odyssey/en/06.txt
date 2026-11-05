@@ -1,0 +1,334 @@
+# Homer, Odyssey, Book 6 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	So he lay sleeping there, much-enduring brilliant Odysseus,
+2	worn out by sleep and weariness; but Athena
+3	went to the land and the city of the Phaeacian men,
+4	who once lived in Hypereia with its wide dancing floors,
+5	near the Cyclopes, overweening men,
+6	who used to plunder them, and were the stronger in strength.
+7	From there godlike Nausithous had moved them and led them away,
+8	and settled them in Scheria, far from toiling men;
+9	and he drove a wall around the city, and built houses,
+10	and made temples of the gods, and divided the fields.
+11	But he had already been overcome by his doom and gone to the house of Hades,
+12	and Alcinous was ruling then, who knew counsels from the gods.
+13	To his house went the gray-eyed goddess Athena,
+14	devising a homecoming for great-hearted Odysseus.
+15	She went to the intricately worked chamber, in which a girl
+16	was sleeping, like the immortals in stature and in looks,
+17	Nausicaa, the daughter of great-hearted Alcinous,
+18	and beside her two handmaids, who had their beauty from the Graces,
+19	one on either side, by the doorposts; and the shining doors were closed.
+20	And she rushed like a breath of wind to the girl's bed,
+21	and stood above her head and spoke to her,
+22	in the likeness of the daughter of Dymas, famed for ships,
+23	who was of an age with her, and dear to her heart.
+24	In her likeness gray-eyed Athena spoke to her:
+25	“Nausicaa, how did your mother bear you so slack?
+26	Your glossy clothes lie uncared for,
+27	and your marriage is near, when you must wear fine clothes yourself
+28	and provide others for those who will lead you home.
+29	For it is from these things that talk goes up among men,
+30	good talk, and your father and lady mother rejoice.
+31	But let us go to wash when dawn appears;
+32	and I will go with you to help, so that you may make ready
+33	as quickly as can be, since you will not be a maiden much longer;
+34	for already the best men in the land are wooing you,
+35	of all the Phaeacians, where you yourself have your birth.
+36	But come, urge your famous father in the early dawn
+37	to make ready the mules and the wagon, which may carry
+38	the sashes and the robes and the glossy blankets.
+39	And for you yourself it is much finer so than to go
+40	on foot; for the washing troughs are far from the city.”
+41	So saying, gray-eyed Athena went away,
+42	to Olympus, where, they say, the seat of the gods stands
+43	firm forever. It is not shaken by winds, nor ever
+44	wet with rain, nor does snow come near it, but the clear sky
+45	is spread wholly cloudless, and a white gleam runs over it;
+46	in it the blessed gods take their delight all their days.
+47	There the gray-eyed one went away, when she had told the girl all.
+48	And at once Dawn of the fair throne came, and she woke her,
+49	well-robed Nausicaa; and at once she marveled at the dream,
+50	and went through the house to bring the news to her parents,
+51	her dear father and her mother; and she found them within.
+52	Her mother was sitting at the hearth with her handmaids,
+53	turning the sea-purple yarn; and him, as he was going out of doors,
+54	she met on his way to join the famous kings
+55	at the council, to which the noble Phaeacians had called him.
+56	And she stood very close and spoke to her dear father:
+57	“Papa dear, will you not make ready the wagon for me,
+58	high, with good wheels, so that I may take the glorious clothes
+59	to the river to wash them, for they lie soiled?
+60	And for you yourself it is fitting, when you are among the foremost,
+61	to take counsel with clean clothes on your body.
+62	And five dear sons are born to you in the halls,
+63	two married, and three young unmarried men in their bloom;
+64	and they always want to have freshly washed clothes
+65	when they go to the dance; and all these things are a care to my mind.”
+66	So she spoke; for she was ashamed to name her blooming marriage
+67	to her dear father. But he understood everything, and answered her:
+68	“I do not grudge you the mules, my child, nor anything else.
+69	Go; the slaves will make ready the wagon for you,
+70	high, with good wheels, fitted with a frame above.”
+71	So saying, he called to the slaves, and they obeyed.
+72	Outside they made ready the well-wheeled mule wagon,
+73	and led the mules under and yoked them beneath the wagon;
+74	and the girl brought the shining clothing out of her chamber,
+75	and laid it on the polished wagon,
+76	and her mother put in a box food to satisfy the heart,
+77	of every kind, and put in meats, and poured wine
+78	in a goatskin; and the girl mounted the wagon.
+79	And she gave her liquid olive oil in a golden flask,
+80	so that she might bathe and anoint herself, with her handmaids.
+81	And she took the whip and the glossy reins,
+82	and whipped them to a run; and there was a clatter of the mules,
+83	and they strained on without end, and carried the clothing and the girl herself,
+84	not alone; the other handmaids too went along with her.
+85	And when they came to the beautiful stream of the river,
+86	where the washing troughs were, unfailing, and much fair water
+87	welled up and flowed through, to clean even what is very dirty,
+88	there they unyoked the mules and set them free from the wagon,
+89	and drove them along the eddying river
+90	to graze on the honey-sweet grass; and they took from the wagon
+91	the clothes in their hands and carried them into the dark water,
+92	and trampled them in the pits quickly, vying with one another in strife.
+93	But when they had washed and cleansed away all the dirt,
+94	they spread them out in a row along the shore of the sea, just where
+95	the sea, beating on the land, used to wash the pebbles clean.
+96	And when they had bathed and anointed themselves richly with olive oil,
+97	they took their meal then beside the banks of the river,
+98	and waited for the clothes to dry in the rays of the sun.
+99	But when they had taken their fill of food, the slave women and she herself,
+100	they played with a ball, throwing off their veils;
+101	and among them white-armed Nausicaa began the song and dance.
+102	And as Artemis of the showering arrows goes over the mountains,
+103	along towering Taygetus or Erymanthus,
+104	delighting in boars and swift deer,
+105	and with her the nymphs, daughters of aegis-bearing Zeus,
+106	who haunt the fields, play, and Leto is glad at heart;
+107	above them all she holds her head and brow,
+108	and she is easy to know, though all are beautiful;
+109	so she stood out among her handmaids, a maiden unwed.
+110	But when she was about to go back home,
+111	yoking the mules and folding the fine clothes,
+112	then the gray-eyed goddess Athena thought of another thing,
+113	that Odysseus should wake and see the fair-faced girl,
+114	who would lead him to the city of the Phaeacian men.
+115	So then the princess flung the ball to one of her handmaids;
+116	she missed the handmaid, and threw it into a deep eddy;
+117	and they shouted aloud at it; and brilliant Odysseus woke,
+118	and sitting up he pondered in his mind and in his heart:
+119	“Ah me, to the land of what mortals have I come this time?
+120	Are they arrogant and savage and unjust,
+121	or kind to strangers, with a mind that fears the gods?
+122	It is as though a female cry of girls came round me,
+123	of nymphs, who hold the steep peaks of the mountains
+124	and the springs of rivers and the grassy meadows.
+125	Am I perhaps somewhere near men with human voice?
+126	But come, I will make trial myself and see.”
+127	So saying, brilliant Odysseus came out from under the bushes,
+128	and from the thick forest with his strong hand he broke off a branch
+129	of leaves, to cover the man's nakedness about his body.
+130	And he went on like a mountain-bred lion, trusting in his courage,
+131	that goes on, rained upon and blown by the wind, and his eyes
+132	blaze; and he goes after the cattle or the sheep
+133	or after the wild deer; and his belly bids him
+134	make an attempt on the sheep, and go even into the close-built fold;
+135	so Odysseus was about to mingle with the girls of the lovely tresses,
+136	naked though he was; for need had come upon him.
+137	And terrible he appeared to them, afflicted by the brine,
+138	and they fled in fear this way and that over the jutting beaches;
+139	only the daughter of Alcinous stood her ground; for Athena
+140	put daring in her mind and took the fear from her limbs.
+141	She checked herself and stood facing him; and Odysseus pondered
+142	whether he should clasp the knees of the fair-faced girl and beg her,
+143	or, as he was, with soothing words, standing apart,
+144	beg her, if she would show him the city and give him clothes.
+145	And as he pondered, this seemed to him the better way,
+146	to beg her with soothing words, standing apart,
+147	lest the girl be angry in her heart with him if he clasped her knees.
+148	At once he spoke a soothing and shrewd word:
+149	“I implore you, queen: are you some goddess, or a mortal?
+150	If you are one of the gods who hold the wide sky,
+151	to Artemis, the daughter of great Zeus,
+152	I liken you most nearly, in looks and stature and build;
+153	but if you are one of the mortals who live upon the earth,
+154	three times blessed are your father and your lady mother,
+155	and three times blessed your brothers; surely their hearts
+156	are always warmed with gladness because of you,
+157	as they watch such a scion going into the dance.
+158	But he in turn is the most blessed in his heart, beyond all others,
+159	who prevails with his bride-price and leads you to his home.
+160	For never yet have I seen with my eyes such a mortal,
+161	neither man nor woman; awe holds me as I look.
+162	Once in Delos, beside the altar of Apollo, such a thing
+163	I saw, a young sapling of a palm tree springing up;
+164	for I went there too, and many people followed me,
+165	on that journey on which I was to have evil sorrows.
+166	And in the same way, when I saw that, I was astounded in my heart
+167	for a long time, since never yet had such a tree come up from the earth,
+168	as I marvel at you, lady, and am astounded, and I am terribly afraid
+169	to clasp your knees; and hard grief has come upon me.
+170	Yesterday, on the twentieth day, I escaped from the wine-dark sea;
+171	and all that time the wave and the swift storm winds were carrying me
+172	from the island of Ogygia. And now some god has cast me ashore here,
+173	so that, I suppose, I may yet suffer evil here too; for I do not think
+174	it will cease, but the gods will yet accomplish much before that.
+175	But pity me, queen; for it is to you, after toiling through many evils,
+176	that I have come first, and of the others I know no one
+177	of the people who hold this city and land.
+178	Show me the city, and give me a rag to throw around me,
+179	if you had perhaps some wrapping for the clothes when you came here.
+180	And may the gods give you all that you have in your mind,
+181	a husband and a home, and may they grant you oneness of mind,
+182	a noble one; for there is nothing stronger or better than this,
+183	than when, of one mind in their thoughts, they keep house together,
+184	a man and a woman: many sorrows to their enemies,
+185	and joy to their well-wishers; and they themselves know it best.”
+186	And white-armed Nausicaa answered him face to face:
+187	“Stranger, since you seem like neither a base man nor a witless one—
+188	and it is Zeus himself, the Olympian, who deals out prosperity to men,
+189	to the good and to the bad, to each as he wishes;
+190	and he has given you these things, I suppose, and you must endure them all the same—
+191	now, since you have come to our city and our land,
+192	you shall not lack clothing, nor anything else
+193	that is fitting for a much-tried suppliant who has come our way.
+194	I will show you the city, and tell you the name of the people.
+195	The Phaeacians hold this city and land,
+196	and I am the daughter of great-hearted Alcinous,
+197	on whom the strength and the force of the Phaeacians depend.”
+198	She spoke, and gave orders to her handmaids of the lovely tresses:
+199	“Stand still, my handmaids: where are you fleeing at the sight of a man?
+200	Surely you do not think that he is one of the hostile men?
+201	That man does not exist as a living mortal, nor will he ever be born,
+202	who shall come to the land of the Phaeacian men
+203	bringing combat; for we are very dear to the immortals.
+204	And we live far apart in the sea of many waves,
+205	the farthest of men, and no other mortal mingles with us.
+206	But this is some unhappy wanderer who has come here,
+207	whom we must look after now; for they are all from Zeus,
+208	strangers and beggars, and a gift is small but dear.
+209	But, handmaids, give the stranger food and drink,
+210	and bathe him in the river, where there is shelter from the wind.”
+211	So she spoke, and they stood still and called to one another,
+212	and they set Odysseus down in the shelter, as she had ordered,
+213	Nausicaa, the daughter of great-hearted Alcinous;
+214	and beside him they laid a mantle and a tunic for clothing,
+215	and gave him liquid olive oil in a golden flask,
+216	and bade him bathe in the streams of the river.
+217	Then brilliant Odysseus spoke among the handmaids:
+218	“Handmaids, stand off there like that, so that I myself
+219	may wash the brine from my shoulders, and with olive oil
+220	anoint myself all over; for truly it is long since oil was on my skin.
+221	But I will not bathe in front of you; for I am ashamed
+222	to strip naked when I have come among girls of the lovely tresses.”
+223	So he spoke, and they went apart and told the girl.
+224	But brilliant Odysseus washed from his skin with the river water
+225	the brine that covered his back and his broad shoulders,
+226	and from his head he wiped the scurf of the barren sea.
+227	But when he had bathed all over and anointed himself richly,
+228	and had put on the clothes that the maiden unwed had given him,
+229	Athena, child of Zeus, made him
+230	taller to look upon and stouter, and down from his head
+231	she made the thick hair fall, like the hyacinth flower.
+232	And as when a man pours gold around silver,
+233	a skilled man whom Hephaestus and Pallas Athena have taught
+234	every kind of craft, and he accomplishes lovely works,
+235	so she poured grace upon his head and shoulders.
+236	Then he went apart along the shore of the sea and sat down,
+237	shining with beauty and grace; and the girl gazed at him.
+238	Then she spoke among her handmaids of the lovely tresses:
+239	“Hear me, white-armed handmaids, so that I may tell you something.
+240	Not against the will of all the gods who hold Olympus
+241	does this man mingle with the godlike Phaeacians;
+242	for before he seemed to me unsightly,
+243	but now he is like the gods who hold the wide sky.
+244	Would that such a man might be called my husband,
+245	living here, and that it might please him to stay here.
+246	But, handmaids, give the stranger food and drink.”
+247	So she spoke, and they listened closely to her and obeyed,
+248	and set food and drink beside Odysseus.
+249	Then much-enduring brilliant Odysseus drank and ate
+250	greedily; for he had long tasted no food.
+251	But white-armed Nausicaa thought of another thing.
+252	She folded the clothes and put them on the fine wagon,
+253	and yoked the strong-hoofed mules, and mounted herself,
+254	and urged Odysseus on, and spoke to him, and called him by name:
+255	“Rise now, stranger, to go to the city, so that I may send you
+256	to the house of my wise-hearted father, where, I tell you,
+257	you will come to know all the Phaeacians who are the best.
+258	But do just this, for you do not seem to me to be senseless:
+259	while we are going through the fields and the works of men,
+260	so long go with the handmaids behind the mules and the wagon
+261	quickly; and I will lead the way.
+262	But when we set foot in the city, around which runs a rampart,
+263	high, and there is a fine harbor on either side of the city,
+264	and the way in is narrow; and the curving ships are drawn up along the road;
+265	for every man has a slip of his own.
+266	And there is their place of assembly, around the fine precinct of Poseidon,
+267	fitted with hauled stones set deep in the earth.
+268	There they take care of the tackle of the black ships,
+269	cables and sails, and they taper the oars.
+270	For the Phaeacians care nothing for bow or quiver,
+271	but for masts and the oars of ships and balanced ships,
+272	in which they glory as they cross the gray sea.
+273	It is their bitter talk I shun, lest someone hereafter
+274	should blame me; for there are very overbearing men in the land;
+275	and this is what some baser man might say, if he met us:
+276	‘Who is this following Nausicaa, so handsome and tall,
+277	a stranger? Where did she find him? He will be her own husband, surely.
+278	Perhaps she has taken care of some wanderer from his ship,
+279	a man from a far-off people, since none live near us;
+280	or some god has come to her at her prayer, much prayed for,
+281	down from the sky, and he will have her all his days.
+282	It is better so, if she has gone about and found herself a husband
+283	from elsewhere; for truly she dishonors these here in the land,
+284	the Phaeacians, many and noble, who woo her.’
+285	So they will say, and this would be a reproach to me.
+286	And I would be indignant with another girl who did such things,
+287	who against the will of her friends, her father and mother, still living,
+288	mingled with men before she came openly to her marriage.
+289	Stranger, listen to my word quickly, so that as soon as may be
+290	you may win escort and a homecoming from my father.
+291	You will find a splendid grove of Athena near the road,
+292	of poplars; and in it a spring flows, and around it is a meadow;
+293	and there is my father's domain and his flourishing orchard,
+294	as far from the city as a man can make himself heard with a shout.
+295	Sit down there and wait a while, until we
+296	come to the city and reach my father's house.
+297	But when you think that we have reached the house,
+298	then go to the city of the Phaeacians and ask
+299	for the house of my father, great-hearted Alcinous.
+300	It is easy to know, and even a child could lead you,
+301	a little one; for not at all like it are they built,
+302	the houses of the Phaeacians, like the house of Alcinous
+303	the hero. But when the house and the court have hidden you,
+304	go very quickly through the hall, until you come
+305	to my mother; and she sits at the hearth in the light of the fire,
+306	turning the sea-purple yarn, a wonder to see,
+307	leaning against a pillar; and her slave women sit behind her.
+308	And there my father's chair leans against hers,
+309	on which he sits and drinks his wine like an immortal.
+310	Pass him by, and throw your arms around the knees
+311	of my mother, so that you may see the day of your homecoming
+312	rejoicing, and quickly, even if you are from very far away.
+313	If she thinks of you in friendship in her heart,
+314	then there is hope that you will see your friends and reach
+315	your well-built house and your native land.”
+316	So she spoke, and with the shining whip she lashed
+317	the mules; and they quickly left the streams of the river.
+318	And they ran well, and well they stepped out with their feet;
+319	and she drove just so that they could follow on foot,
+320	the handmaids and Odysseus, and she laid on the whip with judgment.
+321	And the sun set, and they came to the famous grove,
+322	sacred to Athena, where brilliant Odysseus sat down.
+323	At once then he prayed to the daughter of great Zeus:
+324	“Hear me, child of aegis-bearing Zeus, Atrytone:
+325	listen to me now at least, since before you never listened
+326	to me when I was being wrecked, when the famous shaker of the earth wrecked me.
+327	Grant that I come to the Phaeacians as one welcomed and pitied.”
+328	So he spoke in prayer, and Pallas Athena heard him.
+329	But she did not yet appear to him face to face; for she respected
+330	her father's brother; and he raged furiously
+331	against godlike Odysseus, until he reached his own land.

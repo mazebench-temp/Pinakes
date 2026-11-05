@@ -1,0 +1,5 @@
+---
+summary: Artemis goes “along towering Taygetus or Erymanthus” in the simile of Nausicaa among her handmaids at play (6.102–104).
+---
+
+As the girls play at ball, Nausicaa begins the song and dance, and the poet likens her to Artemis on the mountains among her nymphs (6.100–109; see [[nausicaa]], [[artemis]] and [[artemis-among-her-nymphs]]). The two mountains he names are hunting country, one in Laconia and one in Arcadia, and the goddess is “delighting in boars and swift deer” (6.104; see [[erymanthus]], [[boar]] and [[deer]]). κατʼ οὔρεα, “over the mountains”, is the reading a scholium prefers; Merry prints κατʼ οὔρεος and pictures her coming down from a peak and ranging along the ridges (Merry, *Commentary on the Odyssey*, 1886, on 6.102 and his critical note; see the translation's note on 6.102). Virgil, turning the simile to Dido, moves Diana's dances to places of his own choosing, “on the banks of the Eurotas or along the ridges of Cynthus” (*Aeneid* 1.498–499): the river of Sparta below Taygetus, and the mountain of Delos (see [[virgils-dido-as-diana]] and [[delos]]).

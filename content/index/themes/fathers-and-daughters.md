@@ -2,7 +2,7 @@
 title: Fathers and daughters
 kind: theme
 tags: [woman, family-of-chryses, kinship]
-summary: The Iliad begins with a father trying to recover his daughter, and daughters stand behind many of its figures: captives named for their fathers, goddesses who are daughters of Zeus, and Helen, daughter of Zeus and daughter-in-law of Priam.
+summary: Fathers and their daughters in Homer. The Iliad begins with a father trying to recover his daughter, and daughters stand behind many of its figures: captives named for their fathers, goddesses who are daughters of Zeus, and Helen, daughter of Zeus and daughter-in-law of Priam. In the Odyssey Nausicaa asks her father for the mule wagon with every reason but her marriage, and he understands everything.
 refs: [1.13, 1.20, 1.95, 1.98, 1.202, 1.358, 1.372, 1.392, 1.441, 1.443, 1.446, 1.447, 1.538, 1.556]
 passages:
   - 1.12-21 | Chryses asks for his daughter

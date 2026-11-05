@@ -7,10 +7,12 @@ summary: Houses of men and gods (δῶμα, δόμος, οἶκος, μέγαρ�
 aliases: [houses, halls, home, palace, megaron]
 # The homes of animals in the similes and the omen are not houses: the wasps' "hollow house" (12.169), the
 # eagle's "own home" (12.221) and the sheepfold, πυκινὸν δόμον (12.301).
-grc: [δώματʼ, οἴκῳ, μεγάροισιν, μεγάροισι, δῶ, δῶμα, δώματα, οἶκον]
+# κίονι, the pillar of the hall against which the queen's chair is set (Od. 6.307), and "καὶ αὐλή", the court of a
+# house (Od. 6.303; later 20.355), are found only in the Odyssey; αὐλή alone is also the yard of a steading.
+grc: [δώματʼ, οἴκῳ, μεγάροισιν, μεγάροισι, δῶ, δῶμα, δώματα, οἶκον, κίονι, "καὶ αὐλή"]
 except: [12.169, 12.221, 12.301]
 refs: [1.608]
-en: [homes, house, halls]
+en: [homes, house, halls, pillar]
 passages:
   - 1.605-611 | The gods go home
 ---

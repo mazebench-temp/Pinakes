@@ -2,7 +2,7 @@
 title: Beauty and its price
 kind: theme
 tags: [body, divine-will, honor]
-summary: Beauty in Homer is a gift of the gods, admired openly and never quite trusted. The Iliad weighs looks against strength and sense, and it makes the most beautiful woman in the world the cause of its war.
+summary: Beauty in Homer is a gift of the gods, admired openly and never quite trusted. The Iliad weighs looks against strength and sense, and it makes the most beautiful woman in the world the cause of its war; in the Odyssey Athena pours beauty and grace on the shipwrecked Odysseus to win him a welcome, and the girl who welcomes him fears what the town will say of so handsome a stranger.
 aliases: [beauty, kallos]
 refs: [2.58, 2.673, 2.674, 2.675, 2.715]
 passages:

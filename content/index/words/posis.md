@@ -9,6 +9,7 @@ aliases: [posis, husband]
 # οὐ πόσις οὐδὲ βρῶσις (19.210, excepted in the Book 19 note); βρῶσίς τε πόσις τε (Od. 10.176, 12.320) will need the same.
 grc: ["=πόσιν", πόσις]
 en: [husband]
+except: [Od. 6.209, Od. 6.246, Od. 6.248]
 ---
 
 ## Meaning

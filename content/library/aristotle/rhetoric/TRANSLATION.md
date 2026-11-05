@@ -409,9 +409,9 @@ gifts and swayed by words” (9.526, at 1410a30–31), the arrow and the spears 
 English follows him: “he rushed on like a lion” (1406b21) is not in our text (the nearest is 20.164);
 he shortens 13.587 to “the arrow flew”; in the Odyssey's shameless stone (11.598) he has “down to the
 ground” for “then to the plain”. Iliad 15.542, “and the point sped through his chest in its fury”
-(1412a2), *Odyssey* 1.1, “Tell me, Muse, of the man” (1415a16), and 4.204, “all that a wise man would”
-(1418a8), keep the library's wording as well; the Odyssey's 6.327, 11.598 and 19.361, from books the
-library has not yet translated, are translated here. Of the tragedians, Euripides' Greeks dart forth “on their feet” (ποσίν, 1411b30)
+(1412a2), *Odyssey* 1.1, “Tell me, Muse, of the man” (1415a16), 4.204, “all that a wise man would”
+(1418a8), and 6.327, “as one welcomed and pitied” (1415b27), keep the library's wording as well; the
+Odyssey's 11.598 and 19.361, from books the library has not yet translated, are translated here. Of the tragedians, Euripides' Greeks dart forth “on their feet” (ποσίν, 1411b30)
 where our *Iphigenia at Aulis* has “with the spear” (80); Hecuba's lines are abridged (*Trojan Women*
 969, 971); the line Aristotle gives to Sophocles, “This land is Calydon” (1409b10), is the opening of
 Euripides' *Meleager*. Aristotle's own examples of style, many of them anonymous, are in quotation marks

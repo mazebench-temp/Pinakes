@@ -15,7 +15,7 @@ relations:
 
 ## Etymology
 
-The name joins καλλι-, “beautiful”, and ἄνασσα, “lady, queen”, the feminine of ἄναξ, “lord”, which Homer uses of Demeter, “Demeter of the lovely tresses, the queen” (14.326), and when Odysseus addresses Nausicaa (*Odyssey* 6.149): “the beautiful queen”. Ianassa, in the next verse, has the same ending (18.47; see [[ianassa]]).
+The name joins καλλι-, “beautiful”, and ἄνασσα, “lady, queen”, the feminine of ἄναξ, “lord”: “the beautiful queen”. Homer uses ἄνασσα four times, of Demeter, “Demeter of the lovely tresses, the queen” (14.326), of Athena in Nestor's prayer (*Odyssey* 3.380), and twice when Odysseus addresses Nausicaa (*Odyssey* 6.149, 6.175). Ianassa, in the next verse, has the same ending (18.47; see [[ianassa]]).
 
 ## In Homer
 

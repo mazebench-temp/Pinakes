@@ -16,7 +16,7 @@ of: [ajax-son-of-oileus, imbrius]
 
 κεφαλὴν δʼ ἁπαλῆς ἀπὸ δειρῆς / κόψεν Ὀϊλιάδης κεχολωμένος Ἀμφιμάχοιο, / ἧκε δέ μιν σφαιρηδὸν ἑλιξάμενος διʼ ὁμίλου· / Ἕκτορι δὲ προπάροιθε ποδῶν πέσεν ἐν κονίῃσι: “and his head from his tender neck the son of Oileus cut off, in his anger for Amphimachus, and with a swing he sent it flying like a ball through the throng; and it fell in the dust in front of Hector's feet” (13.202–205). σφαιρηδόν, “like a ball” (σφαῖρα, “ball”), occurs only here. It is one of the adverbs in -ηδόν that carry a likeness in a single word, as πυργηδόν, “in close order like a tower” (12.43, 13.152). ἑλιξάμενος is “whirling it round” before the throw.
 
-The ball in Homer belongs to play. Nausicaa and her maids play ball on the shore when they have done the washing, and when her throw misses and falls into the river, their cry wakes Odysseus (*Odyssey* 6.100, 6.115–117), and the Phaeacian youths Halius and Laodamas dance with a purple ball, one throwing it up toward the clouds and the other catching it (*Odyssey* 8.370–380). Here the toy is a man's head, and the game is anger. The head is sent at Hector, who has just killed Amphimachus (13.183–187), and it lands at his feet.
+The ball in Homer belongs to play. Nausicaa and her maids play ball on the shore when they have done the washing, and when her throw misses and falls into the river, their cry wakes Odysseus (*Odyssey* 6.100, 6.115–117; see [[ball]]), and the Phaeacian youths Halius and Laodamas dance with a purple ball, one throwing it up toward the clouds and the other catching it (*Odyssey* 8.370–380). Here the toy is a man's head, and the game is anger. The head is sent at Hector, who has just killed Amphimachus (13.183–187), and it lands at his feet.
 
 ## In context
 

@@ -3,9 +3,10 @@ title: Throne
 greek: θρόνος
 kind: object
 tags: [divine-object, kingship]
-summary: The θρόνος, a high seat of honor with a footstool, the seat of gods and of guests honored in a house; the gods' thrones are golden, made by [[Hephaestus]].
+summary: The θρόνος, a high seat of honor with a footstool, the seat of gods, of kings and of guests honored in a house; the gods' thrones are golden, made by [[Hephaestus]].
 aliases: [thrones, golden throne]
-grc: [θρόνου, χρυσόθρονος]
+# θρόνος, the nominative, only at Od. 6.308, the king's chair at the hearth.
+grc: [θρόνου, χρυσόθρονος, θρόνος]
 en: [throne]
 ---
 

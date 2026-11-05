@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet]
 summary: The most frequent epithet of [[Hera]], “with white arms,” a mark of beauty, given also to mortal women, among them [[Helen]].
 aliases: [leukolenos]
-grc: [λευκώλενος, λευκωλένῳ]
+grc: [λευκώλενος, λευκωλένῳ, λευκώλενοι]
 en: [white-armed]
 of: [hera, helen, andromache]
 ---

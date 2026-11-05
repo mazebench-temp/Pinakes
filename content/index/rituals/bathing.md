@@ -5,8 +5,11 @@ kind: ritual
 tags: [feast, purification]
 summary: Washing the body with water and anointing it with oil, the care given to a guest, to a man back from toil or battle, and to the dead. The Iliad tells the bath of living men only once, at the end of Odysseus' and Diomedes' night raid; in the Odyssey a bath belongs to the welcome of every guest.
 aliases: [bath, baths, bathtub, bathtubs, washing, anointing, asaminthos]
-grc: ["λου*", "λοε*", "ἀσαμίνθ*", "λίπʼ ἐλαίῳ", ἀπενίζοντο, "νίψεν ἀπὸ χρωτὸς"]
-en: [bathed, bathtubs, anointed themselves richly with olive oil, washed off the heavy sweat]
+# The words of the bath in the river, found only in Odyssey 6: χυτλώσαιτο (6.80), ἀπολούσομαι (6.219), χρίσομαι and
+# "χροός ἐστιν ἀλοιφή" (6.220; ἀλοιφή alone is also the fat of swine, Il. 9.208, Od. 8.476), νίζετο (6.224), ἔσμηχεν
+# (6.226), "λίπʼ ἄλειψεν" (6.227).
+grc: ["λου*", "λοε*", "ἀσαμίνθ*", "λίπʼ ἐλαίῳ", ἀπενίζοντο, "νίψεν ἀπὸ χρωτὸς", χυτλώσαιτο, ἀπολούσομαι, χρίσομαι, "χροός ἐστιν ἀλοιφή", νίζετο, ἔσμηχεν, "λίπʼ ἄλειψεν"]
+en: [bathed, bathtubs, anointed themselves richly with olive oil, washed off the heavy sweat, bathe and anoint herself, anoint myself all over, anointed himself richly]
 ---
 
 ## The custom
@@ -29,4 +32,4 @@ A bath for a horse is part of a stallion's ease: the horse of the simile, broken
 
 ## In the Odyssey
 
-In the Odyssey the bath belongs to the welcome of a guest, before the meal: at Pylos Nestor's youngest daughter Polycaste bathes Telemachus (Od. 3.464–468); at Sparta Telemachus and Peisistratus step into polished tubs and the handmaids bathe and anoint them (Od. 4.48–51); in the house of Alcinous the handmaids bathe Odysseus before the feast, in water that Arete has had heated in a tripod (Od. 8.433–437, 8.449–457), and in Circe's house a handmaid bathes him to take the weariness from his limbs (Od. 10.358–365). The Phaeacians count warm baths among their pleasures, with the feast, the lyre, dancing, changes of clothes and beds (Od. 8.248–249). Silver bathtubs were a king's gift: Polybus of Egyptian Thebes gave two to Menelaus (Od. 4.128). At the end of the poem the housekeeper bathes Odysseus and a Sicilian servant bathes Laertes, and Athena makes each of them taller and stronger to look at as he steps from the tub (Od. 23.153–163, 24.365–370).
+In the Odyssey the bath belongs to the welcome of a guest, before the meal: at Pylos Nestor's youngest daughter Polycaste bathes Telemachus (Od. 3.464–468); at Sparta Telemachus and Peisistratus step into polished tubs and the handmaids bathe and anoint them (Od. 4.48–51); on Scheria Nausicaa bids her handmaids bathe the shipwrecked stranger in the river, but he sends them apart and washes the brine from himself (Od. 6.209–227); in the house of Alcinous the handmaids bathe Odysseus before the feast, in water that Arete has had heated in a tripod (Od. 8.433–437, 8.449–457), and in Circe's house a handmaid bathes him to take the weariness from his limbs (Od. 10.358–365). The Phaeacians count warm baths among their pleasures, with the feast, the lyre, dancing, changes of clothes and beds (Od. 8.248–249). Silver bathtubs were a king's gift: Polybus of Egyptian Thebes gave two to Menelaus (Od. 4.128). At the end of the poem the housekeeper bathes Odysseus and a Sicilian servant bathes Laertes, and Athena makes each of them taller and stronger to look at as he steps from the tub (Od. 23.153–163, 24.365–370).

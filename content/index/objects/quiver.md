@@ -5,7 +5,8 @@ kind: object
 tags: [weapon, divine-object]
 summary: The case for arrows, φαρέτρη, carried on the shoulder and closed with a lid. Apollo, Teucer, Pandarus and Odysseus carry one.
 aliases: [quivers, arrow-case]
-grc: [ἀμφηρεφέα τε φαρέτρην]
+# φαρέτρη, the nominative (Od. 6.270; later 21.11), is found only in the Odyssey.
+grc: [ἀμφηρεφέα τε φαρέτρην, φαρέτρη]
 en: [close-covered quiver, quiver]
 ---
 

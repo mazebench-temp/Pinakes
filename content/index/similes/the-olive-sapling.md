@@ -24,7 +24,7 @@ Then the wind turns: ἐλθὼν δʼ ἐξαπίνης ἄνεμος σὺν �
 
 The tenor: τοῖον Πάνθου υἱὸν ἐϋμμελίην Εὔφορβον / Ἀτρεΐδης Μενέλαος ἐπεὶ κτάνε τεύχεʼ ἐσύλα, “such was the son of Panthous, Euphorbus of the good ash spear, / whom Menelaus, son of Atreus, killed, and began to strip of his armor” (17.59–60). The likeness is of youth and beauty cut off at the height of their growth. The verses just before have shown the dead man's hair: “His hair was drenched with blood, hair like the Graces', / and his braids, which were bound tight with gold and silver” (17.51–52; see [[graces]] and [[gold-and-silver]]). The blossom of the tree answers the bright hair, and the man who rears the sapling with such care answers the parents of whom Euphorbus has just spoken (17.34–40; see [[panthous]]).
 
-Leaf compares Odysseus' words to Nausicaa, whom he likens to the young shoot of a palm that he once saw by the altar of Apollo at Delos (*Odyssey* 6.162–167). He also reports that Hehn, holding that only the wild olive was known in early Homeric times, took this cultivated tree as proof that the passage is late, a view he calls founded “on very weak grounds” (on 17.53).
+Leaf compares Odysseus' words to Nausicaa, whom he likens to the young sapling of a palm that he once saw by the altar of Apollo at Delos (*Odyssey* 6.162–167; see [[the-palm-on-delos]]). He also reports that Hehn, holding that only the wild olive was known in early Homeric times, took this cultivated tree as proof that the passage is late, a view he calls founded “on very weak grounds” (on 17.53).
 
 ## In context
 

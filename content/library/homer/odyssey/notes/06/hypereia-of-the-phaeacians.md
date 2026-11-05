@@ -1,0 +1,9 @@
+---
+summary: The book opens with the Phaeacians' past. They “once lived in Hypereia with its wide dancing floors”, near the Cyclopes, who used to plunder them, until Nausithous led them away to Scheria (6.4–8).
+# The English "Hypereia" (6.4) is claimed here, within the Odyssey only: in the Iliad the name is the Thessalian spring.
+en: [Hypereia]
+---
+
+Athena's journey to the city is the occasion for the history: “but Athena / went to the land and the city of the Phaeacian men, / who once lived in Hypereia with its wide dancing floors, / near the Cyclopes, overweening men” (6.2–5; see [[athena]], [[phaeacians]] and [[cyclopes]]). εὐρυχόρῳ, “with its wide dancing floors”: Eustathius explains the word in Homer as a place where there is room to dance, and in later writers as merely “spacious” (Merry, *Commentary on the Odyssey*, 1886, on 6.4; see the translation's note on 6.4 and [[with-wide-dancing-floors]]). For the name Merry refers to his note on Scheria (on 6.4; on 5.34), where he takes the two names for the “Highlands” and the “Coast” (see [[scheria]]).
+
+What the old home had was neighbors. The Cyclopes “used to plunder them, and were the stronger in strength” (6.6), and the move to Scheria put the Phaeacians “far from toiling men” (6.8; see [[toiling-men]]); the founder walled the new city first of all (6.9; see [[the-city-of-the-phaeacians]] and [[the-migration-of-the-phaeacians]]). The rest of the book speaks from the other side of the move. Nausicaa tells her handmaids that the Phaeacians live “far apart in the sea of many waves, / the farthest of men, and no other mortal mingles with us” (6.204–205), and the baser man of her imagined gossip takes Odysseus for “a man from a far-off people, since none live near us” (6.279). ἐπεί gives the reason for τηλεδαπῶν: he must have come from a distant place, “inasmuch as we have no near neighbours” (Merry on 6.279; see [[nausicaa]]).

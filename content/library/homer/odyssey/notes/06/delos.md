@@ -1,0 +1,7 @@
+---
+summary: Odysseus has seen nothing like Nausicaa except a young palm springing up beside the altar of Apollo on Delos, where he once came with a great following, “on that journey on which I was to have evil sorrows” (6.162–167).
+---
+
+Delos is the place of the memory in Odysseus' supplication. Having likened Nausicaa to Artemis (6.151–152; see [[artemis]]), he sets beside her the one sight he can match with her, at the altar of Artemis' brother: “Once in Delos, beside the altar of Apollo, such a thing / I saw, a young sapling of a palm tree springing up” (6.162–163; see [[apollo]], [[altar]] and [[the-palm-on-delos]]). The scholia, as Merry reports them, refer the tree to the first palm, by which Leto gave birth (Merry, *Commentary on the Odyssey*, 1886, on 6.162, citing Euripides, *Hecuba* 458; see [[leto]] and [[palm]]); the poem says only that it stood by the altar.
+
+He explains why he was there: “for I went there too, and many people followed me, / on that journey on which I was to have evil sorrows” (6.164–165). In ἦλθον … τὴν ὁδόν, “I went … on that journey”, the accusative gives the sphere of the verb's action, as in βουλὰς βουλεύειν, “to take counsel” (6.61; Merry on 6.164 and 6.61). He does not name Troy, and Merry takes the journey for the voyage from Aulis to Troy, by way of the Cyclades and Delos (on 6.162; see [[odysseus]]). For the reading μέλλεν, “was to”, see the translation's note on 6.165.

@@ -3,9 +3,9 @@ title: With human voice
 greek: αὐδήεις
 kind: epithet
 tags: [speech, rare-word]
-summary: “Having speech, with human voice,” αὐδήεις: in the Iliad once, of the horse Xanthus, to whom Hera gives speech; in the Odyssey of Circe, Calypso and Ino, goddesses who speak with men.
+summary: “Having speech, with human voice,” αὐδήεις: in the Iliad once, of the horse Xanthus, to whom Hera gives speech; in the Odyssey of Circe, Calypso and Ino, goddesses who speak with men, and once of men, when Odysseus wakes on Scheria and wonders whether he is near men with human voice.
 aliases: [audeeis, endowed with speech, vocal]
-grc: [αὐδήεντα]
+grc: [αὐδήεντα, αὐδηέντων]
 en: [gave him speech]
 of: [xanthus-the-horse]
 ---

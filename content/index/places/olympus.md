@@ -3,7 +3,7 @@ title: Olympus
 greek: Ὄλυμπος
 kind: place
 tags: [mountain, cosmic, thessaly]
-summary: The mountain home of the gods, snowy and many-ridged, where each god has a house built by [[Hephaestus]].
+summary: The mountain home of the gods, where each god has a house built by [[Hephaestus]]: snowy and many-ridged in the Iliad, and in the Odyssey a seat that no wind shakes and no rain or snow comes near.
 aliases: [Olympos, Oulympos]
 grc: [Ὄλυμπον, Ὀλύμπου, Ὀλύμπῳ, Οὐλυμπ*, "Ὀλύμπια δώματ*"]
 en: [Olympus]
@@ -40,5 +40,7 @@ passages:
 In the Odyssey it is already becoming an idealized heaven, never shaken by winds or wet with rain or snow (*Odyssey* 6.42–46), where *Iliad* 1 imagines it with snow.
 
 ## Outside Homer
+
+Lucretius gave the Odyssey's picture to the gods of Epicurus, whose quiet abodes no winds shake, no clouds sprinkle with rain and no snow, hardened by the sharp frost, mars as it falls, but the cloudless upper air always covers them and smiles with light spread far and wide (*On the Nature of Things* 3.18–22; see [[lucretius]]). For the passage in other later writers see [[the-seat-of-the-gods-in-later-writers]].
 
 Mount Olympus, on the border of Thessaly and Macedonia, is the highest mountain in Greece, 2,917 meters at Mytikas.
