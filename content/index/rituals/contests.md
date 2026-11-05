@@ -3,7 +3,7 @@ title: Contests
 greek: ἄεθλος
 kind: ritual
 tags: [exchange, honor]
-summary: Athletic contests (ἄεθλοι) for prizes, held in Homer at a funeral or in honor of a guest. Tydeus, alone among the Cadmeians, challenges them to contests and wins them all; the fullest account is the funeral games of Patroclus in *Iliad* 23.
+summary: Athletic contests (ἄεθλοι), held in Homer at a funeral, for prizes, or in honor of a guest. Tydeus, alone among the Cadmeians, challenges them to contests and wins them all; the fullest accounts are the funeral games of Patroclus in *Iliad* 23 and the games of the Phaeacians in *Odyssey* 8.
 aliases: [games, athletic contests, athletics, funeral games, athla]
 grc: [ἀεθλεύειν]
 en: [contests]
@@ -19,8 +19,8 @@ passages:
 
 Games in the poems are held at a funeral or in honor of a guest.
 
-- **Funeral games.** Achilles holds games for Patroclus, with prizes for the chariot race, boxing, wrestling, the footrace, armed combat, the throw of a lump of iron, archery and the spear (23.257–897; see [[the-funeral-games-of-patroclus]]). Nestor remembers the games for Amarynceus at Buprasium, where he won everything but the chariot race (23.629–642; see [[the-funeral-games-of-amarynceus]] and [[amarynceus]]), and Euryalus' father Mecisteus went to Thebes for the funeral of Oedipus “and there he defeated all the Cadmeians” (23.677–680; see [[mecisteus]]). In the underworld Agamemnon tells Achilles of the games held at his own funeral (Odyssey 24.85–92).
-- **Games for a guest.** The Phaeacians hold games in Odysseus' honor and taunt him into joining; he throws the discus far beyond them all (Odyssey 8.97–255).
+- **Funeral games.** Achilles holds games for Patroclus, with prizes for the chariot race, boxing, wrestling, the footrace, armed combat, the throw of a lump of iron, archery and the spear (23.257–897; see [[the-funeral-games-of-patroclus]]). Nestor remembers the games for Amarynceus at Buprasium, where he won everything but the chariot race (23.629–642; see [[the-funeral-games-of-amarynceus]] and [[amarynceus]]), and Euryalus' father Mecisteus went to Thebes for the funeral of Oedipus “and there he defeated all the Cadmeians” (23.677–680; see [[mecisteus]]). In the underworld Agamemnon tells Achilles of the games held at his own funeral (*Odyssey* 24.85–92).
+- **Games for a guest.** The Phaeacians hold games in Odysseus' honor and taunt him into joining; he throws the discus far beyond them all (*Odyssey* 8.97–265; see [[the-games-of-the-phaeacians]]). They give no prizes: the games are held so that the stranger may tell at home how far the Phaeacians surpass other men (*Odyssey* 8.100–103).
 
 ## Tydeus
 

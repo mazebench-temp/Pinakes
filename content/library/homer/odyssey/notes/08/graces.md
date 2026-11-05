@@ -1,0 +1,9 @@
+---
+summary: When Aphrodite is loosed from Hephaestus' bonds and comes to Paphos, the Graces wash her, anoint her with immortal oil, and clothe her in lovely garments (8.364–366).
+# Unnamed: they anoint and clothe her (8.365-366).
+refs: [8.365-366]
+---
+
+**At Paphos.** At the end of Demodocus' second song Aphrodite goes to Cyprus, “to Paphos, where she has a precinct and a fragrant altar. / There the Graces washed her and anointed her with oil / immortal, such as is upon the gods who live forever, / and they clothed her in lovely garments, a wonder to see” (8.363–366; see [[aphrodite]], [[paphos]] and [[the-song-of-ares-and-aphrodite]]). They are her attendants, as in the Iliad, where the robe Diomedes' spear pierced was the one “that the Graces themselves had made for her” (*Iliad* 5.338). The bath, the oil and the garments are the adornment of a goddess (see [[the-adornment-of-a-goddess]]), and three of the verses return in the *Hymn to Aphrodite*, where the Graces bathe and anoint her at Paphos before she goes to Anchises (*Hymn* 5.58–63; see [[aphrodite-and-anchises]]). ἐπενήνοθεν: “such as deck the everliving gods”, or, with the oil as subject, it “is shed over” them (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.365; see the translation's note on 8.365). In Book 18 Athena gives Penelope the ambrosial beauty with which well-crowned Cytherea anoints herself when she goes to the lovely dance of the Graces (18.192–194).
+
+**Grace.** The book begins with grace as a gift of Athena: “for upon him Athena / poured a wondrous grace, upon his head and shoulders” (8.18–19; see [[athena]], [[charis]] and [[gold-poured-around-silver]]), the common word χάρις that the Graces are as goddesses. In Book 6 Nausicaa's handmaids “had their beauty from the Graces” (6.18; see the Book 6 note).

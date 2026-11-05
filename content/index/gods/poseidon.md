@@ -12,7 +12,9 @@ aliases: [Poseidaon]
 # and Book 7 notes.
 # ἐννοσίγαιος, "shaker of the earth", is likewise always Poseidon (Od. 5.423, and later 6.326, 9.518, 11.102, 11.241,
 # 13.140; twenty lines of the Iliad, which its Book 7 note claims within the Iliad).
-grc: [Ποσειδάων, Ποσειδάωνος, Ποσειδάωνι, Ποσείδαον, "ἐνοσίχθ*", "ἐννοσίγαι*"]
+# Ποσειδάωνα, the accusative (Od. 8.344), is Poseidon wherever it occurs; the Iliad's Book 8 note claims it within the
+# Iliad (Il. 8.200, 15.8).
+grc: [Ποσειδάων, Ποσειδάωνος, Ποσειδάωνι, Ποσειδάωνα, Ποσείδαον, "ἐνοσίχθ*", "ἐννοσίγαι*"]
 en: [Poseidon]
 passages:
   - 1.396-406 | The plot to bind Zeus

@@ -5,7 +5,7 @@ kind: epithet
 tags: [ship, seafaring]
 summary: “With long oars,” δολιχήρετμος, an epithet of ships and of the seafaring Phaeacians, found only in the Odyssey.
 aliases: [dolicheretmos, with long oars]
-# δολιχήρετμοι (Od. 8.191, 8.369, 13.166) and δολιχηρέτμοιο (Od. 19.339, 23.176) to be added with their books.
+# δολιχήρετμοι is claimed in the Odyssey Book 8 note (8.191, 8.369, 13.166); δολιχηρέτμοιο (Od. 19.339, 23.176) to be added with its books.
 grc: [δολιχηρέτμοισι]
 en: [long-oared]
 of: [ships, phaeacians]

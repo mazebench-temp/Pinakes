@@ -3,15 +3,15 @@ title: Honored like a god
 greek: θεὸς δʼ ὣς τίετο δήμῳ
 kind: epithet
 tags: [heroic-epithet, honor, kingship]
-summary: “He was honored by the people like a god,” a verse-end formula for kings, priests and leaders whom their people revere: Agamemnon, Aeneas, Thoas, and two priests whose sons are killed.
-aliases: [honored by the people like a god, theos d' hos tieto demo]
+summary: “He was honored by the people like a god,” a verse-end formula for kings, priests and leaders whom their people revere: Agamemnon, Aeneas, Thoas, and two priests whose sons are killed; the Odyssey gives the singer Demodocus a shorter verse-end of the same honor, “honored by the people.”
+aliases: [honored by the people like a god, honored by the people, theos d' hos tieto demo]
 grc: [τίετο δήμῳ]
 en: [honored by the people like a god]
 ---
 
 ## Meaning
 
-θεὸς δʼ ὣς (“like a god”) + τίετο (“was honored,” from τίω; [[time]]) + δήμῳ (“by the people,” or “in the land”; [[demos]]): “he was honored by the people like a god.” The half-verse ends the line six times in Homer. It describes two priests, Dolopion, priest of the Scamander, whose son Hypsenor Eurypylus kills (5.76–83), and Onetor, priest of Idaean Zeus, whose son Laogonus Meriones kills (16.603–607); Agamemnon (10.32–33); Aeneas, whom the Trojans honor like a god (11.58); Thoas, who rules the Aetolians, in whose voice Poseidon speaks to Idomeneus (13.215–218); and in the Odyssey the rich Cretan Castor whom the disguised Odysseus claims as his father (Od. 14.204–206). The honor is the people's, and in four of the six it is recalled at a moment of loss or deceit. Compare [[like-a-god]], [[equal-to-the-gods]] and [[godlike]].
+θεὸς δʼ ὣς (“like a god”) + τίετο (“was honored,” from τίω; [[time]]) + δήμῳ (“by the people,” or “in the land”; [[demos]]): “he was honored by the people like a god.” The half-verse ends the line six times in Homer. It describes two priests, Dolopion, priest of the Scamander, whose son Hypsenor Eurypylus kills (5.76–83), and Onetor, priest of Idaean Zeus, whose son Laogonus Meriones kills (16.603–607); Agamemnon (10.32–33); Aeneas, whom the Trojans honor like a god (11.58); Thoas, who rules the Aetolians, in whose voice Poseidon speaks to Idomeneus (13.215–218); and in the Odyssey the rich Cretan Castor whom the disguised Odysseus claims as his father (Od. 14.204–206). The honor is the people's, and in four of the six it is recalled at a moment of loss or deceit. The Odyssey has a shorter verse-end of the same honor for the singer Demodocus, λαοῖσι τετιμένος, “honored by the people” (*Odyssey* 8.472, 13.28). Compare [[like-a-god]], [[equal-to-the-gods]] and [[godlike]].
 
 ## Use
 

@@ -29,7 +29,7 @@ The appeals come at the poem's beginning and before its great efforts of memory:
 
 ## Elsewhere in Homer
 
-Odysseus praises the singer Demodocus for telling the Achaeans' sufferings in order, “as if you had been present yourself, or heard it from another” (*Odyssey* 8.487–491). The Muse or Apollo taught him. Presence and hearsay are the two sources of knowledge that the invocation of *Iliad* 2 sets against each other (2.485–486).
+Odysseus praises the singer Demodocus for telling the Achaeans' sufferings in order, “as if perhaps you had been present yourself, or heard it from another” (*Odyssey* 8.487–491). The Muse or Apollo taught him. Presence and hearsay are the two sources of knowledge that the invocation of *Iliad* 2 sets against each other (2.485–486).
 
 ## Outside Homer
 

@@ -1,0 +1,5 @@
+---
+summary: When Hephaestus looses the bonds, Ares springs up and goes off to Thrace, his own country, while Aphrodite goes to Cyprus (8.360–362).
+---
+
+“And the two, when they were loosed from the bonds, strong as they were, / sprang up at once, and he went his way to Thrace, / and she, laughter-loving Aphrodite, came to Cyprus” (8.360–362; see [[ares]], [[aphrodite]] and [[cyprus]]). Θρῄκηνδε, “to Thrace”, with the suffix of motion toward a place, is found only here in Homer; the Iliad has the adverb of motion from it, Θρῄκηθεν, of the two winds that blow from Thrace and of the wine that the Achaean ships bring from it (*Iliad* 9.5, 9.72). Each of the lovers goes home, and Thrace is the home of Ares in the Iliad as well, where he and his son Rout arm themselves to go out “from Thrace” to war (*Iliad* 13.301; see [[ares-and-rout]]). The god whom the gods have just called “the swiftest of the gods who hold Olympus”, caught by the slow and lame Hephaestus (8.329–332), leaves without a word, and the song gives the goddess the last verses, at Paphos (8.362–366; see [[paphos]] and [[the-song-of-ares-and-aphrodite]]).

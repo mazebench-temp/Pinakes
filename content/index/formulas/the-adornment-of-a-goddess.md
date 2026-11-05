@@ -15,8 +15,8 @@ passages:
 ## The pattern
 
 1. **The chamber.** The goddess goes into a closed room, her chamber or her temple, and shuts the doors: ἔνθʼ ἥ γʼ εἰσελθοῦσα θύρας ἐπέθηκε φαεινάς, “There she went in and closed the shining doors” (14.169; *Hymn* 5.60).
-2. **Bath and oil.** She is cleansed and anointed with an oil that only gods have: Hera cleanses her body with ambrosia and anoints it with “olive oil, / ambrosial and sweet, which had been perfumed for her” (14.171–172); at Paphos the Graces bathe Aphrodite and anoint her “with immortal oil, such as is on the gods who live forever” (*Odyssey* 8.364–365; *Hymn* 5.61–63). The verse ἀμβροσίῳ ἑδανῷ, τό ῥά οἱ τεθυωμένον ἦεν is found in Homer only of Hera (14.172) and in the Hymn of Aphrodite (*Hymn* 5.63; see the translation's note on 14.172 and [[ambrosia]]).
-3. **Dress and ornaments.** Hair, robe, pins, girdle, earrings, veil and sandals for Hera (14.175–186); “lovely clothes” for Aphrodite in the Odyssey (*Odyssey* 8.366), fine clothes and gold in the Hymn to Aphrodite (*Hymn* 5.64–65), and in the sixth Hymn a crown, earrings and golden necklaces put on her by the Hours (*Hymn* 6.5–13).
+2. **Bath and oil.** She is cleansed and anointed with an oil that only gods have: Hera cleanses her body with ambrosia and anoints it with “olive oil, / ambrosial and sweet, which had been perfumed for her” (14.171–172); at Paphos the Graces wash Aphrodite and anoint her “with oil / immortal, such as is upon the gods who live forever” (*Odyssey* 8.364–365; *Hymn* 5.61–63). The verse ἀμβροσίῳ ἑδανῷ, τό ῥά οἱ τεθυωμένον ἦεν is found in Homer only of Hera (14.172) and in the Hymn of Aphrodite (*Hymn* 5.63; see the translation's note on 14.172 and [[ambrosia]]).
+3. **Dress and ornaments.** Hair, robe, pins, girdle, earrings, veil and sandals for Hera (14.175–186); “lovely garments” for Aphrodite in the Odyssey (*Odyssey* 8.366), fine clothes and gold in the Hymn to Aphrodite (*Hymn* 5.64–65), and in the sixth Hymn a crown, earrings and golden necklaces put on her by the Hours (*Hymn* 6.5–13).
 4. **The summary.** One verse sums up the whole, the κόσμος, “adornment”: αὐτὰρ ἐπεὶ δὴ πάντα περὶ χροῒ θήκατο κόσμον, “But when she had put all her adornment about her body” (14.187), as the Hours do for Aphrodite (αὐτὰρ ἐπειδὴ πάντα περὶ χροῒ κόσμον ἔθηκαν, *Hymn* 6.14).
 5. **The journey and the effect.** She goes out, swiftly, to the one she means to win, and the effect of her beauty is told: Zeus is seized with desire (14.293–296), Anchises gazes at her and wonders (*Hymn* 5.84–90), and the gods each wish to make her his wedded wife (*Hymn* 6.15–18).
 
@@ -26,7 +26,7 @@ The dressing scene of a man rising to go out at night or at dawn shares one vers
 
 ## Elsewhere in Homer
 
-In the Odyssey Aphrodite, freed from Hephaestus' net, goes to Paphos, where her sanctuary and fragrant altar are, “and there the Graces bathed her and anointed her with oil” and put lovely clothes on her (*Odyssey* 8.362–366; see [[aphrodite]] and [[graces]]). Athena makes Penelope beautiful for the suitors while she sleeps, cleansing her face with the ambrosial beauty with which Aphrodite anoints herself when she goes to the dance of the Graces, and making her taller, fuller and whiter than ivory (*Odyssey* 18.190–196).
+In the Odyssey the scene closes Demodocus' song of Ares and Aphrodite, when the Graces bathe, anoint and clothe the goddess at Paphos (*Odyssey* 8.362–366; see [[aphrodite]] and [[graces]]). Athena makes Penelope beautiful for the suitors while she sleeps, cleansing her face with the ambrosial beauty with which Aphrodite anoints herself when she goes to the dance of the Graces, and making her taller, fuller and whiter than ivory (*Odyssey* 18.190–196).
 
 ## Outside Homer
 

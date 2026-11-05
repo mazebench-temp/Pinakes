@@ -1,0 +1,25 @@
+---
+summary: Poseidon comes into the book twice. In Demodocus' second song he is the first of the gods to come to the doorway, the one god who does not laugh at Ares and Aphrodite in the bonds, and the one who persuades Hephaestus to let Ares go, standing surety himself for the adulterer's fine. At the end of the book Alcinous recalls the saying of his father Nausithous, that Poseidon begrudged the Phaeacians their safe escort of all men, and would one day shatter one of their ships as it came back from an escort and cover their city round about with a great mountain.
+# Ποσειδάωνα (8.344) is claimed by the entry. Unnamed: his promises (8.347-348, 8.356); the ship he would shatter and
+# the mountain (8.567-569); "these things the god may bring to pass" (8.570-571).
+refs: [8.347-348, 8.356, 8.567-571]
+passages:
+  - 8.344-358 | Poseidon's surety
+  - 8.564-571 | Nausithous' prophecy
+---
+
+**In the doorway.** When Hephaestus calls the gods to see the lovers caught, “there came Poseidon, the earth-holder; there came the great helper / Hermes; and far-working lord Apollo came” (8.322–323; see [[earth-holder]], [[hermes]], [[apollo]] and [[olympians]]). Poseidon and Hermes come in the words of the Iliad's list of the gods who went to the Achaean ships at the start of the battle of the gods, Ποσειδάων γαιήοχος ἠδʼ ἐριούνης / Ἑρμείας (*Iliad* 20.34–35), where Hephaestus goes with them (*Iliad* 20.36).
+
+**The surety.** The other gods laugh; Poseidon does not:
+
+{{quote:b16de364-5812-5df4-9c37-d19678630752}}
+
+Merry explains why it is he who intercedes: Poseidon is represented as the most venerable of the gods of Olympus, next to Zeus, and he was besides uncle to Ares (*Commentary on the Odyssey*, 1886, on 8.344; see [[ares]]). His promise is that Ares himself “shall pay all just requital in public presence of all the gods” (Merry on 8.347). Hephaestus' refusal turns on δειλός (see [[pledges-for-the-worthless]]). Nitzsch took it as “weak”, after one interpretation in the scholia, so that the surety a weak man gets is a weak security; Merry, after the other, as “sorry”, “wretched”: “Even surety for a sorry fellow is a sorry thing to hold in hand”, since Ares is a slippery fellow, and Hephaestus cannot put his surety in chains until the debt is paid (on 8.351; see [[hephaestus]] and the translation's notes on 8.351 and 8.352–353). Eustathius makes the middle ἐγγυάασθαι the act of the one who takes the pledge (Merry on 8.351; see the translation's key-word row). Poseidon answers by binding himself, “I myself will pay you this” (8.356), and Hephaestus cannot refuse him (8.358). The vocative Ποσείδαον γαιήοχε (8.350) is the address of prayers to him, the prayer that Athena, in the likeness of Mentor, makes at Pylos (3.55) and the Cyclops' to his father (9.528); for ἐνοσίχθων, “the earth-shaker” (8.354), see [[earth-shaker]]. Nothing more is said of the fine: the lovers spring up and go, he to Thrace, she to Cyprus (8.360–363).
+
+**The grudge.** At the end of the book Alcinous, asking the stranger his land so that the Phaeacian ships may take him there, remembers a saying of his father:
+
+{{quote:d33f4ce4-73b7-5faa-9c41-f66d384f57b0}}
+
+Merry: the Phaeacians' immunity from harm, ἀπήμονες (8.566), was equivalent to independence of Poseidon's authority and power, and this is why he was jealous (on 8.566; see [[the-jealousy-of-the-gods]] and the translation's key-word row on ἄγαμαι). The mountain is not one to be hurled on the city: he would pen them in with a mountain wall and so cut off their access to the water, and put an end to their seafaring life (Merry on 8.569, comparing ἀμφεκάλυψε of a shield held around a man, *Iliad* 8.331; see the translation's note on 8.569). What he begrudges is the use they make of the gift that, as Athena told Odysseus, he gave them himself, the crossing of the great gulf (7.34–35; see the Book 7 note), and the people he would punish are the descendants of his own son Nausithous (7.56–62; see [[nausithous]], [[phaeacians]], [[pompe]] and [[the-migration-of-the-phaeacians]]). Alcinous leaves the outcome to the god: “these things the god may bring to pass, / or they may be left unfulfilled, as is the pleasure of his heart” (8.570–571).
+
+**The prophecy in Book 13.** When the Phaeacians have carried Odysseus home asleep, Poseidon complains to Zeus that he will no longer be honored among the gods when mortals do not honor him, the Phaeacians, who are of his own lineage, ἐμῆς ἔξ εἰσι γενέθλης (13.128–138), and proposes to shatter their ship and cover their city with a great mountain (13.149–152). Zeus counsels him to turn the ship to stone near the land, so that all may marvel, and to cover their city with a great mountain (13.154–158). Poseidon turns it to stone as it comes in (13.159–164), and Alcinous knows the prophecies spoken long ago by his father, in the verses of this book (13.172–178). The Phaeacians resolve to give up their escorts and to sacrifice twelve bulls to Poseidon, in the hope that he may pity them and not cover their city with the mountain, and the poem leaves them praying around the altar (13.179–187).

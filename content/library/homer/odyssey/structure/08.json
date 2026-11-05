@@ -1,0 +1,385 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 45,
+      "title": "The Assembly of the Phaeacians",
+      "summary": "At dawn Alcinous leads the Phaeacians to their place of assembly by the ships. Athena, in the likeness of his herald, has called the leaders together, and she pours grace on Odysseus, making him taller and stouter to look upon. Alcinous asks for an escort for the stranger: a ship on her first voyage and fifty-two of the best young men; the kings are to feast him in the palace, and the herald is to call the divine singer Demodocus."
+    },
+    {
+      "from": 46,
+      "to": 103,
+      "title": "The First Song of Demodocus",
+      "summary": "The young men make the ship ready and come to the palace, which fills with people; Alcinous sacrifices twelve sheep, eight boars and two oxen. The herald leads in the blind singer, whom the Muse loved and gave both good and evil, and Pontonous sets his chair against a pillar and hangs his lyre above him. Demodocus sings of the quarrel of Odysseus and Achilles, which Apollo had foretold to Agamemnon at Pytho as the beginning of bane for Trojans and Danaans. Odysseus covers his head with his mantle and weeps each time the singer begins again; Alcinous alone notices, and calls for the games."
+    },
+    {
+      "from": 104,
+      "to": 130,
+      "title": "The Games",
+      "summary": "The herald leads Demodocus out to the place of assembly, and a great crowd follows. The young men rise, Acroneus, Ocyalus, Elatreus and the rest, with Euryalus, the best in looks after Laodamas, and the three sons of Alcinous. Clytoneus wins the footrace, Euryalus the wrestling, Amphialus the jump, Elatreus the discus, and Laodamas the boxing."
+    },
+    {
+      "from": 131,
+      "to": 233,
+      "title": "The Taunt and the Discus",
+      "summary": "Laodamas invites the stranger to try the contests; Odysseus pleads his sorrows. Euryalus taunts him as a trader's captain, mindful of his cargo, with no look of an athlete. Odysseus answers that the gods do not give all their gifts to one man, seizes a heavier discus and throws it beyond all the marks, and Athena, in the likeness of a man, marks the throw. Then he challenges any Phaeacian but his host Laodamas, in boxing, wrestling or running: he is skilled with the bow, second only to Philoctetes, though he will not vie with the men of old, Heracles and Eurytus, whom Apollo killed for challenging him; and he throws the spear as far as another shoots an arrow."
+    },
+    {
+      "from": 234,
+      "to": 265,
+      "title": "Alcinous' Reply and the Dance",
+      "summary": "All fall silent, and Alcinous answers: the Phaeacians are not flawless boxers or wrestlers, but swift runners and the best with ships, and they love the feast, the lyre, the dance, changes of clothing, warm baths and beds. He calls for the dancers and the lyre; the stewards level a dancing floor, and the young men strike it with their feet while Odysseus marvels at the flashing of their feet."
+    },
+    {
+      "from": 266,
+      "to": 369,
+      "title": "The Song of Ares and Aphrodite",
+      "summary": "Demodocus sings how Ares lay with Aphrodite in the house of Hephaestus. The Sun tells Hephaestus, who forges bonds as fine as spider's webs around his bed and makes as if to go to Lemnos. The lovers are caught, and Hephaestus calls the gods to see; the goddesses stay at home, and unquenchable laughter rises among the gods: the slow has caught the swift. Apollo asks Hermes whether he would lie in such bonds beside golden Aphrodite, and Hermes says he would. Poseidon pledges that Ares will pay the adulterer's fine, and the bonds are loosed: Ares goes to Thrace, Aphrodite to her altar in Paphos, where the Graces wash her. Odysseus and the Phaeacians delight in the song."
+    },
+    {
+      "from": 370,
+      "to": 384,
+      "title": "The Ball Dance",
+      "summary": "Alcinous bids Halius and Laodamas dance alone: one throws the purple ball that Polybus made toward the clouds, the other leaps and catches it before his feet touch the ground; then they dance on the ground while the other young men beat time. Odysseus tells Alcinous that his boast of his dancers has proved true."
+    },
+    {
+      "from": 385,
+      "to": 456,
+      "title": "The Gifts and the Bath",
+      "summary": "Alcinous bids the twelve kings each give the stranger a mantle, a tunic and a talent of gold, and Euryalus make amends; Euryalus gives his bronze sword with a silver hilt and an ivory sheath, and the two part in friendship. At sunset the gifts are brought to the palace; Arete puts them in a chest with a mantle and tunic of her own, Alcinous adds his golden goblet, and Odysseus ties the lid with the complicated knot Circe taught him. The housekeeper bids him bathe, and he is glad of the warm bath, for he has not been cared for so since he left Calypso."
+    },
+    {
+      "from": 457,
+      "to": 468,
+      "title": "Nausicaa's Farewell",
+      "summary": "Nausicaa, standing by the doorpost of the hall, bids him farewell and asks him to remember her in his own land, since he owes her his life; he answers that if he reaches home he will pray to her as to a god all his days."
+    },
+    {
+      "from": 469,
+      "to": 534,
+      "title": "The Song of the Wooden Horse",
+      "summary": "At supper Odysseus sends Demodocus a portion of the chine and praises him: the Muse or Apollo has taught him, for he sings the fate of the Achaeans as if he had been there. He asks for the song of the wooden horse, and Demodocus sings of the Argives' feigned departure, the Trojans' debate around the horse, the sack of the city, and Odysseus going with Menelaus to the house of Deiphobus. Odysseus weeps as a woman weeps over her husband fallen before his city, led off into slavery; Alcinous alone notices."
+    },
+    {
+      "from": 535,
+      "to": 586,
+      "title": "Alcinous Asks the Stranger's Name",
+      "summary": "Alcinous stops the song and asks the stranger his name, his land, his people and his city, so that the Phaeacian ships, which need no helmsmen and know the minds of men, may carry him there. He tells of Nausithous' prophecy that Poseidon, jealous of their escorts, would one day shatter a Phaeacian ship on its way home from an escort and cover their city round about with a great mountain. He asks where the stranger wandered, among what men, and why he weeps at the fate of the Argives and of Ilios: did he lose a kinsman there, or a companion dear as a brother?"
+    }
+  ],
+  "speeches": [
+    {
+      "from": 11,
+      "to": 14,
+      "speaker": "athena",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "summons"
+    },
+    {
+      "from": 26,
+      "to": 45,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 97,
+      "to": 103,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 133,
+      "to": 139,
+      "speaker": "laodamas-son-of-alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 141,
+      "to": 142,
+      "speaker": "euryalus-the-phaeacian",
+      "to_whom": [
+        "laodamas-son-of-alcinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 145,
+      "to": 151,
+      "speaker": "laodamas-son-of-alcinous",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "challenge"
+    },
+    {
+      "from": 153,
+      "to": 157,
+      "speaker": "odysseus",
+      "to_whom": [
+        "laodamas-son-of-alcinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 159,
+      "to": 164,
+      "speaker": "euryalus-the-phaeacian",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "taunt"
+    },
+    {
+      "from": 166,
+      "to": 185,
+      "speaker": "odysseus",
+      "to_whom": [
+        "euryalus-the-phaeacian"
+      ],
+      "kind": "rebuke"
+    },
+    {
+      "from": 195,
+      "to": 198,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "encouragement"
+    },
+    {
+      "from": 202,
+      "to": 233,
+      "speaker": "odysseus",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "challenge"
+    },
+    {
+      "from": 236,
+      "to": 255,
+      "speaker": "alcinous",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 292,
+      "to": 294,
+      "speaker": "ares",
+      "to_whom": [
+        "aphrodite"
+      ],
+      "kind": "invitation"
+    },
+    {
+      "from": 306,
+      "to": 320,
+      "speaker": "hephaestus",
+      "to_whom": [
+        "zeus",
+        "olympians"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 329,
+      "to": 332,
+      "speaker": "olympians",
+      "to_whom": [
+        "olympians"
+      ],
+      "kind": "comment"
+    },
+    {
+      "from": 335,
+      "to": 337,
+      "speaker": "apollo",
+      "to_whom": [
+        "hermes"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 339,
+      "to": 342,
+      "speaker": "hermes",
+      "to_whom": [
+        "apollo"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 347,
+      "to": 348,
+      "speaker": "poseidon",
+      "to_whom": [
+        "hephaestus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 350,
+      "to": 353,
+      "speaker": "hephaestus",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 355,
+      "to": 356,
+      "speaker": "poseidon",
+      "to_whom": [
+        "hephaestus"
+      ],
+      "kind": "promise"
+    },
+    {
+      "from": 358,
+      "to": 358,
+      "speaker": "hephaestus",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 382,
+      "to": 384,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "praise"
+    },
+    {
+      "from": 387,
+      "to": 397,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 401,
+      "to": 405,
+      "speaker": "euryalus-the-phaeacian",
+      "to_whom": [
+        "alcinous"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 408,
+      "to": 411,
+      "speaker": "euryalus-the-phaeacian",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "apology"
+    },
+    {
+      "from": 413,
+      "to": 415,
+      "speaker": "odysseus",
+      "to_whom": [
+        "euryalus-the-phaeacian"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 424,
+      "to": 432,
+      "speaker": "alcinous",
+      "to_whom": [
+        "arete-queen-of-the-phaeacians"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 443,
+      "to": 445,
+      "speaker": "arete-queen-of-the-phaeacians",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 461,
+      "to": 462,
+      "speaker": "nausicaa",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 464,
+      "to": 468,
+      "speaker": "odysseus",
+      "to_whom": [
+        "nausicaa"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 477,
+      "to": 481,
+      "speaker": "odysseus",
+      "to_whom": [
+        "heralds"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 487,
+      "to": 498,
+      "speaker": "odysseus",
+      "to_whom": [
+        "demodocus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 536,
+      "to": 586,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians",
+        "odysseus"
+      ],
+      "kind": "speech"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 417,
+      "label": "Day 33",
+      "note": "The day after Odysseus' arrival at the palace (Book 7, the night of Day 32): the assembly at dawn (8.1), the feast, the games, the dance and the gifts; the sun sets as the gifts are brought in (8.417)."
+    },
+    {
+      "from": 418,
+      "to": 586,
+      "label": "Night of Day 33",
+      "note": "The evening feast after sunset (8.417; Merry on 8.417): the song of the wooden horse and Alcinous' questions. Odysseus' answer, the tale of his wanderings (Books 9–12), runs on into the night, and his escort leaves on the next day (13.17–18)."
+    }
+  ]
+}

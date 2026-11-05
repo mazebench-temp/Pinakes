@@ -1,0 +1,5 @@
+---
+summary: The Muse “robbed him of his eyes, but gave him sweet song” (8.64): the singer Demodocus is blind. Nausicaa marvels at Odysseus “as she looked at him with her eyes” (8.459).
+---
+
+Demodocus is the singer “whom the Muse loved above all, and she gave him both good and evil: / she robbed him of his eyes, but gave him sweet song” (8.63–64; see [[demodocus]], [[muses]] and [[zeus-gives-good-and-evil]]). ἀμέρδω is “deprive”; Curtius, as W. W. Merry reports, would refer it in the sense “blind” to a root meaning “be bright” (*Commentary on the Odyssey*, 1886, on 8.64). The herald guides the blind man's hand to his lyre and leads him by the hand (8.68, 8.106; see [[lyre]] and [[heralds]]), and Athena tells Odysseus that “Even a blind man, stranger, could sort out your mark” (8.195; see [[discus]]). On the tradition that made Homer, too, a blind singer, see [[demodocus]]. Nausicaa, at the doorpost, “marveled at Odysseus as she looked at him with her eyes” (8.459; see [[nausicaa]] and [[thambos]]).

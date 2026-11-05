@@ -1,0 +1,5 @@
+---
+summary: The Phaeacians have twelve kings, with Alcinous the thirteenth (8.390–391): “the scepter-bearing kings” go to the king's house for the feast (8.41, 8.47), the stranger begs “the king and all the people” (8.157), and each of the kings gives him a guest-gift (8.392–393).
+---
+
+Merry reports the scholia's inference from the twelve kings that the Phaeacian state was a kind of aristocracy, with Alcinous preeminent among them; in Ithaca too there are “other kings of the Achaeans, / many” (1.394–395), the word meaning, as here, princes under a greater one; others compare the twelve districts under one king that Theseus is said to have set up at Athens (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.390; see [[kings]] and [[phaeacians]]). “The scepter-bearing kings” follow Alcinous to his house (8.41, 8.47; see [[scepter-bearing]]); the stranger sits begging “the king and all the people” (8.157); the herald brings the lyre “from the king's house” (8.257); and at evening the stranger sits down “beside King Alcinous” (8.469; see [[alcinous]]).

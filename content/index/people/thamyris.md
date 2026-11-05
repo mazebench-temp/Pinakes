@@ -21,7 +21,7 @@ Homer tells his story in seven lines of the Catalogue, attached to the town of [
 - ἀοιδὴν θεσπεσίην ἀφέλοντο: "they took away his wondrous song".
 - ἐκλέλαθον κιθαριστύν: "they made him forget his lyre-playing". ἐκλέλαθον is a reduplicated aorist of ἐκλανθάνω, "make forget".
 
-The Muses give song and can take it back. The Odyssey's blind singer Demodocus is the reverse case: the Muse "gave him both good and evil: she took away his eyes, but gave him sweet song" (Od. 8.63–64).
+The Muses give song and can take it back. The Odyssey's blind singer Demodocus is the reverse case: the Muse “gave him both good and evil: / she robbed him of his eyes, but gave him sweet song” (*Odyssey* 8.63–64; see [[demodocus]]).
 
 ## Outside Homer
 

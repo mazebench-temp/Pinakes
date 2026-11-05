@@ -1,0 +1,12 @@
+---
+summary: Athena pours “a wondrous grace” on the stranger's head and shoulders (8.19). In his answer to Euryalus the gods do not give their gracious gifts to all, and grace is a crown set on a speaker's words (8.167–175); Alcinous finds what he says “not ungracious” (8.236). The last song does not give delight to all (8.538), and a companion “of kindly heart” is as good as a brother (8.584–586).
+# ἀχάριστα (8.236; the comparative ἀχαρίστερον at 20.392); χαριζόμενος (8.538; again 10.43, 13.265); κεχαρισμένα (8.584; again 16.184, 19.397).
+grc: [ἀχάριστα, χαριζόμενος, κεχαρισμένα]
+en: [ungracious, gives delight, of kindly heart]
+---
+
+**The grace on the stranger.** On the morning of the assembly Athena “poured a wondrous grace, upon his head and shoulders, / and made him taller and stouter to look upon” (θεσπεσίην κατέχευε χάριν, 8.19–20; see [[athena]]), as she poured grace on him after his bath in Book 6 (6.235) and on Telemachus before the assembly in Ithaca (2.12). Its purpose is the stranger's welcome: “so that he might be dear to all the Phaeacians, / and feared and respected” (8.21–22; see [[aidos]], [[beauty-and-its-price]] and [[gold-poured-around-silver]]).
+
+**Gracious gifts.** The stranger answers Euryalus that the gods do not give their gracious gifts (χαρίεντα) to all men alike, and describes the man whose words a god crowns with beauty and the man whose looks are like the immortals', “but no grace is set as a crown around his words” (χάρις ἀμφιπεριστέφεται ἐπέεσσιν, 8.167–175; W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.170; see [[different-gifts]]). Grace here belongs to speech. Alcinous grants it to the speaker: “Stranger, since what you say among us is not ungracious” (οὐκ ἀχάριστα, 8.236), and lets him show the excellence that attends him (see [[arete]]).
+
+**Delight and kindness.** At the evening feast the singer's song of Troy gives no delight to all: “for it is not to all of us that he gives delight by singing this” (οὐ … πάντεσσι χαριζόμενος, 8.538; see [[odysseus-weeps-at-the-feast]]). In the king's last question the companion who may have died at Troy is “a man of kindly heart” (κεχαρισμένα εἰδώς, 8.584), “with fond heart”, as Priam asks Achilles to “show me a kindness” (κεχαρισμένα θείης, *Iliad* 24.661; Merry on 8.584; see [[a-companion-no-worse-than-a-brother]]). The Graces themselves wash and anoint Aphrodite at Paphos at the end of the song (8.364–366; see [[graces]]).

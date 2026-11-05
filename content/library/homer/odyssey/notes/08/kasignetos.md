@@ -1,0 +1,5 @@
+---
+summary: The brother is the book's measure of closeness. Alcinous' maxim at the farewell supper makes the stranger and the suppliant “as good as a brother” to a man of sense (8.546–547), and his last question ends with the maxim that a wise companion is “in no way inferior to a brother” (8.585–586).
+---
+
+Neither maxim names a brother of the stranger's or of Alcinous': the brother is the measure. “As good as a brother are a stranger and a suppliant / to a man who has even a little hold on wisdom” (ἀντὶ κασιγνήτου, 8.546–547; see [[as-good-as-a-brother]]) sets the host's duty to his guest at the height of a brother's claim, and the request that follows asks of the guest a brother's openness (8.548–549). “Since in no way inferior to a brother / is a companion who has wise understanding” (κασιγνήτοιο χερείων, 8.585–586; see [[a-companion-no-worse-than-a-brother]] and [[hetairos]]) sets a friend beside the kin of one's blood, whom the king has just set above even kin by marriage (8.583; see [[in-laws]]). Hesiod gives the opposite counsel, “Do not make a comrade equal to a brother” (*Works and Days* 707).

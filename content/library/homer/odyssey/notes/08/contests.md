@@ -1,0 +1,19 @@
+---
+summary: The Phaeacians hold games for their guest, and the book is full of the word: the contests of boxing, wrestling, jumping, running and the discus (8.100–131), the stranger's refusal and challenge (8.145–233), and the athlete that Euryalus says he does not look like (8.164). The same word ἄεθλοι is the Odyssey's word for its hero's trials.
+# ἄεθλος of the games (the translation's key words): ἀέθλων (8.100, 8.145, 8.179, 8.184, 8.210; and the suitors'
+# games, 4.659), ἀέθλους (8.22, 8.146), ἄεθλοι (8.154, 8.214), ἄεθλον (8.133, 8.197), ἀέθλια (8.108), ἀέθλοις
+# (8.131), ἄθλων (8.160), ἀθλητῆρι (8.164, only here in Homer). Excepted: the trials and labors of 1.18, 3.262,
+# 4.170 and 4.241. Later books will need more excepts: ἀέθλους, ἄεθλον of Heracles' labors (11.622, 11.624) and
+# ἀέθλων, ἄεθλον of Odysseus' trials (23.248, 23.261, 23.350).
+grc: [ἀέθλων, ἀέθλους, ἄεθλοι, ἄεθλον, ἀέθλια, ἀέθλοις, ἄθλων, ἀθλητῆρι]
+en: [contest, games, athlete]
+except: [1.18, 3.262, 4.170, 4.241]
+---
+
+**Contests and trials.** The translation renders ἄεθλος of the games “contest”, ἀέθλια “the games” and ἀθλητήρ “athlete”, and keeps “trials” for the hero's sufferings (see the translation's key words). The two senses meet in the stranger's answer to Laodamas: “Sorrows are on my mind far more than contests, / who before have suffered very much and toiled much” (8.154–155), and Athena's grace was poured on him so that he might “accomplish the many contests / in which the Phaeacians made trial of Odysseus” (8.22–23; see the translation's note on 8.22–23). ἀέθλια are the tests of prowess, and in Ithaca the bow and the axes will be ἀέθλια καὶ φόνου ἀρχήν, “the games and the beginning of slaughter” (8.108; 21.4, Greek only). W. W. Merry notes that ἄεθλον and ἀέθλια can mean the prize as well as the contest, while the masculine ἄεθλος “uniformly signifies ‘contest’ or ‘toil’” (*Commentary on the Odyssey*, 1886, on 8.108).
+
+**What a man should know.** Laodamas invites the stranger: “it is fitting that you know contests” (8.146), what Merry calls the primitive praise of gymnastics (on 8.146), and he gives the reason in a saying: “there is no greater fame for a man, as long as he lives, / than what he achieves with his feet and with his hands” (8.147–148; see [[no-greater-fame]]). Euryalus' taunt puts the athlete against the trader: the stranger is no man “skilled / in contests” but a captain of traders mindful of his freight, “you are not like an athlete” (8.159–164; see [[euryalus-the-phaeacian]] and [[trade]]). ἄθλων there may well be the genitive of the same word, though its gender cannot be certain (Merry on 8.108).
+
+**Strife in contests.** The guest who contends with his host is a fool: “Witless indeed and a nobody is that man / who brings on strife in contests with his host / in a foreign land; he cuts short all that is his own” (8.209–211; see [[strife-with-ones-host]], [[xenia]] and [[eris]]). ἔρις ἀέθλων, “strife in contests”, is the rivalry of the games, and Odysseus makes its limit a rule of hospitality. He offers to meet any Phaeacian but his host in boxing, wrestling or running (8.204–213).
+
+**The Phaeacians' contests.** Alcinous names four, “in boxing and in wrestling and in jumping and in running” (8.103; see the translation's note on 8.103), and the discus is thrown with them (8.129; see [[discus]]). Odysseus adds the bow and the spear (8.215–229), and Alcinous concedes the boxing and the wrestling (8.246). The games are watched by an ἀγών, the ring of spectators, “the gathering” (8.200, 8.238, 8.260, 8.380; Merry on 8.260), and kept in order by nine αἰσυμνῆται, “stewards”, public officers who managed the gatherings (8.258–259; Merry on 8.258; see [[assembly]] and [[dance]]). The story of the day is told under [[the-games-of-the-phaeacians]].

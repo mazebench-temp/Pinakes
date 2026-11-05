@@ -1,0 +1,9 @@
+---
+summary: Athena appears twice among the Phaeacians and is not known: she goes through the city in the likeness of Alcinous' herald (8.7–15), and at the games, “in form like a man”, she marks the stranger's throw and speaks to him by name, and he is glad of “a gentle companion in the gathering” (8.193–200). The Sun sees what the gods cannot, and the gods come to see Hephaestus' snare (8.270–327).
+# Unnamed: Athena as the herald (8.7-10); Athena as a man at the games (8.193-194, 8.199-200); the Sun's sight (8.270-271, 8.302); the bonds that no god could see (8.280-281).
+refs: [8.7-10, 8.193-194, 8.199-200, 8.270-271, 8.280-281, 8.302]
+---
+
+**The goddess unknown.** Athena summons the Phaeacians “in the likeness of the herald of wise-hearted Alcinous”, standing beside each man and speaking her word (8.7–15; see [[athena]] and [[heralds]]). At the games she comes again, ἀνδρὶ δέμας ἐικυῖα, “in form like a man”, sets the mark where the stranger's discus fell, and tells him that none of the Phaeacians will reach it (8.193–198; see [[the-games-of-the-phaeacians]]). He rejoices “that he saw a gentle companion in the gathering” (8.199–200; see [[eneeie]]): the narrator does not say that he knew her, and he speaks more lightly. In Book 7 he had met her in the likeness of a girl and asked her the way (7.19–28).
+
+**What gods see.** In Demodocus' song the seeing is done by gods. The Sun, whose office in Homer is to see all things, tells Hephaestus what he saw, “the Sun, who had seen them lying together in love” (8.270–271, 8.302; see [[helios]] and [[who-sees-all-things]]); the bonds are so fine “which no one could even see, / not even one of the blessed gods” (8.280–281; see [[dolos]]); and the gods come to the door to see the deeds that are laughable, while the goddesses stay away (8.305–327; see [[laughter-of-the-gods]] and [[aidos]]).

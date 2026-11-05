@@ -1,0 +1,7 @@
+---
+summary: Olympus is named once in the book, in Demodocus' song, when the gods say that the slow Hephaestus has caught Ares, “though he is the swiftest of the gods who hold Olympus” (8.331).
+---
+
+**The swiftest of the gods.** Looking at the bonds, the gods say to one another: “Evil deeds do not prosper; the slow overtakes the swift, / as now Hephaestus, slow as he is, has caught Ares, / though he is the swiftest of the gods who hold Olympus” (8.329–331; see [[ares]], [[hephaestus]] and [[olympians]]). θεῶν οἳ Ὄλυμπον ἔχουσιν, “of the gods who hold Olympus”, is a verse-end of both poems, Nausicaa's in the sixth book (6.240) and the Iliad's, where Zeus, too, sets Ares above the rest with a superlative: “Of all the gods who hold Olympus, you are the most hateful to me” (*Iliad* 5.890).
+
+**The houses of the gods.** The song never names its scene, but it is the gods' own: Aphrodite has just come from her father, the son of Cronus (8.289), the gods gather to Hephaestus' “bronze-floored house” (8.321), the Iliad's phrase for the house of Zeus on Olympus (*Iliad* 1.426, 21.505; see [[bronze-floored]]), and the goddesses stay “each at home” (8.324), as each god in the Iliad goes “to his own house, / where for each of them the renowned god, lame in both legs, / Hephaestus, had built a house” on Olympus (*Iliad* 1.606–608; see [[house]]). When the bonds are loosed the lovers leave for the earth, Ares for Thrace and Aphrodite for Cyprus (8.361–362; see [[thrace]] and [[paphos]]).

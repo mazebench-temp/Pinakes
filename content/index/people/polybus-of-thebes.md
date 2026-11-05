@@ -14,11 +14,12 @@ grc: [Πολύβοιο]
 en: [Polybus]
 relations:
   - wife: alcandre (Od. 4.126)
+except: [Od. 8.373]
 ---
 
 ## The name
 
-The poems give the name Πόλυβος to several men: a son of Antenor (*Iliad* 11.59; see [[polybus]]), the father of the suitor Eurymachus (*Odyssey* 1.399; see [[polybus-father-of-eurymachus]]), and in later books of the Odyssey a Phaeacian craftsman and one of the suitors (*Odyssey* 8.373, 22.243). Nothing joins them.
+The poems give the name Πόλυβος to several men: a son of Antenor (*Iliad* 11.59; see [[polybus]]), the father of the suitor Eurymachus (*Odyssey* 1.399; see [[polybus-father-of-eurymachus]]), and in later books of the Odyssey a Phaeacian craftsman (*Odyssey* 8.373; see [[polybus-the-phaeacian]]) and one of the suitors (*Odyssey* 22.243). Nothing joins them.
 
 ## Family
 

@@ -1,0 +1,5 @@
+---
+summary: κατὰ μοῖραν, “fair and right”, is the book's measure of a word: Laodamas' word is fair and right, Euryalus' is not, and the singer must tell the horse fair and right (8.141, 8.397, 8.496). The ship is rigged “all in good order” (8.54), and at supper the portions are served out (μοίρας, 8.470).
+---
+
+μοῖρα is a share, and κατὰ μοῖραν what accords with the right share: the ship is fitted out πάντα κατὰ μοῖραν, “all in good order” (8.54; see [[ships]]). At the games it judges speech. Euryalus approves Laodamas' invitation: “this word you have spoken is fair and right” (8.141); Alcinous judges Euryalus' taunt: “the word he spoke was by no means fair and right” (8.397; see [[amends-and-reconciliation]] and [[epos]]); and the stranger promises to praise the singer if he tells the horse “fair and right” (8.496; see [[we-hear-only-the-report]]). At the evening feast the portions are served, μοίρας τʼ ἔνεμον, and the stranger cuts from his own portion of chine a share for the singer (8.470–476; see [[time]] and [[feast]]).

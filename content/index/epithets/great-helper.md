@@ -3,7 +3,7 @@ title: The great helper
 greek: ἐριούνης, ἐριούνιος
 kind: epithet
 tags: [divine-epithet, rare-word]
-summary: “The great helper,” ἐριούνης and ἐριούνιος, a title of [[Hermes]], used beside his name or in place of it; in the Iliad it belongs to the battle of the gods and to his journey with Priam.
+summary: “The great helper,” ἐριούνης and ἐριούνιος, a title of [[Hermes]], used beside his name or in place of it: in the Iliad in the battle of the gods and on his journey with Priam, and in the Odyssey in Demodocus' song of Ares and Aphrodite.
 aliases: [eriounes, eriounios, bringer of luck, the great helper]
 grc: ["ἐριουν*"]
 en: [the great helper]

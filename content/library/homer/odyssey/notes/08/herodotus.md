@@ -1,0 +1,5 @@
+---
+summary: Düntzer, as Merry reports, set beside the knot that Odysseus ties on his chest of gifts the chests that the Persian Oroetes filled with stones, covered with gold and tied up to deceive the secretary of Polycrates.
+---
+
+- **The tied chests.** Arete bids the stranger see to the lid and tie a knot on it, “so that no one may do you harm on the way”, and he ties “a complicated one, which lady Circe had once taught him” (8.443–448). Merry, who notes that Plutarch calls the knot of Gordius a δεσμός, reports Düntzer's parallel from Herodotus (Merry, *Commentary on the Odyssey*, 1886, on 8.443): Oroetes, learning that Polycrates' secretary Maeandrius was coming to inspect his treasure, filled eight chests with stones almost to the brim, laid gold over the stones, tied up the chests, καταδήσας τὰς λάρνακας, and kept them ready (*Histories* 3.123.2, a plain rendering). Odysseus' knot guards real gold against thieves; Oroetes' chests hide stones under gold: [[chest]], [[circe]] and [[guest-gifts]].

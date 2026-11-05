@@ -14,4 +14,4 @@ passages:
 
 {{quote:31f0a38c-7bc4-5af0-8ef2-0ab2968a4393}}
 
-Aesymnus begins the last verse of the list, with Orus and Hipponous (11.303; see [[orus]] and [[hipponous]]). The name recalls the αἰσυμνῆται, the umpires chosen for the Phaeacian games (Od. 8.258), and αἰσυμνητήρ, the young prince whose likeness Hermes takes when he meets Priam (24.347): it sounds like a title of rank, and he is one of the nine whom the narrator calls “the leaders of the Danaans” (11.304). Homer tells nothing more of him (see [[hector]] and [[whom-first-whom-last]]).
+Aesymnus begins the last verse of the list, with Orus and Hipponous (11.303; see [[orus]] and [[hipponous]]). The name recalls the αἰσυμνῆται, the stewards chosen for the Phaeacian games (*Odyssey* 8.258; see [[the-games-of-the-phaeacians]]), and αἰσυμνητήρ, the young prince whose likeness Hermes takes when he meets Priam (24.347): it sounds like a title of rank, and he is one of the nine whom the narrator calls “the leaders of the Danaans” (11.304). Homer tells nothing more of him (see [[hector]] and [[whom-first-whom-last]]).

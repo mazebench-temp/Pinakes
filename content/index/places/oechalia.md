@@ -3,8 +3,9 @@ title: Oechalia
 greek: Οἰχαλίη
 kind: place
 tags: [mainland-greece, city]
-summary: The city of Eurytus the archer. In the Catalogue it belongs to the Thessalian contingent of Podalirius and Machaon; Thamyris comes from it on his way to Nestor's kingdom; and later Greeks claimed it for Messenia, Euboea and other lands.
-grc: [Οἰχαλίηθεν, Οἰχαλίην, Οἰχαλιῆος]
+summary: The city of Eurytus the archer, who is “of Oechalia” in both poems. In the Catalogue it belongs to the Thessalian contingent of Podalirius and Machaon; Thamyris comes from it on his way to Nestor's kingdom; and later Greeks claimed it for Messenia, Euboea and other lands.
+# Οἰχαλιῆι, "of Oechalia", of Eurytus (Od. 8.224), as Οἰχαλιῆος (2.596, 2.730): no other line in Homer.
+grc: [Οἰχαλίηθεν, Οἰχαλίην, Οἰχαλιῆος, Οἰχαλιῆι]
 passages:
   - 2.594-600 | Thamyris and the Muses
   - 2.729-733 | The sons of Asclepius
@@ -18,9 +19,11 @@ Homer names Oechalia twice in *Iliad* 2, and it is not clear that both lines mea
 
 At 2.730 Oechalia belongs to the men of [[Tricca]] and [[Ithome]], in western Thessaly, whom the sons of Asclepius lead. Here it is "the city of Eurytus of Oechalia" (πόλιν Εὐρύτου Οἰχαλιῆος).
 
-At 2.596 the Muses meet Thamyris at [[Dorium]], in Nestor's kingdom, "as he came from Oechalia, from Eurytus of Oechalia" (Οἰχαλίηθεν ἰόντα παρ' Εὐρύτου Οἰχαλιῆος). Nothing in the line requires a second Oechalia: Thamyris is a wandering singer, and he could have come south from Thessaly. But the story is set in the southwest Peloponnese, and a nearer Oechalia would make an easier journey. The Odyssey points the same way. Iphitus, son of Eurytus, meets Odysseus in Messene, when he is looking for his lost horses (Od. 21.13–22). Eurytus himself is "of Oechalia" in the Odyssey too (Od. 8.224). The poet may have known one Oechalia, or two; the text does not decide it.
+At 2.596 the Muses meet Thamyris at [[Dorium]], in Nestor's kingdom, "as he came from Oechalia, from Eurytus of Oechalia" (Οἰχαλίηθεν ἰόντα παρ' Εὐρύτου Οἰχαλιῆος). Nothing in the line requires a second Oechalia: Thamyris is a wandering singer, and he could have come south from Thessaly. But the story is set in the southwest Peloponnese, and a nearer Oechalia would make an easier journey. The Odyssey points the same way. Iphitus, son of Eurytus, meets Odysseus in Messene, when he is looking for his lost horses (*Odyssey* 21.13–22). Eurytus himself is “of Oechalia” in the Odyssey too (*Odyssey* 8.224). The poet may have known one Oechalia, or two; the text does not decide it.
 
 {{quote:6a1b3048-96a6-51f6-be66-100c76396d62}}
+
+{{notes}}
 
 ## Outside Homer
 

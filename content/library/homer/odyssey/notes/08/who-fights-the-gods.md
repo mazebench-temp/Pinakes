@@ -1,0 +1,10 @@
+---
+summary: Odysseus, boasting of his archery, will not vie with the men of former days, Heracles and Eurytus of Oechalia, “who vied even with the immortals in archery. / That is why great Eurytus died early, and did not reach old age / in his halls; for Apollo in anger / killed him, because he challenged him to shoot with the bow” (8.225–228).
+refs: [8.223-228]
+---
+
+{{quote:3e5c7cdb-be2a-54a5-91ce-aab18bfa86b6}}
+
+**The limit of the boast.** The stranger's boast after the discus runs up to the limit the saying sets. He knows how to handle the polished bow; at Troy only Philoctetes surpassed him, and of all the mortals now on the earth he is far the best (8.214–222; see [[philoctetes]] and [[men-of-today]]). With the men of former days he will not vie (8.223–225). ἐρίζεσκον only means “matched themselves”, the sense that alone suits “I will not wish to vie” two verses before, and of the two men named only Eurytus actually contended with the immortals; Nitzsch notes that Homer gives Heracles a bow, the club and lion's skin coming later (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.225; see [[heracles]]). The end of Eurytus is the saying in a story: he challenged Apollo, and “died early, and did not reach old age / in his halls” (8.226–228; see [[eurytus]] and [[apollo]]). Merry sets beside it Diomedes' words on Lycurgus, “not even the son of Dryas, mighty Lycurgus, / lived long, who strove with the gods of heaven” (*Iliad* 6.130–131; Merry on 8.226): the same verb, ἐρίζω, and the same short life.
+
+**The bow.** Odysseus has more reason than the Phaeacians know to speak of Eurytus. In Book 21 the bow that lies in his storeroom at home is Eurytus' own, which passed at his death to his son Iphitus; Iphitus gave it to the young Odysseus as a guest-gift when they met in Messene, and soon after was killed by Heracles, his host, at his own table. Odysseus never took it to war, but kept it at home as a memorial of a dear guest-friend (21.11–41; see [[guest-gifts]] and [[xenia]]). With that bow he will kill the suitors.

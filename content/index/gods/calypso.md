@@ -27,7 +27,7 @@ Daughter of [[Atlas]], who knows the depths of the sea and holds the pillars tha
 
 δῖα θεάων, “brilliant among goddesses” (*Odyssey* 1.14), is her standing epithet in the story of her parting from Odysseus (*Odyssey* 5.78, 5.85, 5.116, 5.180, 5.202, 5.242, 5.246, 5.258, 5.276, 9.29; see [[brilliant-among-goddesses]]).
 
-ἐυπλόκαμος, “of the lovely tresses” (*Odyssey* 1.86, 5.30, 5.58, 7.246, 7.255, 12.449), = εὖ (“well”) + πλόκαμος (“lock, braid”); also ἠύκομος, “lovely-haired” (*Odyssey* 8.452, 12.389). Merry sets the two apart: ἐυπλόκαμος points to the beauty of the way her hair is dressed, since πλόκαμοι are ringlets or plaits, as when Hera “plaited the shining tresses” for her meeting with Zeus (on 1.86, comparing *Iliad* 14.176; see [[with-lovely-tresses]]).
+ἐυπλόκαμος, “of the lovely tresses” (*Odyssey* 1.86, 5.30, 5.58, 7.246, 7.255, 12.449), = εὖ (“well”) + πλόκαμος (“lock, braid”); also ἠύκομος, “of the lovely hair” (*Odyssey* 8.452, 12.389). Merry sets the two apart: ἐυπλόκαμος points to the beauty of the way her hair is dressed, since πλόκαμοι are ringlets or plaits, as when Hera “plaited the shining tresses” for her meeting with Zeus (on 1.86, comparing *Iliad* 14.176; see [[with-lovely-tresses]]).
 
 δολόεσσα, “wily” (*Odyssey* 7.245), is said also of Circe (*Odyssey* 9.32), and both goddesses are δεινὴ θεὸς αὐδήεσσα, “a dread goddess with human speech” (*Odyssey* 10.136, 12.449; see [[circe]]). The scholia report that Aristotle wrote αὐλήεσσα, “living in a hall”, of Circe and Calypso, as dwelling alone in their own palaces, and οὐδήεσσα, “earthly”, of Ino; Merry thinks it impossible, since adjectives in -εις express a share in the nature of the noun they come from (Merry's critical note on *Odyssey* 5.334; see [[with-human-voice]]).
 

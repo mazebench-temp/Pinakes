@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, mind, rare-word]
 summary: “Wily,” δολόεις, an epithet of the two goddesses who kept Odysseus and wished to make him their husband, Calypso and Circe; once the Odyssey gives it to a thing, the bonds that Hephaestus forged.
 aliases: [doloeis, sly]
-# δολόεντα, the bonds of Hephaestus (Od. 8.281), to add with Book 8.
+# δολόεντα, the bonds of Hephaestus (Od. 8.281), is claimed in the Odyssey Book 8 note, with the English "cunning".
 grc: [δολόεσσα]
 en: [wily]
 of: [calypso, circe]

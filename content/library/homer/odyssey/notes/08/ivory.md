@@ -1,0 +1,5 @@
+---
+summary: Euryalus' gift is a bronze sword with a silver hilt in “a sheath of newly sawn ivory” (8.403–405).
+---
+
+Euryalus' sword has “a sheath of newly sawn ivory / is wound around it” (8.404–405; see [[sheath]], [[sword]] and [[euryalus-the-phaeacian]]). νεόπριστος, “newly sawn”, is found only here in Homer; Athena makes Penelope “whiter than sawn ivory” with πριστοῦ alone (18.196, a plain rendering). W. W. Merry takes the line as one of the proofs that Homer knows ivory but not the elephant that produces it, and quotes Pausanias, who says the same: the poet adorned the couches and houses of the richer kings with ivory, but never mentions the beast (*Commentary on the Odyssey*, 1886, on 8.404). He lists the Homeric uses of ivory: the decoration of rooms (4.73), this sheath, a key (21.7), reins (*Iliad* 5.583), a couch (19.55), a bedstead (23.200) and a horse's cheekpiece stained red (*Iliad* 4.141; see the entry), and thinks it more likely that Phoenician traders brought it from the East than that the Greeks knew only fossil ivory (on 8.404).

@@ -17,7 +17,7 @@ en: [jointed]
 
 {{quote:d226f8ac-af08-5f63-9662-22508a385df9}}
 
-Odysseus and Diomedes let Dolon run past them, and when he is as far off as the furrow-length of mules, they run after him. The parenthesis explains the measure: mules are better than oxen “at dragging the jointed plow through the deep fallow.” Whether the furrow-length is the stretch a team plows without a halt, or the lead by which mules draw ahead of oxen plowing beside them, is disputed ([[mules]], [[cattle]]). The distance is taken from the farm, as the race in the Odyssey measures a runner's lead “as far as the furrow-length of mules in fallow land” (Od. 8.124). See [[dolon]].
+Odysseus and Diomedes let Dolon run past them, and when he is as far off as the furrow-length of mules, they run after him. The parenthesis explains the measure: mules are better than oxen “at dragging the jointed plow through the deep fallow.” Whether the furrow-length is the stretch a team plows without a halt, or the lead by which mules draw ahead of oxen plowing beside them, is disputed ([[mules]], [[cattle]]). The distance is taken from the farm, as the race in the Odyssey measures a runner's lead “as far as the furrow-length of a pair of mules in the fallow” (Od. 8.124). See [[dolon]].
 
 ## Outside Homer
 

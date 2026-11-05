@@ -1,0 +1,8 @@
+---
+summary: The games are a “trial”: Athena makes the stranger able to accomplish the contests “in which the Phaeacians made trial of Odysseus” (8.22–23); the young men make trial of one another in running and wrestling (8.120, 8.126); Laodamas bids the stranger “make trial” (8.145, 8.149), and he does (8.184), and challenges any man to make trial of him (8.205, 8.213).
+# ἐπειρήσαντʼ (8.23), πειρηθῶμεν (8.100), ἐπειρήσαντο (8.120), πειρήσαντο (8.126, 8.377), πειρήσομʼ (8.184), πειρηθήτω (8.205), πειρηθήμεναι (8.213).
+grc: ["ἐπειρήσαντʼ", πειρηθῶμεν, ἐπειρήσαντο, πειρήσαντο, "πειρήσομʼ", πειρηθήτω, πειρηθήμεναι]
+en: [made trial, make trial]
+---
+
+πειράω is the verb of the book's games, as ἄεθλος is their noun (see [[contests]] and the translation's table of key words). Alcinous proposes “let us go out and make trial of the contests” (8.100), and the young men make trial of one another in running and in wrestling, and of the ball (8.120, 8.126, 8.377). Laodamas invites the stranger, “make trial of the contests … But come, make trial” (8.145, 8.149; see [[no-greater-fame]]); he answers Euryalus, “though I have suffered many evils, I will make trial of the contests” (8.184), and after the discus he challenges them: “let him come here and make trial … I am willing to know him and to make trial face to face” (8.205, 8.213; see [[strife-with-ones-host]]). The narrator names the day in advance: Athena's grace was to let him accomplish “the many contests / in which the Phaeacians made trial of Odysseus” (8.22–23). He took part only in the discus, and Zenodotus athetized 8.23 for that reason (the scholia, in W. W. Merry's critical note, *Commentary on the Odyssey*, 1886; see the translation's note on 8.22–23).

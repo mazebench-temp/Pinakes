@@ -3,7 +3,7 @@ title: Who have their homes on Olympus
 greek: Ὀλύμπια δώματ’ ἔχοντες
 kind: epithet
 tags: [divine-epithet]
-summary: A line-end formula for the gods, and for the Muses, “who have their homes on Olympus.”
+summary: A line-end formula for the gods, and for the Muses, “who have their homes on Olympus,” with its shorter form, “the gods who hold Olympus.”
 aliases: [Olympia domat echontes]
 grc: [Ὀλύμπια δώματʼ ἔχοντες, "Ὀλύμπια δώματʼ ἐχόντων"]
 en: [who have their homes]

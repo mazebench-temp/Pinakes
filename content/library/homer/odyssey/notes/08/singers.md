@@ -1,0 +1,10 @@
+---
+summary: Demodocus is “the divine singer”, “the trusty singer” and “the renowned singer” of the book's formulas, seated by a pillar with his lyre hung above his head (8.43–70, 8.471–473). Odysseus gives singers their place in a maxim: “among all men upon the earth singers / have their share of honor and respect, because / the Muse has taught them their lays, and loves the tribe of singers” (8.479–481).
+passages:
+  - 8.62-70 | The singer is brought in
+  - 8.474-483 | The portion for the singer
+---
+
+**The singer in the hall.** Alcinous calls for “the divine singer, / Demodocus; for to him above all the god has given song, / to give delight in whatever way his heart urges him to sing” (8.43–45; see [[demodocus]] and [[divine]]), and the herald brings in “the trusty singer” (ἐρίηρον ἀοιδόν, 8.62, 8.471), ἐρίηρος being “worthy” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.62; see [[trusty]]). He sits in the midst of the banqueters, against a tall pillar, with the clear-toned lyre on its peg above his head and a table and a cup of wine beside him (8.65–70 = 8.471–473; see [[lyre]] and [[pontonous]]). At the end of each song the verse is the same: “This the renowned singer sang” (8.83, 8.367, 8.521; see [[famous]]).
+
+**The tribe of singers.** Before he asks for the song of the horse, Odysseus sends the singer a portion of the chine, with a maxim: “For among all men upon the earth singers / have their share of honor and respect, because / the Muse has taught them their lays, and loves the tribe of singers” (8.479–481; see [[time]], [[aidos]], [[oime]] and [[phylon]]). The singer receives it, ἥρῳ Δημοδόκῳ, “the hero Demodocus” (8.483; see [[heros]]). Hesiod gives singers the same origin: “from the Muses and far-shooting Apollo / come singers on the earth and players of the lyre”, and blessed is the man the Muses love (*Theogony* 94–97, a plain rendering; see [[muses]]). Odysseus' praise names the same two teachers, “Either the Muse, the child of Zeus, has taught you, or Apollo” (8.488; see [[memory-and-the-muses]]).

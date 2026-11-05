@@ -31,7 +31,7 @@ Homer knows Heracles as a mortal hero of the generation before the war. He tells
 - **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693; see [[heracles-sacks-pylos]]). He wounded Hera with an arrow, and Hades "in Pylos among the dead" (5.392–397).
 - **Death.** "For not even mighty Heracles escaped his doom," says Achilles, "who was the dearest of all to lord Zeus, son of Cronus; / but fate brought him down, and the grievous anger of Hera" (18.117–119).
 
-In the Odyssey, Odysseus sees his image in the underworld, bow in hand, while "he himself" feasts among the gods with Hebe as his wife (11.601–626); the lines that make him a god were suspected already in antiquity. The Odyssey also remembers that he killed his guest Iphitus (21.22–30) and that he rivaled the gods at archery (8.223–225).
+In the Odyssey, Odysseus sees his image in the underworld, bow in hand, while "he himself" feasts among the gods with Hebe as his wife (*Odyssey* 11.601–626); the lines that make him a god were suspected already in antiquity. The Odyssey also remembers that he killed his guest Iphitus (*Odyssey* 21.22–30) and that he rivaled the gods at archery (*Odyssey* 8.223–225; see [[who-fights-the-gods]]).
 
 ## Outside Homer
 

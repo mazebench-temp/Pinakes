@@ -27,7 +27,7 @@ The Iliad names him only in its last games, where he wins the boxing and throws 
 
 ## Elsewhere in Homer
 
-In the Odyssey he is the builder of the wooden horse. Odysseus asks Demodocus to sing of the horse “which Epeius made with Athena”, and which Odysseus brought into the citadel as a trick, filled with the men who sacked Ilios (*Odyssey* 8.492–495); he tells the shade of Achilles of the day when the best of the Argives went down into “the horse that Epeius made” (*Odyssey* 11.523–524; see [[sinon-and-the-wooden-horse]] and [[athena]]). The Odyssey gives the craftsman no father; later writers call the maker of the horse “son of Panopeus”, as the Iliad calls the boxer.
+In the Odyssey he is the builder of the wooden horse, which he made with Athena's help and Odysseus brought into the citadel of Troy as a snare, filled with the men who sacked Ilios (*Odyssey* 8.492–495); Odysseus tells the shade of Achilles of the day when the best of the Argives went down into “the horse that Epeius made” (*Odyssey* 11.523–524, a plain rendering; see [[sinon-and-the-wooden-horse]] and [[athena]]). The Odyssey gives the craftsman no father; later writers call the maker of the horse “son of Panopeus”, as the Iliad calls the boxer.
 
 ## Outside Homer
 

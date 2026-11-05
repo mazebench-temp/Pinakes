@@ -6,9 +6,10 @@ tags: [olympian, child-of-zeus]
 summary: Son of [[Zeus]], the gods' messenger and the guide of travelers and of the dead. Homer calls him Ἑρμείας or Ἑρμῆς, and gives him two old titles of uncertain meaning, διάκτορος and ἀργεϊφόντης.
 aliases: [Hermeias, Hermes Argeiphontes, Argeiphontes]
 # Ἑρμῆς, the contracted name, is the god wherever it occurs (Il. 20.72, which the Book 20 note also claims; Od. 5.54,
-# 24.1; Rhetoric 1401a22, which the Rhetoric note also claims). The Odyssey's Ἑρμῆν (8.334; Rhetoric 1401a21) and Ἑρμῇ
-# (14.435) will join it when those books are added. Never a stem Ἑρμ*, which would catch Ἕρμος, the river (Il. 20.392).
-grc: [Ἑρμεία*, Ἑρμῆς, ἀργεϊφόντ*, διακτόρ*]
+# 24.1; Rhetoric 1401a22, which the Rhetoric note also claims). So is the accusative Ἑρμῆν (Od. 8.334; Rhetoric 1401a21,
+# which the Rhetoric note also claims); the dative Ἑρμῇ (Od. 14.435) will join them when that book is added. Never a stem
+# Ἑρμ*, which would catch Ἕρμος, the river (Il. 20.392), and ἑρμηνεία (Poetics 1450b14).
+grc: [Ἑρμεία*, Ἑρμῆς, Ἑρμῆν, ἀργεϊφόντ*, διακτόρ*]
 en: [Hermes, slayer of Argus, guide]
 relations:
   - father: zeus (24.333)

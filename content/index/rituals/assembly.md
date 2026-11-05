@@ -17,7 +17,10 @@ grc: [ἀγορ*, ἤγερθεν ὁμηγερέες]
 # ἀγορεύω at Od. 1.174, 1.179, 1.214, 1.307, 1.382 and 1.385 is "speak, tell", not an assembly.
 # ἀγορεύω (Od. 3.82) and ἀγορεύσω (Od. 3.254) are "speak of" and "tell", in Nestor's company at Pylos.
 # ἀγορήσατο (Od. 7.158, 7.185), ἀγορεῦσαι (7.241) and ἀγόρευον (7.334) are speaking at the feast of the Phaeacians.
-except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20, Od. 1.174, Od. 1.179, Od. 1.214, Od. 1.307, Od. 1.382, Od. 1.385, Od. 3.82, Od. 3.254, Od. 4.76, Od. 4.157, Od. 4.189, Od. 4.383, Od. 4.399, Od. 4.611, Od. 4.620, Od. 4.645, Od. 4.773, Od. 4.836, Od. 5.183, Od. 7.158, Od. 7.185, Od. 7.241, Od. 7.334]
+# ἀγόρευον (Od. 8.333), the gods' talk to one another at Hephaestus' door, and ἀγόρευʼ (Od. 8.570), "so the old man
+# used to say", are speaking. ἀγορήσατο (Od. 8.25), ἀγορεύει (8.171), ἀγορεύεις (8.236) and ἀγόρευον (8.505, the
+# Trojans around the horse) are speech before the gathered people, and stay.
+except: [1.365, 5.274, 5.431, 10.180, 10.250, 13.81, 18.95, 18.142, 18.368, 21.99, 21.121, 21.427, 21.514, 22.261, 22.377, 23.535, 24.142, 24.373, Rhetoric 1354a22, Rhetoric 1359b20, Rhetoric 1368a18, Rhetoric 1374a20, Od. 1.174, Od. 1.179, Od. 1.214, Od. 1.307, Od. 1.382, Od. 1.385, Od. 3.82, Od. 3.254, Od. 4.76, Od. 4.157, Od. 4.189, Od. 4.383, Od. 4.399, Od. 4.611, Od. 4.620, Od. 4.645, Od. 4.773, Od. 4.836, Od. 5.183, Od. 7.158, Od. 7.185, Od. 7.241, Od. 7.334, Od. 8.333, Od. 8.570]
 refs: [1.191]
 en: [assembly, assembled, orator, declare, declared, began to speak]
 passages:

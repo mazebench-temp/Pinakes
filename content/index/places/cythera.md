@@ -19,7 +19,7 @@ Amphidamas of Cythera (Κυθηρίῳ, an adjective of the island's name) is on
 
 ## Aphrodite of Cythera
 
-The Odyssey twice calls Aphrodite Κυθέρεια, “Cytherea” (*Odyssey* 8.288, 18.193); the Iliad does not (see [[aphrodite]]). Hesiod explains the title from the island, where the goddess came first from the sea before she went on to Cyprus (*Theogony* 192–198; see [[hesiod]]). The vowels of the two words differ (Κυθέρεια, Κύθηρα), and the connection may be no more than the ancient one.
+The Odyssey twice calls Aphrodite Κυθέρεια, “Cytherea”, in the verse-end “well-crowned Cytherea” (*Odyssey* 8.288, 18.193); the Iliad does not (see [[cytherea]] and [[aphrodite]]). Hesiod explains the title from the island, where the goddess came first from the sea before she went on to Cyprus (*Theogony* 192–198; see [[hesiod]]). The vowels of the two words differ (Κυθέρεια, Κύθηρα), and the connection may be no more than the ancient one.
 
 ## Outside Homer
 

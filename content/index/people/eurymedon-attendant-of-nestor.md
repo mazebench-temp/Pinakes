@@ -20,6 +20,6 @@ passages:
 
 When Diomedes takes Nestor into his chariot, he leaves the old man's horses to “our attendants” (θεράποντε, a dual: 8.109), who are named as they take over: “mighty Sthenelus and manly Eurymedon” (8.114; see [[sthenelus]], [[nestor]] and [[manly]]). In *Iliad* 11 the same Eurymedon unyokes Nestor's horses at his hut, when the old man brings the wounded Machaon back from the battle (11.618–621).
 
-Diomedes has just told Nestor that “your attendant is a weakling” (ἠπεδανός, 8.104), yet the two who take over are ἴφθιμοι, “mighty”. The poem does not say whether Diomedes meant Eurymedon. ἠπεδανός occurs only once more, when Hephaestus speaks of his own lameness (Od. 8.311).
+Diomedes has just told Nestor that “your attendant is a weakling” (ἠπεδανός, 8.104), yet the two who take over are ἴφθιμοι, “mighty”. The poem does not say whether Diomedes meant Eurymedon. ἠπεδανός occurs only once more, when Hephaestus speaks of his own lameness, “while I / was born a weakling” (*Odyssey* 8.310–311; see [[the-song-of-ares-and-aphrodite]]).
 
 The name, “wide-ruling”, belongs also to Agamemnon's charioteer, the son of Ptolemaeus (4.228; see [[eurymedon]]), and in the Odyssey to a king of the Giants (*Odyssey* 7.58; see [[eurymedon-king-of-the-giants]]). Nothing in the text makes Nestor's attendant and Agamemnon's one man.

@@ -24,7 +24,7 @@ The poem never reaches the sack. It ends with Hector's funeral. Its characters l
 
 ## Outside Homer
 
-The *Odyssey* tells parts of the sack. Demodocus sings of the Wooden Horse and the night of the sack at the court of the Phaeacians (*Odyssey* 8.499–520). Menelaus remembers how Helen walked around the horse calling to the men inside (4.271–289). Odysseus tells the shade of Achilles how bravely his son Neoptolemus waited inside it (11.523–532).
+The *Odyssey* tells parts of the sack. Demodocus sings of the Wooden Horse and the night of the sack at the court of the Phaeacians (*Odyssey* 8.499–520; see [[sinon-and-the-wooden-horse]] and [[the-fall-of-troy]]). Menelaus remembers how Helen walked around the horse calling to the men inside (*Odyssey* 4.271–289). Odysseus tells the shade of Achilles how bravely his son Neoptolemus waited inside it (*Odyssey* 11.523–532).
 
 The epic cycle gave the fall of Troy a poem of its own, the *Iliupersis* ("Sack of Ilion") attributed to Arctinus of Miletus. It is lost. It is known from the summary by [[proclus]]:
 

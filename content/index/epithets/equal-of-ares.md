@@ -3,7 +3,7 @@ title: Equal of Ares
 greek: ἀτάλαντος Ἄρηϊ
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: “A match for Ares,” an epithet of warriors such as [[Meges]], [[Meriones]] and Hector; for Meriones also “the equal of Enyalius.”
+summary: “A match for Ares,” an epithet of warriors such as [[Meges]], [[Meriones]] and Hector, and once in the Odyssey of a young Phaeacian at the games; for Meriones also “the equal of Enyalius.”
 aliases: [equal to Ares, atalantos Arei]
 grc: [ἀτάλαντος Ἄρηϊ, ἀτάλαντος Ἐνυαλίῳ]
 en: [the equal of]

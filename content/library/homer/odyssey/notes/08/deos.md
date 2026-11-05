@@ -1,0 +1,5 @@
+---
+summary: The stranger, who fears no man at the bow or the spear, fears only the running: “Only in running I fear that someone may outstrip me” (8.230). The Phaeacian ships, by contrast, “never … have any fear of coming to harm or of perishing” (8.562–563).
+---
+
+The stranger's one fear is honest: “Only in running I fear that someone may outstrip me, / one of the Phaeacians; for I have been too shamefully overcome / among many waves” (δείδοικα, 8.230–232; see [[nothing-worse-than-the-sea]]). οἴοισιν is adverbial, “only”, and ποσίν is “racing” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.230). The Phaeacians run swiftly, as Alcinous grants in his answer (8.247). Their ships are without fear: “never do they / have any fear of coming to harm or of perishing” (οὐδέ ποτέ σφιν / οὔτε τι πημανθῆναι ἔπι δέος, 8.562–563), where one joins οὔτε σφιν ἔπι, “there is upon them”, with δέος (Merry on 8.562; see [[pompe]]). The next verses tell of the god who will make them afraid (8.564–571; see [[poseidon]]).

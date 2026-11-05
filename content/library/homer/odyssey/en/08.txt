@@ -1,0 +1,589 @@
+# Homer, Odyssey, Book 8 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	And when early-born Dawn appeared, the rosy-fingered,
+2	the sacred might of Alcinous rose from his bed,
+3	and up rose Odysseus, sprung from Zeus, sacker of cities.
+4	And the sacred might of Alcinous led the way for them
+5	to the place of assembly of the Phaeacians, which was built for them beside the ships.
+6	And they came and sat down on the polished stones
+7	near together. And Pallas Athena went up and down through the city
+8	in the likeness of the herald of wise-hearted Alcinous,
+9	devising a homecoming for great-hearted Odysseus,
+10	and standing beside each man she spoke her word:
+11	“Come now, leaders and rulers of the Phaeacians,
+12	go to the place of assembly, so that you may learn about the stranger
+13	who has newly come to the house of wise-hearted Alcinous,
+14	after wandering over the sea, like the immortals in form.”
+15	So saying, she urged on the might and spirit of every man.
+16	And quickly the places of assembly and the seats were filled with mortals
+17	as they gathered; and many gazed when they saw
+18	the wise-hearted son of Laertes; for upon him Athena
+19	poured a wondrous grace, upon his head and shoulders,
+20	and made him taller and stouter to look upon,
+21	so that he might be dear to all the Phaeacians,
+22	and feared and respected, and might accomplish the many contests
+23	in which the Phaeacians made trial of Odysseus.
+24	And when they had gathered and were all assembled,
+25	then Alcinous addressed them and spoke:
+26	“Hear me, leaders and rulers of the Phaeacians,
+27	so that I may say what the heart in my breast commands me.
+28	This stranger, I do not know who he is, has come to my house in his wanderings,
+29	whether from the men of the east or from the men of the west;
+30	and he urges an escort, and begs that it be made sure.
+31	So let us, as has been our custom, urge on an escort.
+32	For no other man either, who comes to my house,
+33	stays here long, mourning, for want of an escort.
+34	But come, let us drag a black ship down to the shining sea
+35	on her first voyage, and let two and fifty young men
+36	be chosen throughout the people, those who are the best, as always.
+37	And when you have all made the oars fast at the rowing benches,
+38	step out again; and then make ready a quick feast,
+39	coming to our house; and I will provide well for all.
+40	This I lay on the young men; but the rest of you,
+41	the scepter-bearing kings, come to my beautiful house,
+42	so that we may make the stranger welcome in the halls;
+43	and let no one refuse. And call the divine singer,
+44	Demodocus; for to him above all the god has given song,
+45	to give delight in whatever way his heart urges him to sing.”
+46	So he spoke, and led the way, and they followed with him,
+47	the scepter-bearing kings; and a herald went to fetch the divine singer.
+48	And the two and fifty young men who had been chosen
+49	went, as he had bidden, to the shore of the barren sea.
+50	And when they had come down to the ship and the sea,
+51	they dragged the black ship down into deep water,
+52	and set the mast and the sails in the black ship,
+53	and fitted the oars in their leather straps,
+54	all in good order, and spread the white sails;
+55	and they anchored her out in the water; and then
+56	they went to the great house of wise-hearted Alcinous.
+57	And the colonnades and the courts and the rooms were filled with men
+58	as they gathered; and there were many, young and old.
+59	And for them Alcinous sacrificed twelve sheep,
+60	and eight white-tusked hogs, and two shambling cattle;
+61	these they flayed and dressed, and made ready a lovely feast.
+62	And the herald came near, leading the trusty singer,
+63	whom the Muse loved above all, and she gave him both good and evil:
+64	she robbed him of his eyes, but gave him sweet song.
+65	And Pontonous set for him a silver-studded chair
+66	in the midst of the banqueters, leaning it against a tall pillar;
+67	and he hung the clear-toned lyre from its peg
+68	right above his head, and showed him where to take it in his hands,
+69	the herald; and beside him he set a basket and a beautiful table,
+70	and beside it a cup of wine, to drink whenever his heart bade him.
+71	And they put out their hands to the good things lying ready before them.
+72	But when they had put away the desire for drink and food,
+73	the Muse set the singer on to sing the famous deeds of men,
+74	from a lay whose fame had at that time reached the wide sky,
+75	the quarrel of Odysseus and Achilles, son of Peleus,
+76	how once they contended at a rich feast of the gods
+77	with terrible words; yet Agamemnon, lord of men,
+78	rejoiced in his mind that the best of the Achaeans were contending.
+79	For so Phoebus Apollo had told him in prophecy
+80	in sacred Pytho, when he crossed the stone threshold
+81	to consult the oracle; for then the beginning of bane was rolling upon
+82	Trojans and Danaans through the counsels of great Zeus.
+83	This the renowned singer sang; but Odysseus
+84	took his great purple mantle in his strong hands
+85	and drew it down over his head, and covered his handsome face;
+86	for he was ashamed before the Phaeacians, letting tears fall from beneath his brows.
+87	Each time the divine singer stopped singing,
+88	he would wipe away his tears and take the mantle from his head,
+89	and take the two-handled cup and pour libations to the gods;
+90	but whenever he began again, and they urged him to sing,
+91	the best of the Phaeacians, since they delighted in his words,
+92	Odysseus would cover his head again and lament.
+93	Then he escaped the notice of all the others as he let tears fall,
+94	but Alcinous alone noticed him and observed him,
+95	sitting near him, and heard him groaning heavily.
+96	And at once he spoke among the Phaeacians, lovers of the oar:
+97	“Hear me, leaders and rulers of the Phaeacians.
+98	Already we have had our hearts' fill of our equal share of the feast
+99	and of the lyre, which is the companion of the rich feast;
+100	but now let us go out and make trial of the contests,
+101	all of them, so that the stranger may tell his friends,
+102	when he has returned home, how far we surpass others
+103	in boxing and in wrestling and in jumping and in running.”
+104	So he spoke, and led the way, and they followed with him.
+105	And he hung the clear-toned lyre from its peg,
+106	and took Demodocus by the hand and led him out of the hall,
+107	the herald; and he led him on the same road by which the others went,
+108	the best of the Phaeacians, to marvel at the games.
+109	They went to the place of assembly, and a great throng followed with them,
+110	countless; and young men stood up, many and noble.
+111	There rose up Acroneus and Ocyalus and Elatreus,
+112	Nauteus and Prymneus and Anchialus and Eretmeus,
+113	Ponteus and Proreus, Thoon and Anabesineus,
+114	and Amphialus, son of Polyneus, the son of Tecton;
+115	and up rose Euryalus too, the equal of Ares, ruin of mortals,
+116	the son of Naubolus, who was the best in looks and form
+117	of all the Phaeacians after noble Laodamas.
+118	And up stood the three sons of noble Alcinous,
+119	Laodamas and Halius and godlike Clytoneus.
+120	And first of all they made trial of one another in running.
+121	For them the running was strained to the full from the post; and all together
+122	they flew swiftly on, raising the dust of the plain.
+123	And of them noble Clytoneus was by far the best at running:
+124	as far as the furrow-length of a pair of mules in the fallow,
+125	so far did he run out ahead and reach the people, and the others were left behind.
+126	Then they made trial of painful wrestling,
+127	and in this, in turn, Euryalus surpassed all the best.
+128	In jumping Amphialus was the foremost of all,
+129	and with the discus, again, Elatreus was by far the strongest of all,
+130	and in boxing, again, Laodamas, the good son of Alcinous.
+131	But when they had all delighted their hearts with the contests,
+132	then Laodamas, the son of Alcinous, spoke among them:
+133	“Come, friends, let us ask the stranger whether there is some contest
+134	he knows and has learned. In build at least he is no mean man,
+135	in his thighs and shins, and both his hands above,
+136	and his massive neck and his great strength; nor does he lack
+137	anything of youth, but he has been broken by many evils;
+138	for I, for my part, say there is nothing else worse than the sea
+139	to unstring a man, however strong he may be.”
+140	Then Euryalus answered him in turn and said:
+141	“Laodamas, this word you have spoken is fair and right.
+142	Now go yourself and challenge him, and make your word known.”
+143	But when the good son of Alcinous heard this,
+144	he went and stood in the middle and spoke to Odysseus:
+145	“Come here, you too, stranger, father, and make trial of the contests,
+146	if you have perhaps learned any; and it is fitting that you know contests;
+147	for there is no greater fame for a man, as long as he lives,
+148	than what he achieves with his feet and with his hands.
+149	But come, make trial, and scatter the sorrows from your heart.
+150	For your journey will not be far off much longer; but already
+151	the ship has been drawn down, and the companions are ready.”
+152	Answering him, Odysseus of many wiles said:
+153	“Laodamas, why do you bid me do these things, taunting me?
+154	Sorrows are on my mind far more than contests,
+155	who before have suffered very much and toiled much,
+156	and now in the midst of your assembly, in need of my homecoming,
+157	I sit, begging the king and all the people.”
+158	Then Euryalus answered him in turn and rebuked him to his face:
+159	“No, stranger, I do not liken you to a man skilled
+160	in contests, such as there are many among men,
+161	but to one who goes to and fro with a many-benched ship,
+162	a leader of sailors who are traders,
+163	and who is mindful of his freight, or watches over his homeward cargo
+164	and his greedily snatched gains; you are not like an athlete.”
+165	Looking at him darkly, Odysseus of many wiles said:
+166	“Stranger, you have not spoken well; you are like a reckless man.
+167	So true is it that the gods do not give their gracious gifts to all
+168	men alike, neither stature nor mind nor eloquence.
+169	For one man is less in looks,
+170	but a god crowns his words with beauty, and men look on him
+171	with delight; and he speaks surely,
+172	with soothing modesty, and stands out among those gathered,
+173	and as he goes through the city they look on him as a god.
+174	Another again in looks is like the immortals,
+175	but no grace is set as a crown around his words;
+176	so with you too, your looks are outstanding, and not even a god
+177	would fashion them otherwise, but in mind you are worthless.
+178	You have stirred the heart in my breast
+179	by speaking in no seemly way. I am not unskilled in contests,
+180	as you say, but among the foremost, I think,
+181	I used to be, as long as I trusted in my youth and my hands.
+182	But now I am held fast by misery and sorrows; for I have endured much,
+183	passing through the wars of men and the grievous waves.
+184	But even so, though I have suffered many evils, I will make trial of the contests;
+185	for your word bites the heart, and you have urged me on by your speech.”
+186	He spoke, and sprang up with his mantle still on, and seized a discus
+187	bigger and thicker, and heavier by no little,
+188	than those with which the Phaeacians threw among themselves.
+189	This he whirled round and let fly from his strong hand,
+190	and the stone hummed; and down to the earth they cowered,
+191	the Phaeacians of the long oars, men famed for ships,
+192	under the rush of the stone; and it flew beyond the marks of all,
+193	speeding swiftly from his hand. And Athena set the mark,
+194	in form like a man, and spoke to him, and called him by name:
+195	“Even a blind man, stranger, could sort out your mark
+196	by feeling for it, since it is not mingled with the throng,
+197	but far the first. Take heart about this contest at least:
+198	none of the Phaeacians will reach this or throw beyond it.”
+199	So she spoke, and much-enduring brilliant Odysseus was glad,
+200	rejoicing that he saw a gentle companion in the gathering.
+201	And then he spoke more lightly among the Phaeacians:
+202	“Reach that now, young men. And presently I will send another after it,
+203	as far, I think, or even farther still.
+204	And of the rest, whoever's heart and spirit bids him,
+205	let him come here and make trial, since you have angered me greatly,
+206	in boxing or wrestling or even in running; I do not begrudge it
+207	to any of all the Phaeacians, except Laodamas himself.
+208	For he is my host; who would fight with one who makes him welcome?
+209	Witless indeed and a nobody is that man
+210	who brings on strife in contests with his host
+211	in a foreign land; he cuts short all that is his own.
+212	But of the others I refuse no one, nor do I make light of any,
+213	but I am willing to know him and to make trial face to face.
+214	For I am no mean man at all the contests there are among men:
+215	I know well how to handle the polished bow;
+216	I would be the first to shoot and strike my man in a throng
+217	of hostile men, even if very many companions
+218	stood near beside me and were shooting at the men.
+219	Philoctetes alone surpassed me with the bow
+220	in the land of the Trojans, when we Achaeans shot with the bow.
+221	But of the others I say that I am far better,
+222	of all the mortals who are now on the earth and eat bread.
+223	But with men of former days I will not wish to vie,
+224	neither with Heracles nor with Eurytus of Oechalia,
+225	who vied even with the immortals in archery.
+226	That is why great Eurytus died early, and did not reach old age
+227	in his halls; for Apollo in anger
+228	killed him, because he challenged him to shoot with the bow.
+229	And I throw the spear as far as no other man shoots an arrow.
+230	Only in running I fear that someone may outstrip me,
+231	one of the Phaeacians; for I have been too shamefully overcome
+232	among many waves, since on board the ship my keep was not
+233	unfailing; and so my limbs are loosened.”
+234	So he spoke, and they all fell hushed in silence.
+235	But Alcinous alone, answering him, said:
+236	“Stranger, since what you say among us is not ungracious,
+237	but you wish to show the excellence that attends you,
+238	angry because this man stood beside you in the gathering
+239	and rebuked you, in such a way as no mortal would make light of your excellence
+240	who knew in his mind how to speak fitting words,
+241	but come now, listen to my word, so that you may tell it
+242	to another of the heroes too, when in your own halls
+243	you feast beside your wife and your children,
+244	remembering our excellence, the kind of deeds that on us too
+245	Zeus lays, continually, from the days of our fathers.
+246	For we are not flawless boxers, nor wrestlers,
+247	but we run swiftly with our feet, and are the best with ships;
+248	and always dear to us are the feast and the lyre and the dances
+249	and changes of clothing and warm baths and beds.
+250	But come, you Phaeacian dancers, all who are the best,
+251	make your sport, so that the stranger may tell his friends,
+252	when he has returned home, how far we surpass others
+253	in seafaring and in running and in dancing and in song.
+254	And let someone go at once and bring Demodocus the clear-toned lyre
+255	that lies somewhere in our house.”
+256	So spoke godlike Alcinous, and the herald rose
+257	to bring the hollow lyre from the king's house.
+258	And the chosen stewards, nine in all, stood up,
+259	officers of the people, who used to manage everything well at the gatherings,
+260	and they leveled a dancing floor, and widened a fine gathering.
+261	And the herald came near, bringing the clear-toned lyre
+262	for Demodocus; and he then went into the middle; and around him young men
+263	in their first youth took their stand, skilled in dancing,
+264	and they struck the divine dancing floor with their feet. And Odysseus
+265	gazed at the flashing of their feet, and marveled in his heart.
+266	And he, playing the lyre, struck up a fine song
+267	about the love of Ares and well-crowned Aphrodite,
+268	how they first lay together in the house of Hephaestus
+269	in secret; and he gave her many gifts, and shamed the bed and couch
+270	of lord Hephaestus. But at once a messenger came to him,
+271	the Sun, who had seen them lying together in love.
+272	And when Hephaestus heard the heart-grieving tale,
+273	he went to his smithy, brooding evil deep in his mind,
+274	and set the great anvil on the anvil block, and forged bonds
+275	unbreakable, not to be loosed, so that they might stay there steadfast.
+276	But when he had made the snare, in his anger at Ares,
+277	he went to the chamber where his bed lay,
+278	and all around the bedposts he poured the bonds in a circle on every side,
+279	and many too were poured down from above, from the roof beam,
+280	fine as spider's webs, which no one could even see,
+281	not even one of the blessed gods; for they were made exceedingly cunning.
+282	But when he had poured the whole snare around the bed,
+283	he made as if to go to Lemnos, the well-built citadel,
+284	which is by far the dearest to him of all lands.
+285	Nor did Ares of the golden reins keep a blind watch,
+286	when he saw Hephaestus, famed for his craft, going away;
+287	and he went to the house of renowned Hephaestus,
+288	eager for the love of well-crowned Cytherea.
+289	She had just come from her father, the mighty son of Cronus,
+290	and had sat down; and he came into the house,
+291	and he clung to her hand, and spoke to her, and called her by name:
+292	“Come here, my dear, let us go to bed and take our pleasure, lying together;
+293	for Hephaestus is no longer at home, but has gone already, I think,
+294	to Lemnos, to the Sintians of savage speech.”
+295	So he spoke, and it seemed welcome to her to lie down to sleep.
+296	And the two went to the bed and slept; and around them the bonds
+297	of Hephaestus of much wisdom poured, skillfully made,
+298	and they could not move or lift any of their limbs.
+299	And then indeed they knew that there was no more escape.
+300	And the renowned god, lame in both legs, came near them,
+301	having turned back before he reached the land of Lemnos;
+302	for the Sun had kept watch for him and told him the tale.
+303	He went to the house, grieving at heart,
+304	and stood in the doorway, and a savage anger gripped him;
+305	and he shouted terribly, and called out to all the gods:
+306	“Father Zeus, and you other blessed gods who live forever,
+307	come here, so that you may see deeds that are laughable, and hard to bear:
+308	how Aphrodite, the daughter of Zeus, because I am lame,
+309	always dishonors me, and loves destructive Ares,
+310	because he is handsome and sound of foot, while I
+311	was born a weakling. Yet no one else is to blame for this,
+312	but my two parents, who I wish had never begotten me.
+313	But you will see where the two of them sleep in love,
+314	having gone into my bed, and I am grieved to see it.
+315	Yet I do not expect that they will lie like this even a little longer,
+316	however much in love they are; soon they will both lose their wish
+317	to sleep; but the snare and the bonds will hold them
+318	until her father gives me back the whole bride-price,
+319	all that I put into his hands for the sake of the dog-faced girl,
+320	because his daughter is beautiful, but she has no self-control.”
+321	So he spoke, and the gods gathered to the bronze-floored house;
+322	there came Poseidon, the earth-holder; there came the great helper
+323	Hermes; and far-working lord Apollo came.
+324	But the goddesses, being female, stayed each at home for shame.
+325	And the gods, the givers of blessings, stood in the doorway;
+326	and unquenchable laughter rose among the blessed gods
+327	as they saw the craft of Hephaestus of much wisdom.
+328	And this is what a man would say, looking at his neighbor:
+329	“Evil deeds do not prosper; the slow overtakes the swift,
+330	as now Hephaestus, slow as he is, has caught Ares,
+331	though he is the swiftest of the gods who hold Olympus,
+332	lame as he is, by his craft; and so he owes the adulterer's fine.”
+333	So they spoke such words to one another;
+334	and lord Apollo, son of Zeus, spoke to Hermes:
+335	“Hermes, son of Zeus, guide, giver of blessings,
+336	would you be willing, held fast in strong bonds,
+337	to sleep in bed beside golden Aphrodite?”
+338	Then the guide, the slayer of Argus, answered him:
+339	“If only this might come to pass, lord Apollo who shoots from afar!
+340	Let three times as many boundless bonds hold me fast all around,
+341	and you gods look on, and all the goddesses too,
+342	but let me sleep beside golden Aphrodite.”
+343	So he spoke, and laughter rose among the immortal gods.
+344	But laughter did not hold Poseidon, and he kept begging
+345	Hephaestus, famed for his work, to set Ares free;
+346	and he spoke to him, addressing him with winged words:
+347	“Set him free; and I promise you that he himself, as you bid,
+348	will pay all that is due among the immortal gods.”
+349	Then the renowned god, lame in both legs, spoke to him in turn:
+350	“Do not bid me do this, Poseidon, earth-holder;
+351	pledges for the worthless are worthless things even to accept.
+352	How could I bind you among the immortal gods,
+353	if Ares should go off, escaping both the debt and the bonds?”
+354	Then Poseidon the earth-shaker spoke to him in turn:
+355	“Hephaestus, even if Ares should escape the debt
+356	and go off in flight, I myself will pay you this.”
+357	Then the renowned god, lame in both legs, answered him:
+358	“It is not possible, nor would it be fitting, to refuse your word.”
+359	So saying, the might of Hephaestus loosed the bonds.
+360	And the two, when they were loosed from the bonds, strong as they were,
+361	sprang up at once, and he went his way to Thrace,
+362	and she, laughter-loving Aphrodite, came to Cyprus,
+363	to Paphos, where she has a precinct and a fragrant altar.
+364	There the Graces washed her and anointed her with oil
+365	immortal, such as is upon the gods who live forever,
+366	and they clothed her in lovely garments, a wonder to see.
+367	This the renowned singer sang; but Odysseus
+368	was delighted in his heart as he listened, and so were the others,
+369	the Phaeacians of the long oars, men famed for ships.
+370	And Alcinous bade Halius and Laodamas
+371	dance alone, since no one vied with them.
+372	And when they had taken in their hands the beautiful ball,
+373	a purple one, which wise-hearted Polybus had made for them,
+374	one of them would fling it toward the shadowy clouds,
+375	bending back, and the other, leaping high from the ground,
+376	would catch it easily before his feet touched the ground.
+377	But when they had made trial with the ball thrown straight up,
+378	then they danced on the bountiful earth,
+379	changing places again and again; and the other young men beat time,
+380	standing about the gathering, and a great din arose.
+381	Then brilliant Odysseus spoke to Alcinous:
+382	“Powerful Alcinous, preeminent among all the people,
+383	you boasted that your dancers were the best,
+384	and indeed it has proved true; awe holds me as I look.”
+385	So he spoke, and the sacred might of Alcinous rejoiced,
+386	and at once he spoke among the Phaeacians, lovers of the oar:
+387	“Hear me, leaders and rulers of the Phaeacians.
+388	The stranger seems to me to be a very wise man.
+389	But come, let us give him a guest-gift, as is fitting.
+390	For twelve distinguished kings throughout the land
+391	rule as leaders, and I myself am the thirteenth;
+392	of these let each of you bring him a freshly washed mantle and a tunic
+393	and a talent of precious gold.
+394	And let us quickly bring them all together, so that with them in his hands
+395	the stranger may go to supper rejoicing in his heart.
+396	And let Euryalus make amends to the man himself with words
+397	and with a gift, since the word he spoke was by no means fair and right.”
+398	So he spoke, and they all approved and bade it be done,
+399	and each sent forth a herald to bring the gifts.
+400	Then Euryalus answered him in turn and said:
+401	“Powerful Alcinous, preeminent among all the people,
+402	well then, I will make amends to the stranger, as you bid.
+403	I will give him this sword, all of bronze, which has a hilt
+404	of silver, and a sheath of newly sawn ivory
+405	is wound around it; and it will be worth much to him.”
+406	So saying, he put the silver-studded sword in his hands,
+407	and he spoke to him, addressing him with winged words:
+408	“Farewell, stranger, father; and if any word has been spoken
+409	that was terrible, may the storm winds at once snatch it up and carry it away.
+410	And may the gods grant you to see your wife and to reach your native land,
+411	since long now you suffer woes far from your friends.”
+412	Answering him, Odysseus of many wiles said:
+413	“And you too, my friend, fare very well, and may the gods grant you prosperity.
+414	And may no longing for this sword ever come upon you hereafter,
+415	which you have given me, making amends with your words.”
+416	He spoke, and around his shoulders he slung the silver-studded sword.
+417	And the sun set, and the glorious gifts were there for him.
+418	And the noble heralds carried them to the house of Alcinous;
+419	and the sons of noble Alcinous received them
+420	and set the beautiful gifts beside their revered mother.
+421	And the sacred might of Alcinous led the way for them,
+422	and they came and sat down on the high chairs.
+423	Then the might of Alcinous spoke to Arete:
+424	“Come here, lady, bring a splendid chest, the best there is,
+425	and put in it yourself a freshly washed mantle and a tunic.
+426	And warm a cauldron on the fire for him, and heat water,
+427	so that when he has bathed and seen all the gifts well laid away,
+428	which the noble Phaeacians have brought here for him,
+429	he may take delight in the feast and in hearing the strains of the song.
+430	And I will grant him this beautiful goblet of mine,
+431	of gold, so that remembering me all his days
+432	he may pour libations in his hall to Zeus and the other gods.”
+433	So he spoke, and Arete told her slave women
+434	to set a great tripod over the fire with all speed.
+435	And they set the tripod for the bath on the blazing fire,
+436	and poured water into it, and took wood and kindled it beneath.
+437	The fire played around the belly of the tripod, and the water grew warm;
+438	meanwhile Arete brought out for the stranger a beautiful chest
+439	from the chamber, and put in it the beautiful gifts,
+440	the clothing and the gold, which the Phaeacians had given him;
+441	and in it she herself put a mantle and a fine tunic,
+442	and she spoke to him, addressing him with winged words:
+443	“See to the lid yourself now, and quickly tie a knot on it,
+444	so that no one may do you harm on the way, when hereafter
+445	you sleep sweet sleep as you go in the black ship.”
+446	But when much-enduring brilliant Odysseus heard this,
+447	at once he fitted on the lid, and quickly tied a knot on it,
+448	a complicated one, which lady Circe had once taught him.
+449	And straightway the housekeeper bade him bathe,
+450	stepping into the bathtub; and he was glad in his heart to see
+451	the warm bath, since he had not often been cared for so
+452	since he left the house of Calypso of the lovely hair;
+453	but all that time his keep had been steady, as for a god.
+454	And when the slave women had washed him and anointed him with oil,
+455	and put a fine cloak and a tunic around him,
+456	he stepped out of the bathtub and went among the men
+457	drinking wine; and Nausicaa, who had her beauty from the gods,
+458	stood by the doorpost of the strongly made hall,
+459	and marveled at Odysseus as she looked at him with her eyes,
+460	and she spoke to him, addressing him with winged words:
+461	“Farewell, stranger, so that someday, when you are in your native land,
+462	you may remember me, since to me first you owe the price for your life.”
+463	Answering her, Odysseus of many wiles said:
+464	“Nausicaa, daughter of great-hearted Alcinous,
+465	so may Zeus now grant it, the loud-thundering husband of Hera,
+466	that I may come home and see the day of my homecoming;
+467	then even there I would pray to you as to a god
+468	always, all my days; for you gave me my life, maiden.”
+469	He spoke, and sat down on a chair beside King Alcinous;
+470	and they were already serving out portions and mixing the wine.
+471	And the herald came near, leading the trusty singer,
+472	Demodocus, honored by the people; and he seated him
+473	in the midst of the banqueters, leaning him against a tall pillar.
+474	Then Odysseus of many wiles spoke to the herald,
+475	having cut off a portion of the chine (and yet more was left over)
+476	of a white-tusked boar, and there was rich lard on either side:
+477	“Herald, here, give this meat, so that he may eat,
+478	to Demodocus; and I will greet him, for all my grief.
+479	For among all men upon the earth singers
+480	have their share of honor and respect, because
+481	the Muse has taught them their lays, and loves the tribe of singers.”
+482	So he spoke, and the herald took it and put it in the hands
+483	of the hero Demodocus; and he received it and rejoiced in his heart.
+484	And they put out their hands to the good things lying ready before them.
+485	But when they had put away the desire for drink and food,
+486	then Odysseus of many wiles spoke to Demodocus:
+487	“Demodocus, I praise you far above all mortals.
+488	Either the Muse, the child of Zeus, has taught you, or Apollo;
+489	for all too well, in due order, you sing the fate of the Achaeans,
+490	all that they did and suffered, and all that the Achaeans toiled through,
+491	as if perhaps you had been present yourself, or heard it from another.
+492	But come now, change your theme, and sing of the fashioning of the horse
+493	of wood, which Epeius made with Athena's help,
+494	which once brilliant Odysseus brought up into the citadel as a snare,
+495	having filled it with the men who sacked Ilios.
+496	If you tell me all this fair and right,
+497	at once I will tell all men
+498	how the god has readily granted you wondrous song.”
+499	So he spoke, and he, stirred by the god, began, and showed forth his song,
+500	taking it up from where they had gone on board their well-benched ships
+501	and were sailing away, having thrown fire on their huts,
+502	the Argives, while the others, around famous Odysseus, were already
+503	sitting in the place of assembly of the Trojans, hidden in the horse;
+504	for the Trojans themselves had dragged it into the citadel.
+505	So it stood there, and they talked on and on, confusedly,
+506	sitting around it; and they were divided three ways in their counsel:
+507	either to split the hollow timber with the pitiless bronze,
+508	or to drag it to the top of the height and throw it down the rocks,
+509	or to let it stand as a great offering to appease the gods;
+510	and that is how it was to be accomplished in the end;
+511	for it was fated that the city should perish once it had enfolded
+512	the great wooden horse, where they were sitting, all the best
+513	of the Argives, bringing slaughter and doom to the Trojans.
+514	And he sang how the sons of the Achaeans sacked the city,
+515	pouring out from the horse, leaving the hollow ambush.
+516	He sang how each in his own place ravaged the steep city,
+517	but how Odysseus went to the house of Deiphobus
+518	like Ares, together with godlike Menelaus.
+519	There, he said, he dared the most dread fight,
+520	and conquered in the end, through great-hearted Athena.
+521	This the renowned singer sang; but Odysseus
+522	was melting, and tears wet his cheeks beneath his eyelids.
+523	And as a woman weeps, flinging herself upon her dear husband,
+524	who has fallen before his city and his people,
+525	keeping off the pitiless day from his town and his children;
+526	she, seeing him dying and gasping,
+527	throws herself around him and wails shrilly; but they, behind her,
+528	beating her back and shoulders with their spears,
+529	lead her away into slavery, to have toil and misery,
+530	and her cheeks waste away with most pitiful grief;
+531	so Odysseus let a pitiful tear fall from beneath his brows.
+532	Then he escaped the notice of all the others as he let tears fall,
+533	but Alcinous alone noticed him and observed him,
+534	sitting near him, and heard him groaning heavily.
+535	And at once he spoke among the Phaeacians, lovers of the oar:
+536	“Hear me, leaders and rulers of the Phaeacians,
+537	and let Demodocus now stop his clear-toned lyre;
+538	for it is not to all of us that he gives delight by singing this.
+539	Ever since we have been at supper and the divine singer was roused to sing,
+540	from then on he has never ceased from miserable lamentation,
+541	the stranger; surely grief has beset his mind.
+542	But come, let him stop, so that we may all take delight alike,
+543	hosts and guest, since it is much better so;
+544	for it is for the sake of the revered stranger that all this has been made ready,
+545	the escort and the gifts of friendship, which we give him, making him welcome.
+546	As good as a brother are a stranger and a suppliant
+547	to a man who has even a little hold on wisdom.
+548	So now you too must not hide with crafty thoughts
+549	whatever I ask you; it is better for you to speak.
+550	Tell me the name by which they called you there, your mother and your father,
+551	and the others who live in the city and round about it.
+552	For no one at all among men is nameless,
+553	no base man and no noble one, once he has been born,
+554	but parents give names to all, when they have borne them.
+555	And tell me your land and your people and your city,
+556	so that our ships may carry you there, aiming with their minds;
+557	for the Phaeacians have no helmsmen,
+558	nor any steering oars, such as other ships have;
+559	but the ships themselves know the thoughts and minds of men,
+560	and they know the cities and rich fields of all
+561	men, and most swiftly they cross the gulf of the sea,
+562	wrapped in mist and cloud; and never do they
+563	have any fear of coming to harm or of perishing.
+564	But this I once heard told by my father,
+565	Nausithous, who used to say that Poseidon begrudged
+566	us, because we are escorts of all men and come to no harm.
+567	He said that one day a well-made ship of the Phaeacian men,
+568	as it came back from an escort on the misty sea,
+569	he would shatter, and would cover our city round about with a great mountain.
+570	So the old man used to say; and these things the god may bring to pass,
+571	or they may be left unfulfilled, as is the pleasure of his heart.
+572	But come, tell me this, and give me an exact account:
+573	where you were driven in your wanderings, and to what lands
+574	of men you came, and of the men themselves and their well-peopled cities,
+575	both those who are harsh and savage and unjust,
+576	and those who are kind to strangers, with a mind that fears the gods.
+577	And tell me why you weep and mourn within your heart
+578	as you hear the fate of the Argive Danaans and of Ilios.
+579	This the gods wrought, and they spun destruction
+580	for men, so that there might be song even for those yet to be.
+581	Did some kinsman of yours by marriage perish before Ilios,
+582	a good man, a son-in-law or a father-in-law, who are
+583	the dearest after one's own blood and kin?
+584	Or was it perhaps some companion, a man of kindly heart,
+585	a good man? Since in no way inferior to a brother
+586	is a companion who has wise understanding.”

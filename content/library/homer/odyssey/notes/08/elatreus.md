@@ -1,0 +1,7 @@
+---
+summary: He rises for the games (8.111) and wins the discus, “by far the strongest of all” (8.129). When Odysseus throws, his stone flies beyond the marks of all the Phaeacians (8.186–198).
+---
+
+**The discus.** The contests come in turn, each told in a verse or two: the running, the wrestling, the jumping, the discus and the boxing (8.120–130; see [[the-games-of-the-phaeacians]]). “And with the discus, again, Elatreus was by far the strongest of all” (8.129; see [[discus]]). The other winners are Clytoneus in the running, Euryalus in the wrestling, Amphialus in the jumping and Laodamas in the boxing (8.123–130; see [[clytoneus]], [[euryalus-the-phaeacian]], [[amphialus]] and [[laodamas-son-of-alcinous]]).
+
+**Outthrown.** The Phaeacians, W. W. Merry notes, “had already thrown their δίσκοι, and Elatreus had won” (*Commentary on the Odyssey*, 1886, on 8.187) when Odysseus, taunted by Euryalus, seized a discus “bigger and thicker, and heavier by no little, / than those with which the Phaeacians threw among themselves”, and the stone “flew beyond the marks of all” (8.186–192). Athena, in the form of a man, sets the mark and tells him that it “is not mingled with the throng, / but far the first” (8.193–197; see [[athena]]); the throng is the cluster of the Phaeacians' marks, close together because they were fairly matched (Merry on 8.196), and the mark of Elatreus' winning throw is among them. It is the only contest in which Odysseus competes (see the translation's note on 8.22–23).

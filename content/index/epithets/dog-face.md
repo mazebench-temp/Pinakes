@@ -3,7 +3,7 @@ title: Dog-face
 greek: κυνώπης
 kind: epithet
 tags: [heroic-epithet, insult, shame]
-summary: “Dog-eyed, dog-faced,” a word for the shameless: Achilles' insult to [[Agamemnon]], [[Helen]]'s word for herself, and Hephaestus' for his mother [[Hera]]. In Homer the dog is the image of shamelessness.
+summary: “Dog-eyed, dog-faced,” a word for the shameless: Achilles' insult to [[Agamemnon]], [[Helen]]'s word for herself, and Hephaestus' for his mother [[Hera]] and, in the Odyssey, for his wife [[Aphrodite]]. In Homer the dog is the image of shamelessness.
 aliases: [dog-eyed, kynopes]
 grc: [κυνῶπα]
 en: [dog-face]
@@ -12,7 +12,7 @@ of: [agamemnon, helen, hera]
 
 ## Meaning
 
-κυνώπης = κύων, κυν- (“dog”) + ὤψ (“eye, face”): “with the eyes (or face) of a dog.” In Homer the dog stands for shamelessness. Dogs eat the unburied dead (as in the proem, {{ref:Iliad 1.4-5}}), and a person without αἰδώς (“shame, respect for others”) is called a dog. Helen calls herself κυνῶπις, the feminine of the word, in self-reproach (Il. 3.180), and Hephaestus uses it of his mother Hera in Book 18.
+κυνώπης = κύων, κυν- (“dog”) + ὤψ (“eye, face”): “with the eyes (or face) of a dog.” In Homer the dog stands for shamelessness. Dogs eat the unburied dead (as in the proem, {{ref:Iliad 1.4-5}}), and a person without αἰδώς (“shame, respect for others”) is called a dog. Helen calls herself κυνῶπις, the feminine of the word, in self-reproach (Il. 3.180), and Hephaestus uses it of his mother Hera in *Iliad* 18 (Il. 18.396). In the Odyssey Helen uses it of herself again (*Odyssey* 4.145), and Hephaestus of his wife Aphrodite (*Odyssey* 8.319).
 
 ## Use
 

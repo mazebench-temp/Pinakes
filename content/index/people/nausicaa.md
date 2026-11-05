@@ -23,7 +23,7 @@ relations:
 
 She is θυγάτηρ μεγαλήτορος Ἀλκινόοιο, “the daughter of great-hearted Alcinous” (*Odyssey* 6.17, 6.196, 6.213; 8.464), the verse-end the Iliad gives Andromache, “the daughter of great-hearted Eetion” (*Iliad* 6.395; see [[alcinous]] and [[andromache]]). Her mother is the queen whose knees Nausicaa tells Odysseus to clasp at the hearth (*Odyssey* 6.303–315), named Arete in the next book (*Odyssey* 7.53–55, 7.141–142; see [[arete-queen-of-the-phaeacians]]). Arete is the daughter of Alcinous' brother Rhexenor, so that both her parents descend from Nausithous, the son of Poseidon (*Odyssey* 7.56–66; see [[nausithous]] and [[poseidon]]).
 
-She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 6.65), with five brothers, two married and three still unmarried (*Odyssey* 6.62–65). Three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119; see [[laodamas-son-of-alcinous]]). Her nurse was the old chamber-woman Eurymedusa, a captive from Apeire picked out as a prize for her father (*Odyssey* 7.7–12; see [[eurymedusa]]).
+She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 6.65), with five brothers, two married and three still unmarried (*Odyssey* 6.62–65). Three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119; see [[laodamas-son-of-alcinous]], [[halius-son-of-alcinous]] and [[clytoneus]]). Her nurse was the old chamber-woman Eurymedusa, a captive from Apeire picked out as a prize for her father (*Odyssey* 7.7–12; see [[eurymedusa]]).
 
 ## Descriptions
 
@@ -33,15 +33,13 @@ She is the only daughter of the house (W. W. Merry, *Commentary on the Odyssey*,
 - παρθένος ἀδμής, “a maiden unwed” (*Odyssey* 6.109, 6.228): ἀδμής, “unbroken”, is said elsewhere of a heifer that no man has yet led under the yoke, of a mare and of young mules (*Iliad* 10.293, 23.266; *Odyssey* 4.637; see [[unbroken]]).
 - βασίλεια, “the princess” (*Odyssey* 6.115), elsewhere the word for a queen (see [[basileus]]). Odysseus calls her ἄνασσα, “queen” (*Odyssey* 6.149, 6.175), a word Homer otherwise gives only to Athena, whom Nestor addresses so (*Odyssey* 3.380), and to Demeter (*Iliad* 14.326), so that there is a special compliment in giving it to a woman (Merry on *Odyssey* 6.149; see [[anax]]); and γύναι, “lady” (*Odyssey* 6.168).
 - κούρη, “the girl”, the narrator's word for her through her book (*Odyssey* 6.15, 6.74, 6.78, 6.113, 6.237), and θάλος, “scion”, in Odysseus' praise (*Odyssey* 6.157).
-- ἀθανάτῃσι φυὴν καὶ εἶδος ὁμοίη, “like the immortals in stature and in looks” (*Odyssey* 6.16), and at her farewell θεῶν ἄπο κάλλος ἔχουσα, “with beauty from the gods” (*Odyssey* 8.457, a plain rendering). The narrator likens her among her handmaids to Artemis among the nymphs, and Odysseus likens her to Artemis when he first speaks to her (*Odyssey* 6.102–109, 6.151–152; see [[artemis-among-her-nymphs]] and [[artemis]]).
+- ἀθανάτῃσι φυὴν καὶ εἶδος ὁμοίη, “like the immortals in stature and in looks” (*Odyssey* 6.16), and at her farewell θεῶν ἄπο κάλλος ἔχουσα, “who had her beauty from the gods” (*Odyssey* 8.457). The narrator likens her among her handmaids to Artemis among the nymphs, and Odysseus likens her to Artemis when he first speaks to her (*Odyssey* 6.102–109, 6.151–152; see [[artemis-among-her-nymphs]] and [[artemis]]).
 
 {{notes}}
 
 ## Later in the Odyssey
 
-For the whole episode, see [[the-meeting-of-odysseus-and-nausicaa]]. The renderings of the later books here are plain renderings, not the translation.
-
-On the evening of the games, as Odysseus comes from the bath to the feast at which he will tell his story, she stands by the doorpost of the hall, marvels at him and speaks for the last time in the poem: “Farewell, stranger, so that even in your native land you may remember me, since to me first you owe the price of your life”; and he answers that if Zeus grants him his homecoming he will pray to her there as to a god all his days, “for you gave me my life, girl” (*Odyssey* 8.457–468). She is not named again.
+For the whole episode, see [[the-meeting-of-odysseus-and-nausicaa]]. After her farewell to Odysseus on the evening of the games (*Odyssey* 8.457–468), she is not seen or named again in the poem.
 
 ## Outside Homer
 

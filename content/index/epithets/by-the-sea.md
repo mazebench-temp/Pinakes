@@ -12,7 +12,7 @@ of: [cerinthus, helos, chalcis-aetolia, antron]
 
 ## Meaning
 
-ἔφαλος = ἐπί (“on, by”) + ἅλς (“sea”): “on the sea.” ἀγχίαλος = ἄγχι (“near”) + ἅλς: “near the sea.” The translation renders both “by the sea.” As adjectives both occur in Homer only in the Catalogue, each of two towns. Ἀγχίαλος is also a man's name, fitting for a sailor or a Phaeacian: the Odyssey knows a Phaeacian so called (Od. 8.112) and Anchialus, father of the Taphian seafarer Mentes (Od. 1.180).
+ἔφαλος = ἐπί (“on, by”) + ἅλς (“sea”): “on the sea.” ἀγχίαλος = ἄγχι (“near”) + ἅλς: “near the sea.” The translation renders both “by the sea.” As adjectives both occur in Homer only in the Catalogue, each of two towns. Ἀγχίαλος is also a man's name, fitting for a sailor or a Phaeacian: the Odyssey knows a Phaeacian so called (Od. 8.112; [[anchialus-the-phaeacian]]) and Anchialus, father of the Taphian seafarer Mentes (Od. 1.180).
 
 ## Use
 

@@ -1,0 +1,23 @@
+---
+summary: The gods as a body are the audience of Demodocus' second song. Hephaestus calls “Father Zeus, and you other blessed gods who live forever” to see; the gods gather to the bronze-floored house, Poseidon, Hermes and Apollo by name, while the goddesses stay each at home for shame; the givers of blessings stand in the doorway, and unquenchable laughter rises among them, twice. One of them speaks the saying of the slow and the swift, and the fine is to be paid “among the immortal gods”.
+# In this work: "Ὄλυμπον ἔχουσι*", "the gods who hold Olympus" (8.331; also 6.240, and later 12.337, 14.394, 18.180,
+# 19.43), and "θεοὶ πᾶσαί τε θέαιναι" (8.341), which the Iliad's Book 5 and Book 8 notes claim in the Iliad, and
+# "θηλύτεραι δὲ θεαὶ", the goddesses (8.324). Unnamed: "all the gods" (8.305); the gods gather and stand in the doorway
+# (8.321, 8.325); "a man would say" (8.328); laughter "among the immortal gods" (8.343); "among the immortal gods"
+# (8.348, 8.352); "the gods who live forever" (8.365).
+grc: ["Ὄλυμπον ἔχουσι*", "θεοὶ πᾶσαί τε θέαιναι", "θηλύτεραι δὲ θεαὶ"]
+en: [gods who hold Olympus, goddesses]
+refs: [8.305, 8.321, 8.325, 8.328, 8.343, 8.348, 8.352, 8.365]
+passages:
+  - 8.321-343 | The gods in the doorway
+---
+
+**The call.** Hephaestus, standing in the doorway of his house, “shouted terribly, and called out to all the gods” (8.305), and his first words are addressed to them all: “Father Zeus, and you other blessed gods who live forever, / come here, so that you may see deeds that are laughable, and hard to bear” (8.306–307; see [[hephaestus]], [[father-zeus]], [[blessed-gods]] and [[gods-who-live-forever]]). The first of these verses is the one with which Athena opens the second council of the gods (5.7).
+
+**The gods who came.** “So he spoke, and the gods gathered to the bronze-floored house; / there came Poseidon, the earth-holder; there came the great helper / Hermes; and far-working lord Apollo came. / But the goddesses, being female, stayed each at home for shame. / And the gods, the givers of blessings, stood in the doorway” (8.321–325; see [[poseidon]], [[hermes]], [[apollo]], [[bronze-floored]] and [[givers-of-blessings]]). χαλκοβατὲς δῶ is the Iliad's house of Zeus on Olympus (*Iliad* 1.426, 21.505). Zeus, called first, is not said to come. θηλύτεραι, said of the goddesses, is rendered “being female” (see the translation's key-word row and [[womenfolk]]), and αἰδοῖ is “out of shame” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.324; see [[aidos]]). Hermes' answer brings them back into the scene, since he would lie in the bonds with “you gods look on, and all the goddesses too” (8.341), θεοὶ πᾶσαί τε θέαιναι, the end of the verse with which Zeus calls the whole company of the gods in the Iliad (*Iliad* 8.5, 8.20) and with which Agamemnon reports his call (*Iliad* 19.101).
+
+**The givers of blessings.** δωτῆρες ἑάων, “the givers of blessings” (8.325), is said in Homer only here, and in the singular of Hermes ten lines later (8.335); ἑάων are the “blessings” of the second of the two jars of Zeus (*Iliad* 24.528). Merry renders it so, discusses the uncertain breathing and gender of ἑάων, and counts the title among the verbal peculiarities that have been urged against the song, which he thinks of no real weight (on 8.325, 8.267; see the translation's note on 8.325).
+
+**Laughter and judgment.** “and unquenchable laughter rose among the blessed gods / as they saw the craft of Hephaestus of much wisdom” (8.326–327; see [[laughter-of-the-gods]] and [[unquenchable-laughter]]). Then the company passes judgment as the army does in the Iliad, in the same verse: “And this is what a man would say, looking at his neighbor” (8.328; *Iliad* 2.271, where the Achaeans have just laughed at Thersites; see [[thersites]]). The saying is that the slow overtakes the swift, as Hephaestus has caught Ares, “the swiftest of the gods who hold Olympus” (8.329–332; see [[evil-deeds-do-not-prosper]]); θεῶν οἳ Ὄλυμπον ἔχουσιν is the verse-end of all the gods of Olympus in both poems (6.240; *Iliad* 5.890, 13.68, 24.427; see [[olympus]]). After Hermes' answer, “laughter rose among the immortal gods” (8.343).
+
+**Among the immortal gods.** The settlement is a matter for the whole company. Poseidon promises that Ares “will pay all that is due among the immortal gods” (8.348), that is, as Merry puts it, in public presence of all the gods (on 8.347), and Hephaestus asks how he could bind Poseidon “among the immortal gods” (8.352; see [[poseidon]]). At Paphos the Graces anoint Aphrodite with “oil / immortal, such as is upon the gods who live forever” (8.364–365; see [[aphrodite]] and [[graces]]).

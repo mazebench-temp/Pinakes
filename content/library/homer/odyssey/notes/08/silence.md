@@ -1,0 +1,5 @@
+---
+summary: The stranger's boast after the discus ends in the verse with which the Iliad marks a challenge that no one takes up: “So he spoke, and they all fell hushed in silence” (8.234 = *Iliad* 10.218). Alcinous alone answers (8.235).
+---
+
+The verse is the Iliad's for the silence after a challenge or a hard proposal: after Hector's challenge to single combat (*Iliad* 7.92), after Nestor's call for a man to go spying among the Trojans (*Iliad* 10.218), after Epeius' challenge to the boxing (*Iliad* 23.676). The stranger has challenged the Phaeacians to box, wrestle or run, all but his host, and boasted of his bow and his spear (8.202–233; see [[the-games-of-the-phaeacians]] and [[strife-with-ones-host]]); no one takes him up. “But Alcinous alone, answering him, said” (8.235; see [[alcinous]] and [[arete]]): the king who alone noticed his tears (8.94) alone answers his boast, and turns the challenge into dancing and song (8.236–255). The same verse marks the silence of the Phaeacians after the stranger's tale (11.333, 13.1), when they are held spellbound in the shadowy hall (see [[the-tale-to-alcinous]]).

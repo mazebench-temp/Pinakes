@@ -12,7 +12,7 @@ of: [artemis, ares]
 
 ## Meaning
 
-χρυσήνιος = χρυσός (“gold”) + ἡνία (“reins”): “with reins of gold.” The gods drive chariots with golden gear: Hera's horses wear golden headbands (5.720; [[with-golden-headbands]]), and Zeus drives a pair with golden manes and wears gold himself (Il. 8.41–44). Homer uses the word twice: of Artemis here, and of Ares, who “kept no blind watch” and saw Hephaestus leave his house (Od. 8.285). Artemis' standing epithet is [[of-the-showering-arrows]] (ἰοχέαιρα), and the Odyssey also calls her “of the golden throne” (χρυσόθρονος, Od. 5.123).
+χρυσήνιος = χρυσός (“gold”) + ἡνία (“reins”): “with reins of gold.” The gods drive chariots with golden gear: Hera's horses wear golden headbands (5.720; [[with-golden-headbands]]), and Zeus drives a pair with golden manes and wears gold himself (Il. 8.41–44). Homer uses the word twice: of Artemis here, and of Ares: “Nor did Ares of the golden reins keep a blind watch” when Hephaestus left his house (Od. 8.285–286). Artemis' standing epithet is [[of-the-showering-arrows]] (ἰοχέαιρα), and the Odyssey also calls her “of the golden throne” (χρυσόθρονος, Od. 5.123).
 
 ## Use
 

@@ -3,7 +3,7 @@ title: Nausithous
 greek: Ναυσίθοος
 kind: person
 tags: [edge-of-world, king]
-summary: The first king of the Phaeacians, a son of Poseidon, who led his people away from Hypereia and the Cyclopes and settled them in Scheria; the father of [[Alcinous]], dead before Odysseus comes there (*Odyssey* 6.4–12, 7.56–63).
+summary: The first king of the Phaeacians, a son of Poseidon, who led his people away from Hypereia and the Cyclopes and settled them in Scheria; the father of [[Alcinous]], dead before Odysseus comes there, who foretold that Poseidon would one day punish the Phaeacians for their escorts (*Odyssey* 6.4–12, 7.56–63, 8.564–571).
 aliases: [Nausithoos]
 # Ναυσίθοος (Od. 6.7) is claimed in the Odyssey Book 6 note by the stem Ναυσίθο*, which also takes Ναυσίθοον (7.56,
 # 7.62) and Ναυσίθοος (7.63), and later Ναυσιθόου (8.565), and catches nothing else in Homer or Aristotle. It stays
@@ -32,7 +32,7 @@ Poseidon begot him on Periboea, “most beautiful in form of women”, the young
 
 ## Later in the Odyssey
 
-His son remembers a prophecy of his: Poseidon, he used to say, begrudged the Phaeacians because they were safe escorts of all men, and one day the god would wreck a Phaeacian ship coming home from an escort and throw a great mountain around their city. Alcinous recalls it before Odysseus tells his story, and again when the ship that carried Odysseus home is turned to stone in sight of the city (*Odyssey* 8.564–571, 13.172–178, plain renderings). For the migration and the prophecy, see [[the-migration-of-the-phaeacians]].
+The prophecy of his that Alcinous tells the stranger in *Odyssey* 8, that Poseidon would one day shatter a Phaeacian ship coming home from an escort and cover their city round about with a great mountain, comes true in *Odyssey* 13: when the ship that carried Odysseus home is turned to stone in sight of the city, the king recognizes his father's words, spoken long ago, and repeats them (*Odyssey* 13.172–178, a plain rendering). For the migration and the prophecy, see [[the-migration-of-the-phaeacians]].
 
 ## Outside Homer
 

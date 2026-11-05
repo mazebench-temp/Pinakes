@@ -22,4 +22,5 @@ Hephaestus uses it when Thetis comes to his house. She and Eurynome took him in 
 ## Related words
 
 - ζωγρέω (“take alive”) and ζωός (“alive”).
+- μοιχάγρια, “the adulterer's fine”, formed in the same way: what an adulterer caught in the act owes, in the gods' saying in Demodocus' song (*Odyssey* 8.332; see [[evil-deeds-do-not-prosper]]). Hephaestus, who owed Thetis the price for his life, is the one to whom this fine is owed.
 - [[poine|ποινή]] (“penalty”) and ἄποινα (“ransom”): other payments for a life. ζῳάγρια, like the penalty, is paid with the verb τίνω, “pay” (τίνειν, 18.407).

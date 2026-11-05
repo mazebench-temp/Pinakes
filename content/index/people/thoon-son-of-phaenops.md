@@ -9,7 +9,7 @@ grc: [Θόωνα]
 # Θόωνα at 11.422 is a Trojan killed by Odysseus.
 # Θόωνα at 12.140 is the Thoon who comes with Asius (thoon-companion-of-asius), and at 13.545 the Thoon
 # Antilochus kills, perhaps the same man.
-except: [11.422, 12.140, 13.545]
+except: [11.422, 12.140, 13.545, Od. 8.113]
 en: [Thoon]
 # Θόωνα recurs for other Trojans at 11.422, 12.140 and 13.545, which this entry will need to except.
 refs: [5.153, 5.155-157]
@@ -23,4 +23,4 @@ passages:
 
 {{quote:82b513e0-5741-5602-a943-bbe41a4064ab}}
 
-Thoon and Xanthus are the only sons of an old man, and their deaths leave his house without an heir (see [[phaenops]]). Θόων is formed from θοός (“swift”). The name is common among the Trojans of the Iliad: Odysseus kills a Thoon (11.422), and a Thoon who comes with Asius to the Achaean wall (12.140) is probably the one Antilochus kills in the next battle (13.545).
+Thoon and Xanthus are the only sons of an old man, and their deaths leave his house without an heir (see [[phaenops]]). Θόων is formed from θοός (“swift”). The name is common among the Trojans of the Iliad: Odysseus kills a Thoon (11.422), and a Thoon who comes with Asius to the Achaean wall (12.140) is probably the one Antilochus kills in the next battle (13.545). In the Odyssey the name belongs to a young Phaeacian who rises for the games (*Odyssey* 8.113; see [[thoon-the-phaeacian]]).

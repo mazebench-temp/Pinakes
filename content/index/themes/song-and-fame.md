@@ -2,7 +2,7 @@
 title: Song and fame
 kind: theme
 tags: [music, honor, time]
-summary: Homer's people know that they will be sung. Helen says that Zeus has given her and Paris an evil fate so that they may be a theme of song for men to come; Achilles sings the famous deeds of men; Hector imagines what later men will say of him. The fame they seek, and the shame they fear, live in song.
+summary: Homer's people know that they will be sung. Helen says that Zeus has given her and Paris an evil fate so that they may be a theme of song for men to come; Achilles sings the famous deeds of men; Hector imagines what later men will say of him; and in the Odyssey Alcinous tells the weeping stranger that the gods spun destruction for men so that there might be song even for those yet to be. The fame they seek, and the shame they fear, live in song.
 aliases: [a theme of song, songs for men to come, the poem and its heroes, epic self-awareness, aoidimos]
 grc: [ἀοίδιμοι]
 en: [a theme of song]
@@ -19,7 +19,7 @@ The Iliad's plainest words about its own existence are spoken by one of its char
 
 ἀοίδιμος, “sung of, a subject of song”, is found only here in Homer. The purpose clause (ὡς) makes the song the reason for the suffering: Zeus has given them their fate so that there will be something for later men to sing. Helen knows what kind of song it will be. She has just called herself a dog, and she names Paris' blind folly (see [[ate]] and [[helen]]). The fame she foresees is the fame of shame.
 
-The Odyssey says the same of the whole war. When Odysseus weeps at the song of Troy, Alcinous tells him that the gods wrought it, “and spun destruction for men, so that there might be song for those to come” (ἵνα ᾖσι καὶ ἐσσομένοισιν ἀοιδή, *Odyssey* 8.579–580). And the dead Agamemnon sets two songs side by side: the gods will make a lovely song among men for faithful Penelope, whose fame will never perish, but Clytemnestra's will be “a hateful song” (*Odyssey* 24.196–202). Song keeps the good and the bad alike.
+The Odyssey says the same of the whole war. When Odysseus weeps at the song of Troy, Alcinous tells him that the gods wrought it, “and they spun destruction / for men, so that there might be song even for those yet to be” (ἵνα ᾖσι καὶ ἐσσομένοισιν ἀοιδή, *Odyssey* 8.579–580). And the dead Agamemnon sets two songs side by side: the gods will make a lovely song among men for faithful Penelope, whose fame will never perish, but Clytemnestra's will be “a hateful song” (*Odyssey* 24.196–202). Song keeps the good and the bad alike.
 
 ## What men will say
 

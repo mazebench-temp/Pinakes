@@ -1,0 +1,16 @@
+---
+summary: Twice the stranger weeps at Demodocus' songs of Troy, hiding his face: at the quarrel of Odysseus and Achilles, under his purple mantle (8.83–95), and at the song of the horse, when he weeps as a woman weeps over her husband fallen before his city (8.521–534). Each time Alcinous alone notices, and the second time he asks why (8.577–578).
+# κλαίῃσι (8.523), κλαίεις (8.577).
+grc: [κλαίῃσι, κλαίεις]
+en: [weeps]
+refs: [8.92, 8.522]
+passages:
+  - 8.83-95 | Tears at the first song
+  - 8.521-534 | Tears at the song of the horse
+---
+
+**At the first song.** When the singer tells of the quarrel, “Odysseus / took his great purple mantle in his strong hands / and drew it down over his head, and covered his handsome face; / for he was ashamed before the Phaeacians, letting tears fall from beneath his brows” (8.83–86; see [[aidos]], [[purple]] and [[shedding-tears]]). The φᾶρος, a square cloth worn over the left shoulder, had a long corner hanging from the right, which he threw over his head from behind (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.85). At every pause he wipes his tears, takes the mantle from his head and pours a libation, and at every new beginning he covers his head again and laments (8.87–92): the optatives are iterative, and the libation a thank-offering to the gods, in remembrance of their constant care of him (Merry on 8.87; see the translation's note on 8.87–92, [[libation]] and [[lament]]). He hides it from all but the king: “Alcinous alone noticed him and observed him, / sitting near him, and heard him groaning heavily” (8.93–95), and turns the company to the games (8.96–103).
+
+**At the song of the horse.** At the evening feast he asks for the song of his own stratagem, and hearing it he weeps again: “Odysseus / was melting, and tears wet his cheeks beneath his eyelids” (8.521–522). The simile that follows gives his tears to a woman of a sacked city, flinging herself on her husband as he dies and led away into slavery (8.523–530; see [[the-woman-weeping-over-her-husband]] and [[odysseus-weeps-at-the-feast]]); “so Odysseus let a pitiful tear fall from beneath his brows” (8.531). ἐλεεινόν is not idle: it marks the tears as springing from feeling, whereas tears of bodily pain like Thersites' (*Iliad* 2.266–269) would not be pitiful (Merry on 8.530; see [[pity]]). εἶβεν and λείβων stand together, the first with the λ dropped for the meter (Merry on 8.531–532). The verses of the king's notice return (8.532–534 = 8.93–95), and this time he stops the song: “from then on he has never ceased from miserable lamentation, / the stranger; surely grief has beset his mind” (8.540–541; see [[achos]]).
+
+**Why do you weep?** Alcinous' last question is the one his guest must answer with his name and his tale: “And tell me why you weep and mourn within your heart / as you hear the fate of the Argive Danaans and of Ilios” (8.577–578; see [[the-tale-to-alcinous]] and [[a-companion-no-worse-than-a-brother]]). Aristotle names the scene as a recognition through memory, “the one in the tale told to Alcinous, where, hearing the lyre player, he remembered and shed tears, and so they were recognized” (*Poetics* 1455a2–3; see [[demodocus]]). Livius Andronicus' Latin *Odyssey* kept the first wiping of the tears, *simul ac dacrimas de ore noegeo detersit* (8.88, as The Latin Library prints the fragment).

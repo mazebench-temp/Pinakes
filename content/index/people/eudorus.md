@@ -22,7 +22,7 @@ passages:
 
 **A maiden's son.** παρθένιος, “a maiden's son” (16.180), occurs only here in Homer: the child of an unmarried girl. Hermes saw Polymele among the girls dancing in the chorus of Artemis, went up to her room and lay with her in secret, and she bore a son; Eileithyia brought him into the light; Echecles, son of Actor, then married her, and the boy was reared by her father, the old man Phylas, “loving him as if he were his own son” (16.180–192; see [[polymele]], [[phylas]], [[echecles]], [[eileithyia]] and [[the-birth-of-eudorus]]). Bucolion, the eldest son of Laomedon, was born of another hidden union, σκότιος, “in secret” (6.24; see [[bucolion]]).
 
-**The name.** Εὔδωρος joins εὖ, “well”, and δῶρον, “gift”. Hermes “gave” Polymele her son (πόρεν, 16.185), and in the Odyssey he is addressed as δῶτορ ἐάων, “giver of good things” (*Odyssey* 8.335; see [[hermes]]). The poem does not comment on the name.
+**The name.** Εὔδωρος joins εὖ, “well”, and δῶρον, “gift”. Hermes “gave” Polymele her son (πόρεν, 16.185), and in the Odyssey he is addressed as δῶτορ ἑάων, “giver of blessings” (*Odyssey* 8.335; see [[hermes]] and [[givers-of-blessings]]). The poem does not comment on the name.
 
 ## Outside Homer
 

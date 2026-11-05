@@ -7,9 +7,10 @@ summary: A fixed weight of gold, the Homeric measure of precious metal, counted 
 aliases: [talents, half a talent, half-talent, talanton, hemitalanton]
 # τάλαντα are also “scales”: the golden scales of Zeus (the-scales-of-zeus: 8.69, 16.658, 19.223, 22.209) and the
 # working woman's scales of a simile (12.433). The talents of gold are claimed by phrase only: δέκα πάντα τάλαντα is
-# 19.247 = 24.232. In the Odyssey χρυσοῖο τάλαντα (4.129), χρυσοῦ δοιὰ τάλαντα (4.526), χρυσοῖο τάλαντον (8.393),
-# ἑπτὰ τάλαντα (9.202, 24.274) will need phrases.
-grc: ["χρυσοῖο τάλαντα", "δέκα πάντα τάλαντα", ἡμιτάλαντον]
+# 19.247 = 24.232. In the Odyssey χρυσοῖο τάλαντα (4.129) is caught by the entry, δοιὰ τάλαντα (4.526) is in the Book 4
+# note, and χρυσοῖο τάλαντον (8.393), the only singular τάλαντον in Homer, is in the entry; ἑπτὰ τάλαντα (9.202, 24.274)
+# will need a phrase.
+grc: ["χρυσοῖο τάλαντα", "δέκα πάντα τάλαντα", ἡμιτάλαντον, "χρυσοῖο τάλαντον"]
 en: [talents, talent, half a talent]
 ---
 

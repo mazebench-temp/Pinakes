@@ -6,8 +6,9 @@ tags: [craftsman, body, repetition]
 summary: When Odysseus has bathed in the river, Athena makes him taller and stouter to look on, sends his thick hair down like the hyacinth flower, and pours grace on his head and shoulders as a skilled man, taught every kind of craft by Hephaestus and Athena, pours gold around silver (*Odyssey* 6.229–235). The same verses tell her work on him after his bath at home, before Penelope (*Odyssey* 23.156–162).
 aliases: [the goldsmith, the gilder, gold around silver, Athena's grace on Odysseus, the craftsman taught by Hephaestus and Athena]
 # The simile's own phrases (Od. 6.232-235 = 23.159-161), found only in these two places; χάριν κεφαλῇ τε καὶ ὤμοις
-# alone is also Od. 8.19, where Athena pours grace on Odysseus before the games. The tenor of Book 23 differs by its
-# verb, "τῷ περίχευε χάριν" (23.162), to be added with that book.
+# alone is also Od. 8.19, where Athena pours grace on Odysseus before the games (the Odyssey Book 8 note claims
+# "θεσπεσίην κατέχευε χάριν"). The tenor of Book 23 differs by its verb, "τῷ περίχευε χάριν" (23.162), to be added
+# with that book.
 grc:
   - "χρυσὸν περιχεύεται ἀργύρῳ"
   - "ὃν Ἥφαιστος δέδαεν"
@@ -37,7 +38,7 @@ The second time, the verses come at the end of the poem, and the same words make
 
 ## Elsewhere in Homer
 
-Athena's grace is poured on Odysseus once more, before the games of the Phaeacians: “Athena / poured a wondrous grace on his head and shoulders, / and made him taller and stouter to look on, / so that he might be dear to all the Phaeacians” (*Odyssey* 8.18–21, a plain rendering), and on Telemachus as he goes to the assembly (*Odyssey* 2.12; again 17.63). Before he fights Irus she fills out his limbs (*Odyssey* 18.69–70), and when Telemachus is to know him she makes him dark again, his jaws filled out and his beard dark about his chin (*Odyssey* 16.172–176). The disguise is the same work undone: on the shore of Ithaca she withers his skin and destroys “the auburn hair from his head” (ξανθὰς δʼ ἐκ κεφαλῆς … τρίχας, *Odyssey* 13.430–431, a plain rendering).
+Athena's grace is poured on Odysseus once more, before the games of the Phaeacians, in the words of the tenor and with the same increase of stature, but with no simile (*Odyssey* 8.18–23), and on Telemachus as he goes to the assembly (*Odyssey* 2.12; again 17.63). Before he fights Irus she fills out his limbs (*Odyssey* 18.69–70), and when Telemachus is to know him she makes him dark again, his jaws filled out and his beard dark about his chin (*Odyssey* 16.172–176). The disguise is the same work undone: on the shore of Ithaca she withers his skin and destroys “the auburn hair from his head” (ξανθὰς δʼ ἐκ κεφαλῆς … τρίχας, *Odyssey* 13.430–431, a plain rendering).
 
 The craftsman taught by Athena is a figure of the Iliad's similes too. The carpenter who makes a ship's timber straight with a chalk line is one “who knows / well all his craft by the promptings of Athena” (*Iliad* 15.411–412; see [[the-chalk-line]]), and the builder's son Phereclus “knew how to make with his hands every kind / of intricate work; for Pallas Athena loved him above all others” (*Iliad* 5.60–61; see [[phereclus]]).
 

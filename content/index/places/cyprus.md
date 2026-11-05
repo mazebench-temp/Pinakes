@@ -3,7 +3,7 @@ title: Cyprus
 greek: Κύπρος
 kind: place
 tags: [island]
-summary: The great island of the eastern Mediterranean. The Iliad names it once, as the place where [[Cinyras]] heard of the expedition to Troy, before he sent Agamemnon a corselet (11.21); in the Odyssey it is the seat of Aphrodite's sanctuary at Paphos and a stage on the sea roads to Phoenicia and Egypt.
+summary: The great island of the eastern Mediterranean. The Iliad names it once, as the place where [[Cinyras]] heard of the expedition to Troy, before he sent Agamemnon a corselet (11.21); in the Odyssey it is the seat of Aphrodite's sanctuary at [[paphos|Paphos]] and a stage on the sea roads to Phoenicia and Egypt.
 aliases: [Kypros]
 # Κύπρον δέ at 11.21 is read as Κύπρονδε, "to Cyprus" (see the translation's note). The Odyssey adds
 # Κύπρου (Od. 17.443). No stem: Κύπρις, Κύπριν, Κύπριδα are Aphrodite's name (cypris).
@@ -14,7 +14,7 @@ grc: [Κύπρον]
 
 The Iliad names the island only in Agamemnon's arming. Cinyras gave the king his corselet as a guest-gift: “For he had heard in Cyprus the great report that the Achaeans / were about to sail up to Troy in their ships” (11.21–22; see [[cinyras]] and [[corselet]]). The digitized Greek prints Κύπρον δέ, but the particle δέ, “and”, cannot follow γάρ, “for”, and the words are read as one, Κύπρονδε, “to Cyprus”, with the suffix of direction: the report reached as far as Cyprus (see the translation's note on 11.21). Strabo quotes the verse in that form (1.2.32). No Cypriots fight at Troy, and the Catalogue of Ships does not name the island. Aphrodite's name Κύπρις, “the Cyprian”, which only *Iliad* 5 uses, is formed from it (see [[cypris]] and [[aphrodite]]).
 
-The Odyssey names Cyprus in three passages. Menelaus gathered his wealth wandering to Cyprus, Phoenicia and the Egyptians (Od. 4.83; see [[egypt]]). Freed from Hephaestus' net, Aphrodite goes to Cyprus, to Paphos, where she has a precinct and a fragrant altar (Od. 8.362–363). In the tale Odysseus tells the suitors, his Egyptian captors handed him over to Dmetor, son of Iasus, who ruled Cyprus by might, to take him there, and Antinous answers that he will soon come to a bitter Egypt and Cyprus (Od. 17.442–448).
+The Odyssey names Cyprus in three passages. Menelaus gathered his wealth wandering to Cyprus, Phoenicia and the Egyptians (*Odyssey* 4.83; see [[egypt]]). Freed from Hephaestus' net, Aphrodite goes to Cyprus, to Paphos, where she has a precinct and a fragrant altar (*Odyssey* 8.362–363; see [[paphos]]). In the tale Odysseus tells the suitors, his Egyptian captors handed him over to Dmetor, son of Iasus, who ruled Cyprus by might, to take him there, and Antinous answers that he will soon come to a bitter Egypt and Cyprus (*Odyssey* 17.442–448).
 
 ## Outside Homer
 

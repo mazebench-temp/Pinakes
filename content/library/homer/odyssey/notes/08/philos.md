@@ -1,0 +1,8 @@
+---
+summary: The king proposes to “make the stranger welcome” (8.42), and the stranger will not fight “one who makes him welcome” (8.208); the gifts are “the gifts of friendship, which we give him, making him welcome” (8.545). The Muse loved Demodocus and loves the tribe of singers (8.63, 8.481); in the song Aphrodite “loves destructive Ares” (8.309), and Lemnos is “the dearest” of lands to Hephaestus (8.284).
+# φιλέωμεν (8.42), ἐφίλησε (8.63), φίλοισιν (8.101, 8.178, 8.251), φιλέοντι (8.208), φιλτάτη (8.284), φιλέει (8.309), φίλησε (8.481), φιλέοντες (8.545).
+grc: [φιλέωμεν, ἐφίλησε, φίλοισιν, φιλέοντι, φιλτάτη, φιλέει, φίλησε, φιλέοντες]
+en: [make the stranger welcome, makes him welcome, making him welcome, loved, loves, dearest, friends]
+---
+
+φιλέω of a host is “make welcome”, the verb of hospitality (see the translation's table of key words and [[xenia]]). Alcinous calls the kings to his house “so that we may make the stranger welcome in the halls” (8.42); the stranger will not fight Laodamas, “For he is my host; who would fight with one who makes him welcome?” (8.208; see [[strife-with-ones-host]]); and at supper the king names the escort and “the gifts of friendship, which we give him, making him welcome” (8.545; see [[guest-gifts]]). The Phaeacians want the stranger to tell “his friends” of their prowess (8.101, 8.251). φιλέω of a god is love: the Muse loved Demodocus above all, and loves the tribe of singers (8.63, 8.481; see [[singers]]). In the song it is the love that does the harm: Aphrodite “loves destructive Ares” (8.309; see [[philotes]]), and Lemnos, where Hephaestus pretends to go, is “by far the dearest to him of all lands” (8.284; see [[lemnos]]).

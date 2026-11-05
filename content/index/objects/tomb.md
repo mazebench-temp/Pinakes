@@ -11,7 +11,8 @@ en: [tomb]
 # σῆμα at 13.244 is the sign Zeus shows mortals in the lightning.
 # σῆμα at 22.30 is a sign: the dog of Orion, "a sign of evil".
 # σῆμα at 23.326 is the landmark Nestor describes, and at 23.455 the white mark on a horse's forehead.
-except: [2.308, 10.466, 13.244, 22.30, 23.326, 23.455]
+# σῆμα at Od. 8.195 is the mark of Odysseus' discus throw.
+except: [2.308, 10.466, 13.244, 22.30, 23.326, 23.455, Od. 8.195]
 ---
 
 τύμβος is the mound of earth heaped over a grave. σῆμα, "sign, marker", names the same mound as a memorial, the thing that shows where a man lies; elsewhere the word means a sign from the gods ([[teras]]).

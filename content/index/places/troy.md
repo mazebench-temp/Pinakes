@@ -8,8 +8,10 @@ aliases: [Ilios, Ilion, Ilium, Troie, city of Priam]
 # Τροίῃ and Τροίης (Od. 1.2, 1.62, 1.327, 1.355) also catch 26 Iliad lines, which the Book 2 and Book 6 notes
 # claim as well. Τροίηθεν, "from Troy" (Od. 3.257, 3.276; later 4.488, 9.38, 9.259, 11.160), also catches 24.492,
 # which the Book 24 note claims as well; Τροίηνδε, "to Troy" (Od. 3.268; later 16.289, 17.314, 19.8, 19.187), is not
-# in the Iliad.
-grc: [Τροίην, Τροίῃ, Τροίης, Ἴλιον, Τροίηθεν, Τροίηνδε]
+# in the Iliad. Ἰλιόθι, in Ἰλιόθι πρό "before Ilios" (Od. 8.581), also catches 8.561, 10.12 and 13.349, which the
+# Iliad Book 8 note claims as well. Ἰλίου (Od. 8.578) is claimed in the Odyssey Book 8 note and the Iliad Book 2 note, not
+# here: in the Poetics it is part of the title Ἰλίου πέρσις (1456a16, 1459b7).
+grc: [Τροίην, Τροίῃ, Τροίης, Ἴλιον, Τροίηθεν, Τροίηνδε, Ἰλιόθι]
 en: [Troy, Ilios, city of Priam]
 refs: [1.19]
 ---

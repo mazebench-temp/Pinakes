@@ -7,7 +7,8 @@ summary: Twin brother of [[Cteatus]], one of the sons of Actor called the Molion
 aliases: [Eurytus]
 grc: [Εὐρύτου]
 en: [Eurytus]
-except: [2.596, 2.730]
+# Od. 8.224, 8.226 are Eurytus of Oechalia (eurytus).
+except: [2.596, 2.730, Od. 8.224, Od. 8.226]
 relations:
   - father: actor-of-elis (2.621)
   - brother: cteatus (2.621)

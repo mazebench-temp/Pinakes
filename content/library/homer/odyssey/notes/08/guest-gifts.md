@@ -1,0 +1,19 @@
+---
+summary: Alcinous proposes the guest-gift “as is fitting” (8.389). Each of the twelve kings and the king himself brings a freshly washed mantle, a tunic and a talent of gold; Euryalus adds a sword in amends, and Alcinous his own golden goblet, so that the stranger may remember him; and the queen lays the gifts in a chest (8.387–448). At the farewell supper they are “the gifts of friendship” that go with the escort (8.545).
+# ξεινήιον, as Murray prints it (8.389; again 9.267, 9.370); the Iliad's ξεινήϊον is in the Iliad Book 11 note.
+grc: [ξεινήιον]
+refs: [8.390-393, 8.403-405, 8.417, 8.420, 8.428, 8.430-431, 8.438-440, 8.545]
+passages:
+  - 8.385-399 | The guest-gift of the kings
+  - 8.417-448 | The gifts brought to the house
+---
+
+{{quote:e5c8090b-7150-50c5-b748-bd0e2ddc625c}}
+
+**As is fitting.** The stranger has praised the Phaeacian dancers, and the king, glad, finds him “a very wise man” (8.381–388); the gift follows, ὡς ἐπιεικές, “as is fitting” (8.389; see [[xenia]]). It is given by the whole order of the land: “For twelve distinguished kings throughout the land / rule as leaders, and I myself am the thirteenth” (8.390–391), from which a scholium concludes that the Phaeacians were a kind of aristocracy, with Alcinous preeminent among them (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.390; see [[kings]] and [[basileus]]). Each gives a freshly washed mantle, a tunic and a talent of gold (8.392–393; see [[cloak]] and [[tunic]]). τάλαντον is found only here in the singular: a definite weight, probably not large, since two talents of gold are only the fourth prize in the Iliad's chariot race (Merry on 8.393; *Iliad* 23.269; see [[talent]]). The kings approve, and each sends a herald to fetch his gift (8.398–399; see [[heralds]]).
+
+**The sword and the goblet.** Euryalus must make amends “with words / and with a gift” (8.396–397): a sword all of bronze, with a hilt of silver and a sheath of newly sawn ivory, which “will be worth much to him”, either a thing of price or a gift that makes up for much (8.403–405; Merry on 8.405; see [[amends-and-reconciliation]] and [[sword]]). The king adds his own gift: “this beautiful goblet of mine, / of gold, so that remembering me all his days / he may pour libations in his hall to Zeus and the other gods” (8.430–432; see [[cup]] and [[memory-and-the-muses]]). The gift carries the giver's memory, as Telemachus promised the stranger of Book 1 a gift “which will be a treasure for you / from me, such as dear guest-friends give to guest-friends” (1.311–313).
+
+**To the house and into the chest.** By sunset “the glorious gifts were there for him”, and the heralds carry them to the house, where the king's sons set them beside their mother (8.417–420): all the gifts had come in by the end of the day (Merry on 8.417). Arete lays “the clothing and the gold” in a splendid chest and adds a mantle and a tunic herself, besides the gifts of the others (8.438–441; Merry on 8.425; see the translation's note on 8.425, 8.441), and bids the stranger tie the lid, so that no one may do him harm on the way while he sleeps; he ties it with the complicated knot that Circe had taught him (8.443–448; see [[chest]]).
+
+**Gifts of friendship.** At the evening feast Alcinous names the gifts with the escort as everything made ready for the revered stranger, “the escort and the gifts of friendship, which we give him, making him welcome” (πομπὴ καὶ φίλα δῶρα, 8.545; see [[pompe]] and [[doron]]), and the supper itself, at which the keepsakes are presented, is the first act of the escort (Merry on 8.544). In Book 13 the Phaeacians set the gifts down on the shore of Ithaca beside the sleeping man, at the foot of an olive tree out of the way, and when he wakes he counts them, tripods and cauldrons and gold and woven clothing, and finds nothing missing (13.117–124, 13.215–219).

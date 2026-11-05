@@ -19,20 +19,21 @@ relations:
 
 ## Family
 
-He is the son of Nausithous, who led the Phaeacians to Scheria, a son of Poseidon and Periboea, and the brother of Rhexenor, whose only daughter, Arete, he married when Apollo struck Rhexenor down, newly wed (*Odyssey* 7.56–66; see [[nausithous]], [[periboea-mother-of-nausithous]], [[rhexenor]] and [[arete-queen-of-the-phaeacians]]). Their daughter is Nausicaa (*Odyssey* 6.17; see [[nausicaa]]). He has five sons, two married and three unmarried (*Odyssey* 6.62–63); three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119), and Laodamas sits next to him and is the son he loves most (*Odyssey* 7.170–171; see [[laodamas-son-of-alcinous]]). The old woman Eurymedusa, who reared Nausicaa, was picked out for him as a prize (*Odyssey* 7.7–12; see [[eurymedusa]]), and his herald is Pontonous (*Odyssey* 7.179; see [[pontonous]]).
+He is the son of Nausithous, who led the Phaeacians to Scheria, a son of Poseidon and Periboea, and the brother of Rhexenor, whose only daughter, Arete, he married when Apollo struck Rhexenor down, newly wed (*Odyssey* 7.56–66; see [[nausithous]], [[periboea-mother-of-nausithous]], [[rhexenor]] and [[arete-queen-of-the-phaeacians]]). Their daughter is Nausicaa (*Odyssey* 6.17; see [[nausicaa]]). He has five sons, two married and three unmarried (*Odyssey* 6.62–63); three of them, Laodamas, Halius and Clytoneus, stand up at the games (*Odyssey* 8.118–119; see [[halius-son-of-alcinous]] and [[clytoneus]]), and Laodamas sits next to him and is the son he loves most (*Odyssey* 7.170–171; see [[laodamas-son-of-alcinous]]). The old woman Eurymedusa, who reared Nausicaa, was picked out for him as a prize (*Odyssey* 7.7–12; see [[eurymedusa]]), and his herald is Pontonous (*Odyssey* 7.179; see [[pontonous]]).
 
 ## Descriptions
 
 - θεῶν ἄπο μήδεα εἰδώς, “who knew counsels from the gods” (*Odyssey* 6.12; see [[who-knew-counsels]]).
 - μεγαλήτωρ, “great-hearted” (*Odyssey* 6.17, 6.196, 6.213, 6.299; 8.464), above all in the verse-end θυγάτηρ μεγαλήτορος Ἀλκινόοιο, “the daughter of great-hearted Alcinous”, which the Iliad has of Andromache's father Eetion (*Iliad* 6.395; see [[great-hearted]]).
-- δαΐφρων, “wise-hearted” (*Odyssey* 6.256; see [[wise-hearted]]); ἥρως, “the hero” (*Odyssey* 6.303), as Odysseus addresses him (*Odyssey* 7.303); κλυτός, “famous” (*Odyssey* 6.36; see [[famous]]); θεοειδής, “godlike” (*Odyssey* 7.231; see [[godlike]]).
+- δαΐφρων, “wise-hearted” (*Odyssey* 6.256; 8.8, 8.13, 8.56; see [[wise-hearted]]); ἥρως, “the hero” (*Odyssey* 6.303), as Odysseus addresses him (*Odyssey* 7.303); κλυτός, “famous” (*Odyssey* 6.36; see [[famous]]); θεοειδής and θεοείκελος, “godlike” (*Odyssey* 7.231; 8.256; see [[godlike]]).
+- Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν, “Powerful Alcinous, preeminent among all the people”, the address with which Odysseus and Euryalus speak to him (*Odyssey* 8.382, 8.401; 9.2; 11.355, 11.378; 13.38; see [[preeminent]]).
 - ἱερὸν μένος Ἀλκινόοιο, “the sacred might of Alcinous” (*Odyssey* 7.167, 8.2, 8.4, 8.385, 8.421, 13.20, 13.24), and μένος Ἀλκινόοιο alone (*Odyssey* 7.178, 8.423, 13.49, 13.64), a periphrasis like Telemachus' “sacred strength” (see [[sacred-might-of-alcinous]] and [[sacred-strength-of-telemachus]]).
 
 {{notes}}
 
 ## Later in the Odyssey
 
-In *Odyssey* 8–13 Alcinous holds games and a feast for his guest, listens to the tale of his wanderings (*Odyssey* 9–12), known in antiquity as “the tale to Alcinous”, and sends him home with gifts in a Phaeacian ship (see [[the-tale-to-alcinous]], [[demodocus]] and [[odysseus-set-ashore-on-ithaca]]). When Poseidon turns the ship that carried Odysseus to stone, he recognizes the prophecy of his father Nausithous, and bids his people give up their escorts of strangers and sacrifice twelve chosen bulls to the god; the poem leaves the leaders of the Phaeacians praying around the altar (*Odyssey* 13.171–187; see [[nausithous]] and [[poseidon]]).
+After the games and the feasts of *Odyssey* 8, he listens to the tale of his guest's wanderings (*Odyssey* 9–12), known in antiquity as “the tale to Alcinous”, and sends him home with gifts in a Phaeacian ship (see [[the-tale-to-alcinous]], [[demodocus]] and [[odysseus-set-ashore-on-ithaca]]). When Poseidon turns the ship that carried Odysseus to stone, he recognizes the prophecy of his father Nausithous, and bids his people give up their escorts of strangers and sacrifice twelve chosen bulls to the god; the poem leaves the leaders of the Phaeacians praying around the altar (*Odyssey* 13.171–187; see [[nausithous]] and [[poseidon]]).
 
 ## Outside Homer
 

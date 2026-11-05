@@ -4,7 +4,9 @@ greek: Εὔρυτος
 kind: person
 tags: [king]
 summary: King of Oechalia and a great archer, not to be confused with the Epeian Eurytus, son of Actor. The Odyssey says that Apollo killed him for challenging the god with the bow; his bow passed through his son Iphitus to Odysseus.
-grc: [Εὐρύτου]
+# Εὐρύτου (2.596, 2.730; at 2.621 the Epeian, eurytus-of-elis); Εὐρύτῳ (Od. 8.224) and Εὔρυτος (Od. 8.226, 21.32) are
+# the archer king in both poems. Neither form occurs in the Iliad, and no Eurytus in the Poetics or the Rhetoric.
+grc: [Εὐρύτου, Εὐρύτῳ, Εὔρυτος]
 except: [2.621]
 ---
 
@@ -16,7 +18,7 @@ Homer names him twice in *Iliad* 2, both times as "Eurytus of Oechalia" (Εὐρ
 
 ## Elsewhere in Homer
 
-Odysseus, boasting of his archery among the Phaeacians, says he would not compete with the men of old, with Heracles or Eurytus of Oechalia, who challenged even the gods with the bow. Eurytus died young, "for Apollo in anger killed him, because he challenged him to shoot" (Od. 8.223–228). Eurytus' bow passed to his son Iphitus, who gave it to Odysseus in Messene; Heracles later killed Iphitus while he was his guest. It is with this bow that Odysseus kills the suitors (Od. 21.13–41).
+Odysseus, boasting of his archery among the Phaeacians, says he will not vie with the men of former days, Heracles and Eurytus of Oechalia; Apollo killed Eurytus young, in anger, because he challenged the god to shoot with the bow (*Odyssey* 8.223–228; see [[who-fights-the-gods]]). Eurytus' bow passed to his son Iphitus, who gave it to Odysseus in Messene; Heracles later killed Iphitus while he was his guest. It is with this bow that Odysseus kills the suitors (*Odyssey* 21.13–41).
 
 ## Outside Homer
 

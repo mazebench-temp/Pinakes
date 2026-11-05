@@ -20,7 +20,7 @@ The two sons of Cronus have “their minds set on different sides” (13.345). Z
 
 πεῖραρ is a rope, as in the Odyssey, where Odysseus is to be bound to the mast with ropes made fast to it (πείρατʼ, *Odyssey* 12.51, 12.162, 12.179). It is also an end or bound, as in “the bounds of victory” (7.102) and “the bounds of destruction” (7.402, 12.79; see [[the-bounds-of-victory]]). ἐπαλλάσσω, “cross, interchange”, occurs only here, and the picture is read in two ways (see the translation's note). Each god hauls at one end, as in a tug of war, with the armies in the middle; or the gods knot a cord over both armies and draw it tight, binding them together in the fight so that neither can get free. ὁμοίϊος, rendered “common to all”, has a disputed sense (see [[common-to-all]]).
 
-The rope is “unbreakable and not to be loosed” (ἄρρηκτόν τʼ ἄλυτόν τε), the words of the golden hobbles with which Poseidon tethers his horses in the cave (13.36–37), and of the chains Hephaestus forged to hold Ares and Aphrodite (*Odyssey* 8.275). The verse ends in a turn on its own words: the rope that cannot be loosed (ἄλυτον) “loosened the knees of many” (γούνατʼ ἔλυσεν), the phrase of a man killed in battle (13.412; see [[gounata]] and [[loosened-his-limbs]]).
+The rope is “unbreakable and not to be loosed” (ἄρρηκτόν τʼ ἄλυτόν τε), the words of the golden hobbles with which Poseidon tethers his horses in the cave (13.36–37), and of the bonds Hephaestus forged to hold Ares and Aphrodite (*Odyssey* 8.275). The verse ends in a turn on its own words: the rope that cannot be loosed (ἄλυτον) “loosened the knees of many” (γούνατʼ ἔλυσεν), the phrase of a man killed in battle (13.412; see [[gounata]] and [[loosened-his-limbs]]).
 
 ## The stretched battle
 

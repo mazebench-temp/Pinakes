@@ -12,7 +12,7 @@ of: [helmet]
 
 ## Meaning
 
-εὔτυκτος = εὖ (“well”) + τυκτός, verbal adjective of τεύχω (“make, fashion”): “well-made.” It praises the craftsman's work.
+εὔτυκτος = εὖ (“well”) + τυκτός, verbal adjective of τεύχω (“make, fashion”): “well-made.” It praises the craftsman's work. The translation gives the same English to εὐεργής, of a chariot in the Iliad (5.585) and of ships, ἐυεργέα νῆα, “a well-made ship,” in the Odyssey (*Odyssey* 8.567 and often).
 
 ## Use
 

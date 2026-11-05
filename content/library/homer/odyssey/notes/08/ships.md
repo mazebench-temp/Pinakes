@@ -1,0 +1,21 @@
+---
+summary: For the stranger's escort Alcinous bids the Phaeacians drag a black ship down to the sea “on her first voyage”, and fifty-two young men launch her and anchor her out in the water (8.31–55). Euryalus takes the stranger for the master of a merchant ship (8.159–164), and at the end of the day Alcinous tells him that the Phaeacian ships need no helmsmen, since they know the minds of men, and repeats his father's prophecy that Poseidon will one day shatter one of them on its way home from an escort (8.555–571).
+# πρωτόπλοον, "on her first voyage" (8.35), is found only here in Homer.
+grc: [πρωτόπλοον]
+en: [on her first voyage]
+passages:
+  - 8.34-55 | The launching of the escort ship
+  - 8.555-571 | The ships of the Phaeacians
+---
+
+**The escort ship.** Alcinous ends his first speech with the ship: “But come, let us drag a black ship down to the shining sea / on her first voyage, and let two and fifty young men / be chosen throughout the people, those who are the best, as always” (8.34–36; see [[alcinous]], [[pompe]] and [[black-ships]]). πρωτόπλοος, “sailing for the first time”, is found nowhere else in Homer: the ship has never been to sea before (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.35). The young men are to make the oars fast at the rowing benches and then step out again, ἔκβητε, leaving the ship at her moorings, and come to the feast (8.37–39; Merry on 8.38; see [[rowing-benches]] and [[feast]]).
+
+**The launching.** They go down “to the shore of the barren sea” (8.49; see [[barren-sea]]), and the launching is told in the verses of the suitors' launching in Book 4: “they dragged the black ship down into deep water, / and set the mast and the sails in the black ship, / and fitted the oars in their leather straps, / all in good order, and spread the white sails; / and they anchored her out in the water” (8.51–55, after 4.780–785; see the Book 4 note, [[mast]], [[sails]] and [[oars]]). ὑψοῦ ἐν νοτίῳ, “out in the water”, is a ship riding afloat, ready to sail (Merry on 8.55 refers to his note on 4.785; see the translation's note on 4.785). At the games Laodamas tells the stranger that his journey is near: “the ship has been drawn down, and the companions are ready” (8.150–151; see [[laodamas-son-of-alcinous]]).
+
+**The merchant's ship.** Euryalus does not liken the stranger to an athlete “but to one who goes to and fro with a many-benched ship, / a leader of sailors who are traders, / and who is mindful of his freight” (8.161–163; see [[euryalus-the-phaeacian]], [[many-benched]] and [[trade]]). Odysseus answers that he was overcome among many waves, “since on board the ship my keep was not / unfailing” (8.232–233; see the translation's row κομιδή). Arete bids him tie the chest so that no one may harm it “when hereafter / you sleep sweet sleep as you go in the black ship” (8.444–445; see [[chest]]). In Demodocus' last song the Argives have “gone on board their well-benched ships” and are sailing away, while the best of them sit in the horse (8.500–503; see [[well-benched]] and [[the-wooden-horse]]).
+
+**Ships that know men's minds.** Alcinous asks the stranger's land, “so that our ships may carry you there, aiming with their minds”:
+
+{{quote:331dc94c-a450-5635-ab86-8457b7d8cb23}}
+
+The ships, Merry writes, are endued with human sense: they anticipate the will of their masters and pass unseen over the sea, wrapped in mist and cloud (on 8.556; see the translation's note on 8.556–563, and [[steering-oar]] and [[phaeacians]]). The Phaeacians' boast is that they are “the best with ships” (8.247), and their epithets are those of seamen: “lovers of the oar”, “of the long oars, men famed for ships” (8.96, 8.191; see [[lovers-of-the-oar]], [[long-oared]] and [[famed-for-ships]]). Their safety is also their danger. Nausithous used to say that Poseidon begrudged them, “because we are escorts of all men and come to no harm”, and that he would one day shatter “a well-made ship of the Phaeacian men, / as it came back from an escort on the misty sea” (8.564–569; see [[nausithous]], [[poseidon]] and [[the-migration-of-the-phaeacians]]). The ship that carries Odysseus home is the one that meets the god: as it comes back, Poseidon turns it to stone within sight of the city (13.155–164, Greek only).

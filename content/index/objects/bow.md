@@ -3,7 +3,7 @@ title: Bow
 greek: τόξον
 kind: object
 tags: [weapon, divine-object]
-summary: The bow, τόξον or the rarer βιός: in the Iliad the weapon of a few archers such as Teucer, Paris and Pandarus, and of the gods who strike from afar, [[Apollo]] and Artemis.
+summary: The bow, τόξον or the rarer βιός: in the Iliad the weapon of a few archers such as Teucer, Paris and Pandarus, and of the gods who strike from afar, [[Apollo]] and Artemis; in the Odyssey the skill Odysseus boasts of among the Phaeacians, and the bow of Eurytus that he keeps at home and strings to kill the suitors.
 aliases: [silver bow, bows, biós]
 grc: [ἀργυρότοξʼ, τόξʼ, βιοῖο]
 en: [bow]

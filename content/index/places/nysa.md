@@ -11,7 +11,7 @@ en: [Nysean mount]
 
 {{quote:5969c907-d704-59a1-af96-11db2ca6c422}}
 
-Νυσήϊον, “Nysean”, is an adjective used as a noun, “the Nysean (place)”, and it occurs only here in Homer. The Iliad does not say whether it is a mountain; the translation, like the Homeric *Hymn to Dionysus*, makes it one. ἠγάθεος, “very holy”, is said in Homer only of places: Pylos (1.252), Lemnos (2.722, 21.79) and, in the Odyssey, Pytho (Od. 8.80). Homer tells nothing of Nysa but this one scene, in which the god's nurses are driven down it and the child god flees into the sea (see [[lycurgus]] and [[dionysus]]).
+Νυσήϊον, “Nysean”, is an adjective used as a noun, “the Nysean (place)”, and it occurs only here in Homer. The Iliad does not say whether it is a mountain; the translation, like the Homeric *Hymn to Dionysus*, makes it one. ἠγάθεος, “very holy”, is said in Homer only of places: Pylos (1.252), Lemnos (2.722, 21.79) and, in the Odyssey, Pytho (*Odyssey* 8.80; see [[pytho]]). Homer tells nothing of Nysa but this one scene, in which the god's nurses are driven down it and the child god flees into the sea (see [[lycurgus]] and [[dionysus]]).
 
 ## Outside Homer
 

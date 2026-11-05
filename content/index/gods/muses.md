@@ -6,8 +6,9 @@ tags: [muse, woman, music]
 summary: The goddesses of song, daughters of [[Zeus]], who know all things and tell the poet what men know only by report.
 aliases: [Muse, the goddess]
 # μοῦσα, the singular, is the Muse wherever it occurs: Od. 1.1 (printed in lowercase), and the Odyssey's first line as
-# the Rhetoric quotes it (Rhetoric 1415a17); in the Iliad Μοῦσα (2.761) is also claimed by the Book 2 note.
-grc: [Μουσάων, Μοῦσα]
+# the Rhetoric quotes it (Rhetoric 1415a17); in the Iliad Μοῦσα (2.761) is also claimed by the Book 2 note. So is the
+# elided μοῦσʼ, which Homer has only in Odyssey 8, always in lowercase (Od. 8.63, 8.73, 8.481, 8.488).
+grc: [Μουσάων, Μοῦσα, μοῦσʼ]
 en: [Muses, Muse, goddess]
 refs: [1.1]
 ---

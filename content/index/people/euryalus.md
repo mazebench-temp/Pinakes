@@ -9,6 +9,8 @@ relations:
   - father: mecisteus (2.566)
 passages:
   - 2.559-568 | Argos and Tiryns
+# Εὐρύαλος in Od. 8 is the Phaeacian, son of Naubolus (euryalus-the-phaeacian, whose Odyssey Book 8 note claims it).
+except: [Od. 8.115, Od. 8.127, Od. 8.140, Od. 8.158, Od. 8.396, Od. 8.400]
 ---
 
 {{quote:35f5711c-53f2-58a3-9683-9adf696e7386}}
@@ -19,6 +21,8 @@ passages:
 
 In the first battle he kills Dresus and Opheltius, and then Aesepus and Pedasus, twin sons of a river nymph (6.20–28). His four victims are the largest share in a quick list of Achaean killings at the opening of *Iliad* 6, where each leader in turn takes his man (6.5–36). At Patroclus' games Epeius boasts that he will crush the bones of any man who faces him in the boxing, and Euryalus alone stands up. The poet recalls that his father Mecisteus had once gone to Thebes for the funeral games of Oedipus and beaten all the Cadmeians. Diomedes stands by him and girds him, but Epeius knocks him down, and his companions drag him away spitting blood (23.664–699).
 
+The Odyssey's Euryalus is another man, [[euryalus-the-phaeacian|a young Phaeacian]], the son of Naubolus, who wins the wrestling at the games of the Phaeacians and taunts Odysseus as a trader with no look of an athlete (*Odyssey* 8.115–127, 8.158–164). Both men of the name are athletes at games.
+
 ## Outside Homer
 
-Apollodorus lists him among the Argonauts and the Epigoni (1.9.16, 3.7.2). He is not the Phaeacian Euryalus who insults Odysseus (Od. 8.115–130, 8.158–164), nor Virgil's Euryalus, the friend of Nisus (*Aeneid* 9).
+Apollodorus lists him among the Argonauts and the Epigoni (1.9.16, 3.7.2). He is not Virgil's Euryalus, the friend of Nisus (*Aeneid* 9).

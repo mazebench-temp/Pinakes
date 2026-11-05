@@ -6,10 +6,11 @@ tags: [edge-of-world, kingship]
 summary: The house of Alcinous, king of the Phaeacians, unlike any other house in their city. It shines like the sun or the moon, with walls of bronze, golden doors, gold and silver dogs that Hephaestus made to guard it and golden youths holding torches for the feasters, and outside its court lies a garden that bears fruit all year. In it Odysseus clasps the knees of the queen, tells the tale of his wanderings and is given his escort home.
 aliases: [house of Alcinous, palace of Alcinous, Alcinous' house, Alcinous' palace, palace of the Phaeacians]
 # The phrases that name the house, found nowhere else: Od. 6.299, 6.302; 7.82, 7.85, 7.93, and ἐν Ἀλκινόοιο, "at the
-# house of Alcinous" (7.132). The Book 7 note claims the book's other phrases for it. Later books: Ἀλκινόοιο δαΐφρονος
-# … δῶμα (8.13, 8.56), ἐς Ἀλκινόοιο (8.418), ἐμὸν ποτὶ χαλκοβατὲς δῶ (13.4) and εἰς Ἀλκινόοιο (13.23), to add with
-# their books. The English is "house" only, so that "Alcinous" stays linked to the king.
-grc: ["ἐμοῦ μεγαλήτορος Ἀλκινόοιο", "δόμος Ἀλκινόοιο", "Ἀλκινόου πρὸς δώματʼ", "ὑψερεφὲς μεγαλήτορος Ἀλκινόοιο", "φυλασσέμεναι μεγαλήτορος Ἀλκινόοιο", "ἐν Ἀλκινόοιο"]
+# house of Alcinous" (7.132), and in Odyssey 8 "Ἀλκινόοιο δαΐφρονος ἵκετο δῶμα" (8.13), "Ἀλκινόοιο δαΐφρονος ἐς μέγα
+# δῶμα" (8.56) and ἐς Ἀλκινόοιο, "to the house of Alcinous" (8.418). The Book 7 and Book 8 notes claim those books'
+# other phrases for it. Later books: ἐμὸν ποτὶ χαλκοβατὲς δῶ (13.4) and εἰς Ἀλκινόοιο (13.23), to add with their
+# books. The English is "house" only, so that "Alcinous" stays linked to the king.
+grc: ["ἐμοῦ μεγαλήτορος Ἀλκινόοιο", "δόμος Ἀλκινόοιο", "Ἀλκινόου πρὸς δώματʼ", "ὑψερεφὲς μεγαλήτορος Ἀλκινόοιο", "φυλασσέμεναι μεγαλήτορος Ἀλκινόοιο", "ἐν Ἀλκινόοιο", "Ἀλκινόοιο δαΐφρονος ἵκετο δῶμα", "Ἀλκινόοιο δαΐφρονος ἐς μέγα δῶμα", "ἐς Ἀλκινόοιο"]
 en: [house]
 passages:
   - Od. 6.296-309 | Nausicaa's directions
@@ -44,7 +45,7 @@ The same number of slave women serve in the house of Odysseus (*Odyssey* 22.421;
 
 **The garden.** Outside the court, near the doors, lie an orchard, a vineyard, garden beds and two springs, one of which runs under the threshold of the court toward the house, where the townsfolk draw water (*Odyssey* 7.112–131; see [[the-garden-of-alcinous]]). One verse closes the whole description: “Such were the splendid gifts of the gods at the house of Alcinous” (*Odyssey* 7.132).
 
-**The life of the house.** The leaders of the Phaeacians drink and eat in it, “for they had unfailing store” (*Odyssey* 7.99), and pour their last libation to Hermes before they go home to bed (*Odyssey* 7.136–138; see [[feast]] and [[libation]]). The queen sits at the hearth, and there the suppliant sits in the ashes (*Odyssey* 6.305, 7.153; see [[supplication]]). Guests sleep in the colonnade, and the king and queen in the inner part of the high house (*Odyssey* 7.335–347; see [[bed]]). The next day its colonnades, courts and rooms fill with the Phaeacians gathering for the feast in honor of the stranger (*Odyssey* 8.56–58, a plain rendering), and in the evening the gifts of the Phaeacian leaders are brought to it and set beside the queen (*Odyssey* 8.417–420). There Odysseus tells the tale of his wanderings (*Odyssey* 9–12; see [[the-tale-to-alcinous]]), and Alcinous speaks of it as “my bronze-floored house, / high-roofed” (*Odyssey* 13.4–5, a plain rendering; see [[bronze-floored]]). Odysseus leaves it by stepping over its threshold to go down to the ship (*Odyssey* 13.63).
+**The life of the house.** The leaders of the Phaeacians drink and eat in it, “for they had unfailing store” (*Odyssey* 7.99), and pour their last libation to Hermes before they go home to bed (*Odyssey* 7.136–138; see [[feast]] and [[libation]]). The queen sits at the hearth, and there the suppliant sits in the ashes (*Odyssey* 6.305, 7.153; see [[supplication]]). Guests sleep in the colonnade, and the king and queen in the inner part of the high house (*Odyssey* 7.335–347; see [[bed]]). The next day the Phaeacians gather in it for the feast in the stranger's honor, and at sunset the gifts of their leaders are brought to it and set beside the queen (*Odyssey* 8.56–58, 8.417–420). There Odysseus tells the tale of his wanderings (*Odyssey* 9–12; see [[the-tale-to-alcinous]]), and Alcinous speaks of it as “my bronze-floored house, / high-roofed” (*Odyssey* 13.4–5, a plain rendering; see [[bronze-floored]]). Odysseus leaves it by stepping over its threshold to go down to the ship (*Odyssey* 13.63).
 
 {{notes}}
 

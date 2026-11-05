@@ -1,0 +1,7 @@
+---
+summary: The young men who will row the stranger home are “the companions” waiting at the ship (8.151); he boasts that he would strike his man first though many companions stood beside him shooting (8.217); Athena in a man's form is “a gentle companion” in the gathering (8.200); and the book ends with Alcinous' maxim that a companion with wise understanding is no worse than a brother (8.584–586).
+# ἑταῖρον (8.200; again 10.59, 11.7, 12.149, 15.539).
+grc: [ἑταῖρον]
+---
+
+The word runs through the book in its senses. The fifty-two young men chosen to row the ship are the stranger's ἑταῖροι for the voyage: “already / the ship has been drawn down, and the companions are ready” (8.150–151; see [[pompe]]). In his boast of archery the ἑταῖροι are the comrades of a fight, “even if very many companions / stood near beside me and were shooting at the men” (8.217–218). At the games the goddess who marks his throw is “a gentle companion” (ἑταῖρον ἐνηέα, 8.200; see [[eneeie]] and [[athena]]). And Alcinous' last guess at the stranger's grief is a companion lost at Troy, “a man of kindly heart, / a good man? Since in no way inferior to a brother / is a companion who has wise understanding” (8.584–586; see [[a-companion-no-worse-than-a-brother]] and [[kasignetos]]). The companions the stranger has lost are the matter of his tale, from Ismarus to the island of the Sun (see [[the-tale-to-alcinous]]).

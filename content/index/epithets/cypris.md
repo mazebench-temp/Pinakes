@@ -12,7 +12,7 @@ of: [aphrodite]
 
 ## Meaning
 
-Κύπρις is formed from Κύπρος, “Cyprus”: “the Cyprian,” the goddess of the island. In the Odyssey, after the song of Ares and Aphrodite, she goes to Cyprus, to Paphos, where she has a precinct and a fragrant altar (Od. 8.362–363). Unlike [[pallas]] and [[phoebus]], the name is never joined to the goddess's first name: Κύπρις stands in place of Ἀφροδίτη. It occurs in Homer only in Book 5 of the Iliad (5.330, 5.422, 5.458, 5.760, 5.883) and never in the Odyssey. Everywhere else the poems call her Aphrodite, with her epithets [[golden]], [[laughter-loving]] and [[daughter-of-zeus]].
+Κύπρις is formed from Κύπρος, “Cyprus”: “the Cyprian,” the goddess of the island. In the Odyssey, after the song of Ares and Aphrodite, she goes to Cyprus, to Paphos, where she has a precinct and a fragrant altar (Od. 8.362–363; [[paphos]]). Unlike [[pallas]] and [[phoebus]], the name is never joined to the goddess's first name: Κύπρις stands in place of Ἀφροδίτη. It occurs in Homer only in Book 5 of the Iliad (5.330, 5.422, 5.458, 5.760, 5.883) and never in the Odyssey. Everywhere else the poems call her Aphrodite, with her epithets [[golden]], [[laughter-loving]] and [[daughter-of-zeus]].
 
 ## Use
 

@@ -45,7 +45,7 @@ Athena and Hera watch, and Athena teases Zeus: Cypris must have been coaxing som
 
 ## Elsewhere in Homer
 
-Aphrodite is struck again in the battle of the gods. When she leads the wounded Ares away, Athena, at Hera's urging, strikes her on the breast with her fist and boasts that if all the Trojans' helpers were like Aphrodite, the war would long be over (21.416–433). In *Iliad* 14 Hera borrows from her the embroidered band in which are love, desire and seductive talk, the works that Zeus assigns to her here (14.188–223). The Odyssey's Demodocus sings of her love for Ares and of the net in which Hephaestus caught them (Odyssey 8.266–366).
+Aphrodite is struck again in the battle of the gods. When she leads the wounded Ares away, Athena, at Hera's urging, strikes her on the breast with her fist and boasts that if all the Trojans' helpers were like Aphrodite, the war would long be over (21.416–433). In *Iliad* 14 Hera borrows from her the embroidered band in which are love, desire and seductive talk, the works that Zeus assigns to her here (14.188–223). The Odyssey's Demodocus sings of her love for Ares and of the bonds in which Hephaestus caught them (*Odyssey* 8.266–366; see [[the-song-of-ares-and-aphrodite]]).
 
 ## Outside Homer
 

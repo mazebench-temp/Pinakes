@@ -36,13 +36,13 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | Greek | English | Notes |
 |---|---|---|
 | πολύτροπος | of many turns | ἄνδρα … πολύτροπον "the man of many turns" (1.1: see the note) |
-| ξεῖνος | stranger; guest-friend | "stranger" of a visitor, χαῖρε, ξεῖνε "Welcome, stranger!" (1.123); "guest-friend" of the bond between houses, πατρώιος ξεῖνος "guest-friend … from our fathers' time" (1.175–176, 1.187, 1.417), as ξεῖνος πατρώϊος "guest-friend of mine from our fathers' time" (*Iliad* 6.215) |
+| ξεῖνος | stranger; guest-friend | "stranger" of a visitor, χαῖρε, ξεῖνε "Welcome, stranger!" (1.123); "guest-friend" of the bond between houses, πατρώιος ξεῖνος "guest-friend … from our fathers' time" (1.175–176, 1.187, 1.417), as ξεῖνος πατρώϊος "guest-friend of mine from our fathers' time" (*Iliad* 6.215); "host" of the man who receives the stranger, ξεῖνος γάρ μοι ὅδʼ ἐστί "For he is my host" (8.208), as ξεινοδόκος "host" (8.210, 8.543) |
 | μνηστῆρες, μνάομαι | suitors, woo | μνηστῆρες "suitors" (1.91, 1.106, …); μνῶνται "woo" (1.248) |
 | ἔεδνα | bride-price | (1.277: see the note on 1.275–278), as ἕδνα (*Iliad* 16.178, 16.190, 22.472) |
 | περίφρων | prudent | περίφρων Πηνελόπεια "prudent Penelope" (1.329), kept apart from πεπνυμένος "wise", the word of Telemachus; the Iliad's one περίφρων (5.412) is "wise" |
 | ἀμφίρυτος / ἀμφίαλος | sea-washed / sea-girt | νήσῳ ἐν ἀμφιρύτῃ "on a sea-washed island" (1.50, 1.198); ἐν ἀμφιάλῳ Ἰθάκῃ "in sea-girt Ithaca" (1.386, 1.395, 1.401) |
 | δενδρήεις / ὑλήεις | full of trees / wooded | νῆσος δενδρήεσσα "an island full of trees" (1.51); ὑλήεις "wooded" (1.186, 1.246), as in the Iliad |
-| ἄεθλοι | trials | "not even then was he free of his trials" (1.18), as ἀέθλους "the many trials" (*Iliad* 3.126); "labors" of the labors of Heracles (*Iliad* 8.363) |
+| ἄεθλοι | trials | "not even then was he free of his trials" (1.18), as ἀέθλους "the many trials" (*Iliad* 3.126); "labors" of the labors of Heracles (*Iliad* 8.363); "contests" of the games (8.22, 8.100: see the row ἄεθλος of the games) |
 | κλέος / ἀκλειῶς | fame; report / without report | κλέος ἐσθλόν "noble fame" (1.95), μέγα κλέος "great fame" (1.240), κλέος εὐρύ "whose fame is wide" (1.344); "report", what men hear (1.283, as *Iliad* 2.486); ἀκλειῶς "without report" (1.241: see the note), where the Iliad has "without glory" (22.304) |
 | ἄιστος, ἄπυστος | out of sight, unheard of | (1.235, 1.242), as ἄϊστον "out of sight" (*Iliad* 14.258) |
 | κεχρημένος | wanting | νόστου κεχρημένον "wanting his homecoming" (1.13), as κεχρημένος "wanting" (*Iliad* 19.262); "long" is kept for λιλαίομαι (1.15) and ἱμείρομαι (1.41, 1.59) |
@@ -127,7 +127,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | δέσποινα | lady | ἄλοχος δέσποινα "the lady his wife" (3.403) |
 | φήνη | sea eagle | φήνῃ εἰδομένη "in the likeness of a sea eagle" (3.372: see the note) |
 | ἔται, γείτονες | kinsmen, neighbors | πολλοῖσιν ἔτῃσιν "to his many kinsmen" (4.3); γείτονες ἠδὲ ἔται "the neighbors and kinsmen" (4.16), as ἔται "kinsmen" (*Iliad* 6.239, 9.464, 16.456; see the note on 4.3) |
-| ἐπηετανός | unfailing | ἐπηετανὸν γάλα "unfailing milk" (4.89: see the note; again 6.86, 7.99), adverbial "unfailingly" (7.128) |
+| ἐπηετανός | unfailing | ἐπηετανὸν γάλα "unfailing milk" (4.89: see the note; again 6.86, 7.99), adverbial "unfailingly" (7.128); of Odysseus' keep on the raft "unfailing" (8.233) |
 | ἀνωϊστί | unawares | λάθρῃ, ἀνωιστί "in secret, unawares" (4.92; only here in Homer), beside ἀνώϊστον κακόν "an evil he never foresaw" (*Iliad* 21.39) |
 | ἐχέφρων | sensible | ἐχέφρων Πηνελόπεια "sensible Penelope" (4.111), as ἀγαθὸς καὶ ἐχέφρων "good and sensible" (*Iliad* 9.341) |
 | κλισίη, κλισμός | chair | κλισίην εὔτυκτον "a well-made chair" (4.123), where the Iliad's κλισίη is "hut"; ἐν κλισμῷ "in the chair" (4.136), as ἐπὶ κλισμοῖσι "on chairs" (*Iliad* 11.623); θρῆνυς "footstool" (4.136), as *Iliad* 14.240 |
@@ -186,11 +186,11 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | χρυσόρραπις | of the golden wand | Ἑρμεία χρυσόρραπι "Hermes of the golden wand" (5.87; again 10.277, 10.331), with ῥάβδος "wand" (5.47 = *Iliad* 24.343) |
 | ἁλιόω | make vain | Διὸς νόον … οὔθʼ ἁλιῶσαι "or made vain" (5.104, 5.138), from ἅλιος "vain" (Merry on 5.104), as οὐδʼ ἁλίωσε βέλος "nor did he waste his throw" (*Iliad* 16.737) |
 | σχέτλιος, ζηλήμων | hard, jealous | σχέτλιοί ἐστε, θεοί, ζηλήμονες "You are hard, you gods, and jealous" (5.118: see the note), as σχέτλιοί ἐστε θεοί "You are hard, you gods" (*Iliad* 24.33) |
-| ἄγαμαι | begrudge | ἀγάασθε, ἠγάασθε, ἄγασθε (5.119, 5.122, 5.129), the gods' grudge against goddesses' mortal husbands, as ἀγάσσεσθαι "begrudge" (4.181) |
+| ἄγαμαι | begrudge | ἀγάασθε, ἠγάασθε, ἄγασθε (5.119, 5.122, 5.129), the gods' grudge against goddesses' mortal husbands, as ἀγάσσεσθαι "begrudge" (4.181); Ποσειδάωνʼ ἀγάσασθαι "Poseidon begrudged" the Phaeacians their escorts (8.565: Merry on 8.566) |
 | ἐρρέτω | let him go to his ruin | (5.139), as *Iliad* 20.349 |
 | ἐποπίζομαι | have regard for | Διὸς δʼ ἐποπίζεο μῆνιν "have regard for the wrath of Zeus" (5.146), from ὄπις, the regard due to the gods (Merry on 5.146) |
 | ἴκρια | deck | ἴκρια πῆξαι "fix a deck" (5.163), ἴκρια … στήσας "setting up the deck" (5.252): see the note on 5.252–253; as "the deck of the balanced ship" (*Iliad* 15.729) and "the deck" (3.353), "decks" of many ships (*Iliad* 15.685) |
-| ἀλιτρός, ἀποφώλιος | rogue, no fool | ἦ δὴ ἀλιτρός γʼ ἐσσὶ καὶ οὐκ ἀποφώλια εἰδώς "Truly you are a rogue, and no fool" (5.182), playful (Merry on 5.182), where the Iliad's ἀλιτρός is "perverse" (8.361) and "an offender against the gods" (23.595) |
+| ἀλιτρός, ἀποφώλιος | rogue, no fool; worthless | ἦ δὴ ἀλιτρός γʼ ἐσσὶ καὶ οὐκ ἀποφώλια εἰδώς "Truly you are a rogue, and no fool" (5.182), playful (Merry on 5.182), where the Iliad's ἀλιτρός is "perverse" (8.361) and "an offender against the gods" (23.595); νόον δʼ ἀποφώλιός ἐσσι "but in mind you are worthless" (8.177: Merry on 8.177, the derivation "most uncertain") |
 | ἐέλδομαι | yearn | τῆς τʼ αἰὲν ἐέλδεαι "for whom you yearn always" (5.210; 5.219), beside ἱμειρόμενος "longing" (5.209) |
 | ἀκιδνός | less | εἶδος ἀκιδνοτέρη "less … in looks" (5.217: Merry on 5.217) |
 | ταλαπενθής | that bears up under sorrow | ταλαπενθέα θυμόν "a heart … that bears up under sorrow" (5.222; only here in Homer) |
@@ -298,7 +298,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | τέθηπα | be astounded | ἐτεθήπεα θυμῷ "I was astounded in my heart" (6.166), τέθηπα (6.168; again 23.105, 24.392), kept apart from θαυμάζω "marvel" (6.49) and θαμβέω "be amazed" (1.323); the Iliad's τεθηπότες, of men stunned by fear, is "dazed" (4.243, 21.29) |
 | πτωχός | beggar | ξεῖνοί τε πτωχοί τε "strangers and beggars" (6.208 = 14.58; often in Books 17–18), sharing its English with δέκτης "a beggar" (4.248) |
 | κομέω, κομίζω, ἀλέγω | look after, take care of, take care of | τὸν νῦν χρὴ κομέειν "whom we must look after now" (6.207), as *Iliad* 8.109; κομίσσατο "has taken care of" (6.278), as κομίσαντο (*Iliad* 1.594: Merry on 6.278); ὅπλα … ἀλέγουσι "take care of the tackle" (6.268) |
-| ἀεικέλιος (of looks) | unsightly | (6.242; again 13.402, of Odysseus' disguise, and 9.503, 14.32, 17.357, 24.228; the adverb ἀεικελίως 8.231, 16.109), where the Iliad's one ἀεικέλιος is "unworthy" (14.84) and 4.244 has πληγῇσιν ἀεικελίῃσι "shameful blows" |
+| ἀεικέλιος (of looks) | unsightly | (6.242; again 13.402, of Odysseus' disguise, and 9.503, 14.32, 17.357, 24.228; the adverb ἀεικελίως "too shamefully" 8.231, again 16.109), where the Iliad's one ἀεικέλιος is "unworthy" (14.84) and 4.244 has πληγῇσιν ἀεικελίῃσι "shameful blows" |
 | ἄστυ, πόλις | city | both "city", as in the Iliad and 1–5 (ἄστυ 6.178, 6.194, 6.296; πόλις 6.177, 6.191, 6.195): Merry sees no intended distinction (on 6.177–178), and the Iliad keeps "town" for πόλιν καὶ ἄστυ "your city and your town" (17.144) |
 | μωμεύω | blame | μή τις ὀπίσσω / μωμεύῃ "lest someone hereafter / should blame me" (6.273–274; only here in Homer), as μωμήσονται (*Iliad* 3.412) |
 | ἀγάλλομαι | glory | ᾗσιν ἀγαλλόμενοι "in which they glory" (6.272), as ἀγαλλόμεναι Διὸς οὔρῳ "glorying in the wind of Zeus" (5.176) |
@@ -343,7 +343,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ἰσόομαι | liken oneself | (7.212), as *Iliad* 24.607 |
 | ὀτρύνομαι | make haste | ὑμεῖς δʼ ὀτρύνεσθαι "But you, make haste" (7.222), as ὀτρύνοντο "hurried" (*Iliad* 7.420) |
 | ἔντεα δαιτός | the gear of the feast | (7.232) |
-| δολόεις | wily | δολόεσσα Καλυψώ "wily Calypso" (7.245; again 8.281, 9.32): "sly", not "treacherous" (Merry on 7.245) |
+| δολόεις | wily; cunning | δολόεσσα Καλυψώ "wily Calypso" (7.245; again 9.32): "sly", not "treacherous" (Merry on 7.245); of Hephaestus' bonds, πέρι γὰρ δολόεντα τέτυκτο "for they were made exceedingly cunning" (8.281: Merry on 8.281) |
 | ἐφέστιος | to one's hearth | (7.248), as 3.234 |
 | ἐνδυκέως | with care | (7.256), as *Iliad* 23.90 |
 | ἔμπεδον (of time) | on end | ἑπτάετες μένον ἔμπεδον "I stayed for seven years on end" (7.259: "continuously", Merry on 7.259) |
@@ -361,6 +361,36 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | πηδόν, ἀναρρίπτω | oar-blade, toss up | ἀναρρίπτειν ἅλα πηδῷ "tossing up the sea with the oar-blade" (7.328; again 13.78) |
 | κοιμάομαι | lie down to sleep | (7.343), as 4.430 |
 | ὄρσο, ὄρσεο | rise | ὄρσο κέων "Rise and go to bed" (7.342), as *Iliad* 24.88; ὄρσεο "Rise" (6.255), as *Iliad* 3.250 |
+| ἄεθλος (of the games), ἀέθλια, ἀθλητήρ | contest, the games, athlete | ἀέθλων πειρηθῶμεν "make trial of the contests" (8.100; again 8.145, 8.184), εἴ τινʼ ἄεθλον "whether there is some contest" (8.133), as *Iliad* 4.389 "challenged them to contests"; ἀέθλια "the games" (8.108: Merry on 8.108); ἀθλητῆρι "an athlete" (8.164; only here in Homer); the "trials" of 1.18 stay for Odysseus' sufferings |
+| πύξ, παλαιμοσύνη, ἅλμα, πόδες, δίσκος | boxing, wrestling, jumping, running, the discus | πύξ τε παλαιμοσύνῃ τε καὶ ἅλμασιν ἠδὲ πόδεσσιν "in boxing and in wrestling and in jumping and in running" (8.103); παλαιμοσύνης ἀλεγεινῆς "painful wrestling" (8.126), as *Iliad* 23.701 (where the text spells παλαισμοσύνης: see the note on 8.103); πυγμάχοι … παλαισταί "boxers … wrestlers" (8.246) |
+| σῆμα, τέρμα | mark | ὑπέρπτατο σήματα πάντων "it flew beyond the marks of all" (8.192), διακρίνειε τὸ σῆμα "could sort out your mark" (8.195); ἔθηκε δὲ τέρματʼ Ἀθήνη "And Athena set the mark" (8.193: see the note on 8.192–193) |
+| ἀγών (of the games) | gathering | ἐν ἀγῶνι "in the gathering" (8.200, 8.238), καλὸν δʼ εὔρυναν ἀγῶνα "and widened a fine gathering" (8.260), κατʼ ἀγῶνα "about the gathering" (8.380), the ring of spectators (Merry on 8.260), as the Iliad's games (*Iliad* 23.258) |
+| χορός, ὀρχηστύς, ὀρχηθμός, βητάρμονες | dancing floor, dancing, dancers | λείηναν δὲ χορόν "they leveled a dancing floor" (8.260), χορὸν θεῖον "the divine dancing floor" (8.264); χοροί "the dances" (8.248); ὀρχηστυῖ "in dancing" (8.253), as 1.152; ὀρχηθμοῖο "skilled in dancing" (8.263), as *Iliad* 13.637; βητάρμονες "dancers" (8.250, 8.383; only here in Homer); παίσατε "make your sport" (8.251) |
+| αἰσυμνῆται, δήμιοι | stewards, officers of the people | (8.258–259: Merry on 8.258, "regulators of games", public officers, not the king's servants) |
+| φόρμιγξ λίγεια, φόρμιγξ γλαφυρή, κίθαρις | the clear-toned lyre, the hollow lyre, the lyre | φόρμιγγα λίγειαν (8.67, 8.105, 8.254, 8.261; σχεθέτω φόρμιγγα λίγειαν 8.537), as *Iliad* 9.186; φόρμιγγα γλαφυρήν (8.257); κίθαρις (8.248) |
+| οἴμη, ὕμνος | lay, strains | οἴμης τῆς τότʼ ἄρα κλέος οὐρανὸν εὐρὺν ἵκανε "from a lay whose fame had at that time reached the wide sky" (8.74: Merry on 8.74, "strain", "way" of song); οἴμας "their lays" (8.481); ἀοιδῆς ὕμνον "the strains of the song" (8.429; ὕμνος only here in Homer: Merry on 8.429) |
+| θέσπις | wondrous | θέσπιν ἀοιδήν "wondrous song" (8.498), as 1.328 and θεσπεσίη ἀοιδή (*Iliad* 2.600); "divine" is θεῖος (θεῖος ἀοιδός 8.43, 8.539) |
+| ξεινήιον | guest-gift | ἀλλʼ ἄγε οἱ δῶμεν ξεινήιον, ὡς ἐπιεικές "But come, let us give him a guest-gift, as is fitting" (8.389; again 9.267, 9.370), as the Iliad's ξεινήϊα "guest-gifts" |
+| ἀμύμων (of men at a skill) | flawless | οὐ γὰρ πυγμάχοι εἰμὲν ἀμύμονες "For we are not flawless boxers" (8.246), as ἀμύμονος ὀρχηθμοῖο "flawless dancing" (*Iliad* 13.637); of persons it stays "noble" (8.117, 8.118, 8.123, 8.419, 8.428) |
+| Ἠέλιος (the god) | the Sun | ἄγγελος ἦλθεν / Ἥλιος "a messenger came to him, / the Sun" (8.270–271; Ἥλιος only here in Homer: see the note), Ἠέλιος γάρ οἱ σκοπιὴν ἔχεν "for the Sun had kept watch for him" (8.302), as *Iliad* 3.277 and Od. 1.8 |
+| δόλος (a contrivance) | snare | Hephaestus' net (8.276, 8.282, 8.317) and the wooden horse, ὅν ποτʼ ἐς ἀκρόπολιν δόλον ἤγαγε "which once … brought up into the citadel as a snare" (8.494: Merry on 8.276; see the note on 8.494) |
+| τεχνήεις | skillfully made | δεσμοὶ / τεχνήεντες "the bonds … skillfully made" (8.296–297), kept apart from δολόεις "cunning" (8.281) |
+| ἑάων | blessings | δωτῆρες ἑάων "the givers of blessings" (8.325), δῶτορ ἑάων "giver of blessings" (8.335: Merry on 8.325), as *Iliad* 24.528 |
+| κομιδή | keep | ἐπεὶ οὐ κομιδὴ κατὰ νῆα / ἦεν ἐπηετανός "since on board the ship my keep was not / unfailing" (8.232–233), κομιδή γε θεῷ ὣς ἔμπεδος "his keep had been steady, as for a god" (8.453), as *Iliad* 8.186, 23.411 (Merry on 8.232) |
+| ἐπιεικτός | unyielding; hard to bear | ἔργα γελαστὰ καὶ οὐκ ἐπιεικτά "deeds that are laughable, and hard to bear" (8.307: see the note), beside the Iliad's "unyielding" of might (5.892, 8.32, 16.549) |
+| ἐχέθυμος | self-control | ἀτὰρ οὐκ ἐχέθυμος "but she has no self-control" (8.320: see the note) |
+| μοιχάγρια | the adulterer's fine | τὸ καὶ μοιχάγριʼ ὀφέλλει "and so he owes the adulterer's fine" (8.332; only here in Homer) |
+| ἐγγύη, ἐγγυάομαι | pledge, accept | δειλαί τοι δειλῶν γε καὶ ἐγγύαι ἐγγυάασθαι "pledges for the worthless are worthless things even to accept" (8.351: see the note) |
+| ζῳάγρια | the price for one's life | ὅτι μοι πρώτῃ ζωάγριʼ ὀφέλλεις "since to me first you owe the price for your life" (8.462), as *Iliad* 18.407 (see the note on 8.461–462) |
+| δεσμός (of a chest) | knot | θοῶς δʼ ἐπὶ δεσμὸν ἴηλον "and quickly tie a knot on it" (8.443, 8.447: Merry on 8.443), beside the bonds of Hephaestus (8.274–360) |
+| ποικίλος (of a knot) | complicated | ποικίλον "a complicated one" (8.448: Merry on 8.448), kept apart from δαιδάλεος "intricate" |
+| εἴρερος | slavery | εἴρερον εἰσανάγουσι "lead her away into slavery" (8.529; only here in Homer: see the note) |
+| κυβερνητῆρες, πηδάλια | helmsmen, steering oars | (8.557–558), as πηδάλιον "steering oar" (3.281, 5.255) |
+| πηός, πενθερός | kinsman by marriage, father-in-law | (8.581–582: Merry on 8.581–582), beside γαμβρός "son-in-law" (7.313) |
+| κεχαρισμένα εἰδώς | of kindly heart | (8.584: Merry on 8.584, "with fond heart"), beside πεπνυμένα εἰδῇ "has wise understanding" (8.586) |
+| ἀριπρεπής | outstanding; distinguished; splendid | "outstanding" of looks (8.176), "distinguished" of kings (8.390), "splendid" of a chest (8.424); the Iliad has "conspicuous" of things seen (15.309, 23.453) |
+| γελαστός, ἀγριόφωνος, κλυτοεργός | laughable, of savage speech, famed for his work | ἔργα γελαστά (8.307: see the note); Σίντιας ἀγριοφώνους "the Sintians of savage speech" (8.294; only here in Homer: see the note); Ἥφαιστον κλυτοεργόν (8.345; only here in Homer), beside κλυτοτέχνης "famed for his craft" (8.286), as *Iliad* 1.571 |
+| θηλύτεραι (of goddesses) | being female | θηλύτεραι δὲ θεαὶ μένον αἰδοῖ οἴκοι ἑκάστη "But the goddesses, being female, stayed each at home for shame" (8.324), where the Iliad's θηλύτεραι γυναῖκες are "the womenfolk" (8.520) |
 
 ## Epithets and formulas of the Odyssey
 
@@ -449,7 +479,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ἀρχοὶ μνηστήρων, ἀρετῇ δʼ ἔσαν ἔξοχʼ ἄριστοι | leaders of the suitors, and in excellence they were by far the best (4.629; again 21.187) |
 | τοῖσιν δʼ Ἀντίνοος μετέφη Εὐπείθεος υἱός | And Antinous, son of Eupeithes, spoke among them (4.660; again 16.363, 18.42, 20.270, 21.140) |
 | ἐν πορθμῷ (μεσσηγὺς) Ἰθάκης τε Σάμοιό τε παιπαλοέσσης | in the strait between Ithaca and rocky Samos (4.671; again 15.29); between Ithaca and rocky Samos (4.845) |
-| ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον | So he spoke, and they all approved and bade him do it (4.673; again 7.226, 8.398, 13.47) |
+| ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον | So he spoke, and they all approved and bade him do it (4.673; again 7.226, 13.47); "bade it be done" where the speakers are themselves to act (8.398: Merry on 8.398) |
 | Μέδων πεπνυμένα εἰδώς | Medon, who had wise understanding (4.696, 4.711; again 22.361, 24.442) |
 | ὣς φάτο, τῆς δʼ αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ | So he spoke, and her knees and dear heart were loosened where she was (4.703; again 23.205), as *Iliad* 21.114 |
 | ὣς ἄρα τις εἴπεσκε | So a man would say (4.772; the verse again 13.170, 23.152), as *Iliad* 4.85, 17.423, 22.375 |
@@ -528,12 +558,42 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε | Then Alcinous answered him in turn and said (7.298, 7.308; again 11.347, 11.362, 13.3), as *Iliad* 20.199 |
 | ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι / συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι | pears and pomegranates and apple trees with splendid fruit, / and sweet figs and flourishing olives (7.115–116 = 11.589–590) |
 | ὣς εἰπὼν κατʼ ἄρʼ ἕζετʼ | He spoke thus and sat down (7.153), as *Iliad* 1.68 and 2.224 |
+| δεῦτʼ ἄγε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες | Come now, leaders and rulers of the Phaeacians (8.11), beside κέκλυτε … "Hear me, leaders and rulers of the Phaeacians" (7.186) |
+| Φαιήκεσσι φιληρέτμοισι μετηύδα | spoke among the Phaeacians, lovers of the oar (8.96, 8.386, 8.535; again 13.36), after 5.386 |
+| θεῖος ἀοιδός / ἐρίηρος ἀοιδός / ἀοιδὸς … περικλυτός | the divine singer (8.43, 8.47, 8.87, 8.539), as 1.336 / the trusty singer (8.62, 8.471), as 1.346 / the renowned singer (8.83, 8.367, 8.521), as 1.325 |
+| ταῦτʼ ἄρʼ ἀοιδὸς ἄειδε περικλυτός· αὐτὰρ Ὀδυσσεύς | This the renowned singer sang; but Odysseus (8.83 = 8.367 = 8.521) |
+| κῆρυξ δʼ ἐγγύθεν ἦλθεν ἄγων ἐρίηρον ἀοιδόν | And the herald came near, leading the trusty singer (8.62 = 8.471); φέρων φόρμιγγα λίγειαν "bringing the clear-toned lyre" (8.261) |
+| μέσσῳ δαιτυμόνων, πρὸς κίονα μακρὸν ἐρείσας | in the midst of the banqueters, leaning it (him) against a tall pillar (8.66, 8.473) |
+| κὰδ δʼ ἐκ πασσαλόφι κρέμασεν φόρμιγγα λίγειαν | and he hung the clear-toned lyre from its peg (8.67 = 8.105), as πασσαλόφι "from its peg" (*Iliad* 24.268) |
+| ἔνθʼ ἄλλους μὲν πάντας ἐλάνθανε δάκρυα λείβων, / Ἀλκίνοος δέ μιν οἶος ἐπεφράσατʼ ἠδʼ ἐνόησεν, / ἥμενος ἄγχʼ αὐτοῦ, βαρὺ δὲ στενάχοντος ἄκουσεν | Then he escaped the notice of all the others as he let tears fall, / but Alcinous alone noticed him and observed him, / sitting near him, and heard him groaning heavily (8.93–95 = 8.532–534), δάκρυα λείβων "letting tears fall" as *Iliad* 13.88 |
+| ὥς χʼ ὁ ξεῖνος ἐνίσπῃ οἷσι φίλοισιν / οἴκαδε νοστήσας, ὅσσον περιγιγνόμεθʼ ἄλλων | so that the stranger may tell his friends, / when he has returned home, how far we surpass others (8.101–102 = 8.251–252) |
+| Φαίηκες δολιχήρετμοι, ναυσίκλυτοι ἄνδρες | the Phaeacians of the long oars, men famed for ships (8.191 = 8.369; again 13.166) |
+| ἀγαθὸς πάϊς Ἀλκινόοιο | the good son of Alcinous (8.130, 8.143) |
+| τὸν δʼ αὖτʼ Εὐρύαλος ἀπαμείβετο φώνησέν τε | Then Euryalus answered him in turn and said (8.140, 8.400), as 7.298; νείκεσέ τʼ ἄντην "and rebuked him to his face" (8.158) |
+| βῆ (βάν) δʼ ἴμεν (ἰέναι) + destination | went to (8.56, 8.109, 8.273, 8.277, 8.287), as 2.10 and 6.15 |
+| Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν | Powerful Alcinous, preeminent among all the people (8.382, 8.401; again 9.2, 11.355, 11.378, 13.38) |
+| δῶρα δʼ ἄρʼ οἰσέμεναι πρόεσαν κήρυκα ἕκαστος | and each sent forth a herald to bring the gifts (8.399; again 18.291) |
+| φᾶρος ἐυπλυνὲς ἠδὲ χιτῶνα | a freshly washed mantle and a tunic (8.392, 8.425) |
+| οὕτω νῦν Ζεὺς θείη, ἐρίγδουπος πόσις Ἥρης, / οἴκαδέ τʼ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι· / τῷ κέν τοι καὶ κεῖθι θεῷ ὣς εὐχετοῴμην | so may Zeus now grant it, the loud-thundering husband of Hera, / that I may come home and see the day of my homecoming; / then even there I would pray to you as to a god (8.465–467; again 15.180–181), ἐρίγδουπος πόσις Ἥρης as *Iliad* 7.411 |
+| Δημόδοκον λαοῖσι τετιμένον | Demodocus, honored by the people (8.472; again 13.28) |
+| ἐλεεινὸν ὑπʼ ὀφρύσι δάκρυον εἶβεν | let a pitiful tear fall from beneath his brows (8.531; again 16.219), after 4.153 |
+| πομποὶ ἀπήμονές εἰμεν ἁπάντων | we are escorts of all men and come to no harm (8.566; again 13.174) |
+| φῆ ποτὲ Φαιήκων ἀνδρῶν ἐυεργέα νῆα / ἐκ πομπῆς ἀνιοῦσαν ἐν ἠεροειδέι πόντῳ / ῥαισέμεναι, μέγα δʼ ἧμιν ὄρος πόλει ἀμφικαλύψειν | He said that one day a well-made ship of the Phaeacian men, / as it came back from an escort on the misty sea, / he would shatter, and would cover our city round about with a great mountain (8.567–569; again 13.175–177; 8.568 also 13.150); ἐυεργέα νῆα "a well-made ship" (again 9.279 and often), as *Iliad* 24.396 |
+| περικλυτὸς ἀμφιγυήεις | the renowned god, lame in both legs (8.300, 8.349, 8.357), as *Iliad* 1.607 |
+| Ἥφαιστος κλυτοτέχνης / Ἡφαίστοιο ἄνακτος / πολύφρονος Ἡφαίστοιο | Hephaestus, famed for his craft (8.286), as *Iliad* 1.571 / lord Hephaestus (8.270) / Hephaestus of much wisdom (8.297, 8.327), as *Iliad* 21.367 |
+| χρυσήνιος Ἄρης / εὐστεφάνου Κυθερείης / φιλομμειδὴς Ἀφροδίτη | Ares of the golden reins (8.285) / well-crowned Cytherea (8.288; again 18.193) / laughter-loving Aphrodite (8.362), as *Iliad* 5.375 |
+| ἄναξ ἑκάεργος Ἀπόλλων / ἄναξ ἑκατηβόλʼ Ἄπολλον | far-working lord Apollo (8.323), as *Iliad* 15.253 / lord Apollo who shoots from afar (8.339), as *Iliad* 1.370 |
+| διάκτορος ἀργεϊφόντης / Ἑρμεία, Διὸς υἱέ, διάκτορε | the guide, the slayer of Argus (8.338), as *Iliad* 21.497 / Hermes, son of Zeus, guide (8.335) |
+| ἔνθα δέ οἱ τέμενος βωμός τε θυήεις | where she has a precinct and a fragrant altar (8.363), as *Iliad* 8.48 |
+| πότνια Κίρκη | lady Circe (8.448; again 10.394, 10.549, 12.36) |
+| θεῶν ἄπο κάλλος ἔχουσα | who had her beauty from the gods (8.457) |
+| εἴσατʼ ἴμεν | made as if to go (8.283: Merry on 8.283) |
 
 ## Places where the Greek is disputed
 
 Merry is cited from W. W. Merry, J. Riddell and D. B. Monro, *Commentary on the Odyssey* (1886), as
 digitized by Perseus (1.1–2.66 and Book 3) and as scanned from the Clarendon Press volume at the
-Internet Archive (2.67–434, Books 4–7, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
+Internet Archive (2.67–434, Books 4–8, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
 is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 
 - **1.1** — πολύτροπον "of many turns": Merry (on 1.1) glosses "of many devices" (*versutus*), a word found again only at 10.330, with many equivalents (πολύμητις, πολύφρων, πολυμήχανος, ποικιλόμητις); Nitzsch took it as πολύπλαγκτος, with ὃς μάλα πολλὰ πλάγχθη as its explanation. The English keeps both the turns of the mind and the wanderings. Livius Andronicus rendered the line "Virum mihi, Camena, insece versutum" (Merry on 1.1).
@@ -963,3 +1023,95 @@ is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 - **7.326** — ἀπήνυσαν: a gloss gives ἀπήγαγον (Merry's critical note).
 - **7.330** — a scholium preserves two other endings, εἶπε πρὸς ὃν μεγαλήτορα θυμόν and ἰδὼν εἰς οὐρανὸν εὐρύν (Merry's critical note).
 - **7.347** — πόρσυνε; Aristarchus' copies had πόρσαινε (the scholia, in Merry's critical note).
+- **8.15** — Bekker, after Bentley, reads θυμόν τε ἑκάστου, for the initial digamma of ἕκαστος (Merry's critical note). Ameis notes that the formula, ten times in the Iliad, is found only here in the Odyssey (Merry on 8.15).
+- **8.16** — βροτῶν: the translation takes it with ἔμπληντο, "were filled with mortals"; Merry would rather join it with ἀγοραί τε καὶ ἕδραι, "the places of assembly and the seats of men" (Merry on 8.16).
+- **8.22–23** — ἐκτελέσειεν ἀέθλους / πολλούς: Odysseus in fact takes part only in the discus. Zenodotus athetized 8.23, "for he did not accomplish many contests in Phaeacia, but only threw the discus" (the scholia, in Merry's critical note), and Merry reports Crates' attempt, from Nitzsch, to take the "contests" as the full tale of his past sufferings, which he rejects (Merry on 8.22).
+- **8.29** — "whether from the men of the east or from the men of the west": the two clauses expand ὅς τις, "whoever he may be" (Merry on 8.29).
+- **8.30** — ἔμπεδον εἶναι, "that it be made sure": of a boon, "certain" before it is given and after (Merry on 8.30).
+- **8.31, 8.36** — πάρος in its idiomatic use for custom, "as has been our custom", "as always" (Merry on 8.31).
+- **8.35–36** — κούρω δὲ δύω καὶ πεντήκοντα / κρινάσθων: the translation takes the imperative as passive in sense, "let two and fifty young men be chosen", as the scholia do; Merry takes it as a true middle with an indefinite subject, "let people choose", and κούρω as its object (Merry on 8.36). The dual with fifty-two is an "irrational" use, as βήτην at 8.49 (Merry on 8.35, 8.49); a few manuscripts, mistaking the voice of κρινάσθων, wrote κοῦροι (Merry's critical note).
+- **8.38** — ἔκβητε, "step out again": the young men leave the ship at its moorings (Merry on 8.38).
+- **8.58** — the verse is missing in the Harleian and some other manuscripts, perhaps as superfluous after 8.17 (Bothe, quoted in Merry's critical note); neither the scholia nor Eustathius notice it.
+- **8.67, 8.105** — Aristophanes read δῆσε for κρέμασεν (Merry's critical notes).
+- **8.68** — ἐπέφραδε χερσὶν ἑλέσθαι: the herald shows the blind singer where the lyre hangs, guiding his hand to it (Merry on 8.68).
+- **8.73** — a variant ἐνῆκεν for ἀνῆκεν (the scholia, in Merry's critical note).
+- **8.74–82** — οἴμης, the "strain", literally the "way" of song (Merry on 8.74). The quarrel of Odysseus and Achilles is told nowhere else in Homer. The scholia say that Apollo at Delphi told Agamemnon that Ilium would fall when the best of the Greeks quarreled, and set the quarrel after Hector's death, Achilles praising courage and Odysseus wit; Nitzsch placed it at Tenedos before the Iliad (Merry on 8.75), where the *Rhetoric* puts Achilles' anger at not being invited to dinner (1401b16–19). Merry takes the oracle as given before the war (Merry on 8.81). Some editions lacked 8.81–82, and they were athetized (the scholia); Merry finds the notice incomplete (Merry's critical note).
+- **8.78** — ὅ τʼ "that", which this text prints with La Roche, or ὅτʼ "when", which Merry prints (Merry's critical note).
+- **8.80** — λάινον οὐδόν, the stone threshold of the temple at Pytho, as *Iliad* 9.404 (Merry on 8.80).
+- **8.85** — κὰκ κεφαλῆς εἴρυσσε: the φᾶρος, a square cloth worn over the left shoulder, has a long corner that Odysseus throws over his head from behind (Merry on 8.85).
+- **8.87–92** — the iterative optatives: at every pause Odysseus wipes his tears and pours a libation, and at every new beginning he covers his head again (Merry on 8.87).
+- **8.99** — some wrote ἑταίρῃ for θαλείῃ, probably a gloss on συνήορος from 17.271 (Merry's critical note).
+- **8.103, 8.126** — παλαιμοσύνῃ, παλαιμοσύνης: Aristarchus' spelling, without the σ that the Iliad's text prints (*Iliad* 23.701) (Eustathius, in Merry's critical note on 8.103).
+- **8.108** — ἀέθλια, "the games", the tests of prowess (Merry on 8.108).
+- **8.111–119** — the Phaeacian names are taken from the sea and seafaring, except Alcinous, Arete, Laodamas, Polybus and Rhexenor; Ναυβολίδης may come from βολίς, a sounding-lead (Merry on 8.111).
+- **8.113** — Πρωρεύς: the text lacks the iota subscript that it writes elsewhere in πρῳρ- (κυανοπρῴροιο 9.482 and often), and Merry prints Πρῳρεύς: a slip, left in the text.
+- **8.116** — the common reading Ναυβολίδης θʼ would make "the son of Naubolus" another competitor; La Roche, after Bekker, and Nauck omit θʼ, as this text does (Merry's critical note).
+- **8.121–125** — ἀπὸ νύσσης, "from the starting line"; τέτατο δρόμος, "the running was strained to the full" (Merry on 8.121); the mules' furrow-length (8.124), as *Iliad* 10.351–352 (Merry on 8.124); ὑπεκπροθέων, "slipping forward in advance" (Merry on 8.125).
+- **8.139** — συγχεῦαι, "to unstring", "weaken", a word generally used of the mind, here of the body (Merry on 8.139).
+- **8.142** — neither Aristarchus nor Zenodotus nor Aristophanes knew the verse (the scholia, in Merry's critical notes on 8.68 and 8.142, with Lehrs' comment that it was absent from the better manuscripts).
+- **8.144** — βῆ for στῆ (the scholia, in Merry's critical note).
+- **8.148** — ἤ ὅ τι: the text keeps the acute before a word that is not an enclitic, where it prints the grave elsewhere (ἢ ὅ γε, 2.327 and often): a slip, left in the text.
+- **8.158** — φώνησέν τε for νείκεσέ τʼ ἄντην (the scholia, in Merry's critical note).
+- **8.161–164** — Merry's version: "But to such an one as plies with a many-benched ship, captain of a crew that are traders, and is either in charge of a freight or vigilant over a home-cargo of greedily gotten gains" (Merry on 8.161), the τε … καί being disjunctive (Merry on 8.162–164). Variants: θαμά for θʼ ἅμα (8.161); ἐπίστροφος (Aristophanes) for ἐπίσκοπος, εἶσι for ᾖσιν, ἑταίρων for ὁδαίων (8.163) (Merry's critical notes).
+- **8.169** — Bekker and Merry read γάρ for γάρ τʼ, the τε being added only to lengthen the syllable (Merry's critical note).
+- **8.170** — μορφὴν … ἔπεσι στέφει: μορφήν is a quasi-cognate accusative and ἔπεσι the remoter object, "puts a crown of grace upon his words", as the passive χάρις ἀμφιπεριστέφεται ἐπέεσσιν (8.175) shows (Merry on 8.170); the translation follows him, "a god crowns his words with beauty". Lehrs would write ἀμφὶ περιστέφεται at 8.175 (Merry's critical note).
+- **8.171–172** — αἰδοῖ μειλιχίῃ: the translation joins it to the speaker; Merry, after Hesiod's like portrait of a king (*Theogony* 81 ff.), joins it to the onlookers, who look on him "with submissive reverence" (Merry on 8.170–172).
+- **8.177** — ἀποφώλιος: the derivation is most uncertain (ἀπό and ὄφελος; a root "to blow"; ἀπάφεσθαι "to cheat"; Autenrieth's "grown out of shape") (Merry on 8.177).
+- **8.180–181** — ἔμμεναι is a past tense, as πεποίθεα: "I was among the first, when I trusted in my youth" (Merry on 8.181).
+- **8.186** — αὐτῷ φάρει, "with his mantle still on", the sociative dative (Merry on 8.186, after Monro).
+- **8.187** — πάχετον: a positive, a collateral form of παχύς (Merry), or a shortened comparative, παχύτερον (the scholia and the Etymologicum Magnum) (Merry on 8.187).
+- **8.192–193** — σήματα are the pegs that marked where each discus fell, the discus itself being taken up again; τέρματα, the place where Odysseus' fell (Merry on 8.192, 8.193). Variants βήματα for σήματα (the scholia) and πάντα for πάντων (Merry's critical note).
+- **8.198** — τόδε γʼ is Aristarchus' reading; others had τόν γʼ or τόνδʼ (Merry's critical note and on 8.198).
+- **8.214** — πάντα, "thoroughly": "thoroughly skilled am I" (Merry on 8.214); the translation takes it with the contests, "at all the contests there are".
+- **8.225** — ἐρίζεσκον only means "matched themselves"; of the two, Eurytus alone contended with the gods (Merry on 8.225).
+- **8.232–233** — κομιδή: "provision", or more generally "care", "comfort" (Merry on 8.232, who finds a real difficulty in the lines); Bekker omits the words between ἐπεὶ οὐ and ἐπηετανός (Merry's critical note).
+- **8.237–239** — ὡς ἂν … ὄνοιτο: the translation takes it of the manner of the rebuke, with Bothe and Eustathius; Merry makes it the consequence of ἐθέλεις, "in such manner that no one would think slightingly of thee" (Merry on 8.237).
+- **8.243** — δαινύῃ; Ameis' δαινύεαι, which Monro accepts (Merry on 8.243).
+- **8.251** — παίσατε, from παίζω, as 6.106 (Merry on 8.251); variants παίξατε, Zenodotus' παίσατον, and a scholium's πλήξατε (Merry's critical note).
+- **8.260** — χορός, the dancing floor; ἀγών, the ring of spectators, "as already in 200, 238" (Merry on 8.260).
+- **8.266–366** — the song of Ares and Aphrodite: ancient critics may have rejected it, but Aristarchus, Rhianus and Herodian commented on its readings (8.288, 8.299, 8.307, 8.352, 8.355), and the scholia note that Homer elsewhere marries Hephaestus to Charis (*Iliad* 18.382–383) (Merry on 8.267). 8.333–342 were missing in some copies "because of their impropriety", and athetized in some (the scholia, in Merry's critical note).
+- **8.269** — πολλὰ δʼ ἔδωκε: Ares' gifts to Aphrodite, to win her consent (Merry on 8.269).
+- **8.271** — Ἥλιος, contracted, only here in Homer, where the poem always says Ἠέλιος (the scholia); Nauck suggests Ἠέλιος, ὃ νόησε (Merry's critical note).
+- **8.284** — Merry prints ἔσκεν for ἐστίν; the manuscripts vary, and the scholia record ἔπλετο πασέων (Merry's critical note).
+- **8.285** — ἀλαοσκοπιήν, "a blind watch" (Merry on 8.285); La Roche gives ἀλαὸς σκοπιήν as Aristarchus' reading, and ἀλαὸν σκοπιήν seems to have been Zenodotus' (Merry's critical note).
+- **8.288** — a reading ἰχανόων (the Etymologicum Magnum); Ἀφροδίτης for Κυθερείης (Merry's critical notes).
+- **8.292** — γύναι for φίλη; Merry and La Roche read the dual εὐνηθέντε (Merry's critical note). τραπείομεν, from τέρπω, "take our pleasure" (Merry on 8.292).
+- **8.294** — Σίντιας ἀγριοφώνους: Porson referred the gloss ἀκριτόφωνος of Apollonius and Hesychius to this line (Merry's critical note); the Sintians were a Thracian people (Merry on 8.283, from Strabo).
+- **8.299** — ὅ τʼ "that" (this text) or ὅτʼ "when", which the emphasis of τότε δή favors (Merry on 8.299); Rhianus read πέλοιτο (Merry's critical note).
+- **8.300** — ἀμφιγυήεις: "lame of both feet", or "of the two strong arms" (Merry on 8.300).
+- **8.303** — the verse is omitted in most manuscripts, borrowed from 2.298 (Merry's critical note); the text lacks the comma after δῶμα that 2.298 has.
+- **8.307** — γελαστά is the reading of the manuscripts, of Aristarchus and of Herodian; Apollonius' lexicon, the Etymologicum Magnum and Eustathius have ἔργʼ ἀγέλαστα, "no laughing matter", which Nauck follows (Merry's critical note). Merry prefers "deeds of mockery", and takes οὐκ ἐπιεικτά as "unyielding", and so "hard, cruel" (Merry on 8.307); the translation's "laughable, and hard to bear" keeps both senses open.
+- **8.309** — ἀίδηλος, "annihilating", "making unseen" (Merry on 8.309): "destructive", as *Iliad* 5.880.
+- **8.318** — ἀποδῷσιν, the reading of this text, of La Roche and of Nauck; most manuscripts have ἀποδώσει (Merry's critical note and on 8.318).
+- **8.320** — οὐκ ἐχέθυμος: the translation follows the scholium's "restraining desire", "she has no self-control"; Merry, taking θυμός as "heart, affections", would render "heartless", and would prefer the scholium's sense "were it not for" the compound ἐχέφρων (Merry on 8.320).
+- **8.325** — ἑάων: the breathing and the gender are uncertain (Merry on 8.325 and his critical note).
+- **8.351** — δειλαί τοι δειλῶν γε καὶ ἐγγύαι ἐγγυάασθαι: "Even surety for a sorry fellow is a sorry thing to hold in hand" (Merry on 8.351), the middle being the taker's act (Eustathius); Nitzsch took δειλός as "weak".
+- **8.352–353** — δέοιμι, "put thee in chains" (Merry on 8.352); a scholium's gloss points to δήοιμι, and Aristarchus is reported with εὐθύνοιμι, which La Roche takes as his explanation, not his reading; the scholia give χρέως and χρείως, and Aristarchus δασμόν (Merry's critical notes).
+- **8.365** — ἐπενήνοθεν: "such as deck the everliving gods" (Merry on 8.365), or, with the oil as subject, "is shed over" them.
+- **8.377** — ἀνʼ ἰθύν: the ancients took ἀνιθύν as one word, an adverb (Eustathius, in Merry's critical note); Merry, "straight upwards" (Merry on 8.377).
+- **8.380** — ἑστεῶτες is Aristarchus' reading; a variant δοῦπος for κόμπος (Merry's critical note).
+- **8.396** — Düntzer and Nauck read αὐτός for αὐτόν (Merry on 8.396).
+- **8.405** — "it will be worth much to him": a thing of price, or a gift that makes amends for much (Merry on 8.405).
+- **8.425, 8.441** — αὐτή (Bekker) for αὐτῇ: "put in it yourself", besides the gifts of the others (Merry's critical note and on 8.425).
+- **8.429** — ὕμνος, only here in Homer (Merry on 8.429).
+- **8.444** — αὖτε: "again", or "by and by" (Merry on 8.444); δηλήσεται of the contents, "should spoil them for thee" (Merry).
+- **8.450** — the text prints ἄρ before a vowel, where Merry has ἄρʼ.
+- **8.461–462** — ἵνα is final: "may it be well with thee, stranger, in order that" (Merry on 8.461). ζῳάγρια: Merry, after Nitzsch, sets the sense he finds in the Iliad, "the price paid to a conqueror for sparing the life of a defeated foeman" (18.407), against this one, the debt of gratitude for a life saved, and finds that "the price of life" expresses both (Merry on 8.462); but at *Iliad* 18.405–407 the word is Hephaestus' debt to Thetis, who saved him when he fell, the same sense as Nausicaa's.
+- **8.463** — the text ends the speech formula with a full stop, where it has a raised dot elsewhere (8.412, 5.214, 7.240): a slip, left in the text.
+- **8.477–478** — προσπτύξομαι, still under ὄφρα: "that I may do homage to him, though sad at heart" (Merry on 8.477).
+- **8.489–490** — Bekker rejected 8.490 without manuscript authority; Düntzer suspected ἔρξαν and the repeated Ἀχαιοί (Merry on 8.490).
+- **8.492** — μετάβηθι, "change your theme": from the first lay, the quarrel (8.75), not the lay of Ares (Merry on 8.492).
+- **8.494** — δόλον; Aristarchus and Aristophanes read δόλῳ, "by a trick" (the scholia, in Merry's critical note).
+- **8.499** — ὁρμηθεὶς θεοῦ: "stirred by the god", or, in a scholium, "starting from the god", with a prelude (Merry on 8.499).
+- **8.505** — ἄκριτα: "endless", "undecided" or "indiscriminate", Merry preferring the last (Merry on 8.505).
+- **8.507** — διαπλῆξαι is Aristarchus' reading; διατμῆξαι perhaps Zenodotus' (Merry's critical note).
+- **8.509** — θελκτήριον, "to appease": "a propitiation of the gods" (Merry on 8.509), where the Iliad's θελκτήρια are "enchantments" (14.215).
+- **8.529** — εἴρερον, "slavery", only here in Homer (Merry on 8.529, who finds the passage not free from suspicion).
+- **8.541** — μάλα; the scholia record μέγα (Merry's critical note).
+- **8.546** — ἀντί, "as good as", as *Iliad* 21.75 (Merry on 8.546).
+- **8.552** — πάμπαν goes with οὔ τις, "no one at all" (Merry on 8.552).
+- **8.555** — the text prints a raised dot after γαῖάν τε, which breaks the series τε … τε … τε; Merry prints no stop: a slip, left in the text.
+- **8.556–563** — the ships that know men's minds: Merry reports Welcker's view of the Phaeacians as ferrymen of the dead, which he thinks little suited to them (Merry on 8.556).
+- **8.569** — ῥαισέμεναι; variants ῥαίσεσθαι and ῥαίσασθαι (Merry's critical note). The mountain is a wall round the city, cutting it off from the sea, not a mountain thrown upon it (Merry on 8.569).
+- **8.583** — αὐτῶν; a variant ἀνδρῶν, probably a gloss (Merry's critical note).
+- **8.586** — πεπνυμένα; a variant κεχαρισμένα (Merry's critical note).

@@ -8,7 +8,8 @@ aliases: [rising for a superior, standing up for Zeus]
 grc: [ἀνέσταν, σφοῦ πατρὸς ἐναντίον, ἀντίοι ἔσταν]
 # ἀνέσταν is also the nine volunteers standing up to fight Hector (7.161).
 # ἀνέσταν at 23.886 is the javelin throwers standing up for the contest.
-except: [7.161, 23.886]
+# ἀνέσταν at Od. 8.258 is the nine stewards of the games standing up.
+except: [7.161, 23.886, Od. 8.258]
 en: [rose, to meet their father, stood up to face him]
 ---
 

@@ -3,7 +3,7 @@ title: Unquenchable laughter
 greek: ἄσβεστος γέλως
 kind: epithet
 tags: [divine-epithet, feast]
-summary: The laughter of the gods at Hephaestus (1.599), the source of the phrase “Homeric laughter.”
+summary: The laughter of the gods at Hephaestus, in the Iliad at the lame god pouring the nectar (1.599) and in the Odyssey at the lovers caught in his bonds (*Odyssey* 8.326): the source of the phrase “Homeric laughter.”
 aliases: [Homeric laughter, asbestos gelos]
 # The laughter verse only (1.599 = Od. 8.326); the battle cry ἄσβεστος βοή is unquenchable-cry.
 grc: ["ἄσβεστος δʼ ἄρʼ ἐνῶρτο γέλως"]

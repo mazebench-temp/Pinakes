@@ -1,0 +1,5 @@
+---
+summary: Laodamas bids the stranger “scatter the sorrows from your heart” in the contests (8.149); he answers, “Sorrows are on my mind far more than contests” (8.154), and to Euryalus, “now I am held fast by misery and sorrows; for I have endured much” (8.182).
+---
+
+The sorrows are κήδεα and ἄλγεα. Laodamas offers the games as a remedy: “But come, make trial, and scatter the sorrows from your heart” (σκέδασον δʼ ἀπὸ κήδεα θυμοῦ, 8.149; see [[no-greater-fame]]). The stranger turns the offer down with the same word: “Sorrows are on my mind far more than contests” (κήδεά μοι καὶ μᾶλλον, 8.154), where καί is only the emphatic addition to an adverb of degree (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.154). To Euryalus he names his state: “now I am held fast by misery and sorrows (κακότητι καὶ ἄλγεσι); for I have endured much, / passing through the wars of men and the grievous waves” (8.182–183; Merry on 8.182, 8.183; see [[nothing-worse-than-the-sea]]). Then, “though I have suffered many evils”, he takes up the discus (8.184–189).

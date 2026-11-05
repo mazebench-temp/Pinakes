@@ -1,0 +1,5 @@
+---
+summary: Poseidon promises that Ares “will pay all that is due among the immortal gods” (αἴσιμα πάντα, 8.348); and in the song of the horse “it was fated that the city should perish once it had enfolded / the great wooden horse” (αἶσα γὰρ ἦν ἀπολέσθαι, 8.511–512).
+---
+
+αἶσα is a man's share, and what is αἴσιμον is due by that share. Poseidon's promise on Ares' behalf is to pay “all that is due”, the fine of the adulterer, “all just requital in public presence of all the gods” (8.347–348; W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.347; see [[pledges-for-the-worthless]] and [[evil-deeds-do-not-prosper]]). In the third song αἶσα is the doom of Troy: the Trojans debate whether to split the horse, throw it from the rocks, or let it stand as an offering to the gods, and the third prevails, “for it was fated that the city should perish” once it took the horse in (8.505–513; see [[sinon-and-the-wooden-horse]] and [[ker-doom]]). The mood of ἀμφικαλύψῃ keeps as nearly as possible the wording of the oracle (Merry on 8.511).

@@ -1,0 +1,5 @@
+---
+summary: The stranger answers Nausicaa's farewell with a prayer and a vow: “so may Zeus now grant it, the loud-thundering husband of Hera, / that I may come home and see the day of my homecoming; / then even there I would pray to you as to a god” (8.465–467).
+---
+
+The answer has the form of a prayer: a wish put to Zeus, with the god's titles, οὕτω νῦν Ζεὺς θείη, ἐρίγδουπος πόσις Ἥρης, where οὕτω means “even as you wish”, referring to her wish, “so that someday, when you are in your native land, / you may remember me” (8.461–462; W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.465), and a promise of worship if it is granted (8.465–468; see [[euchomai]], [[husband-of-hera]] and [[zeus]]). The worship is promised to a girl. In the hall his prayers are libations: at every pause in the first song he pours one to the gods (8.89), and Alcinous gives him a golden goblet so that he may pour libations to Zeus and the other gods at home, remembering the giver (8.430–432; see [[libation]] and [[guest-gifts]]).

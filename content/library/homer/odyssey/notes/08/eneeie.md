@@ -1,0 +1,5 @@
+---
+summary: When Athena, in form like a man, has marked the stranger's throw and told him that none of the Phaeacians will reach it, he is glad, “rejoicing that he saw a gentle companion in the gathering” (ἑταῖρον ἐνηέα, 8.199–200). It is the word's only use in the Odyssey.
+---
+
+ἐνηής is always used of close friends, as Zeus calls Patroclus Achilles' companion “gentle and strong” (ἑταῖρον … ἐνηέα τε κρατερόν τε, *Iliad* 17.204); the derivation is uncertain, from a root “understand” or “listen”, or from one meaning “blow”, as if the word were the metaphor of a favorable wind (W. W. Merry, *Commentary on the Odyssey*, 1886, on 8.200). Among the Phaeacians, after Euryalus' taunt, the stranger finds one friend in the gathering, and the friend is the goddess in a man's form (8.193–200; see [[athena]] and [[hetairos]]). Her word lightens him: he speaks “more lightly” among the Phaeacians, κουφότερον, more gaily than before, when his face had worn an anxious look (8.201; Merry on 8.201), and challenges them all but his host (8.202–211; see [[strife-with-ones-host]]).

@@ -1,10 +1,10 @@
 ---
 title: Famed for his craft
-greek: κλυτοτέχνης
+greek: κλυτοτέχνης, κλυτοεργός
 kind: epithet
 tags: [divine-epithet, craftsman]
-summary: “Famed for his craft,” κλυτοτέχνης, the epithet of [[Hephaestus]] as the craftsman god.
-aliases: [renowned craftsman, klytotechnes]
+summary: “Famed for his craft,” κλυτοτέχνης, the epithet of [[Hephaestus]] as the craftsman god, with its twin κλυτοεργός, “famed for his work,” found once in the Odyssey.
+aliases: [renowned craftsman, klytotechnes, klytoergos, famed for his work]
 grc: [κλυτοτέχνης]
 en: [famed for his craft]
 of: [hephaestus]
@@ -12,7 +12,7 @@ of: [hephaestus]
 
 ## Meaning
 
-κλυτοτέχνης = κλυτός (“famous,” from κλύω, “hear”: “much heard of”) + τέχνη (“craft, skill”): “renowned for his skill.” It is one of a group of epithets that name Hephaestus' art; compare [[with-cunning-skill]] and [[lame-in-both-legs]] (περικλυτὸς ἀμφιγυήεις).
+κλυτοτέχνης = κλυτός (“famous,” from κλύω, “hear”: “much heard of”) + τέχνη (“craft, skill”): “renowned for his skill.” It is one of a group of epithets that name Hephaestus' art; compare [[with-cunning-skill]] and [[lame-in-both-legs]] (περικλυτὸς ἀμφιγυήεις). The Odyssey has a twin compound with ἔργον (“work”), κλυτοεργός, “famed for his work,” once in Homer, in Demodocus' song of Ares and Aphrodite, where κλυτοτέχνης is also used (*Odyssey* 8.286, 8.345).
 
 ## Use
 

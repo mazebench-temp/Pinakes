@@ -1,0 +1,5 @@
+---
+summary: The fifty-two young men chosen for the escort go down “to the shore of the barren sea” to launch the ship that is to carry Odysseus home (8.48–55).
+---
+
+“And the two and fifty young men who had been chosen / went, as he had bidden, to the shore of the barren sea” (8.48–49; see [[sea]], [[barren-sea]] and [[ships]]). The verse ends as the Iliad's verse of Agamemnon's two heralds going for Briseis, τὼ δʼ ἀέκοντε βάτην παρὰ θῖνʼ ἁλὸς ἀτρυγέτοιο, “Unwilling, the two went along the shore of the barren sea” (*Iliad* 1.327), and it begins with a dual verb, βήτην, though fifty-two men go: the use of the dual with the number, κούρω δὲ δύω καὶ πεντήκοντα (8.35), which W. W. Merry calls irrational, is here extended to the verb (*Commentary on the Odyssey*, 1886, on 8.49; see the translation's note on 8.35–36). At the shore they drag the ship into deep water, rig her and anchor her out in the water, and then go up to the house of Alcinous for the feast (8.50–56; see [[the-house-of-alcinous]]).

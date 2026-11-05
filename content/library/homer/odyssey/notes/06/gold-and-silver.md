@@ -1,9 +1,8 @@
 ---
 summary: Nausicaa's mother gives her olive oil in a golden flask (6.79, 6.215); in the simile of Athena's grace a skilled man whom Hephaestus and Athena have taught pours gold around silver (6.232–235).
 # χρυσέῃ (6.79, 6.215) and ἀργύρῳ (6.232), first met in the Odyssey here (the Iliad's are claimed in its book notes);
-# χρυσέῃ Ἀφροδίτῃ, "golden Aphrodite" (8.337, 8.342, 17.37, 19.54), will need the exclusion "!χρυσέῃ Ἀφροδίτῃ" with
-# Book 8.
-grc: [χρυσέῃ, ἀργύρῳ]
+# χρυσέῃ Ἀφροδίτῃ, "golden Aphrodite" (8.337, 8.342, 17.37, 19.54), is excluded: the epithet, not the metal.
+grc: [χρυσέῃ, ἀργύρῳ, "!χρυσέῃ Ἀφροδίτῃ"]
 ---
 
 **The golden flask.** “And she gave her liquid olive oil in a golden flask” (6.79), and the handmaids give the stranger the same oil in the same flask (6.215; see [[oil-flask]] and [[bathing]]). The vessels of the houses of kings are of gold (see the Book 4 note).

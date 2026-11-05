@@ -3,7 +3,7 @@ title: Mighty (eristhenes)
 greek: ἐρισθενής
 kind: epithet
 tags: [divine-epithet]
-summary: “Of great strength,” an epithet of Zeus, always in the genitive and always of Zeus as a father: of Hector's claim, in Poseidon's words, of Athena's father, and of the son of Cronus whose children a river's son cannot match.
+summary: “Of great strength,” an epithet of Zeus, always in the genitive and always of Zeus as a father: of Hector's claim, in Poseidon's words, of Athena's father, of the son of Cronus whose children a river's son cannot match, and in the Odyssey of Aphrodite's father.
 aliases: [eristhenes, of great strength, very strong]
 grc: [ἐρισθενέος]
 en: [mighty]

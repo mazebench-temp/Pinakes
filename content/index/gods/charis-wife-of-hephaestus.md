@@ -22,7 +22,7 @@ relations:
 
 {{quote:b616b71b-065c-5da4-a405-bb5e5310319e}}
 
-Wife of [[Hephaestus]]: ὤπυιε, “had married” (see [[marriage]]). The Iliad names no parents for her. In the song of Demodocus in the Odyssey the wife of Hephaestus is Aphrodite, whom he catches in bed with Ares (*Odyssey* 8.266–366; see [[aphrodite]]).
+Wife of [[Hephaestus]]: ὤπυιε, “had married” (see [[marriage]]). The Iliad names no parents for her. In the song of Demodocus in the Odyssey the wife of Hephaestus is Aphrodite, whom he catches in bed with Ares (*Odyssey* 8.266–366; see [[aphrodite]] and [[the-song-of-ares-and-aphrodite]]). The scholia on the song note the difference: Homer as a whole does not know of Hephaestus living with Aphrodite, but with Charis, and Demodocus tells it in his own story-making. W. W. Merry, who quotes them, grants that there were separate myths of the god's partner, and reports Nitzsch's view that the same idea lies beneath both, the union of a goddess of grace with the god who represents the highest development of art (*Commentary on the Odyssey*, 1886, on *Odyssey* 8.267).
 
 ## Descriptions
 

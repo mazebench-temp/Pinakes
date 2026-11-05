@@ -1,0 +1,7 @@
+---
+summary: Twenty speeches close with the formula, from Athena's summons, “So saying, she urged on the might and spirit of every man” (8.15), to the stranger's request for the song of the horse, “So he spoke, and he, stirred by the god, began, and showed forth his song” (8.499); among them the silence after his challenge, “So he spoke, and they all fell hushed in silence” (8.234), and the gods' laughter at Hermes' answer, “So he spoke, and laughter rose among the immortal gods” (8.343).
+grc: ["ὣς ἀγόρευʼ ὁ γέρων"]
+en: [So the old man used to say]
+---
+
+8.234 is the Iliad's verse for the silence that follows a hard challenge (*Iliad* 3.95, 10.218, 10.313, 23.676), and 8.398, “So he spoke, and they all approved and bade it be done,” is the verse of 4.673 and 7.226, where Merry takes ἐκέλευον of what the speakers themselves are to carry out, here the kings who will send for the gifts (Merry, *Commentary on the Odyssey*, 1886, on 8.398; see the Odyssey translation's formulas). The gods' talk in the song ends with the Iliad's “So they spoke such words to one another” (8.333 = 7.334; *Iliad* 13.81, 16.101). Alcinous closes his father's prophecy with “So the old man used to say” (8.570) and leaves its fulfillment to the god; when it comes true he will say the same words and add that all is now being fulfilled (13.178), as Odysseus ends his report of Calchas' prophecy, “So he spoke then; and now it is all being fulfilled” (*Iliad* 2.330; [[answering-him]], [[winged-words]], [[the-migration-of-the-phaeacians]]).

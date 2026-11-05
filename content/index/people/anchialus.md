@@ -7,7 +7,7 @@ summary: An Achaean who rides in one chariot with [[Menesthes]]; Hector kills th
 # Capitalized only: ἀγχίαλος "by the sea" is an epithet of towns (by-the-sea).
 grc: ["^Ἀγχίαλον"]
 # Ἀγχιάλοιο at Od. 1.180 and 1.418 is the father of Mentes the Taphian.
-except: [Od. 1.180, Od. 1.418]
+except: [Od. 1.180, Od. 1.418, Od. 8.112]
 refs: [5.608, 5.610]
 relations:
   - companion: menesthes (5.608-609)
@@ -20,4 +20,4 @@ passages:
 
 He dies with his companion in the chariot, and nothing more is told of either (see [[menesthes]]). His name is the adjective ἀγχίαλος, “near the sea” (ἄγχι “near” + ἅλς “sea”), which the Catalogue gives to coastal towns: “Chalcis by the sea” (2.640) and “Antron by the sea” (2.697; see [[by-the-sea]]). Here the text prints it as a name.
 
-Two men in the Odyssey have the name: the father of Mentes, the Taphian king in whose likeness Athena visits Telemachus (*Odyssey* 1.180–181; see [[anchialus-father-of-mentes]]), and a young Phaeacian at the games (*Odyssey* 8.112).
+Two men in the Odyssey have the name: the father of Mentes, the Taphian king in whose likeness Athena visits Telemachus (*Odyssey* 1.180–181; see [[anchialus-father-of-mentes]]), and a young Phaeacian at the games (*Odyssey* 8.112; see [[anchialus-the-phaeacian]]).

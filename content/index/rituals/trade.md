@@ -3,7 +3,7 @@ title: Trade
 greek: ὦνος
 kind: ritual
 tags: [exchange, seafaring]
-summary: Buying and selling for a price. The heroes mostly give and take gifts, prizes and ransom, but the army before Troy buys its wine from ships that come from Lemnos, paying with bronze, iron, hides, cattle and slaves, and captives taken in war are sold across the sea.
+summary: Buying and selling for a price. The heroes mostly give and take gifts, prizes and ransom, but the army before Troy buys its wine from ships that come from Lemnos, paying with bronze, iron, hides, cattle and slaves, and captives taken in war are sold across the sea. In the Odyssey the traders are mostly Phoenicians, and a young Phaeacian insults the stranger by likening him to a merchant captain mindful of his cargo and his gains.
 aliases: [buying, selling, commerce, market, merchants, traders, price]
 grc: [ἀνδραπόδεσσι]
 en: [bought their wine, slaves]

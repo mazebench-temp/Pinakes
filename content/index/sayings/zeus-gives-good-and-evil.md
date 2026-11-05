@@ -3,7 +3,7 @@ title: “Zeus gives good and evil”
 greek: θεὸς ἄλλοτε ἄλλῳ Ζεὺς ἀγαθόν τε κακόν τε διδοῖ· δύναται γὰρ ἅπαντα
 kind: saying
 tags: [divine-will, fate]
-summary: Zeus gives men good and evil as he wishes, and what he gives must be borne. Helen says it at Sparta, as she turns the company from tears to stories: “the god, now to one and now to another, / Zeus, gives good and evil; for he can do all things”; and Nausicaa says it to the shipwrecked stranger, that Zeus the Olympian deals out prosperity to good and bad, to each as he wishes, and he must endure what he has been given.
+summary: Zeus gives men good and evil as he wishes, and what he gives must be borne. Helen says it at Sparta, as she turns the company from tears to stories: “the god, now to one and now to another, / Zeus, gives good and evil; for he can do all things”; and Nausicaa says it to the shipwrecked stranger, that Zeus the Olympian deals out prosperity to good and bad, to each as he wishes, and he must endure what he has been given. The singer Demodocus has both from the Muse, his blindness and his song.
 aliases: [Zeus gives good and evil, now to one and now to another, for he can do all things, Zeus deals out prosperity, to each as he wishes]
 grc: ["ἀγαθόν τε κακόν τε διδοῖ"]
 en: [gives good and evil]

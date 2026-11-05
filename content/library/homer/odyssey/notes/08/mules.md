@@ -1,0 +1,7 @@
+---
+summary: Clytoneus wins the footrace by as much as “the furrow-length of a pair of mules in the fallow” (8.123–125).
+---
+
+**The measure.** “And of them noble Clytoneus was by far the best at running: / as far as the furrow-length of a pair of mules in the fallow, / so far did he run out ahead and reach the people, and the others were left behind” (8.123–125; see [[clytoneus]] and [[the-games-of-the-phaeacians]]). The measure is the Iliad's: Odysseus and Diomedes let Dolon run on until he is “as far off as the furrow-length / of mules (for they are better than oxen / at dragging the jointed plow through the deep fallow)” (*Iliad* 10.351–353; see [[jointed]] and [[dolon]]). From that passage, W. W. Merry reports, it has been inferred that the furrow-length is the distance by which mules are ahead of oxen at the end of a furrow, having begun abreast of them; but since the Iliad measures a lead by the range of a discus as well (*Iliad* 23.431–433), he would leave the oxen out and follow the scholium on *Iliad* 10.351, which takes the οὖρα as the bounds of the furrow that a team of mules cuts, or as much as a mule can plow in one stretch, a plethron (*Commentary on the Odyssey*, 1886, on 8.124; see the translation's note on 8.121–125). He compares the English “furlong”, a “furrow-long”, and such popular measures as the bowshot and the stone's throw (on 8.124).
+
+ἡμιόνοιιν, “of a pair of mules”, is the dual, found only in the Odyssey: Nausicaa's team in the two books before (6.82, 7.2; see the Book 6 note).

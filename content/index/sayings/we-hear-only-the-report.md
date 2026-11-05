@@ -3,7 +3,7 @@ title: “We hear only the report, and know nothing”
 greek: ἡμεῖς δὲ κλέος οἶον ἀκούομεν οὐδέ τι ἴδμεν
 kind: saying
 tags: [music]
-summary: The poet's confession before the Catalogue of Ships. The Muses are goddesses, present at everything and knowing all; mortals have only what they hear.
+summary: The poet's confession before the Catalogue of Ships. The Muses are goddesses, present at everything and knowing all; mortals have only what they hear. In the Odyssey Odysseus praises the singer Demodocus for singing the Achaeans' woe as if he had been present himself, or heard it from another.
 grc: ["κλέος οἶον ἀκούομεν"]
 en: [we hear only the report]
 passages:
@@ -16,7 +16,7 @@ Two lines set gods and mortals on either side of a divide in knowledge. The Muse
 
 κλέος is the word for what the singer passes on, and the word for fame (see [[kleos]]). Here it is set against knowledge: what has only been heard may be wrong. That is the reason for the invocation (see [[invocation-of-the-muses]] and [[muses]]). The Catalogue that follows, with its leaders, towns and numbers of ships, needs a witness, and only the Muses can supply one, “unless the Olympian Muses … were to remind me” (2.491–492; see [[ten-tongues]] and [[memory-and-the-muses]]).
 
-In the Odyssey, Odysseus praises the singer Demodocus for telling the sufferings of the Achaeans “as if you had been present yourself, or had heard it from another” (ὥς τέ που ἢ αὐτὸς παρεὼν ἢ ἄλλου ἀκούσας, Odyssey 8.491).
+In the Odyssey, Odysseus praises the singer Demodocus for telling the sufferings of the Achaeans “as if perhaps you had been present yourself, or heard it from another” (ὥς τέ που ἢ αὐτὸς παρεὼν ἢ ἄλλου ἀκούσας, *Odyssey* 8.491).
 
 ## Outside Homer
 

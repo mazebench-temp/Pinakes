@@ -5,7 +5,7 @@ kind: term
 tags: [seafaring, exchange]
 summary: πρῆξις, the Ionic form of πρᾶξις, is a doing and what comes of it: the business a voyage is made for, and the profit an act may bring. The verb πρήσσω is “accomplish”, and πρηκτῆρες are traders.
 aliases: [prēxis, prexis, prēssō, prēktēr, prēktēres, business, profit, traders]
-# Later books will add πρηκτῆρες, "traders" (Od. 8.162).
+# πρηκτῆρες, "traders" (Od. 8.162), and πρήσσεσκον (Od. 8.259) are in the Odyssey Book 8 note.
 grc: [πρῆξιν, πρῆξις, πρηκτῆρά]
 en: [business, profit]
 ---

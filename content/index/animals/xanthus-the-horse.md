@@ -26,7 +26,7 @@ He and Balius are the pair that Automedon yokes for Patroclus, “Xanthus and Ba
 
 ## Descriptions
 
-πόδας αἰόλος, “with flashing feet” (19.404), occurs only here in Homer. αἰόλος joins quick movement and glancing light; Walter Leaf compares the “flashing of feet” of the Phaeacian dancers, μαρμαρυγαὶ ποδῶν (*Odyssey* 8.265; *Commentary on the Iliad*, 1900, on 19.404; see [[flashing]] and the translation's note on 19.404).
+πόδας αἰόλος, “with flashing feet” (19.404), occurs only here in Homer. αἰόλος joins quick movement and glancing light; Walter Leaf compares the dancing of the Phaeacians, when Odysseus “gazed at the flashing of their feet”, μαρμαρυγὰς θηεῖτο ποδῶν (*Odyssey* 8.265; *Commentary on the Iliad*, 1900, on 19.404; see [[flashing]] and the translation's note on 19.404).
 
 αὐδήεντα δʼ ἔθηκε, “gave him speech” (19.407): Hera makes him αὐδήεις, endowed with a human voice (see [[with-human-voice]]). The Odyssey uses the word of Ino, who was “a mortal with human voice” before she became a goddess of the sea (βροτὸς αὐδήεσσα, *Odyssey* 5.334), and of Circe, “a dread goddess with human voice” (θεὸς αὐδήεσσα, *Odyssey* 10.136; see the translation's note on 19.407). It is a gift for one occasion: when he has spoken, the Erinyes check his voice (19.418; see [[erinyes]] and [[the-horses-voice]]).
 

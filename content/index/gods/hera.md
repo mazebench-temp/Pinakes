@@ -5,7 +5,9 @@ kind: god
 tags: [olympian, cronids, woman, mother]
 summary: Queen of the gods, wife of [[Zeus]] and mother of [[Hephaestus]], and the Achaeans' most determined friend among the gods.
 aliases: [Hērē, ox-eyed queen Hera, white-armed Hera]
-grc: [Ἥρη, Ἥρῃ]
+# Ἥρης, the genitive, is Hera wherever it occurs (Od. 8.465, and later 11.604, 15.112, 15.180); the Iliad's Book 5 note
+# claims it within the Iliad.
+grc: [Ἥρη, Ἥρῃ, Ἥρης]
 en: [Hera]
 refs: [1.56, 1.196, 1.209, 1.577, 1.585, 1.586, 1.596]
 relations:

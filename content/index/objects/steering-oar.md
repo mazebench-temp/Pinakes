@@ -5,10 +5,10 @@ kind: object
 tags: [ship, seafaring]
 summary: The πηδάλιον, the broad-bladed oar at the stern with which a helmsman steered a Homeric ship, holding it in his hands; οἰήιον names it too, or perhaps its handle. Phrontis dies holding it at Sunium, Odysseus makes one for his raft, and the ships of the Phaeacians alone need none.
 aliases: [steering oars, rudder, helm, pedalion, oiēion, oieion]
-# πηδάλιον (Od. 3.281, 5.255, 5.315), πηδαλίῳ (Od. 5.270); οἰήϊα (Il. 19.43; οἰήια, Od. 12.218, the same letters).
-# With their books: πηδάλιʼ (Od. 8.558) and οἰήιον (Od. 9.483, 9.540). Not a stem: οἰήκεσσιν, the rings of a yoke
-# (Il. 24.269), is another word. No matches in Aristotle.
-grc: [πηδάλιον, πηδαλίῳ, οἰήϊα]
+# πηδάλιον (Od. 3.281, 5.255, 5.315), πηδαλίῳ (Od. 5.270), πηδάλιʼ (Od. 8.558); οἰήϊα (Il. 19.43; οἰήια, Od. 12.218,
+# the same letters). With its book: οἰήιον (Od. 9.483, 9.540). Not a stem: οἰήκεσσιν, the rings of a yoke (Il. 24.269),
+# is another word. No matches in Aristotle.
+grc: [πηδάλιον, πηδαλίῳ, οἰήϊα, πηδάλιʼ]
 en: [steering oar, steering oars]
 ---
 
@@ -26,7 +26,7 @@ When Achilles calls the Achaeans to assembly, even those came who had always sta
 
 ## Elsewhere in the Odyssey
 
-At Sunium Apollo kills Menelaus' helmsman Phrontis “as he held the steering oar of the speeding ship in his hands”, the best of men at steering a ship whenever storms rushed on (*Odyssey* 3.279–283; see [[phrontis-son-of-onetor]]). When Odysseus taunts the Cyclops from his ship, the blind giant throws the peak of a mountain and then a greater stone, which fall in front of the ship and behind it, and of each throw the same verse says that it just missed the end of the steering oar (*Odyssey* 9.480–486, 9.537–542, plain renderings; see [[polyphemus-the-cyclops]]). Before Scylla Odysseus bids his helmsman, “since you work the steering oars of the hollow ship”, keep the ship away from the smoke and the surf (*Odyssey* 12.217–220, a plain rendering). The ships of the Phaeacians need neither: “the Phaeacians have no helmsmen, / nor any steering oars, such as other ships have”, for the ships themselves know the thoughts of men and all their cities (*Odyssey* 8.557–560, a plain rendering; see [[phaeacians]]).
+At Sunium Apollo kills Menelaus' helmsman Phrontis “as he held the steering oar of the speeding ship in his hands”, the best of men at steering a ship whenever storms rushed on (*Odyssey* 3.279–283; see [[phrontis-son-of-onetor]]). When Odysseus taunts the Cyclops from his ship, the blind giant throws the peak of a mountain and then a greater stone, which fall in front of the ship and behind it, and of each throw the same verse says that it just missed the end of the steering oar (*Odyssey* 9.480–486, 9.537–542, plain renderings; see [[polyphemus-the-cyclops]]). Before Scylla Odysseus bids his helmsman, “since you work the steering oars of the hollow ship”, keep the ship away from the smoke and the surf (*Odyssey* 12.217–220, a plain rendering). The ships of the Phaeacians need neither: “the Phaeacians have no helmsmen, / nor any steering oars, such as other ships have”, for the ships themselves know the minds of men (*Odyssey* 8.557–559; see [[phaeacians]]).
 
 ## Outside Homer
 

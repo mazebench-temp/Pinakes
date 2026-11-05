@@ -10,7 +10,7 @@ aliases: [Thoōn]
 grc: [Θόωνα]
 # Θόωνα at 12.140 is the Thoon who comes with Asius (thoon-companion-of-asius); at 13.545 the Thoon
 # Antilochus kills, perhaps the same man.
-except: [5.152, 12.140, 13.545]
+except: [5.152, 12.140, 13.545, Od. 8.113]
 relations:
   - slayer: odysseus (11.422)
 passages:
@@ -19,4 +19,4 @@ passages:
 
 {{quote:65e9f03e-4152-565a-a50a-3d96b481c2a0}}
 
-Thoon and Ennomus share a verse: αὐτὰρ ἔπειτα Θόωνα καὶ Ἔννομον ἐξενάριξε, “and then he slew and stripped Thoon and Ennomus” (11.422; see [[ennomus-the-trojan]], [[odysseus]] and [[stripping-the-dead]]). They are the second and third of the five men Odysseus strikes before Socus wounds him (11.420–438). The name recurs for other Trojans: the son of Phaenops (5.152), a man who goes with Asius against the Achaean wall (12.140), and the Thoon whom Antilochus kills (13.545), who may be the same man as the one before. Θόων seems to be formed from θοός, “swift”.
+Thoon and Ennomus share a verse: αὐτὰρ ἔπειτα Θόωνα καὶ Ἔννομον ἐξενάριξε, “and then he slew and stripped Thoon and Ennomus” (11.422; see [[ennomus-the-trojan]], [[odysseus]] and [[stripping-the-dead]]). They are the second and third of the five men Odysseus strikes before Socus wounds him (11.420–438). The name recurs for other Trojans: the son of Phaenops (5.152), a man who goes with Asius against the Achaean wall (12.140), and the Thoon whom Antilochus kills (13.545), who may be the same man as the one before. In the Odyssey a young Phaeacian of the name rises for the games (*Odyssey* 8.113; see [[thoon-the-phaeacian]]). Θόων seems to be formed from θοός, “swift”.

@@ -1,0 +1,5 @@
+---
+summary: Alcinous bids each of the twelve kings of the Phaeacians, and himself the thirteenth, give the stranger a freshly washed mantle, a tunic and “a talent of precious gold” (8.390–393), the only talent named in the singular in Homer.
+---
+
+“For twelve distinguished kings throughout the land / rule as leaders, and I myself am the thirteenth; / of these let each of you bring him a freshly washed mantle and a tunic / and a talent of precious gold” (8.390–393; see [[kings]], [[alcinous]], [[guest-gifts]], [[cloak]] and [[tunic]]). τάλαντον is found in the singular only here, W. W. Merry notes: it means some definite amount “weighed out”, and was probably not large, since two talents of gold are only the fourth prize of the chariot race at Patroclus' games (*Commentary on the Odyssey*, 1886, on 8.393; *Iliad* 23.269; see the entry). The gold goes into the chest with the clothing, “the clothing and the gold, which the Phaeacians had given him” (8.440; see [[chest]] and [[gold-and-silver]]).

@@ -18,7 +18,7 @@ In the *Phaedrus*, Socrates has just made a speech against love, and fears he ha
 > You did not go on the well-benched ships,
 > you did not come to the citadel of Troy.
 
-When he had finished the whole of the so-called palinode, "song sung again", he saw at once (243a–b). The remark about Homer is a joke. Tradition made him blind, and Socrates implies that he too had paid for his Helen, without knowing it.
+When he had finished the whole of the so-called palinode, "song sung again", he saw at once (243a–b). The remark about Homer is a joke. Tradition made him blind, and Socrates implies that he too had paid for his Helen, without knowing it. Proclus answered it with the Odyssey's blind singer: Homer lost his eyes, the mythmakers said, because he turned from visible beauty to the true, as Demodocus lost his and was given sweet song (*On the Republic* I 173–175 Kroll; see [[demodocus-and-the-blind-homer]]).
 
 The *Republic* shows what the palinode put in her place. The pleasures most men pursue, Socrates says, are phantoms of true pleasure, and men fight over them as the men at Troy, according to Stesichorus, fought over the phantom (εἴδωλον) of Helen, not knowing the truth (9.586c).
 

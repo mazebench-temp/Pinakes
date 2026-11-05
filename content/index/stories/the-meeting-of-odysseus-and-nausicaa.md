@@ -18,7 +18,6 @@ passages:
   - Od. 6.211-250 | The bath of Odysseus
   - Od. 6.251-315 | Nausicaa's instructions
   - Od. 6.316-331 | The grove of Athena
-  - Od. 8.457-468 | Nausicaa's farewell
 ---
 
 ## The story
@@ -45,7 +44,7 @@ passages:
 
 **The grove.** She drives at a pace the handmaids and Odysseus can keep on foot, and at sunset they come to the grove of Athena, where Odysseus sits down and prays to the goddess, who, he says, never listened to him while Poseidon was wrecking him, to grant that he come to the Phaeacians “as one welcomed and pitied” (*Odyssey* 6.316–327; see [[prayer]] and [[hear-me]]). Athena hears him, “But she did not yet appear to him face to face; for she respected / her father's brother; and he raged furiously / against godlike Odysseus, until he reached his own land” (*Odyssey* 6.328–331; see [[poseidon]] and [[seeing-the-gods]]).
 
-**The sequel.** The story is finished in the house of Alcinous. Nausicaa reaches home first, and Odysseus, as she told him, throws his arms around the knees of her mother, Arete; when the queen knows the clothes he wears, he tells her parents how the girl helped him, takes on himself the fault her father finds in her, and hears the king wish that such a man might have his daughter (*Odyssey* 7.1–13, 7.139–145, 7.233–316; see [[arete-queen-of-the-phaeacians]] and [[odysseus-at-the-house-of-alcinous]]). On the evening of the feast in the eighth book (the renderings of *Odyssey* 8 here are plain renderings, not the translation), as Odysseus comes from his bath to join the men at their wine, Nausicaa stands by the doorpost of the hall and takes leave of him: “Farewell, stranger, so that even in your native land you may remember me, since you owe the price of your life to me first”; and he answers that if Zeus grants him his homecoming, he will pray to her there as to a god all his days, “for you gave me my life, girl” (*Odyssey* 8.457–468).
+**The sequel.** The story is finished in the house of Alcinous. Nausicaa reaches home first, and Odysseus, as she told him, throws his arms around the knees of her mother, Arete; when the queen knows the clothes he wears, he tells her parents how the girl helped him, takes on himself the fault her father finds in her, and hears the king wish that such a man might have his daughter (*Odyssey* 7.1–13, 7.139–145, 7.233–316; see [[arete-queen-of-the-phaeacians]] and [[odysseus-at-the-house-of-alcinous]]). On the evening of the next day's feast, as Odysseus comes from his bath, Nausicaa stands by the doorpost of the hall and takes leave of him, and he promises to pray to her as to a god all his days (*Odyssey* 8.457–468; see [[nausicaa]]).
 
 ## In the poem
 

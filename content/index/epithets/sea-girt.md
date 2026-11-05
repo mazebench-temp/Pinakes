@@ -13,7 +13,7 @@ of: [ithaca]
 
 ## Meaning
 
-ἀμφίαλος = ἀμφί (“on both sides, around”) + ἅλς (“sea”): “with the sea on both sides,” “sea-girt.” The translation keeps “sea-girt” for this word and “sea-washed” for ἀμφίρυτος, the epithet of other islands ([[sea-washed]]). The same word is the name of a young Phaeacian, Amphialus, who wins the jumping at the games of Scheria (Ἀμφίαλος, *Odyssey* 8.114, 8.128).
+ἀμφίαλος = ἀμφί (“on both sides, around”) + ἅλς (“sea”): “with the sea on both sides,” “sea-girt.” The translation keeps “sea-girt” for this word and “sea-washed” for ἀμφίρυτος, the epithet of other islands ([[sea-washed]]). The same word is the name of a young Phaeacian, Amphialus, who wins the jumping at the games of Scheria (Ἀμφίαλος, *Odyssey* 8.114, 8.128; [[amphialus]]).
 
 ## Use
 

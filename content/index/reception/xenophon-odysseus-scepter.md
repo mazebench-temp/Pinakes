@@ -3,8 +3,8 @@ title: Socrates, Odysseus and the scepter
 greek: τὸν σκήπτρῳ ἐλάσασκεν
 kind: anecdote
 tags: [philosophy]
-summary: Socrates' accuser charged that he liked to quote Odysseus' treatment of the army in Iliad 2, gentle words for kings and the scepter for common men, and read it as approval of beating the poor. Xenophon denies the reading.
-source: Xenophon, Memorabilia 1.2.58–59
+summary: Socrates' accuser charged that he liked to quote Odysseus' treatment of the army in Iliad 2, gentle words for kings and the scepter for common men, and read it as approval of beating the poor. Xenophon denies the reading, and reports that Socrates called Homer's Odysseus a safe speaker.
+source: Xenophon, Memorabilia 1.2.58–59, 4.6.15
 of: [odysseus, scepter, kings, commoners, the-test-of-the-army]
 passages:
   - 2.188-206 | Odysseus turns the army back
@@ -20,4 +20,6 @@ Xenophon answers that Socrates meant nothing of the kind; he would then have tho
 
 Both readings start from a real feature of the scene. Odysseus sorts the fleeing army by rank. To the kings he gives reasons and warnings (2.190–197), to the commoners orders and blows (2.199–206). Thersites, the one commoner who speaks, is then beaten into silence. In democratic Athens a fondness for these lines could be presented as contempt for the people, and Xenophon turns it into contempt for the useless.
 
-See [[odysseus]], [[scepter]] and [[the-test-of-the-army]].
+**The safe speaker.** Xenophon reports another Socratic reading of Odysseus. When Socrates argued, he proceeded through what was most generally agreed, thinking this the safety of an argument, and he said that Homer had given Odysseus the name of a safe speaker, as one able to lead his arguments through what men believe (*Memorabilia* 4.6.15, as Merry quotes it, *Commentary on the Odyssey*, 1886, on *Odyssey* 8.171; the *Memorabilia* is not read here for this passage). The words he means are Odysseus' own, in his answer to Euryalus, of the man on whose words a god sets grace: “and he speaks surely” (*Odyssey* 8.171; see [[different-gifts]]). Merry adds that this surety is “something better than fluency”.
+
+See [[odysseus]], [[scepter]], [[the-test-of-the-army]] and [[different-gifts]].
