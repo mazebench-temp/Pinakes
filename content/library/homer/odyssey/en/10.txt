@@ -1,0 +1,576 @@
+# Homer, Odyssey, Book 10 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	“And we came to the island of Aeolia; and there lived
+2	Aeolus, son of Hippotes, dear to the immortal gods,
+3	on a floating island; and all around it is a wall
+4	of bronze, unbreakable, and the rock runs up sheer.
+5	And he has twelve children too in his halls,
+6	six daughters and six sons in their prime.
+7	And he gave his daughters to his sons to be their wives.
+8	And they, always beside their dear father and devoted mother,
+9	feast, and countless good things lie before them,
+10	and the house, full of the savor of meat, resounds round about in the court
+11	by day; and at night again, beside their modest wives,
+12	they sleep on rugs and on corded beds.
+13	And so we came to their city and their fine house.
+14	And for a whole month he made me welcome and questioned me about each thing,
+15	Ilios and the ships of the Argives and the homecoming of the Achaeans;
+16	and I told him all of it fair and right.
+17	But when I in my turn asked to be on my way and bade him
+18	send me on, he did not refuse at all, but made ready my escort.
+19	He gave me a skin of an ox nine years old that he had flayed,
+20	and in it he bound up the paths of the blustering winds;
+21	for the son of Cronus had made him dispenser of the winds,
+22	both to still and to rouse whichever he wishes.
+23	And in the hollow ship he bound it fast with a shining cord
+24	of silver, so that not even a little breath might slip past;
+25	but for me he sent forth the breath of the West Wind to blow,
+26	to carry the ships and ourselves; but he was not to
+27	bring it to pass; for we were lost through our own folly.
+28	For nine days we sailed on, night and day alike,
+29	and on the tenth our native fields were already coming into sight,
+30	and already we could see men tending fires, we were so near.
+31	Then sweet sleep came upon me, worn out as I was,
+32	for I was always handling the sheet of the ship, and would not give it
+33	to any other of my companions, so that we might reach our native land the sooner;
+34	and my companions spoke with words to one another,
+35	and said that I was bringing home gold and silver,
+36	gifts from Aeolus, great-hearted son of Hippotes.
+37	And this is what a man would say, looking at his neighbor:
+38	‘Ah, how dear and honored this man is
+39	by all men, to whatever people's city and land he comes!
+40	Many fine treasures he is bringing from Troy
+41	out of the spoil, while we, who have gone the same road to its end,
+42	are going home, all of us, with empty hands;
+43	and now these things have been given him, a favor done in friendship,
+44	by Aeolus. But come, quickly, let us see what these are,
+45	how much gold and silver is in the skin.’
+46	So they spoke, and the evil counsel of my companions prevailed;
+47	they loosed the skin, and all the winds rushed out.
+48	And at once the storm wind seized them and carried them out to sea,
+49	weeping, away from their native land. But I
+50	woke, and pondered in my noble heart
+51	whether I should fall from the ship and perish in the sea,
+52	or endure in silence and remain still among the living.
+53	But I endured and stayed, and covering my head I lay
+54	in the ship. And the ships were borne by the evil storm of wind
+55	back to the Aeolian island, and my companions groaned.
+56	There we went up onto the land and drew water,
+57	and at once my companions took their meal beside the swift ships.
+58	But when we had tasted food and drink,
+59	then I took a herald with me and one companion
+60	and went to the glorious house of Aeolus; and I found him
+61	feasting beside his wife and his children.
+62	And coming into the house, beside the doorposts, on the threshold
+63	we sat down; and they were amazed in their hearts and questioned us:
+64	‘How have you come, Odysseus? What evil god has attacked you?
+65	Surely we sent you off with care, so that you might reach
+66	your native land and your house, or wherever it is your pleasure.’
+67	So they spoke, and I spoke among them, grieving at heart:
+68	‘My evil companions led me into blind folly, and with them sleep,
+69	cruel sleep. But make it good, my friends; for you have the strength.’
+70	So I spoke, approaching them with gentle words;
+71	and they fell silent; but the father answered me:
+72	‘Off with you from the island, quickly, most despised of the living;
+73	for it is not lawful for me to care for or to send on his way
+74	a man who is hated by the blessed gods;
+75	off with you, since it is as one hated by the gods that you come here.’
+76	So saying, he sent me from the house, groaning heavily.
+77	From there we sailed on, grieving at heart.
+78	And the men's spirit was worn down by the painful rowing
+79	through our own folly, since no escort showed itself any longer.
+80	For six days we sailed on, night and day alike,
+81	and on the seventh we came to the steep citadel of Lamus,
+82	Telepylus of the Laestrygonians, where herdsman hails herdsman
+83	as he drives his flock in, and the other answers as he drives his herd out.
+84	There a man who took no sleep could have earned two wages,
+85	one by herding cattle, the other by pasturing silver-white sheep;
+86	for the paths of night and of day are close together.
+87	When we had come into the famous harbor, around which a rock
+88	stands lofty and unbroken on both sides,
+89	and jutting headlands facing one another
+90	stand out at the mouth, and the entrance is narrow,
+91	there they all steered their curving ships inside.
+92	They were moored within the hollow harbor,
+93	close together; for no wave ever swelled in it,
+94	great or small, but there was a white calm all around;
+95	but I alone kept my black ship outside,
+96	there at the far edge, making the cables fast to a rock;
+97	and I climbed to a rugged lookout and stood there.
+98	There no works of oxen or of men were to be seen;
+99	only smoke we saw rising from the land.
+100	Then I sent some of my companions to go and find out
+101	what men they might be who eat bread upon the earth,
+102	choosing two men, and sending a herald with them as the third.
+103	They went ashore and took a smooth road, by which the wagons
+104	brought wood down to the city from the high mountains;
+105	and before the city they met a girl drawing water,
+106	the strong daughter of Antiphates the Laestrygonian.
+107	She had come down to the fair-flowing spring
+108	Artacia; for from there they used to carry water to the city;
+109	and they stood beside her and spoke to her, and questioned her
+110	who was king of these people and over whom he ruled;
+111	and she at once pointed out the high-roofed house of her father.
+112	And when they had entered the glorious house, they found his wife
+113	as huge as a mountain peak, and they shuddered at her.
+114	And at once she called from the place of assembly famous Antiphates,
+115	her husband, who devised a grim destruction for them.
+116	At once he seized one of my companions and made ready his meal;
+117	but the other two darted off in flight and came to the ships.
+118	And he raised a cry throughout the city; and hearing it
+119	the mighty Laestrygonians came, one from one place and one from another,
+120	countless, not like men, but like the Giants.
+121	From the cliffs they pelted us with stones, each a load for a man;
+122	and at once an evil din rose up throughout the ships,
+123	of men being killed and of ships being shattered together;
+124	and spearing them like fish they carried them off to a joyless meal.
+125	While they were killing them within the deep harbor,
+126	I drew the sharp sword from beside my thigh
+127	and with it cut the cables of my dark-prowed ship.
+128	And at once I urged on my companions and bade them
+129	lay to their oars, so that we might escape from evil,
+130	and they all tossed up the sea with their oars, fearing destruction.
+131	Gladly out to the open sea, away from the overhanging rocks, fled
+132	my ship; but the others perished there in a body.
+133	From there we sailed on, grieving at heart,
+134	glad to have escaped death, though we had lost our dear companions.
+135	And we came to the island of Aeaea; and there lived
+136	Circe of the lovely tresses, a dread goddess with human voice,
+137	own sister of baleful Aeetes;
+138	both were born of the Sun, who brings light to mortals,
+139	and of their mother Perse, whom Oceanus begot as his child.
+140	There we brought our ship in to the shore in silence,
+141	into a harbor where ships can lie, and some god guided us.
+142	Then we went ashore there, and for two days and two nights
+143	we lay, eating our hearts out with weariness and sorrows together.
+144	But when Dawn of the lovely tresses brought the third day,
+145	then I took my spear and my sharp sword
+146	and went up quickly from beside the ship to a lookout,
+147	in the hope that I might see the works of mortals and hear their voices.
+148	And I climbed to a rugged lookout and stood there,
+149	and smoke appeared to me rising from the wide-wayed earth,
+150	in the halls of Circe, through the thick brush and the woods.
+151	And then I pondered in my mind and in my heart
+152	whether to go and find out, since I had seen the fiery smoke.
+153	And as I pondered, this seemed to me the better way:
+154	first to go to the swift ship and the shore of the sea,
+155	and give my companions their meal, and send some of them to find out.
+156	But when I was close to the curving ship as I went,
+157	then one of the gods pitied me, alone as I was,
+158	and sent a great high-horned stag into my very path.
+159	It was coming down to the river from its pasture in the woods
+160	to drink; for the might of the sun had hold of it.
+161	And as it came out, I struck it on the spine, in the middle of the back,
+162	and the bronze spear passed straight through,
+163	and it fell down in the dust with a cry, and its spirit flew away.
+164	And setting my foot on it I drew the bronze spear out of the wound,
+165	and laid it down there on the ground
+166	and left it; then I plucked brushwood and willow shoots,
+167	and plaiting a cable, about a fathom's length, well twisted from both ends,
+168	I bound together the feet of the dread monster,
+169	and went, carrying it on my neck, to the black ship,
+170	leaning on my spear, since there was no way to carry it on the shoulder
+171	with one hand; for it was a very great beast.
+172	And I threw it down in front of the ship, and roused my companions
+173	with soothing words, standing beside each man:
+174	‘Friends, we shall not go down yet, for all our grief,
+175	into the house of Hades, before our fated day comes upon us;
+176	but come, as long as there is food and drink in the swift ship,
+177	let us think of eating, and not be worn down by hunger.’
+178	So I spoke, and they quickly obeyed my words,
+179	and uncovering their heads, along the shore of the barren sea
+180	they gazed at the stag; for it was a very great beast.
+181	But when they had taken their fill of looking with their eyes,
+182	they washed their hands and made ready a glorious feast.
+183	So all day long, until the sun went down,
+184	we sat feasting on untold meat and sweet wine;
+185	when the sun went down and darkness came on,
+186	and then we lay down to sleep where the sea breaks upon the shore.
+187	And when early-born Dawn appeared, the rosy-fingered,
+188	then I called an assembly and spoke among them all:
+189	‘Hear my words, my companions, though you are suffering evils:
+190	friends, we do not know where the darkness is, nor where the dawn,
+191	nor where the sun, who brings light to mortals, goes beneath the earth,
+192	nor where he rises; but let us consider quickly
+193	whether there will still be any plan. I for my part do not think there is.
+194	For I climbed to a rugged lookout and saw
+195	an island, all around which the boundless sea is set as a crown;
+196	and the island itself lies low; and in the middle of it I saw
+197	smoke with my eyes, through the thick brush and the woods.’
+198	So I spoke, and their dear heart was broken
+199	as they remembered the deeds of Antiphates the Laestrygonian
+200	and of the mighty, great-hearted Cyclops, the eater of men.
+201	And they wept loudly, shedding big tears;
+202	but there was no profit for them in their weeping.
+203	But I counted off all my well-greaved companions
+204	into two bands, and gave each band a leader;
+205	one I led myself, and godlike Eurylochus the other.
+206	And quickly we shook the lots in a bronze-fitted helmet,
+207	and out leapt the lot of great-hearted Eurylochus.
+208	And he set out, and with him went two and twenty companions,
+209	weeping; and they left us behind them lamenting.
+210	In the glens they found the house of Circe, built
+211	of polished stones, in a place with a view all round;
+212	and around her were mountain wolves and lions,
+213	whom she herself had bewitched, since she had given them evil drugs.
+214	Nor did these rush upon the men, but they
+215	stood up on their hind legs, fawning on them with their long tails.
+216	And as when dogs fawn around their master as he comes from a feast,
+217	for he always brings them tidbits to please their hearts,
+218	so the strong-clawed wolves and lions fawned
+219	around these men; and they were afraid when they saw the dread monsters.
+220	And they stood in the doorway of the goddess of the lovely tresses,
+221	and they heard Circe within singing with a lovely voice
+222	as she walked to and fro at a great immortal loom, such as are
+223	the fine and lovely and splendid works of goddesses.
+224	Then Polites, leader of men, began to speak among them,
+225	who was the nearest and dearest to me of my companions:
+226	‘Friends, someone within, walking to and fro at a great loom,
+227	is singing beautifully, and the whole floor rings all round with it,
+228	either a goddess or a woman; come, let us call to her quickly.’
+229	So he spoke, and they lifted up their voices and called to her.
+230	And at once she came out and opened the shining doors
+231	and called them in; and they all went with her in their ignorance;
+232	but Eurylochus stayed behind, for he suspected a trick.
+233	She led them in and seated them on chairs and seats,
+234	and for them she made a mixture of cheese and barley meal and pale honey
+235	with Pramnian wine; and she mixed into the food
+236	grim drugs, so that they might utterly forget their native land.
+237	But when she had given it and they had drunk it off, then at once
+238	she struck them with her wand and penned them in the sties.
+239	And they had the heads of swine, and the voice, and the bristles,
+240	and the form, but their minds were steadfast, as before.
+241	So they were penned there weeping, and before them Circe
+242	threw ilex acorns and oak acorns and the fruit of the cornel
+243	to eat, such as swine that sleep on the ground always eat.
+244	But Eurylochus came at once to the swift black ship
+245	to bring the news of his companions and of their bitter fate.
+246	And he could not speak out a word, though he longed to,
+247	stricken at heart with great grief; and his eyes
+248	were filled with tears, and his heart was set on lamenting.
+249	But when we had all questioned him in amazement,
+250	then he told us of the destruction of the rest of our companions:
+251	‘We went, as you bade us, through the brush, shining Odysseus;
+252	in the glens we found a fine house, built
+253	of polished stones, in a place with a view all round.
+254	There someone, walking to and fro at a great loom, was singing in a clear voice,
+255	either a goddess or a woman; and they lifted up their voices and called to her.
+256	And at once she came out and opened the shining doors
+257	and called them in; and they all went with her in their ignorance;
+258	but I stayed behind, for I suspected a trick.
+259	And all at once they vanished in a body, and not one of them
+260	came to light again; and I sat a long while and kept watch.’
+261	So he spoke, and I slung about my shoulders my silver-studded sword,
+262	great and made of bronze, and my bow about them;
+263	and bade him lead me back by the same road.
+264	But he took hold of my knees with both hands and begged me,
+265	and lamenting addressed me with winged words:
+266	‘Do not lead me there against my will, you who are nurtured by Zeus, but leave me here.
+267	For I know that you will neither come back yourself nor bring back
+268	any other of your companions. No, let us flee quickly with these here;
+269	for we may still escape the evil day.’
+270	So he spoke, and I answered him and said:
+271	‘Eurylochus, you may stay here in this place,
+272	eating and drinking beside the hollow black ship;
+273	but I will go, for harsh necessity has come upon me.’
+274	So saying, I went up from the ship and the sea.
+275	But when, as I went through the sacred glens, I was about
+276	to come to the great house of Circe, skilled in many drugs,
+277	there Hermes of the golden wand met me
+278	as I was going toward the house, in the likeness of a young man
+279	with the first down on his lip, when youth is at its most graceful.
+280	And he clung to my hand, and spoke to me, and called me by name:
+281	‘Where are you going now again, unhappy man, alone across the heights,
+282	not knowing the place? And your companions there in the house of Circe
+283	are penned like swine, and keep to close-packed sties.
+284	Is it to free them that you come here? I tell you that you
+285	will not come home yourself, but will stay where the others are.
+286	But come, I will free you from evils and save you.
+287	Here, take this good drug and go into the house of Circe,
+288	and it will ward off the evil day from your head.
+289	And I will tell you all the baneful thoughts of Circe.
+290	She will make you a mixed drink, and put drugs in the food;
+291	but even so she will not be able to bewitch you; for it will not let her,
+292	the good drug that I will give you; and I will tell you each thing.
+293	When Circe strikes you with her very long wand,
+294	then draw the sharp sword from beside your thigh
+295	and spring at Circe as though eager to kill her.
+296	And in fear of you she will bid you lie with her;
+297	then do not refuse the bed of the goddess any longer,
+298	so that she may free your companions and care for you yourself;
+299	but bid her swear a great oath by the blessed gods
+300	that she will not plan some other evil bane against you yourself,
+301	lest, when you are stripped, she make you a coward and unmanned.’
+302	So he spoke, and the slayer of Argus gave me the drug,
+303	pulling it from the ground, and showed me its nature.
+304	At the root it was black, but its flower was like milk;
+305	moly the gods call it; and it is hard to dig up
+306	for mortal men; but the gods can do all things.
+307	Then Hermes went away to high Olympus
+308	across the wooded island, and I to the house of Circe
+309	went my way; and my heart heaved with many thoughts as I went.
+310	And I stood at the doors of the goddess of the lovely tresses;
+311	there I stood and shouted, and the goddess heard my voice.
+312	And at once she came out and opened the shining doors
+313	and called me in; and I followed, grieving at heart.
+314	She led me in and seated me on a silver-studded chair,
+315	fine and intricately worked; and there was a footstool under my feet;
+316	and she made me the mixed drink in a golden cup, for me to drink,
+317	and put the drug in it, meaning evil in her heart.
+318	But when she had given it and I had drunk it off, and it did not bewitch me,
+319	she struck me with her wand, and spoke to me, and called me by name:
+320	‘Go now to the sty, and lie down with the rest of your companions.’
+321	So she spoke, and I drew the sharp sword from beside my thigh
+322	and sprang at Circe as though eager to kill her.
+323	And she, with a great cry, ran in under it and clasped my knees,
+324	and lamenting addressed me with winged words:
+325	‘Who are you among men, and from where? Where are your city and your parents?
+326	Wonder holds me, how you drank these drugs and were not bewitched at all;
+327	for no other man either has withstood these drugs,
+328	whoever drinks them, once they have passed the barrier of his teeth.
+329	But there is a mind in your breast that cannot be bewitched.
+330	Surely you are Odysseus of many turns; he always told me
+331	you would come, the slayer of Argus of the golden wand,
+332	returning from Troy in your swift black ship.
+333	But come, put your sword in its sheath, and then let us two
+334	go up into our bed, so that, having lain together
+335	in bed and love, we may trust one another.’
+336	So she spoke, and I answered her and said:
+337	‘Circe, how can you bid me be kind to you,
+338	you who turned my companions into swine in your halls,
+339	and keeping me myself here, with treachery in your heart, you bid me
+340	go into your chamber and go up into your bed,
+341	so that when I am stripped you may make me a coward and unmanned?
+342	No, I would not be willing to go up into your bed,
+343	unless you would bring yourself, goddess, to swear me a great oath
+344	that you will not plan some other evil bane against me myself.’
+345	So I spoke, and at once she swore that she would not, as I bade her.
+346	But when she had sworn and completed the oath,
+347	then I went up into the beautiful bed of Circe.
+348	Meanwhile the handmaids were busy in the halls,
+349	four of them, who are her serving women in the house;
+350	and they are born of the springs and of the groves
+351	and of the sacred rivers that flow on to the sea.
+352	One of them threw fine blankets over the chairs,
+353	purple ones on top, and spread linen cloths beneath them;
+354	another drew up tables before the chairs,
+355	silver ones, and set golden baskets on them;
+356	the third mixed wine sweet to the heart in a mixing bowl,
+357	sweet wine in a silver bowl, and served out golden cups;
+358	and the fourth brought water and kindled a great fire
+359	under a great tripod; and the water grew warm.
+360	But when the water had boiled in the gleaming bronze,
+361	she set me in a bathtub and bathed me from the great tripod,
+362	mixing it to suit my heart, pouring it over my head and shoulders,
+363	until she had taken from my limbs the weariness that destroys life.
+364	And when she had bathed me and anointed me richly with olive oil,
+365	and put a fine cloak and a tunic around me,
+366	she led me in and seated me on a silver-studded chair,
+367	fine and intricately worked; and there was a footstool under my feet.
+368	And a handmaid brought water for the hands in a pitcher and poured it,
+369	a fine golden one, over a silver basin,
+370	for me to wash; and she drew up a polished table beside me.
+371	And the revered housekeeper brought bread and set it before me,
+372	adding many dainties, giving freely of what she had.
+373	And she bade me eat; but it did not please my heart,
+374	but I sat with my thoughts elsewhere, and my heart foreboded evil.
+375	And when Circe saw me sitting there, and not putting out
+376	my hands to the food, but held by strong grief,
+377	standing close by me, she addressed me with winged words:
+378	‘Why do you sit like this, Odysseus, like a man without speech,
+379	eating your heart, and do not touch food or drink?
+380	Do you suspect some other trick? You have no need
+381	to fear; for I have already sworn you a mighty oath.’
+382	So she spoke, and I answered her and said:
+383	‘Circe, what man who was fair-minded
+384	would bring himself to taste food and drink
+385	before he had set his companions free and seen them with his eyes?
+386	But if with a ready heart you bid me drink and eat,
+387	release them, so that I may see my trusty companions with my eyes.’
+388	So I spoke, and Circe went out through the hall
+389	with her wand in her hand, and opened the doors of the sty,
+390	and drove them out, looking like fat hogs nine years old.
+391	Then they stood facing her, and she went among them
+392	and anointed each of them with another drug.
+393	And from their limbs fell the bristles that had been made to grow before
+394	by the ruinous drug that lady Circe had given them;
+395	and they became men again, younger than they had been before,
+396	and much handsomer and taller to look upon.
+397	And they knew me, and each of them clung to my hands.
+398	And on them all came the longing for lament, and all round the house
+399	rang terribly; and the goddess herself was moved to pity.
+400	And she came and stood near me and spoke, brilliant among goddesses:
+401	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+402	go now to the swift ship and the shore of the sea.
+403	First of all drag the ship up onto the land,
+404	and put your possessions and all the tackle away in caves,
+405	and come back yourself and bring your trusty companions.’
+406	So she spoke, and my proud spirit was persuaded,
+407	and I went to the swift ship and the shore of the sea.
+408	Then I found my trusty companions at the swift ship
+409	lamenting piteously, shedding big tears.
+410	And as when the calves of the fields, around the cows of the herd
+411	as they come back to the dung-yard when they have had their fill of pasture,
+412	all skip together to meet them, and the pens no longer
+413	hold them, but lowing without ceasing they run around
+414	their mothers: so those men, when they saw me with their eyes,
+415	poured around me in tears; and it seemed to their hearts
+416	as if they had come to their native land and to the very city
+417	of rugged Ithaca, where they were born and raised.
+418	And lamenting they addressed me with winged words:
+419	‘At your return, you who are nurtured by Zeus, we are as glad
+420	as if we had come to Ithaca, our native land;
+421	but come, tell us of the destruction of the rest of our companions.’
+422	So they spoke, and I spoke to them with gentle words:
+423	‘First of all let us drag the ship up onto the land,
+424	and put our possessions and all the tackle away in caves;
+425	and make haste, all of you, to follow me,
+426	so that you may see your companions in the sacred house of Circe
+427	drinking and eating; for they have unfailing plenty.’
+428	So I spoke, and they quickly obeyed my words.
+429	Only Eurylochus tried to hold back all my companions,
+430	and he spoke to them, addressing them with winged words:
+431	‘Ah, wretched men, where are we going? Why do you long for these evils,
+432	to go down to the hall of Circe, who will make all of us
+433	either swine or wolves or lions,
+434	to guard her great house for her even under compulsion,
+435	as the Cyclops penned them in, when to his farmyard came
+436	our companions, and with them went this bold Odysseus;
+437	for it was through his recklessness that they too perished.’
+438	So he spoke, and I pondered in my mind
+439	whether to draw the long-edged sword from beside my stout thigh,
+440	and strike off his head with it and bring it to the ground,
+441	kinsman by marriage though he was, and very near; but my companions
+442	tried to hold me back with soothing words, one from one side and one from another:
+443	‘Sprung from Zeus, we will leave this man, if you bid it,
+444	to stay there beside the ship and guard the ship,
+445	but lead us to the sacred house of Circe.’
+446	So saying, they went up from the ship and the sea.
+447	Nor was Eurylochus left behind beside the hollow ship,
+448	but he followed; for he was afraid of my terrible rebuke.
+449	Meanwhile in her house Circe had bathed the rest of my companions
+450	with care and anointed them richly with olive oil,
+451	and put woolly cloaks and tunics around them;
+452	and we found them all feasting well in the halls.
+453	And when they saw one another and knew each other face to face,
+454	they wept and mourned, and the house groaned round about.
+455	And she came and stood near me and spoke, brilliant among goddesses:
+457	‘Rouse this swelling lament no longer; I myself know too
+458	both all the sorrows you suffered on the fish-filled sea,
+459	and all the harm that merciless men did you on land.
+460	But come, eat food and drink wine,
+461	until you take heart again in your breasts,
+462	such as you had when you first left your native land
+463	of rugged Ithaca. But now you are withered and spiritless,
+464	always remembering your hard wandering, and never is your heart
+465	in gladness, since you have suffered very much.’
+466	So she spoke, and our proud spirit was persuaded.
+467	There every day, for a full year's round,
+468	we sat feasting on untold meat and sweet wine.
+469	But when a year had passed, and the seasons returned in their course
+470	as the months waned, and the long days had come full circle,
+471	then my trusty companions called me out and said:
+472	‘Strange one, think now at last of your native land,
+473	if it is decreed for you to be saved and to reach
+474	your high-roofed house and your native land.’
+475	So they spoke, and my proud spirit was persuaded.
+476	So all day long, until the sun went down,
+477	we sat feasting on untold meat and sweet wine.
+478	When the sun went down and darkness came on,
+479	they lay down to sleep throughout the shadowy halls.
+480	But I went up into the beautiful bed of Circe
+481	and entreated her by her knees, and the goddess heard my voice;
+482	and I spoke to her, addressing her with winged words:
+483	‘Circe, fulfill for me the promise you made,
+484	to send me home; my heart is eager now,
+485	and the hearts of my other companions, who waste my dear heart away
+486	mourning around me, whenever you are away.’
+487	So I spoke, and at once she answered, brilliant among goddesses:
+488	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+489	stay no longer in my house against your will.
+490	But first you must accomplish another journey and come
+491	to the house of Hades and of dread Persephone,
+492	to consult the soul of Theban Teiresias,
+493	the blind seer, whose wits are steadfast;
+494	to him even in death Persephone has given a mind,
+495	that he alone should be wise; but the others flit as shadows.’
+496	So she spoke, and my dear heart was broken,
+497	and I wept as I sat on the bed, and my heart
+498	no longer wished to live and see the light of the sun.
+499	But when I had had my fill of weeping and rolling about,
+500	then at last I answered her with words and said:
+501	‘Circe, who will guide us on this journey?
+502	No one has ever yet come to the house of Hades in a black ship.’
+503	So I spoke, and at once she answered, brilliant among goddesses:
+504	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+505	let no longing for a guide trouble you beside your ship,
+506	but set up your mast and spread the white sails,
+507	and sit; and the breath of the North Wind will carry her.
+508	But when in your ship you have crossed Oceanus,
+509	where there is a shore of good soil and the groves of Persephone,
+510	tall poplars and willows that lose their fruit,
+511	beach your ship there by deep-eddying Oceanus,
+512	and go yourself into the dank house of Hades.
+513	There into Acheron flow Pyriphlegethon
+514	and Cocytus, which is a branch of the water of Styx,
+515	and there is a rock, and the meeting of the two loud-resounding rivers;
+516	there then, hero, draw close, as I bid you,
+517	and dig a pit about a cubit's length this way and that,
+518	and around it pour a drink offering to all the dead,
+519	first with honey and milk, then with sweet wine,
+520	and the third time with water; and sprinkle white barley meal over it.
+521	And earnestly implore the strengthless heads of the dead,
+522	vowing that, when you come to Ithaca, a barren heifer, the best you have,
+523	you will sacrifice in your halls, and heap the pyre with good things,
+524	and that to Teiresias apart you will sacrifice a sheep, to him alone,
+525	all black, that stands out among your flocks.
+526	But when you have begged the glorious tribes of the dead with prayers,
+527	then sacrifice a ram and a black ewe,
+528	turning them toward Erebus, and turn yourself away,
+529	making toward the streams of the river; and there many
+530	souls of the dead who have died will come.
+531	Then urge on your companions and bid them
+532	flay the sheep that lie there slaughtered with the pitiless bronze,
+533	and burn them, and pray to the gods,
+534	to mighty Hades and dread Persephone;
+535	and you yourself draw the sharp sword from beside your thigh
+536	and sit there, and do not let the strengthless heads of the dead
+537	come near the blood until you have questioned Teiresias.
+538	Then the seer will come to you at once, leader of the people,
+539	he will tell you the way and the measures of your path
+540	and your homecoming, how you shall go over the fish-filled sea.’
+541	So she spoke, and at once Dawn of the golden throne came.
+542	And she put a cloak and a tunic about me as clothing;
+543	and the nymph herself put on a great silver-white mantle,
+544	fine and lovely, and around her waist she cast a girdle,
+545	fine and golden, and on her head she set a head covering.
+546	But I went through the house and urged on my companions
+547	with soothing words, standing beside each man:
+548	‘No longer sleep now, drowsing in sweet sleep,
+549	but let us go; for lady Circe has shown me the way.’
+550	So I spoke, and their proud spirit was persuaded.
+551	But not even from there did I lead my companions away unharmed.
+552	There was one Elpenor, the youngest, not very
+553	valiant in war nor sound in his wits;
+554	he, apart from my companions, in the sacred house of Circe,
+555	longing for the cool air, had lain down to sleep, sodden with wine.
+556	And hearing the din and the thudding of the companions as they moved about,
+557	he sprang up suddenly, and forgot in his mind
+558	to come back down by going to the long ladder,
+559	but fell straight down from the roof; and his neck
+560	was broken from the vertebrae, and his soul went down to Hades.
+561	And as they were going, I spoke among them:
+562	‘You think, no doubt, that you are going home to your dear native land;
+563	but Circe has ordained another journey for us,
+564	to the house of Hades and of dread Persephone,
+565	to consult the soul of Theban Teiresias.’
+566	So I spoke, and their dear heart was broken,
+567	and they sat down there and lamented, and tore their hair;
+568	but there was no profit for them in their weeping.
+569	But when we were going to the swift ship and the shore of the sea,
+570	grieving, shedding big tears,
+571	meanwhile Circe had gone and tied up beside the black ship
+572	a ram and a black ewe,
+573	slipping past us easily; who could see a god against his will
+574	with his eyes, going either this way or that?”

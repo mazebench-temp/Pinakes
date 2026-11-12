@@ -26,7 +26,7 @@ Looks and worth are a theme of the book. Hector opened it by telling Paris that 
 
 ## Elsewhere in Homer
 
-Deceptive looks are Odysseus' art in the Odyssey. Helen tells how he entered Troy disfigured with blows and dressed as a slave, made himself look like another man, and was recognized by her alone (Odyssey 4.244–251), and he comes home to Ithaca disguised as a beggar. The noun of the same root, ἀϊδρείη (“ignorance”), is used there of his companions, who follow Circe into her house “in their ignorance” (Odyssey 10.231, 10.257).
+Deceptive looks are Odysseus' art in the Odyssey. Helen tells how he entered Troy disfigured with blows and dressed as a slave, made himself look like another man, and was recognized by her alone (Odyssey 4.244–251), and he comes home to Ithaca disguised as a beggar. The noun of the same root, ἀϊδρείη (“ignorance”), is used there of his companions, who follow Circe into her house “in their ignorance” (Odyssey 10.231, 10.257). In the same house Circe finds him sitting silent before the food that he will not eat while his companions are swine, and asks him why he sits “like a man without speech” (*Odyssey* 10.378; see [[like-a-man-without-speech]]).
 
 ## Outside Homer
 

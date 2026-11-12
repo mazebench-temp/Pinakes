@@ -3,7 +3,7 @@ title: Sleepless
 greek: ἄϋπνος
 kind: epithet
 tags: [time]
-summary: “Without sleep,” an epithet of nights spent in toil or grief: Achilles' nights at war, and in the Odyssey the nights of the disguised Odysseus.
+summary: “Without sleep,” an epithet of nights spent in toil or grief, Achilles' at war and in the Odyssey the disguised Odysseus', and of men kept from sleep or doing without it.
 aliases: [aypnos, unsleeping, wakeful]
 grc: [ἀΰπνους]
 en: [sleepless]

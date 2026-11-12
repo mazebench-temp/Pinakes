@@ -9,7 +9,9 @@ grc: [ἐκπέρσαι, ἐξεπράθομεν, ἐξαλαπάξαι, ὁδ�
 # ἤλασαν is also "drove" a ditch round the wall (τάφρον ἤλασαν, 7.450).
 # ἤλασαν at 12.6 is "drove" a ditch, i.e. dug it.
 # ἤλασαν at 23.13 is "drove", of the Myrmidons' horses around the body of Patroclus.
-except: [7.450, 12.6, 23.13]
+# ἐδηλήσαντʼ at Od. 10.459 is "all the harm that merciless men did you on land", Circe's word for the companions'
+# sufferings, not a raid.
+except: [7.450, 12.6, 23.13, Od. 10.459]
 en: [sack, plundered, go on a raid, drove off, ravage, sacked, brought everything here]
 passages:
   - 1.152-160 | Achilles: the Trojans never raided me

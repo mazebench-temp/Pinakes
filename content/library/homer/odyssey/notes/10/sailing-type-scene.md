@@ -1,0 +1,6 @@
+---
+summary: The voyages and landings of the book: nine days and nights of sailing with the West Wind (10.25–30); the landing on Aeolus' island and the rowing after it (10.56, 10.77–80); the ships moored in the Laestrygonians' harbor and Odysseus' ship tied outside to a rock (10.87–96), and its escape (10.125–134); the landing on Aeaea “in silence” (10.140–142); the ship dragged ashore and its tackle put away in caves (10.401–404, 10.423–424); and Circe's instructions for the voyage to the dead (10.505–511).
+refs: [10.25-30, 10.56, 10.77-80, 10.87-96, 10.125-134, 10.140-142, 10.401-404, 10.423-424, 10.505-511]
+---
+
+Merry notes that the ships sailed “day and night alike,” instead of putting in for the night as was the usual custom (Merry, *Commentary on the Odyssey*, 1886, on 10.28). The landing on Aeaea is told in the verses “There we brought our ship in to the shore in silence, / into a harbor where ships can lie, and some god guided us” (10.140–141), and Merry renders νηὶ κατηγαγόμεσθα “we put in with our ship,” the opposite of ἀνάγεσθαι (Merry on 10.140). Circe's instructions give the steps of the scene in the second person, the mast set up and the white sails spread, and the North Wind to carry the ship while they sit (10.505–511; [[stern-cables]], [[mast]], [[harbor]]).

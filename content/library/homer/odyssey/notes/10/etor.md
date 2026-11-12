@@ -1,0 +1,5 @@
+---
+summary: The ships sail on from Aeolus' island and from the Laestrygonians' harbor “grieving at heart” (10.77, 10.133). The companions' “dear heart was broken” when they remember the Cyclops and Antiphates (10.198) and when they hear of the journey to the house of Hades (10.566), and so was Odysseus' when Circe told him of it (10.496).
+---
+
+The ἦτορ grieves and breaks. The refrain “From there we sailed on, grieving at heart” (ἀκαχήμενοι ἦτορ) follows both departures of the book, from the Aeolian island and from the harbor of the Laestrygonians (10.77, 10.133; see [[from-there-we-sailed-on]] and [[achos]]), and Odysseus enters Circe's house “grieving at heart” (10.313). κατεκλάσθη φίλον ἦτορ, “their dear heart was broken”, comes three times: when the companions remember Antiphates and the Cyclops (10.198), when Circe tells Odysseus that he must go to the house of Hades (10.496), and when he tells the companions (10.566). It is the half-verse of the companions' terror at the Cyclops' voice (9.256) and of Menelaus' despair on Pharos (4.481, 4.538; see [[tears]] and [[deos]]).

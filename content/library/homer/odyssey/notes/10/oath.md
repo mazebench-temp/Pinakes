@@ -1,0 +1,11 @@
+---
+summary: Hermes bids Odysseus make Circe swear “a great oath by the blessed gods” not to harm him (10.299–301). Odysseus demands it in the words he used to Calypso, and she swears at once (10.342–346); at the table she reminds him, “for I have already sworn you a mighty oath” (10.381).
+# ἀπώμνυεν "swore that she would not" (10.345), only here; ἀπώμνυ (2.377) and ἀπώμνυον (12.303, 18.58) are other forms.
+grc: [ἀπώμνυεν]
+---
+
+**Hermes' instruction.** Hermes tells Odysseus what to do when Circe, in fear of his sword, bids him to her bed: “but bid her swear a great oath by the blessed gods / that she will not plan some other evil bane against you yourself, / lest, when you are stripped, she make you a coward and unmanned” (10.299–301; see [[hermes]] and [[boule]]). ἀπογυμνωθέντα is “when stripped”, in the simple sense that εὐνηθῆναι suggests, and not “without his sword”, as the scholium takes it (W. W. Merry, *Commentary on the Odyssey*, 1886, on 10.301); θήῃ is Aristarchus' reading, θείῃ the manuscripts' (Merry's critical note; see the translation's note on 10.301).
+
+**The oath sworn.** Odysseus says it to Circe in the two verses with which he made Calypso swear before he set foot on his raft: “unless you would bring yourself, goddess, to swear me a great oath / that you will not plan some other evil bane against me myself” (10.343–344 = 5.178–179; see [[calypso]]). “So I spoke, and at once she swore that she would not, as I bade her. / But when she had sworn and completed the oath, / then I went up into the beautiful bed of Circe” (10.345–347; see [[circe]] and [[philotes]]). ἀπώμνυεν is the verb of a negative oath, as when Eurycleia “swore a great oath by the gods not to tell” (2.377), and the next verse is the one that closes her oath (10.346 = 2.378; see [[oath-formulas]]). Calypso had sworn by Earth, the wide Heaven and the water of Styx, “the greatest / and most dread oath for the blessed gods” (5.184–187; see [[styx]]); the words of Circe's oath are not given.
+
+**The oath remembered.** At the table, seeing Odysseus sit without eating, Circe asks: “Do you suspect some other trick? You have no need / to fear; for I have already sworn you a mighty oath” (ἀπώμοσα καρτερὸν ὅρκον, 10.380–381; see [[dolos]], [[deos]] and [[fasting]]).

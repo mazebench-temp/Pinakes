@@ -25,8 +25,8 @@ Only Odysseus speaks it, in the first person plural of the tale, and only in the
 - **The Cicones.** Six men from each ship had died on the plain of Ismarus, and before going farther the ships called three times on each of them (*Odyssey* 9.60–66; [[the-raid-on-the-cicones]], [[lament]]).
 - **The Lotus-eaters.** The men who had tasted the lotus were dragged back weeping and bound under the thwarts, and the first verse alone leads on to the land of the Cyclopes (*Odyssey* 9.98–106; [[lotus-eaters]]).
 - **The Cyclops.** Six companions had been eaten in the cave, and the couplet ends *Odyssey* 9, after the feast on the island and the ram whose offering Zeus did not heed (*Odyssey* 9.550–566; [[polyphemus-the-cyclops]]).
-- **Aeolus.** Driven from his island, since he will not send on his way a man whom the blessed gods hate, they sail on with the first verse alone, and the men are worn out with rowing, now that there is no escort (*Odyssey* 10.72–79, a plain rendering).
-- **The Laestrygonians.** Only Odysseus' own ship escapes into the open sea, and all the others perish there together (*Odyssey* 10.130–134, a plain rendering); the couplet is spoken whole for the last time, and the next verse brings them to Aeaea (*Odyssey* 10.135).
+- **Aeolus.** Driven from his island, since he will not send on his way a man whom the blessed gods hate, they sail on with the first verse alone, and the men are worn out with rowing, now that there is no escort (*Odyssey* 10.72–79).
+- **The Laestrygonians.** Only Odysseus' own ship escapes into the open sea, and all the others perish there together (*Odyssey* 10.130–134); the couplet is spoken whole for the last time, and the next verse brings them to Aeaea (*Odyssey* 10.135).
 
 The losses it counts are those that the proem announces of the man who could not save his companions, “But even so he did not save his companions, eager though he was” (*Odyssey* 1.6; [[hetairos]], [[the-return-of-odysseus]]).
 

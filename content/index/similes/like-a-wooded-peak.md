@@ -27,7 +27,7 @@ Odysseus has crossed from the island of goats with his own ship to “make trial
 
 ## Elsewhere in Homer
 
-The other Cyclopes “live on the peaks of high mountains / in hollow caves” (*Odyssey* 9.113–114; see [[cyclopes]]), the simile's ὑψηλῶν ὀρέων. In the next book the queen of the Laestrygonians is found to be “as big as a mountain peak” (ὅσην τʼ ὄρεος κορυφήν, *Odyssey* 10.112–113, a plain rendering), a measure that Merry sets beside the Cyclops' club (on 9.322). In the Iliad Hector rushes off “like a snowy mountain” (*Iliad* 13.754; see [[like-a-snowy-mountain]]).
+The other Cyclopes “live on the peaks of high mountains / in hollow caves” (*Odyssey* 9.113–114; see [[cyclopes]]), the simile's ὑψηλῶν ὀρέων. In the next book the queen of the Laestrygonians is found to be “as huge as a mountain peak” (ὅσην τʼ ὄρεος κορυφήν, *Odyssey* 10.112–113), a measure that Merry sets beside the Cyclops' club (on 9.322). In the Iliad Hector rushes off “like a snowy mountain” (*Iliad* 13.754; see [[like-a-snowy-mountain]]).
 
 ## Outside Homer
 

@@ -3,7 +3,7 @@ title: Dear to the heart (thymares)
 greek: θυμαρής
 kind: epithet
 tags: [woman, kinship, rare-word]
-summary: “Pleasing to the heart,” an epithet of a wife: of Briseis, as Achilles calls her, and of Penelope in the arms of Odysseus.
+summary: “Pleasing to the heart,” an epithet of a wife, of Briseis as Achilles calls her and of Penelope in the arms of Odysseus, and in the Odyssey of things that suit a man.
 aliases: [thymares, pleasing to the heart, beloved]
 grc: [θυμαρέα]
 en: [dear to my heart]

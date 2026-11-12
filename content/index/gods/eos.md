@@ -12,6 +12,7 @@ aliases: [Dawn]
 # 9.240, 11.723, which the Iliad's Book 8 note already claims within the Iliad. The lowercase ἠῶ stays out of the
 # entry; the books' notes claim it or count it where it is the dawn (Il. 9.662, 12.239; Od. 2.434, 7.288, 9.26).
 grc: [Ἠώς, "^Ἠοῦς", "^Ἠῶ"]
+except: [Od. 10.190]
 en: [Dawn, dawn]
 ---
 

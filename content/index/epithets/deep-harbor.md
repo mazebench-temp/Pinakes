@@ -3,11 +3,11 @@ title: Deep harbor
 greek: λιμὴν πολυβενθής
 kind: epithet
 tags: [seafaring]
-summary: The deep harbor of [[Chryse]], which Odysseus' ship enters (1.432).
+summary: “Very deep,” πολυβενθής, an epithet of harbors and once of the sea, above all in the half-verse λιμένος πολυβενθέος, “the deep harbor”: the harbor of [[Chryse]] in the Iliad, and in the Odyssey the harbors of the Laestrygonians and of Ithaca.
 aliases: [polybenthes]
 grc: [λιμένος πολυβενθέος]
 en: [deep harbor]
-of: [chryse]
+of: [chryse, harbor]
 ---
 
 ## Meaning

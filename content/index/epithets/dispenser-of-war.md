@@ -12,7 +12,7 @@ of: [zeus]
 
 ## Meaning
 
-ταμίης is a steward, the one who keeps the stores and deals out portions. In the Achaean camp the ταμίαι are the stewards by the ships who give out the food (Il. 19.44), and in the Odyssey Zeus made Aeolus ταμίης ἀνέμων, “steward of the winds” (Od. 10.21). Zeus is the steward of war, who deals out victory and defeat. The whole verse Ζεύς, ὅς τʼ ἀνθρώπων ταμίης πολέμοιο τέτυκται is used twice (4.84, Il. 19.224). The same idea is pictured in the golden scales in which Zeus weighs the fates of two armies or of two men (Il. 8.69–72, 22.209–213), and in the two jars from which he gives mortals good and evil (Il. 24.527–533). See [[plan-of-zeus]].
+ταμίης is a steward, the one who keeps the stores and deals out portions. In the Achaean camp the ταμίαι are the stewards by the ships who give out the food (Il. 19.44), and in the Odyssey the son of Cronus made Aeolus ταμίης ἀνέμων, “dispenser of the winds” (Od. 10.21; [[dispenser-of-the-winds]]). Zeus is the steward of war, who deals out victory and defeat. The whole verse Ζεύς, ὅς τʼ ἀνθρώπων ταμίης πολέμοιο τέτυκται is used twice (4.84, Il. 19.224). The same idea is pictured in the golden scales in which Zeus weighs the fates of two armies or of two men (Il. 8.69–72, 22.209–213), and in the two jars from which he gives mortals good and evil (Il. 24.527–533). See [[plan-of-zeus]].
 
 ## Use
 

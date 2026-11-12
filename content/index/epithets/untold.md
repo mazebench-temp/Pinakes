@@ -2,7 +2,7 @@
 title: Untold
 greek: ἄσπετος
 kind: epithet
-summary: “Unspeakable, beyond telling,” an epithet of whatever is too great to describe: glory and tumult, a forest, courage, the upper air and the stream of Oceanus.
+summary: “Unspeakable, beyond telling,” an epithet of whatever is too great to describe: glory and tumult, a forest, courage, the upper air and the stream of Oceanus, and in the Odyssey the meat of a feast that lasts all day.
 aliases: [unspeakable, boundless, vast, aspetos]
 grc: [ἄσπετον]
 en: [untold, vast]

@@ -9,6 +9,10 @@ grc: [ἠέλι*]
 en: [sun]
 ---
 
+## Family
+
+The Odyssey gives him children. By [[perse|Perse]], a daughter of [[oceanus|Oceanus]], he is the father of [[circe|Circe]] and [[aeetes|Aeetes]] (*Odyssey* 10.138–139), and by Neaera of the nymphs Phaethusa and Lampetie, who herd his flocks on Thrinacia (*Odyssey* 12.131–133). Hesiod makes him a son of Hyperion and Theia (*Theogony* 371–374); in the Odyssey Hyperion is his own name, “Hyperion the Sun” (*Odyssey* 1.8).
+
 {{notes}}
 
 ## Elsewhere in Homer

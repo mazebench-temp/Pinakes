@@ -9,7 +9,7 @@ grc: [ἀνέσταν, σφοῦ πατρὸς ἐναντίον, ἀντίοι 
 # ἀνέσταν is also the nine volunteers standing up to fight Hector (7.161).
 # ἀνέσταν at 23.886 is the javelin throwers standing up for the contest.
 # ἀνέσταν at Od. 8.258 is the nine stewards of the games standing up.
-except: [7.161, 23.886, Od. 8.258]
+except: [7.161, 23.886, Od. 8.258, Od. 10.215]
 en: [rose, to meet their father, stood up to face him]
 ---
 

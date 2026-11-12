@@ -8,8 +8,9 @@ aliases: [sea, deep]
 # ἅλαδ* is ἅλαδʼ, ἅλαδε, "to the sea" (Od. 2.389; Il. 9.683, 14.97, of dragging ships down; later Od. 10.351).
 # πόντος (Od. 3.192; later 10.195, 12.406, 14.304) also catches 2.210, 7.64 and 21.59, which the Iliad Book 2 note
 # claims as well. πέλαγος, πελάγει, "the open sea" (Od. 3.91, 3.174, 3.179, 3.321), also catch 14.16, the one
-# πέλαγος of the Iliad, in the simile of the heaving sea.
-grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον, "ἅλαδ*", πόντος, πέλαγος, πελάγει]
+# πέλαγος of the Iliad, in the simile of the heaving sea. πόντονδε, "out to sea" (Od. 9.495, 10.48), is in no line of
+# the Iliad or Aristotle.
+grc: [θαλασσ*, ἅλα, ἁλὸς, πόντον, "ἅλαδ*", πόντος, πέλαγος, πελάγει, πόντονδε]
 en: [sea, deep]
 except: [Rhetoric 1400a12, Rhetoric 1400a13]
 ---

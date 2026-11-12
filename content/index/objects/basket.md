@@ -6,9 +6,9 @@ tags: [vessel]
 summary: Homer's baskets: the τάλαρος, a woven basket for fruit or cheeses, and the silver work basket on wheels that holds Helen's yarn; and the κάνεον, the basket in which bread is set out at a meal and barley grains are carried to a sacrifice or a prayer.
 aliases: [baskets, work basket, talaros, kaneon, bread basket]
 # τάλαρον (Od. 4.125, 4.131), ταλάροισι (Il. 18.568), ταλάροισιν (Od. 9.247); κανέοισιν
-# (Il. 9.217, 24.626; Od. 1.147), κάνεον (Il. 11.630), κανέῳ (Od. 3.442, 4.761). Later books have κάνεον, κάνεια,
-# κανέου, κανέοιο.
-grc: [τάλαρον, ταλάροισι, ταλάροισιν, κανέοισιν, κάνεον, κανέῳ]
+# (Il. 9.217, 24.626; Od. 1.147), κάνεον (Il. 11.630), κανέῳ (Od. 3.442, 4.761), κάνεια (Od. 10.355, Circe's golden
+# baskets). Later books have κάνεον, κανέου, κανέοιο.
+grc: [τάλαρον, ταλάροισι, ταλάροισιν, κανέοισιν, κάνεον, κανέῳ, κάνεια]
 en: [basket, baskets]
 ---
 

@@ -1,0 +1,7 @@
+---
+summary: Merry quotes Pindar three times on this book: his Delos, once carried about by the waves and the winds, for Aeolus' floating island; his Acheron, which ferries griefs to mortals, for the river of the underworld; and Taenarus, the mouth of Hades, among the places where men reached the dead.
+---
+
+- **A floating island.** For πλωτή, “floating”, of Aeolus' island (10.3), Merry compares Pindar on Delos, which of old was carried by the waves and the blasts of all the winds (a fragment of Pindar, as Merry quotes it; Merry, *Commentary on the Odyssey*, 1886, on 10.3), with Ovid's “wandering Delos”: [[aeolia]] and [[ovid]].
+- **The river of griefs.** Merry thinks the Styx the great river of the underworld, at first perhaps the only one, and the passage of Circe's directions that adds three more probably a later invention: the Acheron, the river of griefs, as Pindar has it, ferrying griefs to mortals (a fragment, as Merry quotes it), the Cocytus, the river of wailing, and the Pyriphlegethon, the river of blazing fire, an evident memory of a stream of lava (Merry on 10.513; 10.513–514): [[acheron]], [[cocytus]] and [[pyriphlegethon]].
+- **The mouth of Hades.** Among the oracles of the dead Merry names a third, near Cape Taenarus, “by the underground mouth of Hades”, in Pindar's words (*Pythian* 4.44, as Merry quotes it; Merry on 10.517): [[the-offering-to-the-dead]] and [[hades]].

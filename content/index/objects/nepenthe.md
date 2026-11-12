@@ -31,7 +31,7 @@ The drug works only in the wine. Whoever swallowed it, “once it was mixed in t
 
 νηπενθής is “without grief”, from the negative prefix νη- and πένθος (see [[penthos]]); ἄχολος, “without anger”, from χόλος (see [[cholos]]); ἐπίληθος, “bringing forgetfulness”, from the root of λήθω, “escape notice”, and λανθάνομαι, “forget”. All three are found only here in Homer (see the translation's row νηπενθής, ἄχολος, ἐπίληθος and its note on *Odyssey* 4.220–232). ἐπίληθον, added without a conjunction, explains the two adjectives before it (Merry on 4.221). Aristarchus accented it as an adjective, ἐπίληθον, while Ptolemy of Ascalon took it as a participle, ἐπιλῆθον, wrongly in Eustathius' judgment (Merry's critical note on 4.221).
 
-The Odyssey has other drugs. Ilus would not give Odysseus a man-slaying drug for his arrows (*Odyssey* 1.259–264; see [[odysseus-seeks-poison]] and [[ilus]]); Circe mixes baneful drugs into the food she serves Odysseus' companions “so that they might utterly forget their native land” (*Odyssey* 10.234–236, a plain rendering; see [[circe]]), and Hermes gives Odysseus a good drug against her (*Odyssey* 10.287–306). Circe's drugs make men forget their native land, Helen's makes them forget their grief.
+The Odyssey has other drugs (see [[drugs]]). Ilus would not give Odysseus a man-slaying drug for his arrows (*Odyssey* 1.259–264; see [[odysseus-seeks-poison]] and [[ilus]]); Circe mixes grim drugs into the food she serves Odysseus' companions “so that they might utterly forget their native land” (*Odyssey* 10.234–236; see [[circe]]), and Hermes gives Odysseus a good drug against her (*Odyssey* 10.287–306; see [[moly]]). Circe's drugs make men forget their native land, Helen's makes them forget their grief.
 
 {{notes}}
 

@@ -1,0 +1,7 @@
+---
+summary: The island of Aeolus is ringed by an unbreakable wall of bronze (10.3–4). Odysseus kills the stag with his bronze spear and slings on his great bronze sword to go to Circe (10.162–164, 10.262); the water of his bath boils in the gleaming bronze (10.360), and the sheep at the pit are slaughtered with the pitiless bronze (10.532).
+---
+
+**The wall of bronze.** Aeolus lives “on a floating island; and all around it is a wall / of bronze, unbreakable, and the rock runs up sheer” (10.3–4; see [[aeolia]] and [[aeolus]]). W. W. Merry wondered whether the floating island with its sheer sides might be a poetical reproduction of some Phoenician sailors' tale of an iceberg met in the north, its face of ice and glittering summit described by the wall of bronze and the sheer rock (*Commentary on the Odyssey*, 1886, on 10.3; see the translation's note on 10.1–3).
+
+**Bronze weapons and vessels.** The stag falls to “the bronze spear”, which passes straight through it (10.162–164; see [[spear]] and [[deer]]); the lots are shaken in a bronze-fitted helmet (10.206; see [[helmet]] and [[bronze-fitted]]); Odysseus' silver-studded sword is “great and made of bronze” (10.262; see [[sword]]). In Circe's house “the water had boiled in the gleaming bronze”, the cauldron of the tripod (10.360; see [[tripod]] and [[gleaming-bronze]]), and at the pit of the dead the sheep “lie there slaughtered with the pitiless bronze” (10.532; see [[pitiless-bronze]] and [[the-offering-to-the-dead]]).

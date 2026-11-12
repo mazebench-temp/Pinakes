@@ -12,6 +12,6 @@ of: [healing]
 
 ## Meaning
 
-πολυφάρμακος = πολύς (“many”) + φάρμακον (“drug”). A φάρμακον is any potent substance, a healing herb laid on a wound or a drug that works a charm or a harm: the soothing drugs that Machaon spreads on Menelaus' wound (4.218) and the baneful drugs that Circe mixes into the food of Odysseus' companions (*Odyssey* 10.235–236) are the same word. Homer gives the compound once to the healers and once to Circe. In the Iliad: “The healers, with their many drugs, are busy over them, / healing their wounds” (16.28–29), as Patroclus tells Achilles of the wounded leaders. In the Odyssey Odysseus goes up to the great house of Circe πολυφάρμακος (*Odyssey* 10.276). See [[healing]] and [[soothing-drugs]].
+πολυφάρμακος = πολύς (“many”) + φάρμακον (“drug”). A φάρμακον is any potent substance, a healing herb laid on a wound or a drug that works a charm or a harm: the soothing drugs that Machaon spreads on Menelaus' wound (4.218) and the grim drugs that Circe mixes into the food of Odysseus' companions (*Odyssey* 10.235–236) are the same word. Homer gives the compound once to the healers and once to Circe. In the Iliad: “The healers, with their many drugs, are busy over them, / healing their wounds” (16.28–29), as Patroclus tells Achilles of the wounded leaders. In the Odyssey Odysseus goes up to the great house of Circe πολυφάρμακος (*Odyssey* 10.276). See [[healing]] and [[soothing-drugs]].
 
 {{notes}}

@@ -2,7 +2,7 @@
 title: Changes of shape
 kind: theme
 tags: [divine-will, sea-deity]
-summary: Homer's gods take other shapes. They come among men in the likeness of mortals, birds or phantoms, and change the looks of mortals; and Proteus, the old god of the sea, turns into beasts, water and a tree to escape the men who hold him. Plato would allow no poet to tell such stories.
+summary: Homer's gods take other shapes. They come among men in the likeness of mortals, birds or phantoms, and change the looks of mortals, and Circe turns men into swine; Proteus, the old god of the sea, turns into beasts, water and a tree to escape the men who hold him. Plato would allow no poet to tell such stories.
 aliases: [shape-changing, shapeshifting, metamorphosis, transformation, changes of Proteus]
 ---
 
@@ -14,7 +14,7 @@ aliases: [shape-changing, shapeshifting, metamorphosis, transformation, changes 
 
 **Birds and phantoms.** Athena leaves Pylos in the likeness of a sea eagle (*Odyssey* 3.371–372; see [[phene]]). A god may also leave a likeness behind and go: Apollo makes a phantom of Aeneas for the armies to fight over (*Iliad* 5.449–453), and Athena makes a phantom like Penelope's sister Iphthime and sends it to her in a dream (*Odyssey* 4.795–797; see [[eidolon]] and [[iphthime]]).
 
-**Changing mortals.** The gods change the shapes of men as well. Athena touches Odysseus with her wand, withers his skin, takes the hair from his head and makes him an old beggar, and later gives him back his youth and color (*Odyssey* 13.429–433, 16.172–176; see [[odysseus]] and [[athena]]). Circe strikes Odysseus' companions with her wand and they have the heads, the voices, the bristles and the bodies of swine, but their minds are as before (*Odyssey* 10.237–240; see [[circe]]). Odysseus can make the change himself without a god: Helen tells how he disfigured himself with blows and slipped into Troy in the likeness of a beggar (*Odyssey* 4.244–250; see [[odysseus-enters-troy-as-a-beggar]]), and she herself, at the Wooden Horse, made her voice like the voices of the Achaean wives (*Odyssey* 4.277–279; see [[helen]]).
+**Changing mortals.** The gods change the shapes of men as well. Athena touches Odysseus with her wand, withers his skin, takes the hair from his head and makes him an old beggar, and later gives him back his youth and color (*Odyssey* 13.429–433, 16.172–176; see [[odysseus]] and [[athena]]). Circe strikes Odysseus' companions with her wand and they have the heads, the voices, the bristles and the bodies of swine, but their minds are as before, and with another drug she makes them men again, younger and taller than before (*Odyssey* 10.237–240, 10.388–396; see [[circe]]). Odysseus can make the change himself without a god: Helen tells how he disfigured himself with blows and slipped into Troy in the likeness of a beggar (*Odyssey* 4.244–250; see [[odysseus-enters-troy-as-a-beggar]]), and she herself, at the Wooden Horse, made her voice like the voices of the Achaean wives (*Odyssey* 4.277–279; see [[helen]]).
 
 ## Outside Homer
 

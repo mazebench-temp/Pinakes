@@ -336,7 +336,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | προγενέστερος | older | ὃς δὴ Φαιήκων ἀνδρῶν προγενέστερος ἦεν "who was one of the older Phaeacian men" (7.156 = 11.343: Merry on 7.156), as *Iliad* 2.555, 23.789 |
 | κάλλιον (with οὐ) | more honorable | (7.159: Merry on 7.159), as *Iliad* 24.52 |
 | ἱκέτης αἰδοῖος, ἱκετεύω | revered suppliant, come as a suppliant | ἱκέτῃσιν ἅμʼ αἰδοίοισιν "on revered suppliants" (7.165, 7.181), as *Iliad* 21.75; ἱκετεύω (7.292, 7.301), as *Iliad* 16.574 |
-| ἀνίη | vexation | (7.192; the noun only here in Homer), as the family "vex" (2.115, 2.190) |
+| ἀνίη | vexation | (7.192; again 12.223, 15.394, 17.446, 20.52), as the family "vex" (2.115, 2.190) |
 | μεσσηγύς | in between | (7.195), of space (Merry on 7.195) |
 | κλῶθες | the Spinners | κατὰ κλῶθες βαρεῖαι "the heavy Spinners" (7.197; only here in Homer: see the note) |
 | κατακρύπτω | hide oneself | οὔ τι κατακρύπτουσιν "they do not hide themselves at all" (7.205: Merry on 7.205), as 4.247 |
@@ -434,6 +434,69 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ὀίομαι (a presentiment) | forebode; suspect | αὐτίκα γάρ μοι ὀίσατο θυμὸς ἀγήνωρ "for at once my proud spirit foreboded" (9.213: Merry on 9.214), ἤ τι ὀισάμενος "either because he suspected something" (9.339: Merry on 9.339), where 1.323 has "thought" |
 | ἀμηχανίη | helplessness | ἀμηχανίη δʼ ἔχε θυμόν "and helplessness held our hearts" (9.295; only here in Homer) |
 | λύγοι | willow shoots | ἐυστρεφέεσσι λύγοισιν "with well-twisted willow shoots" (9.427: Merry on 9.427), as *Iliad* 11.105; again 10.166 |
+| πλωτή (of an island) | floating | Αἰολίην δʼ ἐς νῆσον … πλωτῇ ἐνὶ νήσῳ "to the island of Aeolia … on a floating island" (10.1, 10.3: see the note) |
+| ταμίης ἀνέμων | dispenser of the winds | (10.21: Merry on 10.21), extending ταμίης πολέμοιο "dispenser of war" (*Iliad* 4.84) |
+| ἀσκός | skin | ἀσκὸν βοός "a skin of an ox" (10.19; 10.45, 10.47), as ἀσκὸν μέγαν "a great skin" (9.212) and ἀσκὸν … μέλανος οἴνοιο "a skin of dark wine" (5.265): the "bag of the winds" of the stories is a skin in the translation |
+| βυκτής, μέρμις | blustering, cord | βυκτάων ἀνέμων "the blustering winds" (10.20, only here); μέρμιθι φαεινῇ "with a shining cord" (10.23: Merry on 10.23) |
+| πυρπολέω | tend fires | πυρπολέοντας "men tending fires" (10.30: Merry on 10.30) |
+| πόδα νηὸς νωμάω | handle the sheet | αἰεὶ γὰρ πόδα νηὸς ἐνώμων "for I was always handling the sheet of the ship" (10.32: Merry on 10.32), πόδες "sheets" (5.260) |
+| ἀφραδίη, ματίη | folly | αὐτῶν … ἀφραδίῃσιν "through our own folly" (10.27, as 9.361), ἡμετέρῃ ματίῃ "through our own folly" (10.79, ματίη only here in Homer) |
+| ἔρρε | Off with you | ἔρρʼ ἐκ νήσου θᾶσσον "Off with you from the island, quickly" (10.72, 10.75), as *Iliad* 8.164 |
+| ποιμήν (of herdsmen) | herdsman | ποιμένα ποιμήν "herdsman hails herdsman" (10.82: see the note on 10.82–86), where the Iliad's ποιμὴν λαῶν is "shepherd of the people" |
+| λευκὴ γαλήνη | a white calm | (10.94), γαλήνη "calm" (5.391) |
+| σκοπιὴν ἐς παιπαλόεσσαν ἀνελθών | I climbed to a rugged lookout | (10.97, 10.148, 10.194) |
+| λείη ὁδός; κρήνη καλλιρέεθρος | a smooth road; a fair-flowing spring | (10.103: Merry on 10.103; 10.107) |
+| ἀνδραχθής; κόναβος | each a load for a man; din | ἀνδραχθέσι χερμαδίοισιν "with stones, each a load for a man" (10.121: Merry on 10.121); κόναβος "din" (10.122), as κοναβίζω "ring" (*Iliad* 2.466) |
+| ἐπηρεφής | overhanging | ἐπηρεφέας … πέτρας "the overhanging rocks" (10.131: Merry on 10.131), as *Iliad* 12.54; πέτραι ἐπηρεφέες (12.59) |
+| αὐτοκασιγνήτη | own sister | (10.137), as αὐτοκασίγνητος "own brother" (*Iliad* 2.706) |
+| φαεσίμβροτος | who brings light to mortals | Ἠελίοιο φαεσιμβρότου (10.138; 10.191), as *Iliad* 24.785 |
+| περιωπή | a lookout | (10.146), as *Iliad* 14.8 |
+| ἐνοπή | voices | ἔργα ἴδοιμι βροτῶν ἐνοπήν τε πυθοίμην "see the works of mortals and hear their voices" (10.147), of human life heard from afar; the Iliad's ἐνοπή is "cries" of battle (3.2, 12.35) and "sound" of flutes (10.13) |
+| αἶθοψ (of smoke) | fiery | αἴθοπα καπνόν "the fiery smoke" (10.152: Merry on 10.152, "fire-lit … shining with a ruddy glow"), αἶθοψ of smoke only here; it is "gleaming" of bronze and "sparkling" of wine |
+| ἄκνηστις; καταλοφάδεια | spine; on my neck | (10.161: Merry on 10.161); (10.169: Merry on 10.169) |
+| θηρίον | beast | μάλα γὰρ μέγα θηρίον ἦεν "for it was a very great beast" (10.171, 10.180), the stag |
+| ὅσον τʼ ὄργυιαν | about a fathom's length | (10.167), as 9.325; πεῖσμα "cable" (10.167), as the Odyssey's πείσματα "cables" (6.269) |
+| ἐστεφάνωται | is set as a crown | ἣν πέρι πόντος ἀπείριτος ἐστεφάνωται "all around which the boundless sea is set as a crown" (10.195), as *Iliad* 5.739 |
+| ἀνδροφάγος | eater of men | (10.200) |
+| πρῆξις | profit | οὐ γάρ τις πρῆξις ἐγίγνετο μυρομένοισιν "but there was no profit for them in their weeping" (10.202 = 10.568), as *Iliad* 24.524; "business" of a voyage (3.72) |
+| βῆσσα | glen | ἐν βήσσῃσι "in the glens" (10.210, 10.252), ἱερὰς ἀνὰ βήσσας "through the sacred glens" (10.275), the Iliad's key word ("glades" only at *Iliad* 3.34) |
+| λύκοι ὀρέστεροι; σαίνω, περισσαίνω | mountain wolves; fawn | (10.212; 10.215–219) |
+| μειλίγματα θυμοῦ | tidbits to please their hearts | (10.217: Merry on 10.217, "tit-bits to appease their appetite") |
+| κρατερῶνυξ (of beasts) | strong-clawed | λύκοι κρατερώνυχες ἠδὲ λέοντες "the strong-clawed wolves and lions" (10.218), where the Iliad's horses are "strong-hoofed" (5.329) |
+| ἱστὸν ἐποιχομένη | walking to and fro at the loom | (10.222, 10.226, 10.254), as 5.62 and *Iliad* 1.31 |
+| κήδιστος … κεδνότατος | the nearest and dearest | (10.225: Merry on 10.225) |
+| ἀμφιμέμυκεν | rings all round | δάπεδον δʼ ἅπαν ἀμφιμέμυκεν "and the whole floor rings all round with it" (10.227: Merry on 10.227); περιστεναχίζεται "resounds round about" (10.10) and "groaned round about" (10.454) |
+| φθέγγοντο καλεῦντες | lifted up their voices and called | (10.229, 10.255: Merry on 10.229) |
+| ἀιδρείῃσιν | in their ignorance | (10.231, 10.257); ἀιδρείῃ "in his ignorance" (12.41), ἀιδρείῃσι νόοιο "in the ignorance of her mind" (11.272) |
+| ὀισάμενος δόλον εἶναι | suspected a trick | (10.232, 10.258) |
+| κυκάω (of a drink), κυκεών | made a mixture, mixed drink | κύκα … οἴνῳ Πραμνείῳ "made a mixture … with Pramnian wine" (10.234–235), as *Iliad* 11.638–639; κυκεῶ "a mixed drink" (10.290, 10.316), as *Iliad* 11.624 |
+| ῥάβδος, συφεοί | wand, sties | (10.238, 10.293, 10.319), as χρυσόρραπις "of the golden wand" (10.277; 5.87); συφεοῖσιν "the sties" (10.238); κευθμῶνας "sties" (10.283: Merry on 10.283) |
+| ἄκυλος, βάλανος, κράνεια | ilex acorns, oak acorns, cornel | (10.242: Merry on 10.242) |
+| χαμαιευνάς; ἀδευκὴς πότμος | that sleep on the ground; bitter fate | (10.243; 10.245), as ἀδευκής (4.489, 6.273) |
+| γόον δʼ ὠίετο θυμός | his heart was set on lamenting | (10.248: Merry on 10.248) |
+| ἀιστόω; σκοπιάζω | vanish; keep watch | (10.259; 10.260) |
+| πολυφάρμακος | skilled in many drugs | Κίρκης … πολυφαρμάκου (10.276) |
+| τῆ | Here, take | (10.287), as *Iliad* 14.219 |
+| δήνεα | thoughts | ὀλοφώια δήνεα Κίρκης "the baneful thoughts of Circe" (10.289), as ἤπια δήνεα "kindly thoughts" (*Iliad* 4.361); "wiles" is kept for ὀλοφώια as a noun (4.410) |
+| φύσις; μῶλυ | nature; moly | (10.303, φύσις only here in Homer: Merry on 10.303); (10.305: see the note) |
+| ἀκήλητος | that cannot be bewitched | ἀκήλητος νόος (10.329: Merry on 10.329), beside θέλγω "bewitch" |
+| κακὸς καὶ ἀνήνωρ | a coward and unmanned | (10.301, 10.341), as κακὸν καὶ ἄναλκιν "a coward and a weakling" (3.375); ἀπογυμνωθέντα "when you are stripped" (10.301: Merry on 10.301) |
+| δρήστειρα; λῖτα; κάνεια | serving woman; linen cloths; baskets | (10.349; 10.353, "a cloth" at 1.130; 10.355, as 1.147) |
+| θυμῆρες | to suit my heart | θυμῆρες κεράσασα "mixing it to suit my heart" (10.362: Merry on 10.362) |
+| θυμοφθόρος | that destroys life; that destroys the heart | κάματον θυμοφθόρον "the weariness that destroys life" (10.363), as φάρμακα θυμοφθόρα (2.329), beside ἄχος θυμοφθόρον "grief that destroys the heart" (4.716) |
+| ἀλλοφρονέων; ἶσος ἀναύδῳ | with my thoughts elsewhere; like a man without speech | (10.374: Merry on 10.374), where *Iliad* 23.698 has "his wits wandering"; (10.378) |
+| θαλερὸς γόος | swelling lament | (10.457: Merry on 10.457) |
+| ἀσκελής, ἄθυμος; ἄλη | withered, spiritless; wandering | (10.463: Merry on 10.463, the physical sense; ἀσκελές "stubbornly" is the adverb of 1.68, 4.543); (10.464) |
+| μάντις ἀλαός; σκιαί | the blind seer; shadows | (10.493; 12.267); (10.495: Merry on 10.494–495) |
+| ὠλεσίκαρπος | that lose their fruit | ἰτέαι ὠλεσίκαρποι (10.510: Merry on 10.510) |
+| βόθρος, πυγούσιον; χοή; μελίκρητον | pit, cubit; drink offering; honey and milk | (10.517; 10.518; 10.519: Merry on 10.517–519), again 11.25–27 |
+| ἀμενηνὰ κάρηνα | the strengthless heads | (10.521, 10.536; 11.29, 11.49), as ἀμενηνός (*Iliad* 5.887) |
+| στεῖρα βοῦς; ἔθνεα νεκρῶν | a barren heifer; the tribes of the dead | (10.522; 11.30); (10.526; 11.34, 11.632) |
+| νεκύων κατατεθνηώτων | the dead who have died | (10.530; 11.37, 11.541, 11.564), of the souls; in the Iliad of the corpses on the field, "the corpses of the dead" (7.409, 10.343, 10.387) |
+| ἀωτέω; φρεσὶν ᾗσιν ἀρηρώς | drowse; sound in his wits | (10.548: Merry on 10.548); (10.553: Merry on 10.553) |
+| ψῦχος; κλῖμαξ | cool air; ladder | (10.555; 10.558, 11.63: Merry on 10.558) |
+| καταντικρύ | straight down | καταντικρὺ τέγεος πέσεν "fell straight down from the roof" (10.559; 11.64), where "headlong" is kept for πρηνής |
+| εἰς Ἄϊδος | to the house of Hades | (10.502, 10.512 Ἀίδεω δόμον), as *Iliad* 13.415: Ἀΐδης is a person, not a place (Merry's critical note on 10.502); Ἄϊδόσδε "to Hades" (10.560) |
 
 ## Epithets and formulas of the Odyssey
 
@@ -659,12 +722,25 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | Ζηνὶ κελαινεφέι Κρονίδῃ, ὃς πᾶσιν ἀνάσσει | to Zeus, lord of the dark clouds, son of Cronus, who rules over all (9.552; again 13.25), κελαινεφής as *Iliad* 1.397 |
 | ‘ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθʼ ὑγρὰ κέλευθα; … | Strangers, who are you? From where do you sail the watery ways? … (9.252–255 = 3.71–74) |
 | ἵνα τοι πὰρ ξείνια θείω | so that I may set good cheer before you (9.517), as 5.91 and *Iliad* 18.387 |
+| κέκλυτέ μευ μύθων, κακά περ πάσχοντες ἑταῖροι | Hear my words, my companions, though you are suffering evils (10.189; again 12.271, 12.340) |
+| μειλιχίοις ἐπέεσσι παρασταδὸν ἄνδρα ἕκαστον | with soothing words, standing beside each man (10.173 = 10.547; again 12.207) |
+| ὣς ἐφάμην, τοῖσιν δὲ κατεκλάσθη φίλον ἦτορ | So I spoke, and their dear heart was broken (10.198, 10.566), as 9.256 |
+| ἀλλʼ οὐ γάρ τις πρῆξις ἐγίγνετο μυρομένοισιν | but there was no profit for them in their weeping (10.202 = 10.568) |
+| εἷσε δέ μʼ εἰσαγαγοῦσα ἐπὶ θρόνου ἀργυροήλου / καλοῦ δαιδαλέου· ὑπὸ δὲ θρῆνυς ποσὶν ἦεν | She led me in and seated me on a silver-studded chair, / fine and intricately worked; and there was a footstool under my feet (10.314–315 = 10.366–367) |
+| ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀπώμνυεν, ὡς ἐκέλευον | So I spoke, and at once she swore that she would not, as I bade her (10.345; of the companions 12.303), after 2.377 |
+| ἡ δέ μευ ἄγχι στᾶσα προσηύδα δῖα θεάων | And she came and stood near me and spoke, brilliant among goddesses (10.400 = 10.455), after 4.370 |
+| νῆα μὲν ἂρ πάμπρωτον ἐρύσσατε ἤπειρόνδε, / κτήματα δʼ ἐν σπήεσσι πελάσσατε ὅπλα τε πάντα | First of all drag the ship up onto the land, / and put your possessions and all the tackle away in caves (10.403–404; "let us drag … our possessions", 10.423–424) |
+| ὣς ἔφατʼ, αὐτὰρ ἐμοί γʼ ἐπεπείθετο θυμὸς ἀγήνωρ | So she spoke, and my proud spirit was persuaded (10.406; "So they spoke", 10.475); ὣς ἐφάμην, τοῖσιν δʼ ἐπεπείθετο θυμὸς ἀγήνωρ "So I spoke, and their proud spirit was persuaded" (10.550; again 12.324), as ἡμῖν δʼ … "our proud spirit" (10.466 = 2.103) |
+| ἀλλʼ ἄγετʼ ἐσθίετε βρώμην καὶ πίνετε οἶνον | But come, eat food and drink wine (10.460; again 12.23) |
+| εἰς Ἀίδαο δόμους καὶ ἐπαινῆς Περσεφονείης, / ψυχῇ χρησομένους Θηβαίου Τειρεσίαο | to the house of Hades and of dread Persephone, / to consult the soul of Theban Teiresias (10.491–492 = 10.564–565; 11.164–165 in the first person) |
+| ὣς ἔφατʼ, αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς | So she spoke, and at once Dawn of the golden throne came (10.541; again 12.142, 15.56, 20.91) |
+| ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα / ἥμεθα, δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ | So all day long, until the sun went down, / we sat feasting on untold meat and sweet wine (10.183–184 = 10.476–477, as 9.161–162; the second verse also 10.468; again 12.29–30) |
 
 ## Places where the Greek is disputed
 
 Merry is cited from W. W. Merry, J. Riddell and D. B. Monro, *Commentary on the Odyssey* (1886), as
 digitized by Perseus (1.1–2.66 and Book 3) and as scanned from the Clarendon Press volume at the
-Internet Archive (2.67–434, Books 4–9, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
+Internet Archive (2.67–434, Books 4–10, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
 is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 
 - **1.1** — πολύτροπον "of many turns": Merry (on 1.1) glosses "of many devices" (*versutus*), a word found again only at 10.330, with many equivalents (πολύμητις, πολύφρων, πολυμήχανος, ποικιλόμητις); Nitzsch took it as πολύπλαγκτος, with ὃς μάλα πολλὰ πλάγχθη as its explanation. The English keeps both the turns of the mind and the wanderings. Livius Andronicus rendered the line "Virum mihi, Camena, insece versutum" (Merry on 1.1).
@@ -1343,3 +1419,86 @@ is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 - **9.543–546** — the apodosis begins with νῆα μέν (546), as 12.1–5 (Merry on 9.543).
 - **9.550** — ἀρνειόν, the ram by which he escaped (Merry on 9.550).
 - **9.553** — ἐμπάζετο: Zeus refused to notice the offering, because the prayer of Polyphemus had been heard and would be answered (Merry on 9.553).
+- **10.1–3** — πλωτῇ ἐνὶ νήσῳ "on a floating island": Aristarchus glossed πλωτή as φορητή, "floating", and Merry prefers it, citing Herodotus on Chemmis and Pindar on Delos; Crates took it as "accessible to ships", and Nitzsch leans that way; Merry also floats the notion of an iceberg (Merry on 10.3).
+- **10.10** — περιστεναχίζεται αὐλῇ "resounds round about in the court": αὐλῇ a local dative, epexegetical of περί, the house sending out its sounds into the outer court (Merry on 10.10). Variants αὐλή and αὐδῇ (Cod. Vind. 133); Schäfer took αὐλῇ as "with fluting", and Düntzer and Nauck read περιστεναχίζετʼ ἀοιδῇ (Merry's critical note).
+- **10.16** — Murray prints καὶ μὲν ἐγώ with the manuscripts; Merry prints αὐτὰρ ἐγώ, Bekker's and Nauck's reading from Cod. Vindob. 56 (his critical note).
+- **10.17** — ὁδόν "to be on my way": "leave to depart" (Merry on 10.17).
+- **10.19** — δῶκε δέ μʼ: all the manuscripts have δῶκε δέ μοι except Cod. Vrat. (δῶκέ μοι, followed by Wolf); ἐκδείρας tells how Aeolus came by the skin, not when he gave it (Merry on 10.19 and his critical note). ἀσκός is "skin", as 5.265 and 9.212.
+- **10.40** — ἐκ Τροίης "from Troy": Aristarchus took Τροίης as an adjective with ληίδος, "Trojan spoil"; Merry takes it "from the land of Troy" (Merry on 10.40).
+- **10.43–44** — Αἴολος opens 44 as the enjambed subject; the English turns the verb passive ("these things have been given him … by Aeolus") to keep the name on its line.
+- **10.65** — Murray prints ὄφρʼ ἀφίκοιο; Merry prints ἂν ἵκηαι, Bekker ii ἂν ἵκοιο; Merry notes that a subjunctive after a past tense is exceptional in Homer (his critical note).
+- **10.70** — Zenodotus read μαλακοῖσιν ἀμειβόμενος, which Schol. H. prefers: Odysseus does not reproach Aeolus but supplicates him (Merry's critical note).
+- **10.81–86** — Λάμου αἰπὺ πτολίεθρον: Merry takes Lamus as a name of the king and Τηλέπυλος as "big-gated" (Merry on 10.81). Of the herdsmen whose paths are close together, the one driving in at nightfall is the shepherd with his flock, the one driving out the neatherd with his herd; the scholia explained the double wages by gadflies, Crates by the short nights of the north (citing Aratus), and Merry by an evening twilight that runs into the dawn (his long note, which begins under the heading 81).
+- **10.87–88** — τετύχηκε "stands", of the cliff, like τέτυκται; διαμπερές shows that the wall of cliff ran unbroken from one side to the other (Merry on 10.88).
+- **10.91** — ἔνθʼ οἵ γʼ … ἔχον "there they all steered", the apodosis to 87 (Merry on 10.91).
+- **10.103** — λείη ὁδός, a road cleared for use; ἐκβάντες keeps its sense "disembarking" (Merry on 10.103). A variant ᾗ κεν ἄμαξαι (Merry's critical note).
+- **10.106** — ἰφθίμῃ "strong", of a woman, as the Iliad (5.415, 19.116); the name Ἰφθίμη is another word (4.797).
+- **10.108** — Ἀρτακίη, the spring of the Laestrygonians, named only here.
+- **10.114** — Ἀντιφατῆα, as if from Ἀντιφατεύς: Merry reports that Eustathius pairs Γηρυόνης and Γηρυονεύς; the lexicon keeps it under Ἀντιφάτης, the king of 106.
+- **10.124** — ἰχθῦς δʼ ὣς πείροντες "spearing them like fish": Aristophanes read εἴροντες, Apollonius the Sophist ἀσπαίροντας, and a variant has δαῖτα πένοντο (Merry's critical note, whose attributions are partly garbled in the scan).
+- **10.130** — ἅλα, with Callistratus and Rhianus; most manuscripts and Apollonius have ἅμα, some ἄρα; Merry prefers ἅλα for the formula ἀναρρίπτειν ἅλα πηδῷ (7.328, 13.78) (Merry on 10.130 and his critical note).
+- **10.135** — Αἰαίη: on the position of Circe's island, east or west, see Merry on 10.135 and on 12.3. A reading οὐδήεσσα was attributed to Aristotle at 136; Merry thinks Aristotle wrote αὐλήεσσα (his critical note on 10.136).
+- **10.147** — ἐνοπή "voices" here, of the sounds of human life heard from afar (the Iliad has "cries" and once "sound").
+- **10.152** — αἴθοπα καπνόν "the fiery smoke": "fire-lit … shining with a ruddy glow" (Merry on 10.152).
+- **10.172** — the text prints κὰδʼ δʼ, with a stray elision mark (κὰδ δʼ at 9.482 and 10.163), as at 9.539: left as printed.
+- **10.189** — the double opening (κέκλυτε … ὦ φίλοι) is "quite contrary to Homeric custom"; Callistratus thought the line was put in front by someone who did not know Homer's way of opening with γάρ (Merry on 10.189 and his critical note).
+- **10.190** — ζόφος … ἠώς: Crates and Strabo took ζόφος as the north; Merry takes the pair together simply as "everywhere" (Merry on 10.190).
+- **10.200** — a variant ἀνδροφόνοιο for ἀνδροφάγοιο (Merry's critical note). Κύκλωπός τε βίης "of the mighty … Cyclops": βίη with a person's genitive, the Iliad's periphrasis.
+- **10.211** — περισκέπτῳ ἐνὶ χώρῳ "in a place with a view all round": open ground, a clearing in the wood or a place where valleys meet (Merry on 10.211); Döderlein "sheltered", from σκέπας (reported by Merry).
+- **10.212–213** — μιν refers to Circe rather than to the house (Merry on 10.212); κατέθελξεν: beasts tamed by her drugs, or men transformed (the scholia, and Scaliger on Aeneid 7.19, as Merry reports them).
+- **10.215–219** — the beasts stood on their hind legs to fawn on the men (Merry on 10.215); ἔδεισαν, probably Aristarchus' reading, is in Eustathius (Merry's critical note on 10.219).
+- **10.220** — ἐν προθύροισι "in the doorway" is Aristarchus' reading, adopted since Wolf; nearly all the manuscripts have εἰνὶ θύρῃσι (Merry's critical note).
+- **10.240** — Zenodotus read καὶ πόδας for καὶ δέμας; Merry would read νόος, since νόος is not found contracted in Homer (νοῦς only here) (Merry on 10.240 and his critical note).
+- **10.242** — "Aristarchus did not know the line"; Callistratus wrote another verse in its place (Merry's critical note, partly garbled in the scan).
+- **10.244** — Murray prints αἶψʼ with the manuscripts, "at once"; Voss conjectured ἂψ, "back", which Merry prints and most editors accept (his critical note).
+- **10.253** — wanting in most manuscripts and in Eustathius; Apollonius Dyscolus inserts 212 in its place (Merry's critical note). Murray prints it (= 211).
+- **10.262** — ἀμφὶ δὲ τόξα: βαλόμην is to be supplied again, the bow too slung about the shoulders (Merry on 10.262).
+- **10.265** — omitted by most manuscripts and bracketed since Wolf (Merry's critical note); Murray prints it.
+- **10.268** — σῶν: Aristarchus took it as σῶον, "safe"; Merry calls that a pedantic distinction and prefers "your" (Merry on 10.268).
+- **10.289** — ὀλοφώια δήνεα "the baneful thoughts": δήνεα is "thoughts" at its only other use (Iliad 4.361 ἤπια δήνεα); "wiles" is kept for ὀλοφώια as a noun (4.410).
+- **10.295** — the text prints ἐπαῖξαι; the aorist infinitive is ἐπαΐξαι (Iliad 5.263, 7.240, 12.308, 13.513, and Merry's text), as the verse needs: a slip, left as printed.
+- **10.301** — θήῃ is Aristarchus' reading (Murray prints it), θείῃ the manuscripts'; ἀπογυμνωθέντα "when you are stripped" (Merry), "without his sword" (the scholion, as Merry reports it) (Merry on 10.301 and his critical note).
+- **10.303** — φύσις, only here in Homer, the plant's outward form, like φυή (Merry on 10.303).
+- **10.305** — μῶλυ: most likely the poet's own invention (Merry on 10.305), who reports Eustathius' allegory, Theophrastus (*Historia plantarum* 9.15), Sprengel's *Allium nigrum* and the scholia's wild rue.
+- **10.306** — δύνανται (Schol. H.); the best manuscripts have ἴσασι, perhaps a reminiscence of 4.379 (Merry's critical note).
+- **10.325** — εἰς, here as at 1.170, where the same verse later has εἶς (14.187, 15.264, 19.105, 24.298): left as printed.
+- **10.326** — ὡς "how", which Merry keeps against Bekker's πῶς as "suggesting not only the fact but the manner" (Merry on 10.326).
+- **10.328** — ὅς κε πίῃ … ἀμείψεται, a general relative clause: "whoever drinks them, once they have passed" (Merry on 10.328).
+- **10.329** — the scholia's objection to the line; Merry finds the difficulty more apparent than real (his critical note).
+- **10.348–351** — Nitzsch rejects 348 ff., Köchly agreeing; Merry suspects 350–351 (the present γίγνονται is awkward, and the maids read like Naiads, Dryads and Nereids); the scholia allegorize the four maids as the seasons (Merry on 10.350–351 and his critical note).
+- **10.353** — λῖτα (λῖθʼ) "linen cloths" here, "a cloth" at 1.130; some take it as a neuter plural (Merry on 10.353).
+- **10.365–366** — 365 belongs to the ἐπεί clause; the main clause begins at 366 (Merry on 10.366).
+- **10.368–372** — = 4.52–56; Köchly calls them borrowed and inept in Circe's house; La Roche thinks them no older than the thirteenth century, unknown to Eustathius and the scholia (Merry's critical note).
+- **10.374–378** — a variant στυγερόν for κρατερόν (376); ἀγχοῦ δʼ ἱσταμένη (377); ἕζεαι against ἕζεο (378) (Merry's critical notes). ἀλλοφρονέων "with my thoughts elsewhere" (Merry on 10.374).
+- **10.380** — the Greek ends the clause with a high stop and ἦ … που, "surely, I suppose"; the English makes it a question.
+- **10.385** — λύσασθαι, the middle, of Odysseus' own act; λῦσον (387) of Circe's (Merry on 10.385).
+- **10.390** — ἐννεώροισιν "nine years old" (as 10.19 and Iliad 18.351), or "of nine seasons" (Merry on 10.390).
+- **10.410–414** — the calves of the fields round the cows coming back from pasture; σκαίρουσιν is indicative after ὡς δʼ ὅτʼ ἄν, an anacoluthon, and Bekker conjectured σκαίρωσιν (Merry on 10.410–414).
+- **10.416** — αὐτήν (Aristarchus) against αὐτῶν (all the manuscripts but Cod. Aug.) (Merry's critical note).
+- **10.425** — the common reading ὀτρύνεσθʼ ἵνα … ἕπησθε (Merry's critical note).
+- **10.429** — ἐρύκακε (La Roche, Nauck) (Merry's critical note).
+- **10.430** — wanting in most manuscripts (Merry's critical note).
+- **10.435** — ἔρξʼ "penned them in", from ἔργω (ἐέργω), as 14.411, so Merry, answering Eustathius' objection that the Cyclops did not set his captives to guard his cave but ate them; others take it from ἕρδω, "as the Cyclops did" (Merry on 10.435).
+- **10.437** — καὶ κεῖνοι against κἀκεῖνοι (Merry's critical note).
+- **10.440** — ἀποπλήξας against ἀποτμήξας (Merry's critical note).
+- **10.453** — φράσσαντό τʼ ἐσάντα "knew each other face to face", against the manuscripts' πάντα (Merry on 10.453 and his critical note).
+- **10.456** — omitted by Murray. Wolf bracketed it, because a plural imperative follows an address to Odysseus; Merry would keep it, citing ἡμῖν at 466 (his critical note).
+- **10.457** — Aristophanes read στυγερὸν γόον (Merry's critical note).
+- **10.463** — ἀσκελέες "withered", the physical sense (Merry on 10.463), against the adverb ἀσκελές "stubbornly" (1.68, 4.543).
+- **10.465** — πέποσθε: Merry would adopt Aristarchus' πέπασθε, a perfect of πάσχω, not "acquired" in Eustathius' sense (Merry on 10.465).
+- **10.469–470** — περὶ … ἔτραπον "returned in their course", beginning the circuit of a new year, unlike ἐπήλυθον ὧραι (2.107) (Merry on 10.469). 470 has been rejected since Wolf; Merry thinks it probably from Hesiod (*Theogony* 59) and takes the "long days" as the days of spring (Merry's critical note).
+- **10.474** — Merry's text has οἶκον ἐυκτίμενον (6.315 "your well-built house"), where Murray prints οἶκον ἐς ὑψόροφον (7.77).
+- **10.475–479, 482** — missing in three manuscripts and in Eustathius; Wolf and Bekker reject them, and Merry's text brackets them (his critical note).
+- **10.483, 10.501** — the text prints ὢ Κίρκη; the address is ὦ Κίρκη at 337 and 383, and Merry prints Ὦ: a slip, left as printed. The promise of 483 is nowhere stated outright (Merry on 10.483).
+- **10.491** — ἐπαινή "dread", as Iliad 9.457; its meaning, "praiseworthy" or "dread", is disputed (Merry on 10.491).
+- **10.493** — μάντηος against μάντιος (Merry's critical note).
+- **10.495** — Plato reads ταὶ δέ (Merry's critical note).
+- **10.502** — εἰς Ἄϊδος "to the house of Hades": Ἀΐδης is always a person and not a place in Homer; Fäsi read a form in -δε (Merry's critical note, garbled in the scan).
+- **10.509** — ἀκτή τε λάχεια "a shore of good soil" (λάχεια, 9.116); the scholion says it is not ἐλάχεια (Merry on 10.509 and his critical note).
+- **10.516–537** — Circe's instructions for the pit, the libations, the vows and the sacrifice are carried out in the first person at 11.25–50, with the same English.
+- **10.532** — κατάκειτʼ, which Merry calls "quite necessary"; κατέκειτʼ is carried over from 11.45 (his critical note).
+- **10.545** — Aristarchus read ἐφύπερθε (Merry's critical note).
+- **10.548** — ἀωτεῖτε "drowsing": from "breathe", or as "pluck the flower of sleep" (Merry on 10.548).
+- **10.549** — two Vienna manuscripts read θέσφατα for πότνια, which Bekker would adopt (Merry's critical note).
+- **10.552–560** — Elpenor, the youngest, sleeps on the roof for the cool air and falls when the noise wakes him (Merry on 10.558, on the ladder from the roof); καταντικρύ "straight down" (again only 11.64).
+- **10.567** — κατʼ αὖθι (Merry's critical note).

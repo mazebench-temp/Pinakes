@@ -1,0 +1,7 @@
+---
+summary: Odysseus answers Aeolus “grieving at heart” (10.67), and the ships sail on from each loss “grieving at heart” (10.77, 10.133). On Aeaea he bids his men eat, “for all our grief” (10.174); Eurylochus comes back “stricken at heart with great grief” (10.247), Odysseus follows Circe into her house “grieving at heart” (10.313), and the companions go down to the ship for the journey to Hades “grieving” (10.570).
+# ἀχνύμενοι (10.174, 10.570; again 11.5, 11.466, 12.12, 12.250, 16.147, 24.420), ἀκαχήμενος (10.313; again 13.286, 15.481, 20.84).
+grc: [ἀχνύμενοι, ἀκαχήμενος]
+---
+
+The refrain of departure, “From there we sailed on, grieving at heart” (ἀκαχήμενοι ἦτορ), follows Aeolus' refusal and the Laestrygonians' harbor (10.77, 10.133; see [[from-there-we-sailed-on]] and [[etor]]). Odysseus' plea to Aeolus is spoken “grieving at heart” (ἀχνύμενος κῆρ, 10.67; see [[ker-heart]]). On Aeaea grief is what must not keep the men from eating: “Friends, we shall not go down yet, for all our grief, / into the house of Hades, before our fated day comes upon us” (ἀχνύμενοί περ, 10.174–175; see [[moira]] and [[hetairos]]). Eurylochus comes back from Circe's house unable to speak, “stricken at heart with great grief” (κῆρ ἄχεϊ μεγάλῳ βεβολημένος, 10.247; see [[lament]]); Odysseus enters it, the moly in his hand, and “followed, grieving at heart” (ἀκαχήμενος ἦτορ, 10.313); and at the end of the book the companions walk down to the ship “grieving, shedding big tears” (ἀχνύμενοι, 10.570; see [[tears]]), the verse with which they will go on in Book 11 (11.5).

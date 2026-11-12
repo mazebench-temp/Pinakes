@@ -4,13 +4,13 @@ greek: ἤπια φάρμακα
 kind: ritual
 tags: [body]
 summary: The healer's craft in Homer: drawing or cutting out the missile, washing the wound, sucking out the blood and spreading on soothing drugs. Its masters are Machaon and Podalirius, sons of the healer Asclepius, who had his drugs from the Centaur Chiron.
-aliases: [healer, healers, physician, medicine, drugs, iatros]
+aliases: [healer, healers, physician, medicine, iatros]
 grc: [ἰητὴρ, ἰητῆρος, φάρμαχʼ, φάρμακα, ἕλκος, ἐπιμάσσεται, ἐκμυζήσας, ἀμφεπένοντο]
 en: [healer, healers, drugs, wound, examine, sucked out the blood, busy about]
 # ἀμφεπένοντο at 19.278: the Myrmidons busy themselves with the gifts, not with a wound.
 # ἀμφεπένοντο at 21.203: the eels and fishes busy themselves about the dead Asteropaeus.
 # ἀμφεπένοντο at 23.184: no dogs busy themselves about Hector's body.
-except: [19.278, 21.203, 23.184]
+except: [19.278, 21.203, 23.184, Od. 10.236, Od. 10.290]
 passages:
   - 4.188-219 | Machaon heals Menelaus
 ---

@@ -1,0 +1,8 @@
+---
+summary: Circe recognizes Odysseus by a prophecy: Hermes “always told me / you would come” (10.330–332). She sends him to the house of Hades to consult “the blind seer” Teiresias, who alone among the dead has kept his mind, and who will tell him the way and his homecoming (10.490–495, 10.538–540).
+refs: [10.330-332, 10.538-540]
+---
+
+**A prophecy fulfilled.** When her drug has failed, Circe knows who her guest must be: “Surely you are Odysseus of many turns; he always told me / you would come, the slayer of Argus of the golden wand, / returning from Troy in your swift black ship” (10.330–332; see [[of-many-turns]] and [[hermes]]). So the Cyclops knew the prophecy of Telemus only when Odysseus shouted his name (9.507–512; see the Book 9 note). Merry counts Circe, who can tell what will happen on the voyage to Hades, among the gods who show the knowledge that the poem ascribes to them (W. W. Merry, *Commentary on the Odyssey*, 1886, on 4.379; 10.490).
+
+**The seer among the dead.** Circe sends him “to consult the soul of Theban Teiresias, / the blind seer, whose wits are steadfast” (10.492–493; see [[teiresias]], [[the-blind-seer]], [[divination]] and [[psyche]]), with the verb of consulting an oracle, as Agamemnon crossed the threshold at Pytho “to consult the oracle” (χρησόμενος, 8.81; see [[the-offering-to-the-dead]]). “Then the seer will come to you at once, leader of the people, / he will tell you the way and the measures of your path / and your homecoming, how you shall go over the fish-filled sea” (10.538–540; see [[nostos]]), in the verses with which Eidothea promised Menelaus what Proteus would tell him (4.389–390; see [[proteus]]). Teiresias' prophecy is given in Book 11 (11.100–137).

@@ -1,0 +1,7 @@
+---
+summary: Circe tells Odysseus to sacrifice a ram and a black ewe to the dead, turning them toward Erebus, and before he sails she ties the two beasts up beside his ship, unseen (10.527–528, 10.571–574).
+---
+
+“then sacrifice a ram and a black ewe, / turning them toward Erebus, and turn yourself away, / making toward the streams of the river” (10.527–529; see [[sheep]], [[erebus]] and [[the-offering-to-the-dead]]). ὄιν ἀρνειόν is “a ram”, a sheep that is male, as ὄιν θῆλυν is “a ewe” (see the Book 10 note on [[sheep]]). The victims for the dead are a male and a female of the flock, as the lambs of the Iliad's oath, for Earth and the Sun, are “a white ram and a black ewe” (*Iliad* 3.103–104; see the entry); here only the ewe is said to be black. Turning them toward Erebus is bending their heads down toward the earth, the custom in sacrifice to the gods below, where the victims of the gods of heaven have their heads drawn back to look up to the sky (W. W. Merry, *Commentary on the Odyssey*, 1886, on 10.528).
+
+Odysseus does not have to find the beasts. While his companions go weeping to the ship, “meanwhile Circe had gone and tied up beside the black ship / a ram and a black ewe, / slipping past us easily; who could see a god against his will / with his eyes, going either this way or that?” (10.571–574; see [[circe]] and [[seeing-the-gods]]). In the next book he cuts their throats over the pit (11.35–36, a plain rendering), and Teiresias tells him to appease Poseidon with a ram, a bull and a boar that mounts the sows (11.130–131, a plain rendering).

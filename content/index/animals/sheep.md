@@ -14,7 +14,7 @@ en: [sheep, flocks]
 
 ὄις (in Homer also ὄϊς) is the sheep, ewe or ram. The word is inherited: Latin *ovis* and English *ewe* are its cousins. A flock of sheep is a πῶϋ, and “a great flock of sheep” (πῶϋ μέγʼ οἰῶν) is a formula (11.696, 15.323; *Odyssey* 12.299). With goats, sheep make up the μῆλα, the small livestock of the farm, beside the cattle that measure a rich man's wealth. Homer's sheep are “white” (ἀργεννός, 3.198, 6.424, 18.588) and “woolly” (εἰροπόκος, 5.137; *Odyssey* 9.443). The male is the [[ram]], and the young are [[lambs]].
 
-Sheep are wealth. Achilles killed Andromache's seven brothers among their cattle and white sheep (6.421–424). The shield of Achilles shows a great pasture of white sheep in a fair glen, with farmsteads, huts and pens (18.587–589). The Cyclops lives by his flocks of sheep and goats (*Odyssey* 9.183–186), and Odysseus' men escape from his cave bound under his rams (*Odyssey* 9.425–436). They are also victims: many sheep are slaughtered for the funeral feast of Patroclus (23.30–31), and a black ewe is offered to the dead (*Odyssey* 10.524–527).
+Sheep are wealth. Achilles killed Andromache's seven brothers among their cattle and white sheep (6.421–424). The shield of Achilles shows a great pasture of white sheep in a fair glen, with farmsteads, huts and pens (18.587–589). The Cyclops lives by his flocks of sheep and goats (*Odyssey* 9.183–186), and Odysseus' men escape from his cave bound under his rams (*Odyssey* 9.425–436). They are also victims: many sheep are slaughtered for the funeral feast of Patroclus (23.30–31), a ram and a black ewe are offered to the dead, and a black sheep is vowed to the shade of Teiresias (*Odyssey* 10.524–528).
 
 {{notes}}
 

@@ -1,0 +1,5 @@
+---
+summary: Cocytus is named once, in Circe's directions: with Pyriphlegethon it flows into Acheron, and it is “a branch of the water of Styx” (10.513–515).
+---
+
+**A branch of the water of Styx.** Of the three rivers Circe names, Cocytus alone is described: ὃς δὴ Στυγὸς ὕδατός ἐστιν ἀπορρώξ, “which is a branch of the water of Styx” (10.514; see [[styx]]). ἀπορρώξ is something broken off, a stream parted from its source, and Homer has it only three times in this sense: of the Titaressus in the Catalogue, with the same verse-end (*Iliad* 2.755), of Maron's wine in the Cyclops' praise, “a branch of ambrosia and nectar” (9.359; see [[wine]]), and here; at 13.98 the plural ἀπορρῶγες is said of headlands broken off sheer. W. W. Merry finds it hard to see how Cocytus can be a branch of the Styx; the Titaressus, he notes, falls into the Peneius but does not mix with its waters (*Commentary on the Odyssey*, 1886, on 10.515; see the entry). The river “of wailing” runs into Acheron by the rock where Odysseus is to dig the pit and call up the dead (10.515–537; see [[acheron]]).

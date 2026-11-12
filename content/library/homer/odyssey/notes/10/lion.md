@@ -1,0 +1,10 @@
+---
+summary: Lions, with mountain wolves, stand around Circe's house, bewitched by her drugs, and fawn on Odysseus' men like dogs on their master (10.212–219), and Eurylochus fears that Circe will make the whole crew swine or wolves or lions (10.433). They are lions of the tale itself, not of a simile.
+# λέοντες (10.212, 10.218; again 11.611, on Heracles' baldric) and λέοντας (10.433), first met in the Odyssey here.
+grc: [λέοντες, λέοντας]
+en: [lions]
+---
+
+**Lions at the door.** “and around her were mountain wolves and lions, / whom she herself had bewitched, since she had given them evil drugs” (10.212–213; see [[circe]] and [[wolves]]). The Odyssey's earlier lions are in similes, or are the first shape that Proteus takes on the shore of Pharos (4.456; see [[proteus]]); these are beasts of the story, and their fierceness is gone. They stand up on their hind legs and fawn with their long tails, and the narrator gives them the likeness of house dogs greeting their master: “so the strong-clawed wolves and lions fawned / around these men” (10.215–219; see [[the-dogs-fawning-on-their-master]] and [[strong-hoofed]]). In the Iliad the dogs and herdsmen stand off from the lion and dare not come near it (*Iliad* 17.61–67, 18.579–586; see the entry and [[the-herd-and-the-lions]]); here the lion behaves like the dog. Whether Circe had tamed wild beasts or turned men into lions was disputed in antiquity: the scholia give both explanations, and W. W. Merry prefers the second (*Commentary on the Odyssey*, 1886, on 10.213; see the Book 10 note on [[wolves]]).
+
+**Swine, wolves or lions.** Eurylochus, holding back the crew, says that Circe “will make all of us / either swine or wolves or lions” (10.432–433; see [[eurylochus]], [[boar]] and [[shape-changing]]). The Odyssey's next lions are wrought in gold on the baldric of Heracles' shade among the dead, with bears and wild boars (11.609–611, a plain rendering), and the lion of the similes returns when Odysseus stands among the dead suitors, spattered with blood like a lion that has eaten an ox (22.401–406, a plain rendering).

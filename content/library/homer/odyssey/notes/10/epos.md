@@ -1,0 +1,5 @@
+---
+summary: The book's speeches are named by their manner: “gentle words” to Aeolus and to the companions (10.70, 10.422), “soothing words” (10.173, 10.442, 10.547), and the many “winged words” (10.265, 10.324, 10.377, 10.418, 10.430, 10.482); Eurylochus comes back unable to “speak out a word” (10.246).
+---
+
+The words of the book are named by their manner. Odysseus approaches Aeolus “with gentle words” (μαλακοῖσι καθαπτόμενος ἐπέεσσιν, 10.70; see the translation's note on 10.70) and speaks “with gentle words” to his companions (10.422; see [[soft]]); he rouses them “with soothing words, standing beside each man” (10.173, 10.547), and they hold him back from Eurylochus “with soothing words” (10.442; see [[soothing-words]]). Eurylochus, Circe and the companions all address him “with winged words” (10.265, 10.324, 10.377, 10.418, 10.430, 10.482; see [[winged-words]]). Hermes and Circe both speak to him “and called me by name” (ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε, 10.280, 10.319; see [[called-him-by-name]]). And the man who cannot speak is Eurylochus: “And he could not speak out a word, though he longed to” (ἔπος, 10.246; see [[silence]] and [[lament]]).

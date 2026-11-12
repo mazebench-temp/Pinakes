@@ -10,8 +10,10 @@ aliases: [Aides, Aidoneus]
 # note already claims (5.646, 8.367, 8.368, 9.312, 15.251, 21.48, 22.52, 22.213, 22.389, 22.482, 23.19, 23.71, 23.76,
 # 23.103, 23.179). Ἄϊδος, the other genitive, is Hades wherever it occurs: Od. 9.524 ("into the house of Hades") and
 # five lines of later books (10.502, 11.150, 11.571, 11.627, 23.252), and eighteen lines of the Iliad, from 3.322 to
-# 24.593 (the cap of Hades at 5.845 among them), which its Book 3 note already claims within the Iliad.
-grc: [Ἄϊδι, Ἄϊδόσδε, Ἀΐδαο, Ἄϊδος]
+# 24.593 (the cap of Hades at 5.845 among them), which its Book 3 note already claims within the Iliad. Ἀίδεω, the
+# genitive in -εω (printed Ἀΐδεω at Il. 8.16 and Od. 23.322), is Hades wherever it occurs: Il. 8.16, which the Iliad's
+# Book 8 note also claims, and Od. 10.512, 11.635, 12.17, 23.322. Ἀίδῃ, the dative, is found only at Od. 10.534 and 11.47.
+grc: [Ἄϊδι, Ἄϊδόσδε, Ἀΐδαο, Ἄϊδος, Ἀίδεω, Ἀίδῃ]
 en: [Hades]
 ---
 
@@ -29,7 +31,7 @@ Son of [[Cronus]] and [[Rhea]], and brother of [[Zeus]] and [[Poseidon]]. When t
 
 ## Elsewhere in Homer
 
-The Odyssey's eleventh book takes Odysseus to the edge of his realm.
+In the Odyssey the dead still go down to the house of Hades, and Odysseus goes there alive. At Circe's bidding he crosses Oceanus to “the house of Hades and of dread Persephone” to consult the soul of Teiresias (*Odyssey* 10.490–540; see [[persephone]] and the Book 10 note), and the eleventh book takes him to the edge of their realm, where the souls of the dead come up to the blood of his victims.
 
 ## Outside Homer
 

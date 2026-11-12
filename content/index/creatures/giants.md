@@ -7,8 +7,8 @@ summary: A race of the old time. In the Odyssey they are a high-hearted, savage 
 aliases: [Gigantes, the Giants]
 # Γιγάντεσσιν (Od. 7.59) and Γιγάντων (Od. 7.206). The stem catches nothing else in Homer or in the Poetics and the
 # Rhetoric, and the Iliad never names them. Γίγασιν (Od. 10.120), the Laestrygonians "like the Giants", does not
-# begin with the stem: add it with Book 10.
-grc: ["Γιγάντ*"]
+# begin with the stem and is added as the exact form; it is in no other line of Homer, the Poetics or the Rhetoric.
+grc: ["Γιγάντ*", Γίγασιν]
 passages:
   - Od. 7.58-60 | Eurymedon, king of the Giants
   - Od. 7.205-206 | Near to the gods
@@ -24,7 +24,7 @@ Homer names the Giants three times, all in the Odyssey; the Iliad never mentions
 
 {{quote:af1d5655-cc0e-59b0-95a2-d04e6647fa80}}
 
-Periboea bore Nausithous to Poseidon, and Nausithous was the father of Alcinous (*Odyssey* 7.56–63; see [[eurymedon-king-of-the-giants]], [[periboea-mother-of-nausithous]], [[nausithous]], [[poseidon]] and [[alcinous]]). Alcinous names them with the Cyclopes as peoples to whom the gods come openly, as they come to the Phaeacians, “since we are near to them, / as are the Cyclopes and the savage tribes of the Giants” (*Odyssey* 7.205–206; see [[cyclopes]], [[phaeacians]] and [[seeing-the-gods]]). The Laestrygonians who pelt Odysseus' ships with boulders from the cliffs are countless, “not like men but like the Giants” (*Odyssey* 10.119–123, a plain rendering). They are ὑπέρθυμοι, “high-hearted”, an epithet the poems give to heroes and to the Trojans (see [[high-hearted]]), and ἄγρια φῦλα, “savage tribes”, with the word for the “savage Cyclops” (*Odyssey* 2.19) and for men “arrogant and savage and unjust” (*Odyssey* 6.120); and the people Eurymedon destroyed was a λαὸς ἀτάσθαλος, “his reckless people” (*Odyssey* 7.60). Homer does not say where they lived, what they looked like, or how their people came to be destroyed.
+Periboea bore Nausithous to Poseidon, and Nausithous was the father of Alcinous (*Odyssey* 7.56–63; see [[eurymedon-king-of-the-giants]], [[periboea-mother-of-nausithous]], [[nausithous]], [[poseidon]] and [[alcinous]]). Alcinous names them with the Cyclopes as peoples to whom the gods come openly, as they come to the Phaeacians, “since we are near to them, / as are the Cyclopes and the savage tribes of the Giants” (*Odyssey* 7.205–206; see [[cyclopes]], [[phaeacians]] and [[seeing-the-gods]]). The Laestrygonians who pelt Odysseus' ships with boulders from the cliffs are countless, “not like men, but like the Giants” (*Odyssey* 10.119–123; see [[laestrygonians]]). They are ὑπέρθυμοι, “high-hearted”, an epithet the poems give to heroes and to the Trojans (see [[high-hearted]]), and ἄγρια φῦλα, “savage tribes”, with the word for the “savage Cyclops” (*Odyssey* 2.19) and for men “arrogant and savage and unjust” (*Odyssey* 6.120); and the people Eurymedon destroyed was a λαὸς ἀτάσθαλος, “his reckless people” (*Odyssey* 7.60). Homer does not say where they lived, what they looked like, or how their people came to be destroyed.
 
 {{notes}}
 

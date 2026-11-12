@@ -8,8 +8,8 @@ aliases: [harbors, haven, anchorage]
 # λιμένος (Il. 1.432, 21.23; Od. 2.391), λιμένι (Od. 1.186), λιμένεσσι (Il. 23.745), λιμέσιν (Il. 12.284), and in the
 # Rhetoric λιμένος, λιμένας (Rhetoric 1407b34). λιμήν, added with Odyssey 6 (6.263), also takes Od. 4.358 (Pharos),
 # 9.136 and 13.96, 13.345 (Phorcys), all harbors; no λιμήν in the Iliad or Aristotle. λιμένες is in the Odyssey Book 5
-# note; λιμένα (Od. 10.87 and later) will need adding.
-grc: [λιμένος, λιμένι, λιμένεσσι, λιμέσιν, λιμένας, λιμήν]
+# note. λιμένα (Od. 10.87, 10.141; later 13.279, 15.472), all harbors, is in no line of the Iliad or Aristotle.
+grc: [λιμένος, λιμένι, λιμένεσσι, λιμέσιν, λιμένας, λιμήν, λιμένα]
 en: [harbor, harbors]
 ---
 

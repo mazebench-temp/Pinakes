@@ -28,7 +28,7 @@ Left alone in the cave on the second day, Odysseus looks for a way to take venge
 
 ## Elsewhere in Homer
 
-The Odyssey measures by ships. Odysseus makes his raft “As wide as the floor of a ship that a man marks out, / a broad freight ship, a man well skilled in carpentry” (*Odyssey* 5.249–250; see [[the-building-of-the-raft]]), in the same words for the freight ship. The Iliad measures the wings of Priam's eagle by the door of a wealthy man's high-roofed chamber (*Iliad* 24.317–319; see [[wings-as-wide-as-a-door]]), and fells its tall pines on the mountains to be ship timber (*Iliad* 13.389–391; see [[the-felled-tree]]). In the next book the queen of the Laestrygonians is “as big as a mountain peak” (*Odyssey* 10.112–113, a plain rendering), which Merry sets beside this verse (on 9.322).
+The Odyssey measures by ships. Odysseus makes his raft “As wide as the floor of a ship that a man marks out, / a broad freight ship, a man well skilled in carpentry” (*Odyssey* 5.249–250; see [[the-building-of-the-raft]]), in the same words for the freight ship. The Iliad measures the wings of Priam's eagle by the door of a wealthy man's high-roofed chamber (*Iliad* 24.317–319; see [[wings-as-wide-as-a-door]]), and fells its tall pines on the mountains to be ship timber (*Iliad* 13.389–391; see [[the-felled-tree]]). In the next book the queen of the Laestrygonians is “as huge as a mountain peak” (*Odyssey* 10.112–113), which Merry sets beside this verse (on 9.322).
 
 ## Outside Homer
 

@@ -1200,6 +1200,67 @@ stands beside the shining sea.
 | κλήρῳ "by lot" (Od. 9.331; κλῆρος 10.207, 14.209) | κλῆρος "allotment, estate" (Il. 15.498; Od. 14.64) | lots: the exact form in its Book 9 note; leave out 14.64 when Book 14 is indexed |
 | ἐλαύνει, ἐλαύνομεν, flocks driven off (Od. 9.405, 9.465) | ἤλασε, ἐξήλασε, the Cyclops driving his flocks in and out (9.237, 9.312, 9.337); ἤλασα, the stake thrust into the embers (9.375) | raiding: the phrases in its Book 9 note, never the bare verb |
 
+### Odyssey, Book 10
+
+The tale of Aeolus, the Laestrygonians and Circe brings names that are also common words (Aeolus and αἰόλος, Cocytus and
+the wailing κωκυτός, Acheron and the white poplar, Teiresias and the constellations, Polites and the citizen, Perse and the
+Persian), namesakes of Iliad men (Antiphates, Polites, Thebaeus), the skin of the winds beside the wineskin, Circe's wand
+beside the fisherman's rod, the drugs of the Odyssey beside the healer's of the Iliad, and the words of the rite of the
+dead (the pit, the drink offering, the souls and the shadows) beside their everyday senses.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Αἴολος, Αἰόλου (Od. 10.2–60) | αἰόλος "flashing, nimble" (Il. 7.222, 12.167, 12.208, 16.107, 19.404; Od. 22.300); Αἰολίδης, Αἰολίδαο, the other Aeolus (Il. 6.154; Od. 11.237) | aeolus: `^Αἴολος`, `^Αἰόλου`; aeolus-father-of-sisyphus excepts the four lines; `^Αἴολον` (23.314) to add with Book 23 |
+| Αἰολίην, the island (Od. 10.1, 10.55) | Αἰολίδης, Αἰολίδαο, the father of Sisyphus (Il. 6.154; Od. 11.237) | aeolia: the exact form |
+| Ἱπποτάδης, Ἱπποτάδαο | ἱππότα "horseman"; Ἱπποτίων | hippotes and aeolus: exact forms |
+| ἀσκός, the skin of the winds (Od. 10.19, 10.45, 10.47) | ἀσκός, the wineskin (Il. 3.247; Od. 5.265, 6.78, 9.196, 9.212) | skin-of-the-winds: three phrases; wine keeps its Book 9 phrases |
+| ἄνεμος and its forms, the winds | ἀνεμώλιος (Il. 4.355, 5.216, 20.123, 21.474; Od. 4.837, 11.464), ἀνεμοτρεφής (Il. 11.256, 15.625), ἀνεμοσκεπής (Il. 16.224), Ἀνεμώρεια (Il. 2.521), ἀνέμιμνον (Il. 11.171, 16.363), ἀνέμισγε (Od. 10.235), ἀνέμεινα (Od. 19.342), ἀνέμνησας (Od. 3.211) | the-winds: ten exact forms, never `ἀνεμ*` |
+| Ἀντιφάταο, Ἀντιφατῆα (Od. 10.106, 10.114, 10.199) | Ἀντιφάτην, the Trojan (Il. 12.191); Melampus' son (Od. 15.242–243, an id with Book 15) | antiphates-the-laestrygonian: exact forms, the English in its note; antiphates excepts the three lines |
+| Τηλέπυλον, Λάμου, Γίγασιν | no clash | telepylus, lamus, giants: exact forms |
+| ἰφθίμῃ (Od. 10.106) | Ἰφθίμη, Penelope's sister (Od. 4.797) | mighty: `"!^Ἰφθίμ*"` |
+| Πέρσης, Perse (Od. 10.139) | Πέρσης, Hesiod's brother Perses, and "a Persian" | perse: Πέρσης in its Odyssey Book 10 note only |
+| Κίρκης, Circe (Od. 10.150 and often; 11.53; 12.9 and later) | κίρκος "falcon" (Il. 17.757, 22.139; Od. 13.87, 15.526) | circe: exact Κίρκη (with Κίρκῃ) and Κίρκης in the entry, never `Κίρκ*`; Κίρκην (12.16) to add with Book 12 (the Book 8 row) |
+| Αἰήταο (Od. 10.137) | αἴητον (Il. 18.410) | aeetes: the exact form, never a stem |
+| Αἰαίην, the island (Od. 10.135; 11.70, 12.3) | Αἰαίη, Αἰαίης "of Aeaea", Circe's epithet (Od. 9.32; 12.268, 12.273) | aeaea: `^Αἰαίη`, `^Αἰαίην`, claiming the epithet too, since it names the island; Αἰαίης to add with Book 12 |
+| ἠώς "the east" (Od. 10.190) | Ἠώς, Dawn | eos: `except: [Od. 10.190]`, discussed in its Book 10 note |
+| Πολίτης (Od. 10.224) | Priam's son (Il. 2.791, 13.533, 15.339, 24.250); πολίτης "citizen" (Aristotle) | polites-the-companion: Πολίτης and `en: [Polites]` in its Book 10 note; polites excepts 10.224 |
+| ῥάβδῳ, Circe's and Athena's wand (Od. 10.238–319; 13.429, 16.172, 16.456) | the fisherman's rod (Od. 12.251, περιμήκεϊ ῥάβδῳ, the same words as 10.293) | wand: ῥάβδῳ in the entry, `except: [Od. 12.251]` |
+| ἐκύκα, Circe's mixing (Od. 10.235) | Sappho's tongue "stirring up" evil (*Rhetoric* 1367a12) | kykeon: ἐκύκα in its Odyssey Book 10 note |
+| φάρμακον, φάρμακʼ, φάρμακα, the Odyssey's drugs | the healer's φάρμακα of the Iliad | drugs: the forms in its Odyssey Book 10 note; healing excepts Od. 10.236, 10.290 |
+| κευθμῶνας, the sties (Od. 10.283) | the cave of the nymphs (Od. 13.367); κευθμῶν, the sea beasts' lairs (Il. 13.28) | sties: `"πυκινοὺς κευθμῶνας"` |
+| εὐνῆς, the bed | a fawn's lair (Il. 22.190); εὐνήν, a lion's lair (Od. 4.338) | bed: εὐνῆς in its Odyssey Book 10 note, `"θεοῦ εὐνήν"` (10.297) |
+| σταθμοῖσιν, the doorposts (Od. 10.62) | the steadings (Od. 16.82) | door: `"παρὰ σταθμοῖσιν"` |
+| δόμον, the house of Hades (Od. 10.512) | a house | house: `except: [10.512]` in its Book 10 note |
+| "δόρυ χάλκεον", the bronze spear (Od. 10.162, 10.164) | δόρυ, the wooden horse (Od. 8.507) | spear: the phrase in its Book 10 note |
+| "ὅπλα τε πάντα", the ship's tackle (Od. 10.404, 10.424) | Hephaestus' tools (Il. 18.409, 18.412) | ships: the phrase in its Book 10 note |
+| "πόδα νηὸς", the sheet (Od. 10.32) | πόδα "foot" | sails: the phrase in its Book 10 note |
+| ἀγόρευον, the companions talking (Od. 10.34) | ἀγορή, an assembly | assembly: `except: [10.34]` |
+| ἀγγελίην, Eurylochus' news (Od. 10.245) | ἀγγελίη, an embassy | embassy: `except: [Od. 10.245]` |
+| ἐδηλήσαντʼ, harm done to the companions (Od. 10.459) | ἐδηλήσαντʼ, the harvest ravaged (Il. 1.156) | raiding: `except: [Od. 10.459]` |
+| μέλαιναν, the black ewe (Od. 10.527, 10.572) | the black ship | black-ships excepts both lines |
+| παιπαλόεσσαν "rugged" | τρηχείης "rugged" | rocky takes the first, rugged the second |
+| νεκύων κατατεθνηώτων (Od. 10.530) | the Iliad's corpses (Il. 7.409, 10.343, 10.387) | the-dead-who-have-died claims both |
+| ἤνοπι χαλκῷ (Od. 10.360) | the name Ἤνοψ | gleaming-bronze claims the phrase only |
+| κλυτ- and ἱερ- words | other senses | famous and hieros claim phrases, never stems |
+| Τειρεσι- (Od. 10.492 and later) | τείρεα "constellations" (Il. 18.485) | teiresias: `^Τειρεσι*` |
+| Θηβαίου "Theban", of Teiresias (Od. 10.492, 10.565 and later) | Thebaeus, the Trojan (Il. 8.120) | thebes: its Book 10 note claims Θηβαίου; thebaeus keeps `"ὑπερθύμου Θηβαίου"` |
+| ἄλσεα Περσεφονείης (Od. 10.509) | Περσεφονείης, the goddess | the-groves-of-persephone: the phrase; persephone keeps its own forms |
+| ἀκτή τε λάχεια (Od. 10.509) | ἀκτή "grain"; ἀκταὶ προβλῆτες "headlands" (10.89) | shore: the phrase, in its Book 10 note |
+| Κώκυτός, the river (Od. 10.514) | κωκυτός "wailing" (Il. 22.409, 22.447) | cocytus: `^Κώκυτός` |
+| Ἀχέροντα (Od. 10.513) | ἀχερωΐς "white poplar" (Il. 13.389, 16.482) | acheron: the exact form |
+| Ἔρεβος | none | the erebus entry, as well as the Iliad Book 16 note |
+| βόθρον, the pit (Od. 10.517) | βόθρου, the olive's trench (Il. 17.58); βόθροισι, washing pits (Od. 6.92) | the-offering-to-the-dead: exact `βόθρον` |
+| χοήν (Od. 10.518) | Χοηφόροι (*Poetics* 1455a4) | the-offering-to-the-dead: exact `χοὴν` |
+| ψυχή, ψυχαί (Od. 10.492, 10.530, 10.560, 10.565) | ψύχεος "cool air" (10.555) | psyche: exact ψυχὴ, ψυχαὶ in its Book 10 note, never `ψυχ*` |
+| σκιαί, the dead (Od. 10.495) | σκιόεις "shadowy" (10.479) | psyche: exact `σκιαὶ` |
+| πόσις "drink" (Od. 10.176; 12.320) | πόσις "husband" | posis: `except: [10.176]` in its Book 10 note; except 12.320 with Book 12 |
+| κατελέξατο "lay down" (Od. 10.555) | κατέλεξα, κατέλεξεν "told" (10.16, 10.250) | hypnos: the exact form |
+| ῥέξειν, ῥέζειν "sacrifice" (Od. 10.523, 10.527) | ῥέζω "do" | sacrifice: the two phrases only |
+| σκοπιήν, the lookout (Od. 10.97, 10.148, 10.194) | the Sun's σκοπιὴν ἔχεν (8.302) | spies-and-scouts: the phrase only |
+| βοῶν "of oxen" (Od. 10.98) | βοῶν "shouting" (Il. 2.224) | cattle: `"οὔτε βοῶν οὔτʼ ἀνδρῶν"` in its Book 10 note, never the bare form |
+| δεινοῖο πελώρου, the stag (Od. 10.168) | the Gorgon (Il. 5.741; Od. 11.634) | deer: `refs: [10.168]` in its Book 10 note, never the phrase |
+| ῥῶπας "brushwood" (Od. 10.166) | Eumaeus' brushwood (Od. 14.49, 16.47) | not claimed; willow takes λύγους only |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

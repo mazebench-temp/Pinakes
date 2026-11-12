@@ -3,7 +3,7 @@ title: Jason
 greek: Ἰήσων
 kind: person
 tags: [king, thessaly]
-summary: The leader of the Argonauts, who sailed in the Argo to fetch the Golden Fleece from the land of Aeetes and brought back Aeetes' daughter Medea. Homer knows him as the father of [[Euneus]] by the Lemnian [[Hypsipyle]], and as the favorite of Hera, for whose sake she sent the Argo safely past the Wandering Rocks.
+summary: The leader of the Argonauts, who sailed in the Argo to fetch the Golden Fleece from the land of [[aeetes|Aeetes]] and brought back Aeetes' daughter Medea. Homer knows him as the father of [[Euneus]] by the Lemnian [[Hypsipyle]], and as the favorite of Hera, for whose sake she sent the Argo safely past the Wandering Rocks.
 aliases: [Iason, Iēsōn, Aesonides]
 grc: [Ἰησον*]
 relations:

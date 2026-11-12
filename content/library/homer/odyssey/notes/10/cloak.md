@@ -1,0 +1,7 @@
+---
+summary: After their baths Odysseus and his companions are dressed in cloaks and tunics in Circe's house (10.365, 10.451), and on the morning of the departure she dresses him in cloak and tunic and puts on her own great silver-white mantle (10.542–543).
+---
+
+**The guests' cloaks.** Bathed and anointed by the fourth handmaid, Odysseus is dressed: she “put a fine cloak and a tunic around me” (10.365; see [[bathing]] and [[tunic]]), and Circe gives the companions who come up from the ship “woolly cloaks and tunics” after their bath (10.451; see [[thick-and-woolly]]), as the slave women dress the strangers in Menelaus' house (4.50; see the Book 4 note of [[bathing]], on why the cloak is named first).
+
+**The morning of the departure.** When Circe has given her instructions for the voyage to the house of Hades, Dawn comes, “And she put a cloak and a tunic about me as clothing; / and the nymph herself put on a great silver-white mantle, / fine and lovely” (10.542–544; see [[clothing]], [[silver-white]] and [[circe]]). εἵματα, “as clothing”, stands in apposition to the cloak and tunic (W. W. Merry, *Commentary on the Odyssey*, 1886, on 10.542). The verses of the goddess's dressing are Calypso's on the morning Odysseus begins his raft, where he dresses himself (5.229–232; 10.543–544 = 5.230–231; see [[calypso]], [[girdle]] and [[veil]]): the φᾶρος is the great mantle of goddesses and kings.

@@ -3,7 +3,7 @@ title: The evil day
 greek: κακὸν ἦμαρ
 kind: epithet
 tags: [fate, warfare]
-summary: “The evil day,” the day of destruction that a defender wards off from his people, in the formula ἀλεξέμεναι, ἀμύνειν κακὸν ἦμαρ.
+summary: “The evil day,” the day of destruction, at the end of the verse after a verb of warding off or escaping: the day that a defender wards off from his people, in the formula ἀλεξέμεναι, ἀμύνειν κακὸν ἦμαρ, and in the Odyssey the day that a man hopes to escape or that a god's drug keeps from his head.
 aliases: [kakon emar, the day of evil, the evil hour]
 grc: ["κακὸν ἦμαρ"]
 en: [the evil day]

@@ -1,0 +1,7 @@
+---
+summary: In Circe's directions the Cocytus, which flows into Acheron at the house of Hades, “is a branch of the water of Styx” (10.514), the words the Catalogue uses of the Titaressus (*Iliad* 2.755).
+---
+
+**A branch of the water of Styx.** “There into Acheron flow Pyriphlegethon / and Cocytus, which is a branch of the water of Styx” (10.513–514; see [[cocytus]] and [[acheron]]). Στυγὸς ὕδατός ἐστιν ἀπορρώξ ends the verse as it ends the Catalogue's verse on the Titaressus, the river that flows on top of the Peneius like olive oil, “for it is a branch of the water of Styx, the dread oath” (*Iliad* 2.751–755; see [[like-olive-oil]]). Here the Styx is in the underworld, where its water runs on in another river; in the Iliad its branch is a river of Thessaly. W. W. Merry, who describes the Arcadian Styx in his note on Calypso's oath, finds it not easy to understand how the Cocytus is a branch of it (*Commentary on the Odyssey*, 1886, on 10.515), and thinks that the Styx was originally the only river of the world below (on 10.513).
+
+**The oath.** Earlier in the book Hermes bids Odysseus make Circe swear “a great oath by the blessed gods” (10.299), and she swears it “as I bade her” (10.343–346; see [[oath]] and [[oath-formulas]]). The poem does not say by what she swore; Calypso, asked for the same promise in the same words, swore by Earth, the wide Heaven and “the down-flowing water of Styx” (5.178–187; see the Book 5 note).

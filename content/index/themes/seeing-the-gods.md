@@ -25,7 +25,7 @@ Ares, meanwhile, goes among the Trojans in the likeness of Acamas, leader of the
 
 ## Mist and cloud
 
-The mist on mortal eyes lets gods pass unrecognized, and gods also hide themselves and their favorites in cloud: Apollo hides Aeneas in a dark cloud (5.345; see [[achlys]]). In the Odyssey Odysseus says of Circe, who passed them unseen, “who could see a god with his eyes, if the god did not wish it, going this way or that?” (*Odyssey* 10.573–574). When Athena stands at the door of Eumaeus' hut, Odysseus and the dogs see her, but Telemachus does not, “for the gods do not appear plainly to everyone” (*Odyssey* 16.159–163).
+The mist on mortal eyes lets gods pass unrecognized, and gods also hide themselves and their favorites in cloud: Apollo hides Aeneas in a dark cloud (5.345; see [[achlys]]). In the Odyssey Odysseus says of Circe, who passed them unseen, “who could see a god against his will / with his eyes, going either this way or that?” (*Odyssey* 10.573–574). When Athena stands at the door of Eumaeus' hut, Odysseus and the dogs see her, but Telemachus does not, “for the gods do not appear plainly to everyone” (*Odyssey* 16.159–163).
 
 {{notes}}
 

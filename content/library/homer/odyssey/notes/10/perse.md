@@ -1,0 +1,7 @@
+---
+summary: Perse is named once, in the pedigree that Odysseus gives Circe when he comes to Aeaea: “both were born of the Sun, who brings light to mortals, / and of their mother Perse, whom Oceanus begot as his child” (10.138–139).
+# Πέρσης (10.139), the only form of the name in Homer, is claimed here, so that the pattern applies to the Odyssey only.
+grc: [Πέρσης]
+---
+
+**The mother of Circe and Aeetes.** Odysseus begins the story of Aeaea, as he began the story of Aeolus' island (10.1–4), with the island and the power who lived there: “Circe of the lovely tresses, a dread goddess with human voice, / own sister of baleful Aeetes; / both were born of the Sun, who brings light to mortals, / and of their mother Perse, whom Oceanus begot as his child” (10.136–139; see [[circe]], [[aeetes]], [[helios]] and [[aeaea]]). τέκε, “begot”, is said here of the father, as Ares says it of Zeus and Athena, “for you begot that senseless daughter” (*Iliad* 5.875; see [[oceanus]]). Perse is the one daughter of Oceanus whom the Odyssey names; the Iliad names another, Eurynome, “daughter of backward-flowing Oceanus”, who with Thetis took in Hephaestus when he fell from heaven (*Iliad* 18.398–399; see [[eurynome]]). The pedigree joins the Sun, who rises from Oceanus and sets in it, to the river at the edge of the world; Merry sees in it perhaps the first hint of a connection between Circe and the West (W. W. Merry, *Commentary on the Odyssey*, 1886, on 10.135; see the general article).

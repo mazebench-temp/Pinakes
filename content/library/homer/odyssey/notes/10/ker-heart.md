@@ -1,0 +1,5 @@
+---
+summary: Odysseus answers Aeolus “grieving at heart” (10.67); Eurylochus is “stricken at heart with great grief” (10.247); the companions “waste my dear heart away” with their mourning (10.485); and when Odysseus hears that he must go to the house of Hades, “my heart / no longer wished to live and see the light of the sun” (10.497–498).
+---
+
+The κῆρ is the heart that grieves. Odysseus speaks to Aeolus “grieving at heart” (ἀχνύμενος κῆρ, 10.67), and Eurylochus comes back from Circe's house “stricken at heart with great grief” (κῆρ ἄχεϊ μεγάλῳ βεβολημένος, 10.247; see [[achos]]). After the year Odysseus tells Circe that his companions “waste my dear heart away / mourning around me, whenever you are away” (οἵ μευ φθινύθουσι φίλον κῆρ, 10.485–486; see [[hetairos]]). At her news he weeps on the bed, “and my heart / no longer wished to live and see the light of the sun” (οὐδέ νύ μοι κῆρ / ἤθελʼ ἔτι ζώειν καὶ ὁρᾶν φάος ἠελίοιο, 10.497–498), the verses of Menelaus' despair on the sand of Pharos (4.539–540; see [[tears]] and [[while-i-live]]).

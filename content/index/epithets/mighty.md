@@ -3,7 +3,7 @@ title: Mighty
 greek: ἴφθιμος
 kind: epithet
 tags: [heroic-epithet, body]
-summary: “Mighty, stalwart,” an epithet of strength given to heroes and their heads, to wives of rank, and in the proem to the souls of the dead.
+summary: “Mighty, stalwart,” an epithet of strength given to heroes and their heads, to peoples, to women of rank, to Hades, and in the proem to the souls of the dead.
 aliases: [stalwart, iphthimos]
 grc: [ἰφθίμους, ἰφθίμῳ]
 en: [mighty]

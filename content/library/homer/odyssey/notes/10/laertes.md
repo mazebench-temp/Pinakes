@@ -1,0 +1,6 @@
+---
+summary: Named only in his son's patronymic, in the verse of address that Circe speaks three times, “Son of Laertes, sprung from Zeus, Odysseus of many devices” (10.401, 10.488, 10.504).
+# Λαερτιάδη (10.401, 10.488, 10.504) is claimed by the entry. The verse stood once more at 10.456, which Murray omits.
+---
+
+Circe gives Odysseus the full verse of address, διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ, when she sends him to bring his companions from the ship, when she answers his plea to be sent home with the news of the journey to Hades, and when she tells him that he will need no guide (10.400–405, 10.487–495, 10.503–505; see [[son-of-laertes]], [[sprung-from-zeus]], [[of-many-devices]] and [[odysseus]]). It is the verse with which Calypso addressed him (5.203). Some manuscripts have it once more, before Circe bids the companions stop their lament (10.456). Wolf and later editors bracketed it, as wanting in most manuscripts and in Eustathius, and because a plural imperative follows an address to Odysseus, and Murray omits it; W. W. Merry would keep it, since Odysseus, by saying ἡμῖν, “our”, at 10.466, shows that he feels himself included in the address (*Commentary on the Odyssey*, 1886, critical note on 10.456; see the translation's note on 10.456).

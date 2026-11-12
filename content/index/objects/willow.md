@@ -2,10 +2,10 @@
 title: Willow
 greek: ἰτέα
 kind: object
-summary: The willow, ἰτέα, a tree of riverbanks, and the pliant shoots, λύγοι, used for binding, which the translation calls “willow shoots”. In the Iliad the willows burn along the Xanthus when Hephaestus sets the river on fire (21.350), and Achilles binds two sons of Priam with willow shoots (11.105); in the Odyssey willows grow in the groves of Persephone by the stream of Oceanus (Od. 10.508–512), and Odysseus binds the Cyclops' rams together with willow shoots (Od. 9.427).
+summary: The willow, ἰτέα, a tree of riverbanks, and the pliant shoots, λύγοι, used for binding, which the translation calls “willow shoots”. In the Iliad the willows burn along the Xanthus when Hephaestus sets the river on fire (21.350), and Achilles binds two sons of Priam with willow shoots (11.105); in the Odyssey willows grow in the groves of Persephone by the stream of Oceanus (*Odyssey* 10.509–510), and Odysseus binds the Cyclops' rams together with willow shoots (*Odyssey* 9.427).
 aliases: [willows, itea, withy, withies, willow shoots, lygos]
 # λύγοισι (11.105) and λύγοισιν (Od. 9.427), the shoots of the λύγος, which the translation renders “willow shoots”; λύγους
-# (Od. 10.166) is to be added with its book. No matches in Aristotle.
+# (Od. 10.166) is claimed in the Odyssey's Book 10 note. No matches in Aristotle.
 grc: [ἰτέαι, λύγοισι, λύγοισιν]
 en: [willows, willow shoots]
 ---
@@ -14,9 +14,9 @@ en: [willows, willow shoots]
 
 In the Iliad the willows grow along the Xanthus with the elms and the tamarisks, and they burn when Hephaestus turns his flame on the river: “The elms and the willows and the tamarisks were burning” (21.350; see [[elm]], [[tamarisk]], [[scamander]] and [[fire]]). Walter Leaf notes that the vulgate text reads τε καί before ἰτέαι, but that the word began with a digamma, ϝιτέαι, which the verse of the *Odyssey* still keeps; he compares Latin *vitex* and English *withy* (*Commentary on the Iliad*, 1900, on 21.350).
 
-In the *Odyssey* Circe tells Odysseus that when he has crossed Oceanus he will find a low shore and the groves of Persephone, μακραί τʼ αἴγειροι καὶ ἰτέαι ὠλεσίκαρποι, “tall poplars and willows that lose their fruit”, where he is to beach his ship by deep-eddying Oceanus and go down to the house of Hades (*Odyssey* 10.508–512; see [[persephone]] and [[oceanus]]). ὠλεσίκαρπος, “losing its fruit”, occurs only here.
+In the *Odyssey* willows grow with tall poplars in [[the-groves-of-persephone|the groves of Persephone]] on the far shore of Oceanus, μακραί τʼ αἴγειροι καὶ ἰτέαι ὠλεσίκαρποι, “tall poplars and willows that lose their fruit” (*Odyssey* 10.509–510; see [[persephone]] and the note on *Odyssey* 10); ὠλεσίκαρπος, “that lose their fruit”, occurs only there.
 
-Achilles bound two sons of Priam, Isus and Antiphus, “with pliant willow shoots on the slopes of Ida” when he took them among the flocks (11.104–106; see [[achilles-raids]]); Odysseus binds the Cyclops' rams together three by three “with well-twisted willow shoots” (*Odyssey* 9.427), and with withies he ties the legs of the great stag he kills on Circe's island (*Odyssey* 10.166, a plain rendering).
+Achilles bound two sons of Priam, Isus and Antiphus, “with pliant willow shoots on the slopes of Ida” when he took them among the flocks (11.104–106; see [[achilles-raids]]); Odysseus binds the Cyclops' rams together three by three “with well-twisted willow shoots” (*Odyssey* 9.427), and with withies he ties the legs of the great stag he kills on Circe's island (*Odyssey* 10.166).
 
 {{notes}}
 
