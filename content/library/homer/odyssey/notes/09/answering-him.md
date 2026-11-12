@@ -1,0 +1,7 @@
+---
+summary: The answers of the tale: “Answering him, Odysseus of many wiles said” (9.1), which opens it; Odysseus' own, “But even so I answered him with words and said” (9.258), “but I answered him back with crafty words” (9.282), “but I answered him back with resentful heart” (9.501) and “So he spoke, and I answered him and said” (9.522); the Cyclops', “at once he answered me with pitiless heart” (9.272, 9.368), “he answered me nothing, with pitiless heart” (9.287) and “he groaned and answered me” (9.506); and the other Cyclopes', “And they answered him and spoke winged words” (9.409).
+grc: ["ἀμείβετο νηλέι θυμῷ", "ἠμείβετο μύθῳ", "ἄψορρον προσέφην", "οἱ δʼ ἀπαμειβόμενοι"]
+en: [answered me, answered him back, answered him]
+---
+
+9.1 is the verse of the answers of Books 7 and 8 (7.207, 7.302, 8.152, 8.412), and with it the tale begins: the rest of the book is one speech ([[the-tale-to-alcinous]]). Within the tale the narrator's verses of answer are in the first person, ὣς ἐφάμην, ὁ δέ μʼ … ἀμείβετο, “So I spoke, and he … answered me”: three times the Cyclops answers “with pitiless heart” (see the Odyssey translation's formulas; [[pitiless]]), and 9.506 returns when the shade of Elpenor answers Odysseus (11.59). ἄψορρον only means “I answered him back” (Merry, *Commentary on the Odyssey*, 1886, on 9.282, comparing 9.501). 9.522 is the verse of Menelaus' tale (4.375, 4.394, 4.464), and 9.258 the one of 4.484 with ἔπεσσιν for μύθοισιν ([[so-he-spoke]], [[winged-words]]).

@@ -5,7 +5,7 @@ kind: epithet
 tags: [livestock]
 summary: “Bleating,” the epithet of she-goats, αἶγες, in the Iliad and the Odyssey.
 aliases: [mekas, bleating goats]
-grc: [μηκάδες]
+grc: [μηκάδες, μηκάδας]
 en: [bleating]
 of: [goats]
 ---

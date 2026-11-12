@@ -3,9 +3,9 @@ title: Imperishable
 greek: ἄφθιτος
 kind: epithet
 tags: [sacred-object, kingship]
-summary: “Unwasting, imperishable,” an epithet of divine things: the scepter of Agamemnon, the houses and chariots of the gods, and Achilles' fame.
+summary: “Unwasting, imperishable,” an epithet of divine things: the scepter of Agamemnon, the houses and chariots of the gods, and Achilles' fame; once in the Odyssey, of the vines that would grow on an island no one tills.
 aliases: [unwasting, undying, aphthitos]
-grc: [ἄφθιτον]
+grc: [ἄφθιτον, ἄφθιτοι]
 en: [imperishable]
 of: [scepter]
 ---

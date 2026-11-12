@@ -1,0 +1,96 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 38,
+      "title": "Odysseus Names Himself",
+      "summary": "Odysseus answers Alcinous: there is nothing finer than a feast with a singer, but the king would hear his sorrows. He names himself, Odysseus, son of Laertes, known to men for his tricks, and his home, clear-seen Ithaca, rugged but a good nurse of young men, the farthest out toward the darkness; Calypso and Circe kept him, but nothing is sweeter than one's own land."
+    },
+    {
+      "from": 39,
+      "to": 66,
+      "title": "The Cicones",
+      "summary": "From Troy the wind brings him to Ismarus, the city of the Cicones, which he sacks. He urges his men to flee, but they feast on the shore; the Cicones of the inland come against them at dawn, as many as the leaves and flowers, and by evening six men from each ship are dead. The survivors sail on, calling three times on the name of each of the dead."
+    },
+    {
+      "from": 67,
+      "to": 104,
+      "title": "The Storm and the Lotus-eaters",
+      "summary": "Zeus sends the North Wind; the sails are torn, and for two days they lie on shore. Rounding Malea they are driven past Cythera, and for nine days the winds carry them to the land of the Lotus-eaters. The men who taste the lotus forget their homecoming, and Odysseus drags them weeping to the ships and ties them under the thwarts."
+    },
+    {
+      "from": 105,
+      "to": 151,
+      "title": "The Land of the Cyclopes",
+      "summary": "They come to the land of the Cyclopes, overbearing and lawless, who neither plant nor plow, have no assemblies and no ordinances, and live each in his own cave, giving the law to his children and his wives. Off their harbor lies an island of wild goats, empty of men, with good soil, meadows and a harbor where no cable is needed; the Cyclopes have no ships to settle it. A god guides the fleet in through the dark night."
+    },
+    {
+      "from": 152,
+      "to": 192,
+      "title": "The Island of Goats and the Cave",
+      "summary": "At dawn they hunt the goats the nymphs rouse, nine to each of the twelve ships and ten for Odysseus, and feast all day, looking across at the smoke of the Cyclopes. Next morning Odysseus sails over with his own ship to learn whether they are savage or kind to strangers, and finds a high cave overhung with laurels, with a fold of stones and timber, the home of a huge man who herds his flocks alone and knows lawless ways."
+    },
+    {
+      "from": 193,
+      "to": 230,
+      "title": "The Wine of Maron",
+      "summary": "He goes up with twelve companions, carrying a skin of the wine Maron, priest of Apollo at Ismarus, gave him, sweet unmixed wine of which one cup went into twenty of water. In the cave they find the racks of cheeses, the pens of lambs and kids, the pails of whey. His companions beg him to take the cheeses and the kids and sail away, but he will stay to see the Cyclops and whether he will give them guest-gifts."
+    },
+    {
+      "from": 231,
+      "to": 306,
+      "title": "Polyphemus",
+      "summary": "The Cyclops comes home with a load of wood, drives in his flocks, and sets in the doorway a stone that twenty-two wagons could not move. He milks and curdles, lights the fire, and asks the strangers who they are. Odysseus answers that they are Achaeans of Agamemnon's host and suppliants, and that Zeus avenges strangers; the Cyclops answers that the Cyclopes care nothing for Zeus, asks where their ship is, and, told that Poseidon wrecked it, seizes two of the men, dashes them on the ground and eats them. Odysseus would stab him in his sleep, but no one could move the stone."
+    },
+    {
+      "from": 307,
+      "to": 359,
+      "title": "The Stake and the Wine",
+      "summary": "In the morning the Cyclops eats two more and drives his flocks out. Odysseus cuts a fathom from the Cyclops' great olive club, sharpens and hardens it in the fire, and hides it in the dung; four companions are chosen by lot to help him. At evening the Cyclops eats two more, and Odysseus offers him the wine: he drinks, asks for more and for the stranger's name, and calls the wine a stream of ambrosia and nectar."
+    },
+    {
+      "from": 360,
+      "to": 414,
+      "title": "Nobody",
+      "summary": "Three times Odysseus gives him the wine; then he says that his name is Nobody, and the Cyclops promises to eat Nobody last. As he sleeps, heavy with wine, they drive the glowing stake into his eye and twirl it, like a man boring a ship's timber, and the eye hisses like iron dipped by a smith. The other Cyclopes come at his shout and ask whether anyone is killing him; he answers that Nobody is, and they tell him to pray to his father Poseidon. Odysseus laughs at how his name and his plan deceived him."
+    },
+    {
+      "from": 415,
+      "to": 461,
+      "title": "The Escape under the Rams",
+      "summary": "The Cyclops sits in the doorway, feeling for the men as the flocks go out. Odysseus binds the rams in threes with withies, a man under each middle ram, and himself clings under the belly of the best ram. In the morning the Cyclops feels the backs of the flocks and speaks to his ram, which comes last: if it could speak it would tell him where Nobody is hiding."
+    },
+    {
+      "from": 462,
+      "to": 542,
+      "title": "The Taunts and the Curse",
+      "summary": "Free of the cave, they drive the flocks to the ship and row away. Odysseus taunts the Cyclops, who hurls a hilltop that drives the ship back to shore; out farther, against his companions' pleas, he taunts him again and names himself, Odysseus, sacker of cities, son of Laertes. The Cyclops remembers the prophecy of the seer Telemus, invites him back for good cheer and an escort, and when Odysseus refuses, prays to Poseidon that he may come home late, in evil plight, on someone else's ship, having lost all his companions, and find bane in his house. Poseidon hears him, and a second rock drives the ship to the island."
+    },
+    {
+      "from": 543,
+      "to": 566,
+      "title": "The Sacrifice of the Ram",
+      "summary": "On the island they divide the Cyclops' flocks, and the companions give Odysseus the ram, which he sacrifices to Zeus; but Zeus takes no heed, and ponders how all his ships and companions may perish. They feast until sunset, sleep on the shore, and at dawn sail on, grieving for the dead and glad to have escaped."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 2,
+      "to": 566,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous",
+        "phaeacians"
+      ],
+      "kind": "tale"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 566,
+      "label": "Night of Day 33",
+      "note": "Odysseus tells his tale at the evening feast in the house of Alcinous, after the song of the wooden horse (8.417–586); the tale runs through Books 9–12 and into the night (11.330–384). The days of the tale belong to his wanderings after Troy."
+    }
+  ]
+}

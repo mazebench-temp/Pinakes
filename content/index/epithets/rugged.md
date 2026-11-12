@@ -5,7 +5,7 @@ kind: epithet
 tags: [mainland-greece, island]
 summary: “Rough, rugged,” an epithet of rocky land, given in the Catalogue to [[Aegilips]] and [[Olizon]] and by Odysseus to his own Ithaca, and of the jagged stones that fighters throw.
 aliases: [rough, trechys]
-grc: [τρηχεῖαν]
+grc: [τρηχεῖαν, "τρηχεῖʼ"]
 en: [rugged]
 of: [aegilips, olizon]
 ---

@@ -5,7 +5,7 @@ kind: epithet
 tags: [cosmic]
 summary: “Starry,” the standing epithet of the sky, and of a few things that shine like it.
 aliases: [asteroeis, starry sky]
-grc: [ἀστερόεντι]
+grc: [ἀστερόεντι, ἀστερόεντα]
 en: [starry]
 of: [sky]
 ---

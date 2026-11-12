@@ -10,14 +10,16 @@ aliases: [wagons, mule wagon, cart, hamaxa, apene]
 # Od. 5.273 prints it in lowercase and is excepted. ἡμιονείην (24.189, 24.266), "of mules", is the mules'.
 # The words of the yoking (24.268-274) are claimed in the note on Book 24. ὑπερτερίῃ (Od. 6.70), the frame fitted on
 # Nausicaa's wagon, is found only there; the whip and the reins of Odyssey 6 are claimed in its Book 6 note.
-grc: [ἀμαξάων, ἄμαξαν, "!^Ἄμαξαν", ἀμάξῃσιν, "=ἀπήνης", ἀπήνην, ἀπήνῃ, πείρινθα, ὑπερτερίῃ]
-en: [wagon, wagons, wicker body, frame above]
+# ἄμαξαι (Od. 9.241; later 10.103) and τετράκυκλοι, "four-wheeled" (Od. 9.241-242, the Cyclops' door-stone), are in the
+# entry; no matches in Aristotle.
+grc: [ἀμαξάων, ἄμαξαν, "!^Ἄμαξαν", ἀμάξῃσιν, ἄμαξαι, τετράκυκλοι, "=ἀπήνης", ἀπήνην, ἀπήνῃ, πείρινθα, ὑπερτερίῃ]
+en: [wagon, wagons, four-wheeled, wicker body, frame above]
 except: [Od. 5.273]
 ---
 
 ## The words
 
-Homer has two words for the wagon. ἅμαξα is the common one, the wagon of later Greek too. ἀπήνη is found in the Iliad only in the last book, and in the Odyssey only of Nausicaa's wagon; in both poems it names the same mule wagon as ἅμαξα (24.266, 24.275; *Odyssey* 6.72–73), and the translation renders both “wagon” (see the translation's row ἅμαξα / ἀπήνη). The wagon runs on four wheels, τετράκυκλος (24.324), where the war chariot has two (see [[chariot]]): in the Odyssey not even twenty-two good four-wheeled wagons could have levered the Cyclops' door-stone from the ground (*Odyssey* 9.241–242), as not even two men could easily heave Hector's stone onto a wagon (12.447–448). It is drawn by mules or by oxen (24.150, 24.782; see [[mules]] and [[cattle]]).
+Homer has two words for the wagon. ἅμαξα is the common one, the wagon of later Greek too. ἀπήνη is found in the Iliad only in the last book, and in the Odyssey only of Nausicaa's wagon; in both poems it names the same mule wagon as ἅμαξα (24.266, 24.275; *Odyssey* 6.72–73), and the translation renders both “wagon” (see the translation's row ἅμαξα / ἀπήνη). The wagon runs on four wheels, τετράκυκλος (24.324), where the war chariot has two (see [[chariot]]): in the Odyssey not even twenty-two good four-wheeled wagons could have heaved the Cyclops' door-stone from the ground (*Odyssey* 9.240–242; see [[door-stone]]), as not even two men could easily heave Hector's stone onto a wagon (12.447–448). It is drawn by mules or by oxen (24.150, 24.782; see [[mules]] and [[cattle]]).
 
 The πεῖρινς, rendered “wicker body”, is the box bound on the frame (24.190, 24.267). In the Odyssey Peisistratus stows Menelaus' gifts in the πεῖρινς of his chariot (*Odyssey* 15.131). Walter Leaf accepts Hesychius' explanation, a plaited body on a wagon, the square basket set on it, and thinks it probably the same as the ὑπερτερίη fitted on Nausicaa's wagon (*Odyssey* 6.70; *Commentary on the Iliad*, 1900, on 24.190).
 

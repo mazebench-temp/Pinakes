@@ -1,0 +1,5 @@
+---
+summary: Odysseus' false name is the one “my mother and my father” call him (9.366–367). The other Cyclopes bid Polyphemus pray “to your father, lord Poseidon” (9.412); Polyphemus says of Poseidon “he claims to be my father” (9.519), and prays to him “if truly I am yours, and you claim to be my father” (9.529).
+---
+
+The book's fathers are two. Odysseus is “son of Laertes” when he names himself and when he names himself again to the Cyclops (9.19, 9.505; see [[laertes]]), and in the false name it is “my mother and my father” who call him Nobody (9.367; see [[nobody]] and [[meter]]). Polyphemus' father is Poseidon, named by the neighbors as the god he should pray to (9.412), and by himself twice, as the god who will heal him, “for I am his son, and he claims to be my father” (9.519), and in his prayer, “if truly I am yours, and you claim to be my father” (9.529; see [[poseidon]], [[euchomai]] and [[fathers-and-sons]]). The son's claim on the father is the ground of the curse that shapes the rest of the poem (9.530–536; see [[curses]]).

@@ -249,8 +249,8 @@ Where Aristotle quotes the Iliad and agrees with our text, the English keeps the
 Iliad translation: 1378b33 (Il. 1.356, which Aristotle quotes without its last two
 words), 1378b34 (9.648), 1379a5 (2.196), 1379a5–6 (1.82), 1387a33–35 (11.542–543, with the verse that
 our manuscripts lack), 1395a14 (12.243). Il. 18.109–110 (1378b5–7), 24.54, “for in his rage he defiles the senseless
-earth” (1380b30), and 18.309, “Enyalius is impartial” (1395a15). *Odyssey* 9.504 (1380b23), from a book
-the library has not yet translated, is translated here.
+earth” (1380b30), and 18.309, “Enyalius is impartial” (1395a15). *Odyssey* 9.504 (1380b23)
+keeps the wording of the Odyssey translation, “say that Odysseus, sacker of cities”.
 
 Aristotle's lines of Euripides differ in a word from our texts, and the English follows Aristotle:
 “from the citizens”, παρʼ ἀστῶν (1394a35; *Medea* 297 has πρὸς ἀστῶν); “no man”, οὐκ ἔστιν ἀνδρῶν

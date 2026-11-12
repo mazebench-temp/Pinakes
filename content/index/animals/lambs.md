@@ -5,7 +5,8 @@ kind: animal
 tags: [sacrificial-animal, livestock]
 summary: Lambs, the young of the flock, offered to the gods in sacrifice and slaughtered over oaths. The same stem gives ἀρνειός, “ram”.
 aliases: [lamb]
-grc: [ἀρνῶν, ἄρνες]
+# ἄρνας (Il. 3.117, 3.310; Od. 9.226), lambs in every place.
+grc: [ἀρνῶν, ἄρνες, ἄρνας]
 en: [lambs]
 # μήλων "of the flocks" (the Book 2 note) also spells μήλων "of the fruit": αὐτοῖς ἄνθεσι μήλων, the fruit blossoms of Oeneus' orchard (9.542).
 except: [9.542]

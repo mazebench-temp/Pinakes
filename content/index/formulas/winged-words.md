@@ -5,7 +5,7 @@ kind: formula
 tags: [speech-formula, speech]
 summary: The most famous speech formula in Homer, “he addressed him with winged words.” It introduces speeches and never closes one.
 aliases: [epea pteroenta]
-grc: [ἔπεα πτερόεντα προσηύδα]
+grc: [ἔπεα πτερόεντα προσηύδα, "ἔπεα πτερόεντʼ ἀγόρευον"]
 en: [winged words]
 featured: true
 ---

@@ -16,6 +16,6 @@ en: [adze]
 
 ## In Homer
 
-Homer names the adze twice, both times beside the axe. Calypso gives Odysseus a great bronze axe and “then she gave him a polished adze”, and with the two he fells and smooths the timbers of his raft (*Odyssey* 5.234–245; see [[the-building-of-the-raft]]). In the Cyclops' cave the eye hisses round the burning stake as when a smith dips “a great axe or an adze” in cold water to temper it, “for that is the strength of iron” (*Odyssey* 9.391–393, a plain rendering; see [[iron]] and [[polyphemus-the-cyclops]]).
+Homer names the adze twice, both times beside the axe. Calypso gives Odysseus a great bronze axe and “then she gave him a polished adze”, and with the two he fells and smooths the timbers of his raft (*Odyssey* 5.234–245; see [[the-building-of-the-raft]]). In the Cyclops' cave the eye hisses round the burning stake as when a smith dips “a great axe or an adze” in cold water to temper it, “for this in turn is the strength of iron” (*Odyssey* 9.391–393; see [[iron]] and [[polyphemus-the-cyclops]]).
 
 {{notes}}

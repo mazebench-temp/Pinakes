@@ -5,7 +5,8 @@ kind: object
 tags: [feast]
 summary: The small table set before a guest or a diner, on which bread, relishes and the cup were served. In the Iliad Hecamede sets one before Nestor and the wounded Machaon, “with feet of dark blue enamel” (11.628–629); in the Odyssey the polished table drawn up beside a guest belongs to every welcome.
 aliases: [tables, trapeza]
-grc: [τράπεζα, τράπεζαν, τραπέζης, τραπέζῃ]
+# τράπεζαι (Od. 9.8; later 15.333), first met in Odyssey 9; no match in the Iliad or in Aristotle.
+grc: [τράπεζα, τράπεζαν, τραπέζης, τραπέζῃ, τράπεζαι]
 en: [table]
 passages:
   - 11.628-637 | Hecamede's table

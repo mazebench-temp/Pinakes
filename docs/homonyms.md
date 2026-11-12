@@ -785,7 +785,7 @@ alias "Mycene", ephyra-in-argos), the Odyssey entry's Greek match takes the line
 | Νοήμων, son of Phronius (Νοήμονα, Od. 2.386) | Noemon the Lycian (Il. 5.678); Noemon, companion of Antilochus (Il. 23.612); νοήμονες "discerning" (Od. 2.282) | noemon-son-of-phronius: `"Φρονίοιο Νοήμονα"` (Book 4 will add `"Φρονίοιο Νοήμων"`); noemon-of-lycia `except: [Od. 2.386]`; phronius: Φρονίοιο |
 | Μυκήνη, the heroine (Od. 2.120) | Μυκήνη, the city (Il. 4.52) | mycene: the form in her Odyssey Book 2 note; mycenae keeps the city |
 | Τυρώ (Od. 2.120, 11.235) | τυρῷ "cheese" (Od. 20.69) | tyro: `^Τυρώ` |
-| Κύκλωψ, Polyphemus (Od. 2.19) | the race, Κύκλωπες | polyphemus-the-cyclops: the exact Κύκλωψ; cyclopes' `Κύκλωπ*` still takes Κύκλωπος (Od. 1.69) and Κύκλωπα (Od. 9.345), which are Polyphemus too: Book 9 will sort them |
+| Κύκλωψ, Polyphemus (Od. 2.19) | the race, Κύκλωπες | polyphemus-the-cyclops: the exact Κύκλωψ; Κύκλωπος (Od. 1.69) and Κύκλωπα (Od. 9.345), Polyphemus too, are sorted with Book 9 (polyphemus-the-cyclops takes them; cyclopes excludes them) |
 | Ἰθακήσιοι, the people (Od. 2.25, 2.161, 2.229) | Ἰθακήσιος "of Ithaca" (Il. 2.184; Od. 2.246) | ithacans: the plural, `en: [men of Ithaca]`; ithaca keeps the singular |
 | Ἀχαιϊάδες, Ἀχαιαί, Ἀχαιΐδες, the Achaean women (Od. 2.101, 2.119; Il. 5.422, 5.424, 9.395) | Ἀχαιΐς, the land (achaea); the insult “Achaean women, Achaean men no longer” (Il. 2.235, 7.96) | achaean-women, `except: [2.235, 7.96]` |
 | Θέμιστος (Od. 2.68) | Θεμιστοκλῆς (*Rhetoric* 1376a1) | themis-the-goddess: `^Θέμιστος`, with `^Θέμιστι`, `^Θέμι`, `^Θέμιστα` |
@@ -1143,7 +1143,62 @@ bronze, the horse of wood.
 | πόσιος "drink" (Od. 8.72, 8.485) | πόσις "husband" | posis: exact forms only, never `πόσι*` |
 | λείβων "letting tears fall" (Od. 8.86, 8.93, 8.532) | λείβω of libations | libation: exact forms only |
 | ἀρετᾷ "prosper" (Od. 8.329) | ἀρετή | arete: exact forms; evil-deeds-do-not-prosper claims the phrase `"οὐκ ἀρετᾷ κακὰ ἔργα"` |
-| οὐτιδανός "a nobody" (Od. 8.209; 9.460, 9.515) | Οὖτις "Nobody" (9.366 and after) | never `οὐτ*`; strife-with-ones-host claims `"οὐτιδανὸς πέλει ἀνήρ"` |
+| οὐτιδανός "a nobody" (Od. 8.209; 9.460, 9.515) | Οὖτις "Nobody" (9.366 and after) | never `οὐτ*`; strife-with-ones-host claims `"οὐτιδανὸς πέλει ἀνήρ"`; nobody claims `"οὐτιδανὸς καὶ ἄκικυς"` (9.515) in its Book 9 note, and 9.460 is caught by Οὖτις |
+
+### Odyssey, Book 9
+
+Odysseus' tale brings the Cyclops, whose singular forms are a name and whose plural is a people; the herdsman's things of
+his cave (the fold, the cheese, the whey, the stake, the door-stone) meet words of other senses (the courtyard, "I see",
+Tyro, levers, the door); the flocks meet the apples of Alcinous' garden; the names of Maron, Euanthes and Telemus son of
+Eurymus touch common words; the false name Nobody meets the pronoun "no one" and μῆτις; and the Dawn of the formula ἠῶ δῖαν
+stands beside the shining sea.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Κύκλωπος, Κύκλωπα, Polyphemus (Od. 1.69; 9.319, 9.345, 9.362, 9.474, 9.492, 9.548; 10.200) | the race: Κύκλωπες, Κυκλώπων, Κυκλώπεσσι(ν), Κύκλωπας (also *Poetics* 1448a15) | polyphemus-the-cyclops: the exact forms, with Κύκλωψ; cyclopes: `[Κύκλωπ*, "!Κύκλωπος", "!Κύκλωπα"]` (this settles the Book 2 row) |
+| Μάρων (Od. 9.197) | μάρναμαι "fight" | maron: the exact form |
+| Ἐυάνθεος (Od. 9.197) | ἐυανθής "blooming" (Od. 11.320) | euanthes: `^Ἐυάνθεος` |
+| Τήλεμος Εὐρυμίδης (Od. 9.509) | Τηλέμαχος; Εὐρυμέδων, Εὐρυμέδουσα, Εὐρύμαχος, εὐρυμέτωπος | telemus: the exact forms; eurymus: Εὐρυμίδης |
+| Ἠῶ, Dawn (Ἠῶ δῖαν, Od. 9.151, 9.306, 9.436) | lowercase ἠῶ "the east" (πρὸς ἠῶ τʼ ἠέλιόν τε, 9.26) and ἠώς "morning" (9.56 = Il. 8.66, 11.84); ἅλα δῖαν "the shining sea" | eos: `^Ἠῶ` in the entry; its Book 9 note claims "ἠῶ τʼ ἠέλιόν" (9.26, 13.240) and excepts 9.56; dawn-line and brilliant take "Ἠῶ δῖαν" in their Book 9 notes; shining-sea `except: [Od. 9.151, Od. 9.306, Od. 9.436]` |
+| κυανοχαίτης, Poseidon unnamed (Od. 9.536) | κυανοχαίτῃ, the dark-maned stallion of Boreas (Il. 20.224) | dark-haired keeps the stem; poseidon's Book 9 note refs 9.536 |
+| ἦ καί "or" (Od. 9.280) | ἦ καί "he spoke, and" | so-he-spoke's Book 9 note `except: [9.280]` |
+| ὣς φάσαν (Od. 9.500) | ὡς φάσαν "so said those" (Il. 4.374) | so-he-spoke: the phrase in its Odyssey note, never in the entry |
+| πέλωρ, πέλωρον, the Cyclops (Od. 9.257, 9.428) | πέλωρα "portents" (teras); Lycophron's word in *Rhetoric* 1406a7 | huge: its Book 9 note only |
+| γλαφυρῇσιν, γλαφυρῆς ἐκ νηός (Od. 9.99, 9.548) | φόρμιγγος γλαφυρῆς (17.262) and the hollow caves | hollow-ships: the phrases, never bare γλαφυρῆς; ἐν σπῆι γλαφυρῷ stays with hollow-caves |
+| ὄβριμον, the load of wood and the door-stone (Od. 9.233, 9.241, 9.305) | the Iliad's ὄβριμον ἔγχος | obrimos: its Odyssey note only, with en "heavy" |
+| δειλῶν ἑτάρων (Od. 9.65) | δειλός "cowardly" (deos) | wretch: the phrase |
+| Αἰαίη, Circe "of Aeaea" (Od. 9.32) | the island, Αἰαίη νῆσος (10.135, 11.70, 12.3) | aeaea: `^Αἰαίη` (Αἰαίην, Αἰαίης with Books 10–12); circe refs 9.32 |
+| σπέος, ἄντρον, the Cyclops' cave (Od. 9.182–462) | Calypso's cave (5.77); the other Cyclopes' caves (9.114, 9.400); the cave on the island of goats (9.141); Scylla's cave (12.93); the cave of the nymphs (Book 13) | the-cave-of-polyphemus: eleven phrases only |
+| νῆσος, the island of goats (Od. 9.116–153, 9.543) | every other island | the-island-of-goats: five phrases only |
+| Νήριτον, the mountain (Od. 9.22) | Νήριτος, the man (17.207) | neritum: the exact form; the man needs his own id with Book 17 |
+| δῶ "I may give" (Od. 9.356) | δῶ "house" | house's Book 9 note `except: [9.356]` |
+| αὐλή, the Cyclops' fold (Od. 9.184, 9.239, 9.338, 9.462) | αὐλή, the court of a house | fold: phrases in its Book 9 note; house `except: [Od. 9.239, Od. 9.338, Od. 9.462]` (and 9.524, the house of Hades) |
+| ὀρῷ "whey" (Od. 9.222) | ὁρῶ "I see" (Il. 3.234) | milk: the phrase `"ὀρῷ ἄγγεα"` |
+| τυρόν, τυροῦ, τυρῶν "cheese" (Od. 9.219–232) | Τυρώ (11.235); τυρῷ (20.69) | cheese: the exact forms; `"=τυρῷ"` with Book 20 |
+| μοχλός, the stake (Od. 9.332–396) | μοχλοῖσιν "levers" (5.261) | stake: the exact forms only |
+| θυρεόν, the door-stone (Od. 9.240, 9.313, 9.340) | θύρη "door" | door-stone: θυρεόν; door keeps exact forms of θύρη |
+| ἀσκός, the wineskin (Od. 9.196, 9.212) | the skin of the winds (10.19, 10.45, 10.47) | wine: the phrases `"αἴγεον ἀσκὸν"`, `"ἀσκὸν μέγαν"` |
+| πῶμα, the quiver's lid (Od. 9.314) | the chest's lid (8.443, 8.447); the jars' lids (2.353) | quiver: `"φαρέτρῃ πῶμʼ"` |
+| ζυγά "thwarts" (Od. 9.99) | ζυγόν "yoke" | rowing-benches: `"ὑπὸ ζυγὰ"` |
+| κώπῃς "oars" (Od. 9.489) | κώπη, hilt or handle (8.403, 21.7) | oars: `"ἐμβαλέειν κώπῃς"` |
+| εὐνάς "mooring-stones" (Od. 9.137) | beds and lairs | mooring-stones: `"εὐνὰς βαλέειν"` |
+| ποίης "grass" (Od. 9.449) | ποίης "of what kind" (1.406) | grass: `"ἄνθεα ποίης"` |
+| ῥόπαλον, the Cyclops' club (Od. 9.319) | the boys' sticks (Il. 11.559); *Rhetoric* 1411a14 | mace: its Odyssey note only |
+| ἱστόν, the mast the club is likened to (Od. 9.322) | the loom | loom `except: [Od. 9.322]` |
+| μῆλα, μήλων "flocks" (Od. 9 and later) | μῆλον, μήλῳ "apple" (7.120) | sheep: the bare forms in its Book 9 note |
+| ὀίων "sheep" (Od. 9.167, 9.441, 9.443) | οἵων "of what kind" (Aristotle) | sheep: its Book 9 note; the entry keeps `"=οἰῶν"` |
+| ἀρνειός "ram" (Od. 9 and 10.527, 10.572, 11.131, 23.278) | ἀρνεῖται, ἀρνείσθω "deny" (1.249, 8.43, 16.126) | ram: the exact forms |
+| ἐρίφων, ἐρίφους "kids" (Od. 9.220, 9.226) | Ἐριφύλη (11.326) | goats: the exact forms |
+| ἕρσαι "the newborn" (Od. 9.222); πρόγονοι "firstlings" (9.221) | ἕρση, ἐέρση "dew"; πρόγονοι "ancestors" (*Rhetoric*) | lambs: its Book 9 note |
+| δρυσίν "oaks" (Od. 9.186) | Δρύας, δρυτόμος, δρύψε | trees: the exact form in its Book 9 note |
+| βαθὺ λήιον, the island's deep crop (Od. 9.134) | the deep crop of the simile (Il. 2.147) | wind-in-the-wheat `except: [Od. 9.134]` |
+| ἀγόρευον "spoke" (Od. 9.409) | ἀγορή, the place of assembly | assembly `except: [Od. 9.409]` |
+| εὔχομαι "claim", εὖχος "triumph" (Od. 9.263, 9.317, 9.519, 9.529) | prayer | prayer `except` the four lines; euchomai keeps them |
+| θυράων ὑψηλάων, the doorway of the cave (Od. 9.304) | the high-roofed house | high-roofed: its Book 3 note `except: [9.304]` |
+| Οὖτις, Οὖτιν "Nobody" (Od. 9.366, 9.369, 9.408, 9.455, 9.460) | οὔτις, the pronoun "no one"; μή τις (9.405, 9.406, 9.410); μῆτις (9.414) | nobody: `^Οὖτις`, `^Οὖτιν` in the entry, never a stem; the μή τις lines and 9.414 by refs in its Book 9 note |
+| ἐθύσαμεν "made an offering" (Od. 9.231; θῦσαι Il. 9.219; θῦε, θύοντα Od. 15.222, 15.260) | θύω, θύνω "rush, seethe" (Il. 5.87, 21.234; Od. 11.420, 12.408, 13.85, 24.449) | sacrifice: exact forms only, never `θυ*` |
+| κλήρῳ "by lot" (Od. 9.331; κλῆρος 10.207, 14.209) | κλῆρος "allotment, estate" (Il. 15.498; Od. 14.64) | lots: the exact form in its Book 9 note; leave out 14.64 when Book 14 is indexed |
+| ἐλαύνει, ἐλαύνομεν, flocks driven off (Od. 9.405, 9.465) | ἤλασε, ἐξήλασε, the Cyclops driving his flocks in and out (9.237, 9.312, 9.337); ἤλασα, the stake thrust into the embers (9.375) | raiding: the phrases in its Book 9 note, never the bare verb |
 
 ## Aristotle's Poetics
 

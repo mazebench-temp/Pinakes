@@ -1,12 +1,12 @@
 ---
 summary: Zeus names Polyphemus to explain Poseidon's anger. Odysseus blinded the Cyclops, the son of Poseidon and the nymph Thoosa, and from that time Poseidon, without killing him, drives him wandering from his native land (1.68–75).
-# Unnamed: "the Cyclops, whom he blinded of his eye" (1.69), "bore him" (1.71), his begetting (1.73).
-refs: [1.69, 1.71, 1.73]
+# Unnamed: "bore him" (1.71), his begetting (1.73); Κύκλωπος (1.69) is matched by the entry's Greek (Book 9).
+refs: [1.71, 1.73]
 passages:
   - 1.68-79 | Poseidon's anger and the Cyclops
 ---
 
-**The cause.** Athena has asked why Zeus is so angry with Odysseus (1.62), and Zeus answers that the anger is not his but Poseidon's, for the blinding of his son (see [[the-council-of-the-gods]] and [[poseidon]]). ὃν ὀφθαλμοῦ ἀλάωσεν, “whom he blinded of his eye” (1.69): the Cyclops will use the same words of himself when he learns who the man was, ὀφθαλμοῦ ἀλάωσεν, ἐπεί μʼ ἐδαμάσσατο οἴνῳ, “blinded my eye, when he had overcome me with wine” (9.516). The deed is not told until Odysseus tells it to the Phaeacians in the ninth book; the first book gives only its cause, its victim and his family. The renderings of other books are plain renderings, not the translation.
+**The cause.** Athena has asked why Zeus is so angry with Odysseus (1.62), and Zeus answers that the anger is not his but Poseidon's, for the blinding of his son (see [[the-council-of-the-gods]] and [[poseidon]]). ὃν ὀφθαλμοῦ ἀλάωσεν, “whom he blinded of his eye” (1.69): the Cyclops will use the same words of himself when he learns who the man was, ὀφθαλμοῦ ἀλάωσεν, ἐπεί μʼ ἐδαμάσσατο οἴνῳ, “has blinded my eye, when he had overpowered me with wine” (9.516). The deed is not told until Odysseus tells it to the Phaeacians in the ninth book; the first book gives only its cause, its victim and his family.
 
 **Godlike Polyphemus.** ἀντίθεον Πολύφημον (1.70; see [[antitheos]]): the name is drawn into the case of the relative ὅν before it, Merry notes (*Commentary on the Odyssey*, 1886, on 1.70), and the same two words name a Lapith in Nestor's list of the mightiest men of old (*Iliad* 1.264; see [[polyphemus]]). His strength is the measure of his race, “whose power is the greatest / among all the Cyclopes” (1.70–71; see [[kratos]] and [[cyclopes]]). The genitive ὅου occurs only here and at *Iliad* 2.325, and Curtius would write it ὅο; Bekker's ἔσκε for ἐστί rests on slight authority, and would mean that the Cyclops was dead or had lost the might he once had (Merry on 1.70; see the translation's note on 1.70).
 

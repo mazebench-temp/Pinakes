@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Strong, mighty; harsh,” an adjective of strength used of warriors, above all of [[Diomedes]], of battle, and of harsh things.
 aliases: [krateros, karteros, strong, fierce]
-grc: [κρατερὸς, κρατερῷ, κρατερόν, κρατεραὶ, κρατερῇ, κρατερὰς, κρατέρʼ, "!κρατερὸν δʼ ἐπὶ μῦθον"]
+grc: [κρατερὸς, κρατερῷ, κρατερόν, κρατεραὶ, κρατερῇ, κρατερὰς, κρατέρʼ, κρατερῆφι, "!κρατερὸν δʼ ἐπὶ μῦθον"]
 en: [mighty, strong, stronger, fierce, bitter]
 of: [diomedes, ares, diores, lycurgus]
 ---

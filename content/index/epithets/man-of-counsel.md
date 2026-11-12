@@ -3,7 +3,7 @@ title: Man of counsel
 greek: βουληφόρος
 kind: epithet
 tags: [heroic-epithet, kingship, assembly]
-summary: “Counsel-bearing”: an epithet of the leaders who sit in council with the king.
+summary: “Counsel-bearing”: an epithet of the leaders who sit in council with the king, and once in the Odyssey of assemblies, which the Cyclopes do not have.
 aliases: [counsel-bearing, boulephoros]
 grc: [βουληφόρος]
 en: [man of counsel]

@@ -1,10 +1,10 @@
 ---
-title: “And now one who is small and of no account and unseemly”
+title: “But now one who is small and a nobody and unseemly”
 greek: νῦν δέ μʼ ἐὼν ὀλίγος τε καὶ οὐτιδανὸς καὶ ἀεικής
 kind: quotation
 tags: [diction]
 summary: The blinded Cyclops' complaint in the Odyssey that a puny nobody has put out his eye; Aristotle rewrites it in standard words to show how flat the line becomes.
-aliases: [small and of no account, little and weakly and ugly]
+aliases: [small and a nobody, small and of no account, little and weakly and ugly]
 source: Homer, Odyssey 9.515
 of: [polyphemus-the-cyclops, kyrion]
 ---
@@ -13,6 +13,10 @@ of: [polyphemus-the-cyclops, kyrion]
 
 ## In the Odyssey
 
-Polyphemus, blinded, remembers the prophecy that he would lose his sight at the hands of Odysseus: “I always expected some tall and handsome man to come here, clothed in great strength; but now one who is small and of no account and feeble has blinded my eye, when he had overcome me with wine” (*Odyssey* 9.507–516; see [[polyphemus-the-cyclops]] and [[cyclopes]]). Our text ends the line with ἄκικυς, “feeble”; Aristotle's had ἀεικής, “unseemly”.
+Polyphemus, blinded, remembers the prophecy that he would lose his sight at the hands of Odysseus, and complains of the man who did it (*Odyssey* 9.507–516; see [[polyphemus-the-cyclops]] and [[cyclopes]]):
+
+{{quote:111c982f-c741-5bf5-8df1-e1ae224566cd}}
+
+Our text ends the line with ἄκικυς, “feeble”; Aristotle's had ἀεικής, “unseemly”, which Merry reports as a variant from a scholium and from Eustathius (Merry, *Commentary on the Odyssey*, 1886, critical note on *Odyssey* 9.515).
 
 {{notes}}

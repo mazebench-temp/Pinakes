@@ -1,0 +1,6 @@
+---
+summary: Two passages of Athenaeus reach this book through Merry's notes: Eratosthenes' reading of Odysseus' praise of the feast, and the offering of cheeses in the Cyclops' cave as Homer's lesson that the gods receive the first share of a meal.
+---
+
+- **Gladness with evil absent.** Eratosthenes, Athenaeus reports, read 9.6 as ἢ ὅταν εὐφροσύνη μὲν ἔχῃ, κακότητος ἀπούσης, “or when gladness holds, with evil absent”, taking the evil for folly, since the Phaeacians, dear to the gods, could not be without sense (Merry, *Commentary on the Odyssey*, 1886, critical note on 9.6, quoting Athenaeus; see the translation's note on 9.6): [[the-praise-of-the-feast-in-later-writers]] and [[phaeacians]].
+- **First-fruits.** Homer teaches us what we must do before feasting, Athenaeus says, to give the gods the first-fruits of the food: Odysseus' men, though they were in the Cyclops' cave, made an offering before they ate the cheeses, and he quotes the verses with κείαντες for our κήαντες (9.231–232; Athenaeus, as Merry quotes him on 9.231, a plain rendering). For Merry the passage confirms that θύειν in Homer is the offering of first-fruits, never the slaughter of a victim (Merry on 9.231; see the translation's note on 9.231): [[sacrifice]] and [[cheese]].

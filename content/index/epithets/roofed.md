@@ -11,7 +11,7 @@ en: [roofed]
 
 ## Meaning
 
-κατηρεφής belongs to ἐρέφω, “roof” (the verb of ὑψερεφής, “high-roofed”; [[high-roofed]]): “roofed over, covered.” In the pasture on the shield of Achilles stand “farmsteads and roofed huts and pens” (18.589; [[the-sheep-pasture]]). In the Odyssey the word is used of the cave of the Cyclops, “high, roofed over with laurels” (*Odyssey* 9.182–183), of the cave of the Nymphs on Ithaca (*Odyssey* 13.349), and of the great wave that Poseidon raises over Odysseus' raft, arching over him (*Odyssey* 5.366–367).
+κατηρεφής belongs to ἐρέφω, “roof” (the verb of ὑψερεφής, “high-roofed”; [[high-roofed]]): “roofed over, covered.” In the pasture on the shield of Achilles stand “farmsteads and roofed huts and pens” (18.589; [[the-sheep-pasture]]). In the Odyssey the word is used of the cave of the Cyclops, “high, and overhung with laurels” (*Odyssey* 9.182–183), of the cave of the Nymphs on Ithaca (*Odyssey* 13.349), and of the great wave that Poseidon raises over Odysseus' raft, arching over him (*Odyssey* 5.366–367).
 
 {{notes}}
 

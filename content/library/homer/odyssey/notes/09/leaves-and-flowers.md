@@ -1,0 +1,7 @@
+---
+summary: The Cicones of the inland come down on Odysseus' men at Ismarus “as many as the leaves and flowers that grow in their season” (9.51), in the half-verse with which the Iliad counts the Achaeans in the meadow of the Scamander (*Iliad* 2.468).
+---
+
+The men of Ismarus, while Odysseus' companions drink and slaughter on the shore, call up “other Cicones, / who were their neighbors, more numerous and braver too, / living inland” (9.47–49; see [[cicones]] and [[ismarus]]). “Then they came, as many as the leaves and flowers that grow in their season, / early in the morning” (9.51–52). The half-verse is the Iliad's but for its first words: ὅσα φύλλα καὶ ἄνθεα γίγνεται ὥρῃ here, ὅσσά τε φύλλα καὶ ἄνθεα γίγνεται ὥρῃ of the Achaeans, “numberless”, in the flowering meadow of the Scamander (*Iliad* 2.467–468). ὥρῃ is “in their season” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.51), and ἠέριοι, “early in the morning”, is referred by some to ἀήρ, the morning mist, by others to ἦρι, “early” (Merry on 9.52; see the translation's note on 9.52).
+
+In the Iliad the narrator counts with them an army drawn up for battle; here Odysseus counts the enemy as he remembers them coming on, and the number explains what follows. The men had been told to flee and would not, “the great fools” (9.43–44); the Cicones fight them by the ships from morning to the time for unyoking oxen and turn them back, and six companions from each ship perish (9.54–61).

@@ -12,7 +12,7 @@ of: [ithaca]
 
 ## Meaning
 
-The translation renders εὐδείελος “clear-seen,” provisionally, from εὖ, “well,” and the root of δῆλος and δέελος, “clear, plain to see” ([[clear-to-see]]), of an island that stands out in the sea. δείελος, “evening” (*Iliad* 21.232), points to the other sense, “lying toward the west,” toward the sunset (see the translation's note on *Odyssey* 2.167). Odysseus, who calls his island εὐδείελος, says in the same speech that it lies low in the sea, uttermost πρὸς ζόφον, “toward the gloom,” while the other islands lie apart toward the dawn and the sun (*Odyssey* 9.21–26).
+The translation renders εὐδείελος “clear-seen,” from εὖ, “well,” and the root of δῆλος and δέελος, “clear, plain to see” ([[clear-to-see]]), of an island that stands out in the sea. δείελος, “evening” (*Iliad* 21.232), points to the other sense, “lying toward the west,” toward the sunset (see the translation's note on *Odyssey* 2.167). Odysseus, who calls his island εὐδείελος, says in the same speech that it lies low in the sea, farthest out πρὸς ζόφον, “toward the darkness,” while the other islands lie apart toward the dawn and the sun (*Odyssey* 9.21–26).
 
 ## Use
 

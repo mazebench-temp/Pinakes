@@ -18,4 +18,4 @@ of: [neritum, pelion]
 
 {{quote:9ffc8cb3-07d1-5bdc-9e58-ed1ffeaf54b1}}
 
-Odysseus' entry in the Catalogue begins with his own island and its wooded mountain. When he names himself to the Phaeacians in the Odyssey he describes Ithaca the same way: “on it is a mountain, Neritum with its quivering leaves, conspicuous” (Od. 9.21–22). The other wooded mountain is Pelion, home of the Magnetes, from which Peirithous drove the Centaurs ({{ref:Iliad 2.743-744}}, {{ref:Iliad 2.757}}).
+Odysseus' entry in the Catalogue begins with his own island and its wooded mountain. When he names himself to the Phaeacians in the Odyssey he describes Ithaca the same way: “on it is a mountain, / Neritum with its quivering leaves, conspicuous” (Od. 9.21–22). The other wooded mountain is Pelion, home of the Magnetes, from which Peirithous drove the Centaurs ({{ref:Iliad 2.743-744}}, {{ref:Iliad 2.757}}).

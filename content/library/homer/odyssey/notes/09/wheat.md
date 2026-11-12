@@ -1,0 +1,5 @@
+---
+summary: In the land of the Cyclopes wheat and barley and vines grow unsown and unplowed (9.108–111).
+---
+
+The Cyclopes, “trusting in the immortal gods, / neither plant anything with their hands nor plow, / but all these things grow unsown and unplowed, / wheat and barley and vines, which bear / wine of great clusters, and the rain of Zeus makes it grow for them” (9.107–111; see [[barley]], [[vine]] and [[cyclopes]]). θεοῖσι πεποιθότες implies no devoutness, W. W. Merry observes, since the Cyclopes care nothing for the gods (9.275), but a careless confidence in the bounty of nature, which saves them all trouble; he compares Euripides' Cyclops, whose earth “by necessity, whether it will or not,” brings forth grass to fatten his flocks, and the nomad Scythians of Herodotus, who neither sow nor plow (*Commentary on the Odyssey*, 1886, on 9.107; Euripides, *Cyclops* 332–333; Herodotus 4.19; see the translation's note on 9.107). The island off their coast, untilled, has “smooth plowland”, where men “would reap a deep field of grain always / in its season, since the soil beneath is very rich” (9.134–135; see [[the-island-of-goats]]).

@@ -1,0 +1,569 @@
+# Homer, Odyssey, Book 9 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	Answering him, Odysseus of many wiles said:
+2	“Powerful Alcinous, preeminent among all the people,
+3	truly it is a fine thing to listen to a singer
+4	such as this one is, like the gods in his voice.
+5	For I, for my part, say there is no fulfillment more gracious
+6	than when gladness holds the whole people,
+7	and the banqueters throughout the house listen to a singer,
+8	sitting in order, and beside them the tables are laden
+9	with bread and meat, and drawing wine from the mixing bowl
+10	the wine-pourer carries it round and pours it into the cups;
+11	this seems to me in my mind to be something like the finest thing.
+12	But your heart is set on my groaning sorrows,
+13	to ask about them, so that I may groan and mourn still more.
+14	What then shall I recount to you first, and what last?
+15	For the heavenly gods have given me many sorrows.
+16	Now first I will tell you my name, so that you too
+17	may know it, and I hereafter, when I have escaped the pitiless day,
+18	may be your guest-friend, though I live in a house far away.
+19	I am Odysseus, son of Laertes, who for tricks of every kind
+20	am in the thoughts of men, and my fame reaches the sky.
+21	I live in clear-seen Ithaca; and on it is a mountain,
+22	Neritum with its quivering leaves, conspicuous; and around it many islands
+23	lie, very near to one another,
+24	Dulichium and Same and wooded Zacynthus.
+25	But my island itself lies low in the sea, farthest out of all
+26	toward the darkness, while the others lie apart toward the dawn and the sun,
+27	rugged, but a good nurse of young men; and I, for my part,
+28	can see nothing else sweeter than one's own land.
+29	Truly Calypso, brilliant among goddesses, held me back there
+30	in her hollow caves, longing for me to be her husband;
+31	and in the same way Circe kept me in her halls,
+32	the wily one of Aeaea, longing for me to be her husband;
+33	but they never persuaded the heart in my breast.
+34	So true is it that nothing is sweeter than one's native land and parents,
+35	even if a man lives far off in a rich house
+36	in a foreign land, apart from his parents.
+37	But come, let me tell you also of my homecoming of many sorrows,
+38	which Zeus sent upon me as I came from Troy.
+39	From Ilios the wind bore me and brought me near the Cicones,
+40	to Ismarus. There I sacked the city and destroyed the men themselves;
+41	and from the city we took their wives and many possessions
+42	and divided them, so that for my part no one might go away cheated of his fair share.
+43	Then indeed I bade us flee with nimble foot,
+44	but they, the great fools, would not obey.
+45	But there much wine was drunk, and many sheep
+46	they slaughtered beside the shore, and shambling cattle with curving horns.
+47	Meanwhile the Cicones went off and called to other Cicones,
+48	who were their neighbors, more numerous and braver too,
+49	living inland, who knew how to fight with men from chariots,
+50	and on foot too, where there was need.
+51	Then they came, as many as the leaves and flowers that grow in their season,
+52	early in the morning; and then an evil fate from Zeus stood beside us,
+53	men of dread fate, so that we might suffer many sorrows.
+54	They set their battle in array and fought beside the swift ships,
+55	and they struck at one another with bronze-fitted spears.
+56	As long as it was morning and the sacred day was growing,
+57	so long we held our ground and fought them off, though they were more.
+58	But when the sun moved on toward the time for unyoking oxen,
+59	then at last the Cicones overpowered the Achaeans and turned them back.
+60	And from each ship six of my well-greaved companions
+61	perished; but the rest of us escaped death and fate.
+62	From there we sailed on, grieving at heart,
+63	glad to have escaped death, though we had lost our dear companions.
+64	Nor did my curving ships go on farther
+65	until we had called three times on each of our wretched companions
+66	who had died on the plain, cut down by the Cicones.
+67	But against the ships Zeus the cloud-gatherer roused the North Wind
+68	with a heaven-sent storm, and with clouds he covered
+69	land and sea alike; and night arose from the sky.
+70	Then the ships were driven on slantwise, and their sails
+71	the force of the wind tore in three and four pieces.
+72	And we lowered them into the ships, fearing destruction,
+73	and rowed the ships themselves with all speed toward the land.
+74	There for two nights and two days without ceasing
+75	we lay, eating our hearts out with weariness and sorrows together.
+76	But when Dawn of the lovely tresses brought the third day,
+77	we set up the masts and hoisted the white sails
+78	and sat, and the wind and the helmsmen steered the ships.
+79	And now I would have reached my native land unharmed;
+80	but as I was rounding Malea, the wave and the current
+81	and the North Wind pushed me back, and drove me off course past Cythera.
+82	From there for nine days I was borne by deadly winds
+83	over the fish-filled sea; but on the tenth we set foot
+84	on the land of the Lotus-eaters, who eat a flowery food.
+85	There we went up onto the land and drew water,
+86	and at once my companions took their meal beside the swift ships.
+87	But when we had tasted food and drink,
+88	then I sent some of my companions to go and find out
+89	what men they might be who eat bread upon the earth,
+90	choosing two men, and sending a herald with them as the third.
+91	They went at once and mingled with the Lotus-eaters;
+92	and the Lotus-eaters devised no destruction for our companions,
+93	but gave them some of the lotus to taste.
+94	And whoever of them ate the honey-sweet fruit of the lotus
+95	no longer wished to bring back word or to return,
+96	but they wished to remain there among the Lotus-eaters,
+97	munching the lotus, and to forget their homecoming.
+98	These I brought back to the ships by force, weeping,
+99	and in the hollow ships I dragged them under the thwarts and bound them.
+100	But the rest of my trusty companions I ordered
+101	to make haste and go on board the swift ships,
+102	for fear that one of them might eat of the lotus and forget his homecoming.
+103	And they went on board at once and sat down at the rowing benches,
+104	and sitting in order they struck the gray sea with their oars.
+105	From there we sailed on, grieving at heart;
+106	and we came to the land of the Cyclopes, overbearing and lawless,
+107	who, trusting in the immortal gods,
+108	neither plant anything with their hands nor plow,
+109	but all these things grow unsown and unplowed,
+110	wheat and barley and vines, which bear
+111	wine of great clusters, and the rain of Zeus makes it grow for them.
+112	They have no assemblies that bring counsel, and no ordinances,
+113	but they live on the peaks of high mountains
+114	in hollow caves, and each one gives the law
+115	to his children and his wives, and they care nothing for one another.
+116	Now there is an island of good soil that stretches out beyond the harbor,
+117	neither near the land of the Cyclopes nor far off,
+118	a wooded one; and on it live countless goats,
+119	wild ones; for no path of men keeps them away,
+120	nor do hunters go into it, who in the woods
+121	suffer pains as they range over the peaks of the mountains.
+122	It is not taken up by flocks nor by plowing,
+123	but unsown and unplowed all its days
+124	it is empty of men, and feeds bleating goats.
+125	For the Cyclopes have no ships with red-painted prows,
+126	nor are there shipwrights among them, who might build
+127	well-benched ships, which might accomplish each errand,
+128	going to the cities of men, as men often
+129	cross the sea in ships to visit one another;
+130	such men would also have made the island well settled for them.
+131	For it is not a poor place at all, and would bear all things in their season;
+132	for in it are meadows beside the banks of the gray sea,
+133	well-watered and soft; the vines there would be imperishable.
+134	In it is smooth plowland; they would reap a deep field of grain always
+135	in its season, since the soil beneath is very rich.
+136	In it is a harbor with good anchorage, where there is no need of a cable,
+137	neither to cast out mooring-stones nor to make fast stern-cables,
+138	but men may run their ships ashore and wait a while, until the sailors'
+139	hearts urge them on, and the breezes blow fair.
+140	And at the head of the harbor flows bright water,
+141	a spring from under a cave; and around it poplars grow.
+142	There we sailed in, and some god guided us
+143	through the dark night, and nothing could be seen;
+144	for a thick mist was around the ships, and the moon
+145	did not shine from the sky, but was held fast in clouds.
+146	Then no one saw the island with his eyes,
+147	nor did we see the long waves rolling toward the shore,
+148	before we ran our well-benched ships ashore.
+149	And when the ships were beached we lowered all the sails,
+150	and we ourselves too stepped out where the sea breaks upon the shore;
+151	There we fell asleep and waited for brilliant Dawn.
+152	And when early-born Dawn appeared, the rosy-fingered,
+153	we roamed over the island itself, marveling at it.
+154	And the nymphs, the daughters of aegis-bearing Zeus, roused
+155	the goats that lived in the mountains, so that my companions might have their meal.
+156	At once we took our curved bows and long-socketed javelins
+157	from the ships, and, arranged in three bands,
+158	we began to shoot; and at once the god gave us game to satisfy the heart.
+159	Twelve ships followed me, and to each
+160	nine goats fell by lot; but for me alone they chose out ten.
+161	So all day long, until the sun went down,
+162	we sat feasting on untold meat and sweet wine;
+163	for the red wine was not yet spent from the ships,
+164	but there was still some in them; for we had each drawn off much in two-handled jars
+165	when we took the sacred citadel of the Cicones.
+166	And we looked across to the land of the Cyclopes, who were near,
+167	and saw their smoke, and heard their voices, and those of the sheep and the goats.
+168	When the sun went down and darkness came on,
+169	and then we lay down to sleep where the sea breaks upon the shore.
+170	And when early-born Dawn appeared, the rosy-fingered,
+171	then I called an assembly and spoke among them all:
+172	‘Stay here now, the rest of you, my trusty companions;
+173	but I, in my own ship with my companions,
+174	will go and make trial of these men, who they are,
+175	whether they are arrogant and savage and unjust,
+176	or kind to strangers, with a mind that fears the gods.’
+177	So saying, I went on board the ship, and ordered my companions
+178	to go on board themselves and loose the stern-cables.
+179	And they went on board at once and sat down at the rowing benches,
+180	and sitting in order they struck the gray sea with their oars.
+181	But when we had come to the place, which was near,
+182	there at the far edge of the land, close to the sea, we saw a cave,
+183	high, and overhung with laurels. And there many
+184	flocks, sheep and goats, used to sleep; and around it a high fold
+185	had been built with stones set deep in the earth
+186	and with tall pines and high-leafed oaks.
+187	There a huge man used to sleep, who herded his flocks
+188	alone, far off; and he did not go among the others,
+189	but lived apart, and knew lawless ways.
+190	For he was made a huge wonder, and was not like
+191	a man who eats bread, but like a wooded peak
+192	of high mountains, which stands out alone, apart from the others.
+193	Then I ordered the rest of my trusty companions
+194	to stay there beside the ship and guard the ship,
+195	but I chose twelve of my companions, the best,
+196	and went; and I had with me a goatskin of dark wine,
+197	sweet wine, which Maron, son of Euanthes, had given me,
+198	the priest of Apollo, who used to stand guard over Ismarus,
+199	because we had protected him with his child and his wife
+200	in reverence; for he lived in the grove full of trees
+201	of Phoebus Apollo. And he gave me splendid gifts:
+202	he gave me seven talents of well-made gold,
+203	and he gave me a mixing bowl all of silver, and then
+204	he drew off wine in two-handled jars, twelve in all,
+205	sweet unmixed wine, a divine drink; and no one
+206	of the slaves or the handmaids in the house knew of it,
+207	but only he himself and his dear wife and one housekeeper.
+208	And whenever they drank that honey-sweet red wine,
+209	he would fill one cup and pour it into twenty measures of water,
+210	and a sweet fragrance rose from the mixing bowl,
+211	a wondrous one; then it would not have been your pleasure to hold back.
+212	With this I filled a great skin and carried it, and provisions too
+213	in a leather sack; for at once my proud spirit foreboded
+214	that a man would come upon us, clothed in great courage,
+215	a savage, who knew well neither judgments nor ordinances.
+216	Quickly we came to the cave, but we did not find him
+217	inside; he was herding his fat flocks in the pasture.
+218	We went into the cave and gazed at each thing.
+219	The racks were laden with cheeses, and the pens were crowded
+220	with lambs and kids; each kind was penned
+221	apart, the firstlings by themselves, the later ones by themselves,
+222	and the newborn by themselves. And all the vessels were swimming with whey,
+223	the pails and the bowls, well made, into which he milked.
+224	Then my companions begged me at first with words
+225	to take some of the cheeses and go back, and then
+226	quickly to drive the kids and lambs to the swift ship
+227	out of the pens, and to sail over the salt water;
+228	but I did not listen—it would have been far better—
+229	so that I might see him himself, and whether he would give me guest-gifts.
+230	But when he appeared, he was not to be a lovely sight for my companions.
+231	There we kindled a fire and made an offering, and we ourselves too
+232	took some of the cheeses and ate, and waited for him inside,
+233	sitting there, until he came, herding his flocks. He carried a heavy load
+234	of dry wood, to have light for his supper,
+235	and threw it down inside the cave with a din;
+236	and we in terror shrank back into the inner part of the cave.
+237	But he drove his fat flocks into the wide cave,
+238	all those that he milked, and left the males outside the door,
+239	the rams and the he-goats, outside in the high-walled fold.
+240	Then he lifted high and set in place a great door-stone,
+241	a heavy one; two and twenty wagons,
+242	good four-wheeled ones, could not have heaved it from the ground;
+243	so lofty a rock he set against the doorway.
+244	Then he sat down and milked the sheep and the bleating goats,
+245	all in good order, and put her young one under each.
+246	And at once he curdled half of the white milk,
+247	gathered it, and laid it in woven baskets,
+248	and half again he set in vessels, so that he might have it
+249	to take and drink, and have it for his supper.
+250	But when he had busily finished his tasks,
+251	then he kindled the fire, and saw us, and asked us:
+252	‘Strangers, who are you? From where do you sail the watery ways?
+253	Is it on some business, or do you wander at random
+254	over the sea, like pirates, who wander
+255	staking their lives and bringing evil to foreigners?’
+256	So he spoke, and our dear heart was broken,
+257	in terror of his heavy voice and of the monster himself.
+258	But even so I answered him with words and said:
+259	‘We, you must know, are Achaeans, driven off course from Troy
+260	by winds of every kind over the great gulf of the sea,
+261	eager to go home, by another way, by other paths
+262	we have come; so, I suppose, Zeus wished to devise it.
+263	And we claim to be the people of Agamemnon, son of Atreus,
+264	whose fame is now the greatest under heaven;
+265	so great a city did he sack, and destroyed many
+266	people. But we in our turn have reached you and come to your knees,
+267	to see if you will give us a guest-gift, or otherwise
+268	give us some present, as is the custom with strangers.
+269	But respect the gods, good sir; we are your suppliants,
+270	and Zeus is the avenger of suppliants and strangers,
+271	the god of guests, who attends on revered strangers.’
+272	So I spoke, and at once he answered me with pitiless heart:
+273	‘You are a fool, stranger, or you have come from far away,
+274	you who bid me either fear or avoid the gods;
+275	for the Cyclopes care nothing for aegis-bearing Zeus
+276	nor for the blessed gods, since we are far the stronger.
+277	Nor would I, to avoid the hatred of Zeus, spare
+278	either you or your companions, unless my own heart bade me.
+279	But tell me where you moored your well-made ship when you came,
+280	whether somewhere at the far edge of the land, or near, so that I may know.’
+281	So he spoke, testing me, but he did not escape my notice, for I knew much,
+282	but I answered him back with crafty words:
+283	‘My ship Poseidon the earth-shaker shattered,
+284	dashing it against the rocks at the borders of your land,
+285	driving it on a headland; and a wind from the sea had borne it there;
+286	but I with these escaped sheer destruction.’
+287	So I spoke, and he answered me nothing, with pitiless heart,
+288	but sprang up and put out his hands to my companions,
+289	and seizing two together he dashed them to the ground like puppies,
+290	and their brains flowed out on the ground and soaked the earth.
+291	Then he cut them limb from limb and made ready his supper;
+292	and he ate like a mountain-bred lion, and left nothing,
+293	entrails and flesh and marrowy bones.
+294	And we, weeping, lifted up our hands to Zeus,
+295	seeing the cruel deeds, and helplessness held our hearts.
+296	But when the Cyclops had filled his great belly,
+297	eating human flesh and drinking unmixed milk on top of it,
+298	he lay inside the cave, stretched out among his flocks.
+299	Then I planned in my proud heart
+300	to go up close, drawing the sharp sword from beside my thigh,
+301	and stab him in the chest, where the midriff holds the liver,
+302	feeling for the place with my hand; but a second thought held me back.
+303	For there we too would have perished by sheer destruction;
+304	for we could not have pushed away from the high doorway
+305	with our hands the heavy stone that he had set against it.
+306	So then, groaning, we waited for brilliant Dawn.
+307	And when early-born Dawn appeared, the rosy-fingered,
+308	then he kindled the fire and milked his fine flocks,
+309	all in good order, and put her young one under each.
+310	But when he had busily finished his tasks,
+311	again he seized two men together and made ready his meal.
+312	And when he had dined he drove his fat flocks out of the cave,
+313	easily taking away the great door-stone; and then
+314	he set it back again, as one sets the lid on a quiver.
+315	And with much whistling he turned his fat flocks toward the mountain,
+316	the Cyclops; but I was left there, brooding evil deep within,
+317	to see whether I might take vengeance, and Athena grant me triumph.
+318	And this plan seemed to me in my heart the best:
+319	there lay beside the pen a great club of the Cyclops,
+320	of green olive wood; he had cut it to carry with him
+321	when it was dry. As we looked at it, we likened it
+322	to the mast of a black ship of twenty oars,
+323	a broad freight ship, which crosses the great gulf;
+324	so great was it in length, so great in thickness to look upon.
+325	From it I stood by and cut off about a fathom's length,
+326	and set it beside my companions, and bade them taper it;
+327	and they made it smooth; and I stood by and sharpened
+328	the point, and at once took it and hardened it in the blazing fire.
+329	And I laid it away carefully, hiding it under the dung,
+330	which lay spread throughout the cave in great abundance.
+331	Then I ordered the others to cast lots
+332	for who would dare to lift the stake with me
+333	and grind it into his eye, when sweet sleep came upon him.
+334	And the lot fell on those whom I myself would have wished to choose,
+335	four of them, and I counted myself in with them as the fifth.
+336	In the evening he came, herding his fine-fleeced flocks.
+337	At once he drove his fat flocks into the wide cave,
+338	all of them, and left none outside in the high-walled fold,
+339	either because he suspected something, or because a god so bade him.
+340	Then he lifted high and set in place a great door-stone,
+341	and sat down and milked the sheep and the bleating goats,
+342	all in good order, and put her young one under each.
+343	But when he had busily finished his tasks,
+344	again he seized two men together and made ready his supper.
+345	Then I stood close by the Cyclops and spoke to him,
+346	holding in my hands an ivy-wood bowl of dark wine:
+347	‘Cyclops, here, drink wine, since you have eaten human flesh,
+348	so that you may know what kind of drink this was that our ship
+349	held hidden. I was bringing it to you as a libation, in the hope that you would pity me
+350	and send me home; but you rage past all bearing.
+351	Hard man, how should anyone else come to you hereafter
+352	of the many men there are, since you have not acted fair and right?’
+353	So I spoke, and he took it and drank it off; and he was terribly pleased
+354	drinking the sweet drink, and asked me for it a second time:
+355	‘Give me more, and gladly, and tell me your name
+356	right now, so that I may give you a guest-gift, in which you may rejoice;
+357	for the grain-giving earth bears for the Cyclopes too
+358	wine of great clusters, and the rain of Zeus makes it grow for them;
+359	but this is a branch of ambrosia and nectar.’
+360	So he spoke, and again I gave him the sparkling wine.
+361	Three times I brought it and gave it to him, and three times he drank it off in his folly.
+362	But when the wine had come around the Cyclops' wits,
+363	then I spoke to him with soothing words:
+364	‘Cyclops, you ask me my famous name, and I will tell it
+365	to you; and you give me a guest-gift, as you promised.
+366	Nobody is my name; Nobody they call me,
+367	my mother and my father and all my other companions.’
+368	So I spoke, and at once he answered me with pitiless heart:
+369	‘Nobody I will eat last among his companions,
+370	and the others before him; that shall be your guest-gift.’
+371	He spoke, and leaning back he fell on his back, and then
+372	he lay with his thick neck bent aside, and sleep
+373	that subdues all took him; and from his throat rushed wine
+374	and gobbets of human flesh; and he belched, sodden with wine.
+375	Then I drove the stake under the deep ashes
+376	until it grew hot, and with words I encouraged all my companions,
+377	so that no one might draw back from me in fear.
+378	But when the stake of olive wood was just about to catch fire,
+379	green though it was, and glowed terribly,
+380	then I brought it near from the fire, and around me my companions
+381	stood; and a god breathed great daring into us.
+382	They took the stake of olive wood, sharp at the point,
+383	and thrust it into his eye; and I, throwing my weight on it from above,
+384	twirled it, as when a man bores a ship's timber
+385	with a drill, and those below keep it spinning with a strap,
+386	holding it at either end, and it runs round without letting up.
+387	So we took the fire-pointed stake and twirled it in his eye,
+388	and the blood flowed round the stake, hot as it was.
+389	And the blast singed all his eyelids round about, and his brows,
+390	as the eyeball burned, and its roots crackled in the fire.
+391	And as when a smith dips a great axe or an adze
+392	in cold water, and it hisses loudly,
+393	to temper it; for this in turn is the strength of iron;
+394	so his eye hissed around the stake of olive wood.
+395	And he groaned aloud terribly, and the rock rang round about,
+396	and we in terror shrank back; but he wrenched the stake
+397	out of his eye, drenched with much blood.
+398	Then he flung it from him with his hands, distraught,
+399	and called loudly to the Cyclopes, who lived around him
+400	in caves among the windy heights.
+401	And they heard his shout and came, one from one place and one from another,
+402	and standing around the cave they asked what ailed him:
+403	‘What has hurt you so, Polyphemus, that you have cried out like this
+404	through the ambrosial night, and make us sleepless?
+405	Surely no one among mortals is driving off your flocks against your will?
+406	Surely no one is killing you yourself by trickery or by force?’
+407	Then from the cave mighty Polyphemus spoke to them in turn:
+408	‘Friends, Nobody is killing me by trickery, and not by force.’
+409	And they answered him and spoke winged words:
+410	‘If then nobody is doing you violence, alone as you are,
+411	there is no way to escape a sickness sent by great Zeus;
+412	but you must pray to your father, lord Poseidon.’
+413	So they spoke as they went away, and my dear heart laughed within me,
+414	how my name and my flawless plan had deceived him.
+415	But the Cyclops, groaning and writhing in agonies of pain,
+416	groping with his hands, took the stone away from the doorway,
+417	and sat down himself in the doorway, stretching out both his hands,
+418	to see if he could catch anyone going out of the door among the sheep;
+419	for so foolish, I suppose, he hoped in his mind that I was.
+420	But I planned how all might turn out best by far,
+421	if I might find some release from death for my companions and for myself;
+422	and I wove every kind of trick and plan,
+423	as one does where life is at stake; for great evil was near.
+424	And this plan seemed to me in my heart the best:
+425	there were rams, well fed and thick of fleece,
+426	fine and large, with violet-dark wool;
+427	these I bound together in silence with well-twisted willow shoots,
+428	on which the Cyclops slept, the monster, who knew lawless ways,
+429	taking them three together; the one in the middle carried a man,
+430	and the other two went on either side, saving my companions.
+431	Three sheep carried each man; but as for me—
+432	for there was a ram, by far the best of all the flock—
+433	I grasped him by the back, and curled up under his shaggy belly
+434	I lay; and to the wondrous fleece, with my hands,
+435	turning myself over, I held on unceasingly with enduring heart.
+436	So then, groaning, we waited for brilliant Dawn.
+437	And when early-born Dawn appeared, the rosy-fingered,
+438	then the males of the flock rushed out to the pasture,
+439	and the females bleated unmilked around the pens,
+440	for their udders were bursting. And their master, worn down
+441	by evil pains, felt along the backs of all the sheep
+442	as they stood upright; but the fool did not notice
+443	how the men were bound under the chests of the woolly sheep.
+444	Last of the flock the ram went out of the door,
+445	weighed down by his wool and by me, thinking shrewd thoughts.
+446	And mighty Polyphemus felt him over and spoke to him:
+447	‘Dear ram, why do you hurry out through the cave like this, the last
+448	of the flock? Before you never used to come behind the sheep,
+449	but you were far the first to graze on the tender flowers of the grass,
+450	with long strides, and the first to reach the streams of the rivers,
+451	and the first to long to go back to the farmstead
+452	in the evening; but now you are the very last. Surely you miss your master's
+453	eye, which a bad man blinded
+454	with his wretched companions, when he had overpowered my wits with wine,
+455	Nobody, who I say has not yet escaped destruction.
+456	If only you could be of one mind with me and could find a voice
+457	to tell where he is skulking from my might!
+458	Then his brains would be dashed against the ground, this way and that through the cave,
+459	as he was struck down, and my heart would find relief
+460	from the evils that Nobody, a nobody, gave me.’
+461	So saying, he sent the ram away from him out of the door.
+462	When we had gone a little way from the cave and the fold,
+463	I first loosed myself from under the ram, and set my companions free.
+464	And quickly the long-legged flocks, rich with fat,
+465	we drove off, often turning them about, until we came
+466	to the ship. And we were a welcome sight to our dear companions,
+467	we who had escaped death; but for the others they groaned and lamented.
+468	But I would not let them—I signed no with my brows to each—
+469	weep, but bade them quickly throw the many fine-fleeced sheep
+470	on board the ship and sail over the salt water.
+471	And they went on board at once and sat down at the rowing benches,
+472	and sitting in order they struck the gray sea with their oars.
+473	But when I was as far away as a man can make himself heard with a shout,
+474	then I spoke to the Cyclops with cutting words:
+475	‘Cyclops, it was not a weakling's companions after all that you were
+476	to eat in your hollow cave with your mighty strength.
+477	Yes, truly your evil deeds were to catch up with you,
+478	hard man, since you did not shrink from eating strangers
+479	in your own house; therefore Zeus and the other gods have punished you.’
+480	So I spoke, and he grew all the more angry in his heart,
+481	and he broke off the peak of a great mountain and hurled it,
+482	and threw it down in front of the dark-prowed ship,
+483	by a little, and it failed to reach the tip of the steering oar.
+484	And the sea surged up under the falling rock;
+485	and the backwash at once carried the ship toward the land,
+486	a swell from the sea, and drove it to reach the shore.
+487	But I took a very long pole in my hands
+488	and pushed the ship off and away, and urged on my companions and bade them
+489	lay to their oars, so that we might escape from evil,
+490	nodding with my head; and they bent forward and rowed.
+491	But when we had gone over the sea twice as far,
+492	then I spoke to the Cyclops; and around me my companions
+493	tried to hold me back with soothing words, one from one side and one from another:
+494	‘Hard man, why do you want to provoke a savage man?
+495	Just now he threw his missile into the sea and brought the ship
+496	back to the land, and we thought we would perish there.
+497	And if he had heard any of us utter a sound or speak,
+498	he would have crushed our heads and the timbers of our ship
+499	with a jagged boulder flung at us; so far does he throw.’
+500	So they spoke, but they did not persuade my proud heart,
+501	but I answered him back with resentful heart:
+502	‘Cyclops, if any mortal man
+503	asks you about the unsightly blinding of your eye,
+504	say that Odysseus, sacker of cities, blinded you,
+505	the son of Laertes, who has his home in Ithaca.’
+506	So I spoke, and he groaned and answered me:
+507	‘Ah, truly the oracles spoken long ago have come home to me.
+508	There was once a seer here, a man tall and brave,
+509	Telemus, son of Eurymus, who excelled in prophecy
+510	and grew old among the Cyclopes as their seer;
+511	he told me that all these things would come to pass hereafter,
+512	that I would lose my sight at the hands of Odysseus.
+513	But I always expected some tall and handsome man
+514	to come here, clothed in great courage;
+515	but now one who is small and a nobody and feeble
+516	has blinded my eye, when he had overpowered me with wine.
+517	But come here, Odysseus, so that I may set good cheer before you
+518	and speed your escort, that the famous shaker of the earth may grant it;
+519	for I am his son, and he claims to be my father.
+520	And he himself, if he wishes, will heal me, and no one else,
+521	neither of the blessed gods nor of mortal men.’
+522	So he spoke, and I answered him and said:
+523	‘If only I could make you bereft of soul and life
+524	and send you into the house of Hades,
+525	as surely as not even the earth-shaker will heal your eye.’
+526	So I spoke, and then to lord Poseidon he
+527	prayed, stretching out his hands to the starry sky:
+528	‘Hear me, Poseidon, dark-haired earth-holder,
+529	if truly I am yours, and you claim to be my father,
+530	grant that Odysseus, sacker of cities, may not reach home,
+531	the son of Laertes, who has his home in Ithaca.
+532	But if it is his fate to see his friends and reach
+533	his well-built house and his native land,
+534	let him come late and in evil plight, having lost all his companions,
+535	on someone else's ship, and find bane in his house.’
+536	So he spoke in prayer, and the dark-haired god heard him.
+537	But he lifted again a far greater stone,
+538	and hurled it, whirling it round, and leaned his measureless strength into it,
+539	and threw it down behind the dark-prowed ship,
+540	by a little, and it failed to reach the tip of the steering oar.
+541	And the sea surged up under the falling rock;
+542	and the wave carried the ship forward, and drove it to reach the shore.
+543	But when we came to the island, where the other
+544	well-benched ships waited all together, and around them our companions
+545	sat mourning, always waiting for us,
+546	there we came and ran the ship ashore on the sand,
+547	and we ourselves too stepped out where the sea breaks upon the shore.
+548	And we took the Cyclops' flocks out of the hollow ship
+549	and divided them, so that for my part no one might go away cheated of his fair share.
+550	But the ram my well-greaved companions gave to me alone,
+551	as a special gift when the flocks were divided; and on the shore
+552	to Zeus, lord of the dark clouds, son of Cronus, who rules over all,
+553	I sacrificed him and burned the thigh-pieces; but he took no heed of the offering,
+554	but was pondering how they might all perish,
+555	my well-benched ships and my trusty companions.
+556	So all day long, until the sun went down,
+557	we sat feasting on untold meat and sweet wine.
+558	When the sun went down and darkness came on,
+559	and then we lay down to sleep where the sea breaks upon the shore.
+560	And when early-born Dawn appeared, the rosy-fingered,
+561	then I urged on my companions and bade them
+562	go on board themselves and loose the stern-cables;
+563	and they went on board at once and sat down at the rowing benches,
+564	and sitting in order they struck the gray sea with their oars.
+565	From there we sailed on, grieving at heart,
+566	glad to have escaped death, though we had lost our dear companions.”

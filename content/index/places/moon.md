@@ -7,8 +7,9 @@ summary: The moon, σελήνη or μήνη, a light of the sky and never a godd
 aliases: [moon, Selene, the full moon, mene]
 # μήνη, the other word for the moon: μήνης (19.374) is claimed in the Book 19 note, μήνη (23.455, only there) in the
 # Book 23 note; the comparisons are similes/like-the-moon's. σελήνης, the genitive, is the gleam of the houses of
-# Menelaus and Alcinous (Od. 4.45, 7.84); σελήνη (Od. 9.144) and σελήνῃ (Od. 24.148) are to be added with their books.
-grc: [σελήνην, σελήνης]
+# Menelaus and Alcinous (Od. 4.45, 7.84). σελήνη (Od. 9.144), compared without the iota subscript, also takes
+# σελήνῃ (Od. 24.148); no other word of Homer or Aristotle has its letters.
+grc: [σελήνην, σελήνης, σελήνη]
 en: [moon]
 ---
 

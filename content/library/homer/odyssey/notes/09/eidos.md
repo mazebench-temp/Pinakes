@@ -1,0 +1,6 @@
+---
+summary: The feast with the singer “seems to me in my mind to be something like the finest thing” (9.11). The book turns on looks that mislead: the Cyclops “was not like / a man who eats bread, but like a wooded peak” (9.190–192), and he expected “some tall and handsome man”, not “one who is small and a nobody” (9.513–515).
+en: [seems]
+---
+
+εἴδεται, “seems”, closes Odysseus' praise of the feast: “this seems to me in my mind to be something like the finest thing” (9.11), where τι softens the superlative, “this thing in a sort of way” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.11; see [[feast]]). The tale that follows is full of appearances. The Cyclops is described before he is seen: “he was made a huge wonder, and was not like / a man who eats bread, but like a wooded peak / of high mountains, which stands out alone, apart from the others” (9.190–192; see [[like-a-wooded-peak]] and [[who-eat-the-fruit-of-the-field]]). The Cyclops for his part had looked for a hero by his looks: “But I always expected some tall and handsome man / to come here, clothed in great courage; / but now one who is small and a nobody and feeble / has blinded my eye” (9.513–516; see [[small-and-of-no-account]] and [[nobody]]).

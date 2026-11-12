@@ -5,7 +5,7 @@ kind: epithet
 tags: [mountain]
 summary: “Lofty,” an epithet of great rocks, πέτρη ἠλίβατος, in similes of the Iliad and in the landscapes of the Odyssey; its origin is unknown.
 aliases: [elibatos, towering]
-grc: [ἠλίβατος]
+grc: [ἠλίβατος, ἠλίβατον]
 en: [lofty]
 ---
 

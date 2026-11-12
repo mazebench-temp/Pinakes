@@ -1,0 +1,6 @@
+---
+summary: Odysseus' praise of the feast at the house of Alcinous, “and the banqueters throughout the house listen to a singer, / sitting in order, and beside them the tables are laden / with bread and meat, and drawing wine from the mixing bowl / the wine-pourer carries it round and pours it into the cups” (9.7–10); and in the tale the meals on the shore, by the ships at the land of the Lotus-eaters (9.85–87) and on the island of goats until sunset (9.161–162 = 9.556–557).
+refs: [9.5-11, 9.85-87, 9.161-162, 9.556-557]
+---
+
+The praise names the parts of the scene, the singer, the seated guests, the tables, the wine drawn from the bowl and poured into the cups, and calls them “something like the finest thing” (9.11); Merry takes the τέλος of 9.5 as the highest perfection of a thing rather than its end, and agrees with Eustathius that Odysseus is not setting out a philosophy but chiming in with his host, who had said, “and always dear to us are the feast and the lyre and the dances” (8.248; Merry, *Commentary on the Odyssey*, 1886, on 9.5; see the translation's notes on 9.5 and 9.6). The meals of the tale are eaten on the shore, and the Cyclops' meals are the companions (9.288–298; [[feast]], [[singers]], [[untold]], [[sunset-lines]]).

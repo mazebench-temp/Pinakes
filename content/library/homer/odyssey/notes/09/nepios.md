@@ -1,0 +1,8 @@
+---
+summary: In his own tale Odysseus uses the narrator's word: his men at Ismarus were “the great fools” who would not obey (9.44), and the blinded Cyclops at the cave door was “the fool” who did not notice the men under his sheep (9.442). The Cyclops calls Odysseus a fool for appealing to the gods (9.273), and hoped that he was fool enough to walk out among the sheep (9.419).
+en: [the great fools, foolish]
+---
+
+**The narrator's word.** Book 9 is told by Odysseus, and he judges as the poem's narrator judges, with νήπιος at the head of the clause. At Ismarus, after the sack, he bade his men flee with nimble foot, “but they, the great fools, would not obey” (τοὶ δὲ μέγα νήπιοι, 9.44): they drank and slaughtered on the shore until the Cicones of the inland came (9.45–61; see [[peitho]] and [[the-raid-on-the-cicones]]). The poem's first lines pass the same judgment on the men who will eat the cattle of the Sun (1.7–9; see [[the-cattle-of-helios]]). At the cave door the word falls on the Cyclops: feeling along the backs of his rams, “the fool did not notice / how the men were bound under the chests of the woolly sheep” (9.442–443; see [[noos]]).
+
+**The Cyclops' word.** The Cyclops uses it first, of the man who bids him respect the gods: “You are a fool, stranger, or you have come from far away” (9.273; see [[xenia]] and [[theos]]). Blinded, he sits in the doorway with his hands stretched out, “for so foolish, I suppose, he hoped in his mind that I was” (9.419): οὕτω goes with νήπιον, and ἤλπετο with ἐνὶ φρεσί (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.419; see [[phrenes]]).

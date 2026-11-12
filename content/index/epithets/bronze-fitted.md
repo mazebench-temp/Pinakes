@@ -5,7 +5,7 @@ kind: epithet
 tags: [weapon]
 summary: “Fitted with bronze,” an epithet of helmets and weapons.
 aliases: [chalkeres]
-grc: [χαλκήρεϊ]
+grc: [χαλκήρεϊ, χαλκήρεσιν]
 en: [bronze-fitted]
 of: [helmet, spear]
 ---

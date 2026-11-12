@@ -1,0 +1,6 @@
+---
+summary: Two appeals to the gods test the exchange. The Cyclops' prayer rests not on gifts but on kinship, “if truly I am yours”, and Poseidon hears it (9.528–536); Odysseus' sacrifice of the ram, a gift without a prayer recorded, Zeus refuses to notice, “but was pondering how they might all perish” (9.551–555).
+refs: [9.529, 9.536, 9.553-555]
+---
+
+The claim that gives a worshiper a right to be heard is usually a gift remembered (see the entry). The Cyclops claims instead a son's right: “Hear me, Poseidon, dark-haired earth-holder, / if truly I am yours, and you claim to be my father” (9.528–529; see [[prayer]] and [[fathers-and-sons]]), and the god hears him (9.536). Odysseus' offering on the island, the ram that saved him, burned to Zeus, is refused: “but he took no heed of the offering, / but was pondering how they might all perish, / my well-benched ships and my trusty companions” (9.553–555; see [[sacrifice]] and [[zeus]]). Merry explains the refusal by the prayer that had been heard and would be answered (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.553; see [[curses]]). The Cyclopes trust the gods without serving them: they live “trusting in the immortal gods” and neither plant nor plow (9.107; see [[peitho]]), and the only offering made in the cave is the one Odysseus' men make of the Cyclops' cheeses (9.231).

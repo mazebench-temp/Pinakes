@@ -1,0 +1,12 @@
+---
+summary: The sea of Book 9 drives Odysseus off course at Malea with the wave and the current (9.80–81), carries him “over the great gulf of the sea” (9.260), and twice, when the Cyclops hurls a rock, surges up under it and carries the ship with its wave, first back to the Cyclops' shore and then to the island (9.482–486, 9.539–542).
+# παλιρρόθιον, "the backwash" (9.485; again 5.430, the backwash that strikes Odysseus on the rocks of Scheria).
+# Unnamed: the waves, κῦμα, κύματα (9.80, 9.147, 9.485, 9.542).
+grc: [παλιρρόθιον]
+en: [backwash]
+refs: [9.80, 9.147, 9.485, 9.542]
+---
+
+**The wave at Malea.** Odysseus was nearly home: “but as I was rounding Malea, the wave and the current / and the North Wind pushed me back, and drove me off course past Cythera” (9.80–81; see [[malea]], [[boreas]] and [[the-lotus-eaters]]). Nine days of deadly winds carry him “over the fish-filled sea” (9.83; see [[fish-filled]]). His first words to the Cyclops are of the same sea: the Achaeans have been driven from Troy “by winds of every kind over the great gulf of the sea” (9.259–260); λαῖτμα, “gulf”, is the depth of the open sea (see the Book 5 note and the translation's table of key words).
+
+**The surge and the backwash.** When the first rock falls in front of the ship, “the sea surged up under the falling rock; / and the backwash at once carried the ship toward the land, / a swell from the sea, and drove it to reach the shore” (9.484–486). παλιρρόθιον is the backwashing wave, and πλημυρίς is not the flood tide but the swell from the fall of the stone, setting shoreward: W. W. Merry compares the common way of bringing a floating stick to the bank by throwing stones beyond it (*Commentary on the Odyssey*, 1886, on 9.485–486; see the translation's table of key words). Odysseus pushes off with a pole and the men row out (9.487–490; see [[oars]]). The second rock falls behind the ship, and the same verse is followed by the opposite course: “and the wave carried the ship forward, and drove it to reach the shore” (9.541–542), the shore of the island, where at 9.486 it was the mainland of the Cyclops (Merry on 9.542; see [[shore]]). ἐκλύσθη δὲ θάλασσα, “the sea surged up”, is the Iliad's verse for the sea that rises toward the huts and ships as Poseidon leads the Achaeans into battle (*Iliad* 14.392; see [[louder-than-sea-fire-and-wind]]): the Cyclops, Poseidon's son, moves the sea with a stone.

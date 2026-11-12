@@ -1,0 +1,11 @@
+---
+summary: The θυμός in Book 9 feels, plans and endures: the crews lie on the shore “eating our hearts out” (9.75); Odysseus' “proud spirit foreboded” a savage (9.213), his “proud heart” plans the stroke and “a second thought held me back” (9.299–302), he holds to the ram “with enduring heart” (9.435), and answers the Cyclops “with resentful heart” (9.501). The Cyclops answers “with pitiless heart” (9.272, 9.287, 9.368).
+# The plural "hearts" (9.75, 9.139, 9.295) and ἕτερος θυμός, "a second thought" (9.302).
+en: [hearts, a second thought]
+---
+
+**Eating the heart.** After the storm the crews lie two nights and two days on the shore, “eating our hearts out with weariness and sorrows together” (θυμὸν ἔδοντες, 9.75), as Bellerophon wandered alone over the Aleian plain, “eating his heart out” (ὃν θυμὸν κατέδων, *Iliad* 6.202), the verse that Cicero renders “ipse suum cor edens” (*Tusculan Disputations* 3.63; W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.75; see [[algos]]).
+
+**The heart that plans.** Odysseus' θυμός foresees: “for at once my proud spirit foreboded / that a man would come upon us” (9.213–214; see [[proud]] and [[alke]]). It plans: “Then I planned in my proud heart / to go up close” and stab the Cyclops, “but a second thought held me back” (ἕτερος δέ με θυμὸς ἔρυκεν, 9.299–302), θυμός in its most concrete sense, not the result of calculation but an impulse (Merry on 9.302; see [[boule]]). Twice “this plan seemed to me in my heart the best” (9.318, 9.424). It endures: under the ram he held on “with enduring heart” (τετληότι θυμῷ, 9.435), the heart he will bid endure on Ithaca, remembering the cave (20.18–21; see [[metis]]). And it refuses: the companions' pleas “did not persuade my proud heart”, and he answered the Cyclops “with resentful heart” (9.500–501; see [[kotos]] and [[peitho]]).
+
+**The pitiless heart.** The Cyclops' answers come “with pitiless heart” (νηλέι θυμῷ, 9.272, 9.287, 9.368; see [[pitiless]] and the translation's table of key words), and he would spare no one “unless my own heart bade me” (9.278). In the harbor of the island of goats a ship may wait “until the sailors' / hearts urge them on, and the breezes blow fair” (9.138–139; see [[the-island-of-goats]]).

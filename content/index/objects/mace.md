@@ -3,7 +3,7 @@ title: Mace
 greek: κορύνη
 kind: object
 tags: [weapon]
-summary: The mace or club, κορύνη. Homer names it only in Nestor's story of Areithous, “the mace-man”, who fought with an iron mace instead of the bow or the spear, and was killed in a narrow road where he could not swing it.
+summary: The mace or club. Homer names the κορύνη, the mace of war, only in Nestor's story of Areithous, “the mace-man”, who fought with an iron mace instead of the bow or the spear, and was killed in a narrow road where he could not swing it; the ῥόπαλον is a staff or cudgel, like the great club of olive wood in the Cyclops' cave.
 aliases: [maces, club, clubs, koryne, korynē, korynetes, korynētēs]
 grc: [κορύνῃ, κορύνη, κορυνήτης, κορυνήτην]
 en: [mace, mace-man]

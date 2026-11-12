@@ -1,0 +1,14 @@
+---
+summary: Odysseus is “of many wiles” (πολύμητις, 9.1), and tells the Cyclops that Zeus “wished to devise” the strangers' wandering (9.262). In the cave the Cyclopes' μή τις, “nobody”, sounds like μῆτις, and Odysseus' heart laughs that his name and his “flawless plan” had deceived him (9.410–414); to escape, he “wove every kind of trick and plan” (9.422).
+# μητίσασθαι (9.262; in the Odyssey only here). μῆτις and μῆτιν are claimed by the Book 3 and Book 4 notes.
+grc: [μητίσασθαι]
+en: [devise, plan]
+---
+
+**Of many wiles.** The book begins with the speech formula of his answers in the Phaeacian books, “Answering him, Odysseus of many wiles said” (9.1 = 7.207, 8.152, 8.412; see [[of-many-wiles]] and [[answering-him]]), and the epithet is the theme of the tale that follows. When the Cyclops asks where the ship is moored, testing him, “he did not escape my notice, for I knew much” (9.281): εἰδότα πολλά, “with my knowledge of the world”, which Merry sets beside the epithet (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.281; see [[peira]] and [[truth-and-deception]]).
+
+**What Zeus devised.** To the Cyclops Odysseus puts the voyage down to a god's plan: “by another way, by other paths / we have come; so, I suppose, Zeus wished to devise it” (μητίσασθαι, 9.261–262), the aorist of μητίομαι, a poetic form of μητιάω (Merry on 9.262; see [[zeus]] and [[who-is-to-blame]]).
+
+**The flawless plan.** The cunning that defeats the Cyclops is in two plans, each introduced by the same verse, “And this plan seemed to me in my heart the best” (9.318, 9.424; see [[boule]]): the olive stake, and the rams. Between them comes the name. When the other Cyclopes answer “If then nobody is doing you violence” (εἰ μὲν δὴ μή τις, 9.410), the pronoun of the false name has the sound of the word for cunning, and Odysseus tells how his heart laughed “how my name and my flawless plan had deceived him” (μῆτις ἀμύμων, 9.413–414; see [[nobody]] and [[blameless]]). Merry finds it difficult not to suppose a pun, “for the Cyclops has been over-reached by the μῆτις of the οὔτις or Οὖτις” (on 9.408). For the escape, “I wove every kind of trick and plan, / as one does where life is at stake” (πάντας δὲ δόλους καὶ μῆτιν ὕφαινον, 9.422–423): to weave a plan is the phrase of Nestor in the Iliad, who “first of all began to weave a plan” (*Iliad* 7.324 = 9.93), and of the suitors plotting in the house (4.678; see [[dolos]] and [[psyche]]).
+
+**Remembered.** Odysseus calls on the memory twice later in the poem: before Scylla he reminds his men that even from the Cyclops' cave “by my courage, counsel and wit” they escaped (12.208–212, a plain rendering), and on Ithaca he bids his heart endure, as it endured in the cave “until cunning led you out” (ὄφρα σε μῆτις / ἐξάγαγʼ, 20.18–21, a plain rendering).

@@ -1,0 +1,5 @@
+---
+summary: Odysseus binds the rams together “in silence” (9.427); in the flight, he signs to his men with his brows and his head, since no one dared to make a sound within the Cyclops' range (9.468, 9.490, 9.497–499).
+---
+
+The escape is made without words. In the cave, with the blind Cyclops sitting in the doorway, Odysseus binds the rams three together “in silence with well-twisted willow shoots” (ἀκέων, 9.427; see [[ram]] and [[willow]]). At the ship he forbids his men to weep with a sign of his brows (9.468), and when the first rock drives them back he bids them row “nodding with my head” (9.490; see [[neuo]]), for no one dared utter a sound while they were within range (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.490). The companions' fear is of sound itself: “And if he had heard any of us utter a sound or speak, / he would have crushed our heads and the timbers of our ship” (9.497–498). φθέγγεσθαι is any cry, αὐδᾶν articulate speech (Merry on 9.497). Odysseus breaks the silence twice, with his taunts (see [[kertomia]]).

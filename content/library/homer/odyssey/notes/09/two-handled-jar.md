@@ -1,0 +1,5 @@
+---
+summary: At the sack of Ismarus each crew draws off much wine into two-handled jars, and on the island off the Cyclopes' land the ships still have some (9.163–165); Maron gives Odysseus twelve jars of his sweet unmixed wine (9.203–205).
+---
+
+On the island the feast lasts all day, “for the red wine was not yet spent from the ships, / but there was still some in them; for we had each drawn off much in two-handled jars / when we took the sacred citadel of the Cicones” (9.163–165; see [[wine]], [[ismarus]] and [[cicones]]). ἠφύσαμεν, “we drew off”, is the verb of drawing wine from a mixing bowl (9.9) and of filling Telemachus' jars from his father's store (2.349). The other jars are Maron's gift: “he drew off wine in two-handled jars, twelve in all, / sweet unmixed wine, a divine drink” (9.204–205; see [[maron]] and the translation's row ἀκηράσιος). δυώδεκα πᾶσιν is “twelve in all”, as in the twenty trees of the raft (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.204, referring to his note on 5.244; see the translation's note on 9.204). Odysseus fills a goatskin from these jars for the cave (9.212; see [[provisions]]).

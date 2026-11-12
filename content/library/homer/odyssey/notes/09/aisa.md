@@ -1,0 +1,5 @@
+---
+summary: At Ismarus, when the Cicones of the inland came in the morning, “an evil fate from Zeus stood beside us, / men of dread fate, so that we might suffer many sorrows” (9.52–53).
+---
+
+The defeat at Ismarus is told as a portion sent by Zeus. The men had stayed against Odysseus' order to drink and slaughter on the shore (9.43–46; see [[nepios]]), and the Cicones came “as many as the leaves and flowers that grow in their season, / early in the morning; and then an evil fate from Zeus stood beside us” (κακὴ Διὸς αἶσα παρέστη, 9.51–52; see [[leaves-and-flowers]] and [[zeus]]). The portion stands beside the men like a person, as “death and mighty fate stand close beside” Hector and Achilles in the Iliad (παρέστηκεν, *Iliad* 16.853, 24.132), and the next verse names the men by it, ἡμῖν αἰνομόροισιν, “men of dread fate” (9.53; see [[moira]]); the purpose clause, “so that we might suffer many sorrows”, makes the sorrows the end for which it came (see [[algos]] and [[who-is-to-blame]]). Six men of each ship died before evening (9.60–61; see [[hetairos]]).

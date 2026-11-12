@@ -1,0 +1,9 @@
+---
+summary: Odysseus offers the Cyclops the wine “in the hope that you would pity me / and send me home” (9.349–350). Blinded, the Cyclops calls him back “so that I may set good cheer before you / and speed your escort, that the famous shaker of the earth may grant it” (9.517–518); Odysseus answers that he would rather send him into the house of Hades (9.523–524).
+en: [send me home, speed your escort]
+refs: [9.350]
+---
+
+**The escort asked for.** The suppliant's last request to a host is an escort home, and Odysseus makes it in the cave, with the wine: “I was bringing it to you as a libation, in the hope that you would pity me / and send me home” (οἴκαδε πέμψειας, 9.349–350; see [[libation]] and [[pity]]). εἰ is “in the hope that”, as at 9.229 (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.349). The tale is told to the Phaeacians, the escorts of all men, who have promised him the same (8.30–33, 8.566; see [[phaeacians]] and the Book 8 note).
+
+**The escort offered.** From the shore the blinded Cyclops repeats the host's offer in the words a guest uses to ask for one: “But come here, Odysseus, so that I may set good cheer before you / and speed your escort, that the famous shaker of the earth may grant it” (πομπήν τʼ ὀτρύνω, 9.517–518), as the stranger asked Alcinous to “speed my escort, so that I may reach my native land” (7.151). Merry takes πομπήν τʼ ὀτρύνω together, a kind of formula, and δόμεναι κλυτὸν ἐννοσίγαιον as defining the escort: “let me make speedy preparation for your return—that the famous Earthshaker may grant you one” (on 9.518; see [[poseidon]] and [[guest-gifts]]). Odysseus turns the verb of the escort back on him: “If only I could make you bereft of soul and life / and send you into the house of Hades” (πέμψαι, 9.523–524; see [[psyche]]). What the Cyclops then asks of Poseidon is a late return, “on someone else's ship” (9.534–535; see [[curses]]), and that ship will be the Phaeacians' (Merry on 9.535).

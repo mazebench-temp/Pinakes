@@ -10,7 +10,7 @@ aliases: [houses, halls, home, palace, megaron]
 # κίονι, the pillar of the hall against which the queen's chair is set (Od. 6.307), and "καὶ αὐλή", the court of a
 # house (Od. 6.303; later 20.355), are found only in the Odyssey; αὐλή alone is also the yard of a steading.
 grc: [δώματʼ, οἴκῳ, μεγάροισιν, μεγάροισι, δῶ, δῶμα, δώματα, οἶκον, κίονι, "καὶ αὐλή"]
-except: [12.169, 12.221, 12.301]
+except: [12.169, 12.221, 12.301, Od. 9.239, Od. 9.338, Od. 9.462, Od. 9.524]
 refs: [1.608]
 en: [homes, house, halls, pillar]
 passages:

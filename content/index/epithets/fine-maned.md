@@ -5,7 +5,7 @@ kind: epithet
 tags: [livestock]
 summary: “With beautiful manes,” an epithet of horses, and in the Odyssey of sheep.
 aliases: [kallithrix, with beautiful manes]
-grc: [καλλίτριχας]
+grc: [καλλίτριχας, καλλίτριχα]
 en: [fine-maned]
 of: [horses]
 ---

@@ -5,8 +5,8 @@ kind: epithet
 tags: [heroic-epithet, centaur]
 summary: “Of the mountains,” epithets of beings whose home is the mountains: ὀρεσκῷος, of the [[Centaurs]] and of wild goats, and ὀρεστιάς, of the nymphs who plant elms around Eetion's tomb.
 aliases: [oreskoios]
-grc: [ὀρεσκῴοισι]
-en: [who lived in the mountains]
+grc: [ὀρεσκῴοισι, ὀρεσκῴους]
+en: [who lived in the mountains, that lived in the mountains]
 of: [centaurs, nymphs]
 ---
 

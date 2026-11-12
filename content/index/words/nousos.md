@@ -11,7 +11,7 @@ en: [sickness]
 
 ## Meaning
 
-νοῦσος (Attic νόσος) is sickness or disease. Homer treats it as something the gods send. The Cyclopes tell Polyphemus that “there is no escaping sickness sent by great Zeus” (*Odyssey* 9.411). Sudden death, on the other hand, is ascribed to the gentle arrows of Apollo and Artemis. In the Underworld Odysseus asks his mother whether a long sickness killed her or Artemis with her gentle arrows (*Odyssey* 11.171–173).
+νοῦσος (Attic νόσος) is sickness or disease. Homer treats it as something the gods send. The Cyclopes tell Polyphemus that “there is no way to escape a sickness sent by great Zeus” (*Odyssey* 9.411). Sudden death, on the other hand, is ascribed to the gentle arrows of Apollo and Artemis. In the Underworld Odysseus asks his mother whether a long sickness killed her or Artemis with her gentle arrows (*Odyssey* 11.171–173).
 
 {{notes}}
 

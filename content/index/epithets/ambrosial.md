@@ -5,7 +5,7 @@ kind: epithet
 tags: [time, divine-object]
 summary: “Immortal, divine,” the adjective of ambrosia, given to the gods' own things, their hair, robes and sandals, and to night and sleep as gifts that come from the gods.
 aliases: [ambrosial night]
-grc: [ἀμβρόσιος, ἀμβροσίην διὰ νύκτα]
+grc: [ἀμβρόσιος, ἀμβροσίην διὰ νύκτα, "νύκτα διʼ ἀμβροσίην"]
 en: [ambrosial]
 of: [hypnos]
 ---

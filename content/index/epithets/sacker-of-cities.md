@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Sacker of cities,” an epithet of the great destroyers: [[Odysseus]], Achilles, Ares, and the older generation of heroes.
 aliases: [city-sacker, ptoliporthos]
-grc: [πτολίπορθος, πτολιπόρθῳ]
+grc: [πτολίπορθος, πτολιπόρθῳ, πτολιπόρθιον]
 en: [sacker of cities]
 of: [odysseus, oileus]
 ---

@@ -1,0 +1,5 @@
+---
+summary: The companions are “dear” in the refrain of loss (9.63, 9.566) and in the welcome at the ship (9.466), and the heart is “dear” when it breaks and when it laughs (9.256, 9.413). Maron's “dear wife” knows of the wine (9.207); Polyphemus calls his neighbors “Friends” (9.408); and the Cyclops' curse allows that Odysseus may yet “see his friends” (9.532).
+---
+
+φίλος is “dear” and “one's own”. The companions lost are “our dear companions” (φίλους … ἑταίρους, 9.63, 9.566), and those who waited at the ship welcome the men from the cave as “our dear companions” (φίλοις ἑτάροισι, 9.466; see [[hetairos]]). The heart is φίλον in the formulas: “our dear heart was broken” (9.256) and “my dear heart laughed within me” (9.413; see [[etor]] and [[ker-heart]]). Maron's wine was known only to him, “his dear wife and one housekeeper” (9.207; see [[maron]]), and its fragrance was such that “it would not have been your pleasure to hold back” (φίλον, 9.211; see [[wine]]). The Cyclops, too, has friends: “Friends, Nobody is killing me” (ὦ φίλοι, 9.408; see [[nobody]]). His curse imagines Odysseus' return to “his friends” (9.532; see [[curses]]).

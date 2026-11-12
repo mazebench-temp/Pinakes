@@ -18,4 +18,4 @@ Neion is named as the landmark of a harbor: “in the harbor of Rheithron, under
 
 ## Outside Homer
 
-Strabo reads Telemachus' verse as ἐξ Ἰθάκης ὑπὸ Νηίου, with the preposition apart, and says that it is unclear whether the poet means Neion to be the same as Neritum, or another mountain or place (*Geography* 10.2.11).
+Strabo reads Telemachus' verse as ἐξ Ἰθάκης ὑπὸ Νηίου, with the preposition apart, and says that it is unclear whether the poet means Neion to be the same as Neritum, or another mountain or place (*Geography* 10.2.11). Some ancient critics put Neion into Odysseus' own description of his island: Crates and Philoxenus, the commentator on the Odyssey, preferred to read Νήιον for Νήριτον at *Odyssey* 9.22, according to Eustathius and the scholia (Merry, *Commentary on the Odyssey*, 1886, critical note on *Odyssey* 9.22; see the translation's note on *Odyssey* 9.22, 9.24).

@@ -5,7 +5,7 @@ kind: epithet
 tags: [livestock, rare-word]
 summary: “Woolly-fleeced,” an epithet of sheep, used twice in Homer.
 aliases: [eiropokos, woolly-fleeced]
-grc: [εἰροπόκοις]
+grc: [εἰροπόκοις, εἰροπόκων]
 en: [woolly]
 of: [sheep]
 ---

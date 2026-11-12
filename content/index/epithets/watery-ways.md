@@ -12,7 +12,7 @@ of: [sea]
 
 ## Meaning
 
-ὑγρός (“wet, fluid”) + κέλευθα (plural of κέλευθος, “road, path”): the sea pictured as a network of roads. The same phrase ends the verse in the Odyssey's standard question to strangers, “Who are you? From where do you sail over the watery ways?” (Od. 3.71, 9.252).
+ὑγρός (“wet, fluid”) + κέλευθα (plural of κέλευθος, “road, path”): the sea pictured as a network of roads. The same phrase ends the verse in the Odyssey's standard question to strangers, “Strangers, who are you? From where do you sail the watery ways?” (Od. 3.71, 9.252).
 
 ## Use
 

@@ -1,0 +1,5 @@
+---
+summary: Odysseus offers the Cyclops the wine “in the hope that you would pity me / and send me home” (9.349–350); the Cyclops answers by asking for more, and promises to eat him last.
+---
+
+The only appeal to pity in the book is made to the one being who will show none. With the second bowl Odysseus explains why he brought the wine: “I was bringing it to you as a libation, in the hope that you would pity me (εἴ μʼ ἐλεήσας) / and send me home; but you rage past all bearing” (9.349–350; see [[libation]] and [[pompe]]). εἰ is “in the hope that” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.349). The Cyclops answers with a request for more wine and a promise of a guest-gift (9.355–356), and the gift is to be eaten last (9.369–370; see [[nobody]] and [[guest-gifts]]). His answers all come “with pitiless heart” (νηλέι θυμῷ, 9.272, 9.287, 9.368; see [[pitiless]] and [[thymos]]). When Odysseus tells the story to Penelope, the companions are those whom the Cyclops “ate and did not pity” (οὓς ἤσθιεν οὐδʼ ἐλέαιρεν, 23.313, a plain rendering).

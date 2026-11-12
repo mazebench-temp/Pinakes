@@ -3,9 +3,9 @@ title: Grim
 greek: λυγρός
 kind: epithet
 tags: [fate, warfare]
-summary: “Grim, grievous,” an adjective of what brings grief: destruction, hatred, news, old age, sorrows, and the signs that Proetus sent with Bellerophon.
+summary: “Grim, grievous,” an adjective of what brings grief: destruction, hatred, news, old age, sorrows, and the signs that Proetus sent with Bellerophon; of persons, “wretched.”
 aliases: [lygros, grievous, dismal]
-grc: [λυγρὸν, λυγρὰ, λυγρῷ]
+grc: [λυγρὸν, λυγρὰ, λυγρῷ, λυγροῖς]
 en: [grim, grievous]
 ---
 

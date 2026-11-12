@@ -1,0 +1,10 @@
+---
+heading: The answer
+summary: The ninth book begins with the answer to Alcinous, and so ends the recognition that the tears began. Odysseus calls the king's question a wish to hear his groaning sorrows, so that he may mourn still more (9.12–13), and gives the name that the king asked for: “I am Odysseus, son of Laertes” (9.16–20).
+# Unnamed: the sorrows the king asks about (9.12-13); the name given (9.16-20).
+refs: [9.12-13, 9.16-20]
+---
+
+**The tears acknowledged.** Alcinous ended the eighth book by asking why the stranger wept and mourned as he heard the fate of the Argives and of Ilios (8.577–586). The answer begins with the singer's praise and then turns to the question: “But your heart is set on my groaning sorrows, / to ask about them, so that I may groan and mourn still more” (9.12–13). The words of 9.1–15, Merry notes, refer back to what Alcinous said when he stopped the singer (8.536 ff.), and at 9.16 Odysseus does what the king asked of him at 8.550, “Tell me the name” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.1); σοὶ δʼ ἐμά is “but thine heart is set on asking me about my woeful troubles”, and ἔτι μᾶλλον, “still more”, is as he would mourn in renewing their memory (Merry on 9.12, 9.13; see [[algos]] and [[lament]]). The singer whose songs brought the tears is praised but not named (9.3–11; see [[demodocus]] and [[singers]]).
+
+**The name.** “Now first I will tell you my name, so that you too / may know it” (9.16–17), and then the name itself, “I am Odysseus, son of Laertes” (9.19; see [[odysseus]] and [[laertes]]). Aristotle's example of recognition through memory is the scene “in the tale told to Alcinous”, when Odysseus heard the lyre player, remembered and wept, “and so they were recognized” (*Poetics* 1455a2–3); Merry, after Mayor, refers it rather to the two weepings of the eighth book (8.83–95, 8.521–534; Merry on 9.1; see [[the-tale-to-alcinous]]). The tears made the king ask, and the name, given at the beginning of the tale, answers him.

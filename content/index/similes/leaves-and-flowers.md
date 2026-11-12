@@ -3,11 +3,11 @@ title: Leaves and flowers
 greek: ὅσσά τε φύλλα καὶ ἄνθεα γίγνεται ὥρῃ
 kind: simile
 tags: [warfare]
-summary: The Achaeans stand in the flowering meadow of the Scamander, “numberless, as the leaves and flowers that grow in their season” (2.467–468). In a single line the simile gives the size of the army.
+summary: Leaves and flowers as a measure of number, in a half-verse that both poems use. The Achaeans stand in the flowering meadow of the Scamander, “numberless, as the leaves and flowers that grow in their season” (2.467–468), and the Cicones come down on Odysseus' men at Ismarus “as many as the leaves and flowers that grow in their season” (*Odyssey* 9.51).
 aliases: [like leaves and flowers, as many as leaves and flowers]
 grc: [φύλλα καὶ ἄνθεα]
 en: [as the leaves and flowers]
-of: [achaeans]
+of: [achaeans, cicones]
 ---
 
 ## The simile
@@ -26,4 +26,4 @@ The men have poured onto the plain like the birds of the Asian meadow ([[birds-o
 
 ## Elsewhere in Homer
 
-Nearly the same half-line counts the Cicones who come down on Odysseus' men in the morning, as many as the leaves and flowers that grow in their season (Odyssey 9.51). The Iliad's most famous leaves are those of Glaucus' answer to Diomedes: as are the generations of leaves, so are those of men (Iliad 6.146–149). There too the leaves grow when “the season of spring” comes (ἔαρος … ὥρη, 6.148), but they measure the shortness of a life, not the size of an army.
+Nearly the same half-line counts the Cicones who come down on Odysseus' men in the morning, ὅσα φύλλα καὶ ἄνθεα γίγνεται ὥρῃ (*Odyssey* 9.51; see the note on *Odyssey* 9). The Iliad's most famous leaves are those of Glaucus' answer to Diomedes: as are the generations of leaves, so are those of men (Iliad 6.146–149). There too the leaves grow when “the season of spring” comes (ἔαρος … ὥρη, 6.148), but they measure the shortness of a life, not the size of an army.

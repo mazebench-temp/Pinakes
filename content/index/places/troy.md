@@ -10,8 +10,10 @@ aliases: [Ilios, Ilion, Ilium, Troie, city of Priam]
 # which the Book 24 note claims as well; Τροίηνδε, "to Troy" (Od. 3.268; later 16.289, 17.314, 19.8, 19.187), is not
 # in the Iliad. Ἰλιόθι, in Ἰλιόθι πρό "before Ilios" (Od. 8.581), also catches 8.561, 10.12 and 13.349, which the
 # Iliad Book 8 note claims as well. Ἰλίου (Od. 8.578) is claimed in the Odyssey Book 8 note and the Iliad Book 2 note, not
-# here: in the Poetics it is part of the title Ἰλίου πέρσις (1456a16, 1459b7).
-grc: [Τροίην, Τροίῃ, Τροίης, Ἴλιον, Τροίηθεν, Τροίηνδε, Ἰλιόθι]
+# here: in the Poetics it is part of the title Ἰλίου πέρσις (1456a16, 1459b7). Ἰλιόθεν, "from Ilios" (Od. 9.39), the
+# same city, also catches 14.251, Heracles sailing from Ilios, which the Iliad Book 14 note claims as well; it is in no
+# other line of Homer, the Poetics or the Rhetoric.
+grc: [Τροίην, Τροίῃ, Τροίης, Ἴλιον, Τροίηθεν, Τροίηνδε, Ἰλιόθι, Ἰλιόθεν]
 en: [Troy, Ilios, city of Priam]
 refs: [1.19]
 ---

@@ -3,9 +3,9 @@ title: Clothed in courage
 greek: ἐπιειμένος ἀλκήν
 kind: epithet
 tags: [heroic-epithet, warfare]
-summary: “Clothed in courage,” courage worn like a garment: in the Iliad the formula of the two Ajaxes, θοῦριν ἐπιειμένοι ἀλκήν, “clothed in furious courage.”
+summary: “Clothed in courage,” courage worn like a garment: in the Iliad the formula of the two Ajaxes, θοῦριν ἐπιειμένοι ἀλκήν, “clothed in furious courage,” and in the Odyssey μεγάλην ἐπιειμένον ἀλκήν, “clothed in great courage,” of one man, the Cyclops, and the hero he expected.
 aliases: [epieimenos alken, clothed in valor, wearing courage]
-grc: [ἐπιειμένοι ἀλκήν]
+grc: [ἐπιειμένοι ἀλκήν, ἐπιειμένον ἀλκήν]
 en: [clothed in]
 of: [ajax, ajax-son-of-oileus]
 ---
@@ -14,7 +14,7 @@ of: [ajax, ajax-son-of-oileus]
 
 ἐπιειμένος is the perfect participle of ἐπιέννυμι, “put on clothing”: “having put on, wearing.” ἀλκή is fighting strength, courage ([[alke]]). Homer dresses a quality as a garment in several phrases. Achilles calls Agamemnon “clothed in shamelessness” ([[clothed-in-shamelessness]], 1.149); Odysseus tells Achilles that the ships are lost “unless you put on your courage” (εἰ μὴ σύ γε δύσεαι ἀλκήν, 9.231), and Thetis tells him to arm for war, “and put on your courage” (δύσεο δʼ ἀλκήν, 19.36).
 
-The whole line-end θοῦριν ἐπιειμένοι ἀλκήν belongs in the Iliad to the two Ajaxes, and to them alone (7.164, 8.262, 18.157; [[furious]]). In the Odyssey the Cyclops is a man “clothed in great strength,” as Odysseus foresaw when he went to his cave (Od. 9.214) and as the Cyclops himself expected Odysseus to be (Od. 9.513–514).
+The whole line-end θοῦριν ἐπιειμένοι ἀλκήν belongs in the Iliad to the two Ajaxes, and to them alone (7.164, 8.262, 18.157; [[furious]]). In the Odyssey the Cyclops is a man “clothed in great courage,” as Odysseus foresaw when he went to his cave (Od. 9.214) and as the Cyclops himself expected Odysseus to be (Od. 9.513–514).
 
 ## Use
 

@@ -3,16 +3,16 @@ title: Wine-sodden
 greek: οἰνοβαρής
 kind: epithet
 tags: [heroic-epithet, insult]
-summary: “Heavy with wine,” the first word of Achilles' second outburst against [[Agamemnon]] (1.225).
+summary: “Heavy with wine,” οἰνοβαρής, the first word of Achilles' second outburst against [[Agamemnon]] (1.225); in the Odyssey the participle οἰνοβαρείων, “sodden with wine,” is said of the drunken: the Cyclops, Elpenor and the Centaur Eurytion.
 aliases: [drunkard, heavy with wine, oinobares]
-grc: [οἰνοβαρές]
-en: [wine-sodden drunk]
+grc: [οἰνοβαρές, οἰνοβαρείων]
+en: [wine-sodden drunk, sodden with wine]
 of: [agamemnon]
 ---
 
 ## Meaning
 
-οἰνοβαρής = οἶνος (“wine”) + βαρύς (“heavy”): “weighed down with wine, drunk.” The related participle οἰνοβαρείων (“heavy with wine”) describes the drunken Cyclops in the Odyssey (Od. 9.374).
+οἰνοβαρής = οἶνος (“wine”) + βαρύς (“heavy”): “weighed down with wine, drunk.” The related participle οἰνοβαρείων (“sodden with wine”) describes the drunken Cyclops in the Odyssey (Od. 9.374).
 
 ## Use
 

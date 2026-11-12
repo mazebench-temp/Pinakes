@@ -1,0 +1,8 @@
+---
+summary: Odysseus, who lives in a house far away, tells of the rich house in a foreign land that is worth less than home, of Circe's halls, of Maron's house, of the Cyclops who ate strangers in his own house, and of the house where the Cyclops' curse would have him find bane (9.18, 9.31–36, 9.206, 9.478, 9.533–535).
+# δῶ at 9.356 (ἵνα τοι δῶ ξείνιον, "so that I may give you a guest-gift") is the verb, not the short form of δῶμα.
+# The fold (9.239, 9.338, 9.462) and the house of Hades (9.524) are excepted in the entry.
+except: [9.356]
+---
+
+Odysseus names himself as a man who will be the Phaeacians' guest-friend “though I live in a house far away” (9.18; see [[xenia]]), and makes the homesick man's saying of a house: “nothing is sweeter than one's native land and parents, / even if a man lives far off in a rich house / in a foreign land, apart from his parents” (9.34–36), after the halls of Circe that did not hold him (9.31; see [[circe]]). Maron's wine was known to no one “of the slaves or the handmaids in the house” but his wife and one housekeeper (9.206–207; see [[maron]]). The cave is the Cyclops' house: “your evil deeds were to catch up with you, / hard man, since you did not shrink from eating strangers / in your own house” (9.477–479), σῷ ἐνὶ οἴκῳ, thereby specially violating the rites of hospitality (W. W. Merry, *Commentary on the Odyssey*, 1886, on 9.478; see [[polyphemus-the-cyclops]]). The curse reaches Odysseus' own house: if he must see his friends and reach “his well-built house and his native land”, may he come late, “and find bane in his house” (9.532–535; see [[curses]] and the translation's row πῆμα), the suitors who wait there (see [[the-suitors]]).

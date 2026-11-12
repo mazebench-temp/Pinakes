@@ -3,7 +3,7 @@ title: Cythera
 greek: Κύθηρα
 kind: place
 tags: [island]
-summary: The island off Cape Malea, at the southeastern corner of the Peloponnese, on the way to Crete. In the Iliad it is the home of [[Amphidamas]], who received the boar's-tusk helmet (10.268), and of Lycophron, Ajax's attendant (15.430–439); later Greeks held it sacred to Aphrodite, whom the Odyssey calls Cytherea.
+summary: The island off Cape Malea, at the southeastern corner of the Peloponnese, on the way to Crete. In the Iliad it is the home of [[Amphidamas]], who received the boar's-tusk helmet (10.268), and of Lycophron, Ajax's attendant (15.430–439); in the Odyssey the wind drives Odysseus past it as he rounds Malea, into his wanderings (*Odyssey* 9.80–81). Later Greeks held it sacred to Aphrodite, whom the Odyssey calls Cytherea.
 aliases: [Kythera]
 # The stem takes Κυθηρίῳ (10.268), Κυθήριον, Κυθήροισι, Κυθηρόθεν (15.431–438) and Κυθήρων (Od. 9.81).
 # Aphrodite's title Κυθέρεια (Od. 8.288, 18.193) has ε and is not caught.

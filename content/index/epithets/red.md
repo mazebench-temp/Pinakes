@@ -5,7 +5,7 @@ kind: epithet
 tags: [vessel]
 summary: “Red,” an epithet of bronze in Achilles' list of his wealth, and of wine and nectar.
 aliases: [erythros, ruddy, red bronze]
-grc: [ἐρυθρὸν]
+grc: [ἐρυθρὸν, ἐρυθρός]
 en: [red]
 of: [bronze, wine, nectar]
 ---

@@ -25,4 +25,4 @@ A Homeric voyage is told as a series of practical steps, each with its own formu
 
 ## Elsewhere in Homer
 
-The Odyssey tells its voyages in the same steps and often in the same verses. When Telemachus sails from Ithaca by night, the following wind, the mast, the white sails, the wave at the cutwater and the running ship come in the words of the voyage home from Chryse (*Odyssey* 2.413–434; *Iliad* 1.479–483). The harbor of the island off the land of the Cyclopes is so sheltered that there is no need “to cast out mooring-stones or tie stern-cables” (*Odyssey* 9.136–137).
+The Odyssey tells its voyages in the same steps and often in the same verses. When Telemachus sails from Ithaca by night, the following wind, the mast, the white sails, the wave at the cutwater and the running ship come in the words of the voyage home from Chryse (*Odyssey* 2.413–434; *Iliad* 1.479–483). The harbor of the island off the land of the Cyclopes is so sheltered that there is “no need of a cable, / neither to cast out mooring-stones nor to make fast stern-cables” (*Odyssey* 9.136–137).

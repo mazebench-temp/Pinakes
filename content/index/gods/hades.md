@@ -8,8 +8,10 @@ aliases: [Aides, Aidoneus]
 # Ἄϊδόσδε, "to the house of Hades", is found only in the Odyssey (3.410, 6.11, 10.560, 11.65, 11.475). Ἀΐδαο, the
 # genitive (Murray prints Ἀίδαο), is Hades wherever it occurs: Od. 4.834, and fifteen lines of the Iliad that its Book 5
 # note already claims (5.646, 8.367, 8.368, 9.312, 15.251, 21.48, 22.52, 22.213, 22.389, 22.482, 23.19, 23.71, 23.76,
-# 23.103, 23.179).
-grc: [Ἄϊδι, Ἄϊδόσδε, Ἀΐδαο]
+# 23.103, 23.179). Ἄϊδος, the other genitive, is Hades wherever it occurs: Od. 9.524 ("into the house of Hades") and
+# five lines of later books (10.502, 11.150, 11.571, 11.627, 23.252), and eighteen lines of the Iliad, from 3.322 to
+# 24.593 (the cap of Hades at 5.845 among them), which its Book 3 note already claims within the Iliad.
+grc: [Ἄϊδι, Ἄϊδόσδε, Ἀΐδαο, Ἄϊδος]
 en: [Hades]
 ---
 

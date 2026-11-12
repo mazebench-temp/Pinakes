@@ -5,7 +5,8 @@ kind: object
 tags: [divine-object, feast]
 summary: The drink of the gods, as ambrosia is their food. It is red, and it is mixed in a bowl and poured into cups like wine.
 aliases: [sweet nectar]
-grc: [νέκταρ]
+# νέκταρος (Od. 9.359), the Cyclops' praise of Maron's wine; no other match in the Iliad or in Aristotle.
+grc: [νέκταρ, νέκταρος]
 en: [nectar]
 ---
 

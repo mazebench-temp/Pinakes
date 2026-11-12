@@ -5,7 +5,7 @@ kind: epithet
 tags: [mainland-greece, peloponnese]
 summary: “Lovely, delightful,” an epithet of places and of pleasant things.
 aliases: [delightful, eratainos, erateinos, erannos, eperatos]
-grc: [ἐρατεινὰς, ἐρατεινὴν, ἐραννήν]
+grc: [ἐρατεινὰς, ἐρατεινὴν, ἐραννήν, ἐρατεινός]
 en: [lovely]
 of: [augeiae, augeiae-laconia, araethyrea, arene, mantinea, lacedaemon, maeonia, calydon]
 ---

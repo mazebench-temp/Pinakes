@@ -1,0 +1,7 @@
+---
+summary: Herodotus describes the lotus of the Libyan Lotus-eaters, places the Cicones on the Thracian coast where Xerxes marched past Maroneia and the lake Ismaris, and tells of Scythian nomads who neither sow nor plow; Merry draws on all three for this book.
+---
+
+- **The lotus.** The Lotophagi live on a headland of the Libyan coast and eat only the fruit of the lotus, which is as large as a mastic berry and as sweet as the date; they make wine from it too (*Histories* 4.177.1, a plain rendering). Merry quotes the description for the “honey-sweet fruit of the lotus” (9.94; Merry, *Commentary on the Odyssey*, 1886, on 9.94; see the translation's note on 9.94): [[lotus]], [[lotus-eaters]] and [[the-lotus-eaters]].
+- **The Cicones.** On his march Xerxes passed the Greek cities of the coast, Maroneia among them, and the lake Ismaris between Maroneia and Stryme, and the Cicones were among the Thracian peoples through whose land he went; the shore by Doriscus had once been theirs (*Histories* 7.59.2, 7.108.3, 7.109.1, 7.110). Merry cites these chapters for the Cicones of the historical age and for Maroneia, the later name of their city by the lake Ismaris (Merry on 9.39): [[cicones]] and [[ismarus]].
+- **Neither sowing nor plowing.** Beyond the farming Scythians live nomad Scythians, “sowing nothing at all and not plowing” (*Histories* 4.19.1, a plain rendering), the words Merry sets beside the Cyclopes, for whom everything grows unsown and unplowed (9.108–109; Merry on 9.107): [[cyclopes]] and [[plato-the-cyclopes]].

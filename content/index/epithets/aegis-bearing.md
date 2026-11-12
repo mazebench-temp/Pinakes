@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, divine-object]
 summary: “Holder of the aegis,” a standing epithet of [[Zeus]].
 aliases: [aigiochos]
-grc: [αἰγιόχοιο]
+grc: [αἰγιόχοιο, αἰγιόχου]
 en: [aegis-bearing]
 of: [zeus]
 ---

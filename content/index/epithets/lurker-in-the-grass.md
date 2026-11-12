@@ -12,7 +12,7 @@ of: [the-calydonian-boar, boar]
 
 ## Meaning
 
-χλούνης occurs only here in Homer (9.539). Its meaning was already guessed at in antiquity. One explanation took it from χλόη (“young green grass”) and εὐνή (“bed”): a boar “that makes its lair in the grass,” and the translation follows it. Aristotle took it to mean a gelded boar: wild boars that have been castrated, he says, grow larger and fiercer, “as Homer too made it,” and he quotes the verse in a different form, “she reared against him a χλούνης wild boar,” with a second verse that is not in our text of the Iliad and resembles the description of the Cyclops in the Odyssey (*History of Animals* 6.28; compare Od. 9.190–191). None of the explanations is certain. The Hesiodic *Shield of Heracles* uses χλοῦναι as a word for boars, set against lions on the shield, “herds of boars” and “boars and fierce-eyed lions” (*Shield* 168, 177).
+χλούνης occurs only here in Homer (9.539). Its meaning was already guessed at in antiquity. One explanation took it from χλόη (“young green grass”) and εὐνή (“bed”): a boar “that makes its lair in the grass,” and the translation follows it. Aristotle took it to mean a gelded boar: wild boars that have been castrated, he says, grow larger and fiercer, “as Homer too made it,” and he quotes the verse in a different form, “she reared against him a χλούνης wild boar,” with a second verse that is not in our text of the Iliad and resembles the description of the Cyclops in the Odyssey (*History of Animals* 6.28; compare *Odyssey* 9.190–191). None of the explanations is certain. The Hesiodic *Shield of Heracles* uses χλοῦναι as a word for boars, set against lions on the shield, “herds of boars” and “boars and fierce-eyed lions” (*Shield* 168, 177).
 
 ## Use
 

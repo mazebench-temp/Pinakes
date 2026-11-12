@@ -7,8 +7,8 @@ summary: The olive tree, ἐλαίη, with its wood and its oil. The Iliad's one
 aliases: [olive tree, olives, elaie, olive wood, olive oil]
 # ἔλαιον "olive oil" is left to bathing and like-olive-oil, except in the Book 23 note ("χρῖεν ἐλαίῳ", "ὑγρὸν ἔλαιον",
 # ἀλείφατος) and the Odyssey's Book 2 note ("ἐυῶδες ἔλαιον", the oil of the storeroom). In the Odyssey the Book 5 note
-# claims φυλίης and ἐλάινον, the Book 7 note ἐλαῖαι (7.116 = 11.590); ἐλαίη (13.102, 13.346, 24.246) is to be added
-# with its books.
+# claims φυλίης and ἐλάινον, the Book 7 note ἐλαῖαι (7.116 = 11.590), the Book 9 note the Cyclops' olive wood,
+# ἐλαΐνεον, ἐλάινος, ἐλαϊνέῳ (9.320, 9.378, 9.394); ἐλαίη (13.102, 13.346, 24.246) is to be added with its books.
 grc: [ἐλαίης, ἐλαΐνῳ]
 en: [olive]
 ---

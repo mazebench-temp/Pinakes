@@ -1,0 +1,5 @@
+---
+summary: Cythera is the last known place Odysseus passes on the way home: as he rounds Malea, the wave, the current and the North Wind drive him off course past the island (9.80–81).
+---
+
+Odysseus was rounding Malea when “the wave and the current / and the North Wind pushed me back, and drove me off course past Cythera” (9.80–81; see [[malea]] and [[boreas]]). The genitive Κυθήρων goes with παρέπλαγξεν, “drove me off course past”, the island he was carried away from. Odysseus, Merry explains, had meant to pass between the cape and the island, Cerigo in Merry's day, when the wind caught him and drifted him past it (Merry, *Commentary on the Odyssey*, 1886, on 9.80). The Iliad knows the island as the home of men, Amphidamas of Cythera, who had the helmet of boar's tusks, and Ajax's attendant Lycophron, who had killed a man in “holy Cythera” (*Iliad* 10.268, 15.430–432). In the tale it is the last place with a name before nine days of deadly winds bring the ships to the Lotus-eaters (9.82–84; see [[lotus-eaters]]).

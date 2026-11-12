@@ -13,13 +13,13 @@ passages:
   - 1.495-530 | Thetis supplicates Zeus
 ---
 
-λίσσομαι is “beg, entreat”. It can be used of any urgent request, but its full sense is the formal plea of the suppliant, who puts himself in another's power and claims protection by ritual gestures: sitting or kneeling at the other's feet, clasping his knees ([[gounata]]), touching his chin. Zeus himself watches over suppliants (Odyssey 9.270, 13.213), so a supplication properly made puts heavy pressure on the one supplicated.
+λίσσομαι is “beg, entreat”. It can be used of any urgent request, but its full sense is the formal plea of the suppliant, who puts himself in another's power and claims protection by ritual gestures: sitting or kneeling at the other's feet, clasping his knees ([[gounata]]), touching his chin. Zeus himself watches over suppliants (*Odyssey* 9.270, 13.213), so a supplication properly made puts heavy pressure on the one supplicated.
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-Athena recalls the same scene from the other side: Thetis “kissed his knees and took his chin in her hand” (Iliad 8.370–372). The noun λιταί, “entreaties”, becomes the Prayers of Phoenix's allegory, lame daughters of Zeus who follow after Ate and bring harm to the man who rejects them (Iliad 9.502–512). The poem's last great supplication answers its first. In Book 24 Priam, a father who comes with a ransom like Chryses, clasps Achilles' knees and kisses his hands, and is heard (Iliad 24.477–479; see [[book-1-and-book-24]]).
+Athena recalls the same scene from the other side: Thetis “kissed his knees and took his chin in her hand” (*Iliad* 8.370–372). The noun λιταί, “entreaties”, becomes the Prayers of Phoenix's allegory, lame daughters of Zeus who follow after Ate and bring harm to the man who rejects them (*Iliad* 9.502–512). The poem's last great supplication answers its first. In Book 24 Priam, a father who comes with a ransom like Chryses, clasps Achilles' knees and kisses his hands, and is heard (*Iliad* 24.477–479; see [[book-1-and-book-24]]).
 
 ## Outside Homer
 

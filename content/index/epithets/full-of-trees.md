@@ -5,7 +5,7 @@ kind: epithet
 tags: [island]
 summary: “Full of trees,” δενδρήεις, a rare epithet of the Odyssey: of Calypso's island, Ogygia, and of the grove of Apollo at Ismarus.
 aliases: [dendreeis, tree-grown, wooded island]
-grc: [δενδρήεσσα]
+grc: [δενδρήεσσα, δενδρήεντι]
 en: [full of trees]
 of: [ogygia]
 ---
@@ -16,6 +16,6 @@ of: [ogygia]
 
 ## Use
 
-Homer has it twice, both times in the Odyssey. Ogygia is νῆσος δενδρήεσσα, “an island full of trees,” in Athena's account of Calypso's home (*Odyssey* 1.51). Maron, the priest of Apollo who gave Odysseus the wine he carried to the Cyclops' cave, lived ἐν ἄλσεϊ δενδρήεντι, “in the grove, full of trees,” of Phoebus Apollo at Ismarus (*Odyssey* 9.196–201).
+Homer has it twice, both times in the Odyssey. Ogygia is νῆσος δενδρήεσσα, “an island full of trees,” in Athena's account of Calypso's home (*Odyssey* 1.51). Maron, the priest of Apollo who gave Odysseus the wine he carried to the Cyclops' cave, lived ἐν ἄλσεϊ δενδρήεντι, “in the grove full of trees” of Phoebus Apollo at Ismarus (*Odyssey* 9.196–201).
 
 {{notes}}

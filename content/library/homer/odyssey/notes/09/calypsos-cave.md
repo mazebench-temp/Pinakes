@@ -1,0 +1,7 @@
+---
+summary: In the preface to his tale Odysseus names the cave once, in the words of the proem: Calypso “held me back there / in her hollow caves, longing for me to be her husband” (9.29–30).
+---
+
+Before he begins his wanderings, Odysseus names the two goddesses who kept him: “Truly Calypso, brilliant among goddesses, held me back there / in her hollow caves, longing for me to be her husband; / and in the same way Circe kept me in her halls” (9.29–31; see [[calypso]], [[circe]] and [[aeaea]]). The second verse is the proem's, turned from the third person to the first (1.15; see [[hollow-caves]]), and αὐτόθι, “there”, is defined by it, as αὐτόθι by the words that follow in Achilles' bidding to Phoenix to stay and sleep in a soft bed (*Iliad* 9.617; Merry, *Commentary on the Odyssey*, 1886, on 9.29). The verse is wanting in most manuscripts, and Eustathius does not quote it; Merry thinks it probably interpolated from 1.15, and Wolf and most modern editors reject it (Merry's critical note on 9.30; see the translation's note on 9.29–36). Without it Calypso's cave is not named in the book. The text prints it, and the translation keeps it.
+
+The phrase of the goddess's caves comes back twice in the book for the caves of the Cyclopes: they live on the mountain peaks “in hollow caves” (9.114; see [[cyclopes]]), and Odysseus taunts the Cyclops that it was not a weakling's companions he was to eat “in your hollow cave” (9.475–476; see [[the-cave-of-polyphemus]]).

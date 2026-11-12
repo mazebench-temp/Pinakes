@@ -1,6 +1,7 @@
 ---
 summary: Nestor himself sleeps “in the inner part of the high house” (3.402), while his guest sleeps in the colonnade; at dawn he sits on the polished stones “which stood before his high doors” (3.407).
 grc: ["θυράων ὑψηλάων"]
+except: [9.304]
 en: [high doors]
 ---
 

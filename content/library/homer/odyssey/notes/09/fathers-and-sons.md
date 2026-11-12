@@ -1,0 +1,6 @@
+---
+summary: Odysseus names himself “son of Laertes” to the Phaeacians and to the Cyclops (9.19, 9.505). Polyphemus is Poseidon's son: “for I am his son, and he claims to be my father” (9.519); his curse is a son's prayer to his father, “if truly I am yours” (9.529), and the father hears it (9.536).
+refs: [9.19, 9.505, 9.519, 9.529]
+---
+
+The book sets two fathers behind its two antagonists. Odysseus' name comes with his father's: “I am Odysseus, son of Laertes” (9.19), and so it comes again in the shout from the ship, “the son of Laertes, who has his home in Ithaca” (9.505; see [[laertes]] and [[odysseus]]). The Cyclops' father is a god. His neighbors tell him to pray “to your father, lord Poseidon” (9.412); he boasts that his father will heal him, “for I am his son, and he claims to be my father” (9.519–520); and he prays to him as a son, “Hear me, Poseidon, dark-haired earth-holder, / if truly I am yours, and you claim to be my father” (9.528–529; see [[poseidon]], [[polyphemus-the-cyclops]] and [[prayer]]). The father answers the son's prayer (9.536), and the poem opens with that father's anger, kept up “because of the Cyclops, whom he blinded of his eye” (1.68–75; see [[curses]]). In the false name it is “my mother and my father” who call Odysseus Nobody (9.367; see [[nobody]] and [[pater]]).

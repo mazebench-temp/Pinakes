@@ -5,7 +5,7 @@ kind: epithet
 tags: [speech]
 summary: “Gentle, soothing words,” μειλίχιοι μῦθοι or ἔπεα: the speech of courtesy and conciliation.
 aliases: [meilichios, soothing]
-grc: [μειλιχίοισιν]
+grc: [μειλιχίοισιν, μειλιχίοις]
 en: [soothing words]
 of: [epos]
 ---
