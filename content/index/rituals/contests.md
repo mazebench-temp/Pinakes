@@ -6,6 +6,7 @@ tags: [exchange, honor]
 summary: Athletic contests (ἄεθλοι), held in Homer at a funeral, for prizes, or in honor of a guest. Tydeus, alone among the Cadmeians, challenges them to contests and wins them all; the fullest accounts are the funeral games of Patroclus in *Iliad* 23 and the games of the Phaeacians in *Odyssey* 8.
 aliases: [games, athletic contests, athletics, funeral games, athla]
 grc: [ἀεθλεύειν]
+except: [Od. 11.622, Od. 11.624]
 en: [contests]
 passages:
   - 4.385-390 | Tydeus wins every contest

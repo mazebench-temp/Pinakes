@@ -3,9 +3,11 @@ title: Orchomenus
 greek: Ὀρχομενός
 kind: place
 tags: [mainland-greece, city, boeotia]
-summary: The city of the Minyans in northwestern Boeotia, at the edge of Lake Copais, a byword in Homer for wealth. With Aspledon it sends thirty ships under Ascalaphus and Ialmenus, the sons of Ares.
+summary: The city of the Minyans in northwestern Boeotia, at the edge of Lake Copais, a byword in Homer for wealth. With Aspledon it sends thirty ships to Troy under Ascalaphus and Ialmenus, the sons of Ares; in the Odyssey its king Amphion is the father of Chloris, Nestor's mother.
 aliases: [Minyan Orchomenus, Orchomenos]
-grc: [Ὀρχομενὸν, Μινύειον]
+# Ὀρχομενῷ (Od. 11.284, 11.459) and Μινυείῳ (Od. 11.284) are in no Iliad line; orchomenus-arcadia excepts Od. 11.459,
+# where Agamemnon names Orchomenus without an epithet (see the Odyssey Book 11 note).
+grc: [Ὀρχομενὸν, Μινύειον, Ὀρχομενῷ, Μινυείῳ]
 except: [2.605]
 passages:
   - 2.511-516 | Aspledon and Orchomenus
@@ -15,7 +17,7 @@ passages:
 
 Μινύειος "Minyan", the adjective of the Minyans (Μινύαι), tells this Orchomenus apart from [[orchomenus-arcadia|Orchomenus in Arcadia]] (2.605). It is not counted among the towns of the [[Boeotians]]: with [[Aspledon]] it has its own leaders, [[Ascalaphus]] and [[Ialmenus]], and thirty ships (2.511–516).
 
-Homer knows it as rich. Achilles will not be moved by gifts, “not all that comes in to Orchomenus, nor all that comes to Thebes in Egypt” (9.381–382; see [[thebes-in-egypt]]). In the Odyssey, Amphion son of Iasus "once ruled with might in Minyan Orchomenus" (Od. 11.281–284).
+Homer knows it as rich. Achilles will not be moved by gifts, “not all that comes in to Orchomenus, nor all that comes to Thebes in Egypt” (9.381–382; see [[thebes-in-egypt]]). In the Odyssey it is the city of Amphion son of Iasus, whose daughter Chloris married Neleus and bore him Nestor (*Odyssey* 11.281–286), and one of the places where Agamemnon's soul supposes that Orestes may be living (*Odyssey* 11.459).
 
 ## Outside Homer
 

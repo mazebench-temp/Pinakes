@@ -20,7 +20,7 @@ en: [Ajax]
 
 ## Family
 
-Son of [[Telamon]]: Τελαμώνιος and Τελαμωνιάδης, “son of Telamon”, are his usual titles (see [[telamonian]]), and Odysseus greets his shade as “son of noble Telamon” (Od. 11.553). His half-brother [[Teucer]] is a bastard whom Telamon raised in his own house (8.281–284), “his brother by the same father” (κασίγνητος καὶ ὄπατρος, 12.371). Teucer shoots from behind Ajax's shield, and Ajax covers him with it when he falls (8.266–272, 8.330–331).
+Son of [[Telamon]]: Τελαμώνιος and Τελαμωνιάδης, “son of Telamon”, are his usual titles (see [[telamonian]]), and Odysseus greets his shade as “son of noble Telamon” (*Odyssey* 11.553). His half-brother [[Teucer]] is a bastard whom Telamon raised in his own house (8.281–284), “his brother by the same father” (κασίγνητος καὶ ὄπατρος, 12.371). Teucer shoots from behind Ajax's shield, and Ajax covers him with it when he falls (8.266–272, 8.330–331).
 
 Homer names no mother, wife or child for him, and does not make Telamon a son of Aeacus. Later writers did. Pindar and Sophocles call his mother Eriboea; Telamon became the brother of Peleus, and Ajax the cousin of Achilles (see [[telamon]] and [[aeacus]]); and Sophocles gives him a captive wife, Tecmessa, and a son, Eurysaces. The Athenian family of Miltiades traced its descent to Philaeus, “the son of Ajax” (Herodotus 6.35).
 
@@ -32,7 +32,7 @@ Homer names no mother, wife or child for him, and does not make Telamon a son of
 
 {{quote:7a36300d-342c-59c6-9f8f-a6b668b1f744}}
 
-Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–280; Od. 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, Od. 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of *Iliad* 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
+Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–280; *Odyssey* 11.550–551; see [[best-of-the-achaeans]]), and Idomeneus says that in a standing fight he would not give way even to Achilles (13.321–325). Odysseus calls him a “tower” (πύργος, *Odyssey* 11.556), and his shield is “like a tower” (see [[the-shield-of-ajax]]). He is a man of few words: his speech in the embassy of *Iliad* 9 is the shortest of the three (9.624–642), and Hector calls him ἁμαρτοεπής, “blundering in speech”, and βουγάϊος, a word of uncertain sense, perhaps “braggart” (13.824).
 
 {{notes}}
 
@@ -46,7 +46,7 @@ Elsewhere he is the best after Achilles “in looks and in deeds” (17.279–28
 
 **The games.** At the funeral games he wins no contest outright. He wrestles Odysseus to a draw (23.708–739); the Achaeans, fearing for him, stop his armed fight with Diomedes (23.811–825); and Polypoetes outthrows him with the iron weight (23.836–849; see [[contests]]). The wrestling match has been read as a glance at his later contest with Odysseus for Achilles' arms.
 
-**The Odyssey.** Nestor says that Ajax lies at Troy with Achilles and Patroclus (Od. 3.109). In the underworld his shade alone stands apart, still angry over the arms of Achilles, which Odysseus won from him in a judgment by the ships, “and the sons of the Trojans and Pallas Athena were the judges” (Od. 11.543–547). Odysseus wishes he had never won them and begs him to let his anger go; Ajax gives no answer and walks away into Erebus (Od. 11.548–564). The Odyssey says that the earth covered him because of the arms (Od. 11.549), but not how he died.
+**The Odyssey.** Nestor says that Ajax lies at Troy with Achilles and Patroclus (*Odyssey* 3.109). In the land of the dead his soul stands apart, still angry over the arms of Achilles, which Odysseus won from him, and will not answer him (*Odyssey* 11.543–564; see the Book 11 note). The Odyssey says that the earth covered him because of the arms (*Odyssey* 11.549), but not how he died.
 
 ## Outside Homer
 

@@ -6,7 +6,7 @@ period: nostoi
 mode: allusion
 narrator: agamemnon
 tags: [foreshadowing, woman]
-summary: Agamemnon says he prefers his captive Chryseis to his wife Clytemnestra and will take her home to Argos. Homer's audience knew what waited for him there.
+summary: In the Iliad Agamemnon says that he prefers his captive Chryseis to his wife Clytemnestra and will take her home to Argos; Homer's audience knew what waited for him there, and in the Odyssey his soul tells it: his wife helped to kill him at his homecoming, and killed the captive he brought home, Cassandra.
 participants: [agamemnon, clytemnestra, chryseis]
 passages:
   - 1.29-31 | Agamemnon's plans for Chryseis
@@ -23,7 +23,7 @@ The Iliad never speaks of Agamemnon's death, and there is no sign that the poet 
 
 ## Elsewhere in Homer
 
-The Odyssey tells what waited for him. Agamemnon's ghost tells Odysseus how Aegisthus, with his accursed wife, killed him at a feast, and how Clytemnestra killed Cassandra, the captive Trojan princess he had brought home, beside him (*Odyssey* 11.405–434; see [[the-murder-of-agamemnon]]).
+The Odyssey tells what waited for him. Agamemnon's soul tells Odysseus how Aegisthus, with his ruinous wife, killed him at a feast, and how Clytemnestra killed Cassandra, the captive Trojan princess he had brought home, beside him (*Odyssey* 11.405–434; see [[the-murder-of-agamemnon]]).
 
 ## Outside Homer
 

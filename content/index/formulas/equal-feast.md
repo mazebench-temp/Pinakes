@@ -3,7 +3,7 @@ title: An equal share of the feast
 greek: οὐδέ τι θυμὸς ἐδεύετο δαιτὸς ἐΐσης
 kind: formula
 tags: [type-scene, feast, justice]
-summary: The half-line for a feast in which every heart had its fair share: “no one's heart lacked an equal share of the feast”.
+summary: The half-line for a feast in which every heart had its fair share: “no one's heart lacked an equal share of the feast”; in the Odyssey also the “equal feasts” to which a king is invited.
 aliases: [dais eise, equal feast, fair share]
 grc: [ἐδεύετο δαιτὸς ἐΐσης]
 en: [lacked an equal share of the feast]

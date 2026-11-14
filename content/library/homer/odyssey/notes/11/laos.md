@@ -1,0 +1,5 @@
+---
+summary: Teiresias foretells that Odysseus will die with his people prosperous around him (11.136–137); Odysseus addresses Alcinous as “preeminent among all the people” (11.355, 11.378); and Achilles remembers killing “the best of the army” at Troy, as Neoptolemus killed “how great an army” (11.500, 11.518).
+---
+
+The people of a king close the prophecy of Teiresias: Odysseus will die in an old age of ease, “and around you your people / will be prosperous” (ἀμφὶ δὲ λαοὶ / ὄλβιοι ἔσσονται, 11.136–137; Eustathius read ἑταῖροι for λαοί: the Odyssey translation's note on 11.134–137; see [[olbos]] and [[thanatos]]). Alcinous is greeted twice with the verse “Powerful Alcinous, preeminent among all the people” (11.355, 11.378; see [[alcinous]] and [[preeminent]]). In war the λαός is the army: Achilles was the man who “killed the best of the army, defending the Argives” (11.500), and of Neoptolemus Odysseus cannot tell “how great an army he killed, defending the Argives” (11.518; see [[neoptolemus]]).

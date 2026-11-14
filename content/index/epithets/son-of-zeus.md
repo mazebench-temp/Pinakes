@@ -3,11 +3,11 @@ title: Son of Zeus
 greek: Διὸς υἱός
 kind: epithet
 tags: [divine-epithet, child-of-zeus]
-summary: “Son of Zeus,” a title of the sons of [[Zeus]], gods and men: [[Apollo]], and among mortals [[Heracles]] and [[Sarpedon]].
+summary: “Son of Zeus,” a title of the sons of [[Zeus]], gods and men: [[Apollo]], and among mortals [[Heracles]], [[Sarpedon]] and [[Minos]].
 aliases: [Dios huios]
 grc: [Διὸς υἱός, Διὸς υἱὸν]
 en: [son of Zeus, son]
-of: [apollo, heracles, sarpedon]
+of: [apollo, heracles, sarpedon, minos]
 ---
 
 ## Meaning

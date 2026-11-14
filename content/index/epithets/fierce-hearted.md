@@ -11,7 +11,7 @@ en: [fierce-hearted]
 
 ## Meaning
 
-κρατερόφρων = κρατερός (“strong, mighty”; [[krateros]]) + φρήν (“mind, heart”; [[phrenes]]): “strong of heart, fierce in spirit.” Homer uses it five times. In the Iliad it describes the beast that the sheepdogs hear coming through the woods (10.184) and Heracles, whom Alcmene bore to Zeus (14.323–324). In the Odyssey Menelaus uses it of the absent Odysseus, in whose bed the suitors want to lie, “weaklings as they are,” like a hind that lays her fawns in a lion's lair (Od. 4.333–340), and Telemachus repeats his words to Penelope (Od. 17.124–131); Leda bore Tyndareus two fierce-hearted sons, Castor and Polydeuces (Od. 11.298–300). Compare [[karterothymos]] (καρτερόθυμος) and [[stout-hearted]].
+κρατερόφρων = κρατερός (“strong, mighty”; [[krateros]]) + φρήν (“mind, heart”; [[phrenes]]): “strong of heart, fierce in spirit.” Homer uses it five times. In the Iliad it describes the beast that the sheepdogs hear coming through the woods (10.184) and Heracles, whom Alcmene bore to Zeus (14.323–324). In the Odyssey Menelaus uses it of the absent Odysseus, in whose bed the suitors want to lie, “weaklings as they are,” like a hind that lays her fawns in a lion's lair (Od. 4.333–340), and Telemachus repeats his words to Penelope (Od. 17.124–131); [[leda|Leda]] bore [[tyndareus|Tyndareus]] two fierce-hearted sons, Castor and Polydeuces (Od. 11.298–300). Compare [[karterothymos]] (καρτερόθυμος) and [[stout-hearted]].
 
 ## Use
 

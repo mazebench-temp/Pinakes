@@ -1,0 +1,5 @@
+---
+summary: Odysseus fears that “whoever is best of the Achaeans” has married his wife (11.179); Ajax was “the best in looks and form” after Achilles (11.469); Achilles in life “killed the best of the army” (11.500); and “the best of the Argives” went down into the wooden horse (11.524).
+---
+
+The superlative ranks men among the dead as it did among the living. Odysseus asks whether Penelope has married “whoever is best of the Achaeans” (11.179; see [[penelope]]), and Agamemnon's soul names Ajax “the best in looks and form / of all the Danaans, after the noble son of Peleus”, a judgment the poem repeats when Odysseus speaks of the arms (11.469–470, 11.550–551; see [[best-in-looks]], [[ajax]] and [[best-of-the-achaeans]]). Achilles remembers himself as he was “when I killed the best of the army, defending the Argives” (11.500; see [[achilles]]), and Odysseus calls the men in the horse “the best of the Argives” (11.524; see [[the-wooden-horse]]). For his own plan at the pit Odysseus uses the formula of deliberation, “this plan seemed to me in my heart the best” (11.230; see [[decision-scene]]).

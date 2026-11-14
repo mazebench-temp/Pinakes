@@ -32,7 +32,7 @@ The threshing floor returns in two battle similes. An arrow bounces off Menelaus
 
 In the Odyssey the heap of dry husks left from the winnowing is a likeness of Odysseus' raft when Poseidon's wave breaks it: “as a blustering wind shakes a heap of husks, / dry ones, and scatters them this way and that, / so it scattered the long beams of the raft” (Odyssey 5.368–370; see [[the-heap-of-husks]]). W. W. Merry compares the heaps of chaff of this simile (*Commentary on the Odyssey*, 1886, on 5.368).
 
-Teiresias tells Odysseus to walk inland with an oar on his shoulder until a stranger calls it a “chaff-destroyer” (ἀθηρηλοιγός), a winnowing shovel; there he is to plant it in the ground and sacrifice to Poseidon (Odyssey 11.126–131).
+Teiresias tells Odysseus to walk inland with an oar on his shoulder until a stranger calls it a “chaff-destroyer” (ἀθηρηλοιγός), a winnowing fan; there he is to plant it in the ground and sacrifice to Poseidon (*Odyssey* 11.126–131; see [[winnowing-fan]]).
 
 ## Outside Homer
 

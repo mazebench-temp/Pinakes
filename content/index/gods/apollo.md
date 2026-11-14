@@ -66,7 +66,7 @@ No god in *Iliad* 1 has more titles. Most of them are about distance: Apollo str
 
 ## Elsewhere in Homer
 
-His arrows are the ordinary Homeric explanation for sudden death in men, as Artemis' are for women. The Odyssey has a verse for it, οἷς ἀγανοῖς βελέεσσιν ἐποιχόμενος κατέπεφνε, of the god who comes upon a man and kills him with his gentle arrows. It is said of Apollo, who kills Menelaus' helmsman (*Odyssey* 3.279–281) and, with Artemis, the people of the island Syria when they grow old (*Odyssey* 15.409–411), and in the feminine of Artemis (*Odyssey* 5.123–124, 11.171–173, 11.198–199). The Iliad has it once, in Hecuba's lament, where Hector lies as fresh as one whom Apollo has killed in this way (24.757–759; see [[fresh-as-dew]] and [[artemis]]).
+His arrows are the ordinary Homeric explanation for sudden death in men, as Artemis' are for women. The Odyssey has a verse for it, οἷς ἀγανοῖς βελέεσσιν ἐποιχόμενος κατέπεφνε, of the god who comes upon a man and kills him with his gentle arrows. It is said of Apollo, who kills Menelaus' helmsman (*Odyssey* 3.279–281) and, with Artemis, the people of the island Syria when they grow old (*Odyssey* 15.409–411), and in the feminine of Artemis (*Odyssey* 5.123–124, 11.172–173, 11.198–199). The Iliad has it once, in Hecuba's lament, where Hector lies as fresh as one whom Apollo has killed in this way (24.757–759; see [[fresh-as-dew]] and [[artemis]]).
 
 ## Outside Homer
 

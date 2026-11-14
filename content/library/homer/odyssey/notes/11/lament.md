@@ -1,0 +1,9 @@
+---
+summary: Elpenor has been left “unwept and unburied” (11.54, 11.72); Odysseus wishes that he and his mother might throw their arms around each other even in the house of Hades and take their fill of “chilling lament” (11.210–214); and the dead who come to him lament as they speak.
+---
+
+**Unwept.** The first soul at the pit is one who has had no lament. The companions left Elpenor's body in Circe's hall “unwept and unburied”, ἄκλαυτον καὶ ἄθαπτον, and he asks not to be left so (11.53–54, 11.72; see [[unwept-and-unburied]], [[elpenor]], [[tears]] and [[honoring-the-dead]]); in Book 12 they bury him, “grieving and shedding big tears” (12.12).
+
+**The fill of lament.** When his mother's soul slips three times from his arms, Odysseus asks why she will not stay, “so that even in the house of Hades, throwing our arms around each other, / we two might take our fill of chilling lament” (11.210–212). τέρπεσθαι γόοιο is “to take one's fill of lamentation”, and Merry sets beside it Achilles' words to the soul of Patroclus, “let us put our arms around each other, if only for a little while, / and take our fill of deadly lament” (*Iliad* 23.97–98), and Seiler's Ovid, *est quaedam flere voluptas*, “there is a certain pleasure in weeping” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.211; see [[anticleia]] and [[the-way-of-mortals]]). Both embraces fail. If the soul is a phantom sent by Persephone, he fears, it has come “so that I may groan and mourn still more” (ὀδυρόμενος στεναχίζω, 11.214).
+
+**The dead lament.** The souls speak “lamenting” (ὀλοφυρομένη, 11.154, 11.472; 11.616; see [[pity]]), Agamemnon weeps aloud (11.391), and the other souls stand “grieving” and ask about their own sorrows (11.541–542; see [[achos]]). Agamemnon's own death had none of the offices of mourning: his wife would not close his eyes or shut his mouth as he went to the house of Hades (11.424–426; see [[honoring-the-dead]]).

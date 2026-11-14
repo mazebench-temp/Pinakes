@@ -1,0 +1,7 @@
+---
+summary: Odysseus tells the soul of Achilles that Neoptolemus killed Eurypylus son of Telephus, and that many of his companions, the Ceteians, were killed around him, “for the sake of gifts to a woman” (11.519–521).
+# The Ceteians without the name: "many of his companions around him" (11.520).
+refs: [11.520]
+---
+
+**Around Eurypylus.** Of all the men Neoptolemus killed, Odysseus names one, “the son of Telephus, / the hero Eurypylus”, the handsomest man he saw after Memnon, and with him “many of his companions around him, / the Ceteians”, who “were killed, for the sake of gifts to a woman” (11.519–522; see [[neoptolemus]], [[eurypylus-son-of-telephus]] and [[memnon]]). The name is given as an apposition to “companions”, and nothing else is told of them. The half-verse γυναίων εἵνεκα δώρων returns of Amphiaraus, who perished at Thebes because of the gifts his wife Eriphyle took (15.247; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.521; see [[eriphyle]]). Here the woman, the gifts and the people are left unexplained, and the scholia already guessed at all three: Aristarchus took Κήτειοι for “the great ones”, others for a Mysian people, and others read the word as “kinsmen” or as “bereft of their women” (Merry's critical note on 11.521; see the translation's note on 11.521). In the legend as Merry tells it, the gifts were a golden vine that Priam gave to Eurypylus' mother, Astyoche, to persuade her to send her son to the help of the Trojans (on 11.520; see [[telephus]]).

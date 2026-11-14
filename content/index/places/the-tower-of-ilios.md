@@ -14,7 +14,7 @@ except: [7.219, 11.485, 12.332, 12.333, 12.373, 17.128]
 en: [tower]
 ---
 
-πύργος is a tower on a wall. Homer also uses the word of a column of men in battle (4.334, 4.347; see [[battle-order]]) and of Ajax, the “tower” the Achaeans lost (Od. 11.556).
+πύργος is a tower on a wall. Homer also uses the word of a column of men in battle (4.334, 4.347; see [[battle-order]]) and of Ajax, the “tower” the Achaeans lost (*Odyssey* 11.556).
 
 At Troy the tower that matters stands by the Scaean gates. There the elders sit with Priam, and Helen comes to it to watch the war (3.145–154; see [[trojan-elders]] and [[the-view-from-the-wall]]); Aphrodite finds her “on the high tower” among the Trojan women (3.384).
 

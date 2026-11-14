@@ -1,0 +1,12 @@
+---
+summary: Odysseus pities the dead who come to him, in a verse said of Elpenor, his mother and Agamemnon (11.55, 11.87, 11.395), yet keeps even his mother from the blood until Teiresias has spoken (11.88–89); the dead greet him “lamenting” (11.154, 11.472, 11.616); and Agamemnon's death is “most pitiable”, Cassandra's voice “the most pitiable” he heard (11.412, 11.421).
+# οἰκτρότερʼ (11.381), οἰκτίστῳ (11.412; again 23.79, 24.34), οἰκτροτάτην (11.421).
+grc: [οἰκτρότερʼ, οἰκτίστῳ, οἰκτροτάτην]
+en: [pitied, lamenting, pitiable, most pitiable]
+---
+
+**Pity held back.** “When I saw him I wept, and pitied him in my heart” is said of Elpenor, of Anticleia and of Agamemnon (ἐλέησά τε θυμῷ, 11.55, 11.87, 11.395; see [[tears]]). With his mother it does not move him to act: “but even so, though deeply grieved, I did not let her first / come near the blood until I had questioned Teiresias” (11.88–89). οὐδʼ ὣς is explained by πυκινόν περ ἀχεύων, and Merry finds here the characteristic prudence of Odysseus in sacrificing feeling to interest; Eustathius draws the moral that the poet teaches us to prefer the useful to the pleasant, showing the enduring Odysseus pitying his mother and still keeping her from the blood (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.88; see [[odysseus]], [[anticleia]] and [[the-offering-to-the-dead]]).
+
+**The pity of the dead.** ὀλοφύρομαι is the dead's word for the living. Anticleia, Achilles and Heracles all address Odysseus “lamenting” (ὀλοφυρομένη, ὀλοφυρόμενος, 11.154, 11.472, 11.616): his mother marvels that he has come alive into the misty darkness, Achilles that he dared to come down to Hades, and Heracles calls him “wretch”, who drags out an evil fate as he did (see [[achilles]], [[heracles]] and [[wretch]]). Agamemnon tells him that he would have grieved most in his heart to see the bodies around the mixing bowl and the tables (ὀλοφύραο, 11.418).
+
+**The most pitiable.** Agamemnon “died a most pitiable death” (οἰκτίστῳ θανάτῳ, 11.412), and “the most pitiable voice I heard was that of Priam's daughter, / Cassandra”, killed beside him (οἰκτροτάτην, 11.421; Merry on 11.421 takes it predicatively, “saddest of all that I heard”; see [[cassandra]] and [[the-murder-of-agamemnon]]). Odysseus, offering in the pause to tell of “other things more pitiable even than these”, names the sorrows of the companions who perished in their homecoming (οἰκτρότερʼ, 11.381–384; see [[a-time-for-many-words]]).

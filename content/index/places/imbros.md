@@ -15,7 +15,7 @@ passages:
 
 ## Descriptions
 
-παιπαλόεσσα, “rocky” (13.33, 24.78), is the epithet of the mountain of Samothrace from which Poseidon comes down (13.17), and in the Odyssey of Ithaca, Samos and Chios (Od. 11.480, 4.671, 3.170). The Homeric Hymn to Apollo calls the island “well-built” (Ἴμβρος τʼ εὐκτιμένη, 3.36).
+παιπαλόεσσα, “rocky” (13.33, 24.78), is the epithet of the mountain of Samothrace from which Poseidon comes down (13.17), and in the Odyssey of Ithaca, Samos and Chios (*Odyssey* 11.480, 4.671, 3.170). The Homeric Hymn to Apollo calls the island “well-built” (Ἴμβρος τʼ εὐκτιμένη, 3.36).
 
 ## In Homer
 

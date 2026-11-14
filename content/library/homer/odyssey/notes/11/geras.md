@@ -1,0 +1,7 @@
+---
+summary: Odysseus asks his mother whether his “prize of honor” is still with his father and son, or another man holds it (11.174–176), and she answers that no one holds it yet: Telemachus has the domains (11.184–187). Neoptolemus came home from Troy “with his share and a noble prize” (11.534).
+---
+
+**The king's prize.** Odysseus asks “whether my prize of honor is still with them, or some other man / already holds it, and they say that I will come home no more” (11.175–176). The γέρας is the kingship with its privileges, and his mother answers that “no one yet holds your fine prize of honor, but undisturbed / Telemachus holds the domains, and feasts at equal feasts” (11.184–185): the son is in undisturbed possession of the royal lands, the τεμένεα, and is admitted to the royal honors (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.184; see [[telemachus]], [[feast]] and [[kingship-and-authority]]). Merry notes that Telemachus could have been at most fourteen when his mother died (see the Odyssey translation's note on 11.184–187).
+
+**A prize from Troy.** Neoptolemus went on board at Troy “with his share and a noble prize” (μοῖραν καὶ γέρας ἐσθλόν, 11.534; see [[neoptolemus]] and [[moira]]). In the *Little Iliad* of Lesches, in the verses Merry quotes from Tzetzes, the prize was Andromache, given him by the chiefs of the Achaeans as an honor; but γέρας need not refer to that story here, and may be any special object of value from the spoils (Merry on 11.534; see [[andromache]]).

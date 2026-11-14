@@ -3,7 +3,7 @@ title: The loves of Zeus
 greek: θεᾶς ἔρος οὐδὲ γυναικός
 kind: theme
 tags: [child-of-zeus, woman, kinship, divine-scene]
-summary: The goddesses and mortal women whom Zeus loved, and the gods and heroes born to him. Homer brings them together only once, in the list of loves that Zeus recites to Hera on Ida (14.315–328); Hesiod lists the wives of Zeus and their children in the *Theogony*, and later poets and mythographers told each union as a story of its own.
+summary: The goddesses and mortal women whom Zeus loved, and the gods and heroes born to him. Homer lists them together in Zeus' own words to Hera on Ida (14.315–328), and the catalogue of women in the Odyssey's land of the dead includes two of them, Antiope and Alcmene; Hesiod lists the wives of Zeus and their children in the *Theogony*, and later poets and mythographers told each union as a story of its own.
 aliases: [Zeus' loves, the list of Zeus' loves, the catalogue of Zeus' loves, the women loved by Zeus]
 refs: [2.741, 6.198-199, 13.449-450]
 ---
@@ -16,7 +16,7 @@ Zeus is “the father of men and gods” (1.544), and in Homer he is also the fa
 
 **The heroes.** Laodameia, Bellerophon's daughter, bore him Sarpedon (6.198–199; see [[laodameia]] and [[sarpedon]]). Peirithous is the son “whom immortal Zeus begot” (2.741; see [[peirithous]]). Idomeneus boasts that “Zeus first fathered Minos, a guardian over Crete” (13.450; see [[minos]]). Heracles is “the son of aegis-bearing Zeus” (5.396), born of Alcmene in Thebes on the day Hera deceived Zeus (19.95–133; see [[heracles]] and [[alcmene]]). Helen is “daughter of aegis-bearing Zeus” (3.426; see [[helen]]); Aeacus, Achilles' grandfather, was a son of Zeus (21.189; see [[aeacus]]); and the Trojan line begins with Dardanus, whom the son of Cronus loved above all the children born to him of mortal women (20.215, 20.304–305; see [[dardanus]]). Tlepolemus taunts Sarpedon with the men “who were born of Zeus among men of former times” (5.637), and names his own father Heracles as the greatest of them (5.638–639).
 
-**The wives.** Hera is the wife, κασιγνήτην ἄλοχόν τε, “his sister and wife” (16.432, 18.356; see [[hera]] and [[husbands-and-wives]]). But Hermes, refusing to fight Leto, counts her among the wives of Zeus (ἀλόχοισι Διὸς νεφεληγερέταο, 21.498–499), and the Odyssey calls her Διὸς κυδρὴν παράκοιτιν, “the glorious consort of Zeus” (*Odyssey* 11.580).
+**The wives.** Hera is the wife, κασιγνήτην ἄλοχόν τε, “his sister and wife” (16.432, 18.356; see [[hera]] and [[husbands-and-wives]]). But Hermes, refusing to fight Leto, counts her among the wives of Zeus (ἀλόχοισι Διὸς νεφεληγερέταο, 21.498–499), and the Odyssey calls her Διὸς κυδρὴν παράκοιτιν, “the glorious wife of Zeus” (*Odyssey* 11.580).
 
 **The one list.** Homer gathers Zeus' loves together only in *Iliad* 14, where Zeus, overcome by desire for Hera on the peak of Gargarus, names seven of them, and their sons, to tell her that he never loved any of them as he loves her now (14.315–328). The Odyssey has a catalogue of the same kind on a larger scale: in the underworld Odysseus sees the women “who were wives and daughters of the best men”, among them Antiope and Alcmene, who bore sons to Zeus (*Odyssey* 11.225–330, 11.260–268).
 

@@ -1,0 +1,9 @@
+---
+summary: The ram that Circe tied beside the ship is killed with the black ewe over the pit (11.4, 11.35–36), and a ram heads the threefold sacrifice to Poseidon that Teiresias bids Odysseus make far inland, “a ram and a bull and a boar that mounts the sows” (11.130–131).
+passages:
+  - 11.119-137 | The oar and the sacrifice to Poseidon
+---
+
+**At the pit.** The sheep taken aboard and ashore are the ram and the black ewe that Circe tied up by the ship (11.4, 11.20; 10.571–572; see [[sheep]] and the Book 10 note), and they are the sheep whose throats Odysseus cuts over the pit (11.35–36; see [[the-offering-to-the-dead]]).
+
+**The sacrifice to Poseidon.** When a wayfarer takes the oar on Odysseus' shoulder for a winnowing fan, he is to fix it in the ground, “and make fine sacrifices to lord Poseidon, / a ram and a bull and a boar that mounts the sows” (11.128–131; see [[poseidon]], [[winnowing-fan]], [[bulls]] and [[boar]]); Odysseus repeats the verse to Penelope in the last books (23.278). W. W. Merry reports Eustathius' name for such a sacrifice of three animals, τριττύα: the three might be made up in different ways from sheep, oxen, goats and swine, the number three giving the sense of completeness, and Nitzsch compared the Roman *suovetaurilia*, the sacrifice of a pig, a sheep and a bull. Merry thinks this offering quite special in character, for the usual victim of the sea god was a black bull, as at Pylos (*Commentary on the Odyssey*, 1886, on 11.131; 3.6; see the translation's row ἐπιβήτωρ). ἐπιβήτωρ, “that mounts”, is “the mate”, and Merry notes the verb ἐπιβαίνειν of the stallion in Aristotle (on 11.131); Aristotle uses it of the ass and the horse that cover the mare (*History of Animals* 6.22). ἀρνειός, the ram, stands first, as in Circe's “a ram and a black ewe” for the dead (10.527; see the entry).

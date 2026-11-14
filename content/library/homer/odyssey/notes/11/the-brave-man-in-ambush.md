@@ -1,0 +1,6 @@
+---
+summary: Inside the wooden horse Odysseus watched the test that Idomeneus described: the other leaders of the Danaans wept and trembled, but Neoptolemus never turned pale or wiped a tear from his cheeks, and kept begging to be let out, feeling for his sword and his spear (11.523–532).
+refs: [11.526-532]
+---
+
+Odysseus' account of Neoptolemus in the horse reads like Idomeneus' description of the ambush, “where the coward and the valiant man are shown for what they are” (*Iliad* 13.278). There the coward's color changes this way and that, and his heart pounds; the brave man's color does not change, nor is he much afraid, “but he prays to close with them quickly in grim battle” (*Iliad* 13.279–286). In the horse the other leaders “were wiping away their tears, and the limbs of each trembled beneath him”, but Odysseus never saw Neoptolemus “either turning pale in his fair skin or wiping / a tear from his cheeks”; “he kept supplicating me again and again / to let him out of the horse, and he kept feeling for the hilt of his sword / and his spear heavy with bronze” (11.526–532; ὠχράω “turn pale”: the Odyssey translation's table of key words; see [[neoptolemus]], [[ambush]], [[the-wooden-horse]] and [[supplication]]). The praise is given to his father, who goes away across the meadow of asphodel glad that his son was preeminent (11.538–540; see [[achilles]]).

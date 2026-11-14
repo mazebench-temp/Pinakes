@@ -1,0 +1,6 @@
+---
+summary: Named in his son's patronymic, “Agamemnon, son of Atreus” (11.387, 11.397, 11.463), and in Odysseus' answer to him: “Ah, truly far-seeing Zeus has hated the offspring of Atreus / terribly, through the plans of women” (11.436–437).
+# Ἀτρεΐδ* and Ἀτρέος (in the entry) claim Ἀτρεΐδαο (11.387), Ἀτρεΐδη (11.397, 11.463) and Ἀτρέος (11.436).
+---
+
+Agamemnon comes among the dead as Ἀγαμέμνονος Ἀτρεΐδαο, “Agamemnon, son of Atreus” (11.387), and Odysseus addresses him as Ἀτρεΐδη κύδιστε, “Most glorious son of Atreus” (11.397), and Ἀτρεΐδη, “Son of Atreus” (11.463; see [[agamemnon]] and [[son-of-atreus]]). When he has heard the story of the murder, Odysseus speaks of the whole house: “Ah, truly far-seeing Zeus has hated the offspring of Atreus / terribly, through the plans of women, / from of old: for Helen's sake many of us perished, / and against you Clytemnestra was preparing a snare while you were far away” (11.436–439; see [[zeus]], [[helen]] and [[clytemnestra]]). γόνος Ἀτρέος is the offspring of Atreus, Agamemnon and Menelaus both, and Zeus made the intrigues of Helen and of Clytemnestra the means of working out his enmity (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.437). Homer says nothing of the crimes that later tragedy laid on Atreus himself (see the entry).

@@ -21,7 +21,7 @@ passages:
 
 ## Family
 
-She is a daughter of Priam: “the most beautiful in form of the daughters of Priam” (13.365; see [[priam]]), and in the Odyssey Agamemnon calls her Πριάμοιο θυγατρός, “the daughter of Priam” (Od. 11.421). Homer does not name her mother. The formula of her beauty is given also to her sister Laodice (3.124, 6.252; see [[laodice]] and [[best-in-looks]]), and Idomeneus turns it on the daughters of Agamemnon (13.378; see [[laodice-daughter-of-agamemnon]]).
+She is a daughter of Priam: “the most beautiful in form of the daughters of Priam” (13.365; see [[priam]]), and in the Odyssey Agamemnon calls her Πριάμοιο θυγατρός, “Priam's daughter” (*Odyssey* 11.421). Homer does not name her mother. The formula of her beauty is given also to her sister Laodice (3.124, 6.252; see [[laodice]] and [[best-in-looks]]), and Idomeneus turns it on the daughters of Agamemnon (13.378; see [[laodice-daughter-of-agamemnon]]).
 
 ## In the Iliad
 
@@ -31,7 +31,7 @@ She is a daughter of Priam: “the most beautiful in form of the daughters of Pr
 
 ## In the Odyssey
 
-**Her death.** In the underworld Agamemnon tells Odysseus that the most pitiful voice he heard as he died was that of Cassandra, daughter of Priam, whom Clytemnestra killed beside him (Od. 11.421–423; see [[clytemnestra]] and [[clytemnestra-and-the-return]]). The Odyssey does not say how she came to Mycenae. Homer never makes her a seer, and he says nothing of Apollo's love or of Ajax.
+**Her death.** The Odyssey names her once, in the land of the dead, as the woman whom Clytemnestra killed beside Agamemnon (*Odyssey* 11.421–423; see the Book 11 note, [[clytemnestra]] and [[clytemnestra-and-the-return]]). It does not say how she came to Mycenae. Homer never makes her a seer, and he says nothing of Apollo's love or of Ajax.
 
 ## Outside Homer
 

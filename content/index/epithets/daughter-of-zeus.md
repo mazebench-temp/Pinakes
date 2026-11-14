@@ -14,7 +14,7 @@ of: [aphrodite, helen, athena, artemis, litai]
 
 Διός (“of Zeus”) + θυγάτηρ (“daughter”), or + ἐκγεγαυῖα, the feminine perfect participle of ἐκγίγνομαι (“be born from”): “born of Zeus.” Διὸς θυγάτηρ is used of goddesses: Aphrodite, Athena ({{ref:Iliad 2.548}}), Persephone in the Odyssey (Od. 11.217), and Ate, “the eldest daughter of Zeus” (Il. 19.91). The participle is Helen's. Ἑλένη Διὸς ἐκγεγαυῖα fills the second half of the verse in the Iliad and the Odyssey alike (Il. 3.199, 3.418; Od. 4.219, 23.218). Helen is also κούρη Διὸς αἰγιόχοιο, “daughter of aegis-bearing Zeus,” a formula that is otherwise Athena's ([[child-of-aegis-bearing-zeus]], 3.426).
 
-In Homer, Aphrodite's mother is Dione (Il. 5.370–371). Helen's mother is not named in the Iliad. She shares a mother with Castor and Polydeuces (3.238), and in the Odyssey their mother is Leda, wife of Tyndareus (Od. 11.298–300).
+In Homer, Aphrodite's mother is Dione (Il. 5.370–371). Helen's mother is not named in the Iliad. She shares a mother with Castor and Polydeuces (3.238), and in the Odyssey their mother is [[leda|Leda]], wife of [[tyndareus|Tyndareus]] (Od. 11.298–300).
 
 ## Use
 

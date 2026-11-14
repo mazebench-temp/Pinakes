@@ -1,0 +1,10 @@
+---
+summary: Achilles asks among the dead whether old Peleus still has honor among the Myrmidons, or is dishonored because old age holds him fast, and wishes he could come back to his father's house for a little while to make his might hateful to those who wrong him; Odysseus has heard nothing of him (11.494–505). His son is “son of Peleus” throughout the book (11.467, 11.470, 11.478, 11.551, 11.557).
+# Πηλῆος (11.478, 11.494, 11.505) and the patronymics Πηληϊάδεω (11.467), Πηλεΐωνα (11.470, 11.551) and Πηληϊάδαο
+# (11.557) are claimed by the entry. Unnamed: "him" and "my father" (11.495-503).
+refs: [11.495-503]
+---
+
+**The old father.** “And tell me of noble Peleus, if you have heard anything, / whether he still has honor among the many Myrmidons, / or whether they dishonor him throughout Hellas and Phthia, / because old age holds him fast in his hands and feet” (11.494–497; see [[achilles]], [[myrmidons]], [[hellas]], [[phthia]] and [[time]]). Nothing shows, W. W. Merry notes, whether Πηλῆος goes with εἰπέ or with πέπυσσαι, though the rhythm suggests the first (*Commentary on the Odyssey*, 1886, on 11.494). The fear is the one Priam put into Achilles' mind when he came to ransom Hector, of an old man on the threshold of old age whom “perhaps the men who live around him / wear him down, and there is no one to ward off disaster and ruin” (*Iliad* 24.486–489; see [[the-ransom-of-hector]]); in the Iliad Achilles had thought him already dead, or barely alive in hateful old age (*Iliad* 19.334–337).
+
+**The son who cannot help.** Achilles is no longer there to help him “under the rays of the sun”, as he was in wide Troy; if he could come like that, even for a little while, to his father's house, he would make his might and his irresistible hands hateful to any “of those who do him violence and keep him from his honor” (11.498–503; Merry on 11.498, 11.502; see [[irresistible-hands]]). Odysseus answers, “Truly, of noble Peleus I have heard nothing” (11.505), and tells him of his son instead (see [[neoptolemus]]). ἀμύμων, “noble”, is the father's epithet in both questions (11.494, 11.505; see [[blameless]]).

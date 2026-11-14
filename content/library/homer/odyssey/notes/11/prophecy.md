@@ -1,0 +1,10 @@
+---
+summary: Teiresias prophesies at the pit: Poseidon's anger, the cattle of the Sun, a late and lonely homecoming, the suitors, the journey inland with an oar, and a gentle death at sea's remove (11.100–137). Elpenor knows that the ship will return to Aeaea (11.69–70), and Agamemnon foretells that Odysseus will not die by his wife's hand (11.444).
+refs: [11.100-137, 11.444]
+passages:
+  - 11.100-137 | The prophecy of Teiresias
+---
+
+**The seer's prophecy.** What Circe promised, that the seer “will tell you the way and the measures of your path / and your homecoming” (10.539–540), Teiresias gives in his own order: Poseidon's grudge for the blinding of his son, the condition of the Sun's cattle on Thrinacia, a homecoming late, alone and on another man's ship, the suitors in the house and their punishment, the oar carried inland until a wayfarer calls it a winnowing fan, the sacrifice to Poseidon, and death “away from the sea” (11.100–137; see [[the-prophecy-of-teiresias]], [[teiresias]], [[the-cattle-of-helios]] and [[thanatos]]). Merry notes that he does not quite do what Circe foretold: he may be said to have given the measures of the path, but not the way (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.136); the way is Circe's, in Book 12. τεκμαίρομαι, which elsewhere keeps its sense “ordain”, is in the seer's mouth “foretell”: “then I foretell destruction for you, / for your ship and your companions” (11.112–113; see the Odyssey translation's table of key words, τεκμαίρομαι). Odysseus accepts it as what the gods themselves have spun (11.139; see [[moira]]).
+
+**Other foreknowledge.** Elpenor, newly dead, knows that Odysseus will put in at Aeaea on his way back (11.69–70). Merry finds the knowledge unaccountable, since only Circe could have told it; Eustathius suggests that Elpenor speaks as a prophet, and Nitzsch weakens οἶδα, “I know”, to a strong belief (Merry on 11.51, 11.69; see [[elpenor]]). Agamemnon, after the counsel against women, foretells the exception: “But not to you, Odysseus, will death come from your wife” (11.444; see [[there-is-no-trusting-women]]).

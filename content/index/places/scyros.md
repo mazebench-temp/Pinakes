@@ -16,7 +16,7 @@ passages:
 
 Scyros enters the poem in the last lines of the embassy. Patroclus sleeps beside Iphis, “whom brilliant Achilles gave him / when he took steep Scyros, the citadel of Enyeus” (9.667–668; see [[iphis]], [[enyeus]] and [[patroclus]]). αἰπεῖα, “steep”, is the epithet of hill towns and mountains (see [[steep]]). Scyros is one of the cities that Achilles sacked, like Lesbos (9.129) and Eetion's Thebe (9.188; see [[achilles-raids]]).
 
-The Iliad names Scyros once more, as the place where Achilles' son Neoptolemus is being reared (19.326–327, 19.331–332). In the Odyssey Odysseus tells the shade of Achilles that he himself brought Neoptolemus from Scyros in his ship to join the Achaeans (Od. 11.506–509).
+The Iliad names Scyros once more, as the place where Achilles' son Neoptolemus is being reared (19.326–327, 19.331–332). In the Odyssey Odysseus tells the shade of Achilles that he himself brought Neoptolemus from Scyros in his ship to join the Achaeans (*Odyssey* 11.506–509).
 
 How the two fit together the poem does not say: a city that Achilles sacked, and the place where his son was reared. It may be the same island, taken before the war or on the way to Troy, or another town of the same name; the poem gives no hint of when Achilles was there, or who Neoptolemus' mother was.
 

@@ -1,0 +1,7 @@
+---
+summary: Lions with flashing eyes are wrought with bears and wild boars on the golden strap of Heracles' baldric (11.611); Heracles himself is “lion-hearted” in his mother's verse (11.267).
+---
+
+“Bears and wild boars and lions with flashing eyes, / combats and battles and slaughters and killings of men” (11.611–612; see [[the-baldric-of-heracles]], [[bears]] and [[boar]]). χαροπός, “with flashing eyes”, is commonly referred to χαρά, “joy”, as of wild joy, which W. W. Merry thinks gives no clear idea; he would rather connect the first part with a root meaning “glow”, with Curtius, or the whole word with one meaning “sparkle”, with Fick (*Commentary on the Odyssey*, 1886, on 11.611; see the translation's row ἀορτήρ, τελαμών; χαροπός). One manuscript has χαλεποί, “fierce”, for χαροποί (Merry's critical note on 11.611). The lions of the Homeric Hymn that follow Aphrodite on Ida are χαροποί too, with bears and wolves and leopards (see [[bears]]).
+
+The lions belong to the baldric of the hero whom Alcmene bore, θρασυμέμνονα θυμολέοντα, “bold in endurance, lion-hearted” (11.267; see [[lion-hearted]], [[heracles]] and [[alcmene]]), the epithet that his son Tlepolemus gives him in the Iliad, where Ajax gives it to Achilles too (*Iliad* 5.639, 7.228), and that Penelope uses of the husband she has lost (4.724 = 4.814). The Odyssey's lions of the similes are likenesses of Odysseus, and the lions of Circe's island fawned like dogs (10.212–219; see the Book 10 note); these are lions of a craftsman's work, terrible to look on (11.609, 11.613–614).

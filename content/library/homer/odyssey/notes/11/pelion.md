@@ -1,0 +1,5 @@
+---
+summary: The sons of Aloeus were eager to set Ossa on Olympus, “and on Ossa / Pelion with its quivering leaves, so that heaven might be scaled” (11.315–316).
+---
+
+**Pelion on Ossa.** Pelion is the top of the stair that Otus and Ephialtes meant to build to the sky: Ossa on Olympus, “and on Ossa / Pelion with its quivering leaves, so that heaven might be scaled” (11.315–316; see [[ossa-mountain]], [[olympus]], [[otus]] and [[ephialtes]]). εἰνοσίφυλλον, “with its quivering leaves”, is Pelion's epithet in the Iliad (*Iliad* 2.757) and Neritum's on Ithaca (9.22; see [[with-quivering-leaves]] and [[neritum]]). The three mountains are named in their real order from north to south, Olympus, Ossa and Pelion, and Strabo quotes these verses to show that Homer keeps the order of places where it matters (*Geography* 1.2.20; see [[strabo]]). Aristarchus rejected the two verses, and W. W. Merry thinks them an interpolation from some poem of the war of the gods and the giants (*Commentary on the Odyssey*, 1886, on 11.315–316; see the translation's note on 11.315–316).

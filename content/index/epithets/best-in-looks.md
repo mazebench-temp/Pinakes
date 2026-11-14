@@ -3,7 +3,7 @@ title: Best in looks
 greek: εἶδος ἀρίστη
 kind: epithet
 tags: [heroic-epithet, body, woman]
-summary: “Best in form,” praise of beauty in a formula for the loveliest daughter of a house or the most beautiful of women, turned by Hector into reproach of [[Paris]].
+summary: “Best in form,” praise of beauty: a formula for the loveliest daughter of a house or the most beautiful of women, in the Odyssey a verse for the handsomest man of a people after one other, and in Hector's mouth a reproach of [[Paris]].
 aliases: [most beautiful in form, eidos ariste]
 grc: [εἶδος ἀρίστη, εἶδος ἀρίστην, εἶδος ἄριστε]
 en: [most beautiful in form, best in looks]

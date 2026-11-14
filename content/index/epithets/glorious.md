@@ -3,7 +3,7 @@ title: Glorious
 greek: ἐρικυδής
 kind: epithet
 tags: [honor]
-summary: “Very glorious,” an epithet of gifts and of what brings honor: the gods' gifts, the bloom of youth, a feast.
+summary: “Very glorious,” an epithet of gifts and of what brings honor: the gods' gifts, the bloom of youth, a feast; and in the Odyssey of Earth and of the sons of gods.
 aliases: [erikydes]
 grc: [ἐρικυδέα]
 en: [glorious]

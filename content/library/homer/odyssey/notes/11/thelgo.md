@@ -1,0 +1,5 @@
+---
+summary: When Odysseus breaks off his tale, the Phaeacians “all fell hushed in silence, / and they were held by a spell throughout the shadowy halls” (11.333–334).
+---
+
+κηληθμός is the spell of the tale, its “glamour”, in Merry's word. The scholium explains it as the stillness that comes with pleasure and delight, and Eustathius as an intensity of pleasure that held them possessed; Quintilian renders it *intentionis silentium*, the silence of rapt attention (4.2.37, as Merry cites him; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.334; see [[silence]] and [[the-tale-to-alcinous]]). The Suda glosses it as ἀπάτη, “beguilement” (κ 1505). The noun is found only in this verse, which returns when the tale ends (13.2), and Merry sets beside ἔσχοντο the passive sense of ἄχεϊ σχομένη, “held fast by her own grief”, said of Epicaste (11.279; Merry on 11.279; see [[achos]]). Alcinous names the cause a few verses later: “you have told your tale skillfully, as a singer does” (11.368; see [[singers]] and [[mythos]]).

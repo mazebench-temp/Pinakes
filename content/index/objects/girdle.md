@@ -20,7 +20,9 @@ en: [girdle, sashes]
 
 **Goddesses' girdles.** In the Odyssey Calypso and Circe dress at dawn in the same three verses: a great silver-white mantle, “fine and lovely, and around her waist she cast a girdle, / fine and golden, and over her head a head covering” (*Odyssey* 5.230–232 = 10.543–545; see [[veil]]).
 
-**Loosing the girdle.** In the catalogue of heroines Poseidon, taking the shape of the river Enipeus, lies with Tyro: “he loosed her maiden girdle, and poured sleep down upon her” (λῦσε δὲ παρθενίην ζώνην, κατὰ δʼ ὕπνον ἔχευεν, *Odyssey* 11.245). The loosed girdle and the poured sleep are the pair of *Iliad* 14, where Zeus is overcome by love and sleep (14.353; see [[hypnos]]).
+**Loosing the girdle.** To loose a woman's girdle is to lie with her: Poseidon “loosed her maiden girdle” when he lay with Tyro in the likeness of the river Enipeus (*Odyssey* 11.245; see [[tyro]] and [[hypnos]]).
+
+{{notes}}
 
 ## Outside Homer
 

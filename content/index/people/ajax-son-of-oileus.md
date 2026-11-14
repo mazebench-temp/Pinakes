@@ -6,6 +6,7 @@ tags: [achaean, warrior, king, locris]
 summary: Leader of the [[Locrians]], "the lesser Ajax": small, swift and a master of the spear, who often fights beside Telamonian [[Ajax]]. The Odyssey tells how Poseidon drowned him on the way home from Troy for boasting that he had escaped the sea against the will of the gods; later poets remembered his violence to Cassandra at the fall of the city.
 aliases: [Locrian Ajax, Lesser Ajax, Ajax the Lesser, Oilean Ajax, Aias son of Oileus]
 grc: ["Ὀϊλῆος ταχὺς Αἴας"]
+except: [Od. 11.550, Od. 11.553]
 en: [swift Ajax, lesser Ajax]
 refs: [2.406, 2.528, 2.529, 2.530, 2.534]
 relations:

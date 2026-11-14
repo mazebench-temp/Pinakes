@@ -29,7 +29,7 @@ Apollo then calls on Ares to drag Diomedes out of the battle, and sits down on t
 
 ## In the poem
 
-**What is an εἴδωλον.** εἴδωλον, from εἶδος, “form, look”, is a likeness with no one inside it (see [[eidolon]]). Apollo makes (τεῦξε) this one “like Aeneas himself, and in armor such as his” (5.450). Elsewhere in Homer the word is used of the dead: the ψυχαί in Hades are εἴδωλα καμόντων, “the phantoms of the dead” (23.72; Odyssey 11.476), and Achilles, waking from his dream of Patroclus, says that in the house of Hades there is “some soul and phantom, but there is no mind in it at all” (23.103–104). Only twice does a god make a phantom of the living. Apollo makes this one of Aeneas, and in the Odyssey Athena makes a phantom in the likeness of Penelope's sister Iphthime, to comfort her in a dream (Odyssey 4.795–841).
+**What is an εἴδωλον.** εἴδωλον, from εἶδος, “form, look”, is a likeness with no one inside it (see [[eidolon]]). Apollo makes (τεῦξε) this one “like Aeneas himself, and in armor such as his” (5.450). Elsewhere in Homer the word is used of the dead: the ψυχαί in Hades are εἴδωλα καμόντων, “the phantoms of the dead” (23.72), and in the Odyssey βροτῶν εἴδωλα καμόντων, “the phantoms of dead mortals” (*Odyssey* 11.476), and Achilles, waking from his dream of Patroclus, says that in the house of Hades there is “some soul and phantom, but there is no mind in it at all” (23.103–104). Only twice does a god make a phantom of the living. Apollo makes this one of Aeneas, and in the Odyssey Athena makes a phantom in the likeness of Penelope's sister Iphthime, to comfort her in a dream (*Odyssey* 4.795–841).
 
 **Why a phantom.** The armies are fighting over Aeneas' body. Aeneas himself fought over Pandarus' body a little earlier (5.297–302), and the Achaeans wanted the armor as much as the man: Diomedes was “ever eager to kill Aeneas and strip off his glorious armor” (5.434–435; see [[stripping-the-dead]]). The phantom keeps the fight where it was: Trojans and Achaeans go on hacking at each other's shields around it, while the man himself is healed far from the field. Neither side knows the truth, and Ares uses the fallen “Aeneas” to rouse the Trojans (see [[divine-rescue]] and [[divine-intervention]]).
 
@@ -37,7 +37,7 @@ Apollo then calls on Ares to drag Diomedes out of the battle, and sits down on t
 
 ## Elsewhere in Homer
 
-Apollo deceives Achilles in a similar way in *Iliad* 21. He takes the shape of Agenor, whom he has just hidden in a mist, and leads Achilles away from the city in a chase across the plain, until the Trojans are safely inside the walls. Then he reveals himself: “You will not kill me, since I am not subject to fate” (21.596–22.13; see [[apollo-deceives-achilles]] and [[truth-and-deception]]). In the Odyssey the εἴδωλον of Heracles is in Hades, while “he himself” feasts among the immortal gods (Odyssey 11.601–604).
+Apollo deceives Achilles in a similar way in *Iliad* 21. He takes the shape of Agenor, whom he has just hidden in a mist, and leads Achilles away from the city in a chase across the plain, until the Trojans are safely inside the walls. Then he reveals himself: “You will not kill me, since I am not subject to fate” (21.596–22.13; see [[apollo-deceives-achilles]] and [[truth-and-deception]]). In the Odyssey the εἴδωλον of Heracles is in Hades, while “he himself” feasts among the immortal gods (*Odyssey* 11.601–604).
 
 ## Outside Homer
 

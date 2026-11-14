@@ -1,0 +1,14 @@
+---
+summary: At sunset the ship reaches the limits of Oceanus, where the land and the city of the Cimmerian men lie wrapped in mist and cloud under deadly night, and there Odysseus runs it ashore and goes along the stream to the place that Circe had pointed out (11.12–22).
+# The Cimmerians without the name: "wrapped in mist and cloud" (11.15), "them", whom the sun never looks down on
+# (11.15-18), and "those wretched mortals" (11.19).
+refs: [11.15-19]
+---
+
+**At the limits of Oceanus.** Circe's wind carries the ship all day, and as the sun sets and all the streets grow dark it comes “to the limits of deep-streaming Oceanus” (11.11–13; see [[oceanus]] and [[sunset-lines]]). πείρατα Ὠκεανοῖο is, in W. W. Merry's words, “Ocean's bounding-line”: not the farthest shore of Ocean, but the boundary that Ocean makes to the land of the living (*Commentary on the Odyssey*, 1886, on 11.13). There, at the edge, the Cimmerians live:
+
+{{quote:c562c8d1-e8cd-5b1d-9662-7df7fa851a90}}
+
+**A city in the dark.** κεκαλυμμένοι, “wrapped”, agrees with the men implied in “the land and the city”; the words δῆμος and πόλις, Merry notes, give the account a sort of reality, but it is hard to conceive of social life going on in a country overshadowed by perpetual night, and a scholium asks, “How then do they live?” (Merry on 11.15). The sun's whole course is denied them: he does not look down on them “when he climbs toward the starry sky” or “when he turns back again from the sky toward the earth”, the rising and the setting of his daily round (11.17–18; Merry on 11.18; see [[helios]] and [[sky]]). Aeschylus says the same of the daughters of Phorcys, at the end of Io's wanderings, “whom neither the sun sees with its rays, nor ever the moon of night” (*Prometheus Bound* 796–797; Merry on 11.16; see [[aeschylus]]). The night spread over them is νὺξ ὀλοή, “deadly night” (11.19; see [[deadly]]), and they are δειλοὶ βροτοί, “wretched mortals”, the words for men in their misery (see [[wretch]]). The verse on the sun is also Hesiod's, of the home of Sleep and Death (*Theogony* 759–760; see the translation's note on 11.16).
+
+**Instead of the groves.** Circe had told Odysseus to beach the ship by Oceanus, “where there is a shore of good soil and the groves of Persephone”, at the place where Pyriphlegethon and Cocytus flow into Acheron and there is a rock (10.508–515). The telling names none of these: Odysseus says only that they went along the stream of Oceanus “until we came to the place that Circe had pointed out” (11.20–22). Merry notes that the shore and the groves are not heard of again, and that “the notice of the Cimmerians and their gloomy land is introduced instead” (on 11.22; see [[the-groves-of-persephone]] and [[acheron]]). The Cimmerians are named once and never met; at the place Circe had shown, the rites begin and the dead come up to the blood (11.23–50; see [[the-offering-to-the-dead]]).

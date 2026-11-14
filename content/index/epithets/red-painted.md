@@ -3,7 +3,7 @@ title: Red-painted
 greek: μιλτοπάρῃος
 kind: epithet
 tags: [ship, rare-word]
-summary: “Red-cheeked,” an epithet of [[ships]] whose bows are painted with red ochre; used of Odysseus' twelve ships.
+summary: “Red-cheeked,” μιλτοπάρῃος, an epithet of [[ships]] whose bows are painted with red ochre, used of Odysseus' twelve ships; the Odyssey has also its twin φοινικοπάρῃος, “with crimson prows.”
 aliases: [red-cheeked, vermilion-cheeked, miltopareos]
 grc: [μιλτοπάρῃοι]
 en: [red-painted prows]
@@ -12,7 +12,7 @@ of: [ships]
 
 ## Meaning
 
-μιλτοπάρῃος = μίλτος (“red ochre, red earth”) + παρειά (“cheek”): “red-cheeked.” The “cheeks” of a ship are the sides of the bow. The word occurs twice in Homer: of Odysseus' ships in the Catalogue, and in the Odyssey of the ships the Cyclopes do not have (Od. 9.125). A similar compound, φοινικοπάρῃος (“purple-cheeked”), describes ships in Tiresias' prophecy of a land where men know nothing of the sea (Od. 11.124). Compare the other color of the fleet, [[black-ships]].
+μιλτοπάρῃος = μίλτος (“red ochre, red earth”) + παρειά (“cheek”): “red-cheeked.” The “cheeks” of a ship are the sides of the bow. The word occurs twice in Homer: of Odysseus' ships in the Catalogue, and in the Odyssey of the ships the Cyclopes do not have (Od. 9.125). A similar compound, φοινικοπάρῃος (“purple-cheeked”), describes ships in Teiresias' prophecy of a land where men know nothing of the sea (Od. 11.124). Compare the other color of the fleet, [[black-ships]].
 
 ## Use
 

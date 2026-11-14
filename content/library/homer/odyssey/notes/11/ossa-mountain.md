@@ -1,0 +1,9 @@
+---
+summary: The sons of Aloeus, threatening the immortals with war, “were eager to set Ossa on Olympus, and on Ossa / Pelion with its quivering leaves, so that heaven might be scaled” (11.313–316).
+---
+
+**Mountains piled on mountains.** Among the women Odysseus sees Iphimedeia, whose sons, Otus and Ephialtes, were nine fathoms tall at nine years old and threatened the immortals on Olympus (11.305–314; see [[otus]] and [[ephialtes]]):
+
+{{quote:901a4228-f954-574f-8573-c559677ad197}}
+
+The ancient critics doubted the two verses. Aristarchus rejected them “as impossible”, a scholium reports, and the defenders whom Eustathius calls the λυτικοί, “the professed elucidators” in Merry's phrase, answered that the boys were eager to do the impossible but did not do it, laying all the weight on μέμασαν, “they were eager” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.315–316 and his critical note; see the translation's note on 11.315–316). The difficulty Aristarchus felt, Merry thinks, was the clash with the verse before: there the gods are on Olympus, and the brothers threaten war “on Olympus” (11.313); here Olympus is only the first step of a giant stair to reach gods who are far above it. Eustathius could say that Olympus here is the sky, but Aristarchus laid down that Ὄλυμπος in Homer is always the mountain. Lehrs, as Merry reports him, explained that the brothers climb Olympus and the gods flee before them into the higher sky, so that they must pile the mountains to follow; if the verses are kept, Merry allows, this is the best that can be offered, but he thinks them very likely an interpolation from some poem of the war of the gods and the giants, a story not found in Homer (on 11.315–316; see [[olympus]] and [[sky]]). The brothers died before the deed, killed by the son of Zeus and Leto (11.317–320; see [[apollo]]).

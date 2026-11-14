@@ -27,7 +27,7 @@ Son of Sthenelus, the son of Perseus: "Eurystheus, child of Sthenelus the son of
 
 Agamemnon tells the whole story of his birth in *Iliad* 19, as an example of ἄτη, the blind folly that deceived even Zeus (19.95–133; see [[ate]] and [[the-birth-of-heracles]]). Zeus swore that a man of his blood born that day would rule all who dwell around him, and Hera brought Eurystheus to birth in the seventh month and held back the labor of [[alcmene|Alcmene]], so that the oath made him lord of the Argives and Heracles' master; Zeus groaned whenever he saw his son "doing unseemly work under the labors that Eurystheus set him" (ὑπʼ Εὐρυσθῆος ἀέθλων, 19.133, the words of 8.363).
 
-Eurystheus did not deal with Heracles in person. His herald Copreus “used to go for lord Eurystheus / with messages to mighty Heracles”, and Copreus' son Periphetes of Mycenae, a far better man than his father, is killed by Hector (15.638–641; see [[copreus]] and [[periphetes-of-mycenae]]). In the Odyssey the ghost of Heracles tells Odysseus, without naming him, that he was subject to "a far worse man", who laid hard labors on him and once sent him down to bring back the hound (*Odyssey* 11.620–626).
+Eurystheus did not deal with Heracles in person. His herald Copreus “used to go for lord Eurystheus / with messages to mighty Heracles”, and Copreus' son Periphetes of Mycenae, a far better man than his father, is killed by Hector (15.638–641; see [[copreus]] and [[periphetes-of-mycenae]]). In the Odyssey the phantom of Heracles tells Odysseus, without naming him, that he was “made subject to a man far worse than I”, who laid hard labors on him and once sent him down to bring back the hound (*Odyssey* 11.620–626; see the Book 11 note).
 
 ## Outside Homer
 

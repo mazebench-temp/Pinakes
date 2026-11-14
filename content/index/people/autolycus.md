@@ -20,7 +20,7 @@ passages:
 
 ## Family
 
-In the Odyssey he is the father of Anticleia, Odysseus' mother, “Anticleia, daughter of great-hearted Autolycus” (*Odyssey* 11.85), and he calls Laertes γαμβρὸς ἐμός, “my son-in-law” (*Odyssey* 19.406; see [[laertes]]). His wife is Amphithea, and he has sons, who are not named (19.413–418). His house is on Parnassus. In Homer Hermes is his patron, not his father; later writers make him Hermes' son and give him another grandson, Jason (see below).
+In the Odyssey he is the father of [[anticleia|Anticleia]], Odysseus' mother, “Anticleia, daughter of great-hearted Autolycus” (*Odyssey* 11.85), and he calls Laertes γαμβρὸς ἐμός, “my son-in-law” (*Odyssey* 19.406; see [[laertes]]). His wife is Amphithea, and he has sons, who are not named (19.413–418). His house is on Parnassus. In Homer Hermes is his patron, not his father; later writers make him Hermes' son and give him another grandson, Jason (see below).
 
 ## In Homer
 

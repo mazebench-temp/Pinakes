@@ -3,7 +3,7 @@ title: Phthia
 greek: Φθίη
 kind: place
 tags: [thessaly, mainland-greece]
-summary: Achilles' homeland in southern Thessaly, "deep-soiled, nurse of men", where he threatens to sail home.
+summary: Achilles' homeland in southern Thessaly, "deep-soiled, nurse of men", the land of Peleus and the Myrmidons, to which Achilles in the Iliad threatens to sail home.
 grc: [Φθίῃ, Φθίην]
 en: [Phthia]
 ---

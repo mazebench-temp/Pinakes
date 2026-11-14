@@ -1,0 +1,643 @@
+# Homer, Odyssey, Book 11 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	“And when we had come down to the ship and the sea,
+2	first of all we dragged the ship down into the shining sea,
+3	and we set the mast and the sails in the black ship,
+4	and we took the sheep and put them on board, and went on board ourselves,
+5	grieving, shedding big tears.
+6	And behind our dark-prowed ship
+7	she sent a following wind that filled the sail, a good companion,
+8	Circe of the lovely tresses, a dread goddess with human voice.
+9	And when we had busied ourselves with all the tackle throughout the ship,
+10	we sat; and the wind and the helmsman steered her.
+11	And all day long her sails were stretched as she crossed the sea.
+12	And the sun set, and all the streets grew dark;
+13	and she came to the limits of deep-streaming Oceanus.
+14	There are the land and the city of the Cimmerian men,
+15	wrapped in mist and cloud; and never does
+16	the shining sun look down on them with his rays,
+17	neither when he climbs toward the starry sky,
+18	nor when he turns back again from the sky toward the earth,
+19	but deadly night is spread over those wretched mortals.
+20	There we came and ran the ship ashore, and took the sheep
+21	out of it; and we ourselves went along beside the stream of Oceanus
+22	until we came to the place that Circe had pointed out.
+23	There Perimedes and Eurylochus held
+24	the victims; and I drew the sharp sword from beside my thigh
+25	and dug a pit about a cubit's length this way and that,
+26	and around it poured a drink offering to all the dead,
+27	first with honey and milk, then with sweet wine,
+28	and the third time with water; and I sprinkled white barley meal over it.
+29	And I earnestly implored the strengthless heads of the dead,
+30	vowing that, when I came to Ithaca, a barren heifer, the best I had,
+31	I would sacrifice in my halls, and heap the pyre with good things,
+32	and that to Teiresias apart I would sacrifice a sheep, to him alone,
+33	all black, that stands out among our flocks.
+34	And when with vows and prayers the tribes of the dead
+35	I had begged, I took the sheep and cut their throats
+36	over the pit, and the dark blood flowed; and there gathered
+37	out of Erebus the souls of the dead who have died:
+38	brides and young unmarried men and old men who had borne much,
+39	and tender maidens with hearts new to sorrow,
+40	and many stabbed by bronze-fitted spears,
+41	men slain in battle, wearing their armor clotted with blood;
+42	who kept coming in great numbers about the pit, one from one place and one from another,
+43	with a wondrous cry; and pale fear took hold of me.
+44	Then I urged on my companions and bade them
+45	flay the sheep that lay there slaughtered with the pitiless bronze,
+46	and burn them, and pray to the gods,
+47	to mighty Hades and dread Persephone;
+48	and I myself drew the sharp sword from beside my thigh
+49	and sat there, and did not let the strengthless heads of the dead
+50	come near the blood until I had questioned Teiresias.
+51	And first came the soul of my companion Elpenor;
+52	for he had not yet been buried beneath the wide-wayed earth;
+53	for we had left his body behind in the hall of Circe,
+54	unwept and unburied, since another toil was pressing us.
+55	When I saw him I wept, and pitied him in my heart,
+56	and I spoke to him, addressing him with winged words:
+57	‘Elpenor, how did you come beneath the misty darkness?
+58	You have come faster on foot than I in my black ship.’
+59	So I spoke, and he groaned and answered me:
+60	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+61	an evil fate from a god led me into blind folly, and endless wine.
+62	Lying down in the hall of Circe I did not think
+63	to come back down by going to the long ladder,
+64	but fell straight down from the roof; and my neck
+65	was broken from the vertebrae, and my soul went down to Hades.
+66	Now I implore you by those you left behind, though they are not here,
+67	by your wife and your father, who reared you when you were small,
+68	and by Telemachus, whom you left an only son in your halls;
+69	for I know that going from here, out of the house of Hades,
+70	you will put in with your well-made ship at the island of Aeaea;
+71	there, lord, I bid you remember me.
+72	Do not go away and leave me behind unwept, unburied,
+73	turning away, lest I become a cause of the gods' wrath against you;
+74	but burn me with my armor, whatever I have,
+75	and heap up a mound for me on the shore of the gray sea,
+76	the mound of an unhappy man, even for men to come to hear of.
+77	Do this for me, and fix on the tomb the oar
+78	with which I rowed when I was alive, among my companions.’
+79	So he spoke, and I answered him and said:
+80	‘All this, unhappy man, I will accomplish and do for you.’
+81	So we two sat exchanging hateful words,
+82	I on one side, holding my sword over the blood,
+83	and on the other the phantom of my companion, saying many things.
+84	And there came the soul of my dead mother,
+85	Anticleia, daughter of great-hearted Autolycus,
+86	whom I had left alive when I went to sacred Ilios.
+87	When I saw her I wept, and pitied her in my heart;
+88	but even so, though deeply grieved, I did not let her first
+89	come near the blood until I had questioned Teiresias.
+90	And there came the soul of Theban Teiresias,
+91	holding a golden scepter, and he knew me and spoke to me:
+92	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+93	why now, unhappy man, have you left the light of the sun
+94	and come, to see the dead and this joyless place?
+95	But draw back from the pit, and hold away your sharp sword,
+96	so that I may drink of the blood and tell you truly.’
+97	So he spoke, and I drew back and thrust my silver-studded sword
+98	into its sheath. And when he had drunk the dark blood,
+99	then the noble seer spoke to me with words:
+100	‘You seek a honey-sweet homecoming, shining Odysseus;
+101	but a god will make it grievous for you; for I do not think
+102	you will escape the shaker of the earth, since he has laid up a grudge against you in his heart,
+103	angry because you blinded his dear son.
+104	But even so you may still come home, though suffering evils,
+105	if you will restrain your own heart and your companions',
+106	when first you bring your well-made ship
+107	to the island of Thrinacia, escaping the violet sea,
+108	and find grazing there the cattle and fat sheep
+109	of the Sun, who sees all things and hears all things.
+110	If you leave them unharmed and think of your homecoming,
+111	you may still reach Ithaca, though suffering evils;
+112	but if you harm them, then I foretell destruction for you,
+113	for your ship and your companions. And even if you yourself escape,
+114	you will come home late and in evil plight, having lost all your companions,
+115	on someone else's ship, and find bane in your house,
+116	overbearing men, who are devouring your substance,
+117	wooing your godlike wife and giving bride-price.
+118	Yet you will surely take vengeance for their violence when you come.
+119	But when you have killed the suitors in your halls,
+120	whether by guile or openly with the sharp bronze,
+121	then take a well-fitted oar and go,
+122	until you come to men who do not know the sea
+123	and do not eat food mixed with salt;
+124	nor do they know ships with crimson prows,
+125	or well-fitted oars, which are wings to ships.
+126	And I will tell you a sign, very easy to see, and it will not escape you.
+127	When another wayfarer meets you
+128	and says that you have a winnowing fan on your shining shoulder,
+129	then fix your well-fitted oar in the ground,
+130	and make fine sacrifices to lord Poseidon,
+131	a ram and a bull and a boar that mounts the sows,
+132	and go home and offer holy hecatombs
+133	to the immortal gods, who hold the wide sky;
+134	to all of them in order. And death will come to you yourself away from the sea,
+135	a death so very gentle, that will kill you
+136	worn out by an old age of ease; and around you your people
+137	will be prosperous. This I tell you truly.’
+138	So he spoke, and I answered him and said:
+139	‘Teiresias, this, I suppose, the gods themselves have spun.
+140	But come, tell me this, and give me an exact account:
+141	I see here the soul of my dead mother;
+142	she sits in silence near the blood, and has not brought herself
+143	to look on her own son face to face or to speak to him.
+144	Tell me, lord: how may she know me for who I am?’
+145	So I spoke, and at once he answered me and said:
+146	‘An easy word I will tell you and put in your mind.
+147	Whichever of the dead who have died you let
+148	come near the blood will tell you truly;
+149	but whoever you begrudge it to will go back again.’
+150	So saying, the soul went into the house of Hades,
+151	the soul of lord Teiresias, when he had told the oracles;
+152	but I stayed there steadfastly, until my mother
+153	came and drank the dark blood; and at once she knew me,
+154	and lamenting addressed me with winged words:
+155	‘My child, how did you come beneath the misty darkness
+156	while you are alive? It is hard for the living to see these things.
+157	For between are great rivers and dread streams,
+158	Oceanus first of all, which no one can cross
+159	on foot, unless he has a well-made ship.
+160	Have you come here now from Troy, after wandering
+161	a long time with your ship and your companions? And have you not yet come
+162	to Ithaca, nor seen your wife in your halls?’
+163	So she spoke, and I answered her and said:
+164	‘My mother, need brought me down to the house of Hades
+165	to consult the soul of Theban Teiresias;
+166	for I have not yet come near the Achaean land, nor yet set foot
+167	on our own land, but I have been wandering always, enduring misery,
+168	ever since I first followed brilliant Agamemnon
+169	to Ilios of the fine horses, to fight the Trojans.
+170	But come, tell me this, and give me an exact account:
+171	What fate of death that lays men low brought you down?
+172	Was it a long sickness, or did Artemis of the showering arrows
+173	come upon you with her gentle arrows and kill you?
+174	And tell me of my father and of my son, whom I left behind,
+175	whether my prize of honor is still with them, or some other man
+176	already holds it, and they say that I will come home no more.
+177	And tell me of my wedded wife, her plan and her thought,
+178	whether she stays beside her son and keeps all things safe,
+179	or whether whoever is best of the Achaeans has already married her.’
+180	So I spoke, and at once my lady mother answered:
+181	‘Yes, truly she stays with enduring heart
+182	in your halls; and always in misery for her
+183	the nights and the days waste away, as she sheds tears.
+184	No one yet holds your fine prize of honor, but undisturbed
+185	Telemachus holds the domains, and feasts at equal feasts,
+186	such as it is fitting for a man who gives judgment to attend;
+187	for all men invite him. But your father stays there
+188	in the country, and does not come down to the city. Nor has he, to sleep in,
+189	beds and cloaks and glossy blankets,
+190	but in the winter he sleeps where the slaves sleep in the house,
+191	in the dust near the fire, and wears poor clothes on his body;
+192	but when summer comes and the flourishing late summer,
+193	everywhere on the slope of his vineyard
+194	beds of fallen leaves are strewn on the ground for him.
+195	There he lies grieving, and nurses a great sorrow in his heart,
+196	longing for your homecoming, and hard old age comes upon him besides.
+197	For so it was that I too perished and met my fate;
+198	it was not the keen-sighted goddess of the showering arrows who in my halls
+199	came upon me with her gentle arrows and killed me,
+200	nor did any sickness come upon me, such as most often
+201	takes the spirit from the limbs with hateful wasting;
+202	but longing for you, and for your counsels, shining Odysseus,
+203	and for your gentleness, robbed me of my honey-sweet life.’
+204	So she spoke, and I pondered in my mind, and wished
+205	to clasp the soul of my dead mother.
+206	Three times I sprang toward her, and my heart bade me clasp her,
+207	and three times she flew from my hands like a shadow or a dream,
+208	and sharp grief rose in my heart all the more,
+209	and I spoke to her, addressing her with winged words:
+210	‘My mother, why do you not stay for me when I am eager to clasp you,
+211	so that even in the house of Hades, throwing our arms around each other,
+212	we two might take our fill of chilling lament?
+213	Or is this some phantom that noble Persephone
+214	has urged on toward me, so that I may groan and mourn still more?’
+215	So I spoke, and at once my lady mother answered:
+216	‘Ah me, my child, ill-fated beyond all men,
+217	it is not that Persephone, the daughter of Zeus, deceives you,
+218	but this is the way of mortals, when one of them dies:
+219	the sinews no longer hold the flesh and the bones together,
+220	but the strong might of the blazing fire
+221	overcomes them, as soon as the spirit has left the white bones,
+222	and the soul, like a dream, flits away and hovers.
+223	But long for the light as quickly as you can; and all these things
+224	know, so that you may tell them to your wife hereafter.’
+225	So we two were exchanging words, and the women
+226	came, for noble Persephone urged them on,
+227	all who had been the wives and daughters of chieftains.
+228	And they gathered in a body about the dark blood,
+229	but I planned how I might question each one.
+230	And this plan seemed to me in my heart the best:
+231	drawing the long-edged sword from beside my stout thigh,
+232	I would not let them all drink the dark blood at once.
+233	So they came up one after another, and each
+234	declared her own parentage; and I questioned them all.
+235	There the first I saw was Tyro, daughter of a noble father,
+236	who said that she was the offspring of noble Salmoneus,
+237	and said she was the wife of Cretheus, son of Aeolus.
+238	She fell in love with a river, the divine Enipeus,
+239	which is by far the fairest of the rivers that run upon the earth,
+240	and she used to go often to the fair streams of Enipeus.
+241	And in his likeness the earth-holder, the shaker of the earth,
+242	lay with her at the mouth of the eddying river;
+243	and the surging wave stood around them, high as a mountain,
+244	arched over, and hid the god and the mortal woman.
+245	And he loosed her maiden girdle, and shed sleep upon her.
+246	But when the god had finished the works of love,
+247	and he clung to her hand, and spoke to her, and called her by name:
+248	‘Rejoice in this love, lady; and as the year circles round
+249	you will bear splendid children, for not in vain are the embraces
+250	of the immortals; and you must look after them and rear them.
+251	But now go to your house, and keep silent, and do not name me;
+252	but I, you must know, am Poseidon the earth-shaker.’
+253	So saying, he plunged beneath the billowing sea.
+254	And she conceived and bore Pelias and Neleus,
+255	who became mighty attendants of great Zeus,
+256	both of them; Pelias lived in Iolcus with its wide dancing floors,
+257	rich in flocks, and the other in sandy Pylos.
+258	And her other sons she, the queen among women, bore to Cretheus,
+259	Aeson and Pheres and Amythaon, who fought from his chariot.
+260	And after her I saw Antiope, the daughter of Asopus,
+261	who claimed that she had slept even in the arms of Zeus,
+262	and she bore two sons, Amphion and Zethus,
+263	who first founded the seat of seven-gated Thebes
+264	and fenced it with towers, since without towers they could not
+265	dwell in Thebes with its wide dancing floors, mighty though they were.
+266	And after her I saw Alcmene, the wife of Amphitryon,
+267	who bore Heracles, bold in endurance, lion-hearted,
+268	having lain in love in the arms of great Zeus;
+269	and Megara, the daughter of high-hearted Creon,
+270	whom the son of Amphitryon, ever unyielding in his might, had as wife.
+271	And I saw the mother of Oedipus, fair Epicaste,
+272	who did a great deed in the ignorance of her mind
+273	in marrying her own son; and he, when he had slain his own father,
+274	married her; and at once the gods made it known among men.
+275	But he, suffering sorrows in lovely Thebes
+276	through the deadly plans of the gods, ruled the Cadmeans;
+277	but she went to the house of Hades, the strong gatekeeper,
+278	when she had fastened a noose hanging sheer from the high roof-beam,
+279	held fast by her own grief; but to him she left sorrows behind,
+280	very many, all that the Erinyes of a mother bring to pass.
+281	And I saw beautiful Chloris, whom Neleus once
+282	married for her beauty, after giving a countless bride-price,
+283	the youngest daughter of Amphion, son of Iasus,
+284	who once ruled with might in Minyan Orchomenus;
+285	and she was queen in Pylos, and bore him splendid children,
+286	Nestor and Chromius and proud Periclymenus.
+287	And besides these she bore strong Pero, a marvel to mortals,
+288	whom all who dwelt around were wooing; but Neleus
+289	would give her to no one who did not drive the broad-browed cattle with curving horns
+290	out of Phylace, the cattle of mighty Iphiclus,
+291	hard to drive; and these the noble seer alone promised
+292	to drive off; but a hard fate of a god fettered him,
+293	and grievous bonds, and the country herdsmen.
+294	But when the months and the days were being fulfilled
+295	as the year circled round again, and the seasons came round,
+296	then at last mighty Iphiclus released him,
+297	when he had told all the oracles; and the plan of Zeus was being fulfilled.
+298	And I saw Leda, the wife of Tyndareus,
+299	who bore to Tyndareus two fierce-hearted sons,
+300	Castor, tamer of horses, and Polydeuces, good with his fists,
+301	both of whom the life-giving earth holds fast, alive though they are;
+302	and even beneath the earth, having honor from Zeus,
+303	now they live on alternate days, and now again
+304	they are dead; and they have been allotted honor like the gods.
+305	And after her I saw Iphimedeia, the wife of Aloeus,
+306	who declared that she had lain with Poseidon,
+307	and she bore two sons, but they were short-lived,
+308	godlike Otus and far-famed Ephialtes,
+309	who were the tallest men the grain-giving earth ever reared,
+310	and by far the handsomest, after famous Orion;
+311	for at nine years old they were nine cubits
+312	in breadth, and in height they had grown nine fathoms.
+313	They even threatened the immortals on Olympus
+314	that they would raise the din of furious war.
+315	They were eager to set Ossa on Olympus, and on Ossa
+316	Pelion with its quivering leaves, so that heaven might be scaled.
+317	And they would have accomplished it, if they had reached the measure of youth;
+318	but the son of Zeus, whom Leto of the lovely hair bore, destroyed
+319	them both, before the whiskers under their temples
+320	had bloomed and covered their jaws with a fresh growth of down.
+321	And I saw Phaedra and Procris and beautiful Ariadne,
+322	the daughter of baleful Minos, whom Theseus once
+323	was bringing from Crete to the hill of sacred Athens,
+324	but he had no joy of her; for before that Artemis slew her
+325	in sea-washed Dia, on the testimony of Dionysus.
+326	And I saw Maera and Clymene and hateful Eriphyle,
+327	who took precious gold as the price of her own husband.
+328	But all of them I could not tell or name,
+329	all the wives and daughters of heroes that I saw;
+330	for before that even the immortal night would wane. But it is time
+331	to sleep, either when I have gone to the swift ship and my companions,
+332	or here; and my escort will be the care of the gods and of you.”
+333	So he spoke, and they all fell hushed in silence,
+334	and they were held by a spell throughout the shadowy halls.
+335	And among them white-armed Arete began to speak;
+336	“Phaeacians, how does this man seem to you to be
+337	in looks and stature and the well-balanced mind within?
+338	And he is my guest, though each of you has his share of honor.
+339	So do not hurry to send him away, and the gifts
+340	for one in such need do not cut short; for many
+341	possessions lie in your halls by the will of the gods.”
+342	And among them spoke also the old hero Echeneus,
+343	who was one of the older Phaeacian men:
+344	“Friends, not wide of the mark, nor against our expectation,
+345	is our prudent queen speaking to us; so obey her.
+346	But on Alcinous here depend both deed and word.”
+347	Then Alcinous answered him in turn and said:
+348	“This word shall indeed be so, as surely as I
+349	live and am lord over the Phaeacians, lovers of the oar.
+350	But let our guest, much as he is in need of his homecoming, bring himself
+351	to stay on nonetheless until tomorrow, until I complete
+352	the whole present; and his escort will be the concern of men,
+353	of all of them, and mine most of all; for mine is the power among the people.”
+354	Answering him, Odysseus of many wiles said:
+355	“Powerful Alcinous, preeminent among all the people,
+356	even if you should bid me stay here for a year,
+357	and should speed my escort and give splendid gifts,
+358	that is what I would want, and it would be far better
+359	to come to my dear native land with a fuller hand;
+360	and I would be more respected and dearer to men,
+361	by all who should see me come home to Ithaca.”
+362	Then Alcinous answered him in turn and said:
+363	“Odysseus, this we do not judge you to be when we look at you,
+364	a deceiver and a cheat, such as the many
+365	whom the black earth feeds, men scattered far and wide,
+366	fashioning lies out of things that no one could even see;
+367	but you have beauty of words, and within you are good wits,
+368	and you have told your tale skillfully, as a singer does,
+369	the grievous sorrows of all the Argives and of yourself.
+370	But come, tell me this, and give me an exact account:
+371	whether you saw any of your godlike companions, who with you
+372	followed together to Ilios and there met their fate.
+373	This night is very long, endless; and it is not yet time
+374	to sleep in the hall; so go on telling me of wondrous doings.
+375	I could hold out even till brilliant Dawn, if you
+376	would bring yourself to tell in the hall of your sorrows.”
+377	Answering him, Odysseus of many wiles said:
+378	“Powerful Alcinous, preeminent among all the people,
+379	there is a time for many words, and a time also for sleep;
+380	but if you still long to listen, I would not
+381	begrudge telling you of other things more pitiable even than these,
+382	the sorrows of my companions, who perished afterward,
+383	who escaped the groaning war cry of the Trojans,
+384	but in their homecoming perished by the will of an evil woman.
+385	But when the souls had been scattered this way and that
+386	by holy Persephone, the souls of the womenfolk,
+387	there came the soul of Agamemnon, son of Atreus,
+388	grieving; and around him were gathered the others, all who with him
+389	had died in the house of Aegisthus and met their fate.
+390	He knew me at once, when he had drunk the dark blood,
+391	and he wept loudly, letting big tears fall,
+392	stretching out his hands to me, eager to reach me;
+393	but no longer was there steadfast strength in him, or any vigor,
+394	such as there was before in his supple limbs.
+395	When I saw him I wept, and pitied him in my heart,
+396	and I spoke to him, addressing him with winged words:
+397	‘Most glorious son of Atreus, Agamemnon, lord of men,
+398	what fate of death that lays men low brought you down?
+399	Was it among the ships that Poseidon brought you down,
+400	rousing a blast of grievous winds that none would envy?
+401	Or did merciless men do you harm on land
+402	as you were cutting off their cattle and fine flocks of sheep,
+403	or fighting for a city and its women?’
+404	So I spoke, and at once he answered me and said:
+405	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+406	it was not among the ships that Poseidon brought me down,
+407	rousing a blast of grievous winds that none would envy,
+408	nor did merciless men do me harm on land,
+409	but Aegisthus, contriving death and fate for me,
+410	killed me, with my ruinous wife, when he had called me to his house
+411	and feasted me, as one kills an ox at the manger.
+412	So I died a most pitiable death; and around me my other companions
+413	were killed unceasingly, like white-tusked hogs
+414	that are slaughtered in the house of a rich man of great power
+415	for a wedding, or a shared feast, or a rich banquet.
+416	You have been present already at the slaughter of many men,
+417	killed singly and in the fierce battle;
+418	but you would have grieved most in your heart, had you seen that sight,
+419	how around the mixing bowl and the laden tables
+420	we lay in the hall, and the whole floor seethed with blood.
+421	And the most pitiable voice I heard was that of Priam's daughter,
+422	Cassandra, whom scheming Clytemnestra killed
+423	beside me; and I, raising my hands, let them fall to the ground
+424	as I lay dying with the sword through me; but she, the dog-faced one,
+425	turned away, and did not bring herself, though I was going to the house of Hades,
+426	to close my eyes with her hands or to shut my mouth.
+427	So there is nothing more dreadful and more shameless than a woman
+428	who puts such deeds as these into her heart;
+429	such as the shameful deed that she too devised,
+430	contriving slaughter for her wedded husband. Truly I thought
+431	that I would come home welcome to my children and my slaves;
+432	but she, with her mind set on grim things beyond all others,
+433	has poured shame on herself and on those to come hereafter,
+434	the womenfolk, even on one who does good.’
+435	So he spoke, and I answered him and said:
+436	‘Ah, truly far-seeing Zeus has hated the offspring of Atreus
+437	terribly, through the plans of women,
+438	from of old: for Helen's sake many of us perished,
+439	and against you Clytemnestra was preparing a snare while you were far away.’
+440	So I spoke, and at once he answered me and said:
+441	‘So now you too must never be kind even to your wife;
+442	do not declare to her every word that you know well,
+443	but tell her one part, and let another part be hidden.
+444	But not to you, Odysseus, will death come from your wife;
+445	for she has great good sense, and knows sound counsels in her heart,
+446	the daughter of Icarius, prudent Penelope.
+447	Truly we left her a young bride
+448	when we went to the war; and she had a child at her breast,
+449	an infant, who now, I think, sits among the number of men,
+450	happy one! For his dear father will see him when he comes,
+451	and he will greet his father, as is the custom.
+452	But my wife did not even let me have my fill of my son
+453	with my eyes; before that she killed me myself.
+454	And I will tell you something else, and you lay it to heart:
+455	secretly, and not openly, to your dear native land
+456	bring your ship to shore; for there is no trusting women any more.
+457	But come, tell me this, and give me an exact account:
+458	whether you have heard of my son as still living anywhere,
+459	perhaps in Orchomenus, or in sandy Pylos,
+460	or perhaps with Menelaus in broad Sparta;
+461	for brilliant Orestes has not yet died upon the earth.’
+462	So he spoke, and I answered him and said:
+463	‘Son of Atreus, why do you ask me this? I do not know at all
+464	whether he is alive or dead; and it is a bad thing to speak empty wind.’
+465	So we two stood exchanging hateful words,
+466	grieving, shedding big tears;
+467	and there came the soul of Achilles, son of Peleus,
+468	and of Patroclus, and of noble Antilochus,
+469	and of Ajax, who was the best in looks and form
+470	of all the Danaans, after the noble son of Peleus.
+471	And the soul of the swift-footed grandson of Aeacus knew me,
+472	and lamenting addressed me with winged words:
+473	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+474	hard man, what still greater deed will you devise in your mind?
+475	How did you dare to come down to Hades, where the dead
+476	dwell without sense, the phantoms of dead mortals?’
+477	So he spoke, and I answered him and said:
+478	‘Achilles, son of Peleus, by far the strongest of the Achaeans,
+479	I came to consult Teiresias, in case he might tell me some plan
+480	how I might come to rocky Ithaca;
+481	for I have not yet come near the Achaean land, nor yet set foot
+482	on our own land, but always I have troubles. As for you, Achilles,
+483	no man before was more blessed than you, nor will be hereafter.
+484	For before, while you lived, we honored you equally with the gods,
+485	we Argives, and now again you are mighty among the dead,
+486	being here; so do not grieve at all that you are dead, Achilles.’
+487	So I spoke, and at once he answered me and said:
+488	‘Do not speak comfortingly to me of death, shining Odysseus.
+489	I would rather be bound to the soil and serve another for hire,
+490	a man who had no land of his own and no great livelihood,
+491	than be lord over all the dead who have perished.
+492	But come, tell me word of my noble son,
+493	whether he followed to the war to be a champion, or not.
+494	And tell me of noble Peleus, if you have heard anything,
+495	whether he still has honor among the many Myrmidons,
+496	or whether they dishonor him throughout Hellas and Phthia,
+497	because old age holds him fast in his hands and feet.
+498	For I am not there to help him under the rays of the sun,
+499	such as I was once in wide Troy,
+500	when I killed the best of the army, defending the Argives.
+501	If I could come like that, even for a little while, to my father's house,
+502	then I would make my might and my irresistible hands hateful to any
+503	of those who do him violence and keep him from his honor.’
+504	So he spoke, and I answered him and said:
+505	‘Truly, of noble Peleus I have heard nothing,
+506	but of your dear son Neoptolemus
+507	I will tell you the whole truth, as you bid me;
+508	for it was I myself who brought him in the hollow, balanced ship
+509	from Scyros to join the well-greaved Achaeans.
+510	Truly, whenever we took counsel about the city of Troy,
+511	he always spoke first, and did not miss the right words;
+512	godlike Nestor and I alone surpassed him.
+513	But whenever we fought with the bronze on the plain of the Trojans,
+514	he never stayed in the crowd of men or in the throng,
+515	but ran far out in front, yielding to no one in his might,
+516	and many men he killed in grim combat.
+517	But all of them I could not tell or name,
+518	how great an army he killed, defending the Argives,
+519	but what a man he slew with the bronze, the son of Telephus,
+520	the hero Eurypylus, and many of his companions around him,
+521	the Ceteians, were killed, for the sake of gifts to a woman.
+522	He was the handsomest man I saw, after brilliant Memnon.
+523	And when we went down into the horse that Epeius made,
+524	we, the best of the Argives, and to me had been given the whole command,
+525	both to throw open the close ambush and to close it,
+526	then the other leaders and rulers of the Danaans
+527	were wiping away their tears, and the limbs of each trembled beneath him;
+528	but him I never saw at all with my eyes
+529	either turning pale in his fair skin or wiping
+530	a tear from his cheeks; but he kept supplicating me again and again
+531	to let him out of the horse, and he kept feeling for the hilt of his sword
+532	and his spear heavy with bronze, and he had evil in mind for the Trojans.
+533	But when we had sacked the steep city of Priam,
+534	with his share and a noble prize he went on board his ship
+535	unharmed, neither struck by the sharp bronze
+536	nor stabbed hand to hand, as often
+537	happens in war; for Ares rages without distinction.’
+538	So I spoke, and the soul of the swift-footed grandson of Aeacus
+539	went ranging with long strides across the meadow of asphodel,
+540	glad because I said that his son was preeminent.
+541	And the other souls of the dead who have died
+542	stood grieving, and each one asked about its own sorrows.
+543	Alone the soul of Ajax, son of Telamon,
+544	stood apart, still angry because of the victory
+545	that I won over him when I pleaded my case beside the ships
+546	for the armor of Achilles; his lady mother had set it as a prize,
+547	and the sons of the Trojans were the judges, and Pallas Athena.
+548	Would that I had never been the victor for such a prize!
+549	For because of it the earth has held fast such a head,
+550	Ajax, who in looks and in deeds stood out above the rest
+551	of all the Danaans, after the noble son of Peleus.
+552	To him I spoke with soothing words:
+553	‘Ajax, son of noble Telamon, were you not then
+554	even in death to forget your anger against me over the armor,
+555	the ruinous armor? The gods made it a bane to the Argives;
+556	for in you they lost so great a tower; and for you we Achaeans
+557	grieve as much as for the head of Achilles, son of Peleus,
+558	now that you have perished, without end; and no one else
+559	is to blame, but Zeus, who hated the army of the Danaan spearmen
+560	terribly, and set your fate upon you.
+561	But come here, my lord, so that you may hear my word
+562	and speech; and tame your might and your proud spirit.’
+563	So I spoke, and he answered me nothing, but went after the other
+564	souls of the dead who have died, into Erebus.
+565	There, angry as he was, he would still have spoken to me, or I to him;
+566	but the heart in my own breast wished
+567	to see the souls of the others who have died.
+568	There I saw Minos, the splendid son of Zeus,
+569	holding a golden scepter, giving the law to the dead,
+570	seated, and around him they asked the lord for judgment,
+571	sitting and standing, throughout the wide-gated house of Hades.
+572	And after him I caught sight of huge Orion
+573	herding together wild beasts across the meadow of asphodel,
+574	beasts that he himself had killed on the lonely mountains,
+575	holding in his hands a club all of bronze, forever unbroken.
+576	And I saw Tityus, the son of glorious Earth,
+577	lying on the ground; and he lay stretched over nine plethra,
+578	and two vultures, sitting one on either side, were tearing his liver,
+579	plunging within the caul, and he could not ward them off with his hands;
+580	for he had dragged off Leto, the glorious wife of Zeus,
+581	as she went to Pytho through Panopeus with its lovely dancing floors.
+582	And I saw Tantalus too, suffering bitter pains,
+583	standing in a lake; and the water came up to his chin,
+584	and he strained in his thirst, but could not get anything to drink;
+585	for every time the old man stooped, eager to drink,
+586	so often the water was swallowed up and vanished, and about his feet
+587	the black earth appeared, and a god dried it up.
+588	And trees with high foliage let their fruit hang down over his head,
+589	pears and pomegranates and apple trees with splendid fruit,
+590	and sweet figs and flourishing olives;
+591	and whenever the old man made straight for them, to grasp them with his hands,
+592	the wind would fling them toward the shadowy clouds.
+593	And I saw Sisyphus too, suffering bitter pains,
+594	heaving a huge stone with both hands.
+595	Truly, bracing himself with hands and feet,
+596	he would push the stone up toward the crest; but whenever he was about
+597	to heave it over the top, then its mighty weight would turn it back;
+598	back then to the plain rolled the shameless stone.
+599	But he would push it up again, straining, and the sweat
+600	ran from his limbs, and dust rose up from his head.
+601	And after him I caught sight of mighty Heracles,
+602	his phantom; but he himself among the immortal gods
+603	takes his delight in their feasts, and has Hebe of the lovely ankles,
+604	the daughter of great Zeus and of Hera of the golden sandals.
+605	And around him rose a clamor of the dead, as of birds
+606	scattering in terror on every side; and he was like dark night,
+607	holding his naked bow, with an arrow on the string,
+608	glancing terribly around, like one ever about to shoot.
+609	And terrible was the baldric around his chest,
+610	a golden strap, on which wondrous works were wrought,
+611	bears and wild boars and lions with flashing eyes,
+612	combats and battles and slaughters and killings of men.
+613	May he who fashioned it never fashion another work,
+614	he who laid up that strap in his craft.
+615	And he in turn knew me, when he saw me with his eyes,
+616	and lamenting addressed me with winged words:
+617	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+618	ah, wretch, truly you too drag out some evil fate,
+619	such as I bore under the rays of the sun.
+620	I was the son of Zeus, son of Cronus, yet I had misery
+621	boundless; for I was made subject to a man far worse than I,
+622	and he laid hard labors upon me.
+623	And once he sent me here to bring the hound; for he could think
+624	of no other labor that would be harder for me than this;
+625	and I brought it up and led it out of Hades,
+626	and Hermes guided me, and gray-eyed Athena.’
+627	So saying, he went back again into the house of Hades,
+628	but I stayed there steadfastly, in case any more should come
+629	of the heroes who had perished in former days.
+630	And I would have seen still more men of earlier times, whom I wished to see,
+631	Theseus and Peirithous, glorious children of the gods;
+632	but before that the countless tribes of the dead gathered
+633	with a wondrous din; and pale fear took hold of me
+634	lest the Gorgon's head, the head of the dread monster,
+635	noble Persephone should send against me out of Hades.
+636	At once then I went to the ship and ordered my companions
+637	to go on board themselves and loose the stern-cables.
+638	And they went on board at once and sat down at the rowing benches.
+639	And the wave of the stream carried the ship down the river Oceanus,
+640	first with rowing, and afterward a fair wind.”

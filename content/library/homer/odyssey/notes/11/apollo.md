@@ -1,0 +1,8 @@
+---
+summary: Apollo is not named in Book 11, but he is “the son of Zeus, whom Leto of the lovely hair bore”, who killed the giant sons of Aloeus, Otus and Ephialtes, before their beards had grown, when they threatened to pile Ossa on Olympus and Pelion on Ossa (11.318–320).
+# Unnamed: "the son of Zeus, whom Leto of the lovely hair bore, destroyed / them both" (11.318-320). Διὸς is claimed by
+# zeus and Λητώ by leto.
+refs: [11.318-320]
+---
+
+**The son of Leto.** The sons of Iphimedeia grew to nine fathoms at nine years old, and threatened the immortals on Olympus: “They were eager to set Ossa on Olympus, and on Ossa / Pelion with its quivering leaves, so that heaven might be scaled. / And they would have accomplished it, if they had reached the measure of youth; / but the son of Zeus, whom Leto of the lovely hair bore, destroyed / them both, before the whiskers under their temples / had bloomed and covered their jaws with a fresh growth of down” (11.315–320; see [[otus]], [[ephialtes]], [[iphimedeia]], [[leto]] and [[lovely-haired]]). The god is named only by his parents, as in the first lines of the Iliad, “The son of Leto and of Zeus” (*Iliad* 1.9). He kills them in their youth, as his arrows bring sudden death to men (see the general article and [[artemis]]). In the Iliad the same two brothers once bound Ares and kept him thirteen months in a bronze jar, until Hermes stole him out (*Iliad* 5.385–391; see [[the-aloadae-bind-ares]]). Aristarchus, according to a scholium, rejected 11.315–316, the piling of the mountains, as impossible (Merry's critical note; see the translation's note on 11.315–316).

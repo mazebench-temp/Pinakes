@@ -14,7 +14,7 @@ en: [Thebes]
 refs: [9.383-384]
 passages:
   - 9.379-387 | Not for all the wealth of Orchomenus and Thebes
-except: [Rhetoric 1397b9, Rhetoric 1398b3, Rhetoric 1398b18]
+except: [Rhetoric 1397b9, Rhetoric 1398b3, Rhetoric 1398b18, Od. 11.265, Od. 11.275]
 ---
 
 {{quote:9169bac7-9b25-53a5-bb68-9544ce6fb669}}

@@ -7,6 +7,7 @@ summary: Goddesses of springs and rivers, mountains, meadows and groves, in Home
 aliases: [nymph, Naiads, Naiad, Oreads, mountain nymphs, nymphai]
 # νυμφάων (20.8, 24.616; Od. 6.123, 13.104, 13.348, 17.211) is always the goddesses in Homer.
 grc: [νύμφη, νύμφαι, νυμφάων, "=νηῒς"]
+except: [Od. 11.38]
 en: [nymph, nymphs, mountain nymphs, Naiad]
 relations:
   - father: zeus (6.420)

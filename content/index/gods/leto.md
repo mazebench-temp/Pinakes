@@ -3,7 +3,7 @@ title: Leto
 greek: Λητώ
 kind: god
 tags: [titan, mother, woman]
-summary: Mother of [[Apollo]] and [[Artemis]] by [[Zeus]]. In the Iliad she takes the Trojan side with her children.
+summary: Mother of [[Apollo]] and [[Artemis]] by [[Zeus]]. In the Iliad she takes the Trojan side with her children; in the Odyssey the giant Tityus is punished among the dead for laying hands on her.
 aliases: [Lēto]
 grc: [Λητ*]
 en: [Leto]

@@ -8,8 +8,9 @@ aliases: [Father Zeus, son of Cronus, the Olympian, Cronides, Kronion]
 # Ζηνός and Ὀλυμπίου are Zeus wherever they occur in Homer (Ζηνὸς ... Ὀλυμπίου, Od. 1.27; Ζηνός also Il. 4.408 and
 # thirteen more lines, Ὀλυμπίου Il. 15.131, which the Book 4 and Book 15 notes already claim within the Iliad). So is
 # the dative Ζηνί (Od. 4.78, 9.552, 13.25; Il. 2.49, 4.1, 7.443, 8.250, 15.104, 22.302, which the Iliad's Book 2 note
-# already claims within the Iliad).
-grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Ὀλύμπιος, Ὀλύμπιε, Ζηνὸς, Ζηνί, Ὀλυμπίου, "πατὴρ ἀνδρῶν τε θεῶν τε", "!Ζευξι*", "!Ὀλύμπιος ἄγγελος"]
+# already claims within the Iliad). Κρονίονος, the genitive of the patronymic with ο, which the stem Κρονίων* does not
+# catch, is Zeus wherever it occurs: Od. 11.620 and Il. 14.247, which the Iliad's Book 14 note also claims.
+grc: [^Ζευ*, "=Διὸς", "=Διός", Διί, "=Δία", Κρονίδη*, Κρονίων*, Κρονίονος, Ὀλύμπιος, Ὀλύμπιε, Ζηνὸς, Ζηνί, Ὀλυμπίου, "πατὴρ ἀνδρῶν τε θεῶν τε", "!Ζευξι*", "!Ὀλύμπιος ἄγγελος"]
 # Ζεύς τε καταχθόνιος at 9.457 is Hades, "Zeus of the underworld". Ὀλύμπιος ἄγγελος at 24.194 is Iris, "an Olympian
 # messenger" (found only there): the exclusion keeps the adjective out and leaves Zeus Διόθεν, "from Zeus", in the same verse.
 except: [9.457]

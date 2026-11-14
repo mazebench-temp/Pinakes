@@ -20,7 +20,7 @@ grc: ["=ὄσσα"]
 
 ## Elsewhere in Homer
 
-When the suitors have been killed, “Rumor went swiftly as a messenger through all the city”, telling of their death (Odyssey 24.413–414). Athena tells Telemachus to listen for news of his father, “a rumor from Zeus, which most of all brings report (κλέος) to men” (Odyssey 1.282–283). See [[kleos]].
+When the suitors have been killed, “Rumor went swiftly as a messenger through all the city”, telling of their death (Odyssey 24.413–414). Athena tells Telemachus to listen for news of his father, “a rumor from Zeus, which most of all brings report (κλέος) to men” (Odyssey 1.282–283). See [[kleos]]. The same letters, capitalized, are the name of the mountain of Thessaly that the giant sons of Aloeus would have set on Olympus, “and on Ossa / Pelion” (*Odyssey* 11.315–316; see [[ossa-mountain]]).
 
 ## Outside Homer
 

@@ -1,0 +1,11 @@
+---
+summary: Iphimedeia, “the wife of Aloeus”, who declared that she had lain with Poseidon, is the mother of the two short-lived giants, Otus and Ephialtes, the tallest and handsomest men the earth ever reared, who threatened the gods and were killed by Apollo before their beards grew (11.305–320).
+passages:
+  - 11.305-320 | Iphimedeia and her sons
+---
+
+{{quote:534f0a9e-8512-5d59-a398-40e4bd7fe3e5}}
+
+**Her claim.** τὴν δὲ μετʼ Ἰφιμέδειαν, Ἀλωῆος παράκοιτιν / εἴσιδον, “And after her I saw Iphimedeia, the wife of Aloeus” (11.305–306; see [[aloeus]]): the verb waits for the next line, as the verses of Antiope and Alcmene put ἴδον in the first (11.260, 11.266). “Who declared that she had lain with Poseidon” (11.306; see [[poseidon]]). W. W. Merry notes that φάσκε, like φάτο of Tyro and εὔχετο of Antiope (11.236, 11.261), gives the story as the woman's own claim, and that it is the common form of legend, which reappears in the stories of Tyro, Antiope, Alcmene and Leda (*Commentary on the Odyssey*, 1886, on 11.305; see [[the-loves-of-zeus]]). Tyro's god said his own name to her (see [[tyro]]), “but I, you must know, am Poseidon the earth-shaker” (11.252); Iphimedeia has only her word.
+
+**Two short-lived sons.** καί ῥʼ ἔτεκεν δύο παῖδε, μινυνθαδίω δʼ ἐγενέσθην, “and she bore two sons, but they were short-lived” (11.307), a verse that begins as Antiope's began (11.262). μινυνθάδιος, the word of Achilles' short life (*Iliad* 1.352), is explained, Merry says, by the end of the passage, where the son of Zeus and Leto kills the brothers before the down has grown on their cheeks (on 11.307; 11.318–320). The two are named in one verse, “godlike Otus and far-famed Ephialtes” (11.308; see [[otus]], [[ephialtes]], [[antitheos]] and [[famous]]), and the verses that follow tell their size and their threat against the gods (11.309–320; see [[the-aloadae-threaten-olympus]]). Merry hears in the family's names the glories of early agriculture: Aloeus is the man of the threshing floor, ἀλωή, and the words θρέψε ζείδωρος ἄρουρα, “the grain-giving earth ever reared” (11.309), point the same way; the giant size of these children of the soil, he adds, recalls the earth-born Tityus, who lies stretched over nine plethra (on 11.307; 11.577; see [[tityus]] and [[grain-giving]]). Their mother's part ends with their birth; she is not named again.

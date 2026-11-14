@@ -3,7 +3,7 @@ title: Like a tower
 greek: ἤριπε δʼ ὡς ὅτε πύργος
 kind: simile
 tags: [warfare, fate]
-summary: The tower, πύργος, as a likeness in the Iliad. Echepolus, the first man killed in the poem, falls “like a tower in the fierce battle” (4.462), and Ajax comes on carrying his great shield “like a tower” (7.219, 11.485, 17.128).
+summary: The tower, πύργος, as a likeness in Homer. Echepolus, the first man killed in the Iliad, falls “like a tower in the fierce battle” (4.462), Ajax comes on carrying his great shield “like a tower” (7.219, 11.485, 17.128), and in the land of the dead Odysseus tells the shade of Ajax that the Achaeans lost “so great a tower” in him (*Odyssey* 11.556).
 aliases: [he fell like a tower, Echepolus like a tower, a shield like a tower, Ajax's shield like a tower]
 grc: [ὡς ὅτε πύργος]
 en: [like a tower]
@@ -18,6 +18,8 @@ The first is the death of Echepolus. ἤριπε δʼ ὡς ὅτε πύργος
 
 The point of likeness is the fall of something tall and upright. A man in armor goes down all at once, as a tower collapses. A tower is also a defense, and Echepolus falls “among the champions” (ἐνὶ προμάχοισι, 4.458), the men who stand in front of the rest.
 
+{{notes}}
+
 ## Elsewhere in Homer
 
-The tower is a figure for a defender. Ajax carries a shield “like a tower” (σάκος ἠΰτε πύργον, 7.219, 11.485, 17.128), and in the underworld Odysseus tells his shade that the Achaeans lost “such a tower” in him (Odyssey 11.556). Other men fall like trees. Imbrius falls like an ash on a mountain top cut down with the bronze (13.178–181). Asius and Sarpedon fall in the same three lines, which begin as this one does (ἤριπε δʼ ὡς ὅτε), “as an oak falls, or a white poplar, / or a tall pine, which on the mountains builders / cut down with newly sharpened axes to be ship-timber” (13.389–391, 16.482–484). In *Iliad* 4 itself, a few lines later, Simoeisius falls like a poplar (4.482–487; see [[the-poplar]]), and ἤριπε is used again when Leucus falls over the body he was dragging (4.493).
+The tower is a figure for a defender. Ajax carries a shield “like a tower” (σάκος ἠΰτε πύργον, 7.219, 11.485, 17.128), and in the underworld Odysseus tells his shade that the Achaeans lost “so great a tower” in him (*Odyssey* 11.556; see [[ajax]]): the shield like a tower has become the man. Other men fall like trees. Imbrius falls like an ash on a mountain top cut down with the bronze (13.178–181). Asius and Sarpedon fall in the same three lines, which begin as this one does (ἤριπε δʼ ὡς ὅτε), “as an oak falls, or a white poplar, / or a tall pine, which on the mountains builders / cut down with newly sharpened axes to be ship-timber” (13.389–391, 16.482–484). In *Iliad* 4 itself, a few lines later, Simoeisius falls like a poplar (4.482–487; see [[the-poplar]]), and ἤριπε is used again when Leucus falls over the body he was dragging (4.493).

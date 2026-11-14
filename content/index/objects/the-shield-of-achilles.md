@@ -75,7 +75,7 @@ In the fighting the shield holds. Aeneas' spear does not break it, for the gold,
 
 In the *Odyssey* the arms of Achilles, set as a prize by his mother, are judged between Ajax and Odysseus (*Odyssey* 11.543–551; see [[the-judgment-of-arms]]).
 
-Other worked metal in Homer is smaller. Agamemnon's shield has ten circles of bronze and twenty bosses of tin, with a Gorgon, Terror and Fear (11.32–37). Heracles' golden baldric in the underworld shows bears, boars and lions, battles and slaughters (*Odyssey* 11.609–612), and Odysseus' golden brooch a hound holding a fawn, at which everyone marveled, how, though they were gold, the hound throttled the fawn and the fawn struggled to escape (*Odyssey* 19.226–231).
+Other worked metal in Homer is smaller. Agamemnon's shield has ten circles of bronze and twenty bosses of tin, with a Gorgon, Terror and Fear (11.32–37). Heracles' golden baldric in the underworld shows bears, boars and lions, battles and slaughters (*Odyssey* 11.609–612; see [[the-baldric-of-heracles]]), and Odysseus' golden brooch a hound holding a fawn, at which everyone marveled, how, though they were gold, the hound throttled the fawn and the fawn struggled to escape (*Odyssey* 19.226–231).
 
 ## Outside Homer
 

@@ -1,0 +1,7 @@
+---
+summary: The soul of Achilles, glad at the news of his son, goes ranging with long strides across the meadow of asphodel, and later Odysseus sees Orion herding wild beasts across it (11.538–540, 11.572–575).
+---
+
+**Achilles' strides.** When Odysseus has told him that Neoptolemus came through the war unharmed, “the soul of the swift-footed grandson of Aeacus / went ranging with long strides across the meadow of asphodel, / glad because I said that his son was preeminent” (11.538–540; see [[achilles]] and [[neoptolemus]]). φοίτα, “went ranging”, is the verb of the souls that came about the pit “in great numbers” (11.42), and a scholium has ᾤχετο, “went away”, in its lemma (W. W. Merry, *Commentary on the Odyssey*, 1886, critical note on 11.539). The man who had said he would rather serve a poor man for hire than be lord of all the dead (11.489–491) walks the meadow of the dead with the stride of the living hero (see [[swift-footed]]).
+
+**Orion's hunting ground.** After Minos, Odysseus sees “huge Orion / herding together wild beasts across the meadow of asphodel, / beasts that he himself had killed on the lonely mountains” (11.572–574; see [[orion]] and [[minos]]). Like Minos, Merry notes, Orion continues his customary pursuits in Hades: a phantom hunter, he drives before him phantom beasts, the shadows of those which he himself had once chased on the lonely hills (on 11.572). The meadow is the ground on which the dead keep the habits of their lives.

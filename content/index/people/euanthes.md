@@ -12,7 +12,7 @@ relations:
   - child: maron (Od. 9.197)
 ---
 
-Ἐυάνθεος υἱός, “son of Euanthes” (*Odyssey* 9.197): Euanthes is named only in the patronymic of Maron, the priest of Apollo who gave Odysseus the wine of the Cyclops' cave, and the poem says nothing else of him (see [[maron]]). The name is formed from εὖ, “well”, and ἄνθος, “flower”, as the adjective ἐυανθής, “blooming”, which Homer uses once, of the down that would have covered the cheeks of Otus and Ephialtes, had Apollo not killed them before it grew (ἐυανθέι λάχνῃ, *Odyssey* 11.318–320, Greek only).
+Ἐυάνθεος υἱός, “son of Euanthes” (*Odyssey* 9.197): Euanthes is named only in the patronymic of Maron, the priest of Apollo who gave Odysseus the wine of the Cyclops' cave, and the poem says nothing else of him (see [[maron]]). The name is formed from εὖ, “well”, and ἄνθος, “flower”, as the adjective ἐυανθής, “blooming”, which Homer uses once, of the down that would have covered the cheeks of Otus and Ephialtes, had Apollo not killed them before it grew (ἐυανθέι λάχνῃ, “a fresh growth of down”, *Odyssey* 11.318–320).
 
 {{notes}}
 

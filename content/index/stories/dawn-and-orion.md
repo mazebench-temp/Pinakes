@@ -17,7 +17,7 @@ Homer tells it once, in four verses of Calypso's answer to Hermes:
 
 {{quote:a21b7f8a-daae-57e1-a983-79d5014e8054}}
 
-**The hunter.** Orion is the giant whom Odysseus sees among the dead, driving together over the meadow of asphodel the beasts he himself had killed in the lonely mountains, with a club of solid bronze in his hands (*Odyssey* 11.572–575, a plain rendering). Otus and Ephialtes, the tallest men the earth ever reared, were the most beautiful “after famous Orion” (*Odyssey* 11.309–310, a plain rendering). He is also a constellation, the one that the Bear watches (*Iliad* 18.488 = *Odyssey* 5.274; see [[orion]]).
+**The hunter.** Orion is the giant whom Odysseus sees among the dead, driving together over the meadow of asphodel the beasts he himself had killed in the lonely mountains, with a club of solid bronze in his hands (*Odyssey* 11.572–575). Otus and Ephialtes, the tallest men the earth ever reared, were the most beautiful “after famous Orion” (*Odyssey* 11.309–310). He is also a constellation, the one that the Bear watches (*Iliad* 18.488 = *Odyssey* 5.274; see [[orion]]).
 
 **Dawn's mortal loves.** Homer gives Dawn three. Tithonus is her husband, from whose bed she rises in the morning (*Iliad* 11.1 = *Odyssey* 5.1; see [[tithonus]] and [[eos]]); Cleitus, the grandson of Melampus, she carried off “for his beauty, so that he might be among the immortals” (*Odyssey* 15.250–251, a plain rendering); and Orion, whom she “took … for herself” (ἕλετο, the middle voice, *Odyssey* 5.121). Only Orion is killed.
 

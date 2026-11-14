@@ -1,0 +1,5 @@
+---
+summary: Odysseus sees Megara, “the daughter of high-hearted Creon, / whom the son of Amphitryon, ever unyielding in his might, had as wife” (11.269–270), after Heracles' mother Alcmene.
+---
+
+“And Megara, the daughter of high-hearted Creon, / whom the son of Amphitryon, ever unyielding in his might, had as wife” (11.269–270; see [[creon-of-thebes]], [[high-hearted]], [[heracles]] and [[unyielding]]). The verse has no verb of its own: “and Megara” depends on the “I saw” of Alcmene's line (11.266), so that mother and wife of Heracles are seen together. ἀτειρής, “unyielding”, literally “unwearying”, is said of bronze, of a voice and of men, W. W. Merry notes, and Paris calls Hector's heart ἀτειρής like an axe (*Commentary on the Odyssey*, 1886, on 11.270; *Iliad* 3.60). Merry tells the later story of her marriage and of her death at the hands of Heracles in his madness (on 11.269; see the general article). Near the end of the book Heracles' phantom comes among the dead, while he himself has Hebe for wife among the gods (11.601–604; see [[hebe]]).

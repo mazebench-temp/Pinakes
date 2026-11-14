@@ -5,7 +5,9 @@ kind: god
 tags: [titan]
 summary: The great Titan, father of [[Zeus]], [[Hera]], [[Poseidon]] and [[Hades]], overthrown by Zeus and confined below the earth. Homer names him most often in his son's patronymics, Κρονίδης and Κρονίων, “son of Cronus”.
 aliases: [Kronos, Kronos the Titan]
-grc: [Κρονίδη*, Κρονίων*]
+# Κρονίονος, the genitive of the patronymic with ο, names the father as Κρονίων does: Od. 11.620 and Il. 14.247, which
+# the Iliad's Book 14 note also claims; it occurs nowhere else in Homer.
+grc: [Κρονίδη*, Κρονίων*, Κρονίονος]
 en: [Cronus]
 relations:
   - child: zeus (1.397, 1.405, 1.498, 1.502, 1.528, 1.539, 1.552)

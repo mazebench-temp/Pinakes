@@ -1,0 +1,5 @@
+---
+summary: Two seers have “told the oracles”: Teiresias, whose soul goes back into the house of Hades “when he had told the oracles” (11.150–151), and the unnamed seer of Pylos, whom mighty Iphiclus released “when he had told all the oracles” (11.296–297).
+---
+
+The plural θέσφατα is a seer's oracles. Teiresias, having told Odysseus his future and the rule of the blood, goes back “into the house of Hades, / the soul of lord Teiresias, when he had told the oracles” (κατὰ θέσφατʼ ἔλεξεν, 11.150–151; see [[teiresias]] and [[the-prophecy-of-teiresias]]). The seer who tried to drive off the cattle of Iphiclus for Neleus was kept a year in bonds and set free “when he had told all the oracles” (11.296–297; see [[melampus]] and [[iphiclus]]). Which oracles, the poem does not say. Eustathius explains them as a prophecy made to the childless Iphiclus about the birth of sons, for which he was released; a scholium, as the seer's foreknowledge that he would be taken and held for a year (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.297).

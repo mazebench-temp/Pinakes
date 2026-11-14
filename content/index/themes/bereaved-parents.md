@@ -2,7 +2,7 @@
 title: Bereaved parents
 kind: theme
 tags: [kinship, fate, warfare]
-summary: The Iliad often ends a young man's death at home, with the father or mother who will not see him again; among the gods, parents save their sons as no mortal parent can.
+summary: Parents who lose their sons, or wait for them. The Iliad often ends a young man's death at home, with the father or mother who will not see him again, and among the gods parents save their sons as no mortal parent can; in the Odyssey Odysseus' mother dies of longing for him and his father grieves in the country, and the dead Achilles grieves for the father he cannot defend.
 aliases: [grieving parents, the parents of the dead, old fathers, orphaned houses, chērōstai, distant kinsmen]
 grc: [χηρωσταὶ]
 en: [distant kinsmen]

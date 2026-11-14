@@ -1,0 +1,7 @@
+---
+summary: Old age in the book: old men “who had borne much” among the souls (11.38); Teiresias' promise of “an old age of ease” (11.136); Laertes, upon whom “hard old age comes” (11.196); Peleus, whom old age holds fast in his hands and feet (11.497); the old hero Echeneus (11.342–343); and Tantalus, “the old man”, stooping to drink (11.585, 11.591).
+---
+
+**Old age at home.** Teiresias promises Odysseus a death “worn out by an old age of ease” (γήραι ὕπο λιπαρῷ, 11.136; see [[thanatos]]), the old age that Menelaus says Zeus granted Nestor in his halls (4.209–210). The old men of his own house have no such ease: Laertes lies in the country grieving, “and hard old age comes upon him besides”, with ἐπί as an adverb (11.196; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.196; see [[laertes]]), and Achilles fears that the Myrmidons dishonor Peleus “because old age holds him fast in his hands and feet” (11.497; see [[peleus]] and [[time]]). Among the Phaeacians it is the old man who speaks for prudence: “the old hero Echeneus, / who was one of the older Phaeacian men” (11.342–343, the second verse as at 7.156; see [[echeneus]]).
+
+**Old age among the dead.** “Old men who had borne much” are among the souls at the pit (γέροντες πολύτλητοι, 11.38; see the Odyssey translation's table of key words, πολύτλητος), and Tantalus is “the old man” who stoops in vain to drink and reaches in vain for the fruit (ὁ γέρων, 11.585, 11.591; see [[tantalus]]).

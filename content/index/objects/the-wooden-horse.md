@@ -21,7 +21,7 @@ The Odyssey calls it a horse “of wood”, δουράτεος (*Odyssey* 8.493,
 
 ## Elsewhere in Homer
 
-The three accounts look at it from three sides. In Menelaus' tale Helen walked three times around it and called the chieftains by name in the voices of their wives, and Odysseus held back the men who would have answered (*Odyssey* 4.271–289; see [[helen]] and [[anticlus]]). In Demodocus' song it is the snare that ends the war (*Odyssey* 8.492–520). In the underworld Odysseus tells Achilles that he was in charge of opening and closing the ambush, and that Neoptolemus alone neither paled nor wept inside it, but begged to go out (*Odyssey* 11.523–532, a plain rendering; see [[neoptolemus]]). The Iliad does not name the horse; Epeius there wins the boxing at Patroclus' games and is laughed at for his throw of the weight (*Iliad* 23.664–699, 23.838–840).
+The three accounts look at it from three sides. In Menelaus' tale Helen walked three times around it and called the chieftains by name in the voices of their wives, and Odysseus held back the men who would have answered (*Odyssey* 4.271–289; see [[helen]] and [[anticlus]]). In Demodocus' song it is the snare that ends the war (*Odyssey* 8.492–520). In the underworld Odysseus tells Achilles that he was in charge of opening and closing the ambush, and that Neoptolemus alone neither paled nor wept inside it, but begged to go out (*Odyssey* 11.523–532; see [[neoptolemus]]). The Iliad does not name the horse; Epeius there wins the boxing at Patroclus' games and is laughed at for his throw of the weight (*Iliad* 23.664–699, 23.838–840).
 
 ## Outside Homer
 

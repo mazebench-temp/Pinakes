@@ -3,14 +3,15 @@ title: Amphitryon
 greek: Ἀμφιτρύων
 kind: person
 tags: [boeotia]
-summary: The husband of Alcmene and the mortal father of [[Heracles]]. Dione calls Heracles “the mighty son of Amphitryon” and, four lines later, “the son of aegis-bearing Zeus” (5.392, 5.396).
+summary: The husband of Alcmene and the mortal father of [[Heracles]], whom Homer calls both “the son of Amphitryon” and the son of Zeus. Amphitryon himself never appears in the poems; later writers tell how Zeus came to Alcmene in his likeness.
 aliases: [Amphitryo]
 grc: [Ἀμφιτρύων*]
 relations:
   - child: heracles (5.392)
+  - wife: alcmene (Od. 11.266)
 ---
 
-κρατερὸς πάϊς Ἀμφιτρύωνος, “the mighty son of Amphitryon” (5.392): Heracles, who shot Hera in the breast (see [[heracles-wounds-hera-and-hades]]). The same speech calls him “the son of aegis-bearing Zeus” (5.396), and Homer gives Heracles both fathers without explaining how. The Iliad says that [[alcmene|Alcmene]] bore him to Zeus in Thebes (14.323–324, 19.98–99). In the Odyssey Odysseus sees Alcmene, “the wife of Amphitryon”, who bore Heracles in the arms of Zeus (Od. 11.266–268), and Megara, the wife of “the son of Amphitryon” (Od. 11.269–270). Amphitryon himself never appears.
+κρατερὸς πάϊς Ἀμφιτρύωνος, “the mighty son of Amphitryon” (5.392): Heracles, who shot Hera in the breast (see [[heracles-wounds-hera-and-hades]]). The same speech calls him “the son of aegis-bearing Zeus” (5.396), and Homer gives Heracles both fathers without explaining how. The Iliad says that [[alcmene|Alcmene]] bore him to Zeus in Thebes (14.323–324, 19.98–99). In the Odyssey Odysseus sees Alcmene, “the wife of Amphitryon”, who bore Heracles in the arms of Zeus (*Odyssey* 11.266–268), and Megara, the wife of “the son of Amphitryon” (*Odyssey* 11.269–270; see [[megara-wife-of-heracles]]). Amphitryon himself never appears.
 
 ## Outside Homer
 

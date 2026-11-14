@@ -1,0 +1,5 @@
+---
+summary: The saying comes in the only pause of Odysseus' tale (11.333–384): he breaks off after the women, the Phaeacians sit spellbound, Arete and Alcinous ask him to stay, and he grants that there is a time for words and a time for sleep, and goes on to the heroes of the war.
+---
+
+The pause is framed by the hour. Odysseus stops because “it is time to sleep” (11.330–331), the Phaeacians are held by a spell (11.333–334; see [[thelgo]] and [[silence]]), Arete and Echeneus speak for more gifts (11.335–346; see [[arete-queen-of-the-phaeacians]] and [[echeneus]]), and Alcinous, promising the escort for tomorrow, praises the tale and asks whether Odysseus saw any of his companions from Troy among the dead (11.347–376; see [[alcinous]] and [[the-tale-to-alcinous]]). Odysseus' answer makes the hinge between the two halves of his tale: the women of the old stories behind him, and before him “the sorrows of my companions, who perished afterward” (11.379–384), beginning with Agamemnon (11.385–389; see [[agamemnon]]).

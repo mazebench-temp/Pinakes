@@ -6,7 +6,7 @@ period: cypria
 order: 1
 mode: allusion
 tags: [divine-will, foreshadowing]
-summary: "And the plan of Zeus was being fulfilled." The proem's most debated phrase. Is it Zeus' promise to Thetis, or a plan older than the Iliad, to thin out mankind by the Trojan War?
+summary: "And the plan of Zeus was being fulfilled." The most debated phrase of the Iliad's proem, which comes back once in the Odyssey: is the plan Zeus' promise to Thetis, or a plan older than the Iliad, to thin out mankind by the Trojan War?
 aliases: [Dios boule, will of Zeus]
 grc: ["Διὸς δʼ ἐτελείετο βουλή"]
 en: [plan of Zeus]
@@ -30,6 +30,10 @@ sort: 9
 **The plan before the poem.** An ancient scholion on this line quotes the opening of the *Cypria*, the epic that told how the war began. Earth was weighed down by the numberless tribes of men, and Zeus took pity on her. He planned the Trojan War so that the load of men might be lightened by death, "and the plan of Zeus was fulfilled". On this reading the phrase points beyond the Iliad to a cosmic design of which Achilles' wrath is one part.
 
 Homer does not settle it. The phrase opens onto both scales, the quarrel and the whole war.
+
+## Elsewhere in Homer
+
+The half-verse comes back once in the Odyssey, at the end of the story of the seer who drove off the cattle of Iphiclus: he was set free “when he had told all the oracles; and the plan of Zeus was being fulfilled” (*Odyssey* 11.297; see [[melampus-and-the-cattle-of-iphiclus]]). The Odyssey's song of the quarrel of Odysseus and Achilles sets the beginning of the war under “the counsels of great Zeus” (*Odyssey* 8.81–82; see [[the-beginning-of-evils]]).
 
 ## Outside Homer
 

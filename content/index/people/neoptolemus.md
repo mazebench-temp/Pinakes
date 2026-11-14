@@ -5,6 +5,10 @@ kind: person
 tags: [achaean, myrmidon, aeacidae, warrior]
 summary: Son of Achilles, brought up on Scyros and fetched to Troy after his father's death; he killed Eurypylus and Priam. A tragedy bore his name.
 aliases: [Neoptolemos, Pyrrhus]
+# Νεοπτολέμοιο (Od. 11.506) is the Odyssey's only form of his name, and catches nothing else in Homer or Aristotle.
+# Νεοπτόλεμος (Il. 19.327) is claimed by the Iliad's Book 19 note: in the Poetics the word is the title of a tragedy
+# (1459b6, neoptolemus-play).
+grc: [Νεοπτολέμοιο]
 relations:
   - father: achilles (19.326)
 ---

@@ -6,6 +6,7 @@ tags: [personification, sea]
 summary: The East Wind. In the similes of the Iliad it blows with the South Wind, raising the waves of the sea or shaking a mountain forest; in the Odyssey it is one of the four winds that toss Odysseus' raft in Poseidon's storm, and with the South Wind it keeps his ship a month on Thrinacia.
 aliases: [East Wind, Euros]
 grc: [Εὖρος]
+except: [Od. 11.312]
 ---
 
 Εὖρος (Euros), the east or southeast wind. The origin of the name is uncertain.

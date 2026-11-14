@@ -3,9 +3,9 @@ title: Godlike (antitheos)
 greek: ἀντίθεος
 kind: epithet
 tags: [heroic-epithet]
-summary: “A match for the gods,” a general honorific of heroes, often of heroes remembered from the past.
+summary: “A match for the gods,” a general honorific of heroes, often of heroes remembered from the past, and in the Odyssey also of Penelope.
 aliases: [equal to the gods, antitheos]
-grc: [ἀντίθεον, ἀντίθεος, ἀντιθέοισι]
+grc: [ἀντίθεον, ἀντίθεος, ἀντιθέοισι, ἀντιθέην, ἀντιθέων]
 en: [godlike]
 of: [polyphemus, mygdon, sarpedon, ajax]
 ---

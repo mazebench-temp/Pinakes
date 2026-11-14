@@ -1,0 +1,5 @@
+---
+summary: The Argives are the army at Troy, named by Alcinous, who praises the tale of “the grievous sorrows of all the Argives” (11.369), and by Odysseus and Achilles in the speeches among the dead (11.485, 11.500, 11.518, 11.524, 11.555).
+---
+
+**The sorrows of the Argives.** Alcinous, praising the stranger's tale as a singer's, calls it a tale of “the grievous sorrows of all the Argives and of yourself” (11.369; see [[alcinous]]): κήδεα, the sorrows of the war and of the returns, are the matter of epic song, as Demodocus sang them in the eighth book (see [[demodocus]] and [[singers]]). Among the dead the Argives are the army that honored Achilles: “For before, while you lived, we honored you equally with the gods, / we Argives” (11.484–485; see [[achilles]]). Achilles remembers killing the best of the enemy's army “defending the Argives” (11.500), and Odysseus uses the same half-verse of his son (11.518; see [[neoptolemus]]); the men in the wooden horse are “the best of the Argives” (11.524; see [[the-wooden-horse]]); and the arms of Achilles, Odysseus tells Ajax, the gods made “a bane to the Argives” (11.555; see [[ajax]] and [[the-judgment-of-arms]]).

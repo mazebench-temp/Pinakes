@@ -1,0 +1,5 @@
+---
+summary: Aloeus is named once, as the husband of Iphimedeia, who declared that her two giant sons were Poseidon's (11.305–308); the Iliad's “sons of Aloeus” are here the sons of his wife and a god.
+---
+
+“And after her I saw Iphimedeia, the wife of Aloeus, / who declared that she had lain with Poseidon, / and she bore two sons” (11.305–307; see [[iphimedeia]], [[poseidon]], [[otus]] and [[ephialtes]]). In the Iliad the brothers who bound Ares are παῖδες Ἀλωῆος, “the sons of Aloeus” (*Iliad* 5.386; see [[the-aloadae-bind-ares]]); in the catalogue Aloeus gives his name to their mother, and their father, by her word, is the god. Homer does not choose between the two: Iphimedeia “declared” it (φάσκε), as Tyro “said” and Antiope “claimed” (11.236, 11.261), and W. W. Merry finds here the common form of the legend of a mortal woman and a god (*Commentary on the Odyssey*, 1886, on 11.305). The family's names, Merry thinks, belong to the threshing floor: Aloeus from ἀλωή, Otus the treader of the grain and Ephialtes the tosser of it, and the verse that follows calls the brothers the nurslings of “the grain-giving earth” (on 11.307; 11.309; see [[grain-giving]]).

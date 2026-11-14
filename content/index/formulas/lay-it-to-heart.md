@@ -5,7 +5,7 @@ kind: formula
 tags: [speech-formula]
 summary: A whole-line formula that introduces a warning or a new point in a speech: “I will tell you something else, and you lay it to heart” (1.297).
 aliases: [take it to heart]
-grc: [ἄλλο δέ τοι ἐρέω, ἐνὶ φρεσὶ βάλλεο σῇσι]
+grc: [ἄλλο δέ τοι ἐρέω, ἐνὶ φρεσὶ βάλλεο σῇσι, ἐνὶ φρεσὶ βάλλεο σῇσιν]
 en: [I will tell you something else, lay it to heart]
 ---
 

@@ -23,7 +23,7 @@ The speaker is “someone” of the men born hereafter, a sailor who sees the mo
 
 The Odyssey builds the mound that Hector imagined. The Achaeans heaped a great tomb over the bones of Achilles and Patroclus “on a jutting headland, beside the broad Hellespont” (ἐπὶ πλατεῖ Ἑλλησπόντῳ, the words of 7.86), so that it might be seen far out at sea “by men, those who are born now and those who will be hereafter” (*Odyssey* 24.80–84; see [[hellespont]]). One of the two men it covers was killed by Hector.
 
-Elsewhere in the Odyssey a tomb is the condition of fame. Telemachus says, and the swineherd Eumaeus after him, that if Odysseus had died at Troy the Achaeans would have made him a tomb, “and he would have won great fame for his son too in days to come”; as it is, the Harpies have snatched him away “without report” (ἀκλειῶς, *Odyssey* 1.239–241, 14.369–371). Menelaus heaped a mound for Agamemnon in Egypt “so that his fame might be unquenchable” (ἄσβεστον κλέος, *Odyssey* 4.584), and the ghost of Elpenor asks for a mound on the shore, “of an unlucky man, for men to come to learn of” (*Odyssey* 11.75–76).
+Elsewhere in the Odyssey a tomb is the condition of fame. Telemachus says, and the swineherd Eumaeus after him, that if Odysseus had died at Troy the Achaeans would have made him a tomb, “and he would have won great fame for his son too in days to come”; as it is, the Harpies have snatched him away “without report” (ἀκλειῶς, *Odyssey* 1.239–241, 14.369–371). Menelaus heaped a mound for Agamemnon in Egypt “so that his fame might be unquenchable” (ἄσβεστον κλέος, *Odyssey* 4.584), and the ghost of Elpenor asks for a mound on the shore, “the mound of an unhappy man, even for men to come to hear of” (*Odyssey* 11.75–76).
 
 ## A tomb without a name
 

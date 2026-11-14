@@ -19,6 +19,6 @@ Among his examples of the greatest was the end of Helen's speech on the wall. Sh
 
 The epithet comes back in *Iliad* 21 with the same thought. Achilles, seeing Lycaon home again from Lemnos, wonders whether he will come back from below as well, or whether “the life-giving earth will hold him back, which holds back even the strong” (21.63; see [[lycaon-son-of-priam]]). Walter Leaf calls the epithet at 3.243 inappropriate “to our idea”, and on 21.63 he reports that the T scholia had already found it unfitting when it is set beside the dead and their tombs; Fick, he adds, derived the word from a form akin to ζειά, “spelt”, so that it would mean what ζείδωρος, “grain-giving”, means, and the difficulty would vanish (*Commentary on the Iliad*, 1900, on 3.243 and 21.63). The inappropriateness that the scholiast and Leaf felt is what Ruskin praised.
 
-The formula has a second life in the Odyssey. In the underworld Odysseus hears of the same brothers, and "the life-giving earth holds them both, alive"; by the gift of Zeus they live and die on alternate days (Odyssey 11.301–304). The Iliad says only that the earth holds them.
+The formula has a second life in the Odyssey. Among the dead Odysseus sees their mother Leda, and tells of the same brothers, “both of whom the life-giving earth holds fast, alive though they are”; by the honor they have from Zeus they live and are dead on alternate days (*Odyssey* 11.298–304; see [[leda]]). The Iliad says only that the earth holds them.
 
 See [[life-giving-earth]], [[castor]] and [[polydeuces]].

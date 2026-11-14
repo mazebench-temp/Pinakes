@@ -1,0 +1,10 @@
+---
+summary: The book's sacrifices are offered to the dead and promised to the gods. At the pit the victims' throats are cut over the pit, and the companions flay and burn them with prayers to Hades and Persephone (11.35–47); Odysseus vows the dead a barren heifer and Teiresias a black sheep (11.30–33); and Teiresias bids him sacrifice a ram, a bull and a boar to Poseidon far inland, and then holy hecatombs to all the gods at home (11.130–134).
+# "ἱερὰ καλὰ" (11.130; again 7.191, 23.277), ἀπεδειροτόμησα (11.35, only here).
+grc: ["ἱερὰ καλὰ", ἀπεδειροτόμησα]
+en: [sacrifices]
+---
+
+**To the dead.** The vows come first: when he reaches Ithaca, a barren heifer, “the best I had”, to be sacrificed in his halls, a pyre heaped with good things, and for Teiresias apart a sheep all black (11.30–33; see [[teiresias]] and the Book 10 note, where the heifer is barren and the sheep black because they are offered to the powers below). Then the victims' throats are cut “over the pit”, the heads bent down toward it and the blood running into it (11.35–36; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.35). The companions flay the sheep and burn them and pray to Hades and Persephone (11.44–47); nothing is said of a meal (see [[the-offering-to-the-dead]], [[prayer]] and [[sheep]]).
+
+**To Poseidon.** The prophecy of Teiresias ends with a sacrifice of reconciliation. When Odysseus has carried his oar to men who do not know the sea and planted it in the ground, he is to “make fine sacrifices to lord Poseidon, / a ram and a bull and a boar that mounts the sows” (11.129–131; see [[poseidon]], [[oars]] and [[the-prophecy-of-teiresias]]). Eustathius calls a sacrifice of three such victims a τριττύα; the number three gave a sense of completeness, and Nitzsch compared the Roman *suovetaurilia*. The offering is a special one, since the sea god's usual victim was a black bull, as on the shore at Pylos (3.5–6; Merry on 11.131; see [[ram]], [[bulls]] and [[boar]]). Then he is to go home and offer hecatombs to all the gods in order (11.132–134; see [[hecatomb]]). He repeats the instructions to Penelope in the same verses (23.276–280).

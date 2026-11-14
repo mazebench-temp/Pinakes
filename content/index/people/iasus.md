@@ -8,8 +8,9 @@ aliases: [Iasos]
 # Ἴασος (15.337) occurs only here. Ἴασον (15.332) is claimed in the Book 15 note, which applies to the Iliad
 # only: at Od. 18.246 the same letters are an adjective (ἀνʼ Ἴασον Ἄργος, "through Iasian Argos"). The
 # Odyssey's Iasus, father of Amphion (Ἰασίδαο, Od. 11.283) and of Dmetor (Ἰασίδῃ, Od. 17.443), is another
-# man, whose English name will need an except here.
+# man: his English name is excepted at Od. 11.283 (17.443 to add with its book).
 grc: [Ἴασος]
+except: [Od. 11.283]
 refs: [15.338]
 relations:
   - father: sphelus (15.338)
@@ -26,3 +27,5 @@ passages:
 **Leader of the Athenians.** ἀρχὸς μὲν Ἀθηναίων ἐτέτυκτο, “had been made a leader of the Athenians” (15.337; see [[athenians]]). The Catalogue gives the Athenians one leader, Menestheus (2.552), and where Hector broke in, Menestheus led their picked men with Pheidas, Stichius and Bias (13.689–691; see [[menestheus]], [[pheidas]] and [[bias-the-athenian]]). Iasus is not among them, and he is named nowhere else. Stichius, “a trusted companion of great-hearted Menestheus”, dies at Hector's hand in the same list (15.329–331; see [[stichius]]).
 
 **His fathers.** υἱὸς δὲ Σφήλοιο καλέσκετο Βουκολίδαο, “and was called the son of Sphelus, son of Bucolus” (15.338): a father and a grandfather, neither of them named anywhere else (see [[sphelus]] and [[bucolus]]). καλέσκετο, “was called”, an iterative form of καλέω, occurs only here in Homer; the man is given his lineage as a title, as in the killing scenes the victim is so often given his father and his home before he dies.
+
+The Odyssey's Iasus, whose son Amphion ruled in Minyan Orchomenus and was the father of Chloris, is another man, named only in his son's patronymic, Ἰασίδαο (*Odyssey* 11.283; see [[amphion-son-of-iasus]]).

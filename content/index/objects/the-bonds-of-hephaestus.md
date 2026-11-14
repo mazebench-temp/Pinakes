@@ -9,6 +9,7 @@ aliases: [the net of Hephaestus, Hephaestus' net, the snare of Hephaestus, bonds
 # the Odyssey only: the same forms in the Iliad are other bonds (Il. 5.386, 5.391, 6.507, 15.19, 15.264) and the rivets
 # of Hephaestus' tripods, δεσμούς (Il. 18.379).
 en: [bonds]
+except: [Od. 11.293]
 ---
 
 ## The bonds

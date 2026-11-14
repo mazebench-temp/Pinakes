@@ -31,7 +31,7 @@ Homer says nothing of why the brothers bound Ares, where they kept him, or what 
 
 ## Elsewhere in Homer
 
-The Odyssey tells more about the brothers. Among the women Odysseus sees in the underworld is Iphimedeia, the wife of Aloeus, who said that she lay with Poseidon, and bore two sons, short-lived, “godlike Otus and far-famed Ephialtes”, the tallest and most beautiful men the earth ever reared after Orion. At nine years old they were nine cubits broad and nine fathoms tall. They threatened to bring war to the gods on Olympus, and they would have piled Ossa on Olympus and Pelion on Ossa, to climb to heaven, if they had reached their prime; but Apollo killed them both before the down grew on their cheeks (Odyssey 11.305–320).
+The Odyssey tells another deed of the brothers, and their death. Their mother Iphimedeia, the wife of Aloeus, said that she had lain with Poseidon; the two grew to a giant size, threatened to make war on the gods of Olympus, and would have piled Ossa on Olympus and Pelion on Ossa if Apollo had not killed them before their beards grew (*Odyssey* 11.305–320; see [[the-aloadae-threaten-olympus]] and [[iphimedeia]]). It says nothing of the binding of Ares.
 
 ## Outside Homer
 

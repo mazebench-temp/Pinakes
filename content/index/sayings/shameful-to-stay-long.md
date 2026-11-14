@@ -16,4 +16,4 @@ The line is the hinge of Odysseus' speech to the assembly. He has granted the me
 
 Agamemnon had used the same argument in the test, while telling the army to flee: it is “a shameful thing, even for men to come to hear of”, that so great an army should fight in vain (2.119–122). Odysseus makes it an argument for staying. He follows it with the proof that they will not stay in vain, the portent at Aulis (2.299–332; see [[the-portent-at-aulis]]).
 
-In the Odyssey the same man says the same thing of himself. Among the Phaeacians he would stay a whole year, if it meant coming home with a fuller hand, for he would be more respected and more loved by all who saw him return to Ithaca (Odyssey 11.355–361). See [[nostos]].
+In the Odyssey the same man says the same thing of himself. Among the Phaeacians he would stay a whole year, if it meant coming home with a fuller hand, for he would be more respected and more loved by all who saw him return to Ithaca (*Odyssey* 11.355–361). See [[nostos]].

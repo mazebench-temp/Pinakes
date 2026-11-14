@@ -1,0 +1,5 @@
+---
+summary: The Danaans are named in the verses on Ajax, best in looks and deeds “of all the Danaans, after the noble son of Peleus” (11.469–470, 11.550–551), in the scene in the wooden horse (11.526), and in Odysseus' words to Ajax that Zeus “hated the army of the Danaan spearmen” (11.559).
+---
+
+**After the son of Peleus.** The same verse closes two descriptions of Ajax: he was the best in looks and form, and in looks and in deeds stood out above the rest, “of all the Danaans, after the noble son of Peleus” (11.469–470, 11.550–551; see [[ajax]], [[achilles]] and [[best-in-looks]]); in the Iliad Ajax is the best of the men after Achilles in the same way (*Iliad* 2.768–769). In the wooden horse “the other leaders and rulers of the Danaans” wept and trembled, but not Neoptolemus (11.526–530; see [[neoptolemus]] and [[the-wooden-horse]]). And Odysseus tells the soul of Ajax that no one else is to blame for his death, “but Zeus, who hated the army of the Danaan spearmen / terribly, and set your fate upon you” (11.559–560; see [[zeus]] and [[spearmen]]), the words with which he had told Agamemnon that Zeus hated the offspring of Atreus (11.436–437).

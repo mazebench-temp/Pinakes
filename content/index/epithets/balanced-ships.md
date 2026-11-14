@@ -3,7 +3,7 @@ title: Balanced ships
 greek: ἐΐση
 kind: epithet
 tags: [ship]
-summary: “Evenly built, balanced,” an epithet of [[ships]].
+summary: “Evenly built, balanced,” an epithet of [[ships]], and in the Odyssey of a “well-balanced” mind.
 aliases: [well-balanced, eise]
 grc: [ἐΐσας, "νηὸς ἐΐσης"]
 en: [balanced]
@@ -12,7 +12,7 @@ of: [ships]
 
 ## Meaning
 
-ἐΐσος is the epic form of ἴσος (“equal”), with an extra initial ε-: “even, equal on both sides.” Of ships it means well-proportioned, trim. The same adjective describes the “equal feast” in which each gets his share ([[equal-feast]], δαιτὸς ἐΐσης, {{ref:Iliad 1.468}}), and a shield that is balanced all round (ἀσπὶς πάντοσ’ ἐΐση).
+ἐΐσος is the epic form of ἴσος (“equal”), with an extra initial ε-: “even, equal on both sides.” Of ships it means well-proportioned, trim. The same adjective describes the “equal feast” in which each gets his share ([[equal-feast]], δαιτὸς ἐΐσης, {{ref:Iliad 1.468}}), and a shield that is balanced all round (ἀσπὶς πάντοσ’ ἐΐση). In the Odyssey it is said of the mind, φρένες ἔνδον ἐΐσαι, “the well-balanced mind within” (*Odyssey* 11.337).
 
 ## Use
 

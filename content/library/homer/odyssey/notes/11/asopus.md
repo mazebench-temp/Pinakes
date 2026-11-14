@@ -1,0 +1,5 @@
+---
+summary: Odysseus sees “Antiope, the daughter of Asopus”, who bore to Zeus Amphion and Zethus, the founders of Thebes (11.260–265).
+---
+
+**The daughter of Asopus.** After Tyro came “Antiope, the daughter of Asopus, / who claimed that she had slept even in the arms of Zeus” (11.260–261; see [[antiope]] and [[zeus]]). The river is here a father, as rivers are in the Iliad (see [[rivers]]), and with him, W. W. Merry notes, the list passes to Boeotian legend: the Asopus flows between the lands of Thebes and Plataea, and in the Iliad it is βαθύσχοινος λεχεποίης, “deep in rushes, with grassy meadows” (*Iliad* 4.383; *Commentary on the Odyssey*, 1886, on 11.260; see [[deep-in-rushes]] and [[with-grassy-meadows]]). Her sons by Zeus, Amphion and Zethus, founded seven-gated Thebes and fenced it with towers (11.262–265; see [[thebes]], [[amphion-of-thebes]] and [[zethus]]). εὔχετο, “claimed”, is the boast of a higher lover than Tyro's Poseidon, Zeus himself (Merry on 11.261; see [[euchomai]]).

@@ -3,7 +3,7 @@ title: “Three times blessed are the Danaans, and four times”
 greek: τρὶς μάκαρες Δαναοὶ καὶ τετράκις, οἳ τότʼ ὄλοντο
 kind: saying
 tags: [fate, honor]
-summary: Odysseus' cry on his raft when Poseidon's storm breaks over him: the Danaans who died at Troy are three and four times blessed, and he wishes he had died there too and had his funeral rites and his fame, rather than the wretched death at sea that seems fated for him. Ashore in Scheria he gives the felicitation to the living: Nausicaa's parents and brothers are “three times blessed” in such a girl. Virgil gives Aeneas the cry in the storm of Aeneid 1.
+summary: Odysseus' cry on his raft when Poseidon's storm breaks over him: the Danaans who died at Troy are three and four times blessed, and he wishes he had died there too and had his funeral rites and his fame, rather than the wretched death at sea that seems fated for him. Ashore in Scheria he gives the felicitation to the living: Nausicaa's parents and brothers are “three times blessed” in such a girl; among the dead he tells Achilles that no man was ever more blessed, and Achilles refuses the comfort. Virgil gives Aeneas the cry in the storm of Aeneid 1.
 aliases: [three times blessed, thrice blessed, three and four times blessed, thrice blessed the Danaans, tris makares]
 grc: ["τρὶς μάκαρες Δαναοὶ"]
 en: [Three times blessed, and four times]

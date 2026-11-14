@@ -3,7 +3,7 @@ title: Three times, and the fourth
 greek: τρὶς μὲν … ἀλλʼ ὅτε δὴ τὸ τέταρτον
 kind: formula
 tags: [figure, divine-will]
-summary: The pattern of three attempts and a decisive fourth: “three times then he sprang at him … but when for the fourth time he rushed on like a god”, a god shouts at the hero or strikes him. It first stops Diomedes before Apollo (5.436–442), and it marks the limits of Patroclus and of Achilles.
+summary: The pattern of three attempts and a decisive fourth: “three times then he sprang at him … but when for the fourth time he rushed on like a god”, a god shouts at the hero or strikes him. It first stops Diomedes before Apollo (5.436–442), and it marks the limits of Patroclus and of Achilles; looser forms keep only the three attempts that fail.
 aliases: [three times and a fourth, three times … the fourth time, thrice and the fourth, tris men]
 grc: ["τρὶς μὲν ἔπειτʼ ἐπόρουσε", "τρὶς δέ οἱ ἐστυφέλιξε", "τὸ τέταρτον ἐπέσσυτο δαίμονι ἶσος"]
 en: [Three times then he sprang at him, three times Apollo battered back, for the fourth time he rushed on like a god]

@@ -7,7 +7,7 @@ summary: A Lycian, the third of the seven whom [[Odysseus]] kills when Athena tu
 aliases: [Chromius of Lycia]
 grc: [Χρομίον]
 # 4.295: Nestor's captain; 5.160: the son of Priam; 8.275: a Trojan killed by Teucer.
-except: [4.295, 5.160, 8.275, 17.218, 17.494, 17.534]
+except: [4.295, 5.160, 8.275, 17.218, 17.494, 17.534, Od. 11.286]
 en: [Chromius]
 relations:
   - slayer: odysseus (5.677)
@@ -15,7 +15,7 @@ relations:
 
 {{quote:9663c102-c0b1-50ba-9933-3484579695a2}}
 
-He is named only in Odysseus' list of seven Lycians (5.677–678; see [[lycians]] and [[odysseus]]). The same half-line, Ἀλάστορά τε Χρομίον τε, names two of Nestor's captains in *Iliad* 4 (4.295; see [[alastor-of-lycia]]). Χρομίος is one of the commonest minor names in the Iliad: Nestor's captain (see [[chromius]]), a son of Priam killed by Diomedes earlier in this book (5.159–160; see [[chromius-son-of-priam]]), this Lycian, and others in later books.
+He is named only in Odysseus' list of seven Lycians (5.677–678; see [[lycians]] and [[odysseus]]). The same half-line, Ἀλάστορά τε Χρομίον τε, names two of Nestor's captains in *Iliad* 4 (4.295; see [[alastor-of-lycia]]). Χρομίος is one of the commonest minor names in the Iliad: Nestor's captain (see [[chromius]]), a son of Priam killed by Diomedes earlier in this book (5.159–160; see [[chromius-son-of-priam]]), this Lycian, and others in later books; the Odyssey adds a son of Neleus, Nestor's brother (*Odyssey* 11.286; see [[chromius-son-of-neleus]]).
 
 ## Outside Homer
 

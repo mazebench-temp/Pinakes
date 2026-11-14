@@ -1,0 +1,13 @@
+---
+summary: Leda is the seventh of the heroines whom Odysseus names: “the wife of Tyndareus”, who bore him Castor and Polydeuces, whom the life-giving earth holds fast though they are alive, so that they live and are dead on alternate days (11.298–304).
+passages:
+  - 11.298-304 | Leda and her sons
+---
+
+{{quote:36f3fc36-3c73-55be-aa97-d1842badd2d5}}
+
+**The wife of Tyndareus.** “And I saw Leda, the wife of Tyndareus” follows the story of Chloris and of her daughter Pero, whom only the man who drove off the cattle of Iphiclus could marry (11.281–297; see [[tyndareus]], [[chloris]], [[pero]] and [[catalogue-of-heroines]]). W. W. Merry doubts the passage: “if it be genuine”, it breaks the run of Boeotian and Thessalian legends (*Commentary on the Odyssey*, 1886, on 11.298; see the translation's note on 11.298–304). He finds a sign of late origin in τὴν Τυνδαρέου παράκοιτιν, where τήν stands as an article before the husband's name, a use he calls quite post-Homeric; the nearest parallel he can offer is Θάμυριν τὸν Θρήικα, “Thamyris the Thracian” (*Iliad* 2.595), and he quotes Lauer's objection that the verses built the same way, Ἀσωποῖο θύγατρα, Ἀμφιτρύωνος ἄκοιτιν, Ἀλωῆος παράκοιτιν, have no τήν (11.260, 11.266, 11.305; Merry on 11.304).
+
+**Sons for her husband.** ὑπὸ Τυνδαρέῳ … γείνατο, “bore to Tyndareus” (11.299), is said as the Catalogue says that Alcestis bore Eumelus “to Admetus”, ὑπʼ Ἀδμήτῳ (*Iliad* 2.714). The mothers around her name a god: Tyro bore Pelias and Neleus to Poseidon, Antiope “claimed that she had slept even in the arms of Zeus”, Alcmene bore Heracles “in the arms of great Zeus”, and Iphimedeia “declared that she had lain with Poseidon” (11.241–254, 11.260–262, 11.266–268, 11.305–306; see [[tyro]], [[antiope]], [[alcmene]], [[iphimedeia]] and [[the-loves-of-zeus]]). Leda alone bears her sons to her husband. Merry nonetheless sets her story beside those of Tyro, Antiope and Alcmene as the common form of the legend (on 11.305), as the hymns and later poets made the brothers sons of Zeus (see the general article). The sons are κρατερόφρονε, a dual, “fierce-hearted”, the word of Heracles whom Alcmene bore to Zeus (*Iliad* 14.324; see [[fierce-hearted]]).
+
+**The brothers.** The next verse is the Iliad's, “Castor, tamer of horses, and Polydeuces, good with his fists” (11.300 = *Iliad* 3.237; see [[castor]] and [[polydeuces]]); where Helen's verse went on to say that the earth already held them in Lacedaemon, this one says that the earth holds them “alive though they are”, and that they live and are dead on alternate days with honor like the gods (11.301–304; see [[the-death-of-the-dioscuri]] and [[immortality]]). Leda's part is a verse and a half; the rest of the passage belongs to her sons.

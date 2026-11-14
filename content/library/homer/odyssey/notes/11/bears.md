@@ -1,0 +1,5 @@
+---
+summary: Bears lead the procession of beasts wrought on the golden strap of Heracles' baldric, “bears and wild boars and lions with flashing eyes” (11.611), the only animal bears in Homer.
+---
+
+“And terrible was the baldric around his chest, / a golden strap, on which wondrous works were wrought, / bears and wild boars and lions with flashing eyes, / combats and battles and slaughters and killings of men” (11.609–612; see [[the-baldric-of-heracles]], [[boar]] and [[lion]]). W. W. Merry renders the verses “whereon were wrought marvellous devices, bears and wild boars and bright-eyed lions, and battles and fights, and bloodshed and slayings of men” (*Commentary on the Odyssey*, 1886, on 11.609). The beasts are the quarry and the enemies of a hunter, and the battles of a warrior, on the strap of the hunter and warrior who stands among the dead “like one ever about to shoot” (11.608; see [[heracles]] and [[like-one-about-to-shoot]]). Bears and lions, with gray wolves and leopards, follow Aphrodite on Ida in the Homeric Hymn, where the lions are χαροποί as here (see the general article).

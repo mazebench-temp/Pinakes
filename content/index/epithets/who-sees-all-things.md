@@ -5,8 +5,8 @@ kind: epithet
 tags: [divine-epithet, oath]
 summary: The Sun, “who sees all things and hears all things,” and is therefore called to witness oaths.
 aliases: [all-seeing Sun]
-grc: [πάντʼ ἐφορᾷς καὶ πάντʼ ἐπακούεις]
-en: [who see all things and hear all things]
+grc: [πάντʼ ἐφορᾷς καὶ πάντʼ ἐπακούεις, πάντʼ ἐφορᾷ καὶ πάντʼ ἐπακούει]
+en: [who see all things and hear all things, who sees all things and hears all things]
 of: [helios]
 ---
 

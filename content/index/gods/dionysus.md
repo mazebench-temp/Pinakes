@@ -5,7 +5,9 @@ kind: god
 tags: [olympian, child-of-zeus]
 summary: God of wine and of ecstatic worship, son of [[Zeus]] and the Theban princess [[Semele]]. Homer mentions him in only four passages and never as the god of wine. His one story in the Iliad is his flight from Lycurgus.
 aliases: [Dionysos, Diōnysos, Bacchus, Bakchos]
-grc: ["Διωνυσ*"]
+# Διονύσου, the form of later Greek, is the god wherever it occurs: Od. 11.325, its only place in Homer, and Poetics
+# 1457b22 and Rhetoric 1407a17, “the shield of Dionysus”, which the Poetics and Rhetoric notes also claim.
+grc: ["Διωνυσ*", Διονύσου]
 relations:
   - father: zeus (14.323-325)
 ---

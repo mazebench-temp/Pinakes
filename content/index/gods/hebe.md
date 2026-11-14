@@ -5,7 +5,8 @@ kind: god
 tags: [olympian, personification, child-of-zeus, woman]
 summary: Youth made a goddess. In the Iliad she serves the gods on Olympus, pouring their nectar, readying Hera's chariot and bathing Ares; in the Odyssey and in Hesiod she is a daughter of [[Zeus]] and [[Hera]] and the wife of [[Heracles]] after he became a god.
 aliases: [Hēbē, Iuventas, Juventas]
-grc: [^Ἥβη]
+# ^Ἥβην (Od. 11.603) keeps out the common ἥβην, "youth" (Il. 24.728; Od. 15.366, 16.174).
+grc: [^Ἥβη, ^Ἥβην]
 relations:
   - father: zeus
   - mother: hera
@@ -24,7 +25,7 @@ passages:
 
 πότνια Ἥβη, “lady Hebe”: πότνια (“lady, queen”) is a title of honor for goddesses, as in “ox-eyed queen Hera” (4.50; see [[ox-eyed]]). The Iliad gives her three errands, all among the gods. She pours the nectar at their council (ἐοινοχόει, “poured wine”, the verb used of Hephaestus at the end of Book 1, 1.597–598; see [[cupbearing]] and [[nectar]]); she fits the wheels to Hera's chariot (5.722); and she bathes Ares and dresses him after he has been healed (5.905). The Iliad never names her parents, but these are errands for a daughter of the house, and Hesiod makes Hera her mother and Ares her brother. The poem's other cupbearers of the gods are Hephaestus and Ganymede, whom the gods carried off to pour wine for Zeus “for the sake of his beauty” (20.232–235).
 
-In the Odyssey, Heracles feasts among the immortals and has “Hebe of the lovely ankles, the daughter of great Zeus and of Hera of the golden sandals” (Od. 11.601–604). These lines have often been thought a later addition.
+In the Odyssey, Heracles feasts among the immortals and has “Hebe of the lovely ankles, / the daughter of great Zeus and of Hera of the golden sandals” (*Odyssey* 11.602–604; see the Book 11 note). These lines have often been thought a later addition.
 
 ## Outside Homer
 

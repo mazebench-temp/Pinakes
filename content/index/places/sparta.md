@@ -5,7 +5,9 @@ kind: place
 tags: [peloponnese, city, laconia]
 summary: The city in the valley of the Eurotas, the home of Menelaus: one of the towns of his realm in the Iliad's Catalogue, and in the Odyssey the palace to which Telemachus goes for news of his father. Later it was the leading power of the Peloponnese.
 # Σπάρτηνδε, "to Sparta", is found only at Od. 1.285; Σπάρτηθεν, "from Sparta", at Od. 2.327 and 4.10. No Iliad line.
-grc: [Σπάρτην, Σπάρτηνδε, Σπάρτηθεν]
+# Σπάρτῃ (Od. 11.460) has the letters of the nominative Σπάρτη, so it also catches Il. 4.52, Sparta, which the Iliad
+# Book 4 note claims as well; no other line of Homer, the Poetics or the Rhetoric.
+grc: [Σπάρτην, Σπάρτηνδε, Σπάρτηθεν, Σπάρτῃ]
 ---
 
 {{quote:52a9b1ca-0180-58c2-867f-21c1e0a710f2}}

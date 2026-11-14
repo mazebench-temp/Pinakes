@@ -1,0 +1,7 @@
+---
+summary: The third of the heroines, “the wife of Amphitryon, / who bore Heracles, bold in endurance, lion-hearted, / having lain in love in the arms of great Zeus” (11.266–268).
+passages:
+  - 11.266-268 | Alcmene
+---
+
+“And after her I saw Alcmene, the wife of Amphitryon, / who bore Heracles, bold in endurance, lion-hearted, / having lain in love in the arms of great Zeus” (11.266–268; see [[amphitryon]], [[heracles]] and [[zeus]]). She comes after Antiope, the other Theban mother of sons by Zeus, as in the Iliad Zeus names her beside Semele, the mother of Dionysus (*Iliad* 14.323–325; see [[antiope]], [[semele]] and [[the-loves-of-zeus]]); in Book 2 Antinous had named her with Tyro among the women of old (2.120). Heracles' two epithets are those of his son Tlepolemus' boast in the Iliad, “my father, bold in endurance, lion-hearted” (*Iliad* 5.639; see [[bold-in-endurance]] and [[lion-hearted]]); θρασυμέμνων is “boldly eager” rather than “boldly enduring”, W. W. Merry thinks (*Commentary on the Odyssey*, 1886, on 11.267). Merry tells the common form of the legend, in which Zeus came to her in her husband's likeness, so that she bore two sons at once, Heracles to Zeus and Iphicles to Amphitryon, and Catullus calls Heracles *falsiparens Amphitryoniades*, “the son of Amphitryon by a false father” (on 11.266). The next heroine is Megara, her son's wife (11.269–270; see [[megara-wife-of-heracles]]), and Heracles himself appears near the end of the book, a phantom among the dead while he himself feasts with the gods (11.601–627).

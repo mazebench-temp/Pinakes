@@ -1,0 +1,8 @@
+---
+summary: The catalogue of women brings in two loves of Zeus: Antiope, who “claimed that she had slept even in the arms of Zeus” and bore Amphion and Zethus, and Alcmene, who bore Heracles (11.260–268). Leto is called “the glorious wife of Zeus” (11.580), and children of Zeus appear among the dead: Persephone, Minos, Apollo, Heracles and Hebe (11.217, 11.318, 11.568, 11.604, 11.620).
+refs: [11.260-268, 11.580]
+---
+
+**In the catalogue.** Most of the women whom Persephone sends are loved by gods. Poseidon lay with Tyro and Iphimedeia (11.241–252, 11.305–306; see [[tyro]] and [[iphimedeia]]); Zeus is the lover of two. Antiope, the daughter of Asopus, “claimed that she had slept even in the arms of Zeus”, a lover higher than Poseidon himself, and bore Amphion and Zethus, the first founders of Thebes (11.260–265; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.261; see [[antiope]], [[euchomai]], [[amphion-of-thebes]] and [[zethus]]). Alcmene, the wife of Amphitryon, “bore Heracles, bold in endurance, lion-hearted, / having lain in love in the arms of great Zeus” (11.266–268; see [[alcmene]] and [[heracles]]). Leda is the wife of Tyndareus, who in this book is the father of Castor and Polydeuces (11.298–300; see [[leda]]).
+
+**The children of Zeus.** Leto is named among his wives, “the glorious wife of Zeus” (11.580; see [[leto]]), and their son, “the son of Zeus, whom Leto of the lovely hair bore”, killed the Aloadae (11.318; see [[apollo]]). Persephone is “the daughter of Zeus” (11.217), Minos “the splendid son of Zeus” (11.568; see [[minos]]), Hebe “the daughter of great Zeus and of Hera” (11.604; see [[hebe]]), and Heracles calls himself “the son of Zeus, son of Cronus”, who nonetheless had boundless misery (11.620).

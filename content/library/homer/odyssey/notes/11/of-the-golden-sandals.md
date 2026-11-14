@@ -1,0 +1,5 @@
+---
+summary: Odysseus sees the phantom of Heracles, “but he himself among the immortal gods / takes his delight in their feasts, and has Hebe of the lovely ankles, / the daughter of great Zeus and of Hera of the golden sandals” (11.602–604).
+---
+
+The verse ends the three lines that set the hero among the gods while his phantom walks among the dead (see [[of-the-lovely-ankles]], [[eidolon]] and [[heracles]]). The scholia report that the lines were rejected and called the work of Onomacritus, and that 604 was copied from Hesiod (*Theogony* 952); Merry would cut all three, which would answer most of the objections made to Heracles in Hades, among them that in Homer Hebe is a maiden who pours out the gods' nectar (*Iliad* 4.2–3), and he holds that Homer knew nothing of Heracles' rise to the gods, since in the Iliad “not even mighty Heracles escaped his doom” (*Iliad* 18.117; Merry, *Commentary on the Odyssey*, 1886, on 11.601 and his critical note on 11.602–603; see the translation's note on 11.602–604).

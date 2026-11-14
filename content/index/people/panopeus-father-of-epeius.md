@@ -8,6 +8,7 @@ aliases: [Panopeus the father of Epeius]
 # "υἱὸς Πανοπῆος" (23.665) by phrase: Πανοπῆος at Od. 11.581 is the town (panopeus), as are Πανοπῆα (2.520)
 # and Πανοπῆϊ (17.307). panopeus excepts 23.665 for its English name.
 grc: ["υἱὸς Πανοπῆος"]
+except: [Od. 11.581]
 en: [Panopeus]
 relations:
   - child: epeius (23.665)

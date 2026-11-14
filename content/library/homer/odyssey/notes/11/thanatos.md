@@ -1,0 +1,12 @@
+---
+summary: Teiresias foretells Odysseus' own death, “away from the sea, / a death so very gentle”, in an old age of ease among a prosperous people (11.134–137). The dead tell their deaths, Agamemnon “a most pitiable death” (11.412); Odysseus tells Achilles not to grieve that he is dead, and Achilles answers, “Do not speak comfortingly to me of death” (11.486–488).
+# θάνατος (11.134; again 13.60, 17.546, 23.281), θνητήν (11.244).
+grc: [θάνατος, θνητήν]
+en: [death, mortal]
+---
+
+**The gentle death.** The prophecy of Teiresias ends with Odysseus' own end: “And death will come to you yourself away from the sea, / a death so very gentle, that will kill you / worn out by an old age of ease; and around you your people / will be prosperous” (11.134–137; see [[the-prophecy-of-teiresias]] and [[odysseus]]). ἐξ ἁλός is “away from the sea” as the tradition takes it, Eustathius among them; Merry argues that it means “out of the sea”, the death that the *Telegony* brought Odysseus, notes that Ptolemy of Ascalon read ἔξαλος, and thinks the whole prophecy a post-Homeric addition; for ἀβληχρός, “gentle”, he argues for “weak” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.134, 11.135; see the Odyssey translation's note on 11.134–137 and [[telegonus-kills-odysseus]]). γήραι ὕπο λιπαρῷ is the old age of ease that Zeus granted Nestor in his halls (4.209–210; see [[easily-known-is-the-offspring]] and [[geron]]). Odysseus repeats the prophecy to Penelope (23.281–284).
+
+**The deaths of the dead.** The dead are asked how they died, and answer (11.171–203, 11.398–434; see [[ker-doom]]). Agamemnon “died a most pitiable death” at a feast (11.409–412; see [[the-murder-of-agamemnon]]). Orestes “has not yet died upon the earth”, Agamemnon hopes, and Odysseus will not say whether he is alive or dead (11.461–464; see [[it-is-bad-to-speak-empty-wind]]). Odysseus tells Achilles, mighty among the dead, “do not grieve at all that you are dead”, and Achilles catches up the word: “Do not speak comfortingly to me of death” (11.486–488; Merry on 11.488; see [[rather-a-hired-laborer]]). Even “in death” Ajax has not forgotten his anger (οὐδὲ θανών, 11.554; see [[ajax]]).
+
+**Mortal and god.** When Poseidon lies with Tyro the wave hides “the god and the mortal woman” (θεὸν θνητήν τε γυναῖκα, 11.244; see [[tyro]] and [[poseidon]]); the sons of such unions, and the heroes who were sons of Zeus, are among the dead (see [[the-loves-of-zeus]] and [[immortality]]).

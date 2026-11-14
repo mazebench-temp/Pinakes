@@ -22,7 +22,7 @@ relations:
 
 ## The name
 
-Πολύφημος = πολύς (“much”) + φήμη (“speech, report”): “much spoken of”, the sense in which the Lapith's name is read (see [[polyphemus]]). As a common adjective πολύφημος is “of many voices” or “of many songs” (see [[of-many-voices]]): Zeus' two eagles come over “the middle of the assembly of many voices” (μέσσην ἀγορὴν πολύφημον, *Odyssey* 2.150), and Odysseus calls Phemius πολύφημος ἀοιδός, the singer “of many songs” (*Odyssey* 22.376; see [[phemius]]). The renderings of the Odyssey's books after the tenth are plain renderings, not the translation.
+Πολύφημος = πολύς (“much”) + φήμη (“speech, report”): “much spoken of”, the sense in which the Lapith's name is read (see [[polyphemus]]). As a common adjective πολύφημος is “of many voices” or “of many songs” (see [[of-many-voices]]): Zeus' two eagles come over “the middle of the assembly of many voices” (μέσσην ἀγορὴν πολύφημον, *Odyssey* 2.150), and Odysseus calls Phemius πολύφημος ἀοιδός, the singer “of many songs” (*Odyssey* 22.376; see [[phemius]]). The renderings of the Odyssey's books after the eleventh are plain renderings, not the translation.
 
 ## Family
 

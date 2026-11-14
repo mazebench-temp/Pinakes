@@ -1,0 +1,5 @@
+---
+summary: Odysseus tells the soul of Achilles that “no man before was more blessed than you, nor will be hereafter” (11.482–483), and is refused.
+---
+
+The felicitation that Odysseus gave the Danaans who died at Troy, and Nausicaa's family, he gives once more among the dead: “As for you, Achilles, / no man before was more blessed than you, nor will be hereafter” (σεῖο … οὔ τις ἀνὴρ προπάροιθε μακάρτατος οὔτʼ ἄρʼ ὀπίσσω, 11.482–483), προπάροιθε being “in time past” and ὀπίσσω “in time to come” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.483; see [[achilles]]). Some copies read μακάρτερος (Merry's critical note; see the Odyssey translation's note on 11.476, 11.478, 11.483). His reasons are honor in life and power among the dead (11.484–486; see [[time]]), and the answer is a refusal of both: “Do not speak comfortingly to me of death” (11.488; see [[rather-a-hired-laborer]]). In the storm of Book 5 Odysseus called the dead of Troy blessed for their burial and fame (5.306–311); here the most honored of them tells him otherwise.

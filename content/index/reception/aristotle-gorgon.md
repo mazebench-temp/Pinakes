@@ -12,7 +12,7 @@ passages:
 
 {{quote:2f8333cd-89e4-5542-83cf-db1ae04bef8c}}
 
-When Athena arms for war, she throws around her shoulders the tasseled aegis. Rout is set around it as a crown; on it are Strife, Courage and chilling Onslaught, and the Gorgon's head, “the head of the dread monster, dreadful and terrible, the portent of aegis-bearing Zeus” (5.738–742). In the Odyssey the same head is in the underworld. At the end of his visit to the dead, Odysseus is seized by pale fear that Persephone might send up against him from Hades “the Gorgon head of the dread monster” (*Odyssey* 11.633–635). The words Γοργείη κεφαλὴ δεινοῖο πελώρου are the same in both passages.
+When Athena arms for war, she throws around her shoulders the tasseled aegis. Rout is set around it as a crown; on it are Strife, Courage and chilling Onslaught, and the Gorgon's head, “the head of the dread monster, dreadful and terrible, the portent of aegis-bearing Zeus” (5.738–742). In the Odyssey the same head is in the underworld. At the end of his visit to the dead, Odysseus is seized by pale fear that Persephone might send up against him from Hades “the Gorgon's head, the head of the dread monster” (*Odyssey* 11.633–635). The words Γοργείη κεφαλὴ δεινοῖο πελώρου are the same in both passages.
 
 Aristotle's lost *Homeric Problems* collected such difficulties and offered solutions. A fragment preserved in the scholia on this line asks why Homer puts the Gorgon's head in Hades in one place and on Athena's aegis in another. Aristotle's answer is that perhaps she did not carry the actual head of the Gorgon on the aegis, any more than she carried Strife or Onslaught themselves, but the fear that the Gorgon produces in those who look at it (fr. 377 Gigon).
 

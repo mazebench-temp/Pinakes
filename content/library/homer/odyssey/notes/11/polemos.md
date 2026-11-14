@@ -1,0 +1,8 @@
+---
+summary: Odysseus followed Agamemnon to Ilios “to fight the Trojans” (11.169); the Aloadae threatened the gods with “the din of furious war” (11.314); Achilles asks whether his son followed “to the war” to be a champion (11.493); Odysseus answers that Neoptolemus came through it unharmed, “as often / happens in war; for Ares rages without distinction” (11.536–537); and battles are wrought on Heracles' baldric (11.612).
+# μαχοίμην (11.169), πολέμῳ (11.537; again 5.224, 10.553), πόλεμόνδε (11.448).
+grc: [μαχοίμην, πολέμῳ, πόλεμόνδε]
+en: [fight, war, to the war]
+---
+
+The war of the book is remembered among the dead. Odysseus has been wandering ever since he followed Agamemnon “to Ilios of the fine horses, to fight the Trojans” (11.168–169), and Agamemnon remembers leaving Penelope “when we went to the war” (11.448). Achilles asks whether his son followed “to the war to be a champion, or not” (11.493; see [[neoptolemus]]), and Odysseus ends his account by saying that Neoptolemus went home unharmed, “neither struck by the sharp bronze / nor stabbed hand to hand, as often / happens in war; for Ares rages without distinction” (11.535–537; see [[ares]]). ἐπιμίξ is “indiscriminately”, as the god of war is “common” to both sides (ξυνὸς Ἐνυάλιος, *Iliad* 18.309; W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.537; see the Odyssey translation's table of key words, ἐπιμίξ). The Aloadae, at nine years old, threatened to raise against the gods on Olympus “the din of furious war” (φυλόπιδα … πολυάικος πολέμοιο, 11.313–314; see [[the-aloadae-bind-ares]]), and the baldric of Heracles shows “combats and battles and slaughters and killings of men” (11.612; see [[the-baldric-of-heracles]]).

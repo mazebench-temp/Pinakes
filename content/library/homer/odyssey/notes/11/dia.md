@@ -1,0 +1,7 @@
+---
+summary: Among the heroines Odysseus sees Ariadne, whom Artemis killed “in sea-washed Dia, on the testimony of Dionysus”, before Theseus could bring her from Crete to Athens (11.321–325).
+---
+
+**Where Ariadne died.** The island is named for one thing only: Theseus was bringing Ariadne from Crete to Athens, “but he had no joy of her; for before that Artemis slew her / in sea-washed Dia, on the testimony of Dionysus” (11.324–325; see [[ariadne]] and [[sea-washed]]). Aristophanes read ἔσχε, “held her”, for ἔκτα, “slew”, and W. W. Merry thinks it probably the original reading; with it, he says, the sense is not that Artemis held her back by death, as Eustathius explains it, but rather that she “stopped her”, and let her go no further with Theseus (*Commentary on the Odyssey*, 1886, on 11.324 and his critical note; see the translation's note on 11.321–325). What the testimony of Dionysus was the poem does not say. Some, Merry reports, suppose that Dionysus told Artemis that Theseus had lain with Ariadne in her sacred grove in Dia, others that Ariadne had been promised to Dionysus but gave herself to a mortal lover (on 11.322; see [[dionysus]] and [[artemis]]).
+
+**An Attic interlude.** Phaedra, Procris and Ariadne belong to Attic legend, and with them, Merry observes, the Thessalian and Boeotian stories of the other women are broken off; he thinks the five verses probably a later interpolation, which, like other passages that touch on Athenian legend, may belong to the time of the Peisistratean recension (on 11.321; see [[athens]] and [[theseus]]).

@@ -3,7 +3,7 @@ title: Heracles
 greek: Ἡρακλῆς
 kind: person
 tags: [child-of-zeus, demigod, warrior]
-summary: The greatest hero of the generations before Troy, son of [[Zeus]] and [[Alcmene]]. The Iliad remembers his birth, his labors, his sack of Troy and his death, and in the Catalogue his son and grandsons lead the men of Rhodes and Cos.
+summary: The greatest hero of the generations before Troy, son of [[Zeus]] and [[Alcmene]], who served Eurystheus in his labors, sacked Troy and died through the anger of Hera. In the Odyssey Odysseus sees his phantom among the dead, while he himself feasts among the gods with Hebe as his wife; later tradition made him a god.
 aliases: [Herakles, Hercules]
 grc: [Ἡρακλ*, "!Ἡρακλειτ*"]
 refs: [2.659, 2.660]
@@ -31,7 +31,7 @@ Homer knows Heracles as a mortal hero of the generation before the war. He tells
 - **Pylos.** He ravaged Pylos and killed eleven of the twelve sons of Neleus; only Nestor was left (11.690–693; see [[heracles-sacks-pylos]]). He wounded Hera with an arrow, and Hades "in Pylos among the dead" (5.392–397).
 - **Death.** "For not even mighty Heracles escaped his doom," says Achilles, "who was the dearest of all to lord Zeus, son of Cronus; / but fate brought him down, and the grievous anger of Hera" (18.117–119).
 
-In the Odyssey, Odysseus sees his image in the underworld, bow in hand, while "he himself" feasts among the gods with Hebe as his wife (*Odyssey* 11.601–626); the lines that make him a god were suspected already in antiquity. The Odyssey also remembers that he killed his guest Iphitus (*Odyssey* 21.22–30) and that he rivaled the gods at archery (*Odyssey* 8.223–225; see [[who-fights-the-gods]]).
+In the Odyssey, Odysseus sees his phantom in the underworld, bow in hand, while “he himself” feasts among the gods with Hebe as his wife, and the shade tells him of the hound he brought up from Hades (*Odyssey* 11.601–627; see [[hebe]] and [[heracles-and-cerberus]]); the lines that make him a god were suspected already in antiquity. The Odyssey also remembers that he killed his guest Iphitus (*Odyssey* 21.22–30) and that he rivaled the gods at archery (*Odyssey* 8.223–225; see [[who-fights-the-gods]]).
 
 ## Outside Homer
 

@@ -28,13 +28,13 @@ Her father was Rhexenor, a son of Nausithous, whom Apollo struck down in his hal
 
 - λευκώλενος, “white-armed” (*Odyssey* 7.233, 7.335; 11.335; see [[white-armed]]), the epithet of her daughter (*Odyssey* 6.101).
 - δέσποινα, “mistress”, “lady”, the mistress of the house (*Odyssey* 7.53, 7.347), a word not found in the Iliad, Merry explains, because the relation it denotes is a domestic one (on *Odyssey* 7.53).
-- βασίλεια, “queen”, in Odysseus' address (*Odyssey* 7.241, 13.59), and βασίλεια περίφρων, “the wise queen” (*Odyssey* 11.345; see [[basileus]]).
+- βασίλεια, “queen”, in Odysseus' address (*Odyssey* 7.241, 13.59), and βασίλεια περίφρων, “prudent queen” (*Odyssey* 11.345; see [[basileus]]).
 
 {{notes}}
 
 ## Later in the Odyssey
 
-The renderings here are plain renderings, not the translation. On the day of the games Alcinous bids her bring out a chest for the Phaeacians' gifts; she has a cauldron set on the fire for the stranger's bath, brings the chest from her chamber, lays in it the clothing and the gold that the Phaeacians gave, puts in a mantle and a tunic herself, and bids him tie the lid fast, so that no one may rob him on the way while he sleeps in the ship (*Odyssey* 8.423–445). In a pause in his tale she asks the Phaeacians what they think of him, in looks and stature and in mind: “he is my guest”, mine especially, Merry explains, because he made his first appeal to me, though each of them has a share in the honor; let them not send him off in haste nor stint their gifts. The old Echeneus answers that the wise queen speaks to the point, but that deed and word depend on Alcinous (*Odyssey* 11.335–346; Merry on *Odyssey* 11.338; see [[echeneus]]). At parting, after the last libation, Odysseus puts the cup in her hand and bids her farewell until old age and death come to her, and she sends three slave women to the ship, with a mantle and a tunic, a chest, and bread and red wine (*Odyssey* 13.56–69; see [[pontonous]]).
+The renderings of the Odyssey's books after the eleventh are plain renderings, not the translation. On the day of the games Alcinous bids her bring out a chest for the Phaeacians' gifts; she has a cauldron set on the fire for the stranger's bath, brings the chest from her chamber, lays in it the clothing and the gold that the Phaeacians gave, puts in a mantle and a tunic herself, and bids him tie the lid fast, so that no one may rob him on the way while he sleeps in the ship (*Odyssey* 8.423–445). In the pause of his tale among the dead she praises him to the Phaeacians and bids them not to cut short their gifts (*Odyssey* 11.335–341; see the Book 11 note and [[echeneus]]). At parting, after the last libation, Odysseus puts the cup in her hand and bids her farewell until old age and death come to her, and she sends three slave women to the ship, with a mantle and a tunic, a chest, and bread and red wine (*Odyssey* 13.56–69; see [[pontonous]]).
 
 ## Outside Homer
 

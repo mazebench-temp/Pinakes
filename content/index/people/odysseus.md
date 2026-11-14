@@ -9,6 +9,7 @@ grc: ["^Ὀδυσ*", "!Ὀδυσσεια*"]
 en: [Odysseus]
 refs: [1.441, 1.446]
 relations:
+  - mother: anticleia (Od. 11.84-85)
   - nurse: eurycleia (Od. 19.482-483)
 passages:
   - 1.430-445 | Odysseus returns Chryseis
@@ -24,7 +25,7 @@ In the Iliad Odysseus is one of the Achaean leaders at Troy, a speaker and couns
 
 ## Family
 
-He is the son of Laertes, whose name he carries in his patronymic, Λαερτιάδης (2.173; see [[laertes]] and [[son-of-laertes]]), and of Anticleia, the daughter of Autolycus (*Odyssey* 11.84–85); the husband of Penelope, “the daughter of Icarius” (*Odyssey* 1.329; see [[penelope]]); and the father of Telemachus, who was a baby when he left for Troy (2.260, 4.354; *Odyssey* 11.448–449; see [[telemachus]]). Telemachus describes the family as a line of only sons: Arceisius had only Laertes, Laertes only Odysseus, and Odysseus only Telemachus (*Odyssey* 16.117–120).
+He is the son of Laertes, whose name he carries in his patronymic, Λαερτιάδης (2.173; see [[laertes]] and [[son-of-laertes]]), and of [[anticleia|Anticleia]], the daughter of Autolycus (*Odyssey* 11.84–85); the husband of Penelope, “the daughter of Icarius” (*Odyssey* 1.329; see [[penelope]]); and the father of Telemachus, who was a baby when he left for Troy (2.260, 4.354; *Odyssey* 11.448–449; see [[telemachus]]). Telemachus describes the family as a line of only sons: Arceisius had only Laertes, Laertes only Odysseus, and Odysseus only Telemachus (*Odyssey* 16.117–120).
 
 ## Descriptions
 

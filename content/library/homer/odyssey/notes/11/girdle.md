@@ -1,0 +1,7 @@
+---
+summary: Poseidon, in the likeness of the river Enipeus, lies with Tyro: “And he loosed her maiden girdle, and shed sleep upon her” (11.245), a verse that the ancient critics rejected.
+---
+
+λῦσε δὲ παρθενίην ζώνην, κατὰ δʼ ὕπνον ἔχευεν, “And he loosed her maiden girdle, and shed sleep upon her” (11.245; see [[tyro]], [[poseidon]] and [[hypnos]]). To loose a girdle is to lie with a woman, and the maiden girdle, παρθενίη ζώνη, is found only here in Homer (see the translation's row κυρτόω; παρθενίη ζώνη; φιλοτήσια ἔργα). The loosed girdle and the shed sleep are the pair of *Iliad* 14, where Zeus is overcome by love and sleep (*Iliad* 14.353).
+
+The verse was athetized in antiquity, a scholion asking why the god should shed sleep on a woman who loved him and was willing, and Zenodotus did not know it; it is in all the manuscripts and in Eustathius, and modern editors except La Roche bracket it (W. W. Merry's critical note on 11.245; see the translation's note on 11.245). A scholion objected to the maiden girdle as well, since Tyro was already Cretheus' wife (11.237; see [[cretheus]]). Merry reports Hayman's suggestion that the sleep gave the god time to take back his own form, as Aphrodite sheds sleep on Anchises before she shows herself as a goddess (*Hymn to Aphrodite* 170–175), but thinks the clause in parataxis means no more than that he lulled her (*Commentary on the Odyssey*, 1886, on 11.245).

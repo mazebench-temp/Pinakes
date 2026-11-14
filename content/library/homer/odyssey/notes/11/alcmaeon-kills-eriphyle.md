@@ -1,0 +1,11 @@
+---
+summary: The catalogue of women ends with “hateful Eriphyle, / who took precious gold as the price of her own husband” (11.326–327): the bribe that sent Amphiaraus to his death at Thebes, the beginning of the story that ended with their son's vengeance. The vengeance itself is not told in Homer.
+# Unnamed: the bribe (11.327).
+refs: [11.327]
+passages:
+  - 11.326-327 | Eriphyle
+---
+
+**The last of the women.** Odysseus names Eriphyle last, with Maera and Clymene, and gives her a verse of her own: she “took precious gold as the price of her own husband” (11.326–327; see [[eriphyle]] and [[catalogue-of-heroines]]). φίλου ἀνδρός is a genitive of price, as when Glaucus gave Diomedes gold armor for bronze, the worth of a hundred oxen for nine (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.327, citing *Iliad* 6.235–236). στυγερή, “hateful”, is the poem's word for her (see [[hateful]]). The husband is not named here; the Odyssey names him in the fifteenth book, Amphiaraus, dear to Zeus and Apollo, who did not reach the threshold of old age but “perished at Thebes for the sake of gifts to a woman” (15.244–247, a plain rendering), in the words the eleventh book uses of the Ceteians who died with Eurypylus (11.521; see [[amphiaraus]] and [[neoptolemus-kills-eurypylus]]).
+
+**The story.** With Eriphyle, Merry notes, the catalogue returns to Boeotian legend, for though she was the wife of an Argive, her story belongs to Thebes: Amphiaraus, who knew that the expedition would be fatal to him, was persuaded to go by his wife, whom Polynices had bribed with a golden necklace, and as he was about to be killed in the war Zeus split the earth with his thunderbolt and swallowed him with his chariot and horses. Merry adds that the oracle of Amphiaraus stood near Thebes and was later moved near Oropus, and that the whole story was told in a Cyclic epic, the *Expedition of Amphiaraus*, said to have been composed in Boeotia by Homer himself (on 11.326; see [[the-seven-against-thebes]]). Homer says nothing of the son who avenged his father by killing his mother; the Odyssey names him only as a son of Amphiaraus, Alcmaeon, beside Amphilochus (15.248, Greek only; see [[alcmaeon]]).

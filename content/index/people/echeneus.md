@@ -19,7 +19,3 @@ grc: [Ἐχένηος]
 He is the Phaeacian counterpart of the elders of Ithaca, the old hero Aegyptius, “who was bent with age and knew countless things” (*Odyssey* 2.15–16; see [[aegyptius]]), and Halitherses, and like them he is brought in by the verse of wise counsel, “With good intent he addressed them and spoke” (*Odyssey* 7.158, as 2.160, 2.228; see [[with-good-intent]] and [[elders]]).
 
 {{notes}}
-
-## Later in the Odyssey
-
-The rendering here is a plain rendering, not the translation. When Odysseus breaks off his tale among the dead, Arete asks the Phaeacians what they think of the man, calls him her own guest, and bids them not to send him off in haste or stint their gifts; then Echeneus speaks: “Friends, the wise queen speaks to us neither wide of the mark nor otherwise than we expected; obey her. But it is on Alcinous here that deed and word depend” (*Odyssey* 11.335–346; see [[arete-queen-of-the-phaeacians]] and [[alcinous]]). ἀπὸ σκοποῦ is “wide of the mark”, σκοπός being here the archer's mark, as at *Odyssey* 22.6; ἀπὸ δόξης the scholia take as “at variance with our own ideas” about strangers, Eustathius as “at variance with our expectation” of her, which Merry thinks settled by *Iliad* 10.324 (Merry on *Odyssey* 11.344). The last verse means that both promise and performance depend on the king (Merry on *Odyssey* 11.346). Alcinous answers that it shall be so (*Odyssey* 11.347–353).

@@ -1261,6 +1261,69 @@ dead (the pit, the drink offering, the souls and the shadows) beside their every
 | δεινοῖο πελώρου, the stag (Od. 10.168) | the Gorgon (Il. 5.741; Od. 11.634) | deer: `refs: [10.168]` in its Book 10 note, never the phrase |
 | ῥῶπας "brushwood" (Od. 10.166) | Eumaeus' brushwood (Od. 14.49, 16.47) | not claimed; willow takes λύγους only |
 
+### Odyssey, Book 11
+
+The book of the dead brings the names of the heroines and heroes of the old stories beside common words (Hebe and youth,
+Ossa and rumor, Dia and "brilliant", Pero and the maimed, Thanatos and death, Ajax and the land), namesakes kept apart
+by their lines (the two Amphions, Megara the wife of Heracles beside the city, Creon, Chromius, Perimedes, Eurypylus son
+of Telephus, Panopeus the town and the father of Epeius, Orchomenus of the Minyans), and the words of the rite and of
+the house of Hades (the pit, the war cry, the baldric and its strap) beside their everyday senses.
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ἥβην, Hebe (Od. 11.603) | ἥβην "youth" (Il. 24.728; Od. 15.366, 16.174) | hebe: `^Ἥβην` |
+| ὀνείρῳ (Od. 11.207) | the Iliad's ἐν ὀνείρῳ, the simile of 22.199 | dream: in its Odyssey Book 11 note only (as-in-a-dream keeps the phrase) |
+| ἠῶ δῖαν, lowercase (Od. 11.375) | ἠώς "dawn", the time | eos: the phrase in its Book 11 note; shining-sea excepts the line |
+| the house of Hades (Ἄϊδος, Ἀΐδαο, Ἀίδεω, Ἄϊδόσδε) | the house of a man | hades claims them all; house excepts 11.69, 11.150, 11.571, 11.627 in its Book 11 note |
+| Ὄσσαν, Ὄσσῃ, the mountain (Od. 11.315) | ὄσσαν "rumor" (Od. 1.282, 2.216), Ὄσσα Rumor (24.413), ὅσση (Il. 14.400, 16.589, 24.317) | ossa-mountain: `^Ὄσσαν`, `^Ὄσσῃ`; ossa's Book 2 note `"!^Ὄσσαν"` |
+| Δίῃ, the island (Od. 11.325) | δίῃ "brilliant" (Il. 11.686, 11.698, 17.40) | dia: `^Δίῃ` |
+| Ἐνιπῆος, the river (Od. 11.238, 11.240) | ἐνιπή, ἐνιπῆς "rebuke" (Od. 20.266) | enipeus: the exact form |
+| Κήτειοι (Od. 11.521) | κήτεϊ, μεγακήτεϊ | ceteians: the exact form |
+| Ἀχαιΐδος, the Achaean land (Od. 11.166, 11.481) | Ἀχαιΐδες "Achaean women" | achaea: the exact form, with en "Achaean land" |
+| Θήβην, Θήβῃ, Boeotian Thebes (Od. 11.265, 11.275) | Thebe in the Troad (Il. 1.366, 6.397, 6.416); Egyptian Θήβῃς (Od. 4.126) | thebes: in its Book 11 note; thebe and thebes-in-egypt except the lines |
+| Ὀρχομενῷ (Od. 11.284, 11.459) | the Arcadian Orchomenus | orchomenus; orchomenus-arcadia excepts 11.459 (which city is meant there is not known: the note says so) |
+| Φυλάκης, Phylace (Od. 11.290; 15.236) | φυλακῆς "watch" (Il. 7.371, 10.99, 18.299) | phylace: `"=Φυλάκης"` |
+| Πανοπῆος, the town (Od. 11.581) | Panopeus, Epeius' father (Il. 23.665) | panopeus: in its Book 11 note; panopeus-father-of-epeius excepts 11.581 |
+| δῆμός, the Cimmerians' land (Od. 11.14) | δημός "fat" | demos: `"=δῆμός"` in its Odyssey Book 11 note |
+| ἀυτήν, the war cry (Od. 11.383; printed without the diaeresis) | αὐτήν "her" | aute: `"=ἀυτήν"` in its Book 11 note |
+| βόθρου, the pit (Od. 11.95) | βόθρου, the olive's trench (Il. 17.58) | the-offering-to-the-dead: βόθρου in its Odyssey Book 11 note (no the-pit entry) |
+| δίκη "way" (Od. 11.218) | δίκη "justice" | themis keeps δίκη; the-way-of-mortals takes the phrase |
+| πιστά (Od. 11.456) | ὅρκια πιστά, the oath | there-is-no-trusting-women: the phrase only |
+| κὴρ θανάτοιο (Od. 11.171, 11.398) | κηρόθι "in the heart" (Od. 11.208) | ker-doom `=κὴρ`; ker-heart κηρόθι in its Book 11 note |
+| θάνατος (Od. 11.134) | Θάνατος, Death | thanatos keeps `"!^Θανάτ*"` |
+| Περιμήδης, the companion (Od. 11.23; 12.195) | Περιμήδεος, the father of Schedius (Il. 15.515) | perimedes-the-companion: the exact form and en "Perimedes"; perimedes excepts Od. 11.23 (12.195 with Book 12) |
+| Εὐρύπυλον, son of Telephus (Od. 11.520) | the son of Euaemon (Il. 12.2); Eurypylus of Cos; εὐρυπυλές "wide-gated" (Od. 11.571) | eurypylus-son-of-telephus: Εὐρύπυλον and en in its Odyssey Book 11 note, Τηλεφίδην in the entry; eurypylus-of-cos excepts Od. 11.520 |
+| Αἶαν, Αἴανθʼ, Τελαμωνιάδαο (Od. 11.543, 11.550, 11.553) | αἶαν "land" (Od. 24.509); the son of Oileus | ajax: the three forms in its Odyssey Book 11 note, with `^Αἶαν`; ajax-son-of-oileus excepts Od. 11.550, 11.553 |
+| Τελαμῶνος (Od. 11.553) | τελαμών, the strap of the baldric (Od. 11.610, 11.614) | telamon: `^Τελαμῶνος` and Τελαμωνιάδαο in its Odyssey Book 11 note |
+| Τηλεφίδην (Od. 11.519) | τηλεφανής "seen from afar" (Od. 24.83) | telephus: `^Τήλεφ*` |
+| Νεοπτολέμοιο (Od. 11.506) | the tragedy *Neoptolemus* (Poetics 1459b6) | neoptolemus: Νεοπτολέμοιο in the entry; Il. 19.327 stays with the Iliad's Book 19 note |
+| Αἰακίδαο, Achilles (Od. 11.471, 11.538) | Αἰακίδης, also Peleus in the Iliad | achilles: its Odyssey Book 11 note claims the form (aeacus also claims it, as a patronymic) |
+| Ἀμφίονα, Amphion of Thebes (Od. 11.262) | Ἀμφίονος, the son of Iasus (Od. 11.283); Ἀμφίων (Il. 13.692); Ἄμφιον (Il. 5.612) | amphion-of-thebes and amphion-son-of-iasus: exact forms, each excepting the other's line and 13.692 |
+| Ἰασίδαο (Od. 11.283) | iasus (Il. 15.332); Ἰασίδῃ, Dmetor's father (Od. 17.443) | amphion-son-of-iasus claims it; Ἰασίδῃ to be decided with Book 17 |
+| Αἰολίδαο (Od. 11.237) | Αἰολίδης, Sisyphus (Il. 6.154); Aeolus son of Hippotes | aeolus-father-of-sisyphus and cretheus: in their Book 11 notes |
+| Κρείοντος, Megara's father (Od. 11.269) | creon (Il. 9.84); κρειόντων "rulers" | creon-of-thebes: `^Κρείοντος` in its Book 11 note (whether he is Jocasta's brother is disputed: the entry and the note on 11.269) |
+| Μεγάρην (Od. 11.269) | the city of Megara; μέγαρα "halls" | megara-wife-of-heracles: `^Μεγάρην`, `except: [Rhetoric 1357b33]` |
+| Χρόμιον, son of Neleus (Od. 11.286) | the Iliad's Chromiuses and Chromis | chromius-son-of-neleus: in its Book 11 note, excepting their seven Iliad lines for the English |
+| Φέρητʼ (Od. 11.259); Κρηθῆος, Κρηθῆι (11.237, 11.258); Ζῆθον (11.262); Πηρώ (11.287) | φέρηται; Κρήθων (Il. 5.542, 5.549), κρῆθεν; κνυζηθμῷ (Od. 16.163); πηρόν (Il. 2.599) | pheres `^Φέρητʼ`; cretheus, exact forms; zethus, exact form; pero `^Πηρώ` |
+| ἀθηρηλοιγόν, the winnowing fan (Od. 11.128; 23.275) | πτύον, πτυόφιν | winnowing-fan; beans-on-the-threshing-floor keeps πτυόφιν |
+| ἀορτήρ, τελαμών, the baldric (Od. 11.609–614) | the pouch cord (Od. 13.438, 17.198, 18.109); the sword straps (Il. 11.31); Τελαμών | the-baldric-of-heracles: three phrases only |
+| κώπην, the hilt (Od. 11.531) | κώπῃς "oars" (Od. 9.489); the key's handle (Od. 21.7) | sword: in its Book 11 note |
+| "δόρυ χαλκοβαρές", the spear (Od. 11.532); "ἵππον κατεβαίνομεν" (11.523) | δόρυ, the wooden horse; ἵππον, a horse | spear and the-wooden-horse: the phrases in their Book 11 notes |
+| Θησέα, Θησεὺς, Theseus (Il. 1.265; Od. 11.322, 11.631) | θήσει, ἀπίθησε, γήθησε and the like | theseus: exact forms, never `Θησ*` |
+| ἀγαυὴ Περσεφόνεια (Od. 11.213, 11.226, 11.635) | Ἀγαυή, the Nereid (Il. 18.42) | noble: in its Odyssey Book 11 note only |
+| δαῖτας ἐίσας (Od. 11.185) | νῆας ἐίσας, the balanced ships | equal-feast claims the phrase; balanced-ships excepts 11.185 and keeps φρένας ἐίσας (11.337) |
+| ἱππόδαμον, of Castor (Od. 11.300) | Ἱππόδαμος, the Trojan (Il. 11.335) | tamer-of-horses: in its Odyssey Book 11 note only |
+| κρυεροῖο … γόοιο, split by the verb (Od. 11.212) | κρυεροῖο φόβοιο (Il. 13.48) | chilling claims the three-word phrase |
+| ἀθέσφατος "endless" (Od. 11.61, 11.373) | θέσφατα "oracles" | endless: the exact form, never a stem |
+| Μαῖραν (Od. 11.326) | Μαῖρα, the Nereid (Il. 18.48) | maera-the-heroine: the exact form, with its English in the Odyssey note |
+| Κλυμένην (Od. 11.326) | Κλυμένη, Helen's handmaid (Il. 3.144) and the Nereid (Il. 18.47) | clymene-the-heroine: the same treatment; clymene excepts Od. 11.326 |
+| Ὦτον, the Aload (Od. 11.308) | Ὦτον Κυλλήνιον, the Epeian (Il. 15.518) | otus excepts 15.518 |
+| Φαίδρην (Od. 11.321) | Φαίδρῳ (Rhetoric 1408b20) | phaedra: the exact form |
+| Πρόκριν (Od. 11.321) | προκρόσσας (Il. 14.35) | procris: the exact form |
+| ἄρκτοι, bears (Od. 11.611) | Ἄρκτον, the Bear (the-bear) | bears: the exact form |
+| πορφύρεον κῦμα, the surging wave (Od. 11.243) | πορφύρεος "purple" | purple excepts 11.243 |
+| βόας, cattle (Od. 11.108, 11.289) | βόας αὔας, oxhide shields (Il. 12.137) | cattle: βόας in its Odyssey Book 11 note |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

@@ -9,8 +9,8 @@ aliases: [thelgo, thelgō, bewitch, bewitchment, enchantment, enchantments, spel
 # 21.604), θέλγει (Il. 24.343; Od. 1.57, 5.47), θέλγεσκʼ (Od. 3.264), κατέθελξεν (Od. 10.213), θέλξαι (Od. 10.291), ἐθέλχθης
 # (Od. 10.326); θελκτήρια (Il. 14.215; Od. 1.337), θελκτήριον (Od. 8.509, "to appease"); ἀκήλητος (Od. 10.329). Later books:
 # θέλγουσιν (Od. 12.40, 12.44), θέλγε (14.387, 18.282), θέλγει (16.195, 24.3), θέλξει (16.298), θέλγοιτο and ἔθελγε (17.514,
-# 17.521), ἔθελχθεν (18.212); κηληθμῷ "spell" (11.334 = 13.2), not yet a form. The stems catch no other word in Homer or Aristotle.
-grc: [θελγ*, θελξ*, ἐθελγ*, ἐθελξ*, ἐθελχθ*, κατεθελξ*, θελκτ*, ἀκήλητος]
+# 17.521), ἔθελχθεν (18.212); κηληθμῷ "spell" (Od. 11.334, again 13.2), only in that verse. The stems catch no other word in Homer or Aristotle.
+grc: [θελγ*, θελξ*, ἐθελγ*, ἐθελξ*, ἐθελχθ*, κατεθελξ*, θελκτ*, ἀκήλητος, κηληθμῷ]
 en: [bewitch, bewitched, bewitches, bewitching, enchantments]
 ---
 
@@ -22,7 +22,7 @@ en: [bewitch, bewitched, bewitches, bewitching, enchantments]
 
 **Words.** Words bewitch the heart. Achilles, fighting the river, blames “my dear mother, who bewitched me with lies” (*Iliad* 21.276; see [[thetis]]). Calypso “always with gentle and wheedling talk / … bewitches him, so that he may forget Ithaca” (*Odyssey* 1.56–57; see [[calypso]]), and Aegisthus, while the Achaeans fought at Troy, “kept bewitching the wife of Agamemnon with many words” (*Odyssey* 3.264; see [[aegisthus]]). In the later books Eumaeus bids the beggar not to bewitch him with lies (*Odyssey* 14.387); Telemachus, before he knows his father, thinks that some god bewitches him to make him grieve the more (*Odyssey* 16.194–195); the suitors' knees are loosened and their hearts bewitched with love at the sight of Penelope (*Odyssey* 18.212), and she bewitches their hearts with soothing words while she draws gifts from them, “but her mind was set on other things” (*Odyssey* 18.281–283, plain renderings).
 
-**Song.** Penelope calls the songs of Phemius “enchantments for mortals” (θελκτήρια, *Odyssey* 1.337; see [[phemius]] and [[singers]]). The Sirens bewitch all men who come near them, with their clear song (λιγυρῇ θέλγουσιν ἀοιδῇ, *Odyssey* 12.39–44, a plain rendering). Eumaeus tells Penelope that the stranger's tales would bewitch her heart, as a man gazes at a singer taught by the gods: “so he bewitched me, sitting beside me in my halls” (*Odyssey* 17.513–521, a plain rendering), and when Odysseus breaks off his tale to the Phaeacians, “they were held by a spell throughout the shadowy halls” (κηληθμῷ, *Odyssey* 11.334 = 13.2, a plain rendering; see [[the-tale-to-alcinous]]).
+**Song.** Penelope calls the songs of Phemius “enchantments for mortals” (θελκτήρια, *Odyssey* 1.337; see [[phemius]] and [[singers]]). The Sirens bewitch all men who come near them, with their clear song (λιγυρῇ θέλγουσιν ἀοιδῇ, *Odyssey* 12.39–44, a plain rendering). Eumaeus tells Penelope that the stranger's tales would bewitch her heart, as a man gazes at a singer taught by the gods: “so he bewitched me, sitting beside me in my halls” (*Odyssey* 17.513–521, a plain rendering), and when Odysseus breaks off his tale to the Phaeacians, “they were held by a spell throughout the shadowy halls” (κηληθμῷ, *Odyssey* 11.334; again 13.2; see [[the-tale-to-alcinous]]).
 
 **Drugs.** Circe bewitches with drugs, and the drugs work on body and mind together: her wolves and lions were bewitched by them, the companions forget their native land and are turned into swine, and Odysseus alone, with Hermes' drug, has a mind that “cannot be bewitched” (*Odyssey* 10.213, 10.236–240, 10.291, 10.318, 10.326–329; see [[circe]], [[drugs]] and the note on *Odyssey* 10).
 

@@ -20,7 +20,7 @@ Homer calls her “daughter of Zeus” (Διὸς θυγάτηρ, Od. 11.217) an
 
 ## Descriptions
 
-ἐπαινή, “dread” (9.457, 9.569; Od. 10.491, 10.534, 10.564, 11.47; see [[dread]]), is hers alone, always in the formula ἐπαινὴ Περσεφόνεια. In the Odyssey she is also ἀγαυή, “illustrious” (Od. 11.213, 11.226, 11.635), and ἁγνή, “holy” (Od. 11.386).
+ἐπαινή, “dread” (9.457, 9.569; Od. 10.491, 10.534, 10.564, 11.47; see [[dread]]), is hers alone, always in the formula ἐπαινὴ Περσεφόνεια. In the Odyssey she is also ἀγαυή, “noble” (Od. 11.213, 11.226, 11.635), and ἁγνή, “holy” (Od. 11.386).
 
 ## In Homer
 
@@ -30,7 +30,7 @@ In the Iliad she is named twice, both times in Phoenix's speech and both times i
 
 In the story of Meleager his mother beats the earth with her hands, “calling on Hades and dread Persephone” to give death to her son, and the Erinys hears her (9.568–572; see [[the-flight-of-phoenix]], [[the-death-of-meleager]], [[erinyes]] and [[curses]]). Prayers for harm go down to the powers below.
 
-The Odyssey shows her realm, to which Circe sends Odysseus alive: by her gift the seer Teiresias alone of the dead keeps his mind, her groves stand on the farther shore of Oceanus, and the living who come there pray to her and to Hades over the slaughtered sheep (*Odyssey* 10.490–540, 11.46–47; see the Book 10 note). She sends up the souls of the women of the heroic age and scatters them again (Od. 11.225–227, 11.385–386). When Odysseus tries three times to embrace his mother's shade, he asks whether Persephone has sent him a mere image to make him grieve the more, and his mother answers that “Persephone, daughter of Zeus” is not deceiving him; this is the way of mortals when they die (Od. 11.210–222). At last he fears that she will send up the Gorgon's head from Hades, and he flees (Od. 11.632–636).
+The Odyssey shows her realm, to which Circe sends Odysseus alive: by her gift the seer Teiresias alone of the dead keeps his mind, her groves stand on the farther shore of Oceanus, and the living who come there pray to her and to Hades over the slaughtered sheep (*Odyssey* 10.490–540, 11.46–47). Among the dead she is the power who acts, while Hades is never seen: she sends up the souls of the heroines and scatters them again, and Odysseus fears that she will send the Gorgon's head against him out of Hades (*Odyssey* 11.225–227, 11.385–386, 11.633–635; see the Book 10 and Book 11 notes).
 
 ## Outside Homer
 

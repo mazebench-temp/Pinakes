@@ -1,0 +1,6 @@
+---
+summary: Named once, in Odysseus' answer to Agamemnon: Zeus has hated the house of Atreus through the plans of women, “from of old: for Helen's sake many of us perished” (11.438).
+# Ἑλένης (11.438) is claimed by the entry.
+---
+
+“Ah, truly far-seeing Zeus has hated the offspring of Atreus / terribly, through the plans of women, / from of old: for Helen's sake many of us perished, / and against you Clytemnestra was preparing a snare while you were far away” (11.436–439; see [[agamemnon]], [[clytemnestra]] and [[atreus]]). Zeus, W. W. Merry explains, made the intrigues of Helen and of Clytemnestra the means of working out his enmity, and ἐξ ἀρχῆς is “of old” (*Commentary on the Odyssey*, 1886, on 11.437, 11.438). Helen is the wife of Agamemnon's brother, the cause of the war that killed so many at Troy (see [[menelaus]] and [[the-abduction-of-helen]]). When Odysseus announced the tale of the companions who perished in their homecoming “by the will of an evil woman” (11.384), Eustathius and the scholia thought that Helen, the beginner of the evil, might be meant; Merry holds that the woman is Clytemnestra (Merry on 11.384). Among the heroines Odysseus sees Leda, the mother of Castor and Polydeuces, but the poem does not call her Helen's mother (11.298–300; see [[leda]], [[castor]] and [[polydeuces]]).

@@ -1,0 +1,27 @@
+---
+title: Lucretius on the punishments of Acheron
+greek: λᾶαν ἄνω ὤθεσκε ποτὶ λόφον
+kind: anecdote
+tags: [philosophy]
+summary: In the third book of On the Nature of Things Lucretius argues that the punishments told of deep Acheron are all in our life. No Tantalus fears a rock hanging over him, but men fear the gods; no birds tear Tityos, but anguish tears the lover; Sisyphus is the man who seeks office from the people and always comes away beaten; and the leaking jar of the Danaids is the mind that is never filled. The sinners are those of Odysseus' last sights in Odyssey 11, with the rock of the later Tantalus.
+aliases: [hic Acherusia fit stultorum denique vita, Lucretius on the punishments of the dead]
+source: Lucretius, On the Nature of Things 3.978–1023
+of: [tantalus, tityus, sisyphus, lucretius]
+refs: [Od. 11.576-600]
+passages:
+  - Od. 11.576-600 | Tityus, Tantalus and Sisyphus
+---
+
+{{quote:8c271baf-c5ae-557d-8c53-d4b188dc5f6f}}
+
+**The argument.** The third book of *On the Nature of Things* sets out to prove that the mind is mortal, and concludes that death is nothing to us, *nil igitur mors est ad nos* (*On the Nature of Things* 3.830). Near its end Lucretius turns to the stories of the underworld: “And surely whatever things are told to be in deep Acheron, all of them are in our life” (*On the Nature of Things* 3.978–979, plain renderings throughout; see [[lucretius]]). He takes three sinners and a fourth punishment, and shows each one in the living.
+
+**Tantalus.** “No wretched Tantalus, as the story goes, numb with empty dread, fears the great rock hanging over him in the air; rather, in life, an empty fear of the gods presses on mortals, and they fear the fall that chance may bring to each” (*On the Nature of Things* 3.980–983; see [[tantalus]]). Lucretius' Tantalus is not Homer's, who stands in a lake with the water at his chin and fruit above his head (*Odyssey* 11.582–592), but the Tantalus of the rock, the form of the story that, as W. W. Merry notes, the tragedians and lyric poets mostly follow (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.582); Euripides' Electra tells of it at the start of the *Orestes* (*Orestes* 4–10), and Cicero makes the same rock the image of the fear of evils to come (*Tusculan Disputations* 4.35; see [[cicero]]).
+
+**Tityos.** “Nor do birds enter Tityos as he lies in Acheron, nor can they find in all eternity anything to search for beneath his great breast. However vast the sprawl of his body, though he covered with his outstretched limbs not only nine *iugera* but the whole round of the earth, he could not bear pain for ever, or always give food from his own body.” Then the answer: *sed Tityos nobis hic est, in amore iacentem / quem volucres lacerant atque exest anxius angor / aut alia quavis scindunt cuppedine curae*, “But Tityos is here among us, the man lying in love, whom birds tear and anxious anguish devours, or cares rend with some other desire” (*On the Nature of Things* 3.984–994; see [[tityus]]). The nine *iugera* are Homer's nine plethra, and the birds his vultures (*Odyssey* 11.577–578). Lucretius' objection, that the body would run out, is the very point that Virgil answers with a liver that grows again (*Aeneid* 6.598–600; see [[virgil-the-punished-in-tartarus]]).
+
+**Sisyphus.** “Sisyphus too is in life before our eyes, the man who has set his heart on seeking from the people the rods and the cruel axes, and always comes away beaten and sad. For to seek power, which is empty and never given, and always to endure hard toil for it, this is to push, straining, a stone up the face of a mountain, which even so, from the very summit, rolls back again and makes headlong for the levels of the open plain”, *volvitur et plani raptim petit aequora campi* (*On the Nature of Things* 3.995–1002; see [[sisyphus]]). The picture is Homer's: Sisyphus braces himself and pushes the stone toward the crest, and whenever he is about to heave it over the top, “back then to the plain rolled the shameless stone” (*Odyssey* 11.595–598; see [[shameless-stone]]). The rods and axes are the fasces of the Roman magistrates.
+
+**The Danaids and the rest.** The fourth punishment is not Homer's: to feed the ungrateful nature of the mind and never fill it, as the seasons bring round their fruits and we are never filled with the fruits of life, is what they tell of the girls in the flower of their age pouring water into a leaking jar that can never be filled (*On the Nature of Things* 3.1003–1010). Cerberus, the Furies, the lack of light and Tartarus belching dreadful heat from its jaws neither exist nor can exist; but in life there is the fear of punishment for evil deeds, the prison, the hurling from the rock, the scourges and the executioners, and even when these are absent the mind, conscious of its deeds, goads and lashes itself and fears that they will grow heavier in death: *hic Acherusia fit stultorum denique vita*, “here at last the life of fools becomes an Acheron” (*On the Nature of Things* 3.1011–1023).
+
+**After.** The next lines give the reader words to say to himself, that even good Ancus has left the light (*On the Nature of Things* 3.1024–1052; see [[lucretius-on-the-great-dead]]). Plato, who also took the sinners of Homer's Nekyia for examples, made them the warnings that the incurable give to the dead in Hades (*Gorgias* 525c–e; see [[plato-thersites]] and [[tantalus]]).

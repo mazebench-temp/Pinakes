@@ -15,23 +15,25 @@ passages:
 
 ## Etymology
 
-Walter Leaf takes Ἀριάδνη for a Cretan form of Ἀριάγνη, citing the gloss of Hesychius ἀδνόν· ἁγνόν, Κρῆτες, that is, the Cretans said ἀδνός for ἁγνός, “pure, holy” (*Commentary on the Iliad*, 1900, on 18.592). With ἀρι-, the intensive prefix of ἀρίζηλος (18.219, 18.519), Ἀριάγνη would be “most holy”. Leaf adds that in Crete she was also called Aridela, that what is told of her on Delos and Naxos seems to show a local goddess of the islands, and that in Cyprus she was connected with Aphrodite.
+Walter Leaf takes Ἀριάδνη for a Cretan form of Ἀριάγνη, citing the gloss of Hesychius ἀδνόν· ἁγνόν, Κρῆτες, that is, the Cretans said ἀδνός for ἁγνός, “pure, holy” (*Commentary on the Iliad*, 1900, on 18.592). With ἀρι-, the intensive prefix of ἀρίζηλος (18.219, 18.519), Ἀριάγνη would be “most holy”. Leaf adds that in Crete she was also called Aridela, that what is told of her on Delos and Naxos seems to show a local goddess of the islands, and that in Cyprus she was connected with Aphrodite. W. W. Merry, citing the same gloss, notes that the form Ἀριάγνη is actually found on a vase, and suggests that she may stand for the fertile powers of the soil (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.321).
 
 ## Descriptions
 
 - καλλιπλόκαμος, “of the lovely tresses” (18.592), Homer's epithet for Demeter, Thetis, Ariadne and Circe (14.326, 18.407; *Odyssey* 10.220; see [[of-the-lovely-tresses]]).
-- καλή, “fair” (*Odyssey* 11.321).
+- καλή, “beautiful” (*Odyssey* 11.321).
 - In Hesiod ξανθή, “fair-haired” (*Theogony* 947).
 
 ## In Homer
 
 The Iliad names her only in the comparison for the dance on the shield of Achilles: Hephaestus inlays a dancing floor “like the one that once in wide Cnossus / Daedalus fashioned for Ariadne of the lovely tresses” (18.591–592; see [[the-dancing-floor-of-ariadne]], [[daedalus]] and [[cnossus]]). The poem does not say what the dancing floor was for.
 
-The *Odyssey* gives her story in five verses. Among the women whom Odysseus sees in the underworld are “Phaedra and Procris and fair Ariadne, / daughter of baneful-minded Minos, whom Theseus once / was bringing from Crete to the hill of sacred Athens, / but had no joy of her: before that Artemis killed her / in sea-girt Dia, on the testimony of Dionysus” (*Odyssey* 11.321–325; see [[minos]], [[theseus]], [[artemis]] and [[dionysus]]). What Dionysus testified, and why, is not said.
+The Odyssey gives her story in five verses, among the heroines whom Odysseus sees in the land of the dead: Theseus was bringing her from Crete to Athens, but before that Artemis killed her in sea-washed Dia, on the testimony of Dionysus (*Odyssey* 11.321–325; see [[minos]], [[theseus]], [[artemis]], [[dionysus]] and [[dia]]). What Dionysus testified, and why, is not said.
+
+{{notes}}
 
 ## Outside Homer
 
-Hesiod makes her the wife of Dionysus: “golden-haired Dionysus made fair-haired Ariadne, / the daughter of Minos, his blooming wife, / and the son of Cronus made her immortal and ageless for him” (*Theogony* 947–949; see [[hesiod]] and [[ageless]]).
+Hesiod makes her the wife of Dionysus: “golden-haired Dionysus made fair-haired Ariadne, / the daughter of Minos, his blooming wife, / and the son of Cronus made her immortal and ageless for him” (*Theogony* 947–949; see [[hesiod]] and [[ageless]]). In Euripides' *Hippolytus* her sister Phaedra, sick with love, remembers her mother's love and then her sister, “bride of Dionysus”, Διονύσου δάμαρ (*Hippolytus* 337–341; see [[phaedra]] and [[euripides]]). Merry gives the common account: she was the daughter of Minos and Pasiphae and gave Theseus the clue by which he threaded the labyrinth and killed the Minotaur, and Theseus deserted her in Dia, that is Naxos, where Dionysus took her as his wife (on *Odyssey* 11.321–322).
 
 In Apollodorus she falls in love with Theseus when he comes to Crete among the young Athenians sent to the Minotaur, and offers to help him if he will take her to Athens as his wife. He swears it; she asks Daedalus for the way out of the labyrinth, and at his suggestion gives Theseus a thread, which he ties to the door and draws after him. Theseus kills the Minotaur and comes by night with Ariadne and the young Athenians to Naxos, where Dionysus falls in love with her, carries her off to Lemnos, and has by her Thoas, Staphylus, Oenopion and Peparethus (*Epitome* 1.8–9; see [[apollodorus]]).
 

@@ -15,4 +15,4 @@ Most of the Mysian entry is given to the death of its augur ([[ennomus]], [[the-
 
 ## Outside Homer
 
-In the *Cypria*, as Proclus summarizes it, the Achaeans first landed by mistake in Teuthrania, in Mysia, and sacked it, taking it for Troy. The Mysian king Telephus was wounded by Achilles and later healed by him. Telephus' son Eurypylus came to help Troy and was killed by Neoptolemus (*Little Iliad*; Odyssey 11.519–521).
+In the *Cypria*, as Proclus summarizes it, the Achaeans first landed by mistake in Teuthrania, in Mysia, and sacked it, taking it for Troy. The Mysian king Telephus was wounded by Achilles and later healed by him. Telephus' son Eurypylus came to help Troy and was killed by Neoptolemus (*Little Iliad*; *Odyssey* 11.519–521; see [[ceteians]]).

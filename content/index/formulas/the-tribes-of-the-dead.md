@@ -16,6 +16,6 @@ of: [psyche]
 
 ## Use
 
-Circe gives the order of the rite: “But when you have begged the glorious tribes of the dead with prayers,” Odysseus is to sacrifice a ram and a black ewe, and many souls will come (*Odyssey* 10.526–530). Merry takes κλυτά, “glorious,” as more than an ornament, since most of those who will appear are heroes or famous women (Merry, *Commentary on the Odyssey*, 1886, on 10.526). In *Odyssey* 11 Odysseus begs them “with vows and prayers” (εὐχωλῇσι λιτῇσί τε, *Odyssey* 11.34, a plain rendering), and at the end of his tale “the countless tribes of the dead” gather with a wondrous din, so that pale fear takes him and he goes back to the ship (ἔθνεʼ … μυρία νεκρῶν, *Odyssey* 11.632–633, a plain rendering). See [[the-strengthless-heads]], [[the-dead-who-have-died]] and [[psyche]].
+Circe gives the order of the rite: “But when you have begged the glorious tribes of the dead with prayers,” Odysseus is to sacrifice a ram and a black ewe, and many souls will come (*Odyssey* 10.526–530). Merry takes κλυτά, “glorious,” as more than an ornament, since most of those who will appear are heroes or famous women (Merry, *Commentary on the Odyssey*, 1886, on 10.526). In *Odyssey* 11 the phrase opens the rite, when Odysseus begs the tribes as Circe bade him, and closes his tale, when their countless tribes gather and he goes back to the ship in fear. See [[the-strengthless-heads]], [[the-dead-who-have-died]] and [[psyche]].
 
 {{notes}}

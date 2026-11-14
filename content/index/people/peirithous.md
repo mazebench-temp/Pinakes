@@ -21,7 +21,7 @@ Peirithous is a son of Zeus. The Catalogue calls him the son “whom immortal Ze
 
 ## Elsewhere in Homer
 
-The Odyssey places the quarrel of the Centaurs and men in his house: the Centaur Eurytion, maddened by wine, did evil “in the hall of great-hearted Peirithous”, and the heroes dragged him out and cut off his ears and nose (*Odyssey* 21.295–304; see [[centaurs]]). In the underworld Odysseus would have stayed to see Theseus and Peirithous, “glorious children of the gods”, had the dead not crowded around him (*Odyssey* 11.630–635; see [[theseus]]).
+The Odyssey places the quarrel of the Centaurs and men in his house: the Centaur Eurytion, maddened by wine, did evil “in the hall of great-hearted Peirithous”, and the heroes dragged him out and cut off his ears and nose (*Odyssey* 21.295–304, a plain rendering; see [[centaurs]]). Among the dead Odysseus would have waited to see Theseus and Peirithous, “glorious children of the gods”, had the dead not gathered around him (*Odyssey* 11.630–633; see [[theseus]] and [[theseus-line]]).
 
 ## Outside Homer
 

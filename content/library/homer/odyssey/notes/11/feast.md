@@ -1,0 +1,12 @@
+---
+summary: Telemachus “feasts at equal feasts”, such as befit a man who gives judgment (11.185–186); Aegisthus killed Agamemnon when he had “feasted me”, and his men were slaughtered like hogs killed in a rich man's house “for a wedding, or a shared feast, or a rich banquet”, around the mixing bowl and the laden tables (11.409–420); and Heracles himself “takes his delight in their feasts” among the gods (11.602–603).
+# δαίνυται (11.186), ἐράνῳ (11.415), θαλίῃς (11.603).
+grc: [δαίνυται, ἐράνῳ, θαλίῃς]
+en: [feasts, shared feast]
+---
+
+**At home.** Anticleia tells Odysseus that his son holds the domains undisturbed “and feasts at equal feasts, / such as it is fitting for a man who gives judgment to attend; / for all men invite him” (11.185–187; see [[telemachus]] and [[themis]]): he is admitted, young as he is, to the royal honors, the fairly portioned feasts that are the privilege of a king as the dispenser of justice (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.184; ἀλεγύνω “attend”, Merry “partaking”: the Odyssey translation's table of key words, δαῖτες ἐῖσαι).
+
+**The murderous feast.** In Homer, Merry notes, Aegisthus is the murderer and a banquet the scene of the murder, where Aeschylus and Euripides make Clytemnestra kill Agamemnon in the bath (on 11.409; see [[the-murder-of-agamemnon]] and [[the-murder-of-agamemnon-in-tragedy]]). Aegisthus called him to his house “and feasted me, as one kills an ox at the manger” (δειπνίσσας, 11.410–411 = 4.535; see [[the-ox-and-the-axe]]), the asyndeton fitting the outburst of indignation and sorrow (Merry on 11.411). His companions were killed “like white-tusked hogs / that are slaughtered in the house of a rich man of great power / for a wedding, or a shared feast, or a rich banquet” (11.413–415), the three kinds of feast that Athena names when she asks Telemachus what the suitors' gathering is, “A banquet, or a wedding? For this is surely no shared feast” (1.226; see [[boar]] and [[marriage]]). The feast becomes the scene of slaughter: “around the mixing bowl and the laden tables / we lay in the hall, and the whole floor seethed with blood” (11.419–420; see [[mixing-bowl]] and [[table]]).
+
+**Among the gods.** Of Heracles Odysseus sees only his phantom, “but he himself among the immortal gods / takes his delight in their feasts, and has Hebe of the lovely ankles” (ἐν θαλίῃς, 11.602–603; see [[heracles]], [[hebe]] and [[immortality]]).

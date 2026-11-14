@@ -1,0 +1,11 @@
+---
+summary: Odysseus tells the story within his account of Chloris, from the side of Neleus' house (11.287–297): the price Neleus set on his daughter Pero, the cattle of Iphiclus, the seer who promised to drive them off and was held a year in bonds by the herdsmen, and his release when he had told his oracles. The seer is not named; the fifteenth book names him Melampus and tells the rest.
+# Unnamed: the bride-price (11.288-291); the seer's promise, bonds and release (11.291-297).
+refs: [11.288-291, 11.291-297]
+passages:
+  - 11.287-297 | Pero and the cattle of Iphiclus
+---
+
+**The price.** Pero, “a marvel to mortals”, was wooed by all who lived around, “but Neleus / would give her to no one who did not drive the broad-browed cattle with curving horns / out of Phylace, the cattle of mighty Iphiclus, / hard to drive” (11.287–291; see [[pero]], [[neleus]] and [[cattle]]). ἐδίδου, “would give”, is “was not for giving”, and ὃς μὴ … ἐλάσειε, “who did not drive”, sets a condition, not a test of ability, as if Neleus had said “unless he drives them off” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 11.289, 11.290; see the translation's note on 11.289–290). βίης Ἰφικληείης, “mighty Iphiclus”, is the periphrasis of βίη Ἡρακληείη, “mighty Heracles” (11.290; 11.601; see [[iphiclus]], [[might-of-heracles]] and the translation's key-word row for βίη Ἰφικληείη); Merry places him in Phylace on Mount Othrys in Phthiotis, son of Phylacus, with the cattle guarded by savage herdsmen (on 11.290; see [[phylace]]). The cattle were “hard to drive” because so well guarded (Merry on 11.291).
+
+**The seer.** “And these the noble seer alone promised / to drive off” (11.291–292), and failed: a fate from a god fettered him, with grievous bonds and the country herdsmen, until a year had passed and Iphiclus let him go, “when he had told all the oracles; and the plan of Zeus was being fulfilled” (11.292–297; see [[melampus]], [[plan-of-zeus]] and the translation's note on 11.295). The book stops there. It does not say that the seer drove the cattle off in the end, or whom Pero married; the fifteenth book tells that he brought the cattle to Pylos, punished Neleus, and won the girl for his brother (15.235–238, Greek only). What the oracles were is discussed under [[melampus]].

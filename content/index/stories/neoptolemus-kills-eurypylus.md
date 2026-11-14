@@ -13,6 +13,6 @@ participants: [neoptolemus, eurypylus-son-of-telephus, telephus]
 
 ## The story
 
-Odysseus tells Achilles' shade that his son “killed the son of Telephus with the bronze, the hero Eurypylus, and many of his companions, the Ceteians, were killed around him, because of a woman's gifts” (*Odyssey* 11.519–521). The gifts were Priam's, who won the help of Eurypylus' mother Astyoche, his own sister, with a golden vine. In the Little Iliad, Eurypylus came after Neoptolemus' arrival, fought brilliantly, and was killed by him (Proclus, summary of the *Little Iliad*; see [[eurypylus-son-of-telephus]] and [[neoptolemus]]). Sophocles' *Eurypylus*, partly recovered on papyrus, mourned his death (see [[eurypylus-play]]).
+Odysseus tells Achilles' shade of his son: “but what a man he slew with the bronze, the son of Telephus, / the hero Eurypylus, and many of his companions around him, / the Ceteians, were killed, for the sake of gifts to a woman” (*Odyssey* 11.519–521). The gifts were Priam's, who won the help of Eurypylus' mother Astyoche, his own sister, with a golden vine. In the Little Iliad, Eurypylus came after Neoptolemus' arrival, fought brilliantly, and was killed by him (Proclus, summary of the *Little Iliad*; see [[eurypylus-son-of-telephus]] and [[neoptolemus]]). Sophocles' *Eurypylus*, partly recovered on papyrus, mourned his death (see [[eurypylus-play]]).
 
 {{notes}}

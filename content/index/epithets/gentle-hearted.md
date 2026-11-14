@@ -3,7 +3,7 @@ title: Gentle-hearted
 greek: ἀγανόφρων
 kind: epithet
 tags: [character-and-thought, rare-word]
-summary: “Gentle of mind,” ἀγανόφρων, found once in Homer, in the narrator's judgment that Achilles was not gentle-hearted; its noun ἀγανοφροσύνη is the gentleness that Helen remembers in Hector.
+summary: “Gentle of mind,” ἀγανόφρων, found once in Homer, in the narrator's judgment that Achilles was not gentle-hearted; its noun ἀγανοφροσύνη is the gentleness that Helen remembers in Hector, and Anticleia in her son.
 aliases: [aganophron, gentle, mild]
 grc: [ἀγανόφρων]
 en: [gentle-hearted]

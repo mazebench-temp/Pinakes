@@ -1,0 +1,7 @@
+---
+summary: The souls of the dead gather to the blood “out of Erebus” (11.36–37), and the soul of Ajax, refusing to answer, goes back “into Erebus” with the others (11.563–564).
+---
+
+**Out of Erebus.** When Odysseus cuts the throats of the victims over the pit and the dark blood flows, “there gathered / out of Erebus the souls of the dead who have died” (11.36–37; see [[the-offering-to-the-dead]], [[psyche]] and [[the-dead-who-have-died]]). In Circe's directions the victims were to be turned toward Erebus (10.527–528; see the Book 10 note), and the souls come from the quarter toward which the offering was made. ὑπέξ, “up out of”, gives them a direction too: they rise from the darkness below to the pit at the edge of Oceanus, where Odysseus sits.
+
+**Into Erebus.** The book names Erebus once more, when Ajax, still angry over the arms of Achilles, “answered me nothing, but went after the other / souls of the dead who have died, into Erebus” (11.563–564; see [[ajax]] and [[the-judgment-of-arms]]). The souls come up out of the darkness to speak, and go back into it when they are done. Odysseus says that Ajax would still have spoken to him “there” (11.565), and W. W. Merry, who notes that ὅμως, “still”, is found nowhere else in the Odyssey, takes this as the first sign of a passage told as if by an eyewitness walking among the dead, where until now Odysseus had sat at the edge of the pit and questioned the souls as they came forward to the blood (*Commentary on the Odyssey*, 1886, on 11.565; see the translation's note on 11.565–567).

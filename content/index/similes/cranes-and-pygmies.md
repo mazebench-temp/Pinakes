@@ -28,7 +28,7 @@ The cranes' war is told in the words of the Achaeans' own. “Bringing slaughter
 
 ## Elsewhere in Homer
 
-The Pygmies are named only here in Homer. Cranes appear in one other line, “of geese or cranes or long-necked swans”, used for the flocks of the Asian meadow and for the birds that an eagle swoops on by a river (2.460, 15.692; see [[birds-on-the-asian-meadow]]). The same word for the cry returns in the underworld, where the clamor of the dead around Heracles is “like birds” (κλαγγὴ νεκύων … οἰωνῶν ὥς, Odyssey 11.605).
+The Pygmies are named only here in Homer. Cranes appear in one other line, “of geese or cranes or long-necked swans”, used for the flocks of the Asian meadow and for the birds that an eagle swoops on by a river (2.460, 15.692; see [[birds-on-the-asian-meadow]]). The same word for the cry returns in the underworld, where around Heracles rose “a clamor of the dead, as of birds” (κλαγγὴ νεκύων … οἰωνῶν ὥς, *Odyssey* 11.605; see [[a-clamor-as-of-birds]]).
 
 ## Outside Homer
 

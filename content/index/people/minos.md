@@ -24,20 +24,20 @@ passages:
 
 {{quote:0867d904-6ed6-5d4f-8f46-6c7e228e7a77}}
 
-Boasting over Alcathous, Idomeneus tells Deiphobus his line (see [[idomeneus]], [[deucalion]] and [[genealogy-in-battle]]). Zeus names the mother among the women he has loved: “the daughter of far-famed Phoenix, who bore me Minos and godlike Rhadamanthys” (14.321–322); later writers call her Europa (see [[europa]] and [[rhadamanthus]]). In the Odyssey, Ariadne is “the daughter of baneful-minded Minos”, whom Theseus was taking from Crete to Athens when Artemis killed her on Dia (Od. 11.321–325; see [[theseus]]), and the disguised Odysseus makes himself Minos' grandson and a younger brother of Idomeneus (Od. 19.178–184).
+Boasting over Alcathous, Idomeneus tells Deiphobus his line (see [[idomeneus]], [[deucalion]] and [[genealogy-in-battle]]). Zeus names the mother among the women he has loved: “the daughter of far-famed Phoenix, who bore me Minos and godlike Rhadamanthys” (14.321–322); later writers call her Europa (see [[europa]] and [[rhadamanthus]]). In the Odyssey, Ariadne is “the daughter of baleful Minos”, whom Theseus was taking from Crete to Athens when Artemis killed her on Dia (*Odyssey* 11.321–325; see [[theseus]] and [[ariadne]]), and the disguised Odysseus makes himself Minos' grandson and a younger brother of Idomeneus (*Odyssey* 19.178–184).
 
 ## Descriptions
 
-- Κρήτῃ ἐπίουρον, “a guardian over Crete” (13.450). ἐπίουρος is a warden or overseer; Eumaeus is ὑῶν ἐπίουρος, “overseer of the swine” (Od. 13.405, 15.39; see [[guardian-of-the-achaeans]]).
-- Διὸς ἀγλαὸς υἱός, “the splendid son of Zeus” (Od. 11.568).
-- Διὸς μεγάλου ὀαριστής, “the familiar of great Zeus” (Od. 19.179). ὀαριστής, one who shares intimate talk, occurs only here (see [[oaristys]]). In the same verse he ἐννέωρος βασίλευε at Cnossus. ἐννέωρος is elsewhere “nine years old” (18.351; Od. 10.19, 11.311), and its sense here is disputed: that he was king at nine, or that he reigned in spells of nine years, going up to Zeus every ninth year, as Plato and Strabo took it.
-- ὀλοόφρων, “baneful-minded” (Od. 11.322), the word for Atlas and Aeetes (Od. 1.52, 10.137) and for a lion and a boar (15.630, 17.21).
+- Κρήτῃ ἐπίουρον, “a guardian over Crete” (13.450). ἐπίουρος is a warden or overseer; Eumaeus is ὑῶν ἐπίουρος, “overseer of the swine” (*Odyssey* 13.405, 15.39; see [[guardian-of-the-achaeans]]).
+- Διὸς ἀγλαὸς υἱός, “the splendid son of Zeus” (*Odyssey* 11.568).
+- Διὸς μεγάλου ὀαριστής, “the familiar of great Zeus” (*Odyssey* 19.179). ὀαριστής, one who shares intimate talk, occurs only here (see [[oaristys]]). In the same verse he ἐννέωρος βασίλευε at Cnossus. ἐννέωρος is elsewhere “nine years old” (18.351; *Odyssey* 10.19, 11.311), and its sense here is disputed: that he was king at nine, or that he reigned in spells of nine years, going up to Zeus every ninth year, as Plato and Strabo took it.
+- ὀλοόφρων, “baleful” (*Odyssey* 11.322), the word for Atlas and Aeetes (*Odyssey* 1.52, 10.137), and, “deadly”, for a lion and a boar (15.630, 17.21).
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-Among the dead Odysseus saw Minos “holding a golden scepter, giving judgments to the dead, seated, while they asked the lord for justice around him” (Od. 11.568–571). The stranger in Eumaeus' hut claims to be a guest-friend of Odysseus' father, living “in Crete, where the race of Minos is” (Od. 17.522–523).
+Among the dead Odysseus sees him seated with a golden scepter, giving judgment to the dead as he did to the living (*Odyssey* 11.568–571). The stranger in Eumaeus' hut claims to be a guest-friend of Odysseus' father, living “in Crete, where the race of Minos is” (*Odyssey* 17.522–523, a plain rendering).
 
 ## Outside Homer
 
