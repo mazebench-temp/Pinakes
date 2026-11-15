@@ -6,6 +6,8 @@ tags: [weapon, vessel]
 summary: “Bright, gleaming,” a general epithet of polished and shining things: shields and spears, bowls, robes, and the moon.
 aliases: [gleaming, bright, phaeinos]
 grc: [φαεινὸν, φαεινῆς, φαεινῷ]
+# φαείνω at Od. 12.383 is the verb, “I will shine”, which the form φαεινῷ catches without its accent.
+except: [Od. 12.383]
 en: [shining]
 of: [shield, mixing-bowl]
 ---

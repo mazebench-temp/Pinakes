@@ -29,7 +29,7 @@ W. W. Merry derives the name either from τέρας, “portent”, as the inter
 
 ## Elsewhere in Homer
 
-**The prophecy remembered.** What Teiresias foretold at the pit (*Odyssey* 11.100–137; see the Book 11 note) comes back in the later books. Off the island of the Sun he hears the cattle lowing and remembers the word “of the blind seer, Theban Teiresias, / and of Circe of Aeaea”, who had told him to shun the island, and he repeats it to his men (*Odyssey* 12.264–276, a plain rendering; see [[circe]]). In Ithaca he tells Penelope that his trials are not yet over, “for so the soul of Teiresias prophesied to me / on the day when I went down into the house of Hades”, and tells her of the oar and the land that does not know the sea; and in the summary of his wanderings he tells how he went to the house of Hades “to consult the soul of Theban Teiresias” (*Odyssey* 23.248–284, 23.322–323, a plain rendering). The renderings of Books 12 and 23 here are plain renderings, not the translation.
+**The prophecy remembered.** What Teiresias foretold at the pit (*Odyssey* 11.100–137) comes back in the later books: off the island of the Sun, where Odysseus remembers it and repeats it to his men (*Odyssey* 12.264–276), and in Ithaca, where he tells Penelope that his trials are not yet over, “for so the soul of Teiresias prophesied to me / on the day when I went down into the house of Hades”, and tells her of the oar and the land that does not know the sea; and in the summary of his wanderings he tells how he went to the house of Hades “to consult the soul of Theban Teiresias” (*Odyssey* 23.248–284, 23.322–323, a plain rendering). The renderings of Book 23 here are plain renderings, not the translation.
 
 ## Outside Homer
 

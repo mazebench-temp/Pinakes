@@ -1,0 +1,40 @@
+---
+summary: Circe describes Scylla's crag and cave, her puppy's voice, her twelve feet and six heads and her fishing, and warns that she is an immortal evil, not to be fought: Odysseus must row past, call on her mother Crataeis, and lose six men rather than all. In the strait, while the companions look toward Charybdis, Scylla seizes six of the strongest and devours them at her doors (12.73–126, 12.222–259).
+# The entry claims Σκύλλη (12.85, 12.235, 12.245, 12.310), Σκύλλης (12.108, 12.125, 12.430) and Σκύλλην (12.223,
+# 12.231, 12.261, 12.445). Unnamed: her crag and cave (12.73-84), her voice, body and fishing (12.86-100), "the other"
+# (12.114), the immortal evil (12.118-123), "her" (12.126, 12.230, 12.232), the misty rock (12.233), the seizing and the
+# meal (12.246-257).
+refs: [12.73-84, 12.86-100, 12.114, 12.118-123, 12.126, 12.230, 12.232-233, 12.246-257]
+passages:
+  - 12.73-100 | Circe describes Scylla
+  - 12.112-126 | Not to be fought
+  - 12.245-259 | Scylla seizes six companions
+---
+
+**The crag.** After the Wanderers, Circe tells of the other way, between two crags (12.73; see [[the-wanderers]]). The higher reaches the sky with its sharp peak; a dark cloud never leaves it, and no mortal could climb it or set foot on its top, “not even if he had twenty hands and feet; / for the rock is sheer, like rock that is polished” (12.77–79). ἐπιβαίη, “set foot on its top”, a stage beyond ἀμβαίη, “climb”, is Aristarchus' reading for the vulgate καταβαίη (W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.77 and his critical note; see the translation's note on 12.77). In the middle of it is “a misty cave, / turned toward the darkness, toward Erebus” (12.80–81; see [[misty]] and [[erebus]]): πρὸς ζόφον gives the direction in which its mouth looks, westward, and εἰς Ἔρεβος τετραμμένον that the cave runs downward, not straight into the cliff, as μέσση … δέδυκεν (12.93) also implies (Merry on 12.81). The mouth is so high that the strongest bowman could not reach it with an arrow from the ship (12.83–84; Merry on 12.83).
+
+**Scylla.**
+
+{{quote:e0c111dd-9987-5817-9dde-d77244aa5de5}}
+
+The scholia athetized 86–88, asking how she who yelps terribly could have the voice of a newborn puppy. Merry keeps them: the contrast between her vast size and the thin, shrill cry is intentionally grotesque, a horrible shriek whose volume (ὅση) is no greater than a puppy's yelp, and the scholiast who takes ὅση for οἵα, so that the likeness is in the kind of sound and not its loudness, is explaining the contrast away (Merry on 12.86 and his critical note; see the translation's note on 12.85–88). For νεογιλής, “newborn”, the variants νεογιλλῆς and νεογηλῆς are found, and Eustathius and the Etymologicum Magnum explain it as νεογνός (Merry on 12.86). On “not even if a god should meet her” (12.88) a scholiast remarks that the poet always takes the divine as the limit of hyperbole: in pleasant things, where even an immortal would delight to see Calypso's island (5.73–74), in war, where not even Ares could make light of the ranks (*Iliad* 13.127), and in fearful things, as here (Merry on 12.88). ἄωροι, of the feet, has had seven explanations, among them “ugly”, “imperfect”, “feeble”, “pendulous” and “fore-feet”; Merry thinks “imperfect” and “pendulous” the likeliest, and the second, adopted by Curtius, carries out the picture of a monstrous polypus with swaying tentacles (Merry on 12.89; see the translation's note on 12.89, whose “dangling” is that sense). Her teeth are “full of black death” (12.92; see [[black-death]]). The scholia give a graphic picture of the Homeric Scylla, a creature of the rock grown onto the crag, coiled like a snail, with feet like tentacles; Merry compares a gigantic hermit-crab, its body hidden in the shell and its claws and head thrust out, and the monstrous polypi said to lie in wait in sea caves for anything that comes within reach (on 12.85).
+
+**Her fishing.**
+
+{{quote:63c59858-1974-53df-bbd8-bcec355d7207}}
+
+μέσση is “waist-deep” (Merry on 12.93). βέρεθρον, “the pit”, with the variant βάραθρον, comes from the root of βορά, “food”, and βιβρώσκω, “eat”, as Latin *vorago* does (Merry on 12.94). περιμαιμώωσα, “questing round”, goes with εἴ ποθι, “if anywhere” (Merry on 12.95). The κύνες, “dogfish”, are sea-dogs, a kind of swordfish according to Polybius as Strabo reports him (Merry on 12.96; Strabo, *Geography* 1.2.15; see [[dogs]], which excepts the line, and the general article for Polybius' reading of the scene), and κῆτος is any great creature of the sea, “of which loud-moaning Amphitrite feeds countless numbers” (12.97; see [[sea-beasts]] and [[amphitrite]]). No sailors can boast that they have fled her “unharmed with their ship”, ἀκήριοι (12.98–99), a word from κήρ that is said once more in the Odyssey, of the men who never escaped Scylla (23.328; Merry on 12.98); “for with each head she carries off / a man, snatching him from the dark-prowed ship” (12.99–100; see [[dark-prowed]]). Hence Circe's counsel, to draw close to Scylla's crag and row past quickly, “since it is far better / to miss six companions in your ship than all of them together” (12.109–110): Charybdis would take them all (see [[charybdis]]).
+
+**An immortal evil.** Odysseus asks whether he might escape Charybdis “and ward off the other, when she would harm my companions” (12.113–114; τὴν δέ is Scylla: Merry on 12.114). Circe's answer is the poem's last word on what Scylla is:
+
+{{quote:2ac3927b-ffe6-50b0-a828-531b705a00ba}}
+
+κακόν, Merry says, may almost be personified into “fiend” (on 12.118). She is ἄγριον, “savage”, as the Cyclops was (2.19, 9.215), and οὐδὲ μαχητόν, “not to be fought” (12.119). The companions called Odysseus σχέτλιε, “Hard man”, for provoking that “savage man” (9.494), and Circe calls him so for wanting to fight this one (12.116; see [[hard]]). If Odysseus lingers to arm, she will strike again with as many heads and take as many men (12.121–123): only her mother Crataeis can stop her (12.124–126; see [[crataeis]]). For Odysseus' question and the scholia's objection to the three verses on Crataeis, see [[odysseus-passes-scylla]].
+
+**In the strait.** Odysseus says nothing more of Scylla to his companions, “a vexation past remedy” (12.223), arms himself against Circe's word, and watches from the prow for “Scylla of the rock”, but cannot catch sight of her anywhere on the misty rock (12.226–233). She strikes while all eyes are on Charybdis (12.244; see [[charybdis]]):
+
+{{quote:4f676801-d764-5c5e-a157-20c203b78b2b}}
+
+She takes the six that Circe foretold (12.110, 12.123), one for each head (12.99–100), and they are the best of the crew, “who were the strongest with their hands and in strength” (12.246). The Cyclops, whose cave Odysseus had just recalled to hearten his men (12.209–212), had also eaten six, two at a time (9.289, 9.311, 9.344; see [[polyphemus-the-cyclops]]). The fisherman of the simile lands his catch on the rock (12.251–255; see [[the-fisherman]]), and Scylla eats the men “at her doors”, εἰνὶ θύρῃσι, at the mouth of her cave (12.256). For the passage, see [[odysseus-passes-scylla]].
+
+**After.** At supper on Thrinacia the companions “remembered and wept for their dear companions / whom Scylla had seized from the hollow ship and devoured” (12.309–310). After the wreck the South Wind brings Odysseus back “to Scylla's crag and to dread Charybdis” (12.430), and “the father of men and gods no longer let Scylla / see me; for then I would not have escaped sheer destruction” (12.445–446). The scholia rejected the two verses, since Scylla could not leave her cave. Merry brackets them, and suggests that ἐμέ might be the subject, Zeus not suffering Odysseus to set eyes on Scylla again; that would also explain why Zeus is his protector here, when Circe had bidden him call on Crataeis. Ameis thinks the verses were compiled from 12.223 and other lines (Merry on 12.445–446 and his critical note; see the translation's note on 12.445–446, which follows the scholia's construal).

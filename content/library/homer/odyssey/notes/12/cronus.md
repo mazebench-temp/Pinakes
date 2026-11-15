@@ -1,0 +1,6 @@
+---
+summary: Cronus is named only in his son's patronymic, twice at the end of the companions' story: “but when Zeus, son of Cronus, added the seventh day” (12.399), and “then the son of Cronus set a dark cloud / above the hollow ship” (12.405–406).
+# The entry's Κρονίων* claims Κρονίων (12.399, 12.405).
+---
+
+**The son of Cronus.** The companions feast for six days on the Sun's cattle, “but when Zeus, son of Cronus, added the seventh day, / then the wind ceased raging with its storm” (12.399–400; see [[zeus]], [[son-of-cronus]] and [[the-cattle-of-helios]]). When the ship has left the island, “then the son of Cronus set a dark cloud / above the hollow ship, and the sea grew dark beneath it” (12.405–406), and the thunderbolt follows (12.415–417). In the first verse Κρονίων follows the name, Ζεὺς … Κρονίων, filling the end of the verse; in the second it stands alone for Zeus, as when “the son of Cronus nodded with his dark brows” in the Iliad (*Iliad* 1.528; see the general article). Each verse returns in a later tale: the first in Eumaeus' story of the voyage on which he was carried off as a child (15.477), the second in the stranger's shipwreck off Crete in Book 14 (14.303). Both times the patronymic comes as Zeus brings the companions to their end, with the calm that lets them put to sea and the cloud of the storm in which he strikes.

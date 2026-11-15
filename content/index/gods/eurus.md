@@ -3,7 +3,7 @@ title: Eurus
 greek: Εὖρος
 kind: god
 tags: [personification, sea]
-summary: The East Wind. In the similes of the Iliad it blows with the South Wind, raising the waves of the sea or shaking a mountain forest; in the Odyssey it is one of the four winds that toss Odysseus' raft in Poseidon's storm, and with the South Wind it keeps his ship a month on Thrinacia.
+summary: The East Wind, usually paired in Homer with the South Wind, with which it raises the waves of the sea and shakes the mountain forests.
 aliases: [East Wind, Euros]
 grc: [Εὖρος]
 except: [Od. 11.312]
@@ -17,7 +17,7 @@ It rushes down with [[Notus]] “from the clouds of father Zeus” and heaps up 
 
 ## Elsewhere in Homer
 
-Eurus and Notus strive against each other in a mountain forest in the simile of Iliad 16.765–769. On Thrinacia no wind blows for a month but these two (Odyssey 12.325–326), and in the storm that wrecks Odysseus' raft all four winds rush together (Odyssey 5.295–296).
+Eurus and Notus strive against each other in a mountain forest in the simile of *Iliad* 16.765–769. On Thrinacia no wind blows for a month but these two (*Odyssey* 12.325–326), and in the storm that wrecks Odysseus' raft all four winds rush together (*Odyssey* 5.295–296).
 
 ## Outside Homer
 

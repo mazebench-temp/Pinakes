@@ -1,0 +1,12 @@
+---
+summary: Outvoted on Thrinacia, Odysseus makes the companions swear “a mighty oath” that if they find a herd of cattle or a flock of sheep, no one will kill a cow or a sheep, but they will eat the food Circe gave (12.297–304); when the food is gone and he sleeps, they kill the cattle (12.339–365).
+# ὀμόσσατε (12.298; again 18.55), ἀπώμνυον (12.303; again 18.58), ὄμοσάν (12.304; again 15.438, 18.59).
+grc: [ὀμόσσατε, ἀπώμνυον, ὄμοσάν]
+en: [mighty oath, oath]
+---
+
+**The oath demanded.** When Eurylochus has won the companions over to landing for supper, Odysseus knows “that a god was devising evil” and yields, “one man alone”, in a minority of one (12.295–297; W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.297; see [[eurylochus]] and [[daimon]]). What he cannot forbid he binds with an oath: “But come now, all of you, swear me a mighty oath: / if we find a herd of cattle or a great flock of sheep, / that no one, in evil recklessness, / will kill a cow or a sheep; but at your ease / eat the food that immortal Circe gave” (12.298–302; see [[atasthalie]] and [[cattle]]). After the oath one expects an infinitive, “not to kill”; the verse runs on instead in a clause of prohibition, μή … ἀποκτάνῃ, as in the oath the suitors will swear in Book 18, ὀμόσσατε … μή τις … πλήξῃ (Merry on 12.299; 18.55–57). The first verse is the same there, when the beggar Odysseus makes the suitors swear that none of them will strike him to help Irus (18.55, a plain rendering).
+
+**The oath sworn.** “So I spoke, and at once they swore that they would not, as I bade them. / But when they had sworn and completed the oath” (12.303–304): the verses in which Circe swore to Odysseus, with the companions for her (10.345–346; see [[oath-formulas]]). ἀπώμνυον is the verb of an oath not to do something, as when Eurycleia swore not to tell (2.377; Merry on 12.303). The words of the oath, and the gods it named, are not given; what binds is its content, the cattle and the sheep.
+
+**The oath broken.** The men keep it while the bread and wine last, “longing for life” (12.327–328). When the provisions are spent and Odysseus has gone up the island to pray, Eurylochus persuades them that death by hunger is the worst of deaths, and they drive off the best of the cattle and sacrifice them (12.339–365; see [[all-deaths-are-hateful]], [[sacrifice]] and [[oaths-and-their-breaking]]). Neither he nor Odysseus speaks of the oath again. Odysseus rebukes them one by one, “but we could find / no remedy, for the cattle were already dead” (12.392–393; see [[neikos]]).

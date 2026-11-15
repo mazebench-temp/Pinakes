@@ -1,0 +1,5 @@
+---
+summary: The cattle of the Sun have no offspring: “And no young are born of them, / nor do they ever die” (12.130–131).
+---
+
+Circe describes the herds: seven herds of cattle and as many flocks of sheep, fifty in each, “And no young are born of them, / nor do they ever die” (γόνος δʼ οὐ γίγνεται αὐτῶν, / οὐδέ ποτε φθινύθουσι, 12.129–131; see [[cattle]], [[sheep]] and [[thrinacia]]). The herds are outside generation, neither born nor dying, as the gods are, and their number never changes. Aristotle read the numbers as a statement of nature: seven herds of fifty are three hundred and fifty, the days of the twelve lunar months, and so there is neither generation nor destruction among them, for the number of such days stays always the same (*Homeric Problems* fr. 398 Gigon; W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.129, reports the allegory from Eustathius; see [[numbers-and-counting]] and [[the-cattle-of-helios]]). The companions, who kill them, are the ones who die (12.417–419).

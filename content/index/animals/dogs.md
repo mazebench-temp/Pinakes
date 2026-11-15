@@ -6,6 +6,7 @@ tags: [livestock, insult]
 summary: The dog, κύων, guard of herds and houses, hunter, and eater of the unburied dead. In abuse it stands for shamelessness.
 aliases: [dog, dog-face, hounds]
 grc: [κύνεσσιν, κύνας, κυνῶπα, κυνὸς]
+except: [Od. 12.96]
 en: [dogs, dog]
 ---
 

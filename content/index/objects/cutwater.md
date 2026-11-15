@@ -4,7 +4,7 @@ greek: στείρη
 kind: object
 tags: [ship, seafaring]
 summary: The forward edge of the keel, στείρη, around which the wave roars as a ship runs before the wind, in the verses of the Iliad's voyage home from Chryse and of Telemachus' voyage from Ithaca.
-aliases: [keel, stem, steire]
+aliases: [stem, steire]
 grc: [στείρῃ]
 refs: [1.481]
 en: [cutwater]

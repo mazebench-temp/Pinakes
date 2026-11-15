@@ -3,7 +3,7 @@ title: Bountiful earth
 greek: χθὼν πουλυβότειρα
 kind: epithet
 tags: [cosmic]
-summary: “The earth that feeds many,” a line-end formula for the ground on which men stand, lay down their arms, and fall.
+summary: “The earth that feeds many,” a line-end formula for the earth on which men live: the ground on which they stand, lay down their arms, and fall.
 aliases: [earth that feeds many, poulyboteira]
 grc: [χθονὶ πουλυβοτείρῃ, χθόνα πουλυβότειραν]
 en: [bountiful earth]

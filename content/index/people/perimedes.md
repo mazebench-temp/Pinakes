@@ -6,9 +6,9 @@ tags: [achaean, phocis]
 summary: Father of the Phocian leader [[schedius-son-of-perimedes|Schedius]], whom Hector kills at the ships, named only in his son's title (15.515).
 aliases: [Perimedes father of Schedius]
 # Περιμήδεος (15.515) occurs only here. The Odyssey's Perimedes, a companion of Odysseus (Περιμήδης, Od. 11.23,
-# 12.195), is another man: his English name is excepted at Od. 11.23 (12.195 to add with its book).
+# 12.195), is another man: his English name is excepted at Od. 11.23 and 12.195.
 grc: [Περιμήδεος]
-except: [Od. 11.23]
+except: [Od. 11.23, Od. 12.195]
 relations:
   - child: schedius-son-of-perimedes (15.515)
 ---

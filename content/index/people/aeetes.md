@@ -29,10 +29,6 @@ He is the brother of Circe, and the poem gives the two of them their parents in 
 
 {{notes}}
 
-## Elsewhere in Homer
-
-Circe, warning Odysseus of the Wandering Rocks, says that no ship of men that comes there has ever escaped them save one: “only that one seafaring ship sailed past, / the Argo, known to all, as she sailed from Aeetes; / and the wave would soon have dashed her against the great rocks, / but Hera sent her through, since Jason was dear to her” (*Odyssey* 12.69–72, a plain rendering; see [[jason]] and [[hera]]).
-
 ## Outside Homer
 
 In Hesiod, Jason, son of Aeson, led away the daughter of Aeetes, “the king nurtured by Zeus”, from Aeetes after finishing the many hard labors that Pelias had laid on him, and brought her to Iolcus on his swift ship (*Theogony* 992–999). In Herodotus' account of the women carried off by Greeks and Asians in turn, Greeks sailed in a long ship to “Aea in Colchis” and the river Phasis and carried off the king's daughter Medea, and it was to Aea that the Argonauts sailed for the fleece (Herodotus 1.2.2, 7.193.2; see [[herodotus]]). Strabo held that the voyage was history: Aea is shown as a city near the Phasis, Aeetes is believed to have ruled Colchis, and his name is native there; Medea is reported to have been a sorceress, and the gold, silver and iron of the country gave a reason for the expedition (*Geography* 1.2.39). Homer agrees with history, he says, when he names Aeetes, speaks of Jason and the Argo, forms Aeaea from Aea, and makes Circe a sorceress after the pattern of Medea, “own sister of baleful Aeetes”; his addition was to move the wanderings that followed that voyage out into Oceanus. Demetrius of Scepsis, citing Mimnermus, put the dwelling of Aeetes in Oceanus toward the sunrise, which Strabo rejects (*Geography* 1.2.40; see [[strabo]] and [[aeaea]]).

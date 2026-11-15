@@ -1,0 +1,7 @@
+---
+summary: The fathers of the book are gods: “father Zeus”, to whom the doves bring ambrosia and who sends in another to make up their number (12.63–65), the “Father Zeus” of the address that Odysseus and the Sun both use (12.371, 12.377), and “the father of men and gods”, who keeps Scylla from seeing Odysseus (12.445); and the Sun, whose daughters guard “their father's sheep” (12.136).
+---
+
+**Zeus.** The doves that pass the Wanderers “carry ambrosia to father Zeus”, and when the sheer rock takes one, “the father sends in another to make up the number” (12.62–65; see [[zeus]] and [[doves]]). W. W. Merry denies any link with the later story of doves feeding Zeus in Crete, and thinks of the Pleiads, six of the seven visible (*Commentary on the Odyssey*, 1886, on 12.62). Odysseus, waking to the smell of the sacrifice, and the Sun, demanding vengeance, call on the gods in the same verse, “Father Zeus, and you other blessed gods who live forever” (12.371, 12.377; see [[prayer]] and [[father-of-men-and-gods]]). After the wreck “the father of men and gods no longer let Scylla / see me” (12.445–446; see [[divine-intervention]]).
+
+**The Sun.** Neaera settled her daughters on Thrinacia “to dwell far off / and guard their father's sheep and his cattle with curving horns” (μῆλα φυλασσέμεναι πατρώια, 12.135–136; see [[phaethusa]], [[lampetie]], [[neaera]] and [[helios]]). The herds the companions kill are a father's property guarded by his children, and it is one of them, Lampetie, who runs to tell him (12.374–375).

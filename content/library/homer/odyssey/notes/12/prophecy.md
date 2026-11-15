@@ -1,0 +1,10 @@
+---
+summary: Circe's instructions are a second prophecy, given in the living world: the Sirens, the two ways, Scylla and Charybdis, and the cattle of the Sun, whose warning repeats Teiresias' verses (12.37–141). Odysseus shares the oracles with his companions (12.154–157), remembers both prophets when he hears the cattle lowing (12.266–275), and the book fulfills what they foretold.
+refs: [12.137-141, 12.154-157, 12.266-275]
+---
+
+**Circe's word.** Teiresias foretold the homecoming and its condition; Circe tells the way, stage by stage, and leaves him one choice, between the Wanderers and the two crags (12.37–141, 12.55–58; see [[circe]] and [[odysseus-and-circe]]). Her warning about the cattle is Teiresias' own, in his verses: “but if you harm them, then I foretell destruction for you, / for your ship and your companions” (τεκμαίρομʼ ὄλεθρον, 12.139–140 = 11.112–113; see [[the-prophecy-of-teiresias]] and the Odyssey translation's table of key words, τεκμαίρομαι). Odysseus will not keep it to himself: “it is not right that only one or two should know / the oracles that Circe told me” (θέσφαθʼ, 12.154–155; see [[thesphaton]]).
+
+**Remembered.** Off Thrinacia, at the lowing of the cattle, “there fell upon my heart the word / of the blind seer, Theban Teiresias, / and of Circe of Aeaea, who charged me again and again / to avoid the island of the Sun, who gladdens mortals” (12.266–269), and he repeats it to the companions, “so that I may tell you the prophecies of Teiresias” (12.272; see [[teiresias]], [[the-blind-seer]] and [[divination]]).
+
+**Fulfilled.** Everything comes as foretold. The Sirens sing as Circe said; Scylla takes six men, as she said it would be better to lose six than all (12.109–110, 12.245–246); the ship is destroyed and the companions with it, and Odysseus escapes alone, to come home late and in evil plight (12.139–141, 12.403–419; see [[the-cattle-of-helios]]). Only Charybdis is met twice, the second time not foretold (12.426–446; see [[odysseus-passes-scylla]]).

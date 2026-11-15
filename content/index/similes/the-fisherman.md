@@ -3,11 +3,11 @@ title: The fisherman
 greek: πέτρῃ ἔπι προβλῆτι καθήμενος ἱερὸν ἰχθὺν
 kind: simile
 tags: [sea, warfare]
-summary: Patroclus spears Thestor through the jaw as he sits in his chariot, out of his wits, and drags him gaping over the rail on the spear, as a man sitting on a jutting rock drags a fish out of the sea with line and bronze (16.401–410). It is the Iliad's only fisherman.
-aliases: [the angler, like a fish on a hook, the sacred fish, Thestor like a fish]
+summary: A man fishing from a jutting rock, the likeness of a man killed. Patroclus drags Thestor gaping over the rail of his chariot on his spear, as a man sitting on a jutting rock drags a fish out of the sea with line and bronze (16.401–410); and Scylla lifts six of Odysseus' companions, gasping, toward her rocks, as an angler on a jutting rock flings a gasping fish ashore (*Odyssey* 12.251–255).
+aliases: [the angler, like a fish on a hook, the sacred fish, Thestor like a fish, Scylla's angler, the companions like fish]
 grc: ["πέτρῃ ἔπι προβλῆτι", "λίνῳ καὶ ἤνοπι", κεχηνότα]
 en: [sitting on a jutting rock, with line, dragged him gaping]
-of: [patroclus, thestor-son-of-enops]
+of: [patroclus, thestor-son-of-enops, scylla]
 passages:
   - 16.399-418 | Patroclus' killings by the ships
 ---
@@ -26,6 +26,6 @@ Patroclus has turned the Trojans back from the city and kills them between the s
 
 ## Elsewhere in Homer
 
-Fishing is a likeness for killing in the Odyssey too. The Laestrygonians spear Odysseus' men “like fish” and carry them off to a joyless meal (ἰχθῦς δʼ ὣς πείροντες, *Odyssey* 10.124; see [[like-fish]]), with the verb, πείρω, “pierce”, that drives Patroclus' spear through Thestor's teeth (πεῖρεν, 16.405). Scylla snatches six of Odysseus' companions as an angler on a headland, casting his bait with a long rod and the horn of an ox, flings a fish ashore gasping; so they gasped as they were lifted up to the rocks (*Odyssey* 12.251–255). The dead suitors lie heaped in the hall like fish that fishermen have drawn up on the beach in a net of many meshes, longing for the salt waves while the sun takes their life (*Odyssey* 22.383–388). In the Iliad the angler's tackle appears once more, when Iris plunges to the bottom of the sea like the lead weight on a lure of ox horn that goes down bringing death to the ravenous fish (24.80–82; see [[the-lead-weight]]).
+The Iliad has no other fisherman. Fishing is a likeness for killing in the Odyssey too. The Laestrygonians spear Odysseus' men “like fish” and carry them off to a joyless meal (ἰχθῦς δʼ ὣς πείροντες, *Odyssey* 10.124; see [[like-fish]]), with the verb, πείρω, “pierce”, that drives Patroclus' spear through Thestor's teeth (πεῖρεν, 16.405). Scylla snatches six of Odysseus' companions as an angler on a jutting rock, casting his bait with a long rod and the horn of an ox, flings a fish ashore gasping; so they gasped as they were lifted up to the rocks (*Odyssey* 12.251–255; see the note on *Odyssey* 12). The dead suitors lie heaped in the hall like fish that fishermen have drawn up on the beach in a net of many meshes, longing for the salt waves while the sun takes their life (*Odyssey* 22.383–388). In the Iliad the angler's tackle appears once more, when Iris plunges to the bottom of the sea like the lead weight on a lure of ox horn that goes down bringing death to the ravenous fish (24.80–82; see [[the-lead-weight]]).
 
 Fish eat the dead in *Iliad* 21. Achilles throws Lycaon into the Scamander and tells him to lie there among the fish, which will lick the blood from his wound (21.122–127), and the eels and fish tear at Asteropaeus' body in the river (21.201–204). The Trojans hiding in the river from Achilles are like small fish fleeing a dolphin (21.22–26).

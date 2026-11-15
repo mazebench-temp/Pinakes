@@ -14,13 +14,13 @@ grc: ["Ἀμφιτρίτ*"]
 
 ## Descriptions
 
-Her three Homeric epithets are in Books 5 and 12 of the Odyssey: κλυτός, “famous” (*Odyssey* 5.422), in the masculine form, as κλυτὸς Ἱπποδάμεια (2.742; see [[famous]]); κυανῶπις, “dark-eyed” (*Odyssey* 12.60), from κύανος, the dark blue enamel, and ὤψ, “eye”; and ἀγάστονος, “loud-moaning” (*Odyssey* 12.97), from ἀγα-, “very”, and στένω, “groan”, the sound of the sea.
+Her three Homeric epithets are in Books 5 and 12 of the Odyssey: κλυτός, “famous” (*Odyssey* 5.422), in the masculine form, as κλυτὸς Ἱπποδάμεια (2.742; see [[famous]]); κυανῶπις, “dark-eyed” (*Odyssey* 12.60; see [[dark-eyed]]), from κύανος, the dark blue enamel, and ὤψ, “eye”; and ἀγάστονος, “loud-moaning” (*Odyssey* 12.97; see [[loud-moaning]]), from ἀγα-, “very”, and στένω, “groan”, the sound of the sea.
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-In the Odyssey she is always the sea. Odysseus in the surf off Scheria fears that a god may send against him “some great sea monster … / out of the sea, such as famous Amphitrite breeds in great numbers” (*Odyssey* 5.421–422; see [[sea-beasts]]); at the Wandering Rocks “the great wave of dark-eyed Amphitrite roars” (*Odyssey* 12.59–61); and Scylla fishes from her cave for dolphins and dogfish and any greater beast “of the countless ones that loud-moaning Amphitrite feeds” (*Odyssey* 12.94–97). Book 12 is not yet translated, and its renderings are plain ones. Merry writes that so far as Amphitrite is personified in Homer, “she is the representative of the sea itself rather than a goddess, as she appears in later legend”, and he quotes Dissen's note on Pindar: the waves are called hers, not Poseidon's, and she is said to feed the creatures of the sea, which is not said of Poseidon (on *Odyssey* 3.91). Homer never makes her Poseidon's wife.
+In the Odyssey she is always the sea. The waves are hers, “the waves of Amphitrite” (*Odyssey* 3.91) and “the great wave of dark-eyed Amphitrite” (*Odyssey* 12.60), and she rears the creatures of the sea: Odysseus in the surf off Scheria fears “some great sea monster … / out of the sea, such as famous Amphitrite breeds in great numbers” (*Odyssey* 5.421–422; see [[sea-beasts]]), and Scylla fishes for the sea monsters that she feeds (*Odyssey* 12.97; see the Book 12 note and [[scylla]]). Merry writes that so far as Amphitrite is personified in Homer, “she is the representative of the sea itself rather than a goddess, as she appears in later legend”, and he quotes Dissen's note on Pindar: the waves are called hers, not Poseidon's, and she is said to feed the creatures of the sea, which is not said of Poseidon (on *Odyssey* 3.91). Homer never makes her Poseidon's wife.
 
 ## Outside Homer
 

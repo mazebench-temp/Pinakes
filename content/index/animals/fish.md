@@ -21,7 +21,7 @@ In the later books fish are eaters of the dead. The boar on which Agamemnon swea
 
 ## In the Odyssey
 
-Menelaus' men on Pharos and Odysseus' men on the island of the Sun fish with bent hooks because hunger is wearing them down (*Odyssey* 4.368–369, 12.330–332). Fishing is a likeness for killing: the Laestrygonians spear Odysseus' men like fish (*Odyssey* 10.124; see [[like-fish]]), Scylla lifts six of them as an angler on a headland flings a fish ashore (*Odyssey* 12.251–255), and the dead suitors lie heaped like fish that fishermen have drawn out on the beach in a net (*Odyssey* 22.383–388).
+Menelaus' men on Pharos and Odysseus' men on the island of the Sun fish with bent hooks because hunger is wearing them down (*Odyssey* 4.368–369, 12.330–332). Fishing is a likeness for killing: the Laestrygonians spear Odysseus' men like fish (*Odyssey* 10.124; see [[like-fish]]), Scylla lifts six of them as an angler on a jutting rock flings a fish ashore (*Odyssey* 12.251–255; see [[the-fisherman]]), and the dead suitors lie heaped like fish that fishermen have drawn out on the beach in a net (*Odyssey* 22.383–388).
 
 ## Outside Homer
 

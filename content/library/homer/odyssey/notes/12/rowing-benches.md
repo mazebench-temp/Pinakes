@@ -1,0 +1,7 @@
+---
+summary: The companions go on board at once and sit down at the rowing benches as the ship leaves Aeaea (12.146); before the strait Odysseus bids them strike the deep breakers with their oars, sitting at the rowing benches (12.214–215).
+---
+
+**Leaving Aeaea.** “And they went on board at once and sat down at the rowing benches, / and sitting in order they struck the gray sea with their oars” (12.146–147; see [[stern-cables]] and [[oars]]), the Odyssey's verses of boarding (9.103–104, 11.638; see the entry), though with Circe's following wind behind them the rowing hardly seems needed (see the translation's note on 12.147).
+
+**At the strait.** When the oars have fallen from their hands at the smoke and the roar, Odysseus goes from man to man: “You keep striking the deep breakers of the sea with your oars, / sitting at the rowing benches, if ever Zeus / will grant us to escape this destruction and get away” (12.214–216; see [[odysseus-passes-scylla]] and [[zeus]]). κληίδεσσιν ἐφήμενοι, “sitting at the rowing benches”, speaks for seats, as the oars bound ἐπὶ κληῖσιν of the Phaeacian ship speak for thole-pins (8.37; see the entry and the Book 8 note). The oars that fell had not gone overboard, W. W. Merry explains, but hung by their leather loops at the pins and dragged at the ship's side (*Commentary on the Odyssey*, 1886, on 12.203; Appendix I §9). ῥηγμῖνα βαθεῖαν is “the deep breakers” (see the translation's row ῥηγμὶς βαθεῖα).

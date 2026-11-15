@@ -22,7 +22,7 @@ Odysseus did not stay to bury him. He told the others that their way lay to the 
 
 **The soul.** At the pit beyond Oceanus the first soul to come to Odysseus was Elpenor's, for his body lay unwept and unburied in Circe's hall. Odysseus wept and asked how he had come beneath the misty darkness faster on foot than the ship; the soul told its death in the verses in which Odysseus has told it, and begged him, by his wife, his father and Telemachus, to burn the body with its armor when he came back to Aeaea, and to heap a mound on the shore with the oar he rowed with fixed on it, so that men to come might hear of him. Odysseus promised (*Odyssey* 11.51–83; see [[psyche]] and [[eidolon]]).
 
-**The burial.** When the ship came back from the house of Hades, Odysseus sent companions at dawn to Circe's house to bring the dead man. They cut logs where the headland ran out farthest, and burned him with his armor, weeping and shedding big tears; then they heaped up a mound, dragged a pillar onto it, and fixed the well-fitted oar on the top of the mound (*Odyssey* 12.8–15, a plain rendering; see [[honoring-the-dead]] and [[cremation]]).
+**The burial.** When the ship came back from the house of Hades, Odysseus sent companions at dawn to Circe's house to bring the dead man. They cut logs where the headland ran out farthest, and burned him with his armor, weeping and shedding big tears; then they heaped up a mound, dragged a pillar onto it, and fixed the well-fitted oar on the top of the mound (*Odyssey* 12.8–15; see [[honoring-the-dead]] and [[cremation]]).
 
 {{notes}}
 
@@ -32,7 +32,7 @@ Odysseus did not stay to bury him. He told the others that their way lay to the 
 
 **The unburied.** Odysseus did not stay to bury the dead man: the journey to the dead pressed on him, and the soul met him there before the body was burned. In the Iliad the soul of the unburied Patroclus asks Achilles for burial, since the other souls will not let it cross the river and mingle with them (*Iliad* 23.71–74; see [[the-ghost-of-patroclus]] and [[unwept-and-unburied]]); the two poems' pictures of the unburied dead do not wholly agree (see the translation's note on *Iliad* 23.71–74).
 
-**The oar.** The soul asks for the oar he rowed with to be fixed on his tomb, πῆξαί τʼ ἐπὶ τύμβῳ ἐρετμόν (*Odyssey* 11.77). When the companions fix it on the mound, πήξαμεν ἀκροτάτῳ τύμβῳ ἐυῆρες ἐρετμόν (*Odyssey* 12.15, Greek only), the words are those that Teiresias, soon after Elpenor, uses for the oar that Odysseus himself must one day fix in the ground, far inland among men who do not know the sea: γαίῃ πήξας ἐυῆρες ἐρετμόν, “fix your well-fitted oar in the ground” (*Odyssey* 11.121–129; again 23.276, Greek only; see [[oars]], [[tomb]] and [[the-prophecy-of-teiresias]]).
+**The oar.** The soul asks for the oar he rowed with to be fixed on his tomb, πῆξαί τʼ ἐπὶ τύμβῳ ἐρετμόν (*Odyssey* 11.77). When the companions fix it on the mound, πήξαμεν ἀκροτάτῳ τύμβῳ ἐυῆρες ἐρετμόν (*Odyssey* 12.15), the words are those that Teiresias, soon after Elpenor, uses for the oar that Odysseus himself must one day fix in the ground, far inland among men who do not know the sea: γαίῃ πήξας ἐυῆρες ἐρετμόν, “fix your well-fitted oar in the ground” (*Odyssey* 11.121–129; again 23.276, Greek only; see [[oars]], [[tomb]] and [[the-prophecy-of-teiresias]]).
 
 ## Outside Homer
 

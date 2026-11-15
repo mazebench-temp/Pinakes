@@ -16,7 +16,7 @@ en: [skin, cord]
 
 ἀσκός is a skin taken off an animal whole and sewn up to hold something, in Homer above all wine: the goatskin of wine for the oath at Troy, Calypso's and Nausicaa's provisions, Maron's wine for the Cyclops (*Iliad* 3.247; *Odyssey* 5.265, 6.78, 9.196, 9.212; see [[wine]]). Aeolus' is the skin of an ox. ἀσκὸν βοός, W. W. Merry explains, goes closely together, “a skin-bag of an ox”, and ἐκδείρας, “that he had flayed”, does not say when Aeolus flayed it, only how he came by such a bag (*Commentary on the Odyssey*, 1886, on 10.19; see the translation's row ἀσκός, which keeps “skin” where the stories speak of the bag of the winds). ἐννεώροιο, “nine years old”, is said again of fat hogs (*Odyssey* 10.390) and of ointment (*Iliad* 18.351); Merry, weighing the places, takes it for “nine years old”, and from that “of full maturity” (on 10.19).
 
-The skin is tied with a μέρμις, a “cord”, of silver. The word is found only here in Homer; Merry connects it with μηρύομαι, “draw up”, the verb of the sails furled at *Odyssey* 12.170 (Greek only), and thinks the silver drawn into a wire fine enough to plait into a cord that could tie the neck of the leather bag so tight that not a breath of wind could slip past (on 10.23; see the translation's row βυκτής, μέρμις).
+The skin is tied with a μέρμις, a “cord”, of silver. The word is found only here in Homer; Merry connects it with μηρύομαι, “draw up”, the verb of the companions who “furled the ship's sails” before the Sirens (*Odyssey* 12.170), and thinks the silver drawn into a wire fine enough to plait into a cord that could tie the neck of the leather bag so tight that not a breath of wind could slip past (on 10.23; see the translation's row βυκτής, μέρμις).
 
 {{notes}}
 

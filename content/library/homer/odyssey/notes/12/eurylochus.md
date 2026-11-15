@@ -1,0 +1,27 @@
+---
+summary: As the ship passes the Sirens he and Perimedes bind Odysseus tighter to the mast. Off Thrinacia he answers Odysseus' order to row past the island with a reproach, “You are a hard man, Odysseus”, and wins the crew for a night ashore; and when the food has run out and Odysseus is asleep, he leads them in “evil counsel”: to sacrifice the best of the Sun's cattle, and if the god is angry, to lose their lives at one gulp of the wave rather than waste away on a desolate island (12.195–196, 12.277–303, 12.339–353).
+# Εὐρυλοχ* (in the entry) claims Εὐρύλοχός (12.195), Εὐρύλοχος (12.278, 12.294, 12.339, 12.352) and the vocative
+# Εὐρύλοχʼ (12.297). Unnamed: his reproach (12.279-293); "him" (12.296); his counsel (12.340-351).
+refs: [12.279-293, 12.296, 12.340-351]
+passages:
+  - 12.277-303 | Eurylochus' reproach and the oath
+  - 12.339-353 | Eurylochus' evil counsel
+---
+
+**At the mast.** When Odysseus, bound to the mast and longing to hear the Sirens, nods to his men to set him free, “at once Perimedes and Eurylochus stood up / and bound me with more bonds and pressed me tighter” (12.195–196; see [[perimedes-the-companion]], [[odysseus]] and [[mast]]), as he had bidden them (12.163–164). The two are named together here and at the pit of the dead (11.23), the two most important of Odysseus' companions, as W. W. Merry calls them (*Commentary on the Odyssey*, 1886, on 11.23).
+
+**The reproach.** Off the island of the Sun, when Odysseus tells his men the warnings of Teiresias and Circe and bids them row past, “their dear heart was broken. / And at once Eurylochus answered me with a hateful word” (12.277–278; see [[hateful]]):
+
+{{quote:3fb91ae6-a06f-5da7-b6af-ab00ea42fc39}}
+
+It is consistent with his character, Merry notes, and points to his protest on Aeaea and to the counsel that follows here (Merry on 12.278; 10.429, 12.339). σχέτλιος, “hard”, the scholiast renders well by καρτερικός, “enduring” (Merry on 12.279; see [[hard]]), and Achilles had used the word of Odysseus among the dead (11.474). καμάτῳ ἁδηκότας ἠδὲ καὶ ὕπνῳ, “worn out by weariness and by sleep”, is found in just this form only here and in the Iliad's night watch (*Iliad* 10.98; Merry on 12.281); αὔτως, “just as we are”, means tired, sleepy and supperless (Merry on 12.284); ἐκ νυκτῶν, “out of the nights”, Merry renders “by night”, perhaps with the sense that the wild winds come out of the darkness (Merry on 12.286; see the translation's note on 12.284–286); and the gods together are called ἄνακτες, “sovereign”, only here, probably no more than a graphic expression for the wildness and waywardness of the winds (Merry on 12.290; see the translation's note on 12.290). “But now let us yield to black night / and make ready our supper” (12.291–292) is Hector's counsel to the Trojans at nightfall on the plain (*Iliad* 8.502–503; see [[yield-to-night]]): nightfall suggests supper-time, Merry explains, and to act upon the suggestion of night is to make supper ready (Merry on 12.291).
+
+“So spoke Eurylochus, and the other companions applauded” (12.294). Odysseus knows “that a god was devising evil”, and gives way: “Eurylochus, truly you are pressing me hard, one man alone” (12.295–297), μοῦνον meaning not that he was really alone, but “in a minority of one” (Merry on 12.297; see the translation's note on 12.297). He holds them only by an oath not to touch the cattle (12.298–303; see [[oath]]).
+
+**Evil counsel.** For a month the South Wind holds them on the island; the food runs out, the men hunt fish and birds with hooks, and Odysseus goes up the island to pray and falls asleep (12.325–338). “And Eurylochus led the way in evil counsel among my companions” (12.339; see [[boule]] and [[all-deaths-are-hateful]]): the Iliad's soldiers praised Odysseus for “leading the way in good counsel” (*Iliad* 2.273), and here the phrase is turned to evil. Merry sets the “sweet sleep” that the gods pour on Odysseus against this evil counsel (Merry on 12.338; see [[sweet-sleep]]). Eurylochus opens with the verse in which Odysseus had addressed the crew off the island (12.340 = 12.271; again 10.189):
+
+{{quote:fcf9c9e4-6b4c-5214-8869-d490bbe01a68}}
+
+θάνατοι are “forms of death” (Merry on 12.341; see [[all-deaths-are-hateful]]), and οἴκτιστον, “the most pitiable”, is the word Odysseus used of the sight of the six companions in Scylla's jaws (12.258); Priam calls the shame of an old man's body torn by dogs “the most pitiable thing that comes to wretched mortals” (*Iliad* 22.76). ῥέξομεν is an aorist subjunctive, and the sacrifice implies a meal to be enjoyed by the worshippers (Merry on 12.344; see [[sacrifice]]). The vow of a temple to be built at home is, Nitzsch remarks, the only such vow in Homer (Merry on 12.347). In the last two verses πρὸς κῦμα χανών is “with one gasp open-mouthed at the wave”, and στρεύγεσθαι, from the stem of στράγξ, “a drop”, is “to be drained of strength” (Merry on 12.350, 12.351; see the translation's key words and [[better-to-perish-once-and-for-all]]). The companions applaud in the verse that ended his reproach (12.352 = 12.294), and at once they drive off the best of the cattle (12.353; see [[the-cattle-of-helios]]).
+
+**The end.** He is not named again. When Zeus strikes the ship with his thunderbolt, the companions fall into the sea and are carried on the waves, “and the god took away their homecoming” (12.415–419; see [[the-shipwreck-of-odysseus]]).

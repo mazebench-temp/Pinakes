@@ -1,0 +1,9 @@
+---
+summary: Neaera is named once, in Circe's description of the herds of the Sun, as the mother of the nymphs who keep them: “whom brilliant Neaera bore to Hyperion the Sun. / When their lady mother had borne them and reared them, / she settled them on the island of Thrinacia” (12.133–135).
+# Νέαιρα (12.133), the only form of the name in Homer, is claimed here, so that the pattern applies to the Odyssey only.
+# Unnamed: "their lady mother", who reared the nymphs and settled them on Thrinacia (12.134-135).
+grc: [Νέαιρα]
+refs: [12.134-135]
+---
+
+**The mother of the herders.** Circe tells Odysseus that the cattle and sheep of the Sun have goddesses for herders, “nymphs of the lovely tresses, Phaethusa and Lampetie, / whom brilliant Neaera bore to Hyperion the Sun. / When their lady mother had borne them and reared them, / she settled them on the island of Thrinacia, to dwell far off / and guard their father's sheep and his cattle with curving horns” (12.132–136; see [[phaethusa]], [[lampetie]], [[helios]], [[thrinacia]] and [[the-cattle-of-helios]]). θρέψασα τεκοῦσά τε, “reared and bore”, puts the later act first, the figure that W. W. Merry calls a prothysteron, which he finds also in “at his marriage and at his birth” (4.208) and in Penelope's women, ὅσσαι μοι ὁμοῦ τράφεν ἠδʼ ἐγένοντο, raised and born with her (4.723; *Commentary on the Odyssey*, 1886, on 12.134); the translation gives the order of events. ἀπῴκισε, “settled”, is found only here in Homer (see the translation's key-word row), and τηλόθι, “far off”, Merry takes either with it, “far from” the place of their birth, or with ναίειν, “to dwell far off” (on 12.135). The name, which Merry renders “Younger”, makes with the daughters' names, “Bright” and “Shining”, a family fit for the Sun (on 12.132; see the general article). Two manuscripts add a verse after 12.133 that makes her the own sister of Thetis (Merry's critical note on 12.133; see the general article and [[thetis]]).

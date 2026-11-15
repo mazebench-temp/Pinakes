@@ -1,0 +1,5 @@
+---
+summary: Circe: “will you not give way even to the immortal gods? / She is not mortal, but an immortal evil” (12.117–118); the food “that immortal Circe gave” (12.302); Eurylochus' plan to “sacrifice to the immortals, who hold the wide sky” (12.344); Odysseus “called out loudly to the immortal gods” (12.370); the Sun “spoke among the immortals” (12.376); and Zeus bids him keep “giving light among the immortals” (12.385).
+---
+
+Scylla is ἀθάνατον κακόν, “an immortal evil,” and Merry would almost personify κακόν as “fiend” (Merry, *Commentary on the Odyssey*, 1886, on 12.118; see [[scylla]]). At 12.370 the text prints Bekker's μέγʼ, which the English takes with the verb; Merry keeps the manuscripts' μετʼ ἀθανάτοισι, a standing formula whose preposition is not to be pressed, since Odysseus was not in the presence of the gods (Merry on 12.370; see the translation's note on 12.369–370). 12.344 ends with the half-verse of Proteus' and Teiresias' instructions for sacrifice (4.479, 11.133), now in the mouth of the man who proposes the forbidden one (see [[wide-sky]] and [[sacrifice-type-scene]]).

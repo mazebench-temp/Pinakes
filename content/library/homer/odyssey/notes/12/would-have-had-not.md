@@ -1,0 +1,6 @@
+---
+summary: Circe on the Argo at the Wanderers: “and even her the waves would quickly have dashed there against the great rocks, / but Hera sent her past, since Jason was dear to her” (12.71–72); and Odysseus at the end of the tale: “And the father of men and gods no longer let Scylla / see me; for then I would not have escaped sheer destruction” (12.445–446).
+refs: [12.71-72, 12.445-446]
+---
+
+The first is the Iliad's kind of the turn, in which a god stops what would have happened, here in a story within Circe's speech: καί νύ κε … ἀλλʼ Ἥρη παρέπεμψεν, with ἀλλά in the place of εἰ μή (see the general article). Merry takes the waves as the subject of βάλεν and notes that nothing is said of the rocks closing on the ship (Merry, *Commentary on the Odyssey*, 1886, on 12.71); he thinks the passage 12.69–72 probably a later addition (Merry on 12.70; see the translation's note on 12.69–72, and [[jason]] and [[hera]]). The second tells the turn the other way round, first what the god did and then what would have happened without it; the scholia rejected the two verses, since Scylla cannot leave her cave (see the translation's note on 12.445–446, and [[father-of-men-and-gods]] and [[steep]]).

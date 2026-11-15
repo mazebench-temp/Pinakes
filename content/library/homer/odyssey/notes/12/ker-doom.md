@@ -1,0 +1,5 @@
+---
+summary: Odysseus tells the companions Circe's oracles “so that knowing them we may either die / or else avoid death and doom and escape” (12.156–157).
+---
+
+“but I will tell them, so that knowing them we may either die / or else avoid death and doom and escape” (ἤ κεν ἀλευάμενοι θάνατον καὶ κῆρα φύγοιμεν, 12.156–157; see [[thanatos]] and [[thesphaton]]). θάνατον καὶ κῆρα, “death and doom”, is the pair with which both poems speak of escape, as Menelaus hopes that he and Ajax “may escape death and doom out of the cries of the Trojans” (*Iliad* 17.714). The alternatives are weighed in the moods: φύγοιμεν, the optative, should be preferred to φύγωμεν, since escape seemed less likely than death; and ἵνα with κε is found only here (W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.156–157 and his critical notes; see the Odyssey translation's note on 12.156–157). The choice Odysseus offers is between knowing and not knowing, not between living and dying: “knowing them” they may die or escape, and of the men who hear him only he escapes (12.417–419).

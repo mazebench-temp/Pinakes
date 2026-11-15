@@ -1,0 +1,6 @@
+---
+summary: The news of the slaughter goes to the Sun by a messenger: “And swiftly to Hyperion the Sun came a messenger, / Lampetie of the long robes, to tell him that we had killed his cattle” (12.374–375); and Odysseus learned what the gods said at second hand: “This I heard from Calypso of the lovely hair; / and she said she had heard it herself from Hermes the guide” (12.389–390).
+refs: [12.374-375, 12.389-390]
+---
+
+The message is given in a clause, ὅ οἱ βόας ἔκταμεν ἡμεῖς, “that we had killed his cattle,” the reading of Aristarchus' copies; the manuscripts have ἔκταν ἑταῖροι, “the companions killed,” Merry thinks from a wish to clear Odysseus of the blame (Merry, *Commentary on the Odyssey*, 1886, critical note on 12.375). The whole passage 12.374–390 carried the obelos, since the Sun who “sees all things and hears all things” (12.323) should have known for himself (see the translation's note on 12.374–390, and [[who-sees-all-things]]). A scholion found Odysseus lying at 12.389–390, since Calypso had not yet seen Hermes, and Merry answers that the falsehood rests rather with Calypso (Merry's critical note on 12.389–390; see [[long-robed]], [[lampetie]], [[guide]] and [[calypso]]).

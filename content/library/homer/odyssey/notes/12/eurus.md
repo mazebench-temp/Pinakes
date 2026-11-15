@@ -1,0 +1,6 @@
+---
+summary: The East Wind is named once, with the South Wind, as the only other wind that blows in the month on Thrinacia: “nor did any other / of the winds arise then, except the East Wind and the South Wind” (12.325–326).
+# The entry claims Εὖρος (12.326).
+---
+
+**The month on Thrinacia.** After the storm that Zeus raises on the first night, “for a whole month the South Wind blew without ceasing, nor did any other / of the winds arise then, except the East Wind and the South Wind” (12.325–326; see [[notus]], [[thrinacia]] and [[the-cattle-of-helios]]). εἰ μή is “except”, as at 17.383, and W. W. Merry compares ὅτι μή in the same sense (*Iliad* 16.227; *Commentary on the Odyssey*, 1886, on 12.326). The verse-end Εὖρός τε Νότος τε is that of the Iliad's waves of the Icarian sea, “which the East Wind and the South Wind / raise up, rushing down from the clouds of father Zeus” (*Iliad* 2.145–146; see [[waves-of-the-icarian-sea]]); the pair strive with each other in the Iliad's simile of the mountain forest (*Iliad* 16.765; see [[the-winds-in-the-forest]]) and clash at the head of the four winds in Poseidon's storm on the raft (5.295; see the Book 5 note). On Thrinacia the two hold the ship for a month, the food runs out, and the companions turn to the cattle of the Sun (12.327–353).

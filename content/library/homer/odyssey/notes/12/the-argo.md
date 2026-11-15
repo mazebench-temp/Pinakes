@@ -1,0 +1,13 @@
+---
+summary: In Circe's account of the two ways the Argo is the one ship that has sailed past the Wanderers, where the waves and the storms of fire sweep away the planks of ships and the bodies of men; Hera sent it past, since Jason was dear to her (12.66–72). It is the way that Odysseus' ship does not take.
+passages:
+  - 12.66-72 | The one ship past the Wanderers
+---
+
+{{quote:49a41337-1d13-56c0-a99e-b259316a0809}}
+
+**The one ship.** Circe sets the Argo against her rule for the Wanderers: “And by that way no ship of men that comes there has ever yet escaped, / but the planks of ships and the bodies of men together / the waves of the sea and the storms of deadly fire sweep away” (12.66–68; see [[the-wanderers]], [[ships]] and [[circe]]). φύγεν, “has escaped”, states a general truth, W. W. Merry notes, like the present παρέρχεται of the birds just before, as the mood of ἵκηται and the tense of φορέουσι confirm (*Commentary on the Odyssey*, 1886, on 12.66; see [[timid-doves]]). Not even the doves that carry ambrosia to Zeus pass that way whole, and the one ship that came through needed a goddess: it would have been dashed against the great rocks, and the subject of βάλεν is probably the waves, for “Not a word is said of the rocks threatening to close in upon the ship” (Merry on 12.71), as they close in the later story of the Clashing Rocks (see the entry). The Argo is ποντοπόρος, a “seafaring” ship (see [[seafaring-ship]]); παρέπλω, “has sailed past”, and Ἥρη παρέπεμψεν, “Hera sent her past”, put the same preposition at the beginning and the end of the passage.
+
+**A later addition?** Merry thinks it probable that the four verses are a later addition, and that the ship is on its homeward voyage from Colchis (on 12.70); the readings πασιμέλουσα, written as one word, and κείνῃ at 69 are discussed in the translation's note on 12.69–72 (see [[jason]] and [[aeetes]]).
+
+**The way not taken.** Circe will not decide which of the two ways Odysseus is to take (12.55–58), but she plainly means to dissuade him from the Wanderers, Merry observes (on 12.55), and when the smoke, the great wave and the roar come in sight, Odysseus bids the helmsman keep the ship away from “this smoke and wave” and make for the crag (12.201–202, 12.219–221; see [[odysseus-passes-scylla]] and [[steering-oar]]). καπνός, “smoke”, takes up the storms of deadly fire of 68, which by day would show only as smoke (Merry on 12.202), and κεῖσε, “there”, points toward the Wanderers (Merry on 12.221; see the translation's note on 12.219–221). The Argo is the only ship of the book that is not Odysseus' own, and the one whose way his ship does not follow.

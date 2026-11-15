@@ -2,7 +2,7 @@
 title: Oaths and their breaking
 kind: theme
 tags: [oath, justice, divine-will]
-summary: An oath binds the future under the eyes of the gods, and the one who swears it curses himself if he breaks it. The Iliad turns on oaths kept and broken, from Achilles' oath on the scepter and the oaths the army swore when it set out, to the truce of Book 3 and its breaking in Book 4.
+summary: An oath binds the future under the eyes of the gods, and the one who swears it curses himself if he breaks it. The Iliad turns on oaths kept and broken, from Achilles' oath on the scepter and the oaths the army swore when it set out, to the truce of *Iliad* 3 and its breaking in *Iliad* 4; in the Odyssey Odysseus' companions swear not to kill the cattle of the Sun, and break the oath when they are starving.
 aliases: [perjury, broken oaths, oath-breaking]
 refs: [1.233, 1.239, 1.240, 1.241, 1.242, 1.243, 1.244, 2.286, 2.287, 2.288, 2.339, 2.340, 2.341]
 passages:

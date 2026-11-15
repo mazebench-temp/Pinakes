@@ -3,7 +3,7 @@ title: Long-robed
 greek: τανύπεπλος
 kind: epithet
 tags: [heroic-epithet, woman]
-summary: “With trailing robe,” an epithet of [[Helen]], and of [[Thetis]] and a few women of the Odyssey.
+summary: “With trailing robe,” an epithet of [[Helen]], and of [[Thetis]] and a few women and goddesses of the Odyssey.
 aliases: [of the long robes, tanypeplos]
 grc: [τανύπεπλος]
 en: [of the long robes]

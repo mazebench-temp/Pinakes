@@ -3,7 +3,7 @@ title: Tomb
 greek: τύμβος
 kind: object
 tags: [fate]
-summary: The grave mound heaped over the dead, called τύμβος or σῆμα, "marker". In the Iliad old tombs stand in the landscape as landmarks, and a mound is part of the honor due to the dead.
+summary: The grave mound heaped over the dead, called τύμβος or σῆμα, "marker". Old tombs stand in the landscape as landmarks, a mound and a pillar are the honor due to the dead, and a mound on the shore keeps a man's name for those who sail by, as Elpenor's does with his oar fixed on it.
 aliases: [grave mound, barrow, tumulus, sema, tymbos]
 grc: [τύμβον, τύμβῳ, σῆμα]
 en: [tomb]

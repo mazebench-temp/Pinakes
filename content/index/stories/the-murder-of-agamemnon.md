@@ -14,7 +14,7 @@ participants: [agamemnon, aegisthus, clytemnestra, hermes, cassandra, orestes, t
 
 ## The story
 
-The Odyssey tells the story in pieces: Zeus in the council of the gods, Nestor and Menelaus, who heard it from Proteus, to Telemachus, and the shade of Agamemnon twice. The renderings of the books after the eleventh are plain renderings, not the translation.
+The Odyssey tells the story in pieces: Zeus in the council of the gods, Nestor and Menelaus, who heard it from Proteus, to Telemachus, and the shade of Agamemnon twice. The renderings of the books after the twelfth are plain renderings, not the translation.
 
 **The seduction.** While the Achaeans toiled at Troy, Aegisthus sat at his ease “in a corner of horse-pasturing Argos” and kept beguiling Agamemnon's wife with words. At first she refused the shameful deed, for her mind was good, and a singer was beside her, whom Agamemnon, leaving for Troy, had charged to guard his wife. But when the fate of the gods fettered her, Aegisthus took the singer away to a desert island and left him to be the prey of birds, and led her, willing, to his house; and he burned many thigh-pieces on the altars of the gods and hung up many offerings, having accomplished a great deed he had never expected (*Odyssey* 3.262–275; see [[the-singer-of-clytemnestra]]). The gods had warned him: Zeus says that they sent Hermes to tell him neither to kill the man nor to woo his wife, for vengeance would come from Orestes (*Odyssey* 1.35–43; see [[aegisthus]], [[clytemnestra]] and [[hermes]]).
 

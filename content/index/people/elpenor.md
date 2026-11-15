@@ -22,10 +22,6 @@ relations:
 
 {{notes}}
 
-## Elsewhere in Homer
-
-**The burial.** Back on Aeaea from the land of the dead, at dawn, Odysseus sends companions to Circe's house to bring the body; they cut logs where the headland juts out farthest and bury him, grieving and shedding big tears, and when the body and the armor of the body are burned they heap up a tomb, drag a pillar up onto it, and fix the well-fitted oar on the top of the tomb, as his soul had asked (*Odyssey* 12.8–15, a plain rendering; see [[the-death-of-elpenor]], [[honoring-the-dead]] and [[cremation]]).
-
 ## Outside Homer
 
 Plutarch says that of the Homeric souls named in the book of the dead, Elpenor's, not yet mingled with those in Hades because its body was not buried, wanders as if on the borders (*Table Talk* 9.5.3, as Merry quotes it on *Odyssey* 11.51). In Ovid he is one of the men sent by lot to Circe's house, “Elpenor, too fond of wine” (*nimiique Elpenora vini*, *Metamorphoses* 14.252; see [[ovid]] and [[eurylochus]]).

@@ -1,0 +1,5 @@
+---
+summary: Words that move men in the book: Circe speaks to Odysseus “with words” (12.36); in the strait he urges the companions on “with soothing words”, and they obey his words (12.207, 12.222); the word of Teiresias falls upon his heart at the lowing of the cattle (12.266); and he answers Eurylochus “with winged words” (12.296).
+---
+
+The formulas of speech frame the book's turns. Circe begins her instructions, “Then lady Circe spoke to me with words” (12.36; see [[circe]] and [[queenly]]). In the strait Odysseus goes from man to man “with soothing words, standing beside each man” (12.207 = 10.173; see [[soothing-words]] and [[not-without-knowledge-of-evils]]), “and they quickly obeyed my words” (12.222). At Thrinacia it is the word of another that comes to him: “there fell upon my heart the word / of the blind seer, Theban Teiresias” (καί μοι ἔπος ἔμπεσε θυμῷ, 12.266–267; see [[teiresias]] and [[thymos]]). When the companions applaud Eurylochus, he speaks to him “with winged words” (12.296; see [[winged-words]]), but the words no longer prevail, and he must ask for an oath (12.297–304; see [[oath]]).

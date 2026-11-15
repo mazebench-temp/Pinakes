@@ -13,7 +13,7 @@ grc: ["^Πρωρεύς"]
 
 ## The name
 
-Πρῳρεύς, W. W. Merry explains, “is properly the ‘look-out man’ who passes the word to the steerer; yet it probably has no such special significance here, but, like Ποντεύς and Πρυμνεύς, is derived at haphazard from sea-terms” (*Commentary on the Odyssey*, 1886, on *Odyssey* 8.111; see [[ponteus]] and [[prymneus]]). The prow, πρῴρη, is named once in Homer, when Odysseus, armed, goes up onto the deck at the prow, since he expects Scylla to show herself first from there (*Odyssey* 12.229–231, a plain rendering); otherwise it appears only in the epithets of ships κυανόπρῳρος and κυανοπρῴρειος, “dark-prowed” (*Iliad* 15.693; *Odyssey* 3.299).
+Πρῳρεύς, W. W. Merry explains, “is properly the ‘look-out man’ who passes the word to the steerer; yet it probably has no such special significance here, but, like Ποντεύς and Πρυμνεύς, is derived at haphazard from sea-terms” (*Commentary on the Odyssey*, 1886, on *Odyssey* 8.111; see [[ponteus]] and [[prymneus]]). The prow, πρῴρη, is named once in Homer, when Odysseus, armed, goes up onto the deck at the prow, since he expects Scylla to show herself first from there (*Odyssey* 12.229–231); otherwise it appears only in the epithets of ships κυανόπρῳρος and κυανοπρῴρειος, “dark-prowed” (*Iliad* 15.693; *Odyssey* 3.299).
 
 The text prints the name without the iota subscript, Πρωρεύς, where Merry prints Πρῳρεύς (see the Odyssey translation's note on 8.113).
 

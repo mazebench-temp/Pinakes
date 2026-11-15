@@ -3,11 +3,11 @@ title: The boiling cauldron
 greek: ὡς δὲ λέβης ζεῖ ἔνδον ἐπειγόμενος πυρὶ πολλῷ
 kind: simile
 tags: [vessel]
-summary: Burned by Hephaestus, the river's fair streams bubble up and boil as a cauldron boils within when it is pressed by a great fire, melting the fat of a tender-fed hog and bubbling up on every side, with dry sticks beneath it (21.361–365).
-aliases: [like a boiling cauldron, the cauldron of fat, the river boils]
+summary: A cauldron seething on a great fire, the likeness of water heaving up from below. Burned by Hephaestus, the river's fair streams boil as a cauldron boils within when it is pressed by a great fire, melting the fat of a tender-fed hog (21.361–365); and in the Odyssey Charybdis, spewing out the sea, seethes up “like a cauldron on a great fire” (*Odyssey* 12.237–238).
+aliases: [like a boiling cauldron, the cauldron of fat, the river boils, Charybdis like a cauldron]
 grc: ["λέβης ζεῖ", "κνίσην μελδόμενος", "ἁπαλοτρεφέος σιάλοιο", "πάντοθεν ἀμβολάδην", "ξύλα κάγκανα κεῖται", "ζέε δʼ ὕδωρ"]
 en: [boils within, as it melts the fat of a tender-fed hog, bubbling up on every side, dry sticks lie beneath it, the water boiled]
-of: [scamander, hephaestus]
+of: [scamander, hephaestus, charybdis]
 passages:
   - 21.356-365 | The river burns
 ---
@@ -26,7 +26,7 @@ The river has risen against Achilles and nearly drowned him, and Hera has sent h
 
 ## Elsewhere in Homer
 
-The *Odyssey* uses the same likeness for Charybdis. When she spews out the sea, it seethes up all churning “like a cauldron on a great fire”, λέβης ὣς ἐν πυρὶ πολλῷ, πᾶσʼ ἀναμορμύρεσκε κυκωμένη (*Odyssey* 12.235–238). The words are the river's: just before the fire the Scamander rushed on Achilles κυκώμενος, “churning”, and μορμύρων ἀφρῷ, “seething with foam” (21.324–325).
+The *Odyssey* uses the same likeness for Charybdis. When she spews out the sea, it seethes up all churning “like a cauldron on a great fire”, λέβης ὣς ἐν πυρὶ πολλῷ, πᾶσʼ ἀναμορμύρεσκε κυκωμένη (*Odyssey* 12.237–238; see the note on *Odyssey* 12). The words are the river's: just before the fire the Scamander rushed on Achilles κυκώμενος, “churning”, and μορμύρων ἀφρῷ, “seething with foam” (21.324–325).
 
 ## Outside Homer
 

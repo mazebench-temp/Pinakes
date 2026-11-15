@@ -1,0 +1,5 @@
+---
+summary: At the lowing of the Sun's cattle Odysseus remembers “the word / of the blind seer, Theban Teiresias” (12.266–267), and tells his companions “the prophecies of Teiresias” and of Circe (12.272–273).
+---
+
+The seer's word comes back at the sound of the cattle: “I heard the lowing of the cattle being stalled for the night / and the bleating of the sheep; and there fell upon my heart the word / of the blind seer, Theban Teiresias” (μάντηος ἀλαοῦ, 12.265–267; see [[teiresias]], [[the-blind-seer]] and [[thebes]]). The manuscripts read μάντιος (W. W. Merry, *Commentary on the Odyssey*, 1886, his critical note on 12.267). He tells the companions “the prophecies of Teiresias / and of Circe of Aeaea” (μαντήια, 12.272–273), the only time the noun is used in Homer (see the Odyssey translation's table of key words, μαντήια). Circe is no seer, but on this point she and Teiresias say the same, in the same verses (12.137–141 = 11.110–114; see [[prophecy]] and [[the-prophecy-of-teiresias]]).

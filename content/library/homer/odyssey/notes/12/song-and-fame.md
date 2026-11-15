@@ -1,0 +1,8 @@
+---
+summary: Two kinds of fame in the book: the Argo, “in the thoughts of all” (12.70), a story already famous, and the Sirens' song, which greets Odysseus as “great glory of the Achaeans” and offers him the whole tale of Troy (12.184–191).
+refs: [12.70, 12.184-191]
+---
+
+**The Argo.** Circe names the one ship that came through the Wanderers as a thing everyone knows: “the Argo, in the thoughts of all, sailing from Aeetes” (Ἀργὼ πᾶσι μέλουσα, 12.70; see [[jason]] and [[aeetes]]). W. W. Merry compares Odysseus' words when he named himself to the Phaeacians, “who for tricks of every kind / am in the thoughts of men, and my fame reaches the sky” (9.19–20; *Commentary on the Odyssey*, 1886, on 12.70), and thinks the verses of the Argo probably a later addition (see the Odyssey translation's note on 12.69–72). The poem knows the voyage of Jason as a story sung before its own.
+
+**The Sirens' song.** The Sirens begin with the hero's fame, “Come here, much-praised Odysseus, great glory of the Achaeans” (12.184; see [[much-praised]] and [[great-glory-of-the-achaeans]]), the verse with which Agamemnon and Nestor greeted him in the Iliad (*Iliad* 9.673, 10.544). They promise the matter of epic itself, all that “the Argives and Trojans toiled through by the will of the gods” at Troy, and all that comes to pass on the earth (12.189–191; see [[sirens]] and [[the-gods-know-all-things]]). It is the song Demodocus sang in part and made Odysseus weep (8.73–82, 8.499–531; see [[demodocus]]); the Sirens would make him its listener forever, among the bones of the men who stayed (12.45–46). He hears it bound to the mast and sails on, to become the singer of his own tale (11.368; see [[the-tale-to-alcinous]] and [[odysseus-and-the-sirens]]).

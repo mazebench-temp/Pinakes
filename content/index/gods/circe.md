@@ -8,9 +8,8 @@ aliases: [Kirke]
 # Exact forms only, never a stem Κίρκ*, which would catch κίρκος "hawk" (Il. 17.757, 22.139; Od. 13.87, 15.526).
 # Κίρκη (Od. 8.448, 9.31, Book 10 often, 11.8, 11.22, 12.36, 12.150, 12.155, 12.302) also takes the dative Κίρκῃ
 # (Od. 10.295, 10.322). Κίρκης is Od. 10.150 and thirteen more lines of Book 10, 11.53, 11.62, 12.9, 12.226, 12.268,
-# 12.273 and 23.321. Neither occurs in the Iliad or in Aristotle. Κίρκην (Od. 12.16, the only occurrence) to add with
-# Book 12.
-grc: [Κίρκη, Κίρκης]
+# 12.273 and 23.321. Neither occurs in the Iliad or in Aristotle; nor does Κίρκην (Od. 12.16, the only occurrence).
+grc: [Κίρκη, Κίρκης, Κίρκην]
 relations:
   - father: helios (Od. 10.138)
   - mother: perse (Od. 10.139)
@@ -35,7 +34,7 @@ Daughter of the Sun, [[helios|Helios]], and of [[perse|Perse]], whom [[oceanus|O
 
 ## Elsewhere in Homer
 
-Odysseus names her first at the beginning of his tale, beside Calypso, as a goddess who kept him in her halls, “longing for me to be her husband” (*Odyssey* 9.31–32; see [[calypso]]), and he tells her story in *Odyssey* 10–12 (see the Book 10 note). When he sails from Aeaea to the dead, she sends behind his ship “a following wind that filled the sail, a good companion” (*Odyssey* 11.7; again 12.149). The soul of Elpenor, whose body was left unburied in her hall, meets him first among the dead (*Odyssey* 11.51–54). On his return she comes to the shore with her handmaids, bringing bread, meat and wine, and greets the men who have gone down alive into the house of Hades as δισθανέες, “twice-dying”, since other men die once (*Odyssey* 12.16–22, a plain rendering; see [[hades]]); then she tells Odysseus the way past the Sirens, the Wandering Rocks, Scylla and Charybdis, and warns him to spare the cattle of the Sun on Thrinacia (*Odyssey* 12.37–141; see [[scylla]], [[odysseus-passes-scylla]] and [[the-cattle-of-helios]]). At Scylla's rock Odysseus forgets her hard command not to arm himself (*Odyssey* 12.226–227); off Thrinacia he remembers her warning and Teiresias' (*Odyssey* 12.266–273); and in Ithaca he tells Penelope of “the guile and the many devices of Circe” (*Odyssey* 23.321, a plain rendering).
+Odysseus names her first at the beginning of his tale, beside Calypso, as a goddess who kept him in her halls, “longing for me to be her husband” (*Odyssey* 9.31–32; see [[calypso]]), and he tells her story in *Odyssey* 10–12 (see the Book 10 note). When he sails from Aeaea to the dead, she sends behind his ship “a following wind that filled the sail, a good companion” (*Odyssey* 11.7; again 12.149). The soul of Elpenor, whose body was left unburied in her hall, meets him first among the dead (*Odyssey* 11.51–54). On his return from the dead she greets the men as δισθανέες, “twice dying” (see [[hades]]), and tells Odysseus the way home past the Sirens, the Wanderers, Scylla and Charybdis, warning him to spare the cattle of the Sun (*Odyssey* 12.16–141; see the Book 12 note, [[sirens]], [[scylla]] and [[the-cattle-of-helios]]); and in Ithaca he tells Penelope of “the guile and the many devices of Circe” (*Odyssey* 23.321, a plain rendering).
 
 ## Outside Homer
 

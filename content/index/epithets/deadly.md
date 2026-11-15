@@ -3,7 +3,7 @@ title: Deadly
 greek: ὀλοός
 kind: epithet
 tags: [fate, warfare]
-summary: “Destructive, deadly,” an adjective of ruin from ὄλλυμι, “destroy”: used of war, of fate, of a mind bent on harm, of Achilles and of the threshold of old age, and in the comparative of Zeus.
+summary: “Destructive, deadly,” an adjective of ruin from ὄλλυμι, “destroy”: used of war, of fate and night, of a mind bent on harm, of Achilles and of the threshold of old age, in the comparative of Zeus, and in the Odyssey of Charybdis, of fire and of winds.
 aliases: [baneful, ruinous, oloos, oloios]
 grc: [ὀλοοῖο, ὀλοώτερος, ὀλοιῇσι, ὀλοῆς, ὀλοοῖς]
 en: [deadly, more baneful, ruinous]

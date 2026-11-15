@@ -1,0 +1,8 @@
+---
+summary: The first act of the book is the burial Elpenor's soul begged for: the companions fetch his body from Circe's house, burn it with its armor, weeping, and heap a tomb with a pillar and his oar on it (12.8–15). The companions who die later in the book receive no such rites: Scylla devours six at her doors, and the rest drown in the wreck.
+refs: [12.8-15]
+---
+
+**The promise kept.** At the pit Odysseus had promised the soul of Elpenor, “All this, unhappy man, I will accomplish and do for you” (11.80; see [[elpenor]] and the Book 11 note). On the first morning back on Aeaea he sends men to Circe's house for the body, and every part of the request is met: the burning with the armor, the tears, the mound on the shore, the oar on the mound (12.8–15; see [[cremation]], [[tears]], [[tomb]] and [[oars]]). The pillar, στήλη, is more than Elpenor asked for, and named only here in the Odyssey; in the Iliad the tomb and the pillar together are “the prize of the dead” (*Iliad* 16.457, 16.675; see [[the-prize-of-the-dead]]).
+
+**The unburied.** The rest of the book's dead have no funeral. Scylla devours six men “at her doors”, stretching out their hands to Odysseus (12.256–257), and the companions can only weep for them that night when they have eaten (12.309–311; see [[odysseus-passes-scylla]]). In the wreck the others are carried on the waves “like sea crows around the black ship” (12.418–419). Elpenor, who died by accident on Circe's roof, is the only one of the companions to lie in a tomb; the men who ate the cattle of the Sun are lost at sea, the death without a tomb that Odysseus feared for himself in the storm of Book 5 (5.306–312; see [[fame-and-the-tomb]]).

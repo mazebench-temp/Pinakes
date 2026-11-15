@@ -5,8 +5,9 @@ kind: god
 tags: [child-of-zeus, woman]
 summary: Goddesses of springs and rivers, mountains, meadows and groves, in Homer the daughters of [[Zeus]]. They bear sons to mortal men, honor the dead, and receive prayers and offerings at springs and in caves.
 aliases: [nymph, Naiads, Naiad, Oreads, mountain nymphs, nymphai]
-# νυμφάων (20.8, 24.616; Od. 6.123, 13.104, 13.348, 17.211) is always the goddesses in Homer.
-grc: [νύμφη, νύμφαι, νυμφάων, "=νηῒς"]
+# νυμφάων (20.8, 24.616; Od. 6.123, 13.104, 13.348, 17.211) is always the goddesses in Homer, and so is νυμφέων, the
+# Ionic genitive (Od. 12.318, its only occurrence). Neither is found in Aristotle.
+grc: [νύμφη, νύμφαι, νυμφάων, νυμφέων, "=νηῒς"]
 except: [Od. 11.38]
 en: [nymph, nymphs, mountain nymphs, Naiad]
 relations:
@@ -19,11 +20,11 @@ relations:
 
 ## Descriptions
 
-Homer names kinds of nymphs by the places they live in. A νηΐς or νηϊάς, a Naiad, is a nymph of springs and running water (6.22; Od. 13.104), a name usually derived from νάω, “flow”. The ὀρεστιάδες are nymphs “of the mountains” (ὄρος), the Oreads; the word occurs only at 6.420. Eumaeus prays to the κρηναῖαι, the nymphs “of the spring” (κρήνη, Od. 17.240), and the nymphs who play with Artemis are ἀγρονόμοι, “who haunt the fields” (ἀγρός, “field”, + νέμομαι, “range over”, Od. 6.106). They are ἐϋπλόκαμοι, “with lovely tresses” (Od. 12.132), like the Trojan women of 6.380 (see [[with-lovely-tresses]]).
+Homer names kinds of nymphs by the places they live in. A νηΐς or νηϊάς, a Naiad, is a nymph of springs and running water (6.22; Od. 13.104), a name usually derived from νάω, “flow”. The ὀρεστιάδες are nymphs “of the mountains” (ὄρος), the Oreads; the word occurs only at 6.420. Eumaeus prays to the κρηναῖαι, the nymphs “of the spring” (κρήνη, Od. 17.240), and the nymphs who play with Artemis are ἀγρονόμοι, “who haunt the fields” (ἀγρός, “field”, + νέμομαι, “range over”, Od. 6.106). They are ἐυπλόκαμοι, “of the lovely tresses” (Od. 12.132), like the Trojan women “with lovely tresses” of 6.380 (see [[with-lovely-tresses]]).
 
 ## Family
 
-Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο, “daughters of aegis-bearing Zeus” (6.420; Od. 6.105, 9.154), a title they share with the Muses (2.598; see [[muses]]). Few are named. Abarbarea, a Naiad, bore twin sons to Bucolion (6.21–22; see [[abarbarea]]). In the Odyssey the nymph [[thoosa|Thoosa]] bore the Cyclops Polyphemus to Poseidon (Od. 1.71–73), and the nymphs Phaethusa and Lampetie, daughters of Helios, herd their father's cattle (Od. 12.131–136). [[calypso|Calypso]] is called a nymph again and again (νύμφη πότνια, “the lady nymph”, Od. 1.14), and [[circe|Circe]] once (Od. 10.543).
+Homer makes them daughters of Zeus: κοῦραι Διὸς αἰγιόχοιο, “daughters of aegis-bearing Zeus” (6.420; Od. 6.105, 9.154), a title they share with the Muses (2.598; see [[muses]]). Few are named. Abarbarea, a Naiad, bore twin sons to Bucolion (6.21–22; see [[abarbarea]]). In the Odyssey the nymph [[thoosa|Thoosa]] bore the Cyclops Polyphemus to Poseidon (Od. 1.71–73), and the nymphs [[phaethusa|Phaethusa]] and [[lampetie|Lampetie]], daughters of Helios, herd their father's cattle (Od. 12.131–136). [[calypso|Calypso]] is called a nymph again and again (νύμφη πότνια, “the lady nymph”, Od. 1.14), and [[circe|Circe]] once (Od. 10.543).
 
 {{notes}}
 

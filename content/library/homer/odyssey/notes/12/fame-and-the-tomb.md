@@ -1,0 +1,6 @@
+---
+summary: Elpenor's mound is heaped on Aeaea where the headland juts out farthest, with a pillar dragged onto it and his oar fixed on top (12.11–15), the sign he asked for “even for men to come to hear of” (11.76).
+refs: [12.13-15]
+---
+
+The tomb is built as the soul of Elpenor asked: a mound “on the shore of the gray sea”, with the oar he rowed with fixed on it (11.75–78; see [[elpenor]] and the Book 11 note). “We heaped up a tomb, and dragged a pillar up onto it, / and on the top of the tomb we fixed the well-fitted oar” (12.14–15; see [[tomb]] and [[oars]]). It stands where the headland juts out farthest (12.11), where it would be seen from the sea. Zenodotus ended the verse with ἵνα σῆμα πέλοιτο, “so that it might be a mark”, making the purpose explicit (W. W. Merry, *Commentary on the Odyssey*, 1886, his critical note on 12.15). For the oar on the mound Merry compares the tomb of Aeneas' trumpeter Misenus (on 12.15), on which Aeneas set the dead man's arms, his oar and his trumpet, under the high mountain “which is now called Misenus after him, and keeps the name forever through the ages” (*Aeneid* 6.232–235, a plain rendering; see [[virgil]]). Virgil gives his dead man a cape and a lasting name; Elpenor's mound stands on the shore of Circe's island at the edge of the world (see [[aeaea]]).

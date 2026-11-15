@@ -1,0 +1,9 @@
+---
+summary: Circe's handmaids bring sparkling red wine with bread and meat to the companions come back from Hades, and she bids them eat and drink all day (12.18–30). On Thrinacia they keep from the cattle as long as their bread and red wine last (12.327–328), and at the sacrifice they have no wine to pour and pour water instead (12.362–363).
+---
+
+**Circe's wine.** Circe comes to the shore, “and her handmaids brought with her / bread and meat in plenty and sparkling red wine” (12.18–19; see [[circe]] and [[handmaids]]). Joined with ἐρυθρόν, “red”, the epithet αἴθοψ must mean “bright” or “sparkling”, W. W. Merry notes (*Commentary on the Odyssey*, 1886, on 12.19; see the entry). “But come, eat food and drink wine, / here all day long” (12.23–24), she says, as she said to the companions restored from swine (10.460; see the Book 10 note), and “So all day long, until the sun went down, / we sat feasting on untold meat and sweet wine” (12.29–30, the verses of 9.161–162 and 10.183–184; see [[feast]] and [[untold]]).
+
+**Until the wine ran out.** Held on Thrinacia by the South Wind, “as long as they had bread and red wine, / they kept away from the cattle, longing for life” (12.327–328; see [[provisions]] and [[the-cattle-of-helios]]): λιλαιόμενοι βιότοιο is “eager to save their lives”, Merry argues, not “seeking food”, since they still had bread and wine (on 12.328; see the translation's note on 12.328–330).
+
+**Water for wine.** At the sacrifice “they had no wine to pour over the burning offerings, / but poured libations with water as they roasted all the entrails” (12.362–363; see [[libation]], [[sacrifice-type-scene]] and [[thigh-pieces]]). At Chryse the old priest poured sparkling wine over the offerings (*Iliad* 1.462–463); the companions have no wine and no barley (12.358; see [[barley]]).

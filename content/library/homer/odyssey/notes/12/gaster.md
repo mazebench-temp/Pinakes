@@ -1,0 +1,5 @@
+---
+summary: On Thrinacia, when the provisions are spent, the companions hunt fish and birds with curved hooks, “and hunger wore at their bellies” (12.329–332).
+---
+
+“But when all the provisions in the ship were spent, / and they were roaming about in quest of game, as they had to, / fish and birds, whatever came to their hands, / with curved hooks, and hunger wore at their bellies” (ἔτειρε δὲ γαστέρα λιμός, 12.329–332; see [[fasting]] and [[provisions]]). The belly that hunger wears down is the belly of the Odyssey's beggar, which drives a man to eat whatever his grief: here it drives the companions to the cattle (12.339–365; see [[all-deaths-are-hateful]]). The last verse is the one in which Menelaus told of his own men on Pharos, fishing with hooks while hunger wore at their bellies (4.368–369), and Bekker and other modern editors bracket it here as an interpolation from there, though Athenaeus quotes it in this place; it is not customary to catch sea-birds with hook and line, though Eustathius says it is possible (W. W. Merry, *Commentary on the Odyssey*, 1886, his critical note on 12.332; see the Odyssey translation's note on 12.332).

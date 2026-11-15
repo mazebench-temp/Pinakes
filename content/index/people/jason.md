@@ -5,7 +5,11 @@ kind: person
 tags: [king, thessaly]
 summary: The leader of the Argonauts, who sailed in the Argo to fetch the Golden Fleece from the land of [[aeetes|Aeetes]] and brought back Aeetes' daughter Medea. Homer knows him as the father of [[Euneus]] by the Lemnian [[Hypsipyle]], and as the favorite of Hera, for whose sake she sent the Argo safely past the Wandering Rocks.
 aliases: [Iason, Iēsōn, Aesonides]
-grc: [Ἰησον*]
+# Ἰησον* takes the Iliad's Ἰήσονι (7.469), Ἰήσονος (21.41) and the patronymic Ἰησονίδης (7.468, 7.471; 23.747);
+# Ἰήσων, the nominative, is found only at Od. 12.72. Never a shorter stem: Ἰησ* would catch ἵησι "sends" (Od. 11.239)
+# and ἰήσατο "healed" (Il. 5.904). Aristotle writes Ἰάσων (Rhetoric 1373a26, Jason of Pherae, excepted; Ἰάσονα,
+# Medea's Jason, Rhetoric 1400b13), which neither form catches.
+grc: [Ἰησον*, Ἰήσων]
 relations:
   - child: euneus (7.468-469)
   - lover: hypsipyle (7.469)
@@ -22,13 +26,13 @@ except: [Rhetoric 1373a26]
 
 In the Iliad he is only the father of Euneus, whom “Hypsipyle bore to Jason, shepherd of the people” (7.469; see [[euneus]], [[hypsipyle]] and [[shepherd-of-the-people]]). His name returns in his son's titles, Ἰησονίδης, “son of Jason” (7.468, 7.471; 23.747), and υἱὸς Ἰήσονος (21.41). The line takes for granted the Argonauts' stay on Lemnos, which later poets told (see [[the-lemnian-women]]), and it is the Iliad's only allusion to the voyage of the Argo.
 
-The Odyssey knows the ship and Hera's favor. Circe warns Odysseus of the Wandering Rocks (Πλαγκταί), which no ship of men has passed and escaped, save one: “only that one seafaring ship sailed past, the Argo, known to all, sailing from Aeetes; and the wave would soon have dashed her against the great rocks there, but Hera sent her through, since Jason was dear to her” (*Odyssey* 12.69–72; see [[hera]]). Aeetes is Circe's brother, and both are children of Helios (*Odyssey* 10.135–139). The words πᾶσι μέλουσα, “known to all”, suggest that the voyage was already the subject of famous song, and many scholars have held that an earlier epic of the Argonauts lies behind parts of Odysseus' wanderings, above all Circe and the Wandering Rocks (Karl Meuli, *Odyssee und Argonautika*, 1921; M. L. West, “Odyssey and Argonautica”, *Classical Quarterly* 55, 2005).
+The Odyssey knows the ship and Hera's favor. It names him once, when Circe tells of the Wanderers (Πλαγκταί), the rocks that only the Argo has passed, on her way home from Aeetes, and only because Hera sent her past, “since Jason was dear to her” (*Odyssey* 12.69–72; see [[the-argo]], [[the-wanderers]], [[hera]] and [[aeetes]]). Aeetes is Circe's brother, and both are children of Helios (*Odyssey* 10.135–139). The words πᾶσι μέλουσα, “in the thoughts of all”, suggest that the voyage was already the subject of famous song, and many scholars have held that an earlier epic of the Argonauts lies behind parts of Odysseus' wanderings, above all Circe and the Wandering Rocks (Karl Meuli, *Odyssee und Argonautika*, 1921; M. L. West, “Odyssey and Argonautica”, *Classical Quarterly* 55, 2005).
 
 Homer also knows Jason's family, though he never connects it with him. Among the women of the underworld Odysseus sees Tyro, who bore Pelias and Neleus to Poseidon, and Aeson, Pheres and Amythaon to her husband Cretheus; Pelias “lived in Iolcus with its wide dancing floors, / rich in flocks” (*Odyssey* 11.254–259; see [[tyro]], [[aeson]], [[cretheus]], [[pelias]], [[neleus]], [[pheres]] and [[iolcus]]). In later legend Aeson is Jason's father, and Aeson's half-brother Pelias is the king who sends Jason for the fleece. Pelias' daughter Alcestis is the mother of Eumelus, who fights at Troy (2.714–715; see [[eumelus]]), so the voyage belongs to the generation before the war.
 
 ## Outside Homer
 
-**Hesiod.** The *Theogony* tells the story in a sentence. The son of Aeson (Αἰσονίδης), by the will of the gods, led away the daughter of King Aeetes when he had accomplished the many grievous labors that the arrogant king Pelias laid on him; he brought her to Iolcus on his swift ship and made her his wife, and she bore him Medeius, whom the Centaur Chiron reared in the mountains (*Theogony* 992–1002; see [[chiron]]). The Iliad's half-line ὑπʼ Ἰήσονι ποιμένι λαῶν describes her union with him there.
+**Hesiod.** The *Theogony* tells the story in a sentence. The son of Aeson (Αἰσονίδης), by the will of the gods, led away the daughter of King Aeetes when he had accomplished the many grievous labors that the arrogant king Pelias laid on him; he brought her to Iolcus on his swift ship and made her his wife, and she bore him Medeius, whom the Centaur Chiron reared in the mountains (*Theogony* 992–1002; see [[chiron]]). A scholion on *Odyssey* 12.69, printed among the fragments of the *Catalogue of Women*, says that in Hesiod Jason was born to Aeson and Polymede, and quotes the verses “Aeson, who fathered a son, Jason, shepherd of the people, / whom Chiron reared on wooded Pelion” (fr. 13 Evelyn-White; see [[aeson]]), where Jason has the Iliad's title, ποιμὴν λαῶν (ὑπʼ Ἰήσονι ποιμένι λαῶν, 7.469).
 
 **Pindar.** The fourth *Pythian*, for Arcesilas of Cyrene, gives the fullest early account. Raised by Chiron, Jason comes down to Iolcus wearing one sandal, as an oracle had warned Pelias; Pelias sends him for the fleece; in Colchis Aeetes sets him to yoke fire-breathing bulls and plow a field; Medea, made to love him by Aphrodite, helps him, and he kills the serpent that guards the fleece and carries her away.
 

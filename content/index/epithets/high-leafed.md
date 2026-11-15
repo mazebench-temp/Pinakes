@@ -3,7 +3,7 @@ title: High-leafed
 greek: ὑψίκομος
 kind: epithet
 tags: [rare-word]
-summary: “With foliage on high,” an epithet of the oak: the oaks around which the wind roars in the simile of the armies' shout and those felled for Patroclus' pyre, and in the Odyssey the oak of Zeus at Dodona.
+summary: “With foliage on high,” an epithet of the oak: the oaks around which the wind roars in the simile of the armies' shout and those felled for Patroclus' pyre, and in the Odyssey the oaks by the Cyclops' fold, the oak that gives its leaves for the sacrifice on Thrinacia, and the oak of Zeus at Dodona.
 aliases: [hypsikomos, high-crested]
 grc: ["ὑψικόμ*"]
 en: [high-leafed]

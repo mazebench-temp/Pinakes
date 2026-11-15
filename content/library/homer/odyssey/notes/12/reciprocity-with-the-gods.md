@@ -1,0 +1,8 @@
+---
+summary: Eurylochus offers the gods an exchange: a sacrifice from the Sun's own cattle now, and a rich temple with many fine offerings for the Sun when they come home (12.343–347). The Sun answers in the same language, demanding “fitting recompense” for his cattle (12.382).
+refs: [12.343-347, 12.382]
+---
+
+**The offer.** Eurylochus' plan is a bargain in the form of worship: “let us drive off the best of the cattle of the Sun / and sacrifice to the immortals”, and “if we ever come to Ithaca, our native land, / we will at once build a rich temple to Hyperion the Sun / and put in it many fine offerings” (12.343–347; see [[sacrifice]] and [[temple]]). Nitzsch remarks that this is the only such vow in Homer, though the payment of vows is alluded to elsewhere (W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.347). Chryses could remind Apollo of the temple he had roofed and the thigh-pieces he had burned (*Iliad* 1.39–41); Eurylochus promises a temple to come, and pays for the present with the god's own herd. ἀγάλματα are the “offerings”, the precious things set up in a temple to delight the god (see the Odyssey translation's table of key words, ἀγάλματα).
+
+**The answer.** The Sun does not count the sacrifice as a gift. He asks Zeus to punish the companions, “who overweeningly have killed my cattle”, and names the price: “And if they do not pay me fitting recompense for the cattle, / I will go down into the house of Hades and shine among the dead” (12.378–383; see [[helios]] and [[poine]]). ἀμοιβή, “recompense”, is the word of exchange, and the god turns it against the men who meant to buy his favor: what they owe him is not a temple but their lives (12.415–419; see [[the-cattle-of-helios]]).

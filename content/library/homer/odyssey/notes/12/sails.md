@@ -1,0 +1,9 @@
+---
+summary: Circe sends a following wind that fills the sail as the ship leaves Aeaea (12.148–150). Near the Sirens' island the wind drops, and the companions furl the sails and stow them in the ship before they row (12.168–172); on leaving Thrinacia they set up the mast and hoist the white sails (12.402).
+---
+
+**Circe's wind.** “And behind our dark-prowed ship / she sent a following wind that filled the sail, a good companion, / Circe of the lovely tresses, a dread goddess with human voice” (12.148–150; see [[circe]], [[the-fair-wind]] and [[dark-prowed]]), the verses of the voyage to the limits of Oceanus (11.6–8; see the Book 11 note).
+
+**Furled.** As the ship comes near the island of the two Sirens, “the wind ceased, and there was a calm, / a windless calm, and a god lulled the waves to sleep. / And my companions stood up and furled the ship's sails / and stowed them in the hollow ship” (12.168–171; see [[sirens]] and [[hollow-ships]]). μηρύσαντο, “furled”, is connected with μήρινθος, “cord”, and μέρμις, the silver cord of the skin of the winds (10.23; see [[skin-of-the-winds]]), and would seem to describe brailing up the sail, W. W. Merry notes, as στεῖλαν ἀείραντες does at 3.11; but stowing the sail in the ship implies that it was taken right down from the mast, and Sophocles, as he reports, uses the verb of weighing anchor (*Commentary on the Odyssey*, 1886, on 12.170; see the translation's row μηρύομαι). The calm is ἠδὲ γαλήνη in nearly all the manuscripts, as at 5.391, and ἡ δὲ γαλήνη in Aristarchus' text, which Merry prints (see the translation's note on 12.168).
+
+**The white sails.** On the seventh day the companions put out from Thrinacia, “setting up the mast and hoisting the white sails” (12.402; see [[mast]] and [[white]]), and soon the West Wind breaks the forestays and the mast falls (12.408–410; see [[forestays]]). In the tale the ship sails no more.

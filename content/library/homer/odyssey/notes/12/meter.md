@@ -1,0 +1,5 @@
+---
+summary: Two divine mothers in Circe's instructions: Crataeis, “the mother of Scylla, who bore her to be a bane to mortals”, on whom Odysseus is to call (12.124–126), and Neaera, the “lady mother” of the Sun's daughters, who settled them on Thrinacia (12.133–135).
+---
+
+Circe names the monsters and the herders by their mothers. Against Scylla Odysseus is to row past with all his force “and call on Crataeis, / the mother of Scylla, who bore her to be a bane to mortals; / and she will stop her from rushing out again” (12.124–126; see [[scylla]]): the mother can restrain the daughter she bore. The verses were athetized, and the scholia read κραταιίς as an adverb (see the Odyssey translation's note on 12.124–126). The herders of the cattle are “whom brilliant Neaera bore to Hyperion the Sun. / When their lady mother had borne them and reared them, / she settled them on the island of Thrinacia” (πότνια μήτηρ, 12.133–135; see [[neaera]], [[phaethusa]] and [[lampetie]]). The tale does not say that Odysseus called on her; he arms instead, against Circe's command (12.226–231; see [[ephemosyne]]).

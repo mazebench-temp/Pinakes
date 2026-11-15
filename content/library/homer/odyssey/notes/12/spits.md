@@ -1,0 +1,11 @@
+---
+summary: At the sacrifice of the Sun's cattle the companions cut up the rest of the meat and thread it on spits (12.365); then the gods show signs: the hides crawl, and the meat on the spits lows, roast and raw, with a sound as of cattle (12.394–396).
+# ὀβελοῖσι (12.395), first met here (the entry has ὀβελοῖσιν); it applies in the Odyssey only.
+grc: [ὀβελοῖσι]
+passages:
+  - 12.394-396 | The meat lows on the spits
+---
+
+**The sacrifice.** “But when the thigh-pieces were burned up and they had tasted the entrails, / they cut up the rest and threaded it on spits” (12.364–365; see [[thigh-pieces]], [[sacrifice-type-scene]] and [[the-cattle-of-helios]]), the verses of the sacrifice at Pylos (3.461–462; see the Book 3 note), the second of them also the Iliad's at Chryse (*Iliad* 1.465). The sacrifice has gone wrong before the spits: oak leaves for barley, water for wine (12.357–363; see [[barley]] and [[wine]]).
+
+**The meat that lowed.** When Odysseus has come down to the ship and rebuked the companions, “at once the gods showed signs to them: / the hides crawled, and the meat on the spits lowed, / both roast and raw, and there was a sound as of cattle” (12.394–396; see [[teras]]); yet for six days they feast on the cattle (12.397–398). εἷρπον is “crawled on the ground”, W. W. Merry notes, and he compares Cassandra's prophecy in Euripides of the sacred cattle of the Sun, “which will one day send forth flesh with a voice, a bitter speech for Odysseus” (*Commentary on the Odyssey*, 1886, on 12.395; Euripides, *Trojan Women* 439–441; see [[euripides]]), and the portent that Herodotus tells of the Chersonese, where salted fish lying on a guard's fire leaped and quivered like fish newly caught, a sign, said the Persian Artayctes, that Protesilaus at Elaeus, though dead and dried, had power from the gods to punish the man who wronged him (Herodotus 9.120.1–2; see [[herodotus]] and [[protesilaus]]). Propertius, calling Postumus “a second Ulysses”, counts among the hero's trials that “the bullocks of Lampetie lowed on Ithacan spits”, *Lampeties Ithacis veribus mugisse iuvencos* (Propertius 3.12.23, 3.12.29, a verse that Merry quotes from Ameis, on 12.395; see [[propertius]] and [[lampetie]]).

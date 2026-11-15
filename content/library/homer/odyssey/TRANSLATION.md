@@ -321,7 +321,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ἄκουρος, νυμφίος | when he had no son, newly married | (7.64–65: Merry on 7.64), νυμφίος "newly married" as *Iliad* 23.223 (see the Iliad's note on 23.223) |
 | δειδέχαται | greet | δειδέχαται μύθοισιν "greet her with words" (7.72: Merry on 7.72) |
 | ἐληλέδατο, ἐρηρέδατο | were drawn out, were set firm | (7.86, 7.95: see the note on 7.86) |
-| θριγκός, κύανος | coping, dark blue enamel | θριγκὸς κυάνοιο "a coping of dark blue enamel" (7.87; θριγκός again 17.267), as the Iliad's note on 11.19–28 names it; κύανος as *Iliad* 11.24; the Iliad's κρόσσαι are "copings" too (12.258, 12.444) |
+| θριγκός, κύανος | coping, dark blue enamel | θριγκὸς κυάνοιο "a coping of dark blue enamel" (7.87; θριγκός again 17.267), as the Iliad's note on 11.19–28 names it; κύανος as *Iliad* 11.24; the Iliad's κρόσσαι are "copings" too (*Iliad* 12.258, 12.444) |
 | μυχός (δόμου) | the inner part | ἐς μυχόν "to the inner part" (7.87, 7.96); μυχῷ δόμου ὑψηλοῖο "in the inner part of the high house" (7.346), as 3.402, 4.304 |
 | ἔνθα καὶ ἔνθα | this way and that | (7.86, 7.95), as everywhere in the Iliad, also of things at rest (10.264, 23.164) |
 | ὑπερθύριον, κορώνη | lintel, handle | (7.90; κορώνη as 1.441) |
@@ -451,7 +451,7 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | αὐτοκασιγνήτη | own sister | (10.137), as αὐτοκασίγνητος "own brother" (*Iliad* 2.706) |
 | φαεσίμβροτος | who brings light to mortals | Ἠελίοιο φαεσιμβρότου (10.138; 10.191), as *Iliad* 24.785 |
 | περιωπή | a lookout | (10.146), as *Iliad* 14.8 |
-| ἐνοπή | voices | ἔργα ἴδοιμι βροτῶν ἐνοπήν τε πυθοίμην "see the works of mortals and hear their voices" (10.147), of human life heard from afar; the Iliad's ἐνοπή is "cries" of battle (3.2, 12.35) and "sound" of flutes (10.13) |
+| ἐνοπή | voices | ἔργα ἴδοιμι βροτῶν ἐνοπήν τε πυθοίμην "see the works of mortals and hear their voices" (10.147), of human life heard from afar; the Iliad's ἐνοπή is "cries" of battle (*Iliad* 3.2, 12.35) and "sound" of flutes (*Iliad* 10.13) |
 | αἶθοψ (of smoke) | fiery | αἴθοπα καπνόν "the fiery smoke" (10.152: Merry on 10.152, "fire-lit … shining with a ruddy glow"), αἶθοψ of smoke only here; it is "gleaming" of bronze and "sparkling" of wine |
 | ἄκνηστις; καταλοφάδεια | spine; on my neck | (10.161: Merry on 10.161); (10.169: Merry on 10.169) |
 | θηρίον | beast | μάλα γὰρ μέγα θηρίον ἦεν "for it was a very great beast" (10.171, 10.180), the stag |
@@ -572,6 +572,76 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ἀορτήρ, τελαμών; χαροπός | baldric, strap; with flashing eyes | (11.609–610: the baldric was a golden strap); χαροποί τε λέοντες "lions with flashing eyes" (11.611) |
 | ἡγηλάζω | drag out | τινὰ καὶ σὺ κακὸν μόρον ἡγηλάζεις "you too drag out some evil fate" (11.618) |
 | κῦμα ῥόοιο; κάλλιμος οὖρος | the wave of the stream; a fair wind | (11.639), as *Iliad* 21.263, 21.306; (11.640) |
+| χοροί; ἀντολαί | dancing floors; risings | οἰκία καὶ χοροί … καὶ ἀντολαὶ Ἠελίοιο "the house of early-born Dawn / and her dancing floors, and the risings of the Sun" (12.3–4: see the note) |
+| δισθανής | twice dying | δισθανέες, ὅτε τʼ ἄλλοι ἅπαξ θνῄσκουσʼ ἄνθρωποι "twice dying, when other men die once" (12.22: see the note) |
+| κακορραφίη | mischief | κακορραφίῃ ἀλεγεινῇ "through some grievous mischief" (12.26) |
+| προσλέγομαι | recline near | προσέλεκτο "reclined near me" (12.34: see the note) |
+| πειραίνω | bring to an end | πεπείρανται "have been brought to an end" (12.37) |
+| Σειρῆνες; Σειρήνοιιν | the Sirens; the two Sirens | (12.39, 12.44); the dual "the voice of the two Sirens" (12.52), "the island of the two Sirens" (12.167: see the note on 12.39) |
+| λιγυρὴ ἀοιδή | clear song | λιγυρῇ θέλγουσιν ἀοιδῇ "bewitch him with their clear song" (12.44; again 12.183), where the Iliad's λιγυρός of wind and whip is "shrill" (*Iliad* 5.526, 11.532) |
+| θίς; ῥινοί; πύθομαι | heap; skins; rot | θὶς … ἀνδρῶν πυθομένων "a great heap of bones / of rotting men", ῥινοὶ μινύθουσι "the skins dwindle" (12.45–46) |
+| δεψέω | knead | κηρὸν δεψήσας μελιηδέα "kneading honey-sweet wax" (12.48) |
+| ἱστοπέδη; πείρατα | mast-step; rope-ends | ὀρθὸν ἐν ἱστοπέδῃ, ἐκ δʼ αὐτοῦ πείρατʼ ἀνήφθω "upright in the mast-step, and let the rope-ends be fastened to the mast itself" (12.51 = 12.162; 12.179: see the note on 12.51) |
+| Πλαγκταί | the Wanderers | (12.61: see the note) |
+| ποτητά; λὶς πέτρη; ἐναρίθμιος | winged things; the sheer rock; to make up the number | (12.62, 12.64, 12.65; λὶς πέτρη again 12.79, "the rock is sheer") |
+| πίνακες νεῶν | the planks of ships | (12.67), where πίνακες are "platters" at 1.141 |
+| πυρὸς ὀλοοῖο θύελλαι | the storms of deadly fire | (12.68) |
+| σκόπελος; περιξεστός | crag; polished | (12.73, 12.80; 12.79) |
+| σπέος ἠεροειδές | a misty cave | (12.80) |
+| λελακυῖα; σκύλαξ νεογιλής; πέλωρ κακόν | yelping; a newborn puppy; an evil monster | (12.85–87: see the note on 12.85–88) |
+| ἄωροι; τρίστοιχοι | dangling; in three rows | (12.89, 12.91: see the note on 12.89) |
+| ἰχθυάω; περιμαιμάω | fish; quest round | αὐτοῦ δʼ ἰχθυάᾳ, σκόπελον περιμαιμώωσα "and there she fishes, questing round the crag" (12.95) |
+| κύνες (of the sea); κῆτος | dogfish; sea monster | δελφῖνάς τε κύνας τε "dolphins and dogfish" (12.96); κῆτος "sea monster" (12.97), as the Iliad's κῆτος |
+| ἀγάστονος | loud-moaning | ἀγάστονος Ἀμφιτρίτη "loud-moaning Amphitrite" (12.97) |
+| διοϊστεύω | shoot an arrow across | (12.102) |
+| ἐρινεός | wild fig tree | ἐρινεὸς … μέγας, φύλλοισι τεθηλώς "a great wild fig tree, in full leaf" (12.103; 12.432), as the Iliad's ἐρινεός |
+| δῖα Χάρυβδις; ἀναρροιβδέω, ῥοιβδέω | brilliant Charybdis; suck down | (12.104, 12.106; 12.236, 12.431: see the note on 12.104–105) |
+| φυγέειν κάρτιστον | the strongest course is to flee | (12.120) |
+| βωστρέω | call on | βωστρεῖν δὲ Κράταιιν "and call on Crataeis" (12.124: see the note on 12.124–126) |
+| ἐπιποιμένες | herders | θεαὶ δʼ ἐπιποιμένες εἰσίν "And goddesses are their herders" (12.131: see the note) |
+| ἀποικίζω | settle | Θρινακίην ἐς νῆσον ἀπῴκισε "she settled them on the island of Thrinacia" (12.135) |
+| μηρύομαι | furl | ἱστία μηρύσαντο "furled the ship's sails" (12.170) |
+| κηροῖο τροχός | a round of wax | (12.173) |
+| ἐντύνω ἀοιδήν | raise a song | λιγυρὴν δʼ ἔντυνον ἀοιδήν "and they raised their clear song" (12.183), where ἐντύνω is elsewhere "make ready" |
+| καπνός; δοῦπος (of the sea) | smoke; roar | καπνὸν καὶ μέγα κῦμα ἴδον καὶ δοῦπον ἄκουσα "I saw smoke and a great wave, and heard a roar" (12.202; δοῦπος of the sea 5.401) |
+| βομβέω; προήκης | splash down; tapering | βόμβησαν … κατὰ ῥόον "splashed down in the current" (12.204); ἐρετμὰ προήκεα "the tapering oars" (12.205) |
+| εἰλέω (of the Cyclops) | pen | εἴλει ἐνὶ σπῆι γλαφυρῷ "penned us in his hollow cave" (12.210) |
+| ῥηγμὶς βαθεῖα | the deep breakers | (12.214) |
+| ἄπρηκτος ἀνίη | a vexation past remedy | (12.223; ἄπρηκτος "past remedy" 2.79; ἀνίη "vexation" 7.192) |
+| πυκάζω | huddle | ἐντὸς δὲ πυκάζοιεν σφέας αὐτούς "and huddle themselves together inside the ship" (12.225) |
+| Σκύλλη πετραίη | Scylla of the rock | (12.231) |
+| λέβης ὣς ἐν πυρὶ πολλῷ | like a cauldron on a great fire | (12.237), as *Iliad* 21.362 |
+| ἀναμορμύρω; κυκάω (of the sea); ἀναβρόχω | seethe up; churn; swallow up | πᾶσʼ ἀναμορμύρεσκε κυκωμένη "she would seethe up, all of her, churning" (12.238), κυκώμενος as *Iliad* 21.235; ἀναβρόξειε "she swallowed up" (12.240), as ἀναβροχέν 11.586 |
+| ψάμμῳ κυανέη | dark with sand | (12.243: see the note on 12.234–245) |
+| ἐξονομακλήδην | by name | (12.250) |
+| πρόβολος; ῥάβδος (of a fisherman); εἴδατα; βοὸς κέρας ἀγραύλοιο | a jutting rock; rod; bait; the horn of an ox of the fields | the fishing simile, "As when on a jutting rock a fisherman with a very long rod / casts down bait" (12.251–253: see the note); ῥάβδος is "rod" here, the "wand" of Circe and Athena elsewhere |
+| πόροι ἁλός | the paths of the sea | πόρους ἁλὸς ἐξερεείνων "searching out the paths of the sea" (12.259) |
+| ἀμύμων νῆσος | the flawless island | (12.261) |
+| τερψίμβροτος | who gladdens mortals | νῆσον … τερψιμβρότου Ἠελίοιο "the island of the Sun, who gladdens mortals" (12.269; 12.274) |
+| μαντήια | prophecies | μαντήια Τειρεσίαο "the prophecies of Teiresias" (12.272) |
+| σιδήρεος | made of iron | σοί γε σιδήρεα πάντα τέτυκται "you are made all of iron" (12.280) |
+| ἐκ νυκτῶν; δηλήματα νηῶν | out of the nights; the ruin of ships | (12.286: see the note on 12.284–286) |
+| ζαής | blustering | ζαῆν ἄνεμον "a blustering wind" (12.313: see the note on 12.312–313) |
+| ὁρμίζω | anchor | νῆα μὲν ὡρμίσαμεν "we anchored the ship" (12.317), as *Iliad* 14.77 and 3.11 |
+| ἄλληκτος | without ceasing | (12.325) |
+| λιλαιόμενοι βιότοιο | longing for life | (12.328: see the note on 12.328–330) |
+| ἐξάρχω βουλῆς | lead the way in counsel | κακῆς ἐξήρχετο βουλῆς "led the way in evil counsel" (12.339), as *Iliad* 2.273 |
+| ἀγάλματα | offerings | (12.347) |
+| ἅπαξ πρὸς κῦμα χανών; στρεύγομαι | with one gulp of the wave; be slowly drained away | (12.350–351), στρεύγεσθαι as *Iliad* 15.512 |
+| φύλλα δρυὸς ὑψικόμοιο | the leaves of a high-leafed oak | for barley meal (12.357) |
+| ἀυτμή (of fat) | fragrance | κνίσης … ἡδὺς ἀυτμή "the sweet fragrance of the fat" (12.369), as of Hera's oil at *Iliad* 14.174 |
+| ἐπιεικὴς ἀμοιβή | fitting recompense | (12.382) |
+| ἐν νεκύεσσι φαείνω | shine among the dead | (12.383: see the note on 12.383, 12.388) |
+| ἐπισταδόν | going up to each in turn | (12.392) |
+| ὀπταλέα τε καὶ ὠμά | both roast and raw | (12.396) |
+| πρότονοι; ἄντλος | forestays; bilge | (12.409, 12.411), πρότονοι as *Iliad* 1.434 |
+| ἀρνευτήρ | diver | ἀρνευτῆρι ἐοικώς "like a diver" (12.413), as *Iliad* 12.385, 16.742 |
+| θέειον | sulfur | (12.417) |
+| κλύδων; τοῖχοι; τρόπις; ἐπίτονος | surge; sides; keel; backstay | (12.420–423: see the note on 12.420–423) |
+| ἀναμετρέω | measure out again | ἀναμετρήσαιμι Χάρυβδιν "measure out again the way to deadly Charybdis" (12.428: see the note) |
+| νυκτερίς; ἀπήωρος | bat; hung high out of reach | (12.433, 12.435) |
+| ἐνδουπέω | fall with a splash | (12.443) |
+| μυθολογεύω; ἀριζήλως | tell a tale; plainly | (12.450, 12.453) |
 
 ## Epithets and formulas of the Odyssey
 
@@ -822,12 +892,23 @@ reference (1.183) is a line of the Odyssey; Iliad lines are named (*Iliad* 6.215
 | ὦ Ἀχιλεῦ Πηλῆος υἱέ, μέγα φέρτατʼ Ἀχαιῶν | Achilles, son of Peleus, by far the strongest of the Achaeans (11.478), as *Iliad* 16.21, 19.216 |
 | ὣς ἐφάμην, ὁ δέ μʼ οὐδὲν ἀμείβετο | So I spoke, and he answered me nothing (11.563) |
 | ἀλλὰ πρὶν ἐπὶ ἔθνεʼ ἀγείρετο μυρία νεκρῶν / ἠχῇ θεσπεσίῃ | but before that the countless tribes of the dead gathered / with a wondrous din (11.632–633), ἠχῇ θεσπεσίῃ as *Iliad* 8.159; θεσπεσίῃ ἰαχῇ "with a wondrous cry" (11.43) is another noun |
+| ἡ δʼ ἐν μέσσῳ στᾶσα μετηύδα δῖα θεάων | And standing in our midst she spoke, brilliant among goddesses (12.20) |
+| καὶ τότε δή μʼ ἐπέεσσι προσηύδα πότνια Κίρκη | Then lady Circe spoke to me with words (12.36) |
+| δησάντων σʼ ἐν νηὶ θοῇ χεῖράς τε πόδας τε | let them bind you in the swift ship hand and foot (12.50; "bound me", 12.178) |
+| δὴ τότʼ ἐγὼν ἑτάροισι μετηύδων ἀχνύμενος κῆρ | Then I spoke among my companions, grieving at heart (12.153 = 12.270) |
+| ἔπλετο νηνεμίη, κοίμησε δὲ κύματα δαίμων | a windless calm, and a god lulled the waves to sleep (12.169; the calm as 5.391–392) |
+| ἑζόμενοι λεύκαινον ὕδωρ ξεστῇς ἐλάτῃσιν | they made the water white with their polished oars of fir (12.172) |
+| Ἠελίου τʼ αὐγὴ Ὑπεριονίδαο ἄνακτος | and the ray of the lord Sun, son of Hyperion (12.176) |
+| ὀφρύσι νευστάζων | nodding with my brows (12.194) |
+| αἴ κέ ποθι Ζεὺς / δώῃ τόνδε γʼ ὄλεθρον ὑπεκφυγέειν καὶ ἀλύξαι | if ever Zeus / will grant us to escape this destruction and get away (12.215–216), as 1.379 and *Iliad* 8.243 |
+| ἦμος δὲ τρίχα νυκτὸς ἔην, μετὰ δʼ ἄστρα βεβήκει | But when it was the third part of the night, and the stars had passed over (12.312 = 14.483) |
+| ἦμος δʼ ἐπὶ δόρπον ἀνὴρ ἀγορῆθεν ἀνέστη … τῆμος | at the hour when a man rises from the assembly for his supper, … at that hour (12.439–441: see the note on 12.430–441) |
 
 ## Places where the Greek is disputed
 
 Merry is cited from W. W. Merry, J. Riddell and D. B. Monro, *Commentary on the Odyssey* (1886), as
 digitized by Perseus (1.1–2.66 and Book 3) and as scanned from the Clarendon Press volume at the
-Internet Archive (2.67–434, Books 4–11, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
+Internet Archive (2.67–434, Books 4–12, and his Appendix I, "The Homeric Ship"): "(Merry on 1.241)"
 is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 
 - **1.1** — πολύτροπον "of many turns": Merry (on 1.1) glosses "of many devices" (*versutus*), a word found again only at 10.330, with many equivalents (πολύμητις, πολύφρων, πολυμήχανος, ποικιλόμητις); Nitzsch took it as πολύπλαγκτος, with ὃς μάλα πολλὰ πλάγχθη as its explanation. The English keeps both the turns of the mind and the wanderings. Livius Andronicus rendered the line "Virum mihi, Camena, insece versutum" (Merry on 1.1).
@@ -1669,3 +1750,69 @@ is the note on that line, "(Merry, Appendix I §6)" a section of the appendix.
 - **11.631** — Hereas, quoted by Plutarch, says that Peisistratus inserted the line; Merry brackets it.
 - **11.632–634** — the Gorgon's head as "any horrible spectre" (Merry on 11.634).
 - **11.640** — εἰρεσίῃ, dative in the text; Merry prefers the nominative εἰρεσίη (his critical note).
+- **12.1–4** — ἀπὸ δʼ ἵκετο (2) is ἀφίκετο δέ, still part of the protasis; the apodosis begins at 5 (Merry on 12.2). Aeaea is placed at the sunrise, against the course of Book 10: the scholia (B) explain it as the passage out of Hades into the light (Voss, Nitzsch, Klausen), Merry as the meeting of the extreme East and West (Aratus, as on 10.86); the plural ἀντολαί reflects the sun's rising at shifting points through the year (Merry on 12.3–4).
+- **12.16** — διείπομεν from the root σεπ, unlike δίειπε (*Iliad* 10.425) (Merry on 12.16); the verse as *Iliad* 11.706, "We were arranging all these things".
+- **12.22** — δισθανέες "twice dying"; Schol. Q has the lemma δὶς θανέες (Apollonius; Eustathius gives the reading to Apollodorus); ὅτε passing into "while" (Merry on 12.22).
+- **12.33–34** — the scene is probably a grotto, not Circe's house (cf. 143); προσέλεκτο "reclined at my feet", the scholia's προσεῖπε untenable (Merry on 12.34): the English "reclined near me".
+- **12.38** — the god is "some kindly power", neither Poseidon nor Helios (Merry on 12.38).
+- **12.39, 12.52, 12.167, 12.185** — the ancient etymologies of Σειρῆνες (Merry on 12.39); Homer's Sirens are two, as the dual Σειρήνοιιν (52, 167) and νωιτέρην (185) show: "the two Sirens", "the voice of us two".
+- **12.45** — the construction of ὀστεόφιν: genitive with θίς or with πυθομένων, or an instrumental of material (Merry on 12.45).
+- **12.47** — the text prints παρεξελάαν as one word, against παρὲξ ἐλάσωσιν (55), παρὲξ ἐλάαν (109) and Merry's text: perhaps a join in the digitization (Murray's page not checked); the lexicon takes ἐπὶ … ἀλεῖψαι as ἀλείφω with ἐπί, as 177 and 200.
+- **12.47–50** — the infinitives are imperatival; Ameis takes αἴ κʼ ἐθέλῃσθα as a parenthesis and begins a new sentence at δησάντων, Merry the apodosis there (Merry on 12.47). Alcman's Κίρκη ἐπαλείψασα, quoted by Nitzsch, is the earliest extant allusion to a scene of the Odyssey (Merry on 12.47).
+- **12.51** — ἱστοπέδη "the mast-step", virtually the μεσόδμη (Merry's Appendix I §12); πείρατα "rope-ends".
+- **12.53–54** — athetized by Aristophanes (Schol. H.: why bind again one already bound?); 54 διδέντων is Aristarchus' reading, the manuscripts δεόντων; 163–164 are obelized too (Merry's critical notes).
+- **12.61** — Πλαγκταί "the Wanderers": "wandering" against most moderns' "striking"; the scholia are divided; later the rocks were identified with the Symplegades and the Lipari islands, and Merry suggests icebergs or volcanic islets (Merry on 12.61).
+- **12.62–65** — the doves that carry ambrosia, and the Pleiads (Merry on 12.62).
+- **12.69–72** — probably a later addition (Merry on 12.70); La Roche reads κείνῃ at 69; Aristarchus is said to have written πασιμέλουσα as one word at 70 (Merry's critical notes); πᾶσι μέλουσα "in the thoughts of all", as 9.20.
+- **12.73** — οἱ δέ, "Now, on the other side", the antithesis to ἔνθεν μέν (59) (Merry on 12.73).
+- **12.74–75** — νεφέλη … κυανέη runs over the verse, as *Iliad* 20.417–418 "a cloud …, / a dark cloud"; τό (75) a vague neuter (Aristarchus, in Merry).
+- **12.77** — ἐπιβαίη is Aristarchus' reading, against the vulgate καταβαίη: "set foot on the top" (Merry on 12.77).
+- **12.85–88** — Σκύλλη "the render", the link with σκύλαξ probably later (Merry on 12.85); 86–88 athetized by the scholia (how could she have a puppy's voice?), which Merry defends as "an intentionally grotesque contrast between the vast size of Scylla, and the thin, shrill, cry she utters" (Merry on 12.86).
+- **12.89** — ἄωροι: Merry lists seven views, "ugly"; "imperfect" (Ameis); "feeble" (scholia, Eustathius); "pendulous" (Schol. B, Lobeck, adopted by Curtius); "fore-feet" (Nitzsch); Aristarchus' ἀκώλους καὶ πλεκτανώδεις; Crates' δυσφυλάκτους; "(2) and (4) seem to have most to recommend them" (Merry on 12.89). The English "dangling" is the fourth.
+- **12.101–102** — the punctuation is Nicanor's; πλησίον against πλησίοι (Merry's critical note).
+- **12.104–105** — Charybdis is the whirlpool personified; ἀναρροιβδεῖ (104) and ἀναροιβδεῖ (105) are both required by the metre; τρίς against δίς in Polybius (Merry on 12.104–105).
+- **12.111** — two manuscripts have γρ. ἀτυζόμενος in the margin, which Buttmann thinks very good, since Odysseus interrupts Circe; Murray prints ἀμειβόμενος, as 10.336 (Merry's critical note).
+- **12.112–352** — quotation marks: the digitized text gave no opening mark at 112, ” at 114, double marks in the speeches within the tale (116–141, 154–164, 184–191, 208–221, 271–276, 279–293, 297–302, 320–323, 340–351) and a stray “ at 352, a narrative line; corrected to single marks inside Odysseus' tale, as at 4.492–555.
+- **12.116–117** — the manuscripts read δʼ αὖ at 116; Bekker θεοῖς ὑποείξεαι at 117 (Merry's critical notes).
+- **12.124–126** — athetized; the scholia read κραταιίς as an adverb; the text has the nymph Crataeis, the mother of Scylla (Merry's critical note and note on 12.124).
+- **12.127** — Thrinacia: the ancients read Trinacria; Merry derives the name from θρῖναξ "trident"; Düntzer "windswept" (Merry on 12.127).
+- **12.129** — the seven herds of fifty, read by an allegory that Merry reports from Aristotle as the days of the year (Merry on 12.129).
+- **12.131** — ἐπιποιμένες is Aristarchus' reading, against ἐπὶ ποιμένες (Merry's critical note, its heading misread "121" in the scan).
+- **12.140–141** — omitted, or written in the margin, in most manuscripts; La Roche brackets them; Murray prints them (= 11.113–114) (Merry's critical note).
+- **12.147** — wanting in Harl., Vind. 133 and other manuscripts and bracketed by almost all editors since Wolf: "The use of the oars was unnecessary when there was a favouring wind" (Merry's critical note). Murray prints it (= 9.104).
+- **12.156–157** — ἵνα with κε is found only here; some manuscripts read ἠὲ θάνωμεν (Nauck); φύγοιμεν against φύγωμεν (Merry's critical notes).
+- **12.168** — ἠδὲ γαλήνη (nearly all manuscripts, as 5.391) against Aristarchus' ἡ δὲ γαλήνη, with the aspirate (Schol. H.), which Merry prints (his critical note on 12.168). The English follows Murray, as 5.391–392.
+- **12.175–176** — κέλετο is used of an external force only here: elsewhere κέλομαι is of persons, and the humour is intended (Merry on 12.175); Nitzsch would delete 176.
+- **12.181** — ἀπῆμεν ὅσον (Murray, the manuscripts) against ἀπῆν ὅσσον (Merry, with Schol. M and Schol. B.H.), the form of the formula at 5.400 and 9.473: "ἀπῆμεν ὅσον may have been an early correction to suit διώκοντες" (Merry's critical note and note on 12.181). The English "we were" follows Murray.
+- **12.184–191** — the Sirens' song; Cicero translates it, "O decus Argolicum, quin puppim flectis, Ulixes" (*De Finibus* 5.49), and νεῖται (188) is his "ad patrias … oras" (Merry on 12.184, who quotes the version).
+- **12.185** — the text prints ὄπ ἀκούσῃς without the elision mark, the only such word in the book (ὄπʼ at 52, 160, 187): a slip, left as printed.
+- **12.203** — τῶν is demonstrative; the oars hang in their loops (Merry on 12.203).
+- **12.209** — ἕπει (Murray, La Roche, Hentze; the lemma of Schol. H. and of Vind. 133, explained as ἕπω, "for περιέπει") against ἔπι = ἔπεστι (Merry's text; Schol. V ἐπέρχεται) and Ahrens' ἔπει: the corrections "read like attempts to escape from the unprecedented lengthening of the final vowel in ἔπι" (Merry's critical note and note on 12.209). The English "besets" follows Murray.
+- **12.212** — τῶνδε means the dangers ahead (Ameis), unlike *Aeneid* 1.203 (Merry on 12.212).
+- **12.219–221** — the ship is the subject of ἐξορμήσασα; κεῖσε points toward the Wanderers; σκοπέλου (Murray; Schol. H. ἑνικῶς, Scylla's rock) against σκοπέλων (most editors since Wolf, with strong manuscript authority, and Merry: "the cliffs", both rocks) (Merry's critical note on 12.220 and note on 12.219). The English "the crag" follows Murray.
+- **12.223** — Odysseus keeps Scylla secret because he foresees the loss of six men (Merry on 12.223).
+- **12.226–227** — ἀλεγεινῆς: Merry "hard", because a fighting man chafes at passive endurance; λανθανόμην "I let myself forget" (Merry on 12.226–227). The English keeps the verb on 227: "I let the grievous command of Circe / slip from my mind".
+- **12.234–245** — Merry's text differs from Murray's at 234 (ἡμεῖς δέ), 235 (ἔνθεν γάρ for ἔνθεν μέν), 242 (βεβρύχει) and 245 (κοίλης for γλαφυρῆς); 241 πέτρη (Bekker) or πέτρῃ; 243 κυανέη (Ameis, La Roche) against the vulgate κυανέῃ, which Merry rejects; 244 ἴδομεν, a few manuscripts ἴομεν (Merry's critical notes).
+- **12.251–253** — ῥάβδος here a fishing rod, not a spear; κέρας, as Aristarchus explained it (Schol. Q.), a little horn tube on the line above the hook, as at *Iliad* 24.81 (the Iliad's note on 24.80–82 records Leaf's preference for Haskins' horn lure); εἴδατα (Aristarchus) against δείλατα (Callistratus) (Merry on 12.251 and his critical note on 252).
+- **12.256–257** — κεκληγῶτας against κεκλήγοντας (La Roche); ἐν αἰνῇ δηιοτῆτι here a "death-struggle" (Merry on 12.257).
+- **12.265–275** — Bekker μυκηθμόν (265); the manuscripts μάντιος (267); singular verbs at 268, 273 and 275 in the best manuscripts, of Circe, against the plural; φαεσιμβρότου at 269 (Merry's critical notes).
+- **12.284–286** — Zenodotus οὕτως; ἀλάλησθαι (Herodian) against ἀλαλῆσθαι (Ptolemy of Ascalon) at 284; ἐκ νυκτῶν "out of the nights", Merry "by night" (on 12.286).
+- **12.290** — the text lacks the question mark, though the question opens at 287 (πῇ) and Merry prints it: a slip, left as printed. The only place where the gods together are ἄνακτες, "sovereign gods", "probably no more than a graphic expression" for the wildness of the winds (Merry on 12.290); Zenodotus wrote φίλων ἀέκητι ἑταίρων (Schol. H., in Merry's critical note).
+- **12.293** — ἐνήσομεν is "put out into the wide sea"; Merry rejects "launch" (on 12.293).
+- **12.297** — βιάζετε μοῦνον is the reading of all the manuscripts but M; Zenodotus read βιάζεσθʼ οἷον ἐόντα, as 9.410; the active is admissible, and μοῦνον means "in a minority of one" (Merry's critical note and note on 12.297).
+- **12.312–313** — τρίχα νυκτὸς ἔην, "the stars had southed" (Merry on 12.312; the verse again 14.483); ὦρσεν ἔπι (Aristarchus) against ὦρσε δʼ ἐπί; ζαῆν an Aeolic accusative, with Aristarchus' accent (Merry on 12.313).
+- **12.319, 12.325** — γρ. πᾶσιν for μῦθον (319); ἄη against ἄε (325) (Merry's critical notes).
+- **12.328–330** — λιλαιόμενοι βιότοιο, "vitae servandae studiosi" (Merry on 12.328); καὶ δή still within the ὅτε clause, δὴ ἄγρην with synizesis (Merry on 12.330).
+- **12.332** — bracketed by Bekker and other modern editors as interpolated from 4.369, though Athenaeus (1.13) quotes it here: "It is not customary (though, as Eustath. says, it is possible) to catch (sea-) birds with a hook and line" (Merry's critical note on 12.332, its heading misread "222" in the scan).
+- **12.347** — τεύξομεν a future with κε (Merry) or a short-vowel aorist subjunctive.
+- **12.351, 12.356** — στρέγγεσθαι a variant of στρεύγεσθαι (351); περιστήσαντο, the manuscripts' reading as *Iliad* 2.410, against Bekker's conjecture περίστησάν τε (356) (Merry's critical notes).
+- **12.369–370** — ἡδὺς ἀυτμή, against Kayser's θερμός (La Roche dissents); μέγʼ is Bekker's conjecture, printed by Murray, against the manuscripts' μετʼ, which Merry keeps: "among the immortals", a standing formula not to be pressed, since Odysseus was not in the gods' presence (Merry on 12.370 and his critical note). The English takes μέγʼ with γεγώνευν, "called out loudly", as μέγα δʼ εὔξατο (17.239).
+- **12.374–390** — these lines carry the obelos in M and were probably rejected by Aristarchus and by Aristonicus: they contradict *Iliad* 3.277, where the Sun sees and hears all things and should have known for himself (Schol. B. Q.); Schol. H. on ὠκέα, "in many copies ὠκύς" (Merry's critical note). At 375 ἔκταμεν ἡμεῖς is the reading of Aristarchus' copies, the manuscripts having ἔκταν ἑταῖροι "from a wish to exonerate Odysseus from the blame" (Merry's critical note and note on 12.375).
+- **12.383, 12.388** — φαείνω a subjunctive (Merry) or a present indicative; τυτθά, Zenodotus τριχθά (Merry's critical note on 388).
+- **12.389–390** — a scholion says that Odysseus lies here, since Calypso had never yet seen Hermes; Merry answers that the falsehood "rather rests with Calypso" and calls Eustathius' defence "very suspicious" (Merry's critical note and note on 12.389).
+- **12.394** — the text prints προύφαινον without the coronis (προὔφαινον): a slip, left as printed, as at 3.8 and 9.143–145.
+- **12.403** — the half-verse of 201, "But when we were leaving the island" in both, and with Κρήτην at 14.301.
+- **12.420–423** — τὴν δὲ ψιλήν, the keel left bare, "the sides of the ship having been torn away from it" (Merry's Appendix I §2); Zenodotus ἔαξε for ἄραξε (422); ἐπίτονος opens 423 with a short syllable, a στίχος ἀκέφαλος; Athenaeus (14.632E) quotes the line with τετάνυστο for βέβλητο; τετευχώς is the only perfect active of τεύχω in a passive sense; the backstay ran from masthead to stern (Hesychius), while Suidas took ἐπίτονος for the rope ring holding the yard to the mast (Merry on 12.423; Appendix I §15).
+- **12.428** — θάλασσαν for Χάρυβδιν in Apollonius the Sophist, which Nauck thinks right, though Plato (*Epistle* 7) and Plutarch (*Dion*) have Χάρυβδιν; ὄφρα depends on ἦλθε, and ἀναμετρήσαιμι Χάρυβδιν = ἀναμετρήσας πέλαγος Χάρυβδιν ἱκοίμην (3.179) (Merry's critical note and note on 12.428).
+- **12.430–441** — doubted "in many copies" (Schol. H. Q.): Odysseus reaches Charybdis at sunrise but the timbers come up only at evening; ἦμος δέ always opens a verse; ἀνέστη is an aorist of custom; 435 εἶχον, ἦσαν or ἔσσαν; 441 Aristarchus τάδε for τά γε (Merry's critical note, its heading misread "430..441" in the scan, and on 12.439–441).
+- **12.445–446** — rejected by the scholia (Schol. H. Q.), since Scylla cannot leave her cave; Merry brackets them and suggests ἐμέ as the subject of εἰσιδέειν, "suffered him not to set eyes on Scylla again"; Ameis thinks them compiled from 223 and other lines (Merry's critical note and note on 12.445–446). The English follows the scholia's construal, with Scylla seeing him.

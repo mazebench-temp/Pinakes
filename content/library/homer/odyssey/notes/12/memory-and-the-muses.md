@@ -1,0 +1,8 @@
+---
+summary: The Sirens claim the knowledge of the Muses: “For we know all the things that in wide Troy / the Argives and Trojans toiled through by the will of the gods, / and we know all that comes to pass upon the bountiful earth” (12.189–191). Odysseus, who promised his companions that they would remember the strait (12.212), is the one who remembers it, telling the tale to the Phaeacians.
+refs: [12.189-191, 12.212]
+---
+
+**Rival Muses.** The poet of the Iliad asks the Muses for the names of the leaders, “for you are goddesses, and are present, and know all things, / but we hear only the report, and know nothing” (*Iliad* 2.485–486; see [[we-hear-only-the-report]]). The Sirens offer the same knowledge to a mortal, the matter of Troy and all that happens on the earth, and promise that the man who hears it “goes home delighted, and knowing more” (12.188–191; see [[sirens]], [[odysseus-and-the-sirens]] and [[the-gods-know-all-things]]). Their song is clear, λιγυρή (12.44, 12.183), and W. W. Merry compares Alcman, who calls the Muse “clear-voiced Siren” (*Commentary on the Odyssey*, 1886, on 12.44). The Muses' song is memory kept for men to come; the Sirens' is a memory that keeps its hearers, among the bones of men rotting in their meadow (12.45–46).
+
+**Remembering.** Odysseus' promise in the strait, “some day, I think, we will remember these things too” (12.212; see [[we-will-remember-these-things-too]]), is fulfilled by himself alone, as the teller of the tale. Alcinous had said he told it “skillfully, as a singer does” (11.368; see [[singers]] and [[the-tale-to-alcinous]]): the man who heard the Sirens and sailed on becomes the singer of his own sorrows.

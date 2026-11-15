@@ -1,0 +1,15 @@
+---
+summary: Elpenor's oar is fixed on his mound (12.15). The companions row from Aeaea and past the Sirens (12.147, 12.171–172, 12.180, 12.194); at the smoke and the roar the oars fly from their hands and trail in the current, and Odysseus bids them strike the deep breakers with their oars (12.203–205, 12.214–215). After the wreck he rows on the timbers with his hands (12.444).
+# Forms first met here (they apply in the Odyssey only): κώπῃσιν, "with your oars" (12.214; κώπη alone is also the hilt
+# of a sword and the handle of a key), "ξεστῇς ἐλάτῃσιν", "with their polished oars of fir" (12.172; ἐλάτη is the fir
+# tree elsewhere), and διήρεσα, "I rowed" (12.444; διήρεσσʼ, 14.351, to add with its book).
+grc: [κώπῃσιν, "ξεστῇς ἐλάτῃσιν", διήρεσα]
+---
+
+**Elpenor's oar.** On the mound of Elpenor “we fixed the well-fitted oar” (12.15; see [[well-fitted]], [[tomb]], [[elpenor]] and [[the-death-of-elpenor]]), as he had asked among the dead (11.77–78). W. W. Merry compares the tomb that Aeneas heaps up for Misenus, setting on it the man's own arms, his oar and his trumpet (*Commentary on the Odyssey*, 1886, on 12.15; Virgil, *Aeneid* 6.232–233; see [[virgil-the-unburied]]).
+
+**Rowing.** The verse of the oars, “and sitting in order they struck the gray sea with their oars”, follows the boarding at 12.147, as at 9.104 and 9.180 (see [[rowing-benches]] and [[gray-sea]]); it is missing from some manuscripts and is bracketed by almost all editors since Wolf, for “The use of the oars was unnecessary when there was a favouring wind” (Merry's critical note on 12.147; see the translation's note on 12.147). Near the Sirens, when the wind has dropped, “sitting at the oars / they made the water white with their polished oars of fir” (12.171–172): ἐλάτη, the fir, is the oar itself, from which Merry gathers that fir was the usual wood for oars (Appendix I §10). The companions, their ears stopped with wax, “bent forward and rowed” when Odysseus begged to be set free (12.194; see [[wax]] and [[brows]]), the half-verse with which they rowed away from the Cyclops at his nod (9.490).
+
+**The oars dropped.** At the smoke and the roar of the strait, “in their terror the oars flew from their hands, / and all the oars splashed down in the current; and the ship stopped there, / since they no longer plied the tapering oars with their hands” (12.203–205). τῶν is the demonstrative, not an article with δεισάντων; the oars hung at the thole-pins in their leather loops, so they did not fall overboard but dragged along at the ship's side (Merry on 12.203; Appendix I §9; see the translation's note on 12.203). Odysseus goes through the ship: “You keep striking the deep breakers of the sea with your oars, / sitting at the rowing benches” (12.214–215), and says nothing of Scylla, “lest my companions in fear should stop / rowing, and huddle themselves together inside the ship” (12.224–225; see [[odysseus-passes-scylla]]).
+
+**With his hands.** When Charybdis gives back the timbers, Odysseus drops onto them, “and sitting on them I rowed with my hands” (12.444; see [[keel]] and [[charybdis]]).

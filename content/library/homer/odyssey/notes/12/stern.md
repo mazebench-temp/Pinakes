@@ -1,0 +1,7 @@
+---
+summary: In the storm after Thrinacia the falling mast strikes the helmsman's head on the stern of the ship (12.411–412). Odysseus' own place, W. W. Merry supposes, was at the stern, from which he walks forward through the rowers when the strait comes in sight (12.206).
+---
+
+**Odysseus at the stern.** At the smoke and the roar, “I went through the ship and urged on my companions / with soothing words, standing beside each man” (12.206–207). Odysseus, doubtless, was at the stern, W. W. Merry writes, and now walks the whole length of the ship forward, passing through the rowers and speaking to each in turn (*Commentary on the Odyssey*, 1886, on 12.206; see [[ships]]); at the end he goes up on the deck at the prow (12.229–230; see [[deck]]). The stern is the leader's place, where Athena sat with Telemachus beside her on the voyage to Pylos (2.416–418; see the Book 2 note).
+
+**The helmsman struck.** The storm breaks the forestays, “and the mast fell backward, and all the tackle / was spilled into the bilge. And on the stern of the ship / it struck the helmsman's head” (12.410–412; see [[mast]], [[forestays]] and [[steering-oar]]). The subject of πλῆξε is the mast, ὁ δʼ ἄρα (Merry on 12.411), which falls aft over the stern, where the helmsman sits at his steering oar on the raised deck (Merry, Appendix I §5). πρυμνῇ ἐνὶ νηί is the phrase of Athena's seat on Telemachus' ship (2.417) and of the place where Odysseus stows Dolon's spoils (*Iliad* 10.570).

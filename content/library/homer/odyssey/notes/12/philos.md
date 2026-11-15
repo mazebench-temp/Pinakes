@@ -1,0 +1,7 @@
+---
+summary: φίλος in the book: Circe takes Odysseus away from his “dear companions” (12.33); Jason was “dear” to Hera (12.72); Odysseus begins three speeches “Friends” (12.154, 12.208, 12.320); the companions' “dear heart” breaks and they weep for their “dear companions” (12.277, 12.309); and Calypso “loved me” (12.450).
+---
+
+**Friends.** Odysseus opens his three speeches to the companions with ὦ φίλοι, “Friends”: when he tells them Circe's oracles, when he rallies them in the strait, and when he warns them in the assembly on Thrinacia (12.154, 12.208, 12.320; see [[not-without-knowledge-of-evils]] and [[assembly]]). In Book 10 too he began his encouragements so, “Friends, we shall not go down yet” and “friends, we do not know where the darkness is” (10.174, 10.190). The companions are φίλοι in grief: “their dear heart was broken” when he bade them sail past the island (12.277; see [[etor]]), and after supper they wept for “their dear companions / whom Scylla had seized from the hollow ship and devoured” (12.309–310; see [[tears]]). Circe takes him by the hand “away from my dear companions” to tell him the way (12.33; see [[circe]]).
+
+**Dear to a god.** Hera saw the Argo past the Wanderers, “since Jason was dear to her” (ἐπεὶ φίλος ἦεν Ἰήσων, 12.72; see [[jason]] and [[hera]]), and the tale ends with Calypso, “who loved me and looked after me” (ἥ μʼ ἐφίλει τʼ ἐκόμει τε, 12.450; see [[calypso]]), as he had told Arete the night before that Calypso “loved me with care and cared for me” (7.256).

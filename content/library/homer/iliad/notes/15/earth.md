@@ -1,6 +1,6 @@
 ---
 summary: Hera calls Earth to witness her oath to Zeus, with Heaven and the water of Styx; in Poseidon's account of the lots the earth belongs to all three brothers alike; and at the ships it is the native land the fighters long for and the ground that runs black with blood.
-# γῆν (15.24) is the only accusative of the short form γῆ in Homer.
+# γῆν (15.24) is the only accusative of the short form γῆ in the Iliad (the Odyssey has it at 17.237).
 grc: [γῆν]
 ---
 

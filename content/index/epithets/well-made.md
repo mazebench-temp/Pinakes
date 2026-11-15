@@ -3,7 +3,7 @@ title: Well-made
 greek: εὔτυκτος
 kind: epithet
 tags: [weapon, craftsman]
-summary: “Well-wrought,” an epithet of things skillfully made, above all the helmet in the arming verse.
+summary: “Well-wrought,” an epithet of things skillfully made: in the Iliad above all the helmet in the arming verse, and in the Odyssey the ship.
 aliases: [well-wrought, eutyktos]
 grc: [εὔτυκτον, ἐϋποίητον, ἐυεργέος]
 en: [well-made]

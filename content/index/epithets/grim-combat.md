@@ -3,7 +3,7 @@ title: Grim combat
 greek: αἰνὴ δηϊοτής
 kind: epithet
 tags: [warfare]
-summary: “Dread battle,” the line-end formula ἐν αἰνῇ δηϊοτῆτι, at home in challenges to single combat.
+summary: “Dread battle,” the line-end formula ἐν αἰνῇ δηϊοτῆτι, at home in challenges to single combat, and said also of a warrior's killing and of a death-struggle that cannot be won.
 aliases: [dread battle, aine deiotes]
 grc: [αἰνῇ δηϊοτῆτι]
 en: [grim combat]

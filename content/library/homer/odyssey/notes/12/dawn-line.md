@@ -1,0 +1,5 @@
+---
+summary: The dawns of the book: “There we fell asleep and waited for brilliant Dawn. / And when early-born Dawn appeared, the rosy-fingered” (12.7–8); Circe's “and when dawn appears / you shall sail” (12.24–25); “So she spoke, and at once Dawn of the golden throne came” (12.142); and on Thrinacia, after the night of the storm, “And when early-born Dawn appeared, the rosy-fingered” (12.316).
+---
+
+12.7 is the verse of the island of goats (9.151; see the Odyssey translation's formulas), and the dawn of 12.8 is the day of Elpenor's burial (12.8–15; see [[the-death-of-elpenor]]). The dawn of 12.142 comes at once at the end of Circe's warnings, as at the end of her instructions for the voyage to the dead (10.541; see [[golden-throned]]). After the storm the days are counted otherwise: a whole month of the South Wind (12.325), six days of feasting and a seventh “added” by Zeus (12.397–399), and for the wreck “All night long I was borne along, and with the rising sun” (12.429) and “for nine days I was borne along, and on the tenth night” (12.447; see [[early-born]], [[rosy-fingered]] and [[eos]]).

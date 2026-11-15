@@ -1,0 +1,72 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 35,
+      "title": "The Return to Aeaea",
+      "summary": "Odysseus' tale goes on. The ship leaves the stream of Oceanus and comes back to the island of Aeaea, where they sleep on the shore. At dawn they bring Elpenor's body from Circe's house, burn it with his armor, heap up his mound and fix his oar on it. Circe comes with bread, meat and wine, greets them as men twice dying, and takes Odysseus apart to hear all that happened."
+    },
+    {
+      "from": 36,
+      "to": 141,
+      "title": "Circe's Instructions",
+      "summary": "Circe tells him the way. First the Sirens, sitting in their meadow among the bones of men: he must stop his companions' ears with wax and have himself bound to the mast if he wishes to hear them. Then two ways: the Wanderers, which only the Argo has passed, or the two crags, Scylla in her cave with twelve dangling feet and six heads, and Charybdis under the wild fig tree, who sucks down the black water three times a day. Better to lose six companions than all; he must not stay to fight Scylla. Then Thrinacia, where the Sun's cattle and sheep, seven herds of fifty, are tended by his daughters Phaethusa and Lampetie: if the companions harm them, he will come home late and alone."
+    },
+    {
+      "from": 142,
+      "to": 200,
+      "title": "The Sirens",
+      "summary": "At dawn Circe goes, and they sail with a following wind. Odysseus tells his companions what she said. When the wind drops near the Sirens' island he softens wax and stops their ears, and they bind him to the mast. The Sirens call him by name and sing of Troy and of all that happens on the bountiful earth; he bids his companions set him free, and Perimedes and Eurylochus bind him with more bonds, until they have rowed past and take the wax from their ears."
+    },
+    {
+      "from": 201,
+      "to": 259,
+      "title": "Scylla and Charybdis",
+      "summary": "They see smoke and a great wave and hear a roar; the oars fall from their hands. Odysseus encourages them, reminding them of the Cyclops' cave, bids the helmsman keep away from the smoke and make for the crag, and says nothing of Scylla. Forgetting Circe's command, he arms himself. While they look on Charybdis, sucking down and spewing up the sea, Scylla snatches six of the companions, who call on him by name as she devours them at her doors: the most pitiable thing he saw on all his voyages."
+    },
+    {
+      "from": 260,
+      "to": 319,
+      "title": "The Landing on Thrinacia",
+      "summary": "They come to the island of the Sun and hear the lowing cattle. Odysseus remembers the warnings of Teiresias and Circe and bids them sail past; Eurylochus answers that the men are worn out and must have their supper on land, and the others agree. Odysseus makes them swear not to kill any of the cattle, and they beach the ship in a hollow cave."
+    },
+    {
+      "from": 320,
+      "to": 365,
+      "title": "The Cattle of the Sun",
+      "summary": "Odysseus warns them again to keep from the cattle. For a whole month the South Wind blows, and when their food runs out they hunt fish and birds. Odysseus goes up the island to pray, and the gods pour sleep upon his eyelids. Eurylochus persuades the companions that death by hunger is the most pitiable of all; they drive off the best of the cattle, pray to the gods, and sacrifice them with oak leaves for barley and water for wine."
+    },
+    {
+      "from": 366,
+      "to": 419,
+      "title": "The Wrath of the Sun",
+      "summary": "Odysseus wakes, smells the fat and cries out to the gods. Lampetie tells the Sun, who demands vengeance from Zeus, threatening to go down to Hades and shine among the dead; Zeus promises to strike the ship with a thunderbolt, as Odysseus later heard from Calypso, who had it from Hermes. The hides crawl and the meat lows on the spits. They feast for six days; on the seventh they put out to sea, and Zeus sets a dark cloud over the ship: the West Wind breaks the mast, the thunderbolt strikes, and the companions are lost in the waves."
+    },
+    {
+      "from": 420,
+      "to": 453,
+      "title": "Alone to Calypso",
+      "summary": "Odysseus lashes the keel and mast together with the backstay and is carried back by the South Wind to Charybdis. He clings to the wild fig tree like a bat until she vomits up the mast and keel, drops onto them and rows away with his hands. For nine days he drifts, and on the tenth the gods bring him to the island of Ogygia, where Calypso welcomes him; but that, he says, he told them yesterday."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 1,
+      "to": 453,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous",
+        "phaeacians"
+      ],
+      "kind": "tale"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 453,
+      "label": "Night of Day 33",
+      "note": "The end of Odysseus' tale, told on the night of the feast in the house of Alcinous (after the pause in the hall, 11.333–384); at 12.450–453 he breaks off, having told the Phaeacians of Calypso the day before."
+    }
+  ]
+}

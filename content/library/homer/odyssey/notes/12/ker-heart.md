@@ -1,0 +1,5 @@
+---
+summary: The heart in the book: Odysseus speaks to his companions “grieving at heart” (12.153, 12.270); his heart wishes to hear the Sirens (12.192–193); the six men in Scylla's jaws call on him “grieving at heart” (12.250); and the Sun speaks among the immortals “angry at heart” (12.376).
+---
+
+κῆρ is the seat of the feelings that move the book. Odysseus' grief comes before his warnings, “Then I spoke among my companions, grieving at heart” (ἀχνύμενος κῆρ, 12.153 = 12.270; see [[achos]]), and the same half-verse is given to the six whom Scylla lifts from the ship, calling on him by name “then for the last time, grieving at heart” (12.250; see [[odysseus-passes-scylla]]). His desire at the Sirens is the heart's: “and my heart / wished to listen” (αὐτὰρ ἐμὸν κῆρ / ἤθελʼ ἀκουέμεναι, 12.192–193; see [[odysseus-and-the-sirens]] and [[thelgo]]), and he is held to the mast against it. The Sun's anger is felt in the same organ: “And at once he spoke among the immortals, angry at heart” (χωόμενος κῆρ, 12.376; see [[cholos]] and [[helios]]).

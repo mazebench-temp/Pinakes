@@ -3,7 +3,7 @@ title: Overhanging
 greek: ἐπηρεφής
 kind: epithet
 tags: [camp, rare-word]
-summary: “Roofing over, overhanging,” an epithet of banks and cliffs: the banks of the Achaean ditch, and in the Odyssey the cliffs of the Laestrygonians' harbor and the Wandering Rocks.
+summary: “Roofing over, overhanging,” an epithet of banks and cliffs: the banks of the Achaean ditch, and in the Odyssey the cliffs of the Laestrygonians' harbor and the rocks of the Wanderers.
 aliases: [eperephes, beetling]
 grc: [ἐπηρεφέες]
 en: [overhanging]

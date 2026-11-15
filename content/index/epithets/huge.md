@@ -3,7 +3,7 @@ title: Huge
 greek: πελώριος
 kind: epithet
 tags: [heroic-epithet, body]
-summary: “Huge, monstrous,” an epithet of great size, given above all to Telamonian [[Ajax]], and to Ares, Hades and Achilles; its noun πέλωρ, “monster,” is used once of Hephaestus.
+summary: “Huge, monstrous,” an epithet of great size, given above all to Telamonian [[Ajax]], and to Ares, Hades and Achilles; its noun πέλωρ, “monster,” names Hephaestus once in the Iliad, and in the Odyssey the Cyclops and Scylla.
 aliases: [monstrous, pelorios]
 grc: [πελώριος, πελώριον, πελώρια]
 en: [huge]

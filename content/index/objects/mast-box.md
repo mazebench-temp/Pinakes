@@ -4,7 +4,7 @@ greek: μεσόδμη
 kind: object
 tags: [ship, seafaring, rare-word]
 summary: The hollow box within which a ship's mast is raised and set up, μεσόδμη, named only in the verses of Telemachus' two departures, from Ithaca and from Pylos (*Odyssey* 2.424, 15.289). In the plural the same word names a part of the hall of Odysseus' house.
-aliases: [mast box, mast-step, mesodme]
+aliases: [mast box, mesodme]
 # μεσόδμης (Od. 2.424 = 15.289) is the ship's; the plural μεσόδμαι (Od. 19.37, 20.354), a part of the hall, is not
 # claimed. No Iliad line.
 grc: [μεσόδμης]

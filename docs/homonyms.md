@@ -1324,6 +1324,68 @@ the house of Hades (the pit, the war cry, the baldric and its strap) beside thei
 | πορφύρεον κῦμα, the surging wave (Od. 11.243) | πορφύρεος "purple" | purple excepts 11.243 |
 | βόας, cattle (Od. 11.108, 11.289) | βόας αὔας, oxhide shields (Il. 12.137) | cattle: βόας in its Odyssey Book 11 note |
 
+### Odyssey, Book 12
+
+The end of the tale brings the creatures of the strait beside common words (the Sirens and the rope, Scylla and the
+puppy, the Wanderers and the wandering of men, Crataeis and the mighty weight of Sisyphus' stone), the Argonauts' names
+beside common verbs (Jason and ἵησι, Aeetes and αἴητον), and the cattle, sheep, birds, fish and trees of the island beside
+their everyday or Iliadic senses (sea crows and the door handle, winged things and drink, the wild fig of Charybdis and
+the fig tree at Troy).
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ἰήσων (Od. 12.72) | ἵησι "sends" (Od. 11.239), ἰήσατο "healed" (Il. 5.904) | jason: the exact form beside Ἰησον*, never Ἰησ*; Aristotle's Ἰάσων (Rhetoric 1373a26) stays excepted |
+| Περιμήδης (Od. 12.195) | Περιμήδεος, the father of Schedius (Il. 15.515) | perimedes-the-companion claims it; perimedes excepts Od. 12.195 (as the Book 11 row foresaw) |
+| Αἰήταο (Od. 12.70) | αἴητον (Il. 18.410) | aeetes: the exact form, as in Book 10 |
+| Σειρῆνας, Σειρήνων, Σειρῆνες, Σειρήνοιιν (Od. 12.39–198) | σειρήν "rope" (Il. 8.19, 8.25; Od. 22.175, 22.192) | sirens: the four exact forms |
+| Σκύλλη, Σκύλλης, Σκύλλην (Od. 12.85–445) | Σκύλλῃ and Σκύλλαν, the dithyramb (Poetics 1454a31, 1461b32); σκύλαξ "puppy" (Od. 12.86, 9.289, 20.14) | scylla: `=Σκύλλη` and the other two exact forms; scylla-of-timotheus keeps the Poetics |
+| σκύλακος, the puppy (Od. 12.86) | Σκύλλη, Scylla | dogs: σκύλακος in its Book 12 note |
+| Χάρυβδις and its forms (Od. 12.104–441) | ἀναρροιβδέω, ῥοιβδέω, her verb | charybdis: Χαρυβδ* |
+| Κράταιιν (Od. 12.124) | κραταιίς "its mighty weight" (Od. 11.597, no entry) | crataeis: the exact form |
+| Πλαγκτάς, the Wanderers (Od. 12.61) | πλαγκτός (Od. 21.363), πλαγκτοσύνη (Od. 15.343) | the-wanderers: `^Πλαγκτάς` |
+| κύνας, the dogfish (Od. 12.96) | κύνας, dogs | dogs `except: [Od. 12.96]` (pre-fix); sea-beasts `refs: [12.96]` in its Book 12 note |
+| κορώνῃσιν, sea crows (Od. 12.418, 14.308) | κορώνη, the door handle (Od. 1.441, 7.90) and the bow tip (Od. 21.46, 21.138, 21.165) | like-sea-crows `"κορώνῃσιν ἴκελοι"`; birds κορώνῃσιν in its Book 12 note |
+| ποτητά, winged things (Od. 12.62) | ποτῆτα, drink (Od. 18.407) | birds: `"=ποτητὰ"` |
+| ἐρινεόν, the wild fig of Charybdis (Od. 12.103, 12.432) | the fig tree under the wall of Troy (Il. 6.433, 11.167, 22.145); Lycaon's fig (Il. 21.37) | the-fig-tree-of-charybdis: ἐρινεὸς in the entry, ἐρινεὸν in its Book 12 note |
+| βοῶν, βόες, cattle (Od. 12) | βοῶν "shouting" (Il. 2.224) | cattle: the bare forms in its Odyssey Book 12 note |
+| ἀσπαίροντα, ἀσπαίροντες (Od. 12.254–255) | ἀσπαίρω of dying men and beasts | the-fisherman: two phrases only |
+| μῆλον, a sheep (Od. 12.301) | μῆλον, apple (Od. 7.120) | sheep: `"τι μῆλον"` |
+| ἀκτή, the headland of Elpenor's mound (Od. 12.11) | ἀκτή "grain, meal" (Il. 13.322, 21.76; Od. 2.355); ἀκταί "headlands" (Od. 5.405, 10.89) | shore: `"πρόεχʼ ἀκτή"` in its Book 12 note, with en "headland" |
+| γῆς (Od. 12.27; also 11.167, 11.302, 11.482) | the Rhetoric's γῆς (1360a34, 1361a12, 1405b36) | earth: in its Odyssey Book 12 note, Odyssey only |
+| νῆσος, Thrinacia unnamed (Od. 12.261–403) | the Sirens' island (Od. 12.167, 12.201) and Aeaea (Od. 12.143) | thrinacia: refs only, never the bare word; aeaea: refs 12.143 |
+| ἐνὶ σπῆι γλαφυρῷ, the Cyclops' cave remembered (Od. 12.210) | the phrase of hollow-caves | the-cave-of-polyphemus: refs 12.210–211 in its Book 12 note |
+| Φαέθουσα, the Sun's daughter (Od. 12.132) | the participle φαέθουσα; φαέθων "shining", the Sun's epithet; Φαέθων, the horse of Dawn (Od. 23.246) | phaethusa: `^Φαέθουσα` |
+| Λαμπετίη, the Sun's daughter (Od. 12.132, 12.375) | Λαμπετίδης, Dolops son of Lampus (Il. 15.526); λαμπετάω "blaze" | lampetie: the exact form, never a stem |
+| Νέαιρα (Od. 12.133) | νέος; the courtesan Neaera of later Greek (Suda τ 624) | neaera: the exact form, in its Odyssey Book 12 note |
+| νυμφέων (Od. 12.318) | νυμφάων, the usual genitive | nymphs: added to the entry |
+| κηρόν, κηροῖο, κηρός "wax" (Od. 12.48, 12.173, 12.175, 12.199) | κῆρ (κηρόθι); κήρ (κῆρες), whose later genitive is κηρός | wax: the exact forms; `"κηροῖο μέγαν τροχὸν"`, since μέγαν τροχόν is also tallow (Od. 21.178) |
+| Ἀργώ (Od. 12.70) | ἀργός, Ἄργος | the-argo: `^Ἀργὼ` |
+| ἱστοπέδῃ; ἱστοῦ, ἱστός, the mast (Od. 12.51–410) | ἱστός, the loom | mast: in its Book 12 note; loom excepts Od. 12.402, 12.422, 12.424, 12.438 |
+| ἐπίτονος, the backstay (Od. 12.423) | "strained" in later prose | forestays: in its Book 12 note |
+| κυβερνήτης and its forms (Od. 11.10, 12.152, 12.217, 12.412) | the pilot of later prose | steering-oar: in its Book 12 note |
+| νεός, of a ship (Od. 7–12) | νέος "young" | ships: `"=νεὸς"`, `"=νεός"` in its Book 12 note |
+| κώπῃσιν, oars (Od. 12.214) | κώπη, hilt or handle (Od. 8.403, 11.531) | oars: in its Book 12 note |
+| δοῦρα, the timbers (Od. 12.441, 12.443) | δοῦρα, spears; the raft's timbers | keel: two phrases in its Book 12 note |
+| στήλην, the pillar on Elpenor's mound (Od. 12.14) | the pillar of the Iliad's similes; the wall's buttresses (Il. 12.259) | tomb: in its Book 12 note |
+| φιτρούς, the logs of the pyre (Od. 12.11) | the wall's logs (Il. 12.29) | pyres: in its Book 12 note |
+| ἤια πάντα, provisions (Od. 12.329, 4.363) | ἤια "I went" | provisions: the phrase |
+| ἀμβροσίην Διί (Od. 12.63) | the ambrosial night | ambrosia: the phrase |
+| θοήν, the swift night (Od. 12.284) | θοός of ships | swift-ships `except: [Od. 12.284]`; swift-night's note claims `"διὰ νύκτα θοὴν"` |
+| μελαίνῃ, the black night (Od. 12.291) | the black ship | black-ships `except: [Od. 12.291]` |
+| Ἠῶ δῖαν (Od. 12.7) | the shining sea | shining-sea `except: [Od. 12.7]` |
+| φαείνω, the verb (Od. 12.383) | φαεινός, the same letters without accents (phaeinos) | phaeinos `except: [Od. 12.383]` |
+| ὠκύαλος νηῦς (Od. 12.182) | Ὠκύαλος, the Phaeacian (Od. 8.111) | swift-sailing-ships claims only the phrase |
+| λιγυρή, the "clear" song (Od. 12.44, 12.183) | λιγυρός, the "shrill" wind and whip (Iliad) | shrill's Book 12 note: English "clear" |
+| κοῖλον σπέος (Od. 12.84, 12.93, 12.317) | κοῖλος of ships | hollow-caves claims the cave phrases; hollow-ships only the ship phrases |
+| νηλέι ὕπνῳ (Od. 12.372) | νηλέϊ χαλκῷ | pitiless claims the phrase |
+| ἕλικες, cattle (Od. 12.355) | ἕλικας, spiral ornaments (Il. 18.401) | with-curving-horns' Book 12 note; the entry keeps `except: [18.401]` |
+| πόσις "drink" (Od. 12.320) | πόσις "husband" | posis: `except: [Od. 12.320]` in the entry; feast's Book 12 note claims `"βρῶσίς τε πόσις τε"` (also Od. 10.176) |
+| ἀγορεύσω "I will tell" (Od. 12.56) | ἀγορή, the assembly | assembly: `except: [12.56]` in its Book 12 note |
+| εὐχετόωνται "boast" (Od. 12.98) | εὔχομαι "pray" | prayer: `except: [12.98]` in its Book 12 note; euchomai keeps it |
+| ὀφρύσι νευστάζων (Od. 12.194) | νευστάζων κεφαλῇ, the drooping head (Od. 18.154, 18.240); Aeneas' helmet (Il. 20.162) | neuo: the phrase in its Book 12 note |
+| νεκρός τʼ ἐκάη (Od. 12.13) | ἐκάη of the thigh-pieces (Od. 12.364) | cremation: the phrase in its Book 12 note |
+| ῥέξομεν, ἱεροῖσιν (Od. 12.344, 12.362) | ῥέζω "do"; ἱερός "holy" | sacrifice: the two phrases in its Book 12 note |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

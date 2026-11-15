@@ -1,0 +1,10 @@
+---
+summary: The book counts its dangers. The Sun's herds are seven of cattle and seven of sheep, fifty in each, which Aristotle read as the days of the lunar year (12.129–130); Scylla has twelve feet and six necks, and takes six men (12.89–90, 12.245–246); Charybdis sucks down the sea three times a day (12.105); the South Wind blows for a month, the companions feast for six days and sail on the seventh, and Odysseus drifts nine days to Ogygia, arriving on the tenth night (12.325, 12.397–399, 12.447).
+refs: [12.129-130, 12.89-90, 12.105, 12.397-399, 12.447]
+---
+
+**The herds.** “seven herds of cattle, and as many fine flocks of sheep, / fifty in each” (12.129–130; see [[the-cattle-of-helios]]). Aristotle took the numbers as natural fact: seven fifties are three hundred and fifty, the days of the twelve lunar months, and the herds neither breed nor die because the number of such days is always the same (*Homeric Problems* fr. 398 Gigon; W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.129, who reports the allegory from Eustathius and declines to follow him further; see [[genee]] and [[aristotle]]).
+
+**Scylla and Charybdis.** Scylla has “twelve feet, all dangling, / and six necks, very long”, with a head on each and teeth in three rows (12.89–91; see [[scylla]]), and so it is “far better / to miss six companions in your ship than all of them together” (12.109–110; see [[pothe]]); she takes six, one for each head (12.245–246). Charybdis sends the water up “three times a day”, and three times sucks it down (12.105), where Polybius read “twice” (see the Odyssey translation's note on 12.104–105).
+
+**The days.** The typical numbers count out the end of the voyage: a whole month of the South Wind (12.325), six days of feasting and the seventh, which Zeus “added” to the tale of six (12.397–399; Merry on 12.399), and the nine days and the tenth night of the last drift, “From there for nine days I was borne along, and on the tenth night / the gods brought me to the island of Ogygia” (12.447–448), nine followed by a turn on the tenth, as in the Iliad's plague (*Iliad* 1.53–54).

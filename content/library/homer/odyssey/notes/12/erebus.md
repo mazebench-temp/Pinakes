@@ -1,0 +1,7 @@
+---
+summary: Scylla's cave, in the middle of the crag that reaches the sky, is “turned toward the darkness, toward Erebus” (12.80–81).
+---
+
+**Scylla's cave.** Circe describes the higher of the two crags: “And in the middle of the crag is a misty cave, / turned toward the darkness, toward Erebus, by the way that you / will steer your hollow ship past, shining Odysseus” (12.80–82; see [[scylla]] and [[misty]]). Eustathius and the scholia take εἰς Ἔρεβος as no more than a nearer description of πρὸς ζόφον. W. W. Merry thinks it more likely that πρὸς ζόφον gives the direction in which the mouth of the cave looks, westward, while εἰς Ἔρεβος τετραμμένον means that the cave does not run level into the face of the cliff but downward, as μέσση μέν τε κατὰ σπείους κοίλοιο δέδυκεν, “Up to her middle she is sunk in the hollow cave”, also implies (*Commentary on the Odyssey*, 1886, on 12.81; 12.93). The mouth is set so high that not even a man in his prime, shooting from the ship, could reach it with an arrow (12.83–84; Merry on 12.83). In the books before, Erebus was the darkness toward which the victims for the dead were turned, and out of which the souls came up to the blood (10.527–528, 11.36–37; see the Book 10 and Book 11 notes).
+
+**The undersea darkness.** Across the strait, when Charybdis swallows the sea, the earth appears at the bottom, “dark with sand” (12.242–243); the sand looks dark, Merry says, because it lies in what Sophocles calls the “undersea darkness”, ὕφαλον ἔρεβος (on 12.243, quoting *Antigone* 589; see [[charybdis]] and [[earth]]).

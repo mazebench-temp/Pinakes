@@ -1,0 +1,13 @@
+---
+summary: Circe greets the men come back from Hades as “twice dying, when other men die once” (12.22); Scylla's teeth are “full of black death” (12.92), and she herself is “not mortal” (12.118); Odysseus tells his companions the oracles so that they may die knowing or escape (12.156–157); and Eurylochus ranks the deaths of men, “All deaths are hateful to wretched mortals” (12.341–342).
+# τεθνηῶτα (12.10), δισθανέες and θνῄσκουσʼ (12.22), θνητή (12.118), θάνωμεν (12.156), θάνατοι (12.341), ἀποτέθνασαν
+# (12.393), each first met here in the Odyssey; δισθανέες only here in Homer.
+grc: [τεθνηῶτα, δισθανέες, "θνῄσκουσʼ", θνητή, θάνωμεν, θάνατοι, ἀποτέθνασαν]
+en: [twice dying, deaths]
+---
+
+**Twice dying.** The book begins with the dead. The companions bring the body of Elpenor, “who had died”, from Circe's house and burn it (12.10–13; see [[elpenor]] and [[cremation]]), and Circe comes down to the shore and greets the living: “Hard men, who have gone down alive into the house of Hades, / twice dying, when other men die once” (12.21–22; see [[circe]] and [[the-land-of-the-dead]]). Schol. Q writes δὶς θανέες as two words, and reports Apollonius' rule that δίς drops its σ in compounds, as in δίπους, while Eustathius gives the same reading to Apollodorus (W. W. Merry, *Commentary on the Odyssey*, 1886, his critical note on 12.22; see the Odyssey translation's note on 12.22). ὅτε should properly mean “when”, the time they chose for their visit to the dead, but its sense is passing into a logical “while”; Merry compares Virgil (on 12.22), whose Sibyl warns Aeneas that he will twice swim the Stygian lake and twice see black Tartarus (*bis Stygios innare lacus, bis nigra videre / Tartara*, *Aeneid* 6.134–135).
+
+**Deaths ahead.** Scylla's teeth are “thick and close-set, full of black death” (12.92; see [[scylla]]), and “She is not mortal, but an immortal evil” (12.118; see [[immortality]]). Odysseus will not keep Circe's oracles to himself, “so that knowing them we may either die / or else avoid death and doom and escape” (12.156–157; see [[thesphaton]] and [[ker-doom]]). On Thrinacia Eurylochus ranks the deaths of men: θάνατοι, “forms of death”, are all hateful, and death by hunger the most pitiable, so that drowning is better (12.341–351; Merry on 12.341; see [[all-deaths-are-hateful]] and [[better-to-perish-once-and-for-all]]).
+
+**Mortals and gods.** When the cattle “were already dead” (12.393), the Sun threatens to shine among the dead, and Zeus answers him: “Sun, do you keep giving light among the immortals / and to mortal men upon the grain-giving earth” (12.385–386; see [[helios]] and [[grain-giving]]). The light belongs to the living, gods and mortals alike; the dead are the ones it does not reach.

@@ -3,7 +3,7 @@ title: “The gods know all things”
 greek: θεοὶ δέ τε πάντα ἴσασιν
 kind: saying
 tags: [divine-will]
-summary: Menelaus' plea on Pharos, made in the same verses first to Eidothea and then to her father Proteus: “But you at least tell me—for the gods know all things— / who of the immortals fetters me”. The old man who knows the depths of the whole sea does not see the trick laid for him.
+summary: Menelaus' plea on Pharos, made in the same verses first to Eidothea and then to her father Proteus: “But you at least tell me—for the gods know all things— / who of the immortals fetters me”. The old man who knows the depths of the whole sea does not see the trick laid for him, and in Odysseus' tale the Sun, who sees all things and hears all things, learns from a messenger that his cattle have been killed.
 aliases: [the gods know all things, for the gods know all things]
 grc: ["θεοὶ δέ τε πάντα ἴσασιν"]
 en: [the gods know all things]

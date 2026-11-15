@@ -30,7 +30,7 @@ Merry pictures the cave running back into the cliff, with a yard around its mout
 
 ## Elsewhere in the Odyssey
 
-The cave is remembered as the place of the Cyclops' meals and of the escape. Aegyptius' son Antiphus was killed by “the savage Cyclops … in his hollow cave”, the last of his suppers (*Odyssey* 2.19–20; see [[antiphus-son-of-aegyptius]]). Before Scylla, Odysseus tells his men that this evil is no greater than when the Cyclops penned them in his hollow cave by his mighty strength, and that they escaped from it by his courage, counsel and wit (*Odyssey* 12.208–212, a plain rendering). In his own house, angry at the maids, he bids his heart endure, as it endured the day the Cyclops ate his companions, until cunning led him out of the cave when he thought he would die (*Odyssey* 20.18–21, a plain rendering).
+The cave is remembered as the place of the Cyclops' meals and of the escape. Aegyptius' son Antiphus was killed by “the savage Cyclops … in his hollow cave”, the last of his suppers (*Odyssey* 2.19–20; see [[antiphus-son-of-aegyptius]]). Before Scylla, Odysseus tells his men that this evil is no greater than when the Cyclops penned them in his hollow cave with his mighty strength, and that they escaped from it by his prowess, his counsel and his mind (*Odyssey* 12.208–212; see the Book 12 note). In his own house, angry at the maids, he bids his heart endure, as it endured the day the Cyclops ate his companions, until cunning led him out of the cave when he thought he would die (*Odyssey* 20.18–21, a plain rendering).
 
 ## Outside Homer
 

@@ -7,8 +7,9 @@ summary: “Swift,” the commonest epithet of [[ships]].
 aliases: [thoos]
 grc: [θοὰς, θοῇ, θοὴν, "!^Θόας", "!^Θόη"]
 en: [swift]
-# θοὴν at 24.366 and 24.653 is the swift night (θοὴν διὰ νύκτα μέλαιναν); at Od. 8.38 the quick feast (θοὴν ἀλεγύνετε δαῖτα).
-except: [24.366, 24.653, Od. 8.38]
+# θοὴν at 24.366 and 24.653 is the swift night (θοὴν διὰ νύκτα μέλαιναν); at Od. 8.38 the quick feast (θοὴν ἀλεγύνετε δαῖτα);
+# at Od. 12.284 the swift night again (διὰ νύκτα θοὴν).
+except: [24.366, 24.653, Od. 8.38, Od. 12.284]
 of: [ships]
 ---
 

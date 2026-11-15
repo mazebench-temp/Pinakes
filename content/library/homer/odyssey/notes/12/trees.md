@@ -1,0 +1,15 @@
+---
+summary: The trees of Book 12 are the great wild fig tree on the lower crag over Charybdis, from which Odysseus hangs (12.103, 12.432–436), and the high-leafed oak whose tender leaves the companions strip to strew on the Sun's cattle in place of barley (12.357); the ship's oars are of fir (12.172).
+# δρυὸς, the oak (12.357), claimed here for the Odyssey, where it is always the oak (14.12, 14.328, 14.425, 19.163,
+# 19.297; δρυσὶν, 9.186, is the Book 9 note's). The fig tree, ἐρινεός, is the-fig-tree-of-charybdis's.
+grc: [δρυὸς]
+en: [oak]
+passages:
+  - 12.352-365 | The sacrifice of the cattle
+---
+
+**Oak leaves for barley.** When the companions have driven off the best of the Sun's cattle, “they stood around them and prayed to the gods, / having stripped tender leaves from a high-leafed oak; / for they had no white barley on board the well-benched ship” (12.356–358; see [[cattle]], [[barley]] and [[sacrifice]]). φύλλα … τέρενα δρυὸς ὑψικόμοιο, “tender leaves from a high-leafed oak”, take the place of the barley grains, οὐλοχύται, which the sacrificers take up when they stand around the victim, as in the Iliad's sacrifice, “They stood around the ox and took up the barley grains” (*Iliad* 2.410), and which Nestor throws when he begins the rite at Pylos (3.445–447; see the translation's row φύλλα δρυὸς ὑψικόμοιο). W. W. Merry: “they have no οὐλόχυται to hand, so that they are obliged to substitute for them leaves stripped from a sapling oak” (*Commentary on the Odyssey*, 1886, on 12.356). In the same way water stands in for wine: “And they had no wine to pour over the burning offerings, / but poured libations with water” (12.362–363; see [[libation]]). τέρενα, “tender”, are fresh young leaves, as the tender leaves of the ash that is felled on a mountain top in the Iliad's simile (*Iliad* 13.180). ὑψίκομος, “high-leafed”, is the oak's epithet in both poems (see [[high-leafed]]): it is said of the oaks built into the Cyclops' fold (9.186; see the Book 9 note), of the oaks felled on Ida for Patroclus' pyre (*Iliad* 23.118), and of the oak of Dodona from which, in Odysseus' false tale, he might hear the will of Zeus (14.328 = 19.297, a plain rendering; see [[dodona]]).
+
+**The fig tree.** On the lower crag of the strait stands “a great wild fig tree, in full leaf”, with Charybdis beneath it (12.103–104). Odysseus clings to it “like a bat” when he is swept back to the whirlpool, “for its roots were far below, and its branches hung high out of reach, / long and great, and they overshadowed Charybdis” (12.432–436; see [[the-fig-tree-of-charybdis]] and [[like-a-bat]]). It is a wild fig, ἐρινεός, as the fig tree on the plain of Troy (*Iliad* 6.433; see [[the-fig-tree]]); the cultivated fig, συκέη, grows in the orchard of Alcinous (7.116).
+
+**Wood.** The oars are fir: as they pass the Sirens the companions “made the water white with their polished oars of fir”, ξεστῇς ἐλάτῃσιν (12.172; see [[oars]] and [[fir-trees]]), the fir that Odysseus felled for his raft (5.239; see the Book 5 note). For Elpenor's pyre they cut logs, φιτρούς, where the headland jutted out farthest (12.11; see [[the-death-of-elpenor]]).

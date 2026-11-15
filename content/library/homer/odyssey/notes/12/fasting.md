@@ -1,0 +1,6 @@
+---
+summary: Hunger by want on the island of the Sun: a month of the South Wind holds the ship, the bread and wine run out, the companions hunt fish and birds while hunger wears at their bellies (12.325–332), and Eurylochus makes death by hunger the reason to kill the cattle (12.341–342).
+refs: [12.327-332, 12.341-342]
+---
+
+The companions keep away from the cattle “as long as they had bread and red wine”, λιλαιόμενοι βιότοιο, “longing for life” (12.327–328; see the Odyssey translation's note on 12.328–330). When the provisions are spent they roam about for game, “as they had to”, fish and birds, “whatever came to their hands”, “and hunger wore at their bellies” (12.329–332; see [[gaster]] and [[provisions]]), as Menelaus' men did on Pharos, held there by the gods with no wind (4.360–369). Odysseus' answer to hunger is prayer, and the companions' is Eurylochus' maxim: “but to die of hunger and meet one's fate is the most pitiable” (12.342; see [[prayer]] and [[all-deaths-are-hateful]]). In the Iliad it was Odysseus who argued that men must eat, “for in that is might and courage” (*Iliad* 19.155–172; see [[food-and-wine-are-might-and-courage]] and [[weep-for-a-day-and-bury]]); on Thrinacia the hungry men eat what is forbidden, and the eating destroys them.

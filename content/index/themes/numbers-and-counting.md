@@ -2,7 +2,7 @@
 title: Numbers and counting
 kind: theme
 tags: [time, warfare]
-summary: How the Iliad counts: its typical numbers, such as nine and ten, twelve and a hundred; its reckoning of years, ships and men; and the multitude that no one can count.
+summary: How Homer counts: the typical numbers, such as three, nine and ten, twelve, fifty and a hundred; the reckoning of years, days, ships, men and herds; and the multitude that no one can count.
 aliases: [numbers, counting, typical numbers]
 ---
 

@@ -3,9 +3,11 @@ title: Notus
 greek: Νότος
 kind: god
 tags: [personification, sea]
-summary: The South Wind, wet and stormy. In the similes of the Iliad it drives the waves and brings clouds and mist, and in the Odyssey it keeps Odysseus' ship for a month on Thrinacia.
+summary: The South Wind, wet and stormy, which drives the waves against the shore, pours mist over the mountains and, with the West Wind, most of all shatters ships.
 aliases: [South Wind, Notos]
-grc: [Νότος]
+# Νότου, the genitive, is the South Wind wherever it occurs (Od. 12.289; and 13.111, a door of the cave of the nymphs
+# "toward the South Wind"). Neither form is found in Aristotle.
+grc: [Νότος, Νότου]
 ---
 
 Νότος (Notos), the south wind, probably related to νοτίς (“moisture”): the wind that brings rain and mist. The winds are gods in Homer, but the similes use them as weather.

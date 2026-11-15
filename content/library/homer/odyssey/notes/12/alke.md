@@ -1,0 +1,5 @@
+---
+summary: Circe tells Odysseus that against Scylla “there is no help; the strongest course is to flee from her” (12.120).
+---
+
+Odysseus asks Circe whether he might escape Charybdis and ward off Scylla when she attacks his companions (12.112–114), and she answers that his mind is on the works of war again: “She is not mortal, but an immortal evil, / dread and grievous and savage, not to be fought; / there is no help; the strongest course is to flee from her” (12.118–120; see [[scylla]] and [[polemos]]). ἀλκή, the strength that wards off an enemy, is the very thing Odysseus asked about (ἀμυναίμην, “ward off”, 12.114), and it has no use against an immortal. φυγέειν κάρτιστον puts flight where courage should be: an intentional oxymoron, “the bravest course is to run away”, which Merry compares with “Discretion is the better part of valour” (W. W. Merry, *Commentary on the Odyssey*, 1886, on 12.120; see the Odyssey translation's table of key words, φυγέειν κάρτιστον). Odysseus arms all the same, forgetting her command, and cannot even see Scylla when she strikes (12.226–233; see [[ephemosyne]]).

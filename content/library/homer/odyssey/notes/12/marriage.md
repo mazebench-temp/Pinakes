@@ -1,0 +1,5 @@
+---
+summary: The tale ends with a courtesy to the queen: Odysseus told the story of Calypso yesterday “to you and to your strong wife” (12.452). In Circe's warning the man who hears the Sirens never comes home to his wife and little children (12.42–43).
+---
+
+Odysseus turns at the end to Alcinous and recalls the night before: “For I already told it to you yesterday in your house, / to you and to your strong wife” (σοί τε καὶ ἰφθίμῃ ἀλόχῳ, 12.451–452; see [[alcinous]], [[arete-queen-of-the-phaeacians]] and [[mighty]]). It was Arete who asked him then who he was and who gave him his clothes, and her he answered (7.237–297; see [[a-tale-plainly-told]]). The book's other wife is the one the Sirens' victim never sees again: “for him his wife and little children / do not stand beside him when he comes home, nor are they glad” (12.42–43; see [[nostos]] and [[nepios]]). The word there is γυνή, not ἄλοχος, but the danger is the same that the whole voyage runs against: the homecoming to a wife, which Penelope waits for in Ithaca (see [[husbands-and-wives]]).

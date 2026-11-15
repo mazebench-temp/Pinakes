@@ -1,0 +1,5 @@
+---
+summary: Two dancing floors of goddesses frame the voyage: on Aeaea are the house of Dawn “and her dancing floors” (12.3–4), and in the cave on Thrinacia where the ship is beached “were the fair dancing floors and seats of the nymphs” (12.318).
+---
+
+χοροί here are the floors on which the dance is danced, not the dance. Aeaea is the place “where are the house of early-born Dawn / and her dancing floors, and the risings of the Sun” (12.3–4; see [[eos]] and [[aeaea]]): “dancing lawns”, W. W. Merry calls them, for Dawn must be supposed to have a train of nymphs, symbolizing perhaps the quick-glancing rays of light (*Commentary on the Odyssey*, 1886, on 12.4; see the Odyssey translation's note on 12.1–4). On Thrinacia the storm drives the ship into a hollow cave, “There were the fair dancing floors and seats of the nymphs” (12.318; see [[nymphs]] and [[thrinacia]]). The nymphs who herd the Sun's cattle are his daughters (12.131–133; see [[phaethusa]] and [[lampetie]]), and the companions moor the ship in the cave of their dances. The word is the one for the floor the Phaeacians leveled for the dance to Demodocus' song (8.260; see the Book 8 note).

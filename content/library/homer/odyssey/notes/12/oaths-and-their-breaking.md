@@ -1,0 +1,8 @@
+---
+summary: The companions swear to Odysseus not to kill any cow or sheep on the island of the Sun (12.297–304), and break the oath when their food runs out (12.353–365); the oath is never named again, and the punishment comes from the god whose cattle they killed.
+refs: [12.297-304, 12.353-360]
+---
+
+**Sworn.** The oath is Odysseus' last defense when Eurylochus has carried the landing against him: they are to eat the food that Circe gave and touch neither cattle nor sheep (12.297–304; see [[oath]] and [[eurylochus]]). It repeats in his own words the condition of the prophecy, since Teiresias and Circe had both said that the ship and the companions would be destroyed if the herds were harmed (12.137–141 = 11.110–114; see [[the-prophecy-of-teiresias]]).
+
+**Broken.** The month of the South Wind wears it down. The companions keep it while the bread and wine last, “longing for life” (12.327–328), and break it under Eurylochus' maxim that death by hunger is the most pitiable of deaths (12.339–365; see [[all-deaths-are-hateful]] and [[sacrifice]]). In the Iliad the breaking of the truce is answered by Agamemnon's certainty that Zeus fulfills an oath even if late, and the breakers pay “with their own heads” (*Iliad* 4.160–162; see [[fulfilled-late]]). Here no one speaks of the oath at all: the Sun asks the gods to punish the companions because they have killed his cattle “overweeningly” (12.378–379; see [[helios]] and [[poine]]), and Zeus strikes the ship (12.415–419). The oath bound them to Odysseus; what destroys them is the god's own loss, and their “own recklessness”, as the proem has it (1.7; see [[atasthalie]] and [[the-cattle-of-helios]]).

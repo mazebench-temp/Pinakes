@@ -3,7 +3,7 @@ title: Like a diver
 greek: ἀρνευτῆρι ἐοικώς
 kind: simile
 tags: [warfare, sea]
-summary: A man struck dead pitches headfirst “like a diver”. Ajax's boulder crushes the skull of Epicles, and he falls like a diver from the high tower of the Achaean wall (12.383–386); the same words tell the fall of Cebriones from Hector's chariot, which Patroclus mocks as a dive for oysters (16.742–750), and the fall of Odysseus' helmsman from the deck (Odyssey 12.411–414).
+summary: A man struck dead pitches headfirst “like a diver”. Ajax's boulder crushes the skull of Epicles, and he falls like a diver from the high tower of the Achaean wall (12.383–386); the same words tell the fall of Cebriones from Hector's chariot, which Patroclus mocks as a dive for oysters (16.742–750), and the fall of Odysseus' helmsman from the deck (*Odyssey* 12.411–414).
 aliases: [like a tumbler, Epicles falls like a diver, Cebriones like a diver, the diver]
 grc: ["ἀρνευτῆρι ἐοικὼς"]
 en: [like a diver]
@@ -28,4 +28,4 @@ The Lycians are climbing onto the battlements of Menestheus' tower like a dark s
 
 The half-verse and the next are used again when Patroclus kills Cebriones, Hector's charioteer, with a stone, and this time the comparison is taken up: Patroclus mocks the dead man as a tumbler who would dive for oysters from a ship (16.737–750; see [[cebriones]]). The jest turns the half-line into a picture.
 
-In the Odyssey the two and a half verses come back in the storm that Zeus sends after Odysseus' ship leaves the island of the Sun: the falling mast strikes the helmsman's head, smashes the bones of the head all together, and he falls from the deck like a diver (*Odyssey* 12.405–414).
+In the Odyssey the two and a half verses come back in the storm that Zeus sends after Odysseus' ship leaves the island of the Sun, when the falling mast strikes the helmsman's head and he falls from the deck like a diver (*Odyssey* 12.405–414; see the note on *Odyssey* 12 and [[like-sea-crows]]).

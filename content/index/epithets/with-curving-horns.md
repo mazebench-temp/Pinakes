@@ -13,7 +13,7 @@ of: [cattle]
 
 ## Meaning
 
-ἕλιξ means “twisted, curling” (compare ἑλίσσω, “turn, twist”). Of cattle it is usually taken to describe their curved or crumpled horns, “with curving horns”; some ancient readers took it of their rolling gait, like [[shambling]] (εἰλίπους), with which it is joined in the line-end formula εἰλίποδας ἕλικας βοῦς (9.466 = 23.166; 21.448; Od. 1.92, 4.320, 9.46). It is used of cattle alone in the formula, and with other epithets: ἕλικας βόας εὐρυμετώπους, “broad-browed cattle with curving horns” (Od. 11.289; 12.355). As a noun ἕλικες are spiral ornaments, among the things Hephaestus made for Thetis (18.401). The pairing of flocks and herds, “fat sheep and shambling cattle with curving horns,” is the wealth of a house and the stuff of a great feast or a great funeral ([[fat-sheep]], [[cattle]]).
+ἕλιξ means “twisted, curling” (compare ἑλίσσω, “turn, twist”). Of cattle it is usually taken to describe their curved or crumpled horns, “with curving horns”; some ancient readers took it of their rolling gait, like [[shambling]] (εἰλίπους), with which it is joined in the line-end formula εἰλίποδας ἕλικας βοῦς (9.466 = 23.166; 21.448; Od. 1.92, 4.320, 9.46). It is used of cattle alone in the formula, and with other epithets: ἕλικας βόας εὐρυμετώπους, “broad-browed cattle with curving horns” (Od. 11.289), and in the nominative ἕλικες καλαὶ βόες εὐρυμέτωποι (*Odyssey* 12.355). As a noun ἕλικες are spiral ornaments, among the things Hephaestus made for Thetis (18.401). The pairing of flocks and herds, “fat sheep and shambling cattle with curving horns,” is the wealth of a house and the stuff of a great feast or a great funeral ([[fat-sheep]], [[cattle]]).
 
 ## Use
 

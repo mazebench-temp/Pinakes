@@ -1,0 +1,9 @@
+---
+summary: Before Scylla, Odysseus heartens his frightened companions with the memory of the Cyclops: this evil is no greater than when the Cyclops penned them in his hollow cave, and yet his prowess, counsel and mind brought them out (12.208–212).
+# The entry claims Κύκλωψ (12.209). Unnamed: the penning in the cave (12.210).
+refs: [12.210]
+---
+
+**The memory.** When the oars fall from the companions' hands at the smoke and the roar ahead, Odysseus goes through the ship and speaks to each man: “surely this evil that besets us is no greater than when the Cyclops / penned us in his hollow cave with his mighty strength; / yet even from there, by my prowess and my counsel and my mind, / we escaped” (12.209–212; see [[not-without-knowledge-of-evils]] and [[we-will-remember-these-things-too]]). εἴλει, “penned”, is the verb of shutting in (see the translation's key-word row for εἰλέω), and the Cyclops holds them “in his hollow cave” (ἐνὶ σπῆι γλαφυρῷ; see [[hollow-caves]] and [[the-cave-of-polyphemus]]) “with his mighty strength” (κρατερῆφι βίηφιν; see [[krateros]]). For ἕπει, “besets”, Merry printed ἔπι, “is upon us” (see the translation's note on 12.209).
+
+**Whose escape.** In Odysseus' words the escape was won by “my prowess and my counsel and my mind”, ἐμῇ ἀρετῇ, βουλῇ τε νόῳ τε (12.211; see [[arete]], [[boule]] and [[noos]]). The companions had remembered the cave otherwise: on Aeaea they wept at the memory of “the mighty, great-hearted Cyclops, the eater of men” (10.200), and Eurylochus laid the death of the men in the cave on “this bold Odysseus” and his recklessness (10.435–437; see the Book 10 note and [[eurylochus]]). Odysseus does not tell them what is ahead (12.223–225), and Scylla, like the Cyclops, takes six of them (12.245–246; 9.289, 9.311, 9.344; see [[scylla]]).
