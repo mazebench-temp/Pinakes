@@ -1,0 +1,9 @@
+---
+summary: The prayers of the book: the libation to father Zeus before Odysseus' departure (13.51), the Phaeacians' prayer to Poseidon around the altar (13.185), Odysseus' “to you / I pray as to a god” to the young shepherd who is a goddess (13.230–231), and his “gentle vows” to the Naiads (13.357).
+---
+
+**Phaeacian prayers.** Alcinous bids Pontonous serve the wine to all “so that when we have prayed to father Zeus / we may send the stranger on his way to his native land” (εὐξάμενοι Διὶ πατρί, 13.51–52; see [[libation]] and [[pontonous]]). The last prayer of the Phaeacians is for themselves: “So they prayed to lord Poseidon, / the leaders and rulers of the people of the Phaeacians, / standing around the altar” (εὔχοντο, 13.185–187; see [[prayer]] and [[the-migration-of-the-phaeacians]]), and the poem does not say whether he heard them.
+
+**As to a god.** On the shore Odysseus greets the young herdsman: “but save these things, and save me; for to you / I pray as to a god, and I come to your dear knees” (εὔχομαι ὥς τε θεῷ, 13.230–231; see [[supplication]] and [[gounata]]). The suppliant's courtesy is literally true, for the herdsman is Athena (13.221–225; see [[athena]] and [[shape-changing]]). σάω, “save”, unless it is a mere mistake for σάου, points to a non-thematic contracted form (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.230).
+
+**Vows to the Naiads.** When the mist is scattered he prays to the nymphs of the cave: “Naiad nymphs, daughters of Zeus, never did I / think to see you again; but now with my gentle vows / rejoice” (εὐχωλῇς ἀγανῇσι / χαίρετʼ, 13.356–358; see [[nymphs]], [[the-cave-of-the-naiads]] and [[doron]]). εὐχωλῇς is “with my prayers”, now that they hear his prayers again; χαίρετε is hardly more than a form of greeting, but it is construed with the dative as though it had its literal meaning, “be gladdened” (Monro on 13.357), and the English keeps the literal sense.

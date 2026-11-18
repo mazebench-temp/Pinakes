@@ -9,15 +9,15 @@ grc: [μελισσάων]
 en: [bees]
 ---
 
-μέλισσα (“bee”) is formed from μέλι (“honey”): the bee is the honey-maker. Homer's bees are wild. They nest in a hollow rock (Iliad 2.88), beside a rocky path (Iliad 12.168), and in the Cave of the Nymphs on Ithaca, among bowls and jars of stone (Odyssey 13.105–106).
+μέλισσα (“bee”) is formed from μέλι (“honey”): the bee is the honey-maker. Homer's bees are wild. They nest in a hollow rock (*Iliad* 2.88), beside a rocky path (*Iliad* 12.168), and in the cave of the Naiads on Ithaca, among bowls and jars of stone (*Odyssey* 13.105–106; see [[the-cave-of-the-naiads]]).
 
-Honey is Homer's measure of sweetness. Nestor's voice flows sweeter than honey (Iliad 1.249; see [[sweeter-than-honey]]), and so, Achilles says, does anger as it swells in a man's chest (Iliad 18.108–110). Jars of honey and oil are set on the pyre of Patroclus (Iliad 23.170).
+Honey is Homer's measure of sweetness. Nestor's voice flows sweeter than honey (*Iliad* 1.249; see [[sweeter-than-honey]]), and so, Achilles says, does anger as it swells in a man's chest (*Iliad* 18.108–110). Jars of honey and oil are set on the pyre of Patroclus (*Iliad* 23.170).
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-The Iliad's other bee simile is about defense, not numbers. Asius complains that two Lapiths hold the gate against the Trojans like wasps or bees that have made their home beside a rocky path: they do not leave their hollow house, but stay and fight off the hunters for their young (Iliad 12.167–172). Wasps take the same part when the Myrmidons pour out to battle like wasps by a roadside that boys have stirred up (Iliad 16.259–265).
+The Iliad's other bee simile is about defense, not numbers. Asius complains that two Lapiths hold the gate against the Trojans like wasps or bees that have made their home beside a rocky path: they do not leave their hollow house, but stay and fight off the hunters for their young (*Iliad* 12.167–172). Wasps take the same part when the Myrmidons pour out to battle like wasps by a roadside that boys have stirred up (*Iliad* 16.259–265).
 
 ## Outside Homer
 

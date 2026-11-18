@@ -1,5 +1,5 @@
 ---
-summary: “But when we had sacked the steep city of Priam” (11.533); and Epicaste hanged herself, “when she had fastened a noose hanging sheer from the high roof-beam” (11.278).
+summary: “But when we had sacked the steep city of Priam” (11.533); and Epicaste hanged herself, “when she had fastened a noose hanging sheer from the high roof beam” (11.278).
 grc: ["βρόχον αἰπὺν"]
 ---
 

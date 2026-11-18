@@ -22,7 +22,7 @@ The wound on Parnassus is the scar by which Odysseus is later recognized, and th
 
 {{quote:94abfee7-8b8c-5d3b-8d16-ca2ddc8e943b}}
 
-The outline names only Poseidon. The man, his son, the suitors and the people to whom he makes himself known are left general, as the names are left out of the outline of the *Iphigenia*. The wanderings, the Phaeacians and the son's journey to Pylos and Sparta are not in it; by Aristotle's account they belong to the episodes (see [[epeisodion]] and [[logos]]).
+The outline names only Poseidon. The man, his son, the suitors and the people to whom he makes himself known are left general, as the names are left out of the outline of the *Iphigenia*. The wanderings, the Phaeacians and the son's journey to Pylos and Sparta are not in it; by Aristotle's account they belong to the episodes (see [[epeisodion]] and [[logos]]). The homecoming is in it, in a single verb, ἀφικνεῖται, “he himself arrives” (1455b21). That arrival is told in *Odyssey* 13, where Odysseus is put ashore on Ithaca asleep, and in chapter 24 Aristotle makes the putting ashore his example of an irrational incident that Homer conceals with his other virtues (1460a35–b2; see [[aristotle-the-putting-ashore]] and [[the-title-of-odyssey-13]]).
 
 **The rest of the Poetics.** Elsewhere Aristotle calls the Odyssey complex, “for there is recognition throughout”, and a poem of character (1459b15–16), and makes it the type of the double plot, which ends in opposite ways for the better and the worse (1453a30–33; see [[the-double-plot]] and [[odyssey]]).
 

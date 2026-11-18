@@ -13,7 +13,7 @@ relations:
 
 {{quote:08be46f7-65bf-59a7-b947-53f78d61e986}}
 
-κέρδιστος, “the craftiest” (see [[craftiest]]), is the superlative of κέρδος, “gain”; in the plural κέρδεα are wiles, the cunning of those who know how to profit. Athena and Odysseus are “both knowing wiles” (εἰδότες ἄμφω κέρδεα, *Odyssey* 13.296–297). Αἰολίδης, “son of Aeolus”, is his patronymic (see [[aeolus-father-of-sisyphus]]). He heads the lineage that Glaucus recites: Sisyphus, [[glaucus-son-of-sisyphus|Glaucus]], [[Bellerophon]], [[Hippolochus]], and Glaucus himself (see [[ephyra-in-argos]]).
+κέρδιστος, “the craftiest” (see [[craftiest]]), is the superlative of κέρδος, “gain”; in the plural κέρδεα are wiles, the cunning of those who know how to profit. Athena and Odysseus “both know / crafty ways” (εἰδότες ἄμφω κέρδεα, *Odyssey* 13.296–297). Αἰολίδης, “son of Aeolus”, is his patronymic (see [[aeolus-father-of-sisyphus]]). He heads the lineage that Glaucus recites: Sisyphus, [[glaucus-son-of-sisyphus|Glaucus]], [[Bellerophon]], [[Hippolochus]], and Glaucus himself (see [[ephyra-in-argos]]).
 
 ## The name
 

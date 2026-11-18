@@ -1,0 +1,44 @@
+---
+title: The four stallions
+greek: ἡ δʼ, ὥς τʼ ἐν πεδίῳ τετράοροι ἄρσενες ἵπποι
+kind: simile
+tags: [livestock, ship, bird]
+summary: The Phaeacian ship that carries Odysseus home runs through the night as four stallions yoked together lift themselves high under the whip, her stern rising and the great wave seething behind her, so steadily that not even a hawk, a falcon, the nimblest of winged birds, could have kept pace with her (*Odyssey* 13.81–88).
+aliases: [like four stallions, the ship like a chariot team, the run of the Phaeacian ship, not even a hawk could keep pace, swifter than a falcon]
+# The simile's own words (Od. 13.81-88), each found only here: the third verse is made like the Iliad's verse of
+# Diomedes' pair (ὑψόσʼ ἀειρέσθην ῥίμφα πρήσσοντε κέλευθον, Il. 23.501), so only its second half, in the plural, is
+# taken. ἴρηξ and κίρκος alone are hawk's and falcon's, ἵπποι the horses' (Odyssey Book 3 note).
+grc: ["τετράοροι ἄρσενες ἵπποι", "ὑπὸ πληγῇσιν ἱμάσθλης", "ῥίμφα πρήσσουσι κέλευθον", "πρύμνη μὲν ἀείρετο", "πορφύρεον μέγα θῦε", "ἀσφαλέως θέεν ἔμπεδον", "κίρκος ὁμαρτήσειεν", "ὣς ἡ ῥίμφα θέουσα"]
+en: [yoked together, under the blows of the whip, lift themselves high as they swiftly make their way, very surely and unchecked, could have kept pace with her, so swiftly she ran]
+of: [ships]
+passages:
+  - Od. 13.70-95 | The voyage to Ithaca
+---
+
+## The simile
+
+{{quote:e102e356-8956-58f4-b34b-1500e43d9c28}}
+
+ἡ δʼ, ὥς τʼ ἐν πεδίῳ τετράοροι ἄρσενες ἵπποι, / πάντες ἅμʼ ὁρμηθέντες ὑπὸ πληγῇσιν ἱμάσθλης, / ὑψόσʼ ἀειρόμενοι ῥίμφα πρήσσουσι κέλευθον: “And she, as four stallions yoked together on the plain, / all rushing on together under the blows of the whip, / lift themselves high as they swiftly make their way” (*Odyssey* 13.81–83). τετράορος, “yoked four together”, is found only here. D. B. Monro takes it as contracted from τετρα-ήορος, a compound like συνήορος and παρήορος, from ἀείρω, the verb of yoking horses, as when the rider of the Iliad's simile harnesses together four horses out of many, πίσυρας συναείρεται ἵππους (*Homer's Odyssey, Books XIII–XXIV*, 1901, on *Odyssey* 13.81; *Iliad* 15.680; see [[the-rider-of-four-horses]] and the translation's note on *Odyssey* 13.81–84). ἄρσενες ἵπποι are stallions, as the horses of Diomedes in the chariot race for Patroclus (*Iliad* 23.377), and the third verse is made like theirs: as Diomedes drove them on with the whip, they “lifted themselves high as they swiftly made their way”, ὑψόσʼ ἀειρέσθην ῥίμφα πρήσσοντε κέλευθον, in the dual of a pair (*Iliad* 23.500–501; see [[the-funeral-games-of-patroclus]]). The race begins as the simile does, with the drivers raising their whips over their horses all together, ἅμα πάντες, and the teams crossing the plain (*Iliad* 23.362–364; see [[like-a-cloud-or-a-storm]]). ἱμάσθλη is the driver's whip, as in Antilochus' hands at the end of that race (*Iliad* 23.582) and in Nausicaa's as she drives her mules home (*Odyssey* 6.320). W. W. Merry takes the simile to describe a team of horses drawing a chariot (*Commentary on the Odyssey*, 1886, on *Odyssey* 5.371; see [[like-a-rider]] and [[chariot]]).
+
+The sentence begins with the ship, ἡ δʼ, “and she”, and leaves her without a verb; it is taken up again after the simile, ὣς ἄρα τῆς …, and the harshness of the broken construction is softened by the nominative ἵπποι of the simile (Monro on *Odyssey* 13.81). ὣς ἄρα τῆς πρύμνη μὲν ἀείρετο, κῦμα δʼ ὄπισθε / πορφύρεον μέγα θῦε πολυφλοίσβοιο θαλάσσης: “so her stern lifted, and behind her / the great surging wave of the loud-roaring sea seethed” (*Odyssey* 13.84–85; see [[stern]] and [[loud-roaring-sea]]). The horses lift themselves as they gallop, and the ship lifts her stern on the wave that follows and seethes behind her. For πρύμνη, “stern”, some read πρῴρη, “prow”, as giving a truer picture; but, Monro asks, how could πρύμνη have crept into the text? (on *Odyssey* 13.84). πορφύρεος is said of a wave as it rises and surges, as of the wave that stood around Poseidon and Tyro, high as a mountain (*Odyssey* 11.243; see the translation's row πορφύρεον μέγα θῦε πολυφλοίσβοιο θαλάσσης).
+
+ἡ δὲ μάλʼ ἀσφαλέως θέεν ἔμπεδον· οὐδέ κεν ἴρηξ / κίρκος ὁμαρτήσειεν, ἐλαφρότατος πετεηνῶν: “And she ran on very surely and unchecked; not even a hawk, / a falcon, the nimblest of winged birds, could have kept pace with her” (*Odyssey* 13.86–87). ἀσφαλέως and ἔμπεδον are the words of the Iliad's rider, who leaps from one horse to another “always steadily and safely”, ἔμπεδον ἀσφαλὲς αἰεί (*Iliad* 15.683). The bird is named twice, ἴρηξ κίρκος, “a hawk, a falcon”: in such pairs, Monro observes, the second term is usually the specific one, as in βοῦς ταῦρος and σῦς κάπρος (on *Odyssey* 13.86; see [[hawk]], [[falcon]] and the translation's note on *Odyssey* 13.86). ἐλαφρότατος πετεηνῶν, “the nimblest of winged birds”, is the falcon's half-verse in the simile of Achilles' pursuit of Hector (*Iliad* 22.139; see [[the-falcon-and-the-dove]]). ὁμαρτέω is “keep pace”; with ἐπί it is the word a driver calls to his team, ἐφομαρτεῖτον, “follow hard”, in Hector's words to his horses and in Antilochus' to his (*Iliad* 8.191, 23.414). Then the poet sums up: ὣς ἡ ῥίμφα θέουσα θαλάσσης κύματʼ ἔταμνεν, “So swiftly she ran, cutting the waves of the sea” (*Odyssey* 13.88). For ἔταμνεν some manuscripts have ἔτεμνεν, others ἔτετμεν (Monro's critical note on *Odyssey* 13.88).
+
+The point of likeness is speed with power and steadiness: a team of four driven hard, the rhythm of the gallop in the rising stern, and a run so sure that the swiftest bird would be left behind. The measure is the Iliad's. There Ajax tells Hector that the time is near when he will pray that his horses may be “swifter than hawks” (*Iliad* 13.817–820; see [[like-a-hawk]]); here the ship is the team, and the hawk could not keep up with it.
+
+## In context
+
+At nightfall the Phaeacians spread a rug and a linen sheet for Odysseus on the deck at the stern, “so that he might sleep unwaking”; he lies down in silence, and the crew sit at the benches, loose the cable from the pierced stone, and toss up the sea with the oar-blade (*Odyssey* 13.70–78; see [[deck]] and [[stern-cables]]), as Alcinous had boasted that his young men could (*Odyssey* 7.327–328). Then sleep falls on Odysseus, “unwaking, sweetest, most like death” (*Odyssey* 13.79–80; see [[sweet-sleep]] and [[hypnos]]), and the simile follows. After it the poet looks at the man the ship carries, who had suffered many sorrows on the waves, “but now he slept motionless, forgetful of all he had suffered” (*Odyssey* 13.89–92; see [[odysseus-set-ashore-on-ithaca]]). The galloping team and the bird that cannot keep pace are set against ἀτρέμας εὗδε, “he slept motionless”. When the morning star rises the ship comes to Ithaca (*Odyssey* 13.93–95; see [[the-morning-star]]).
+
+She runs the same way home. Poseidon waits for her off Scheria, and she comes on ῥίμφα διωκομένη, “coursing swiftly along”, a word that Monro compares with the phrase ἅρμα διώκειν, of driving a chariot (on *Odyssey* 13.162); with a blow of the flat of his hand he turns her to stone and roots her fast in sight of the city (*Odyssey* 13.159–164; see [[the-ship-turned-to-stone]] and [[poseidon]]).
+
+## Elsewhere in Homer
+
+The ships of the Phaeacians are swift “as a wing or a thought” (*Odyssey* 7.36; see [[the-travelers-thought]]); they have no helmsmen and no steering oars, but know men's minds and cross the gulf of the sea wrapped in mist and cloud (*Odyssey* 8.556–563; see [[phaeacians]]). Penelope calls ships “horses of the sea / for men” (*Odyssey* 4.708–709; see [[ships]]), and Odysseus, when his raft is broken, sits astride a single beam “as though riding a horse” (*Odyssey* 5.371; see [[like-a-rider]]).
+
+Homer's chariots run with a pair, and a team of four is rare: Hector calls four horses by name (*Iliad* 8.185; see [[the-horses-of-hector]]), Neleus sent four prize-winning horses with their chariot to race for a tripod in Elis (*Iliad* 11.699–702), and the rider of the Iliad's simile harnesses four together and leaps from one to another as they fly (*Iliad* 15.679–684). The hawk is the gods' measure of speed: Poseidon darts away from the two Ajaxes like a swift-winged hawk, and Apollo goes down from Ida like a hawk, the swiftest of winged birds (*Iliad* 13.62–65, 15.237–238; see [[the-hawk-from-the-rock]] and [[like-a-hawk]]).
+
+## Outside Homer
+
+[[virgil|Virgil]], who builds the games for Anchises on the games for Patroclus, puts a ship race in place of the chariot race and measures it against chariots: not so headlong do chariots in the two-horse contest seize the plain and pour out of the barrier, nor do their drivers so shake the rippling reins over their teams and hang forward over the lash (*Aeneid* 5.144–147; see [[virgil-the-games-for-anchises]]).

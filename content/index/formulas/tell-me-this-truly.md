@@ -16,3 +16,7 @@ en: [tell me this truly]
 It is used seven times, all in the Odyssey. Telemachus asks it of the goddess in the likeness of Mentes (*Odyssey* 1.174), and Antinous of Noemon, about the ship that carried Telemachus away (*Odyssey* 4.645). Odysseus, set down on Ithaca and not knowing where he is, asks it of Athena in the likeness of a young herdsman (*Odyssey* 13.232), and Eumaeus asks it of Odysseus disguised as a beggar (*Odyssey* 14.186). In the last book it is spoken three times in the meetings at Laertes' farm: by Odysseus to his father, whether this is truly Ithaca (*Odyssey* 24.258), by Laertes to the stranger (*Odyssey* 24.297), and by the old servant Dolius to Odysseus, whether Penelope already knows of his return (*Odyssey* 24.403). The Iliad does not have it. Compare [[speak-out]].
 
 {{notes}}
+
+## Outside Homer
+
+In the *Homeric Hymn to Apollo* the god, in the likeness of a young man, has boarded the ship of Cretan sailors bound for Pylos, whom he has carried off their course, and their captain answers him in this verse, with εὖ for ἐύ, and asks about the land: τίς δῆμος; τίς γαῖα; τίνες βροτοὶ ἐγγεγάασιν;, “what people, what land, what mortals are born here?” (*Hymn to Apollo* 467–468; see [[strangers-who-are-you]]).

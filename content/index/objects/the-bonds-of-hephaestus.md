@@ -7,9 +7,10 @@ summary: The bonds that Hephaestus forges on his anvil to catch Ares and Aphrodi
 aliases: [the net of Hephaestus, Hephaestus' net, the snare of Hephaestus, bonds of Hephaestus, desmoi]
 # The bonds are found only in Odyssey 8 (8.274-360). The δεσμ- forms are claimed in the Book 8 note, which applies to
 # the Odyssey only: the same forms in the Iliad are other bonds (Il. 5.386, 5.391, 6.507, 15.19, 15.264) and the rivets
-# of Hephaestus' tripods, δεσμούς (Il. 18.379).
+# of Hephaestus' tripods, δεσμούς (Il. 18.379). In the Odyssey δεσμοῖο at 13.100 (ἄνευ δεσμοῖο) is the mooring rope of
+# ships in the harbor of Phorcys, which the stern-cables' Book 13 note claims.
 en: [bonds]
-except: [Od. 11.293]
+except: [Od. 11.293, Od. 13.100]
 ---
 
 ## The bonds

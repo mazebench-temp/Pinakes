@@ -5,7 +5,10 @@ kind: person
 tags: [achaean, king, warrior, elder, crete]
 summary: King of [[Crete]], son of [[Deucalion]] and grandson of [[Minos]], one of the senior Achaean leaders, who brings eighty ships to Troy with his companion [[Meriones]] and has his great day in the battle at the ships. In the Odyssey he brings all his men home.
 aliases: [Idomeneus son of Deucalion, Idomeneus of Crete]
-grc: [Ἰδομενε*]
+# Ἰδομενε* takes Ἰδομενεύς and Ἰδομενεῦ; Ἰδομενῆ* the forms with η (Ἰδομενῆα, Ἰδομενῆος, Ἰδομενῆϊ), 30 lines of the
+# Iliad and Od. 13.259, 14.237, 14.382, 19.181, 19.190, all his. Neither catches εἰδομένη "in the likeness of", and
+# Aristotle does not name him.
+grc: [Ἰδομενε*, "Ἰδομενῆ*"]
 en: [Idomeneus]
 relations:
   - father: deucalion (12.117, 13.451-452)
@@ -15,7 +18,7 @@ relations:
 
 ## Family
 
-He is Δευκαλίδης, “son of Deucalion” (12.117, 13.307, 17.608; see [[deucalion]]), and over the body of Alcathous he gives the whole line: Zeus fathered Minos, Minos Deucalion, and Deucalion him, “a lord over many men in wide Crete” (13.449–453; see [[minos]] and [[genealogy-in-battle]]). In the Odyssey, Odysseus, posing as a Cretan, makes Minos his grandfather and Idomeneus his elder brother, “older and better” (Od. 19.178–184). His companion and second in command is Meriones, son of Molus (2.650–651, 13.249; see [[molus]]).
+He is Δευκαλίδης, “son of Deucalion” (12.117, 13.307, 17.608; see [[deucalion]]), and over the body of Alcathous he gives the whole line: Zeus fathered Minos, Minos Deucalion, and Deucalion him, “a lord over many men in wide Crete” (13.449–453; see [[minos]] and [[genealogy-in-battle]]). In the Odyssey, Odysseus, posing as a Cretan, makes Minos his grandfather and Idomeneus his elder brother, “both older and braver” (*Odyssey* 19.178–184, a plain rendering). His companion and second in command is Meriones, son of Molus (2.650–651, 13.249; see [[molus]]).
 
 ## Descriptions
 
@@ -34,7 +37,7 @@ He is Δευκαλίδης, “son of Deucalion” (12.117, 13.307, 17.608; see 
 
 ## In the Odyssey
 
-Nestor tells Telemachus that Idomeneus brought home to Crete all his companions who had escaped the war, and the sea took none (Od. 3.191–192). Crete is Idomeneus' country in Odysseus' false tales: he killed Orsilochus, Idomeneus' son (the only son Homer names), who tried to rob him of his Trojan spoils because he had not served under Idomeneus at Troy (Od. 13.259–270); the people made him and Idomeneus lead the ships to Ilios (Od. 14.237–239); and he is Aethon, Idomeneus' younger brother, who entertained Odysseus in Crete after Idomeneus had sailed (Od. 19.178–193).
+Nestor tells Telemachus that Idomeneus brought home to Crete all his companions who had escaped the war, and the sea took none (*Odyssey* 3.191–192). Crete is Idomeneus' country in Odysseus' false tales: he killed Orsilochus, Idomeneus' son (the only son Homer names), who tried to rob him of his Trojan spoils because he had not served under Idomeneus at Troy (*Odyssey* 13.259–270; see [[orsilochus-son-of-idomeneus]] and [[the-first-cretan-tale]]); the people made him and Idomeneus lead the ships to Ilios (*Odyssey* 14.237–239); and he is Aethon, Idomeneus' younger brother, who entertained Odysseus in Crete after Idomeneus had sailed (*Odyssey* 19.178–193).
 
 ## Outside Homer
 

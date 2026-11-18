@@ -1,0 +1,5 @@
+---
+summary: The book opens as the pause of Book 11 did: when Odysseus ends his tale, the Phaeacians “were held by a spell throughout the shadowy halls” (13.2).
+---
+
+“So he spoke, and they all fell hushed in silence, / and they were held by a spell throughout the shadowy halls” (κηληθμῷ δʼ ἔσχοντο κατὰ μέγαρα σκιόεντα, 13.1–2; see [[silence]] and [[the-tale-to-alcinous]]). The two verses are those of the pause in the middle of the tale (11.333–334; see the Book 11 note), and now they close it: the spell held the listeners when the teller stopped, and holds them when he has finished. κηληθμός, from κηλέω, “charm”, occurs in Homer only in this verse (see the entry). The tale they have just heard told of the Sirens, whose clear song bewitches all men who come near (12.39–46; see [[sirens]]), and the singer's power is now the teller's (see [[singers]]). Alcinous breaks the silence with a promise that the stranger will not be beaten back from his homecoming, and with more gifts (13.3–15; see [[nostos]] and [[doron]]).

@@ -1,0 +1,10 @@
+---
+summary: On Ithaca the maxim of Book 9 is lived: Odysseus mourns for his native land on its own shore, not knowing it (13.219); when he hears its name he is glad, “rejoicing in his own land, the land of his fathers” (13.250–251); and when the mist is scattered he rejoices again and kisses the grain-giving earth (13.352–354).
+# "χαίρων ᾗ γαίῃ" (13.251, 13.354), only here: the possessive of the maxim's "ἧς γαίης" (9.28).
+grc: ["χαίρων ᾗ γαίῃ"]
+en: [rejoicing in his own land]
+---
+
+**The land unknown.** The maxim was spoken on Scheria, of an island he had not seen for twenty years: “I, for my part, / can see nothing else sweeter than one's own land” (9.27–28). When he wakes on that island he does not know it, for Athena's mist has made everything look strange (13.187–196; see [[shape-changing]]), and he mourns for the land he is standing on: “but he mourned for his native land, / dragging himself along the shore of the loud-roaring sea” (13.219–220; see [[lament]] and [[dear-native-land]]).
+
+**Rejoicing in his own land.** The shepherd tells him the name, and “much-enduring brilliant Odysseus was glad, / rejoicing in his own land, the land of his fathers” (13.250–251); ᾗ γαίῃ is the possessive of “one's own land”, ἧς γαίης, in the dative (see the entry). Yet he does not trust the news, and does not speak the truth (13.254–255; see [[truth-and-deception]]), and even after Athena has revealed herself he begs her to “tell me if it is true that I have come to my dear native land” (13.328). Only when she has scattered the mist, “and the land came into view”, does he believe it, and the verse of his gladness comes again: “and then much-enduring brilliant Odysseus was glad, / rejoicing in his own land, and kissed the grain-giving earth” (13.352–354; see [[grain-giving]] and [[earth]]). So he kissed the earth of Scheria when he had withdrawn from the river (5.462–463), and so Agamemnon, home at last, “touched his native land and kissed it” (4.522), on the day of his death (see [[the-murder-of-agamemnon]]). His first words then are to the nymphs of the place, “never did I / think to see you again” (13.356–357; see [[prayer]]).

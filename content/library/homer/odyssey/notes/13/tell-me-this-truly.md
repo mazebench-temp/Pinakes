@@ -1,0 +1,5 @@
+---
+summary: Odysseus to the young herdsman: “And tell me this truly, so that I may know it well, / what land is this, what people, what men are born here? / Is it one of the clear-seen islands, or some shore / of the deep-soiled mainland that lies upon the sea?” (13.232–235).
+---
+
+The verse introduces a question about the land, not about the person: τίς γῆ, τίς δῆμος, τίνες ἀνέρες ἐγγεγάασιν (see the Odyssey translation's formulas, and [[anaphora]]), followed by a double question, island or mainland, which D. B. Monro compares with the question of his waking (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.201–202, “So l. 234”; see [[to-the-land-of-what-mortals]]). In the *Hymn to Apollo* the same verse, followed by nearly the same questions, is the Cretan captain's to the god, who has come aboard in the likeness of a young man (see the general article). In the last book Odysseus will ask his father in the same verse whether this is truly Ithaca, which he knows (24.258–259); here he does not know, and he asks the goddess, who does (see [[divine-epiphany]] and [[athena]]).

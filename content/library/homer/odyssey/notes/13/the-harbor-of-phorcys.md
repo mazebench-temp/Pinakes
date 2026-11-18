@@ -1,0 +1,21 @@
+---
+summary: The Phaeacian ship comes at dawn into the harbor of Phorcys, where ships need no mooring rope, and the crew, who know the place, set Odysseus down asleep on its sand with his gifts (13.96–124). In his lie to Athena he tells how the Phoenicians rowed him into it by night (13.278–284), and when she scatters the mist it is the first thing she shows him (13.344–346).
+# The entry claims the two phrases of the name (13.96, 13.345). Unnamed: the headlands, the shelter and the anchorage
+# (13.97-101), the olive at its head (13.102, 13.346), the ship rowed in and run aground (13.113-114), and the harbor
+# of the false tale (13.279).
+refs: [13.97-102, 13.113-114, 13.279, 13.346]
+passages:
+  - 13.96-124 | The landing in the harbor of Phorcys
+---
+
+**The harbor.** As the morning star rises, the ship draws near to the island, and the poet describes the place where she will put in:
+
+{{quote:e734ddca-3210-515a-955f-28dde763eeab}}
+
+ἐν δήμῳ Ἰθάκης, “in the land of Ithaca”, has δῆμος in its first sense, a district and its land, as in the Cretan's δήμῳ ἔνι Τρώων, “in the land of the Trojans” (13.266; see [[ithaca]] and [[demos]]). The two headlands are προβλῆτες, “jutting”, and ἀπορρῶγες, “sheer”, and they crouch down toward the harbor, ποτιπεπτηυῖαι, literally “crouching towards”, “sinking down in front of the harbour”, and so closing it in; some copies read ὑποπεπτηυῖαι (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.98, and his critical note; see the translation's note on 13.98–99). ἀνέμων … μέγα κῦμα are “the waves raised by the winds”, and δυσαήων, “stormy”, is lengthened by metrical licence, since δυσαέων is impossible in the hexameter (Monro on 13.99). For ἔκτοθεν, “outside”, the vulgate has ἔκτοσθεν, and Monro suggests ἔκτοσθʼ (critical note on 13.100). Within, ships stay ἄνευ δεσμοῖο, “without a mooring rope”, ὅτʼ ἂν ὅρμου μέτρον ἵκωνται, “once they have reached the measure of anchorage”, that is, the distance at which ships are fastened by a cable to the shore, if fastening is needed (Monro on 13.101; see the translation's key-word row). In the harbor of the island of goats too there was “no need of a cable” (9.136; see [[harbor]] and [[stern-cables]]). At its head stand the long-leaved olive and the cave of the Naiads (13.102–112; see [[olive]] and [[the-cave-of-the-naiads]]).
+
+**The landing.** “There they rowed in, knowing the place before” (13.113): πρὶν εἰδότες, the Phaeacians knew the harbor, as their ships “know the cities and rich fields of all / men” (8.560–561; see [[phaeacians]]). The ship, driven by the rowers, runs up on the land ὅσον τʼ ἐπὶ ἥμισυ πάσης, “to half its length” (Monro on 13.114); they lift Odysseus out asleep and lay him on the sand, and set the gifts by the trunk of the olive, away from the road, lest a wayfarer come on them before he woke (13.116–124; see [[odysseus-set-ashore-on-ithaca]] and [[the-gifts-of-the-phaeacians]]). Then they row home, and the poem follows them (13.125; see [[the-ship-turned-to-stone]]). When Odysseus wakes, the mist makes all things look strange to him, ἀτραπιτοί τε διηνεκέες λιμένες τε πάνορμοι, “the long paths and the harbors fit for mooring” (13.195; see the translation's key-word row).
+
+**The harbor of the lie.** In the tale he tells Athena, the landing he slept through comes back in another form. The Phoenicians, driven off course, came to this place by night: “With difficulty we rowed forward into the harbor”, and lay down on the shore without supper; sleep came upon him, and they took his goods out of the ship “and set them down where I myself lay on the sands” before they sailed away (13.278–286; see [[phoenicians]] and [[the-first-cretan-tale]]). προερέσσαμεν, “we rowed forward”, is Aristarchus' reading, which Didymus reports from all the editions Aristarchus used, where other manuscripts have προερύσσαμεν, “we drew forward” (Monro's critical note on 13.279).
+
+**Shown by Athena.** When Odysseus still doubts, Athena shows him the harbor first of all, in the words of the description: “This is the harbor of Phorcys, the Old Man of the Sea, / and here at the head of the harbor is the long-leaved olive” (13.345–346; see [[the-cave-of-the-naiads]] and [[neritum]]). The next book begins where this one leaves him: “But he went up from the harbor by the rugged path” (14.1, a plain rendering; see [[eumaeus]]).

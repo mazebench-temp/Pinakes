@@ -5,7 +5,7 @@ kind: epithet
 tags: [weapon]
 summary: “Not to be worn down,” an epithet of bronze, of a tireless voice, and of a hard heart.
 aliases: [ateires, unwearying, stubborn]
-grc: [ἀτειρής]
+grc: [ἀτειρής, ἀτειρέα]
 en: [unyielding]
 of: [bronze]
 ---

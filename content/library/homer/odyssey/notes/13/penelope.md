@@ -1,0 +1,18 @@
+---
+summary: Odysseus prays to find his wife at home; Athena's mist keeps him unknown so that his wife may not know him first, and Athena tells him that she still sits weeping in his halls, wooed by the suitors, giving them all hope while her mind has other things in view; she is to see him only as a beggar (13.42–43, 13.192, 13.333–338, 13.378–381, 13.402–406).
+# Πηνελοπ* (in the entry) claims Πηνελόπειαν (13.406). Unnamed: "my noble wife" (13.42-43);
+# "lest his wife should know him first" (13.192); "your wife ... who sits ... in your halls" (13.336-338);
+# "your godlike wife" and "she" (13.378-381); "to your wife" (13.403).
+refs: [13.42-43, 13.192, 13.336-338, 13.378-381, 13.403]
+passages:
+  - 13.333-338 | Athena on Penelope
+  - 13.378-381 | Penelope and the suitors
+---
+
+**A wish and a precaution.** Odysseus' farewell to the Phaeacians asks for a homecoming: “and may I find my noble wife at home / when I return, and my dear ones unhurt” (13.42–43; see [[odysseus]] and [[blameless]]). When he wakes in Ithaca, the goddess's mist keeps him unknown, “lest his wife should know him first, and his townsmen and friends, / before the suitors had paid for all their transgression” (13.192–193; see [[athena]] and [[the-suitors]]). The mist was not meant to make him invisible: Athena wished to prepare him by consultation and by changing his appearance, and had she not, he would have gone straight to his palace, “and all would have been lost” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.191; see the translation's note on 13.189–191).
+
+**Athena's account.** “For gladly would another man, coming home from his wanderings, / have been eager to see his children and his wife in his halls; / but it is not yet your pleasure to learn or to hear, / before you have made trial of your wife yourself” (13.333–336; see [[peira]]). πειρήσεαι is “observe for yourself”, not trusting to report, where any other man would have hurried home without asking anything (Monro on 13.336). Then Athena speaks of her as Odysseus' mother spoke of her among the dead: she sits “just as she was, / in your halls; and always in misery for her / the nights and the days waste away, as she sheds tears” (13.336–338), the last verse and most of the one before being Anticleia's answer (11.182–183; see [[anticleia]] and [[tears]]). Aristarchus rejected 13.333–338 (Monro's critical note on 13.333–338).
+
+**The suitors and the promises.** The suitors are “wooing your godlike wife and giving bride-price” (13.378), in the verse of Teiresias' prophecy (11.117; see [[bride-price]] and [[godlike]]), “and she, always mourning in her heart for your homecoming, / gives hope to all, and makes promises to each man, / sending out messages, but her mind has other things in view” (13.379–381). ὀδυρομένη is “lamenting about thy return”, that is, crying for it (Monro on 13.379), and ἀγγελίας are “messages” (Monro on 13.381). The last two verses are those of Antinous in the assembly of Ithaca (2.91–92; see [[antinous]] and [[the-assembly-of-the-ithacans]]), where they were a charge of deceit; in Athena's mouth they are proof of her faithfulness.
+
+**Unknown to her.** Athena will make Odysseus unsightly “to all the suitors / and to your wife and your son, whom you left in your halls” (13.402–403; see [[odysseus-changed-into-a-beggar]]), and the swineherd to whom she sends him first “loves your son and sensible Penelope” (13.406; see [[eumaeus]] and [[sensible]]). Why Odysseus did not reveal himself to Penelope, mature and loving, but did to the young Telemachus and to the servants, was one of the problems Aristotle answered (see [[odysseus]]).

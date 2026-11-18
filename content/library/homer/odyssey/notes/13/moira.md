@@ -1,0 +1,5 @@
+---
+summary: Twice in the book a speaker is praised as having spoken “fair and right” (κατὰ μοῖραν): Odysseus by the Phaeacians at his farewell (13.48), and Athena by Odysseus when she has told him of the suitors (13.385).
+---
+
+The formula of approval frames the two halves of the book. When Odysseus has asked to be sent home and prayed for his hosts, the Phaeacians “all approved and bade / send the stranger on his way, since he had spoken fair and right” (ἐπεὶ κατὰ μοῖραν ἔειπεν, 13.47–48 = 7.226–227; see [[phaeacians]] and [[pompe]]). On Ithaca Odysseus answers Athena's account of the suitors: “Ah, truly, like Agamemnon, son of Atreus, / I was about to perish by an evil fate in my halls, / had you not told me each thing, goddess, fair and right” (κατὰ μοῖραν ἔειπες, 13.383–385; see [[agamemnon]] and [[the-murder-of-agamemnon]]). The word of due measure stands beside the fate it averts: κακὸν οἶτον, “an evil fate”, is the death that Agamemnon met at his homecoming, and Athena's fair and right report is what keeps Odysseus from the same.

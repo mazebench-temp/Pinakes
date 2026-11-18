@@ -5,7 +5,7 @@ kind: epithet
 tags: [thessaly]
 summary: “With rich clods,” an epithet of fertile lands.
 aliases: [fertile, eribolax, eribolos]
-grc: [ἐριβώλακι]
+grc: [ἐριβώλακι, ἐριβώλακος]
 en: [deep-soiled]
 of: [phthia, larisa, troy]
 ---

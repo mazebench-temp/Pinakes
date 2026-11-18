@@ -1,0 +1,9 @@
+---
+summary: The Cyclops is not named in Book 13, but Athena gives his blinding as the cause of Poseidon's anger, in the words of Teiresias: her father's brother “has laid up a grudge against you in his heart, / angry because you blinded his dear son” (13.342–343).
+# Unnamed: "his dear son" (13.343).
+refs: [13.343]
+---
+
+**His dear son.** Athena tells Odysseus why she did not help him on the sea: “but I did not wish to fight with Poseidon, / my father's brother, who has laid up a grudge against you in his heart, / angry because you blinded his dear son” (13.341–343; see [[poseidon]], [[athena]] and [[odysseus-and-the-cyclops]]). The last verse is Teiresias' (11.103; see the Book 11 note), and the end of the verse before is his too (11.102), where some manuscripts here read χόλον, “anger”, for κότον, “grudge” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, his critical note on 13.342; see [[kotos]]). Zeus gave the same cause at the first council of the gods, Poseidon “angry because of the Cyclops, whom he blinded of his eye” (1.68–69; see [[the-council-of-the-gods]]).
+
+**The prayer fulfilled.** The Cyclops prayed that, if Odysseus must reach his home, he should “come late and in evil plight, having lost all his companions, / on someone else's ship, and find bane in his house” (9.534–535; see [[curses]] and the Book 9 note). In Book 13 each part of the curse is fulfilled or announced. Odysseus comes home late and alone, on a Phaeacian ship, asleep (13.70–125; see [[odysseus-set-ashore-on-ithaca]]), and Athena, who knew “that you would come home, having lost all your companions” (13.340), tells him of the suitors who are lording it in his hall (13.375–381; see [[the-suitors]]). Poseidon's own last act falls on the Phaeacians who brought him (13.125–187; see [[the-ship-turned-to-stone]]).

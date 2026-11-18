@@ -1,0 +1,5 @@
+---
+summary: Odysseus wakes in a land he does not know and curses the Phaeacians: “May Zeus, the god of suppliants, punish them, who watches over / other men as well, and punishes whoever does wrong” (13.213–214).
+---
+
+The title is found only here in Homer, in a curse that the poem has already shown to be unjust. Odysseus blames “the leaders and rulers of the Phaeacians,” who were “not altogether discerning or just” (13.209–212); a little before, the same “leaders and rulers of the people of the Phaeacians” were standing around the altar, praying to Poseidon, who had turned their ship to stone for bringing him home (13.185–187; see [[the-migration-of-the-phaeacians]]). He had come to them as a suppliant, at the knees of Arete (7.142–152; see the Book 7 note on [[zeus]]), and the goods he counts next are all there (13.215–219; see [[possessions]]). On Aristarchus' optative τίσαιτο and Zenodotus' imperative see the Book 13 note on [[supplication]], and on ἐφορᾷ, “watches over,” the Book 13 note on [[zeus]].

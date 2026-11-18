@@ -1,0 +1,8 @@
+---
+summary: Athena destroys “the fair hair” from Odysseus' head when she makes him an old beggar (13.399, 13.431): the verse makes him ξανθός, fair-haired, though elsewhere his beard is dark.
+# The phrases "ὀλέσω τρίχας" (13.399) and "ὄλεσε τρίχας" (13.431), first met here; they apply in the Odyssey only. A bare
+# τρίχας would also catch the bristles of Circe's swine (10.239).
+grc: ["ὀλέσω τρίχας", "ὄλεσε τρίχας"]
+---
+
+Athena's promise and its fulfilment use the same verse: “and destroy the fair hair from your head” (13.399), “and destroyed the fair hair from his head” (13.431; see [[athena]], [[shape-changing]], [[odysseus-changed-into-a-beggar]], [[eyes]] and [[wand]]), with the withered skin and the dimmed eyes. ξανθὰς τρίχας makes Odysseus fair-haired, ξανθός, as Menelaus is in his standing epithet (1.285; see [[fair-haired]] and [[menelaus]]). But when Athena gives him back his looks in the swineherd's hut, “the beard grew dark about his chin” (16.176, a plain rendering), and on Scheria she had made his thick hair fall from his head “like the hyacinth flower” (6.231; see the Book 6 note). Monro notes the difficulty: “Ulysses is here supposed to be ξανθός” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.431, referring to 16.176 and 6.231). W. W. Merry, on the earlier verse, thinks it not impossible that the beard was some shades darker than the hair, and that the thicker parts of an auburn beard would look dark enough to be called κυάνεος; the likeness to the hyacinth, he suggests, lies in its clustering flowers with curling petals, not in its color (*Commentary on the Odyssey*, 1886, on 6.231).

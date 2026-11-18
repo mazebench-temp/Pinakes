@@ -5,7 +5,7 @@ kind: epithet
 tags: [body, craftsman]
 summary: “Very beautiful,” an epithet of fine things and of the body: a lyre, a chariot, a house, the neck of a goddess.
 aliases: [very beautiful, perikalles]
-grc: [περικαλλέος, περικαλλέα, περικαλλέʼ]
+grc: [περικαλλέος, περικαλλέα, περικαλλέʼ, περικαλλέας]
 en: [beautiful]
 ---
 

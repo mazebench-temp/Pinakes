@@ -5,7 +5,7 @@ kind: epithet
 tags: [speech]
 summary: “Mild, gentle words,” the soft speech of persuasion and kindness.
 aliases: [mild words, aganos]
-grc: [ἀγανοῖς ἐπέεσσιν]
+grc: [ἀγανοῖς ἐπέεσσιν, ἀγανῇσι]
 en: [gentle words]
 of: [epos]
 ---

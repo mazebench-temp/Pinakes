@@ -6,6 +6,9 @@ tags: [priest]
 summary: The service of a god at his sanctuary. A priest or priestess serves one god at one place, prays and sacrifices for the people, and is honored by them.
 aliases: [priest, priests, priestess, arēter]
 grc: [ἀρητῆρα, ἱερῆα, ἀρητῆρος, ἱερεὺς]
+# ἱέρευσʼ (Od. 13.24), "sacrificed", has the letters of ἱερεύς once the elision mark is dropped: Alcinous sacrifices
+# the ox himself.
+except: [Od. 13.24]
 en: [priest]
 passages:
   - 1.9-42 | The priest dishonored

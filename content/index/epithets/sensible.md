@@ -6,8 +6,8 @@ tags: [heroic-epithet, woman, mind]
 summary: “Keeping one's wits, sensible,” ἐχέφρων: once in the Iliad, of the good man who loves his wife, and in the Odyssey an epithet of [[Penelope]], once given to Odysseus.
 aliases: [echephron, of good sense]
 # Ἐχέφρων, son of Nestor (Od. 3.413, 3.439), is the same word as a name: echephron.
-# ἐχέφρονα (Od. 13.406) and ἐχέφρονι (Od. 16.130, 16.458, 24.198) to be added with their books.
-grc: [ἐχέφρων, "!^Ἐχέφρων"]
+# ἐχέφρονι (Od. 16.130, 16.458, 24.198) to be added with its books.
+grc: [ἐχέφρων, ἐχέφρονα, "!^Ἐχέφρων"]
 en: [sensible]
 of: [penelope]
 ---

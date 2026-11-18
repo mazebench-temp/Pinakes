@@ -7,7 +7,8 @@ summary: The women of [[Troy]]. [[Helen]] fears their blame, [[Hector]] would be
 aliases: [women of Troy, Troades]
 grc: ["=Τρῳ*", Τρωϊάδ*]
 # Τρῳοὺς at 23.291 are the horses of Tros (ἵππους Τρῳούς), which Diomedes took from Aeneas.
-except: [5.461, 16.393, 17.127, 17.255, 17.273, 18.179, 23.291, Poetics 1459b7]
+# Τρωϊάδος at Od. 13.263 is the adjective of ληΐδος, "spoil from Troy", which troy's Book 13 note claims.
+except: [5.461, 16.393, 17.127, 17.255, 17.273, 18.179, 23.291, Poetics 1459b7, Od. 13.263]
 ---
 
 {{quote:c6da5457-abf8-5c2b-a525-9eb9da2cd1f9}}

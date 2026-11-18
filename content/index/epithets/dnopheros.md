@@ -4,13 +4,13 @@ greek: δνοφερός
 kind: epithet
 summary: “Dark, murky,” an epithet of water and of night, and in Hesiod of the earth.
 aliases: [dnopheros, dusky, dark]
-grc: [δνοφερὸν]
+grc: [δνοφερὸν, δνοφερὴ]
 en: [murky]
 ---
 
 ## Meaning
 
-δνοφερός is the adjective of δνόφος, “darkness,” a word not found in Homer: “dark, dusky.” The Iliad uses it twice, in the same verse, of the water that a spring pours down a sheer rock (9.15 = 16.4; [[of-dark-water]], [[sheer]]). The Odyssey uses it of night: when Odysseus, in a false tale, says he ambushed Idomeneus' son Orsilochus, “a very dark night held the sky” (Od. 13.267–270), and Peisistratus tells the impatient Telemachus that they cannot drive “through the dark night” from Sparta (Od. 15.49–50). In Hesiod it is the color of Night (*Theogony* 107) and of the earth, in the verse that places the sources and ends of “the dark earth and misty Tartarus” at the edge of the world (*Theogony* 736 = 807). The translation renders it “murky,” the word it also uses for [[murky]] (ἐρεβεννός), the darkness of Erebus.
+δνοφερός is the adjective of δνόφος, “darkness,” a word not found in Homer: “dark, dusky.” The Iliad uses it twice, in the same verse, of the water that a spring pours down a sheer rock (9.15 = 16.4; [[of-dark-water]], [[sheer]]). The Odyssey uses it of night: when Odysseus, in a false tale, says he ambushed Idomeneus' son Orsilochus, “a very dark night covered the sky” (*Odyssey* 13.267–270), and Peisistratus tells the impatient Telemachus that they cannot drive “through the dark night” from Sparta (*Odyssey* 15.49–50). In Hesiod it is the color of Night (*Theogony* 107) and of the earth, in the verse that places the sources and ends of “the dark earth and misty Tartarus” at the edge of the world (*Theogony* 736 = 807). The Iliad's translation renders it “murky,” the word it also uses for [[murky]] (ἐρεβεννός), the darkness of Erebus; the Odyssey's night is “very dark” and “dark” (*Odyssey* 13.269, 15.50).
 
 ## Use
 

@@ -5,7 +5,7 @@ kind: epithet
 tags: [rare-word]
 summary: “Ill-blowing, stormy,” an epithet of winds, above all of Zephyrus, the west wind.
 aliases: [dysaes, ill-blowing]
-grc: [δυσαέος]
+grc: [δυσαέος, δυσαήων]
 en: [stormy]
 ---
 

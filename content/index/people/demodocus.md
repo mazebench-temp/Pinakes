@@ -30,7 +30,7 @@ The singer “whom the Muse loved above all, and she gave him both good and evil
 
 ## Later in the Odyssey
 
-Odysseus begins the tale of his wanderings with praise of him and of the feast at which he sings (*Odyssey* 9.2–11; see [[like-a-god-in-his-voice]] and [[the-tale-to-alcinous]]). On the day of the escort, at the last feast in the king's hall, “the divine singer sang among them, Demodocus, honored by the people”, while Odysseus kept turning his head toward the sun, eager for it to set (*Odyssey* 13.27–30, a plain rendering). It is his last appearance.
+Odysseus begins the tale of his wanderings with praise of him and of the feast at which he sings (*Odyssey* 9.2–11; see [[like-a-god-in-his-voice]] and [[the-tale-to-alcinous]]). He sings once more at the last feast in the king's hall, on the day of the escort, and is not named again (*Odyssey* 13.27–28; see the Book 13 note).
 
 ## Outside Homer
 

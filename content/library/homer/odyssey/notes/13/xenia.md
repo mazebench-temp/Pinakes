@@ -1,0 +1,9 @@
+---
+summary: The Phaeacians fulfill the host's last duty, sending “the stranger” home with gifts (13.10, 13.48, 13.52); on Ithaca Odysseus asks whether the people of the land are “kind to strangers” (13.202), and Athena, as a young herdsman, calls the lord of the island “stranger” (13.237, 13.248).
+---
+
+**The stranger sent home.** The last day in Scheria is the end of a guest's stay. Alcinous points to the gifts, “Clothes for the stranger lie in the polished chest” (ξείνῳ, 13.10; see [[doron]] and [[chest]]); when Odysseus asks for his escort, the Phaeacians bid “send the stranger on his way” (13.48 = 7.227); and the libation is poured to father Zeus “so that when we have prayed to father Zeus / we may send the stranger on his way to his native land” (13.51–52; see [[libation]] and [[pompe]]). The escort is the host's last service (see the entry), and the Phaeacians' generosity to their guest is what Poseidon punishes (13.149–164; see [[the-migration-of-the-phaeacians]]).
+
+**Kind to strangers?** Waking in the mist, Odysseus asks of the unknown land the question he asked in Scheria and before the Cyclopes: “Are they arrogant and savage and unjust, / or kind to strangers, with a mind that fears the gods?” (φιλόξεινοι, 13.201–202; see [[hybris]], [[themis]] and [[to-the-land-of-what-mortals]]). When he thinks the Phaeacians have abandoned him, he calls on Zeus, “the god of suppliants”, to punish them (13.213–214; see [[supplication]] and [[poine]]).
+
+**A stranger at home.** The young herdsman answers, “You are a fool, stranger, or you have come from far away” (ὦ ξεῖνʼ, 13.237; see [[nepios]]), and ends his account of the island, “Therefore, stranger, the name of Ithaca has reached even to Troy” (13.248; see [[ithaca]]). The lord of the island is greeted as a stranger in it, and when Athena has made him an old beggar (13.429–438; see [[shape-changing]]), he will go to his house as one (see [[strangers-and-beggars-are-from-zeus]]).

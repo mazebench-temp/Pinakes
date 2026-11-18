@@ -1,7 +1,7 @@
 ---
 summary: Penelope comes down among the suitors and stands by the doorpost of the hall, holding her shining veil before her cheeks (1.334).
 # The phrase σχομένη λιπαρὰ κρήδεμνα (1.334; again 16.416, 18.210, 21.65, always Penelope). A bare κρήδεμνα would also
-# catch the "shining battlements" of Troy (Τροίης λιπαρὰ κρήδεμνα, Od. 13.388).
+# catch the "shining veil" of Troy, its battlements (Τροίης λιπαρὰ κρήδεμνα, Od. 13.388).
 grc: ["σχομένη λιπαρὰ κρήδεμνα"]
 en: [veil]
 ---

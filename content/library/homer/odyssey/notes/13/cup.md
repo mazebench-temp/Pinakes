@@ -1,0 +1,7 @@
+---
+summary: After the libation for his escort Odysseus stands up, places the two-handled cup in Arete's hand and bids the queen farewell (13.56–62), in the verse with which Hephaestus gives his mother a cup in the Iliad.
+passages:
+  - 13.56-62 | Farewell to Arete
+---
+
+Pontonous serves out the wine, and the Phaeacians pour libations to the gods “from where they sat”: αὐτόθεν ἐξ ἑδρέων, “in their places”, “even as they sat” (13.53–56; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.56; see [[libation]], [[mixing-bowl]] and [[pontonous]]). Then “brilliant Odysseus stood up, / and placed the two-handled cup in the hand of Arete, / and he spoke to her, addressing her with winged words: / ‘Farewell to you, queen, continually, until old age / and death come, which are the lot of men’” (13.56–60; see [[arete-queen-of-the-phaeacians]] and [[winged-words]]). Ἀρήτῃ δʼ ἐν χειρὶ τίθει δέπας ἀμφικύπελλον is the Iliad's verse of Hephaestus, who “placed a two-handled cup / in his dear mother's hand” to make peace among the gods (*Iliad* 1.584–585; see the entry). For χειρί, “in the hand”, some manuscripts read χερσί, “in the hands”, and Monro compares the Iliad's verse (Monro's critical note on 13.57). The guest who first knelt at the queen's knees as a suppliant (7.142; see [[supplication]]) takes his leave of her with the cup, and steps over the threshold (13.63; see [[threshold]]).

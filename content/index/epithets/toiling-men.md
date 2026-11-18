@@ -4,7 +4,7 @@ greek: ἀλφηστής
 kind: epithet
 summary: “Toiling, enterprising,” or perhaps “bread-eating,” ἀλφησταί, an epithet of men in the Odyssey, of ordinary mortals set against the gods, against the Phaeacians, or against a swift-footed hero.
 aliases: [alphestai, alphestes, enterprising men, bread-eating men]
-grc: [ἀλφηστῇσιν, ἀλφηστάων]
+grc: [ἀλφηστῇσιν, ἀλφηστάων, ἀλφηστάς]
 en: [toiling]
 ---
 
@@ -17,3 +17,7 @@ Merry reports two explanations. The grammarians glossed ἀλφησταί as “
 It is found three times, all in the Odyssey, always in the plural with ἀνήρ. Telemachus says that Zeus gives “to toiling men, to each, as he wills” (*Odyssey* 1.349); Nausithous settled the Phaeacians in Scheria, “far from toiling men” (*Odyssey* 6.7–8); and in the false tale Odysseus tells Athena, Orsilochus of Crete outran toiling men with his swift feet (*Odyssey* 13.259–261).
 
 {{notes}}
+
+## Outside Homer
+
+In the *Homeric Hymn to Apollo* the god, in the likeness of a young man, tells the Cretan sailors whose ship he has boarded that it is the way of “toiling men,” ἀνδρῶν ἀλφηστάων, when they come to land from the sea worn out, to be seized at once by desire for food (*Hymn to Apollo* 458–461).

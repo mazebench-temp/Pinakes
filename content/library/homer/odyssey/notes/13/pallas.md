@@ -1,0 +1,5 @@
+---
+summary: Pallas Athena four times: as she pours a mist around the waking Odysseus, “so that she might make him / unknown, and tell him each thing” (13.189–191); as he rejoices in the land “as she told him, / Pallas Athena, daughter of aegis-bearing Zeus” (13.251–252); in her own reproach, “yet you did not know / Pallas Athena, daughter of Zeus” (13.299–300); and as she hides the gifts and sets a stone against the doors of the cave (13.370–371).
+---
+
+Each time the double name is followed by κούρη Διός, with or without αἰγιόχοιο, at the verse-end (see [[daughter-of-zeus]] and [[child-of-aegis-bearing-zeus]]). The narrator names her while she is hidden from Odysseus, first in the mist and then as the young herdsman who tells him the name of his land (13.189–190, 13.252); she names herself, in the accusative Παλλάδʼ Ἀθηναίην of 3.42, only after his false tale, to the man who “did not know” her (13.299–300; see [[divine-epiphany]]). The last time the name closes the hiding of the treasure, which the goddess does with her own hands (13.366–371; see [[possessions]], [[the-cave-of-the-naiads]] and [[athena]]).

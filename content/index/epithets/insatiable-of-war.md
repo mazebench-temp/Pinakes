@@ -3,9 +3,9 @@ title: Insatiable of war
 greek: ἆτος πολέμοιο
 kind: epithet
 tags: [divine-epithet, warfare]
-summary: “Never sated with war,” a line-end formula for [[Ares]], and once for Achilles.
+summary: “Never sated with war,” a line-end formula for [[Ares]], and once for Achilles; with other genitives the same adjective is said of Hector and of Odysseus.
 aliases: [atos polemoio, insatiate of war, never sated with war]
-grc: [ἆτος πολέμοιο]
+grc: [ἆτος πολέμοιο, "δόλων ἆτʼ"]
 en: [insatiable of war]
 of: [ares]
 ---
@@ -14,7 +14,7 @@ of: [ares]
 
 ἆτος is contracted from ἄατος: ἀ- (“not”) + the root of ἄω, ἆσαι (“sate, glut”). With the genitive πολέμοιο it means “never sated with war.” The same verb stands in Diomedes' answer to Pandarus, that before the fight ends one of the two will fall and “glut Ares with blood” (αἵματος ἆσαι Ἄρηα, 5.289; [[with-the-oxhide-shield]]). Ares can be glutted with a man's blood and never with war.
 
-Homer uses Ἄρης ἆτος πολέμοιο at the end of the verse three times: twice in *Iliad* 5 (5.388, 5.863), and in Glaucus' story of Bellerophon, whose son Isander “Ares, insatiable of war” killed as he fought the Solymi (Il. 6.203–204). Polydamas gives the phrase to a man once, when he warns Hector that “by the ships waits a man insatiable of war,” Achilles (Il. 13.746). The uncontracted form describes Hector as Athena and Achilles close on him: μάχης ἄατόν περ ἐόντα, “insatiable of battle though he is” (Il. 22.218).
+Homer uses Ἄρης ἆτος πολέμοιο at the end of the verse three times: twice in *Iliad* 5 (5.388, 5.863), and in Glaucus' story of Bellerophon, whose son Isander “Ares, insatiable of war” killed as he fought the Solymi (Il. 6.203–204). Polydamas gives the phrase to a man once, when he warns Hector that “by the ships waits a man insatiable of war,” Achilles (Il. 13.746). The uncontracted form describes Hector as Athena and Achilles close on him: μάχης ἄατόν περ ἐόντα, “insatiable of battle though he is” (Il. 22.218). Odysseus is δόλων ἆτʼ, “insatiable of tricks,” in the vocative: in Socus' challenge, “insatiable of tricks and toil” (Il. 11.430), and in Athena's reproach when he lies to her on Ithaca (*Odyssey* 13.293).
 
 ## Use
 

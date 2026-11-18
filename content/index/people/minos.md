@@ -28,7 +28,7 @@ Boasting over Alcathous, Idomeneus tells Deiphobus his line (see [[idomeneus]], 
 
 ## Descriptions
 
-- Κρήτῃ ἐπίουρον, “a guardian over Crete” (13.450). ἐπίουρος is a warden or overseer; Eumaeus is ὑῶν ἐπίουρος, “overseer of the swine” (*Odyssey* 13.405, 15.39; see [[guardian-of-the-achaeans]]).
+- Κρήτῃ ἐπίουρον, “a guardian over Crete” (13.450). ἐπίουρος is a warden or overseer; Eumaeus is ὑῶν ἐπίουρος, in Athena's words “the guardian over your swine” (*Odyssey* 13.405, 15.39; see [[guardian-of-the-achaeans]]).
 - Διὸς ἀγλαὸς υἱός, “the splendid son of Zeus” (*Odyssey* 11.568).
 - Διὸς μεγάλου ὀαριστής, “the familiar of great Zeus” (*Odyssey* 19.179). ὀαριστής, one who shares intimate talk, occurs only here (see [[oaristys]]). In the same verse he ἐννέωρος βασίλευε at Cnossus. ἐννέωρος is elsewhere “nine years old” (18.351; *Odyssey* 10.19, 11.311), and its sense here is disputed: that he was king at nine, or that he reigned in spells of nine years, going up to Zeus every ninth year, as Plato and Strabo took it.
 - ὀλοόφρων, “baleful” (*Odyssey* 11.322), the word for Atlas and Aeetes (*Odyssey* 1.52, 10.137), and, “deadly”, for a lion and a boar (15.630, 17.21).

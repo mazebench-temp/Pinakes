@@ -1,0 +1,14 @@
+---
+summary: The Phaeacians pray to father Zeus over the parting libation (13.51) and, when their ship is turned to stone, to Poseidon around the altar (13.185–187); on Ithaca Odysseus prays to a young shepherd “as to a god” (13.231), and when he knows his land he lifts up his hands to the Naiads (13.355–360).
+en: [vows]
+---
+
+**On Scheria.** The escort begins with a prayer: Alcinous has the wine mixed “so that when we have prayed to father Zeus / we may send the stranger on his way to his native land” (13.51–52; see [[libation]] and [[pompe]]). It ends with another. When the ship has been turned to stone, “So they prayed to lord Poseidon, / the leaders and rulers of the people of the Phaeacians, / standing around the altar” (13.185–187; see [[hecatomb]] and [[the-ship-turned-to-stone]]), and the poem leaves them there.
+
+**As to a god.** Odysseus' first words on Ithaca are to the young shepherd who comes up to him: “greetings to you, and may you not meet me with evil intent, / but save these things, and save me; for to you / I pray as to a god, and I come to your dear knees” (13.229–231; see [[supplication]]). To pray to a man “as to a god” is a courtesy of high praise: Odysseus promised Nausicaa that at home he would pray to her as to a god all his days (8.467), and the Trojans prayed so to Hector (*Iliad* 22.394). Here the courtesy is literally true, for the shepherd is Athena (13.221–225; see [[shape-changing]]).
+
+**To the Naiads.** When the mist is scattered and he knows the land, he kisses the earth, “And at once he prayed to the nymphs, lifting up his hands” (13.355; see [[nymphs]] and [[the-cave-of-the-naiads]]):
+
+{{quote:c1bf92b2-98db-5444-9cae-4ec29e1c35c6}}
+
+The prayer has the three parts of a prayer: the invocation, “Naiad nymphs, daughters of Zeus”; the claim, the gifts given “as before”, for Athena has just reminded him of the hecatombs he used to offer in their cave (13.349–350; see [[hecatomb]] and [[the-cave-of-the-naiads]]); and the request, put as a condition. εὐχωλῇς is “with my prayers”, “now that you again hear my prayers”, and χαίρετε is hardly more than a greeting, though it is construed with the dative as if it meant “be gladdened” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.357). In διδώσομεν, “we will give”, Odysseus associates Telemachus with himself, as the last verse shows, and ἀέξῃ is an anacoluthon (Monro on 13.358 and 13.360). The condition is laid on the goddess beside him, “the daughter of Zeus, driver of spoil” (see [[driver-of-spoil]] and [[athena]]): he prays to the nymphs for what Athena must grant. In the *Telegony*, as Monro gives Proclus' summary of it, Odysseus sacrifices to the nymphs after the burial of the suitors; the sacrifice, Monro suggests, may have been suggested by this promise (Monro, Appendix III §9).

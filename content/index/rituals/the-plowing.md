@@ -29,7 +29,7 @@ passages:
 
 ## Elsewhere in Homer
 
-The plowman's work is a picture of labor in the similes. The two Ajaxes stand together like two wine-dark oxen straining at the plow through a fallow field, with only the yoke between them (13.703–707; see [[oxen-at-the-plow]]); in the Odyssey Odysseus longs for the sunset as a plowman longs for his supper whose oxen have dragged the plow all day through the fallow (*Odyssey* 13.31–35), and he challenges the suitor Eurymachus to plow a straight furrow with a matched pair of oxen (*Odyssey* 18.371–375). Demeter lay with Iasion “in a thrice-plowed fallow”, νειῷ ἔνι τριπόλῳ (*Odyssey* 5.125–127). Achilles' prize of iron in the funeral games will spare its winner's shepherd or plowman a journey to the city for iron for five years (23.832–835).
+The plowman's work is a picture of labor in the similes. The two Ajaxes stand together like two wine-dark oxen straining at the plow through a fallow field, with only the yoke between them (13.703–707; see [[oxen-at-the-plow]]); in the Odyssey Odysseus longs for the sunset as a plowman longs for his supper whose oxen have dragged the plow all day through the fallow (*Odyssey* 13.31–35; see [[the-plowman-and-his-supper]]), and he challenges the suitor Eurymachus to plow a straight furrow with a matched pair of oxen (*Odyssey* 18.371–375). Demeter lay with Iasion “in a thrice-plowed fallow”, νειῷ ἔνι τριπόλῳ (*Odyssey* 5.125–127). Achilles' prize of iron in the funeral games will spare its winner's shepherd or plowman a journey to the city for iron for five years (23.832–835).
 
 ## Outside Homer
 

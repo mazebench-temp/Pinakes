@@ -3,7 +3,7 @@ title: Prowess
 greek: ἀρετή
 kind: term
 tags: [honor, warfare]
-summary: Excellence, whatever makes a man, a woman, a horse or a god good at what they are; in the Iliad most often a fighter's prowess, which only a test can show. The word that later Greek used for “virtue” enters the Iliad in Hector's boast about Diomedes.
+summary: Excellence, whatever makes a man, a woman, a horse or a god good at what they are, and the good fortune the gods grant; in the Iliad most often a fighter's prowess, which only a test can show. The word that later Greek used for “virtue” enters the Iliad in Hector's boast about Diomedes.
 aliases: [aretē, arete, excellence, virtue]
 grc: [ἀρετὴν]
 en: [prowess]
@@ -18,6 +18,8 @@ passages:
 The word is not only for men in battle. At the funeral games Achilles says that his immortal horses surpass all others in it (23.276), and in the chariot race the excellence of each team shows on the last stretch (23.374–375); Menelaus complains that Antilochus has shamed his ἀρετή by a trick (23.571). Phoenix tells Achilles that even the gods can be turned by prayer, “and theirs is the greater prowess and honor and strength” (9.497–498). Excellence is also a gift that can be taken back. Aeneas tells Achilles that Zeus increases and diminishes men's prowess as he wishes, “for he is the mightiest of all” (20.242–243), and in the Odyssey the swineherd Eumaeus says that Zeus takes away half of a man's excellence on the day he becomes a slave (*Odyssey* 17.322–323; see [[doulios]]). Patroclus calls Achilles αἰναρέτης, “you whose prowess is a curse” (see [[whose-prowess-is-a-curse]]), and asks who in later times will have any good of him if he will not save the Achaeans now (16.29–32), and Nestor says that Achilles will have the good of his prowess alone (11.762–764).
 
 A woman has her ἀρετή too. Penelope says that the immortals destroyed her excellence, her looks and her figure when the Argives sailed for Troy (*Odyssey* 18.251–253, 19.124–126), and the dead Agamemnon says that the fame of her excellence will never perish (*Odyssey* 24.196–198).
+
+The word can also mean good fortune, the good that the gods give. Odysseus, taking leave of the Phaeacians, prays that the gods may grant them “good / of every kind” (*Odyssey* 13.45–46), and the verb ἀρετάω is “prosper”, of a people under a good king (*Odyssey* 19.114; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on *Odyssey* 13.45).
 
 {{notes}}
 

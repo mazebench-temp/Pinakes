@@ -1,0 +1,7 @@
+---
+summary: Poseidon complains that the Phaeacians have given Odysseus more than he would have carried off from Troy “if he had come home free of harm and won his share of the spoil” (13.138), and Athena comes to tell him “all the sorrows it is your lot” to endure at home (13.306–307).
+---
+
+**A share of the spoil.** Poseidon measures the Phaeacians' gifts against the booty of Troy: “a great store, more than Odysseus would ever have carried off from Troy, / if he had come home free of harm and won his share of the spoil” (λαχὼν ἀπὸ ληΐδος αἶσαν, 13.137–138; see [[poseidon]] and [[doron]]). αἶσα has here its first sense, a man's portion in the division of booty, and λαχών, from λαγχάνω, “obtain by lot”, goes with it. The two verses are the ones in which Zeus foretold the gifts when he sent Hermes to Calypso (5.38–40): what Zeus decreed, Poseidon now resents (see [[the-migration-of-the-phaeacians]]).
+
+**A lot of sorrows.** Athena has come “to tell you all the sorrows it is your lot in your well-built house / to endure” (ὅσσα τοι αἶσα … κήδεʼ ἀνασχέσθαι, 13.306–307; see [[algos]]), and she adds that he must tell no one that he has come back, “but in silence / suffer many sorrows, submitting to the violence of men” (13.309–310; see [[silence]]). For ἀνασχέσθαι two manuscripts and Eustathius read ἀναπλῆσαι (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, his critical note on 13.307), the verb of “I would fill up the measure of sorrows” (5.302). The portion that was spoil at Troy is suffering in his own house.

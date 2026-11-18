@@ -1,0 +1,5 @@
+---
+summary: The sleep of the voyage, “then sweet sleep fell upon his eyelids, / unwaking, sweetest, most like death” (13.79–80); and in the false tale, “Then sweet sleep came upon me, worn out as I was” (13.282).
+---
+
+νήδυμος ὕπνος is followed by three more words for the same sleep, “unwaking, sweetest, most like death” (see [[hypnos]] and [[sleep]]). D. B. Monro calls νήδυμος an early corruption of ϝήδυμος and refers to the note on 4.793 (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.79), where the commentary, after Buttmann, explains the ν as the movable ν of the word before, added against the hiatus once the digamma was lost and later carried over to this word (Merry, *Commentary on the Odyssey*, 1886, on 4.793; see the general article). Monro also finds ἥδιστος, “sweetest,” weak after νήδυμος (Monro's critical note on 13.80). γλυκὺς ὕπνος at 13.282 is the verse of the sleep within sight of Ithaca in which the companions opened the skin of the winds (10.31); here the vulgate has ἐπέλλαβε, “seized,” for ἐπήλυθε (Monro's critical note on 13.282; see [[the-first-cretan-tale]]).

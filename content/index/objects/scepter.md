@@ -13,13 +13,13 @@ passages:
   - 1.277-281 | Nestor on the scepter-bearing king
 ---
 
-The σκῆπτρον is a wooden staff carried as a sign of standing: by priests, by kings, by elders sitting in judgment, by heralds, and by whoever has the floor in an assembly. The word belongs with σκήπτομαι (“lean on”), and a σκῆπτρον can still be a plain walking stick: Athena gives one to Odysseus with his beggar's disguise (Odyssey 13.437).
+The σκῆπτρον is a wooden staff carried as a sign of standing: by priests, by kings, by elders sitting in judgment, by heralds, and by whoever has the floor in an assembly. The word belongs with σκήπτομαι (“lean on”), and a σκῆπτρον can still be a plain walking stick: Athena gives one to Odysseus with his beggar's disguise (*Odyssey* 13.437).
 
 {{notes}}
 
 ## Elsewhere in Homer
 
-A herald puts the scepter into the hand of the man who is about to speak (Iliad 23.567–568; Odyssey 2.37–38). The elders who judge a case on the Shield of Achilles hold heralds' scepters as they speak (Iliad 18.505). Hector swears an oath to Dolon on a scepter (Iliad 10.321–331).
+A herald puts the scepter into the hand of the man who is about to speak (*Iliad* 23.567–568; *Odyssey* 2.37–38). The elders who judge a case on the Shield of Achilles hold heralds' scepters as they speak (*Iliad* 18.505). Hector swears an oath to Dolon on a scepter (*Iliad* 10.321–331).
 
 ## Outside Homer
 

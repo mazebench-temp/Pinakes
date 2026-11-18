@@ -1,0 +1,5 @@
+---
+summary: Odysseus, told that he is in Ithaca, fears that the goddess is taunting him “to deceive my mind” (13.327).
+---
+
+Athena has revealed herself and told him the land is his own, and the master of lies suspects a lie: “But now I implore you by your father—for I do not think / that I have come to clear-seen Ithaca, but I am roaming some other / land; and I think that you are taunting me / in saying these things, to deceive my mind— / tell me if it is true that I have come to my dear native land” (ἵνʼ ἐμὰς φρένας ἠπεροπεύσῃς, 13.324–328; see [[phrenes]], [[kertomia]] and [[dear-native-land]]). Both of them have just deceived: he with the tale of the Cretan exile, she with the likeness of a young shepherd (13.221–286; see [[truth-and-deception]]). In Scheria Alcinous had told him that the Phaeacians did not take him for a deceiver, ἠπεροπῆα (11.363–364; see the Book 11 note); here it is the deceiver who fears deceit, and Athena answers by showing him the land (13.344–352; see [[eidos]]).

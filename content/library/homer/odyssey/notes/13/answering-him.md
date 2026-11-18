@@ -1,0 +1,5 @@
+---
+summary: Eight replies: Alcinous' at the end of the tale, “Then Alcinous answered him in turn and said” (13.3); Zeus' twice to Poseidon, “Answering him, Zeus the cloud-gatherer said” (13.139, 13.153); Athena's twice on Ithaca, “Then the gray-eyed goddess Athena spoke to him in turn” (13.236, 13.361); and Odysseus' three times to her, “Answering her, Odysseus of many wiles said” (13.311, 13.382, 13.416).
+---
+
+13.3 is the verse of Alcinous' replies in Books 7 and 11 (7.298, 7.308; 11.347, 11.362), and Zeus' verse that of the council at the end of the tale and of *Iliad* 20.19 (12.384; see [[cloud-gatherer]]). Athena's αὖτε προσέειπε is the verse of her talks with Telemachus in Books 1 and 3 (1.178, 1.221; 3.25, 3.229; see [[gray-eyed]]), and Odysseus' answers to her come in the verse of his answers to Calypso, Arete and Nausicaa (5.214, 7.240, 8.463; see [[of-many-wiles]]). The talk on Ithaca has the other frames of reply as well: Athena answers him three times with [[then-answered]] (13.329, 13.392, 13.420), and once with a smile (13.287; see [[smiling-at-him]]).

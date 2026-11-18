@@ -1,0 +1,6 @@
+---
+summary: Named once, in Odysseus' answer to Athena: she was kind to him at Troy, but “when we had sacked the steep city of Priam / and gone aboard the ships, and a god scattered the Achaeans”, he did not see her again (13.314–319).
+# Πριαμ* (in the entry) claims Πριάμοιο (13.316).
+---
+
+“But this I know well, that before now you were kind to me, / while we sons of the Achaeans were fighting in Troy. / But when we had sacked the steep city of Priam / and gone aboard the ships, and a god scattered the Achaeans, / after that I did not see you, daughter of Zeus” (13.314–318; see [[athena]], [[odysseus]], [[troy]] and [[steep]]). The two middle verses are Nestor's, who began with them his story of the returns in Book 3 (3.130–131), and who went on to tell that “many of them met an evil fate / through the deadly wrath of the gray-eyed daughter of the mighty father” (3.134–135; see [[the-returns-of-the-achaeans]]). Odysseus says “a god” to the goddess herself, and she answers, not of that wrath, but that she did not wish to fight with Poseidon, her father's brother (13.341–343; see [[poseidon]]). The first of the two verses is also the one with which he told the shade of Achilles of Neoptolemus sailing home with his share of the spoil (11.533; see [[neoptolemus]]): in the Odyssey the city is “the steep city of Priam” when the speakers look back on its fall.

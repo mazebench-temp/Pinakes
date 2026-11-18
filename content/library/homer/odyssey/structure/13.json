@@ -1,0 +1,291 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 17,
+      "title": "The End of the Tale",
+      "summary": "The Phaeacians sit spellbound when Odysseus ends his tale. Alcinous tells him that he will not be driven off course again on his way home, and bids each of the elders add a great tripod and a cauldron to the clothes and gold already in the chest, to be repaid by a levy on the people. They go to bed."
+    },
+    {
+      "from": 18,
+      "to": 69,
+      "title": "The Farewell",
+      "summary": "At dawn the gifts are stowed under the benches of the ship, Alcinous sacrifices an ox to Zeus, and Demodocus sings at the feast; but Odysseus keeps turning his head toward the sun, longing for it to set, as a plowman longs for his supper. He asks Alcinous to send him on his way and prays for the Phaeacians; Pontonous serves the wine for the libations, and Odysseus puts the cup in Arete's hand with a farewell. A herald leads him to the ship, and Arete's slave women carry a mantle and tunic, the chest, and bread and wine."
+    },
+    {
+      "from": 70,
+      "to": 124,
+      "title": "The Voyage to Ithaca",
+      "summary": "The Phaeacians spread a rug and a sheet for him at the stern, and as they row, a sleep most like death falls upon him. The ship runs like a team of four stallions, faster than the falcon, carrying the man who had suffered so much and now slept. When the morning star rises she comes to the harbor of Phorcys on Ithaca, with its olive and the cave of the Naiads, which has two doors, one for men and one for gods. They lift him out asleep, set him on the sand with his gifts by the olive, away from the road, and go home."
+    },
+    {
+      "from": 125,
+      "to": 186,
+      "title": "Poseidon and the Phaeacians",
+      "summary": "Poseidon complains to Zeus that the Phaeacians, his own stock, have dishonored him by bringing Odysseus home with more gifts than he would have won at Troy. Zeus tells him to do as he wishes and advises him to turn the ship to stone in sight of the city; Poseidon strikes it as it comes home. Alcinous recognizes the old prophecy of his father, that Poseidon would wreck one of their ships and cover their city with a great mountain; the Phaeacians resolve to escort no more strangers and prepare twelve bulls for Poseidon, praying around his altar."
+    },
+    {
+      "from": 187,
+      "to": 249,
+      "title": "Odysseus Wakes in Ithaca",
+      "summary": "Odysseus wakes in his own land and does not know it, for Athena has poured a mist around him and everything looks strange. He laments that the Phaeacians have left him in an unknown country, counts his gifts and finds nothing missing, and walks the shore mourning for his native land. Athena meets him in the likeness of a young shepherd of noble birth; he begs her help and asks where he is, and she tells him of the rugged island, good for goats and cattle, whose name has reached as far as Troy: Ithaca."
+    },
+    {
+      "from": 250,
+      "to": 286,
+      "title": "The Cretan Tale",
+      "summary": "Glad at heart, Odysseus does not tell the truth but invents a story: he is a Cretan in exile, who killed Orsilochus, the swift-footed son of Idomeneus, because he tried to rob him of his spoil from Troy; Phoenician sailors were to take him to Pylos or Elis, but the wind drove them here, and they left him asleep on the sand with his goods and sailed for Sidon."
+    },
+    {
+      "from": 287,
+      "to": 360,
+      "title": "Athena Revealed",
+      "summary": "Athena smiles, strokes him with her hand, and appears as a tall and beautiful woman. She mocks his love of tricks, the best of mortals in counsel as she is among the gods, and tells him that she has come to hide his goods and to warn him of the sorrows he must bear in silence at home. He answers that she did not help him in his wanderings after Troy, and begs her to say whether this is truly Ithaca; she praises his caution, tells him that she kept away from Poseidon's anger, and shows him the harbor of Phorcys, the olive, the cave and Mount Neritum. The mist scatters; he kisses the earth and prays to the Naiads."
+    },
+    {
+      "from": 361,
+      "to": 440,
+      "title": "The Plan and the Disguise",
+      "summary": "They hide the gifts in the cave and set a stone against the door, and, sitting by the sacred olive, plan the destruction of the suitors, who for three years have been wooing Penelope. Odysseus asks Athena to stand beside him as she did at the sack of Troy; she promises, tells him to go first to the swineherd, and says that she will bring Telemachus home from Sparta, where he is safe, though the suitors lie in ambush for him. With a touch of her wand she withers his skin, takes away his hair, dims his eyes and dresses him in rags, with a deerskin, a staff and a pouch. They part, and she goes to Lacedaemon."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 4,
+      "to": 15,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 38,
+      "to": 46,
+      "speaker": "odysseus",
+      "to_whom": [
+        "alcinous",
+        "phaeacians"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 50,
+      "to": 52,
+      "speaker": "alcinous",
+      "to_whom": [
+        "pontonous"
+      ],
+      "kind": "command"
+    },
+    {
+      "from": 59,
+      "to": 62,
+      "speaker": "odysseus",
+      "to_whom": [
+        "arete-queen-of-the-phaeacians"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 128,
+      "to": 138,
+      "speaker": "poseidon",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "complaint"
+    },
+    {
+      "from": 140,
+      "to": 145,
+      "speaker": "zeus",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 147,
+      "to": 152,
+      "speaker": "poseidon",
+      "to_whom": [
+        "zeus"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 154,
+      "to": 158,
+      "speaker": "zeus",
+      "to_whom": [
+        "poseidon"
+      ],
+      "kind": "advice"
+    },
+    {
+      "from": 168,
+      "to": 169,
+      "speaker": "phaeacians",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 172,
+      "to": 183,
+      "speaker": "alcinous",
+      "to_whom": [
+        "phaeacians"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 200,
+      "to": 216,
+      "speaker": "odysseus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "soliloquy"
+    },
+    {
+      "from": 228,
+      "to": 235,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 237,
+      "to": 249,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 256,
+      "to": 286,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "false tale"
+    },
+    {
+      "from": 291,
+      "to": 310,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 312,
+      "to": 328,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "plea"
+    },
+    {
+      "from": 330,
+      "to": 351,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 356,
+      "to": 360,
+      "speaker": "odysseus",
+      "to_whom": [
+        "nymphs"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 362,
+      "to": 365,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "encouragement"
+    },
+    {
+      "from": 375,
+      "to": 381,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 383,
+      "to": 391,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 393,
+      "to": 415,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "instruction"
+    },
+    {
+      "from": 417,
+      "to": 419,
+      "speaker": "odysseus",
+      "to_whom": [
+        "athena"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 421,
+      "to": 428,
+      "speaker": "athena",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 17,
+      "label": "Night of Day 33",
+      "note": "The end of Odysseus' tale at the evening feast in the house of Alcinous; they go to bed (13.17)."
+    },
+    {
+      "from": 18,
+      "to": 92,
+      "label": "Day 34",
+      "note": "The gifts are stowed at dawn (13.18), the sacrifice and the feast last the day, and Odysseus watches for the sun to set (13.29–35); the ship sails at nightfall and runs through the night while he sleeps (13.70–92)."
+    },
+    {
+      "from": 93,
+      "to": 440,
+      "label": "Day 35",
+      "note": "The morning star rises as the ship comes to Ithaca (13.93–95); Poseidon turns the ship to stone on its return, and Odysseus wakes, meets Athena, and is disguised the same morning. Book 14 goes on with the same day at the swineherd's hut."
+    }
+  ]
+}

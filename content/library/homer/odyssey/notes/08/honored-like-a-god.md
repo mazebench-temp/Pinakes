@@ -1,6 +1,5 @@
 ---
 summary: “And the herald came near, leading the trusty singer, / Demodocus, honored by the people” (8.471–472).
-# λαοῖσι τετιμένος (13.28) to be added with Book 13.
 grc: ["λαοῖσι τετιμένον"]
 en: [honored by the people]
 ---

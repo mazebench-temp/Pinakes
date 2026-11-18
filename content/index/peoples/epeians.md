@@ -3,7 +3,7 @@ title: Epeians
 greek: Ἐπειοί
 kind: people
 tags: [achaean, peloponnese, elis]
-summary: The people of Elis in Homer. In the Catalogue they come in forty ships, ten each under four leaders; in Nestor's stories of his youth they are the enemies of Pylos.
+summary: The people of Elis in Homer. In the Catalogue they come in forty ships, ten each under four leaders; in Nestor's stories of his youth they are the enemies of Pylos; in the Odyssey Elis is the land "where the Epeians rule".
 aliases: [Epeioi, Epeans, Eleans]
 grc: [Ἐπειοί]
 relations:

@@ -3,7 +3,7 @@ title: Brother
 greek: κασίγνητος
 kind: term
 tags: [atreidae, house-of-priam, kinship]
-summary: Homer's usual word for a brother, one born of the same parents; κασιγνήτη is a sister. The Iliad's war is led by two brothers, the sons of Atreus, and fought by the many sons of Priam, and among the gods Hera is Zeus' sister as well as his wife.
+summary: Homer's usual word for a brother, one born of the same parents; κασιγνήτη is a sister. The Iliad's war is led by two brothers, the sons of Atreus, and fought by the many sons of Priam; among the gods Hera is Zeus' sister as well as his wife, and in the Odyssey Athena will not fight Poseidon, her father's brother.
 aliases: [kasignētos, kasignetos, kasignētē, autokasignētos, adelpheos, gnōtos, brother, sister, brothers]
 grc: [κασιγνητ*, αὐτοκασιγνητ*, ἀδελφε*, γνωτούς]
 en: [brother, sister, own brother, own brothers, kinsmen]

@@ -1,0 +1,6 @@
+---
+summary: “But brilliant Odysseus stood up” (13.56), and “So saying, brilliant Odysseus stepped over the threshold” (13.63), at the parting from Arete; “And brilliant Odysseus woke” on Ithaca (13.187); twice “much-enduring brilliant Odysseus was glad” (13.250, 13.353); in the false tale “shining Elis, where the Epeians rule” (13.275); and at the end Athena “went to shining Lacedaemon” (13.440).
+grc: ["Ἤλιδα δῖαν"]
+---
+
+δῖος Ὀδυσσεύς closes the verse at the two turns of his journey, the farewell in Scheria (13.56–63) and the waking in his own land, which the poem sets straight after the Phaeacians' prayer to Poseidon around the altar (13.185–187; see [[much-enduring]] and [[odysseus]]). Ἤλιδα δῖαν, new to the entry in the Odyssey, is the Iliad's for the land of the Epeians (*Iliad* 2.615), and the half-verse ὅθι κρατέουσιν Ἐπειοί returns twice later in the poem (15.298, 24.431; see the Odyssey translation's formulas, [[elis]] and [[epeians]]). ἐς Λακεδαίμονα δῖαν opens the verse as in Books 3 and 4 (3.326, 4.313; see the Book 3 note and [[lacedaemon]]), and with it the book ends in the middle of a sentence, ἡ μὲν … αὐτὰρ ὁ, “she went to Sparta, while he &c.”: the second half opens Book 14 (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.440).

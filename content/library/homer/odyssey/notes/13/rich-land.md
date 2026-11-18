@@ -1,0 +1,5 @@
+---
+summary: Odysseus to Athena: “until the time when, in the rich land of the Phaeacian men, / you encouraged me with words and led me into the city yourself” (13.322–323).
+---
+
+Φαιήκων ἀνδρῶν ἐν πίονι δήμῳ, the formula's first place in the Odyssey, and its only one of Scheria (see [[scheria]] and [[phaeacians]]). The verse is one of four that are generally condemned (13.320–323). D. B. Monro has little doubt of the first two, since πρίν γʼ ὅτε goes with “after that I did not see you” (13.318); the case against 13.322–323 is “not so clear”: the ancients objected that Odysseus could not know that Athena had been with him in Scheria, since she did not reveal herself there, and Monro allows that the two verses look like an insertion meant to fit the speech to the Phaeacian episode, “esp. 7.12–81” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.320–323; see the translation's note on 13.320–323). In Book 7 the goddess met him “like a young girl, a maiden, carrying a water jar,” and led him to the palace hidden in a mist (7.19–42; see [[athena]]).

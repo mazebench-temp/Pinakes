@@ -7,4 +7,4 @@ passages:
   - 4.675-714 | Medon brings the news to Penelope
 ---
 
-Medon's message is the fullest: he overheard the suitors' counsels from outside the courtyard (4.677–678), and Penelope's questions draw the news out of him (4.680–714; [[medon-the-herald]]). She hears it in the verses of Antilochus when Menelaus brought him the news of Patroclus' death (4.704–705 = *Iliad* 17.695–696; [[silence]], [[flourishing]]).
+Medon's message is the fullest: he overheard the suitors' counsels from outside the court (4.677–678), and Penelope's questions draw the news out of him (4.680–714; [[medon-the-herald]]). She hears it in the verses of Antilochus when Menelaus brought him the news of Patroclus' death (4.704–705 = *Iliad* 17.695–696; [[silence]], [[flourishing]]).

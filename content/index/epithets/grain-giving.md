@@ -19,3 +19,7 @@ of: [earth]
 {{quote:92894c35-1783-5479-be06-28d0b03ac23f}}
 
 The Athenian entry of the Catalogue tells how Erechtheus came to be. Athena reared him, but it was “the grain-giving earth” that bore him. The Athenians later claimed to be born of their own soil, and Erechtheus, the earthborn king whom Athena took into her temple, is the source of that claim ([[athena-and-erechtheus]]). The ordinary epithet of the plowland here becomes the mother of a king.
+
+## Outside Homer
+
+The Suda explains the word from ζῆν, “to live,” rather than from ζειά: ζείδωρον is “giving the things that are for living (τὰ πρὸς τὸ ζῆν),” and “it is also the earth,” which is called βιοδώρα, “life-giving,” and φερέσβιος, “life-bringing” (Suda ζ 44).

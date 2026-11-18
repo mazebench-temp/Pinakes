@@ -4,12 +4,12 @@ greek: κτήματα
 kind: object
 tags: [exchange]
 summary: Property, the movable wealth of a house, kept as treasure and given, staked, carried off or eaten up. In the Iliad the word is used most often of the treasure Paris carried off from Sparta with Helen; in the Odyssey, of the goods of Odysseus' house, which the suitors consume.
-aliases: [property, treasure, ktemata, Helen's possessions]
+aliases: [property, treasure, ktemata, Helen's possessions, chremata]
 grc: [κτήμασι, κτήμαθʼ, κτήματα]
 en: [possessions]
 ---
 
-κτῆμα, from κτάομαι, “acquire”, is a thing gained and owned; κτήματα are a man's goods, above all the treasure kept in his house.
+κτῆμα, from κτάομαι, “acquire”, is a thing gained and owned; κτήματα are a man's goods, above all the treasure kept in his house. The Odyssey also calls them χρήματα, “goods”, and its manuscripts often give one word for the other (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on *Odyssey* 13.120).
 
 Paris did not take Helen alone. *Iliad* 3 names her possessions with her in nearly every statement of the stakes; only Iris, speaking to Helen, leaves them out (3.138). The two men are to fight “for Helen and all her possessions” (ἀμφʼ Ἑλένῃ καὶ κτήμασι πᾶσι, 3.70, 3.91), and the winner is to “take all the possessions and the woman, and lead them home” (3.72, 3.93). The oath repeats the pair (3.282, 3.285), and Agamemnon ends the book by demanding “Argive Helen and the possessions with her” (3.458). See [[single-combat]] and [[oath]].
 

@@ -1,0 +1,8 @@
+---
+summary: The North Wind is named once, as a quarter of the sky: the cave of the Naiads on Ithaca has two doors, “one toward the North Wind, by which men go down” (13.110).
+# The entry's Βορέ* claims Βορέαο (13.110).
+---
+
+**The door toward the North Wind.** “And it has two doors, / one toward the North Wind, by which men go down, / and the other, toward the South Wind, is for gods” (13.109–111; see [[the-cave-of-the-naiads]] and [[notus]]). πρὸς Βορέαο is “toward the North Wind”, the direction or aspect, as ποτί with the genitive in λιμένος ποτιπεπτηυῖαι, the headlands that crouch “toward the harbor” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.98; see [[the-harbor-of-phorcys]]). καταιβαταί, “by which men go down”, is found only here in Homer (see the translation's key-word row on καταιβάτης). In the poem the wind itself has carried Odysseus both ways: Zeus roused it against his ships after Ismarus, and Athena roused it alone to carry his raft to Scheria (9.67–69, 5.383–385; see the Book 5 and Book 9 notes).
+
+**Later readers.** Strabo counts the verse among the proofs that Homer knew the quarters of the sky and the winds, and quotes it as δύω δέ τέ οἱ θύραι εἰσίν, αἱ μὲν πρὸς βορέαν, αἱ δʼ αὖ πρὸς νότον (*Geography* 1.2.20; see [[strabo]]). The Platonist Numenius, as Proclus reports him, called the poem to witness for his doctrine of two openings in the heavens, through which souls go down into birth and up again: the doors toward Boreas are the ways by which men “go down” (Proclus, *On the Republic* II 129 Kroll, where the text is damaged; see [[proclus-the-neoplatonist]] and the Book 13 note on [[notus]]).

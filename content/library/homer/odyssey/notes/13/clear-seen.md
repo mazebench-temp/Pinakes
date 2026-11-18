@@ -1,0 +1,5 @@
+---
+summary: Odysseus, waking in a land he does not know, complains that the Phaeacians “told me / they would bring me to clear-seen Ithaca, and they have not done it” (13.211–212); asks the stranger, “Is it one of the clear-seen islands, or some shore / of the deep-soiled mainland that lies upon the sea?” (13.234–235); and still doubts: “I do not think / that I have come to clear-seen Ithaca” (13.324–325).
+---
+
+The epithet of his island is spoken three times by the one man who cannot see it, while Athena's mist makes everything look strange to him (13.189–196; see [[ithaca]]). At 13.234 it is said of islands in general, the only time in the poem that it is not Ithaca's (see the general article and [[deep-soiled]]). Monro renders εὐδείελος “shining,” comparing Horace's *nitentes Cycladas* (*Odes* 1.14.19), and refers his note on 13.212 to it (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.212 and 13.234; on the other sense, “lying toward the west,” see the translation's note on 2.167).

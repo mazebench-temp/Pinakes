@@ -1,0 +1,5 @@
+---
+summary: The cave by the olive is “a lovely cave, misty” (13.103 = 13.347), and Athena “went into the misty cave” to hide the gifts (13.366); Poseidon would shatter the Phaeacians' ship as it comes back “on the misty sea” (13.150, 13.176); and Ithaca is known to those toward the dawn “and those behind, toward the misty darkness” (13.241).
+---
+
+The cave of the Naiads has the epithet of Scylla's cave, σπέος ἠεροειδές (12.80; see the Book 12 note), and a lovely one besides (see [[the-cave-of-the-naiads]], [[lovely]] and [[nymphs]]). ἐκ πομπῆς ἀνιοῦσαν ἐν ἠεροειδέι πόντῳ is a verse of Nausithous' prophecy, which Alcinous told in Book 8 and remembers here (8.568 = 13.176), and Poseidon's wish has the same verse (13.150; see the Odyssey translation's formulas and [[the-migration-of-the-phaeacians]]). μετόπισθε is westward, “the west being the end, as the east is the beginning, of the day” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.241; see the translation's note on 13.241). The book's mist is also the ἀήρ that Athena pours around Odysseus, so that he does not know his land, and scatters when she shows it to him (13.189–191, 13.352).

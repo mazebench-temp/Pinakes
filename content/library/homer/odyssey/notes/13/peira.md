@@ -1,0 +1,8 @@
+---
+summary: Athena praises Odysseus' caution: another man coming home would have hurried to see his wife and children, but he will not learn of them “before you have made trial of your wife yourself” (13.336).
+# πειρήσεαι (13.336), only here.
+grc: [πειρήσεαι]
+en: [made trial]
+---
+
+“For gladly would another man, coming home from his wanderings, / have been eager to see his children and his wife in his halls; / but it is not yet your pleasure to learn or to hear, / before you have made trial of your wife yourself, who sits, just as she was, / in your halls; and always in misery for her / the nights and the days waste away, as she sheds tears” (πρίν γʼ ἔτι σῆς ἀλόχου πειρήσεαι, 13.333–338; see [[penelope]], [[tears]] and [[philos]]). πειρήσεαι is “observe for yourself”, not trusting to report (πυθέσθαι), while any other man would have made for his home without even inquiring (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.336; see the Odyssey translation's note on 13.336). Aristarchus rejected the six verses (Monro's critical note on 13.333–338). The trial is the plan of the books that follow, in which Odysseus tests the swineherd, the maids, his wife and his father before he makes himself known (see [[the-return-of-odysseus]]). Aristotle asked why he hid himself from Penelope, who was grown and loved him, when he revealed himself to his young son and to the herdsmen, and answered that he told only those who were to share the danger, and that he feared her joy would betray him, since she was used only to weeping (*Homeric Problems* fr. 399 Gigon; see [[aristotle]]).

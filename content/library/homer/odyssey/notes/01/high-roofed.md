@@ -1,5 +1,5 @@
 ---
-summary: The great house is high: Telemachus leads the stranger “inside the high house” (1.126), and his own chamber “had been built high” in the courtyard (1.426).
+summary: The great house is high: Telemachus leads the stranger “inside the high house” (1.126), and his own chamber “had been built high” in the court (1.426).
 grc: ["δόμου ὑψηλοῖο", "ὑψηλὸς δέδμητο"]
 en: [high house, built high]
 ---

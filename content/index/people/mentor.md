@@ -34,7 +34,7 @@ The renderings of books other than the second here are plain renderings, not the
 
 ## Elsewhere in Homer
 
-**In the hall.** On the day of the slaughter Athena comes to Odysseus in Mentor's likeness. Odysseus calls on “Mentor” to remember his dear companion and ward off ruin, and the suitor Agelaus threatens him with death; the goddess rebukes Odysseus for his faint heart and bids him watch how Mentor, son of Alcimus, repays kindness, then flies up to the roof-beam like a swallow, and Agelaus tells the suitors that Mentor has gone, after empty boasts (*Odyssey* 22.205–240, 22.249).
+**In the hall.** On the day of the slaughter Athena comes to Odysseus in Mentor's likeness. Odysseus calls on “Mentor” to remember his dear companion and ward off ruin, and the suitor Agelaus threatens him with death; the goddess rebukes Odysseus for his faint heart and bids him watch how Mentor, son of Alcimus, repays kindness, then flies up to the roof beam like a swallow, and Agelaus tells the suitors that Mentor has gone, after empty boasts (*Odyssey* 22.205–240, 22.249).
 
 **The end of the poem.** [[medon-the-herald|Medon the herald]] tells the Ithacans that a god “in all things like Mentor” stood beside Odysseus (*Odyssey* 24.445–446), and Halitherses reminds them that they would not listen to him or to Mentor and stop their sons (*Odyssey* 24.454–457; see [[the-assembly-of-the-ithacans]]). Athena comes once more in his likeness to the fight with the suitors' kin, and the poem's last verse is the formula Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν, “in the likeness of Mentor, both in form and in voice”, as she sets oaths between the two sides (*Odyssey* 24.502–504, 24.546–548; see [[athena]]).
 

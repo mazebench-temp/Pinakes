@@ -6,8 +6,9 @@ tags: []
 summary: The ῥήγεα, fine blankets of a well-furnished house, spread on beds and chairs. With cloaks and fleeces they are the bedding that a host gives his guests, and to have none of them is to be poor.
 aliases: [blanket, rhegos, rhegea]
 # Every form is the blanket or rug: ῥῆγος (Il. 9.661, "a rug"; Od. 13.73), ῥήγεα (Il. 24.644; Od. 3.349, 3.351 and
-# eight lines in later books). ῥήγεϊ (Od. 13.118) and ῥήγεσσι (Od. 20.141) will need adding with their books. The
-# bed's Iliad Book 24 note also claims ῥήγεα at 24.644, where the English "blankets" stands on the next line.
+# eight lines in later books). ῥήγεϊ (Od. 13.118) is in the Book 13 note; ῥήγεσσι (Od. 20.141) will need adding with
+# its book. The bed's Iliad Book 24 note also claims ῥήγεα at 24.644, where the English "blankets" stands on the next
+# line.
 grc: [ῥῆγος, ῥήγεα]
 en: [blankets, rug]
 ---

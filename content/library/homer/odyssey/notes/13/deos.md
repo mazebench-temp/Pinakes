@@ -1,0 +1,5 @@
+---
+summary: When Alcinous recognizes his father's prophecy in the ship turned to stone and bids them sacrifice twelve bulls to Poseidon, the Phaeacians “were afraid, and made the bulls ready” (13.184).
+---
+
+Alcinous ends his speech with the remedy: “stop escorting mortals, whenever anyone comes / to our city; and to Poseidon twelve picked bulls / let us sacrifice, in the hope that he may have pity / and not cover our city round about with a towering mountain” (13.180–183; see [[alcinous]], [[hecatomb]] and [[propitiation]]). Then: “So he spoke, and they were afraid, and made the bulls ready” (ὣς ἔφαθʼ, οἱ δʼ ἔδεισαν, 13.184). The verse is the line of fear that ends in obedience (see the entry): the fear is of the god and of the mountain, and it is shown by doing what the king says. The people who had asked one another who had fettered the ship, “but they did not know how things had been brought about” (13.168–170), now know, and the narrative leaves their leaders praying around the altar (13.185–187; see [[the-migration-of-the-phaeacians]] and [[pity]]).

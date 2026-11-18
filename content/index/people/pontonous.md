@@ -12,6 +12,10 @@ relations:
   - master: alcinous (Od. 7.178-179, Od. 13.49-50)
 ---
 
+## The name
+
+Ποντόνοος joins πόντος, “sea”, and νόος, “mind” (see [[noos]]). Almost all the Phaeacian names, W. W. Merry observes, are taken from the circumstances of seafaring life, the exceptions being Alcinous, Arete, Laodamas, Polybus and Rhexenor (*Commentary on the Odyssey*, 1886, on *Odyssey* 8.111; see [[phaeacians]]).
+
 ## Descriptions
 
 - κῆρυξ, “herald” (*Odyssey* 7.178; 8.62, 8.69; 13.49; see [[heralds]]). Echeneus bids the king have “the heralds” mix the wine (*Odyssey* 7.163), and Alcinous gives the order to one of them by name (*Odyssey* 7.178–179).
@@ -19,7 +23,3 @@ relations:
 He is named only when he serves the wine and the singer, and both times he serves the wine at a turn of Odysseus' stay: the first libation to Zeus, the god of suppliants, after Odysseus has been raised from the hearth, and the last, before the Phaeacians send him home. The two scenes share their verses: the king calls the herald in the same two verses (*Odyssey* 7.178–179 = 13.49–50), and the herald obeys in the same verse, “So he spoke, and Pontonous mixed the wine sweet to the heart” (*Odyssey* 7.182 = 13.53; see [[wine]] and [[libation]]).
 
 {{notes}}
-
-## Later in the Odyssey
-
-The renderings here are plain renderings, not the translation. On the day of the escort, when the Phaeacians have brought their gifts to the ship, Alcinous bids him a second time mix a bowl and serve the wine to all in the hall, “so that, praying to father Zeus, we may send the stranger to his native land”; he mixes the wine and serves it to each man, standing beside him, and they pour libations to the blessed gods from their seats; then Odysseus puts his cup in Arete's hand and bids her farewell (*Odyssey* 13.49–58; see [[arete-queen-of-the-phaeacians]]).

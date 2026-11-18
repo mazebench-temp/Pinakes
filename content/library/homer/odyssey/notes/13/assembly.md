@@ -1,0 +1,12 @@
+---
+summary: Book 13 has no assembly. When the people of the city see their ship turned to stone, Alcinous addresses them with the verse of a proposal before a gathering, “Come then, let us all do as I say”, and they obey him in fear (13.167–187).
+# ἀγορεύεις (13.147), Poseidon's "as you say"; ἀγόρευον (13.165), the Phaeacians speaking "to one another";
+# ἀγόρευʼ (13.178), "So the old man used to say", as 8.570; ἀγόρευσον (13.232), "tell me this truly"; ἀγορευέμεναι
+# (13.327), "in saying these things": speaking, not an assembly. ἀγορήσατο (13.171) is the king's speech to the
+# gathered people, as at 8.25, and stays.
+except: [13.147, 13.165, 13.178, 13.232, 13.327]
+---
+
+**The king and the people.** Poseidon strikes the ship within sight of the city, and the Phaeacians watch it: “And this is what a man would say, looking at his neighbor: / ‘Ah me, who has fettered the swift ship on the sea / as she was driven home? And she was already in plain sight’” (13.167–169; see [[tis-speech]] and [[the-talk-of-the-people]]). Then the king speaks to them all, “Then Alcinous addressed them and spoke” (τοῖσιν δʼ Ἀλκίνοος ἀγορήσατο καὶ μετέειπεν, 13.171), the verse with which he opened the assembly of Book 8 (8.25). He tells them of his father's prophecy, now fulfilled, and ends with a proposal: “Come then, let us all do as I say: / stop escorting mortals, whenever anyone comes / to our city; and to Poseidon twelve picked bulls / let us sacrifice” (13.179–182; see [[the-ship-turned-to-stone]] and [[hecatomb]]). The first of these verses is the one with which Agamemnon puts his proposal to the gathered army and Hector his to the Trojans in their assembly at night (*Iliad* 2.139, 18.297; see [[obedience-and-persuasion]]). No one answers: “So he spoke, and they were afraid, and made the bulls ready” (13.184), and the leaders and rulers of the people stand around the altar and pray (13.185–187; see [[prayer]]).
+
+**The elders' gift.** The book opens with the king's proposal to the counselors who drink “the sparkling wine of the elders” in his halls (13.7–12): each man is to add a great tripod and a cauldron to the gifts, “and we in turn will gather it among the people / and repay ourselves” (13.13–15; see [[hard-for-one-man-to-give]] and [[kings]]). The verb is ἀγείρω, “gather”, from which the assembly takes its name; here it is the collection of a levy, not a meeting. “So spoke Alcinous, and his word pleased them” (13.16).

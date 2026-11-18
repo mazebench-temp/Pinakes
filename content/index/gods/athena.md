@@ -44,6 +44,6 @@ She is the goddess of crafts as well as of war. She made her own robe and Hera's
 
 ## Outside Homer
 
-Hesiod tells how Zeus swallowed Metis and Athena was born from his head (*Theogony* 886–900, 924–926). At Athens she was Polias, the goddess of the city, and the Parthenon housed Phidias' gold-and-ivory statue of her.
+Hesiod tells how Zeus swallowed Metis and Athena was born from his head (*Theogony* 886–900, 924–926). Her mother, his first wife, “knew most of gods and mortal men”, and her first child was to be a gray-eyed daughter “equal to her father in strength and wise counsel” (*Theogony* 886–887, 894–896; see [[hesiod]]). The *Homeric Hymn to Athena* opens with her as γλαυκῶπιν, πολύμητιν, “gray-eyed, of many counsels” (*Hymn* 28.2), the epithet that Homer gives to Odysseus (see [[of-many-wiles]]). In Cicero's dialogue on the gods the Stoic speaker counts it among the signs of the gods' care for single men that the poets, and Homer above all, gave the chief heroes, Ulysses, Diomedes, Agamemnon and Achilles, certain gods as companions in their crises and dangers (*On the Nature of the Gods* 2.166; see [[cicero]]). At Athens she was Polias, the goddess of the city, and the Parthenon housed Phidias' gold-and-ivory statue of her.
 
 For her likeness of Mentor in Plato, Proclus and Fénelon, see [[athena-as-mentor-in-later-writers]].

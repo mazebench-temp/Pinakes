@@ -7,10 +7,12 @@ summary: Husband. πόσις is an old Indo-European word for “master, lord”
 aliases: [posis, husband]
 # =: ποσίν "feet" (8.339) differs only in accent. πόσις "drink" has the same letters as the nominative:
 # οὐ πόσις οὐδὲ βρῶσις (19.210, excepted in the Book 19 note); βρῶσίς τε πόσις τε (Od. 10.176, excepted in the Book 10
-# note; Od. 12.320, excepted here, since Book 12 has no husband πόσις; feast's Book 12 note claims the phrase).
+# note; Od. 12.320, excepted here, since Book 12 has no husband πόσις; feast's Book 12 note claims the phrase); and
+# πόσιν καὶ βρῶσιν (Od. 13.72), excepted here, since Book 13 has no husband πόσις either; provisions' Book 13 note
+# claims the phrase.
 grc: ["=πόσιν", πόσις]
 en: [husband]
-except: [Od. 6.209, Od. 6.246, Od. 6.248, Od. 12.320]
+except: [Od. 6.209, Od. 6.246, Od. 6.248, Od. 12.320, Od. 13.72]
 ---
 
 ## Meaning

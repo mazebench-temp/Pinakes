@@ -1,0 +1,7 @@
+---
+summary: A slave woman carries a tunic with the freshly washed mantle to the ship for Odysseus (13.67); on Ithaca Athena puts a beggar's rag and tunic on him, “rent, dirty, stained with foul smoke” (13.434–435).
+---
+
+**For the voyage.** Arete sends a slave woman with him to the ship, “one carrying a freshly washed mantle and a tunic” (13.67; see [[cloak]] and [[arete-queen-of-the-phaeacians]]), the pair that each of the Phaeacian kings had given (8.392; see the Book 8 note and [[the-gifts-of-the-phaeacians]]).
+
+**The beggar's tunic.** When Athena has touched him with her wand, withered his skin and dimmed his eyes, “around him she put, instead, a vile rag and a tunic, / rent, dirty, stained with foul smoke” (13.434–435; see [[clothing]], [[wand]], [[athena]], [[shape-changing]] and [[odysseus-changed-into-a-beggar]]). ἄλλο is “other” than his own (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.434), which the translation renders “instead”; for ῥυπόωντα, “dirty”, one manuscript and Eustathius have ῥυπόεντα, a form like σκιόεντα (Monro's critical note on 13.435; see the translation's row ῥωγαλέος; ῥυπόων). A rag and a tunic are a beggar's whole dress, as a mantle and a tunic are a guest's (see the entry): when Athena gives him back his looks in the swineherd's hut she puts on him “a freshly washed mantle and a tunic”, and when she makes him old again, “wretched clothes” (16.173, 16.457, a plain rendering).

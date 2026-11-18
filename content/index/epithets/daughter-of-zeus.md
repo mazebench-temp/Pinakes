@@ -6,6 +6,8 @@ tags: [divine-epithet, child-of-zeus]
 summary: “Daughter of Zeus,” formulas for goddesses born of Zeus, above all [[Aphrodite]] (Διὸς θυγάτηρ Ἀφροδίτη), and for [[Helen]] (Ἑλένη Διὸς ἐκγεγαυῖα).
 aliases: [child of Zeus, Dios thygater, Dios ekgegauia]
 grc: [Διὸς θυγάτηρ, Διὸς ἐκγεγαυῖα, "κούρην Διὸς"]
+# "κούρη Διός" is claimed in the Odyssey by the Book 2 note (13.190, 252, 318, 371 and later); in the Iliad the phrase
+# is κούρη Διὸς αἰγιόχοιο (3.426, 5.733, 8.384), left to aegis-bearing.
 en: [daughter, child]
 of: [aphrodite, helen, athena, artemis, litai]
 ---

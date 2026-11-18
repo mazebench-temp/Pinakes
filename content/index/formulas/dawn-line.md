@@ -15,4 +15,6 @@ en: [appeared, twelfth dawn after that had come]
 
 Another dawn formula counts days: ἀλλ’ ὅτε δή ῥ’ ἐκ τοῖο δυωδεκάτη γένετ’ ἠώς, “but when the twelfth dawn after that had come” ({{ref:Iliad 1.493}}). The same verse opens a second twelve-day wait at the start of Book 24 (Il. 24.31).
 
+A dawn may also be told by the star that announces it: “When the morning star goes forth to herald the light over the earth, / the star after which saffron-robed Dawn spreads over the sea” (*Iliad* 23.226–227), and in the Odyssey “that brightest star … which most of all / comes to announce the light of early-born Dawn” (*Odyssey* 13.93–94; see [[the-morning-star]]).
+
 {{notes}}

@@ -1,0 +1,5 @@
+---
+summary: Odysseus remembers that Athena was kind to him “while we sons of the Achaeans were fighting in Troy”, until after the sack “a god scattered the Achaeans” (13.314–317).
+---
+
+“But this I know well, that before now you were kind to me, / while we sons of the Achaeans were fighting in Troy. / But when we had sacked the steep city of Priam / and gone aboard the ships, and a god scattered the Achaeans, / after that I did not see you” (13.314–318; see [[athena]], [[troy]] and [[sons-of-the-achaeans]]). υἷες Ἀχαιῶν, “sons of the Achaeans”, is the Iliad's name for the army, and the next two verses are Nestor's account of the departure from Troy, where the verse that follows names Zeus, who devised a grim homecoming for the Argives, and the deadly wrath of Athena, who set strife between the sons of Atreus (3.130–136; see [[the-returns-of-the-achaeans]]). Some good manuscripts read ἐσκέδασσεν at 13.317 (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 13.317). Speaking to Athena herself, Odysseus says nothing of her wrath, only that he did not see her after that.

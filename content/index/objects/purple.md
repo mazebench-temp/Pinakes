@@ -7,9 +7,9 @@ summary: The red-purple dye made from sea snails, φοῖνιξ, and the color i
 aliases: [purple dye, crimson, phoinix]
 grc: [φοίνικι, πορφύρεον, πορφυρέην, πορφύρεος, "!^Φοίνικ*", ἁλιπόρφυρα]
 en: [purple, sea-purple]
-# πορφύρεον κῦμα (21.326, 1.482; Od. 2.428, 11.243) is the surging wave. ἁλιπόρφυρα, "sea-purple" (Od. 6.53, 6.306; later 13.108), is found
-# only in the Odyssey.
-except: [21.326, 1.482, Od. 2.428, Od. 11.243]
+# πορφύρεον κῦμα (21.326, 1.482; Od. 2.428, 11.243, 13.85) is the surging wave. ἁλιπόρφυρα, "sea-purple" (Od. 6.53,
+# 6.306, 13.108), is found only in the Odyssey.
+except: [21.326, 1.482, Od. 2.428, Od. 11.243, Od. 13.85]
 passages:
   - 4.141-147 | Ivory stained with purple
 ---

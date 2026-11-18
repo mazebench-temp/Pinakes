@@ -2,7 +2,7 @@
 title: Exile and refuge
 kind: theme
 tags: [kinship, justice, backstory]
-summary: The man who has killed a kinsman, or quarreled past mending with his father, leaves his land and comes to another lord, who takes him in and may give him a people to rule. Phoenix's flight to Peleus is the Iliad's fullest account; Patroclus, Epeigeus, Tlepolemus, Medon and Lycophron are exiles too, and Priam comes to Achilles like a killer seeking refuge.
+summary: The man who has killed a kinsman, or quarreled past mending with his father, leaves his land and comes to another lord, who takes him in and may give him a people to rule. Phoenix's flight to Peleus is the Iliad's fullest account; Patroclus, Epeigeus, Tlepolemus, Medon and Lycophron are exiles too, and Priam comes to Achilles like a killer seeking refuge. In the Odyssey the seer Theoclymenus flees Argos after a killing, and Odysseus, in disguise, tells of himself as a Cretan exile.
 aliases: [exile, exiles, refuge, refugees, fugitive, fugitives, homicide, metanastes, vagrant]
 passages:
   - 9.447-484 | Phoenix's flight to Peleus

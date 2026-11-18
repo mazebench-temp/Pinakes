@@ -1,0 +1,5 @@
+---
+summary: Zeus tells Poseidon that if any man, “yielding to his own force and strength”, does not honor him, “vengeance is always yours, even hereafter” (13.143–144).
+---
+
+Zeus answers Poseidon's complaint that the Phaeacians do not honor him: “The gods do not dishonor you at all; it would be hard / to assail the eldest and the best with acts of dishonor. / But if any man, yielding to his own force and strength, / does not honor you at all, vengeance is always yours, even hereafter. / Do as you wish, and as has pleased your heart” (βίῃ καὶ κάρτεϊ εἴκων, 13.141–145; see [[poseidon]], [[time]] and [[poine]]). εἴκων is “giving way to, allowing himself to be moved by” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.143): the mortal who slights a god does it in reliance on his own strength, and the god's answer is vengeance. Here strength is a man's, set against the honor owed to a god; Zeus, who gives κράτος to men (see the entry), leaves the punishment to his brother. The Phaeacians have offended not by force but by their escorts, and the vengeance falls on them all the same (13.149–164; see [[the-migration-of-the-phaeacians]]).

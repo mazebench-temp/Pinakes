@@ -23,3 +23,7 @@ Both occurrences fall in the embassy to Chryse, a mission that needs tact:
 {{quote:bfca3e71-6b50-5ca4-9c1e-7e376a7f948e}}
 
 Odysseus sails as ἀρχός (“commander”), leads the girl to the altar, and restores her to her father with a formal speech in Agamemnon's name ({{ref:Iliad 1.442-445}}). In each case πολύμητις Ὀδυσσεύς closes the verse. When Agamemnon first names him as a possible commander he is instead δῖος Ὀδυσσεύς ([[brilliant]], {{ref:Iliad 1.145}}), a formula of another shape.
+
+## Outside Homer
+
+The *Homeric Hymn to Athena* gives the epithet to the goddess herself: γλαυκῶπιν, πολύμητιν, “gray-eyed, of many counsels” (*Hymn* 28.2; see [[athena]]).

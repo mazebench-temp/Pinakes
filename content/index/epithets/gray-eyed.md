@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet]
 summary: The chief epithet of [[Athena]], “with gleaming eyes,” often translated “gray-eyed” or “owl-eyed.”
 aliases: [owl-eyed, flashing-eyed, glaukopis]
-grc: [γλαυκῶπις, γλαυκώπιδος]
+grc: [γλαυκῶπις, γλαυκώπιδος, γλαυκῶπι]
 en: [gray-eyed]
 of: [athena]
 ---

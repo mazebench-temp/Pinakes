@@ -1,0 +1,7 @@
+---
+summary: The falcon, “the nimblest of winged birds”, is the measure of the Phaeacian ship's speed: not even a hawk, a falcon, could have kept pace with her (13.86–87).
+---
+
+**The nimblest of winged birds.** οὐδέ κεν ἴρηξ / κίρκος ὁμαρτήσειεν, ἐλαφρότατος πετεηνῶν: “not even a hawk, / a falcon, the nimblest of winged birds, could have kept pace with her” (13.86–87; see [[the-four-stallions]]). The two names stand together, and D. B. Monro explains the pair as others like it, βοῦς ταῦρος and σῦς κάπρος, in which the second term is usually the specific one (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.86; see [[hawk]] and the translation's note on 13.86): the bird is a hawk, and the kind of hawk is the κίρκος. ἐλαφρότατος πετεηνῶν is the falcon's half-verse in the Iliad, where Achilles swoops on Hector “As a falcon in the mountains, the nimblest of winged birds, / swoops easily after a timid dove” (*Iliad* 22.139–140; see [[the-falcon-and-the-dove]]). There the falcon is the pursuer, close behind its prey; here it is the bird left behind. ὁμαρτήσειεν, “could have kept pace”, is a potential optative with κεν: the falcon does not race the ship, but the poet measures her by it (see [[birds]]).
+
+**The falcon of the sign.** The poem's next falcon is an omen. As Telemachus comes to land on Ithaca, “a bird flew by on the right, / a falcon, the swift messenger of Apollo”, with a dove in its feet, plucking it (15.525–528, a plain rendering; see [[divination]]). The verse names the bird in the same way, first ὄρνις, “a bird”, then κίρκος, the kind.

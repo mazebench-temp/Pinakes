@@ -33,7 +33,7 @@ He is the son of Nausithous, who led the Phaeacians to Scheria, a son of Poseido
 
 ## Later in the Odyssey
 
-After the games and the feasts of *Odyssey* 8, he listens to the tale of his guest's wanderings (*Odyssey* 9–12), known in antiquity as “the tale to Alcinous”, and sends him home with gifts in a Phaeacian ship (see [[the-tale-to-alcinous]], [[demodocus]] and [[odysseus-set-ashore-on-ithaca]]). When Poseidon turns the ship that carried Odysseus to stone, he recognizes the prophecy of his father Nausithous, and bids his people give up their escorts of strangers and sacrifice twelve chosen bulls to the god; the poem leaves the leaders of the Phaeacians praying around the altar (*Odyssey* 13.171–187; see [[nausithous]] and [[poseidon]]).
+After the games and the feasts of *Odyssey* 8, he listens to the tale of his guest's wanderings (*Odyssey* 9–12), known in antiquity as “the tale to Alcinous”, and sends him home with gifts in a Phaeacian ship, which Poseidon turns to stone on its way back, as the king's father Nausithous had foretold (*Odyssey* 13; see [[the-tale-to-alcinous]], [[demodocus]], [[odysseus-set-ashore-on-ithaca]], [[the-ship-turned-to-stone]], [[nausithous]] and [[the-migration-of-the-phaeacians]]).
 
 ## Outside Homer
 

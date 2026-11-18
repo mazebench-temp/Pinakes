@@ -1,6 +1,6 @@
 ---
 summary: The Phaeacians care nothing for bow or quiver, Nausicaa says, but for masts and oars and ships (6.271).
-# ἱστοί, the masts (6.271); at 13.107 the same word is the stone looms of the nymphs, to except with Book 13.
+# ἱστοί, the masts (6.271); at 13.107 the same word is the stone looms of the nymphs, which the mast entry excepts.
 grc: [ἱστοὶ]
 en: [masts]
 ---

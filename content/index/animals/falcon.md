@@ -10,7 +10,7 @@ grc: [κίρκον, κίρκος]
 en: [falcon]
 ---
 
-κίρκος is a bird of prey of the hawk family. Which bird the word named is not certain; it is rendered “falcon” here to keep it apart from the ἴρηξ, the usual Homeric word for the hawk (see [[hawk]]). Homer gives it three marks. It kills smaller birds: it is the bird “which brings slaughter to small birds” (ὅ τε σμικρῇσι φόνον φέρει ὀρνίθεσσιν, 17.757). It hunts the dove (πέλεια), in the Iliad and in the Odyssey alike (22.139–142; *Odyssey* 15.525–528). And it is the swiftest of birds, ἐλαφρότατος πετεηνῶν, “the nimblest of winged birds” (22.139; *Odyssey* 13.87). In the Odyssey the two words stand together, ἴρηξ κίρκος, “a hawk, a falcon”, as if the κίρκος were a kind of hawk: not even it could keep pace with the Phaeacian ship that carries Odysseus home (*Odyssey* 13.86–87).
+κίρκος is a bird of prey of the hawk family. Which bird the word named is not certain; it is rendered “falcon” here to keep it apart from the ἴρηξ, the usual Homeric word for the hawk (see [[hawk]]). Homer gives it three marks. It kills smaller birds: it is the bird “which brings slaughter to small birds” (ὅ τε σμικρῇσι φόνον φέρει ὀρνίθεσσιν, 17.757). It hunts the dove (πέλεια), in the Iliad and in the Odyssey alike (22.139–142; *Odyssey* 15.525–528). And it is the swiftest of birds, ἐλαφρότατος πετεηνῶν, “the nimblest of winged birds” (22.139; *Odyssey* 13.87). In the Odyssey the two words stand together, ἴρηξ κίρκος, “a hawk, a falcon”, as if the κίρκος were a kind of hawk (*Odyssey* 13.86–87; see [[the-four-stallions]]).
 
 {{notes}}
 

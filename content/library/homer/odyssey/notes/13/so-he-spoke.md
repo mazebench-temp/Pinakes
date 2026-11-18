@@ -1,0 +1,6 @@
+---
+summary: Thirteen closes: of the tale, “So he spoke, and they all fell hushed in silence” (13.1); of the speeches in Alcinous' hall (13.16, 13.47, 13.53, 13.63); of the prophecy, “So the old man used to say; and now it is all being fulfilled” (13.178), and of Alcinous' order (13.184); of Odysseus' lament (13.217); and on Ithaca, “So she spoke, and much-enduring brilliant Odysseus was glad” (13.250), “So he spoke, and the gray-eyed goddess Athena smiled” (13.287), and “So saying” three times, as the goddess scatters the mist, goes into the cave and touches him with her wand (13.352, 13.366, 13.429).
+grc: ["ὣς εἰποῦσα", "ὣς ἄρα μιν φαμένη"]
+---
+
+The verse that marked the pause in the tale now ends it (11.333 = 13.1; see [[the-tale-to-alcinous]] and [[silence]]). 13.178 is the verse with which Alcinous first told his father's prophecy, with a new second half: “these things the god may bring to pass, / or they may be left unfulfilled” (8.570–571) has become “and now it is all being fulfilled” (see [[retelling]]). ὣς εἰποῦσα, as of goddesses in the Iliad (*Iliad* 3.139, 5.35), and ὣς ἄρα μιν φαμένη are new to the entry; each time the goddess's word is followed at once by her act (see [[divine-epiphany]] and [[shape-changing]]). The crowd's speech on the ship turned to stone has its own close, “So a man would say” (13.170; see [[tis-speech]]).

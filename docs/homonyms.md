@@ -191,7 +191,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ὀρέστης | orestes-the-achaean (5.705; `except: [12.139, 12.193]`); orestes, Agamemnon's son (9.142, 9.284); orestes-the-trojan, with Asius, killed by Leonteus (Ὀρέστην, 12.139, 12.193; `except: [5.705]`) |
 | Οἰνόμαος, Τεύθρας | oenomaus (5.706) and teuthras (5.705), killed by Hector; oenomaus `except: [12.140, 13.506]`; oenomaus-the-trojan, with Asius (12.140; `except: [5.706]`), probably the Oenomaus killed by Idomeneus (13.506), whom it also takes; Axylus is "son of Teuthras" (Τευθρανίδην, 6.13): teuthras-father-of-axylus |
 | Ἄμφιος | amphius, son of Merops (Ἄμφιος, 2.830); amphius-son-of-selagus (Ἄμφιον, 5.612). Both came from (A)paesus |
-| Ὀρσίλοχος | orsilochus-son-of-diocles (5.542, 5.549; `except: [8.274]`); orsilochus-killed-by-teucer (8.274); their grandfather is ortilochus (5.546–547); Idomeneus' son in Odysseus' false tale (Od. 13.260) |
+| Ὀρσίλοχος | orsilochus-son-of-diocles (5.542, 5.549; `except: [8.274]`); orsilochus-killed-by-teucer (8.274); their grandfather is ortilochus (5.546–547); Idomeneus' son in Odysseus' false tale is orsilochus-son-of-idomeneus (Od. 13.260: Ὀρσίλοχον and the English in its Book 13 note), and both Iliad entries `except: [Od. 13.260]` |
 | Μελάνιππος | melanippus, Teucer's victim (8.276; `except: [15.547, 15.553, 15.576, 15.582]`); melanippus-son-of-hicetaon claims the phrases `"ἴφθιμον Μελάνιππον"` (15.547) and `"ὑπέρθυμον Μελάνιππον"` (15.576), the vocative Μελάνιππε (15.553, 15.582) and Ἱκεταονίδην (15.546); melanippus-killed-by-patroclus claims Μελάνιππον at 16.695 (`except: [8.276, 15.547, 15.576, 19.240]`), and melanippus `except: [16.695, 19.240]`; melanippus-the-achaean claims Μελάνιππον at 19.240 (`except: [8.276, 15.547, 15.576, 16.695]`) |
 | Μηκιστεύς | mecisteus, son of Talaus (Μηκιστέος 2.566; 23.678); mecisteus-son-of-echius, who carries Teucer away (8.333) and Hypsenor (13.422) and dies at 15.339 (Μηκιστῆ, claimed in its Book 15 note) |
 | Ἐχίος | echius, father of Mecisteus (Ἐχίοιο 8.333; `except: [15.339]`); echius-killed-by-polites, an Achaean (Ἐχίον 15.339; `except: [16.416]`); echius-killed-by-patroclus, probably a Lycian (Ἐχίον 16.416; `except: [15.339]`), and echius `except: [16.416]`. The poem does not say whether Polites' victim is Mecisteus' father |
@@ -333,7 +333,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Μέντης | mentes, leader of the Cicones, whose likeness Apollo takes (Μέντῃ 17.73, with English Mentes, in its Book 17 note; `en: []` in the entry); the Taphian Mentes, whose likeness Athena takes, is mentes-the-taphian (Μέντης, Μέντῃ, Od. 1.105, 1.180, 1.418; `except: [17.73]`) |
 | Φρόντις | phrontis, wife of Panthous (Φρόντιδι 17.40, with English Phrontis, in its Book 17 note); Phrontis, son of Onetor, Menelaus' helmsman (Od. 3.282), will need his own id |
 | Ἱππόθοος | hippothous, the Pelasgian (2.840; its Book 17 note claims `"Ἱππόθοόν τε"` and Ἱπποθόῳ, 17.217, 17.313, 17.318; `except: [24.251]`); hippothous-son-of-priam, Priam's son (Ἱππόθοον 24.251; `except: [17.217, 17.318]`) |
-| Φόρκυς | phorcys, the Phrygian (2.862; Φόρκυν and Φόρκυνα in its Book 17 note, 17.218, 17.312, 17.318); the old man of the sea, Φόρκυνος (Od. 1.72, 13.96, 13.345; *Theogony* 237), is phorcys-the-sea-god (Φόρκυνος in the entry; the English "Phorcys" in its Odyssey note), and phorcys `except: [Od. 1.72]` |
+| Φόρκυς | phorcys, the Phrygian (2.862; Φόρκυν and Φόρκυνα in its Book 17 note, 17.218, 17.312, 17.318); the old man of the sea, Φόρκυνος (Od. 1.72, 13.96, 13.345; *Theogony* 237), is phorcys-the-sea-god (Φόρκυνος in the entry; the English "Phorcys" in its Odyssey note), and phorcys `except: [Od. 1.72, Od. 13.96, Od. 13.345]`; the harbor named for him is the-harbor-of-phorcys |
 | Θερσίλοχος | thersilochus, an ally of the Trojans (Θερσίλοχον 17.216); a Paeonian of the name dies at 21.209, and the entry takes him too, as perhaps the same man (its Book 17 and Book 21 notes) |
 | Ἀγχισιάδης | aeneas and anchises claim the phrase `"Αἰνείας τʼ Ἀγχισιάδης"` in their Book 17 notes (17.754; also 20.160, Aeneas again); Ἀγχισιάδης at 23.296 is Echepolus, son of another Anchises, and will need his own entry |
 | Μαῖρα | maera, the Nereid (18.48; Μαῖρα and the English in its Book 18 note, `en: []` in the entry); the heroine of Od. 11.326 (Μαῖράν) will need her own id and an English `except` |
@@ -1385,6 +1385,58 @@ the fig tree at Troy).
 | ὀφρύσι νευστάζων (Od. 12.194) | νευστάζων κεφαλῇ, the drooping head (Od. 18.154, 18.240); Aeneas' helmet (Il. 20.162) | neuo: the phrase in its Book 12 note |
 | νεκρός τʼ ἐκάη (Od. 12.13) | ἐκάη of the thigh-pieces (Od. 12.364) | cremation: the phrase in its Book 12 note |
 | ῥέξομεν, ἱεροῖσιν (Od. 12.344, 12.362) | ῥέζω "do"; ἱερός "holy" | sacrifice: the two phrases in its Book 12 note |
+
+### Odyssey, Book 13
+
+The arrival brings the places of the harbor beside the gods and men who share their names (the harbor of Phorcys and the
+god, the Rock of Corax and the rhetorician, Arethusa and her namesakes), the names of the false tale beside the Iliad's
+(Orsilochus, the Phoenicians and Phoenix), and the furniture of the cave and the ship beside the same words in other
+senses (the looms and the masts, the mooring rope and the bonds of Hephaestus, πόσιν "drink" and πόσις "husband").
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ὀρσίλοχον (Od. 13.260) | the son of Diocles (Il. 5.542, 5.549) and the Trojan killed by Teucer (Il. 8.274) | orsilochus-son-of-idomeneus: the form and `en: [Orsilochus]` in its Book 13 note; both Iliad entries `except: [Od. 13.260]` |
+| Φόρκυνος (Od. 13.96, 13.345) | Phorcys the Phrygian (Il. 2.862, 17.218) | phorcys-the-sea-god claims them; phorcys `except: [Od. 1.72, Od. 13.96, Od. 13.345]` |
+| ἁλίοιο γέροντος, Phorcys (Od. 13.96, 13.345) | the title of Nereus (Il. 1.538) and of Proteus (Od. 4.349–542) | old-man-of-the-sea `except: [Od. 13.96, Od. 13.345]`; phorcys-the-sea-god's Book 13 note has `en: [Old Man of the Sea]`; geron keeps the lines |
+| Φόρκυνος … λιμήν (Od. 13.96, 13.345) | the god; λιμήν, any harbor | the-harbor-of-phorcys: two phrases, no English |
+| Κόρακος πέτρῃ (Od. 13.408) | Corax the rhetorician (Rhetoric 1402a18; the English "Corax") | the-rock-of-corax: the phrase; corax `except: [Od. 13.408]` |
+| κρήνῃ Ἀρεθούσῃ (Od. 13.408) | the springs of Syracuse and Chalcis | arethusa: the phrase |
+| ἄντρον ἐπήρατον, σπέος (Od. 13.103–367) | Scylla's cave (Od. 12.80), the bats' cave (Od. 24.6) | the-cave-of-the-naiads: four phrases, refs for 13.363 |
+| νηϊάδες (Od. 13.104, 13.348, 13.356) | νηΐς (`=νηῒς`); νῆϊς "unknowing" (Od. 8.179) | nymphs: the exact form in its Book 13 note |
+| νύμφῃσι (Od. 13.350; 14.435) | νύμφη "bride" | nymphs: the exact form in its Book 13 note |
+| Τρωϊάδος, "spoil from Troy" (Od. 13.263) | Τρωϊάδες, the Trojan women | trojan-women `except: [Od. 13.263]`; troy's Book 13 note claims the form |
+| Φοίνικας (Od. 13.272) | Φοίνικα, Phoenix (*Iliad* 23.360); φοῖνιξ "palm" | phoenicians `"^Φοίνικας"` |
+| Σιδονίην (Od. 13.285) | Σιδόνιοι, the people | sidon: the exact form |
+| Ἀτρεΐδαο, Menelaus (Od. 13.424) | Agamemnon (Od. 13.383) | agamemnon's Book 13 note `except: [13.424]`; menelaus `refs: [13.424]`; atreus keeps both |
+| δήμου Φαιήκων, the whole people (Od. 13.186) | δῆμος, the commoners | commoners `except: [Od. 13.186]` |
+| δῆμος (Od. 13.233) | δημός "fat" (Il. 8.240) | demos: `"=δῆμος"` in its Book 13 note |
+| κρατός, the head of the harbor (Od. 13.102, 13.346) | κράτος | kratos's `"=κράτος"` keeps it out |
+| ἱέρευσʼ "sacrificed" (Od. 13.24) | ἱερεύς "priest" | priesthood `except: [Od. 13.24]` |
+| ἀγορεύεις, ἀγόρευον, ἀγόρευʼ, ἀγόρευσον, ἀγορευέμεναι (Od. 13.147, 165, 178, 232, 327) | the assembly | assembly's Book 13 note excepts them; 13.171 stays |
+| ὑφαίνουσιν, ὑφαντήν, ὑφαντά | μῆτιν ὑφήνω, ὕφηνον (Od. 13.303, 13.386) | weaving claims only the craft's exact forms |
+| ἱκετήσιος (Od. 13.213) | ἱκέτῃσιν (Od. 7.165, 7.181) | god-of-suppliants: the exact form; supplication refs only |
+| πόσιν "drink" (Od. 13.72) | πόσις "husband" | posis `except: [Od. 13.72]` in the entry; provisions' Book 13 note claims the phrase |
+| μήτι "cunning" (Od. 13.299) | μή τι | metis: the exact form in its Book 13 note |
+| ἀστὴρ … φαάντατος (Od. 13.93) | the ἀστήρ of the similes (Il. 22.317; 6.295, 19.381; Od. 15.108) | the-morning-star: the phrase, never the bare word, and ἑωσφόρος |
+| ἱππήλατος (Od. 4.607, 13.242) | ἱππηλάτα "horse-driving" | horses: the exact form in its Book 13 note |
+| ὑῶν, σύεσσι, ὕεσσι (Od. 13.405–410) | σύεσσιν, the wild boars (Il. 12.146) | boar: the exact forms in its Book 13 note |
+| ἱστοὶ λίθεοι, the looms (Od. 13.107) | ἱστοί, the masts (Od. 6.271) | loom's Book 13 note claims the phrase; mast `except: [Od. 13.107]` |
+| ἄνευ δεσμοῖο, without a mooring rope (Od. 13.100) | the bonds of Hephaestus | stern-cables: the phrase; the-bonds-of-hephaestus `except: [Od. 13.100]` |
+| πορφύρεον κῦμα, the surging wave (Od. 13.85) | purple | purple `except: [Od. 13.85]` |
+| φάρεʼ, webs (Od. 13.108) | the cloth for sails (Od. 5.258) | cloak `"φάρεʼ ὑφαίνουσιν"`; sails keeps `"φάρεʼ ἔνεικε"` |
+| λίνον, λίνῳ, the linen sheet (Od. 13.73, 13.118) | the Spinners' thread (Od. 7.198) | blankets: two phrases |
+| κρήδεμνα, the battlements of Troy (Od. 13.388) | Penelope's veil (Od. 1.334) | veil `"λύομεν λιπαρὰ κρήδεμνα"` |
+| τρίχας, hair (Od. 13.399, 13.431) | the swine's bristles (Od. 10.239) | hair: two phrases |
+| ἀορτήρ, the pouch's cord (Od. 13.438) | the baldric of Heracles (Od. 11.609), Agamemnon's straps (Il. 11.31) | pouch: the phrase |
+| χρήματα, goods (Od. 13.203–363) | money in Aristotle | possessions: in its Book 13 note only |
+| ἄκοντα, a javelin (Od. 13.225) | ἄκοντε "unwilling" (Od. 15.192) | spear: the exact form |
+| δόμοις (Od. 13.306, 13.424) | the house of Hades (Od. 24.204) | house: two phrases |
+| κελαινεφές (Od. 13.147) | αἷμα κελαινεφές, the dark blood (Od. 11.36, 11.153) | lord-of-dark-clouds: the phrase in its Book 13 note |
+| τρητοῖο λίθοιο, the pierced stone (Od. 13.77) | τρητός of beds, "corded" | corded: the phrase in its Book 13 note, en "pierced" |
+| Ἤλιδα δῖαν, Λακεδαίμονα δῖαν (Od. 13.275, 13.440) | δῖαν, the shining sea | shining-sea `except: [Od. 13.275, Od. 13.440]`; brilliant claims both |
+| πόδας ὠκύν, Orsilochus (Od. 13.260) | πόδας ὠκύς, Achilles | swift-footed: the accusative in its Book 13 note (only here) |
+| ἐμὸν ποτὶ χαλκοβατὲς δῶ (Od. 13.4) | Διὸς ποτὶ χαλκοβατὲς δῶ (Il. 1.426) | the-house-of-alcinous: the phrase in its Book 13 note |
+| ἀκταὶ ἀπορρῶγες (Od. 13.98) | ἀκτή, the shore; ἀκτή "meal" | shore: the phrase in its Book 13 note, en "headlands" |
 
 ## Aristotle's Poetics
 

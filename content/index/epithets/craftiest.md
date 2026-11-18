@@ -12,7 +12,7 @@ of: [sisyphus]
 
 ## Meaning
 
-κέρδιστος is the superlative that belongs with κέρδος (“gain, profit,” and in the plural “cunning plans, wiles”); the comparative κερδίων means “more profitable, better,” as when Andromache says that it would be “better” for her to die if she loses Hector (κέρδιον, 6.410). In the Odyssey κέρδεα are the wiles that Odysseus and Athena share: he is the best of mortals in counsel and words, and she is famous among the gods for her cunning (μήτι τε … καὶ κέρδεσιν, Od. 13.296–299). The superlative occurs only here in Homer.
+κέρδιστος is the superlative that belongs with κέρδος (“gain, profit,” and in the plural “cunning plans, wiles”); the comparative κερδίων means “more profitable, better,” as when Andromache says that it would be “better” for her to die if she loses Hector (κέρδιον, 6.410). In the Odyssey κέρδεα are the wiles that Odysseus and Athena share: he is the best of mortals in counsel and words, and she is famous among the gods for her cunning (μήτι τε … καὶ κέρδεσιν, *Odyssey* 13.296–299). The superlative occurs only here in Homer.
 
 ## Use
 

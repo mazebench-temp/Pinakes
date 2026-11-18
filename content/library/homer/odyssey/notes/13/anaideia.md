@@ -1,0 +1,5 @@
+---
+summary: Athena's first word on the suitors in Ithaca: “consider how you will lay hands on the shameless suitors” (13.376).
+---
+
+Sitting with Odysseus beside the sacred olive, Athena begins the plan: “Son of Laertes, sprung from Zeus, Odysseus of many devices, / consider how you will lay hands on the shameless suitors, / who for three years now have been lording it in your hall, / wooing your godlike wife and giving bride-price” (μνηστῆρσιν ἀναιδέσι χεῖρας ἐφήσεις, 13.375–378; see [[the-suitors]], [[koiranos]] and [[bride-price]]). The half-verse is the one in which, in the likeness of Mentes, she had told Telemachus how much he needed his father, “who would lay his hands on the shameless suitors” (1.254); now she says it to the man himself, and it returns for the vengeance in the later books (20.29, 20.39, 20.386, 23.37). Some manuscripts give the verse as φράζεο νῦν μνηστῆρσιν ὑπερφιάλοισιν ὄλεθρον, the words of 13.373 (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, his critical note on 13.376).

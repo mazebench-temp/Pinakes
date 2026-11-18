@@ -28,6 +28,6 @@ They have wooed Penelope for three years and more, deceived by her web (see [[th
 
 ## Outside Homer
 
-In Aristotle's outline of the Odyssey, the hero's “property is being wasted by suitors and his son plotted against” (*Poetics* 1455b19–21; see [[the-return-of-odysseus]] and [[aristotle-the-story-of-the-odyssey]]).
+In Aristotle's outline of the Odyssey, the hero's “property is being wasted by suitors and his son plotted against” (*Poetics* 1455b19–21; see [[the-return-of-odysseus]] and [[aristotle-the-story-of-the-odyssey]]). A story of the aftermath, told by Plutarch and printed by Gigon among the fragments of Aristotle's *Constitution of the Ithacans*, has the friends and kin of the dead rise against Odysseus; Neoptolemus, called in by both sides as arbiter, sent him into exile from Cephallenia, Zacynthus and Ithaca for the bloodshed, and ordered the suitors' companions and kin to pay him a penalty every year (fr. 511 Gigon; see [[ithaca]] and [[plutarch]]).
 
 Horace makes them a byword for idle consumers, and Ovid's Penelope names them in her letter to Ulysses (see [[horace-on-the-suitors]] and [[ovid-penelopes-letter]]); for the game called Penelope, see [[the-game-of-penelope]].

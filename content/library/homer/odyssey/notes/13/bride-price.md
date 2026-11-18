@@ -1,0 +1,5 @@
+---
+summary: Athena tells Odysseus that for three years the suitors have been lording it in his hall, “wooing your godlike wife and giving bride-price” (13.377–378), in the verse of Teiresias' prophecy.
+---
+
+Athena bids Odysseus “consider how you will lay hands on the shameless suitors, / who for three years now have been lording it in your hall, / wooing your godlike wife and giving bride-price” (13.376–378; see [[the-suitors]] and [[penelope]]). The last verse is Teiresias' in the land of the dead (11.117), and what he foretold Athena now reports as fact. κοιρανέουσι, “are lording it”, is said ironically (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.377): the suitors behave as masters of the house while they offer gifts for its mistress. Athena goes on in the verses with which Antinous complained of Penelope before the Ithacans: she “gives hope to all, and makes promises to each man, / sending out messages, but her mind has other things in view” (13.380–381 = 2.91–92; see [[antinous]]). The gifts are offered, and the bride is not given.

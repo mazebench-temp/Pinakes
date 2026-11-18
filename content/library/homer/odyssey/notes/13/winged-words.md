@@ -1,0 +1,5 @@
+---
+summary: Five speeches: Odysseus' farewell to Arete, “and he spoke to her, addressing her with winged words” (13.58); the Phaeacians' when the ship is turned to stone, “And they spoke winged words to one another” (13.165); Odysseus' to the young herdsman and then his false tale (13.227, 13.253); and Athena's answer to it, “and she spoke to him, addressing him with winged words” (13.290).
+---
+
+πρὸς ἀλλήλους ἔπεα πτερόεντʼ ἀγόρευον is the plural verse of the Iliad, of men speaking to one another (*Iliad* 3.155, 24.142), and the crowd's words follow as a [[tis-speech]] (13.167–169). At 13.253 the verse introduces the lie, and the poet tells what it is before it is spoken: “yet he did not speak the truth, but took back his word, / always turning a very crafty mind in his breast” (13.254–255). πάλιν … λάζετο μῦθον is the phrase of Agamemnon taking back his rebuke (*Iliad* 4.357; see [[smiling-at-him]]); D. B. Monro explains it as “left unsaid what he would have said if he had spoken the truth” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.254; see [[the-first-cretan-tale]]).

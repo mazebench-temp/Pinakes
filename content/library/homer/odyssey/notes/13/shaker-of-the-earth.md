@@ -1,0 +1,5 @@
+---
+summary: Zeus answers Poseidon's complaint against the Phaeacians: “Ah, shaker of the earth, wide in strength, what a thing you have said! / The gods do not dishonor you at all” (13.140–141).
+---
+
+The verse of Zeus' answer to Poseidon about the Achaeans' wall (*Iliad* 7.455), in the same situation. Poseidon says that he will no longer be held in honor among the gods, since mortals do not honor him: the Phaeacians, sprung from his own stock, have carried Odysseus home asleep and given him more gifts than he would have won at Troy (13.128–138). Zeus grants what he granted in the Iliad, his honor among the gods and leave to punish the mortals himself, “Do as you wish, and as has pleased your heart” (13.141–145); D. B. Monro renders ἀτιμίῃσιν ἰάλλειν “to fling at, assail, with acts of dishonour” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.142). When Poseidon asks to shatter the ship and cover the city with a mountain, Zeus advises him to turn it to stone (13.146–158; see [[the-ship-turned-to-stone]], [[wide-in-strength]], [[what-a-word]], [[earth-shaker]] and [[poseidon]]).

@@ -7,7 +7,10 @@ summary: The rank and file of the Achaean army: the “men of the people” (δ�
 aliases: [men of the people, man of the people, the crowd, the multitude, rank and file]
 grc: [δήμου, πληθύς, πληθὺν]
 # ἀνέρε δήμου ἀρίστω, "two men, the best of the people" (11.328, 12.447), are not commoners.
-except: [6.158, 11.328, 12.447, 17.577, Rhetoric 1380b9, Rhetoric 1411a14]
+# δήμου Φαιήκων ἡγήτορες (Od. 13.186) are "the leaders ... of the people of the Phaeacians", the whole people. The
+# Odyssey's later δήμου, "the talk of the people" (14.239) and "the land of the Trojans" (22.36), are not commoners
+# either and will need the same except with their books.
+except: [6.158, 11.328, 12.447, 17.577, Rhetoric 1380b9, Rhetoric 1411a14, Od. 13.186]
 en: [man of the people, crowd, multitude]
 passages:
   - 2.198-206 | Odysseus and the commoners

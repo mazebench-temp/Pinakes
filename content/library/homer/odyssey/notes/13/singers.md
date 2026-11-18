@@ -1,0 +1,7 @@
+---
+summary: Alcinous calls on the elders who drink the wine of the elders in his halls “and listen to the singer” (13.7–9), and at the farewell feast “a divine singer sang, / Demodocus, honored by the people” (13.27–28), his last appearance in the poem.
+---
+
+**Listen to the singer.** Alcinous addresses “all who in my halls drink the sparkling wine of the elders / always, and listen to the singer” (13.8–9; see [[alcinous]] and [[the-house-of-alcinous]]). ἀκουάζεσθε belongs to a class of verbs with an ampliative and often unfavorable meaning, “please yourselves with listening”, as μιμνάζω beside μίμνω and ἀεκάζομαι (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.9; see the translation's note on 13.9); the verb is used of the singer at the feast in Odysseus' praise of it, before he begins his tale (9.7).
+
+**The last song.** At the feast after the sacrifice, “among them a divine singer sang / Demodocus, honored by the people” (13.27–28; see [[demodocus]] and [[feast]]). The first verse is the verse of the singer on the shield of Achilles and of the singer at Menelaus' wedding feast (*Iliad* 18.604; 4.17; see [[the-singer-on-the-shield]] and [[the-wedding-at-sparta]]); for μέλπεσθαι of singing Monro refers to Lehrs (on 13.27). λαοῖσι τετιμένος, “honored by the people”, was said of him when the herald set his chair in the hall (8.472). The poem does not tell what he sang; Odysseus, who had asked him for the song of the wooden horse, keeps turning his head toward the sun, longing for it to set (13.29–35; see [[the-plowman-and-his-supper]]).

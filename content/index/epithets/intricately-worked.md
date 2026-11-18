@@ -5,7 +5,7 @@ kind: epithet
 tags: [weapon, craftsman]
 summary: “Of much cunning work,” an epithet of richly crafted things: corselets, shields, bowls, a chair and ornaments; once of the craftsmen themselves, the Sidonians.
 aliases: [richly wrought, polydaidalos]
-grc: [πολυδαιδάλου]
+grc: [πολυδαιδάλου, πολυδαίδαλος]
 en: [intricately worked]
 of: [corselet, lyre]
 ---

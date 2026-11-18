@@ -32,7 +32,7 @@ Poseidon begot him on Periboea, “most beautiful in form of women”, the young
 
 ## Later in the Odyssey
 
-The prophecy of his that Alcinous tells the stranger in *Odyssey* 8, that Poseidon would one day shatter a Phaeacian ship coming home from an escort and cover their city round about with a great mountain, comes true in *Odyssey* 13: when the ship that carried Odysseus home is turned to stone in sight of the city, the king recognizes his father's words, spoken long ago, and repeats them (*Odyssey* 13.172–178, a plain rendering). For the migration and the prophecy, see [[the-migration-of-the-phaeacians]].
+The prophecy of his that Alcinous tells the stranger in *Odyssey* 8, that Poseidon would one day shatter a Phaeacian ship coming home from an escort and cover their city round about with a great mountain, comes true in *Odyssey* 13, when the ship that carried Odysseus home is turned to stone in sight of the city and the king recognizes his father's words (*Odyssey* 13.172–178; see the Book 13 note and [[the-ship-turned-to-stone]]). For the migration and the prophecy, see [[the-migration-of-the-phaeacians]].
 
 ## Outside Homer
 

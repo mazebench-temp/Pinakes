@@ -1,0 +1,7 @@
+---
+summary: Athena names herself to Odysseus as the goddess “who always / stand by you in all your toils and guard you” (13.300–301), and says that Telemachus “has no toil, but sits at his ease” in Menelaus' house (13.423).
+---
+
+**In all your toils.** Revealed, Athena reproaches Odysseus for not knowing her, “Pallas Athena, daughter of Zeus, who always / stand by you in all your toils and guard you, / and made you dear to all the Phaeacians” (ἐν πάντεσσι πόνοισι παρίσταμαι ἠδὲ φυλάσσω, 13.300–302; see [[athena]] and [[phaeacians]]). The words are those of Odysseus' prayer to her in the Iliad, before the night raid: “Hear me, child of aegis-bearing Zeus, you who always / stand by me in all my toils” (*Iliad* 10.278–279; see [[the-doloneia]]); the goddess answers in the second person the prayer he made in the first. She will say it again on the night before the slaughter of the suitors (20.47–48). His reply is a reproach: she was kind to him at Troy, but after the sack he never saw her on his ship (13.314–319; see [[algos]]).
+
+**No toil.** Odysseus asks why she did not tell Telemachus what she knew, and let him wander and suffer; she answers, “I myself escorted him, so that he might win noble fame / by going there; and he has no toil, but sits at his ease / in the house of the son of Atreus, and untold plenty lies beside him” (13.422–424; see [[telemachus]], [[menelaus]] and [[kleos]]). The son's journey, unlike the father's, is to be without πόνος, though the suitors lie in ambush for him on his way home (13.425–428; see [[ambush]]).

@@ -28,7 +28,7 @@ passages:
 
 ## Elsewhere in Homer
 
-Poseidon is a son of Cronus and Rhea (see [[rhea]]). When the sons of Cronus drew lots, he won the sea, Zeus the sky and Hades the dead (15.187–193; see [[the-lots-of-the-three-brothers]]). He favors the Achaeans throughout the Iliad and pursues Odysseus through the Odyssey. In the likeness of the river Enipeus he lay with Tyro, who bore him Pelias and Neleus, and Neleus lived in sandy Pylos (*Odyssey* 11.235–257; see [[tyro-and-her-sons]] and [[neleus]]): Nestor is his grandson.
+Poseidon is a son of Cronus and Rhea (see [[rhea]]). When the sons of Cronus drew lots, he won the sea, Zeus the sky and Hades the dead (15.187–193; see [[the-lots-of-the-three-brothers]]). The poems do not agree which brother is the elder. In the Iliad “Zeus was born first and knew more” (*Iliad* 13.355), and Zeus claims to be “the elder by birth” (*Iliad* 15.166); in the Odyssey Zeus calls Poseidon “the eldest and the best” (*Odyssey* 13.142; see the Book 13 note). Hesiod names Zeus last of the children of Rhea, after the Earth-shaker, and calls him the youngest (*Theogony* 453–457, 478–479; see [[hesiod]]). He favors the Achaeans throughout the Iliad and pursues Odysseus through the Odyssey. In the likeness of the river Enipeus he lay with Tyro, who bore him Pelias and Neleus, and Neleus lived in sandy Pylos (*Odyssey* 11.235–257; see [[tyro-and-her-sons]] and [[neleus]]): Nestor is his grandson.
 
 ## Outside Homer
 

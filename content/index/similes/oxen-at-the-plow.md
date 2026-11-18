@@ -26,7 +26,7 @@ Hector does not know that his men are being cut down on the left (13.674–676).
 
 ## Elsewhere in Homer
 
-The plow team is a picture of hard and patient work. On the shield of Achilles many plowmen drive their teams across a broad fallow field, and as they reach the headland a man gives them a cup of wine (18.541–547). In the Odyssey Odysseus, sitting among the Phaeacians, longs for the sun to set as a man longs for his supper whose two wine-dark oxen have dragged the jointed plow through the fallow all day long (*Odyssey* 13.31–35), and he challenges the suitor Eurymachus to plow a furrow with a matched pair of oxen (*Odyssey* 18.371–375). Earlier in this book the two Ajaxes were a pair of lions carrying off a goat (13.197–202; see [[two-lions-and-a-goat]]).
+The plow team is a picture of hard and patient work. On the shield of Achilles many plowmen drive their teams across a broad fallow field, and as they reach the headland a man gives them a cup of wine (18.541–547). In the Odyssey Odysseus, sitting among the Phaeacians, longs for the sun to set as a man longs for his supper whose two wine-dark oxen have dragged the jointed plow through the fallow all day long (*Odyssey* 13.31–35; see [[the-plowman-and-his-supper]]), and he challenges the suitor Eurymachus to plow a furrow with a matched pair of oxen (*Odyssey* 18.371–375). Earlier in this book the two Ajaxes were a pair of lions carrying off a goat (13.197–202; see [[two-lions-and-a-goat]]).
 
 ## Outside Homer
 

@@ -1,0 +1,19 @@
+---
+summary: The Phaeacians' gifts are Odysseus' possessions now. The sailors set them by the olive, away from the road (13.120–124); waking, he does not know where to take them and counts them (13.203–219); he weaves them into his false tale (13.257–258, 13.283–284); and Athena, who has come to hide them, lays them away in the cave of the nymphs (13.303–305, 13.361–371).
+# χρήματα, χρήματʼ and χρήμασι, "goods" (13.203–363; earlier 2.78, 2.203; later 14.286 and after), first claimed here;
+# they apply in the Odyssey only, where χρήματα are always goods, and the manuscripts often put χρήματα for κτήματα and
+# κτήματα for χρήματα (Monro's critical notes on 13.120 and 13.304). The Iliad has neither form.
+grc: [χρήματα, χρήματʼ, χρήμασι]
+en: [goods]
+passages:
+  - 13.203-219 | Odysseus counts his goods
+  - 13.361-371 | The goods hidden in the cave
+---
+
+**By the olive.** The Phaeacians lift Odysseus out of the ship asleep, “and they lifted out the possessions which the noble Phaeacians / had given him as he went home, through great-hearted Athena. / These they set all together by the trunk of the olive, / away from the road, lest some wayfarer / should come upon them and do them harm before Odysseus woke” (13.120–124; see [[the-gifts-of-the-phaeacians]], [[olive]] and [[phaeacians]]). διά is “by the agency of” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 13.121): the gifts were Athena's doing, as she will tell him herself (13.305). For κτήματʼ some manuscripts have χρήματʼ, a variation that Monro calls frequent (critical note on 13.120).
+
+**Where am I taking them?** Waking in a land he does not know, Odysseus asks, “Where am I taking all these goods? And where am I myself / wandering? Would that they had stayed there among the Phaeacians / where they were” (13.203–205; see [[to-the-land-of-what-mortals]]): φέρω appears to be the indicative, “where am I with all this wealth in my hands?”, and the goods are the subject of the wish (Monro on 13.203, 13.204). “But now I do not know where to put these things, nor yet here / will I leave them, lest somehow they become a prey for others” (13.207–208). He counts them and misses nothing (13.215–219; see [[tripod]] and [[clothing]]).
+
+**In the false tale.** The goods become part of his lie: he has come from Crete “with these goods; and leaving as much again to my children, / I am an exile” (13.258–259), and the Phoenicians “took my goods out of the hollow ship / and set them down where I myself lay on the sands” (13.283–284; see [[the-first-cretan-tale]] and [[phoenicians]]), as the Phaeacians had done in truth. ἔτι τοσαῦτα is “as much more” (Monro on 13.258).
+
+**Hidden.** Athena has come “to weave a plan with you / and to hide the goods, all that the noble Phaeacians / gave you as you went home, by my counsel and my mind” (13.303–305; see [[athena]] and [[metis]]); here the vulgate has κτήματα and some manuscripts χρήματα, and Monro queries ἐνθάδʼ for οἴκαδʼ (critical notes on 13.304–305). When the mist is scattered she bids him “put the goods in the inner part of the wondrous cave / at once, now, where they may stay safe for you” (13.363–364; see [[the-cave-of-the-naiads]] and [[wondrous]]): ἵνα is “where”, and σόος is probably a later form for σάος (Monro on 13.364; see the translation's note on 13.364). He brings the gold, the bronze and the clothes; she lays them away and sets a stone against the doors (13.366–371; see [[door]]). Three manuscripts end 13.369 with the words of 13.120–121 instead, so that the gifts are once more given “through great-hearted Athena” (13.121; Monro's critical note on 13.369). The goods will lie “in caves by the will of the gods”, as he tells Telemachus (16.232, a plain rendering), while the suitors devour his substance at home (13.396, 13.428; see [[the-suitors]]).

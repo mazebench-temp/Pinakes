@@ -1,0 +1,5 @@
+---
+summary: When their ship has been turned to stone, the leaders and rulers of the Phaeacians make ready twelve picked bulls for Poseidon and pray to him standing around the altar; there, in the middle of a verse, the poem leaves them (13.179–187).
+---
+
+Alcinous bids the Phaeacians give up escorting strangers and sacrifice to Poseidon “twelve picked bulls / … in the hope that he may have pity / and not cover our city round about with a towering mountain” (13.181–183; see [[alcinous]], [[poseidon]], [[bulls]], [[hecatomb]] and [[the-migration-of-the-phaeacians]]). “So he spoke, and they were afraid, and made the bulls ready. / So they prayed to lord Poseidon, / the leaders and rulers of the people of the Phaeacians, / standing around the altar” (13.184–187; see [[prayer]] and [[phaeacians]]). With the same verse the poem turns to Ithaca, “And brilliant Odysseus woke” (13.187; see [[odysseus-set-ashore-on-ithaca]] and [[the-ship-turned-to-stone]]), and the Phaeacians are not seen again: whether the god had pity on them, or covered their city with the mountain, the poem does not tell.

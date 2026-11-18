@@ -15,7 +15,7 @@ en: [advantage, shrewd, better]
 
 The comparative κέρδιον, “more profitable, better”, is a word of deliberation. Speakers weigh one course against another, “it would be far better” (3.41, 7.28), and a recurring verse tells how a man in doubt found one course “better” (δοάσσατο κέρδιον εἶναι, 13.458, 14.23, 16.652, and often in the Odyssey). The adjective κερδαλέος, “shrewd, crafty”, can praise or blame. Odysseus speaks to Nausicaa “a soothing and shrewd word” (μειλίχιον καὶ κερδαλέον μῦθον, *Odyssey* 6.148). Achilles calls Agamemnon κερδαλεόφρων, “with your mind set on gain” (1.149), and Agamemnon throws the word at Odysseus (4.339; see [[mind-set-on-gain]]). Sisyphus was κέρδιστος, “the craftiest of men” (6.153; see [[craftiest]]). In the Iliad the singular κέρδος occurs only once, in Diomedes' maxim (10.225).
 
-The two senses, the gain and the craft that wins it, meet in Odysseus. When he tells the disguised Athena a lying tale on the shore of Ithaca, she answers that only a κερδαλέος man and a cheat could outdo him in tricks, and that they both know κέρδεα: he is the best of mortals in counsel and in words, and she is famed among the gods “for cunning and for κέρδεα” (μήτι τε … καὶ κέρδεσιν, *Odyssey* 13.291–299; see [[metis]] and [[odysseus]]). The origin of the word is uncertain; a connection with Old Irish *cerd*, “craft”, has been proposed.
+The two senses, the gain and the craft that wins it, meet in Odysseus, whom Athena calls the best of mortals in counsel and in words, as she herself is famed among the gods for μῆτις and κέρδεα (μήτι τε κλέομαι καὶ κέρδεσιν, *Odyssey* 13.296–299; see [[metis]] and [[odysseus]]). The origin of the word is uncertain; a connection with Old Irish *cerd*, “craft”, has been proposed.
 
 {{notes}}
 

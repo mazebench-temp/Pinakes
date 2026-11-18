@@ -1,0 +1,5 @@
+---
+summary: The Phaeacians spread a rug and a linen sheet for Odysseus on the deck at the stern of their ship, and there he lies down in silence and sleeps through the voyage (13.73–80).
+---
+
+“and for Odysseus they spread a rug and a linen sheet / on the deck of the hollow ship, so that he might sleep unwaking, / at the stern; and he himself went on board and lay down / in silence” (13.73–76; see [[blankets]], [[stern]], [[sleep]] and [[odysseus-set-ashore-on-ithaca]]). νηὸς ἐπʼ ἰκριόφιν is the phrase of Nestor's refusal to let the son of Odysseus “lie down on the deck of a ship” while he has a house (3.353; see the translation's row ἴκρια; νήγρετος). W. W. Merry, gathering the Homeric uses of ἴκρια, pictures Odysseus lying on a mattress on deck through the calm summer night, and cites πρυμνῆς (13.75) for a small deck at the stern, as 12.230 shows one at the bow, with the waist of the ship open between them (*Commentary on the Odyssey*, 1886, Appendix I §5; see the entry and [[ships]]). The crew sit down at the rowing benches (13.76; see [[rowing-benches]]), and he sleeps until they lift him ashore on Ithaca, bedding and all (13.79–92, 13.116–119).

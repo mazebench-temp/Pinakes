@@ -9,7 +9,9 @@ grc: [ἱστὸν]
 # ἱστόν at 22.440 is Andromache's loom.
 # ἱστόν at Od. 1.357, 2.94, 2.104 and 2.109 is the loom (the web); ἱστὸν at Od. 2.424 is the mast.
 # ἱστοὺς at Od. 7.105 are the women's looms (αἱ δʼ ἱστοὺς ὑφόωσι).
-except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109, Od. 5.62, Od. 7.105, Od. 10.222, Od. 10.226, Od. 10.254]
+# ἱστοὶ at Od. 13.107 are the nymphs' looms of stone (ἱστοὶ λίθεοι), which the loom's Book 13 note claims; the Book 6
+# note's ἱστοὶ is the masts of 6.271.
+except: [1.31, 3.125, 6.456, 6.491, 22.440, Od. 1.357, Od. 2.94, Od. 2.104, Od. 2.109, Od. 5.62, Od. 7.105, Od. 10.222, Od. 10.226, Od. 10.254, Od. 13.107]
 en: [mast]
 ---
 

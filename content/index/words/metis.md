@@ -15,7 +15,7 @@ en: [counselor, schemer, many wiles]
 
 Marcel Detienne and Jean-Pierre Vernant made μῆτις the subject of a classic study (*Les ruses de l'intelligence: la mètis des Grecs*, 1974; English *Cunning Intelligence in Greek Culture and Society*, 1978).
 
-The word stands in several compounds. Elsewhere in the poem Cronus is ἀγκυλομήτης, “of crooked counsel” (for instance 2.205). *Iliad* 1 has three.
+The word stands in several compounds. Zeus is μητίετα, “the counselor” (1.175), and, in Hera's angry mouth, δολομήτης, “schemer” (1.540); Cronus is ἀγκυλομήτης, “of crooked counsel” (2.205); and Odysseus is πολύμητις, “of many wiles” (1.311), and ποικιλομήτης, “of subtle wiles” (11.482). Among the gods it is above all Athena's: on the shore of Ithaca she tells Odysseus that he is the best of mortals in counsel and in words, and that she among all the gods is famed for μῆτις (*Odyssey* 13.296–299).
 
 {{notes}}
 

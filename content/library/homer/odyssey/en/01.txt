@@ -104,7 +104,7 @@
 101	of heroes, against whom she, the daughter of the mighty father, bears resentment.
 102	And she went darting down from the peaks of Olympus,
 103	and stood in the land of Ithaca at the doorway of Odysseus,
-104	on the threshold of the courtyard; and in her hand she held the bronze spear,
+104	on the threshold of the court; and in her hand she held the bronze spear,
 105	in the likeness of a stranger, the leader of the Taphians, Mentes.
 106	And she found the proud suitors. They at that time
 107	were delighting their hearts with game pieces in front of the doors,
@@ -425,7 +425,7 @@
 422	and took their delight, and waited for evening to come;
 423	and as they took their delight black evening came on.
 424	Then they went to lie down, each to his own house.
-425	But Telemachus, where his chamber in the beautiful courtyard
+425	But Telemachus, where his chamber in the beautiful court
 426	had been built high, in a place with a view all round,
 427	went there to his bed, pondering many things in his mind.
 428	And with him, carrying blazing torches, went true-hearted

@@ -1,0 +1,12 @@
+---
+summary: The book of cunning. Athena, revealed, tells Odysseus that he is the best of mortals in counsel and that she among all the gods is “famed for cunning and crafty ways” (13.299); she has come “to weave a plan with you” (13.303), and he asks her to “weave a plan” for his vengeance (13.386). The epithet πολύμητις introduces his three answers to her (13.311, 13.382, 13.416).
+# μήτι (13.299), first met here among the Odyssey's notes.
+grc: [μήτι]
+en: [cunning, a plan]
+---
+
+**Famed for cunning.** Athena smiles at the tale of the Cretan exile, and answers with a claim of kinship: “But come, let us no longer talk like this, since we both know / crafty ways; for you are by far the best of all mortals / in counsel and in words, and I among all the gods / am famed for cunning and crafty ways” (μήτι τε κλέομαι καὶ κέρδεσιν, 13.296–299; see [[kerdos]], [[aristos]], [[athena]] and [[the-first-cretan-tale]]). The first of these verses is the Iliad's for breaking off a talk, “But come, let us no longer talk like this, like children” (*Iliad* 13.292, 20.244); the children have become two who know the same arts. The goddess who in Hesiod is the daughter of Metis (see the entry) names μῆτις as her own fame among the gods, and Proclus quotes the verse when he explains why Athena, as the creator's intellect and a wisdom separate from matter, “is called Metis among the gods” (Proclus, *On the Timaeus* I 168 Diehl; see [[proclus-the-neoplatonist]]).
+
+**Weaving a plan.** She has come back to him “to weave a plan with you / and to hide the goods” (ἵνα τοι σὺν μῆτιν ὑφήνω, 13.303–304; see [[weaving]] and [[possessions]]), and when the goods are hidden and the two sit by the sacred olive, Odysseus asks her, “But come, weave a plan, how I may take vengeance on them” (ἀλλʼ ἄγε μῆτιν ὕφηνον, 13.386; see [[poine]] and [[the-suitors]]). The phrase is the Odyssey's for the suitors plotting Telemachus' death, “while they inside were weaving their plan” (4.678), and for Odysseus in the Cyclops' cave, “and I wove every kind of trick and plan” (9.422; see [[dolos]]); in the Iliad it is Nestor who “first of all began to weave a plan” for the council (*Iliad* 7.324, 9.93). Here the plan is woven by the goddess who has just taken the likeness of a woman “skilled in splendid handiwork” (13.289), together with the man she favors.
+
+**Of many wiles.** Each of Odysseus' three answers to her is introduced by the same verse, “Answering her, Odysseus of many wiles said” (πολύμητις, 13.311, 13.382, 13.416; see [[of-many-wiles]]).

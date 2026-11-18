@@ -12,7 +12,7 @@ of: [achilles]
 
 ## Meaning
 
-ἄρτιος (“fitting, ready”) + ἔπος (“word”): one whose words come ready to hand. In Hector's mouth it is reproach, joined to ἐπίκλοπος, “a cheat,” from the root of κλέπτω, “steal” (see the translation's table of key words). Homer has ἀρτιεπής once; ἐπίκλοπος is said three times in the Odyssey, each time of Odysseus: Alcinous does not take him for “a deceiver and a cheat” (*Odyssey* 11.364), Athena calls cunning and a cheat whoever would surpass him in tricks (*Odyssey* 13.291), and a suitor watching him handle the bow takes him for a connoisseur and a thief of bows (*Odyssey* 21.397).
+ἄρτιος (“fitting, ready”) + ἔπος (“word”): one whose words come ready to hand. In Hector's mouth it is reproach, joined to ἐπίκλοπος, “a cheat,” from the root of κλέπτω, “steal” (see the translation's table of key words). Homer has ἀρτιεπής once; ἐπίκλοπος is said three times in the Odyssey, each time of Odysseus: Alcinous does not take him for “a deceiver and a cheat” (*Odyssey* 11.364), Athena calls crafty and a cheat whoever would get past him in tricks (*Odyssey* 13.291), and a suitor watching him handle the bow takes him for a connoisseur and a thief of bows (*Odyssey* 21.397).
 
 ## Use
 
