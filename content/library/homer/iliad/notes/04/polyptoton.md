@@ -8,6 +8,6 @@ en: [I to you and you to me, man hurled man about]
 
 **The clash.** When the armies meet there are cries “from men killing and being killed” (ὀλλύντων τε καὶ ὀλλυμένων, 4.451): one verb, active and passive, for the two sides of every death (see [[the-armies-clash]]).
 
-**Man against man.** Over the body of Elephenor the Trojans and Achaeans leap on one another like wolves, ἀνὴρ δʼ ἄνδρʼ ἐδνοπάλιζεν, “and man hurled man about” (4.472; see [[like-wolves]]). The line ends the first fight over a body in the poem by reducing it to its units, one man and another. ἐδνοπάλιζεν, “hurled about, shook”, is found only here in the Iliad; the Odyssey has the same verb once, of the disguised Odysseus' beggar's rags (Odyssey 14.512).
+**Man against man.** Over the body of Elephenor the Trojans and Achaeans leap on one another like wolves, ἀνὴρ δʼ ἄνδρʼ ἐδνοπάλιζεν, “and man hurled man about” (4.472; see [[like-wolves]]). The line ends the first fight over a body in the poem by reducing it to its units, one man and another. ἐδνοπάλιζεν, “hurled about, shook”, is found only here in the Iliad; the Odyssey has the same verb once, of the disguised Odysseus' beggar's [[rags|rags]] (Odyssey 14.512).
 
 Two other repetitions in the book work the same way: Zeus asks what Priam “and the sons of Priam” (Πρίαμος Πριάμοιό τε παῖδες, 4.31, 4.35) have done to Hera, and Nestor says that younger men will wield the spears (αἰχμὰς δʼ αἰχμάσσουσι, 4.324), with noun and verb from one root.

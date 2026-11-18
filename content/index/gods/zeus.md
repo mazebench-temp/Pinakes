@@ -88,6 +88,8 @@ Son of [[Cronus]]. The patronymics Κρονίδης and Κρονίων name him 
 
 αἰγίοχος = αἰγίς (the aegis) + ἔχω (hold): aegis-bearing. The aegis is the terror-bringing goatskin shield that Zeus lends to Athena and Apollo in later books.
 
+ξείνιος, from ξεῖνος (stranger, guest): Zeus “of guests”, who protects strangers and punishes the wrongs done to them (see [[god-of-guests]] and [[xenia]]). Menelaus reproaches the Trojans who did not “fear the harsh wrath of Zeus who thunders loud, / god of guests, who will one day destroy your steep city” (13.624–625). In the Odyssey Odysseus warns the Cyclops that Zeus is “the avenger of suppliants and strangers, / the god of guests, who attends on revered strangers” (*Odyssey* 9.270–271), and on Ithaca the title returns in the [[the-tale-to-eumaeus|beggar's tale]] and in the swineherd's answer (*Odyssey* 14.283–284, 14.389). The suppliant has a title of his own, ἱκετήσιος (*Odyssey* 13.213; see [[god-of-suppliants]]).
+
 {{quote:4031e30e-b28b-576a-afb3-fc5ec2a4d4a0}}
 
 πατὴρ ἀνδρῶν τε θεῶν τε: father of men and gods, his most exalted title
@@ -105,5 +107,7 @@ See [[binding-of-zeus]]. Hephaestus' fall to Lemnos is another story from the ti
 ## Outside Homer
 
 In Hesiod's *Theogony* (453–506) Zeus is the youngest child of Cronus and Rhea, saved from being swallowed by his father when Rhea gave Cronus a stone wrapped in swaddling clothes. Grown, he freed his siblings, defeated the Titans with the help of the Hundred-Handers (617–735), and took the rule of the world. The *Theogony* also lists his marriages, ending with Hera (886–929).
+
+Tragedy and philosophy kept his title of guests, Ζεὺς ξένιος: see [[god-of-guests]].
 
 Phidias' gold-and-ivory Zeus at Olympia, finished around 430 BCE and counted among the Seven Wonders, was said to be modeled on Iliad 1.528–530. See [[phidias-zeus]].

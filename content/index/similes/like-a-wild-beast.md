@@ -3,11 +3,12 @@ title: Like a wild beast
 greek: θηρὶ ἐοικώς
 kind: simile
 tags: [wild-animal, warfare]
-summary: “Like a wild beast”, a half-verse comparison for a warrior moving through the throng. Menelaus ranges through the throng like a wild beast looking for Paris (3.449–450), and Ajax, when Zeus puts him to flight, falls back toward the throng glancing around like a wild beast, turning back again and again (11.544–547).
-aliases: [Menelaus like a wild beast, like a beast]
+summary: “Like a wild beast”, θηρὶ ἐοικώς, a half-verse comparison. In the Iliad it is said of a warrior moving through the throng: Menelaus ranges through the throng like a wild beast looking for Paris (3.449–450), and Ajax, when Zeus puts him to flight, falls back toward the throng glancing around like a wild beast, turning back again and again (11.544–547). In the Odyssey the plural is said of the four dogs that guard Eumaeus' swine (*Odyssey* 14.21).
+aliases: [Menelaus like a wild beast, like a beast, like wild beasts]
+# θήρεσσιν ἐοικότες, the plural (Od. 14.21), is claimed in the Odyssey's Book 14 note.
 grc: [θηρὶ ἐοικὼς]
 en: [like a wild beast]
-of: [menelaus]
+of: [menelaus, ajax, dogs]
 ---
 
 ## The simile
@@ -24,4 +25,4 @@ The simile closes the ring that opened with the lion. When Menelaus first saw Al
 
 ## Elsewhere in Homer
 
-The same phrase describes Telamonian Ajax when Zeus puts fear into him: he retreats toward the throng “like a wild beast”, looking about him and turning back step by step, and a lion simile follows (11.544–555). Antilochus runs from Hector “like a beast that has done some harm”, one that has killed a dog or a herdsman and flees before the men gather (15.586–588). The opening half-line, Ἀτρεΐδης δʼ ἀνʼ ὅμιλον ἐφοίτα (“the son of Atreus ranged through the throng”), is used again of Agamemnon, going through his army with many commands (5.528).
+The same phrase describes Telamonian Ajax when Zeus puts fear into him: he retreats toward the throng “like a wild beast”, looking about him and turning back step by step, and a lion simile follows (11.544–555). Antilochus runs from Hector “like a wild beast that has done some harm”, one that has killed a dog or a herdsman and flees before the men gather (15.586–588). The opening half-line, Ἀτρεΐδης δʼ ἀνʼ ὅμιλον ἐφοίτα (“the son of Atreus ranged through the throng”), is used again of Agamemnon, going through his army with many commands (5.528). In the Odyssey the comparison is made of dogs, not men: the four dogs that lie beside Eumaeus' swine are θήρεσσιν ἐοικότες, “like wild beasts” (*Odyssey* 14.21; see [[dogs]]).

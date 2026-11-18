@@ -3,7 +3,7 @@ title: Libya
 greek: Λιβύη
 kind: place
 tags: [africa]
-summary: The Greek name for Africa west of Egypt. In Homer it is a land of the far south where the lambs are horned at once and the flocks bear young three times a year (*Odyssey* 4.85–89); later Greeks settled Cyrene on its coast, and Aristotle names a kind of fable after it.
+summary: The Greek name for Africa west of Egypt. In Homer, who names it only in the Odyssey, it is a rich land of flocks at the end of Menelaus' wanderings, and the market to which the Phoenician of Odysseus' false tale meant to carry him and sell him; later Greeks settled Cyrene on its coast, and Aristotle names a kind of fable after it.
 aliases: [Libye]
 # Λιβύην (Od. 4.85; later 14.295) is the only form in Homer. The Rhetoric's Λιβυκοί, "Libyan" fables (1393a31), is
 # claimed by the Rhetoric note.
@@ -12,7 +12,7 @@ grc: [Λιβύην]
 
 ## In Homer
 
-Homer names Libya twice, both times in the Odyssey and in tales of wandering in the eastern Mediterranean. Menelaus came there in the eight years in which he gathered his wealth: it is the last of the lands he lists, “where the lambs are horned at once”, for the flocks bear young three times in the year, and neither master nor shepherd lacks cheese or meat or milk (*Odyssey* 4.83–89; see [[the-wanderings-of-menelaus]] and [[sheep]]). In the false tale that Odysseus tells Eumaeus, a Phoenician put him on a ship for Libya, meaning to sell him there (*Odyssey* 14.295–297, a plain rendering; see [[phoenicians]]).
+Homer names Libya twice, both times in the Odyssey and in tales of wandering in the eastern Mediterranean. Menelaus came there in the eight years in which he gathered his wealth: it is the last of the lands he lists, “where the lambs are horned at once”, for the flocks bear young three times in the year, and neither master nor shepherd lacks cheese or meat or milk (*Odyssey* 4.83–89; see [[the-wanderings-of-menelaus]] and [[sheep]]). In the false tale that Odysseus tells Eumaeus, a Phoenician put him on a ship for Libya, meaning to sell him there (*Odyssey* 14.295–297; see [[the-tale-to-eumaeus]] and [[phoenicians]]).
 
 {{notes}}
 

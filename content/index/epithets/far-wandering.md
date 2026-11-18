@@ -11,7 +11,7 @@ en: [wandering]
 
 ## Meaning
 
-πολύπλαγκτος = πολύς (“much, far”) + the root of πλάζω (“drive off course, make wander”): “much driven about.” In the Iliad it occurs only here, of the wind: the spray is scattered high “under the blast of the wandering wind” (11.308). In the Odyssey it describes men: the raiders with whom the disguised Odysseus says he was sent to Egypt (Od. 17.425), the beggar who looks like a man who has wandered (Od. 17.511), and the wanderers whom the gods plunge into misery (Od. 20.195). The verb is the one that sums up Odysseus' story in the second verse of the Odyssey: he “was driven far” (πλάγχθη, Od. 1.2).
+πολύπλαγκτος = πολύς (“much, far”) + the root of πλάζω (“drive off course, make wander”): “much driven about.” In the Iliad it occurs only here, of the wind: the spray is scattered high “under the blast of the wandering wind” (11.308). In the Odyssey it describes men: the raiders with whom the disguised Odysseus says he was sent to Egypt (Od. 17.425; see [[the-raid-on-egypt]]), the beggar who looks like a man who has wandered (Od. 17.511), and the wanderers whom the gods plunge into misery (Od. 20.195). The verb is the one that sums up Odysseus' story in the second verse of the Odyssey: he “was driven far” (πλάγχθη, Od. 1.2).
 
 ## Use
 

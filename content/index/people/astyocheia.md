@@ -14,4 +14,4 @@ relations:
 
 τὴν ἄγετʼ: "he brought her away". The middle of ἄγω is the verb for a man taking a woman home as his wife, and ἄγω is also used of captives led off from a sacked town. Here it is both: Heracles took her when he had sacked "many cities of young men whom Zeus had nurtured".
 
-Later genealogists call her Astyoche, daughter of Phylas, king of the Thesprotian Ephyra (Apollodorus 2.7.6, 2.7.8). Pindar gives Tlepolemus' mother a different name, Astydameia (*Olympian* 7.24). Not the Astyoche of Orchomenus, mother of Ascalaphus and Ialmenus (2.513; see [[astyoche]]).
+Later genealogists call her Astyoche, daughter of Phylas, king of the [[thesprotians|Thesprotian]] Ephyra (Apollodorus 2.7.6, 2.7.8). Pindar gives Tlepolemus' mother a different name, Astydameia (*Olympian* 7.24). Not the Astyoche of Orchomenus, mother of Ascalaphus and Ialmenus (2.513; see [[astyoche]]).

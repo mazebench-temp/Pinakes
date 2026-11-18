@@ -19,4 +19,4 @@ Hermes is "Cyllenian" (Κυλλήνιος) when he leads the souls of the suitor
 
 ## Outside Homer
 
-The Homeric Hymn to Hermes begins with his birth to Maia in a cave on Cyllene (1–7).
+The Homeric Hymn to Hermes begins with his birth to [[maia|Maia]] in a cave on Cyllene (1–7).

@@ -16,6 +16,6 @@ The translation renders εὐδείελος “clear-seen,” from εὖ, “wel
 
 ## Use
 
-It is used seven times, always in the Odyssey, and six of them name Ithaca, most often in the verse-end Ἰθάκην εὐδείελον: in Halitherses' warning to the islanders (*Odyssey* 2.167), when Odysseus names his home to the Phaeacians (*Odyssey* 9.21), twice when Odysseus, set down on Ithaca, will not believe that he is there (*Odyssey* 13.212, 13.325), in his false tale to Eumaeus (*Odyssey* 14.344), and in Penelope's account of the nobles who woo her (*Odyssey* 19.132). Once it is said of an island in general, when Odysseus, not knowing where he is, asks whether this is one of the clear-seen islands or a shore of the mainland (*Odyssey* 13.234). See [[ithaca]].
+It is used seven times, always in the Odyssey, and six of them name Ithaca, most often in the verse-end Ἰθάκην εὐδείελον: in Halitherses' warning to the islanders (*Odyssey* 2.167), when Odysseus names his home to the Phaeacians (*Odyssey* 9.21), twice when Odysseus, set down on Ithaca, will not believe that he is there (*Odyssey* 13.212, 13.325), in his false tale to Eumaeus (*Odyssey* 14.344; see [[the-tale-to-eumaeus]]), and in Penelope's account of the nobles who woo her (*Odyssey* 19.132). Once it is said of an island in general, when Odysseus, not knowing where he is, asks whether this is one of the clear-seen islands or a shore of the mainland (*Odyssey* 13.234). See [[ithaca]].
 
 {{notes}}

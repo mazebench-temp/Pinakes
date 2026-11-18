@@ -12,6 +12,6 @@ grc: [αἰγῶν, αἶγες, ἐρίφων, ἐρίφους, τράγους]
 en: [goats, kids, he-goats]
 ---
 
-αἴξ is the goat. Goats graze in flocks under goatherds, and with sheep they make up the μῆλα, the small livestock of the Homeric farm. A rich man counts them among his herds: Odysseus had twelve wide flocks of goats on the mainland and eleven on Ithaca (Odyssey 14.100–104). They are eaten, and they are sacrificed, often together with [[bulls|bulls]] or [[lambs|lambs]] (see [[sacrifice|sacrifice]]). The wild goat is hunted. Pandarus' bow was made from the horns of one he had shot himself (Iliad 4.105–111). The young are kids, ἔριφοι, named with the lambs in the phrase ἀρνῶν ἠδʼ ἐρίφων (Iliad 24.262; *Odyssey* 9.220, 17.242, 19.398), and the male is the τράγος, named once, among the Cyclops' flocks (*Odyssey* 9.239).
+αἴξ is the goat. Goats graze in flocks under goatherds, and with sheep they make up the μῆλα, the small livestock of the Homeric farm. A rich man counts them among his herds: Odysseus had twelve wide flocks of goats on the mainland and eleven on Ithaca (*Odyssey* 14.100–104). They are eaten, and they are sacrificed, often together with [[bulls|bulls]] or [[lambs|lambs]] (see [[sacrifice|sacrifice]]). The wild goat is hunted. Pandarus' bow was made from the horns of one he had shot himself (*Iliad* 4.105–111). The young are kids, ἔριφοι, named with the lambs in the phrase ἀρνῶν ἠδʼ ἐρίφων (*Iliad* 24.262; *Odyssey* 9.220, 17.242, 19.398), and the male is the τράγος, named once, among the Cyclops' flocks (*Odyssey* 9.239).
 
 {{notes}}

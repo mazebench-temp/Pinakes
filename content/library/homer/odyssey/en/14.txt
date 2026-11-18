@@ -1,0 +1,536 @@
+# Homer, Odyssey, Book 14 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	But he went up from the harbor by the rugged path
+2	through the wooded country, among the heights, to where Athena
+3	had shown him the brilliant swineherd, who cared most for his substance
+4	of all the servants that brilliant Odysseus had acquired.
+5	He found him sitting in the porch, where his fold
+6	had been built high, in a place with a view all round,
+7	beautiful and great, with a clear space all around; the swineherd
+8	had built it himself for the swine, while his master was away,
+9	without his mistress and old Laertes,
+10	with hauled stones, and had topped it with a coping of wild pear;
+11	and outside he had driven stakes from end to end, this way and that,
+12	thick and close-set, splitting off the dark heart of the oak;
+13	and within the fold he had made twelve sties
+14	close to one another, beds for the swine; and in each
+15	fifty swine that sleep on the ground were penned,
+16	breeding sows; but the boars lay outside,
+17	far fewer; for these kept dwindling, eaten
+18	by the godlike suitors, since the swineherd sent them
+19	always the best of all the well-fed fat hogs;
+20	and they numbered three hundred and sixty.
+21	And beside them always lay the dogs, like wild beasts,
+22	four of them, which the swineherd, leader of men, had reared.
+23	And he himself was fitting sandals about his feet,
+24	cutting a good-colored oxhide; and the others
+25	had gone off this way and that with the herded swine,
+26	three of them; and the fourth he had sent to the city
+27	to take a boar to the overbearing suitors, under compulsion,
+28	so that they might sacrifice it and have their hearts' fill of meat.
+29	Suddenly the barking dogs caught sight of Odysseus.
+30	And they ran at him, baying; but Odysseus
+31	sat down, by craft, and the staff fell from his hand.
+32	There by his own farmstead he would have suffered shameful pain;
+33	but the swineherd, following quickly on swift feet,
+34	rushed out through the gateway, and the leather fell from his hand.
+35	He shouted at the dogs and drove them this way and that,
+36	with showers of stones; and he spoke to his master:
+37	“Old man, truly the dogs came near to tearing you to pieces
+38	all of a sudden, and you would have poured disgrace on me.
+39	And the gods have given me other sorrows and groaning;
+40	for, mourning and grieving for my godlike master,
+41	I sit here, and rear fat hogs for others
+42	to eat; while he, perhaps yearning for food,
+43	wanders over the land and the city of men of another tongue,
+44	if he still lives somewhere and looks on the light of the sun.
+45	But follow me, let us go to the hut, old man, so that you too,
+46	when you have had your heart's fill of bread and wine,
+47	may tell me where you are from and how many sorrows you have endured.”
+48	So saying, the brilliant swineherd led the way to the hut,
+49	and brought him in and seated him, and strewed thick brushwood beneath him,
+50	and spread on it the hide of a shaggy wild goat,
+51	his own bedding, great and thick. And Odysseus rejoiced
+52	that he received him so, and he spoke to him, and called him by name:
+53	“May Zeus grant you, stranger, and the other immortal gods,
+54	what you most desire, since you have received me gladly.”
+55	Answering him, you said, swineherd Eumaeus:
+56	“Stranger, it is not lawful for me, not even if one more wretched than you should come,
+57	to dishonor a stranger; for they are all from Zeus,
+58	strangers and beggars, and a gift is small but dear,
+59	when it comes from us; for that is the way of slaves,
+60	who are always afraid, when masters hold command over them,
+61	the young ones. For truly the gods have bound up the homecoming of that man
+62	who would have loved me with care and granted me wealth,
+63	such as a kind-hearted master gives to his servant,
+64	a house and an allotment and a much-wooed wife,
+65	when he has toiled much for him, and a god makes his work grow,
+66	as this work of mine grows, at which I stay.
+67	So my master would have helped me greatly, if he had grown old here;
+68	but he has perished—would that the race of Helen had perished utterly,
+69	brought to its knees, since she loosed the knees of many men;
+70	for he too went, to win satisfaction for Agamemnon,
+71	to Ilios of the fine horses, to fight the Trojans.”
+72	So saying, he quickly drew his tunic tight with his belt,
+73	and went to the sties, where the herds of porkers were penned.
+74	From there he chose two and brought them, and sacrificed them both,
+75	and singed them and cut them up and threaded them on spits.
+76	And when he had roasted it all, he brought it and set it before Odysseus,
+77	hot, on the spits as they were; and he sprinkled white barley meal on it;
+78	and in an ivy-wood bowl he mixed honey-sweet wine,
+79	and he himself sat facing him, and urged him on and said:
+80	“Eat now, stranger, what slaves have here,
+81	porkers; but the fat hogs the suitors eat,
+82	with no thought in their minds of the gods' regard, nor any pity.
+83	The blessed gods do not love cruel deeds,
+84	but honor justice and the righteous deeds of men.
+85	Even men hostile and merciless, who set foot on another's
+86	land, and Zeus gives them spoil,
+87	and they fill their ships and set out to go home,
+88	even on their minds falls a mighty fear of the gods' regard.
+89	But these men know something—they have heard some voice of a god—
+90	of that man's grim destruction, since they will not woo
+91	justly, nor go back to their own, but at their ease
+92	they devour his possessions overweeningly, and there is no sparing.
+93	For as many nights and days as come from Zeus,
+94	they never sacrifice one victim only, nor two;
+95	and they waste the wine, drawing it off overweeningly.
+96	For truly his livelihood was untold; no one of the heroes
+97	had so much, neither on the dark mainland
+98	nor in Ithaca itself; not even twenty men together
+99	have so much wealth; and I will recount it to you.
+100	Twelve herds of cattle on the mainland; as many flocks of sheep,
+101	as many droves of pigs, as many wide-ranging herds of goats,
+102	which strangers and his own herdsmen graze.
+103	And here, in all, eleven wide-ranging herds of goats
+104	graze at the far edge, and good men keep watch over them.
+105	Each one of these always brings them a beast for the day,
+106	whichever of the well-fed goats seems the best.
+107	But I guard these swine here and protect them,
+108	and I pick out the best of the swine with care and send it to them.”
+109	So he spoke; and the other heartily ate the meat and drank the wine,
+110	greedily, in silence, and he was planting evils for the suitors.
+111	But when he had dined and satisfied his heart with food,
+112	then he filled the bowl from which he himself drank and gave it to him,
+113	full of wine; and he received it, and rejoiced in his heart,
+114	and he spoke to him, addressing him with winged words:
+115	“My friend, who was it that bought you with his own possessions,
+116	so very rich and mighty as you say?
+117	And you say that he perished to win satisfaction for Agamemnon.
+118	Tell me, in case I may know him, being such a man.
+119	Zeus knows, I suppose, and the other immortal gods,
+120	whether I might bring news of having seen him; for I have wandered far.”
+121	Then the swineherd, leader of men, answered him:
+122	“Old man, no man who comes here from his wanderings
+123	bringing news of him could persuade his wife and his dear son;
+124	but vagrants wanting keep tell lies at random,
+125	and do not wish to tell the truth.
+126	Whoever comes wandering to the land of Ithaca
+127	goes to my mistress and speaks deceits;
+128	and she receives him well and makes him welcome and questions him about each thing,
+129	and as she mourns, the tears fall from her eyelids,
+130	as is the custom of a woman, when her husband has perished far away.
+131	Quickly you too, old sir, would fashion a tale,
+132	if someone would give you a cloak and a tunic as clothing.
+133	Already the dogs and the swift birds must have
+134	torn the skin from his bones, and his soul has left him;
+135	or else the fish have eaten him in the sea, and his bones
+136	lie on the mainland, wrapped in deep sand.
+137	So he has perished there, and sorrows hereafter are made ready
+138	for all his friends, and for me most of all; for never again another
+139	master so kind shall I find, wherever I go,
+140	not even if I should come again to my father's and mother's
+141	house, where I was first born, and they themselves reared me.
+142	Nor do I mourn so much for them any longer, eager though I am
+143	to see them with my eyes, being in my native land;
+144	but longing for Odysseus, who is gone, takes hold of me.
+145	Him, stranger, even though he is not here, I feel shame
+146	to name; for he loved me greatly and cared for me in his heart;
+147	but I call him dear master, even though he is far away.”
+148	Then much-enduring brilliant Odysseus spoke to him in turn:
+149	“My friend, since you deny it utterly, and say no longer
+150	that he will come, and your heart is always unbelieving,
+151	yet I will not speak idly, but with an oath,
+152	that Odysseus is coming home; and let me have a reward for good news
+153	at once, when he comes and reaches his own house:
+154	clothe me in a cloak and a tunic, fine clothes;
+155	but before that, though I am in great want, I would accept nothing.
+156	For hateful to me as the gates of Hades is that man
+157	who, giving way to poverty, speaks deceits.
+158	Now let Zeus be witness first of the gods, and the table of hospitality,
+159	and the hearth of noble Odysseus, to which I have come:
+160	truly all these things will be fulfilled as I say.
+161	In this very year Odysseus will come here;
+162	as the old month wanes and the new begins,
+163	he will come home, and will take vengeance on whoever
+164	here dishonors his wife and his shining son.”
+165	Answering him, you said, swineherd Eumaeus:
+166	“Old man, I shall never pay you that reward for good news,
+167	nor will Odysseus ever come home again; but at your ease
+168	drink, and let us think of other things, and do not remind me
+169	of these; for truly the heart in my breast
+170	grieves whenever anyone reminds me of my devoted master.
+171	But let us leave the oath alone, and may Odysseus
+172	come, as I wish it, and as Penelope does,
+173	and the old man Laertes, and godlike Telemachus.
+174	But now again I mourn, past forgetting, for the son whom Odysseus begot,
+175	Telemachus; when the gods had reared him like a sapling,
+176	and I thought that he would be among men in no way inferior
+177	to his dear father, admirable in form and looks,
+178	then one of the immortals harmed the well-balanced mind within him,
+179	or one of men; and he has gone in search of news of his father
+180	to sacred Pylos; and the noble suitors
+181	lie in ambush for him on his way home, so that the race
+182	of godlike Arceisius may perish utterly from Ithaca, nameless.
+183	But let us leave him alone, whether he is caught
+184	or escapes, and the son of Cronus holds his hand over him.
+185	But come, old sir, tell me of your own sorrows,
+186	and tell me this truly, so that I may know it well:
+187	Who are you among men, and from where? Where are your city and your parents?
+188	And on what sort of ship did you come? And how did sailors
+189	bring you to Ithaca? Who did they claim to be?
+190	For I do not think that you came here on foot.”
+191	Answering him, Odysseus of many wiles said:
+192	“Well then, I will tell you all this very exactly.
+193	May there now be, for us two, for a long time, both food
+194	and sweet wine, as we stay inside the hut,
+195	to feast on in silence, while others go about the work;
+196	then easily, even for a whole year,
+197	I could not come to the end of telling the sorrows of my heart,
+198	all that I have toiled through by the will of the gods.
+199	I claim that my line is from wide Crete,
+200	the son of a rich man; and many other
+201	sons too were born and reared in his halls,
+202	lawful sons of his wife; but me a bought mother bore,
+203	a concubine; yet he honored me equally with his true-born sons,
+204	Castor, son of Hylax, of whose line I claim to be,
+205	who was honored then among the Cretans by the people like a god
+206	for his prosperity and wealth and his glorious sons.
+207	But the fates of death came and carried him away
+208	to the house of Hades; and his livelihood was divided
+209	by his high-hearted sons, who cast lots for it,
+210	but to me they gave very little, and allotted me a house.
+211	And I took a wife from people of many allotments
+212	for my excellence, since I was no worthless man
+213	nor one who fled from war; but now all that has left me;
+214	but even so, looking at the stubble, I think you can
+215	tell what it was; for truly great misery holds me, beyond measure.
+216	Truly Ares and Athena gave me daring
+217	and the strength that breaks men; whenever I picked for an ambush
+218	the best men, planting evils for the enemy,
+219	never did my proud spirit foresee death,
+220	but leaping out far the first I would kill with my spear
+221	whatever man of the enemy gave way before me with his feet.
+222	Such was I in war; but work was never dear to me,
+223	nor the care of a household, which rears splendid children,
+224	but ships with oars were always dear to me,
+225	and wars, and well-polished javelins, and arrows,
+226	grim things, which to others are things to shudder at.
+227	But to me those things were dear which, I suppose, a god put in my mind;
+228	for different men take delight in different works.
+229	For before the sons of the Achaeans set foot on Troy,
+230	nine times I led men and swift-sailing ships
+231	against foreign men, and very much fell to my lot.
+232	From this I picked out what satisfied my heart, and much afterward
+233	I received by lot; and quickly my house grew, and then
+234	I was feared and respected among the Cretans.
+235	But when far-seeing Zeus devised that hateful journey,
+236	which loosed the knees of many men,
+237	then they bade me and far-famed Idomeneus
+238	lead the ships to Ilios; and there was no means
+239	to refuse, for the harsh talk of the people held us.
+240	There we sons of the Achaeans fought for nine years,
+241	and in the tenth we sacked the city of Priam and set out
+242	for home with the ships, and a god scattered the Achaeans.
+243	But for me, wretched man, Zeus the counselor devised evils.
+244	For only one month I stayed, taking delight in my children
+245	and my wedded wife and my possessions; but then
+246	my heart bade me sail to Egypt,
+247	when I had fitted out ships well, with my godlike companions.
+248	Nine ships I fitted out, and the men quickly gathered.
+249	For six days then my trusty companions
+250	feasted; and I provided many victims
+251	to sacrifice to the gods and to prepare a feast for themselves.
+252	And on the seventh day we went aboard and from wide Crete
+253	we sailed with a fresh and fair North Wind,
+254	easily, as if downstream; and not one of my
+255	ships came to harm, but unharmed and free of sickness
+256	we sat, and the wind and the helmsmen steered the ships.
+257	On the fifth day we came to the fair-flowing Aegyptus,
+258	and in the river Aegyptus I brought my curving ships to a halt.
+259	Then indeed I bade my trusty companions
+260	stay there beside the ships and guard the ships,
+261	and I urged on scouts to go to the lookouts;
+262	but they, giving way to arrogance, following their own might,
+263	at once the beautiful fields of the Egyptian men
+264	they laid waste, and carried off the women and the little children,
+265	and killed the men; and quickly the cry came to the city.
+266	And they heard the shout, and when dawn appeared
+267	they came; and the whole plain was filled with foot soldiers and horses
+268	and the flash of bronze; and Zeus who delights in thunder
+269	cast evil panic among my companions, and no one dared
+270	to stand and face them; for evils stood about us on every side.
+271	There they killed many of us with the sharp bronze,
+272	and others they led up inland alive, to work for them under compulsion.
+273	But Zeus himself put this thought in my mind
+274	—would that I had died and met my fate
+275	there in Egypt; for a bane was still waiting for me—
+276	at once I took the well-made helmet from my head
+277	and the shield from my shoulders, and threw the spear from my hand;
+278	and I went to meet the horses of the king
+279	and clasped his knees and kissed them; and he protected me and pitied me,
+280	and seating me in his chariot he took me home as I shed tears.
+281	Truly very many rushed at me with their ash spears,
+282	eager to kill me—for they were very angry—
+283	but he kept them off, and had regard for the wrath of Zeus,
+284	the god of guests, who most of all is indignant at evil deeds.
+285	There I stayed for seven years, and I gathered many
+286	goods among the Egyptian men; for they all gave to me.
+287	But when the eighth year came round in its course,
+288	then came a Phoenician man, skilled in deceits,
+289	a greedy rogue, who had already done many evils to men;
+290	he took me away, winning me over by his cunning, until we came
+291	to Phoenicia, where his house and his possessions lay.
+292	There I stayed with him for a full year's round.
+293	But when the months and the days were being fulfilled
+294	as the year circled round again, and the seasons came round,
+295	he put me on board a seafaring ship bound for Libya,
+296	having planned lies, so that I might take a cargo there with him,
+297	but there, in truth, so that he might sell me and get an untold price.
+298	I followed him on board, suspecting it, but under compulsion.
+299	And she ran before a fresh and fair North Wind,
+300	on the mid-sea course past Crete; and Zeus devised destruction for them.
+301	But when we were leaving Crete, and no other
+302	land appeared, but only sky and sea,
+303	then the son of Cronus set a dark cloud
+304	above the hollow ship, and the sea grew dark beneath it.
+305	And at the same moment Zeus thundered and hurled his thunderbolt at the ship;
+306	and she shook all over, struck by the thunderbolt of Zeus,
+307	and was filled with sulfur; and all fell out of the ship.
+308	And like sea crows around the black ship
+309	they were carried on the waves, and the god took away their homecoming.
+310	But for me, Zeus himself, though I had sorrows in my heart,
+311	put the mast of vast length of the dark-prowed ship
+312	into my hands, so that I might still escape bane.
+313	Clinging to it I was borne along by the deadly winds.
+314	For nine days I was borne along; and on the tenth black night
+315	a great rolling wave brought me to the land of the Thesprotians.
+316	There the king of the Thesprotians, Pheidon, took care of me,
+317	the hero, without price; for his dear son came upon me
+318	overcome by cold and weariness, and led me home,
+319	raising me by the hand, until he came to his father's house;
+320	and he put a cloak and a tunic about me as clothing.
+321	There I heard of Odysseus; for the king said
+322	that he had entertained him and made him welcome on his way to his native land,
+323	and he showed me the possessions that Odysseus had gathered,
+324	bronze and gold and iron worked with much toil.
+325	It would feed another man to the tenth generation,
+326	so many treasures of his lay stored in the halls of the lord.
+327	And he said that he had gone to Dodona, so that from the god's
+328	high-leafed oak he might hear the will of Zeus,
+329	how he should return to the rich land of Ithaca,
+330	after being away so long, openly or in secret.
+331	And he swore to me myself, pouring libations in his house,
+332	that the ship had been drawn down and the companions were ready
+333	who would take him to his dear native land.
+334	But he sent me off first; for a ship happened to be going
+335	of Thesprotian men to Dulichium, rich in wheat.
+336	There he bade them take me to King Acastus
+337	with care; but an evil counsel pleased their minds
+338	concerning me, so that I might yet come utterly to a bane of misery.
+339	But when the seafaring ship had sailed far from the land,
+340	at once they contrived the day of slavery for me.
+341	They stripped me of my cloak and my tunic, my clothing,
+342	and around me they put, instead, a vile rag and a tunic,
+343	rent, which you see with your own eyes;
+344	and in the evening they came to the tilled fields of clear-seen Ithaca.
+345	There they bound me fast in the well-benched ship
+346	with a well-twisted rope, firmly, and they themselves went ashore
+347	and hastily took their supper beside the shore of the sea.
+348	But the gods themselves undid my bonds
+349	easily; and covering my head with the rag,
+350	I slid down the polished lading plank and brought to the sea
+351	my chest, and then I rowed through it with both my hands,
+352	swimming, and very quickly I was out of the water, away from them.
+353	There I went up to where there was a thicket in the flowering forest,
+354	and lay crouching. And they, groaning loudly,
+355	went to and fro; but since it seemed to them no better
+356	to search further, they went back again
+357	on board the hollow ship; and the gods themselves hid me
+358	easily, and they brought me and set me at the farmstead
+359	of a man of understanding; for it is still my lot to live.”
+360	Answering him, you said, swineherd Eumaeus:
+361	“Ah, wretched stranger, truly you have stirred my heart greatly
+362	by telling all these things, how much you have suffered and how far you have wandered.
+363	But in this, I think, you have not spoken aright, nor will you persuade me
+364	with what you say of Odysseus. Why should a man like you
+365	lie for no reason? I know well myself
+366	of my master's homecoming, that he was hated by all the gods
+367	utterly, since they did not bring him down among the Trojans
+368	or in the arms of his friends, when he had wound out the war.
+369	Then all the Achaeans would have made a tomb for him,
+370	and he would have won great fame for his son too in days to come.
+371	But now the Harpies have snatched him away without report.
+372	But I live apart, among the swine; nor do I go to the city,
+373	unless perhaps prudent Penelope
+374	urges me to come, when news comes from somewhere.
+375	Then they sit beside the man and question him about each thing,
+376	both those who grieve for their master, who has long been gone,
+377	and those who rejoice as they eat his substance without payment;
+378	but it is no pleasure to me to question and to ask,
+379	ever since an Aetolian man beguiled me with a tale,
+380	who had killed a man, and after wandering far over the earth
+381	came to my house; and I welcomed him warmly.
+382	He said he had seen him among the Cretans, with Idomeneus,
+383	mending his ships, which the storm winds had shattered;
+384	and he said he would come either by summer or by the late summer,
+385	bringing many goods, with his godlike companions.
+386	And you too, old man of many sorrows, since a god has brought you to me,
+387	do not try to please me with lies, nor bewitch me with them;
+388	for it is not for that reason that I shall respect you or make you welcome,
+389	but in fear of Zeus, the god of guests, and in pity for you yourself.”
+390	Answering him, Odysseus of many wiles said:
+391	“Truly the heart in your breast is very unbelieving,
+392	seeing that not even with an oath have I won you over, nor do I persuade you.
+393	But come now, let us make a compact; and hereafter
+394	let the gods who hold Olympus be witnesses for us both.
+395	If your master comes home to this house,
+396	clothe me in a cloak and a tunic as clothing, and send me
+397	to go to Dulichium, where my heart was glad to go;
+398	but if your master does not come as I say,
+399	set your slaves on me and throw me down from a great rock,
+400	so that another beggar too may avoid deceiving.”
+401	Answering him, the brilliant swineherd said:
+402	“Stranger, so indeed would I have good fame and prosperity
+403	among men, both now and hereafter,
+404	if, after I had brought you into my hut and given you good cheer,
+405	I should then kill you and take away your dear life;
+406	readily, after that, would I pray to Zeus, son of Cronus!
+407	But now it is time for supper; may my companions be inside
+408	very soon, so that we may make ready a pleasant supper in the hut.”
+409	So they spoke such words to one another,
+410	and the swine and the men, the swineherds, came near.
+411	They penned the sows in their haunts to sleep,
+412	and an untold clamor arose from the swine as they were stalled for the night;
+413	but the brilliant swineherd called to his companions:
+414	“Bring the best of the swine, so that I may sacrifice it for the stranger
+415	from a far land; and we ourselves shall have profit of it too, who have endured misery
+416	for long, suffering because of the white-tusked hogs,
+417	while others eat up our labor without payment.”
+418	So he spoke, and split wood with the pitiless bronze,
+419	and they brought in a very fat boar, five years old.
+420	They set it by the hearth; nor did the swineherd
+421	forget the immortals; for his mind was good;
+422	but he made the first offering, throwing into the fire hairs from the head
+423	of the white-tusked boar, and he prayed to all the gods
+424	that Odysseus of much wisdom should return to his own house.
+425	And raising his arm he struck it with a billet of oak, which he had kept back when splitting,
+426	and its soul left it. And they cut its throat and singed it,
+427	and quickly they jointed it; and the swineherd laid raw flesh,
+428	taking the first offerings from all the limbs, in the rich fat,
+429	and these he threw into the fire, sprinkling them with the meal of barley;
+430	they cut up the rest and threaded it on spits,
+431	and roasted it carefully, and drew it all off,
+432	and they threw it on the platters all together; and the swineherd
+433	stood up to carve; for in his mind he knew well what was due.
+434	And cutting it, he divided it all into seven portions;
+435	one he set aside for the nymphs and for Hermes, son of Maia,
+436	with a prayer, and the others he gave to each;
+437	and he honored Odysseus with the long chine
+438	of the white-tusked boar, and gladdened the heart of his master;
+439	and Odysseus of many wiles spoke to him and said:
+440	“Would that you, Eumaeus, might be as dear to father Zeus
+441	as you are to me, since you honor me with good things, such as I am.”
+442	Answering him, you said, swineherd Eumaeus:
+443	“Eat, strange guest, and take your delight in these things,
+444	such as they are; and the god will give one thing and let another be,
+445	whatever he wishes in his heart; for he can do all things.”
+446	He spoke, and made an offering of the firstling pieces to the everlasting gods,
+447	and when he had poured a libation of sparkling wine, to Odysseus, sacker of cities,
+448	he put it into his hands; and he sat down by his own portion.
+449	And Mesaulius served them bread, whom the swineherd
+450	had acquired by himself alone, while his master was away,
+451	without his mistress and old Laertes;
+452	and he had bought him from the Taphians with his own possessions.
+453	And they put out their hands to the good things lying ready before them.
+454	But when they had put away the desire for drink and food,
+455	Mesaulius took away their bread, and they hastened to bed,
+456	full of bread and meat.
+457	And an evil night came on, a night without a moon, and Zeus rained
+458	all night long, and a great West Wind blew, always wet.
+459	And Odysseus spoke among them, testing the swineherd,
+460	whether he would take off his cloak and give it to him, or urge one of his companions
+461	to do so, since he cared for him greatly:
+462	“Hear me now, Eumaeus, and all you other companions;
+463	I will speak a word with a wish; for the wine bids me,
+464	the mad wine, which sets even a man of much wisdom to sing
+465	and to laugh softly, and stirs him up to dance,
+466	and brings out a word that is better left unsaid.
+467	But since I have once spoken out, I will not hide it.
+468	If only I were young like that, and my strength were steadfast,
+469	as when we prepared an ambush beneath Troy and led it.
+470	Odysseus and Menelaus, son of Atreus, were the leaders,
+471	and with them I was third in command; for they themselves bade me.
+472	But when we came to the city and the steep wall,
+473	As for us, around the city in the thick brushwood,
+474	among the reeds and the marsh, crouching under our armor,
+475	we lay. And an evil night came on, when the North Wind fell,
+476	freezing; and from above came snow like hoarfrost,
+477	cold, and ice grew thick on our shields.
+478	Then all the others had cloaks and tunics,
+479	and slept at ease, their shoulders wrapped in their shields;
+480	but I had left my cloak with my companions when I went,
+481	in my folly, since I did not think I would be cold even so,
+482	but I followed with only my shield and my shining kilt.
+483	But when it was the third part of the night, and the stars had passed over,
+484	then I spoke to Odysseus, who was near me,
+485	nudging him with my elbow; and he was quick to listen:
+486	‘Son of Laertes, sprung from Zeus, Odysseus of many devices,
+487	I shall no longer be among the living, but the cold
+488	is bringing me down; for I have no cloak; a god beguiled me
+489	into wearing only a tunic; and now there is no more escape.’
+490	So I spoke, and then he had this thought in his heart,
+491	such a man was he at planning and at fighting;
+492	and speaking in a low voice he said to me:
+493	‘Be silent now, so that no other man of the Achaeans hears you.’
+494	He spoke, and propped his head on his elbow and said:
+495	‘Hear me, friends: a divine Dream came to me in my sleep.
+496	For we have come very far from the ships; but would that someone
+497	would go and tell Agamemnon, son of Atreus, shepherd of the people,
+498	whether he might urge more men to come from the ships.’
+499	So he spoke, and then Thoas, son of Andraemon, rose
+500	quickly, and laid aside his crimson cloak,
+501	and set off running to the ships; and in his clothing
+502	I lay gladly, and Dawn of the golden throne shone forth.
+503	If only I were young like that now, and my strength were steadfast;
+504	then someone in the farmstead of the swineherds would give me a cloak,
+505	for both reasons, out of friendship and respect for a good man;
+506	but now they dishonor me, because I have wretched clothes on my body.”
+507	Answering him, you said, swineherd Eumaeus:
+508	“Old man, the tale you have told is flawless,
+509	and you have not yet spoken any word amiss or profitless;
+510	so you shall not lack clothing, nor anything else
+511	that is fitting for a much-tried suppliant who has come our way,
+512	for now; but at dawn you will knock about in your own rags.
+513	For we have not many cloaks here, or tunics to change into
+514	to put on, but only one for each man.
+515	But when the dear son of Odysseus comes,
+516	he himself will give you a cloak and a tunic as clothing,
+517	and will send you wherever your heart and spirit bid you.”
+518	So saying, he sprang up, and set for him near the fire
+519	a bed, and threw on it the skins of sheep and goats.
+520	There Odysseus lay down; and he threw over him a cloak,
+521	thick and large, which he kept by him to change into,
+522	to wear whenever some terrible storm arose.
+523	So Odysseus slept there, and beside him
+524	the young men slept; but the swineherd
+525	did not like to sleep there, away from the boars,
+526	but he went outside and made himself ready; and Odysseus rejoiced
+527	that he cared so much for his substance while he was far away.
+528	First he slung his sharp sword about his massive shoulders,
+529	and put on a cloak that kept off the wind, very thick,
+530	and took up the fleece of a large, well-fed goat,
+531	and took a sharp javelin, a defense against dogs and men.
+532	And he went to lie down where the white-tusked hogs
+533	slept beneath a hollow rock, sheltered from the North Wind.

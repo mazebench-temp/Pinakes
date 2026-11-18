@@ -1,0 +1,16 @@
+---
+summary: The stranger eats in silence, planting evils for the suitors (14.109–110), and wishes for food enough to feast on in silence while he tells his sorrows (14.193–195); Eumaeus will not name his absent master (14.145–147) and asks to be spared talk of him (14.168–170); in the tale of the cloak Odysseus answers the freezing man with “Be silent now” (14.492–493); and the wine brings out “a word that is better left unsaid” (14.466).
+# ἀκέοντʼ (14.195), only here, and σίγα (14.493; again 17.393, 19.42, 19.486, always "be silent"); ἀκέων (14.110) is
+# the entry's.
+grc: [ἀκέοντʼ, σίγα]
+en: [be silent]
+refs: [14.145-147, 14.466]
+---
+
+**Eating in silence.** At the first meal the stranger “heartily ate the meat and drank the wine, / greedily, in silence, and he was planting evils for the suitors” (14.109–110; see [[feast]]). The two adverbs explain the first: ἐνδυκέως, “heartily”, governs the whole clause and is unfolded in ἁρπαλέως ἀκέων, “greedily, in silence” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.109). The silence is a hungry man's, and it is also the silence of the disguised master, who says nothing while the swineherd tells him how the suitors waste his goods (14.80–108), and plans. In the [[the-tale-to-eumaeus|Cretan tale]] the silence is wished for: “May there now be, for us two, for a long time, both food / and sweet wine, as we stay inside the hut, / to feast on in silence, while others go about the work” (14.193–195), a whole year of quiet eating in which to tell his sorrows.
+
+**What Eumaeus will not say.** “Him, stranger, even though he is not here, I feel shame / to name; for he loved me greatly and cared for me in his heart; / but I call him dear master, even though he is far away” (14.145–147; see [[aidos]] and [[dear-brother]]). The swineherd does not name Odysseus in speaking of him, but uses ἠθεῖος, which is properly a form of respectful address, as modern titles are used (Monro on 14.145–147). When the stranger swears that his master is coming, Eumaeus asks for silence about it: “let us think of other things, and do not remind me / of these; for truly the heart in my breast / grieves whenever anyone reminds me of my devoted master” (14.168–170).
+
+**In the ambush.** In the tale of the cloak the freezing Cretan nudges Odysseus and tells him he will die of cold, and Odysseus, speaking “in a low voice”, answers first with the ambusher's rule: “Be silent now, so that no other man of the Achaeans hears you” (14.492–493; see [[ambush]] and [[the-tale-of-the-cloak]]). Then he finds the device that gets him a cloak without anyone's knowing it was asked for.
+
+**Better left unsaid.** The wine, the stranger says, “brings out a word that is better left unsaid”; “But since I have once spoken out, I will not hide it” (14.466–467; see [[the-mad-wine]]). ἀνέκραγον, “spoke out”, “raised my voice”, has a colloquial stamp (Monro on 14.467). The word he will not keep back is a request for a cloak, and it is hardly spoken: the point of the story is that it hints at the need of a cloak without directly asking for one, and the three lines that come nearest to asking (14.504–506; see [[the-tale-of-the-cloak]]) were rejected by ancient critics (Monro on 14.504–506).

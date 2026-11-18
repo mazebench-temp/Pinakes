@@ -1438,6 +1438,75 @@ senses (the looms and the masts, the mooring rope and the bonds of Hephaestus, �
 | ἐμὸν ποτὶ χαλκοβατὲς δῶ (Od. 13.4) | Διὸς ποτὶ χαλκοβατὲς δῶ (Il. 1.426) | the-house-of-alcinous: the phrase in its Book 13 note |
 | ἀκταὶ ἀπορρῶγες (Od. 13.98) | ἀκτή, the shore; ἀκτή "meal" | shore: the phrase in its Book 13 note, en "headlands" |
 
+### Odyssey, Book 14
+
+The swineherd's farm sets its words beside their other senses (the fold and the palace court, the farmstead and the
+doorpost, the swine's beds and the mooring-stones, the chariot and the stool), the names of the false tale beside the
+Iliad's (Castor son of Hylax and Helen's brother, the Phoenician and Phoenix, Acastus and the son of Pelias), and the titles
+of Zeus beside common words (ξείνιος and the guest-gift, ἴστω and the mast).
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Κάστωρ Ὑλακίδης (Od. 14.204) | Κάστωρ, Helen's brother | castor-son-of-hylax: the forms, and its title takes the English |
+| Ὑλακίδης (Od. 14.204) | ὑλακόμωροι (Od. 14.29, 16.4); ὑλακτέω | hylax: the exact form; dogs claims ὑλακόμωροι |
+| Φείδων (Od. 14.316; 19.287) | φειδώ "sparing" (Od. 14.92); Φείδιππος, Φείδας | pheidon: the exact form |
+| Ἀκάστῳ (Od. 14.336) | Acastus son of Pelias (later poetry) | acastus-king-of-dulichium: the exact form; en "Acastus" in its Book 14 note only |
+| Μεσαύλιος (Od. 14.449, 14.455) | μέσσαυλος, the inner court | mesaulius: the exact form |
+| Θόας (Od. 14.499) | the other two Thoases | thoas claims it; the others yield their English |
+| Ἀτρεΐδης, Menelaus (Od. 14.470) | Agamemnon | agamemnon's Book 14 note `except: [14.470]`; son-of-atreus' note records Menelaus |
+| συβώτης, ὑφορβός (the singular, Eumaeus) | the plurals ὑφορβοί (Od. 14.410), συφορβῶν (14.504) | eumaeus: the singular forms in its Book 14 note |
+| Ἑρμῇ (Od. 14.435) | ἕρμα "prop" (ἕρματα, Il. 1.486, 2.154; ἕρμʼ, Il. 4.117); Ἕρμος (Il. 20.392); ἑρμηνεία (Poetics 1450b14) | hermes: the exact form, never a stem |
+| Μαιάδος (Od. 14.435) | μαῖα "nurse" (Eurycleia, Od. 2.349, 19.482, 23.11; Eurynome, 17.499); Μαιάνδρου (Il. 2.869) | maia: the exact form |
+| ξεινίου, ξείνιος, Δία ξένιον, the title of Zeus (Il. 13.625; Od. 9.271, 14.284, 14.389) | ξείνιον, ξείνια "guest-gift(s)" (Od. 9.356, 9.365, 20.296) | god-of-guests: the exact forms and the phrase |
+| ξενίη, ξένιον, Murray's ξεν- spellings (Od. 14.158, 14.389) | ξεινίη, ξείνιον | xenia: its Book 14 note |
+| ἴστω (Od. 14.158) | ἱστῷ "mast" (Il. 23.878) | let-zeus-be-witness: the phrases "ἴστω νῦν Ζεὺς" and "Ζεὺς ἴστω" only |
+| Αἴγυπτον ἐϋρρείτην, Αἰγύπτῳ ποταμῷ, the river (Od. 14.257–258; 17.427) | Αἴγυπτος, the land (Od. 14.246, 14.275; 17.448) | aegyptus-river: the two phrases; egypt `except: [Od. 2.15, Od. 14.258]` (17.427 with Book 17) |
+| Φοῖνιξ ἀνήρ, "a Phoenician" (Od. 14.288) | Phoenix son of Amyntor | phoenicians: `^Φοῖνιξ` in its Book 14 note; phoenix `except: [Od. 14.288]` |
+| τρώκτης "a greedy rogue" (Od. 14.289; τρῶκται 15.416) | Τρῶες | trojans: `"!τρώκτ*"` |
+| Κρητάων, "wide Crete" (Od. 14.199, 16.62) | Κρῆτες, the people | crete: the exact form; cretans: Κρήτεσσι |
+| δήμου φῆμις (Od. 14.239) | δῆμος, the commoners | commoners `except: [Od. 14.239]`; the-talk-of-the-people claims φῆμις |
+| φῆμις (Od. 14.239) | φήμη, the word of omen | the-talk-of-the-people: in the entry |
+| Δουλίχιόνδʼ (Od. 14.397) | Δουλίχιον δʼ (Il. 2.629) | dulichium: `"Δουλίχιόνδ*"` |
+| νυκτὶ μελαίνῃ (Od. 14.314) | the black ships | black-ships `except: [Od. 14.314]`; black-night claims it |
+| ἀμαιμάκετον, the mast "of vast length" (Od. 14.311) | the Chimaera, "irresistible" (Il. 6.179, 16.329) | irresistible: its Book 14 note, en "of vast length" |
+| ἠθεῖον, "dear master" (Od. 14.147) | the vocative ἠθεῖε "dear brother" (Il. 6.518, 10.37) | dear-brother: its Book 14 note |
+| ῥηξηνορίην (Od. 14.217) | Ῥηξήνωρ, the name | breaker-of-men: the exact form in its Book 14 note |
+| καί νύ κεν, a potential (Od. 14.325; 19.294) | the "would have … had not" turn | would-have-had-not: `except: [14.325]` in its Book 14 note |
+| δειλῷ "wretched" (Od. 14.243) | δειλός "cowardly" | wretch: `"=δειλῷ"` in its Book 14 note |
+| ὣς ἔφατʼ, ὦρτο δʼ ἔπειτα (Od. 14.499) | the verse of the games | contest-scene keeps it, with a note |
+| προσέφης … Εὔμαιε συβῶτα, the narrator's address (Od. 14.55 and after) | Εὔμαιε συβῶτα in Odysseus' own mouth (Od. 15.381) | apostrophe: `"προσέφης Εὔμαιε συβῶτα"` |
+| ἐϋχροές "good-colored" (Od. 14.24) | εὐχ* | euchomai and prayer: `except: [14.24]` in their Book 14 notes |
+| εὔχομαι "claim" (Od. 14.189, 199, 204); εὐξάμενος "with a wish" (14.463) | prayer | prayer `except` in its Book 14 note; euchomai keeps them |
+| ἀγορεύω forms (Od. 14.116–409) | the assembly | assembly `except` in its Book 14 note |
+| ὁμῶς Ἀΐδαο πύλῃσι (Od. 14.156) | πύλῃσιν (Il. 9.312) | hateful-as-the-gates-of-hades: the form without ν in its Book 14 note |
+| κλῆρον, πολυκλήρων, "allotment" (Od. 14.64, 14.211) | κλῆρος, the lot | lots: its Book 14 note, en "allotment" |
+| ἀλῆται (Od. 14.124) | ἅληται "leaps" (Il. 21.536) | vagrants-tell-lies: the phrase only |
+| ὅς τʼ ἐφέηκε πολύφρονά περ (Od. 14.464) | anger (Il. 18.108) | the-mad-wine: the second half-verse only |
+| δύναται γὰρ ἅπαντα (Od. 14.445 = 4.237) | the-gods-can-do-all-things | zeus-gives-good-and-evil: its Book 14 note |
+| ἱερεύω forms (Od. 14.28–414) | ἱερεύς, the priest | sacrifice: exact forms and phrases |
+| σταθμός, the farmstead (Od. 14.32, 358, 504) | σταθμός, a doorpost | fold: phrases in its Book 14 note |
+| αὐλή, the swineherd's fold (Od. 14.5, 14.13) | the palace court | fold: phrases; house `except: [14.13]` |
+| ἐπημοιβοί, tunics to change (Od. 14.513) | the gate bars (Il. 12.456) | tunic: the exact form in its Book 14 note |
+| ἱστόν, the mast (Od. 14.311) | the loom | loom `except: [Od. 14.311]` |
+| δεσμόν (Od. 14.348) | the bonds of Hephaestus | the-bonds-of-hephaestus `except: [Od. 14.348]` |
+| ζωή, ζωήν "livelihood" (Od. 14.96, 14.208; 16.429) | "alive" (Od. 11.86) | possessions: its Book 14 note, `except: [11.86]` |
+| δόρυ, a spear (Od. 14.277) | δόρυ, a tree or timber (Od. 6.167, 8.507, 9.384) | spear: the phrase "δόρυ δʼ ἔκβαλον" |
+| εὐνὰς συσίν (Od. 14.14) | εὐναί, mooring-stones and lairs | sties: the phrase |
+| εὐνήν, κοῖτος, a bed (Od. 14.455, 14.519, 14.525) | a lion's lair; κοῖτος "rest" (19.515), a roost (22.470) | bed: κοῖτον and the phrases in its Book 14 note |
+| δίφρος, a chariot (Od. 14.280) | δίφρος, a stool | chariot: the phrase "ἐς δίφρον δέ" |
+| σῦν (Od. 14.27, 16.454) | σύν "with" | boar: `"=σῦν"` in its Book 14 note |
+| σύεσσιν, ὕεσσιν (Od. 14.8, 14.25, 14.372, 15.397) | σύεσσιν, the wild boars (Il. 12.146) | boar: the exact forms in its Book 14 note |
+| θήρεσσιν ἐοικότες, the dogs (Od. 14.21) | θήρεσσιν ἕλωρ (Od. 5.473) | like-a-wild-beast: the phrase in its Book 14 note |
+| ἔρνεϊ ἶσον (Od. 14.175) | ἔρνεϊ ἶσος (Il. 18.56, 18.437) | like-a-sapling: the accusative in its Book 14 note |
+| μῆλον, a goat (Od. 14.105) | μῆλα, the flocks; μῆλον, an apple (Od. 7.120) | goats: `"ἤματι μῆλον"` |
+| ἀγέλαι, herds of cattle (Od. 12.129, 14.100) | ἀγελαίη; Ἀγέλαος, the suitor | cattle: the exact form |
+| ὡς εἴ τε κατὰ ῥόον (Od. 14.254) | κατὰ ῥόον, a current (Il. 21.147; Od. 5.327, 5.461, 12.204) | as-if-downstream: the phrase |
+| δμώων, δμώεσσι, δμῶας, male slaves | δμῳῶν, δμῳάς, the slave women | doulios: the accent-exact forms in its Book 14 note |
+| ἄρχον "I was in command" (Od. 14.471) | ἀρχόν "leader" | hegemon keeps it, and adds νήεσσʼ ἡγήσασθαι, not bare ἡγήσασθαι ("lead the way", 10.263) |
+| τίσω "pay" (Od. 14.166, 8.356) | τίσω "honor" (Il. 9.142) | poine: its Book 14 note only |
+| οἴκαδε, the king's house (Od. 14.280) | οἴκαδε, homeward | nostos does not claim bare οἴκαδε |
+| κῆρες (Od. 14.207) | κῆρ "heart" | ker-doom: the exact form |
+
 ## Aristotle's Poetics
 
 The Poetics brought two new kinds of clash: Homeric patterns that catch Attic words and the names of

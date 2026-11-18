@@ -5,7 +5,7 @@ kind: epithet
 tags: [rare-word, bird]
 summary: “Much-grieving,” an epithet of the halcyon in the story of Cleopatra's name, and in the Odyssey of the disguised Odysseus and of Penelope's heart.
 aliases: [polypenthes, much-grieving, full of sorrow]
-grc: [πολυπενθέος]
+grc: [πολυπενθέος, πολυπενθές]
 en: [of many sorrows]
 of: [halcyon]
 ---

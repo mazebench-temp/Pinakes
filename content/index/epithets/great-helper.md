@@ -20,4 +20,4 @@ The word is Hermes' alone. ἐριούνης comes once in the Iliad and once in
 
 ## Outside Homer
 
-The Homeric Hymns use ἐριούνιος often. The Hymn to Hermes calls the newborn god “the messenger of the immortals, the great helper, whom Maia bore” (*Homeric Hymn to Hermes* 3; the same verse in *Hymn* 18.3), and Apollo addresses him as θεῶν ἐριούνιε δαῖμον (551). In the Hymn to Demeter, Persephone tells her mother that “Hermes, the great helper, the swift messenger” came from Zeus to bring her up (*Homeric Hymn to Demeter* 406–408).
+The Homeric Hymns use ἐριούνιος often. The Hymn to Hermes calls the newborn god “the messenger of the immortals, the great helper, whom Maia bore” (*Homeric Hymn to Hermes* 3; the same verse in *Hymn* 18.3; see [[maia]]), and Apollo addresses him as θεῶν ἐριούνιε δαῖμον (551). In the Hymn to Demeter, Persephone tells her mother that “Hermes, the great helper, the swift messenger” came from Zeus to bring her up (*Homeric Hymn to Demeter* 406–408).

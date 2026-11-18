@@ -1,0 +1,5 @@
+---
+summary: The stranger swears by Zeus, by “the table of hospitality” and by the hearth of Odysseus that his master will come home (14.158–160).
+---
+
+“Now let Zeus be witness first of the gods, and the table of hospitality, / and the hearth of noble Odysseus, to which I have come” (14.158–159; see [[let-zeus-be-witness]], [[oath]], [[hearth]] and [[xenia]]). The ξενίη τράπεζα is the table at which a host feeds his guest, and the guest who has eaten at it swears by it (see the translation's row ξενίη τράπεζα; ἱστίη). Since ξεῖνος, not ξένος, is the Homeric form, Monro would perhaps write ξεινίη here, as some manuscripts write ξείνιον for ξένιον in “Zeus, the god of guests” (14.389; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 14.389; see [[zeus]] and [[god-of-guests]]). The table binds the host as well: Heracles, who killed Iphitus while he was a guest in his house, “respected neither the regard of the gods nor the table, / his own, which he had set before him” (21.28–29, a plain rendering; see the entry and [[guest-gifts]]).

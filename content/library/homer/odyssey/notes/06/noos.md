@@ -7,7 +7,7 @@ en: [understood, I saw, judgment]
 
 **Understanding.** Nausicaa gives her father every reason for the wagon but her marriage, “But he understood everything, and answered her” (ὁ δὲ πάντα νόει, 6.67; see [[aidos]] and [[alcinous]]): νοέω is perception, seeing what is meant as well as what is said. The same verb is the eye's when Odysseus tells of the palm on Delos, “such a thing / I saw” (ἐνόησα, 6.162–163; see [[the-palm-on-delos]]), and the planner's twice in the book, when the gray-eyed goddess and then white-armed Nausicaa “thought of another thing” (ἄλλʼ ἐνόησε, 6.112, 6.251; see [[thought-of-another-thing]]): the goddess that Odysseus should wake, the girl that it was time to drive home.
 
-**A mind that fears the gods.** καί σφιν νόος ἐστὶ θεουδής (6.121): θεουδής is “god-fearing”, which before Buttmann was taken for another form of θεοειδής; Düntzer, with a scholium, took it as “god-pleasing”. Merry reads the phrase as an explanation of φιλόξεινοι: men who fear the wrath of Zeus, god of guests (W. W. Merry, *Commentary on the Odyssey*, 1886, on 6.121; see [[xenia]] and [[hybris]]).
+**A mind that fears the gods.** καί σφιν νόος ἐστὶ θεουδής (6.121): θεουδής is “god-fearing”, which before Buttmann was taken for another form of θεοειδής; Düntzer, with a scholium, took it as “god-pleasing”. Merry reads the phrase as an explanation of φιλόξεινοι: men who fear the wrath of Zeus, god of guests (W. W. Merry, *Commentary on the Odyssey*, 1886, on 6.121; see [[xenia]], [[god-of-guests]] and [[hybris]]).
 
 **One mind.** The blessing of marriage is a sharing of νοήματα, “thoughts”: ὁμοφρονέοντε νοήμασιν, “of one mind in their thoughts” (6.183; see [[nothing-better-than-one-mind-in-a-house]]).
 

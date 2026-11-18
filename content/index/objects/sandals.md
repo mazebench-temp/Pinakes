@@ -20,3 +20,7 @@ One verse serves whenever someone puts them on: ποσσὶ δʼ ὑπὸ λιπ
 The same verse binds sandals on Agamemnon and Nestor when they rise in the night in *Iliad* 10 (10.22, 10.132), on Hera as she dresses to beguile Zeus (14.186), and on Telemachus on the morning of the assembly of Ithaca (*Odyssey* 2.4).
 
 The gods' sandals are golden and ambrosial. When Hermes sets out, he binds under his feet “his fine sandals, / ambrosial, golden, which carried him over the waters / and over the boundless earth as fast as the blasts of the wind” (24.340–342; *Odyssey* 5.44–46). Athena's are described in the same words (*Odyssey* 1.96–98). Homer does not say that they have wings.
+
+## Outside Homer
+
+Against the winter Hesiod bids the farmer bind on his feet “sandals of the hide of an ox killed by force, / well fitted, lined inside with felt”, with a soft cloak and a long tunic and a cap of felt (*Works and Days* 536–546; see [[hesiod]] and [[cloak]]).

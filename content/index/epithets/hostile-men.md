@@ -3,7 +3,7 @@ title: Hostile men
 greek: ἄνδρες δυσμενέες
 kind: epithet
 tags: [warfare]
-summary: “Hostile men,” a formula for the enemy, ἀνδράσι δυσμενέεσσι, in the words of those who fear to fall into their hands.
+summary: “Hostile men,” the enemy: δυσμενέες, and the formula ἀνδράσι δυσμενέεσσι, often in the words of those who fear to fall into their hands.
 aliases: [dysmenes, dysmenees, enemies]
 grc: [ἀνδράσι δυσμενέεσσιν]
 en: [hostile men]

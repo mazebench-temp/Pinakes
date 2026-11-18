@@ -1,0 +1,8 @@
+---
+summary: The old master of the house, no longer in charge of it: the swineherd built the fold and bought his own slave “without his mistress and old Laertes”; Eumaeus counts him among those who long for Odysseus, and the stranger's tale of Troy names him in his son's patronymic (14.9, 14.172–173, 14.451, 14.486).
+# Λαέρτ* (in the entry) claims Λαέρταο (14.9, 14.451), Λαέρτης (14.173) and Λαερτιάδη (14.486).
+---
+
+**Without old Laertes.** Twice the poet says that Eumaeus acted on his own, “while his master was away, / without his mistress and old Laertes”: when he built the fold (14.8–9) and when he bought Mesaulius from the Taphians (14.450–451; see [[eumaeus]], [[fold]] and [[mesaulius]]). The old king no longer comes to the city but lives far off in the country, as Athena in the likeness of Mentes and the soul of Anticleia had said (1.189–193, 11.187–196; see [[anticleia]]), and the estate is run by its servants. Eumaeus names him with Penelope and Telemachus among those who long for the master's return: “and may Odysseus / come, as I wish it, and as Penelope does, / and the old man Laertes, and godlike Telemachus” (14.171–173; see [[penelope]] and [[telemachus]]). In the next book he tells the stranger more: Laertes still lives, but prays that his spirit may leave his limbs, grieving for his son and for his wife (15.353–357).
+
+**In the patronymic.** In the [[the-tale-of-the-cloak|tale of the cloak]], the stranger, shivering beneath the wall of Troy, wakes Odysseus with his formula of address, “Son of Laertes, sprung from Zeus, Odysseus of many devices” (14.486; see [[son-of-laertes]] and [[odysseus]]), the verse with which Athena addresses Odysseus in the Iliad and in Book 13 (*Iliad* 2.173; 13.375).

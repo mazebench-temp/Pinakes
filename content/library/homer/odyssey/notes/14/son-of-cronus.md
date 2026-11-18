@@ -1,0 +1,5 @@
+---
+summary: Eumaeus' hope for Telemachus, “or escapes, and the son of Cronus holds his hand over him” (14.184); the storm of the false tale, “then the son of Cronus set a dark cloud / above the hollow ship” (14.303–304); and Eumaeus' answer to the wager, “readily, after that, would I pray to Zeus, son of Cronus!” (14.406).
+---
+
+14.184 ends with the half-verse of Agamemnon's taunt at the review, “to see if the son of Cronus will hold his hand over you” (*Iliad* 4.249; see [[telemachus-and-the-suitors]]). 14.303 is the verse of the storm that destroyed Odysseus' last ship (12.405), in the [[the-tale-to-eumaeus|false tale]] (see [[retelling]] and [[the-shipwreck-of-odysseus]]). At 14.406 D. B. Monro takes λιτοίμην of a single prayer, “to make my peace with” Zeus, the god of guests whom the killer of his guest would have offended (see [[god-of-guests]]), and reports the reading ἀλιτοίμην, “I should (thereby) sin,” which he finds tempting but forced (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.406, and his critical note; see [[prayer]] and [[xenia]]).

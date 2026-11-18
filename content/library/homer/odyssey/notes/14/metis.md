@@ -1,0 +1,5 @@
+---
+summary: Odysseus “of many wiles” answers Eumaeus with the Cretan tale (14.191), proposes the wager (14.390) and blesses his host (14.439); and in the tale “Zeus the counselor devised evils” for the teller (14.243).
+---
+
+Three times πολύμητις Ὀδυσσεύς opens a speech of the beggar: the longest lie of the book (14.191; see [[the-tale-to-eumaeus]]), the proposal of the wager (14.390; see [[rhetre]]) and the blessing over the chine (14.439; see [[of-many-wiles]]). The disguise does not change the epithet. The tale gives its divine counterpart to the god who wrecks the teller: “But for me, wretched man, Zeus the counselor devised evils” (κακὰ μήδετο μητίετα Ζεύς, 14.243; see [[counselor]] and [[zeus]]). The cunning of the book is shown, not named: the craft with which he sits down before the dogs (14.31; see [[kerdos]]), and the device of the [[the-tale-of-the-cloak|tale of the cloak]], which he gives to Odysseus at Troy, “such a man was he at planning and at fighting” (14.490–491; see [[noos]] and [[boule]]).

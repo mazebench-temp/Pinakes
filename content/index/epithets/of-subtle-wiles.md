@@ -22,4 +22,4 @@ The verse closes the simile of the jackals: “so then around wise-hearted Odyss
 
 ## Outside Homer
 
-In the Homeric Hymns the epithet belongs to gods. Hera reproaches Zeus with the same words, σχέτλιε, ποικιλομῆτα (*Hymn to Apollo* 322), and in the Hymn to Hermes the newborn Hermes is ποικιλομήτης to his mother Maia and to Apollo (*Hymn to Hermes* 155, 514).
+In the Homeric Hymns the epithet belongs to gods. Hera reproaches Zeus with the same words, σχέτλιε, ποικιλομῆτα (*Hymn to Apollo* 322), and in the Hymn to Hermes the newborn Hermes is ποικιλομήτης to his mother [[maia|Maia]] and to Apollo (*Hymn to Hermes* 155, 514).

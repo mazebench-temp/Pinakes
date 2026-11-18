@@ -1,0 +1,8 @@
+---
+summary: The guest's dress, “a cloak and a tunic as clothing”, is what the beggar asks for and is promised through the book (14.132–516). He goes in wretched clothes and is dishonored for them (14.506), and Eumaeus answers his tale of the cloak with Nausicaa's promise, “you shall not lack clothing” (14.510–511).
+# εἵματι (14.501, only here) is the entry's.
+---
+
+**The guest's clothing.** χλαῖνάν τε χιτῶνά τε εἵματα, “a cloak and a tunic as clothing”, is a phrase of the book: a vagrant will tell any tale for it (14.132; see [[vagrants-tell-lies]]), the beggar asks for it, “fine clothes”, as his reward and stakes it in his wager (14.154, 14.396; see [[euangelion]] and [[rhetre]]), a [[thesprotians|Thesprotian]] prince gives it in his [[the-tale-to-eumaeus|tale]] and the sailors strip it from him (14.320, 14.341), and Telemachus, Eumaeus says, will give it when he comes (14.516; see [[cloak]], [[tunic]] and [[xenia]]). In the [[the-tale-of-the-cloak|tale of the cloak]] Thoas leaves his cloak, “and in his clothing / I lay gladly” (14.501–502; see [[thoas]]).
+
+**Wretched clothes.** The beggar ends the tale by saying that he would be given a cloak if he were young, “but now they dishonor me, because I have wretched clothes on my body” (14.506; see [[the-tale-of-the-cloak]], [[time]] and [[rags]]). Eumaeus answers in the words with which Nausicaa received the naked stranger on Scheria, “so you shall not lack clothing, nor anything else / that is fitting for a much-tried suppliant who has come our way” (14.510–511, as 6.192–193; see the Book 6 note, [[much-tried]] and [[supplication]]), adding “for now”: at dawn the guest must go back to his rags, since in the farmstead there is “only one for each man” (14.512–514).

@@ -1,0 +1,10 @@
+---
+heading: The disguise at the hut
+summary: The change holds through the first day and night at the hut. The swineherd who loves his master does not know him, and calls him old man and stranger; the staff that Athena gave him falls from his hand before the dogs (14.29–31); and in his tale the rag and tunic she put on him become the work of the Thesprotian sailors (14.341–343), until at night he speaks of his “wretched clothes” (14.506).
+# Unnamed: the staff (14.31), the rag of the disguise (14.342-343), the wretched clothes and the rags (14.506, 14.512).
+refs: [14.31, 14.342-343, 14.506, 14.512]
+---
+
+**Unknown to the swineherd.** Athena sent Odysseus to Eumaeus first because he was loyal and “is kind to you alike” (13.404–406), and the change she made is tested at once on the man who knows his master best. The dogs rush at the stranger, who sits down “by craft”, and the staff she gave him falls from his hand (14.29–31; 13.437; see [[dogs]] and [[scepter]]). Eumaeus drives them off and greets him as γέρον, “old man” (14.37, 14.45), the word he uses to the end of the evening (14.122, 14.166, 14.386, 14.508; see [[geron]]), for the goddess had put on him “the skin / of an aged old man” (13.431–432). He mourns his master to his master's face, and will not even name him: “Him, stranger, even though he is not here, I feel shame / to name” (14.145–146; see [[eumaeus]] and [[dear-brother]]).
+
+**The disguise in the lie.** The beggar accounts for his dress in his tale. The sailors who meant to sell him “stripped me of my cloak and my tunic, my clothing, / and around me they put, instead, a vile rag and a tunic, / rent, which you see with your own eyes” (14.341–343), in the verse in which Athena dressed him that morning (13.434–435; see [[rags]] and [[the-tale-to-eumaeus]]). In the tale of the cloak he complains, “but now they dishonor me, because I have wretched clothes on my body” (14.506; see [[the-tale-of-the-cloak]] and [[time]]), and Eumaeus, though he lends him a cloak for the night, tells him that at dawn “you will knock about in your own rags” (14.512). He will wear them until Athena restores him for his son (16.172–176).

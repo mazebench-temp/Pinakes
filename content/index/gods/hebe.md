@@ -17,7 +17,7 @@ passages:
 
 ## Etymology
 
-ἥβη is the ordinary Greek word for youth, the bloom and strength of a young man. To reach “the measure of youth” (ἥβης μέτρον) is to come of age (11.225), and Nestor's wish to be young again is εἴθʼ ὣς ἡβώοιμι, “if only I were young” (7.157, 11.670, 23.629). The goddess is that bloom made a person, a fitting servant for gods who never grow old.
+ἥβη is the ordinary Greek word for youth, the bloom and strength of a young man. To reach “the measure of youth” (ἥβης μέτρον) is to come of age (11.225), and Nestor's wish to be young again is εἴθʼ ὣς ἡβώοιμι, “if only I were young” (7.157, 11.670, 23.629; see [[if-only-i-were-young]]). The goddess is that bloom made a person, a fitting servant for gods who never grow old.
 
 ## In Homer
 

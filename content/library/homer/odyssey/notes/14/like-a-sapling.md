@@ -1,0 +1,13 @@
+---
+summary: Eumaeus, mourning for Telemachus, says that the gods reared the boy “like a sapling” (14.175), the words of Thetis' lament for Achilles, before he tells how the boy has gone to Pylos and the suitors lie in ambush for him on his way home (14.174–182).
+# ἔρνεϊ ἶσον (14.175), the accusative, found only here; the entry's ἔρνεϊ ἶσος is the nominative of Il. 18.56 and 18.437.
+grc: ["ἔρνεϊ ἶσον"]
+passages:
+  - 14.174-184 | Eumaeus mourns for Telemachus
+---
+
+{{quote:698cd743-fe84-5cc7-9c15-4fb22c729f3b}}
+
+**Reared like a sapling.** Eumaeus has begged the stranger not to remind him of his master, and turns to the son: “But now again I mourn, past forgetting, for the son whom Odysseus begot, / Telemachus; when the gods had reared him like a sapling” (14.174–175; see [[telemachus]] and the translation's row ἔρνεϊ ἶσος). ἔρνεϊ ἶσον is the half-verse of Thetis' lament for Achilles, ὃ δʼ ἀνέδραμεν ἔρνεϊ ἶσος, “and he shot up like a sapling” (*Iliad* 18.56 = 18.437; see the entry), and θρέψαν, “reared”, is the verb of her next verse, τὸν μὲν ἐγὼ θρέψασα, “I reared him like a plant on the slope of an orchard” (*Iliad* 18.57). In the Iliad the mother tends the plant; here the gods have reared the boy, and the man who mourns him is the servant who watched him grow. Telemachus calls Eumaeus ἄττα, “father” (16.31, 16.57, a plain rendering), the word of Achilles to his old foster-father Phoenix (*Iliad* 9.607; see [[phoenix]]).
+
+**What the sapling promised.** The hope is the one a father has for his son: “and I thought that he would be among men in no way inferior / to his dear father, admirable in form and looks” (14.176–177; see [[eidos]]). As in Thetis' lament, the growth is told for the sake of what follows it. Thetis said that she would not welcome her son home again (*Iliad* 18.59–60; see [[nostos]]); Eumaeus fears the same for Telemachus. “One of the immortals harmed the well-balanced mind within him, / or one of men” (14.178–179; see [[phrenes]]), and he has gone to Pylos for news of his father, while “the noble suitors / lie in ambush for him on his way home, so that the race / of godlike Arceisius may perish utterly from Ithaca, nameless” (14.180–182; see [[the-journey-of-telemachus]], [[telemachus-and-the-suitors]] and [[arceisius]]). The Iliad's other sapling is the young olive of the Euphorbus simile, which a sudden storm wrenches out of its trench (*Iliad* 17.53–58; see [[the-olive-sapling]]). Telemachus will come home, and when he does Eumaeus will welcome him as a father welcomes his only son home from a distant land in the tenth year (16.17–21, a plain rendering).

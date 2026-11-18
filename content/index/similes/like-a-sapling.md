@@ -3,11 +3,12 @@ title: Like a sapling
 greek: ὃ δʼ ἀνέδραμεν ἔρνεϊ ἶσος
 kind: simile
 tags: [mother, fate, repetition]
-summary: Thetis' picture of the son she bore and reared, “he shot up like a sapling; / I reared him like a plant on the slope of an orchard” (18.56–57). She speaks it first in her lament among the Nereids, and again, in the same words, when she asks Hephaestus for armor (18.437–438).
-aliases: [like a plant on the slope of an orchard, the sapling and the plant, Thetis' sapling, Achilles like a sapling]
+summary: A son reared “like a sapling”, ἔρνεϊ ἶσος. It is Thetis' picture of the son she bore and reared, “he shot up like a sapling; / I reared him like a plant on the slope of an orchard” (18.56–57), spoken first in her lament among the Nereids and again, in the same words, when she asks Hephaestus for armor (18.437–438); in the Odyssey Eumaeus says that the gods reared Telemachus “like a sapling” (*Odyssey* 14.175).
+aliases: [like a plant on the slope of an orchard, the sapling and the plant, Thetis' sapling, Achilles like a sapling, Telemachus like a sapling]
+# ἔρνεϊ ἶσον, the accusative, said of Telemachus (Od. 14.175), is claimed in the Odyssey's Book 14 note.
 grc: ["ἔρνεϊ ἶσος", "φυτὸν ὣς γουνῷ"]
 en: [like a sapling, like a plant on the slope of an orchard]
-of: [achilles, thetis]
+of: [achilles, thetis, telemachus]
 passages:
   - 18.52-64 | Thetis laments among the Nereids
   - 18.429-461 | Thetis asks Hephaestus for armor
@@ -33,4 +34,4 @@ She had said the same thing more plainly in *Iliad* 1: “Ah me, my child, why d
 
 The sapling of *Iliad* 17 is Euphorbus, a young olive that a man has reared in a lonely place with water in plenty, until a storm tears it from its trench and stretches it on the ground (17.53–60; see [[the-olive-sapling]]). There the tree is felled; Thetis' simile stops before the fall, but the next verses say that the son will not come home.
 
-Children are young shoots elsewhere in Homer. Hecuba, begging Hector not to face Achilles, calls him φίλον θάλος, “dear scion”, whom she bore herself (22.87). In the Odyssey Odysseus likens Nausicaa to the young shoot of a palm that he once saw by the altar of Apollo on Delos (*Odyssey* 6.162–167; see [[the-palm-on-delos]]), and Eumaeus says that the gods reared Telemachus “like a sapling” (ἔρνεϊ ἶσον, *Odyssey* 14.175), the words of Thetis' simile.
+Children are young shoots elsewhere in Homer. Hecuba, begging Hector not to face Achilles, calls him φίλον θάλος, “dear scion”, whom she bore herself (22.87). In the Odyssey Odysseus likens Nausicaa to the young shoot of a palm that he once saw by the altar of Apollo on Delos (*Odyssey* 6.162–167; see [[the-palm-on-delos]]), and Eumaeus, grieving for Telemachus, says in the words of Thetis' simile that the gods reared him “like a sapling” (ἔρνεϊ ἶσον, *Odyssey* 14.175).

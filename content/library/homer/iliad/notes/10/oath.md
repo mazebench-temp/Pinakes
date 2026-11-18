@@ -13,7 +13,7 @@ passages:
 
 {{quote:eb8ca461-10ef-5e52-b297-7e7e43eaa2a4}}
 
-ἴστω, “let him be witness”, is the word of oaths. Agamemnon granted the truce with “As for the oaths, let Zeus be witness, the loud-thundering husband of Hera” (7.411), with the same titles for the god, and he will swear that he never touched Briseis with “Now let Zeus be witness first” (19.258). What Hector swears to is not his to give: the horses belong to Achilles, and they are immortal (see [[horses]] and [[the-horses-of-achilles]]).
+ἴστω, “let him be witness”, is the word of oaths. Agamemnon granted the truce with “As for the oaths, let Zeus be witness, the loud-thundering husband of Hera” (7.411; see [[let-zeus-be-witness]]), with the same titles for the god, and he will swear that he never touched Briseis with “Now let Zeus be witness first” (19.258). What Hector swears to is not his to give: the horses belong to Achilles, and they are immortal (see [[horses]] and [[the-horses-of-achilles]]).
 
 **False.** The narrator's verdict is ἐπίορκον ἐπώμοσε (10.332). ἐπίορκος is elsewhere the false oath that the powers below the earth punish, in the prayer at the oath-sacrifice of Book 3 and in Agamemnon's oath of Book 19 (3.278–279; 19.259–260). The narrator does not say that Hector meant to deceive. The oath is false because it will not come true: Dolon sets out at once, “but he was not to come back from the ships and bring word to Hector” (10.336–337). In Book 17, when Hector himself is chasing the horses, Zeus says, “not behind you … will Hector, son of Priam, ride” (17.448–449), in the verb of the oath, ἐποχήσεται, which Homer uses nowhere else (10.330; see [[oaths-and-their-breaking]]).
 

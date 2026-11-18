@@ -1,0 +1,10 @@
+---
+summary: “Stranger, it is not lawful for me … / to dishonor a stranger” (14.56–57); “the way of slaves” (14.59); the gods who “honor justice” (14.84) and the suitors who “will not woo / justly” (14.90–91); and Penelope's tears for every false report, “as is the custom of a woman, when her husband has perished far away” (14.130).
+# δίκην (14.84) and δικαίως (14.90), first met here among the Odyssey's notes.
+grc: [δίκην, δικαίως]
+en: [lawful, the way, justice]
+---
+
+**What is lawful.** θέμις is what is laid down and customary. For a host it is that no stranger is to be slighted: “Stranger, it is not lawful for me, not even if one more wretched than you should come, / to dishonor a stranger; for they are all from Zeus” (οὔ μοι θέμις ἔστʼ, 14.56–57; see [[xenia]] and [[strangers-and-beggars-are-from-zeus]]), the verse that the entry cites for the word. For a wife it is to weep: Penelope questions every wanderer, “and as she mourns, the tears fall from her eyelids, / as is the custom of a woman, when her husband has perished far away” (ἣ θέμις ἐστὶ γυναικός, 14.129–130; see [[penelope]] and [[tears]]). δίκη is the way things go with a kind of person: “for that is the way of slaves, / who are always afraid” (ἡ γὰρ δμώων δίκη ἐστίν, 14.59–60; see [[doulios]]), as “the way of divine kings” (4.691) and “the way of mortals, when one of them dies” (11.218).
+
+**Justice.** δίκη is also justice, which the gods honor: “The blessed gods do not love cruel deeds, / but honor justice and the righteous deeds of men” (ἀλλὰ δίκην τίουσι καὶ αἴσιμα ἔργʼ ἀνθρώπων, 14.83–84; see [[the-gods-honor-justice]], [[aisa]] and [[time]]). The suitors offend it: “they will not woo / justly, nor go back to their own, but at their ease / they devour his possessions overweeningly” (οὐκ ἐθέλουσι δικαίως / μνᾶσθαι, 14.90–92; see [[the-suitors]]), “with no thought in their minds of the gods' regard” (14.82). ὄπις, the regard of the gods, is their watch kept on human transgression (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.82), as in the Iliad's storm of Zeus on men who “drive out justice” (δίκην, *Iliad* 16.388; see the entry).

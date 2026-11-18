@@ -5,7 +5,7 @@ kind: epithet
 tags: [mountain, troad]
 summary: “Wooded, forested,” an epithet of mountains, islands and lands: of Mount [[Placus]] above Thebe, of Ida and Samothrace, and in the Odyssey of Zacynthus.
 aliases: [hyleeis, woody, forested]
-grc: [ὑληέσσῃ, ὑλήεσσα, "ὑλήεσσʼ"]
+grc: [ὑληέσσῃ, ὑλήεσσα, "ὑλήεσσʼ", ὑλήεντα]
 en: [wooded]
 of: [placus]
 ---

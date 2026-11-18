@@ -1,0 +1,18 @@
+---
+summary: Hermes is named once, at the evening sacrifice in the swineherd's hut. Eumaeus cuts the meat into seven portions and sets one aside, with a prayer, “for the nymphs and for Hermes, son of Maia” (14.434–436): the herdsman's share for the gods of the herds, and the only place in Homer where Hermes is called by his mother's name.
+# Ἑρμῇ (14.435), the contracted dative, found only here in Homer, is claimed by the entry.
+relations:
+  - mother: maia (14.435)
+passages:
+  - 14.432-438 | The seven portions
+---
+
+**The seven portions.** When the boar is roasted, “the swineherd / stood up to carve; for in his mind he knew well what was due” (14.432–433; see [[sacrifice]] and [[eumaeus]]):
+
+{{quote:a97c75dd-f664-52e4-8922-477a57a5dfd1}}
+
+ἕπταχα is “into seven portions”, δαιτρεύω “carve” (see the translation's key-word row). The first offerings for all the gods have already gone into the fire, raw pieces from every limb laid in the fat (14.427–429), and when the portions have been given Eumaeus offers the firstling pieces “to the everlasting gods” (14.446). This portion is set aside at the division among those who eat. D. B. Monro explains it so: the raw pieces, properly speaking, were the gods' share in the sacrifice, “but in the division among the guests one share was reserved for the host's especial patrons (l. 435), the nymphs and Hermes” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.428). Eumaeus prays as he sets it down, ἐπευξάμενος (see [[prayer]]), and gives the guest the chine of honor (14.437–438; see [[plato-chine-of-ajax]]).
+
+**Son of Maia.** Μαιάδος υἱεῖ names the god by his mother, the only time in Homer (see [[maia]]); Apollo greets him in Demodocus' song as “Hermes, son of Zeus” (8.335). Ἑρμῇ, too, is found only here. Homer's usual form of the name is Ἑρμείας, and Monro thought that this casts some doubt on the genuineness of 14.435–436, adding that the giving of the chine as a γέρας, a portion of honor, would come before the division (on 14.435). The contracted Ἑρμῆς and Ἑρμῆν occur elsewhere (*Iliad* 20.72; 5.54, 8.334, 24.1), though Monro counts Ἑρμῆν in Demodocus' song among the later forms of that piece, with Ἥλιος and Ἄρει (Monro, Appendix I §14). Hesiod has the same dative in the same company of herds: Hecate is good “in the steadings, with Hermes, at increasing the stock” (σὺν Ἑρμῇ, *Theogony* 444; see the general article).
+
+**The herdsmen's god.** The poems give Hermes the herds and the herdsmen's wealth. In the Iliad Phorbas, “rich in flocks”, was the man “whom most / of the Trojans Hermes loved, and granted him wealth” (*Iliad* 14.490–491), and the end of that verse is Eumaeus' own, of the master who “would have loved me with care and granted me wealth” (14.62; see [[eumaeus]]). Autolycus, Odysseus' grandfather, had his gift of thievery and the oath from Hermes, “for to him he used to burn pleasing thigh pieces / of lambs and kids” (19.396–398, a plain rendering; see [[autolycus]]). In the next book the beggar tells Eumaeus that “by the favor of Hermes the guide, who grants / grace and glory to the works of all men”, no mortal could rival him in service, “in heaping up a fire well and splitting dry wood, / in carving and roasting meat and pouring wine” (15.319–323, a plain rendering): the tasks that Eumaeus performs at this sacrifice (14.418–433). The *Hymn to Hermes* makes the newborn god himself roast the meat on spits, with the chines of honor, and divide it into twelve portions (*Hymn to Hermes* 120–129; see the general article). The nymphs share the portion with him (see the Book 14 note on [[nymphs]]).

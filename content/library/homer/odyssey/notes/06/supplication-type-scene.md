@@ -7,7 +7,7 @@ passages:
 
 **Approach and gesture.** The suppliant comes out naked and terrible, and of the parts of the scene he leaves out the gesture, “lest the girl be angry in her heart with him if he clasped her knees” (6.147); the word takes its place, γουνοῦμαι, “I implore you,” a verb made from γόνυ, “knee” (6.149; see the Odyssey translation's key words), and he tells her that he is “terribly afraid / to clasp your knees” (6.168–169; [[decision-scene]], [[gounata]]).
 
-**Appeal.** Praise and a plea for pity: her likeness to Artemis, the blessing of her parents, the palm on Delos, the twenty days at sea (6.149–174); the request, the city and a rag to wear (6.175–179); and the wish for a marriage of one mind (6.180–185; [[husbands-and-wives]]).
+**Appeal.** Praise and a plea for pity: her likeness to Artemis, the blessing of her parents, the palm on Delos, the twenty days at sea (6.149–174); the request, the city and a [[rags|rag]] to wear (6.175–179); and the wish for a marriage of one mind (6.180–185; [[husbands-and-wives]]).
 
 **Answer.** Nausicaa grants it in the terms of a suppliant's rights: “you shall not lack clothing, nor anything else / that is fitting for a much-tried suppliant who has come our way” (6.192–193; [[much-tried]], [[xenia]]).
 

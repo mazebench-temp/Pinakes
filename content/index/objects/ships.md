@@ -10,7 +10,8 @@ aliases: [ship, black ship, swift ships, hollow ships, fleet]
 # νέες (Od. 3.312), always ships (the adjective's plural is νέοι, νέαι), also catch 18 and 9 Iliad lines, which the
 # Book 2 note claims as well. νηῶν (Od. 4.361, 4.708), always ships, also catches 68 Iliad lines, which the Book 2
 # note claims as well.
-grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, νῆες, νήεσσι, νέες, νηῶν, "!=νέων"]
+# ναῦφιν (Od. 14.498) and νέεσσιν (Od. 14.230), always ships, also catch Iliad lines that its book notes claim.
+grc: [νῆας, νηυσί, νεῶν, νήεσσʼ, νῆα, νηΐ, νηυσίν, νηός, νέας, νῆες, νήεσσι, νέες, νηῶν, ναῦφιν, νέεσσιν, "!=νέων"]
 en: [ships, ship]
 passages:
   - 1.308-312 | The ship sails for Chryse

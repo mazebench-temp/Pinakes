@@ -15,7 +15,7 @@ refs: [18.352-353, 24.580-581, 24.588]
 
 ## The words
 
-ταφήϊος, from τάφος, “burial”, is “for burial”; Penelope's ταφήϊον is the φᾶρος, the great mantle she is weaving, to be the old man's shroud (*Odyssey* 2.97–99; see [[cloak]]). σπεῖρον is any piece of cloth, a sail, the clothes to be washed, the rags of a beggar, and in Penelope's words the sheet in which a dead man is wound (*Odyssey* 2.102, 4.245, 5.318, 6.179). Elsewhere in Homer the dead are covered with the cloths of the living: linen, mantles, robes.
+ταφήϊος, from τάφος, “burial”, is “for burial”; Penelope's ταφήϊον is the φᾶρος, the great mantle she is weaving, to be the old man's shroud (*Odyssey* 2.97–99; see [[cloak]]). σπεῖρον is any piece of cloth, a sail, the clothes to be washed, the [[rags|rags of a beggar]], and in Penelope's words the sheet in which a dead man is wound (*Odyssey* 2.102, 4.245, 5.318, 6.179). Elsewhere in Homer the dead are covered with the cloths of the living: linen, mantles, robes.
 
 ## In the Iliad
 

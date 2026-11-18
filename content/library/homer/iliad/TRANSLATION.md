@@ -2111,7 +2111,7 @@ Cyparisseis); where two places share a name, the index keeps them apart.
 - **22.319** — ἀπέλαμπε, impersonal, "there was a gleam", with σέλας or the like understood (19.379), a use hardly paralleled in Homer (Leaf on 22.319). Rendered "so light shone from the well-sharpened point".
 - **22.344** — The digitized text printed Ἀχιλλεὺς· with a grave accent before the stop, unlike the same verse at 260 and 1.148; Ἀχιλλεύς· is restored.
 - **22.346–347** — Achilles wishes his fury would let him cut Hector's flesh and eat it raw; compare Zeus to Hera, ὠμὸν βεβρώθοις Πρίαμον "and eat Priam raw" (4.35), and Hecuba's wish to eat Achilles' liver (24.212–213).
-- **22.356** — προτιόσσομαι: "look at" (Od. 7.31, 23.365) or "forebode" (Od. 5.389, 14.219); rendered "as I look at you".
+- **22.356** — προτιόσσομαι: "look at" (Od. 7.31, 23.365) or "foresee" (Od. 5.389, 14.219); rendered "as I look at you".
 - **22.358** — = Elpenor's plea to Odysseus (Od. 11.73), the only other place of μήνιμα; the same speech has ἄκλαυτον ἄθαπτον (Od. 11.72; compare 386) and καὶ ἐσσομένοισι πυθέσθαι (Od. 11.76; compare 305).
 - **22.359–360** — Achilles' death by Paris and Apollo at the Scaean gates; foretold by the horse Xanthus (19.416–417), and told to Achilles by Thetis (21.277–278).
 - **22.389** — εἰ δὲ θανόντων περ καταλήθοντʼ: the subject is not expressed, the dead themselves or men in general; rendered "men forget the dead".

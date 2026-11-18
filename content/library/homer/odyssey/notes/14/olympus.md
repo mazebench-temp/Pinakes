@@ -1,0 +1,5 @@
+---
+summary: When Eumaeus will not believe his oath, the stranger proposes a compact, with “the gods who hold Olympus” as witnesses for both (14.393–394).
+---
+
+“But come now, let us make a compact; and hereafter / let the gods who hold Olympus be witnesses for us both” (393–394; see [[rhetre]] and [[oath]]). The stranger has already sworn by Zeus, the table of hospitality and the hearth of Odysseus that his master will come (158–164); now he offers his life on it: if Odysseus comes home, Eumaeus is to give him a cloak and a tunic and send him to Dulichium, and if not, to have him thrown down from a great rock (395–400; see [[dulichium]]). The verse-end οἳ (or τοὶ) Ὄλυμπον ἔχουσιν, “who hold Olympus”, is said of the gods in both poems (*Iliad* 5.890; 6.240, 8.331, 12.337, 18.180), and μάρτυροι, “witnesses”, is the word with which Achilles makes Agamemnon's heralds witnesses before the blessed gods and mortal men (*Iliad* 1.338–339; see the translation's key-word row). Eumaeus refuses the compact: he would have good fame indeed, he says, if he killed the guest he had brought into his hut (402–406; see [[xenia]]).

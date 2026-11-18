@@ -4,7 +4,7 @@ grc: ["γούνατʼ ἔλυσε", "γυῖα λέλυντο"]
 en: [limbs were loosened]
 ---
 
-**The rope.** The rope of strife and war that the two sons of Cronus stretch over both armies is “unbreakable and not to be loosed, which loosened the knees of many” (ἄρρηκτόν τʼ ἄλυτόν τε, τὸ πολλῶν γούνατʼ ἔλυσεν, 13.360; see [[the-rope-of-war]]). The verse turns on the verb: what cannot be loosed (ἄλυτον) loosens (ἔλυσεν) the knees. In the Odyssey the same words are said of the causes of the war: of Helen, “since she loosened the knees of many men”, and of the journey to Troy that Zeus devised, “which loosened the knees of many men” (Od. 14.68–69, 14.235–236).
+**The rope.** The rope of strife and war that the two sons of Cronus stretch over both armies is “unbreakable and not to be loosed, which loosened the knees of many” (ἄρρηκτόν τʼ ἄλυτόν τε, τὸ πολλῶν γούνατʼ ἔλυσεν, 13.360; see [[the-rope-of-war]]). The verse turns on the verb: what cannot be loosed (ἄλυτον) loosens (ἔλυσεν) the knees. In the Odyssey the same words are said of the causes of the war: of Helen, “since she loosed the knees of many men”, and of the journey to Troy that Zeus devised, “which loosed the knees of many men” (Od. 14.68–69, 14.235–236).
 
 **Hypsenor.** Deiphobus' spear strikes Hypsenor “in the liver beneath the midriff, and at once loosened his knees” (13.412), the verse of the death of Apisaon in Book 11 (11.579) and of another Apisaon in Book 17 (17.349). Yet two companions carry him off groaning, and whether he dies is not certain (13.420–423; see [[hypsenor-son-of-hippasus]] and the translation's note on 13.412–423).
 

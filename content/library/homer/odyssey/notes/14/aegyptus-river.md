@@ -1,0 +1,7 @@
+---
+summary: On the fifth day out of Crete the Cretan of Odysseus' tale comes “to the fair-flowing Aegyptus”, and halts his ships “in the river Aegyptus”, where his men leave them to raid the fields of the Egyptians (14.257–258).
+---
+
+“On the fifth day we came to the fair-flowing Aegyptus, / and in the river Aegyptus I brought my curving ships to a halt” (257–258; see [[the-raid-on-egypt]] and [[curving]]). Both verses name the river, not the land: Αἴγυπτον has the masculine ἐϋρρείτην, “fair-flowing”, and Αἰγύπτῳ stands with ποταμῷ, “the river”. Where the Cretan wishes he had died “there in Egypt” (275) the land is meant (see [[egypt]]); where his heart bade him sail “to Egypt” (246), D. B. Monro thinks that the river may be meant, “as in 257–258, and elsewhere in Homer” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.246). ἐϋρρείτης is said in the Iliad only of the Satnioeis, a river of the Troad (*Iliad* 6.34; see [[fair-flowing]] and [[satnioeis]]).
+
+στῆσα, “I brought to a halt”, is the verb of Menelaus at the same river, when he came back to make the sacrifices he owed: “And back to the water of Aegyptus, the river fallen from Zeus, / I brought my ships to a halt” (4.581–582; see the Book 4 note). The ships stay in the river while the scouts go to the lookouts and the men, against the Cretan's orders, plunder the fields (259–265; see [[the-raid-on-egypt]]). The second verse returns unchanged in the version of the tale that Odysseus tells Antinous (17.427).

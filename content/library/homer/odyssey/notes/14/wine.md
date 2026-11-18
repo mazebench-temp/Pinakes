@@ -1,0 +1,11 @@
+---
+summary: Eumaeus feeds his guest bread and wine, mixes honey-sweet wine for him in an ivy-wood bowl and gives him his own bowl full (14.46, 14.78, 14.109–113), while the suitors waste the master's wine (14.95); at the sacrifice he pours a libation of sparkling wine (14.447); and on the night of the tale of the cloak the guest blames “the mad wine” for the word he is about to speak (14.463–466).
+---
+
+**The swineherd's wine.** Eumaeus brings the beggar in so that, “when you have had your heart's fill of bread and wine”, he may tell his story (14.46–47; see [[eumaeus]], [[xenia]] and [[the-tale-to-eumaeus]]). With the roast “in an ivy-wood bowl he mixed honey-sweet wine” (14.78; see [[cup]] and [[honey-sweet]]); the guest “heartily ate the meat and drank the wine, / greedily, in silence”, and then the swineherd “filled the bowl from which he himself drank and gave it to him, / full of wine” (14.109–113). The beggar wishes for food “and sweet wine” to last a year while he tells his sorrows (14.193–198; see [[hut]]).
+
+**The master's wine.** The suitors “never sacrifice one victim only, nor two; / and they waste the wine, drawing it off overweeningly” (14.94–95; see [[the-suitors]] and [[hyperbios]]).
+
+**The libation.** At the sacrifice the swineherd makes an offering of the firstling pieces, “and when he had poured a libation of sparkling wine, to Odysseus, sacker of cities, / he put it into his hands” (14.446–448; see [[libation]], [[sacrifice]] and [[sacker-of-cities]]).
+
+**The mad wine.** On the stormy night the guest begins: “I will speak a word with a wish; for the wine bids me, / the mad wine, which sets even a man of much wisdom to sing / and to laugh softly, and stirs him up to dance, / and brings out a word that is better left unsaid” (14.463–466; see [[the-mad-wine]], [[of-much-wisdom]] and [[the-tale-of-the-cloak]]). ἠλεός is “mad” as the cause of madness, as Dionysus is the mad god, μαινόμενος (*Iliad* 6.132; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.464; see [[dionysus]]), and the verse shares its words with Achilles' wish that anger might perish, “which sets even a man of much wisdom to rage” (*Iliad* 18.108). For προέηκεν, “brings out”, Aristophanes read παρέθηκεν (Monro's critical note on 14.466).

@@ -23,7 +23,7 @@ relations:
 - κεδνὰ ἰδυῖα, “true-hearted” (*Odyssey* 1.428), literally “knowing devoted things”.
 - γραίης πυκιμηδέος, “the shrewd old woman” (*Odyssey* 1.438): πυκιμηδής, “of close counsel” (πυκινός + μήδεα), is found only here in Homer; Penelope calls her an old woman “with shrewd counsel in her mind” (πυκινὰ φρεσὶ μήδεʼ ἔχουσα, *Odyssey* 19.353).
 - περίφρων Εὐρύκλεια, “prudent Eurycleia” (*Odyssey* 19.357, 19.491, 20.134, 21.381), the epithet of Penelope herself (see [[periphron]]).
-- φίλη τροφός, “dear nurse” (*Odyssey* 2.361, 4.742 and often), and μαῖα, the old nurse's name in address (*Odyssey* 2.349, 19.482).
+- φίλη τροφός, “dear nurse” (*Odyssey* 2.361, 4.742 and often), and μαῖα, the old nurse's name in address (*Odyssey* 2.349, 19.482), a word of respect for an old woman; Maia, the mother of Hermes, is another (*Odyssey* 14.435; see [[maia]]).
 
 {{notes}}
 

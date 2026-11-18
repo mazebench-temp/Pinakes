@@ -1,0 +1,6 @@
+---
+summary: The sun is named once, in the formula of the living: Eumaeus' master wanders among strangers, “if he still lives somewhere and looks on the light of the sun” (14.44).
+# The entry's ἠέλι* claims ἠελίοιο (14.44).
+---
+
+**The light of the sun.** In his first words to the stranger Eumaeus grieves for his master: “while he, perhaps yearning for food, / wanders over the land and the city of men of another tongue, / if he still lives somewhere and looks on the light of the sun” (14.42–44; see [[eumaeus]] and [[odysseus]]). ζώει καὶ ὁρᾷ φάος ἠελίοιο is the poems' way of saying that a man is alive. Thetis says it of Achilles, “And while he lives and looks on the light of the sun” (*Iliad* 18.61, 18.442), and Penelope asks it of her husband in her dream, “whether he still lives somewhere and looks on the light of the sun, / or is already dead and in the house of Hades” (4.833–834; see [[dream]]). Eumaeus' verse is said again by the other faithful herdsman, the cowherd Philoetius, when he first sees the beggar and remembers his master, “for he too, I think, / is wandering among men wearing such rags as these, / if he still lives somewhere and looks on the light of the sun” (20.205–207, a plain rendering; see [[rags]]).

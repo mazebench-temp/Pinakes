@@ -19,7 +19,7 @@ passages:
 
 {{quote:cc5c71b2-001c-52dd-8a9a-4b5b612e2ffe}}
 
-In the Odyssey the phrase comes twice. Odysseus, in one of his false tales, tells how the sailors who were to carry him home plotted “the day of slavery” for him as soon as they were far from land (*Odyssey* 14.339–340). The swineherd Eumaeus, himself sold as a child, gives the saying that goes with it: “far-seeing Zeus takes away half a man's worth on the day that slavery takes him” (ἥμισυ γάρ τʼ ἀρετῆς ἀποαίνυται εὐρύοπα Ζεὺς ἀνέρος, εὖτʼ ἄν μιν κατὰ δούλιον ἦμαρ ἕλῃσιν, *Odyssey* 17.322–323). The other forms of the stem are Odyssean too: Odysseus tells Laertes that nothing slavish shows in his looks (δούλειον, *Odyssey* 24.252), and the disloyal maids of the palace were taught “to bear slavery” (δουλοσύνην, *Odyssey* 22.423).
+In the Odyssey the phrase comes twice. Odysseus, in one of his false tales, tells how the sailors who were to take him to Dulichium plotted “the day of slavery” for him as soon as they were far from land (*Odyssey* 14.339–340; see [[the-tale-to-eumaeus]]). The swineherd Eumaeus, himself sold as a child, gives the saying that goes with it: “far-seeing Zeus takes away half a man's worth on the day that slavery takes him” (ἥμισυ γάρ τʼ ἀρετῆς ἀποαίνυται εὐρύοπα Ζεὺς ἀνέρος, εὖτʼ ἄν μιν κατὰ δούλιον ἦμαρ ἕλῃσιν, *Odyssey* 17.322–323). The other forms of the stem are Odyssean too: Odysseus tells Laertes that nothing slavish shows in his looks (δούλειον, *Odyssey* 24.252), and the disloyal maids of the palace were taught “to bear slavery” (δουλοσύνην, *Odyssey* 22.423).
 
 In the Iliad slavery is the fate of the captured: women and children led away from a sacked city, men sold overseas (see [[captive-women]] and [[slavery-and-freedom]]).
 

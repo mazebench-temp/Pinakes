@@ -1,0 +1,8 @@
+---
+summary: Nine replies. Eumaeus answers five times in the poet's address, “Answering him, you said, swineherd Eumaeus” (14.55, 14.165, 14.360, 14.442, 14.507), and once in the third person, “Answering him, the brilliant swineherd said” (14.401); Odysseus answers twice, “Answering him, Odysseus of many wiles said” (14.191, 14.390), and once, to the swineherd's grief for his master, “Then much-enduring brilliant Odysseus spoke to him in turn” (14.148).
+grc: ["ἀπαμειβόμενος προσεφώνεε"]
+---
+
+The frame of reply takes the second person, προσέφης for προσέφη, and the vocative with its title, Εὔμαιε συβῶτα, fills the verse after the caesura as a name and epithet would (see [[apostrophe]]). The verse is the Odyssey's own and belongs to the swineherd alone: it returns in Books 16 and 17 (16.60, 16.135, 16.464; 17.272, 17.311, 17.380), and with τήν, “Answering her,” when he answers Penelope (17.512, 17.579, a plain rendering). Once in the book the frame names him in the third person instead, with the title of the book's opening verses, δῖος ὑφορβός (14.401; 14.3, 14.48; see [[brilliant]]), in the verse with προσεφώνεε that the Iliad gives Teucer and Sleep (*Iliad* 8.292, 14.242) and the Odyssey later gives Telemachus (16.308).
+
+Odysseus' two answers are the verse of his answers to Athena on Ithaca the same morning (13.311, 13.382, 13.416): the first opens the Cretan tale, and the second the wager that answers the swineherd's disbelief (14.191–192, 14.390–400; see [[of-many-wiles]], [[the-tale-to-eumaeus]] and [[rhetre]]). 14.148 is the verse of his answers in the night embassy and the night raid of the Iliad (*Iliad* 9.676, 10.248), and it returns in his talk with his son in Book 16 (16.90, 16.225, 16.258, 16.266; see [[much-enduring]]).

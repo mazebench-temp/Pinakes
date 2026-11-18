@@ -21,3 +21,7 @@ When the duel is over, the Achaeans bring Ajax to Agamemnon's hut:
 {{quote:0e775757-45fd-5df5-8313-15a571fa15c6}}
 
 The verses are nearly those of the sacrifice before the first battle, where the ox was “a fat one”; here it is “a male” (7.314–315; 2.402–403). The feast honors the champion, and at it Agamemnon gives Ajax the chine, the portion of honor (7.321–322; [[geras]]). See [[ajax]] and [[agamemnon]].
+
+## Outside Homer
+
+Aristotle, writing of cattle, says that the ox is at its prime at five years old, “which is why some say that Homer too was right to write ‘a male, five years old’ and ‘of an ox nine years old,’ for these can mean the same” (ἄρσενα πενταέτηρον, βοὸς ἐννεώροιο: *History of Animals* 6.21; the phrases are those of 7.315 and *Odyssey* 10.19).

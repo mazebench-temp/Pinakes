@@ -1,0 +1,9 @@
+---
+summary: War in Eumaeus' grief and in the Cretan's life: Odysseus went to Ilios “to fight the Trojans” (14.71) and, Eumaeus thinks, died at sea after he “had wound out the war” (14.368); the Cretan was “no worthless man / nor one who fled from war” (14.212–213), “Such was I in war” (14.222), and loved “wars” more than work (14.225); and at Troy Odysseus was the man he was “at planning and at fighting” (14.491).
+# μάχοιτο (14.71; again 2.251, 8.208) and φυγοπτόλεμος (14.213, only here in Homer), first met here among the Odyssey's notes.
+grc: [μάχοιτο, φυγοπτόλεμος]
+---
+
+**Odysseus' war.** Eumaeus tells it in a verse of the Iliad: “for he too went, to win satisfaction for Agamemnon, / to Ilios of the fine horses, to fight the Trojans” (ἵνα Τρώεσσι μάχοιτο, 14.70–71; see [[time]]), the verse in which the Myrmidons sent Epeigeus to follow Achilles (*Iliad* 16.576). He thinks his master died unburied, since the gods “did not bring him down among the Trojans / or in the arms of his friends, when he had wound out the war” (ἐπεὶ πόλεμον τολύπευσε, 14.367–368; see [[fame-and-the-tomb]] and [[kleos]]). In the beggar's tale of the cloak Odysseus is the commander with a device ready, “such a man was he at planning and at fighting” (βουλευέμεν ἠδὲ μάχεσθαι, 14.491; see [[boule]] and [[the-tale-of-the-cloak]]).
+
+**The Cretan's wars.** The false Cretan is a man of war and nothing else: “no worthless man / nor one who fled from war” (οὐδὲ φυγοπτόλεμος, 14.212–213), a compound found only here; “Such was I in war; but work was never dear to me, / nor the care of a household, which rears splendid children, / but ships with oars were always dear to me, / and wars, and well-polished javelins, and arrows, / grim things, which to others are things to shudder at” (14.222–226; see [[different-gifts]] and [[piracy]]). At Troy “we sons of the Achaeans fought for nine years, / and in the tenth we sacked the city of Priam” (πολεμίζομεν, 14.240–241; see [[troy]]).

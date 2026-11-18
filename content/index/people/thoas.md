@@ -24,7 +24,7 @@ The name is formed from θοός, "swift", and differs only in its accent from �
 
 ## Elsewhere in Homer
 
-Poseidon takes his voice to rouse Idomeneus; there he is Thoas, “who in all Pleuron and steep Calydon / was lord of the Aetolians, and was honored by the people like a god” (13.216–218). When Hector returns to battle, Thoas, “by far the best of the Aetolians, skilled with the javelin / and good in close fighting”, whom few of the Achaeans could beat in the assembly, advises the chiefs to hold the front while the army withdraws to the ships (15.281–305). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (Od. 14.499–502).
+Poseidon takes his voice to rouse Idomeneus; there he is Thoas, “who in all Pleuron and steep Calydon / was lord of the Aetolians, and was honored by the people like a god” (13.216–218). When Hector returns to battle, Thoas, “by far the best of the Aetolians, skilled with the javelin / and good in close fighting”, whom few of the Achaeans could beat in the assembly, advises the chiefs to hold the front while the army withdraws to the ships (15.281–305). In the Odyssey, in a story Odysseus invents, Thoas runs to the ships with a message and leaves his cloak behind (*Odyssey* 14.499–502; see [[the-tale-of-the-cloak]]).
 
 ## Outside Homer
 

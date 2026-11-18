@@ -1,0 +1,7 @@
+---
+summary: δῆμος as land and as people: Odysseus wanders over “the land and the city of men of another tongue” (14.43), and every wanderer who comes “to the land of Ithaca” goes to Penelope (14.126); Castor was “honored … by the people like a god” (14.205), and “the harsh talk of the people” sent the Cretan to Troy (14.239).
+---
+
+**Land.** δῆμος is a people's land. Eumaeus imagines his master “perhaps yearning for food” as he “wanders over the land and the city of men of another tongue” (δῆμόν τε πόλιν τε, 14.42–43; see [[polis]]); “Whoever comes wandering to the land of Ithaca / goes to my mistress and speaks deceits” (Ἰθάκης ἐς δῆμον, 14.126–127; see [[apate]]); and Odysseus in [[thesprotians|Thesprotia]] was asking the oak “how he should return to the rich land of Ithaca” (ἐς πίονα δῆμον, 14.329; see [[nostos]]).
+
+**People.** It is also the people who live there and judge. [[castor-son-of-hylax|Castor]] “was honored then among the Cretans by the people like a god” (θεὸς ὣς τίετο δήμῳ, 14.205; see [[time]]), and when the war came the Cretan and Idomeneus could not refuse to lead the ships, “for the harsh talk of the people held us” (χαλεπὴ δʼ ἔχε δήμου φῆμις, 14.239; see [[the-talk-of-the-people]] and [[hegemon]]): the whole people, not the commoners alone (see [[commoners]]). The manuscripts read δήμου, but the archaic genitive δήμοο may be restored (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 14.239). The δημόν of the sacrifice, the “rich fat” in which Eumaeus lays the first offerings (14.428), is another word.

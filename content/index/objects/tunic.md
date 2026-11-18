@@ -5,7 +5,8 @@ kind: object
 tags: [shame, warfare, exchange]
 summary: The χιτών, the shirt-like garment a man wore next to the skin, under a cloak in peace and under the corselet in war.
 aliases: [chiton, tunics, khiton, shirt]
-grc: [χιτῶνα]
+# χιτῶνες and οἰοχίτωνʼ, "wearing only a tunic", are found only at Od. 14.513 and 14.489.
+grc: [χιτῶνα, χιτῶνες, οἰοχίτωνʼ]
 en: [tunic]
 ---
 

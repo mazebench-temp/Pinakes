@@ -1,0 +1,7 @@
+---
+summary: In the stranger's tale a Thesprotian ship is bound for “Dulichium, rich in wheat”, whose king is Acastus (14.334–336); and when he makes his wager with Eumaeus, the stranger asks, if Odysseus comes home, to be sent “to Dulichium, where my heart was glad to go” (14.397).
+---
+
+**The ship for Dulichium.** “But he sent me off first; for a ship happened to be going / of Thesprotian men to Dulichium, rich in wheat. / There he bade them take me to King Acastus / with care” (334–337; see [[thesprotians]] and [[acastus-king-of-dulichium]]). Δουλίχιον πολύπυρον, “Dulichium, rich in wheat”, is the island's epithet again when Amphinomus is introduced among the suitors, “from Dulichium, rich in wheat and grassy” (16.396, a plain rendering; see [[rich-in-wheat]]); the Iliad gives πολύπυρος to Buprasium and to Argos (*Iliad* 11.756, 15.372). The tale gives Dulichium a king, Acastus, who is named nowhere else in Homer; in Book 16 the suitor Amphinomus is the son of Nisus, a lord of Dulichium (16.394–396). The two verses of the ship return in the tale to Penelope (19.291–292).
+
+**To Dulichium.** In his wager the stranger asks, if Odysseus comes home, for a cloak and a tunic and passage “to Dulichium, where my heart was glad to go” (396–397; see [[rhetre]] and [[cloak]]): the place that the [[thesprotians|Thesprotian]] sailors were to take him to, before they tried to sell him. Δουλίχιόνδʼ, “to Dulichium”, with the ending of direction, is found only here.

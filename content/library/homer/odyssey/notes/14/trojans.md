@@ -1,0 +1,5 @@
+---
+summary: Eumaeus names the Trojans twice: his master went to Ilios “to fight the Trojans” (14.71), and the gods hated him, since they did not let him fall “among the Trojans / or in the arms of his friends” and win a tomb and fame (14.367–368).
+---
+
+Eumaeus' master went to Troy, “for he too went, to win satisfaction for Agamemnon, / to Ilios of the fine horses, to fight the Trojans” (70–71; see [[troy]]). Eumaeus believes that his master is dead, and wishes that he had died at Troy: the gods hated him, “since they did not bring him down among the Trojans / or in the arms of his friends, when he had wound out the war” (367–368; see [[fame-and-the-tomb]]). The verses are those of Telemachus' wish in the first book, “if he had been brought down among his companions in the land of the Trojans, / or in the arms of his friends, when he had wound out the war” (1.237–238), with μετὰ Τρώεσσι, “among the Trojans”, for Τρώων ἐνὶ δήμῳ, “in the land of the Trojans”. A death in battle among the enemy would have given him the tomb and the fame that the next verses describe (369–371; see [[achaeans]]).

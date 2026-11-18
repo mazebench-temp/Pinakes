@@ -3,9 +3,12 @@ title: Aetolians
 greek: Αἰτωλοί
 kind: people
 tags: [achaean, mainland-greece, aetolia]
-summary: The people of Aetolia, north of the Gulf of Corinth. They come in forty ships under Thoas, because the house of Oeneus, their old kings, has died out.
+summary: The people of Aetolia, north of the Gulf of Corinth, whose old kings were the house of Oeneus at Calydon. In the Iliad they come to Troy in forty ships under Thoas; in the Odyssey an Aetolian wanderer deceives Eumaeus with a false report of Odysseus.
 aliases: [Aitoloi]
-grc: [Αἰτωλῶν, Αἰτωλοῖσι]
+# Αἰτωλὸς, "an Aetolian" (Il. 4.527, Thoas; 23.471, Diomedes "an Aetolian by lineage"; Od. 14.379, the wanderer), is
+# always the people's name, and the Iliad Book 4 note claims it as well; Αἰτωλ* is in no line of the Poetics or the
+# Rhetoric.
+grc: [Αἰτωλῶν, Αἰτωλοῖσι, Αἰτωλὸς]
 relations:
   - leader: thoas (2.638)
 passages:
@@ -19,6 +22,8 @@ Their towns are [[Pleuron]], [[Olenus]], [[Pylene]], [[chalcis-aetolia|Chalcis]]
 ## Elsewhere in Homer
 
 In Phoenix's story of Meleager, the Aetolians defend Calydon against the Curetes (9.529–599; see [[the-wrath-of-meleager]]). Diomedes' father Tydeus was a son of Oeneus who went to Argos and settled there (14.113–125), so the Argive leader Diomedes is an Aetolian by descent: "an Aetolian by lineage", Idomeneus calls him (23.471).
+
+In the Odyssey Eumaeus tells of an Aetolian, a homicide in exile, who had wandered far over the earth, came to his house and deceived him with a tale of Odysseus in Crete (*Odyssey* 14.379–385; see [[the-killer-in-exile]] and [[exile-and-refuge]]); and the Aetolians' leader Thoas has a part in the tale of the night ambush at Troy that Odysseus tells on the same evening (*Odyssey* 14.499–501; see [[thoas]] and [[the-tale-of-the-cloak]]).
 
 ## Outside Homer
 

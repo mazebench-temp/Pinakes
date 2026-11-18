@@ -5,13 +5,15 @@ kind: object
 tags: [vessel, feast, libation]
 summary: Drinking cups, δέπας and κύπελλον, from which men and gods drink and pour libations.
 aliases: [cups, two-handled cup, depas amphikypellon, goblet, kypellon]
-grc: [δεπάεσσιν, δέπας ἀμφικύπελλον, κύπελλον]
+# κισσυβίῳ, the ivy-wood bowl (Od. 14.78 = 16.52; κισσύβιον is in the Odyssey's Book 9 note), and σκύφον, the
+# swineherd's bowl (Od. 14.112, the only σκύφος in Homer).
+grc: [δεπάεσσιν, δέπας ἀμφικύπελλον, κύπελλον, κισσυβίῳ, σκύφον]
 en: [cups, two-handled cup, cup]
 passages:
   - 1.584-598 | Hephaestus and the cup
 ---
 
-Homer's words for the drinking cup are δέπας and κύπελλον, and they seem to be interchangeable: the cup Hephaestus gives his mother is a δέπας at {{ref:Iliad 1.584}} and a κύπελλον at {{ref:Iliad 1.596}}.
+Homer's words for the drinking cup are δέπας and κύπελλον, and they seem to be interchangeable: the cup Hephaestus gives his mother is a δέπας at {{ref:Iliad 1.584}} and a κύπελλον at {{ref:Iliad 1.596}}. The Odyssey also has the κισσύβιον, a bowl of ivy wood, and once the σκύφος, the bowl from which a swineherd drinks (*Odyssey* 9.346, 14.78, 14.112).
 
 {{notes}}
 

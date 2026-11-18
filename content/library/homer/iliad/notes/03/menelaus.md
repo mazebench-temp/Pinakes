@@ -27,7 +27,7 @@ He calls the war ἐμῆς ἔριδος, “my quarrel”, and offers to die i
 
 {{quote:d5f22761-0101-592a-98d1-97e34d0d6970}}
 
-He asks vengeance on “the man who first wronged me”, and gives a reason that concerns all men to come: the punishment should make anyone shudder to wrong a host who has received him in friendship. The prayer states the Achaeans' case in one sentence. In Book 13 he will charge the Trojans again with defying Zeus, the god of guests (13.624–625). See [[xenia]] and [[philotes]].
+He asks vengeance on “the man who first wronged me”, and gives a reason that concerns all men to come: the punishment should make anyone shudder to wrong a host who has received him in friendship. The prayer states the Achaeans' case in one sentence. In Book 13 he will charge the Trojans again with defying Zeus, [[god-of-guests|the god of guests]] (13.624–625). See [[xenia]] and [[philotes]].
 
 His spear goes through Paris' shield and corselet and cuts his tunic, but Paris swerves (3.355–360). His sword shatters on the ridge of Paris' helmet (3.361–363), and he cries out:
 

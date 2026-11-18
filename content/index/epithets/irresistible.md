@@ -12,7 +12,7 @@ of: [chimaera]
 
 ## Meaning
 
-ἀμαιμάκετος is an obscure word. It is usually understood as “irresistible, not to be fought against,” and has been connected with μαιμάω (“quiver with eagerness, rage”), but its formation is uncertain. Homer uses it three times. Twice it describes the Chimaera: here, and in *Iliad* 16, where two companions of Sarpedon are sons of Amisodarus, “who reared the Chimaera, / the irresistible, an evil to many men” (Il. 16.328–329). Once in the Odyssey it describes the mast of a ship, where the sense must be something like “huge, mighty” (Od. 14.311).
+ἀμαιμάκετος is an obscure word. It is usually understood as “irresistible, not to be fought against,” and has been connected with μαιμάω (“quiver with eagerness, rage”), but its formation is uncertain. Homer uses it three times. Twice it describes the Chimaera: here, and in *Iliad* 16, where two companions of Sarpedon are sons of Amisodarus, “who reared the Chimaera, / the irresistible, an evil to many men” (Il. 16.328–329). Once in the Odyssey it describes the mast of a ship, where the sense must be something like “of vast length” (Od. 14.311). The Suda glosses it ἀκαταπόνητος, “not to be worn down” (Suda α 1542).
 
 ## Use
 

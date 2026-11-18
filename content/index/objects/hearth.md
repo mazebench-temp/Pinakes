@@ -7,8 +7,9 @@ summary: The hearth, ἐσχάρη, the fireplace of a house, where the lady of 
 aliases: [hearths, eschara, hearth-fire, fireplace]
 # A stem: ἐσχάρῃ (Od. 6.52, 6.305; later 7.153, 7.160, 14.420, 20.123, 23.71), ἐσχαρόφιν (Od. 5.59; later 7.169,
 # 19.389), ἐσχάραι (Il. 10.418, the hearth-fires of the Trojan camp). No other word in Homer or Aristotle begins so.
-# ἱστίη, the hearth of the oaths (Od. 14.159, 17.156, 19.304, 20.231), is to add with its books.
-grc: [ἐσχαρ*]
+# ἱστίη, the hearth of the oaths, only in one verse (Od. 14.159, 17.156, 19.304, 20.231); no other word in Homer is
+# so spelled, and Aristotle's ἑστία does not match it.
+grc: [ἐσχαρ*, ἱστίη]
 en: [hearth]
 ---
 
@@ -16,7 +17,7 @@ en: [hearth]
 
 ἐσχάρη is the hearth on which a fire burns. In the Iliad the word is used only once, in the camp at night: “At all the hearth-fires of the Trojans, those who must / are awake, and they keep calling on each other / to watch” (*Iliad* 10.418–420; see [[night-watch]] and [[fire]]). In the Odyssey it is the hearth of a house. In Calypso's cave “A great fire was burning on the hearth” (*Odyssey* 5.59), where W. W. Merry thinks the ἐσχάρα may have been a portable brazier (*Commentary on the Odyssey*, 1886, on 5.59; see [[calypsos-cave]]). ἐσχαρόφιν is a form of the o-declension made for the meter (Merry on 5.59).
 
-The hearth as the center of the house, and as a holy thing, is ἑστίη, in Homer's Ionic ἱστίη. Strangers in the house of Odysseus swear by it. The disguised Odysseus tells Eumaeus, “Let Zeus know first of the gods, and the table of hospitality, / and the hearth of blameless Odysseus, to which I have come” (*Odyssey* 14.158–159, a plain rendering; see [[xenia]] and [[oath]]), and he swears in the same words to the cowherd (*Odyssey* 20.230–231) and, with Zeus “highest and best of the gods” in the first verse, to Penelope (*Odyssey* 19.303–304); the seer Theoclymenus swears so to Penelope as well (*Odyssey* 17.155–156). The man who loves war among his own people is ἀνέστιος, “without hearth” (*Iliad* 9.63; see [[without-clan-law-or-hearth]]), and in Agamemnon's reckoning of the two armies the Trojans are “all who have hearths in the city”, ἐφέστιοι (*Iliad* 2.123–128).
+The hearth as the center of the house, and as a holy thing, is ἑστίη, in Homer's Ionic ἱστίη. Strangers in the house of Odysseus swear by it. The disguised Odysseus tells Eumaeus, “Now let Zeus be witness first of the gods, and the table of hospitality, / and the hearth of noble Odysseus, to which I have come” (*Odyssey* 14.158–159; see [[let-zeus-be-witness]], [[xenia]] and [[oath]]), and he swears in the same words to the cowherd (*Odyssey* 20.230–231) and, with Zeus “highest and best of the gods” in the first verse, to Penelope (*Odyssey* 19.303–304); the seer Theoclymenus swears so to Penelope as well (*Odyssey* 17.155–156). The man who loves war among his own people is ἀνέστιος, “without hearth” (*Iliad* 9.63; see [[without-clan-law-or-hearth]]), and in Agamemnon's reckoning of the two armies the Trojans are “all who have hearths in the city”, ἐφέστιοι (*Iliad* 2.123–128).
 
 ## In the Odyssey
 
@@ -27,3 +28,5 @@ The hearth is the place of the lady of the house and of the suppliant. Arete sit
 ## Outside Homer
 
 The Suda explains the Homeric ἐσχάραι πυρός as “beds of coals on the ground” (ε 3245), and reports that Lycurgus and Ammonius give the name ἐσχάρα to one that has no height but is set on the ground, or is hollow (ε 3242).
+
+The hearth that sanctions the guest's welcome is Zeus' too. When Adrastus, the stranger whom Croesus had purified and received, killed Croesus' son, the king called on Zeus of purification, and on Zeus ἐπίστιος, “of the hearth”, because he had received the stranger into his house and fed his son's killer unawares, and on Zeus of comrades (Herodotus 1.44.2; see [[herodotus]] and [[xenia]]).

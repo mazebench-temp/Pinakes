@@ -35,7 +35,7 @@ The tenor ends where Odysseus' choice began. He had decided not to clasp her kne
 
 ## In context
 
-The simile closes the first half of the supplication speech. The second half tells his need: “Yesterday, on the twentieth day, I escaped from the wine-dark sea” (*Odyssey* 6.170), the shipwreck, the request for the city and a rag to wear, and the wish that the gods may give her a husband, a home and oneness of mind (*Odyssey* 6.170–185; see [[the-shipwreck-of-odysseus]] and [[husbands-and-wives]]). Nausicaa answers with clothes, food and the way to the city (*Odyssey* 6.186–210; see [[nausicaa]]).
+The simile closes the first half of the supplication speech. The second half tells his need: “Yesterday, on the twentieth day, I escaped from the wine-dark sea” (*Odyssey* 6.170), the shipwreck, the request for the city and a rag to wear, and the wish that the gods may give her a husband, a home and oneness of mind (*Odyssey* 6.170–185; see [[the-shipwreck-of-odysseus]], [[rags]] and [[husbands-and-wives]]). Nausicaa answers with clothes, food and the way to the city (*Odyssey* 6.186–210; see [[nausicaa]]).
 
 The words of wonder return at the end of the poem, in the other direction. When Penelope cannot yet believe that the stranger is her husband, she says “my heart within me is astounded” (θυμός μοι ἐνὶ στήθεσσι τέθηπεν, *Odyssey* 23.105, a plain rendering), and Athena makes him beautiful for her in the verses of the sixth book (*Odyssey* 23.156–162; see [[gold-poured-around-silver]]).
 

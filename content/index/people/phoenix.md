@@ -8,8 +8,9 @@ aliases: [Phoinix, Phoenix son of Amyntor]
 # ^ keeps out the common word φοῖνιξ, "purple, red" (4.141, 6.219, 7.305; 15.538, 23.454); purple excludes ^Φοίνικ*.
 # Φοίνικα (23.360) is claimed in the Book 23 note. Φοίνικος (14.321) is another Phoenix, father of the girl who bore Minos
 # to Zeus (phoenix-father-of-europa), and Φοίνικες (23.744) are the Phoenicians; in the Odyssey Φοῖνιξ ἀνήρ, "a Phoenician man"
-# (Od. 14.288), will need an except.
+# (Od. 14.288), the only capitalized Φοῖνιξ in that poem, is excepted, and phoenicians claims it.
 grc: ["^Φοῖνιξ", "^Φοίνικι"]
+except: [Od. 14.288]
 relations:
   - father: amyntor (9.448)
   - grandfather: ormenus-father-of-amyntor (9.448)
@@ -19,7 +20,7 @@ relations:
 
 ## Etymology
 
-Φοῖνιξ (Phoinix) is also a common word. It is the red-purple dye and its color (see [[purple]]), the date palm (*Odyssey* 6.163), and, in the plural, the Phoenicians (Φοίνικες, 23.744). Whether the name was heard as “the red one” or as “the Phoenician” is not known. Homer has a [[phoenix-father-of-europa|second Phoenix]], the father of the girl who bore Minos and Rhadamanthys to Zeus (14.321–322); later writers call her [[europa|Europa]] (Hesiodic *Catalogue of Women*, fr. 19 Evelyn-White).
+Φοῖνιξ (Phoinix) is also a common word. It is the red-purple dye and its color (see [[purple]]), the date palm (*Odyssey* 6.163), and, in the plural, the Phoenicians (Φοίνικες, 23.744); in the Odyssey Φοῖνιξ … ἀνήρ is “a Phoenician man”, the cheat of one of Odysseus' false tales (*Odyssey* 14.288; see [[phoenicians]] and [[the-tale-to-eumaeus]]). Whether the name was heard as “the red one” or as “the Phoenician” is not known. Homer has a [[phoenix-father-of-europa|second Phoenix]], the father of the girl who bore Minos and Rhadamanthys to Zeus (14.321–322); later writers call her [[europa|Europa]] (Hesiodic *Catalogue of Women*, fr. 19 Evelyn-White).
 
 ## Family
 

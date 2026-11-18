@@ -1,0 +1,9 @@
+---
+summary: The Achaeans are the army of the stranger's war stories: the Cretan raided before “the sons of the Achaeans set foot on Troy”, fought with them nine years, and was scattered with them in the return (14.229–242); Eumaeus says that all the Achaeans would have made a tomb for his master if he had died at Troy (14.369); and in the tale of the ambush Odysseus whispers so that no other Achaean will hear (14.493).
+---
+
+**The sons of the Achaeans.** “For before the sons of the Achaeans set foot on Troy, / nine times I led men and swift-sailing ships / against foreign men” (229–231); “There we sons of the Achaeans fought for nine years, / and in the tenth we sacked the city of Priam and set out / for home with the ships, and a god scattered the Achaeans” (240–242; see [[sons-of-the-achaeans]], [[troy]] and [[the-tale-to-eumaeus]]). The last half-verse is the one in which Nestor and Odysseus tell of the departure from Troy (3.131, 13.317; see [[the-returns-of-the-achaeans]]).
+
+**All the Achaeans.** Eumaeus grieves that his master did not fall at Troy: “Then all the Achaeans would have made a tomb for him, / and he would have won great fame for his son too in days to come” (369–370; see [[fame-and-the-tomb]]). The verses are Telemachus' complaint to Athena in the first book (1.239–240), and the soul of Achilles says them to Agamemnon in the underworld of Book 24 (24.32–33); several manuscripts and Eustathius omit them here (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 14.369–370). Παναχαιοί, “all the Achaeans”, is a word for the whole army that the Iliad uses often.
+
+**No other Achaean.** In the tale of the cloak the speaker, freezing, nudges Odysseus with his elbow, and Odysseus answers in a low voice: “Be silent now, so that no other man of the Achaeans hears you” (493; see [[the-tale-of-the-cloak]] and [[silence]]).

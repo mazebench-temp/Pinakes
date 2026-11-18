@@ -1,0 +1,5 @@
+---
+summary: At the evening sacrifice the swineherd throws hairs from the boar's head and then the first offerings into the fire (14.422, 14.429), and at bedtime he sets his guest's bed near the fire (14.518).
+---
+
+“but he made the first offering, throwing into the fire hairs from the head / of the white-tusked boar, and he prayed to all the gods” (14.422–423; see [[sacrifice]], [[hearth]] and [[prayer]]). ἀπαρχόμενος means cutting off as a firstling, and so it governs τρίχας, “hairs”, as when Agamemnon cuts the first hairs from the boar of his oath, κάπρου ἀπὸ τρίχας ἀρξάμενος (*Iliad* 19.254; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.422). The first pieces from all the limbs follow: “these he threw into the fire, sprinkling them with the meal of barley” (14.429; see [[barley-meal]]). When the meal and the [[the-tale-of-the-cloak|tale]] are over, Eumaeus “set for him near the fire / a bed, and threw on it the skins of sheep and goats” (14.518–519; see [[bed]] and [[cloak]]).

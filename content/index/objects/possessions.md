@@ -5,7 +5,8 @@ kind: object
 tags: [exchange]
 summary: Property, the movable wealth of a house, kept as treasure and given, staked, carried off or eaten up. In the Iliad the word is used most often of the treasure Paris carried off from Sparta with Helen; in the Odyssey, of the goods of Odysseus' house, which the suitors consume.
 aliases: [property, treasure, ktemata, Helen's possessions, chremata]
-grc: [κτήμασι, κτήμαθʼ, κτήματα]
+# κτήμασιν (Od. 4.81, 14.245) is found only in the Odyssey; the Iliad has κτήμασι.
+grc: [κτήμασι, κτήμασιν, κτήμαθʼ, κτήματα]
 en: [possessions]
 ---
 

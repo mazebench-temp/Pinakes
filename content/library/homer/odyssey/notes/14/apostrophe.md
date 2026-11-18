@@ -1,0 +1,6 @@
+---
+summary: The poet speaks to the swineherd five times, each time as he answers the beggar: “Answering him, you said, swineherd Eumaeus” (14.55, 14.165, 14.360, 14.442, 14.507).
+en: [you said]
+---
+
+The first five of the Odyssey's fifteen addresses to a character, all of them to Eumaeus (see the general article). Five of his ten speeches in the book open with the address, and all five answer the stranger: the welcome, with “for they are all from Zeus, / strangers and beggars” (14.56–71; see [[strangers-and-beggars-are-from-zeus]]); the refusal of the reward and the oath, and the host's questions (14.166–190; see [[euangelion]] and [[who-are-you-among-men]]); the answer to the [[the-tale-to-eumaeus|Cretan tale]], which he believes in everything but the news of his master (14.361–389); “Eat, strange guest,” as he gives him the chine (14.443–445; see [[strange-one]]); and the praise of the [[the-tale-of-the-cloak|tale of the cloak]] (14.508–517). His other speeches are introduced in the third person, by his office: “and he spoke to his master” (14.36), “Then the swineherd, leader of men, answered him” (14.121), “Answering him, the brilliant swineherd said” (14.401; see [[answering-him]], [[leader-of-men]] and [[eumaeus]]).

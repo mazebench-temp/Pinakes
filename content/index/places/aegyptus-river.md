@@ -3,18 +3,20 @@ title: Aegyptus (river)
 greek: Αἴγυπτος
 kind: place
 tags: [africa]
-summary: The river of Egypt, the Nile, which Homer calls by the name of its land, Αἴγυπτος, “the river fallen from Zeus”. Proteus sends Menelaus back to it from Pharos to offer the hecatombs he owes the gods (*Odyssey* 4.477–483, 4.581–582). The name Nile first appears in Hesiod.
+summary: The river of Egypt, the Nile, which Homer calls by the name of its land, Αἴγυπτος, “the river fallen from Zeus”. Menelaus sails back to it to offer the hecatombs he owes the gods, and in his false tales Odysseus brings his ships to a halt in it before his men raid the land. The name Nile first appears in Hesiod.
 aliases: [river Aegyptus, the river Aegyptus, Nile, the Nile, Neilos]
 # Αἰγύπτοιο, "of Aegyptus" (Od. 4.477, 4.581), always with διιπετέος ποταμοῖο, "the river fallen from Zeus", and found
-# only there in Homer. The later books will need Αἴγυπτον ἐϋρρείτην, "the fair-flowing Aegyptus" (Od. 14.257), and
-# Αἰγύπτῳ ποταμῷ, "in the river Aegyptus" (Od. 14.258, 17.427), which egypt (the land) will then except.
-grc: [Αἰγύπτοιο]
+# only there in Homer. The river is also Αἴγυπτον ἐϋρρείτην, "the fair-flowing Aegyptus" (Od. 14.257), and Αἰγύπτῳ
+# ποταμῷ, "in the river Aegyptus" (Od. 14.258; again 17.427), claimed as phrases: bare Αἴγυπτον is the land at
+# Od. 17.448, and bare Αἰγύπτῳ the land at Od. 3.300, 4.351, 14.275 (egypt, which excepts 14.258). Neither phrase is
+# in the Iliad, the Poetics or the Rhetoric.
+grc: [Αἰγύπτοιο, "Αἴγυπτον ἐϋρρείτην", "Αἰγύπτῳ ποταμῷ"]
 en: [Aegyptus]
 ---
 
 ## The name
 
-Homer gives the river the name of its land, Αἴγυπτος, and never calls it the Nile (see [[egypt]]). It is “Aegyptus, the river fallen from Zeus”, Αἰγύπτοιο διιπετέος ποταμοῖο (*Odyssey* 4.477, 4.581), with the verse-end the Iliad gives the Spercheius and the Scamander (16.174, 21.268; see [[fallen-from-zeus]], [[spercheius]] and [[scamander]]). In the false tales of the later books Odysseus comes on the fifth day out of Crete to “the fair-flowing Aegyptus” and halts his ships “in the river Aegyptus” (*Odyssey* 14.257–258, 17.427, plain renderings). Where the poem says only Αἰγύπτῳ, “in Egypt”, the land or the river may be meant: Merry doubts which it is when the gods hold Menelaus there (*Odyssey* 4.351), but has no doubt that the two verses of Proteus' command name the river (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 4.352).
+Homer gives the river the name of its land, Αἴγυπτος, and never calls it the Nile (see [[egypt]]). It is “Aegyptus, the river fallen from Zeus”, Αἰγύπτοιο διιπετέος ποταμοῖο (*Odyssey* 4.477, 4.581), with the verse-end the Iliad gives the Spercheius and the Scamander (16.174, 21.268; see [[fallen-from-zeus]], [[spercheius]] and [[scamander]]). In the false tales that Odysseus tells on Ithaca he comes on the fifth day out of Crete to “the fair-flowing Aegyptus” and halts his ships “in the river Aegyptus” (*Odyssey* 14.257–258; the second verse again at 17.427; see [[the-raid-on-egypt]]). Where the poem says only Αἰγύπτῳ, “in Egypt”, the land or the river may be meant: Merry doubts which it is when the gods hold Menelaus there (*Odyssey* 4.351), but has no doubt that the two verses of Proteus' command name the river (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 4.352).
 
 Νεῖλος, the Nile, first appears in Hesiod, among the rivers that Tethys bore to Oceanus (*Theogony* 337–338; see [[hesiod]] and [[oceanus]]).
 

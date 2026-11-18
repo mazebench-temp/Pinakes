@@ -22,7 +22,7 @@ passages:
 
 {{quote:1b9cc57b-d835-5c1d-9333-f9aa99b25cec}}
 
-ἀμαιμάκετος, “irresistible”, is said of her both times she is named (6.179, 16.329; see [[irresistible]]); in the Odyssey it describes a ship's mast (Od. 14.311). θεῖον γένος οὐδʼ ἀνθρώπων, “of divine race, not of men”, sets her apart from the human enemies of Bellerophon's later tasks. She is a lion in front, a serpent (δράκων) behind and a goat in the middle (see [[lion]], [[serpent]] and [[goats]]), and she breathes “the terrible might of blazing fire” (πυρὸς μένος, 6.182; see [[menos]]). Bellerophon kills her “obeying the portents of the gods” (6.183; see [[teras]]). Homer gives him no winged horse.
+ἀμαιμάκετος, “irresistible”, is said of her both times she is named (6.179, 16.329; see [[irresistible]]); in the Odyssey it is said of a ship's mast, where the sense is rather “of vast length” (*Odyssey* 14.311). θεῖον γένος οὐδʼ ἀνθρώπων, “of divine race, not of men”, sets her apart from the human enemies of Bellerophon's later tasks. She is a lion in front, a serpent (δράκων) behind and a goat in the middle (see [[lion]], [[serpent]] and [[goats]]), and she breathes “the terrible might of blazing fire” (πυρὸς μένος, 6.182; see [[menos]]). Bellerophon kills her “obeying the portents of the gods” (6.183; see [[teras]]). Homer gives him no winged horse.
 
 She is named once more. [[atymnius-son-of-amisodarus|Atymnius]] and [[maris|Maris]], “brave companions of Sarpedon” whom the sons of Nestor kill, were sons of [[amisodarus|Amisodarus]], “who reared the Chimaera, / the irresistible, an evil to many men” (16.317–329). Homer says nothing more of Amisodarus, but his sons fight at Troy beside Bellerophon's grandson (see [[sarpedon]] and [[bellerophon]]).
 

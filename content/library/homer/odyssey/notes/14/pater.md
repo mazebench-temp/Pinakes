@@ -1,0 +1,9 @@
+---
+summary: Eumaeus' father and mother, whose house he will never reach again (14.140–141); Telemachus, who was to be equal to “his dear father” and has gone “in search of news of his father” (14.177–179); Pheidon's son, who took the shipwrecked man to “his father's house” (14.319); and “father Zeus” (14.440).
+---
+
+**Eumaeus' parents.** No other master will be so kind to him, “not even if I should come again to my father's and mother's / house, where I was first born, and they themselves reared me. / Nor do I mourn so much for them any longer” (πατρὸς καὶ μητέρος, 14.140–142; see [[meter]] and [[pothe]]). The swineherd was born free, and the story of how he came to Ithaca waits for the next book (15.403–484; see [[eumaeus]]).
+
+**Telemachus' father.** Eumaeus mourns for the son: “when the gods had reared him like a sapling, / and I thought that he would be among men in no way inferior / to his dear father, admirable in form and looks, / then one of the immortals harmed the well-balanced mind within him, / or one of men; and he has gone in search of news of his father / to sacred Pylos” (πατρὸς ἑοῖο φίλοιο … μετὰ πατρὸς ἀκουήν, 14.175–180; see [[telemachus]], [[like-a-sapling]] and [[the-journey-of-telemachus]]), the phrase of 4.701. The suitors lie in wait for him, so that the line of his fathers, “the race / of godlike Arceisius”, may perish from Ithaca (14.181–182; see [[arceisius]] and [[phylon]]).
+
+**Other fathers.** In the [[the-tale-to-eumaeus|Cretan tale]] Pheidon's son found the shipwrecked man “and led me home, / raising me by the hand, until he came to his father's house” (14.318–319; see [[pheidon]]). At the evening meal Odysseus blesses his host: “Would that you, Eumaeus, might be as dear to father Zeus / as you are to me” (Διὶ πατρί, 14.440–441; see [[zeus]] and [[father-zeus]]).

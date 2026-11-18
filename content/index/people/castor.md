@@ -27,7 +27,7 @@ She guesses that they stayed at home, or that they came and keep out of the figh
 
 ## Descriptions
 
-ἱππόδαμος = ἵππος (“horse”) + δαμάζω (“tame”): “tamer of horses”, the epithet of the Trojans and of heroes who are horsemen (see [[tamer-of-horses]]). It makes Castor the horseman of the pair, as πὺξ ἀγαθός (“good with his fists”) makes Polydeuces the boxer. The Odyssey names the brothers in the same line (*Odyssey* 11.300 = 3.237). W. W. Merry derives Κάστωρ from the same root as Ἐπικάστη, Epicaste (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.300).
+ἱππόδαμος = ἵππος (“horse”) + δαμάζω (“tame”): “tamer of horses”, the epithet of the Trojans and of heroes who are horsemen (see [[tamer-of-horses]]). It makes Castor the horseman of the pair, as πὺξ ἀγαθός (“good with his fists”) makes Polydeuces the boxer. The Odyssey names the brothers in the same line (*Odyssey* 11.300 = 3.237). W. W. Merry derives Κάστωρ from the same root as Ἐπικάστη, Epicaste (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.300). The nominative Κάστωρ is found in Homer only once, and not of him: Castor, son of Hylax, is the rich Cretan whom the disguised Odysseus names as his father in a false tale (*Odyssey* 14.204; see [[castor-son-of-hylax]] and [[the-tale-to-eumaeus]]).
 
 {{notes}}
 

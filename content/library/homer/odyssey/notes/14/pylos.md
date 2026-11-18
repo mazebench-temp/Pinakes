@@ -1,0 +1,5 @@
+---
+summary: Eumaeus tells the stranger that Telemachus “has gone in search of news of his father / to sacred Pylos”, and that the suitors lie in ambush for him on his way home (14.179–182).
+---
+
+Eumaeus' grief turns from the master to the son: “then one of the immortals harmed the well-balanced mind within him, / or one of men; and he has gone in search of news of his father / to sacred Pylos; and the noble suitors / lie in ambush for him on his way home” (178–181; see [[telemachus]], [[the-journey-of-telemachus]] and [[ambush]]). Eumaeus' words are those in which the herald Medon told Penelope of the suitors' plot: “they are eager to kill Telemachus with the sharp bronze / as he comes home; for he has gone in search of news of his father / to sacred Pylos and to shining Lacedaemon” (4.700–702; see [[medon-the-herald]]). ἐς Πύλον ἠγαθέην, “to sacred Pylos”, is also the verse in which Antinous laughed at the journey before it began (2.308; see [[egatheos]]). Eumaeus names only Pylos. Telemachus is in fact at Sparta, and in the next book he leaves it and passes through Pylos without stopping at Nestor's house (15.1–219).

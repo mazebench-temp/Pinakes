@@ -5,8 +5,7 @@ kind: epithet
 tags: [woman, house-of-odysseus]
 summary: “Wooed by many,” πολύμνηστος, an epithet found only in the Odyssey: twice of [[Penelope]], by men who think her marriage is at hand, and once of the wife a good master gives his servant.
 aliases: [polymnestos, much-courted]
-# πολυμνήστην (Od. 14.64, 23.149) to be added with its books.
-grc: [πολυμνήστη]
+grc: [πολυμνήστη, πολυμνήστην]
 en: [much-wooed]
 of: [penelope]
 ---

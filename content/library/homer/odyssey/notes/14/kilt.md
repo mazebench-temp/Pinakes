@@ -1,0 +1,5 @@
+---
+summary: In the tale of the cloak the beggar says that he followed the ambush at Troy without his cloak, “with only my shield and my shining kilt” (14.482).
+---
+
+“but I had left my cloak with my companions when I went, / in my folly, since I did not think I would be cold even so, / but I followed with only my shield and my shining kilt” (14.480–482; see [[the-tale-of-the-cloak]], [[snow-like-hoarfrost]], [[cloak]] and [[shield]]). ζῶμα is “a leathern apron or kilt”, and the man names no corselet: Monro notes “the absence of a θώρηξ”, after Reichel (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.482; see [[corselet]]), as Menelaus in *Iliad* 4 names belt, kilt and band and says nothing of his corselet (see the entry). He has a tunic on as well, as he says a few lines later, “a god beguiled me / into wearing only a tunic” (14.488–489; see [[tunic]]); but the tunic, Monro adds, “is always taken for granted”, as Hector would be “naked” once he had taken off his armor (*Iliad* 22.124–125; Monro on 14.482). The translation renders ζῶμα “kilt” here as in the Iliad (see its row ζῶμα).

@@ -5,7 +5,7 @@ grc: [αἰδοῖος, αἰδοῖ, αἰδοίοιο]
 en: [modesty]
 ---
 
-**Feared and respected.** Athena pours grace on the stranger's head and shoulders “so that he might be dear to all the Phaeacians, / and feared and respected” (δεινός τʼ αἰδοῖός τε, 8.21–22; see [[charis]] and [[athena]]). The pair is the Iliad's: Helen greets Priam, “You are one I respect, dear father-in-law, and one I fear” (*Iliad* 3.172), and Hephaestus calls Thetis “a goddess I fear and respect” (*Iliad* 18.394). In his Cretan tale to Eumaeus the stranger will say the same of himself, that he was feared and respected among the Cretans (14.234).
+**Feared and respected.** Athena pours grace on the stranger's head and shoulders “so that he might be dear to all the Phaeacians, / and feared and respected” (δεινός τʼ αἰδοῖός τε, 8.21–22; see [[charis]] and [[athena]]). The pair is the Iliad's: Helen greets Priam, “You are one I respect, dear father-in-law, and one I fear” (*Iliad* 3.172), and Hephaestus calls Thetis “a goddess I fear and respect” (*Iliad* 18.394). In his Cretan tale to Eumaeus the stranger will say the same of himself, that he was feared and respected among the Cretans (14.234; see [[the-tale-to-eumaeus]]).
 
 **Ashamed.** At the first song he draws his purple mantle over his head and covers his face, “for he was ashamed before the Phaeacians, letting tears fall from beneath his brows” (αἴδετο γὰρ Φαίηκας, 8.84–86; see [[tears]] and [[odysseus-weeps-at-the-feast]]). The verb takes the people before whom one feels shame, as Hector feels it before the Trojans (*Iliad* 6.442, 22.105).
 

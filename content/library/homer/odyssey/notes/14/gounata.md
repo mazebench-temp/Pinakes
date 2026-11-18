@@ -1,0 +1,5 @@
+---
+summary: Knees loosed in death, by Helen (14.69) and by the journey to Troy (14.236); and the knees of the king of Egypt, clasped by a suppliant (14.279).
+---
+
+Eumaeus curses Helen: “would that the race of Helen had perished utterly, / brought to its knees, since she loosed the knees of many men” (πρόχνυ, ἐπεὶ πολλῶν ἀνδρῶν ὑπὸ γούνατʼ ἔλυσε, 14.68–69; see [[helen]] and [[phylon]]). πρόχνυ, “on the knees”, is used metaphorically of utter downfall, “but here with a play on the literal sense: ‘may the race of Helen fall and be brought to its knees, even as she has loosed the knees of many men’” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.69). The half-verse returns of the war itself: “But when far-seeing Zeus devised that hateful journey, / which loosed the knees of many men” (14.235–236). The knees of the living are a suppliant's refuge: “and I went to meet the horses of the king / and clasped his knees and kissed them; and he protected me and pitied me” (καὶ κύσα γούναθʼ ἑλών, 14.278–279; see [[supplication]] and [[basileus]]).

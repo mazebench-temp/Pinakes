@@ -21,4 +21,8 @@ Both kinds, with a tunic, were gifts from host to guest (for example *Odyssey* 8
 
 ## Elsewhere in Homer
 
-Nestor, woken in the night, “fastened around him with a brooch a crimson cloak, double and wide, with a thick woolly nap upon it” (10.133–134). Agamemnon goes through the camp to rally the Achaeans holding his great purple φᾶρος in his hand (8.221). At the court of the Phaeacians, Odysseus draws his great purple φᾶρος over his head to hide his tears, “for he was ashamed” (*Odyssey* 8.83–86). In disguise, he describes to Penelope the cloak her husband wore on his way to Troy: purple, woolly and double, fastened with a golden brooch on which a hound held a dappled fawn (*Odyssey* 19.225–231).
+Nestor, woken in the night, “fastened around him with a brooch a crimson cloak, double and wide, with a thick woolly nap upon it” (10.133–134). Agamemnon goes through the camp to rally the Achaeans holding his great purple φᾶρος in his hand (8.221). At the court of the Phaeacians, Odysseus draws his great purple φᾶρος over his head to hide his tears, “for he was ashamed” (*Odyssey* 8.83–86). In disguise, he describes to Penelope the cloak her husband wore on his way to Troy: purple, woolly and double, fastened with a golden brooch on which a hound held a dappled fawn (*Odyssey* 19.225–231). To the swineherd Eumaeus he tells a tale of a winter night at Troy to win a cloak for the night (*Odyssey* 14.462–506; see [[the-tale-of-the-cloak]]).
+
+## Outside Homer
+
+Hesiod bids the farmer dress against the winter “as a protection for the body”, in “a soft cloak and a tunic reaching to the feet”, χλαῖνάν τε μαλακὴν καὶ τερμιόεντα χιτῶνα, woven of much woof on a thin warp, with sandals of oxhide lined with felt, the skins of firstling kids stitched with ox sinew over his back against the rain, and a felt cap on his head (*Works and Days* 536–546; see [[hesiod]], [[tunic]] and [[sandals]]).

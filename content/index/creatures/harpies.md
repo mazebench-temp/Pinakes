@@ -5,8 +5,8 @@ kind: creature
 tags: [personification]
 summary: The Snatchers, storm winds that carry people off without a trace. In the Iliad the Harpy Podarge is the mother of Achilles' horses by the West Wind; in the Odyssey the harpies snatch away the missing Odysseus and the daughters of Pandareus; Hesiod names two of them, Aello and Ocypete, sisters of Iris.
 aliases: [Harpy, Harpyiai, the Snatchers]
-# Ἅρπυια (16.150) is the only Iliad form; the Odyssey has ἅρπυιαι, lowercase, at 1.241, 14.371 and 20.77,
-# which the stem will catch when the Odyssey is indexed.
+# Ἅρπυια (16.150) is the only Iliad form; the Odyssey has ἅρπυιαι, lowercase, at 1.241, 14.371 and 20.77, which
+# the stem catches (20.77 when that book is added).
 grc: ["Ἅρπυι*"]
 passages:
   - 16.148-151 | The Harpy Podarge

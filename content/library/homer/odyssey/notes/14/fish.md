@@ -1,0 +1,8 @@
+---
+summary: In his grief Eumaeus imagines his master unburied, torn by dogs and birds on land, “or else the fish have eaten him in the sea, and his bones / lie on the mainland, wrapped in deep sand” (14.133–136).
+# ἰχθύες (14.135; again 24.291, both the fish that eat a drowned man), claimed here for the Odyssey; the Iliad's ἰχθύες
+# are in its Book 21 note.
+grc: [ἰχθύες]
+---
+
+**Eaten by the fish.** Eumaeus does not believe that his master will come home, and pictures the two deaths without burial, on land and at sea: “Already the dogs and the swift birds must have / torn the skin from his bones, and his soul has left him; / or else the fish have eaten him in the sea, and his bones / lie on the mainland, wrapped in deep sand” (14.133–136; see [[dogs]], [[birds]] and [[nostos]]). Telemachus had said the same to the stranger Mentes in the first book, of “a man whose white bones are rotting somewhere in the rain, / lying on the mainland, or the wave rolls them in the sea” (1.161–162; see [[athena-visits-telemachus]]), and Laertes will say it in the last, fearing that his son has died far from his friends: “either the fish have eaten in the sea, or on land / he has become a prey to wild beasts and birds” (24.291–292, a plain rendering). In the Iliad the fish eat the bodies of men killed in the river, Lycaon, whose blood they will lick from his wound, and Asteropaeus, whom eels and fish tear at on the sand (*Iliad* 21.122–127, 21.201–204; see the entry). εἰλυμένα, “wrapped”, is the verb with which the river threatens to wrap Achilles “in the sands, pouring heaps of gravel” around him, so that the Achaeans will not find his bones (*Iliad* 21.318–321; see [[the-swineherd-boy]]).

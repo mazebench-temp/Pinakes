@@ -38,6 +38,8 @@ grc:
   - "ἐσᾶλτο πύλας"
   - "ἐσέχυντο πύλας"
 en: [gates, doors, double doors, long bar, bars, bolt, hinges, wide open]
+# ἐπημοιβοί at Od. 14.513 are tunics "to change into" (tunic).
+except: [Od. 14.513]
 passages:
   - 7.337-341 | Nestor proposes the gates
   - 7.436-440 | The gates are built
@@ -51,7 +53,7 @@ passages:
 
 The gates were part of the wall from the first. Nestor proposed high towers by the common tomb of the dead, “And in them let us make gates that fit well, / so that through them there may be a way for driving horses” (7.339–340), and the Achaeans built them in the same words (7.438–439; see [[the-achaean-wall]] and [[the-building-of-the-wall]]).
 
-πύλαι, always plural, is a gateway with its gates; σανίδες are the doors, made of planks, and δικλίδες, “double”, are folding doors in two leaves, the word for the doors of Odysseus' storeroom and court (Od. 2.344–345, 17.267–268). An ὀχεύς is a bar laid across the doors to hold them shut; a κληΐς is a bolt or pin, and in the Odyssey also a key (Od. 21.6, 21.47). θαιροί, named only once, are taken as the pins or pivots on which the doors turned (see the translation's note on 12.453–462).
+πύλαι, always plural, is a gateway with its gates; σανίδες are the doors, made of planks, and δικλίδες, “double”, are folding doors in two leaves, the word for the doors of Odysseus' storeroom and court (Od. 2.344–345, 17.267–268). An ὀχεύς is a bar laid across the doors to hold them shut; a κληΐς is a bolt or pin, and in the Odyssey also a key (Od. 21.6, 21.47). θαιροί, named only once, are taken as the pins or pivots on which the doors turned (see the translation's note on 12.453–462). The two bars inside the gate that Hector breaks are ἐπημοιβοί, “crossing each other” (12.456), the word that the Odyssey uses of tunics “to change into” (*Odyssey* 14.513; see [[tunic]]).
 
 ## The fight at the gates
 

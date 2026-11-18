@@ -26,4 +26,4 @@ In the similes of the Iliad the West Wind drives a cloud over the sea, raises th
 
 ## Outside Homer
 
-Hesiod makes him a son of Eos and Astraeus (*Theogony* 378–380). In later poetry he became the mild wind of spring, the Latin Favonius.
+Hesiod makes him a son of Eos and Astraeus (*Theogony* 378–380). In later poetry he became the mild wind of spring, the Latin Favonius. The *Problems* ascribed to Aristotle ask why the West Wind seems the fairest and sweetest of the winds, “as Homer too says of the Elysian plain”, and quote the verse in a form that is not our text, ἀλλʼ αἰεὶ ζεφύροιο διαπνείουσιν ἀῆται, “but always the breezes of the West Wind blow through it” (*Odyssey* 4.567–568 has Oceanus send them up); the answer is that it lies between the hot winds and the cold and shares in both, and so is well tempered, and blows most in spring (*Problems* 26.31; see [[aristotle]]).

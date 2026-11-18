@@ -13,6 +13,6 @@ passages:
 
 {{quote:850d27b0-200f-5c5e-a896-8fab9b67cf7b}}
 
-ὀλέθρου πείρατʼ ἐφῆπται, “the bounds of destruction are made fast”, is said again of the Achaeans at their wall (12.79) and, in the Odyssey, of the suitors when Odysseus has thrown off his rags (*Odyssey* 22.41). Earlier in the book Menelaus said that “the bounds of victory are held among the immortal gods” (7.102; see [[the-bounds-of-victory]]).
+ὀλέθρου πείρατʼ ἐφῆπται, “the bounds of destruction are made fast”, is said again of the Achaeans at their wall (12.79) and, in the Odyssey, of the suitors when Odysseus has thrown off his [[rags|rags]] (*Odyssey* 22.41). Earlier in the book Menelaus said that “the bounds of victory are held among the immortal gods” (7.102; see [[the-bounds-of-victory]]).
 
 **After the war.** Zeus gives Poseidon leave to destroy the Achaean wall “when the long-haired Achaeans again are gone with their ships to their dear native land” (7.459–460). In Book 12 the narrator says when that was: after Priam's city was sacked in the tenth year and the Argives sailed home (12.15–16; see [[the-building-of-the-wall]]). The gods make their plans on the far side of the fall of Troy.

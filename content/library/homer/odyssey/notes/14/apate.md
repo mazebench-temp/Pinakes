@@ -1,0 +1,11 @@
+---
+summary: ἀπατήλια, “deceits”, three times in the book: the vagrants who speak deceits to Penelope (14.127), the man “who, giving way to poverty, speaks deceits” (14.157), and the Phoenician “skilled in deceits” of the Cretan tale (14.288); and ἀπαφίσκω, “beguile”, twice: an Aetolian who “beguiled me with a tale” (14.379), and “a god beguiled me / into wearing only a tunic” (14.488–489).
+# ἀπατήλια (14.127, 14.157, 14.288) and ἐξήπαφε (14.379), ἤπαφε (14.488), forms of ἀπαφίσκω, all only in this book in Homer;
+# the Iliad's notes claim ἐξαπάφοιτο and παρήπαφεν for this entry.
+grc: [ἀπατήλια, ἐξήπαφε, ἤπαφε]
+en: [beguiled]
+---
+
+**Deceits.** ἀπατήλια, the neuter plural of ἀπατήλιος, “deceitful”, is the liar's stock in trade. Eumaeus uses it of the wanderers who come to Penelope: “Whoever comes wandering to the land of Ithaca / goes to my mistress and speaks deceits” (ἀπατήλια βάζει, 14.126–127; see [[penelope]] and [[pseudos]]). The beggar takes up his words in the oath he offers: “For hateful to me as the gates of Hades is that man / who, giving way to poverty, speaks deceits” (14.156–157; see [[hateful-as-the-gates-of-hades]]). In his tale he gives the word to the man who carried him off, “a Phoenician man, skilled in deceits, / a greedy rogue” (ἀπατήλια εἰδώς, 14.288–289; see [[the-tale-to-eumaeus]] and [[phoenicians]]), a phrase made like ὀλοφώια εἰδώς, “skilled in wiles”, of Proteus (4.460). The Phoenicians of the tale told to Athena “did not wish to deceive me” (13.277; see the Book 13 note); in the tale told to Eumaeus the Phoenician is the deceiver. The man who curses the liar is himself a liar in rags (see [[rags]] and [[odysseus-changed-into-a-beggar]]).
+
+**Beguiled.** Eumaeus has been taken in once, and will not question wanderers again “ever since an Aetolian man beguiled me with a tale”, a homicide who claimed to have seen Odysseus with Idomeneus in Crete (ἐξήπαφε μύθῳ, 14.379–385; see [[aetolians]] and [[mythos]]). The beggar's tale of the night at Troy uses the same verb of a god: “for I have no cloak; a god beguiled me / into wearing only a tunic” (παρά μʼ ἤπαφε δαίμων, 14.488–489; see [[daimon]] and [[the-tale-of-the-cloak]]). In the Iliad the verb is Hera's, who sought “how she might beguile the mind of aegis-bearing Zeus” (ἐξαπάφοιτο, *Iliad* 14.160).

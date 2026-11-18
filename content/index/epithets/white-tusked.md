@@ -5,7 +5,7 @@ kind: epithet
 tags: [wild-animal, livestock]
 summary: “With white tusks,” the standing epithet of boars and swine, wild and tame; once of hunting dogs.
 aliases: [argiodous, with white tusks, white-toothed]
-grc: [ἀργιόδοντα]
+grc: [ἀργιόδοντα, ἀργιοδόντων]
 en: [with white tusks]
 of: [boar]
 ---

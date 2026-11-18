@@ -24,4 +24,4 @@ The care of a child not one's own is a mark of love in the Iliad's stories of up
 
 ## Outside Homer
 
-Apollodorus names another Phylas, the king of Ephyra in Thesprotia, whose city Heracles took and whose daughter Astyoche bore him Tlepolemus (*Library* 2.7.6, 2.7.8; see [[astyocheia]] and [[ephyra]]). The Iliad gives Tlepolemus' mother another name, Astyocheia, and does not name her father (2.658).
+Apollodorus names another Phylas, the king of Ephyra in [[thesprotians|Thesprotia]], whose city Heracles took and whose daughter Astyoche bore him Tlepolemus (*Library* 2.7.6, 2.7.8; see [[astyocheia]] and [[ephyra]]). The Iliad gives Tlepolemus' mother another name, Astyocheia, and does not name her father (2.658).

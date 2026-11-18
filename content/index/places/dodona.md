@@ -3,7 +3,7 @@ title: Dodona
 greek: Δωδώνη
 kind: place
 tags: [sanctuary, divination, mainland-greece, epirus]
-summary: The oracle of Zeus in the mountains of Epirus, "wintry Dodona". The peoples of Gouneus lived around it, and Achilles prays to its Zeus.
+summary: The oracle of Zeus in the mountains of Epirus, "wintry Dodona", where the god's will was heard from an oak. Achilles prays to its Zeus in the Iliad, and in the Odyssey's false tales Odysseus is said to have gone there to ask the oak how he should come home.
 grc: [Δωδώνην, δυσχείμερον]
 ---
 
@@ -13,7 +13,7 @@ grc: [Δωδώνην, δυσχείμερον]
 
 ## Elsewhere in Homer
 
-Achilles prays to the Zeus of Dodona, “Pelasgian”, around whom the Selli dwell, before he sends Patroclus out to fight (16.233–235; see [[selli]] and [[pelasgians]]). In the Odyssey, Odysseus is said to have gone to Dodona “to hear the will of Zeus from the god's high-leafed oak” (*Odyssey* 14.327–328, 19.296–297).
+Achilles prays to the Zeus of Dodona, “Pelasgian”, around whom the Selli dwell, before he sends Patroclus out to fight (16.233–235; see [[selli]] and [[pelasgians]]). In the Odyssey, Odysseus is said to have gone to Dodona “so that from the god's / high-leafed oak he might hear the will of Zeus” (*Odyssey* 14.327–328, 19.296–297).
 
 ## Outside Homer
 

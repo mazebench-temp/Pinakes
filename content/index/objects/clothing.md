@@ -8,14 +8,15 @@ aliases: [clothes, garments, raiment, dress, heima, esthes]
 # Exact forms, never a stem: εἵμα- would catch εἵμαρτο, "it was fated" (Il. 21.281). In the Iliad εἵματα, εἵματʼ,
 # εἵμασιν and εἷμα catch eleven lines (2.261, 3.392, 5.905, 16.670, 16.680, 18.517, 18.538, 22.154, 22.510, 23.67,
 # 24.162); εἵμαθʼ is the Odyssey's (4.750, 4.759). ἐσθῆτα, ἐσθῆτος and ἐσθής are found only in the Odyssey, and ἐσθής
-# also catches Rhetoric 1405a14, "the same clothing". The particular garments have their own entries.
-grc: [εἵματα, εἵματʼ, εἵμαθʼ, εἵμασιν, εἷμα, ἐσθῆτα, ἐσθῆτος, ἐσθής]
+# also catches Rhetoric 1405a14, "the same clothing". εἵματι is found only at Od. 14.501. The particular garments have
+# their own entries.
+grc: [εἵματα, εἵματʼ, εἵμαθʼ, εἵμασιν, εἷμα, εἵματι, ἐσθῆτα, ἐσθῆτος, ἐσθής]
 en: [clothes, clothing, garments, fine clothes]
 ---
 
 ## The words
 
-εἷμα, a garment, in the plural clothes, and ἐσθής, clothing taken together, are both formed from the root of ἕννυμι, “clothe”. The garments have their own names and entries: the tunic worn next to the skin, the cloak and the mantle over it, the woman's robe, girdle and veil (see [[tunic]], [[cloak]], [[robe]], [[girdle]] and [[veil]]).
+εἷμα, a garment, in the plural clothes, and ἐσθής, clothing taken together, are both formed from the root of ἕννυμι, “clothe”. The garments have their own names and entries: the tunic worn next to the skin, the cloak and the mantle over it, the woman's robe, girdle and veil, and the beggar's rags (see [[tunic]], [[cloak]], [[robe]], [[girdle]], [[veil]] and [[rags]]).
 
 ## In Homer
 

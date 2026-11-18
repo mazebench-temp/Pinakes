@@ -1,0 +1,10 @@
+---
+summary: The four dogs that always lie beside the boars at Eumaeus' fold are “like wild beasts” (14.21–22), and the next lines show what the likeness means, when they catch sight of the stranger and run at him, baying (14.29–38).
+# θήρεσσιν ἐοικότες (14.21), the plural of the entry's θηρὶ ἐοικώς, found only here.
+grc: ["θήρεσσιν ἐοικότες"]
+en: [like wild beasts]
+---
+
+**Dogs like wild beasts.** “And beside them always lay the dogs, like wild beasts, / four of them, which the swineherd, leader of men, had reared” (14.21–22; see [[dogs]], [[eumaeus]] and [[leader-of-men]]). θήρεσσιν ἐοικότες is the plural of the Iliad's half-verse θηρὶ ἐοικώς, said of Menelaus ranging through the throng in search of Paris and of Ajax falling back before the Trojans (*Iliad* 3.449, 11.546; see the entry). θήρ is the wild beast, most often the beast of prey, and the dogs that are reared to keep the beasts from the herd are themselves like them. The Iliad's watchdogs keep a troubled watch around the sheep in a fold when they hear a fierce beast coming through the woods (*Iliad* 10.183–189; see [[the-watchdogs]]); Eumaeus' four always lie beside the boars, which lie outside the sties (14.16, 14.21; see [[boar]] and [[sties]]); the verb of both, ἴαυον, “lay”, is to pass the night, not necessarily asleep (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.16). The only other θήρεσσιν of the Odyssey is Odysseus' fear, when he is cast up on the shore of Scheria, that he “may become the prey and spoil of wild beasts” (5.473).
+
+**The likeness shown.** The poet does not leave the comparison unexplained for long. “Suddenly the barking dogs caught sight of Odysseus. / And they ran at him, baying” (14.29–30), and Odysseus sat down, “by craft” (14.31; see [[kerdos]]). The swineherd drove them off “with showers of stones” and told the stranger, “Old man, truly the dogs came near to tearing you to pieces / all of a sudden, and you would have poured disgrace on me” (14.35–38; see the Book 14 note on [[dogs]]). When Telemachus comes to the hut, the same dogs fawn around him and do not bark (16.4–10, a plain rendering).

@@ -3,7 +3,7 @@ title: Kilt
 greek: ζῶμα
 kind: object
 tags: [weapon]
-summary: The ζῶμα, “what is girded on”: in *Iliad* 4 part of Menelaus' armor, worn beneath the belt and rendered “kilt”, and elsewhere a boxer's loincloth. What the warrior's ζῶμα was is disputed.
+summary: The ζῶμα, “what is girded on”: a part of a warrior's dress worn beneath the belt, rendered “kilt”, and a boxer's loincloth. What the warrior's ζῶμα was is disputed.
 aliases: [zoma, zōma, apron, loincloth]
 grc: [ζῶμα]
 en: [kilt]
@@ -16,9 +16,9 @@ passages:
 
 ## Meaning
 
-ζῶμα is formed from ζώννυμι (“gird”): it is the thing girded on, as the [[belt]] (ζωστήρ) is the thing that girds. At the funeral games of Patroclus, Diomedes readies Euryalus for the boxing: “first he put the ζῶμα on him, and then gave him the well-cut thongs of an ox of the field” (23.683–684). There it is a loincloth. In one of Odysseus' false tales in the Odyssey, the teller goes out on a winter night at Troy without his cloak, with only his shield “and a gleaming ζῶμα” (ζῶμα φαεινόν, Odyssey 14.482).
+ζῶμα is formed from ζώννυμι (“gird”): it is the thing girded on, as the [[belt]] (ζωστήρ) is the thing that girds. At the funeral games of Patroclus, Diomedes readies Euryalus for the boxing: “First he put the loincloth about him, and then / he gave him the well-cut straps of an ox of the fields” (23.683–684). There it is a loincloth. In one of Odysseus' false tales in the Odyssey, the teller goes out on a winter night at Troy without his cloak: “but I followed with only my shield and my shining kilt” (ζῶμα φαεινόν, *Odyssey* 14.482; see [[the-tale-of-the-cloak]]).
 
-## In Book 4
+## In Iliad 4
 
 Pandarus' arrow has struck Menelaus, and Agamemnon laments him as dying. Menelaus answers that the arrow “did not stick in a deadly place; in front the gleaming belt stopped it, and underneath the kilt and the band that the bronze-smiths made” (4.185–187). When Machaon comes, he loosens the same three: “the gleaming belt and, underneath, the kilt and the band that the bronze-smiths made” (4.215–216). The ζῶμα lay “underneath” (ὑπένερθε) the belt, and above or around the [[band]].
 
@@ -35,3 +35,5 @@ The commentaries set out the arguments (for example G. S. Kirk, *The Iliad: A Co
 ## Outside Homer
 
 Thucydides says that athletes at Olympia once competed wearing loincloths (διαζώματα), and that the custom had ended not many years before his own time (1.6.5).
+
+The Suda glosses ζῶμα as ζώνη, “belt”, quoting Sophocles, who uses the word, it says, of the belt and not of the garment (ζ 131).

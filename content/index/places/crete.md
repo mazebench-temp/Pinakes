@@ -8,7 +8,9 @@ aliases: [Krete, Kriti]
 # Κρήτῃ (Od. 3.291; later 13.256, 13.260, 17.523, and Κρήτη, 19.172, which differs only by the iota subscript) also
 # catches 13.450 and 13.453, which the Iliad Book 13 note claims as well.
 # Κρήτης (Od. 11.323; later 14.252, 14.300, 19.338) is in no Iliad line.
-grc: [Κρήτην, ἑκατόμπολιν, Κρήτῃ, Κρήτης]
+# Κρητάων, a feminine plural of the island's name, "wide Crete" (Od. 14.199 and again 16.62, the same half-verse), is
+# the land, not the people (Κρητῶν, Κρήτεσσι: cretans); it is in no other line of Homer, the Poetics or the Rhetoric.
+grc: [Κρήτην, ἑκατόμπολιν, Κρήτῃ, Κρήτης, Κρητάων]
 passages:
   - 2.645-652 | The Cretans
 ---
@@ -25,7 +27,7 @@ passages:
 
 ## Elsewhere in Homer
 
-The Odyssey counts ninety cities, not a hundred, and many peoples and languages: Achaeans, Eteocretans ("true Cretans"), Cydonians, Dorians and Pelasgians. Chief among the cities is Cnossus, where Minos ruled, "the companion of great Zeus" (*Odyssey* 19.172–179). Idomeneus is Minos' grandson (*Iliad* 13.449–453). Odysseus makes himself a Cretan in the false stories he tells on Ithaca (*Odyssey* 13.256–286, 14.199–359, 19.165–202).
+The Odyssey counts ninety cities, not a hundred, and many peoples and languages: Achaeans, Eteocretans ("true Cretans"), Cydonians, Dorians and Pelasgians. Chief among the cities is Cnossus, where Minos ruled, "the companion of great Zeus" (*Odyssey* 19.172–179). Idomeneus is Minos' grandson (*Iliad* 13.449–453). Odysseus makes himself a Cretan in the false stories he tells on Ithaca (*Odyssey* 13.256–286, 14.199–359, 19.165–202; see [[the-tale-to-eumaeus]]).
 
 ## Outside Homer
 

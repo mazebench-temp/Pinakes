@@ -18,3 +18,7 @@ passages:
 δαίς, from δαίομαι, “divide”, is a meal in which the food is shared out in portions. Its ideal is the δαὶς ἐΐση, the “equal feast”, in which everyone has his fair share.
 
 {{notes}}
+
+## Outside Homer
+
+Plato's Socrates draws a lesson for soldiers from Homer's feasts: on campaign the heroes eat neither fish, though they are by the sea at the Hellespont, nor boiled meat, but only roast, which is easiest for soldiers to come by, since fire is everywhere to hand and pots need not be carried; and Homer never mentions seasonings (*Republic* 3.404b–c; see [[plato]]). The *Homeric Hymn to Hermes* gives the division of the feast to a god. The newborn Hermes kills two of Apollo's cows, roasts the meat on wooden spits with the chines of honor (νῶτα γεράσμια), and on a flat stone divides it into twelve portions assigned by lot, adding to each a full share of honor (*Hymn to Hermes* 120–129; see [[hermes]]).

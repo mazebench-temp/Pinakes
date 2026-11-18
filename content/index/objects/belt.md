@@ -3,7 +3,7 @@ title: Belt
 greek: ζωστήρ
 kind: object
 tags: [weapon]
-summary: The warrior's belt, ζωστήρ, fastened with clasps at the waist over the lower edge of the corselet. A fine one could be richly worked, and heroes gave belts to one another as gifts.
+summary: The belt, ζωστήρ. The warrior's was fastened with clasps at the waist over the lower edge of the corselet; a fine one could be richly worked, and heroes gave belts to one another as gifts. In the Odyssey the swineherd Eumaeus draws his tunic tight with one.
 aliases: [belts, war-belt, zoster, zōstēr]
 grc: [ζωστῆρος, ζωστῆρι, ζωστήρ, ζωστῆρα]
 en: [belt]

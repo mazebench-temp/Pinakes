@@ -6,8 +6,8 @@ tags: [shame, speech, honor]
 summary: What others say of a person, the talk that goes up among men, praising or blaming, and the reproach it can bring. φάτις and φῆμις, “talk”, are its words. A god held Phoenix back from killing his father by putting in his heart “the talk of the people”; Hector would rather face Achilles than hear what a baser man might say of him; Nausicaa will not be seen entering the city with a stranger, for fear of the Phaeacians' bitter talk; and Penelope, pondering whether to stay or to marry, weighs her husband's bed and the talk of the people.
 aliases: [talk, gossip, what people will say, what men will say, public opinion, reputation, phatis, phēmis, phemis, rumor]
 # φάτις and φῆμις: Il. 9.460, 10.207; Od. 6.29, 6.273 and later books (14.239, 15.468, 16.75 = 19.527, 21.323, 23.362,
-# 24.201): add the nominative φῆμις with Book 14. φήμη, the word of omen (Od. 2.35, 20.100, 20.105), is another thing.
-grc: [φάτις, φάτιν, φῆμιν]
+# 24.201). The nominative φῆμις is only Od. 14.239. φήμη, the word of omen (Od. 2.35, 20.100, 20.105), is another thing.
+grc: [φάτις, φάτιν, φῆμιν, φῆμις]
 en: [talk]
 ---
 

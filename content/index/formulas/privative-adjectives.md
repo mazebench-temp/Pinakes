@@ -5,10 +5,11 @@ kind: formula
 tags: [figure]
 summary: Pairs of adjectives formed with the negative prefix ἀ-, set side by side for emphasis.
 aliases: [alpha privative, negative adjectives]
-grc: [ἀπριάτην ἀνάποινον, ἀδάκρυτος καὶ ἀπήμων]
+grc: [ἀπριάτην ἀνάποινον, ἀδάκρυτος καὶ ἀπήμων, ἀσκηθέες καὶ ἄνουσοι]
 en:
   - unbought, unransomed
   - free of tears and free of harm
+  - unharmed and free of sickness
 ---
 
 ## The pattern

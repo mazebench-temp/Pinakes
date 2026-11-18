@@ -1,0 +1,213 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 47,
+      "title": "The Swineherd's Fold",
+      "summary": "Odysseus goes up from the harbor through the woods to the farmstead that Athena had shown him. Eumaeus has built a great fold of hauled stones topped with wild pear, with twelve sties of breeding sows, while the boars, fewer every day because the suitors eat them, sleep outside, guarded by four dogs like wild beasts. The dogs rush at the stranger, who sits down by craft; Eumaeus drives them off with stones and welcomes him, grieving for his absent master."
+    },
+    {
+      "from": 48,
+      "to": 113,
+      "title": "The Swineherd's Welcome",
+      "summary": "Eumaeus makes him a seat of brushwood and a goatskin. Strangers and beggars are from Zeus, he says, and his master would have given him a house and land and a wife, had he come home; may the race of Helen perish. He kills and roasts two piglets, serves them with barley meal and wine, and tells how the suitors waste the swine and the wine of Odysseus, and of his master's wealth, twelve herds on the mainland and the flocks on Ithaca."
+    },
+    {
+      "from": 114,
+      "to": 190,
+      "title": "The Oath Refused",
+      "summary": "Odysseus asks the name of the swineherd's master, in case he can bring news of him. Eumaeus answers that every vagrant who comes to Ithaca tells Penelope lies; Odysseus is surely dead. The stranger swears by Zeus, the table of hospitality and the hearth of Odysseus that he will come home this very year, and asks for his reward only then. Eumaeus will not take the oath, grieves for Telemachus, whom the suitors lie in wait for, and asks the stranger who he is and how he came."
+    },
+    {
+      "from": 191,
+      "to": 359,
+      "title": "The Cretan Tale",
+      "summary": "Odysseus tells a false tale: he is the son of Castor son of Hylax by a bought woman, a fighter and raider who led ships nine times before Troy and went there with Idomeneus. After the war he sailed to Egypt, where his men raided the fields and were cut down, and he saved himself by clasping the king's knees; he stayed seven years and grew rich, until a Phoenician took him to Phoenicia and on toward Libya to sell him. Zeus wrecked the ship, and he drifted on the mast to Thesprotia, where King Pheidon received him and told him that Odysseus had gone to Dodona to ask the oracle and would soon come home. Thesprotian sailors bound him to sell him as a slave, but he escaped on Ithaca and hid in a thicket."
+    },
+    {
+      "from": 360,
+      "to": 408,
+      "title": "Eumaeus' Doubt",
+      "summary": "Eumaeus is moved by the tale but will not believe what the stranger says of Odysseus: an Aetolian once beguiled him with such news. The stranger offers a wager: if his master comes, Eumaeus shall give him a cloak and tunic; if not, let the slaves throw him from a rock. Eumaeus answers that he would have fine fame indeed if he killed his guest, and turns to supper."
+    },
+    {
+      "from": 409,
+      "to": 456,
+      "title": "The Sacrifice in the Hut",
+      "summary": "The swineherds bring the swine home for the night, and Eumaeus has them bring the best boar, five years old, for the stranger. He throws hairs from its head into the fire with a prayer for Odysseus' return, kills it, and divides it into seven portions, one for the nymphs and Hermes, son of Maia; he honors the stranger with the long chine, and Odysseus prays that Zeus may love him. Mesaulius, the servant whom Eumaeus bought from the Taphians, serves the bread."
+    },
+    {
+      "from": 457,
+      "to": 533,
+      "title": "The Cloak",
+      "summary": "A stormy night comes on, without a moon. To test Eumaeus, Odysseus tells how at Troy, on a freezing night in an ambush, he had no cloak, and Odysseus got him one by a trick, sending Thoas running to the ships. Eumaeus praises the tale, makes him a bed by the fire and covers him with a thick cloak, and goes out armed to sleep beside the boars under a hollow rock, sheltered from the North Wind; and Odysseus rejoices that he cares so much for his master's substance."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 37,
+      "to": 47,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "welcome"
+    },
+    {
+      "from": 53,
+      "to": 54,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 56,
+      "to": 71,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 80,
+      "to": 108,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 115,
+      "to": 120,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 122,
+      "to": 147,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 149,
+      "to": 164,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "oath"
+    },
+    {
+      "from": 166,
+      "to": 190,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 192,
+      "to": 359,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "false tale"
+    },
+    {
+      "from": 361,
+      "to": 389,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 391,
+      "to": 400,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "from": 402,
+      "to": 408,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 414,
+      "to": 417,
+      "speaker": "eumaeus",
+      "to_whom": [],
+      "kind": "command"
+    },
+    {
+      "from": 440,
+      "to": 441,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 443,
+      "to": 445,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 462,
+      "to": 506,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "test"
+    },
+    {
+      "from": 508,
+      "to": 517,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 456,
+      "label": "Day 35",
+      "note": "The same day as Odysseus' waking on Ithaca (Book 13): he goes up from the harbor to the swineherd's farmstead, and the talk runs on till supper (14.407–456)."
+    },
+    {
+      "from": 457,
+      "to": 533,
+      "label": "Night of Day 35",
+      "note": "A stormy night without a moon (14.457–458): the tale of the cloak and the sleep at the hut. Book 15 turns to Telemachus at Sparta."
+    }
+  ]
+}

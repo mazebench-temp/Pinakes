@@ -12,7 +12,7 @@ relations:
   - father: idomeneus (Od. 13.259-260)
 ---
 
-He is named in one tale only, the first of the false stories that Odysseus tells on Ithaca, to Athena, whom he takes for a young herdsman (see the note on *Odyssey* 13, [[the-first-cretan-tale]], [[odysseus]] and [[athena]]). In the later Cretan tales, to Eumaeus and to Penelope, Idomeneus has a part again, but his son is not named (*Odyssey* 14.237–239, 19.181–184).
+He is named in one tale only, the first of the false stories that Odysseus tells on Ithaca, to Athena, whom he takes for a young herdsman (see the note on *Odyssey* 13, [[the-first-cretan-tale]], [[odysseus]] and [[athena]]). In the later Cretan tales, to Eumaeus and to Penelope, Idomeneus has a part again, but his son is not named (*Odyssey* 14.237–239, 19.181–184; see [[the-tale-to-eumaeus]]).
 
 ## The name
 

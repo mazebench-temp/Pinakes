@@ -37,7 +37,7 @@ He is Δευκαλίδης, “son of Deucalion” (12.117, 13.307, 17.608; see 
 
 ## In the Odyssey
 
-Nestor tells Telemachus that Idomeneus brought home to Crete all his companions who had escaped the war, and the sea took none (*Odyssey* 3.191–192). Crete is Idomeneus' country in Odysseus' false tales: he killed Orsilochus, Idomeneus' son (the only son Homer names), who tried to rob him of his Trojan spoils because he had not served under Idomeneus at Troy (*Odyssey* 13.259–270; see [[orsilochus-son-of-idomeneus]] and [[the-first-cretan-tale]]); the people made him and Idomeneus lead the ships to Ilios (*Odyssey* 14.237–239); and he is Aethon, Idomeneus' younger brother, who entertained Odysseus in Crete after Idomeneus had sailed (*Odyssey* 19.178–193).
+Nestor tells Telemachus that Idomeneus brought home to Crete all his companions who had escaped the war, and the sea took none (*Odyssey* 3.191–192). Crete is Idomeneus' country in Odysseus' false tales: he killed Orsilochus, Idomeneus' son (the only son Homer names), who tried to rob him of his Trojan spoils because he had not served under Idomeneus at Troy (*Odyssey* 13.259–270; see [[orsilochus-son-of-idomeneus]] and [[the-first-cretan-tale]]); the people made him and Idomeneus lead the ships to Ilios (*Odyssey* 14.237–239; see [[the-tale-to-eumaeus]]); and he is Aethon, Idomeneus' younger brother, who entertained Odysseus in Crete after Idomeneus had sailed (*Odyssey* 19.178–193).
 
 ## Outside Homer
 

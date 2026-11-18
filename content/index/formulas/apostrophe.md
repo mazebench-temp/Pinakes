@@ -3,9 +3,9 @@ title: Apostrophe
 greek: ἀποστροφή
 kind: formula
 tags: [figure]
-summary: The narrator turns from his story to speak to someone in the second person, most often to Menelaus and Patroclus, or to the listener, “you would not have seen”, “you would not have said”. Book 4 has the first of both kinds in the Iliad.
+summary: The narrator turns from his story to speak to someone in the second person, in the Iliad most often to Menelaus and Patroclus and in the Odyssey only to the swineherd Eumaeus, or to the listener, “you would not have seen”, “you would not have said”.
 aliases: [addressing the listener, the narrator's address, you would have said, imagined onlooker]
-grc: ["σέθεν Μενέλαε", "τοι Μενέλαε", "βρίζοντα ἴδοις", "ἴσαν οὐδέ κε φαίης", "ἔργον ἀνὴρ ὀνόσαιτο"]
+grc: ["σέθεν Μενέλαε", "τοι Μενέλαε", "βρίζοντα ἴδοις", "ἴσαν οὐδέ κε φαίης", "ἔργον ἀνὴρ ὀνόσαιτο", "προσέφης Εὔμαιε συβῶτα"]
 en: [you would not have seen, you would not have said, could make light of it]
 ---
 
@@ -13,7 +13,7 @@ en: [you would not have seen, you would not have said, could make light of it]
 
 ἀποστροφή, “turning away”, is the rhetoricians' term for a speaker who turns from his audience to address someone else. In Homer the narrator does it in two ways.
 
-**To a character.** In the middle of the story he speaks to one of his characters as “you”. Menelaus is addressed seven times (4.127, 4.146, 7.104, 13.603, 17.679, 17.702, 23.600), and Patroclus eight times, all in *Iliad* 16, from “Groaning heavily, you said to him, horseman Patroclus” (16.20; see [[groaning-heavily]]) to the moment of his death (16.787, 16.812, 16.843). Achilles, Melanippus and Apollo are addressed once or twice each (20.2, 15.582, 15.365, 20.152). In the Odyssey the swineherd Eumaeus is addressed many times.
+**To a character.** In the middle of the story he speaks to one of his characters as “you”. Menelaus is addressed seven times (4.127, 4.146, 7.104, 13.603, 17.679, 17.702, 23.600), and Patroclus eight times, all in *Iliad* 16, from “Groaning heavily, you said to him, horseman Patroclus” (16.20; see [[groaning-heavily]]) to the moment of his death (16.787, 16.812, 16.843). Achilles, Melanippus and Apollo are addressed once or twice each (20.2, 15.582, 15.365, 20.152). In the Odyssey the narrator speaks so only to the swineherd Eumaeus, fifteen times between *Odyssey* 14 and *Odyssey* 22, and always as he begins to speak: “Answering him, you said, swineherd Eumaeus” (*Odyssey* 14.55; see [[answering-him]]). The verse has the frame and the vocative of the Iliad's addresses to Patroclus, with the name and its title after the caesura, and the taunt opens in the same words for both men, τὸν δʼ ἐπικερτομέων προσέφης, “And taunting him you spoke” (16.744; *Odyssey* 22.194).
 
 **To the listener.** The narrator speaks to his hearer as “you”, usually with a potential optative: “you would not have seen” (4.223), “you would not have said” (4.429), as for the son of Tydeus, “you could not have told which side he was on” (5.85). A related device imagines an onlooker in the third person: a man who came into the fighting unhurt, led by Athena, “could make light of it” no longer (4.539–542).
 

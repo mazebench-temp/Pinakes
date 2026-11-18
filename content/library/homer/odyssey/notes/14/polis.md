@@ -1,0 +1,7 @@
+---
+summary: Eumaeus lives apart from the city, where the suitors are, and goes there only when Penelope sends for him (14.26–27, 14.372–374); he asks the stranger, “Where are your city and your parents?” (14.187); and the Cretan tale has its cities, Priam's, sacked in the tenth year (14.241), the Egyptian city to which the cry came (14.265), and Troy, under whose wall the ambush lay (14.472–473).
+---
+
+**The swineherd's distance.** The hut is in the country, and the city belongs to the suitors: the fourth herdsman has gone “to the city / to take a boar to the overbearing suitors, under compulsion” (πόλινδε, 14.26–27; see [[the-suitors]]), and Eumaeus says, “But I live apart, among the swine; nor do I go to the city, / unless perhaps prudent Penelope / urges me to come, when news comes from somewhere” (14.372–374; see [[penelope]]).
+
+**Cities of the tale.** “Where are your city and your parents?” (14.187 = 1.170; see [[who-are-you-among-men]]). The Cretan's answer names “the city of Priam”, sacked in the tenth year (14.241; see [[troy]]), the Egyptian city to which “the cry came” when his men plundered the fields (14.265; see [[egypt]] and [[the-raid-on-egypt]]), and the Troy of the tale of the cloak: “But when we came to the city and the steep wall, / As for us, around the city in the thick brushwood” (ποτὶ πτόλιν αἰπύ τε τεῖχος … περὶ ἄστυ, 14.472–473; see [[the-walls-of-troy]] and [[the-tale-of-the-cloak]]), where περὶ ἄστυ is used, with some vagueness, of besiegers (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 14.473).

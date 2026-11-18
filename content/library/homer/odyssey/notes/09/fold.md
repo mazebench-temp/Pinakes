@@ -1,7 +1,7 @@
 ---
 summary: A high fold of stones set deep in the earth, with pines and oaks, stands around the Cyclops' cave (9.184–186). Inside, his lambs and kids are penned by age (9.219–222); he leaves his rams and he-goats outside in the fold (9.237–239) until the evening of the blinding, when he drives every animal in (9.336–339), and on the morning of the escape the unmilked ewes bleat around the pens (9.439–440).
 # The fold's αὐλή by phrases (they apply in the Odyssey only), since αὐλή alone is also the court of a house: "περὶ δʼ
-# αὐλὴ" (9.184; the same words of Eumaeus' court at 14.5), "ἔκτοθεν αὐλῆς" (9.239, 9.338) and "σπείους τε καὶ αὐλῆς"
+# αὐλὴ" (9.184; Eumaeus' fold has the same αὐλὴ / ὑψηλὴ δέδμητο at 14.5–6), "ἔκτοθεν αὐλῆς" (9.239, 9.338) and "σπείους τε καὶ αὐλῆς"
 # (9.462); house excepts the three αὐλῆς lines. The pens, σηκοί, are the entry's.
 grc: ["περὶ δʼ αὐλὴ", "ἔκτοθεν αὐλῆς", "σπείους τε καὶ αὐλῆς"]
 en: [high fold, high-walled fold, fold]

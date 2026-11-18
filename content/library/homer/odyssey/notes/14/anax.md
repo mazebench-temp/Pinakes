@@ -1,0 +1,10 @@
+---
+summary: In the swineherd's mouth ἄναξ is “master”: the absent Odysseus, mourned as “my godlike master” (14.40), who would have rewarded him as “a kind-hearted master gives to his servant” (14.63), and than whom he will never find “another / master so kind” (14.138–139). The narrator gives the same word to the beggar at the fire: Eumaeus “spoke to his master” (14.36) and “gladdened the heart of his master” (14.438).
+# ἄνακτες (14.60; again 17.310, 17.320), first met here among the Odyssey's notes.
+grc: [ἄνακτες]
+en: [master, masters]
+---
+
+**The absent master.** The swineherd built his fold “for the swine, while his master was away, / without his mistress and old Laertes” (ἀποιχομένοιο ἄνακτος, 14.8–9; the same verses of Mesaulius, 14.450–451; see [[eumaeus]], [[laertes]] and [[mesaulius]]). He speaks of his master as of the dead. He sits “mourning and grieving for my godlike master” (14.40; see [[achos]]), the master “who would have loved me with care and granted me wealth, / such as a kind-hearted master gives to his servant, / a house and an allotment and a much-wooed wife” (14.62–64; see [[slavery-and-freedom]] and [[philos]]), who would have helped him greatly “if he had grown old here” (14.67). He will never find “another / master so kind” (ἤπιον ὧδε ἄνακτα, 14.138–139), and his heart grieves “whenever anyone reminds me of my devoted master” (κεδνοῖο ἄνακτος, 14.170; see [[devoted]]). What a slave fears is new masters: “that is the way of slaves, / who are always afraid, when masters hold command over them, / the young ones” (ὅτʼ ἐπικρατέωσιν ἄνακτες / οἱ νέοι, 14.59–61; see [[doulios]]).
+
+**The master at the fire.** The narrator does not wait for the recognition. When Eumaeus has driven off the dogs, “he spoke to his master” (προσέειπεν ἄνακτα, 14.36), and at the evening meal “he honored Odysseus with the long chine / of the white-tusked boar, and gladdened the heart of his master” (κύδαινε δὲ θυμὸν ἄνακτος, 14.437–438; see [[plato-chine-of-ajax]]). The beggar, for his part, speaks to Eumaeus of “your master” when he states the terms of his wager (14.395, 14.398; see [[rhetre]]).

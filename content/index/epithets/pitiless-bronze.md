@@ -3,7 +3,7 @@ title: Pitiless bronze
 greek: νηλὴς χαλκός
 kind: epithet
 tags: [weapon, sacrifice]
-summary: “The pitiless bronze,” a formula for the blade that kills, man or beast.
+summary: “The pitiless bronze,” a verse-end formula for the bronze blade, most often the one that kills, man or beast; in the Odyssey also the one that maims, and the one that splits wood.
 aliases: [ruthless bronze, nelees chalkos]
 grc: [νηλέϊ χαλκῷ]
 en: [pitiless bronze]

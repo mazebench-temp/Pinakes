@@ -5,7 +5,7 @@ kind: formula
 tags: [speech-formula]
 summary: A line-opening for a reply, “answering him, (so-and-so) said.” The rest of the verse is filled by the speaker's name and epithet.
 aliases: [answering him, ton d apameibomenos]
-grc: [ἀπαμειβόμενος προσέφη]
+grc: [ἀπαμειβόμενος προσέφη, ἀπαμειβόμενος προσέφης]
 en: [Answering him, Answering her]
 ---
 

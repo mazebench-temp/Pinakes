@@ -14,7 +14,7 @@ of: [ares, paeeon]
 
 {{quote:1ef90771-b2bb-5af4-a2ba-4bb21bf88e89}}
 
-ὡς δʼ ὅτʼ ὀπὸς γάλα λευκὸν ἐπειγόμενος συνέπηξεν / ὑγρὸν ἐόν, μάλα δʼ ὦκα περιτρέφεται κυκόωντι: “as fig juice, stirred in, quickly curdles white milk, liquid as it is, and very quickly it thickens as a man stirs it”. ὀπός is the milky sap of the fig tree, which curdles milk; this is the only place in Homer where the word occurs. γάλα λευκόν, “white milk”, is the milk of the ewes in the simile of *Iliad* 4 (4.434). ἐπειγόμενος, “pressing, hurried on”, describes the juice worked quickly into the milk. συμπήγνυμι is “make solid, set”, and κυκάω “stir”: κυκόωντι is “for a man who stirs it”. περιτρέφεται, “thickens all through”, uses τρέφω, usually “rear, nourish”, in a sense it has in several places: “thicken, curdle, set solid”. The Cyclops curdles (θρέψας) half his white milk (Odyssey 9.246), brine has caked (τέτροφεν) on the skin of shipwrecked men (Odyssey 23.237), and ice forms (περιτρέφετο) on the shields of men lying out on a winter night (Odyssey 14.477).
+ὡς δʼ ὅτʼ ὀπὸς γάλα λευκὸν ἐπειγόμενος συνέπηξεν / ὑγρὸν ἐόν, μάλα δʼ ὦκα περιτρέφεται κυκόωντι: “as fig juice, stirred in, quickly curdles white milk, liquid as it is, and very quickly it thickens as a man stirs it”. ὀπός is the milky sap of the fig tree, which curdles milk; this is the only place in Homer where the word occurs. γάλα λευκόν, “white milk”, is the milk of the ewes in the simile of *Iliad* 4 (4.434). ἐπειγόμενος, “pressing, hurried on”, describes the juice worked quickly into the milk. συμπήγνυμι is “make solid, set”, and κυκάω “stir”: κυκόωντι is “for a man who stirs it”. περιτρέφεται, “thickens all through”, uses τρέφω, usually “rear, nourish”, in a sense it has in several places: “thicken, curdle, set solid”. The Cyclops curdles (θρέψας) half his white milk (*Odyssey* 9.246), brine has caked (τέτροφεν) on the skin of shipwrecked men (*Odyssey* 23.237), and ice forms (περιτρέφετο) on the shields of men lying out on a winter night (*Odyssey* 14.477; see [[snow-like-hoarfrost]]).
 
 The tenor: ὣς ἄρα καρπαλίμως ἰήσατο θοῦρον Ἄρηα, “so quickly he healed furious Ares” (5.904). καρπαλίμως, “quickly”, answers μάλα δʼ ὦκα, “very quickly”, in the simile. The point of likeness is speed: what was liquid sets at once. The flowing blood of the god, the “immortal blood” that Ares showed Zeus running from his wound (5.870), stops as milk stops being liquid, and the wound closes. The image of the war god's cure comes from the milking yard and the dairy.
 
@@ -24,7 +24,7 @@ Zeus has called Ares the most hateful to him of the gods who hold Olympus, a tur
 
 ## Elsewhere in Homer
 
-Milk belongs to the herdsman's world of the similes. The Achaeans gather like the flies that swarm around a steading in spring, “when the milk wets the pails” (2.469–473; see [[flies-around-the-milk-pails]]), and the Trojans bleat like ewes being milked of their white milk (4.433–436; see [[sheep-in-the-fold]]). In the Odyssey the Cyclops milks his ewes and goats, curdles half the white milk, and sets it in woven baskets (Odyssey 9.244–249).
+Milk belongs to the herdsman's world of the similes. The Achaeans gather like the flies that swarm around a steading in spring, “when the milk wets the pails” (2.469–473; see [[flies-around-the-milk-pails]]), and the Trojans bleat like ewes being milked of their white milk (4.433–436; see [[sheep-in-the-fold]]). In the Odyssey the Cyclops milks his ewes and goats, curdles half the white milk, and sets it in woven baskets (*Odyssey* 9.244–249).
 
 ## Outside Homer
 
