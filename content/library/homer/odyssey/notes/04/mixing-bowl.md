@@ -12,4 +12,4 @@ The bowl is the best of the κειμήλια, the treasures laid up in his house
 
 {{quote:8a94f5a4-7b52-530d-aefc-309fd91a94e7}}
 
-The verses of the gift return in Book 15, when Menelaus keeps his word: he puts a two-handled cup in Telemachus' hand, and Megapenthes sets the shining silver bowl before him (15.113–123, plain renderings; see [[megapenthes]] and [[cup]]).
+The verses of the gift return in Book 15, when Menelaus keeps his word: he puts a two-handled cup in Telemachus' hand, and Megapenthes sets the shining silver bowl before him (15.113–123; see [[megapenthes]] and [[cup]]).

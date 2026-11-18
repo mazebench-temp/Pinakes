@@ -1,0 +1,9 @@
+---
+summary: Telemachus' plea to Peisistratus at Pylos: they are guest-friends from their fathers' friendship and of the same age, “and this journey will bring us still further into oneness of mind” (15.195–198), so let him be left at the ship.
+# ὁμοφροσύνῃσιν (15.198), the plural, only here; the entry's ὁμοφροσύνην is 6.181.
+grc: [ὁμοφροσύνῃσιν]
+---
+
+**Between friends.** The word of Odysseus' blessing on Nausicaa, the oneness of mind of husband and wife (6.181–185), is used once more in the poem, of two young men. Telemachus asks Peisistratus for a favor and gives three grounds: “We claim to be guest-friends without end / from our fathers' friendship, and we are of the same age as well; / and this journey will bring us still further into oneness of mind” (15.196–198; see [[xenia]] and [[peisistratus]]). The friendship is inherited, as Glaucus and Diomedes are guest-friends from their grandfathers' time (*Iliad* 6.215–231) and Athena as Mentes claimed the same of their fathers (1.187–188); the age is their own; and the journey has made the rest. The plural with ἐνήσει is like ἀγηνορίῃσιν ἐνῆκας, Diomedes' word to Agamemnon of Achilles, “now you have driven him much further into his pride” (*Iliad* 9.700; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.198).
+
+**The favor.** What oneness of mind is asked to bear is a breach of hospitality toward Peisistratus' own father: “Do not take me past the ship, you who are nurtured by Zeus, but leave me there, / lest the old man keep me in his house against my will / in his eagerness to make me welcome” (15.199–201; see [[nestor]] and [[welcome-the-guest-send-him-on]]). Peisistratus takes counsel with his heart, finds it the better way, drives to the ship and bids Telemachus go aboard before Nestor can come to fetch him (15.202–214). The friend proves of one mind with him, against his father.

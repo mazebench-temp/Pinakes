@@ -1,0 +1,5 @@
+---
+summary: Four dawns: Peisistratus says “soon it will be dawn,” and “at once Dawn of the golden throne came” (15.50, 15.56); “And when early-born Dawn appeared, the rosy-fingered,” at Pherae (15.189); the swineherd's order for the herdsmen, “when dawn appears” (15.396); and “for soon came Dawn of the fair throne,” as Telemachus reaches Ithaca (15.495).
+---
+
+The dawns count the days of the book. By D. B. Monro's reckoning the story begins on the thirty-sixth day, the dawn at Pherae is the thirty-seventh, and the dawn of the landing the thirty-eighth (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.1, 15.189, 15.495); the night between, which Telemachus spends at sea, is filled with the night in the hut (Monro on 15.301–495). Each dawn has an epithet of its own (see [[golden-throned]], [[early-born]], [[rosy-fingered]] and [[of-the-fair-throne]]). The swineherd's ἅμα δʼ ἠοῖ φαινομένηφι is the half-verse of Eidothea's and Circe's instructions (4.407, 12.24; see the note on Book 4): at dawn the herdsmen are to follow the swine, while he and his guest talk on through the night (15.395–401; see [[eos]]).

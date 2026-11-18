@@ -1,0 +1,5 @@
+---
+summary: Penelope, Telemachus tells Theoclymenus, does not often show herself to the suitors, “but away from them she weaves at her loom in the upper room” (15.516–517).
+---
+
+“and my mother / will not see you; for she does not often show herself to the suitors in the house, / but away from them she weaves at her loom in the upper room” (15.515–517; see [[penelope]], [[upper-room]], [[weaving]] and [[theoclymenus]]). ἀπὸ τῶν is “away from them”, the article used as an unemphatic pronoun, a use hardly found except with prepositions (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.517). It is the loom to which Telemachus sent her back in Book 1, and at which she wove and unwove the web for Laertes (1.356–358, 2.93–110; see [[the-web-of-penelope]] and the Book 1 and Book 2 notes). In the same book Helen gives Telemachus a robe that she made herself (15.104–108, 15.123–128; see [[robe]] and [[helens-web]]). ἱστόν at 15.289 and 15.496 is the mast of the ship, and the entry excepts both lines (see [[mast]]).

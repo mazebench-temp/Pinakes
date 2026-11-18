@@ -14,4 +14,4 @@ relations:
 
 Κλυτίος, from κλυτός, "famous". He sits among the elders at the Scaean gates with his brothers Lampus and Hicetaon, and he is one of the sons of Laomedon in Aeneas' genealogy (3.147 = 20.238; see [[trojan-elders]]). His son Caletor, Hector's cousin (ἀνεψιός), is killed by Ajax as he carries fire to an Achaean ship (15.419–422; see [[caletor]]).
 
-Homer names two more men Clytius: the father of the Achaean Dolops, whom Hector kills (Κλυτίδην, 11.302; see [[dolops]]), and the father of Peiraeus of Ithaca (*Odyssey* 15.540, 16.327).
+Homer names two more men Clytius: the father of the Achaean Dolops, whom Hector kills (Κλυτίδην, 11.302; see [[dolops]]), and the father of Peiraeus of Ithaca (*Odyssey* 15.540, 16.327; see [[clytius-father-of-peiraeus]] and [[peiraeus-son-of-clytius]]).

@@ -1,0 +1,14 @@
+---
+summary: The sending-off at Sparta. Athena bids Telemachus urge Menelaus “to send you on” (15.15); Peisistratus would wait until Menelaus “sends us off, speaking comfortingly with gentle words” (15.53); Telemachus asks, “send me away now to my dear native land” (15.65); and Menelaus answers with the rule, “One should make welcome a guest who is present, and send him off when he wishes” (15.74). In the hut Eumaeus promises that Telemachus will send the stranger “wherever your heart and spirit bid you” (15.339).
+# The verb πέμπω and its compound ἀποπέμπω, for sending a guest on his way: πεμπέμεν (15.15; again 10.18), ἀποπέμψῃ
+# (15.53), ἀπόπεμπε (15.65; again 5.146), πέμπειν (15.74; again 19.281), ἀππέμψει (15.83), and the phrase of 15.339
+# (= 14.517). πέμψει at 15.34 is the god who "will send you a fair wind", which the phrase leaves out.
+grc: [πεμπέμεν, ἀποπέμψῃ, ἀπόπεμπε, πέμπειν, ἀππέμψει, "πέμψει δʼ ὅππη"]
+en: [send you on, sends us off, send me away, send him away, send him off, will send you]
+---
+
+**Send me away.** The book begins with a guest's wish to leave. Athena tells Telemachus to “urge Menelaus, good at the war cry, as quickly as you can / to send you on, so that you may still find your noble mother at home” (15.14–15; see [[athena]] and [[the-journey-of-telemachus]]). Peisistratus will not set out by night, but bids him wait until Menelaus has brought his gifts “and sends us off, speaking comfortingly with gentle words” (15.53; see [[gentle-words]] and [[guest-gifts]]), and at dawn Telemachus makes the guest's request: “send me away now to my dear native land; / for already my heart yearns to come home” (15.65–66; see [[nostos]] and [[dear-native-land]]), the request Odysseus made of every host, and of Arete, “speed my escort” (7.151; see the Book 7 note).
+
+**The host's rule.** Menelaus grants it with a rule of hospitality: “It is an equal wrong, both when a man urges on a guest who does not wish / to go home, and when he holds back one who is eager to go. / One should make welcome a guest who is present, and send him off when he wishes” (15.72–74; see [[xenia]], [[what-is-due-is-better]] and [[welcome-the-guest-send-him-on]]). The sending is not to be bare: on the tour through Hellas and Argos that he offers, no host would send them away “just as we came” (15.82–83), that is, without a present (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.83), and he sends his guest off with a cup, a mixing bowl and a robe (15.99–130; see [[doron]]).
+
+**Wherever your heart bids.** In the hut Eumaeus answers the stranger who would go to the city: when Telemachus comes, “he will clothe you in a cloak and a tunic as clothing, / and will send you wherever your heart and spirit bid you” (15.338–339), the verses of his promise on the night before (14.516–517; see [[peira]] and [[kradie]]).

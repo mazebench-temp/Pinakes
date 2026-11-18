@@ -3,10 +3,10 @@ title: Who dwells in the upper air
 greek: αἰθέρι ναίων
 kind: epithet
 tags: [divine-epithet, cosmic]
-summary: “Dwelling in the upper air,” an epithet of [[Zeus]] as the god of the bright sky.
+summary: “Who dwells in the upper air,” an epithet of [[Zeus]] as the god of the bright sky.
 aliases: [aitheri naion, dwelling in the aether]
 grc: [αἰθέρι ναίων]
-en: [who dwell in the upper air]
+en: [who dwell in the upper air, who dwells in the upper air]
 of: [zeus]
 ---
 

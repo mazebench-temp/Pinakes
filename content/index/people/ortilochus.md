@@ -13,4 +13,8 @@ relations:
 
 The river Alpheus “begot Ortilochus, lord over many men; and Ortilochus begot great-hearted Diocles” (5.546–547). ἄναξ with the dative, “lord over” many men, makes him a ruler, but the poem does not say where he ruled. His grandsons are the twins Crethon and Orsilochus, whom Aeneas kills (see [[diocles]] and [[crethon]]). On the likeness of his name to his grandson's, see [[orsilochus-son-of-diocles]].
 
-The Odyssey repeats the descent when Telemachus stays with Diocles at Pherae (Od. 3.488–489, 15.186–187), and it names Ortilochus once more. Odysseus, sent as a young man to Messene to recover a debt, met Iphitus, son of Eurytus, “in the house of wise-hearted Ortilochus”, and there they exchanged gifts: Iphitus gave him the bow of Eurytus, with which he would one day kill the suitors (Od. 21.13–38).
+The Odyssey repeats the descent when Telemachus stays with Diocles at Pherae (*Odyssey* 3.488–489, 15.186–187), and it names Ortilochus once more. Odysseus, sent as a young man to Messene to recover a debt, met Iphitus, son of Eurytus, “in the house of wise-hearted Ortilochus”, and there they exchanged gifts: Iphitus gave him the bow of Eurytus, with which he would one day kill the suitors (*Odyssey* 21.13–38, a plain rendering).
+
+## Outside Homer
+
+Strabo sets the two passages of the Odyssey side by side: Odysseus met Iphitus “in Messene, in the house of Ortilochus”, and it is clear from the journey of Telemachus and Peisistratus that “Pherae is the house of Ortilochus”, and Pherae is in Messenia; so Homer counted Messenia as part of Lacedaemon (*Geography* 8.5.8, quoting *Odyssey* 21.15 and 3.488–489; see [[pherae-in-messenia]] and [[strabo]]).

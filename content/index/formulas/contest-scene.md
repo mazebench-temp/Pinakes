@@ -3,7 +3,7 @@ title: Contest scene
 greek: στῆ δʼ ὀρθὸς καὶ μῦθον ἐν Ἀργείοισιν ἔειπεν
 kind: formula
 tags: [type-scene, repetition]
-summary: The type-scene of a contest in the funeral games of Patroclus: Achilles sets out the prizes, stands upright and calls for contestants, they rise, compete, and take their prizes, and most of the steps have a verse of their own that returns from contest to contest.
+summary: The type-scene of an athletic contest, told in full at the funeral games of Patroclus and in part at the games of the Phaeacians: Achilles sets out the prizes, stands upright and calls for contestants, they rise, compete, and take their prizes, and most of the steps have a verse of their own that returns from contest to contest.
 aliases: [contest type-scene, the call to the contest, "Rise up, you who will make trial of this prize too"]
 # The verses of the frame, each found only in Iliad 23 (στῆ δʼ ὀρθὸς seven times; ὣς ἔφατʼ ὦρτο δʼ ἔπειτα again
 # Odyssey 14.499). At 23.488 ὄρνυτο δʼ αὐτίκʼ brings the son of Oileus up to quarrel, not to compete.

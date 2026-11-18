@@ -2,7 +2,7 @@
 title: Captive women
 kind: theme
 tags: [captive, woman, exchange]
-summary: Women taken in war are the prizes of the Iliad's quarrels: [[Chryseis]] and [[Briseis]], taken in raids and allotted by the army, and the women every sacked city yields, as Ismarus yields the wives of the Cicones in the Odyssey.
+summary: Women taken in war or carried off by raiders. In the Iliad they are the prizes of the quarrels, [[Chryseis]] and [[Briseis]], taken in raids and allotted by the army, and every sacked city yields them, as Ismarus yields the wives of the Cicones in the Odyssey; in the Odyssey's tales pirates and traders also seize women and sell them across the sea.
 refs: [1.13, 1.29, 1.30, 1.31, 1.111, 1.112, 1.113, 1.114, 1.115, 1.143, 1.184, 1.323, 1.336, 1.346, 1.348, 1.369, 1.392, 1.429, 1.430, 1.439, 1.447]
 passages:
   - 1.29-31 | Agamemnon's threat: the loom and the bed

@@ -5,8 +5,8 @@ kind: epithet
 tags: [cosmic]
 summary: “Rich in bronze,” of men and cities; of the sky, “brazen,” a vault of bronze.
 aliases: [polychalkos, rich in bronze, brazen sky]
-grc: [πολύχαλκον]
-en: [brazen]
+grc: [πολύχαλκον, πολυχάλκου]
+en: [brazen, rich in bronze]
 of: [sky]
 ---
 

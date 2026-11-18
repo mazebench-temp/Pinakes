@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Loved by Ares,” an epithet of warriors, above all of Menelaus, and once of [[Achilles]].
 aliases: [beloved of Ares, areiphilos]
-grc: [ἀρηΐφιλον]
+grc: [ἀρηΐφιλον, ἀρηΐφιλος]
 en: [dear to Ares]
 of: [achilles, menelaus, achaeans, meleager]
 ---

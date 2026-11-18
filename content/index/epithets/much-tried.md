@@ -16,7 +16,7 @@ The ancient explanations divide. Aristarchus took ταλαπείριος as the 
 
 ## Use
 
-The Iliad does not have it. The Odyssey uses it five times, always of strangers who come to a house: ἱκέτην ταλαπείριον, “a much-tried suppliant,” in Nausicaa's promise that Odysseus will lack nothing such a suppliant should have (*Odyssey* 6.193), a verse Eumaeus uses of him again (*Odyssey* 14.511); ξεῖνος ταλαπείριος, as Odysseus calls himself to Athena in the likeness of a girl (*Odyssey* 7.24); the stranger Theoclymenus, whom Telemachus takes home from Peiraeus' care (*Odyssey* 17.71–84); and the many strangers who, Eurycleia says, have come to Ithaca (*Odyssey* 19.379). See [[xenia]] and [[supplication]].
+The Iliad does not have it. The Odyssey uses it five times, always of strangers who come to a house: ἱκέτην ταλαπείριον, “a much-tried suppliant,” in Nausicaa's promise that Odysseus will lack nothing such a suppliant should have (*Odyssey* 6.193), a verse Eumaeus uses of him again (*Odyssey* 14.511); ξεῖνος ταλαπείριος, as Odysseus calls himself to Athena in the likeness of a girl (*Odyssey* 7.24); the stranger [[theoclymenus|Theoclymenus]], whom Telemachus takes home from [[peiraeus-son-of-clytius|Peiraeus]]' care (*Odyssey* 17.71–84); and the many strangers who, Eurycleia says, have come to Ithaca (*Odyssey* 19.379). See [[xenia]] and [[supplication]].
 
 {{notes}}
 

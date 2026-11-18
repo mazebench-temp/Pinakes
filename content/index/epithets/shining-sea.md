@@ -9,8 +9,8 @@ grc: [δῖαν]
 # Ἠῶ δῖαν, "brilliant Dawn" (9.240, 9.662, 11.723, 18.255), belongs to brilliant.
 # δῖαν at 21.43 is shining Arisbe.
 # χθόνα δῖαν at 24.532 is the shining earth.
-# Od. 13.275 is shining Elis (Ἤλιδα δῖαν), Od. 13.440 shining Lacedaemon (Λακεδαίμονα δῖαν): see brilliant.
-except: [9.240, 9.662, 11.723, 18.255, 21.43, 24.532, Od. 5.20, Od. 9.151, Od. 9.306, Od. 9.436, Od. 11.375, Od. 12.7, Od. 13.275, Od. 13.440]
+# Od. 13.275 and Od. 15.298 are shining Elis (Ἤλιδα δῖαν), Od. 13.440 shining Lacedaemon (Λακεδαίμονα δῖαν): see brilliant.
+except: [9.240, 9.662, 11.723, 18.255, 21.43, 24.532, Od. 5.20, Od. 9.151, Od. 9.306, Od. 9.436, Od. 11.375, Od. 12.7, Od. 13.275, Od. 13.440, Od. 15.298]
 en: [shining]
 of: [sea]
 ---

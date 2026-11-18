@@ -1,0 +1,13 @@
+---
+summary: At Pylos Telemachus sacrifices to Athena beside the stern of his ship before sailing, and the fugitive seer, finding him “making sacrifice in this place”, begs him “by the burnt offerings and by the god” (15.222–223, 15.260–261). In the hut the beggar boasts that no one could rival him at the work of a feast, heaping up a fire, splitting wood, carving and roasting (15.321–323).
+# "θῦε δʼ Ἀθήνῃ" (15.222), the phrase, since bare θῦε is also "rushed" (13.85, 22.309); θύοντα and θυέων (15.260,
+# 15.261), each only here in Homer; θύεα are "burnt offerings" (see the translation's table of key words).
+grc: ["θῦε δʼ Ἀθήνῃ", θύοντα, θυέων]
+en: [sacrificing, burnt offerings]
+---
+
+**At the stern.** Telemachus' last act at Pylos is a rite: “So he was busy with these things, and was praying and sacrificing to Athena / beside the stern of the ship” (15.222–223; see [[prayer]], [[libation]] and [[athena]]). θύω is to make an offering by burning, as Eumaeus “made an offering of the firstling pieces” at the end of his sacrifice in the hut (ἄργματα θῦσε, 14.446); the poem does not say what was offered at the ship. The visit to Pylos began at a sacrifice too, when Telemachus came ashore on the people's offering of black bulls to Poseidon (3.4–9; see [[the-sacrifice-at-pylos]]). The goddess to whom he sacrifices sends the wind that carries him home (15.292).
+
+**The suppliant's appeal.** The fugitive seer makes the rite his first claim: “My friend, since I find you making sacrifice in this place, / I beg you by the burnt offerings and by the god” (15.260–261; see [[supplication]] and [[theoclymenus]]). θύεα are “burnt offerings”, as in the Iliad, where Hector bids his mother go to Athena's temple “with burnt offerings” and Phoenix tells how men turn even the gods with them (*Iliad* 6.270, 9.497–501; see the translation's table of key words). The appeal turns the host's own rite into a claim on him.
+
+**The work of the feast.** In the hut the beggar offers to serve the suitors, since by the favor of Hermes no mortal could rival him at service, “in heaping up a fire well and splitting dry wood, / in carving and roasting meat and pouring wine” (15.319–323; see [[hermes]], [[feast]] and [[cupbearing]]). These are the tasks Eumaeus performed for him at the evening sacrifice the night before, when he split the wood, killed the boar, cut it up and roasted it (14.418–431). δανά, “dry”, is the reading of three manuscripts and Eustathius, where the others have πολλά (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 15.322; see the translation's note on 15.322).

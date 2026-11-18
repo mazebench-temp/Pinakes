@@ -4,8 +4,9 @@ greek: Πύλιοι
 kind: people
 tags: [achaean, pylian, peloponnese, messenia]
 summary: The people of [[Pylos]], Nestor's subjects.
-# Πυλίοισιν (Od. 3.59) also catches Il. 17.704, which the Iliad Book 17 note claims as well.
-grc: [Πυλίων, Πυλίοισιν]
+# Πυλίοισιν (Od. 3.59) also catches Il. 17.704, which the Iliad Book 17 note claims as well. Πυλίοισι (Od. 15.227)
+# also catches Il. 11.753, which the Iliad Book 11 note claims as well.
+grc: [Πυλίων, Πυλίοισιν, Πυλίοισι]
 en: [Pylians]
 ---
 

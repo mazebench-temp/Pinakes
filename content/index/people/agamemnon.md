@@ -8,6 +8,10 @@ aliases: [son of Atreus, Atreides, lord of men]
 grc: [Ἀγαμέμν*, Ἀτρεΐδης, Ἀτρεΐδη, Ἀτρεΐδην, Ἀτρεΐδαο, Ἀτρεΐωνα, Ἀτρεΐδα, Ἀτρεΐδαι]
 en: [Agamemnon, son of Atreus]
 refs: [1.29, 1.106, 1.173, 1.286, 1.340, 1.342]
+# Odyssey 15 does not name Agamemnon: Ἀτρεΐδης and Ἀτρεΐδη there (Ἀτρείδης 15.52, printed without the diaeresis) are
+# all Menelaus, at the gifts and the parting at Sparta (15.52, 15.64, 15.87, 15.102, 15.121, 15.147); menelaus claims
+# the lines (with refs for 15.102 and 15.121), and atreus keeps them by the patronymic.
+except: [Od. 15.52, Od. 15.64, Od. 15.87, Od. 15.102, Od. 15.121, Od. 15.147]
 relations:
   - father: atreus (1.7, 1.12)
   - brother: menelaus (1.16, 1.159)

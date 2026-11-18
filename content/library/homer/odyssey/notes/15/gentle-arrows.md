@@ -1,0 +1,5 @@
+---
+summary: Eumaeus' island: “but when the tribes of men grow old throughout the city, / Apollo, god of the silver bow, comes with Artemis / and comes upon them with his gentle arrows and kills them” (15.409–411).
+---
+
+The last of the verse's five uses in the Odyssey (see the general article): on an island where there is no famine and no sickness, the gentle arrows are the death of old age (15.405–411; see [[syrie]], [[hateful]] and the translation's note on 15.407). The god comes with his sister to the old of the whole people, though the participle, ἐποιχόμενος, is his alone (see [[apollo]] and [[artemis]]). Monro prints the Iliad's words, ἀγανοῖσι βέλεσσιν, the reading of the manuscripts M and U, where Murray has ἀγανοῖς βελέεσσιν (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 15.411). Later in the story Artemis kills on her own: “then Artemis of the showering arrows struck the woman,” the nurse, on the seventh day at sea (15.478; see [[of-the-showering-arrows]], [[the-kidnapping-of-eumaeus]] and [[the-phoenician-nurse]]).

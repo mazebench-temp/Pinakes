@@ -3,16 +3,16 @@ title: Fair-cheeked
 greek: καλλιπάρῃος
 kind: epithet
 tags: [heroic-epithet]
-summary: “With beautiful cheeks,” an epithet of women and goddesses: the captive women [[Chryseis]] and [[Briseis]], and [[Theano]], the priestess of Athena.
+summary: “With beautiful cheeks,” an epithet of women and goddesses: in the Iliad the captive women [[Chryseis]] and [[Briseis]] and [[Theano]], the priestess of Athena; in the Odyssey [[Helen]] and the maidservant Melantho.
 aliases: [lovely-cheeked, kallipareos]
-grc: [καλλιπάρῃον]
+grc: [καλλιπάρῃον, καλλιπάρῃος]
 en: [fair-cheeked]
 of: [chryseis, briseis, theano, diomede]
 ---
 
 ## Meaning
 
-καλλιπάρῃος = καλός (“beautiful”) + παρειά (“cheek”): “with beautiful cheeks.” It is an epithet of women and goddesses; in *Iliad* 15 it is given to Themis (Il. 15.87), and in Book 24 to Leto (Il. 24.607).
+καλλιπάρῃος = καλός (“beautiful”) + παρειά (“cheek”): “with beautiful cheeks.” It is an epithet of women and goddesses; in *Iliad* 15 it is given to Themis (Il. 15.87), and in Book 24 to Leto (Il. 24.607). In the Odyssey it is said of Helen as she brings her robe to Telemachus (*Odyssey* 15.123) and of Melantho (*Odyssey* 18.321).
 
 ## Use
 

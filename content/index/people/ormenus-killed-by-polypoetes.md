@@ -18,4 +18,4 @@ relations:
 
 Ormenus is the third man Polypoetes kills at the gate, after Damasus and with Pylon, in a verse that names the two and says only that he “slew and stripped” them (12.187; see [[polypoetes]], [[damasus]], [[pylon]] and [[stripping-the-dead]]).
 
-The name belongs to several men in Homer. Teucer shoots another Trojan Ormenus in *Iliad* 8 (8.274; see [[ormenus]]); Amyntor, the father of Phoenix, is “son of Ormenus” (9.448, 10.266; see [[ormenus-father-of-amyntor]]), and so is Ctesius, the father of Eumaeus (Od. 15.414). The name is the participle ὄρμενος, “rushing on”, from ὄρνυμι, “rouse”.
+The name belongs to several men in Homer. Teucer shoots another Trojan Ormenus in *Iliad* 8 (8.274; see [[ormenus]]); Amyntor, the father of Phoenix, is “son of Ormenus” (9.448, 10.266; see [[ormenus-father-of-amyntor]]), and so is Ctesius, the father of Eumaeus (*Odyssey* 15.414; see [[ctesius]] and [[ormenus-father-of-ctesius]]). The name is the participle ὄρμενος, “rushing on”, from ὄρνυμι, “rouse”.

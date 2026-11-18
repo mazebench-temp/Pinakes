@@ -7,7 +7,7 @@ mode: narrated
 tags: [seafaring, kinship, divine-will]
 summary: Sent by Athena to learn of his father's homecoming, Telemachus sails secretly from Ithaca with the goddess in the likeness of Mentor, visits Nestor at Pylos and Menelaus and Helen at Sparta, and learns that Odysseus is alive on Calypso's island; the suitors lie in wait to kill him on his return, but he comes home by night and finds his father in the swineherd's hut. Modern readers call the books that tell it the Telemachy.
 aliases: [the Telemachy, Telemachy, Telemachus' voyage, Telemachus at Pylos and Sparta]
-participants: [telemachus, athena, eurycleia, nestor, peisistratus, menelaus, helen, noemon-son-of-phronius, antinous, the-suitors]
+participants: [telemachus, athena, eurycleia, nestor, peisistratus, menelaus, helen, noemon-son-of-phronius, antinous, the-suitors, theoclymenus]
 ---
 
 ## The story
@@ -18,7 +18,7 @@ The assembly of the next day achieves nothing, and the suitors go back to his fa
 
 At Pylos they find the people sacrificing on the shore (*Odyssey* 3.4–5). Nestor tells what he knows of the returns, though he came home “without tidings” and knows nothing of the rest (*Odyssey* 3.184–187), and Athena leaves them in the likeness of a sea eagle, to the old man's amazement (*Odyssey* 3.371–373; see [[nestor]]). With Nestor's son Peisistratus driving (see [[peisistratus]]), Telemachus goes on by chariot to Sparta (*Odyssey* 3.481–486, 4.1–2), where Menelaus is feasting at a double wedding, and Helen knows him at once for the son of Odysseus, whom his father left newborn (*Odyssey* 4.3, 4.141–146; see [[menelaus]] and [[helen]]). Menelaus tells him what the Old Man of the Sea told him in Egypt: Odysseus is alive, weeping on an island in the halls of the nymph Calypso, with no ships or companions to bring him home (*Odyssey* 4.555–560; see [[calypso]]).
 
-Meanwhile the suitors learn that he has gone. Antinous takes twenty men to lie in wait for him in the strait between Ithaca and Samos, at the little island of Asteris (*Odyssey* 4.660–672, 4.842–847; see [[antinous]]). Athena goes to Sparta to send him home, finds him sleepless with cares for his father, and warns him of the ambush (*Odyssey* 15.1–42). At Pylos he takes on board the seer Theoclymenus, a fugitive from Argos (*Odyssey* 15.222–286); he sails by night, lands on Ithaca at dawn, and goes to the hut of the swineherd Eumaeus, where his father, disguised as a beggar, is waiting (*Odyssey* 15.495–500, 16.1–16; see [[eumaeus]]). There Odysseus makes himself known to his son (*Odyssey* 16.186–219). The renderings of later books here are plain renderings, not the translation.
+Meanwhile the suitors learn that he has gone. Antinous takes twenty men to lie in wait for him in the strait between Ithaca and Samos, at the little island of Asteris (*Odyssey* 4.660–672, 4.842–847; see [[antinous]]). Athena goes to Sparta to send him home and warns him of the ambush. He takes leave of Menelaus with gifts and a sign, drives back to Pylos, takes on board a fugitive seer, and sails home by night (*Odyssey* 15.1–300; see [[the-omen-of-the-eagle-and-the-goose]] and [[theoclymenus]]). He lands on Ithaca at dawn and goes on foot to the hut of the swineherd Eumaeus, where his father, disguised as a beggar, is waiting (*Odyssey* 15.495–557, 16.1–16; see [[eumaeus]]), and there Odysseus makes himself known to his son (*Odyssey* 16.186–219).
 
 {{notes}}
 

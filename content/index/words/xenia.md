@@ -33,3 +33,5 @@ The Trojan War is a war about a guest. Paris came to Sparta as Menelaus' guest a
 The *Cypria*, as [[proclus|Proclus]] summarizes it, told the visit. Alexander was entertained by the sons of Tyndareus in Lacedaemon and then by Menelaus at Sparta, where he gave Helen gifts at the feast. Menelaus sailed away to Crete, telling Helen to provide for the guests until they left, and Aphrodite brought Helen and Alexander together.
 
 In Aeschylus' *Agamemnon* it is [[god-of-guests|Zeus of guests]] (ξένιος Ζεύς) who sends the sons of Atreus against Alexander (60–62), and the chorus sings that Paris came to the house of the Atreidae and shamed the table of hospitality by stealing a wife (399–402).
+
+Hesiod makes measure the rule of hospitality, that a man should be called neither a host of many guests nor a host of none (μηδὲ πολύξεινον μηδʼ ἄξεινον καλέεσθαι, *Works and Days* 715), and Aristotle applies the saying to friendship (*Nicomachean Ethics* 9.10, 1170b20–23): both are told with Menelaus' rule for the departing guest, under [[welcome-the-guest-send-him-on]].

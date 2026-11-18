@@ -1,0 +1,5 @@
+---
+summary: Sailing from Pylos the crew raise the mast of fir in its box and stay it with the forestays, in the verses of the departure from Ithaca (15.289–290); at dawn off the coast of Ithaca they take it down before they bring the ship in (15.496).
+---
+
+“The mast of fir, within the hollow mast-box, / they raised and set up, and made it fast with forestays” (15.289–290 = 2.424–425; see [[mast-box]], [[forestays]] and the Book 2 note), after Telemachus has bidden the crew lay hold of the tackle (15.287–288; see [[ships]]). At the end of the voyage, “by the shore / the companions of Telemachus loosed the sails, and took down the mast / quickly” (15.495–497; see [[sails]]). ἐπὶ χέρσου means that they had reached land, not that they had landed: the mast is taken down before the ship is run aground (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.495), as at Chryse the crew lowered the mast into its crutch before they rowed in (*Iliad* 1.434; see [[mast-crutch]]). ἱστόν at 15.517 is Penelope's loom, and the entry excepts the line (see [[loom]]).

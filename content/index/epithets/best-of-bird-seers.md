@@ -3,7 +3,7 @@ title: Best of the bird-seers
 greek: οἰωνοπόλων ὄχ’ ἄριστος
 kind: epithet
 tags: [heroic-epithet, divination]
-summary: “By far the best of the bird-seers,” the half-line that introduces the two seers of the Iliad, the Achaean [[Calchas]] and the Trojan [[Helenus]].
+summary: “By far the best of the bird-seers,” the half-line that introduces the two seers of the Iliad, the Achaean [[Calchas]] and the Trojan [[Helenus]]; the Odyssey says it of the seer Polypheides in other words, “by far the best of mortals.”
 aliases: [best of augurs]
 grc: [οἰωνοπόλων ὄχʼ ἄριστος]
 en: [by far the best of the bird-seers]
@@ -22,4 +22,4 @@ The introduction gives Calchas a full set of credentials: his father's name ([[s
 
 The word οἰωνός has already appeared in the proem, where the birds feed on the dead ({{ref:Iliad 1.5}}).
 
-The Odyssey introduces its reader of birds in other words. Halitherses of Ithaca “alone surpassed those of his age / in knowing birds and in speaking words of fate” (*Odyssey* 2.158–159), and in the last book he is brought in with the verse that the Iliad gives Polydamas, “for he alone saw before and after” (*Iliad* 18.250; *Odyssey* 24.452; see [[halitherses]] and [[before-and-after]]).
+The Odyssey introduces its reader of birds in other words. Halitherses of Ithaca “alone surpassed those of his age / in knowing birds and in speaking words of fate” (*Odyssey* 2.158–159), and in the last book he is brought in with the verse that the Iliad gives Polydamas, “for he alone saw before and after” (*Iliad* 18.250; *Odyssey* 24.452; see [[halitherses]] and [[before-and-after]]). The seer of [[theoclymenus|Theoclymenus]]' line, Polypheides, has the pre-eminence of the Iliad's half-line in another: Apollo made him a seer, “by far the best of mortals, after Amphiaraus died” (*Odyssey* 15.252–253; see [[polypheides]]).

@@ -1,0 +1,5 @@
+---
+summary: Menelaus would have Telemachus see his gifts with his own eyes (15.76); the women of the house of Eumaeus' father gaze at the trader's necklace (15.462); and Eumaeus ends his story, “So it was that I came to see this land with my eyes” (15.484).
+---
+
+Menelaus will bring the gifts and set them in the chariot, “fine ones, and you see them with your eyes” (15.75–76; see [[guest-gifts]] and [[chariot]]). In Eumaeus' story the slave women and his mother “were handling it and gazing at it with their eyes” (15.462; see [[necklace]] and [[the-kidnapping-of-eumaeus]]), and the story ends with the land he was brought to: “So it was that I came to see this land with my eyes” (15.484; see [[eumaeus]] and [[ithaca]]). ἴδον ὀφθαλμοῖσι is the verse-end with which Odysseus vouches for what he saw himself, the most pitiable sight of his wanderings and the courage of Neoptolemus (12.258, 11.528; see the Book 12 note). For τήνδε τε of the manuscripts Bothe proposed τήνδε γε (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 15.484).

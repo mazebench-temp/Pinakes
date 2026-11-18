@@ -5,7 +5,8 @@ kind: person
 tags: [trojan, warrior, companion]
 summary: A Trojan, son of [[Peisenor]], the companion and charioteer of [[Polydamas]], whom Teucer shoots in the neck from behind as he drives into the thick of the battle (15.445–453).
 aliases: [Kleitos, Cleitus son of Peisenor]
-# The phrase: Κλεῖτον alone is also Cleitus, son of Mantius, whom Dawn carried off (Od. 15.249-250).
+# The phrase: Κλεῖτον alone is also Cleitus, son of Mantius, whom Dawn carried off (Od. 15.249-250:
+# cleitus-son-of-mantius, whose Greek match takes the English "Cleitus" there).
 grc: ["Κλεῖτον Πεισήνορος"]
 refs: [15.446-453]
 relations:
@@ -22,4 +23,4 @@ passages:
 
 **His death.** Called by Ajax, Teucer comes with his bow and shoots him in the neck from behind (15.436–451; see [[teucer]]): “he fell from the chariot, and the horses shied back” (15.452), the verse in which Hector lost two charioteers in *Iliad* 8, Eniopeus to Diomedes and Archeptolemus to Teucer himself (8.122, 8.314; see [[eniopeus]] and [[archeptolemus]]). Polydamas is the first to reach the runaway horses and gives them to Astynous, son of Protiaon (15.453–457; see [[astynous-son-of-protiaon]]).
 
-Homer's other Cleitus is a son of Mantius, of the line of Melampus, whom Dawn of the golden throne carried off for his beauty, to live among the immortals (*Odyssey* 15.249–251).
+Homer's other Cleitus is a son of [[mantius|Mantius]], of the line of Melampus, whom Dawn of the golden throne carried off for his beauty, to dwell among the immortals (*Odyssey* 15.249–251; see [[cleitus-son-of-mantius]]).

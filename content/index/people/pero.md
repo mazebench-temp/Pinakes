@@ -18,7 +18,7 @@ relations:
 
 ## Family
 
-She is the daughter of Neleus and Chloris, born after Nestor, Chromius and Periclymenus: “And besides these she bore strong Pero, a marvel to mortals, / whom all who dwelt around were wooing” (*Odyssey* 11.287–288; see [[chloris]], [[neleus]], [[nestor]], [[chromius-son-of-neleus]] and [[periclymenus]]). Her bride-price was the cattle of Iphiclus: Neleus “would give her to no one who did not drive the broad-browed cattle with curving horns / out of Phylace, the cattle of mighty Iphiclus, / hard to drive” (*Odyssey* 11.288–291; see [[iphiclus]], [[phylace]] and [[bride-price]]). The seer who undertook it is unnamed in *Odyssey* 11 and named Melampus in *Odyssey* 15, where he brings the woman home “for his brother” (*Odyssey* 15.225–238, a plain rendering; see [[melampus]]).
+She is the daughter of Neleus and Chloris, born after Nestor, Chromius and Periclymenus: “And besides these she bore strong Pero, a marvel to mortals, / whom all who dwelt around were wooing” (*Odyssey* 11.287–288; see [[chloris]], [[neleus]], [[nestor]], [[chromius-son-of-neleus]] and [[periclymenus]]). Her bride-price was the cattle of Iphiclus: Neleus “would give her to no one who did not drive the broad-browed cattle with curving horns / out of Phylace, the cattle of mighty Iphiclus, / hard to drive” (*Odyssey* 11.288–291; see [[iphiclus]], [[phylace]] and [[bride-price]]). The seer who undertook it is unnamed in *Odyssey* 11 and named Melampus in *Odyssey* 15, where he brings the woman home “for his brother” (*Odyssey* 15.225–238; see [[melampus]]).
 
 ## Descriptions
 
@@ -28,4 +28,4 @@ She is the daughter of Neleus and Chloris, born after Nestor, Chromius and Peric
 
 ## Outside Homer
 
-W. W. Merry names the brother: Melampus handed the lady he had won to his brother Bias, and his table of the family sets Pero beside Bias (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.281). Propertius puts the story in four lines, in which not gain but “lovely Pero” drove the seer to suffer shameful chains, “soon to be a bride in the house of Amythaon” (*quem non lucra, magis Pero formosa coegit, / mox Amythaonia nupta futura domo*; Propertius, *Elegies* 2.4.17–20 in Merry's citation; see [[amythaon]]).
+W. W. Merry names the brother: Melampus handed the lady he had won to his brother Bias, and his table of the family sets Pero beside Bias (*Commentary on the Odyssey*, 1886, on *Odyssey* 11.281). Propertius puts the story in four lines, in which not gain but “lovely Pero” drove the seer to suffer shameful chains, “soon to be a bride in the house of Amythaon” (*quem non lucra, magis Pero formosa coegit, / mox Amythaonia nupta futura domo*; Propertius, *Elegies* 2.3.51–54, in the numbering of the Latin Library's text, where the four lines end the elegy that begins *Qui nullum tibi dicebas*; 2.4.17–20 in Merry's citation, from an older division of the elegies; see [[amythaon]]).

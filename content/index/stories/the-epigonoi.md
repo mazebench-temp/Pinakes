@@ -20,7 +20,7 @@ passages:
 
 This is all the Iliad says of the war. ἕδος (4.406) is the “seat” of a city, its site and foundation, and Thebes is ἑπτάπυλος, “seven-gated” ([[seven-gated]]). The sons led a smaller army than their fathers against a stronger wall (4.407; on the reading see [[wall-of-ares]]), and they won because they trusted “the portents of the gods and the help of Zeus” (4.408). Their fathers “perished through their own recklessness” (4.409; see [[the-seven-against-thebes]]). Sthenelus says “we”, himself and Diomedes, and the Iliad names no other of the Epigonoi.
 
-The Catalogue of Ships may show the result. Among the towns of the Boeotians it names no Thebes, only Hypothebae (2.505), whose name means “Lower Thebes”, and ancient readers took this for the lower town that was still lived in after the Epigonoi destroyed the citadel (see [[hypothebae]]). In the Odyssey the seer Amphiaraus, who died at Thebes, has two sons, Alcmaeon and Amphilochus (Odyssey 15.244–248); in later tradition Alcmaeon led the Epigonoi.
+The Catalogue of Ships may show the result. Among the towns of the Boeotians it names no Thebes, only Hypothebae (2.505), whose name means “Lower Thebes”, and ancient readers took this for the lower town that was still lived in after the Epigonoi destroyed the citadel (see [[hypothebae]]). In the Odyssey the seer Amphiaraus, who died at Thebes, has two sons, Alcmaeon and Amphilochus (*Odyssey* 15.244–248; see [[amphiaraus]], [[alcmaeon]] and [[amphilochus]]); in later tradition Alcmaeon led the Epigonoi.
 
 ## In the poem
 

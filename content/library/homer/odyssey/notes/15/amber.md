@@ -1,0 +1,5 @@
+---
+summary: The golden necklace that the Phoenician trader brings to the house of Eumaeus' father is “strung here and there with amber” (15.460), the first of the Odyssey's two necklaces strung with ἤλεκτρα.
+---
+
+“There came a man of great knowledge to my father's house / with a golden necklace, strung here and there with amber” (15.459–460; see [[necklace]], [[the-kidnapping-of-eumaeus]] and [[phoenicians]]). μετά is “at intervals”, and ἠλέκτροισιν is “with pieces of amber”: the ancients, Monro reports, distinguished the neuter ἤλεκτρον, “amber”, from the masculine ἤλεκτρος, the metal so called, an alloy of gold and silver, and the plural would not suit a metal, but would naturally be used of a substance that is always found in lumps (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.460, referring to Helbig; see the translation's note on 15.460). On the evidence of the necklaces W. W. Merry decided for amber at 4.73 too (see the entry and the Book 4 note). The suitor Eurymachus' necklace for Penelope is golden and strung with amber, like the sun (18.295–296, a plain rendering; see [[eurymachus]]).

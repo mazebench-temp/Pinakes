@@ -1,0 +1,6 @@
+---
+summary: Eteoneus “heard and did not disobey” (15.98), and the horses fly on “not unwilling” (15.192); Anticleia “loved me dearly in her heart” (15.370), and Eumaeus' island is “not so very populous, but a good one” (15.405); and the seer: “not without a god did the bird fly on the right” (15.531).
+refs: [15.98, 15.192, 15.370, 15.405, 15.531]
+---
+
+ὁ δʼ ἄρʼ οὐκ ἀπίθησεν ἀκούσας is the Iliad's half-verse of ready obedience (*Iliad* 8.319; see [[eteoneus]]), and οὐκ ἀέκοντε the verse of the chariot's whip in the Iliad and in Book 3 (*Iliad* 5.366; 3.484, 3.494), here with the contracted ἄκοντε (see the translation's note on 15.192, and [[chariot-journey]]). D. B. Monro names the figure in κηρόθι μᾶλλον, a fixed phrase whose comparative “properly means ‘rather much (than little),’ then, by a litotes, ‘right well’” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.370; see the translation's note on 15.370). In οὔ τι περιπληθὴς λίην τόσον, τόσον “insists on the preceding word as not too much”: the island is large, “but not quite to be called very large” (Monro on 15.405; see [[syrie]]). οὔ τοι ἄνευ θεοῦ says, as Nausicaa's “Not against the will of all the gods” does, that a god has sent the bird (6.240; see [[not-without-a-god]] and [[the-omen-of-the-falcon]]).

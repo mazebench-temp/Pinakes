@@ -1,0 +1,13 @@
+---
+summary: The fugitive seer Theoclymenus comes to Telemachus at Pylos as a suppliant. He begs him by the burnt offerings and the god, by his own head and his companions' (15.260–264), and asks to be taken on board, “since I have come to you as a suppliant in my flight” (15.277–278); Telemachus receives him and seats him beside himself in the stern (15.280–286).
+# ἱκέτευσα (15.277; again 17.573), the aorist; the Book 7 note has ἱκέτευσʼ and ἱκέτευσας. λίσσομʼ (15.261) is the
+# entry's.
+grc: [ἱκέτευσα]
+refs: [15.262, 15.278, 15.280-281, 15.285-286]
+---
+
+**What he begs by.** The man who comes up beside the ship is a stranger from a far land, fleeing from Argos after a killing (15.223–225; see [[theoclymenus]] and [[exile-and-refuge]]). He makes the rite he interrupts his first appeal: “My friend, since I find you making sacrifice in this place, / I beg you by the burnt offerings and by the god, and then / by your own head and those of the companions who follow you” (15.260–262; see [[sacrifice]] and [[daimon]]). A man's head is a thing to swear by, as Hera swears by the sacred head of Zeus (*Iliad* 15.39), and a suppliant begs by what the other holds dear, as Elpenor begs Odysseus by those he left behind, his wife, his father and his son (11.66–68). What he asks first is only an answer, the host's question turned on the host: “Who are you among men, and from where? Where are your city and your parents?” (15.264 = 1.170; see [[who-are-you-among-men]]).
+
+**The suppliant's request.** When Telemachus has named his father, the stranger names his need: “But take me on board the ship, since I have come to you as a suppliant in my flight, / lest they kill me; for I think they are pursuing me” (15.277–278). ἔφεσσαι, “put me on board”, is the word of the Cretan's request to the Phoenicians in Odysseus' first false tale, where the teller too was a killer in flight and “begged” for passage (13.272–274; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.277; see [[the-first-cretan-tale]]). The beggar will use the same verb of himself to Eumaeus: “since I came to you first as a suppliant” (17.573, a plain rendering).
+
+**Received.** Telemachus answers as a host: “I will not drive you from the balanced ship when you wish to come; / but follow me; and there you shall be welcomed with such things as we have” (15.280–281). ἐθέλοντά γε is “fain as thou art (to come)” (Monro on 15.280). He takes the seer's bronze spear and lays it on the deck, goes aboard and seats him beside himself in the stern (15.282–286; see [[xenia]]). The poem has said what is owed: Zeus is “the avenger of suppliants and strangers” (9.270; see [[god-of-suppliants]] and [[a-suppliant-is-respected-by-the-gods]]).

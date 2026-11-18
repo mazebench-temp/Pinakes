@@ -15,8 +15,10 @@ At Chryse, when the meal is over, the young men fill the mixing bowls “brim-fu
 
 {{quote:e3c5fd14-83e7-5656-b694-d7fb66d0aa41}}
 
-A fine mixing bowl was a treasure: the prize for the footrace at Patroclus' games is a silver one of Sidonian work (Iliad 23.740–745).
+A fine mixing bowl was a treasure: the prize for the footrace at Patroclus' games is a silver one of Sidonian work (Iliad 23.740–745). In the Odyssey Menelaus gives Telemachus the finest treasure of his house, a mixing bowl all of silver with its rims finished with gold, “the work of Hephaestus”, which Phaedimus, king of the Sidonians, had given him when he stayed in his house on the way home from Troy (*Odyssey* 4.613–619 = 15.113–119; see [[phaedimus]] and [[guest-gifts]]).
 
 ## Outside Homer
+
+Strabo quotes the verses of Menelaus' gift beside the Iliad's Sidonian bowl, as evidence of the craftsmanship of the Sidonians, and takes “the work of Hephaestus” as said in exaggeration, as fine things are called the works of Athena, of the Graces or of the Muses (*Geography* 1.2.33; see [[strabo]] and [[sidonians]]). In Virgil's lists of gifts the bowl keeps its place and its history: Ascanius promises Nisus two silver cups embossed with figures, two tripods, two great talents of gold and *cratera antiquum quem dat Sidonia Dido*, “an ancient mixing bowl that Sidonian Dido gave” (*Aeneid* 9.263–266), and Aeneas gives Acestes a bowl embossed with figures that the Thracian Cisseus had once given Anchises, *monimentum et pignus amoris*, “a remembrance and a pledge of his love” (*Aeneid* 5.535–538; see [[virgil]]).
 
 The krater is one of the chief shapes of Greek pottery. The François Vase, a large Athenian black-figure krater of about 570 BCE painted by Kleitias, is among the most famous.

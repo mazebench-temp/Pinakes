@@ -7,14 +7,14 @@ summary: The king of the man-eating [[laestrygonians|Laestrygonians]] of Telepyl
 aliases: [Antiphates of Telepylus, Laestrygonian king]
 # Ἀντιφάταο (Od. 10.106, 10.199) and Ἀντιφατῆα (10.114), exact forms, found nowhere else in Homer. The Iliad's
 # Trojan is Ἀντιφάτην (Il. 12.191: antiphates, which excepts the three Book 10 lines), and the son of Melampus is
-# Ἀντιφάτην, Ἀντιφάτης (Od. 15.242-243), who will need his own id. The English "Antiphates" is claimed in the
+# Ἀντιφάτην, Ἀντιφάτης (Od. 15.242-243: antiphates-son-of-melampus, whose Greek match takes the English there). The English "Antiphates" is claimed in the
 # Odyssey Book 10 note. No form in Aristotle.
 grc: [Ἀντιφάταο, Ἀντιφατῆα]
 ---
 
 ## The name
 
-The name is borne by two other men in Homer: the Trojan whom Leonteus kills at the Achaean wall (*Iliad* 12.191; see [[antiphates]]) and a son of Melampus, grandfather of the seer Amphiaraus (*Odyssey* 15.242–243). W. W. Merry reports Fäsi's view that Antiphates and Lamus, whose “steep citadel” the ships reach first (*Odyssey* 10.81), are the double title of the murderous king of the land, the one from the root of φένω, πέφαται, “slay”, the other from λαιμός, “throat”, and with Lamus he compares Lamia, the child-devouring ogress (*Commentary on the Odyssey*, 1886, on *Odyssey* 10.81; see [[telepylus]]). The poem declines the name two ways, the genitive Ἀντιφάταο (*Odyssey* 10.106, 10.199) as from Ἀντιφάτης and the accusative Ἀντιφατῆα (*Odyssey* 10.114) as from Ἀντιφατεύς, and Merry notes that Eustathius quotes the like pair Γηρυόνης and Γηρυονεύς (Merry on *Odyssey* 10.114; see the Odyssey translation's note on 10.114).
+The name is borne by two other men in Homer: the Trojan whom Leonteus kills at the Achaean wall (*Iliad* 12.191; see [[antiphates]]) and a son of Melampus, grandfather of the seer Amphiaraus (*Odyssey* 15.242–243; see [[antiphates-son-of-melampus]]). W. W. Merry reports Fäsi's view that Antiphates and Lamus, whose “steep citadel” the ships reach first (*Odyssey* 10.81), are the double title of the murderous king of the land, the one from the root of φένω, πέφαται, “slay”, the other from λαιμός, “throat”, and with Lamus he compares Lamia, the child-devouring ogress (*Commentary on the Odyssey*, 1886, on *Odyssey* 10.81; see [[telepylus]]). The poem declines the name two ways, the genitive Ἀντιφάταο (*Odyssey* 10.106, 10.199) as from Ἀντιφάτης and the accusative Ἀντιφατῆα (*Odyssey* 10.114) as from Ἀντιφατεύς, and Merry notes that Eustathius quotes the like pair Γηρυόνης and Γηρυονεύς (Merry on *Odyssey* 10.114; see the Odyssey translation's note on 10.114).
 
 ## Family
 

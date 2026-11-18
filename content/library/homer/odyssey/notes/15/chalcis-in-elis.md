@@ -1,0 +1,9 @@
+---
+summary: Chalcis, “fair-flowing”, is the second landmark of the voyage home from Pylos, passed with Cruni (15.295), in a verse that ancient sources end in three ways.
+---
+
+“And they went past Cruni and fair-flowing Chalcis” (295; see [[cruni]], where the course and the place of the verse are told, and [[the-journey-of-telemachus]]). Chalcis is named with Cruni in the one verse of the voyage that no manuscript of the Odyssey has.
+
+**Three endings.** The verse ends Χαλκίδα καλλιρέεθρον, “fair-flowing Chalcis”, in Strabo's account of the voyage, which Murray follows (*Geography* 8.3.26); Χαλκίδα πετρήεσσαν, “rocky Chalcis”, where Strabo quotes it again among the places named Chalcis (*Geography* 10.1.9; see [[strabo]]); and Χαλκίδα καὶ παρὰ Δύμην, “Chalcis and past Dyme”, in the *Hymn to Apollo* (425). πετρήεσσαν is the end of the Catalogue's verse of the Aetolian Chalcis, “and Chalcis by the sea and rocky Calydon” (*Iliad* 2.640; see [[chalcis-aetolia]] and [[calydon]]). Of the Hymn's ending D. B. Monro writes that “the town of Dyme, in Achaia, is not on the course of Telemachus, and a fortiori nowhere near Κρουνοί or Χαλκίς. It is evidently brought in with a view to the voyage described in the Hymn, the voyage from Crete to Delphi”, and the verse, with the rest of the passage, belongs first to the Odyssey (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.295–298; see the translation's note on 15.295–300, and [[cruni]]).
+
+**A stream.** καλλιρέεθρος, “fair-flowing”, is the epithet of the spring Artacia in the land of the Laestrygonians (10.107; see [[artacia]] and [[fair-flowing]]), and it makes Chalcis a stream, as Strabo's Chalcis is “another river”, beside the spring [[cruni|Cruni]] and a settlement of the same name, in Triphylia south of the Alpheus (*Geography* 8.3.13; see [[alpheus]]).

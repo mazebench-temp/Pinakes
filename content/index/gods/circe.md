@@ -5,7 +5,7 @@ kind: god
 tags: [edge-of-world, woman]
 summary: The goddess of the island of Aeaea, daughter of the Sun and own sister of Aeetes, who turned Odysseus' companions into swine with her drugs and her wand, kept him a year, sent him to the house of Hades to consult Teiresias, and told him the way home past the Sirens, Scylla and Charybdis; in later legend the mother of his sons, among them Telegonus, who killed his father unknowing.
 aliases: [Kirke]
-# Exact forms only, never a stem Κίρκ*, which would catch κίρκος "hawk" (Il. 17.757, 22.139; Od. 13.87, 15.526).
+# Exact forms only, never a stem Κίρκ*, which would catch κίρκος "falcon" (Il. 17.757, 22.139; Od. 13.87, 15.526).
 # Κίρκη (Od. 8.448, 9.31, Book 10 often, 11.8, 11.22, 12.36, 12.150, 12.155, 12.302) also takes the dative Κίρκῃ
 # (Od. 10.295, 10.322). Κίρκης is Od. 10.150 and thirteen more lines of Book 10, 11.53, 11.62, 12.9, 12.226, 12.268,
 # 12.273 and 23.321. Neither occurs in the Iliad or in Aristotle; nor does Κίρκην (Od. 12.16, the only occurrence).

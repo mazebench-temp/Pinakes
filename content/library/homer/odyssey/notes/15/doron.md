@@ -1,0 +1,13 @@
+---
+summary: Gifts given and gifts that ruin: Eurymachus “surpasses all / the suitors in his gifts” (15.17–18); Menelaus' and Helen's parting gifts, “the one that is finest and most precious” and “a remembrance of Helen's hands” (15.51–130), which Peisistratus moves to Telemachus' ship (15.206); Amphiaraus, who “perished at Thebes, for the sake of gifts to a woman” (15.247); and the “friendship and many gifts” Telemachus promises the seer (15.537).
+# δώροισι (15.18), first met here among the Odyssey's notes.
+grc: [δώροισι]
+---
+
+**Wooing gifts.** Athena tells Telemachus that Penelope's father and brothers favor Eurymachus, “for he surpasses all / the suitors in his gifts, and has increased his bride-price greatly” (περιβάλλει ἅπαντας / μνηστῆρας δώροισι, 15.17–18; see [[eurymachus]], [[bride-price]] and [[marriage]]): the suitor who gives most is the one most likely to win.
+
+**The parting gifts.** At Sparta the guest waits for his gifts: Peisistratus will not leave “until he brings gifts and sets them in the chariot” (15.51), and Menelaus says the same, “until I bring gifts and set them in the chariot, / fine ones, and you see them with your eyes” (15.75–76; see [[guest-gifts]] and [[xenia]]). From his treasure chamber he chooses: “Of the gifts that lie stored as treasures in my house, / I will give you the one that is finest and most precious” (15.113–114 = 4.613–614), the silver mixing bowl that Phaedimus gave him (15.115–119; see [[mixing-bowl]] and [[phaedimus]]), with a two-handled cup (15.102, 15.120; see [[cup]]). Helen adds her own: “I too give you this gift, dear child, / a remembrance of Helen's hands, for the time of your lovely marriage” (15.125–126; see [[robe]] and [[helen]]). At Pylos Peisistratus “took out the beautiful gifts and put them in the stern of the ship, / the clothing and the gold, which Menelaus had given him” (15.206–207; see [[gold-and-silver]]).
+
+**Gifts to a woman.** In the line of Melampus, Amphiaraus “did not reach the threshold of old age, / but perished at Thebes, for the sake of gifts to a woman” (γυναίων εἵνεκα δώρων, 15.246–247; see [[amphiaraus]], [[eriphyle]] and [[the-seven-against-thebes]]), the half-verse that ends the story of Eurypylus' men in Book 11 (11.521; see the translation's note on 11.521). The gifts given to a woman bought a man's death.
+
+**Many gifts.** If [[the-omen-of-the-falcon|the omen of the falcon]] comes true, Telemachus promises the seer “friendship and many gifts / from me” (15.537–538), perhaps a hendiadys, hospitality as shown in many gifts (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.537; see [[philotes]]).

@@ -12,7 +12,7 @@ relations:
   - master: eumaeus (Od. 14.449-452)
 ---
 
-σῖτον δέ σφιν ἔνειμε Μεσαύλιος, “And Mesaulius served them bread” (*Odyssey* 14.449): the slave who hands round the bread at the supper where Eumaeus entertains the disguised Odysseus, and takes it away when they have eaten (*Odyssey* 14.455; see [[eumaeus]] and [[odysseus]]). Homer names him only here, where the poet tells how he came to the hut: the swineherd had bought him for himself, with his own goods, from the Taphians, while his master was away (*Odyssey* 14.449–452; see [[taphians]]). Eumaeus, who counts himself among the slaves (*Odyssey* 14.59), is himself a bought man (*Odyssey* 15.483), so that Mesaulius is a slave's slave (see [[slavery-and-freedom]]).
+σῖτον δέ σφιν ἔνειμε Μεσαύλιος, “And Mesaulius served them bread” (*Odyssey* 14.449): the slave who hands round the bread at the supper where Eumaeus entertains the disguised Odysseus, and takes it away when they have eaten (*Odyssey* 14.455; see [[eumaeus]] and [[odysseus]]). Homer names him only here, where the poet tells how he came to the hut: the swineherd had bought him for himself, with his own goods, from the Taphians, while his master was away (*Odyssey* 14.449–452; see [[taphians]]). Eumaeus, who counts himself among the slaves (*Odyssey* 14.59), is himself a bought man (*Odyssey* 15.483; see [[the-kidnapping-of-eumaeus]]), so that Mesaulius is a slave's slave (see [[slavery-and-freedom]]).
 
 ## The name
 

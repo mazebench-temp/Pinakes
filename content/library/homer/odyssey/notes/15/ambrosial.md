@@ -1,0 +1,5 @@
+---
+summary: Athena finds Telemachus awake in the porch at Sparta: “but sweet sleep did not hold Telemachus, but in his heart / through the ambrosial night cares for his father kept him awake” (15.7–8).
+---
+
+νύκτα διʼ ἀμβροσίην is the night of those who do not sleep: of the man who would go out alone to spy on the enemy and of the kings who wander through the camp (*Iliad* 10.40–41, 10.141–142), of Priam on his way to Achilles “when other mortals are asleep” (*Iliad* 24.363), and of the Cyclopes whom Polyphemus' cry makes sleepless (9.403–404). To Peisistratus, who will not drive on through it, the same night is “the dark night” (15.49–50; see [[dnopheros]]). Monro takes the apparent contradiction of 15.4–7, Athena finding both young men asleep though Telemachus is awake, as the manner of epic narration, and μελεδήματα πατρός as “his anxious thoughts about his father” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.4–7 and 15.8; see [[sweet-sleep]], [[telemachus]] and [[athena]]).

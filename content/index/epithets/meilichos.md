@@ -3,7 +3,7 @@ title: Kind (meilichos)
 greek: μείλιχος
 kind: epithet
 tags: [mind]
-summary: “Gentle, kind,” μείλιχος, the word of Patroclus' kindness in Menelaus' praise and in Briseis' lament; Andromache says that Hector was not gentle in battle.
+summary: “Gentle, kind,” μείλιχος, of a man's way with others: the word of Patroclus' kindness in Menelaus' praise and in Briseis' lament, of Hector, who Andromache says was not gentle in battle, and in the Odyssey of the kind word that Eumaeus can no longer hear from his mistress.
 aliases: [meilichos, gentle, mild]
 grc: [μείλιχος]
 en: [kind]

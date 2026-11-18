@@ -1,0 +1,7 @@
+---
+summary: Athena warns Telemachus of the ambush that waits for him at Asteris, “in the strait between Ithaca and rocky Samos” (15.28–30), and he sails home by another way.
+# Unnamed: the ambush "in the strait between Ithaca and rocky Samos" (15.28-30), laid at Asteris (4.844-847).
+refs: [15.28-30]
+---
+
+The island is not named in the book, but the ambush laid there in Book 4 is the danger of the voyage home: “The best of the suitors lie in ambush for you of set purpose / in the strait between Ithaca and rocky Samos, / eager to kill you before you reach your native land” (28–30; see [[ambush]], [[the-suitors]] and [[samos]]). When the suitors' ship set out, the poet placed them at Asteris, “a rocky island in the middle of the sea, / between Ithaca and rocky Samos”, with harbors open at either end, where “the Achaeans waited for him, lying in ambush” (4.844–847; see the Book 4 note). Athena bids Telemachus keep far from the islands and sail by night (33–34), and the ship, after Elis, is sent on “toward the pointed islands”, Telemachus “pondering whether he would escape death or be caught” (299–300; see [[the-pointed-islands]]). Strabo has the ship turn east to keep out of the strait the suitors watched, and land on the far side of Ithaca (*Geography* 8.3.26; see [[strabo]]). In the next book Antinous tells how the suitors' lookouts sat on the windy heights by day and their ship waited at sea every night, until “some god has brought him home” (16.364–370, a plain rendering; see [[antinous]]).

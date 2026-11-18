@@ -1,0 +1,50 @@
+---
+title: The kidnapping of Eumaeus
+greek: νῆσός τις Συρίη κικλήσκεται
+kind: story
+period: before-troy
+mode: told
+narrator: eumaeus
+tags: [seafaring, exchange, captive, backstory]
+summary: The story of his childhood that the swineherd Eumaeus tells the disguised Odysseus on their second night in the hut. He was born on Syrie, an island above Ortygia, where his father Ctesius, son of Ormenus, was king of both its cities. Phoenician traders who stayed a year on the island won over his nurse, a woman of Sidon whom Taphian pirates had carried off and sold to his father; she slipped away to their ship at nightfall with the child and three goblets, Artemis struck her dead at sea, and the traders sold the boy in Ithaca to Laertes. Told in the fifteenth book of the Odyssey.
+aliases: [Eumaeus' story, the story of Eumaeus, Eumaeus and the Phoenicians, the stolen child, Eumaeus' childhood, the nurse's plot]
+participants: [eumaeus, ctesius, the-phoenician-nurse, phoenicians, artemis, laertes]
+---
+
+## The story
+
+**The question.** On their second night in the hut Odysseus asks after his own parents, and Eumaeus tells him that Laertes prays for death and that the mother of Odysseus died of grief for her son; she reared the swineherd with Ctimene, her youngest daughter, and when Ctimene was married into Same she clothed him and sent him to the farm (*Odyssey* 15.346–379; see [[anticleia]], [[ctimene]] and [[laertes]]). “Ah, so you were still small, swineherd Eumaeus, / when you were driven so far from your native land and your parents”, Odysseus answers, and asks whether his city was sacked, or whether he was alone with the sheep or the cattle “when hostile men took you in their ships and sold you / to this man's house, and he paid a worthy price for you” (*Odyssey* 15.380–388; see [[slavery-and-freedom]]). Eumaeus bids him listen in silence and drink, since the nights are endless, and let the two of them take delight in each other's sorrows as they remember them (*Odyssey* 15.389–402; see [[a-time-for-many-words]], [[much-sleep-is-a-vexation]] and [[delight-in-remembered-sorrows]]).
+
+**The island.** “There is an island called Syrie, if perhaps you have heard of it, / above Ortygia, where the turnings of the sun are”, not very populous but a good island, rich in cattle, sheep, wine and wheat; famine never comes there, nor sickness, but when men grow old Apollo comes with Artemis and kills them with his gentle arrows. It has two cities, and over both of them his father was king, “Ctesius, son of Ormenus, like the immortals” (*Odyssey* 15.403–414; see [[syrie]], [[ortygia]], [[the-turnings-of-the-sun]], [[gentle-arrows]], [[ctesius]] and [[ormenus-father-of-ctesius]]).
+
+**The traders and the nurse.** Then came Phoenicians, “men famed for ships, / greedy rogues, bringing countless baubles in a black ship”. In his father's house was a Phoenician woman, beautiful and tall and skilled in splendid handiwork, and one of them lay with her by the hollow ship as she was washing clothes. When he asked who she was, she pointed out the high-roofed house of Eumaeus' father and told him her story: she was from Sidon, the daughter of Arybas, a man of great wealth, but Taphian pirates had seized her as she came from the fields and sold her to this house (*Odyssey* 15.415–429; see [[phoenicians]], [[the-phoenician-nurse]], [[sidon]], [[arybas]], [[taphians]] and [[piracy]]). Would she come home with them, he asked, to see her father's house and her parents, who were still alive and reputed rich? She would, if they swore to bring her home unharmed; they swore, and she gave her orders. None of them was to speak to her in the street or at the spring, lest the old man hear of it; when the ship was loaded they were to send her word, and she would bring gold, whatever came to her hand, and something else for her passage: the child she was rearing, “a crafty one indeed”, who would fetch them “a price beyond counting” wherever they sold him among men of another tongue (*Odyssey* 15.430–453; see [[oath]] and [[trade]]).
+
+**The theft.** The traders stayed a whole year and loaded their hollow ship by trading, and when it was ready to sail they sent a messenger to the woman (*Odyssey* 15.454–458):
+
+{{quote:f1db8c35-d09c-588f-903e-184b77535b02}}
+
+**The voyage.** At sunset the woman and the child came to the harbor where the Phoenicians' ship lay, and they sailed with a fair wind from Zeus (*Odyssey* 15.471–475; see [[the-phoenician-nurse]]):
+
+{{quote:da2296f6-dc68-54ee-bac3-58fa97bdb7d3}}
+
+**Odysseus' answer.** “Eumaeus, truly you have greatly stirred the heart within me / by telling all these things, all the sorrows you have suffered in your heart. / But truly for you Zeus has set good too beside the evil, / since, after toiling much, you came to the house of a man / who is kind”, while he himself has come there after wandering through many cities of mortals (*Odyssey* 15.485–492; see [[zeus-gives-good-and-evil]]). Then they sleep, but only a little, until dawn (*Odyssey* 15.493–495).
+
+{{notes}}
+
+## In the poem
+
+**A true tale for a false one.** The night before, the stranger answered Eumaeus' questions with the false tale of a Cretan whom a Phoenician, “skilled in deceits”, carried off to sell (*Odyssey* 14.287–297; see [[the-tale-to-eumaeus]]). Now the host answers the guest's questions with a true tale of Phoenicians who did sell a child, and the two tales meet in their words. The Phoenicians are τρῶκται, “greedy rogues”, as the Cretan's Phoenician was a τρώκτης (*Odyssey* 15.416; 14.289), and the child would fetch “a price beyond counting” wherever they sold him, as the Cretan was to bring his Phoenician “an untold price” in Libya (*Odyssey* 15.452–453; 14.297).
+
+**The guess and the nurse.** Odysseus guesses that hostile men took Eumaeus in their ships and sold him “to this man's house, and he paid a worthy price for you” (*Odyssey* 15.387–388). The guess is true of the nurse: Taphian pirates seized her and sold her “to this man's house; and he paid a worthy price for me”, in the same verse (*Odyssey* 15.429 = 15.388; see [[the-phoenician-nurse]] and [[captive-women]]). Eumaeus was sold by her bargain: she buys her own way home with him.
+
+**A king's son for sale.** The tale makes the swineherd a king's son who became goods. Laertes “bought me with his own possessions” (*Odyssey* 15.483), in the half-verse of his purchase of Eurycleia and of the swineherd's own purchase of his slave Mesaulius from the Taphians (*Odyssey* 1.430; 14.452; see [[eurycleia]] and [[mesaulius]]). Anticleia reared him with her own daughter (*Odyssey* 15.363–365), and the absent Odysseus is the master of whom he said on the first evening that he would never find another so kind, not even if he came again to his father's and mother's house (*Odyssey* 14.138–141; see [[eumaeus]]). Odysseus' answer gives the tale its turn: Zeus has set good beside the evil, since the boy came to the house of a kind man (*Odyssey* 15.488–491), and the wanderer who says so is the son of that house, come home in disguise.
+
+**The night of the voyage.** The tale fills the night in which Telemachus sails home past the suitors' ambush, “pondering whether he would escape death or be caught” (*Odyssey* 15.300). The whole scene in the hut, D. B. Monro says, carries on the idyll of Odysseus in the swineherd's hut and “fills up the otherwise blank space of the night voyage of Telemachus” (*Homer's Odyssey, Books XIII–XXIV*, 1901, on *Odyssey* 15.301–495; see [[the-journey-of-telemachus]]).
+
+**The voyage in the poem's verses.** The voyage is told in verses of Odysseus' own voyages. “For six days we sailed on, night and day alike” is the voyage that brought him to the Laestrygonians, and “when Zeus, son of Cronus, added the seventh day” is the day on which his companions sailed from Thrinacia to their death (*Odyssey* 15.476 = 10.80, 15.477 = 12.399; see [[odysseus-among-the-laestrygonians]] and [[the-cattle-of-helios]]). On it Artemis struck the woman, the sudden death of women that is hers (see [[artemis]] and [[gentle-arrows]]), and her fall into the bilge is told with a likeness, “like a sea bird” (*Odyssey* 15.479; see [[like-a-sea-bird]]). She is described in the verse that describes Athena when she takes the form of a woman, “beautiful and tall and skilled in splendid handiwork” (*Odyssey* 15.418; 13.289 = 16.158).
+
+## Outside Homer
+
+**Herodotus.** Herodotus begins his history with Phoenician traders who sell their cargo at Argos and carry off women. The Persians, he says, told that on the fifth or sixth day, when the Phoenicians had sold nearly all their cargo, the women came down to the shore, among them the king's daughter Io, and the Phoenicians rushed on them, seized her and sailed off to Egypt (Herodotus 1.1.1–4; see [[phoenicians]]). The Phoenicians denied the abduction: at Argos, they said, Io lay with the master of the ship, ἐμίσγετο τῷ ναυκλήρῳ τῆς νέος, and when she found that she was with child she sailed away with them of her own will, for shame before her parents (Herodotus 1.5.2; see [[herodotus]]). The nurse's story has both: the traders who stay to sell their wares and carry off what they can, and the woman who lies with one of them, ὃς ἐμίσγετο λάθρη, “the man who had lain with her in secret”, and goes with them willingly (*Odyssey* 15.420, 15.430; see [[the-phoenician-nurse]]). Herodotus also heard from the priests of Egyptian Thebes that Phoenicians carried off two priestesses and sold one into Libya and the other into Greece, and he places the second among the Thesprotians, where she served as a slave and set up a sanctuary of Zeus under an oak (Herodotus 2.54.1, 2.56.1–2).
+
+**The Phoenician commerce.** Monro, comparing the two poems, finds the Odyssey marked by the signs of “an active Phoenician commerce” and by a splendor seen in the palaces of Alcinous and Menelaus, “and even (in its way) in the homestead of Eumaeus” (Monro, Appendix II §6; see [[trade]]). For the island, which Strabo took for the Cycladic Syros and Monro for a mythical place, see [[syrie]].

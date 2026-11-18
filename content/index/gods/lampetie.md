@@ -27,7 +27,7 @@ Daughter of the Sun, [[helios|Helios]], called here “Hyperion the Sun” (see 
 
 ## Descriptions
 
-τανύπεπλος, “of the long robes” (*Odyssey* 12.375), = τανύω (“stretch”) + πέπλος (“robe”): the epithet of Helen (*Iliad* 3.228; *Odyssey* 4.305, 15.171) and of Thetis (*Iliad* 18.385, 18.424), given in the Odyssey to Ctimene too (*Odyssey* 15.363; see [[long-robed]]). Among the goddesses of the Odyssey it is hers alone.
+τανύπεπλος, “of the long robes” (*Odyssey* 12.375), = τανύω (“stretch”) + πέπλος (“robe”): the epithet of Helen (*Iliad* 3.228; *Odyssey* 4.305, 15.171) and of Thetis (*Iliad* 18.385, 18.424), given in the Odyssey to [[ctimene|Ctimene]] too (*Odyssey* 15.363; see [[long-robed]]). Among the goddesses of the Odyssey it is hers alone.
 
 {{notes}}
 

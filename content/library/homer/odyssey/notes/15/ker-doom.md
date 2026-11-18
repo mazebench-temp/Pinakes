@@ -1,0 +1,5 @@
+---
+summary: The doom that the seer's family escapes: Melampus “escaped his doom” in the halls of Phylacus (15.235), and Theoclymenus flees Argos, “Avoiding death and black doom at their hands” (15.275).
+---
+
+Twice in the seer's story a man of the line of Melampus gets away from his κήρ. Melampus, bound for a year in the halls of Phylacus, “escaped his doom and drove the loud-bellowing cattle / to Pylos from Phylace” (ἀλλʼ ὁ μὲν ἔκφυγε κῆρα, 15.235–236; see [[melampus]] and [[melampus-and-the-cattle-of-iphiclus]]). His great-grandson tells Telemachus why he is on the shore: “Avoiding death and black doom at their hands, / I am an exile” (θάνατον καὶ κῆρα μέλαιναν, 15.275–276; see [[black-doom]], [[thanatos]] and [[theoclymenus]]); τῶν, “at their hands”, the dead man's kin, is governed by the ὑπό of ὑπαλευάμενος, “under stress of”, rather than by θάνατον (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.275; see [[kasignetos]]). The escape of the ancestor foreshadows the refuge of the descendant, whom Telemachus takes aboard (15.280–286).

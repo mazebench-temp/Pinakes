@@ -1,0 +1,11 @@
+---
+summary: Menelaus brings the parting cup to the chariot, “so that they might pour a libation before they went”, in the verses of Hecuba's cup for Priam (15.147–150; *Iliad* 24.283–286); and at Pylos the fugitive seer finds Telemachus beside his ship “pouring libations and praying” (15.257–258).
+# λείψαντε (15.149), the dual, as Iliad 24.285 (in its Book 24 note), and σπένδοντʼ (15.258), each only here in the
+# Odyssey; "pouring libations" is the Book 14 note's English.
+grc: [λείψαντε, σπένδοντʼ]
+en: [pour a libation]
+---
+
+**The parting cup.** When Telemachus and Peisistratus have mounted the chariot, “fair-haired Menelaus, son of Atreus, went after them, / holding wine sweet to the heart in his right hand / in a golden cup, so that they might pour a libation before they went. / He stood before the horses, and pledging them he spoke” (15.147–150; see [[cup]] and [[gold-and-silver]]). The verses are those with which Hecuba came to Priam as he set out for Achilles' hut, with wine in a golden cup “so that they might pour a libation before they went”, and stood before the horses (*Iliad* 24.283–286); there she bade him pour to father Zeus and pray to come home (*Iliad* 24.287). Some manuscripts have χρυσέῳ ἐν δέπαϊ, the order of the Iliad's verse, and Monro suggests χρυσείῳ δέπαϊ, as Aristarchus read at 3.41 (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, critical note on 15.149). λείψαντε is a dual, for the two young men. δεδισκόμενος, “pledging”, is the greeting with the cup that Peisistratus gave the disguised Athena at Pylos (3.41), and Menelaus' words are a farewell and a greeting for Nestor (15.151–153; see [[kind-as-a-father]] and [[nestor]]).
+
+**At the stern.** At Pylos the seer comes upon Telemachus as he is finishing the rites of departure: “and he found him / pouring libations and praying beside the swift black ship” (15.257–258), where he had been “praying and sacrificing to Athena / beside the stern of the ship” (15.222–223; see [[prayer]], [[sacrifice]] and [[athena]]). His voyage began the same way, when the crew set up mixing bowls on the night they sailed from Ithaca and poured libations to the immortal gods, “and most of all to the gray-eyed daughter of Zeus” (2.431–433). The seer makes the rite his first appeal, begging Telemachus “by the burnt offerings and by the god” (15.261; see [[supplication]]).

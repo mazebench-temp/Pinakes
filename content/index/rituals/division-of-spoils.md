@@ -7,7 +7,8 @@ summary: How the plunder of sacked towns was shared out: the army divided it and
 aliases: [spoils, booty, plunder, dasmos]
 grc: [ξυνήϊα, δέδασται, παλίλλογα, δασμὸς, δάσσαντο, ἐκ δʼ ἕλον]
 # ἐξείλετο (from the Book 2 note) is Teucer taking an arrow from his quiver at 8.323.
-except: [8.323, Rhetoric 1415a4]
+# δέδασται at Od. 15.412: on Syrie "everything is divided" between two cities, not spoil.
+except: [8.323, Rhetoric 1415a4, Od. 15.412]
 en: [common store, divided, gather it back again, division, divided the spoils, they chose out]
 passages:
   - 1.122-129 | Achilles: there is no common store

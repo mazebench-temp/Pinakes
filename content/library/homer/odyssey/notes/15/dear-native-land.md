@@ -1,0 +1,6 @@
+---
+summary: Athena warns that the suitors lie in ambush, “eager to kill you before you reach your native land” (15.30); Telemachus asks Menelaus, “send me away now to my dear native land” (15.65), and Helen wishes that he may reach “your well-built house and your native land” (15.129); and the book's exiles: Melampus, “fleeing his native land” (15.228), Theoclymenus, “So I too am far from my native land” (15.272), and Eumaeus, carried off as a child, “driven so far from your native land and your parents” (15.382).
+grc: ["πατρίδα φεύγων", "ἐκ πατρίδος", "σῆς πατρίδος"]
+---
+
+15.30 is the verse of the ambush in Penelope's dream and in Athena's words to Odysseus (4.823, 13.426). Helen's verse-end is the homecoming that Proteus put off for Menelaus and that Nausicaa promised Odysseus, “your well-built house and your native land” (4.476, 6.315; see [[well-built]]). The three phrases new to the entry each name a native land that a man has lost: Melampus' Pylos, Theoclymenus' Argos, which he left for killing a man, and the island of [[syrie|Syrie]], from which Eumaeus was carried off and sold (15.225–242, 15.272–278, 15.403–484; see [[melampus]], [[theoclymenus]], [[exile-and-refuge]], [[eumaeus]] and [[the-kidnapping-of-eumaeus]]).

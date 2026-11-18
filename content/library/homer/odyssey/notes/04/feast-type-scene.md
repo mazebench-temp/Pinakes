@@ -9,7 +9,7 @@ passages:
 
 **The guests' meal.** The strangers come in the middle of the wedding feast, but they are served a meal of their own (see [[the-wedding-at-sparta]] and [[xenia]]), and it follows the pattern of the guest's meal in Book 1 step by step:
 
-1. **The bath.** They step into polished bathtubs, the slave women wash and anoint them and put cloaks and tunics on them (4.48–50; see [[bathing]] and [[cloak]]). The first verse is the bath of Odysseus and Diomedes after the night raid (*Iliad* 10.576), and the next two return when Telemachus and Theoclymenus bathe in Ithaca (17.88–89).
+1. **The bath.** They step into polished bathtubs, the slave women wash and anoint them and put cloaks and tunics on them (4.48–50; see [[bathing]] and [[cloak]]). The first verse is the bath of Odysseus and Diomedes after the night raid (*Iliad* 10.576), and the next two return when Telemachus and [[theoclymenus|Theoclymenus]] bathe in Ithaca (17.88–89).
 2. **The seats.** “they sat down on chairs beside Menelaus, son of Atreus” (4.51; see [[throne]]).
 3. **Water, table, bread.** The five verses of the Odyssey's welcome (4.52–56 = 1.136–140; see [[water-for-the-hands]], [[basin-and-pitcher]] and [[table]]).
 4. **Meat and cups.** A carver sets out platters of meat and golden cups (4.57–58 = 1.141–142; see [[cup]]). Most editors since Wolf reject the two verses here, which the Harleian and several other manuscripts lack (W. W. Merry's critical note; see the translation's note on 4.57–58).

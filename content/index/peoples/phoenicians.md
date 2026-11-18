@@ -12,8 +12,10 @@ aliases: [Phoinikes, Phoenician, Phoenician men, Phoenicia]
 # excepts Od. 14.288).
 # φοῖνιξ is also “purple” (purple), “bay” of a horse (23.454), the date palm (Od. 6.163) and the name of Achilles'
 # tutor (phoenix), so the people are claimed by the capitalized forms only. ^Φοίνικας (Od. 13.272) is in no other line
-# of Homer, the Poetics or the Rhetoric; Φοίνικα, Achilles' tutor (Il. 23.360), is another word.
-grc: ["^Φοίνικες", "^Φοινίκην", "^Φοίνικας"]
+# of Homer, the Poetics or the Rhetoric; Φοίνικα, Achilles' tutor (Il. 23.360), is another word. ^Φοίνισσʼ, "a
+# Phoenician woman" (Od. 15.417), and ^Φοινίκων (Od. 15.473) are in no other line of Homer, the Poetics or the
+# Rhetoric.
+grc: ["^Φοίνικες", "^Φοινίκην", "^Φοίνικας", "^Φοίνισσʼ", "^Φοινίκων"]
 ---
 
 ## The name
@@ -26,7 +28,7 @@ grc: ["^Φοίνικες", "^Φοινίκην", "^Φοίνικας"]
 
 The Iliad names them once, in the history of a prize. The silver mixing bowl that Achilles sets out for the footrace was made by Sidonian craftsmen, and “Phoenician men brought it over the misty sea / and set it out in harbors, and gave it as a gift to Thoas” (23.744–745; see [[sidonians]], [[mixing-bowl]] and [[thoas-of-lemnos]]). Walter Leaf notes that Homer always keeps the Sidonians as craftsmen apart from the Phoenicians as traders, and that the Phoenicians, familiar in the Odyssey, are not mentioned again in the Iliad (*Commentary on the Iliad*, 1900, on 23.743). στῆσαν may mean that they landed, or that they set the bowl out for show; Leaf suggests that they gave the king a present to buy leave to trade in his country (on 23.745). The bowl then passed to Euneus, who gave it to Patroclus as the price of Lycaon (23.746–747; see [[euneus]] and [[trade]]).
 
-The Odyssey knows them well. Menelaus wandered to Cyprus, Phoenicia and Egypt on his way home (*Odyssey* 4.83; see [[cyprus]] and [[egypt]]). In the false tales Odysseus tells on Ithaca they are sailors for hire and dealers in men. He begged “noble Phoenicians” to carry him to Pylos or Elis, and the wind drove them off course against their will (*Odyssey* 13.271–277); and a Phoenician “skilled in deceits” took him home to Phoenicia, kept him a year, and then shipped him to Libya meaning to sell him there for a vast price (*Odyssey* 14.287–297; see [[the-tale-to-eumaeus]] and [[libya]]). In Eumaeus' story Phoenician traders, “famed for ships”, came to his island with countless trinkets and stayed a whole year trading; a Phoenician woman of his father's house, herself a Sidonian carried off by pirates, went away with them and took the child, who would fetch a vast price wherever they sold him, and they sold him to Laertes (*Odyssey* 15.415–484; see [[eumaeus]] and [[slavery-and-freedom]]). The word for the price is ὦνος, the word of the bowl that bought Lycaon (23.746).
+The Odyssey knows them well. Menelaus wandered to Cyprus, Phoenicia and Egypt on his way home (*Odyssey* 4.83; see [[cyprus]] and [[egypt]]). In the false tales Odysseus tells on Ithaca they are sailors for hire and dealers in men. He begged “noble Phoenicians” to carry him to Pylos or Elis, and the wind drove them off course against their will (*Odyssey* 13.271–277); and a Phoenician “skilled in deceits” took him home to Phoenicia, kept him a year, and then shipped him to Libya meaning to sell him there for a vast price (*Odyssey* 14.287–297; see [[the-tale-to-eumaeus]] and [[libya]]). In Eumaeus' story Phoenician traders, “famed for ships”, came to his island with “countless baubles” and stayed a year trading, and a Phoenician woman of his father's house went away with them, taking the child, whom they sold to Laertes (*Odyssey* 15.415–484; see [[eumaeus]], [[syrie]], [[the-kidnapping-of-eumaeus]], [[the-phoenician-nurse]] and [[slavery-and-freedom]]). The word for the price is ὦνος, the word of the bowl that bought Lycaon (23.746).
 
 ## Outside Homer
 

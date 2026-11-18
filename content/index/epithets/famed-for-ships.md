@@ -22,4 +22,4 @@ of: [dymas-the-phaeacian]
 
 ## Outside Homer
 
-The *Homeric Hymn to Apollo* gives the epithet to Euboea, among the lands to which Leto came in her labor, ναυσικλειτή τʼ Εὔβοια (*Hymn to Apollo* 31), and again when Apollo crosses to it in search of a site for his temple, ναυσικλειτῆς Εὐβοίης (*Hymn to Apollo* 219).
+The *Homeric Hymn to Apollo* gives the epithet to Euboea, among the lands to which Leto came in her labor, ναυσικλειτή τʼ Εὔβοια (*Hymn to Apollo* 31), and again when Apollo crosses to it in search of a site for his temple, ναυσικλειτῆς Εὐβοίης (*Hymn to Apollo* 219). In a damaged papyrus of the Hesiodic *Catalogue of Women* the Odyssey's twin compound is the Taphians': “the Taphians, famed for ships,” Τάφιοι ναυσίκλυτοι, killed the sons of Electryon over his cattle, and Alcmene alone was left to her parents (fr. 99 Evelyn-White, a plain rendering, where the verse is partly restored; see [[hesiod]], [[taphians]] and [[alcmene]]).

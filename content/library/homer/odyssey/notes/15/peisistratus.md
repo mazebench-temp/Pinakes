@@ -1,0 +1,23 @@
+---
+summary: At Sparta Telemachus wakes him in the night, and he counsels waiting for dawn and for the gifts of the host; he stows the gifts in the chariot, asks Menelaus whom the eagle's sign is for, and drives his friend back by way of Pherae to Pylos, where he leaves him at his ship rather than take him home to Nestor, who would not let him go (15.4–216).
+# Πεισίστρατ* and Νεστορίδ* are claimed in the Odyssey Book 3 note: Νεστορίδην, Νεστορίδη, Νεστορίδης and Πεισίστρατος
+# (15.6, 15.44, 15.46, 15.48, 15.131, 15.166, 15.195, 15.202). Unnamed: "the splendid son of Nestor" asleep in the porch
+# (15.4-5, 15.144); the waking and his counsel (15.45, 15.49-55); "came near them" (15.57); the gifts in the chariot
+# (15.132); the drive out and the farewell (15.145-147, 15.151); his question (15.167-168); the road and Pylos
+# (15.182-194); Telemachus' request to him (15.196-201); his decision, his advice and the drive home (15.203-216).
+refs: [15.4-5, 15.45, 15.49-55, 15.57, 15.132, 15.144-147, 15.151, 15.167-168, 15.182-194, 15.196-201, 15.203-216]
+passages:
+  - 15.44-55 | Peisistratus counsels waiting for dawn
+  - 15.166-168 | Peisistratus asks for whom the sign is
+  - 15.193-216 | Peisistratus leaves Telemachus at the ship
+---
+
+**The counsel.** Athena finds “Telemachus and the splendid son of Nestor / sleeping in the porch of glorious Menelaus, / the son of Nestor overcome by soft sleep” (15.4–6; see [[soft]] and [[splendid]]). Telemachus wakes him “stirring him with his heel” (λὰξ ποδὶ κινήσας, 15.45), as Nestor wakes Diomedes in the Iliad (*Iliad* 10.158). Aristarchus and modern critics object to it as absurd when the man to be woken was in a bed, “But we do not know the form of the bed” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.45; see the translation's note on 15.45). He answers as a host's son who knows what is owed to a host: “Telemachus, there is no way, eager though we are for our journey, / to drive through the dark night; and soon it will be dawn. / But wait until he brings gifts and sets them in the chariot, / the hero, the son of Atreus, Menelaus famed for his spear, / and sends us off, speaking comfortingly with gentle words” (15.49–53; see [[menelaus]], [[famed-for-his-spear]] and [[gentle-words]]); “For a guest remembers all his days / the host who has shown him friendship” (15.54–55; see [[a-guest-remembers-his-host]] and [[xenia]]).
+
+**At the parting.** “And the hero Peisistratus laid them in the wicker body of the chariot / when he had received them, and gazed at them all in his heart” (15.131–132; see [[heros]] and [[wagon]]), “with all his thoughts centred upon them” (Monro on 15.132). Menelaus sends his greeting to Nestor by both young men (15.151–153; see [[nestor]] and [[kind-as-a-father]]), and when the eagle flies by on the right with the goose, it is Peisistratus who asks the king to read it: “Consider now, Menelaus, nurtured by Zeus, leader of the people, / whether the god has shown this sign to us two, or to you yourself” (15.167–168; see [[the-omen-of-the-eagle-and-the-goose]], [[teras]] and [[zeus-nurtured]]). Helen answers before Menelaus can (15.171–178; see [[helen]]).
+
+**Leaving his friend at the ship.** They drive back by way of Pherae, where Diocles gives them good cheer again, and reach Pylos the next morning (15.182–193; see [[diocles]] and [[chariot-journey]]). Telemachus asks him not to take him past the ship: they are guest-friends from their fathers' friendship and of the same age, and “lest the old man keep me in his house against my will / in his eagerness to make me welcome” (15.195–201; see [[telemachus]] and [[nestor]]). “So he spoke, and the son of Nestor took counsel with his heart / how he might promise and fulfill it fair and right” (15.202–203), and he turns the horses to the ship, takes out the clothing and the gold that Menelaus gave, and puts them in the stern (15.204–207; see [[guest-gifts]]):
+
+{{quote:27401b64-ae8f-5b49-84d8-9396ac895016}}
+
+The overweening spirit is a phrase of the Iliad, said of Achilles (*Iliad* 18.262), and “here only half-serious”; εἴσεται is “will make his way”, and ἔμπης “for certain” (Monro on 15.212, 15.213, 15.214; see [[hyperbios]] and the translation's notes on 15.212, 15.213). Then he drives the fine-maned horses back to the city of the Pylians and leaves the poem (15.215–216; see [[fine-maned]] and [[pylians]]). Strabo uses the scene to show that the city of Pylos lay some way from the shore: Telemachus “does not let Peisistratus drive to the city, but bids him turn aside and hurry to the ship”, since the way to the city was not the way to the anchorage (*Geography* 8.3.26; see [[pylos]] and [[strabo-on-nestors-pylos]]).

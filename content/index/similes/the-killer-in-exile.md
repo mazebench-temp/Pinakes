@@ -34,7 +34,7 @@ Hermes has brought Priam unseen through the camp and left him at the door of the
 
 ## Elsewhere in Homer
 
-The arrival of a stranger who clasps the knees of the master or mistress of a house and strikes the household silent is told in the Odyssey, when Odysseus, hidden in a mist by Athena, comes unseen into the hall of Alcinous: he throws his arms around the knees of Arete, the mist is shed from him, and those in the hall fall silent at the sight of a man in the house and marvel as they look (*Odyssey* 7.139–145). Another exile is the seer Theoclymenus, who, having killed a man of his own tribe, flees the kinsmen of the dead and begs Telemachus to take him aboard his ship (*Odyssey* 15.271–278), and Odysseus tells his son that one who has killed even a single man, with few to avenge him, goes into exile, leaving his kin and his native land (*Odyssey* 23.118–120).
+The arrival of a stranger who clasps the knees of the master or mistress of a house and strikes the household silent is told in the Odyssey, when Odysseus, hidden in a mist by Athena, comes unseen into the hall of Alcinous: he throws his arms around the knees of Arete, the mist is shed from him, and those in the hall fall silent at the sight of a man in the house and marvel as they look (*Odyssey* 7.139–145). Another exile is the seer [[theoclymenus|Theoclymenus]], who, having killed a man of his own tribe, flees the kinsmen of the dead and begs Telemachus to take him aboard his ship (*Odyssey* 15.271–278), and Odysseus tells his son that one who has killed even a single man, with few to avenge him, goes into exile, leaving his kin and his native land (*Odyssey* 23.118–120).
 
 ## Outside Homer
 

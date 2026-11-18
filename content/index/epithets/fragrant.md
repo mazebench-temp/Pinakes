@@ -4,7 +4,7 @@ greek: κηώεις, εὐώδης, νεκτάρεος, θυήεις
 kind: epithet
 summary: Epithets of scent: κηώεις and κηώδης, of storerooms and bedchambers and of a mother's bosom; εὐώδης, “sweet-smelling”; νεκτάρεος, of garments with a divine fragrance; θυήεις, of altars fragrant with offerings; and θυώδης, of a chamber and of garments.
 aliases: [perfumed, keoeis, euodes, nektareos, thyeeis]
-grc: [κηώεντι, εὐώδεϊ, νεκταρέου]
+grc: [κηώεντι, εὐώδεϊ, νεκταρέου, κηώεντα]
 en: [fragrant, perfumed]
 ---
 

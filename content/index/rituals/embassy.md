@@ -11,7 +11,8 @@ grc: [ἀγγελίην, ἀγγελίης]
 # ἀγγελίην at Od. 1.408 is news of Odysseus.
 # Ζηνὸς ὑπʼ ἀγγελίης (Od. 7.263) is a message from Zeus, not an embassy.
 # ἀγγελίην at Od. 10.245 is the news of the companions that Eurylochus brings to the ship.
-except: [7.416, 13.252, 18.17, 18.19, 19.337, Od. 1.408, Od. 2.30, Od. 2.42, Od. 7.263, Od. 10.245]
+# ἀγγελίην at Od. 15.41 and 15.314 is the news of Telemachus' return and of Odysseus brought to Penelope.
+except: [7.416, 13.252, 18.17, 18.19, 19.337, Od. 1.408, Od. 2.30, Od. 2.42, Od. 7.263, Od. 10.245, Od. 15.41, Od. 15.314]
 en: [embassy]
 passages:
   - 3.203-224 | The embassy to Troy

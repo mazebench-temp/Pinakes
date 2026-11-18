@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Good at the war cry,” the standing epithet of [[Menelaus]] and [[Diomedes]]: a warrior whose shout rallies his friends and terrifies the enemy.
 aliases: [loud at the battle cry, boen agathos]
-grc: [βοὴν ἀγαθὸς]
+grc: [βοὴν ἀγαθὸς, βοὴν ἀγαθὸν]
 en: [good at the war cry]
 of: [menelaus, diomedes]
 ---

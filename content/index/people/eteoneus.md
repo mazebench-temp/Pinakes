@@ -25,7 +25,3 @@ He is named with his father in Menelaus' rebuke, Βοηθοΐδη Ἐτεωνε�
 - ὀτρηρὸς θεράπων Μενελάου κυδαλίμοιο, “the ready attendant of glorious Menelaus” (*Odyssey* 4.23), the verse given to Asphalion, who pours the water for the hands at supper (*Odyssey* 4.217; see [[asphalion]] and [[ready-attendants]]).
 
 {{notes}}
-
-## Later in the Odyssey
-
-When Telemachus asks leave to go home, Menelaus has his wife and the slave women prepare a meal, and Eteoneus comes to him, “risen from his bed, since he lived not far from him”; Menelaus bids him kindle a fire and roast meat, and he obeys (*Odyssey* 15.95–98, a plain rendering). At the meal he carves the meat and gives out the portions, while Megapenthes pours the wine (*Odyssey* 15.140–141; see [[megapenthes]]). Merry points to the first passage for his dwelling near Menelaus (on 4.22).

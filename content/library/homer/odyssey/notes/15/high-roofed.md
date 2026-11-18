@@ -1,0 +1,5 @@
+---
+summary: Melampus at Argos “married a wife and built a high-roofed house” (15.241); and in Eumaeus' story the nurse “at once pointed out the high-roofed house of my father” (15.424), and the trader answers, “Would you then come home again with us, / so that you may see the high-roofed house of your father and mother” (15.431–432).
+---
+
+15.424 is the verse of the Laestrygonian girl who pointed out her father's house (10.111; see the Book 10 note); here the English follows Monro in taking πατρός as “my father,” Eumaeus' own: the woman points out the lofty roof of the house she belongs to (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.424; see the translation's note on 15.417, 15.424, and [[the-phoenician-nurse]]). Monro finds the repetition of ὑψερεφὲς δῶ at 15.432, with a different reference, probably intentional: “You have shown us the ‘great house’ where you are kept in slavery: will you return to the ‘great house’ of your father and mother?” (Monro on 15.424; see [[ctesius]], [[the-kidnapping-of-eumaeus]] and [[house]]).

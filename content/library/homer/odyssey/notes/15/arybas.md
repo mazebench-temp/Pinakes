@@ -1,0 +1,8 @@
+---
+summary: Named once, by his daughter, the Phoenician slave woman in the house of Eumaeus' father, when she tells the trader who she is: “the daughter of Arybas, whose wealth came in a flood” (15.426).
+# Ἀρύβαντος (15.426) is claimed by the entry. Unnamed: her parents' "high-roofed house" and "they are reputed rich"
+# (15.432-433).
+refs: [15.432-433]
+---
+
+The woman's answer to the trader gives her a home and a father: “I claim to be from Sidon, rich in bronze, / and I am the daughter of Arybas, whose wealth came in a flood; / but Taphian men, pirates, seized me / as I was coming from the fields, and brought me here and sold me / to this man's house; and he paid a worthy price for me” (15.425–429; see [[the-phoenician-nurse]], [[sidon]], [[taphians]] and [[euchomai]]). εὔχομαι is “claim” here, as at 15.196 and in the Cretan tale of Book 14 (14.199, 14.204). The trader takes up the word for the father's wealth: “so that you may see the high-roofed house of your father and mother / and themselves? For truly they are still alive and are reputed rich” (15.432–433). καλέονται, “are reputed”, “have the credit of being”, looks like a trader's way of speaking, as ῥυδόν, “in a flood”, sounds like “a piece of mercantile argot” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.426, 15.433; see the translation's note on 15.433, 15.445, and [[wealthy]]). The repeated “high-roofed house” answers her pointing out of her master's: “You have shown us the ‘great house’ where you are kept in slavery: will you return to the ‘great house’ of your father and mother?” (Monro on 15.424; see [[ctesius]]).

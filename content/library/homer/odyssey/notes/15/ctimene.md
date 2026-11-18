@@ -1,0 +1,8 @@
+---
+summary: Odysseus' sister, named once by the swineherd: Anticleia reared him together with “Ctimene of the long robes”, her youngest child, and when the two came of age Ctimene was given in marriage to Same and he was sent to the farm (15.363–370).
+# Κτιμένῃ (15.363) is claimed by the entry. Unnamed: "her strong daughter" and "with her I was reared" (15.364-366);
+# "they gave her in marriage to Same" (15.367).
+refs: [15.364-367]
+---
+
+The disguised Odysseus asks about his own mother and father, and Eumaeus, answering, comes to the girl he grew up with: Anticleia “herself reared me together with Ctimene of the long robes, / her strong daughter, whom she bore the youngest of her children; / with her I was reared, and she honored me little less” (15.363–365; see [[anticleia]], [[eumaeus]] and [[long-robed]]). It is the only time Homer names a sister of Odysseus, and Odysseus hears of her from his own slave, who does not know to whom he is speaking (see [[odysseus]]). “But when we both came to the lovely prime of youth, / they gave her in marriage to Same, and got countless gifts” (15.366–367; see [[samos]]). Σάμηνδʼ ἔδοσαν is a pregnant phrase, “gave her in marriage and sent her to Same” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.367; see the translation's note on 15.367), and the countless gifts are the bride-price, the gifts in which the suitors of this book compete for her brother's wife (15.17–18; see [[bride-price]]). Her marriage ends the childhood of the two: Anticleia clothed Eumaeus in a cloak and tunic, gave him sandals and sent him to the farm, “and she loved me dearly in her heart” (15.368–370).

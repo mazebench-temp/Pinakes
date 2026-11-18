@@ -5,8 +5,8 @@ kind: formula
 tags: [speech-formula, foreshadowing]
 summary: A formula of prophecy and solemn assertion, “and this will surely be fulfilled.”
 aliases: [it will be accomplished]
-grc: [τὸ δὲ καὶ τετελεσμένον ἔσται, τὸ δὲ καὶ τελέεσθαι ὀΐω]
-en: [it will surely come to pass, I think it will be fulfilled]
+grc: [τὸ δὲ καὶ τετελεσμένον ἔσται, τὸ δὲ καὶ τελέεσθαι ὀΐω, "ἔπος τετελεσμένον εἴη"]
+en: [it will surely come to pass, I think it will be fulfilled, might be fulfilled]
 ---
 
 ## The pattern

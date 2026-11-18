@@ -1,0 +1,7 @@
+---
+summary: The Epeians are named in the verse of Telemachus' voyage home, “past shining Elis, where the Epeians rule” (15.298), the verse of Book 13 and Book 24.
+---
+
+On the voyage home “the ship made for Pheae, driven on by the wind of Zeus, / and past shining Elis, where the Epeians rule” (297–298; see [[elis]], [[pheia]] and [[the-journey-of-telemachus]]). The people are again no more than the end of a verse, which the Odyssey gives three times, to the Cretan of the false tale, to Telemachus' voyage and to the suitors' kin (13.275, 24.431; see the Book 13 note). The *Hymn to Apollo* has it of the Cretan ship that sails the same coast (*Hymn to Apollo* 426).
+
+Strabo thought that the Epeians may once have held more than Elis. Hecataeus of Miletus, he reports, made the Epeians a people different from the Eleans: the Epeians joined Heracles against Augeas and destroyed Augeas and Elis with him; and Hecataeus called Dyme both Epeian and Achaean. Strabo, though he distrusts the old writers, finds it credible that the Epeians, once a different people, came to share a common state with the Eleans by conquest, and that their rule reached as far as Dyme, which the poet does not name (*Geography* 8.3.9; see [[strabo]] and [[augeas]]). Later, he says, the people were called Eleans instead of Epeians (*Geography* 8.3.8). The Dyme of the *Hymn to Apollo*, in its version of the verse of Cruni and Chalcis, is that Achaean town (see [[cruni]] and [[chalcis-in-elis]]).

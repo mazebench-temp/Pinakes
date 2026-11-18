@@ -1,0 +1,9 @@
+---
+summary: The grief of the house of Laertes: his wife's death “grieved him / most of all”, and “she died of grief for her glorious son” (15.356–358), “grieving though she was” all the while she lived (15.361); and the stolen child left on the Phoenicians' ship “grieving at heart” (15.481).
+# ἤκαχʼ (15.357) and ἀχέουσα (15.361), forms found only here (ἤκαχε Il. 16.822, Od. 16.427; ἀχέουσʼ Il. 9.567).
+grc: ["ἤκαχʼ", ἀχέουσα]
+---
+
+**A mother's grief.** Eumaeus tells the stranger what became of Odysseus' parents. Laertes mourns “for his son who is gone, / and for his wise-hearted wedded wife, whose death grieved him / most of all, and brought him to old age before its time. / And she died of grief for her glorious son, / by a wretched death” (ἥ ἑ μάλιστα / ἤκαχʼ ἀποφθιμένη … ἡ δʼ ἄχεϊ οὗ παιδὸς ἀπέφθιτο, 15.355–359; see [[anticleia]], [[laertes]], [[geron]] and [[thanatos]]). The son who is listening heard the same from her shade: “but longing for you, and for your counsels, shining Odysseus, / and for your gentleness, robbed me of my honey-sweet life” (11.202–203; see [[pothe]]). Grief for the absent son killed the mother and ages the father; and while the mother lived, grieving as she was, the slave still had a welcome in the house: “So long as she lived, grieving though she was, / so long it was a pleasure to me to question and to ask” (ἀχέουσά περ ἔμπης, 15.361–362; see [[philos]]).
+
+**Grieving at heart.** Eumaeus' own story ends with the Phoenician woman thrown overboard and the child alone among the traders: “but I was left behind, grieving at heart” (ἀκαχήμενος ἦτορ, 15.481; see [[etor]], [[the-kidnapping-of-eumaeus]] and [[the-phoenician-nurse]]). It is the half-verse with which the false Cretan of Book 13 told Athena how the Phoenicians left him on the shore of Ithaca (13.286; see [[phoenicians]]): the lie and the true story end in the same words.

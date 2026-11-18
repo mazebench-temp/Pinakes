@@ -16,6 +16,8 @@ Helen is weaving a great web, a double-folded purple cloth, and "working into it
 
 The scholia on these lines remark that the poet has fashioned here a worthy archetype of his own poetry. Helen does in thread what the poem does in words: she makes a record of the war while it is being fought, and she is its subject as well as its maker. In *Iliad* 6 she tells Hector that Zeus has given her and Paris an evil fate "so that hereafter we may be a theme of song for men to come" (6.357–358). Modern critics have read the web in the same way, as the poem's image of itself.
 
-*Iliad* 3 takes up the image again. When Antenor remembers the Achaean envoys addressing the Trojans, he says that they "wove" (ὕφαινον) their words and counsels before all (3.212). In the Odyssey Helen gives Telemachus a robe she has made, "a memorial of Helen's hands" (Odyssey 15.126). What she weaves outlasts the moment, as the poem does.
+*Iliad* 3 takes up the image again. When Antenor remembers the Achaean envoys addressing the Trojans, he says that they "wove" (ὕφαινον) their words and counsels before all (3.212). In the Odyssey Helen gives Telemachus a robe she has made, "a remembrance of Helen's hands" (*Odyssey* 15.126). What she weaves outlasts the moment, as the poem does.
+
+{{notes}}
 
 See [[helen]], [[weaving]] and [[loom]].

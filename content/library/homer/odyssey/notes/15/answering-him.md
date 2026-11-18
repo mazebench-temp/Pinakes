@@ -1,0 +1,7 @@
+---
+summary: Eighteen frames of reply. Telemachus answers seven times in his verse, “And wise Telemachus answered him face to face” (15.86, 15.154, 15.179, 15.265, 15.279, 15.512, 15.535), and Peisistratus and Peiraeus in the same shape (15.48, 15.544); Theoclymenus “spoke to him in turn” (15.271, 15.508), and so does the swineherd, “leader of men” (15.351, 15.389); Odysseus answers twice (15.380, 15.485); and in Eumaeus' story the trader and the nurse speak in the same frames (15.430, 15.439), “And the woman spoke to him in turn and answered” (15.434).
+grc: ["αὖτε προσέειπεν"]
+en: [spoke among them again]
+---
+
+ἀντίον ηὔδα, “answered face to face,” ends the verse of Telemachus' answers (see [[wise]]); with Νεστορίδης Πεισίστρατος it is the verse of Book 4 (15.48 = 4.155), and with Πείραιος δουρικλυτός it gives the companion his one answer in the book (15.544; see [[famed-for-his-spear]] and [[peiraeus-son-of-clytius]]). The swineherd's verse names him by his office and title, συβώτης, ὄρχαμος ἀνδρῶν (15.351, 15.389; again 16.36; see [[leader-of-men]]). Eumaeus' story keeps the narrator's frames for the speeches it reports: καὶ ἀμείβετο μύθῳ after γυνή is the half-verse of Hecuba's answer to Priam (*Iliad* 24.200), and τοῖς δʼ αὖτις μετέειπε, “spoke among them again” (15.439), is the Iliad's verse for Nestor and Diomedes (*Iliad* 7.170, 10.241; see [[the-kidnapping-of-eumaeus]]). τὴν δʼ αὖτε προσέειπεν, with the movable ν, is found in the Odyssey only at 15.430. The swineherd's answer at 15.325 is the poet's address (see [[apostrophe]]).

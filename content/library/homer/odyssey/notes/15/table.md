@@ -1,0 +1,9 @@
+---
+summary: A polished table is drawn up for the guests at Menelaus' last meal (15.137); in the hut Eumaeus tells the beggar that the suitors' well-polished tables are laden with bread and meat and wine (15.333–334); and in his story the nurse finds the tables and cups of the banqueters in the porch of his father's house (15.466).
+---
+
+**At Sparta.** “And a handmaid brought water for the hands in a pitcher and poured it, / a fine golden one, over a silver basin, / for them to wash; and she drew up a polished table beside them” (15.135–137; see [[water-for-the-hands]], [[basin-and-pitcher]] and [[polished]]): the verses of the welcome of a guest, as when Telemachus received Athena and when Menelaus received Telemachus (1.136–138, 4.52–54; see the entry).
+
+**The suitors' tables.** Eumaeus warns the beggar that the suitors' servants are young men well clad in cloaks and tunics, “who serve them; and the well-polished tables / are laden with bread and meat and wine” (15.333–334; see [[the-suitors]], [[wine]] and [[cloak]]). The spondaic verse 334 has been thought to express the heaviness of the load, βεβρίθασιν, “are laden”; Monro thinks the original was probably more dactylic, σίτοο καὶ κρεάων ἰδὲ ϝοίνοο βεβρίθασι (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.334).
+
+**In the porch.** The nurse, leading the child out, “in the porch she found the cups and the tables / of the banqueters, who attended on my father” (15.466–467; see [[cup]], [[the-kidnapping-of-eumaeus]] and [[the-phoenician-nurse]]). After a feast the slave women carried away the bread, the tables and the cups (19.61–62), and from this place Monro infers that they were taken into the πρόδομος, the entrance hall of the μέγαρον (on 15.466; see [[house]]). The banqueters attended on Eumaeus' father as his counselors, like the twelve elders of the Phaeacians (Monro on 15.467; see [[ctesius]] and [[elders]]).

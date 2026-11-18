@@ -18,7 +18,7 @@ passages:
 
 **What the sea did.** The poem has shown it. When Odysseus reached the river's mouth on Scheria after two days and nights in the water, he let his knees sink and his strong hands, “for his dear heart was overcome by the sea” (*Odyssey* 5.453–457; see [[the-river-of-scheria]]). In Book 8 he says it himself. He has endured “the wars of men and the grievous waves” (*Odyssey* 8.182–183), and he fears that someone may outrun him, “for I have been too shamefully overcome / among many waves”, ἐδαμάσθην, the verb of Book 5 (*Odyssey* 8.230–233; see [[sea]]). Laodamas means the maxim kindly, and ends his invitation with the hope that the stranger may scatter the sorrows from his heart (*Odyssey* 8.149; see [[no-greater-fame]]).
 
-**Nothing worse.** The turn of the phrase, “nothing else worse”, is Achilles' over Patroclus, “for I could suffer nothing worse” (οὐ μὲν γάρ τι κακώτερον ἄλλο πάθοιμι, *Iliad* 19.321), and the beggar's to Eumaeus, that for mortals there is nothing worse than wandering (πλαγκτοσύνης δʼ οὐκ ἔστι κακώτερον ἄλλο βροτοῖσιν, *Odyssey* 15.343, a plain rendering). The man the Phaeacians look at has known both the sea and the wandering.
+**Nothing worse.** The turn of the phrase, “nothing else worse”, is Achilles' over Patroclus, “for I could suffer nothing worse” (οὐ μὲν γάρ τι κακώτερον ἄλλο πάθοιμι, *Iliad* 19.321), and the beggar's to Eumaeus, that “there is nothing worse for mortals than roaming” (πλαγκτοσύνης δʼ οὐκ ἔστι κακώτερον ἄλλο βροτοῖσιν, *Odyssey* 15.343; see [[nothing-worse-than-wandering]]). The man the Phaeacians look at has known both the sea and the wandering.
 
 ## Outside Homer
 

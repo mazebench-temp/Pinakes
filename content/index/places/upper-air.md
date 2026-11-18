@@ -5,6 +5,7 @@ kind: place
 tags: [cosmic]
 summary: The αἰθήρ, the bright upper air above the mist and the clouds and below the vault of the sky. Zeus dwells in it, and in the Iliad the gleam, the din and the blaze of battle go up to it.
 aliases: [upper air, aither, aether]
+en: [upper air]
 # The Greek forms are in the Book 19 note, which applies only within the Iliad: the stem would also catch
 # αἰθέρος at Rhetoric 1373b16, Empedocles' "air".
 ---

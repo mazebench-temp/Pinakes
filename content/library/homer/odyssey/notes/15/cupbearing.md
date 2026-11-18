@@ -1,0 +1,7 @@
+---
+summary: At Sparta Menelaus' own son Megapenthes pours the wine at the meal of departure (15.141); in the hut the beggar counts pouring wine among the services no mortal could rival him in (15.323).
+---
+
+**The son of the house.** At the parting meal “the son of Boethous divided the meat and served out the portions; / and the son of glorious Menelaus poured the wine” (15.140–141; see [[eteoneus]], [[megapenthes]] and [[feast]]). In the first book a carver serves the meat and a herald goes to and fro pouring the wine (1.141–143); here Menelaus' ready attendant and his son do the serving, and the wine is poured by the young man of the house (see the entry).
+
+**The beggar's service.** Odysseus offers to serve the suitors: “by the favor of Hermes the guide, who grants / grace and glory to the works of all men, / in service no other mortal could rival me, / in heaping up a fire well and splitting dry wood, / in carving and roasting meat and pouring wine, / such services as the lesser do for their betters” (15.319–324; see [[hermes]]). The infinitives depend on ἐρίσσειε and unfold the δρηστοσύνη, “service” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.322), and in τοῖς ἀγαθοῖσι the article is used as with comparatives, “the lesser … their betters” (Monro on 15.324). Eumaeus answers that the suitors' servants are not such as he, but young men, well clad, with shining faces (15.330–333; see [[the-suitors]]). Pouring wine is a young man's office, and the beggar is old.

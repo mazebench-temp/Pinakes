@@ -5,7 +5,7 @@ kind: epithet
 tags: [heroic-epithet, woman, mind]
 summary: “Thoughtful, prudent,” an epithet of women: used once in the Iliad, of Diomedes' wife Aegialeia, and in the Odyssey the standing epithet of Penelope, given once to Arete.
 aliases: [periphron, prudent, circumspect]
-grc: [περίφρων]
+grc: [περίφρων, περίφρονι]
 en: [wise]
 of: [aegialeia]
 ---

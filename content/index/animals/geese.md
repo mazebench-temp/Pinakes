@@ -15,4 +15,4 @@ en: [geese]
 
 ## Elsewhere in Homer
 
-The Odyssey keeps geese at home. As Telemachus leaves Sparta, an eagle flies past on the right carrying a great white goose, a tame one from the farmyard, and Helen reads the sign: Odysseus will come home and take vengeance (Odyssey 15.160–178). Penelope dreams of her twenty geese eating wheat by the water trough, and of an eagle that swoops down from the mountain and kills them all. She weeps for them in her dream, and the eagle speaks: the geese are the suitors, and he is her husband (Odyssey 19.535–553).
+The Odyssey keeps geese at home. As Telemachus leaves Sparta, an eagle flies past on the right carrying a huge white goose, a tame one from the court, and Helen reads the sign: Odysseus will come home and take vengeance (*Odyssey* 15.160–178; see [[the-omen-of-the-eagle-and-the-goose]]). Penelope dreams of her twenty geese eating wheat by the water trough, and of an eagle that swoops down from the mountain and kills them all. She weeps for them in her dream, and the eagle speaks: the geese are the suitors, and he is her husband (*Odyssey* 19.535–553).

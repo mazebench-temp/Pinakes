@@ -1,0 +1,5 @@
+---
+summary: At Sparta the title is given all round: to Menelaus, “the hero, the son of Atreus” (15.52, 15.121), to Phaedimus, king of the Sidonians (15.117), and to the two young men, Telemachus (15.62) and Peisistratus (15.131).
+---
+
+The leave-taking at Sparta is a meeting of men of rank, and the narrator and the speakers give each the title of respect. Menelaus is “the hero, the son of Atreus, Menelaus famed for his spear” in Peisistratus' mouth (ἥρως Ἀτρείδης, 15.52; see [[menelaus]] and [[famed-for-his-spear]]) and “the hero, the son of Atreus” as he puts the cup in Telemachus' hand (15.120–121); the king who gave him the silver bowl is “The hero Phaedimus” (Φαίδιμος ἥρως, 15.117; see [[phaedimus]]). The young guests have it too: Telemachus “threw a great mantle over his massive shoulders, / the hero, and went out of doors” (15.61–62; see [[dressing-scene]] and [[telemachus]]), and “the hero Peisistratus laid them in the wicker body of the chariot” (15.131; see [[peisistratus]]). In the Odyssey ἥρως is the title of kings and of the sons of noble houses as well as of fighting men (see the entry); the word does not return in the book once it leaves Sparta.

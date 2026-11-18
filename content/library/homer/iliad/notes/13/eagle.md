@@ -8,4 +8,4 @@ passages:
 
 Hector does not answer the sign. He calls Ajax a blundering braggart and wishes he were the son of Zeus and Hera, as surely as this day brings evil to the Argives (13.824–832; see [[hector]]). The two armies shout, and the din reaches the upper air and the rays of Zeus (13.833–837).
 
-The first verse of the omen returns twice in the Odyssey, for an eagle carrying a goose as Telemachus leaves Sparta and for a hawk tearing a dove as he lands in Ithaca (*Odyssey* 15.160–161, 15.525–526; see [[hawk]] and [[birds]]).
+The first verse of the omen returns twice in the Odyssey, for an eagle carrying a goose as Telemachus leaves Sparta and for a falcon plucking a dove as he lands on Ithaca (*Odyssey* 15.160–161, 15.525–527; see [[falcon]], [[birds]], [[the-omen-of-the-eagle-and-the-goose]] and [[the-omen-of-the-falcon]]).

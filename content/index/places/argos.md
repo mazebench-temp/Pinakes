@@ -8,7 +8,9 @@ summary: The city in the northeastern Peloponnese and the plain around it. In Ho
 # Pelasgian Argos (Il. 2.681) and Odysseus' dog (Od. 17.292, 17.300).
 # Ἄργεος (Od. 3.251, 3.263; later 4.99, 15.224, 21.108, 24.37) is always the place: it also catches nine Iliad lines
 # (2.287, 6.152, 7.363, 9.246, 12.70, 13.227, 13.379, 14.70, 19.329), which the Iliad Book 2 note claims as well.
-grc: [Ἄργεϊ, Ἄργεος, "μέσον Ἄργος"]
+# "Ἄργος ἐς ἱππόβοτον" (Od. 15.239; also Il. 3.75, 3.258, 15.30, which the Iliad Book 2 note claims as well) and
+# "Ἄργος ἀνʼ ἱππόβοτον" (Od. 15.274) as phrases, for the same reason.
+grc: [Ἄργεϊ, Ἄργεος, "μέσον Ἄργος", "Ἄργος ἐς ἱππόβοτον", "Ἄργος ἀνʼ ἱππόβοτον"]
 en: [Argos]
 ---
 

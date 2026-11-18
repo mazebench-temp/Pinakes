@@ -1,0 +1,7 @@
+---
+summary: Telemachus names Eurymachus to Theoclymenus as a host, the man “whom the men of Ithaca now look upon as a god”, the best of the suitors and the most eager to marry Penelope (15.518–522).
+---
+
+“But I will name to you another man to whom you may go, / Eurymachus, the splendid son of wise-hearted Polybus, / whom the men of Ithaca now look upon as a god; / for he is by far the best man, and most of all he is eager / to marry my mother and to hold the prize of honor of Odysseus” (518–522; see [[eurymachus]], [[polybus-father-of-eurymachus]] and [[the-suitors]]). To be looked on “as a god” by one's people is the honor of the Lycian kings, “and all look on us as gods”, of Arete, honored by the people, “who look on her as a god” when she walks through the city, and of the man whose words please his hearers (*Iliad* 12.312; 7.71, 8.173; see [[honored-like-a-god]]). Eurymachus, D. B. Monro writes, “seems likely to be the future lord of Ithaca”; the name is brought in to give occasion for the omen, after which [[theoclymenus|Theoclymenus]] proclaims that the line of Odysseus will continue to be “the ‘most kingly’”, and the plan of sending him to Eurymachus is quietly dropped (*Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.519; see [[the-omen-of-the-falcon]]).
+
+The Ithacans as a people are named only here in the book. [[theoclymenus|Theoclymenus]]' answer sets the house of Odysseus above them all: “There is no other race more kingly than yours / in the land of Ithaca, but you are always powerful” (533–534; see [[ithaca]] and [[telemachus]]).

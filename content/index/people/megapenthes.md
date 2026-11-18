@@ -26,7 +26,3 @@ relations:
 - τηλύγετος, “darling” (*Odyssey* 4.11), as the Iliad calls Orestes, “who is reared as my darling son” (*Iliad* 9.143), the son a father loves as “his only son, his darling, heir to great possessions” (*Iliad* 9.482), and the daughter Helen left behind, “my darling daughter” (*Iliad* 3.175). The sense is disputed: Merry rejects Buttmann's “last-born”, renders it “grown-big”, and reckons that a son born after Helen's flight, before the expedition sailed, would now be nineteen or twenty (on 4.11).
 
 {{notes}}
-
-## Later in the Odyssey
-
-When Telemachus takes his leave, Menelaus goes down to his treasure chamber with Helen and Megapenthes, takes a two-handled cup himself and bids his son carry the silver mixing bowl (*Odyssey* 15.99–104); strong Megapenthes sets it before Telemachus (*Odyssey* 15.121–123), and at the parting meal the son of Menelaus pours the wine (*Odyssey* 15.141), plain renderings. The bowl is the one Menelaus promised in Book 4 of the Odyssey, the gift of the Sidonian king [[Phaedimus]] (*Odyssey* 4.615–619 = 15.115–119).

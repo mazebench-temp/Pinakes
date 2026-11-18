@@ -5,7 +5,10 @@ kind: place
 tags: [mainland-greece, city, boeotia]
 summary: The chief city of Boeotia, the city of the Cadmeians and of Oedipus, “seven-gated Thebes”. The Iliad remembers two wars fought against it in the generation before Troy: the fathers, Tydeus and Capaneus among them, perished there, and their sons, Diomedes and Sthenelus among them, took it.
 aliases: [Thebai, Thebae, Boeotian Thebes]
-grc: [Θήβης]
+# Θήβῃσι, without ν (Od. 15.247), also catches Il. 14.114, which the Iliad Book 14 note claims as well; Θήβῃσιν
+# (Il. 6.223, 22.479) and the Rhetoric's Θήβησιν are other words. Its English, "Thebes", then falls to this entry
+# rather than to thebes-in-egypt.
+grc: [Θήβης, Θήβῃσι]
 # Θήβης at 2.691 is Thebe in the Troad (thebe).
 # Θήβῃσιν at 22.479 is Eetion's Thebe under Placus, in the Troad (thebe).
 except: [2.691, 9.381, 22.479, Od. 4.126]
@@ -21,7 +24,7 @@ Homer calls the city both Θήβη (4.378, 4.406) and Θῆβαι (5.804, 6.223)
 
 The Iliad knows Thebes from the two wars fought against it before Troy. Tydeus came to Mycenae with Polynices to raise allies when “they were then making war against the sacred walls of Thebes”, went ahead as envoy, beat the [[Cadmeians]] at their feast, and killed the fifty who lay in wait for him (4.376–398; 5.800–808; 10.284–290). The attackers perished “through their own recklessness”, and Tydeus lies buried there (4.409; 14.114; see [[tydeus]] and [[capaneus]]). In the next generation their sons took the city with a smaller army “under a stronger wall”, trusting in the portents of the gods (4.406–408; see [[sthenelus]] and [[diomedes]]). See [[the-seven-against-thebes]], [[the-epigonoi]] and [[tydeus-at-thebes]].
 
-The poems know other Theban stories. Zeus loved [[alcmene|Alcmene]] and [[semele|Semele]] there, and Heracles was born there (14.323–325, 19.98–99; see [[the-birth-of-heracles]]); Oedipus died there and had funeral games (23.679–680). The Odyssey adds that Amphion and Zethus, sons of Zeus and Antiope, founded Thebes and walled it (*Odyssey* 11.260–265); that Oedipus ruled the Cadmeians there after he had married his mother unknowing (*Odyssey* 11.271–280); that Amphiaraus died at Thebes “because of a woman's gifts” (*Odyssey* 15.247, a plain rendering); and that the seer Teiresias was a Theban (*Odyssey* 10.492; see [[teiresias]]).
+The poems know other Theban stories. Zeus loved [[alcmene|Alcmene]] and [[semele|Semele]] there, and Heracles was born there (14.323–325, 19.98–99; see [[the-birth-of-heracles]]); Oedipus died there and had funeral games (23.679–680). The Odyssey adds that Amphion and Zethus, sons of Zeus and Antiope, founded Thebes and walled it (*Odyssey* 11.260–265); that Oedipus ruled the Cadmeians there after he had married his mother unknowing (*Odyssey* 11.271–280); that Amphiaraus died at Thebes “for the sake of gifts to a woman” (*Odyssey* 15.247); and that the seer Teiresias was a Theban (*Odyssey* 10.492; see [[teiresias]]).
 
 The Catalogue of Ships does not name Thebes. Its list of Boeotian towns has only Hypothebae (2.505), whose name means “Lower Thebes” (see [[hypothebae]] and [[boeotians]]), and ancient readers explained the silence by the sack of the city in the war of the sons.
 

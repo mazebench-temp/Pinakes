@@ -1,0 +1,7 @@
+---
+summary: The “revered housekeeper” serves the farewell meal at Sparta (15.138), and Eumaeus has given from his work “to those I respect” (15.373), the people who have a claim on a man's regard.
+---
+
+**The revered housekeeper.** At the last meal in Menelaus' house the verses of the welcome return: “And the revered housekeeper brought bread and set it before them” (σῖτον δʼ αἰδοίη ταμίη, 15.138, as 1.139, 4.55 and 7.175; see [[feast-type-scene]] and [[handmaids]]). The next verse, “adding many dainties, giving freely of what she had”, is omitted in many manuscripts and bracketed by Monro (15.139; see the translation's note on 15.63, 15.74, 15.139).
+
+**Those I respect.** Eumaeus, who since Anticleia's death has had no kindness from the house, still has the work the gods make grow: “from it I have eaten and drunk and given to those I respect” (καὶ αἰδοίοισιν ἔδωκα, 15.371–373; see [[slavery-and-freedom]] and [[theos]]). The αἰδοῖοι are those “who have a claim on my regard (αἰδώς)”: members of the family, as the αἰδοίη παράκοιτις, the “revered wife”; guests, as when Zeus “attends on revered strangers” (9.271); and suppliants, as when he “attends on revered suppliants” (7.165) (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.373; see [[god-of-guests]] and [[supplication]]). The swineherd's gifts are a host's, and the man he is speaking to is his guest (see [[xenia]]).

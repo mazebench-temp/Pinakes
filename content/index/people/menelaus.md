@@ -24,4 +24,4 @@ In the Odyssey he sailed from Troy with Nestor, lost his helmsman at Sunium, and
 
 ## Outside Homer
 
-Paris' abduction of Helen from Menelaus' house was told in the *Cypria*.
+Paris' abduction of Helen from Menelaus' house was told in the *Cypria*. In the Hesiodic *Catalogue of Women* Helen bore Hermione “to Menelaus famed for his spear”, δουρικλειτῷ Μενελάῳ, with his Homeric epithet, and last a son, Nicostratus, whom Homer does not name (fr. 70 Evelyn-White; see [[hermione-daughter-of-helen]] and [[famed-for-his-spear]]). Strabo, discussing where Menelaus wandered, reports that Aristonicus, a grammarian of his own day, had set out in his work *On the Wanderings of Menelaus* the views of many men on each of the questions that the verses raise (*Geography* 1.2.31, on *Odyssey* 4.81–85; see [[the-wanderings-of-menelaus]] and [[strabo]]).

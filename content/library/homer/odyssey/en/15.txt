@@ -1,0 +1,560 @@
+# Homer, Odyssey, Book 15 — English translation by Claude (Anthropic), 2026.
+# Translated line-for-line from the Murray Greek; each row carries the Greek verse number.
+# English syntax occasionally runs across a line break. Conventions: see ../TRANSLATION.md.
+1	But Pallas Athena went to Lacedaemon with its wide dancing floors,
+2	to the shining son of great-hearted Odysseus,
+3	to remind him of his homecoming and to urge him to return.
+4	She found Telemachus and the splendid son of Nestor
+5	sleeping in the porch of glorious Menelaus,
+6	the son of Nestor overcome by soft sleep;
+7	but sweet sleep did not hold Telemachus, but in his heart
+8	through the ambrosial night cares for his father kept him awake.
+9	Standing near him, gray-eyed Athena spoke to him:
+10	“Telemachus, it is no longer good for you to wander far from your home,
+11	leaving your possessions behind, and men in your house
+12	so overbearing, lest they devour everything you have,
+13	dividing your possessions, and you have gone on a useless journey.
+14	But urge Menelaus, good at the war cry, as quickly as you can
+15	to send you on, so that you may still find your noble mother at home.
+16	For already her father and her brothers are bidding her
+17	marry Eurymachus; for he surpasses all
+18	the suitors in his gifts, and has increased his bride-price greatly;
+19	beware lest against your will she carry some possession from the house.
+20	For you know what kind of heart is in a woman's breast:
+21	she wishes to increase the house of the man who marries her,
+22	and her former children and her dear wedded husband
+23	she no longer remembers, once he is dead, nor asks about them.
+24	But you should go yourself and entrust each thing
+25	to whichever of the slave women seems to you the best,
+26	until the gods show you a glorious wife.
+27	And I will tell you something else, and you take heed of it in your heart.
+28	The best of the suitors lie in ambush for you of set purpose
+29	in the strait between Ithaca and rocky Samos,
+30	eager to kill you before you reach your native land.
+31	But I do not think it will be so; before that the earth will hold fast some
+32	of the suitors, who are devouring your substance.
+33	But keep your well-made ship far from the islands,
+34	and sail by night as well; and he will send you a fair wind behind you,
+35	whoever of the immortals guards and protects you.
+36	But when you reach the first shore of Ithaca,
+37	send the ship and all your companions on to the city,
+38	but you yourself go first of all to the swineherd,
+39	who is the guardian over your swine, and is kind to you alike.
+40	There spend the night; and send him into the city
+41	to bring the news to prudent Penelope
+42	that you are safe and have come back from Pylos.”
+43	So saying, she went away to high Olympus;
+44	but he woke the son of Nestor from sweet sleep,
+45	stirring him with his heel, and spoke to him:
+46	“Wake up, Peisistratus, son of Nestor; bring the single-hoofed horses
+47	and yoke them under the chariot, so that we may make our way.”
+48	And Peisistratus, son of Nestor, answered him face to face:
+49	“Telemachus, there is no way, eager though we are for our journey,
+50	to drive through the dark night; and soon it will be dawn.
+51	But wait until he brings gifts and sets them in the chariot,
+52	the hero, the son of Atreus, Menelaus famed for his spear,
+53	and sends us off, speaking comfortingly with gentle words.
+54	For a guest remembers all his days
+55	the host who has shown him friendship.”
+56	So he spoke, and at once Dawn of the golden throne came.
+57	And Menelaus, good at the war cry, came near them,
+58	having risen from his bed, from beside Helen of the lovely hair.
+59	And when the dear son of Odysseus caught sight of him,
+60	in haste he put his glossy tunic about his body,
+61	and threw a great mantle over his massive shoulders,
+62	the hero, and went out of doors, and standing beside him spoke,
+63	Telemachus, the dear son of divine Odysseus:
+64	“Menelaus, son of Atreus, nurtured by Zeus, leader of the people,
+65	send me away now to my dear native land;
+66	for already my heart yearns to come home.”
+67	Then Menelaus, good at the war cry, answered him:
+68	“Telemachus, I will not keep you here for long
+69	when you are eager for your homecoming; I am indignant with another
+70	man, a host, who loves beyond measure
+71	and hates beyond measure; what is due is better in all things.
+72	It is an equal wrong, both when a man urges on a guest who does not wish
+73	to go home, and when he holds back one who is eager to go.
+74	One should make welcome a guest who is present, and send him off when he wishes.
+75	But wait until I bring gifts and set them in the chariot,
+76	fine ones, and you see them with your eyes; and I will tell the women
+77	to make ready a meal in the halls from the plenty within.
+78	It brings both, glory and splendor and a blessing too,
+79	to dine before going over the wide, boundless earth.
+80	And if you wish to turn aside through Hellas and the heart of Argos,
+81	so that I myself may go with you, and I will yoke the horses for you
+82	and lead you to the cities of men; and no one will send us
+83	away just as we came, but each will give us at least one thing to take with us,
+84	either a tripod of good bronze or a cauldron,
+85	or two mules or a golden goblet.”
+86	And wise Telemachus answered him face to face:
+87	“Menelaus, son of Atreus, nurtured by Zeus, leader of the people,
+88	I wish to go back now to my own; for when I left I did not leave behind
+89	anyone to watch over my possessions;
+90	lest while I seek my godlike father I perish myself,
+91	or some fine treasure be lost to me from my halls.”
+92	But when Menelaus, good at the war cry, heard this,
+93	at once he bade his wife and the slave women
+94	make ready a meal in the halls from the plenty within.
+95	And Eteoneus, son of Boethous, came near him,
+96	having risen from his bed, since he lived not far from him;
+97	Menelaus, good at the war cry, bade him kindle a fire
+98	and roast meat; and he heard and did not disobey.
+99	And he himself went down into the fragrant chamber,
+100	not alone: with him went Helen and Megapenthes.
+101	But when they came to where the treasures were stored,
+102	the son of Atreus took a two-handled cup,
+103	and bade his son Megapenthes carry a mixing bowl
+104	of silver; and Helen stood beside the chests,
+105	where her robes were, richly embroidered, which she had made herself.
+106	Of these Helen, brilliant among women, took one and carried it,
+107	the one that was most beautiful in its embroidery and the largest,
+108	and it shone like a star; and it lay beneath all the others.
+109	And they went on through the house, until they came
+110	to Telemachus; and fair-haired Menelaus spoke to him:
+111	“Telemachus, as for your homecoming, as you have it in mind,
+112	may Zeus bring it to pass for you, the loud-thundering husband of Hera.
+113	Of the gifts that lie stored as treasures in my house,
+114	I will give you the one that is finest and most precious.
+115	I will give you a well-wrought mixing bowl; of silver
+116	it is all, and its rims are finished with gold,
+117	the work of Hephaestus. The hero Phaedimus gave it to me,
+118	the king of the Sidonians, when his house sheltered me
+119	as I came there on my way home; and I wish to grant it to you.”
+120	So saying, he put the two-handled cup in his hand,
+121	the hero, the son of Atreus; and the shining mixing bowl
+122	strong Megapenthes brought and set before him,
+123	the silver one; and fair-cheeked Helen stood beside him,
+124	holding the robe in her hands, and spoke to him, and called him by name:
+125	“I too give you this gift, dear child,
+126	a remembrance of Helen's hands, for the time of your lovely marriage,
+127	for your wife to wear; but until then let it lie with your dear mother
+128	in the hall. And may you reach, rejoicing,
+129	your well-built house and your native land.”
+130	So saying, she put it in his hands, and he received it with joy.
+131	And the hero Peisistratus laid them in the wicker body of the chariot
+132	when he had received them, and gazed at them all in his heart;
+133	and fair-haired Menelaus led them to the house.
+134	And they sat down on the chairs and the seats.
+135	And a handmaid brought water for the hands in a pitcher and poured it,
+136	a fine golden one, over a silver basin,
+137	for them to wash; and she drew up a polished table beside them.
+138	And the revered housekeeper brought bread and set it before them,
+139	adding many dainties, giving freely of what she had;
+140	and beside them the son of Boethous divided the meat and served out the portions;
+141	and the son of glorious Menelaus poured the wine.
+142	And they put out their hands to the good things lying ready before them.
+143	But when they had put away the desire for drink and food,
+144	then Telemachus and the splendid son of Nestor
+145	yoked the horses and mounted the inlaid chariot,
+146	and drove out from the doorway and the loud-resounding colonnade.
+147	And fair-haired Menelaus, son of Atreus, went after them,
+148	holding wine sweet to the heart in his right hand
+149	in a golden cup, so that they might pour a libation before they went.
+150	He stood before the horses, and pledging them he spoke:
+151	“Farewell, young men, and give my greeting to Nestor, shepherd of the people;
+152	for truly he was kind to me like a father,
+153	while we sons of the Achaeans were fighting in Troy.”
+154	And wise Telemachus answered him face to face:
+155	“Yes, truly, nurtured by Zeus, we will tell him, as you say,
+156	all these things when we come; would that,
+157	having come home to Ithaca and finding Odysseus in the house,
+158	I might tell him so, as surely as I come from you having met with nothing but kindness,
+159	and bring many fine treasures.”
+160	As he spoke, a bird flew by on the right,
+161	an eagle, carrying in its talons a huge white goose,
+162	a tame one from the court; and they followed, shouting,
+163	men and women; and coming near them it darted
+164	to the right, in front of the horses; and when they saw it
+165	they rejoiced, and the heart in the breasts of all was warmed.
+166	And among them Peisistratus, son of Nestor, began to speak:
+167	“Consider now, Menelaus, nurtured by Zeus, leader of the people,
+168	whether the god has shown this sign to us two, or to you yourself.”
+169	So he spoke, and Menelaus, dear to Ares, pondered
+170	how he might read it to him fair and right, with understanding.
+171	But Helen of the long robes was before him, and said:
+172	“Hear me, and I will prophesy, as the immortals
+173	put it in my heart, and as I think it will be fulfilled.
+174	As this eagle snatched the goose that was being reared in the house,
+175	coming from the mountain, where he was born and bred,
+176	so Odysseus, after much suffering and much wandering,
+177	will come home and take vengeance; or else he is already
+178	at home, and is planting evil for all the suitors.”
+179	And wise Telemachus answered her face to face:
+180	“So may Zeus now grant it, the loud-thundering husband of Hera;
+181	then even there I would pray to you as to a god.”
+182	He spoke, and laid the whip on the horses; and very quickly
+183	they sped through the city toward the plain, eager.
+184	And all day long they shook the yoke, holding it on either side.
+185	And the sun set, and all the streets grew dark;
+186	and they came to Pherae, to the house of Diocles,
+187	son of Ortilochus, whom Alpheus begot as his son.
+188	There they spent the night, and he set good cheer before them.
+189	And when early-born Dawn appeared, the rosy-fingered,
+190	they yoked the horses and mounted the inlaid chariot,
+191	and drove out from the doorway and the loud-resounding colonnade.
+192	And he whipped them to a run, and the pair flew on not unwilling.
+193	And quickly then they came to the steep citadel of Pylos;
+194	and then Telemachus spoke to the son of Nestor:
+195	“Son of Nestor, how might you promise and fulfill
+196	a word of mine? We claim to be guest-friends without end
+197	from our fathers' friendship, and we are of the same age as well;
+198	and this journey will bring us still further into oneness of mind.
+199	Do not take me past the ship, you who are nurtured by Zeus, but leave me there,
+200	lest the old man keep me in his house against my will
+201	in his eagerness to make me welcome; but I must get home quickly.”
+202	So he spoke, and the son of Nestor took counsel with his heart
+203	how he might promise and fulfill it fair and right.
+204	And as he pondered, this seemed to him the better way:
+205	he turned the horses to the swift ship and the shore of the sea,
+206	and took out the beautiful gifts and put them in the stern of the ship,
+207	the clothing and the gold, which Menelaus had given him;
+208	and urging him on he addressed him with winged words:
+209	“Go aboard now in haste, and bid all your companions do the same,
+210	before I reach home and bring word to the old man.
+211	For I know this well in my mind and in my heart:
+212	such is his overweening spirit, he will not let you go,
+213	but he will come here himself to call you, and I say that he
+214	will not go back empty-handed; for he will be very angry, for certain.”
+215	So he spoke, and drove the fine-maned horses
+216	back to the city of the Pylians, and quickly reached the house.
+217	And Telemachus urged on his companions and gave them orders:
+218	“Put the arms in order, companions, in the black ship,
+219	and let us go aboard ourselves, so that we may make our way.”
+220	So he spoke, and they listened closely to him and obeyed,
+221	and they went on board at once and sat down at the rowing benches.
+222	So he was busy with these things, and was praying and sacrificing to Athena
+223	beside the stern of the ship; and a man came up close to him,
+224	from a far land, fleeing from Argos, having killed a man,
+225	a seer; and by birth he was a descendant of Melampus,
+226	who once lived in Pylos, mother of flocks,
+227	a rich man among the Pylians, living in a house far above the rest;
+228	but then he came to the land of other men, fleeing his native land
+229	and great-hearted Neleus, the most noble of living men,
+230	who for a full year's round held his many goods
+231	by force. And all that time, in the halls of Phylacus,
+232	he lay bound in a grievous bond, suffering bitter pains
+233	for the sake of the daughter of Neleus and the heavy blind folly
+234	which the goddess, the house-smiting Erinys, had put in his mind.
+235	But he escaped his doom and drove the loud-bellowing cattle
+236	to Pylos from Phylace, and took vengeance for the shameful deed
+237	on godlike Neleus, and for his brother he brought the woman
+238	home. And he himself came to the land of other men,
+239	to horse-pasturing Argos; for there it was his lot
+240	to dwell, ruling over many Argives;
+241	and there he married a wife and built a high-roofed house,
+242	and begot Antiphates and Mantius, two mighty sons.
+243	Antiphates begot great-hearted Oicles,
+244	and Oicles Amphiaraus, who rouses armies,
+245	whom aegis-bearing Zeus and Apollo loved with all their hearts
+246	with every kind of love; but he did not reach the threshold of old age,
+247	but perished at Thebes, for the sake of gifts to a woman.
+248	His sons were Alcmaeon and Amphilochus.
+249	And Mantius begot Polypheides and Cleitus;
+250	but Cleitus was carried off by Dawn of the golden throne
+251	for the sake of his beauty, so that he might dwell among the immortals.
+252	But Apollo made high-hearted Polypheides a seer,
+253	by far the best of mortals, after Amphiaraus died;
+254	he moved away to Hyperesia, angry with his father,
+255	and living there he prophesied for all mortals.
+256	His son it was who came up, and Theoclymenus was his name,
+257	who now stood near Telemachus; and he found him
+258	pouring libations and praying beside the swift black ship,
+259	and he spoke to him, addressing him with winged words:
+260	“My friend, since I find you making sacrifice in this place,
+261	I beg you by the burnt offerings and by the god, and then
+262	by your own head and those of the companions who follow you,
+263	tell me truly, as I ask, and do not hide it:
+264	Who are you among men, and from where? Where are your city and your parents?”
+265	And wise Telemachus answered him face to face:
+266	“Well then, stranger, I will tell you very exactly.
+267	My line is from Ithaca, and my father is Odysseus,
+268	if that was ever so; but now he has perished by a grim destruction.
+269	Therefore I have taken companions and a black ship
+270	and come to learn of my father, who has long been gone.”
+271	Then godlike Theoclymenus spoke to him in turn:
+272	“So I too am far from my native land, having killed a man
+273	of my own tribe; and he has many brothers and kinsmen
+274	in horse-pasturing Argos, and they rule with great power over the Achaeans.
+275	Avoiding death and black doom at their hands,
+276	I am an exile, since it is my lot to wander among men.
+277	But take me on board the ship, since I have come to you as a suppliant in my flight,
+278	lest they kill me; for I think they are pursuing me.”
+279	And wise Telemachus answered him face to face:
+280	“I will not drive you from the balanced ship when you wish to come;
+281	but follow me; and there you shall be welcomed with such things as we have.”
+282	So he spoke, and took the bronze spear from him,
+283	and laid it on the deck of the curving ship;
+284	and he himself went on board the seafaring ship.
+285	Then he sat down in the stern, and beside him
+286	he seated Theoclymenus; and they loosed the stern-cables.
+287	And Telemachus urged on his companions and bade them
+288	lay hold of the tackle; and they eagerly obeyed.
+289	The mast of fir, within the hollow mast-box,
+290	they raised and set up, and made it fast with forestays,
+291	and hoisted the white sails with well-twisted ox-hide ropes.
+292	And gray-eyed Athena sent them a following wind,
+293	blowing hard and wild through the upper air, so that as quickly as possible
+294	the ship, running, might cross the salt water of the sea.
+295	And they went past Cruni and fair-flowing Chalcis.
+296	And the sun set, and all the streets grew dark;
+297	and the ship made for Pheae, driven on by the wind of Zeus,
+298	and past shining Elis, where the Epeians rule.
+299	And from there he sent her on toward the pointed islands,
+300	pondering whether he would escape death or be caught.
+301	And the two of them in the hut, Odysseus and the brilliant swineherd,
+302	were having supper; and the other men were having supper beside them.
+303	But when they had put away the desire for drink and food,
+304	Odysseus spoke among them, testing the swineherd,
+305	whether he would still welcome him with care and bid him stay
+306	there at the farmstead, or would urge him on to the city:
+307	“Hear me now, Eumaeus, and all you other companions;
+308	at dawn I long to go off to the city
+309	to beg, so that I may not wear you and your companions out.
+310	But give me good counsel, and grant me a good guide to go with me
+311	to take me there; and through the city by myself, as I must,
+312	I will wander, in case someone may hold out to me a cup and a loaf.
+313	And I might go to the house of divine Odysseus
+314	and tell my news to prudent Penelope,
+315	and mingle with the overbearing suitors,
+316	in case they might give me a meal, having countless good things.
+317	Among them I would readily serve well, in whatever they wished.
+318	For I will speak out to you, and you take heed and listen to me:
+319	by the favor of Hermes the guide, who grants
+320	grace and glory to the works of all men,
+321	in service no other mortal could rival me,
+322	in heaping up a fire well and splitting dry wood,
+323	in carving and roasting meat and pouring wine,
+324	such services as the lesser do for their betters.”
+325	Then, deeply troubled, you said to him, swineherd Eumaeus:
+326	“Ah me, stranger, why has this thought come
+327	into your mind? Surely you long to perish there altogether,
+328	if you wish to slip into the throng of the suitors,
+329	whose arrogance and violence reach the iron sky.
+330	Not such as you are their servants,
+331	but young men, well clad in cloaks and tunics,
+332	their heads and their handsome faces always shining with oil,
+333	who serve them; and the well-polished tables
+334	are laden with bread and meat and wine.
+335	But stay; for no one is vexed by your presence,
+336	neither I nor any other of the companions who are with me.
+337	But when the dear son of Odysseus comes,
+338	he will clothe you in a cloak and a tunic as clothing,
+339	and will send you wherever your heart and spirit bid you.”
+340	Then much-enduring brilliant Odysseus answered him:
+341	“Would that you, Eumaeus, might be as dear to father Zeus
+342	as you are to me, since you have given me rest from wandering and dread misery.
+343	There is nothing worse for mortals than roaming;
+344	but for the sake of the ruinous belly they have evil sorrows,
+345	the men whom wandering and bane and sorrow come upon.
+346	But now, since you hold me back and bid me wait for him,
+347	come, tell me of the mother of divine Odysseus,
+348	and of his father, whom he left on the threshold of old age when he went,
+349	whether they still live somewhere under the rays of the sun,
+350	or are already dead and in the house of Hades.”
+351	Then the swineherd, leader of men, spoke to him in turn:
+352	“Well then, stranger, I will tell you very exactly.
+353	Laertes still lives, but he prays to Zeus always
+354	that his spirit may perish from his limbs in his own halls;
+355	for he mourns terribly for his son who is gone,
+356	and for his wise-hearted wedded wife, whose death grieved him
+357	most of all, and brought him to old age before its time.
+358	And she died of grief for her glorious son,
+359	by a wretched death—may no one die so who
+360	lives here as my friend and does me kindness.
+361	So long as she lived, grieving though she was,
+362	so long it was a pleasure to me to question and to ask,
+363	because she herself reared me together with Ctimene of the long robes,
+364	her strong daughter, whom she bore the youngest of her children;
+365	with her I was reared, and she honored me little less.
+366	But when we both came to the lovely prime of youth,
+367	they gave her in marriage to Same, and got countless gifts,
+368	but me she clothed in a cloak and a tunic, clothes
+369	very fine, and gave me sandals for my feet,
+370	and sent me to the farm; and she loved me dearly in her heart.
+371	But now I lack these things; yet for me myself
+372	the blessed gods make the work grow at which I stay;
+373	from it I have eaten and drunk and given to those I respect.
+374	But from my mistress it is not possible to hear anything kindly,
+375	neither word nor deed, since evil has fallen on the house,
+376	overbearing men; and the slaves greatly long
+377	to speak face to face with their mistress and learn of everything,
+378	and to eat and drink, and then to take something with them
+379	to the farm, such things as always warm the hearts of slaves.”
+380	Answering him, Odysseus of many wiles said:
+381	“Ah, so you were still small, swineherd Eumaeus,
+382	when you were driven so far from your native land and your parents.
+383	But come, tell me this, and give me an exact account:
+384	was the wide-streeted city of men sacked,
+385	in which your father and lady mother lived,
+386	or were you alone with the sheep or the cattle
+387	when hostile men took you in their ships and sold you
+388	to this man's house, and he paid a worthy price for you?”
+389	Then the swineherd, leader of men, spoke to him in turn:
+390	“Stranger, since you ask me this and question me,
+391	listen now in silence and take your delight, and drink your wine
+392	as you sit. These nights are endless; there is time to sleep,
+393	and time for those who take delight in it to listen; and you have no need
+394	to go to bed before it is time; much sleep too is a vexation.
+395	And of the rest, whoever's heart and spirit bids him,
+396	let him go out and sleep; and when dawn appears
+397	let him take his meal and follow the master's swine.
+398	But let us two, drinking and feasting in the hut,
+399	take delight in each other's wretched sorrows
+400	as we remember them; for afterward a man takes delight even in his sorrows,
+401	whoever has suffered very much and wandered much.
+402	And I will tell you what you ask and question me about.
+403	There is an island called Syrie, if perhaps you have heard of it,
+404	above Ortygia, where the turnings of the sun are,
+405	not so very populous, but a good one,
+406	good for cattle, good for sheep, full of wine, rich in wheat.
+407	Famine never comes upon its people, nor does any
+408	hateful sickness besides fall upon wretched mortals;
+409	but when the tribes of men grow old throughout the city,
+410	Apollo, god of the silver bow, comes with Artemis
+411	and comes upon them with his gentle arrows and kills them.
+412	There are two cities, and everything is divided between them;
+413	and over both of them my father was king,
+414	Ctesius, son of Ormenus, like the immortals.
+415	And there came Phoenicians, men famed for ships,
+416	greedy rogues, bringing countless baubles in a black ship.
+417	And there was in my father's house a Phoenician woman,
+418	beautiful and tall and skilled in splendid handiwork;
+419	and the artful Phoenicians deceived her.
+420	First, as she was washing clothes, one of them lay with her by the hollow ship
+421	in bed and love, which deceive the minds
+422	of the womenfolk, even of one who does good.
+423	Then he asked her who she was and where she came from;
+424	and she at once pointed out the high-roofed house of my father:
+425	‘I claim to be from Sidon, rich in bronze,
+426	and I am the daughter of Arybas, whose wealth came in a flood;
+427	but Taphian men, pirates, seized me
+428	as I was coming from the fields, and brought me here and sold me
+429	to this man's house; and he paid a worthy price for me.’
+430	Then the man who had lain with her in secret spoke to her in turn:
+431	‘Would you then come home again with us,
+432	so that you may see the high-roofed house of your father and mother
+433	and themselves? For truly they are still alive and are reputed rich.’
+434	And the woman spoke to him in turn and answered:
+435	‘That might well be, if you sailors would be willing
+436	to pledge me with an oath to bring me home unharmed.’
+437	So she spoke, and they all swore as she bade them.
+438	But when they had sworn and completed the oath,
+439	the woman spoke among them again and answered:
+440	‘Silence now, and let none of your companions speak to me,
+441	meeting me either in the street
+442	or perhaps at the spring; lest someone go to the house and tell
+443	the old man, and he suspect it and bind me
+444	in a grievous bond, and devise destruction for you.
+445	But keep the word in your minds, and hasten the buying of your cargo.
+446	And when the ship is full of substance,
+447	then let a message come quickly to me at the house;
+448	for I will bring gold too, whatever comes to my hand;
+449	and I would gladly give something else besides, for my passage.
+450	For I am rearing in the halls the child of a good man,
+451	a crafty one indeed, who runs along with me out of doors;
+452	him I would bring on board, and he would fetch you a price beyond counting,
+453	wherever you sell him among men of another tongue.’
+454	So saying, she went away to the fine house,
+455	and they stayed there among us for a whole year,
+456	and got much substance by trading for their hollow ship.
+457	But when the hollow ship was laden for their going,
+458	then they sent a messenger to bring the woman word.
+459	There came a man of great knowledge to my father's house
+460	with a golden necklace, strung here and there with amber.
+461	In the hall the slave women and my lady mother
+462	were handling it and gazing at it with their eyes,
+463	offering a price; and he nodded to her in silence.
+464	And when he had nodded, he went off to the hollow ship,
+465	and she took me by the hand and led me out of the house.
+466	And in the porch she found the cups and the tables
+467	of the banqueters, who attended on my father;
+468	they had gone out to the session and the talk of the people,
+469	and she quickly hid three goblets in her bosom
+470	and carried them off; and I followed in my childish thoughtlessness.
+471	And the sun set, and all the streets grew dark;
+472	and we went quickly and came to the famous harbor,
+473	where the swift-sailing ship of the Phoenician men was.
+474	Then they embarked and sailed over the watery ways,
+475	having taken us two on board; and Zeus sent a fair wind.
+476	For six days we sailed on, night and day alike,
+477	but when Zeus, son of Cronus, added the seventh day,
+478	then Artemis of the showering arrows struck the woman,
+479	and she fell into the bilge with a splash, like a sea bird.
+480	And her, to become a spoil for seals and fish,
+481	they threw overboard; but I was left behind, grieving at heart;
+482	and the wind and the water carried them and drove them to Ithaca,
+483	where Laertes bought me with his own possessions.
+484	So it was that I came to see this land with my eyes.”
+485	And Odysseus, sprung from Zeus, answered him:
+486	“Eumaeus, truly you have greatly stirred the heart within me
+487	by telling all these things, all the sorrows you have suffered in your heart.
+488	But truly for you Zeus has set good too beside the evil,
+489	since, after toiling much, you came to the house of a man
+490	who is kind, who gives you food and drink
+491	with care, and you live a good life; but I
+492	have come here after wandering through many cities of mortals.”
+493	So they spoke such words to one another,
+494	and they slept, not for long, but a little while;
+495	for soon came Dawn of the fair throne. And by the shore
+496	the companions of Telemachus loosed the sails, and took down the mast
+497	quickly, and brought her forward to the anchorage with oars;
+498	they cast out the mooring-stones and made fast the stern-cables,
+499	and they themselves stepped out where the sea breaks upon the shore,
+500	and made ready their meal and mixed the sparkling wine.
+501	But when they had put away the desire for drink and food,
+502	among them wise Telemachus began to speak:
+503	“You now row the black ship on to the city,
+504	but I will go to the fields and the herdsmen;
+505	and in the evening, when I have looked at my tilled fields, I will come down to the city.
+506	And at dawn I would set before you a reward for the voyage,
+507	a good feast of meat and of wine sweet to drink.”
+508	Then godlike Theoclymenus spoke to him in turn:
+509	“And where shall I go, dear child? To whose house shall I come
+510	of the men who rule over craggy Ithaca?
+511	Or shall I go straight to your mother and your house?”
+512	And wise Telemachus answered him face to face:
+513	“Were things otherwise, I would bid you go even to our house;
+514	for there is no lack of good cheer for guests; but it would be worse
+515	for you yourself, since I shall be away, and my mother
+516	will not see you; for she does not often show herself to the suitors in the house,
+517	but away from them she weaves at her loom in the upper room.
+518	But I will name to you another man to whom you may go,
+519	Eurymachus, the splendid son of wise-hearted Polybus,
+520	whom the men of Ithaca now look upon as a god;
+521	for he is by far the best man, and most of all he is eager
+522	to marry my mother and to hold the prize of honor of Odysseus.
+523	But Zeus the Olympian, who dwells in the upper air, knows this,
+524	whether before the marriage he will bring about an evil day for them.”
+525	As he spoke, a bird flew by on the right,
+526	a falcon, the swift messenger of Apollo; and in its feet
+527	it held a dove and was plucking it, and it poured the feathers down on the ground
+528	between the ship and Telemachus himself.
+529	And Theoclymenus called him apart from his companions,
+530	and he clung to his hand, and spoke to him, and called him by name:
+531	“Telemachus, not without a god did the bird fly on the right;
+532	for I knew when I saw it face to face that it was a bird of omen.
+533	There is no other race more kingly than yours
+534	in the land of Ithaca, but you are always powerful.”
+535	And wise Telemachus answered him face to face:
+536	“Would that this word, stranger, might be fulfilled;
+537	then you would quickly know friendship and many gifts
+538	from me, so that anyone who met you would call you blessed.”
+539	He spoke, and called to Peiraeus, his trusted companion:
+540	“Peiraeus, son of Clytius, you in other things most of all
+541	obey me, of my companions who followed me to Pylos;
+542	now too take this stranger for me to your house,
+543	and welcome him with care and honor him, until I come.”
+544	And Peiraeus, famed for his spear, answered him face to face:
+545	“Telemachus, why, if you were to stay here a long time,
+546	I will take care of this man, and he shall not lack good cheer.”
+547	So saying, he went on board, and bade his companions
+548	to go on board themselves and loose the stern-cables.
+549	And they went on board at once and sat down at the rowing benches.
+550	And Telemachus bound under his feet his fine sandals,
+551	and he took a strong spear, tipped with sharp bronze,
+552	from the deck of the ship; and they loosed the stern-cables.
+553	They pushed off and sailed to the city, as he had bidden them,
+554	Telemachus, the dear son of divine Odysseus;
+555	and his feet carried him quickly on as he strode, until he came to the fold,
+556	where his countless swine were, among which the swineherd,
+557	being good, used to sleep, kind to his masters.

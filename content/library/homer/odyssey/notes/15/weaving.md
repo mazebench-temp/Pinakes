@@ -1,0 +1,13 @@
+---
+summary: Helen's robes are her own work, “richly embroidered, which she had made herself”, and she gives Telemachus one as “a remembrance of Helen's hands” (15.104–108, 15.125–126); the Phoenician nurse is “skilled in splendid handiwork”, in the verse of Athena disguised (15.418); and Penelope keeps away from the suitors and “weaves at her loom in the upper room” (15.516–517).
+# ὑφαίνει (15.517), only here; "ἀγλαὰ ἔργα" (15.418) is the Book 10 note's.
+grc: [ὑφαίνει]
+en: [weaves]
+refs: [15.105, 15.126]
+---
+
+**Helen's work.** In the treasure chamber Helen stands by the chests “where her robes were, richly embroidered, which she had made herself”, and takes the largest and most beautiful, which “shone like a star” (15.104–108; see [[robe]], [[like-a-star]] and [[helen]]). The verses adapt those of Hecuba's robes in the Iliad, where the robes were “the work of women / of the Sidonians”, whom Paris brought on the voyage on which he brought back Helen (*Iliad* 6.289–295); in Sparta the robes are Helen's own (οὓς κάμεν αὐτή). The Iliad showed her at the loom, weaving into a purple cloth the trials the Trojans and the Achaeans suffered for her sake (*Iliad* 3.125–128; see [[helens-web]]), and in the fourth book she sat with her golden distaff and her basket of spun yarn (4.130–135). Her gift to Telemachus is named by the hands that made it, μνῆμʼ Ἑλένης χειρῶν, “a remembrance of Helen's hands” (15.126; see the translation's table of key words, μνῆμα, and [[a-guest-remembers-his-host]]).
+
+**The nurse.** The Phoenician woman in the house of [[ctesius|Ctesius]] was “beautiful and tall and skilled in splendid handiwork” (15.418; see [[the-kidnapping-of-eumaeus]] and [[the-phoenician-nurse]]), the verse with which Athena took the form of a woman before Odysseus on Ithaca and will again before Telemachus (13.288–289; 16.157–158, a plain rendering). Skill in handiwork is what made a woman valued in a king's house, as the woman set out as a prize at the funeral games was “skilled in much handiwork” and valued at four oxen (*Iliad* 23.704–705; see [[captive-women]]).
+
+**Penelope at her loom.** Telemachus will not send [[theoclymenus|Theoclymenus]] to his own house, for his mother “does not often show herself to the suitors in the house, / but away from them she weaves at her loom in the upper room” (15.516–517; see [[penelope]], [[loom]] and [[upper-room]]). ἀπὸ τῶν, “away from them”: the article as an unemphatic pronoun of the third person, hardly found except with prepositions (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.517). The loom keeps her apart from the suitors, as it once kept them waiting while she wove and unwove Laertes' shroud (2.93–110).

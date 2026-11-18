@@ -1,0 +1,12 @@
+---
+summary: The gods as a body are named once, by the swineherd, who says that with his master gone, “the blessed gods make the work grow at which I stay” (15.372). Unnamed, they are the gods who will show Telemachus a wife (15.26), the immortals who put Helen's prophecy in her heart (15.172–173), and the immortals among whom Dawn set Cleitus (15.251).
+# The entry claims "μάκαρες θεοὶ" (15.372). Unnamed: "until the gods show you a glorious wife" (15.26); "whoever of the
+# immortals guards and protects you" (15.35); "as the immortals / put it in my heart" (15.172-173); "so that he might
+# dwell among the immortals" (15.251). Not counted: a single god, "the god has shown this sign" (15.168), "by the god"
+# (15.261), "not without a god" (15.531), and the epithets "like the immortals" (15.414) and "as a god" (15.520).
+refs: [15.26, 15.35, 15.172-173, 15.251]
+---
+
+**The blessed gods.** Eumaeus tells the stranger how the mother of Odysseus reared him with her own daughter and sent him to the farm, and how he lacks such kindness now: “But now I lack these things; yet for me myself / the blessed gods make the work grow at which I stay; / from it I have eaten and drunk and given to those I respect” (15.371–373; see [[eumaeus]], [[blessed-gods]], [[anticleia]] and [[ctimene]]). He had said it in Book 14 of the servant whose kind master rewards him, “and a god makes his work grow, / as this work of mine grows, at which I stay” (14.65–66; see the Book 14 note on [[eumaeus]]); now the master is gone, and the gods are thanked for the increase. Hesiod uses the same verb, ἀέξω, of the herds: Hecate is good “in the steadings, with Hermes, at increasing the stock”, ἐσθλὴ δʼ ἐν σταθμοῖσι σὺν Ἑρμῇ ληίδʼ ἀέξειν (*Theogony* 444; see [[hermes]]).
+
+**The immortals.** Athena speaks of the gods as a mortal would: Telemachus is to entrust the house to the best of the slave women “until the gods show you a glorious wife” (15.26), and a fair wind will come from “whoever of the immortals guards and protects you” (15.35; see the Book 15 note on [[athena]] and [[immortals]]). Helen prophesies “as the immortals / put it in my heart, and as I think it will be fulfilled” (15.172–173), with the words of Athena as Mentes in Book 1 (1.200–201; see [[the-omen-of-the-eagle-and-the-goose]] and [[prophecy]]). And Dawn carried off Cleitus “for the sake of his beauty, so that he might dwell among the immortals” (15.251), the verse of Ganymede in the Iliad (*Iliad* 20.235; see [[cleitus-son-of-mantius]], [[ganymede]] and [[immortality]]).

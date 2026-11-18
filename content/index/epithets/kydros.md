@@ -12,7 +12,7 @@ of: [hera]
 
 ## Meaning
 
-κυδρός is formed from κῦδος, “glory,” the honor that the gods grant ([[kydos]]), like κυδάλιμος ([[kydalimos]]) and κυδιάνειρα ([[where-men-win-glory]]). In the Iliad it occurs once, when Iris tells Achilles who sent her: “Hera sent me, the glorious wife of Zeus” (18.184). In the Odyssey the formula is used of Leto, whom Tityus assaulted on her way to Pytho (Διὸς κυδρὴν παράκοιτιν, *Odyssey* 11.580), and Athena, standing by Telemachus at night in Sparta, tells him to entrust his goods to the best of his maidservants until the gods show him “a glorious wife” of his own (*Odyssey* 15.24–26). See [[hera]].
+κυδρός is formed from κῦδος, “glory,” the honor that the gods grant ([[kydos]]), like κυδάλιμος ([[kydalimos]]) and κυδιάνειρα ([[where-men-win-glory]]). In the Iliad it occurs once, when Iris tells Achilles who sent her: “Hera sent me, the glorious wife of Zeus” (18.184). In the Odyssey the formula is used of Leto, whom Tityus assaulted on her way to Pytho (Διὸς κυδρὴν παράκοιτιν, *Odyssey* 11.580), and Athena, standing by Telemachus at night in Sparta, tells him to entrust his goods to the best of the slave women until the gods show him “a glorious wife” of his own (*Odyssey* 15.24–26). See [[hera]].
 
 {{notes}}
 

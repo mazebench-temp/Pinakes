@@ -5,15 +5,15 @@ kind: object
 tags: [art]
 summary: ἤλεκτρον, amber, one of the precious things that shine in Menelaus' house with bronze, gold, silver and ivory; in later books of the Odyssey it is strung on golden necklaces. Pliny took Homer's word for electrum, gold alloyed with silver, but the necklaces require amber.
 aliases: [electron, elektron, ēlektron, electrum]
-# ἠλέκτρου (Od. 4.73) is the only form in the Iliad and Odyssey 1–4; later books have ἠλέκτροισιν (Od. 15.460,
-# 18.296). A stem ἠλεκτρ* would also catch Electra in Aristotle (Ἠλέκτρᾳ, Poetics 1460a31).
-grc: [ἠλέκτρου]
+# ἠλέκτρου (Od. 4.73) and ἠλέκτροισιν (Od. 15.460; later 18.296), the only forms in Homer; no Iliad line. A stem
+# ἠλεκτρ* would also catch Electra in Aristotle (Ἠλέκτρᾳ, Poetics 1460a31).
+grc: [ἠλέκτρου, ἠλέκτροισιν]
 en: [amber]
 ---
 
 ## In Homer
 
-The word is used three times in the Odyssey and never in the Iliad. Telemachus, gazing at Menelaus' halls, names it between gold and silver, “of gold and amber and silver and ivory” (*Odyssey* 4.73; see [[gold-and-silver]] and [[house]]). In the later books it is an ornament of necklaces: in the story of Eumaeus' childhood, the messenger of the Phoenician traders comes to his father's house with a golden necklace strung with amber (*Odyssey* 15.458–460), and Eurymachus gives Penelope a richly worked golden necklace strung with amber, like the sun (*Odyssey* 18.295–296; both plain renderings).
+The word is used three times in the Odyssey and never in the Iliad. Telemachus, gazing at Menelaus' halls, names it between gold and silver, “of gold and amber and silver and ivory” (*Odyssey* 4.73; see [[gold-and-silver]] and [[house]]). In the later books it is an ornament of necklaces: in the story of Eumaeus' childhood, the messenger of the Phoenician traders comes to his father's house with a golden necklace strung with amber (*Odyssey* 15.458–460; see [[the-kidnapping-of-eumaeus]]), and Eurymachus gives Penelope a richly worked golden necklace strung with amber, like the sun (*Odyssey* 18.295–296, a plain rendering).
 
 ## Amber or electrum
 

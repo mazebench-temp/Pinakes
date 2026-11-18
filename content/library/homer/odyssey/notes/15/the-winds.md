@@ -1,0 +1,12 @@
+---
+summary: The winds bring two ships to Ithaca. Athena promises Telemachus a fair wind and sends “a following wind, / blowing hard and wild through the upper air”, and his ship runs “driven on by the wind of Zeus” (15.34, 15.292–297). In Eumaeus' story Zeus sends the Phoenicians a fair wind, and after the nurse's death “the wind and the water carried them and drove them to Ithaca” (15.475, 15.482).
+# The entry claims ἄνεμός (15.482). οὖρον, the fair wind of Athena's promise (15.34) and of her gift (15.292-294), Διὸς
+# οὔρῳ (15.297) and the fair wind of Zeus in Eumaeus' story (15.475) are not forms of ἄνεμος and are counted here, as in
+# the Book 11 note. οὖρον at 15.89 is a watcher, "anyone to watch over my possessions" (see the translation's key-word
+# row), not the wind.
+refs: [15.34, 15.292-294, 15.297, 15.475]
+---
+
+**The fair wind.** Athena tells Telemachus to keep his ship far from the islands and sail by night, “and he will send you a fair wind behind you, / whoever of the immortals guards and protects you” (15.34–35), and she sends it herself: “And gray-eyed Athena sent them a following wind, / blowing hard and wild through the upper air” (15.292–293; see [[sailing-type-scene]] and [[upper-air]]). It is the wind of the outward voyage, where “a fresh West Wind” followed (2.420–421; see [[zephyrus]]), and a few verses on the ship is “driven on by the wind of Zeus” (15.297; see the Book 15 notes on [[athena]], where the verses of the wind are traced in the Iliad and the *Hymn to Apollo*, and on [[zeus]]).
+
+**The wind and the water.** In Eumaeus' story Zeus favors the thieves: the Phoenicians put to sea with the nurse and the child, “and Zeus sent a fair wind” (15.475; see [[the-kidnapping-of-eumaeus]], [[the-phoenician-nurse]] and [[phoenicians]]). When Artemis has struck the woman down on the seventh day, “the wind and the water carried them and drove them to Ithaca, / where Laertes bought me with his own possessions” (15.482–483; see [[laertes]] and [[ithaca]]). The half-verse is Nestor's for the five ships of Menelaus that “the wind and the water carried and drove to Egypt”, and Odysseus' for his own swim to Scheria (3.299–300, 7.276–277; see [[the-wanderings-of-menelaus]] and [[scheria]]). Each time the wind and the sea bring a voyager to a land he had not chosen; for Eumaeus it is the island where he was sold, and where he has lived since as a slave (15.483–484).

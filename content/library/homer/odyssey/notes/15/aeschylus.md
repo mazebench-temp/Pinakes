@@ -1,0 +1,5 @@
+---
+summary: Aeschylus' seer at the sixth gate of Thebes is Amphiaraus, “the son of Oicles”, whose descent from Melampus this book traces and who in the poem “perished at Thebes, for the sake of gifts to a woman”; Aeschylus makes him foresee his death and says nothing of the gifts.
+---
+
+- **The seer at the gate.** Tydeus reviles “the wise seer, the son of Oicles”, for holding the army back at the Ismenus; at the sixth gate the seer himself denounces Tydeus and Polynices, foretells that he will enrich the enemy's soil, “a prophet hidden beneath an enemy's earth”, and bears a shield without a device, “for he wishes not to seem the best, but to be it”; Eteocles expects him to die, “if the oracles of Loxias are to bear fruit” (*Seven against Thebes* 377–383, 568–596, 609–618, plain renderings). The poem gives his father's name in the line of Melampus, “and Oicles Amphiaraus, who rouses armies, / whom aegis-bearing Zeus and Apollo loved with all their hearts”, and says that he “perished at Thebes, for the sake of gifts to a woman” (15.244–247): [[aeschylus-seven]], [[amphiaraus]], [[oicles]] and [[the-seven-against-thebes]].

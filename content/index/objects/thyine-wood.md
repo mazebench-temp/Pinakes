@@ -5,7 +5,7 @@ kind: object
 tags: [rare-word]
 summary: θύον, “thyine wood”, a fragrant wood named once in Homer: it burns with cedar on Calypso's hearth, and the scent spreads over her island (*Odyssey* 5.59–61). W. W. Merry takes it for a tree with resinous wood, probably the arbor vitae, and not incense.
 aliases: [thyon, thyine, arbor vitae, thuja, the thyine tree]
-# θύου (Od. 5.60), the only form in Homer; not θύοντα "sacrificing" (Od. 15.260).
+# θύου (Od. 5.60), the only form in Homer; not θύοντα "making sacrifice" (Od. 15.260).
 grc: [θύου]
 en: [thyine wood]
 ---

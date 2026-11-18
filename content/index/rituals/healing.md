@@ -10,7 +10,8 @@ en: [healer, healers, drugs, wound, examine, sucked out the blood, busy about]
 # ἀμφεπένοντο at 19.278: the Myrmidons busy themselves with the gifts, not with a wound.
 # ἀμφεπένοντο at 21.203: the eels and fishes busy themselves about the dead Asteropaeus.
 # ἀμφεπένοντο at 23.184: no dogs busy themselves about Hector's body.
-except: [19.278, 21.203, 23.184, Od. 10.236, Od. 10.290]
+# ἀμφεπένοντο at Od. 15.467: the banqueters who "attended on" the king of Syrie as his counselors.
+except: [19.278, 21.203, 23.184, Od. 10.236, Od. 10.290, Od. 15.467]
 passages:
   - 4.188-219 | Machaon heals Menelaus
 ---

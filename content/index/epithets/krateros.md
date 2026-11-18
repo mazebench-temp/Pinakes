@@ -5,14 +5,14 @@ kind: epithet
 tags: [heroic-epithet, warfare]
 summary: “Strong, mighty; harsh,” an adjective of strength used of warriors, above all of [[Diomedes]], of battle, and of harsh things.
 aliases: [krateros, karteros, strong, fierce]
-grc: [κρατερὸς, κρατερῷ, κρατερόν, κρατεραὶ, κρατερῇ, κρατερὰς, κρατέρʼ, κρατερῆφι, "!κρατερὸν δʼ ἐπὶ μῦθον"]
+grc: [κρατερὸς, κρατερῷ, κρατερόν, κρατεραὶ, κρατερῇ, κρατερὰς, κρατέρʼ, κρατερῆφι, "!κρατερὸν δʼ ἐπὶ μῦθον", κραταιώ]
 en: [mighty, strong, stronger, fierce, bitter]
 of: [diomedes, ares, diores, lycurgus]
 ---
 
 ## Meaning
 
-κρατερός (also καρτερός) is formed from the root of κράτος (“strength, power, mastery”): “strong, mighty,” and of things “hard, harsh.” It is an epithet of warriors and gods. Diomedes has it in the line-end formula κρατερὸς Διομήδης, which *Iliad* 4 is the first to use (4.401, 4.411) and which recurs often in later books; Diores is “mighty” in the Catalogue ({{ref:Iliad 2.622}}), and so is Ares ({{ref:Iliad 2.515}}). A good fighter is κρατερὸς αἰχμητής, “a strong spearman,” in Helen's praise of Agamemnon ({{ref:Iliad 3.179}}; [[a-good-king-and-a-strong-spearman]]). Battle is κρατερὴ ὑσμίνη, “fierce battle” ({{ref:Iliad 2.40}}). Of things it means “harsh”: the “bitter pains” of Philoctetes (κρατέρʼ ἄλγεα, {{ref:Iliad 2.721}}), and the harsh word of a king, which has its own entry ([[stern-command]]).
+κρατερός (also καρτερός) is formed from the root of κράτος (“strength, power, mastery”): “strong, mighty,” and of things “hard, harsh.” It is an epithet of warriors and gods. Diomedes has it in the line-end formula κρατερὸς Διομήδης, which *Iliad* 4 is the first to use (4.401, 4.411) and which recurs often in later books; Diores is “mighty” in the Catalogue ({{ref:Iliad 2.622}}), and so is Ares ({{ref:Iliad 2.515}}). A good fighter is κρατερὸς αἰχμητής, “a strong spearman,” in Helen's praise of Agamemnon ({{ref:Iliad 3.179}}; [[a-good-king-and-a-strong-spearman]]). Battle is κρατερὴ ὑσμίνη, “fierce battle” ({{ref:Iliad 2.40}}). Of things it means “harsh”: the “bitter pains” of Philoctetes (κρατέρʼ ἄλγεα, {{ref:Iliad 2.721}}), and the harsh word of a king, which has its own entry ([[stern-command]]). κραταιός, from the same root, is the adjective of “mighty fate” ([[mighty-fate]]); its dual names “the two mighty sons of Cronus,” Zeus and Poseidon (Il. 13.345), and in the Odyssey the two sons of Melampus (*Odyssey* 15.242).
 
 ## Use
 

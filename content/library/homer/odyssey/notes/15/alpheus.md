@@ -1,0 +1,5 @@
+---
+summary: The river is named again as the ancestor of Diocles of Pherae, “son of Ortilochus, whom Alpheus begot as his son”, when Telemachus spends the night at his house on the way home (15.187).
+---
+
+Telemachus and Peisistratus “came to Pherae, to the house of Diocles, / son of Ortilochus, whom Alpheus begot as his son” (186–187 = 3.488–489; see [[diocles]], [[ortilochus]] and [[pherae-in-messenia]]). The verse returns with the rest of the outward journey (184–192 = 3.486–494; see the Book 3 note). The river god is the father of the house, as in the Iliad's genealogy of the same family, where the Alpheus “flows broad through the land of the Pylians” (*Iliad* 5.545). Strabo used that verse of the Iliad against the Messenian Pylos, since the Alpheus nowhere touches Messenia (*Geography* 8.3.29; see [[strabo-on-nestors-pylos]] and [[pylos]]). The ship that takes Telemachus home passes the river's mouth without naming it: Strabo, describing the coast, puts the spring Cruni and the river Chalcis south of the Alpheus, and Pheia north of it (*Geography* 8.3.12–13; see [[cruni]], [[chalcis-in-elis]] and [[pheia]]).

@@ -1,0 +1,5 @@
+---
+summary: Telemachus and Peisistratus drive out of Menelaus' gateway at Sparta, and the next morning out of Diocles' at Pherae, in the same verse, “and drove out from the doorway and the loud-resounding colonnade” (15.146, 15.191).
+---
+
+“and drove out from the doorway and the loud-resounding colonnade” (15.146; see [[chariot]], [[chariot-journey]] and [[loud-resounding]]): so the two young men leave Menelaus' house, where they had halted their horses in the doorway on their arrival (4.20–21), and so they leave Diocles' house at Pherae the next morning (15.191; see [[diocles]] and [[pherae-in-messenia]]), as they had left it on their way out (3.493; see the Book 3 note). The verse is the Iliad's for Priam's chariot leaving his palace for the hut of Achilles (*Iliad* 24.323). The πρόθυρον is the gateway of the court, and the αἴθουσα the portico or loggia across the gateway, which echoed to the tramp of the horses, ἐρίδουπος (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.146; see [[house]]).

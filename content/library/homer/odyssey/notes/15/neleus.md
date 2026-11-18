@@ -1,0 +1,8 @@
+---
+summary: In the pedigree of the seer Theoclymenus, the king from whom Melampus fled: “great-hearted Neleus, the most noble of living men”, held the seer's goods by force for a year, and Melampus, coming back with the cattle, took vengeance on him for his shameful deed and won his daughter for his brother (15.229–238).
+# ^Νηλέα (15.229) is claimed by the entry; Νηλῆος (15.233) and Νηλῆα (15.237) by the Odyssey Book 3 and Book 11 notes.
+# Unnamed: "who for a full year's round held his many goods by force" (15.230-231).
+refs: [15.230-231]
+---
+
+Melampus left Pylos, “fleeing his native land / and great-hearted Neleus, the most noble of living men, / who for a full year's round held his many goods / by force” (15.228–231; see [[melampus]], [[great-hearted]] and [[pylos]]), while he himself lay bound at Phylace “for the sake of the daughter of Neleus” (15.233; see [[pero]] and [[phylacus]]). When he came back with the cattle, he “took vengeance for the shameful deed / on godlike Neleus” (15.236–237; see [[antitheos]] and [[poine]]). The pedigree gives the king his epithets, ἀγαυότατος ζωόντων, “the most noble of living men”, and ἀντίθεος, “godlike”, even as it calls his deed ἔργον ἀεικές, “shameful” (see the translation's key words). Νηλέα, the accusative in -έα, is the only such form of the name in Homer; the capital keeps it apart from νηλέα, “pitiless” (*Iliad* 19.229). In the catalogue of heroines Neleus would give Pero only to the man who drove the cattle of Iphiclus out of Phylace (11.288–291; see [[iphiclus]]); the seizure of the seer's goods for a full year is told only here.

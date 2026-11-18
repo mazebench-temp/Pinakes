@@ -18,6 +18,6 @@ en: [rowing benches]
 
 ## The verse of boarding
 
-The Odyssey gives the crew's boarding its own verse, οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον, “and they went on board at once and sat down at the rowing benches” (*Odyssey* 9.103, 9.179, 9.471, 9.563, 11.638, 12.146, 15.549; with αἶψα δʼ ἄρʼ, 15.221). Before it the captain bids the men go on board and loose the [[stern-cables]] (*Odyssey* 9.178, 9.562, 11.637, 12.145, 15.548), and when the ship is to be rowed it is followed by ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς, “and sitting in order they struck the gray sea with their oars” (*Odyssey* 4.580, 9.104, 9.180, 9.472, 9.564, 12.147; see [[oars]]). The renderings of the Odyssey's later books are plain renderings, not the translation.
+The Odyssey gives the crew's boarding its own verse, οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον, “and they went on board at once and sat down at the rowing benches” (*Odyssey* 9.103, 9.179, 9.471, 9.563, 11.638, 12.146, 15.549; with αἶψα δʼ ἄρʼ, 15.221). Before it the captain bids the men go on board and loose the [[stern-cables]] (*Odyssey* 9.178, 9.562, 11.637, 12.145, 15.548), and when the ship is to be rowed it is followed by ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς, “and sitting in order they struck the gray sea with their oars” (*Odyssey* 4.580, 9.104, 9.180, 9.472, 9.564, 12.147; see [[oars]]).
 
 {{notes}}

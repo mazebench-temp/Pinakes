@@ -11,7 +11,7 @@ relations:
 
 ## Etymology
 
-Τηλέμαχος = τῆλε (“far off”) + μάχη (“battle”): “fighting far away”. The name may refer to the war his father was fighting far from home; the explanation is plausible, not certain.
+Τηλέμαχος = τῆλε (“far off”) + μάχη (“battle”): “fighting far away”. The name may refer to the war his father was fighting far from home; the explanation is plausible, not certain. The poem may play on it: when Athena calls him home from Sparta, “Telemachus, it is no longer good for you to wander far from your home”, Τηλέμαχʼ, οὐκέτι καλὰ δόμων ἄπο τῆλʼ ἀλάλησαι, “τῆλε is perhaps said with allusion to the name” (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on *Odyssey* 15.10).
 
 ## Family
 
@@ -25,7 +25,7 @@ He is the only son of an only son. Arceisius had only Laertes, Laertes only Odys
 
 ## Elsewhere in Homer
 
-The first four books of the Odyssey follow him: the assembly of Ithaca (Book 2; see [[the-assembly-of-the-ithacans]]) and his journey to Pylos and Sparta for news of his father (Books 2–4; see [[the-journey-of-telemachus]]). He comes home in Book 15, escaping the suitors' ambush. Father and son meet in Eumaeus' hut (*Odyssey* 16.154–320) and kill the suitors together (Book 22).
+The first four books of the Odyssey follow him: the assembly of Ithaca (Book 2; see [[the-assembly-of-the-ithacans]]) and his journey to Pylos and Sparta for news of his father (Books 2–4; see [[the-journey-of-telemachus]]). He comes home in *Odyssey* 15, escaping the suitors' ambush. Father and son meet in Eumaeus' hut (*Odyssey* 16.154–320) and kill the suitors together (Book 22).
 
 ## Outside Homer
 

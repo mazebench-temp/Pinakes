@@ -1,0 +1,9 @@
+---
+summary: The earth of Book 15 is above all the native land Telemachus wants to reach: the suitors mean to kill him “before you reach your native land”, but “the earth will hold fast some / of the suitors” first (15.30–32); he asks Menelaus to send him “to my dear native land”, and Helen wishes him home to it (15.65, 15.129). Eumaeus ends his story with “this land” to which he was brought as a child (15.484).
+---
+
+**The native land.** Athena repeats at Sparta the words she spoke on Ithaca of the ambush: the suitors are “eager to kill you before you reach your native land. / But I do not think it will be so; before that the earth will hold fast some / of the suitors, who are devouring your substance” (30–32 = 13.426–428; see [[the-suitors]], [[ambush]] and the Book 13 note). γαῖα καθέξει, “the earth will hold fast”, is the grave, as in the Iliad “the life-giving earth already held” Helen's brothers (*Iliad* 3.243). Telemachus asks Menelaus, “send me away now to my dear native land” (65; see [[dear-native-land]] and [[pompe]]), and Helen gives him her robe with the wish, “And may you reach, rejoicing, / your well-built house and your native land” (128–129; see [[helen]]).
+
+**The boundless earth.** Menelaus would have him dine before he goes: a meal brings honor and a blessing, “to dine before going over the wide, boundless earth” (79; see [[boundless-sea]] and [[feast]]), ἐπʼ ἀπείρονα γαῖαν, the verse-end of the gods' sandals that carry them “over the boundless earth” (1.98, 5.46; *Iliad* 24.342) and of men “on the boundless earth” (*Iliad* 7.446; see the translation's key-word row).
+
+**This land.** Eumaeus ends the story of his childhood with his arrival on Ithaca: “where Laertes bought me with his own possessions. / So it was that I came to see this land with my eyes” (483–484; see [[eumaeus]], [[ithaca]] and [[the-kidnapping-of-eumaeus]]).

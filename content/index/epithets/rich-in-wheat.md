@@ -3,16 +3,16 @@ title: Rich in wheat
 greek: πολύπυρος
 kind: epithet
 tags: [peloponnese, ionian-islands]
-summary: “Rich in wheat,” πολύπυρος, an epithet of grain lands: Buprasium in Elis and Argos in the Iliad, Dulichium and Syria in the Odyssey; and πυροφόρος, “wheat-bearing,” of plowland and plains.
+summary: “Rich in wheat,” πολύπυρος, an epithet of grain lands: Buprasium in Elis and Argos in the Iliad, Dulichium and Syrie in the Odyssey; and πυροφόρος, “wheat-bearing,” of plowland and plains.
 aliases: [polypyros, wheat-rich]
-grc: [πολυπύρου, πυρηφόρον, πολύπυρον]
+grc: [πολυπύρου, πυρηφόρον, πολύπυρον, πολύπυρος]
 en: [rich in wheat, wheat-bearing]
 of: [buprasium]
 ---
 
 ## Meaning
 
-πολύπυρος = πολύς (“much”) + πυρός (“wheat,” the wheat of the reapers' field in a simile of *Iliad* 11, 11.69): “rich in wheat.” Homer uses it of Buprasium, where Nestor's pursuit of the Epeians ended (11.756); of Argos, in Nestor's prayer at the ships (15.372); and in the Odyssey of Dulichium, the island of the suitor Amphinomus (Od. 14.335, 16.394–396, 19.292), and of Syria, the island where the swineherd Eumaeus was born (Od. 15.403–406). Compare [[deep-soiled]] (ἐριβῶλαξ) and [[grain-giving]] (ζείδωρος).
+πολύπυρος = πολύς (“much”) + πυρός (“wheat,” the wheat of the reapers' field in a simile of *Iliad* 11, 11.69): “rich in wheat.” Homer uses it of Buprasium, where Nestor's pursuit of the Epeians ended (11.756); of Argos, in Nestor's prayer at the ships (15.372); and in the Odyssey of Dulichium, the island of the suitor Amphinomus (Od. 14.335, 16.394–396, 19.292), and of Syrie, the island where the swineherd Eumaeus was born (Od. 15.403–406; [[syrie]]). Compare [[deep-soiled]] (ἐριβῶλαξ) and [[grain-giving]] (ζείδωρος).
 
 ## Use
 

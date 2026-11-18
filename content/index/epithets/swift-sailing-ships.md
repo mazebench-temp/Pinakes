@@ -14,7 +14,7 @@ of: [ships]
 
 ὠκύπορος = ὠκύς (“swift”) + πόρος (“passage, crossing,” from πείρω, “pass through”): “going swiftly.” It shares its first element with [[swift-footed]] and [[swift-fated]].
 
-ὠκύαλος is usually explained as ὠκύς + ἅλς (“sea”): “swift on the sea.” The translation renders it, too, “swift-sailing.” The Iliad has it once, of the ship of Protesilaus that Hector seizes (15.705); the Odyssey uses it of the ship that the Sirens see coming near and of the Phoenicians' ship in Eumaeus' story (Od. 12.182, 15.473).
+ὠκύαλος is usually explained as ὠκύς + ἅλς (“sea”): “swift on the sea.” The translation renders it, too, “swift-sailing.” The Iliad has it once, of the ship of Protesilaus that Hector seizes (15.705); the Odyssey uses it of the ship that the Sirens see coming near and of the Phoenicians' ship in [[the-kidnapping-of-eumaeus|Eumaeus' story]] (Od. 12.182, 15.473).
 
 ## Use
 

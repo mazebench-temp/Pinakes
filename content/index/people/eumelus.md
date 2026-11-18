@@ -5,7 +5,9 @@ kind: person
 tags: [achaean, warrior, thessaly]
 summary: Son of [[Admetus]] and [[Alcestis]], leader of eleven ships from [[Pherae]] and [[Iolcus]], whose mares, reared by Apollo, were the best horses at Troy. In the Odyssey he is the husband of [[Iphthime]], the sister of Penelope.
 aliases: [Eumelos]
-grc: [Εὔμηλ*, Φηρητιάδαο]
+# ^ keeps out the adjective εὔμηλος "good for sheep" (Od. 15.406, of Syrie, its only occurrence in Homer); the name
+# is always capitalized (Il. 2.714 to 23.565; Od. 4.798). No form in the repository's Aristotle.
+grc: ["^Εὔμηλ*", Φηρητιάδαο]
 en: [Eumelus, grandson of Pheres]
 refs: [2.713]
 relations:

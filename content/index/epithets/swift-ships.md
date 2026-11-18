@@ -15,7 +15,7 @@ of: [ships]
 
 ## Meaning
 
-θοός means “quick, nimble.” It describes ships, warriors, and night (θοὴ νύξ). In one Odyssean phrase, νῆσοι θοαί, it may mean instead “pointed,” and some have looked for that sense elsewhere; of ships, “swift” is the natural reading.
+θοός means “quick, nimble.” It describes ships, warriors, and night (θοὴ νύξ). In one Odyssean phrase, νῆσοι θοαί (see [[the-pointed-islands]]), it may mean instead “pointed,” and some have looked for that sense elsewhere; of ships, “swift” is the natural reading.
 
 ## Use
 

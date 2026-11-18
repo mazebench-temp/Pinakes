@@ -3,7 +3,7 @@ title: Like a star
 greek: ἀλίγκιον ἀστέρι καλῷ
 kind: simile
 tags: [cosmic, repetition]
-summary: The star as a short comparison for brightness and beauty: the robe that Hecuba chooses for Athena “shone like a star” (6.295), Hector's infant son in his nurse's arms is “like a lovely star” (6.401), and the helmet that Hephaestus made for Achilles shines like a star (19.381).
+summary: The star as a short comparison for brightness and beauty, said of two robes, a child and a helmet. The robe that Hecuba chooses for Athena “shone like a star” (6.295), and so, in the same verse, does the robe that Helen gives Telemachus for his bride (*Odyssey* 15.108); Hector's infant son in his nurse's arms is “like a lovely star” (6.401), and the helmet that Hephaestus made for Achilles shines like a star (19.381).
 aliases: [shone like a star, like a lovely star, the child like a star, the robe like a star, the helmet like a star]
 grc: [ἀστὴρ δʼ ὣς ἀπέλαμπεν, ἀλίγκιον ἀστέρι καλῷ]
 en: [shone like a star, like a lovely star]
@@ -32,6 +32,6 @@ Both are held out to the gods. The robe is carried to the temple of Athena on th
 
 ## Elsewhere in Homer
 
-The line of the robe is used again in the Odyssey. At Sparta, Helen goes to the chests where her robes lie, which she made herself, and takes out the most beautiful in its embroidery and the largest, which “shone like a star, and lay beneath all the others” (*Odyssey* 15.104–108 ~ 6.293–295). She gives it to Telemachus for his bride to wear on her wedding day, “a keepsake of Helen's hands” (*Odyssey* 15.125–128). There a woman's robe is a gift made and received with joy.
+The verses of the robe are used again in the Odyssey, for the robe that Helen made herself and gives Telemachus at Sparta, “a remembrance of Helen's hands”, for his bride to wear (*Odyssey* 15.104–108 ~ 6.289–295; *Odyssey* 15.125–128). There the robe is a gift, given and received with joy.
 
 Elsewhere in the Iliad stars are the flash of armor and of dangerous men. Athena comes down like a shooting star (4.75–78; see [[shooting-star]]). A fire like the star of late summer blazes from Diomedes' helmet and shield (5.4–7; see [[the-autumn-star]]). Hector moves among the ranks like a baneful star that shines out of the clouds and hides again (11.62–65). Of Achilles' helmet the poet says “like a star it shone” (ἀστὴρ ὣς ἀπέλαμπεν, 19.381); Priam sees Achilles coming across the plain like the star of late summer that men call the dog of Orion, bright and an evil sign (22.26–31; see [[the-autumn-star]]); and the point of the spear with which Achilles kills Hector gleams like the evening star, “which stands in the sky the fairest star of all” (22.317–319; see [[the-evening-star]]). The two stars of Book 6 are a robe and a child. The last star of Hector's life is the gleam on the point of his enemy's spear.

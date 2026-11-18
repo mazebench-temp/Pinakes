@@ -11,7 +11,7 @@ grc: [Ψυρίης]
 
 ## The name
 
-Homer has the genitive only, νήσου ἔπι Ψυρίης, “by the island of Psyria” (*Odyssey* 3.171). Merry takes Ψυρίη for the oldest name of the island, unless Ψυρίης is the genitive of an adjective agreeing with νήσου, and compares the change from Ψυρίη to Strabo's τὰ Ψύρα with that from Συρίη (*Odyssey* 15.403) to Σύρα (Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 3.169). See [[chios]] and [[mimas]].
+Homer has the genitive only, νήσου ἔπι Ψυρίης, “by the island of Psyria” (*Odyssey* 3.171). Merry takes Ψυρίη for the oldest name of the island, unless Ψυρίης is the genitive of an adjective agreeing with νήσου, and compares the change from Ψυρίη to Strabo's τὰ Ψύρα with that from Συρίη, Eumaeus' island, to Σύρα (*Odyssey* 15.403; see [[syrie]]; Merry, *Commentary on the Odyssey*, 1886, on *Odyssey* 3.169). See [[chios]] and [[mimas]].
 
 {{notes}}
 

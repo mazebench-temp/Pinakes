@@ -1,0 +1,397 @@
+{
+  "scenes": [
+    {
+      "from": 1,
+      "to": 55,
+      "title": "Athena at Sparta",
+      "summary": "Athena goes to Lacedaemon and finds Telemachus lying awake in the house of Menelaus. She bids him go home before Penelope is given in marriage and his goods are carried off, warns him of the suitors' ambush in the strait between Ithaca and Samos, tells him to keep his ship far from the islands and sail by night, and to go first to the swineherd. Telemachus wakes Peisistratus, who bids him wait for dawn and for the gifts of Menelaus."
+    },
+    {
+      "from": 56,
+      "to": 129,
+      "title": "The Gifts",
+      "summary": "At dawn Telemachus asks Menelaus to send him home. Menelaus will not keep him against his will, offers to take him through Hellas and Argos, and with Helen and Megapenthes brings out the gifts: a two-handled cup, a silver mixing bowl, the work of Hephaestus, which Phaedimus, king of the Sidonians, gave him, and Helen's robe, the work of her own hands, for Telemachus' bride."
+    },
+    {
+      "from": 130,
+      "to": 184,
+      "title": "The Omen of the Eagle",
+      "summary": "They feast, and Menelaus pledges them at parting. As Telemachus prays that he may find Odysseus at home, an eagle flies by on the right with a white goose in its talons. Peisistratus asks for whom the god has shown it; Helen foretells that Odysseus will come home and take vengeance, as the eagle snatched the goose, and Telemachus prays that Zeus may bring it to pass."
+    },
+    {
+      "from": 185,
+      "to": 221,
+      "title": "The Road to Pylos",
+      "summary": "They drive to Pherae and spend the night with Diocles, son of Ortilochus, and at dawn come to Pylos. Telemachus asks Peisistratus to leave him at the ship, so that the old man may not keep him; Peisistratus agrees and bids him hurry aboard before Nestor hears, and Telemachus has his companions make ready."
+    },
+    {
+      "from": 222,
+      "to": 300,
+      "title": "Theoclymenus",
+      "summary": "As Telemachus prays and makes offering at the stern, the seer Theoclymenus, a descendant of Melampus, whose line the poem traces, comes up, fleeing from Argos for a killing, and begs to come aboard. Telemachus takes him, and they sail with a fair wind sent by Athena, past Cruni and Chalcis and shining Elis, toward the pointed islands, Telemachus wondering whether he would escape death or be caught."
+    },
+    {
+      "from": 301,
+      "to": 339,
+      "title": "Odysseus Tests Eumaeus",
+      "summary": "Meanwhile at the hut, after supper, Odysseus tests the swineherd: he will go to the city in the morning and beg, and offer his service to the suitors. Eumaeus is shocked: the suitors' servants are not such as he; let him stay until Telemachus comes, who will give him clothes and send him on his way."
+    },
+    {
+      "from": 340,
+      "to": 379,
+      "title": "Laertes and Anticleia",
+      "summary": "Odysseus asks about the mother and father of Odysseus. Eumaeus tells how Laertes prays to die, grieving for his son and for his wife, who died of grief for her son; how Anticleia reared him with her youngest daughter Ctimene, who was married to Same; and how since her death he has had no kindness from the house, where the suitors rule."
+    },
+    {
+      "from": 380,
+      "to": 494,
+      "title": "Eumaeus' Story",
+      "summary": "Odysseus asks how Eumaeus came to be sold. Eumaeus tells of the island Syrie above Ortygia, where his father Ctesius son of Ormenus was king; of the Phoenician traders who came there, and the Phoenician woman of Sidon, daughter of Arybas, carried off by Taphian raiders and sold to his father, who plotted with them to steal the child and three cups; of Artemis' arrow that struck her at sea, and of Laertes, who bought him in Ithaca. Odysseus answers that Zeus has set good beside the evil, since he came to a kind master."
+    },
+    {
+      "from": 495,
+      "to": 557,
+      "title": "Telemachus Lands in Ithaca",
+      "summary": "At dawn Telemachus' companions bring the ship to shore. He sends them on to the city and goes to the swineherd; he cannot take Theoclymenus to his house, and names Eurymachus as the man the people honor; a falcon flies by on the right with a dove in its feet, and Theoclymenus reads it as a sign that his line will rule in Ithaca. Telemachus entrusts the seer to Peiraeus, son of Clytius, and goes on foot to the fold where the swineherd sleeps among the swine."
+    }
+  ],
+  "speeches": [
+    {
+      "from": 10,
+      "to": 42,
+      "speaker": "athena",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "warning"
+    },
+    {
+      "from": 46,
+      "to": 47,
+      "speaker": "telemachus",
+      "to_whom": [
+        "peisistratus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 49,
+      "to": 55,
+      "speaker": "peisistratus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "counsel"
+    },
+    {
+      "from": 64,
+      "to": 66,
+      "speaker": "telemachus",
+      "to_whom": [
+        "menelaus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 68,
+      "to": 85,
+      "speaker": "menelaus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 87,
+      "to": 91,
+      "speaker": "telemachus",
+      "to_whom": [
+        "menelaus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 111,
+      "to": 119,
+      "speaker": "menelaus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 125,
+      "to": 129,
+      "speaker": "helen",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "speech"
+    },
+    {
+      "from": 151,
+      "to": 153,
+      "speaker": "menelaus",
+      "to_whom": [
+        "telemachus",
+        "peisistratus"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 155,
+      "to": 159,
+      "speaker": "telemachus",
+      "to_whom": [
+        "menelaus"
+      ],
+      "kind": "farewell"
+    },
+    {
+      "from": 167,
+      "to": 168,
+      "speaker": "peisistratus",
+      "to_whom": [
+        "menelaus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 172,
+      "to": 178,
+      "speaker": "helen",
+      "to_whom": [
+        "menelaus",
+        "telemachus",
+        "peisistratus"
+      ],
+      "kind": "prophecy"
+    },
+    {
+      "from": 180,
+      "to": 181,
+      "speaker": "telemachus",
+      "to_whom": [
+        "helen"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 195,
+      "to": 201,
+      "speaker": "telemachus",
+      "to_whom": [
+        "peisistratus"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 209,
+      "to": 214,
+      "speaker": "peisistratus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "advice"
+    },
+    {
+      "from": 218,
+      "to": 219,
+      "speaker": "telemachus",
+      "to_whom": [],
+      "kind": "command"
+    },
+    {
+      "from": 260,
+      "to": 264,
+      "speaker": "theoclymenus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 266,
+      "to": 270,
+      "speaker": "telemachus",
+      "to_whom": [
+        "theoclymenus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 272,
+      "to": 278,
+      "speaker": "theoclymenus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "supplication"
+    },
+    {
+      "from": 280,
+      "to": 281,
+      "speaker": "telemachus",
+      "to_whom": [
+        "theoclymenus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 307,
+      "to": 324,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "test"
+    },
+    {
+      "from": 326,
+      "to": 339,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 341,
+      "to": 350,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 352,
+      "to": 379,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 381,
+      "to": 388,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 390,
+      "to": 484,
+      "speaker": "eumaeus",
+      "to_whom": [
+        "odysseus"
+      ],
+      "kind": "narrative"
+    },
+    {
+      "from": 486,
+      "to": 492,
+      "speaker": "odysseus",
+      "to_whom": [
+        "eumaeus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 503,
+      "to": 507,
+      "speaker": "telemachus",
+      "to_whom": [],
+      "kind": "command"
+    },
+    {
+      "from": 509,
+      "to": 511,
+      "speaker": "theoclymenus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "question"
+    },
+    {
+      "from": 513,
+      "to": 524,
+      "speaker": "telemachus",
+      "to_whom": [
+        "theoclymenus"
+      ],
+      "kind": "reply"
+    },
+    {
+      "from": 531,
+      "to": 534,
+      "speaker": "theoclymenus",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "prophecy"
+    },
+    {
+      "from": 536,
+      "to": 538,
+      "speaker": "telemachus",
+      "to_whom": [
+        "theoclymenus"
+      ],
+      "kind": "prayer"
+    },
+    {
+      "from": 540,
+      "to": 543,
+      "speaker": "telemachus",
+      "to_whom": [
+        "peiraeus-son-of-clytius"
+      ],
+      "kind": "request"
+    },
+    {
+      "from": 545,
+      "to": 546,
+      "speaker": "peiraeus-son-of-clytius",
+      "to_whom": [
+        "telemachus"
+      ],
+      "kind": "reply"
+    }
+  ],
+  "days": [
+    {
+      "from": 1,
+      "to": 55,
+      "label": "Night of Day 35",
+      "note": "Athena comes to Sparta while Telemachus lies awake (15.4–8), in the night that follows the end of Book 14; Monro (on 15.1) counts the book from the 36th day and notes that the chronology is not quite clear (see 17.515)."
+    },
+    {
+      "from": 56,
+      "to": 188,
+      "label": "Day 36",
+      "note": "Dawn at Sparta (15.56): the gifts, the omen and the departure; the night at Pherae in the house of Diocles (15.185–188)."
+    },
+    {
+      "from": 189,
+      "to": 300,
+      "label": "Day 37",
+      "note": "Morning of the 37th day (Monro on 15.189): Pylos, Theoclymenus, and the voyage, which runs on through the night (15.296–300)."
+    },
+    {
+      "from": 301,
+      "to": 494,
+      "label": "Night of Day 37",
+      "note": "Odysseus and Eumaeus at the hut after supper, while Telemachus sails (15.301–494); they sleep a little before dawn (15.493–494)."
+    },
+    {
+      "from": 495,
+      "to": 557,
+      "label": "Day 38",
+      "note": "Dawn of the 38th day (Monro on 15.495): the landing in Ithaca; Telemachus goes to the swineherd's hut, where Book 16 begins."
+    }
+  ]
+}

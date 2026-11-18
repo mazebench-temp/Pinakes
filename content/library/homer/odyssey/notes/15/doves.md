@@ -1,0 +1,11 @@
+---
+summary: The dove of Book 15 is the prey of the falcon that flies by on the right as Telemachus lands on Ithaca, “and in its feet / it held a dove and was plucking it, and it poured the feathers down on the ground / between the ship and Telemachus himself” (15.526–528).
+# πέλειαν (15.527; again 20.243, the dove held by the eagle on the suitors' left), claimed here for the Odyssey; the
+# Iliad's πέλειαν (22.140, 23.853–874) is in its notes, and πέλειαι is the Book 12 note's.
+grc: [πέλειαν]
+en: [dove]
+---
+
+**The falcon's prey.** κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος· ἐν δὲ πόδεσσι / τίλλε πέλειαν ἔχων, κατὰ δὲ πτερὰ χεῦεν ἔραζε: “a falcon, the swift messenger of Apollo; and in its feet / it held a dove and was plucking it, and it poured the feathers down on the ground” (15.526–527; see [[falcon]] and [[the-omen-of-the-falcon]]). The dove is the prey of the hawks in the Iliad: Apollo goes down from Ida like a hawk, “a swift dove-killer” (*Iliad* 15.238; see [[like-a-hawk]]), Artemis flees from Hera in tears like a dove that flies from a hawk into a hollow rock (*Iliad* 21.493–495; see [[the-dove-and-the-hawk]]), and Achilles chases Hector as a falcon in the mountains “swoops easily after a timid dove” (*Iliad* 22.139–140; see [[the-falcon-and-the-dove]]). In those similes the dove escapes, or has not yet been caught; here it is held and plucked, and its feathers fall between the ship and Telemachus. τίλλω, “pluck”, is elsewhere in Homer the word of mourners tearing their hair: Priam before Hector's death, his mother and his wife after it, and Odysseus' companions when they hear that they must go to the house of Hades (*Iliad* 22.77–78, 22.405–406, 24.710–711; 10.567; see [[lament]]).
+
+**Two doves of omen.** The dove has no epithet here. In the last bird omen that the poem tells it is τρήρων, “timid”, its standing word: an eagle flying high on the left of the suitors, as they plot to kill Telemachus, “held a timid dove”, and Amphinomus turns them from the plan (20.242–246, a plain rendering; see [[timid]] and [[eagle]]). Theoclymenus reads the falcon of Book 15 as a sign of the kingly race of Odysseus (15.531–534; see [[theoclymenus]] and [[the-omen-of-the-falcon]]), and neither seer nor poet says who the dove is.

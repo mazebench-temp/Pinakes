@@ -1,7 +1,7 @@
 ---
 summary: Circe sings as she walks to and fro at “a great immortal loom, such as are / the fine and lovely and splendid works of goddesses” (10.222–223); Polites and Eurylochus hear her singing at the loom and cannot tell whether she is a goddess or a woman (10.226–228, 10.254–255).
 # "ἱστὸν ἐποιχομένης" (10.222) and "ἐποιχομένη μέγαν ἱστὸν" (10.226), only here; ἱστὸν ἐποιχομένη (10.254) is in the Book 5
-# note. "ἀγλαὰ ἔργα" (10.223; again 13.289, 15.418, 16.158, a woman "skilled in splendid works").
+# note. "ἀγλαὰ ἔργα" (10.223; again 13.289, 15.418, 16.158, a woman "skilled in splendid handiwork").
 grc: ["ἱστὸν ἐποιχομένης", "ἐποιχομένη μέγαν ἱστὸν", "ἀγλαὰ ἔργα"]
 en: [walking to and fro, splendid works]
 ---

@@ -363,11 +363,11 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Name | Entries (lines) |
 |---|---|
 | Ἄργος | argos (2.108 …), and κλυτὸν Ἄργος at 24.437, the Achaeans' homeland, as in "Come to Argos" (2.115, 4.171, 9.141); pelasgian-argos (2.681), whose article reports that Leaf takes 24.437 for the Pelasgian Argos |
-| Θήβη | thebe, Eetion's city in the Troad (1.366, 2.691; `except: [4.378, 4.406]`); thebes, Boeotian Thebes (4.378, 4.406; `except: [2.691]`); hypothebae (2.505). The forms are mixed in later books: Θήβας is Boeotian at 5.804, 10.286 and 23.679 but Egyptian at 9.381; Θήβῃσι(ν) is Boeotian at 6.223 and 14.114 but Cilician at 22.479; Θήβῃ is Boeotian at 14.323 and 19.99 but Cilician at 6.397; Θήβην is Cilician at 6.416. In Book 14 thebes' note claims Θήβῃσι (14.114) and Θήβῃ (14.323) with `"!Θήβῃ Ὑποπλακίῃ"`; Θήβῃσιν, claimed in thebes' Book 6 note, is excepted there at 22.479 (thebes `except: [2.691, 9.381, 22.479]`), and thebe's Book 22 note claims the phrase `"Θήβῃσιν ὑπὸ Πλάκῳ"` |
+| Θήβη | thebe, Eetion's city in the Troad (1.366, 2.691; `except: [4.378, 4.406]`); thebes, Boeotian Thebes (4.378, 4.406; `except: [2.691]`); hypothebae (2.505). The forms are mixed in later books: Θήβας is Boeotian at 5.804, 10.286 and 23.679 but Egyptian at 9.381; Θήβῃσι(ν) is Boeotian at 6.223 and 14.114 but Cilician at 22.479; Θήβῃ is Boeotian at 14.323 and 19.99 but Cilician at 6.397; Θήβην is Cilician at 6.416. In Book 14 thebes' note claims Θήβῃσι (14.114) and Θήβῃ (14.323) with `"!Θήβῃ Ὑποπλακίῃ"`; Θήβῃσιν, claimed in thebes' Book 6 note, is excepted there at 22.479 (thebes `except: [2.691, 9.381, 22.479]`), and thebe's Book 22 note claims the phrase `"Θήβῃσιν ὑπὸ Πλάκῳ"`; at Od. 15.247 Θήβῃσι is Boeotian again, and thebes claims the form in its entry, which also gives it the English there |
 | Μίλητος | miletus-crete (2.647), miletus (2.868) |
 | Αἰγιαλός | aegialus (2.575), aegialus-of-paphlagonia (2.855) |
 | Σελλήεις | selleis-ephyra (2.659), selleis-arisbe (2.839); selleis-ephyra `except: [12.97]` (= 2.839); at 15.531 the river is Ephyra's again (Meges' corselet; Strabo 8.3.5), and selleis-arisbe `except: [15.531]`; the Selli of Dodona (Σελλοί, 16.234) are selli, which claims the exact form and never a stem Σελλ* |
-| Χαλκίς | chalcis, in Euboea (2.537; `except: [2.640]`), and chalcis-aetolia (2.640; `except: [2.537]`), both `^Χαλκίδα`, which leaves the bird χαλκίς (χαλκίδα 14.291) to chalcis-and-cymindis; Χαλκίδα at Od. 15.295 is a third place, by the coast of Elis, and will need its own id and an `except` on both towns |
+| Χαλκίς | chalcis, in Euboea (2.537; `except: [2.640]`), and chalcis-aetolia (2.640; `except: [2.537]`), both `^Χαλκίδα`, which leaves the bird χαλκίς (χαλκίδα 14.291) to chalcis-and-cymindis; Χαλκίδα at Od. 15.295 is a third place, by the coast of Elis: chalcis-in-elis claims `"Χαλκίδα καλλιρέεθρον"`, and both towns `except: [Od. 15.295]` |
 | Ὀρχομενός | orchomenus (2.511; 9.381, the Minyan city of wealth), orchomenus-arcadia (2.605; `except: [2.511, 9.381]`) |
 | Πτελεός | pteleus (2.594), pteleus-thessaly (2.697); πτελέη "elm" (6.419; 21.242, 21.350) is elm, which claims the exact forms πτελέας, πτελέην, πτελέαι |
 | Ἕλος | helos (2.584), helos-pylos (2.594) |
@@ -375,7 +375,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Ξάνθος | xanthus-of-lycia (2.877, 5.479; the phrase `"Ξάνθόν τε ῥέοντα"` at 6.172, since 5.152 also reads Ξάνθόν τε; `except: [6.4]`); the Trojan river under its gods' name Xanthus is scamander (`^Ξάνθοιο` 6.4; also 8.560, 14.434, 21.2, 21.337, 21.383; `except: [6.172]`), but Ξάνθοιο at 12.313 is the Lycian river; xanthus-of-lycia also claims `"Ξάνθοιο παρʼ ὄχθας"` (12.313; `except: [21.337]`, where the same phrase is the Trojan river), and scamander `except: [12.313]`. At 14.434 (= 21.2) scamander claims `"Ξάνθου δινήεντος"` and xanthus-of-lycia excludes it (`"!Ξάνθου δινήεντος"`). In Book 20 the river of Troy is Ξάνθός (20.40) and Ξάνθον (20.74): scamander's Book 20 note claims `"Ξάνθός τε"` and `"Ξάνθον καλέουσι"`, and xanthus-son-of-phaenops `except: [20.40, 20.74]`. In Book 21 scamander's note claims `"Ξάνθου βαθυδινήεντος"` (21.15), `"Ξάνθος ἐπεὶ"` (21.146), Σκάμανδρε (21.223) and `"Ξάνθον δινήεντα"` (21.332); xanthus-of-lycia `except: [21.15]`, xanthus-son-of-phaenops `except: [21.146, 21.332]` |
 | Πήδασος (the town) | pedasus-on-the-satnioeis (6.35) and pedasus-son-of-bucolion (6.21) share Πήδασον: each excepts the other's line; pedasus-in-messenia claims "vine-rich Pedasus" (`"Πήδασον ἀμπελόεσσαν"`, 9.152, 9.294), and both except those lines |
 | Θήβη Ὑποπλακίη | thebe claims the phrase `"Θήβῃ Ὑποπλακίῃ"` (6.397), because Θήβῃ alone is Boeotian at 14.323 and 19.99 |
-| Κελάδων, Φειά | celadon claims `^Κελάδοντι` (7.133), because κελάδοντα is "roaring" (18.576); pheia claims Φειᾶς (7.135) and will need Φεάς (Od. 15.297) |
+| Κελάδων, Φειά | celadon claims `^Κελάδοντι` (7.133), because κελάδοντα is "roaring" (18.576); pheia claims Φειᾶς (7.135) and Φεάς (Od. 15.297) |
 | Ἰάρδανος | iardanus, the river by Pheia in Elis (7.135); the Cretan Iardanus (Od. 3.292, the same half-verse) will need its own id |
 | ἐρινεός, the fig tree | the-fig-tree claims `"παρʼ ἐρινεόν"` (6.433; 11.167); its Book 22 note claims `"ἐρινεὸν ἠνεμόεντα"` (22.145), while the fig trees of 21.37 and Od. 12.103, 12.432 are others |
 | πύργος, the tower of Ilios | the-tower-of-ilios claims πύργῳ, πύργον (3.153–154, 3.384, 6.373, 6.386, 6.431), and excepts a shield "like a tower" (7.219, 11.485, 17.128) and the Achaean wall (12.332–333, 12.373); its Book 21 note claims `"θείου ἐπὶ πύργου"` (21.526) and `"οἰμώξας ἀπὸ πύργου"` (21.529), since bare ἀπὸ πύργου is also the Achaean wall at 8.213, and its Book 22 note `"οἰμωγῆς ἀπὸ πύργου"` (22.447) |
@@ -392,7 +392,7 @@ Common words can also catch each other. In Book 5: εἴσατο "went" (5.538) 
 | Θρῄκη / Θρῇκες | thrace, the land (Θρῄκηθεν 9.5, 9.72; Θρῄκης 13.301 by its Book 13 note); thracians, the people (`Θρήϊκ*`), which also takes Θρηϊκίης, "Thracian", of Samos (13.13), and in Book 23 Θρηΐκιον, of the sea (23.230) and of a sword (23.808); thrace takes the Thracian sea by `refs` and the English "Thracian sea" |
 | Κύθηρα, Κυθέρεια | cythera claims `Κυθηρ*` (10.268; 15.431, 15.432, 15.438; Od. 9.81); Aphrodite's title Κυθέρεια (Od. 8.288, 18.193) is spelled with ε and is not caught |
 | Ἐλεών | eleon claims Ἐλεῶνʼ (2.500) and Ἐλεῶνος (10.266); Strabo reports an ancient reading ἐξ Ἑλεῶνος, "from Heleon", at 10.266 (9.5.18) |
-| Σάμος | samos, Odysseus' island (Σάμον, 2.634; `except: [24.753]`); samothrace claims the phrases `"Σάμου ὑληέσσης"` (13.12), `"Σάμου τε καὶ Ἴμβρου"` (24.78) and `"ἐς Σάμον ἔς τʼ Ἴμβρον"` (24.753), where Samos is named with Imbros and Lemnos; samos-ionia `except: [24.78]`; the Odyssey's Same is samos (Σάμῃ, Od. 1.246; Σάμηνδʼ, Od. 15.367, and Σάμης, Od. 16.249, will need adding) |
+| Σάμος | samos, Odysseus' island (Σάμον, 2.634; `except: [24.753]`); samothrace claims the phrases `"Σάμου ὑληέσσης"` (13.12), `"Σάμου τε καὶ Ἴμβρου"` (24.78) and `"ἐς Σάμον ἔς τʼ Ἴμβρον"` (24.753), where Samos is named with Imbros and Lemnos; samos-ionia `except: [24.78]`; the Odyssey's Same is samos (Σάμῃ, Od. 1.246; Σάμηνδʼ, Od. 15.367; Σάμης, Od. 16.249, will need adding) |
 | Ἴμβρος | imbros claims Ἴμβρου (13.33, 14.281, 24.78) and Ἴμβρον (24.753); Ἴμβριον (13.171, 13.197) is the man Imbrius, and Ἴμβριος (21.43) the adjective, which imbros' Book 21 note claims |
 | Πήδαιον | pedaeum, Imbrius' town (Πήδαιον, 13.172; `except: [5.69]`); pedaeus, Antenor's bastard son (Πήδαιον, 5.69; `except: [13.172]`) |
 | Κῶς | cos claims Κῶν and the phrase `"Κόων δʼ εὖ"` (14.255; 15.28), where the text writes Κόωνδε apart; coon `except: [14.255, 15.28]` |
@@ -885,7 +885,7 @@ Odyssey notes, whose patterns apply only within the poem; the entry forms were t
 | Βοηθοΐδης (Od. 4.31, 15.95, 15.140) | βοηθόον "to help" (Il. 13.477, 17.481) | eteoneus and boethous: `Βοηθοΐδ*` |
 | Δολίον, the slave (Od. 4.735) | δόλιον "crafty" (Od. 4.792) | dolius: `^Δολίον`; dolos: the phrase `"δόλιον περὶ κύκλον"` in its Book 4 note |
 | Ἰφθίμῃ (Od. 4.797) | ἴφθιμος "mighty" (ἰφθίμου, Od. 4.365) | iphthime: `^Ἰφθίμῃ`; mighty: `ἰφθίμου` in its Book 4 note |
-| Φαίδιμος, the Sidonian king (Od. 4.617, 15.117) | φαίδιμος "shining" | phaedimus: `^Φαίδιμος`; phaidimos `except: [Od. 4.617]` (15.117 to add) |
+| Φαίδιμος, the Sidonian king (Od. 4.617, 15.117) | φαίδιμος "shining" | phaedimus: `^Φαίδιμος`; phaidimos `except: [Od. 4.617, Od. 15.117]` |
 | Ἀδρήστη (Od. 4.123), Ἀλκάνδρη (Od. 4.126) | Ἄδρηστος, Ἀδρήστεια; Ἄλκανδρος (Il. 5.678) | adreste, alcandre: the exact forms |
 | Μέντορα (Od. 4.654–655) | mentor-father-of-imbrius' English alias "Mentor" | mentor: Μέντορα in the entry, whose Greek match takes the lines |
 | Ἑλένη, Ἑλένῃ (Od. 4.12 and after) | Ἑλένῃ, Isocrates' *Helen* (*Rhetoric* 1414b28) | helen: `Ἑλένη` in its Odyssey Book 4 note, not the entry |
@@ -1506,6 +1506,72 @@ of Zeus beside common words (ξείνιος and the guest-gift, ἴστω and th
 | τίσω "pay" (Od. 14.166, 8.356) | τίσω "honor" (Il. 9.142) | poine: its Book 14 note only |
 | οἴκαδε, the king's house (Od. 14.280) | οἴκαδε, homeward | nostos does not claim bare οἴκαδε |
 | κῆρες (Od. 14.207) | κῆρ "heart" | ker-doom: the exact form |
+
+### Odyssey, Book 15
+
+The seer's pedigree and Eumaeus' story set names beside common words (Mantius and the seer, Κτήσιος and possessions,
+Νηλέα and "pitiless") and beside their namesakes (Antiphates and the Laestrygonian king, Cleitus, Clytius, Ormenus and
+Peiraeus, Polybus of Thebes); the places of the voyage meet their namesakes and common words (the Elean Chalcis, Cruni and
+the springs, Syrie and Syria, the pointed islands and the swift ships); and the gear of house and ship meets itself (the
+necklace and the anchorage, the loom and the mast, the cup and the hip socket, the fold and the court).
+
+| Name or word | Clashes with | Entry and pattern |
+|---|---|---|
+| Ἀτρεΐδης, Ἀτρεΐδη, of Menelaus (Od. 15.52, 15.64, 15.87, 15.102, 15.121, 15.147) | Agamemnon, the son of Atreus | agamemnon `except:` the six lines; menelaus has them (by name, and by refs for 15.102 and 15.121) |
+| Ἀντιφάτην, Ἀντιφάτης, son of Melampus (Od. 15.242–243) | Antiphates, king of the Laestrygonians (Od. 10.106–199); the Trojan Antiphates (Il. 12.191) | antiphates-son-of-melampus: Ἀντιφάτης in the entry, Ἀντιφάτην in its Book 15 note; antiphates `except: [Od. 15.242]` |
+| Μάντιον, Μάντιος, the seer's grandfather (Od. 15.242, 15.249) | μάντις, a seer | mantius: `^Μάντιον`, `^Μάντιος`; divination (`μαντ*`) `except: [Od. 15.242, Od. 15.249]` |
+| Κλεῖτον, son of Mantius (Od. 15.249–250) | Cleitus son of Peisenor (Il. 15.445) | cleitus-son-of-mantius: the form in its Book 15 note; cleitus claims `"Κλεῖτον Πεισήνορος"` |
+| Νηλέα, Neleus (Od. 15.229) | νηλέα, "pitiless" (Il. 19.229) | neleus: `^Νηλέα` |
+| Φυλάκοιο, Phylacus (Od. 15.231) | Phylacus the Trojan (Il. 6.35) | phylacus: the exact form, which also takes the English "Phylacus" there from phylacus-the-trojan |
+| Ἀλκμαίων, son of Amphiaraus (Od. 15.248) | Ἀλκμάονα, son of Thestor (Il. 12.394) | alcmaeon: the exact form |
+| Κτήσιος, king of Syrie (Od. 15.414) | κτήσιος, "of possessions" (Il. 15.663; Od. 19.534) | ctesius: `^Κτήσιος` |
+| Ὀρμενίδης, son of Ormenus (Od. 15.414) | Ormenus father of Amyntor, and the Trojans named Ormenus | ctesius and ormenus-father-of-ctesius: the exact form; the alias Ormenus takes the English over ormenus-father-of-amyntor's `en` |
+| Πείραιον, Πείραιε, Πείραιος, Telemachus' companion (Od. 15.539–544) | Πειραΐδαο, Peiraeus the grandfather of Eurymedon (Il. 4.228) | peiraeus-son-of-clytius: the exact forms, never `Πείραι*`, and `en: [Peiraeus]` |
+| Κλυτίδη, son of Clytius (Od. 15.540) | Clytius the Trojan elder; Clytius father of Dolops (Il. 11.302) | clytius-father-of-peiraeus: the exact form (peiraeus-son-of-clytius has it too), and `except: [11.302]`, where its alias would tie for the English "Clytius" |
+| Πολύβοιο δαΐφρονος, father of Eurymachus (Od. 15.519) | Polybus of Thebes in Egypt (Od. 4.126) | polybus-father-of-eurymachus: the phrase; polybus-of-thebes `except: [Od. 15.519]` |
+| γυνὴ Φοίνισσʼ, Eumaeus' nurse (Od. 15.417) | Φοίνισσʼ, of the Phoenician people | the-phoenician-nurse: the phrase; phoenicians keeps `^Φοίνισσʼ` |
+| Φοίνισσʼ, Φοινίκων (Od. 15.417, 15.473) | φοῖνιξ, the palm (Od. 6.163); Φοῖνιξ, Phoenix | phoenicians: the capitalized forms `^Φοίνισσʼ`, `^Φοινίκων` |
+| εὔμηλος, "good for sheep" (Od. 15.406) | Εὔμηλος, son of Admetus (Il. 2.714; Od. 4.798) | eumelus: `^Εὔμηλ*`; sheep: εὔμηλος with `"!^Εὔμηλος"` in its Book 15 note |
+| Χαλκίδα καλλιρέεθρον, Chalcis in Elis (Od. 15.295) | Chalcis in Euboea (Il. 2.537), Chalcis in Aetolia (Il. 2.640) | chalcis-in-elis: the phrase; chalcis and chalcis-aetolia `except: [Od. 15.295]` |
+| Κρουνούς, Cruni (Od. 15.295) | κρουνούς, the springs of the Scamander (Il. 22.208) | cruni: `^Κρουνούς` |
+| Ἄργος ἐς ἱππόβοτον, Ἄργος ἀνʼ ἱππόβοτον (Od. 15.239, 15.274) | Ἄργος, Odysseus' dog | argos: the phrases, never bare Ἄργος |
+| Συρίη, Syrie (Od. 15.403) | Syria, the country; σῦριγξ, a pipe | syrie: the exact form |
+| νήσοισιν ἐπιπροέηκε θοῇσιν, the pointed islands (Od. 15.299) | θοός, "swift", of ships | the-pointed-islands: the phrase |
+| δανά, dry (Od. 15.322) | Δαναοί, the Danaans | danaans: `"!δανὰ"` |
+| εἰς ὅρμον, the anchorage (Od. 15.497; Il. 1.435) | ὅρμον, the necklace (Od. 15.460, 18.295) | harbor: `"εἰς ὅρμον"`; necklace: ὅρμον in its Book 15 note, `except: [15.497]` |
+| πρώτην ἀκτὴν, the first shore (Od. 15.36) | ἀκτή, meal | shore: the phrase in its Book 15 note |
+| αἰθέρι (Od. 15.523) | αἰθέρι ναίων, "who dwells in the upper air" | upper-air: αἰθέρι in its Book 15 note; dwelling-in-the-upper-air claims the phrase and its English |
+| ἠώς, "soon it will be dawn" (Od. 15.50) | Ἠώς, the goddess | eos: `except: [15.50]` in its Book 15 note, as at 9.56 |
+| ὅπλων ἅπτεσθαι, the tackle (Od. 2.423, 15.288) | ὅπλα, arms (Poetics 1459b5, 1461a2; Rhetoric 1387a28) | ships: the phrase in its Book 15 note |
+| ἱστόν, the loom (Od. 15.517) | ἱστόν, the mast (Od. 15.289, 15.496) | mast and loom: each `except`s the other's lines |
+| κοτύλην, the cup (Od. 15.312, 17.12) | κοτύλη, the hip socket (Il. 5.306) | cup: the form in its Book 15 note |
+| φέρον ὄφρʼ ἵκετʼ αὐλήν, the fold (Od. 15.555) | αὐλή, the court of Odysseus' house (Od. 18.101) | fold: the longer phrase in its Book 15 note |
+| ἐνὶ σταθμῷ, the farmstead (Od. 15.306) | σταθμός, a doorpost (Od. 17.340) | fold: the phrase in its Book 15 note |
+| πόσιν, drink (Od. 15.490) | πόσιν, husband | posis: `except: [15.490]` in its Book 15 note |
+| πέμψει … οὖρον, the fair wind (Od. 15.34) | πέμπω, sending a guest home | pompe: the phrase `"πέμψει δʼ ὅππη"` (15.339), never bare πέμψει |
+| ἔται, kinsmen (Od. 15.273, 4.16) | ἑταῖροι, companions | kasignetos: the exact form in its Book 15 note, as ἔτας and ἔτῃσι in its Iliad Book 6 note |
+| τιέμεν, honor (Od. 15.543 = 17.56) | τίνω, pay | time: the exact form in its Book 15 note |
+| κῆρα μέλαιναν (Od. 15.275) | μέλαιναν, of the black ships | black-ships `except: [Od. 15.275]`; black-doom claims the phrase |
+| κοίλης … μεσόδμης, the mast-box (Od. 15.289) | the hollow ships | hollow-ships `except: [Od. 15.289]` |
+| υἷε κραταιώ (Od. 15.242; Il. 13.345) | ἴφθιμος, mighty; μοῖρα κραταιή (mighty-fate) | krateros: the exact form κραταιώ |
+| καρτεροί, "powerful" (Od. 15.534) | κρείων, powerful | krateros: the form and its English in its Book 15 note |
+| οὐλομένης, "ruinous" (Od. 15.344, 4.92) | οὐλομένης ἐμέθεν, "ruined as I am" (Od. 18.273) | deadly: the form in its Book 15 note; 18.273 to be excepted with Book 18 |
+| βροτῶν ὄχʼ ἄριστον, the seer (Od. 15.253) | βροτῶν ὄχʼ ἄριστος ἁπάντων, Odysseus (Od. 13.297) | best-of-bird-seers: the accusative phrase in its Book 15 note |
+| Ἤλιδα δῖαν, shining Elis (Od. 15.298) | δῖαν, of the shining sea | shining-sea `except: [Od. 15.298]`, as at 13.275; brilliant's Book 13 note claims the phrase |
+| ἀργὴν χῆνα, the white goose (Od. 15.161) | ἀργός, "swift", of dogs | white: ἀργήν in its Book 15 note; swift-dogs keeps `"κύνας ἀργούς"` |
+| διοτρεφές, "nurtured by Zeus" (Od. 15.64, 15.87, 15.155, 15.167, 15.199) | Zeus, the name in the English | zeus-nurtured: `en: [nurtured by Zeus]` in the entry, as sprung-from-zeus and son-of-cronus |
+| εὐχόμεθʼ, εὔχομαι, "claim to be" (Od. 15.196, 15.425) | εὔχομαι, "pray" | prayer: `except: [15.196, 15.425]` in its Book 15 note |
+| ἀγορεύεις and the other forms of ἀγορεύω, speak (Od. 15.155, 15.266, 15.352, 15.493) | ἀγορή, the assembly | assembly (`ἀγορ*`): its Book 15 note excepts the four lines and claims θῶκον (15.468) |
+| ἀγγελίην, news (Od. 15.41, 15.314) | an embassy | embassy: `except: [Od. 15.41, Od. 15.314]` |
+| ἀμφεπένοντο, "attended on" (Od. 15.467) | tending a wound | healing: `except: [Od. 15.467]` |
+| δέδασται, "is divided" (Od. 15.412) | the division of the spoils | division-of-spoils: `except: [Od. 15.412]` |
+| θῦε δʼ Ἀθήνῃ, sacrificed (Od. 15.222) | θῦε, "seethed" (Od. 13.85, 22.309) | sacrifice: the phrase in its Book 15 note, never bare θῦε |
+| ξενίων, good cheer (Od. 15.514, 15.546) | ξεινήϊα, the guest-gifts | xenia: the form in its Book 15 note; guest-gifts takes the gifts only |
+| ὡς εἰναλίη κήξ (Od. 15.479) | ἐνδούπησα, Odysseus' fall into the sea (Od. 12.443) | like-a-sea-bird: the half-verse only |
+| πέλειαν, the dove (Od. 15.527, 20.243) | πέλει, "is" | doves: the exact form in its Book 15 note, never πελει* |
+| φώκῃσι, seals (Od. 15.480) | Φωκῆες, the Phocians | seals: exact forms, never φωκ* |
+| εἵλετο δʼ ἄλκιμον ἔγχος, ending a dressing scene (Od. 15.551) | the arming scene | arming-scene keeps the line, with a note (as at Od. 1.99) |
+| ὁ δʼ ἐδέξατο χαίρων, a gift received (Od. 15.130) | the prizes of the games (Il. 23.624, 23.797) | contest-scene keeps the line, with a note (as at 14.499) |
 
 ## Aristotle's Poetics
 

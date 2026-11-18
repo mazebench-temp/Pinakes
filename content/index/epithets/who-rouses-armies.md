@@ -5,7 +5,7 @@ kind: epithet
 tags: [divine-epithet, heroic-epithet, warfare]
 summary: “Rousing the host,” an epithet of the gods who drive armies into battle, Athena, Ares, Strife and Apollo; in the Odyssey and the Hesiodic Shield it is also given to heroes.
 aliases: [laossoos, rouser of the host, rouser of armies]
-grc: [λαοσσόος]
+grc: [λαοσσόος, λαοσσόον]
 en: [who rouses armies]
 of: [athena, ares, strife, apollo]
 ---

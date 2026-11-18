@@ -1,0 +1,7 @@
+---
+summary: Unnamed in the book, she is the woman whose gifts sent Amphiaraus to his death at Thebes: “but perished at Thebes, for the sake of gifts to a woman” (15.247).
+# Ἐριφύλ* is not in the book. Unnamed: "for the sake of gifts to a woman" (15.247).
+refs: [15.247]
+---
+
+In the pedigree of the seer [[theoclymenus|Theoclymenus]], Amphiaraus, whom Zeus and Apollo loved, “did not reach the threshold of old age, / but perished at Thebes, for the sake of gifts to a woman” (15.246–247; see [[amphiaraus]], [[thebes]] and [[the-seven-against-thebes]]). γυναίων εἵνεκα δώρων is the half-verse of the Ceteians who died with Eurypylus (11.521; D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.247), and the gifts are the gold of the catalogue of heroines, where “hateful Eriphyle … took precious gold as the price of her own husband” (11.326–327; see [[hateful]]). Monro uses the verse to explain the other: Amphiaraus was forced to take part in the war of Thebes, in which he fell, “because of the necklace given to his wife Eriphyle”, and so, the scholia report from Acusilaus, Priam sent a golden vine to Astyoche, the mother of Eurypylus, to persuade her to send her son to the aid of the Trojans (Monro, Appendix III §6; see [[eurypylus-son-of-telephus]]). The verse names the woman's gifts and not the woman, and her son's vengeance is left out (15.248; see [[alcmaeon]] and [[alcmaeon-kills-eriphyle]]).

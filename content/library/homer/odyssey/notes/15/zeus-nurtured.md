@@ -1,0 +1,5 @@
+---
+summary: Telemachus takes leave of Menelaus in the verse of address of Book 4, “Menelaus, son of Atreus, nurtured by Zeus, leader of the people” (15.64, 15.87), and answers his farewell, “Yes, truly, nurtured by Zeus” (15.155); Peisistratus asks him to read the omen, “Consider now, Menelaus, nurtured by Zeus, leader of the people” (15.167); and Telemachus asks Peisistratus, “Do not take me past the ship, you who are nurtured by Zeus” (15.199).
+---
+
+The whole verse is the Iliad's, spoken there once, by Euphorbus as he faces Menelaus over the body of Patroclus (*Iliad* 17.11–13), and three times at Sparta in Book 4 (4.156, 4.291, 4.316; see [[son-of-atreus]] and [[leader-of-men]]); at 15.167 φράζεο δή takes the place of the patronymic. At 15.199 the title of kings is given to a king's son, in the half-verse with which Eurylochus begged Odysseus to leave him at the ship, “Do not lead me there against my will, you who are nurtured by Zeus, but leave me here” (10.266): Telemachus begs to be left at his own ship, “lest the old man keep me in his house against my will / in his eagerness to make me welcome” (15.199–201; see [[peisistratus]] and [[xenia]]).

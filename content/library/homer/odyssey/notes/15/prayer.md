@@ -1,0 +1,15 @@
+---
+summary: At Pylos Telemachus prays and sacrifices to Athena beside the stern of his ship, and there the fugitive seer finds him “pouring libations and praying” (15.222–223, 15.257–258); he answers Helen's reading of the eagle with Odysseus' vow to Nausicaa, that he would pray to her as to a god (15.180–181); and Laertes, Eumaeus says, prays to Zeus always that his spirit may perish in his halls (15.353–354). The blessings in Zeus' name at parting are wishes in the form of prayer (15.111–112, 15.341).
+# εὐχόμεθʼ (15.196), "We claim to be guest-friends", and εὔχομαι (15.425), the nurse's "I claim to be from Sidon",
+# are "claim" (euchomai keeps them).
+except: [15.196, 15.425]
+en: [praying, prays]
+---
+
+**At the stern.** While his companions go aboard at Pylos, Telemachus “was busy with these things, and was praying and sacrificing to Athena / beside the stern of the ship” (15.222–223; see [[sacrifice]] and [[athena]]). The prayer at departure answers the one at arrival, when he came ashore at Pylos on a sacrifice to Poseidon and prayed with the cup in his hand (3.4–9, 3.43–64; see [[the-sacrifice-at-pylos]]). It is the goddess who sent him home and who now sends the wind (15.292; see [[the-winds]]). There the seer comes upon him: “and he found him / pouring libations and praying beside the swift black ship”, and begs him “by the burnt offerings and by the god” (15.257–261; see [[libation]], [[supplication]] and [[theoclymenus]]).
+
+**As to a god.** When Helen has read the eagle as Odysseus' return and revenge, Telemachus answers in the verses with which Odysseus took leave of Nausicaa: “So may Zeus now grant it, the loud-thundering husband of Hera; / then even there I would pray to you as to a god” (15.180–181 = 8.465, 8.467; see [[helen]] and [[the-omen-of-the-eagle-and-the-goose]]). The wish is put to Zeus with his titles, and the promise of worship is made to a woman. Menelaus' farewell had the same form, “may Zeus bring it to pass for you, the loud-thundering husband of Hera” (15.111–112; see [[husband-of-hera]]), and in the hut the stranger blesses his host with the wish of the night before, that Eumaeus might be as dear to father Zeus as he is to him (15.341 = 14.440; see [[nothing-worse-than-wandering]]).
+
+**Laertes.** Eumaeus' first news of the house is a prayer for death: “Laertes still lives, but he prays to Zeus always / that his spirit may perish from his limbs in his own halls” (15.353–354; see [[laertes]] and [[thanatos]]). He mourns for his son and for his wife, whose death “brought him to old age before its time” (15.355–357; see [[anticleia]] and [[lament]]). The prayer is not answered: in the last book Odysseus finds him alive, working in his orchard (24.226–231, a plain rendering).
+
+**Claim.** εὔχομαι has its other sense twice in the book: Telemachus tells Peisistratus “We claim to be guest-friends without end / from our fathers' friendship” (15.196–197; see [[xenia]]), and the Phoenician nurse tells her lover “I claim to be from Sidon, rich in bronze” (15.425; see [[sidon]], [[euchomai]] and [[the-phoenician-nurse]]).

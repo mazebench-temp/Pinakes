@@ -5,8 +5,9 @@ kind: people
 tags: [achaean]
 summary: One of Homer's three names for the Greeks at Troy, used interchangeably with [[Achaeans]] and [[Argives]].
 aliases: [Danaoi]
-# Δανάης at 14.319 is Danae, mother of Perseus. ξύλα δανά, "dry wood" (Od. 15.322), will need "!δανὰ" with Book 15.
-grc: [Δανα*, "!Δαναός", "!Δανάη*"]
+# Δανάης at 14.319 is Danae, mother of Perseus. ξύλα δανά, "dry wood" (Od. 15.322), the only δανά in Homer, is
+# excluded by "!δανὰ".
+grc: [Δανα*, "!Δαναός", "!Δανάη*", "!δανὰ"]
 en: [Danaans]
 ---
 

@@ -1,0 +1,6 @@
+---
+summary: Hera is named only in Zeus' title, twice at Sparta: Menelaus prays that Zeus, “the loud-thundering husband of Hera”, may bring Telemachus home (15.112), and Telemachus answers Helen's reading of the omen with the same title (15.180).
+# The entry claims Ἥρης (15.112, 15.180).
+---
+
+**The husband of Hera.** Menelaus' farewell wish, “may Zeus bring it to pass for you, the loud-thundering husband of Hera” (15.112), and Telemachus' answer to Helen, “So may Zeus now grant it, the loud-thundering husband of Hera” (15.180 = 8.465), end in the title that closes oaths and wishes in both poems (*Iliad* 7.411, 10.329, 16.88; see [[husband-of-hera]], [[loud-thundering]], the Book 8 note and the Book 15 note on [[zeus]]). These three verses of the Odyssey are its only uses of ἐρίγδουπος, “loud-thundering”, and they are all of Zeus; the same book has the other form of the word, ἐρίδουπος, for the colonnade that rings as the chariot drives out (15.146, 15.191; see [[loud-resounding]]). D. B. Monro counts the pair among the differences of vocabulary between the poems: ἐρίδουπος is commoner in the Odyssey, while “the older ἐρίγδουπος is commoner in the Iliad” (*Homer's Odyssey, Books XIII–XXIV*, 1901, Appendix II §4).

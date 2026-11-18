@@ -5,8 +5,8 @@ kind: epithet
 tags: [weapon, rare-word]
 summary: “Of good bronze, fitted with bronze,” an epithet of weapons and vessels: a helmet, an axe, a spear, tripods.
 aliases: [euchalkos, of good bronze, bronze-fitted]
-grc: [εὐχάλκου]
-en: [bronze]
+grc: [εὐχάλκου, εὐχάλκων]
+en: [bronze, of good bronze]
 of: [bronze]
 ---
 

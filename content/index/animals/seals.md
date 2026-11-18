@@ -3,15 +3,15 @@ title: Seals
 greek: φώκη
 kind: animal
 tags: [sea, wild-animal]
-summary: The seal, φώκη, a beast of the sea that comes ashore to sleep. Homer names seals only in the Odyssey, as the flock of Proteus, the Old Man of the Sea, who comes up with them at midday and counts them like a herdsman, and once as the eaters of the drowned.
+summary: The seal, φώκη, a beast of the sea that comes ashore to sleep. Homer names seals only in the Odyssey, as the flock of Proteus, the Old Man of the Sea, who comes up with them at midday and counts them like a herdsman, and once as the eaters of a body thrown into the sea.
 aliases: [seal, phoke, sealskins]
-# The forms of Odyssey 4 (4.404-451); φώκῃσι (15.480) is to be added with Book 15. Not a stem: Φωκ- is also the
-# Phocians (Φωκήων, Il. 2.517, 2.525, 15.516, 17.307).
-grc: [φῶκαι, φώκας, φωκάων]
+# The forms of Odyssey 4 (4.404-451) and φώκῃσι (Od. 15.480), the seven in Homer. Not a stem: Φωκ- is also the
+# Phocians (Φωκήων, Il. 2.517, 2.525, 15.516, 17.307; Φωκεῖς, Rhetoric 1398a1).
+grc: [φῶκαι, φώκας, φωκάων, φώκῃσι]
 en: [seals]
 ---
 
-φώκη is the seal. Homer names it seven times, all in the Odyssey: six times in Menelaus' tale of Proteus (*Odyssey* 4.404–450), and once in the swineherd's story of his childhood, where the Phoenician woman who stole him from his father's house dies on the voyage and is thrown overboard to become the prey of seals and fishes (*Odyssey* 15.477–481, a plain rendering; see [[fish]] and [[eumaeus]]).
+φώκη is the seal. Homer names it seven times, all in the Odyssey: six times in Menelaus' tale of Proteus (*Odyssey* 4.404–450), and once in the swineherd's story of his childhood, where the Phoenician woman who stole him from his father's house dies on the voyage and is thrown overboard “to become a spoil for seals and fish” (*Odyssey* 15.477–481; see [[fish]], [[eumaeus]], [[like-a-sea-bird]], [[the-kidnapping-of-eumaeus]] and [[the-phoenician-nurse]]).
 
 ## Descriptions
 

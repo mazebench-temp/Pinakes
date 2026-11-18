@@ -5,7 +5,7 @@ kind: epithet
 tags: [livestock, thessaly]
 summary: “Mother of flocks,” an epithet of lands rich in sheep: Iton in Thessaly in the Catalogue, and later Phthia, Thrace and Pylos.
 aliases: [meter melon, mother of sheep]
-grc: [μητέρα μήλων]
+grc: [μητέρα μήλων, "μητέρι μήλων"]
 en: [mother of flocks]
 of: [iton, phthia]
 ---

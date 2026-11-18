@@ -1,0 +1,6 @@
+---
+summary: The meal before the parting at Sparta, in the verses of the guest's meal: the seats, the water for the hands, the bread, the meat divided by Eteoneus and the wine poured by Megapenthes (15.133–143); the supper in the hut (15.301–303); and the meal on the shore of Ithaca (15.500–501).
+refs: [15.76-77, 15.93-98, 15.133-143, 15.301-303, 15.500-501]
+---
+
+Menelaus orders a meal “from the plenty within” before the guests go, since to dine before a journey brings “both, glory and splendor and a blessing too” (15.76–79, 15.93–94): ἀμφότερον is adverbial, the feast both an honor and a benefit (D. B. Monro, *Homer's Odyssey, Books XIII–XXIV*, 1901, on 15.78; Aristarchus obelized 15.78–85: see the translation's note). The service is divided among the household: Eteoneus, the son of Boethous, kindles the fire, roasts the meat and divides the portions, and the king's son pours the wine (15.95–98, 15.140–141; see [[eteoneus]], [[megapenthes]] and [[cupbearing]]). The verses of the guest's meal and of its end are those of Book 1 (15.135–139 = 1.136–140, 15.142–143 = 1.149–150; see [[water-for-the-hands]] and [[desire-for-drink-and-food]]). In the hut the supper is told in two verses and the verse of its end (15.301–303), and the talk runs on through the night (see [[a-time-for-many-words]]).

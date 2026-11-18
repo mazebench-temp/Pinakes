@@ -9,7 +9,8 @@ grc: [ἱστὸν]
 # ἱστόν at 23.852 is the mast of a ship, set up as a target for the archers.
 # ἱστόν at Od. 8.52 is the mast of the Phaeacian ship (mast).
 # ἱστὸν at Od. 14.311 is the mast of the beggar's tale (mast).
-except: [1.434, 1.480, 23.852, Od. 2.424, Od. 4.781, Od. 5.254, Od. 5.316, Od. 8.52, Od. 9.322, Od. 10.506, Od. 11.3, Od. 12.402, Od. 12.422, Od. 12.424, Od. 12.438, Od. 14.311]
+# ἱστὸν at Od. 15.289 and 15.496 is the mast of Telemachus' ship (mast); 15.517 is Penelope's loom.
+except: [1.434, 1.480, 23.852, Od. 2.424, Od. 4.781, Od. 5.254, Od. 5.316, Od. 8.52, Od. 9.322, Od. 10.506, Od. 11.3, Od. 12.402, Od. 12.422, Od. 12.424, Od. 12.438, Od. 14.311, Od. 15.289, Od. 15.496]
 en: [loom]
 ---
 

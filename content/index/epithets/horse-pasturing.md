@@ -5,7 +5,7 @@ kind: epithet
 tags: [peloponnese, livestock]
 summary: “Where horses graze,” the standing epithet of [[Argos]], and in the Odyssey of Elis.
 aliases: [horse-rearing, hippobotos]
-grc: [ἱπποβότοιο]
+grc: [ἱπποβότοιο, ἱππόβοτον]
 en: [horse-pasturing]
 of: [argos]
 ---
